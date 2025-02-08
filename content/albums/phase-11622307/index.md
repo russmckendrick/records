@@ -4,6 +4,7 @@ artist_name: "Mildlife"
 artist: "mildlife"
 album_name: "Phase"
 date: 2018-12-28T17:38:47.000000Z
+release_date: "2017-11-02"
 release_id: "11622307"
 slug: "phase-11622307"
 hideSummary: true
@@ -22,25 +23,25 @@ styles: ["Jazz-Funk"]
 
 Phase is the debut studio album by Australian psychedelic jazz fusion group, Mildlife. The album was released 2 November 2017.
 At the 2018 Worldwide FM Awards, the album won Best Album. At the Music Victoria Awards of 2018, the album was nominated for Best Soul, Funk, R'n'B and Gospel Album.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Magnificent Moon (8:52)
-2. Zwango Zop (4:49)
-3. Im Blau (7:08)
-4. Phase (6:19)
-5. Two Horizons (6:04)
-6. The Gloves Don't Bite (6:47)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Magnificent Moon | 8:52 |
+| A2 | Zwango Zop | 4:49 |
+| A3 | Im Blau | 7:08 |
+| B1 | Phase | 6:19 |
+| B2 | Two Horizons | 6:04 |
+| B3 | The Gloves Don't Bite | 6:47 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/phase/1676185074" >}}<br>
 
-
-## Videos
-### Mildlife - Phase Full Album
-{{< youtube id="BsL4xLKKmWA" title="Mildlife - Phase Full Album" >}}<br>
 
 
 ## Release Images
@@ -53,5 +54,5 @@ At the 2018 Worldwide FM Awards, the album won Best Album. At the Music Victoria
 | Format         | Vinyl LP Album |
 | Label          | Research Records |
 | Catalog Number | RESEARCH02 |
-| Notes | First pressing, edition of 1000. First 400 orders include one of four Mildlife trading cards.  This pressing has been re-cut on October 1, 2018.  Research Records 2018 |
+| Notes | First pressing, edition of 1000.<br>First 400 orders include one of four Mildlife trading cards. <br>This pressing has been re-cut on October 1, 2018.<br><br>Research Records 2018 |
 | Discogs URL    | [Mildlife - Phase](https://www.discogs.com/release/11622307-Mildlife-Phase) |

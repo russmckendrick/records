@@ -4,6 +4,7 @@ artist_name: "TV On The Radio"
 artist: "tv-on-the-radio"
 album_name: "Desperate Youth, Blood Thirsty Babes"
 date: 2024-11-16T05:37:04.000000Z
+release_date: "2004-03-09"
 release_id: "32279727"
 slug: "desperate-youth-blood-thirsty-babes-32279727"
 hideSummary: true
@@ -33,44 +34,35 @@ Desperate Youth, Blood Thirsty Babes is the 2004 debut album by the American art
 As of 2009, sales in the United States have exceeded 116,000 copies, according to Nielsen SoundScan.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Wrong Way (4:36)
-2. Dreams (5:09)
-3. King Eternal (4:24)
-4. Ambulance (4:54)
-5. Poppy (6:07)
-6. Don't Love You (5:29)
-7. Bomb Yourself (5:33)
-8. Wear You Out (7:17)
-9. Staring At The Sun (3:27)
-10. You Could Be Love (7:18)
-11. Staring At The Sun (Demo) (6:13)
-12. New Health Rock (Single) (4:01)
-13. Modern Romance (NHR Single) (4:09)
-14. Final Fantasy (3:14)
-15. Dry Drunk Emperor (6:47)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Wrong Way | 4:36 |
+| A2 | Dreams | 5:09 |
+| A3 | King Eternal | 4:24 |
+| A4 | Ambulance | 4:54 |
+| B1 | Poppy | 6:07 |
+| B2 | Don't Love You | 5:29 |
+| B3 | Bomb Yourself | 5:33 |
+| B4 | Wear You Out | 7:17 |
+| C1 | Staring At The Sun | 3:27 |
+| C2 | You Could Be Love | 7:18 |
+| D1 | Staring At The Sun (Demo) | 6:13 |
+| D2 | New Health Rock (Single) | 4:01 |
+| D3 | Modern Romance (NHR Single) | 4:09 |
+| D4 | Final Fantasy | 3:14 |
+| D5 | Dry Drunk Emperor | 6:47 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/desperate-youth-blood-thirsty-babes/1117724434" >}}<br>
 
 
-## Videos
-### Staring at the Sun by TV on the Radio
-{{< youtube id="oHrTOQ18yzU" title="Staring at the Sun by TV on the Radio" >}}<br>
-### More Videos
-
-- [The Wrong Way](https://www.youtube.com/watch?v=PwmikMwwwEo)
-- [Ambulance](https://www.youtube.com/watch?v=vRgLVHjVgSY)
-- [Wear You Out](https://www.youtube.com/watch?v=eMEXdP3-fRE)
-- [Dreams](https://www.youtube.com/watch?v=shPHlFp-qJ4)
-- [Poppy](https://www.youtube.com/watch?v=zp7E57cXVeA)
-- [Bomb Yourself](https://www.youtube.com/watch?v=7Q-jFbXAfEY)
-- [King Eternal](https://www.youtube.com/watch?v=7yTO1DeNhl4)
-- [Dont Love You](https://www.youtube.com/watch?v=PW4PWweeVvo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +74,5 @@ As of 2009, sales in the United States have exceeded 116,000 copies, according t
 | Format         | Vinyl 2× LP Limited Edition Reissue (Red, 180g) |
 | Label          | Touch And Go |
 | Catalog Number | tg415 |
-| Notes | 20th anniversary edition. Limited edition of 2500. 180 gram red 2xLP in gatefold LP jacket with color inner sleeves. Includes five bonus tracks.  Sides A-C mastered... at Sterling Sound  Recorded August/Sept at Hickory Lane Additional recording and mixing at Headgear Productions  ©2004 Stunzeed Music / BMG Monarch / Hipgnosis Side A (ASCAP) except Modern Romance ©2003 BMG (BMI) ©&℗ 2004, 2024 touch and go records  Modern Romance: © BMG Rights Management (BMI) |
+| Notes | 20th anniversary edition.<br>Limited edition of 2500.<br>180 gram red 2xLP in gatefold LP jacket with color inner sleeves. Includes five bonus tracks.<br><br>Sides A-C mastered... at Sterling Sound<br><br>Recorded August/Sept at Hickory Lane<br>Additional recording and mixing at Headgear Productions<br><br>©2004 Stunzeed Music / BMG Monarch / Hipgnosis Side A (ASCAP) except Modern Romance ©2003 BMG (BMI) ©&℗ 2004, 2024 touch and go records<br><br>Modern Romance: © BMG Rights Management (BMI) |
 | Discogs URL    | [TV On The Radio - Desperate Youth, Blood Thirsty Babes](https://www.discogs.com/release/32279727-TV-On-The-Radio-Desperate-Youth-Blood-Thirsty-Babes) |

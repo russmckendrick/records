@@ -60,67 +60,30 @@ The Edge: “What's fun is to hear things like 'City of Blinding Lights', which 
 
 
 ## Tracklisting
-1. One (3:36)
-2. Where The Streets Have No Name (4:17)
-3. Stories For Boys (2:51)
-4. Walk On (Ukraine) (4:07)
-5. Pride (In The Name Of Love) (3:57)
-6. City Of Blinding Lights (4:55)
-7. Ordinary Love (3:13)
-8. Invisible (4:23)
-9. Vertigo (3:29)
-10. I Still Haven't Found What I'm Looking For (4:15)
-11. The Fly (4:02)
-12. If God Will Send His Angels (5:15)
-13. Stay (Faraway, So Close) (5:03)
-14. Sunday Bloody Sunday (4:13)
-15. I Will Follow (3:40)
-16. "40" (3:03)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | One | 3:36 |
+| A2 | Where The Streets Have No Name | 4:17 |
+| A3 | Stories For Boys | 2:51 |
+| A4 | Walk On (Ukraine) | 4:07 |
+| B1 | Pride (In The Name Of Love) | 3:57 |
+| B2 | City Of Blinding Lights | 4:55 |
+| B3 | Ordinary Love | 3:13 |
+| B4 | Invisible | 4:23 |
+| C1 | Vertigo | 3:29 |
+| C2 | I Still Haven't Found What I'm Looking For | 4:15 |
+| C3 | The Fly | 4:02 |
+| C4 | If God Will Send His Angels | 5:15 |
+| D1 | Stay (Faraway, So Close) | 5:03 |
+| D2 | Sunday Bloody Sunday | 4:13 |
+| D3 | I Will Follow | 3:40 |
+| D4 | "40" | 3:03 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songs-of-surrender/1664119641" >}}<br>
 
 
-## Videos
-### One Songs Of Surrender
-{{< youtube id="-9P-S7gBess" title="One Songs Of Surrender" >}}<br>
-### More Videos
-
-- [Sunday Bloody Sunday Songs Of Surrender](https://www.youtube.com/watch?v=bMg_Qpk0Mbo)
-- [Two Hearts Beat As One Songs Of Surrender](https://www.youtube.com/watch?v=m9Gp7sTKV8U)
-- [Where The Streets Have No Name Songs Of Surrender](https://www.youtube.com/watch?v=Id3P3o8zO_s)
-- [Stories For Boys Songs Of Surrender](https://www.youtube.com/watch?v=van5d8BUiZ4)
-- [Out Of Control Songs Of Surrender](https://www.youtube.com/watch?v=cQujKmaa2I4)
-- [Beautiful Day Songs Of Surrender](https://www.youtube.com/watch?v=Rs_khkPBnDk)
-- [Bad Songs Of Surrender](https://www.youtube.com/watch?v=yKsnqlwpl_o)
-- [Every Breaking Wave Songs Of Surrender](https://www.youtube.com/watch?v=mKVUqFuY0Eg)
-- [Walk On Ukraine Songs Of Surrender](https://www.youtube.com/watch?v=kioYCUUidPY)
-- [U2 - Pride In The Name Of Love Songs Of Surrender  Lyric Video](https://www.youtube.com/watch?v=thmcVMobt0s)
-- [Whos Gonna Ride Your Wild Horses Songs Of Surrender](https://www.youtube.com/watch?v=cVllszwqgE4)
-- [Stuck In A Moment You Cant Get Out Of Songs Of Surrender](https://www.youtube.com/watch?v=EOQdLEhickM)
-- [Red Hill Mining Town Songs Of Surrender](https://www.youtube.com/watch?v=KM156Yde7Mg)
-- [Ordinary Love Songs Of Surrender](https://www.youtube.com/watch?v=AUYkU0UrGYQ)
-- [Sometimes You Cant Make It On Your Own Songs Of Surrender](https://www.youtube.com/watch?v=-xb0U0M_HC4)
-- [Dirty Day Songs Of Surrender](https://www.youtube.com/watch?v=rtI-fJdZrT4)
-- [The Miracle Of Joey Ramone Songs Of Surrender](https://www.youtube.com/watch?v=w46EjyJxfyA)
-- [City Of Blinding Lights Songs Of Surrender](https://www.youtube.com/watch?v=cTeEL2IMcj8)
-- [Vertigo Songs Of Surrender](https://www.youtube.com/watch?v=LSoOILF1j28)
-- [I Still Havent Found What Im Looking For Songs Of Surrender](https://www.youtube.com/watch?v=ZiYrePlWvv4)
-- [The Fly Songs Of Surrender](https://www.youtube.com/watch?v=bL5vydYvgYY)
-- [If God Will Send His Angels Songs Of Surrender](https://www.youtube.com/watch?v=UjzgqOuYNhQ)
-- [Desire Songs Of Surrender](https://www.youtube.com/watch?v=0PnK7IwSvEg)
-- [Until The End Of The World Songs Of Surrender](https://www.youtube.com/watch?v=8sYeBP7Jx3Q)
-- [Song For Someone Songs Of Surrender](https://www.youtube.com/watch?v=q4KVjRg9wnw)
-- [All I Want Is You Songs Of Surrender](https://www.youtube.com/watch?v=7XJjMxLTrHw)
-- [Peace On Earth Songs Of Surrender](https://www.youtube.com/watch?v=tQaS0V-TXLw)
-- [With Or Without You Songs Of Surrender](https://www.youtube.com/watch?v=B6dvvpKZYh8)
-- [Stay Faraway So Close Songs Of Surrender](https://www.youtube.com/watch?v=pJjKAM-4anQ)
-- [Lights Of Home Songs Of Surrender](https://www.youtube.com/watch?v=SxbMuxatFCE)
-- [Cedarwood Road Songs Of Surrender](https://www.youtube.com/watch?v=BYN_tqIFPc0)
-- [I Will Follow Songs Of Surrender](https://www.youtube.com/watch?v=wlcAgKQ7bTA)
-- [Miracle Drug Songs Of Surrender](https://www.youtube.com/watch?v=XfkUf0klVfs)
-- [The Little Things That Give You Away Songs Of Surrender](https://www.youtube.com/watch?v=t-A0v1O7E5M)
-- [40 Songs Of Surrender](https://www.youtube.com/watch?v=5ba4RqOY0Ck)
 
 ## Release Images
 {{< imageGrid >}}
@@ -132,5 +95,5 @@ The Edge: “What's fun is to hear things like 'City of Blinding Lights', which 
 | Format         | Vinyl 2× LP Limited Edition (Orange Translucent, 180g) |
 | Label          | Island Records |
 | Catalog Number | 5503448 |
-| Notes | 16 new acoustic & reimagined recordings from the U2 catalogue. Limited Edition Amazon Exclusive Translucent Orange 2 LP. Pressed on 180-gram vinyl with 4-page insert featuring liner notes from The Edge.  On sleeve printed "Made in EU". Sticker on cellophane reads "Made in Germany". |
+| Notes | 16 new acoustic & reimagined recordings from the U2 catalogue.<br>Limited Edition Amazon Exclusive Translucent Orange 2 LP. Pressed on 180-gram vinyl with 4-page insert featuring liner notes from The Edge.<br><br>On sleeve printed "Made in EU". Sticker on cellophane reads "Made in Germany". |
 | Discogs URL    | [U2 - Songs Of Surrender](https://www.discogs.com/release/26446712-U2-Songs-Of-Surrender) |

@@ -4,6 +4,7 @@ artist_name: "Brad"
 artist: "brad"
 album_name: "In The Moment That You're Born"
 date: 2023-08-19T02:02:11.000000Z
+release_date: "2023-07-28"
 release_id: "27812124"
 slug: "in-the-moment-that-you-re-born-27812124"
 hideSummary: true
@@ -25,22 +26,27 @@ styles: ["Alternative Rock", "Grunge"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. In The Moment That You're Born
-2. Pieces Of Sky In My Hand
-3. Straight To The Hoop
-4. Stars N You
-5. Meadow In Autumn
-6. Take Me Back Home
-7. Without Guns
-8. Hey Now What's The Problem?
-9. I'm Diggin You
-10. Simple Subtraction
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | In The Moment That You're Born |  |
+| A2 | Pieces Of Sky In My Hand |  |
+| A3 | Straight To The Hoop |  |
+| A4 | Stars N You |  |
+| A5 | Meadow In Autumn |  |
+| B1 | Take Me Back Home |  |
+| B2 | Without Guns |  |
+| B3 | Hey Now What's The Problem? |  |
+| B4 | I'm Diggin You |  |
+| B5 | Simple Subtraction |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-the-moment-that-youre-born/1682510716" >}}<br>
-
 
 
 
@@ -53,5 +59,5 @@ styles: ["Alternative Rock", "Grunge"]
 | Format         | Vinyl LP Album Limited Edition (Pink) |
 | Label          | Loosegroove Records |
 | Catalog Number | LGR0013 |
-| Notes | Indie exclusive on pink vinyl.  B4 titled "I'm Diggin U" on jacket and "I'm Diggin You" on label. |
+| Notes | Indie exclusive on pink vinyl.<br><br>B4 titled "I'm Diggin U" on jacket and "I'm Diggin You" on label. |
 | Discogs URL    | [Brad - In The Moment That You're Born](https://www.discogs.com/release/27812124-Brad-In-The-Moment-That-Youre-Born) |

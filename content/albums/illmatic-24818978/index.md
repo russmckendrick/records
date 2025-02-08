@@ -37,30 +37,26 @@ The only person who gets a guest verse on the effort is AZ (“Life’s a Bitch�
 
 
 ## Tracklisting
-1. 40 Side North
-2. The Genesis (1:45)
-3. N.Y. State Of Mind (4:53)
-4. Life's A Bitch (3:29)
-5. The World Is Yours (4:50)
-6. Halftime (4:20)
-7. 41st Side South
-8. Memory Lane (Sittin' In Da Park) (4:07)
-9. One Love (5:24)
-10. One Time 4 Your Mind (3:18)
-11. Represent (4:13)
-12. It Ain't Hard To Tell (3:22)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | 40 Side North |  |
+| A1 | The Genesis | 1:45 |
+| A2 | N.Y. State Of Mind | 4:53 |
+| A3 | Life's A Bitch | 3:29 |
+| A4 | The World Is Yours | 4:50 |
+| A5 | Halftime | 4:20 |
+|  | 41st Side South |  |
+| B1 | Memory Lane (Sittin' In Da Park) | 4:07 |
+| B2 | One Love | 5:24 |
+| B3 | One Time 4 Your Mind | 3:18 |
+| B4 | Represent | 4:13 |
+| B5 | It Ain't Hard To Tell | 3:22 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/illmatic/662324135" >}}<br>
 
 
-## Videos
-### Nas - It Aint Hard to Tell Official HD Video
-{{< youtube id="3hOZaTGnHU4" title="Nas - It Aint Hard to Tell Official HD Video" >}}<br>
-### More Videos
-
-- [Nas - Halftime Official Video - Explicit](https://www.youtube.com/watch?v=HCDYgZM5yq0)
-- [Nas - The World Is Yours Official HD Video](https://www.youtube.com/watch?v=e5PnuIRnJW8)
 
 ## Release Images
 {{< imageGrid >}}

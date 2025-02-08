@@ -4,6 +4,7 @@ artist_name: "The Mountain Goats"
 artist: "the-mountain-goats"
 album_name: "In League With Dragons"
 date: 2019-04-27T12:02:19.000000Z
+release_date: "2019-04-26"
 release_id: "13531986"
 slug: "in-league-with-dragons-13531986"
 hideSummary: true
@@ -21,37 +22,34 @@ styles: ["Indie Rock", "Folk Rock", "Country Rock"]
 In League With Dragons is the seventeenth studio album by the Mountain Goats, released on April 26, 2019, on Merge Records. Inspired by tabletop role-playing games such as Dungeons & Dragons, the album has been described as a "partial rock opera" with influences from noir literature.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Done Bleeding
-2. Younger
-3. Passaic 1975
-4. Clemency for The Wizard King
-5. Possum By Night
-6. In League With Dragons
-7. Doc Gooden
-8. Going Invisible 2
-9. Waylon Jennings Live!
-10. Cadaver Sniffing Dog
-11. An Antidote for Strychnine
-12. Sicilian Crest
-13. Sentries In The Ambush
-14. Divided Sky Lane
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Done Bleeding |  |
+| A2 | Younger |  |
+| A3 | Passaic 1975 |  |
+| B1 | Clemency for The Wizard King |  |
+| B2 | Possum By Night |  |
+| B3 | In League With Dragons |  |
+| C1 | Doc Gooden |  |
+| C2 | Going Invisible 2 |  |
+| C3 | Waylon Jennings Live! |  |
+| D1 | Cadaver Sniffing Dog |  |
+| D2 | An Antidote for Strychnine |  |
+| D3 | Sicilian Crest |  |
+| E | Sentries In The Ambush |  |
+| F | Divided Sky Lane |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-league-with-dragons/1449160212" >}}<br>
 
 
-## Videos
-### The Mountain Goats Cadaver Sniffing Dog
-{{< youtube id="YhWmbViBAxg" title="The Mountain Goats Cadaver Sniffing Dog" >}}<br>
-### More Videos
-
-- [The Mountain Goats Sicilian Crest Official Audio](https://www.youtube.com/watch?v=yHDsTbMcm_k)
-- [The Mountain Goats  Done Bleeding HQ](https://www.youtube.com/watch?v=5q5autRy7RU)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "James"
 artist: "james"
 album_name: "Seven"
 date: 2017-12-16T14:59:41.000000Z
+release_date: "2011-05-07"
 release_id: "11285126"
 slug: "seven-11285126"
 hideSummary: true
@@ -35,40 +36,31 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 Seven is the fourth studio album by English rock band James. It was released on 17 February 1992, through Fontana Records. After writing new material in their practice space, the band began recording at The Manor Studios. The sessions lasted for several months, with the band producing the proceedings themselves. After a lack of progress, Fontana halted the sessions, and sent them to work at Olympic Studios with Martin "Youth" Glover. Half of the songs were produced by Youth, while the remainder was produced between James and Steve Chase. Described as a stadium rock album, Seven drew comparison to the likes of Simple Minds and U2.
 Preceded by a three-month tour of the United Kingdom, "Sound" was released as the lead single in November 1991, which was then followed the second single "Born of Frustration" in January 1992. To promote the album, the band embarked on a tour of the United States, which coincided with the release of the third single "Ring the Bells" in March 1992. James played their sole UK headlining show at the Alton Towers leisure park in July 1992 to a crowd of 30,000. Two days after the show, "Seven" was released as the fourth and final single. Following this, the band toured Europe and supported Neil Young on his west coast US tour, which was succeeded by a support slot for the Soup Dragons.
 Seven received mixed reviews from music critics, some of whom noted the album's bigger sound. It peaked at number two in the UK and number 45 in Sweden. "Sound", "Born of Frustration", "Ring the Bells", and "Seven" all charted in the UK, the first three reaching the top 40. Outside the UK, "Sound" reached the top 40 in Australia, Ireland, and Portugal, while "Born of Frustration" appeared on the US Billboard Alternative Airplay chart, and in the Netherlands. Seven was later certified gold in the UK.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Born Of Frustration (4:22)
-2. Ring The Bells (4:44)
-3. Sound (6:40)
-4. Bring A Gun (3:42)
-5. Mother (2:40)
-6. Don't Wait That Long (6:39)
-7. Live A Love Of Life (4:18)
-8. Next Lover
-9. Heavens (3:56)
-10. Protect Me (3:06)
-11. Seven (3:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Born Of Frustration | 4:22 |
+| A2 | Ring The Bells | 4:44 |
+| A3 | Sound | 6:40 |
+| B1 | Bring A Gun | 3:42 |
+| B2 | Mother | 2:40 |
+| B3 | Don't Wait That Long | 6:39 |
+| C1 | Live A Love Of Life | 4:18 |
+| C2 | Next Lover |  |
+| C3 | Heavens | 3:56 |
+| D1 | Protect Me | 3:06 |
+| D2 | Seven | 3:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/seven/1682618434" >}}<br>
 
 
-## Videos
-### JAMES    HEAVENS
-{{< youtube id="sisU8GfgLH4" title="JAMES    HEAVENS" >}}<br>
-### More Videos
-
-- [James - Ring The Bells](https://www.youtube.com/watch?v=FvocnP6X72A)
-- [James - Seven](https://www.youtube.com/watch?v=8JKnDlNBwEQ)
-- [James - Born Of Frustration](https://www.youtube.com/watch?v=QxM42rG0a08)
-- [James - Seven](https://www.youtube.com/watch?v=8JKnDlNBwEQ)
-- [James - Mother Live](https://www.youtube.com/watch?v=dFZaQblezk0)
-- [James - Dont Wait That Long Live](https://www.youtube.com/watch?v=IoN6oeeYHMg)
-- [James Protect me Live](https://www.youtube.com/watch?v=cu9-Paql8Ag)
-- [James   Born of Frustration   Seven    The Live Concert](https://www.youtube.com/watch?v=649SUNPN-do)
 
 ## Release Images
 {{< imageGrid >}}

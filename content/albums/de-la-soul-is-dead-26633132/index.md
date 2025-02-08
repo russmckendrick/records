@@ -35,68 +35,41 @@ With co-producer Prince Paul still in tow, they retained an idiosyncratic sample
 
 
 ## Tracklisting
-1. Intro (2:14)
-2. Oodles Of O's (3:32)
-3. Talkin' Bout Hey Love (2:27)
-4. Pease Porridge (5:01)
-5. Skit 1 (0:25)
-6. Johnny's Dead AKA Vincent Mason (Live From The BK Lounge) (1:56)
-7. A Rollerskating Jam Named "Saturdays" (4:02)
-8. WRMS' Dedication To The Bitty (0:46)
-9. Bitties In The BK Lounge (5:39)
-10. Skit 2 (0:30)
-11. My Brother's A Basehead (4:20)
-12. Let, Let Me In (3:25)
-13. Afro Connections At A Hi 5 (In The Eyes Of The Hoodlum) (4:03)
-14. Rap De Rap Show (2:19)
-15. Millie Pulled A Pistol On Santa (4:09)
-16. Who Do U Worship? (1:59)
-17. Skit 3 (0:32)
-18. Kicked Out The House (1:55)
-19. Pass The Plugs (3:29)
-20. Not Over Till The Fat Lady Plays The Demo (1:29)
-21. Ring Ring Ring (Ha Ha Hey) (5:05)
-22. WRMS: Cat's In Control (0:33)
-23. Skit 4 (0:12)
-24. Shwingalokate (4:13)
-25. Fanatic Of The B Word (4:09)
-26. Keepin' The Faith (4:44)
-27. Skit 5 (0:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Intro | 2:14 |
+| A2 | Oodles Of O's | 3:32 |
+| A3 | Talkin' Bout Hey Love | 2:27 |
+| A4 | Pease Porridge | 5:01 |
+| A5 | Skit 1 | 0:25 |
+| A6 | Johnny's Dead AKA Vincent Mason (Live From The BK Lounge) | 1:56 |
+| A7 | A Rollerskating Jam Named "Saturdays" | 4:02 |
+| B1 | WRMS' Dedication To The Bitty | 0:46 |
+| B2 | Bitties In The BK Lounge | 5:39 |
+| B3 | Skit 2 | 0:30 |
+| B4 | My Brother's A Basehead | 4:20 |
+| B5 | Let, Let Me In | 3:25 |
+| B6 | Afro Connections At A Hi 5 (In The Eyes Of The Hoodlum) | 4:03 |
+| C1 | Rap De Rap Show | 2:19 |
+| C2 | Millie Pulled A Pistol On Santa | 4:09 |
+| C3 | Who Do U Worship? | 1:59 |
+| C4 | Skit 3 | 0:32 |
+| C5 | Kicked Out The House | 1:55 |
+| C6 | Pass The Plugs | 3:29 |
+| C7 | Not Over Till The Fat Lady Plays The Demo | 1:29 |
+| D1 | Ring Ring Ring (Ha Ha Hey) | 5:05 |
+| D2 | WRMS: Cat's In Control | 0:33 |
+| D3 | Skit 4 | 0:12 |
+| D4 | Shwingalokate | 4:13 |
+| D5 | Fanatic Of The B Word | 4:09 |
+| D6 | Keepin' The Faith | 4:44 |
+| D7 | Skit 5 | 0:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/de-la-soul-is-dead/1664602251" >}}<br>
 
 
-## Videos
-### De La Soul - Ring Ring Ring Ha Ha Hey Official Music Video HD
-{{< youtube id="hm6Kkje7bBM" title="De La Soul - Ring Ring Ring Ha Ha Hey Official Music Video HD" >}}<br>
-### More Videos
-
-- [A Roller Skating Jam Named Saturdays Official Music Video HD](https://www.youtube.com/watch?v=9S5lTgyfT2c)
-- [De La Soul - Intro Official Audio](https://www.youtube.com/watch?v=fL_uR33mcX0)
-- [De La Soul - Oodles of Os Official Audio](https://www.youtube.com/watch?v=nAjVaRdBDY0)
-- [De La Soul - Talkin Bout Hey Love Official Audio](https://www.youtube.com/watch?v=iD7ukTFW1fE)
-- [De La Soul - Pease Porridge Official Audio](https://www.youtube.com/watch?v=tY05TpaSTiU)
-- [De La Soul - Skit 1 Official Audio](https://www.youtube.com/watch?v=sz2BMGcaO5A)
-- [De La Soul - Johnnys Dead AKA Vincent Mason Live from the BK Lounge Official Audio](https://www.youtube.com/watch?v=ljMEvoanOZA)
-- [De La Soul - WRMS Dedication to the Bitty Official Audio](https://www.youtube.com/watch?v=1Z0WPcbls5s)
-- [De La Soul - Bitties in the BK Lounge Official Audio](https://www.youtube.com/watch?v=7ESbtYg055M)
-- [Skit 2](https://www.youtube.com/watch?v=82sGVhzjgmE)
-- [De La Soul - My Brothers a Basehead Official Audio](https://www.youtube.com/watch?v=V4Px4YUj-14)
-- [De La Soul - Let Let Me In Official Audio](https://www.youtube.com/watch?v=wrBdkM0F9CI)
-- [De La Soul - Afro Connections at a Hi 5 In the Eyes of the Hoodlum Official Audio](https://www.youtube.com/watch?v=CVLTPnjLq7s)
-- [De La Soul - Rap De Rap Show Official Audio](https://www.youtube.com/watch?v=kBawStUwiPM)
-- [De La Soul - Who Do U Worship Official Audio](https://www.youtube.com/watch?v=7ge7fcgk-S4)
-- [Skit 3](https://www.youtube.com/watch?v=5o7_i8dQgnM)
-- [De La Soul - Kicked Out the House Official Audio](https://www.youtube.com/watch?v=JN5TEZ5zgEc)
-- [De La Soul - Pass the Plugs Official Audio](https://www.youtube.com/watch?v=h64859-P2uo)
-- [De La Soul - Not Over Till the Fat Lady Plays the Demo Official Audio](https://www.youtube.com/watch?v=FTMOTsL1YIE)
-- [De La Soul - Ring Ring Ring Ha Ha Hey Official Audio](https://www.youtube.com/watch?v=z_VQQvjanm0)
-- [De La Soul - WRMS Cats in Control Official Audio](https://www.youtube.com/watch?v=uTMi1v1rLVY)
-- [De La Soul - Skit 4 Official Audio](https://www.youtube.com/watch?v=cimI8sNRlpk)
-- [De La Soul - Shwingalokate Official Audio](https://www.youtube.com/watch?v=T8WCAH1IkEE)
-- [De La Soul - Fanatic of the B Word Official Audio ft Dres](https://www.youtube.com/watch?v=g6phI8IlAqw)
-- [De La Soul - Skit 5 Official Audio](https://www.youtube.com/watch?v=escc5AkCXpI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -108,5 +81,5 @@ With co-producer Prince Paul still in tow, they retained an idiosyncratic sample
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Chrysalis Records |
 | Catalog Number | RMM-052-1 |
-| Notes | ℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited   All boring tracks recorded at Calliope Productions Mixed at Battery Studios and Island Media Made In Czech Republic on back of sleeve. |
+| Notes | ℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited<br><br><br>All boring tracks recorded at Calliope Productions<br>Mixed at Battery Studios and Island Media<br>Made In Czech Republic on back of sleeve. |
 | Discogs URL    | [De La Soul - De La Soul Is Dead](https://www.discogs.com/release/26633132-De-La-Soul-De-La-Soul-Is-Dead) |

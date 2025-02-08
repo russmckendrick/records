@@ -4,6 +4,7 @@ artist_name: "Charlie Barnes"
 artist: "charlie-barnes"
 album_name: "Last Nights Glitter"
 date: 2020-08-30T14:46:35.000000Z
+release_date: "2020-07-03"
 release_id: "15832271"
 slug: "last-nights-glitter-15832271"
 hideSummary: true
@@ -18,22 +19,27 @@ styles: ["Pop Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Sing to God (Intro) (1:22)
-2. All I Have (4:25)
-3. The Weather (4:32)
-4. MacbethMacbethMacbeth (4:11)
-5. Ruins (4:37)
-6. Dresden (4:52)
-7. WHTHR (interlude) (0:48)
-8. Will & Testament (4:10)
-9. Former Glories/Bruising (Reprise) (4:26)
-10. Last Night's Glitter (6:31)
+| Position | Title | Duration |
+|----------|-------|----------|
+| 1 | Sing to God (Intro) | 1:22 |
+| 2 | All I Have | 4:25 |
+| 3 | The Weather | 4:32 |
+| 4 | MacbethMacbethMacbeth | 4:11 |
+| 5 | Ruins | 4:37 |
+| 6 | Dresden | 4:52 |
+| 7 | WHTHR (interlude) | 0:48 |
+| 8 | Will & Testament | 4:10 |
+| 9 | Former Glories/Bruising (Reprise) | 4:26 |
+| 10 | Last Night's Glitter | 6:31 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/last-nights-glitter/1516641724" >}}<br>
-
 
 
 

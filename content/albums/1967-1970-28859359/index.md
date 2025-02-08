@@ -43,47 +43,49 @@ Released just three years after the band’s official break-up, “The Blue Albu
 
 
 ## Tracklisting
-1. Strawberry Fields Forever (2015 Mix) - from (2017 Mix)
-2. Penny Lane (2017 Mix) 
-3. Sgt. Pepper's Lonely Hearts Club Band (2017 Mix) 
-4. With A Little Help From My Friends (2017 Mix)
-5. Lucy In The Sky With Diamonds (2017 Mix)
-6. A Day In The Life (2017 Mix)
-7. All You Need Is Love (2015 Mix)
-8. I Am The Walrus (2023 Mix) 
-9. Hello Goodbye (2015 Mix)
-10. The Fool On The Hill (2023 Mix) 
-11. Magical Mystery Tour (2023 Mix) 
-12. Lady Madonna (2015 Mix) from (2023 Mix)
-13. Hey Jude (2015 Mix)
-14. Revolution (2025 Mix)
-15. Back In The U.S.S.R. (2018 Mix)
-16. While My Guitar Gently Weeps (2018 Mix)
-17. Ob-La-Di, Ob-La-Da (2018 Mix)
-18. Get Back (2015 Mix)
-19. Don't Let Me Down (2021 Mix)
-20. The Ballad Of John & Yoko (2015 Mix)
-21. Old Brown Shoe (2023 Mix)
-22. Here Comes The Sun (2019 Mix) 
-23. Come Together (2019 Mix) 
-24. Something (2019 Mix) 
-25. Octopus's Garden (2019 Mix) 
-26. Let It Be (2015 Mix) from (2021 Mix) 
-27. Across The Universe (2021 Mix) 
-28. The Long And Winding Road (2021 Mix) 
-29. Now And Then (2023) 
-30. Blackbird (2018 Mix) 
-31. Dear Prudence (2018 Mix) 
-32. Glass Onion (2018 Mix) 
-33. Within You Without You (2017 Mix) 
-34. Hey Bulldog (2023 Mix) 
-35. Oh! Darling (2019 Mix) 
-36. I Me Mine (2021 Mix) 
-37. I Want You (She's So Heavy) (2019 Mix) 
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Strawberry Fields Forever (2015 Mix) - from (2017 Mix) |  |
+| A2 | Penny Lane (2017 Mix)  |  |
+| A3 | Sgt. Pepper's Lonely Hearts Club Band (2017 Mix)  |  |
+| A4 | With A Little Help From My Friends (2017 Mix) |  |
+| A5 | Lucy In The Sky With Diamonds (2017 Mix) |  |
+| A6 | A Day In The Life (2017 Mix) |  |
+| A7 | All You Need Is Love (2015 Mix) |  |
+| B1 | I Am The Walrus (2023 Mix)  |  |
+| B2 | Hello Goodbye (2015 Mix) |  |
+| B3 | The Fool On The Hill (2023 Mix)  |  |
+| B4 | Magical Mystery Tour (2023 Mix)  |  |
+| B5 | Lady Madonna (2015 Mix) from (2023 Mix) |  |
+| B6 | Hey Jude (2015 Mix) |  |
+| B7 | Revolution (2025 Mix) |  |
+| C1 | Back In The U.S.S.R. (2018 Mix) |  |
+| C2 | While My Guitar Gently Weeps (2018 Mix) |  |
+| C3 | Ob-La-Di, Ob-La-Da (2018 Mix) |  |
+| C4 | Get Back (2015 Mix) |  |
+| C5 | Don't Let Me Down (2021 Mix) |  |
+| C6 | The Ballad Of John & Yoko (2015 Mix) |  |
+| C7 | Old Brown Shoe (2023 Mix) |  |
+| D1 | Here Comes The Sun (2019 Mix)  |  |
+| D2 | Come Together (2019 Mix)  |  |
+| D3 | Something (2019 Mix)  |  |
+| D4 | Octopus's Garden (2019 Mix)  |  |
+| D5 | Let It Be (2015 Mix) from (2021 Mix)  |  |
+| D6 | Across The Universe (2021 Mix)  |  |
+| D7 | The Long And Winding Road (2021 Mix)  |  |
+| E1 | Now And Then (2023)  |  |
+| E2 | Blackbird (2018 Mix)  |  |
+| E3 | Dear Prudence (2018 Mix)  |  |
+| E4 | Glass Onion (2018 Mix)  |  |
+| E5 | Within You Without You (2017 Mix)  |  |
+| F1 | Hey Bulldog (2023 Mix)  |  |
+| F2 | Oh! Darling (2019 Mix)  |  |
+| F3 | I Me Mine (2021 Mix)  |  |
+| F4 | I Want You (She's So Heavy) (2019 Mix)  |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-beatles-1967-1970-the-blue-album/1441133100" >}}<br>
-
 
 
 
@@ -96,5 +98,5 @@ Released just three years after the band’s official break-up, “The Blue Albu
 | Format         | Vinyl 3× LP Compilation Limited Edition Reissue Remastered Stereo (Half-Speed Master, Blue) |
 | Label          | Apple Records |
 | Catalog Number | 0602455920805 |
-| Notes | Gatefold sleeve + insert.  Hype sticker: The classic compilation now expanded with 9 extra tracks including the single Now And Then 3LP's featuring 37 tracks Half-speed master on limited edition blue vinyl. [Universal Music Group International logo] [Apple logo] [Barcode: 0 602455 92080 5] 0602455920805   Made in the E.U.  Sticker: Made in Germany ' Matrix numbers are hand etched in the runout area. Plating marks like '1+X', '1=⊥', '1IX', '1=+','⊥∧' and '1⋀' are mirrored. |
+| Notes | Gatefold sleeve + insert.<br><br>Hype sticker:<br>The classic compilation now expanded with 9 extra tracks including the single Now And Then<br>3LP's featuring 37 tracks<br>Half-speed master on limited edition blue vinyl.<br>[Universal Music Group International logo] [Apple logo]<br>[Barcode: 0 602455 92080 5]<br>0602455920805<br><br><br>Made in the E.U.<br><br>Sticker: Made in Germany<br>'<br>Matrix numbers are hand etched in the runout area. Plating marks like '1+X', '1=⊥', '1IX', '1=+','⊥∧' and '1⋀' are mirrored. |
 | Discogs URL    | [The Beatles - 1967-1970](https://www.discogs.com/release/28859359-The-Beatles-1967-1970) |

@@ -4,6 +4,7 @@ artist_name: "Silver Sun"
 artist: "silver-sun"
 album_name: "You Are Here"
 date: 2023-11-07T05:58:29.000000Z
+release_date: "1997"
 release_id: "27539931"
 slug: "you-are-here-27539931"
 hideSummary: true
@@ -22,25 +23,28 @@ You Are Here peaked at #17 in the New Zealand album charts. "Saturated" reached 
 The album earned engineer Clint Murphy the runner up position for Best Engineer at the 2004 New Zealand Music Awards.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Last Day
-2. Lava
-3. Trickle Down
-4. Thickshake 
-5. Captain
-6. Top Trumps
-7. There Will Never Be Another Me
-8. Gossip
-9. Changing
-10. Streets Are Paved With Tarmac
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Last Day |  |
+| A2 | Lava |  |
+| A3 | Trickle Down |  |
+| A4 | Thickshake  |  |
+| A5 | Captain |  |
+| B1 | Top Trumps |  |
+| B2 | There Will Never Be Another Me |  |
+| B3 | Gossip |  |
+| B4 | Changing |  |
+| B5 | Streets Are Paved With Tarmac |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/you-are-here/1518621700" >}}<br>
-
 
 
 
@@ -54,5 +58,5 @@ The album earned engineer Clint Murphy the runner up position for Best Engineer 
 | Format         | Vinyl LP Album Compilation Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1037 |
-| Notes | Previously only available exclusively in Japan, this ten-track album contains all the songs from their “Sun” EP, and the "Lava" and "Last Day" singles.  Pressed on 140g black vinyl with printed inner sleeves |
+| Notes | Previously only available exclusively in Japan, this ten-track album contains all the songs from their “Sun” EP, and the "Lava" and "Last Day" singles.<br><br>Pressed on 140g black vinyl with printed inner sleeves |
 | Discogs URL    | [Silver Sun - You Are Here](https://www.discogs.com/release/27539931-Silver-Sun-You-Are-Here) |

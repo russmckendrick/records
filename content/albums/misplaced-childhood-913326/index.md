@@ -4,6 +4,7 @@ artist_name: "Marillion"
 artist: "marillion"
 album_name: "Misplaced Childhood"
 date: 2015-08-15T09:23:09.000000Z
+release_date: "1985-06-17"
 release_id: "913326"
 slug: "misplaced-childhood-913326"
 hideSummary: true
@@ -27,33 +28,30 @@ The album was recorded during the spring of 1985 at Hansa Tonstudio in Berlin an
 Misplaced Childhood was listed as the sixth best album of 1985 by Kerrang! and chosen as the fourth greatest concept album of all time by Classic Rock in 2003.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Pseudo Silk Kimono (2:14)
-2. Kayleigh (3:55)
-3. Lavender (2:34)
-4. Bitter Suite (8:15)
-5. Heart Of Lothian (3:40)
-6. Waterhole (Expresso Bongo) (2:07)
-7. Lords Of The Backstage (1:59)
-8. Blind Curve (9:27)
-9. Childhoods End? (4:32)
-10. White Feather (2:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Pseudo Silk Kimono | 2:14 |
+| A2 | Kayleigh | 3:55 |
+| A3 | Lavender | 2:34 |
+| A4 | Bitter Suite | 8:15 |
+| A5 | Heart Of Lothian | 3:40 |
+| B1 | Waterhole (Expresso Bongo) | 2:07 |
+| B2 | Lords Of The Backstage | 1:59 |
+| B3 | Blind Curve | 9:27 |
+| B4 | Childhoods End? | 4:32 |
+| B5 | White Feather | 2:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/misplaced-childhood-2017-remaster/1293277837" >}}<br>
 
 
-## Videos
-### Marillion - Misplaced Childhood
-{{< youtube id="D_5kc3tleEY" title="Marillion - Misplaced Childhood" >}}<br>
-### More Videos
-
-- [Marillion - Misplaced Childhood](https://www.youtube.com/watch?v=D_5kc3tleEY)
-- [Marillion - Kayleigh](https://www.youtube.com/watch?v=GA4ROLQF4cs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +63,5 @@ Misplaced Childhood was listed as the sixth best album of 1985 by Kerrang! and c
 | Format         | Vinyl LP Album Stereo (Purple Labels) |
 | Label          | EMI |
 | Catalog Number | EJ 2403401 |
-| Notes | Recorded at Hansa Tonstudios, Berlin between March and May 1985.  This album is dedicated to John Mylett.  Gatefold Cover. Durations do not appear on this release.  Timings via stopwatch. |
+| Notes | Recorded at Hansa Tonstudios, Berlin between March and May 1985.<br><br>This album is dedicated to John Mylett.<br><br>Gatefold Cover.<br>Durations do not appear on this release.  Timings via stopwatch. |
 | Discogs URL    | [Marillion - Misplaced Childhood](https://www.discogs.com/release/913326-Marillion-Misplaced-Childhood) |

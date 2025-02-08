@@ -41,33 +41,26 @@ Nowhere is that urgency felt more strongly than on “I Will Follow”, the albu
 
 
 ## Tracklisting
-1. I Will Follow
-2. Twilight
-3. An Cat Dubh
-4. Into The Heart
-5. Out Of Control
-6. Stories For Boys
-7. The Ocean
-8. A Day Without Me
-9. Another Time, Another Place
-10. The Electric Co.
-11. Shadows And Tall Trees
-12. Saturday Night (snipped)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Will Follow |  |
+| A2 | Twilight |  |
+| A3 | An Cat Dubh |  |
+| A4 | Into The Heart |  |
+| A5 | Out Of Control |  |
+| B1 | Stories For Boys |  |
+| B2 | The Ocean |  |
+| B3 | A Day Without Me |  |
+| B4 | Another Time, Another Place |  |
+| B5 | The Electric Co. |  |
+| B6 | Shadows And Tall Trees |  |
+| B7 | Saturday Night (snipped) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/boy/1443189101" >}}<br>
 
 
-## Videos
-### U2  - Boy The full album 1980
-{{< youtube id="5uMqPsmbMHI" title="U2  - Boy The full album 1980" >}}<br>
-### More Videos
-
-- [U2 - I Will Follow](https://www.youtube.com/watch?v=-sLzV00gNUo)
-- [U2 - Wide Awake in America 1985 - Full Album](https://www.youtube.com/watch?v=7cOtsrQABso)
-- [Twilight Remastered 2008](https://www.youtube.com/watch?v=ZGWF9xBonDk)
-- [An Cat Dubh Remastered 2008](https://www.youtube.com/watch?v=jI9GV3rAOQ4)
-- [U2 - I Will Follow Video](https://www.youtube.com/watch?v=-sLzV00gNUo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +72,5 @@ Nowhere is that urgency felt more strongly than on “I Will Follow”, the albu
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered (White, 40th Anniversary Edition) |
 | Label          | Island Records |
 | Catalog Number | 0749627 |
-| Notes | 40th Anniversary Edition. Record Store Day release for Black Friday 2020. Limited to 10,000 copies. Double-sided poster and lyrics / credit insert included.   From u2songs.com: "This reissued Boy saw the return of a 12th track to the end of the album, a 35-second instrumental which had only appeared on early pressings of the original vinyl and had never been released on CD. Although not indicated as such on the reissue’s track listing, this instrumental is a snippet of the song “Saturday Night,” an early version of “Fire” from the October album."  Made In Germany. |
+| Notes | 40th Anniversary Edition. Record Store Day release for Black Friday 2020. Limited to 10,000 copies. Double-sided poster and lyrics / credit insert included. <br><br>From u2songs.com: "This reissued Boy saw the return of a 12th track to the end of the album, a 35-second instrumental which had only appeared on early pressings of the original vinyl and had never been released on CD. Although not indicated as such on the reissue’s track listing, this instrumental is a snippet of the song “Saturday Night,” an early version of “Fire” from the October album."<br><br>Made In Germany. |
 | Discogs URL    | [U2 - Boy](https://www.discogs.com/release/16273305-U2-Boy) |

@@ -4,6 +4,7 @@ artist_name: "Porcupine Tree"
 artist: "porcupine-tree"
 album_name: "Fear Of A Blank Planet"
 date: 2017-05-12T18:24:15.000000Z
+release_date: "2007-04-16"
 release_id: "9071157"
 slug: "fear-of-a-blank-planet-9071157"
 hideSummary: true
@@ -33,30 +34,26 @@ Fear of a Blank Planet was followed later the same year by release of the Nil Re
 The album charted in almost all European countries and entered the U.S. Billboard 200 at #59. The album was highly acclaimed by critics and was awarded "Album of the Year" by Classic Rock magazine in 2007.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Fear Of A Blank Planet (7:28)
-2. My Ashes (5:09)
-3. Anesthetize (17:52)
-4. Sentimental (5:26)
-5. Way Out Of Here (7:38)
-6. Sleep Together (7:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fear Of A Blank Planet | 7:28 |
+| A2 | My Ashes | 5:09 |
+| B | Anesthetize | 17:52 |
+| C1 | Sentimental | 5:26 |
+| C2 | Way Out Of Here | 7:38 |
+| D | Sleep Together | 7:26 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fear-of-a-blank-planet/1532103463" >}}<br>
 
 
-## Videos
-### Fear of a Blank Planet
-{{< youtube id="_8ATsDqXPF0" title="Fear of a Blank Planet" >}}<br>
-### More Videos
-
-- [My Ashes](https://www.youtube.com/watch?v=QCW8PURg7s8)
-- [Porcupine Tree - Fear of a Blank Planet 2007 Full Album](https://www.youtube.com/watch?v=jKM5dampSOQ)
-- [Unboxing Porcupine Tree - Fear Of A Blank Planet 2024 Deluxe Hardback Book](https://www.youtube.com/watch?v=fPwjoJWzBKw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +65,5 @@ The album charted in almost all European countries and entered the U.S. Billboar
 | Format         | Vinyl 2× LP Album Reissue (Blue Translucent) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE867 |
-| Notes | Published by Hands Off It's Mine Publishing, adminstered by Universal Music Publishing Group  Written in London and Tel Aviv between Jan-July 2006 Recorded between Oct-Dec 2006 Recorded at No Man's Land, Bourne Place, New Rising, The Artillery, Nightspace, Mark Angelo, Red Room Recorders, DGM. String arrangements recorded at Angel Studio.  Issued under license from Porcupine Tree Ltd. under exclusive license to Kscope. ℗ 2007 Porcupine Tree Ltd. under exclusive license to Kscope. © 2016 Porcupine Tree Ltd. under exclusive license to Kscope. Made in Germany  180 gram audiophile translucent blue vinyl gatefold with plain black inner sleeves 2016 Re-release of the 2012 Steven Wilson remastered edition |
+| Notes | Published by Hands Off It's Mine Publishing, adminstered by Universal Music Publishing Group<br><br>Written in London and Tel Aviv between Jan-July 2006<br>Recorded between Oct-Dec 2006<br>Recorded at No Man's Land, Bourne Place, New Rising, The Artillery, Nightspace, Mark Angelo, Red Room Recorders, DGM.<br>String arrangements recorded at Angel Studio.<br><br>Issued under license from Porcupine Tree Ltd. under exclusive license to Kscope.<br>℗ 2007 Porcupine Tree Ltd. under exclusive license to Kscope. © 2016 Porcupine Tree Ltd. under exclusive license to Kscope.<br>Made in Germany<br><br>180 gram audiophile translucent blue vinyl gatefold with plain black inner sleeves<br>2016 Re-release of the 2012 Steven Wilson remastered edition |
 | Discogs URL    | [Porcupine Tree - Fear Of A Blank Planet](https://www.discogs.com/release/9071157-Porcupine-Tree-Fear-Of-A-Blank-Planet) |

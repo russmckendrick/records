@@ -1,9 +1,10 @@
 ---
 title: "Andy Bell - The View From Halfway Down"
 artist_name: "Andy Bell"
-artist: "andy-bell-2"
+artist: "andy-bell"
 album_name: "The View From Halfway Down"
 date: 2020-10-10T10:40:42.000000Z
+release_date: "2020-10-09"
 release_id: "16035263"
 slug: "the-view-from-halfway-down-16035263"
 hideSummary: true
@@ -22,36 +23,28 @@ styles: ["Shoegaze", "Indie Rock"]
 "The View from Halfway Down" is the fifteenth episode of the sixth season of the American animated television series BoJack Horseman, and the 75th and penultimate episode of the series overall. Written by Alison Tafel and directed by Amy Winfrey, the episode was released on Netflix on January 31, 2020,  alongside the second half of the sixth and final season. Guest stars in this episode include Stanley Tucci, Kristen Schaal, Wendie Malick, Lin-Manuel Miranda, Brandon T. Jackson, and Zach Braff.
 In the episode, BoJack Horseman (Will Arnett) attends a dinner party and talent show hosted by his late mother Beatrice (Malick) and attended by various other characters that have died during the series, including his former Horsin' Around co-star Sarah Lynn (Schaal), his best friend Herb Kazzaz (Tucci), and a combination of his father Butterscotch and his childhood role-model Secretariat (also voiced by Arnett). Part-way into the episode, BoJack realizes that he is in limbo, his body lying face-down in his old swimming-pool.
 "The View from Halfway Down" was widely acclaimed by television critics, who praised its ambitious concept, dark and serious tone, and function as the culmination of the title-character's story. The episode received a Primetime Emmy Award nomination for Outstanding Animated Program.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Love Comes In Waves (4:48)
-2. Indica (6:55)
-3. Ghost Tones (2:28)
-4. Skywalker (6:22)
-5. Aubrey Drylands Gladwell (3:10)
-6. Cherry Cola (4:29)
-7. I Was Alone (6:45)
-8. Heat Haze On Weyland Road (7:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Love Comes In Waves | 4:48 |
+| A2 | Indica | 6:55 |
+| A3 | Ghost Tones | 2:28 |
+| A4 | Skywalker | 6:22 |
+| B1 | Aubrey Drylands Gladwell | 3:10 |
+| B2 | Cherry Cola | 4:29 |
+| B3 | I Was Alone | 6:45 |
+| B4 | Heat Haze On Weyland Road | 7:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-view-from-halfway-down/1700700851" >}}<br>
 
 
-## Videos
-### Andy Bell - Love Comes In Waves
-{{< youtube id="MbNmaB-es5U" title="Andy Bell - Love Comes In Waves" >}}<br>
-### More Videos
-
-- [Andy Bell - Skywalker](https://www.youtube.com/watch?v=54icAzH384o)
-- [Andy Bell - Cherry Cola](https://www.youtube.com/watch?v=9ne_ioVdofw)
-- [Andy Bell - I Was Alone](https://www.youtube.com/watch?v=1822p05m3Hw)
-- [Andy Bell - Ghost Tones](https://www.youtube.com/watch?v=WaYkVvAg3q4)
-- [Andy Bell - Indica](https://www.youtube.com/watch?v=yxvqhlBtIbs)
-- [Andy Bell - Aubrey Drylands Gladwell](https://www.youtube.com/watch?v=7RJxFq0URe0)
-- [Andy Bell - Heat Haze On Weyland Road](https://www.youtube.com/watch?v=wX7VFHVab64)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +56,5 @@ In the episode, BoJack Horseman (Will Arnett) attends a dinner party and talent 
 | Format         | Vinyl LP Album Limited Edition Stereo (Blue ) |
 | Label          | Sonic Cathedral |
 | Catalog Number | SCR170LP |
-| Notes | Printed inner sleeve. Barcode is on a sticker on the shrink wrapping.  250 signed copies were available as 'pre-order' via Recordstore.co.uk  Includes a download code card.  (Track durations from playing the album.) |
+| Notes | Printed inner sleeve.<br>Barcode is on a sticker on the shrink wrapping.<br><br>250 signed copies were available as 'pre-order' via Recordstore.co.uk<br><br>Includes a download code card.<br><br>(Track durations from playing the album.) |
 | Discogs URL    | [Andy Bell - The View From Halfway Down](https://www.discogs.com/release/16035263-Andy-Bell-2-The-View-From-Halfway-Down) |

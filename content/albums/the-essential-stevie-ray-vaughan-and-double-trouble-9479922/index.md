@@ -1,6 +1,6 @@
 ---
-title: "Stevie Ray Vaughan & Double Trouble - The Essential Stevie Ray Vaughan And Double Trouble"
-artist_name: "Stevie Ray Vaughan & Double Trouble"
+title: "Stevie Ray Vaughan  Double Trouble - The Essential Stevie Ray Vaughan And Double Trouble"
+artist_name: "Stevie Ray Vaughan  Double Trouble"
 artist: "stevie-ray-vaughan-double-trouble"
 album_name: "The Essential Stevie Ray Vaughan And Double Trouble"
 date: 2021-08-17T02:03:29.000000Z
@@ -10,8 +10,8 @@ slug: "the-essential-stevie-ray-vaughan-and-double-trouble-9479922"
 hideSummary: true
 cover:
     image: "the-essential-stevie-ray-vaughan-and-double-trouble-9479922.jpg"
-    alt: "The Essential Stevie Ray Vaughan And Double Trouble by Stevie Ray Vaughan & Double Trouble"
-    caption: "The Essential Stevie Ray Vaughan And Double Trouble by Stevie Ray Vaughan & Double Trouble"
+    alt: "The Essential Stevie Ray Vaughan And Double Trouble by Stevie Ray Vaughan  Double Trouble"
+    caption: "The Essential Stevie Ray Vaughan And Double Trouble by Stevie Ray Vaughan  Double Trouble"
 additional_images:
     - "https://i.discogs.com/Wb2GGDASBOPFxE7w7WBhzn1YPYKows6sAxTEQLCTsX4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Nzk5/MjItMTYzMDkzNTUz/NS0zMjIyLmpwZWc.jpeg"
     - "https://i.discogs.com/kwWk11axse5Sk2vzQ8ZN8GPFXwzMJO6DBZIcJ4mXSdM/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Nzk5/MjItMTQ5MTA0NTcw/MC04ODAxLmpwZWc.jpeg"
@@ -32,38 +32,31 @@ This double album is the ultimate anthology of blues rock guitar genius Stevie R
 
 
 ## Tracklisting
-1. Love Struck Baby
-2. Pride And Joy
-3. Texas Flood
-4. Lenny
-5. Cold Shot
-6. Couldn't Stand The Weather
-7. The Things (That) I Used To Do
-8. Tin Pan Alley (The Roughest Place In Town)
-9. Say What!
-10. Look At Little Sister
-11. Change It
-12. Little Wing
-13. The House Is Rockin'
-14. Crossfire
-15. Tightrope
-16. Long Way From Home (The Vaughan Brothers)
-17. Life By The Drop
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Love Struck Baby |  |
+| A2 | Pride And Joy |  |
+| A3 | Texas Flood |  |
+| A4 | Lenny |  |
+| A5 | Cold Shot |  |
+| B1 | Couldn't Stand The Weather |  |
+| B2 | The Things (That) I Used To Do |  |
+| B3 | Tin Pan Alley (The Roughest Place In Town) |  |
+| C1 | Say What! |  |
+| C2 | Look At Little Sister |  |
+| C3 | Change It |  |
+| C4 | Little Wing |  |
+| D1 | The House Is Rockin' |  |
+| D2 | Crossfire |  |
+| D3 | Tightrope |  |
+| D4 | Long Way From Home (The Vaughan Brothers) |  |
+| D5 | Life By The Drop |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-essential-stevie-ray-vaughan-and-double-trouble/193063151" >}}<br>
 
 
-## Videos
-### Pride and Joy
-{{< youtube id="y1Xh-UepaUs" title="Pride and Joy" >}}<br>
-### More Videos
-
-- [Little Wing](https://www.youtube.com/watch?v=6l_pY4ZDoMI)
-- [Texas Flood](https://www.youtube.com/watch?v=p4uM070KexI)
-- [Life by the Drop](https://www.youtube.com/watch?v=vPcB4yXLl_4)
-- [Long Way from Home](https://www.youtube.com/watch?v=t0jzRr-LhaE)
-- [Rude MoodHide Away Live](https://www.youtube.com/watch?v=mBzud6-s5rg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,4 +68,4 @@ This double album is the ultimate anthology of blues rock guitar genius Stevie R
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Epic |
 | Catalog Number | 88985357751 |
-| Discogs URL    | [Stevie Ray Vaughan & Double Trouble - The Essential Stevie Ray Vaughan And Double Trouble](https://www.discogs.com/release/9479922-Stevie-Ray-Vaughan-And-Double-Trouble-The-Essential-Stevie-Ray-Vaughan-And-Double-Trouble) |
+| Discogs URL    | [Stevie Ray Vaughan  Double Trouble - The Essential Stevie Ray Vaughan And Double Trouble](https://www.discogs.com/release/9479922-Stevie-Ray-Vaughan-And-Double-Trouble-The-Essential-Stevie-Ray-Vaughan-And-Double-Trouble) |

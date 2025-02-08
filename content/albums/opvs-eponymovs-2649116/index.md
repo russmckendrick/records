@@ -1,7 +1,7 @@
 ---
 title: "Ghost - Opvs Eponymovs"
 artist_name: "Ghost"
-artist: "ghost-32"
+artist: "ghost"
 album_name: "Opvs Eponymovs"
 date: 2018-09-18T18:03:40.000000Z
 release_date: "2011-01-18"
@@ -28,23 +28,22 @@ For a bunch of scary Swedes, Ghost’s debut album is quite catchy and melodic. 
 
 
 ## Tracklisting
-1. Deus Culpa
-2. Con Clavi Con Dio
-3. Ritual
-4. Elizabeth
-5. Stand By Him
-6. Satan Prayer
-7. Death Knell
-8. Prime Mover
-9. Genesis
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Deus Culpa |  |
+| A2 | Con Clavi Con Dio |  |
+| A3 | Ritual |  |
+| A4 | Elizabeth |  |
+| A5 | Stand By Him |  |
+| B1 | Satan Prayer |  |
+| B2 | Death Knell |  |
+| B3 | Prime Mover |  |
+| B4 | Genesis |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/opus-eponymous/398684510" >}}<br>
 
-
-## Videos
-### Ghost Death Knell OFFICIAL
-{{< youtube id="qJy-hdKT5wM" title="Ghost Death Knell OFFICIAL" >}}<br>
 
 
 ## Release Images
@@ -56,5 +55,5 @@ For a bunch of scary Swedes, Ghost’s debut album is quite catchy and melodic. 
 | Format         | Vinyl LP Album Limited Edition (Green Splatter) |
 | Label          | Rise Above Records |
 | Catalog Number | RISELP124 |
-| Notes | Album is also known as "Opus Eponymous".     Recorded at Manfire Recordings.  Additional recordings done at White Light Studio.  Mixed and mastered at Orgone Mastering.    ℗ 2010 Rise Above.  © 2010 Rise Above.    Limited to 300 on green with black splatter .   |
+| Notes | Album is also known as "Opus Eponymous". <br><br>Recorded at Manfire Recordings.<br>Additional recordings done at White Light Studio.<br>Mixed and mastered at Orgone Mastering.<br><br>℗ 2010 Rise Above.<br>© 2010 Rise Above.<br><br>Limited to 300 on green with black splatter . <br> |
 | Discogs URL    | [Ghost - Opvs Eponymovs](https://www.discogs.com/release/2649116-Ghost-32-Opvs-Eponymovs) |

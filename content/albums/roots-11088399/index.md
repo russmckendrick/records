@@ -38,47 +38,42 @@ Since its release, Roots has received critical acclaim as a seminal work in Sepu
 
 
 ## Tracklisting
-1. Roots Bloody Roots
-2. Attitude
-3. Cut-Throat
-4. Ratamahatta
-5. Breed Apart
-6. Straighthate
-7. Spit
-8. Lookaway
-9. Dusted
-10. Born Stubborn
-11. Jasco
-12. Itsári
-13. Ambush
-14. Endangered Species
-15. Dictatorshit
-16. Bonus Tracks
-17. Ratamahatta (2 Meter Sessions)
-18. Roots Bloody Roots (2 Meter Sessions)
-19. Attitude (2 Meter Sessions)
-20. Kaiowas (Take 1, Previously Unreleased)
-21. Procreation (Of The Wicked)
-22. Roots Bloody Roots (Demo)
-23. Attitude (Instrumental Rough Mix)
-24. Cutthroat (Instrumental Rough Mix)
-25. Dictatorshit (Instrumental Rough Mix)
-26. Untitled (Demo)
-27. R.D.P. (Demo)
-28. Dusted (Demo)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Roots Bloody Roots |  |
+| A2 | Attitude |  |
+| A3 | Cut-Throat |  |
+| A4 | Ratamahatta |  |
+| A5 | Breed Apart |  |
+| A6 | Straighthate |  |
+| B1 | Spit |  |
+| B2 | Lookaway |  |
+| B3 | Dusted |  |
+| B4 | Born Stubborn |  |
+| B5 | Jasco |  |
+| B6 | Itsári |  |
+| B7 | Ambush |  |
+| C1 | Endangered Species |  |
+| C2 | Dictatorshit |  |
+|  | Bonus Tracks |  |
+| C3 | Ratamahatta (2 Meter Sessions) |  |
+| C4 | Roots Bloody Roots (2 Meter Sessions) |  |
+| C5 | Attitude (2 Meter Sessions) |  |
+| C6 | Kaiowas (Take 1, Previously Unreleased) |  |
+| D1 | Procreation (Of The Wicked) |  |
+| D2 | Roots Bloody Roots (Demo) |  |
+| D3 | Attitude (Instrumental Rough Mix) |  |
+| D4 | Cutthroat (Instrumental Rough Mix) |  |
+| D5 | Dictatorshit (Instrumental Rough Mix) |  |
+| D6 | Untitled (Demo) |  |
+| D7 | R.D.P. (Demo) |  |
+| D8 | Dusted (Demo) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/roots/214473832" >}}<br>
 
 
-## Videos
-### Sepultura - Roots Bloody Roots OFFICIAL VIDEO
-{{< youtube id="F_6IjeprfEs" title="Sepultura - Roots Bloody Roots OFFICIAL VIDEO" >}}<br>
-### More Videos
-
-- [Sepultura - Ratamahatta OFFICIAL VIDEO](https://www.youtube.com/watch?v=NiwqRSCWw2g)
-- [Sepultura - Attitude OFFICIAL VIDEO](https://www.youtube.com/watch?v=0TanJ9jf-p4)
-- [Sepultura - Roots Full Album](https://www.youtube.com/watch?v=NXvPBe9ynsc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -90,5 +85,5 @@ Since its release, Roots has received critical acclaim as a seminal work in Sepu
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | Roadrunner Records |
 | Catalog Number | R562035 |
-| Notes | Newly remastered on 180G Vinyl. Bonus LP with rare and unreleased demos, cover versions and live tracks. Comes in gatefold sleeve with plain white lined inner sleeves.  LP1; C1,C2: Roots. (2017 remaster) C3-D8: Bonus tracks  |
+| Notes | Newly remastered on 180G Vinyl.<br>Bonus LP with rare and unreleased demos, cover versions and live tracks.<br>Comes in gatefold sleeve with plain white lined inner sleeves.<br><br>LP1; C1,C2: Roots. (2017 remaster)<br>C3-D8: Bonus tracks<br> |
 | Discogs URL    | [Sepultura - Roots](https://www.discogs.com/release/11088399-Sepultura-Roots) |

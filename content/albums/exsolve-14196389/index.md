@@ -4,6 +4,7 @@ artist_name: "Jo Quail"
 artist: "jo-quail"
 album_name: "Exsolve"
 date: 2019-10-22T17:51:38.000000Z
+release_date: "2018-11-03"
 release_id: "14196389"
 slug: "exsolve-14196389"
 hideSummary: true
@@ -23,26 +24,23 @@ styles: ["Contemporary", "Dark Ambient", "Modern Classical", "Neo-Classical", "P
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Forge - Of Two Forms (17:50)
-2. Mandrel Cantus (11:23)
-3. Causleen's Wheel (15:26)
-4. Reya Pavan (10:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Forge - Of Two Forms | 17:50 |
+| B | Mandrel Cantus | 11:23 |
+| C | Causleen's Wheel | 15:26 |
+| D | Reya Pavan | 10:42 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/exsolve/1438778156" >}}<br>
 
 
-## Videos
-### Mandrel Cantus Excerpt
-{{< youtube id="9Pwhuk_tLdc" title="Mandrel Cantus Excerpt" >}}<br>
-### More Videos
-
-- [Of Two Forms Excerpt](https://www.youtube.com/watch?v=Jn7Tvl0wq3U)
-- [Causleens Wheel Excerpt](https://www.youtube.com/watch?v=-AZHMrvxCfI)
-- [Forge Excerpt](https://www.youtube.com/watch?v=yxvphxyl0_I)
-- [Jo Quail - Exsolve Full Album](https://www.youtube.com/watch?v=7kaOG7dQ6m0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -53,5 +51,5 @@ styles: ["Contemporary", "Dark Ambient", "Modern Classical", "Neo-Classical", "P
 | Format         | Vinyl 2× LP Album Limited Edition (Clear With Black And Gold Splatter) |
 | Label          | Adderstone Records |
 | Catalog Number | ASR001 |
-| Notes | © & ℗ Jo Quail, 2019.  Comes in an embossed and debossed gatefold sleeve with two 12 inch square inserts with live photos and sheet music for the song 'Maquette' on them. Maquette is a piece for solo cello and does not appear on the album, but is a piece that the album was written from. Also comes with a download code.  |
+| Notes | © & ℗ Jo Quail, 2019.<br><br>Comes in an embossed and debossed gatefold sleeve with two 12 inch square inserts with live photos and sheet music for the song 'Maquette' on them. Maquette is a piece for solo cello and does not appear on the album, but is a piece that the album was written from. Also comes with a download code.<br> |
 | Discogs URL    | [Jo Quail - Exsolve](https://www.discogs.com/release/14196389-Jo-Quail-Exsolve) |

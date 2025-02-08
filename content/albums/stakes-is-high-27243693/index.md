@@ -34,50 +34,32 @@ Yearning for the days when MCs were MCs, the album is rooted in the trio’s des
 
 
 ## Tracklisting
-1. Intro (2:35)
-2. Supa Emcees (3:40)
-3. The Bizness (4:22)
-4. Yunonstop (1:16)
-5. Wonce Again Long Island (3:39)
-6. Dinninit (4:21)
-7. Brakes (4:06)
-8. Dog Eat Dog (3:38)
-9. Baby, Baby, Baby, Baby, Ooh Baby (2:08)
-10. Long Island Degrees (3:27)
-11. Betta Listen (4:27)
-12. Itzsoweezee (Hot) (4:48)
-13. 4 More (4:18)
-14. Big Brother Beat (3:42)
-15. Down Syndrome (3:04)
-16. Pony Ride (5:27)
-17. Stakes Is High (5:30)
-18. Sunshine (3:38)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Intro | 2:35 |
+| A2 | Supa Emcees | 3:40 |
+| A3 | The Bizness | 4:22 |
+| A4 | Yunonstop | 1:16 |
+| A5 | Wonce Again Long Island | 3:39 |
+| B1 | Dinninit | 4:21 |
+| B2 | Brakes | 4:06 |
+| B3 | Dog Eat Dog | 3:38 |
+| B4 | Baby, Baby, Baby, Baby, Ooh Baby | 2:08 |
+| B5 | Long Island Degrees | 3:27 |
+| C1 | Betta Listen | 4:27 |
+| C2 | Itzsoweezee (Hot) | 4:48 |
+| C3 | 4 More | 4:18 |
+| C4 | Big Brother Beat | 3:42 |
+| D1 | Down Syndrome | 3:04 |
+| D2 | Pony Ride | 5:27 |
+| D3 | Stakes Is High | 5:30 |
+| D4 | Sunshine | 3:38 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stakes-is-high/1664600863" >}}<br>
 
 
-## Videos
-### De La Soul - Intro Official Audio
-{{< youtube id="B_Q9bpUvFf8" title="De La Soul - Intro Official Audio" >}}<br>
-### More Videos
-
-- [De La Soul - Supa Emcees Official Visualizer](https://www.youtube.com/watch?v=onlmVkaKbwM)
-- [De La Soul - The Bizness Official Audio ft Common](https://www.youtube.com/watch?v=zkYAluAbjxM)
-- [De La Soul - Wonce Again Long Island Official Audio](https://www.youtube.com/watch?v=RnLDwWfaoKQ)
-- [De La Soul - Dinninit Official Audio](https://www.youtube.com/watch?v=9moctD1nqSI)
-- [De La Soul - Brakes Official Audio](https://www.youtube.com/watch?v=9k5Hmr1mc4Q)
-- [De La Soul - Dog Eat Dog Official Audio](https://www.youtube.com/watch?v=_kS2HM7mCyg)
-- [De La Soul - Baby Baby Baby Baby Ooh Baby Official Audio ft Jazzyfatnastees](https://www.youtube.com/watch?v=X-jzZuxBWCs)
-- [De La Soul - Long Island Degrees Official Audio](https://www.youtube.com/watch?v=Rsnp1XseC7c)
-- [De La Soul - Betta Listen Official Audio](https://www.youtube.com/watch?v=D27NApwLm6U)
-- [De La Soul - Big Brother Beat Official Audio ft Mos Def](https://www.youtube.com/watch?v=4bxNVOyKqy0)
-- [De La Soul - Pony Ride Official Audio ft Truth Enola](https://www.youtube.com/watch?v=yHPPSqR935w)
-- [De La Soul - Stakes Is High Official Audio](https://www.youtube.com/watch?v=BhJCMKXzGv8)
-- [De La Soul - Sunshine Official Audio](https://www.youtube.com/watch?v=3JtRtfcKF-Q)
-- [De La Soul - Stakes Is High Official Music Video HD](https://www.youtube.com/watch?v=radJQyaC5kY)
-- [De La Soul - Stakes is High  Full Album 1996](https://www.youtube.com/watch?v=P6fng8uHtBw)
-- [De La Soul - Down Syndrome Official Audio](https://www.youtube.com/watch?v=Hp4l9jTYwjM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -89,5 +71,5 @@ Yearning for the days when MCs were MCs, the album is rooted in the trio’s des
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Chrysalis |
 | Catalog Number | RMM-054-1 |
-| Notes | ℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited   Records housed in black poly lined inner sleeves.  Recorded @ World Recording Facility by Guido Osorio except "Dinninit", "Stakes Is High", "4 more", "Big Brother Beat", "Sunshine" & "Itzsoweezee (Hot)" recorded @ Platinum Island by Tim Latham the "International Sound Pimp". |
+| Notes | ℗ & © 2023 A.O.I., LLC under exclusive license to Chrysalis Records Limited<br><br><br>Records housed in black poly lined inner sleeves.<br><br>Recorded @ World Recording Facility by Guido Osorio except "Dinninit", "Stakes Is High", "4 more", "Big Brother Beat", "Sunshine" & "Itzsoweezee (Hot)" recorded @ Platinum Island by Tim Latham the "International Sound Pimp". |
 | Discogs URL    | [De La Soul - Stakes Is High](https://www.discogs.com/release/27243693-De-La-Soul-Stakes-Is-High) |

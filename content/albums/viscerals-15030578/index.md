@@ -4,6 +4,7 @@ artist_name: "Pigs Pigs Pigs Pigs Pigs Pigs Pigs"
 artist: "pigs-pigs-pigs-pigs-pigs-pigs-pigs"
 album_name: "Viscerals"
 date: 2020-04-09T16:44:54.000000Z
+release_date: "2020-04-03"
 release_id: "15030578"
 slug: "viscerals-15030578"
 hideSummary: true
@@ -25,42 +26,28 @@ styles: ["Heavy Metal", "Psychedelic Rock"]
 ---
 
 Viscerals is the third studio album by British heavy metal band Pigs Pigs Pigs Pigs Pigs Pigs Pigs. The album was released on 3 April 2020 through Rocket Recordings. Three singles, "Reducer", "Rubbernecker", and "Hell's Teeth" were released with the album, the former two released ahead of the album's release.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Reducer
-2. Rubbernecker
-3. New Body
-4. Blood And Butter
-5. World Crust
-6. Crazy In Blood
-7. Halloween Bolson
-8. Hell's Teeth
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Reducer |  |
+| A2 | Rubbernecker |  |
+| A3 | New Body |  |
+| A4 | Blood And Butter |  |
+| B1 | World Crust |  |
+| B2 | Crazy In Blood |  |
+| B3 | Halloween Bolson |  |
+| B4 | Hell's Teeth |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/viscerals/1491152566" >}}<br>
 
 
-## Videos
-### Pigs Pigs Pigs Pigs Pigs Pigs Pigs  Reducer
-{{< youtube id="dsn9leb4ZSc" title="Pigs Pigs Pigs Pigs Pigs Pigs Pigs  Reducer" >}}<br>
-### More Videos
-
-- [Pigs Pigs Pigs Pigs Pigs Pigs Pigs  Rubbernecker](https://www.youtube.com/watch?v=WV2w2395jZo)
-- [PIGS PIGS PIGS PIGS PIGS PIGS PIGS - New Body](https://www.youtube.com/watch?v=UMD4gRJm7Kc)
-- [Blood and Butter](https://www.youtube.com/watch?v=ux6DQ8TW8wg)
-- [World Crust](https://www.youtube.com/watch?v=l5HQ4KXqIlY)
-- [Halloween Bolson](https://www.youtube.com/watch?v=9ZPV-lfdRaY)
-- [Hells Teeth](https://www.youtube.com/watch?v=E4akQS5NEoI)
-- [Pigs Pigs Pigs Pigs Pigs Pigs Pigs  Reducer](https://www.youtube.com/watch?v=dsn9leb4ZSc)
-- [Pigs Pigs Pigs Pigs Pigs Pigs Pigs  Rubbernecker](https://www.youtube.com/watch?v=WV2w2395jZo)
-- [PIGS PIGS PIGS PIGS PIGS PIGS PIGS - New Body](https://www.youtube.com/watch?v=UMD4gRJm7Kc)
-- [Blood and Butter](https://www.youtube.com/watch?v=ux6DQ8TW8wg)
-- [World Crust](https://www.youtube.com/watch?v=l5HQ4KXqIlY)
-- [Halloween Bolson](https://www.youtube.com/watch?v=9ZPV-lfdRaY)
-- [Hells Teeth](https://www.youtube.com/watch?v=E4akQS5NEoI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +59,5 @@ Viscerals is the third studio album by British heavy metal band Pigs Pigs Pigs P
 | Format         | Vinyl LP Album Limited Edition (Blood And Guts) |
 | Label          | Rocket Recordings |
 | Catalog Number | LAUNCH184 |
-| Notes | Ltd edition of 1,000 copies of 'Blood And Guts' vinyl (Indie exclusive) Comes with printed inner sleeves and Bandcamp download code. |
+| Notes | Ltd edition of 1,000 copies of 'Blood And Guts' vinyl (Indie exclusive)<br>Comes with printed inner sleeves and Bandcamp download code. |
 | Discogs URL    | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs - Viscerals](https://www.discogs.com/release/15030578-Pigs-Pigs-Pigs-Pigs-Pigs-Pigs-Pigs-Viscerals) |

@@ -1,9 +1,10 @@
 ---
 title: "Matt Berry - Witchazel"
 artist_name: "Matt Berry"
-artist: "matt-berry-3"
+artist: "matt-berry"
 album_name: "Witchazel"
 date: 2021-08-19T03:43:18.000000Z
+release_date: "2011-03-07"
 release_id: "19905262"
 slug: "witchazel-19905262"
 hideSummary: true
@@ -21,44 +22,32 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. An Awakening (0:46)
-2. Take My Hand (3:11)
-3. Accident At A Harvest Festival (3:25)
-4. A Song For Rosie (2:49)
-5. So Low (3:16)
-6. Look In My Book (2:26)
-7. The Pheasant (8:42)
-8. Woman (3:32)
-9. The Badger's Wake (3:49)
-10. Rain Came Down (4:11)
-11. From The Manger To The Mortuary / Recorder Dance (5:10)
-12. Into The Sky (3:08)
-13. Roosting Time (5:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | An Awakening | 0:46 |
+| A2 | Take My Hand | 3:11 |
+| A3 | Accident At A Harvest Festival | 3:25 |
+| A4 | A Song For Rosie | 2:49 |
+| A5 | So Low | 3:16 |
+| A6 | Look In My Book | 2:26 |
+| A7 | The Pheasant | 8:42 |
+| B1 | Woman | 3:32 |
+| B2 | The Badger's Wake | 3:49 |
+| B3 | Rain Came Down | 4:11 |
+| B4 | From The Manger To The Mortuary / Recorder Dance | 5:10 |
+| B5 | Into The Sky | 3:08 |
+| B6 | Roosting Time | 5:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/witchazel/1152574810" >}}<br>
 
 
-## Videos
-### MATT BERRY - Take My Hand official video - Acid Jazz Records
-{{< youtube id="Rdqu-HObUbo" title="MATT BERRY - Take My Hand official video - Acid Jazz Records" >}}<br>
-### More Videos
-
-- [Matt Berry - A Song for Rosie](https://www.youtube.com/watch?v=Cc5RKEPH1vo)
-- [An Awakening - Matt Berry](https://www.youtube.com/watch?v=uIeyGk2QPlg)
-- [Matt Berry Accident At A Harvest Festival](https://www.youtube.com/watch?v=VAagLPNneGQ)
-- [Matt Berry - Accident At A Harvest Festival](https://www.youtube.com/watch?v=PrUYWbjGevA)
-- [The Badgers Wake - Matt Berry](https://www.youtube.com/watch?v=QSp5LwN5Q68)
-- [Look In My Book - Matt Berry](https://www.youtube.com/watch?v=pNtbE2laRbs)
-- [Matt Berrys Comedy Voice](https://www.youtube.com/watch?v=xXmSlu1n5T4)
-- [The Pheasant - Matt Berry](https://www.youtube.com/watch?v=dyvAowKwIno)
-- [Matt Berry Rain Came Down](https://www.youtube.com/watch?v=2E7r7vlJ_tU)
-- [Rain Came Down - Matt Berry](https://www.youtube.com/watch?v=QI4_DmjXpEM)
-- [Matt Berry Roosting Time](https://www.youtube.com/watch?v=d3pPrdSh9Ds)
-- [Look in My Book](https://www.youtube.com/watch?v=mJM7LZJtwU0)
-- [Matt Berry Rain Came Down](https://www.youtube.com/watch?v=2E7r7vlJ_tU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +58,5 @@ styles: []
 | Format         | Vinyl LP Album Reissue (Caramel) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP251B |
-| Notes | 10th Anniversary Edition - Caramel colored vinyl  Made in EU. |
+| Notes | 10th Anniversary Edition - Caramel colored vinyl<br><br>Made in EU. |
 | Discogs URL    | [Matt Berry - Witchazel](https://www.discogs.com/release/19905262-Matt-Berry-3-Witchazel) |

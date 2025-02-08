@@ -4,6 +4,7 @@ artist_name: "Rush"
 artist: "rush"
 album_name: "Rush In Rio"
 date: 2019-01-19T09:37:16.000000Z
+release_date: "2003-10-21"
 release_id: "13087653"
 slug: "rush-in-rio-13087653"
 hideSummary: true
@@ -29,53 +30,51 @@ Rush in Rio is a three-disc live album by the Canadian band Rush, released on Oc
 The DVD has been certified 7× Platinum by the R.I.A.A. in the US, with over 700,000 copies sold as of September 2010. The track "O Baterista" was nominated for a Grammy Award for Best Rock Instrumental Performance in 2005, but lost to Brian Wilson's "Mrs. O'Leary's Cow".
 Rush in Rio was the first live album released by the band that did not follow the pattern of releasing a live album after every four studio albums, and it was also the first to feature a complete setlist without any changes in song order, including Neil Peart's drum solo. It is the band's first live album that presents a single night's performance in its entirety (not counting the two bonus tracks). In an interview about the album and DVD, Alex Lifeson and James "Jimbo" Barton noted that it took an extended amount of time to mix the sound due to technical difficulties in recording the audio on primitive equipment.
 At this concert, Rush played to 40,000, their second-largest crowd on the Vapor Trails Tour (the largest crowd was 60,000 at the show the previous night in São Paulo). In a rare departure from the band's practice of re-creating the sound of their studio work during live performances, the song "Resist" (on disc 2) was rearranged into a stripped-down acoustic version featuring Lifeson and Geddy Lee, with Peart sitting out after his drum solo.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Tom Sawyer
-2. Distant Early Warning
-3. New World Man
-4. Roll The Bones
-5. Earthshine
-6. YYZ
-7. The Pass
-8. Bravado
-9. The Big Money
-10. The Trees
-11. Free Will
-12. Closer To The Heart
-13. Natural Science
-14. One Little Victory
-15. Driven
-16. Ghost Rider
-17. Secret Touch
-18. Dreamline
-19. Red Sector A
-20. Leave That Thing Alone
-21. O Baterista
-22. Resist
-23. 2112
-24. Limelight
-25. La Villa Strangiato
-26. The Spirit Of Radio
-27. By-Tor And The Snow Dog
-28. Cygnus X-1
-29. Working Man
-30. Between Sun & Moon
-31. Vital Signs
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Tom Sawyer |  |
+| A2 | Distant Early Warning |  |
+| A3 | New World Man |  |
+| A4 | Roll The Bones |  |
+| B1 | Earthshine |  |
+| B2 | YYZ |  |
+| B3 | The Pass |  |
+| B4 | Bravado |  |
+| C1 | The Big Money |  |
+| C2 | The Trees |  |
+| C3 | Free Will |  |
+| C4 | Closer To The Heart |  |
+| D1 | Natural Science |  |
+| D2 | One Little Victory |  |
+| D3 | Driven |  |
+| D4 | Ghost Rider |  |
+| E1 | Secret Touch |  |
+| E2 | Dreamline |  |
+| E3 | Red Sector A |  |
+| E4 | Leave That Thing Alone |  |
+| F1 | O Baterista |  |
+| F2 | Resist |  |
+| F3 | 2112 |  |
+| G1 | Limelight |  |
+| G2 | La Villa Strangiato |  |
+| G3 | The Spirit Of Radio |  |
+| H1 | By-Tor And The Snow Dog |  |
+| H2 | Cygnus X-1 |  |
+| H3 | Working Man |  |
+| H4 | Between Sun & Moon |  |
+| H5 | Vital Signs |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rush-in-rio-live/5305450" >}}<br>
 
 
-## Videos
-### Rush   Roll The Bones Live In  Rio
-{{< youtube id="VmDdAAacVRM" title="Rush   Roll The Bones Live In  Rio" >}}<br>
-### More Videos
-
-- [Rush   Roll The Bones Live In  Rio](https://www.youtube.com/watch?v=VmDdAAacVRM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -87,5 +86,5 @@ At this concert, Rush played to 40,000, their second-largest crowd on the Vapor 
 | Format         | Vinyl 4× LP Album Reissue (180g) |
 | Label          | Atlantic |
 | Catalog Number | R1 83672 |
-| Notes | ℗ & © 2019, 2003  Atlantic Recording Corporation for the United States, ole Media Management L.P. for Canada, WEA International Inc. for the world outside of the United States and Canada.  Packaged in a four-panel gatefold.  Sticker on shrink foil:  "Rush in Rio  180g  Never-Before-Released on Vinyl 4LP + Download Card" |
+| Notes | ℗ & © 2019, 2003  Atlantic Recording Corporation for the United States, ole Media Management L.P. for Canada, WEA International Inc. for the world outside of the United States and Canada.<br><br>Packaged in a four-panel gatefold.<br><br>Sticker on shrink foil: <br>"Rush in Rio <br>180g <br>Never-Before-Released on Vinyl<br>4LP + Download Card" |
 | Discogs URL    | [Rush - Rush In Rio](https://www.discogs.com/release/13087653-Rush-Rush-In-Rio) |

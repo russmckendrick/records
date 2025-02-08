@@ -4,6 +4,7 @@ artist_name: "Bruce Springsteen"
 artist: "bruce-springsteen"
 album_name: "Best Of"
 date: 2024-04-20T07:59:29.000000Z
+release_date: "2024-04-19"
 release_id: "30441302"
 slug: "best-of-30441302"
 hideSummary: true
@@ -37,37 +38,37 @@ styles: ["Classic Rock", "Folk Rock", "Pop Rock", "Rock & Roll"]
 Best of Bruce Springsteen is the eighth compilation album by American singer-songwriter Bruce Springsteen. It was released on April 19, 2024, through Columbia Records. The collection marks his first compilation in eight years and includes hit singles and popular album tracks from 1973 to 2020.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Growing Up
-2. Rosalita (Come Out Tonight)
-3. Born To Run
-4. Thunder Road
-5. Badlands
-6. Hungry Heart
-7. Atlantic City
-8. Dancing In The Dark
-9. Born In The U.S.A
-10. Brilliant Disguise
-11. Human Touch
-12. Streets Of Philadelphia
-13. Ghost Of Tom Joad
-14. Secret Garden
-15. The Rising
-16. Girls In Their Summer Clothes
-17. Hello Sunshine
-18. Letter To You
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Growing Up |  |
+| A2 | Rosalita (Come Out Tonight) |  |
+| A3 | Born To Run |  |
+| A4 | Thunder Road |  |
+| B5 | Badlands |  |
+| B6 | Hungry Heart |  |
+| B7 | Atlantic City |  |
+| B8 | Dancing In The Dark |  |
+| B9 | Born In The U.S.A |  |
+| C10 | Brilliant Disguise |  |
+| C11 | Human Touch |  |
+| C12 | Streets Of Philadelphia |  |
+| C13 | Ghost Of Tom Joad |  |
+| D14 | Secret Garden |  |
+| D15 | The Rising |  |
+| D16 | Girls In Their Summer Clothes |  |
+| D17 | Hello Sunshine |  |
+| D18 | Letter To You |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/best-of-bruce-springsteen-expanded-edition/1733551531" >}}<br>
 
-
-## Videos
-### Bruce Springsteen - Badlands Official Lyric Video
-{{< youtube id="o5IZuuzUa04" title="Bruce Springsteen - Badlands Official Lyric Video" >}}<br>
 
 
 ## Release Images
@@ -80,5 +81,5 @@ Best of Bruce Springsteen is the eighth compilation album by American singer-son
 | Format         | Vinyl 2× LP Album Compilation Stereo (Blue [Atlantic Blue]) |
 | Label          | Columbia |
 | Catalog Number | 19658869901 |
-| Notes | Atlantic Blue vinyl release  On back cover: THIS COMPILATION ℗ & © 2024 COLUMBIA RECORDS. A DIVISION OF SONY MUSIC ENTERTAINMENT. DISTRIBUTED BY SONY MUSIC ENTERTAINMENT. SONY MUSIC ENTERTAINMENT INTERNATIONAL SERVICES GMBH, PO BOX 510, 33311 GÜTERSLOH, GERMANY. SONY MUSIC UK, 2 CANAL REACH, KINGS CROSS, LONDON, NIC 4DB, UNITED KINGDOM. COLUMBIA IS THE EXCLUSIVE TRADEMARK OF SONY MUSIC ENTERTAINMENT. ALL TRADEMARKS AND LOGOS ARE PROTECTED. ALL RIGHTS RESERVED. MADE IN THE EU.  On sticker: A CARRER-SPANNING HITS COLLECTION  Features 18 Classic Tracks Including  Dancing In The Dark, Thunder Road + More  2LPs on ATLANTIC BLUE Vinyl  The matrix runouts are etched up to RKS and stamped for the rest but the Roman numbers on the end are also etched. |
+| Notes | Atlantic Blue vinyl release<br><br>On back cover:<br>THIS COMPILATION ℗ & © 2024 COLUMBIA RECORDS. A DIVISION OF SONY MUSIC ENTERTAINMENT. DISTRIBUTED BY SONY MUSIC ENTERTAINMENT. SONY MUSIC ENTERTAINMENT INTERNATIONAL SERVICES GMBH, PO BOX 510, 33311 GÜTERSLOH, GERMANY. SONY MUSIC UK, 2 CANAL REACH, KINGS CROSS, LONDON, NIC 4DB, UNITED KINGDOM.<br>COLUMBIA IS THE EXCLUSIVE TRADEMARK OF SONY MUSIC ENTERTAINMENT. ALL TRADEMARKS AND LOGOS ARE PROTECTED. ALL RIGHTS RESERVED. MADE IN THE EU.<br><br>On sticker:<br>A CARRER-SPANNING<br>HITS COLLECTION<br><br>Features 18 Classic Tracks<br>Including<br><br>Dancing In The Dark,<br>Thunder Road + More<br><br>2LPs on<br>ATLANTIC BLUE Vinyl<br><br>The matrix runouts are etched up to RKS and stamped for the rest but the Roman numbers on the end are also etched. |
 | Discogs URL    | [Bruce Springsteen - Best Of](https://www.discogs.com/release/30441302-Bruce-Springsteen-Best-Of) |

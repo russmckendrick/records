@@ -4,6 +4,7 @@ artist_name: "The Cranberries"
 artist: "the-cranberries"
 album_name: "Dreams: The Collection"
 date: 2020-03-09T19:29:32.000000Z
+release_date: "2012-01-01"
 release_id: "14815395"
 slug: "dreams-the-collection-14815395"
 hideSummary: true
@@ -22,32 +23,30 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Linger (4:34)
-2. Dreams (4:24)
-3. When You're Gone (4:55)
-4. Dreaming My Dreams (3:37)
-5. Ridiculous Thoughts (4:31)
-6. Zombie (5:07)
-7. Just My Imagination (3:41)
-8. Analyse (4:06)
-9. Promises (5:27)
-10. I Can't Be With You (3:07)
-11. Salvation (2:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Linger | 4:34 |
+| A2 | Dreams | 4:24 |
+| A3 | When You're Gone | 4:55 |
+| A4 | Dreaming My Dreams | 3:37 |
+| A5 | Ridiculous Thoughts | 4:31 |
+| B1 | Zombie | 5:07 |
+| B2 | Just My Imagination | 3:41 |
+| B3 | Analyse | 4:06 |
+| B4 | Promises | 5:27 |
+| B5 | I Can't Be With You | 3:07 |
+| B6 | Salvation | 2:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dreams-the-collection/1440649801" >}}<br>
 
 
-## Videos
-### The Cranberries - Zombie Official Music Video
-{{< youtube id="6Ejga4kJUts" title="The Cranberries - Zombie Official Music Video" >}}<br>
-### More Videos
-
-- [The Cranberries - Zombie 1999 Live Video](https://www.youtube.com/watch?v=8MuhFxaT7zo)
-- [The Cranberries - Zombie Official Music Video](https://www.youtube.com/watch?v=6Ejga4kJUts)
-- [The Cranberries - Zombie 1999 Live Video](https://www.youtube.com/watch?v=8MuhFxaT7zo)
 
 ## Release Images
 {{< imageGrid >}}

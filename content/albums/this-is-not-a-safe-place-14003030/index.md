@@ -4,6 +4,7 @@ artist_name: "Ride"
 artist: "ride"
 album_name: "This Is Not A Safe Place"
 date: 2019-08-16T17:13:34.000000Z
+release_date: "2019-08-16"
 release_id: "14003030"
 slug: "this-is-not-a-safe-place-14003030"
 hideSummary: true
@@ -27,35 +28,32 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Shoegaze"]
 This Is Not a Safe Place is the sixth studio album by English rock band Ride. The album was released on 16 August 2019, the date being announced on 23 April 2019 along with the release of the album's first single, "Future Love". The album is the band's second produced by English DJ Erol Alkan.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. R.I.D.E.
-2. Future Love
-3. Repetition
-4. Kill Switch
-5. Clouds Of Saint Marie
-6. Eternal Recurrence
-7. Fifteen Minutes
-8. Jump Jet
-9. Dial Up
-10. End Game
-11. Shadows Behind The Sun
-12. In This Room
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | R.I.D.E. |  |
+| A2 | Future Love |  |
+| A3 | Repetition |  |
+| B1 | Kill Switch |  |
+| B2 | Clouds Of Saint Marie |  |
+| B3 | Eternal Recurrence |  |
+| C1 | Fifteen Minutes |  |
+| C2 | Jump Jet |  |
+| C3 | Dial Up |  |
+| D1 | End Game |  |
+| D2 | Shadows Behind The Sun |  |
+| D3 | In This Room |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-is-not-a-safe-place/1459049456" >}}<br>
 
 
-## Videos
-### Ride - Shadows Behind the Sun 2019
-{{< youtube id="ni-t8eDXF_0" title="Ride - Shadows Behind the Sun 2019" >}}<br>
-### More Videos
-
-- [Future Love Official video](https://www.youtube.com/watch?v=3cN0vWnVaHU)
-- [Ride - Shadows Behind the Sun 2019](https://www.youtube.com/watch?v=ni-t8eDXF_0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +65,5 @@ This Is Not a Safe Place is the sixth studio album by English rock band Ride. Th
 | Format         | Vinyl 2× LP Album Limited Edition (Green Translucent, Embossed) |
 | Label          | Wichita |
 | Catalog Number | WEBB570LPC |
-| Notes | Gatefold sleeve. Embossed lettering on cover. Die cut poly lined inner sleeves and single sided square insert of lyrics and credits. Includes full Album download in mp3 and FLAC.  Produced and engineered at Assauly & Battery Studios, London, Vale Studios, Worcestershire and Phantasy Sound, London. Mixed at Assault & Battery, London. Mastered at Metropolis Mastering, London.  [Publicity]: James Windle for DawBell, Nick Dierl and Duncan Will for Orienteer and Debbie Ball for Create Spark.  ℗ 2019 Wichita Recordings Ltd. © 2019 Wichita Recordings Ltd. Released under exclusive license to [PIAS] outside of North America.   |
+| Notes | Gatefold sleeve. Embossed lettering on cover.<br>Die cut poly lined inner sleeves and single sided square insert of lyrics and credits.<br>Includes full Album download in mp3 and FLAC.<br><br>Produced and engineered at Assauly & Battery Studios, London, Vale Studios, Worcestershire and Phantasy Sound, London.<br>Mixed at Assault & Battery, London.<br>Mastered at Metropolis Mastering, London.<br><br>[Publicity]:<br>James Windle for DawBell, Nick Dierl and Duncan Will for Orienteer and Debbie Ball for Create Spark.<br><br>℗ 2019 Wichita Recordings Ltd. © 2019 Wichita Recordings Ltd.<br>Released under exclusive license to [PIAS] outside of North America. <br> |
 | Discogs URL    | [Ride - This Is Not A Safe Place](https://www.discogs.com/release/14003030-Ride-This-Is-Not-A-Safe-Place) |

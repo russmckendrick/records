@@ -4,6 +4,7 @@ artist_name: "David Gray"
 artist: "david-gray"
 album_name: "White Ladder"
 date: 2020-02-15T19:52:58.000000Z
+release_date: "1998-11-02"
 release_id: "14791554"
 slug: "white-ladder-14791554"
 hideSummary: true
@@ -34,37 +35,30 @@ White Ladder is the fourth studio album by English singer-songwriter David Gray.
 White Ladder spent almost three full years on the UK top 100, consistently charting between May 2000 and March 2003. Its total charting time as of 2020 was 176 weeks, making it one of the longest-charting albums in UK chart history. It was massively successful in Ireland, where it spent six consecutive weeks at number one on the Irish Albums Chart and had sold 350,000 copies by 2002. In 2015, it was still the biggest-selling album of all time in that country. White Ladder was the fifth-best-selling album of the 2000s in the UK, with 2.9 million copies sold. The album has sold over 3 million copies in the UK, making it the country's eleventh-best-selling album of the 21st century as well as the 28th-best-selling album of all time. The record has sold over seven million copies worldwide.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Please Forgive Me
-2. Babylon
-3. My Oh My
-4. We're Not Right
-5. Nightblindness
-6. Silver Lining
-7. White Ladder
-8. This Year's Love
-9. Sail Away
-10. Say Hello, Wave Goodbye
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Please Forgive Me |  |
+| A2 | Babylon |  |
+| B3 | My Oh My |  |
+| B4 | We're Not Right |  |
+| B5 | Nightblindness |  |
+| C6 | Silver Lining |  |
+| C7 | White Ladder |  |
+| C8 | This Year's Love |  |
+| D9 | Sail Away |  |
+| D10 | Say Hello, Wave Goodbye |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/white-ladder/1738297829" >}}<br>
 
 
-## Videos
-### David Gray - This Years Love Official Video
-{{< youtube id="6zN4_7hq77g" title="David Gray - This Years Love Official Video" >}}<br>
-### More Videos
-
-- [David Gray - Sail Away Official Video](https://www.youtube.com/watch?v=Kq-jLjCVx_Q)
-- [David Gray - White Ladder live](https://www.youtube.com/watch?v=mV3d6jKFvQA)
-- [David Gray - Babylon Official Video](https://www.youtube.com/watch?v=zI_SBAkdKzc)
-- [David Gray - Please Forgive Me Official Video](https://www.youtube.com/watch?v=qmFRXwYKQwU)
-- [David Gray - Say Hello Wave Goodbye - BBC Mastertapes - Maida Vale - 23 Nov 2017](https://www.youtube.com/watch?v=jUZZyzHyqgM)
-- [David Gray - Say Hello Wave Goodbye 22412 Las Vegas NV](https://www.youtube.com/watch?v=BXbeT2ta77Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +70,5 @@ White Ladder spent almost three full years on the UK top 100, consistently chart
 | Format         | Vinyl 2× LP Album Reissue Remastered (White) |
 | Label          | IHT Records |
 | Catalog Number | IHTLP1910 |
-| Notes | To celebrate the 20th Anniversary of White Ladder. Quotations at the end of "Say Hello, Wave Goodbye" are taken from "Into The Mystic" and "Madam George" written by [a255411]. All songs published by BMG Rights Mgmt (UK) Ltd except 'Say Hello Wave Goodbye' by Metropolis/Warner Bros. Music Ltd.  Track C8 engineered and recorded at Air Studios.  ℗ & © 2020 Iht Records under exclusive license to Awal Recordings Ltd.  Tracks appear sequentially on release. |
+| Notes | To celebrate the 20th Anniversary of White Ladder.<br>Quotations at the end of "Say Hello, Wave Goodbye" are taken from "Into The Mystic" and "Madam George" written by [a255411].<br>All songs published by BMG Rights Mgmt (UK) Ltd except 'Say Hello Wave Goodbye' by Metropolis/Warner Bros. Music Ltd.<br><br>Track C8 engineered and recorded at Air Studios.<br><br>℗ & © 2020 Iht Records under exclusive license to Awal Recordings Ltd.<br><br>Tracks appear sequentially on release. |
 | Discogs URL    | [David Gray - White Ladder](https://www.discogs.com/release/14791554-David-Gray-White-Ladder) |

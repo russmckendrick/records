@@ -4,6 +4,7 @@ artist_name: "AVAWAVES"
 artist: "avawaves"
 album_name: "Chrysalis"
 date: 2021-10-22T10:10:18.000000Z
+release_date: "2021-10-08"
 release_id: "20529481"
 slug: "chrysalis-20529481"
 hideSummary: true
@@ -19,26 +20,28 @@ styles: ["Contemporary"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Chrysalis
-2. Seahorse
-3. Danu
-4. Emerging Flight
-5. Before We Wake
-6. Midnight Bird
-7. Lucid Dreaming
-8. Forest Whispers
-9. Sail Wave
-10. Awakening
+| Position | Title | Duration |
+|----------|-------|----------|
+| 1 | Chrysalis |  |
+| 2 | Seahorse |  |
+| 3 | Danu |  |
+| 4 | Emerging Flight |  |
+| 5 | Before We Wake |  |
+| 6 | Midnight Bird |  |
+| 7 | Lucid Dreaming |  |
+| 8 | Forest Whispers |  |
+| 9 | Sail Wave |  |
+| 10 | Awakening |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/chrysalis/1729756604" >}}<br>
 
-
-## Videos
-### AVAWAVES - AWAKENING Official video
-{{< youtube id="qiymWhnJO50" title="AVAWAVES - AWAKENING Official video" >}}<br>
 
 
 ## Release Images

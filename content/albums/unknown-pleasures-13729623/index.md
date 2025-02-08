@@ -4,6 +4,7 @@ artist_name: "Joy Division"
 artist: "joy-division"
 album_name: "Unknown Pleasures"
 date: 2019-06-17T17:32:30.000000Z
+release_date: "2010-08-15"
 release_id: "13729623"
 slug: "unknown-pleasures-13729623"
 hideSummary: true
@@ -30,42 +31,32 @@ Unknown Pleasures is the debut studio album by the English rock band Joy Divisio
 Factory Records did not release any singles from Unknown Pleasures. In January 1980 the album placed at no. 2 on the first publication of the Indie Albums Chart. It reached no. 71 on the Albums Chart when reissued in July 1980 just after the release of the subsequent album Closer. It has since received sustained critical acclaim as an influential post-punk album, and has been named as one of the best albums of all time by publications such as NME, AllMusic, Select, Rolling Stone, and Spin.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Outside
-2. Disorder (3:36)
-3. Day Of The Lords (4:43)
-4. Candidate (3:00)
-5. Insight (4:00)
-6. New Dawn Fades (4:47)
-7. Inside
-8. She’s Lost Control (3:40)
-9. Shadowplay (3:50)
-10. Wilderness (2:35)
-11. Interzone (2:10)
-12. I Remember Nothing (6:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Outside |  |
+| A1 | Disorder | 3:36 |
+| A2 | Day Of The Lords | 4:43 |
+| A3 | Candidate | 3:00 |
+| A4 | Insight | 4:00 |
+| A5 | New Dawn Fades | 4:47 |
+|  | Inside |  |
+| B1 | She’s Lost Control | 3:40 |
+| B2 | Shadowplay | 3:50 |
+| B3 | Wilderness | 2:35 |
+| B4 | Interzone | 2:10 |
+| B5 | I Remember Nothing | 6:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/joy-divisions-unknown-pleasures-orchestral-version/1582070358" >}}<br>
 
 
-## Videos
-### Disorder 2007 Remaster
-{{< youtube id="5BIElTtN6Fs" title="Disorder 2007 Remaster" >}}<br>
-### More Videos
-
-- [Day of the Lords 2007 Remaster](https://www.youtube.com/watch?v=WhgaY4fuUvo)
-- [Candidate 2007 Remaster](https://www.youtube.com/watch?v=4yQhvdOJW8M)
-- [Insight 2007 Remaster](https://www.youtube.com/watch?v=owjTYe4K1hk)
-- [New Dawn Fades 2007 Remaster](https://www.youtube.com/watch?v=7j5LmyNNsrE)
-- [Shes Lost Control 2007 Remaster](https://www.youtube.com/watch?v=UBAO9WcdrOM)
-- [Shadowplay 2007 Remaster](https://www.youtube.com/watch?v=Dvgbk4MkHF8)
-- [Wilderness 2007 Remaster](https://www.youtube.com/watch?v=jd-A18o15y0)
-- [Interzone 2007 Remaster](https://www.youtube.com/watch?v=WHg4jVrbg60)
-- [I Remember Nothing 2007 Remaster](https://www.youtube.com/watch?v=NDMxGIyZGgg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +68,5 @@ Factory Records did not release any singles from Unknown Pleasures. In January 1
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Red [Ruby Red], 180g) |
 | Label          | Factory |
 | Catalog Number | FACT 10 40 |
-| Notes | 30,000 copies released worldwide in textured sleeve with pulsar plots in black on white background. Pulsar in black on white on side A (Outside) label and white on black on side B (Inside) label. The vinyl is transparent.  [Labels] ℗ 2015 & ©  2019 Warner Records UK Ltd.   [Sticker (on shrink wrap)] Joy Division Unknown Pleasures 40th anniversary limited edition of the classic debut album Pressed on ruby red 180g heavyweight vinyl |
+| Notes | 30,000 copies released worldwide in textured sleeve with pulsar plots in black on white background. Pulsar in black on white on side A (Outside) label and white on black on side B (Inside) label. The vinyl is transparent.<br><br>[Labels]<br>℗ 2015 & ©  2019 Warner Records UK Ltd. <br><br>[Sticker (on shrink wrap)]<br>Joy Division Unknown Pleasures<br>40th anniversary limited edition of the classic debut album<br>Pressed on ruby red 180g heavyweight vinyl |
 | Discogs URL    | [Joy Division - Unknown Pleasures](https://www.discogs.com/release/13729623-Joy-Division-Unknown-Pleasures) |

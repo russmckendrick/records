@@ -4,6 +4,7 @@ artist_name: "The Charlatans"
 artist: "the-charlatans"
 album_name: "The Charlatans"
 date: 2021-10-08T09:54:16.000000Z
+release_date: "1995-08-28"
 release_id: "20376190"
 slug: "the-charlatans-20376190"
 hideSummary: true
@@ -31,37 +32,33 @@ styles: ["Britpop", "Indie Rock"]
 ---
 
 This is a discography by the indie British rock band The Charlatans.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Nine Acre Court (3:45)
-2. Feeling Holy (5:16)
-3. Just Lookin' (3:49)
-4. Crashin' In (5:00)
-5. Bullet Comes (5:23)
-6. Chemical Risk (Toothache Remix) (3:39)
-7. Here Comes A Soul Saver (3:23)
-8. Just When You're Thinkin' Things Over (4:51)
-9. Tell Everyone (3:32)
-10. Toothache (5:15)
-11. No Fiction (3:39)
-12. See It Through (4:07)
-13. Thank You (3:35)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Nine Acre Court | 3:45 |
+| A2 | Feeling Holy | 5:16 |
+| A3 | Just Lookin' | 3:49 |
+| B1 | Crashin' In | 5:00 |
+| B2 | Bullet Comes | 5:23 |
+| B3 | Chemical Risk (Toothache Remix) | 3:39 |
+| C1 | Here Comes A Soul Saver | 3:23 |
+| C2 | Just When You're Thinkin' Things Over | 4:51 |
+| C3 | Tell Everyone | 3:32 |
+| D1 | Toothache | 5:15 |
+| D2 | No Fiction | 3:39 |
+| D3 | See It Through | 4:07 |
+| D4 | Thank You | 3:35 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-charlatans/1136815128" >}}<br>
 
 
-## Videos
-### The Charlatans - Just When Youre Thinkin Things Over
-{{< youtube id="blqPQP7RPXw" title="The Charlatans - Just When Youre Thinkin Things Over" >}}<br>
-### More Videos
-
-- [The Charlatans - Crashin In](https://www.youtube.com/watch?v=NlrG6wPgOLo)
-- [The Charlatans-Crashin In on The White Room](https://www.youtube.com/watch?v=CZnxlnjWBNI)
-- [The Charlatans - Feeling Holy](https://www.youtube.com/watch?v=-mSwij3eShM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +70,5 @@ This is a discography by the indie British rock band The Charlatans.
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Yellow Marbled) |
 | Label          | Beggars Arkive |
 | Catalog Number | BBL 174 LP2 |
-| Notes | Gatefold sleeve.    nb: Secondary barcode sticker not on most copies.  For mispressing featuring Gary Numan see "[r=20732044]". |
+| Notes | Gatefold sleeve.  <br><br>nb: Secondary barcode sticker not on most copies.<br><br>For mispressing featuring Gary Numan see "[r=20732044]". |
 | Discogs URL    | [The Charlatans - The Charlatans](https://www.discogs.com/release/20376190-The-Charlatans-The-Charlatans) |

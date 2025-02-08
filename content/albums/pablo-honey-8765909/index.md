@@ -39,29 +39,26 @@ There are, however, whiffs of what Radiohead would soon become. A surprise world
 
 
 ## Tracklisting
-1. You
-2. Creep
-3. How Do You?
-4. Stop Whispering
-5. Thinking About You
-6. Anyone Can Play Guitar
-7. Ripcord
-8. Vegetable
-9. Prove Yourself
-10. I Can't
-11. Lurgee
-12. Blow Out
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | You |  |
+| A2 | Creep |  |
+| A3 | How Do You? |  |
+| A4 | Stop Whispering |  |
+| A5 | Thinking About You |  |
+| A6 | Anyone Can Play Guitar |  |
+| B1 | Ripcord |  |
+| B2 | Vegetable |  |
+| B3 | Prove Yourself |  |
+| B4 | I Can't |  |
+| B5 | Lurgee |  |
+| B6 | Blow Out |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pablo-honey/1097862062" >}}<br>
 
 
-## Videos
-### Radiohead - Creep Best live performance
-{{< youtube id="US0CUegPr3g" title="Radiohead - Creep Best live performance" >}}<br>
-### More Videos
-
-- [Radiohead - Creep](https://www.youtube.com/watch?v=XFkzRNyygfk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +70,5 @@ There are, however, whiffs of what Radiohead would soon become. A surprise world
 | Format         | Vinyl LP Album Misprint Reissue |
 | Label          | XL Recordings |
 | Catalog Number | XLLP779 |
-| Notes | Includes download coupon. Heavy pressed vinyl, but not marketed as 180g or suchlike. Slight misprint in inner sleeve where apostrophes in "I Can't" and "Ed O'Brien" have small vertical lines underneath. The [url=https://www.discogs.com/release/14120723] repress[/url] does not have these misprints on the inner sleeve Tracks A1, A2, A5, B3 & B5 ℗ 1992 - Tracks A3, A4, A6, B1, B2, B4 & B6 ℗  1993     |
+| Notes | Includes download coupon. Heavy pressed vinyl, but not marketed as 180g or suchlike.<br>Slight misprint in inner sleeve where apostrophes in "I Can't" and "Ed O'Brien" have small vertical lines underneath.<br>The [url=https://www.discogs.com/release/14120723] repress[/url] does not have these misprints on the inner sleeve<br>Tracks A1, A2, A5, B3 & B5 ℗ 1992 - Tracks A3, A4, A6, B1, B2, B4 & B6 ℗  1993     |
 | Discogs URL    | [Radiohead - Pablo Honey](https://www.discogs.com/release/8765909-Radiohead-Pablo-Honey) |

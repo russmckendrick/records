@@ -30,27 +30,29 @@ Rancidâ€™s ninth studio album arrives 24 years after their debut, but time hasnâ
 
 
 ## Tracklisting
-1. Track Fast	
-2. Ghost Of A Chance
-3. Telegraph Avenue
-4. An Intimate Close Up Of A Street Punk Trouble Maker
-5. Where I'm Going
-6. Buddy
-7. Farewell Lola Blue
-8. All American Neighborhood
-9. Bovver Rock And Roll
-10. Make It Out Alive
-11. Molly Make Up Your Mind
-12. I Got Them Blues Again
-13. Beauty Of The Pool Hall
-14. Say Goodbye To Our Heroes
-15. I Kept A Promise
-16. Cold Cold Blood
-17. This Is Not The End
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Track Fast	 |  |
+| A2 | Ghost Of A Chance |  |
+| A3 | Telegraph Avenue |  |
+| A4 | An Intimate Close Up Of A Street Punk Trouble Maker |  |
+| A5 | Where I'm Going |  |
+| A6 | Buddy |  |
+| A7 | Farewell Lola Blue |  |
+| A8 | All American Neighborhood |  |
+| A9 | Bovver Rock And Roll |  |
+| B1 | Make It Out Alive |  |
+| B2 | Molly Make Up Your Mind |  |
+| B3 | I Got Them Blues Again |  |
+| B4 | Beauty Of The Pool Hall |  |
+| B5 | Say Goodbye To Our Heroes |  |
+| B6 | I Kept A Promise |  |
+| B7 | Cold Cold Blood |  |
+| B8 | This Is Not The End |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/trouble-maker-deluxe-edition/1485069298" >}}<br>
-
 
 
 
@@ -64,5 +66,5 @@ Rancidâ€™s ninth studio album arrives 24 years after their debut, but time hasnâ
 | Format         | Vinyl LP Album |
 | Label          | Hellcat Records |
 | Catalog Number | 7465-1 |
-| Notes | It contains a double sided insert.  Runout stamped |
+| Notes | It contains a double sided insert.<br><br>Runout stamped |
 | Discogs URL    | [Rancid - Trouble Maker](https://www.discogs.com/release/10418344-Rancid-Trouble-Maker) |

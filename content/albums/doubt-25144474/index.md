@@ -4,6 +4,7 @@ artist_name: "Jesus Jones"
 artist: "jesus-jones"
 album_name: "Doubt"
 date: 2022-11-13T23:28:19.000000Z
+release_date: "1991-01-28"
 release_id: "25144474"
 slug: "doubt-25144474"
 hideSummary: true
@@ -24,43 +25,31 @@ Doubt is a techno-rock album that refines the sample-heavy approach of Liquidize
 Doubt received generally positive reviews about the songwriting, though some critics were less enthusiastic about it. It reached number 25 on the US Billboard 200 and topped the UK Albums Chart, and later certified platinum in the US. "Real, Real, Real", "Right Here, Right Now", "International Bright Young Thing" and "Who? Where? Why?" all reached the top 40 in the UK, with "International Bright Young Thing" charting the highest at number seven. In the US, "Real, Real, Real" and "Right Here, Right Now" peaked at number four and two on the Billboard Hot 100, respectively. Toledo Blade included it on their list of the year's best releases; it and "Right Here, Right Now" would be nominated for Grammy Awards. The song earned an award from the BMI and PRS for being the most played track at college radio.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Trust Me (2:05)
-2. Who? Where? Why? (3:34)
-3. International Bright Young Thing (3:10)
-4. I'm Burning (3:20)
-5. Right Here, Right Now (3:08)
-6. Nothing To Hold Me (3:19)
-7. Real, Real, Real (3:06)
-8. Welcome Back Victoria (3:34)
-9. Two And Two (2:53)
-10. Stripped (3:50)
-11. Blissed (4:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Trust Me | 2:05 |
+| A2 | Who? Where? Why? | 3:34 |
+| A3 | International Bright Young Thing | 3:10 |
+| A4 | I'm Burning | 3:20 |
+| A5 | Right Here, Right Now | 3:08 |
+| A6 | Nothing To Hold Me | 3:19 |
+| B1 | Real, Real, Real | 3:06 |
+| B2 | Welcome Back Victoria | 3:34 |
+| B3 | Two And Two | 2:53 |
+| B4 | Stripped | 3:50 |
+| B5 | Blissed | 4:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/doubt/693294187" >}}<br>
 
 
-## Videos
-### Jesus Jones - International Bright Young Thing Official Music Video
-{{< youtube id="XedEne6TXXA" title="Jesus Jones - International Bright Young Thing Official Music Video" >}}<br>
-### More Videos
-
-- [Jesus Jones - Real Real Real Official Music Video](https://www.youtube.com/watch?v=qBklIul0Rog)
-- [Jesus Jones - Right Here Right Now Official Music Video](https://www.youtube.com/watch?v=MznHdJReoeo)
-- [Trust Me](https://www.youtube.com/watch?v=CK3C9XZcTbM)
-- [Who Where Why](https://www.youtube.com/watch?v=fidPRriWTrQ)
-- [Im Burning](https://www.youtube.com/watch?v=URZMGGwDwKo)
-- [Right Here Right Now](https://www.youtube.com/watch?v=TN42nLpQvM8)
-- [Nothing To Hold Me](https://www.youtube.com/watch?v=4V0aimOOSmE)
-- [Welcome Back Victoria](https://www.youtube.com/watch?v=ay7J7wH2W4A)
-- [Two And Two](https://www.youtube.com/watch?v=seJBGQdLkZ4)
-- [Stripped](https://www.youtube.com/watch?v=xZFkCv1W3EE)
-- [Blissed](https://www.youtube.com/watch?v=YvRImAFep80)
 
 ## Release Images
 {{< imageGrid >}}

@@ -36,51 +36,22 @@ Born to Run was Springsteen's breakthrough album. Its success has been attribute
 
 
 ## Tracklisting
-1. Thunder Road (4:50)
-2. Tenth Avenue Freeze-Out (3:11)
-3. Night (3:01)
-4. Backstreets (6:29)
-5. Born To Run (4:30)
-6. She's The One (4:30)
-7. Meeting Across The River (3:16)
-8. Jungleland (9:33)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Thunder Road | 4:50 |
+| A2 | Tenth Avenue Freeze-Out | 3:11 |
+| A3 | Night | 3:01 |
+| A4 | Backstreets | 6:29 |
+| B1 | Born To Run | 4:30 |
+| B2 | She's The One | 4:30 |
+| B3 | Meeting Across The River | 3:16 |
+| B4 | Jungleland | 9:33 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/born-to-run/310730204" >}}<br>
 
 
-## Videos
-### Bruce Springsteen - Born to Run Official Video
-{{< youtube id="IxuThNgl3YA" title="Bruce Springsteen - Born to Run Official Video" >}}<br>
-### More Videos
-
-- [Born to Run](https://www.youtube.com/watch?v=Wu4_zVxmufY)
-- [Bruce Springsteen  The E Street Band - Born to Run Live In Barcelona](https://www.youtube.com/watch?v=v6O1AYUrVQs)
-- [Bruce Springsteen - Born To Run Lyrics](https://www.youtube.com/watch?v=a7tOcGVT20E)
-- [Born to Run Live at the Hammersmith Odeon London 75](https://www.youtube.com/watch?v=ajbJqfNS0aA)
-- [Bruce Springsteen - Born to Run Acoustic](https://www.youtube.com/watch?v=dONEgrsYoOk)
-- [Born to Run](https://www.youtube.com/watch?v=z_XiRS8eF8w)
-- [Born to Run London Calling Live In Hyde Park 2009](https://www.youtube.com/watch?v=uNzT-c5neCk)
-- [Bruce Springsteen  The E Street Band - Born to Run Live in New York City](https://www.youtube.com/watch?v=jj9ObfkHY7c)
-- [Bruce Springsteen Born to Run lyrics](https://www.youtube.com/watch?v=65xF8SThFaw)
-- [Bruce Springsteen - Born to Run The River Tour Tempe 1980](https://www.youtube.com/watch?v=3jLdecONVQs)
-- [Born To Run Phoenix 78 from Thrill Hill Vault 1976-1978](https://www.youtube.com/watch?v=lpjqgGNUcG4)
-- [Bruce Springsteen - Born to run](https://www.youtube.com/watch?v=LTEjjGW3vUA)
-- [Bruce Springsteen - Born to Run at Hard Rock Calling 09](https://www.youtube.com/watch?v=gA4OWZ2a23Y)
-- [Bruce Springsteen Born To Run  Lyrics](https://www.youtube.com/watch?v=TCBB7yLNSgo)
-- [Bruce Springsteen - Born to Run - 1984-07-26 - Toronto ON - 4K AI Upscale](https://www.youtube.com/watch?v=T4HhgTfZBUQ)
-- [Bruce Springsteen and Billy Joel perform Born to Run Hall of Fame 25th Anniversary Concert](https://www.youtube.com/watch?v=l2BvmL2MMJ8)
-- [Born to Run - Bruce Springsteen live at the Kennedy Center Washington DC 2022](https://www.youtube.com/watch?v=tF7tZmVD06Y)
-- [Bruce Springsteen - Born to Run Springsteen on Broadway - Official Audio](https://www.youtube.com/watch?v=6db0jHlyPyA)
-- [Bruce Springsteen - Born to run Live Glastonbury 2009](https://www.youtube.com/watch?v=xq95141AmYU)
-- [Bruce Springsteen - Born To Run Studio Version](https://www.youtube.com/watch?v=_1W1GSaUduo)
-- [Bruce Springsteen - Born to Run Live 2016](https://www.youtube.com/watch?v=nLWO7Mn9A4w)
-- [Bruce Springsteen - Born to Run Las Vegas NV 3222024](https://www.youtube.com/watch?v=a78F1BCLU9E)
-- [Bruce Springsteen  Jon Bon Jovi  Born To Run  Pro Shot  New York 2012](https://www.youtube.com/watch?v=ptn2gtLNk3A)
-- [Born to Run Live at Madison Square Garden New York NY - 092179](https://www.youtube.com/watch?v=k_4g-e8fhg4)
-- [Born to Run](https://www.youtube.com/watch?v=Wu4_zVxmufY)
-- [Bruce Springsteen Born to Run lyrics](https://www.youtube.com/watch?v=65xF8SThFaw)
-- [Born to Run complete album](https://www.youtube.com/watch?v=Vo4EoCqMvp4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -92,5 +63,5 @@ Born to Run was Springsteen's breakthrough album. Its success has been attribute
 | Format         | Vinyl LP Album Misprint Stereo (Gatefold) |
 | Label          | CBS |
 | Catalog Number | S 69170 |
-| Notes | Jon Landau's name is misspelled "John" on the bottom of the back cover.  Randy Brecker and Michael Brecker appear courtesy of Arista Records. David Sancious appears courtesy of Epic Records. Dave Sanborn appears courtesy of Warner.  Recorded, mixed, and mastered at Record Plant Studio, New York, N.Y. Track B1, 'Recorded at 914 Sound Studio, Blauvelt, N.Y.' Cover made by 'Interpak by Shorewood Packaging Co. Ltd. England' Cat. # is 69170 on the cover, S 69170 on the label and runout. Black and white photo of the artist on left hand inside cover, song lyrics on both inside covers.  Label information: Made in England 1-4 Intersong Music Ltd. (both labels) Additional catalogue # (PC33795) ℗ 1975 CBS Inc.  Publishing information:  All selections © 1975 Laurel Canyon Music Ltd. except "Born To Run," © 1974 Laurel Canyon Music Ltd. Used by permission. All rights reserved. Assigned for UK to Intersong Music Ltd.  Very special thanks for their patience and help to Roy Cicala and Susan Palmer at Record Plant, N.Y., Columbia Records and Sam McKeith, William Morris Agency.  All Matrix/Runouts are Etched - Variants 1, 6, 7. All Matrix/Runouts are Stamped - Variants 3 to 5. Matrix/Runouts are Not Known (no information provided) - Variant 2.     |
+| Notes | Jon Landau's name is misspelled "John" on the bottom of the back cover.<br><br>Randy Brecker and Michael Brecker appear courtesy of Arista Records.<br>David Sancious appears courtesy of Epic Records.<br>Dave Sanborn appears courtesy of Warner.<br><br>Recorded, mixed, and mastered at Record Plant Studio, New York, N.Y.<br>Track B1, 'Recorded at 914 Sound Studio, Blauvelt, N.Y.'<br>Cover made by 'Interpak by Shorewood Packaging Co. Ltd. England'<br>Cat. # is 69170 on the cover, S 69170 on the label and runout.<br>Black and white photo of the artist on left hand inside cover, song lyrics on both inside covers.<br><br>Label information:<br>Made in England<br>1-4 Intersong Music Ltd. (both labels)<br>Additional catalogue # (PC33795)<br>℗ 1975 CBS Inc.<br><br>Publishing information: <br>All selections © 1975 Laurel Canyon Music Ltd. except "Born To Run," © 1974 Laurel Canyon Music Ltd.<br>Used by permission. All rights reserved.<br>Assigned for UK to Intersong Music Ltd.<br><br>Very special thanks for their patience and help to Roy Cicala and Susan Palmer at Record Plant, N.Y., Columbia Records and Sam McKeith, William Morris Agency.<br><br>All Matrix/Runouts are Etched - Variants 1, 6, 7.<br>All Matrix/Runouts are Stamped - Variants 3 to 5.<br>Matrix/Runouts are Not Known (no information provided) - Variant 2.<br><br><br><br> |
 | Discogs URL    | [Bruce Springsteen - Born To Run](https://www.discogs.com/release/1663765-Bruce-Springsteen-Born-To-Run) |

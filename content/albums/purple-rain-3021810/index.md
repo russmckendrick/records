@@ -41,33 +41,23 @@ Music critics noted the innovative and experimental aspects of the soundtrack's 
 
 
 ## Tracklisting
-1. Let's Go Crazy (4:39)
-2. Take Me With U (3:54)
-3. The Beautiful Ones (5:15)
-4. Computer Blue (3:59)
-5. Darling Nikki (4:15)
-6. When Doves Cry (5:52)
-7. I Would Die 4 U (2:51)
-8. Baby I'm A Star (4:20)
-9. Purple Rain (8:45)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Let's Go Crazy | 4:39 |
+| A2 | Take Me With U | 3:54 |
+| A3 | The Beautiful Ones | 5:15 |
+| A4 | Computer Blue | 3:59 |
+| A5 | Darling Nikki | 4:15 |
+| B1 | When Doves Cry | 5:52 |
+| B2 | I Would Die 4 U | 2:51 |
+| B3 | Baby I'm A Star | 4:20 |
+| B4 | Purple Rain | 8:45 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/purple-rain/1746833068" >}}<br>
 
 
-## Videos
-### Prince  The Revolution - Lets Go Crazy Official Music Video
-{{< youtube id="aXJhDltzYVQ" title="Prince  The Revolution - Lets Go Crazy Official Music Video" >}}<br>
-### More Videos
-
-- [Take Me with U](https://www.youtube.com/watch?v=HHmrJv4e6pE)
-- [The Beautiful Ones](https://www.youtube.com/watch?v=oK1Jl8tLzls)
-- [Computer Blue](https://www.youtube.com/watch?v=wyKeCYYzIRk)
-- [Darling Nikki](https://www.youtube.com/watch?v=Kawlt8Ncll0)
-- [Prince  The Revolution - When Doves Cry Extended Version Official Music Video](https://www.youtube.com/watch?v=IUc0R8bbWQE)
-- [I Would Die 4 U](https://www.youtube.com/watch?v=iGCIdHrRXW0)
-- [Baby Im a Star](https://www.youtube.com/watch?v=NEvxLjxkEz8)
-- [Purple Rain](https://www.youtube.com/watch?v=347vCib_lMs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +69,5 @@ Music critics noted the innovative and experimental aspects of the soundtrack's 
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122-79914-9 |
-| Notes | Sticker on shrink: Back to Vinyl original album on 180-gram vinyl LP  Cover: Music from the motion picture "Purple Rain" starring Prince Warner Bros. Records Inc., A Warner Music Group company. © 1984 Warner Bros. Records Inc. ℗ 1984 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside of the U.S. [...] Manufactured in the E.U.  Includes a 4-panel folded insert, which features the artwork of the initial dust sleeve without writing credits. and the face painting. The inner panels are blank.  "Let's Go Crazy" & "Computer Blue" were recorded at The Warehouse in the summer of '83 [...] "Take Me With U," "The Beautiful Ones" & "When Doves Cry" were recorded at Sunset Sound [...] "I Would Die 4 U", "Baby I'm A Star" & "Purple Rain" recorded live at 1st Avenue in the summer of '83 [...] "Darling Nikki" was recorded at a place close 2 where u live.  Labels: © ℗ 1984 Warner Bros. Records Inc. for the U.S. Made in the E.U.  Vinyl: [the record is in a generic white dust sleeve] The matrix indicates as though plating was manufactured at Rainbo Records (see: [r=2085604]) and the record pressed by Optimal.  |
+| Notes | Sticker on shrink:<br>Back to Vinyl original album on 180-gram vinyl LP<br><br>Cover:<br>Music from the motion picture "Purple Rain" starring Prince<br>Warner Bros. Records Inc., A Warner Music Group company.<br>© 1984 Warner Bros. Records Inc. ℗ 1984 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside of the U.S. [...] Manufactured in the E.U.<br><br>Includes a 4-panel folded insert, which features the artwork of the initial dust sleeve without writing credits. and the face painting. The inner panels are blank.<br><br>"Let's Go Crazy" & "Computer Blue" were recorded at The Warehouse in the summer of '83 [...] "Take Me With U," "The Beautiful Ones" & "When Doves Cry" were recorded at Sunset Sound [...] "I Would Die 4 U", "Baby I'm A Star" & "Purple Rain" recorded live at 1st Avenue in the summer of '83 [...] "Darling Nikki" was recorded at a place close 2 where u live.<br><br>Labels:<br>© ℗ 1984 Warner Bros. Records Inc. for the U.S.<br>Made in the E.U.<br><br>Vinyl:<br>[the record is in a generic white dust sleeve]<br>The matrix indicates as though plating was manufactured at Rainbo Records (see: [r=2085604]) and the record pressed by Optimal.<br> |
 | Discogs URL    | [Prince And The Revolution - Purple Rain](https://www.discogs.com/release/3021810-Prince-And-The-Revolution-Purple-Rain) |

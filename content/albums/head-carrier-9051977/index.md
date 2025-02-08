@@ -4,6 +4,7 @@ artist_name: "Pixies"
 artist: "pixies"
 album_name: "Head Carrier"
 date: 2016-10-03T14:28:07.000000Z
+release_date: "2016-09-30"
 release_id: "9051977"
 slug: "head-carrier-9051977"
 hideSummary: true
@@ -29,34 +30,32 @@ Head Carrier is the sixth studio album by the American alternative rock band the
 The album's title references a cephalophore, a saint carrying his own head, more specifically St. Denis of Paris.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Head Carrier 
-2. Classic Masher 
-3. Baal’s Back 
-4. Might As Well Be Gone 
-5. Oona
-6. Talent
-7. Tenement Song 
-8. Bel Esprit 
-9. All I Think About Now
-10. Um Chagga Lagga 
-11. Plaster Of Paris 
-12. All The Saints
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Head Carrier  |  |
+| A2 | Classic Masher  |  |
+| A3 | Baal’s Back  |  |
+| A4 | Might As Well Be Gone  |  |
+| A5 | Oona |  |
+| A6 | Talent |  |
+| B1 | Tenement Song  |  |
+| B2 | Bel Esprit  |  |
+| B3 | All I Think About Now |  |
+| B4 | Um Chagga Lagga  |  |
+| B5 | Plaster Of Paris  |  |
+| B6 | All The Saints |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/head-carrier/1589760454" >}}<br>
 
 
-## Videos
-### Pixies - Head Carrier full album 2016
-{{< youtube id="8rSLzayIy9w" title="Pixies - Head Carrier full album 2016" >}}<br>
-### More Videos
-
-- [PIXIES - Tenement Song Official Video](https://www.youtube.com/watch?v=-SLgXBLQA2M)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +67,5 @@ The album's title references a cephalophore, a saint carrying his own head, more
 | Format         | Vinyl LP Album (180g, Slipmat) |
 | Label          | Pixies Music |
 | Catalog Number | PM018LP |
-| Notes | The first catalog number appears on the spine, back cover and A-side label. The second catalog number appears on the back cover barcode that is stickered on the release.   Housed in a gatefold cover and a printed inner sleeve, contains a slipmat and a download coupon for the entire album.  Indie records store exclusive release.    From the back cover:  Exclusively licensed worldwide to play it aǵain     sam   ℗ & © Pixies Music 2016  From the inner sleeve:  Recorded at RAK Studios  Mixed at Psalm Studios  Assistant at RAK: [...]  Pressing plant uncredited, derived from runout etchings. |
+| Notes | The first catalog number appears on the spine, back cover and A-side label. The second catalog number appears on the back cover barcode that is stickered on the release. <br><br>Housed in a gatefold cover and a printed inner sleeve, contains a slipmat and a download coupon for the entire album. <br>Indie records store exclusive release.  <br><br>From the back cover: <br>Exclusively licensed worldwide to<br>play it aǵain <br>   sam <br><br>℗ & © Pixies Music 2016<br><br>From the inner sleeve: <br>Recorded at RAK Studios <br>Mixed at Psalm Studios <br>Assistant at RAK: [...]<br><br>Pressing plant uncredited, derived from runout etchings. |
 | Discogs URL    | [Pixies - Head Carrier](https://www.discogs.com/release/9051977-Pixies-Head-Carrier) |

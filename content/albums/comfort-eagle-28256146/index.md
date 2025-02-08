@@ -4,6 +4,7 @@ artist_name: "Cake"
 artist: "cake"
 album_name: "Comfort Eagle"
 date: 2023-09-28T10:18:12.000000Z
+release_date: "2001-07-24"
 release_id: "28256146"
 slug: "comfort-eagle-28256146"
 hideSummary: true
@@ -26,35 +27,31 @@ styles: ["Alternative Rock"]
 ---
 
 Comfort Eagle is the fourth studio album by American alternative rock band Cake. It was released on July 24, 2001, on Columbia Records, their first with the company.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Opera Singer (4:06)
-2. Meanwhile, Rick James... (3:57)
-3. Shadow Stabbing (3:07)
-4. Short Skirt / Long Jacket (3:24)
-5. Commissioning A Symphony In C (2:59)
-6. Arco Arena (1:31)
-7. Comfort Eagle (3:40)
-8. Long Line Of Cars (3:24)
-9. Love You Madly (3:58)
-10. Pretty Pink Ribbon (3:08)
-11. World Of Two (3:41)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Opera Singer | 4:06 |
+| A2 | Meanwhile, Rick James... | 3:57 |
+| A3 | Shadow Stabbing | 3:07 |
+| A4 | Short Skirt / Long Jacket | 3:24 |
+| A5 | Commissioning A Symphony In C | 2:59 |
+| B6 | Arco Arena | 1:31 |
+| B7 | Comfort Eagle | 3:40 |
+| B8 | Long Line Of Cars | 3:24 |
+| B9 | Love You Madly | 3:58 |
+| B10 | Pretty Pink Ribbon | 3:08 |
+| B11 | World Of Two | 3:41 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/comfort-eagle/181630530" >}}<br>
 
 
-## Videos
-### CAKE - Short Skirt  Long Jacket Official HD Video
-{{< youtube id="X5KmB8Laemg" title="CAKE - Short Skirt  Long Jacket Official HD Video" >}}<br>
-### More Videos
-
-- [CAKE - Comfort Eagle Official Audio](https://www.youtube.com/watch?v=ezoOnI95BpE)
-- [Cake - Comfort Eagle Late World with Zach](https://www.youtube.com/watch?v=taNCL5tXFPE)
-- [CAKE - The Distance Official HD Video](https://www.youtube.com/watch?v=F_HoMkkRHv8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +63,5 @@ Comfort Eagle is the fourth studio album by American alternative rock band Cake.
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Coke Bottle Green, 150 Gram) |
 | Label          | Columbia |
 | Catalog Number | 19658762461 |
-| Notes | ℗ 2001 & © 2001, 2023 Columbia Records, a division of Sony Music Entertainment. Distributed by Sony Music Entertainment / 25 Madison Avenue, New York, NY 10010-8601. "Vinyl: Made In France"  Recorded at Paradise Studios in Sacramento, CA with additional recording at Hyde Street Studios in San Francisco, CA. Tracks A1, A4 and B8 to B11 mixed at Paradise Studios in Sacramento, CA. Tracks A2 and B6 mixed at Hyde Street Studios, San Francisco, CA. Tracks A1, A2, A3 and B7 mixed at Noise In The Attic, Seal Beach, CA. Mastered at Precision Mastering in Los Angeles, CA.  Catalog number is in the runouts and barcode.  On rear cover: ℗  2001 & © 2001, 2023 Columbia Records, a division of Sony Music Entertainment / 25 Madison Avenue, New York, NY 10010-8601  On record labels: ℗  2001 & © 2001, 2023 Columbia Records, a division of Sony Music Entertainment. Made in France  Tracks listed sequentially to match release. Comes with printed inner sleeve. |
+| Notes | ℗ 2001 & © 2001, 2023 Columbia Records, a division of Sony Music Entertainment. Distributed by Sony Music Entertainment / 25 Madison Avenue, New York, NY 10010-8601.<br>"Vinyl: Made In France"<br><br>Recorded at Paradise Studios in Sacramento, CA with additional recording at Hyde Street Studios in San Francisco, CA.<br>Tracks A1, A4 and B8 to B11 mixed at Paradise Studios in Sacramento, CA.<br>Tracks A2 and B6 mixed at Hyde Street Studios, San Francisco, CA.<br>Tracks A1, A2, A3 and B7 mixed at Noise In The Attic, Seal Beach, CA.<br>Mastered at Precision Mastering in Los Angeles, CA.<br><br>Catalog number is in the runouts and barcode.<br><br>On rear cover:<br>℗  2001 & © 2001, 2023 Columbia Records, a division of Sony Music Entertainment / 25 Madison Avenue, New York, NY 10010-8601<br><br>On record labels:<br>℗  2001 & © 2001, 2023 Columbia Records, a division of Sony Music Entertainment. Made in France<br><br>Tracks listed sequentially to match release. Comes with printed inner sleeve. |
 | Discogs URL    | [Cake - Comfort Eagle](https://www.discogs.com/release/28256146-Cake-Comfort-Eagle) |

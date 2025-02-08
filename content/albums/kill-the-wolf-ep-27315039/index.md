@@ -1,9 +1,10 @@
 ---
 title: "Matt Berry - Kill The Wolf EP"
 artist_name: "Matt Berry"
-artist: "matt-berry-3"
+artist: "matt-berry"
 album_name: "Kill The Wolf EP"
 date: 2023-06-07T10:39:42.000000Z
+release_date: "2013-06-17"
 release_id: "27315039"
 slug: "kill-the-wolf-ep-27315039"
 hideSummary: true
@@ -21,30 +22,23 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Medicine (3:06)
-2. An Electric Hero (3:36)
-3. On A High (2:12)
-4. Ukenwhistle (3:51)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Medicine | 3:06 |
+| A2 | An Electric Hero | 3:36 |
+| AA1 | On A High | 2:12 |
+| AA2 | Ukenwhistle | 3:51 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kill-the-wolf/1152559578" >}}<br>
 
 
-## Videos
-### Matt Berry - Medicine Kill the Wolf Album
-{{< youtube id="xbvtge3VxVk" title="Matt Berry - Medicine Kill the Wolf Album" >}}<br>
-### More Videos
-
-- [Matt Berry - An Electric Hero Kill the Wolf EP](https://www.youtube.com/watch?v=KE89KVRRtzI)
-- [Matt Berry - Ukenwhistle Kill the Wolf EP](https://www.youtube.com/watch?v=uWvd9466EKI)
-- [Matt Berry - Medicine stripped down version](https://www.youtube.com/watch?v=Q-Asf6DrJHo)
-- [Matt Berry - An Electric Hero Kill the Wolf EP](https://www.youtube.com/watch?v=KE89KVRRtzI)
-- [Matt Berry Ukenwhistle](https://www.youtube.com/watch?v=gjd4bAPDh2E)
-- [Matt Berry - Medicine Kill the Wolf Album](https://www.youtube.com/watch?v=xbvtge3VxVk)
-- [Matt Berry - An Electric Hero Kill the Wolf EP](https://www.youtube.com/watch?v=KE89KVRRtzI)
-- [Matt Berry - Ukenwhistle Kill the Wolf EP](https://www.youtube.com/watch?v=uWvd9466EKI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -55,5 +49,5 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 | Format         | Vinyl 7" 45 RPM Repress |
 | Label          | Acid Jazz |
 | Catalog Number | AJX337S |
-| Notes | Vinyl repress of a CD EP release for the 10th Anniversary of 'Kill The Wolf' album.   "All instruments played by Matt Berry (except whistle & recorder)" |
+| Notes | Vinyl repress of a CD EP release for the 10th Anniversary of 'Kill The Wolf' album. <br><br>"All instruments played by Matt Berry (except whistle & recorder)" |
 | Discogs URL    | [Matt Berry - Kill The Wolf EP](https://www.discogs.com/release/27315039-Matt-Berry-3-Kill-The-Wolf-EP) |

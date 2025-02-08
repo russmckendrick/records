@@ -4,6 +4,7 @@ artist_name: "Dream Theater"
 artist: "dream-theater"
 album_name: "Metropolis Pt. 2: Scenes From A Memory"
 date: 2016-02-01T19:16:22.000000Z
+release_date: "1999-10-26"
 release_id: "6151119"
 slug: "metropolis-pt-2-scenes-from-a-memory-6151119"
 hideSummary: true
@@ -32,26 +33,29 @@ Metropolis Pt. 2: Scenes from a Memory is the fifth studio album and first conce
 The album is the sequel to "Metropolis—Part I: 'The Miracle and the Sleeper'", a song featured on the band's 1992 album Images and Words. It was the first album to feature Jordan Rudess on keyboards.
 For the album's twentieth anniversary, the band performed the album live in its entirety throughout the Distance over Time Tour (as documented on Distant Memories - Live in London).
 On June 24, 2024, it was announced that the album would receive a novel adaptation, with Peter Orullian as the author. It is set to be released on October 26, 2024, coinciding with the album's 25th anniversary.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. ACT I
-2. Scene One (2:06)
-3. Scene Two (8:49)
-4. Scene Three (7:51)
-5. Scene Four (11:22)
-6. Scene Five (5:29)
-7. ACT II
-8. Scene Six (12:53)
-9. Scene Seven (10:00)
-10. Scene Eight (6:38)
-11. Scene Nine (12:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | ACT I |  |
+|  | Scene One | 2:06 |
+|  | Scene Two | 8:49 |
+|  | Scene Three | 7:51 |
+|  | Scene Four | 11:22 |
+|  | Scene Five | 5:29 |
+|  | ACT II |  |
+|  | Scene Six | 12:53 |
+|  | Scene Seven | 10:00 |
+|  | Scene Eight | 6:38 |
+|  | Scene Nine | 12:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/metropolis-pt-2-scenes-from-a-memory/282694467" >}}<br>
-
 
 
 
@@ -65,5 +69,5 @@ On June 24, 2024, it was announced that the album would receive a novel adaptati
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1001 |
-| Notes | Issued in a gatefold cover with black inner sleeves and an insert with credits.    Patiently and expertly engineered at Bear Tracks Studios, Suffern, NY  Additional overdubs at Little Bear Studios, Suffern, NY  February-June 1999  Additional overdubs (vocals) at Metal Works Studios, Toronto, Ontario  June-July 1999  Mixed at Avatar Studios, NYC and at Electric Lady Studios, NYC  July-August 1999  Mastered at Sterling Sound, NYC  August 1999    Originally released ℗ & © 1999 Elektra Entertainment Group Inc.  Made in the EU    Release dates:  03 Oct 2014 in Netherlands  06 Oct 2014 in Europe |
+| Notes | Issued in a gatefold cover with black inner sleeves and an insert with credits.<br><br>Patiently and expertly engineered at Bear Tracks Studios, Suffern, NY<br>Additional overdubs at Little Bear Studios, Suffern, NY<br>February-June 1999<br>Additional overdubs (vocals) at Metal Works Studios, Toronto, Ontario<br>June-July 1999<br>Mixed at Avatar Studios, NYC and at Electric Lady Studios, NYC<br>July-August 1999<br>Mastered at Sterling Sound, NYC<br>August 1999<br><br>Originally released ℗ & © 1999 Elektra Entertainment Group Inc.<br>Made in the EU<br><br>Release dates:<br>03 Oct 2014 in Netherlands<br>06 Oct 2014 in Europe |
 | Discogs URL    | [Dream Theater - Metropolis Pt. 2: Scenes From A Memory](https://www.discogs.com/release/6151119-Dream-Theater-Metropolis-Pt-2-Scenes-From-A-Memory) |

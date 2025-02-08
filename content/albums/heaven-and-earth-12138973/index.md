@@ -49,77 +49,38 @@ Kamasi Washington's triple-length 2015 breakout, <i>The Epic</i>, announced the 
 
 
 ## Tracklisting
-1. Earth
-2. Fists Of Fury (9:42)
-3. Can You Hear Him (8:54)
-4. Hub-Tones (9:09)
-5. Connections (8:23)
-6. Tiffakonkae (9:24)
-7. The Invincible Youth (9:52)
-8. Testify (5:43)
-9. One Of One (9:50)
-10. Heaven
-11. The Space Travelers Lullaby (10:31)
-12. Vi Lua Vi Sol (11:06)
-13. Street Fighter Mas (5:57)
-14. Song For The Fallen (12:41)
-15. Journey (8:50)
-16. The Psalmnist (7:18)
-17. Show Us The Way (6:51)
-18. Will You Sing (10:12)
-19. The Choice
-20. The Secret Of Jinsinson (8:07)
-21. Will You Love Me Tomorrow (9:40)
-22. My Family (6:34)
-23. Agents Of Multiverse (5:22)
-24. Ooh Child (8:53)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Earth |  |
+| A1 | Fists Of Fury | 9:42 |
+| A2 | Can You Hear Him | 8:54 |
+| B3 | Hub-Tones | 9:09 |
+| B4 | Connections | 8:23 |
+| C5 | Tiffakonkae | 9:24 |
+| C6 | The Invincible Youth | 9:52 |
+| D7 | Testify | 5:43 |
+| D8 | One Of One | 9:50 |
+|  | Heaven |  |
+| E1 | The Space Travelers Lullaby | 10:31 |
+| E2 | Vi Lua Vi Sol | 11:06 |
+| F3 | Street Fighter Mas | 5:57 |
+| F4 | Song For The Fallen | 12:41 |
+| G5 | Journey | 8:50 |
+| G6 | The Psalmnist | 7:18 |
+| H7 | Show Us The Way | 6:51 |
+| H8 | Will You Sing | 10:12 |
+|  | The Choice |  |
+| I1 | The Secret Of Jinsinson | 8:07 |
+| I2 | Will You Love Me Tomorrow | 9:40 |
+| J3 | My Family | 6:34 |
+| J4 | Agents Of Multiverse | 5:22 |
+| J5 | Ooh Child | 8:53 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/heaven-and-earth/1363033047" >}}<br>
 
 
-## Videos
-### Kamasi Washington Hub-Tones
-{{< youtube id="u-e6mOTK__Y" title="Kamasi Washington Hub-Tones" >}}<br>
-### More Videos
-
-- [Connections](https://www.youtube.com/watch?v=gl-9ZYLLKsU)
-- [Tiffakonkae](https://www.youtube.com/watch?v=k504nCPzjhk)
-- [The Invincible Youth](https://www.youtube.com/watch?v=_r3skFJpLco)
-- [Testify](https://www.youtube.com/watch?v=dyhaya-g2eQ)
-- [One of One](https://www.youtube.com/watch?v=31RbajKWAZ8)
-- [The Space Travelers Lullaby](https://www.youtube.com/watch?v=8Zw85YN37Cs)
-- [Vi Lua Vi Sol](https://www.youtube.com/watch?v=hoxGDKQZ1nY)
-- [Kamasi Washington - Street Fighter Mas](https://www.youtube.com/watch?v=LdyabrdFMC8)
-- [Song For The Fallen](https://www.youtube.com/watch?v=qQC1TptRryQ)
-- [Journey](https://www.youtube.com/watch?v=HgB_MtTsdQk)
-- [The Psalmnist](https://www.youtube.com/watch?v=m35-axNUwms)
-- [Show Us The Way](https://www.youtube.com/watch?v=8w-M7tSY0NU)
-- [Will You Sing](https://www.youtube.com/watch?v=QyZQEE_MnWQ)
-- [Will You Love Me Tomorrow](https://www.youtube.com/watch?v=aYfOU70TPU8)
-- [The Secret of Jinsinson](https://www.youtube.com/watch?v=3u8LrGROa20)
-- [My Family](https://www.youtube.com/watch?v=nEo9KrnRG0M)
-- [Agents of The Multiverse](https://www.youtube.com/watch?v=tWjPIJ0Rz6g)
-- [Ooh Child](https://www.youtube.com/watch?v=X33VVqENupc)
-- [Kamasi Washington Hub-Tones](https://www.youtube.com/watch?v=u-e6mOTK__Y)
-- [Connections](https://www.youtube.com/watch?v=gl-9ZYLLKsU)
-- [Tiffakonkae](https://www.youtube.com/watch?v=k504nCPzjhk)
-- [The Invincible Youth](https://www.youtube.com/watch?v=_r3skFJpLco)
-- [Testify](https://www.youtube.com/watch?v=dyhaya-g2eQ)
-- [One of One](https://www.youtube.com/watch?v=31RbajKWAZ8)
-- [The Space Travelers Lullaby](https://www.youtube.com/watch?v=8Zw85YN37Cs)
-- [Vi Lua Vi Sol](https://www.youtube.com/watch?v=hoxGDKQZ1nY)
-- [Kamasi Washington - Street Fighter Mas](https://www.youtube.com/watch?v=LdyabrdFMC8)
-- [Song For The Fallen](https://www.youtube.com/watch?v=qQC1TptRryQ)
-- [Journey](https://www.youtube.com/watch?v=HgB_MtTsdQk)
-- [The Psalmnist](https://www.youtube.com/watch?v=m35-axNUwms)
-- [Show Us The Way](https://www.youtube.com/watch?v=8w-M7tSY0NU)
-- [Will You Sing](https://www.youtube.com/watch?v=QyZQEE_MnWQ)
-- [Will You Love Me Tomorrow](https://www.youtube.com/watch?v=aYfOU70TPU8)
-- [The Secret of Jinsinson](https://www.youtube.com/watch?v=3u8LrGROa20)
-- [My Family](https://www.youtube.com/watch?v=nEo9KrnRG0M)
-- [Agents of The Multiverse](https://www.youtube.com/watch?v=tWjPIJ0Rz6g)
-- [Ooh Child](https://www.youtube.com/watch?v=X33VVqENupc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -131,5 +92,5 @@ Kamasi Washington's triple-length 2015 breakout, <i>The Epic</i>, announced the 
 | Format         | Vinyl 5× LP Album |
 | Label          | Young Turks |
 | Catalog Number | YT176LP |
-| Notes | The tracks of each part ('Earth, Heaven' and 'The Choice') are numbered sequentially on both inner sleeves and labels. The runouts are etched, apart from "MASTERDISK", which is stamped; and the plating marks such as "1=", "1+", "1⊥", are mirrored.  'The Choice' disc is hidden in the middle of the packaging, under a corrugated seam. The seam must be cut open to access the hidden disc.  On labels: YT176LP: ℗2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings. ©2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings. All rights reserved. Made in EU  Recording Studios: Electro-Vox Recording; Henson Recording Studio; Stagg Street Studio  Track A1: © 2018 Molique Music (BMI) Tracks A2, B4 to G5, H7 to I1, J3, J4: © 2018 Kamasi Music (ASCAP) Track B3: © 2018 Hubtones Music Co (BMI) Tracks D7, G5: Lyrics by Patrice Quinn (ASCAP) Track G6: © 2018 Ryan Porter Progressive Music Publishing Company (ASCAP) Track I2: © 2018 Screen Gems - EMI Music Inc. (BMI) Track J4: © 2018 Drum Hedz 713 Music (SESAC) Track J5: © 2018 Kama Sutra Music Inc. / Stan Vincent Music (BMI)  All rights on behalf of Kamasi Music administered by Words & Music, a division of Big Deal Music Group; on behalf of Molique Music administered by BMG Platinum Songs US; on behalf of Kama Sutra Music Inc., Stan Vincent Music administered by EMI Unart Catalog Inc.  ℗ 2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings © 2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings |
+| Notes | The tracks of each part ('Earth, Heaven' and 'The Choice') are numbered sequentially on both inner sleeves and labels. The runouts are etched, apart from "MASTERDISK", which is stamped; and the plating marks such as "1=", "1+", "1⊥", are mirrored.<br><br>'The Choice' disc is hidden in the middle of the packaging, under a corrugated seam. The seam must be cut open to access the hidden disc.<br><br>On labels:<br>YT176LP: ℗2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings. ©2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings. All rights reserved. Made in EU<br><br>Recording Studios: Electro-Vox Recording; Henson Recording Studio; Stagg Street Studio<br><br>Track A1: © 2018 Molique Music (BMI)<br>Tracks A2, B4 to G5, H7 to I1, J3, J4: © 2018 Kamasi Music (ASCAP)<br>Track B3: © 2018 Hubtones Music Co (BMI)<br>Tracks D7, G5: Lyrics by Patrice Quinn (ASCAP)<br>Track G6: © 2018 Ryan Porter Progressive Music Publishing Company (ASCAP)<br>Track I2: © 2018 Screen Gems - EMI Music Inc. (BMI)<br>Track J4: © 2018 Drum Hedz 713 Music (SESAC)<br>Track J5: © 2018 Kama Sutra Music Inc. / Stan Vincent Music (BMI)<br><br>All rights on behalf of Kamasi Music administered by Words & Music, a division of Big Deal Music Group; on behalf of Molique Music administered by BMG Platinum Songs US; on behalf of Kama Sutra Music Inc., Stan Vincent Music administered by EMI Unart Catalog Inc.<br><br>℗ 2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings<br>© 2018 Shoto Mas Inc. Under exclusive license to Young Turks Recordings |
 | Discogs URL    | [Kamasi Washington - Heaven And Earth](https://www.discogs.com/release/12138973-Kamasi-Washington-Heaven-And-Earth) |

@@ -4,6 +4,7 @@ artist_name: "Goldfrapp"
 artist: "goldfrapp"
 album_name: "Seventh Tree"
 date: 2021-04-01T00:47:49.000000Z
+release_date: "2008-09-26"
 release_id: "17643982"
 slug: "seventh-tree-17643982"
 hideSummary: true
@@ -35,33 +36,30 @@ Seventh Tree became the duo's most critically acclaimed album since their 2000 d
 Four singles were released from the album. "A&E" was released as the lead single on 11 February 2008, peaking at number 10 on the UK singles chart. The album's second single, "Happiness", peaked at number 25 on the UK chart, while the third single, "Caravan Girl", reached number 54. "Clowns" was released as the fourth and final single, charting at number 115 in the UK.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Clowns
-2. Little Bird
-3. Happiness
-4. Road To Somewhere
-5. Eat Yourself
-6. Some People
-7. A&E
-8. Cologne Cerrone Houdini
-9. Caravan Girl
-10. Monster Love
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Clowns |  |
+| A2 | Little Bird |  |
+| A3 | Happiness |  |
+| A4 | Road To Somewhere |  |
+| A5 | Eat Yourself |  |
+| B1 | Some People |  |
+| B2 | A&E |  |
+| B3 | Cologne Cerrone Houdini |  |
+| B4 | Caravan Girl |  |
+| B5 | Monster Love |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/seventh-tree/1451519258" >}}<br>
 
 
-## Videos
-### Goldfrapp - AE Official HD Video
-{{< youtube id="p7Ptai9I6eo" title="Goldfrapp - AE Official HD Video" >}}<br>
-### More Videos
-
-- [Goldfrapp - Happiness Official HD Video](https://www.youtube.com/watch?v=mnHlGONToIc)
-- [Goldfrapp - Caravan Girl Official HD Video](https://www.youtube.com/watch?v=FjuPtkno5t0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +71,5 @@ Four singles were released from the album. "A&E" was released as the lead single
 | Format         | Vinyl LP Album Reissue Special Edition (Yellow) |
 | Label          | Mute |
 | Catalog Number | YSTUMM280 |
-| Notes | Gatefold sleeve. With Exclusive Art Print. Printed card inner sleeve. Copies purchased from Mute Bank webstore include A1-sized fold-out poster.  ℗ 2021 Mute Records Limited. © 2008 Mute Records Limited.  Made in The Netherlands |
+| Notes | Gatefold sleeve.<br>With Exclusive Art Print.<br>Printed card inner sleeve.<br>Copies purchased from Mute Bank webstore include A1-sized fold-out poster.<br><br>℗ 2021 Mute Records Limited. © 2008 Mute Records Limited.<br><br>Made in The Netherlands |
 | Discogs URL    | [Goldfrapp - Seventh Tree](https://www.discogs.com/release/17643982-Goldfrapp-Seventh-Tree) |

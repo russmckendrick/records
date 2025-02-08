@@ -4,6 +4,7 @@ artist_name: "Stars"
 artist: "stars"
 album_name: "Set Yourself On Fire"
 date: 2016-01-18T18:39:18.000000Z
+release_date: "2004-10-12"
 release_id: "4062521"
 slug: "set-yourself-on-fire-4062521"
 hideSummary: true
@@ -28,39 +29,33 @@ The album's most notable single was "Ageless Beauty", the band's breakthrough hi
 On November 17, 2009, "Your Ex-Lover Is Dead" was featured on Fox network's So You Think You Can Dance, season 6.  Former show contestant and current choreographer Travis Wall chose it as the track for his piece danced by Ellenore Scott and Ryan Di Lello.
 In 2005 Set Yourself on Fire was a Juno Award nominee for Alternative Album of the Year. It lost to the album Let It Die by Feist, who is an occasional bandmate of Stars' Amy Millan, Torquil Campbell, and Evan Cranley in the indie rock band Broken Social Scene.
 The novelist Ibi Kaslik is quoted on the jacket of the album. The album features string arrangements from Bulgarian composer Todor Kobakov.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Your Ex-Lover Is Dead (4:16)
-2. Set Yourself On Fire (5:39)
-3. Ageless Beauty (4:06)
-4. Reunion (3:42)
-5. The Big Fight (5:22)
-6. What I'm Trying To Say (3:23)
-7. One More Night (5:18)
-8. Sleep Tonight (2:44)
-9. The First Five Times (3:01)
-10. He Lied About Death (5:12)
-11. Celebration Guns (3:05)
-12. Soft Revolution (3:17)
-13. Calendar Girl (4:08)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Your Ex-Lover Is Dead | 4:16 |
+| A2 | Set Yourself On Fire | 5:39 |
+| A3 | Ageless Beauty | 4:06 |
+| A4 | Reunion | 3:42 |
+| A5 | The Big Fight | 5:22 |
+| A6 | What I'm Trying To Say | 3:23 |
+| B1 | One More Night | 5:18 |
+| B2 | Sleep Tonight | 2:44 |
+| B3 | The First Five Times | 3:01 |
+| B4 | He Lied About Death | 5:12 |
+| B5 | Celebration Guns | 3:05 |
+| B6 | Soft Revolution | 3:17 |
+| B7 | Calendar Girl | 4:08 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/set-yourself-on-fire/1442859173" >}}<br>
 
 
-## Videos
-### Stars- One More Night
-{{< youtube id="UN3ftt-Gr24" title="Stars- One More Night" >}}<br>
-### More Videos
-
-- [Stars - Your Ex-Lover Is Dead](https://www.youtube.com/watch?v=r5Or6-HOveg)
-- [Stars - Set Yourself On Fire Live in Sydney  Moshcam](https://www.youtube.com/watch?v=FBH3hgq0bwg)
-- [Stars - Ageless Beauty](https://www.youtube.com/watch?v=JKg17Gc8WCI)
-- [Stars - Reunion](https://www.youtube.com/watch?v=KnZt39OKfcc)
-- [Stars- One More Night](https://www.youtube.com/watch?v=UN3ftt-Gr24)
 
 ## Release Images
 {{< imageGrid >}}

@@ -31,38 +31,24 @@ Leon Bridges’ retro-soul debut is so impressively dead-on you might wonder whe
 
 
 ## Tracklisting
-1. Coming Home
-2. Better Man
-3. Brown Skin Girl
-4. Smooth Sailin'
-5. Shine
-6. Lisa Sawyer
-7. Flowers
-8. Pull Away
-9. Twistin' & Groovin'
-10. River
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Coming Home |  |
+| A2 | Better Man |  |
+| A3 | Brown Skin Girl |  |
+| A4 | Smooth Sailin' |  |
+| A5 | Shine |  |
+| B1 | Lisa Sawyer |  |
+| B2 | Flowers |  |
+| B3 | Pull Away |  |
+| B4 | Twistin' & Groovin' |  |
+| B5 | River |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/coming-home-deluxe/1079234232" >}}<br>
 
 
-## Videos
-### Better Man
-{{< youtube id="E6TCadcFPNE" title="Better Man" >}}<br>
-### More Videos
-
-- [Brown Skin Girl](https://www.youtube.com/watch?v=wk2duLxAmFE)
-- [Smooth Sailin](https://www.youtube.com/watch?v=jhiK0uXA-QE)
-- [Shine](https://www.youtube.com/watch?v=L1rJNNivdlI)
-- [Lisa Sawyer](https://www.youtube.com/watch?v=PtlXWd99cYo)
-- [Flowers](https://www.youtube.com/watch?v=RgVseMnDXSE)
-- [Pull Away](https://www.youtube.com/watch?v=NhmQ_kOsSBc)
-- [Twistin  Groovin](https://www.youtube.com/watch?v=sjNcVcv8ax0)
-- [There She Goes](https://www.youtube.com/watch?v=KlxpKJwNdlg)
-- [Daisy Mae](https://www.youtube.com/watch?v=EoJJcvc7J4c)
-- [Here In My Arms](https://www.youtube.com/watch?v=qmoLKDAMKJM)
-- [Mississippi Kisses](https://www.youtube.com/watch?v=SV3d1U6gEK4)
-- [Leon Bridges - Coming Home Official Video](https://www.youtube.com/watch?v=MTrKkqE9p1o)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +60,5 @@ Leon Bridges’ retro-soul debut is so impressively dead-on you might wonder whe
 | Format         | Vinyl LP Album (180 Gram) |
 | Label          | Columbia |
 | Catalog Number | 88875 08914 1 |
-| Notes | 180 gram vinyl with MP3 download.    All songs published by Eartha's Gumbo (ASCAP)/Warneparker Music (ASCAP)/Joshua Block Music (ASCAP) administered by Downtown DLJ Songs/Chris Vivion Music (ASCAP). |
+| Notes | 180 gram vinyl with MP3 download.<br><br>All songs published by Eartha's Gumbo (ASCAP)/Warneparker Music (ASCAP)/Joshua Block Music (ASCAP) administered by Downtown DLJ Songs/Chris Vivion Music (ASCAP). |
 | Discogs URL    | [Leon Bridges - Coming Home](https://www.discogs.com/release/7146187-Leon-Bridges-Coming-Home) |

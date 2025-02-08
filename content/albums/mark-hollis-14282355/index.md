@@ -34,31 +34,22 @@ This is the only solo album from former Talk Talk singer Mark Hollis. Like the l
 
 
 ## Tracklisting
-1. The Colour Of Spring
-2. Watershed
-3. Inside Looking Out
-4. The Gift
-5. A Life (1895 - 1915)
-6. Westward Bound
-7. The Daily Planet
-8. A New Jerusalem
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Colour Of Spring |  |
+| A2 | Watershed |  |
+| A3 | Inside Looking Out |  |
+| A4 | The Gift |  |
+| B5 | A Life (1895 - 1915) |  |
+| B6 | Westward Bound |  |
+| B7 | The Daily Planet |  |
+| B8 | A New Jerusalem |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mark-hollis/1444101871" >}}<br>
 
 
-## Videos
-### The Colour Of Spring
-{{< youtube id="Pdf--O5WWrU" title="The Colour Of Spring" >}}<br>
-### More Videos
-
-- [The Watershed](https://www.youtube.com/watch?v=XOgCwcSuz9Y)
-- [Inside Looking Out](https://www.youtube.com/watch?v=hDH2QL1JCb0)
-- [The Gift](https://www.youtube.com/watch?v=B7H9m0irTh0)
-- [A Life 1895 - 1915](https://www.youtube.com/watch?v=CFI0aPAQ7JM)
-- [Westward Bound](https://www.youtube.com/watch?v=6CyJSPhtifs)
-- [The Daily Planet](https://www.youtube.com/watch?v=xfvjRPiGj5g)
-- [A New Jerusalem](https://www.youtube.com/watch?v=hMNKqQPo-Vc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +61,5 @@ This is the only solo album from former Talk Talk singer Mark Hollis. Like the l
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Polydor |
 | Catalog Number | 080 288-0 |
-| Notes | Hype sticker on front reads:  » Only solo album by Talk Talk frontman A genuine 'lost classic' reissued on heavyweight vinyl, re-mastered at Abbey Road Original artwork – printed inner sleeve, lyrics and credits "A sound whose ambience is as natural as breathing" Includes download card  080 288-0«  Later presses of this release do not include the hype sticker and no download code (discovered on a copy that was ordered 03/2024).  Download are 1411kbps WAV files.  On rear sleeve: © 2019 Polydor Ltd. (UK). ℗ 1998 Polydor Ltd. (UK). All rights reserved. Made in the EU  The tracks are numbered sequentially, 1 to 8, on the release. The catalogue number is given as 080 288-0 on the outer sleeve, sticker and labels, and as 0802880 on the inner sleeve.  In the runouts of variant 7, "21" and "1X" are mirrored. |
+| Notes | Hype sticker on front reads:<br><br>» Only solo album by Talk Talk frontman<br>A genuine 'lost classic' reissued on heavyweight vinyl, re-mastered at Abbey Road<br>Original artwork – printed inner sleeve, lyrics and credits<br>"A sound whose ambience is as natural as breathing"<br>Includes download card <br>080 288-0«<br><br>Later presses of this release do not include the hype sticker and no download code (discovered on a copy that was ordered 03/2024).<br><br>Download are 1411kbps WAV files.<br><br>On rear sleeve:<br>© 2019 Polydor Ltd. (UK). ℗ 1998 Polydor Ltd. (UK). All rights reserved.<br>Made in the EU<br><br>The tracks are numbered sequentially, 1 to 8, on the release.<br>The catalogue number is given as 080 288-0 on the outer sleeve, sticker and labels, and as 0802880 on the inner sleeve.<br><br>In the runouts of variant 7, "21" and "1X" are mirrored. |
 | Discogs URL    | [Mark Hollis - Mark Hollis](https://www.discogs.com/release/14282355-Mark-Hollis-Mark-Hollis) |

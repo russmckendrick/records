@@ -1,9 +1,10 @@
 ---
 title: "EYE - Vision And Ageless Light"
 artist_name: "EYE"
-artist: "eye-16"
+artist: "eye"
 album_name: "Vision And Ageless Light"
 date: 2017-03-18T12:17:53.000000Z
+release_date: "2016-11-18"
 release_id: "9522870"
 slug: "vision-and-ageless-light-9522870"
 hideSummary: true
@@ -22,29 +23,25 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Book Of The Dead (3:29)
-2. Kill The Slavemaster (6:06)
-3. Searching (5:26)
-4. Dweller Of The Twilight Void (3:59)
-5. As Sure As The Sun (4:43)
-6. As Sure As The Sun (Continued) (22:43)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Book Of The Dead | 3:29 |
+| A2 | Kill The Slavemaster | 6:06 |
+| A3 | Searching | 5:26 |
+| A4 | Dweller Of The Twilight Void | 3:59 |
+| A5 | As Sure As The Sun | 4:43 |
+| B | As Sure As The Sun (Continued) | 22:43 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vision-and-ageless-light/1202059458" >}}<br>
 
 
-## Videos
-### EYE  Kill The Slavemaster HQ Audio Vision And Ageless Light 2016
-{{< youtube id="DXmw3SgL49E" title="EYE  Kill The Slavemaster HQ Audio Vision And Ageless Light 2016" >}}<br>
-### More Videos
-
-- [Book of the Dead](https://www.youtube.com/watch?v=NrnLQ3Sz4d4)
-- [Searching](https://www.youtube.com/watch?v=II5xpjQu7_g)
-- [Dweller of the Twilight Void](https://www.youtube.com/watch?v=r3ddPlGmIsU)
-- [Kill the Slavemaster](https://www.youtube.com/watch?v=s8BqdpTiOkI)
-- [As Sure as the Sun](https://www.youtube.com/watch?v=PSMuvO9Pj-s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -55,5 +52,5 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 | Format         | Vinyl LP Album (Clear) |
 | Label          | The Laser's Edge |
 | Catalog Number | LE1077LP |
-| Notes | Side two was captured at Relay Recording. All other recording and mixing at Backroads Recording. Mastered at Lacquer Channel Mastering.  All compositions © 2016 EYE ℗ The Laser's Edge |
+| Notes | Side two was captured at Relay Recording.<br>All other recording and mixing at Backroads Recording.<br>Mastered at Lacquer Channel Mastering.<br><br>All compositions<br>© 2016 EYE<br>℗ The Laser's Edge |
 | Discogs URL    | [EYE - Vision And Ageless Light](https://www.discogs.com/release/9522870-EYE-16-Vision-And-Ageless-Light) |

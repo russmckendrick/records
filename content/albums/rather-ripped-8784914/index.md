@@ -4,6 +4,7 @@ artist_name: "Sonic Youth"
 artist: "sonic-youth"
 album_name: "Rather Ripped"
 date: 2021-06-10T06:46:35.000000Z
+release_date: "2006-06-13"
 release_id: "8784914"
 slug: "rather-ripped-8784914"
 hideSummary: true
@@ -29,36 +30,32 @@ Rather Ripped is the fourteenth studio album by American rock band Sonic Youth, 
 Rather Ripped is considered to be one of Sonic Youth's most accessible albums, featuring an abundance of concise songs dealing with melancholic topics such as adultery, sexual frustration, and infidelity. Upon its release, the album peaked at number 71 on the US Billboard 200 and number 64 on the UK Albums Chart. It received mostly positive reviews from critics, who praised its simpler, cleaner melodies and the vocal delivery of singer and bassist Kim Gordon. The album was ranked number 12 in The Village Voice's 2006 Pazz & Jop critics' poll. Its only single, "Incinerate", was released in 2006, alongside an accompanying music video directed by French director and writer Claire Denis.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Reena (3:47)
-2. Incinerate (4:55)
-3. Do You Believe In Rapture? (3:11)
-4. Sleepin' Around (3:42)
-5. What A Waste (3:33)
-6. Jams Run Free (3:51)
-7. Rats (4:24)
-8. Turquoise Boy (6:13)
-9. Lights Out (3:32)
-10. The Neutral (4:09)
-11. Pink Steam (6:57)
-12. Or (3:31)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Reena | 3:47 |
+| A2 | Incinerate | 4:55 |
+| A3 | Do You Believe In Rapture? | 3:11 |
+| A4 | Sleepin' Around | 3:42 |
+| A5 | What A Waste | 3:33 |
+| A6 | Jams Run Free | 3:51 |
+| B1 | Rats | 4:24 |
+| B2 | Turquoise Boy | 6:13 |
+| B3 | Lights Out | 3:32 |
+| B4 | The Neutral | 4:09 |
+| B5 | Pink Steam | 6:57 |
+| B6 | Or | 3:31 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rather-ripped/1443129175" >}}<br>
 
 
-## Videos
-### Sonic Youth - Incinerate
-{{< youtube id="rP3ovD8ZSS4" title="Sonic Youth - Incinerate" >}}<br>
-### More Videos
-
-- [Sonic Youth - Reena Closed Captioned](https://www.youtube.com/watch?v=HrKttSi7EmM)
-- [Sonic Youth - Do You Believe In Rapture Closed Captioned](https://www.youtube.com/watch?v=y4RdKzzTU8E)
-- [Sonic Youth - Jams Runs Free Closed Captioned](https://www.youtube.com/watch?v=vU93I5UU8-c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +67,5 @@ Rather Ripped is considered to be one of Sonic Youth's most accessible albums, f
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | Geffen Records |
 | Catalog Number | 00602547491831 |
-| Notes | Includes a voucher to download MP3 version of the album. Later pressings does not include download voucher. Later pressings come in poly-lined inner sleeve, and a printed sheet of credits. Made in the EU. Later pressings have sticker on back of cover reading “MADE IN CZECH REPUBLIC”.    |
+| Notes | Includes a voucher to download MP3 version of the album. Later pressings does not include download voucher. Later pressings come in poly-lined inner sleeve, and a printed sheet of credits.<br>Made in the EU. Later pressings have sticker on back of cover reading “MADE IN CZECH REPUBLIC”.<br><br><br> |
 | Discogs URL    | [Sonic Youth - Rather Ripped](https://www.discogs.com/release/8784914-Sonic-Youth-Rather-Ripped) |

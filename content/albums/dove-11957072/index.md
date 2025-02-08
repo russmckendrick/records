@@ -4,6 +4,7 @@ artist_name: "Belly"
 artist: "belly"
 album_name: "Dove"
 date: 2018-05-04T19:00:44.000000Z
+release_date: "2018-05-04"
 release_id: "11957072"
 slug: "dove-11957072"
 hideSummary: true
@@ -22,32 +23,29 @@ styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Stars Align
-2. Shiny One
-3. Girl
-4. Faceless
-5. Suffer The Fools
-6. Mine
-7. Human Child
-8. Army Of Clay
-9. Artifact
-10. Heartstrings
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Stars Align |  |
+| A2 | Shiny One |  |
+| A3 | Girl |  |
+| A4 | Faceless |  |
+| A5 | Suffer The Fools |  |
+| B6 | Mine |  |
+| B7 | Human Child |  |
+| B8 | Army Of Clay |  |
+| B9 | Artifact |  |
+| B10 | Heartstrings |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dove/1343422246" >}}<br>
 
 
-## Videos
-### Human Child
-{{< youtube id="rITGW0pKqmk" title="Human Child" >}}<br>
-### More Videos
-
-- [Belly - Shiny One](https://www.youtube.com/watch?v=prF1CdzjTZ4)
-- [Belly Stars Align Official Audio](https://www.youtube.com/watch?v=rgxHiKv25EM)
-- [Belly Mine Official Video](https://www.youtube.com/watch?v=PsGgcabXrpg)
-- [Human Child](https://www.youtube.com/watch?v=rITGW0pKqmk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,5 +56,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl LP Album Limited Edition (Yellow/Orange Splatter, Translucent) |
 | Label          | Not On Label (Belly Self-released) |
 | Catalog Number | 83774-031-I |
-| Notes | Includes download card for MP3 version.  Printed inner sleeve with lyrics.  Tracks numbered sequentially regardless of sides. |
+| Notes | Includes download card for MP3 version.<br><br>Printed inner sleeve with lyrics.<br><br>Tracks numbered sequentially regardless of sides. |
 | Discogs URL    | [Belly - Dove](https://www.discogs.com/release/11957072-Belly-Dove) |

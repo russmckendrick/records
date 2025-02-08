@@ -4,6 +4,7 @@ artist_name: "Jean-Michel Jarre"
 artist: "jean-michel-jarre"
 album_name: "Oxymore"
 date: 2022-10-21T09:01:58.000000Z
+release_date: "2022-10-21"
 release_id: "24896663"
 slug: "oxymore-24896663"
 hideSummary: true
@@ -63,52 +64,30 @@ styles: ["Techno"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Agora (1:34)
-2. Oxymore (4:46)
-3. Neon Lips (4:27)
-4. Sonic Land (6:01)
-5. Animal Genesis (5:46)
-6. Synthy Sisters (3:20)
-7. Sex In The Machine (5:45)
-8. Zeitgeist (3:11)
-9. Crystal Garden (4:09)
-10. Brutalism (4:41)
-11. Epica (5:25)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Agora | 1:34 |
+| A2 | Oxymore | 4:46 |
+| A3 | Neon Lips | 4:27 |
+| B1 | Sonic Land | 6:01 |
+| B2 | Animal Genesis | 5:46 |
+| C1 | Synthy Sisters | 3:20 |
+| C2 | Sex In The Machine | 5:45 |
+| C3 | Zeitgeist | 3:11 |
+| D1 | Crystal Garden | 4:09 |
+| D2 | Brutalism | 4:41 |
+| D3 | Epica | 5:25 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/oxymore/1631819443" >}}<br>
 
 
-## Videos
-### Jean-Michel Jarre - BRUTALISM Official Video
-{{< youtube id="mFjAwG_WjA0" title="Jean-Michel Jarre - BRUTALISM Official Video" >}}<br>
-### More Videos
-
-- [AGORA](https://www.youtube.com/watch?v=Jb-u4KeW7Zw)
-- [OXYMORE](https://www.youtube.com/watch?v=lCKIWSJw8LM)
-- [NEON LIPS](https://www.youtube.com/watch?v=1sdXjw-ggd8)
-- [SONIC LAND](https://www.youtube.com/watch?v=4WtegAy_-to)
-- [ANIMAL GENESIS](https://www.youtube.com/watch?v=PyzpdcSZUcs)
-- [SYNTHY SISTERS](https://www.youtube.com/watch?v=5RnfenugG7w)
-- [SEX IN THE MACHINE](https://www.youtube.com/watch?v=3ZxaskBZz9g)
-- [ZEITGEIST](https://www.youtube.com/watch?v=DE48f7-2daI)
-- [CRYSTAL GARDEN](https://www.youtube.com/watch?v=h843xk2UQTI)
-- [AGORA Binaural Headphone Mix](https://www.youtube.com/watch?v=oPKpe5zfXVs)
-- [OXYMORE Binaurel Headphone Mix](https://www.youtube.com/watch?v=YVDktZ644iw)
-- [NEON LIPS Binaural Headphone Mix](https://www.youtube.com/watch?v=Bpe9C0pZ4fk)
-- [SONIC LAND Binaural Headphone Mix](https://www.youtube.com/watch?v=TYb2MfdUzf8)
-- [ANIMAL GENESIS Binaural Headphone Mix](https://www.youtube.com/watch?v=Wtxr2c2hZuU)
-- [SYNTHY SISTERS Binaural Headphone Mix](https://www.youtube.com/watch?v=oJdJHCy9Osg)
-- [SEX IN THE MACHINE Binaural Headphone Mix](https://www.youtube.com/watch?v=QFbGxXdDdGI)
-- [ZEITGEIST Binaural Headphone Mix](https://www.youtube.com/watch?v=eVTEy5xUMbA)
-- [CRYSTAL GARDEN Binaural Headphone Mix](https://www.youtube.com/watch?v=TcRv_J1-v1c)
-- [BRUTALISM Binaural Headphone Mix](https://www.youtube.com/watch?v=Pxj4mBZ5fJM)
-- [EPICA Binaurel Headphone Mix](https://www.youtube.com/watch?v=Vj9_79BlZFE)
-- [Jean Michel Jarre - Oxymore CD Album 2022 Sony Music EU Unboxing](https://www.youtube.com/watch?v=nqiRXZq8-mo)
-- [Jean Michel Jarre - Oxymore 2xLP Album 2022 Sony Music Europe VINYL UNBOXING](https://www.youtube.com/watch?v=dgefMtRMuzM)
-- [Jean-Michel Jarre - BRUTALISM Official Video](https://www.youtube.com/watch?v=mFjAwG_WjA0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -119,5 +98,5 @@ styles: ["Techno"]
 | Format         | Vinyl 2× LP Album (180g) |
 | Label          | Columbia |
 | Catalog Number | 19658746581 |
-| Notes | Issued in a 6-panel trifold sleeve. Includes download link to binaural headphone version (in 24-Bit 48 kHz WAV) Originally comes with 2 stickers: Sticker 1: "Jean-Michel Jarre Oxymore Homage To Pierre Henry" Sticker 2 [french]: "An immersive music project + Accès à la version binaurale Double vinyle 180g, livret 32 pages _" Sticker 2 [english]: "An Immersive Music Project  + Access To Binaural Version!  2x180g Vinyl / 32 Page Booklet"  Homage To Pierre Henry [Back cover] ℗ & © 2022 Music Affair Entertainment Limited [Back cover] Made in the EU. [Back cover] Sounds of Pierre Henry courtesy of Pierre Henry Estate [Booklet] Dedicated to [a7209] and [a32181] [Booklet]  All runouts are stamped |
+| Notes | Issued in a 6-panel trifold sleeve.<br>Includes download link to binaural headphone version (in 24-Bit 48 kHz WAV)<br>Originally comes with 2 stickers:<br>Sticker 1:<br>"Jean-Michel Jarre<br>Oxymore<br>Homage To Pierre Henry"<br>Sticker 2 [french]:<br>"An immersive music project<br>+ Accès à la version binaurale<br>Double vinyle 180g, livret 32 pages _"<br>Sticker 2 [english]:<br>"An Immersive Music Project <br>+ Access To Binaural Version! <br>2x180g Vinyl / 32 Page Booklet"<br><br>Homage To Pierre Henry [Back cover]<br>℗ & © 2022 Music Affair Entertainment Limited [Back cover]<br>Made in the EU. [Back cover]<br>Sounds of Pierre Henry courtesy of Pierre Henry Estate [Booklet]<br>Dedicated to [a7209] and [a32181] [Booklet]<br><br>All runouts are stamped |
 | Discogs URL    | [Jean-Michel Jarre - Oxymore](https://www.discogs.com/release/24896663-Jean-Michel-Jarre-Oxymore) |

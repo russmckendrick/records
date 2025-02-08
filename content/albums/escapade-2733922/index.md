@@ -4,6 +4,7 @@ artist_name: "Tim Finn"
 artist: "tim-finn"
 album_name: "Escapade"
 date: 2015-10-14T18:38:58.000000Z
+release_date: "2022-02-01"
 release_id: "2733922"
 slug: "escapade-2733922"
 hideSummary: true
@@ -24,41 +25,30 @@ styles: ["Soft Rock", "Pop Rock", "Synth-pop", "Vocal"]
 
 Escapade is the debut studio album by New Zealand musician and founder of Split Enz, Tim Finn. Released in June 1983, the album peaked at number 1 in New Zealand and number 8 in Australia.
 At the 1983 Countdown Australian Music Awards the album won Best Australian Album and "Fraction Too Much Friction" won Best Video.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Fraction Too Much Friction (4:14)
-2. Made My Day (3:23)
-3. Not For Nothing (3:25)
-4. In A Minor Key (3:56)
-5. Grand Adventure (3:32)
-6. Staring At The Embers (3:02)
-7. Wait And See (3:57)
-8. I Only Want To Know (4:02)
-9. Growing Pains (3:01)
-10. Through The Years (3:48)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fraction Too Much Friction | 4:14 |
+| A2 | Made My Day | 3:23 |
+| A3 | Not For Nothing | 3:25 |
+| A4 | In A Minor Key | 3:56 |
+| A5 | Grand Adventure | 3:32 |
+| B1 | Staring At The Embers | 3:02 |
+| B2 | Wait And See | 3:57 |
+| B3 | I Only Want To Know | 4:02 |
+| B4 | Growing Pains | 3:01 |
+| B5 | Through The Years | 3:48 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tim-finn-the-escapade-band-live-at-the-venue-st-kilda-1983/1606863181" >}}<br>
 
 
-## Videos
-### Tim Finn - Through The Years
-{{< youtube id="8RCPPbW4F18" title="Tim Finn - Through The Years" >}}<br>
-### More Videos
-
-- [Tim Finn - Fraction Too Much Friction](https://www.youtube.com/watch?v=nP0v4lL_rZw)
-- [Tim Finn - Made My Day](https://www.youtube.com/watch?v=6DwerC0Dbug)
-- [Tim Finn - Staring At The Embers](https://www.youtube.com/watch?v=uvXpu6qr9uE)
-- [Tim Finn - Fraction Too Much Friction](https://www.youtube.com/watch?v=nP0v4lL_rZw)
-- [Tim Finn - Through The Years 1983](https://www.youtube.com/watch?v=oyVGUQguaic)
-- [Tim Finn - Staring At The Embers](https://www.youtube.com/watch?v=0hKx2VZ0X1w)
-- [Tim Finn - Through The Years](https://www.youtube.com/watch?v=8RCPPbW4F18)
-- [Tim Finn - Fraction Too Much Friction](https://www.youtube.com/watch?v=nP0v4lL_rZw)
-- [Tim Finn - Made My Day](https://www.youtube.com/watch?v=6DwerC0Dbug)
-- [Tim Finn - Staring At The Embers](https://www.youtube.com/watch?v=uvXpu6qr9uE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +60,5 @@ At the 1983 Countdown Australian Music Awards the album won Best Australian Albu
 | Format         | Vinyl LP Album |
 | Label          | Mushroom |
 | Catalog Number | RML 53104 |
-| Notes | All runouts are etched  Made In Australia  ℗ 1983 MUSHROOM RECORDS. MANUFACTURED AND DISTRIBUTED UNDER LICENSE BY FESTIVAL RECORDS PTY. LTD. AUST. TRADEMARK OWNED BY MUSHROOM RECORDS AUSTRALIA & USED BY FESTIVAL RECORDS PTY. LTD. UNDER AUTHORIZATION.  |
+| Notes | All runouts are etched<br><br>Made In Australia<br><br>℗ 1983 MUSHROOM RECORDS.<br>MANUFACTURED AND DISTRIBUTED UNDER LICENSE BY FESTIVAL RECORDS PTY. LTD. AUST.<br>TRADEMARK OWNED BY MUSHROOM RECORDS AUSTRALIA & USED BY FESTIVAL RECORDS PTY. LTD. UNDER AUTHORIZATION.<br> |
 | Discogs URL    | [Tim Finn - Escapade](https://www.discogs.com/release/2733922-Tim-Finn-Escapade) |

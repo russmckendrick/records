@@ -4,6 +4,7 @@ artist_name: "Vennart"
 artist: "vennart"
 album_name: "Forgiveness & The Grain"
 date: 2024-05-04T03:54:21.000000Z
+release_date: "2024-02-02"
 release_id: "30551653"
 slug: "forgiveness-the-grain-30551653"
 hideSummary: true
@@ -24,20 +25,25 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Chapter X : Whereupon I Immediately Did Nothing
-2. 3 Syllables
-3. Luminous Target
-4. R U The Future??
-5. Fractal
-6. Casino
-7. The Japanese No
-8. Seventy Six
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Chapter X : Whereupon I Immediately Did Nothing |  |
+| A2 | 3 Syllables |  |
+| A3 | Luminous Target |  |
+| A4 | R U The Future?? |  |
+| A5 | Fractal |  |
+| B1 | Casino |  |
+| B2 | The Japanese No |  |
+| B3 | Seventy Six |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/forgiveness-the-grain/1734322585" >}}<br>
-
 
 
 
@@ -50,5 +56,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl LP Album Limited Edition (Blue W/ Dark Blue Splatter - Fractal) |
 | Label          | Not On Label (Vennart Self-released) |
 | Catalog Number | none |
-| Notes | 2nd Edition "Fractal" Vinyl. Limited to 200 Copies pressed on a light blue vinyl, w/ darker blue splatter Comes with large fold-out, 6 pane poster. Sold at the artist's web page only. |
+| Notes | 2nd Edition "Fractal" Vinyl. Limited to 200 Copies pressed on a light blue vinyl, w/ darker blue splatter<br>Comes with large fold-out, 6 pane poster.<br>Sold at the artist's web page only. |
 | Discogs URL    | [Vennart - Forgiveness & The Grain](https://www.discogs.com/release/30551653-Vennart-Forgiveness-The-Grain) |

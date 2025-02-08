@@ -1,16 +1,17 @@
 ---
-title: "T. Rex - Electric Warrior"
-artist_name: "T. Rex"
+title: "T Rex - Electric Warrior"
+artist_name: "T Rex"
 artist: "t-rex"
 album_name: "Electric Warrior"
 date: 2017-01-27T19:40:03.000000Z
+release_date: "1971-09-24"
 release_id: "6271897"
 slug: "electric-warrior-6271897"
 hideSummary: true
 cover:
     image: "electric-warrior-6271897.jpg"
-    alt: "Electric Warrior by T. Rex"
-    caption: "Electric Warrior by T. Rex"
+    alt: "Electric Warrior by T Rex"
+    caption: "Electric Warrior by T Rex"
 additional_images:
     - "https://i.discogs.com/9KQLzzYUFG034PcJE6y86iNTgw2ywIrFoin571dKj38/rs:fit/g:sm/q:90/h:385/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzE4/OTctMTQxNzA4MTky/MS0zMTQ3LmpwZWc.jpeg"
     - "https://i.discogs.com/P28SFaivwHSPUBZZmOiuXNdYL8LVt4HAH6Krgh35t5o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzE4/OTctMTcyMDMwNTIz/Ni05MDM2LmpwZWc.jpeg"
@@ -27,39 +28,31 @@ Electric Warrior is the second studio album by English rock band T. Rex and thei
 The album reached number one on the UK Albums Chart and became the best-selling album of 1971 in that country. Specifically, the single "Get It On" helped to boost the album's sales, reaching the top ten of the US Billboard Hot 100 singles chart. Retitled "Bang a Gong (Get It On)" by the US record company, it also became the band's only North American hit. Electric Warrior has since received acclaim as a pivotal release in the glam rock movement. It had a profound influence on later musicians of different genres.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Mambo Sun (3:39)
-2. Cosmic Dancer (4:28)
-3. Jeepster (4:11)
-4. Monolith (3:45)
-5. Lean Woman Blues (2:59)
-6. Get It On (4:24)
-7. Planet Queen (3:11)
-8. Girl (2:29)
-9. The Motivator (3:57)
-10. Life's A Gas (2:25)
-11. Rip Off (3:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mambo Sun | 3:39 |
+| A2 | Cosmic Dancer | 4:28 |
+| A3 | Jeepster | 4:11 |
+| A4 | Monolith | 3:45 |
+| A5 | Lean Woman Blues | 2:59 |
+| B1 | Get It On | 4:24 |
+| B2 | Planet Queen | 3:11 |
+| B3 | Girl | 2:29 |
+| B4 | The Motivator | 3:57 |
+| B5 | Life's A Gas | 2:25 |
+| B6 | Rip Off | 3:42 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/electric-warrior/1440804752" >}}<br>
 
 
-## Videos
-### T Rex - Bang a Gong Get It On Official Audio
-{{< youtube id="FyzWDl0nz00" title="T Rex - Bang a Gong Get It On Official Audio" >}}<br>
-### More Videos
-
-- [Hot Love](https://www.youtube.com/watch?v=kKoaHw8gy88)
-- [Cosmic Dancer 2003 Remaster](https://www.youtube.com/watch?v=UAv1qZnYAwY)
-- [Mambo Sun 2003 Remaster](https://www.youtube.com/watch?v=bPkc5-2McG0)
-- [Planet Queen 2003 Remaster](https://www.youtube.com/watch?v=Q48jqaJWToc)
-- [Rip Off](https://www.youtube.com/watch?v=U1pG-23Jvuw)
-- [The Motivator 2003 Remaster](https://www.youtube.com/watch?v=j8HPwDIEinM)
-- [Lifes a Gas 2003 Remaster](https://www.youtube.com/watch?v=Nn6A5guR7bg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,4 +65,4 @@ The album reached number one on the UK Albums Chart and became the best-selling 
 | Label          | A&M Records |
 | Catalog Number | 535 407-6 |
 | Notes | Plus download code. |
-| Discogs URL    | [T. Rex - Electric Warrior](https://www.discogs.com/release/6271897-T-Rex-Electric-Warrior) |
+| Discogs URL    | [T Rex - Electric Warrior](https://www.discogs.com/release/6271897-T-Rex-Electric-Warrior) |

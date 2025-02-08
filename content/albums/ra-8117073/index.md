@@ -1,7 +1,7 @@
 ---
 title: "Utopia - Ra"
 artist_name: "Utopia"
-artist: "utopia-5"
+artist: "utopia"
 album_name: "Ra"
 date: 2022-03-06T04:57:42.000000Z
 release_date: "2019-04-12"
@@ -32,30 +32,22 @@ Previously hiding his identity behind a balaclava, north-west London rapper M Hu
 
 
 ## Tracklisting
-1. Overture (Instrumental)
-2. Communion With The Sun (7:15)
-3. Magic Dragon Theatre (3:28)
-4. Jealousy (4:43)
-5. Eternal Love (4:51)
-6. Sunburst Finish (7:38)
-7. Hiroshima (7:16)
-8. Singring And The Glass Guitar (An Electrified Fairytale) (18:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1a | Overture (Instrumental) |  |
+| A1b | Communion With The Sun | 7:15 |
+| A2 | Magic Dragon Theatre | 3:28 |
+| A3 | Jealousy | 4:43 |
+| A4 | Eternal Love | 4:51 |
+| A5 | Sunburst Finish | 7:38 |
+| B1 | Hiroshima | 7:16 |
+| B2 | Singring And The Glass Guitar (An Electrified Fairytale) | 18:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/utopia/1459737757" >}}<br>
 
 
-## Videos
-### Utopia  Magic Dragon Theatreyerdenizplakcom İstanbul Kadıköy
-{{< youtube id="dOVDB-ktszg" title="Utopia  Magic Dragon Theatreyerdenizplakcom İstanbul Kadıköy" >}}<br>
-### More Videos
-
-- [Communion With The Sun](https://www.youtube.com/watch?v=2bSaJ1KqqMA)
-- [TODD RUNDGREN  UTOPIA - RA 8 TRACK TAPE ALTERNATE MIXES](https://www.youtube.com/watch?v=zcpSYWL_Bn0)
-- [Overture Mountaintop and Sunrise  Communion with the Sun](https://www.youtube.com/watch?v=bSr22WYcZtY)
-- [Singring and the Glass Guitar An Electrified](https://www.youtube.com/watch?v=gWbdfrY210M)
-- [Hiroshima](https://www.youtube.com/watch?v=9SmkTjw_2Yg)
-- [TODD RUNDGREN - UTOPIA - RA - DELUXE EDITION](https://www.youtube.com/watch?v=0Gdrh3qu8SQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +59,5 @@ Previously hiding his identity behind a balaclava, north-west London rapper M Hu
 | Format         | Vinyl LP Album Stereo |
 | Label          | Bearsville |
 | Catalog Number | K 55514 |
-| Notes | Recorded at Bearsville Sound Studio, Bearsville, N.Y. and at Utopia Sound, Lake Hill, N.Y. "Communion With The Sun"  and "Jealousy recorded at Turtle Creek Barn  This version has publishers mentioned with (1) and (2 - 5) on side A label Made in UK  |
+| Notes | Recorded at Bearsville Sound Studio, Bearsville, N.Y. and at Utopia Sound, Lake Hill, N.Y.<br>"Communion With The Sun"  and "Jealousy recorded at Turtle Creek Barn<br><br>This version has publishers mentioned with (1) and (2 - 5) on side A label<br>Made in UK<br> |
 | Discogs URL    | [Utopia - Ra](https://www.discogs.com/release/8117073-Utopia-5-Ra) |

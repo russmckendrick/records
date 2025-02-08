@@ -4,6 +4,7 @@ artist_name: "Crowded House"
 artist: "crowded-house"
 album_name: "Crowded House"
 date: 2015-08-26T20:09:53.000000Z
+release_date: "1986-06"
 release_id: "2035236"
 slug: "crowded-house-2035236"
 hideSummary: true
@@ -27,39 +28,30 @@ Crowded House is the debut album by New Zealand-Australian band Crowded House. P
 At the 1986 Countdown Australian Music Awards the album won Best Debut Album. In December of 2021, the album was listed at no. 7 in Rolling Stone Australia's '200 Greatest Albums of All Time' countdown.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. World Where You Live (3:04)
-2. Now We're Getting Somewhere (4:05)
-3. Don't Dream It's Over (3:58)
-4. Mean To Me (3:15)
-5. Love You 'Til Day I Die (3:30)
-6. Something So Strong (2:51)
-7. Hole In The River (3:58)
-8. I Walk Away (3:05)
-9. Tombstone (3:30)
-10. That's What I Call Love (3:37)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | World Where You Live | 3:04 |
+| A2 | Now We're Getting Somewhere | 4:05 |
+| A3 | Don't Dream It's Over | 3:58 |
+| A4 | Mean To Me | 3:15 |
+| A5 | Love You 'Til Day I Die | 3:30 |
+| B1 | Something So Strong | 2:51 |
+| B2 | Hole In The River | 3:58 |
+| B3 | I Walk Away | 3:05 |
+| B4 | Tombstone | 3:30 |
+| B5 | That's What I Call Love | 3:37 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/crowded-house/1440822690" >}}<br>
 
 
-## Videos
-### Crowded House - World Where You Live
-{{< youtube id="IA-1PbsAZnU" title="Crowded House - World Where You Live" >}}<br>
-### More Videos
-
-- [Crowded House - Dont Dream Its Over Official Music Video](https://www.youtube.com/watch?v=J9gKyRmic20)
-- [Crowded House - Something So Strong](https://www.youtube.com/watch?v=WyBKzBtaKWM)
-- [Crowded House - Mean To Me](https://www.youtube.com/watch?v=E9bCl7upxG0)
-- [Crowded House - Now Were Getting Somewhere](https://www.youtube.com/watch?v=s6Vl_OFScbc)
-- [Crowded House - Dont Dream Its Over Official Music Video](https://www.youtube.com/watch?v=J9gKyRmic20)
-- [Crowded House - Something So Strong Official Video](https://www.youtube.com/watch?v=WyBKzBtaKWM)
-- [Crowded House - Dont Dream Its Over Official Music Video](https://www.youtube.com/watch?v=J9gKyRmic20)
-- [Crowded House - Now Were Getting Somewhere](https://www.youtube.com/watch?v=OmnDCPWxBFM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +63,5 @@ At the 1986 Countdown Australian Music Awards the album won Best Debut Album. In
 | Format         | Vinyl LP Album |
 | Label          | Capitol Records |
 | Catalog Number | EST 2016 |
-| Notes | ''Hayes, Middlesex, England'' in tiny print on the backcover.  Inner sleeve with lyrics.  |
+| Notes | ''Hayes, Middlesex, England'' in tiny print on the backcover.<br>Inner sleeve with lyrics.<br> |
 | Discogs URL    | [Crowded House - Crowded House](https://www.discogs.com/release/2035236-Crowded-House-Crowded-House) |

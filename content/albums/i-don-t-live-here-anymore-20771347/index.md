@@ -59,29 +59,24 @@ That shift, Granduciel adds, opened up “new sonic territory” that he couldn�
 
 
 ## Tracklisting
-1. Living Proof (4:54)
-2. Harmonia's Dream (6:26)
-3. Change (6:04)
-4. I Don't Wanna Wait (5:13)
-5. Victim (6:00)
-6. I Don't Live Here Anymore (5:28)
-7. Old Skin (4:52)
-8. Wasted (4:10)
-9. Rings Around My Father's Eyes (4:18)
-10. Occasional Rain (4:54)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Living Proof | 4:54 |
+| A2 | Harmonia's Dream | 6:26 |
+| A3 | Change | 6:04 |
+| B1 | I Don't Wanna Wait | 5:13 |
+| B2 | Victim | 6:00 |
+| C1 | I Don't Live Here Anymore | 5:28 |
+| C2 | Old Skin | 4:52 |
+| C3 | Wasted | 4:10 |
+| D1 | Rings Around My Father's Eyes | 4:18 |
+| D2 | Occasional Rain | 4:54 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-dont-live-here-anymore/1576851901" >}}<br>
 
 
-## Videos
-### The War On Drugs - I Dont Wanna Wait Official Audio
-{{< youtube id="GTpJ-DHpnw8" title="The War On Drugs - I Dont Wanna Wait Official Audio" >}}<br>
-### More Videos
-
-- [The War On Drugs - Harmonias Dream Official Audio](https://www.youtube.com/watch?v=fUgylH_-88Y)
-- [The War On Drugs - I Dont Live Here Anymore feat Lucius Official Music Video](https://www.youtube.com/watch?v=MVh6XTwWhMY)
-- [The War On Drugs - Living Proof Official Video](https://www.youtube.com/watch?v=B3OEofsCur8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -93,5 +88,5 @@ That shift, Granduciel adds, opened up “new sonic territory” that he couldn�
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Atlantic |
 | Catalog Number | SEL 1-659043 - 075678643477 |
-| Notes | ℗ & © 2021 Atlantic Recording Corporation.  Manufactured in France.  Double LP, black vinyl Catalog Number 075678641299 on spine Catalog Numbers SEL 1-659043 - 075678643477 on label |
+| Notes | ℗ & © 2021 Atlantic Recording Corporation.<br><br>Manufactured in France.<br><br>Double LP, black vinyl<br>Catalog Number 075678641299 on spine<br>Catalog Numbers SEL 1-659043 - 075678643477 on label |
 | Discogs URL    | [The War On Drugs - I Don't Live Here Anymore](https://www.discogs.com/release/20771347-The-War-On-Drugs-I-Dont-Live-Here-Anymore) |

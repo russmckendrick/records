@@ -4,6 +4,7 @@ artist_name: "Emma Anderson"
 artist: "emma-anderson"
 album_name: "Pearlies"
 date: 2023-10-25T11:54:54.000000Z
+release_date: "2023-10-20"
 release_id: "28653319"
 slug: "pearlies-28653319"
 hideSummary: true
@@ -21,32 +22,30 @@ styles: []
 ---
 
 Pearlies is the debut solo album by British rock musician Emma Anderson. It has received positive reviews from critics and has been promoted with three music videos and live performances.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Was Miles Away
-2. Bend The Round
-3. Inter Light
-4. Taste The Air
-5. Xanthe
-6. The Presence
-7. Willow And Mallow
-8. Tonight Is Mine
-9. For A Moment
-10. Clusters
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Was Miles Away |  |
+| A2 | Bend The Round |  |
+| A3 | Inter Light |  |
+| A4 | Taste The Air |  |
+| A5 | Xanthe |  |
+| B1 | The Presence |  |
+| B2 | Willow And Mallow |  |
+| B3 | Tonight Is Mine |  |
+| B4 | For A Moment |  |
+| B5 | Clusters |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pearlies/1697174677" >}}<br>
 
 
-## Videos
-### Emma Anderson - Bend The Round Official Video
-{{< youtube id="zLvIF64R4hU" title="Emma Anderson - Bend The Round Official Video" >}}<br>
-### More Videos
-
-- [Emma Anderson - Clusters Official Video](https://www.youtube.com/watch?v=jgbNTYFOGUA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,5 +57,5 @@ Pearlies is the debut solo album by British rock musician Emma Anderson. It has 
 | Format         | Vinyl LP Album Limited Edition (Blue Pearl) |
 | Label          | Sonic Cathedral |
 | Catalog Number | SCR250LPB |
-| Notes | Rough Trade exlusive, limited to 500 copies. Including signed postcard.  ℗ & © 2023 Emma Anderson under exclusive licence to Sonic Catherdral Manufactured in CZ  |
+| Notes | Rough Trade exlusive, limited to 500 copies.<br>Including signed postcard.<br><br>℗ & © 2023 Emma Anderson under exclusive licence to Sonic Catherdral<br>Manufactured in CZ<br> |
 | Discogs URL    | [Emma Anderson - Pearlies](https://www.discogs.com/release/28653319-Emma-Anderson-Pearlies) |

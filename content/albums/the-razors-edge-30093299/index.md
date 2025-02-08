@@ -1,7 +1,7 @@
 ---
-title: "AC/DC - The Razors Edge"
-artist_name: "AC/DC"
-artist: "ac-dc"
+title: "ACDC - The Razors Edge"
+artist_name: "ACDC"
+artist: "acdc"
 album_name: "The Razors Edge"
 date: 2024-03-15T06:43:56.000000Z
 release_date: "1990-09-21"
@@ -10,8 +10,8 @@ slug: "the-razors-edge-30093299"
 hideSummary: true
 cover:
     image: "the-razors-edge-30093299.jpg"
-    alt: "The Razors Edge by AC/DC"
-    caption: "The Razors Edge by AC/DC"
+    alt: "The Razors Edge by ACDC"
+    caption: "The Razors Edge by ACDC"
 additional_images:
     - "https://i.discogs.com/9C2iFUT4DQYg3UU_TnbCLSJl_4WI1-o-oh3lXv8xDvk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkz/Mjk5LTE3MTA0MTI5/OTctNTgwNS5qcGVn.jpeg"
     - "https://i.discogs.com/0XLJoXHh_Ocuz7ivwpnKadF72Z0WO5AVmiN_Ptf48NI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkz/Mjk5LTE3MTA0MTMw/MDgtNjAxNi5qcGVn.jpeg"
@@ -41,29 +41,26 @@ Critical commentary for the album was generally mixed, with Alex Henderson of Al
 
 
 ## Tracklisting
-1. Thunderstruck (4:52)
-2. Fire Your Guns (2:53)
-3. Moneytalks (3:45)
-4. The Razors Edge (4:22)
-5. Mistress For Christmas (3:58)
-6. Rock Your Heart Out (4:06)
-7. Are You Ready (4:10)
-8. Got You By The Balls (4:29)
-9. Shot Of Love (3:57)
-10. Let's Make It (3:32)
-11. Goodbye And Good Riddance To Bad Luck (3:14)
-12. If You Dare (3:11)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Thunderstruck | 4:52 |
+| A2 | Fire Your Guns | 2:53 |
+| A3 | Moneytalks | 3:45 |
+| A4 | The Razors Edge | 4:22 |
+| A5 | Mistress For Christmas | 3:58 |
+| A6 | Rock Your Heart Out | 4:06 |
+| B1 | Are You Ready | 4:10 |
+| B2 | Got You By The Balls | 4:29 |
+| B3 | Shot Of Love | 3:57 |
+| B4 | Let's Make It | 3:32 |
+| B5 | Goodbye And Good Riddance To Bad Luck | 3:14 |
+| B6 | If You Dare | 3:11 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-razors-edge/574049507" >}}<br>
 
 
-## Videos
-### The Razors Edge
-{{< youtube id="l_7SxoQW11g" title="The Razors Edge" >}}<br>
-### More Videos
-
-- [ACDC - Thunderstruck Official Video](https://www.youtube.com/watch?v=v2AC41dglnM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +72,5 @@ Critical commentary for the album was generally mixed, with Alex Henderson of Al
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Special Edition Stereo (Gold, 50th Anniversary Edition) |
 | Label          | Columbia |
 | Catalog Number | 19658834611 |
-| Notes | Remastered from the original master tapes.  Hype sticker reads: "50th Anniversary  Special Edition Gold Coloured Vinyl Includes Unique Insert And Custom Labels".  Presented in an unlaminated sleeve. Picture inner sleeve of top opening thin card. Includes a 12" square card insert, printed on both sides which references the album title and series. Two hype stickers are applied to the shrink-wrap.  The vinyl is marbled translucent to strong light and may appear to transfigure to a peach colour.  Runouts are very lightly stamped. |
-| Discogs URL    | [AC/DC - The Razors Edge](https://www.discogs.com/release/30093299-ACDC-The-Razors-Edge) |
+| Notes | Remastered from the original master tapes.<br><br>Hype sticker reads:<br>"50th Anniversary <br>Special Edition<br>Gold Coloured Vinyl<br>Includes Unique Insert<br>And Custom Labels".<br><br>Presented in an unlaminated sleeve.<br>Picture inner sleeve of top opening thin card.<br>Includes a 12" square card insert, printed on both sides which references the album title and series.<br>Two hype stickers are applied to the shrink-wrap.<br><br>The vinyl is marbled translucent to strong light and may appear to transfigure to a peach colour.<br><br>Runouts are very lightly stamped. |
+| Discogs URL    | [ACDC - The Razors Edge](https://www.discogs.com/release/30093299-ACDC-The-Razors-Edge) |

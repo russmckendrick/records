@@ -4,6 +4,7 @@ artist_name: "XTC"
 artist: "xtc"
 album_name: "Drums And Wires"
 date: 2023-11-27T03:31:03.000000Z
+release_date: "1979-08-17"
 release_id: "29027248"
 slug: "drums-and-wires-29027248"
 hideSummary: true
@@ -27,31 +28,31 @@ Bassist Colin Moulding's dissatisfaction with XTC's "quirky" reputation inspired
 Drums and Wires reached number 34 on the UK Albums Chart and number 176 on the US Billboard 200. "Making Plans for Nigel" reached number 17 on the UK Singles Chart and marked the band's commercial breakthrough. In 1980, Partridge recorded Take Away / The Lure of Salvage, an LP consisting mostly of dub remixes of Drums and Wires tracks. In later years, Drums and Wires became the best-known of XTC's albums. In 2004 it was ranked number 38 on Pitchfork's list of "The Top Albums of the 1970s", and in 2019, it was ranked number 31 in a similar list by Paste.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Making Plans For Nigel
-2. Helicopter 
-3. Day In Day Out
-4. When You’re Near Me I Have Difficulty 
-5. Ten Feet Tall
-6. Roads Girdle The Globe
-7. Real By Reel
-8. Millions
-9. That Is The Way
-10. Outside World 
-11. Scissor Man
-12. Complicated Game
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Making Plans For Nigel |  |
+| A2 | Helicopter  |  |
+| A3 | Day In Day Out |  |
+| A4 | When You’re Near Me I Have Difficulty  |  |
+| A5 | Ten Feet Tall |  |
+| A6 | Roads Girdle The Globe |  |
+| B1 | Real By Reel |  |
+| B2  | Millions |  |
+| B3 | That Is The Way |  |
+| B4 | Outside World  |  |
+| B5 | Scissor Man |  |
+| B6 | Complicated Game |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/drums-and-wires-bonus-track-version/724621207" >}}<br>
 
-
-## Videos
-### XTC - Drums and Wires Full Album
-{{< youtube id="N66oJVIjk2M" title="XTC - Drums and Wires Full Album" >}}<br>
 
 
 ## Release Images

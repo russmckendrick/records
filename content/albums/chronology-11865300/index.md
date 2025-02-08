@@ -4,6 +4,7 @@ artist_name: "Jean-Michel Jarre"
 artist: "jean-michel-jarre"
 album_name: "Chronology"
 date: 2018-08-31T19:27:00.000000Z
+release_date: "1993"
 release_id: "11865300"
 slug: "chronology-11865300"
 hideSummary: true
@@ -24,39 +25,28 @@ styles: ["Ambient", "New Age", "Synth-pop", "Electro"]
 
 Chronology (from Latin chronologia, from Ancient Greek χρόνος, chrónos, 'time'; and -λογία, -logia) is the science of arranging events in their order of occurrence in time. Consider, for example, the use of a timeline or sequence of events. It is also "the determination of the actual temporal sequence of past events".
 Chronology is a part of periodization. It is also a part of the discipline of history including earth history, the earth sciences, and study of the geologic time scale.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Chronology Part 1 (11:01)
-2. Chronology Part 2 (6:05)
-3. Chronology Part 3 (3:59)
-4. Chronology Part 4 (3:58)
-5. Chronology Part 5 (5:34)
-6. Chronology Part 6 (3:45)
-7. Chronology Part 7 (2:17)
-8. Chronology Part 8 (5:08)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Chronology Part 1 | 11:01 |
+| A2 | Chronology Part 2 | 6:05 |
+| A3 | Chronology Part 3 | 3:59 |
+| B1 | Chronology Part 4 | 3:58 |
+| B2 | Chronology Part 5 | 5:34 |
+| B3 | Chronology Part 6 | 3:45 |
+| B4 | Chronology Part 7 | 2:17 |
+| B5 | Chronology Part 8 | 5:08 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/chronology/1027734461" >}}<br>
 
 
-## Videos
-### Chronology Pt 1 Remastered
-{{< youtube id="C-G8FU6rvv0" title="Chronology Pt 1 Remastered" >}}<br>
-### More Videos
-
-- [Chronology Pt 2 Remastered](https://www.youtube.com/watch?v=yqYkZ1etjnY)
-- [Chronology Pt 3 Remastered](https://www.youtube.com/watch?v=cP9RDCrU6c4)
-- [Jean-Michel Jarre - Chronology Pt 4](https://www.youtube.com/watch?v=Eqilin4Cv08)
-- [Chronology Pt 5 Remastered](https://www.youtube.com/watch?v=9QiPuMR9ZCQ)
-- [Chronology Pt 6 Remastered](https://www.youtube.com/watch?v=7KaJbAXG6A8)
-- [Chronology Pt 8 Remastered](https://www.youtube.com/watch?v=V9EDK0liz8A)
-- [𝕵𝖊𝖆𝖓-𝕸𝖎𝖈𝖍𝖊𝖑 𝕵𝖆𝖗𝖗𝖊 - 𝕮𝖍𝖗𝖔𝖓𝖔𝖑𝖔𝖌𝖎𝖊  𝕮𝖍𝖗𝖔𝖓𝖔𝖑𝖔𝖌𝖞 1993](https://www.youtube.com/watch?v=G4pDBeGI4A4)
-- [Jean Michel Jarre - Chronologie - Part 4 Original Special Extended Version](https://www.youtube.com/watch?v=m6fhjLYs_pQ)
-- [Jean-Michel Jarre  - Chronologie 4 Energy Mix by McV](https://www.youtube.com/watch?v=PAp1KiKHo9g)
-- [Jean Michel Jarre - Chronologie Full Album](https://www.youtube.com/watch?v=nilXKnhny14)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +58,5 @@ Chronology is a part of periodization. It is also a part of the discipline of hi
 | Format         | Vinyl LP Album Reissue Remastered (140 Gram) |
 | Label          | Columbia |
 | Catalog Number | 19075828261 |
-| Notes | ℗ 1993 Jean-Michel Jarre  © 2018 Jean-Michel Jarre under exclusive licence to Sony Music Entertainment Germany GmbH. Made in the EU.  Instruments Digisequencer, Kurzweil K2000, Mini Moog, ARP 2600, Akai MPC-60, Akai S 1000, AKS, JD 800, Korg 01,  TR 909, DR 660, Synthex, Eminent, JP 8, DJ 70, Vocalist, Fairlight.  Special thanks to [a=Arnaud de La Villesbrunne], Emmanuel Bourgeois, [a=Jean-Pierre Janiaud], Christophe Couderc, [l=Studio Gang], [a=Renaud Letang], Young Chang Europe Kurzweil / Martin Dietz, JDC / Jean-Claude Dubois, Akai / Bernard Ribet, Christian Braut, Jamie Lowry, Musikengro / Roland Delacroix, Colin Davie, Illel, [a=Barnaby Southcombe], Sigrid Daniel and [a=Stephen Hawking] for his "Brief History of Time.  Thanks to Louisa Chelouti, [a=Edith Napias], Pierrette Jacquard, Gerald Ano, Sandrine Napoli, SVC Audio / Richard Garrido, Korg France Sound Processing Laboratory / Mr Gier.  New mastering from the original analog master tapes [...] in 2014  Issued with printed inner sleeve |
+| Notes | ℗ 1993 Jean-Michel Jarre  © 2018 Jean-Michel Jarre under exclusive licence to Sony Music Entertainment Germany GmbH.<br>Made in the EU.<br><br>Instruments Digisequencer, Kurzweil K2000, Mini Moog, ARP 2600, Akai MPC-60, Akai S 1000, AKS, JD 800, Korg 01, <br>TR 909, DR 660, Synthex, Eminent, JP 8, DJ 70, Vocalist, Fairlight.<br><br>Special thanks to [a=Arnaud de La Villesbrunne], Emmanuel Bourgeois, [a=Jean-Pierre Janiaud], Christophe Couderc, [l=Studio Gang], [a=Renaud Letang], Young Chang Europe Kurzweil / Martin Dietz, JDC / Jean-Claude Dubois, Akai / Bernard Ribet, Christian Braut, Jamie Lowry, Musikengro / Roland Delacroix, Colin Davie, Illel, [a=Barnaby Southcombe], Sigrid Daniel and [a=Stephen Hawking] for his "Brief History of Time.<br><br>Thanks to Louisa Chelouti, [a=Edith Napias], Pierrette Jacquard, Gerald Ano, Sandrine Napoli, SVC Audio / Richard Garrido, Korg France Sound Processing Laboratory / Mr Gier.<br><br>New mastering from the original analog master tapes [...] in 2014<br><br>Issued with printed inner sleeve |
 | Discogs URL    | [Jean-Michel Jarre - Chronology](https://www.discogs.com/release/11865300-Jean-Michel-Jarre-Chronology) |

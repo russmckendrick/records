@@ -4,6 +4,7 @@ artist_name: "Tears For Fears"
 artist: "tears-for-fears"
 album_name: "Rule The World"
 date: 2017-12-02T20:16:54.000000Z
+release_date: "2020-02-10"
 release_id: "11224816"
 slug: "rule-the-world-11224816"
 hideSummary: true
@@ -31,38 +32,36 @@ An international success, the song peaked at number two in Ireland, Australia, a
 A music video received promotion from MTV. In 1986, the song won Best Single at the Brit Awards, and was re-recorded by the band as a charity single for the Sport Aid campaign the same year. "Everybody Wants to Rule the World" has been covered extensively since its release, most notably by New Zealand singer Lorde for the soundtrack to the film adaptation of The Hunger Games: Catching Fire.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Everybody Wants To Rule The World (4:12)
-2. Shout (4:46)
-3. I Love You But I’m Lost (4:21)
-4. Mad World (3:34)
-5. Sowing The Seeds Of Love (6:17)
-6. Advice For The Young At Heart (4:51)
-7. Head Over Heels (4:16)
-8. Woman In Chains (6:30)
-9. Change (3:57)
-10. Stay (4:29)
-11. Pale Shelter (4:35)
-12. Mothers Talk (4:12)
-13. Break It Down Again (4:32)
-14. I Believe (4:56)
-15. Raoul And The Kings Of Spain (5:17)
-16. Closest Thing To Heaven (3:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Everybody Wants To Rule The World | 4:12 |
+| A2 | Shout | 4:46 |
+| A3 | I Love You But I’m Lost | 4:21 |
+| A4 | Mad World | 3:34 |
+| B1 | Sowing The Seeds Of Love | 6:17 |
+| B2 | Advice For The Young At Heart | 4:51 |
+| B3 | Head Over Heels | 4:16 |
+| B4 | Woman In Chains | 6:30 |
+| C1 | Change | 3:57 |
+| C2 | Stay | 4:29 |
+| C3 | Pale Shelter | 4:35 |
+| C4 | Mothers Talk | 4:12 |
+| D1 | Break It Down Again | 4:32 |
+| D2 | I Believe | 4:56 |
+| D3 | Raoul And The Kings Of Spain | 5:17 |
+| D4 | Closest Thing To Heaven | 3:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rule-the-world-single/1498448132" >}}<br>
 
 
-## Videos
-### Tears For Fears - Shout Official Music Video
-{{< youtube id="Ye7FKc1JQe4" title="Tears For Fears - Shout Official Music Video" >}}<br>
-### More Videos
-
-- [Tears For Fears - I Love You But Im Lost](https://www.youtube.com/watch?v=8RxlpQTgqO4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +73,5 @@ A music video received promotion from MTV. In 1986, the song won Best Single at 
 | Format         | Vinyl 2× LP Compilation (Gatefold Sleeve) |
 | Label          | Virgin EMI Records |
 | Catalog Number | V 3197 |
-| Notes | A Virgin EMI Records release; this compilation ℗ & © 2017 Mercury Records Ltd. Made in the E.U.  Tracks version: -Shout is 7" Edit -Change is Radio Edit -Pale Shelter is 2nd Version Single -Mothers Talk is U.S. Remix  Includes voucher for download of the digital album as WAV from redeem.thesoundofvinyl.com.  US release date: 1/12/2018 |
+| Notes | A Virgin EMI Records release; this compilation ℗ & © 2017 Mercury Records Ltd.<br>Made in the E.U.<br><br>Tracks version:<br>-Shout is 7" Edit<br>-Change is Radio Edit<br>-Pale Shelter is 2nd Version Single<br>-Mothers Talk is U.S. Remix<br><br>Includes voucher for download of the digital album as WAV from redeem.thesoundofvinyl.com.<br><br>US release date: 1/12/2018 |
 | Discogs URL    | [Tears For Fears - Rule The World](https://www.discogs.com/release/11224816-Tears-For-Fears-Rule-The-World) |

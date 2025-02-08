@@ -4,6 +4,7 @@ artist_name: "Abel Ganz"
 artist: "abel-ganz"
 album_name: "The Life Of The Honeybee & Other Moments Of Clarity"
 date: 2021-01-17T10:31:14.000000Z
+release_date: "2020-07-06"
 release_id: "15659971"
 slug: "the-life-of-the-honeybee-other-moments-of-clarity-15659971"
 hideSummary: true
@@ -26,29 +27,25 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Life Of The Honeybee & Other Moments Of Clarity
-2. One Small Soul
-3. Arran Shores
-4. Summerlong
-5. Sepia And White
-6. The Light Shines Out
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Life Of The Honeybee & Other Moments Of Clarity |  |
+| A2 | One Small Soul |  |
+| A3 | Arran Shores |  |
+| B1 | Summerlong |  |
+| B2 | Sepia And White |  |
+| B3 | The Light Shines Out |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-life-of-the-honey-bee-and-other-moments-of-clarity/1510099512" >}}<br>
 
 
-## Videos
-### Abel Ganz  One Small Soul
-{{< youtube id="81h_ZOnPxrY" title="Abel Ganz  One Small Soul" >}}<br>
-### More Videos
-
-- [Abel Ganz  Arran Shores](https://www.youtube.com/watch?v=nnidk9i8vBQ)
-- [The Life of the Honey Bee and Other Moments of Clarity](https://www.youtube.com/watch?v=DaPbXzlmuAM)
-- [The Light Shines Out](https://www.youtube.com/watch?v=rkwaM6GxqMc)
-- [Summerlong](https://www.youtube.com/watch?v=mLtykq7GvDo)
-- [Sepia and White](https://www.youtube.com/watch?v=mDZKQWV7uAo)
 
 ## Release Images
 {{< imageGrid >}}

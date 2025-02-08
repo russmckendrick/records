@@ -57,37 +57,24 @@ As Jason Isbell inched deeper and deeper into writing what would become <i>Reuni
 
 
 ## Tracklisting
-1. What've I Done To Help
-2. Dreamsicle
-3. Only Children
-4. Overseas
-5. Running With Our Eyes Closed
-6. River
-7. Be Afraid
-8. St. Peter's Autograph
-9. It Gets Easier
-10. Letting You Go
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | What've I Done To Help |  |
+| A2 | Dreamsicle |  |
+| A3 | Only Children |  |
+| A4 | Overseas |  |
+| B1 | Running With Our Eyes Closed |  |
+| B2 | River |  |
+| B3 | Be Afraid |  |
+| B4 | St. Peter's Autograph |  |
+| B5 | It Gets Easier |  |
+| B6 | Letting You Go |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/reunions/1496052578" >}}<br>
 
 
-## Videos
-### Jason Isbell and the 400 Unit - Overseas
-{{< youtube id="V4kFqy7U6NE" title="Jason Isbell and the 400 Unit - Overseas" >}}<br>
-### More Videos
-
-- [Jason Isbell and the 400 Unit - Letting You Go](https://www.youtube.com/watch?v=g6alzZQXi7Y)
-- [Jason Isbell and the 400 Unit - It Gets Easier](https://www.youtube.com/watch?v=2CagbTwPxXw)
-- [Jason Isbell and the 400 Unit - St Peters Autograph](https://www.youtube.com/watch?v=LGdQsOLhkeI)
-- [Jason Isbell and the 400 Unit - River](https://www.youtube.com/watch?v=p5bathZEbNU)
-- [Jason Isbell and the 400 Unit - Running with Our Eyes Closed](https://www.youtube.com/watch?v=FAQ6ZYJLzfQ)
-- [Jason Isbell and the 400 Unit - Overseas](https://www.youtube.com/watch?v=V4kFqy7U6NE)
-- [Jason Isbell and the 400 Unit - Letting You Go](https://www.youtube.com/watch?v=g6alzZQXi7Y)
-- [Jason Isbell and the 400 Unit - It Gets Easier](https://www.youtube.com/watch?v=2CagbTwPxXw)
-- [Jason Isbell and the 400 Unit - St Peters Autograph](https://www.youtube.com/watch?v=LGdQsOLhkeI)
-- [Jason Isbell and the 400 Unit - River](https://www.youtube.com/watch?v=p5bathZEbNU)
-- [Jason Isbell and the 400 Unit - Running with Our Eyes Closed](https://www.youtube.com/watch?v=FAQ6ZYJLzfQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -98,5 +85,5 @@ As Jason Isbell inched deeper and deeper into writing what would become <i>Reuni
 | Format         | Vinyl LP Album Limited Edition (Orange Dreamsicle) |
 | Label          | Southeastern Records (2) |
 | Catalog Number | SER99921 |
-| Notes | Independent record store exclusive Dreamsicle Orange Vinyl, includes a print of front cover photo, and coupon for HD Download. Gatefold sleeve.  In some cases, a second print of his 1959 Les Paul, "Red Eye" is also included.  |
+| Notes | Independent record store exclusive Dreamsicle Orange Vinyl, includes a print of front cover photo, and coupon for HD Download. Gatefold sleeve.<br><br>In some cases, a second print of his 1959 Les Paul, "Red Eye" is also included.  |
 | Discogs URL    | [Jason Isbell And The 400 Unit - Reunions](https://www.discogs.com/release/15259036-Jason-Isbell-And-The-400-Unit-Reunions) |

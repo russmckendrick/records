@@ -40,28 +40,25 @@ The Liverpool groupâ€™s 11th album is a conceptual sequel to their sixth, 2001â€
 
 
 ## Tracklisting
-1. 32.63N 117.14W
-2. Leaving It Behind
-3. Endless Ways
-4. The Optimist
-5. San Francisco
-6. Springfield
-7. Ghosts
-8. Can't Let Go
-9. Close Your Eyes
-10. Wildfires
-11. Back To The Start
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 32.63N 117.14W |  |
+| A2 | Leaving It Behind |  |
+| A3 | Endless Ways |  |
+| A4 | The Optimist |  |
+| B1 | San Francisco |  |
+| B2 | Springfield |  |
+| C1 | Ghosts |  |
+| C2 | Can't Let Go |  |
+| D1 | Close Your Eyes |  |
+| D2 | Wildfires |  |
+| D3 | Back To The Start |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-optimist/1218795282" >}}<br>
 
 
-## Videos
-### Anathema - Springfield from The Optimist
-{{< youtube id="8y1ROzCUpbU" title="Anathema - Springfield from The Optimist" >}}<br>
-### More Videos
-
-- [Anathema - The Optimist FULL ALBUM](https://www.youtube.com/watch?v=AYmbDjGnpQ8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +69,5 @@ The Liverpool groupâ€™s 11th album is a conceptual sequel to their sixth, 2001â€
 | Format         | Vinyl 2Ã— LP Album Limited Edition (Silver, 180gr) |
 | Label          | Kscope |
 | Catalog Number | Kscope944 |
-| Notes | Made in Germany. The label catalog number KSCOPE944B - SILVER can be found on the sticker, also the barcode.  2LP Gatefold 180 gram heavyweight vinyl + MP3 download included. Limited to 300 copies |
+| Notes | Made in Germany. The label catalog number KSCOPE944B - SILVER can be found on the sticker, also the barcode.<br><br>2LP Gatefold 180 gram heavyweight vinyl + MP3 download included. Limited to 300 copies |
 | Discogs URL    | [Anathema - The Optimist](https://www.discogs.com/release/10418247-ana_thema-The-Optimist) |

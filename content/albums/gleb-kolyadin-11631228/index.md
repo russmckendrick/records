@@ -4,6 +4,7 @@ artist_name: "Gleb Kolyadin"
 artist: "gleb-kolyadin"
 album_name: "Gleb Kolyadin"
 date: 2018-03-04T19:29:32.000000Z
+release_date: "2018"
 release_id: "11631228"
 slug: "gleb-kolyadin-11631228"
 hideSummary: true
@@ -26,38 +27,32 @@ styles: ["Prog Rock"]
 Gleb Kolyadin (born Gleb Alekseevich Kolyadin, Russian: Глеб Алексеевич Колядин, 11 July 1989, Leningrad, Russia) is a Russian pianist, composer, and arranger who mixes progressive rock and jazz fusion with neoclassical styles. He has released music both as a solo artist and as a member of the prog duo iamthemorning.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Insight
-2. Astral Architecture
-3. Kaleidoscope
-4. Eidolon
-5. Into The Void
-6. The Room
-7. Confluence
-8. Constellation
-9. Echo / Sigh / Strand 
-10. Penrose Stairs
-11. Storyteller 
-12. The Best Of Days
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Insight |  |
+| A2 | Astral Architecture |  |
+| A3 | Kaleidoscope |  |
+| A4 | Eidolon |  |
+| A5 | Into The Void |  |
+| A6 | The Room |  |
+| B1 | Confluence |  |
+| B2 | Constellation |  |
+| B3 | Echo / Sigh / Strand  |  |
+| B4 | Penrose Stairs |  |
+| B5 | Storyteller  |  |
+| B6 | The Best Of Days |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gleb-kolyadin-expanded/1576589789" >}}<br>
 
 
-## Videos
-### Gleb Kolyadin Iamthemorning - The Best of Days feat Steve Hogarth Marillion
-{{< youtube id="Yi1uHl8uy6E" title="Gleb Kolyadin Iamthemorning - The Best of Days feat Steve Hogarth Marillion" >}}<br>
-### More Videos
-
-- [Gleb Kolyadin - Storyteller feat Jordan Rudess Dream Theater from Gleb Kolyadin](https://www.youtube.com/watch?v=meJxe35Dj2E)
-- [Глеб КОЛЯДИН - Дебютный Альбом - 2018  Gleb KOLYADIN - Debut Album - 2018](https://www.youtube.com/watch?v=7u7ferl0TIE)
-- [Gleb Kolyadin Iamthemorning - The Best of Days feat Steve Hogarth Marillion](https://www.youtube.com/watch?v=Yi1uHl8uy6E)
-- [Gleb Kolyadin - Storyteller feat Jordan Rudess Dream Theater from Gleb Kolyadin](https://www.youtube.com/watch?v=meJxe35Dj2E)
-- [Глеб КОЛЯДИН - Дебютный Альбом - 2018  Gleb KOLYADIN - Debut Album - 2018](https://www.youtube.com/watch?v=7u7ferl0TIE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +64,5 @@ Gleb Kolyadin (born Gleb Alekseevich Kolyadin, Russian: Глеб Алексее�
 | Format         | Vinyl LP Album Stereo (180 Gram) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE973 |
-| Notes | Packaged in a single jacket in a resealable plastic sleeve with hype sticker attached to the front and printed inner sleeve that includes credits & lyrics.  Ⓟ 2018 Kscope Ⓒ 2018 Kscope  Made in the EU. |
+| Notes | Packaged in a single jacket in a resealable plastic sleeve with hype sticker attached to the front and printed inner sleeve that includes credits & lyrics.<br><br>Ⓟ 2018 Kscope Ⓒ 2018 Kscope <br>Made in the EU. |
 | Discogs URL    | [Gleb Kolyadin - Gleb Kolyadin](https://www.discogs.com/release/11631228-Gleb-Kolyadin-Gleb-Kolyadin) |

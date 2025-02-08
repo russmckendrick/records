@@ -4,6 +4,7 @@ artist_name: "Carter The Unstoppable Sex Machine"
 artist: "carter-the-unstoppable-sex-machine"
 album_name: "Post Historic Monsters"
 date: 2024-08-27T10:58:45.000000Z
+release_date: "1993-09-06"
 release_id: "31545799"
 slug: "post-historic-monsters-31545799"
 hideSummary: true
@@ -32,58 +33,41 @@ Post Historic Monsters is the fourth album by Carter the Unstoppable Sex Machine
 The album shows the band working in new styles in attempt to "prove themselves" after the critical disdain that the band had started to pick up in late 1992. There are numerous other musical styles explored on the album besides the band's usual drum machine-based punk rock, and some of Jim Bob's lyrics had started to become more personal, sitting alongside tracks which are more traditionally politically or socially based. The album was a critical success, with critics complimenting the new approaches that the band had undertaken. In their lists of the top 50 albums of the year, NME named it 22nd whilst Select named it 46th. The band played the entire album live for the first time in Kentish Town in November 2009.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. 2 Million Years B.C. (0:40)
-2. The Music That Nobody Likes (4:27)
-3. Mid Day Crisis (3:55)
-4. Cheer Up, It Might Never Happen (4:05)
-5. Stuff The Jubilee! (3:54)
-6. A Bachelor For Baden Powell (3:55)
-7. Spoilsports Personality Of The Year (5:03)
-8. Suicide Isn't Painless (1:18)
-9. Being Here (2:04)
-10. Evil (2:50)
-11. Sing Fat Lady Sing (3:34)
-12. Travis (3:03)
-13. Lean On Me I Won't Fall Over (3:40)
-14. Lenny And Terence (3:56)
-15. Under The Thumb And Over The Moon (3:43)
-16. Glam Rock Cops
-17. Hit
-18. Always The Bridesmaid Never The Bride
-19. Her Song
-20. Commercial Fucking Suicide (Part 1)
-21. Stuff The Jubilee
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 2 Million Years B.C. | 0:40 |
+| A2 | The Music That Nobody Likes | 4:27 |
+| A3 | Mid Day Crisis | 3:55 |
+| A4 | Cheer Up, It Might Never Happen | 4:05 |
+| A5 | Stuff The Jubilee! | 3:54 |
+| B1 | A Bachelor For Baden Powell | 3:55 |
+| B2 | Spoilsports Personality Of The Year | 5:03 |
+| B3 | Suicide Isn't Painless | 1:18 |
+| B4 | Being Here | 2:04 |
+| B5 | Evil | 2:50 |
+| C1 | Sing Fat Lady Sing | 3:34 |
+| C2 | Travis | 3:03 |
+| C3 | Lean On Me I Won't Fall Over | 3:40 |
+| C4 | Lenny And Terence | 3:56 |
+| C5 | Under The Thumb And Over The Moon | 3:43 |
+| D1 | Glam Rock Cops |  |
+| D2 | Hit |  |
+| D3 | Always The Bridesmaid Never The Bride |  |
+| D4 | Her Song |  |
+| D5 | Commercial Fucking Suicide (Part 1) |  |
+| D6 | Stuff The Jubilee |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/post-historic-monsters/1629184761" >}}<br>
 
 
-## Videos
-### Carter The Unstoppable Sex Machine - Post Historic Monsters 1993 full album
-{{< youtube id="9FSk38EfaGE" title="Carter The Unstoppable Sex Machine - Post Historic Monsters 1993 full album" >}}<br>
-### More Videos
-
-- [Carter USM - Glam Rock Cops Official Music Video](https://www.youtube.com/watch?v=vOQsW05JG5k)
-- [Hit](https://www.youtube.com/watch?v=fje9NmMihpM)
-- [Always the Bridesmaid Never the Bride](https://www.youtube.com/watch?v=eyvLhAZsrLY)
-- [Her Song](https://www.youtube.com/watch?v=UxB5VKSmf0I)
-- [Commercial Fucking Suicide - Carter USM](https://www.youtube.com/watch?v=vWj8teXRXs8)
-- [Stuff the Jubilee 1977](https://www.youtube.com/watch?v=ckYD4byWnmQ)
-- [CARTER USM-Evil](https://www.youtube.com/watch?v=bzXkiDog0bo)
-- [CARTER USM-Mid Day Crisis](https://www.youtube.com/watch?v=5QRIdbIUZPc)
-- [Carter-Suicide Isnt Painless](https://www.youtube.com/watch?v=jpKtxEE4KPQ)
-- [Carter The Unstoppable Sex Machine - Post Historic Monsters 1993 full album](https://www.youtube.com/watch?v=9FSk38EfaGE)
-- [Carter USM - Glam Rock Cops Official Music Video](https://www.youtube.com/watch?v=vOQsW05JG5k)
-- [Hit](https://www.youtube.com/watch?v=fje9NmMihpM)
-- [Always the Bridesmaid Never the Bride](https://www.youtube.com/watch?v=eyvLhAZsrLY)
-- [Her Song](https://www.youtube.com/watch?v=UxB5VKSmf0I)
-- [Commercial Fucking Suicide - Carter USM](https://www.youtube.com/watch?v=vWj8teXRXs8)
-- [Stuff the Jubilee 1977](https://www.youtube.com/watch?v=ckYD4byWnmQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -95,5 +79,5 @@ The album shows the band working in new styles in attempt to "prove themselves" 
 | Format         | Vinyl 2× LP Album Compilation Limited Edition (Clear Vinyl, Red Vinyl) |
 | Label          | Chrysalis Catalogue |
 | Catalog Number | CRV1661 |
-| Notes | Carter The Unstoppable Sex Machine: Post Historic Monsters 2LP Expanded Edition 250 were signed by Jim Bob and Fruitbat on release, more were signed at the album release in London's Rough Trade East store on 23 Aug 2024. Limited edition pressing of 1500 copies. Housed in a gatefold sleeve with poly-lined inner bags. |
+| Notes | Carter The Unstoppable Sex Machine: Post Historic Monsters 2LP Expanded Edition<br>250 were signed by Jim Bob and Fruitbat on release, more were signed at the album release in London's Rough Trade East store on 23 Aug 2024.<br>Limited edition pressing of 1500 copies.<br>Housed in a gatefold sleeve with poly-lined inner bags. |
 | Discogs URL    | [Carter The Unstoppable Sex Machine - Post Historic Monsters](https://www.discogs.com/release/31545799-Carter-The-Unstoppable-Sex-Machine-Post-Historic-Monsters) |

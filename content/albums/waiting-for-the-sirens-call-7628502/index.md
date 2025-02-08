@@ -40,25 +40,24 @@ All that newfound effort paid off: Singles “Krafty” and “Jetstream” both
 
 
 ## Tracklisting
-1. Who's Joe? (5:43)
-2. Hey Now What You Doing (5:13)
-3. Waiting For The Sirens' Call (5:40)
-4. Krafty (4:33)
-5. I Told You So (5:58)
-6. Morning Night And Day (5:08)
-7. Dracula's Castle (5:37)
-8. Jetstream (5:21)
-9. Guilt Is A Useless Emotion (5:37)
-10. Turn (4:33)
-11. Working Overtime (3:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Who's Joe? | 5:43 |
+| A2 | Hey Now What You Doing | 5:13 |
+| A3 | Waiting For The Sirens' Call | 5:40 |
+| B1 | Krafty | 4:33 |
+| B2 | I Told You So | 5:58 |
+| B3 | Morning Night And Day | 5:08 |
+| C1 | Dracula's Castle | 5:37 |
+| C2 | Jetstream | 5:21 |
+| D1 | Guilt Is A Useless Emotion | 5:37 |
+| D2 | Turn | 4:33 |
+| D3 | Working Overtime | 3:26 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/waiting-for-the-sirens-call/1041432291" >}}<br>
 
-
-## Videos
-### New Order - Waiting For The Sirens Call OFFICIAL MUSIC VIDEO
-{{< youtube id="3oOB9ektig4" title="New Order - Waiting For The Sirens Call OFFICIAL MUSIC VIDEO" >}}<br>
 
 
 ## Release Images

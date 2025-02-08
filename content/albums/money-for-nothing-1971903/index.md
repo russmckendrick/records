@@ -4,6 +4,7 @@ artist_name: "Dire Straits"
 artist: "dire-straits"
 album_name: "Money For Nothing"
 date: 2015-10-14T18:37:05.000000Z
+release_date: "2013-02-19"
 release_id: "1971903"
 slug: "money-for-nothing-1971903"
 hideSummary: true
@@ -26,43 +27,31 @@ styles: ["Pop Rock", "AOR"]
 It was Dire Straits' most commercially successful single, peaking at number 1 for three weeks on both the US Billboard Hot 100 and Top Rock Tracks chart and number 4 in the band's native UK. In July 1985, the month following its release, Dire Straits and Sting performed the song at Live Aid. At the 28th Annual Grammy Awards in 1986, "Money for Nothing" won Best Rock Performance by a Duo or Group with Vocal and was nominated for Record of the Year and Song of the Year as well. At the 1986 MTV Video Music Awards, the music video received 11 nominations, winning Video of the Year and Best Group Video. It is widely considered one of the band's signature songs.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Sultans Of Swing
-2. Down To The Waterline
-3. Portobello Belle - Live
-4. Twisting By The Pool (Remix)
-5. Romeo And Juliet
-6. Where Do You Think You're Going
-7. Walk Of Life
-8. Private Investigations
-9. Money For Nothing
-10. Tunnel Of Love
-11. Brothers In Arms
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sultans Of Swing |  |
+| A2 | Down To The Waterline |  |
+| A3 | Portobello Belle - Live |  |
+| A4 | Twisting By The Pool (Remix) |  |
+| A5 | Romeo And Juliet |  |
+| A6 | Where Do You Think You're Going |  |
+| B1 | Walk Of Life |  |
+| B2 | Private Investigations |  |
+| B3 | Money For Nothing |  |
+| B4 | Tunnel Of Love |  |
+| B5 | Brothers In Arms |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/money-for-nothing-ep/594723087" >}}<br>
 
 
-## Videos
-### Dire Straits - Sultans Of Swing Official Music Video
-{{< youtube id="h0ffIJ7ZO4U" title="Dire Straits - Sultans Of Swing Official Music Video" >}}<br>
-### More Videos
-
-- [Dire Straits - Down To The Waterline Whats On 22nd June 1978](https://www.youtube.com/watch?v=h_IGSgvNS8s)
-- [Dire Straits - Portobello Belle - Live New 2020 TransferRemastered VINYL - 32bit HiRes HQ](https://www.youtube.com/watch?v=NhA1iuEKGCA)
-- [Dire Straits - Twisting By The Pool Official Music Video](https://www.youtube.com/watch?v=DsJ5aYK-S6Y)
-- [Dire Straits - Tunnel Of Love Official Music Video](https://www.youtube.com/watch?v=gAirINwjaxE)
-- [Dire Straits - Romeo And Juliet Official Music Video](https://www.youtube.com/watch?v=rC95MEenIxA)
-- [Where Do You Think Youre Going](https://www.youtube.com/watch?v=LROnjfhnZMo)
-- [Dire Straits - Walk Of Life Official Music Video](https://www.youtube.com/watch?v=kd9TlGDZGkI)
-- [Dire Straits - Private Investigations Official Music Video](https://www.youtube.com/watch?v=P9K27HvhDxA)
-- [Telegraph Road Live  Mixed And Remastered 2023](https://www.youtube.com/watch?v=jeZwirnHPxA)
-- [Dire Straits - Money For Nothing Official Music Video](https://www.youtube.com/watch?v=wTP2RUD_cL0)
-- [Dire Straits - Brothers In Arms Official Music Video](https://www.youtube.com/watch?v=jhdFe3evXpk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +63,5 @@ It was Dire Straits' most commercially successful single, peaking at number 1 fo
 | Format         | Vinyl LP Compilation |
 | Label          | Vertigo |
 | Catalog Number | VERH 64 |
-| Notes | Money For Nothing has Sting as Co-writer on single, not credited on this release. Tunnel Of Love extract from The Carousel Waltz (Rodgers / Hammerstein).    Issued with a lyric inner sleeve. |
+| Notes | Money For Nothing has Sting as Co-writer on single, not credited on this release. Tunnel Of Love extract from The Carousel Waltz (Rodgers / Hammerstein).<br><br>Issued with a lyric inner sleeve. |
 | Discogs URL    | [Dire Straits - Money For Nothing](https://www.discogs.com/release/1971903-Dire-Straits-Money-For-Nothing) |

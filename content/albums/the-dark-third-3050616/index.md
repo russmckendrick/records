@@ -4,6 +4,7 @@ artist_name: "Pure Reason Revolution"
 artist: "pure-reason-revolution"
 album_name: "The Dark Third"
 date: 2016-02-19T17:27:44.000000Z
+release_date: "2006-04-08"
 release_id: "3050616"
 slug: "the-dark-third-3050616"
 hideSummary: true
@@ -28,56 +29,34 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ---
 
 The Dark Third is the first full-length album by Pure Reason Revolution. It was produced by Paul Northfield (Rush, Porcupine Tree, Gentle Giant, Hole) and recorded at Fairhazel Studios and later RAK studios. An earlier single "Apprentice of the Universe" peaked at #74. The title refers to the "Dark Third", the third of a person's life spent asleep and dreaming, with the song on disc 2 "In Aurelia" being based lyrically and thematically around the book Aurelia by Gérard de Nerval.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Aeropause
-2. Goshen's Remains
-3. Apprentice Of The Universe
-4. The Bright Ambassadors Of Morning
-5. Nimos & Tambos
-6. Voices In Winter / In The Realms Of The Divine
-7. Bullitts Dominæ
-8. Arrival / The Intention Craft
-9. He Tried To Show Them Magic! / Ambassadors Return
-10. Asleep Under Eiderdown
-11. In Aurélia
-12. Borgens Vor
-13. The Exact Colour
-14. The Twyncyn / Trembling Willows
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Aeropause |  |
+| A2 | Goshen's Remains |  |
+| A3 | Apprentice Of The Universe |  |
+| B1 | The Bright Ambassadors Of Morning |  |
+| B2 | Nimos & Tambos |  |
+| B3 | Voices In Winter / In The Realms Of The Divine |  |
+| C1 | Bullitts Dominæ |  |
+| C2 | Arrival / The Intention Craft |  |
+| C3 | He Tried To Show Them Magic! / Ambassadors Return |  |
+| C4 | Asleep Under Eiderdown |  |
+| D1 | In Aurélia |  |
+| D2 | Borgens Vor |  |
+| D3 | The Exact Colour |  |
+| D4 | The Twyncyn / Trembling Willows |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-dark-third/270604771" >}}<br>
 
 
-## Videos
-### Aeropause
-{{< youtube id="r6b7lVJSKQY" title="Aeropause" >}}<br>
-### More Videos
-
-- [Goshens Remains](https://www.youtube.com/watch?v=lyE82wgOkVY)
-- [Apprentice of the Universe](https://www.youtube.com/watch?v=qbTSSD-nZZE)
-- [Nimos and Tambos](https://www.youtube.com/watch?v=dEcQhIlPb1Y)
-- [Voices in Winter  In the Realms of the Divine](https://www.youtube.com/watch?v=1_R96xcQKrw)
-- [Bullitts Dominae](https://www.youtube.com/watch?v=X3-VtVsXcdE)
-- [Arrival  The Intention Craft](https://www.youtube.com/watch?v=aZcO_EAqoj0)
-- [He Tried to Show Them Magic  Ambassadors Return](https://www.youtube.com/watch?v=WD3aCXr2VVg)
-- [Asleep Under Eiderdown](https://www.youtube.com/watch?v=tZzWfMcUHPQ)
-- [The Exact Colour](https://www.youtube.com/watch?v=cerFbpn__sc)
-- [The Twyncyn  Trembling Willows](https://www.youtube.com/watch?v=kDXbZhTToxo)
-- [Aeropause](https://www.youtube.com/watch?v=r6b7lVJSKQY)
-- [Goshens Remains](https://www.youtube.com/watch?v=lyE82wgOkVY)
-- [Apprentice of the Universe](https://www.youtube.com/watch?v=qbTSSD-nZZE)
-- [Nimos and Tambos](https://www.youtube.com/watch?v=dEcQhIlPb1Y)
-- [Voices in Winter  In the Realms of the Divine](https://www.youtube.com/watch?v=1_R96xcQKrw)
-- [Bullitts Dominae](https://www.youtube.com/watch?v=X3-VtVsXcdE)
-- [Arrival  The Intention Craft](https://www.youtube.com/watch?v=aZcO_EAqoj0)
-- [He Tried to Show Them Magic  Ambassadors Return](https://www.youtube.com/watch?v=WD3aCXr2VVg)
-- [Asleep Under Eiderdown](https://www.youtube.com/watch?v=tZzWfMcUHPQ)
-- [The Exact Colour](https://www.youtube.com/watch?v=cerFbpn__sc)
-- [The Twyncyn  Trembling Willows](https://www.youtube.com/watch?v=kDXbZhTToxo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -89,5 +68,5 @@ The Dark Third is the first full-length album by Pure Reason Revolution. It was 
 | Format         | Vinyl 2× LP Album |
 | Label          | Primal Vinyl Records |
 | Catalog Number | PVR0005LP |
-| Notes | Track C4 appears as a hidden track, not credited on the cover, after about 5 minutes of silence.  © + ℗ Sony BMG Music Entertainment (UK) Ltd - Issued under license to Primal Vinyl Records  Distributed by Plastic Head Music Distribution Ltd  Recorded at Fairhazel, Eden, The Gables & RAK Studios.   Mixed at RAK Studios.   |
+| Notes | Track C4 appears as a hidden track, not credited on the cover, after about 5 minutes of silence.<br>© + ℗ Sony BMG Music Entertainment (UK) Ltd - Issued under license to Primal Vinyl Records<br>Distributed by Plastic Head Music Distribution Ltd<br>Recorded at Fairhazel, Eden, The Gables & RAK Studios. <br>Mixed at RAK Studios.<br> |
 | Discogs URL    | [Pure Reason Revolution - The Dark Third](https://www.discogs.com/release/3050616-Pure-Reason-Revolution-The-Dark-Third) |

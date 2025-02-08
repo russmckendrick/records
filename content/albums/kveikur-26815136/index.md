@@ -1,9 +1,10 @@
 ---
 title: "Sigur Rós - Kveikur"
 artist_name: "Sigur Rós"
-artist: "sigur-r-s"
+artist: "sigur-ros"
 album_name: "Kveikur"
 date: 2023-04-23T04:36:18.000000Z
+release_date: "2013-06-12"
 release_id: "26815136"
 slug: "kveikur-26815136"
 hideSummary: true
@@ -26,35 +27,29 @@ styles: ["Post Rock"]
 ---
 
 Kveikur (pronounced [ˈkveikʏr], fuse or candlewick) is the seventh studio album from Icelandic post-rock band Sigur Rós. It was released 12 June 2013 in Japan, on 17 June internationally, and on 18 June in the United States through XL Recordings. It is the only album to be fully released through XL after the band departed EMI and Parlophone during the label's acquisition by Universal Music Group in 2012. It is the only album since their debut, Von, not to feature Kjartan Sveinsson, following his departure in 2012 (instead featured as the album's co-producer), and the last to feature drummer Orri Páll Dýrason before his departure in 2018. The cover is a photo by the Brazilian artist Lygia Clark.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Brennisteinn
-2. Hrafntinna
-3. Ísjaki
-4. Yfirborð
-5. Stormur
-6. Kveikur
-7. Rafstraumur
-8. Bláþráður
-9. Var
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Brennisteinn |  |
+| A2 | Hrafntinna |  |
+| B1 | Ísjaki |  |
+| B2 | Yfirborð |  |
+| C1 | Stormur |  |
+| C2 | Kveikur |  |
+| D1 | Rafstraumur |  |
+| D2 | Bláþráður |  |
+| D3 | Var |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kveikur/1447442983" >}}<br>
 
 
-## Videos
-### Sigur Rós - Kveikur Album version
-{{< youtube id="Zl1__PhECzg" title="Sigur Rós - Kveikur Album version" >}}<br>
-### More Videos
-
-- [Sigur Rós - Hrafntinna](https://www.youtube.com/watch?v=z1A9HHxkNV0)
-- [Sigur Rós - Ísjaki Official Lyric Video](https://www.youtube.com/watch?v=dF6E47Pn6mY)
-- [Sigur Rós - Brennisteinn  Official Video](https://www.youtube.com/watch?v=Oc6zXSdYXm8)
-- [Sigur Rós - Kveikur Album version](https://www.youtube.com/watch?v=Zl1__PhECzg)
-- [Sigur Rós - Hrafntinna](https://www.youtube.com/watch?v=z1A9HHxkNV0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +61,5 @@ Kveikur (pronounced [ˈkveikʏr], fuse or candlewick) is the seventh studio albu
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue (Yellow [Sulphuric Yellow], 10th Anniversary Edition) |
 | Label          | Krúnk |
 | Catalog Number | KRUNK77CLPY |
-| Notes | ℗ 2013 The copyright in this sound recording is owned by Sigur Rós, under exclusive license to Krunk. © 2023 Krunk.  Includes limited silk screen print on 350gsm art card by Sigga Björg Sigurðardóttir. Pressed in a total number of 1350 ex on sulphuric coloured vinyl.   Circular hype sticker reads: "10th Anniversary Edition Record Store Day Sulphuric Yellow Heavyweight Vinyl Includes limited silk screen print on 350 gsm art card"  Additional information: • Front cover image [...] by kind permission of the Lydia Clarke Foundation. Mixing credit: • Assisted by Elisabeth Carlsson (Sundlaugin, Álafoss) • Assisted by Chris Kasych & Eric Isip (Eldorado, Los Angeles) • Assisted by Laura Sisk (Pacifique, North Hollywood)  |
+| Notes | ℗ 2013 The copyright in this sound recording is owned by Sigur Rós, under exclusive license to Krunk. © 2023 Krunk.<br><br>Includes limited silk screen print on 350gsm art card by Sigga Björg Sigurðardóttir.<br>Pressed in a total number of 1350 ex on sulphuric coloured vinyl. <br><br>Circular hype sticker reads:<br>"10th Anniversary Edition<br>Record Store Day<br>Sulphuric Yellow<br>Heavyweight<br>Vinyl<br>Includes limited silk screen print on 350 gsm art card"<br><br>Additional information:<br>• Front cover image [...] by kind permission of the Lydia Clarke Foundation.<br>Mixing credit:<br>• Assisted by Elisabeth Carlsson (Sundlaugin, Álafoss)<br>• Assisted by Chris Kasych & Eric Isip (Eldorado, Los Angeles)<br>• Assisted by Laura Sisk (Pacifique, North Hollywood)<br> |
 | Discogs URL    | [Sigur Rós - Kveikur](https://www.discogs.com/release/26815136-Sigur-Rós-Kveikur) |

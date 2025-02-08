@@ -28,45 +28,24 @@ On his brilliant 2015 debut album, <I>Coming Home</I>, Texas singer/songwriter L
 
 
 ## Tracklisting
-1. Bet Ain't Worth The Hand
-2. Bad Bad News
-3. Shy
-4. Beyond
-5. Forgive You
-6. Lions
-7. If It Feels Good (Then It Must Be)
-8. You Don't Know
-9. Mrs.
-10. Georgia To Texas
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Bet Ain't Worth The Hand |  |
+| A2 | Bad Bad News |  |
+| A3 | Shy |  |
+| A4 | Beyond |  |
+| A5 | Forgive You |  |
+| B1 | Lions |  |
+| B2 | If It Feels Good (Then It Must Be) |  |
+| B3 | You Don't Know |  |
+| B4 | Mrs. |  |
+| B5 | Georgia To Texas |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/good-thing/1356338660" >}}<br>
 
 
-## Videos
-### Leon Bridges - Bet Aint Worth the Hand
-{{< youtube id="UYzpPh1Gf_Q" title="Leon Bridges - Bet Aint Worth the Hand" >}}<br>
-### More Videos
-
-- [Leon Bridges - Bad Bad News Official Audio](https://www.youtube.com/watch?v=FJOGT1axUV4)
-- [Leon Bridges - Shy Official Audio](https://www.youtube.com/watch?v=EfVhJkQ-mt8)
-- [Leon Bridges - Beyond Official Audio](https://www.youtube.com/watch?v=2qVe7CL9uAg)
-- [Leon Bridges - Forgive You Official Audio](https://www.youtube.com/watch?v=mK8NE8qtO8o)
-- [Leon Bridges - Lions Official Audio](https://www.youtube.com/watch?v=KE6nqQGegAA)
-- [Leon Bridges - If It Feels Good Then It Must Be Official Audio](https://www.youtube.com/watch?v=xvPMqljGruE)
-- [Leon Bridges - You Dont Know Official Audio](https://www.youtube.com/watch?v=KztV93idYN4)
-- [Leon Bridges - Mrs Official Audio](https://www.youtube.com/watch?v=4WyqaFTgaKI)
-- [Leon Bridges - Georgia to Texas Official Audio](https://www.youtube.com/watch?v=XnJe7C2rkiI)
-- [Leon Bridges - Bet Aint Worth the Hand](https://www.youtube.com/watch?v=UYzpPh1Gf_Q)
-- [Leon Bridges - Bad Bad News Official Audio](https://www.youtube.com/watch?v=FJOGT1axUV4)
-- [Leon Bridges - Shy Official Audio](https://www.youtube.com/watch?v=EfVhJkQ-mt8)
-- [Leon Bridges - Beyond Official Audio](https://www.youtube.com/watch?v=2qVe7CL9uAg)
-- [Leon Bridges - Forgive You Official Audio](https://www.youtube.com/watch?v=mK8NE8qtO8o)
-- [Leon Bridges - Lions Official Audio](https://www.youtube.com/watch?v=KE6nqQGegAA)
-- [Leon Bridges - If It Feels Good Then It Must Be Official Audio](https://www.youtube.com/watch?v=xvPMqljGruE)
-- [Leon Bridges - You Dont Know Official Audio](https://www.youtube.com/watch?v=KztV93idYN4)
-- [Leon Bridges - Mrs Official Audio](https://www.youtube.com/watch?v=4WyqaFTgaKI)
-- [Leon Bridges - Georgia to Texas Official Audio](https://www.youtube.com/watch?v=XnJe7C2rkiI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +57,5 @@ On his brilliant 2015 debut album, <I>Coming Home</I>, Texas singer/songwriter L
 | Format         | Vinyl LP Album (180 Gram) |
 | Label          | Columbia |
 | Catalog Number | C-206928 |
-| Notes | Signed copies feature a stickered barcode: 190758530611 Made in EU. Includes download code. |
+| Notes | Signed copies feature a stickered barcode: 190758530611<br>Made in EU.<br>Includes download code. |
 | Discogs URL    | [Leon Bridges - Good Thing](https://www.discogs.com/release/11947256-Leon-Bridges-Good-Thing) |

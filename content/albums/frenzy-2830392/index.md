@@ -4,6 +4,7 @@ artist_name: "Split Enz"
 artist: "split-enz"
 album_name: "Frenzy"
 date: 2016-01-29T18:22:10.000000Z
+release_date: ""
 release_id: "2830392"
 slug: "frenzy-2830392"
 hideSummary: true
@@ -21,35 +22,34 @@ styles: ["Pop Rock"]
 
 Frenzy is the fourth studio album by New Zealand new wave band Split Enz. Frenzy ventured even further beyond the band's art rock roots to more of a pop sound.
 The album is notable for being the first to feature Neil Finn on lead vocals – though the lyrics to "Give It a Whirl" and both music & lyrics to "Master Plan" were written by his brother Tim.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I See Red (3:15)
-2. Give It A Whirl (2:52)
-3. Master Plan (3:00)
-4. Betty (4:42)
-5. Frenzy (2:15)
-6. Stuff And Nonsense (4:30)
-7. Marooned (2:15)
-8. Hermit McDermitt (4:19)
-9. Holy Smoke (3:15)
-10. Semi Detached (5:05)
-11. Carried Away (4:34)
-12. She Got Body (2:55)
-13. Mind Over Matter (2:52)
-14. Livin' It Up (1:15)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I See Red | 3:15 |
+| A2 | Give It A Whirl | 2:52 |
+| A3 | Master Plan | 3:00 |
+| A4 | Betty | 4:42 |
+| A5 | Frenzy | 2:15 |
+| A6 | Stuff And Nonsense | 4:30 |
+| A7 | Marooned | 2:15 |
+| B1 | Hermit McDermitt | 4:19 |
+| B2 | Holy Smoke | 3:15 |
+| B3 | Semi Detached | 5:05 |
+| B4 | Carried Away | 4:34 |
+| B5 | She Got Body | 2:55 |
+| B6 | Mind Over Matter | 2:52 |
+| B7 | Livin' It Up | 1:15 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Split Enz - Give It A Whirl Official Video
-{{< youtube id="IQuRnQK7BcM" title="Split Enz - Give It A Whirl Official Video" >}}<br>
-### More Videos
 
-- [Split Enz - I See Red Official Video](https://www.youtube.com/watch?v=TFIrKWg89r4)
-- [Split Enz - Famous People](https://www.youtube.com/watch?v=mkKVyCzdaLY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +61,5 @@ The album is notable for being the first to feature Neil Finn on lead vocals –
 | Format         | Vinyl LP Album |
 | Label          | A&M Records |
 | Catalog Number | AMLK 63153 |
-| Notes | A Boomerang Production. ℗ 1979 Mushroom Records Pty., Ltd. Track A1 engineered and co-produced at Startling Studios, Ascot, England, august 1978. Track A2 to A7 produced and engineered at The Manor Studios, England, november/december 1978. Track B1 to B7 produced and engineered at Quest Studios, Luton, Beds., U.K., june 1978 (The Rootin', Tootin' Luton Tapes). Split Enz wish to thank The Queen Elizabeth Arts Council. © 1981 A&M Records. Distributed by CBS Records Printed in Holland. Orinally recorded by Mushroom Records, Australia Pty., ℗ 1978.   All tracks remixed february 1981. Previously recorded tunes 1978-79. The collection of songs embodied on this album represents the recordings of Split Enz in England prior to the "True Colours" and "Waiata" albums (circa 1978-1979). All tracks except "I See Red" were remixed february, 1981, at Armstrongs Recording Studios, Melbourne, Australia.  Catalog# "AMLK 63153" appears on label. Catalog# "AMLE 63153" appears on rear cover, spine and innersleeve.  Comes with a lyric-innersleeve.  |
+| Notes | A Boomerang Production.<br>℗ 1979 Mushroom Records Pty., Ltd.<br>Track A1 engineered and co-produced at Startling Studios, Ascot, England, august 1978.<br>Track A2 to A7 produced and engineered at The Manor Studios, England, november/december 1978.<br>Track B1 to B7 produced and engineered at Quest Studios, Luton, Beds., U.K., june 1978 (The Rootin', Tootin' Luton Tapes).<br>Split Enz wish to thank The Queen Elizabeth Arts Council.<br>© 1981 A&M Records.<br>Distributed by CBS Records<br>Printed in Holland.<br>Orinally recorded by Mushroom Records, Australia Pty., ℗ 1978. <br><br>All tracks remixed february 1981.<br>Previously recorded tunes 1978-79.<br>The collection of songs embodied on this album represents the recordings of Split Enz in England prior to the "True Colours" and "Waiata" albums (circa 1978-1979). All tracks except "I See Red" were remixed february, 1981, at Armstrongs Recording Studios, Melbourne, Australia.<br><br>Catalog# "AMLK 63153" appears on label.<br>Catalog# "AMLE 63153" appears on rear cover, spine and innersleeve.<br><br>Comes with a lyric-innersleeve.<br> |
 | Discogs URL    | [Split Enz - Frenzy](https://www.discogs.com/release/2830392-Split-Enz-Frenzy) |

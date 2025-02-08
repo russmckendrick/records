@@ -4,6 +4,7 @@ artist_name: "Townes Van Zandt"
 artist: "townes-van-zandt"
 album_name: "Sky Blue"
 date: 2019-03-12T18:46:28.000000Z
+release_date: "2019-03-07"
 release_id: "13310013"
 slug: "sky-blue-13310013"
 hideSummary: true
@@ -27,36 +28,30 @@ styles: ["Country"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. All I Need (2:52)
-2. Rex's Blues (2:15)
-3. The Hills Of Roane  (3:53)
-4. Sky Blue (2:34)
-5. Forever, For Always, For Certain (2:28)
-6. Blue Ridge Mtns. (Smokey Version) (2:58)
-7. Pancho & Lefty (3:54)
-8. Snake Song (2:08)
-9. Silver Ship of Andilar (5:30)
-10. Dream Spider (1:57)
-11. Last Thing On My Mind (3:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | All I Need | 2:52 |
+| A2 | Rex's Blues | 2:15 |
+| A3 | The Hills Of Roane  | 3:53 |
+| A4 | Sky Blue | 2:34 |
+| A5 | Forever, For Always, For Certain | 2:28 |
+| A6 | Blue Ridge Mtns. (Smokey Version) | 2:58 |
+| B1 | Pancho & Lefty | 3:54 |
+| B2 | Snake Song | 2:08 |
+| B3 | Silver Ship of Andilar | 5:30 |
+| B4 | Dream Spider | 1:57 |
+| B5 | Last Thing On My Mind | 3:42 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sky-blue/1446644374" >}}<br>
 
 
-## Videos
-### Townes Van Zandt - All I Need Official Audio
-{{< youtube id="iPZzbym9RsE" title="Townes Van Zandt - All I Need Official Audio" >}}<br>
-### More Videos
-
-- [Rexs Blues](https://www.youtube.com/watch?v=4U74ZESnmp0)
-- [Sky Blue](https://www.youtube.com/watch?v=jv8i067f5yM)
-- [Forever For Always For Certain](https://www.youtube.com/watch?v=-XtpKt0heq8)
-- [Blue Ridge Mtns Smoky Version](https://www.youtube.com/watch?v=G4u_OZ2o2D0)
-- [Townes Van Zandt - Pancho  Lefty](https://www.youtube.com/watch?v=RfNRLrYWjnc)
-- [Dream Spider](https://www.youtube.com/watch?v=qsSveNJ3Iu0)
-- [Last Thing on My Mind](https://www.youtube.com/watch?v=42XHepyp2r0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +62,5 @@ styles: ["Country"]
 | Format         | Vinyl LP Album Limited Edition (White Vinyl) |
 | Label          | Fat Possum Records |
 | Catalog Number | FP1706-1 |
-| Notes | Contains eleven unreleased recordings composed of two new songs, a re-worked "Blue Ridge Mtns"' a venerable east Tennessee murder ballad, Richard Dobson and Tom Paxton covers and versions of five Van Zandt gems, all in solo, acoustic performances.  Rough Trade Exclusive. Limited to 300 Copies on White Vinyl.  Includes Download Card |
+| Notes | Contains eleven unreleased recordings composed of two new songs, a re-worked "Blue Ridge Mtns"' a venerable east Tennessee murder ballad, Richard Dobson and Tom Paxton covers and versions of five Van Zandt gems, all in solo, acoustic performances.<br><br>Rough Trade Exclusive. Limited to 300 Copies on White Vinyl.<br><br>Includes Download Card |
 | Discogs URL    | [Townes Van Zandt - Sky Blue](https://www.discogs.com/release/13310013-Townes-Van-Zandt-Sky-Blue) |

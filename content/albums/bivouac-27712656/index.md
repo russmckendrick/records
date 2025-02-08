@@ -4,6 +4,7 @@ artist_name: "Jawbreaker"
 artist: "jawbreaker"
 album_name: "Bivouac"
 date: 2023-10-01T03:57:00.000000Z
+release_date: "1991"
 release_id: "27712656"
 slug: "bivouac-27712656"
 hideSummary: true
@@ -25,32 +26,29 @@ Bivouac is the second studio album by American punk rock band Jawbreaker, releas
 Bivouac was met with favorable reviews from music critics, many of whom praised its varied sound, while others commented on the change of direction from Unfun. In the lead up to the album's release, "Chesterfield King" was released in May 1992, which was promoted with a US East Coast tour. After a few months, frontman Blake Schwarzenbach started suffering from issues with his throat; while touring in Europe, he underwent surgery in London to remove a polyp that had formed on his vocal chords. He returned to singing five days later and had to break in his voice, which had shifted two octaves higher. Bivouac was reissued through drummer Adam Pfahler's label Blackball Records in 2012, and has since been re-pressed on vinyl twice.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Shield Your Eyes
-2. Big
-3. Sleep
-4. Donatello
-5. P.S. New York Is Burning
-6. Like A Secret
-7. Chesterfield King
-8. Parabola
-9. Bivouac
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Shield Your Eyes |  |
+| A2 | Big |  |
+| A3 | Sleep |  |
+| A4 | Donatello |  |
+| A5 | P.S. New York Is Burning |  |
+| B1 | Like A Secret |  |
+| B2 | Chesterfield King |  |
+| B3 | Parabola |  |
+| B4 | Bivouac |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bivouac/1699663282" >}}<br>
 
 
-## Videos
-### Jawbreaker - Bivouac Full Album
-{{< youtube id="OBcEEWH4DpM" title="Jawbreaker - Bivouac Full Album" >}}<br>
-### More Videos
-
-- [Jawbreaker - Bivouac](https://www.youtube.com/watch?v=_AzCgE43OXg)
-- [Jawbreaker - Chesterfield King](https://www.youtube.com/watch?v=TVbaYdh6hhc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +60,5 @@ Bivouac was met with favorable reviews from music critics, many of whom praised 
 | Format         | Vinyl LP Album Reissue Remastered (Translucent Green) |
 | Label          | Blackball Records |
 | Catalog Number | BB-009-LP |
-| Notes | Does not include a download card. Lyrics are printed on the inner   |
+| Notes | Does not include a download card. Lyrics are printed on the inner<br><br> |
 | Discogs URL    | [Jawbreaker - Bivouac](https://www.discogs.com/release/27712656-Jawbreaker-Bivouac) |

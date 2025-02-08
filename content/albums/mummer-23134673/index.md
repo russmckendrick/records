@@ -4,6 +4,7 @@ artist_name: "XTC"
 artist: "xtc"
 album_name: "Mummer"
 date: 2022-05-06T10:51:34.000000Z
+release_date: "1983-08-30"
 release_id: "23134673"
 slug: "mummer-23134673"
 hideSummary: true
@@ -27,36 +28,30 @@ styles: ["Pop Rock"]
 Mummer is the sixth studio album by the English rock band XTC, released on 30 August 1983 on Virgin Records. It was the first XTC album to be recorded following the band's retirement from live performance in 1982. The album's title and artwork refers to a Mummers' play, in which the identity of the players is hidden. A working title considered for the album was Fruits Fallen From God's Garden.
 Frontman Andy Partridge, who at the time was recovering from a nervous breakdown, embraced the idea of the band becoming a purely studio-based act, which resulted in a new burst of productivity. Drummer Terry Chambers, who preferred performing live, struggled to adapt and quit the group after recording only two tracks and a B-side, with Pete Phipps replacing him for the remaining sessions.
 Virgin Records were concerned by the album's lack of potential singles, and urged the band to rework the material several times, which delayed its release by several months. Mummer eventually appeared in August 1983, reaching No. 51 on the UK album chart and No. 145 on the U.S. Billboard album charts. It spawned three UK singles: "Great Fire", "Wonderland" and "Love on a Farmboy's Wages", the latter of which reached No. 50 on the UK singles chart.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Beating Of Hearts (3:58)
-2. Wonderland (4:47)
-3. Love On A Farmboy's Wages (3:58)
-4. Great Fire (3:47)
-5. Deliver Us From The Elements (4:35)
-6. Human Alchemy (5:10)
-7. Ladybird (4:32)
-8. In Loving Memory Of A Name (3:15)
-9. Me And The Wind (4:17)
-10. Funk Pop A Roll (3:03)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Beating Of Hearts | 3:58 |
+| A2 | Wonderland | 4:47 |
+| A3 | Love On A Farmboy's Wages | 3:58 |
+| A4 | Great Fire | 3:47 |
+| A5 | Deliver Us From The Elements | 4:35 |
+| B1 | Human Alchemy | 5:10 |
+| B2 | Ladybird | 4:32 |
+| B3 | In Loving Memory Of A Name | 3:15 |
+| B4 | Me And The Wind | 4:17 |
+| B5 | Funk Pop A Roll | 3:03 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mummer-bonus-track-version/723988748" >}}<br>
 
 
-## Videos
-### XTC   In Loving Memory of a Name
-{{< youtube id="GTLVRD8S-3s" title="XTC   In Loving Memory of a Name" >}}<br>
-### More Videos
-
-- [XTC - Beating of Hearts](https://www.youtube.com/watch?v=MT4zz2b50kg)
-- [XTC - Wonderland](https://www.youtube.com/watch?v=7DCtdVdvuE0)
-- [XTC - Love on a Farmboys Wages](https://www.youtube.com/watch?v=4VSFU0jKVYs)
-- [XTC - Funk Pop A Roll](https://www.youtube.com/watch?v=JnvO6lrZSxo)
-- [XTC - Beating of Hearts](https://www.youtube.com/watch?v=-dXQBVvBtO8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +63,5 @@ Virgin Records were concerned by the album's lack of potential singles, and urge
 | Format         | Vinyl LP Album Reissue (200g) |
 | Label          | Ape House |
 | Catalog Number | APELP106 |
-| Notes | The album has been mastered with input from Andy Partridge.  Sticker:  'Ultra High-Quality Vinyl - VF - Made In England'     |
+| Notes | The album has been mastered with input from Andy Partridge.<br><br>Sticker:  'Ultra High-Quality Vinyl - VF - Made In England'<br> <br><br> |
 | Discogs URL    | [XTC - Mummer](https://www.discogs.com/release/23134673-XTC-Mummer) |

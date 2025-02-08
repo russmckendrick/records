@@ -4,6 +4,7 @@ artist_name: "Mother Earth"
 artist: "mother-earth"
 album_name: "The People Tree"
 date: 2024-07-16T05:07:25.000000Z
+release_date: "1993-01-01"
 release_id: "31166870"
 slug: "the-people-tree-31166870"
 hideSummary: true
@@ -19,49 +20,44 @@ styles: ["Acid Jazz", "Soul"]
 ---
 
 The People Tree is an album by British acid jazz group Mother Earth that was released on the Acid Jazz Records label in 1993. The album was reissued on vinyl by Acid Jazz Records in 2019. The single "Jesse" has been included on a number of acid jazz compilation albums.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Institution Man
-2. Jesse
-3. Stardust Bubblegum
-4. Mister Freedom
-5. Dragster
-6. Find It
-7. The People Tree
-8. Apple Green
-9. Time Of The Future
-10. Saturation 70
-11. Illusions
-12. A Trip Down Brian Lane
-13. Jesse (Alternate Master Mix)
-14. Institution Man (Single Edit)
-15. Warlocks Of The Mind (Pt. 1)
-16. Time Of The Future (Alternative EP Mix)
-17. Find It (Radio Edit)
-18. Almost Grown (Featuring Paul Weller)
-19. Apple Green (With Harmony Vocal)
-20. Illusions (No Horns Mix)
-21. Take A Trip Down Brian Lane (7-Inch Edit)
-22. Slide Sweet Baby
-23. People Tree (No Mellotron Mix)
-24. Jess (Alt. Brendan Lynch Radio Mix)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Institution Man |  |
+| A2 | Jesse |  |
+| A3 | Stardust Bubblegum |  |
+| A4 | Mister Freedom |  |
+| A5 | Dragster |  |
+| A6 | Find It |  |
+| B1 | The People Tree |  |
+| B2 | Apple Green |  |
+| B3 | Time Of The Future |  |
+| B4 | Saturation 70 |  |
+| B5 | Illusions |  |
+| B6 | A Trip Down Brian Lane |  |
+| C1 | Jesse (Alternate Master Mix) |  |
+| C2 | Institution Man (Single Edit) |  |
+| C3 | Warlocks Of The Mind (Pt. 1) |  |
+| C4 | Time Of The Future (Alternative EP Mix) |  |
+| C5 | Find It (Radio Edit) |  |
+| C6 | Almost Grown (Featuring Paul Weller) |  |
+| D1 | Apple Green (With Harmony Vocal) |  |
+| D2 | Illusions (No Horns Mix) |  |
+| D3 | Take A Trip Down Brian Lane (7-Inch Edit) |  |
+| D4 | Slide Sweet Baby |  |
+| D5 | People Tree (No Mellotron Mix) |  |
+| D6 | Jess (Alt. Brendan Lynch Radio Mix) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-people-tree/1152544934" >}}<br>
 
 
-## Videos
-### Mother Earth - Find it till the end
-{{< youtube id="Mgytpq-4ae4" title="Mother Earth - Find it till the end" >}}<br>
-### More Videos
-
-- [Mother Earth People Tree](https://www.youtube.com/watch?v=AnFvHR5rUh4)
-- [Mother Earth - Apple Green](https://www.youtube.com/watch?v=nMRjoms92bg)
-- [Mother Earth - Stardust Bubblegum](https://www.youtube.com/watch?v=ANGjklqwP6o)
-- [Mother Earth A Trip Down Brian Lane](https://www.youtube.com/watch?v=Z8ASEzG0iUE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +69,5 @@ The People Tree is an album by British acid jazz group Mother Earth that was rel
 | Format         | Vinyl 2× LP Album Reissue Special Edition |
 | Label          | Acid Jazz |
 | Catalog Number | AJX2LP384 |
-| Notes | 30th Anniversary 2LP Edition  Includes 3 previously unreleased tracks, 5 tracks previously unreleased on vinyl |
+| Notes | 30th Anniversary 2LP Edition<br><br>Includes 3 previously unreleased tracks, 5 tracks previously unreleased on vinyl |
 | Discogs URL    | [Mother Earth - The People Tree](https://www.discogs.com/release/31166870-Mother-Earth-The-People-Tree) |

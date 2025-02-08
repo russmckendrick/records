@@ -4,6 +4,7 @@ artist_name: "Motorpsycho"
 artist: "motorpsycho"
 album_name: "Yay!"
 date: 2023-12-29T04:33:43.000000Z
+release_date: "2023-06-16"
 release_id: "27379731"
 slug: "yay-27379731"
 hideSummary: true
@@ -27,38 +28,30 @@ styles: ["Acoustic", "Psychedelic Rock"]
 ---
 
 Yay! is a studio album by Norwegian rock band Motorpsycho, released on June 16, 2023, through  Det Nordenfjeldske Grammofonselskab and Stickman Records. The album is available in vinyl, CD, cassette and digital download formats. It contains the last contribution of drummer Tomas Järmyr, leaving only two band members.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Cold & Bored
-2. Sentinels
-3. Patterns
-4. Dank State
-5. W.C.A.
-6. Real Again (Norway Shrugs & Stays Home)
-7. Loch Meaninglessness & The Mull Of Dull
-8. Hotel Daedalus
-9. Scaredcrow
-10. The Rapture
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cold & Bored |  |
+| A2 | Sentinels |  |
+| A3 | Patterns |  |
+| A4 | Dank State |  |
+| A5 | W.C.A. |  |
+| B1 | Real Again (Norway Shrugs & Stays Home) |  |
+| B2 | Loch Meaninglessness & The Mull Of Dull |  |
+| B3 | Hotel Daedalus |  |
+| B4 | Scaredcrow |  |
+| B5 | The Rapture |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/yay/1679980516" >}}<br>
 
 
-## Videos
-### Cold  Bored
-{{< youtube id="C4JleBKtTSg" title="Cold  Bored" >}}<br>
-### More Videos
-
-- [Hotel Daedalus](https://www.youtube.com/watch?v=aB9wiIIRJEA)
-- [The Rapture](https://www.youtube.com/watch?v=PrsO_UWXbYI)
-- [Sentinels](https://www.youtube.com/watch?v=WVYEkVCS5uc)
-- [Dank State](https://www.youtube.com/watch?v=NUqk-KB_8DE)
-- [Loch Meaninglessness  the Mull of Dull](https://www.youtube.com/watch?v=ZitcDvtSzAY)
-- [Scaredcrow](https://www.youtube.com/watch?v=T0tbetsI-X4)
-- [Real Again Norway Shrugs And Stays At Home](https://www.youtube.com/watch?v=kXLYgcrKHUA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +63,5 @@ Yay! is a studio album by Norwegian rock band Motorpsycho, released on June 16, 
 | Format         | Vinyl LP Album Limited Edition Stereo (Milky Clear/Red Smoke, 180g) |
 | Label          | Det Nordenfjeldske Grammofonselskab |
 | Catalog Number | NFGS0123LP |
-| Notes | Limited edition of 1000 copies, with 700 copies distributed in Norway and 300 across the rest of Europe, issued on 180g milky clear / red smoke vinyl, with a 12" double-sided insert, a black die-cut poly-lined inner sleeve and a sticker, in stickered shrink wrap.  This record was written in Trondheim in the first year or so of the plague, record at home at the Cheese Factory/ Lamoen early in the second year.  Track A4 titled "Dank State (Jan '21)" on the side A label.  Labels: ℗ & © 2023 Det Nordenfjeldske Grammofonselskab  Insert: © 2023 Det Nordenfjeldske Grammofonselskab  Back cover: ℗ 2023 Det Nordenfjeldske Grammofonselskab |
+| Notes | Limited edition of 1000 copies, with 700 copies distributed in Norway and 300 across the rest of Europe, issued on 180g milky clear / red smoke vinyl, with a 12" double-sided insert, a black die-cut poly-lined inner sleeve and a sticker, in stickered shrink wrap.<br><br>This record was written in Trondheim in the first year or so of the plague, record at home at the Cheese Factory/ Lamoen early in the second year.<br><br>Track A4 titled "Dank State (Jan '21)" on the side A label.<br><br>Labels:<br>℗ & © 2023 Det Nordenfjeldske Grammofonselskab<br><br>Insert:<br>© 2023 Det Nordenfjeldske Grammofonselskab<br><br>Back cover:<br>℗ 2023 Det Nordenfjeldske Grammofonselskab |
 | Discogs URL    | [Motorpsycho - Yay!](https://www.discogs.com/release/27379731-Motorpsycho-Yay) |

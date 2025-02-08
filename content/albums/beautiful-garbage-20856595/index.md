@@ -4,6 +4,7 @@ artist_name: "Garbage"
 artist: "garbage"
 album_name: "Beautiful Garbage"
 date: 2022-10-05T12:03:47.000000Z
+release_date: "2001-09-27"
 release_id: "20856595"
 slug: "beautiful-garbage-20856595"
 hideSummary: true
@@ -34,110 +35,33 @@ The album suffered from lack of promotion and the failure of its lead single "An
 A remastered and expanded edition of the album was released on November 5, 2021, to mark its 20th anniversary. The triple CD set featured two bonus CDs, consisting of b-sides, alternate versions, previously unreleased recordings and remixes.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Shut Your Mouth
-2. Androgyny
-3. Can't Cry These Tears
-4. Til The Day I Die
-5. Cup Of Coffee
-6. Silence Is Golden
-7. Cherry Lips (Go Baby Go!)
-8. Breaking Up The Girl
-9. Drive You Home
-10. Parade
-11. Nobody Loves You
-12. Untouchable
-13. So Like A Rose
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Shut Your Mouth |  |
+| A2 | Androgyny |  |
+| A3 | Can't Cry These Tears |  |
+| A4 | Til The Day I Die |  |
+| B5 | Cup Of Coffee |  |
+| B6 | Silence Is Golden |  |
+| B7 | Cherry Lips (Go Baby Go!) |  |
+| C8 | Breaking Up The Girl |  |
+| C9 | Drive You Home |  |
+| C10 | Parade |  |
+| D11 | Nobody Loves You |  |
+| D12 | Untouchable |  |
+| D13 | So Like A Rose |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/beautiful-garbage/1544782128" >}}<br>
 
 
-## Videos
-### Garbage - Shut Your Mouth
-{{< youtube id="ptr5CpFM2uI" title="Garbage - Shut Your Mouth" >}}<br>
-### More Videos
-
-- [Garbage - Androgyny](https://www.youtube.com/watch?v=8I2S_29IbuM)
-- [Garbage - Cant Cry These Tears Official Audio](https://www.youtube.com/watch?v=xWmeH1INN-Y)
-- [Garbage - Till The Day I Die Official Audio](https://www.youtube.com/watch?v=EG4VXBG60K0)
-- [Garbage - Cup Of Coffee Official Audio](https://www.youtube.com/watch?v=AMqu4ml-ksQ)
-- [Garbage - Silence Is Golden Official Audio](https://www.youtube.com/watch?v=tEIXyL344cY)
-- [Garbage - Cherry Lips Go Baby Go Official Video](https://www.youtube.com/watch?v=Cy1LdAaGASw)
-- [Garbage - Breaking Up The Girl](https://www.youtube.com/watch?v=_HZQxQ0Ey9E)
-- [Garbage - Drive You Home Official Audio](https://www.youtube.com/watch?v=o-RCqktK9Sw)
-- [Garbage - Parade Official Audio](https://www.youtube.com/watch?v=hYUuT6rQQFc)
-- [Garbage - Nobody Loves You Official Audio](https://www.youtube.com/watch?v=g44h0i1lyDg)
-- [Garbage - Untouchable Official Audio](https://www.youtube.com/watch?v=jam-z_RO11E)
-- [Garbage - So Like A Rose Official Audio](https://www.youtube.com/watch?v=zDJkmD84FZk)
-- [Shut Your Mouth 2021 - Remaster](https://www.youtube.com/watch?v=pY5CIzGY7ho)
-- [Androgyny 2021 - Remaster](https://www.youtube.com/watch?v=3ehz0BC2JSw)
-- [Cant Cry These Tears 2021 - Remaster](https://www.youtube.com/watch?v=3PTAVHrO_3Q)
-- [Till the Day I Die 2021 - Remaster](https://www.youtube.com/watch?v=FBjyya9r5gA)
-- [Cup of Coffee 2021 - Remaster](https://www.youtube.com/watch?v=K5g-o49RcJw)
-- [Silence Is Golden 2021 - Remaster](https://www.youtube.com/watch?v=khgDC7Fn2qQ)
-- [Cherry Lips Go Baby Go 2021 - Remaster](https://www.youtube.com/watch?v=IP8cAaaabVg)
-- [Breaking Up the Girl 2021 - Remaster](https://www.youtube.com/watch?v=phhtz9VR7CE)
-- [Drive You Home 2021 - Remaster](https://www.youtube.com/watch?v=oJwOpk3ghXc)
-- [Parade 2021 - Remaster](https://www.youtube.com/watch?v=HFwBHDj4JWs)
-- [Nobody Loves You 2021 - Remaster](https://www.youtube.com/watch?v=pErnPqTveGU)
-- [Untouchable 2021 - Remaster](https://www.youtube.com/watch?v=Q8nTxeoljjQ)
-- [So Like a Rose 2021 - Remaster](https://www.youtube.com/watch?v=AeE_Q-cGssI)
-- [Candy Says 2021 - Remaster](https://www.youtube.com/watch?v=wQBfXnS0_-U)
-- [Use Me 2021 - Remaster](https://www.youtube.com/watch?v=bAe_5uheuuc)
-- [Sex Never Goes Out of Fashion 2021 - Remaster](https://www.youtube.com/watch?v=VQ4aW7Ir170)
-- [Begging Bone 2021 - Remaster](https://www.youtube.com/watch?v=ldfkKJeQpEQ)
-- [April 10th 2021 - Remaster](https://www.youtube.com/watch?v=DuBCvgJo4wU)
-- [Happiness Pt 2 2021 - Remaster](https://www.youtube.com/watch?v=5a86-qIGrZY)
-- [Confidence 2021 - Remaster](https://www.youtube.com/watch?v=CXsrKQKgYqY)
-- [Enough Is Never Enough 2021 - Remaster](https://www.youtube.com/watch?v=tCkKakylONI)
-- [Wild Horses BBC Recovered Live](https://www.youtube.com/watch?v=fklnpkMuA_I)
-- [Im Really Into Techno 2021 - Remaster](https://www.youtube.com/watch?v=roePnFr7oRE)
-- [Pride In the Name of Love](https://www.youtube.com/watch?v=Cp5twaFbsw8)
-- [Androgyny Rough Mix March 14 2001](https://www.youtube.com/watch?v=iBYtHjLHEp0)
-- [Till the Day I Die Demo Sept 14 1999](https://www.youtube.com/watch?v=5c9hj_0Lm-U)
-- [Nobody Loves You Rough Mix March 14 2001](https://www.youtube.com/watch?v=4jxAgxh6AKE)
-- [Breaking Up the Girl Acoustic 2021 - Remaster](https://www.youtube.com/watch?v=NrCfmJ9o9sU)
-- [Silence Is Golden Demo Sept 14 1999](https://www.youtube.com/watch?v=48PcFkyYVgI)
-- [Cant Cry These Tears Rough Mix March 14 2001](https://www.youtube.com/watch?v=g3SBTxnJbdI)
-- [Shut Your Mouth BBC Recovered Live](https://www.youtube.com/watch?v=dYZgFaobGlQ)
-- [Begging Bone Early Demo Mix](https://www.youtube.com/watch?v=VCl7vYdroU8)
-- [Shut Your Mouth Jagz Kooner Radio Mix 2021 - Remaster](https://www.youtube.com/watch?v=u21GcO2Zm28)
-- [Shut Your Mouth Jolly Music Scary Full Vocal Mix 2021 - Remaster](https://www.youtube.com/watch?v=dMh8yVS7aco)
-- [Shut Your Mouth Professor Reay Clubbed Dead Pig Mix 2021 - Remaster](https://www.youtube.com/watch?v=idHBuKqnKvg)
-- [Androgyny Neptunes Remix 2021 - Remaster](https://www.youtube.com/watch?v=lO3CSHFcBYg)
-- [Androgyny Felix Da Housecat Thee Glitz Mix 2021 - Remaster](https://www.youtube.com/watch?v=6lNdIqcNokI)
-- [Androgyny The Architechs Mix 2021 - Remaster](https://www.youtube.com/watch?v=boAhuUIHwf4)
-- [Breaking Up the Girl Timo Maas Radio Mix 2021 - Remaster](https://www.youtube.com/watch?v=t1aHM9LKaT4)
-- [Breaking Up the Girl Brothers in Rhythm Radio Edit 2021 - Remaster](https://www.youtube.com/watch?v=q-1FOQ_ykJE)
-- [Breaking Up the Girl The Scourge of the Earth Rodeo Rave Remix By Jimmy Caulty 2021 - Remaster](https://www.youtube.com/watch?v=t0uzKcSKvr0)
-- [Breaking Up the Girl Black Dog Wounded By The Warbeast 2021 - Remaster](https://www.youtube.com/watch?v=q8E45ELcM7A)
-- [Cherry Lips Go Baby Go Le Royale Mix 2021 - Remaster](https://www.youtube.com/watch?v=P6Kx8rut7to)
-- [Cherry Lips Go Baby Go MaUVes Dark Remix With Acapella Edit 2021 - Remaster](https://www.youtube.com/watch?v=4FzVeh2RwCc)
-- [Cherry Lips Go Baby Go DJEJs Go-Go Jam 2021 - Remaster](https://www.youtube.com/watch?v=vSzP9iV_v4o)
-- [Cherry Lips Go Baby Go Roger Sanchez tha S-Mans Release Mix Radio Edit 2021 - Remaster](https://www.youtube.com/watch?v=Fcwk7u_HaeA)
-- [Cherry Lips Go Baby Go Howie B Remix 2021 - Remaster](https://www.youtube.com/watch?v=elHHvzCEv7M)
-- [Parade End of Night Mix 2021 - Remaster](https://www.youtube.com/watch?v=nTDK6g7dkIo)
-- [Shut Your Mouth Jagz Kooner Full Vocal Mix](https://www.youtube.com/watch?v=aotYDXKW7tA)
-- [Shut Your Mouth Jadell Remix](https://www.youtube.com/watch?v=5W0QTV1Axds)
-- [Shut Your Mouth Professor Reay Dead Pig Dub Mix](https://www.youtube.com/watch?v=GDBOdLxBfes)
-- [Shut Your Mouth Cuban Boys Rascasse Edit Mix](https://www.youtube.com/watch?v=hycdoERFl1o)
-- [Shut Your Mouth Cuban Boys Rocksteady Electro Mix](https://www.youtube.com/watch?v=92WhrvQsq8Q)
-- [Shut Your Mouth Broadway Project Remix](https://www.youtube.com/watch?v=i9KqBHAlG5g)
-- [Androgyny Felix Da Housecat Thee Drum Drum Mix 2021 - Remaster](https://www.youtube.com/watch?v=Www46D8TGLc)
-- [Androgyny The Architechs Dub 2021 - Remaster](https://www.youtube.com/watch?v=J0EPQamZyFg)
-- [Cherry Lips Go Baby Go MaUVes Dark Remix With Acapella 2021 - Remaster](https://www.youtube.com/watch?v=S6EiRx4pPJ4)
-- [Cherry Lips Go Baby Go Roger Sanchez Tha S-Mans Release Bomb Mix 2021 - Remaster](https://www.youtube.com/watch?v=QLJFzrUmcCs)
-- [Cherry Lips Go Baby Go Roger Sanchez Tha S-Mans Release Dub 2021 - Remaster](https://www.youtube.com/watch?v=A8mGYcRl8D4)
-- [Breaking Up the Girl Timo Maas Club Full Vox 2021 - Remaster](https://www.youtube.com/watch?v=3-yQHKMcaDc)
-- [Breaking Up the Girl Brothers In Rhythm Therapy Mix 2021 - Remaster](https://www.youtube.com/watch?v=jzCLioXfW6s)
-- [Breaking Up the Girl Breaking Up The Girl Brothers In Rhythm Therapy Dub 2021 - Remaster](https://www.youtube.com/watch?v=J5pRQhL62pQ)
-- [Breaking Up the Girl Black Dog Splitsville Mix 2021 - Remaster](https://www.youtube.com/watch?v=IzmgospYBus)
-- [Breaking Up the Girl Black Dog Ripped Out Fireplace Mix 2021 - Remaster](https://www.youtube.com/watch?v=UoXVXzi7a8c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -149,5 +73,5 @@ A remastered and expanded edition of the album was released on November 5, 2021,
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (White, 140g) |
 | Label          | Stun Volume |
 | Catalog Number | BMGCAT528DCLP |
-| Notes | Made in Poland  20th anniversary edition in gatefold sleeve, remastered by Billy Bush and Butch Vig.  Title stylized as 'beautifulgarbage."  Tracks are numbered sequentially on release.  ℗ & © 2021 |
+| Notes | Made in Poland<br><br>20th anniversary edition in gatefold sleeve, remastered by Billy Bush and Butch Vig.  Title stylized as 'beautifulgarbage."<br><br>Tracks are numbered sequentially on release.<br><br>℗ & © 2021 |
 | Discogs URL    | [Garbage - Beautiful Garbage](https://www.discogs.com/release/20856595-Garbage-Beautiful-Garbage) |

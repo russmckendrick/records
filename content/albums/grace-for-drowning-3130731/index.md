@@ -4,6 +4,7 @@ artist_name: "Steven Wilson"
 artist: "steven-wilson"
 album_name: "Grace For Drowning"
 date: 2016-12-10T10:47:16.000000Z
+release_date: "2011-09-27"
 release_id: "3130731"
 slug: "grace-for-drowning-3130731"
 hideSummary: true
@@ -33,45 +34,34 @@ styles: ["Art Rock", "Prog Rock", "Experimental", "Avant-garde Jazz"]
 Grace for Drowning is the second solo studio album by Steven Wilson, producer, songwriter, and frontman of Porcupine Tree. It was released by Kscope on 26 September 2011 as a double album. The album received a nomination at the 54th Annual Grammy Awards for Best Surround Sound Album.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Vol 1 - Deform To Form A Star
-2. Grace For Drowning (2:00)
-3. Sectarian (7:45)
-4. Deform To Form A Star (8:00)
-5. No Part Of Me (5:45)
-6. Postcard (4:30)
-7. Raider Prelude (2:30)
-8. Remainder The Black Dog (9:30)
-9. Vol 2 - Like Dust I Have Cleared From My Eye
-10. Raider II (23:15)
-11. Belle De Jour (3:00)
-12. Index (4:45)
-13. Track One (4:15)
-14. Like Dust I Have Cleared From My Eye (8:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Vol 1 - Deform To Form A Star |  |
+| A1 | Grace For Drowning | 2:00 |
+| A2 | Sectarian | 7:45 |
+| A3 | Deform To Form A Star | 8:00 |
+| B1 | No Part Of Me | 5:45 |
+| B2 | Postcard | 4:30 |
+| B3 | Raider Prelude | 2:30 |
+| B4 | Remainder The Black Dog | 9:30 |
+|  | Vol 2 - Like Dust I Have Cleared From My Eye |  |
+| C1 | Raider II | 23:15 |
+| D1 | Belle De Jour | 3:00 |
+| D2 | Index | 4:45 |
+| D3 | Track One | 4:15 |
+| D4 | Like Dust I Have Cleared From My Eye | 8:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/grace-for-drowning/674008780" >}}<br>
 
 
-## Videos
-### Grace For Drowning  Sectarian - Steven Wilson
-{{< youtube id="GYydWVIgYlA" title="Grace For Drowning  Sectarian - Steven Wilson" >}}<br>
-### More Videos
-
-- [Grace For Drowning  Sectarian - Steven Wilson](https://www.youtube.com/watch?v=GYydWVIgYlA)
-- [Steven Wilson - Grace For Drowning Full Album](https://www.youtube.com/watch?v=OFwLVakl0c8)
-- [Steven Wilson - Remainder the Black Dog from Grace for Drowning](https://www.youtube.com/watch?v=zjwPt1eNF9A)
-- [Fluid Tap](https://www.youtube.com/watch?v=hu4fRs9vMDE)
-- [No Part of Me](https://www.youtube.com/watch?v=OuamS7_jrtY)
-- [Raider II](https://www.youtube.com/watch?v=5ru26kmc-1E)
-- [Raider Prelude](https://www.youtube.com/watch?v=-NgoTtgD1Go)
-- [Sectarian](https://www.youtube.com/watch?v=I94MWykQ4gA)
-- [Like Dust I Have Cleared from My Eye](https://www.youtube.com/watch?v=oavmSFLaDAI)
-- [Steven Wilson - Grace For Drowning](https://www.youtube.com/watch?v=w8AitJAZTZ8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +73,5 @@ Grace for Drowning is the second solo studio album by Steven Wilson, producer, s
 | Format         | Vinyl 2× LP Album Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE818 |
-| Notes | Written and recorded during the period of Jan 2010 - June 2011.  Produced and mixed at No-Man's Land, Hemel Hempstead, Koolworld, Luton & Angel Studio, Islington.  Additional recording made by the musicians on location in the UK, USA and Germany.   Management for Acme Music. Artwork and design for Aleph. Exclusively administered through Universal Music Publishing Group  ℗ 2011 Steven Wilson © Steven Wilson Made in EU.  Issued in a gatefold sleeve with printed inner sleeves with pictures, lyrics and credits. |
+| Notes | Written and recorded during the period of Jan 2010 - June 2011. <br>Produced and mixed at No-Man's Land, Hemel Hempstead, Koolworld, Luton & Angel Studio, Islington.<br><br>Additional recording made by the musicians on location in the UK, USA and Germany. <br><br>Management for Acme Music. Artwork and design for Aleph.<br>Exclusively administered through Universal Music Publishing Group<br><br>℗ 2011 Steven Wilson © Steven Wilson<br>Made in EU.<br><br>Issued in a gatefold sleeve with printed inner sleeves with pictures, lyrics and credits. |
 | Discogs URL    | [Steven Wilson - Grace For Drowning](https://www.discogs.com/release/3130731-Steven-Wilson-Grace-For-Drowning) |

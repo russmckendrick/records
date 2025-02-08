@@ -4,6 +4,7 @@ artist_name: "Blur"
 artist: "blur"
 album_name: "Modern Life Is Rubbish"
 date: 2016-04-30T15:20:51.000000Z
+release_date: "1993-05-10"
 release_id: "3773519"
 slug: "modern-life-is-rubbish-3773519"
 hideSummary: true
@@ -33,35 +34,35 @@ Under threat of being dropped by Food Records, for their next album Blur underwe
 Modern Life Is Rubbish was a moderate chart success in the UK; the album peaked at number 15, while the singles taken from the album charted in the Top 30. Applauded by the music press, the album's Anglocentric rhetoric rejuvenated the group's fortunes after their post-Leisure slump. Modern Life Is Rubbish is regarded as one of the defining releases of the Britpop scene, and its chart-topping follow-ups—Parklife and The Great Escape—saw Blur emerge as one of Britain's leading pop acts.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. For Tomorrow (4:18)
-2. Advert (3:43)
-3. Colin Zeal (3:14)
-4. Pressure On Julian (3:30)
-5. Star Shaped (3:25)
-6. Blue Jeans (3:53)
-7. Chemical World (4:02)
-8. Intermission (2:27)
-9. Sunday Sunday (2:36)
-10. Oily Water (4:59)
-11. Miss America (5:34)
-12. Villa Rosie (3:54)
-13. Coping (3:23)
-14. Turn It Up (3:21)
-15. Resigned (5:13)
-16. Commercial Break (0:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | For Tomorrow | 4:18 |
+| A2 | Advert | 3:43 |
+| A3 | Colin Zeal | 3:14 |
+| A4 | Pressure On Julian | 3:30 |
+| B5 | Star Shaped | 3:25 |
+| B6 | Blue Jeans | 3:53 |
+| B7.1 | Chemical World | 4:02 |
+| B7.2 | Intermission | 2:27 |
+| C8 | Sunday Sunday | 2:36 |
+| C9 | Oily Water | 4:59 |
+| C10 | Miss America | 5:34 |
+| C11 | Villa Rosie | 3:54 |
+| D12 | Coping | 3:23 |
+| D13 | Turn It Up | 3:21 |
+| D14.1 | Resigned | 5:13 |
+| D14.2 | Commercial Break | 0:56 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/modern-life-is-rubbish/726407617" >}}<br>
 
-
-## Videos
-### Blur - Chemical World Official Music Video
-{{< youtube id="mc0idORNd10" title="Blur - Chemical World Official Music Video" >}}<br>
 
 
 ## Release Images
@@ -74,5 +75,5 @@ Modern Life Is Rubbish was a moderate chart success in the UK; the album peaked 
 | Format         | Vinyl 2× LP Album Reissue Remastered Special Edition (180 Gram, Gatefold) |
 | Label          | Food |
 | Catalog Number | FOODLPX9 |
-| Notes | Special edition album on 180 gram vinyl, including codes to download the album and extra bonus material as 320kbps mp3  Each LP comes in a printed inner sleeve. Tracks are numbered sequentially on release. Sticker on shrinkwrap |
+| Notes | Special edition album on 180 gram vinyl, including codes to download the album and extra bonus material as 320kbps mp3 <br>Each LP comes in a printed inner sleeve.<br>Tracks are numbered sequentially on release.<br>Sticker on shrinkwrap |
 | Discogs URL    | [Blur - Modern Life Is Rubbish](https://www.discogs.com/release/3773519-Blur-Modern-Life-Is-Rubbish) |

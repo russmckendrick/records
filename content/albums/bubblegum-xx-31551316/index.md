@@ -4,6 +4,7 @@ artist_name: "Mark Lanegan Band"
 artist: "mark-lanegan-band"
 album_name: "Bubblegum XX"
 date: 2024-08-30T04:24:25.000000Z
+release_date: "2024-08-23"
 release_id: "31551316"
 slug: "bubblegum-xx-31551316"
 hideSummary: true
@@ -27,47 +28,34 @@ styles: ["Alternative Rock", "Folk Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. When Your Number Isn't Up (3:01)
-2. Hit The City (2:49)
-3. Wedding Dress (3:07)
-4. Methamphetamine Blues (3:16)
-5. One Hundred Days (4:36)
-6. Bombed (1:09)
-7. Strange Religion (4:08)
-8. Sideways In Reverse (2:46)
-9. Come To Me (3:45)
-10. Like Little Willie John (3:53)
-11. Can't Come Down (3:37)
-12. Morning Glory Wine (4:27)
-13. Head (3:05)
-14. Driving Death Valley Blues (2:49)
-15. Out Of Nowhere (2:43)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | When Your Number Isn't Up | 3:01 |
+| A2 | Hit The City | 2:49 |
+| A3 | Wedding Dress | 3:07 |
+| A4 | Methamphetamine Blues | 3:16 |
+| B1 | One Hundred Days | 4:36 |
+| B2 | Bombed | 1:09 |
+| B3 | Strange Religion | 4:08 |
+| B4 | Sideways In Reverse | 2:46 |
+| C1 | Come To Me | 3:45 |
+| C2 | Like Little Willie John | 3:53 |
+| C3 | Can't Come Down | 3:37 |
+| D1 | Morning Glory Wine | 4:27 |
+| D2 | Head | 3:05 |
+| D3 | Driving Death Valley Blues | 2:49 |
+| D4 | Out Of Nowhere | 2:43 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bubblegum-xx/1754982166" >}}<br>
 
 
-## Videos
-### When Your Number Isnt Up
-{{< youtube id="wgPLrTacBvE" title="When Your Number Isnt Up" >}}<br>
-### More Videos
-
-- [Mark Lanegan featuring PJ Harvey - Hit The City](https://www.youtube.com/watch?v=azH5eEXtllc)
-- [Wedding Dress](https://www.youtube.com/watch?v=ImSVrY_NMOk)
-- [Mark Lanegan - Methamphetamine Blues](https://www.youtube.com/watch?v=QEpR1AL4El8)
-- [Mark Lanegan - One Hundred Days](https://www.youtube.com/watch?v=EYhzz4JQ6g4)
-- [Mark Lanegan - Bombed](https://www.youtube.com/watch?v=12KET51iBNM)
-- [Strange Religion](https://www.youtube.com/watch?v=6g59J_dAWzs)
-- [Mark Lanegan Band - Sideways In Reverse](https://www.youtube.com/watch?v=wP-9VSkAcz0)
-- [Mark Lanegan - Come to Me](https://www.youtube.com/watch?v=C1x5Q-9oN4I)
-- [Like Little Willie John](https://www.youtube.com/watch?v=B8NjeiGdxaQ)
-- [Cant Come Down](https://www.youtube.com/watch?v=KLiW2LDeSaw)
-- [Morning Glory Wine](https://www.youtube.com/watch?v=06KuzOHyMRo)
-- [Head](https://www.youtube.com/watch?v=Aw5PR2nxcQM)
-- [Driving Death Valley Blues](https://www.youtube.com/watch?v=0VumsjBMICw)
-- [Out of Nowhere](https://www.youtube.com/watch?v=UgaUbJ7gpHg)
 
 ## Release Images
 {{< imageGrid >}}

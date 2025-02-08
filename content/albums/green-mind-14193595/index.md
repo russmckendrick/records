@@ -1,16 +1,17 @@
 ---
-title: "Dinosaur Jr. - Green Mind"
-artist_name: "Dinosaur Jr."
+title: "Dinosaur Jr - Green Mind"
+artist_name: "Dinosaur Jr"
 artist: "dinosaur-jr"
 album_name: "Green Mind"
 date: 2019-12-05T18:05:49.000000Z
+release_date: "1991-02-19"
 release_id: "14193595"
 slug: "green-mind-14193595"
 hideSummary: true
 cover:
     image: "green-mind-14193595.jpg"
-    alt: "Green Mind by Dinosaur Jr."
-    caption: "Green Mind by Dinosaur Jr."
+    alt: "Green Mind by Dinosaur Jr"
+    caption: "Green Mind by Dinosaur Jr"
 additional_images:
     - "https://i.discogs.com/ftRxY9-5AC685pWOaKuRTeQK4g4aRmUbaFqVQ1FrG-M/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTkz/NTk1LTE1NzUxNjEx/ODQtMzk2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/OPWJ40utFPIzjpeadYGcJT2QWoDTfBoJxOjU9P9CrOE/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTkz/NTk1LTE1Njk2MTcy/MTAtMzI5OC5qcGVn.jpeg"
@@ -38,43 +39,41 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock"]
 Green Mind is the fourth studio album by alternative rock band Dinosaur Jr., released in 1991. It was the band's first release after bassist Lou Barlow's departure, as well as the first released by a major label. The record is close to being a J Mascis solo album: he played most of the instruments, with founding drummer Murph only featuring on three tracks (1, 7 and 9).
 The cover photograph depicting a child smoking a cigarette, Priscilla, Jones Beach, 1969, is by Joseph Szabo and taken from his book of photographs Almost Grown.
 "Turnip Farm" is also featured in the film Reality Bites.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Wagon
-2. Puke + Cry
-3. Blowing It
-4. I Live For That Look
-5. Flying Cloud
-6. How'd You Pin That One On Me
-7. Water
-8. Muck
-9. Thumb
-10. Green Mind
-11. Pebbles + Weeds
-12. The Little Baby
-13. Not You Again
-14. Quicksand (Wagon Reprise)
-15. Throw Down
-16. Whatever's Cool With Me
-17. Sideways
-18. Thumb (Live)
-19. Keep The Glove (Live)
-20. The Lung (Live)
-21. The Post (Live)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Wagon |  |
+| A2 | Puke + Cry |  |
+| A3 | Blowing It |  |
+| A4 | I Live For That Look |  |
+| A5 | Flying Cloud |  |
+| A6 | How'd You Pin That One On Me |  |
+| B1 | Water |  |
+| B2 | Muck |  |
+| B3 | Thumb |  |
+| B4 | Green Mind |  |
+| C1 | Pebbles + Weeds |  |
+| C2 | The Little Baby |  |
+| C3 | Not You Again |  |
+| C4 | Quicksand (Wagon Reprise) |  |
+| C5 | Throw Down |  |
+| C6 | Whatever's Cool With Me |  |
+| D1 | Sideways |  |
+| D2 | Thumb (Live) |  |
+| D3 | Keep The Glove (Live) |  |
+| D4 | The Lung (Live) |  |
+| D5 | The Post (Live) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/green-mind/1765553857" >}}<br>
 
 
-## Videos
-### Dinosaur Jr  Green Mind 1991  FULL ALBUM
-{{< youtube id="xOFozjl2nw4" title="Dinosaur Jr  Green Mind 1991  FULL ALBUM" >}}<br>
-### More Videos
-
-- [Green Mind 2019 Remaster](https://www.youtube.com/watch?v=6bMFg9KzkAs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +85,5 @@ The cover photograph depicting a child smoking a cigarette, Priscilla, Jones Bea
 | Format         | Vinyl LP Album Reissue (Green), Vinyl LP Compilation (Green), All Media Deluxe Edition Remastered |
 | Label          | Cherry Red |
 | Catalog Number | PBREDD756 |
-| Notes | Includes printer inner sleeves with a review and interviews with the band.  ℗ 2019 Cherry Red Records Ltd. This compilation © 2019 Cherry Red Records Ltd. Power Road Studios, 114 Power Road, London W4 5PY www.cherryred.co.uk Made in EU  Green mind: Drums recorded at Sorcerer Sound. Other stuff recorded at Fort Apache North Mixed at White Crow Audio  'Whatever's Cool With Me' EP recorded all over the place [...]  'Green Mind' released February 1991. Side C, tracks 1-5: 'The Wagon' Single B-Sides released January 1991. Side C, track 6 and side D, tracks 1-3: 'Whatever's Cool With Me' EP released August 1991. Side D, tracks 4-5: 'Whatever's Cool With Me' EP (Japanese edition only) released November 1991.  All tracks [...] Published by Spam As The Bread Music/BMG Blue/BMG Rights Management (UK) Ltd.  Pre-order came with pin 4x4 cm (compare photos). |
-| Discogs URL    | [Dinosaur Jr. - Green Mind](https://www.discogs.com/release/14193595-Dinosaur-Jr-Green-Mind) |
+| Notes | Includes printer inner sleeves with a review and interviews with the band.<br><br>℗ 2019 Cherry Red Records Ltd.<br>This compilation © 2019 Cherry Red Records Ltd.<br>Power Road Studios, 114 Power Road, London W4 5PY<br>www.cherryred.co.uk Made in EU<br><br>Green mind:<br>Drums recorded at Sorcerer Sound.<br>Other stuff recorded at Fort Apache North<br>Mixed at White Crow Audio<br><br>'Whatever's Cool With Me' EP recorded all over the place [...]<br><br>'Green Mind' released February 1991.<br>Side C, tracks 1-5: 'The Wagon' Single B-Sides released January 1991.<br>Side C, track 6 and side D, tracks 1-3: 'Whatever's Cool With Me' EP released August 1991.<br>Side D, tracks 4-5: 'Whatever's Cool With Me' EP (Japanese edition only) released November 1991.<br><br>All tracks [...] Published by Spam As The Bread Music/BMG Blue/BMG Rights Management (UK) Ltd.<br><br>Pre-order came with pin 4x4 cm (compare photos). |
+| Discogs URL    | [Dinosaur Jr - Green Mind](https://www.discogs.com/release/14193595-Dinosaur-Jr-Green-Mind) |

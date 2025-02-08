@@ -4,6 +4,7 @@ artist_name: "Blackfield"
 artist: "blackfield"
 album_name: "Blackfield"
 date: 2024-06-01T06:08:09.000000Z
+release_date: "2017-02-10"
 release_id: "30444917"
 slug: "blackfield-30444917"
 hideSummary: true
@@ -30,34 +31,30 @@ Two songs are covers in English of earlier Aviv Geffen songs in Hebrew, "Cloudy 
 Four singles were released from the album: "Hello", "Pain", "Blackfield" and "Cloudy Now".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Open Mind (3:49)
-2. Blackfield (4:06)
-3. Glow (4:00)
-4. Scars (3:57)
-5. Lullaby (3:29)
-6. Pain (3:47)
-7. Summer (4:12)
-8. Cloudy Now (3:34)
-9. The Hole In Me (2:47)
-10. Hello (3:09)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Open Mind | 3:49 |
+| A2 | Blackfield | 4:06 |
+| A3 | Glow | 4:00 |
+| A4 | Scars | 3:57 |
+| A5 | Lullaby | 3:29 |
+| B1 | Pain | 3:47 |
+| B2 | Summer | 4:12 |
+| B3 | Cloudy Now | 3:34 |
+| B4 | The Hole In Me | 2:47 |
+| B5 | Hello | 3:09 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blackfield-v/1151959662" >}}<br>
 
 
-## Videos
-### Blackfield - Blackfield from Blackfield
-{{< youtube id="FF79zvZok48" title="Blackfield - Blackfield from Blackfield" >}}<br>
-### More Videos
-
-- [Blackfield - Hello from Blackfield](https://www.youtube.com/watch?v=Mw1NGzbPQ3c)
-- [Blackfield - Pain from Blackfield](https://www.youtube.com/watch?v=d-VOPvny-O0)
-- [Blackfield Full Album](https://www.youtube.com/watch?v=1Le1ocJPmLs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +66,5 @@ Four singles were released from the album: "Hello", "Pain", "Blackfield" and "Cl
 | Format         | Vinyl LP Album Limited Edition Reissue (Orange Black Marble ) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1233 |
-| Notes | "Limited Edition 20th Anniversary Marble Vinyl" Includes printed inner sleeve containing lyrics.  ℗ 2011 Snapper Music © 2004 Snapper Music. Made in the EU  Runouts are etched. |
+| Notes | "Limited Edition 20th Anniversary Marble Vinyl"<br>Includes printed inner sleeve containing lyrics.<br><br>℗ 2011 Snapper Music © 2004 Snapper Music.<br>Made in the EU<br><br>Runouts are etched. |
 | Discogs URL    | [Blackfield - Blackfield](https://www.discogs.com/release/30444917-Blackfield-Blackfield) |

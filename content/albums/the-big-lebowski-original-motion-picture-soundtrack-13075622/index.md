@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "The Big Lebowski  (Original Motion Picture Soundtrack)"
 date: 2019-01-27T14:29:04.000000Z
+release_date: ""
 release_id: "13075622"
 slug: "the-big-lebowski-original-motion-picture-soundtrack-13075622"
 hideSummary: true
@@ -25,44 +26,33 @@ styles: ["Soundtrack"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Man In Me (3:08)
-2. Her Eyes Are A Blue Million Miles (2:54)
-3. My Mood Swings (2:10)
-4. Ataypura (3:03)
-5. Traffic Boom (3:15)
-6. I Got It Bad And That Ain't Good (4:07)
-7. Stamping Ground (5:16)
-8. Just Dropped In (To See What Condition My Condition Was In) (3:20)
-9. Walking Song (2:55)
-10. "Glück Das Mir Verblieb" From The Opera "Die Tote Stadt" (5:07)
-11. Lujon (2:38)
-12. Hotel California (5:47)
-13. Wie Glauben (3:21)
-14. Dead Flowers (4:47)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Man In Me | 3:08 |
+| A2 | Her Eyes Are A Blue Million Miles | 2:54 |
+| A3 | My Mood Swings | 2:10 |
+| A4 | Ataypura | 3:03 |
+| A5 | Traffic Boom | 3:15 |
+| A6 | I Got It Bad And That Ain't Good | 4:07 |
+| A7 | Stamping Ground | 5:16 |
+| B1 | Just Dropped In (To See What Condition My Condition Was In) | 3:20 |
+| B2 | Walking Song | 2:55 |
+| B3 | "Glück Das Mir Verblieb" From The Opera "Die Tote Stadt" | 5:07 |
+| B4 | Lujon | 2:38 |
+| B5 | Hotel California | 5:47 |
+| B6 | Wie Glauben | 3:21 |
+| B7 | Dead Flowers | 4:47 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### The Big Lebowski - Full Vinyl Soundtrack
-{{< youtube id="ovx2OJtJ5uo" title="The Big Lebowski - Full Vinyl Soundtrack" >}}<br>
-### More Videos
 
-- [Bob Dylan - The Man in Me Official Audio](https://www.youtube.com/watch?v=G6oBqDkNz38)
-- [Her Eyes Are a Blue Million Miles](https://www.youtube.com/watch?v=1kTCTxOVEug)
-- [My Mood Swings From The Big Lebowski Soundtrack](https://www.youtube.com/watch?v=fzJo3rS9sOE)
-- [Ataypura High Andes 1999 Digital Remaster](https://www.youtube.com/watch?v=z6lFX7yTB3s)
-- [Traffic Boom The Big Lebowski](https://www.youtube.com/watch?v=4aw_ivCk1Nc)
-- [I Got It Bad And That Aint Good](https://www.youtube.com/watch?v=ZzJ5lgdT3T8)
-- [Stamping Ground Instrumental](https://www.youtube.com/watch?v=FZHc_HEncwc)
-- [Just Dropped In To See What Condition My Condition Is In](https://www.youtube.com/watch?v=-0-7fg8oAO4)
-- [Meredith Monk - Walking Song](https://www.youtube.com/watch?v=P8r4eHM8Zlk)
-- [Act I Gluck das mir verblieb](https://www.youtube.com/watch?v=bP8wcxFeM7g)
-- [Henry Mancini - Lujon Official Audio](https://www.youtube.com/watch?v=RjsG3i6L9vw)
-- [Gipsy Kings - Hotel California Spanish Mix Audio](https://www.youtube.com/watch?v=nVNAqNZcpB4)
-- [Carter Burwell - Wie Glauben](https://www.youtube.com/watch?v=14xY1lxLMkI)
-- [Townes Van Zandt - Dead Flowers Official Audio](https://www.youtube.com/watch?v=8ApA2W8f2vg)
 
 ## Release Images
 {{< imageGrid >}}

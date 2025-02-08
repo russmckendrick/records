@@ -33,29 +33,26 @@ But the band were branching out into new directions, too. The syncopated grooves
 
 
 ## Tracklisting
-1. Go
-2. Animal
-3. Daughter
-4. Glorified G
-5. Dissident
-6. W.M.A.
-7. Blood
-8. Rearviewmirror
-9. Rats
-10. Elderly Woman Behind The Counter In A Small Town
-11. Leash
-12. Indifference
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Go |  |
+| A2 | Animal |  |
+| A3 | Daughter |  |
+| A4 | Glorified G |  |
+| A5 | Dissident |  |
+| A6 | W.M.A. |  |
+| B1 | Blood |  |
+| B2 | Rearviewmirror |  |
+| B3 | Rats |  |
+| B4 | Elderly Woman Behind The Counter In A Small Town |  |
+| B5 | Leash |  |
+| B6 | Indifference |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vs/426656353" >}}<br>
 
 
-## Videos
-### Pearl Jam - Daughter Official Video
-{{< youtube id="zgUwd2Gkb-E" title="Pearl Jam - Daughter Official Video" >}}<br>
-### More Videos
-
-- [Pearl Jam - Go Official Visualizer](https://www.youtube.com/watch?v=4tWpXmw7Ju8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +64,5 @@ But the band were branching out into new directions, too. The syncopated grooves
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold ) |
 | Label          | Sony Music |
 | Catalog Number | 88697843131 |
-| Notes | Issued in a gatefold sleeve, includes an insert with lyrics & credits.   |
+| Notes | Issued in a gatefold sleeve, includes an insert with lyrics & credits.<br><br> |
 | Discogs URL    | [Pearl Jam - Vs.](https://www.discogs.com/release/8354355-Pearl-Jam-Vs) |

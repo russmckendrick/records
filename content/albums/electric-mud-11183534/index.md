@@ -4,6 +4,7 @@ artist_name: "Muddy Waters"
 artist: "muddy-waters"
 album_name: "Electric Mud"
 date: 2017-12-08T13:15:20.000000Z
+release_date: "1968-10-05"
 release_id: "11183534"
 slug: "electric-mud-11183534"
 hideSummary: true
@@ -24,36 +25,28 @@ styles: ["Electric Blues", "Chicago Blues", "Blues Rock"]
 
 Electric Mud is the fifth studio album by Muddy Waters, with members of Rotary Connection playing as his backing band. Released in 1968, it presents Muddy Waters as a psychedelic musician. Producer Marshall Chess suggested that Muddy Waters record it in an attempt to appeal to a rock audience.
 The album peaked at number 127 on Billboard 200 album chart. It was controversial for its fusion of electric blues with psychedelic elements.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Just Want To Make Love To You (4:14)
-2. Hoochie Coochie Man (4:41)
-3. Let's Spend The Night Together (3:07)
-4. She's All Right (6:44)
-5. I'm A Man (Mannish Boy) (3:21)
-6. Herbert Harpers Free Press (4:32)
-7. Tom Cat (3:37)
-8. Same Thing (5:37)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Just Want To Make Love To You | 4:14 |
+| A2 | Hoochie Coochie Man | 4:41 |
+| A3 | Let's Spend The Night Together | 3:07 |
+| A4 | She's All Right | 6:44 |
+| B1 | I'm A Man (Mannish Boy) | 3:21 |
+| B2 | Herbert Harpers Free Press | 4:32 |
+| B3 | Tom Cat | 3:37 |
+| B4 | Same Thing | 5:37 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/electric-mud/1440803762" >}}<br>
 
 
-## Videos
-### I Just Want To Make Love To You
-{{< youtube id="bmY4lnFvdy8" title="I Just Want To Make Love To You" >}}<br>
-### More Videos
-
-- [Im Your Hoochie Coochie Man](https://www.youtube.com/watch?v=GTRuU_PHdzI)
-- [Lets Spend The Night Together](https://www.youtube.com/watch?v=1Oza295_pkY)
-- [Shes Alright](https://www.youtube.com/watch?v=nsDDwJjIA58)
-- [Mannish Boy](https://www.youtube.com/watch?v=RxgCGd_Meu8)
-- [Herbert Harpers Free Press News](https://www.youtube.com/watch?v=s-4MtSa8aoc)
-- [Tom Cat](https://www.youtube.com/watch?v=RnK4mvFNj64)
-- [The Same Thing](https://www.youtube.com/watch?v=RBvebLOo98Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +58,5 @@ The album peaked at number 127 on Billboard 200 album chart. It was controversia
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Third Man Records |
 | Catalog Number | TMR-485 |
-| Notes | Recorded at Ter Mar Studios, Chicago, May, 1968 Comes with a poster  For the 2019 reissue WITHOUT poster, see here : [r=16092165] |
+| Notes | Recorded at Ter Mar Studios, Chicago, May, 1968<br>Comes with a poster<br><br>For the 2019 reissue WITHOUT poster, see here : [r=16092165] |
 | Discogs URL    | [Muddy Waters - Electric Mud](https://www.discogs.com/release/11183534-Muddy-Waters-Electric-Mud) |

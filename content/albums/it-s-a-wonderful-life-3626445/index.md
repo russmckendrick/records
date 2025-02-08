@@ -4,6 +4,7 @@ artist_name: "Sparklehorse"
 artist: "sparklehorse"
 album_name: "It's A Wonderful Life"
 date: 2019-04-26T12:45:21.000000Z
+release_date: "2001-06-11"
 release_id: "3626445"
 slug: "it-s-a-wonderful-life-3626445"
 hideSummary: true
@@ -25,44 +26,32 @@ It's a Wonderful Life is the third studio album by American musical act Sparkleh
 It was the band's most successful album commercially, selling over 63,000 copies.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. It's A Wonderful Life
-2. Gold Day
-3. Piano Fire
-4. Sea Of Teeth
-5. Apple Bed
-6. King Of Nails
-7. Eyepennies
-8. Dog Door
-9. More Yellow Birds
-10. Little Fat Baby
-11. Devil's New
-12. Comfort Me
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | It's A Wonderful Life |  |
+| A2 | Gold Day |  |
+| A3 | Piano Fire |  |
+| A4 | Sea Of Teeth |  |
+| A5 | Apple Bed |  |
+| A6 | King Of Nails |  |
+| B1 | Eyepennies |  |
+| B2 | Dog Door |  |
+| B3 | More Yellow Birds |  |
+| B4 | Little Fat Baby |  |
+| B5 | Devil's New |  |
+| B6 | Comfort Me |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/its-a-wonderful-life/1461512623" >}}<br>
 
 
-## Videos
-### Sparklehorse - Its A Wonderful Life Official Video
-{{< youtube id="kqoKWuu8JTo" title="Sparklehorse - Its A Wonderful Life Official Video" >}}<br>
-### More Videos
-
-- [Sparklehorse  Gold Day](https://www.youtube.com/watch?v=z3ju_IFmsCc)
-- [Piano Fire](https://www.youtube.com/watch?v=vECOp7oqhWA)
-- [Sparklehorse  Sea of Teeth](https://www.youtube.com/watch?v=NeUH4Re7RuA)
-- [Sparklehorse  Apple Bed Official Video](https://www.youtube.com/watch?v=x471zUbvs6o)
-- [Sparklehorse  King of Nails Official Video](https://www.youtube.com/watch?v=PQgy6F1AGso)
-- [Sparklehorse  Eyepennies feat  PJ Harvey Official Video](https://www.youtube.com/watch?v=8oD1j2KuJS4)
-- [Sparklehorse - Dog Door Official Video](https://www.youtube.com/watch?v=CtQe7s7EZ-c)
-- [Sparklehorse  More Yellow Birds Official Video](https://www.youtube.com/watch?v=gnxA0wi6deI)
-- [Sparklehorse  Little Fat Baby Official Video](https://www.youtube.com/watch?v=FhYNerrrOYY)
-- [Sparklehorse  Comfort Me Official Video](https://www.youtube.com/watch?v=pEzskD2Zys4)
-- [Sparklehorse - Babies On The Sun Official Video](https://www.youtube.com/watch?v=5qFJNrcS2AI)
 
 ## Release Images
 {{< imageGrid >}}

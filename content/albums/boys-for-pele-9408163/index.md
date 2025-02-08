@@ -4,6 +4,7 @@ artist_name: "Tori Amos"
 artist: "tori-amos"
 album_name: "Boys For Pele"
 date: 2017-05-19T08:38:18.000000Z
+release_date: "1996-01-22"
 release_id: "9408163"
 slug: "boys-for-pele-9408163"
 hideSummary: true
@@ -32,51 +33,38 @@ Boys for Pele is the third studio album by American singer and songwriter Tori A
 Boys for Pele was recorded in rural Ireland and Louisiana and features 18 songs that incorporate harpsichord, clavichord, harmonium, gospel choirs, brass bands and full orchestras. Amos wrote all of the tracks, and for the first time, she served as sole producer for her own album. For Amos, the album was a step into a different direction, in terms of singing, songwriting, and recording, and is experimental in comparison to her previous work.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Beauty Queen / Horses (6:07)
-2. Blood Roses (3:56)
-3. Father Lucifer (3:43)
-4. Professional Widow (4:32)
-5. Mr. Zebra (1:07)
-6. Marianne (4:10)
-7. Caught A Lite Sneeze (4:25)
-8. Muhammad My Friend (3:49)
-9. Hey Jupiter (5:12)
-10. Way Down (1:13)
-11. Little Amsterdam (4:29)
-12. Talula (4:08)
-13. Not The Red Baron (3:51)
-14. Agent Orange (1:26)
-15. Doughnut Song (4:21)
-16. In The Springtime Of His Voodoo (5:34)
-17. Putting The Damage On (5:10)
-18. Twinkle (3:11)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Beauty Queen / Horses | 6:07 |
+| A2 | Blood Roses | 3:56 |
+| A3 | Father Lucifer | 3:43 |
+| A4 | Professional Widow | 4:32 |
+| B1 | Mr. Zebra | 1:07 |
+| B2 | Marianne | 4:10 |
+| B3 | Caught A Lite Sneeze | 4:25 |
+| B4 | Muhammad My Friend | 3:49 |
+| B5 | Hey Jupiter | 5:12 |
+| C1 | Way Down | 1:13 |
+| C2 | Little Amsterdam | 4:29 |
+| C3 | Talula | 4:08 |
+| C4 | Not The Red Baron | 3:51 |
+| D1 | Agent Orange | 1:26 |
+| D2 | Doughnut Song | 4:21 |
+| D3 | In The Springtime Of His Voodoo | 5:34 |
+| D4 | Putting The Damage On | 5:10 |
+| D5 | Twinkle | 3:11 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/boys-for-pele-deluxe/1155862196" >}}<br>
 
 
-## Videos
-### Tori Amos - Professional Widow Remix Official Music Video
-{{< youtube id="Zqae5qyopok" title="Tori Amos - Professional Widow Remix Official Music Video" >}}<br>
-### More Videos
-
-- [Tori Amos - Talula The Tornado Mix Official Music Video](https://www.youtube.com/watch?v=PgHlNeoAH1A)
-- [Tori Amos - Caught a Lite Sneeze Official Music Video](https://www.youtube.com/watch?v=weWtRqoSUOI)
-- [Tori Amos - Hey Jupiter The Dakota Version Official Music Video](https://www.youtube.com/watch?v=1AbNx4h8XYc)
-- [NEW VERSION of Tori Amos Boys for Pele EPK 1996 longer different edit](https://www.youtube.com/watch?v=rdWIFfeXPLo)
-- [Tori Amos Interview on Boys for Pele  Metal Express 1996](https://www.youtube.com/watch?v=uI7Oi5PPjpU)
-- [Tori Amos Interview on Boys for Pele  Fanzine 1996](https://www.youtube.com/watch?v=5FTZQiugbMA)
-- [Tori Amos - MTV News Brief 96 - Interview Clip - Boys For Pele](https://www.youtube.com/watch?v=4x_s4sO1oPo)
-- [Tori Amos on Boys for Pele fan questions](https://www.youtube.com/watch?v=-CzGz7lpy8E)
-- [Tori Amos - Caught a Lite Sneeze Live Sessions 1998  Lyrics](https://www.youtube.com/watch?v=SIsXdEw1hIU)
-- [Tori Amos - VH1com Boxset - On The Album Boys For Pele](https://www.youtube.com/watch?v=83-H2Gc8AGI)
-- [Tori Amos - Boys for Pele CD Unboxing](https://www.youtube.com/watch?v=1aowPNNJvTg)
-- [Tori Amos - Boys For Pele 1996 Full Album](https://www.youtube.com/watch?v=PxUqVJwWowY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -88,5 +76,5 @@ Boys for Pele was recorded in rural Ireland and Louisiana and features 18 songs 
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | Atlantic |
 | Catalog Number | 081227947774 |
-| Notes | "Newly remastered" release in stickered sleeve.  "Includes download code for MP3 version of the album". with printed lyricsheet.  Runouts are etched, Optimal plating symbols are mirrored. |
+| Notes | "Newly remastered" release in stickered sleeve.<br><br>"Includes download code for MP3 version of the album".<br>with printed lyricsheet.<br><br>Runouts are etched, Optimal plating symbols are mirrored. |
 | Discogs URL    | [Tori Amos - Boys For Pele](https://www.discogs.com/release/9408163-Tori-Amos-Boys-For-Pele) |

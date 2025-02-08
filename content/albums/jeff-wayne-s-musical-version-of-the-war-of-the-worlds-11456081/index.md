@@ -4,6 +4,7 @@ artist_name: "Jeff Wayne"
 artist: "jeff-wayne"
 album_name: "Jeff Wayne's Musical Version Of The War Of The Worlds"
 date: 2018-01-26T20:03:07.000000Z
+release_date: "1978-06-09"
 release_id: "11456081"
 slug: "jeff-wayne-s-musical-version-of-the-war-of-the-worlds-11456081"
 hideSummary: true
@@ -33,40 +34,36 @@ The album became a commercial success in the UK, debuting at No. 5 on the UK Alb
 Wayne's adaptation has spawned multiple versions including video games, DVDs, and live stage shows. In 2012, Wayne released a rearrangement of the album, subtitled The New Generation, incorporating more synthesisers and new compositions and dialogue.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Coming Of The Martians
-2. The Eve Of The War
-3. Horsell Common And The Heat Ray
-4. The Artilleryman And The Fighting Machine
-5. Forever Autumn
-6. Thunderchild
-7. The Earth Under The Martians
-8. The Red Weed (Part 1)
-9. The Spirit Of Man
-10. The Red Weed (Part 2)
-11. The Artilleryman Returns
-12. Brave New World
-13. Dead London (Part 1)
-14. Dead London (Part 2)
-15. Epilogue (Part 1)
-16. Epilogue (Part 2) (NASA)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Coming Of The Martians |  |
+| A1 | The Eve Of The War |  |
+| A2 | Horsell Common And The Heat Ray |  |
+| B1 | The Artilleryman And The Fighting Machine |  |
+| B2 | Forever Autumn |  |
+| B3 | Thunderchild |  |
+|  | The Earth Under The Martians |  |
+| C1 | The Red Weed (Part 1) |  |
+| C2 | The Spirit Of Man |  |
+| C3 | The Red Weed (Part 2) |  |
+| C4 | The Artilleryman Returns |  |
+| D1 | Brave New World |  |
+| D2 | Dead London (Part 1) |  |
+| D3 | Dead London (Part 2) |  |
+| D4 | Epilogue (Part 1) |  |
+| D5 | Epilogue (Part 2) (NASA) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/jeff-waynes-musical-version-of-the-war-of-the-worlds/1615102666" >}}<br>
 
 
-## Videos
-### The War of the Worlds - Jeff Waynes Musical Version - Full Musical
-{{< youtube id="16aa5NtpVbw" title="The War of the Worlds - Jeff Waynes Musical Version - Full Musical" >}}<br>
-### More Videos
-
-- [Jeff Wayne - La Guerra de los Mundos War of the Worlds 2xLP Full Album](https://www.youtube.com/watch?v=bm1lwQIsFXE)
-- [Jeff Wayne - The Eve of the War Official Audio ft Richard Burton Justin Hayward](https://www.youtube.com/watch?v=Poii8JAbtng)
-- [Jeff Wayne - La Guerra de los Mundos War of the Worlds 2xLP Full Album](https://www.youtube.com/watch?v=bm1lwQIsFXE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +75,5 @@ Wayne's adaptation has spawned multiple versions including video games, DVDs, an
 | Format         | Vinyl 2× LP Album Reissue (Gatefold, 180ɢ) |
 | Label          | Sony Music |
 | Catalog Number | 88985449431 |
-| Notes | Includes full colour 16-page booklet. ℗ 2005 & © 2017 Made in the EU |
+| Notes | Includes full colour 16-page booklet.<br>℗ 2005 & © 2017<br>Made in the EU |
 | Discogs URL    | [Jeff Wayne - Jeff Wayne's Musical Version Of The War Of The Worlds](https://www.discogs.com/release/11456081-Jeff-Wayne-Jeff-Waynes-Musical-Version-Of-The-War-Of-The-Worlds) |

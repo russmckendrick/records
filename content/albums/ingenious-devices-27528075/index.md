@@ -4,6 +4,7 @@ artist_name: "Big Big Train"
 artist: "big-big-train"
 album_name: "Ingenious Devices"
 date: 2023-06-30T07:13:39.000000Z
+release_date: "2023-07-28"
 release_id: "27528075"
 slug: "ingenious-devices-27528075"
 hideSummary: true
@@ -27,31 +28,25 @@ styles: ["Prog Rock"]
 ---
 
 Ingenious Devices is a compilation album by English progressive rock band Big Big Train, released on 30 June 2023. It includes four studio tracks that were recorded in 2019 and one live track that was recorded in September 2022. Three tracks are re-recordings, except for the vocals of the late David Longdon.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. East Coast Racer (15:52)
-2. The Book Of Ingenious Devices  (1:23)
-3. Brooklands (12:29)
-4. Voyager (14:10)
-5. Atlantic Cable (Live) (15:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | East Coast Racer | 15:52 |
+| B2 | The Book Of Ingenious Devices  | 1:23 |
+| B3 | Brooklands | 12:29 |
+| C4 | Voyager | 14:10 |
+| D5 | Atlantic Cable (Live) | 15:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ingenious-devices/1686290979" >}}<br>
 
 
-## Videos
-### East Coast Racer
-{{< youtube id="4rhup_Ikblo" title="East Coast Racer" >}}<br>
-### More Videos
-
-- [Voyager](https://www.youtube.com/watch?v=mGnvNOuAZZA)
-- [Brooklands](https://www.youtube.com/watch?v=8HmrfSRn-OQ)
-- [East Coast Racer](https://www.youtube.com/watch?v=4rhup_Ikblo)
-- [Voyager](https://www.youtube.com/watch?v=mGnvNOuAZZA)
-- [Brooklands](https://www.youtube.com/watch?v=8HmrfSRn-OQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +58,5 @@ Ingenious Devices is a compilation album by English progressive rock band Big Bi
 | Format         | Vinyl 2× LP Album Limited Edition (Blue) |
 | Label          | English Electric Recordings |
 | Catalog Number | PLG118 |
-| Notes | Comes in gatefold jacket with black poly inner sleeves. 2-sided lyric sheet included. Limited to 300 copies. All music and words by Gregory Spawton (except for the closing section of East Coast Racer where the music was written by Danny Manners and Gregory Spawton).     Atlantic Cable recorded live at the Waterside Theatre, Aylesbury, in September 2022.  All runouts are etched. |
+| Notes | Comes in gatefold jacket with black poly inner sleeves.<br>2-sided lyric sheet included. Limited to 300 copies.<br>All music and words by Gregory Spawton (except for the closing section of East Coast Racer where the music was written by Danny Manners and Gregory Spawton). <br><br><br><br>Atlantic Cable recorded live at the Waterside Theatre, Aylesbury, in September 2022.<br><br>All runouts are etched. |
 | Discogs URL    | [Big Big Train - Ingenious Devices](https://www.discogs.com/release/27528075-Big-Big-Train-Ingenious-Devices) |

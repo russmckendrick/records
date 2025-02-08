@@ -4,6 +4,7 @@ artist_name: "Hifi Sean"
 artist: "hifi-sean"
 album_name: "Daylight"
 date: 2024-08-16T07:13:55.000000Z
+release_date: "2024-08-16"
 release_id: "31020934"
 slug: "daylight-31020934"
 hideSummary: true
@@ -26,32 +27,32 @@ styles: ["Soul", "House"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Daylight
-2. Sun Come Up
-3. Coalition
-4. You Are My
-5. Meantime
-6. Golden Hour
-7. Sad Banger
-8. USB - USC
-9. Summery
-10. Living Things
-11. Celebrate
-12. The Show
-13. Orange Sunshine
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Daylight |  |
+| A2 | Sun Come Up |  |
+| A3 | Coalition |  |
+| A4 | You Are My |  |
+| A5 | Meantime |  |
+| A6 | Golden Hour |  |
+| B1 | Sad Banger |  |
+| B2 | USB - USC |  |
+| B3 | Summery |  |
+| B4 | Living Things |  |
+| B5 | Celebrate |  |
+| B6 | The Show |  |
+| C | Orange Sunshine |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/daylight/1741952853" >}}<br>
 
 
-## Videos
-### Hifi Sean  David McAlmont - Sad Banger
-{{< youtube id="TYJPpYD_tsQ" title="Hifi Sean  David McAlmont - Sad Banger" >}}<br>
-### More Videos
-
-- [Hifi Sean  David McAlmont - Sad Banger](https://www.youtube.com/watch?v=TYJPpYD_tsQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +63,5 @@ styles: ["Soul", "House"]
 | Format         | Vinyl LP Album (Neon Orange), Flexi-disc 7" 45 RPM Shape (Orange), All Media Deluxe Edition Limited Edition |
 | Label          | Plastique Recordings |
 | Catalog Number | FAKE133X |
-| Notes | Edition includes a square flexi-disc.  Includes a signed art-print.  Downloadable lyric booklet.  Edition of 170   |
+| Notes | Edition includes a square flexi-disc.<br><br>Includes a signed art-print.<br><br>Downloadable lyric booklet.<br><br>Edition of 170 <br> |
 | Discogs URL    | [Hifi Sean - Daylight](https://www.discogs.com/release/31020934-Hifi-Sean-David-McAlmont-Daylight) |

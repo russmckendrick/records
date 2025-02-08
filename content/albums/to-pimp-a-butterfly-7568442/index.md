@@ -38,63 +38,30 @@ The cast assembled for this massive effort demonstrates not only Lamar’s reach
 
 
 ## Tracklisting
-1. Wesley's Theory (4:47)
-2. For Free? (Interlude) (2:10)
-3. King Kunta (3:54)
-4. Institutionalized (4:31)
-5. These Walls (5:00)
-6. U (4:28)
-7. Alright (3:39)
-8. For Sale? (Interlude) (4:51)
-9. Momma (4:43)
-10. Hood Politics (4:52)
-11. How Much A Dollar Cost (4:21)
-12. Complexion (A Zulu Love) (4:23)
-13. The Blacker The Berry (5:28)
-14. You Aint Gotta Lie (Momma Said) (4:01)
-15. I (5:36)
-16. Mortal Man (12:07)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Wesley's Theory | 4:47 |
+| A2 | For Free? (Interlude) | 2:10 |
+| A3 | King Kunta | 3:54 |
+| A4 | Institutionalized | 4:31 |
+| A5 | These Walls | 5:00 |
+| B1 | U | 4:28 |
+| B2 | Alright | 3:39 |
+| B3 | For Sale? (Interlude) | 4:51 |
+| B4 | Momma | 4:43 |
+| C1 | Hood Politics | 4:52 |
+| C2 | How Much A Dollar Cost | 4:21 |
+| C3 | Complexion (A Zulu Love) | 4:23 |
+| C4 | The Blacker The Berry | 5:28 |
+| D1 | You Aint Gotta Lie (Momma Said) | 4:01 |
+| D2 | I | 5:36 |
+| D3 | Mortal Man | 12:07 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/to-pimp-a-butterfly/1440871877" >}}<br>
 
 
-## Videos
-### Wesleys Theory
-{{< youtube id="l9fN-8NjrvI" title="Wesleys Theory" >}}<br>
-### More Videos
-
-- [Kendrick Lamar - For Free](https://www.youtube.com/watch?v=_ZTYgq4EoRo)
-- [Kendrick Lamar - King Kunta](https://www.youtube.com/watch?v=hRK7PVJFbS8)
-- [Institutionalized](https://www.youtube.com/watch?v=7L1POXocFIQ)
-- [Kendrick Lamar - These Walls Explicit ft Bilal Anna Wise Thundercat](https://www.youtube.com/watch?v=drV0QatqbRU)
-- [Kendrick Lamar - God is Gangsta U](https://www.youtube.com/watch?v=cOyThzI3dKY)
-- [Kendrick Lamar - Alright](https://www.youtube.com/watch?v=Z-48u_uWMHY)
-- [For Sale Interlude](https://www.youtube.com/watch?v=RdCepOB4BV8)
-- [Momma](https://www.youtube.com/watch?v=q1AOP6NtGuc)
-- [Hood Politics](https://www.youtube.com/watch?v=iIsHg3BHpB0)
-- [How Much A Dollar Cost](https://www.youtube.com/watch?v=y8kEiL81_R4)
-- [Complexion A Zulu Love](https://www.youtube.com/watch?v=Wt4dUK4uce0)
-- [The Blacker The Berry](https://www.youtube.com/watch?v=VdPtVZDspIY)
-- [You Aint Gotta Lie Momma Said](https://www.youtube.com/watch?v=78bSAKX_4vs)
-- [i](https://www.youtube.com/watch?v=tt2-GsPA9kk)
-- [Mortal Man](https://www.youtube.com/watch?v=axwpgn3GRMs)
-- [Wesleys Theory](https://www.youtube.com/watch?v=l9fN-8NjrvI)
-- [Kendrick Lamar - For Free](https://www.youtube.com/watch?v=_ZTYgq4EoRo)
-- [Kendrick Lamar - King Kunta](https://www.youtube.com/watch?v=hRK7PVJFbS8)
-- [Institutionalized](https://www.youtube.com/watch?v=7L1POXocFIQ)
-- [Kendrick Lamar - These Walls Explicit ft Bilal Anna Wise Thundercat](https://www.youtube.com/watch?v=drV0QatqbRU)
-- [Kendrick Lamar - God is Gangsta U](https://www.youtube.com/watch?v=cOyThzI3dKY)
-- [Kendrick Lamar - Alright](https://www.youtube.com/watch?v=Z-48u_uWMHY)
-- [For Sale Interlude](https://www.youtube.com/watch?v=RdCepOB4BV8)
-- [Momma](https://www.youtube.com/watch?v=q1AOP6NtGuc)
-- [Hood Politics](https://www.youtube.com/watch?v=iIsHg3BHpB0)
-- [How Much A Dollar Cost](https://www.youtube.com/watch?v=y8kEiL81_R4)
-- [Complexion A Zulu Love](https://www.youtube.com/watch?v=Wt4dUK4uce0)
-- [The Blacker The Berry](https://www.youtube.com/watch?v=VdPtVZDspIY)
-- [You Aint Gotta Lie Momma Said](https://www.youtube.com/watch?v=78bSAKX_4vs)
-- [i](https://www.youtube.com/watch?v=tt2-GsPA9kk)
-- [Mortal Man](https://www.youtube.com/watch?v=axwpgn3GRMs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -106,5 +73,5 @@ The cast assembled for this massive effort demonstrates not only Lamar’s reach
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Top Dawg Entertainment |
 | Catalog Number | 0602547311009 |
-| Notes | Released in a gatefold cover. No track durations mentioned on the release.  [a2402706] of [a1628709]'  The credit section inside gatefold contains some errors: – Credits that apply to "Momma" are mistakenly listed as belonging to "Hood Politics" and vice versa. – Writing credit for "King Kunta" mistakenly omit  "Johnny Burns", instead crediting "T. Lane"  [Back cover] ℗© 2015 Aftermath/Interscope Records. […] Made in the EU. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands |
+| Notes | Released in a gatefold cover.<br>No track durations mentioned on the release.<br><br>[a2402706] of [a1628709]'<br><br>The credit section inside gatefold contains some errors:<br>– Credits that apply to "Momma" are mistakenly listed as belonging to "Hood Politics" and vice versa.<br>– Writing credit for "King Kunta" mistakenly omit  "Johnny Burns", instead crediting "T. Lane"<br><br>[Back cover]<br>℗© 2015 Aftermath/Interscope Records. […]<br>Made in the EU.<br>Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands |
 | Discogs URL    | [Kendrick Lamar - To Pimp A Butterfly](https://www.discogs.com/release/7568442-Kendrick-Lamar-To-Pimp-A-Butterfly) |

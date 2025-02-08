@@ -4,6 +4,7 @@ artist_name: "Lush"
 artist: "lush"
 album_name: "Spooky"
 date: 2023-08-11T08:22:40.000000Z
+release_date: "1992-01-27"
 release_id: "27919932"
 slug: "spooky-27919932"
 hideSummary: true
@@ -28,35 +29,32 @@ styles: ["Indie Rock", "Shoegaze"]
 Spooky is the debut studio album by English rock band Lush. It was released on 27 January 1992 by 4AD. The album, produced by Robin Guthrie of Cocteau Twins, followed the band's mini album, Scar (1989), several extended play releases, and the compilation album Gala (1990). Spooky reached the UK Top 10 and topped the national indie charts. The album produced three singles: "Nothing Natural", "For Love" and "Superblast!".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Stray (2:07)
-2. Nothing Natural (5:54)
-3. Tiny Smiles (4:26)
-4. Covert (3:34)
-5. Ocean (4:49)
-6. For Love (3:29)
-7. Superblast! (4:07)
-8. Untogether (3:33)
-9. Fantasy (4:27)
-10. Take (3:28)
-11. Laura (3:22)
-12. Monochrome (5:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Stray | 2:07 |
+| A2 | Nothing Natural | 5:54 |
+| A3 | Tiny Smiles | 4:26 |
+| A4 | Covert | 3:34 |
+| A5 | Ocean | 4:49 |
+| A6 | For Love | 3:29 |
+| B1 | Superblast! | 4:07 |
+| B2 | Untogether | 3:33 |
+| B3 | Fantasy | 4:27 |
+| B4 | Take | 3:28 |
+| B5 | Laura | 3:22 |
+| B6 | Monochrome | 5:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/spooky/311187779" >}}<br>
 
 
-## Videos
-### Lush - Superblast Official Video
-{{< youtube id="_uU5DU7P83E" title="Lush - Superblast Official Video" >}}<br>
-### More Videos
-
-- [Lush - Nothing Natural](https://www.youtube.com/watch?v=eUuCXE6nnNs)
-- [Lush - For Love](https://www.youtube.com/watch?v=fECE5FGNaGI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +66,5 @@ Spooky is the debut studio album by English rock band Lush. It was released on 2
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (Clear, GZ Media Pressing ) |
 | Label          | 4AD |
 | Catalog Number | 4ad0451LP |
-| Notes | Remastered from the original analogue tapes, pressed on ultra-clear vinyl.  Catalogue number on the sticker on shrink wrap is 4ad0452lpe and the barcode is 191400045101. Manufactured in EU printed on rear of sleeve.  Catalog number and ''KEVIN@CURVEPUSHER'' in runouts are hand etched, GZ media strings are laser etched. |
+| Notes | Remastered from the original analogue tapes, pressed on ultra-clear vinyl.<br><br>Catalogue number on the sticker on shrink wrap is 4ad0452lpe and the barcode is 191400045101.<br>Manufactured in EU printed on rear of sleeve.<br><br>Catalog number and ''KEVIN@CURVEPUSHER'' in runouts are hand etched, GZ media strings are laser etched. |
 | Discogs URL    | [Lush - Spooky](https://www.discogs.com/release/27919932-Lush-Spooky) |

@@ -4,6 +4,7 @@ artist_name: "Soft Cell"
 artist: "soft-cell"
 album_name: "Non-Stop Erotic Cabaret"
 date: 2023-12-05T10:36:02.000000Z
+release_date: "1981-11-27"
 release_id: "29082403"
 slug: "non-stop-erotic-cabaret-29082403"
 hideSummary: true
@@ -33,54 +34,43 @@ styles: ["Synth-pop", "New Wave"]
 Non-Stop Erotic Cabaret is the debut studio album by English synth-pop duo Soft Cell, released on 27 November 1981 by Some Bizzare Records. The album's critical and commercial success was bolstered by the success of its lead single, a cover version of Gloria Jones's song "Tainted Love", which topped the charts worldwide and became the second best-selling British single of 1981. In the United States, as a result of the single's success, the album had reported advance orders of more than 200,000 copies. The album spawned two additional top-five singles in the UK: "Bedsitter" and "Say Hello, Wave Goodbye".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Original Album
-2. Frustration
-3. Tainted Love
-4. Seedy Films
-5. Youth
-6. Sex Dwarf
-7. Entertain Me
-8. Chips On My Shoulder
-9. Bedsitter
-10. Secret Life
-11. Say Hello, Wave Goodbye
-12. Bonus Disc Of Singles And B-Sides
-13. Memorabilia
-14. A Man Could Get Lost
-15. Persuasion (Edit)
-16. Where Did Our Love Go?
-17. Facility Girls
-18. Say Hello, Wave Goodbye (Instrumental)
-19. Fun City (Edit)
-20. Torch
-21. Insecure Me
-22. What!
-23. ... So
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Original Album |  |
+| A1 | Frustration |  |
+| A2 | Tainted Love |  |
+| A3 | Seedy Films |  |
+| A4 | Youth |  |
+| A5 | Sex Dwarf |  |
+| B1 | Entertain Me |  |
+| B2 | Chips On My Shoulder |  |
+| B3 | Bedsitter |  |
+| B4 | Secret Life |  |
+| B5 | Say Hello, Wave Goodbye |  |
+|  | Bonus Disc Of Singles And B-Sides |  |
+| C1 | Memorabilia |  |
+| C2 | A Man Could Get Lost |  |
+| C3 | Persuasion (Edit) |  |
+| C4 | Where Did Our Love Go? |  |
+| C5 | Facility Girls |  |
+| C6 | Say Hello, Wave Goodbye (Instrumental) |  |
+| D1 | Fun City (Edit) |  |
+| D2 | Torch |  |
+| D3 | Insecure Me |  |
+| D4 | What! |  |
+| D5 | ... So |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/non-stop-erotic-cabaret-deluxe-edition/1704336062" >}}<br>
 
 
-## Videos
-### Frustration Remastered 2023
-{{< youtube id="mGDeuJ4rscg" title="Frustration Remastered 2023" >}}<br>
-### More Videos
-
-- [Seedy Films](https://www.youtube.com/watch?v=g0pvWANJc5I)
-- [Youth](https://www.youtube.com/watch?v=6fsM6nmNpa8)
-- [Soft Cell - Sex Dwarf](https://www.youtube.com/watch?v=lrRmgbchiGY)
-- [Entertain Me Remastered 2023](https://www.youtube.com/watch?v=Lkkwot-FXjY)
-- [Chips On My Shoulder Original Version](https://www.youtube.com/watch?v=-9h4ODtFaS8)
-- [Soft Cell - Bedsitter](https://www.youtube.com/watch?v=lbC4yxjydUc)
-- [Secret Life Remastered 2023](https://www.youtube.com/watch?v=FlJT4I4XCCg)
-- [Say Hello Wave Goodbye Remastered 2023](https://www.youtube.com/watch?v=uzeOmduDr5Q)
-- [Soft Cell - Tainted Love Official Music Video](https://www.youtube.com/watch?v=XZVpR3Pk-r8)
-- [Soft Cell - Memorabilia](https://www.youtube.com/watch?v=fvrqSY2uUcI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -92,5 +82,5 @@ Non-Stop Erotic Cabaret is the debut studio album by English synth-pop duo Soft 
 | Format         | Vinyl LP Reissue, Vinyl LP Compilation, All Media Album Remastered Special Edition Stereo (Gatefold) |
 | Label          | Mercury |
 | Catalog Number | 5543833 |
-| Notes | Full colour inner sleeves with lyrics, credits and essay.  Hype sticker:  'Special 2LP Vinyl Edition  Includes remastered original album and bonus disc of singles and B-sides  Plus complete lyrics and a new essay by Adrian Thrills'  On rear and labels sleeve: 'Made in EU'.  Sticker on back: 'Made in Germany'.   Tracks A1, A3 to B5 recorded in Camden Cell Studios, London. A2 recorded at Advision Studios, London.  Track A2 published by Burlington Music Co. Ltd. Track C4 published by EMI Music Publishing Ltd. Track D5 published by Warner Chappell Music Inc. All other tracks published by Warner Chappell Music Ltd.  Runouts are etched except for the stamped Pallas numbers.   |
+| Notes | Full colour inner sleeves with lyrics, credits and essay.<br><br>Hype sticker: <br>'Special 2LP Vinyl Edition<br><br>Includes remastered original album<br>and bonus disc of singles and B-sides<br><br>Plus complete lyrics and a new essay by Adrian Thrills'<br><br>On rear and labels sleeve: 'Made in EU'. <br>Sticker on back: 'Made in Germany'. <br><br>Tracks A1, A3 to B5 recorded in Camden Cell Studios, London.<br>A2 recorded at Advision Studios, London.<br><br>Track A2 published by Burlington Music Co. Ltd.<br>Track C4 published by EMI Music Publishing Ltd.<br>Track D5 published by Warner Chappell Music Inc.<br>All other tracks published by Warner Chappell Music Ltd.<br><br>Runouts are etched except for the stamped Pallas numbers.<br><br> |
 | Discogs URL    | [Soft Cell - Non-Stop Erotic Cabaret](https://www.discogs.com/release/29082403-Soft-Cell-Non-Stop-Erotic-Cabaret) |

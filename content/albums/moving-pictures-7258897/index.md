@@ -4,6 +4,7 @@ artist_name: "Rush"
 artist: "rush"
 album_name: "Moving Pictures"
 date: 2017-02-19T10:39:08.000000Z
+release_date: "2015-05-18"
 release_id: "7258897"
 slug: "moving-pictures-7258897"
 hideSummary: true
@@ -31,29 +32,27 @@ Moving Pictures is the eighth studio album by Canadian rock band Rush, released 
 Moving Pictures received a positive reception from contemporary and retrospective music critics and became an instant commercial success, reaching number one in Canada and number three in both the United States and the United Kingdom. It remains Rush's highest-selling album in the United States, with five million copies sold. "Limelight", "Tom Sawyer" and "Vital Signs" were released as singles across 1981, and the instrumental "YYZ" was nominated for a Grammy Award for Best Rock Instrumental Performance. Rush supported the album on tour from February to July 1981. In 2020, Rolling Stone ranked the album number 379 on its list of the "500 Greatest Albums of All Time".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Tom Sawyer (4:33)
-2. Red Barchetta (6:07)
-3. YYZ (4:23)
-4. Limelight (4:18)
-5. The Camera Eye (10:55)
-6. Witch Hunt (4:43)
-7. Vital Signs (4:45)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Tom Sawyer | 4:33 |
+| A2 | Red Barchetta | 6:07 |
+| A3 | YYZ | 4:23 |
+| A4 | Limelight | 4:18 |
+|  | The Camera Eye | 10:55 |
+| B2 | Witch Hunt | 4:43 |
+| B3 | Vital Signs | 4:45 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/moving-pictures/994934441" >}}<br>
 
 
-## Videos
-### Rush - Tom Sawyer
-{{< youtube id="auLBLk4ibAk" title="Rush - Tom Sawyer" >}}<br>
-### More Videos
-
-- [Rush - YYZ](https://www.youtube.com/watch?v=ftVTWDrtrlc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +64,5 @@ Moving Pictures received a positive reception from contemporary and retrospectiv
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 00602547118080 |
-| Notes | Issued with an insert with lyrics, credits and pictures. Includes a voucher to download an MP3 version of the album.    Recorded and mixed at Le Studio, Morin Heights, Quebec, during October and November, of 1980  Remastered at Abbey Road Mastering Studios    DMM Mastering at Abbey Road Mastering Studios - January 2015    ℗ &  © 2015 Mercury Records. Made in the EU |
+| Notes | Issued with an insert with lyrics, credits and pictures. Includes a voucher to download an MP3 version of the album.<br><br>Recorded and mixed at Le Studio, Morin Heights, Quebec, during October and November, of 1980<br>Remastered at Abbey Road Mastering Studios<br><br>DMM Mastering at Abbey Road Mastering Studios - January 2015<br><br>℗ &  © 2015 Mercury Records. Made in the EU |
 | Discogs URL    | [Rush - Moving Pictures](https://www.discogs.com/release/7258897-Rush-Moving-Pictures) |

@@ -4,6 +4,7 @@ artist_name: "Blackfield"
 artist: "blackfield"
 album_name: "Open Mind (The Best Of Blackfield)"
 date: 2021-02-07T02:15:54.000000Z
+release_date: "2004"
 release_id: "12599468"
 slug: "open-mind-the-best-of-blackfield-12599468"
 hideSummary: true
@@ -23,31 +24,33 @@ styles: ["Krautrock", "Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Blackfield (4:06)
-2. Family Man (3:37)
-3. Open Mind (3:49)
-4. 1,000 People (3:54)
-5. Oxygen (3:04)
-6. Hello (3:09)
-7. Once (4:03)
-8. How Was Your Ride? (3:58)
-9. Waving (3:56)
-10. From 44 To 48 (4:31)
-11. Pain (3:47)
-12. October (3:31)
-13. Faking (3:33)
-14. Dissolving With The Night (4:08)
-15. End Of The World (5:14)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Blackfield | 4:06 |
+| A2 | Family Man | 3:37 |
+| A3 | Open Mind | 3:49 |
+| A4 | 1,000 People | 3:54 |
+| A5 | Oxygen | 3:04 |
+| B1 | Hello | 3:09 |
+| B2 | Once | 4:03 |
+| B3 | How Was Your Ride? | 3:58 |
+| B4 | Waving | 3:56 |
+| B5 | From 44 To 48 | 4:31 |
+| C1 | Pain | 3:47 |
+| C2 | October | 3:31 |
+| C3 | Faking | 3:33 |
+| C4 | Dissolving With The Night | 4:08 |
+| C5 | End Of The World | 5:14 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/open-mind-the-best-of-blackfield/1416237959" >}}<br>
 
-
-## Videos
-### Blackfield - Open Mind from Open Mind The Best of Blackfield
-{{< youtube id="SPZuSOuZe80" title="Blackfield - Open Mind from Open Mind The Best of Blackfield" >}}<br>
 
 
 ## Release Images
@@ -59,5 +62,5 @@ styles: ["Krautrock", "Alternative Rock"]
 | Format         | Vinyl LP (Yellow [Sun Yellow]), Vinyl LP Single Sided Etched (Yellow [Sun Yellow]), All Media Compilation Limited Edition |
 | Label          | Kscope |
 | Catalog Number | kscope 1016 |
-| Notes | ℗ & © 2018 Snapper Music Ltd.  The catalog number kscope 1016 only appears on the sticker on the bag the release comes in. |
+| Notes | ℗ & © 2018 Snapper Music Ltd.<br><br>The catalog number kscope 1016 only appears on the sticker on the bag the release comes in. |
 | Discogs URL    | [Blackfield - Open Mind (The Best Of Blackfield)](https://www.discogs.com/release/12599468-Blackfield-Open-Mind-The-Best-Of-Blackfield) |

@@ -4,6 +4,7 @@ artist_name: "Rush"
 artist: "rush"
 album_name: "Archives"
 date: 2016-03-09T18:39:33.000000Z
+release_date: "2024-02-19"
 release_id: "1644515"
 slug: "archives-1644515"
 hideSummary: true
@@ -29,43 +30,43 @@ styles: ["Hard Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Rush
-2. Finding My Way (5:03)
-3. Need Some Love (2:16)
-4. Take A Friend (4:27)
-5. Here Again (7:30)
-6. What You're Doing (4:19)
-7. In The Mood (3:36)
-8. Before And After (5:53)
-9. Working Man (7:07)
-10. Fly By Night
-11. Anthem (4:10)
-12. Best I Can (3:24)
-13. Beneath, Between And Behind (3:00)
-14. By-Tor And The Snow Dog (8:57)
-15. Fly By Night (3:20)
-16. Making Memories (2:56)
-17. Rivendell (5:00)
-18. In The End (6:51)
-19. Caress Of Steel
-20. Bastille Day (4:36)
-21. I Think I'm Going Bald (3:35)
-22. Lakeside Park (4:07)
-23. The Necromancer
-24. The Fountain Of Lamneth
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Rush |  |
+| A1 | Finding My Way | 5:03 |
+| A2 | Need Some Love | 2:16 |
+| A3 | Take A Friend | 4:27 |
+| A4 | Here Again | 7:30 |
+| B1 | What You're Doing | 4:19 |
+| B2 | In The Mood | 3:36 |
+| B3 | Before And After | 5:53 |
+| B4 | Working Man | 7:07 |
+|  | Fly By Night |  |
+| C1 | Anthem | 4:10 |
+| C2 | Best I Can | 3:24 |
+| C3 | Beneath, Between And Behind | 3:00 |
+|  | By-Tor And The Snow Dog | 8:57 |
+| D1 | Fly By Night | 3:20 |
+| D2 | Making Memories | 2:56 |
+| D3 | Rivendell | 5:00 |
+| D4 | In The End | 6:51 |
+|  | Caress Of Steel |  |
+| E1 | Bastille Day | 4:36 |
+| E2 | I Think I'm Going Bald | 3:35 |
+| E3 | Lakeside Park | 4:07 |
+|  | The Necromancer |  |
+|  | The Fountain Of Lamneth |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rush-single/1731911500" >}}<br>
 
 
-## Videos
-### Rush - By Tor And The Snow Dog 1978 UK Vinyl
-{{< youtube id="xOtEx_y__MM" title="Rush - By Tor And The Snow Dog 1978 UK Vinyl" >}}<br>
-### More Videos
-
-- [Rush - By Tor And The Snow Dog 1978 UK Vinyl](https://www.youtube.com/watch?v=xOtEx_y__MM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +77,5 @@ styles: ["Hard Rock", "Prog Rock"]
 | Format         | Vinyl 3× LP Compilation |
 | Label          | Mercury |
 | Catalog Number | 6641 799 |
-| Notes | Consists of the first three Rush albums 'Rush', 'Fly By Night' & 'Caress Of Steel'  Album 1 Recorded in Toronto, Canada, 1973, released in North America August 1974 Album 2 Recorded in Toronto, Canada, 1975, released in North America February 1975 Album 3 Recorded in Toronto, Canada, 1975, released in North America September 1975  All timings are approximate.  Issued in a gatefold sleeve.  For tracks F-I to F-VI, the title "The Fountain of Lamneth" appears on the label before the listing of each component part. However, on the inside of the gatefold it is shortened to "Fountain of Lamneth", and omitted completely from the back cover where only the individual titles are listed.  [r31108571] is a similar release without the etched 'JACKO' and extended rim text [r13968254] is a similar release with extended rim text  |
+| Notes | Consists of the first three Rush albums 'Rush', 'Fly By Night' & 'Caress Of Steel'<br><br>Album 1 Recorded in Toronto, Canada, 1973, released in North America August 1974<br>Album 2 Recorded in Toronto, Canada, 1975, released in North America February 1975<br>Album 3 Recorded in Toronto, Canada, 1975, released in North America September 1975<br><br>All timings are approximate.<br><br>Issued in a gatefold sleeve.<br><br>For tracks F-I to F-VI, the title "The Fountain of Lamneth" appears on the label before the listing of each component part. However, on the inside of the gatefold it is shortened to "Fountain of Lamneth", and omitted completely from the back cover where only the individual titles are listed.<br><br>[r31108571] is a similar release without the etched 'JACKO' and extended rim text<br>[r13968254] is a similar release with extended rim text<br> |
 | Discogs URL    | [Rush - Archives](https://www.discogs.com/release/1644515-Rush-Archives) |

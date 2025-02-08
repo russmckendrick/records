@@ -1,9 +1,10 @@
 ---
 title: "Steve Mason - Brothers & Sisters"
 artist_name: "Steve Mason"
-artist: "steve-mason-2"
+artist: "steve-mason"
 album_name: "Brothers & Sisters"
 date: 2023-03-20T05:44:02.000000Z
+release_date: "2023-03-03"
 release_id: "26299913"
 slug: "brothers-sisters-26299913"
 hideSummary: true
@@ -30,34 +31,30 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Mars Man
-2. I'm On My Way
-3. No More
-4. All Over Again
-5. The People Say
-6. Let It Go
-7. Pieces Of Me
-8. Travelling Hard
-9. Brixton Fish Fry
-10. Upon My Soul
-11. Brothers & Sisters
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mars Man |  |
+| A2 | I'm On My Way |  |
+| A3 | No More |  |
+| B1 | All Over Again |  |
+| B2 | The People Say |  |
+| B3 | Let It Go |  |
+| C1 | Pieces Of Me |  |
+| C2 | Travelling Hard |  |
+| C3 | Brixton Fish Fry |  |
+| D1 | Upon My Soul |  |
+| D2 | Brothers & Sisters |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/brothers-sisters/1650378995" >}}<br>
 
 
-## Videos
-### Steve Mason - Mars Man Official Audio
-{{< youtube id="z9pomvkgFCY" title="Steve Mason - Mars Man Official Audio" >}}<br>
-### More Videos
-
-- [Steve Mason - Im On My Way Official Audio](https://www.youtube.com/watch?v=-Z3hZDb8R7o)
-- [Steve Mason feat Javed Bashir - No More Official Video](https://www.youtube.com/watch?v=PpUFg8odzPw)
-- [Steve Mason - Mars Man Official Audio](https://www.youtube.com/watch?v=z9pomvkgFCY)
-- [Steve Mason - Im On My Way Official Audio](https://www.youtube.com/watch?v=-Z3hZDb8R7o)
-- [Steve Mason feat Javed Bashir - No More Official Video](https://www.youtube.com/watch?v=PpUFg8odzPw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +65,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 2× LP Deluxe Edition (Gold) |
 | Label          | Double Six (2) |
 | Catalog Number | DS145LPX |
-| Notes | Deluxe gold double vinyl. Gatefold jacket. Includes download code & 4-panel lyric insert. |
+| Notes | Deluxe gold double vinyl. Gatefold jacket.<br>Includes download code & 4-panel lyric insert. |
 | Discogs URL    | [Steve Mason - Brothers & Sisters](https://www.discogs.com/release/26299913-Steve-Mason-2-Brothers-Sisters) |

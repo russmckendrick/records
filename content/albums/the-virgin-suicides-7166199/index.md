@@ -4,6 +4,7 @@ artist_name: "AIR"
 artist: "air"
 album_name: "The Virgin Suicides"
 date: 2017-02-15T18:29:41.000000Z
+release_date: "2019-12-04"
 release_id: "7166199"
 slug: "the-virgin-suicides-7166199"
 hideSummary: true
@@ -40,79 +41,77 @@ styles: ["Psychedelic Rock", "Score", "Downtempo", "Ambient"]
 The Virgin Suicides is a score composed by French electronic music duo Air for the 1999 film of the same name by Sofia Coppola. It was released on 23 February 2000 by Virgin Records. The album was nominated for Best Soundtrack at the 2001 Brit Awards. The French edition of Rolling Stone magazine placed The Virgin Suicides at number 49 on their list of the 100 essential French rock albums. In 2014, NME placed the album at number 11 on their "61 of the Greatest Film Soundtracks Ever" list. In 2019, Pitchfork placed the album at number four on their "Top 50 Best Movie Scores of All Time" list.
 On 3 June 2010, Air performed the full score with the band Hot Rats (with members of Supergrass) at the Cité de la Musique in Paris.
 To celebrate the 15th anniversary of the film The Virgin Suicides, a deluxe edition of the album was released in June 2015 as a two-disc set and a super deluxe box set. The former contains two studio outtakes on disc one and a bonus disc of previously unreleased live recordings, while the latter includes the album on 180-gram red vinyl, an exclusive picture disc featuring previously unreleased live recordings, the "Playground Love" EP on 180-gram red vinyl, the two-disc deluxe edition of The Virgin Suicides on CD, a 16-page booklet featuring an unpublished Air interview, a film poster, a replica VIP laminate pass and a download card.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Virgin Suicides (Original Motion Picture Score)
-2. Playground Love (3:32)
-3. Clouds Up (1:30)
-4. Bathroom Girl (2:26)
-5. Cemetary Party (2:37)
-6. Dark Messages (2:28)
-7. The Word 'Hurricane' (2:33)
-8. Dirty Trip (6:13)
-9. Highschool Lover (Theme From The Virgin Suicides) (2:42)
-10. Afternoon Sister (2:25)
-11. Ghost Song (2:16)
-12. Empty House (2:58)
-13. Dead Bodies (2:59)
-14. Suicide Underground (5:56)
-15. The Virgin Suicides Picture Disc - Live - Exclusive
-16. Playground Love (KCRW L.A Radio Jan 2000) (3:57)
-17. Dark Messages / The Word 'Hurricane' (KCRW L.A Radio Jan 2000) (4:40)
-18. Highschool Lover (KCRW L.A Radio Jan 2000) (2:41)
-19. Clouds Up (Live L.A Jan 2000) (3:15)
-20. Bathroom Girl (Live L.A Jan 2000) (2:55)
-21. Dirty Trip (Live L.A Jan 2000) (5:02)
-22. Empty House (Live L.A Jan 2000) (3:17)
-23. Dead Bodies (Live L.A Jan 2000) (2:21)
-24. Cemetary Party (Live L.A Jan 2000) (3:21)
-25. Suicide Underground (Live L.A Jan 2000) (7:01)
-26. Playground Love EP
-27. Playground Love (3:30)
-28. Playground Love (Nosferatu Remix by Flower Pistols) (3:26)
-29. Playground Love (Highschool Prom – Rob Remix) (2:26)
-30. Original Motion Picture Score
-31. Playground Love (3:32)
-32. Clouds Up (1:30)
-33. Bathroom Girl (2:26)
-34. Cemetary Party (2:37)
-35. Dark Messages (2:28)
-36. The Word 'Hurricane' (2:33)
-37. Dirty Trip (6:13)
-38. Highschool Lover (2:42)
-39. Afternoon Sister (2:25)
-40. Ghost Song (2:16)
-41. Empty House (2:58)
-42. Dead Bodies (2:59)
-43. Suicide Underground (5:56)
-44. Bonus
-45. Bathroom Girl (Demo version) (4:15)
-46. Playground Love (Vibraphone version) (3:52)
-47. Live - Exclusive
-48. Playground Love (KCRW L.A Radio Jan 2000) (3:57)
-49. Dark Messages / The Word 'Hurricane' (KCRW L.A Radio Jan 2000) (4:40)
-50. Highschool Lover (KCRW L.A Radio Jan 2000) (2:41)
-51. Clouds Up (Live L.A Jan 2000) (3:15)
-52. Bathroom Girl (Live L.A Jan 2000) (2:55)
-53. Dirty Trip (Live L.A Jan 2000) (5:02)
-54. Empty House (Live L.A Jan 2000) (3:17)
-55. Dead Bodies (Live L.A Jan 2000)	 (2:21)
-56. Cemetary Party (Live L.A Jan 2000) (3:21)
-57. Suicide Underground (Live L.A Jan 2000) (7:01)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Virgin Suicides (Original Motion Picture Score) |  |
+| LP1-AI | Playground Love | 3:32 |
+| LP1-AII | Clouds Up | 1:30 |
+| LP1-AIII | Bathroom Girl | 2:26 |
+| LP1-AIV | Cemetary Party | 2:37 |
+| LP1-AV | Dark Messages | 2:28 |
+| LP1-AVI | The Word 'Hurricane' | 2:33 |
+| LP1-AVII | Dirty Trip | 6:13 |
+| LP1-BI | Highschool Lover (Theme From The Virgin Suicides) | 2:42 |
+| LP1-BII | Afternoon Sister | 2:25 |
+| LP1-BIII | Ghost Song | 2:16 |
+| LP1-BIV | Empty House | 2:58 |
+| LP1-BV | Dead Bodies | 2:59 |
+| LP1-BVI | Suicide Underground | 5:56 |
+|  | The Virgin Suicides Picture Disc - Live - Exclusive |  |
+| LP2-AI | Playground Love (KCRW L.A Radio Jan 2000) | 3:57 |
+| LP2-AII | Dark Messages / The Word 'Hurricane' (KCRW L.A Radio Jan 2000) | 4:40 |
+| LP2-AIII | Highschool Lover (KCRW L.A Radio Jan 2000) | 2:41 |
+| LP2-AIV | Clouds Up (Live L.A Jan 2000) | 3:15 |
+| LP2-AV | Bathroom Girl (Live L.A Jan 2000) | 2:55 |
+| LP2-BI | Dirty Trip (Live L.A Jan 2000) | 5:02 |
+| LP2-BII | Empty House (Live L.A Jan 2000) | 3:17 |
+| LP2-BIII | Dead Bodies (Live L.A Jan 2000) | 2:21 |
+| LP2-BIV | Cemetary Party (Live L.A Jan 2000) | 3:21 |
+| LP2-BV | Suicide Underground (Live L.A Jan 2000) | 7:01 |
+|  | Playground Love EP |  |
+| 12"-AI | Playground Love | 3:30 |
+| 12"-BI | Playground Love (Nosferatu Remix by Flower Pistols) | 3:26 |
+| 12"-BII | Playground Love (Highschool Prom – Rob Remix) | 2:26 |
+|  | Original Motion Picture Score |  |
+| CD1-I | Playground Love | 3:32 |
+| CD1-II | Clouds Up | 1:30 |
+| CD1-III | Bathroom Girl | 2:26 |
+| CD1-IV | Cemetary Party | 2:37 |
+| CD1-V | Dark Messages | 2:28 |
+| CD1-VI | The Word 'Hurricane' | 2:33 |
+| CD1-VII | Dirty Trip | 6:13 |
+| CD1-VIII | Highschool Lover | 2:42 |
+| CD1-IX | Afternoon Sister | 2:25 |
+| CD1-X | Ghost Song | 2:16 |
+| CD1-XI | Empty House | 2:58 |
+| CD1-XII | Dead Bodies | 2:59 |
+| CD1-XIII | Suicide Underground | 5:56 |
+|  | Bonus |  |
+| CD1-XIV | Bathroom Girl (Demo version) | 4:15 |
+| CD1-XV | Playground Love (Vibraphone version) | 3:52 |
+|  | Live - Exclusive |  |
+| CD2-I | Playground Love (KCRW L.A Radio Jan 2000) | 3:57 |
+| CD2-II | Dark Messages / The Word 'Hurricane' (KCRW L.A Radio Jan 2000) | 4:40 |
+| CD2-III | Highschool Lover (KCRW L.A Radio Jan 2000) | 2:41 |
+| CD2-IV | Clouds Up (Live L.A Jan 2000) | 3:15 |
+| CD2-V | Bathroom Girl (Live L.A Jan 2000) | 2:55 |
+| CD2-VI | Dirty Trip (Live L.A Jan 2000) | 5:02 |
+| CD2-VII | Empty House (Live L.A Jan 2000) | 3:17 |
+| CD2-VIII | Dead Bodies (Live L.A Jan 2000)	 | 2:21 |
+| CD2-IX | Cemetary Party (Live L.A Jan 2000) | 3:21 |
+| CD2-X | Suicide Underground (Live L.A Jan 2000) | 7:01 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-virgin-suicides/1490089462" >}}<br>
 
 
-## Videos
-### AIR - Playground Love Official Video
-{{< youtube id="NAgX1jO3No0" title="AIR - Playground Love Official Video" >}}<br>
-### More Videos
-
-- [Air - Original Motion Picture Score for The virgin Suicides](https://www.youtube.com/watch?v=vs3gnZVA9OU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -124,5 +123,5 @@ To celebrate the 15th anniversary of the film The Virgin Suicides, a deluxe edit
 | Format         | Box Set Deluxe Edition Limited Edition (15th Anniversary), Vinyl LP Album Reissue Remastered (Red), Vinyl LP Album Picture Disc, Vinyl 12" 45 RPM EP Reissue (Red), CD Album Reissue Remastered, CD Album |
 | Label          | Aircheology |
 | Catalog Number | 0825646152339 |
-| Notes | 15th Anniversary box set of the original motion picture score for The Virgin Suicides, a film by Sofia Coppola.    This differs from [url=http://www.discogs.com/AIR-The-Virgin-Suicides/release/7129513]this version[/url] as it does not contain the DVD and the sheet detailing the contents of the box set is printed in English |
+| Notes | 15th Anniversary box set of the original motion picture score for The Virgin Suicides, a film by Sofia Coppola.<br><br>This differs from [url=http://www.discogs.com/AIR-The-Virgin-Suicides/release/7129513]this version[/url] as it does not contain the DVD and the sheet detailing the contents of the box set is printed in English |
 | Discogs URL    | [AIR - The Virgin Suicides](https://www.discogs.com/release/7166199-AIR-The-Virgin-Suicides) |

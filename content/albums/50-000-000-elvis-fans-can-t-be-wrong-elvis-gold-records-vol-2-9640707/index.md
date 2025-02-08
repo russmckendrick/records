@@ -24,39 +24,28 @@ Just how big a star was Elvis Presley in the ’50s? Consider that RCA released 
 
 
 ## Tracklisting
-1. I Need Your Love Tonight
-2. Don't
-3. Wear My Ring Around Your Neck
-4. My Wish Came True
-5. I Got Stung
-6. Hard Headed Woman *
-7. Don't Ask Me Why *
-8. One Night
-9. A Big Hunk O' Love
-10. I Beg Of You
-11. (Now And Then There's) A Fool Such As I
-12. Doncha' Think It's Time
-13. Stuck On You *
-14. It's Now Or Never *
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Need Your Love Tonight |  |
+| A2 | Don't |  |
+| A3 | Wear My Ring Around Your Neck |  |
+| A4 | My Wish Came True |  |
+| A5 | I Got Stung |  |
+| A6 | Hard Headed Woman * |  |
+| A7 | Don't Ask Me Why * |  |
+| B1 | One Night |  |
+| B2 | A Big Hunk O' Love |  |
+| B3 | I Beg Of You |  |
+| B4 | (Now And Then There's) A Fool Such As I |  |
+| B5 | Doncha' Think It's Time |  |
+| B6 | Stuck On You * |  |
+| B7 | It's Now Or Never * |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/50-000-000-elvis-fans-cant-be-wrong-elvis-gold-records-vol-2/674507376" >}}<br>
 
 
-## Videos
-### Elvis Presley - I Need Your Love Tonight Live - Official Audio
-{{< youtube id="gS5O_wgzKqg" title="Elvis Presley - I Need Your Love Tonight Live - Official Audio" >}}<br>
-### More Videos
-
-- [Elvis Presley - Dont Official Lyric Video](https://www.youtube.com/watch?v=q6UO6YcT3PE)
-- [Wear My Ring Around Your Neck](https://www.youtube.com/watch?v=blmeWAWjlyk)
-- [My Wish Came True](https://www.youtube.com/watch?v=OIJsor6_r28)
-- [Elvis Presley - I Got Stung Official Audio](https://www.youtube.com/watch?v=xzrdENvsEyU)
-- [Elvis Presley - One Night Official Audio](https://www.youtube.com/watch?v=Hb18smk-GvA)
-- [Elvis Presley - A Big Hunk O Love Official Audio](https://www.youtube.com/watch?v=VqyVe8tfLm0)
-- [Elvis Presley - I Beg of You Official Audio](https://www.youtube.com/watch?v=ejbiae5uX-U)
-- [Elvis Presley - Now and Then Theres A Fool Such as I Official Audio](https://www.youtube.com/watch?v=-unOfZiTM_0)
-- [Elvis Presley - Doncha Think Its Time Official Audio](https://www.youtube.com/watch?v=IP347ysKZHo)
 
 ## Release Images
 {{< imageGrid >}}

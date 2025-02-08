@@ -4,6 +4,7 @@ artist_name: "Primal Scream"
 artist: "primal-scream"
 album_name: "Live At Levitation"
 date: 2022-07-31T06:15:56.000000Z
+release_date: "2021-11-19"
 release_id: "21926146"
 slug: "live-at-levitation-21926146"
 hideSummary: true
@@ -23,34 +24,28 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Jailbird
-2. Accelerator
-3. Kill All Hippies
-4. Burning Wheel
-5. Shoot Speed / Kill Light
-6. Higher Than The Sun
-7. Country Girl
-8. Loaded
-9. Movin' On Up
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Jailbird |  |
+| A2 | Accelerator |  |
+| A3 | Kill All Hippies |  |
+| A4 | Burning Wheel |  |
+| A5 | Shoot Speed / Kill Light |  |
+| B1 | Higher Than The Sun |  |
+| B2 | Country Girl |  |
+| B3 | Loaded |  |
+| B4 | Movin' On Up |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-levitation/1578313533" >}}<br>
 
 
-## Videos
-### Primal Scream - Jailbird Live at LEVITATION
-{{< youtube id="1RAa5b1Y31M" title="Primal Scream - Jailbird Live at LEVITATION" >}}<br>
-### More Videos
-
-- [Primal Scream - Accelerator Live at LEVITATION](https://www.youtube.com/watch?v=qMBwxCnbLU4)
-- [Primal Scream - Accelerator Live at LEVITATION](https://www.youtube.com/watch?v=qMBwxCnbLU4)
-- [PRIMAL SCREAM - HIGHER THAN THE SUN - LIVE AT LEVITATION](https://www.youtube.com/watch?v=ixcv6VPIRXg)
-- [Primal Scream - Jailbird Live at LEVITATION](https://www.youtube.com/watch?v=1RAa5b1Y31M)
-- [Primal Scream - Loaded  -  Recorded at Levitation 2015 in Austin TX  Saturday May 9 2015](https://www.youtube.com/watch?v=SkpdvXnm-aU)
-- [Primal Scream - Swastika Eyes  Live at Austin Psych Fest Levitation May 9th 2015](https://www.youtube.com/watch?v=_ChsXo3TypQ)
-- [Primal Scream - Loaded Live at Austin Psych Fest Levitation May 9th 2015](https://www.youtube.com/watch?v=2_FufLgbZk8)
 
 ## Release Images
 {{< imageGrid >}}

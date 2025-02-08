@@ -4,6 +4,7 @@ artist_name: "Bent Knee"
 artist: "bent-knee"
 album_name: "Land Animal"
 date: 2017-07-02T11:14:49.000000Z
+release_date: "2017-06-23"
 release_id: "10442927"
 slug: "land-animal-10442927"
 hideSummary: true
@@ -28,52 +29,42 @@ styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Terror Bird
-2. Hole
-3. Holy Ghost
-4. Insides In
-5. These Hands
-6. Land Animal
-7. Time Deer
-8. Belly Side Up
-9. The Well
-10. Boxes
-11. Terror Bird (4:09)
-12. Hole (3:22)
-13. Holy Ghost (5:33)
-14. Insides In (6:30)
-15. These Hands (5:37)
-16. Land Animal (5:14)
-17. Time Deer (4:19)
-18. Belly Side Up (4:15)
-19. The Well (5:31)
-20. Boxes (12:44)
-21. Bonus Tracks
-22. Way Too Long (Sylvia Massy Treatment) (5:20)
-23. Land Animal (Ben Levin Remix) (4:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Terror Bird |  |
+| A2 | Hole |  |
+| A3 | Holy Ghost |  |
+| A4 | Insides In |  |
+| A5 | These Hands |  |
+| B1 | Land Animal |  |
+| B2 | Time Deer |  |
+| B3 | Belly Side Up |  |
+| B4 | The Well |  |
+| B5 | Boxes |  |
+| CD-1 | Terror Bird | 4:09 |
+| CD-2 | Hole | 3:22 |
+| CD-3 | Holy Ghost | 5:33 |
+| CD-4 | Insides In | 6:30 |
+| CD-5 | These Hands | 5:37 |
+| CD-6 | Land Animal | 5:14 |
+| CD-7 | Time Deer | 4:19 |
+| CD-8 | Belly Side Up | 4:15 |
+| CD-9 | The Well | 5:31 |
+| CD-10 | Boxes | 12:44 |
+|  | Bonus Tracks |  |
+| CD-11 | Way Too Long (Sylvia Massy Treatment) | 5:20 |
+| CD-12 | Land Animal (Ben Levin Remix) | 4:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/land-animal/1225586747" >}}<br>
 
 
-## Videos
-### Insides In
-{{< youtube id="se6f2_rAfh4" title="Insides In" >}}<br>
-### More Videos
-
-- [Hole](https://www.youtube.com/watch?v=YcxA1O80BjA)
-- [Holy Ghost](https://www.youtube.com/watch?v=Io8chDO3u2E)
-- [The Well](https://www.youtube.com/watch?v=dO2ZzHyaqcA)
-- [These Hands](https://www.youtube.com/watch?v=vI6qzBpuGtQ)
-- [Belly Side Up](https://www.youtube.com/watch?v=3nEXBoos3Cg)
-- [Bent Knee - Terror Bird official video](https://www.youtube.com/watch?v=44juYfgipU4)
-- [Bent Knee - Land Animal official video](https://www.youtube.com/watch?v=ocn0gkJ2sMY)
-- [Bent Knee - Time Deer Official Video](https://www.youtube.com/watch?v=JjAnRiMjipw)
-- [BENT KNEE - Boxes OFFICIAL VIDEO](https://www.youtube.com/watch?v=T3Zkqgw33vk)
-- [Land Animal Ben Levin Remix by Bent Knee](https://www.youtube.com/watch?v=vb9H6Dnlb9U)
-- [Bent Knee - Land Animal official video](https://www.youtube.com/watch?v=ocn0gkJ2sMY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +75,5 @@ styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 | Format         | Vinyl LP Album (White), CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 479 |
-| Notes | White vinyl + CD of the same album with bonus tracks housed in a clear plastic sleeve. Limited edition of 300 copies.  Bonus tracks listed on front sticker |
+| Notes | White vinyl + CD of the same album with bonus tracks housed in a clear plastic sleeve.<br>Limited edition of 300 copies.<br><br>Bonus tracks listed on front sticker |
 | Discogs URL    | [Bent Knee - Land Animal](https://www.discogs.com/release/10442927-Bent-Knee-Land-Animal) |

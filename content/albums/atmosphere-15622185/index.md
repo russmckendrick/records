@@ -4,6 +4,7 @@ artist_name: "Joy Division"
 artist: "joy-division"
 album_name: "Atmosphere"
 date: 2020-07-17T12:25:03.000000Z
+release_date: "2020-04-17"
 release_id: "15622185"
 slug: "atmosphere-15622185"
 hideSummary: true
@@ -26,21 +27,21 @@ styles: ["New Wave", "Post-Punk"]
 The single was re-released in 1988 to coincide with the release of the compilation album Substance, and a music video was produced for the song.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Atmosphere
-2. She's Lost Control
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Atmosphere |  |
+| B | She's Lost Control |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/atmosphere-joy-division-cover-single/1508055731" >}}<br>
 
-
-## Videos
-### Joy Division - Atmosphere OFFICIAL MUSIC VIDEO
-{{< youtube id="1EdUjlawLJM" title="Joy Division - Atmosphere OFFICIAL MUSIC VIDEO" >}}<br>
 
 
 ## Release Images

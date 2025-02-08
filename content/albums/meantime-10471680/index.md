@@ -1,9 +1,10 @@
 ---
 title: "Helmet - Meantime"
 artist_name: "Helmet"
-artist: "helmet-2"
+artist: "helmet"
 album_name: "Meantime"
 date: 2017-06-25T13:42:40.000000Z
+release_date: "1992-01-01"
 release_id: "10471680"
 slug: "meantime-10471680"
 hideSummary: true
@@ -26,33 +27,30 @@ Despite initially only achieving moderate commercial success, peaking at number 
 The lead single from Meantime, "Unsung", was a charting success on the US Modern Rock Tracks chart, and remains Helmet's best-known song. Music videos were also made for "Unsung", "Give It" and "In the Meantime".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. In The Meantime (3:11)
-2. Ironhead (3:23)
-3. Give It (4:17)
-4. Unsung (3:59)
-5. Turned Out (4:13)
-6. He Feels Bad (4:02)
-7. Better (3:09)
-8. You Borrowed (3:49)
-9. FBLA II (3:22)
-10. Role Model (3:31)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | In The Meantime | 3:11 |
+| A2 | Ironhead | 3:23 |
+| A3 | Give It | 4:17 |
+| A4 | Unsung | 3:59 |
+| A5 | Turned Out | 4:13 |
+| B1 | He Feels Bad | 4:02 |
+| B2 | Better | 3:09 |
+| B3 | You Borrowed | 3:49 |
+| B4 | FBLA II | 3:22 |
+| B5 | Role Model | 3:31 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/meantime/1440915669" >}}<br>
 
 
-## Videos
-### Helmet - In The Meantime Official Music Video
-{{< youtube id="9346rQ1d8ik" title="Helmet - In The Meantime Official Music Video" >}}<br>
-### More Videos
-
-- [Iron Head](https://www.youtube.com/watch?v=HvVj4p9p3qg)
-- [Helmet - Unsung Official Music Video](https://www.youtube.com/watch?v=jBfygUiS50g)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +62,5 @@ The lead single from Meantime, "Unsung", was a charting success on the US Modern
 | Format         | Vinyl LP Limited Edition Reissue (Red And Blue 50 / 50 Split) |
 | Label          | Interscope Records |
 | Catalog Number | B0026776-01 |
-| Notes | Recorded at Fun City, except "In the Meantime" recorded at Chicago Recording Company.  The catalog number B0026776-01 appears on the spine, the rear of the sleeve and the hype sticker. The catalog number B0026621-01 appears on the disc.  All songs copyright 1992 P. Hamilton, except "Unsung" copyright 1991 P. Hamilton, Warner-Tamerlane Publishing Corporation/Ver Music/Headlift Music (BMI)  ℗ 1992 © 2017 Interscope Records. |
+| Notes | Recorded at Fun City, except "In the Meantime" recorded at Chicago Recording Company.<br><br>The catalog number B0026776-01 appears on the spine, the rear of the sleeve and the hype sticker.<br>The catalog number B0026621-01 appears on the disc.<br><br>All songs copyright 1992 P. Hamilton, except "Unsung" copyright 1991 P. Hamilton, Warner-Tamerlane Publishing Corporation/Ver Music/Headlift Music (BMI)<br><br>℗ 1992 © 2017 Interscope Records. |
 | Discogs URL    | [Helmet - Meantime](https://www.discogs.com/release/10471680-Helmet-2-Meantime) |

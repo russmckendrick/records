@@ -4,6 +4,7 @@ artist_name: "The Dears"
 artist: "the-dears"
 album_name: "Missiles"
 date: 2018-11-26T19:24:47.000000Z
+release_date: "2008-10-20"
 release_id: "12677910"
 slug: "missiles-12677910"
 hideSummary: true
@@ -19,29 +20,31 @@ styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Part I
-2. Disclaimer (6:44)
-3. Dream Job (4:32)
-4. Money Babies (4:17)
-5. Berlin Heart (4:26)
-6. Lights Off (8:02)
-7. Part II
-8. Crisis 1&2 (3:43)
-9. Demons (5:00)
-10. Missiles (5:01)
-11. Meltdown In A Major (5:09)
-12. Part III
-13. Saviour (11:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Part I |  |
+| A1 | Disclaimer | 6:44 |
+| A2 | Dream Job | 4:32 |
+| A3 | Money Babies | 4:17 |
+| B1 | Berlin Heart | 4:26 |
+| B2 | Lights Off | 8:02 |
+|  | Part II |  |
+| C1 | Crisis 1&2 | 3:43 |
+| C2 | Demons | 5:00 |
+| C3 | Missiles | 5:01 |
+| D1 | Meltdown In A Major | 5:09 |
+|  | Part III |  |
+| D2 | Saviour | 11:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/missiles/1770397728" >}}<br>
 
-
-## Videos
-### The Dears - Missiles
-{{< youtube id="dcxOp26H2OM" title="The Dears - Missiles" >}}<br>
 
 
 ## Release Images
@@ -53,5 +56,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl 2× LP Album |
 | Label          | Dangerbird Records |
 | Catalog Number | DGB033 |
-| Notes | ℗ © 2018 Dangerbird Records LLC  Tenth Anniversary First Edition on Vinyl LP  |
+| Notes | ℗ © 2018 Dangerbird Records LLC<br><br>Tenth Anniversary First Edition on Vinyl LP  |
 | Discogs URL    | [The Dears - Missiles](https://www.discogs.com/release/12677910-The-Dears-Missiles) |

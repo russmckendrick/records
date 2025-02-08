@@ -4,6 +4,7 @@ artist_name: "Genesis"
 artist: "genesis"
 album_name: "Foxtrot"
 date: 2015-09-16T18:55:19.000000Z
+release_date: "2021-12-10"
 release_id: "715057"
 slug: "foxtrot-715057"
 hideSummary: true
@@ -30,28 +31,26 @@ The album was recorded during the tour in support of their previous album, Nurse
 Foxtrot was the first Genesis album to chart in the UK, reaching No. 12, and received largely positive reviews. It reached No. 15 in Italy, where the band had been popular for some time. The album has continued to attract critical praise and was reissued with a new stereo and 5.1 surround sound mix as part of their 2008 Genesis 1970–1975 box set.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Watcher Of The Skies
-2. Time Table
-3. Get 'Em Out By Friday
-4. Can-Utility And The Coastliners
-5. Horizons
-6. Supper's Ready
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Watcher Of The Skies |  |
+| A2 | Time Table |  |
+| A3 | Get 'Em Out By Friday |  |
+| A4 | Can-Utility And The Coastliners |  |
+| B1 | Horizons |  |
+|  | Supper's Ready |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gazzara-plays-genesis-foxtrot/1596485102" >}}<br>
 
 
-## Videos
-### Genesis - Suppers Ready Official Audio
-{{< youtube id="9hKYpNpajpI" title="Genesis - Suppers Ready Official Audio" >}}<br>
-### More Videos
-
-- [Genesis - Suppers Ready Official Audio](https://www.youtube.com/watch?v=9hKYpNpajpI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +62,5 @@ Foxtrot was the first Genesis album to chart in the UK, reaching No. 12, and r
 | Format         | Vinyl LP Album (Textured Gatefold, Red Spine Text) |
 | Label          | Charisma |
 | Catalog Number | CAS 1058 |
-| Notes | Original UK-release with outside textured gatefold sleeve, red spine text & large mad hatter labels. Stamped A1-U Porky/B1-U Pecko runouts. First catalogue number CAS 1058 on cover, 2nd CAS .1058 on labels. Red Charisma paper inner sleeve.**  Track durations are not given on this release.  Labels: • ℗ 1972 • Manufactured and distributed by B&C Records Ltd.  Sleeve: • Recorded at Island Studios, London. • Marketed by B&C Records Ltd., 37 Soho Square, London, W1. • Printed & made by the E. J. Day Group, London & Bedford • Michael Rutherford is listed as Micheal Rutherford.  **Direct quote from ‘The B&C Discography 1968 to 1975’:- “Original issue (“A-1U” and “B-1U” matrix copies) in textured sleeve included either a plain white inner sleeve or the “Charisma puts a little colour in your cheeks” advertising inner (the advertising inner sleeve was most likely not included with the very first batch)”  Runouts are stamped, except for the PORKY/PECKO etchings. Matrix number on labels is in parentheses. |
+| Notes | Original UK-release with outside textured gatefold sleeve, red spine text & large mad hatter labels.<br>Stamped A1-U Porky/B1-U Pecko runouts.<br>First catalogue number CAS 1058 on cover, 2nd CAS .1058 on labels.<br>Red Charisma paper inner sleeve.**<br><br>Track durations are not given on this release.<br><br>Labels:<br>• ℗ 1972<br>• Manufactured and distributed by B&C Records Ltd.<br><br>Sleeve:<br>• Recorded at Island Studios, London.<br>• Marketed by B&C Records Ltd., 37 Soho Square, London, W1.<br>• Printed & made by the E. J. Day Group, London & Bedford<br>• Michael Rutherford is listed as Micheal Rutherford.<br><br>**Direct quote from ‘The B&C Discography 1968 to 1975’:- “Original issue (“A-1U” and “B-1U” matrix copies) in textured sleeve included either a plain white inner sleeve or the “Charisma puts a little colour in your cheeks” advertising inner (the advertising inner sleeve was most likely not included with the very first batch)”<br><br>Runouts are stamped, except for the PORKY/PECKO etchings. Matrix number on labels is in parentheses. |
 | Discogs URL    | [Genesis - Foxtrot](https://www.discogs.com/release/715057-Genesis-Foxtrot) |

@@ -4,6 +4,7 @@ artist_name: "Menswear"
 artist: "menswear"
 album_name: "Nuisance"
 date: 2020-10-28T12:49:20.000000Z
+release_date: "1995-01-01"
 release_id: "15932078"
 slug: "nuisance-15932078"
 hideSummary: true
@@ -25,36 +26,33 @@ styles: ["Indie Rock", "Britpop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. 125 West 3rd Street (3:05)
-2. I'll Manage Somehow (2:35)
-3. Sleeping In (4:42)
-4. Little Miss Pinpoint Eyes (2:06)
-5. Daydreamer (2:16)
-6. Hollywood Girl (2:18)
-7. Being Brave (4:02)
-8. Around You Again (3:23)
-9. The One (3:43)
-10. Stardust (2:55)
-11. Piece Of Me (3:02)
-12. Stardust (Reprise) (1:12)
-13. Bones and Red Meat
-14. We Love You
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 125 West 3rd Street | 3:05 |
+| A2 | I'll Manage Somehow | 2:35 |
+| A3 | Sleeping In | 4:42 |
+| A4 | Little Miss Pinpoint Eyes | 2:06 |
+| A5 | Daydreamer | 2:16 |
+| A6 | Hollywood Girl | 2:18 |
+| B1 | Being Brave | 4:02 |
+| B2 | Around You Again | 3:23 |
+| B3 | The One | 3:43 |
+| B4 | Stardust | 2:55 |
+| B5 | Piece Of Me | 3:02 |
+| B6 | Stardust (Reprise) | 1:12 |
+| B7 | Bones and Red Meat |  |
+| B8 | We Love You |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nuisance/1320067263" >}}<br>
 
 
-## Videos
-### MENSWEAR-BEING BRAVE
-{{< youtube id="NO4_BjbLCqY" title="MENSWEAR-BEING BRAVE" >}}<br>
-### More Videos
-
-- [Menswear - Ill Manage Somehow](https://www.youtube.com/watch?v=ix469VbXjjM)
-- [Menswear - Sleeping in](https://www.youtube.com/watch?v=vICR80UFv8g)
-- [Menswear - Daydreamer Official Music Video](https://www.youtube.com/watch?v=oRwlD6qyMF0)
-- [Menswear - Stardust Official Video](https://www.youtube.com/watch?v=Zfdao4uYFyc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +63,5 @@ styles: ["Indie Rock", "Britpop"]
 | Format         | Vinyl LP Album Limited Edition Reissue (Orange, 180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC 654 |
-| Notes | Record Store Day 2020 DROP#3 release.  Runouts are stamped |
+| Notes | Record Store Day 2020 DROP#3 release.<br><br>Runouts are stamped |
 | Discogs URL    | [Menswear - Nuisance](https://www.discogs.com/release/15932078-Menswer-Nuisance) |

@@ -4,6 +4,7 @@ artist_name: "John Carpenter"
 artist: "john-carpenter"
 album_name: "Lost Themes II"
 date: 2018-02-17T10:06:15.000000Z
+release_date: "2024-05-03"
 release_id: "8362668"
 slug: "lost-themes-ii-8362668"
 hideSummary: true
@@ -23,55 +24,31 @@ styles: ["Dark Ambient", "Synthwave", "Electro"]
 ---
 
 Lost Themes II is the second studio album by American film director and composer John Carpenter. It was released on April 15, 2016, through Sacred Bones Records. The album was created in collaboration with Carpenter's son Cody Carpenter and his godson Daniel Davies.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Distant Dream
-2. White Pulse
-3. Persia Rising
-4. Angel's Asylum
-5. Hofner Dawn
-6. Windy Death
-7. Dark Blues
-8. Virtual Survivor
-9. Bela Lugosi
-10. Last Sunrise
-11. Utopian Facade
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Distant Dream |  |
+| A2 | White Pulse |  |
+| A3 | Persia Rising |  |
+| A4 | Angel's Asylum |  |
+| A5 | Hofner Dawn |  |
+| A6 | Windy Death |  |
+| B1 | Dark Blues |  |
+| B2 | Virtual Survivor |  |
+| B3 | Bela Lugosi |  |
+| B4 | Last Sunrise |  |
+| B5 | Utopian Facade |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lost-themes-iv-noir/1729789020" >}}<br>
 
 
-## Videos
-### John Carpenter Lost themes II - Distant Dream
-{{< youtube id="sAfVnzSVrBY" title="John Carpenter Lost themes II - Distant Dream" >}}<br>
-### More Videos
-
-- [John Carpenter Lost themes II - White Pulse](https://www.youtube.com/watch?v=gqXU2iUj39E)
-- [John Carpenter - Lost Themes II - Persia Rising](https://www.youtube.com/watch?v=vPtfdgpUtqc)
-- [John Carpenter Lost Themes II - Angels Asylum](https://www.youtube.com/watch?v=ilf0JQxIBEk)
-- [John Carpenter Lost Themes II - Hofner Dawn](https://www.youtube.com/watch?v=2Qcz15Ash7U)
-- [John Carpenter Lost Themes II - Windy Death](https://www.youtube.com/watch?v=DSeyGqv1qMk)
-- [John Carpenter Lost Themes II - Dark Blues](https://www.youtube.com/watch?v=XzMo4vAOEqs)
-- [John Carpenter Lost Themes II - Virtual Survivor](https://www.youtube.com/watch?v=fPC60B1v2Rc)
-- [John Carpenter Lost Themes II - Bela Lugosi](https://www.youtube.com/watch?v=hGFHL1VPQzI)
-- [John Carpenter Lost Themes II - Last Sunrise](https://www.youtube.com/watch?v=qTzdyFQWQkw)
-- [John Carpenter Lost Themes II - Utopian Facade](https://www.youtube.com/watch?v=UlNikrTNVV0)
-- [John Carpenter Lost Themes II - Real Xeno](https://www.youtube.com/watch?v=olfs-L9GSQI)
-- [John Carpenter Lost themes II - Distant Dream](https://www.youtube.com/watch?v=sAfVnzSVrBY)
-- [John Carpenter Lost themes II - White Pulse](https://www.youtube.com/watch?v=gqXU2iUj39E)
-- [John Carpenter - Lost Themes II - Persia Rising](https://www.youtube.com/watch?v=vPtfdgpUtqc)
-- [John Carpenter Lost Themes II - Angels Asylum](https://www.youtube.com/watch?v=ilf0JQxIBEk)
-- [John Carpenter Lost Themes II - Hofner Dawn](https://www.youtube.com/watch?v=2Qcz15Ash7U)
-- [John Carpenter Lost Themes II - Windy Death](https://www.youtube.com/watch?v=DSeyGqv1qMk)
-- [John Carpenter Lost Themes II - Dark Blues](https://www.youtube.com/watch?v=XzMo4vAOEqs)
-- [John Carpenter Lost Themes II - Virtual Survivor](https://www.youtube.com/watch?v=fPC60B1v2Rc)
-- [John Carpenter Lost Themes II - Bela Lugosi](https://www.youtube.com/watch?v=hGFHL1VPQzI)
-- [John Carpenter Lost Themes II - Last Sunrise](https://www.youtube.com/watch?v=qTzdyFQWQkw)
-- [John Carpenter Lost Themes II - Utopian Facade](https://www.youtube.com/watch?v=UlNikrTNVV0)
-- [John Carpenter Lost Themes II - Real Xeno](https://www.youtube.com/watch?v=olfs-L9GSQI)
 
 ## Release Images
 {{< imageGrid >}}

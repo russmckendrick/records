@@ -4,6 +4,7 @@ artist_name: "Orchestral Manoeuvres In The Dark"
 artist: "orchestral-manoeuvres-in-the-dark"
 album_name: "Liberator"
 date: 2022-07-31T06:15:26.000000Z
+release_date: "1993-01-01"
 release_id: "19761730"
 slug: "liberator-19761730"
 hideSummary: true
@@ -25,40 +26,31 @@ styles: ["Synth-pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Stand Above Me (3:33)
-2. Everyday (3:57)
-3. King Of Stone (4:17)
-4. Dollar Girl (4:19)
-5. Dream Of Me (Based On Love's Theme) (4:13)
-6. Sunday Morning (3:23)
-7. Agnus Dei (3:39)
-8. Love And Hate You (3:18)
-9. Heaven Is (4:30)
-10. Best Years Of Our Lives (4:35)
-11. Christine (5:04)
-12. Only Tears (4:14)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Stand Above Me | 3:33 |
+| A2 | Everyday | 3:57 |
+| A3 | King Of Stone | 4:17 |
+| A4 | Dollar Girl | 4:19 |
+| A5 | Dream Of Me (Based On Love's Theme) | 4:13 |
+| A6 | Sunday Morning | 3:23 |
+| B1 | Agnus Dei | 3:39 |
+| B2 | Love And Hate You | 3:18 |
+| B3 | Heaven Is | 4:30 |
+| B4 | Best Years Of Our Lives | 4:35 |
+| B5 | Christine | 5:04 |
+| B6 | Only Tears | 4:14 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/liberator/728324593" >}}<br>
 
 
-## Videos
-### Dream Of Me Based On Loves Theme
-{{< youtube id="Vc-d3FGoxDI" title="Dream Of Me Based On Loves Theme" >}}<br>
-### More Videos
-
-- [Orchestral Manoeuvres In The Dark - Stand Above Me](https://www.youtube.com/watch?v=HewK0qkT7OI)
-- [Love And Hate You](https://www.youtube.com/watch?v=WoIo7_zvBuE)
-- [Best Years Of Our Lives](https://www.youtube.com/watch?v=xY1fe9h7l7E)
-- [Agnus Dei](https://www.youtube.com/watch?v=5ScXTwAF8TY)
-- [Heaven Is](https://www.youtube.com/watch?v=8Q13k_EQwyA)
-- [Stand Above Me](https://www.youtube.com/watch?v=cTrkwjwasB8)
-- [Only Tears](https://www.youtube.com/watch?v=duHtik7Ph48)
-- [King Of Stone](https://www.youtube.com/watch?v=pLh8r5yNXQU)
-- [Dollar Girl](https://www.youtube.com/watch?v=KT-1fnFOzuM)
-- [Christine](https://www.youtube.com/watch?v=oh4JiRbgpMY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +61,5 @@ styles: ["Synth-pop"]
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | EMI |
 | Catalog Number | 0602435422497 |
-| Notes | An EMI release. ℗ 2021 Virgin Records Ltd. © 2021 Virgin Records Ltd. Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. Includes download card (WAV files). |
+| Notes | An EMI release.<br>℗ 2021 Virgin Records Ltd.<br>© 2021 Virgin Records Ltd.<br>Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands.<br>Made in Germany.<br>Includes download card (WAV files). |
 | Discogs URL    | [Orchestral Manoeuvres In The Dark - Liberator](https://www.discogs.com/release/19761730-OMD-Liberator) |

@@ -4,6 +4,7 @@ artist_name: "Aphex Twin"
 artist: "aphex-twin"
 album_name: "Blackbox Life Recorder 21f / In A Room7 F760"
 date: 2023-07-28T05:33:20.000000Z
+release_date: "2023-07-28"
 release_id: "27636432"
 slug: "blackbox-life-recorder-21f-in-a-room7-f760-27636432"
 hideSummary: true
@@ -29,32 +30,24 @@ styles: ["IDM", "Acid", "Glitch"]
 ---
 
 Blackbox Life Recorder 21f / In a Room7 F760 is an extended play record by the British electronic music artist Aphex Twin. It was released on 28 July 2023 on Warp. It was preceded by the release of the first track and single "Blackbox Life Recorder 21f" on 21 June 2023. The EP contains four tracks, including an alternate "Parallax mix" of "Blackbox Life Recorder 21f" as the final track.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Blackbox Life Recorder 21f
-2. Zin2 Test5
-3. In A Room7 F760
-4. Blackbox Life Recorder 22 (Parallax Mix)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Blackbox Life Recorder 21f |  |
+| A2 | Zin2 Test5 |  |
+| AA1 | In A Room7 F760 |  |
+| AA2 | Blackbox Life Recorder 22 (Parallax Mix) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blackbox-life-recorder-21f-in-a-room7-f760-ep/1689421982" >}}<br>
 
 
-## Videos
-### Aphex Twin - Blackbox Life Recorder 21f Official Video
-{{< youtube id="e_Ue_P7vcRE" title="Aphex Twin - Blackbox Life Recorder 21f Official Video" >}}<br>
-### More Videos
-
-- [Aphex Twin - in a room7 F760 Official Audio](https://www.youtube.com/watch?v=gTBirmyzUbU)
-- [Aphex Twin - Blackbox Life Recorder 21f Official Audio](https://www.youtube.com/watch?v=mEkZbWYUego)
-- [Aphex Twin - Blackbox Life Recorder 22 Parallax Mix Official Audio](https://www.youtube.com/watch?v=QNLpJ7di6Rs)
-- [Aphex Twin - Blackbox Life Recorder 21f Official Video](https://www.youtube.com/watch?v=e_Ue_P7vcRE)
-- [Aphex Twin - in a room7 F760 Official Audio](https://www.youtube.com/watch?v=gTBirmyzUbU)
-- [Aphex Twin - Blackbox Life Recorder 21f Official Audio](https://www.youtube.com/watch?v=mEkZbWYUego)
-- [Aphex Twin - Blackbox Life Recorder 22 Parallax Mix Official Audio](https://www.youtube.com/watch?v=QNLpJ7di6Rs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +59,5 @@ Blackbox Life Recorder 21f / In a Room7 F760 is an extended play record by the B
 | Format         | Vinyl 12" 45 RPM EP |
 | Label          | Warp Records |
 | Catalog Number | WAP480 |
-| Notes | Black vinyl pressing. Printed inner sleeve packed inside 6-panel fold-out anamorphic diorama.  Resealable bag includes barcode sticker and sticker with track titles and credits.  Side breaks on sticker exhibited as Side A and Side AA.  Both sides of variant 2 has mirrored. Side A has 2= (mirrored) and Side AA has 1I (mirrored). |
+| Notes | Black vinyl pressing. Printed inner sleeve packed inside 6-panel fold-out anamorphic diorama.<br><br>Resealable bag includes barcode sticker and sticker with track titles and credits.<br><br>Side breaks on sticker exhibited as Side A and Side AA.<br><br>Both sides of variant 2 has mirrored. Side A has 2= (mirrored) and Side AA has 1I (mirrored). |
 | Discogs URL    | [Aphex Twin - Blackbox Life Recorder 21f / In A Room7 F760](https://www.discogs.com/release/27636432-Aphex-Twin-Blackbox-Life-Recorder-21f-In-A-Room7-F760) |

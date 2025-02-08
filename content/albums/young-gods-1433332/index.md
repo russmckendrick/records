@@ -4,6 +4,7 @@ artist_name: "Little Angels"
 artist: "little-angels"
 album_name: "Young Gods"
 date: 2016-04-04T21:20:19.000000Z
+release_date: "1991-01-01"
 release_id: "1433332"
 slug: "young-gods-1433332"
 hideSummary: true
@@ -27,32 +28,32 @@ The Young Gods are a Swiss industrial rock band from Fribourg, formed in 1985. T
 The band's music is largely based on sampling and sound manipulation; the tracks are constructed from various samples, such as distorted guitar riffs and string sections. Their later releases have incorporated elements from ambient and electronic music. Their sample-based approach to rock music influenced numerous musicians such as David Bowie, The Edge and Mike Patton.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Back Door Man (6:00)
-2. Boneyard (5:05)
-3. Young Gods (Stand Up, Stand Up) (4:27)
-4. I Aint't Gonna Cry (4:37)
-5. The Wildside Of Life (3:19)
-6. Product Of The Working Class (4:41)
-7. That's My Kinda Life (3:11)
-8. Juvenile Offender (4:54)
-9. Love Is A Gun (4:08)
-10. Sweet Love Sedation (3:58)
-11. Smoke In My Eyes (3:37)
-12. Natural Born Fighter (4:15)
-13. Feels Like The World Has Come Undone (4:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Back Door Man | 6:00 |
+| A2 | Boneyard | 5:05 |
+| A3 | Young Gods (Stand Up, Stand Up) | 4:27 |
+| A4 | I Aint't Gonna Cry | 4:37 |
+| A5 | The Wildside Of Life | 3:19 |
+| A6 | Product Of The Working Class | 4:41 |
+| B1 | That's My Kinda Life | 3:11 |
+| B2 | Juvenile Offender | 4:54 |
+| B3 | Love Is A Gun | 4:08 |
+| B4 | Sweet Love Sedation | 3:58 |
+| B5 | Smoke In My Eyes | 3:37 |
+| B6 | Natural Born Fighter | 4:15 |
+| B7 | Feels Like The World Has Come Undone | 4:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/young-gods/1443369213" >}}<br>
 
-
-## Videos
-### Little Angels - Young Gods
-{{< youtube id="dysWRyP3Ung" title="Little Angels - Young Gods" >}}<br>
 
 
 ## Release Images

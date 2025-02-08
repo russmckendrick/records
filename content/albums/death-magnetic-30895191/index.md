@@ -35,20 +35,22 @@ Death Magnetic made Metallica the first band to achieve five consecutive number-
 
 
 ## Tracklisting
-1. That Was Just Your Life
-2. The End Of The Line
-3. Broken, Beat & Scarred
-4. The Day That Never Comes
-5. All Nightmare Long
-6. Cyanide
-7. The Unforgiven III
-8. The Judas Kiss
-9. Suicide & Redemption
-10. My Apocalypse
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | That Was Just Your Life |  |
+| A2 | The End Of The Line |  |
+| A3 | Broken, Beat & Scarred |  |
+| B1 | The Day That Never Comes |  |
+| B2 | All Nightmare Long |  |
+| C1 | Cyanide |  |
+| C2 | The Unforgiven III |  |
+| C3 | The Judas Kiss |  |
+| D1 | Suicide & Redemption |  |
+| D2 | My Apocalypse |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/death-magnetic/1440736279" >}}<br>
-
 
 
 

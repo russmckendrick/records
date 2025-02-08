@@ -4,6 +4,7 @@ artist_name: "Ian Dury"
 artist: "ian-dury"
 album_name: "New Boots And Panties!!"
 date: 2016-01-07T16:18:51.000000Z
+release_date: "1977-09-30"
 release_id: "392738"
 slug: "new-boots-and-panties-392738"
 hideSummary: true
@@ -29,54 +30,30 @@ The album's title derives from Dury's habit of buying clothes second hand and re
 New Boots and Panties!! has been reissued several times, including a three-disc edition for its 30th anniversary and a five-disc box set for its 40th anniversary.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Wake Up And Make Love With Me (4:30)
-2. Sweet Gene Vincent (3:30)
-3. I'm Partial To Your Abracadabra (3:30)
-4. My Old Man (3:30)
-5. Billericay Dickie (4:00)
-6. Clevor Trever (5:00)
-7. If I Was With A Woman (3:30)
-8. Blockheads (4:00)
-9. Plaistow Patricia (4:00)
-10. Blackmail Man (2:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Wake Up And Make Love With Me | 4:30 |
+| A2 | Sweet Gene Vincent | 3:30 |
+| A3 | I'm Partial To Your Abracadabra | 3:30 |
+| A4 | My Old Man | 3:30 |
+| A5 | Billericay Dickie | 4:00 |
+| B1 | Clevor Trever | 5:00 |
+| B2 | If I Was With A Woman | 3:30 |
+| B3 | Blockheads | 4:00 |
+| B4 | Plaistow Patricia | 4:00 |
+| B5 | Blackmail Man | 2:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/new-boots-and-panties/1488495874" >}}<br>
 
 
-## Videos
-### Wake Up and Make Love with Me
-{{< youtube id="QON_NhWRnJ8" title="Wake Up and Make Love with Me" >}}<br>
-### More Videos
-
-- [Ian Dury - Sex And Drugs And Rock And Roll](https://www.youtube.com/watch?v=dvhoSAKLztM)
-- [Sweet Gene Vincent](https://www.youtube.com/watch?v=DveyHAHfJi8)
-- [Clevor Trever](https://www.youtube.com/watch?v=voPgKKQeASw)
-- [Im Partial to Your Abracadabra](https://www.youtube.com/watch?v=beuHVDVvW9A)
-- [My Old Man](https://www.youtube.com/watch?v=AVz5vTpVTHg)
-- [Billericay Dickie](https://www.youtube.com/watch?v=6Hi2zGVRiEA)
-- [Ian Dury and the Blockheads - Clevor Trever](https://www.youtube.com/watch?v=ViLPwp387DI)
-- [If I Was with a Woman](https://www.youtube.com/watch?v=KkfGXd6_Iak)
-- [Blockheads](https://www.youtube.com/watch?v=PmHEG4CWytM)
-- [Plaistow Patricia](https://www.youtube.com/watch?v=mRbnbcJgOVE)
-- [Blackmail Man](https://www.youtube.com/watch?v=_DpXnETmHnU)
-- [Wake Up and Make Love with Me](https://www.youtube.com/watch?v=QON_NhWRnJ8)
-- [Ian Dury - Sex And Drugs And Rock And Roll](https://www.youtube.com/watch?v=dvhoSAKLztM)
-- [Sweet Gene Vincent](https://www.youtube.com/watch?v=DveyHAHfJi8)
-- [Clevor Trever](https://www.youtube.com/watch?v=voPgKKQeASw)
-- [Im Partial to Your Abracadabra](https://www.youtube.com/watch?v=beuHVDVvW9A)
-- [My Old Man](https://www.youtube.com/watch?v=AVz5vTpVTHg)
-- [Billericay Dickie](https://www.youtube.com/watch?v=6Hi2zGVRiEA)
-- [Ian Dury and the Blockheads - Clevor Trever](https://www.youtube.com/watch?v=ViLPwp387DI)
-- [If I Was with a Woman](https://www.youtube.com/watch?v=KkfGXd6_Iak)
-- [Blockheads](https://www.youtube.com/watch?v=PmHEG4CWytM)
-- [Plaistow Patricia](https://www.youtube.com/watch?v=mRbnbcJgOVE)
-- [Blackmail Man](https://www.youtube.com/watch?v=_DpXnETmHnU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -88,5 +65,5 @@ New Boots and Panties!! has been reissued several times, including a three-disc 
 | Format         | Vinyl LP Album (Island Manufacturing Pressing) |
 | Label          | Stiff Records |
 | Catalog Number | SEEZ 4 |
-| Notes | This record was not produced and recorded at The Workhouse in the Old Kent Road!! P and C 1977 Stiff Records Ltd.  Printed inner sleeve with diagonal cut corners.   |
+| Notes | This record was not produced and recorded at The Workhouse in the Old Kent Road!!<br>P and C 1977 Stiff Records Ltd.<br><br>Printed inner sleeve with diagonal cut corners.<br><br> |
 | Discogs URL    | [Ian Dury - New Boots And Panties!!](https://www.discogs.com/release/392738-Ian-Dury-New-Boots-And-Panties) |

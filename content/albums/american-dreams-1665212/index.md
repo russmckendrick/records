@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "American Dreams"
 date: 2015-12-04T18:21:09.000000Z
+release_date: ""
 release_id: "1665212"
 slug: "american-dreams-1665212"
 hideSummary: true
@@ -27,48 +28,48 @@ styles: ["Country", "Hard Rock", "Pop Rock", "Classic Rock"]
 American Dreams is an American drama television series that ran on NBC for three seasons and 61 episodes, from September 29, 2002, to March 30, 2005. The show tells the story of the Pryor family of Philadelphia during the mid-1960s, with many plotlines around teenager Meg Pryor (Brittany Snow), who dances on Dick Clark's American Bandstand. The show often featured contemporary musicians performing as popular musicians of the 1960s. Season one takes place in 1963–64, season two in 1964–65 and season three in 1965–66.
 The series was created by Jonathan Prince and developed by Josh Goldstein and Prince; the latter was also one of the executive producers with Dick Clark. It debuted on September 29, 2002, and initially aired on Sundays at 8:00 pm Eastern Time but moved to the same time on Wednesdays from March 9, 2005, to the third-season finale (March 30, 2005). The show was known as Our Generation when it debuted in Australia but was changed back to American Dreams when it returned for the second season.
 The theme song "Generation" was written and performed by Emerson Hart, lead singer of the band Tonic. The song earned Hart an ASCAP award for Best Theme Song of Television in 2003. The show was the 2003 TV Land Awards "Future Classic" winner.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Song For America (5:42)
-2. The Joker (4:26)
-3. Read 'Em And Weep (3:46)
-4. Born To Be Wild (3:27)
-5. Stage Fright (4:19)
-6. Keep On Loving You (3:19)
-7. Do You Believe In Love (3:30)
-8. Foolish Heart (3:37)
-9. She's Not There (3:13)
-10. White Rabbit (2:33)
-11. More Than A Feeling (3:22)
-12. Heart Like A Wheel
-13. Even The Nights Are Better (3:55)
-14. We Belong (3:40)
-15. I Can't Hold Back (3:58)
-16. American Woman (3:50)
-17. Don't Stop Believing (4:09)
-18. She's Gone (3:25)
-19. Sylvia's Mother (3:50)
-20. Trouble (3:53)
-21. Missing You (4:45)
-22. Rosana (3:59)
-23. Because The Night (3:00)
-24. Miracles (3:26)
-25. Nobody But You (2:58)
-26. Freebird (4:10)
-27. Feels So Right (3:35)
-28. Here Comes That Feeling (3:30)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Song For America | 5:42 |
+| A2 | The Joker | 4:26 |
+| A3 | Read 'Em And Weep | 3:46 |
+| A4 | Born To Be Wild | 3:27 |
+| A5 | Stage Fright | 4:19 |
+| A6 | Keep On Loving You | 3:19 |
+| A7 | Do You Believe In Love | 3:30 |
+| B1 | Foolish Heart | 3:37 |
+| B2 | She's Not There | 3:13 |
+| B3 | White Rabbit | 2:33 |
+| B4 | More Than A Feeling | 3:22 |
+| B5 | Heart Like A Wheel |  |
+| B6 | Even The Nights Are Better | 3:55 |
+| B7 | We Belong | 3:40 |
+| C1 | I Can't Hold Back | 3:58 |
+| C2 | American Woman | 3:50 |
+| C3 | Don't Stop Believing | 4:09 |
+| C4 | She's Gone | 3:25 |
+| C5 | Sylvia's Mother | 3:50 |
+| C6 | Trouble | 3:53 |
+| C7 | Missing You | 4:45 |
+| D1 | Rosana | 3:59 |
+| D2 | Because The Night | 3:00 |
+| D3 | Miracles | 3:26 |
+| D4 | Nobody But You | 2:58 |
+| D5 | Freebird | 4:10 |
+| D6 | Feels So Right | 3:35 |
+| D7 | Here Comes That Feeling | 3:30 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Lindsey Buckingham - Trouble 1981 Music Video 720p
-{{< youtube id="CO1sQPs3U8k" title="Lindsey Buckingham - Trouble 1981 Music Video 720p" >}}<br>
-### More Videos
 
-- [Air Supply - Even The Nights Are Better](https://www.youtube.com/watch?v=BRx58DgOxeg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +81,5 @@ The theme song "Generation" was written and performed by Emerson Hart, lead sing
 | Format         | Vinyl 2× LP Compilation (Gatefold) |
 | Label          | Starblend Records Ltd. |
 | Catalog Number | SLTD 12 |
-| Notes | This album has been compiled in association with CBS Records Ltd., EMI Records Ltd., RCA Records Ltd., Capitol Records Ltd., Arista Records Ltd., MCA Records Ltd., Chrysalis Records Ltd.  Artwork differs from [r=6672471]  Duration for A1 given as 10:00 on label but actually 5:42; no duration given on label for B5 |
+| Notes | This album has been compiled in association with CBS Records Ltd., EMI Records Ltd., RCA Records Ltd., Capitol Records Ltd., Arista Records Ltd., MCA Records Ltd., Chrysalis Records Ltd.<br><br>Artwork differs from [r=6672471]<br><br>Duration for A1 given as 10:00 on label but actually 5:42; no duration given on label for B5 |
 | Discogs URL    | [Various - American Dreams](https://www.discogs.com/release/1665212-Various-American-Dreams) |

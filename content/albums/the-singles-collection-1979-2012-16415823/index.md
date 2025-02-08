@@ -4,6 +4,7 @@ artist_name: "Killing Joke"
 artist: "killing-joke"
 album_name: "The Singles Collection 1979-2012"
 date: 2021-06-07T10:54:19.000000Z
+release_date: "2012-01-01"
 release_id: "16415823"
 slug: "the-singles-collection-1979-2012-16415823"
 hideSummary: true
@@ -32,54 +33,52 @@ styles: ["Industrial", "New Wave", "Post-Punk", "Synth-pop", "Heavy Metal", "Alt
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Nervous System
-2. Wardance
-3. Requiem
-4. Follow The Leaders
-5. Empire Song
-6. Chop-Chop
-7. Birds Of A Feather
-8. Let's All Go (To The Fire Dances)
-9. Me Or You?
-10. Eighties
-11. A New Day
-12. Love Like Blood
-13. Kings And Queens
-14. Adorations
-15. Sanity
-16. America
-17. My Love Of This Land
-18. The Beautiful Dead (Flexi-Disc Version)
-19. Money Is Not Our God
-20. Exorcism (Live In King's Chamber, Cairo August 1993 Mix Edit)
-21. Millenium (Cybersank Edit)
-22. Pandemonium (Cybersank Edit)
-23. Jana
-24. Democracy (Album Mix)
-25. Loose Cannon
-26. Seeing Red (Edit)
-27. Hosannas From The Basements Of Hell (Radio Edit)
-28. In Excelsis
-29. Fresh Fever From The Skies (Record Store Day Exclusive)
-30. European Super State (Edit)
-31. Ghosts Of Ladbroke Grove (Dub Edit)
-32. In Cythera (Edit)
-33. Corporate Elect
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Nervous System |  |
+| A2 | Wardance |  |
+| A3 | Requiem |  |
+| A4 | Follow The Leaders |  |
+| B1 | Empire Song |  |
+| B2 | Chop-Chop |  |
+| B3 | Birds Of A Feather |  |
+| B4 | Let's All Go (To The Fire Dances) |  |
+| B5 | Me Or You? |  |
+| C1 | Eighties |  |
+| C2 | A New Day |  |
+| C3 | Love Like Blood |  |
+| C4 | Kings And Queens |  |
+| D1 | Adorations |  |
+| D2 | Sanity |  |
+| D3 | America |  |
+| D4 | My Love Of This Land |  |
+| E1 | The Beautiful Dead (Flexi-Disc Version) |  |
+| E2 | Money Is Not Our God |  |
+| E3 | Exorcism (Live In King's Chamber, Cairo August 1993 Mix Edit) |  |
+| E4 | Millenium (Cybersank Edit) |  |
+| F1 | Pandemonium (Cybersank Edit) |  |
+| F2 | Jana |  |
+| F3 | Democracy (Album Mix) |  |
+| F4 | Loose Cannon |  |
+| G1 | Seeing Red (Edit) |  |
+| G2 | Hosannas From The Basements Of Hell (Radio Edit) |  |
+| G3 | In Excelsis |  |
+| G4 | Fresh Fever From The Skies (Record Store Day Exclusive) |  |
+| H1 | European Super State (Edit) |  |
+| H2 | Ghosts Of Ladbroke Grove (Dub Edit) |  |
+| H3 | In Cythera (Edit) |  |
+| H4 | Corporate Elect |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/singles-collection-1979-2012/1680128170" >}}<br>
 
 
-## Videos
-### Killing Joke Timewave
-{{< youtube id="zjaTN6ROjrI" title="Killing Joke Timewave" >}}<br>
-### More Videos
-
-- [Killing Joke Timewave](https://www.youtube.com/watch?v=zjaTN6ROjrI)
-- [Me Or You 2007 Digital Remaster](https://www.youtube.com/watch?v=FZqxbyIRul4)
-- [Lets All Go To The Fire Dances](https://www.youtube.com/watch?v=rmPAT575-Ng)
 
 ## Release Images
 {{< imageGrid >}}
@@ -90,5 +89,5 @@ styles: ["Industrial", "New Wave", "Post-Punk", "Synth-pop", "Heavy Metal", "Alt
 | Format         | Vinyl LP (Red Transparent), Vinyl LP (Yellow Transparent), Vinyl LP (Black), Vinyl LP (Clear), All Media Compilation Reissue |
 | Label          | Spinefarm Records |
 | Catalog Number | SPINE875352 |
-| Notes | Gatefold sleeve with a 12x12" insert with credits. Singles Collection 1979-2012.  |
+| Notes | Gatefold sleeve with a 12x12" insert with credits.<br>Singles Collection 1979-2012.<br> |
 | Discogs URL    | [Killing Joke - The Singles Collection 1979-2012](https://www.discogs.com/release/16415823-Killing-Joke-The-Singles-Collection-1979-2012) |

@@ -4,6 +4,7 @@ artist_name: "The Breeders"
 artist: "the-breeders"
 album_name: "LSXX"
 date: 2016-12-19T17:51:03.000000Z
+release_date: ""
 release_id: "4889732"
 slug: "lsxx-4889732"
 hideSummary: true
@@ -64,99 +65,87 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Last Splash
-2. New Year (1:56)
-3. Cannonball (3:33)
-4. Invisible Man (2:48)
-5. No Aloha (2:07)
-6. Roi (4:11)
-7. Do You Love Me Now? (3:01)
-8. Flipside (1:59)
-9. I Just Wanna Get Along (1:44)
-10. Mad Lucas (4:36)
-11. Divine Hammer (2:41)
-12. S.O.S. (1:31)
-13. Hag (2:55)
-14. Saints (2:32)
-15. Drivin' On 9 (3:22)
-16. Roi (Reprise) (0:42)
-17. Stockholm Syndrome
-18. Shocker In Gloomtown (1:40)
-19. New Year (2:06)
-20. Hellbound (2:46)
-21. Saints (2:52)
-22. Hag (2:46)
-23. I Just Wanna Get Along (3:08)
-24. S.O.S. (1:58)
-25. Roi (3:32)
-26. Head To Toe (2:24)
-27. Happiness Is A Warm Gun (3:46)
-28. Cannonball (3:30)
-29. Invisible Man (3:52)
-30. Doe (2:02)
-31. Drivin' On 9 (5:09)
-32. Don't Call Home (3:51)
-33. Limehouse (2:22)
-34. Rarities And Demos
-35. No Aloha (BBC Session) (2:26)
-36. Flipside (BBC Session) (1:59)
-37. Divine Hammer (BBC Session) (3:16)
-38. Hag (BBC Session) (2:44)
-39. New Year (Demo) (2:02)
-40. Grunggae(Demo) (2:35)
-41. Invisible Man (Demo) (2:43)
-42. No Aloha (Demo) (2:36)
-43. I Just Wanna Get Along (Demo) (1:44)
-44. Mad Lucas (Demo) (2:21)
-45. S.O.S. (Demo) (1:37)
-46. Saints (Demo) (2:10)
-47. 900 (Demo) (2:58)
-48. Iris (3:04)
-49. Safari
-50. Do You Love Me Now? (2:40)
-51. Don't Call Home (3:36)
-52. Safari (3:29)
-53. So Sad About Us (2:21)
-54. Cannonball
-55. Cannonball (3:34)
-56. Cro-Aloha (2:16)
-57. Lord Of The Thighs (3:58)
-58. 900 (4:27)
-59. Divine Hammer
-60. Divine Hammer (Single Version) (2:45)
-61. Hoverin' (2:53)
-62. I Can't Help It (If I'm Still In Love With You) (2:32)
-63. Do You Love Me Now Jr? (3:00)
-64. Head To Toe
-65. Head To Toe (2:04)
-66. Shocker In Gloomtown (1:17)
-67. Freed Pig (2:35)
-68. Saints (2:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Last Splash |  |
+| A1 | New Year | 1:56 |
+| A2 | Cannonball | 3:33 |
+| A3 | Invisible Man | 2:48 |
+| A4 | No Aloha | 2:07 |
+| A5 | Roi | 4:11 |
+| A6 | Do You Love Me Now? | 3:01 |
+| A7 | Flipside | 1:59 |
+| B1 | I Just Wanna Get Along | 1:44 |
+| B2 | Mad Lucas | 4:36 |
+| B3 | Divine Hammer | 2:41 |
+| B4 | S.O.S. | 1:31 |
+| B5 | Hag | 2:55 |
+| B6 | Saints | 2:32 |
+| B7 | Drivin' On 9 | 3:22 |
+| B8 | Roi (Reprise) | 0:42 |
+|  | Stockholm Syndrome |  |
+| C1 | Shocker In Gloomtown | 1:40 |
+| C2 | New Year | 2:06 |
+| C3 | Hellbound | 2:46 |
+| C4 | Saints | 2:52 |
+| C5 | Hag | 2:46 |
+| C6 | I Just Wanna Get Along | 3:08 |
+| C7 | S.O.S. | 1:58 |
+| C8 | Roi | 3:32 |
+| C9 | Head To Toe | 2:24 |
+| D1 | Happiness Is A Warm Gun | 3:46 |
+| D2 | Cannonball | 3:30 |
+| D3 | Invisible Man | 3:52 |
+| D4 | Doe | 2:02 |
+| D5 | Drivin' On 9 | 5:09 |
+| D6 | Don't Call Home | 3:51 |
+| D7 | Limehouse | 2:22 |
+|  | Rarities And Demos |  |
+| E1 | No Aloha (BBC Session) | 2:26 |
+| E2 | Flipside (BBC Session) | 1:59 |
+| E3 | Divine Hammer (BBC Session) | 3:16 |
+| E4 | Hag (BBC Session) | 2:44 |
+| E5 | New Year (Demo) | 2:02 |
+| E6 | Grunggae(Demo) | 2:35 |
+| E6 | Invisible Man (Demo) | 2:43 |
+| F1 | No Aloha (Demo) | 2:36 |
+| F2 | I Just Wanna Get Along (Demo) | 1:44 |
+| F3 | Mad Lucas (Demo) | 2:21 |
+| F4 | S.O.S. (Demo) | 1:37 |
+| F5 | Saints (Demo) | 2:10 |
+| F6 | 900 (Demo) | 2:58 |
+| F7 | Iris | 3:04 |
+|  | Safari |  |
+| G1 | Do You Love Me Now? | 2:40 |
+| G2 | Don't Call Home | 3:36 |
+| H1 | Safari | 3:29 |
+| H2 | So Sad About Us | 2:21 |
+|  | Cannonball |  |
+| I1 | Cannonball | 3:34 |
+| I2 | Cro-Aloha | 2:16 |
+| J1 | Lord Of The Thighs | 3:58 |
+| J2 | 900 | 4:27 |
+|  | Divine Hammer |  |
+| K1 | Divine Hammer (Single Version) | 2:45 |
+| K2 | Hoverin' | 2:53 |
+| L1 | I Can't Help It (If I'm Still In Love With You) | 2:32 |
+| L2 | Do You Love Me Now Jr? | 3:00 |
+|  | Head To Toe |  |
+| M1 | Head To Toe | 2:04 |
+| M2 | Shocker In Gloomtown | 1:17 |
+| N1 | Freed Pig | 2:35 |
+| N2 | Saints | 2:32 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### New Year
-{{< youtube id="pVtZaHWeNWg" title="New Year" >}}<br>
-### More Videos
 
-- [Invisible Man](https://www.youtube.com/watch?v=O0BPvSR6CZo)
-- [No Aloha](https://www.youtube.com/watch?v=RCx901bOa4U)
-- [Roi](https://www.youtube.com/watch?v=HZUydE9h07k)
-- [Do You Love Me Now](https://www.youtube.com/watch?v=L8SJwFT81Vg)
-- [Flipside](https://www.youtube.com/watch?v=zNZKjoWoC8I)
-- [I Just Wanna Get Along](https://www.youtube.com/watch?v=elHm4mobOIk)
-- [Mad Lucas](https://www.youtube.com/watch?v=VvorXjXrWoE)
-- [Divine Hammer](https://www.youtube.com/watch?v=6uASVR7pEAI)
-- [SOS](https://www.youtube.com/watch?v=vFo_b1yYOrU)
-- [Hag](https://www.youtube.com/watch?v=-QUkMaFIgAM)
-- [Saints](https://www.youtube.com/watch?v=mPuNkAQo1lI)
-- [Drivin on 9](https://www.youtube.com/watch?v=X8tbWEqJB60)
-- [Roi reprise](https://www.youtube.com/watch?v=NCh0onMm-Go)
-- [The Breeders  Go Man Go Official Video](https://www.youtube.com/watch?v=zcYCyzvNY1M)
-- [The Breeders - Divine Mascis feat J Mascis Official Video](https://www.youtube.com/watch?v=XbTHcc01dL8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -167,5 +156,5 @@ styles: ["Alternative Rock"]
 | Format         | Box Set Limited Edition (20th Anniversary Edition), Vinyl LP Album Reissue, Vinyl LP Compilation, Vinyl LP Compilation, Vinyl 10" EP Reissue, Vinyl 10" EP Reissue, Vinyl 10" EP Reissue, Vinyl 10" EP Reissue |
 | Label          | 4AD |
 | Catalog Number | DAD3308 |
-| Notes | Includes unique code to get digital album.    Disc 1 - Last Splash - 12" Vinyl  Recorded at Coast Recorders, San Francisco.  Additional recording at Brilliant Studios, San Francisco and Refraze, Dayton, Ohio.  Mixed at The Plant, Sausalito.  Thanks to Carlos Guitarlos, Zildjian Cymbals, Nick Kizirnis, Moog technician Jim Greer, Chuck Prophet, Igor.    Disc 2 - The Stockholm Syndrome (Live In Stockholm) - 12" Vinyl  Recorded live at Gino, Stockholm, Sweden, 17 May, 1994.    Disc 3 - Demos, Rare Tracks And Session Versions - 12" Vinyl  No Aloha (BBC Session, previously unreleased)  Flipside (BBC Session, previously unreleased)  Divine Hammer (BBC Session, previously unreleased)  Hag (BBC Session, previously unreleased)  New Year (November 1992 demo, previously released as a bonus 7-inch with original vinyl pressing of Last Splash)  Grunggae (November 1992 demo, previously released as a bonus 7-inch with original vinyl pressing of Last Splash)  Invisible Man (previously released on 4AD label compilation, 13 Year Itch)  No Aloha (November 1992 demo, previously unreleased)  I Just Wanna Get Along (November 1992 demo, previously unreleased)  Mad Lucas (November 1992 demo, previously unreleased)  S.O.S. (November 1992 demo, previously unreleased)  Saints (November 1992 demo, previously unreleased)  900 (November 1992 demo, previously unreleased)  Iris (previously released on the No Alternative compilation album)  November 1192 Last Plash Demos  Recorded at Cro-Magnon, Dayton, Ohio.  Iris recorded live in the UK, 1993 (Originally released on the No Alternative Benefit CD).  BBC Sesssions  Recorded for the Evening Session show on BBC Radio 1 first broadcast on 24/07/93.  Iris - Live at Glastonbury and broadcast 1992.    Cannonball EP - 10" Vinyl  Cannonball  Recorded at Coast Recorders, San Francisco.  Cro-Aloha  Recorded at Cro-Magnon, Dayton, Ohio.  Lord of the Things  Recorded at Refraze, Dayton, Ohio.  900  Recorded at Coast Recorders, San Francisco.  Thanks to Nick Kizirnis and Gary King.    Divine Hammer EP - 10" Vinyl  Divine Hammer  Recorded at RPM Studios, NYC.  Hoverin'  Recorded at Cro-Magnon, Dayton, Ohio.  I Can't Help It (If I'm Still In Love With You)  Recorded at Cro-Magnon, Dayton, Ohio.  Do You Love Me Now Jr?  Recorded at Coast Recorders, San Francisco.  Thanks to Gary Lukens.    Head To Toe EP - 10" Vinyl  Head to Toe  Recorded at Cro-Magnon, Dayton, Ohio.  Shocker in Gloomtown, Freed Pig, Saints  All Recorded at Dreamland, Kingston, NY with J Mascis. |
+| Notes | Includes unique code to get digital album.<br><br>Disc 1 - Last Splash - 12" Vinyl<br>Recorded at Coast Recorders, San Francisco.<br>Additional recording at Brilliant Studios, San Francisco and Refraze, Dayton, Ohio.<br>Mixed at The Plant, Sausalito.<br>Thanks to Carlos Guitarlos, Zildjian Cymbals, Nick Kizirnis, Moog technician Jim Greer, Chuck Prophet, Igor.<br><br>Disc 2 - The Stockholm Syndrome (Live In Stockholm) - 12" Vinyl<br>Recorded live at Gino, Stockholm, Sweden, 17 May, 1994.<br><br>Disc 3 - Demos, Rare Tracks And Session Versions - 12" Vinyl<br>No Aloha (BBC Session, previously unreleased)<br>Flipside (BBC Session, previously unreleased)<br>Divine Hammer (BBC Session, previously unreleased)<br>Hag (BBC Session, previously unreleased)<br>New Year (November 1992 demo, previously released as a bonus 7-inch with original vinyl pressing of Last Splash)<br>Grunggae (November 1992 demo, previously released as a bonus 7-inch with original vinyl pressing of Last Splash)<br>Invisible Man (previously released on 4AD label compilation, 13 Year Itch)<br>No Aloha (November 1992 demo, previously unreleased)<br>I Just Wanna Get Along (November 1992 demo, previously unreleased)<br>Mad Lucas (November 1992 demo, previously unreleased)<br>S.O.S. (November 1992 demo, previously unreleased)<br>Saints (November 1992 demo, previously unreleased)<br>900 (November 1992 demo, previously unreleased)<br>Iris (previously released on the No Alternative compilation album)<br>November 1192 Last Plash Demos<br>Recorded at Cro-Magnon, Dayton, Ohio.<br>Iris recorded live in the UK, 1993 (Originally released on the No Alternative Benefit CD).<br>BBC Sesssions<br>Recorded for the Evening Session show on BBC Radio 1 first broadcast on 24/07/93.<br>Iris - Live at Glastonbury and broadcast 1992.<br><br>Cannonball EP - 10" Vinyl<br>Cannonball<br>Recorded at Coast Recorders, San Francisco.<br>Cro-Aloha<br>Recorded at Cro-Magnon, Dayton, Ohio.<br>Lord of the Things<br>Recorded at Refraze, Dayton, Ohio.<br>900<br>Recorded at Coast Recorders, San Francisco.<br>Thanks to Nick Kizirnis and Gary King.<br><br>Divine Hammer EP - 10" Vinyl<br>Divine Hammer<br>Recorded at RPM Studios, NYC.<br>Hoverin'<br>Recorded at Cro-Magnon, Dayton, Ohio.<br>I Can't Help It (If I'm Still In Love With You)<br>Recorded at Cro-Magnon, Dayton, Ohio.<br>Do You Love Me Now Jr?<br>Recorded at Coast Recorders, San Francisco.<br>Thanks to Gary Lukens.<br><br>Head To Toe EP - 10" Vinyl<br>Head to Toe<br>Recorded at Cro-Magnon, Dayton, Ohio.<br>Shocker in Gloomtown, Freed Pig, Saints<br>All Recorded at Dreamland, Kingston, NY with J Mascis. |
 | Discogs URL    | [The Breeders - LSXX](https://www.discogs.com/release/4889732-The-Breeders-LSXX) |

@@ -1,6 +1,6 @@
 ---
-title: "Derek & Clive - Come Again"
-artist_name: "Derek & Clive"
+title: "Derek  Clive - Come Again"
+artist_name: "Derek  Clive"
 artist: "derek-clive"
 album_name: "Come Again"
 date: 2015-12-30T09:11:50.000000Z
@@ -10,8 +10,8 @@ slug: "come-again-561165"
 hideSummary: true
 cover:
     image: "come-again-561165.jpg"
-    alt: "Come Again by Derek & Clive"
-    caption: "Come Again by Derek & Clive"
+    alt: "Come Again by Derek  Clive"
+    caption: "Come Again by Derek  Clive"
 additional_images:
     - "https://i.discogs.com/q82DWyRn-BS3NCZi5t1gqml6CEnH7UWULKPxIN38I4A/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTE2/NS0xMTY2OTk2NDIz/LmpwZWc.jpeg"
     - "https://i.discogs.com/CQZQaNBMQgN0jJAZSr8DsvuX0ApcUrS_ZPDZzfqTGnY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTE2/NS0xNDcyOTE3MDEy/LTM2NjguanBlZw.jpeg"
@@ -29,51 +29,30 @@ Throughout much of the album (recorded in just one day for a Christmas release),
 
 
 ## Tracklisting
-1. Coughing Contest (2:37)
-2. Cancer (0:29)
-3. Non-stop Dancer / My Mum Song (5:37)
-4. Joan Crawford (5:05)
-5. Norman The Carpet (1:38)
-6. How's Your Mother (4:40)
-7. Back Of The Cab (6:23)
-8. Alfie Noakes (3:01)
-9. Nurse (0:48)
-10. In The Cubicles (5:15)
-11. Ross McPharter (3:42)
-12. Hello Colin (0:16)
-13. Having A Wank (11:57)
-14. I Saw This Bloke (1:42)
-15. Parking Offence (5:45)
-16. Members Only (3:31)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Coughing Contest | 2:37 |
+| A2 | Cancer | 0:29 |
+| A3 | Non-stop Dancer / My Mum Song | 5:37 |
+| A4 | Joan Crawford | 5:05 |
+| A5 | Norman The Carpet | 1:38 |
+| A6 | How's Your Mother | 4:40 |
+| A7 | Back Of The Cab | 6:23 |
+| A8 | Alfie Noakes | 3:01 |
+| A9 | Nurse | 0:48 |
+| B1 | In The Cubicles | 5:15 |
+| B2 | Ross McPharter | 3:42 |
+| B3 | Hello Colin | 0:16 |
+| B4 | Having A Wank | 11:57 |
+| B5 | I Saw This Bloke | 1:42 |
+| B6 | Parking Offence | 5:45 |
+| B7 | Members Only | 3:31 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/derek-and-clive-live/1443141039" >}}<br>
 
 
-## Videos
-### Coughin Contest
-{{< youtube id="M-W_p4dt8Jk" title="Coughin Contest" >}}<br>
-### More Videos
-
-- [Cancer](https://www.youtube.com/watch?v=BPZFSZG0shE)
-- [Non Stop DancerMy Mum Song Medley](https://www.youtube.com/watch?v=lwulc3WZQsc)
-- [Joan Crawford](https://www.youtube.com/watch?v=BZXOvGwk734)
-- [Back Of The Cab](https://www.youtube.com/watch?v=BKrFFmft6ss)
-- [Members Only](https://www.youtube.com/watch?v=s-XRq7OCA60)
-- [I Saw This Bloke](https://www.youtube.com/watch?v=_gyGNgc3PVU)
-- [You Stupid Cunt](https://www.youtube.com/watch?v=bfFveC7he3E)
-- [Norman The Carpet](https://www.youtube.com/watch?v=agOCImXbwJE)
-- [Alfie Noakes](https://www.youtube.com/watch?v=jmnXaAslBks)
-- [Having A Wank](https://www.youtube.com/watch?v=9PY2RNxvMMg)
-- [Hows Your Mother](https://www.youtube.com/watch?v=2Jb9SfleWUE)
-- [Ross McPharter](https://www.youtube.com/watch?v=oFuaeI2F3MQ)
-- [Hello Colin](https://www.youtube.com/watch?v=4BVlX6pzc6g)
-- [In The Cubicles](https://www.youtube.com/watch?v=_SwOLKWIjHM)
-- [Young Dudley Moore Performs Jump](https://www.youtube.com/watch?v=oWmaFO2zc2I)
-- [Nurse](https://www.youtube.com/watch?v=cGY-1dEP4SM)
-- [Valeries Hymen](https://www.youtube.com/watch?v=cylpWhXWjFk)
-- [Mother](https://www.youtube.com/watch?v=4pPdFSBVVQI)
-- [Parking Offence](https://www.youtube.com/watch?v=OhtoR2CYk1E)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +64,5 @@ Throughout much of the album (recorded in just one day for a Christmas release),
 | Format         | Vinyl LP Album Repress |
 | Label          | Virgin |
 | Catalog Number | V 2094 |
-| Notes | ℗ 1977 Virgin Records Ltd  © 1977 Aspera A.G.  Side One: Ay, Bee, See, You, En, Tee.  Side Two: Ef, You2, See2, Kay, Aye, En2, Gee. |
-| Discogs URL    | [Derek & Clive - Come Again](https://www.discogs.com/release/561165-Derek-And-Clive-Come-Again) |
+| Notes | ℗ 1977 Virgin Records Ltd<br>© 1977 Aspera A.G.<br>Side One: Ay, Bee, See, You, En, Tee.<br>Side Two: Ef, You2, See2, Kay, Aye, En2, Gee. |
+| Discogs URL    | [Derek  Clive - Come Again](https://www.discogs.com/release/561165-Derek-And-Clive-Come-Again) |

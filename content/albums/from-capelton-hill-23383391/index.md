@@ -67,29 +67,26 @@ TC: “Writing it in North Hadley with Chris, that’s where I started to feel v
 
 
 ## Tracklisting
-1. Palmistry
-2. Pretenders
-3. Patterns
-4. Back To The End
-5. That Girl
-6. Build A Fire
-7. Capelton Hill
-8. Hoping
-9. To Feel What They Feel
-10. If I Never See London Again
-11. I Need The Light
-12. Snowy Owl
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Palmistry |  |
+| A2 | Pretenders |  |
+| A3 | Patterns |  |
+| A4 | Back To The End |  |
+| A5 | That Girl |  |
+| A6 | Build A Fire |  |
+| B1 | Capelton Hill |  |
+| B2 | Hoping |  |
+| B3 | To Feel What They Feel |  |
+| B4 | If I Never See London Again |  |
+| B5 | I Need The Light |  |
+| B6 | Snowy Owl |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/from-capelton-hill/1605966424" >}}<br>
 
 
-## Videos
-### Stars - Patterns Official Music Video
-{{< youtube id="l94kK-S8wvc" title="Stars - Patterns Official Music Video" >}}<br>
-### More Videos
-
-- [Stars - That Girl Official Video](https://www.youtube.com/watch?v=2MI3CHUrCFo)
 
 ## Release Images
 {{< imageGrid >}}

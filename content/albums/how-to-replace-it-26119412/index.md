@@ -4,6 +4,7 @@ artist_name: "dEUS"
 artist: "deus"
 album_name: "How To Replace It"
 date: 2023-03-01T00:19:26.000000Z
+release_date: "2023-02-17"
 release_id: "26119412"
 slug: "how-to-replace-it-26119412"
 hideSummary: true
@@ -31,36 +32,31 @@ styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. How To Replace It
-2. Must Have Been New
-3. Man Of The House
-4. 1989
-5. Faux Bamboo
-6. Dream Is A Giver
-7. Pirates
-8. Simple Pleasures
-9. Never Gonna Get You High
-10. Why Think It Over (Cadillac)
-11. Love Breaks Down
-12. Le Blues Polaire
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | How To Replace It |  |
+| A2 | Must Have Been New |  |
+| A3 | Man Of The House |  |
+| B1 | 1989 |  |
+| B2 | Faux Bamboo |  |
+| B3 | Dream Is A Giver |  |
+| C1 | Pirates |  |
+| C2 | Simple Pleasures |  |
+| C3 | Never Gonna Get You High |  |
+| D1 | Why Think It Over (Cadillac) |  |
+| D2 | Love Breaks Down |  |
+| D3 | Le Blues Polaire |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/how-to-replace-it/1650427627" >}}<br>
 
 
-## Videos
-### dEUS - How To Replace It Official Video
-{{< youtube id="nyyfPpm0tog" title="dEUS - How To Replace It Official Video" >}}<br>
-### More Videos
-
-- [Man Of The House](https://www.youtube.com/watch?v=yC1gfZsIoRE)
-- [dEUS - Must Have Been New Official Visualizer](https://www.youtube.com/watch?v=SUCUO5k0MLg)
-- [How To Replace It](https://www.youtube.com/watch?v=wzcg5SMJraM)
-- [dEUS - 1989 Official Visualizer](https://www.youtube.com/watch?v=Gx206aFD6Wg)
-- [dEUS - How To Replace It Official Video](https://www.youtube.com/watch?v=nyyfPpm0tog)
-- [Man Of The House](https://www.youtube.com/watch?v=yC1gfZsIoRE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +67,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Crystal Clear) |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASB820LP |
-| Notes | [Info:] Issued in a gatefold sleeve with printed inner sleeves.  A1: Intro - In honour of "Aujourd'hui c'est toi" Heartbeat - Francis Lai.  [On barcode sticker:] PIASB820LPC  [On cover back:] ℗&© 2023 dEUS under exclusive license to [PIAS] Recordings - LC07800 PIASB820LP Made in the EU - SABAM/BIEM  [On labels, side B and D:] ℗&© 2023 dEUS under exclusive license to [PIAS] Recordings - LC07800 PIASB820LP Made in the EU - SABAM/BIEM  [Matrixes / Runouts:] Sides A to D: etched PIASB820LP-LPC, rest stamped Side C and D: etched -> 1V  |
+| Notes | [Info:]<br>Issued in a gatefold sleeve with printed inner sleeves.<br><br>A1: Intro - In honour of "Aujourd'hui c'est toi" Heartbeat - Francis Lai.<br><br>[On barcode sticker:]<br>PIASB820LPC<br><br>[On cover back:]<br>℗&© 2023 dEUS under exclusive license to<br>[PIAS] Recordings - LC07800 PIASB820LP<br>Made in the EU - SABAM/BIEM<br><br>[On labels, side B and D:]<br>℗&© 2023 dEUS under exclusive license to<br>[PIAS] Recordings - LC07800 PIASB820LP<br>Made in the EU - SABAM/BIEM<br><br>[Matrixes / Runouts:]<br>Sides A to D: etched PIASB820LP-LPC, rest stamped<br>Side C and D: etched -> 1V  |
 | Discogs URL    | [dEUS - How To Replace It](https://www.discogs.com/release/26119412-dEUS-How-To-Replace-It) |

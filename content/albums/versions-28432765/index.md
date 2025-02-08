@@ -4,6 +4,7 @@ artist_name: "The Anchoress"
 artist: "the-anchoress"
 album_name: "Versions"
 date: 2023-10-12T02:54:12.000000Z
+release_date: "2023-10-06"
 release_id: "28432765"
 slug: "versions-28432765"
 hideSummary: true
@@ -22,32 +23,29 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Enjoy The Silence
-2. Bizarre Love Triangle
-3. Climbing Up The Walls
-4. Friday I'm In Love
-5. Pennyroyal Tea
-6. These Days
-7. Martha's Harbour
-8. The Tradition
-9. This Is Yesterday
-10. Sweetness Follows
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Enjoy The Silence |  |
+| A2 | Bizarre Love Triangle |  |
+| A3 | Climbing Up The Walls |  |
+| A4 | Friday I'm In Love |  |
+| A5 | Pennyroyal Tea |  |
+| B1 | These Days |  |
+| B2 | Martha's Harbour |  |
+| B3 | The Tradition |  |
+| B4 | This Is Yesterday |  |
+| B5 | Sweetness Follows |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/versions/1705440621" >}}<br>
 
 
-## Videos
-### Enjoy The Silence - The Anchoress
-{{< youtube id="Apqk3dfs7qQ" title="Enjoy The Silence - The Anchoress" >}}<br>
-### More Videos
-
-- [Friday Im In Love](https://www.youtube.com/watch?v=cMpMaoxsDUQ)
-- [These Days](https://www.youtube.com/watch?v=08t0umcfWag)
-- [Pennyroyal Tea](https://www.youtube.com/watch?v=njQ5sANH9Eg)
-- [This Is Yesterday - The Anchoress Acapela Studios Pentyrch 30092023](https://www.youtube.com/watch?v=E7ghsbzjL7A)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,5 +56,5 @@ styles: []
 | Format         | Vinyl LP Album Limited Edition (eco-mix) |
 | Label          | Drowned In Sound |
 | Catalog Number | DIS2004 |
-| Notes | Cover versions.   Signed vinyl available through Bandcamp. Official release date 6th October but copies were shipped mid-September. Limited edition of 1.000 copies.  Hype sticker: 'Pressed on Eco-Mix vinyl using leftover wax - each record is completely unique'   |
+| Notes | Cover versions. <br><br>Signed vinyl available through Bandcamp. Official release date 6th October but copies were shipped mid-September.<br>Limited edition of 1.000 copies.<br><br>Hype sticker: 'Pressed on Eco-Mix vinyl using leftover wax - each record is completely unique'<br><br> |
 | Discogs URL    | [The Anchoress - Versions](https://www.discogs.com/release/28432765-The-Anchoress-Versions) |

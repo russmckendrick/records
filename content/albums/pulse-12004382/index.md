@@ -4,6 +4,7 @@ artist_name: "Pink Floyd"
 artist: "pink-floyd"
 album_name: "Pulse"
 date: 2018-05-17T14:51:48.000000Z
+release_date: "1995-05-29"
 release_id: "12004382"
 slug: "pulse-12004382"
 hideSummary: true
@@ -45,48 +46,46 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Shine On You Crazy Diamond (13:30)
-2. Astronomy Domine (5:25)
-3. What Do You Want From Me (4:10)
-4. Learning To Fly (5:06)
-5. Keep Talking (6:56)
-6. Coming Back To Life (6:31)
-7. Hey You (4:50)
-8. A Great Day For Freedom (4:20)
-9. Sorrow (10:30)
-10. High Hopes (7:50)
-11. Another Brick In The Wall (Part Two) (6:50)
-12. One Of These Days (6:51)
-13. The Dark Side Of The Moon Live
-14. Speak To Me (2:28)
-15. Breathe (2:40)
-16. On The Run (3:41)
-17. Time (6:48)
-18. The Great Gig In The Sky (5:51)
-19. Money (8:46)
-20. Us And Them (7:08)
-21. Any Colour You Like (3:19)
-22. Brain Damage (4:02)
-23. Eclipse (1:38)
-24. Encores
-25. Wish You Were Here (5:40)
-26. Comfortably Numb (9:10)
-27. Run Like Hell (7:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Shine On You Crazy Diamond | 13:30 |
+| A2 | Astronomy Domine | 5:25 |
+| A3 | What Do You Want From Me | 4:10 |
+| B1 | Learning To Fly | 5:06 |
+| B2 | Keep Talking | 6:56 |
+| B3 | Coming Back To Life | 6:31 |
+| C1 | Hey You | 4:50 |
+| C2 | A Great Day For Freedom | 4:20 |
+| C3 | Sorrow | 10:30 |
+| D1 | High Hopes | 7:50 |
+| D2 | Another Brick In The Wall (Part Two) | 6:50 |
+| D3 | One Of These Days | 6:51 |
+|  | The Dark Side Of The Moon Live |  |
+| E1 | Speak To Me | 2:28 |
+| E2 | Breathe | 2:40 |
+| E3 | On The Run | 3:41 |
+| E4 | Time | 6:48 |
+| F1 | The Great Gig In The Sky | 5:51 |
+| F2 | Money | 8:46 |
+| G1 | Us And Them | 7:08 |
+| G2 | Any Colour You Like | 3:19 |
+| G3 | Brain Damage | 4:02 |
+| G4 | Eclipse | 1:38 |
+|  | Encores |  |
+| H1 | Wish You Were Here | 5:40 |
+| H2 | Comfortably Numb | 9:10 |
+| H3 | Run Like Hell | 7:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pulse-live/696834309" >}}<br>
 
 
-## Videos
-### Pink Floyd -  PULSE  Live 1994 Remastered
-{{< youtube id="E9Iau_oik-E" title="Pink Floyd -  PULSE  Live 1994 Remastered" >}}<br>
-### More Videos
-
-- [Pink Floyd - Breathe In The Air Live in HD](https://www.youtube.com/watch?v=gnLLuzS2Ofw)
-- [Pink Floyd -  PULSE  Live 1994 Remastered](https://www.youtube.com/watch?v=E9Iau_oik-E)
-- [Pink Floyd - Breathe In The Air Live in HD](https://www.youtube.com/watch?v=gnLLuzS2Ofw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -97,5 +96,5 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 | Format         | Vinyl 4× LP Album Reissue Remastered (180 gram), Box Set |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP17 |
-| Notes | Book: Recorded live in Europe and the UK with Le Voyageur II Mobile. Mixed at Astoria in Q Sound. Mastered at The Mastering Lab. This is an analogue recording.  With Thanks to: Marc Brickman, Mark Fisher and Robbie Williams and all the crew who worked on the tour between March and October 1994.  Records 1 & 2: All tracks published by Pink Floyd Music Publishers Ltd. except 'Astronomy Domine': Westminster Music Ltd. Records 3 & 4: All tracks published by Pink Floyd Music Publishers Ltd.  Labels: Made in the EU.  Includes one more track than the CD releases (D3 One Of These Days).  Packaged in a hard box with a 52 page hardback book featuring credits and colour photographs from the concerts.  Hype sticker on front cover (on shrink).  On side A, in runout variant 2, after the "18899" part, there is a crossed out "2". It's probably the same for runout variant 1.  Runouts are etched. Pressing plant and laquer cut identified based on the runout areas. |
+| Notes | Book:<br>Recorded live in Europe and the UK with Le Voyageur II Mobile.<br>Mixed at Astoria in Q Sound.<br>Mastered at The Mastering Lab.<br>This is an analogue recording.<br><br>With Thanks to:<br>Marc Brickman, Mark Fisher and Robbie Williams and all the crew who worked on the tour between March and October 1994.<br><br>Records 1 & 2: All tracks published by Pink Floyd Music Publishers Ltd. except 'Astronomy Domine': Westminster Music Ltd.<br>Records 3 & 4: All tracks published by Pink Floyd Music Publishers Ltd.<br><br>Labels:<br>Made in the EU.<br><br>Includes one more track than the CD releases (D3 One Of These Days).<br><br>Packaged in a hard box with a 52 page hardback book featuring credits and colour photographs from the concerts.<br><br>Hype sticker on front cover (on shrink).<br><br>On side A, in runout variant 2, after the "18899" part, there is a crossed out "2". It's probably the same for runout variant 1.<br><br>Runouts are etched.<br>Pressing plant and laquer cut identified based on the runout areas. |
 | Discogs URL    | [Pink Floyd - Pulse](https://www.discogs.com/release/12004382-Pink-Floyd-Pulse) |

@@ -1,7 +1,7 @@
 ---
 title: "The Smile - Cutouts"
 artist_name: "The Smile"
-artist: "the-smile-5"
+artist: "the-smile"
 album_name: "Cutouts"
 date: 2024-10-04T04:31:21.000000Z
 release_date: "2024-10-04"
@@ -38,35 +38,24 @@ It remains to be seen whether anything can be read into the trio clearing the de
 
 
 ## Tracklisting
-1. Foreign Spies
-2. Instant Psalm
-3. Zero Sum
-4. Colours Fly
-5. Eyes And Mouth
-6. Don't Get Me Started
-7. Tiptoe
-8. The Slip
-9. No Words
-10. Bodies Laughing
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Foreign Spies |  |
+| A2 | Instant Psalm |  |
+| A3 | Zero Sum |  |
+| A4 | Colours Fly |  |
+| A5 | Eyes And Mouth |  |
+| B1 | Don't Get Me Started |  |
+| B2 | Tiptoe |  |
+| B3 | The Slip |  |
+| B4 | No Words |  |
+| B5 | Bodies Laughing |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cutouts/1758065392" >}}<br>
 
 
-## Videos
-### The Smile - Foreign Spies Official Music Video
-{{< youtube id="UHkZ5YzJYvI" title="The Smile - Foreign Spies Official Music Video" >}}<br>
-### More Videos
-
-- [The Smile - Instant Psalm Official Music Video](https://www.youtube.com/watch?v=r38w0TawkcM)
-- [The Smile - Zero Sum Official Music Video](https://www.youtube.com/watch?v=TJ4lG5Szr50)
-- [The Smile - Colours Fly Visualiser](https://www.youtube.com/watch?v=qlqwRRjAkfQ)
-- [The Smile - Eyes  Mouth Visualiser](https://www.youtube.com/watch?v=bYBFK16wats)
-- [The Smile - Dont Get Me Started Official Video](https://www.youtube.com/watch?v=o9i9J6IOEq0)
-- [The Smile - Tiptoe Visualiser](https://www.youtube.com/watch?v=JGjzbsZ-FV4)
-- [The Smile - The Slip Visualiser](https://www.youtube.com/watch?v=NwCyP3h2nyA)
-- [The Smile - No Words Visualiser](https://www.youtube.com/watch?v=CH9C1Fx9PQc)
-- [The Smile - Bodies Laughing Visualiser](https://www.youtube.com/watch?v=EWpI0n1FZIY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +67,5 @@ It remains to be seen whether anything can be read into the trio clearing the de
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | XL Recordings |
 | Catalog Number | XL1445LPE |
-| Notes | Packaged in a matte gatefold sleeve with spot varnish on the band name and title. Includes a printed inner sleeve.  Some early orders included a 12” x 12” Cutouts album cover art print. In Australia, with purchase of the album some independent record stores gave away a 12” x 12” Cutouts album cover art print and sticker sheet of 12 stickers featuring the character from the Zero Sum video clip.  Recorded in Oxford & at Abbey Road Studios Mixed at Studiofour, London Mastered... at Sterling Sound  P 2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd C 2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd  Published by Warner Chappell Music and Warp Publishing |
+| Notes | Packaged in a matte gatefold sleeve with spot varnish on the band name and title.<br>Includes a printed inner sleeve.<br><br>Some early orders included a 12” x 12” Cutouts album cover art print. In Australia, with purchase of the album some independent record stores gave away a 12” x 12” Cutouts album cover art print and sticker sheet of 12 stickers featuring the character from the Zero Sum video clip.<br><br>Recorded in Oxford & at Abbey Road Studios<br>Mixed at Studiofour, London<br>Mastered... at Sterling Sound<br><br>P 2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd<br>C 2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd<br><br>Published by Warner Chappell Music and Warp Publishing |
 | Discogs URL    | [The Smile - Cutouts](https://www.discogs.com/release/31875967-The-Smile-5-Cutouts) |

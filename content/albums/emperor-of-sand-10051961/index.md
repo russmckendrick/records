@@ -37,31 +37,25 @@ With their customary cross-breeding of rock genres, the Georgians reflect on mor
 
 
 ## Tracklisting
-1. Sultan's Curse (4:09)
-2. Show Yourself (3:02)
-3. Precious Stones (3:46)
-4. Steambreather (5:03)
-5. Eons (6:28)
-6. Word To The Wise (4:00)
-7. Ancient Kingdom  (4:54)
-8. Clandestiny (4:26)
-9. Andromeda (4:03)
-10. Scorpion Breath  (3:18)
-11. Jaguar God (7:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sultan's Curse | 4:09 |
+| A2 | Show Yourself | 3:02 |
+| A3 | Precious Stones | 3:46 |
+| A4 | Steambreather | 5:03 |
+| B1 | Eons | 6:28 |
+| B2 | Word To The Wise | 4:00 |
+| C1 | Ancient Kingdom  | 4:54 |
+| C2 | Clandestiny | 4:26 |
+| C3 | Andromeda | 4:03 |
+| D1 | Scorpion Breath  | 3:18 |
+| D2 | Jaguar God | 7:56 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/emperor-of-sand/1195230194" >}}<br>
 
 
-## Videos
-### Mastodon - Steambreather Official Music Video
-{{< youtube id="HEubrZV04b0" title="Mastodon - Steambreather Official Music Video" >}}<br>
-### More Videos
-
-- [Mastodon - Sultans Curse Official Audio](https://www.youtube.com/watch?v=Og39iIBeOHI)
-- [Mastodon - Andromeda Official Audio](https://www.youtube.com/watch?v=8Ry7FStwey4)
-- [Mastodon - Show Yourself Official Music Video](https://www.youtube.com/watch?v=gUGda7GdZPQ)
-- [Mastodon - Steambreather Official Music Video](https://www.youtube.com/watch?v=HEubrZV04b0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +67,5 @@ With their customary cross-breeding of rock genres, the Georgians reflect on mor
 | Format         | Vinyl 2× LP Album (180 g) |
 | Label          | Reprise Records |
 | Catalog Number | 9362-49140-5 |
-| Notes | 180 gram double LP in glossy gatefold sleeve, includes a printed lyric sheet.  1st catalog number on spine. 2nd catalog number on side A & C labels. 3rd catalog number on runout grooves.  All music and lyrics © 2017 Trampled Under Hoof Music, Inc. (BMI), all rights administered by BMG Rights Management (US) LLC.  Recorded at The Quarry Studios, Atlanta, GA and Henson Recording Studios, Hollywood, CA. Mixed at Henson Recording Studios, Hollywood, CA. Mastered at Casa de Amor, Atlanta, GA.  Scott Kelly appears courtesy of Neurot Recordings/Scott Michael Kelly Publishing Company.  Printed on back cover: © ℗ 2017 Reprise Records for the U.S. and WEA International, Inc. for the world outside the U.S. Manufactured in the E.U.  Printed on side A & C labels: © ℗ 2017 Reprise Records. | Manufactured in the Netherlands. | 33 1/3 RPM | (Mastodon) Trampled Under Hoof Music, Inc. (BMI), All Rights Administered by BMG Rights Management (US) LLC. | 558742-1 |
+| Notes | 180 gram double LP in glossy gatefold sleeve, includes a printed lyric sheet.<br><br>1st catalog number on spine.<br>2nd catalog number on side A & C labels.<br>3rd catalog number on runout grooves.<br><br>All music and lyrics © 2017 Trampled Under Hoof Music, Inc. (BMI), all rights administered by BMG Rights Management (US) LLC.<br><br>Recorded at The Quarry Studios, Atlanta, GA and Henson Recording Studios, Hollywood, CA.<br>Mixed at Henson Recording Studios, Hollywood, CA.<br>Mastered at Casa de Amor, Atlanta, GA.<br><br>Scott Kelly appears courtesy of Neurot Recordings/Scott Michael Kelly Publishing Company.<br><br>Printed on back cover:<br>© ℗ 2017 Reprise Records for the U.S. and WEA International, Inc. for the world outside the U.S. Manufactured in the E.U.<br><br>Printed on side A & C labels:<br>© ℗ 2017 Reprise Records. | Manufactured in the Netherlands. | 33 1/3 RPM | (Mastodon) Trampled Under Hoof Music, Inc. (BMI), All Rights Administered by BMG Rights Management (US) LLC. | 558742-1 |
 | Discogs URL    | [Mastodon - Emperor Of Sand](https://www.discogs.com/release/10051961-Mastodon-Emperor-Of-Sand) |

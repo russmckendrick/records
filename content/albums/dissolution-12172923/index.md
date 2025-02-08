@@ -4,6 +4,7 @@ artist_name: "The Pineapple Thief"
 artist: "the-pineapple-thief"
 album_name: "Dissolution"
 date: 2018-08-31T18:39:12.000000Z
+release_date: "2018-08-31"
 release_id: "12172923"
 slug: "dissolution-12172923"
 hideSummary: true
@@ -23,28 +24,28 @@ styles: ["Prog Rock", "Art Rock"]
 Dissolution  (stylised as di§olution) is the twelfth studio album by British progressive rock band the Pineapple Thief, released on 31 August 2018, through Kscope. It's the second album to include Gavin Harrison on drums and his first album as an official member of the band.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Not Naming Any Names (2:05)
-2. Try As I Might (4:26)
-3. Threatening War (6:37)
-4. Uncovering Your Tracks (4:29)
-5.  All That You've Got (3:27)
-6. Far Below (4:36)
-7. Pillar of Salt (1:25)
-8. White Mist (11:05)
-9. Shed A Light (5:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Not Naming Any Names | 2:05 |
+| A2 | Try As I Might | 4:26 |
+| A3 | Threatening War | 6:37 |
+| A4 | Uncovering Your Tracks | 4:29 |
+| A5 |  All That You've Got | 3:27 |
+| B1 | Far Below | 4:36 |
+| B2 | Pillar of Salt | 1:25 |
+| B3 | White Mist | 11:05 |
+| B4 | Shed A Light | 5:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dissolution/1394673558" >}}<br>
 
-
-## Videos
-### The Pineapple Thief- Dissolution- Full Album
-{{< youtube id="J2G89BomTYk" title="The Pineapple Thief- Dissolution- Full Album" >}}<br>
 
 
 ## Release Images
@@ -57,5 +58,5 @@ Dissolution  (stylised as di§olution) is the twelfth studio album by British pr
 | Format         | Vinyl LP Album Limited Edition Stereo (Crystal Clear) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE997 |
-| Notes | The strictly limited Crystal Clear single 180g LP edition comes with a printed inner bag. Ace guitarist David Torn guests on the song White Mist. |
+| Notes | The strictly limited Crystal Clear single 180g LP edition comes with a printed inner bag.<br>Ace guitarist David Torn guests on the song White Mist. |
 | Discogs URL    | [The Pineapple Thief - Dissolution](https://www.discogs.com/release/12172923-The-Pineapple-Thief-Dissolution) |

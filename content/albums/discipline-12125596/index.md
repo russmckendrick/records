@@ -4,6 +4,7 @@ artist_name: "King Crimson"
 artist: "king-crimson"
 album_name: "Discipline"
 date: 2023-02-03T11:49:37.000000Z
+release_date: "1981-09-22"
 release_id: "12125596"
 slug: "discipline-12125596"
 hideSummary: true
@@ -25,31 +26,28 @@ Discipline is the eighth studio album by English progressive rock band King Crim
 This album was King Crimson's first following a seven-year hiatus. Only band co-founder and guitarist Robert Fripp and drummer Bill Bruford remained from the previous incarnation. They were joined by two American musicians: vocalist, guitarist and frontman Adrian Belew, previously a member of Frank Zappa and David Bowie's backing bands and a touring member of Talking Heads, and bassist, Chapman Stick player, and backing vocalist Tony Levin, a session musician Fripp had met while both were working with Peter Gabriel. The album introduced a new sound for the band, influenced by new wave, post-punk, minimalism and Indonesian gamelan music, while retaining an experimental character, helping lay the groundwork for what would eventually become known as post-progressive rock.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Elephant Talk
-2. Frame By Frame
-3. Matte Kudasai
-4. Indiscipline
-5. Thela Hun Ginjeet
-6. The Sheltering Sky
-7. Discipline
-8. Matte Kudasai (Alt. Mix)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Elephant Talk |  |
+| A2 | Frame By Frame |  |
+| A3 | Matte Kudasai |  |
+| A4 | Indiscipline |  |
+| B1 | Thela Hun Ginjeet |  |
+| B2 | The Sheltering Sky |  |
+| B3 | Discipline |  |
+| B4 | Matte Kudasai (Alt. Mix) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/discipline-expanded-edition/1090440045" >}}<br>
 
 
-## Videos
-### King Crimson - Indiscipline
-{{< youtube id="tH3phKBbVLs" title="King Crimson - Indiscipline" >}}<br>
-### More Videos
-
-- [King Crimson - Thela Hun Ginjeet](https://www.youtube.com/watch?v=nOrYTBaT1z0)
-- [King Crimson - Elephant Talk](https://www.youtube.com/watch?v=YecBv-5JXmQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +59,5 @@ This album was King Crimson's first following a seven-year hiatus. Only band co-
 | Format         | Vinyl LP Album Reissue Remastered Stereo (200 Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP8 |
-| Notes | Sticker, embossed "Inner Knot" logo on front cover. Includes an alternate mix of "Matte Kudasai" as a bonus track (not listed on back cover or side B label). Includes a branded inner sleeve.  Sticker: • The 1981 King Crimson classic • Newly cut from masters approved by Robert Fripp • Includes bonus track (Matte Kudasai alt. mix) • 200-gram super-heavyweight vinyl  Back: ℗ & © 2018 Robert Fripp  Labels: Made in England. ℗ & © 2018 Robert Fripp. |
+| Notes | Sticker, embossed "Inner Knot" logo on front cover.<br>Includes an alternate mix of "Matte Kudasai" as a bonus track (not listed on back cover or side B label).<br>Includes a branded inner sleeve.<br><br>Sticker:<br>• The 1981 King Crimson classic<br>• Newly cut from masters approved by Robert Fripp<br>• Includes bonus track (Matte Kudasai alt. mix)<br>• 200-gram super-heavyweight vinyl<br><br>Back:<br>℗ & © 2018 Robert Fripp<br><br>Labels:<br>Made in England. ℗ & © 2018 Robert Fripp. |
 | Discogs URL    | [King Crimson - Discipline](https://www.discogs.com/release/12125596-King-Crimson-Discipline) |

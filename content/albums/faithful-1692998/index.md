@@ -4,6 +4,7 @@ artist_name: "Todd Rundgren"
 artist: "todd-rundgren"
 album_name: "Faithful"
 date: 2022-03-06T04:57:04.000000Z
+release_date: "1976-04"
 release_id: "1692998"
 slug: "faithful-1692998"
 hideSummary: true
@@ -23,38 +24,32 @@ styles: ["Pop Rock"]
 Faithful is the seventh studio album by American musician Todd Rundgren, released in May 1976 on Bearsville Records.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Happenings Ten Years Time Ago (3:12)
-2. Good Vibrations (3:44)
-3. Rain (3:16)
-4. Most Likely You Go Your Way And I'll Go Mine (3:24)
-5. If Six Was Nine (4:55)
-6. Strawberry Fields Forever (3:53)
-7. Black And White (4:42)
-8. Common Man (3:35)
-9. When I Pray (2:58)
-10. Cliché (4:00)
-11. The Verb To Love (7:25)
-12. Boogies (Hamburger Hell) (5:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Happenings Ten Years Time Ago | 3:12 |
+| A2 | Good Vibrations | 3:44 |
+| A3 | Rain | 3:16 |
+| A4 | Most Likely You Go Your Way And I'll Go Mine | 3:24 |
+| A5 | If Six Was Nine | 4:55 |
+| A6 | Strawberry Fields Forever | 3:53 |
+| B1 | Black And White | 4:42 |
+| B2 | Common Man | 3:35 |
+| B3 | When I Pray | 2:58 |
+| B4 | Cliché | 4:00 |
+| B5 | The Verb To Love | 7:25 |
+| B6 | Boogies (Hamburger Hell) | 5:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/faithful/1084189642" >}}<br>
 
 
-## Videos
-### Love of the Common Man 2015 Remaster
-{{< youtube id="rxGTAZ0P_pA" title="Love of the Common Man 2015 Remaster" >}}<br>
-### More Videos
-
-- [Good Vibrations 2015 Remaster](https://www.youtube.com/watch?v=_E3RgULRWKU)
-- [Todd Rundgren - The Verb To Love Lyrics Below HQ](https://www.youtube.com/watch?v=rEJ85SaJ4_Q)
-- [Todd Rundgren - Black And White Lyrics Below HQ](https://www.youtube.com/watch?v=tOg8Eir2r5g)
-- [Strawberry Fields Forever 2015 Remaster](https://www.youtube.com/watch?v=pWd73sQw9Yc)
-- [Todd Rundgren - Faithful as love 1976 US](https://www.youtube.com/watch?v=_d3JyvmT0Xg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +61,5 @@ Faithful is the seventh studio album by American musician Todd Rundgren, release
 | Format         | Vinyl LP Album |
 | Label          | Bearsville |
 | Catalog Number | K55510 |
-| Notes | Textured sleeve with embossed letters on front cover. Plain cardboard inner sleeve with BR 6963 printed on. ℗ & © 1976 on back cover  B4 is misspelled 'Cliches' on label. |
+| Notes | Textured sleeve with embossed letters on front cover.<br>Plain cardboard inner sleeve with BR 6963 printed on.<br>℗ & © 1976 on back cover<br><br>B4 is misspelled 'Cliches' on label. |
 | Discogs URL    | [Todd Rundgren - Faithful](https://www.discogs.com/release/1692998-Todd-Rundgren-Faithful) |

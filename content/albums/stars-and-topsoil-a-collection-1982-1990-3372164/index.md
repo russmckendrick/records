@@ -34,39 +34,32 @@ Long before dreampop was a genre, Robin Guthrie and Simon Raymonde of the Grange
 
 
 ## Tracklisting
-1. Blind Dumb Deaf
-2. Sugar Hiccup
-3. My Love Paramour
-4. Pearly-Dewdrops' Drops
-5. Lorelei
-6. Pandora
-7. Aikea-Guinea
-8. Pink Orange Red
-9. Pale Clouded White
-10. Lazy Calm
-11. The Thinner The Air
-12. Orange Appled
-13. Cico Buff
-14. Carolyn's Fingers
-15. Fifty-Fifty Clown
-16. Iceblink Luck
-17. Heaven Or Las Vegas
-18. Watchlar
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Blind Dumb Deaf |  |
+| A2 | Sugar Hiccup |  |
+| A3 | My Love Paramour |  |
+| A4 | Pearly-Dewdrops' Drops |  |
+| A5 | Lorelei |  |
+| B1 | Pandora |  |
+| B2 | Aikea-Guinea |  |
+| B3 | Pink Orange Red |  |
+| B4 | Pale Clouded White |  |
+| C1 | Lazy Calm |  |
+| C2 | The Thinner The Air |  |
+| C3 | Orange Appled |  |
+| C4 | Cico Buff |  |
+| D1 | Carolyn's Fingers |  |
+| D2 | Fifty-Fifty Clown |  |
+| D3 | Iceblink Luck |  |
+| D4 | Heaven Or Las Vegas |  |
+| D5 | Watchlar |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stars-and-topsoil-a-collection-1982-1990/1025322826" >}}<br>
 
 
-## Videos
-### Sugar Hiccup
-{{< youtube id="gbzCUmuI-Bg" title="Sugar Hiccup" >}}<br>
-### More Videos
-
-- [Lorelei](https://www.youtube.com/watch?v=o7tcFKakZTA)
-- [Pink Orange Red](https://www.youtube.com/watch?v=sDTiyR339Mw)
-- [Pale Clouded White](https://www.youtube.com/watch?v=JP5EVzxrYtg)
-- [Lazy Calm](https://www.youtube.com/watch?v=m0wVqkt7ND8)
-- [The Thinner The Air](https://www.youtube.com/watch?v=mJmnKVL5ja0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +70,5 @@ Long before dreampop was a genre, Robin Guthrie and Simon Raymonde of the Grange
 | Format         | Vinyl 2× LP Compilation Reissue Remastered (White) |
 | Label          | 4AD |
 | Catalog Number | CAD 2K19 |
-| Notes | Track A1: from the album [r=62111]  ℗ 1982 4AD LTD.  Track A2 & A3: from the album [r=62108]  ℗ 1983 4AD LTD.  Track A4: from the ep [r=184959]  ℗ 1984 4AD LTD.  Track A5 & B1: from the album [r=63993]  ℗ 1984 4AD LTD.  Track B2: from the ep [r=184951]  ℗ 1985 4AD LTD.  Track B3: from the ep [r=184948]  ℗ 1985 4AD Ltd.  Track B4: from the ep [r=184971]  ℗ 1985 4AD Ltd.  Track C1 & C2: from the album [r=72009]  ℗ 1986 4AD Ltd.  Track C3: from the us version of the ep [r=189907]  ℗ 1986 4AD Ltd.  Track C4 & D1: from the album [r=138276]  ℗ 1988 4AD Ltd.  Track D2, D3 & D4: from the album [r=184990]  ℗ 1990 4AD Ltd.  Track D5: from the single [r=51235]  ℗ 1990 4AD Ltd.    Published by Universal Music Publishing/Momentum 3.  Art direction and graphic design @ v23    © 2011 4AD    Vinyl Mastering at Loud Mastering    Compilation and remastering credits are taken from the 4AD site for this release, they do not appear on it.   |
+| Notes | Track A1: from the album [r=62111]<br>℗ 1982 4AD LTD.<br>Track A2 & A3: from the album [r=62108]<br>℗ 1983 4AD LTD.<br>Track A4: from the ep [r=184959]<br>℗ 1984 4AD LTD.<br>Track A5 & B1: from the album [r=63993]<br>℗ 1984 4AD LTD.<br>Track B2: from the ep [r=184951]<br>℗ 1985 4AD LTD.<br>Track B3: from the ep [r=184948]<br>℗ 1985 4AD Ltd.<br>Track B4: from the ep [r=184971]<br>℗ 1985 4AD Ltd.<br>Track C1 & C2: from the album [r=72009]<br>℗ 1986 4AD Ltd.<br>Track C3: from the us version of the ep [r=189907]<br>℗ 1986 4AD Ltd.<br>Track C4 & D1: from the album [r=138276]<br>℗ 1988 4AD Ltd.<br>Track D2, D3 & D4: from the album [r=184990]<br>℗ 1990 4AD Ltd.<br>Track D5: from the single [r=51235]<br>℗ 1990 4AD Ltd.<br><br>Published by Universal Music Publishing/Momentum 3.<br>Art direction and graphic design @ v23<br><br>© 2011 4AD<br><br>Vinyl Mastering at Loud Mastering<br><br>Compilation and remastering credits are taken from the 4AD site for this release, they do not appear on it.<br> |
 | Discogs URL    | [Cocteau Twins - Stars And Topsoil A Collection (1982-1990)](https://www.discogs.com/release/3372164-Cocteau-Twins-Stars-And-Topsoil-A-Collection-1982-1990) |

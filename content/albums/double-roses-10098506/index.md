@@ -4,6 +4,7 @@ artist_name: "Karen Elson"
 artist: "karen-elson"
 album_name: "Double Roses"
 date: 2017-04-23T12:08:07.000000Z
+release_date: "2017-04-07"
 release_id: "10098506"
 slug: "double-roses-10098506"
 hideSummary: true
@@ -20,29 +21,29 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Wonder Blind
-2. Double Roses
-3. Call Your Name
-4. Hell And High Water
-5. The End
-6. Raven
-7. Why Am I Waiting
-8. A Million Stars
-9. Wolf
-10. Distant Shore
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Wonder Blind |  |
+| A2 | Double Roses |  |
+| A3 | Call Your Name |  |
+| A4 | Hell And High Water |  |
+| A5 | The End |  |
+| B1 | Raven |  |
+| B2 | Why Am I Waiting |  |
+| B3 | A Million Stars |  |
+| B4 | Wolf |  |
+| B5 | Distant Shore |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/double-roses/1186335978" >}}<br>
 
 
-## Videos
-### Karen Elson - Double Roses FULL ALBUM
-{{< youtube id="uEKiKp-2bW4" title="Karen Elson - Double Roses FULL ALBUM" >}}<br>
-### More Videos
-
-- [Karen Elson - Double Roses FULL ALBUM](https://www.youtube.com/watch?v=uEKiKp-2bW4)
 
 ## Release Images
 {{< imageGrid >}}

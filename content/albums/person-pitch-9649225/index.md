@@ -43,29 +43,21 @@ Despite <i>Person Pitch</i>’s seismic impact on indie, its seven songs—five 
 
 
 ## Tracklisting
-1. Comfy In Nautica (4:04)
-2. Take Pills (5:23)
-3. Bros (12:30)
-4. Good Girl/Carrots (12:42)
-5. I'm Not (3:49)
-6. Search For Delicious (4:53)
-7. Ponytail (2:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Comfy In Nautica | 4:04 |
+| A2 | Take Pills | 5:23 |
+| B | Bros | 12:30 |
+| C | Good Girl/Carrots | 12:42 |
+| D1 | I'm Not | 3:49 |
+| D2 | Search For Delicious | 4:53 |
+| D3 | Ponytail | 2:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/person-pitch/1484070816" >}}<br>
 
 
-## Videos
-### Comfy In Nautica
-{{< youtube id="7xqOz_YqDxM" title="Comfy In Nautica" >}}<br>
-### More Videos
-
-- [Take Pills](https://www.youtube.com/watch?v=ggKdy2n_DXA)
-- [Bros](https://www.youtube.com/watch?v=pxBvg6QSZZw)
-- [Im Not](https://www.youtube.com/watch?v=_98TZ-rxLos)
-- [Good Girl  Carrots](https://www.youtube.com/watch?v=iRk1DM04GfA)
-- [Search For Delicious](https://www.youtube.com/watch?v=Hiz0C5hQsxU)
-- [Ponytail](https://www.youtube.com/watch?v=EgDqnQLX6hk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +69,5 @@ Despite <i>Person Pitch</i>’s seismic impact on indie, its seven songs—five 
 | Format         | Vinyl 12" 45 RPM (White), Vinyl 12" 45 RPM (Blue), All Media Album Club Edition Reissue Remastered (Gatefold) |
 | Label          | My Animal Home |
 | Catalog Number | MAH08 |
-| Notes | 'Vinyl Me, Please' record club exclusive. Record of the month for January 2017: 10-year Anniversary Reissue 2xLP, White + Blue Vinyl Half Speed Remastered, 45 RPM Gatefold direct-to-board style jacket 12" x 12" Original Art Print by Mi Ju  P & C 2007 MY ANIMAL HOME |
+| Notes | 'Vinyl Me, Please' record club exclusive. Record of the month for January 2017:<br>10-year Anniversary Reissue<br>2xLP, White + Blue Vinyl<br>Half Speed Remastered, 45 RPM<br>Gatefold direct-to-board style jacket<br>12" x 12" Original Art Print by Mi Ju<br><br>P & C 2007 MY ANIMAL HOME |
 | Discogs URL    | [Panda Bear - Person Pitch](https://www.discogs.com/release/9649225-Panda-Bear-Person-Pitch) |

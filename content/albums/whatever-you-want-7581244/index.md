@@ -4,6 +4,7 @@ artist_name: "Status Quo"
 artist: "status-quo"
 album_name: "Whatever You Want"
 date: 2016-05-23T18:28:27.000000Z
+release_date: "1979-10-20"
 release_id: "7581244"
 slug: "whatever-you-want-7581244"
 hideSummary: true
@@ -18,29 +19,29 @@ styles: ["Pop Rock", "Classic Rock", "Rock & Roll"]
 ---
 
 "Whatever You Want" is a rock song by the British rock band Status Quo. Written by Rick Parfitt and Andy Bown, it was released on the album of the same name in 1979 and has become one of the band's better-known works. The track peaked at number 4 on the UK charts on 30 September 1979. It originally appeared on the band's 1979 album Whatever You Want and was later re-recorded for their 2003 album Riffs.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Whatever You Want (4:03)
-2. Shady Lady (3:00)
-3. Who Asked You (3:57)
-4. Your Smiling Face (4:22)
-5. Living On An Island (4:50)
-6. Come Rock With Me
-7. Rockin' On (6:41)
-8. Runaway (4:38)
-9. High Flyer (3:50)
-10. Breaking Away (6:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Whatever You Want | 4:03 |
+| A2 | Shady Lady | 3:00 |
+| A3 | Who Asked You | 3:57 |
+| A4 | Your Smiling Face | 4:22 |
+| A5 | Living On An Island | 4:50 |
+| B1 | Come Rock With Me |  |
+| B2 | Rockin' On | 6:41 |
+| B3 | Runaway | 4:38 |
+| B4 | High Flyer | 3:50 |
+| B5 | Breaking Away | 6:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whatever-you-want/1443409213" >}}<br>
 
-
-## Videos
-### Status Quo - Whatever You Want
-{{< youtube id="BGUeRbHWNZ4" title="Status Quo - Whatever You Want" >}}<br>
 
 
 ## Release Images

@@ -1,7 +1,7 @@
 ---
 title: "Oasis - Definitely Maybe"
 artist_name: "Oasis"
-artist: "oasis-2"
+artist: "oasis"
 album_name: "Definitely Maybe"
 date: 2015-12-21T22:34:46.000000Z
 release_date: "1994-08-29"
@@ -46,26 +46,25 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 
 
 ## Tracklisting
-1. Rock 'n' Roll Star
-2. Shakermaker
-3. Live Forever
-4. Up In The Sky
-5. Columbia
-6. Sad Song
-7. Supersonic
-8. Bring It On Down
-9. Cigarettes & Alcohol
-10. Digsy's Dinner
-11. Slide Away
-12. Married With Children
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rock 'n' Roll Star |  |
+| A2 | Shakermaker |  |
+| A3 | Live Forever |  |
+| B1 | Up In The Sky |  |
+| B2 | Columbia |  |
+| B3 | Sad Song |  |
+| C1 | Supersonic |  |
+| C2 | Bring It On Down |  |
+| C3 | Cigarettes & Alcohol |  |
+| D1 | Digsy's Dinner |  |
+| D2 | Slide Away |  |
+| D3 | Married With Children |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/definitely-maybe/1517506402" >}}<br>
 
-
-## Videos
-### Oasis - Shakermaker Official HD Remastered Video
-{{< youtube id="3FpNw3286y8" title="Oasis - Shakermaker Official HD Remastered Video" >}}<br>
 
 
 ## Release Images
@@ -78,5 +77,5 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (180g, Gatefold) |
 | Label          | Big Brother |
 | Catalog Number | RKIDLP70 |
-| Notes | - 20th anniversary reissue - mat cover surface  On black round sticker on shrinkwrap (front cover): REMASTERED DOUBLE HEAVYWEIGHT VINYL INCLUDEs DOWNLOAD CODE FOR ALBUM, BONUS UNRELEASED TRACKS & RARITIES"  On rear cover: ℗ & © 2014 Big Brother Recordings Ltd.  Inside gatefold: Remastered in 2014 by Ian Cooper at Metropolis Mastering, London. |
+| Notes | - 20th anniversary reissue<br>- mat cover surface<br><br>On black round sticker on shrinkwrap (front cover):<br>REMASTERED<br>DOUBLE<br>HEAVYWEIGHT VINYL<br>INCLUDEs<br>DOWNLOAD CODE FOR ALBUM,<br>BONUS<br>UNRELEASED TRACKS<br>& RARITIES"<br><br>On rear cover:<br>℗ & © 2014 Big Brother Recordings Ltd.<br><br>Inside gatefold:<br>Remastered in 2014 by Ian Cooper at Metropolis Mastering, London. |
 | Discogs URL    | [Oasis - Definitely Maybe](https://www.discogs.com/release/5697791-Oasis-2-Definitely-Maybe) |

@@ -4,6 +4,7 @@ artist_name: "Paul Draper"
 artist: "paul-draper"
 album_name: "Spooky Action"
 date: 2017-08-13T18:21:55.000000Z
+release_date: "2017-08-11"
 release_id: "10690266"
 slug: "spooky-action-10690266"
 hideSummary: true
@@ -19,33 +20,31 @@ styles: ["Indie Rock", "Prog Rock"]
 ---
 
 Spooky Action is the debut solo album by English singer songwriter and ex-Mansun frontman Paul Draper, released on 11 August 2017. It entered the UK Albums Chart at No. 19 and peaked at No. 3 on the UK Independent Albums Chart.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Don't Poke The Bear (6:49)
-2. Grey House (4:43)
-3. Things People Want (3:58)
-4. Who's Wearing The Trousers (4:45)
-5. Jealousy Is A Powerful Emotion (5:38)
-6. Friends Make The Worst Enemies (6:49)
-7. Feeling My Heart Run Slow (4:26)
-8. You Don't Really Know Someone, Til You Fall Out With Them (5:35)
-9. Can't Get Fairer Than That (3:13)
-10. Feel Like I Wanna Stay (2:45)
-11. The Inner Wheel (5:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Don't Poke The Bear | 6:49 |
+| A2 | Grey House | 4:43 |
+| A3 | Things People Want | 3:58 |
+| B1 | Who's Wearing The Trousers | 4:45 |
+| B2 | Jealousy Is A Powerful Emotion | 5:38 |
+| B3 | Friends Make The Worst Enemies | 6:49 |
+| C1 | Feeling My Heart Run Slow | 4:26 |
+| C2 | You Don't Really Know Someone, Til You Fall Out With Them | 5:35 |
+| C3 | Can't Get Fairer Than That | 3:13 |
+| D1 | Feel Like I Wanna Stay | 2:45 |
+| D2 | The Inner Wheel | 5:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/spooky-action/1244714904" >}}<br>
 
 
-## Videos
-### Paul Draper - Dont Poke The Bear
-{{< youtube id="22WfZ8vM-r0" title="Paul Draper - Dont Poke The Bear" >}}<br>
-### More Videos
-
-- [Paul Draper - Jealousy Is A Powerful Emotion](https://www.youtube.com/watch?v=fGbqK0wPVwk)
 
 ## Release Images
 {{< imageGrid >}}

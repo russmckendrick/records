@@ -1,16 +1,17 @@
 ---
-title: "Ned's Atomic Dustbin - God Fodder"
-artist_name: "Ned's Atomic Dustbin"
-artist: "ned-s-atomic-dustbin"
+title: "Neds Atomic Dustbin - God Fodder"
+artist_name: "Neds Atomic Dustbin"
+artist: "neds-atomic-dustbin"
 album_name: "God Fodder"
 date: 2019-08-09T17:50:15.000000Z
+release_date: "1991-05-28"
 release_id: "13977896"
 slug: "god-fodder-13977896"
 hideSummary: true
 cover:
     image: "god-fodder-13977896.jpg"
-    alt: "God Fodder by Ned's Atomic Dustbin"
-    caption: "God Fodder by Ned's Atomic Dustbin"
+    alt: "God Fodder by Neds Atomic Dustbin"
+    caption: "God Fodder by Neds Atomic Dustbin"
 additional_images:
     - "https://i.discogs.com/ANf8SKTLTvX4lnWEiMkF9yiSBuvMRjzR5SWBRK1UuWs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTc3/ODk2LTE1ODA5OTk1/ODYtMjkyMy5qcGVn.jpeg"
     - "https://i.discogs.com/yojUdUafVL09z-Y7wGbZ2ml5jCdwgjQcJh-etGCE9_o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTc3/ODk2LTE1ODA5OTk1/ODItNzM0OS5qcGVn.jpeg"
@@ -27,52 +28,33 @@ God Fodder is the debut studio album by English rock band Ned's Atomic Dustbin, 
 Five different singles were released from God Fodder across different regions. Upon its release, the album was a critical and commercial success, reaching number 4 in the UK Albums Chart; it also found an audience in the United States, where the album reached number 91 on the Billboard 200, largely due to the band's T-shirt campaign and the videos for “Kill Your Television” and "Grey Cell Green", which gained traction on MTV's “120 Minutes Into The Future”. The record's success is said to be a triumph against the dominance of grunge music at the time. The album was named among the year's best albums by several magazines. The band played the album in its entirety for the first time in O2 Shepherd's Bush Empire in December 2009 and played it again in Birmingham in September 2010.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Kill Your Television
-2. Less Than Useful
-3. Selfish
-4. Grey Cell Green
-5. Cut Up
-6. Throwing Things
-7. Capital Letters
-8. Happy
-9. Your Complex
-10. Nothing Like
-11. Until You Find Out
-12. You
-13. What Gives My Son?
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Kill Your Television |  |
+| A2 | Less Than Useful |  |
+| A3 | Selfish |  |
+| A4 | Grey Cell Green |  |
+| A5 | Cut Up |  |
+| A6 | Throwing Things |  |
+| B7 | Capital Letters |  |
+| B8 | Happy |  |
+| B9 | Your Complex |  |
+| B10 | Nothing Like |  |
+| B11 | Until You Find Out |  |
+| B12 | You |  |
+| B13 | What Gives My Son? |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/god-fodder/290933571" >}}<br>
 
 
-## Videos
-### Neds Atomic Dustbin-Happy
-{{< youtube id="AI4lzeHQduE" title="Neds Atomic Dustbin-Happy" >}}<br>
-### More Videos
-
-- [Neds Atomic Dustbin-Grey Cell Green](https://www.youtube.com/watch?v=GkH0wgg8igM)
-- [Neds Atomic Dustbin-Less Than Useful](https://www.youtube.com/watch?v=pYqfB44lEF0)
-- [Neds Atomic Dustbin - Kill Your Television](https://www.youtube.com/watch?v=FaTcIzLk880)
-- [Neds Atomic Dustbin - Throwing Things - God Fodder 1991](https://www.youtube.com/watch?v=6Ua7arwVspI)
-- [Neds Atomic Dustbin - Cut Up - God Fodder 1991](https://www.youtube.com/watch?v=O6BtD4q63fg)
-- [Neds Atomic Dustbin-Happy](https://www.youtube.com/watch?v=INJr2ZSWZHM)
-- [Neds Atomic Dustbin-Until You Find Out](https://www.youtube.com/watch?v=cTb5zr9vI4E)
-- [Neds Atomic Dustbin-Kill Your Television](https://www.youtube.com/watch?v=ZA2371iADS0)
-- [Neds Atomic Dustbin-Less Than Useful](https://www.youtube.com/watch?v=pYqfB44lEF0)
-- [Neds Atomic Dustbin-Selfish](https://www.youtube.com/watch?v=uzUwJjgTRKk)
-- [Neds Atomic Dustbin-Grey Cell Green](https://www.youtube.com/watch?v=GkH0wgg8igM)
-- [Neds Atomic Dustbin-Cut Up](https://www.youtube.com/watch?v=Z-VA3tb1bCo)
-- [Neds Atomic Dustbin-Throwing Things](https://www.youtube.com/watch?v=GHM6Xs2Voko)
-- [Neds Atomic Dustbin-Capital Letters](https://www.youtube.com/watch?v=OHh69qmqdyo)
-- [Neds Atomic Dustbin-Your Complex](https://www.youtube.com/watch?v=wc93aK6d2G8)
-- [Neds Atomic Dustbin-Nothing Like](https://www.youtube.com/watch?v=PgaW75ay1Mw)
-- [Neds Atomic Dustbin-You](https://www.youtube.com/watch?v=xyOYwnTekOc)
-- [Neds Atomic Dustbin-What Gives My Son](https://www.youtube.com/watch?v=6ahrAlCt0L4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +66,5 @@ Five different singles were released from God Fodder across different regions. U
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Silver & Black Marbled) |
 | Label          | Furtive (2) |
 | Catalog Number | MOVLP2455 |
-| Notes | Recorded at the Greenhouse Studio in London from December 1990 to January 1991.  Limited to 1000 machine-numbered copies with insert featuring lyrics, pictures and information.  180 gram.    Tracks listed sequentially on release.  |
-| Discogs URL    | [Ned's Atomic Dustbin - God Fodder](https://www.discogs.com/release/13977896-Neds-Atomic-Dustbin-God-Fodder) |
+| Notes | Recorded at the Greenhouse Studio in London from December 1990 to January 1991.<br><br>Limited to 1000 machine-numbered copies with insert featuring lyrics, pictures and information.<br><br>180 gram. <br><br><br>Tracks listed sequentially on release.<br> |
+| Discogs URL    | [Neds Atomic Dustbin - God Fodder](https://www.discogs.com/release/13977896-Neds-Atomic-Dustbin-God-Fodder) |

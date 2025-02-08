@@ -4,6 +4,7 @@ artist_name: "Depeche Mode"
 artist: "depeche-mode"
 album_name: "Playing The Angel"
 date: 2017-02-11T14:52:54.000000Z
+release_date: "2005-10-17"
 release_id: "9818435"
 slug: "playing-the-angel-9818435"
 hideSummary: true
@@ -31,34 +32,32 @@ styles: ["Synth-pop"]
 Playing the Angel is the eleventh studio album by English electronic music band Depeche Mode. It was first released on 17 October 2005 by Mute Records in the UK, and a day later by Sire Records and Reprise Records in the United States. It was supported by the Touring the Angel tour and the four singles "Precious", "A Pain That I'm Used To", "Suffer Well", and "John the Revelator" / "Lilian". The album reached number one in over 10 countries and entered the top 10 in the United Kingdom and United States.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. A Pain That I'm Used To
-2. John The Revelator
-3. Suffer Well
-4. The Sinner In Me
-5. Precious
-6. Macro
-7. I Want It All
-8. Nothing's Impossible
-9. Introspectre
-10. Damaged People
-11. Lilian
-12. The Darkest Star
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | A Pain That I'm Used To |  |
+| A2 | John The Revelator |  |
+| A3 | Suffer Well |  |
+| B1 | The Sinner In Me |  |
+| B2 | Precious |  |
+| B3 | Macro |  |
+| C1 | I Want It All |  |
+| C2 | Nothing's Impossible |  |
+| C3 | Introspectre |  |
+| C4 | Damaged People |  |
+| D1 | Lilian |  |
+| D2 | The Darkest Star |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/playing-the-angel/665306622" >}}<br>
 
 
-## Videos
-### Depeche Mode - Playing The Angel Full Album DTS
-{{< youtube id="U7Q8ngmmfEM" title="Depeche Mode - Playing The Angel Full Album DTS" >}}<br>
-### More Videos
-
-- [Depeche Mode - Precious Remastered](https://www.youtube.com/watch?v=8yn3ViE6mhY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +69,5 @@ Playing the Angel is the eleventh studio album by English electronic music band 
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Sony Music |
 | Catalog Number | 88985336991 |
-| Notes | ℗ 2005 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 2005, 2016 Venusnote Ltd. under exclusive  license to Sony Music Entertainment International  Ltd. / Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made  in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / LC 05834 / 88985336991.  Released in a gatefold sleeve including 2 printed coloured inner sleeves showing photos, graphics, lyrics and credits.  The runout strings are etched. |
+| Notes | ℗ 2005 Venusnote Ltd. under exclusive license to<br>Sony Music Entertainment International Ltd.<br>© 2005, 2016 Venusnote Ltd. under exclusive <br>license to Sony Music Entertainment International <br>Ltd. / Distributed by Sony Music Entertainment. /<br>All trademarks and logos are protected. / Made <br>in the EU. / Sony Music Entertainment International<br>Services GmbH, PO Box 510, 33311 Gütersloh,<br>Germany. / LC 05834 / 88985336991.<br><br>Released in a gatefold sleeve including 2 printed coloured inner sleeves showing photos, graphics, lyrics and credits.<br><br>The runout strings are etched. |
 | Discogs URL    | [Depeche Mode - Playing The Angel](https://www.discogs.com/release/9818435-Depeche-Mode-Playing-The-Angel) |

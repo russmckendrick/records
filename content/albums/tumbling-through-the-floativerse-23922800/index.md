@@ -4,6 +4,7 @@ artist_name: "Ed Wynne"
 artist: "ed-wynne"
 album_name: "Tumbling Through The Floativerse"
 date: 2022-08-08T10:05:50.000000Z
+release_date: "2022-07-15"
 release_id: "23922800"
 slug: "tumbling-through-the-floativerse-23922800"
 hideSummary: true
@@ -24,29 +25,25 @@ styles: ["Psychedelic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Oilyvoice
-2. Seen The Sun
-3. Magnetophoria
-4. Floating Plates
-5. Infinity Curtains
-6. Starseeds
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Oilyvoice |  |
+| A2 | Seen The Sun |  |
+| A3 | Magnetophoria |  |
+| B1 | Floating Plates |  |
+| B2 | Infinity Curtains |  |
+| B3 | Starseeds |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tumbling-through-the-floativerse/1620580648" >}}<br>
 
 
-## Videos
-### Oilyvoice
-{{< youtube id="_jyi8X3NxrY" title="Oilyvoice" >}}<br>
-### More Videos
-
-- [Seen the Sun](https://www.youtube.com/watch?v=3mCX3G_7Z3Q)
-- [Magnetoforia](https://www.youtube.com/watch?v=i6T0RcYZtPo)
-- [Floating Plates](https://www.youtube.com/watch?v=HDszAKfSASo)
-- [Infinity Curtains](https://www.youtube.com/watch?v=8hm4FG_UmEI)
-- [Starseeds](https://www.youtube.com/watch?v=4A560y7IJ3s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -57,5 +54,5 @@ styles: ["Psychedelic Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE 1176 |
-| Notes | All tracks written and produced by Ed (Ozric Tentacles) & Gre (Gracerooms). Layout by Ed with a little help from Arnold Pesch@Peschdesign. Mastered by Adam Goodlet at re:Creation Studios.  Hype sticker: "New studio album of psychedelic space rock, ethereal ambience & dub from Ozric's main man Ed Wynne and Dutch multi-instrumentalist Gre Vanderloo (Gracerooms)"  Black vinyl. Some copies come with a Kscope promo leaflet. |
+| Notes | All tracks written and produced by Ed (Ozric Tentacles) & Gre (Gracerooms).<br>Layout by Ed with a little help from Arnold Pesch@Peschdesign.<br>Mastered by Adam Goodlet at re:Creation Studios.<br><br>Hype sticker:<br>"New studio album of psychedelic space rock, ethereal ambience & dub from Ozric's main man Ed Wynne and Dutch multi-instrumentalist Gre Vanderloo (Gracerooms)"<br><br>Black vinyl. Some copies come with a Kscope promo leaflet. |
 | Discogs URL    | [Ed Wynne - Tumbling Through The Floativerse](https://www.discogs.com/release/23922800-Ed-Wynne-And-Gre-Vanderloo-Tumbling-Through-The-Floativerse) |

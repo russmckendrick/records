@@ -4,6 +4,7 @@ artist_name: "The Smashing Pumpkins"
 artist: "the-smashing-pumpkins"
 album_name: "Oceania"
 date: 2015-09-27T10:50:55.000000Z
+release_date: "2012-06-19"
 release_id: "3702725"
 slug: "oceania-3702725"
 hideSummary: true
@@ -28,46 +29,33 @@ Oceania is the eighth studio album by American alternative rock band the Smashin
 The album was a critical and commercial success, debuting at number four on the Billboard 200. As of September 2012, Oceania sold over 102,000 copies in the US. A live performance of the album, Oceania: Live in NYC, was released on September 24, 2013.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Quasar (4:55)
-2. Panopticon (3:52)
-3. The Celestials (3:57)
-4. Violet Rays (4:19)
-5. My Love Is Winter (3:32)
-6. One Diamond, One Heart (3:50)
-7. Pinwheels (5:43)
-8. Oceania (9:05)
-9. Pale Horse (4:37)
-10. The Chimera (4:16)
-11. Glissandra (4:06)
-12. Inkless (3:08)
-13. Wildflower (4:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Quasar | 4:55 |
+| A2 | Panopticon | 3:52 |
+| A3 | The Celestials | 3:57 |
+| A4 | Violet Rays | 4:19 |
+| B1 | My Love Is Winter | 3:32 |
+| B2 | One Diamond, One Heart | 3:50 |
+| B3 | Pinwheels | 5:43 |
+| C1 | Oceania | 9:05 |
+| C2 | Pale Horse | 4:37 |
+| C3 | The Chimera | 4:16 |
+| D1 | Glissandra | 4:06 |
+| D2 | Inkless | 3:08 |
+| D3 | Wildflower | 4:42 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/oceania/720100109" >}}<br>
 
 
-## Videos
-### The Smashing Pumpkins Oceania Quasar
-{{< youtube id="ZoaZ3PAHjmg" title="The Smashing Pumpkins Oceania Quasar" >}}<br>
-### More Videos
-
-- [The Smashing Pumpkins Oceania Panopticon](https://www.youtube.com/watch?v=zxT8DxeGwXM)
-- [The Smashing Pumpkins Oceania The Celestials](https://www.youtube.com/watch?v=SVCHpKvyCAg)
-- [The Smashing Pumpkins Oceania Violet Rays](https://www.youtube.com/watch?v=o0F6qS1XlSM)
-- [The Smashing Pumpkins Oceania My Love Is Winter](https://www.youtube.com/watch?v=RACfdjCWuzU)
-- [The Smashing Pumpkins Oceania One Diamond One Heart](https://www.youtube.com/watch?v=ciXDBlIQqwo)
-- [The Smashing Pumpkins Oceania Pinwheels](https://www.youtube.com/watch?v=Liy517_9II8)
-- [The Smashing Pumpkins Oceania Oceania](https://www.youtube.com/watch?v=KLHkM_DQ7aw)
-- [The Smashing Pumpkins Oceania Pale Horse](https://www.youtube.com/watch?v=EJ7JCcp4YF4)
-- [The Smashing Pumpkins Oceania The Chimera](https://www.youtube.com/watch?v=5wlRgkFdYRA)
-- [The Smashing Pumpkins Oceania Glissandra](https://www.youtube.com/watch?v=qq84yOspghQ)
-- [The Smashing Pumpkins Oceania Inkless](https://www.youtube.com/watch?v=kukO9PT83IQ)
-- [The Smashing Pumpkins Oceania Wildflower](https://www.youtube.com/watch?v=098x8xUBj6I)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +67,5 @@ The album was a critical and commercial success, debuting at number four on the 
 | Format         | Vinyl 2× LP Album |
 | Label          | Martha's Music |
 | Catalog Number | MM 002 |
-| Notes | Gatefold packaging, with lyrics printed inside the sleeve. 180 grams pressing.  Issued with a hype sticker including barcode stating: "Oceania  First studio album from The Smashing Pumpkins in 5 years On Tour Fall 2012"  Nicole Fiorentino's name is misspelled "Florentino" in the credits.  Runouts are etched. |
+| Notes | Gatefold packaging, with lyrics printed inside the sleeve.<br>180 grams pressing.<br><br>Issued with a hype sticker including barcode stating:<br>"Oceania <br>First studio album from The Smashing Pumpkins in 5 years<br>On Tour Fall 2012"<br><br>Nicole Fiorentino's name is misspelled "Florentino" in the credits.<br><br>Runouts are etched. |
 | Discogs URL    | [The Smashing Pumpkins - Oceania](https://www.discogs.com/release/3702725-The-Smashing-Pumpkins-Oceania) |

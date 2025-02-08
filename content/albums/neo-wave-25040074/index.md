@@ -4,6 +4,7 @@ artist_name: "Silver Sun"
 artist: "silver-sun"
 album_name: "Neo Wave"
 date: 2023-11-07T05:58:15.000000Z
+release_date: "1998-10-05"
 release_id: "25040074"
 slug: "neo-wave-25040074"
 hideSummary: true
@@ -22,38 +23,36 @@ Neo Wave is the second album by the British power pop band Silver Sun, released 
 The album reached No. 74 on the UK Albums Chart. Two singles reached the UK top 40: "Too Much, Too Little, Too Late" (No. 20) and "I'll See You Around" (No. 26).
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Cheerleading
-2. I'll See You Around
-3. Would've If I Could've
-4. Too Much, Too Little, Too Late
-5. Scared
-6. There Goes Summer
-7. Sharks
-8. The Profit Of The Prairie
-9. Mustard
-10. Pixie, Pixie
-11. Hey Girlfriend
-12. Only A Girl
-13. Special Powers
-14. Fire & Blood
-15. Patients
-16. Dead End
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cheerleading |  |
+| A2 | I'll See You Around |  |
+| A3 | Would've If I Could've |  |
+| A4 | Too Much, Too Little, Too Late |  |
+| A5 | Scared |  |
+| A6 | There Goes Summer |  |
+| A7 | Sharks |  |
+| A8 | The Profit Of The Prairie |  |
+| B1 | Mustard |  |
+| B2 | Pixie, Pixie |  |
+| B3 | Hey Girlfriend |  |
+| B4 | Only A Girl |  |
+| B5 | Special Powers |  |
+| B6 | Fire & Blood |  |
+| B7 | Patients |  |
+| B8 | Dead End |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/neo-wave/1740871831" >}}<br>
 
 
-## Videos
-### Silver Sun - Hey Girl Friend LP
-{{< youtube id="q_vuhK6OtaI" title="Silver Sun - Hey Girl Friend LP" >}}<br>
-### More Videos
-
-- [Silver Sun - Ill See You Around LP](https://www.youtube.com/watch?v=tzNFMP8oxdY)
 
 ## Release Images
 {{< imageGrid >}}

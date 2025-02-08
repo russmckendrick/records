@@ -4,6 +4,7 @@ artist_name: "Lonely Robot"
 artist: "lonely-robot"
 album_name: "The Big Dream"
 date: 2017-04-30T19:59:13.000000Z
+release_date: "2017-04-28"
 release_id: "10212812"
 slug: "the-big-dream-10212812"
 hideSummary: true
@@ -24,50 +25,42 @@ styles: ["Prog Rock"]
 
 The Big Dream is the third studio album by the American film director and musician David Lynch, released on July 10, 2013. It was released on Sacred Bones Records in the United States and Sunday Best in Europe. Consisting of 12 "modern blues" songs, The Big Dream was recorded and produced by Lynch with his frequent musical collaborator Dean Hurley at Lynch's own Asymmetrical Studio in Los Angeles, California during 2012.
 Two singles were released from The Big Dream; "I'm Waiting Here", a collaboration with the Swedish singer-songwriter Lykke Li, was released as the album's lead single and the double A-side single "Are You Sure"/"Star Dream Girl" followed as the album's second single. Both singles were part of an enigmatic promotional campaign conceived by Lynch for The Big Dream, which included cryptic video uploads on various social media websites, including YouTube and Vine. Upon its release The Big Dream received warm reviews and was a moderate commercial success, placing in a number of international record charts.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Prologue - Deep Sleep (2:12)
-2. Awakenings (5:10)
-3. Sigma (5:06)
-4. In Floral Green (5:08)
-5. Everglow (4:58)
-6. False Light (5:33)
-7. Symbolic (5:06)
-8. The Divine Art Of Being (5:38)
-9. The Big Dream (8:02)
-10. Hello World, Goodbye (3:52)
-11. Epilogue - Sea Beams (2:48)
-12. Prologue - Deep Sleep (2:12)
-13. Awakenings (5:10)
-14. Sigma (5:06)
-15. In Floral Green (5:08)
-16. Everglow (4:58)
-17. False Lights (5:33)
-18. Symbolic (5:06)
-19. The Divine Art Of Being (5:38)
-20. The Big Dream (8:02)
-21. Hello World, Goodbye (3:52)
-22. Epilogue - Sea Beams (2:48)
+| Position | Title | Duration |
+|----------|-------|----------|
+| LP-A1 | Prologue - Deep Sleep | 2:12 |
+| LP-A2 | Awakenings | 5:10 |
+| LP-A3 | Sigma | 5:06 |
+| LP-B1 | In Floral Green | 5:08 |
+| LP-B2 | Everglow | 4:58 |
+| LP-B3 | False Light | 5:33 |
+| LP-C1 | Symbolic | 5:06 |
+| LP-C2 | The Divine Art Of Being | 5:38 |
+| LP-D1 | The Big Dream | 8:02 |
+| LP-D2 | Hello World, Goodbye | 3:52 |
+| LP-D3 | Epilogue - Sea Beams | 2:48 |
+| CD-1 | Prologue - Deep Sleep | 2:12 |
+| CD-2 | Awakenings | 5:10 |
+| CD-3 | Sigma | 5:06 |
+| CD-4 | In Floral Green | 5:08 |
+| CD-5 | Everglow | 4:58 |
+| CD-6 | False Lights | 5:33 |
+| CD-7 | Symbolic | 5:06 |
+| CD-8 | The Divine Art Of Being | 5:38 |
+| CD-9 | The Big Dream | 8:02 |
+| CD-10 | Hello World, Goodbye | 3:52 |
+| CD-11 | Epilogue - Sea Beams | 2:48 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-big-dream/1213517622" >}}<br>
 
 
-## Videos
-### The Big Dream
-{{< youtube id="xz4KqSTClIA" title="The Big Dream" >}}<br>
-### More Videos
-
-- [LONELY ROBOT - The Big Dream Track By Track Pt1](https://www.youtube.com/watch?v=vEAKKGWNj48)
-- [LONELY ROBOT - The Big Dream QA Pt3](https://www.youtube.com/watch?v=1IZTy0l1CRw)
-- [LONELY ROBOT - The Big Dream QA Pt1](https://www.youtube.com/watch?v=cKm3C80_AO8)
-- [The Big Dream](https://www.youtube.com/watch?v=xz4KqSTClIA)
-- [LONELY ROBOT - The Big Dream Track By Track Pt1](https://www.youtube.com/watch?v=vEAKKGWNj48)
-- [LONELY ROBOT - The Big Dream QA Pt3](https://www.youtube.com/watch?v=1IZTy0l1CRw)
-- [LONELY ROBOT - The Big Dream QA Pt1](https://www.youtube.com/watch?v=cKm3C80_AO8)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "Madness"
 artist: "madness"
 album_name: "Wonderful"
 date: 2022-09-04T03:40:41.000000Z
+release_date: "1999-11-01"
 release_id: "23052995"
 slug: "wonderful-23052995"
 hideSummary: true
@@ -25,43 +26,31 @@ styles: ["Pop Rock", "Ska"]
 ---
 
 Wonderful is the seventh studio album by the British band Madness, released on 1 November 1999. It was the band's first studio album in fourteen years since Mad Not Mad in 1985, and also the first to feature their classic seven-piece line-up since 1984's Keep Moving. The album saw Madness reunite with their original production team, Clive Langer and Alan Winstanley, who had produced all of the band's previous work.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Lovestruck
-2. Johnny The Horse
-3. The Communicator
-4. 4am
-5. The Wizard
-6. Drip Fed Fred
-7. Going To The Top
-8. Elysium
-9. Saturday Night, Sunday Morning
-10. If I Didn't Care
-11. No Money
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Lovestruck |  |
+| A2 | Johnny The Horse |  |
+| A3 | The Communicator |  |
+| A4 | 4am |  |
+| A5 | The Wizard |  |
+| A6 | Drip Fed Fred |  |
+| B1 | Going To The Top |  |
+| B2 | Elysium |  |
+| B3 | Saturday Night, Sunday Morning |  |
+| B4 | If I Didn't Care |  |
+| B5 | No Money |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wonderful/1780327241" >}}<br>
 
 
-## Videos
-### Madness - Lovestruck
-{{< youtube id="FiThjLcB1Qk" title="Madness - Lovestruck" >}}<br>
-### More Videos
-
-- [Madness - Elysium Wonderful Track 8](https://www.youtube.com/watch?v=XhPPZwcPC9M)
-- [Madness - No Money Wonderful Track 11](https://www.youtube.com/watch?v=JyJSWO-eSVI)
-- [Madness - 4am Wonderful Track 4](https://www.youtube.com/watch?v=Hh__Ni2a8gE)
-- [MADNESS - MEGAMIX - MEDLEY - WONDERFUL ALBUM](https://www.youtube.com/watch?v=I5FW6G83VHE)
-- [Madness - Lovestruck Wonderful Track 1](https://www.youtube.com/watch?v=aoDwMuRW3uA)
-- [Madness -  If I Didnt Care Wonderful Track 10](https://www.youtube.com/watch?v=ISoTiosarYs)
-- [Madness - The Wizard Wonderful Track 5](https://www.youtube.com/watch?v=UbqMw5gqbwU)
-- [Madness - Drip Fed Fred Wonderful Track 6](https://www.youtube.com/watch?v=_urgVEy5iIc)
-- [Madness - Going To The Top Wonderful Track 7](https://www.youtube.com/watch?v=dUICCsFgUPg)
-- [Madness - The Communicator Wonderful Track 3](https://www.youtube.com/watch?v=QsdlbJWipGc)
-- [Madness - Johnny The Horse Wonderful Track 2](https://www.youtube.com/watch?v=dVg0Jb2-ouU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +62,5 @@ Wonderful is the seventh studio album by the British band Madness, released on 1
 | Format         | Vinyl LP Album Reissue |
 | Label          | Union Square Music |
 | Catalog Number | SALVOLP14 |
-| Notes | Hype sticker reads:-  HEAVYWEIGHT 180G BLACK LP. AVAILABLE FOR THE FIRST TIME ON VINYL Includes NEW LINER NOTES FROM LEE THOMPSON CHRIS FOREMAN MARK BEDFORD CATAHAL SMYTH & WOODY WOODGATE Featuring classic tracks Drip Fed Fred • Lovestruck Johnny The Horse SALVOLP14 |
+| Notes | Hype sticker reads:-<br><br>HEAVYWEIGHT 180G BLACK LP. AVAILABLE FOR THE FIRST TIME ON VINYL<br>Includes<br>NEW LINER NOTES<br>FROM LEE THOMPSON<br>CHRIS FOREMAN<br>MARK BEDFORD<br>CATAHAL SMYTH &<br>WOODY WOODGATE<br>Featuring classic tracks<br>Drip Fed Fred • Lovestruck<br>Johnny The Horse<br>SALVOLP14 |
 | Discogs URL    | [Madness - Wonderful](https://www.discogs.com/release/23052995-Madness-Wonderful) |

@@ -1,9 +1,10 @@
 ---
 title: "Voyager - Colours In The Sun"
 artist_name: "Voyager"
-artist: "voyager-30"
+artist: "voyager"
 album_name: "Colours In The Sun"
 date: 2019-11-04T18:58:39.000000Z
+release_date: "2019-11-01"
 release_id: "14328273"
 slug: "colours-in-the-sun-14328273"
 hideSummary: true
@@ -28,34 +29,29 @@ styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Colours (4:04)
-2. Severomance (4:22)
-3. Brightstar (4:31)
-4. Saccharine Dream (5:27)
-5. Entropy (4:42)
-6. Reconnected (4:47)
-7. Now Or Never (1:38)
-8. Sign Of The Times (3:46)
-9. Water Over The Bridge (4:42)
-10. Runaway (4:38)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Colours | 4:04 |
+| A2 | Severomance | 4:22 |
+| A3 | Brightstar | 4:31 |
+| A4 | Saccharine Dream | 5:27 |
+| A5 | Entropy | 4:42 |
+| B1 | Reconnected | 4:47 |
+| B2 | Now Or Never | 1:38 |
+| B3 | Sign Of The Times | 3:46 |
+| B4 | Water Over The Bridge | 4:42 |
+| B5 | Runaway | 4:38 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/colours-in-the-sun/1473359674" >}}<br>
 
 
-## Videos
-### VOYAGER - Colours in the Sun - FULL ALBUM STREAM Official
-{{< youtube id="eyFCWhywrqM" title="VOYAGER - Colours in the Sun - FULL ALBUM STREAM Official" >}}<br>
-### More Videos
-
-- [Voyager - Brightstar Official Music Video](https://www.youtube.com/watch?v=NDoITQV7324)
-- [PREMIERE Voyager - Entropy Featuring Einar Solberg - Official Music Video  Metal Hammer](https://www.youtube.com/watch?v=6MxQX3Mzdm0)
-- [VOYAGER  Sign of the Times official audio](https://www.youtube.com/watch?v=jy-JnAuDP2U)
-- [Voyager - Colours Official Music Video](https://www.youtube.com/watch?v=reFRCJzHN8I)
-- [VOYAGER  Severomance official audio](https://www.youtube.com/watch?v=jPkaA-_EtQQ)
-- [VOYAGER  Saccharine Dream official audio](https://www.youtube.com/watch?v=EKqZnyra1Eo)
 
 ## Release Images
 {{< imageGrid >}}

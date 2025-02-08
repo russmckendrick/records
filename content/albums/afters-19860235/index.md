@@ -4,6 +4,7 @@ artist_name: "The Helicopter Of The Holy Ghost"
 artist: "the-helicopter-of-the-holy-ghost"
 album_name: "Afters"
 date: 2021-10-04T04:59:28.000000Z
+release_date: "2021-08-13"
 release_id: "19860235"
 slug: "afters-19860235"
 hideSummary: true
@@ -25,37 +26,29 @@ styles: ["Indie Rock"]
 ---
 
 The Afters is an American Christian rock band founded by Josh Havens and Matt Fuqua. Havens and Fuqua first worked together in a Starbucks coffee shop in Mesquite, Texas, where they performed songs for customers before deciding to form a band. They were initially joined by Brad Wigg from the same Starbucks and drummer Michael Burden and performed with the name Blisse.  When Burden left the band, Marc Dodd, who also worked at the Mesquite Starbucks stepped in. Their song "Never Going Back to OK" was the most-played song on R&R magazine's Christian CHR chart for 2008.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Slow Down
-2. Difficult Song
-3. Tony Got A Car
-4. A Little Longer
-5. Hangar Lane Gyratory System, 4.44am
-6. I Will Never Hurt
-7. End Of Loneliness
-8. You Too
-9. I Didn't
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Slow Down |  |
+| A2 | Difficult Song |  |
+| A3 | Tony Got A Car |  |
+| A4 | A Little Longer |  |
+| B1 | Hangar Lane Gyratory System, 4.44am |  |
+| B2 | I Will Never Hurt |  |
+| B3 | End Of Loneliness |  |
+| B4 | You Too |  |
+| B5 | I Didn't |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/afters/1566401361" >}}<br>
 
 
-## Videos
-### I Didnt
-{{< youtube id="e5HTe6s51_c" title="I Didnt" >}}<br>
-### More Videos
-
-- [A Little Longer](https://www.youtube.com/watch?v=pdKa1G5heP8)
-- [You Too](https://www.youtube.com/watch?v=YcrKtkVUnfs)
-- [End of Loneliness](https://www.youtube.com/watch?v=mvLhLVLg4UQ)
-- [I Will Never Hurt](https://www.youtube.com/watch?v=KpGCMUA-C90)
-- [Slow Down](https://www.youtube.com/watch?v=HJH6CbY_KGc)
-- [Hangar Lane Gyratory System 444am](https://www.youtube.com/watch?v=ZXAB8w8Y3t0)
-- [Difficult Song](https://www.youtube.com/watch?v=SUl84NqIqJM)
 
 ## Release Images
 {{< imageGrid >}}

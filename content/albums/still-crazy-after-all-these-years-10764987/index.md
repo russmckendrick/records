@@ -31,27 +31,24 @@ The title track has been recorded by Rosemary Clooney (on her 1993 album Still o
 
 
 ## Tracklisting
-1. Still Crazy After All These Years (3:25)
-2. My Little Town (3:52)
-3. I Do It For Your Love (3:35)
-4. 50 Ways To Leave Your Lover (3:35)
-5. Night Game (2:47)
-6. Gone At Last (3:24)
-7. Some Folks Lives Roll Easy (3:10)
-8. Have A Good Time (3:25)
-9. You're Kind (3:23)
-10. Silent Eyes (3:57)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Still Crazy After All These Years | 3:25 |
+| A2 | My Little Town | 3:52 |
+| A3 | I Do It For Your Love | 3:35 |
+| A4 | 50 Ways To Leave Your Lover | 3:35 |
+| A5 | Night Game | 2:47 |
+| B1 | Gone At Last | 3:24 |
+| B2 | Some Folks Lives Roll Easy | 3:10 |
+| B3 | Have A Good Time | 3:25 |
+| B4 | You're Kind | 3:23 |
+| B5 | Silent Eyes | 3:57 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/still-crazy-after-all-these-years-bonus-tracks-edition/380590574" >}}<br>
 
 
-## Videos
-### Paul Simon - 50 Ways to Leave Your Lover Official Audio
-{{< youtube id="ABXtWqmArUU" title="Paul Simon - 50 Ways to Leave Your Lover Official Audio" >}}<br>
-### More Videos
-
-- [Paul Simon - Still Crazy After All These Years Official Audio](https://www.youtube.com/watch?v=Q5Eoax6I-O4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +60,5 @@ The title track has been recorded by Rosemary Clooney (on her 1993 album Still o
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Legacy |
 | Catalog Number | 88985422371 |
-| Notes | Includes insert with credits & download code  Made in the EU |
+| Notes | Includes insert with credits & download code<br><br>Made in the EU |
 | Discogs URL    | [Paul Simon - Still Crazy After All These Years](https://www.discogs.com/release/10764987-Paul-Simon-Still-Crazy-After-All-These-Years) |

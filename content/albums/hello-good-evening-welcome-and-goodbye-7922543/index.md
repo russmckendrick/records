@@ -4,6 +4,7 @@ artist_name: "Carter The Unstoppable Sex Machine"
 artist: "carter-the-unstoppable-sex-machine"
 album_name: "Hello, Good Evening, Welcome and Goodbye"
 date: 2017-12-02T15:18:15.000000Z
+release_date: "2015-12-11"
 release_id: "7922543"
 slug: "hello-good-evening-welcome-and-goodbye-7922543"
 hideSummary: true
@@ -25,40 +26,31 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Rubbish (4:59)
-2. Do Re Me, So Far So Good (2:57)
-3. Everytime A Churchbell Rings (4:29)
-4. Anytime, Anyplace, Anywhere (4:15)
-5. A Prince In A Paupers Grave (4:29)
-6. And God Created Brixton (5:20)
-7. This is How It Feels (3:21)
-8. Lets Get Tattoos (3:20)
-9. The Music That Nobody Likes (7:00)
-10. The Only Living Boy In New Cross (4:35)
-11. Sheriff Fatman (4:36)
-12. Rent (3:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rubbish | 4:59 |
+| A2 | Do Re Me, So Far So Good | 2:57 |
+| A3 | Everytime A Churchbell Rings | 4:29 |
+| A4 | Anytime, Anyplace, Anywhere | 4:15 |
+| A5 | A Prince In A Paupers Grave | 4:29 |
+| A6 | And God Created Brixton | 5:20 |
+| B1 | This is How It Feels | 3:21 |
+| B2 | Lets Get Tattoos | 3:20 |
+| B3 | The Music That Nobody Likes | 7:00 |
+| B4 | The Only Living Boy In New Cross | 4:35 |
+| B5 | Sheriff Fatman | 4:36 |
+| B6 | Rent | 3:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hello-good-evening-welcome-and-goodbye-live/1594857663" >}}<br>
 
 
-## Videos
-### The Music that Nobody Likes Live
-{{< youtube id="CQwq74RfkZw" title="The Music that Nobody Likes Live" >}}<br>
-### More Videos
-
-- [Intro Live](https://www.youtube.com/watch?v=qUnXO-0CJpc)
-- [Intro Live](https://www.youtube.com/watch?v=qUnXO-0CJpc)
-- [Sheriff Fatman Live](https://www.youtube.com/watch?v=661sgGG4hXQ)
-- [Sheriff Fatman Live](https://www.youtube.com/watch?v=661sgGG4hXQ)
-- [Rent Live](https://www.youtube.com/watch?v=pqz_aV2PlgU)
-- [Rent Live](https://www.youtube.com/watch?v=pqz_aV2PlgU)
-- [Rubbish Live](https://www.youtube.com/watch?v=TrDzyaFPaoQ)
-- [Rubbish Live](https://www.youtube.com/watch?v=TrDzyaFPaoQ)
-- [CARTER USM - Rent PET SHOP BOYS cover BBC Live At Maida Vale](https://www.youtube.com/watch?v=K0yt2Jr0cYo)
-- [CARTER USM - Rent PET SHOP BOYS cover BBC Live At Maida Vale](https://www.youtube.com/watch?v=K0yt2Jr0cYo)
 
 ## Release Images
 {{< imageGrid >}}

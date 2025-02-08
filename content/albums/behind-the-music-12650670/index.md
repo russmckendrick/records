@@ -36,39 +36,34 @@ The front cover features alginate masks of the faces of the six band members, ca
 
 
 ## Tracklisting
-1. Infra Riot (4:45)
-2. Sister Surround (3:35)
-3. In Someone Else's Mind (2:45)
-4. Mind The Gap (4:21)
-5. Broken Imaginary Time (5:14)
-6. 21st Century Rip Off (3:56)
-7. Tonight (3:42)
-8. Keep The Line Movin' (2:47)
-9. Nevermore (3:21)
-10. Independent Luxury (3:59)
-11. Ten Years Ahead (2:51)
-12. Still Aging (3:52)
-13. In Your Veins (4:22)
-14. The Flood (2:47)
-15. Into The Next Sun (5:06)
-16. We're Gonna Get It Right (4:01)
-17. Can't Control Myself (3:19)
-18. Slow Drift Away (2:52)
-19. Hang Ten (4:37)
-20. We'll Get By (2:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Infra Riot | 4:45 |
+| A2 | Sister Surround | 3:35 |
+| A3 | In Someone Else's Mind | 2:45 |
+| A4 | Mind The Gap | 4:21 |
+| B1 | Broken Imaginary Time | 5:14 |
+| B2 | 21st Century Rip Off | 3:56 |
+| B3 | Tonight | 3:42 |
+| B4 | Keep The Line Movin' | 2:47 |
+| B5 | Nevermore | 3:21 |
+| C1 | Independent Luxury | 3:59 |
+| C2 | Ten Years Ahead | 2:51 |
+| C3 | Still Aging | 3:52 |
+| C4 | In Your Veins | 4:22 |
+| C5 | The Flood | 2:47 |
+| C6 | Into The Next Sun | 5:06 |
+| D1 | We're Gonna Get It Right | 4:01 |
+| D2 | Can't Control Myself | 3:19 |
+| D3 | Slow Drift Away | 2:52 |
+| D4 | Hang Ten | 4:37 |
+| D5 | We'll Get By | 2:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/behind-the-music/63832061" >}}<br>
 
 
-## Videos
-### Soundtrack of Our Lives - Independent Luxury
-{{< youtube id="hdW3yRTeBzM" title="Soundtrack of Our Lives - Independent Luxury" >}}<br>
-### More Videos
-
-- [The Soundtrack of Our Lives - Sister Surround](https://www.youtube.com/watch?v=n43d09Q6eB0)
-- [Soundtrack of Our Lives Into the Next Sun Behind the Music LP](https://www.youtube.com/watch?v=RrZQ8n3x8EY)
-- [MIND THE GAP The Soundtrack Of Our Lives](https://www.youtube.com/watch?v=ZTK5k6kyH7w)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +75,5 @@ The front cover features alginate masks of the faces of the six band members, ca
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Gold) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2242 |
-| Notes | 180 gram audiophile vinyl Gatefold sleeve Including insert Limited edition of 1.500 Individually numbered copies on solid gold coloured vinyl |
+| Notes | 180 gram audiophile vinyl<br>Gatefold sleeve<br>Including insert<br>Limited edition of 1.500 Individually numbered copies on solid gold coloured vinyl |
 | Discogs URL    | [The Soundtrack Of Our Lives - Behind The Music](https://www.discogs.com/release/12650670-The-Soundtrack-Of-Our-Lives-Behind-The-Music) |

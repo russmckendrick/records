@@ -37,30 +37,23 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 
 
 ## Tracklisting
-1. Moribund The Burgermeister
-2. Solsbury Hill
-3. Modern Love
-4. Excuse Me
-5. Humdrum
-6. Slowburn
-7. Waiting For The Big One
-8. Down The Dolce Vita
-9. Here Comes The Flood
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Moribund The Burgermeister |  |
+| A2 | Solsbury Hill |  |
+| A3 | Modern Love |  |
+| A4 | Excuse Me |  |
+| A5 | Humdrum |  |
+| B1 | Slowburn |  |
+| B2 | Waiting For The Big One |  |
+| B3 | Down The Dolce Vita |  |
+| B4 | Here Comes The Flood |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-1-car-remastered/986695072" >}}<br>
 
 
-## Videos
-### Moribund the Burgermeister - Peter Gabriel
-{{< youtube id="BpJbebfLmJ0" title="Moribund the Burgermeister - Peter Gabriel" >}}<br>
-### More Videos
-
-- [Peter Gabriel - Solsbury Hill](https://www.youtube.com/watch?v=_OO2PuGz-H8)
-- [Peter Gabriel - Solsbury Hill Live DNA](https://www.youtube.com/watch?v=WeYqJxlSv-Y)
-- [Peter Gabriel   Here Comes The Flood original   Lyrics flv](https://www.youtube.com/watch?v=nSSVU-Ux_VQ)
-- [PETER GABRIEL - SOLSBURY HILL - ORIGINAL VINYL - UK 1977 - REMASTERED HQ AUDIO - 4KUHD](https://www.youtube.com/watch?v=CmeDE36usn8)
-- [PETER GABRIEL - HERE COMES THE FLOOD - ORIGINAL VINYL - UK 1977 - REMASTERED HQ AUDIO - 4KUHD](https://www.youtube.com/watch?v=7l_OvQyE2wI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +65,5 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Real World Records |
 | Catalog Number | PGLPR1 |
-| Notes | Sticker: 180 gram Vinyl, 33 1/3 RPM Half-Speed Remaster Includes Hi-Res Download Code.  '14458 1A' / '14458 1B' and '00884108003206' stamped in runouts, the rest etched. |
+| Notes | Sticker: 180 gram Vinyl, 33 1/3 RPM Half-Speed Remaster Includes Hi-Res Download Code.<br><br>'14458 1A' / '14458 1B' and '00884108003206' stamped in runouts, the rest etched. |
 | Discogs URL    | [Peter Gabriel - Peter Gabriel](https://www.discogs.com/release/9473688-Peter-Gabriel-Peter-Gabriel) |

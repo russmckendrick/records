@@ -4,6 +4,7 @@ artist_name: "Oceansize"
 artist: "oceansize"
 album_name: "Home & Minor"
 date: 2024-04-21T03:10:49.000000Z
+release_date: ""
 release_id: "30461468"
 slug: "home-minor-30461468"
 hideSummary: true
@@ -26,25 +27,25 @@ styles: ["Post Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Legal Teens
-2. Getting Where Water Cannot
-3. Monodrones
-4. Home & Minor
-5. Didnaeland
-6. The Strand
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Legal Teens |  |
+| A2 | Getting Where Water Cannot |  |
+| A3 | Monodrones |  |
+| B1 | Home & Minor |  |
+| B2 | Didnaeland |  |
+| B3 | The Strand |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### OCEANSIZE - Feed To Feed DVD  Home  Minor EP Trailer
-{{< youtube id="9qbIiDgjHyA" title="OCEANSIZE - Feed To Feed DVD  Home  Minor EP Trailer" >}}<br>
-### More Videos
 
-- [OCEANSIZE - Legal Teens OFFICIAL VIDEO](https://www.youtube.com/watch?v=sjnIf3Mm6xI)
-- [OCEANSIZE - Home  Minor Teaser](https://www.youtube.com/watch?v=Grmwxy8LwLU)
-- [OCEANSIZE - Home  Minor Teaser 2](https://www.youtube.com/watch?v=0I8QqLrAErw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -55,5 +56,5 @@ styles: ["Post Rock"]
 | Format         | Vinyl LP EP Record Store Day (Orange [Translucent]) |
 | Label          | Kscope |
 | Catalog Number | 1231 |
-| Notes | Exclusive for Record Store Day  Sticker text: [Oceansize logo] Home & Minor 32 minute 2009 EP First time on vinyl 140g Orange vinyl EXCLUSIVE FOR RECORD STORE DAY UK KSCOPE1231  Mastered at Abbey Road  Thanks to Airtight for the use of their piano.  www.oceansize.co.uk  ©&℗ 2009 Oceansize under license to Superball Music/Century Media Records Ltd. Made in Germany |
+| Notes | Exclusive for Record Store Day<br><br>Sticker text:<br>[Oceansize logo]<br>Home & Minor<br>32 minute 2009 EP<br>First time on vinyl<br>140g Orange vinyl<br>EXCLUSIVE FOR RECORD STORE DAY UK<br>KSCOPE1231<br><br>Mastered at Abbey Road<br><br>Thanks to Airtight for the use of their piano.<br><br>www.oceansize.co.uk<br><br>©&℗ 2009 Oceansize under license to Superball Music/Century Media Records Ltd.<br>Made in Germany |
 | Discogs URL    | [Oceansize - Home & Minor](https://www.discogs.com/release/30461468-Oceansize-Home-Minor) |

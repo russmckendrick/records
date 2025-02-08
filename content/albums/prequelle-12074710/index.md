@@ -1,7 +1,7 @@
 ---
 title: "Ghost - Prequelle"
 artist_name: "Ghost"
-artist: "ghost-32"
+artist: "ghost"
 album_name: "Prequelle"
 date: 2018-06-15T10:57:11.000000Z
 release_date: "2018-06-01"
@@ -35,39 +35,24 @@ The album was released with five different versions of the cover art, each with 
 
 
 ## Tracklisting
-1. Ashes (1:21)
-2. Rats (4:21)
-3. Faith (4:29)
-4. See The Light (4:05)
-5. Miasma (5:17)
-6. Dance Macabre (3:39)
-7. Pro Memoria (5:39)
-8. Witch Image (3:30)
-9. Helvetesfönster (5:55)
-10. Life Eternal (3:27)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ashes | 1:21 |
+| A2 | Rats | 4:21 |
+| A3 | Faith | 4:29 |
+| A4 | See The Light | 4:05 |
+| A5 | Miasma | 5:17 |
+| B1 | Dance Macabre | 3:39 |
+| B2 | Pro Memoria | 5:39 |
+| B3 | Witch Image | 3:30 |
+| B4 | Helvetesfönster | 5:55 |
+| B5 | Life Eternal | 3:27 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/prequelle/1368157625" >}}<br>
 
 
-## Videos
-### Ghost - Rats Official Music Video
-{{< youtube id="C_ijc7A5oAc" title="Ghost - Rats Official Music Video" >}}<br>
-### More Videos
-
-- [Ghost - Dance Macabre Official Music Video](https://www.youtube.com/watch?v=7Gr63DiEUxw)
-- [Ghost - Life Eternal Palacio de los Deportes Concert Video](https://www.youtube.com/watch?v=xUSf1bjd4I8)
-- [Ghost - Faith Lyric Video](https://www.youtube.com/watch?v=k72ytAFMCI0)
-- [Ashes](https://www.youtube.com/watch?v=XxyGT0B2cHU)
-- [Rats](https://www.youtube.com/watch?v=wwrsoQeh1Ig)
-- [Faith](https://www.youtube.com/watch?v=t9QNheVWL_4)
-- [See The Light](https://www.youtube.com/watch?v=EQPgumd-v8g)
-- [Miasma](https://www.youtube.com/watch?v=BX335Z4esSU)
-- [Dance Macabre](https://www.youtube.com/watch?v=ttY0vfyd-dI)
-- [Pro Memoria](https://www.youtube.com/watch?v=NPLFQpApMAg)
-- [Witch Image](https://www.youtube.com/watch?v=ymb-aG_lt9U)
-- [Helvetesfönster](https://www.youtube.com/watch?v=qvzpodhuMrM)
-- [Life Eternal](https://www.youtube.com/watch?v=LU6ZN_CJICo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +64,5 @@ The album was released with five different versions of the cover art, each with 
 | Format         | Vinyl LP Album Limited Edition (Red/Clear Swirl) |
 | Label          | Loma Vista |
 | Catalog Number | LVR00392 |
-| Notes | Limited to 2000 copies worldwide.   ℗ & © 2018 Loma Vista Recordings |
+| Notes | Limited to 2000 copies worldwide. <br><br>℗ & © 2018 Loma Vista Recordings |
 | Discogs URL    | [Ghost - Prequelle](https://www.discogs.com/release/12074710-Ghost-32-Prequelle) |

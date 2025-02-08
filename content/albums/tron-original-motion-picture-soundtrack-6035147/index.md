@@ -33,50 +33,32 @@ Although her adaptations of Bach compositions for the Moog won Wendy Carlos thre
 
 
 ## Tracklisting
-1. Creation Of Tron (0:49)
-2. Only Solutions  (3:41)
-3. We've Got Company (2:19)
-4. Wormhole (2:29)
-5. Ring Game And Escape (2:57)
-6. Water Music And Tronaction (2:25)
-7. Tron Scherzo (1:46)
-8. Miracle And Magician (2:40)
-9. Magic Landings (3:44)
-10. Theme From Tron (1:37)
-11. 1990's Theme (2:08)
-12. Love Theme (2:07)
-13. Tower Music - Let Us Pray (3:47)
-14. The Light Sailer (2:37)
-15. Sea Of Simulation (3:23)
-16. A New Tron And The Mcp (5:10)
-17. Anthem (1:40)
-18. Ending Titles (5:16)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Creation Of Tron | 0:49 |
+| A2 | Only Solutions  | 3:41 |
+| A3 | We've Got Company | 2:19 |
+| A4 | Wormhole | 2:29 |
+| A5 | Ring Game And Escape | 2:57 |
+| A6 | Water Music And Tronaction | 2:25 |
+| B1  | Tron Scherzo | 1:46 |
+| B2  | Miracle And Magician | 2:40 |
+| B3  | Magic Landings | 3:44 |
+| B4 | Theme From Tron | 1:37 |
+| B5 | 1990's Theme | 2:08 |
+| B6 | Love Theme | 2:07 |
+| C1 | Tower Music - Let Us Pray | 3:47 |
+| C2  | The Light Sailer | 2:37 |
+| C3 | Sea Of Simulation | 3:23 |
+| D1 | A New Tron And The Mcp | 5:10 |
+| D2 | Anthem | 1:40 |
+| D3 | Ending Titles | 5:16 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tron-original-motion-picture-soundtrack/1443890451" >}}<br>
 
 
-## Videos
-### Tron Suite - Wendy Carlos
-{{< youtube id="P5RcNuQXuR4" title="Tron Suite - Wendy Carlos" >}}<br>
-### More Videos
-
-- [01 Tron   Creation Of Tron   Wendy Carlos](https://www.youtube.com/watch?v=o4XVOmAAkyo)
-- [Weve Got Company](https://www.youtube.com/watch?v=VKt5-mxKSz4)
-- [Wormhole TRON Soundtrack](https://www.youtube.com/watch?v=m-v2vCMjrnw)
-- [Ring Game And Escape TRON Soundtrack](https://www.youtube.com/watch?v=xnaFPMkbvEA)
-- [Water Music And Tronaction TRON Soundtrack](https://www.youtube.com/watch?v=bdmIJMhxVk8)
-- [TRON Scherzo TRON Soundtrack](https://www.youtube.com/watch?v=xTvU-R82ax8)
-- [Miracle and Magician](https://www.youtube.com/watch?v=vLgQrzyc4WA)
-- [Magic Landings](https://www.youtube.com/watch?v=l6NogoCCUMc)
-- [Theme from Tron From TRONScore](https://www.youtube.com/watch?v=TPF7CXUgcus)
-- [Love Theme](https://www.youtube.com/watch?v=nB_AVIC14ow)
-- [Tower Music Let Us Pray TRON Soundtrack](https://www.youtube.com/watch?v=AFTSOU6h_UI)
-- [The Light Sailer TRON Soundtrack](https://www.youtube.com/watch?v=MkDI0m5M06A)
-- [Sea of Simulation](https://www.youtube.com/watch?v=II7pQns97iU)
-- [A New Tron and the MCP](https://www.youtube.com/watch?v=ewSk7uf4MbQ)
-- [Anthem TRON Soundtrack](https://www.youtube.com/watch?v=Lq57IjE0Zb8)
-- [Tron End Title](https://www.youtube.com/watch?v=fnZlHHfgLV0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -87,5 +69,5 @@ Although her adaptations of Bach compositions for the Moog won Wendy Carlos thre
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Remastered (Blue Translucent, 180 Gram, Gatefold) |
 | Label          | Audio Fidelity (3) |
 | Catalog Number | AFZLP2 177 |
-| Notes | Limited to 3000 copies, some copies have a number greater than 3000.  © Disney ℗ 2014 Walt Disney Records / Licensed by Audio Fidelity, a division of Morada Music Made in U.S.A. |
+| Notes | Limited to 3000 copies, some copies have a number greater than 3000.<br><br>© Disney ℗ 2014 Walt Disney Records / Licensed by Audio Fidelity, a division of Morada Music<br>Made in U.S.A. |
 | Discogs URL    | [Wendy Carlos - Tron (Original Motion Picture Soundtrack)](https://www.discogs.com/release/6035147-Wendy-Carlos-Tron-Original-Motion-Picture-Soundtrack) |

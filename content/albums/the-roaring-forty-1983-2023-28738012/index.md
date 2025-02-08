@@ -4,6 +4,7 @@ artist_name: "Billy Bragg"
 artist: "billy-bragg"
 album_name: "The Roaring Forty | 1983-2023"
 date: 2023-10-31T11:17:33.000000Z
+release_date: "2023-10-27"
 release_id: "28738012"
 slug: "the-roaring-forty-1983-2023-28738012"
 hideSummary: true
@@ -25,25 +26,30 @@ styles: ["Folk Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. A New England (2:15)
-2. Between The Wars (2:32)
-3. Levi Stubbs' Tears (3:31)
-4. Greetings To The New Brunette  (3:31)
-5. Waiting For The Great Leap Forwards (4:36)
-6. Sexuality  (3:49)
-7. Accident Waiting To Happen (Red Star Version) (3:47)
-8. Upfield  (4:06)
-9. The Boy Done Good (3:24)
-10. California Stars (Live October / November 1998) (3:59)
-11. I Keep Faith (4:34)
-12. The L&N Don't Stop Here Anymore (4:29)
-13. I Will Be Your Shield (3:31)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | A New England | 2:15 |
+| A2 | Between The Wars | 2:32 |
+| A3 | Levi Stubbs' Tears | 3:31 |
+| A4 | Greetings To The New Brunette  | 3:31 |
+| A5 | Waiting For The Great Leap Forwards | 4:36 |
+| A6 | Sexuality  | 3:49 |
+| A7 | Accident Waiting To Happen (Red Star Version) | 3:47 |
+| B1 | Upfield  | 4:06 |
+| B2 | The Boy Done Good | 3:24 |
+| B3 | California Stars (Live October / November 1998) | 3:59 |
+| B4 | I Keep Faith | 4:34 |
+| B5 | The L&N Don't Stop Here Anymore | 4:29 |
+| B6 | I Will Be Your Shield | 3:31 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-roaring-forty-1983-2023/1712674823" >}}<br>
-
 
 
 
@@ -56,5 +62,5 @@ styles: ["Folk Rock"]
 | Format         | Vinyl LP Compilation Limited Edition Numbered Stereo (Orange / Black Merge) |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP862 |
-| Notes | Hand numbered on the rear out of /1000  Printed inner sleeve  |
+| Notes | Hand numbered on the rear out of /1000<br><br>Printed inner sleeve  |
 | Discogs URL    | [Billy Bragg - The Roaring Forty | 1983-2023](https://www.discogs.com/release/28738012-Billy-Bragg-The-Roaring-Forty-1983-2023) |

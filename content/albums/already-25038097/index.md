@@ -4,6 +4,7 @@ artist_name: "Jesus Jones"
 artist: "jesus-jones"
 album_name: "Already"
 date: 2022-11-03T13:59:44.000000Z
+release_date: "1997-05-21"
 release_id: "25038097"
 slug: "already-25038097"
 hideSummary: true
@@ -23,44 +24,32 @@ styles: ["Synth-pop"]
 
 Already is the fourth album by the British rock band Jesus Jones, first released in 1997.
 The album followed a working hiatus by the band following the disappointing commercial sales of 1993's Perverse compared to their international breakthrough album Doubt (1991). Although the band had come up with ideas that they submitted to Food Records for consideration, the label rejected them before finally accepting the reworked tracks featured on the release version of Already. It was their last album for EMI, and two singles were released from the album, "The Next Big Thing" and "Chemical #1". Already only reached No. 161 in the UK Albums Chart, although lead single "The Next Big Thing" had some radio play reaching No. 49 in the UK Singles Chart. EMI re-issued on the album on 1 March 2003. The album marks a strong shift into pop territory, with similarities to their second album, Doubt.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Next Big Thing (4:01)
-2. Run On Empty (3:13)
-3. Look Out Tomorrow (3:34)
-4. Top Of The World (3:31)
-5. Rails (3:13)
-6. Wishing It Away (5:04)
-7. Chemical #1 (3:26)
-8. Motion (4:54)
-9. They're Out There (4:01)
-10. For A Moment (3:31)
-11. Addiction, Obsession & Me (4:19)
-12. February (6:43)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Next Big Thing | 4:01 |
+| A2 | Run On Empty | 3:13 |
+| A3 | Look Out Tomorrow | 3:34 |
+| A4 | Top Of The World | 3:31 |
+| A5 | Rails | 3:13 |
+| A6 | Wishing It Away | 5:04 |
+| A7 | Chemical #1 | 3:26 |
+| B1 | Motion | 4:54 |
+| B2 | They're Out There | 4:01 |
+| B3 | For A Moment | 3:31 |
+| B4 | Addiction, Obsession & Me | 4:19 |
+| B5 | February | 6:43 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/already/695541602" >}}<br>
 
 
-## Videos
-### The Next Big Thing
-{{< youtube id="Ud3KQDAWVlM" title="The Next Big Thing" >}}<br>
-### More Videos
-
-- [Run On Empty](https://www.youtube.com/watch?v=3buLGt6tXuM)
-- [Wishing It Away](https://www.youtube.com/watch?v=J6p9kJppv98)
-- [Theyre Out There](https://www.youtube.com/watch?v=-vxJr1O7PSw)
-- [For A Moment](https://www.youtube.com/watch?v=rddH7lSsKrk)
-- [February](https://www.youtube.com/watch?v=jxw2HQIFz6s)
-- [Top Of The World](https://www.youtube.com/watch?v=LxgWy4dB9mc)
-- [Motion](https://www.youtube.com/watch?v=3rInP9LH_EQ)
-- [Rails](https://www.youtube.com/watch?v=NlnAFGZssxs)
-- [Chemical 1](https://www.youtube.com/watch?v=IUXQhXfd0ts)
-- [Look Out Tomorrow](https://www.youtube.com/watch?v=k4b9uKmNln8)
-- [Addiction Obsession And Me](https://www.youtube.com/watch?v=SHnseuIdK60)
 
 ## Release Images
 {{< imageGrid >}}

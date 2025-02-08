@@ -1,16 +1,17 @@
 ---
-title: "Steve Harley & Cockney Rebel - The Best Years Of Our Lives"
-artist_name: "Steve Harley & Cockney Rebel"
+title: "Steve Harley  Cockney Rebel - The Best Years Of Our Lives"
+artist_name: "Steve Harley  Cockney Rebel"
 artist: "steve-harley-cockney-rebel"
 album_name: "The Best Years Of Our Lives"
 date: 2021-04-17T01:25:05.000000Z
+release_date: "1999-01-01"
 release_id: "18332692"
 slug: "the-best-years-of-our-lives-18332692"
 hideSummary: true
 cover:
     image: "the-best-years-of-our-lives-18332692.jpg"
-    alt: "The Best Years Of Our Lives by Steve Harley & Cockney Rebel"
-    caption: "The Best Years Of Our Lives by Steve Harley & Cockney Rebel"
+    alt: "The Best Years Of Our Lives by Steve Harley  Cockney Rebel"
+    caption: "The Best Years Of Our Lives by Steve Harley  Cockney Rebel"
 additional_images:
     - "https://i.discogs.com/FF-74nCqhGKL69YtCE114SsygcfeNfrTUBrb45DeW8M/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzMy/NjkyLTE2MTg2NDM5/MjAtMjQzNS5qcGVn.jpeg"
     - "https://i.discogs.com/jWpbq2vmdSTbQziHDW6OIz48Q37c2ZcH1M8DeXwkbYU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzMy/NjkyLTE2MTg2NDM5/MjUtNjcwMy5qcGVn.jpeg"
@@ -28,44 +29,35 @@ styles: ["Pop Rock"]
 ---
 
 The Best Years of Our Lives is the third studio album by Steve Harley & Cockney Rebel, released by EMI on 7 March 1975. It was the first album to feature Harley's name ahead of the band's (the band was previously known as Cockney Rebel). The album was produced by Harley and Alan Parsons, and contains the band's only UK number one, the million-selling "Make Me Smile (Come Up and See Me)".
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Introducing "The Best Years"
-2. The Mad, Mad Moonlight
-3. Mr Raffles (Man,It Was Mean)
-4. It Wasn't Me
-5. Panorama
-6. Make Me Smile (Come Up And See Me)
-7. Back To The Farm
-8. 49th Parallel
-9. The Best Years Of Our Lives
-10. Make Me Smile (Come Up And See Me) [Rough Mix]
-11. Another Journey
-12. The Best Years Of Our Lives (Acoustic)
-13. Mr Raffles (Man,It Was Mean) [Single Version]
-14. The Mad, Mad Moonlight (Live At Hammersmith Odeon 14/4/75)
-15. Sebastian (Live At Hammersmith Odeon 14/4/75)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Introducing "The Best Years" |  |
+| A2 | The Mad, Mad Moonlight |  |
+| A3 | Mr Raffles (Man,It Was Mean) |  |
+| A4 | It Wasn't Me |  |
+| A5 | Panorama |  |
+| B1 | Make Me Smile (Come Up And See Me) |  |
+| B2 | Back To The Farm |  |
+| B3 | 49th Parallel |  |
+| B4 | The Best Years Of Our Lives |  |
+| C1 | Make Me Smile (Come Up And See Me) [Rough Mix] |  |
+| C2 | Another Journey |  |
+| C3 | The Best Years Of Our Lives (Acoustic) |  |
+| C4 | Mr Raffles (Man,It Was Mean) [Single Version] |  |
+| D1 | The Mad, Mad Moonlight (Live At Hammersmith Odeon 14/4/75) |  |
+| D2 | Sebastian (Live At Hammersmith Odeon 14/4/75) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-cream-of-steve-harley-cockney-rebel/1629179059" >}}<br>
 
 
-## Videos
-### Introducing The Best Years 2014 Remaster
-{{< youtube id="qEiPqFwDs1E" title="Introducing The Best Years 2014 Remaster" >}}<br>
-### More Videos
-
-- [The Mad Mad Moonlight 2014 Remaster](https://www.youtube.com/watch?v=hDal-VyOkVM)
-- [Mr Raffles Man It Was Mean](https://www.youtube.com/watch?v=e5kKfhO_js4)
-- [It Wasnt Me 2014 Remaster](https://www.youtube.com/watch?v=Vf8n-7c4Pmk)
-- [Panorama 2014 Remaster](https://www.youtube.com/watch?v=fzX1IdOH_E0)
-- [Steve Harley  Cockney Rebel  Make Me Smile Come Up And See Me  The Best Years Of Our Lives HQ](https://www.youtube.com/watch?v=prUFFUTb7lQ)
-- [Back to the Farm 2014 Remaster](https://www.youtube.com/watch?v=f_D2THFZP_E)
-- [49th Parallel 2014 Remaster](https://www.youtube.com/watch?v=CQ90oxGi1yo)
-- [The Best Years of Our Lives 2014 Remaster](https://www.youtube.com/watch?v=BvRz8aAm9E0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +69,5 @@ The Best Years of Our Lives is the third studio album by Steve Harley & Cockney 
 | Format         | Vinyl 2× LP Album Reissue (Orange & Blue / 2020 Reissue) |
 | Label          | Chrysalis Catalogue |
 | Catalog Number | CRVX1383 |
-| Notes | ℗ 2020 ... in this compilation is owned by Chrysalis Records Limited © 2020 Chrysalis Records Limited Made in the UK  Some copies have a post production sticker on the shrinkwrap 'STEVE HARLEY & COCKNEY REBEL "The Best Years of Our Lives" 45th Anniversary Expanded Edition 2LP Orange & Blue Vinyl'  Credits on the inner sleeve say "2020 Reissue" although released in 2021  The blue inner sleeve credits misspelt "Steve Harley" as "Steve Harkey"  2020 Reissue Mastering / Lacquers: Alchemy Mastering "The best Years of Our Lives" was originally released in March 1975 [EMI Records, EMC 3068]   Produced by Steve Harley and Alan Parsons Engineered and Mixed by Alan Parsons. Except track 11 produced by Steve Harley.  Recorded and mixed at EMI Studios, Abbey Road and AIR studios, London [November/December 1974] |
-| Discogs URL    | [Steve Harley & Cockney Rebel - The Best Years Of Our Lives](https://www.discogs.com/release/18332692-Steve-Harley-Cockney-Rebel-The-Best-Years-Of-Our-Lives) |
+| Notes | ℗ 2020 ... in this compilation is owned by Chrysalis Records Limited<br>© 2020 Chrysalis Records Limited<br>Made in the UK<br><br>Some copies have a post production sticker on the shrinkwrap 'STEVE HARLEY & COCKNEY REBEL "The Best Years of Our Lives" 45th Anniversary Expanded Edition 2LP Orange & Blue Vinyl'<br><br>Credits on the inner sleeve say "2020 Reissue" although released in 2021<br><br>The blue inner sleeve credits misspelt "Steve Harley" as "Steve Harkey"<br><br>2020 Reissue Mastering / Lacquers: Alchemy Mastering<br>"The best Years of Our Lives" was originally released in March 1975 [EMI Records, EMC 3068] <br><br>Produced by Steve Harley and Alan Parsons Engineered and Mixed by Alan Parsons. Except track 11 produced by Steve Harley.<br><br>Recorded and mixed at EMI Studios, Abbey Road and AIR studios, London [November/December 1974] |
+| Discogs URL    | [Steve Harley  Cockney Rebel - The Best Years Of Our Lives](https://www.discogs.com/release/18332692-Steve-Harley-Cockney-Rebel-The-Best-Years-Of-Our-Lives) |

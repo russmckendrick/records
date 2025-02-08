@@ -4,6 +4,7 @@ artist_name: "Future Islands"
 artist: "future-islands"
 album_name: "Singles"
 date: 2017-04-14T09:26:08.000000Z
+release_date: "2020-07-08"
 release_id: "5495019"
 slug: "singles-5495019"
 hideSummary: true
@@ -27,38 +28,30 @@ styles: ["Synth-pop"]
 Singles is the fourth studio album by American synthpop band Future Islands, released on March 24, 2014 through 4AD Records. The album's lead single "Seasons (Waiting on You)" was picked as the best track of 2014 by NME, Pitchfork Media and Spin.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Seasons (Waiting On You) (3:46)
-2. Spirit (4:21)
-3. Sun In The Morning (3:50)
-4. Doves (3:28)
-5. Back In The Tall Grass (4:15)
-6. A Song For Our Grandfathers (4:55)
-7. Light House (4:47)
-8. Like The Moon (4:40)
-9. Fall From Grace (4:15)
-10. A Dream Of You & Me (3:59)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Seasons (Waiting On You) | 3:46 |
+| A2 | Spirit | 4:21 |
+| A3 | Sun In The Morning | 3:50 |
+| A4 | Doves | 3:28 |
+| A5 | Back In The Tall Grass | 4:15 |
+| B1 | A Song For Our Grandfathers | 4:55 |
+| B2 | Light House | 4:47 |
+| B3 | Like The Moon | 4:40 |
+| B4 | Fall From Grace | 4:15 |
+| B5 | A Dream Of You & Me | 3:59 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/for-sure-single/1519566622" >}}<br>
 
 
-## Videos
-### Future Islands - Seasons Waiting On You Official Video
-{{< youtube id="-5Ae-LhMIG0" title="Future Islands - Seasons Waiting On You Official Video" >}}<br>
-### More Videos
-
-- [Future Islands - A Song for Our Grandfathers Official Video](https://www.youtube.com/watch?v=la6Ohm3dobk)
-- [Future Islands - Seasons Waiting On You Official Video](https://www.youtube.com/watch?v=-5Ae-LhMIG0)
-- [Future Islands - A Song for Our Grandfathers Official Video](https://www.youtube.com/watch?v=la6Ohm3dobk)
-- [Sun in the Morning](https://www.youtube.com/watch?v=Uyjt0EXHm9A)
-- [Back in the Tall Grass](https://www.youtube.com/watch?v=3P4_58VCOIc)
-- [Doves](https://www.youtube.com/watch?v=In4JkFZy7jI)
-- [Future Islands - Spirit](https://www.youtube.com/watch?v=PeuCCJ9qQ-k)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +63,5 @@ Singles is the fourth studio album by American synthpop band Future Islands, rel
 | Format         | Vinyl LP Album |
 | Label          | 4AD |
 | Catalog Number | CAD 3402 |
-| Notes | Released in a screen printed resealable plastic sleeve. Includes inner sleeve with lyrics and coupon for MP3 download.  ℗ & © 2014 4AD All songs © 2014 Ideas for Housecrafts (ASCAP).  Recorded August 2013 at Dreamland Recording Studios in Hurley, NY. Additional tracking and mixing at DNA Studios in New York, NY.  Additional photography © Verlag Aenne Burda GmbH & Co. KG & © National Geographic.  Runouts are etched except "STERLING" which is stamped. |
+| Notes | Released in a screen printed resealable plastic sleeve. Includes inner sleeve with lyrics and coupon for MP3 download.<br><br>℗ & © 2014 4AD<br>All songs © 2014 Ideas for Housecrafts (ASCAP).<br><br>Recorded August 2013 at Dreamland Recording Studios in Hurley, NY.<br>Additional tracking and mixing at DNA Studios in New York, NY.<br><br>Additional photography © Verlag Aenne Burda GmbH & Co. KG & © National Geographic.<br><br>Runouts are etched except "STERLING" which is stamped. |
 | Discogs URL    | [Future Islands - Singles](https://www.discogs.com/release/5495019-Future-Islands-Singles) |

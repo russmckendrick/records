@@ -4,6 +4,7 @@ artist_name: "Lamb"
 artist: "lamb"
 album_name: "The Secret Of Letting Go"
 date: 2019-04-28T17:36:52.000000Z
+release_date: "2019-04-26"
 release_id: "13558086"
 slug: "the-secret-of-letting-go-13558086"
 hideSummary: true
@@ -24,39 +25,30 @@ styles: ["Leftfield", "Downtempo"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Phosphorous
-2. Moonshine
-3. Armageddon Waits
-4. Bulletproof
-5. The Secret Of Letting Go
-6. Imperial Measures
-7. The Other Shore
-8. Deep Delirium
-9. Illumina
-10. The Silence In Between
-11. One Hand Clapping
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Phosphorous |  |
+| A2 | Moonshine |  |
+| A3 | Armageddon Waits |  |
+| A4 | Bulletproof |  |
+| A5 | The Secret Of Letting Go |  |
+| A6 | Imperial Measures |  |
+| B1 | The Other Shore |  |
+| B2 | Deep Delirium |  |
+| B3 | Illumina |  |
+| B4 | The Silence In Between |  |
+| B5 | One Hand Clapping |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-secret-of-letting-go/1449335374" >}}<br>
 
 
-## Videos
-### Phosphorous
-{{< youtube id="VBnCyT4a-_s" title="Phosphorous" >}}<br>
-### More Videos
-
-- [Lamb - Moonshine feat Cian Finn Official Music Video](https://www.youtube.com/watch?v=fdu1sdFOtiE)
-- [Lamb - Armageddon Waits Official Video](https://www.youtube.com/watch?v=iuRLSEa7tos)
-- [Lamb - Bulletproof Official Music Video](https://www.youtube.com/watch?v=KndAKVMjK00)
-- [The Secret of Letting Go](https://www.youtube.com/watch?v=o6GFbYDbPlc)
-- [Imperial Measures](https://www.youtube.com/watch?v=M2FDvjXMNUs)
-- [The Other Shore](https://www.youtube.com/watch?v=qBnG3g5uY0U)
-- [Deep Delirium](https://www.youtube.com/watch?v=q97RpAHAAkE)
-- [Illumina](https://www.youtube.com/watch?v=y_9DK0jylio)
-- [The Silence in Between](https://www.youtube.com/watch?v=X-W26gZDkxE)
-- [One Hand Clapping](https://www.youtube.com/watch?v=Oz0i-3_1-xk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +59,5 @@ styles: ["Leftfield", "Downtempo"]
 | Format         | Vinyl LP Album Limited Edition (180g) |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP728 |
-| Notes | Sticker on front shrink: "Ltd edition 180g heavyweight vinyl in gatefold sleeve Features the singles 'Armageddon Waits' and 'Moonshine' Includes download card of the album"  Label has cat number as COOKCD728 on both sides |
+| Notes | Sticker on front shrink:<br>"Ltd edition<br>180g heavyweight vinyl<br>in gatefold sleeve<br>Features the singles<br>'Armageddon Waits'<br>and 'Moonshine'<br>Includes download card of the album"<br><br>Label has cat number as COOKCD728 on both sides |
 | Discogs URL    | [Lamb - The Secret Of Letting Go](https://www.discogs.com/release/13558086-Lamb-The-Secret-Of-Letting-Go) |

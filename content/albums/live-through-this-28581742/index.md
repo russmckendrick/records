@@ -1,7 +1,7 @@
 ---
 title: "Hole - Live Through This"
 artist_name: "Hole"
-artist: "hole-2"
+artist: "hole"
 album_name: "Live Through This"
 date: 2023-10-17T11:31:12.000000Z
 release_date: "1994-04-12"
@@ -32,35 +32,26 @@ Cobain’s passing was hardly the only devastating loss to shadow the record, as
 
 
 ## Tracklisting
-1. Violet (3:24)
-2. Miss World (3:00)
-3. Plump (2:34)
-4. Asking For It (3:30)
-5. Jennifers Body (3:41)
-6. Doll Parts (3:32)
-7. Credit In The Straight World (3:11)
-8. Softer, Softest (3:27)
-9. She Walks On Me (3:24)
-10. I Think That I Would Die (3:36)
-11. Gutless (2:16)
-12. Rock Star (2:41)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Violet | 3:24 |
+| A2 | Miss World | 3:00 |
+| A3 | Plump | 2:34 |
+| A4 | Asking For It | 3:30 |
+| A5 | Jennifers Body | 3:41 |
+| A6 | Doll Parts | 3:32 |
+| B1 | Credit In The Straight World | 3:11 |
+| B2 | Softer, Softest | 3:27 |
+| B3 | She Walks On Me | 3:24 |
+| B4 | I Think That I Would Die | 3:36 |
+| B5 | Gutless | 2:16 |
+| B6 | Rock Star | 2:41 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-through-this/1445732603" >}}<br>
 
 
-## Videos
-### Hole - Violet Official Video
-{{< youtube id="cH_rfGBwamc" title="Hole - Violet Official Video" >}}<br>
-### More Videos
-
-- [Hole - Miss World Official Video](https://www.youtube.com/watch?v=mS1Ckczz0LQ)
-- [Plump](https://www.youtube.com/watch?v=pO8ITYQdmJ0)
-- [Asking For It](https://www.youtube.com/watch?v=4Q1Kh9JkACc)
-- [Jennifers Body](https://www.youtube.com/watch?v=qNfW3-w4Va4)
-- [Credit In The Straight World](https://www.youtube.com/watch?v=4HeT1dUq70o)
-- [Hole - Doll Parts Official Video](https://www.youtube.com/watch?v=RD9xK9smth4)
-- [I Think That I Would Die](https://www.youtube.com/watch?v=SI8RmHw1QpY)
 
 ## Release Images
 {{< imageGrid >}}

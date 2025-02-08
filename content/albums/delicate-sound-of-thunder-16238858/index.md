@@ -4,6 +4,7 @@ artist_name: "Pink Floyd"
 artist: "pink-floyd"
 album_name: "Delicate Sound Of Thunder"
 date: 2020-11-20T13:03:04.000000Z
+release_date: "1988-11-22"
 release_id: "16238858"
 slug: "delicate-sound-of-thunder-16238858"
 hideSummary: true
@@ -60,46 +61,43 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 
 Delicate Sound of Thunder is a live album by the English band Pink Floyd. It was recorded over five nights at the Nassau Coliseum in Uniondale, New York, in August 1988, during their A Momentary Lapse of Reason Tour, and mixed at Abbey Road Studios in September 1988. It was released on 21 November 1988, through EMI Records in the UK and Columbia Records in the United States.
 The album was remixed, restored and reissued in December 2019 for The Later Years 1987–2019 box set. This version included songs that were not present on the original release. In November 2020, it was given a standalone release.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Shine On You Crazy Diamond Parts 1-5
-2. Signs Of Life
-3. Learning To Fly
-4. Yet Another Movie
-5. Round And Around
-6. A New Machine Part 1
-7. Terminal Frost
-8. A New Machine Part 2
-9. Sorrow
-10. The Dogs Of War
-11. On The Turning Away
-12. One Of These Days
-13. Time
-14. On The Run
-15. The Great Gig In The Sky
-16. Wish You Were Here
-17. Welcome To The Machine
-18. Us And Them
-19. Money
-20. Another Brick In The Wall Part 2
-21. Comfortably Numb
-22. One Slip
-23. Run Like Hell
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Shine On You Crazy Diamond Parts 1-5 |  |
+| A2 | Signs Of Life |  |
+| A3 | Learning To Fly |  |
+| B1 | Yet Another Movie |  |
+| B2 | Round And Around |  |
+| B3 | A New Machine Part 1 |  |
+| B4 | Terminal Frost |  |
+| B5 | A New Machine Part 2 |  |
+| B6 | Sorrow |  |
+| C1 | The Dogs Of War |  |
+| C2 | On The Turning Away |  |
+| C3 | One Of These Days |  |
+| D1 | Time |  |
+| D2 | On The Run |  |
+| D3 | The Great Gig In The Sky |  |
+| D4 | Wish You Were Here |  |
+| D5 | Welcome To The Machine |  |
+| E1 | Us And Them |  |
+| E2 | Money |  |
+| E3 | Another Brick In The Wall Part 2 |  |
+| F1 | Comfortably Numb |  |
+| F2 | One Slip |  |
+| F3 | Run Like Hell |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/delicate-sound-of-thunder-live/696774967" >}}<br>
 
 
-## Videos
-### Pink Floyd - 1st EU press - Delicate Sound Of Thunder - side 1
-{{< youtube id="bbibaNevmiU" title="Pink Floyd - 1st EU press - Delicate Sound Of Thunder - side 1" >}}<br>
-### More Videos
-
-- [Pink Floyd - 1st EU press - Delicate Sound Of Thunder - side 2](https://www.youtube.com/watch?v=nz3aH7ZX9CY)
-- [Pink Floyd - Run Like Hell Live Delicate Sound Of Thunder 2019 Remix](https://www.youtube.com/watch?v=tepWRMseQiM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -111,5 +109,5 @@ The album was remixed, restored and reissued in December 2019 for The Later Year
 | Format         | Vinyl 3× LP Album Reissue (180g) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP36 |
-| Notes | Die cut box cover with hype sticker: "LIVE 3-LP  PINK FLOYD Delicate Sound of Thunder Remixed from the original master tapes Heavyweight 180g Vinyl 24-page Booklet 23 songs Approx. 2 1/2 hours Features 9 songs not included on the  1988 2-LP Pink Floyd Records 0190295215965 Brand new remix."  Includes 12"x12" colour booklet and download card, with expiry date of 20/11/2025  Made in Germany.  Previously unreleased track on vinyl 1988: -Signs Of Life -A New Machine Part1 -Terminal Frost -A New Machine Part2 -On The Run -The Great Gig In The Sky -Welcome To The Machine -Us And Them -One Slip |
+| Notes | Die cut box cover with hype sticker:<br>"LIVE 3-LP <br>PINK FLOYD<br>Delicate Sound of Thunder<br>Remixed from the original master tapes<br>Heavyweight 180g Vinyl<br>24-page Booklet<br>23 songs<br>Approx. 2 1/2 hours<br>Features 9 songs<br>not included on the <br>1988 2-LP<br>Pink Floyd Records<br>0190295215965<br>Brand new remix."<br><br>Includes 12"x12" colour booklet and download card, with expiry date of 20/11/2025<br><br>Made in Germany.<br><br>Previously unreleased track on vinyl 1988:<br>-Signs Of Life<br>-A New Machine Part1<br>-Terminal Frost<br>-A New Machine Part2<br>-On The Run<br>-The Great Gig In The Sky<br>-Welcome To The Machine<br>-Us And Them<br>-One Slip |
 | Discogs URL    | [Pink Floyd - Delicate Sound Of Thunder](https://www.discogs.com/release/16238858-Pink-Floyd-Delicate-Sound-Of-Thunder) |

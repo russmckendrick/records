@@ -4,6 +4,7 @@ artist_name: "The Brand New Heavies"
 artist: "the-brand-new-heavies"
 album_name: "Original Flava"
 date: 2023-05-29T04:53:36.000000Z
+release_date: "1994-01-01"
 release_id: "27141702"
 slug: "original-flava-27141702"
 hideSummary: true
@@ -22,45 +23,29 @@ styles: ["Acid Jazz", "Jazz-Funk"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Rest Of Me (4:23)
-2. Put Yourself In My Shoes (5:01)
-3. Reality (3:54)
-4. Country Funkin' (4:45)
-5. Got To Give (3:45)
-6. Mother's Tongue (4:18)
-7. Dream Come True (5:23)
-8. Never Stop (4:45)
-9. Headhunters (5:30)
-10. A Day At The Seaside (3:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rest Of Me | 4:23 |
+| A2 | Put Yourself In My Shoes | 5:01 |
+| A3 | Reality | 3:54 |
+| A4 | Country Funkin' | 4:45 |
+| A5 | Got To Give | 3:45 |
+| B1 | Mother's Tongue | 4:18 |
+| B2 | Dream Come True | 5:23 |
+| B3 | Never Stop | 4:45 |
+| B4 | Headhunters | 5:30 |
+| B5 | A Day At The Seaside | 3:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/original-flava/1152595931" >}}<br>
 
 
-## Videos
-### Brand New Heavies - Rest of me
-{{< youtube id="C0pVOvwL2Yg" title="Brand New Heavies - Rest of me" >}}<br>
-### More Videos
-
-- [The Brand New Heavies - Put Yourself In My Shoes](https://www.youtube.com/watch?v=iTZ1LqSmDCs)
-- [Brand New Heavies - Reality](https://www.youtube.com/watch?v=nWKy6HumwnA)
-- [Country Funkin](https://www.youtube.com/watch?v=qg8sHYv0JDQ)
-- [Mothers Tongue](https://www.youtube.com/watch?v=bMM_w-nkT2U)
-- [Brand New Heavies 1994 Never Stop](https://www.youtube.com/watch?v=iATCgtitdvI)
-- [A Day at the Seaside](https://www.youtube.com/watch?v=pRXvwrCbUrw)
-- [The Brand New Heavies - Dream Come True Original Flava Mix](https://www.youtube.com/watch?v=w0UedqIAJ30)
-- [the brand new heavies reality](https://www.youtube.com/watch?v=mADUGSkpvhg)
-- [the brand new heavies a day at the seaside](https://www.youtube.com/watch?v=6vgXAI1iZt4)
-- [the brand new heavies country funkin](https://www.youtube.com/watch?v=-IusJntUfGo)
-- [the brand new heavies rest of me](https://www.youtube.com/watch?v=cmA1eMD90XI)
-- [the brand new heavies dream come true 94](https://www.youtube.com/watch?v=-AW68qT_XeI)
-- [the brand new heavies mother s tongue](https://www.youtube.com/watch?v=nYifI2cjs-s)
-- [the brand new heavies never stop 94](https://www.youtube.com/watch?v=F5-WLSMvUzE)
-- [the brand new heavies headhunters   live](https://www.youtube.com/watch?v=9AvPm6ysLYs)
-- [the brand new heavies put yourself in my shoes](https://www.youtube.com/watch?v=q6uaY2bCwKM)
-- [the brand new heavies got to give 94](https://www.youtube.com/watch?v=18Y8ZME9KPY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +56,5 @@ styles: ["Acid Jazz", "Jazz-Funk"]
 | Format         | Vinyl LP Compilation Limited Edition Reissue Remastered (White) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP900W |
-| Notes | Tracks two, five and seven ⓟ 1988 Acid Jazz All other tracks ⓟ 1990 Acid Jazz This album ⓟ & © 1994 Acid Jazz This edition ⓟ & © 2023 Acid Jazz Aquisition Ltd www.acidjazz.co.uk  On sticker: First vinyl reissue of the ultimate rare and previously unissued album from The Heavies. Featuring their debut single, original versions of big hits, and super heavy funk. Issued on red (in fact white) vinyl, remastered from the original source tapes.  A1 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url]. Held back for [a157154] project. A2 Recorded 1988 for [l3198]. A3 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url]. Held back for [a157154] project. A4 Recorded 1990. A5 The A-side for the band's only single for [l3198] released April 1988.  B1 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url]. Held back for [a157154] project. B2 Recorded 1988 for [l3198]. Later re-recorded to become the band's breakthrough hit. B3 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url]. Held back for [a157154] project. New version became first [a157154] single. Re-recorded Heavies version became big US & UK hit. B4 Recorded 1990 live in Vienna for an Austrian radioshow. B5 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url] but didn't make the final running order.  Track durations are not printed on this release. |
+| Notes | Tracks two, five and seven ⓟ 1988 Acid Jazz<br>All other tracks ⓟ 1990 Acid Jazz<br>This album ⓟ & © 1994 Acid Jazz<br>This edition ⓟ & © 2023 Acid Jazz Aquisition Ltd<br>www.acidjazz.co.uk<br><br>On sticker:<br>First vinyl reissue of the ultimate rare and previously unissued album from The Heavies.<br>Featuring their debut single, original versions of big hits, and super heavy funk.<br>Issued on red (in fact white) vinyl, remastered from the original source tapes.<br><br>A1 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url]. Held back for [a157154] project.<br>A2 Recorded 1988 for [l3198].<br>A3 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url]. Held back for [a157154] project.<br>A4 Recorded 1990.<br>A5 The A-side for the band's only single for [l3198] released April 1988.<br><br>B1 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url]. Held back for [a157154] project.<br>B2 Recorded 1988 for [l3198]. Later re-recorded to become the band's breakthrough hit.<br>B3 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url]. Held back for [a157154] project. New version became first [a157154] single. Re-recorded Heavies version became big US & UK hit.<br>B4 Recorded 1990 live in Vienna for an Austrian radioshow.<br>B5 Recorded 1990 for [url=https://www.discogs.com/master/79356-The-Brand-New-Heavies-The-Brand-New-Heavies]debut album[/url] but didn't make the final running order.<br><br>Track durations are not printed on this release. |
 | Discogs URL    | [The Brand New Heavies - Original Flava](https://www.discogs.com/release/27141702-The-Brand-New-Heavies-Original-Flava) |

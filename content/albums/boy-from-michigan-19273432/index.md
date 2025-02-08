@@ -4,6 +4,7 @@ artist_name: "John Grant"
 artist: "john-grant"
 album_name: "Boy From Michigan"
 date: 2021-06-26T04:24:24.000000Z
+release_date: "2021-06-25"
 release_id: "19273432"
 slug: "boy-from-michigan-19273432"
 hideSummary: true
@@ -18,37 +19,32 @@ styles: ["Art Rock", "Indie Rock", "Leftfield", "Synth-pop"]
 ---
 
 Boy from Michigan is the fifth studio album by American musician John Grant. It was released via Partisan Records on June 25, 2021.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Boy From Michigan
-2. County Fair
-3. The Rusty Bull
-4. The Cruise Room
-5. Mike And Julie
-6. Best In Me
-7. Rhetorical Figure
-8. Just So You Know
-9. Dandy Star
-10. Your Portfolio
-11. The Only Baby
-12. Billy
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Boy From Michigan |  |
+| A2 | County Fair |  |
+| A3 | The Rusty Bull |  |
+| B1 | The Cruise Room |  |
+| B2 | Mike And Julie |  |
+| B3 | Best In Me |  |
+| C1 | Rhetorical Figure |  |
+| C2 | Just So You Know |  |
+| C3 | Dandy Star |  |
+| D1 | Your Portfolio |  |
+| D2 | The Only Baby |  |
+| D3 | Billy |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/boy-from-michigan/1556064481" >}}<br>
 
 
-## Videos
-### John Grant - Boy from Michigan Official Video
-{{< youtube id="ecBpAwovikg" title="John Grant - Boy from Michigan Official Video" >}}<br>
-### More Videos
-
-- [Boy from Michigan Edit](https://www.youtube.com/watch?v=7MeIAn1vlcs)
-- [County Fair](https://www.youtube.com/watch?v=DonNLCCbl3c)
-- [John Grant - Billy Official Video](https://www.youtube.com/watch?v=6eHAg7TuYjw)
-- [John Grant - The Only Baby Official Lyric Video](https://www.youtube.com/watch?v=Lit7cPfkUYo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,5 +56,5 @@ Boy from Michigan is the fifth studio album by American musician John Grant. It 
 | Format         | Vinyl 2× LP Album Deluxe Edition (Velvet O-card, Signed Edition) |
 | Label          | Bella Union |
 | Catalog Number | BELLA1220V |
-| Notes | Deluxe velvet O-card with gatefold sleeve, 140g vinyl. Includes 2 art prints (one signed), 36 page staple bound photo booklet and 4 page lyric booklet. MP3 download card included.  Signed edition available direct from the Bella Union Store.  Recorded at Moon Zero Two Studio, Hljodriti Studio and Green House Studio all in Reykjavik. Mixed at Sea Horse Sound Studios, LA, USA.  ℗ & © 2021 Bella Union Under license to [PIAS] |
+| Notes | Deluxe velvet O-card with gatefold sleeve, 140g vinyl.<br>Includes 2 art prints (one signed), 36 page staple bound photo booklet and 4 page lyric booklet.<br>MP3 download card included.<br><br>Signed edition available direct from the Bella Union Store.<br><br>Recorded at Moon Zero Two Studio, Hljodriti Studio and Green House Studio all in Reykjavik.<br>Mixed at Sea Horse Sound Studios, LA, USA.<br><br>℗ & © 2021 Bella Union<br>Under license to [PIAS] |
 | Discogs URL    | [John Grant - Boy From Michigan](https://www.discogs.com/release/19273432-John-Grant-Boy-From-Michigan) |

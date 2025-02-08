@@ -4,6 +4,7 @@ artist_name: "Oceansize"
 artist: "oceansize"
 album_name: "Effloresce"
 date: 2017-11-10T19:31:43.000000Z
+release_date: "2003-09-29"
 release_id: "11077284"
 slug: "effloresce-11077284"
 hideSummary: true
@@ -33,34 +34,32 @@ In what has been described as "primary efflorescence", the water is the invader 
 Efflorescences can occur in natural and built environments. On porous construction materials it may present a cosmetic outer problem only (primary efflorescence causing staining), but can sometimes indicate internal structural weakness (migration/degradation of component materials).  Efflorescence may clog the pores of porous materials, resulting in the destruction of those materials by internal water pressure, as seen in the spalling of brick.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Am The Morning
-2. Catalyst
-3. One Day All This Could Be Yours
-4. Massive Bereavement
-5. Rinsed
-6. You Wish
-7. Remember Where You Are
-8. Amputee
-9. Unravel
-10. Women Who Love Men Who Love Drugs
-11. Saturday Morning Breakfast Show
-12. Long Forgotten
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Am The Morning |  |
+| A2 | Catalyst |  |
+| A3 | One Day All This Could Be Yours |  |
+| B1 | Massive Bereavement |  |
+| B2 | Rinsed |  |
+| B3 | You Wish |  |
+| C1 | Remember Where You Are |  |
+| C2 | Amputee |  |
+| C3 | Unravel |  |
+| C4 | Women Who Love Men Who Love Drugs |  |
+| D1 | Saturday Morning Breakfast Show |  |
+| D2 | Long Forgotten |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/effloresce-remastered/1292494003" >}}<br>
 
 
-## Videos
-### Oceansize - Catalyst
-{{< youtube id="tkNSLFb1e-I" title="Oceansize - Catalyst" >}}<br>
-### More Videos
-
-- [Oceansize - One Day All This Could Be Yours](https://www.youtube.com/watch?v=ZHCy8KlifXc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +71,5 @@ Efflorescences can occur in natural and built environments. On porous constructi
 | Format         | Vinyl 2× LP Album Reissue Remastered (Yellow/Red Swirl) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 235X |
-| Notes | 2017 reissue by Beggars Banquet on red/yellow swirl vinyl.  Comes with a download voucher.  "Unravel" features a sample from Maurice Ravel's "Gaspard De La Nuit" by Sarah Cahill.  |
+| Notes | 2017 reissue by Beggars Banquet on red/yellow swirl vinyl.  Comes with a download voucher.<br><br>"Unravel" features a sample from Maurice Ravel's "Gaspard De La Nuit" by Sarah Cahill.<br> |
 | Discogs URL    | [Oceansize - Effloresce](https://www.discogs.com/release/11077284-Oceansize-Effloresce) |

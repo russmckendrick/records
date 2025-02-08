@@ -4,6 +4,7 @@ artist_name: "Roger Waters"
 artist: "roger-waters"
 album_name: "The Wall"
 date: 2015-11-20T18:49:46.000000Z
+release_date: "2015-11-20"
 release_id: "7717250"
 slug: "the-wall-7717250"
 hideSummary: true
@@ -59,58 +60,49 @@ In addition to the 90 minutes of music, the film also contains interspersed docu
 The audio is presented in 7.1.4-channel Dolby Atmos.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. In The Flesh?
-2. The Thin Ice
-3. Another Brick In The Wall, Part 1
-4. The Happiest Days Of Our Lives
-5. Another Brick In The Wall, Part 2
-6. The Ballad Of Jean Charles De Menezes
-7. Mother
-8. Goodbye Blue Sky
-9. Empty Spaces
-10. What Shall We Do Now?
-11. Young Lust
-12. One Of My Turns
-13. Don't Leave Me Now
-14. Another Brick In The Wall, Part 3
-15. Last Few Bricks
-16. Goodbye Cruel World
-17. Hey You
-18. Is There Anybody Out There?
-19. Nobody Home
-20. Vera
-21. Bring The Boys Back Home
-22. Comfortably Numb
-23. The Show Must Go On
-24. In The Flesh
-25. Run Like Hell
-26. Waiting For The Worms
-27. Stop
-28. The Trial
-29. Outside The Wall
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | In The Flesh? |  |
+| A2 | The Thin Ice |  |
+| A3 | Another Brick In The Wall, Part 1 |  |
+| A4 | The Happiest Days Of Our Lives |  |
+| A5 | Another Brick In The Wall, Part 2 |  |
+| A6 | The Ballad Of Jean Charles De Menezes |  |
+| B1 | Mother |  |
+| B2 | Goodbye Blue Sky |  |
+| B3 | Empty Spaces |  |
+| B4 | What Shall We Do Now? |  |
+| C1 | Young Lust |  |
+| C2 | One Of My Turns |  |
+| C3 | Don't Leave Me Now |  |
+| C4 | Another Brick In The Wall, Part 3 |  |
+| C5 | Last Few Bricks |  |
+| C6 | Goodbye Cruel World |  |
+| D1 | Hey You |  |
+| D2 | Is There Anybody Out There? |  |
+| D3 | Nobody Home |  |
+| D4 | Vera |  |
+| D5 | Bring The Boys Back Home |  |
+| E1 | Comfortably Numb |  |
+| E2 | The Show Must Go On |  |
+| E3 | In The Flesh |  |
+| E4 | Run Like Hell |  |
+| F1 | Waiting For The Worms |  |
+| F2 | Stop |  |
+| F3 | The Trial |  |
+| F4 | Outside The Wall |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/roger-waters-the-wall/1042853859" >}}<br>
 
 
-## Videos
-### Roger Waters - The Wall Full Theatrical Trailer
-{{< youtube id="jZgJqX8Dxzg" title="Roger Waters - The Wall Full Theatrical Trailer" >}}<br>
-### More Videos
-
-- [Roger Waters The Wall Official Trailer 2015 HD](https://www.youtube.com/watch?v=lH-NRg6w5bA)
-- [Roger Waters The Wall Official Trailer 1 2015 - Documetary HD](https://www.youtube.com/watch?v=ZuPyeCX7Fgg)
-- [Roger Waters - Comfortably Numb Live from Roger Waters The Wall Audio](https://www.youtube.com/watch?v=cryTiFrtHqA)
-- [Roger Waters - In the Flesh Live From Roger Waters The Wall Digital Video](https://www.youtube.com/watch?v=Jvl0MDXH96M)
-- [The Happiest Days Of Our LivesAnother Brick In The Wall Part 2Another Brick In The W](https://www.youtube.com/watch?v=gV0_C4dN-kk)
-- [Another Brick in the Wall Pt 1 Live](https://www.youtube.com/watch?v=D1vi8rX95SI)
-- [Roger Waters The Wall Live 2010](https://www.youtube.com/watch?v=qAtusYxDlaw)
-- [Roger Waters The Wall - Trailer - Own it on Blu-ray 121](https://www.youtube.com/watch?v=smMsPb99Alc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -122,5 +114,5 @@ The audio is presented in 7.1.4-channel Dolby Atmos.
 | Format         | Vinyl 3× LP Album (Tri-Fold, 180 Gram) |
 | Label          | Columbia |
 | Catalog Number | 88875155411 |
-| Notes | The Soundtrack From A Film By Roger Waters And Sean Evans 3LP in tri-fold jacket on 180-gram audiophile vinyl Includes 16-page book with color photos Made in the EU.  Live Recording Athens: Le Voyageur |
+| Notes | The Soundtrack From A Film By Roger Waters And Sean Evans<br>3LP in tri-fold jacket on 180-gram audiophile vinyl<br>Includes 16-page book with color photos<br>Made in the EU.<br><br>Live Recording Athens: Le Voyageur |
 | Discogs URL    | [Roger Waters - The Wall](https://www.discogs.com/release/7717250-Roger-Waters-The-Wall) |

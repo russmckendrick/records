@@ -4,6 +4,7 @@ artist_name: "A Perfect Circle"
 artist: "a-perfect-circle"
 album_name: "Eat The Elephant"
 date: 2018-04-20T17:55:36.000000Z
+release_date: "2018-04-20"
 release_id: "11861222"
 slug: "eat-the-elephant-11861222"
 hideSummary: true
@@ -33,38 +34,33 @@ Eat the Elephant is the fourth studio album by American rock band A Perfect Circ
 The album was released on April 20, 2018, after four singles were released in advance: "The Doomed" in October 2017, "Disillusioned" in January 2018, "TalkTalk" in February 2018, and "So Long, and Thanks for All the Fish" in April 2018. The album was generally well received by critics, who praised it for being a successful comeback album, and the maturation in the band's sound, though some lamented the lack of more hard rock songs from band's prior work. The album debuted at number 3 on the US Billboard 200 chart, their fourth album to debut in the top 4 of the chart, and debuted in the top 10 of eight other countries' album charts.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Eat The Elephant
-2. Disillusioned
-3. The Contrarian
-4. The Doomed
-5. So Long, And Thanks For All The Fish
-6. Talktalk
-7. By And Down The River
-8. Delicious
-9. DLB
-10. DLB
-11. Hourglass
-12. Feathers
-13. Get The Lead Out
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Eat The Elephant |  |
+| A2 | Disillusioned |  |
+| A3 | The Contrarian |  |
+| B1 | The Doomed |  |
+| B2 | So Long, And Thanks For All The Fish |  |
+| B3 | Talktalk |  |
+| C1 | By And Down The River |  |
+| C2 | Delicious |  |
+| C3 | DLB |  |
+| D1 | DLB |  |
+| D2 | Hourglass |  |
+| D3 | Feathers |  |
+| D4 | Get The Lead Out |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/eat-the-elephant/1471554984" >}}<br>
 
 
-## Videos
-### A Perfect Circle - The Doomed Official Video
-{{< youtube id="SDvfbvuJtS8" title="A Perfect Circle - The Doomed Official Video" >}}<br>
-### More Videos
-
-- [A Perfect Circle - Eat The Elephant 2D Version of Hologram Video](https://www.youtube.com/watch?v=mdcdxpn0JHY)
-- [A Perfect Circle - Disillusioned Official Video](https://www.youtube.com/watch?v=BIsH686xWl0)
-- [A Perfect Circle - TalkTalk](https://www.youtube.com/watch?v=-aOyAvbj2Fg)
-- [A Perfect Circle - By And Down The River Audio](https://www.youtube.com/watch?v=IL2N7d4WXzw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +72,5 @@ The album was released on April 20, 2018, after four singles were released in ad
 | Format         | Vinyl 2× LP Album Limited Edition Special Cut (White ) |
 | Label          | BMG |
 | Catalog Number | 538374370 |
-| Notes | Limited edition independent retail exclusive version of the LP on white 180 gram vinyl with alternate cover.   Tracks C3 / D1, DLB, is listed on hype sticker and labels as track 9 on both sides C and D .  It does play on both sides, but on side D, it is more of an intro / segue into "Hourglass".  Side D has a locked groove which repeats the last few seconds of “Get The Lead Out”. |
+| Notes | Limited edition independent retail exclusive version of the LP on white 180 gram vinyl with alternate cover.<br><br><br>Tracks C3 / D1, DLB, is listed on hype sticker and labels as track 9 on both sides C and D .  It does play on both sides, but on side D, it is more of an intro / segue into "Hourglass".<br><br>Side D has a locked groove which repeats the last few seconds of “Get The Lead Out”. |
 | Discogs URL    | [A Perfect Circle - Eat The Elephant](https://www.discogs.com/release/11861222-A-Perfect-Circle-Eat-The-Elephant) |

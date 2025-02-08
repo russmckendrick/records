@@ -4,6 +4,7 @@ artist_name: "Rustin Man"
 artist: "rustin-man"
 album_name: "Drift Code"
 date: 2019-02-03T08:50:31.000000Z
+release_date: "2019-02-01"
 release_id: "13151178"
 slug: "drift-code-13151178"
 hideSummary: true
@@ -22,32 +23,29 @@ styles: ["Folk", "Psychedelic Rock"]
 Drift Code is the second studio album by English musician and former Talk Talk bassist Paul Webb, under his moniker Rustin Man. It was released on 1 February 2019 through Domino Recording Company.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Vanishing Heart
-2. Judgement Train
-3. Brings Me Joy
-4. Our Tomorrows
-5. Euphonium Dream
-6. The World's In Town
-7. Light The Light
-8. Martian Garden
-9. All Summer
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Vanishing Heart |  |
+| A2 | Judgement Train |  |
+| A3 | Brings Me Joy |  |
+| A4 | Our Tomorrows |  |
+| A5 | Euphonium Dream |  |
+| B1 | The World's In Town |  |
+| B2 | Light The Light |  |
+| B3 | Martian Garden |  |
+| B4 | All Summer |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/drift-code/1441129695" >}}<br>
 
 
-## Videos
-### Rustin Man - Vanishing Heart Official Video
-{{< youtube id="RyrGv1d8gFk" title="Rustin Man - Vanishing Heart Official Video" >}}<br>
-### More Videos
-
-- [Rustin Man - The Worlds in Town Official Audio](https://www.youtube.com/watch?v=TAGq1470T7I)
-- [Rustin Man - Judgement Train Official Video](https://www.youtube.com/watch?v=IgBs42v3l0k)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,5 +57,5 @@ Drift Code is the second studio album by English musician and former Talk Talk b
 | Format         | Vinyl LP Album Deluxe Edition (Signed Photographic Print, 180g) |
 | Label          | Domino |
 | Catalog Number | WIGLP414 |
-| Notes | [Hype sticker on front]: "Deluxe mart edition 180 gram heavyweight vinyl Includes exclusive signed photographic print plus download code. WIGLP414XM 887828041459"  This version which includes the signed print was available only direct from Domino.  Recorded at Barnlight Studios, North West essex. Mastered at Electric Mastering, London. Cover photograph  - Archives Kunkels Organ Foundation. Booklet photograph still taken from the short film directed by Edwin Burdis.  All songs published by Domino Publishing Co. Ltd except "Our Tomorrows" and " Light The Light" Domino Publishing Co. Ltd. / Copyright Control.  Made in the EU ℗&© 2019 Domino Recording Co. Ltd. |
+| Notes | [Hype sticker on front]:<br>"Deluxe mart edition<br>180 gram heavyweight vinyl<br>Includes exclusive signed photographic print<br>plus download code.<br>WIGLP414XM 887828041459"<br><br>This version which includes the signed print was available only direct from Domino.<br><br>Recorded at Barnlight Studios, North West essex.<br>Mastered at Electric Mastering, London.<br>Cover photograph  - Archives Kunkels Organ Foundation.<br>Booklet photograph still taken from the short film directed by Edwin Burdis.<br><br>All songs published by Domino Publishing Co. Ltd except<br>"Our Tomorrows" and " Light The Light" Domino Publishing Co. Ltd. / Copyright Control.<br><br>Made in the EU ℗&© 2019 Domino Recording Co. Ltd. |
 | Discogs URL    | [Rustin Man - Drift Code](https://www.discogs.com/release/13151178-Rustin-Man-Drift-Code) |

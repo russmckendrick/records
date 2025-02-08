@@ -1,6 +1,6 @@
 ---
-title: "Nick Cave & The Bad Seeds - Ghosteen"
-artist_name: "Nick Cave & The Bad Seeds"
+title: "Nick Cave  The Bad Seeds - Ghosteen"
+artist_name: "Nick Cave  The Bad Seeds"
 artist: "nick-cave-the-bad-seeds"
 album_name: "Ghosteen"
 date: 2019-12-25T11:28:59.000000Z
@@ -10,8 +10,8 @@ slug: "ghosteen-14345514"
 hideSummary: true
 cover:
     image: "ghosteen-14345514.jpg"
-    alt: "Ghosteen by Nick Cave & The Bad Seeds"
-    caption: "Ghosteen by Nick Cave & The Bad Seeds"
+    alt: "Ghosteen by Nick Cave  The Bad Seeds"
+    caption: "Ghosteen by Nick Cave  The Bad Seeds"
 additional_images:
     - "https://i.discogs.com/QDo94SFW0kxSvR6O8Q05Lar6VI-01Kh1_tP7GLadbE4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ1/NTE0LTE1NzM5MTYz/MTMtNDQ2MS5qcGVn.jpeg"
     - "https://i.discogs.com/MpzrJwA0ddCijagHvSgZa8GGX4PJUuTm7tbxA7UxD3s/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ1/NTE0LTE1NzM5MTYz/MTMtOTE2OC5qcGVn.jpeg"
@@ -43,50 +43,27 @@ Through these dreamlike, surreal stories, Cave is finding his path to peace. And
 
 
 ## Tracklisting
-1. Part 1
-2. Spinning Song (4:43)
-3. Bright Horses (4:52)
-4. Waiting For You (3:54)
-5. Night Raid (5:07)
-6. Sun Forest (6:46)
-7. Galleon Ship (4:14)
-8. Ghosteen Speaks (4:02)
-9. Leviathan (4:48)
-10. Part 2
-11. Ghosteen (12:10)
-12. Fireflies (3:23)
-13. Hollywood (14:12)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Part 1 |  |
+| A1 | Spinning Song | 4:43 |
+| A2 | Bright Horses | 4:52 |
+| A3 | Waiting For You | 3:54 |
+| A4 | Night Raid | 5:07 |
+| B1 | Sun Forest | 6:46 |
+| B2 | Galleon Ship | 4:14 |
+| B3 | Ghosteen Speaks | 4:02 |
+| B4 | Leviathan | 4:48 |
+|  | Part 2 |  |
+| C1 | Ghosteen | 12:10 |
+| C2 | Fireflies | 3:23 |
+| D1 | Hollywood | 14:12 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ghosteen/1479214340" >}}<br>
 
 
-## Videos
-### Nick Cave and The Bad Seeds - Spinning Song Lyric Video
-{{< youtube id="Ha5VGMaG4E4" title="Nick Cave and The Bad Seeds - Spinning Song Lyric Video" >}}<br>
-### More Videos
-
-- [Nick Cave and The Bad Seeds - Bright Horses Lyric Video](https://www.youtube.com/watch?v=cfKYImFP_Pw)
-- [Nick Cave and The Bad Seeds - Waiting For You Lyric Video](https://www.youtube.com/watch?v=e0vQTzYe9Lk)
-- [Nick Cave and The Bad Seeds - Night Raid Lyric Video](https://www.youtube.com/watch?v=pdhF0RhixRA)
-- [Nick Cave and The Bad Seeds - Sun Forest Lyric Video](https://www.youtube.com/watch?v=jxqdO0SO18M)
-- [Nick Cave and The Bad Seeds - Galleon Ship Lyric Video](https://www.youtube.com/watch?v=4DjshyO_uT0)
-- [Nick Cave and The Bad Seeds - Ghosteen Speaks Lyric Video](https://www.youtube.com/watch?v=-DQT_R2VMJQ)
-- [Nick Cave and The Bad Seeds - Leviathan Lyric Video](https://www.youtube.com/watch?v=H3M0mkmDL1o)
-- [Nick Cave and The Bad Seeds - Ghosteen Lyric Video](https://www.youtube.com/watch?v=7IE5A2_LV6I)
-- [Nick Cave and The Bad Seeds - Fireflies Lyric Video](https://www.youtube.com/watch?v=PDm1w067hdU)
-- [Nick Cave and The Bad Seeds - Hollywood Lyric Video](https://www.youtube.com/watch?v=MfDx09Ko8G4)
-- [Nick Cave and The Bad Seeds - Spinning Song Lyric Video](https://www.youtube.com/watch?v=Ha5VGMaG4E4)
-- [Nick Cave and The Bad Seeds - Bright Horses Lyric Video](https://www.youtube.com/watch?v=cfKYImFP_Pw)
-- [Nick Cave and The Bad Seeds - Waiting For You Lyric Video](https://www.youtube.com/watch?v=e0vQTzYe9Lk)
-- [Nick Cave and The Bad Seeds - Night Raid Lyric Video](https://www.youtube.com/watch?v=pdhF0RhixRA)
-- [Nick Cave and The Bad Seeds - Sun Forest Lyric Video](https://www.youtube.com/watch?v=jxqdO0SO18M)
-- [Nick Cave and The Bad Seeds - Galleon Ship Lyric Video](https://www.youtube.com/watch?v=4DjshyO_uT0)
-- [Nick Cave and The Bad Seeds - Ghosteen Speaks Lyric Video](https://www.youtube.com/watch?v=-DQT_R2VMJQ)
-- [Nick Cave and The Bad Seeds - Leviathan Lyric Video](https://www.youtube.com/watch?v=H3M0mkmDL1o)
-- [Nick Cave and The Bad Seeds - Ghosteen Lyric Video](https://www.youtube.com/watch?v=7IE5A2_LV6I)
-- [Nick Cave and The Bad Seeds - Fireflies Lyric Video](https://www.youtube.com/watch?v=PDm1w067hdU)
-- [Nick Cave and The Bad Seeds - Hollywood Lyric Video](https://www.youtube.com/watch?v=MfDx09Ko8G4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -98,5 +75,5 @@ Through these dreamlike, surreal stories, Cave is finding his path to peace. And
 | Format         | Vinyl 2× LP Album |
 | Label          | Ghosteen Ltd |
 | Catalog Number | BS016LP |
-| Notes | The version with "Made in The UK" instead can be found here:  [r32101671]  Housed in a gatefold jacket with poly-lined inner sleeves printed with lyrics, credits and recording info. Album download code included. The BS016LP catalog number follows the [l501701] label format.  Runout information: "STERLING" is machine engraved, the rest is hand-etched. The faintly inscribed Optimal plating marks are mirrored (e.g. '1II', 'VV', '+=2' & '2+T' for variant 2, and '-1' & '1+1' for variant 3).  [Inner sleeve LP 2:] This record is dedicated to [a259149] Recorded at Woodshed, Malibu / Nightbird, Los Angeles / Retreat, Brighton / Candybomber, Berlin Mixed [...] at Conway, Los Angeles [...] Orchestra recorded [...] at Air, London [...] Published by Kobalt Music Group Ltd ℗ & © 2019 Ghosteen Ltd Under exclusive license to AWAL Recordings Ltd Manufactured in the EU |
-| Discogs URL    | [Nick Cave & The Bad Seeds - Ghosteen](https://www.discogs.com/release/14345514-Nick-Cave-And-The-Bad-Seeds-Ghosteen) |
+| Notes | The version with "Made in The UK" instead can be found here:<br><br>[r32101671]<br><br>Housed in a gatefold jacket with poly-lined inner sleeves printed with lyrics, credits and recording info.<br>Album download code included.<br>The BS016LP catalog number follows the [l501701] label format.<br><br>Runout information:<br>"STERLING" is machine engraved, the rest is hand-etched.<br>The faintly inscribed Optimal plating marks are mirrored (e.g. '1II', 'VV', '+=2' & '2+T' for variant 2, and '-1' & '1+1' for variant 3).<br><br>[Inner sleeve LP 2:]<br>This record is dedicated to [a259149]<br>Recorded at Woodshed, Malibu / Nightbird, Los Angeles / Retreat, Brighton / Candybomber, Berlin<br>Mixed [...] at Conway, Los Angeles [...]<br>Orchestra recorded [...] at Air, London [...]<br>Published by Kobalt Music Group Ltd<br>℗ & © 2019 Ghosteen Ltd<br>Under exclusive license to AWAL Recordings Ltd<br>Manufactured in the EU |
+| Discogs URL    | [Nick Cave  The Bad Seeds - Ghosteen](https://www.discogs.com/release/14345514-Nick-Cave-And-The-Bad-Seeds-Ghosteen) |

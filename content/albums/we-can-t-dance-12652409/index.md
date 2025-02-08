@@ -4,6 +4,7 @@ artist_name: "Genesis"
 artist: "genesis"
 album_name: "We Can't Dance"
 date: 2024-09-07T06:09:56.000000Z
+release_date: "1991-10-28"
 release_id: "12652409"
 slug: "we-can-t-dance-12652409"
 hideSummary: true
@@ -32,57 +33,32 @@ We Can't Dance is the fourteenth studio album by the English rock band Genesis, 
 We Can't Dance was a worldwide commercial success for the band. It became the band's fifth consecutive No. 1 album in the UK and reached No. 4 in the US, where it sold over 4 million copies. Between 1991 and 1993, six tracks from the album were released as singles, including "No Son of Mine" and "I Can't Dance". The latter received a Grammy Award nomination for Best Pop Performance by a Duo or Group With Vocals in 1993. Genesis toured in support of We Can't Dance from May to November 1992, playing large stadiums and arenas across North America and Europe.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. No Son Of Mine
-2. Jesus He Knows Me
-3. Driving The Last Spike
-4. I Can't Dance
-5. Never A Time
-6. Dreaming While You Sleep
-7. Tell Me Why
-8. Living Forever
-9. Hold On My Heart
-10. Way Of The World
-11. Since I Lost You
-12. Fading Lights
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | No Son Of Mine |  |
+| A2 | Jesus He Knows Me |  |
+| A3 | Driving The Last Spike |  |
+| B1 | I Can't Dance |  |
+| B2 | Never A Time |  |
+| B3 | Dreaming While You Sleep |  |
+| C1 | Tell Me Why |  |
+| C2 | Living Forever |  |
+| C3 | Hold On My Heart |  |
+| D1 | Way Of The World |  |
+| D2 | Since I Lost You |  |
+| D3 | Fading Lights |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/we-cant-dance-remastered/268026782" >}}<br>
 
 
-## Videos
-### Genesis - No Son Of Mine Official Music Video
-{{< youtube id="0f2Pt1aqDMo" title="Genesis - No Son Of Mine Official Music Video" >}}<br>
-### More Videos
-
-- [Genesis - Jesus He Knows Me Official Music Video](https://www.youtube.com/watch?v=2-rfCnW5VlE)
-- [Genesis - Driving The Last Spike Official Audio](https://www.youtube.com/watch?v=aZrMQwM8owI)
-- [Genesis - I Cant Dance Official Music Video](https://www.youtube.com/watch?v=hGI2d31M7Ns)
-- [Genesis - Never A Time Official Audio](https://www.youtube.com/watch?v=s4ccUQ4oE6s)
-- [Genesis - Dreaming While You Sleep Official Audio](https://www.youtube.com/watch?v=8m2oUeHUEBg)
-- [Genesis - Tell Me Why Official Music Video](https://www.youtube.com/watch?v=73kVlLKvkB8)
-- [Genesis - Living Forever Official Audio](https://www.youtube.com/watch?v=EHx9MqCfCjw)
-- [Genesis - Hold On My Heart Official Music Video](https://www.youtube.com/watch?v=mGfqB1-gHEM)
-- [Genesis - Way Of The World Official Audio](https://www.youtube.com/watch?v=Zh_lQixMezs)
-- [Genesis - Since I Lost You Official Audio](https://www.youtube.com/watch?v=LymGZ1_MZ2Y)
-- [Genesis - Fading Lights Official Audio](https://www.youtube.com/watch?v=sRKtxLDTgAw)
-- [Genesis - No Son Of Mine Official Music Video](https://www.youtube.com/watch?v=0f2Pt1aqDMo)
-- [Genesis - Jesus He Knows Me Official Music Video](https://www.youtube.com/watch?v=2-rfCnW5VlE)
-- [Genesis - Driving The Last Spike Official Audio](https://www.youtube.com/watch?v=aZrMQwM8owI)
-- [Genesis - I Cant Dance Official Music Video](https://www.youtube.com/watch?v=hGI2d31M7Ns)
-- [Genesis - Never A Time Official Audio](https://www.youtube.com/watch?v=s4ccUQ4oE6s)
-- [Genesis - Dreaming While You Sleep Official Audio](https://www.youtube.com/watch?v=8m2oUeHUEBg)
-- [Genesis - Tell Me Why Official Music Video](https://www.youtube.com/watch?v=73kVlLKvkB8)
-- [Genesis - Living Forever Official Audio](https://www.youtube.com/watch?v=EHx9MqCfCjw)
-- [Genesis - Hold On My Heart Official Music Video](https://www.youtube.com/watch?v=mGfqB1-gHEM)
-- [Genesis - Way Of The World Official Audio](https://www.youtube.com/watch?v=Zh_lQixMezs)
-- [Genesis - Since I Lost You Official Audio](https://www.youtube.com/watch?v=LymGZ1_MZ2Y)
-- [Genesis - Fading Lights Official Audio](https://www.youtube.com/watch?v=sRKtxLDTgAw)
-- [Genesis - I Cant Dance Official Audio](https://www.youtube.com/watch?v=A6xCZW_DQ-U)
 
 ## Release Images
 {{< imageGrid >}}
@@ -94,5 +70,5 @@ We Can't Dance was a worldwide commercial success for the band. It became the ba
 | Format         | Vinyl 2× LP Album Reissue Stereo |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 374780 |
-| Notes | Hype sticker: genesis The Classic Albums featuring: Half-Speed Mastering 2008 Mixes by Nick Davis & Genesis 180G Audiophile Vinyl  Packaged in a wide spine sleeve. Each LP has a printed inner sleeve.  Sticker: Made in Germany  ℗ & © 2018, 1991 Anthony Banks Ltd. Philip Collins Ltd, Michael Rutherford Ltd, under exclusive license to Atlantic Recording Corporation/Rhino Entertainment Company, Warner Music Group Companies. Manufactured for & marketed by Rhino Entertainment Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. Made in Germany.  Recorded at The Farm, Surrey, England, March-Sept 1991. |
+| Notes | Hype sticker:<br>genesis<br>The Classic Albums<br>featuring:<br>Half-Speed Mastering<br>2008 Mixes by Nick Davis & Genesis<br>180G Audiophile Vinyl<br><br>Packaged in a wide spine sleeve. Each LP has a printed inner sleeve.<br><br>Sticker: Made in Germany<br><br>℗ & © 2018, 1991 Anthony Banks Ltd. Philip Collins Ltd, Michael Rutherford Ltd, under exclusive license to Atlantic Recording Corporation/Rhino Entertainment Company, Warner Music Group Companies.<br>Manufactured for & marketed by Rhino Entertainment Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021.<br>Made in Germany.<br><br>Recorded at The Farm, Surrey, England, March-Sept 1991. |
 | Discogs URL    | [Genesis - We Can't Dance](https://www.discogs.com/release/12652409-Genesis-We-Cant-Dance) |

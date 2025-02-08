@@ -4,6 +4,7 @@ artist_name: "George Harrison"
 artist: "george-harrison"
 album_name: "All Things Must Pass"
 date: 2017-02-24T09:40:13.000000Z
+release_date: "2021-05-28"
 release_id: "9882471"
 slug: "all-things-must-pass-9882471"
 hideSummary: true
@@ -40,67 +41,44 @@ All Things Must Pass was critically and commercially successful on release, with
 During the final year of his life, Harrison oversaw a successful reissue campaign to mark the 30th anniversary of the album's release. After this reissue, the Recording Industry Association of America certified the album six-times platinum. It has since been certified seven-times platinum, with at least 7 million albums sold. Among its appearances on critics' best-album lists, All Things Must Pass was ranked 79th on The Times' "The 100 Best Albums of All Time" in 1993, while Rolling Stone placed it 368th on the magazine's 2023 update of "The 500 Greatest Albums of All Time". In 2014, All Things Must Pass was inducted into the Grammy Hall of Fame.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I'd Have You Anytime
-2. My Sweet Lord
-3. Wah-Wah
-4. Isn't It A Pity (Version One)
-5. What Is Life
-6. If Not For You
-7. Behind That Locked Door
-8. Let It Down
-9. Run Of The Mill
-10. Beware Of Darkness
-11. Apple Scruffs
-12. Ballad Of Sir Frankie Crisp (Let It Roll)
-13. Awaiting On You All
-14. All Things Must Pass
-15. I Dig Love
-16. Art Of Dying
-17. Isn't It A Pity (Version Two)
-18. Hear Me Lord
-19. Apple Jam
-20. Out Of The Blue
-21. It's Johnny's Birthday
-22. Plug Me In
-23. I Remember Jeep
-24. Thanks For The Pepperoni
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I'd Have You Anytime |  |
+| A2 | My Sweet Lord |  |
+| A3 | Wah-Wah |  |
+| A4 | Isn't It A Pity (Version One) |  |
+| B1 | What Is Life |  |
+| B2 | If Not For You |  |
+| B3 | Behind That Locked Door |  |
+| B4 | Let It Down |  |
+| B5 | Run Of The Mill |  |
+| C1 | Beware Of Darkness |  |
+| C2 | Apple Scruffs |  |
+| C3 | Ballad Of Sir Frankie Crisp (Let It Roll) |  |
+| C4 | Awaiting On You All |  |
+| C5 | All Things Must Pass |  |
+| D1 | I Dig Love |  |
+| D2 | Art Of Dying |  |
+| D3 | Isn't It A Pity (Version Two) |  |
+| D4 | Hear Me Lord |  |
+|  | Apple Jam |  |
+| E1 | Out Of The Blue |  |
+| E2 | It's Johnny's Birthday |  |
+| E3 | Plug Me In |  |
+| F1 | I Remember Jeep |  |
+| F2 | Thanks For The Pepperoni |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-things-must-pass-single/1565924539" >}}<br>
 
 
-## Videos
-### George Harrison - All Things Must Pass Disc 1
-{{< youtube id="doReVkb3Xgo" title="George Harrison - All Things Must Pass Disc 1" >}}<br>
-### More Videos
-
-- [George Harrison - All Things Must Pass Disc 2  3](https://www.youtube.com/watch?v=QzEOFcrHDIM)
-- [George Harrison - All Things Must Pass Cd1 FullAlbum](https://www.youtube.com/watch?v=ZCdj6oraKRg)
-- [George Harrison - All Things Must Pass Full Album 1970](https://www.youtube.com/watch?v=dpa-80yYL7Q)
-- [All Things Must Pass 2009 Remaster](https://www.youtube.com/watch?v=bpbdsIQb87A)
-- [George Harrison - All Things Must Pass](https://www.youtube.com/watch?v=oVx_8mj-UyE)
-- [Paul McCartney - All Things Must Pass Live](https://www.youtube.com/watch?v=o6iaSWSB7rE)
-- [George Harrison - All Things Must Pass Last TV Appearance 1997](https://www.youtube.com/watch?v=HAo_4mXxLrM)
-- [George Harrison - All Things Must Pass Lyrics](https://www.youtube.com/watch?v=Til-MWvtkf0)
-- [THE BEST DOUBLE ALBUMS OF ALL TIME](https://www.youtube.com/watch?v=-5PHigXL8PI)
-- [George Harrison All Things Pass FULL MOVIE](https://www.youtube.com/watch?v=N5goAwWijAQ)
-- [John Lennon helps George with All Things Must Pass](https://www.youtube.com/watch?v=kQAMDw77m9U)
-- [All Things Must Pass Demo](https://www.youtube.com/watch?v=JeyB7zzEquo)
-- [Peter Frampton on Recording All Things Must Pass With George Harrison](https://www.youtube.com/watch?v=Ajr0KukHKsE)
-- [GEORGE HARRISON -  All Things Must Pass with lyrics](https://www.youtube.com/watch?v=_nYXsnRSQXA)
-- [All Things Must Pass Anthology 3 Version](https://www.youtube.com/watch?v=5ODEhwaU2Uw)
-- [Id Have You Anytime 2014 Remaster](https://www.youtube.com/watch?v=bEoaZc7pY4M)
-- [Beware of Darkness 2014 Remaster](https://www.youtube.com/watch?v=FrsGTItbss4)
-- [George Harrison - All Things Must Pass Living In The Material World Bonus Tracks](https://www.youtube.com/watch?v=KZbGVHk3tBA)
-- [George Harrison - All Things Must Pass 1997 - VH1- HD](https://www.youtube.com/watch?v=HsQKJt1n_dc)
-- [All Things Must Pass](https://www.youtube.com/watch?v=Hxyon6mBXfU)
-- [All Things Must Pass 1080p FULL MOVIE - Documentary Music](https://www.youtube.com/watch?v=tH-Y3WiwUXQ)
-- [GEORGE HARRISON - ALL THINGS MUST PASS Full album UK](https://www.youtube.com/watch?v=boZC6NTls70)
 
 ## Release Images
 {{< imageGrid >}}
@@ -112,5 +90,5 @@ During the final year of his life, Harrison oversaw a successful reissue campaig
 | Format         | Vinyl 3× LP Album Reissue Remastered Stereo (180g), Box Set |
 | Label          | Apple Records |
 | Catalog Number | STCH 639 |
-| Notes | Cover sticker: Remastered for vinyl from the original analogue stereo master tapes. Album replicates design and construction of the original release. 180g Heavyweight vinyl.  ℗ 2014 The copyright in this sound recording is owned by G.H. Estate Limited under exclusive license to Calderstone Productions Limited (a division of Universal Music Group). © 2017 G.H. Estate Limited.  Sticker on rear shrinkwrap: Made in Germany. On LP labels: Mfd. in E.U.  Includes a 6-panel fold-out poster. Each LP comes in a printed inner sleeve.  For the songs written by George Harrison: All lyrics copyright 1970 for the world by Harrisongs Music, Ltd., England All rights for the United States and Canada controlled by Harrisongs Music, Inc.  For the songs written by Bob Dylan: All lyrics copyright 1970 by Big Sky Music.  Apple Jam (Recorded during sides 1, 2, 3 & 4.) 'It's Johnny's Birthday' based on 'Congratulations' by Bill Martin & Phil Coulter and published by Peter Maurice Music Co/EMI Music Publishing Ltd. Other tracks: Copyright 1970 for the world by Harrisongs Music, Ltd., England. All rights for the United States and Canada controlled by Harrisongs Music, Inc. |
+| Notes | Cover sticker:<br>Remastered for vinyl from the original analogue stereo master tapes.<br>Album replicates design and construction of the original release.<br>180g Heavyweight vinyl.<br><br>℗ 2014 The copyright in this sound recording is owned by G.H. Estate Limited under exclusive license to Calderstone Productions Limited (a division of Universal Music Group).<br>© 2017 G.H. Estate Limited.<br><br>Sticker on rear shrinkwrap: Made in Germany.<br>On LP labels: Mfd. in E.U.<br><br>Includes a 6-panel fold-out poster.<br>Each LP comes in a printed inner sleeve.<br><br>For the songs written by George Harrison:<br>All lyrics copyright 1970 for the world by Harrisongs Music, Ltd., England<br>All rights for the United States and Canada controlled by Harrisongs Music, Inc.<br><br>For the songs written by Bob Dylan:<br>All lyrics copyright 1970 by Big Sky Music.<br><br>Apple Jam (Recorded during sides 1, 2, 3 & 4.)<br>'It's Johnny's Birthday' based on 'Congratulations' by Bill Martin & Phil Coulter and published by Peter Maurice Music Co/EMI Music Publishing Ltd.<br>Other tracks: Copyright 1970 for the world by Harrisongs Music, Ltd., England. All rights for the United States and Canada controlled by Harrisongs Music, Inc. |
 | Discogs URL    | [George Harrison - All Things Must Pass](https://www.discogs.com/release/9882471-George-Harrison-All-Things-Must-Pass) |

@@ -4,6 +4,7 @@ artist_name: "The Specials"
 artist: "the-specials"
 album_name: "Encore"
 date: 2019-02-01T18:56:27.000000Z
+release_date: "2019-02-01"
 release_id: "13150462"
 slug: "encore-13150462"
 hideSummary: true
@@ -29,49 +30,30 @@ Encore is the eighth studio album by the English ska revival band the Specials. 
 The album features three covers of older songs; "Black Skin Blue Eyed Boys" (originally by The Equals), "Blam Blam Fever" (originally by The Valentines) and "The Lunatics" (originally by Hall and Lynval Golding's group Fun Boy Three, released in 1981 as "The Lunatics (Have Taken Over the Asylum)"). The Specials, in a different incarnation, previously released a cover of "Blam Blam Fever" on 2000's studio album Skinhead Girl.
 The track "10 Commandments" is a rebuttal to Prince Buster's "Ten Commandments", criticising the original's outdated representation of women. The track features a lead vocal from Saffiyah Khan, who came to prominence after being photographed challenging an English Defence League demonstration whilst wearing a Specials t-shirt. 
 Encore entered at number 1 on the UK Albums Chart after its first week of release, falling to 5 the week after and spending 9 weeks on the charts.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Black Skin Blue Eyed Boys
-2. B.L.M.
-3. Vote For Me
-4. The Lunatics
-5. Breaking Point
-6. Blam Blam Fever
-7. 10 Commandments
-8. Embarrassed By You
-9. The Life And Times (Of A Man Called Depression)
-10. We Sell Hope
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Black Skin Blue Eyed Boys |  |
+| A2 | B.L.M. |  |
+| A3 | Vote For Me |  |
+| A4 | The Lunatics |  |
+| A5 | Breaking Point |  |
+| B1 | Blam Blam Fever |  |
+| B2 | 10 Commandments |  |
+| B3 | Embarrassed By You |  |
+| B4 | The Life And Times (Of A Man Called Depression) |  |
+| B5 | We Sell Hope |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/encore/1445866886" >}}<br>
 
 
-## Videos
-### Stereotype Live At Le Bataclan
-{{< youtube id="3y0-Z3w3xq0" title="Stereotype Live At Le Bataclan" >}}<br>
-### More Videos
-
-- [Friday Night Saturday Morning Live At Le Bataclan](https://www.youtube.com/watch?v=sYLaOogukHk)
-- [Black Skin Blue Eyed Boys](https://www.youtube.com/watch?v=BUVHz-HwR7c)
-- [Ghost Town Live At Le Bataclan](https://www.youtube.com/watch?v=7BjsnQ4tDLg)
-- [BLM](https://www.youtube.com/watch?v=7FyOjzUd57c)
-- [Vote For Me](https://www.youtube.com/watch?v=UNeM3w5SVOs)
-- [The Lunatics](https://www.youtube.com/watch?v=THjBJk8R2MY)
-- [Breaking Point](https://www.youtube.com/watch?v=TXm_WEtMtFo)
-- [10 Commandments](https://www.youtube.com/watch?v=c_yPCE7GSTY)
-- [Embarrassed By You](https://www.youtube.com/watch?v=AUjpF8uaqWs)
-- [The Life And Times Of A Man Called Depression](https://www.youtube.com/watch?v=GygW_WjpebM)
-- [We Sell Hope](https://www.youtube.com/watch?v=y8KYo8CY8Uw)
-- [Gangsters Live At Le Bataclan](https://www.youtube.com/watch?v=-oFwl58XKQI)
-- [A Message To You Rudy Live At Le Bataclan](https://www.youtube.com/watch?v=FD72e8IeM4s)
-- [Nite Klub Live At The Troxy](https://www.youtube.com/watch?v=Mw3WEWUn9Y4)
-- [Redemption Song Live At The Troxy](https://www.youtube.com/watch?v=2gkmVggL0i0)
-- [Monkey Man Live At Le Bataclan](https://www.youtube.com/watch?v=aTmInDkSvTg)
-- [Enjoy Yourself Its Later Than You Think](https://www.youtube.com/watch?v=Ws03yKmR5yI)
-- [All The Time In The World Live At The Troxy](https://www.youtube.com/watch?v=XLV6zYEDqGA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +65,5 @@ Encore entered at number 1 on the UK Albums Chart after its first week of releas
 | Format         | Vinyl LP Album |
 | Label          | Island Records |
 | Catalog Number | 7721103 |
-| Notes | Includes download voucher. Comes with a 4 pages 12" foldout including lyrics, photos and credits. Made in the E.U  Embossed front cover |
+| Notes | Includes download voucher. Comes with a 4 pages 12" foldout including lyrics, photos and credits.<br>Made in the E.U<br><br>Embossed front cover |
 | Discogs URL    | [The Specials - Encore](https://www.discogs.com/release/13150462-The-Specials-Encore) |

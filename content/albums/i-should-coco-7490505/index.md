@@ -4,6 +4,7 @@ artist_name: "Supergrass"
 artist: "supergrass"
 album_name: "I Should Coco"
 date: 2020-07-31T16:41:08.000000Z
+release_date: "1995-07-18"
 release_id: "7490505"
 slug: "i-should-coco-7490505"
 hideSummary: true
@@ -28,38 +29,35 @@ I Should Coco is the debut studio album by English alternative rock band Supergr
 Supergrass were formed in 1993 by Gaz Coombes, Mick Quinn and Danny Goffey, and they released their debut single, "Caught by the Fuzz", in October 1994 on the small independent local label Backbeat Records. Success of the single brought a major label record deal. I Should Coco was recorded in Cornwall and produced by Sam Williams, who had been impressed by the band while scouting in Oxford. At the height of the Britpop era, the album became the band's most successful release when it reached number one on the UK Albums Chart, and subsequently gained platinum status, selling over a million copies worldwide and 500,000 in the UK. The most successful single released from I Should Coco is "Alright", which peaked at number two on the UK singles chart, and gained platinum status.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I'd Like To Know (4:02)
-2. Caught By The Fuzz (2:16)
-3. Mansize Rooster (2:34)
-4. Alright (2:01)
-5. Lose It (2:37)
-6. Lenny (2:41)
-7. Strange Ones (4:19)
-8. Sitting Up Straight (2:18)
-9. She's So Loose (2:59)
-10. We're Not Supposed To (2:03)
-11. Time (3:10)
-12. Sofa (Of My Lethargy) (6:18)
-13. Time To Go (1:56)
-14. Stone Free (3:10)
-15. Odd (5:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I'd Like To Know | 4:02 |
+| A2 | Caught By The Fuzz | 2:16 |
+| A3 | Mansize Rooster | 2:34 |
+| A4 | Alright | 2:01 |
+| A5 | Lose It | 2:37 |
+| A6 | Lenny | 2:41 |
+| B7 | Strange Ones | 4:19 |
+| B8 | Sitting Up Straight | 2:18 |
+| B9 | She's So Loose | 2:59 |
+| B10 | We're Not Supposed To | 2:03 |
+| B11 | Time | 3:10 |
+| B12 | Sofa (Of My Lethargy) | 6:18 |
+| B13 | Time To Go | 1:56 |
+| C | Stone Free | 3:10 |
+| D | Odd | 5:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-should-coco/1437461696" >}}<br>
 
 
-## Videos
-### Supergrass - Alright Official HD Video
-{{< youtube id="qUE4oDunYkc" title="Supergrass - Alright Official HD Video" >}}<br>
-### More Videos
-
-- [Supergrass - Caught By The Fuzz Official HD Video - US Version](https://www.youtube.com/watch?v=GNIMuvbiZcc)
-- [Supergrass - Mansize Rooster Official HD Video](https://www.youtube.com/watch?v=dHlLcVHncDw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +69,5 @@ Supergrass were formed in 1993 by Gaz Coombes, Mick Quinn and Danny Goffey, and 
 | Format         | Vinyl LP Album Reissue Remastered, Vinyl 7" 45 RPM Single, All Media Limited Edition |
 | Label          | Parlophone |
 | Catalog Number | 0825646130573 |
-| Notes | 20th anniversary edition. Album is dedicated to David Norland 1974-2014. Supergrass and I Should Coco are embossed.  Recorded at Sawmills Studio, Golant, Fowey, Cornwall. Musical thanks to James Halliwell, The Jazz Monk, Matt Burley and Sam Williams.  B side label of 7" is plain red. Embossed letters on front sleeve. Comes with a [l873810] download code. |
+| Notes | 20th anniversary edition. Album is dedicated to David Norland 1974-2014.<br>Supergrass and I Should Coco are embossed.<br><br>Recorded at Sawmills Studio, Golant, Fowey, Cornwall.<br>Musical thanks to James Halliwell, The Jazz Monk, Matt Burley and Sam Williams.<br><br>B side label of 7" is plain red.<br>Embossed letters on front sleeve.<br>Comes with a [l873810] download code. |
 | Discogs URL    | [Supergrass - I Should Coco](https://www.discogs.com/release/7490505-Supergrass-I-Should-Coco) |

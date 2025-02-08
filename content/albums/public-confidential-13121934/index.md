@@ -1,9 +1,10 @@
 ---
 title: "The Beat - Public Confidential"
 artist_name: "The Beat"
-artist: "the-beat-6"
+artist: "the-beat"
 album_name: "Public Confidential"
 date: 2019-06-21T19:10:16.000000Z
+release_date: "2019-01-25"
 release_id: "13121934"
 slug: "public-confidential-13121934"
 hideSummary: true
@@ -24,26 +25,28 @@ styles: ["Ska"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Maniac (3:29)
-2. Public Confidential (3:07)
-3. Who's Dat Looking (2:44)
-4. On The Road (3:16)
-5. Dangerous (4:58)
-6. Long Call Short Talk (3:31)
-7. Giving It Up (3:15)
-8. A Good Day For Sunshine (2:42)
-9. Skank Away (3:02)
-10. Civilisation (3:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Maniac | 3:29 |
+| A2 | Public Confidential | 3:07 |
+| A3 | Who's Dat Looking | 2:44 |
+| A4 | On The Road | 3:16 |
+| A5 | Dangerous | 4:58 |
+| B1 | Long Call Short Talk | 3:31 |
+| B2 | Giving It Up | 3:15 |
+| B3 | A Good Day For Sunshine | 2:42 |
+| B4 | Skank Away | 3:02 |
+| B5 | Civilisation | 3:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/public-confidential/1442800503" >}}<br>
 
-
-## Videos
-### Maniac - The Beat feat Ranking Roger
-{{< youtube id="kKWUHAGSHvM" title="Maniac - The Beat feat Ranking Roger" >}}<br>
 
 
 ## Release Images

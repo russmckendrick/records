@@ -4,6 +4,7 @@ artist_name: "Rodrigo Y Gabriela"
 artist: "rodrigo-y-gabriela"
 album_name: "Rodrigo Y Gabriela"
 date: 2017-06-04T10:36:02.000000Z
+release_date: "2006-02-19"
 release_id: "10381339"
 slug: "rodrigo-y-gabriela-10381339"
 hideSummary: true
@@ -36,46 +37,39 @@ styles: ["Acoustic"]
 Rodrigo y Gabriela ([roˈð̞ɾi.ɣ̞o i ɡaˈβ̞ɾje.la], "Rodrigo and Gabriela") are a Mexican acoustic guitar duo whose music is influenced by a number of genres including nuevo flamenco, rock, and heavy metal. The duo's recordings consist largely of instrumental duets on the flamenco guitar. Currently residing in Mexico City, they began their career in Dublin, Ireland, during an eight-year stay. They have toured internationally and in 2010, performed at The White House for President Barack Obama. In 2020, their fifth studio album Mettavolution won a Grammy Award for the Best Contemporary Instrumental Album at the 62nd Annual Grammy Awards. Their most recent album, In Between Thoughts…A New World, was released in April 2023.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Tamacun
-2. Diablo Rojo
-3. Vikingman
-4. Satori
-5. Ixtapa
-6. Stairway To Heaven
-7. Orion
-8. Juan Loco
-9. PPA
-10. Live At The Olympia Theatre
-11. Tamacun
-12. Diem
-13. Satori
-14. Foc
-15. Ixtapa
-16. Orion
-17. Medley: One/Take 5
-18. Mr. Tang
-19. Diablo Rojo
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Tamacun |  |
+| A2 | Diablo Rojo |  |
+| A3 | Vikingman |  |
+| A4 | Satori |  |
+| A5 | Ixtapa |  |
+| B1 | Stairway To Heaven |  |
+| B2 | Orion |  |
+| B3 | Juan Loco |  |
+| B4 | PPA |  |
+|  | Live At The Olympia Theatre |  |
+| C1 | Tamacun |  |
+| C2 | Diem |  |
+| C3 | Satori |  |
+| C4 | Foc |  |
+| C5 | Ixtapa |  |
+| D1 | Orion |  |
+| D2 | Medley: One/Take 5 |  |
+| D3 | Mr. Tang |  |
+| D4 | Diablo Rojo |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rodrigo-y-gabriela/1336807458" >}}<br>
 
 
-## Videos
-### Rodrigo y Gabriela - Tamacun
-{{< youtube id="vyOSXRCJlIg" title="Rodrigo y Gabriela - Tamacun" >}}<br>
-### More Videos
-
-- [Rodrigo y Gabriela - Diablo Rojo](https://www.youtube.com/watch?v=0bLEzeW5CJQ)
-- [Rodrigo y Gabriela - Ixtapa](https://www.youtube.com/watch?v=-V3qCq48bP0)
-- [Rodrigo y Gabriela - Orion Studio Version](https://www.youtube.com/watch?v=GP6rkf3qB0c)
-- [Rodrigo y Gabriela - Viking Man](https://www.youtube.com/watch?v=dLESmgh-VCE)
-- [Rodrigo y Gabriela  Stairway to Heaven](https://www.youtube.com/watch?v=sEk8wTB7UfU)
-- [Rodrigo y Gabriela- Hanuman OFFICIAL](https://www.youtube.com/watch?v=ENBX_v1Po1Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -87,5 +81,5 @@ Rodrigo y Gabriela ([roˈð̞ɾi.ɣ̞o i ɡaˈβ̞ɾje.la], "Rodrigo and Gabriel
 | Format         | Vinyl 2× LP Album Deluxe Edition Limited Edition Remastered |
 | Label          | Rubyworks |
 | Catalog Number | RWXLP37R |
-| Notes | The first 300 vinyl pre-orders were shipped with a 30x30 cm insert printed on both sides and signed by Rodrigo and Gabriela.   "Limited Edition Double LP - pressed on heavyweight 180g vinyl. Special Gold Foil logo cover (first pressing only)."  Limitation of this run/pressing unknown.  LP1 - Rodrigo y Gabriela (Remastered) Recorded at Riverside Studios, Bath, UK, Oct. 2005. 2016 Remaster by Robyn Robins at Mid Atlantic Digital, Grand Rapids, Michigan.  LP2 - Rodrigo y Gabriela Live At The Olympia Theatre Recorded on the 2nd and 3rd of April 2006 at The Olympia Theatre, Dublin, Ireland. 2016 Remaster by John Webber at Air Studios, London. |
+| Notes | The first 300 vinyl pre-orders were shipped with a 30x30 cm insert printed on both sides and signed by Rodrigo and Gabriela. <br><br>"Limited Edition Double LP - pressed on heavyweight 180g vinyl.<br>Special Gold Foil logo cover (first pressing only)."<br><br>Limitation of this run/pressing unknown.<br><br>LP1 - Rodrigo y Gabriela (Remastered)<br>Recorded at Riverside Studios, Bath, UK, Oct. 2005.<br>2016 Remaster by Robyn Robins at Mid Atlantic Digital, Grand Rapids, Michigan.<br><br>LP2 - Rodrigo y Gabriela Live At The Olympia Theatre<br>Recorded on the 2nd and 3rd of April 2006 at The Olympia Theatre, Dublin, Ireland.<br>2016 Remaster by John Webber at Air Studios, London. |
 | Discogs URL    | [Rodrigo Y Gabriela - Rodrigo Y Gabriela](https://www.discogs.com/release/10381339-Rodrigo-Y-Gabriela-Rodrigo-Y-Gabriela) |

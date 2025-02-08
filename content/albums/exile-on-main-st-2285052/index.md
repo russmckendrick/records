@@ -43,32 +43,31 @@ Exile on Main St. was originally met with mixed reviews before receiving strong 
 
 
 ## Tracklisting
-1. Rocks Off (4:28)
-2. Rip This Joint (2:21)
-3. Shake Your Hips (2:57)
-4. Casino Boogie (3:30)
-5. Tumbling Dice (3:42)
-6. Sweet Virginia (4:22)
-7. Torn And Frayed (4:14)
-8. Sweet Black Angel (2:53)
-9. Loving Cup (4:21)
-10. Happy (3:01)
-11. Turd On The Run (2:35)
-12. Ventilator Blues (3:22)
-13. I Just Want To See His Face (2:50)
-14. Let It Loose (5:13)
-15. All Down The Line (3:46)
-16. Stop Breaking Down (4:31)
-17. Shine A Light (4:12)
-18. Soul Survivor (3:46)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rocks Off | 4:28 |
+| A2 | Rip This Joint | 2:21 |
+| A3 | Shake Your Hips | 2:57 |
+| A4 | Casino Boogie | 3:30 |
+| A5 | Tumbling Dice | 3:42 |
+| B1 | Sweet Virginia | 4:22 |
+| B2 | Torn And Frayed | 4:14 |
+| B3 | Sweet Black Angel | 2:53 |
+| B4 | Loving Cup | 4:21 |
+| C1 | Happy | 3:01 |
+| C2 | Turd On The Run | 2:35 |
+| C3 | Ventilator Blues | 3:22 |
+| C4 | I Just Want To See His Face | 2:50 |
+| C5 | Let It Loose | 5:13 |
+| D1 | All Down The Line | 3:46 |
+| D2 | Stop Breaking Down | 4:31 |
+| D3 | Shine A Light | 4:12 |
+| D4 | Soul Survivor | 3:46 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/exile-on-main-street/1470962069" >}}<br>
 
-
-## Videos
-### The Rolling Stones   Exile on Main St Full Album 1972
-{{< youtube id="IQz67BJEJIU" title="The Rolling Stones   Exile on Main St Full Album 1972" >}}<br>
 
 
 ## Release Images
@@ -81,5 +80,5 @@ Exile on Main St. was originally met with mixed reviews before receiving strong 
 | Format         | Vinyl 2× LP Album Reissue (Gatefold ) |
 | Label          | Rolling Stones Records |
 | Catalog Number | 271 428-6 |
-| Notes | Packaged in a gatefold sleeve and printed inner sleeves.  ℗ 2010 Promotone B.V. under exclusive license to Universal Music International B.V. © 2010 Promotone B.V. under exclusive license to Universal Music International B.V.  A1, A2, A4, A5, B2, B3, C1, C2, C3, C4, C5, D4 published by EMI Music Publishing Ltd. A3 published by Campbell Connelly & Co. Ltd. B1, B4, D1 published by ABKCO Music, Inc. C3 published by Belfern Music Ltd. D2 published by Kobalt Music Publishing / MPCA King Of Spades D3 published by Westminster Music Ltd.  Made in the EU.  |
+| Notes | Packaged in a gatefold sleeve and printed inner sleeves.<br><br>℗ 2010 Promotone B.V. under exclusive license to Universal Music International B.V.<br>© 2010 Promotone B.V. under exclusive license to Universal Music International B.V.<br><br>A1, A2, A4, A5, B2, B3, C1, C2, C3, C4, C5, D4 published by EMI Music Publishing Ltd.<br>A3 published by Campbell Connelly & Co. Ltd.<br>B1, B4, D1 published by ABKCO Music, Inc.<br>C3 published by Belfern Music Ltd.<br>D2 published by Kobalt Music Publishing / MPCA King Of Spades<br>D3 published by Westminster Music Ltd.<br><br>Made in the EU.<br> |
 | Discogs URL    | [The Rolling Stones - Exile On Main St.](https://www.discogs.com/release/2285052-The-Rolling-Stones-Exile-On-Main-St) |

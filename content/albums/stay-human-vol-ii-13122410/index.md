@@ -41,24 +41,26 @@ For the past 25 years, singer-songwriter Michael Franti has been wrapping his ar
 
 
 ## Tracklisting
-1. Little Things
-2. Just To Say I Love You
-3. Flower In The Gun
-4. Only Thing Missing Was You 2
-5. Stay Human 2
-6. Summertime Won't Last Long
-7. This World Is So F*cked Up (But I Ain't Ever Giving Up On It)
-8. You're Number One
-9. Enjoy Every Second
-10. Nobody Cries Alone
-11. Extraordinary
-12. When The Sun Begins To Shine
-13. Show Me Your Peace Sign
-14. Take Me Alive
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Little Things |  |
+| A2 | Just To Say I Love You |  |
+| A3 | Flower In The Gun |  |
+| A4 | Only Thing Missing Was You 2 |  |
+| B1 | Stay Human 2 |  |
+| B2 | Summertime Won't Last Long |  |
+| B3 | This World Is So F*cked Up (But I Ain't Ever Giving Up On It) |  |
+| C1 | You're Number One |  |
+| C2 | Enjoy Every Second |  |
+| C3 | Nobody Cries Alone |  |
+| C4 | Extraordinary |  |
+| D1 | When The Sun Begins To Shine |  |
+| D2 | Show Me Your Peace Sign |  |
+| D2 | Take Me Alive |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stay-human-vol-2/1437855831" >}}<br>
-
 
 
 

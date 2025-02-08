@@ -4,6 +4,7 @@ artist_name: "The Smashing Pumpkins"
 artist: "the-smashing-pumpkins"
 album_name: "Aghori Mhori Mei"
 date: 2024-11-23T06:42:30.000000Z
+release_date: "2024-08-02"
 release_id: "32366532"
 slug: "aghori-mhori-mei-32366532"
 hideSummary: true
@@ -29,40 +30,30 @@ The album was written and recorded over a two-year period and is billed as a "ro
 Upon the albums release, critical and fan reception was generally positive. Many reviewers praised the album and the band for returning to familiar territory, incorporating a heavier sound reminiscent of their earlier work. Some critics found issue with the production and mixing of the album, particularly around the vocal performance and mix.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Edin
-2. Pentagrams
-3. Sighommi
-4. Pentecost
-5. War Dreams Of Itself
-6. Who Goes There
-7. 999
-8. Goeth The Fall
-9. Sicarus
-10. Murnau
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Edin |  |
+| A2 | Pentagrams |  |
+| A3 | Sighommi |  |
+| A4 | Pentecost |  |
+| A5 | War Dreams Of Itself |  |
+| B1 | Who Goes There |  |
+| B2 | 999 |  |
+| B3 | Goeth The Fall |  |
+| B4 | Sicarus |  |
+| B5 | Murnau |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/aghori-mhori-mei/1756159811" >}}<br>
 
 
-## Videos
-### Edin
-{{< youtube id="KNOFLu40NzY" title="Edin" >}}<br>
-### More Videos
-
-- [Pentagrams](https://www.youtube.com/watch?v=mZMup8Os8Rk)
-- [Sighommi](https://www.youtube.com/watch?v=NtEM0dYhEaA)
-- [Pentecost](https://www.youtube.com/watch?v=cGNklRXTkIs)
-- [War Dreams Of Itself](https://www.youtube.com/watch?v=BXGCjs5nPl4)
-- [Who Goes There](https://www.youtube.com/watch?v=BLZwk6jeJRE)
-- [999](https://www.youtube.com/watch?v=P3lOZYGJzb0)
-- [Goeth The Fall](https://www.youtube.com/watch?v=Nz0ZhSXKQ7I)
-- [Sicarus](https://www.youtube.com/watch?v=SZuiem3zqPY)
-- [Murnau](https://www.youtube.com/watch?v=UbqMabJnOzI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +65,5 @@ Upon the albums release, critical and fan reception was generally positive. Many
 | Format         | Vinyl LP Album (Independent Record Store Edition) |
 | Label          | Martha's Music |
 | Catalog Number | 06537LP |
-| Notes | Hype sticker: "Independent Record Store Exclusive"  ℗ & © 2024 Martha's Music  The Independent Record Store Edition comes with a poster.  No country indicated on the sleeve   |
+| Notes | Hype sticker: "Independent Record Store Exclusive"<br><br>℗ & © 2024 Martha's Music<br><br>The Independent Record Store Edition comes with a poster.<br><br>No country indicated on the sleeve<br><br> |
 | Discogs URL    | [The Smashing Pumpkins - Aghori Mhori Mei](https://www.discogs.com/release/32366532-The-Smashing-Pumpkins-Aghori-Mhori-Mei) |

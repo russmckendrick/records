@@ -4,6 +4,7 @@ artist_name: "Doves"
 artist: "doves"
 album_name: "Lost Souls "
 date: 2019-06-03T17:50:28.000000Z
+release_date: "2000-01-01"
 release_id: "13701462"
 slug: "lost-souls-13701462"
 hideSummary: true
@@ -29,44 +30,32 @@ Lost Souls is the debut studio album by British indie rock band Doves, released 
 Lost Souls was considered by many to be the best debut album by a British act since Oasis' Definitely Maybe. It was met with positive critical acclaim and was a shortlist nominee for the Mercury Prize in 2000. The album was roundly praised on its release for its blending of claustrophobic intensity and euphoria, the sonic influences from electronic music present in its textures and for being "the perfect after-hours soundtrack."
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Firesuite
-2. Here It Comes 
-3. Break Me Gently
-4. Sea Song
-5. Rise
-6. Lost Souls
-7. Melody Calls
-8. Catch The Sun
-9. The Man Who Told Everything 
-10. The Cedar Room
-11. Reprise
-12. A House 
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Firesuite |  |
+| A2 | Here It Comes  |  |
+| A3 | Break Me Gently |  |
+| B4 | Sea Song |  |
+| B5 | Rise |  |
+| B6 | Lost Souls |  |
+| C7 | Melody Calls |  |
+| C8 | Catch The Sun |  |
+| C9 | The Man Who Told Everything  |  |
+| D10 | The Cedar Room |  |
+| D11 | Reprise |  |
+| D12 | A House  |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lost-souls/724350250" >}}<br>
 
 
-## Videos
-### Doves - The Cedar Room
-{{< youtube id="RadUfjnnqOE" title="Doves - The Cedar Room" >}}<br>
-### More Videos
-
-- [Doves Firesuite](https://www.youtube.com/watch?v=YDMbFjQZCkM)
-- [Doves - Break Me Gently](https://www.youtube.com/watch?v=2ct3Ia7HwPc)
-- [Doves - Rise](https://www.youtube.com/watch?v=supe-yD0fX4)
-- [Doves Lost Souls](https://www.youtube.com/watch?v=55G56ToTXYk)
-- [Doves - The Man Who Told Everything HQ](https://www.youtube.com/watch?v=Gd5g7X9KPB4)
-- [Doves Reprise](https://www.youtube.com/watch?v=bcIX1kH_tR8)
-- [Doves - Sea song HD Lost Souls 2000](https://www.youtube.com/watch?v=cO6pGcdD_mE)
-- [Doves - Lost Souls](https://www.youtube.com/watch?v=QCmvW7MLMA0)
-- [doves- catch the sun original video](https://www.youtube.com/watch?v=KqlIFLb6jU0)
-- [Doves - The Cedar Room](https://www.youtube.com/watch?v=RadUfjnnqOE)
-- [Doves - Here It Comes](https://www.youtube.com/watch?v=kthMTQs61ic)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +67,5 @@ Lost Souls was considered by many to be the best debut album by a British act si
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Grey) |
 | Label          | Heavenly |
 | Catalog Number | 7748262 |
-| Notes | This album is for [url=https://www.discogs.com/artist/236150-Rob-Gretton]Robert Leo Gretton[/url] ℗ 2000 [l26760] © 2019 [l26760] made in e.u.  Comes with a [l1052727] download coupon. |
+| Notes | This album is for [url=https://www.discogs.com/artist/236150-Rob-Gretton]Robert Leo Gretton[/url]<br>℗ 2000 [l26760]<br>© 2019 [l26760]<br>made in e.u.<br><br>Comes with a [l1052727] download coupon. |
 | Discogs URL    | [Doves - Lost Souls ](https://www.discogs.com/release/13701462-Doves-Lost-Souls-) |

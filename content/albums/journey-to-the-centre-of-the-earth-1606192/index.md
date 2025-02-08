@@ -4,6 +4,7 @@ artist_name: "Rick Wakeman"
 artist: "rick-wakeman"
 album_name: "Journey To The Centre Of The Earth"
 date: 2017-01-20T17:21:17.000000Z
+release_date: "1974-05"
 release_id: "1606192"
 slug: "journey-to-the-centre-of-the-earth-1606192"
 hideSummary: true
@@ -35,29 +36,24 @@ Journey to the Centre of the Earth is the third album by English keyboardist Ric
 Journey to the Centre of the Earth was overall well received by music critics. It reached No. 1 on the UK Albums Chart, and peaked at No. 3 on the Billboard 200 in the United States. It was certified gold by the Recording Industry Association of America in October 1974 for selling 500,000 copies. The album earned Wakeman a nomination for an Ivor Novello Award and a Grammy Award for Best Pop Instrumental Performance. In 1999, Wakeman released a sequel album Return to the Centre of the Earth. After the original score was presumed lost, Wakeman was reunited with it in 2009 and re-recorded the album three years later with 18 minutes of music previously cut due to time constraints.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Journey
-2. Recollection
-3. The Battle
-4. The Forest
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Journey |  |
+| A2 | Recollection |  |
+| B1 | The Battle |  |
+| B2 | The Forest |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/journey-to-the-centre-of-the-earth/873131263" >}}<br>
 
 
-## Videos
-### The Journey
-{{< youtube id="xn-KqfMaSvs" title="The Journey" >}}<br>
-### More Videos
-
-- [Recollection](https://www.youtube.com/watch?v=BhT-VUEj94E)
-- [The Battle](https://www.youtube.com/watch?v=ncSz4m1D_bA)
-- [The Forest](https://www.youtube.com/watch?v=RJMgcg40BLY)
-- [Rick Wakeman - The Forest](https://www.youtube.com/watch?v=0pNVkkXqprk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +65,5 @@ Journey to the Centre of the Earth was overall well received by music critics. I
 | Format         | Vinyl LP Album Stereo (Gatefold Sleeve) |
 | Label          | A&M Records |
 | Catalog Number | AMLH 63621 |
-| Notes | Recorded in concert at The Royal Festival Hall London on Friday January 18th 1974.  Production narrated by David Hemmings.  Recorded by Ronnie Lane’s “Lyn Mobile Studio”. Mixed at Morgan Studios, London on 21st-29th January 1974.  Rondor Music (London) Ltd.  Garry Pickford-Hopkins appears by courtesy of Chrysalis Records Ltd.  Sleeve printed and made in England by Gothic Print Finshers Ltd., London, SE9. Released with a booklet fixed into the center of the GF sleeve. The sleeves inner panels effectively make up the first 2 pages of the booklet. Different label image on [r449230] |
+| Notes | Recorded in concert at The Royal Festival Hall London on Friday January 18th 1974.  Production narrated by David Hemmings.<br><br>Recorded by Ronnie Lane’s “Lyn Mobile Studio”.<br>Mixed at Morgan Studios, London on 21st-29th January 1974.<br><br>Rondor Music (London) Ltd.<br><br>Garry Pickford-Hopkins appears by courtesy of Chrysalis Records Ltd.<br><br>Sleeve printed and made in England by Gothic Print Finshers Ltd., London, SE9.<br>Released with a booklet fixed into the center of the GF sleeve. The sleeves inner panels effectively make up the first 2 pages of the booklet.<br>Different label image on [r449230] |
 | Discogs URL    | [Rick Wakeman - Journey To The Centre Of The Earth](https://www.discogs.com/release/1606192-Rick-Wakeman-Journey-To-The-Centre-Of-The-Earth) |

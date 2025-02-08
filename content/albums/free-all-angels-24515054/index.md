@@ -4,6 +4,7 @@ artist_name: "Ash"
 artist: "ash"
 album_name: "Free All Angels"
 date: 2022-09-16T09:28:53.000000Z
+release_date: "2001-04-16"
 release_id: "24515054"
 slug: "free-all-angels-24515054"
 hideSummary: true
@@ -32,38 +33,33 @@ Following a three-month United Kingdom tour in late 2000, "Shining Light" was re
 Free All Angels received generally positive reviews from music critics, some of whom commented on Wheeler's guitarwork. The album peaked at number one in the UK and at number two in Ireland, and also reached the top 40 in Austria, Germany, New Zealand, and Norway. Free All Angels was certified platinum in the UK. All of the album's singles charted in the UK and Ireland, and "Shining Light" reached the UK top 10. Q and Under the Radar included the album on its lists of the best releases of 2001. "Shining Light" won an Ivor Novello Award for songwriting and "Burn Baby Burn" was named NME Single of the Year.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Walking Barefoot (4:14)
-2. Shining Light (5:11)
-3. Burn Baby Burn (3:30)
-4. Candy (4:52)
-5. Cherry Bomb (3:18)
-6. Submission (3:34)
-7. Someday (4:34)
-8. Pacific Palisades (1:59)
-9. Shark (3:20)
-10. Sometimes (4:07)
-11. Nicole (3:22)
-12. There's A Star (4:19)
-13. World Domination (2:17)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Walking Barefoot | 4:14 |
+| A2 | Shining Light | 5:11 |
+| A3 | Burn Baby Burn | 3:30 |
+| A4 | Candy | 4:52 |
+| A5 | Cherry Bomb | 3:18 |
+| A6 | Submission | 3:34 |
+| B7 | Someday | 4:34 |
+| B8 | Pacific Palisades | 1:59 |
+| B9 | Shark | 3:20 |
+| B10 | Sometimes | 4:07 |
+| B11 | Nicole | 3:22 |
+| B12 | There's A Star | 4:19 |
+| B13 | World Domination | 2:17 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/free-all-angels/1437339338" >}}<br>
 
 
-## Videos
-### Ash - Shining Light Official HD Video
-{{< youtube id="EIcK30k6dwM" title="Ash - Shining Light Official HD Video" >}}<br>
-### More Videos
-
-- [Ash - Burn Baby Burn Official HD Video](https://www.youtube.com/watch?v=t5ZtotlZ0ug)
-- [Ash - Sometimes Official Video](https://www.youtube.com/watch?v=Opvdr7k0LNY)
-- [Ash - Candy Official Video](https://www.youtube.com/watch?v=W-oLr5e6g08)
-- [Ash - Theres A Star Official Video](https://www.youtube.com/watch?v=zMZKWC1XSXc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +71,5 @@ Free All Angels received generally positive reviews from music critics, some of 
 | Format         | Vinyl LP Album Reissue Remastered Stereo (Clear With Yellow Splatter) |
 | Label          | BMG |
 | Catalog Number | BMGCAT710CLP |
-| Notes | Housed in a replica gatefold sleeve of original [r=1126204] edition. Tracks are numbered sequentially on sleeve. Sticker reports  Pressed On Clear & Yellow Splatter Vinyl (Gatefold) *Each Copy Unique And Individual*  |
+| Notes | Housed in a replica gatefold sleeve of original [r=1126204] edition.<br>Tracks are numbered sequentially on sleeve.<br>Sticker reports <br>Pressed On Clear & Yellow Splatter Vinyl (Gatefold)<br>*Each Copy Unique And Individual*<br> |
 | Discogs URL    | [Ash - Free All Angels](https://www.discogs.com/release/24515054-Ash-Free-All-Angels) |

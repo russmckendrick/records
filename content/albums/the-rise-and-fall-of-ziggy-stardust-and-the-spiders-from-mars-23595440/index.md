@@ -38,33 +38,25 @@ In later decades, Ziggy Stardust has been considered one of Bowie's best works, 
 
 
 ## Tracklisting
-1. Five Years (4:42)
-2. Soul Love (3:34)
-3. Moonage Daydream (4:40)
-4. Starman (4:10)
-5. It Ain't Easy (2:58)
-6. Lady Stardust (3:22)
-7. Star (2:47)
-8. Hang On To Yourself (2:40)
-9. Ziggy Stardust (3:13)
-10. Suffragette City (3:25)
-11. Rock 'N' Roll Suicide (2:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Five Years | 4:42 |
+| A2 | Soul Love | 3:34 |
+| A3 | Moonage Daydream | 4:40 |
+| A4 | Starman | 4:10 |
+| A5 | It Ain't Easy | 2:58 |
+| B1 | Lady Stardust | 3:22 |
+| B2 | Star | 2:47 |
+| B3 | Hang On To Yourself | 2:40 |
+| B4 | Ziggy Stardust | 3:13 |
+| B5 | Suffragette City | 3:25 |
+| B6 | Rock 'N' Roll Suicide | 2:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-rise-and-fall-of-ziggy-stardust-and-the/1039796877" >}}<br>
 
 
-## Videos
-### Lady Stardust 2012 Remaster
-{{< youtube id="EcKZEOsgvdI" title="Lady Stardust 2012 Remaster" >}}<br>
-### More Videos
-
-- [Starman 2012 Remaster](https://www.youtube.com/watch?v=aBKEt3MhNMM)
-- [Moonage Daydream 2012 Remaster](https://www.youtube.com/watch?v=RPUAldgS7Sg)
-- [Five Years 2012 Remaster](https://www.youtube.com/watch?v=2ObjtVdsV3I)
-- [Soul Love 2012 Remaster](https://www.youtube.com/watch?v=mAoSRZsRwKg)
-- [David Bowie - Suffragette city](https://www.youtube.com/watch?v=zLnPd7lzT4g)
-- [Moonage Daydream 2012 Remaster](https://www.youtube.com/watch?v=RPUAldgS7Sg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +68,5 @@ In later decades, Ziggy Stardust has been considered one of Bowie's best works, 
 | Format         | Vinyl LP Album Limited Edition Picture Disc Reissue Remastered Stereo |
 | Label          | Parlophone |
 | Catalog Number | DBZSPD 2022 |
-| Notes |  Official Bowie 75 sticker on front Made in Germany sticker on rear on some copies.  Originally ℗ 1972 The copyright in this sound recording is owned by Jones/Tintoretto Entertainment Co., LLC under exclusive license to Parlophone Records Ltd. Digital remaster ℗ 2012 The copyright in this sound recording is owned by Jones/Tintoretto Entertainment Co., LLC under exclusive license to Parlophone Records Ltd. © 2022 Jones/Tintoretto Entertainment Co., LLC. [...]   Includes poster and insert containing lyrics, photographs, and publishing information.  Runouts are etched.  Written by Ron Davies for track A5 is not listed on this version. |
+| Notes | <br>Official Bowie 75 sticker on front<br>Made in Germany sticker on rear on some copies.<br><br>Originally ℗ 1972 The copyright in this sound recording is owned by Jones/Tintoretto Entertainment Co., LLC under exclusive license to Parlophone Records Ltd. Digital remaster ℗ 2012 The copyright in this sound recording is owned by Jones/Tintoretto Entertainment Co., LLC under exclusive license to Parlophone Records Ltd. © 2022 Jones/Tintoretto Entertainment Co., LLC. [...] <br><br>Includes poster and insert containing lyrics, photographs, and publishing information.<br><br>Runouts are etched.<br><br>Written by Ron Davies for track A5 is not listed on this version. |
 | Discogs URL    | [David Bowie - The Rise And Fall Of Ziggy Stardust And The Spiders From Mars](https://www.discogs.com/release/23595440-David-Bowie-The-Rise-And-Fall-Of-Ziggy-Stardust-And-The-Spiders-From-Mars) |

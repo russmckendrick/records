@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "High Fidelity (A Hulu Original)"
 date: 2020-07-27T14:32:03.000000Z
+release_date: ""
 release_id: "15540975"
 slug: "high-fidelity-a-hulu-original-15540975"
 hideSummary: true
@@ -18,39 +19,30 @@ styles: ["Soundtrack"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. I Can't Stand The Rain
-2. Didn't I
-3. I'll Make Love To You
-4. Come On Eileen
-5. Tiebreaker
-6. Once I Had A Love (Aka The Disco Song)
-7. Fantastic Man
-8. Till It Hits The Ground
-9. Gimme Light/New Tattoo
-10. Pains
-11. I Believe (When I Fall In Love It Will Be Forever)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Can't Stand The Rain |  |
+| A2 | Didn't I |  |
+| A3 | I'll Make Love To You |  |
+| A4 | Come On Eileen |  |
+| A5 | Tiebreaker |  |
+| A6 | Once I Had A Love (Aka The Disco Song) |  |
+| B1 | Fantastic Man |  |
+| B2 | Till It Hits The Ground |  |
+| B3 | Gimme Light/New Tattoo |  |
+| B4 | Pains |  |
+| B5 | I Believe (When I Fall In Love It Will Be Forever) |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### High Fidelity Opening Scene  A Hulu Original
-{{< youtube id="fZUvZD_VlwU" title="High Fidelity Opening Scene  A Hulu Original" >}}<br>
-### More Videos
 
-- [Ann Peebles - I cant stand the Rain 1974](https://www.youtube.com/watch?v=A09GZeORYlo)
-- [Darondo - Didnt I HQ - REMASTER](https://www.youtube.com/watch?v=PZqQT5904_U)
-- [Ill Make Love to You](https://www.youtube.com/watch?v=b0idmxw8dtk)
-- [Come On Eileen](https://www.youtube.com/watch?v=GbpnAGajyMc)
-- [Tiebreaker](https://www.youtube.com/watch?v=WgPCuiBPVR0)
-- [Blondie Once I Had A Love aka The Disco Song 1975 Version](https://www.youtube.com/watch?v=SkjeAt0KrL8)
-- [William Onyeabor - Fantastic Man edit Official Video](https://www.youtube.com/watch?v=LBZltuHcpVo)
-- [Till It Hits the Ground](https://www.youtube.com/watch?v=8yg-cvKYE20)
-- [Gimmie LightNew Tattoo](https://www.youtube.com/watch?v=m5b2r6Im5yw)
-- [Silk Rhodes - Pains](https://www.youtube.com/watch?v=SoxbvE1Doog)
-- [I Believe When I Fall in Love It Will Be Forever](https://www.youtube.com/watch?v=JO_b807HaLM)
-- [High Fidelity Opening Scene  A Hulu Original](https://www.youtube.com/watch?v=fZUvZD_VlwU)
 
 ## Release Images
 {{< imageGrid >}}

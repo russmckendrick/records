@@ -4,6 +4,7 @@ artist_name: "Kraftwerk"
 artist: "kraftwerk"
 album_name: "The Man•Machine"
 date: 2016-02-29T19:01:39.000000Z
+release_date: "1978-05-19"
 release_id: "2058334"
 slug: "the-manmachine-2058334"
 hideSummary: true
@@ -31,26 +32,25 @@ styles: ["Electro", "Synth-pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Robots (6:13)
-2. Spacelab (5:57)
-3. Metropolis (6:01)
-4. The Model (3:41)
-5. Neon Lights (8:53)
-6. The Man•Machine (5:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Robots | 6:13 |
+| A2 | Spacelab | 5:57 |
+| A3 | Metropolis | 6:01 |
+| B1 | The Model | 3:41 |
+| B2 | Neon Lights | 8:53 |
+| B3 | The Man•Machine | 5:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-man-machine-remastered/726157248" >}}<br>
 
 
-## Videos
-### Das Model 2009 Remaster
-{{< youtube id="o0iga1eNgvA" title="Das Model 2009 Remaster" >}}<br>
-### More Videos
-
-- [Neonlicht 2009 Remaster](https://www.youtube.com/watch?v=fqsMCEgHMrE)
-- [Die Roboter 2009 Remaster](https://www.youtube.com/watch?v=SaoBbCC66I4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +61,5 @@ styles: ["Electro", "Synth-pop"]
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 g) |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 66022 1 8 |
-| Notes | Comes with full-size (12") 16 page colour booklet.  Picture inner sleeve.   |
+| Notes | Comes with full-size (12") 16 page colour booklet.<br>Picture inner sleeve.<br> |
 | Discogs URL    | [Kraftwerk - The Man•Machine](https://www.discogs.com/release/2058334-Kraftwerk-The-ManMachine) |

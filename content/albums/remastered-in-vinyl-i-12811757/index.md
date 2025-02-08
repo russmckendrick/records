@@ -4,6 +4,7 @@ artist_name: "Kate Bush"
 artist: "kate-bush"
 album_name: "Remastered In Vinyl I"
 date: 2018-11-17T10:46:15.000000Z
+release_date: "2020-09-22"
 release_id: "12811757"
 slug: "remastered-in-vinyl-i-12811757"
 hideSummary: true
@@ -47,60 +48,65 @@ styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Kick Inside
-2. Moving
-3. The Saxophone Song
-4. Strange Phenomena
-5. Kite
-6. The Man With The Child In His Eyes
-7. Wuthering Heights
-8. James And The Cold Gun
-9. Feel It
-10. Oh To Be In Love
-11. L'Amour Looks Something Like You
-12. Them Heavy People
-13. Room For The Life
-14. The Kick Inside
-15. Lionheart
-16. Symphony In Blue
-17. In Search Of Peter Pan
-18. Wow
-19. Don't Push Your Foot On The Heartbrake
-20. Oh England My Lionheart
-21. Full House
-22. In The Warm Room
-23. Kashka From Baghdad
-24. Coffee Homeground
-25. Hammer Horror
-26. Never For Ever
-27. Babooshka
-28. Delius
-29. Blow Away
-30. All We Ever Look For
-31. Egypt
-32. The Wedding List
-33. Violin
-34. The Infant Kiss
-35. Night Scented Stock
-36. Army Dreamers
-37. Breathing
-38. The Dreaming
-39. Sat In Your Lap
-40. There Goes A Tenner
-41. Pull Out The Pin
-42. Suspended In Gaffa
-43. Leave It Open
-44. The Dreaming
-45. Night Of The Swallow
-46. All The Love
-47. Houdini
-48. Get Out Of My House
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Kick Inside |  |
+| A1 | Moving |  |
+| A2 | The Saxophone Song |  |
+| A3 | Strange Phenomena |  |
+| A4 | Kite |  |
+| A5 | The Man With The Child In His Eyes |  |
+| A6 | Wuthering Heights |  |
+| B1 | James And The Cold Gun |  |
+| B2 | Feel It |  |
+| B3 | Oh To Be In Love |  |
+| B4 | L'Amour Looks Something Like You |  |
+| B5 | Them Heavy People |  |
+| B6 | Room For The Life |  |
+| B7 | The Kick Inside |  |
+|  | Lionheart |  |
+| C1 | Symphony In Blue |  |
+| C2 | In Search Of Peter Pan |  |
+| C3 | Wow |  |
+| C4 | Don't Push Your Foot On The Heartbrake |  |
+| C5 | Oh England My Lionheart |  |
+| D1 | Full House |  |
+| D2 | In The Warm Room |  |
+| D3 | Kashka From Baghdad |  |
+| D4 | Coffee Homeground |  |
+| D5 | Hammer Horror |  |
+|  | Never For Ever |  |
+| E1 | Babooshka |  |
+| E2 | Delius |  |
+| E3 | Blow Away |  |
+| E4 | All We Ever Look For |  |
+| E5 | Egypt |  |
+| F1 | The Wedding List |  |
+| F2 | Violin |  |
+| F3 | The Infant Kiss |  |
+| F4 | Night Scented Stock |  |
+| F5 | Army Dreamers |  |
+| F6 | Breathing |  |
+|  | The Dreaming |  |
+| G1 | Sat In Your Lap |  |
+| G2 | There Goes A Tenner |  |
+| G3 | Pull Out The Pin |  |
+| G4 | Suspended In Gaffa |  |
+| G5 | Leave It Open |  |
+| H1 | The Dreaming |  |
+| H2 | Night Of The Swallow |  |
+| H3 | All The Love |  |
+| H4 | Houdini |  |
+| H5 | Get Out Of My House |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-wanna-be-kate-the-songs-of-kate-bush/1528024140" >}}<br>
-
 
 
 
@@ -113,5 +119,5 @@ styles: ["Pop Rock", "Art Rock", "Prog Rock"]
 | Format         | Vinyl LP Album Misprint Reissue Remastered, Vinyl LP Album Reissue Remastered (Gatefold), Vinyl LP Album Reissue Remastered (Gatefold), Vinyl LP Album Reissue Remastered, Box Set Compilation (180 Gram) |
 | Label          | Fish People |
 | Catalog Number | 0190295593964 |
-| Notes | 4 x remastered LP release in stickered card box.  'The Kick Inside' LP features a misprint on the spine and reads, "THE KICK INSDE", later corrected and reissued in '[r=13836735]'. |
+| Notes | 4 x remastered LP release in stickered card box.<br><br>'The Kick Inside' LP features a misprint on the spine and reads, "THE KICK INSDE", later corrected and reissued in '[r=13836735]'. |
 | Discogs URL    | [Kate Bush - Remastered In Vinyl I](https://www.discogs.com/release/12811757-Kate-Bush-Remastered-In-Vinyl-I) |

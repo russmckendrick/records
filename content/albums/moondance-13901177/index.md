@@ -40,32 +40,24 @@ Moondance was an immediate critical and commercial success. It helped establish 
 
 
 ## Tracklisting
-1. And It Stoned Me
-2. Moondance
-3. Crazy Love
-4. Caravan
-5. Into The Mystic
-6. Come Running
-7. These Dreams Of You
-8. Brand New Day
-9. Everyone
-10. Glad Tidings
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | And It Stoned Me |  |
+| A2 | Moondance |  |
+| A3 | Crazy Love |  |
+| A4 | Caravan |  |
+| A5 | Into The Mystic |  |
+| B1 | Come Running |  |
+| B2 | These Dreams Of You |  |
+| B3 | Brand New Day |  |
+| B4 | Everyone |  |
+| B5 | Glad Tidings |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/moondance/712727450" >}}<br>
 
 
-## Videos
-### Van Morrison - Into The Mystic Official Vinyl Video
-{{< youtube id="syIUmrSJWAU" title="Van Morrison - Into The Mystic Official Vinyl Video" >}}<br>
-### More Videos
-
-- [And It Stoned Me 2013 Remaster](https://www.youtube.com/watch?v=AYqJtqyeilE)
-- [Crazy Love 2013 Remaster](https://www.youtube.com/watch?v=-vNVLdxht0k)
-- [Caravan 2013 Remaster](https://www.youtube.com/watch?v=mVWwgf2F9L4)
-- [Come Running 2013 Remaster](https://www.youtube.com/watch?v=8nfWGBeWDnI)
-- [Brand New Day 2013 Remaster](https://www.youtube.com/watch?v=fDVNUhQYG48)
-- [Everyone 2013 Remaster](https://www.youtube.com/watch?v=85RuFZJU39o)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +69,5 @@ Moondance was an immediate critical and commercial success. It helped establish 
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Orange Translucent) |
 | Label          | Warner Bros. Records |
 | Catalog Number | RCV1 1835 |
-| Notes | Track A1 appears on sleeve as Stoned Me and on Label as And It Stoned Me - Previous versions show title as And It Stoned Me. Sleeve states Printed In USA. Label states Manufactured in EU. Sticker on shrink-wrap states Van  Morrison's Masterpiece, Limited Edition Orange Vinyl Featuring "Moondance," "Crazy Love" and "Into The Mystic" Second sticker states Summer of '69 Peace, Love and Music Rhino |
+| Notes | Track A1 appears on sleeve as Stoned Me and on Label as And It Stoned Me - Previous versions show title as And It Stoned Me.<br>Sleeve states Printed In USA.<br>Label states Manufactured in EU.<br>Sticker on shrink-wrap states Van  Morrison's Masterpiece, Limited Edition Orange Vinyl Featuring "Moondance," "Crazy Love" and "Into The Mystic"<br>Second sticker states Summer of '69 Peace, Love and Music Rhino |
 | Discogs URL    | [Van Morrison - Moondance](https://www.discogs.com/release/13901177-Van-Morrison-Moondance) |

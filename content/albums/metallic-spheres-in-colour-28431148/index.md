@@ -4,6 +4,7 @@ artist_name: "The Orb"
 artist: "the-orb"
 album_name: "Metallic Spheres In Colour"
 date: 2023-09-29T06:39:27.000000Z
+release_date: "2023-09-29"
 release_id: "28431148"
 slug: "metallic-spheres-in-colour-28431148"
 hideSummary: true
@@ -25,29 +26,21 @@ styles: ["Ambient", "Dub"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Seamless Solar Spheres Of Affection Mix (20:07)
-2. Seamlessly Martian Spheres Of Reflection Mix (19:44)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Seamless Solar Spheres Of Affection Mix | 20:07 |
+| B | Seamlessly Martian Spheres Of Reflection Mix | 19:44 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/metallic-spheres-in-colour/1700315137" >}}<br>
 
 
-## Videos
-### The Orb  David Gilmour 2023 - Metallic Spheres In Colour full album
-{{< youtube id="C8c6NLbBr_8" title="The Orb  David Gilmour 2023 - Metallic Spheres In Colour full album" >}}<br>
-### More Videos
-
-- [The Orb and David Gilmour - Metallic Spheres In Colour Movement 1 - Excerpt Visualiser](https://www.youtube.com/watch?v=PCm1viTBDsA)
-- [The Orb and David Gilmour - Metallic Spheres In Colour Movement 2 - Excerpt Visualiser](https://www.youtube.com/watch?v=UciWB9-FRvM)
-- [The Orb and David Gilmour - Metallic Spheres In Colour Movement 3 - Excerpt Visualiser](https://www.youtube.com/watch?v=5qFSVl2MSQw)
-- [The Orb and David Gilmour - Metallic Spheres In Colour Movement 4 - Excerpt Visualiser](https://www.youtube.com/watch?v=Rx5f_zpJGgU)
-- [The Orb  David Gilmour 2023 - Metallic Spheres In Colour full album](https://www.youtube.com/watch?v=C8c6NLbBr_8)
-- [The Orb and David Gilmour - Metallic Spheres In Colour Movement 1 - Excerpt Visualiser](https://www.youtube.com/watch?v=PCm1viTBDsA)
-- [The Orb and David Gilmour - Metallic Spheres In Colour Movement 2 - Excerpt Visualiser](https://www.youtube.com/watch?v=UciWB9-FRvM)
-- [The Orb and David Gilmour - Metallic Spheres In Colour Movement 3 - Excerpt Visualiser](https://www.youtube.com/watch?v=5qFSVl2MSQw)
-- [The Orb and David Gilmour - Metallic Spheres In Colour Movement 4 - Excerpt Visualiser](https://www.youtube.com/watch?v=Rx5f_zpJGgU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,5 +51,5 @@ styles: ["Ambient", "Dub"]
 | Format         | Vinyl LP Album |
 | Label          | Sony Music |
 | Catalog Number | DGORB001LP |
-| Notes | "The original ambient masterpiece 'Metallic Spheres' Remixed" On heavyweight 180 gram vinyl Includes Poster  © 2023 David Gilmour Music LTD. / Alex Paterson t/a The Orb. ℗ 2023 The copyright in this sound recording is owned by David Gilmour Music LTD. / Alex Paterson t/a The Orb. Under exclusive license to Sony Music Entertainment  Made in the EU.  Runouts stamped except etched 'STU 19439989361-A-1' and '19439989361 B-1' |
+| Notes | "The original ambient masterpiece 'Metallic Spheres' Remixed"<br>On heavyweight 180 gram vinyl<br>Includes Poster<br><br>© 2023 David Gilmour Music LTD. / Alex Paterson t/a The Orb.<br>℗ 2023 The copyright in this sound recording is owned by David Gilmour Music LTD. / Alex Paterson t/a The Orb.<br>Under exclusive license to Sony Music Entertainment<br><br>Made in the EU.<br><br>Runouts stamped except etched 'STU 19439989361-A-1' and '19439989361 B-1' |
 | Discogs URL    | [The Orb - Metallic Spheres In Colour](https://www.discogs.com/release/28431148-The-Orb-And-David-Gilmour-Metallic-Spheres-In-Colour) |

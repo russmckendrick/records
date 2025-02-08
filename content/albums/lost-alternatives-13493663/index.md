@@ -4,6 +4,7 @@ artist_name: "Steve Lamacq"
 artist: "steve-lamacq"
 album_name: "Lost Alternatives"
 date: 2019-04-15T11:47:49.000000Z
+release_date: ""
 release_id: "13493663"
 slug: "lost-alternatives-13493663"
 hideSummary: true
@@ -19,37 +20,44 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Chelsea Girl
-2. Indian Rope
-3. Shall We Take A Trip?
-4. Is It Too Late?
-5. Big Bad Baby Pig Squeal
-6. Catch The Breeze
-7. Supermodel Superficial
-8. Waterlogged
-9. Real Surreal
-10. Speed King
-11. Rat
-12. Stutter
-13. Wuthering Heights
-14. Uncle Pat
-15. Happy Shopper
-16. Race
-17. Lover
-18. Morning Morning 5:19
-19. Take It Easy Chicken
-20. Alkaline
-21. School Disco
-22. The First Big Weekend
-23. New Paths To Helicon Part 1
-24. I.P.C. Subeditors Dictate Our Youth
-25. Freeze The Atlantic
-26. This Is My Hollywood
-27. Strachan
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Chelsea Girl |  |
+| A2 | Indian Rope |  |
+| A3 | Shall We Take A Trip? |  |
+| A4 | Is It Too Late? |  |
+| A5 | Big Bad Baby Pig Squeal |  |
+| A6 | Catch The Breeze |  |
+| B1 | Supermodel Superficial |  |
+| B2 | Waterlogged |  |
+| B3 | Real Surreal |  |
+| B4 | Speed King |  |
+| B5 | Rat |  |
+| B6 | Stutter |  |
+| B7 | Wuthering Heights |  |
+| C1 | Uncle Pat |  |
+| C2 | Happy Shopper |  |
+| C3 | Race |  |
+| C4 | Lover |  |
+| C5 | Morning Morning 5:19 |  |
+| C6 | Take It Easy Chicken |  |
+| C7 | Alkaline |  |
+| D1 | School Disco |  |
+| D2 | The First Big Weekend |  |
+| D3 | New Paths To Helicon Part 1 |  |
+| D4 | I.P.C. Subeditors Dictate Our Youth |  |
+| D5 | Freeze The Atlantic |  |
+| D6 | This Is My Hollywood |  |
+| D7 | Strachan |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -62,5 +70,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition (White) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC406 |
-| Notes | Has hype sticker on sleeve stating "Exclusive to Record Store Day 2019" 27 tracks curated by BBC6 Music DJ 2LP in gatefold sleeve 180g heavyweight white vinyl,  INCLUDES: The Charlatans, Ash, Slowdive, Elastica, Mogwai  DEMREC406  Made in the EU |
+| Notes | Has hype sticker on sleeve stating "Exclusive to Record Store Day 2019"<br>27 tracks curated by BBC6 Music DJ 2LP in gatefold sleeve 180g heavyweight white vinyl, <br>INCLUDES: The Charlatans, Ash, Slowdive, Elastica, Mogwai <br>DEMREC406<br><br>Made in the EU |
 | Discogs URL    | [Steve Lamacq - Lost Alternatives](https://www.discogs.com/release/13493663-Steve-Lamacq-Lost-Alternatives) |

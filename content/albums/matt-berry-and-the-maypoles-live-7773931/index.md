@@ -1,9 +1,10 @@
 ---
 title: "Matt Berry - Matt Berry And The Maypoles Live"
 artist_name: "Matt Berry"
-artist: "matt-berry-3"
+artist: "matt-berry"
 album_name: "Matt Berry And The Maypoles Live"
 date: 2015-12-25T16:58:57.000000Z
+release_date: "2015-11-20"
 release_id: "7773931"
 slug: "matt-berry-and-the-maypoles-live-7773931"
 hideSummary: true
@@ -28,30 +29,30 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock", "Theme"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Innkeeper's Song
-2. So Low
-3. October Sun
-4. Take My Hand
-5. Sorry (Theme From)
-6. Solstice
-7. Snuff Box
-8. Song For Rosie
-9. Medicine
-10. Devil Inside Me
-11. The Pheasant
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Innkeeper's Song |  |
+| A2 | So Low |  |
+| A3 | October Sun |  |
+| A4 | Take My Hand |  |
+| A5 | Sorry (Theme From) |  |
+| A6 | Solstice |  |
+| B1 | Snuff Box |  |
+| B2 | Song For Rosie |  |
+| B3 | Medicine |  |
+| B4 | Devil Inside Me |  |
+| B5 | The Pheasant |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/matt-berry-and-the-maypoles-live/1152533410" >}}<br>
 
 
-## Videos
-### Matt Berry  The Maypoles  Snuff Box 13022015
-{{< youtube id="mugYr-k8YGA" title="Matt Berry  The Maypoles  Snuff Box 13022015" >}}<br>
-### More Videos
-
-- [Matt Berry  The Maypoles - So Low Live - Tunbridge Wells 2014](https://www.youtube.com/watch?v=Lx1aiQ-4IxM)
 
 ## Release Images
 {{< imageGrid >}}

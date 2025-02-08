@@ -4,6 +4,7 @@ artist_name: "The Levellers"
 artist: "the-levellers"
 album_name: "We The Collective"
 date: 2018-03-30T17:22:18.000000Z
+release_date: "2018-03-30"
 release_id: "11647665"
 slug: "we-the-collective-11647665"
 hideSummary: true
@@ -28,45 +29,35 @@ styles: ["Alternative Rock", "Acoustic", "Classic Rock"]
 
 We the Collective is the eleventh studio album by folk-punk rock band the Levellers. The album entered the British album charts at number 12, the band's highest-charting entry in over 21 years. The 10-track album features acoustic re-recordings of many of the band's greatest hits, with two new songs "Shame" and "Drug Bust McGee".
 The album was produced by John Leckie.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Exodus
-2. Liberty Song
-3. England My Home
-4. Subvert
-5. Hope Street
-6. Elation
-7. Dance Before The Storm
-8. The Shame
-9. Drug Bust McGee
-10. One Way
-11. We The Extras 12" Bonus
-12. Fifteen Years
-13. Outside Inside
-14. All The Unknown
-15. Said And Done
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Exodus |  |
+| A2 | Liberty Song |  |
+| A3 | England My Home |  |
+| A4 | Subvert |  |
+| A5 | Hope Street |  |
+| B1 | Elation |  |
+| B2 | Dance Before The Storm |  |
+| B3 | The Shame |  |
+| B4 | Drug Bust McGee |  |
+| B5 | One Way |  |
+|  | We The Extras 12" Bonus |  |
+| C1 | Fifteen Years |  |
+| C2 | Outside Inside |  |
+| D1 | All The Unknown |  |
+| D2 | Said And Done |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/we-the-collective/1318326494" >}}<br>
 
 
-## Videos
-### The Shame - Levellers
-{{< youtube id="A9JBqhMrze8" title="The Shame - Levellers" >}}<br>
-### More Videos
-
-- [Drug Bust McGee - Levellers](https://www.youtube.com/watch?v=lEZwzWC8a8Y)
-- [WE THE COLLECTIVE - LEVELLERS](https://www.youtube.com/watch?v=eRUKW_xvEBE)
-- [The Shame - Levellers](https://www.youtube.com/watch?v=A9JBqhMrze8)
-- [One Way](https://www.youtube.com/watch?v=liP8T6X8Qbg)
-- [LIBERTY](https://www.youtube.com/watch?v=yUVKWu7wq0g)
-- [Dance Before The Storm](https://www.youtube.com/watch?v=vA1QK16pPFs)
-- [England My Home](https://www.youtube.com/watch?v=TrPa6me_JkU)
-- [The Shame - Levellers](https://www.youtube.com/watch?v=A9JBqhMrze8)
-- [Drug Bust McGee - Levellers](https://www.youtube.com/watch?v=lEZwzWC8a8Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +69,5 @@ The album was produced by John Leckie.
 | Format         | Vinyl LP Album (Green), Vinyl 12" (Green, Bonus), All Media Deluxe Edition Limited Edition |
 | Label          | On The Fiddle Recordings |
 | Catalog Number | OTFLP029F |
-| Notes | LP+12” limited edition green vinyl . Limited to 1000 copies worldwide.  First 500 copies Signed by Band. |
+| Notes | LP+12” limited edition green vinyl . Limited to 1000 copies worldwide. <br>First 500 copies Signed by Band. |
 | Discogs URL    | [The Levellers - We The Collective](https://www.discogs.com/release/11647665-Levellers-We-The-Collective) |

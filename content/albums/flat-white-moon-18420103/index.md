@@ -4,6 +4,7 @@ artist_name: "Field Music"
 artist: "field-music"
 album_name: "Flat White Moon"
 date: 2021-04-23T04:31:25.000000Z
+release_date: "2021-04-23"
 release_id: "18420103"
 slug: "flat-white-moon-18420103"
 hideSummary: true
@@ -18,32 +19,31 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Orion From The Street
-2. Do Me A Favour
-3. Not When You're In Love
-4. Out Of The Frame
-5. When You Last Heard From Linda
-6. No Pressure
-7. In This City
-8. I'm The One Who Wants To Be With You
-9. Meant To Be
-10. Invisible Days
-11. The Curtained Room
-12. You Get Better
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Orion From The Street |  |
+| A2 | Do Me A Favour |  |
+| A3 | Not When You're In Love |  |
+| A4 | Out Of The Frame |  |
+| A5 | When You Last Heard From Linda |  |
+| A6 | No Pressure |  |
+| B1 | In This City |  |
+| B2 | I'm The One Who Wants To Be With You |  |
+| B3 | Meant To Be |  |
+| B4 | Invisible Days |  |
+| B5 | The Curtained Room |  |
+| B6 | You Get Better |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flat-white-moon/1551209901" >}}<br>
 
 
-## Videos
-### Field Music - Flat White Moon Full Album 2021
-{{< youtube id="YfdqxwgyFgY" title="Field Music - Flat White Moon Full Album 2021" >}}<br>
-### More Videos
-
-- [Field Music - Not When Youre In Love Official Video](https://www.youtube.com/watch?v=EhJQccb1GnU)
-- [Field Music - Flat White Moon](https://www.youtube.com/watch?v=DlP8QWJtV04)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "Andy Partridge"
 artist: "andy-partridge"
 album_name: "Apples & Oranges / Humanoid Boogie"
 date: 2018-06-28T20:46:46.000000Z
+release_date: ""
 release_id: "12193296"
 slug: "apples-oranges-humanoid-boogie-12193296"
 hideSummary: true
@@ -23,25 +24,23 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Apples & Oranges (Stereo)
-2. Apples & Oranges (Mono)
-3. Humanoid Boogie (Stereo)
-4. Humanoid Boogie (Mono)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Apples & Oranges (Stereo) |  |
+| A2 | Apples & Oranges (Mono) |  |
+| B1 | Humanoid Boogie (Stereo) |  |
+| B2 | Humanoid Boogie (Mono) |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Andy Partridge - Apples  Oranges  Humanoid Boogie FULL EP 2018
-{{< youtube id="wFWt15ZHNaA" title="Andy Partridge - Apples  Oranges  Humanoid Boogie FULL EP 2018" >}}<br>
-### More Videos
 
-- [Andy Partridge on Apples and Oranges melody](https://www.youtube.com/watch?v=556ewyZxUIk)
-- [Andy Partridge on Apples and Oranges chord structure](https://www.youtube.com/watch?v=_B5BCebmaqA)
-- [Andy Partridge - Apples  Oranges  Humanoid Boogie FULL EP 2018](https://www.youtube.com/watch?v=wFWt15ZHNaA)
-- [Andy Partridge on Apples and Oranges melody](https://www.youtube.com/watch?v=556ewyZxUIk)
-- [Andy Partridge on Apples and Oranges chord structure](https://www.youtube.com/watch?v=_B5BCebmaqA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -52,5 +51,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl 10" 33 ⅓ RPM EP Stereo Mono |
 | Label          | Ape House |
 | Catalog Number | APEEP 901 |
-| Notes | Released as a limited edition of 1,396 copies on 10" vinyl All initial limited edition copies come with a postcard signed by Andy Partridge Included download card for [r=13346086] |
+| Notes | Released as a limited edition of 1,396 copies on 10" vinyl<br>All initial limited edition copies come with a postcard signed by Andy Partridge<br>Included download card for [r=13346086] |
 | Discogs URL    | [Andy Partridge - Apples & Oranges / Humanoid Boogie](https://www.discogs.com/release/12193296-Andy-Partridge-Apples-Oranges-Humanoid-Boogie) |

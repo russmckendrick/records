@@ -1,9 +1,10 @@
 ---
 title: "Amplifier - Amplifier"
 artist_name: "Amplifier"
-artist: "amplifier-3"
+artist: "amplifier"
 album_name: "Amplifier"
 date: 2016-12-15T19:44:03.000000Z
+release_date: "2021-10-15"
 release_id: "9479697"
 slug: "amplifier-9479697"
 hideSummary: true
@@ -23,29 +24,29 @@ Originally released by Music For Nations on 6 June 2004, it was re-released by t
 The critical reception of the album was generally positive, with comments such as:
 "A British rock-scene altering record. Enjoy it in all its infinite glory" Kerrang!
 "No other record this year will have the audacity to field such lofty ambitions, let alone have the skills to fulfil them" NME
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Motorhead (6:15)
-2. Airborne (8:29)
-3. Panzer (7:03)
-4. Old Movies (5:50)
-5. Neon (4:17)
-6. Post Acid Youth (6:06)
-7. On/Off (6:34)
-8. The Consultancy (4:59)
-9. One Great Summer (5:57)
-10. UFOs (7:27)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Motorhead | 6:15 |
+| A2 | Airborne | 8:29 |
+| B3 | Panzer | 7:03 |
+| B4 | Old Movies | 5:50 |
+| B5 | Neon | 4:17 |
+| C6 | Post Acid Youth | 6:06 |
+| C7 | On/Off | 6:34 |
+| C8 | The Consultancy | 4:59 |
+| D9 | One Great Summer | 5:57 |
+| D10 | UFOs | 7:27 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/amplifier/1201106185" >}}<br>
 
-
-## Videos
-### Amplifier - 01 MotorHead
-{{< youtube id="nGC9Lji2JLw" title="Amplifier - 01 MotorHead" >}}<br>
 
 
 ## Release Images
@@ -58,5 +59,5 @@ The critical reception of the album was generally positive, with comments such a
 | Format         | Vinyl LP Album Remastered |
 | Label          | [{'name': 'Not On Label (Amplifier (3) Self-released)', 'catno': ''}] |
 | Catalog Number | none |
-| Notes | 180g black vinyl housed in a gatefold sleeve. Pressing of 500 copies. Some copies come with a A5-sized 2-sided photograph, some promotional cards from [l1104766] and a note penned by [a369288].  Sequential tracklist as per the cover. |
+| Notes | 180g black vinyl housed in a gatefold sleeve. Pressing of 500 copies.<br>Some copies come with a A5-sized 2-sided photograph, some promotional cards from [l1104766] and a note penned by [a369288].<br><br>Sequential tracklist as per the cover. |
 | Discogs URL    | [Amplifier - Amplifier](https://www.discogs.com/release/9479697-Amplifier-3-Amplifier) |

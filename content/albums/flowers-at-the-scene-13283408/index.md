@@ -4,6 +4,7 @@ artist_name: "Tim Bowness"
 artist: "tim-bowness"
 album_name: "Flowers At The Scene"
 date: 2019-02-28T18:48:33.000000Z
+release_date: "2019-03-01"
 release_id: "13283408"
 slug: "flowers-at-the-scene-13283408"
 hideSummary: true
@@ -32,47 +33,42 @@ Produced by Tim Bowness with Steven Wilson - as No-Man - and Brian Hulse, the al
 Flowers At The Scene reached No.5 in both the official UK Rock and UK Progressive charts, No.24 in the official UK Vinyl chart, No.38 in the official UK Physical sales chart, and No.65 in the official Scottish albums chart.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Go Deeper (4:15)
-2. The Train That Pulled Away (4:04)
-3. Rainmark (4:15)
-4. Not Married Anymore (3:30)
-5. Flowers At The Scene (3:04)
-6. It's The World (3:03)
-7. Borderline (3:45)
-8. Ghostlike (5:08)
-9. The War On Me (3:47)
-10. Killing To Survive (3:59)
-11. What Lies Here (4:00)
-12. I Go Deeper (4:15)
-13. The Train That Pulled Away (4:04)
-14. Rainmark (4:15)
-15. Not Married Anymore (3:30)
-16. Flowers At The Scene (3:04)
-17. It's The World (3:03)
-18. Borderline (3:45)
-19. Ghostlike (5:08)
-20. The War On Me (3:47)
-21. Killing To Survive (3:59)
-22. What Lies Here (4:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Go Deeper | 4:15 |
+| A2 | The Train That Pulled Away | 4:04 |
+| A3 | Rainmark | 4:15 |
+| A4 | Not Married Anymore | 3:30 |
+| A5 | Flowers At The Scene | 3:04 |
+| A6 | It's The World | 3:03 |
+| B1 | Borderline | 3:45 |
+| B2 | Ghostlike | 5:08 |
+| B3 | The War On Me | 3:47 |
+| B4 | Killing To Survive | 3:59 |
+| B5 | What Lies Here | 4:00 |
+| CD-1 | I Go Deeper | 4:15 |
+| CD-2 | The Train That Pulled Away | 4:04 |
+| CD-3 | Rainmark | 4:15 |
+| CD-4 | Not Married Anymore | 3:30 |
+| CD-5 | Flowers At The Scene | 3:04 |
+| CD-6 | It's The World | 3:03 |
+| CD-7 | Borderline | 3:45 |
+| CD-8 | Ghostlike | 5:08 |
+| CD-9 | The War On Me | 3:47 |
+| CD-10 | Killing To Survive | 3:59 |
+| CD-11 | What Lies Here | 4:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flowers-at-the-scene/1447398700" >}}<br>
 
 
-## Videos
-### TIM BOWNESS - I Go Deeper Lyric Video
-{{< youtube id="ptY7m76xAps" title="TIM BOWNESS - I Go Deeper Lyric Video" >}}<br>
-### More Videos
-
-- [TIM BOWNESS - Borderline Lyric Video](https://www.youtube.com/watch?v=qDuOJWLXM28)
-- [TIM BOWNESS - Its The World Lyric Video](https://www.youtube.com/watch?v=ohSYbX4qHzc)
-- [TIM BOWNESS talks Flowers At The Scene - Part 1](https://www.youtube.com/watch?v=ZuZ4o2Apr7o)
-- [Tim Bowness No-Man Live 2019](https://www.youtube.com/watch?v=grl6tzSHUXc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +80,5 @@ Flowers At The Scene reached No.5 in both the official UK Rock and UK Progressiv
 | Format         | Vinyl LP Album (Red Transparent), CD Album, All Media Limited Edition Numbered |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 524 |
-| Notes | Limited to 500 copies. Signed and numbered by Tim Bowness.  Includes free CD of entire album, lyric insert, and a signed greetings card. |
+| Notes | Limited to 500 copies. Signed and numbered by Tim Bowness.<br><br>Includes free CD of entire album, lyric insert, and a signed greetings card. |
 | Discogs URL    | [Tim Bowness - Flowers At The Scene](https://www.discogs.com/release/13283408-Tim-Bowness-Flowers-At-The-Scene) |

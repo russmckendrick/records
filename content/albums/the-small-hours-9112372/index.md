@@ -1,9 +1,10 @@
 ---
 title: "Matt Berry - The Small Hours"
 artist_name: "Matt Berry"
-artist: "matt-berry-3"
+artist: "matt-berry"
 album_name: "The Small Hours"
 date: 2016-09-27T16:15:26.000000Z
+release_date: "2016-09-16"
 release_id: "9112372"
 slug: "the-small-hours-9112372"
 hideSummary: true
@@ -24,33 +25,31 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Intro (0:20)
-2. One By One (3:06)
-3. The Peach And The Melon (2:54)
-4. Say It Again (3:05)
-5. Gone For Good (3:13)
-6. Beam Me Up (3:00)
-7. Seasons On Fire (3:57)
-8. Night Terrors (9:49)
-9. Lord Above (2:25)
-10. Obsessed And So Obscure (3:46)
-11. Wounded Heart (2:22)
-12. Small Hours (3:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Intro | 0:20 |
+| A2 | One By One | 3:06 |
+| A3 | The Peach And The Melon | 2:54 |
+| A4 | Say It Again | 3:05 |
+| A5 | Gone For Good | 3:13 |
+| A6 | Beam Me Up | 3:00 |
+| A7 | Seasons On Fire | 3:57 |
+| B1 | Night Terrors | 9:49 |
+| B2 | Lord Above | 2:25 |
+| B3 | Obsessed And So Obscure | 3:46 |
+| B4 | Wounded Heart | 2:22 |
+| B5 | Small Hours | 3:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-small-hours/1128004597" >}}<br>
 
 
-## Videos
-### Matt Berry - Obsessed and So Obscure
-{{< youtube id="D6eKamGyuMQ" title="Matt Berry - Obsessed and So Obscure" >}}<br>
-### More Videos
-
-- [Matt Berry - Beam Me Up](https://www.youtube.com/watch?v=Y0D-1fBqJuk)
-- [Matt Berry   Lord Above](https://www.youtube.com/watch?v=-ltFuyMfURo)
-- [MATT BERRY-The Small Hours-12-The Small Hours-Psychedelic Rock-2016](https://www.youtube.com/watch?v=rfS9xWlHXPs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +60,5 @@ styles: []
 | Format         | Vinyl LP Album Limited Edition (Green, 180g) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP404 |
-| Notes | Pressed on 180g "opaque forest green" vinyl. Gatefold sleeve. Download code on a sticker on the inner die-cut white paper sleeve.  Limited edition of 500 copies. Copies from Recordstore.com were signed by Matt Berry on the sleeve in black marker.  Recorded at Rimshot Studios, Kent and The Centre Of Excellence, Rotherhithe, London.  Track durations on the sleeve are incorrect. (Track durations from playing this record at a constant 33⅓rpm using a digital stopwatch) |
+| Notes | Pressed on 180g "opaque forest green" vinyl.<br>Gatefold sleeve.<br>Download code on a sticker on the inner die-cut white paper sleeve.<br><br>Limited edition of 500 copies.<br>Copies from Recordstore.com were signed by Matt Berry on the sleeve in black marker.<br><br>Recorded at Rimshot Studios, Kent and The Centre Of Excellence, Rotherhithe, London.<br><br>Track durations on the sleeve are incorrect.<br>(Track durations from playing this record at a constant 33⅓rpm using a digital stopwatch) |
 | Discogs URL    | [Matt Berry - The Small Hours](https://www.discogs.com/release/9112372-Matt-Berry-3-The-Small-Hours) |

@@ -4,6 +4,7 @@ artist_name: "Suede"
 artist: "suede"
 album_name: "Autofiction"
 date: 2022-09-25T07:16:21.000000Z
+release_date: "2022-09-16"
 release_id: "24531455"
 slug: "autofiction-24531455"
 hideSummary: true
@@ -30,34 +31,31 @@ styles: ["Alternative Rock", "Indie Rock"]
 Autofiction is the ninth studio album by English alternative rock band Suede. The album was released on 16 September 2022 via BMG to critical acclaim. It was their first release in four years, following 2018's The Blue Hour and their first since Night Thoughts in 2016 to feature longtime producer Ed Buller. The album was created as a stylistic distinction from their previous reunion work, which had taken on a more orchestral and cinematic scope.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. She Still Leads Me On (4:08)
-2. Personality Disorder (4:00)
-3. 15 Again (3:24)
-4. The Only Way I Can Love You (4:07)
-5. That Boy On The Stage (2:35)
-6. Drive Myself Home (4:29)
-7. Black Ice (2:45)
-8. Shadow Self (3:33)
-9. It's Always The Quiet Ones (4:12)
-10. What Am I Without You? (6:17)
-11. Turn Off Your Brain And Yell (5:54)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | She Still Leads Me On | 4:08 |
+| A2 | Personality Disorder | 4:00 |
+| A3 | 15 Again | 3:24 |
+| A4 | The Only Way I Can Love You | 4:07 |
+| A5 | That Boy On The Stage | 2:35 |
+| A6 | Drive Myself Home | 4:29 |
+| B1 | Black Ice | 2:45 |
+| B2 | Shadow Self | 3:33 |
+| B3 | It's Always The Quiet Ones | 4:12 |
+| B4 | What Am I Without You? | 6:17 |
+| B5 | Turn Off Your Brain And Yell | 5:54 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/autofiction/1622187194" >}}<br>
 
 
-## Videos
-### Suede - The Only Way I Can Love You Official Audio
-{{< youtube id="T8ZvxPQX3Z0" title="Suede - The Only Way I Can Love You Official Audio" >}}<br>
-### More Videos
-
-- [Suede - She Still Leads Me Official Audio](https://www.youtube.com/watch?v=KHJd1Z1G3M4)
-- [Suede Autofiction Expanded Edition Unboxing video](https://www.youtube.com/watch?v=lG1cliiJKfA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +67,5 @@ Autofiction is the ninth studio album by English alternative rock band Suede. Th
 | Format         | Vinyl LP Album Stereo (Grey) |
 | Label          | BMG |
 | Catalog Number | 538804791 |
-| Notes | 'Bricks and Mortar'* exclusive colour  *Independent and HMV retail and online shops  Gatefold sleeve  Manufactured In Czech Republic |
+| Notes | 'Bricks and Mortar'* exclusive colour<br><br>*Independent and HMV retail and online shops<br><br>Gatefold sleeve<br><br>Manufactured In Czech Republic |
 | Discogs URL    | [Suede - Autofiction](https://www.discogs.com/release/24531455-Suede-Autofiction) |

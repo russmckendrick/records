@@ -61,49 +61,44 @@ In its fusion of mosh-pit aggression and high-art ambition, <i>Mellon Collie</i>
 
 
 ## Tracklisting
-1. Dawn To Dusk
-2. Mellon Collie And The Infinite Sadness (2:51)
-3. Tonight, Tonight (4:13)
-4. Jellybelly (3:00)
-5. Zero (2:39)
-6. Here Is No Why (3:44)
-7. Bullet With Butterfly Wings (4:16)
-8. To Forgive (4:15)
-9. Fuck You (An Ode To No One) (4:49)
-10. Love (4:20)
-11. Cupid De Locke (2:49)
-12. Galapogos (4:45)
-13. Muzzle (3:43)
-14. Porcelina Of The Vast Oceans (9:20)
-15. Take Me Down (2:50)
-16. Twilight To Starlight
-17. Where Boys Fear To Tread (4:21)
-18. Bodies (4:11)
-19. Thirty-Three (4:09)
-20. In The Arms Of Sleep (4:11)
-21. 1979 (4:24)
-22. Tales Of A Scorched Earth (3:45)
-23. Thru The Eyes Of Ruby (7:37)
-24. Stumbleine (2:53)
-25. X.Y.U. (7:06)
-26. We Only Come Out At Night (4:04)
-27. Beautiful (4:17)
-28. Lily (My One And Only) (3:30)
-29. By Starlight (4:47)
-30. Farewell And Goodnight (4:21)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Dawn To Dusk |  |
+| A1 | Mellon Collie And The Infinite Sadness | 2:51 |
+| A2 | Tonight, Tonight | 4:13 |
+| A3 | Jellybelly | 3:00 |
+| A4 | Zero | 2:39 |
+| B1 | Here Is No Why | 3:44 |
+| B2 | Bullet With Butterfly Wings | 4:16 |
+| B3 | To Forgive | 4:15 |
+| C1 | Fuck You (An Ode To No One) | 4:49 |
+| C2 | Love | 4:20 |
+| C3 | Cupid De Locke | 2:49 |
+| C4 | Galapogos | 4:45 |
+| D1 | Muzzle | 3:43 |
+| D2 | Porcelina Of The Vast Oceans | 9:20 |
+| D3 | Take Me Down | 2:50 |
+|  | Twilight To Starlight |  |
+| E1 | Where Boys Fear To Tread | 4:21 |
+| E2 | Bodies | 4:11 |
+| E3 | Thirty-Three | 4:09 |
+| E4 | In The Arms Of Sleep | 4:11 |
+| F1 | 1979 | 4:24 |
+| F2 | Tales Of A Scorched Earth | 3:45 |
+| F3 | Thru The Eyes Of Ruby | 7:37 |
+| G1 | Stumbleine | 2:53 |
+| G2 | X.Y.U. | 7:06 |
+| G3 | We Only Come Out At Night | 4:04 |
+| G4 | Beautiful | 4:17 |
+| H1 | Lily (My One And Only) | 3:30 |
+| H2 | By Starlight | 4:47 |
+| H3 | Farewell And Goodnight | 4:21 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mellon-collie-and-the-infinite-sadness-deluxe-edition/1455510683" >}}<br>
 
 
-## Videos
-### The Smashing Pumpkins - Tonight Tonight Official Music Video
-{{< youtube id="NOG3eus4ZSo" title="The Smashing Pumpkins - Tonight Tonight Official Music Video" >}}<br>
-### More Videos
-
-- [The Smashing Pumpkins - Bullet with Butterfly Wings Official Music Video](https://www.youtube.com/watch?v=8-r-V0uK4u0)
-- [The Smashing Pumpkins - 1979 Official Music Video](https://www.youtube.com/watch?v=4aeETEoNfOg)
-- [The Smashing Pumpkins - Thirty-Three Official Music Video](https://www.youtube.com/watch?v=AYSbztCCTlA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -115,5 +110,5 @@ In its fusion of mosh-pit aggression and high-art ambition, <i>Mellon Collie</i>
 | Format         | Vinyl 4× LP Album Reissue Remastered, Box Set |
 | Label          | Virgin |
 | Catalog Number | 5099997855316 |
-| Notes | Original double album remastered & reissued for the first time as a 4xLP box set. Pressed on 180 gram vinyl with updated art on the box and on the inner sleeves. Includes 2 books featuring band member notes, photos, lyrics, and additional art and photos.  All songs written by Billy Corgan and published by Cinderful music, BMI except: "Take Me Down" written by James Iha, published by Cellophane Star music, BMI and "Farewell and Goodnight" written by James Iha and Billy Corgan, published by Cellophane Star/Cinderful music BMI.  ℗ 2012, Virgin Records America, Inc. © 2012, Virgin Records America, Inc.   All rights reserved. Printed in the EU. Virgin Records America, Inc. is a Virgin Music label.  Additional copies repressed in approximately June 2023, with runouts matching the info here and "Made In Germany" sticker on shrink but no hype sticker. |
+| Notes | Original double album remastered & reissued for the first time as a 4xLP box set. Pressed on 180 gram vinyl with updated art on the box and on the inner sleeves. Includes 2 books featuring band member notes, photos, lyrics, and additional art and photos.<br><br>All songs written by Billy Corgan and published by Cinderful music, BMI except: "Take Me Down" written by James Iha, published by Cellophane Star music, BMI and "Farewell and Goodnight" written by James Iha and Billy Corgan, published by Cellophane Star/Cinderful music BMI.<br><br>℗ 2012, Virgin Records America, Inc.<br>© 2012, Virgin Records America, Inc. <br><br>All rights reserved. Printed in the EU. Virgin Records America, Inc. is a Virgin Music label.<br><br>Additional copies repressed in approximately June 2023, with runouts matching the info here and "Made In Germany" sticker on shrink but no hype sticker. |
 | Discogs URL    | [The Smashing Pumpkins - Mellon Collie And The Infinite Sadness](https://www.discogs.com/release/4091614-The-Smashing-Pumpkins-Mellon-Collie-And-The-Infinite-Sadness) |

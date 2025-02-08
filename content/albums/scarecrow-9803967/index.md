@@ -4,6 +4,7 @@ artist_name: "John Cougar Mellencamp"
 artist: "john-cougar-mellencamp"
 album_name: "Scarecrow"
 date: 2020-08-01T12:50:26.000000Z
+release_date: "1987-08-24"
 release_id: "9803967"
 slug: "scarecrow-9803967"
 hideSummary: true
@@ -26,33 +27,31 @@ styles: ["Southern Rock"]
 Scarecrow is the eighth studio album by American singer-songwriter John Cougar Mellencamp. Released on July 31, 1985, it peaked at number two on the US Billboard 200. The album contained three top-ten hits: "R.O.C.K. in the U.S.A.", which peaked at No. 2 on the US Billboard Hot 100; "Lonely Ol' Night", which peaked at number six; and "Small Town", which also peaked at number six. "Lonely Ol' Night" also peaked at number one on the Mainstream Rock Tracks chart, his second chart-topping single on this chart.
 In The Village Voice's annual Pazz & Jop critics poll for the year's best albums, Scarecrow finished at No. 3. In 1989, Rolling Stone magazine ranked Scarecrow number 95 on its list of the 100 greatest albums of the 1980s, saying: "Scarecrow consolidated the band's rugged, roots-rock thrash and the ongoing maturation of Mellencamp's lyrics."
 A remastered version was released May 24, 2005, on Mercury/Island/UMe and includes one bonus track. On November 4, 2022, a "deluxe" two-CD remastered and remixed version of the album was released.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Rain On The Scarecrow (3:45)
-2. Grandma's Theme (0:55)
-3. Small Town (3:42)
-4. Minutes To Memories (4:13)
-5. Lonely Ol' Night (3:45)
-6. The Face Of The Nation (3:14)
-7. Justice And Independence '85 (3:33)
-8. Between A Laugh And A Tear (4:33)
-9. Rumbleseat (3:00)
-10. You've Got To Stand For Something' (4:33)
-11. R.O.C.K. In The U.S.A. (A Salute To 60's Rock) (2:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rain On The Scarecrow | 3:45 |
+| A2 | Grandma's Theme | 0:55 |
+| A3 | Small Town | 3:42 |
+| A4 | Minutes To Memories | 4:13 |
+| A5 | Lonely Ol' Night | 3:45 |
+| A6 | The Face Of The Nation | 3:14 |
+| B1 | Justice And Independence '85 | 3:33 |
+| B2 | Between A Laugh And A Tear | 4:33 |
+| B3 | Rumbleseat | 3:00 |
+| B4 | You've Got To Stand For Something' | 4:33 |
+| B5 | R.O.C.K. In The U.S.A. (A Salute To 60's Rock) | 2:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-lonesome-jubilee-bonus-track-2005-remaster/1440756030" >}}<br>
 
 
-## Videos
-### John Mellencamp - Small Town
-{{< youtube id="0CVLVaBECuc" title="John Mellencamp - Small Town" >}}<br>
-### More Videos
-
-- [John Mellencamp - Rain On The Scarecrow](https://www.youtube.com/watch?v=joNzRzZhR2Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +63,5 @@ A remastered version was released May 24, 2005, on Mercury/Island/UMe and includ
 | Format         | Vinyl LP Album Stereo |
 | Label          | Mercury |
 | Catalog Number | 824 865-1 |
-| Notes | Release with an printed inner sleeve. Debossed inkless "PRS BAARN" on back sleeve, lower left side.  Very similar to [r1113007], which has in comparison to this release here no label code.  On back sleeve: ℗ 1985 John Mellencamp / © 1985 John Mellencamp Printed in the Netherlands  On inner sleeve: "This album is dedicated to Speck Mellencamp November 4, 1903-December 28, 1983"  On labels: ℗ 1985 John Mellencamp MADE IN HOLLAND  Runout information: The runouts are etched, except "MASTERDISK", which is stamped. |
+| Notes | Release with an printed inner sleeve. Debossed inkless "PRS BAARN" on back sleeve, lower left side.<br><br>Very similar to [r1113007], which has in comparison to this release here no label code.<br><br>On back sleeve:<br>℗ 1985 John Mellencamp / © 1985 John Mellencamp<br>Printed in the Netherlands<br><br>On inner sleeve:<br>"This album is dedicated to Speck Mellencamp November 4, 1903-December 28, 1983"<br><br>On labels:<br>℗ 1985 John Mellencamp<br>MADE IN HOLLAND<br><br>Runout information: The runouts are etched, except "MASTERDISK", which is stamped. |
 | Discogs URL    | [John Cougar Mellencamp - Scarecrow](https://www.discogs.com/release/9803967-John-Cougar-Mellencamp-Scarecrow) |

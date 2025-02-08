@@ -4,6 +4,7 @@ artist_name: "Pete Seeger"
 artist: "pete-seeger"
 album_name: "Where Have All The Flowers Gone?"
 date: 2019-01-19T10:36:49.000000Z
+release_date: "1998-03-17"
 release_id: "2943563"
 slug: "where-have-all-the-flowers-gone-2943563"
 hideSummary: true
@@ -21,22 +22,27 @@ styles: ["Folk"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Colorado Trail; Spanish Is The Loving Tongue; From Here On Up; Texas Girls; Swarthmore Girls; We Pity Our Bosses Five; The Scabs Crawl In
-2. Open The Door Softly; Road To Althay; Why Do Scotsmen?; Hold Up Your Petticoat; Oh, There's Two On My Back
-3. Seek And You Shall Find; Farewell Little Fishes; Where Have All The Flowers Gone?; Never Shall We Allow Another Atom Bomb To Fall; Step By Step; Joe Hill's Last Will; Seek And You Shall Find
-4. Oh, I Had A Golden Thread
-5. There's Better Things To Do
-6. The Dove
-7. Five Fingers
-8. To Everyone In All The World
-9. We Are Moving On To Victory
-10. Don't You Weep After Me
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Colorado Trail; Spanish Is The Loving Tongue; From Here On Up; Texas Girls; Swarthmore Girls; We Pity Our Bosses Five; The Scabs Crawl In |  |
+| A2 | Open The Door Softly; Road To Althay; Why Do Scotsmen?; Hold Up Your Petticoat; Oh, There's Two On My Back |  |
+| A3 | Seek And You Shall Find; Farewell Little Fishes; Where Have All The Flowers Gone?; Never Shall We Allow Another Atom Bomb To Fall; Step By Step; Joe Hill's Last Will; Seek And You Shall Find |  |
+| B1 | Oh, I Had A Golden Thread |  |
+| B2 | There's Better Things To Do |  |
+| B3 | The Dove |  |
+| B4 | Five Fingers |  |
+| B5 | To Everyone In All The World |  |
+| B6 | We Are Moving On To Victory |  |
+| B7 | Don't You Weep After Me |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/where-have-all-the-flowers-gone-the-songs-of-pete-seeger/262257395" >}}<br>
-
 
 
 

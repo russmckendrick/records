@@ -4,6 +4,7 @@ artist_name: "Super Furry Animals"
 artist: "super-furry-animals"
 album_name: "Rings Around The World"
 date: 2021-09-03T05:40:02.000000Z
+release_date: "2001-01-01"
 release_id: "20075032"
 slug: "rings-around-the-world-20075032"
 hideSummary: true
@@ -26,36 +27,33 @@ The album, which singer Gruff Rhys describes as "a very ambitious project", was 
 Musically Rings Around the World is an eclectic record incorporating pop, prog, punk, jungle, electronica, techno and death metal. Rhys has offered several explanations of the album's lyrical content, claiming the record is "about Earth, and the pollution of space" and also that it addresses the human condition. Critics meanwhile have referred to the record as "thematically eccentric" and lacking an "overarching theme". Critical reception was generally positive, with the album being nominated for 2001's Mercury Music Prize and placing at #1 in Mojo's "best albums of 2001" feature. Some reviews claimed it to be the best record of the band's career although the NME described it as the band's worst album.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Alternate Route To Vulcan Street
-2. Sidewalk Serfer Girl
-3. (Drawing) Rings Around The World
-4. It's Not The End Of The World
-5. Receptacle For The Respectable
-6. [A] Touch Sensitive
-7. Shoot Doris Day
-8. Miniature
-9. No Sympathy
-10. Juxtapozed With U
-11. Presidential Suite
-12. Run! Christian, Run!
-13. Fragile Happiness
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Alternate Route To Vulcan Street |  |
+| A2 | Sidewalk Serfer Girl |  |
+| A3 | (Drawing) Rings Around The World |  |
+| B1 | It's Not The End Of The World |  |
+| B2 | Receptacle For The Respectable |  |
+| B3 | [A] Touch Sensitive |  |
+| B4 | Shoot Doris Day |  |
+| C1 | Miniature |  |
+| C2 | No Sympathy |  |
+| C3 | Juxtapozed With U |  |
+| D1 | Presidential Suite |  |
+| D2 | Run! Christian, Run! |  |
+| D3 | Fragile Happiness |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rings-around-the-world/1626518352" >}}<br>
 
 
-## Videos
-### Super Furry Animals - Drawing Rings Around the World Official Video
-{{< youtube id="GcqGRE_fGlQ" title="Super Furry Animals - Drawing Rings Around the World Official Video" >}}<br>
-### More Videos
-
-- [Super Furry Animals - Drawing Rings Around the World](https://www.youtube.com/watch?v=kZJIrF5OPGU)
-- [Super Furry Animals - Drawing Rings Around the World Video DPD](https://www.youtube.com/watch?v=-i2Kn-EXh_A)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +65,5 @@ Musically Rings Around the World is an eclectic record incorporating pop, prog, 
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
 | Label          | BMG |
 | Catalog Number | BMGCAT510DLP |
-| Notes | 20th Anniversary Re-Issue  ℗+© 2021 BMG Rights Management (UK) Ltd. Made in the Czech Republic.  |
+| Notes | 20th Anniversary Re-Issue<br><br>℗+© 2021 BMG Rights Management (UK) Ltd.<br>Made in the Czech Republic.<br> |
 | Discogs URL    | [Super Furry Animals - Rings Around The World](https://www.discogs.com/release/20075032-Super-Furry-Animals-Rings-Around-The-World) |

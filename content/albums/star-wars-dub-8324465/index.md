@@ -4,6 +4,7 @@ artist_name: "Phil Pratt"
 artist: "phil-pratt"
 album_name: "Star Wars Dub"
 date: 2017-01-03T18:49:11.000000Z
+release_date: "2018-04-06"
 release_id: "8324465"
 slug: "star-wars-dub-8324465"
 hideSummary: true
@@ -23,25 +24,27 @@ styles: ["Dub"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. African Communication
-2. Which Clapp
-3. Star Wars
-4. Side Walk Rider
-5. Tower Dub
-6. Stay Loose
-7. Con-Man
-8. Concertman
-9. Roffa Yet
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | African Communication |  |
+| A2 | Which Clapp |  |
+| A3 | Star Wars |  |
+| A4 | Side Walk Rider |  |
+| A5 | Tower Dub |  |
+| B1 | Stay Loose |  |
+| B2 | Con-Man |  |
+| B3 | Concertman |  |
+| B4 | Roffa Yet |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-war-is-on-dub-style/1357796473" >}}<br>
 
-
-## Videos
-### Lipi Browns Selections - Star Wars Dub
-{{< youtube id="Fzekkfr8BvU" title="Lipi Browns Selections - Star Wars Dub" >}}<br>
 
 
 ## Release Images

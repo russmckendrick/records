@@ -4,6 +4,7 @@ artist_name: "Gomez"
 artist: "gomez"
 album_name: "Bring It On"
 date: 2018-04-20T17:56:02.000000Z
+release_date: "1998-04-13"
 release_id: "11890384"
 slug: "bring-it-on-11890384"
 hideSummary: true
@@ -36,35 +37,32 @@ A 10th anniversary 2-CD edition of Bring It On was released in 2008. As of Septe
 "Bring It On" is also the name of a song on Gomez's following album, Liquid Skin.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Get Miles (5:15)
-2. Whippin' Piccadilly (3:12)
-3. Make No Sound (3:26)
-4. 78 Stone Wobble (4:22)
-5. Tijuana Lady (7:08)
-6. Here Comes The Breeze (5:29)
-7. Love Is Better Than A Warm Trombone (3:29)
-8. Get Myself Arrested (4:04)
-9. Free To Run (4:31)
-10. Bubble Gum Years (3:20)
-11. Rie's Wagon (9:07)
-12. The Comeback (0:44)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Get Miles | 5:15 |
+| A2 | Whippin' Piccadilly | 3:12 |
+| A3 | Make No Sound | 3:26 |
+| A4 | 78 Stone Wobble | 4:22 |
+| B1 | Tijuana Lady | 7:08 |
+| B2 | Here Comes The Breeze | 5:29 |
+| B3 | Love Is Better Than A Warm Trombone | 3:29 |
+| B4 | Get Myself Arrested | 4:04 |
+| C1 | Free To Run | 4:31 |
+| C2 | Bubble Gum Years | 3:20 |
+| C3 | Rie's Wagon | 9:07 |
+| D1 | The Comeback | 0:44 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bring-it-on-20th-anniversary-deluxe/1383478428" >}}<br>
 
 
-## Videos
-### Gomez - Bring It On
-{{< youtube id="F2vJBaq6zlE" title="Gomez - Bring It On" >}}<br>
-### More Videos
-
-- [Gomez - Get Miles Vinyl Rip from Bring It On 1998](https://www.youtube.com/watch?v=eMtfb1j5sw0)
-- [Get Miles](https://www.youtube.com/watch?v=8hEFQsqWhUQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +74,5 @@ A 10th anniversary 2-CD edition of Bring It On was released in 2008. As of Septe
 | Format         | Vinyl LP (Burgundy), Vinyl LP (Yellow), All Media Album Limited Edition Reissue Remastered |
 | Label          | UMC |
 | Catalog Number | 6711417 |
-| Notes | 20th Anniversary reissue. Unipack envelope sleeve.   Limited edition burgundy and yellow coloured vinyl. Includes printed inner sleeves and a download code.  First catalogue number on spine, second on hype sticker.   |
+| Notes | 20th Anniversary reissue.<br>Unipack envelope sleeve. <br><br>Limited edition burgundy and yellow coloured vinyl. Includes printed inner sleeves and a download code.<br><br>First catalogue number on spine, second on hype sticker.<br><br> |
 | Discogs URL    | [Gomez - Bring It On](https://www.discogs.com/release/11890384-Gomez-Bring-It-On) |

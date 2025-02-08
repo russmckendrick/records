@@ -4,6 +4,7 @@ artist_name: "Weather Systems"
 artist: "weather-systems"
 album_name: "Ocean Without A Shore"
 date: 2024-10-05T08:33:03.000000Z
+release_date: "2024-09-27"
 release_id: "31896559"
 slug: "ocean-without-a-shore-31896559"
 hideSummary: true
@@ -34,21 +35,26 @@ styles: ["Prog Rock", "Art Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Synaesthesia  (9:11)
-2. Do Angels Sing Like Rain? (5:06)
-3. Untouchable Part 3 (5:55)
-4. Ghost In The Machine (4:53)
-5. Are You There ? Part 2 (5:59)
-6. Still Lake (5:59)
-7. Take Me With You (6:09)
-8. Ocean Without A Shore  (7:18)
-9. The Space Between Us (6:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Synaesthesia  | 9:11 |
+| A2 | Do Angels Sing Like Rain? | 5:06 |
+| B1 | Untouchable Part 3 | 5:55 |
+| B2 | Ghost In The Machine | 4:53 |
+| B3 | Are You There ? Part 2 | 5:59 |
+| C1 | Still Lake | 5:59 |
+| C2 | Take Me With You | 6:09 |
+| D1 | Ocean Without A Shore  | 7:18 |
+| D2 | The Space Between Us | 6:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ocean-without-a-shore/1751753784" >}}<br>
-
 
 
 

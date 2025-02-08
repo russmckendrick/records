@@ -38,22 +38,24 @@ On being reminded by John McVie that they were supposed to be a blues band, Olse
 
 
 ## Tracklisting
-1. Love In Store (3:14)
-2. Can't Go Back (2:42)
-3. That's Alright (3:09)
-4. Book Of Love (3:21)
-5. Gypsy (4:24)
-6. Only Over You (4:08)
-7. Empire State (2:51)
-8. Straight Back (4:17)
-9. Hold Me (3:44)
-10. Oh Diane (2:33)
-11. Eyes Of The World (3:44)
-12. Wish You Were Here (4:45)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Love In Store | 3:14 |
+| A2 | Can't Go Back | 2:42 |
+| A3 | That's Alright | 3:09 |
+| A4 | Book Of Love | 3:21 |
+| A5 | Gypsy | 4:24 |
+| A6 | Only Over You | 4:08 |
+| B1 | Empire State | 2:51 |
+| B2 | Straight Back | 4:17 |
+| B3 | Hold Me | 3:44 |
+| B4 | Oh Diane | 2:33 |
+| B5 | Eyes Of The World | 3:44 |
+| B6 | Wish You Were Here | 4:45 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fleetwood-mac-deluxe/1308648830" >}}<br>
-
 
 
 

@@ -40,32 +40,26 @@ When <i>Badmotorfinger</i> was launched into the world it came on the cusp of a 
 
 
 ## Tracklisting
-1. Rusty Cage (4:30)
-2. Outshined (5:06)
-3. Slaves & Bulldozers (6:56)
-4. Jesus Christ Pose (5:51)
-5. Face Pollution (2:23)
-6. Somewhere (4:20)
-7. Searching With My Good Eye Closed (6:31)
-8. Room A Thousand Years Wide (4:06)
-9. Mind Riot (4:48)
-10. Drawing Flies (2:32)
-11. Holy Water (5:06)
-12. New Damage (5:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rusty Cage | 4:30 |
+| A2 | Outshined | 5:06 |
+| A3 | Slaves & Bulldozers | 6:56 |
+| A4 | Jesus Christ Pose | 5:51 |
+| A5 | Face Pollution | 2:23 |
+| A6 | Somewhere | 4:20 |
+| B1 | Searching With My Good Eye Closed | 6:31 |
+| B2 | Room A Thousand Years Wide | 4:06 |
+| B3 | Mind Riot | 4:48 |
+| B4 | Drawing Flies | 2:32 |
+| B5 | Holy Water | 5:06 |
+| B6 | New Damage | 5:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/badmotorfinger-super-deluxe-edition/1440885542" >}}<br>
 
 
-## Videos
-### Soundgarden - Outshined
-{{< youtube id="sNh-iw7gsuI" title="Soundgarden - Outshined" >}}<br>
-### More Videos
-
-- [Soundgarden - Jesus Christ Pose Official Music Video](https://www.youtube.com/watch?v=14r7y6rM6zA)
-- [Soundgarden - Rusty Cage](https://www.youtube.com/watch?v=pBZs_Py-1_0)
-- [Soundgarden - Searching With My Good Eye Closed](https://www.youtube.com/watch?v=t-GDrHRROzU)
-- [Searching With My Good Eye Closed Remastered](https://www.youtube.com/watch?v=fzPr8iDB8gk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +71,5 @@ When <i>Badmotorfinger</i> was launched into the world it came on the cusp of a 
 | Format         | Vinyl LP Album Stereo |
 | Label          | A&M Records |
 | Catalog Number | 395 374-1 |
-| Notes | ℗ 1991 A&M Records Inc., Los Angeles  Made in England  Some copies are issued with a hype sticker. |
+| Notes | ℗ 1991 A&M Records Inc., Los Angeles<br><br>Made in England<br><br>Some copies are issued with a hype sticker. |
 | Discogs URL    | [Soundgarden - Badmotorfinger](https://www.discogs.com/release/3364487-Soundgarden-Badmotorfinger) |

@@ -41,31 +41,24 @@ The connection to <i>Harvest</i> is explicit, but the album also fits in a set o
 
 
 ## Tracklisting
-1. Unknown Legend (4:32)
-2. From Hank To Hendrix (5:17)
-3. You And Me (3:45)
-4. Harvest Moon (5:05)
-5. War Of Man (5:44)
-6. One Of These Days (4:57)
-7. Such A Woman (4:37)
-8. Old King (2:57)
-9. Dreamin' Man (4:36)
-10. Natural Beauty (10:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Unknown Legend | 4:32 |
+| A2 | From Hank To Hendrix | 5:17 |
+| A3 | You And Me | 3:45 |
+| A4 | Harvest Moon | 5:05 |
+| B1 | War Of Man | 5:44 |
+| B2 | One Of These Days | 4:57 |
+| B3 | Such A Woman | 4:37 |
+| C1 | Old King | 2:57 |
+| C2 | Dreamin' Man | 4:36 |
+| C3 | Natural Beauty | 10:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/harvest-moon/72796976" >}}<br>
 
 
-## Videos
-### Neil Young - Harvest Moon Full Album
-{{< youtube id="0x2woMlGHYM" title="Neil Young - Harvest Moon Full Album" >}}<br>
-### More Videos
-
-- [Neil Young - Harvest Moon Full Album](https://www.youtube.com/watch?v=0x2woMlGHYM)
-- [Neil Young - Harvest Moon Official Music Video](https://www.youtube.com/watch?v=n2MtEsrcTTs)
-- [Neil Young - One Of These Days](https://www.youtube.com/watch?v=_RuuyZYGSzU)
-- [DREAMIN MAN - Neil Young](https://www.youtube.com/watch?v=Jv-knusIj0w)
-- [Neil Young Natural Beauty](https://www.youtube.com/watch?v=GqQlt9K4g6I)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +70,5 @@ The connection to <i>Harvest</i> is explicit, but the album also fits in a set o
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Record Store Day Limited Edition Reissue |
 | Label          | Reprise Records |
 | Catalog Number | 9362-49107-8 |
-| Notes | Source| Mastered from 44/16 Digital ℗ 2017 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S. © 1992, 2017 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.  Track durations is different on insert from the labels. Time from the labels were used on tracklist above.  Runout details: the sequence "1-563181-X CB" is hand etched, the sequence "20793 1X" is stamped, on each side.  Record Store Day Black Friday exclusive release with printed lyrics insert. Three sided limited edition, side D has an etching of the album cover artwork. Issued in gatefold jacket with premium heavyweight white paper inner sleeve (with holes and without cut corners).  Manufactured in the E.U. (on back cover). Made in the E.U. (on labels). |
+| Notes | Source| Mastered from 44/16 Digital<br>℗ 2017 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.<br>© 1992, 2017 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.<br><br>Track durations is different on insert from the labels. Time from the labels were used on tracklist above.<br><br>Runout details: the sequence "1-563181-X CB" is hand etched, the sequence "20793 1X" is stamped, on each side.<br><br>Record Store Day Black Friday exclusive release with printed lyrics insert.<br>Three sided limited edition, side D has an etching of the album cover artwork.<br>Issued in gatefold jacket with premium heavyweight white paper inner sleeve (with holes and without cut corners).<br><br>Manufactured in the E.U. (on back cover).<br>Made in the E.U. (on labels). |
 | Discogs URL    | [Neil Young - Harvest Moon](https://www.discogs.com/release/11172799-Neil-Young-Harvest-Moon) |

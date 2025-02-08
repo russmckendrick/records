@@ -41,31 +41,26 @@ The album debuted at No. 1 in Canada and at No. 2 on the Billboard 200 chart. Th
 
 
 ## Tracklisting
-1. Caravan (5:40)
-2. BU2B (5:10)
-3. Clockwork Angels (7:31)
-4. The Anarchist (6:52)
-5. Carnies (4:52)
-6. Halo Effect (3:14)
-7. Seven Cities Of Gold (6:32)
-8. The Wreckers (5:01)
-9. Headlong Flight (7:20)
-10. BU2B2 (1:28)
-11. Wish Them Well (5:25)
-12. The Garden (6:59)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Caravan | 5:40 |
+| A2 | BU2B | 5:10 |
+| A3 | Clockwork Angels | 7:31 |
+| B1 | The Anarchist | 6:52 |
+| B2 | Carnies | 4:52 |
+| B3 | Halo Effect | 3:14 |
+| C1 | Seven Cities Of Gold | 6:32 |
+| C2 | The Wreckers | 5:01 |
+| C3 | Headlong Flight | 7:20 |
+| D1 | BU2B2 | 1:28 |
+| D2 | Wish Them Well | 5:25 |
+| D3 | The Garden | 6:59 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/clockwork-angels/522093869" >}}<br>
 
 
-## Videos
-### Clockwork Angels
-{{< youtube id="LYFXbGQcfoE" title="Clockwork Angels" >}}<br>
-### More Videos
-
-- [Headlong Flight](https://www.youtube.com/watch?v=1jQyAeBfVqI)
-- [Caravan](https://www.youtube.com/watch?v=6SQsv0JI1P8)
-- [The Anarchist](https://www.youtube.com/watch?v=1585PdvpdPs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +72,5 @@ The album debuted at No. 1 in Canada and at No. 2 on the Billboard 200 chart. Th
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Roadrunner Records |
 | Catalog Number | RRCAR 7656-1 |
-| Notes | Gatefold sleeve. Printed inner sleeves with lyrics.    "Caravan" and "BU2B" recorded at Blackbird Studios, Nashville TN, April 2010  All other songs recorded at Revolution Recording, Toronto ON, October-December 2011  Mixed at Henson Studios, Los Angeles CA, January-March 2012  Strings recorded at Ocean Way Studios, Los Angeles CA, January 18, 2012  "BU2B" new intro recorded on Lerxst Mobile, West Hollywood CA    All songs published by Core Music Publishing (SESAC) for the U.S.A. and Core Music Publishing (SOCAN) for the World excluding the U.S.A.    Licensed to Cargo Records For Vinyl Distribution. © & ℗ 2012 T.Y.S., Inc. for the world excluding Canada. Made in Germany (as stated on back cover and labels)    Also released on [url=http://www.discogs.com/release/4514510]red vinyl[/url] |
+| Notes | Gatefold sleeve. Printed inner sleeves with lyrics.<br><br>"Caravan" and "BU2B" recorded at Blackbird Studios, Nashville TN, April 2010<br>All other songs recorded at Revolution Recording, Toronto ON, October-December 2011<br>Mixed at Henson Studios, Los Angeles CA, January-March 2012<br>Strings recorded at Ocean Way Studios, Los Angeles CA, January 18, 2012<br>"BU2B" new intro recorded on Lerxst Mobile, West Hollywood CA<br><br>All songs published by Core Music Publishing (SESAC) for the U.S.A. and Core Music Publishing (SOCAN) for the World excluding the U.S.A.<br><br>Licensed to Cargo Records For Vinyl Distribution. © & ℗ 2012 T.Y.S., Inc. for the world excluding Canada. Made in Germany (as stated on back cover and labels)<br><br>Also released on [url=http://www.discogs.com/release/4514510]red vinyl[/url] |
 | Discogs URL    | [Rush - Clockwork Angels](https://www.discogs.com/release/4835484-Rush-Clockwork-Angels) |

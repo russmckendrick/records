@@ -36,27 +36,23 @@ The resulting album gave Franklin the crossover success she wanted. The delightf
 
 
 ## Tracklisting
-1. Freeway Of Love (6:00)
-2. Another Night (4:30)
-3. Sweet Bitter Love (5:11)
-4. Who's Zoomin' Who (4:43)
-5. Sisters Are Doin' It For Themselves (5:54)
-6. Until You Say You Love Me (4:23)
-7. Ain't Nobody Ever Loved You (4:53)
-8. Push (4:36)
-9. Integrity (4:25)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Freeway Of Love | 6:00 |
+| A2 | Another Night | 4:30 |
+| A3 | Sweet Bitter Love | 5:11 |
+| A4 | Who's Zoomin' Who | 4:43 |
+| B1 | Sisters Are Doin' It For Themselves | 5:54 |
+| B2 | Until You Say You Love Me | 4:23 |
+| B3 | Ain't Nobody Ever Loved You | 4:53 |
+| B4 | Push | 4:36 |
+| B5 | Integrity | 4:25 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whos-zoomin-who-expanded-edition/838931052" >}}<br>
 
 
-## Videos
-### Aretha Franklin - Another Night Official Music Video
-{{< youtube id="U40W8N_VTBA" title="Aretha Franklin - Another Night Official Music Video" >}}<br>
-### More Videos
-
-- [Sisters Are Doin It For Themselves Ft Aretha Franklin Official Video](https://www.youtube.com/watch?v=drGx7JkFSp4)
-- [Aretha Franklin - Freeway Of Love Video](https://www.youtube.com/watch?v=Ip_pjb5_fgA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +63,5 @@ The resulting album gave Franklin the crossover success she wanted. The delightf
 | Format         | Vinyl LP Album Stereo |
 | Label          | Arista |
 | Catalog Number | 207 202 |
-| Notes | Printed inner sleeve The runouts are stamped, the Roman numerals after S II are hand-etched  ℗ & © 1985 Arista Records  [On labels]: Orig. Sound Rec. made by Arista Rec. Inc. ℗ © 1985 Arista Records Inc.  [On runout groove]:  Mastering/processing method: Direct Mastering [DM].  Some copies were released with a sticker. |
+| Notes | Printed inner sleeve<br>The runouts are stamped, the Roman numerals after S II are hand-etched<br><br>℗ & © 1985 Arista Records<br><br>[On labels]:<br>Orig. Sound Rec. made by Arista Rec. Inc.<br>℗ © 1985 Arista Records Inc.<br><br>[On runout groove]: <br>Mastering/processing method: Direct Mastering [DM].<br><br>Some copies were released with a sticker. |
 | Discogs URL    | [Aretha Franklin - Who's Zoomin' Who?](https://www.discogs.com/release/895574-Aretha-Franklin-Whos-Zoomin-Who) |

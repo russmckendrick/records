@@ -1,9 +1,10 @@
 ---
 title: "Sam Morton - Daffodils & Dirt"
 artist_name: "Sam Morton"
-artist: "sam-morton-6"
+artist: "sam-morton"
 album_name: "Daffodils & Dirt"
 date: 2024-07-02T10:28:08.000000Z
+release_date: "2024-06-14"
 release_id: "31002340"
 slug: "daffodils-dirt-31002340"
 hideSummary: true
@@ -20,24 +21,29 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Highwood House
-2. Hungerhill Road
-3. Purple Yellow
-4. The Little White Cloud That Cried
-5. Kaleidoscope
-6. Cry Without End
-7. Broxtowe Girl
-8. Let’s Walk In The Night
-9. Greenstone
-10. Double Dip Neon
-11. The Shadow
-12. Loved By God
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Highwood House |  |
+| A2 | Hungerhill Road |  |
+| A3 | Purple Yellow |  |
+| A4 | The Little White Cloud That Cried |  |
+| A5 | Kaleidoscope |  |
+| A6 | Cry Without End |  |
+| B1 | Broxtowe Girl |  |
+| B2 | Let’s Walk In The Night |  |
+| B3 | Greenstone |  |
+| B4 | Double Dip Neon |  |
+| B5 | The Shadow |  |
+| B6 | Loved By God |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/daffodils-dirt/1734380827" >}}<br>
-
 
 
 

@@ -4,6 +4,7 @@ artist_name: "Elmore James"
 artist: "elmore-james"
 album_name: "Dust My Broom"
 date: 2015-12-17T08:50:29.000000Z
+release_date: "1990"
 release_id: "3329700"
 slug: "dust-my-broom-3329700"
 hideSummary: true
@@ -25,40 +26,32 @@ styles: []
 In 1951, Elmore James recorded the song as "Dust My Broom" and "made it the classic as we know it", according to blues historian Gerard Herzhaft.  James' slide guitar adaptation of Johnson's triplet figure has been identified as one of the most famous blues guitar riffs and has inspired many rock performers.  The song has become a blues standard, with numerous renditions by a variety of musicians.  It also has been selected for the Blues Foundation Blues Hall of Fame, the Grammy Hall of Fame, and the Library of Congress' National Recording Registry.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Coming Home (2:34)
-2. Dust My Broom (2:26)
-3. Everyday I Have The Blues (2:35)
-4. Fine Little Mama (2:30)
-5. I Done Somebody Wrong (2:24)
-6. It Hurts Me Too (2:45)
-7. Pickin The Blues (2:20)
-8. Look On Yonder Wall (2:51)
-9. Mean Mistreating Mama (3:14)
-10. Rolling And Tumbling (2:30)
-11. Standing At The Crossroads (2:15)
-12. The Sky Is Crying (3:10)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Coming Home | 2:34 |
+| A2 | Dust My Broom | 2:26 |
+| A3 | Everyday I Have The Blues | 2:35 |
+| A4 | Fine Little Mama | 2:30 |
+| A5 | I Done Somebody Wrong | 2:24 |
+| A6 | It Hurts Me Too | 2:45 |
+| B1 | Pickin The Blues | 2:20 |
+| B2 | Look On Yonder Wall | 2:51 |
+| B3 | Mean Mistreating Mama | 3:14 |
+| B4 | Rolling And Tumbling | 2:30 |
+| B5 | Standing At The Crossroads | 2:15 |
+| B6 | The Sky Is Crying | 3:10 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dust-my-broom/1648819175" >}}<br>
 
 
-## Videos
-### Elmore James - Dust my broom
-{{< youtube id="F8GwPuKL0e0" title="Elmore James - Dust my broom" >}}<br>
-### More Videos
-
-- [Elmore James - Dust my broom](https://www.youtube.com/watch?v=F8GwPuKL0e0)
-- [Dust My Broom](https://www.youtube.com/watch?v=Ng9XmfebKBY)
-- [Everyday I Have The Blues](https://www.youtube.com/watch?v=pmXZwGwSZ9g)
-- [Rollin And Tumblin](https://www.youtube.com/watch?v=B5eLyA1Wt8c)
-- [Got To Move](https://www.youtube.com/watch?v=AZ6awi5rUuM)
-- [It Hurts Me Too](https://www.youtube.com/watch?v=iBZRgnATKSQ)
-- [Mean Mistreatin Mama](https://www.youtube.com/watch?v=K1DejYST9kk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +63,5 @@ In 1951, Elmore James recorded the song as "Dust My Broom" and "made it the clas
 | Format         | Vinyl LP Compilation |
 | Label          | Topline Records |
 | Catalog Number | TOP 120 |
-| Notes | Licensed from Charly Records International APS  ℗ 1984 Charly Holdings Inc.  © 1984 Topline Records Ltd. |
+| Notes | Licensed from Charly Records International APS<br>℗ 1984 Charly Holdings Inc.<br>© 1984 Topline Records Ltd. |
 | Discogs URL    | [Elmore James - Dust My Broom](https://www.discogs.com/release/3329700-Elmore-James-Dust-My-Broom) |

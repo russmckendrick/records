@@ -4,6 +4,7 @@ artist_name: "Rush"
 artist: "rush"
 album_name: "Rush"
 date: 2017-03-07T08:40:12.000000Z
+release_date: "2020-09-04"
 release_id: "5887416"
 slug: "rush-5887416"
 hideSummary: true
@@ -33,27 +34,27 @@ styles: ["Hard Rock"]
 
 Rush is the debut studio album by Canadian rock band Rush. It was released on March 18, 1974, in Canada by Moon Records, the group's own label, before it was released internationally by Mercury Records later that year. Recorded five years after the band's formation, this first release shows much of the hard rock sound typical of many of the popular rock bands emerging earlier in the decade. Rush were fans of such bands as Led Zeppelin, Yes and Cream, and these influences can be heard in most of the songs on the album.
 Original drummer John Rutsey performed all drum parts on the album, but was unable to go on extended tours because of complications with his diabetes and so he retired from the band after the album was released. Rutsey worked on lyrics for the album, but never submitted them to the other members of the band. The lyrics were instead entirely composed by vocalist/bassist Geddy Lee and guitarist Alex Lifeson. Rutsey was soon replaced by Neil Peart, who served as both drummer and primary lyricist on all subsequent Rush albums.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Finding My Way (5:03)
-2. Need Some Love (2:16)
-3. Take A Friend (4:27)
-4. Here Again (7:30)
-5. What You're Doing (4:19)
-6. In The Mood (3:36)
-7. Before And After (5:33)
-8. Working Man (7:07)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Finding My Way | 5:03 |
+| A2 | Need Some Love | 2:16 |
+| A3 | Take A Friend | 4:27 |
+| A4 | Here Again | 7:30 |
+| B1 | What You're Doing | 4:19 |
+| B2 | In The Mood | 3:36 |
+| B3 | Before And After | 5:33 |
+| B4 | Working Man | 7:07 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rush-remastered-2013/1440782998" >}}<br>
 
-
-## Videos
-### Rush ReDISCovered Box Set - Unboxing
-{{< youtube id="GHBmzWrZAnQ" title="Rush ReDISCovered Box Set - Unboxing" >}}<br>
 
 
 ## Release Images
@@ -66,5 +67,5 @@ Original drummer John Rutsey performed all drum parts on the album, but was unab
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (200 Gram), Box Set |
 | Label          | Moon Records (18) |
 | Catalog Number | MN 100 |
-| Notes | ReDISCovered - Limited edition 200g 40th anniversary reissue of 1974 Moon Records album - Jacket art features all original 1974 details - Exclusive poster, band photo prints and Rush family tree - Digital download card - 320 kbps - Vinyl ripped AAC MP4s - Direct Metal Mastering DMM  Published by Core Music, CAPAC Tracks A1, A2, A4, B1, B3 and B4 recorded at Toronto Sound Studios Tracks A3 and B1 to B4 recorded at Eastern Sound Remixed at Toronto Sound  DMM Mastering at Abbey Road Studios - December 2013  Moon Records is a subsidiary of SRO Productions Ltd.  ℗ © 2014 The Island Def Jam Music Group  On center labels: ℗ 1974 S.R.O. Productions All selections - MAPL  [url=https://www.discogs.com/Rush-Rush-ReDISCovered/release/5659122]Similar release[/url] is the USA / Canada release [url=https://www.discogs.com/release/15631764-Rush-Rush]Similar release[/url] is a European release without the Universal Logo on the back of the box and no Download Code Sheet. |
+| Notes | ReDISCovered<br>- Limited edition 200g 40th anniversary reissue of 1974 Moon Records album<br>- Jacket art features all original 1974 details<br>- Exclusive poster, band photo prints and Rush family tree<br>- Digital download card - 320 kbps<br>- Vinyl ripped AAC MP4s<br>- Direct Metal Mastering DMM<br><br>Published by Core Music, CAPAC<br>Tracks A1, A2, A4, B1, B3 and B4 recorded at Toronto Sound Studios<br>Tracks A3 and B1 to B4 recorded at Eastern Sound<br>Remixed at Toronto Sound<br><br>DMM Mastering at Abbey Road Studios - December 2013<br><br>Moon Records is a subsidiary of SRO Productions Ltd.<br><br>℗ © 2014 The Island Def Jam Music Group<br><br>On center labels:<br>℗ 1974 S.R.O. Productions<br>All selections - MAPL<br><br>[url=https://www.discogs.com/Rush-Rush-ReDISCovered/release/5659122]Similar release[/url] is the USA / Canada release<br>[url=https://www.discogs.com/release/15631764-Rush-Rush]Similar release[/url] is a European release without the Universal Logo on the back of the box and no Download Code Sheet. |
 | Discogs URL    | [Rush - Rush](https://www.discogs.com/release/5887416-Rush-Rush) |

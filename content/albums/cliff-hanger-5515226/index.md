@@ -4,6 +4,7 @@ artist_name: "Jimmy Cliff"
 artist: "jimmy-cliff"
 album_name: "Cliff Hanger"
 date: 2017-05-27T15:33:48.000000Z
+release_date: "1985"
 release_id: "5515226"
 slug: "cliff-hanger-5515226"
 hideSummary: true
@@ -24,25 +25,28 @@ Cliff Hanger is an album by Jimmy Cliff, released in 1985 through CBS Records. I
 The album featured collaborations with members of Kool and the Gang and included two songs co-written by La Toya Jackson.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Hitting With Music (4:15)
-2. American Sweet (3:41)
-3. Arrival (4:09)
-4. Brown Eyes (3:41)
-5. Reggae Street (3:42)
-6. Hot Shot (4:26)
-7. Sunrise (3:50)
-8. Dead And Awake (3:37)
-9. Now And Forever (4:56)
-10. Nuclear War (4:12)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hitting With Music | 4:15 |
+| A2 | American Sweet | 3:41 |
+| A3 | Arrival | 4:09 |
+| A4 | Brown Eyes | 3:41 |
+| A5 | Reggae Street | 3:42 |
+| B1 | Hot Shot | 4:26 |
+| B2 | Sunrise | 3:50 |
+| B3 | Dead And Awake | 3:37 |
+| B4 | Now And Forever | 4:56 |
+| B5 | Nuclear War | 4:12 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cliff-hanger/185867129" >}}<br>
-
 
 
 

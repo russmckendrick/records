@@ -25,32 +25,26 @@ Aaron Livingston’s credits as a collaborator—with The Roots, RJD2, Mavis Sta
 
 
 ## Tracklisting
-1. Hey Rose
-2. About Her. Again
-3. Mahalia
-4. Bbbaby
-5. Suffer
-6. That's The Way
-7. 3rd Eye Weeping
-8. Don't Wait Up
-9. Belladonna
-10. O Clever One
-11. Neve Give Up
-12. After All (I Must Be Wrong)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hey Rose |  |
+| A2 | About Her. Again |  |
+| A3 | Mahalia |  |
+| A4 | Bbbaby |  |
+| A5 | Suffer |  |
+| A6 | That's The Way |  |
+| B1 | 3rd Eye Weeping |  |
+| B2 | Don't Wait Up |  |
+| B3 | Belladonna |  |
+| B4 | O Clever One |  |
+| B5 | Neve Give Up |  |
+| B6 | After All (I Must Be Wrong) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/aloha/1484054682" >}}<br>
 
 
-## Videos
-### Son Little - suffer
-{{< youtube id="xLo0a_mKmx4" title="Son Little - suffer" >}}<br>
-### More Videos
-
-- [Son Little - mahalia Full Album Stream](https://www.youtube.com/watch?v=Mpcl0_4cPns)
-- [Son Little - bbbaby Full Album Stream](https://www.youtube.com/watch?v=tzKUCpIsMnQ)
-- [Son Little - about her again](https://www.youtube.com/watch?v=RKyR-kOMLNY)
-- [Son Little - neve give up](https://www.youtube.com/watch?v=jaZcnBog0Zs)
 
 ## Release Images
 {{< imageGrid >}}

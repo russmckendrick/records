@@ -4,6 +4,7 @@ artist_name: "Horslips"
 artist: "horslips"
 album_name: "The Man Who Built America"
 date: 2020-08-02T13:30:43.000000Z
+release_date: "2009-08-21"
 release_id: "1704120"
 slug: "the-man-who-built-america-1704120"
 hideSummary: true
@@ -24,33 +25,29 @@ styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Loneliness (4:17)
-2. Tonight (You're With Me) (3:18)
-3. I'll Be Waiting (6:23)
-4. If It Takes All Night (3:32)
-5. Green Star Liner (3:24)
-6. The Man Who Built America (3:36)
-7. Homesick (4:00)
-8. Long Weekend (3:46)
-9. Letters From Home (4:14)
-10. Long Time Ago (3:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Loneliness | 4:17 |
+| A2 | Tonight (You're With Me) | 3:18 |
+| A3 | I'll Be Waiting | 6:23 |
+| A4 | If It Takes All Night | 3:32 |
+| A5 | Green Star Liner | 3:24 |
+| B1 | The Man Who Built America | 3:36 |
+| B2 | Homesick | 4:00 |
+| B3 | Long Weekend | 3:46 |
+| B4 | Letters From Home | 4:14 |
+| B5 | Long Time Ago | 3:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-man-who-built-america-bonus-tracks-version/1618441329" >}}<br>
 
 
-## Videos
-### HorslipsThe Man Who Built AmericaFull Album
-{{< youtube id="qQ_ZVFgSbaw" title="HorslipsThe Man Who Built AmericaFull Album" >}}<br>
-### More Videos
-
-- [Horslips- Man who built America](https://www.youtube.com/watch?v=NynajakSbV0)
-- [HorslipsThe Man Who Built AmericaFull Album](https://www.youtube.com/watch?v=qQ_ZVFgSbaw)
-- [Long Time Ago](https://www.youtube.com/watch?v=hrRVg8aIazg)
-- [Loneliness](https://www.youtube.com/watch?v=E1i3mWHSsyk)
-- [Horslips  The Man Who Built Americayerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=ZgCCJZPHXoo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +58,5 @@ styles: ["Folk Rock", "Pop Rock", "Arena Rock"]
 | Format         | Vinyl LP Album |
 | Label          | DJM Records (2) |
 | Catalog Number | DJF 20546 |
-| Notes | Recorded and mixed at Advision, October 1978.  Laminated sleeve. Included printed inner sleeve.  Runouts are part etched, eg "HORSLIPS-A-3 DJF-20546-A-3", and part stamped, eg "MASTERDISK X Y" |
+| Notes | Recorded and mixed at Advision, October 1978.<br><br>Laminated sleeve. Included printed inner sleeve.<br><br>Runouts are part etched, eg "HORSLIPS-A-3 DJF-20546-A-3", and part stamped, eg "MASTERDISK X Y" |
 | Discogs URL    | [Horslips - The Man Who Built America](https://www.discogs.com/release/1704120-Horslips-The-Man-Who-Built-America) |

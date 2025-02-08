@@ -37,24 +37,23 @@ Off the Wall was a significant departure from Jackson's previous work for Motown
 
 
 ## Tracklisting
-1. Don't Stop 'Til You Get Enough (6:02)
-2. Rock With You (3:38)
-3. Working Day And Night (5:12)
-4. Get On The Floor (4:44)
-5. Off The Wall (4:04)
-6. Girlfriend (3:04)
-7. She's Out Of My Life (3:36)
-8. I Can't Help It (4:27)
-9. It's The Falling In Love (3:46)
-10. Burn This Disco Out (3:38)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Don't Stop 'Til You Get Enough | 6:02 |
+| A2 | Rock With You | 3:38 |
+| A3 | Working Day And Night | 5:12 |
+| A4 | Get On The Floor | 4:44 |
+| B1 | Off The Wall | 4:04 |
+| B2 | Girlfriend | 3:04 |
+| B3 | She's Out Of My Life | 3:36 |
+| B4 | I Can't Help It | 4:27 |
+| B5 | It's The Falling In Love | 3:46 |
+| B6 | Burn This Disco Out | 3:38 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/off-the-wall/186166282" >}}<br>
 
-
-## Videos
-### michael jackson off the wall full album
-{{< youtube id="kbwt8E-pPEU" title="michael jackson off the wall full album" >}}<br>
 
 
 ## Release Images
@@ -67,5 +66,5 @@ Off the Wall was a significant departure from Jackson's previous work for Motown
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Epic |
 | Catalog Number | EPC 450086 1 |
-| Notes |  © 1979 CBS, Inc. / ℗ 1979 CBS Inc. Distribution: CBS Records / CBS Disques S.A. Shorepak by Shorewood Packaging Co. Ltd., England  This release has a slighty different cover to the other reissue.  Some releases came with insert containing all lyrics and credits. |
+| Notes |  © 1979 CBS, Inc. / ℗ 1979 CBS Inc.<br>Distribution: CBS Records / CBS Disques S.A.<br>Shorepak by Shorewood Packaging Co. Ltd., England<br><br>This release has a slighty different cover to the other reissue.<br><br>Some releases came with insert containing all lyrics and credits. |
 | Discogs URL    | [Michael Jackson - Off The Wall](https://www.discogs.com/release/3761228-Michael-Jackson-Off-The-Wall) |

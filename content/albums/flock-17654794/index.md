@@ -4,6 +4,7 @@ artist_name: "Jane Weaver"
 artist: "jane-weaver"
 album_name: "Flock"
 date: 2021-03-08T04:43:36.000000Z
+release_date: "2021-03-05"
 release_id: "17654794"
 slug: "flock-17654794"
 hideSummary: true
@@ -25,40 +26,30 @@ styles: []
 Flock is the eleventh album by the English musician Jane Weaver, released on 5 March 2021 by Fire Records. Inspired by Lebanese torch songs, 1980s Russian Aerobics records and Australian punk, the album incorporates a pop-leaning production in comparison to Weaver's previous works. Upon release, the album was met with critical acclaim, with praise towards its experimental sound.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Heartlow
-2. The Revolution Of Super Visions
-3. Stages Of Phases
-4. Lux
-5. Modern Reputation
-6. Flock
-7. Sunset Dreams
-8. All The Things You Do
-9. Pyramid Schemes
-10. Solarised
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Heartlow |  |
+| A2 | The Revolution Of Super Visions |  |
+| A3 | Stages Of Phases |  |
+| A4 | Lux |  |
+| A5 | Modern Reputation |  |
+| B1 | Flock |  |
+| B2 | Sunset Dreams |  |
+| B3 | All The Things You Do |  |
+| B4 | Pyramid Schemes |  |
+| B5 | Solarised |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flock/1668446839" >}}<br>
 
 
-## Videos
-### Jane Weaver - Heartlow Official Video
-{{< youtube id="gSb3x-WKLh8" title="Jane Weaver - Heartlow Official Video" >}}<br>
-### More Videos
-
-- [Jane Weaver - The Revolution Of Super Visions Official Video](https://www.youtube.com/watch?v=Zop_79wxs6M)
-- [Stages Of Phases](https://www.youtube.com/watch?v=-2fmLoa6jwc)
-- [Lux](https://www.youtube.com/watch?v=gVsw8943ego)
-- [Modern Reputation](https://www.youtube.com/watch?v=Ty4rkqddcQY)
-- [Flock](https://www.youtube.com/watch?v=XfeRoGIXpvE)
-- [Sunset Dreams](https://www.youtube.com/watch?v=2DrxgWCsYkY)
-- [All The Things You Do](https://www.youtube.com/watch?v=MUn_De7Mw8A)
-- [Pyramid Schemes](https://www.youtube.com/watch?v=AWVt8c4ju40)
-- [Solarised](https://www.youtube.com/watch?v=IOMq26ygSAQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +61,5 @@ Flock is the eleventh album by the English musician Jane Weaver, released on 5 M
 | Format         | Vinyl LP Album Limited Edition (Pink [Rose]) |
 | Label          | Fire Records |
 | Catalog Number | FIRELP544 |
-| Notes | Hype sticker on shrinkwrap details limited edition rose vinyl and includes high quality download code for the album.  Also available from recordstore.co.uk with signed art card (quantity unknown). |
+| Notes | Hype sticker on shrinkwrap details limited edition rose vinyl and includes high quality download code for the album.<br><br>Also available from recordstore.co.uk with signed art card (quantity unknown). |
 | Discogs URL    | [Jane Weaver - Flock](https://www.discogs.com/release/17654794-Jane-Weaver-Flock) |

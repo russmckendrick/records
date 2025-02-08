@@ -4,6 +4,7 @@ artist_name: "The Grateful Dead"
 artist: "the-grateful-dead"
 album_name: "The Grateful Dead"
 date: 2017-07-05T14:32:36.000000Z
+release_date: "2015-03-27"
 release_id: "9647618"
 slug: "the-grateful-dead-9647618"
 hideSummary: true
@@ -22,31 +23,29 @@ styles: ["Country Rock", "Psychedelic Rock", "Classic Rock"]
 ---
 
 The Grateful Dead is the debut studio album by the American rock band the Grateful Dead, released by Warner Bros. Records on March 17, 1967. According to the biographies of both bassist Phil Lesh and drummer Bill Kreutzmann, the band released the album as San Francisco's Grateful Dead.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Golden Road (To Unlimited Devotion)
-2. Beat It On Down The Line
-3. Good Mornin' Little School Girl
-4. Cold Rain And Snow
-5. Sittin' On Top Of The World
-6. Cream Puff War
-7. Morning Dew
-8. New, New Minglewood Blues
-9. Viola Lee Blues
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Golden Road (To Unlimited Devotion) |  |
+| A2 | Beat It On Down The Line |  |
+| A3 | Good Mornin' Little School Girl |  |
+| A4 | Cold Rain And Snow |  |
+| A5 | Sittin' On Top Of The World |  |
+| A6 | Cream Puff War |  |
+| B1 | Morning Dew |  |
+| B2 | New, New Minglewood Blues |  |
+| B3 | Viola Lee Blues |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-the-grateful-dead/945504099" >}}<br>
 
 
-## Videos
-### New New Minglewood Blues 2013 Remaster
-{{< youtube id="rR7Tsima2Ck" title="New New Minglewood Blues 2013 Remaster" >}}<br>
-### More Videos
-
-- [THE GRATEFUL DEAD - SELFTITLED FIRST ALBUM - US UNDERGROUND - 1967](https://www.youtube.com/watch?v=_VB2ItYExMA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,5 +57,5 @@ The Grateful Dead is the debut studio album by the American rock band the Gratef
 | Format         | Vinyl LP Album Limited Edition Picture Disc Reissue |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 557478 |
-| Notes | Limited Edition Of 10,000 50th Anniversary Edition |
+| Notes | Limited Edition Of 10,000<br>50th Anniversary Edition |
 | Discogs URL    | [The Grateful Dead - The Grateful Dead](https://www.discogs.com/release/9647618-The-Grateful-Dead-The-Grateful-Dead) |

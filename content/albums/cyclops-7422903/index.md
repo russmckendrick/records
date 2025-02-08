@@ -4,6 +4,7 @@ artist_name: "King Crimson"
 artist: "king-crimson"
 album_name: "Cyclops"
 date: 2015-09-15T08:02:09.000000Z
+release_date: ""
 release_id: "7422903"
 slug: "cyclops-7422903"
 hideSummary: true
@@ -24,13 +25,20 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. 21st Century Schizoid Man
-2. The Light of Day
-3. The Hell Hounds of Krim
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | 21st Century Schizoid Man |  |
+| B1 | The Light of Day |  |
+| B2 | The Hell Hounds of Krim |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -43,5 +51,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 12" 33 ⅓ RPM EP Limited Edition Picture Disc |
 | Label          | Panegyric |
 | Catalog Number | DGMP121 |
-| Notes | Track A: recorded live at the Warfield Theatre, San Francisco, October 4th, 2014. Track B1: recorded live at the Moore Theatre, Seattle, October 6th, 2014. Track B2: recorded live at the Orpheum Theatre, Los Angeles, September 30th, 2014. |
+| Notes | Track A: recorded live at the Warfield Theatre, San Francisco, October 4th, 2014.<br>Track B1: recorded live at the Moore Theatre, Seattle, October 6th, 2014.<br>Track B2: recorded live at the Orpheum Theatre, Los Angeles, September 30th, 2014. |
 | Discogs URL    | [King Crimson - Cyclops](https://www.discogs.com/release/7422903-King-Crimson-Cyclops) |

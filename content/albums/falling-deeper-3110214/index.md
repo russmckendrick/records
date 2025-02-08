@@ -4,6 +4,7 @@ artist_name: "Anathema"
 artist: "anathema"
 album_name: "Falling Deeper"
 date: 2017-05-06T08:42:43.000000Z
+release_date: "2011-09-13"
 release_id: "3110214"
 slug: "falling-deeper-3110214"
 hideSummary: true
@@ -28,28 +29,28 @@ The album was produced by singer/guitarist Vincent Cavanagh and guitarist and ma
 The songs received new musical and vocal arrangements with 'feedback' lead guitars centred on a grand piano and a rhythm section. Dutch singer Anneke van Giersbergen sings on "Everwake", a song originally released on the 1992 EP The Crestfallen, and on "...Alone".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Crestfallen (3:08)
-2. Sleep In Sanity (3:35)
-3. Kingdom (4:24)
-4. They Die (2:13)
-5. Everwake (3:07)
-6. J'ai Fait Une Promesse (4:23)
-7. Alone (7:17)
-8. We The Gods (3:05)
-9. Sunset Of Age (7:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Crestfallen | 3:08 |
+| A2 | Sleep In Sanity | 3:35 |
+| A3 | Kingdom | 4:24 |
+| A4 | They Die | 2:13 |
+| A5 | Everwake | 3:07 |
+| B1 | J'ai Fait Une Promesse | 4:23 |
+| B2 | Alone | 7:17 |
+| B3 | We The Gods | 3:05 |
+| B4 | Sunset Of Age | 7:42 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/falling-deeper/684127793" >}}<br>
 
-
-## Videos
-### Anathema - Kingdom from Falling Deeper
-{{< youtube id="kKO9G--YlyU" title="Anathema - Kingdom from Falling Deeper" >}}<br>
 
 
 ## Release Images
@@ -62,5 +63,5 @@ The songs received new musical and vocal arrangements with 'feedback' lead guita
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | Kscope |
 | Catalog Number | KSCOPE820 |
-| Notes | Limited vinyl edition pressed on 180gm vinyl with printed inner sleeves.     Crestfallen is dedicated with eternal love to Helen Cavanagh.  Kingdom is dedicated with love and gratitude to Stan White & Libby White.  Dette albumet er dedikert med evig kjærlighet og lys til ungdommene på Utøya. Sammen skaper vi lys i mørket.   This album is dedicated with eternal love and light to the young people at Utøya. Together we create light in the darkness.     Made in the E.U.    ℗2011 Anathema  ©2011 Anathema   |
+| Notes | Limited vinyl edition pressed on 180gm vinyl with printed inner sleeves. <br><br>Crestfallen is dedicated with eternal love to Helen Cavanagh.<br>Kingdom is dedicated with love and gratitude to Stan White & Libby White.<br>Dette albumet er dedikert med evig kjærlighet og lys til ungdommene på Utøya. Sammen skaper vi lys i mørket. <br>This album is dedicated with eternal love and light to the young people at Utøya. Together we create light in the darkness. <br><br>Made in the E.U.<br><br>℗2011 Anathema<br>©2011 Anathema<br> |
 | Discogs URL    | [Anathema - Falling Deeper](https://www.discogs.com/release/3110214-Anathema-Falling-Deeper) |

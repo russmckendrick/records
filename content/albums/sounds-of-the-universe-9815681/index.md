@@ -4,6 +4,7 @@ artist_name: "Depeche Mode"
 artist: "depeche-mode"
 album_name: "Sounds Of The Universe"
 date: 2017-02-23T11:23:07.000000Z
+release_date: "2009-04-17"
 release_id: "9815681"
 slug: "sounds-of-the-universe-9815681"
 hideSummary: true
@@ -32,41 +33,34 @@ Sounds of the Universe is the twelfth studio album by English electronic music b
 The album was released by Virgin Records and Capitol Records in the United States and by EMI in Canada and Mexico, marking the first time in the band's catalog that saw distribution from EMI within North America, where previous albums were released by Sire Records and Reprise Records, both divisions of Warner Music Group.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. In Chains
-2. Hole To Feed
-3. Wrong
-4. Fragile Tension
-5. Little Soul
-6. In Sympathy
-7. Peace
-8. Come Back
-9. Spacewalker
-10. Perfect
-11. Miles Away / The Truth Is
-12. Jezebel
-13. Corrupt
-14. Untitled
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | In Chains |  |
+| A2 | Hole To Feed |  |
+| A3 | Wrong |  |
+| B1 | Fragile Tension |  |
+| B2 | Little Soul |  |
+| B3 | In Sympathy |  |
+| C1 | Peace |  |
+| C2 | Come Back |  |
+| C3 | Spacewalker |  |
+| C4 | Perfect |  |
+| D1 | Miles Away / The Truth Is |  |
+| D2 | Jezebel |  |
+| D3 | Corrupt |  |
+| D4 | Untitled |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sounds-of-the-universe-deluxe/1174142075" >}}<br>
 
 
-## Videos
-### Depeche Mode - Wrong Official Video
-{{< youtube id="fhnrrLxQEVQ" title="Depeche Mode - Wrong Official Video" >}}<br>
-### More Videos
-
-- [Depeche Mode - Peace Live](https://www.youtube.com/watch?v=S25K5_zG0_8)
-- [Depeche Mode - Hole to Feed Official Video](https://www.youtube.com/watch?v=bX9rb3XMeHU)
-- [Depeche Mode - Fragile Tension Official Video](https://www.youtube.com/watch?v=FkVxlK8Qt50)
-- [Depeche Mode - Wrong Official Video](https://www.youtube.com/watch?v=fhnrrLxQEVQ)
-- [Depeche Mode - Peace Live](https://www.youtube.com/watch?v=S25K5_zG0_8)
-- [Depeche Mode - Hole to Feed Official Video](https://www.youtube.com/watch?v=bX9rb3XMeHU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +72,5 @@ The album was released by Virgin Records and Capitol Records in the United State
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Sony Music |
 | Catalog Number | 88985337031 |
-| Notes | ℗ 2009 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 2009, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh , Germany.  / LC 05834 88985337031  Gatefold sleeve. 180 gram. |
+| Notes | ℗ 2009 Venusnote Ltd. under<br>exclusive license to Sony Music<br>Entertainment International Ltd.<br>© 2009, 2016 Venusnote Ltd. under<br>exclusive license to Sony Music<br>Entertainment International Ltd.<br>Distributed by Sony Music<br>Entertainment. / All trademarks<br>and logos are protected. / Made<br>in the EU. / Sony Music<br>Entertainment International<br>Services GmbH, PO Box 510, 33311<br>Gütersloh , Germany.  / LC 05834<br>88985337031<br><br>Gatefold sleeve. 180 gram. |
 | Discogs URL    | [Depeche Mode - Sounds Of The Universe](https://www.discogs.com/release/9815681-Depeche-Mode-Sounds-Of-The-Universe) |

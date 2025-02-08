@@ -4,6 +4,7 @@ artist_name: "Devin Townsend Project"
 artist: "devin-townsend-project"
 album_name: "Ziltoid (Dark Matters)"
 date: 2016-05-03T16:17:30.000000Z
+release_date: "2015-11-13"
 release_id: "7514406"
 slug: "ziltoid-dark-matters-7514406"
 hideSummary: true
@@ -19,41 +20,41 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Z2
-2. From Sleep Awake
-3. Ziltodian Empire
-4. War Princess
-5. Deathray
-6. March Of The Poozers
-7. Wandering Eye
-8. Earth
-9. Ziltoid Goes Home
-10. Through The Wormhole
-11. Dimension Z
-12. Z2
-13. From Sleep Awake
-14. Ziltodian Empire
-15. War Princess
-16. Deathray
-17. March Of The Poozers
-18. Wandering Eye
-19. Earth
-20. Ziltoid Goes Home
-21. Through The Wormhole
-22. Dimension Z
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Z2 |  |
+| A2 | From Sleep Awake |  |
+| A3 | Ziltodian Empire |  |
+| B1 | War Princess |  |
+| B2 | Deathray |  |
+| C1 | March Of The Poozers |  |
+| C2 | Wandering Eye |  |
+| C3 | Earth |  |
+| D1 | Ziltoid Goes Home |  |
+| D2 | Through The Wormhole |  |
+| D3 | Dimension Z |  |
+| CD-1 | Z2 |  |
+| CD-2 | From Sleep Awake |  |
+| CD-3 | Ziltodian Empire |  |
+| CD-4 | War Princess |  |
+| CD-5 | Deathray |  |
+| CD-6 | March Of The Poozers |  |
+| CD-7 | Wandering Eye |  |
+| CD-8 | Earth |  |
+| CD-9 | Ziltoid Goes Home |  |
+| CD-10 | Through The Wormhole |  |
+| CD-11 | Dimension Z |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/devin-townsend-presents-ziltoid-live-at-the-royal/1045920518" >}}<br>
 
 
-## Videos
-### DEVIN TOWNSEND PROJECT - Deathray Lyric Video
-{{< youtube id="1DJrnr3cnro" title="DEVIN TOWNSEND PROJECT - Deathray Lyric Video" >}}<br>
-### More Videos
-
-- [DEVIN TOWNSEND PROJECT - Deathray Lyric Video](https://www.youtube.com/watch?v=1DJrnr3cnro)
 
 ## Release Images
 {{< imageGrid >}}

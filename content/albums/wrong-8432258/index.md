@@ -4,6 +4,7 @@ artist_name: "Cleft"
 artist: "cleft"
 album_name: "Wrong"
 date: 2016-05-21T11:02:07.000000Z
+release_date: ""
 release_id: "8432258"
 slug: "wrong-8432258"
 hideSummary: true
@@ -20,29 +21,31 @@ styles: ["Math Rock"]
 ---
 
 In rhetoric and ethics, "two wrongs don't make a right" and "two wrongs make a right" are phrases that denote philosophical norms. "Two wrongs make a right" has been considered as a fallacy of relevance, in which an allegation of wrongdoing is countered with a similar allegation. Its antithesis, "two wrongs don't make a right", is a proverb used to rebuke or renounce wrongful conduct as a response to another's transgression. "Two wrongs make a right" is considered "one of the most common fallacies in Western philosophy".
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Frankenstein (3:13)
-2. D.O.N.G. 808 (3:55)
-3. Face Plant (2:55)
-4. Lemmy (1:00)
-5. Bees, Beads, Beas (3:18)
-6. Me, Sugar (3:50)
-7. Alan (2:06)
-8. Onan's Boulder (4:18)
-9. Wrong (2:18)
-10. David (2:42)
-11. Desperate Elvis (2:51)
-12. Dohmlette (5:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| 1 | Frankenstein | 3:13 |
+| 2 | D.O.N.G. 808 | 3:55 |
+| 3 | Face Plant | 2:55 |
+| 4 | Lemmy | 1:00 |
+| 5 | Bees, Beads, Beas | 3:18 |
+| 6 | Me, Sugar | 3:50 |
+| 7 | Alan | 2:06 |
+| 8 | Onan's Boulder | 4:18 |
+| 9 | Wrong | 2:18 |
+| 10 | David | 2:42 |
+| 11 | Desperate Elvis | 2:51 |
+| 12 | Dohmlette | 5:36 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Cleft - Wrong Full Album
-{{< youtube id="RvnQpW_Vw6E" title="Cleft - Wrong Full Album" >}}<br>
 
 
 ## Release Images
@@ -55,5 +58,5 @@ In rhetoric and ethics, "two wrongs don't make a right" and "two wrongs make a r
 | Format         | Vinyl LP Album Stereo (Blue Splatter) |
 | Label          | Mega Face Records |
 | Catalog Number | MFR06 |
-| Notes | Recorded at The Grand Studios (Clitheroe), Noiseboy Studios (Salford), Edge Recording Studio (Cheshire), Chairworks (Castleford) in the UK.  Artwork by Jessica Wild. Engineering by Tom Peters (1,6,9), Chris Taylor (2,3,4,5,7,10), Mark Winterburn (8,11), David Watts (12). Mixed by Cleft and mastered by Tom Peters at The Grand. |
+| Notes | Recorded at The Grand Studios (Clitheroe), Noiseboy Studios (Salford), Edge Recording Studio (Cheshire), Chairworks (Castleford) in the UK.<br><br>Artwork by Jessica Wild. Engineering by Tom Peters (1,6,9), Chris Taylor (2,3,4,5,7,10), Mark Winterburn (8,11), David Watts (12). Mixed by Cleft and mastered by Tom Peters at The Grand. |
 | Discogs URL    | [Cleft - Wrong](https://www.discogs.com/release/8432258-Cleft-Wrong) |

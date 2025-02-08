@@ -1,9 +1,10 @@
 ---
 title: "Belief - Belief"
 artist_name: "Belief"
-artist: "belief-9"
+artist: "belief"
 album_name: "Belief"
 date: 2022-08-04T08:28:18.000000Z
+release_date: "1990-10-29"
 release_id: "24040121"
 slug: "belief-24040121"
 hideSummary: true
@@ -18,33 +19,31 @@ styles: ["House"]
 ---
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Want to Be (4:05)
-2. Anx (3:07)
-3. Bayo (4:14)
-4. Luther (4:07)
-5. Dreams (3:54)
-6. Nebo (5:46)
-7. WOT (3:53)
-8. Ulu (5:26)
-9. Jung (4:45)
-10. Art of Love (2:45)
-11. Charch (2:07)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Want to Be | 4:05 |
+| A2 | Anx | 3:07 |
+| A3 | Bayo | 4:14 |
+| A4 | Luther | 4:07 |
+| A5 | Dreams | 3:54 |
+| B1 | Nebo | 5:46 |
+| B2 | WOT | 3:53 |
+| B3 | Ulu | 5:26 |
+| B4 | Jung | 4:45 |
+| B5 | Art of Love | 2:45 |
+| B6 | Charch | 2:07 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/us/album/belief/1626720244" >}}<br>
 
 
-## Videos
-### BELIEF - DREAMS OFFICIAL VIDEO
-{{< youtube id="xAphjKTK1sk" title="BELIEF - DREAMS OFFICIAL VIDEO" >}}<br>
-### More Videos
-
-- [BELIEF - DREAMS OFFICIAL VIDEO](https://www.youtube.com/watch?v=xAphjKTK1sk)
 
 ## Release Images
 {{< imageGrid >}}

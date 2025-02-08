@@ -4,6 +4,7 @@ artist_name: "Public Service Broadcasting"
 artist: "public-service-broadcasting"
 album_name: "Bright Magic"
 date: 2021-09-24T02:16:08.000000Z
+release_date: "2021-09-24"
 release_id: "20338117"
 slug: "bright-magic-20338117"
 hideSummary: true
@@ -22,39 +23,30 @@ styles: ["Indie Rock", "Post Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Der Sumpf (Sinfonie Der Großstadt) 
-2. Im Licht
-3. Der Rhythmus Der Maschinen
-4. People, Let's Dance
-5. Blue Heaven
-6. Gib Mir Das Licht
-7. The Visitor
-8. Lichtspiel I: Opus
-9. Lichtspiel II: Schwarz Weiss Grau
-10. Lichtspiel III: Symphonie Diagonale
-11. Ich Und Die Stadt
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Der Sumpf (Sinfonie Der Großstadt)  |  |
+| A2 | Im Licht |  |
+| A3 | Der Rhythmus Der Maschinen |  |
+| A4 | People, Let's Dance |  |
+| A5 | Blue Heaven |  |
+| A6 | Gib Mir Das Licht |  |
+| B1 | The Visitor |  |
+| B2 | Lichtspiel I: Opus |  |
+| B3 | Lichtspiel II: Schwarz Weiss Grau |  |
+| B4 | Lichtspiel III: Symphonie Diagonale |  |
+| B5 | Ich Und Die Stadt |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bright-magic/1566582480" >}}<br>
 
 
-## Videos
-### Der Sumpf Sinfonie der Großstadt
-{{< youtube id="meB6tZRqeWw" title="Der Sumpf Sinfonie der Großstadt" >}}<br>
-### More Videos
-
-- [Im Licht](https://www.youtube.com/watch?v=EVqhzYW6uLk)
-- [Public Service Broadcasting - Der Rhythmus der Maschinen ft Blixa Bargeld](https://www.youtube.com/watch?v=hPMXn-9CDBU)
-- [Public Service Broadcasting - People Lets Dance ft EERA](https://www.youtube.com/watch?v=T0MTqhf9xPo)
-- [Public Service Broadcasting - Blue Heaven ft Andreya Casablanca](https://www.youtube.com/watch?v=Cv2CGLIj0t0)
-- [Gib mir das Licht](https://www.youtube.com/watch?v=Lh2ihEWv2i4)
-- [The Visitor](https://www.youtube.com/watch?v=ntY0Qfkzxa4)
-- [Lichtspiel I Opus](https://www.youtube.com/watch?v=tSAypX2Mb0g)
-- [Lichtspiel II Schwarz Weiss Grau](https://www.youtube.com/watch?v=rDRNXapkO5o)
-- [Public Service Broadcasting - Lichtspiel III Symphonie Diagonale](https://www.youtube.com/watch?v=hbLGFrWid-w)
-- [Ich und die Stadt](https://www.youtube.com/watch?v=GQ2tZjtfOgc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +57,5 @@ styles: ["Indie Rock", "Post Rock"]
 | Format         | Vinyl LP Album Limited Edition Stereo (Orange/Black [Marbled]) |
 | Label          | Play It Again Sam |
 | Catalog Number | PIASR1230LPX |
-| Notes | Gatefold sleeve. The back sleeve and spine erroneously list the catalogue number as PIASR1230LP, which is actually of the non-limited black vinyl edition. A small square cellophane barcode sticker feature the correct catalogue number: PIASR1230LPX  Includes 20-page booklet and MP3 download card. Limited number of copies include a signed print  ℗ & © 2021 Test Card Recordings Released under exclusive license to Play It Again Sam.  Made in The EU. |
+| Notes | Gatefold sleeve. The back sleeve and spine erroneously list the catalogue number as PIASR1230LP, which is actually of the non-limited black vinyl edition. A small square cellophane barcode sticker feature the correct catalogue number: PIASR1230LPX<br><br>Includes 20-page booklet and MP3 download card. Limited number of copies include a signed print<br><br>℗ & © 2021 Test Card Recordings<br>Released under exclusive license to Play It Again Sam.<br><br>Made in The EU. |
 | Discogs URL    | [Public Service Broadcasting - Bright Magic](https://www.discogs.com/release/20338117-Public-Service-Broadcasting-Bright-Magic) |

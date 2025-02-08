@@ -4,6 +4,7 @@ artist_name: "Kraftwerk"
 artist: "kraftwerk"
 album_name: "Computer World"
 date: 2016-02-21T12:51:40.000000Z
+release_date: "2009-10-12"
 release_id: "2058343"
 slug: "computer-world-2058343"
 hideSummary: true
@@ -35,22 +36,25 @@ Computer World (German: Computerwelt) is the eighth studio album by German elect
 The album is themed around computer technology and its rise within society. In keeping with the album's concept, Kraftwerk showcased their music on an ambitious world tour. As was the case with the two previous albums, Computer World was released in both German- and English-language editions.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Computer World (5:06)
-2. Pocket Calculator (4:57)
-3. Numbers (3:20)
-4. Computer World 2 (3:25)
-5. Computer Love (7:19)
-6. Homecomputer (6:21)
-7. It's More Fun To Compute (4:16)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Computer World | 5:06 |
+| A2 | Pocket Calculator | 4:57 |
+| A3 | Numbers | 3:20 |
+| A4 | Computer World 2 | 3:25 |
+| B1 | Computer Love | 7:19 |
+| B2 | Homecomputer | 6:21 |
+| B3 | It's More Fun To Compute | 4:16 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/computer-world-remastered/699901844" >}}<br>
-
 
 
 

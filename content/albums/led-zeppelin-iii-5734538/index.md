@@ -36,28 +36,24 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 
 
 ## Tracklisting
-1. Immigrant Song (2:26)
-2. Friends (3:53)
-3. Celebration Day (3:30)
-4. Since I've Been Loving You (7:24)
-5. Out On The Tiles (4:07)
-6. Gallows Pole (4:57)
-7. Tangerine (3:11)
-8. That's The Way (5:37)
-9. Bron-Y-Aur Stomp (4:17)
-10. Hats Off To (Roy) Harper (3:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Immigrant Song | 2:26 |
+| A2 | Friends | 3:53 |
+| A3 | Celebration Day | 3:30 |
+| A4 | Since I've Been Loving You | 7:24 |
+| A5 | Out On The Tiles | 4:07 |
+| B1 | Gallows Pole | 4:57 |
+| B2 | Tangerine | 3:11 |
+| B3 | That's The Way | 5:37 |
+| B4 | Bron-Y-Aur Stomp | 4:17 |
+| B5 | Hats Off To (Roy) Harper | 3:42 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/led-zeppelin-deluxe-edition/836967207" >}}<br>
 
 
-## Videos
-### Led Zeppelin III 1st UK press - side 1
-{{< youtube id="Cudj6BmpGY8" title="Led Zeppelin III 1st UK press - side 1" >}}<br>
-### More Videos
-
-- [Led Zeppelin III 1st UK press - side 2](https://www.youtube.com/watch?v=EH1_fAPCho0)
-- [Led Zeppelin - Led Zeppelin III Full Album](https://www.youtube.com/watch?v=MkcumppLBXw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +65,5 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180g, Gatefold) |
 | Label          | Atlantic |
 | Catalog Number | 8122796576 |
-| Notes | ℗ & © 1970. Labels: Manufactured in Germany. Sleeve: Made in EU. Sticker:  "The Classic Album on 180g Vinyl. Includes Immigrant Song, & Gallows Pole Remastered by Jimmy Page Replica of Original Sleeve."  Gatefold with working wheel.  Catalog number "8122796576" appears on the sticker, spine and inner gatefold while "R1 535341" appears on the label.  Runouts are etched with Optimal plating symbols mirrored. Runout side A, variant 3: "4 +V" is mirrored and upside down Runout side B, variant 3: "5 VI" is mirrored and upside down |
+| Notes | ℗ & © 1970.<br>Labels: Manufactured in Germany.<br>Sleeve: Made in EU.<br>Sticker: <br>"The Classic Album on 180g Vinyl.<br>Includes Immigrant Song, & Gallows Pole<br>Remastered by Jimmy Page<br>Replica of Original Sleeve."<br><br>Gatefold with working wheel.<br><br>Catalog number "8122796576" appears on the sticker, spine and inner gatefold while "R1 535341" appears on the label.<br><br>Runouts are etched with Optimal plating symbols mirrored.<br>Runout side A, variant 3: "4 +V" is mirrored and upside down<br>Runout side B, variant 3: "5 VI" is mirrored and upside down |
 | Discogs URL    | [Led Zeppelin - Led Zeppelin III](https://www.discogs.com/release/5734538-Led-Zeppelin-Led-Zeppelin-III) |

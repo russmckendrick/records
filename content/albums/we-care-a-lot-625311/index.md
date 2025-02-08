@@ -4,6 +4,7 @@ artist_name: "Faith No More"
 artist: "faith-no-more"
 album_name: "We Care A Lot"
 date: 2015-08-09T08:47:17.000000Z
+release_date: "2000-09-04"
 release_id: "625311"
 slug: "we-care-a-lot-625311"
 hideSummary: true
@@ -25,41 +26,30 @@ styles: ["Alternative Rock", "Alternative Metal", "Funk Metal", "Post-Punk"]
 ---
 
 We Care a Lot is the debut studio album by American rock band Faith No More, originally released in 1985 and distributed through Mordam Records. On the original vinyl release, the band is credited as Faith. No More. on the album's liner notes, back cover, and on the record itself.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. We Care A Lot
-2. The Jungle
-3. Mark Bowen
-4. Jim
-5. Why Do You Bother
-6. Greed
-7. Pills For Breakfast
-8. As The Worm Turns
-9. Arabian Disco
-10. New Beginnings
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | We Care A Lot |  |
+| A2 | The Jungle |  |
+| A3 | Mark Bowen |  |
+| A4 | Jim |  |
+| A5 | Why Do You Bother |  |
+| B1 | Greed |  |
+| B2 | Pills For Breakfast |  |
+| B3 | As The Worm Turns |  |
+| B4 | Arabian Disco |  |
+| B5 | New Beginnings |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-faith-no-more-collection/734506512" >}}<br>
 
 
-## Videos
-### Faith No More - We Care a Lot Official Music Video 4K
-{{< youtube id="LQhX8PbNUWI" title="Faith No More - We Care a Lot Official Music Video 4K" >}}<br>
-### More Videos
-
-- [We Care a Lot](https://www.youtube.com/watch?v=9L3M2WC5LPA)
-- [The Jungle](https://www.youtube.com/watch?v=JJ5qKiOc-Bg)
-- [Mark Bowen by Faith No More](https://www.youtube.com/watch?v=By5p2rqbm5A)
-- [Jim by Faith No More](https://www.youtube.com/watch?v=oOBZthysdGY)
-- [Greed](https://www.youtube.com/watch?v=R4mPRUZ3oS8)
-- [Pills for Breakfast](https://www.youtube.com/watch?v=g6n3u8t7EEc)
-- [As the Worm Turns](https://www.youtube.com/watch?v=nEMpXWVibFs)
-- [Arabian Disco by Faith No More](https://www.youtube.com/watch?v=RfSPBZ2D-hQ)
-- [New Beginnings](https://www.youtube.com/watch?v=QuGYPgijH7Y)
-- [Faith No More - The Jungle Live 1986](https://www.youtube.com/watch?v=huicM5dOhFo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +61,5 @@ We Care a Lot is the debut studio album by American rock band Faith No More, ori
 | Format         | Vinyl LP Album |
 | Label          | Mordam Records |
 | Catalog Number | MDR 1 |
-| Notes | Some copies were affixed with a sticker containing the EFA distribution details. This version should not be confused with [url=http://www.discogs.com/Faith-No-More-We-Care-A-Lot/release/2741099]the version[/url] which had this distribution information printed directly onto the sleeve.    Recorded at: Prairie Sun Studios Cotati, CA  Mastered at K Disc Mastering (Kdisc stamped into the runout area)    European license-pressing & distribution by: De Konkurrent  ©&℗1985 Mordam Records    Includes an insert with additional artwork and lyrics.    K Disc Mastering and Greg Lee Processing are not directly credited. The companies and their roles have been identified from information in the vinyl runout.   |
+| Notes | Some copies were affixed with a sticker containing the EFA distribution details. This version should not be confused with [url=http://www.discogs.com/Faith-No-More-We-Care-A-Lot/release/2741099]the version[/url] which had this distribution information printed directly onto the sleeve.<br><br>Recorded at: Prairie Sun Studios Cotati, CA<br>Mastered at K Disc Mastering (Kdisc stamped into the runout area)<br><br>European license-pressing & distribution by: De Konkurrent<br>©&℗1985 Mordam Records<br><br>Includes an insert with additional artwork and lyrics.<br><br>K Disc Mastering and Greg Lee Processing are not directly credited. The companies and their roles have been identified from information in the vinyl runout.<br> |
 | Discogs URL    | [Faith No More - We Care A Lot](https://www.discogs.com/release/625311-Faith-No-More-We-Care-A-Lot) |

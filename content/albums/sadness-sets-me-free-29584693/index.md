@@ -4,6 +4,7 @@ artist_name: "Gruff Rhys"
 artist: "gruff-rhys"
 album_name: "Sadness Sets Me Free"
 date: 2024-02-02T00:43:24.000000Z
+release_date: "2024-01-26"
 release_id: "29584693"
 slug: "sadness-sets-me-free-29584693"
 hideSummary: true
@@ -22,36 +23,30 @@ styles: ["Indie Pop"]
 ---
 
 Sadness Sets Me Free is the eighth studio album by Welsh musician Gruff Rhys, released on 26 January 2024 through Rough Trade Records. It was recorded in three days in March 2022 in Paris, and received positive reviews from critics.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Sadness Sets Me Free
-2. Bad Friend
-3. Celestial Candyfloss
-4. Silver Lining Lead Balloons
-5. On The Far Side Of The Dollar
-6. They Sold My Home To Build A Skyscraper
-7. Peace Signs
-8. Cover Up The Cover Up
-9. I Tendered My Resignation
-10. I'll Keep Singing
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sadness Sets Me Free |  |
+| A2 | Bad Friend |  |
+| A3 | Celestial Candyfloss |  |
+| A4 | Silver Lining Lead Balloons |  |
+| A5 | On The Far Side Of The Dollar |  |
+| B1 | They Sold My Home To Build A Skyscraper |  |
+| B2 | Peace Signs |  |
+| B3 | Cover Up The Cover Up |  |
+| B4 | I Tendered My Resignation |  |
+| B5 | I'll Keep Singing |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sadness-sets-me-free/1706554248" >}}<br>
 
 
-## Videos
-### Gruff Rhys - Celestial Candyfloss Official Video
-{{< youtube id="jv5jwu_RdQw" title="Gruff Rhys - Celestial Candyfloss Official Video" >}}<br>
-### More Videos
-
-- [Gruff Rhys - Bad Friend Official Video](https://www.youtube.com/watch?v=OprFcUKXzJs)
-- [Gruff Rhys - Silver Lining Lead Balloons Official Visualizer](https://www.youtube.com/watch?v=H7fBfU4Swpc)
-- [Gruff Rhys - Celestial Candyfloss Official Video](https://www.youtube.com/watch?v=jv5jwu_RdQw)
-- [Gruff Rhys - Bad Friend Official Video](https://www.youtube.com/watch?v=OprFcUKXzJs)
-- [Gruff Rhys - Silver Lining Lead Balloons Official Visualizer](https://www.youtube.com/watch?v=H7fBfU4Swpc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +58,5 @@ Sadness Sets Me Free is the eighth studio album by Welsh musician Gruff Rhys, re
 | Format         | Vinyl LP Album Limited Edition (Brown [Chocolate Neo-Neapolitan]) |
 | Label          | Rough Trade |
 | Catalog Number | RT0420LPE2 |
-| Notes | Limited to 500 copies sold at Rough Trade and Welsh shops Packaged in a split-door sleeve |
+| Notes | Limited to 500 copies sold at Rough Trade and Welsh shops<br>Packaged in a split-door sleeve |
 | Discogs URL    | [Gruff Rhys - Sadness Sets Me Free](https://www.discogs.com/release/29584693-Gruff-Rhys-Sadness-Sets-Me-Free) |

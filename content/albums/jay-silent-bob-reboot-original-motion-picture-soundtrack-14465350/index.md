@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Jay & Silent Bob Reboot (Original Motion Picture Soundtrack)"
 date: 2020-01-26T14:56:22.000000Z
+release_date: ""
 release_id: "14465350"
 slug: "jay-silent-bob-reboot-original-motion-picture-soundtrack-14465350"
 hideSummary: true
@@ -23,57 +24,45 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. "Reboot?" (0:02)
-2. Goodbye Horses (6:26)
-3. "Out Of Order!" (0:06)
-4. Social  (3:37)
-5. "Want Me To Order?" (0:18)
-6. Mooby's Song (2:25)
-7. "Boo Boo Kitty …" (0:05)
-8. Keep On Loving You (3:23)
-9. "I Knew Your Dad A Little Bit …" (0:07)
-10. I Saw A Ghost (1:50)
-11. "Dressed Like Us …" (0:04)
-12. Loser (Movie Mix)  (2:24)
-13. "Stop This Reboot!" (0:10)
-14. Good Morning (2:40)
-15. "3 Days …" (0:11)
-16. I'd Die Without You (4:06)
-17. "That Director …" (0:11)
-18. Smodcast Theme (0:40)
-19. "The Dishes Are Done …" (0:08)
-20. Shecky Don't Like It (3:05)
-21. "Names Back …" (0:10)
-22. Come My Way  (3:13)
-23. "I Don't Know If Anybody Knows This …" (0:18)
-24. Drinkin' Blunts (2:30)
-25. "Hung Out …" (0:19)
-26. Stay With Me (4:29)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | "Reboot?" | 0:02 |
+| A2 | Goodbye Horses | 6:26 |
+| A3 | "Out Of Order!" | 0:06 |
+| A4 | Social  | 3:37 |
+| A5 | "Want Me To Order?" | 0:18 |
+| A6 | Mooby's Song | 2:25 |
+| A7 | "Boo Boo Kitty …" | 0:05 |
+| A8 | Keep On Loving You | 3:23 |
+| A9 | "I Knew Your Dad A Little Bit …" | 0:07 |
+| A10 | I Saw A Ghost | 1:50 |
+| A11 | "Dressed Like Us …" | 0:04 |
+| A12 | Loser (Movie Mix)  | 2:24 |
+| A13 | "Stop This Reboot!" | 0:10 |
+| B1 | Good Morning | 2:40 |
+| B2 | "3 Days …" | 0:11 |
+| B3 | I'd Die Without You | 4:06 |
+| B4 | "That Director …" | 0:11 |
+| B5 | Smodcast Theme | 0:40 |
+| B6 | "The Dishes Are Done …" | 0:08 |
+| B7 | Shecky Don't Like It | 3:05 |
+| B8 | "Names Back …" | 0:10 |
+| B9 | Come My Way  | 3:13 |
+| B10 | "I Don't Know If Anybody Knows This …" | 0:18 |
+| B11 | Drinkin' Blunts | 2:30 |
+| B12 | "Hung Out …" | 0:19 |
+| B13 | Stay With Me | 4:29 |
 
 
-## Spotify
-{{< spotify type="album" id="1TLTcuWVMB3nxObS2racxa" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
-## Videos
-### Moobys Song
-{{< youtube id="YUdJKKG8ih0" title="Moobys Song" >}}<br>
-### More Videos
-
-- [Loser](https://www.youtube.com/watch?v=nNqQbsFoZfc)
-- [Keep On Loving You](https://www.youtube.com/watch?v=7YLYXU2eSWM)
-- [Come My Way](https://www.youtube.com/watch?v=--LiNPM2goI)
-- [Good Morning](https://www.youtube.com/watch?v=joXb-dLqg_M)
-- [JAY AND SILENT BOB REBOOT Red Band Trailer 2019](https://www.youtube.com/watch?v=l5UJu1BAy8U)
-- [PM Dawn - Id Die Without You](https://www.youtube.com/watch?v=C_qWlPCEnGM)
-- [Moobys Song](https://www.youtube.com/watch?v=YUdJKKG8ih0)
-- [Loser](https://www.youtube.com/watch?v=nNqQbsFoZfc)
-- [Keep On Loving You](https://www.youtube.com/watch?v=7YLYXU2eSWM)
-- [Come My Way](https://www.youtube.com/watch?v=--LiNPM2goI)
-- [Good Morning](https://www.youtube.com/watch?v=joXb-dLqg_M)
-- [JAY AND SILENT BOB REBOOT Red Band Trailer 2019](https://www.youtube.com/watch?v=l5UJu1BAy8U)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +73,5 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 | Format         | Vinyl LP Album Record Store Day (Green [Weed Green], 180g) |
 | Label          | eOne |
 | Catalog Number | EOM-LP-46214 |
-| Notes | The track duration is not mentioned in the output. Made in U.S.A. including: a movie poster with credits  Hype Sticker:  "RECORD STORE DAY 1ST TIME ON VINYL! 180G WEED GREEN  COLORED EDITION INCLUDES CHRONICON DOWNLOAD CARD" |
+| Notes | The track duration is not mentioned in the output.<br>Made in U.S.A.<br>including: a movie poster with credits<br><br>Hype Sticker:<br><br>"RECORD STORE DAY<br>1ST TIME ON VINYL!<br>180G WEED GREEN <br>COLORED EDITION<br>INCLUDES<br>CHRONICON<br>DOWNLOAD CARD" |
 | Discogs URL    | [Various - Jay & Silent Bob Reboot (Original Motion Picture Soundtrack)](https://www.discogs.com/release/14465350-Various-Jay-Silent-Bob-Reboot-Original-Motion-Picture-Soundtrack) |

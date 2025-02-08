@@ -4,6 +4,7 @@ artist_name: "The Dears"
 artist: "the-dears"
 album_name: "Lovers Rock"
 date: 2022-09-18T04:25:19.000000Z
+release_date: "2020-05-15"
 release_id: "15435885"
 slug: "lovers-rock-15435885"
 hideSummary: true
@@ -30,33 +31,30 @@ Lovers Rock is the eighth studio album by Canadian indie rock band The Dears. It
 The first single from the album, "The Worst in Us", was released on March 13, 2020. The second single "I Know What You're Thinking And It's Awful" was released on May 1, 2020.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Heart Of An Animal
-2. I Know What You're Thinking And It's Awful
-3. Instant Nightmare!
-4. Is This What You Really Want?
-5. The Worst In Us
-6. Stille Lost
-7. No Place On Earth
-8. Play Dead
-9. Too Many Wrongs
-10. We'll Go Into Hiding
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Heart Of An Animal |  |
+| A2 | I Know What You're Thinking And It's Awful |  |
+| A3 | Instant Nightmare! |  |
+| A4 | Is This What You Really Want? |  |
+| A5 | The Worst In Us |  |
+| B1 | Stille Lost |  |
+| B2 | No Place On Earth |  |
+| B3 | Play Dead |  |
+| B4 | Too Many Wrongs |  |
+| B5 | We'll Go Into Hiding |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lovers-rock/1770398744" >}}<br>
 
 
-## Videos
-### The Dears - Instant Nightmare
-{{< youtube id="dJnXiqAo8H4" title="The Dears - Instant Nightmare" >}}<br>
-### More Videos
-
-- [The Dears - Is This What You Really Want](https://www.youtube.com/watch?v=fcWiNJybFUY)
-- [The Dears - Heart On An Animal](https://www.youtube.com/watch?v=vJsjarLVm68)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +66,5 @@ The first single from the album, "The Worst in Us", was released on March 13, 20
 | Format         | Vinyl LP Album Stereo (Silver Metallic) |
 | Label          | Dangerbird Records |
 | Catalog Number | DGB211-1 |
-| Notes | Includes download card.  Certain pre-orders included an autographed print. |
+| Notes | Includes download card.<br><br>Certain pre-orders included an autographed print. |
 | Discogs URL    | [The Dears - Lovers Rock](https://www.discogs.com/release/15435885-The-Dears-Lovers-Rock) |

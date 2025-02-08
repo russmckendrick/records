@@ -4,6 +4,7 @@ artist_name: "Marillion"
 artist: "marillion"
 album_name: "Less Is More"
 date: 2021-07-20T08:57:01.000000Z
+release_date: "2009-10-02"
 release_id: "14876195"
 slug: "less-is-more-14876195"
 hideSummary: true
@@ -32,48 +33,32 @@ styles: ["Prog Rock", "Pop Rock", "Acoustic"]
 Less Is More is an acoustic studio album by Marillion, released on the band's own label on 2 October 2009. A retail version is distributed by Edel Music. The band's 16th studio album, it contains re-arranged songs from the period that Steve Hogarth has been their singer (since 1989) plus the previously unreleased track, "It's Not Your Fault". Despite some positive reviews, the album did not chart in the UK.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Go!
-2. Interior Lulu
-3. Out Of This World
-4. Wrapped Up In Time
-5. The Space
-6. Hard As Love
-7. Quartz
-8. If My Heart Were A Ball
-9. It's Not Your Fault
-10. The Memory Of Water
-11. This Is The 21st Century
-12. Cannibal Surf Babe
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Go! |  |
+| A2 | Interior Lulu |  |
+| A3 | Out Of This World |  |
+| B1 | Wrapped Up In Time |  |
+| B2 | The Space |  |
+| B3 | Hard As Love |  |
+| C1 | Quartz |  |
+| C2 | If My Heart Were A Ball |  |
+| C3 | It's Not Your Fault |  |
+| D1 | The Memory Of Water |  |
+| D2 | This Is The 21st Century |  |
+| D3 | Cannibal Surf Babe |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/less-is-more/331174061" >}}<br>
 
 
-## Videos
-### Less is More - Marillion - Go
-{{< youtube id="5jlEgpDNYlA" title="Less is More - Marillion - Go" >}}<br>
-### More Videos
-
-- [Less is More - Marillion - The Space](https://www.youtube.com/watch?v=fACEhy0W26M)
-- [Out Of This World](https://www.youtube.com/watch?v=xC60rhn4lr8)
-- [Marillion - Out of This World From Less is More CD](https://www.youtube.com/watch?v=N9JZH08-7Qo)
-- [Marillion - Less Is More 2009](https://www.youtube.com/watch?v=JyW569S3Ps8)
-- [Marillion Hard As Love](https://www.youtube.com/watch?v=XDXM0FozBMk)
-- [Less is More - Marillion - If My Heart Were a Ball](https://www.youtube.com/watch?v=S_GQ7lLPyyw)
-- [Less is More - Marillion - Wrapped Up In Time](https://www.youtube.com/watch?v=CH0ejtt2MyY)
-- [Less is More - Marillion - Its Not Your Fault](https://www.youtube.com/watch?v=U41mS19XG2U)
-- [Marillion Less is More](https://www.youtube.com/watch?v=Kv08lllR_WM)
-- [Interior Lulu](https://www.youtube.com/watch?v=nFuIVoX6kaA)
-- [The Space](https://www.youtube.com/watch?v=WUnhNvUgoIs)
-- [Marillion Go from the album less is more](https://www.youtube.com/watch?v=Vtvh7Fwb-s0)
-- [Marillion - This Train Is My Life Less Is More - Live At Cadogan Hall 2009](https://www.youtube.com/watch?v=drM4PIFINsw)
-- [Less is More - Marillion - This Is the 21st Century](https://www.youtube.com/watch?v=dFTrnxIHu0I)
-- [Less is More - Marillion - Out of This World](https://www.youtube.com/watch?v=xKDjK8wavFk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +70,5 @@ Less Is More is an acoustic studio album by Marillion, released on the band's ow
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (White, 180 gram) |
 | Label          | Ear Music |
 | Catalog Number | 0214647EMU |
-| Notes | Gatefold sleeve. - Limited Edition (1000 only) - Printed inner sleeves containing lyrics and credits  Arranged, Re-arranged, Recorded and Mixed at The Racket Club, Buckinghamshire during June, July & August 2009.  ℗ & © 2019 Intact Records under exclusive licence to Edel Germany GmbH. earMUSIC is a Division of Edel Germany GmbH. MADE IN GERMANY  All runouts are stamped, besides all “IΛ“ and  “=Λ“ which are etched.  |
+| Notes | Gatefold sleeve.<br>- Limited Edition (1000 only)<br>- Printed inner sleeves containing lyrics and credits<br><br>Arranged, Re-arranged, Recorded and Mixed at The Racket Club, Buckinghamshire during June, July & August 2009.<br><br>℗ & © 2019 Intact Records under exclusive licence to Edel Germany GmbH. earMUSIC is a Division of Edel Germany GmbH.<br>MADE IN GERMANY<br><br>All runouts are stamped, besides all “IΛ“ and  “=Λ“ which are etched.  |
 | Discogs URL    | [Marillion - Less Is More](https://www.discogs.com/release/14876195-Marillion-Less-Is-More) |

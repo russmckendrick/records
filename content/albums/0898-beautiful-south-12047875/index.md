@@ -4,6 +4,7 @@ artist_name: "The Beautiful South"
 artist: "the-beautiful-south"
 album_name: "0898 Beautiful South"
 date: 2018-05-25T19:12:34.000000Z
+release_date: "1989-10"
 release_id: "12047875"
 slug: "0898-beautiful-south-12047875"
 hideSummary: true
@@ -28,38 +29,32 @@ The album was released in March 1992 by the band's record label Go! Discs. Four 
 The album was a critical success, with reviewers praising its production, lyrics and distinct tone, although some critics recognise the album as being underrated. The album appeared on numerous lists of the best albums of 1992; Vox ranked it 18th, NME ranked it 44th and Robert Christgau placed it 53rd. The album was certified "Gold" by the British Phonographic Industry (BPI) for sales of over 200,000 copies.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Old Red Eyes Is Back (3:35)
-2. We Are Each Other (3:39)
-3. The Rocking Chair (4:43)
-4. We'll Deal With You Later (4:07)
-5. Domino Man (2:40)
-6. 36D (5:16)
-7. Here It Is Again (3:27)
-8. Something That You Said (4:20)
-9. I'm Your No. 1 Fan (4:28)
-10. Bell-Bottomed Tear (4:35)
-11. You Play Glockenspiel, I'll Play Drums (5:06)
-12. When I'm 84 (4:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Old Red Eyes Is Back | 3:35 |
+| A2 | We Are Each Other | 3:39 |
+| A3 | The Rocking Chair | 4:43 |
+| A4 | We'll Deal With You Later | 4:07 |
+| A5 | Domino Man | 2:40 |
+| A6 | 36D | 5:16 |
+| B1 | Here It Is Again | 3:27 |
+| B2 | Something That You Said | 4:20 |
+| B3 | I'm Your No. 1 Fan | 4:28 |
+| B4 | Bell-Bottomed Tear | 4:35 |
+| B5 | You Play Glockenspiel, I'll Play Drums | 5:06 |
+| B6 | When I'm 84 | 4:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/0898-beautiful-south/1442244263" >}}<br>
 
 
-## Videos
-### The Beautiful South - We Are Each Other
-{{< youtube id="oyB7inWkz_g" title="The Beautiful South - We Are Each Other" >}}<br>
-### More Videos
-
-- [Beautiful South Bell Bottomed Tear](https://www.youtube.com/watch?v=viyU-YIkd8s)
-- [The Beautiful South - Old Red Eyes Is Back](https://www.youtube.com/watch?v=ggJYJ9frSl0)
-- [Beautiful South - When Im 84](https://www.youtube.com/watch?v=H4P9uInSFks)
-- [The Beautiful South - Bell Bottomed Tear Live](https://www.youtube.com/watch?v=8EqtpCLUbvM)
-- [Here It Is Again](https://www.youtube.com/watch?v=cfIbFWrqGZ8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +66,5 @@ The album was a critical success, with reviewers praising its production, lyrics
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Go! Discs |
 | Catalog Number | 5743902 |
-| Notes | "2018 Edition".  Issued in a matte sleeve. Picture/ lyric top opening inner sleeve of thin card. Includes a "The Sound Of Vinyl" download voucher. Package came shrink-wrapped.  Runouts are etched. |
+| Notes | "2018 Edition".<br><br>Issued in a matte sleeve.<br>Picture/ lyric top opening inner sleeve of thin card.<br>Includes a "The Sound Of Vinyl" download voucher.<br>Package came shrink-wrapped.<br><br>Runouts are etched. |
 | Discogs URL    | [The Beautiful South - 0898 Beautiful South](https://www.discogs.com/release/12047875-The-Beautiful-South-0898-Beautiful-South) |

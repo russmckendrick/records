@@ -4,6 +4,7 @@ artist_name: "Marillion"
 artist: "marillion"
 album_name: "Fugazi"
 date: 2017-01-25T18:25:24.000000Z
+release_date: "2021-09-10"
 release_id: "4833055"
 slug: "fugazi-4833055"
 hideSummary: true
@@ -26,22 +27,25 @@ Fugazi is the second studio album by the British neo-prog band Marillion, releas
 The album is titled after a military slang term well known at the time of release. According to AllMusic, the album "streamlined the intricacies of the group's prog rock leanings in favour of a more straight-ahead hard rock identity". Built upon the success of its predecessor, Script for a Jester's Tear, Fugazi reached the UK top five and was certified Gold.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Assassing (6:59)
-2. Punch & Judy (3:19)
-3. Jigsaw (6:49)
-4. Emerald Lies (5:13)
-5. She Chameleon (6:49)
-6. Incubus (8:30)
-7. Fugazi (8:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Assassing | 6:59 |
+| A2 | Punch & Judy | 3:19 |
+| A3 | Jigsaw | 6:49 |
+| A4 | Emerald Lies | 5:13 |
+| B1 | She Chameleon | 6:49 |
+| B2 | Incubus | 8:30 |
+| B3 | Fugazi | 8:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fugazi-2021-stereo-remix/1577601656" >}}<br>
-
 
 
 
@@ -55,5 +59,5 @@ The album is titled after a military slang term well known at the time of releas
 | Format         | Vinyl LP Album |
 | Label          | EMI |
 | Catalog Number | EMC 2400851 |
-| Notes | Recorded November - December 1983, January - February 1984 at Manor Studio, Sarm East, Eel Pie and Maison Rouge Studios.    The sleeve and label are misprinted and list the tracks shown the tracklisting section below.  The record actually has:  B1 - Incubus   B2 - She Chameleon    Gatefold full laminated sleeve with lyrics.  Original Inner sleeve is Black    This version has the black text on the back in the top rght corner for the cassette catalogue number. EMI RECORDS LTD text is printed in white.    Centre labels are black with silver text. There is no EMI logo. |
+| Notes | Recorded November - December 1983, January - February 1984 at Manor Studio, Sarm East, Eel Pie and Maison Rouge Studios.<br><br>The sleeve and label are misprinted and list the tracks shown the tracklisting section below.  The record actually has:<br>B1 - Incubus <br>B2 - She Chameleon<br><br>Gatefold full laminated sleeve with lyrics.<br>Original Inner sleeve is Black<br><br>This version has the black text on the back in the top rght corner for the cassette catalogue number. EMI RECORDS LTD text is printed in white.<br><br>Centre labels are black with silver text. There is no EMI logo. |
 | Discogs URL    | [Marillion - Fugazi](https://www.discogs.com/release/4833055-Marillion-Fugazi) |

@@ -4,6 +4,7 @@ artist_name: "The Stranglers"
 artist: "the-stranglers"
 album_name: "Peaches: The Very Best Of The Stranglers"
 date: 2020-11-27T17:46:06.000000Z
+release_date: "2002-06-10"
 release_id: "16274027"
 slug: "peaches-the-very-best-of-the-stranglers-16274027"
 hideSummary: true
@@ -27,52 +28,40 @@ styles: ["Alternative Rock", "New Wave", "Pop Rock", "Punk"]
 Peaches: The Very Best of The Stranglers is a compilation album by The Stranglers, released in 2002 by EMI. It reached No. 21 in the UK Albums Chart in June 2002.
 The album cover was designed by design4music who would design a similar cover for the compilation The Best Bands...Ever! several months later.
 On 27 November 2020, the compilation was released on vinyl for the first time as a double-LP set through Parlophone.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Peaches
-2. Golden Brown
-3. Walk On By
-4. No More Heroes
-5. Skin Deep
-6. Hanging Around
-7. All Day And All Of The Night
-8. Straighten Out
-9. Nice 'N' Sleazy
-10. Strange Little Girl
-11. Who Wants The World
-12. Something Better Change
-13. Always The Sun (Sunny Side Up Mix)
-14. European Female
-15. Grip '89 (Get A) Grip (On Yourself)
-16. Duchess
-17. 5 Minutes
-18. Don't Bring Harry
-19. La Folie
-20. 96 Tears
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Peaches |  |
+| A2 | Golden Brown |  |
+| A3 | Walk On By |  |
+| A4 | No More Heroes |  |
+| A5 | Skin Deep |  |
+| B1 | Hanging Around |  |
+| B2 | All Day And All Of The Night |  |
+| B3 | Straighten Out |  |
+| B4 | Nice 'N' Sleazy |  |
+| B5 | Strange Little Girl |  |
+| B6 | Who Wants The World |  |
+| C1 | Something Better Change |  |
+| C2 | Always The Sun (Sunny Side Up Mix) |  |
+| C3 | European Female |  |
+| C4 | Grip '89 (Get A) Grip (On Yourself) |  |
+| C5 | Duchess |  |
+| D1 | 5 Minutes |  |
+| D2 | Don't Bring Harry |  |
+| D3 | La Folie |  |
+| D4 | 96 Tears |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peaches-the-very-best-of-the-stranglers/697424566" >}}<br>
 
 
-## Videos
-### Peaches
-{{< youtube id="FQVKFvb_nK0" title="Peaches" >}}<br>
-### More Videos
-
-- [Get A Grip On Yourself Grip 89 Remix](https://www.youtube.com/watch?v=ckbONnCzZlU)
-- [Always The Sun Sunny Side Up Mix](https://www.youtube.com/watch?v=eWyuoNkdBDQ)
-- [The Stranglers - Strange Little Girl TOTP 1982](https://www.youtube.com/watch?v=k3CAuhVxVW8)
-- [The Stranglers La Folie TV recording 1982](https://www.youtube.com/watch?v=YAiL10FWN30)
-- [Stranglers - Always the Sun 1986](https://www.youtube.com/watch?v=FKukR0lbRgI)
-- [Peaches](https://www.youtube.com/watch?v=FQVKFvb_nK0)
-- [Get A Grip On Yourself Grip 89 Remix](https://www.youtube.com/watch?v=ckbONnCzZlU)
-- [Always The Sun Sunny Side Up Mix](https://www.youtube.com/watch?v=eWyuoNkdBDQ)
-- [The Stranglers - Strange Little Girl TOTP 1982](https://www.youtube.com/watch?v=k3CAuhVxVW8)
-- [The Stranglers La Folie TV recording 1982](https://www.youtube.com/watch?v=YAiL10FWN30)
-- [Stranglers - Always the Sun 1986](https://www.youtube.com/watch?v=FKukR0lbRgI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +73,5 @@ On 27 November 2020, the compilation was released on vinyl for the first time as
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue (Gatefold) |
 | Label          | Parlophone |
 | Catalog Number | 0190295187149 |
-| Notes | Hype Sticker on front: THE VERY BEST OF  the stranglers 2 LP SET ON VINYL FOR THE FIRST TIME 0190295187149  In the US: Limited 1,500 copies  RSD 2020 Black friday RSD First Release  In the UK this was a standard Friday release [Not RSD, NOT a Limited Edition] |
+| Notes | Hype Sticker on front:<br>THE VERY BEST OF <br>the stranglers<br>2 LP SET ON VINYL<br>FOR THE FIRST<br>TIME<br>0190295187149<br><br>In the US:<br>Limited 1,500 copies <br>RSD 2020 Black friday<br>RSD First Release<br><br>In the UK this was a standard Friday release [Not RSD, NOT a Limited Edition] |
 | Discogs URL    | [The Stranglers - Peaches: The Very Best Of The Stranglers](https://www.discogs.com/release/16274027-The-Stranglers-Peaches-The-Very-Best-Of-The-Stranglers) |

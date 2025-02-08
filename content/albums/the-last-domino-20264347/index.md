@@ -4,6 +4,7 @@ artist_name: "Genesis"
 artist: "genesis"
 album_name: "The Last Domino?"
 date: 2021-09-17T06:09:19.000000Z
+release_date: "2021-11-19"
 release_id: "20264347"
 slug: "the-last-domino-20264347"
 hideSummary: true
@@ -40,46 +41,46 @@ styles: ["Pop Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Dukes End
-2. Turn It On Again
-3. Mama
-4. Land Of Confusion
-5. Home By The Sea
-6. Second Home By The Sea
-7. Fading Lights
-8. The Cinema Show
-9. Afterglow
-10. Hold On My Heart
-11. Jesus He Knows Me
-12. That's All
-13. The Lamb Lies Down On Broadway
-14. In Too Deep
-15. Follow You Follow Me
-16. Duchess
-17. No Son Of Mine
-18. Firth Of Fifth
-19. I Know What I Like
-20. Domino
-21. Throwing It All Away
-22. Tonight, Tonight, Tonight
-23. Invisible Touch
-24. I Can't Dance
-25. Dancing With The Moonlit Knight
-26. Carpet Crawlers
-27. Abacab
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dukes End |  |
+| A2 | Turn It On Again |  |
+| A3 | Mama |  |
+| A4 | Land Of Confusion |  |
+| B1 | Home By The Sea |  |
+| B2 | Second Home By The Sea |  |
+| B3 | Fading Lights |  |
+| C1 | The Cinema Show |  |
+| C2 | Afterglow |  |
+| C3 | Hold On My Heart |  |
+| D1 | Jesus He Knows Me |  |
+| D2 | That's All |  |
+| D3 | The Lamb Lies Down On Broadway |  |
+| D4 | In Too Deep |  |
+| D5 | Follow You Follow Me |  |
+| E1 | Duchess |  |
+| E2 | No Son Of Mine |  |
+| E3 | Firth Of Fifth |  |
+| F1 | I Know What I Like |  |
+| F2 | Domino |  |
+| F3 | Throwing It All Away |  |
+| G1 | Tonight, Tonight, Tonight |  |
+| G2 | Invisible Touch |  |
+| G3 | I Can't Dance |  |
+| H1 | Dancing With The Moonlit Knight |  |
+| H2 | Carpet Crawlers |  |
+| H3 | Abacab |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-last-domino/1580766705" >}}<br>
 
 
-## Videos
-### Genesis - The Last Domino - The Hits 2021
-{{< youtube id="7ghJJ70x0Lo" title="Genesis - The Last Domino - The Hits 2021" >}}<br>
-### More Videos
-
-- [Genesis - The Last Domino - The Hits 2021](https://www.youtube.com/watch?v=7ghJJ70x0Lo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -90,5 +91,5 @@ styles: ["Pop Rock", "Prog Rock"]
 | Format         | Vinyl 4× LP Compilation Limited Edition (180 gram) |
 | Label          | Virgin |
 | Catalog Number | 3542867 |
-| Notes | This Compilation ℗ & © 2021 Gelring Ltd, Anthony Banks Ltd, Philip Collins Ltd, Michael Rutherford Ltd, under exclusive license to EMI Records Ltd. Made in Germany. Universal International Music B.V.  Double Gatefold book format Comes with a download code. |
+| Notes | This Compilation ℗ & © 2021 Gelring Ltd, Anthony Banks Ltd, Philip Collins Ltd, Michael Rutherford Ltd, under exclusive license to EMI Records Ltd.<br>Made in Germany. Universal International Music B.V.<br><br>Double Gatefold book format<br>Comes with a download code. |
 | Discogs URL    | [Genesis - The Last Domino?](https://www.discogs.com/release/20264347-Genesis-The-Last-Domino) |

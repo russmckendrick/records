@@ -4,6 +4,7 @@ artist_name: "Gary Numan"
 artist: "gary-numan"
 album_name: "The Pleasure Principle"
 date: 2016-12-08T18:38:02.000000Z
+release_date: "2010-10-18"
 release_id: "7654481"
 slug: "the-pleasure-principle-7654481"
 hideSummary: true
@@ -24,43 +25,30 @@ styles: ["New Wave", "Synth-pop"]
 ---
 
 The Pleasure Principle is the debut solo studio album by the English new wave musician Gary Numan, released on 7 September 1979 by Beggars Banquet Records. The album came about six months after Replicas (1979), his second and final studio album with the band Tubeway Army. The Pleasure Principle peaked at No. 1 on the UK Albums Chart.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Airlane
-2. Metal
-3. Complex
-4. Films
-5. M.E.
-6. Tracks
-7. Observer
-8. Conversation
-9. Cars
-10. Engineers
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Airlane |  |
+| A2 | Metal |  |
+| A3 | Complex |  |
+| A4 | Films |  |
+| A5 | M.E. |  |
+| B1 | Tracks |  |
+| B2 | Observer |  |
+| B3 | Conversation |  |
+| B4 | Cars |  |
+| B5 | Engineers |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-pleasure-principle-live/404842205" >}}<br>
 
 
-## Videos
-### Gary Numan - Cars HD
-{{< youtube id="Im3JzxlatUs" title="Gary Numan - Cars HD" >}}<br>
-### More Videos
-
-- [Airlane Remastered 2009](https://www.youtube.com/watch?v=4Kv0yLg4LBQ)
-- [Metal Remastered 2009](https://www.youtube.com/watch?v=ZmZ6_tbLgXM)
-- [Complex](https://www.youtube.com/watch?v=QKAb_J_NGyQ)
-- [Films Remastered 2009](https://www.youtube.com/watch?v=6HbIGk6zH_k)
-- [ME Remastered 2009](https://www.youtube.com/watch?v=-C_ijHitM-Q)
-- [Tracks Remastered 2009](https://www.youtube.com/watch?v=uTgDYuOmUW0)
-- [Observer Remastered 2009](https://www.youtube.com/watch?v=iOwiOhBusgs)
-- [Conversation Remastered 2009](https://www.youtube.com/watch?v=7_kIjBaxhO0)
-- [Cars Remastered 2009](https://www.youtube.com/watch?v=LrjM8Fi7J58)
-- [Engineers Remastered 2009](https://www.youtube.com/watch?v=qW2DML0OCOM)
-- [Gary Numans The Pleasure Principle - No Chords Allowed](https://www.youtube.com/watch?v=sroBbbiBbi4)
-- [Airlane Remastered 2009](https://www.youtube.com/watch?v=4Kv0yLg4LBQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +60,5 @@ The Pleasure Principle is the debut solo studio album by the English new wave mu
 | Format         | Vinyl LP Album Reissue |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 10 |
-| Notes | This one pressed by MPO, also there is another version of this reissue pressed by GZ Media - [r17011476]  Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.  ℗ 1979 Beggars Banquet © 2015 Beggars Banquet  Recorded At Marcus Music AB London |
+| Notes | This one pressed by MPO, also there is another version of this reissue pressed by GZ Media - [r17011476]<br><br>Record housed in a single jacket.  Mastered From HD Digital 96/24 Transfers Of Analogue Tapes.<br><br>℗ 1979 Beggars Banquet<br>© 2015 Beggars Banquet<br><br>Recorded At Marcus Music AB London |
 | Discogs URL    | [Gary Numan - The Pleasure Principle](https://www.discogs.com/release/7654481-Gary-Numan-The-Pleasure-Principle) |

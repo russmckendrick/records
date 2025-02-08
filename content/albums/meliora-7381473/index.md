@@ -1,9 +1,10 @@
 ---
 title: "Ghost - Meliora"
 artist_name: "Ghost"
-artist: "ghost-32"
+artist: "ghost"
 album_name: "Meliora"
 date: 2018-09-16T10:49:21.000000Z
+release_date: "2015-01-01"
 release_id: "7381473"
 slug: "meliora-7381473"
 hideSummary: true
@@ -40,36 +41,30 @@ styles: ["Hard Rock", "Heavy Metal"]
 Meliora (Latin for "better things", and not as the band says "the pursuit of something better") is the third studio album by Swedish rock band Ghost. The album was produced by Klas Åhlund and released on August 21, 2015. The album was generally well received, placing on several music publications' lists of the best heavy metal albums of the year and winning Best Hard Rock/Metal Album at the 2015 Grammis Awards. Lead single "Cirice" won the 2016 Grammy Award for Best Metal Performance. In September 2016, the band released a special edition of the album, called Meliora Redux.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Spirit (5:15)
-2. From The Pinnacle To The Pit (4:02)
-3. Cirice (6:02)
-4. Spöksonat (0:56)
-5. He Is (4:13)
-6. Mummy Dust (4:07)
-7. Majesty (5:24)
-8. Devil Church (1:06)
-9. Absolution (4:50)
-10. Deus In Absentia (5:37)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Spirit | 5:15 |
+| A2 | From The Pinnacle To The Pit | 4:02 |
+| A3 | Cirice | 6:02 |
+| A4 | Spöksonat | 0:56 |
+| A5 | He Is | 4:13 |
+| B1 | Mummy Dust | 4:07 |
+| B2 | Majesty | 5:24 |
+| B3 | Devil Church | 1:06 |
+| B4 | Absolution | 4:50 |
+| B5 | Deus In Absentia | 5:37 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/meliora/1440946674" >}}<br>
 
 
-## Videos
-### Ghost - From The Pinnacle To The Pit Official Music Video
-{{< youtube id="6A-IoOEPbUs" title="Ghost - From The Pinnacle To The Pit Official Music Video" >}}<br>
-### More Videos
-
-- [Ghost - Cirice Official Music Video](https://www.youtube.com/watch?v=-0Ao4t_fe0I)
-- [Ghost - He Is Music Video](https://www.youtube.com/watch?v=7hMaHDTw-pI)
-- [Ghost - Square Hammer Official Music Video](https://www.youtube.com/watch?v=VqoyKzgkqR4)
-- [Ghost - Majesty](https://www.youtube.com/watch?v=qS5-QmkKzJQ)
-- [Spirit](https://www.youtube.com/watch?v=_gSsp7vasSA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +76,5 @@ Meliora (Latin for "better things", and not as the band says "the pursuit of som
 | Format         | Vinyl LP Album |
 | Label          | Spinefarm Records |
 | Catalog Number | SPINE237751 |
-| Notes | ℗ & © Seven Four Entertainment, LLC and Concord Music Group d/b/a Loma Vista Recordings. Issued under license to Spinefarm Records.   Issued with a printed inner sleeve with lyrics and photo and a 16-page booklet.   Runouts are etched and stamped     |
+| Notes | ℗ & © Seven Four Entertainment, LLC and Concord Music Group d/b/a Loma Vista Recordings. Issued under license to Spinefarm Records. <br><br>Issued with a printed inner sleeve with lyrics and photo and a 16-page booklet. <br><br>Runouts are etched and stamped<br><br><br><br> |
 | Discogs URL    | [Ghost - Meliora](https://www.discogs.com/release/7381473-Ghost-32-Meliora) |

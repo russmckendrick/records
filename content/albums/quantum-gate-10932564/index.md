@@ -4,6 +4,7 @@ artist_name: "Tangerine Dream"
 artist: "tangerine-dream"
 album_name: "Quantum Gate"
 date: 2017-10-28T15:49:14.000000Z
+release_date: "2017-09-29"
 release_id: "10932564"
 slug: "quantum-gate-10932564"
 hideSummary: true
@@ -26,28 +27,28 @@ Quantum Gate (2017) is roughly the 150th release and roughly 30th main studio al
 This album earned the group the most press they have had since the release of 1988's Optical Race due to the revived interest in the group following Froese's death.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Sensing Elements
-2. Roll The Seven Twice
-3. Identity Proven Matrix
-4. Tear Down The Grey Skies
-5. Proton Bonfire
-6. It Is Time To Leave When Everyone Is Dancing
-7. Non-Locality Destination
-8. Genesis Of Precious Thoughts
-9. Granular Blankets
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sensing Elements |  |
+| A2 | Roll The Seven Twice |  |
+| B1 | Identity Proven Matrix |  |
+| B2 | Tear Down The Grey Skies |  |
+| B3 | Proton Bonfire |  |
+| C1 | It Is Time To Leave When Everyone Is Dancing |  |
+| C2 | Non-Locality Destination |  |
+| D1 | Genesis Of Precious Thoughts |  |
+| D2 | Granular Blankets |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/quantum-gate/1275652998" >}}<br>
 
-
-## Videos
-### Tangerine Dream - Quantum Gate CD Album 2017 Eastgate CD Unboxing
-{{< youtube id="BqYmF2lA7MI" title="Tangerine Dream - Quantum Gate CD Album 2017 Eastgate CD Unboxing" >}}<br>
 
 
 ## Release Images

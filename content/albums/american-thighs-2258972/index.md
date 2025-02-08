@@ -4,6 +4,7 @@ artist_name: "Veruca Salt"
 artist: "veruca-salt"
 album_name: "American Thighs"
 date: 2020-01-03T18:30:41.000000Z
+release_date: "1994-09-27"
 release_id: "2258972"
 slug: "american-thighs-2258972"
 hideSummary: true
@@ -25,45 +26,32 @@ styles: ["Alternative Rock"]
 ---
 
 American Thighs is the 1994 debut studio album by American alternative rock band Veruca Salt. The album features the single "Seether".
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Get Back (3:13)
-2. All Hail Me (3:05)
-3. Seether (3:16)
-4. Spiderman '79 (5:16)
-5. Forsythia (4:44)
-6. Wolf (4:19)
-7. Celebrate You (4:20)
-8. Fly (3:38)
-9. Number One Blind (3:44)
-10. Victrola (2:18)
-11. Twinstar (3:16)
-12. 25 (7:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Get Back | 3:13 |
+| A2 | All Hail Me | 3:05 |
+| A3 | Seether | 3:16 |
+| A4 | Spiderman '79 | 5:16 |
+| A5 | Forsythia | 4:44 |
+| A6 | Wolf | 4:19 |
+| B1 | Celebrate You | 4:20 |
+| B2 | Fly | 3:38 |
+| B3 | Number One Blind | 3:44 |
+| B4 | Victrola | 2:18 |
+| B5 | Twinstar | 3:16 |
+| B6 | 25 | 7:56 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/american-thighs/265134156" >}}<br>
 
 
-## Videos
-### Get Back
-{{< youtube id="0uyWZEkfXrg" title="Get Back" >}}<br>
-### More Videos
-
-- [Veruca Salt - All Hail Me](https://www.youtube.com/watch?v=ogxHkOeUfYM)
-- [Veruca Salt - Seether](https://www.youtube.com/watch?v=4YrK1Rq7AKk)
-- [Spiderman 79](https://www.youtube.com/watch?v=rX3P09KyxXg)
-- [Forsythia](https://www.youtube.com/watch?v=hBglB1efgTM)
-- [Wolf](https://www.youtube.com/watch?v=lwmAtCxIiv4)
-- [Celebrate You](https://www.youtube.com/watch?v=-NCRTidV9gE)
-- [Fly](https://www.youtube.com/watch?v=xkvGsRrNLxk)
-- [Veruca Salt - Number One Blind](https://www.youtube.com/watch?v=tGAfZiERrcs)
-- [Victrola](https://www.youtube.com/watch?v=TxsSAFzfXqE)
-- [Twinstar](https://www.youtube.com/watch?v=cOJYYsjCvoQ)
-- [25](https://www.youtube.com/watch?v=ZdN5FiO8NPE)
-- [Sleeping Where I Want](https://www.youtube.com/watch?v=MMs86-JbM54)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "The Utopia Strong"
 artist: "the-utopia-strong"
 album_name: "International Treasure"
 date: 2022-08-01T06:03:04.000000Z
+release_date: "2022-06-10"
 release_id: "24010643"
 slug: "international-treasure-24010643"
 hideSummary: true
@@ -24,30 +25,28 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Trident Of Fire (3:07)
-2. Persephone Sleeps (3:32)
-3. Shepherdess (7:18)
-4. Spirits From The Deep (3:09)
-5. The Islanders (2:27)
-6. Disaster 2 (2:33)
-7. Revelations (6:00)
-8. International Treasure (7:32)
-9. Castalia (5:01)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Trident Of Fire | 3:07 |
+| A2 | Persephone Sleeps | 3:32 |
+| A3 | Shepherdess | 7:18 |
+| A4 | Spirits From The Deep | 3:09 |
+| A5 | The Islanders | 2:27 |
+| A6 | Disaster 2 | 2:33 |
+| B1 | Revelations | 6:00 |
+| B2 | International Treasure | 7:32 |
+| B3 | Castalia | 5:01 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/international-treasure/1614462986" >}}<br>
 
 
-## Videos
-### Trident of Fire
-{{< youtube id="xvIHA2Zek3U" title="Trident of Fire" >}}<br>
-### More Videos
-
-- [Persephone Sleeps](https://www.youtube.com/watch?v=kwlerJ1u7Vk)
-- [The Utopia Strong  Shepherdess](https://www.youtube.com/watch?v=UIiT8klA_-U)
-- [The Utopia Strong  Castalia](https://www.youtube.com/watch?v=30Zm659bGJM)
 
 ## Release Images
 {{< imageGrid >}}

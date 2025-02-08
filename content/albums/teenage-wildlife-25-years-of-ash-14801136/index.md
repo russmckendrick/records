@@ -4,6 +4,7 @@ artist_name: "Ash"
 artist: "ash"
 album_name: "Teenage Wildlife: 25 Years Of Ash"
 date: 2020-02-16T15:23:32.000000Z
+release_date: "2020-02-14"
 release_id: "14801136"
 slug: "teenage-wildlife-25-years-of-ash-14801136"
 hideSummary: true
@@ -29,34 +30,39 @@ styles: ["Alternative Rock", "Britpop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. A Life Less Ordinary
-2. Arcadia
-3. Darkest Hour Of The Night
-4. Kung Fu
-5. Cocoon
-6. You Can't Have It All
-7. Girl From Mars
-8. Wildsurf
-9. Shining Light
-10. Starcrossed
-11. Buzzkill
-12. Goldfinger
-13. Burn Baby Burn
-14. Dare To Dream
-15. Annabel
-16. Machinery
-17. Sometimes
-18. Oh Yeah
-19. Angel Interceptor
-20. Jesus Says
-21. Orpheus
-22. Jack Names The Planets
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | A Life Less Ordinary |  |
+| A2 | Arcadia |  |
+| A3 | Darkest Hour Of The Night |  |
+| A4 | Kung Fu |  |
+| A5 | Cocoon |  |
+| A6 | You Can't Have It All |  |
+| B1 | Girl From Mars |  |
+| B2 | Wildsurf |  |
+| B3 | Shining Light |  |
+| B4 | Starcrossed |  |
+| B5 | Buzzkill |  |
+| B6 | Goldfinger |  |
+| C1 | Burn Baby Burn |  |
+| C2 | Dare To Dream |  |
+| C3 | Annabel |  |
+| C4 | Machinery |  |
+| C5 | Sometimes |  |
+| D1 | Oh Yeah |  |
+| D2 | Angel Interceptor |  |
+| D3 | Jesus Says |  |
+| D4 | Orpheus |  |
+| D5 | Jack Names The Planets |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/teenage-wildlife-25-years-of-ash/1494053455" >}}<br>
-
 
 
 
@@ -69,5 +75,5 @@ styles: ["Alternative Rock", "Britpop"]
 | Format         | Vinyl 2× LP Compilation |
 | Label          | BMG |
 | Catalog Number | BMGCAT425DLP |
-| Notes | 2LP set  Manufactured in the E.U.  Initial copies available via recordstore.co.uk were signed by the band. |
+| Notes | 2LP set<br><br>Manufactured in the E.U.<br><br>Initial copies available via recordstore.co.uk were signed by the band. |
 | Discogs URL    | [Ash - Teenage Wildlife: 25 Years Of Ash](https://www.discogs.com/release/14801136-Ash-Teenage-Wildlife-25-Years-Of-Ash) |

@@ -36,42 +36,24 @@ And because Bon Jovi is, at heart, a pop band, the group pulls it all together w
 
 
 ## Tracklisting
-1. Let It Rock (5:25)
-2. You Give Love A Bad Name (3:53)
-3. Livin' On A Prayer (4:12)
-4. Social Disease (4:17)
-5. Wanted Dead Or Alive (5:07)
-6. Raise Your Hands (4:17)
-7. Without Love (3:32)
-8. I'd Die For You (4:31)
-9. Never Say Goodbye (4:48)
-10. Wild In The Streets (3:52)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Let It Rock | 5:25 |
+| A2 | You Give Love A Bad Name | 3:53 |
+| A3 | Livin' On A Prayer | 4:12 |
+| A4 | Social Disease | 4:17 |
+| A5 | Wanted Dead Or Alive | 5:07 |
+| B1 | Raise Your Hands | 4:17 |
+| B2 | Without Love | 3:32 |
+| B3 | I'd Die For You | 4:31 |
+| B4 | Never Say Goodbye | 4:48 |
+| B5 | Wild In The Streets | 3:52 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/slippery-when-wet/1422954626" >}}<br>
 
 
-## Videos
-### Bon Jovi - Slippery When Wet LP Full Album
-{{< youtube id="kdOYqANso8Y" title="Bon Jovi - Slippery When Wet LP Full Album" >}}<br>
-### More Videos
-
-- [Bon Jovi - Slippery When Wet LP Full Album](https://www.youtube.com/watch?v=kdOYqANso8Y)
-- [Bon Jovi - Slippery When Wet Vinyl 1986](https://www.youtube.com/watch?v=rK1W34AU6jk)
-- [Bon Jovi - You Give Love A Bad Name Official Music Video](https://www.youtube.com/watch?v=KrZHPOeOxQQ)
-- [Bon Jovi - Livin On A Prayer](https://www.youtube.com/watch?v=lDK9QqIzhwk)
-- [Bon Jovi - Wanted Dead Or Alive Official Music Video](https://www.youtube.com/watch?v=SRvCvsRp5ho)
-- [Bon Jovi - Never Say Goodbye Official Music Video](https://www.youtube.com/watch?v=ifm00JEjSeo)
-- [Let It Rock](https://www.youtube.com/watch?v=akcV2spfXFw)
-- [You Give Love A Bad Name](https://www.youtube.com/watch?v=Aqc3VTpz9HQ)
-- [Livin On A Prayer](https://www.youtube.com/watch?v=YBdyc1WDlBQ)
-- [Social Disease](https://www.youtube.com/watch?v=7Wd8BxMW6Bs)
-- [Wanted Dead Or Alive](https://www.youtube.com/watch?v=xNRaDavYo1M)
-- [Raise Your Hands](https://www.youtube.com/watch?v=cLD1rWuH1JA)
-- [Without Love](https://www.youtube.com/watch?v=RCf-yONuO5Q)
-- [Id Die For You](https://www.youtube.com/watch?v=zmsFcnw3yzk)
-- [Never Say Goodbye](https://www.youtube.com/watch?v=IDCFX5NShlE)
-- [Wild In The Streets](https://www.youtube.com/watch?v=M_CnBodzVic)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +65,5 @@ And because Bon Jovi is, at heart, a pop band, the group pulls it all together w
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 06025 470 292-1 (8) |
-| Notes | Comes with a lyric inner sleeve and includes a download coupon. The sticker on the front of the shrink-wrap may vary.  The inner sleeve has different durations to the labels for all tracks except B4: - A1: 5:27 - A2: 3:42 - A3: 4:09 - A4: 4:18 - A5: 5:08 - B1 4:16 - B2: 3:30 - B3: 4:30 - B5: 3:54  [Back cover and labels] ℗© 2016 Mercury Records, a division of UMG Recordings, Inc. Made in the EU.  [Inner sleeve] Recorded at Little Mountain, Vancouver, B.C. Mastered by: Ryan Smith at Sterling Sound, New York © 2016 Mercury Records, a division of UMG Recordings, Inc. |
+| Notes | Comes with a lyric inner sleeve and includes a download coupon. The sticker on the front of the shrink-wrap may vary.<br><br>The inner sleeve has different durations to the labels for all tracks except B4:<br>- A1: 5:27<br>- A2: 3:42<br>- A3: 4:09<br>- A4: 4:18<br>- A5: 5:08<br>- B1 4:16<br>- B2: 3:30<br>- B3: 4:30<br>- B5: 3:54<br><br>[Back cover and labels]<br>℗© 2016 Mercury Records, a division of UMG Recordings, Inc.<br>Made in the EU.<br><br>[Inner sleeve]<br>Recorded at Little Mountain, Vancouver, B.C.<br>Mastered by: Ryan Smith at Sterling Sound, New York<br>© 2016 Mercury Records, a division of UMG Recordings, Inc. |
 | Discogs URL    | [Bon Jovi - Slippery When Wet](https://www.discogs.com/release/9307146-Bon-Jovi-Slippery-When-Wet) |

@@ -34,27 +34,23 @@ Much to Eddie’s consternation, the band’s cover of The Kinks’ “You Reall
 
 
 ## Tracklisting
-1. 1984
-2. Jump
-3. Panama
-4. Top Jimmy
-5. Drop Dead Legs
-6. Hot For Teacher
-7. I'll Wait
-8. Girl Gone Bad
-9. House Of Pain
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 1984 |  |
+| A2 | Jump |  |
+| A3 | Panama |  |
+| A4 | Top Jimmy |  |
+| A5 | Drop Dead Legs |  |
+| B1 | Hot For Teacher |  |
+| B2 | I'll Wait |  |
+| B3 | Girl Gone Bad |  |
+| B4 | House Of Pain |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/van-halen/976820530" >}}<br>
 
 
-## Videos
-### Van Halen - Jump Official Music Video
-{{< youtube id="SwYN7mTi6HM" title="Van Halen - Jump Official Music Video" >}}<br>
-### More Videos
-
-- [Van Halen - Panama Official Music Video](https://www.youtube.com/watch?v=fuKDBPw8wQA)
-- [Van Halen - Hot For Teacher Official Music Video](https://www.youtube.com/watch?v=6M4_Ommfvv0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +62,5 @@ Much to Eddie’s consternation, the band’s cover of The Kinks’ “You Reall
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122-79792-3 |
-| Notes | Released through Rhino Records. Like most Rhino reissues - Rhino pressed both an EU version and a US version [r2631093]. This is the EU pressing.    Judging from the matrix nos, plating was done at Record Technology Incorporated(19512) and EU version pressed by Optimal.    Sticker On Front   180-Gram   Cut From The Original Analog Master Tapes   Packaging Replicated To The Finest Detail   Pressed With More Care Than Ever   |
+| Notes | Released through Rhino Records. Like most Rhino reissues - Rhino pressed both an EU version and a US version [r2631093]. This is the EU pressing.<br><br>Judging from the matrix nos, plating was done at Record Technology Incorporated(19512) and EU version pressed by Optimal.<br><br>Sticker On Front <br>180-Gram <br>Cut From The Original Analog Master Tapes <br>Packaging Replicated To The Finest Detail <br>Pressed With More Care Than Ever<br> |
 | Discogs URL    | [Van Halen - 1984](https://www.discogs.com/release/3520929-Van-Halen-1984) |

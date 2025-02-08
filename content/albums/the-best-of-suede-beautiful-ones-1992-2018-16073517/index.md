@@ -4,6 +4,7 @@ artist_name: "Suede"
 artist: "suede"
 album_name: "The Best Of Suede. Beautiful Ones. 1992-2018"
 date: 2020-10-31T13:57:39.000000Z
+release_date: "2020-10-09"
 release_id: "16073517"
 slug: "the-best-of-suede-beautiful-ones-1992-2018-16073517"
 hideSummary: true
@@ -30,33 +31,38 @@ styles: ["Indie Rock", "Britpop", "Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Drowners
-2. Metal Mickey
-3. Animal Nitrate
-4. So Young
-5. Stay Together
-6. We Are The Pigs
-7. The Wild Ones
-8. New Generation 
-9. Trash
-10. Beautiful Ones
-11. Saturday Night
-12. Filmstar
-13. She's In Fashion
-14. Everything Will Flow
-15. Can't Get Enough
-16. Obsessions
-17. It Starts And Ends With You
-18. For The Strangers
-19. Outsiders
-20. The Invisibles
-21. Life Is Golden
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Drowners |  |
+| A2 | Metal Mickey |  |
+| A3 | Animal Nitrate |  |
+| A4 | So Young |  |
+| A5 | Stay Together |  |
+| A6 | We Are The Pigs |  |
+| B1 | The Wild Ones |  |
+| B2 | New Generation  |  |
+| B3 | Trash |  |
+| B4 | Beautiful Ones |  |
+| B5 | Saturday Night |  |
+| C1 | Filmstar |  |
+| C2 | She's In Fashion |  |
+| C3 | Everything Will Flow |  |
+| C4 | Can't Get Enough |  |
+| C5 | Obsessions |  |
+| D1 | It Starts And Ends With You |  |
+| D2 | For The Strangers |  |
+| D3 | Outsiders |  |
+| D4 | The Invisibles |  |
+| D5 | Life Is Golden |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/beautiful-ones-the-best-of-suede-1992-2018/1528165185" >}}<br>
-
 
 
 

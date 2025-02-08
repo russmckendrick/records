@@ -4,6 +4,7 @@ artist_name: "Pop Will Eat Itself"
 artist: "pop-will-eat-itself"
 album_name: "92° F / The Incredible PWEI Vs Dirty Harry"
 date: 2018-02-15T19:24:32.000000Z
+release_date: ""
 release_id: "99641"
 slug: "92-f-the-incredible-pwei-vs-dirty-harry-99641"
 hideSummary: true
@@ -23,23 +24,22 @@ styles: ["Leftfield", "Acid House", "Industrial", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. 92° (Boilerhouse 'The Birth, The Death' Mix)
-2. The Incredible PWEI Vs Dirty Harry
-3. 92° (Boilerhouse 'The Birth' Mix)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | 92° (Boilerhouse 'The Birth, The Death' Mix) |  |
+| B1 | The Incredible PWEI Vs Dirty Harry |  |
+| B2 | 92° (Boilerhouse 'The Birth' Mix) |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### POP WILL EAT ITSELF - ANOTHER MANS RHUBARB GOOD VIBES REMIX 1991
-{{< youtube id="dYC2etFfcMQ" title="POP WILL EAT ITSELF - ANOTHER MANS RHUBARB GOOD VIBES REMIX 1991" >}}<br>
-### More Videos
 
-- [PWEI Pop Will Eat Itself 92 Degrees Original Version Very Metal Noise Pollution EP](https://www.youtube.com/watch?v=AKa1OenSae0)
-- [PWEI - 92f the 3rd degree](https://www.youtube.com/watch?v=a8E9haQXTQw)
-- [The Incredible PWEI Vs Dirty Harry by Pop Will Eat Itself](https://www.youtube.com/watch?v=A2xYHBeM-5M)
-- [POP WILL EAT ITSELF - 92oF BOILERHOUSE THE BIRTH THE DEATH THE ROMANCE REMIX 1991](https://www.youtube.com/watch?v=gBZTIBtT8IY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -50,5 +50,5 @@ styles: ["Leftfield", "Acid House", "Industrial", "Indie Rock"]
 | Format         | Vinyl 12" 45 RPM Single |
 | Label          | RCA |
 | Catalog Number | PT44556 |
-| Notes | Contains exclusive PWEI stencil.  Originally Production by Flood courtesy of 140 dB  A, B2: BMG Music Publishing Ltd Produced for The Boilerhouse  B1: Warner Chappell Music Ltd Produced for PWEI Product Inc  92° Adapted from Pop Will Eat Itself's [m=4027] (A PWEI Prescription) Free The Designers Republic: "We're Alright Now" World-Wide Representation by Craig Jennings for Chapter 22 Management. ℗ 1990 B1 ℗ 1991 The Copyright in this Sound Recording is owend by BMG Records (UK) Ltd. © 1991 BMG Records (UK) Ltd Distributed in the UK by BMG Records Distribue en Europe par BMG-Ariola Vertrieb in Europa durch BMG-Ariola Printed in England       |
+| Notes | Contains exclusive PWEI stencil.<br><br>Originally Production by Flood courtesy of 140 dB<br><br>A, B2: BMG Music Publishing Ltd<br>Produced for The Boilerhouse<br><br>B1: Warner Chappell Music Ltd<br>Produced for PWEI Product Inc<br><br>92° Adapted from Pop Will Eat Itself's [m=4027] (A PWEI Prescription)<br>Free The Designers Republic: "We're Alright Now"<br>World-Wide Representation by Craig Jennings for Chapter 22 Management.<br>℗ 1990 B1 ℗ 1991 The Copyright in this Sound Recording is owend by BMG Records (UK) Ltd.<br>© 1991 BMG Records (UK) Ltd<br>Distributed in the UK by BMG Records<br>Distribue en Europe par BMG-Ariola<br>Vertrieb in Europa durch BMG-Ariola<br>Printed in England <br><br>  <br> |
 | Discogs URL    | [Pop Will Eat Itself - 92° F / The Incredible PWEI Vs Dirty Harry](https://www.discogs.com/release/99641-Pop-Will-Eat-Itself-92-F-The-Incredible-PWEI-Vs-Dirty-Harry) |

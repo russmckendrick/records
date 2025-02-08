@@ -1,16 +1,17 @@
 ---
-title: "R.E.M. - The Best Of R.E.M."
-artist_name: "R.E.M."
-artist: "r-e-m"
+title: "REM - The Best Of R.E.M."
+artist_name: "REM"
+artist: "rem"
 album_name: "The Best Of R.E.M."
 date: 2018-11-29T12:43:43.000000Z
+release_date: "2003-01-01"
 release_id: "605691"
 slug: "the-best-of-r-e-m-605691"
 hideSummary: true
 cover:
     image: "the-best-of-r-e-m-605691.jpg"
-    alt: "The Best Of R.E.M. by R.E.M."
-    caption: "The Best Of R.E.M. by R.E.M."
+    alt: "The Best Of R.E.M. by REM"
+    caption: "The Best Of R.E.M. by REM"
 additional_images:
     - "https://i.discogs.com/HRb558653_VoRWbkjKTp6Ui9XYevZJ-Yw2JMGeAy2ps/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTY5/MS0xNDY5Nzc4NTc1/LTQ5MzkuanBlZw.jpeg"
     - "https://i.discogs.com/RpCFLWtgpdcQk1IgHnAko6pUXM5SZTOyYpkTp-jUPGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTY5/MS0xNDY5Nzc4NTc5/LTc3NTguanBlZw.jpeg"
@@ -26,35 +27,35 @@ The Best of R.E.M. was only issued in Europe, New Zealand, Australia, Brazil and
 Three songs were taken from each of the first five studio albums and one song was taken from Chronic Town, the band's first EP, making a total of sixteen songs on the album.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Us
-2. Carnival Of Sorts (Boxcars) (3:51)
-3. Radio Free Europe (4:03)
-4. Perfect Circle (3:22)
-5. Talk About The Passion (3:22)
-6. So. Central Rain (3:11)
-7. Pretty Persuasion (3:53)
-8. Green Grow The Rushes (3:42)
-9. Them
-10. Can't Get There From Here (4:10)
-11. Fall On Me (2:49)
-12. I Believe (3:32)
-13. Cuyahoga (4:17)
-14. The One I Love (3:17)
-15. Finest Worksong (3:48)
-16. It's The End Of The World As We Know It (And I Feel Fine) (4:07)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Us |  |
+| A1 | Carnival Of Sorts (Boxcars) | 3:51 |
+| A2 | Radio Free Europe | 4:03 |
+| A3 | Perfect Circle | 3:22 |
+| A4 | Talk About The Passion | 3:22 |
+| A5 | So. Central Rain | 3:11 |
+| A6 | Pretty Persuasion | 3:53 |
+| A7 | Green Grow The Rushes | 3:42 |
+|  | Them |  |
+| B1 | Can't Get There From Here | 4:10 |
+| B2 | Fall On Me | 2:49 |
+| B3 | I Believe | 3:32 |
+| B4 | Cuyahoga | 4:17 |
+| B5 | The One I Love | 3:17 |
+| B6 | Finest Worksong | 3:48 |
+| B7 | It's The End Of The World As We Know It (And I Feel Fine) | 4:07 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-time-the-best-of-r-e-m-1988-2003/1422693791" >}}<br>
 
-
-## Videos
-### Carnival Of Sorts Boxcars
-{{< youtube id="I2ldtKJbNQQ" title="Carnival Of Sorts Boxcars" >}}<br>
 
 
 ## Release Images
@@ -67,5 +68,5 @@ Three songs were taken from each of the first five studio albums and one song wa
 | Format         | Vinyl LP Compilation |
 | Label          | I.R.S. Records |
 | Catalog Number | MIRH 1 |
-| Notes | Issued with a printed inner sleeve with song by song notes taken from the book 'Remarks - The Story Of R.E.M.' by Tony Fletcher.  Track A1 titled "Carnival Of Sorts" on the back cover.  This compilation: ℗ 1991 International Record Syndicate, Inc. © 1991 International Record Syndicate, Inc. |
-| Discogs URL    | [R.E.M. - The Best Of R.E.M.](https://www.discogs.com/release/605691-REM-The-Best-Of-REM) |
+| Notes | Issued with a printed inner sleeve with song by song notes taken from the book 'Remarks - The Story Of R.E.M.' by Tony Fletcher.<br><br>Track A1 titled "Carnival Of Sorts" on the back cover.<br><br>This compilation: ℗ 1991 International Record Syndicate, Inc.<br>© 1991 International Record Syndicate, Inc. |
+| Discogs URL    | [REM - The Best Of R.E.M.](https://www.discogs.com/release/605691-REM-The-Best-Of-REM) |

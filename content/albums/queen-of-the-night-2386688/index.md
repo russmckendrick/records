@@ -4,6 +4,7 @@ artist_name: "Maggie Bell"
 artist: "maggie-bell"
 album_name: "Queen Of The Night"
 date: 2015-10-02T09:37:22.000000Z
+release_date: "1974-04-01"
 release_id: "2386688"
 slug: "queen-of-the-night-2386688"
 hideSummary: true
@@ -23,40 +24,30 @@ styles: ["Blues Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Caddo Queen (3:35)
-2. A Woman Left Lonely (3:54)
-3. Souvenirs (5:32)
-4. After Midnight (2:34)
-5. Queen Of The Night (4:02)
-6. Oh My My (3:00)
-7. As The Years Go Passing By (4:21)
-8. Yesterday's Music (3:28)
-9. We Had It All (2:55)
-10. The Other Side (2:59)
-11. Trade Winds (5:11)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Caddo Queen | 3:35 |
+| A2 | A Woman Left Lonely | 3:54 |
+| A3 | Souvenirs | 5:32 |
+| A4 | After Midnight | 2:34 |
+| A5 | Queen Of The Night | 4:02 |
+| B1 | Oh My My | 3:00 |
+| B2 | As The Years Go Passing By | 4:21 |
+| B3 | Yesterday's Music | 3:28 |
+| B4 | We Had It All | 2:55 |
+| B5 | The Other Side | 2:59 |
+| B6 | Trade Winds | 5:11 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/queen-of-the-night/1541334774" >}}<br>
 
 
-## Videos
-### Maggie Bell - Queen Of The Night 1974  Complete LP
-{{< youtube id="vAKYmPkeHuk" title="Maggie Bell - Queen Of The Night 1974  Complete LP" >}}<br>
-### More Videos
-
-- [Caddo Queen](https://www.youtube.com/watch?v=V3Szcng_RYc)
-- [Maggie Bell  -  A Woman Left Lonely](https://www.youtube.com/watch?v=rdL9thGP0b4)
-- [Maggie Bell - Souvenires](https://www.youtube.com/watch?v=wlSXNGq0XKQ)
-- [After Midnight](https://www.youtube.com/watch?v=XVlx5ylcc4M)
-- [Queen of the Night](https://www.youtube.com/watch?v=JTx511DLV50)
-- [Oh My My](https://www.youtube.com/watch?v=ookPEnsm5d8)
-- [MAGGIE BELL As The Years Go Passing By 1974](https://www.youtube.com/watch?v=CcGWyYyJha4)
-- [Yesterdays Music](https://www.youtube.com/watch?v=VvveJRu8Lmo)
-- [Maggie Bell - We Had It All](https://www.youtube.com/watch?v=h2dx5rvxF2g)
-- [The Other Side](https://www.youtube.com/watch?v=3rNrG-AI-pI)
-- [Maggie Bell   Trade Winds](https://www.youtube.com/watch?v=7y-TPe8-eTI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +58,5 @@ styles: ["Blues Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Polydor |
 | Catalog Number | 2383 239 |
-| Notes | On the sleeve: 2383 239 SUPER (Polydor logo) Marketed by Polydor Limited Also available on Musicassette 3170 125 and 8 Track Cartridge 3820 080 A (Colourme Gone logo) Product Sleeve printed and made in England by MacNeill Press., London, SE1   On the labels: Polydor Stereo 2383239 Made in England ℗ 1974 Polydor Int. Track A1 has been misspelt as "Cado Queen" |
+| Notes | On the sleeve:<br>2383 239 SUPER<br>(Polydor logo)<br>Marketed by Polydor Limited<br>Also available on Musicassette 3170 125<br>and 8 Track Cartridge 3820 080<br>A (Colourme Gone logo) Product<br>Sleeve printed and made in England by MacNeill Press., London, SE1 <br><br>On the labels:<br>Polydor<br>Stereo<br>2383239<br>Made in England<br>℗ 1974 Polydor Int.<br>Track A1 has been misspelt as "Cado Queen" |
 | Discogs URL    | [Maggie Bell - Queen Of The Night](https://www.discogs.com/release/2386688-Maggie-Bell-Queen-Of-The-Night) |

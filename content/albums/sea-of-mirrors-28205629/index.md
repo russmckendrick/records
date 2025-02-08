@@ -4,6 +4,7 @@ artist_name: "The Coral"
 artist: "the-coral"
 album_name: "Sea Of Mirrors"
 date: 2023-09-08T11:06:58.000000Z
+release_date: "2023-09-08"
 release_id: "28205629"
 slug: "sea-of-mirrors-28205629"
 hideSummary: true
@@ -25,40 +26,34 @@ styles: ["Indie Rock", "Psychedelic Rock"]
 ---
 
 Sea of Mirrors is the eleventh studio album by English rock band the Coral. It was released on 8 September 2023 through Run On and Modern Sky. The album was produced by Sean O'Hagan and features guest appearances by former member Bill Ryder-Jones, Cilian Murphy, John Simm and Love guitarist Johnny Echols.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Actor And The Cardboard Cowboy
-2. Cycles Of The Season
-3. Faraway Worlds
-4. Wild Bird
-5. North Wind
-6. Eleanor
-7. Sea Of Mirrors
-8. That's Where She Belongs
-9. The Way You Are
-10. Dream River
-11. Almeria
-12. Child Of The Moon
-13. Oceans Apart
-14. Mare Di Specchi
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Actor And The Cardboard Cowboy |  |
+| A2 | Cycles Of The Season |  |
+| A3 | Faraway Worlds |  |
+| A4 | Wild Bird |  |
+| A5 | North Wind |  |
+| A6 | Eleanor |  |
+| A7 | Sea Of Mirrors |  |
+| B1 | That's Where She Belongs |  |
+| B2 | The Way You Are |  |
+| B3 | Dream River |  |
+| B4 | Almeria |  |
+| B5 | Child Of The Moon |  |
+| B6 | Oceans Apart |  |
+| C | Mare Di Specchi |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sea-of-mirrors/1688574870" >}}<br>
 
 
-## Videos
-### The Coral - Change Your Mind Official Video
-{{< youtube id="OjCZ8hIqV0o" title="The Coral - Change Your Mind Official Video" >}}<br>
-### More Videos
-
-- [The Actor And The Cardboard Cowboy](https://www.youtube.com/watch?v=jtHlFSXw_ZY)
-- [Cycles Of The Seasons](https://www.youtube.com/watch?v=NJFc5K87pjo)
-- [Eleanor](https://www.youtube.com/watch?v=wxhB7p9KC30)
-- [The Way You Are](https://www.youtube.com/watch?v=iUhNPmydJMc)
-- [Child Of The Moon](https://www.youtube.com/watch?v=k2DVnk6z-s8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +65,5 @@ Sea of Mirrors is the eleventh studio album by English rock band the Coral. It w
 | Format         | Vinyl LP Album Limited Edition (Tricolour Marble, Gatefold), Flexi-disc 7" 33 ⅓ RPM Single Sided (Blue) |
 | Label          | Modern Sky UK |
 | Catalog Number | M9497UKRT |
-| Notes | 500 copies.  Flexi disc translates from Italian as 'Sea Of Mirrors' but it is not the same song as A7. Includes a narration read by Johnny Echols. No catalog number or runout on flexi. |
+| Notes | 500 copies.<br><br>Flexi disc translates from Italian as 'Sea Of Mirrors' but it is not the same song as A7. Includes a narration read by Johnny Echols. No catalog number or runout on flexi. |
 | Discogs URL    | [The Coral - Sea Of Mirrors](https://www.discogs.com/release/28205629-The-Coral-Sea-Of-Mirrors) |

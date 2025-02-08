@@ -4,6 +4,7 @@ artist_name: "The Verve"
 artist: "the-verve"
 album_name: "This Is Music: The Singles"
 date: 2025-01-25T05:52:05.000000Z
+release_date: ""
 release_id: "32937474"
 slug: "this-is-music-the-singles-32937474"
 hideSummary: true
@@ -32,30 +33,32 @@ styles: ["Alternative Rock", "Shoegaze", "Britpop", "Indie Rock", "Psychedelic R
 This is Music: The Singles 92–98 is a singles compilation album by the English alternative rock band the Verve. The compilation was released in November 2004 and included two previously unreleased tracks: "This Could Be My Moment" and "Monte Carlo". Nick McCabe did not participate in the songs, Simon Tong being the one that took the control of the lead guitar. The album was named after a track by the same name off their 1995 album A Northern Soul. The album cover is based on the cover of their 1992 single "She's a Superstar".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. This Is Music (3:38)
-2. Slide Away (4:06)
-3. Lucky Man (4:49)
-4. History (5:28)
-5. She's A Superstar (8:53)
-6. On Your Own (3:36)
-7. Blue (3:39)
-8. Sonnet (4:24)
-9. All In The Mind (4:17)
-10. The Drugs Don't Work (5:05)
-11. Gravity Grave (8:21)
-12. Bitter Sweet Symphony (5:59)
-13. Love Is Noise (5:29)
-14. Rather Be (5:38)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | This Is Music | 3:38 |
+| A2 | Slide Away | 4:06 |
+| A3 | Lucky Man | 4:49 |
+| A4 | History | 5:28 |
+| B1 | She's A Superstar | 8:53 |
+| B2 | On Your Own | 3:36 |
+| B3 | Blue | 3:39 |
+| B4 | Sonnet | 4:24 |
+| C1 | All In The Mind | 4:17 |
+| C2 | The Drugs Don't Work | 5:05 |
+| C3 | Gravity Grave | 8:21 |
+| D1 | Bitter Sweet Symphony | 5:59 |
+| D2 | Love Is Noise | 5:29 |
+| D3 | Rather Be | 5:38 |
 
 
-## Spotify
-{{< spotify type="album" id="4hZJmZmLVyR7KE4CFyK9S3" width="100%" height="500" >}}<br>
-
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -69,5 +72,5 @@ This is Music: The Singles 92–98 is a singles compilation album by the English
 | Format         | Vinyl 2× LP Compilation Stereo (Coke Bottle Clear, Transparent Red) |
 | Label          | Universal Music Recordings |
 | Catalog Number | 6580364 |
-| Notes | An EMI Release ℗ 2024 Virgin Records Limited © Virgin Records Limited  Sleeve: Made in the EU Sticker: Made in Germany |
+| Notes | An EMI Release ℗ 2024 Virgin Records Limited © Virgin Records Limited<br><br>Sleeve: Made in the EU<br>Sticker: Made in Germany |
 | Discogs URL    | [The Verve - This Is Music: The Singles](https://www.discogs.com/release/32937474-The-Verve-This-Is-Music-The-Singles) |

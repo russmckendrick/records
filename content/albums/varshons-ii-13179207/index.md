@@ -4,6 +4,7 @@ artist_name: "The Lemonheads"
 artist: "the-lemonheads"
 album_name: "Varshons II"
 date: 2019-02-08T14:23:49.000000Z
+release_date: "2019-02-08"
 release_id: "13179207"
 slug: "varshons-ii-13179207"
 hideSummary: true
@@ -22,33 +23,32 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Can't Forget
-2. Settled Down Like Rain
-3. Old Man Blank
-4. Things
-5. Speed Of The Sound Of Loneliness
-6. Abandoned
-7. Now And Then
-8. Magnet
-9. Round Here
-10. TAQN
-11. Unfamiliar
-12. Straight To You
-13. Take It Easy
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Can't Forget |  |
+| A2 | Settled Down Like Rain |  |
+| A3 | Old Man Blank |  |
+| A4 | Things |  |
+| A5 | Speed Of The Sound Of Loneliness |  |
+| A6 | Abandoned |  |
+| A7 | Now And Then |  |
+| B1 | Magnet |  |
+| B2 | Round Here |  |
+| B3 | TAQN |  |
+| B4 | Unfamiliar |  |
+| B5 | Straight To You |  |
+| B6 | Take It Easy |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/varshons-2/1667417175" >}}<br>
 
 
-## Videos
-### The Lemonheads  Cant Forget
-{{< youtube id="zp-Yux6P7VU" title="The Lemonheads  Cant Forget" >}}<br>
-### More Videos
-
-- [Old Man Blank](https://www.youtube.com/watch?v=h8EFKNJg0zo)
-- [Unfamiliar](https://www.youtube.com/watch?v=6-KM4GPXCOM)
 
 ## Release Images
 {{< imageGrid >}}

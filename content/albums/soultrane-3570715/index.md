@@ -4,6 +4,7 @@ artist_name: "John Coltrane"
 artist: "john-coltrane"
 album_name: "Soultrane"
 date: 2017-01-05T19:22:59.000000Z
+release_date: "1964-06-01"
 release_id: "3570715"
 slug: "soultrane-3570715"
 hideSummary: true
@@ -26,31 +27,26 @@ styles: []
 Soultrane is a studio album by the jazz musician John Coltrane. It was released in 1958 through Prestige Records, with catalogue no. 7142. It was recorded at the studio of Rudy Van Gelder in Hackensack, New Jersey, three days after a Columbia Records session for Miles Davis and the Milestones album.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Good Bait (12:03)
-2. I Want To Talk About You (10:51)
-3. You Say You Care (6:14)
-4. Theme For Ernie (4:54)
-5. Russian Lullaby (5:33)
-6. Soft Lights And Sweet Music (4:44)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Good Bait | 12:03 |
+| A2 | I Want To Talk About You | 10:51 |
+| B1 | You Say You Care | 6:14 |
+| B2 | Theme For Ernie | 4:54 |
+| B3 | Russian Lullaby | 5:33 |
+| B4 | Soft Lights And Sweet Music | 4:44 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/coltranes-sound/962194510" >}}<br>
 
 
-## Videos
-### Good Bait by John Coltrane from Soultrane
-{{< youtube id="HKpkiL3EZMk" title="Good Bait by John Coltrane from Soultrane" >}}<br>
-### More Videos
-
-- [I Want To Talk About You by John Coltrane from Soultrane](https://www.youtube.com/watch?v=V42pcH_2lUs)
-- [You Say You Care by John Coltrane from Soultrane](https://www.youtube.com/watch?v=3n6ZKLoqRHs)
-- [Theme For Ernie by John Coltrane from Soultrane](https://www.youtube.com/watch?v=36toCmk4SCI)
-- [Russian Lullaby by John Coltrane from Soultrane](https://www.youtube.com/watch?v=DRm4iaNn3OU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +58,5 @@ Soultrane is a studio album by the jazz musician John Coltrane. It was released 
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Jazz Wax Records |
 | Catalog Number | JWR 4536 |
-| Notes | Includes bonus track (B4) Direct Metal Mastering. Panoramic Hifi Recording.  Runouts are stamped Cat# is JWR4536 on labels and JWR 4536 on spine  Recorded February 7,1958, except B4 recorded August 23,1957 (same personnel and location) |
+| Notes | Includes bonus track (B4)<br>Direct Metal Mastering. Panoramic Hifi Recording.<br><br>Runouts are stamped<br>Cat# is JWR4536 on labels and JWR 4536 on spine<br><br>Recorded February 7,1958, except B4 recorded August 23,1957 (same personnel and location) |
 | Discogs URL    | [John Coltrane - Soultrane](https://www.discogs.com/release/3570715-John-Coltrane-Soultrane) |

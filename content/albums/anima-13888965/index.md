@@ -46,34 +46,24 @@ Yorke and long-time collaborator Nigel Godrich (“I think most artists, if they
 
 
 ## Tracklisting
-1. Traffic
-2. Last I Heard (...He Was Circling The Drain)
-3. Twist
-4. Dawn Chorus
-5. I Am A Very Rude Person
-6. Not The News
-7. The Axe
-8. Impossible Knots
-9. Runwayaway
-10. (Ladies & Gentlemen, Thank You For Coming)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Traffic |  |
+| A2 | Last I Heard (...He Was Circling The Drain) |  |
+| B1 | Twist |  |
+| B2 | Dawn Chorus |  |
+| C1 | I Am A Very Rude Person |  |
+| C2 | Not The News |  |
+| C3 | The Axe |  |
+| D1 | Impossible Knots |  |
+| D2 | Runwayaway |  |
+| D3 | (Ladies & Gentlemen, Thank You For Coming) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/anima/1467347588" >}}<br>
 
 
-## Videos
-### Traffic
-{{< youtube id="CNjPTfQTM4E" title="Traffic" >}}<br>
-### More Videos
-
-- [Thom Yorke - Last I Heard He Was Circling The Drain](https://www.youtube.com/watch?v=I03xFqbxUp8)
-- [Twist](https://www.youtube.com/watch?v=KeHaiLbM_3Y)
-- [Dawn Chorus](https://www.youtube.com/watch?v=F1TiN-dBSxY)
-- [I Am a Very Rude Person](https://www.youtube.com/watch?v=pvHKpU5e45k)
-- [Thom Yorke - Not The News](https://www.youtube.com/watch?v=IZfCj7tuZ-E)
-- [The Axe](https://www.youtube.com/watch?v=JkNuvmYrXeU)
-- [Impossible Knots](https://www.youtube.com/watch?v=hlbE0S4cHZk)
-- [Runwayaway](https://www.youtube.com/watch?v=jwN4ZZxBYi4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +75,5 @@ Yorke and long-time collaborator Nigel Godrich (“I think most artists, if they
 | Format         | Vinyl 2× 12" 33 ⅓ RPM Album Limited Edition (Orange) |
 | Label          | XL Recordings |
 | Catalog Number | XL987LPE |
-| Notes | Includes download code for tracks A1 to D2.  Some came with limited brown paper bag and sticker with album logo printed on it, given to a limited amount of record stores to hand out with purchase of vinyl as promotion.  |
+| Notes | Includes download code for tracks A1 to D2.<br><br>Some came with limited brown paper bag and sticker with album logo printed on it, given to a limited amount of record stores to hand out with purchase of vinyl as promotion.  |
 | Discogs URL    | [Thom Yorke - Anima](https://www.discogs.com/release/13888965-Thom-Yorke-Anima) |

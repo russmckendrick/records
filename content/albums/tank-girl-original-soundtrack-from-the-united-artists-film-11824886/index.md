@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Tank Girl - Original Soundtrack From The United Artists Film"
 date: 2018-04-10T15:19:26.000000Z
+release_date: ""
 release_id: "11824886"
 slug: "tank-girl-original-soundtrack-from-the-united-artists-film-11824886"
 hideSummary: true
@@ -24,40 +25,31 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Ripper Sole (1:42)
-2. Army Of Me (3:56)
-3. Girl U Want (3:51)
-4. Mockingbird Girl (3:30)
-5. Shove (3:11)
-6. Drown Soda (3:50)
-7. Bomb (3:23)
-8. Roads (5:04)
-9. Let's Do It (2:23)
-10. Thief (3:12)
-11. Aurora (4:03)
-12. Big Gun (3:54)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ripper Sole | 1:42 |
+| A2 | Army Of Me | 3:56 |
+| A3 | Girl U Want | 3:51 |
+| A4 | Mockingbird Girl | 3:30 |
+| A5 | Shove | 3:11 |
+| A6 | Drown Soda | 3:50 |
+| B1 | Bomb | 3:23 |
+| B2 | Roads | 5:04 |
+| B3 | Let's Do It | 2:23 |
+| B4 | Thief | 3:12 |
+| B5 | Aurora | 4:03 |
+| B6 | Big Gun | 3:54 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Rippers Sole OST
-{{< youtube id="8ric_N_AGD8" title="Rippers Sole OST" >}}<br>
-### More Videos
 
-- [Army Of Me](https://www.youtube.com/watch?v=a19X695w3No)
-- [Girl U Want OST](https://www.youtube.com/watch?v=Ga_eP6vIHnQ)
-- [Mockingbird Girl OST](https://www.youtube.com/watch?v=6TqnZEe-6K8)
-- [Shove OST](https://www.youtube.com/watch?v=itXA0NPMu7M)
-- [Drown Soda OST](https://www.youtube.com/watch?v=MisB3HHSffU)
-- [Bomb OST](https://www.youtube.com/watch?v=yTz1Mdv5aj0)
-- [Roads OST](https://www.youtube.com/watch?v=uvOkWj1USBE)
-- [Lets Do It OST](https://www.youtube.com/watch?v=xi8i08ve4hE)
-- [Thief OST](https://www.youtube.com/watch?v=-MjlENtpyxc)
-- [Aurora OST](https://www.youtube.com/watch?v=AeSCsB2uOmI)
-- [Big Gun OST](https://www.youtube.com/watch?v=nmVgLArRbAk)
-- [GRAEME REVELL - Tank Girl Complete Score](https://www.youtube.com/watch?v=M_i-5OHSiV0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +60,5 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 | Format         | Vinyl LP Compilation Limited Edition (Aqua Blue Vinyl) |
 | Label          | Real Gone Music |
 | Catalog Number | RGM 0679 |
-| Notes | Limited Gatefold Album Version Aqua Blue Vinyl Limited To 1000 Copies |
+| Notes | Limited Gatefold Album Version<br>Aqua Blue Vinyl<br>Limited To 1000 Copies |
 | Discogs URL    | [Various - Tank Girl - Original Soundtrack From The United Artists Film](https://www.discogs.com/release/11824886-Various-Tank-Girl-Original-Soundtrack-From-The-United-Artists-Film) |

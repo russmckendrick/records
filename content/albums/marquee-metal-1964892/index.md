@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Marquee Metal"
 date: 2015-10-14T18:38:58.000000Z
+release_date: ""
 release_id: "1964892"
 slug: "marquee-metal-1964892"
 hideSummary: true
@@ -21,29 +22,36 @@ styles: ["Heavy Metal", "Pop Rock", "Classic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. We Will Rock You
-2. Wishing Well
-3. Can't Get Enough
-4. Epic
-5. She's A Little Angel
-6. Killer On The Loose
-7. Smoke On The Water
-8. Voodoo Chile (Slight Return)
-9. Paranoid
-10. Down Down
-11. Crazy, Crazy Nights
-12. School's Out
-13. Walk This Way
-14. Is There Anybody There
-15. The Wizard
-16. Days Of No Trust
-17. Living After Midnight
-18. Free 'N' Easy
-19. Ace Of Spades
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | We Will Rock You |  |
+| A2 | Wishing Well |  |
+| A3 | Can't Get Enough |  |
+| A4 | Epic |  |
+| A5 | She's A Little Angel |  |
+| A6 | Killer On The Loose |  |
+| A7 | Smoke On The Water |  |
+| A8 | Voodoo Chile (Slight Return) |  |
+| A9 | Paranoid |  |
+| B1 | Down Down |  |
+| B2 | Crazy, Crazy Nights |  |
+| B3 | School's Out |  |
+| B4 | Walk This Way |  |
+| B5 | Is There Anybody There |  |
+| B6 | The Wizard |  |
+| B7 | Days Of No Trust |  |
+| B8 | Living After Midnight |  |
+| B9 | Free 'N' Easy |  |
+| B10 | Ace Of Spades |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -56,5 +64,5 @@ styles: ["Heavy Metal", "Pop Rock", "Classic Rock"]
 | Format         | Vinyl LP Compilation |
 | Label          | PolyGram TV |
 | Catalog Number | 845 417-1 |
-| Notes | Compilation of popular Rock/Metal cuts.    Studio versions of each track are used - there is nothing here that was recorded at the Marquee club, despite it's branding being featured on the record!!  |
+| Notes | Compilation of popular Rock/Metal cuts.<br><br>Studio versions of each track are used - there is nothing here that was recorded at the Marquee club, despite it's branding being featured on the record!!<br> |
 | Discogs URL    | [Various - Marquee Metal](https://www.discogs.com/release/1964892-Various-Marquee-Metal) |

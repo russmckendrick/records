@@ -4,6 +4,7 @@ artist_name: "Pink Floyd"
 artist: "pink-floyd"
 album_name: "Live At Knebworth 1990"
 date: 2021-04-30T07:39:02.000000Z
+release_date: "2021-04-30"
 release_id: "18503998"
 slug: "live-at-knebworth-1990-18503998"
 hideSummary: true
@@ -46,30 +47,26 @@ styles: ["Classic Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Shine On You Crazy Diamond, Parts 1-5
-2. The Great Gig In The Sky
-3. Wish You Were Here
-4. Sorrow
-5. Money
-6. Comfortably Numb
-7. Run Like Hell
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Shine On You Crazy Diamond, Parts 1-5 |  |
+| A2 | The Great Gig In The Sky |  |
+| B1 | Wish You Were Here |  |
+| B2 | Sorrow |  |
+| C1 | Money |  |
+| D1 | Comfortably Numb |  |
+| D2 | Run Like Hell |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-knebworth-1990/1554080602" >}}<br>
 
 
-## Videos
-### Pink Floyd Bootleg rare LIVE 1990 - Money audio HQ
-{{< youtube id="FDrSwVeQZek" title="Pink Floyd Bootleg rare LIVE 1990 - Money audio HQ" >}}<br>
-### More Videos
-
-- [Pink Floyd - Shine on your crazy diamond Bootleg rare live](https://www.youtube.com/watch?v=4TUWYopgOhE)
-- [Pink Floyd - Knebworth 90 - Shine On Crazy Diamond](https://www.youtube.com/watch?v=7NrBxrEFhUU)
-- [Pink Floyd - Wish You Were Here Live at Knebworth 1990 2021 Edit](https://www.youtube.com/watch?v=qmA_BpXo0Sw)
-- [Pink Floyd - Live At Knebworth 1990 Trailer - Out Now](https://www.youtube.com/watch?v=BTgsWONk2dQ)
-- [Pink Floyd - Comfortably Numb Live at Knebworth 1990](https://www.youtube.com/watch?v=jMJYddhb2eE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +77,5 @@ styles: ["Classic Rock", "Prog Rock"]
 | Format         | Vinyl 2× LP 45 RPM Album Stereo (180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP34 |
-| Notes | Track A1: Published by Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited/Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. for the world excluding USA & Canada. USA & Canada: Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited/Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. All rights on behalf of BMG Rights Management (UK) Ltd. administered by BMG Platinum (BMI)  Track A2: Published by Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited for the world excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp.  Tracks B1, D1, D2: Published by Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited/Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. for the world excluding USA & Canada. USA & Canada: Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited/Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. All rights on behalf of BMG Rights Management (UK) Ltd. administered by BMG Platinum (BMI)  Track B2: Published by Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited  Track C1: Published by Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. for the world excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp.  Printed on rear artwork: Recorded at Knebworth House, Knebworth, Hertfordshire, UK, 1990 in aid of the Nordoff Robbins Music Centre and The BRIT School for Performing Arts and Technology ℗ 2019 Pink Floyd (1987) Ltd., under exclusive license to Sony Music Entertainment for the world outside Europe. © 2021 Pink Floyd (1987) Ltd. Made in The Netherlands  Printed on labels: ℗ 2019 Pink Floyd (1987) Ltd., under exclusive license to Sony Music Entertainment for the world outside Europe. ℗ 2021 Pink Floyd (1987) Ltd.  Printed on hype sticker: Remixed from the original master tapes Heavyweight 180 gram pressing 16-page booklet Cut at 45 RPM for enhanced audio quality  Printed in the booklet: Recorded at Knebworth House, Knebworth, Hertfordshire, UK, on 30 June 1990 in aid of the Nordoff Robbins Music Centre and The BRIT School for Performing Arts and Technology Concert presented [...] With special thanks to Bill Curbishley & Derek Green For Medialab Ltd.: Producer [...] Thanks to David Munns A Silver Clef Productions Ltd. and Medialab Ltd. production A further donation has been made to Nordoff Robbins on behalf of Pink Floyd and all the musician who performed with them at the Knebworth 1990 concert Candy Dulfer appears by courtesy of Dulfer Management Pink Floyd management: Thanks: Justin Morris, Davie Meunier A special thank you to Steve O'Rourke    All these tracks were also part of [r=14540995] box set. |
+| Notes | Track A1: Published by Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited/Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. for the world excluding USA & Canada. USA & Canada: Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited/Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. All rights on behalf of BMG Rights Management (UK) Ltd. administered by BMG Platinum (BMI)<br><br>Track A2: Published by Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited for the world excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp.<br><br>Tracks B1, D1, D2: Published by Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited/Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. for the world excluding USA & Canada. USA & Canada: Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited/Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. All rights on behalf of BMG Rights Management (UK) Ltd. administered by BMG Platinum (BMI)<br><br>Track B2: Published by Pink Floyd Music Publishers Ltd., administered by Concord Copyrights Limited<br><br>Track C1: Published by Roger Waters Music Overseas Ltd., administered by BMG Rights Management (UK) Ltd. for the world excluding USA & Canada. USA & Canada: TRO-Hampshire House Publishing Corp.<br><br>Printed on rear artwork:<br>Recorded at Knebworth House, Knebworth, Hertfordshire, UK, 1990 in aid of the Nordoff Robbins Music Centre and The BRIT School for Performing Arts and Technology<br>℗ 2019 Pink Floyd (1987) Ltd., under exclusive license to Sony Music Entertainment for the world outside Europe. © 2021 Pink Floyd (1987) Ltd.<br>Made in The Netherlands<br><br>Printed on labels:<br>℗ 2019 Pink Floyd (1987) Ltd., under exclusive license to Sony Music Entertainment for the world outside Europe. ℗ 2021 Pink Floyd (1987) Ltd.<br><br>Printed on hype sticker:<br>Remixed from the original master tapes<br>Heavyweight 180 gram pressing<br>16-page booklet<br>Cut at 45 RPM for enhanced audio quality<br><br>Printed in the booklet:<br>Recorded at Knebworth House, Knebworth, Hertfordshire, UK, on 30 June 1990 in aid of the Nordoff Robbins Music Centre and The BRIT School for Performing Arts and Technology<br>Concert presented [...] With special thanks to Bill Curbishley & Derek Green<br>For Medialab Ltd.: Producer [...] Thanks to David Munns<br>A Silver Clef Productions Ltd. and Medialab Ltd. production<br>A further donation has been made to Nordoff Robbins on behalf of Pink Floyd and all the musician who performed with them at the Knebworth 1990 concert<br>Candy Dulfer appears by courtesy of Dulfer Management<br>Pink Floyd management: Thanks: Justin Morris, Davie Meunier<br>A special thank you to Steve O'Rourke<br><br> <br>All these tracks were also part of [r=14540995] box set. |
 | Discogs URL    | [Pink Floyd - Live At Knebworth 1990](https://www.discogs.com/release/18503998-Pink-Floyd-Live-At-Knebworth-1990) |

@@ -4,6 +4,7 @@ artist_name: "Super Furry Animals"
 artist: "super-furry-animals"
 album_name: "Radiator"
 date: 2017-07-29T08:50:24.000000Z
+release_date: "1997-08-22"
 release_id: "10615529"
 slug: "radiator-10615529"
 hideSummary: true
@@ -29,35 +30,33 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Britpop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Furryvision™ (1:25)
-2. The Placid Casual (2:49)
-3. The International Language Of Screaming (2:14)
-4. Demons (5:11)
-5. Short Painkiller (0:38)
-6. She's Got Spies (4:43)
-7. Play It Cool (3:15)
-8. Hermann Loves Pauline (4:43)
-9. Chupacabras (1:26)
-10. Torra Fy Ngwallt Yn Hir (1:54)
-11. Bass Tuned To D.E.A.D. (3:20)
-12. Down A Different River (5:37)
-13. Download (3:19)
-14. Mountain People (6:14)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Furryvision™ | 1:25 |
+| A2 | The Placid Casual | 2:49 |
+| A3 | The International Language Of Screaming | 2:14 |
+| A4 | Demons | 5:11 |
+| B1 | Short Painkiller | 0:38 |
+| B2 | She's Got Spies | 4:43 |
+| B3 | Play It Cool | 3:15 |
+| B4 | Hermann Loves Pauline | 4:43 |
+| C1 | Chupacabras | 1:26 |
+| C2 | Torra Fy Ngwallt Yn Hir | 1:54 |
+| C3 | Bass Tuned To D.E.A.D. | 3:20 |
+| C4 | Down A Different River | 5:37 |
+| D1 | Download | 3:19 |
+| D2 | Mountain People | 6:14 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/radiator/1626518856" >}}<br>
 
 
-## Videos
-### Super Furry Animals  Radiator
-{{< youtube id="J04U9hggZzA" title="Super Furry Animals  Radiator" >}}<br>
-### More Videos
-
-- [Shes Got Spies 2017 - Remaster](https://www.youtube.com/watch?v=YVLEXFDIM_g)
-- [Super Furry Animals - Hermann Loves Pauline Video](https://www.youtube.com/watch?v=njhQ23ZKjFU)
-- [Super Furry Animals - Demons Video](https://www.youtube.com/watch?v=BmvwINJeLKU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +67,5 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Britpop"]
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 180g) |
 | Label          | BMG |
 | Catalog Number | BMGCAT2LP98 |
-| Notes | 20th Anniversary Re-Issue Remastered From The Original Analogue Tapes.  Recorded yn Stiwdio Ofn, llanfaelog / Recordiwyd yn Stiwdio Ofn Llanfaelog except 'Chupacubras' Parr Street Studios / Heblaw 'Chupacubras' Parr Street Studios. Mixed at Parr Street Studios, Liverpool / Cymyssgwyd yn Parr Street Studios, Lerpwl.  Thanks and respect to all our friends and mentors / Diolch a chariad i'n holl gwyfellion annwyl: Dyrchafwch eich llygaid i'r mynydd eddi. (which translates as 'Raise your eyes to the mountains today').  20 pre-order copies from Pledge Music were signed.  The original release peaked at Number 8 on the U.K. album charts in 1997 (5 weeks on the chart) This reissue peaked at Number 96 on the U.K. album charts in 2017 (1 week on the chart) |
+| Notes | 20th Anniversary Re-Issue Remastered From The Original Analogue Tapes.<br><br>Recorded yn Stiwdio Ofn, llanfaelog / Recordiwyd yn Stiwdio Ofn Llanfaelog except 'Chupacubras' Parr Street Studios / Heblaw 'Chupacubras' Parr Street Studios. Mixed at Parr Street Studios, Liverpool / Cymyssgwyd yn Parr Street Studios, Lerpwl.<br><br>Thanks and respect to all our friends and mentors / Diolch a chariad i'n holl gwyfellion annwyl: Dyrchafwch eich llygaid i'r mynydd eddi. (which translates as 'Raise your eyes to the mountains today').<br><br>20 pre-order copies from Pledge Music were signed.<br><br>The original release peaked at Number 8 on the U.K. album charts in 1997 (5 weeks on the chart)<br>This reissue peaked at Number 96 on the U.K. album charts in 2017 (1 week on the chart) |
 | Discogs URL    | [Super Furry Animals - Radiator](https://www.discogs.com/release/10615529-Super-Furry-Animals-Radiator) |

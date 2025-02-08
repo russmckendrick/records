@@ -4,6 +4,7 @@ artist_name: "The Cult"
 artist: "the-cult"
 album_name: "Ceremony"
 date: 2023-12-29T04:34:27.000000Z
+release_date: "1991-09-24"
 release_id: "27997590"
 slug: "ceremony-27997590"
 hideSummary: true
@@ -33,44 +34,31 @@ styles: ["Alternative Rock"]
 Ceremony is the fifth studio album by British rock band The Cult, first released on 23 September 1991. The most popular songs on the album are “Wild Hearted Son” and “Heart of Soul”.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Ceremony
-2. Wild Hearted Son
-3. Earth Mofo
-4. White
-5. If
-6. Full Tilt
-7. Heart Of Soul
-8. Bangkok Rain
-9. Indian
-10. Sweet Salvation
-11. Wonderland
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ceremony |  |
+| A2 | Wild Hearted Son |  |
+| A3 | Earth Mofo |  |
+| B4 | White |  |
+| B5 | If |  |
+| C6 | Full Tilt |  |
+| C7 | Heart Of Soul |  |
+| C8 | Bangkok Rain |  |
+| D9 | Indian |  |
+| D10 | Sweet Salvation |  |
+| D11 | Wonderland |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ceremony/1136817045" >}}<br>
 
 
-## Videos
-### The Cult - Heart Of Soul HD
-{{< youtube id="Ygd5T_jimSk" title="The Cult - Heart Of Soul HD" >}}<br>
-### More Videos
-
-- [The Cult - Wild Hearted Son HD](https://www.youtube.com/watch?v=h0Z9C4XO8fA)
-- [The Cult  Ceremony](https://www.youtube.com/watch?v=15MVkTxZ9zc)
-- [The Cult  White](https://www.youtube.com/watch?v=JY77ACVk1OM)
-- [The Cult  Heart Of Soul](https://www.youtube.com/watch?v=_M6w-5JPzvE)
-- [The Cult  Wild Hearted Son](https://www.youtube.com/watch?v=U8NwKpq2EN4)
-- [The Cult  If](https://www.youtube.com/watch?v=eVlrJkw9mHM)
-- [The Cult  Full Tilt](https://www.youtube.com/watch?v=RlEV0fBLjV0)
-- [The Cult  Sweet Salvation](https://www.youtube.com/watch?v=3eBPzC4114k)
-- [The Cult  Indian](https://www.youtube.com/watch?v=Z40AA2h6c7Q)
-- [The Cult  Wonderland](https://www.youtube.com/watch?v=OFvVRT2VbUw)
-- [The Cult  Earth Mofo](https://www.youtube.com/watch?v=X1ZVlodYKZw)
-- [The Cult  Bangkok Rain](https://www.youtube.com/watch?v=yMY27k2IBo4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +70,5 @@ Ceremony is the fifth studio album by British rock band The Cult, first released
 | Format         | Vinyl LP (Blue), Vinyl LP (Red), All Media Album Limited Edition Reissue |
 | Label          | Beggars Arkive |
 | Catalog Number | BBQ 2297 LP |
-| Notes | Issued in an unlaminated single pocket sleeve with a wide spine. Picture/lyric/credits top opening inner sleeves of card. The red vinyl is translucent to strong light. There is a hype sticker to the front, below the band name and a barcode/catalogue number over-sticker on the reverse, both applied to the shrink-wrap.  "Indie stores exclusive" in the UK and was also available from the official webstore of the label.  This version is similar to [r27909384] except for disc one as blue vinyl, disc two as red vinyl. This colour scheme is reversed on the similar version with disc one being red and disc two being blue, differing runouts, showing no characters typical of GZ Media. An external visual identification is that they have a different layout on the barcode over-sticker, although the numbers are the same.  Runouts are etched.  "1|", "1T", "1=" are Optimal Media GmbH mirrored geometric plating marks.  Tracks are numbered sequentially across the release, 1 to 11. |
+| Notes | Issued in an unlaminated single pocket sleeve with a wide spine.<br>Picture/lyric/credits top opening inner sleeves of card.<br>The red vinyl is translucent to strong light.<br>There is a hype sticker to the front, below the band name and a barcode/catalogue number over-sticker on the reverse, both applied to the shrink-wrap.<br><br>"Indie stores exclusive" in the UK and was also available from the official webstore of the label.<br><br>This version is similar to [r27909384] except for disc one as blue vinyl, disc two as red vinyl. This colour scheme is reversed on the similar version with disc one being red and disc two being blue, differing runouts, showing no characters typical of GZ Media. An external visual identification is that they have a different layout on the barcode over-sticker, although the numbers are the same.<br><br>Runouts are etched. <br>"1|", "1T", "1=" are Optimal Media GmbH mirrored geometric plating marks.<br><br>Tracks are numbered sequentially across the release, 1 to 11. |
 | Discogs URL    | [The Cult - Ceremony](https://www.discogs.com/release/27997590-The-Cult-Ceremony) |

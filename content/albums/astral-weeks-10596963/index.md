@@ -35,33 +35,24 @@ Forty years after the album's release, Morrison performed all eight of its songs
 
 
 ## Tracklisting
-1. Part One: In The Beginning
-2. Astral Weeks (7:00)
-3. Beside You (5:10)
-4. Sweet Thing (4:10)
-5. Cyprus Avenue (6:50)
-6. Part Two: Afterwards
-7. Young Lovers Do (3:10)
-8. Madame George (9:25)
-9. Ballerina (7:00)
-10. Slim Slow Slider (3:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Part One: In The Beginning |  |
+| A1 | Astral Weeks | 7:00 |
+| A2 | Beside You | 5:10 |
+| A3 | Sweet Thing | 4:10 |
+| A4 | Cyprus Avenue | 6:50 |
+|  | Part Two: Afterwards |  |
+| B1 | Young Lovers Do | 3:10 |
+| B2 | Madame George | 9:25 |
+| B3 | Ballerina | 7:00 |
+| B4 | Slim Slow Slider | 3:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/astral-weeks/1031002336" >}}<br>
 
 
-## Videos
-### Astral Weeks 2015 Remaster
-{{< youtube id="JmZXtDbc2OE" title="Astral Weeks 2015 Remaster" >}}<br>
-### More Videos
-
-- [Beside You 2015 Remaster](https://www.youtube.com/watch?v=7ToGyf3t8cA)
-- [Sweet Thing 2015 Remaster](https://www.youtube.com/watch?v=JFAp3aRJ2vA)
-- [Cyprus Avenue 2015 Remaster](https://www.youtube.com/watch?v=fVQ7eSkCaWc)
-- [The Way Young Lovers Do 2015 Remaster](https://www.youtube.com/watch?v=1cXIdFxbpIg)
-- [Madame George 2015 Remaster](https://www.youtube.com/watch?v=FjSzsu9y9gY)
-- [Ballerina 2015 Remaster](https://www.youtube.com/watch?v=B4GCR_moiMc)
-- [Slim Slow Slider 2015 Remaster](https://www.youtube.com/watch?v=xaRa98bvIfc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +64,5 @@ Forty years after the album's release, Morrison performed all eight of its songs
 | Format         | Vinyl LP Album Reissue (Clear, 180 g) |
 | Label          | Warner Bros. - Seven Arts Records |
 | Catalog Number | 081227937850 |
-| Notes | Manufactured In The E.U. Marketed By Rhino Entertainment On Clear Vinyl |
+| Notes | Manufactured In The E.U.<br>Marketed By Rhino Entertainment<br>On Clear Vinyl |
 | Discogs URL    | [Van Morrison - Astral Weeks](https://www.discogs.com/release/10596963-Van-Morrison-Astral-Weeks) |

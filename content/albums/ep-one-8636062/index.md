@@ -4,6 +4,7 @@ artist_name: "Paul Draper"
 artist: "paul-draper"
 album_name: "EP ONE"
 date: 2016-06-12T09:55:00.000000Z
+release_date: "2016-06-10"
 release_id: "8636062"
 slug: "ep-one-8636062"
 hideSummary: true
@@ -18,23 +19,23 @@ styles: ["Electro", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Feeling My Heart Run Slow
-2. No Ideas
-3. The Silence Is Deafening
-4. F.M.H.R.S. (The Twilight Sad Mix)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Feeling My Heart Run Slow |  |
+| A2 | No Ideas |  |
+| B1 | The Silence Is Deafening |  |
+| B2 | F.M.H.R.S. (The Twilight Sad Mix) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ep-one-ep/1105432622" >}}<br>
 
 
-## Videos
-### Paul Draper - EP ONE Full EP stream
-{{< youtube id="T4R-y4AHIis" title="Paul Draper - EP ONE Full EP stream" >}}<br>
-### More Videos
-
-- [Paul Draper - Feeling My Heart Run Slow from EP ONE](https://www.youtube.com/watch?v=IVpYEYd1LU0)
 
 ## Release Images
 {{< imageGrid >}}

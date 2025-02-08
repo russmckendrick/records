@@ -4,6 +4,7 @@ artist_name: "Big Big Train"
 artist: "big-big-train"
 album_name: "English Electric Part One"
 date: 2019-10-11T14:38:12.000000Z
+release_date: "2012-09-03"
 release_id: "14252474"
 slug: "english-electric-part-one-14252474"
 hideSummary: true
@@ -26,32 +27,30 @@ styles: ["Prog Rock"]
 ---
 
 English Electric Part One is the seventh studio album by the English progressive rock band Big Big Train. It was released on 3 September 2012, by English Electric Recordings and GEP.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The First Rebreather (8:31)
-2. Uncle Jack (3:50)
-3. Winchester From St. Giles' Hill (7:20)
-4. Judas Unrepentant (7:17)
-5. Upton Heath (5:38)
-6. A Boy In Darkness (8:03)
-7. Summoned By Bells (9:21)
-8. Hedgerow (8:55)
-9. Seen Better Days (The Brass Band's Final Piece) (4:48)
-10. East Coast Racer (Live At King's Place, London August 2015) (17:30)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The First Rebreather | 8:31 |
+| A2 | Uncle Jack | 3:50 |
+| A3 | Winchester From St. Giles' Hill | 7:20 |
+| B1 | Judas Unrepentant | 7:17 |
+| B2 | Upton Heath | 5:38 |
+| B3 | A Boy In Darkness | 8:03 |
+| C1 | Summoned By Bells | 9:21 |
+| C2 | Hedgerow | 8:55 |
+| D1 | Seen Better Days (The Brass Band's Final Piece) | 4:48 |
+| D2 | East Coast Racer (Live At King's Place, London August 2015) | 17:30 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/english-electric-pt-one/558027300" >}}<br>
 
 
-## Videos
-### Big Big Train - English Electric Part 1 2012 Full
-{{< youtube id="czgRIvcnTeE" title="Big Big Train - English Electric Part 1 2012 Full" >}}<br>
-### More Videos
-
-- [Big Big Train - Judas Unrepentant](https://www.youtube.com/watch?v=s4JeLGchO7s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +62,5 @@ English Electric Part One is the seventh studio album by the English progressive
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Blue) |
 | Label          | English Electric Recordings |
 | Catalog Number | 7426822210565 |
-| Notes | 2019 limited edition on blue vinyl.  Different from original 2013 release as the last two tracks are Seen Better Days and East Coast Racer (Live). Including one sided credit sheet.  Gatefold sleeve |
+| Notes | 2019 limited edition on blue vinyl.  Different from original 2013 release as the last two tracks are Seen Better Days and East Coast Racer (Live).<br>Including one sided credit sheet. <br>Gatefold sleeve |
 | Discogs URL    | [Big Big Train - English Electric Part One](https://www.discogs.com/release/14252474-Big-Big-Train-English-Electric-Part-One) |

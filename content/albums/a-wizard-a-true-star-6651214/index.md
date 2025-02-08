@@ -4,6 +4,7 @@ artist_name: "Todd Rundgren"
 artist: "todd-rundgren"
 album_name: "A Wizard, A True Star"
 date: 2017-01-13T20:11:34.000000Z
+release_date: "1973-03"
 release_id: "6651214"
 slug: "a-wizard-a-true-star-6651214"
 hideSummary: true
@@ -33,34 +34,37 @@ The album was produced, engineered, and largely performed by Rundgren alone. He 
 Upon release, A Wizard, a True Star received widespread critical acclaim, but sold poorly, reaching number 86 on the U.S. charts. According to Rundgren, "the result was a complete loss of about half of my audience at that point." Rundgren formed Utopia, his first official band since the Nazz, to tour in support of the album. Their technologically ambitious stage show was cancelled after about two weeks on the road. A Wizard, a True Star has since been recognized for its influence on later generations of bedroom musicians.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. International Feel (2:50)
-2. Never Never Land (1:34)
-3. Tic Tic Tic It Wears Off (1:14)
-4. You Need Your Head (1:02)
-5. Rock And Roll Pussy (1:08)
-6. Dogfight Giggle (1:05)
-7. You Don't Have To Camp Around (1:03)
-8. Flamingo (2:34)
-9. Zen Archer (5:35)
-10. Just Another Onion Head; Da Da Dali (2:23)
-11. When The Shit Hits The Fan; Sunset Blvd. (4:02)
-12. Le Feel Internacionale (1:51)
-13. Sometimes I Don't Know What To Feel (4:16)
-14. Does Anybody Love You (1:31)
-15. Medley (10:34)
-16. Hungry For Love (2:18)
-17. I Don't Want To Tie You Down (1:56)
-18. Is It My Name? (4:01)
-19. Just One Victory (4:59)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | International Feel | 2:50 |
+| A2 | Never Never Land | 1:34 |
+| A3 | Tic Tic Tic It Wears Off | 1:14 |
+| A4 | You Need Your Head | 1:02 |
+| A5 | Rock And Roll Pussy | 1:08 |
+| A6 | Dogfight Giggle | 1:05 |
+| A7 | You Don't Have To Camp Around | 1:03 |
+| A8 | Flamingo | 2:34 |
+| A9 | Zen Archer | 5:35 |
+| A10 | Just Another Onion Head; Da Da Dali | 2:23 |
+| A11 | When The Shit Hits The Fan; Sunset Blvd. | 4:02 |
+| A12 | Le Feel Internacionale | 1:51 |
+| B1 | Sometimes I Don't Know What To Feel | 4:16 |
+| B2 | Does Anybody Love You | 1:31 |
+|  | Medley | 10:34 |
+| B4 | Hungry For Love | 2:18 |
+| B5 | I Don't Want To Tie You Down | 1:56 |
+| B6 | Is It My Name? | 4:01 |
+| B7 | Just One Victory | 4:59 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-wizard-a-true-star/1084056467" >}}<br>
-
 
 
 
@@ -74,5 +78,5 @@ Upon release, A Wizard, a True Star received widespread critical acclaim, but so
 | Format         | Vinyl LP Album Reissue (Teal Green, 180g, Gatefold) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC22 |
-| Notes | 180g vinyl edition in a gatefold sleeve. Includes a replica competition insert plus lyrics and photography.    |
+| Notes | 180g vinyl edition in a gatefold sleeve. Includes a replica competition insert plus lyrics and photography. <br><br> |
 | Discogs URL    | [Todd Rundgren - A Wizard, A True Star](https://www.discogs.com/release/6651214-Todd-Rundgren-A-Wizard-A-True-Star) |

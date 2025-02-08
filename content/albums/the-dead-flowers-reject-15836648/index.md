@@ -4,6 +4,7 @@ artist_name: "Mansun"
 artist: "mansun"
 album_name: "The Dead Flowers Reject"
 date: 2020-10-07T14:20:54.000000Z
+release_date: "2020-08-29"
 release_id: "15836648"
 slug: "the-dead-flowers-reject-15836648"
 hideSummary: true
@@ -22,24 +23,29 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. What It's Like To Be Hated
-2. GSOH
-3. Been Here Before
-4. When The Wind Blows
-5. Can't Afford To Die
-6. Church Of The Drive Thru Elvis
-7. I Care
-8. King Of Beauty
-9. But The Trains Run On Time
-10. Check Under The Bed
-11. I Deserve What I Get
-12. Railings
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | What It's Like To Be Hated |  |
+| A2 | GSOH |  |
+| A3 | Been Here Before |  |
+| A4 | When The Wind Blows |  |
+| A5 | Can't Afford To Die |  |
+| A6 | Church Of The Drive Thru Elvis |  |
+| A7 | I Care |  |
+| B1 | King Of Beauty |  |
+| B2 | But The Trains Run On Time |  |
+| B3 | Check Under The Bed |  |
+| B4 | I Deserve What I Get |  |
+| B5 | Railings |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dead-flowers-reject/1770449644" >}}<br>
-
 
 
 
@@ -52,5 +58,5 @@ styles: []
 | Format         | Vinyl LP Record Store Day Compilation Limited Edition (White) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1049 |
-| Notes | Record Store Day August 2020 released as part of the [r13372828] box set. Compiled most (but not all) of the B-sides from the Six-era EPs  A1 originally released on [r1701888] A2 originally released on [r54866] A3 and A7 originally released on [r669712] A4 and B1 originally released on [r1701881] A5 and B3 originally released on [r669709] A6 and B2 originally released on [r1701884] B4 originally released on [r1701879] B5 originally released on [r1063776] |
+| Notes | Record Store Day August 2020 released as part of the [r13372828] box set. Compiled most (but not all) of the B-sides from the Six-era EPs<br><br>A1 originally released on [r1701888]<br>A2 originally released on [r54866]<br>A3 and A7 originally released on [r669712]<br>A4 and B1 originally released on [r1701881]<br>A5 and B3 originally released on [r669709]<br>A6 and B2 originally released on [r1701884]<br>B4 originally released on [r1701879]<br>B5 originally released on [r1063776] |
 | Discogs URL    | [Mansun - The Dead Flowers Reject](https://www.discogs.com/release/15836648-Mansun-The-Dead-Flowers-Reject) |

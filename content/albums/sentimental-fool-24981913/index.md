@@ -4,6 +4,7 @@ artist_name: "Lee Fields"
 artist: "lee-fields"
 album_name: "Sentimental Fool"
 date: 2022-11-04T06:15:31.000000Z
+release_date: "2022-10-28"
 release_id: "24981913"
 slug: "sentimental-fool-24981913"
 hideSummary: true
@@ -23,47 +24,32 @@ styles: ["Soul"]
 ---
 
 "Sentimental Fool" is a song by English singer, songwriter and musician Lloyd Cole, released in 1995 as the second single from his fourth studio album Love Story. The song was written by Cole and produced by Stephen Street. It peaked at number 73 in the UK Singles Chart and remained in the top 75 for two weeks.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Forever (3:15)
-2. I Should Have Let You Be (3:00)
-3. Sentimental Fool (3:05)
-4. Two Jobs (3:22)
-5. Just Give Me Your Time (3:08)
-6. Save Your Tears For Someone New (2:51)
-7. The Door (3:01)
-8. What Did I Do? (3:44)
-9. Without A Heart (3:59)
-10. Ordinary Lives (3:16)
-11. Your Face Before My Eyes (1:58)
-12. Extraordinary Man (3:14)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Forever | 3:15 |
+| A2 | I Should Have Let You Be | 3:00 |
+| A3 | Sentimental Fool | 3:05 |
+| A4 | Two Jobs | 3:22 |
+| A5 | Just Give Me Your Time | 3:08 |
+| A6 | Save Your Tears For Someone New | 2:51 |
+| B1 | The Door | 3:01 |
+| B2 | What Did I Do? | 3:44 |
+| B3 | Without A Heart | 3:59 |
+| B4 | Ordinary Lives | 3:16 |
+| B5 | Your Face Before My Eyes | 1:58 |
+| B6 | Extraordinary Man | 3:14 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sentimental-fool/1651925180" >}}<br>
 
 
-## Videos
-### What Did I Do
-{{< youtube id="-uEdg8aueLw" title="What Did I Do" >}}<br>
-### More Videos
-
-- [Without A Heart](https://www.youtube.com/watch?v=zKDL_x1mJpU)
-- [I Should Have Let You Be](https://www.youtube.com/watch?v=6uJbt6SXykI)
-- [Lee Fields - The Door](https://www.youtube.com/watch?v=pyyqy8djtcM)
-- [Your Face Before My Eyes](https://www.youtube.com/watch?v=DZYMWEZQuQk)
-- [Just Give Me Your Time](https://www.youtube.com/watch?v=_N4R4cdVFa4)
-- [Lee Fields - Forever Official Audio](https://www.youtube.com/watch?v=BRXpKc873PQ)
-- [Lee Fields Sentimental Fool Official Video](https://www.youtube.com/watch?v=7LuwyvAl1rU)
-- [Lee Fields Two Jobs Official Audio](https://www.youtube.com/watch?v=bVOxk-Xw5Sk)
-- [What Did I Do](https://www.youtube.com/watch?v=-uEdg8aueLw)
-- [Without A Heart](https://www.youtube.com/watch?v=zKDL_x1mJpU)
-- [I Should Have Let You Be](https://www.youtube.com/watch?v=6uJbt6SXykI)
-- [Lee Fields - The Door](https://www.youtube.com/watch?v=pyyqy8djtcM)
-- [Your Face Before My Eyes](https://www.youtube.com/watch?v=DZYMWEZQuQk)
-- [Just Give Me Your Time](https://www.youtube.com/watch?v=_N4R4cdVFa4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +61,5 @@ styles: ["Soul"]
 | Format         | Vinyl LP Album Mono (Orange [Sentimental Orange], Indie Exclusive) |
 | Label          | Daptone Recording Co. |
 | Catalog Number | DAP-075 |
-| Notes | "Made in Czech Republic" sticker on back cover  Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA. |
+| Notes | "Made in Czech Republic" sticker on back cover<br><br>Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA. |
 | Discogs URL    | [Lee Fields - Sentimental Fool](https://www.discogs.com/release/24981913-Lee-Fields-Sentimental-Fool) |

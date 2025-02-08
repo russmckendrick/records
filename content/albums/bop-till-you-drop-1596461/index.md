@@ -4,6 +4,7 @@ artist_name: "Ry Cooder"
 artist: "ry-cooder"
 album_name: "Bop Till You Drop"
 date: 2020-08-02T13:36:56.000000Z
+release_date: "1979-07-11"
 release_id: "1596461"
 slug: "bop-till-you-drop-1596461"
 hideSummary: true
@@ -24,42 +25,29 @@ Bop Till You Drop is Ry Cooder's eighth album, released in 1979.  The album was 
 The album consists almost entirely of covers of earlier rhythm and blues and rock and roll classics, including Elvis Presley's "Little Sister" and the 1965 Fontella Bass-Bobby McClure hit "Don't Mess Up a Good Thing", on which Cooder duetted with soul star Chaka Khan. Khan also performed on the only original track on the album, "Down in Hollywood".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Little Sister (3:49)
-2. Go Home, Girl (5:10)
-3. The Very Thing That Makes Your Rich (5:32)
-4. I Think It's Going To Work Out Fine (4:43)
-5. Down In Hollywood (4:14)
-6. Look At Granny Run Run (3:09)
-7. Trouble You Can't Fool Me (4:55)
-8. Don't You Mess Up A Good Thing (4:08)
-9. I Can't Win (4:16)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Little Sister | 3:49 |
+| A2 | Go Home, Girl | 5:10 |
+| A3 | The Very Thing That Makes Your Rich | 5:32 |
+| A4 | I Think It's Going To Work Out Fine | 4:43 |
+| B1 | Down In Hollywood | 4:14 |
+| B2 | Look At Granny Run Run | 3:09 |
+| B3 | Trouble You Can't Fool Me | 4:55 |
+| B4 | Don't You Mess Up A Good Thing | 4:08 |
+| B5 | I Can't Win | 4:16 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bop-till-you-drop/336767770" >}}<br>
 
 
-## Videos
-### Ry Cooder - I Think Its Going To Work Out Fine
-{{< youtube id="_oYzxkfzJZ0" title="Ry Cooder - I Think Its Going To Work Out Fine" >}}<br>
-### More Videos
-
-- [Ry Cooder - I Think Its Going To Work Out Fine](https://www.youtube.com/watch?v=_oYzxkfzJZ0)
-- [Little Sister](https://www.youtube.com/watch?v=zeUUye3TMhI)
-- [I Think Its Going to Work out Fine](https://www.youtube.com/watch?v=MVEMQ_SCc6w)
-- [Ry Cooder - I cant win From the Album Bop til you drop](https://www.youtube.com/watch?v=EAe_3_GO9t0)
-- [Look at Granny Run Run - Ry Cooder](https://www.youtube.com/watch?v=4uMNwfNoViE)
-- [Ry Cooder - Dont Mess Up A Good Thing](https://www.youtube.com/watch?v=ExuqsRMMoy4)
-- [The Very Thing That Makes You Rich Makes Me Poor](https://www.youtube.com/watch?v=OTJ3RQSa1PU)
-- [Look at Granny Run Run](https://www.youtube.com/watch?v=2Mze2hcfGLI)
-- [Go Home Girl](https://www.youtube.com/watch?v=k63zFZn2JRE)
-- [I Cant Win](https://www.youtube.com/watch?v=ATk47PJUbMQ)
-- [Trouble You Cant Fool Me](https://www.youtube.com/watch?v=QilXueoAcck)
-- [Dont Mess up a Good Thing](https://www.youtube.com/watch?v=zVss8tMwcpg)
 
 ## Release Images
 {{< imageGrid >}}

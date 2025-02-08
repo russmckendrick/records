@@ -4,6 +4,7 @@ artist_name: "The Slackers"
 artist: "the-slackers"
 album_name: "Redlight"
 date: 2019-04-17T18:19:51.000000Z
+release_date: "1997-09-23"
 release_id: "10018831"
 slug: "redlight-10018831"
 hideSummary: true
@@ -26,34 +27,32 @@ styles: ["Reggae", "Ska", "Boogaloo", "Rocksteady"]
 
 Redlight is an album by the Slackers, released in 1997.
 The band promoted the album by touring as part of the NYC Ska Mob Tour '97. The opening track is a tribute to Tommy McCook.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Cooking For Tommy (3:58)
-2. Watch This (3:58)
-3. Married Girl (3:11)
-4. I Still Love You (3:15)
-5. Soldier (2:55)
-6. Fried Chicken/Mary Mary (3:28)
-7. You Must Be Good (3:56)
-8. Redlight (4:58)
-9. Tin Tin Deo (3:47)
-10. She Wants To Be Alone (4:28)
-11. Rude And Reckless (4:37)
-12. Come Back Baby (4:15)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cooking For Tommy | 3:58 |
+| A2 | Watch This | 3:58 |
+| A3 | Married Girl | 3:11 |
+| A4 | I Still Love You | 3:15 |
+| A5 | Soldier | 2:55 |
+| A6 | Fried Chicken/Mary Mary | 3:28 |
+| B1 | You Must Be Good | 3:56 |
+| B2 | Redlight | 4:58 |
+| B3 | Tin Tin Deo | 3:47 |
+| B4 | She Wants To Be Alone | 4:28 |
+| B5 | Rude And Reckless | 4:37 |
+| B6 | Come Back Baby | 4:15 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/redlight/1485047063" >}}<br>
 
 
-## Videos
-### The Slackers - Tin Tin Deo -  Redlight 
-{{< youtube id="EggsTYwhYk8" title="The Slackers - Tin Tin Deo -  Redlight " >}}<br>
-### More Videos
-
-- [The Slackers- Watch This](https://www.youtube.com/watch?v=z6jNekFYAyg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +64,5 @@ The band promoted the album by touring as part of the NYC Ska Mob Tour '97. The 
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Clear w/ Oxblood, Cyan, & White Splatter) |
 | Label          | Pirates Press Records |
 | Catalog Number | PPR167 |
-| Notes | Pirates Press Mailorder Edition 250 copies on clear w/ oxblood, cyan and white splatter 180 gram vinyl.  Cover is two-color foil stamped cover and comes with an exclusive art-print insert.  Comes with a card for digital download which includes 3 bonus tracks: 1. When I Find A Place Where I Belong 2. Calypso Jazz (Iron Bar) 3. Come Back Baby (Glen Adams Mix)   |
+| Notes | Pirates Press Mailorder Edition 250 copies on clear w/ oxblood, cyan and white splatter 180 gram vinyl. <br>Cover is two-color foil stamped cover and comes with an exclusive art-print insert.<br><br>Comes with a card for digital download which includes 3 bonus tracks:<br>1. When I Find A Place Where I Belong<br>2. Calypso Jazz (Iron Bar)<br>3. Come Back Baby (Glen Adams Mix)<br><br> |
 | Discogs URL    | [The Slackers - Redlight](https://www.discogs.com/release/10018831-The-Slackers-Redlight) |

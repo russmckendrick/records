@@ -1,9 +1,10 @@
 ---
 title: "Pond - Tasmania"
 artist_name: "Pond"
-artist: "pond-5"
+artist: "pond"
 album_name: "Tasmania"
 date: 2019-03-04T18:39:14.000000Z
+release_date: "2019-03-01"
 release_id: "13285382"
 slug: "tasmania-13285382"
 hideSummary: true
@@ -29,30 +30,29 @@ styles: ["Psychedelic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Daisy
-2. Sixteen Days
-3. Tasmania
-4. The Boys Are Killing Me
-5. Hand Mouth Danger
-6. Goodnight, P.C.C.
-7. Burnt Out Star
-8. Selene
-9. Shame
-10. Doctor's In
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Daisy |  |
+| A2 | Sixteen Days |  |
+| A3 | Tasmania |  |
+| B1 | The Boys Are Killing Me |  |
+| B2 | Hand Mouth Danger |  |
+| B3 | Goodnight, P.C.C. |  |
+| C1 | Burnt Out Star |  |
+| C2 | Selene |  |
+| D1 | Shame |  |
+| D2 | Doctor's In |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tasmania/1660070869" >}}<br>
 
 
-## Videos
-### Pond - Daisy Official Video
-{{< youtube id="Ap2gStsDZZo" title="Pond - Daisy Official Video" >}}<br>
-### More Videos
-
-- [POND - Tasmania Official Audio](https://www.youtube.com/watch?v=NX6EIDepJDk)
-- [Pond - Tasmania Full Album](https://www.youtube.com/watch?v=y2W1Fwccqwo)
 
 ## Release Images
 {{< imageGrid >}}

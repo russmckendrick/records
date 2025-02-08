@@ -4,6 +4,7 @@ artist_name: "EMF"
 artist: "emf"
 album_name: "Go Go Sapiens"
 date: 2022-05-13T03:31:55.000000Z
+release_date: ""
 release_id: "23205512"
 slug: "go-go-sapiens-23205512"
 hideSummary: true
@@ -23,28 +24,30 @@ styles: ["Dance-pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Started It
-2. Sister Sandinista
-3. Stay Classy San Diego
-4. Crime Of Passion
-5. We Are The Free
-6. Equilibrium
-7. Keep It Coming
-8. Never Die
-9. Dr. Strangelove
-10. Greatest Day
-11. Sparks And Flashes
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Started It |  |
+| A2 | Sister Sandinista |  |
+| A3 | Stay Classy San Diego |  |
+| A4 | Crime Of Passion |  |
+| A5 | We Are The Free |  |
+| A6 | Equilibrium |  |
+| B1 | Keep It Coming |  |
+| B2 | Never Die |  |
+| B3 | Dr. Strangelove |  |
+| B4 | Greatest Day |  |
+| B5 | Sparks And Flashes |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### EMF - GO GO SAPIENS Album Sampler
-{{< youtube id="5VZRhG_xmpg" title="EMF - GO GO SAPIENS Album Sampler" >}}<br>
-### More Videos
 
-- [EMF - GO GO SAPIENS Album Sampler](https://www.youtube.com/watch?v=5VZRhG_xmpg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -55,5 +58,5 @@ styles: ["Dance-pop"]
 | Format         | Vinyl LP Album (White ) |
 | Label          | Not On Label (EMF Self-released) |
 | Catalog Number | EMF04 |
-| Notes | Catalogue number found on spine and inner sleeve   |
+| Notes | Catalogue number found on spine and inner sleeve<br><br> |
 | Discogs URL    | [EMF - Go Go Sapiens](https://www.discogs.com/release/23205512-EMF-Go-Go-Sapiens) |

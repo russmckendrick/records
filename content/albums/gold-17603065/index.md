@@ -1,16 +1,17 @@
 ---
-title: "Dr. Hook - Gold"
-artist_name: "Dr. Hook"
+title: "Dr Hook - Gold"
+artist_name: "Dr Hook"
 artist: "dr-hook"
 album_name: "Gold"
 date: 2022-10-21T09:00:43.000000Z
+release_date: "1996-01-01"
 release_id: "17603065"
 slug: "gold-17603065"
 hideSummary: true
 cover:
     image: "gold-17603065.jpg"
-    alt: "Gold by Dr. Hook"
-    caption: "Gold by Dr. Hook"
+    alt: "Gold by Dr Hook"
+    caption: "Gold by Dr Hook"
 additional_images:
     - "https://i.discogs.com/mBOZR-7Wo6ZUAMQZEUEAIVwVJGQJpk6ImsNqf3SUsvc/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjAz/MDY1LTE2MTQzODU0/MzUtNjc5NS5qcGVn.jpeg"
     - "https://i.discogs.com/FUYW80nzoevQ5kgDSxEfaab5vR4-fgUbMBN8kY8sjVM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjAz/MDY1LTE2MTQzODU0/NDYtMTYwMy5qcGVn.jpeg"
@@ -19,326 +20,37 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Sylvia's Mother
-2. The Cover Of “Rolling Stone”
-3. Carry Me, Carrie
-4. Only Sixteen
-5. I Got Stoned And I Missed It
-6. The Millionaire
-7. Everybody's Makin' It Big But Me
-8. More Like The Movies
-9. A Little Bit More
-10. If Not You
-11. Walk Right In
-12. Sharing The Night Together
-13. Storms Never Last
-14. When You're In Love With A Beautiful Woman
-15. You Make My Pants Want To Get Up And Dance
-16. Sexy Eyes
-17. Better Love Next Time
-18. Baby Makes Her Blue Jeans Talk
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sylvia's Mother |  |
+| A2 | The Cover Of “Rolling Stone” |  |
+| A3 | Carry Me, Carrie |  |
+| A4 | Only Sixteen |  |
+| A5 | I Got Stoned And I Missed It |  |
+| A6 | The Millionaire |  |
+| A7 | Everybody's Makin' It Big But Me |  |
+| A8 | More Like The Movies |  |
+| A9 | A Little Bit More |  |
+| B1 | If Not You |  |
+| B2 | Walk Right In |  |
+| B3 | Sharing The Night Together |  |
+| B4 | Storms Never Last |  |
+| B5 | When You're In Love With A Beautiful Woman |  |
+| B6 | You Make My Pants Want To Get Up And Dance |  |
+| B7 | Sexy Eyes |  |
+| B8 | Better Love Next Time |  |
+| B9 | Baby Makes Her Blue Jeans Talk |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dr-hook-premium-gold-collection/723588920" >}}<br>
 
 
-## Videos
-### Dr  Hook - When Youre In Love With A Beautiful Woman
-{{< youtube id="OsZ-QdP6VEE" title="Dr  Hook - When Youre In Love With A Beautiful Woman" >}}<br>
-### More Videos
-
-- [Dr Hook - When Youre In Love With A Beautiful Woman 1978 Extended Disco Version HQ](https://www.youtube.com/watch?v=KfxQuAa4tqI)
-- [Dr Hook - Better Love Next Time  Chris Consolation Mix](https://www.youtube.com/watch?v=eSv5UI21PUo)
-- [Dr Hook  When Youre In Love With A Beautiful Woman 1979 Disco Purrfection Version](https://www.youtube.com/watch?v=ECXV1aEnMuM)
-- [Dr Hook  When Youre In Love With A Beautiful Woman 1979 Disco Purrfection Version](https://www.youtube.com/watch?v=sQL0urSHZmQ)
-- [Dr Hook - Sexy eyes 1979 magnums extended mix](https://www.youtube.com/watch?v=ziOzZisdk4k)
-- [Dr Hook  Sexy Eyes 1979 Disco Purrfection Version](https://www.youtube.com/watch?v=5R__dCLhWc0)
-- [Dr Hook  the Medicine Show - Sylvias Mother 1972 magnums extended mix](https://www.youtube.com/watch?v=pRJdJ2gczak)
-- [Dr Hook - A Little Bit More 1976 magnums extended mix](https://www.youtube.com/watch?v=LiYhlSXmwhE)
-- [Dr Hook - Better love next time 1979 magnums extended mix](https://www.youtube.com/watch?v=s9K6ye3iXQQ)
-- [Dr Hook - Sexy eyes master chic remix djnitochile edit](https://www.youtube.com/watch?v=8vTAqmXKLQc)
-- [Dr Hook - Sexy Eyes Remix](https://www.youtube.com/watch?v=1uPjz3tdaQ4)
-- [Dr Hook - Sexy Eyes Discotizers Sexy Green Eyes Mix](https://www.youtube.com/watch?v=FCMB0z6adTM)
-- [Dr Hook - Sexy eyes cover by disco purrfection](https://www.youtube.com/watch?v=xxd36xHzu1w)
-- [Dr Hook - Baby Makes Her Blue Jeans Talk Extended Version](https://www.youtube.com/watch?v=Mi_kS1sfS3I)
-- [Walk Right In - Dr Hook](https://www.youtube.com/watch?v=B-AwlGXUZIw)
-- [Dr Hook - Baby Makes Her Blue Jeans Talk Remastered](https://www.youtube.com/watch?v=hLZQ2XXL8ig)
-- [KC  The Sunshine Band  Keep It Comin Love 1977 Disco Purrfection Version](https://www.youtube.com/watch?v=HOY6Sd9Q82Y)
-- [maxine nightingale - right back to where we started from extended version by fggk](https://www.youtube.com/watch?v=OcwQGFRQylc)
-- [kiss - i was made for lovin you extended version by fggk](https://www.youtube.com/watch?v=ySQ_a2rjExs)
-- [Jigsaw  Sky High 1975 Disco Purrfection Version](https://www.youtube.com/watch?v=8ih1BqZbmb8)
-- [robert palmer - lookin for clues extended version by fggk](https://www.youtube.com/watch?v=kPA8AnHn6Os)
-- [Men At Work  Down Under 1981 Extended Meow Mix](https://www.youtube.com/watch?v=cgdiwGuCGRs)
-- [The Four Seasons  December 1963 Oh What A Night 1976 Disco Purrfection Version](https://www.youtube.com/watch?v=zHmKP0uQNLg)
-- [KC  The Sunshine Band  Get Down Tonight 1975 Disco Purrfection Version](https://www.youtube.com/watch?v=lsi_3WWs7oM)
-- [Pretenders - Brass in Pocket 1978 DEMO magnums extended mix](https://www.youtube.com/watch?v=04mK0A88wAE)
-- [Pretenders - Brass In Pocket Extended](https://www.youtube.com/watch?v=epe7NE_vyGo)
-- [Brass In Pocket BlackRoomRe-Construction - The Pretenders](https://www.youtube.com/watch?v=Ogp_6Ji7j3c)
-- [PRETENDERS BRASS IN POCKET Walter Mengoni Remix](https://www.youtube.com/watch?v=4yB1HAfvM-4)
-- [Blondie  Heart Of Glass 1979 Disco Purrfection Version Uncensored](https://www.youtube.com/watch?v=YaV0hcrW41I)
-- [Ottawan - DISCO extended english version](https://www.youtube.com/watch?v=_QrG4NefDOE)
-- [The Temptations - Papa Was A Rolling Stone](https://www.youtube.com/watch?v=pJV2pWFyfn4)
-- [Yvonne Elliman  If I Cant Have You 1977 Disco Purrfection Version](https://www.youtube.com/watch?v=kQr3-BPszTI)
-- [Michael Jackson  Dont Stop Til You Get Enough 1979 Disco Purrfection Version](https://www.youtube.com/watch?v=_KQoScLxdSo)
-- [Grace Jones  Private Life Unreleased Extended Version 8 minutes](https://www.youtube.com/watch?v=w8tkcrHOKHY)
-- [10cc- Im Not In Love  Maxi Mix](https://www.youtube.com/watch?v=uqrtCKg6P8s)
-- [Angie Extended - Rolling Stones](https://www.youtube.com/watch?v=HKB-4Tf3Bzk)
-- [Gerry Rafferty   Baker Street Long Version](https://www.youtube.com/watch?v=dU6w56epBdc)
-- [Fleetwood Mac  Dreams 1977 Disco Purrfection Version](https://www.youtube.com/watch?v=u1pa33hUra0)
-- [Rupert Holmes - Escape  Extended Mix  V2](https://www.youtube.com/watch?v=ixthNrkF1fw)
-- [The Manhattan Transfer-Soul Food To Go Extended Version](https://www.youtube.com/watch?v=q2Dh8Gx2fw4)
-- [MFSB feat The Three Degrees - TSOP The Sound Of Philadelphia Ruuds Extended T Young Edit](https://www.youtube.com/watch?v=dmp7eY_FYjg)
-- [MFSB  TSOP The Sound Of Philadelphia 1973 Disco Purrfection Version](https://www.youtube.com/watch?v=ZC-NoApNP3c)
-- [MFSB With The Three Degrees TSOP The Sound Of Philadelphia DJ Bollacha Extended Philly Mix](https://www.youtube.com/watch?v=bXFO97Dy3IY)
-- [Harold Melvin  Blue Notes The Love I Lost 2020 Extended Edit Revisit Mix ](https://www.youtube.com/watch?v=yvY2_5xccnk)
-- [The Love I Lost Dimitri 12 Lost Groove](https://www.youtube.com/watch?v=OmWJgkbxUXQ)
-- [The Love I Lost](https://www.youtube.com/watch?v=Az4iWcBvNxw)
-- [Harold Melvin  The Blue Notes - The Love I Lost Disco Mix Song Extended Version VP Dj Duck](https://www.youtube.com/watch?v=G0QhzIuL1ZY)
-- [Harold Melvin and The Bluenotes - Dont Leave me This Way Dave Lee Philly World Mix](https://www.youtube.com/watch?v=06olLJpH6s8)
-- [Dont leave me this way - H Melvin  Bluenotes Dimitri from Paris](https://www.youtube.com/watch?v=tlnhm2FDXxY)
-- [Harold Melvin  the Blue Notes - Dont leave this way extended version](https://www.youtube.com/watch?v=mhqwO1e2CVM)
-- [HAROLD MELVIN  THE BLUE NOTES -  Dont Leave Me This Way Extended Version 1975](https://www.youtube.com/watch?v=mLQkoC6wRTw)
-- [Dont Leave Me This Way Extended Loop - Harold Melvin  the Blue Notes with Teddy Pendergrass](https://www.youtube.com/watch?v=PuAWJMz-q_0)
-- [Lou Rawls  Youll Never Find Another Love Like Mine 1976 Disco Purrfection Version](https://www.youtube.com/watch?v=PDZjMgnvzQw)
-- [Lou Rawls - Youll Never Find Another Love Like Mine Groovefunkel Remix](https://www.youtube.com/watch?v=Q5DH4K8E_u8)
-- [Lou Rawls - Youll Never Find Another Love like Mine Tom Moulton 12inch vinyl 96kHz24bit cptd Audio](https://www.youtube.com/watch?v=3V-v_dr3KS0)
-- [Lou Rawls - Youll Never Find Another Love Like Mine1976karlmixclub extended remix](https://www.youtube.com/watch?v=1QZ6MrRDoAc)
-- [Lou Rawls  Youll Never Find Another Love Like Mine 1976 Extended Meow Mix](https://www.youtube.com/watch?v=z7pQUs1SbvM)
-- [Lou RawlsYoull Never Find Another Love Like MineExtended Mix](https://www.youtube.com/watch?v=_PSG5KsiDRY)
-- [Herb Alpert - Rise 1979 karlmixclub extended remix](https://www.youtube.com/watch?v=MXs2dF4LBfs)
-- [Imagination - Just an Illusion1982 karlmixclub Extended Special Remix Night Dubbing 2v1](https://www.youtube.com/watch?v=Jb82lBRKXNA)
-- [Kool  The Gang - Fresh karlmixclub Extended Remix Vs Remix Us](https://www.youtube.com/watch?v=JlDBHLpcXCo)
-- [Blondie - Heart of Glass 1978karlmixclub Extended Mix](https://www.youtube.com/watch?v=sduM3VEhRcU)
-- [Eruption - One Way Ticket 1979US Remixkarlmixclub Extended Remix 2022v2](https://www.youtube.com/watch?v=1fDbUi91kgM)
-- [Gloria Gaynor - I Will Survive1978karlmixclub extended remixv1](https://www.youtube.com/watch?v=NA07BdWmf9M)
-- [Wham - Everything She Wantskarlmixclub extended remix](https://www.youtube.com/watch?v=trofPTJd_QU)
-- [Imagination - Music  Lights 1982 karlmixclub Extended Special Remix Night Dubbing 2](https://www.youtube.com/watch?v=T-tSjAQ_Zwg)
-- [Jesse Green - Nice  Slow 1976karlmixclub extended remix Vinyl rip](https://www.youtube.com/watch?v=QhyfPblh79U)
-- [Madonna - Into The Groove 1985 karlmixclub Extended Remix](https://www.youtube.com/watch?v=3_DXDtaS2S4)
-- [Imagination - Flashback 1981karlmixclub Extended remix v3](https://www.youtube.com/watch?v=YGzOos-WwAc)
-- [David Christie - Saddle Up 1982karlmixclub extended remix](https://www.youtube.com/watch?v=XyBSTXYYjx4)
-- [Earth Wind  Fire - In the Stone1979 karlmixclub extended remix](https://www.youtube.com/watch?v=QLHRJHujRA4)
-- [Billy Ocean - Caribbean Queen No More Love On The Runkarlmixclub extended remix](https://www.youtube.com/watch?v=Ki0palkHeY4)
-- [KISS - I Was Made For Lovin You 1982karlmixclub Extended remix disco v2](https://www.youtube.com/watch?v=WzT8fRuR99o)
-- [Queen - I Want To Break Free1984karlmixclub extended remix](https://www.youtube.com/watch?v=gkvM_iabS8o)
-- [Ottawan - DISCO 1979 karlmixclub extended mix remix club](https://www.youtube.com/watch?v=u2U81GmYBMI)
-- [Earth Wind  Fire - Boogie Wonderland karlmixclub remix extendedv1](https://www.youtube.com/watch?v=1OyyR-0nOdY)
-- [FR David - Words 1982karlmixlub 2k20 Re-Touch extended remix Version](https://www.youtube.com/watch?v=9aWAz0lkAK8)
-- [Kool and the Gang - Celebration1980 karlmixclub extended remix](https://www.youtube.com/watch?v=A2O4z5hrI0o)
-- [Billy Joel - Uptown Girl 1983 karlmixclub extended Remix](https://www.youtube.com/watch?v=8xF8Ar2LPKE)
-- [Shalamar - There It Is 1982karlmixclub Extended remix v2](https://www.youtube.com/watch?v=yEY5ltCL3fc)
-- [Imagination - Changes 1982karlmixclub remix extended v1](https://www.youtube.com/watch?v=hHW86jtPt00)
-- [Chic - I Want Your Love1978 karlmixclub extended remix](https://www.youtube.com/watch?v=41sr7-8wS9M)
-- [Imagination - Flashback 1981Extended remix original karlmixclub](https://www.youtube.com/watch?v=YZlncBG4-3U)
-- [Tina Charles - I Love To Love1987karlmixclub extended remix](https://www.youtube.com/watch?v=TiBWmK-5q04)
-- [traks - long train running 1982karlmixclub Extended remix v1](https://www.youtube.com/watch?v=-EqF0FQRLNU)
-- [Rick Astley - Dont Say Goodbye1987karlmixclub extended 2016 remix](https://www.youtube.com/watch?v=RbCyDXgm7xE)
-- [Hall  Oates - Maneater1982karlmixclub extended dub remixV1](https://www.youtube.com/watch?v=0Ay_EcrIApM)
-- [Imagination - Just an Illusion1982 karlmixclub Extended Special Remix bass Night Dubbing 2v2](https://www.youtube.com/watch?v=XraZ8EKWOnE)
-- [KISS - I Was Made For Lovin You 1982karlmixclub Extended Remix disco v1](https://www.youtube.com/watch?v=AYPNntU0ZNI)
-- [Gloria Gaynor - I Will Survive 1978 karlmixclub extended remixv1](https://www.youtube.com/watch?v=2SPfzA3SNSY)
-- [Banderas - This Is Your Life Less Stress Mix1991karlmixclub extended remix](https://www.youtube.com/watch?v=tFfGlGYHDcY)
-- [Sade - Hang on to Your Love 1984 karlmixclub extended remix](https://www.youtube.com/watch?v=OOtFyYA0uFQ)
-- [Johnny Hates Jazz - I Dont Want To Be A Hero1987karlmixclub extended remix](https://www.youtube.com/watch?v=p222m5GxRrE)
-- [Bruno Mars - Treasure 2013Extended Extra Instru Remix karlmixclub](https://www.youtube.com/watch?v=-uS2irrPbDg)
-- [Kiss - I Was Made For Lovin You 1982 karlmixclub Extended remix disco v2](https://www.youtube.com/watch?v=TuujqB8HiOk)
-- [Imagination   Just an Illusion 1982 karlmixclub extended mix Night Dubbing](https://www.youtube.com/watch?v=Fzhzphil2yM)
-- [Rick Astley - Never Gonna Give You Up  karlmixclub remix spécial extended](https://www.youtube.com/watch?v=PPCUon-TFko)
-- [Hall  Oates - Maneater 1982 karlmixclub extended dub remixV1](https://www.youtube.com/watch?v=yGclhSVal8c)
-- [Billy Joel - Uptown Girl 1983 karlmixclub extended Remix](https://www.youtube.com/watch?v=uvp5RFNC32c)
-- [Johnny Hates Jazz - Turn back the clock  Extended  ReMix](https://www.youtube.com/watch?v=pbzXJn7p-TI)
-- [Herb Alpert - Rise 1979 karlmixclub extended remix](https://www.youtube.com/watch?v=fNXWq837YAA)
-- [The Whispers - And The Beat Goes On  Extended Remix by RodColonel](https://www.youtube.com/watch?v=dXMFIoUBqVU)
-- [Irene Cara - What A Feeling Extended MHP Remix](https://www.youtube.com/watch?v=Q7pjr0i3c_8)
-- [Earth Wind  Fire - Boogie Wonderland karlmixclub remix extended v1](https://www.youtube.com/watch?v=UsUADi7OQDI)
-- [Carl Douglas - Kung Fu Fighting AirNoise Extended Remix](https://www.youtube.com/watch?v=WCToa12bvPQ)
-- [Diana Ross - Upside Down SPare Extended Disco 12 Mix](https://www.youtube.com/watch?v=wh8M_cASFJQ)
-- [Blondie - Atomic The Extended MHP Remix](https://www.youtube.com/watch?v=AQ8w1Sj8rLM)
-- [Blondie - Heart Of Glass Dj Lee Extended Version Re-Edit Mix](https://www.youtube.com/watch?v=QN29P2HzuU0)
-- [Billy Joel - Uptown Girl OG extended](https://www.youtube.com/watch?v=-RxYLP0sJrw)
-- [Queen - I Want To Break Free KGM Sasha Extended Remix](https://www.youtube.com/watch?v=xaOvjzDcWGw)
-- [Blondie - Heart Of Glass The Extended MHP Remix](https://www.youtube.com/watch?v=faXdpq3q5Jc)
-- [Alan Walker - Faded Dj Dark  Dj Vianu Extended Remix - Queen deep black](https://www.youtube.com/watch?v=Fa-wFR0eLEo)
-- [Laid Back  Bakerman  I Walk Proud  Bakerman Extended Remix   1989](https://www.youtube.com/watch?v=4A_BU30hSnI)
-- [Fisher Z - So Long  - Extended Remix By Carlos Didier 2023 Version 1](https://www.youtube.com/watch?v=8zoo0HCfAqI)
-- [Wham - Freedom Longer Ultrasound Mix](https://www.youtube.com/watch?v=c9kuRS5Kbgo)
-- [U2 - With Or Without You 30th Anniversary Editzhdextendedremix](https://www.youtube.com/watch?v=BLTTiu02sIs)
-- [Barry White - Youre The First The Last My Everything 1974karlmixclub remix Extended](https://www.youtube.com/watch?v=GInC2F0zpzM)
-- [Culture Club - Do You Really Want To Hurt Me1983 karlmixclub extended dub remix](https://www.youtube.com/watch?v=V6ljmymCaWQ)
-- [Kool  The Gang - Celebration 1980 karlmixclub extended remix](https://www.youtube.com/watch?v=8ycEJdMSWsY)
-- [Ottawan - DISCO 1979 karlmixclub extended mix remix club](https://www.youtube.com/watch?v=VmYpSBuRNxQ)
-- [Wham - Everything She Wants karlmixclub extended remix](https://www.youtube.com/watch?v=UwE0DBfxkMA)
-- [Tina Charles - I Love To Love 1987 karlmixclub extended remix](https://www.youtube.com/watch?v=72mcw4i5CL8)
-- [Kool  The Gang - Fresh karlmixclub Extended Remix Vs Remix Us](https://www.youtube.com/watch?v=IwmuwNLDngY)
-- [Rick Astley - Never Gonna Give You Up  1987karlmixclub remixxx spécial extended 2020 new version](https://www.youtube.com/watch?v=S0FmSSvfJGU)
-- [Sade - Hang on to Your Love 1984 karlmixclub extended remix](https://www.youtube.com/watch?v=uQmPxu4aTig)
-- [Kiss - I Was Made For Lovin You 1982karlmixclub Extended remix disco v2](https://www.youtube.com/watch?v=I-AgzWwbFW8)
-- [Earth Wind  Fire - Boogie Wonderland karlmixclub remix extendedv1](https://www.youtube.com/watch?v=y8b1rGm0IPQ)
-- [Billy Joel - My Life 1978 karlmixclub Special Extended Fans](https://www.youtube.com/watch?v=JfozyujyPzA)
-- [Barry White - Youre the First The Last My Everything SPare Extended Disco 12 inches Mix](https://www.youtube.com/watch?v=rDY79BXIWzY)
-- [Talk Talk - Its My Life  Extended Remix ](https://www.youtube.com/watch?v=7tBfU1OggwM)
-- [Hall and Oates - Private Eyes super special extended mix](https://www.youtube.com/watch?v=HkfGt9okf2U)
-- [Daryl Hall  John Oates  Say It Isnt So extended mix 2022Suscríbete](https://www.youtube.com/watch?v=rRwRc5bd6dc)
-- [Electric Light Orchestra ELO Livin Thing - A EuroNick61 Extended Mix](https://www.youtube.com/watch?v=QVA9c_jhfrE)
-- [Blondie - Heart Of Glass DreamTime Mix](https://www.youtube.com/watch?v=lzBRjL0N-k0)
-- [johnny hates jazz  shattered dreams 1988 Disco Purrfection Version](https://www.youtube.com/watch?v=G_cGkyIwp88)
-- [Carly Simon - Coming Around Again Extended Remix](https://www.youtube.com/watch?v=XeY9zxgTxcc)
-- [Kajagoogoo - Too Shy StudioExtendedMidnight Mix 1983 High Quality](https://www.youtube.com/watch?v=hyjyfx15TCE)
-- [Commodores - Lady You Bring Me Up   12 Extended 1981 ](https://www.youtube.com/watch?v=nHNAg2tJzDM)
-- [Captain Sensible - Wot the only extended version](https://www.youtube.com/watch?v=0Cr1abQ0p1s)
-- [Uriah Heep - Lady In Black Extended Ultra Traxx Mix](https://www.youtube.com/watch?v=het7l6as5Bw)
-- [Billy Joel  We Didnt Start The Fire 1989 Extended Meow Mix](https://www.youtube.com/watch?v=YiaWtKpzefs)
-- [DJ Phi 2n presents 12 Inch remix of I Want to Break Free by Queen](https://www.youtube.com/watch?v=UxzrA2a46eI)
-- [Eruption  I Cant Stand The Rain 1978 Disco Purrfection Version](https://www.youtube.com/watch?v=1wt9htkdlsU)
-- [Richi e Poveri-Sarà perché ti amo Originale Extended Play](https://www.youtube.com/watch?v=pKXGEkPgiFc)
-- [Pointer Sisters  Slow Hand 1981 Pop Purrfection Version](https://www.youtube.com/watch?v=2t8H-IswT7g)
-- [Billy Joel - Just The Way You Are Remix](https://www.youtube.com/watch?v=WATIqmee0Tw)
-- [George Michael - Careless Whisper Paul Dakeyne Extended Remix](https://www.youtube.com/watch?v=v4tg0ziVVog)
-- [Earth Wind and Fire - September Extended Version](https://www.youtube.com/watch?v=MnjYdd1_yl8)
-- [WHAM  Wake Me Up Before You Go Go 1984 Disco Purrfection Version](https://www.youtube.com/watch?v=UT6jxaPFCRQ)
-- [Talk Talk - Such A Shame Twelve Inch US Remix - Extended Version](https://www.youtube.com/watch?v=RQNkFYlZAzk)
-- [David Christie - Saddle Up David Kust Radio Remix Vj Partyman Croatia](https://www.youtube.com/watch?v=wqtmzUKfXLk)
-- [The Whispers  And The Beat Goes On 1979 Disco Purrfection Version](https://www.youtube.com/watch?v=S8vs1w8eE2A)
-- [Are You Ready 12 Version](https://www.youtube.com/watch?v=UJw0eiMeHlo)
-- [Toto - Africa Club Mix 1982mp4](https://www.youtube.com/watch?v=wbmC6-5gqMg)
-- [Chris Rea - I Can Hear Your Heart Beat 1983 Magnums Extended Mix](https://www.youtube.com/watch?v=TekrEE7YwSg)
-- [The Doobie Brothers  What A Fool Believes 1978 Disco Purrfection Version](https://www.youtube.com/watch?v=yQ8o3r3N8o8)
-- [Daryl Hall  John Oates  Private Eyes 1981 Disco Purrfection Version](https://www.youtube.com/watch?v=bMXu6FsjaYU)
-- [M  Pop Muzik 1979 Disco Purrfection Version](https://www.youtube.com/watch?v=A4cGTzvPfvs)
-- [Barry White  Youre The First The Last My Everything 1974 Disco Purrfection Version](https://www.youtube.com/watch?v=ocd5XqcAdj0)
-- [Billy Joel  My Life 1978 Disco Purrfection Version](https://www.youtube.com/watch?v=3dJ4P3Wm0TA)
-- [Daryl Hall  John Oates  I Cant Go For That No Can Do 1981 Disco Purrfection Version](https://www.youtube.com/watch?v=9dGjeozmgzA)
-- [Carl Douglas - Kung Fu Fighting1974karlmixclub extended remix](https://www.youtube.com/watch?v=81hPUk2k61U)
-- [Daryl Hall  John Oates  Rich Girl 1976 Pop Purrfection Version](https://www.youtube.com/watch?v=E76ftYK5_go)
-- [Shalamar  The Second Time Around 1978 Disco Purrfection Version](https://www.youtube.com/watch?v=CBA8cSlDMeA)
-- [Electric Light Orchestra  Evil Woman 1975 Classic Rock Purrfection Version](https://www.youtube.com/watch?v=DH8rV8qFCck)
-- [One Way Ft Al Hudson - You Can Do It 1979 Disco Purrfection Version](https://www.youtube.com/watch?v=kWNus5lh9jE)
-- [KC  The Sunshine Band - Give It Up 1984 Disco Purrfection Version](https://www.youtube.com/watch?v=zOOsgNh0ZVw)
-- [Wild Cherry  Play That Funky Music 1976 Disco Purrfection Version](https://www.youtube.com/watch?v=AHJk62tnm3A)
-- [Herb Alpert  Rise 1979 Disco Purrfection Version](https://www.youtube.com/watch?v=Nh3JRUe6Fyw)
-- [Bill Withers  Lovely Day 1977 Disco Purrfection Version](https://www.youtube.com/watch?v=J-7f05hBNfs)
-- [Steely Dan   Do It Again 1972 Disco Purrfection Version](https://www.youtube.com/watch?v=eHVjqr2Z7EU)
-- [Kool  The Gang  Ladies Night 1979 Disco Purrfection Version](https://www.youtube.com/watch?v=F7-BajY2Gns)
-- [George Benson  Give Me The Night 1980 Disco Purrfection Version](https://www.youtube.com/watch?v=JJlTY9BB36U)
-- [ABC  The Look Of Love 1982 Disco Purrfection Version](https://www.youtube.com/watch?v=oLNMnOYEMAA)
-- [Delegation - You And I Disco Mix Extended Remix Version 80s VP Dj Duck](https://www.youtube.com/watch?v=0e2pJD-i_Ew)
-- [RYAN PARIS - Dolce Vita 1983 magnums extended mix](https://www.youtube.com/watch?v=gYg1qrwtMbU)
-- [Bee Gees - You Should Be Dancing Remix](https://www.youtube.com/watch?v=cw1hL1nktFM)
-- [Culture Club - Do You Really Want To Hurt Me Extended 80s Multitrack Version BodyAlive Remix](https://www.youtube.com/watch?v=tMFBt0oj3qQ)
-- [GEORGE BENSON Turn Your Love Around MAXI EXTENDED REWORK](https://www.youtube.com/watch?v=J4eF1iHSKuc)
-- [Patrick Hernandez - Born To Be Alive 2 TRUST Club Refix](https://www.youtube.com/watch?v=LuIZ26uWLKQ)
-- [Blondie - Heart of Glass Long Disco-Version  R Thorpe Edit](https://www.youtube.com/watch?v=iGnHTAtJxi4)
-- [Queen - I Want to Break Free Extended Re-Mix Best Sound on Youtube](https://www.youtube.com/watch?v=zvCiWns4N2g)
-- [John Paul Young - Standing In The Rain Ultra Traxx Remix](https://www.youtube.com/watch?v=u2IVrsxLO88)
-- [Never Can Say Goodbye - Extended 12inch Dance mix Refine  The Communards](https://www.youtube.com/watch?v=hRCbIJ1eYUQ)
-- [Daryl Hall  John Oates - Maneater Spezial Club Dub Re-Mix 901 Mixed by Stefan Linke](https://www.youtube.com/watch?v=21yfwu1ONmQ)
-- [DAVID CHRISTIE - Saddle Up Extended Version 1982](https://www.youtube.com/watch?v=Qiue4hakrqY)
-- [Chris de Burgh - High On Emotion 12 Extended Version](https://www.youtube.com/watch?v=veC0F9UTxPk)
-- [Kool And The Gang   Fresh  Extended 12 Remixes  1984](https://www.youtube.com/watch?v=yC8NkJ_8_qw)
-- [Mike Anthony - Why cant we live together extended version](https://www.youtube.com/watch?v=uim4ENPBd3U)
-- [Eruption ft Precious Wilson - I Cant Stand The Rain 88 Extended remix](https://www.youtube.com/watch?v=kxGKQqmB3lw)
-- [Kylie Minogue - Your Disco Needs You Almighty Remix - Kluin Extended](https://www.youtube.com/watch?v=sEBzjkpAJPU)
-- [Billy Joel - My Life Sergio Luna Remix](https://www.youtube.com/watch?v=zSa5tb-waTg)
-- [Change Feat Luther Vandross - Searching Paul Dakeyne Extended Remix](https://www.youtube.com/watch?v=w8X1APBcIlc)
-- [Whitney Houston - Love Will Save The Day Extended ReMix](https://www.youtube.com/watch?v=KyVE83JOEOE)
-- [Paul Simon - Diamonds On The Soles Of Her Shoes 12 Extended Remix Maxi Version](https://www.youtube.com/watch?v=htYNvWqEs2g)
-- [Kano - Another Life extended remix 91](https://www.youtube.com/watch?v=zb5UDPsZ2pY)
-- [Alexander ONeal  Fake Extended 80s Multitrack Version BodyAlive Remix](https://www.youtube.com/watch?v=Lfyp-tU57NQ)
-- [BRUNO MARS - TREASURE RICCARDO LODI EXTENDED REMIX](https://www.youtube.com/watch?v=YN6QRsqX3gM)
-- [Madonna - La Isla Bonita KGM Sasha 2018 Ext Remix Enhanced B Roll Video](https://www.youtube.com/watch?v=hh4gHWmeyz8)
-- [The Look The Extended MHP Remix](https://www.youtube.com/watch?v=fGfGfCgZLiY)
-- [Madonna - Like A Virgin DJ Bollacha Extended Remix](https://www.youtube.com/watch?v=xG_POzv9pjc)
-- [Billy Joel - Uptown Girl DJ Bollacha Extended Remix](https://www.youtube.com/watch?v=9Zbl3d3Z0so)
-- [Kool  The Gang Celebration Extended Remix Versión Solo Audio](https://www.youtube.com/watch?v=5NAi1_ia5LM)
-- [Kim Wilde - Kids in America DJ Bollacha Extended Wild Mix](https://www.youtube.com/watch?v=LpniW-dU_qA)
-- [Whitney Houston - How Will I Know Extended Remix Version1985](https://www.youtube.com/watch?v=9VvLW5Mr9P0)
-- [U2  Desire HQ Hollywood Extended Remix - 1988](https://www.youtube.com/watch?v=QkvePzr7iKQ)
-- [Imagination   Just An Illusion DJ Chacal Maxi  Extended Remix](https://www.youtube.com/watch?v=ZL_sVw5CO0g)
-- [Madonna Holiday Ultrasound Extended Version](https://www.youtube.com/watch?v=EaDjbmWTjy8)
-- [Imagination - Just an Illusion Extended Version 1982 HD Promo](https://www.youtube.com/watch?v=jaRaRh6bvGA)
-- [The Cars - Drive DJ Chacal Extended Remix](https://www.youtube.com/watch?v=6L6muVmzJTg)
-- [Gloria Gaynor - I Will Survive Disco Mix Original Version Extended 70s VP Dj Duck](https://www.youtube.com/watch?v=l1wDcN6Wpbc)
-- [Toto - Africa Extended Remix](https://www.youtube.com/watch?v=yV-7ggZ7uCM)
-- [Sade - Hang On To Your Love Mao Extended IA Mix](https://www.youtube.com/watch?v=udz-Mw03u5Q)
-- [Culture Club  - Do You Really Want To Hurt Extended Mix 0800](https://www.youtube.com/watch?v=FbsRlFa5KVc)
-- [David Essex - Rock on 1973 magnums extended mix](https://www.youtube.com/watch?v=xJ6S8c_jE_E)
-- [The Hues Corporation - Rock The Boat Disco Mix Song Extended Version VP Dj Duck](https://www.youtube.com/watch?v=YLhfxm7neKg)
-- [Fleetwood Mac  Gypsy 1982 Classic Rock Purrfection Version](https://www.youtube.com/watch?v=3fLtu-GLTAk)
-- [Genesis - Follow you follow me 1978 magnums extended mix v2](https://www.youtube.com/watch?v=x46UFhiPRsU)
-- [Falco - The Sound Of Musik The Extended Rock N Soul Version 1986](https://www.youtube.com/watch?v=8iYsmDtb9p4)
-- [Rock Your Baby  George McCrae  Extended](https://www.youtube.com/watch?v=RbrQaG2l9f0)
-- [The Captain of Her Heart Special Long Version](https://www.youtube.com/watch?v=Nmte_SQ502k)
-- [Tears For Fears - Shout DJ Bollacha Extended Remix](https://www.youtube.com/watch?v=Ykrims1g0G0)
-- [Queen  David Bowie  Under Pressure 1981 Extended Meow Mix](https://www.youtube.com/watch?v=NkYFt2qhDl8)
-- [Queen - i want to break free extended retro remix](https://www.youtube.com/watch?v=WiuvsjL8AZA)
-- [ISRAELITESRaydio - Jack And Jill 1977 Extended Version](https://www.youtube.com/watch?v=rAcyREky2mw)
-- [RAY PARKER JR - Jack And Jill Back Up The Hill 1982 Version Soul Funk Disco RAYDIO](https://www.youtube.com/watch?v=9P0HBg2s1Ck)
-- [Ray Parker Jr  The Raydio - Jack and Jill extended](https://www.youtube.com/watch?v=0lrZ_mQRikM)
-- [Honey Im a Star](https://www.youtube.com/watch?v=rQBMPSpby4c)
-- [Raydio - More than one way to love a woman from album Rock On - 1979](https://www.youtube.com/watch?v=iJwX1EzqWbM)
-- [ISRAELITESRaydio - You Cant Change That 1979 Extended Version](https://www.youtube.com/watch?v=6awlI7IiN6M)
-- [Cliff Richard  Devil Woman 1976 Disco Purrfection Version](https://www.youtube.com/watch?v=ohWdKwzbDfk)
-- [Bee Gees  More Than A Woman 1977 Disco Purrfection Version](https://www.youtube.com/watch?v=2nce8_gljvw)
-- [Love Unlimited Orchestra  Loves Theme 1973 Disco Purrfection Version](https://www.youtube.com/watch?v=RLTJ95kj9ng)
-- [Eric Carmen - All by Myself Audio](https://www.youtube.com/watch?v=iN9CjAfo5n0)
-- [George Michael - Careless Whisper Extended Mix Audio](https://www.youtube.com/watch?v=tFiMA_Id3A4)
-- [Elton John  Bennie  The Jets 1973 Soul Purrfection Version](https://www.youtube.com/watch?v=fpBWs9xi0As)
-- [The Temptations  Law Of The Land 1973 Disco Purrfection Version](https://www.youtube.com/watch?v=3Kjvr5gxz7E)
-- [Toto  Hold The Line 1978 Classic Rock Purrfection Version](https://www.youtube.com/watch?v=PiDDQaESEms)
-- [Carl Carlton  Everlasting Love 1974 Disco Purrfection Version](https://www.youtube.com/watch?v=Rw9UxnyR5a8)
-- [Labelle  Lady Marmalade 1975 Disco Purrfection Version 2](https://www.youtube.com/watch?v=I46kRyKbrDY)
-- [The Buggles  Video Killed The Radio Star 1979 Disco Purrfection Version](https://www.youtube.com/watch?v=aC_rnK2C0E8)
-- [Diana Ross  Im Coming Out 1980 Disco Purrfection Version](https://www.youtube.com/watch?v=whWHKNf2wjU)
-- [Peter Brown ft Betty Wright  Dance With Me 1978 Disco Purrfection Version](https://www.youtube.com/watch?v=-B0clOQtLHA)
-- [Bob Welch  Precious Love 1979 Disco Purrfection Version](https://www.youtube.com/watch?v=hwBV2QrnKNc)
-- [Andrea True Connection  More More More 1976 Disco Purrfection Version](https://www.youtube.com/watch?v=-DdPJhUUkTk)
-- [Isaac Hayes  Theme From Shaft 1971 Soul Purrfection Version](https://www.youtube.com/watch?v=ymkFgXqblCs)
-- [Redbone  Come And Get Your Love 1973 Disco Purrfection Version](https://www.youtube.com/watch?v=45ecdUkIAiQ)
-- [Wings  Listen To What The Man Said 1975 Disco Purrfection Version](https://www.youtube.com/watch?v=sGRsaRX7Uxw)
-- [Irene Cara  Flashdance What A Feeling 1983 Disco Purrfection Version](https://www.youtube.com/watch?v=9T5dQX2RtS0)
-- [Heatwave  Boogie Nights 1976 Disco Purrfection Version](https://www.youtube.com/watch?v=LwV1_Pv2EE0)
-- [Earth Wind  Fire ft The Emotions  Boogie Wonderland 1979 Disco Purrfection Version](https://www.youtube.com/watch?v=xGfoY4nno3A)
-- [Pointer Sisters  Im So Excited 1982 Disco Purrfection Version](https://www.youtube.com/watch?v=bRN4xZJExXk)
-- [Daryl Hall  John Oates  Maneater 1982 Purrfection Version](https://www.youtube.com/watch?v=rZhzyb6jS1c)
-- [Michael Sembello  Maniac 1983 Disco Purrfection Version](https://www.youtube.com/watch?v=rGQk58yOUf0)
-- [Chic  Good Times 1979 Disco Purrfection Version](https://www.youtube.com/watch?v=y7L3QvRXlvY)
-- [Hot Chocolate  Every 1s A Winner 1978 Disco Purrfection Version](https://www.youtube.com/watch?v=dTev_FDh_Ik)
-- [Stevie Wonder  Living For The City 1973 Soul Purrfection Version](https://www.youtube.com/watch?v=Rc91Ri9tk4U)
-- [Gerry Rafferty  Baker Street 1978 Disco Purrfection Version](https://www.youtube.com/watch?v=pqKHb9kje-E)
-- [Wings  Silly Love Songs 1976 Disco Purrfection Version](https://www.youtube.com/watch?v=FmXlBceO_Bk)
-- [Marvin Gaye  Sexual Healing 1982 Soul Purrfection Version](https://www.youtube.com/watch?v=k7fm27DjOMI)
-- [KC  Give It Up 1984 Disco Purrfection Version](https://www.youtube.com/watch?v=H2aeEvIu-Mc)
-- [Earth Wind  Fire  September 1978 Disco Purrfection Version](https://www.youtube.com/watch?v=9SEIbN7ln4M)
-- [George McCrae  Rock Your Baby 1974 Disco Purrfection Version](https://www.youtube.com/watch?v=Htqv0PLpDDI)
-- [Earth Wind  Fire  Lets Groove 1981 Disco Purrfection Version](https://www.youtube.com/watch?v=wb4KBQvzm8s)
-- [The Spinners  Rubberband Man 1976 Disco Purrfection Version](https://www.youtube.com/watch?v=m-xAjF_wFgo)
-- [John Paul Young  Love Is In The Air 1978 Disco Purrfection Version](https://www.youtube.com/watch?v=4cIUylAUbwM)
-- [Orleans  Still The One 1976 Disco Purrfection Version](https://www.youtube.com/watch?v=r46HNVPGQAM)
-- [Bellamy Brothers  Let Your Love Flow 1976 Disco Purrfection Version](https://www.youtube.com/watch?v=lrQtZuQ7Zsg)
-- [KC  The Sunshine Band Thats The Way I Like It 1975 Disco Purrfection Version](https://www.youtube.com/watch?v=LgQUYGdY7dg)
-- [Bill Withers  Lovely Day 1977 Disco Purrfection Version 2](https://www.youtube.com/watch?v=4rsMDSwZWLY)
-- [Change ft Luther Vandross  Searching 1980 Disco Purrfection Version](https://www.youtube.com/watch?v=-OQlksRZwk4)
-- [Leo Sayer  Easy To Love 1977 Disco Purrfection Version](https://www.youtube.com/watch?v=eFxiqGBsbDM)
-- [Gloria Gaynor  Never Can Say Goodbye 1974 Disco Purrfection Version](https://www.youtube.com/watch?v=U4rpqHwUh8c)
-- [Raze   Break 4 Love English Version](https://www.youtube.com/watch?v=wr-b0U-bjJ4)
-- [Raze - Break 4 Love Blame Remix](https://www.youtube.com/watch?v=-9E-2_6aItw)
-- [Raze - Break For Love Extended Rework Disco Mix Dj Bohus Remix](https://www.youtube.com/watch?v=uMEdzA2tVpo)
-- [Break 4 Love Our Tribe Club Mix](https://www.youtube.com/watch?v=mGtwVT-30CM)
-- [Raze   Break 4 Love UltraTraxx X Tended Re Mix](https://www.youtube.com/watch?v=Hmn7PY6jq-k)
-- [Raze - Break 4 Love Johnson Somerset remix](https://www.youtube.com/watch?v=MyQhwTSC9KU)
-- [Raze - Break 4 Love  Sydney Youngblood - If Only I Could](https://www.youtube.com/watch?v=Wfy3HpaWew4)
-- [David Vendetta - Break 4 Love Original Extend Mixwmv](https://www.youtube.com/watch?v=qj1nDXhzUwY)
-- [Chris Rea - Lets dance 1987 12 special remix](https://www.youtube.com/watch?v=aM8Hnv4iXoI)
-- [Chris Rea - Lets Dance Very Rare](https://www.youtube.com/watch?v=FrTmIgToKHs)
-- [Chris-Rea - Lets dance 1987 magnums extended mix](https://www.youtube.com/watch?v=REokhY5P9EE)
-- [Chris Rea - I Can Hear Your Heartbeat 1983 - Maxi 45T](https://www.youtube.com/watch?v=iJjCG7iAnwY)
-- [Chris Rea - I Can Hear Your Heartbeat 12 Club Mix Maxi Version](https://www.youtube.com/watch?v=S6IVN55bgb8)
-- [Chris Rea - I can hear your heartbeat 1983 magnums extended mix](https://www.youtube.com/watch?v=Pb7a0LCFGrQ)
-- [Chris Rea  I Can Hear Your Heartbeat 1983 Disco Purrfection Version](https://www.youtube.com/watch?v=i5gSC-eE8j4)
-- [Chris Rea - I can hear your heartbeat  Tribe 1983 extended](https://www.youtube.com/watch?v=LRApIn9GJ6g)
-- [Dr  Hook - When Youre In Love With A Beautiful Woman](https://www.youtube.com/watch?v=OsZ-QdP6VEE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -349,5 +61,5 @@ styles: []
 | Format         | Vinyl LP Compilation Remastered (140 gram) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC842 |
-| Notes | On printed inner sleeve:  Side 1  1. Sylvia's Mother [...] TRO Essex Music Ltd ℗ 1972 Columbia Records, a division of Sony Music Entertainment 2. The Cover Of "Rolling Stone" [...] TRO Essex Music Ltd [...] ℗ 1972 Columbia Records, a division of Sony Music Entertainment 3. Carry Me, Carrie [...] TRO Essex Music Ltd [...] ℗ 1972 Columbia Records, a division of Sony Music Entertainment 4. Only Sixteen Remastered / 2002 [...] Abkco Music Inc. ℗ 2002 Capitol Records, LLC 5. I Got Stoned And I Missed It Remastered 1996 [...] TRO Essex Music Ltd ℗ 1996 Capitol Records, LLC 6. The Millionaire Remastered / 2002 [...] Rondor Music (London) Ltd ℗ 2002 Capitol Records, LLC 7. Everybody's Makin' It Big But Me Remastered / 1996 [...] TRO Essex Music Ltd ℗ 1996 Capitol Records, LLC 8. More Like The Movies Remastered 1996 [...] Evil Eye Music, Inc. ℗ 1996 Capitol Records, LLC 9. A Little Bit More 1996 Digital Remaster [...] Chappell & Co. ℗ 1996 Capitol Records, LLC  Side 2  1. If Not You Remastered 2002 [...] Screen Gems-EMI Music Inc. ℗ 2002 Capitol Records, LLC 2. Walk Right In Remastered / 2002 [...] Peer International Corporation ℗ 2002 Capitol Records, LLC 3. Sharing The Night Together Remastered 2002 [...] Spirit Of Nashville One / Spirit Two Nashville ℗ 2002 Capitol Records, LLC 4. Storms Never Last [...] Baron Music Publishing Ltd. ℗ 1978 Capitol Records, LLC 5. When You're In Love With A Beautiful Woman Remastered 1996 [...] Screen Gems-EMI Music, Inc. ℗ 1996 Capitol Records, LLC 6. You Make My Pants Want To Get Up And Dance Remastered / 1996 [...] Screen Gems-EMI Music Inc ℗ 1996 Capitol Records, LLC 7. Sexy Eyes [...] EMI April Music Inc. / EMI Blackwood Music Inc. ℗ 2002 Capitol Records, LLC.  8. Better Love Next Time Remastered / 2002 [...] Warner House Of Music ℗ 2002 Capitol Records, LLC 9. Baby Makes Her Blue Jeans Talk [...] Screen Gems-EMI Music Ltd ℗ 1982 Universal Music International B.V.  On back cover, labels and printed inner-sleeve:  This compilation ℗ and © 2021 Demon Music Group. All songs licensed courtesy of Universal Music Operations Limited except for side 1, tracks 1-3 licensed courtesy of Sony Music Entertainment UK Limited. Marketed by Demon Records, a division of Demon Music Group Limited, London W12 7FA The Demon Music Group is a BBC Studios company. [...] Made in the EU. www.demonmusicgroup.co.uk |
-| Discogs URL    | [Dr. Hook - Gold](https://www.discogs.com/release/17603065-Dr-Hook-Gold) |
+| Notes | On printed inner sleeve: <br>Side 1<br><br>1. Sylvia's Mother [...] TRO Essex Music Ltd ℗ 1972 Columbia Records, a division of Sony Music Entertainment<br>2. The Cover Of "Rolling Stone" [...] TRO Essex Music Ltd [...] ℗ 1972 Columbia Records, a division of Sony Music Entertainment<br>3. Carry Me, Carrie [...] TRO Essex Music Ltd [...] ℗ 1972 Columbia Records, a division of Sony Music Entertainment<br>4. Only Sixteen Remastered / 2002 [...] Abkco Music Inc. ℗ 2002 Capitol Records, LLC<br>5. I Got Stoned And I Missed It Remastered 1996 [...] TRO Essex Music Ltd ℗ 1996 Capitol Records, LLC<br>6. The Millionaire Remastered / 2002 [...] Rondor Music (London) Ltd ℗ 2002 Capitol Records, LLC<br>7. Everybody's Makin' It Big But Me Remastered / 1996 [...] TRO Essex Music Ltd ℗ 1996 Capitol Records, LLC<br>8. More Like The Movies Remastered 1996 [...] Evil Eye Music, Inc. ℗ 1996 Capitol Records, LLC<br>9. A Little Bit More 1996 Digital Remaster [...] Chappell & Co. ℗ 1996 Capitol Records, LLC<br><br>Side 2<br><br>1. If Not You Remastered 2002 [...] Screen Gems-EMI Music Inc. ℗ 2002 Capitol Records, LLC<br>2. Walk Right In Remastered / 2002 [...] Peer International Corporation ℗ 2002 Capitol Records, LLC<br>3. Sharing The Night Together Remastered 2002 [...] Spirit Of Nashville One / Spirit Two Nashville ℗ 2002 Capitol Records, LLC<br>4. Storms Never Last [...] Baron Music Publishing Ltd. ℗ 1978 Capitol Records, LLC<br>5. When You're In Love With A Beautiful Woman Remastered 1996 [...] Screen Gems-EMI Music, Inc. ℗ 1996 Capitol Records, LLC<br>6. You Make My Pants Want To Get Up And Dance Remastered / 1996 [...] Screen Gems-EMI Music Inc ℗ 1996 Capitol Records, LLC<br>7. Sexy Eyes [...] EMI April Music Inc. / EMI Blackwood Music Inc. ℗ 2002 Capitol Records, LLC. <br>8. Better Love Next Time Remastered / 2002 [...] Warner House Of Music ℗ 2002 Capitol Records, LLC<br>9. Baby Makes Her Blue Jeans Talk [...] Screen Gems-EMI Music Ltd ℗ 1982 Universal Music International B.V.<br><br>On back cover, labels and printed inner-sleeve: <br>This compilation ℗ and © 2021 Demon Music Group. All songs licensed courtesy of Universal Music Operations Limited except for side 1, tracks 1-3 licensed courtesy of Sony Music Entertainment UK Limited. Marketed by Demon Records, a division of Demon Music Group Limited, London W12 7FA The Demon Music Group is a BBC Studios company. [...] Made in the EU. www.demonmusicgroup.co.uk |
+| Discogs URL    | [Dr Hook - Gold](https://www.discogs.com/release/17603065-Dr-Hook-Gold) |

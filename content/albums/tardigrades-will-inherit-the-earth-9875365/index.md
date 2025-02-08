@@ -4,6 +4,7 @@ artist_name: "The Mute Gods"
 artist: "the-mute-gods"
 album_name: "Tardigrades Will Inherit The Earth"
 date: 2017-03-26T10:56:25.000000Z
+release_date: "2017-02-24"
 release_id: "9875365"
 slug: "tardigrades-will-inherit-the-earth-9875365"
 hideSummary: true
@@ -33,48 +34,44 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Saltatio Mortis (1:57)
-2. Animal Army (5:00)
-3. We Can't Carry On (5:11)
-4. The Dumping Of The Stupid (7:09)
-5. Early Warning (3:56)
-6. Tardigrades Will Inherit The Earth (5:02)
-7. Window Onto The Sun (6:00)
-8. Lament (2:01)
-9. The Singing Fish Of Batticaloa (8:24)
-10. Hallelujah (5:50)
-11. The Andromeda Strain (2:57)
-12. Stranger Than Fiction (4:21)
-13. Jesus Thinks You're A Fuckwit (3:39)
-14. Saltatio Mortis (1:56)
-15. Animal Army (4:59)
-16. We Can't Carry On (5:11)
-17. The Dumping Of The Stupid (7:08)
-18. Early Warning (3:56)
-19. Tardigrades Will Inherit The Earth (5:02)
-20. Window Onto The Sun (6:00)
-21. Lament (2:01)
-22. The Singing Fish Of Batticaloa (8:24)
-23. Hallelujah (5:50)
-24. The Andromeda Strain (2:56)
-25. Stranger Than Fiction (9:21)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Saltatio Mortis | 1:57 |
+| A2 | Animal Army | 5:00 |
+| A3 | We Can't Carry On | 5:11 |
+| B1 | The Dumping Of The Stupid | 7:09 |
+| B2 | Early Warning | 3:56 |
+| B3 | Tardigrades Will Inherit The Earth | 5:02 |
+| C1 | Window Onto The Sun | 6:00 |
+| C2 | Lament | 2:01 |
+| C3 | The Singing Fish Of Batticaloa | 8:24 |
+| D1 | Hallelujah | 5:50 |
+| D2 | The Andromeda Strain | 2:57 |
+| D3 | Stranger Than Fiction | 4:21 |
+| D4 | Jesus Thinks You're A Fuckwit | 3:39 |
+| CD-1 | Saltatio Mortis | 1:56 |
+| CD-2 | Animal Army | 4:59 |
+| CD-3 | We Can't Carry On | 5:11 |
+| CD-4 | The Dumping Of The Stupid | 7:08 |
+| CD-5 | Early Warning | 3:56 |
+| CD-6 | Tardigrades Will Inherit The Earth | 5:02 |
+| CD-7 | Window Onto The Sun | 6:00 |
+| CD-8 | Lament | 2:01 |
+| CD-9 | The Singing Fish Of Batticaloa | 8:24 |
+| CD-10 | Hallelujah | 5:50 |
+| CD-11 | The Andromeda Strain | 2:56 |
+| CD-12 | Stranger Than Fiction | 9:21 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tardigrades-will-inherit-the-earth/1187309663" >}}<br>
 
 
-## Videos
-### THE MUTE GODS - Tardigrades Will Inherit The Earth OFFICIAL VIDEO
-{{< youtube id="AlmmvkV5olE" title="THE MUTE GODS - Tardigrades Will Inherit The Earth OFFICIAL VIDEO" >}}<br>
-### More Videos
-
-- [THE MUTE GODS - We Cant Carry On Lyric Video](https://www.youtube.com/watch?v=SyjNard5ers)
-- [The Mute Gods - Early Warning 2017 Progressive Rock Art Rock](https://www.youtube.com/watch?v=mp_bqHtKBAM)
-- [THE MUTE GODS - Tardigrades Will Inherit The Earth OFFICIAL VIDEO](https://www.youtube.com/watch?v=AlmmvkV5olE)
-- [THE MUTE GODS - We Cant Carry On Lyric Video](https://www.youtube.com/watch?v=SyjNard5ers)
-- [The Mute Gods - Early Warning 2017 Progressive Rock Art Rock](https://www.youtube.com/watch?v=mp_bqHtKBAM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +82,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 2× LP Album (180 grams), CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 474 |
-| Notes | Sleeve Gatefold Mirror Man: Michael Grassi Sticker: '180g Gatefold 2LP Edition (incl. bonus track & the album on CD). Winner of the "Vanguard Award" at the 2016 Prog Awards in London! Feat. Nick Beggs (Steve Wilson), Roger King (Steve Hackett), Marco Minnemann (Joe Satriani).  Hidden track ("Jesus Thinks You're A Fuckwit") on LP & CD after 1:17 of white, duration 3:43  InsideOut Music provided signed postcard from Nick Beggs with purchase of LP |
+| Notes | Sleeve Gatefold<br>Mirror Man: Michael Grassi<br>Sticker: '180g Gatefold 2LP Edition (incl. bonus track & the album on CD). Winner of the "Vanguard Award" at the 2016 Prog Awards in London! Feat. Nick Beggs (Steve Wilson), Roger King (Steve Hackett), Marco Minnemann (Joe Satriani).<br><br>Hidden track ("Jesus Thinks You're A Fuckwit") on LP & CD after 1:17 of white, duration 3:43<br><br>InsideOut Music provided signed postcard from Nick Beggs with purchase of LP |
 | Discogs URL    | [The Mute Gods - Tardigrades Will Inherit The Earth](https://www.discogs.com/release/9875365-The-Mute-Gods-Tardigrades-Will-Inherit-The-Earth) |

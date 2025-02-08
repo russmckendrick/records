@@ -28,32 +28,25 @@ Screamadelica, featuring Manchester-born singer Denise Johnson, was the band's f
 
 
 ## Tracklisting
-1. Movin' On Up (3:40)
-2. Slip Inside This House (5:16)
-3. Don't Fight It, Feel It (6:54)
-4. Higher Than The Sun (3:38)
-5. Inner Flight (5:01)
-6. Come Together (10:25)
-7. Loaded (7:02)
-8. Damaged (5:39)
-9. I'm Comin' Down (6:01)
-10. Higher Than The Sun (A Dub Symphony In Two Parts) (7:38)
-11. Shine Like Stars (3:47)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Movin' On Up | 3:40 |
+| A2 | Slip Inside This House | 5:16 |
+| A3 | Don't Fight It, Feel It | 6:54 |
+| B1 | Higher Than The Sun | 3:38 |
+| B2 | Inner Flight | 5:01 |
+| B3 | Come Together | 10:25 |
+| C1 | Loaded | 7:02 |
+| C2 | Damaged | 5:39 |
+| C3 | I'm Comin' Down | 6:01 |
+| D1 | Higher Than The Sun (A Dub Symphony In Two Parts) | 7:38 |
+| D2 | Shine Like Stars | 3:47 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/screamadelica/262848981" >}}<br>
 
 
-## Videos
-### Primal Scream - Movin on Up Official HD Video
-{{< youtube id="UVm3mJPn5tE" title="Primal Scream - Movin on Up Official HD Video" >}}<br>
-### More Videos
-
-- [Primal Scream - Come Together Official Video](https://www.youtube.com/watch?v=ZUjW82je_38)
-- [Primal Scream - Come Together Official HD Video](https://www.youtube.com/watch?v=nyylAvfyuBw)
-- [Primal Scream](https://www.youtube.com/watch?v=Za39Z5cLSww)
-- [Primal Scream - Screamadelica Live TV 1992](https://www.youtube.com/watch?v=_KtK01Ne22k)
-- [Primal Scream - Higher Than the Sun Official Video](https://www.youtube.com/watch?v=YHjVIBDYgXg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +58,5 @@ Screamadelica, featuring Manchester-born singer Denise Johnson, was the band's f
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Creation Records |
 | Catalog Number | 88697811061 |
-| Notes | Re-mastered For The 20th Anniversary. Includes 16-Page Booklet With Unseen Images & Brand New Band Interviews. 180 gram Audiophile Vinyl (Black). With a gold sticker on transparent outer shrink wrap. Matte gatefold sleeve. Generic anti-static die-cut poly-lined dust inner sleeves without corners.  Remastered at Metropolis.  |
+| Notes | Re-mastered For The 20th Anniversary.<br>Includes 16-Page Booklet With Unseen Images & Brand New Band Interviews.<br>180 gram Audiophile Vinyl (Black).<br>With a gold sticker on transparent outer shrink wrap.<br>Matte gatefold sleeve.<br>Generic anti-static die-cut poly-lined dust inner sleeves without corners.<br><br>Remastered at Metropolis.<br> |
 | Discogs URL    | [Primal Scream - Screamadelica](https://www.discogs.com/release/3194462-Primal-Scream-Screamadelica) |

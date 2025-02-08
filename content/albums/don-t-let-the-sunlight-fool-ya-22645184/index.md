@@ -4,6 +4,7 @@ artist_name: "The Slackers"
 artist: "the-slackers"
 album_name: "Don't Let The Sunlight Fool Ya"
 date: 2023-10-01T03:55:56.000000Z
+release_date: "2022-04-15"
 release_id: "22645184"
 slug: "don-t-let-the-sunlight-fool-ya-22645184"
 hideSummary: true
@@ -34,33 +35,31 @@ styles: ["Ska"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Windowland
-2. Don't Let The Sunlight Fool Ya
-3. Hanging On
-4. I Almost Lost You
-5. They Are Losing
-6. Shameboy
-7. Statehouse
-8. Second Best
-9. Nobody's Listening
-10. Way Of A Woman
-11. Boogie Nowhere
-12. Time Won't Set You Free
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Windowland |  |
+| A2 | Don't Let The Sunlight Fool Ya |  |
+| A3 | Hanging On |  |
+| A4 | I Almost Lost You |  |
+| A5 | They Are Losing |  |
+| A6 | Shameboy |  |
+| B7 | Statehouse |  |
+| B8 | Second Best |  |
+| B9 | Nobody's Listening |  |
+| B10 | Way Of A Woman |  |
+| B11 | Boogie Nowhere |  |
+| B12 | Time Won't Set You Free |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dont-let-the-sunlight-fool-ya/1601847423" >}}<br>
 
 
-## Videos
-### The Slackers - Dont Let The Sunlight Fool Ya Official Music Video
-{{< youtube id="dHdQCb71Fws" title="The Slackers - Dont Let The Sunlight Fool Ya Official Music Video" >}}<br>
-### More Videos
-
-- [Dont Let The Sunlight Fool Ya](https://www.youtube.com/watch?v=REWQmjXssfQ)
-- [The Slackers - Dont Let The Sunlight Fool Ya Official Music Video](https://www.youtube.com/watch?v=dHdQCb71Fws)
-- [Dont Let The Sunlight Fool Ya](https://www.youtube.com/watch?v=REWQmjXssfQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +70,5 @@ styles: ["Ska"]
 | Format         | Vinyl LP Album |
 | Label          | Pirates Press Records |
 | Catalog Number | PPR319 |
-| Notes | 1st pressing on black vinyl /1,000 Includes twelve-page booklet with pictures, lyrics, credits, and thanks.  [booklet:] 1. (Relaxo Music, BMI) 2. (Relaxo Music, BMI) 3. (Relaxo Music, BMI) 4. (Relaxo Music, BMI) 5. (Relaxo Music, BMI) 6. (Relaxo Music, BMI) 7. (Relaxo Music, BMI) 8. (Relaxo Music, BMI) 9. (Relaxo Music BMI) 10. (Slacker Music, SESAC) 11. (Relaxo Music, BMI) 12. (Relaxo Music, BMI)  1,2, 3, 4, 5, 6, 8, 11, 12 basic tracks recorded […] at Shillelagh Studios, Cranford, NJ  Additional tracks on 5 recorded […] at Deep Dive, Brooklyn  9 recorded […] at Ernestos, Sittard  7 basic tracks recorded […] at Curlys Studio, Brooklyn Additional tracks recorded […] at Shillelagh Studios, Cranford, NJ  10 basic tracks recorded […] at Curlys Studio, Brooklyn Additional tracks […] at Stabby Road, Brooklyn  1,2,3,8,9,10,11 mixed […] at Stabby Road Studio  4,5,7 initial mixes […] at Stabby Road Additional mixing […] at Deep Dive, Brooklyn 6 mixed […] at Dont Trip Studios, Brooklyn 12 mixed […] at Deep Dive, Brooklyn Mastering […] at Deep Dive, Brooklyn  [back cover:] Made in CZ Pirates Press |
+| Notes | 1st pressing on black vinyl /1,000<br>Includes twelve-page booklet with pictures, lyrics, credits, and thanks.<br><br>[booklet:]<br>1. (Relaxo Music, BMI)<br>2. (Relaxo Music, BMI)<br>3. (Relaxo Music, BMI)<br>4. (Relaxo Music, BMI)<br>5. (Relaxo Music, BMI)<br>6. (Relaxo Music, BMI)<br>7. (Relaxo Music, BMI)<br>8. (Relaxo Music, BMI)<br>9. (Relaxo Music BMI)<br>10. (Slacker Music, SESAC)<br>11. (Relaxo Music, BMI)<br>12. (Relaxo Music, BMI)<br><br>1,2, 3, 4, 5, 6, 8, 11, 12 basic tracks recorded […] at Shillelagh Studios, Cranford, NJ<br><br>Additional tracks on 5 recorded […] at Deep Dive, Brooklyn<br><br>9 recorded […] at Ernestos, Sittard<br><br>7 basic tracks recorded […] at Curlys Studio, Brooklyn<br>Additional tracks recorded […] at Shillelagh Studios, Cranford, NJ<br><br>10 basic tracks recorded […] at Curlys Studio, Brooklyn<br>Additional tracks […] at Stabby Road, Brooklyn<br><br>1,2,3,8,9,10,11 mixed […] at Stabby Road Studio<br><br>4,5,7 initial mixes […] at Stabby Road<br>Additional mixing […] at Deep Dive, Brooklyn<br>6 mixed […] at Dont Trip Studios, Brooklyn<br>12 mixed […] at Deep Dive, Brooklyn<br>Mastering […] at Deep Dive, Brooklyn<br><br>[back cover:]<br>Made in CZ<br>Pirates Press |
 | Discogs URL    | [The Slackers - Don't Let The Sunlight Fool Ya](https://www.discogs.com/release/22645184-The-Slackers-Dont-Let-The-Sunlight-Fool-Ya) |

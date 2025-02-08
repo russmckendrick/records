@@ -58,29 +58,26 @@ Gahan: “Well, it's sort of metaphors. The loneliness, the emptiness, the void,
 
 
 ## Tracklisting
-1. Going Backwards (5:41)
-2. Where's The Revolution (4:57)
-3. The Worst Crime (3:47)
-4. Scum (3:14)
-5. You Move (3:47)
-6. Cover Me (4:49)
-7. Eternal (2:22)
-8. Poison Heart (3:16)
-9. So Much Love (4:28)
-10. Poorman (4:25)
-11. No More (This Is The Last Time) (3:12)
-12. Fail (5:06)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Going Backwards | 5:41 |
+| A2 | Where's The Revolution | 4:57 |
+| A3 | The Worst Crime | 3:47 |
+| A4 | Scum | 3:14 |
+| B1 | You Move | 3:47 |
+| B2 | Cover Me | 4:49 |
+| B3 | Eternal | 2:22 |
+| B4 | Poison Heart | 3:16 |
+| C1 | So Much Love | 4:28 |
+| C2 | Poorman | 4:25 |
+| C3 | No More (This Is The Last Time) | 3:12 |
+| C4 | Fail | 5:06 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/memento-mori/1670265523" >}}<br>
 
 
-## Videos
-### Depeche Mode - Cover Me Official Video
-{{< youtube id="H8t5M9_Tvzk" title="Depeche Mode - Cover Me Official Video" >}}<br>
-### More Videos
-
-- [Depeche Mode - Wheres the Revolution Official Video](https://www.youtube.com/watch?v=jsCR05oKROA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -92,5 +89,5 @@ Gahan: “Well, it's sort of metaphors. The loneliness, the emptiness, the void,
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Stereo (180 Gram) |
 | Label          | Columbia |
 | Catalog Number | 88985 41165 1 |
-| Notes | Gatefold sleeve. Includes digital download card for 320 kbps MP3 versions of the tracks, see [r=10092754].  Publishers (from the 2nd inner sleeve): A1 to A4, C2, C4: © 2015 Sony/ATV Music Corp. and Grabbing Hands Music Ltd. All rights on behalf of itself and Grabbing Hands Music Ltd. admin. by Sony/ATV Music Corp. (BMI). B1: © 2016 Sony/ATV Music Corp., Grabbing Hands Music Ltd. and JJSR Productions Inc. All rights on behalf of itself, Grabbing Hands Music Ltd. and JJSR Productions Inc. admin. by Sony/ATV Music Corp. (BMI). B2, B4: © 2015 Sony/ATV Music Corp., JJSR Productions Inc. and Reservoir/Reverb Music Ltd. All rights on behalf of itself and JJSR Productions Inc. admin. by Sony/ATV Music Corp. (BMI). B3, C1: © 2016 Sony/ATV Music Corp. and Grabbing Hands Music Ltd. All rights on behalf of itself and Grabbing Hands Music Ltd. admin. by Sony/ATV Music Corp. (BMI). C3: © 2015 Sony/ATV Music Corp. and JJSR Productions Inc. All rights on behalf of itself and JJSR Productions Inc. admin. by Sony/ATV Music Corp. (BMI) / Chocolate Robot (ASCAP). All rights on behalf of Chocolate Robot admin. by Kobalt Music Services America Inc. (KMSA).  [Back cover and 2nd inner sleeve:] © & ℗ 2017 Venusnote Ltd., under exclusive license to Columbia Records, a Division of Sony Music Entertainment / Manufactured and Distributed by Columbia Records, a Division of Sony Music Entertainment. / Sony Music Entertainment International Services GmbH, [...] / Made in the EU.  Runouts are etched. |
+| Notes | Gatefold sleeve.<br>Includes digital download card for 320 kbps MP3 versions of the tracks, see [r=10092754].<br><br>Publishers (from the 2nd inner sleeve):<br>A1 to A4, C2, C4:<br>© 2015 Sony/ATV Music Corp. and Grabbing Hands Music Ltd. All rights on behalf of itself and Grabbing Hands Music Ltd. admin. by Sony/ATV Music Corp. (BMI).<br>B1:<br>© 2016 Sony/ATV Music Corp., Grabbing Hands Music Ltd. and JJSR Productions Inc. All rights on behalf of itself, Grabbing Hands Music Ltd. and JJSR Productions Inc. admin. by Sony/ATV Music Corp. (BMI).<br>B2, B4:<br>© 2015 Sony/ATV Music Corp., JJSR Productions Inc. and Reservoir/Reverb Music Ltd. All rights on behalf of itself and JJSR Productions Inc. admin. by Sony/ATV Music Corp. (BMI).<br>B3, C1:<br>© 2016 Sony/ATV Music Corp. and Grabbing Hands Music Ltd. All rights on behalf of itself and Grabbing Hands Music Ltd. admin. by Sony/ATV Music Corp. (BMI).<br>C3:<br>© 2015 Sony/ATV Music Corp. and JJSR Productions Inc. All rights on behalf of itself and JJSR Productions Inc. admin. by Sony/ATV Music Corp. (BMI) / Chocolate Robot (ASCAP). All rights on behalf of Chocolate Robot admin. by Kobalt Music Services America Inc. (KMSA).<br><br>[Back cover and 2nd inner sleeve:]<br>© & ℗ 2017 Venusnote Ltd., under exclusive license to Columbia Records, a Division of Sony Music Entertainment / Manufactured and Distributed by Columbia Records, a Division of Sony Music Entertainment. / Sony Music Entertainment International Services GmbH, [...] / Made in the EU.<br><br>Runouts are etched. |
 | Discogs URL    | [Depeche Mode - Spirit](https://www.discogs.com/release/9979164-Depeche-Mode-Spirit) |

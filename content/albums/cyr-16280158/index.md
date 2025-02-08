@@ -4,6 +4,7 @@ artist_name: "The Smashing Pumpkins"
 artist: "the-smashing-pumpkins"
 album_name: "Cyr"
 date: 2020-11-28T12:33:24.000000Z
+release_date: "2000-02-29"
 release_id: "16280158"
 slug: "cyr-16280158"
 hideSummary: true
@@ -25,43 +26,40 @@ styles: ["Alternative Rock"]
 
 Cyr is the eleventh studio album by American alternative rock band the Smashing Pumpkins, released on November 27, 2020, on Sumerian Records. Produced by band leader Billy Corgan, the album features a synth-pop sound and was preceded by the release of ten of its songs as singles, with Corgan actively seeking out a "contemporary" sound during the recording process.
 The release of Cyr was accompanied by a five-part animated series, In Ashes, written by Corgan and directed by Mike Anderson, which served as official videos for five of the album's tracks.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Colour Of Love (4:24)
-2. Confessions Of A Dopamine Addict (3:14)
-3. Cyr (4:03)
-4. Dulcet In E (3:22)
-5. Wrath (3:46)
-6. Ramona (3:48)
-7. Anno Satana (3:50)
-8. Birch Grove (3:17)
-9. Wyttch (3:44)
-10. Starrcraft (4:10)
-11. Purple Blood (3:19)
-12. Save Your Tears (3:31)
-13. Telegenix (3:23)
-14. Black Forest, Black Hills (4:42)
-15. Adrennalynne (3:42)
-16. Haunted (3:11)
-17. The Hidden Sun (3:24)
-18. Schaudenfreud (3:02)
-19. Tyger, Tyger (2:50)
-20. Minerva (3:33)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Colour Of Love | 4:24 |
+| A2 | Confessions Of A Dopamine Addict | 3:14 |
+| A3 | Cyr | 4:03 |
+| A4 | Dulcet In E | 3:22 |
+| A5 | Wrath | 3:46 |
+| B1 | Ramona | 3:48 |
+| B2 | Anno Satana | 3:50 |
+| B3 | Birch Grove | 3:17 |
+| B4 | Wyttch | 3:44 |
+| B5 | Starrcraft | 4:10 |
+| C1 | Purple Blood | 3:19 |
+| C2 | Save Your Tears | 3:31 |
+| C3 | Telegenix | 3:23 |
+| C4 | Black Forest, Black Hills | 4:42 |
+| C5 | Adrennalynne | 3:42 |
+| D1 | Haunted | 3:11 |
+| D2 | The Hidden Sun | 3:24 |
+| D3 | Schaudenfreud | 3:02 |
+| D4 | Tyger, Tyger | 2:50 |
+| D5 | Minerva | 3:33 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/machina-the-machines-of-god/712756036" >}}<br>
 
 
-## Videos
-### THE SMASHING PUMPKINS - Cyr Official Music Video
-{{< youtube id="2AN_GRWlU7k" title="THE SMASHING PUMPKINS - Cyr Official Music Video" >}}<br>
-### More Videos
-
-- [THE SMASHING PUMPKINS - Ramona Official Music Video](https://www.youtube.com/watch?v=0rOr6yTMCJI)
-- [The Smashing Pumpkins - Wyttch Official Video](https://www.youtube.com/watch?v=6ZFh-zqRZC8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +71,5 @@ The release of Cyr was accompanied by a five-part animated series, In Ashes, wri
 | Format         | Vinyl 2× LP Album Limited Edition (Pink [Baby]) |
 | Label          | Sumerian Records |
 | Catalog Number | SUM1397 |
-| Notes | Indie exclusive "Limited Colored Vinyl Pressing Baby Pink". 2xLP with 22-page lyric book. Housed in a gatefold sleeve.  Limited to 1000 copies.  The hype sticker has 'SUM1397' printed as the catalog number, but the etching in the runouts show the cat# as 'SUM1377'.  ©&℗ 2020 Martha's Music, LLC. |
+| Notes | Indie exclusive "Limited Colored Vinyl Pressing Baby Pink". 2xLP with 22-page lyric book.<br>Housed in a gatefold sleeve. <br>Limited to 1000 copies.<br><br>The hype sticker has 'SUM1397' printed as the catalog number, but the etching in the runouts show the cat# as 'SUM1377'.<br><br>©&℗ 2020 Martha's Music, LLC. |
 | Discogs URL    | [The Smashing Pumpkins - Cyr](https://www.discogs.com/release/16280158-The-Smashing-Pumpkins-Cyr) |

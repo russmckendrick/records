@@ -4,6 +4,7 @@ artist_name: "The Sea Nymphs"
 artist: "the-sea-nymphs"
 album_name: "On The Dry Land"
 date: 2016-11-09T20:12:25.000000Z
+release_date: "2016-04-11"
 release_id: "9329840"
 slug: "on-the-dry-land-9329840"
 hideSummary: true
@@ -20,34 +21,34 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. After (2:14)
-2. Eating A Heart Out (2:50)
-3. Big River (2:00)
-4. Sea Snake Beware (2:54)
-5. Mirmaid's Purse (2:06)
-6. Cut Yourself Kidding (3:07)
-7. Bye Bye Spirit (4:31)
-8. Heaven Haven (1:39)
-9. Anchors Away (0:23)
-10. On The Dry Land (1:46)
-11. The Black Blooded Clam (2:46)
-12. The Sea Ritual (2:22)
-13. Liberated And Handsome (1:36)
-14. A Kind Of Keeper (1:24)
-15. Wanky (2:25)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | After | 2:14 |
+| A2 | Eating A Heart Out | 2:50 |
+| A3 | Big River | 2:00 |
+| A4 | Sea Snake Beware | 2:54 |
+| A5 | Mirmaid's Purse | 2:06 |
+| A6 | Cut Yourself Kidding | 3:07 |
+| A7 | Bye Bye Spirit | 4:31 |
+| A8 | Heaven Haven | 1:39 |
+| B9 | Anchors Away | 0:23 |
+| B10 | On The Dry Land | 1:46 |
+| B11 | The Black Blooded Clam | 2:46 |
+| B12 | The Sea Ritual | 2:22 |
+| B13 | Liberated And Handsome | 1:36 |
+| B14 | A Kind Of Keeper | 1:24 |
+| B15 | Wanky | 2:25 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/on-the-dry-land/1177144029" >}}<br>
 
 
-## Videos
-### The Sea Nymphs - The Black Blooded Clam
-{{< youtube id="pSwYMsIBx6I" title="The Sea Nymphs - The Black Blooded Clam" >}}<br>
-### More Videos
-
-- [The Sea Nymphs - The Black Blooded Clam](https://www.youtube.com/watch?v=pSwYMsIBx6I)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,5 +59,5 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH LP 032 |
-| Notes | Limited to 200 numbered, stickered copies.  Includes download card. |
+| Notes | Limited to 200 numbered, stickered copies.<br><br>Includes download card. |
 | Discogs URL    | [The Sea Nymphs - On The Dry Land](https://www.discogs.com/release/9329840-The-Sea-Nymphs-On-The-Dry-Land) |

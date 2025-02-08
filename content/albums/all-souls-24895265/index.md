@@ -1,16 +1,17 @@
 ---
-title: "Siouxsie & The Banshees - All Souls"
-artist_name: "Siouxsie & The Banshees"
+title: "Siouxsie  The Banshees - All Souls"
+artist_name: "Siouxsie  The Banshees"
 artist: "siouxsie-the-banshees"
 album_name: "All Souls"
 date: 2022-10-22T00:36:35.000000Z
+release_date: "2022-10-21"
 release_id: "24895265"
 slug: "all-souls-24895265"
 hideSummary: true
 cover:
     image: "all-souls-24895265.jpg"
-    alt: "All Souls by Siouxsie & The Banshees"
-    caption: "All Souls by Siouxsie & The Banshees"
+    alt: "All Souls by Siouxsie  The Banshees"
+    caption: "All Souls by Siouxsie  The Banshees"
 additional_images:
     - "https://i.discogs.com/W8XHQDVGfJ1VcPzyfbNSlHBazgYMXGKk4_i0WwCb-jQ/rs:fit/g:sm/q:90/h:600/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MjY1LTE2NjY0NDU0/NTgtNDM3NS5qcGVn.jpeg"
     - "https://i.discogs.com/TC5S4g3YKEkQ7dAHpp8_70gRFZD5g1RrGjfxIk6S8Q8/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk1/MjY1LTE2NjY0NDU0/NjYtNDI0Mi5qcGVn.jpeg"
@@ -28,29 +29,29 @@ styles: ["Post-Punk", "New Wave"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Fireworks
-2. Halloween
-3. Supernatural Thing
-4. El Dia De Los Muertos
-5. The Sweetest Chill
-6. Spellbound
-7. Something Wicked (This Way Comes)
-8. Rawhead And Bloodybones
-9. We Hunger
-10. Peek-A-Boo
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fireworks |  |
+| A2 | Halloween |  |
+| A3 | Supernatural Thing |  |
+| A4 | El Dia De Los Muertos |  |
+| A5 | The Sweetest Chill |  |
+| B1 | Spellbound |  |
+| B2 | Something Wicked (This Way Comes) |  |
+| B3 | Rawhead And Bloodybones |  |
+| B4 | We Hunger |  |
+| B5 | Peek-A-Boo |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-souls/1650831654" >}}<br>
 
 
-## Videos
-### Siouxsie and the Banshees - Fireworks 12 version - vinyl rip All Souls
-{{< youtube id="XmEasAdZo7s" title="Siouxsie and the Banshees - Fireworks 12 version - vinyl rip All Souls" >}}<br>
-### More Videos
-
-- [Siouxsie and the Banshees - Fireworks 12 version - vinyl rip All Souls](https://www.youtube.com/watch?v=XmEasAdZo7s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +62,5 @@ styles: ["Post-Punk", "New Wave"]
 | Format         | Vinyl LP Compilation (Orange Opaque) |
 | Label          | Polydor |
 | Catalog Number | SATBLP15C |
-| Notes | Orange sticker (black text) on front cover: "A seasonal selection for you to enjoy" Love Siouxsie x. Black sticker on bottom back cover with barcode: 180g Orange vinyl mastered and cut half-speed at Abbey Road Studios, London. White sticker on top back cover: Made in the Netherlands. All stickers are on the shrink wrap. Comes with printed inner sleeve of card (flowers) plus a black generic inner sleeve that  is die cut and polylined.   Limited copies came with a 12" square print autographed by Siouxsie Sioux. Available only from the Official store. This print was not sealed inside the shrink-wrap.  Runouts are stamped except for the Miles at Abbey Road data, which is etched. |
-| Discogs URL    | [Siouxsie & The Banshees - All Souls](https://www.discogs.com/release/24895265-Siouxsie-And-The-Banshees-All-Souls) |
+| Notes | Orange sticker (black text) on front cover: "A seasonal selection for you to enjoy" Love Siouxsie x.<br>Black sticker on bottom back cover with barcode: 180g Orange vinyl mastered and cut half-speed at Abbey Road Studios, London.<br>White sticker on top back cover: Made in the Netherlands.<br>All stickers are on the shrink wrap.<br>Comes with printed inner sleeve of card (flowers) plus a black generic inner sleeve that  is die cut and polylined.<br><br><br>Limited copies came with a 12" square print autographed by Siouxsie Sioux. Available only from the Official store. This print was not sealed inside the shrink-wrap.<br><br>Runouts are stamped except for the Miles at Abbey Road data, which is etched. |
+| Discogs URL    | [Siouxsie  The Banshees - All Souls](https://www.discogs.com/release/24895265-Siouxsie-And-The-Banshees-All-Souls) |

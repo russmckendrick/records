@@ -31,22 +31,18 @@ For a guy who went dark for a decade, Richard D. James, a.k.a. Aphex Twin, has b
 
 
 ## Tracklisting
-1. T69 Collapse (5:21)
-2. 1st 44 (6:01)
-3. MT1 t29r2 (6:00)
-4. Abundance10edit [2 R8's, FZ20m & A 909] (6:18)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | T69 Collapse | 5:21 |
+| A2 | 1st 44 | 6:01 |
+| B1 | MT1 t29r2 | 6:00 |
+| B2 | Abundance10edit [2 R8's, FZ20m & A 909] | 6:18 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/collapse-ep/1418633340" >}}<br>
 
 
-## Videos
-### Aphex Twin - T69 Collapse
-{{< youtube id="SqayDnQ2wmw" title="Aphex Twin - T69 Collapse" >}}<br>
-### More Videos
-
-- [Aphex Twin- MT1 t29r2 Collapse EP](https://www.youtube.com/watch?v=0MtrLA_jmow)
-- [1st 44 - Aphex Twin](https://www.youtube.com/watch?v=dedIrECaUAc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,5 +54,5 @@ For a guy who went dark for a decade, Richard D. James, a.k.a. Aphex Twin, has b
 | Format         | Vinyl 12" 33 ⅓ RPM EP |
 | Label          | Warp Records |
 | Catalog Number | WAP423 |
-| Notes | Regular version. Includes a download card for the EP plus bonus track 'Pthex'. Orders through Bleep include two additional Collapse EP artwork related stickers.  Two circular black stickers on cover, on front glued to shrinkwrap: "[Aphex Twin logo] Aphex Twin / Collapse Ep" plus download hint. On bigger sticker of rear: title, tracklist and credits. Generic black die-cut inner sleeve.  Side A label features a smaller Aphex Twin logo compared to side B.   Runouts are etched. XIV, 1T & 1T (⊥) in runouts are mirrored.  ℗ 2018 Warp Records Ltd © 2018 Warp Records Ltd  Made in EU.  |
+| Notes | Regular version. Includes a download card for the EP plus bonus track 'Pthex'. Orders through Bleep include two additional Collapse EP artwork related stickers.<br><br>Two circular black stickers on cover, on front glued to shrinkwrap: "[Aphex Twin logo] Aphex Twin / Collapse Ep" plus download hint. On bigger sticker of rear: title, tracklist and credits. Generic black die-cut inner sleeve.<br><br>Side A label features a smaller Aphex Twin logo compared to side B. <br><br>Runouts are etched.<br>XIV, 1T & 1T (⊥) in runouts are mirrored.<br><br>℗ 2018 Warp Records Ltd<br>© 2018 Warp Records Ltd <br>Made in EU.  |
 | Discogs URL    | [Aphex Twin - Collapse EP](https://www.discogs.com/release/12513366-Aphex-Twin-Collapse-EP) |

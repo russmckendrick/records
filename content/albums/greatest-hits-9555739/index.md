@@ -4,6 +4,7 @@ artist_name: "Eurythmics"
 artist: "eurythmics"
 album_name: "Greatest Hits"
 date: 2017-01-20T17:08:25.000000Z
+release_date: "1991-05"
 release_id: "9555739"
 slug: "greatest-hits-9555739"
 hideSummary: true
@@ -29,56 +30,38 @@ styles: ["Synth-pop", "Pop Rock"]
 
 Greatest Hits is a greatest hits album by British pop duo Eurythmics, released on 18 March 1991 by RCA Records. It contains their successful singles spanning the years 1982 through 1990. The album topped the charts in the United Kingdom for a total of 10 weeks, in New Zealand for eight weeks and in Australia for seven weeks. It remains the duo's best-selling album worldwide and has been certified six-times platinum in the United Kingdom and triple platinum in the United States. Phil Sutcliffe in Q Magazine noted that "this compilation portrays, for once, a band accorded precise justice by the singles charts". 
 The original European version of the album contains 18 tracks, while the version released in the US contains only 14. The five songs omitted from the US edition are "Right by Your Side", "Sexcrime (Nineteen Eighty-Four)", "It's Alright (Baby's Coming Back)", "You Have Placed a Chill in My Heart" and "The Miracle of Love", while "The King and Queen of America" is added. The track order also differs.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Love Is A Stranger (3:40)
-2. Sweet Dreams (Are Made Of This) (4:50)
-3. Who's That Girl? (3:44)
-4. Right By Your Side (3:49)
-5. Here Comes The Rain Again (4:54)
-6. There Must Be An Angel (Playing With My Heart) (4:41)
-7. Sisters Are Doin' It For Themselves (4:51)
-8. It's Alright (Baby's Coming Back) (3:43)
-9. When Tomorrow Comes (4:15)
-10. You Have Placed A Chill In My Heart (3:46)
-11. Miracle Of Love (4:35)
-12. Sex Crime (1984) (3:52)
-13. Thorn In My Side (4:11)
-14. Don't Ask Me Why (4:13)
-15. Angel (4:47)
-16. Would I Lie To You? (4:22)
-17. Missionary Man (3:45)
-18. I Need A Man (4:21)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Love Is A Stranger | 3:40 |
+| A2 | Sweet Dreams (Are Made Of This) | 4:50 |
+| A3 | Who's That Girl? | 3:44 |
+| A4 | Right By Your Side | 3:49 |
+| A5 | Here Comes The Rain Again | 4:54 |
+| B1 | There Must Be An Angel (Playing With My Heart) | 4:41 |
+| B2 | Sisters Are Doin' It For Themselves | 4:51 |
+| B3 | It's Alright (Baby's Coming Back) | 3:43 |
+| B4 | When Tomorrow Comes | 4:15 |
+| C1 | You Have Placed A Chill In My Heart | 3:46 |
+| C2 | Miracle Of Love | 4:35 |
+| C3 | Sex Crime (1984) | 3:52 |
+| C4 | Thorn In My Side | 4:11 |
+| C5 | Don't Ask Me Why | 4:13 |
+| D1 | Angel | 4:47 |
+| D2 | Would I Lie To You? | 4:22 |
+| D3 | Missionary Man | 3:45 |
+| D4 | I Need A Man | 4:21 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/eurythmics-greatest-hits/404385428" >}}<br>
 
 
-## Videos
-### Love Is a Stranger
-{{< youtube id="GF_LSzevDiQ" title="Love Is a Stranger" >}}<br>
-### More Videos
-
-- [Sweet Dreams Are Made of This](https://www.youtube.com/watch?v=ozSe_W2C86g)
-- [Whos That Girl](https://www.youtube.com/watch?v=wWdMRMknPbk)
-- [Right By Your Side](https://www.youtube.com/watch?v=OOcdNdYTj70)
-- [Here Comes the Rain Again](https://www.youtube.com/watch?v=CXNHtyk4-3Y)
-- [There Must Be an Angel Playing With My Heart](https://www.youtube.com/watch?v=sazczdxiq40)
-- [Sisters Are Doin It for Themselves Remastered](https://www.youtube.com/watch?v=rcMMwTlGGi8)
-- [Its Alright Babys Coming Back](https://www.youtube.com/watch?v=5ravKkYKzW8)
-- [When Tomorrow Comes](https://www.youtube.com/watch?v=YRfE7EeyZx4)
-- [You Have Placed a Chill In My Heart](https://www.youtube.com/watch?v=oIGscGz_QBQ)
-- [Miracle of Love](https://www.youtube.com/watch?v=IfKvbbvddDU)
-- [Sexcrime Nineteen Eighty-Four](https://www.youtube.com/watch?v=Vfd2_jPdVSA)
-- [Thorn In My Side](https://www.youtube.com/watch?v=I35dM9B79zg)
-- [Dont Ask Me Why](https://www.youtube.com/watch?v=fuhikS-93Zs)
-- [Angel](https://www.youtube.com/watch?v=_3j3dB_RfJE)
-- [Would I Lie to You](https://www.youtube.com/watch?v=bA8rscTHdME)
-- [Missionary Man](https://www.youtube.com/watch?v=KM0U6axltGo)
-- [I Need a Man](https://www.youtube.com/watch?v=dtqNSRzv8p4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -90,5 +73,5 @@ The original European version of the album contains 18 tracks, while the version
 | Format         | Vinyl 2× LP Compilation Reissue (180 Gram) |
 | Label          | Legacy |
 | Catalog Number | 88985370421 |
-| Notes | Sticker on plastic wrap: "Legacy Vinyl - 180 Gram Superior Audio Quality".  Made in the EU. |
+| Notes | Sticker on plastic wrap:<br>"Legacy Vinyl - 180 Gram Superior Audio Quality".<br><br>Made in the EU. |
 | Discogs URL    | [Eurythmics - Greatest Hits](https://www.discogs.com/release/9555739-Eurythmics-Greatest-Hits) |

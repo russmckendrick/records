@@ -37,249 +37,251 @@ The Beatles are the best-selling music act of all time, with estimated sales of 
 
 
 ## Tracklisting
-1. Please Please Me
-2. I Saw Her Standing There
-3. Misery
-4. Anna (Go To Him)
-5. Chains
-6. Boys
-7. Ask Me Why
-8. Please Please Me
-9. Love Me Do
-10. P.S. I Love You
-11. Baby It's You
-12. Do You Want To Know A Secret
-13. A Taste Of Honey
-14. There's A Place
-15. Twist And Shout
-16. With The Beatles
-17. It Won't Be Long
-18. All I've Got To Do
-19. All My Loving
-20. Don't Bother Me
-21. Little Child
-22. Till There Was You
-23. Please Mister Postman
-24. Roll Over Beethoven
-25. Hold Me Tight
-26. You Really Gotta Hold On Me
-27. I Wanna Be Your Man
-28. Devil In Her Heart
-29. Not A Second Time
-30. Money
-31. A Hard Day's Night
-32. A Hard Day's Night
-33. I Should Have Known Better
-34. If I Fell
-35. I'm Happy Just To Dance With You
-36. And I Love Her
-37. Tell Me Why
-38. Can't Buy Me Love
-39. Any Time At All
-40. I'll Cry Instead
-41. Things We Said Today
-42. When I Get Home
-43. You Can't Do That
-44. I'll Be Back
-45. Beatles For Sale
-46. No Reply
-47. I'm A Loser
-48. Baby's In Black
-49. Rock And Roll Music
-50. I'll Follow The Sun
-51. Mr. Moonlight
-52. Kansas City/Hey, Hey, Hey, Hey
-53. Eight Days A Week
-54. Words Of Love
-55. Honey Don't
-56. Every Little Thing
-57. I Don't Want To Spoil The Party
-58. What You're Doing
-59. Everybody's Trying To Be My Baby
-60. Help!
-61. Help!
-62. The Night Before
-63. You've Got To Hide You Love Away
-64. I Need You
-65. Another Girl
-66. You're Going To Lose That Girl
-67. Ticket To Ride
-68. Act Naturally
-69. It's Only Love
-70. You Like Me Too Much
-71. Tell Me What You See
-72. I've Just Seen A Face
-73. Yesterday
-74. Dizzy Miss Lizzy
-75. Rubber Soul
-76. Drive My Car
-77. Norwegian Wood (This Bird Has Flown)
-78. You Won't See Me
-79. Nowhere Man
-80. Think For Yourself
-81. The Word
-82. Michelle
-83. What Goes On
-84. Girl
-85. I'm Looking Through You
-86. In My Life
-87. Wait
-88. If I Needed Someone
-89. Run For Your Life
-90. Revolver
-91. Taxman
-92. Eleanor Rigby
-93. I'm Only Sleeping
-94. Love You To
-95. Here, There And Everywhere
-96. Yellow Submarine
-97. She Said She Said
-98. Good Day Sunshine
-99. And Your Bird Can Sing
-100. For No One
-101. Dr. Robert
-102. I Want To Tell You
-103. Got To Get You Into My Life
-104. Tomorrow Never Knows
-105. Sgt. Pepper's Lonely Hearts Club Band
-106. Sgt. Pepper's Lonely Hearts Club Band
-107. With A Little Help From My Friends
-108. Lucy In The Sky With Diamonds
-109. Getting Better
-110. Fixing A Hole
-111. She's Leaving Home
-112. Being For The Benefit Of Mr. Kite!
-113. Within You Without You
-114. When I'm Sixty Four
-115. Lovely Rita
-116. Good Morning Good Morning
-117. Sgt. Pepper's Lonely Hearts Club Band (Reprise)
-118. A Day In The Life
-119. Magical Mystery Tour
-120. Magical Mystery Tour
-121. The Fool On The Hill
-122. Flying
-123. Blue Jay Way
-124. Your Mother Should Know
-125. I Am The Walrus
-126. Hello Goodbye
-127. Strawberry Fields Forever
-128. Penny Lane
-129. Baby You're A Rich Man
-130. All You Need Is Love
-131. The Beatles
-132. Back In The U.S.S.R.
-133. Dear Prudence
-134. Glass Onion
-135. Ob-La-Di, Ob-La-Da
-136. Wild Honey Pie
-137. The Continuing Story Of Bungalow Bill
-138. While My Guitar Gently Weeps
-139. Happiness Is A Warm Gun
-140. Martha My Dear
-141. I'm So Tired
-142. Blackbird
-143. Piggies
-144. Rocky Raccoon
-145. Don't Pass Me By
-146. Why Don't We Do It In The Road
-147. I Will
-148. Julia
-149. Birthday
-150. Yer Blues
-151. Mother Nature's Son
-152. Everybody's Got Something To Hide Except Me And My Monkey
-153. Sexy Sadie
-154. Helter Skelter
-155. Long Long Long
-156. Revolution 1
-157. Honey Pie
-158. Savoy Truffle
-159. Cry Baby Cry
-160. Revolution 9
-161. Good Night
-162. Yellow Submarine
-163. Yellow Submarine
-164. Only A Northern Song
-165. All Together Now
-166. Hey Bulldog
-167. It's All Too Much
-168. All You Need Is Love
-169. Pepperland
-170. Sea Of Time
-171. Sea Of Holes
-172. Sea Of Monsters
-173. March Of The Meanies
-174. Pepperland Laid Waste
-175. Yellow Submarine In Pepperland
-176. Abbey Road
-177. Come Together
-178. Something
-179. Maxwell's Silver Hammer
-180. Oh! Darling
-181. Octopus's Garden
-182. I Want You (She's So Heavy)
-183. Here Comes The Sun
-184. Because
-185. You Never Give Me Your Money
-186. Sun King
-187. Mean Mr. Mustard
-188. Polythene Pam
-189. She Came In Through The Bathroom Window
-190. Golden Slumbers
-191. Carry That Weight
-192. The End
-193. Let It Be
-194. Two Of Us
-195. Dig A Pony
-196. Across The Universe
-197. I Me Mine
-198. Dig It
-199. Let It Be
-200. Maggie Mae
-201. I've Got A Feeling
-202. One After 909
-203. The Long And Winding Road
-204. For You Blue
-205. Get Back
-206. Past Masters
-207. Love Me Do (Original Single Version)
-208. From Me To You
-209. Thank You Girl
-210. She Loves You
-211. I'll Get You
-212. I Want To Hold Your Hand
-213. This Boy
-214. Komm, Gib Mir Deine Hand
-215. Sie Liebt Dich
-216. Long Tall Sally
-217. I Call Your Name
-218. Slow Down
-219. Matchbox
-220. I Feel Fine
-221. She's A Woman
-222. Bad Boy
-223. Yes It Is
-224. I'm Down
-225. Day Tripper
-226. We Can Work It Out
-227. Paperback Writer
-228. Rain
-229. Lady Madonna
-230. The Inner Light
-231. Hey Jude
-232. Revolution
-233. Get Back
-234. Don't Let Me Down
-235. The Ballad Of John And Yoko
-236. Old Brown Shoe
-237. Across The Universe
-238. Let It Be
-239. You Know My Name (Look Up The Number)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Please Please Me |  |
+| A1 | I Saw Her Standing There |  |
+| A2 | Misery |  |
+| A3 | Anna (Go To Him) |  |
+| A4 | Chains |  |
+| A5 | Boys |  |
+| A6 | Ask Me Why |  |
+| A7 | Please Please Me |  |
+| B1 | Love Me Do |  |
+| B2 | P.S. I Love You |  |
+| B3 | Baby It's You |  |
+| B4 | Do You Want To Know A Secret |  |
+| B5 | A Taste Of Honey |  |
+| B6 | There's A Place |  |
+| B7 | Twist And Shout |  |
+|  | With The Beatles |  |
+| C1 | It Won't Be Long |  |
+| C2 | All I've Got To Do |  |
+| C3 | All My Loving |  |
+| C4 | Don't Bother Me |  |
+| C5 | Little Child |  |
+| C6 | Till There Was You |  |
+| C7 | Please Mister Postman |  |
+| D1 | Roll Over Beethoven |  |
+| D2 | Hold Me Tight |  |
+| D3 | You Really Gotta Hold On Me |  |
+| D4 | I Wanna Be Your Man |  |
+| D5 | Devil In Her Heart |  |
+| D6 | Not A Second Time |  |
+| D7 | Money |  |
+|  | A Hard Day's Night |  |
+| E1 | A Hard Day's Night |  |
+| E2 | I Should Have Known Better |  |
+| E3 | If I Fell |  |
+| E4 | I'm Happy Just To Dance With You |  |
+| E5 | And I Love Her |  |
+| E6 | Tell Me Why |  |
+| E7 | Can't Buy Me Love |  |
+| F1 | Any Time At All |  |
+| F2 | I'll Cry Instead |  |
+| F3 | Things We Said Today |  |
+| F4 | When I Get Home |  |
+| F5 | You Can't Do That |  |
+| F6 | I'll Be Back |  |
+|  | Beatles For Sale |  |
+| G1 | No Reply |  |
+| G2 | I'm A Loser |  |
+| G3 | Baby's In Black |  |
+| G4 | Rock And Roll Music |  |
+| G5 | I'll Follow The Sun |  |
+| G6 | Mr. Moonlight |  |
+| G7 | Kansas City/Hey, Hey, Hey, Hey |  |
+| H1 | Eight Days A Week |  |
+| H2 | Words Of Love |  |
+| H3 | Honey Don't |  |
+| H4 | Every Little Thing |  |
+| H5 | I Don't Want To Spoil The Party |  |
+| H6 | What You're Doing |  |
+| H7 | Everybody's Trying To Be My Baby |  |
+|  | Help! |  |
+| I1 | Help! |  |
+| I2 | The Night Before |  |
+| I3 | You've Got To Hide You Love Away |  |
+| I4 | I Need You |  |
+| I5 | Another Girl |  |
+| I6 | You're Going To Lose That Girl |  |
+| I7 | Ticket To Ride |  |
+| J1 | Act Naturally |  |
+| J2 | It's Only Love |  |
+| J3 | You Like Me Too Much |  |
+| J4 | Tell Me What You See |  |
+| J5 | I've Just Seen A Face |  |
+| J6 | Yesterday |  |
+| J7 | Dizzy Miss Lizzy |  |
+|  | Rubber Soul |  |
+| K1 | Drive My Car |  |
+| K2 | Norwegian Wood (This Bird Has Flown) |  |
+| K3 | You Won't See Me |  |
+| K4 | Nowhere Man |  |
+| K5 | Think For Yourself |  |
+| K6 | The Word |  |
+| K7 | Michelle |  |
+| L1 | What Goes On |  |
+| L2 | Girl |  |
+| L3 | I'm Looking Through You |  |
+| L4 | In My Life |  |
+| L5 | Wait |  |
+| L6 | If I Needed Someone |  |
+| L7 | Run For Your Life |  |
+|  | Revolver |  |
+| M1 | Taxman |  |
+| M2 | Eleanor Rigby |  |
+| M3 | I'm Only Sleeping |  |
+| M4 | Love You To |  |
+| M5 | Here, There And Everywhere |  |
+| M6 | Yellow Submarine |  |
+| M7 | She Said She Said |  |
+| N1 | Good Day Sunshine |  |
+| N2 | And Your Bird Can Sing |  |
+| N3 | For No One |  |
+| N4 | Dr. Robert |  |
+| N5 | I Want To Tell You |  |
+| N6 | Got To Get You Into My Life |  |
+| N7 | Tomorrow Never Knows |  |
+|  | Sgt. Pepper's Lonely Hearts Club Band |  |
+| O1 | Sgt. Pepper's Lonely Hearts Club Band |  |
+| O2 | With A Little Help From My Friends |  |
+| O3 | Lucy In The Sky With Diamonds |  |
+| O4 | Getting Better |  |
+| O5 | Fixing A Hole |  |
+| O6 | She's Leaving Home |  |
+| O7 | Being For The Benefit Of Mr. Kite! |  |
+| P1 | Within You Without You |  |
+| P2 | When I'm Sixty Four |  |
+| P3 | Lovely Rita |  |
+| P4 | Good Morning Good Morning |  |
+| P5 | Sgt. Pepper's Lonely Hearts Club Band (Reprise) |  |
+| P6 | A Day In The Life |  |
+|  | Magical Mystery Tour |  |
+| Q1 | Magical Mystery Tour |  |
+| Q2 | The Fool On The Hill |  |
+| Q3 | Flying |  |
+| Q4 | Blue Jay Way |  |
+| Q5 | Your Mother Should Know |  |
+| Q6 | I Am The Walrus |  |
+| R1 | Hello Goodbye |  |
+| R2 | Strawberry Fields Forever |  |
+| R3 | Penny Lane |  |
+| R4 | Baby You're A Rich Man |  |
+| R5 | All You Need Is Love |  |
+|  | The Beatles |  |
+| S1 | Back In The U.S.S.R. |  |
+| S2 | Dear Prudence |  |
+| S3 | Glass Onion |  |
+| S4 | Ob-La-Di, Ob-La-Da |  |
+| S5 | Wild Honey Pie |  |
+| S6 | The Continuing Story Of Bungalow Bill |  |
+| S7 | While My Guitar Gently Weeps |  |
+| S8 | Happiness Is A Warm Gun |  |
+| T1 | Martha My Dear |  |
+| T2 | I'm So Tired |  |
+| T3 | Blackbird |  |
+| T4 | Piggies |  |
+| T5 | Rocky Raccoon |  |
+| T6 | Don't Pass Me By |  |
+| T7 | Why Don't We Do It In The Road |  |
+| T8 | I Will |  |
+| T9 | Julia |  |
+| U1 | Birthday |  |
+| U2 | Yer Blues |  |
+| U3 | Mother Nature's Son |  |
+| U4 | Everybody's Got Something To Hide Except Me And My Monkey |  |
+| U5 | Sexy Sadie |  |
+| U6 | Helter Skelter |  |
+| U7 | Long Long Long |  |
+| V1 | Revolution 1 |  |
+| V2 | Honey Pie |  |
+| V3 | Savoy Truffle |  |
+| V4 | Cry Baby Cry |  |
+| V5 | Revolution 9 |  |
+| V6 | Good Night |  |
+|  | Yellow Submarine |  |
+| W1 | Yellow Submarine |  |
+| W2 | Only A Northern Song |  |
+| W3 | All Together Now |  |
+| W4 | Hey Bulldog |  |
+| W5 | It's All Too Much |  |
+| W6 | All You Need Is Love |  |
+| X1 | Pepperland |  |
+| X2 | Sea Of Time |  |
+| X3 | Sea Of Holes |  |
+| X4 | Sea Of Monsters |  |
+| X5 | March Of The Meanies |  |
+| X6 | Pepperland Laid Waste |  |
+| X7 | Yellow Submarine In Pepperland |  |
+|  | Abbey Road |  |
+| Y1 | Come Together |  |
+| Y2 | Something |  |
+| Y3 | Maxwell's Silver Hammer |  |
+| Y4 | Oh! Darling |  |
+| Y5 | Octopus's Garden |  |
+| Y6 | I Want You (She's So Heavy) |  |
+| Z1 | Here Comes The Sun |  |
+| Z2 | Because |  |
+| Z3 | You Never Give Me Your Money |  |
+| Z4 | Sun King |  |
+| Z5 | Mean Mr. Mustard |  |
+| Z6 | Polythene Pam |  |
+| Z7 | She Came In Through The Bathroom Window |  |
+| Z8 | Golden Slumbers |  |
+| Z9 | Carry That Weight |  |
+| Z10 | The End |  |
+|  | Let It Be |  |
+| AA1 | Two Of Us |  |
+| AA2 | Dig A Pony |  |
+| AA3 | Across The Universe |  |
+| AA4 | I Me Mine |  |
+| AA5 | Dig It |  |
+| AA6 | Let It Be |  |
+| AA7 | Maggie Mae |  |
+| AB1 | I've Got A Feeling |  |
+| AB2 | One After 909 |  |
+| AB3 | The Long And Winding Road |  |
+| AB4 | For You Blue |  |
+| AB5 | Get Back |  |
+|  | Past Masters |  |
+| AC1 | Love Me Do (Original Single Version) |  |
+| AC2 | From Me To You |  |
+| AC3 | Thank You Girl |  |
+| AC4 | She Loves You |  |
+| AC5 | I'll Get You |  |
+| AC6 | I Want To Hold Your Hand |  |
+| AC7 | This Boy |  |
+| AC8 | Komm, Gib Mir Deine Hand |  |
+| AC9 | Sie Liebt Dich |  |
+| AD1 | Long Tall Sally |  |
+| AD2 | I Call Your Name |  |
+| AD3 | Slow Down |  |
+| AD4 | Matchbox |  |
+| AD5 | I Feel Fine |  |
+| AD6 | She's A Woman |  |
+| AD7 | Bad Boy |  |
+| AD8 | Yes It Is |  |
+| AD9 | I'm Down |  |
+| AE1 | Day Tripper |  |
+| AE2 | We Can Work It Out |  |
+| AE3 | Paperback Writer |  |
+| AE4 | Rain |  |
+| AE5 | Lady Madonna |  |
+| AE6 | The Inner Light |  |
+| AE7 | Hey Jude |  |
+| AE8 | Revolution |  |
+| AF1 | Get Back |  |
+| AF2 | Don't Let Me Down |  |
+| AF3 | The Ballad Of John And Yoko |  |
+| AF4 | Old Brown Shoe |  |
+| AF5 | Across The Universe |  |
+| AF6 | Let It Be |  |
+| AF7 | You Know My Name (Look Up The Number) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-beatles-1967-1970-the-blue-album/1441133100" >}}<br>
-
 
 
 
@@ -293,5 +295,5 @@ The Beatles are the best-selling music act of all time, with estimated sales of 
 | Format         | Box Set Compilation Limited Edition Reissue Remastered Stereo Mono (180 Gram), Vinyl LP Album Stereo Mono, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl LP Album, Vinyl 2× LP Album, Vinyl LP Album Stereo Mono, Vinyl LP Album, Vinyl LP Album, Vinyl 2× LP Compilation Stereo Mono |
 | Label          | Apple Records |
 | Catalog Number | 5099963380910 |
-| Notes | The Beatles (vinyl stereo box set, 14 albums) ℗2009, ©2012  Made in EU (Printed in UK/Italy, Pressed in Germany (Optimal)/Sweden)     The Original Studio Recordings  The 13 Studio Albums and Past Masters remastered in stereo using the same digital sources as the acclaimed 2009 CD's on 180g Heavyweight Vinyl    Limited to 50,000 copies wordwide.    Also includes: Deluxe 252 page 12"x12" hardback book which tells the story of The Beatles album by album and with fascinating new essays on the historical importance of vinyl and the mastering process. featuring new photos and spectacular new layouts, this book is exclusively available in this Box Set.    LP01: Please Please Me (PCS 3042, ℗1963 Parlophone)  LP02: With The Beatles (PCS 3045, ℗1963 Parlophone)  LP03: A Hard Day's Night (PCS 3058, ℗1964 Parlophone)  LP04: Beatles for Sale (PCS 3062, ℗1964 Parlophone)  LP05: Help! (PCS 3071, ℗1965 ©1986 Parlophone)  LP06: Rubber Soul (PCS 3075, ℗1965 ©1986 Parlophone)  LP07: Revolver (PCS 7009, ℗1966 Parlophone)  LP08: Sgt. Pepper's Lonely Hearts Club Band (PCS 7027, ℗1967 Parlophone)  LP09: Magical Mystery Tour (2835, ℗1967 Capitol)  LP10: The Beatles (White Album, PCS 7067-8, ℗1968 Apple)  LP11: Yellow Submarine (PCS 7070, ℗1966 ℗1967 ℗1969 Apple)  LP12: Abbey Road (PCS 7088, ℗1969 Apple)  LP13: Let It Be (PCS 7096, ℗1970 Apple)  LP14: Past Masters (SET 5099969943515, 5099968463915/5099968464011, ℗1962-1970, ©1988 Parlophone/Apple) |
+| Notes | The Beatles (vinyl stereo box set, 14 albums) ℗2009, ©2012<br>Made in EU (Printed in UK/Italy, Pressed in Germany (Optimal)/Sweden) <br><br>The Original Studio Recordings<br>The 13 Studio Albums and Past Masters remastered in stereo using the same digital sources as the acclaimed 2009 CD's on 180g Heavyweight Vinyl<br><br>Limited to 50,000 copies wordwide.<br><br>Also includes: Deluxe 252 page 12"x12" hardback book which tells the story of The Beatles album by album and with fascinating new essays on the historical importance of vinyl and the mastering process. featuring new photos and spectacular new layouts, this book is exclusively available in this Box Set.<br><br>LP01: Please Please Me (PCS 3042, ℗1963 Parlophone)<br>LP02: With The Beatles (PCS 3045, ℗1963 Parlophone)<br>LP03: A Hard Day's Night (PCS 3058, ℗1964 Parlophone)<br>LP04: Beatles for Sale (PCS 3062, ℗1964 Parlophone)<br>LP05: Help! (PCS 3071, ℗1965 ©1986 Parlophone)<br>LP06: Rubber Soul (PCS 3075, ℗1965 ©1986 Parlophone)<br>LP07: Revolver (PCS 7009, ℗1966 Parlophone)<br>LP08: Sgt. Pepper's Lonely Hearts Club Band (PCS 7027, ℗1967 Parlophone)<br>LP09: Magical Mystery Tour (2835, ℗1967 Capitol)<br>LP10: The Beatles (White Album, PCS 7067-8, ℗1968 Apple)<br>LP11: Yellow Submarine (PCS 7070, ℗1966 ℗1967 ℗1969 Apple)<br>LP12: Abbey Road (PCS 7088, ℗1969 Apple)<br>LP13: Let It Be (PCS 7096, ℗1970 Apple)<br>LP14: Past Masters (SET 5099969943515, 5099968463915/5099968464011, ℗1962-1970, ©1988 Parlophone/Apple) |
 | Discogs URL    | [The Beatles - The Beatles](https://www.discogs.com/release/4030692-The-Beatles-The-Beatles) |

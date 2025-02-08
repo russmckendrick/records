@@ -4,6 +4,7 @@ artist_name: "Rush"
 artist: "rush"
 album_name: "Signals"
 date: 2017-02-22T18:03:13.000000Z
+release_date: "2024-04-16"
 release_id: "7396893"
 slug: "signals-7396893"
 hideSummary: true
@@ -26,27 +27,27 @@ Signals is the ninth studio album by Canadian rock band Rush, released on Septem
 The album peaked at No. 1 in Canada, No. 3 in the United Kingdom, and No. 10 in the United States. In November 1982, the album was certified platinum by the Recording Industry Association of America for selling one million copies in the United States. Rush released three singles from the album: "New World Man", which became the band's highest charting single in the United States and a number-one hit in Canada, as well as "Subdivisions" and "Countdown". The group supported Signals with a concert tour from April 1982 to May 1983. Signals has been reissued several times, including a remaster with a new stereo and 5.1 surround sound mix in 2011.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Subdivisions
-2. The Analog Kid
-3. Chemistry
-4. Digital Man
-5. The Weapon
-6. New World Man
-7. Losing It
-8. Countdown
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Subdivisions |  |
+| A2 | The Analog Kid |  |
+| A3 | Chemistry |  |
+| A4 | Digital Man |  |
+| B1 | The Weapon |  |
+| B2 | New World Man |  |
+| B3 | Losing It |  |
+| B4 | Countdown |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rush-single/1742090679" >}}<br>
 
-
-## Videos
-### Rush - Subdivisions
-{{< youtube id="EYYdQB0mkEU" title="Rush - Subdivisions" >}}<br>
 
 
 ## Release Images
@@ -59,5 +60,5 @@ The album peaked at No. 1 in Canada, No. 3 in the United Kingdom, and No. 10 in 
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Anthem (5) |
 | Catalog Number | 00602547118264 |
-| Notes | Black label on Shrink Wrap    Back To Black    Includes a voucher to download an MP3 of the album    180g Heavyweight Vinyl      www.backtoblackvinyl.com    Rear Cover     Anthem  Mercury  UMG  DMM |
+| Notes | Black label on Shrink Wrap<br><br>Back To Black<br><br>Includes a voucher to download an MP3 of the album<br><br>180g Heavyweight Vinyl<br>  <br>www.backtoblackvinyl.com<br><br>Rear Cover <br><br>Anthem<br>Mercury<br>UMG<br>DMM |
 | Discogs URL    | [Rush - Signals](https://www.discogs.com/release/7396893-Rush-Signals) |

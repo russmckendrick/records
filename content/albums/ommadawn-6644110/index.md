@@ -4,6 +4,7 @@ artist_name: "Mike Oldfield"
 artist: "mike-oldfield"
 album_name: "Ommadawn"
 date: 2017-06-01T18:08:57.000000Z
+release_date: "2017-01-20"
 release_id: "6644110"
 slug: "ommadawn-6644110"
 hideSummary: true
@@ -30,24 +31,22 @@ Ommadawn is the third studio album by English musician, multi-instrumentalist an
 Ommadawn peaked at No. 4 on the UK Albums Chart, No. 74 in Canada, and No. 146 on the US Billboard 200. The song that concludes "Ommadawn (Part Two)", entitled "On Horseback", was released as a single in November 1975 with Oldfield's non-album track "In Dulci Jubilo". The album reached gold certification by the British Phonographic Industry within two months, signifying 100,000 copies sold. In 2010, Mercury Records issued a remastered edition containing new stereo and 5.1 surround sound mixes by Oldfield and extra material. Oldfield had wanted to make Amarok (1990) a sequel album to Ommadawn, but the idea was not realised until he released Return to Ommadawn (2017).
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Ommadawn Part 1 (19:14)
-2. Ommadawn Part 2 (17:17)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Ommadawn Part 1 | 19:14 |
+| B | Ommadawn Part 2 | 17:17 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/return-to-ommadawn/1440893253" >}}<br>
 
 
-## Videos
-### Mike Oldfield - Ommadawn Full Album
-{{< youtube id="HlNi-zZF6wI" title="Mike Oldfield - Ommadawn Full Album" >}}<br>
-### More Videos
-
-- [Mike Oldfield - Ommadawn Live At The Gateway Theatre Edinburgh December 1980](https://www.youtube.com/watch?v=GvNt4D2eB9I)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,5 +58,5 @@ Ommadawn peaked at No. 4 on the UK Albums Chart, No. 74 in Canada, and No. 146 o
 | Format         | Vinyl LP Album |
 | Label          | Virgin |
 | Catalog Number | V 2043 |
-| Notes | Recorded at The Beacon January - September 1975.  Printed cardboard inner sleeve.  Virgin Records, Vernon Yard, Portobello Road, London W11 Printed in England by Robor Limited  Different coloured labels.  Bagpipes player : Herbie credited on inner sleeve Paddy Moloney credited on center label side B only |
+| Notes | Recorded at The Beacon January - September 1975.<br><br>Printed cardboard inner sleeve.<br><br>Virgin Records, Vernon Yard, Portobello Road, London W11<br>Printed in England by Robor Limited<br><br>Different coloured labels.<br><br>Bagpipes player :<br>Herbie credited on inner sleeve<br>Paddy Moloney credited on center label side B only |
 | Discogs URL    | [Mike Oldfield - Ommadawn](https://www.discogs.com/release/6644110-Mike-Oldfield-Ommadawn) |

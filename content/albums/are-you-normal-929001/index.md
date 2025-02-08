@@ -1,16 +1,17 @@
 ---
-title: "Ned's Atomic Dustbin - Are You Normal?"
-artist_name: "Ned's Atomic Dustbin"
-artist: "ned-s-atomic-dustbin"
+title: "Neds Atomic Dustbin - Are You Normal?"
+artist_name: "Neds Atomic Dustbin"
+artist: "neds-atomic-dustbin"
 album_name: "Are You Normal?"
 date: 2019-05-31T19:17:19.000000Z
+release_date: "1992-11-03"
 release_id: "929001"
 slug: "are-you-normal-929001"
 hideSummary: true
 cover:
     image: "are-you-normal-929001.jpg"
-    alt: "Are You Normal? by Ned's Atomic Dustbin"
-    caption: "Are You Normal? by Ned's Atomic Dustbin"
+    alt: "Are You Normal? by Neds Atomic Dustbin"
+    caption: "Are You Normal? by Neds Atomic Dustbin"
 additional_images:
     - "https://i.discogs.com/LJEuO_qgH1po0FoeicJdzicXzzxvn0uYUcoqKo0U1zY/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTAw/MS0xMTc0MTY5ODc1/LmpwZWc.jpeg"
     - "https://i.discogs.com/9JXA5SXquctQzKpj-_ohOQ-e2YD0UMWSG4FJTWnmupg/rs:fit/g:sm/q:90/h:497/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTAw/MS0xMTc0MTY5ODg0/LmpwZWc.jpeg"
@@ -24,53 +25,32 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Suave And Suffocated
-2. Walking Through Syrup
-3. Legoland
-4. Swallowing Air
-5. Who Goes First?
-6. Tantrum
-7. Not Sleeping Around
-8. You Don't Want To Do That
-9. Leg End In His Own Boots
-10. Two And Two Made Five
-11. Fracture
-12. Spring
-13. Intact
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Suave And Suffocated |  |
+| A2 | Walking Through Syrup |  |
+| A3 | Legoland |  |
+| A4 | Swallowing Air |  |
+| A5 | Who Goes First? |  |
+| A6 | Tantrum |  |
+| B1 | Not Sleeping Around |  |
+| B2 | You Don't Want To Do That |  |
+| B3 | Leg End In His Own Boots |  |
+| B4 | Two And Two Made Five |  |
+| B5 | Fracture |  |
+| B6 | Spring |  |
+| B7 | Intact |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/are-you-normal/290619406" >}}<br>
 
 
-## Videos
-### Neds Atomic Dustbin-Legoland
-{{< youtube id="yCWYygUCwOk" title="Neds Atomic Dustbin-Legoland" >}}<br>
-### More Videos
-
-- [Neds Atomic Dustbin - Legend In His Own Boots](https://www.youtube.com/watch?v=1WavRfjeQHI)
-- [Neds Atomic Dustbin-Spring](https://www.youtube.com/watch?v=88wmo4RlriI)
-- [Neds Atomic Dustbin - Swallowing Air](https://www.youtube.com/watch?v=wIpnNiQxg7A)
-- [Neds Atomic Dustbin - Who Goes First](https://www.youtube.com/watch?v=OqWXJcGAwVI)
-- [Neds Atomic Dustbin-Two And Two Made Five](https://www.youtube.com/watch?v=KSm40achaFI)
-- [Neds Atomic Dustbin - Walking Through Syrup](https://www.youtube.com/watch?v=l_UlbQjN0VY)
-- [Neds Atomic Dustbin - Tantrum](https://www.youtube.com/watch?v=ZcsLYwWxa7A)
-- [Neds Atomic Dustbin - Intact](https://www.youtube.com/watch?v=98Wn0YH4icE)
-- [Neds Atomic Dustbin - Not Sleeping Around](https://www.youtube.com/watch?v=o4a9E89Iq3o)
-- [Neds Atomic Dustbin-Suave And Suffocated](https://www.youtube.com/watch?v=qZlYBL6rsFw)
-- [Neds Atomic Dustbin-Legoland](https://www.youtube.com/watch?v=yCWYygUCwOk)
-- [Neds Atomic Dustbin-Suave And Suffocated](https://www.youtube.com/watch?v=qZlYBL6rsFw)
-- [Neds Atomic Dustbin - Who Goes First](https://www.youtube.com/watch?v=OqWXJcGAwVI)
-- [Neds Atomic Dustbin-Spring](https://www.youtube.com/watch?v=88wmo4RlriI)
-- [Neds Atomic Dustbin - Legend In His Own Boots](https://www.youtube.com/watch?v=1WavRfjeQHI)
-- [Neds Atomic Dustbin - Not Sleeping Around](https://www.youtube.com/watch?v=CZhmQ0JC7Cg)
-- [Neds Atomic Dustbin - Swallowing Air](https://www.youtube.com/watch?v=wIpnNiQxg7A)
-- [Neds Atomic Dustbin-Two And Two Made Five](https://www.youtube.com/watch?v=KSm40achaFI)
-- [Neds Atomic Dustbin - Walking Through Syrup](https://www.youtube.com/watch?v=l_UlbQjN0VY)
-- [Neds Atomic Dustbin-Walking through Syrup](https://www.youtube.com/watch?v=7LdC3FCprnI)
-- [Neds Atomic Dustbin-Tantrum](https://www.youtube.com/watch?v=EMxfYvzu9eY)
-- [Neds Atomic Dustbin - Suave and Suffocated](https://www.youtube.com/watch?v=bPbesM9doDQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,4 +62,4 @@ styles: ["Indie Rock"]
 | Label          | Sony Soho Square |
 | Catalog Number | 472633 1 |
 | Notes | printed inner sleeve with lyrics/credits |
-| Discogs URL    | [Ned's Atomic Dustbin - Are You Normal?](https://www.discogs.com/release/929001-Neds-Atomic-Dustbin-Are-You-Normal) |
+| Discogs URL    | [Neds Atomic Dustbin - Are You Normal?](https://www.discogs.com/release/929001-Neds-Atomic-Dustbin-Are-You-Normal) |

@@ -1,9 +1,10 @@
 ---
 title: "Voïvod - The Outer Limits"
 artist_name: "Voïvod"
-artist: "vo-vod"
+artist: "voivod"
 album_name: "The Outer Limits"
 date: 2021-07-16T11:53:13.000000Z
+release_date: ""
 release_id: "19332691"
 slug: "the-outer-limits-19332691"
 hideSummary: true
@@ -30,22 +31,27 @@ The Outer Limits is the seventh studio album released by Canadian heavy metal ba
 The Outer Limits was the final album to feature vocalist Denis Bélanger until his 2002 return. It was also Voivod's first album without original bassist Blacky, who had left the band before the release of the critically acclaimed but commercially unsuccessful 1991 album Angel Rat. Uncomfortable with the idea of bringing in an immediate replacement for Blacky, Voivod opted to have session musician Pierre St-Jean play bass guitar for the recording of the album.
 In March 2018, the album, along with Nothingface and Angel Rat, was reissued on CD in Japan as a budget edition.
 In 2021, record label Real Gone Music released the album on limited edition blue vinyl and red vinyl editions.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Fix My Heart (4:56)
-2. Moonbeam Rider (4:10)
-3. Le Pont Noir (5:43)
-4. The Nile Song (4:00)
-5. The Lost Machine (5:52)
-6. Time Warp (3:54)
-7. Jack Luminous (17:28)
-8. Wrong-Way Street (3:50)
-9. We Are Not Alone (4:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fix My Heart | 4:56 |
+| A2 | Moonbeam Rider | 4:10 |
+| A3 | Le Pont Noir | 5:43 |
+| A4 | The Nile Song | 4:00 |
+| A5 | The Lost Machine | 5:52 |
+| A6 | Time Warp | 3:54 |
+| B1 | Jack Luminous | 17:28 |
+| B2 | Wrong-Way Street | 3:50 |
+| B3 | We Are Not Alone | 4:26 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -59,5 +65,5 @@ In 2021, record label Real Gone Music released the album on limited edition blue
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Red/Black Smoke) |
 | Label          | Real Gone Music |
 | Catalog Number | RGM-1320 |
-| Notes | Limited edition "Rocket Fire Red" with black smoke vinyl pressing. Issued with a double-sided printed innersleeve with lyrics.   CAT# on spine : RGM-1320  [Back cover] A Geffen Records release; 1993 2021 UMG Recordings, Inc.   Courtesy of Geffen Records under licence from Universal Music Enterprises, a division of UMG Recordings, Inc. Manufactured by Real Gone Music, 960 N. Tustin Street #393, Orange, CA 9286 |
+| Notes | Limited edition "Rocket Fire Red" with black smoke vinyl pressing.<br>Issued with a double-sided printed innersleeve with lyrics. <br><br>CAT# on spine : RGM-1320<br><br>[Back cover]<br>A Geffen Records release; 1993 2021 UMG Recordings, Inc. <br><br>Courtesy of Geffen Records under licence from Universal Music Enterprises,<br>a division of UMG Recordings, Inc.<br>Manufactured by Real Gone Music, 960 N. Tustin Street #393, Orange, CA 9286 |
 | Discogs URL    | [Voïvod - The Outer Limits](https://www.discogs.com/release/19332691-Voivod-The-Outer-Limits) |

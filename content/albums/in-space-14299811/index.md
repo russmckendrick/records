@@ -4,6 +4,7 @@ artist_name: "Big Star"
 artist: "big-star"
 album_name: "In Space"
 date: 2021-07-31T07:48:51.000000Z
+release_date: "1975"
 release_id: "14299811"
 slug: "in-space-14299811"
 hideSummary: true
@@ -27,34 +28,32 @@ In Space is the fourth and final studio album by American rock group Big Star, r
 The album features original Big Star members Alex Chilton and Jody Stephens on guitar and drums respectively, with two more recent recruits, Jon Auer and Ken Stringfellow who play second guitar and bass. Auer and Stringfellow had been members of The Posies before joining Big Star in 1993 for sporadic live performances and tours. The four band members share lead vocal duty across the album's twelve tracks, with Chilton singing the majority.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Dony
-2. Lady Sweet
-3. Best Chance
-4. Turn My Back On The Sun
-5. Love Revolution
-6. February's Quiet
-7. Mine Exclusively
-8. Whole New Thing
-9. Aria, Largo
-10. Hung Up With Summer
-11. Do You Wanna Make It
-12. Makeover
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dony |  |
+| A2 | Lady Sweet |  |
+| A3 | Best Chance |  |
+| A4 | Turn My Back On The Sun |  |
+| A5 | Love Revolution |  |
+| B1 | February's Quiet |  |
+| B2 | Mine Exclusively |  |
+| B3 | Whole New Thing |  |
+| B4 | Aria, Largo |  |
+| B5 | Hung Up With Summer |  |
+| B6 | Do You Wanna Make It |  |
+| B7 | Makeover |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/evening-star/1477532178" >}}<br>
 
 
-## Videos
-### Big Star - In Space 2005 FULL ALBUM
-{{< youtube id="mSq7YXsoLpo" title="Big Star - In Space 2005 FULL ALBUM" >}}<br>
-### More Videos
-
-- [Big Star - In Space 2005 FULL ALBUM](https://www.youtube.com/watch?v=mSq7YXsoLpo)
 
 ## Release Images
 {{< imageGrid >}}

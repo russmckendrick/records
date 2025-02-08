@@ -4,6 +4,7 @@ artist_name: "Thin Lizzy"
 artist: "thin-lizzy"
 album_name: "Greatest Hits"
 date: 2021-08-01T09:19:06.000000Z
+release_date: "2020-10-23"
 release_id: "19396810"
 slug: "greatest-hits-19396810"
 hideSummary: true
@@ -27,41 +28,41 @@ styles: ["Classic Rock"]
 ---
 
 Greatest Hits is a double-CD compilation of Thin Lizzy songs released in 2004.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Boys Are Back In Town
-2. Jailbreak
-3. Don’t Believe A Word
-4. Dancing In The Moonlight (It’s Caught Me In Its Spotlight)
-5. Waiting For An Alibi
-6. Rosalie (Live)
-7. Do Anything You Want To
-8. Chinatown
-9. Sarah (Version 3)
-10. Fighting My Way Back
-11. Killer On The Loose
-12. Hollywood (Down On Your Luck)
-13. Thunder And Lightning
-14. Renegade
-15. Still In Love With You
-16. The Sun Goes Down
-17. Whiskey In The Jar
-18. Bad Reputation
-19. The Rocker
-20. Showdown
-21. Cold Sweat
-22. Wild One
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Boys Are Back In Town |  |
+| A2 | Jailbreak |  |
+| A3 | Don’t Believe A Word |  |
+| A4 | Dancing In The Moonlight (It’s Caught Me In Its Spotlight) |  |
+| A5 | Waiting For An Alibi |  |
+| A6 | Rosalie (Live) |  |
+| B1 | Do Anything You Want To |  |
+| B2 | Chinatown |  |
+| B3 | Sarah (Version 3) |  |
+| B4 | Fighting My Way Back |  |
+| B5 | Killer On The Loose |  |
+| B6 | Hollywood (Down On Your Luck) |  |
+| C1 | Thunder And Lightning |  |
+| C2 | Renegade |  |
+| C3 | Still In Love With You |  |
+| C4 | The Sun Goes Down |  |
+| D1 | Whiskey In The Jar |  |
+| D2 | Bad Reputation |  |
+| D3 | The Rocker |  |
+| D4 | Showdown |  |
+| D5 | Cold Sweat |  |
+| D6 | Wild One |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1535128775" >}}<br>
 
-
-## Videos
-### Thin Lizzy - Thin Lizzy Greatest Hits vol1
-{{< youtube id="fJJuiEI3saw" title="Thin Lizzy - Thin Lizzy Greatest Hits vol1" >}}<br>
 
 
 ## Release Images

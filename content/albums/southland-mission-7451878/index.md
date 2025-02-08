@@ -4,6 +4,7 @@ artist_name: "Phil Cook"
 artist: "phil-cook"
 album_name: "Southland Mission"
 date: 2016-01-24T14:09:17.000000Z
+release_date: "2015-09-11"
 release_id: "7451878"
 slug: "southland-mission-7451878"
 hideSummary: true
@@ -23,36 +24,28 @@ styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Ain't It Sweet
-2. 1922
-3. Great Tide
-4. Belong
-5. Sitting on a Fence
-6. Lowly Road
-7. Time to Wake Up
-8. Anybody Else
-9. Gone
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ain't It Sweet |  |
+| A2 | 1922 |  |
+| A3 | Great Tide |  |
+| A4 | Belong |  |
+| B1 | Sitting on a Fence |  |
+| B2 | Lowly Road |  |
+| B3 | Time to Wake Up |  |
+| B4 | Anybody Else |  |
+| B5 | Gone |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/southland-mission/1024130093" >}}<br>
 
 
-## Videos
-### Phil Cook - Southland Mission Documentary
-{{< youtube id="k_4TyQ1s_Lc" title="Phil Cook - Southland Mission Documentary" >}}<br>
-### More Videos
-
-- [Sitting on a Fence](https://www.youtube.com/watch?v=ywiDx38-a_E)
-- [Belong](https://www.youtube.com/watch?v=wwlvhhmYx3Q)
-- [Gone](https://www.youtube.com/watch?v=wlO7QYMb2aU)
-- [Lowly Road](https://www.youtube.com/watch?v=YyJOj8aVtmM)
-- [Phil Cook - Southland Mission Documentary](https://www.youtube.com/watch?v=k_4TyQ1s_Lc)
-- [Sitting on a Fence](https://www.youtube.com/watch?v=ywiDx38-a_E)
-- [Belong](https://www.youtube.com/watch?v=wwlvhhmYx3Q)
-- [Gone](https://www.youtube.com/watch?v=wlO7QYMb2aU)
-- [Lowly Road](https://www.youtube.com/watch?v=YyJOj8aVtmM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +56,5 @@ styles: ["Country Rock", "Folk", "Folk Rock", "Rock & Roll"]
 | Format         | Vinyl LP Album |
 | Label          | Thirty Tigers |
 | Catalog Number | none |
-| Notes | Recorded at Echo Mountain Recording, March to October 2014.  Published by Phil Cook Publishing Designee (BMI), except Track A2 published by Heyday Media Group A/C Little Judges Music (ASCAP).  B1 is titled "Sitting on a Fence" on the LP label and titled "Sitting on a Fence Too Long" on the sleeve.  Contains download code |
+| Notes | Recorded at Echo Mountain Recording, March to October 2014.<br><br>Published by Phil Cook Publishing Designee (BMI), except Track A2 published by Heyday Media Group A/C Little Judges Music (ASCAP).<br><br>B1 is titled "Sitting on a Fence" on the LP label and titled "Sitting on a Fence Too Long" on the sleeve.<br><br>Contains download code |
 | Discogs URL    | [Phil Cook - Southland Mission](https://www.discogs.com/release/7451878-Phil-Cook-Southland-Mission) |

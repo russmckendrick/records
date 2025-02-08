@@ -4,6 +4,7 @@ artist_name: "Nordic Giants"
 artist: "nordic-giants"
 album_name: "Origins"
 date: 2024-05-31T09:20:36.000000Z
+release_date: ""
 release_id: "30822024"
 slug: "origins-30822024"
 hideSummary: true
@@ -21,25 +22,27 @@ styles: ["Post Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Together
-2. Speed The Crows Nest
-3. Glass Skinned Girl
-4. Through A Lens Darkly
-5. Shine
-6. The Seed
-7. B.O.A.T.S
-8. Dark Clouds Mean War (Rework)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Together |  |
+| A2 | Speed The Crows Nest |  |
+| A3 | Glass Skinned Girl |  |
+| A4 | Through A Lens Darkly |  |
+| B1 | Shine |  |
+| B2 | The Seed |  |
+| B3 | B.O.A.T.S |  |
+| B4 | Dark Clouds Mean War (Rework) |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Nordic Giants - Through A Lens Darkly - Re-Recorded  Re-Mastered 2024 From Origins
-{{< youtube id="1SlSRi7nR2M" title="Nordic Giants - Through A Lens Darkly - Re-Recorded  Re-Mastered 2024 From Origins" >}}<br>
-### More Videos
 
-- [Nordic Giants - Through A Lens Darkly - Re-Recorded  Re-Mastered 2024 From Origins](https://www.youtube.com/watch?v=1SlSRi7nR2M)
 
 ## Release Images
 {{< imageGrid >}}
@@ -50,5 +53,5 @@ styles: ["Post Rock"]
 | Format         | Vinyl LP Compilation Limited Edition (Dusk) |
 | Label          | Not On Label (Nordic Giants Self-released) |
 | Catalog Number | none |
-| Notes | Limited to 300 copies Dedicated to Grampy |
+| Notes | Limited to 300 copies<br>Dedicated to Grampy |
 | Discogs URL    | [Nordic Giants - Origins](https://www.discogs.com/release/30822024-Nordic-Giants-Origins) |

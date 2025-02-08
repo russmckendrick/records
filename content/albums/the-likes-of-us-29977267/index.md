@@ -4,6 +4,7 @@ artist_name: "Big Big Train"
 artist: "big-big-train"
 album_name: "The Likes Of Us"
 date: 2024-03-02T07:27:22.000000Z
+release_date: "2024-03-01"
 release_id: "29977267"
 slug: "the-likes-of-us-29977267"
 hideSummary: true
@@ -22,27 +23,27 @@ styles: ["Prog Rock"]
 ---
 
 The Likes of Us is the fifteenth studio album by English progressive rock band Big Big Train, released on 1 March 2024. It is the band's first album of new material with singer Alberto Bravin and keyboardist Oskar Holldorff who joined in 2022 and 2023 respectively, as well as the first album since The Difference Machine without singer David Longdon, who died in 2021. It is their first album to be released on progressive label InsideOut Music, which the band signed to in July 2023, having self released several of their albums before. The album was also released in Japan, featuring a Japanese language version of "Love Is The Light".
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Light Left In The Day (6:10)
-2. Oblivion (5:27)
-3. Beneath The Masts (17:26)
-4. Skates On (4:28)
-5. Miramare (10:17)
-6. Love Is The Light (6:11)
-7. Bookmarks (6:23)
-8. Last Eleven (7:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Light Left In The Day | 6:10 |
+| A2 | Oblivion | 5:27 |
+| B1 | Beneath The Masts | 17:26 |
+| B2 | Skates On | 4:28 |
+| C1 | Miramare | 10:17 |
+| C2 | Love Is The Light | 6:11 |
+| D1 | Bookmarks | 6:23 |
+| D2 | Last Eleven | 7:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-likes-of-us/1716950345" >}}<br>
 
-
-## Videos
-### BIG BIG TRAIN -  Oblivion OFFICIAL VIDEO
-{{< youtube id="TZjAreGfqlU" title="BIG BIG TRAIN -  Oblivion OFFICIAL VIDEO" >}}<br>
 
 
 ## Release Images
@@ -55,5 +56,5 @@ The Likes of Us is the fifteenth studio album by English progressive rock band B
 | Format         | Vinyl 2× LP Album Stereo (180g) |
 | Label          | Inside Out Music |
 | Catalog Number | IOM700 |
-| Notes | Black vinyl edition.  Gatefold sleeve including printed insert. |
+| Notes | Black vinyl edition.<br><br>Gatefold sleeve including printed insert. |
 | Discogs URL    | [Big Big Train - The Likes Of Us](https://www.discogs.com/release/29977267-Big-Big-Train-The-Likes-Of-Us) |

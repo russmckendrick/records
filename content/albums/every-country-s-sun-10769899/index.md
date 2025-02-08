@@ -4,6 +4,7 @@ artist_name: "Mogwai"
 artist: "mogwai"
 album_name: "Every Country's Sun"
 date: 2017-09-02T08:07:44.000000Z
+release_date: "2017-09-01"
 release_id: "10769899"
 slug: "every-country-s-sun-10769899"
 hideSummary: true
@@ -56,50 +57,48 @@ styles: ["Post Rock"]
 Every Country's Sun is the ninth studio album by Scottish post-rock band Mogwai. It was released on 1 September 2017 by Rock Action Records in the United Kingdom and Europe, Temporary Residence Limited in the United States, and Spunk Records in Australia.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Coolverine (6:15)
-2. Party In The Dark (4:02)
-3. Brain Sweeties (4:43)
-4. Crossing The Road Material (6:58)
-5. aka 47 (4:16)
-6. 20 Size (4:41)
-7. 1000 Foot Face (4:31)
-8. Don't Believe The Fife (6:23)
-9. Battered At A Scramble (4:02)
-10. Old Poisons (4:29)
-11. Every Country's Sun (5:35)
-12. 20 Size (4:20)
-13. 1000 Foot Face (4:53)
-14. Don't Believe The Fife (6:10)
-15. Battered At A Scramble (4:19)
-16. Old Poisons (4:35)
-17. Every Country's Sun (5:32)
-18. Coolverine (6:17)
-19. Party In The Dark (4:02)
-20. Brain Sweeties (4:44)
-21. Crossing The Road Material (6:58)
-22. aka 47 (4:16)
-23. 20 Size (4:44)
-24. 1000 Foot Face (4:31)
-25. Don't Believe The Fife (6:24)
-26. Battered At A Scramble (4:03)
-27. Old Poisons (4:30)
-28. Every Country's Sun (5:37)
+| Position | Title | Duration |
+|----------|-------|----------|
+| LP-A1 | Coolverine | 6:15 |
+| LP-A2 | Party In The Dark | 4:02 |
+| LP-A3 | Brain Sweeties | 4:43 |
+| LP-B1 | Crossing The Road Material | 6:58 |
+| LP-B2 | aka 47 | 4:16 |
+| LP-B3 | 20 Size | 4:41 |
+| LP-C1 | 1000 Foot Face | 4:31 |
+| LP-C2 | Don't Believe The Fife | 6:23 |
+| LP-D1 | Battered At A Scramble | 4:02 |
+| LP-D2 | Old Poisons | 4:29 |
+| LP-D3 | Every Country's Sun | 5:35 |
+| 12"-A1 | 20 Size | 4:20 |
+| 12"-A2 | 1000 Foot Face | 4:53 |
+| 12"-A3 | Don't Believe The Fife | 6:10 |
+| 12"-B1 | Battered At A Scramble | 4:19 |
+| 12"-B2 | Old Poisons | 4:35 |
+| 12"-B3 | Every Country's Sun | 5:32 |
+| CD-1 | Coolverine | 6:17 |
+| CD-2 | Party In The Dark | 4:02 |
+| CD-3 | Brain Sweeties | 4:44 |
+| CD-4 | Crossing The Road Material | 6:58 |
+| CD-5 | aka 47 | 4:16 |
+| CD-6 | 20 Size | 4:44 |
+| CD-7 | 1000 Foot Face | 4:31 |
+| CD-8 | Don't Believe The Fife | 6:24 |
+| CD-9 | Battered At A Scramble | 4:03 |
+| CD-10 | Old Poisons | 4:30 |
+| CD-11 | Every Country's Sun | 5:37 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/every-countrys-sun/1232654304" >}}<br>
 
 
-## Videos
-### Every Countrys Sun
-{{< youtube id="9ubqJl36KFU" title="Every Countrys Sun" >}}<br>
-### More Videos
-
-- [Mogwai - Every Countrys Sun](https://www.youtube.com/watch?v=VEvhlzQff2s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -111,5 +110,5 @@ Every Country's Sun is the ninth studio album by Scottish post-rock band Mogwai.
 | Format         | Vinyl 2× LP Album (White), Vinyl 12" 33 ⅓ RPM, CD Album, Box Set Album Deluxe Edition |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT108 |
-| Notes | Boxset includes: - white vinyl double LP in a gatefold sleeve - 12" with demos in own sleeve - seven 12"x12" photo prints - a copy of the UK/Europe CD ([r=10788412]) - a download coupon  Copies bought direct from the Mogwai webshop came with a 12"x12" graphical print, hand signed by the band members. This was included as an additional item, separate from the sealed box.  CD-Track durations are taken from the cd-ripper programm. |
+| Notes | Boxset includes:<br>- white vinyl double LP in a gatefold sleeve<br>- 12" with demos in own sleeve<br>- seven 12"x12" photo prints<br>- a copy of the UK/Europe CD ([r=10788412])<br>- a download coupon<br><br>Copies bought direct from the Mogwai webshop came with a 12"x12" graphical print, hand signed by the band members. This was included as an additional item, separate from the sealed box.<br><br>CD-Track durations are taken from the cd-ripper programm. |
 | Discogs URL    | [Mogwai - Every Country's Sun](https://www.discogs.com/release/10769899-Mogwai-Every-Countrys-Sun) |

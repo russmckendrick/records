@@ -4,6 +4,7 @@ artist_name: "Tim Armstrong"
 artist: "tim-armstrong"
 album_name: "A Poet's Life"
 date: 2018-04-21T11:17:10.000000Z
+release_date: "2007-05-22"
 release_id: "11895222"
 slug: "a-poet-s-life-11895222"
 hideSummary: true
@@ -30,40 +31,30 @@ A Poet's Life is the debut solo studio album by American musician Tim Armstrong.
 The album was initially released for free as downloads on the internet. Later it was announced that it would be a physical product as well. The album comes with a DVD featuring a video for every song on the album.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Wake Up
-2. Hold On
-3. Into Action
-4. Translator
-5. Take This City
-6. Inner City Violence
-7. Oh No
-8. Lady Demeter
-9. Among The Dead
-10. Cold Blooded
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Wake Up |  |
+| A2 | Hold On |  |
+| A3 | Into Action |  |
+| A4 | Translator |  |
+| A5 | Take This City |  |
+| B1 | Inner City Violence |  |
+| B2 | Oh No |  |
+| B3 | Lady Demeter |  |
+| B4 | Among The Dead |  |
+| B5 | Cold Blooded |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-poets-life/1485055404" >}}<br>
 
 
-## Videos
-### Tim Armstrong - Wake Up
-{{< youtube id="5YuCERKiRIo" title="Tim Armstrong - Wake Up" >}}<br>
-### More Videos
-
-- [Tim Armstrong - Hold On](https://www.youtube.com/watch?v=modmuWBssl4)
-- [Tim Armstrong - Into Action](https://www.youtube.com/watch?v=0zmIR1aAGYE)
-- [Tim Armstrong - Translator](https://www.youtube.com/watch?v=Uc_iFszDRuA)
-- [Tim Armstrong - Take This City](https://www.youtube.com/watch?v=scxEEqX-hXo)
-- [Tim Armstrong - Inner City Violence](https://www.youtube.com/watch?v=HiErApQp0wg)
-- [Tim Armstrong - Oh No](https://www.youtube.com/watch?v=NQswLcNb2tk)
-- [Tim Armstrong - Lady Demeter](https://www.youtube.com/watch?v=pYRrbBm30N8)
-- [Tim Armstrong - Among The Dead](https://www.youtube.com/watch?v=-HDdFRGkOJU)
-- [Tim Armstrong - Cold Blooded](https://www.youtube.com/watch?v=yDCTI84is3o)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +66,5 @@ The album was initially released for free as downloads on the internet. Later it
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (White) |
 | Label          | Hellcat Records |
 | Catalog Number | 0491-1 |
-| Notes | Gatefold cover. White vinyl.   The first vinyl pressing of the Rancid leader's solo album is on white vinyl for Record Store Day 2018. Limited Run / Regional Focus Release. 900 copies made. |
+| Notes | Gatefold cover. White vinyl. <br><br>The first vinyl pressing of the Rancid leader's solo album is on white vinyl for Record Store Day 2018. Limited Run / Regional Focus Release. 900 copies made. |
 | Discogs URL    | [Tim Armstrong - A Poet's Life](https://www.discogs.com/release/11895222-Tim-Armstrong-A-Poets-Life) |

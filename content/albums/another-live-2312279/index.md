@@ -1,9 +1,10 @@
 ---
 title: "Utopia - Another Live"
 artist_name: "Utopia"
-artist: "utopia-5"
+artist: "utopia"
 album_name: "Another Live"
 date: 2022-03-06T04:59:24.000000Z
+release_date: "1975-10"
 release_id: "2312279"
 slug: "another-live-2312279"
 hideSummary: true
@@ -28,31 +29,28 @@ Side one contains three new songs that had not been previously issued, and which
 Side two is a mix of live cover versions of songs by band members and other artists. Jeff Lynne's "Do Ya" was a B-side to The Move's "California Man" single (1972) which had a double-track B-side also featuring the song "Ella James".
 As well as referring to the fact the album was recorded live, the title is an obvious paraphrase of the phrase "Another Life," referencing the Eastern philosophical concept of reincarnation, as alluded to in the first track on Side One. The printed title of Powell's instrumental "Mister Triscuits" was reportedly the result of Powell's publisher mistranscribing its original full title, "The Emerald Tablet of Hermes Trismegistus".
 With no singles released to push it higher, the album peaked at #66 on the Billboard 200 charts.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Another Life (7:07)
-2. The Wheel (6:59)
-3. The Seven Rays (8:46)
-4. Intro / Mister Triscuits (5:24)
-5. Something's Coming (2:49)
-6. Heavy Metal Kids (4:14)
-7. Do Ya (4:09)
-8. Just One Victory (5:17)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Another Life | 7:07 |
+| A2 | The Wheel | 6:59 |
+| A3 | The Seven Rays | 8:46 |
+| B1 | Intro / Mister Triscuits | 5:24 |
+| B2 | Something's Coming | 2:49 |
+| B3 | Heavy Metal Kids | 4:14 |
+| B4 | Do Ya | 4:09 |
+| B5 | Just One Victory | 5:17 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/another-live/100982431" >}}<br>
 
 
-## Videos
-### TODD RUNDGRENS UTOPIA ANOTHER LIVE DELUXE EDITION
-{{< youtube id="zo9Oor_vYeE" title="TODD RUNDGRENS UTOPIA ANOTHER LIVE DELUXE EDITION" >}}<br>
-### More Videos
-
-- [Todd Rundgrens Utopia -  Do Ya](https://www.youtube.com/watch?v=KvhMTCIvpfQ)
-- [Todd Rundgrens Utopia - The Wheel - from  Another Live - vinyl LP](https://www.youtube.com/watch?v=VVLtB2m5bfw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +62,5 @@ With no singles released to push it higher, the album peaked at #66 on the Billb
 | Format         | Vinyl LP Album |
 | Label          | Bearsville |
 | Catalog Number | K 55508 |
-| Notes | Unique Artwork. Includes insert with lyrics and credits.  Recorded live: August 1975.  Very similar to [r20758009], but with different label text / publishers. |
+| Notes | Unique Artwork. Includes insert with lyrics and credits.<br><br>Recorded live: August 1975.<br><br>Very similar to [r20758009], but with different label text / publishers. |
 | Discogs URL    | [Utopia - Another Live](https://www.discogs.com/release/2312279-Todd-Rundgrens-Utopia-Another-Live) |

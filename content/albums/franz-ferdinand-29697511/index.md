@@ -36,29 +36,25 @@ Franz Ferdinand won the 2004 Mercury Music Prize and was nominated for Best Alte
 
 
 ## Tracklisting
-1. Jacqueline (3:51)
-2. Tell Her Tonight (2:20)
-3. Take Me Out (3:59)
-4. The Dark Of The Matinée (4:05)
-5. Auf Achse (4:22)
-6. Cheating On You (2:39)
-7. This Fire (4:17)
-8. Darts Of Pleasure (3:02)
-9. Michael (3:23)
-10. Come On Home (3:48)
-11. 40' (3:25)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Jacqueline | 3:51 |
+| A2 | Tell Her Tonight | 2:20 |
+| A3 | Take Me Out | 3:59 |
+| A4 | The Dark Of The Matinée | 4:05 |
+| A5 | Auf Achse | 4:22 |
+| B1 | Cheating On You | 2:39 |
+| B2 | This Fire | 4:17 |
+| B3 | Darts Of Pleasure | 3:02 |
+| B4 | Michael | 3:23 |
+| B5 | Come On Home | 3:48 |
+| B6 | 40' | 3:25 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/franz-ferdinand/315843479" >}}<br>
 
 
-## Videos
-### Franz Ferdinand - Take Me Out Official Video
-{{< youtube id="GhCXAiNz9Jo" title="Franz Ferdinand - Take Me Out Official Video" >}}<br>
-### More Videos
-
-- [Franz Ferdinand - This Fire Video](https://www.youtube.com/watch?v=haW_ruZ_Be8)
-- [Franz Ferdinand - The Dark Of The Matinée Video](https://www.youtube.com/watch?v=cKyG1dRoDlA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +66,5 @@ Franz Ferdinand won the 2004 Mercury Music Prize and was nominated for Best Alte
 | Format         | Vinyl LP Album Limited Edition Reissue (Orange & Black Swirl) |
 | Label          | Domino |
 | Catalog Number | WIGLP136 |
-| Notes | Hype sticker: Franz Ferdinand The Debut Album 20th Anniversary Limited Edition Black & Orange Swirl Vinyl |
+| Notes | Hype sticker:<br>Franz Ferdinand<br>The Debut Album<br>20th Anniversary<br>Limited Edition<br>Black & Orange Swirl Vinyl |
 | Discogs URL    | [Franz Ferdinand - Franz Ferdinand](https://www.discogs.com/release/29697511-Franz-Ferdinand-Franz-Ferdinand) |

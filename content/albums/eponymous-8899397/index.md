@@ -1,16 +1,17 @@
 ---
-title: "R.E.M. - Eponymous"
-artist_name: "R.E.M."
-artist: "r-e-m"
+title: "REM - Eponymous"
+artist_name: "REM"
+artist: "rem"
 album_name: "Eponymous"
 date: 2017-04-02T12:56:55.000000Z
+release_date: "1988-10-17"
 release_id: "8899397"
 slug: "eponymous-8899397"
 hideSummary: true
 cover:
     image: "eponymous-8899397.jpg"
-    alt: "Eponymous by R.E.M."
-    caption: "Eponymous by R.E.M."
+    alt: "Eponymous by REM"
+    caption: "Eponymous by REM"
 additional_images:
     - "https://i.discogs.com/I6o04rclUH7QOZHOUtkRkzSnytuO3WVCU0Qb7qxiLZ8/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTkz/OTctMTQ3MTA3MTY1/MS03Mzk3LmpwZWc.jpeg"
     - "https://i.discogs.com/NBMqQQARSVjecoKZQ7LSSfbdP0dZ6cZnFvXHctFsVn0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTkz/OTctMTU5MDk1MDgx/Ni00OTYwLmpwZWc.jpeg"
@@ -28,29 +29,32 @@ The album features the alternate title "File Under Grain", a reference to the co
 Released in October 1988, just a month before R.E.M.'s Warner Bros. debut Green appeared, Eponymous reached #44 in the US and #69 in the UK.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Early
-2. Radio Free Europe (Original Hib-Tone Single) (3:47)
-3. Gardening At Night (Different Vocal Mix) (3:31)
-4. Talk About The Passion (3:22)
-5. So. Central Rain (3:11)
-6. (Don't Go Back To) Rockville (4:34)
-7. Can't Get There From Here (4:10)
-8. Late
-9. Driver 8 (3:18)
-10. Romance (3:25)
-11. Fall On Me (2:49)
-12. The One I Love (3:17)
-13. Finest Worksong (Mutual Drum Horn Mix) (3:49)
-14. It's The End Of The World As We Know It (And I Feel Fine) (4:07)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Early |  |
+| A1 | Radio Free Europe (Original Hib-Tone Single) | 3:47 |
+| A2 | Gardening At Night (Different Vocal Mix) | 3:31 |
+| A3 | Talk About The Passion | 3:22 |
+| A4 | So. Central Rain | 3:11 |
+| A5 | (Don't Go Back To) Rockville | 4:34 |
+| A6 | Can't Get There From Here | 4:10 |
+|  | Late |  |
+| B1 | Driver 8 | 3:18 |
+| B2 | Romance | 3:25 |
+| B3 | Fall On Me | 2:49 |
+| B4 | The One I Love | 3:17 |
+| B5 | Finest Worksong (Mutual Drum Horn Mix) | 3:49 |
+| B6 | It's The End Of The World As We Know It (And I Feel Fine) | 4:07 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/eponymous/723808868" >}}<br>
-
 
 
 
@@ -64,5 +68,5 @@ Released in October 1988, just a month before R.E.M.'s Warner Bros. debut Green 
 | Format         | Vinyl LP Compilation Reissue (180g) |
 | Label          | I.R.S. Records |
 | Catalog Number | 00602547899828 |
-| Notes | Includes voucher to download MP3 version of the album.   |
-| Discogs URL    | [R.E.M. - Eponymous](https://www.discogs.com/release/8899397-REM-Eponymous) |
+| Notes | Includes voucher to download MP3 version of the album. <br> |
+| Discogs URL    | [REM - Eponymous](https://www.discogs.com/release/8899397-REM-Eponymous) |

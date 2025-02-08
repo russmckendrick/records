@@ -4,6 +4,7 @@ artist_name: "British Theatre"
 artist: "british-theatre"
 album_name: "Mastery"
 date: 2016-06-27T17:47:06.000000Z
+release_date: ""
 release_id: "8693685"
 slug: "mastery-8693685"
 hideSummary: true
@@ -29,21 +30,28 @@ styles: ["Alternative Rock", "Ambient", "Experimental"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Blue Horror
-2. The Cull 
-3. Dinosaur
-4. The Coldest Of Shoulders
-5. Capra
-6. Newman
-7. Cross The Swords
-8. Gold Bruise
-9. Thunderlips
-10. Favour The Brave
-11. Mastery
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Blue Horror |  |
+| A2 | The Cull  |  |
+| A3 | Dinosaur |  |
+| B1 | The Coldest Of Shoulders |  |
+| B2 | Capra |  |
+| C1 | Newman |  |
+| C2 | Cross The Swords |  |
+| C3 | Gold Bruise |  |
+| D1 | Thunderlips |  |
+| D2 | Favour The Brave |  |
+| D3 | Mastery |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -56,5 +64,5 @@ styles: ["Alternative Rock", "Ambient", "Experimental"]
 | Format         | Vinyl 2× LP 45 RPM Album Limited Edition (Clear) |
 | Label          | Not On Label (British Theatre Self-released) |
 | Catalog Number | none |
-| Notes | Signed copies were available via a Pledgemusic campaign. Comes in a gatefold sleeve with printed inners. Contains no barcode or catalogue number. |
+| Notes | Signed copies were available via a Pledgemusic campaign.<br>Comes in a gatefold sleeve with printed inners.<br>Contains no barcode or catalogue number. |
 | Discogs URL    | [British Theatre - Mastery](https://www.discogs.com/release/8693685-British-Theatre-Mastery) |

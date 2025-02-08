@@ -4,6 +4,7 @@ artist_name: "Mark Lanegan"
 artist: "mark-lanegan"
 album_name: "Straight Songs Of Sorrow"
 date: 2020-05-18T11:11:44.000000Z
+release_date: "2020-05-08"
 release_id: "15264315"
 slug: "straight-songs-of-sorrow-15264315"
 hideSummary: true
@@ -35,49 +36,35 @@ styles: ["Alternative Rock"]
 Straight Songs of Sorrow is the twelfth and final studio album by American singer Mark Lanegan. It was released through Heavenly Recordings on May 8, 2020. The album was inspired by writing his memoir Sing Backwards and Weep, which was published April 28, 2020. It's his first solo album credited to simply Mark Lanegan, as opposed to Mark Lanegan Band, since 2013's Imitations, and the first one credited to Mark Lanegan that doesn't feature former collaborator Mike Johnson.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Wouldn't Want To Say
-2. Apples From A Tree
-3. This Game Of Love
-4. Ketamine
-5. Bleed All Over
-6. Churchbells Ghosts
-7. Internal Hourglass Discussion
-8. Stockholm City Blues
-9. Skeleton Key
-10. Daylight In The Nocturnal House
-11. Ballad Of A Dying Rover
-12. Hanging On (For DRC)
-13. Burying Ground
-14. At Zero Below
-15. Eden Lost And Found
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Wouldn't Want To Say |  |
+| A2 | Apples From A Tree |  |
+| A3 | This Game Of Love |  |
+| A4 | Ketamine |  |
+| B1 | Bleed All Over |  |
+| B2 | Churchbells Ghosts |  |
+| B3 | Internal Hourglass Discussion |  |
+| B4 | Stockholm City Blues |  |
+| C1 | Skeleton Key |  |
+| C2 | Daylight In The Nocturnal House |  |
+| C3 | Ballad Of A Dying Rover |  |
+| D1 | Hanging On (For DRC) |  |
+| D2 | Burying Ground |  |
+| D3 | At Zero Below |  |
+| D4 | Eden Lost And Found |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/straight-songs-of-sorrow/1498128011" >}}<br>
 
 
-## Videos
-### Mark Lanegan - Bleed All Over
-{{< youtube id="b4EL3wo1K84" title="Mark Lanegan - Bleed All Over" >}}<br>
-### More Videos
-
-- [Stockholm City Blues](https://www.youtube.com/watch?v=6UHQdLN7DSs)
-- [Mark Lanegan - Bleed All Over](https://www.youtube.com/watch?v=b4EL3wo1K84)
-- [Stockholm City Blues](https://www.youtube.com/watch?v=6UHQdLN7DSs)
-- [I Wouldnt Want To Say](https://www.youtube.com/watch?v=mnV45clEoY4)
-- [This Game of Love](https://www.youtube.com/watch?v=D_THKz09seg)
-- [Mark Lanegan - Straight Songs of Sorrow](https://www.youtube.com/watch?v=Iz54DefU37c)
-- [Churchbells Ghosts](https://www.youtube.com/watch?v=C2ygoNS9LeE)
-- [Mark Lanegan - Skeleton Key](https://www.youtube.com/watch?v=uJDLcaCuFHU)
-- [Daylight In The Nocturnal House](https://www.youtube.com/watch?v=ToMgSKgra38)
-- [Mark Lanegan - Bleed All Over](https://www.youtube.com/watch?v=b4EL3wo1K84)
-- [Apples From A Tree](https://www.youtube.com/watch?v=60JH83Ze-lM)
-- [At Zero Below](https://www.youtube.com/watch?v=Lmz5Uvaf8ag)
-- [Ballad of A Dying Rover](https://www.youtube.com/watch?v=3alMP5Jj-YU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -89,5 +76,5 @@ Straight Songs of Sorrow is the twelfth and final studio album by American singe
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Clear Crystal, 180 gram) |
 | Label          | Heavenly |
 | Catalog Number | HVNLP178C |
-| Notes | Hype Sticker: New Studio Album Limited 180g Crystal Clear Vinyl Edition Double LP Gatefold Contains Download  Download code sticker on inner sleeve  On cover reverse: © ℗ 2020 Flooded Soil Recordings under exclusive license to Heavenly Recordings / [PIAS]. Made in the EU. |
+| Notes | Hype Sticker: New Studio Album Limited 180g Crystal Clear Vinyl Edition Double LP Gatefold Contains Download<br><br>Download code sticker on inner sleeve<br><br>On cover reverse: © ℗ 2020 Flooded Soil Recordings under exclusive license to Heavenly Recordings / [PIAS].<br>Made in the EU. |
 | Discogs URL    | [Mark Lanegan - Straight Songs Of Sorrow](https://www.discogs.com/release/15264315-Mark-Lanegan-Straight-Songs-Of-Sorrow) |

@@ -4,6 +4,7 @@ artist_name: "David Bowie"
 artist: "david-bowie"
 album_name: "Changesnowbowie"
 date: 2020-09-07T09:05:46.000000Z
+release_date: "2020-04-17"
 release_id: "15822092"
 slug: "changesnowbowie-15822092"
 hideSummary: true
@@ -23,21 +24,26 @@ styles: ["Alternative Rock", "Art Rock", "Acoustic"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Man Who Sold The World (4:01)
-2. Aladdin Sane (3:33)
-3. White Light/White Heat (3:41)
-4. Shopping For Girls (3:32)
-5. Lady Stardust (3:30)
-6. The Supermen (3:12)
-7. Repetition (3:00)
-8. Andy Warhol (2:33)
-9. Quicksand (4:47)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Man Who Sold The World | 4:01 |
+| A2 | Aladdin Sane | 3:33 |
+| A3 | White Light/White Heat | 3:41 |
+| A4 | Shopping For Girls | 3:32 |
+| B1 | Lady Stardust | 3:30 |
+| B2 | The Supermen | 3:12 |
+| B3 | Repetition | 3:00 |
+| B4 | Andy Warhol | 2:33 |
+| B5 | Quicksand | 4:47 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/changesnowbowie/1505418271" >}}<br>
-
 
 
 
@@ -50,5 +56,5 @@ styles: ["Alternative Rock", "Art Rock", "Acoustic"]
 | Format         | Vinyl LP Album Record Store Day Limited Edition Stereo |
 | Label          | Parlophone |
 | Catalog Number | 0190295332747 |
-| Notes | Recorded and mixed in November 96 at Looking Glass Studios, NYC. Recorded for radio and broadcasted by the BBC on Bowie’s 50th birthday on January 8, 1997.  Record Store Day Exclusive 2020 (hype sticker bottom right hand corner). Some copies have a further hype sticker for the charity [l355868] in the bottom left corner. RSD DROPS 2020 - August 29  ℗ © 2020 [l281591]  Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”).   |
+| Notes | Recorded and mixed in November 96 at Looking Glass Studios, NYC.<br>Recorded for radio and broadcasted by the BBC on Bowie’s 50th birthday on January 8, 1997.<br><br>Record Store Day Exclusive 2020 (hype sticker bottom right hand corner). Some copies have a further hype sticker for the charity [l355868] in the bottom left corner.<br>RSD DROPS 2020 - August 29<br><br>℗ © 2020 [l281591]<br><br>Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”). <br> |
 | Discogs URL    | [David Bowie - Changesnowbowie](https://www.discogs.com/release/15822092-David-Bowie-Changesnowbowie) |

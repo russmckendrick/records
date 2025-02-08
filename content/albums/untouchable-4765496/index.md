@@ -4,6 +4,7 @@ artist_name: "Anathema"
 artist: "anathema"
 album_name: "Untouchable"
 date: 2016-12-13T17:50:48.000000Z
+release_date: "2013-09-16"
 release_id: "4765496"
 slug: "untouchable-4765496"
 hideSummary: true
@@ -26,35 +27,32 @@ Untouchable is a live album by English progressive rock band Anathema released o
 The European part of the tour opened with a special one-off gig at the ancient Roman theatre of Philippopolis where the band were joined by the Plovdiv Philharmonic Orchestra. Untouchable captures the magic of this unique evening."
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Untouchable Part 1 (7:07)
-2. Untouchable Part 2 (5:55)
-3. Thin Air (5:58)
-4. Dreaming Light (5:58)
-5. Everything (5:39)
-6. The Storm Before The Calm (9:24)
-7. A Simple Mistake (8:33)
-8. The Beginning And The End (4:41)
-9. Universal (7:31)
-10. Closer (6:28)
-11. A Natural Disaster (6:38)
-12. Flying (8:23)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Untouchable Part 1 | 7:07 |
+| A2 | Untouchable Part 2 | 5:55 |
+| A3 | Thin Air | 5:58 |
+| B1 | Dreaming Light | 5:58 |
+| B2 | Everything | 5:39 |
+| B3 | The Storm Before The Calm | 9:24 |
+| C1 | A Simple Mistake | 8:33 |
+| C2 | The Beginning And The End | 4:41 |
+| C3 | Universal | 7:31 |
+| D1 | Closer | 6:28 |
+| D2 | A Natural Disaster | 6:38 |
+| D3 | Flying | 8:23 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/untouchable-pt-2-single/1238312364" >}}<br>
 
 
-## Videos
-### ANATHEMA-UNIVERSAL
-{{< youtube id="-8Pk_WA-Q_Q" title="ANATHEMA-UNIVERSAL" >}}<br>
-### More Videos
-
-- [Anathema - Universal from the Universal Concert Film](https://www.youtube.com/watch?v=6oc4HgczbY0)
-- [Anathema - Untouchable Part 1-2 Universal Live HD Legendado PT-BR](https://www.youtube.com/watch?v=-aom-fUjthU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +64,5 @@ The European part of the tour opened with a special one-off gig at the ancient R
 | Format         | Vinyl 2× LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE843 |
-| Notes | Recorded live at the Ancient Theatre of Philippopolis in Plovdiv, Bulgaria. 22nd September 2012.  Gatefold sleeve  Made in Germany. |
+| Notes | Recorded live at the Ancient Theatre of Philippopolis in Plovdiv, Bulgaria. 22nd September 2012.<br><br>Gatefold sleeve<br><br>Made in Germany. |
 | Discogs URL    | [Anathema - Untouchable](https://www.discogs.com/release/4765496-Anathema-Untouchable) |

@@ -1,6 +1,6 @@
 ---
-title: "Bob Marley & The Wailers - Legend - The Best Of Bob Marley And The Wailers"
-artist_name: "Bob Marley & The Wailers"
+title: "Bob Marley  The Wailers - Legend - The Best Of Bob Marley And The Wailers"
+artist_name: "Bob Marley  The Wailers"
 artist: "bob-marley-the-wailers"
 album_name: "Legend - The Best Of Bob Marley And The Wailers"
 date: 2016-06-21T16:37:49.000000Z
@@ -10,8 +10,8 @@ slug: "legend-the-best-of-bob-marley-and-the-wailers-4418438"
 hideSummary: true
 cover:
     image: "legend-the-best-of-bob-marley-and-the-wailers-4418438.jpg"
-    alt: "Legend - The Best Of Bob Marley And The Wailers by Bob Marley & The Wailers"
-    caption: "Legend - The Best Of Bob Marley And The Wailers by Bob Marley & The Wailers"
+    alt: "Legend - The Best Of Bob Marley And The Wailers by Bob Marley  The Wailers"
+    caption: "Legend - The Best Of Bob Marley And The Wailers by Bob Marley  The Wailers"
 additional_images:
     - "https://i.discogs.com/KKZdvpp6clCzTNxIuMA5GC8vnp1dS6-AMuRdG9cB1BY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTY2NDM1NTE4/MS04MzA3LmpwZWc.jpeg"
     - "https://i.discogs.com/zm4SfMdiWCx9c7wNpgYHQ98t-5kyhiurjJjrZni2cmA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTQ2MjA1OTk1/Ni0xMTk2LmpwZWc.jpeg"
@@ -28,32 +28,28 @@ An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection
 
 
 ## Tracklisting
-1. Is This Love (3:52)
-2. No Woman No Cry (4:02)
-3. Could You Be Loved (3:35)
-4. Three Little Birds (2:58)
-5. Buffalo Soldier (2:43)
-6. Get Up Stand Up (3:14)
-7. Stir It Up (3:38)
-8. One Love / People Get Ready (2:53)
-9. I Shot The Sheriff (3:46)
-10. Waiting In Vain (4:06)
-11. Redemption Song (3:46)
-12. Satisfy My Soul (3:49)
-13. Exodus (4:16)
-14. Jamming (3:17)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Is This Love | 3:52 |
+| A2 | No Woman No Cry | 4:02 |
+| A3 | Could You Be Loved | 3:35 |
+| A4 | Three Little Birds | 2:58 |
+| A5 | Buffalo Soldier | 2:43 |
+| A6 | Get Up Stand Up | 3:14 |
+| A7 | Stir It Up | 3:38 |
+| B1 | One Love / People Get Ready | 2:53 |
+| B2 | I Shot The Sheriff | 3:46 |
+| B3 | Waiting In Vain | 4:06 |
+| B4 | Redemption Song | 3:46 |
+| B5 | Satisfy My Soul | 3:49 |
+| B6 | Exodus | 4:16 |
+| B7 | Jamming | 3:17 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/legend-the-best-of-bob-marley-and-the-wailers-deluxe-edition/1496696597" >}}<br>
 
 
-## Videos
-### Bob Marley  The Wailers  Could You Be Loved 12
-{{< youtube id="3QUU_qqwkfo" title="Bob Marley  The Wailers  Could You Be Loved 12" >}}<br>
-### More Videos
-
-- [Bob Marley - One Love 1984 Official Music Video Remastered Videos80s](https://www.youtube.com/watch?v=-cY0MR-Ddd0)
-- [BOB MARLEY  THE WAILERS  One Love  People Get Ready](https://www.youtube.com/watch?v=VsnUMAjTr8o)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +60,5 @@ An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection
 | Format         | Vinyl LP Compilation Reissue (180 Gram) |
 | Label          | Tuff Gong |
 | Catalog Number | 0600753030523 |
-| Notes | BACK TO BLACK - Island 50th (1959-2009) download coupon The record label is fade blue/purple |
-| Discogs URL    | [Bob Marley & The Wailers - Legend - The Best Of Bob Marley And The Wailers](https://www.discogs.com/release/4418438-Bob-Marley-The-Wailers-Legend-The-Best-Of-Bob-Marley-And-The-Wailers) |
+| Notes | BACK TO BLACK - Island 50th (1959-2009) download coupon<br>The record label is fade blue/purple |
+| Discogs URL    | [Bob Marley  The Wailers - Legend - The Best Of Bob Marley And The Wailers](https://www.discogs.com/release/4418438-Bob-Marley-The-Wailers-Legend-The-Best-Of-Bob-Marley-And-The-Wailers) |

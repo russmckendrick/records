@@ -4,6 +4,7 @@ artist_name: "Gary Numan"
 artist: "gary-numan"
 album_name: "Savage (Songs From A Broken World)"
 date: 2017-09-15T14:06:05.000000Z
+release_date: "2017-09-15"
 release_id: "10858288"
 slug: "savage-songs-from-a-broken-world-10858288"
 hideSummary: true
@@ -31,47 +32,32 @@ styles: ["Alternative Rock", "Industrial"]
 
 Savage (Songs from a Broken World) is the eighteenth solo studio album by English musician Gary Numan, released on 15 September 2017 by BMG and The End. The album was first announced to be a part of a fan-backed Pledge Music Campaign on 12 November 2015. On 9 November 2018, a followup EP titled The Fallen was released. The EP features similar artwork to Savage, and it was intended to complement the album.
 The album reached No. 2 in the UK Top 40 album charts, becoming Numan's sixth Top 10 album, and the first since 1982. It proved to be his highest charting album outside of the number-one albums Replicas, The Pleasure Principle and Telekon from 1979 and 1980 and surpassed 1981's Dance, which reached No. 3. It became his first album since Telekon to chart in multiple countries.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Ghost Nation
-2. Bed Of Thorns
-3. My Name Is Ruin
-4. The End Of Things
-5. And It All Began With You 
-6. When The World Comes Apart
-7. Mercy
-8. What God Intended
-9. If I Said
-10. Pray For The Pain You Serve
-11. Broken
-12. Cold
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ghost Nation |  |
+| A2 | Bed Of Thorns |  |
+| A3 | My Name Is Ruin |  |
+| B1 | The End Of Things |  |
+| B2 | And It All Began With You  |  |
+| B3 | When The World Comes Apart |  |
+| C1 | Mercy |  |
+| C2 | What God Intended |  |
+| C3 | If I Said |  |
+| D1 | Pray For The Pain You Serve |  |
+| D2 | Broken |  |
+| D3 | Cold |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/savage-songs-from-a-broken-world/1438756581" >}}<br>
 
 
-## Videos
-### Gary Numan - The End of Things Official Video
-{{< youtube id="8BAylyh2XG4" title="Gary Numan - The End of Things Official Video" >}}<br>
-### More Videos
-
-- [Gary Numan  Savage Songs from a Broken World  And It All Began With You  Audio](https://www.youtube.com/watch?v=-7yLt4EY5P4)
-- [Gary Numan  Savage Songs from a Broken World  Pray for the Pain That You Serve  Audio](https://www.youtube.com/watch?v=-HyXhuEdaC0)
-- [Gary Numan - Cold](https://www.youtube.com/watch?v=2G3Itp50jSk)
-- [Gary Numan - My Name Is Ruin Official Video](https://www.youtube.com/watch?v=lHomCiPFknY)
-- [Gary Numan - Ghost Nation Official Audio](https://www.youtube.com/watch?v=r36v1grp3I0)
-- [Bed of Thorns](https://www.youtube.com/watch?v=mBdAVaaxmpY)
-- [Gary Numan - When The World Comes Apart Official Video](https://www.youtube.com/watch?v=P5E6RTDA7oc)
-- [Gary Numan - Mercy Official Audio](https://www.youtube.com/watch?v=wYTjYpC1XYc)
-- [Gary Numan - Broken Official Audio](https://www.youtube.com/watch?v=qzsvZpO1I_4)
-- [Gary Numan - The End of Things Official Video](https://www.youtube.com/watch?v=8BAylyh2XG4)
-- [Gary Numan  Savage Songs from a Broken World  And It All Began With You  Audio](https://www.youtube.com/watch?v=-7yLt4EY5P4)
-- [Gary Numan  Savage Songs from a Broken World  Pray for the Pain That You Serve  Audio](https://www.youtube.com/watch?v=-HyXhuEdaC0)
-- [Gary Numan - Cold](https://www.youtube.com/watch?v=2G3Itp50jSk)
-- [Gary Numan - My Name Is Ruin Official Video](https://www.youtube.com/watch?v=lHomCiPFknY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +69,5 @@ The album reached No. 2 in the UK Top 40 album charts, becoming Numan's sixth To
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | BMG |
 | Catalog Number | 538307451 |
-| Notes | Gatefold Sleeve.  Some copies of this album were signed by Gary Numan and came with a download card, a signed 12"x12" print of front cover,, printed postcard with a message from Gary, a pin badge and coaster as part of the PledgeMusic campaign.  ℗ and © 2017 Numan Music LLC under exclusive license to BMG Rights Management (UK) Limited. |
+| Notes | Gatefold Sleeve.<br><br>Some copies of this album were signed by Gary Numan and came with a download card, a signed 12"x12" print of front cover,, printed postcard with a message from Gary, a pin badge and coaster as part of the PledgeMusic campaign.<br><br>℗ and © 2017 Numan Music LLC under exclusive license to BMG Rights Management (UK) Limited. |
 | Discogs URL    | [Gary Numan - Savage (Songs From A Broken World)](https://www.discogs.com/release/10858288-Gary-Numan-Savage-Songs-From-A-Broken-World) |

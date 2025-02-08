@@ -4,6 +4,7 @@ artist_name: "The Wedding Present"
 artist: "the-wedding-present"
 album_name: "Bizarro"
 date: 2020-10-11T08:09:26.000000Z
+release_date: "1989-10-23"
 release_id: "16038548"
 slug: "bizarro-16038548"
 hideSummary: true
@@ -25,38 +26,30 @@ styles: ["Indie Rock"]
 Bizarro is the second studio album by The Wedding Present. It was released in October 1989 by their record label, RCA.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Brassneck
-2. Crushed
-3. No
-4. Thanks
-5. Kennedy
-6. What Have I Said Now?
-7. Granadaland
-8. Bewitched
-9. Take Me!
-10. Be Honest
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Brassneck |  |
+| A2 | Crushed |  |
+| A3 | No |  |
+| A4 | Thanks |  |
+| A5 | Kennedy |  |
+| A6 | What Have I Said Now? |  |
+| B1 | Granadaland |  |
+| B2 | Bewitched |  |
+| B3 | Take Me! |  |
+| B4 | Be Honest |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bizarro/211455153" >}}<br>
 
 
-## Videos
-### The Wedding Present - Brassneck
-{{< youtube id="d9DjDh3yjSM" title="The Wedding Present - Brassneck" >}}<br>
-### More Videos
-
-- [The Wedding Present - Kennedy](https://www.youtube.com/watch?v=PuNYyNqCSSg)
-- [THE WEDDING PRESENT - GRANADALAND](https://www.youtube.com/watch?v=XfAn-bo_2pA)
-- [What Have I Said Now](https://www.youtube.com/watch?v=BTHl_JYqWpE)
-- [What Have I Said Now](https://www.youtube.com/watch?v=l-66q31s1Uw)
-- [Bewitched](https://www.youtube.com/watch?v=yJhcnWIrF7I)
-- [Be Honest](https://www.youtube.com/watch?v=HfNduoq-Gz8)
-- [No](https://www.youtube.com/watch?v=Rww6zqqTh7A)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +61,5 @@ Bizarro is the second studio album by The Wedding Present. It was released in Oc
 | Format         | Vinyl LP Album Reissue |
 | Label          | RCA |
 | Catalog Number | 19439793371 |
-| Notes | One sided text on inner sleeve is of a similar layout to the original.  Catalogue number is updated but retains old contact address.  Colour of the inner sleeve is a soft sheen black, as opposed to the original's matte green. Outer sleeve is a paler shade and has a different font, notably to the artist name. Band official website states that David Gedge was not consulted whilst this reissue was being put together. Download voucher included.  On both runouts, the geometric plating marks are mirrored. |
+| Notes | One sided text on inner sleeve is of a similar layout to the original.  Catalogue number is updated but retains old contact address.  Colour of the inner sleeve is a soft sheen black, as opposed to the original's matte green.<br>Outer sleeve is a paler shade and has a different font, notably to the artist name.<br>Band official website states that David Gedge was not consulted whilst this reissue was being put together.<br>Download voucher included.<br><br>On both runouts, the geometric plating marks are mirrored. |
 | Discogs URL    | [The Wedding Present - Bizarro](https://www.discogs.com/release/16038548-The-Wedding-Present-Bizarro) |

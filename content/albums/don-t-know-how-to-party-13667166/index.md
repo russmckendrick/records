@@ -4,6 +4,7 @@ artist_name: "The Mighty Mighty Bosstones"
 artist: "the-mighty-mighty-bosstones"
 album_name: "Don't Know How To Party"
 date: 2019-06-04T17:10:02.000000Z
+release_date: "1993-01-01"
 release_id: "13667166"
 slug: "don-t-know-how-to-party-13667166"
 hideSummary: true
@@ -25,31 +26,31 @@ styles: ["Ska", "Punk"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Our Only Weapon (3:02)
-2. Last Dead Mouse (3:38)
-3. Don't Know How To Party (3:11)
-4. Someday I Suppose (3:26)
-5. A Man Without (2:45)
-6. Holy Smoke (2:51)
-7. Illegal Left (3:10)
-8. Tin Soldiers (3:21)
-9. Almost Anything Goes (4:09)
-10. Issachar (3:45)
-11. What Was Was Over (2:58)
-12. Seven Thirty Seven / Shoe Glue (4:30)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Our Only Weapon | 3:02 |
+| A2 | Last Dead Mouse | 3:38 |
+| A3 | Don't Know How To Party | 3:11 |
+| A4 | Someday I Suppose | 3:26 |
+| A5 | A Man Without | 2:45 |
+| A6 | Holy Smoke | 2:51 |
+| A7 | Illegal Left | 3:10 |
+| B1 | Tin Soldiers | 3:21 |
+| B2 | Almost Anything Goes | 4:09 |
+| B3 | Issachar | 3:45 |
+| B4 | What Was Was Over | 2:58 |
+| B5 | Seven Thirty Seven / Shoe Glue | 4:30 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dont-know-how-to-party/1443739943" >}}<br>
 
 
-## Videos
-### The Mighty Mighty Bosstones - Dont Know How To Party
-{{< youtube id="IBY_UbhYJVU" title="The Mighty Mighty Bosstones - Dont Know How To Party" >}}<br>
-### More Videos
-
-- [The Mighty Mighty Bosstones - Someday I Suppose](https://www.youtube.com/watch?v=gmOmAuhAQbE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,5 +61,5 @@ styles: ["Ska", "Punk"]
 | Format         | Vinyl LP Album Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2292 |
-| Notes | 180 gram black vinyl reissue. Includes an insert with lyrics and credits.  Produced and recorded for Platinum Tones. Recorded at Dreamland Studios, Woodstock, NY. Mixed at Battery Studios, NYC.  Original release ℗ 1993 Polygram Records, Inc. This release ℗ & © 2019 Universal Music B.V. Made in the EU. |
+| Notes | 180 gram black vinyl reissue. Includes an insert with lyrics and credits.<br><br>Produced and recorded for Platinum Tones.<br>Recorded at Dreamland Studios, Woodstock, NY.<br>Mixed at Battery Studios, NYC.<br><br>Original release ℗ 1993 Polygram Records, Inc. This release ℗ & © 2019 Universal Music B.V.<br>Made in the EU. |
 | Discogs URL    | [The Mighty Mighty Bosstones - Don't Know How To Party](https://www.discogs.com/release/13667166-The-Mighty-Mighty-Bosstones-Dont-Know-How-To-Party) |

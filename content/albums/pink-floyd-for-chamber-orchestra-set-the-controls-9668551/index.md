@@ -4,6 +4,7 @@ artist_name: "The Coda Chamber Ensemble"
 artist: "the-coda-chamber-ensemble"
 album_name: "Pink Floyd For Chamber Orchestra - Set The Controls"
 date: 2017-01-27T19:39:03.000000Z
+release_date: ""
 release_id: "9668551"
 slug: "pink-floyd-for-chamber-orchestra-set-the-controls-9668551"
 hideSummary: true
@@ -18,14 +19,21 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. 1st Movement - Invention (13:21)
-2. 2nd Movement - Harmony (13:54)
-3. 3rd Movement - Division (15:11)
-4. 4th Movement - Reconstruction (11:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 1st Movement - Invention | 13:21 |
+| A2 | 2nd Movement - Harmony | 13:54 |
+| B1 | 3rd Movement - Division | 15:11 |
+| B2 | 4th Movement - Reconstruction | 11:24 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 

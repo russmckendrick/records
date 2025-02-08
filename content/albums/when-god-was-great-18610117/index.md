@@ -4,6 +4,7 @@ artist_name: "The Mighty Mighty Bosstones"
 artist: "the-mighty-mighty-bosstones"
 album_name: "When God Was Great"
 date: 2021-05-07T05:03:35.000000Z
+release_date: "2021-05-07"
 release_id: "18610117"
 slug: "when-god-was-great-18610117"
 hideSummary: true
@@ -29,34 +30,34 @@ styles: ["Punk", "Ska"]
 ---
 
 When God Was Great is the eleventh and final studio album by the Boston ska punk band the Mighty Mighty Bosstones. It was released in 2021 on Hellcat, the band's only album with the label. The album was co-produced by Hellcat founder and Rancid member Tim Armstrong. The album was preceded by the singles and music videos for "The Final Parade", "I Don't Believe in Anything" and "The Killing of Georgie (Part III)".
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Decide
-2. M O V E
-3. I Don't Believe In Anything
-4. Certain Things
-5. Bruised
-6. Lonely Boy
-7. The Killing Of Georgie (Part III)
-8. You Had To Be There
-9. When God Was Great
-10. What It Takes
-11. Long As I Can See The Light
-12. The Truth Hurts
-13. It Went Well
-14. I Don't Want To Be You
-15. The Final Parade
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Decide |  |
+| A2 | M O V E |  |
+| A3 | I Don't Believe In Anything |  |
+| A4 | Certain Things |  |
+| B1 | Bruised |  |
+| B2 | Lonely Boy |  |
+| B3 | The Killing Of Georgie (Part III) |  |
+| B4 | You Had To Be There |  |
+| B5 | When God Was Great |  |
+| C1 | What It Takes |  |
+| C2 | Long As I Can See The Light |  |
+| C3 | The Truth Hurts |  |
+| C4 | It Went Well |  |
+| C5 | I Don't Want To Be You |  |
+| D1 | The Final Parade |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/when-god-was-great/1553943817" >}}<br>
 
-
-## Videos
-### The Mighty Mighty BossToneS - I DONT BELIEVE IN ANYTHING
-{{< youtube id="fsOq0-tdQkA" title="The Mighty Mighty BossToneS - I DONT BELIEVE IN ANYTHING" >}}<br>
 
 
 ## Release Images

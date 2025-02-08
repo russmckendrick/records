@@ -4,6 +4,7 @@ artist_name: "Deacon Blue"
 artist: "deacon-blue"
 album_name: "The Hipsters"
 date: 2021-06-12T09:02:06.000000Z
+release_date: "2012-09-24"
 release_id: "5167648"
 slug: "the-hipsters-5167648"
 hideSummary: true
@@ -19,27 +20,29 @@ styles: ["Pop Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Here I Am In London Town
-2. The Hipsters
-3. Stars
-4. Turn
-5. The Rest
-6. The Outsiders
-7. That's What We Can Do
-8. She'll Understand
-9. Laura From Memory
-10. It Will End In Tears
-11. Is There No Way Back To You
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Here I Am In London Town |  |
+| A2 | The Hipsters |  |
+| A3 | Stars |  |
+| A4 | Turn |  |
+| A5 | The Rest |  |
+| A6 | The Outsiders |  |
+| B1 | That's What We Can Do |  |
+| B2 | She'll Understand |  |
+| B3 | Laura From Memory |  |
+| B4 | It Will End In Tears |  |
+| B5 | Is There No Way Back To You |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-hipsters/1598913322" >}}<br>
 
-
-## Videos
-### Deacon Blue - The Hipsters
-{{< youtube id="qy88CFNIGJQ" title="Deacon Blue - The Hipsters" >}}<br>
 
 
 ## Release Images
@@ -51,5 +54,5 @@ styles: ["Pop Rock"]
 | Format         | Vinyl LP Album (Yellow Transparent ) |
 | Label          | Demon Records |
 | Catalog Number | DEACONLP001 |
-| Notes | ℗ & © 2012 Demon Music Group Ltd.    Includes code for free MP3 download of the album. |
+| Notes | ℗ & © 2012 Demon Music Group Ltd.<br><br>Includes code for free MP3 download of the album. |
 | Discogs URL    | [Deacon Blue - The Hipsters](https://www.discogs.com/release/5167648-Deacon-Blue-The-Hipsters) |

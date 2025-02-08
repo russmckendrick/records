@@ -46,24 +46,21 @@ In Rock was the band's breakthrough album in Europe and peaked at No. 4 in the U
 
 
 ## Tracklisting
-1. Speed King
-2. Bloodsucker
-3. Child In Time
-4. Flight Of The Rat
-5. Into The Fire
-6. Living Wreck
-7. Hard Lovin' Man
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Speed King |  |
+| A2 | Bloodsucker |  |
+| A3 | Child In Time |  |
+| B1 | Flight Of The Rat |  |
+| B2 | Into The Fire |  |
+| B3 | Living Wreck |  |
+| B4 | Hard Lovin' Man |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/deep-purple-in-rock/1105612887" >}}<br>
 
 
-## Videos
-### Speed King 1995 Remaster
-{{< youtube id="W_jfHvcAXRY" title="Speed King 1995 Remaster" >}}<br>
-### More Videos
-
-- [Deep Purple - Deep Purple in Rock Full Album](https://www.youtube.com/watch?v=RBaWNoo1ALA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +72,5 @@ In Rock was the band's breakthrough album in Europe and peaked at No. 4 in the U
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Marbled) |
 | Label          | Harvest |
 | Catalog Number | SHVL 777 |
-| Notes | 180gr HMV exclusive limited edition on white with smokey grey and black vinyl (Marbled) Nb: Vinyl colour based on the 'rock' painting on the sleeve. Limited edition of 1000 copies. Gatefold sleeve.  Two stickers on cover shrink wrapping: Circular white sticker:  LIMITED EDITION MARBLED VINYL Rectangular black sticker: Deep Purple's First Studio Album with the Mark II line-up includes 'Speed King' & 'Child In Time' 180gm Vinyl 0825646035083 VINYL COLLECTOR [logo] INCLUDES DOWNLOAD CODE FOR  MP3 VERSION OF THE ALBUM WWW.THISISVINYLCOLLECTOR.COM  Made in the EU / Printed in the EU |
+| Notes | 180gr HMV exclusive limited edition on white with smokey grey and black vinyl (Marbled)<br>Nb: Vinyl colour based on the 'rock' painting on the sleeve.<br>Limited edition of 1000 copies.<br>Gatefold sleeve.<br><br>Two stickers on cover shrink wrapping:<br>Circular white sticker: <br>LIMITED EDITION MARBLED VINYL<br>Rectangular black sticker:<br>Deep Purple's First Studio Album with<br>the Mark II line-up<br>includes 'Speed King' & 'Child In Time'<br>180gm Vinyl<br>0825646035083<br>VINYL COLLECTOR [logo]<br>INCLUDES DOWNLOAD CODE FOR <br>MP3 VERSION OF THE ALBUM<br>WWW.THISISVINYLCOLLECTOR.COM<br><br>Made in the EU / Printed in the EU |
 | Discogs URL    | [Deep Purple - Deep Purple In Rock](https://www.discogs.com/release/8668461-Deep-Purple-Deep-Purple-In-Rock) |

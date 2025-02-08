@@ -4,6 +4,7 @@ artist_name: "Purple Mountains"
 artist: "purple-mountains"
 album_name: "Purple Mountains"
 date: 2019-07-12T15:33:26.000000Z
+release_date: "2021-01-01"
 release_id: "13842563"
 slug: "purple-mountains-13842563"
 hideSummary: true
@@ -26,33 +27,30 @@ Purple Mountains was an American indie rock project formed by musician and poet 
 The project's name is derived from "Purple mountains majesty", a common mondegreen of the lyric "Purple mountain majesties" from "America the Beautiful". Nashville Scene's Sean L. Maloney described it as "striking, heavy and maybe a little foreboding, yet it implies a majesty that is completely missing from the often-self-deprecating Silver Jews". Berman, the only member, died on August 7, 2019.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. That's Just The Way That I Feel
-2. All My Happiness Is Gone
-3. Darkness And Cold
-4. Snow Is Falling In Manhattan
-5. Margaritas At The Mall
-6. She's Making Friends, I'm Turning Stranger
-7. I Loved Being My Mother's Son
-8. Nights That Won't Happen
-9. Storyline Fever
-10. Maybe I'm The Only One For Me
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | That's Just The Way That I Feel |  |
+| A2 | All My Happiness Is Gone |  |
+| A3 | Darkness And Cold |  |
+| A4 | Snow Is Falling In Manhattan |  |
+| A5 | Margaritas At The Mall |  |
+| B1 | She's Making Friends, I'm Turning Stranger |  |
+| B2 | I Loved Being My Mother's Son |  |
+| B3 | Nights That Won't Happen |  |
+| B4 | Storyline Fever |  |
+| B5 | Maybe I'm The Only One For Me |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/purple-mountains-single/1642458507" >}}<br>
 
 
-## Videos
-### Purple Mountains All My Happiness is Gone Official Music Video
-{{< youtube id="XvUBbROsXBw" title="Purple Mountains All My Happiness is Gone Official Music Video" >}}<br>
-### More Videos
-
-- [Purple Mountains - Nights That Wont Happen Music Video](https://www.youtube.com/watch?v=xMqODXQf3_s)
-- [Purple Mountains Darkness and Cold Official Music Video](https://www.youtube.com/watch?v=JZKMa-ByLBQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +62,5 @@ The project's name is derived from "Purple mountains majesty", a common mondegre
 | Format         | Vinyl LP Album |
 | Label          | Drag City |
 | Catalog Number | DC680 |
-| Notes | Packaged in a tip-on sleeve. Includes a printed inner sleeve.  © & ℗ 2019 Drag City Incorporated Post Office Box 476867 Chicago, Illinois 60647  Engineered [...] at Jamdek in Chicago and Thump in Brooklyn Mixed [...] at Electrical Audio in Chicago |
+| Notes | Packaged in a tip-on sleeve. Includes a printed inner sleeve.<br><br>© & ℗ 2019 Drag City Incorporated Post Office Box 476867 Chicago, Illinois 60647<br><br>Engineered [...] at Jamdek in Chicago and Thump in Brooklyn<br>Mixed [...] at Electrical Audio in Chicago |
 | Discogs URL    | [Purple Mountains - Purple Mountains](https://www.discogs.com/release/13842563-Purple-Mountains-Purple-Mountains) |

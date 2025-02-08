@@ -4,6 +4,7 @@ artist_name: "Massive Attack"
 artist: "massive-attack"
 album_name: "Mezzanine"
 date: 2016-12-01T17:33:32.000000Z
+release_date: "2010-01-01"
 release_id: "5077187"
 slug: "mezzanine-5077187"
 hideSummary: true
@@ -34,37 +35,31 @@ Mezzanine is the third studio album by English electronic music group Massive At
 Mezzanine received significant critical acclaim, with many praising the group’s darker sound. It has been named by several publications as one of the best albums of the 1990s and of all time. It is the group's most commercially successful album, topping the charts in the United Kingdom, Australia, Ireland, and New Zealand. It has sold more than 2.5 million copies worldwide.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Angel (6:18)
-2. Risingson  (4:58)
-3. Teardrop  (5:29)
-4. Inertia Creeps (5:56)
-5. Exchange  (4:11)
-6. Dissolved Girl  (6:07)
-7. Man Next Door (5:55)
-8. Black Milk  (6:20)
-9. Mezzanine (5:54)
-10. Group Four (8:13)
-11. (Exchange) (4:08)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Angel | 6:18 |
+| A2 | Risingson  | 4:58 |
+| A3 | Teardrop  | 5:29 |
+| B1 | Inertia Creeps | 5:56 |
+| B2 | Exchange  | 4:11 |
+| B3 | Dissolved Girl  | 6:07 |
+| C1 | Man Next Door | 5:55 |
+| C2 | Black Milk  | 6:20 |
+| C3 | Mezzanine | 5:54 |
+| D1 | Group Four | 8:13 |
+| D2 | (Exchange) | 4:08 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/massive-attack-feat-sean-garrett-single/1445154283" >}}<br>
 
 
-## Videos
-### Massive Attack - Angel
-{{< youtube id="hbe3CQamF8k" title="Massive Attack - Angel" >}}<br>
-### More Videos
-
-- [Massive Attack - Risingson](https://www.youtube.com/watch?v=85E9Q5Wx210)
-- [Massive Attack - Teardrop Official Video](https://www.youtube.com/watch?v=u7K72X4eo_s)
-- [Massive Attack - Inertia Creeps](https://www.youtube.com/watch?v=w3mn7EC-skg)
-- [Teardrop Remastered 2019](https://www.youtube.com/watch?v=Tb0MC0jFv6M)
-- [Massive Attack - Mezzanine Full Album](https://www.youtube.com/watch?v=ORxdyjvfItk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +71,5 @@ Mezzanine received significant critical acclaim, with many praising the group’
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Virgin |
 | Catalog Number | 0602537540433 |
-| Notes | Heavyweight 180g vinyl pressings, with printed inner sleeves.   A1 Published by Island Music Ltd/BMG Music Publishing Ltd A2 Published by Island Music Ltd/Screen Gems - EMI Music Ltd/Harmony Music Ltd. Contains a sample of "I Found A Reason" (Reed/Seeger), as performed by [a39766]. Produced under license for Atlantic Recordings Corp., by arrangement with Warner Special Products. A3 Published by Island Music Ltd/Sony Music Publishing. B1 Published by Island Music Ltd B2 Courtesy of Better Half Music Co. (C/o Bourne Music Company) / MCA Music Publishing, a division of Universal Studios, Inc. (ASCAP).  Contains samples from "Our Day Will Come" performed by [a48432] courtesy of Fantasy, Inc. B3 Published by Island Music Ltd/Warner Chappell Music Ltd C1 Published by Sparta Florida Music Group. Contains a sample of "[m=341267]" (Smith/Tolhurst/Dempsey), as performed by [a28972]. Published by Fiction Songs Limited. Licensed courtesy of Fiction Records; East/West Records, Australia, and Elektra Records by arrangement with Warner Special Products, Inc. C2 Published by Island Music Ltd/Sony Music Publishing C3 Published by Island Music Ltd D1 Published by Island Music Ltd/Sony Music Publishing D2 Courtesy of Better Half Music Co. (C/o Bourne Music Company) / MCA Music Publishing, a division of Universal Studios, Inc. (ASCAP). Contains samples from "Our Day Will Come" performed by [a48432] courtesy of Fantasy, Inc.  Recorded at Massive Attack and Christchurch studios, Bristol. Mixed at Olympic Studios, London.  On discs' labels: ℗+© 1998 Circa Records Ltd. Made in the E.U.  On back of the 2nd record's inner sleeve: The copyright in this recording is owned by Circa Records Ltd ℗ 1998 Circa Records Ltd © 1998 Circa Records Ltd © 1998 Virgin Records Ltd Sampled - The Cure, Velvet Underground, Isaac Hayes and John Holt. Bristol  On back sleeve: Printed in the EU  |
+| Notes | Heavyweight 180g vinyl pressings, with printed inner sleeves. <br><br>A1 Published by Island Music Ltd/BMG Music Publishing Ltd<br>A2 Published by Island Music Ltd/Screen Gems - EMI Music Ltd/Harmony Music Ltd.<br>Contains a sample of "I Found A Reason" (Reed/Seeger), as performed by [a39766].<br>Produced under license for Atlantic Recordings Corp., by arrangement with Warner Special Products.<br>A3 Published by Island Music Ltd/Sony Music Publishing.<br>B1 Published by Island Music Ltd<br>B2 Courtesy of Better Half Music Co. (C/o Bourne Music Company) / MCA Music Publishing, a division of Universal Studios, Inc. (ASCAP). <br>Contains samples from "Our Day Will Come" performed by [a48432] courtesy of Fantasy, Inc.<br>B3 Published by Island Music Ltd/Warner Chappell Music Ltd<br>C1 Published by Sparta Florida Music Group.<br>Contains a sample of "[m=341267]" (Smith/Tolhurst/Dempsey), as performed by [a28972].<br>Published by Fiction Songs Limited. Licensed courtesy of Fiction Records; East/West Records, Australia, and Elektra Records by arrangement with Warner Special Products, Inc.<br>C2 Published by Island Music Ltd/Sony Music Publishing<br>C3 Published by Island Music Ltd<br>D1 Published by Island Music Ltd/Sony Music Publishing<br>D2 Courtesy of Better Half Music Co. (C/o Bourne Music Company) / MCA Music Publishing, a division of Universal Studios, Inc. (ASCAP).<br>Contains samples from "Our Day Will Come" performed by [a48432] courtesy of Fantasy, Inc.<br><br>Recorded at Massive Attack and Christchurch studios, Bristol.<br>Mixed at Olympic Studios, London.<br><br>On discs' labels:<br>℗+© 1998 Circa Records Ltd.<br>Made in the E.U.<br><br>On back of the 2nd record's inner sleeve:<br>The copyright in this recording is owned by Circa Records Ltd<br>℗ 1998 Circa Records Ltd © 1998 Circa Records Ltd<br>© 1998 Virgin Records Ltd<br>Sampled - The Cure, Velvet Underground, Isaac Hayes and John Holt. Bristol<br><br>On back sleeve:<br>Printed in the EU<br> |
 | Discogs URL    | [Massive Attack - Mezzanine](https://www.discogs.com/release/5077187-Massive-Attack-Mezzanine) |

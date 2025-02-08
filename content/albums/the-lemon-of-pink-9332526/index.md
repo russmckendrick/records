@@ -4,6 +4,7 @@ artist_name: "The Books"
 artist: "the-books"
 album_name: "The Lemon Of Pink"
 date: 2016-11-17T19:53:17.000000Z
+release_date: "2003-10-07"
 release_id: "9332526"
 slug: "the-lemon-of-pink-9332526"
 hideSummary: true
@@ -40,45 +41,33 @@ styles: ["Abstract", "Leftfield", "Experimental"]
 ---
 
 The Lemon of Pink is the second studio album by American musical duo the Books. It was released on October 7, 2003 by Tomlab. Like much of the duo's work, the songs on The Lemon of Pink juxtapose samples with folk and string instrumentation and other melodic elements, including guest vocals by Anne Doerner.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Lemon Of Pink (4:40)
-2. The Lemon Of Pink II (1:35)
-3. Tokyo (3:43)
-4. Bonanza (0:53)
-5. S Is For Evrysing (3:32)
-6. Explanation Mark (0:20)
-7. There Is No There (3:37)
-8. Take Time (3:37)
-9. Don't Even Sing About It (4:10)
-10. The Future, Wouldn't That Be Nice (3:16)
-11. A True Story Of A Story Of True Love (4:25)
-12. That Right Ain't Shit (2:48)
-13. P.S. (0:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Lemon Of Pink | 4:40 |
+| A2 | The Lemon Of Pink II | 1:35 |
+| A3 | Tokyo | 3:43 |
+| A4 | Bonanza | 0:53 |
+| A5 | S Is For Evrysing | 3:32 |
+| A6 | Explanation Mark | 0:20 |
+| A7 | There Is No There | 3:37 |
+| B1 | Take Time | 3:37 |
+| B2 | Don't Even Sing About It | 4:10 |
+| B3 | The Future, Wouldn't That Be Nice | 3:16 |
+| B4 | A True Story Of A Story Of True Love | 4:25 |
+| B5 | That Right Ain't Shit | 2:48 |
+| B6 | P.S. | 0:56 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-lemon-of-pink-remastered/410702942" >}}<br>
 
 
-## Videos
-### The Books - Take Time official video
-{{< youtube id="b1irbhY_dgY" title="The Books - Take Time official video" >}}<br>
-### More Videos
-
-- [The Books - The Lemon of Pink](https://www.youtube.com/watch?v=FC0jSezdwTU)
-- [The Books - A True Story of a Story of True Love - The Lemon of Pink](https://www.youtube.com/watch?v=Ku-g3LiBxmg)
-- [The Books - Tokyo - The Lemon of Pink](https://www.youtube.com/watch?v=3wVhWcpZpac)
-- [The Books - The Lemon of Pink full album](https://www.youtube.com/watch?v=IiXpi5u5Vu8)
-- [The Books - The Lemon of Pink](https://www.youtube.com/watch?v=FC0jSezdwTU)
-- [The Books - The Lemon of Pink - The Lemon of Pink](https://www.youtube.com/watch?v=kNNIsPrYaQk)
-- [The Books - The Lemon of Pink Pt 2 - The Lemon of Pink](https://www.youtube.com/watch?v=_MWeEdY8Y5Q)
-- [The Books - Tokyo - The Lemon of Pink](https://www.youtube.com/watch?v=3wVhWcpZpac)
-- [The Books - S Is for Evrysing - The Lemon of Pink](https://www.youtube.com/watch?v=ugbr2gKEXeA)
-- [The Books - Explanation Mark - The Lemon of Pink](https://www.youtube.com/watch?v=Xdsi-w6xsLc)
-- [The Books - Bonanza - The Lemon of Pink](https://www.youtube.com/watch?v=VgnHHy7xqAo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -90,5 +79,5 @@ The Lemon of Pink is the second studio album by American musical duo the Books. 
 | Format         | Vinyl LP Album Club Edition Limited Edition Reissue Remastered (Yellow w/ Pink Splatter) |
 | Label          | Temporary Residence Limited |
 | Catalog Number | TRR181-VMP |
-| Notes | 'Vinyl Me, Please' record club exclusive. Record of the month for November 2016.  Record pressed on lemon-colored vinyl with hot pink splatter.  Packaging includes gatefold jacket with die-cut front panel; art print with metallic inks and foil stamping on separate cardstock sheet with text and images on back; cardstock dust jacket with artwork; 16 page cardstock booklet with lyrics, liner notes, track by track commentary by Nick Zammuto and artwork, mp3 download card; J-card wrapping around gatefold, containing release info on front, cocktail recipe and notes on inside. Package issued in shrinkwrap with hype sticker.  All text on runout is hand etched, except for GZ code (146860E1/A; 146860E2/A), which is machine stamped. |
+| Notes | 'Vinyl Me, Please' record club exclusive. Record of the month for November 2016.<br><br>Record pressed on lemon-colored vinyl with hot pink splatter.<br><br>Packaging includes gatefold jacket with die-cut front panel; art print with metallic inks and foil stamping on separate cardstock sheet with text and images on back; cardstock dust jacket with artwork; 16 page cardstock booklet with lyrics, liner notes, track by track commentary by Nick Zammuto and artwork, mp3 download card; J-card wrapping around gatefold, containing release info on front, cocktail recipe and notes on inside. Package issued in shrinkwrap with hype sticker.<br><br>All text on runout is hand etched, except for GZ code (146860E1/A; 146860E2/A), which is machine stamped. |
 | Discogs URL    | [The Books - The Lemon Of Pink](https://www.discogs.com/release/9332526-The-Books-The-Lemon-Of-Pink) |

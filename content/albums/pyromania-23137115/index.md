@@ -31,36 +31,24 @@ Pyromania is the third studio album by English rock band Def Leppard, released o
 
 
 ## Tracklisting
-1. Rock! Rock! (Till You Drop) (3:53)
-2. Photograph (4:12)
-3. Stagefright  (3:46)
-4. Too Late For Love (4:30)
-5. Die Hard The Hunter (6:17)
-6. Foolin’ (4:32)
-7. Rock Of Ages (4:09)
-8. Comin’ Under Fire (4:20)
-9. Action! Not Words (3:52)
-10. Billy’s Got A Gun (5:27)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rock! Rock! (Till You Drop) | 3:53 |
+| A2 | Photograph | 4:12 |
+| A3 | Stagefright  | 3:46 |
+| A4 | Too Late For Love | 4:30 |
+| A5 | Die Hard The Hunter | 6:17 |
+| B1 | Foolin’ | 4:32 |
+| B2 | Rock Of Ages | 4:09 |
+| B3 | Comin’ Under Fire | 4:20 |
+| B4 | Action! Not Words | 3:52 |
+| B5 | Billy’s Got A Gun | 5:27 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pyromania/1440902935" >}}<br>
 
 
-## Videos
-### Def Leppard  Too Late For Love yerdenizplakcom İstanbul Kadıköy
-{{< youtube id="jWyXQwKrswc" title="Def Leppard  Too Late For Love yerdenizplakcom İstanbul Kadıköy" >}}<br>
-### More Videos
-
-- [Def Leppard - Too late For Love Official Video](https://www.youtube.com/watch?v=JylbxFYc83k)
-- [Def Leppard - Photograph](https://www.youtube.com/watch?v=D4dHr8evt6k)
-- [Def Leppard - Foolin](https://www.youtube.com/watch?v=9SnxBvH-0Mc)
-- [Def Leppard - Pyromania Full Album](https://www.youtube.com/watch?v=XQAsDO4L4vg)
-- [Billys Got A Gun](https://www.youtube.com/watch?v=XpXNavL70Ps)
-- [Too Late For Love](https://www.youtube.com/watch?v=5aSTWUxg2W0)
-- [Stagefright](https://www.youtube.com/watch?v=ItFddM32bxs)
-- [Def Leppard - Rock Of Ages - HQ](https://www.youtube.com/watch?v=ZpJ5IRqoxGE)
-- [Def Leppard Photograph](https://www.youtube.com/watch?v=5J-UPxcRga4)
-- [Die Hard The Hunter](https://www.youtube.com/watch?v=kmimtjDQgZI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +60,5 @@ Pyromania is the third studio album by English rock band Def Leppard, released o
 | Format         | Vinyl LP Album Reissue Remastered Stereo |
 | Label          | Vertigo |
 | Catalog Number | 5777362 |
-| Notes | 2022 Reissue   Mastered at Masterdisk by Bob Ludwig. Front Cover Illustration by Bernard Gudynas. Back Cover Photograph by David Landslide. Album Sleeve Concept and Design by Satori. Recorded between bouts of World Cup Soccer at Park Gates Studios. |
+| Notes | 2022 Reissue <br><br>Mastered at Masterdisk by Bob Ludwig.<br>Front Cover Illustration by Bernard Gudynas.<br>Back Cover Photograph by David Landslide.<br>Album Sleeve Concept and Design by Satori.<br>Recorded between bouts of World Cup Soccer at Park Gates Studios. |
 | Discogs URL    | [Def Leppard - Pyromania](https://www.discogs.com/release/23137115-Def-Leppard-Pyromania) |

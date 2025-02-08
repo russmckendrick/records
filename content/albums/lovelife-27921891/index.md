@@ -4,6 +4,7 @@ artist_name: "Lush"
 artist: "lush"
 album_name: "Lovelife"
 date: 2023-08-11T08:23:05.000000Z
+release_date: "1996-03-18"
 release_id: "27921891"
 slug: "lovelife-27921891"
 hideSummary: true
@@ -25,32 +26,31 @@ styles: ["Indie Rock", "Shoegaze", "Pop Rock", "Britpop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Ladykillers
-2. Heavenly Nobodies
-3. 500
-4. I've Been Here Before
-5. Papasan
-6. Single Girl
-7. Ciao!
-8. Tralala
-9. Last Night
-10. Runaway
-11. The Childcatcher
-12. Olympia
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ladykillers |  |
+| A2 | Heavenly Nobodies |  |
+| A3 | 500 |  |
+| A4 | I've Been Here Before |  |
+| A5 | Papasan |  |
+| A6 | Single Girl |  |
+| A7 | Ciao! |  |
+| B8 | Tralala |  |
+| B9 | Last Night |  |
+| B10 | Runaway |  |
+| B11 | The Childcatcher |  |
+| B12 | Olympia |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lovelife/1450118499" >}}<br>
 
 
-## Videos
-### Lush - Single Girl
-{{< youtube id="RndzuSESF8Y" title="Lush - Single Girl" >}}<br>
-### More Videos
-
-- [Lush - Ladykillers Official Video](https://www.youtube.com/watch?v=Iedz_x6Hlhw)
-- [Lush - 500 Shake Baby Shake Official Video](https://www.youtube.com/watch?v=ODdZ4QhnXJI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +61,5 @@ styles: ["Indie Rock", "Shoegaze", "Pop Rock", "Britpop"]
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Clear) |
 | Label          | 4AD |
 | Catalog Number | 4AD0453LP |
-| Notes | Recorded at Protocol Studios, London, May to August 1995. Mixed at Fort Apache, Cambridge, MA, September 1995, except for track B10: mixed at BJG Studios, London. Mastered at Gateway Mastering, Portland, ME.  Track durations not stated on this release. Tracks are numbered sequentially across sides.  Some copies lack sticker barcode.  |
+| Notes | Recorded at Protocol Studios, London, May to August 1995.<br>Mixed at Fort Apache, Cambridge, MA, September 1995, except for track B10: mixed at BJG Studios, London.<br>Mastered at Gateway Mastering, Portland, ME.<br><br>Track durations not stated on this release.<br>Tracks are numbered sequentially across sides.<br><br>Some copies lack sticker barcode.<br> |
 | Discogs URL    | [Lush - Lovelife](https://www.discogs.com/release/27921891-Lush-Lovelife) |

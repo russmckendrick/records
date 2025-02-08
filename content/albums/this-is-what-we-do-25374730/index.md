@@ -4,6 +4,7 @@ artist_name: "Leftfield"
 artist: "leftfield"
 album_name: "This Is What We Do"
 date: 2022-12-06T05:13:39.000000Z
+release_date: "2022-12-02"
 release_id: "25374730"
 slug: "this-is-what-we-do-25374730"
 hideSummary: true
@@ -30,40 +31,31 @@ styles: ["Leftfield", "Electro"]
 ---
 
 This Is What We Do is the fourth studio album by English electronic group Leftfield. It was released on 2 December 2022 by Virgin Records. It is the band's first album in seven years, following the 2015 album Alternative Light Source. The album features appearances by Fontaines D.C. frontman Grian Chatten and poet Lemn Sissay.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. This Is What We Do
-2. Full Way Round
-3. Making A Difference
-4. City Of Synths
-5. Pulse
-6. Machines Like Me
-7. Rapture 16
-8. Heart And Soul
-9. Accumulator
-10. Come On
-11. Power Of Listening
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | This Is What We Do |  |
+| A2 | Full Way Round |  |
+| B1 | Making A Difference |  |
+| B2 | City Of Synths |  |
+| B3 | Pulse |  |
+| C1 | Machines Like Me |  |
+| C2 | Rapture 16 |  |
+| C3 | Heart And Soul |  |
+| D1 | Accumulator |  |
+| D2 | Come On |  |
+| D3 | Power Of Listening |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-is-what-we-do/1635360070" >}}<br>
 
 
-## Videos
-### This Is What We Do
-{{< youtube id="xZZ9JH2eS8M" title="This Is What We Do" >}}<br>
-### More Videos
-
-- [Leftfield feat Grian Chatten - Full Way Round Edit](https://www.youtube.com/watch?v=8XoC_GFl-Ak)
-- [Leftfield - Pulse Official Video](https://www.youtube.com/watch?v=q2-U9VJr2Iw)
-- [Leftfield - Accumulator Official Video](https://www.youtube.com/watch?v=CW0g4FzyqqU)
-- [This Is What We Do](https://www.youtube.com/watch?v=xZZ9JH2eS8M)
-- [Leftfield feat Grian Chatten - Full Way Round Edit](https://www.youtube.com/watch?v=8XoC_GFl-Ak)
-- [Leftfield - Pulse Official Video](https://www.youtube.com/watch?v=q2-U9VJr2Iw)
-- [Leftfield - Accumulator Official Video](https://www.youtube.com/watch?v=CW0g4FzyqqU)
-- [Leftfield feat Earl 16 - Rapture 16 Official Video](https://www.youtube.com/watch?v=Y-ntDC1V3Qc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +67,5 @@ This Is What We Do is the fourth studio album by English electronic group Leftfi
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (White [Opaque]) |
 | Label          | Virgin Music |
 | Catalog Number | LF004LPY |
-| Notes | On sticker: Leftfield The new album Limited white colored vinyl LF004LPY  Copies ordered via Recordstore included an exclusive signed print. 100 copies sold by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions.  ℗ & © 2022 Neil Barnes T/ As Leftfield under exclusive licence to Virgin Music. Made in the EU.  Recorded in London Mastered at Metropolis, London  Track A1, B2 to C1, C3 to D3: Warner Chappell Music Track A2: Warner Chappell Music / Domino Publishing Co. Track B1: Warner Chappell Music / Copyright Control Track C2: Warner Chappell Music / CTM Publishing  Album Cover Image: © [a2263621] / [a2238394]. 'USA. Grand Canyon, Arizona. 2020'  This Is What We Do: Contains a sample of [r11793892] by [a3006]. Percussion by [a5402692], courtesy of [a3006] Rapture 16: Sample taken from an ancient [a9052] dub plate Heart And Soul: Abdelatif Lahlou audio (playing raita and speaking) courtesy of TravlesWithMusic.com, produced by Listen For Life Productions (ListenForLife.org) copyright 2006; used with permission  This Is What We Do is dedicated to the memory of [a2657] who we all owe an enormous dept.  Some copies has a sticker: Made in Germany |
+| Notes | On sticker:<br>Leftfield<br>The new album<br>Limited white colored vinyl<br>LF004LPY<br><br>Copies ordered via Recordstore included an exclusive signed print.<br>100 copies sold by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions.<br><br>℗ & © 2022 Neil Barnes T/ As Leftfield under exclusive licence to Virgin Music. Made in the EU.<br><br>Recorded in London<br>Mastered at Metropolis, London<br><br>Track A1, B2 to C1, C3 to D3: Warner Chappell Music<br>Track A2: Warner Chappell Music / Domino Publishing Co.<br>Track B1: Warner Chappell Music / Copyright Control<br>Track C2: Warner Chappell Music / CTM Publishing<br><br>Album Cover Image: © [a2263621] / [a2238394]. 'USA. Grand Canyon, Arizona. 2020'<br><br>This Is What We Do: Contains a sample of [r11793892] by [a3006]. Percussion by [a5402692], courtesy of [a3006]<br>Rapture 16: Sample taken from an ancient [a9052] dub plate<br>Heart And Soul: Abdelatif Lahlou audio (playing raita and speaking) courtesy of TravlesWithMusic.com, produced by Listen For Life Productions (ListenForLife.org) copyright 2006; used with permission<br><br>This Is What We Do is dedicated to the memory of [a2657] who we all owe an enormous dept.<br><br>Some copies has a sticker: Made in Germany |
 | Discogs URL    | [Leftfield - This Is What We Do](https://www.discogs.com/release/25374730-Leftfield-This-Is-What-We-Do) |

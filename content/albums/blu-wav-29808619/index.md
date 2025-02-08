@@ -4,6 +4,7 @@ artist_name: "Grandaddy"
 artist: "grandaddy"
 album_name: "Blu Wav"
 date: 2024-02-21T10:36:34.000000Z
+release_date: "2024-02-16"
 release_id: "29808619"
 slug: "blu-wav-29808619"
 hideSummary: true
@@ -26,38 +27,33 @@ styles: ["Alternative Rock"]
 ---
 
 Blu Wav is the sixth studio album by American indie rock band Grandaddy. Released on February 16, 2024, through Dangerbird Records, it marks their first album in nearly seven years since Last Place, as well as their first since the death of bassist Kevin Garcia. The album's title is a portmanteau of the genres bluegrass and new wave. It has been preceded by the singles "Watercooler" and "Cabin in My Mind".
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Blu Wav
-2. Cabin In My Mind
-3. Long As I’m Not The One
-4. You’re Going To Be Fine And I’m Going To Hell
-5. Watercooler
-6. Let’s Put This Pinto On The Moon
-7. On A Train Or A Bus
-8. Jukebox App
-9. Yeehaw Ai In The Year 2025
-10. Ducky, Boris and Dart
-11. East Yosemite 
-12. Nothin’ To Lose
-13. Blu Wav Buh Bye
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Blu Wav |  |
+| A2 | Cabin In My Mind |  |
+| A3 | Long As I’m Not The One |  |
+| A4 | You’re Going To Be Fine And I’m Going To Hell |  |
+| A5 | Watercooler |  |
+| A6 | Let’s Put This Pinto On The Moon |  |
+| A7 | On A Train Or A Bus |  |
+| B1 | Jukebox App |  |
+| B2 | Yeehaw Ai In The Year 2025 |  |
+| B3 | Ducky, Boris and Dart |  |
+| B4 | East Yosemite  |  |
+| B5 | Nothin’ To Lose |  |
+| B6 | Blu Wav Buh Bye |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blu-wav/1707921537" >}}<br>
 
 
-## Videos
-### Blu Wav
-{{< youtube id="jpFL1SZ20wo" title="Blu Wav" >}}<br>
-### More Videos
-
-- [Grandaddy - Watercooler](https://www.youtube.com/watch?v=UZxvjMPZeZE)
-- [Grandaddy - Long as Im Not the One](https://www.youtube.com/watch?v=nPDxEIyOySk)
-- [Grandaddy - Cabin in My Mind](https://www.youtube.com/watch?v=u2DsBxNL6M0)
-- [Blu Wav Buh Bye](https://www.youtube.com/watch?v=QMTxOmW_Pto)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +65,5 @@ Blu Wav is the sixth studio album by American indie rock band Grandaddy. Release
 | Format         | Vinyl LP Album Limited Edition (Nebula ) |
 | Label          | Dangerbird Records |
 | Catalog Number | DGB272 |
-| Notes | Nebula burst colour   Includes download code |
+| Notes | Nebula burst colour <br><br>Includes download code |
 | Discogs URL    | [Grandaddy - Blu Wav](https://www.discogs.com/release/29808619-Grandaddy-Blu-Wav) |

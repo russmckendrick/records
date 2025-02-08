@@ -4,6 +4,7 @@ artist_name: "Pink Floyd"
 artist: "pink-floyd"
 album_name: "The Dark Side Of The Moon (Live At Wembley 1974)"
 date: 2023-03-24T06:22:53.000000Z
+release_date: "2023-03-24"
 release_id: "26503601"
 slug: "the-dark-side-of-the-moon-live-at-wembley-1974-26503601"
 hideSummary: true
@@ -26,29 +27,29 @@ styles: ["Prog Rock", "Psychedelic Rock", "Classic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Speak To Me
-2. Breathe (In The Air)
-3. On The Run
-4. Time
-5. The Great Gig In The Sky
-6. Money
-7. Us And Them
-8. Any Colour You Like
-9. Brain Damage
-10. Eclipse
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Speak To Me |  |
+| A2 | Breathe (In The Air) |  |
+| A3 | On The Run |  |
+| A4 | Time |  |
+| A5 | The Great Gig In The Sky |  |
+| B1 | Money |  |
+| B2 | Us And Them |  |
+| B3 | Any Colour You Like |  |
+| B4 | Brain Damage |  |
+| B5 | Eclipse |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-dark-side-of-the-moon-live-at-wembley-1974-remastered/1664148827" >}}<br>
 
 
-## Videos
-### Pink Floyd - The Dark Side Of The Moon Live at Wembley 1974 2023 Master Full Album
-{{< youtube id="glaNK-CnhJU" title="Pink Floyd - The Dark Side Of The Moon Live at Wembley 1974 2023 Master Full Album" >}}<br>
-### More Videos
-
-- [Pink Floyd - The Dark Side Of The Moon Live at Wembley 1974 2023 Master Full Album](https://www.youtube.com/watch?v=glaNK-CnhJU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,5 +60,5 @@ styles: ["Prog Rock", "Psychedelic Rock", "Classic Rock"]
 | Format         | Vinyl LP Album Stereo (Gatefold, 180 Gram, 50th Anniversary) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFR50LP2 |
-| Notes | Recorded at the Empire Pool, Wembley, London, November 1974.  A5, B1 and B3 are marked as '(Edit)' following the song title on both the labels and inner gatefold tracklist.   Includes two posters. Black polylined inner bag. Hype sticker on front shrink.  Made and Printed in The Netherlands. © 2023 Pink Floyd Music Ltd. ℗ 2023 Pink Floyd Music Ltd, marketed and distributed by Parlophone Records Ltd.  Runouts are stamped, while: in variant 1 both "STU" and "B" on A-side are etched; in variant 2 both "STU" and last "C" on A-side and "B" on B-side are etched; in variant 5 and 6, "STU" is etched. There are no additional letters. in variant 7, "STU" and "B" on A-side & B-side are etched; |
+| Notes | Recorded at the Empire Pool, Wembley, London,<br>November 1974.<br><br>A5, B1 and B3 are marked as '(Edit)' following the song title on both the labels and inner gatefold tracklist. <br><br>Includes two posters.<br>Black polylined inner bag.<br>Hype sticker on front shrink.<br><br>Made and Printed in The Netherlands.<br>© 2023 Pink Floyd Music Ltd.<br>℗ 2023 Pink Floyd Music Ltd, marketed and distributed by Parlophone Records Ltd.<br><br>Runouts are stamped, while:<br>in variant 1 both "STU" and "B" on A-side are etched;<br>in variant 2 both "STU" and last "C" on A-side and "B" on B-side are etched;<br>in variant 5 and 6, "STU" is etched. There are no additional letters.<br>in variant 7, "STU" and "B" on A-side & B-side are etched; |
 | Discogs URL    | [Pink Floyd - The Dark Side Of The Moon (Live At Wembley 1974)](https://www.discogs.com/release/26503601-Pink-Floyd-The-Dark-Side-Of-The-Moon-Live-At-Wembley-1974) |

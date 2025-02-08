@@ -4,6 +4,7 @@ artist_name: "My Bloody Valentine"
 artist: "my-bloody-valentine"
 album_name: "m b v"
 date: 2021-05-21T05:29:13.000000Z
+release_date: "2020-04-28"
 release_id: "18769009"
 slug: "m-b-v-18769009"
 hideSummary: true
@@ -35,38 +36,29 @@ styles: ["Shoegaze"]
 
 m b v is the third studio album by Irish-English rock band My Bloody Valentine, self-released on 2 February 2013. Produced by the band's vocalist and guitarist Kevin Shields, m b v was the band's first full-length release of original material since Loveless (1991), over two decades earlier.
 Recording for m b v began prior to My Bloody Valentine's breakup in 1997. Shields resumed recording in 2006 at the time when the band was reunited, with further recording occurring after 2011. The album received critical acclaim and was named among the best albums of 2013 by numerous publications, including Pitchfork, Uncut, and The Wire.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. She Found Now
-2. Only Tomorrow
-3. Who Sees You
-4. Is This And Yes
-5. If I Am
-6. New You
-7. In Another Way
-8. Nothing Is
-9. Wonder 2
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | She Found Now |  |
+| A2 | Only Tomorrow |  |
+| A3 | Who Sees You |  |
+| A4 | Is This And Yes |  |
+| B1 | If I Am |  |
+| B2 | New You |  |
+| B3 | In Another Way |  |
+| B4 | Nothing Is |  |
+| B5 | Wonder 2 |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/my-bloody-valentine/1511342339" >}}<br>
 
 
-## Videos
-### she found now - m b v  - my bloody valentine
-{{< youtube id="rBKjhgHGVZs" title="she found now - m b v  - my bloody valentine" >}}<br>
-### More Videos
-
-- [only tomorrow - m b v - my bloody valentine](https://www.youtube.com/watch?v=y2FQ3ih0MoE)
-- [who sees you - m b v  - my bloody valentine](https://www.youtube.com/watch?v=UUc5y1NljXI)
-- [is this and yes -  m b v - my bloody valentine](https://www.youtube.com/watch?v=8gH6UOatmAM)
-- [if i am - m b v - my bloody valentine](https://www.youtube.com/watch?v=VJ0axgeNbWU)
-- [new you - m b v - my bloody valentine](https://www.youtube.com/watch?v=VpoOjoiYcWY)
-- [in another way - m b v - my bloody valentine](https://www.youtube.com/watch?v=6oXJus1ajIU)
-- [nothing is - m b v - my bloody valentine](https://www.youtube.com/watch?v=HHlVpADx_jk)
-- [wonder 2 - m b v - my bloody valentine](https://www.youtube.com/watch?v=pWyRfqfEC2s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +70,5 @@ Recording for m b v began prior to My Bloody Valentine's breakup in 1997. Shield
 | Format         | Vinyl LP Album Deluxe Edition Reissue (Gatefold) |
 | Label          | Domino |
 | Catalog Number | REWIGLP160X |
-| Notes | Deluxe edition on heavyweight 180  gram vinyl. Comes in gatefold tip-on jacket and board-mounted sleeve. Includes a set of 5 card art prints and download card.  [Sticker on shrink / front] "Fully Analog Cut includes download codes 24-bit . 16-bit . mp3 Made in the EU"   |
+| Notes | Deluxe edition on heavyweight 180  gram vinyl. Comes in gatefold tip-on jacket and board-mounted sleeve.<br>Includes a set of 5 card art prints and download card.<br><br>[Sticker on shrink / front]<br>"Fully Analog Cut<br>includes download codes<br>24-bit . 16-bit . mp3<br>Made in the EU"<br><br> |
 | Discogs URL    | [My Bloody Valentine - m b v](https://www.discogs.com/release/18769009-My-Bloody-Valentine-m-b-v) |

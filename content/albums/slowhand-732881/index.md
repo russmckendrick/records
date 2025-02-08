@@ -4,6 +4,7 @@ artist_name: "Eric Clapton"
 artist: "eric-clapton"
 album_name: "Slowhand"
 date: 2020-08-02T13:41:14.000000Z
+release_date: "1994-01-01"
 release_id: "732881"
 slug: "slowhand-732881"
 hideSummary: true
@@ -25,24 +26,27 @@ styles: ["Blues Rock", "Classic Rock"]
 Slowhand is the fifth solo studio album by Eric Clapton. Released on 25 November 1977 by RSO Records, and titled after Clapton's nickname, it is one of his most commercially and critically successful studio albums. Slowhand produced the two hit singles "Lay Down Sally" and "Wonderful Tonight", reached various international music charts and was honoured with numerous awards and recording certifications. In 2012, a deluxe edition was released to celebrate the album's 35th anniversary.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Cocaine
-2. Wonderful Tonight
-3. Lay Down Sally
-4. Next Time You See Her
-5. We're All The Way
-6. The Core
-7. May You Never
-8. Mean Old Frisco Blues
-9. Peaches And Diesel
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cocaine |  |
+| A2 | Wonderful Tonight |  |
+| A3 | Lay Down Sally |  |
+| A4 | Next Time You See Her |  |
+| A5 | We're All The Way |  |
+| B1 | The Core |  |
+| B2 | May You Never |  |
+| B3 | Mean Old Frisco Blues |  |
+| B4 | Peaches And Diesel |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-cream-of-clapton/1440912834" >}}<br>
-
 
 
 
@@ -56,5 +60,5 @@ Slowhand is the fifth solo studio album by Eric Clapton. Released on 25 November
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | RSO |
 | Catalog Number | 2479 201 |
-| Notes | R.S.O. Deluxe 2479 201    Produced by Arrangement with The Robert Stigwood Organisation.  Design and Art Direction: El and Nell Ink.    A1: ATV Mus. Ltd.  A2 to A4, B4: Throat Mus. Ltd.  A5: Anchor Mus. Ltd.  B1: RSO Publg. Ltd. / Throat Mus. Ltd.  B2: Warlock Mus. Ltd.  B3: Leeds Mus. Ltd.    (P) 1977 Robert Stigwood Group Ltd.  Marketed by Polydor.  Made in England.  Printed and made by Howards Printers (Slough) Ltd., England.   |
+| Notes | R.S.O. Deluxe 2479 201<br><br>Produced by Arrangement with The Robert Stigwood Organisation.<br>Design and Art Direction: El and Nell Ink.<br><br>A1: ATV Mus. Ltd.<br>A2 to A4, B4: Throat Mus. Ltd.<br>A5: Anchor Mus. Ltd.<br>B1: RSO Publg. Ltd. / Throat Mus. Ltd.<br>B2: Warlock Mus. Ltd.<br>B3: Leeds Mus. Ltd.<br><br>(P) 1977 Robert Stigwood Group Ltd.<br>Marketed by Polydor.<br>Made in England.<br>Printed and made by Howards Printers (Slough) Ltd., England.<br> |
 | Discogs URL    | [Eric Clapton - Slowhand](https://www.discogs.com/release/732881-Eric-Clapton-Slowhand) |

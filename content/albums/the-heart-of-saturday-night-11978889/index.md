@@ -4,6 +4,7 @@ artist_name: "Tom Waits"
 artist: "tom-waits"
 album_name: "The Heart Of Saturday Night"
 date: 2018-05-25T19:10:51.000000Z
+release_date: "1974-10-15"
 release_id: "11978889"
 slug: "the-heart-of-saturday-night-11978889"
 hideSummary: true
@@ -29,26 +30,29 @@ styles: ["Blues Rock", "Folk"]
 The Heart of Saturday Night is the second studio album by singer and songwriter Tom Waits, released on October 15, 1974, on Asylum Records. The title song was written as a tribute to Jack Kerouac. The album marks the start of a decade-long collaboration between Waits and Bones Howe, who produced and engineered all Waits' recordings until the artist left Asylum.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. New Coat Of Paint (3:20)
-2. San Diego Serenade (3:25)
-3. Semi Suite (3:22)
-4. Shiver Me Timbers (4:21)
-5. Diamonds On My Windshield (3:10)
-6. (Looking For) The Heart Of Saturday Night (3:50)
-7. Fumblin' With The Blues (2:59)
-8. Please Call Me, Baby (4:23)
-9. Depot, Depot (3:42)
-10. Drunk On The Moon (5:05)
-11. The Ghosts Of Saturday Night (After Hours At Napoleone's Pizza House) (3:17)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | New Coat Of Paint | 3:20 |
+| A2 | San Diego Serenade | 3:25 |
+| A3 | Semi Suite | 3:22 |
+| A4 | Shiver Me Timbers | 4:21 |
+| A5 | Diamonds On My Windshield | 3:10 |
+| A6 | (Looking For) The Heart Of Saturday Night | 3:50 |
+| B1 | Fumblin' With The Blues | 2:59 |
+| B2 | Please Call Me, Baby | 4:23 |
+| B3 | Depot, Depot | 3:42 |
+| B4 | Drunk On The Moon | 5:05 |
+| B5 | The Ghosts Of Saturday Night (After Hours At Napoleone's Pizza House) | 3:17 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-heart-of-saturday-night-remastered/1485071401" >}}<br>
-
 
 
 

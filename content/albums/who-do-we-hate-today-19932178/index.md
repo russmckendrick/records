@@ -1,9 +1,10 @@
 ---
 title: "Jim Bob - Who Do We Hate Today"
 artist_name: "Jim Bob"
-artist: "jim-bob-2"
+artist: "jim-bob"
 album_name: "Who Do We Hate Today"
 date: 2021-08-23T05:10:06.000000Z
+release_date: "2021-08-20"
 release_id: "19932178"
 slug: "who-do-we-hate-today-19932178"
 hideSummary: true
@@ -25,58 +26,32 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Jim's Bed of Unease (Intro)
-2. The Earth Bleeds Out
-3. Shona Is Dating A Drunk, Woman Hating Neanderthal Man
-4. #prayfortony
-5. Where's The Backdoor, Steve?
-6. Karen (Is Thinking Of Changing Her Name)
-7. A Random Act
-8. The Summer Of No Touching
-9. Song For The Unsung (You're So Modest You'll Never Think This Song Is About you)
-10. Men
-11. Evan Knows The Sirens
-12. The Loneliest Elephant In The World
-13. Who Do We Hate Today?
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Jim's Bed of Unease (Intro) |  |
+| A2 | The Earth Bleeds Out |  |
+| A3 | Shona Is Dating A Drunk, Woman Hating Neanderthal Man |  |
+| A4 | #prayfortony |  |
+| A5 | Where's The Backdoor, Steve? |  |
+| A6 | Karen (Is Thinking Of Changing Her Name) |  |
+| A7 | A Random Act |  |
+| B1 | The Summer Of No Touching |  |
+| B2 | Song For The Unsung (You're So Modest You'll Never Think This Song Is About you) |  |
+| B3 | Men |  |
+| B4 | Evan Knows The Sirens |  |
+| B5 | The Loneliest Elephant In The World |  |
+| B6 | Who Do We Hate Today? |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/who-do-we-hate-today/1566592596" >}}<br>
 
 
-## Videos
-### Jims Bed Of Unease Intro
-{{< youtube id="DnkIJYBaDOg" title="Jims Bed Of Unease Intro" >}}<br>
-### More Videos
-
-- [Jim Bob - The Earth Bleeds Out Official Video](https://www.youtube.com/watch?v=Z9GiKoIMLU8)
-- [Shona Is Dating A Drunk Woman Hating Neanderthal Man](https://www.youtube.com/watch?v=zcpk_fkGaOs)
-- [prayfortony](https://www.youtube.com/watch?v=GoLklpsySkk)
-- [Wheres The Backdoor Steve](https://www.youtube.com/watch?v=5Ut5fcNjhug)
-- [Karen Is Thinking Of Changing Her Name](https://www.youtube.com/watch?v=le6osBt1xBA)
-- [A Random Act](https://www.youtube.com/watch?v=fmizHm6iiwU)
-- [Jim Bob - The Summer Of No Touching Official Video](https://www.youtube.com/watch?v=OseUrswbv1o)
-- [Jim Bob - SONG FOR THE UNSUNG Youre So Modest Youll Never Think This Song is About You](https://www.youtube.com/watch?v=MAkb1Jj08JM)
-- [Men](https://www.youtube.com/watch?v=m9qkA-HDf84)
-- [Evan Knows The Sirens](https://www.youtube.com/watch?v=GDdJ15y74Lo)
-- [The Loneliest Elephant In The World](https://www.youtube.com/watch?v=_wzLd0smGO4)
-- [Who Do We Hate Today](https://www.youtube.com/watch?v=BlX-YtXrMeQ)
-- [Jims Bed Of Unease Intro](https://www.youtube.com/watch?v=DnkIJYBaDOg)
-- [Jim Bob - The Earth Bleeds Out Official Video](https://www.youtube.com/watch?v=Z9GiKoIMLU8)
-- [Shona Is Dating A Drunk Woman Hating Neanderthal Man](https://www.youtube.com/watch?v=zcpk_fkGaOs)
-- [prayfortony](https://www.youtube.com/watch?v=GoLklpsySkk)
-- [Wheres The Backdoor Steve](https://www.youtube.com/watch?v=5Ut5fcNjhug)
-- [Karen Is Thinking Of Changing Her Name](https://www.youtube.com/watch?v=le6osBt1xBA)
-- [A Random Act](https://www.youtube.com/watch?v=fmizHm6iiwU)
-- [Jim Bob - The Summer Of No Touching Official Video](https://www.youtube.com/watch?v=OseUrswbv1o)
-- [Jim Bob - SONG FOR THE UNSUNG Youre So Modest Youll Never Think This Song is About You](https://www.youtube.com/watch?v=MAkb1Jj08JM)
-- [Men](https://www.youtube.com/watch?v=m9qkA-HDf84)
-- [Evan Knows The Sirens](https://www.youtube.com/watch?v=GDdJ15y74Lo)
-- [The Loneliest Elephant In The World](https://www.youtube.com/watch?v=_wzLd0smGO4)
-- [Who Do We Hate Today](https://www.youtube.com/watch?v=BlX-YtXrMeQ)
-- [Jim Bob - The Earth Bleeds Out Official Video](https://www.youtube.com/watch?v=Z9GiKoIMLU8)
-- [Men](https://www.youtube.com/watch?v=m9qkA-HDf84)
 
 ## Release Images
 {{< imageGrid >}}
@@ -87,5 +62,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition Stereo |
 | Label          | Cherry Red |
 | Catalog Number | BRED850 |
-| Notes | Gatefold sleeve.  2022 Jim Bob Calendar included |
+| Notes | Gatefold sleeve.<br><br>2022 Jim Bob Calendar included |
 | Discogs URL    | [Jim Bob - Who Do We Hate Today](https://www.discogs.com/release/19932178-Jim-Bob-2-Who-Do-We-Hate-Today) |

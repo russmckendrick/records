@@ -4,6 +4,7 @@ artist_name: "The Pineapple Thief"
 artist: "the-pineapple-thief"
 album_name: "Someone Here Is Missing"
 date: 2019-09-13T17:46:08.000000Z
+release_date: "2010-05-24"
 release_id: "13312163"
 slug: "someone-here-is-missing-13312163"
 hideSummary: true
@@ -26,28 +27,28 @@ styles: ["Alternative Rock"]
 Someone Here Is Missing is the eighth studio album by The Pineapple Thief, featuring cover art by Storm Thorgerson.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Nothing At Best (4:08)
-2. Wake Up The Dead (4:23)
-3. The State We're In (3:18)
-4. Preparation For Meltdown (7:27)
-5. Barely Breathing (3:44)
-6. Show A Little Love (3:58)
-7. Someone Here Is Missing (3:52)
-8. 3000 Days (6:09)
-9. So We Row (8:16)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Nothing At Best | 4:08 |
+| A2 | Wake Up The Dead | 4:23 |
+| A3 | The State We're In | 3:18 |
+| A4 | Preparation For Meltdown | 7:27 |
+| A5 | Barely Breathing | 3:44 |
+| B1 | Show A Little Love | 3:58 |
+| B2 | Someone Here Is Missing | 3:52 |
+| B3 | 3000 Days | 6:09 |
+| B4 | So We Row | 8:16 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/someone-here-is-missing/369027963" >}}<br>
 
-
-## Videos
-### The Pineapple Thief - Someone Here is Missing
-{{< youtube id="LXR1pQ-HuvI" title="The Pineapple Thief - Someone Here is Missing" >}}<br>
 
 
 ## Release Images
@@ -60,5 +61,5 @@ Someone Here Is Missing is the eighth studio album by The Pineapple Thief, featu
 | Format         | Vinyl LP Album Remastered Repress |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1028 |
-| Notes | Recorded in Yeovil (UK) between November 2008 and December 2009 by [...]. Mixed by [...] and [...] @ [...], Yeovil. Remastered in 2018 by [...]. |
+| Notes | Recorded in Yeovil (UK) between November 2008 and December 2009 by [...].<br>Mixed by [...] and [...] @ [...], Yeovil.<br>Remastered in 2018 by [...]. |
 | Discogs URL    | [The Pineapple Thief - Someone Here Is Missing](https://www.discogs.com/release/13312163-The-Pineapple-Thief-Someone-Here-Is-Missing) |

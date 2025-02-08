@@ -4,6 +4,7 @@ artist_name: "The Bluetones"
 artist: "the-bluetones"
 album_name: "The Singles"
 date: 2019-08-03T09:35:37.000000Z
+release_date: "2002-04-08"
 release_id: "13954056"
 slug: "the-singles-13954056"
 hideSummary: true
@@ -28,38 +29,35 @@ styles: ["Soft Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Are You Blue Or Are You Blind? (2:52)
-2. Bluetonic (4:07)
-3. Slight Return (3:23)
-4. Cut Some Rug (4:35)
-5. Marblehead Johnson (3:22)
-6. Solomon Bites The Worm (3:06)
-7. If... (5:12)
-8. Sleazy Bed Track (4:36)
-9. 4-Day Weekend (3:57)
-10. Keep The Home Fires Burning (3:28)
-11. Autophilia (5:00)
-12. Mudslide (4:21)
-13. After Hours (3:33)
-14. Freeze Dried Pop (Dumb It Up) (2:26)
-15. Persuasion (4:07)
-16. The Bluetones Big Score (3:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Are You Blue Or Are You Blind? | 2:52 |
+| A2 | Bluetonic | 4:07 |
+| A3 | Slight Return | 3:23 |
+| A4 | Cut Some Rug | 4:35 |
+| B1 | Marblehead Johnson | 3:22 |
+| B2 | Solomon Bites The Worm | 3:06 |
+| B3 | If... | 5:12 |
+| B4 | Sleazy Bed Track | 4:36 |
+| C1 | 4-Day Weekend | 3:57 |
+| C2 | Keep The Home Fires Burning | 3:28 |
+| C3 | Autophilia | 5:00 |
+| C4 | Mudslide | 4:21 |
+| D1 | After Hours | 3:33 |
+| D2 | Freeze Dried Pop (Dumb It Up) | 2:26 |
+| D3 | Persuasion | 4:07 |
+| D4 | The Bluetones Big Score | 3:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-singles/1596119963" >}}<br>
 
 
-## Videos
-### The Bluetones  The Singles Commercial 2002
-{{< youtube id="pxA_ESHkE4o" title="The Bluetones  The Singles Commercial 2002" >}}<br>
-### More Videos
-
-- [The Bluetones - Are You Blue Or Are You Blind Official Video HD](https://www.youtube.com/watch?v=YjNQaEzc1iI)
-- [The Bluetones - Bluetonic Official Video HD](https://www.youtube.com/watch?v=1l_xCy86MLI)
-- [The Bluetones - Slight Return](https://www.youtube.com/watch?v=B-3UpL6MkZ0)
-- [Keep the Home Fires Burning  The Bluetones 2000](https://www.youtube.com/watch?v=mNRgUARwQe8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +68,5 @@ styles: ["Soft Rock"]
 | Format         | Vinyl 2× LP Compilation Reissue (Blue) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC421 |
-| Notes | Gatefold sleeve. 500 copies available on official web store include a 12x12" print signed by the band. This compilation Ⓟ 2002 [l125796] © 2019 [l204812]. |
+| Notes | Gatefold sleeve.<br>500 copies available on official web store include a 12x12" print signed by the band.<br>This compilation Ⓟ 2002 [l125796] © 2019 [l204812]. |
 | Discogs URL    | [The Bluetones - The Singles](https://www.discogs.com/release/13954056-The-Bluetones-The-Singles) |

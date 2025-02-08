@@ -4,6 +4,7 @@ artist_name: "Riverside"
 artist: "riverside"
 album_name: "ID.Entity"
 date: 2023-01-20T10:50:40.000000Z
+release_date: "2023-01-20"
 release_id: "25826326"
 slug: "id-entity-25826326"
 hideSummary: true
@@ -29,40 +30,29 @@ styles: ["Prog Rock", "Alternative Rock"]
 ID.Entity is the eighth studio album by Polish progressive rock band Riverside, released on January 20, 2023, by Inside Out Music and Mystic Production and was produced by bassist Mariusz Duda. The album peaked at #2 in Poland and #4 in Germany. It is the first album to feature lead guitarist Maciej Meller as a full member, who had replaced Piotr Grudziński  (following his death in 2016) as a touring member in 2017 before joining the band as a full member in 2020. Meller was featured on Wasteland, but only as a guest. The cover was created by Polish artist Jarek Kubicki. The first single "I'm Done With You", was released on October 21, 2022, along with a music video. The tracks "Self-Aware" and "Friend or Foe?" would be released as singles in November and January respectively.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Friend Or Foe? (7:29)
-2. Landmine Blast (4:50)
-3. Big Tech Brother (7:24)
-4. Post-Truth (5:37)
-5. The Place Where I Belong (13:16)
-6. I'm Done With You (5:52)
-7. Self-Aware (8:43)
-8. Age Of Anger (11:56)
-9. Together Again (6:29)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Friend Or Foe? | 7:29 |
+| A2 | Landmine Blast | 4:50 |
+| A3 | Big Tech Brother | 7:24 |
+| B1 | Post-Truth | 5:37 |
+| B2 | The Place Where I Belong | 13:16 |
+| C1 | I'm Done With You | 5:52 |
+| C2 | Self-Aware | 8:43 |
+| D1 | Age Of Anger | 11:56 |
+| D2 | Together Again | 6:29 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/id-entity/1647619910" >}}<br>
 
 
-## Videos
-### Friend or Foe
-{{< youtube id="-BCXXbuQHxs" title="Friend or Foe" >}}<br>
-### More Videos
-
-- [Landmine Blast](https://www.youtube.com/watch?v=IWOSPLBDTTo)
-- [Riverside - Big Tech Brother Official Track Visualizer](https://www.youtube.com/watch?v=xJ6I3_xbH7I)
-- [Post-Truth](https://www.youtube.com/watch?v=Ymq2VQOUyuE)
-- [The Place Where I Belong](https://www.youtube.com/watch?v=dHaj6uDx5Cs)
-- [Riverside - Im Done With You Official Track Visualizer](https://www.youtube.com/watch?v=2EUANefJv28)
-- [Self-Aware](https://www.youtube.com/watch?v=blB0UkMBCSA)
-- [Age of Anger](https://www.youtube.com/watch?v=QRZS6JVe2sQ)
-- [Together Again](https://www.youtube.com/watch?v=fcdmcjrhjak)
-- [RIVERSIDE - Friend or Foe Single Edit Official Video](https://www.youtube.com/watch?v=EWQQFjyHtro)
-- [RIVERSIDE - Self-Aware Single Edit Official Video](https://www.youtube.com/watch?v=Weuo4hgVHyY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +64,5 @@ ID.Entity is the eighth studio album by Polish progressive rock band Riverside, 
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (White, 180g) |
 | Label          | Inside Out Music |
 | Catalog Number | IOM658 |
-| Notes | Gatefold. Lyric sheet included. Limited to 500 copies, exclusive for Burningshed and JPC. Some copies came with signed art card.  ℗ 2023 InsideOutMusic © 2023 Century Media Records Ltd.under exclusive license from InsideOutMusic Made in the EU |
+| Notes | Gatefold. Lyric sheet included. Limited to 500 copies, exclusive for Burningshed and JPC.<br>Some copies came with signed art card.<br><br>℗ 2023 InsideOutMusic © 2023 Century Media Records Ltd.under exclusive license from InsideOutMusic<br>Made in the EU |
 | Discogs URL    | [Riverside - ID.Entity](https://www.discogs.com/release/25826326-Riverside-IDEntity) |

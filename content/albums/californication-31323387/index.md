@@ -42,45 +42,29 @@ But it’s the more sombre moments on <i>Californication</i> that turned the rec
 
 
 ## Tracklisting
-1. Around The World (3:59)
-2. Parallel Universe (4:31)
-3. Scar Tissue (3:37)
-4. Otherside (4:16)
-5. Get On Top (3:18)
-6. Californication (5:21)
-7. Easily (3:51)
-8. Porcelain (2:44)
-9. Emit Remmus (4:00)
-10. I Like Dirt (2:37)
-11. This Velvet Glove (3:45)
-12. Savior (4:52)
-13. Purple Stain (4:13)
-14. Right On Time (1:53)
-15. Road Trippin' (3:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Around The World | 3:59 |
+| A2 | Parallel Universe | 4:31 |
+| A3 | Scar Tissue | 3:37 |
+| A4 | Otherside | 4:16 |
+| B1 | Get On Top | 3:18 |
+| B2 | Californication | 5:21 |
+| B3 | Easily | 3:51 |
+| C1 | Porcelain | 2:44 |
+| C2 | Emit Remmus | 4:00 |
+| C3 | I Like Dirt | 2:37 |
+| C4 | This Velvet Glove | 3:45 |
+| D1 | Savior | 4:52 |
+| D2 | Purple Stain | 4:13 |
+| D3 | Right On Time | 1:53 |
+| D4 | Road Trippin' | 3:26 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/californication-remastered/945575406" >}}<br>
 
 
-## Videos
-### Red Hot Chili Peppers - Around The World Official Music Video
-{{< youtube id="a9eNQZbjpJk" title="Red Hot Chili Peppers - Around The World Official Music Video" >}}<br>
-### More Videos
-
-- [Red Hot Chili Peppers - Scar Tissue Official Music Video](https://www.youtube.com/watch?v=mzJj5-lubeM)
-- [Red Hot Chili Peppers - Otherside Official Music Video](https://www.youtube.com/watch?v=rn_YodiJO6k)
-- [Red Hot Chili Peppers - Road Trippin Official Music Video](https://www.youtube.com/watch?v=11GYvfYjyV0)
-- [Red Hot Chili Peppers - Californication Official Music Video HD UPGRADE](https://www.youtube.com/watch?v=YlUKcNNmywk)
-- [Parallel Universe](https://www.youtube.com/watch?v=N5Vgm6-KO3o)
-- [Get on Top](https://www.youtube.com/watch?v=NJnOl3trYW0)
-- [Easily](https://www.youtube.com/watch?v=C-2xtTpgQXM)
-- [Porcelain](https://www.youtube.com/watch?v=j0tHXHcq724)
-- [Emit Remmus](https://www.youtube.com/watch?v=i6HOe3T1QFY)
-- [I Like Dirt](https://www.youtube.com/watch?v=5fdJdfXid70)
-- [This Velvet Glove](https://www.youtube.com/watch?v=TqoDFpLyio0)
-- [Savior](https://www.youtube.com/watch?v=UijW9hGpnzc)
-- [Purple Stain](https://www.youtube.com/watch?v=H1LF-qyoNjo)
-- [Right on Time](https://www.youtube.com/watch?v=PSqH-4Wubq0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -92,5 +76,5 @@ But it’s the more sombre moments on <i>Californication</i> that turned the rec
 | Format         | Vinyl LP (Red Opaque), Vinyl LP (Blue Opaque [Ocean Blue]), All Media Album Limited Edition Reissue Repress (25th Anniversary Edition) |
 | Label          | Warner Records |
 | Catalog Number | 93624843276 |
-| Notes | 25th Anniversary Limited Edition - 2 LPs: 1 Red and 1 Ocean Blue Vinyl.   Comes with colored lyrics sheet and white die-cut inner sleeves.   "Manufactured in Germany" on labels and "Made in Germany" on insert.   Different runouts than [r31325104]. |
+| Notes | 25th Anniversary Limited Edition - 2 LPs: 1 Red and 1 Ocean Blue Vinyl. <br><br>Comes with colored lyrics sheet and white die-cut inner sleeves. <br><br>"Manufactured in Germany" on labels and "Made in Germany" on insert. <br><br>Different runouts than [r31325104]. |
 | Discogs URL    | [Red Hot Chili Peppers - Californication](https://www.discogs.com/release/31323387-Red-Hot-Chili-Peppers-Californication) |

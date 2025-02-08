@@ -33,32 +33,34 @@ The album won Album of the Year at the 19th Grammy Awards and is the best-sellin
 
 
 ## Tracklisting
-1. Love's In Need Of Love Today (7:05)
-2. Have A Talk With God (2:42)
-3. Village Ghetto Land (3:25)
-4. Contusion (3:45)
-5. Sir Duke (3:52)
-6. I Wish (4:12)
-7. Knocks Me Off My Feet (3:35)
-8. Pastime Paradise (3:20)
-9. Summer Soft (4:16)
-10. Ordinary Pain (6:22)
-11. Isn't She Lovely (6:33)
-12. Joy Inside My Tears (6:29)
-13. Black Man (8:29)
-14. Ngiculela - Es Una Historia - I Am Singing (3:48)
-15. If It's Magic (3:11)
-16. As (7:07)
-17. Another Star (8:19)
-18. A Something Extra For "Songs In The Key Of Life
-19. Saturn (4:54)
-20. Ebony Eyes (4:10)
-21. All Day Sucker (5:06)
-22. Easy Goin' Evening (My Mama's Call) (3:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| LP-A1 | Love's In Need Of Love Today | 7:05 |
+| LP-A2 | Have A Talk With God | 2:42 |
+| LP-A3 | Village Ghetto Land | 3:25 |
+| LP-A4 | Contusion | 3:45 |
+| LP-A5 | Sir Duke | 3:52 |
+| LP-B1 | I Wish | 4:12 |
+| LP-B2 | Knocks Me Off My Feet | 3:35 |
+| LP-B3 | Pastime Paradise | 3:20 |
+| LP-B4 | Summer Soft | 4:16 |
+| LP-B5 | Ordinary Pain | 6:22 |
+| LP-C1 | Isn't She Lovely | 6:33 |
+| LP-C2 | Joy Inside My Tears | 6:29 |
+| LP-C3 | Black Man | 8:29 |
+| LP-D1 | Ngiculela - Es Una Historia - I Am Singing | 3:48 |
+| LP-D2 | If It's Magic | 3:11 |
+| LP-D3 | As | 7:07 |
+| LP-D4 | Another Star | 8:19 |
+|  | A Something Extra For "Songs In The Key Of Life |  |
+| 7"-E1 | Saturn | 4:54 |
+| 7"-E2 | Ebony Eyes | 4:10 |
+| 7"-F1 | All Day Sucker | 5:06 |
+| 7"-F2 | Easy Goin' Evening (My Mama's Call) | 3:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songs-in-the-key-of-life/1440788438" >}}<br>
-
 
 
 

@@ -31,25 +31,27 @@ The album includes a typically extended version of "Forty Five Hundred Times". "
 
 
 ## Tracklisting
-1. Junior's Wailing (5:16)
-2. Backwater 
-3. Just Take Me (7:39)
-4. Is There A Better Way (4:30)
-5. In My Chair (4:00)
-6. Little Lady 
-7. Most Of The Time (7:00)
-8. Forty-Five Hundred Times (16:42)
-9. Roll Over Lay Down (5:59)
-10. Big Fat Mama (5:10)
-11. Caroline
-12. Bye Bye Johnny (12:50)
-13. Rain (4:48)
-14. Don't Waste My Time (4:08)
-15. Roadhouse Blues (14:12)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Junior's Wailing | 5:16 |
+| A2a | Backwater  |  |
+| A2b | Just Take Me | 7:39 |
+| A3 | Is There A Better Way | 4:30 |
+| A4 | In My Chair | 4:00 |
+| B1a | Little Lady  |  |
+| B1b | Most Of The Time | 7:00 |
+| B2 | Forty-Five Hundred Times | 16:42 |
+| C1 | Roll Over Lay Down | 5:59 |
+| C2 | Big Fat Mama | 5:10 |
+| C3a | Caroline |  |
+| C3b | Bye Bye Johnny | 12:50 |
+| D1 | Rain | 4:48 |
+| D2 | Don't Waste My Time | 4:08 |
+| D3 | Roadhouse Blues | 14:12 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/status-quo-live/1443229508" >}}<br>
-
 
 
 

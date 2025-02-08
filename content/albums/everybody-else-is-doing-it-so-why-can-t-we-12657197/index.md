@@ -4,6 +4,7 @@ artist_name: "The Cranberries"
 artist: "the-cranberries"
 album_name: "Everybody Else Is Doing It, So Why Can't We?"
 date: 2018-10-19T19:21:22.000000Z
+release_date: "1993-03-01"
 release_id: "12657197"
 slug: "everybody-else-is-doing-it-so-why-can-t-we-12657197"
 hideSummary: true
@@ -27,41 +28,31 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. I Still Do (3:16)
-2. Dreams (4:32)
-3. Sunday (3:30)
-4. Pretty (2:16)
-5. Waltzing Back (3:37)
-6. Not Sorry (4:20)
-7. Linger (4:34)
-8. Wanted (2:07)
-9. Still Can't ... (3:40)
-10. I Will Always (2:42)
-11. How (2:51)
-12. Put Me Down (3:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Still Do | 3:16 |
+| A2 | Dreams | 4:32 |
+| A3 | Sunday | 3:30 |
+| A4 | Pretty | 2:16 |
+| A5 | Waltzing Back | 3:37 |
+| A6 | Not Sorry | 4:20 |
+| B1 | Linger | 4:34 |
+| B2 | Wanted | 2:07 |
+| B3 | Still Can't ... | 3:40 |
+| B4 | I Will Always | 2:42 |
+| B5 | How | 2:51 |
+| B6 | Put Me Down | 3:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everybody-else-is-doing-it-so-why-cant-we/1440911650" >}}<br>
 
 
-## Videos
-### The Cranberries - Dreams
-{{< youtube id="Yam5uK6e-bQ" title="The Cranberries - Dreams" >}}<br>
-### More Videos
-
-- [The Cranberries - Linger](https://www.youtube.com/watch?v=G6Kspj3OO0s)
-- [Sunday](https://www.youtube.com/watch?v=lPfa7h5wXQE)
-- [I Still Do](https://www.youtube.com/watch?v=vovVgQ2BsTo)
-- [What You Were](https://www.youtube.com/watch?v=sVRmMYcOe6M)
-- [Linger](https://www.youtube.com/watch?v=QzQIWKHglPs)
-- [Wanted](https://www.youtube.com/watch?v=MtVObrb9NLI)
-- [Íosa](https://www.youtube.com/watch?v=I_-3nNIBY10)
-- [Pretty](https://www.youtube.com/watch?v=YC4bFpy7Y0I)
-- [Nothing Left At All](https://www.youtube.com/watch?v=KjlXjypW6bI)
-- [Liar](https://www.youtube.com/watch?v=_xZ74POZWe8)
-- [How](https://www.youtube.com/watch?v=BcIXBVMAQaU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +63,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Reissue Remastered (25th. Anniversary, Gatefold) |
 | Label          | Island Records |
 | Catalog Number | 6750577 |
-| Notes | Sticker: The Cranberries Everybody Else Is Doing It, So Why Can't We 25th. Anniversary Edition. Remastered at Abbey Road Studios. UMC  Island (logo) 6750577  Download Code in the Variant 3 edition  Back cover has "Made in EU" unlike [r24120869]  Runouts are stamped except "Miles. Abbey Road 1/2 speed. Room 30." etched  Tracks duration are not on this release |
+| Notes | Sticker: The Cranberries<br>Everybody Else Is Doing It,<br>So Why Can't We<br>25th. Anniversary Edition.<br>Remastered at Abbey Road Studios.<br>UMC  Island (logo) 6750577<br><br>Download Code in the Variant 3 edition<br><br>Back cover has "Made in EU" unlike [r24120869]<br><br>Runouts are stamped except "Miles. Abbey Road 1/2 speed. Room 30." etched<br><br>Tracks duration are not on this release |
 | Discogs URL    | [The Cranberries - Everybody Else Is Doing It, So Why Can't We?](https://www.discogs.com/release/12657197-The-Cranberries-Everybody-Else-Is-Doing-It-So-Why-Cant-We) |

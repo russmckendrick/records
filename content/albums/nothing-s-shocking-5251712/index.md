@@ -1,7 +1,7 @@
 ---
-title: "Jane's Addiction - Nothing's Shocking"
-artist_name: "Jane's Addiction"
-artist: "jane-s-addiction"
+title: "Janes Addiction - Nothing's Shocking"
+artist_name: "Janes Addiction"
+artist: "janes-addiction"
 album_name: "Nothing's Shocking"
 date: 2015-08-09T08:36:12.000000Z
 release_date: "1988-08-23"
@@ -10,8 +10,8 @@ slug: "nothing-s-shocking-5251712"
 hideSummary: true
 cover:
     image: "nothing-s-shocking-5251712.jpg"
-    alt: "Nothing's Shocking by Jane's Addiction"
-    caption: "Nothing's Shocking by Jane's Addiction"
+    alt: "Nothing's Shocking by Janes Addiction"
+    caption: "Nothing's Shocking by Janes Addiction"
 additional_images:
     - "https://i.discogs.com/JeZsscT8ZuxEivTlUsc6czKvDh6ZLvtU0OaHUNSXuSs/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTM4ODc2OTQ5/My02ODMwLmpwZWc.jpeg"
     - "https://i.discogs.com/KEdSgVBWWaDoHp1ENSgWOddFsnoK1otGMKM1x7m7Jec/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTQwMDI2MTc1/Ny02MDAzLmpwZWc.jpeg"
@@ -34,29 +34,24 @@ Bringing together arty college-radio kids and throw-the-horns hard rockers, Perr
 
 
 ## Tracklisting
-1. Up The Beach (3:00)
-2. Ocean Size (4:22)
-3. Had A Dad (3:44)
-4. Ted, Just Admit It... (7:23)
-5. Standing In The Shower... Thinking (3:03)
-6. Summertime Rolls (6:18)
-7. Mountain Song (4:03)
-8. Idiots Rule (3:00)
-9. Jane Says (4:52)
-10. Thank You Boys (1:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Up The Beach | 3:00 |
+| A2 | Ocean Size | 4:22 |
+| A3 | Had A Dad | 3:44 |
+| A4 | Ted, Just Admit It... | 7:23 |
+| A5 | Standing In The Shower... Thinking | 3:03 |
+| B1 | Summertime Rolls | 6:18 |
+| B2 | Mountain Song | 4:03 |
+| B3 | Idiots Rule | 3:00 |
+| B4 | Jane Says | 4:52 |
+| B5 | Thank You Boys | 1:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nothings-shocking/1018518208" >}}<br>
 
 
-## Videos
-### Janes Addiction - Mountain Song Official Video
-{{< youtube id="1kAIMlISHhU" title="Janes Addiction - Mountain Song Official Video" >}}<br>
-### More Videos
-
-- [Janes Addiction - Ocean Size Official Music Video](https://www.youtube.com/watch?v=lVIev94s7Mo)
-- [Summertime Rolls](https://www.youtube.com/watch?v=ra46DNeUfdk)
-- [Janes Addiction - Jane Says Official Music Video](https://www.youtube.com/watch?v=i7Q_8q3XXrQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +63,5 @@ Bringing together arty college-radio kids and throw-the-horns hard rockers, Perr
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122798884 |
-| Notes | Engineered [...] at Eldorado Studios in Los Angeles  Mixed [...] at Post Logic Studios in Hollywood  Mastered by Steve Hall at Future Disc  All songs © 1988 I'll Hit You Back Music / Bubbly Orange Stuff Music / Embryotic Music / Swizzle Stick Music BMI  ℗ © 1988 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside of the U.S.  Made in E.U.    Includes a printed inner sleeve |
-| Discogs URL    | [Jane's Addiction - Nothing's Shocking](https://www.discogs.com/release/5251712-Janes-Addiction-Nothings-Shocking) |
+| Notes | Engineered [...] at Eldorado Studios in Los Angeles<br>Mixed [...] at Post Logic Studios in Hollywood<br>Mastered by Steve Hall at Future Disc<br>All songs © 1988 I'll Hit You Back Music / Bubbly Orange Stuff Music / Embryotic Music / Swizzle Stick Music BMI<br>℗ © 1988 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside of the U.S.<br>Made in E.U.<br><br>Includes a printed inner sleeve |
+| Discogs URL    | [Janes Addiction - Nothing's Shocking](https://www.discogs.com/release/5251712-Janes-Addiction-Nothings-Shocking) |

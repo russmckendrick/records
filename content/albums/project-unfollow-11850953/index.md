@@ -4,6 +4,7 @@ artist_name: "Little Simz"
 artist: "little-simz"
 album_name: "Project Unfollow"
 date: 2018-04-19T11:14:08.000000Z
+release_date: ""
 release_id: "11850953"
 slug: "project-unfollow-11850953"
 hideSummary: true
@@ -24,23 +25,23 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Poison Ivy
-2. Backseat
-3. The Book
-4. Know Yourself
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Poison Ivy |  |
+| A2 | Backseat |  |
+| B3 | The Book |  |
+| B4 | Know Yourself |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Little Simz - Poison Ivy ft Tilla Official Video
-{{< youtube id="Yfy2UQnWQOw" title="Little Simz - Poison Ivy ft Tilla Official Video" >}}<br>
-### More Videos
 
-- [Little Simz - Backseat Official Audio](https://www.youtube.com/watch?v=JDJFQF6ulgs)
-- [OTG ft Little Simz - the Book](https://www.youtube.com/watch?v=-nGDiJtC6fo)
-- [Tilla - Know Yourself](https://www.youtube.com/watch?v=rtdcxbxaLyI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -51,5 +52,5 @@ styles: []
 | Format         | Vinyl 10" 45 RPM Club Edition Limited Edition Numbered (Gold) |
 | Label          | Vinyl Me, Please |
 | Catalog Number | VMP-033 |
-| Notes | For the BMW X2 "Project Unfollow" Campaign. Gatefold cover, includes an insert. Originally limited to 7000 but an unknown amount of extras beyond 7000 were pressed |
+| Notes | For the BMW X2 "Project Unfollow" Campaign.<br>Gatefold cover, includes an insert.<br>Originally limited to 7000 but an unknown amount of extras beyond 7000 were pressed |
 | Discogs URL    | [Little Simz - Project Unfollow](https://www.discogs.com/release/11850953-Little-Simz-Project-Unfollow) |

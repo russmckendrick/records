@@ -37,35 +37,24 @@ A far cry from their punky beginnings, Death in Vegas' <i>Transmission</i> embra
 
 
 ## Tracklisting
-1. Metal Box
-2. Consequences of Love
-3. Transmission
-4. Mind Control
-5. Flak
-6. Sequential Analog Memory
-7. Arise
-8. You Disco I Freak
-9. Strom
-10. Transwave
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Metal Box |  |
+| B1 | Consequences of Love |  |
+| B2 | Transmission |  |
+| C1 | Mind Control |  |
+| C2 | Flak |  |
+| D1 | Sequential Analog Memory |  |
+| D2 | Arise |  |
+| E | You Disco I Freak |  |
+| F1 | Strom |  |
+| F2 | Transwave |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/transmission/1110655687" >}}<br>
 
 
-## Videos
-### DEATH IN VEGAS - CONSEQUENCES OF LOVE
-{{< youtube id="X4cdF4H0_dY" title="DEATH IN VEGAS - CONSEQUENCES OF LOVE" >}}<br>
-### More Videos
-
-- [DEATH IN VEGAS  -   YOU DISCO I FREAK](https://www.youtube.com/watch?v=B-nlvSKFLs8)
-- [DEATH IN VEGAS - CONSEQUENCES OF LOVE](https://www.youtube.com/watch?v=X4cdF4H0_dY)
-- [DEATH IN VEGAS  -   YOU DISCO I FREAK](https://www.youtube.com/watch?v=B-nlvSKFLs8)
-- [DEATH IN VEGAS  -   YOU DISCO I FREAK](https://www.youtube.com/watch?v=B-nlvSKFLs8)
-- [Death In Vegas - Metal Box](https://www.youtube.com/watch?v=HlFn0_2AmZU)
-- [Death In Vegas - Transmission - 2016](https://www.youtube.com/watch?v=haWYnLWl2zw)
-- [Death In Vegas - Arise - 2016](https://www.youtube.com/watch?v=rPmHbb96t28)
-- [Death in Vegas - Transwave](https://www.youtube.com/watch?v=g-4vdO6FuX4)
-- [DEATH IN VEGAS TRANSMISSION](https://www.youtube.com/watch?v=pY8W241L9x0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +65,5 @@ A far cry from their punky beginnings, Death in Vegas' <i>Transmission</i> embra
 | Format         | Vinyl 3× 12" 33 ⅓ RPM Album |
 | Label          | Drone |
 | Catalog Number | DRONE 007LP |
-| Notes | Tri-fold gatefold sleeve.  Includes digital download code.   |
+| Notes | Tri-fold gatefold sleeve.<br><br>Includes digital download code.<br><br> |
 | Discogs URL    | [Death In Vegas - Transmission](https://www.discogs.com/release/8473733-Death-In-Vegas-Transmission) |

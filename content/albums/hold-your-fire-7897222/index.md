@@ -28,24 +28,23 @@ The album was not as commercially successful as most of the band's releases of t
 
 
 ## Tracklisting
-1. Force Ten (4:28)
-2. Time Stand Still (5:07)
-3. Open Secrets (5:37)
-4. Second Nature (4:35)
-5. Prime Mover (5:19)
-6. Lock And Key (5:08)
-7. Mission (5:15)
-8. Turn The Page (4:53)
-9. Tai Shan (4:14)
-10. High Water (5:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Force Ten | 4:28 |
+| A2 | Time Stand Still | 5:07 |
+| A3 | Open Secrets | 5:37 |
+| A4 | Second Nature | 4:35 |
+| A5 | Prime Mover | 5:19 |
+| B1 | Lock And Key | 5:08 |
+| B2 | Mission | 5:15 |
+| B3 | Turn The Page | 4:53 |
+| B4 | Tai Shan | 4:14 |
+| B5 | High Water | 5:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hold-your-fire-remastered/1442456383" >}}<br>
 
-
-## Videos
-### Rush - Time Stand Still Official Music Video
-{{< youtube id="dMSFqXGZ5TQ" title="Rush - Time Stand Still Official Music Video" >}}<br>
 
 
 ## Release Images
@@ -58,5 +57,5 @@ The album was not as commercially successful as most of the band's releases of t
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 00602547118295 |
-| Notes | Lyrics sheet inserted with lyrics, credits on one side and photo/art (man juggling with fire) on other. Plastic-lined paper inner sleeve. Including a voucher to download an MP3 Vinyl rip of the album. Voucher also includes credits for reissue and DMM info. Direct Metal Mastering (DMM) technology used. Pressed on 180 g vinyl.  |
+| Notes | Lyrics sheet inserted with lyrics, credits on one side and photo/art (man juggling with fire) on other. Plastic-lined paper inner sleeve. Including a voucher to download an MP3 Vinyl rip of the album. Voucher also includes credits for reissue and DMM info.<br>Direct Metal Mastering (DMM) technology used. Pressed on 180 g vinyl.  |
 | Discogs URL    | [Rush - Hold Your Fire](https://www.discogs.com/release/7897222-Rush-Hold-Your-Fire) |

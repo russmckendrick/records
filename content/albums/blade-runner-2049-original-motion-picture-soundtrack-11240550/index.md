@@ -4,6 +4,7 @@ artist_name: "Hans Zimmer"
 artist: "hans-zimmer"
 album_name: "Blade Runner 2049 (Original Motion Picture Soundtrack)"
 date: 2017-12-24T11:35:38.000000Z
+release_date: "2017-10-05"
 release_id: "11240550"
 slug: "blade-runner-2049-original-motion-picture-soundtrack-11240550"
 hideSummary: true
@@ -29,79 +30,39 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. 2049
-2. Sapper's Tree
-3. Flight to LAPD
-4. Rain
-5. Wallace
-6. Memory
-7. Mesa
-8. Orphanage
-9. Furnace
-10. Someone Lived This
-11. Joi
-12. Pilot
-13. Hijack
-14. That's Why We Believe
-15. Her Eyes Were Green
-16. Sea Wall
-17. All The Best Memories Are Hers
-18. Tears In The Rain
-19. Blade Runner
-20. Almost Human
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 2049 |  |
+| A2 | Sapper's Tree |  |
+| A3 | Flight to LAPD |  |
+| A4 | Rain |  |
+| A5 | Wallace |  |
+| A6 | Memory |  |
+| A7 | Mesa |  |
+| B1 | Orphanage |  |
+| B2 | Furnace |  |
+| B3 | Someone Lived This |  |
+| B4 | Joi |  |
+| B5 | Pilot |  |
+| B6 | Hijack |  |
+| C1 | That's Why We Believe |  |
+| C2 | Her Eyes Were Green |  |
+| C3 | Sea Wall |  |
+| D1 | All The Best Memories Are Hers |  |
+| D2 | Tears In The Rain |  |
+| D3 | Blade Runner |  |
+| D4 | Almost Human |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blade-runner-2049-original-motion-picture-soundtrack/1291056782" >}}<br>
 
 
-## Videos
-### 2049
-{{< youtube id="d3clrkLNTSA" title="2049" >}}<br>
-### More Videos
-
-- [Sappers Tree](https://www.youtube.com/watch?v=1LeOO9P2yL4)
-- [Flight to LAPD](https://www.youtube.com/watch?v=6vThgFwt4Kg)
-- [Rain](https://www.youtube.com/watch?v=D9OhQVuupdY)
-- [Wallace](https://www.youtube.com/watch?v=E3uWHtUkUoI)
-- [Memory](https://www.youtube.com/watch?v=uU7YPyQ9ldA)
-- [Mesa](https://www.youtube.com/watch?v=8h3SusINdAI)
-- [Hans Zimmer - Orphanage](https://www.youtube.com/watch?v=7myDBUXoKW4)
-- [Furnace](https://www.youtube.com/watch?v=tx1BXRP0wrI)
-- [Someone Lived This](https://www.youtube.com/watch?v=kNh-Nyt1ywU)
-- [Joi](https://www.youtube.com/watch?v=HtyB5Wiq_Mw)
-- [Pilot](https://www.youtube.com/watch?v=peD-Xbfkeec)
-- [Hijack](https://www.youtube.com/watch?v=UOEXxLuGeIw)
-- [Thats Why We Believe](https://www.youtube.com/watch?v=xcDMoKfw-0A)
-- [Her Eyes Were Green](https://www.youtube.com/watch?v=ru2Bo_Ud0ms)
-- [Sea Wall](https://www.youtube.com/watch?v=ipGNuFXubL8)
-- [All the Best Memories Are Hers](https://www.youtube.com/watch?v=2QCecWuOC18)
-- [Tears in the Rain](https://www.youtube.com/watch?v=by2pM_0Sf8c)
-- [Blade Runner](https://www.youtube.com/watch?v=QjB3qextZbQ)
-- [Almost Human from the Original Motion Picture Soundtrack Blade Runner 2049](https://www.youtube.com/watch?v=0CH8_gA4E_k)
-- [Blade Runner 2049 Score - Benjamin Wallfisch  Hans Zimmer](https://www.youtube.com/watch?v=pMjIERoxzUQ)
-- [2049](https://www.youtube.com/watch?v=d3clrkLNTSA)
-- [Sappers Tree](https://www.youtube.com/watch?v=1LeOO9P2yL4)
-- [Flight to LAPD](https://www.youtube.com/watch?v=6vThgFwt4Kg)
-- [Rain](https://www.youtube.com/watch?v=D9OhQVuupdY)
-- [Wallace](https://www.youtube.com/watch?v=E3uWHtUkUoI)
-- [Memory](https://www.youtube.com/watch?v=uU7YPyQ9ldA)
-- [Mesa](https://www.youtube.com/watch?v=8h3SusINdAI)
-- [Hans Zimmer - Orphanage](https://www.youtube.com/watch?v=7myDBUXoKW4)
-- [Furnace](https://www.youtube.com/watch?v=tx1BXRP0wrI)
-- [Someone Lived This](https://www.youtube.com/watch?v=kNh-Nyt1ywU)
-- [Joi](https://www.youtube.com/watch?v=HtyB5Wiq_Mw)
-- [Pilot](https://www.youtube.com/watch?v=peD-Xbfkeec)
-- [Hijack](https://www.youtube.com/watch?v=UOEXxLuGeIw)
-- [Thats Why We Believe](https://www.youtube.com/watch?v=xcDMoKfw-0A)
-- [Her Eyes Were Green](https://www.youtube.com/watch?v=ru2Bo_Ud0ms)
-- [Sea Wall](https://www.youtube.com/watch?v=ipGNuFXubL8)
-- [All the Best Memories Are Hers](https://www.youtube.com/watch?v=2QCecWuOC18)
-- [Tears in the Rain](https://www.youtube.com/watch?v=by2pM_0Sf8c)
-- [Blade Runner](https://www.youtube.com/watch?v=QjB3qextZbQ)
-- [Almost Human from the Original Motion Picture Soundtrack Blade Runner 2049](https://www.youtube.com/watch?v=0CH8_gA4E_k)
-- [Blade Runner 2049 Score - Benjamin Wallfisch  Hans Zimmer](https://www.youtube.com/watch?v=pMjIERoxzUQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -112,5 +73,5 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 | Format         | Vinyl 2× LP Album |
 | Label          | Epic |
 | Catalog Number | 19075803641 |
-| Notes | The main sleeve is a standard single non-gatefold sleeve. A download code for the tracks on the release and four extra tracks is included. Credits listed on the printed inner sleeve show information for these extra tracks ("Summer Wind", "Suspicious Minds", "Can't Help Falling In Love", and "One For My Baby (And One More For The Road)").  Original Score by Hans Zimmer + Benjamin Wallfisch (Alcon Sleeping Giant (ASCAP).  Tears In The Rain (D2): Blade Runner Music c/o Warner-Tamerlane Publishing Corp.  Almost Human (D4): Capitol CMG Publishing / Alcon Sleeping Giant.  The catalogue number printed on the spine is 19075803641. The inner sleeve on A/B and download code sheet show 19075803641-1, while the inner sleeve on C/D shows 19075803641-2.  Compilation © & ℗ 2017 Alcon Sleeping Giant (ASG) Records Exclusively Distributed by Epic Records, a division of Sony Music Entertainment. Sony Music Entertainment International Services GmbH, PO BOX 510, 33311 Gütersloh, Germany. Made in the EU. |
+| Notes | The main sleeve is a standard single non-gatefold sleeve. A download code for the tracks on the release and four extra tracks is included. Credits listed on the printed inner sleeve show information for these extra tracks ("Summer Wind", "Suspicious Minds", "Can't Help Falling In Love", and "One For My Baby (And One More For The Road)").<br><br>Original Score by Hans Zimmer + Benjamin Wallfisch (Alcon Sleeping Giant (ASCAP).<br><br>Tears In The Rain (D2): Blade Runner Music c/o Warner-Tamerlane Publishing Corp.<br><br>Almost Human (D4): Capitol CMG Publishing / Alcon Sleeping Giant.<br><br>The catalogue number printed on the spine is 19075803641.<br>The inner sleeve on A/B and download code sheet show 19075803641-1, while the inner sleeve on C/D shows 19075803641-2.<br><br>Compilation © & ℗ 2017 Alcon Sleeping Giant (ASG) Records Exclusively Distributed by Epic Records, a division of Sony Music Entertainment. Sony Music Entertainment International Services GmbH, PO BOX 510, 33311 Gütersloh, Germany.<br>Made in the EU. |
 | Discogs URL    | [Hans Zimmer - Blade Runner 2049 (Original Motion Picture Soundtrack)](https://www.discogs.com/release/11240550-Hans-Zimmer-Benjamin-Wallfisch-Blade-Runner-2049-Original-Motion-Picture-Soundtrack) |

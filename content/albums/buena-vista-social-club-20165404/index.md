@@ -4,6 +4,7 @@ artist_name: "Buena Vista Social Club"
 artist: "buena-vista-social-club"
 album_name: "Buena Vista Social Club"
 date: 2022-10-19T07:22:38.000000Z
+release_date: "2014-10-06"
 release_id: "20165404"
 slug: "buena-vista-social-club-20165404"
 hideSummary: true
@@ -31,75 +32,75 @@ Buena Vista Social Club is a 1999 documentary film directed by Wim Wenders about
 In 2020, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being "culturally, historically or aesthetically significant".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. LP 1
-2. Chan Chan (4:18)
-3. De Camino A La Vereda (5:03)
-4. El Cuarto De Tula (7:25)
-5. Pueblo Nuevo (6:06)
-6. Dos Gardenias (3:04)
-7. ¿Y Tú Qué Has Hecho? (3:15)
-8. Veinte Años (3:31)
-9. El Carretero (3:30)
-10. Candela (5:29)
-11. LP 2
-12. Amor De Loca Juventud (3:23)
-13. Orgullecida (3:19)
-14. Murmullo (3:51)
-15. Buena Vista Social Club (4:52)
-16. La Bayames (2:54)
-17. Vicenta
-18. La Pluma
-19. A Tus Pies
-20. La Cleptómana
-21. Orgullecida (Alternate Trio Take)
-22. CD1 (2021 Remaster)
-23. Chan Chan
-24. De Camino A La Vereda
-25. El Cuarto De Tula
-26. Pueblo Nuevo
-27. Dos Gardenias
-28. ¿Y Tú Qué Has Hecho?
-29. Veinte Años
-30. El Carretero
-31. Candela
-32. Amor De Loca Juventud
-33. Orgullecida
-34. Murmullo
-35. Buena Vista Social Club
-36. La Bayames
-37. CD2 (Previously Unreleased Bonus Tracks)
-38. Chan Chan (Monitor Mix)
-39. Vicenta
-40. La Pluma
-41. Dos Gardenias (Alternate Take)
-42. Mandingo
-43. Siboney
-44. A Tus Pies
-45. El Carretero (Alternate Take)
-46. Ensayo
-47. El Diablo Suelto
-48. Saludo Compay
-49. Descripción De Un Sueño
-50. Pueblo Nuevo (Alternate Take)
-51. La Cleptómana
-52. ¿Y Tú Qué Has Hecho? (Alternate Take)
-53. Orgullecida (Alternate Take)
-54. Descarga Rubén
-55. Candela (Alternate Take)
-56. Orgullecida (Alternate Trio Take)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | LP 1 |  |
+| A1 | Chan Chan | 4:18 |
+| A2 | De Camino A La Vereda | 5:03 |
+| A3 | El Cuarto De Tula | 7:25 |
+| A4 | Pueblo Nuevo | 6:06 |
+| B1 | Dos Gardenias | 3:04 |
+| B2 | ¿Y Tú Qué Has Hecho? | 3:15 |
+| B3 | Veinte Años | 3:31 |
+| B4 | El Carretero | 3:30 |
+| B5 | Candela | 5:29 |
+|  | LP 2 |  |
+| C1 | Amor De Loca Juventud | 3:23 |
+| C2 | Orgullecida | 3:19 |
+| C3 | Murmullo | 3:51 |
+| C4 | Buena Vista Social Club | 4:52 |
+| C5 | La Bayames | 2:54 |
+| D1 | Vicenta |  |
+| D2 | La Pluma |  |
+| D3 | A Tus Pies |  |
+| D4 | La Cleptómana |  |
+| D5 | Orgullecida (Alternate Trio Take) |  |
+|  | CD1 (2021 Remaster) |  |
+| CD1-1 | Chan Chan |  |
+| CD1-2 | De Camino A La Vereda |  |
+| CD1-3 | El Cuarto De Tula |  |
+| CD1-4 | Pueblo Nuevo |  |
+| CD1-5 | Dos Gardenias |  |
+| CD1-6 | ¿Y Tú Qué Has Hecho? |  |
+| CD1-7 | Veinte Años |  |
+| CD1-8 | El Carretero |  |
+| CD1-9 | Candela |  |
+| CD1-10 | Amor De Loca Juventud |  |
+| CD1-11 | Orgullecida |  |
+| CD1-12 | Murmullo |  |
+| CD1-13 | Buena Vista Social Club |  |
+| CD1-14 | La Bayames |  |
+|  | CD2 (Previously Unreleased Bonus Tracks) |  |
+| CD2-1 | Chan Chan (Monitor Mix) |  |
+| CD2-2 | Vicenta |  |
+| CD2-3 | La Pluma |  |
+| CD2-4 | Dos Gardenias (Alternate Take) |  |
+| CD2-5 | Mandingo |  |
+| CD2-6 | Siboney |  |
+| CD2-7 | A Tus Pies |  |
+| CD2-8 | El Carretero (Alternate Take) |  |
+| CD2-9 | Ensayo |  |
+| CD2-10 | El Diablo Suelto |  |
+| CD2-11 | Saludo Compay |  |
+| CD2-12 | Descripción De Un Sueño |  |
+| CD2-13 | Pueblo Nuevo (Alternate Take) |  |
+| CD2-14 | La Cleptómana |  |
+| CD2-15 | ¿Y Tú Qué Has Hecho? (Alternate Take) |  |
+| CD2-16 | Orgullecida (Alternate Take) |  |
+| CD2-17 | Descarga Rubén |  |
+| CD2-18 | Candela (Alternate Take) |  |
+| CD2-19 | Orgullecida (Alternate Trio Take) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/buena-vista-social-club-presents/1474826904" >}}<br>
 
-
-## Videos
-### Buena Vista Social Club Full Album
-{{< youtube id="LX-SgU1uXYM" title="Buena Vista Social Club Full Album" >}}<br>
 
 
 ## Release Images
@@ -112,5 +113,5 @@ In 2020, the film was selected for preservation in the United States National Fi
 | Format         | All Media Deluxe Edition (Bookpack, 25th Anniversary), Vinyl 2× LP Album Reissue Remastered (180g), CD Album Reissue Remastered, CD |
 | Label          | World Circuit |
 | Catalog Number | WCV050BOX |
-| Notes | From hype sticker: 25th Anniversary Edition 2CD + 2LP Bookpack Includes: The original album remastered by [...] on CD & 2LP CD of previously unheard bonus tracks taken from the original 1996 session tapes (CD #2). 40 page book featuring new liner notes, photos, song notes, lyrics and a history of the original club 2x 12x12" Art Prints  Sides A to C and CD1 are 2021 remasters. Side D features bonus tracks and CD 2 previously unreleased bonus tracks.   Recorded in just seven days in 1996 at Havana's 1950 vintage EGREM studios.  A World Circuit Production  ℗ & © 2021 World Circuit Limited, a BMG company.  Made in Czech Republic.   BMG UK, 8th Floor, 5 Merchant Square, Paddington, London W2 1AS |
+| Notes | From hype sticker:<br>25th Anniversary Edition<br>2CD + 2LP Bookpack<br>Includes:<br>The original album remastered by [...] on CD & 2LP<br>CD of previously unheard bonus tracks taken from the original 1996 session tapes (CD #2).<br>40 page book featuring new liner notes, photos, song notes, lyrics and a history of the original club<br>2x 12x12" Art Prints<br><br>Sides A to C and CD1 are 2021 remasters. Side D features bonus tracks and CD 2 previously unreleased bonus tracks. <br><br>Recorded in just seven days in 1996 at Havana's 1950 vintage EGREM studios.<br><br>A World Circuit Production<br><br>℗ & © 2021 World Circuit Limited, a BMG company.<br><br>Made in Czech Republic. <br><br>BMG UK, 8th Floor, 5 Merchant Square, Paddington, London W2 1AS |
 | Discogs URL    | [Buena Vista Social Club - Buena Vista Social Club](https://www.discogs.com/release/20165404-Buena-Vista-Social-Club-Buena-Vista-Social-Club) |

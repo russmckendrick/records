@@ -4,6 +4,7 @@ artist_name: "Nina Simone"
 artist: "nina-simone"
 album_name: "Nina Simone Sings The Blues"
 date: 2016-12-19T17:44:48.000000Z
+release_date: "2007-05-22"
 release_id: "9485790"
 slug: "nina-simone-sings-the-blues-9485790"
 hideSummary: true
@@ -31,33 +32,31 @@ styles: []
 ---
 
 Sings the Blues is an album by singer/pianist/songwriter Nina Simone. This was Simone's first album for RCA Victor after previously recording for Colpix Records and Philips Records. The album was also reissued in 2006 with bonus tracks, and reissued in 1991 by RCA/Novus as a 17-track compilation under the title The Blues.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Do I Move You? (2:41)
-2. Day And Night (2:34)
-3. In The Dark (2:53)
-4. Real Real (2:17)
-5. My Man's Gone Now (4:13)
-6. Backlash Blues (2:14)
-7. I Want A Little Sugar In My Bowl (2:27)
-8. Buck (2:00)
-9. Since I Fell For You (2:44)
-10. The House Of The Rising Sun (3:55)
-11. Blues For Mama (3:52)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Do I Move You? | 2:41 |
+| A2 | Day And Night | 2:34 |
+| A3 | In The Dark | 2:53 |
+| A4 | Real Real | 2:17 |
+| A5 | My Man's Gone Now | 4:13 |
+| A6 | Backlash Blues | 2:14 |
+| B1 | I Want A Little Sugar In My Bowl | 2:27 |
+| B2 | Buck | 2:00 |
+| B3 | Since I Fell For You | 2:44 |
+| B4 | The House Of The Rising Sun | 3:55 |
+| B5 | Blues For Mama | 3:52 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/just-like-a-woman-nina-simone-sings-classic-songs-of-the-60s/253080824" >}}<br>
 
 
-## Videos
-### Nina Simone - Backlash Blues Official Audio
-{{< youtube id="0tllTDwQKV8" title="Nina Simone - Backlash Blues Official Audio" >}}<br>
-### More Videos
-
-- [Nina Simone - Blues for Mama Official Audio](https://www.youtube.com/watch?v=BDzzQ_3XjX8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +68,5 @@ Sings the Blues is an album by singer/pianist/songwriter Nina Simone. This was S
 | Format         | Vinyl LP Album Club Edition Reissue Stereo (Blue, Gatefold) |
 | Label          | RCA Victor |
 | Catalog Number | 88985317261 |
-| Notes | Gatefold sleeve. Comes with an art print and an extra liner with a cocktail recipe and album notes.  © 1967, 2016 RCA Records, a division of Sony Music Entertainment / Originally released 1967. Manufactured for Vinyl Me, Please by Sony Music Entertainment  Recorded in RCA Victor's Studio B, New York City.  Library of Congress Card Numbers R67-2922 (Mono) and R67-2923 (Stereo) apply to this recording.  Mastered from the original analog tapes [...] @ Sterling Sound, NYC |
+| Notes | Gatefold sleeve.<br>Comes with an art print and an extra liner with a cocktail recipe and album notes.<br><br>© 1967, 2016 RCA Records, a division of Sony Music Entertainment / Originally released 1967.<br>Manufactured for Vinyl Me, Please by Sony Music Entertainment<br><br>Recorded in RCA Victor's Studio B, New York City.<br><br>Library of Congress Card Numbers R67-2922 (Mono) and R67-2923 (Stereo) apply to this recording.<br><br>Mastered from the original analog tapes [...] @ Sterling Sound, NYC |
 | Discogs URL    | [Nina Simone - Nina Simone Sings The Blues](https://www.discogs.com/release/9485790-Nina-Simone-Nina-Simone-Sings-The-Blues) |

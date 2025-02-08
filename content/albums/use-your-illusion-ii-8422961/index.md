@@ -1,6 +1,6 @@
 ---
-title: "Guns N' Roses - Use Your Illusion II"
-artist_name: "Guns N' Roses"
+title: "Guns N Roses - Use Your Illusion II"
+artist_name: "Guns N Roses"
 artist: "guns-n-roses"
 album_name: "Use Your Illusion II"
 date: 2016-06-21T16:39:55.000000Z
@@ -10,8 +10,8 @@ slug: "use-your-illusion-ii-8422961"
 hideSummary: true
 cover:
     image: "use-your-illusion-ii-8422961.jpg"
-    alt: "Use Your Illusion II by Guns N' Roses"
-    caption: "Use Your Illusion II by Guns N' Roses"
+    alt: "Use Your Illusion II by Guns N Roses"
+    caption: "Use Your Illusion II by Guns N Roses"
 additional_images:
     - "https://i.discogs.com/bXvZ23uHPk__k-z2EYi27_MBA8EV-iils1xFY_WcYI0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjI5/NjEtMTU0MTQ4MTc0/NS0xMDE3LmpwZWc.jpeg"
     - "https://i.discogs.com/5rhnDi--QgGTUwDxt7huMaJxiui03d52DYhwpt4TJtU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjI5/NjEtMTU0MTQ4MjAx/Mi0zNjI2LmpwZWc.jpeg"
@@ -39,47 +39,28 @@ Both of its volumes seeing release on the same day, <I>Use Your Illusion</I> cam
 
 
 ## Tracklisting
-1. Civil War (7:42)
-2. 14 Years (4:21)
-3. Yesterdays (3:16)
-4. Knockin' On Heaven's Door (5:36)
-5. Get In The Ring (5:41)
-6. Shotgun Blues (3:23)
-7. Breakdown (7:04)
-8. Pretty Tied Up (4:47)
-9. Locomotive (8:42)
-10. So Fine (4:06)
-11. Estranged (9:23)
-12. You Could Be Mine (5:43)
-13. Don't Cry (Alt. Lyrics) (4:44)
-14. My World (1:23)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Civil War | 7:42 |
+| A2 | 14 Years | 4:21 |
+| A3 | Yesterdays | 3:16 |
+| A4 | Knockin' On Heaven's Door | 5:36 |
+| B1 | Get In The Ring | 5:41 |
+| B2 | Shotgun Blues | 3:23 |
+| B3 | Breakdown | 7:04 |
+| C1 | Pretty Tied Up | 4:47 |
+| C2 | Locomotive | 8:42 |
+| C3 | So Fine | 4:06 |
+| D1 | Estranged | 9:23 |
+| D2 | You Could Be Mine | 5:43 |
+| D3 | Don't Cry (Alt. Lyrics) | 4:44 |
+| D4 | My World | 1:23 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/use-your-illusion-ii/1389971138" >}}<br>
 
 
-## Videos
-### Guns N Roses - 14 Years Visualizer
-{{< youtube id="fBYsbYyYmNs" title="Guns N Roses - 14 Years Visualizer" >}}<br>
-### More Videos
-
-- [Guns N Roses - Use Your Illusion I  II Cassette 1991](https://www.youtube.com/watch?v=4DXsp_nBjA8)
-- [Guns N Roses - My World Visualizer](https://www.youtube.com/watch?v=wRQpnJ37Iw8)
-- [Guns N Roses - Pretty Tied Up The Perils Of Rock N Roll Decadence Visualizer](https://www.youtube.com/watch?v=PAQIchLSYmk)
-- [Guns N Roses - Estranged](https://www.youtube.com/watch?v=dpmAY059TTY)
-- [CD  Guns NRoses - Use Your Illusion II  1991](https://www.youtube.com/watch?v=fQ-qGSHpMMw)
-- [Guns N Roses  Breakdown](https://www.youtube.com/watch?v=KXPtCjxsTK4)
-- [Guns N Roses  Estranged](https://www.youtube.com/watch?v=Epg4iB97OUs)
-- [Guns N Roses  So Fine](https://www.youtube.com/watch?v=z9oIeVgOOGA)
-- [Guns N Roses  You Could Be Mine](https://www.youtube.com/watch?v=n5TuMNLTqno)
-- [Guns N Roses  My World](https://www.youtube.com/watch?v=H1CnAn27u5U)
-- [Guns N Roses  Locomotive](https://www.youtube.com/watch?v=p8N2EnmoMXI)
-- [Guns N Roses  Shotgun Blues](https://www.youtube.com/watch?v=GzOPrxIjuSQ)
-- [Guns N Roses  Pretty Tied Up](https://www.youtube.com/watch?v=GinkGTE1iQs)
-- [Guns N Roses  14 Years](https://www.youtube.com/watch?v=5NrDmT_lZ8U)
-- [Guns N Roses  Civil War](https://www.youtube.com/watch?v=qCPJBFct4ko)
-- [Guns N Roses  Dont Cry](https://www.youtube.com/watch?v=ESxRXX8fyuc)
-- [Guns N Roses  Yesterdays](https://www.youtube.com/watch?v=ee3GCpReMN0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -91,5 +72,5 @@ Both of its volumes seeing release on the same day, <I>Use Your Illusion</I> cam
 | Format         | Vinyl 2× LP Album Reissue Remastered Repress Stereo |
 | Label          | Geffen Records |
 | Catalog Number | 0720642442012 |
-| Notes | Similar to [r1821382] (Back To Back 180g Vinyl Remaster from 2008) except Back To Black is nowhere in evidence and it doesn't include the voucher to download MP3 version of the album. For release with RKS STERLING in only sides C and D runouts, use [r12159378].  2016 reissue with Made in the EU on back cover. Releases imported to US may have sticker on shrink wrap on back cover stating "Made in Czech Republic." |
-| Discogs URL    | [Guns N' Roses - Use Your Illusion II](https://www.discogs.com/release/8422961-Guns-N-Roses-Use-Your-Illusion-II) |
+| Notes | Similar to [r1821382] (Back To Back 180g Vinyl Remaster from 2008) except Back To Black is nowhere in evidence and it doesn't include the voucher to download MP3 version of the album. For release with RKS STERLING in only sides C and D runouts, use [r12159378].<br><br>2016 reissue with Made in the EU on back cover. Releases imported to US may have sticker on shrink wrap on back cover stating "Made in Czech Republic." |
+| Discogs URL    | [Guns N Roses - Use Your Illusion II](https://www.discogs.com/release/8422961-Guns-N-Roses-Use-Your-Illusion-II) |

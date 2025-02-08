@@ -4,6 +4,7 @@ artist_name: "Jon Bon Jovi"
 artist: "jon-bon-jovi"
 album_name: "Blaze Of Glory"
 date: 2018-09-07T18:30:44.000000Z
+release_date: "1982"
 release_id: "1972307"
 slug: "blaze-of-glory-1972307"
 hideSummary: true
@@ -24,36 +25,31 @@ styles: ["Soundtrack", "Rock & Roll", "Country Rock"]
 
 Blaze of Glory is the debut solo studio album by Jon Bon Jovi, the frontman of Bon Jovi. The album was released on August 7, 1990, through Mercury Records. It includes songs from and inspired by the movie Young Guns II. Emilio Estevez originally approached Bon Jovi to ask him for permission to include the song "Wanted Dead or Alive" on the soundtrack.
 Elton John, Little Richard, and Jeff Beck contributed to the album. It was awarded a Golden Globe and received Academy Award and Grammy nominations.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Billy Get Your Guns (4:48)
-2. Miracle (5:08)
-3. Blaze Of Glory (5:44)
-4. Blood Money (2:34)
-5. Santa Fe (5:40)
-6. Justice In The Barrel (6:47)
-7. Never Say Die (4:53)
-8. You Really Got Me Now (2:23)
-9. Bang A Drum (4:36)
-10. Dyin' Ain't Much Of A Livin' (4:39)
-11. Guano City (1:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Billy Get Your Guns | 4:48 |
+| A2 | Miracle | 5:08 |
+| A3 | Blaze Of Glory | 5:44 |
+| A4 | Blood Money | 2:34 |
+| A5 | Santa Fe | 5:40 |
+| B1 | Justice In The Barrel | 6:47 |
+| B2 | Never Say Die | 4:53 |
+| B3 | You Really Got Me Now | 2:23 |
+| B4 | Bang A Drum | 4:36 |
+| B5 | Dyin' Ain't Much Of A Livin' | 4:39 |
+| B6 | Guano City | 1:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blaze-of-glory/910055921" >}}<br>
 
 
-## Videos
-### Billy Get Your Guns From Young Guns II Soundtrack
-{{< youtube id="4nAxzn0--Oc" title="Billy Get Your Guns From Young Guns II Soundtrack" >}}<br>
-### More Videos
-
-- [Blood Money](https://www.youtube.com/watch?v=iQbnm-CCoh4)
-- [Santa Fe](https://www.youtube.com/watch?v=tpKd5Fa7798)
-- [Jon Bon Jovi - Blaze Of Glory](https://www.youtube.com/watch?v=MfmYCM4CS8o)
-- [Jon Bon Jovi - Miracle Official Video](https://www.youtube.com/watch?v=wnM9WEha5E0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +61,5 @@ Elton John, Little Richard, and Jeff Beck contributed to the album. It was award
 | Format         | Vinyl LP Album |
 | Label          | Vertigo |
 | Catalog Number | 846 473-1 |
-| Notes | Inspired by the film Young Guns II. Recorded and mixed at A&M Studios, Los Angeles, California.  Publishing Info:- A1 to B5: Polygram Music Publishing Ltd. B6: MCA Music Ltd. |
+| Notes | Inspired by the film Young Guns II.<br>Recorded and mixed at A&M Studios, Los Angeles, California.<br><br>Publishing Info:-<br>A1 to B5: Polygram Music Publishing Ltd.<br>B6: MCA Music Ltd. |
 | Discogs URL    | [Jon Bon Jovi - Blaze Of Glory](https://www.discogs.com/release/1972307-Jon-Bon-Jovi-Blaze-Of-Glory) |

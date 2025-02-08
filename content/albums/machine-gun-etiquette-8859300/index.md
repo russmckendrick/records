@@ -4,6 +4,7 @@ artist_name: "The Damned"
 artist: "the-damned"
 album_name: "Machine Gun Etiquette"
 date: 2023-02-05T09:50:08.000000Z
+release_date: "1979-12"
 release_id: "8859300"
 slug: "machine-gun-etiquette-8859300"
 hideSummary: true
@@ -24,42 +25,32 @@ styles: ["Punk"]
 
 Machine Gun Etiquette is the third studio album by English punk rock band the Damned, released on 9 November 1979 by Chiswick Records. The album peaked at No. 31 on the UK Charts
 The album was the group's first since reforming with a new lineup of previous members Dave Vanian on vocals, Captain Sensible on lead guitar, Rat Scabies on drums, plus newcomer Algy Ward of Australian punk band The Saints on bass guitar on his only album with the band.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Love Song (2:22)
-2. Machine Gun Etiquette (1:48)
-3. I Just Can't Be Happy Today (3:35)
-4. Melody Lee (2:02)
-5. Antipope (3:12)
-6. These Hands (2:05)
-7. Plan 9 Channel 7 (5:03)
-8. Noise Noise Noise (3:09)
-9. Looking At You (5:01)
-10. Liar (2:39)
-11. Smash It Up (Part 1) (1:56)
-12. Smash It Up (Part 2) (2:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Love Song | 2:22 |
+| A2 | Machine Gun Etiquette | 1:48 |
+| A3 | I Just Can't Be Happy Today | 3:35 |
+| A4 | Melody Lee | 2:02 |
+| A5 | Antipope | 3:12 |
+| A6 | These Hands | 2:05 |
+| B1 | Plan 9 Channel 7 | 5:03 |
+| B2 | Noise Noise Noise | 3:09 |
+| B3 | Looking At You | 5:01 |
+| B4 | Liar | 2:39 |
+| B5 | Smash It Up (Part 1) | 1:56 |
+| B6 | Smash It Up (Part 2) | 2:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/machine-gun-etiquette/1621373741" >}}<br>
 
 
-## Videos
-### Machine Gun Etiquette
-{{< youtube id="6gqxFAqCRYQ" title="Machine Gun Etiquette" >}}<br>
-### More Videos
-
-- [Smash It Up Pts 1  2](https://www.youtube.com/watch?v=z0VdIX2YM9c)
-- [I Just Cant Be Happy Today](https://www.youtube.com/watch?v=Qd529s4Ae30)
-- [Melody Lee](https://www.youtube.com/watch?v=VyLgixqK_1s)
-- [Anti-Pope](https://www.youtube.com/watch?v=zJ16UNwRm5M)
-- [These Hands](https://www.youtube.com/watch?v=WO45ZvujnpY)
-- [Noise Noise Noise](https://www.youtube.com/watch?v=Eq8aXdJzSUE)
-- [Liar](https://www.youtube.com/watch?v=wpZD8c3bvBI)
-- [Looking at You](https://www.youtube.com/watch?v=14PKjhC9Fnk)
-- [The Damned - Love Song Official Audio](https://www.youtube.com/watch?v=gc0och2Q_zg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +62,5 @@ The album was the group's first since reforming with a new lineup of previous me
 | Format         | Vinyl LP Album Reissue |
 | Label          | Ace |
 | Catalog Number | WIKD 333 |
-| Notes | Comes with an illustrated printed inner sleeve.  |
+| Notes | Comes with an illustrated printed inner sleeve.<br> |
 | Discogs URL    | [The Damned - Machine Gun Etiquette](https://www.discogs.com/release/8859300-The-Damned-Machine-Gun-Etiquette) |

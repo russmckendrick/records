@@ -4,6 +4,7 @@ artist_name: "Oceansize"
 artist: "oceansize"
 album_name: "Effloresce"
 date: 2016-12-01T19:02:20.000000Z
+release_date: "2003-09-29"
 release_id: "1460913"
 slug: "effloresce-1460913"
 hideSummary: true
@@ -27,34 +28,32 @@ In what has been described as "primary efflorescence", the water is the invader 
 Efflorescences can occur in natural and built environments. On porous construction materials it may present a cosmetic outer problem only (primary efflorescence causing staining), but can sometimes indicate internal structural weakness (migration/degradation of component materials).  Efflorescence may clog the pores of porous materials, resulting in the destruction of those materials by internal water pressure, as seen in the spalling of brick.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Am The Morning (4:18)
-2. Catalyst (6:40)
-3. One Day All This Could Be Yours (4:19)
-4. Massive Bereavement (9:59)
-5. Rinsed (3:58)
-6. You Wish (6:00)
-7. Remember Where You Are (5:22)
-8. Amputee (5:32)
-9. Unravel (2:50)
-10. Women Who Love Men Who Love Drugs (8:30)
-11. Saturday Morning Breakfast Show (9:04)
-12. Long Forgotten (8:57)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Am The Morning | 4:18 |
+| A2 | Catalyst | 6:40 |
+| A3 | One Day All This Could Be Yours | 4:19 |
+| B1 | Massive Bereavement | 9:59 |
+| B2 | Rinsed | 3:58 |
+| B3 | You Wish | 6:00 |
+| C1 | Remember Where You Are | 5:22 |
+| C2 | Amputee | 5:32 |
+| C3 | Unravel | 2:50 |
+| C4 | Women Who Love Men Who Love Drugs | 8:30 |
+| D1 | Saturday Morning Breakfast Show | 9:04 |
+| D2 | Long Forgotten | 8:57 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/effloresce-remastered/1292494003" >}}<br>
 
 
-## Videos
-### Oceansize - Catalyst
-{{< youtube id="tkNSLFb1e-I" title="Oceansize - Catalyst" >}}<br>
-### More Videos
-
-- [Oceansize - One Day All This Could Be Yours](https://www.youtube.com/watch?v=ZHCy8KlifXc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +65,5 @@ Efflorescences can occur in natural and built environments. On porous constructi
 | Format         | Vinyl 2× LP Album |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ 235 |
-| Notes | Mastered at Abbey Road Studios.    "Unravel" features a sample from Maurice Ravel's "Gaspard De La Nuit" by Sarah Cahill.  |
+| Notes | Mastered at Abbey Road Studios.<br><br>"Unravel" features a sample from Maurice Ravel's "Gaspard De La Nuit" by Sarah Cahill.<br> |
 | Discogs URL    | [Oceansize - Effloresce](https://www.discogs.com/release/1460913-Oceansize-Effloresce) |

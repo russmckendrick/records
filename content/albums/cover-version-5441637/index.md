@@ -4,6 +4,7 @@ artist_name: "Steven Wilson"
 artist: "steven-wilson"
 album_name: "Cover Version"
 date: 2016-12-20T18:37:54.000000Z
+release_date: "2005"
 release_id: "5441637"
 slug: "cover-version-5441637"
 hideSummary: true
@@ -32,43 +33,32 @@ styles: ["Folk", "Ambient", "Prog Rock"]
 ---
 
 Cover Version is a compilation album released in 2014 by British musician and record producer Steven Wilson. The album compiles the 12 songs originally released as six "2 song" singles. Every release was made up of one original song and one cover song that involved new interpretations of other artist's songs in ways much different from their original versions. The only exception to this format is in "The Unquiet Grave" which is actually an old English folk song, and not an original song written by Wilson.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Thank You (4:39)
-2. The Day Before You Came (5:06)
-3. A Forest (6:04)
-4. The Guitar Lesson (4:03)
-5. Sign 'O' The Times (3:55)
-6. Lord Of The Reedy River (5:03)
-7. Moment I Lost (3:12)
-8. Please Come Home (3:30)
-9. Four Trees Down (3:33)
-10. The Unquiet Grave (6:57)
-11. Well You're Wrong (3:35)
-12. An End To End (5:12)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Thank You | 4:39 |
+| A2 | The Day Before You Came | 5:06 |
+| A3 | A Forest | 6:04 |
+| B4 | The Guitar Lesson | 4:03 |
+| B5 | Sign 'O' The Times | 3:55 |
+| B6 | Lord Of The Reedy River | 5:03 |
+| C7 | Moment I Lost | 3:12 |
+| C8 | Please Come Home | 3:30 |
+| C9 | Four Trees Down | 3:33 |
+| D10 | The Unquiet Grave | 6:57 |
+| D11 | Well You're Wrong | 3:35 |
+| D12 | An End To End | 5:12 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cover-version/883692149" >}}<br>
 
 
-## Videos
-### Steven Wilson - A Forest The Cure cover
-{{< youtube id="dqzX26jkM-g" title="Steven Wilson - A Forest The Cure cover" >}}<br>
-### More Videos
-
-- [Steven Wilson - A Forest The Cure cover](https://www.youtube.com/watch?v=dqzX26jkM-g)
-- [Steven Wilson - The Day Before You Came ABBA Cover from Cover Version](https://www.youtube.com/watch?v=qcj1gOGNrhc)
-- [Steven Wilson Cover Versions IVwmv](https://www.youtube.com/watch?v=iuwzIU2wVxU)
-- [Steven Wilson-Cover version VI](https://www.youtube.com/watch?v=Gtx-TQzDzy8)
-- [Steven Wilson - Cover Version III](https://www.youtube.com/watch?v=Ord7eGkWxVc)
-- [Steven Wilson-The Unquiet Grave HQ 1080p](https://www.youtube.com/watch?v=Eaw4Ndj1QAo)
-- [Please Come Home  Steven Wilson](https://www.youtube.com/watch?v=iNI1T4BR1Nk)
-- [Steven Wilson - Well Youre WrongCover Version V](https://www.youtube.com/watch?v=QwA0xgk-VVg)
-- [Steven Wilson - An End To An EndCover Version VI](https://www.youtube.com/watch?v=_eVMIDd8NqE)
-- [Steven Wilson- Four Trees Down](https://www.youtube.com/watch?v=3mR8xXy8GFs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +70,5 @@ Cover Version is a compilation album released in 2014 by British musician and re
 | Format         | Vinyl 2× LP Compilation (180g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE858 |
-| Notes | Gatefold sleeve and printed innersleeves. Tracks listed sequentially on rear cover. |
+| Notes | Gatefold sleeve and printed innersleeves.<br>Tracks listed sequentially on rear cover. |
 | Discogs URL    | [Steven Wilson - Cover Version](https://www.discogs.com/release/5441637-Steven-Wilson-Cover-Version) |

@@ -4,6 +4,7 @@ artist_name: "The Stranglers"
 artist: "the-stranglers"
 album_name: "The History Of Rock (Volume Thirty One)"
 date: 2018-12-28T17:39:26.000000Z
+release_date: ""
 release_id: "1996636"
 slug: "the-history-of-rock-volume-thirty-one-1996636"
 hideSummary: true
@@ -24,36 +25,43 @@ styles: ["Punk", "New Wave", "Pop Rock", "Ska"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Get A Grip On Yourself
-2. Peaches
-3. No More Heroes
-4. Nice'N' Sleazy
-5. Walk On By
-6. Golden Brown
-7. Anarchy In The UK
-8. Smash It Up
-9. Have You Ever Fallen In Love
-10. Your Generation
-11. Alternative Ulster
-12. 12 X U
-13. Little Girl
-14. Take Me I'm Yours
-15. Cool For Cats
-16. Up The Junction
-17. Pulling Mussels (From The Shell)
-18. Tempted
-19. Labelled With Love
-20. Gangsters
-21. The Tears Of A Clown
-22. Too Much Too Young
-23. The Prince
-24. On My Radio
-25. Do Nothing
-26. Let's Do Rock Steady
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Get A Grip On Yourself |  |
+| A2 | Peaches |  |
+| A3 | No More Heroes |  |
+| A4 | Nice'N' Sleazy |  |
+| A5 | Walk On By |  |
+| A6 | Golden Brown |  |
+| B1 | Anarchy In The UK |  |
+| B2 | Smash It Up |  |
+| B3 | Have You Ever Fallen In Love |  |
+| B4 | Your Generation |  |
+| B5 | Alternative Ulster |  |
+| B6 | 12 X U |  |
+| B7 | Little Girl |  |
+| C1 | Take Me I'm Yours |  |
+| C2 | Cool For Cats |  |
+| C3 | Up The Junction |  |
+| C4 | Pulling Mussels (From The Shell) |  |
+| C5 | Tempted |  |
+| C6 | Labelled With Love |  |
+| D1 | Gangsters |  |
+| D2 | The Tears Of A Clown |  |
+| D3 | Too Much Too Young |  |
+| D4 | The Prince |  |
+| D5 | On My Radio |  |
+| D6 | Do Nothing |  |
+| D7 | Let's Do Rock Steady |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 

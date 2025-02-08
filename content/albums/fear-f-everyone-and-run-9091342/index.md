@@ -4,6 +4,7 @@ artist_name: "Marillion"
 artist: "marillion"
 album_name: "FEAR (F*** Everyone And Run)"
 date: 2016-09-26T17:20:44.000000Z
+release_date: "2016-09-23"
 release_id: "9091342"
 slug: "fear-f-everyone-and-run-9091342"
 hideSummary: true
@@ -30,28 +31,25 @@ styles: ["Prog Rock", "Art Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. El Dorado (16:46)
-2. Living In F E A R (6:25)
-3. White Paper (7:19)
-4. The Leavers (19:08)
-5. The New Kings (16:45)
-6. Tomorrow's New Country (1:47)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | El Dorado | 16:46 |
+| B1 | Living In F E A R | 6:25 |
+| B2 | White Paper | 7:19 |
+|  | The Leavers | 19:08 |
+|  | The New Kings | 16:45 |
+| D5 | Tomorrow's New Country | 1:47 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fuck-everyone-and-run-f-e-a-r/1132145830" >}}<br>
 
 
-## Videos
-### The New Kings i Fuck Everyone and Run
-{{< youtube id="Q0X6YN3ENU4" title="The New Kings i Fuck Everyone and Run" >}}<br>
-### More Videos
-
-- [The New Kings i Fuck Everyone and Run](https://www.youtube.com/watch?v=xFOCKzKPs5c)
-- [The New Kings i Fuck Everyone and Run](https://www.youtube.com/watch?v=Q0X6YN3ENU4)
-- [The New Kings i Fuck Everyone and Run](https://www.youtube.com/watch?v=xFOCKzKPs5c)
-- [Marillion Living in F E A R Official Music Video](https://www.youtube.com/watch?v=23YiX8UgT_Q)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +60,5 @@ styles: ["Prog Rock", "Art Rock"]
 | Format         | Vinyl 2× LP Album |
 | Label          | Ear Music |
 | Catalog Number | 0211265EMU |
-| Notes | Comes in a gatefold cover, including colour printed inner sleeves, containing lyrics.  Recorded at The Racket Club, Bucks and Real World, Box.  ℗&© 2016 Intact Records under exclusive license to Edel Germany GmbH. Made in Germany |
+| Notes | Comes in a gatefold cover, including colour printed inner sleeves, containing lyrics.<br><br>Recorded at The Racket Club, Bucks and Real World, Box.<br><br>℗&© 2016 Intact Records under exclusive license to Edel Germany GmbH.<br>Made in Germany |
 | Discogs URL    | [Marillion - FEAR (F*** Everyone And Run)](https://www.discogs.com/release/9091342-Marillion-FEAR-F-Everyone-And-Run) |

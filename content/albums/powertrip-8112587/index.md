@@ -4,6 +4,7 @@ artist_name: "Monster Magnet"
 artist: "monster-magnet"
 album_name: "Powertrip"
 date: 2016-07-10T09:50:06.000000Z
+release_date: "1998-01-01"
 release_id: "8112587"
 slug: "powertrip-8112587"
 hideSummary: true
@@ -30,54 +31,36 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 Powertrip is the fourth studio album by American rock band Monster Magnet, released on June 16, 1998. The album was the band's commercial breakthrough, achieving mainstream success due largely to the hit single "Space Lord". Other hit songs on the album include "Powertrip", "Temple of Your Dreams", and "See You in Hell". The album itself, reached #1 on the Heatseekers Charts, #21 in the German Charts, #65 in the UK Charts, and #97 on the Billboard 200. The album was certified gold by the RIAA on January 25, 1999. Music videos were made for the songs "Space Lord", "Powertrip", and "See You in Hell".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Crop Circle
-2. Powertrip
-3. Space Lord
-4. Temple Of Your Dreams
-5. Bummer
-6. Baby Götterdämerung
-7. 19 Witches
-8. 3rd Eye Landslide
-9. See You In Hell
-10. Tractor
-11. Atomic Clock
-12. Goliath And The Vampires
-13. Your Lies Become You
-14. Big God (B-Side)
-15. The Game (B-Side)
-16. Space Lord (Intergalactic 7 Remix)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Crop Circle |  |
+| A2 | Powertrip |  |
+| A3 | Space Lord |  |
+| A4 | Temple Of Your Dreams |  |
+| B1 | Bummer |  |
+| B2 | Baby Götterdämerung |  |
+| B3 | 19 Witches |  |
+| B4 | 3rd Eye Landslide |  |
+| B5 | See You In Hell |  |
+| C1 | Tractor |  |
+| C2 | Atomic Clock |  |
+| C3 | Goliath And The Vampires |  |
+| C4 | Your Lies Become You |  |
+| D1 | Big God (B-Side) |  |
+| D2 | The Game (B-Side) |  |
+| D3 | Space Lord (Intergalactic 7 Remix) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/powertrip/1713565496" >}}<br>
 
 
-## Videos
-### Monster Magnet - Powertrip
-{{< youtube id="jE7Zv6d-HUA" title="Monster Magnet - Powertrip" >}}<br>
-### More Videos
-
-- [Monster Magnet  Temple Of Your Dreams](https://www.youtube.com/watch?v=1JLcNRtr7nQ)
-- [Monster Magnet  Baby Götterdämerung](https://www.youtube.com/watch?v=8nOtaymIzrw)
-- [Monster Magnet  19 Witches](https://www.youtube.com/watch?v=tkLRAQyaofg)
-- [Monster Magnet  Powertrip](https://www.youtube.com/watch?v=KbsMDpG5rBc)
-- [Monster Magnet  Crop Circle](https://www.youtube.com/watch?v=qVWYwtzuVKc)
-- [Monster Magnet  Your Lies Become You](https://www.youtube.com/watch?v=ltKDeAFrh3Q)
-- [Monster Magnet  Goliath And The Vampires](https://www.youtube.com/watch?v=n29h6TEtr_A)
-- [Monster Magnet  Atomic Clock](https://www.youtube.com/watch?v=zfboZd9HLIo)
-- [Monster Magnet  Space Lord](https://www.youtube.com/watch?v=doSPqAG77Qw)
-- [Monster Magnet  Bummer](https://www.youtube.com/watch?v=AB_etD1NAEg)
-- [Monster Magnet  3rd Eye Landslide](https://www.youtube.com/watch?v=erlKlvbUIlw)
-- [Monster Magnet  See You In Hell](https://www.youtube.com/watch?v=MRrEUZLWD9o)
-- [Monster Magnet  Tractor](https://www.youtube.com/watch?v=NaAdOY4a--Q)
-- [Tractor](https://www.youtube.com/watch?v=ZjalSU6Gq5U)
-- [Your Lies become You](https://www.youtube.com/watch?v=Wpn_2-oiwEM)
-- [Monster Magnet - See You In Hell Revised Final Cut](https://www.youtube.com/watch?v=e9hQ2C5d9Qk)
-- [Monster Magnet - Space Lord](https://www.youtube.com/watch?v=dscfeQOMuGw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -89,5 +72,5 @@ Powertrip is the fourth studio album by American rock band Monster Magnet, relea
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Spinefarm Records |
 | Catalog Number | 00600753637661 |
-| Notes | Black vinyl. Printed inner sleeves.  Hype sticker on the shrink-wrap: MONSTER MAGNET OFFICIAL RE-ISSUE 2LP SET RE-MASTERED FOR MAXIMUM POWERTRIPPIN! "Swing's like God's Own Dick!" Includes sleeve-notes & bonus studio + remixed material Includes Free Album Download Code 00600753637661  Recorded at North Vine Studios and NRG Recording Services. Mixed at The Armoury Studios, Vancouver, BC, Chapel Studios, Encino, CA, Larrabee West, Hollywood, CA, and A&M Recording Studios, Hollywood, CA. Mastered at Precision Sound Studios, Los Angeles, CA.  All songs published by Bull God Music Inc./Songs of PolyGram International, Inc. (BMI)  Original Sound Recording Made by A&M Records Ltd.  ℗ & © 2015 Spinefarm Records. A Universal Music Group Company. Made in the EU. |
+| Notes | Black vinyl. Printed inner sleeves.<br><br>Hype sticker on the shrink-wrap:<br>MONSTER MAGNET<br>OFFICIAL RE-ISSUE<br>2LP SET RE-MASTERED FOR MAXIMUM POWERTRIPPIN!<br>"Swing's like God's Own Dick!"<br>Includes sleeve-notes & bonus studio + remixed material<br>Includes Free Album Download Code<br>00600753637661<br><br>Recorded at North Vine Studios and NRG Recording Services.<br>Mixed at The Armoury Studios, Vancouver, BC, Chapel Studios, Encino, CA, Larrabee West, Hollywood, CA, and A&M Recording Studios, Hollywood, CA.<br>Mastered at Precision Sound Studios, Los Angeles, CA.<br><br>All songs published by Bull God Music Inc./Songs of PolyGram International, Inc. (BMI)<br><br>Original Sound Recording Made by A&M Records Ltd.<br><br>℗ & © 2015 Spinefarm Records.<br>A Universal Music Group Company.<br>Made in the EU. |
 | Discogs URL    | [Monster Magnet - Powertrip](https://www.discogs.com/release/8112587-Monster-Magnet-Powertrip) |

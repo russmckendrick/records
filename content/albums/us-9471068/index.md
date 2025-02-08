@@ -43,33 +43,24 @@ But Gabriel’s forward-thinking musicianship on <i>Melt</i> scared record execs
 
 
 ## Tracklisting
-1. Come Talk To Me (7:06)
-2. Love To Be Loved (5:17)
-3. Blood Of Eden (6:39)
-4. Steam (6:03)
-5. Only Us (6:32)
-6. Washing Of The Water (3:52)
-7. Digging In The Dirt (5:18)
-8. Fourteen Black Paintings (4:38)
-9. Kiss That Frog (5:20)
-10. Secret World (7:03)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Come Talk To Me | 7:06 |
+| A2 | Love To Be Loved | 5:17 |
+| A3 | Blood Of Eden | 6:39 |
+| B1 | Steam | 6:03 |
+| B2 | Only Us | 6:32 |
+| C1 | Washing Of The Water | 3:52 |
+| C2 | Digging In The Dirt | 5:18 |
+| C3 | Fourteen Black Paintings | 4:38 |
+| D1 | Kiss That Frog | 5:20 |
+| D2 | Secret World | 7:03 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-3-melt-remastered/986713177" >}}<br>
 
 
-## Videos
-### Peter Gabriel - Digging In The Dirt 1992 vinyl audio
-{{< youtube id="Zfa6_Sg69OE" title="Peter Gabriel - Digging In The Dirt 1992 vinyl audio" >}}<br>
-### More Videos
-
-- [Peter Gabriel - Blood Of Eden](https://www.youtube.com/watch?v=3XhDGkg8SpQ)
-- [Peter Gabriel - Steam](https://www.youtube.com/watch?v=Qt87bLX7m_o)
-- [Peter Gabriel - Digging In The Dirt](https://www.youtube.com/watch?v=X0C3DHp36zc)
-- [Only Us](https://www.youtube.com/watch?v=nSMsOYGKw7A)
-- [Love To Be Loved](https://www.youtube.com/watch?v=fV5f4MMrTVM)
-- [Come Talk To Me](https://www.youtube.com/watch?v=12xFB3zXBSg)
-- [Secret World](https://www.youtube.com/watch?v=fUyhI7bc2N0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +72,5 @@ But Gabriel’s forward-thinking musicianship on <i>Melt</i> scared record execs
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Real World Records |
 | Catalog Number | PGLPR7 |
-| Notes | 180 Gram Vinyl, Half Speed Remaster. Includes Hi-Res Download Code.  ℗ & © 2016 Peter Gabriel Ltd  England  In runouts PGLPR7 and everything behind is handwritten. 15481 and everything behind is stamped.   |
+| Notes | 180 Gram Vinyl, Half Speed Remaster.<br>Includes Hi-Res Download Code.<br><br>℗ & © 2016 Peter Gabriel Ltd<br><br>England<br><br>In runouts PGLPR7 and everything behind is handwritten. 15481 and everything behind is stamped. <br> |
 | Discogs URL    | [Peter Gabriel - Us](https://www.discogs.com/release/9471068-Peter-Gabriel-Us) |

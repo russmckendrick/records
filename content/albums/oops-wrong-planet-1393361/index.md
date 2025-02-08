@@ -1,9 +1,10 @@
 ---
 title: "Utopia - Oops! Wrong Planet"
 artist_name: "Utopia"
-artist: "utopia-5"
+artist: "utopia"
 album_name: "Oops! Wrong Planet"
 date: 2022-03-06T04:57:20.000000Z
+release_date: "1977-09-01"
 release_id: "1393361"
 slug: "oops-wrong-planet-1393361"
 hideSummary: true
@@ -27,37 +28,32 @@ Oops! peaked at No. 77 on the Billboard album chart in 1977.
 "Love is the Answer" later became a hit for England Dan & John Ford Coley, charting #1 on the Billboard Adult Contemporary list in 1979.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Trapped (3:06)
-2. Windows (4:17)
-3. Love In Action (3:26)
-4. Crazy Lady Blue (3:37)
-5. Back On The Street (4:09)
-6. The Marriage Of Heaven And Hell (4:33)
-7. The Martyr (3:48)
-8. Abandon City (3:49)
-9. Gangrene (3:36)
-10. My Angel (3:40)
-11. Rape Of The Young (3:11)
-12. Love Is The Answer (4:10)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Trapped | 3:06 |
+| A2 | Windows | 4:17 |
+| A3 | Love In Action | 3:26 |
+| A4 | Crazy Lady Blue | 3:37 |
+| A5 | Back On The Street | 4:09 |
+| A6 | The Marriage Of Heaven And Hell | 4:33 |
+| B1 | The Martyr | 3:48 |
+| B2 | Abandon City | 3:49 |
+| B3 | Gangrene | 3:36 |
+| B4 | My Angel | 3:40 |
+| B5 | Rape Of The Young | 3:11 |
+| B6 | Love Is The Answer | 4:10 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/oops-wrong-planet/129641944" >}}<br>
 
 
-## Videos
-### Utopia - Abandon City
-{{< youtube id="Wyiu68va3mA" title="Utopia - Abandon City" >}}<br>
-### More Videos
-
-- [Utopia-My angel](https://www.youtube.com/watch?v=GpW8WXlC094)
-- [Windows  Utopia 1977](https://www.youtube.com/watch?v=1m08iCofGoA)
-- [Utopia - Love Is The Answer](https://www.youtube.com/watch?v=YadkaBwxazE)
-- [Utopia- Trapped](https://www.youtube.com/watch?v=tOAdhIWpgk8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +65,5 @@ Oops! peaked at No. 77 on the Billboard album chart in 1977.
 | Format         | Vinyl LP Album |
 | Label          | Bearsville |
 | Catalog Number | K 55517 |
-| Notes | Recorded at Utopia Sound The Message: Use your head, use your heart, save yourselves Printed inner sleeve: photo one side / lyrics other side ℗ & © 1977 [Warner logo] Made in UK Additional cat# (cover back, right top, and on labels): BR 6970  |
+| Notes | Recorded at Utopia Sound<br>The Message: Use your head, use your heart, save yourselves<br>Printed inner sleeve: photo one side / lyrics other side<br>℗ & © 1977 [Warner logo]<br>Made in UK<br>Additional cat# (cover back, right top, and on labels): BR 6970<br> |
 | Discogs URL    | [Utopia - Oops! Wrong Planet](https://www.discogs.com/release/1393361-Utopia-5-Oops-Wrong-Planet) |

@@ -4,6 +4,7 @@ artist_name: "Todd Rundgren"
 artist: "todd-rundgren"
 album_name: "Back To The Bars"
 date: 2022-03-06T04:59:42.000000Z
+release_date: "1978-12"
 release_id: "1549510"
 slug: "back-to-the-bars-1549510"
 hideSummary: true
@@ -27,44 +28,44 @@ The album was recorded during week-long stints in New York City (The Bottom Line
 Despite a hard push to replicate the success of Frampton Comes Alive!, Back to the Bars did not generate any significant singles or lift for Rundgren.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Real Man
-2. Love Of The Common Man
-3. The Verb "To Love"
-4. Love In Action
-5. A Dream Goes On Forever
-6. Sometimes I Don't Know What To Feel
-7. The Range War
-8. Black And White
-9. The Last Ride
-10. Cliches
-11. Don't You Ever Learn?
-12. Never Never Land
-13. Black Maria
-14. Zen Archer
-15. Medley
-16. I'm So Proud
-17. Oh Baby Baby
-18. La La Means I Love You
-19. I Saw The Light
-20. -
-21. It Wouldn't Have Made Any Difference
-22. Eastern Intrigue
-23. Initiation
-24. Couldn't I Just Tell You
-25. Hello It's Me
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Real Man |  |
+| A2 | Love Of The Common Man |  |
+| A3 | The Verb "To Love" |  |
+| A4 | Love In Action |  |
+| A5 | A Dream Goes On Forever |  |
+| B1 | Sometimes I Don't Know What To Feel |  |
+| B2 | The Range War |  |
+| B3 | Black And White |  |
+| B4 | The Last Ride |  |
+| B5 | Cliches |  |
+| B6 | Don't You Ever Learn? |  |
+| C1 | Never Never Land |  |
+| C2 | Black Maria |  |
+| C3 | Zen Archer |  |
+|  | Medley |  |
+| C4a | I'm So Proud |  |
+| C4b | Oh Baby Baby |  |
+| C4c | La La Means I Love You |  |
+| C4d | I Saw The Light |  |
+|  | - |  |
+| D1 | It Wouldn't Have Made Any Difference |  |
+| D2 | Eastern Intrigue |  |
+| D3 | Initiation |  |
+| D4 | Couldn't I Just Tell You |  |
+| D5 | Hello It's Me |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/back-to-the-bars-live/1084024177" >}}<br>
 
-
-## Videos
-### Todd Rundgren Vinyl Back to the Bars full album
-{{< youtube id="dy-4Rzrkwv4" title="Todd Rundgren Vinyl Back to the Bars full album" >}}<br>
 
 
 ## Release Images
@@ -77,5 +78,5 @@ Despite a hard push to replicate the success of Frampton Comes Alive!, Back to t
 | Format         | Vinyl 2× LP |
 | Label          | Bearsville |
 | Catalog Number | K 65511 |
-| Notes | Recorded live at The Bottom Line in New York, The Roxy in Los Angeles and the Agora in Cleveland    Manufactured in the UK.    Gatefold sleeve. Comes with picture inner sleeve.    Has the cat. # as K65511 on the back and spine of the outer sleeve and on the inner sleeves.   |
+| Notes | Recorded live at The Bottom Line in New York, The Roxy in Los Angeles and the Agora in Cleveland<br><br>Manufactured in the UK.<br><br>Gatefold sleeve. Comes with picture inner sleeve.<br><br>Has the cat. # as K65511 on the back and spine of the outer sleeve and on the inner sleeves.<br> |
 | Discogs URL    | [Todd Rundgren - Back To The Bars](https://www.discogs.com/release/1549510-Todd-Rundgren-Back-To-The-Bars) |

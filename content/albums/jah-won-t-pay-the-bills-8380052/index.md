@@ -1,9 +1,10 @@
 ---
 title: "Sublime - Jah Won't Pay The Bills"
 artist_name: "Sublime"
-artist: "sublime-2"
+artist: "sublime"
 album_name: "Jah Won't Pay The Bills"
 date: 2016-05-11T16:54:57.000000Z
+release_date: "1991-01-01"
 release_id: "8380052"
 slug: "jah-won-t-pay-the-bills-8380052"
 hideSummary: true
@@ -21,32 +22,29 @@ styles: ["Reggae", "Punk", "Ska"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. D.J.s
-2. Badfish
-3. Lets Go Get Stoned
-4. Newsong
-5. Had a Dat
-6. Don't Push
-7. Ball and Chain
-8. Slowride
-9. Date Rape
-10. Live at E's
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | D.J.s |  |
+| A2 | Badfish |  |
+| A3 | Lets Go Get Stoned |  |
+| A4 | Newsong |  |
+| A5 | Had a Dat |  |
+| B1 | Don't Push |  |
+| B2 | Ball and Chain |  |
+| B3 | Slowride |  |
+| B4 | Date Rape |  |
+| B5 | Live at E's |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/jah-wont-pay-the-bills-2016-edition/1443218407" >}}<br>
 
 
-## Videos
-### Sublime - Jah Wont Pay The Bills Record Store Day 2016
-{{< youtube id="iO4ll__JMrQ" title="Sublime - Jah Wont Pay The Bills Record Store Day 2016" >}}<br>
-### More Videos
-
-- [Sublime - Jah Wont Pay The Bills - 07 - Slowride](https://www.youtube.com/watch?v=39JvLs7zLu4)
-- [Sublime - Jah Wont Pay The Bills Record Store Day 2016](https://www.youtube.com/watch?v=iO4ll__JMrQ)
-- [Sublime - Jah Wont Pay The Bills - 07 - Slowride](https://www.youtube.com/watch?v=39JvLs7zLu4)
-- [SUBLIME - DJs - Jah Wont Pay The Bills cassette](https://www.youtube.com/watch?v=uPEBQypmZV8)
 
 ## Release Images
 {{< imageGrid >}}

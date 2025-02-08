@@ -4,6 +4,7 @@ artist_name: "Orchestral Manoeuvres In The Dark"
 artist: "orchestral-manoeuvres-in-the-dark"
 album_name: "Dazzle Ships"
 date: 2018-11-03T11:02:18.000000Z
+release_date: "1980-02-22"
 release_id: "12746014"
 slug: "dazzle-ships-12746014"
 hideSummary: true
@@ -30,44 +31,32 @@ The follow-up album to OMD's commercially successful Architecture & Morality (19
 Dazzle Ships met with largely negative reviews and, despite reaching the top five of the UK Albums Chart, was regarded as a commercial flop. It nevertheless came to be recognised as a "cult classic", and an inspiration for many artists across electronic, rock and hip hop music. The music press gradually reversed its opinion of Dazzle Ships, praising the record as an underrated and misunderstood work, and an album ahead of its time.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Radio Prague (1:18)
-2. Genetic Engineering (3:42)
-3. ABC Auto-Industry (2:06)
-4. Telegraph (2:57)
-5. This Is Helena (1:58)
-6. International (4:26)
-7. Dazzle Ships (Parts II, III & VII) (2:21)
-8. The Romance Of The Telescope (3:26)
-9. Silent Running (3:33)
-10. Radio Waves (3:44)
-11. Time Zones (1:49)
-12. Of All The Things We've Made (3:23)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Radio Prague | 1:18 |
+| A2 | Genetic Engineering | 3:42 |
+| A3 | ABC Auto-Industry | 2:06 |
+| A4 | Telegraph | 2:57 |
+| A5 | This Is Helena | 1:58 |
+| A6 | International | 4:26 |
+| B7 | Dazzle Ships (Parts II, III & VII) | 2:21 |
+| B8 | The Romance Of The Telescope | 3:26 |
+| B9 | Silent Running | 3:33 |
+| B10 | Radio Waves | 3:44 |
+| B11 | Time Zones | 1:49 |
+| B12 | Of All The Things We've Made | 3:23 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/orchestral-manoeuvres-in-the-dark/714727396" >}}<br>
 
 
-## Videos
-### Radio Prague
-{{< youtube id="9oWSJpIHhYk" title="Radio Prague" >}}<br>
-### More Videos
-
-- [Orchestral Manoeuvres In The Dark - Genetic Engineering](https://www.youtube.com/watch?v=OddgsPyCJmU)
-- [ABC Auto-Industry](https://www.youtube.com/watch?v=fiYgNf9cHnw)
-- [Orchestral Manoeuvres In The Dark - Telegraph](https://www.youtube.com/watch?v=rXXM60niKbg)
-- [This Is Helena](https://www.youtube.com/watch?v=eW7IPtWG26I)
-- [International](https://www.youtube.com/watch?v=erhpHvPVxuo)
-- [Dazzle Ships Parts II III And VII](https://www.youtube.com/watch?v=wy3IxefErus)
-- [The Romance Of The Telescope](https://www.youtube.com/watch?v=DHuNv-yfRK4)
-- [Silent Running](https://www.youtube.com/watch?v=aO5z33JrRJU)
-- [Radio Waves](https://www.youtube.com/watch?v=Evas4RwWg-I)
-- [Time Zones](https://www.youtube.com/watch?v=lwx8A0XUpfM)
-- [Of All The Things Weve Made](https://www.youtube.com/watch?v=HgNBbUiAaQo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +68,5 @@ Dazzle Ships met with largely negative reviews and, despite reaching the top fiv
 | Format         | Vinyl LP Album Reissue |
 | Label          | Telegraph (2) |
 | Catalog Number | 0602567731630 |
-| Notes | Die-cut, Gatefold sleeve with the right hand side holding the LP and the left hand side being a single page only without a 'pocket'. Includes a colour printed inner sleeve and download code.  [Sticker on shrinkwrap] A Virgin EMI Records release ℗ 1983 Virgin Records Limited © 2018 Virgin Records Limited Universal International Music B.V. Gerritt Van Der Veeniaan 4, 3743 Dn, Baarn, Netherlands. [Inner sleeve] A Virgin EMI Records release. ℗ 1983 Virgin Records Ltd. *℗ 1981 Virgin Records Ltd. *"The Romance Of The Telescope" and "Of All The Things We've Made" ©2018 Virgin Records Ltd.  [Label side A] A Virgin EMI Records release ℗ 1983 Virgin Records Limited. © 2018 Virgin Records Limited. [Label side B] A Virgin EMI Records release ℗ 1983 Virgin Records Limited. except 8 & 12 ℗ 1981 Virgin Records Limited. © 2018 Virgin Records Ltd.  Made in the EU.  Recorded at The Gramophone Suite, Gallery Studio, Mayfair Studio. Mixed at The Manor Studios. Produced for Telegraph and on behalf of White Noise Limited. Bugle on "This Is Helena" courtesy of BBC Records/RAD 126. Original tapes for "Dazzle Ships" supplied by Sound Centre Radio.  Tracks are numbered sequentially on the labels, without being numbered elsewhere on the release.  "Dazzle Ships" title suggested by [url=https://www.discogs.com/artist/1069010-Peter-Saville-2]Peter Saville[/url] after a painting by Edward Wadsworth. |
+| Notes | Die-cut, Gatefold sleeve with the right hand side holding the LP and the left hand side being a single page only without a 'pocket'.<br>Includes a colour printed inner sleeve and download code.<br><br>[Sticker on shrinkwrap]<br>A Virgin EMI Records release ℗ 1983 Virgin Records Limited<br>© 2018 Virgin Records Limited<br>Universal International Music B.V. Gerritt Van Der Veeniaan 4,<br>3743 Dn, Baarn, Netherlands.<br>[Inner sleeve]<br>A Virgin EMI Records release.<br>℗ 1983 Virgin Records Ltd.<br>*℗ 1981 Virgin Records Ltd. *"The Romance Of The Telescope" and "Of All The Things We've Made"<br>©2018 Virgin Records Ltd.<br><br>[Label side A]<br>A Virgin EMI Records release<br>℗ 1983 Virgin Records Limited.<br>© 2018 Virgin Records Limited.<br>[Label side B]<br>A Virgin EMI Records release<br>℗ 1983 Virgin Records Limited.<br>except 8 & 12 ℗ 1981 Virgin Records Limited.<br>© 2018 Virgin Records Ltd.<br><br>Made in the EU.<br><br>Recorded at The Gramophone Suite, Gallery Studio, Mayfair Studio.<br>Mixed at The Manor Studios.<br>Produced for Telegraph and on behalf of White Noise Limited.<br>Bugle on "This Is Helena" courtesy of BBC Records/RAD 126.<br>Original tapes for "Dazzle Ships" supplied by Sound Centre Radio.<br><br>Tracks are numbered sequentially on the labels, without being numbered elsewhere on the release.<br><br>"Dazzle Ships" title suggested by [url=https://www.discogs.com/artist/1069010-Peter-Saville-2]Peter Saville[/url] after a painting by Edward Wadsworth. |
 | Discogs URL    | [Orchestral Manoeuvres In The Dark - Dazzle Ships](https://www.discogs.com/release/12746014-OMD-Dazzle-Ships) |

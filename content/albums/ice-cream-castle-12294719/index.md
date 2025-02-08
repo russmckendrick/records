@@ -32,27 +32,20 @@ Despite two solid albums of hard, mostly Prince-created funk, the Time didn't br
 
 
 ## Tracklisting
-1. Ice Cream Castles (7:33)
-2. My Drawers (4:04)
-3. Chilli Sauce (3:43)
-4. Jungle Love (3:29)
-5. If The Kid Can't Make You Come (7:33)
-6. The Bird (7:10)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ice Cream Castles | 7:33 |
+| A2 | My Drawers | 4:04 |
+| A3 | Chilli Sauce | 3:43 |
+| B1 | Jungle Love | 3:29 |
+| B2 | If The Kid Can't Make You Come | 7:33 |
+| B3 | The Bird | 7:10 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ice-cream-castle/302057903" >}}<br>
 
 
-## Videos
-### Jungle Love
-{{< youtube id="TC0vu9V8YXw" title="Jungle Love" >}}<br>
-### More Videos
-
-- [Ice Cream Castles](https://www.youtube.com/watch?v=FI2pPT_GqPs)
-- [My Drawers](https://www.youtube.com/watch?v=tgWUiYexXsI)
-- [Chili Sauce](https://www.youtube.com/watch?v=-vjYu3B6kfU)
-- [If the Kid Cant Make You Come](https://www.youtube.com/watch?v=sSYnYeqPbEg)
-- [The Bird](https://www.youtube.com/watch?v=hB0VT2OnFvM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +57,5 @@ Despite two solid albums of hard, mostly Prince-created funk, the Time didn't br
 | Format         | Vinyl LP Album Limited Edition Reissue (Tri-coloured Vinyl) |
 | Label          | Warner Bros. Records |
 | Catalog Number | RCV1-25109 |
-| Notes | Originally mastered by Bernie Grundman Mastering  European issue presented on Neopolitan Vinyl, Pink/White/Brown. |
+| Notes | Originally mastered by Bernie Grundman Mastering<br><br>European issue presented on Neopolitan Vinyl, Pink/White/Brown. |
 | Discogs URL    | [The Time - Ice Cream Castle](https://www.discogs.com/release/12294719-The-Time-Ice-Cream-Castle) |

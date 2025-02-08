@@ -4,6 +4,7 @@ artist_name: "Chvrches"
 artist: "chvrches"
 album_name: "The Bones Of What You Believe (10 Year Anniversary Special Edition)"
 date: 2023-10-25T11:50:11.000000Z
+release_date: "2023-10-20"
 release_id: "28651618"
 slug: "the-bones-of-what-you-believe-10-year-anniversary-special-edition-28651618"
 hideSummary: true
@@ -31,59 +32,40 @@ styles: ["Indie Pop", "Synth-pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Mother We Share
-2. We Sink
-3. Gun
-4. Tether
-5. Lies
-6. Under The Tide
-7. Recover
-8. Night Sky
-9. Science/Visions
-10. Lungs
-11. By The Throat
-12. You Caught The Light
-13. Manhattan
-14. White Summer
-15. Talking In My Sleep
-16. City On Fire
-17. We Sink (Live)
-18. Now Is Not The Time (Live)
-19. Lies (Live)
-20. Strong Hand (Live)
-21. By The Throat (Live)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Mother We Share |  |
+| A2 | We Sink |  |
+| A3 | Gun |  |
+| A4 | Tether |  |
+| A5 | Lies |  |
+| A6 | Under The Tide |  |
+| B1 | Recover |  |
+| B2 | Night Sky |  |
+| B3 | Science/Visions |  |
+| B4 | Lungs |  |
+| B5 | By The Throat |  |
+| B6 | You Caught The Light |  |
+| C1 | Manhattan |  |
+| C2 | White Summer |  |
+| C3 | Talking In My Sleep |  |
+| C4 | City On Fire |  |
+| D1 | We Sink (Live) |  |
+| D2 | Now Is Not The Time (Live) |  |
+| D3 | Lies (Live) |  |
+| D4 | Strong Hand (Live) |  |
+| D5 | By The Throat (Live) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-bones-of-what-you-believe-10-year/1699050247" >}}<br>
 
 
-## Videos
-### CHVRCHES - Gun
-{{< youtube id="ktoaj1IpTbw" title="CHVRCHES - Gun" >}}<br>
-### More Videos
-
-- [CHVRCHES - Gun](https://www.youtube.com/watch?v=ktoaj1IpTbw)
-- [CHVRCHES - The Mother We Share](https://www.youtube.com/watch?v=_mTRvJ9fugM)
-- [CHVRCHES - Recover](https://www.youtube.com/watch?v=JyqemIbjcfg)
-- [CHVRCHES - Lies](https://www.youtube.com/watch?v=81RqEnvczV8)
-- [CHVRCHES - Under The Tide](https://www.youtube.com/watch?v=TTOuVP0iYQs)
-- [Lungs](https://www.youtube.com/watch?v=77t8xdNxhhk)
-- [Tether](https://www.youtube.com/watch?v=MCwJAoEBYtk)
-- [You Caught The Light](https://www.youtube.com/watch?v=o72tOCekVBk)
-- [Under The Tide](https://www.youtube.com/watch?v=aKb2Fc52MK0)
-- [Strong Hand](https://www.youtube.com/watch?v=7EMScQ0gJGc)
-- [ScienceVisions](https://www.youtube.com/watch?v=45XUjO0Gkyc)
-- [Broken Bones](https://www.youtube.com/watch?v=0v7vuU5vFjQ)
-- [Lies Tourist Remix](https://www.youtube.com/watch?v=95wKjB3aXzA)
-- [Gun Alucard Session](https://www.youtube.com/watch?v=7Ogk3v6gmDs)
-- [Recover Claire Remix](https://www.youtube.com/watch?v=Y_tvG3Zlaks)
-- [Tightrope Alucard Session](https://www.youtube.com/watch?v=SzmsCCIJxlU)
-- [Recover Alucard Session](https://www.youtube.com/watch?v=QUwzJsas7P0)
-- [Recover KDA Remix](https://www.youtube.com/watch?v=C-fvTYiEr9Q)
-- [The Mother We Share Blood Diamonds Remix](https://www.youtube.com/watch?v=lS3rW1vpo7c)
-- [Chvrches - Broken Bones](https://www.youtube.com/watch?v=EAQvzABd3nc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -94,5 +76,5 @@ styles: ["Indie Pop", "Synth-pop"]
 | Format         | Vinyl LP Album Reissue Remastered, Vinyl LP Compilation Remastered, All Media Special Edition |
 | Label          | Goodbye Records (2) |
 | Catalog Number | 5560889 |
-| Notes | Sticker "Made in Germany" on back.  Sticker on front reads "The Bones Of What You Believe CHVRCHES 10TH ANNIVERSARY REMASTERED 2LP EDITION feat. PREVIOUSLY UNRELEASED TRACKS + EXCLUSIVE LIVE RECORDINGS. MMXIII MMXXIII 5560889"  Issued in gatefold sleeve - front sleeve has 4 cut outs in each corner giving sight on the inner sleeve.  ℗ & © Chvrches under exclusive license to Virgin Records Limited, UK for its controlled territories and to Vertigo/Capitol, a division of Universal Music GmbH, Germany for its controlled territories. A Universal Music Company. Universal international Music B.V. 'S-Gravelandseweg 80, 1217 Ew Hilversum, Netherlands. Made in the EU.  Recorded at Alucard Studios, Glasgow. Live tracks recorded at Ancienne Belgique with thanks to AB & VRT/Studio Brussels. The Bones of What You Believe mixed... at Eldorado Recording Studios, Los Angeles except Tether and By The Throat mixed... at Wall 2 Wall Studios, Chicago. Manhattan, White Summer, Talking In My Sleep & City On Fire mixed... at Alucard Studios, Glasgow. Mastered... at Lurssen Mastering, Burbank. |
+| Notes | Sticker "Made in Germany" on back.<br><br>Sticker on front reads<br>"The Bones Of What You Believe<br>CHVRCHES<br>10TH ANNIVERSARY<br>REMASTERED 2LP EDITION<br>feat. PREVIOUSLY<br>UNRELEASED TRACKS +<br>EXCLUSIVE LIVE RECORDINGS.<br>MMXIII MMXXIII<br>5560889"<br><br>Issued in gatefold sleeve - front sleeve has 4 cut outs in each corner giving sight on the inner sleeve.<br><br>℗ & © Chvrches under exclusive license to Virgin Records Limited, UK for its controlled territories and to Vertigo/Capitol, a division of Universal Music GmbH, Germany for its controlled territories. A Universal Music Company.<br>Universal international Music B.V. 'S-Gravelandseweg 80, 1217 Ew Hilversum, Netherlands. Made in the EU.<br><br>Recorded at Alucard Studios, Glasgow.<br>Live tracks recorded at Ancienne Belgique with thanks to AB & VRT/Studio Brussels.<br>The Bones of What You Believe mixed... at Eldorado Recording Studios, Los Angeles except Tether and By The Throat mixed... at Wall 2 Wall Studios, Chicago.<br>Manhattan, White Summer, Talking In My Sleep & City On Fire mixed... at Alucard Studios, Glasgow.<br>Mastered... at Lurssen Mastering, Burbank. |
 | Discogs URL    | [Chvrches - The Bones Of What You Believe (10 Year Anniversary Special Edition)](https://www.discogs.com/release/28651618-Chvrches-The-Bones-Of-What-You-Believe-10-Year-Anniversary-Special-Edition) |

@@ -4,6 +4,7 @@ artist_name: "John Parr"
 artist: "john-parr"
 album_name: "John Parr"
 date: 2016-01-07T16:18:51.000000Z
+release_date: "1996-09-09"
 release_id: "1152756"
 slug: "john-parr-1152756"
 hideSummary: true
@@ -26,34 +27,30 @@ John Parr is the debut album by John Parr, released in 1984. It contains 3 Billb
 "St. Elmo's Fire (Man in Motion)" is included on the 1985 London Records issue of the album (#LONLP 12) in the UK. It hit number one on the Billboard Hot 100 on September 7, 1985, remaining there for two weeks. It was the main theme for the Joel Schumacher's 1985 film St. Elmo's Fire. The song also peaked at number six in the UK, Parr's home country and became a number-one hit for John Parr around the world and provided many awards and a Grammy nomination.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Magical
-2. Naughty Naughty
-3. Love Grammar
-4. Treat Me Like An Animal
-5. She's Gonna Love You To Death
-6. St. Elmo's Fire (Man In Motion)
-7. Revenge
-8. Heartbreaker
-9. Somebody Stole My Thunder
-10. Don't Leave Your Mark On Me
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Magical |  |
+| A2 | Naughty Naughty |  |
+| A3 | Love Grammar |  |
+| A4 | Treat Me Like An Animal |  |
+| A5 | She's Gonna Love You To Death |  |
+| B1 | St. Elmo's Fire (Man In Motion) |  |
+| B2 | Revenge |  |
+| B3 | Heartbreaker |  |
+| B4 | Somebody Stole My Thunder |  |
+| B5 | Don't Leave Your Mark On Me |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/under-parr/903872999" >}}<br>
 
 
-## Videos
-### John Parr - Magical lyrics HQ Sound AORMelodic Rock
-{{< youtube id="KebmenJpGwM" title="John Parr - Magical lyrics HQ Sound AORMelodic Rock" >}}<br>
-### More Videos
-
-- [Magical  John Parr  1984 Atlantic LP](https://www.youtube.com/watch?v=oFRbMUgv56U)
-- [John Parr - Naughty naughty lyrics HQ Sound AORMelodic Rock](https://www.youtube.com/watch?v=KVt1BcSzaVs)
-- [John Parr - John Parr 1984 Full Album](https://www.youtube.com/watch?v=GektcmKmB5Q)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +62,5 @@ John Parr is the debut album by John Parr, released in 1984. It contains 3 Billb
 | Format         | Vinyl LP Album |
 | Label          | London Records |
 | Catalog Number | LONLP 12 |
-| Notes | (p) 1984 Phonogram International B.V., Baarn/The Netherlands. (c) 1984 Atlantic Recording Corporation U.S.A. B1 (p) 1985 Columbia Pictues Industries Inc.  Similar release exists with a different barcode - see [r8535738].  |
+| Notes | (p) 1984 Phonogram International B.V., Baarn/The Netherlands.<br>(c) 1984 Atlantic Recording Corporation U.S.A.<br>B1 (p) 1985 Columbia Pictues Industries Inc.<br><br>Similar release exists with a different barcode - see [r8535738].<br> |
 | Discogs URL    | [John Parr - John Parr](https://www.discogs.com/release/1152756-John-Parr-John-Parr) |

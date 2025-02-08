@@ -1,9 +1,10 @@
 ---
 title: "Yola - Walk Through Fire"
 artist_name: "Yola"
-artist: "yola-4"
+artist: "yola"
 album_name: "Walk Through Fire"
 date: 2019-03-27T19:31:10.000000Z
+release_date: "2018-10-06"
 release_id: "13260578"
 slug: "walk-through-fire-13260578"
 hideSummary: true
@@ -24,53 +25,31 @@ styles: ["Soul", "Country", "Country Blues", "Contemporary R&B"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Faraway Look (3:10)
-2. Shady Grove (2:43)
-3. Ride Out In The Country (3:15)
-4. It Ain't Easier (4:24)
-5. Walk Through Fire (3:48)
-6. Rock Me Gently (3:30)
-7. Love All Night (Work All Day) (3:33)
-8. Deep Blue Dream (2:13)
-9. Lonely The Night (4:43)
-10. Still Gone (2:59)
-11. Keep Me Here (3:40)
-12. Love Is Light (3:16)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Faraway Look | 3:10 |
+| A2 | Shady Grove | 2:43 |
+| A3 | Ride Out In The Country | 3:15 |
+| A4 | It Ain't Easier | 4:24 |
+| A5 | Walk Through Fire | 3:48 |
+| A6 | Rock Me Gently | 3:30 |
+| B1 | Love All Night (Work All Day) | 3:33 |
+| B2 | Deep Blue Dream | 2:13 |
+| B3 | Lonely The Night | 4:43 |
+| B4 | Still Gone | 2:59 |
+| B5 | Keep Me Here | 3:40 |
+| B6 | Love Is Light | 3:16 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/walk-through-the-fire-single/1641144948" >}}<br>
 
 
-## Videos
-### Yola - Faraway Look Official Audio
-{{< youtube id="S8kMw5pxbkU" title="Yola - Faraway Look Official Audio" >}}<br>
-### More Videos
-
-- [Yola - Shady Grove Official Audio](https://www.youtube.com/watch?v=2cVwsOUCv0Y)
-- [Yola - Ride Out In The Country Official Audio](https://www.youtube.com/watch?v=azMLRM0IEYU)
-- [Yola - It Aint Easier Official Audio](https://www.youtube.com/watch?v=8SgCNAi_Cfs)
-- [Yola - Walk Through Fire Official Audio](https://www.youtube.com/watch?v=H2OmfJiSRAY)
-- [Yola - Rock Me Gently Official Audio](https://www.youtube.com/watch?v=Ozzu6NHbDjA)
-- [Yola - Love All Night Work All Day Official Audio](https://www.youtube.com/watch?v=nloiplKnmgM)
-- [Yola - Deep Blue Dream Official Audio](https://www.youtube.com/watch?v=PW1nzlc9eA0)
-- [Yola - Lonely The Night Official Audio](https://www.youtube.com/watch?v=Ekgly2P5C0Y)
-- [Yola - Still Gone Official Audio](https://www.youtube.com/watch?v=qy3pS3SLW-E)
-- [Yola - Keep Me Here Official Audio](https://www.youtube.com/watch?v=Z6cB44foHQA)
-- [Yola - Love Is Light Official Audio](https://www.youtube.com/watch?v=n_X2tL_DaQw)
-- [Yola - Faraway Look Official Audio](https://www.youtube.com/watch?v=S8kMw5pxbkU)
-- [Yola - Shady Grove Official Audio](https://www.youtube.com/watch?v=2cVwsOUCv0Y)
-- [Yola - Ride Out In The Country Official Audio](https://www.youtube.com/watch?v=azMLRM0IEYU)
-- [Yola - It Aint Easier Official Audio](https://www.youtube.com/watch?v=8SgCNAi_Cfs)
-- [Yola - Walk Through Fire Official Audio](https://www.youtube.com/watch?v=H2OmfJiSRAY)
-- [Yola - Rock Me Gently Official Audio](https://www.youtube.com/watch?v=Ozzu6NHbDjA)
-- [Yola - Love All Night Work All Day Official Audio](https://www.youtube.com/watch?v=nloiplKnmgM)
-- [Yola - Deep Blue Dream Official Audio](https://www.youtube.com/watch?v=PW1nzlc9eA0)
-- [Yola - Lonely The Night Official Audio](https://www.youtube.com/watch?v=Ekgly2P5C0Y)
-- [Yola - Still Gone Official Audio](https://www.youtube.com/watch?v=qy3pS3SLW-E)
-- [Yola - Keep Me Here Official Audio](https://www.youtube.com/watch?v=Z6cB44foHQA)
-- [Yola - Love Is Light Official Audio](https://www.youtube.com/watch?v=n_X2tL_DaQw)
 
 ## Release Images
 {{< imageGrid >}}

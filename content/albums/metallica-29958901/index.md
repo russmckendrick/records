@@ -44,22 +44,24 @@ In the songs’ simplicity is a clear confidence: “Enter Sandman” and “Sad
 
 
 ## Tracklisting
-1. Enter Sandman (5:29)
-2. Sad But True (5:24)
-3. Holier Than Thou (3:47)
-4. The Unforgiven (6:26)
-5. Wherever I May Roam (6:42)
-6. Don't Tread On Me (3:59)
-7. Through The Never (4:01)
-8. Nothing Else Matters (6:29)
-9. Of Wolf And Man (4:16)
-10. The God That Failed (5:05)
-11. My Friend Of Misery (6:47)
-12. The Struggle Within (3:51)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Enter Sandman | 5:29 |
+| A2 | Sad But True | 5:24 |
+| A3 | Holier Than Thou | 3:47 |
+| B1 | The Unforgiven | 6:26 |
+| B2 | Wherever I May Roam | 6:42 |
+| B3 | Don't Tread On Me | 3:59 |
+| C1 | Through The Never | 4:01 |
+| C2 | Nothing Else Matters | 6:29 |
+| C3 | Of Wolf And Man | 4:16 |
+| D1 | The God That Failed | 5:05 |
+| D2 | My Friend Of Misery | 6:47 |
+| D3 | The Struggle Within | 3:51 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/metallica/1440833237" >}}<br>
-
 
 
 
@@ -73,5 +75,5 @@ In the songs’ simplicity is a clear confidence: “Enter Sandman” and “Sad
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (180g, Clear with Black Marble (Some Blacker Marbled)) |
 | Label          | Blackened |
 | Catalog Number | BLCKND008R-1U |
-| Notes | Pressed on LIMITED EDITION 2LP Some Blacker  Marbled Vinyl"  Made In Germany sticker on shrink & it's also printed on the back cover |
+| Notes | Pressed on<br>LIMITED EDITION<br>2LP<br>Some Blacker <br>Marbled Vinyl"<br><br>Made In Germany sticker on shrink & it's also printed on the back cover |
 | Discogs URL    | [Metallica - Metallica](https://www.discogs.com/release/29958901-Metallica-Metallica) |

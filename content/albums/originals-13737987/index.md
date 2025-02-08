@@ -41,40 +41,42 @@ When Prince died in 2016, he left behind a huge amount of unreleased music—a l
 
 
 ## Tracklisting
-1. Sex Shooter (3:06)
-2. Jungle Love (3:04)
-3. Manic Monday (2:51)
-4. Noon Rendezvous (3:00)
-5. Make-Up (2:27)
-6. 100 MPH (3:31)
-7. You're My Love (4:24)
-8. Holly Rock (6:39)
-9. Baby, You're A Trip (5:52)
-10. The Glamorous Life (4:12)
-11. Gigolos Get Lonely Too (4:41)
-12. Love… Thy Will Be Done (4:09)
-13. Dear Michaelangelo (5:52)
-14. Wouldn't You Love To Love Me? (5:57)
-15. Nothing Compares 2 U (4:39)
-16. Sex Shooter
-17. Jungle Love
-18. Manic Monday
-19. Noon Rendezvous
-20. Make-Up
-21. 100 MPH
-22. You're My Love
-23. Holly Rock
-24. Baby, You're A Trip
-25. The Glamorous Life
-26. Gigolos Get Lonely Too
-27. Love… Thy Will Be Done
-28. Dear Michaelangelo
-29. Wouldn’t You Love To Love Me?
-30. Nothing Compares 2 U
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sex Shooter | 3:06 |
+| A2 | Jungle Love | 3:04 |
+| A3 | Manic Monday | 2:51 |
+| A4 | Noon Rendezvous | 3:00 |
+| A5 | Make-Up | 2:27 |
+| B1 | 100 MPH | 3:31 |
+| B2 | You're My Love | 4:24 |
+| B3 | Holly Rock | 6:39 |
+| C1 | Baby, You're A Trip | 5:52 |
+| C2 | The Glamorous Life | 4:12 |
+| C3 | Gigolos Get Lonely Too | 4:41 |
+| C4 | Love… Thy Will Be Done | 4:09 |
+| D1 | Dear Michaelangelo | 5:52 |
+| D2 | Wouldn't You Love To Love Me? | 5:57 |
+| D3 | Nothing Compares 2 U | 4:39 |
+| CD-1 | Sex Shooter |  |
+| CD-2 | Jungle Love |  |
+| CD-3 | Manic Monday |  |
+| CD-4 | Noon Rendezvous |  |
+| CD-5 | Make-Up |  |
+| CD-6 | 100 MPH |  |
+| CD-7 | You're My Love |  |
+| CD-8 | Holly Rock |  |
+| CD-9 | Baby, You're A Trip |  |
+| CD-10 | The Glamorous Life |  |
+| CD-11 | Gigolos Get Lonely Too |  |
+| CD-12 | Love… Thy Will Be Done |  |
+| CD-13 | Dear Michaelangelo |  |
+| CD-14 | Wouldn’t You Love To Love Me? |  |
+| CD-15 | Nothing Compares 2 U |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/originals/1460319631" >}}<br>
-
 
 
 
@@ -88,5 +90,5 @@ When Prince died in 2016, he left behind a huge amount of unreleased music—a l
 | Format         | Vinyl 2× LP Album (Purple, 180 Gram), CD Album, All Media Deluxe Edition Limited Edition |
 | Label          | NPG Records |
 | Catalog Number | 603497851768 |
-| Notes | Red hype sticker on shrink: Limited-Edition Deluxe Set CD + 2 LP 180G Purple Vinyl 14 Previously unreleased recordings + "[m=1354092]" Includes 24-page booklet with handwritten lyrics, rare photos, and new essays by Susannah Melvoin, Nelson George & Peggy McCreary 603497851768 [Barcode]  6-panel gatefold cover, back: [The Prince Estate 'Love Symbol' logo] [NPG Records 'NPG' logo] Warner Bros. Records Inc., a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Printed in U.S.A. Manufactured in E.U. LC02982 · 603497851768 [Warner Bros. Records 'WB-shield' logo] PRINCE.COM  Spine: R1 591459 Prince Originals NPG Records/Warner Bros.  LP sized booklet: R1 591459 | 603497851768  CD: [the [url=https://www.discogs.com/Prince-Originals/release/13541996]same disc that was released one month before[/url]] This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Manufactured in the E.U. GEMA/BIEM · PRINCE.COM · 0603497851782  Vinyl, labels: This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Made in the E.U.   Vinyl, matrix/runout: The [MPO logo]® and the subsequent numbers starting with "19" are laser etched, the rest is etched  |
+| Notes | Red hype sticker on shrink:<br>Limited-Edition Deluxe Set<br>CD + 2 LP 180G Purple Vinyl<br>14 Previously unreleased recordings + "[m=1354092]"<br>Includes 24-page booklet with handwritten lyrics, rare photos, and new essays by Susannah Melvoin, Nelson George & Peggy McCreary<br>603497851768<br>[Barcode]<br><br>6-panel gatefold cover, back:<br>[The Prince Estate 'Love Symbol' logo]<br>[NPG Records 'NPG' logo] Warner Bros. Records Inc., a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021.<br>This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc.<br>Printed in U.S.A. Manufactured in E.U. LC02982 · 603497851768 [Warner Bros. Records 'WB-shield' logo]<br>PRINCE.COM<br><br>Spine:<br>R1 591459 Prince Originals NPG Records/Warner Bros.<br><br>LP sized booklet:<br>R1 591459 | 603497851768<br><br>CD:<br>[the [url=https://www.discogs.com/Prince-Originals/release/13541996]same disc that was released one month before[/url]]<br>This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc.<br>Manufactured in the E.U. GEMA/BIEM · PRINCE.COM · 0603497851782<br><br>Vinyl, labels:<br>This Compilation ℗ & © 2019 NPG Records, Inc., under exclusive license to Warner Bros. Records Inc. Made in the E.U.<br><br><br>Vinyl, matrix/runout:<br>The [MPO logo]® and the subsequent numbers starting with "19" are laser etched, the rest is etched<br> |
 | Discogs URL    | [Prince - Originals](https://www.discogs.com/release/13737987-Prince-Originals) |

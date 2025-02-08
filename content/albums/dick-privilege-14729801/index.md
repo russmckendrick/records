@@ -4,6 +4,7 @@ artist_name: "Vennart"
 artist: "vennart"
 album_name: "Dick Privilege"
 date: 2020-04-24T09:04:58.000000Z
+release_date: ""
 release_id: "14729801"
 slug: "dick-privilege-14729801"
 hideSummary: true
@@ -21,16 +22,20 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Dick Privilege (3:14)
-2. Rat Catch (2:35)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Dick Privilege | 3:14 |
+| B | Rat Catch | 2:35 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### VENNART - Dick Privilege
-{{< youtube id="ZE4JTf7qOWk" title="VENNART - Dick Privilege" >}}<br>
 
 
 ## Release Images

@@ -4,6 +4,7 @@ artist_name: "Rush"
 artist: "rush"
 album_name: "Hemispheres 40th Anniversary "
 date: 2018-11-20T18:51:07.000000Z
+release_date: "1978-10-29"
 release_id: "12811934"
 slug: "hemispheres-40th-anniversary-12811934"
 hideSummary: true
@@ -39,38 +40,36 @@ styles: ["Hard Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Album - 2015 Abbey Road Remaster
-2. Cygnus X-1 Book II: Hemispheres 
-3. Circumstances
-4. The Trees
-5. La Villa Strangiato
-6. Live At Pinkpop Festival: June 4, 1979
-7. A Passage To Bangkok
-8. Xanadu
-9. The Trees
-10. Cygnus X-1 Book II: Hemispheres - The Sphere A Kind Of Dream
-11. Closer To The Heart
-12. La Villa Strangiato
-13. In The Mood
-14. Drum Solo
-15. Something For Nothing
-16. Live In Arizona: November 20, 1978
-17. 2112
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Album - 2015 Abbey Road Remaster |  |
+|  | Cygnus X-1 Book II: Hemispheres  |  |
+| B1 | Circumstances |  |
+| B2 | The Trees |  |
+| B3 | La Villa Strangiato |  |
+|  | Live At Pinkpop Festival: June 4, 1979 |  |
+| C1 | A Passage To Bangkok |  |
+| C2 | Xanadu |  |
+| D1 | The Trees |  |
+| D2 | Cygnus X-1 Book II: Hemispheres - The Sphere A Kind Of Dream |  |
+| D3 | Closer To The Heart |  |
+| D4 | La Villa Strangiato |  |
+| E1 | In The Mood |  |
+| E2 | Drum Solo |  |
+| E3 | Something For Nothing |  |
+|  | Live In Arizona: November 20, 1978 |  |
+|  | 2112 |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hemispheres-40th-anniversary/1437585347" >}}<br>
 
 
-## Videos
-### Cygnus X-1 Book II Hemispheres
-{{< youtube id="J0zN0VjA3As" title="Cygnus X-1 Book II Hemispheres" >}}<br>
-### More Videos
-
-- [Circumstances](https://www.youtube.com/watch?v=QHQ-Xl5YC5o)
-- [The Trees](https://www.youtube.com/watch?v=0jRafVKRg18)
-- [La Villa Srangiato An Exercise in Self-Indulgence](https://www.youtube.com/watch?v=FeumXTFH3vc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +80,5 @@ styles: ["Hard Rock", "Prog Rock"]
 | Format         | Vinyl LP Album Reissue Remastered, Vinyl 2× LP, All Media (Slipcase) |
 | Label          | Anthem (5) |
 | Catalog Number | B0029021-01 |
-| Notes | Slipcase cover containing: - Hemispheres (LP) - gatefold cover - Bonus Live Tracks (2x LP) - gatefold cover - 24 page book (LP size) with photos and new artwork by Hugh Syme and 5700 word essay by Rob Bowman - Download Voucher for 320kbps AAC MP4s files - offer expires 31.12.2020   Recorded at Rockfield Studios, Wales, during June and July 1978; vocals recorded at Advision Studios, London. Mixed at Trident Studios, Soho, London Remastered at Abbey Road Studios   Live in Arizona: "2112 (Parts I-IV, VI-VII)" (recorded live May 28, 1979 at Stadthalle Offenbach, West Germany; incorrectly credited as Live in Arizona: November 20, 1978)	 |
+| Notes | Slipcase cover containing:<br>- Hemispheres (LP) - gatefold cover<br>- Bonus Live Tracks (2x LP) - gatefold cover<br>- 24 page book (LP size) with photos and new artwork by Hugh Syme and 5700 word essay by Rob Bowman<br>- Download Voucher for 320kbps AAC MP4s files - offer expires 31.12.2020<br><br><br>Recorded at Rockfield Studios, Wales, during June and July 1978; vocals recorded at Advision Studios, London.<br>Mixed at Trident Studios, Soho, London<br>Remastered at Abbey Road Studios <br><br>Live in Arizona: "2112 (Parts I-IV, VI-VII)" (recorded live May 28, 1979 at Stadthalle Offenbach, West Germany; incorrectly credited as Live in Arizona: November 20, 1978)	 |
 | Discogs URL    | [Rush - Hemispheres 40th Anniversary ](https://www.discogs.com/release/12811934-Rush-Hemispheres-40th-Anniversary-) |

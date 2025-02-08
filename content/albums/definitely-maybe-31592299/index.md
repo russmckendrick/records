@@ -1,7 +1,7 @@
 ---
 title: "Oasis - Definitely Maybe"
 artist_name: "Oasis"
-artist: "oasis-2"
+artist: "oasis"
 album_name: "Definitely Maybe"
 date: 2024-09-03T10:13:47.000000Z
 release_date: "1994-08-29"
@@ -55,44 +55,43 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 
 
 ## Tracklisting
-1. Rock 'n' Roll Star
-2. Shakermaker
-3. Live Forever
-4. Up In The Sky
-5. Columbia
-6. Sad Song
-7. Supersonic
-8. Bring It On Down
-9. Cigarettes & Alcohol
-10. Digsy's Dinner
-11. Slide Away
-12. Married With Children
-13. Monnow Valley Versions
-14. Rock 'n' Roll Star
-15. Shakermaker
-16.  Live Forever
-17. Up In The Sky
-18. Columbia
-19. Bring It On Down
-20. Cigarettes & Alcohol
-21. Digsy's Dinner
-22. Sawmills Outtakes (No Overdubs)
-23. Rock 'n' Roll Star
-24. Up In The Sky
-25. Columbia
-26. Bring It On Down
-27. Cigarettes & Alcohol
-28. Digsy's Dinner
-29. Slide Away
-30. Sad Song (Mauldeth Road West Demo, Nov '92)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rock 'n' Roll Star |  |
+| A2 | Shakermaker |  |
+| A3 | Live Forever |  |
+| B1 | Up In The Sky |  |
+| B2 | Columbia |  |
+| B3 | Sad Song |  |
+| C1 | Supersonic |  |
+| C2 | Bring It On Down |  |
+| C3 | Cigarettes & Alcohol |  |
+| D1 | Digsy's Dinner |  |
+| D2 | Slide Away |  |
+| D3 | Married With Children |  |
+|  | Monnow Valley Versions |  |
+| E1 | Rock 'n' Roll Star |  |
+| E2 | Shakermaker |  |
+| E3 |  Live Forever |  |
+| E4 | Up In The Sky |  |
+| F1 | Columbia |  |
+| F2 | Bring It On Down |  |
+| F3 | Cigarettes & Alcohol |  |
+| F4 | Digsy's Dinner |  |
+|  | Sawmills Outtakes (No Overdubs) |  |
+| G1 | Rock 'n' Roll Star |  |
+| G2 | Up In The Sky |  |
+| G3 | Columbia |  |
+| G4 | Bring It On Down |  |
+| H1 | Cigarettes & Alcohol |  |
+| H2 | Digsy's Dinner |  |
+| H3 | Slide Away |  |
+| H4 | Sad Song (Mauldeth Road West Demo, Nov '92) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/definitely-maybe/1517506402" >}}<br>
 
-
-## Videos
-### Oasis - Shakermaker Official HD Remastered Video
-{{< youtube id="3FpNw3286y8" title="Oasis - Shakermaker Official HD Remastered Video" >}}<br>
 
 
 ## Release Images
@@ -105,5 +104,5 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 | Format         | Vinyl 4× LP Album Deluxe Edition Reissue Remastered (30th Anniversary) |
 | Label          | Big Brother |
 | Catalog Number | RKIDLP125X |
-| Notes | This 4x vinyl edition includes 2014 the remastered album plus the previously unreleased and discarded original recording session from Monnow Valley along with outtakes from Sawmills Studios plus a demo of Sad Song.  In the runouts, "1⋀", "1+", "1T", "1X", "1=" & "1V" are mirrored. |
+| Notes | This 4x vinyl edition includes 2014 the remastered album plus the previously unreleased and discarded original recording session from Monnow Valley along with outtakes from Sawmills Studios plus a demo of Sad Song.<br><br>In the runouts, "1⋀", "1+", "1T", "1X", "1=" & "1V" are mirrored. |
 | Discogs URL    | [Oasis - Definitely Maybe](https://www.discogs.com/release/31592299-Oasis-2-Definitely-Maybe) |

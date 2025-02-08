@@ -4,6 +4,7 @@ artist_name: "Status Quo"
 artist: "status-quo"
 album_name: "If You Can't Stand The Heat"
 date: 2016-05-23T18:28:09.000000Z
+release_date: "1978-11-11"
 release_id: "7581168"
 slug: "if-you-can-t-stand-the-heat-7581168"
 hideSummary: true
@@ -26,29 +27,29 @@ If You Can't Stand the Heat... is the eleventh studio album by English rock band
 at Wisseloord Studios, Hilversum, Holland, and produced by Pip Williams, it was released in October 1978 and reached number three in the UK Albums Chart.  The sleeve notes that Aphex Aural Exciter was used in the recording process. Unusually for a Status Quo record, a brass section, the David Katz Horns, was used, as well as a backing vocal trio: Jacquie Sullivan, Stevie Lange, and Joy Yates.
 "Again and Again" was the first single to be released from the album and reached number 13 in the UK Singles Chart.
 The second single to be released from the album was an edited version of "Accident Prone", which peaked at number 36 in the UK.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Again And Again (3:38)
-2. I'm Giving Up My Worryin' (3:03)
-3. Gonna Teach You To Love Me (3:09)
-4. Someone Show Me Home (3:52)
-5. Long Legged Linda (3:34)
-6. Oh! What A Night (3:44)
-7. Accident Prone (5:05)
-8. Stones (3:55)
-9. Let Me Fly (4:22)
-10. Like A Good Girl (3:28)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Again And Again | 3:38 |
+| A2 | I'm Giving Up My Worryin' | 3:03 |
+| A3 | Gonna Teach You To Love Me | 3:09 |
+| A4 | Someone Show Me Home | 3:52 |
+| A5 | Long Legged Linda | 3:34 |
+| B1 | Oh! What A Night | 3:44 |
+| B2 | Accident Prone | 5:05 |
+| B3 | Stones | 3:55 |
+| B4 | Let Me Fly | 4:22 |
+| B5 | Like A Good Girl | 3:28 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/if-you-cant-stand-the-heat/1443422494" >}}<br>
 
-
-## Videos
-### Status Quo - If You Cant Stand The Heat 1978 Full Album
-{{< youtube id="YYh3aS1oGUc" title="Status Quo - If You Cant Stand The Heat 1978 Full Album" >}}<br>
 
 
 ## Release Images
@@ -61,5 +62,5 @@ The second single to be released from the album was an edited version of "Accide
 | Format         | Vinyl LP Album Reissue (180gr) |
 | Label          | Vertigo |
 | Catalog Number | 4723771 |
-| Notes | Die-cut gatefold sleeve Comes with a poster and an insert.  © 1978 Mercury Records Limited/Universal Music Catalogue ℗ 1978 Mercury Records Limited    |
+| Notes | Die-cut gatefold sleeve<br>Comes with a poster and an insert.<br><br>© 1978 Mercury Records Limited/Universal Music Catalogue<br>℗ 1978 Mercury Records Limited<br><br><br> |
 | Discogs URL    | [Status Quo - If You Can't Stand The Heat](https://www.discogs.com/release/7581168-Status-Quo-If-You-Cant-Stand-The-Heat) |

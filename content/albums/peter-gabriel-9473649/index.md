@@ -38,29 +38,24 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 
 
 ## Tracklisting
-1. Intruder
-2. No Self Control
-3. Start
-4. I Don't Remember
-5. Family Snapshot
-6. And Through The Wire
-7. Games Without Frontiers
-8. Not One Of Us
-9. Lead A Normal Life
-10. Biko
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Intruder |  |
+| A2 | No Self Control |  |
+| A3 | Start |  |
+| A4 | I Don't Remember |  |
+| A5 | Family Snapshot |  |
+| A6 | And Through The Wire |  |
+| B1 | Games Without Frontiers |  |
+| B2 | Not One Of Us |  |
+| B3 | Lead A Normal Life |  |
+| B4 | Biko |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-1-car-remastered/986695072" >}}<br>
 
 
-## Videos
-### Peter Gabriel - Biko
-{{< youtube id="luVpsM3YAgw" title="Peter Gabriel - Biko" >}}<br>
-### More Videos
-
-- [PETER GABRIEL - 1980  FULL ALBUM  LP](https://www.youtube.com/watch?v=3f0ONN4t8-c)
-- [Intruder](https://www.youtube.com/watch?v=xvAmj3k3Imc)
-- [Peter Gabriel - Games Without Frontiers](https://www.youtube.com/watch?v=3xZmlUV8muY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +67,5 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 Grams) |
 | Label          | Real World Records |
 | Catalog Number | PGLPR3 |
-| Notes | Half-Speed Remaster + Hi-Res Download Code  Pressing plant identified by runout. |
+| Notes | Half-Speed Remaster + Hi-Res Download Code<br><br>Pressing plant identified by runout. |
 | Discogs URL    | [Peter Gabriel - Peter Gabriel](https://www.discogs.com/release/9473649-Peter-Gabriel-Peter-Gabriel) |

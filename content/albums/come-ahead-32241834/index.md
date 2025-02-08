@@ -4,6 +4,7 @@ artist_name: "Primal Scream"
 artist: "primal-scream"
 album_name: "Come Ahead"
 date: 2024-11-09T22:00:33.000000Z
+release_date: "2024-11-08"
 release_id: "32241834"
 slug: "come-ahead-32241834"
 hideSummary: true
@@ -29,35 +30,31 @@ styles: ["Alternative Rock"]
 Come Ahead is the twelfth studio album by Scottish band Primal Scream. It was released on 8 November 2024, and it is the band's first album in eight years.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Ready To Go Home (4:41)
-2. Love Insurrection (6:20)
-3. Heal Yourself (5:33)
-4. Innocent Money (6:31)
-5. Melancholy Man (5:16)
-6. Love Ain't Enough (4:45)
-7. Circus Of Life (5:53)
-8. False Flags (8:11)
-9. Deep Dark Waters (4:50)
-10. The Centre Cannot Hold (3:42)
-11. Settlers Blues (9:04)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ready To Go Home | 4:41 |
+| A2 | Love Insurrection | 6:20 |
+| A3 | Heal Yourself | 5:33 |
+| B1 | Innocent Money | 6:31 |
+| B2 | Melancholy Man | 5:16 |
+| B3 | Love Ain't Enough | 4:45 |
+| C1 | Circus Of Life | 5:53 |
+| C2 | False Flags | 8:11 |
+| C3 | Deep Dark Waters | 4:50 |
+| D1 | The Centre Cannot Hold | 3:42 |
+| D2 | Settlers Blues | 9:04 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/come-ahead/1753323854" >}}<br>
 
 
-## Videos
-### Primal Scream - Ahead Full Album 2024
-{{< youtube id="ERuPUTm2CJs" title="Primal Scream - Ahead Full Album 2024" >}}<br>
-### More Videos
-
-- [Primal Scream - Ready To Go Home Official Video](https://www.youtube.com/watch?v=hVNW-haQL3I)
-- [Primal Scream - The Centre Cannot Hold Official Video](https://www.youtube.com/watch?v=FWO0KsrHFRI)
-- [Primal Scream - Love Insurrection Official Visualiser](https://www.youtube.com/watch?v=F4LqEcVsA3k)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +66,5 @@ Come Ahead is the twelfth studio album by Scottish band Primal Scream. It was re
 | Format         | Vinyl 2× LP Album Limited Edition (Silver) |
 | Label          | BMG |
 | Catalog Number | 4099964059243 |
-| Notes | Gatefold sleeve  Dedicated to Robert Pollock Gillespie 1937-2023, Martin Duffy 1967-2022 & Mark Stewart 1960-2023  ℗ & © 2024 BMG Rights Management (UK) Limited.  All rights of the producer and the owner of the recorded work reserved.  Unauthorized copying, hiring, renting, public performance and broadcasting of this record is prohibited.   Manufactured in Germany.  4099964059243. 964059241.  LC19813  Assai Records of Glasgow, Edinburgh & Dundee released a limited volume of 300 records with OBI signed by Primal Scream's vocalist Bobby Gillespie.  The OBI is hand numbered. |
+| Notes | Gatefold sleeve<br><br>Dedicated to Robert Pollock Gillespie 1937-2023, Martin Duffy 1967-2022 & Mark Stewart 1960-2023<br><br>℗ & © 2024 BMG Rights Management (UK) Limited.  All rights of the producer and the owner of the recorded work reserved.  Unauthorized copying, hiring, renting, public performance and broadcasting of this record is prohibited.  <br>Manufactured in Germany.  4099964059243. 964059241.  LC19813<br><br>Assai Records of Glasgow, Edinburgh & Dundee released a limited volume of 300 records with OBI signed by Primal Scream's vocalist Bobby Gillespie.  The OBI is hand numbered. |
 | Discogs URL    | [Primal Scream - Come Ahead](https://www.discogs.com/release/32241834-Primal-Scream-Come-Ahead) |

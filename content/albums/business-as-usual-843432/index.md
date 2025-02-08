@@ -31,28 +31,24 @@ In October 2010, Business as Usual was listed in the book 100 Best Australian Al
 
 
 ## Tracklisting
-1. Who Can It Be Now? (3:20)
-2. I Can See It In Your Eyes (3:26)
-3. Down Under (3:39)
-4. Underground (3:04)
-5. Helpless Automaton (3:18)
-6. People Just Love To Play With Words (3:33)
-7. Be Good Johnny (3:33)
-8. Touching The Untouchables (3:47)
-9. Catch A Star (3:28)
-10. Down By The Sea (6:48)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Who Can It Be Now? | 3:20 |
+| A2 | I Can See It In Your Eyes | 3:26 |
+| A3 | Down Under | 3:39 |
+| A4 | Underground | 3:04 |
+| A5 | Helpless Automaton | 3:18 |
+| B1 | People Just Love To Play With Words | 3:33 |
+| B2 | Be Good Johnny | 3:33 |
+| B3 | Touching The Untouchables | 3:47 |
+| B4 | Catch A Star | 3:28 |
+| B5 | Down By The Sea | 6:48 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/business-as-usual/282960957" >}}<br>
 
 
-## Videos
-### Men At Work - Down Under Video
-{{< youtube id="XfR9iY5y94s" title="Men At Work - Down Under Video" >}}<br>
-### More Videos
-
-- [Men At Work - Be Good Johnny Official Music Video](https://www.youtube.com/watch?v=74dvJVwGA6Y)
-- [Men At Work - Who Can It Be Now Video Version](https://www.youtube.com/watch?v=SECVGN4Bsgg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +60,5 @@ In October 2010, Business as Usual was listed in the book 100 Best Australian Al
 | Format         | Vinyl LP Album Stereo |
 | Label          | Epic |
 | Catalog Number | EPC 85669 |
-| Notes | Rear Sleeve: © 1982 CBS Inc.  Labels: ℗ 1981 CBS Records Australia Ltd.  Made in England.  Original sound recording made by CBS Records Australia Ltd.  CBS Records are the exclusive licensees for the UK.    Shorepak by Shorewood Packaging Co. Ltd., England. |
+| Notes | Rear Sleeve: © 1982 CBS Inc.<br>Labels: ℗ 1981 CBS Records Australia Ltd.<br>Made in England.<br>Original sound recording made by CBS Records Australia Ltd.<br>CBS Records are the exclusive licensees for the UK.<br><br>Shorepak by Shorewood Packaging Co. Ltd., England. |
 | Discogs URL    | [Men At Work - Business As Usual](https://www.discogs.com/release/843432-Men-At-Work-Business-As-Usual) |

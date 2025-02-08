@@ -1,9 +1,10 @@
 ---
 title: "Filter - Title Of Record"
 artist_name: "Filter"
-artist: "filter-2"
+artist: "filter"
 album_name: "Title Of Record"
 date: 2019-08-09T17:51:24.000000Z
+release_date: "1999-08-24"
 release_id: "13963931"
 slug: "title-of-record-13963931"
 hideSummary: true
@@ -34,94 +35,35 @@ Title of Record is the second studio album by American rock band Filter, release
 Title of Record was a critical and commercial success upon its release, peaking at number 30 on the US Billboard 200. It had sold over 800,000 copies by 2001 and was later certified platinum by the RIAA for shipments of over one million copies. Three singles were released from the album: "Welcome to the Fold", "Take a Picture", and "The Best Things". "Take a Picture" became the band's most successful single, peaking within the top-20 of nine international charts, including the Billboard Hot 100.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Sand (0:37)
-2. Welcome To The Fold (7:40)
-3. Captain Bligh (5:12)
-4. It's Gonna Kill Me (5:05)
-5. The Best Things (4:24)
-6. Take A Picture (6:00)
-7. Skinny (5:43)
-8. I Will Lead You (3:22)
-9. Cancer (6:39)
-10. I'm Not The Only One (5:50)
-11. Miss Blue (5:36)
-12. Jurassitol (2009 Remaster Version) (5:13)
-13. (Can't You) Trip Like I Do (2009 Remaster Version) (4:27)
-14. Take A Picture (H & H Remix) (4:13)
-15. The Best Things (Humble Brothers Remix) (6:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sand | 0:37 |
+| A2 | Welcome To The Fold | 7:40 |
+| A3 | Captain Bligh | 5:12 |
+| A4 | It's Gonna Kill Me | 5:05 |
+| B1 | The Best Things | 4:24 |
+| B2 | Take A Picture | 6:00 |
+| B3 | Skinny | 5:43 |
+| B4 | I Will Lead You | 3:22 |
+| C1 | Cancer | 6:39 |
+| C2 | I'm Not The Only One | 5:50 |
+| C3 | Miss Blue | 5:36 |
+| D1 | Jurassitol (2009 Remaster Version) | 5:13 |
+| D2 | (Can't You) Trip Like I Do (2009 Remaster Version) | 4:27 |
+| D3 | Take A Picture (H & H Remix) | 4:13 |
+| D4 | The Best Things (Humble Brothers Remix) | 6:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/title-of-record/1576792084" >}}<br>
 
 
-## Videos
-### Filter - Im Not The Only One Title of Record Remastered  Expanded
-{{< youtube id="nIWonMAI8M8" title="Filter - Im Not The Only One Title of Record Remastered  Expanded" >}}<br>
-### More Videos
-
-- [Filter - Title of Record 20th Anniversary Trailer](https://www.youtube.com/watch?v=R-0xNmTyAJA)
-- [Filter - The Best Things Title of Record Track by Track](https://www.youtube.com/watch?v=XsNmI-als6U)
-- [Filter - Miss Blue Title of Record Track by Track](https://www.youtube.com/watch?v=OjEP_uTQ5fE)
-- [Filter - Sand Title of Record Track By Track](https://www.youtube.com/watch?v=pJ3DXm9sjd4)
-- [Filter - The Best Things from Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=4Xf3WzLghUY)
-- [Filter - I Will Lead You Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=CpMDXV5mzg0)
-- [Filter - Skinny from Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=VL9BmuDnuHw)
-- [Filter - Take a Picture Title of Record Track by Track](https://www.youtube.com/watch?v=xD29RvFkQQk)
-- [Filter - I Will Lead You Title of Record Track by Track](https://www.youtube.com/watch?v=2vTD8ETstho)
-- [Filter - Welcome To The Fold Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=e1Ol3MDHSzs)
-- [Filter - Captain Bligh from Title of Record 20th Anniversary Edition](https://www.youtube.com/watch?v=18scg5TBIok)
-- [Filter - Im Not The Only One Title of Record Track by Track](https://www.youtube.com/watch?v=6KanDg7up5c)
-- [Filter - Cant You Trip Like I Do Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=vrMHkeKWd78)
-- [Filter - Its Gonna Kill Me Title of Record Track by Track](https://www.youtube.com/watch?v=w0d5PTt_vr4)
-- [Filter - Miss Blue Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=5oSHi7M8VZI)
-- [Filter - Its Gonna Kill Me from Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=0IaByGYP_OE)
-- [Filter - Sand from Title of Record 20th Anniversary Edition](https://www.youtube.com/watch?v=_sOz_dBr9nQ)
-- [Filter - Jurassitol Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=Bt6F6Y3rk3o)
-- [Filter - Skinny Title of Record Track by Track](https://www.youtube.com/watch?v=SFM5HBMsCUE)
-- [Filter - Take A Picture Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=gim3u1ZwVBg)
-- [Filter - Take A Picture Live from Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=QC-9q-I2o8c)
-- [Cancer](https://www.youtube.com/watch?v=EqNChFhAO1M)
-- [Welcome To The Fold](https://www.youtube.com/watch?v=INu0VrwkB0k)
-- [The Best Things](https://www.youtube.com/watch?v=F46i2TsLoh8)
-- [Filter - Welcome To The Fold Track by Track](https://www.youtube.com/watch?v=1-o0rJHO5_s)
-- [Filter - Cancer Title of Record Track by Track](https://www.youtube.com/watch?v=M7A1Rzj5BSc)
-- [Filter - Captain Bligh Title of Record Track by Track](https://www.youtube.com/watch?v=an-NiTMGDII)
-- [Filter - Take A Picture Official Music Video](https://www.youtube.com/watch?v=h8MAHQhKe7Q)
-- [Filter - The Best Things Official Video HD](https://www.youtube.com/watch?v=Of1idt51DHc)
-- [Filter - Title of Record Expanded Edition Full Album](https://www.youtube.com/watch?v=nSbnSTL8anw)
-- [Filter - Im Not The Only One Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=nIWonMAI8M8)
-- [Filter - Title of Record 20th Anniversary Trailer](https://www.youtube.com/watch?v=R-0xNmTyAJA)
-- [Filter - The Best Things Title of Record Track by Track](https://www.youtube.com/watch?v=XsNmI-als6U)
-- [Filter - Miss Blue Title of Record Track by Track](https://www.youtube.com/watch?v=OjEP_uTQ5fE)
-- [Filter - Sand Title of Record Track By Track](https://www.youtube.com/watch?v=pJ3DXm9sjd4)
-- [Filter - The Best Things from Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=4Xf3WzLghUY)
-- [Filter - I Will Lead You Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=CpMDXV5mzg0)
-- [Filter - Skinny from Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=VL9BmuDnuHw)
-- [Filter - Take a Picture Title of Record Track by Track](https://www.youtube.com/watch?v=xD29RvFkQQk)
-- [Filter - I Will Lead You Title of Record Track by Track](https://www.youtube.com/watch?v=2vTD8ETstho)
-- [Filter - Welcome To The Fold Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=e1Ol3MDHSzs)
-- [Filter - Captain Bligh from Title of Record 20th Anniversary Edition](https://www.youtube.com/watch?v=18scg5TBIok)
-- [Filter - Im Not The Only One Title of Record Track by Track](https://www.youtube.com/watch?v=6KanDg7up5c)
-- [Filter - Cant You Trip Like I Do Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=vrMHkeKWd78)
-- [Filter - Its Gonna Kill Me Title of Record Track by Track](https://www.youtube.com/watch?v=w0d5PTt_vr4)
-- [Filter - Miss Blue Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=5oSHi7M8VZI)
-- [Filter - Its Gonna Kill Me from Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=0IaByGYP_OE)
-- [Filter - Sand from Title of Record 20th Anniversary Edition](https://www.youtube.com/watch?v=_sOz_dBr9nQ)
-- [Filter - Jurassitol Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=Bt6F6Y3rk3o)
-- [Filter - Skinny Title of Record Track by Track](https://www.youtube.com/watch?v=SFM5HBMsCUE)
-- [Filter - Take A Picture Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=gim3u1ZwVBg)
-- [Filter - Take A Picture Live from Title of Record Remastered  Expanded](https://www.youtube.com/watch?v=QC-9q-I2o8c)
-- [Cancer](https://www.youtube.com/watch?v=EqNChFhAO1M)
-- [Welcome To The Fold](https://www.youtube.com/watch?v=INu0VrwkB0k)
-- [The Best Things](https://www.youtube.com/watch?v=F46i2TsLoh8)
-- [Filter - Welcome To The Fold Track by Track](https://www.youtube.com/watch?v=1-o0rJHO5_s)
-- [Filter - Cancer Title of Record Track by Track](https://www.youtube.com/watch?v=M7A1Rzj5BSc)
-- [Filter - Captain Bligh Title of Record Track by Track](https://www.youtube.com/watch?v=an-NiTMGDII)
 
 ## Release Images
 {{< imageGrid >}}

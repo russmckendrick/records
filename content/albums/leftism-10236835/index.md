@@ -39,38 +39,26 @@ On its release, the album was well received from the British press with positive
 
 
 ## Tracklisting
-1. Release The Pressure (7:39)
-2. Afro-Left (7:32)
-3. Cut For Life (7:09)
-4. Melt (5:15)
-5. Black Flute (3:56)
-6. Original (6:22)
-7. Inspection (Check One) (6:29)
-8. Space Shanty (7:14)
-9. Storm 3000 (5:45)
-10. Half Past Dub (3:38)
-11. Open Up (8:44)
-12. 21st Century Poem (4:39)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Release The Pressure | 7:39 |
+| A2 | Afro-Left | 7:32 |
+| B1 | Cut For Life | 7:09 |
+| B2 | Melt | 5:15 |
+| C1 | Black Flute | 3:56 |
+| C2 | Original | 6:22 |
+| D1 | Inspection (Check One) | 6:29 |
+| D2 | Space Shanty | 7:14 |
+| E1 | Storm 3000 | 5:45 |
+| E2 | Half Past Dub | 3:38 |
+| F1 | Open Up | 8:44 |
+| F2 | 21st Century Poem | 4:39 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/leftism/207071761" >}}<br>
 
 
-## Videos
-### Release the Pressure Remastered
-{{< youtube id="H_1BDl88oxo" title="Release the Pressure Remastered" >}}<br>
-### More Videos
-
-- [Afro Left Remastered](https://www.youtube.com/watch?v=jYjk4ySEN-Y)
-- [Melt Remastered](https://www.youtube.com/watch?v=R1PkZd_cfYw)
-- [Song of Life Remastered](https://www.youtube.com/watch?v=4_n-BQ1fZ_E)
-- [Original Remastered](https://www.youtube.com/watch?v=CUgeEeEoFko)
-- [Black Flute Remastered](https://www.youtube.com/watch?v=g0Iacn8WKhs)
-- [Space Shanty Remastered](https://www.youtube.com/watch?v=gstWU-GP51I)
-- [Inspection Check One Remastered](https://www.youtube.com/watch?v=84ZyRbb20-4)
-- [Storm 3000 Remastered](https://www.youtube.com/watch?v=D2N99BwVmXw)
-- [Open Up Remastered](https://www.youtube.com/watch?v=uq3IAHVDCGM)
-- [21st Century Poem Remastered](https://www.youtube.com/watch?v=Ysve0XA8QjU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +70,5 @@ On its release, the album was well received from the British press with positive
 | Format         | Vinyl 3× LP Album Reissue Remastered Special Edition (180 g) |
 | Label          | Columbia |
 | Catalog Number | 88985388501 |
-| Notes | Shrinkwrapped, most with transparent sticker on top stating "Special Edition Triple Vinyl - 3 x 180 gm - Original Album Remastered - 88985388501" plus "We Are Vinyl" sticker stating "Claim your download at wearevinyl.com"  First 500 orders from Leftfield online store were autographed by Neil Barnes & Paul Daley before the shrinkwrap was added and most had a different barcode sticker attached over the barcode / label / catalogue number info on the back.  |
+| Notes | Shrinkwrapped, most with transparent sticker on top stating "Special Edition Triple Vinyl - 3 x 180 gm - Original Album Remastered - 88985388501" plus "We Are Vinyl" sticker stating "Claim your download at wearevinyl.com"<br><br>First 500 orders from Leftfield online store were autographed by Neil Barnes & Paul Daley before the shrinkwrap was added and most had a different barcode sticker attached over the barcode / label / catalogue number info on the back.  |
 | Discogs URL    | [Leftfield - Leftism](https://www.discogs.com/release/10236835-Leftfield-Leftism) |

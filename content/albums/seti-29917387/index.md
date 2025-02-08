@@ -4,6 +4,7 @@ artist_name: "Sedibus"
 artist: "sedibus"
 album_name: "Seti"
 date: 2024-02-25T04:44:25.000000Z
+release_date: "2024-02-23"
 release_id: "29917387"
 slug: "seti-29917387"
 hideSummary: true
@@ -24,28 +25,25 @@ styles: ["Ambient"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. A: Paradise (11:33)
-2. B: Purgatory (9:17)
-3. Seti - A Three Piece Suite
-4. Seti Pt 1 (7:20)
-5. Seti Pt 2 (9:08)
-6. Seti Pt 3 (5:41)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | A: Paradise | 11:33 |
+| A2 | B: Purgatory | 9:17 |
+|  | Seti - A Three Piece Suite |  |
+| B1 | Seti Pt 1 | 7:20 |
+| B2 | Seti Pt 2 | 9:08 |
+| B3 | Seti Pt 3 | 5:41 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/seti/1712341302" >}}<br>
 
 
-## Videos
-### Paradise
-{{< youtube id="54HKE631NP0" title="Paradise" >}}<br>
-### More Videos
-
-- [Purgatory](https://www.youtube.com/watch?v=fDX0i0ukO4U)
-- [Seti Pt 1](https://www.youtube.com/watch?v=esD3cIVZBP8)
-- [Seti Pt 2](https://www.youtube.com/watch?v=-tyVKxhLeDE)
-- [Seti Pt 3](https://www.youtube.com/watch?v=cJr5jnsnbBQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,5 +54,5 @@ styles: ["Ambient"]
 | Format         | Vinyl LP Album Limited Edition (Blue) |
 | Label          | Orbscure |
 | Catalog Number | ORBSLP005 |
-| Notes | p&c2023, (C) 2023 Orbscure under exclusive license to Cooking Vinyl Limited  Made in Poland |
+| Notes | p&c2023, (C) 2023 Orbscure under exclusive license to Cooking Vinyl Limited<br><br>Made in Poland |
 | Discogs URL    | [Sedibus - Seti](https://www.discogs.com/release/29917387-Sedibus-Seti) |

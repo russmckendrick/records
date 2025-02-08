@@ -4,6 +4,7 @@ artist_name: "Crippled Black Phoenix"
 artist: "crippled-black-phoenix"
 album_name: "White Light Generator"
 date: 2016-01-17T09:46:30.000000Z
+release_date: "2014-03-17"
 release_id: "5498786"
 slug: "white-light-generator-5498786"
 hideSummary: true
@@ -32,45 +33,37 @@ styles: ["Prog Rock", "Post Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Black Side
-2. Sweeter Than You
-3. No! (Part 1)
-4. No! (Part 2)
-5. Let's Have An Apocalypse Now!
-6. Black Light Generator
-7. Parasites
-8. _______
-9. White Side
-10. Northern Comfort
-11. Wake Me Up When It's Time To Sleep
-12. Caring Breeds The Horror
-13. You'll Be Murdered
-14. We Remember You
-15. A Brighter Tomorrow
-16. 7" Vinyl
-17. Now You`re Gone
-18. Self Seeking Man
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Black Side |  |
+| A1 | Sweeter Than You |  |
+| A2 | No! (Part 1) |  |
+| A3 | No! (Part 2) |  |
+| B1 | Let's Have An Apocalypse Now! |  |
+| B2 | Black Light Generator |  |
+| B3 | Parasites |  |
+| B4 | _______ |  |
+|  | White Side |  |
+| C1 | Northern Comfort |  |
+| C2 | Wake Me Up When It's Time To Sleep |  |
+| C3 | Caring Breeds The Horror |  |
+| C4 | You'll Be Murdered |  |
+| D1 | We Remember You |  |
+| D2 | A Brighter Tomorrow |  |
+|  | 7" Vinyl |  |
+| E1 | Now You`re Gone |  |
+| F1 | Self Seeking Man |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/white-light-generator/1600467011" >}}<br>
 
 
-## Videos
-### Crippled Black Phoenix - White Light Generator - Album Teaser
-{{< youtube id="63_zUUoqRoQ" title="Crippled Black Phoenix - White Light Generator - Album Teaser" >}}<br>
-### More Videos
-
-- [Crippled Black Phoenix - Northern Comfort - Official Video](https://www.youtube.com/watch?v=asePpcjl8Gs)
-- [Crippled Black Phoenix -  We Remember You album White Light Generator](https://www.youtube.com/watch?v=ReBvOsYV92o)
-- [Black Light Generator - Crippled Black Phoenix](https://www.youtube.com/watch?v=EMGgl5FHqkM)
-- [Crippled Black Phoenix - NO A4432Hz](https://www.youtube.com/watch?v=GsrUksHvrEo)
-- [Crippled Black Phoenix - White Light Generator - Album Teaser](https://www.youtube.com/watch?v=63_zUUoqRoQ)
-- [Crippled Black Phoenix - Northern Comfort - Official Video](https://www.youtube.com/watch?v=asePpcjl8Gs)
-- [Crippled Black Phoenix -  We Remember You album White Light Generator](https://www.youtube.com/watch?v=ReBvOsYV92o)
-- [Black Light Generator - Crippled Black Phoenix](https://www.youtube.com/watch?v=EMGgl5FHqkM)
-- [Crippled Black Phoenix - NO A4432Hz](https://www.youtube.com/watch?v=GsrUksHvrEo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +74,5 @@ styles: ["Prog Rock", "Post Rock"]
 | Format         | Vinyl LP, Vinyl LP (White), Vinyl 7" 45 RPM, All Media Album |
 | Label          | Cool Green Recordings |
 | Catalog Number | CGR 7430 1 |
-| Notes | Limited edition LP set in gatefold sleeve with 1 white colored and 1 black 180 gram vinyl and a 7" vinyl with 2 exclusive bonus tracks.  ℗ © Mascot Music Production and Publishing B.V. All rights reserved. BIEM/STEMRA. LC 03090. Made in the EU. |
+| Notes | Limited edition LP set in gatefold sleeve with 1 white colored and 1 black 180 gram vinyl and a 7" vinyl with 2 exclusive bonus tracks.<br><br>℗ © Mascot Music Production and Publishing B.V.<br>All rights reserved. BIEM/STEMRA. LC 03090. Made in the EU. |
 | Discogs URL    | [Crippled Black Phoenix - White Light Generator](https://www.discogs.com/release/5498786-Crippled-Black-Phoenix-White-Light-Generator) |

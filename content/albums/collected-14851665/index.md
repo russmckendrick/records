@@ -4,6 +4,7 @@ artist_name: "Cat Stevens"
 artist: "cat-stevens"
 album_name: "Collected"
 date: 2020-02-27T19:19:38.000000Z
+release_date: ""
 release_id: "14851665"
 slug: "collected-14851665"
 hideSummary: true
@@ -24,36 +25,43 @@ styles: ["Folk Rock", "Acoustic", "Pop Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Matthew & Son (2:43)
-2. I Love My Dog (2:18)
-3. I'm Gonna Get Me A Gun (2:11)
-4. The First Cut Is The Deepest (3:00)
-5. A Bad Night (3:10)
-6. Peace Train (4:04)
-7. Where Do The Children Play? (3:51)
-8. Hard Headed Woman (3:47)
-9. Wild World (3:19)
-10. Lady D'Arbanville (3:42)
-11. Father And Son (3:40)
-12. Katmandu (3:19)
-13. I Want To Live In A Wigwam (3:22)
-14. Tuesday's Dead (3:35)
-15. Morning Has Broken (3:18)
-16. Moonshadow (2:50)
-17. Sitting (3:12)
-18. Can't Keep It In (2:59)
-19. The Hurt (4:18)
-20. Oh Very Young (2:35)
-21. Banapple Gas (3:09)
-22. Two Fine People (3:32)
-23. Another Saturday Night (2:29)
-24. (Remember The Days Of The) Old Schoolyard (2:43)
-25. Child For A Day (4:22)
-26. Midday (Avoid City After Dark) (4:23)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Matthew & Son | 2:43 |
+| A2 | I Love My Dog | 2:18 |
+| A3 | I'm Gonna Get Me A Gun | 2:11 |
+| A4 | The First Cut Is The Deepest | 3:00 |
+| A5 | A Bad Night | 3:10 |
+| A6 | Peace Train | 4:04 |
+| A7 | Where Do The Children Play? | 3:51 |
+| B1 | Hard Headed Woman | 3:47 |
+| B2 | Wild World | 3:19 |
+| B3 | Lady D'Arbanville | 3:42 |
+| B4 | Father And Son | 3:40 |
+| B5 | Katmandu | 3:19 |
+| B6 | I Want To Live In A Wigwam | 3:22 |
+| B7 | Tuesday's Dead | 3:35 |
+| C1 | Morning Has Broken | 3:18 |
+| C2 | Moonshadow | 2:50 |
+| C3 | Sitting | 3:12 |
+| C4 | Can't Keep It In | 2:59 |
+| C5 | The Hurt | 4:18 |
+| C6 | Oh Very Young | 2:35 |
+| D1 | Banapple Gas | 3:09 |
+| D2 | Two Fine People | 3:32 |
+| D3 | Another Saturday Night | 2:29 |
+| D4 | (Remember The Days Of The) Old Schoolyard | 2:43 |
+| D5 | Child For A Day | 4:22 |
+| D6 | Midday (Avoid City After Dark) | 4:23 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -66,5 +74,5 @@ styles: ["Folk Rock", "Acoustic", "Pop Rock"]
 | Format         | Vinyl 2× LP Compilation Limited Edition Numbered Reissue (Purple, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1961 |
-| Notes | Limited edition of 2.000 individually numbered copies on purple 180 gram audiophile vinyl. Released in a gatefold sleeve.  Made in the EU. |
+| Notes | Limited edition of 2.000 individually numbered copies on purple 180 gram audiophile vinyl. Released in a gatefold sleeve.<br><br>Made in the EU. |
 | Discogs URL    | [Cat Stevens - Collected](https://www.discogs.com/release/14851665-Cat-Stevens-Collected) |

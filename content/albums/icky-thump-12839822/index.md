@@ -34,36 +34,31 @@ From the start, Jack White was an incisive and magnetic guitar player, his snarl
 
 
 ## Tracklisting
-1. Side Uno
-2. Icky Thump (4:14)
-3. You Don't Know What Love Is  (You Just Do As You're Told) (3:54)
-4. 300 M.P.H. Torrential Outpour Blues (5:28)
-5. Side Dwa
-6. Conquest (2:48)
-7. Bone Broke (3:14)
-8. Prickly Thorn, But Sweetly Worn (3:05)
-9. St. Andrew (This Battle Is In The Air) (1:49)
-10. Side Three
-11. Little Cream Soda (3:45)
-12. Rag And Bone (3:48)
-13. I'm Slowly Turning Into You (4:34)
-14. Side Fower
-15. A Martyr For My Love For You (4:19)
-16. Catch Hell Blues (4:18)
-17. Effect And Cause (3:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Side Uno |  |
+| A1 | Icky Thump | 4:14 |
+| A2 | You Don't Know What Love Is  (You Just Do As You're Told) | 3:54 |
+| A3 | 300 M.P.H. Torrential Outpour Blues | 5:28 |
+|  | Side Dwa |  |
+| B4 | Conquest | 2:48 |
+| B5 | Bone Broke | 3:14 |
+| B6 | Prickly Thorn, But Sweetly Worn | 3:05 |
+| B7 | St. Andrew (This Battle Is In The Air) | 1:49 |
+|  | Side Three |  |
+| C8 | Little Cream Soda | 3:45 |
+| C9 | Rag And Bone | 3:48 |
+| C10 | I'm Slowly Turning Into You | 4:34 |
+|  | Side Fower |  |
+| D11 | A Martyr For My Love For You | 4:19 |
+| D12 | Catch Hell Blues | 4:18 |
+| D13 | Effect And Cause | 3:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-white-stripes/1533513447" >}}<br>
 
 
-## Videos
-### 300 MPH Torrential Outpour Blues
-{{< youtube id="BN8c4nnnWYs" title="300 MPH Torrential Outpour Blues" >}}<br>
-### More Videos
-
-- [The White Stripes - Icky Thump Official Music Video](https://www.youtube.com/watch?v=1OjTspCqvk8)
-- [The White Stripes - Conquest Official Music Video](https://www.youtube.com/watch?v=0L7FuA8Rry8)
-- [The White Stripes - You Dont Know What Love Is You Just Do As Youre Told Official Music Video](https://www.youtube.com/watch?v=8xsF9fHdAfo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +70,5 @@ From the start, Jack White was an incisive and magnetic guitar player, his snarl
 | Format         | Vinyl 2× LP Album Record Store Day Reissue (180 Gram) |
 | Label          | Third Man Records |
 | Catalog Number | TMR-500 |
-| Notes | Black Friday release by third man records.  Direct-to-board double pocket gatefold LP jacket. 180 gram weight vinyl with 4-page insert.  The new TMR version has a printed inner sleeve with a black and white image. Audio sourced from the original master tapes. 100% all-analog mastering by NRP with even more superior sound than previous pressings.  © & ℗ 2007 / 2018 The White Stripes / Third Man Records, LLC. |
+| Notes | Black Friday release by third man records.<br><br>Direct-to-board double pocket gatefold LP jacket.<br>180 gram weight vinyl with 4-page insert.<br><br>The new TMR version has a printed inner sleeve with a black and white image.<br>Audio sourced from the original master tapes.<br>100% all-analog mastering by NRP with even more superior sound than previous pressings.<br><br>© & ℗ 2007 / 2018 The White Stripes / Third Man Records, LLC. |
 | Discogs URL    | [The White Stripes - Icky Thump](https://www.discogs.com/release/12839822-The-White-Stripes-Icky-Thump) |

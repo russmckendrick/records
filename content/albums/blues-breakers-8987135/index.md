@@ -4,6 +4,7 @@ artist_name: "John Mayall"
 artist: "john-mayall"
 album_name: "Blues Breakers"
 date: 2021-05-21T07:27:09.000000Z
+release_date: "1990-01-01"
 release_id: "8987135"
 slug: "blues-breakers-8987135"
 hideSummary: true
@@ -24,38 +25,32 @@ styles: ["Blues Rock", "Electric Blues", "Chicago Blues", "Harmonica Blues"]
 
 Blues Breakers, colloquially known as The Beano Album, is the debut studio album by the English blues rock band John Mayall & the Bluesbreakers, originally credited to John Mayall with Eric Clapton. Produced by Mike Vernon and released in 1966 by Decca Records (UK) and London Records (US), it pioneered a guitar-dominated blues-rock sound.
 The album was commercially successful and most critics viewed it positively. In 2003 and 2012, Rolling Stone ranked it number 195 on its list of the "500 Greatest Albums of All Time". It was voted number 391 in Colin Larkin's All Time Top 1000 Albums (2000).
-    
+        
+        
     
 
 
 ## Tracklisting
-1. All Your Love (3:35)
-2. Hideaway (3:14)
-3. Little Girl (2:33)
-4. Another Man (1:44)
-5. Double Crossing Time (3:02)
-6. What'd I Say (4:26)
-7. Key To Love (2:06)
-8. Parchman Farm (2:19)
-9. Have You Heard (5:44)
-10. Ramblin' On My Mind (3:07)
-11. Steppin' Out (2:28)
-12. It Ain't Right (2:41)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | All Your Love | 3:35 |
+| A2 | Hideaway | 3:14 |
+| A3 | Little Girl | 2:33 |
+| A4 | Another Man | 1:44 |
+| A5 | Double Crossing Time | 3:02 |
+| A6 | What'd I Say | 4:26 |
+| B1 | Key To Love | 2:06 |
+| B2 | Parchman Farm | 2:19 |
+| B3 | Have You Heard | 5:44 |
+| B4 | Ramblin' On My Mind | 3:07 |
+| B5 | Steppin' Out | 2:28 |
+| B6 | It Ain't Right | 2:41 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/silver-tones-the-best-of-john-mayall-the-bluesbreakers/254559678" >}}<br>
 
 
-## Videos
-### Steppin Out
-{{< youtube id="HquRIGE6zDA" title="Steppin Out" >}}<br>
-### More Videos
-
-- [Hideaway](https://www.youtube.com/watch?v=_xes9UVj6RY)
-- [All Your Love](https://www.youtube.com/watch?v=OkedAcAAcU4)
-- [Ramblin On My Mind](https://www.youtube.com/watch?v=mUrQlL4VGdo)
-- [Have You Heard Stereo](https://www.youtube.com/watch?v=2ZINjFcMs6k)
-- [Little Girl Stereo](https://www.youtube.com/watch?v=Dz61ZunjIRU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +62,5 @@ The album was commercially successful and most critics viewed it positively. In 
 | Format         | Vinyl LP Album Reissue Repress Mono (180 Gram) |
 | Label          | Decca |
 | Catalog Number | 0042280008611 |
-| Notes | Repress of [r4292610], but, in this release no limited edition and remastering mentioned anywhere  ℗ & © 1966 The Decca Record Company Limited, London, A Universal Music Company  Recorded At The Decca Studios No. 2, West Hampstead, London. April 1966. 180 gram Remastered Limited Edition Includes A Voucher To Download MP3 Version Of The Album. Issued as part of the 'Back To Black 60th Vinyl Anniversary' series The MP3 downloads include both the mono and stereo mixes.  |
+| Notes | Repress of [r4292610], but, in this release no limited edition and remastering mentioned anywhere<br><br>℗ & © 1966 The Decca Record Company Limited, London, A Universal Music Company<br><br>Recorded At The Decca Studios No. 2, West Hampstead, London. April 1966.<br>180 gram Remastered Limited Edition Includes A Voucher To Download MP3 Version Of The Album. Issued as part of the 'Back To Black 60th Vinyl Anniversary' series<br>The MP3 downloads include both the mono and stereo mixes.<br> |
 | Discogs URL    | [John Mayall - Blues Breakers](https://www.discogs.com/release/8987135-John-Mayall-With-Eric-Clapton-Blues-Breakers) |

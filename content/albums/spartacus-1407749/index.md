@@ -4,6 +4,7 @@ artist_name: "The Farm"
 artist: "the-farm"
 album_name: "Spartacus"
 date: 2019-04-26T12:44:40.000000Z
+release_date: "1991-03-04"
 release_id: "1407749"
 slug: "spartacus-1407749"
 hideSummary: true
@@ -28,82 +29,38 @@ Spartacus is the debut studio album by British rock band the Farm, released on 4
 Spartacus received generally positive reviews from music critics. Although some of them were split on the album's songwriting quality, while others praised it in the context of the baggy scene. The album topped the charts in the United Kingdom. "Groovy Train" was released as its lead single in August 1990, followed by the second single "All Together Now" in November 1990. "Don't Let Me Down" appeared in April 1991, and was promoted with a supporting slot for Happy Mondays in June 1991 at the Elland Road football stadium in Leeds. They then toured the United States with Big Audio Dynamite and Downtown Science. NME and Vox included the album on their lists of the year's best 50 releases.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Spartacus
-2. Hearts & Minds (4:24)
-3. How Long (3:35)
-4. Sweet Inspiration (5:26)
-5. Groovy Train (4:07)
-6. Higher & Higher (3:36)
-7. Don't Let Me Down (4:34)
-8. Family Of Man (4:42)
-9. Tell The Story (3:38)
-10. Very Emotional (4:40)
-11. All Together Now (5:41)
-12. Spartacus (Terry Farley Remix EP)
-13. Don't Let Me Down (Terry Farley Mix)
-14. Sweet Inspiration (Terry Farley Mix)
-15. Higher & Higher (Terry Farley Mix)
-16. Hearts & Minds (Terry Farley Mix)
-17. Very Emotional (Terry Farley Mix)
-18. Groovy Train (Terry Farley Mix)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Spartacus |  |
+| A1 | Hearts & Minds | 4:24 |
+| A2 | How Long | 3:35 |
+| A3 | Sweet Inspiration | 5:26 |
+| A4 | Groovy Train | 4:07 |
+| A5 | Higher & Higher | 3:36 |
+| B1 | Don't Let Me Down | 4:34 |
+| B2 | Family Of Man | 4:42 |
+| B3 | Tell The Story | 3:38 |
+| B4 | Very Emotional | 4:40 |
+| B5 | All Together Now | 5:41 |
+|  | Spartacus (Terry Farley Remix EP) |  |
+| C1 | Don't Let Me Down (Terry Farley Mix) |  |
+| C2 | Sweet Inspiration (Terry Farley Mix) |  |
+| C3 | Higher & Higher (Terry Farley Mix) |  |
+| D1 | Hearts & Minds (Terry Farley Mix) |  |
+| D2 | Very Emotional (Terry Farley Mix) |  |
+| D3 | Groovy Train (Terry Farley Mix) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/spartacus/1446872921" >}}<br>
 
 
-## Videos
-### The Farm - Groovy Train - Spartacus - London - 3491
-{{< youtube id="vUX8TODVuEQ" title="The Farm - Groovy Train - Spartacus - London - 3491" >}}<br>
-### More Videos
-
-- [The Farm - Groovy Train Terry Farley Mix](https://www.youtube.com/watch?v=RVSKUk5F5Ec)
-- [The Farm - ALL TOGETHER NOW Farley  Heller Mix d](https://www.youtube.com/watch?v=b366Sw5I1qs)
-- [The Farm - Dont Let Me Down Terry Farley Mix](https://www.youtube.com/watch?v=SzwPeEoJab0)
-- [The Farm - Sweet Inspiration Terry Farley Mix](https://www.youtube.com/watch?v=xQO59LyID3s)
-- [The Farm - Higher  Higher Terry Farley Mix](https://www.youtube.com/watch?v=ATdBTjdEoPo)
-- [The Farm - Hearts  Minds Terry Farley Mix](https://www.youtube.com/watch?v=3vbSzam6fA8)
-- [The Farm - Very Emotional Terry Farley Mix](https://www.youtube.com/watch?v=QLGzPRVGwoM)
-- [Higher and Higher Farley and Heller Remix](https://www.youtube.com/watch?v=7_nmZ8Ovbgw)
-- [Hearts and Minds](https://www.youtube.com/watch?v=Fg-0TMFS-BI)
-- [Higher and Higher Farley and Heller Remix](https://www.youtube.com/watch?v=RTET5kE_r1U)
-- [Very Emotional Farley and Heller Remix](https://www.youtube.com/watch?v=1yB61ij_eII)
-- [Groovy Train Luv Thug](https://www.youtube.com/watch?v=HV9srZzKHRQ)
-- [How Long](https://www.youtube.com/watch?v=r8pJHGi-gFE)
-- [Sweet Inspiration](https://www.youtube.com/watch?v=6lcniqej5d0)
-- [Very Emotional Farley and Heller Remix](https://www.youtube.com/watch?v=5BriUVeqYFQ)
-- [Higher and Higher](https://www.youtube.com/watch?v=6u-KNPRBkDg)
-- [Dont Let Me Down](https://www.youtube.com/watch?v=T68R4NEPWr0)
-- [Family of Man](https://www.youtube.com/watch?v=3GRzkWlE9n0)
-- [Tell the Story](https://www.youtube.com/watch?v=1uyb8GRZVOc)
-- [Very Emotional](https://www.youtube.com/watch?v=mXocIUKQ88Y)
-- [All Together Now Farley and Heller 7 Inch Edit](https://www.youtube.com/watch?v=HtXQ3QkuwmI)
-- [The Farm - Groovy Train - Spartacus - London - 3491](https://www.youtube.com/watch?v=vUX8TODVuEQ)
-- [The Farm - Groovy Train Terry Farley Mix](https://www.youtube.com/watch?v=RVSKUk5F5Ec)
-- [The Farm - ALL TOGETHER NOW Farley  Heller Mix d](https://www.youtube.com/watch?v=b366Sw5I1qs)
-- [The Farm - Dont Let Me Down Terry Farley Mix](https://www.youtube.com/watch?v=SzwPeEoJab0)
-- [The Farm - Sweet Inspiration Terry Farley Mix](https://www.youtube.com/watch?v=xQO59LyID3s)
-- [The Farm - Higher  Higher Terry Farley Mix](https://www.youtube.com/watch?v=ATdBTjdEoPo)
-- [The Farm - Hearts  Minds Terry Farley Mix](https://www.youtube.com/watch?v=3vbSzam6fA8)
-- [The Farm - Very Emotional Terry Farley Mix](https://www.youtube.com/watch?v=QLGzPRVGwoM)
-- [Higher and Higher Farley and Heller Remix](https://www.youtube.com/watch?v=7_nmZ8Ovbgw)
-- [Hearts and Minds](https://www.youtube.com/watch?v=Fg-0TMFS-BI)
-- [Higher and Higher Farley and Heller Remix](https://www.youtube.com/watch?v=RTET5kE_r1U)
-- [Very Emotional Farley and Heller Remix](https://www.youtube.com/watch?v=1yB61ij_eII)
-- [Groovy Train Luv Thug](https://www.youtube.com/watch?v=HV9srZzKHRQ)
-- [How Long](https://www.youtube.com/watch?v=r8pJHGi-gFE)
-- [Sweet Inspiration](https://www.youtube.com/watch?v=6lcniqej5d0)
-- [Very Emotional Farley and Heller Remix](https://www.youtube.com/watch?v=5BriUVeqYFQ)
-- [Higher and Higher](https://www.youtube.com/watch?v=6u-KNPRBkDg)
-- [Dont Let Me Down](https://www.youtube.com/watch?v=T68R4NEPWr0)
-- [Family of Man](https://www.youtube.com/watch?v=3GRzkWlE9n0)
-- [Tell the Story](https://www.youtube.com/watch?v=1uyb8GRZVOc)
-- [Very Emotional](https://www.youtube.com/watch?v=mXocIUKQ88Y)
-- [All Together Now Farley and Heller 7 Inch Edit](https://www.youtube.com/watch?v=HtXQ3QkuwmI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -115,5 +72,5 @@ Spartacus received generally positive reviews from music critics. Although some 
 | Format         | Vinyl LP Album, Vinyl 12" 33 ⅓ RPM EP Limited Edition |
 | Label          | Produce Records |
 | Catalog Number | MILK LP1 |
-| Notes | "Spartacus is dedicated to Mr & Mrs McVann in memory of their son Andy"  The Farm would like to thank Barney, Wayne, Macca, Ian, Kevin, Suggs & Farley.  All songs published by  Virgin Music (Publishers) Ltd. Design Miles & Carl © 91. Distributed by Pinnacle. Made in England. ℗ 1991 Produce Records © 1991 Produce Records   Recorded at Mayfair Studios (A1-A3, A5, B1, B2, B4), Liquidator Studios (A4, B2), Fairview Studios, Hull (B3). Mixed at Westside Studios (A1-A3, A5, B1, B4, B5), Konk Studios (A4). B2 remixed at Westside Studios/E-Zee Hire. B3 remixed at E-Zee Hire.  LP with printed inner sleeve. Early pressing of the album with accompanying bonus remix ep indicated by sticker on front cover.   No tracklist is present on bonus EP, info taken from full retail copy.  |
+| Notes | "Spartacus is dedicated to Mr & Mrs McVann in memory of their son Andy" <br>The Farm would like to thank Barney, Wayne, Macca, Ian, Kevin, Suggs & Farley.<br><br>All songs published by  Virgin Music (Publishers) Ltd.<br>Design Miles & Carl © 91.<br>Distributed by Pinnacle. Made in England.<br>℗ 1991 Produce Records<br>© 1991 Produce Records <br><br>Recorded at Mayfair Studios (A1-A3, A5, B1, B2, B4), Liquidator Studios (A4, B2), Fairview Studios, Hull (B3).<br>Mixed at Westside Studios (A1-A3, A5, B1, B4, B5), Konk Studios (A4). B2 remixed at Westside Studios/E-Zee Hire. B3 remixed at E-Zee Hire.<br><br>LP with printed inner sleeve.<br>Early pressing of the album with accompanying bonus remix ep indicated by sticker on front cover. <br><br>No tracklist is present on bonus EP, info taken from full retail copy.<br> |
 | Discogs URL    | [The Farm - Spartacus](https://www.discogs.com/release/1407749-The-Farm-Spartacus) |

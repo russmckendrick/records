@@ -4,6 +4,7 @@ artist_name: "The Slackers"
 artist: "the-slackers"
 album_name: "Peculiar"
 date: 2019-06-11T17:48:00.000000Z
+release_date: "2006-02-21"
 release_id: "13689689"
 slug: "peculiar-13689689"
 hideSummary: true
@@ -21,36 +22,36 @@ styles: ["Reggae", "Ska"]
 ---
 
 A royal peculiar is a Church of England parish or church exempt from the jurisdiction of the diocese and the province in which it lies, and subject to the direct jurisdiction of the monarch.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. First Act
-2. 86 The Mayo
-3. Peculiar
-4. Propaganda
-5. Crazy
-6. Set The Girl Free
-7. In Walked Capo
-8. Second Act
-9. I'd Rather Die Happy
-10. What Went Wrong
-11. Keep It Simple
-12. International War Criminal
-13. Sauron
-14. I Shall Be Released
-15. Encore 7"
-16. Rider
-17. Propaganda Dub
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | First Act |  |
+| A1 | 86 The Mayo |  |
+| A2 | Peculiar |  |
+| A3 | Propaganda |  |
+| A4 | Crazy |  |
+| A5 | Set The Girl Free |  |
+| A6 | In Walked Capo |  |
+|  | Second Act |  |
+| B1 | I'd Rather Die Happy |  |
+| B2 | What Went Wrong |  |
+| B3 | Keep It Simple |  |
+| B4 | International War Criminal |  |
+| B5 | Sauron |  |
+| B6 | I Shall Be Released |  |
+|  | Encore 7" |  |
+| A | Rider |  |
+| B | Propaganda Dub |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peculiar/1485051101" >}}<br>
 
-
-## Videos
-### The Slackers - Peculiar Full Album
-{{< youtube id="_3IU39RVIV8" title="The Slackers - Peculiar Full Album" >}}<br>
 
 
 ## Release Images
@@ -63,5 +64,5 @@ A royal peculiar is a Church of England parish or church exempt from the jurisdi
 | Format         | Vinyl LP Album Reissue (Blue Electric & White Galaxy), Vinyl 7" 45 RPM |
 | Label          | Pirates Press Records |
 | Catalog Number | PPR231-1 |
-| Notes | Electric blue & white "Galaxy" vinyl, limited to 500 copies (EU Version). Gatefold w/ bonus 7".  Recorded at Ernesto's, Sittard and mixed at Version City except for B1 recorded and mixed at Version City, New Jersey and B6 recorded and mixed at Coyote Studios. Additional overdubs recorded in Los Angeles. |
+| Notes | Electric blue & white "Galaxy" vinyl, limited to 500 copies (EU Version). Gatefold w/ bonus 7".<br><br>Recorded at Ernesto's, Sittard and mixed at Version City except for B1 recorded and mixed at Version City, New Jersey and B6 recorded and mixed at Coyote Studios.<br>Additional overdubs recorded in Los Angeles. |
 | Discogs URL    | [The Slackers - Peculiar](https://www.discogs.com/release/13689689-The-Slackers-Peculiar) |

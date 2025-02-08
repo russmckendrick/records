@@ -34,44 +34,27 @@ Behold one of the majestically silly couplets on this second serving of Kiwi com
 
 
 ## Tracklisting
-1. Hurt Feelings (2:38)
-2. Sugalumps (2:12)
-3. We're Both In Love With A Sexy Lady (2:49)
-4. I Told You I Was Freaky (3:15)
-5. Demon Woman (2:00)
-6. Rambling Through The Avenues Of Time (2:44)
-7. Fashion Is Danger (2:20)
-8. Petrov, Yelyena, And Me (2:28)
-9. Too Many Dicks (On The Dance Floor) (2:29)
-10. You Don't Have To Be A Prostitute (2:50)
-11. Friends (2:04)
-12. Carol Brown (3:27)
-13. Angels (2:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hurt Feelings | 2:38 |
+| A2 | Sugalumps | 2:12 |
+| A3 | We're Both In Love With A Sexy Lady | 2:49 |
+| A4 | I Told You I Was Freaky | 3:15 |
+| A5 | Demon Woman | 2:00 |
+| A6 | Rambling Through The Avenues Of Time | 2:44 |
+| B1 | Fashion Is Danger | 2:20 |
+| B2 | Petrov, Yelyena, And Me | 2:28 |
+| B3 | Too Many Dicks (On The Dance Floor) | 2:29 |
+| B4 | You Don't Have To Be A Prostitute | 2:50 |
+| B5 | Friends | 2:04 |
+| B6 | Carol Brown | 3:27 |
+| B7 | Angels | 2:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-told-you-i-was-freaky/335064254" >}}<br>
 
 
-## Videos
-### Flight of the Conchords- Pencils In The Wind Album Verison
-{{< youtube id="86wcD9XmJ_k" title="Flight of the Conchords- Pencils In The Wind Album Verison" >}}<br>
-### More Videos
-
-- [Flight of the Conchords - Hurt Feelings](https://www.youtube.com/watch?v=xm_Ie0VRv7k)
-- [Were Both In Love with a Sexy Lady](https://www.youtube.com/watch?v=m-gNgEa7_wo)
-- [Demon Woman](https://www.youtube.com/watch?v=2shdLm-HpVU)
-- [Carol Brown](https://www.youtube.com/watch?v=Hz5SFQsLzAg)
-- [Fashion is Danger](https://www.youtube.com/watch?v=EU3QKZPT2yU)
-- [Friends](https://www.youtube.com/watch?v=LGjPMLGqkPk)
-- [You Dont Have To Be A Prostitute](https://www.youtube.com/watch?v=-l3H20wCkeA)
-- [I Told You I Was Freaky](https://www.youtube.com/watch?v=YikWapO2TQs)
-- [Too Many Dicks On The Dance Floor](https://www.youtube.com/watch?v=fCpOdB8lBvg)
-- [Hurt Feelings](https://www.youtube.com/watch?v=GRinCeOBNwE)
-- [Rambling Through The Avenues Of Time](https://www.youtube.com/watch?v=-fny4N4t9N0)
-- [Petrov Yelyena And Me](https://www.youtube.com/watch?v=IGzbIgDxjrA)
-- [Sugalumps](https://www.youtube.com/watch?v=4QnCfVkL-K4)
-- [Angels](https://www.youtube.com/watch?v=Pt_ujVh6o-0)
-- [I Told You I Was Freaky](https://www.youtube.com/watch?v=un75I40-xro)
 
 ## Release Images
 {{< imageGrid >}}

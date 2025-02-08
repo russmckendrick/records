@@ -32,43 +32,25 @@ In the year of gangsta rap’s pop triumph, De La maintain a speed limit on the 
 
 
 ## Tracklisting
-1. Eye Patch (2:28)
-2. En Focus (3:15)
-3. Patti Dooke (5:54)
-4. I Be Blowin' (4:58)
-5. Ego Trippin' (Part Two) (3:52)
-6. 3 Days Later (2:39)
-7. Area (3:32)
-8. I Am I Be (5:03)
-9. In The Woods (4:03)
-10. Breakadawn (4:15)
-11. Stone Age (4:13)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Eye Patch | 2:28 |
+| A2 | En Focus | 3:15 |
+| A3 | Patti Dooke | 5:54 |
+| A4 | I Be Blowin' | 4:58 |
+| A5 | Ego Trippin' (Part Two) | 3:52 |
+| B1 | 3 Days Later | 2:39 |
+| B2 | Area | 3:32 |
+| B3 | I Am I Be | 5:03 |
+| B4 | In The Woods | 4:03 |
+| B5 | Breakadawn | 4:15 |
+| B6 | Stone Age | 4:13 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/buhloone-mindstate/1664590204" >}}<br>
 
 
-## Videos
-### De La Soul - Buhloone Mindstate EEUU 1993 - Full Album
-{{< youtube id="HU10jW7nEhM" title="De La Soul - Buhloone Mindstate EEUU 1993 - Full Album" >}}<br>
-### More Videos
-
-- [De La Soul - Breakadawn Official Music Video HD](https://www.youtube.com/watch?v=2WbSBLplJS0)
-- [De La Soul - Intro Official Audio](https://www.youtube.com/watch?v=L0rH7bwFnV4)
-- [De La Soul - Eye Patch Official Audio](https://www.youtube.com/watch?v=9F2QKqCXOWI)
-- [De La Soul - En Focus Official Audio ft Dres Shortie No Mass](https://www.youtube.com/watch?v=1_g2OmxgIEg)
-- [Patti Dooke Official Audio](https://www.youtube.com/watch?v=n0X2h56qlG4)
-- [De La Soul - I Be Blowin Official Audio ft Maceo Parker](https://www.youtube.com/watch?v=DpkDu0XEu74)
-- [De La Soul - Long Island Wildin Official Audio ft Scha Dara Parr  Takagi Kan](https://www.youtube.com/watch?v=FPZwYTQbsuY)
-- [De La Soul - Ego Trippin Part Two Official Music Video HD ft Shortie No Mass](https://www.youtube.com/watch?v=eu1g18U1_6s)
-- [De La Soul - Pauls Revenge Official Audio](https://www.youtube.com/watch?v=nYpEc2-kfJY)
-- [De La Soul - 3 Days Later Official Audio](https://www.youtube.com/watch?v=PlH8Qog7f_4)
-- [De La Soul - Area Official Audio](https://www.youtube.com/watch?v=PxiVxvbb3QY)
-- [De La Soul - I Am I Be Official Audio ft Maceo Parker Fred Wesley Pee Wee Ellis](https://www.youtube.com/watch?v=WCX1mYNMUvA)
-- [De La Soul - In The Woods Official Audio ft Shortie No Mass](https://www.youtube.com/watch?v=7nbYVYfnP-w)
-- [De La Soul - Dave Has a ProblemSeriously Official Audio](https://www.youtube.com/watch?v=xCRoczLRZOw)
-- [De La Soul - Stone Age Official Audio ft Biz Markie](https://www.youtube.com/watch?v=3vn1a4__FZQ)
-- [De La Soul - Buhloone Mindstate EEUU 1993 - Full Album](https://www.youtube.com/watch?v=HU10jW7nEhM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +62,5 @@ In the year of gangsta rap’s pop triumph, De La maintain a speed limit on the 
 | Format         | Vinyl LP Album Reissue |
 | Label          | AOI Records |
 | Catalog Number | RMM 053-1 |
-| Notes | ℗ & © A.O.I., LLC under exclusive license to Chrysalis Records Limited.  Sticker on back-cover can come with "Made in Czech Republic" or "Made in Canada". |
+| Notes | ℗ & © A.O.I., LLC under exclusive license to Chrysalis Records Limited.<br><br>Sticker on back-cover can come with "Made in Czech Republic" or "Made in Canada". |
 | Discogs URL    | [De La Soul - Buhloone Mind State](https://www.discogs.com/release/26977373-De-La-Soul-Buhloone-Mind-State) |

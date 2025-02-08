@@ -4,6 +4,7 @@ artist_name: "Devin Townsend"
 artist: "devin-townsend"
 album_name: "Order Of Magnitude - Empath Live Volume 1"
 date: 2020-10-27T13:37:21.000000Z
+release_date: "2020-10-23"
 release_id: "16092605"
 slug: "order-of-magnitude-empath-live-volume-1-16092605"
 hideSummary: true
@@ -22,54 +23,51 @@ styles: ["Progressive Metal", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Borderlands
-2. Evermore
-3. War
-4. Sprite
-5. Gigpig Jam
-6. Coast
-7. Gato
-8. Heavens End
-9. Ain't Never Gonna Win
-10. Deadhead
-11. Why
-12. Lucky Animals
-13. Castaway / Genesis
-14. Spirits Will Collide
-15. Disco Inferno
-16. Kingdom
-17. Borderlands
-18. Evermore
-19. War
-20. Sprite
-21. Gigpig Jam
-22. Coast
-23. Gato
-24. Heavens End
-25. Ain't Never Gonna Win
-26. Deadhead
-27. Why?
-28. Lucky Animals
-29. Castaway / Genesis
-30. Spirits Will Collide
-31. Disco Inferno
-32. Kingdom
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Borderlands |  |
+| A2 | Evermore |  |
+| A3 | War |  |
+| B1 | Sprite |  |
+| B2 | Gigpig Jam |  |
+| B3 | Coast |  |
+| C1 | Gato |  |
+| C2 | Heavens End |  |
+| C3 | Ain't Never Gonna Win |  |
+| D1 | Deadhead |  |
+| D2 | Why |  |
+| D3 | Lucky Animals |  |
+| E1 | Castaway / Genesis |  |
+| E2 | Spirits Will Collide |  |
+| F1 | Disco Inferno |  |
+| F2 | Kingdom |  |
+| CD1-1 | Borderlands |  |
+| CD1-2 | Evermore |  |
+| CD1-3 | War |  |
+| CD1-4 | Sprite |  |
+| CD1-5 | Gigpig Jam |  |
+| CD1-6 | Coast |  |
+| CD1-7 | Gato |  |
+| CD1-8 | Heavens End |  |
+| CD1-9 | Ain't Never Gonna Win |  |
+| CD2-1 | Deadhead |  |
+| CD2-2 | Why? |  |
+| CD2-3 | Lucky Animals |  |
+| CD2-4 | Castaway / Genesis |  |
+| CD2-5 | Spirits Will Collide |  |
+| CD2-6 | Disco Inferno |  |
+| CD2-7 | Kingdom |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/order-of-magnitude-empath-live-volume-1/1527816549" >}}<br>
 
 
-## Videos
-### Devin Townsend GENESIS Order of Magnitude - Official Promo Video
-{{< youtube id="qtgv89oLCOU" title="Devin Townsend GENESIS Order of Magnitude - Official Promo Video" >}}<br>
-### More Videos
-
-- [Borderlands live in London 2019](https://www.youtube.com/watch?v=xo8iSy87-5w)
-- [Gigpig Jam live in London 2019](https://www.youtube.com/watch?v=bHPDq9XZrLo)
-- [Disco Inferno live in London 2019](https://www.youtube.com/watch?v=7BnKtXVoAFo)
-- [DEVIN TOWNSEND - Spirits Will Collide OFFICIAL VIDEO](https://www.youtube.com/watch?v=AdHJurX0yVA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +78,5 @@ styles: ["Progressive Metal", "Prog Rock"]
 | Format         | Vinyl 3× LP Album (Green Olive, 180g), CD 2× Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 563 |
-| Notes | Recorded on December 12th, 2019 at the Roundhouse, Camden, London, United Kingdom.  Issued with a postcard, a coaster and a sticker.  Slipcase sleeve with a gatefold sleeve for the first two LPs and a standard sleeve for the third one. CDs housed in a protective plastic sleeve. |
+| Notes | Recorded on December 12th, 2019 at the Roundhouse, Camden, London, United Kingdom.<br><br>Issued with a postcard, a coaster and a sticker.<br><br>Slipcase sleeve with a gatefold sleeve for the first two LPs and a standard sleeve for the third one.<br>CDs housed in a protective plastic sleeve. |
 | Discogs URL    | [Devin Townsend - Order Of Magnitude - Empath Live Volume 1](https://www.discogs.com/release/16092605-Devin-Townsend-Order-Of-Magnitude-Empath-Live-Volume-1) |

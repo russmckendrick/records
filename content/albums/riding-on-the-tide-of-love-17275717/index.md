@@ -4,6 +4,7 @@ artist_name: "Deacon Blue"
 artist: "deacon-blue"
 album_name: "Riding On The Tide Of Love"
 date: 2022-02-15T06:06:04.000000Z
+release_date: "2021-02-05"
 release_id: "17275717"
 slug: "riding-on-the-tide-of-love-17275717"
 hideSummary: true
@@ -25,40 +26,28 @@ styles: ["Pop Rock"]
 Riding on the Tide of Love is the tenth studio album by Scottish band Deacon Blue released on 5 February 2021. The lead single from the album, the title track "Riding on the Tide of Love", was released on 27 November 2020.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Riding On The Tide Of Love
-2. She Loved The Snow
-3. Nothing's Changed
-4. Look Up
-5. Time
-6. Send A Note Out 
-7. Not Gonna Be That Girl
-8. It's Still Early 
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Riding On The Tide Of Love |  |
+| A2 | She Loved The Snow |  |
+| A3 | Nothing's Changed |  |
+| A4 | Look Up |  |
+| B1 | Time |  |
+| B2 | Send A Note Out  |  |
+| B3 | Not Gonna Be That Girl |  |
+| B4 | It's Still Early  |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/riding-on-the-tide-of-love/1552700945" >}}<br>
 
 
-## Videos
-### Deacon Blue - Riding On The Tide Of Love Official Lyric Video
-{{< youtube id="ylCZZVkwbig" title="Deacon Blue - Riding On The Tide Of Love Official Lyric Video" >}}<br>
-### More Videos
-
-- [Deacon Blue - Not Gonna Be That Girl Official Audio](https://www.youtube.com/watch?v=HEMgponMEZ4)
-- [Deacon Blue - Look Up Official Audio](https://www.youtube.com/watch?v=5MuKyy1c79Q)
-- [Deacon Blue - Its Still Early Official Audio](https://www.youtube.com/watch?v=YhWyfNhlPrI)
-- [Deacon Blue - Time Official Audio](https://www.youtube.com/watch?v=1CCo2rnUkjo)
-- [Deacon Blue - Send A Note Out Official Audio](https://www.youtube.com/watch?v=FN848fRtE_A)
-- [Deacon Blue - Nothings Changed Official Audio](https://www.youtube.com/watch?v=kkyuGrqIGAQ)
-- [Deacon Blue - She Loved The Snow Official Audio](https://www.youtube.com/watch?v=kk4iy86H-o0)
-- [Deacon Blue - I Will and I Wont At Home Sessions](https://www.youtube.com/watch?v=yiSF3N8ks8M)
-- [Deacon Blue - Only Tender Love At Home Sessions](https://www.youtube.com/watch?v=xPRpQFGtbqw)
-- [Deacon Blue - Chocolate Girl At Home Sessions](https://www.youtube.com/watch?v=T_WfwMhVrHU)
-- [Deacon Blue - City of Love At Home Sessions](https://www.youtube.com/watch?v=eyEUQOIwxuY)
 
 ## Release Images
 {{< imageGrid >}}

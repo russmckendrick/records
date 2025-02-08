@@ -1,7 +1,7 @@
 ---
 title: "Squeeze - Singles - 45's And Under"
 artist_name: "Squeeze"
-artist: "squeeze-2"
+artist: "squeeze"
 album_name: "Singles - 45's And Under"
 date: 2015-09-11T18:02:25.000000Z
 release_date: "1982"
@@ -33,36 +33,26 @@ Every song in the collection is expertly built so the chronological track listin
 
 
 ## Tracklisting
-1. Take Me I'm Yours (2:48)
-2. Goodbye Girl (3:05)
-3. Cool For Cats (3:11)
-4. Up The Junction (3:40)
-5. Slap And Tickle (4:16)
-6. Another Nail In My Heart (2:55)
-7. Pulling Mussels (From The Shell) (3:57)
-8. Is That Love (2:31)
-9. Tempted (3:58)
-10. Labelled With Love (4:33)
-11. Black Coffee In Bed (6:11)
-12. Annie Get Your Gun (3:22)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Take Me I'm Yours | 2:48 |
+| A2 | Goodbye Girl | 3:05 |
+| A3 | Cool For Cats | 3:11 |
+| A4 | Up The Junction | 3:40 |
+| A5 | Slap And Tickle | 4:16 |
+| A6 | Another Nail In My Heart | 2:55 |
+| A7 | Pulling Mussels (From The Shell) | 3:57 |
+| B1 | Is That Love | 2:31 |
+| B2 | Tempted | 3:58 |
+| B3 | Labelled With Love | 4:33 |
+| B4 | Black Coffee In Bed | 6:11 |
+| B5 | Annie Get Your Gun | 3:22 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/singles-45s-and-under/1446091631" >}}<br>
 
 
-## Videos
-### Pulling Mussels From The Shell
-{{< youtube id="vB5glE-Oo94" title="Pulling Mussels From The Shell" >}}<br>
-### More Videos
-
-- [Black Coffee In Bed](https://www.youtube.com/watch?v=ZyF425Fu3o4)
-- [Is That Love](https://www.youtube.com/watch?v=ROjSnSo0DiI)
-- [Take Me Im Yours](https://www.youtube.com/watch?v=YrVn4HAh2vM)
-- [Annie Get Your Gun](https://www.youtube.com/watch?v=0Bfm_1Ralgc)
-- [Tempted](https://www.youtube.com/watch?v=WWteW9MAzdo)
-- [If I Didnt Love You](https://www.youtube.com/watch?v=liLruG9gV40)
-- [Squeeze - Is That Love 1981](https://www.youtube.com/watch?v=Uz0UeOUBnn8)
-- [Squeeze - Up The Junction](https://www.youtube.com/watch?v=RQciegmLPAo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +63,5 @@ Every song in the collection is expertly built so the chronological track listin
 | Format         | Vinyl LP Compilation |
 | Label          | A&M Records |
 | Catalog Number | AMLH 68552 |
-| Notes | Made in England    Printed inner sleeve   |
+| Notes | Made in England<br><br>Printed inner sleeve<br> |
 | Discogs URL    | [Squeeze - Singles - 45's And Under](https://www.discogs.com/release/1592619-Squeeze-2-Singles-45s-And-Under) |

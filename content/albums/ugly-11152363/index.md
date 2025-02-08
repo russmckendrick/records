@@ -4,6 +4,7 @@ artist_name: "Life Of Agony"
 artist: "life-of-agony"
 album_name: "Ugly"
 date: 2017-11-18T11:54:07.000000Z
+release_date: "1995-10-09"
 release_id: "11152363"
 slug: "ugly-11152363"
 hideSummary: true
@@ -35,42 +36,32 @@ Original drummer, Sal Abruscato, left the band after the album's tour in 1996, d
 While many fans consider River Runs Red to be Life Of Agony's definitive work, some consider Ugly to be one of the most overlooked alternative metal albums of the '90s, with some critics describing the album as, "near flawless".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Seasons
-2. I Regret
-3. Lost At 22
-4. Other Side Of The River
-5. Let's Pretend
-6. Ugly
-7. Drained
-8. How It Would Be
-9. Unstable
-10. Damned If I Do
-11. Fears
-12. Don't You (Forget About Me)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Seasons |  |
+| A2 | I Regret |  |
+| A3 | Lost At 22 |  |
+| A4 | Other Side Of The River |  |
+| A5 | Let's Pretend |  |
+| A6 | Ugly |  |
+| B1 | Drained |  |
+| B2 | How It Would Be |  |
+| B3 | Unstable |  |
+| B4 | Damned If I Do |  |
+| B5 | Fears |  |
+| B6 | Don't You (Forget About Me) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ugly/214469827" >}}<br>
 
 
-## Videos
-### Life Of Agony - Other Side Of The River
-{{< youtube id="xNU60NaUad0" title="Life Of Agony - Other Side Of The River" >}}<br>
-### More Videos
-
-- [Life Of Agony - Lets Pretend](https://www.youtube.com/watch?v=7HbBqtLCQcA)
-- [Life Of Agony - Dont You](https://www.youtube.com/watch?v=aETJgnyY5Z0)
-- [Drained](https://www.youtube.com/watch?v=d1yvjskx6YA)
-- [Seasons](https://www.youtube.com/watch?v=3Mi07oOSE7Y)
-- [Ugly](https://www.youtube.com/watch?v=GP5cCDK5em4)
-- [How It Would Be](https://www.youtube.com/watch?v=AxCttqLFM7E)
-- [Other Side of the River](https://www.youtube.com/watch?v=bT136PsORQs)
-- [Lets Pretend](https://www.youtube.com/watch?v=ddbThTyGJwQ)
-- [Lost at 22](https://www.youtube.com/watch?v=kjTXXVQltP0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +73,5 @@ While many fans consider River Runs Red to be Life Of Agony's definitive work, s
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Gold, 180 gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2003 |
-| Notes | Limited edition of 1,500 individually numbered copies. Includes insert.  Made in the EU. |
+| Notes | Limited edition of 1,500 individually numbered copies. Includes insert.<br><br>Made in the EU. |
 | Discogs URL    | [Life Of Agony - Ugly](https://www.discogs.com/release/11152363-Life-Of-Agony-Ugly) |

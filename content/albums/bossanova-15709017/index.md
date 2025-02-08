@@ -32,48 +32,28 @@ Compared to <I>Doolittle</I>, 1990’s <I>Bossanova</I> was superficially slight
 
 
 ## Tracklisting
-1. Cecilia Ann
-2. Rock Music
-3. Velouria
-4. Allison
-5. Is She Weird
-6. Ana
-7. All Over The World
-8. Dig For Fire
-9. Down To The Well
-10. The Happening
-11. Blown Away
-12. Hang Wire
-13. Stormy Weather
-14. Havalina
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cecilia Ann |  |
+| A2 | Rock Music |  |
+| A3 | Velouria |  |
+| A4 | Allison |  |
+| A5 | Is She Weird |  |
+| A6 | Ana |  |
+| A7 | All Over The World |  |
+| B1 | Dig For Fire |  |
+| B2 | Down To The Well |  |
+| B3 | The Happening |  |
+| B4 | Blown Away |  |
+| B5 | Hang Wire |  |
+| B6 | Stormy Weather |  |
+| B7 | Havalina |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bossanova/1025319099" >}}<br>
 
 
-## Videos
-### Cecilia Ann
-{{< youtube id="V27ISDEbZ_Y" title="Cecilia Ann" >}}<br>
-### More Videos
-
-- [Rock Music](https://www.youtube.com/watch?v=vDVpJIidloc)
-- [Pixies - Velouria Official Video](https://www.youtube.com/watch?v=nc0Mv4Iyxvc)
-- [The Pixies - Allison on vinyl from the album Bossanova](https://www.youtube.com/watch?v=Sv9oWss6zww)
-- [Is She Weird](https://www.youtube.com/watch?v=Tpw9TkeZHoA)
-- [PIXIES - Ana Official Lyric Video](https://www.youtube.com/watch?v=vSnqUyS5YSY)
-- [All Over the World](https://www.youtube.com/watch?v=WjxqjUGuEDA)
-- [Pixies Dig for Fire](https://www.youtube.com/watch?v=xekfBhiqfig)
-- [PIXIESBOSSANOVADOWN TO THE WELL12 LP1990](https://www.youtube.com/watch?v=WrbWaqkJ59E)
-- [The Happening](https://www.youtube.com/watch?v=S5E8B0xlUJ4)
-- [Blown Away](https://www.youtube.com/watch?v=qvjycdk0OiE)
-- [Hang Wire](https://www.youtube.com/watch?v=r7fw_hNArec)
-- [Stormy Weather](https://www.youtube.com/watch?v=TgCXmJ6iljw)
-- [Havalina](https://www.youtube.com/watch?v=etRhQQaHksg)
-- [Allison](https://www.youtube.com/watch?v=37PhHlPhNpM)
-- [Is She Weird](https://www.youtube.com/watch?v=Tpw9TkeZHoA)
-- [Rock Music](https://www.youtube.com/watch?v=vDVpJIidloc)
-- [All Over the World](https://www.youtube.com/watch?v=WjxqjUGuEDA)
-- [Down To The Well](https://www.youtube.com/watch?v=UPxn_IvXZfI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +65,5 @@ Compared to <I>Doolittle</I>, 1990’s <I>Bossanova</I> was superficially slight
 | Format         | Vinyl LP Album Limited Edition Reissue (Red Translucent) |
 | Label          | 4AD |
 | Catalog Number | 4AD 0265 LPX |
-| Notes | 30th Anniversary Limited Red Vinyl Edition includes Original Booklet.  The booklet previously only available in the UK release. |
+| Notes | 30th Anniversary<br>Limited Red Vinyl Edition includes Original Booklet.<br><br>The booklet previously only available in the UK release. |
 | Discogs URL    | [Pixies - Bossanova](https://www.discogs.com/release/15709017-Pixies-Bossanova) |

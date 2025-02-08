@@ -36,39 +36,26 @@ First single “The Tower” serves as a lynchpin between the two albums, bridgi
 
 
 ## Tracklisting
-1. King Of Sweden
-2. The Tower
-3. Deep In The Night
-4. Say Goodbye
-5. Give Me The Ghost Back
-6. Corner Of My Eye
-7. The Thief
-8. Iris
-9. The Fight
-10. Peach
-11. The Sickness
-12. The Garden Wheel
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | King Of Sweden |  |
+| A2 | The Tower |  |
+| A3 | Deep In The Night |  |
+| A4 | Say Goodbye |  |
+| A5 | Give Me The Ghost Back |  |
+| A6 | Corner Of My Eye |  |
+| B7 | The Thief |  |
+| B8 | Iris |  |
+| B9 | The Fight |  |
+| B10 | Peach |  |
+| B11 | The Sickness |  |
+| B12 | The Garden Wheel |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/people-who-arent-there-anymore/1710447164" >}}<br>
 
 
-## Videos
-### Future Islands - King of Sweden
-{{< youtube id="P9m9yYT2hFc" title="Future Islands - King of Sweden" >}}<br>
-### More Videos
-
-- [Future Islands - The Tower Official Video](https://www.youtube.com/watch?v=WFmovmenhoU)
-- [Future Islands - Deep in the Night Official Video](https://www.youtube.com/watch?v=HWFh8yOPqQM)
-- [Future Islands - Say Goodbye Official Video](https://www.youtube.com/watch?v=Sv4BEtDpa3U)
-- [Future Islands - Give Me The Ghost Back Official Lyric Video](https://www.youtube.com/watch?v=VyEh9RVam24)
-- [Future Islands - Corner Of My Eye Official Lyric Video](https://www.youtube.com/watch?v=OGC_Yld_XxA)
-- [Future Islands - The Thief Official Video](https://www.youtube.com/watch?v=cccB8ULwmeI)
-- [Future Islands - Iris Official Lyric Video](https://www.youtube.com/watch?v=Ayi_K2z6fuk)
-- [Future Islands - The Fight Official Video](https://www.youtube.com/watch?v=393AKIJlh8c)
-- [Future Islands - Peach](https://www.youtube.com/watch?v=mynHFOzco_8)
-- [Future Islands - The Sickness Official Lyric Video](https://www.youtube.com/watch?v=dAIBDOsreCo)
-- [Future Islands - The Garden Wheel Official Lyric Video](https://www.youtube.com/watch?v=3Ws04HCjNx0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +67,5 @@ First single “The Tower” serves as a lynchpin between the two albums, bridgi
 | Format         | Vinyl LP Album (Transparent) |
 | Label          | 4AD |
 | Catalog Number | 4AD0621LPE |
-| Notes | Indie store exclusive transparent coloured vinyl  Tracks are listed sequentially on the back cover |
+| Notes | Indie store exclusive transparent coloured vinyl<br><br>Tracks are listed sequentially on the back cover |
 | Discogs URL    | [Future Islands - People Who Aren't There Anymore](https://www.discogs.com/release/29592508-Future-Islands-People-Who-Arent-There-Anymore) |

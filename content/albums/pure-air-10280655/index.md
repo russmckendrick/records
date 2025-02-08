@@ -4,6 +4,7 @@ artist_name: "Anneke van Giersbergen"
 artist: "anneke-van-giersbergen"
 album_name: "Pure Air"
 date: 2017-05-25T18:36:52.000000Z
+release_date: "2009-01-30"
 release_id: "10280655"
 slug: "pure-air-10280655"
 hideSummary: true
@@ -23,28 +24,31 @@ styles: ["Pop Rock"]
 Pure Air is a compilation album by Agua de Annique, a band formed by the former The Gathering vocalist Anneke van Giersbergen. It was released in 2009. It contains tracks from their first album Air, and also songs featuring other artists.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Blower's Daughter (4:33)
-2. Beautiful One (5:55)
-3. Wild Flowers (4:19)
-4. Day After Yesterday (3:43)
-5. Come Wander With Me (3:34)
-6. Valley Of The Queens (2:40)
-7. To Catch A Thief (5:46)
-8. Ironic (3:54)
-9. What's The Reason? (3:31)
-10. Yalin (3:40)
-11. Somewhere (4:09)
-12. Witnesses (1:51)
-13. The Power Of Love (4:44)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Blower's Daughter | 4:33 |
+| A2 | Beautiful One | 5:55 |
+| A3 | Wild Flowers | 4:19 |
+| A4 | Day After Yesterday | 3:43 |
+| A5 | Come Wander With Me | 3:34 |
+| A6 | Valley Of The Queens | 2:40 |
+| B1 | To Catch A Thief | 5:46 |
+| B2 | Ironic | 3:54 |
+| B3 | What's The Reason? | 3:31 |
+| B4 | Yalin | 3:40 |
+| B5 | Somewhere | 4:09 |
+| B6 | Witnesses | 1:51 |
+| B7 | The Power Of Love | 4:44 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pure-air/1769677781" >}}<br>
-
 
 
 
@@ -58,5 +62,5 @@ Pure Air is a compilation album by Agua de Annique, a band formed by the former 
 | Format         | Vinyl LP Album Limited Edition Numbered (Red) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1875 |
-| Notes | Limited to 1,000 copies worldwide Number stamped on rear sleeve in gold. |
+| Notes | Limited to 1,000 copies worldwide<br>Number stamped on rear sleeve in gold. |
 | Discogs URL    | [Anneke van Giersbergen - Pure Air](https://www.discogs.com/release/10280655-Anneke-van-Giersbergen-With-Agua-De-Annique-Pure-Air) |

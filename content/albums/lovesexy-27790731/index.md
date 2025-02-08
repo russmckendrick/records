@@ -4,6 +4,7 @@ artist_name: "Prince"
 artist: "prince"
 album_name: "Lovesexy"
 date: 2023-09-10T02:27:27.000000Z
+release_date: "1988-05-10"
 release_id: "27790731"
 slug: "lovesexy-27790731"
 hideSummary: true
@@ -31,24 +32,27 @@ Despite being critically acclaimed, Lovesexy only reached number 11 on the Billb
 Lovesexy was accompanied by the Lovesexy Tour, of which the September 9th Dortmund show in Germany was released on video cassette and LaserDisc. The tour was also televised (with a short delay for editorial purposes) on several European channels, with the broadcast containing various alternate camera shots in place of the ones used in the officially released video, which was released a year later in 1989.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Eye No
-2. Alphabet St.
-3. Glam Slam
-4. Anna Stesia
-5. Dance On
-6. Lovesexy
-7. When 2 R In Love
-8. I Wish U Heaven
-9. Positivity
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Eye No |  |
+| A2 | Alphabet St. |  |
+| A3 | Glam Slam |  |
+| A4 | Anna Stesia |  |
+| B1 | Dance On |  |
+| B2 | Lovesexy |  |
+| B3 | When 2 R In Love |  |
+| B4 | I Wish U Heaven |  |
+| B5 | Positivity |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lovesexy/1608900425" >}}<br>
-
 
 
 
@@ -62,5 +66,5 @@ Lovesexy was accompanied by the Lovesexy Tour, of which the September 9th Dortmu
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Legacy |
 | Catalog Number | 19439904001 |
-| Notes | Hype sticker on shrink-wrap: Lovesexy "Lovesexy was a mind trip, like a psychedelic movie" -PRINCE features "Alphabet St." and "Glam Slam"  Issued with printed glossy inner sleeve. Printed on labels and spine as "PRINCE LOVESEXY"  "Eye" in track title A1 and printed in all lyrics on the inner sleeve is represented by a stylized "👁" eye symbol.  Side A: Total Timing 21:29 Side B: Total Timing 23:32 Songs are in a continuous sequence  "Vinyl Made In France" on barcode sticker on shrink-wrap.  ℗ 1988 & © 1988, 2023 NPG Records, LLC, under exclusive license to  Sony Music Entertainment for the U.S.A.  and Warner Records Inc., a Warner Music Group Company, for the world outside the U.S.A.  In runouts, "[MPO logo]® 23 303XXX" is stamped, rest is etched.  |
+| Notes | Hype sticker on shrink-wrap:<br>Lovesexy<br>"Lovesexy was a mind trip,<br>like a psychedelic movie"<br>-PRINCE<br>features<br>"Alphabet St." and "Glam Slam"<br><br>Issued with printed glossy inner sleeve. Printed on labels and spine as "PRINCE LOVESEXY"<br><br>"Eye" in track title A1 and printed in all lyrics on the inner sleeve is represented by a stylized "👁" eye symbol.<br><br>Side A: Total Timing 21:29<br>Side B: Total Timing 23:32<br>Songs are in a continuous sequence<br><br>"Vinyl Made In France" on barcode sticker on shrink-wrap.<br><br>℗ 1988 & © 1988, 2023 NPG Records, LLC, under exclusive license to  Sony Music Entertainment for the U.S.A. <br>and Warner Records Inc., a Warner Music Group Company, for the world outside the U.S.A.<br><br>In runouts, "[MPO logo]® 23 303XXX" is stamped, rest is etched.<br> |
 | Discogs URL    | [Prince - Lovesexy](https://www.discogs.com/release/27790731-Prince-Lovesexy) |

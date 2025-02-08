@@ -36,33 +36,26 @@ Maxinquaye reached the number three position on the United Kingdom's albums char
 
 
 ## Tracklisting
-1. Overcome
-2. Ponderosa
-3. Black Steel
-4. Hell Is Round The Corner
-5. Pumpkin
-6. Aftermath
-7. Abbaon Fat Tracks
-8. Brand New You're Retro
-9. Suffocated Love
-10. You Don't
-11. Strugglin'
-12. Feed Me
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Overcome |  |
+| A2 | Ponderosa |  |
+| A3 | Black Steel |  |
+| A4 | Hell Is Round The Corner |  |
+| A5 | Pumpkin |  |
+| A6 | Aftermath |  |
+| B1 | Abbaon Fat Tracks |  |
+| B2 | Brand New You're Retro |  |
+| B3 | Suffocated Love |  |
+| B4 | You Don't |  |
+| B5 | Strugglin' |  |
+| B6 | Feed Me |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/maxinquaye/1440918276" >}}<br>
 
 
-## Videos
-### Feed Me
-{{< youtube id="IlB3Exvb4NM" title="Feed Me" >}}<br>
-### More Videos
-
-- [Pumpkin](https://www.youtube.com/watch?v=ddn7Nlgr87o)
-- [Abbaon Fat Tracks](https://www.youtube.com/watch?v=ZmdpZQV_dPM)
-- [Tricky - Overcome Official Video](https://www.youtube.com/watch?v=ViHiOopNTlc)
-- [Tricky - Black Steel](https://www.youtube.com/watch?v=9ZJTM03UByU)
-- [Tricky - Aftermath Official Video](https://www.youtube.com/watch?v=25y3cMC9i94)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +67,5 @@ Maxinquaye reached the number three position on the United Kingdom's albums char
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP507 |
-| Notes | Gatefold sleeve with insert.  Original release ℗ 1995 Island Records. This release ℗ & © 2012 Universal Music B.V. Manufactured and distributed by Music On Vinyl B.V. for Universal Music B.V.  Made in the EU.  Sampled material - A1: 'Moonchild' by [a30318] courtesy of Island Music Ltd. / EMI Music Publishing Ltd. / London Records Ltd. A4: 'Ike's Rap II' by [a48432] courtesy of East Memphis Music / Fantasy Records Inc. A5: 'Suffer' by [url=https://www.discogs.com/artist/28970-The-Smashing-Pumpkins]Smashing Pumpkins[/url] courtesy of UNI Records Inc. / Hut Records Ltd B3: 'Look In My Eyes' by [a383376] courtesy of Rhino Records / EMI Records Ltd.  Hype sticker - [Music On Vinyl logo] Classic Album 180 gram audiophile vinyl pressing www.musiconvinyl.com |
+| Notes | Gatefold sleeve with insert.<br><br>Original release ℗ 1995 Island Records. This release ℗ & © 2012 Universal Music B.V.<br>Manufactured and distributed by Music On Vinyl B.V. for Universal Music B.V.<br><br>Made in the EU.<br><br>Sampled material -<br>A1: 'Moonchild' by [a30318] courtesy of Island Music Ltd. / EMI Music Publishing Ltd. / London Records Ltd.<br>A4: 'Ike's Rap II' by [a48432] courtesy of East Memphis Music / Fantasy Records Inc.<br>A5: 'Suffer' by [url=https://www.discogs.com/artist/28970-The-Smashing-Pumpkins]Smashing Pumpkins[/url] courtesy of UNI Records Inc. / Hut Records Ltd<br>B3: 'Look In My Eyes' by [a383376] courtesy of Rhino Records / EMI Records Ltd.<br><br>Hype sticker -<br>[Music On Vinyl logo]<br>Classic Album<br>180 gram audiophile vinyl pressing<br>www.musiconvinyl.com |
 | Discogs URL    | [Tricky - Maxinquaye](https://www.discogs.com/release/3430685-Tricky-Maxinquaye) |

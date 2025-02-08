@@ -4,6 +4,7 @@ artist_name: "Explosions In The Sky"
 artist: "explosions-in-the-sky"
 album_name: "How Strange, Innocence"
 date: 2019-08-16T17:14:49.000000Z
+release_date: "2000-01-17"
 release_id: "13992889"
 slug: "how-strange-innocence-13992889"
 hideSummary: true
@@ -28,26 +29,26 @@ How Strange, Innocence is the debut studio album by American post-rock band Expl
 The album was also released in a limited edition, 300 copy, double LP 180 gram vinyl on Ruined Potential records. The record was released in 5 different colors (black, blue, red, gray and white). The black, blue, and gray versions came with a special insert. The band sold the vinyl version exclusively on their 2004 tour. On July 4, 2019, a vinyl re-issue and streaming platform release (along with 2005's The Rescue) was announced for August 16.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. A Song For Our Fathers
-2. Snow And Lights
-3. Magic Hours
-4. Look Into The Air
-5. Glittering Blackness
-6. Time Stops
-7. Remember Me As A Time Of Day
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | A Song For Our Fathers |  |
+| A2 | Snow And Lights |  |
+| B1 | Magic Hours |  |
+| B2 | Look Into The Air |  |
+| C1 | Glittering Blackness |  |
+| C2 | Time Stops |  |
+| C3 | Remember Me As A Time Of Day |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/how-strange-innocence-anniversary-edition/318867117" >}}<br>
 
-
-## Videos
-### Explosions In The Sky - How Strange Innocence  Full Album 
-{{< youtube id="gl1xv2cspJI" title="Explosions In The Sky - How Strange Innocence  Full Album " >}}<br>
 
 
 ## Release Images
@@ -60,5 +61,5 @@ The album was also released in a limited edition, 300 copy, double LP 180 gram v
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue Remastered Stereo (Blue Light & Dark Mix) |
 | Label          | Temporary Residence Limited |
 | Catalog Number | TRR085 |
-| Notes | © 2000 Explosions In The Sky ℗ 2019 Temporary Residence Ltd.  Gatefold sleeve version, the tri-fold is [url=http://www.discogs.com/release/13995414]here[/url].  Limited edition (4.000) with light & dark blue mix vinyl. Includes MP3 download coupon inside package.  This record was pressed by RTI as per direct correspondence with Jeremy deVine, label manager of Temporary Residence Limited. |
+| Notes | © 2000 Explosions In The Sky ℗ 2019 Temporary Residence Ltd.<br><br>Gatefold sleeve version, the tri-fold is [url=http://www.discogs.com/release/13995414]here[/url]. <br>Limited edition (4.000) with light & dark blue mix vinyl.<br>Includes MP3 download coupon inside package.<br><br>This record was pressed by RTI as per direct correspondence with Jeremy deVine, label manager of Temporary Residence Limited. |
 | Discogs URL    | [Explosions In The Sky - How Strange, Innocence](https://www.discogs.com/release/13992889-Explosions-In-The-Sky-How-Strange-Innocence) |

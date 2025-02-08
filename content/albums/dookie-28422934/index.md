@@ -35,29 +35,28 @@ Dookie received critical acclaim upon its release, although some early fans accu
 
 
 ## Tracklisting
-1. Burnout (2:07)
-2. Having A Blast (2:45)
-3. Chump (2:54)
-4. Longview (3:59)
-5. Welcome To Paradise (3:45)
-6. Pulling Teeth (2:31)
-7. Basket Case (3:01)
-8. She (2:14)
-9. Sassafras Roots (2:38)
-10. When I Come Around (2:58)
-11. Coming Clean (1:35)
-12. Emenius Sleepus (1:44)
-13. In The End (1:46)
-14. F.O.D. (2:49)
-15. All By Myself 
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Burnout | 2:07 |
+| A2 | Having A Blast | 2:45 |
+| A3 | Chump | 2:54 |
+| A4 | Longview | 3:59 |
+| A5 | Welcome To Paradise | 3:45 |
+| A6 | Pulling Teeth | 2:31 |
+| A7 | Basket Case | 3:01 |
+| B1 | She | 2:14 |
+| B2 | Sassafras Roots | 2:38 |
+| B3 | When I Come Around | 2:58 |
+| B4 | Coming Clean | 1:35 |
+| B5 | Emenius Sleepus | 1:44 |
+| B6 | In The End | 1:46 |
+| B7 | F.O.D. | 2:49 |
+| B8 | All By Myself  |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dookie/1160081985" >}}<br>
 
-
-## Videos
-### Green Day - Welcome To Paradise Live
-{{< youtube id="OR7R9Kuw2fY" title="Green Day - Welcome To Paradise Live" >}}<br>
 
 
 ## Release Images
@@ -70,5 +69,5 @@ Dookie received critical acclaim upon its release, although some early fans accu
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (Blue [Baby Blue], 30th Anniversary) |
 | Label          | Reprise Records |
 | Catalog Number | 093624850434 |
-| Notes | Runouts are stamped apart from "093624911395-A CB" which is hand-etched.  © ℗ 1994 Reprise Records. Made in Czech Republic (All words by Billie Joe, except as indicated; all music by Green Day) WB Music Corp/Green Daze Music Music admin. by WB Music Corp (ASCAP)/Green Daze Music |
+| Notes | Runouts are stamped apart from "093624911395-A CB" which is hand-etched.<br><br>© ℗ 1994 Reprise Records. Made in Czech Republic<br>(All words by Billie Joe, except as indicated; all music by Green Day) WB Music Corp/Green Daze Music<br>Music admin. by WB Music Corp (ASCAP)/Green Daze Music |
 | Discogs URL    | [Green Day - Dookie](https://www.discogs.com/release/28422934-Green-Day-Dookie) |

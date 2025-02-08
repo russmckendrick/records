@@ -4,6 +4,7 @@ artist_name: "Tim Finn"
 artist: "tim-finn"
 album_name: "Big Canoe"
 date: 2015-09-11T18:02:24.000000Z
+release_date: "1986-01-01"
 release_id: "2529922"
 slug: "big-canoe-2529922"
 hideSummary: true
@@ -25,46 +26,30 @@ styles: ["New Wave", "Pop Rock"]
 Big Canoe is the second studio album released by former Split Enz frontman Tim Finn in April 1986. The album peaked at number 3 in New Zealand and number 31 in Australia.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Spiritual Hunger
-2. Don't Bury My Heart
-3. Timmy
-4. So Deep
-5. No Thunder, No Fire, No Rain
-6. Carve You In Marble
-7. Water Into Wine
-8. Hyacinth
-9. Big Canoe
-10. Are We One Or Are We Two
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Spiritual Hunger |  |
+| A2 | Don't Bury My Heart |  |
+| A3 | Timmy |  |
+| A4 | So Deep |  |
+| A5 | No Thunder, No Fire, No Rain |  |
+| B1 | Carve You In Marble |  |
+| B2 | Water Into Wine |  |
+| B3 | Hyacinth |  |
+| B4 | Big Canoe |  |
+| B5 | Are We One Or Are We Two |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/big-canoe/723416046" >}}<br>
 
 
-## Videos
-### Tim Finn - Spiritual Hunger 1986
-{{< youtube id="GGVNSZowmT8" title="Tim Finn - Spiritual Hunger 1986" >}}<br>
-### More Videos
-
-- [Carve You in Marblemp4](https://www.youtube.com/watch?v=t_oOZz--Xfg)
-- [Tim Finn - Spiritual Hunger](https://www.youtube.com/watch?v=6BnhK-ZLiSQ)
-- [Big Canoe](https://www.youtube.com/watch?v=IIiH_1R_gvU)
-- [Carve You In Marble](https://www.youtube.com/watch?v=w0zv07YjlXY)
-- [Water Into Wine](https://www.youtube.com/watch?v=KQIHebXzT5U)
-- [Are We One Or Are We Two](https://www.youtube.com/watch?v=RyHmfBv6RmY)
-- [No Thunder No Fire No Rain](https://www.youtube.com/watch?v=bLqnOJoVGIk)
-- [Dont Bury My Heart](https://www.youtube.com/watch?v=MSWtr60jjgA)
-- [Hyacinth](https://www.youtube.com/watch?v=e1H_sir0zSY)
-- [Tim Finn - Big Canoe - 01 - Spiritual Hunger](https://www.youtube.com/watch?v=pPpDOJ1i0EY)
-- [Tim Finn - Spiritual Hunger 1986](https://www.youtube.com/watch?v=GGVNSZowmT8)
-- [Carve You in Marblemp4](https://www.youtube.com/watch?v=t_oOZz--Xfg)
-- [Tim Finn - Spiritual Hunger 1986](https://www.youtube.com/watch?v=GGVNSZowmT8)
-- [Tim Finn - No Thunder No Fire No Rain](https://www.youtube.com/watch?v=qdMzdwxAqM8)
-- [Carve You in Marblemp4](https://www.youtube.com/watch?v=t_oOZz--Xfg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +61,5 @@ Big Canoe is the second studio album released by former Split Enz frontman Tim F
 | Format         | Vinyl LP Album |
 | Label          | Virgin |
 | Catalog Number | V2369 |
-| Notes | This is an Australian release although no country of release displayed on Sleeve, insert or labels. However, the labels' publisher credits are the Australian publishers and the dead wax has Australian mastering and pressing details.  All runouts are etched  Printed inner sleeve with lyrics and credits  Outer sleeve: ℗ 1986 Virgin Records © 1986 Virgin Records  Inner sleeve: Recorded and Mixed at Townhouse Studios 2 & 3  Labels: ℗ 1986 Virgin Records Ltd. Virgin is a trade mark of Virgin Holdings Ltd. |
+| Notes | This is an Australian release although no country of release displayed on Sleeve, insert or labels. However, the labels' publisher credits are the Australian publishers and the dead wax has Australian mastering and pressing details.<br><br>All runouts are etched<br><br>Printed inner sleeve with lyrics and credits<br><br>Outer sleeve:<br>℗ 1986 Virgin Records<br>© 1986 Virgin Records<br><br>Inner sleeve:<br>Recorded and Mixed at Townhouse Studios 2 & 3<br><br>Labels:<br>℗ 1986 Virgin Records Ltd.<br>Virgin is a trade mark of Virgin Holdings Ltd. |
 | Discogs URL    | [Tim Finn - Big Canoe](https://www.discogs.com/release/2529922-Tim-Finn-Big-Canoe) |

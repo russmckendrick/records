@@ -34,27 +34,26 @@ Druids. Headless chickens. Drinking. These are just some of the topics fearless 
 
 
 ## Tracklisting
-1. Primrose (2:35)
-2. You're So Impatient (2:08)
-3. Jane (The Night The Zombies Came) (2:52)
-4. Chicken (4:22)
-5. Hypnotised (3:04)
-6. Johnny Good Man (3:28)
-7. Motoroller (2:42)
-8. I Hear You Mary (3:13)
-9. Oyster Beds (2:09)
-10. Mercy Me (3:54)
-11. Ernest Evans (2:42)
-12. Kings Of The Prairie (2:55)
-13. The Vegas Suite (3:43)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Primrose | 2:35 |
+| A2 | You're So Impatient | 2:08 |
+| A3 | Jane (The Night The Zombies Came) | 2:52 |
+| A4 | Chicken | 4:22 |
+| A5 | Hypnotised | 3:04 |
+| A6 | Johnny Good Man | 3:28 |
+| A7 | Motoroller | 2:42 |
+| B8 | I Hear You Mary | 3:13 |
+| B9 | Oyster Beds | 2:09 |
+| B10 | Mercy Me | 3:54 |
+| B11 | Ernest Evans | 2:42 |
+| B12 | Kings Of The Prairie | 2:55 |
+| B13 | The Vegas Suite | 3:43 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-night-the-zombies-came/1752673463" >}}<br>
 
-
-## Videos
-### Pixies - The Night the Zombies Came Full Album 2024
-{{< youtube id="5t7Cfq3_D2w" title="Pixies - The Night the Zombies Came Full Album 2024" >}}<br>
 
 
 ## Release Images
@@ -66,5 +65,5 @@ Druids. Headless chickens. Drinking. These are just some of the topics fearless 
 | Format         | Vinyl LP Album Limited Edition (Red [Crystal & Red Smoky]) |
 | Label          | BMG |
 | Catalog Number | 964051361 |
-| Notes | Issued in one-sided die-cut sleeve with one-sided die-cut printed inner.  Recorded at Guilford Sound, Vermont, Rockfield Studios, Wales, UK and Psalm Studios, Wiltshire, UK. Mastered [...] at 24-96 Mastering, Karlsruhe, Germany.  ℗ & © 2024 Pixies Recording Inc., under exclusive license to BMG Rights Management (UK) Limited  Manufactured in Germany.  Runouts are hand-etched, the #s following side identifiers are lightly etched suggesting they are plating marks. Tracks are numbered sequentially across sides.   500 additional copies were retailed by Assai Records with a hand numbered Japanese inspired OBI strip signed by the band. |
+| Notes | Issued in one-sided die-cut sleeve with one-sided die-cut printed inner.<br><br>Recorded at Guilford Sound, Vermont, Rockfield Studios, Wales, UK and Psalm Studios, Wiltshire, UK.<br>Mastered [...] at 24-96 Mastering, Karlsruhe, Germany.<br><br>℗ & © 2024 Pixies Recording Inc.,<br>under exclusive license to BMG Rights Management (UK) Limited<br><br>Manufactured in Germany.<br><br>Runouts are hand-etched, the #s following side identifiers are lightly etched suggesting they are plating marks.<br>Tracks are numbered sequentially across sides. <br><br>500 additional copies were retailed by Assai Records with a hand numbered Japanese inspired OBI strip signed by the band. |
 | Discogs URL    | [Pixies - The Night The Zombies Came](https://www.discogs.com/release/32100201-Pixies-The-Night-The-Zombies-Came) |

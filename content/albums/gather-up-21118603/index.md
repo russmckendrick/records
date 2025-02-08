@@ -1,9 +1,10 @@
 ---
 title: "Matt Berry - Gather Up"
 artist_name: "Matt Berry"
-artist: "matt-berry-3"
+artist: "matt-berry"
 album_name: "Gather Up"
 date: 2021-11-26T09:12:23.000000Z
+release_date: "2021-11-26"
 release_id: "21118603"
 slug: "gather-up-21118603"
 hideSummary: true
@@ -27,44 +28,41 @@ styles: ["Alternative Rock", "Acoustic", "Psychedelic Rock", "Folk Rock"]
 Gather Up the Chaps is the second studio album by the Chicago-based punk rock supergroup The Falcon which was released by Red Scare Industries on March 18, 2016, almost ten years after their debut album Unicornography.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Take My Hand
-2. Something In My Eye
-3. Medicine
-4. Badger's Wake
-5. World In Action
-6. One By One
-7. Take A Bow
-8. October Sun
-9. So Low
-10. Summer Sun
-11. Gather Up
-12. Snuff Box Theme
-13. Middle Of The East
-14. Like Stone
-15. Phantom Birds
-16. Music For Insomniacs Pt IV
-17. Say It Again
-18. The Innkeepers Song (Live)
-19. Obsessed & So Obscure
-20. Woman
-21. Solstice
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Take My Hand |  |
+| A2 | Something In My Eye |  |
+| A3 | Medicine |  |
+| A4 | Badger's Wake |  |
+| A5 | World In Action |  |
+| A6 | One By One |  |
+| B1 | Take A Bow |  |
+| B2 | October Sun |  |
+| B3 | So Low |  |
+| B4 | Summer Sun |  |
+| B5 | Gather Up |  |
+| C1 | Snuff Box Theme |  |
+| C2 | Middle Of The East |  |
+| C3 | Like Stone |  |
+| C4 | Phantom Birds |  |
+| C5 | Music For Insomniacs Pt IV |  |
+| C6 | Say It Again |  |
+| D1 | The Innkeepers Song (Live) |  |
+| D2 | Obsessed & So Obscure |  |
+| D3 | Woman |  |
+| D4 | Solstice |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gather-up/1583801242" >}}<br>
 
 
-## Videos
-### Gather Up
-{{< youtube id="2PArSamIDBc" title="Gather Up" >}}<br>
-### More Videos
-
-- [Matt Berry - Gather Up Ten Years On Acid Jazz](https://www.youtube.com/watch?v=LhXrLO8oMLs)
-- [The Pheasant Live](https://www.youtube.com/watch?v=zMKikkZX4qQ)
 
 ## Release Images
 {{< imageGrid >}}

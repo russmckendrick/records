@@ -1,7 +1,7 @@
 ---
-title: "AC/DC - Highway To Hell"
-artist_name: "AC/DC"
-artist: "ac-dc"
+title: "ACDC - Highway To Hell"
+artist_name: "ACDC"
+artist: "acdc"
 album_name: "Highway To Hell"
 date: 2024-03-15T06:45:14.000000Z
 release_date: "1979-07-27"
@@ -10,8 +10,8 @@ slug: "highway-to-hell-30103433"
 hideSummary: true
 cover:
     image: "highway-to-hell-30103433.jpg"
-    alt: "Highway To Hell by AC/DC"
-    caption: "Highway To Hell by AC/DC"
+    alt: "Highway To Hell by ACDC"
+    caption: "Highway To Hell by ACDC"
 additional_images:
     - "https://i.discogs.com/18W_Dn6ksCjX9fKosciGGyBIZjgBgAQpZJ5H6UcXVb0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTAz/NDMzLTE3MzQxNzI1/MzEtNzU1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/lsDG0Q4POwHrowWix7ujC7xYr1Hxn71hplyMaq2WBDg/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTAz/NDMzLTE3MzQxNzI1/MzItNDQzOC5qcGVn.jpeg"
@@ -48,20 +48,22 @@ AC/DC had been creating album after album of pulverizing rock 'n' roll for much 
 
 
 ## Tracklisting
-1. Highway To Hell (3:26)
-2. Girls Got Rhythm (3:23)
-3. Walk All Over You (5:08)
-4. Touch Too Much (4:24)
-5. Beating Around The Bush (3:55)
-6. Shot Down In Flames (3:21)
-7. Get It Hot (2:24)
-8. If You Want Blood (You've Got It) (4:32)
-9. Love Hungry Man (4:14)
-10. Night Prowler (6:13)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Highway To Hell | 3:26 |
+| A2 | Girls Got Rhythm | 3:23 |
+| A3 | Walk All Over You | 5:08 |
+| A4 | Touch Too Much | 4:24 |
+| A5 | Beating Around The Bush | 3:55 |
+| B1 | Shot Down In Flames | 3:21 |
+| B2 | Get It Hot | 2:24 |
+| B3 | If You Want Blood (You've Got It) | 4:32 |
+| B4 | Love Hungry Man | 4:14 |
+| B5 | Night Prowler | 6:13 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/highway-to-hell/574043989" >}}<br>
-
 
 
 
@@ -75,5 +77,5 @@ AC/DC had been creating album after album of pulverizing rock 'n' roll for much 
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Special Edition Stereo (Gold, 180g, 50th Anniversary) |
 | Label          | Columbia |
 | Catalog Number | 19658834551 |
-| Notes | 50th Anniversary special edition as 180 gram gold nugget vinyl. Comes with a printed inner sleeve and includes a print (30x30 cm) with brand new AC/DC anniversary artwork. There are two hype stickers on the outer film on the front.  The Amazon exclusive limited edition version of this release comes with a slipmat featuring AC/DC 50th anniversary artwork. The record and the slipmat are packed in a resealable foil bag. A different barcode sticker is applied to the outer film on the back of the LP over the original barcode.  [Printed on rectangular hypsticker:] 50th Anniversary Special Edition Gold Coloured Vinyl Includes Unique Insert And Custom Labels  [Printed on back cover:] Produced by Robert John "Mutt" Lange. Recorded at Roundhouse Studios, London. Mixed at Basin Street Studios, London. Remastered from the original master tapes by George Marino at Sterling Sound. © 1979, 2003 J. Albert & Son (Pty.) Ltd. ℗ 1979 J. Albert & Son (Pty.) Ltd. Made in the EU.  [Printed on inner sleeve:] Originally released as [url=https://www.discogs.com/release/380980-ACDC-Highway-To-Hell]Atlantic 19244[/url] on August 3, 1979. Additional artifacts courtesy Albert Productions and Arnaud Durieux.  [Printed on artwork:] Reverse side photo by Michael Putland archive. 19658834551-11  [Printed on label side B:] © 1979, 2024 J. Albert & Son (Pty.) Ltd.  Runouts are etched. Pressing plant identified based on the runout areas.  A1 in the runout field = A₁ in the vinyl runout. B1 in the runout field = B₁ in the vinyl runout.  [Additional information about the faintly inscribed geometric marks:] In the runouts "- Ʌ V", "6 T V", "1 l ⋌" and "6 V l" are mirrored. |
-| Discogs URL    | [AC/DC - Highway To Hell](https://www.discogs.com/release/30103433-ACDC-Highway-To-Hell) |
+| Notes | 50th Anniversary special edition as 180 gram gold nugget vinyl.<br>Comes with a printed inner sleeve and includes a print (30x30 cm) with brand new AC/DC anniversary artwork.<br>There are two hype stickers on the outer film on the front.<br><br>The Amazon exclusive limited edition version of this release comes with a slipmat featuring AC/DC 50th anniversary artwork.<br>The record and the slipmat are packed in a resealable foil bag. A different barcode sticker is applied to the outer film on the back of the LP over the original barcode.<br><br>[Printed on rectangular hypsticker:]<br>50th Anniversary<br>Special Edition<br>Gold Coloured Vinyl<br>Includes Unique Insert<br>And Custom Labels<br><br>[Printed on back cover:]<br>Produced by Robert John "Mutt" Lange.<br>Recorded at Roundhouse Studios, London.<br>Mixed at Basin Street Studios, London.<br>Remastered from the original master tapes by George Marino at Sterling Sound.<br>© 1979, 2003 J. Albert & Son (Pty.) Ltd. ℗ 1979 J. Albert & Son (Pty.) Ltd.<br>Made in the EU.<br><br>[Printed on inner sleeve:]<br>Originally released as [url=https://www.discogs.com/release/380980-ACDC-Highway-To-Hell]Atlantic 19244[/url] on August 3, 1979.<br>Additional artifacts courtesy Albert Productions and Arnaud Durieux.<br><br>[Printed on artwork:]<br>Reverse side photo by Michael Putland archive. 19658834551-11<br><br>[Printed on label side B:]<br>© 1979, 2024 J. Albert & Son (Pty.) Ltd.<br><br>Runouts are etched.<br>Pressing plant identified based on the runout areas.<br><br>A1 in the runout field = A₁ in the vinyl runout.<br>B1 in the runout field = B₁ in the vinyl runout.<br><br>[Additional information about the faintly inscribed geometric marks:]<br>In the runouts "- Ʌ V", "6 T V", "1 l ⋌" and "6 V l" are mirrored. |
+| Discogs URL    | [ACDC - Highway To Hell](https://www.discogs.com/release/30103433-ACDC-Highway-To-Hell) |

@@ -4,6 +4,7 @@ artist_name: "The Sundays"
 artist: "the-sundays"
 album_name: "Reading, Writing And Arithmetic"
 date: 2025-02-08T10:57:26.000000Z
+release_date: "1990-04-17"
 release_id: "28535869"
 slug: "reading-writing-and-arithmetic-28535869"
 hideSummary: true
@@ -23,39 +24,30 @@ styles: ["Indie Rock", "Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Skin & Bones 
-2. Here's Where The Story Ends 
-3. Can't Be Sure 
-4. I Won 
-5. Hideous Towns 
-6. You're Not The Only One I Know 
-7. A Certain Someone 
-8. I Kicked A Boy 
-9. My Finest Hour 
-10. Joy 
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Skin & Bones  |  |
+|  | Here's Where The Story Ends  |  |
+|  | Can't Be Sure  |  |
+|  | I Won  |  |
+|  | Hideous Towns  |  |
+|  | You're Not The Only One I Know  |  |
+|  | A Certain Someone  |  |
+|  | I Kicked A Boy  |  |
+|  | My Finest Hour  |  |
+|  | Joy  |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/reading-writing-and-arithmetic/697249384" >}}<br>
 
 
-## Videos
-### The Sundays - Heres Where The Story Ends Official Music Video
-{{< youtube id="FHsip5xOenQ" title="The Sundays - Heres Where The Story Ends Official Music Video" >}}<br>
-### More Videos
 
-- [The Sundays - Cant Be Sure](https://www.youtube.com/watch?v=yARVs1ZNLjU)
-- [Skin  Bones](https://www.youtube.com/watch?v=eU11NacFEso)
-- [Heres Where The Story Ends](https://www.youtube.com/watch?v=4Lx_aP-IZys)
-- [Cant Be Sure](https://www.youtube.com/watch?v=SrpEoaElm6s)
-- [I Won](https://www.youtube.com/watch?v=RmMoswUBzTI)
-- [Hideous Towns](https://www.youtube.com/watch?v=5FKpHwS611E)
-- [Youre Not The Only One I Know](https://www.youtube.com/watch?v=Yl8oow7kQgA)
-- [A Certain Someone](https://www.youtube.com/watch?v=kGUtf7ozx9I)
-- [I Kicked A Boy](https://www.youtube.com/watch?v=Q-QTr86fbvk)
-- [My Finest Hour](https://www.youtube.com/watch?v=j361twBDr2Q)
-- [Joy](https://www.youtube.com/watch?v=ztmSwAkIf44)
 ## Release Images
 {{< imageGrid >}}
 
@@ -65,5 +57,5 @@ styles: ["Indie Rock", "Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition Reissue (Grey [Dark]) |
 | Label          | Geffen Records |
 | Catalog Number | B0038247-01 |
-| Notes | Originally released in 1990 on [l821]. Mastered from the original analog tapes. Runouts are stamped. |
+| Notes | Originally released in 1990 on [l821].<br>Mastered from the original analog tapes.<br>Runouts are stamped. |
 | Discogs URL    | [The Sundays - Reading, Writing And Arithmetic](https://www.discogs.com/release/28535869-The-Sundays-Reading-Writing-And-Arithmetic) |

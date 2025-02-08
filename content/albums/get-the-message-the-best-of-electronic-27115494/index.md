@@ -4,6 +4,7 @@ artist_name: "Electronic"
 artist: "electronic"
 album_name: "Get The Message The Best Of Electronic"
 date: 2023-09-29T06:40:05.000000Z
+release_date: "2006-09-18"
 release_id: "27115494"
 slug: "get-the-message-the-best-of-electronic-27115494"
 hideSummary: true
@@ -28,34 +29,34 @@ styles: ["Alternative Rock", "Leftfield", "Pop Rock", "Indie Rock", "House", "Ne
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Forbidden City
-2. Getting Away With It
-3. Get The Message (Single Remix)
-4. Feel Every Beat
-5. Disappointed (Single Mix)
-6. Vivid (Radio Edit)
-7. Second Nature
-8. All That I Need
-9. Prodigal Son
-10. For You
-11. Imitation Of Life (New Edit)
-12. Out Of My League
-13. Like No Other
-14. Twisted Tenderness
-15. Late At Night (Radio Edit)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Forbidden City |  |
+| A2 | Getting Away With It |  |
+| A3 | Get The Message (Single Remix) |  |
+| A4 | Feel Every Beat |  |
+| B1 | Disappointed (Single Mix) |  |
+| B2 | Vivid (Radio Edit) |  |
+| B3 | Second Nature |  |
+| B4 | All That I Need |  |
+| C1 | Prodigal Son |  |
+| C2 | For You |  |
+| C3 | Imitation Of Life (New Edit) |  |
+| D1 | Out Of My League |  |
+| D2 | Like No Other |  |
+| D3 | Twisted Tenderness |  |
+| D4 | Late At Night (Radio Edit) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/get-the-message-the-best-of-electronic/1699664144" >}}<br>
 
 
-## Videos
-### 6 Electronic - Getting Away With It Vocal Remix
-{{< youtube id="WA2EBjzF-sU" title="6 Electronic - Getting Away With It Vocal Remix" >}}<br>
-### More Videos
-
-- [Until The End Of Time Fluffy Dice Remix](https://www.youtube.com/watch?v=tVp2bx9E-7I)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +67,5 @@ styles: ["Alternative Rock", "Leftfield", "Pop Rock", "Indie Rock", "House", "Ne
 | Format         | Vinyl 2× LP Compilation Reissue Stereo |
 | Label          | Warner Music |
 | Catalog Number | 0190296453823 |
-| Notes | This Compilation ℗ & © 2022, 2006 Warner Records Inc. for the World excluding Europe and X Limited and New Voodoo Limited under exclusive license to Parlophone Records Limited for Europe. A Warner Music Group Company.  Made in Germany  Special Thanks: Joe Moss, Rebecca Boulton; Andrew Booth & Andy Robinson |
+| Notes | This Compilation ℗ & © 2022, 2006 Warner Records Inc. for the World excluding Europe and X Limited and New Voodoo Limited under exclusive license to Parlophone Records Limited for Europe. A Warner Music Group Company. <br>Made in Germany<br><br>Special Thanks: Joe Moss, Rebecca Boulton; Andrew Booth & Andy Robinson |
 | Discogs URL    | [Electronic - Get The Message The Best Of Electronic](https://www.discogs.com/release/27115494-Electronic-Get-The-Message-The-Best-Of-Electronic) |

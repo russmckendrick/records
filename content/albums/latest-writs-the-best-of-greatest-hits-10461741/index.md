@@ -4,6 +4,7 @@ artist_name: "The Pretty Things"
 artist: "the-pretty-things"
 album_name: "Latest Writs The Best Of... Greatest Hits"
 date: 2018-12-22T10:29:49.000000Z
+release_date: ""
 release_id: "10461741"
 slug: "latest-writs-the-best-of-greatest-hits-10461741"
 hideSummary: true
@@ -19,23 +20,30 @@ styles: ["Classic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Come See Me (2:42)
-2. Don't Bring Me Down (2:12)
-3. Defecting Grey (4:31)
-4. SF Sorrow Is Born (3:14)
-5. L.S.D (2:27)
-6. Midnight To Six Man (2:21)
-7. Rosalyn (2:20)
-8. Old Man Going (3:07)
-9. Roadrunner (3:14)
-10. Talkin' About The Good Times (3:45)
-11. Summertime (4:31)
-12. Tripping (3:26)
-13. Cries From The Midnight Circus (6:29)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Come See Me | 2:42 |
+| A2 | Don't Bring Me Down | 2:12 |
+| A3 | Defecting Grey | 4:31 |
+| A4 | SF Sorrow Is Born | 3:14 |
+| A5 | L.S.D | 2:27 |
+| A6 | Midnight To Six Man | 2:21 |
+| A7 | Rosalyn | 2:20 |
+| B1 | Old Man Going | 3:07 |
+| B2 | Roadrunner | 3:14 |
+| B3 | Talkin' About The Good Times | 3:45 |
+| B4 | Summertime | 4:31 |
+| B5 | Tripping | 3:26 |
+| B6 | Cries From The Midnight Circus | 6:29 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -48,5 +56,5 @@ styles: ["Classic Rock"]
 | Format         | Vinyl LP Compilation Limited Edition (Turquoise vinyl) |
 | Label          | Madfish |
 | Catalog Number | SMALP 1085 |
-| Notes | ℗ 2017 Snapper Music Ltd © 2017 Snapper Music Ltd Made in Germany  HMV Exclusive to celebrate 'Vinyl Week' starting 16 June 2017 - 1000 copies pressed.    |
+| Notes | ℗ 2017 Snapper Music Ltd<br>© 2017 Snapper Music Ltd<br>Made in Germany<br><br>HMV Exclusive to celebrate 'Vinyl Week' starting 16 June 2017 - 1000 copies pressed.<br><br><br> |
 | Discogs URL    | [The Pretty Things - Latest Writs The Best Of... Greatest Hits](https://www.discogs.com/release/10461741-Pretty-Things-Latest-Writs-The-Best-Of-Greatest-Hits) |

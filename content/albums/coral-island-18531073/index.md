@@ -4,6 +4,7 @@ artist_name: "The Coral"
 artist: "the-coral"
 album_name: "Coral Island"
 date: 2021-05-05T04:12:46.000000Z
+release_date: "2021-04-30"
 release_id: "18531073"
 slug: "coral-island-18531073"
 hideSummary: true
@@ -39,57 +40,44 @@ styles: ["Indie Rock"]
 A coral island is a type of island formed from coral detritus and associated organic material.  It occurs in tropical and sub-tropical areas, typically as part of a coral reef which has grown to cover a far larger area under the sea. The term low island can be used to distinguish such islands from high islands, which are formed through volcanic action. Low islands are formed as a result of sedimentation upon a coral reef or of the uplifting of such islands.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Part 1 - Welcome To Coral Island
-2. Lover Undiscovered
-3. Change Your Mind
-4. Mist On The River
-5. Pavillions Of The Mind
-6. Vacancy
-7. My Best Friend
-8. Arcade Hallucinations
-9. The Game She Plays
-10. Autumn Has Come
-11. End Of The Pier
-12. The Ghost Of Coral Island
-13. Golden Age
-14. Faceless Angel
-15. The Great Lafayette
-16. Strange Illusions
-17. Take Me Back To The Summertime
-18. Telepathic Waltz
-19. Old Photographs
-20. Watch You Disappear
-21. Late Night At The Borders
-22. Land Of The Lost
-23. The Calico Girl
-24. The Last Entertainer
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Part 1 - Welcome To Coral Island |  |
+| A2 | Lover Undiscovered |  |
+| A3 | Change Your Mind |  |
+| A4 | Mist On The River |  |
+| A5 | Pavillions Of The Mind |  |
+| A6 | Vacancy |  |
+| B1 | My Best Friend |  |
+| B2 | Arcade Hallucinations |  |
+| B3 | The Game She Plays |  |
+| B4 | Autumn Has Come |  |
+| B5 | End Of The Pier |  |
+| C1 | The Ghost Of Coral Island |  |
+| C2 | Golden Age |  |
+| C3 | Faceless Angel |  |
+| C4 | The Great Lafayette |  |
+| C5 | Strange Illusions |  |
+| C6 | Take Me Back To The Summertime |  |
+| D1 | Telepathic Waltz |  |
+| D2 | Old Photographs |  |
+| D3 | Watch You Disappear |  |
+| D4 | Late Night At The Borders |  |
+| D5 | Land Of The Lost |  |
+| D6 | The Calico Girl |  |
+| D7 | The Last Entertainer |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/coral-island/1700447876" >}}<br>
 
 
-## Videos
-### Welcome To Coral Island
-{{< youtube id="difQoPoSoxk" title="Welcome To Coral Island" >}}<br>
-### More Videos
-
-- [The Coral - Lover Undiscovered Official Video](https://www.youtube.com/watch?v=UN_DS2zUEFA)
-- [The Coral - Change Your Mind Official Video](https://www.youtube.com/watch?v=OjCZ8hIqV0o)
-- [Autumn Has Come](https://www.youtube.com/watch?v=xvROK-_y_S8)
-- [My Best Friend](https://www.youtube.com/watch?v=i-SICIGU2k0)
-- [Change Your Mind](https://www.youtube.com/watch?v=0f_0F_RR21U)
-- [Autumn Has Come](https://www.youtube.com/watch?v=Ei1lTXge2AI)
-- [My Best Friend](https://www.youtube.com/watch?v=js0V828SPQE)
-- [Welcome To Coral Island](https://www.youtube.com/watch?v=difQoPoSoxk)
-- [The Coral - Lover Undiscovered Official Video](https://www.youtube.com/watch?v=UN_DS2zUEFA)
-- [The Coral - Change Your Mind Official Video](https://www.youtube.com/watch?v=OjCZ8hIqV0o)
-- [Autumn Has Come](https://www.youtube.com/watch?v=xvROK-_y_S8)
-- [My Best Friend](https://www.youtube.com/watch?v=i-SICIGU2k0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -101,5 +89,5 @@ A coral island is a type of island formed from coral detritus and associated org
 | Format         | Vinyl 2× LP Album Limited Edition (Lime Green) |
 | Label          | Modern Sky UK |
 | Catalog Number | RO-001-LP |
-| Notes | Lime green vinyl with gatefold sleeve, full-colour printed inner sleeves and booklet.  Originally sold from three outlets, with the same cover, barcode, matrix runouts and vinyl colour: • Indie Record Store; marketed as 'exclusive colour'. • recordstore.co.uk; sold with limited edition print signed by all five band members. • Rough Trade UK;  sold with limited edition print signed by all five band members and a black and white photograph also signed by all five band members. |
+| Notes | Lime green vinyl with gatefold sleeve, full-colour printed inner sleeves and booklet.<br><br>Originally sold from three outlets, with the same cover, barcode, matrix runouts and vinyl colour:<br>• Indie Record Store; marketed as 'exclusive colour'.<br>• recordstore.co.uk; sold with limited edition print signed by all five band members.<br>• Rough Trade UK;  sold with limited edition print signed by all five band members and a black and white photograph also signed by all five band members. |
 | Discogs URL    | [The Coral - Coral Island](https://www.discogs.com/release/18531073-The-Coral-Coral-Island) |

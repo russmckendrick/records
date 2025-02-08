@@ -1,16 +1,17 @@
 ---
-title: "Jon & Vangelis - Short Stories"
-artist_name: "Jon & Vangelis"
+title: "Jon  Vangelis - Short Stories"
+artist_name: "Jon  Vangelis"
 artist: "jon-vangelis"
 album_name: "Short Stories"
 date: 2015-12-17T08:50:29.000000Z
+release_date: "1980-01-01"
 release_id: "161300"
 slug: "short-stories-161300"
 hideSummary: true
 cover:
     image: "short-stories-161300.jpg"
-    alt: "Short Stories by Jon & Vangelis"
-    caption: "Short Stories by Jon & Vangelis"
+    alt: "Short Stories by Jon  Vangelis"
+    caption: "Short Stories by Jon  Vangelis"
 additional_images:
     - "https://i.discogs.com/OFxvFrtf3Hg-BNpp9jVhLMTuXrLrilCbSiThQrGTKCI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTMw/MC0xMjc1NjMwNzUw/LmpwZWc.jpeg"
     - "https://i.discogs.com/_YI12EmLHb4LeI5FJh862sI0NM200OpXoTghqQZCCGU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTMw/MC0xMjc1NjMwNzY3/LmpwZWc.jpeg"
@@ -25,34 +26,30 @@ styles: ["Synth-pop", "Ambient"]
 Short Stories is the debut album by Jon and Vangelis, the collaboration between Jon Anderson of the progressive rock band Yes and electronic music pioneer Vangelis. This was not the first time that the two had worked together: Vangelis had auditioned to be Rick Wakeman's replacement in Yes in 1974, but the role was given to Patrick Moraz. In 1975, Anderson sang on "So Long Ago So Clear" from Heaven and Hell.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Curious Electric
-2. Each And Everyday
-3. Bird Song
-4. I Hear You Now
-5. The Road
-6. Far Away In Baagad
-7. Love Is
-8. One More Time
-9. Thunder
-10. A Play Within A Play
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Curious Electric |  |
+| A2 | Each And Everyday |  |
+| A3 | Bird Song |  |
+| A4 | I Hear You Now |  |
+| A5 | The Road |  |
+| B1 | Far Away In Baagad |  |
+| B2 | Love Is |  |
+| B3 | One More Time |  |
+| B4 | Thunder |  |
+| B5 | A Play Within A Play |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/short-stories/1443471528" >}}<br>
 
 
-## Videos
-### JON AND VANGELIS__SHORT STORIES 1979 FULL ALBUM
-{{< youtube id="17WFONMvfU4" title="JON AND VANGELIS__SHORT STORIES 1979 FULL ALBUM" >}}<br>
-### More Videos
-
-- [𝐉𝐨𝐧 𝐚𝐧𝐝 𝐕𝐚𝐧𝐠𝐞𝐥𝐢𝐬   𝐒𝐡𝐨𝐫𝐭 𝐒𝐭𝐨𝐫𝐢𝐞𝐬 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌 𝟏𝟗𝟖𝟎](https://www.youtube.com/watch?v=mdSy__wqXi8)
-- [JON AND VANGELIS__SHORT STORIES 1979 FULL ALBUM](https://www.youtube.com/watch?v=17WFONMvfU4)
-- [𝐉𝐨𝐧 𝐚𝐧𝐝 𝐕𝐚𝐧𝐠𝐞𝐥𝐢𝐬   𝐒𝐡𝐨𝐫𝐭 𝐒𝐭𝐨𝐫𝐢𝐞𝐬 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌 𝟏𝟗𝟖𝟎](https://www.youtube.com/watch?v=mdSy__wqXi8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +61,5 @@ Short Stories is the debut album by Jon and Vangelis, the collaboration between 
 | Format         | Vinyl LP Album Stereo |
 | Label          | Polydor |
 | Catalog Number | POLD 5030 |
-| Notes | Recorded at London, England, 1979.  A Spheric Production.  All titles published by Topographic Music Limited / Warner Bros Inc / Spheric B.V. © 1979 ℗ 1979  © 1979  Includes printed inner sleeve with lyrics  Cassette POLDC 5030  Runout is stamped |
-| Discogs URL    | [Jon & Vangelis - Short Stories](https://www.discogs.com/release/161300-Jon-And-Vangelis-Short-Stories) |
+| Notes | Recorded at London, England, 1979.<br><br>A Spheric Production.<br><br>All titles published by Topographic Music Limited / Warner Bros Inc / Spheric B.V. © 1979<br>℗ 1979  © 1979<br><br>Includes printed inner sleeve with lyrics<br><br>Cassette POLDC 5030<br><br>Runout is stamped |
+| Discogs URL    | [Jon  Vangelis - Short Stories](https://www.discogs.com/release/161300-Jon-And-Vangelis-Short-Stories) |

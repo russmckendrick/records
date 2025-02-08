@@ -30,27 +30,24 @@ Populated by lead singer Craig Finn’s charmingly charred characters—like the
 
 
 ## Tracklisting
-1. Denver Haircut
-2. Epaulets
-3. You Did Good Kid
-4. Traditional Village
-5. Blackout Sam
-6. Entitlement Crew
-7. T-Shirt Tux
-8. Star 18
-9. The Stove & The Toaster
-10. Confusion In The Marketplace
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Denver Haircut |  |
+| A2 | Epaulets |  |
+| A3 | You Did Good Kid |  |
+| A4 | Traditional Village |  |
+| A5 | Blackout Sam |  |
+| B1 | Entitlement Crew |  |
+| B2 | T-Shirt Tux |  |
+| B3 | Star 18 |  |
+| B4 | The Stove & The Toaster |  |
+| B5 | Confusion In The Marketplace |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/thrashing-thru-the-passion/1464237035" >}}<br>
 
 
-## Videos
-### The Hold Steady - Denver Haircut
-{{< youtube id="HA3CF9rusvE" title="The Hold Steady - Denver Haircut" >}}<br>
-### More Videos
-
-- [The Hold Steady - You Did Good Kid](https://www.youtube.com/watch?v=P-aRAhigP1I)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +59,5 @@ Populated by lead singer Craig Finn’s charmingly charred characters—like the
 | Format         | Vinyl LP Limited Edition (Brown) |
 | Label          | Frenchkiss Records |
 | Catalog Number | FKR103-1 |
-| Notes | Opaque brown vinyl - indie exclusive, limited to 1,000 copies.  ©&℗ 2019 Frenchkiss Records  All songs © 2019 Muy Interestane Music (ASCAP) Key Hits (ASCAP) Eggshell Armor Music (ASCAP) Sounds Like Selvidge (BMI) Guilty Parties/Sounds of Sabco (ASCAP) (Administered for the world by Words & Music/Big Deal Music, LLC) |
+| Notes | Opaque brown vinyl - indie exclusive, limited to 1,000 copies.<br><br>©&℗ 2019 Frenchkiss Records<br><br>All songs © 2019<br>Muy Interestane Music (ASCAP)<br>Key Hits (ASCAP)<br>Eggshell Armor Music (ASCAP)<br>Sounds Like Selvidge (BMI)<br>Guilty Parties/Sounds of Sabco (ASCAP)<br>(Administered for the world by Words & Music/Big Deal Music, LLC) |
 | Discogs URL    | [The Hold Steady - Thrashing Thru The Passion](https://www.discogs.com/release/14005443-The-Hold-Steady-Thrashing-Thru-The-Passion) |

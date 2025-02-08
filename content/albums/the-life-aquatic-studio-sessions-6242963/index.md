@@ -32,43 +32,28 @@ The master samba-revivalist Seu Jorge is talented enough to tackle any genre of 
 
 
 ## Tracklisting
-1. Rebel Rebel (2:46)
-2. Life On Mars? (3:29)
-3. Starman (3:16)
-4. Ziggy Stardust (3:41)
-5. Lady Stardust (3:31)
-6. Changes (3:40)
-7. Oh! You Pretty Things (3:32)
-8. Rock N' Roll Suicide (3:10)
-9. Suffragette City (3:10)
-10. Five Years (3:59)
-11. Queen Bitch (3:42)
-12. When I Live My Dream (2:55)
-13. Quicksand (4:35)
-14. Team Zissou
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rebel Rebel | 2:46 |
+| A2 | Life On Mars? | 3:29 |
+| A3 | Starman | 3:16 |
+| A4 | Ziggy Stardust | 3:41 |
+| B1 | Lady Stardust | 3:31 |
+| B2 | Changes | 3:40 |
+| B3 | Oh! You Pretty Things | 3:32 |
+| B4 | Rock N' Roll Suicide | 3:10 |
+| C1 | Suffragette City | 3:10 |
+| C2 | Five Years | 3:59 |
+| C3 | Queen Bitch | 3:42 |
+| D1 | When I Live My Dream | 2:55 |
+| D2 | Quicksand | 4:35 |
+| D3 | Team Zissou |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-life-aquatic-studio-sessions-featuring-seu-jorge/1440916686" >}}<br>
 
 
-## Videos
-### Rebel Rebel
-{{< youtube id="-D_3bPt0wcw" title="Rebel Rebel" >}}<br>
-### More Videos
-
-- [Life On Mars](https://www.youtube.com/watch?v=l-Sx_NgkpTs)
-- [Starman](https://www.youtube.com/watch?v=A-izaHiBdfE)
-- [Ziggy Stardust](https://www.youtube.com/watch?v=eO4Y1I1pmXo)
-- [Lady Stardust](https://www.youtube.com/watch?v=PtNsulPqGQA)
-- [Changes](https://www.youtube.com/watch?v=hVJyDvOeQfA)
-- [Oh You Pretty Things](https://www.youtube.com/watch?v=U2TC3A2GaMo)
-- [Rock N Roll Suicide](https://www.youtube.com/watch?v=6gAYtsDEH0Y)
-- [Suffragette City](https://www.youtube.com/watch?v=mS3G9HJ2usw)
-- [Five Years](https://www.youtube.com/watch?v=bHUZMCg0px8)
-- [Queen Bitch](https://www.youtube.com/watch?v=pXvMddhYGew)
-- [When I Live My Dream](https://www.youtube.com/watch?v=YA8G9O6V6Ws)
-- [Quicksand](https://www.youtube.com/watch?v=2P5GExUP_FM)
-- [Team Zissou](https://www.youtube.com/watch?v=SRq7izFVDO4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +65,5 @@ The master samba-revivalist Seu Jorge is talented enough to tackle any genre of 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Unofficial Release Stereo (Clear) |
 | Label          | Hollywood Records (5) |
 | Catalog Number | SEUJORGE001 |
-| Notes | Here's Seu Jorge's incredible soundtrack to Wes Anderson's movie "The Life Aquatic with Steve Zissou". Limited to 1000 copies! All songs recorded at Forum Music Village, Rome, Italy between 2004 and 2005 Printed on labels: "Had Seu Jorge not recorded my songs acoustically in Portuguese I would never have heard this new level of beauty which he has imbued them with" - [a10263] |
+| Notes | Here's Seu Jorge's incredible soundtrack to Wes Anderson's movie "The Life Aquatic with Steve Zissou". Limited to 1000 copies!<br>All songs recorded at Forum Music Village, Rome, Italy between 2004 and 2005<br>Printed on labels:<br>"Had Seu Jorge not recorded my songs acoustically in Portuguese I would never have heard this new level of beauty which he has imbued them with" - [a10263] |
 | Discogs URL    | [Seu Jorge - The Life Aquatic Studio Sessions](https://www.discogs.com/release/6242963-Seu-Jorge-The-Life-Aquatic-Studio-Sessions) |

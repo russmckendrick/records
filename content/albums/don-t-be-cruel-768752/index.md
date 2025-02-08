@@ -29,40 +29,25 @@ The album received a 2-CD deluxe edition release commemorating its 35th annivers
 
 
 ## Tracklisting
-1. Cruel Prelude (0:39)
-2. Don't Be Cruel (6:52)
-3. My Prerogative (4:57)
-4. Roni (5:58)
-5. Rock Wit'cha (4:47)
-6. Every Little Step (3:59)
-7. I'll Be Good To You (4:25)
-8. Take It Slow (5:22)
-9. All Day All Night (4:40)
-10. I Really Love You Girl (5:11)
-11. Cruel Reprise (0:18)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cruel Prelude | 0:39 |
+| A2 | Don't Be Cruel | 6:52 |
+| A3 | My Prerogative | 4:57 |
+| A4 | Roni | 5:58 |
+| A5 | Rock Wit'cha | 4:47 |
+| B1 | Every Little Step | 3:59 |
+| B2 | I'll Be Good To You | 4:25 |
+| B3 | Take It Slow | 5:22 |
+| B4 | All Day All Night | 4:40 |
+| B5 | I Really Love You Girl | 5:11 |
+| B6 | Cruel Reprise | 0:18 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dont-be-cruel/1440773569" >}}<br>
 
 
-## Videos
-### Cruel Prelude
-{{< youtube id="gab9hWIidGE" title="Cruel Prelude" >}}<br>
-### More Videos
-
-- [Bobby Brown-Dont Be Cruel](https://www.youtube.com/watch?v=zkdj12XICzg)
-- [Bobby Brown  -- My Prerogative](https://www.youtube.com/watch?v=gxMDLvEO-B4)
-- [Roni](https://www.youtube.com/watch?v=tGySW4HMdRE)
-- [Rock Witcha](https://www.youtube.com/watch?v=gLdX4soAyTQ)
-- [Every Little Step](https://www.youtube.com/watch?v=muDCggSpqpE)
-- [Ill Be Good To You](https://www.youtube.com/watch?v=6ViFOBJwA_8)
-- [Take It Slow](https://www.youtube.com/watch?v=I-UOWhayTtU)
-- [All Day All Night](https://www.youtube.com/watch?v=6dvxp-tNR5A)
-- [I Really Love You Girl](https://www.youtube.com/watch?v=MylLwsuqhaY)
-- [Cruel Reprise](https://www.youtube.com/watch?v=PiSB3uJQMxY)
-- [Bobby Brown - My Prerogative](https://www.youtube.com/watch?v=5cDLZqe735k)
-- [Bobby Brown - Every Little Step Official Video](https://www.youtube.com/watch?v=P0FKzPfsxA4)
-- [Bobby Brown - Dont Be Cruel Official Video](https://www.youtube.com/watch?v=pd7dCbEfTs4)
 
 ## Release Images
 {{< imageGrid >}}

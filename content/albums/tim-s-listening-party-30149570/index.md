@@ -4,6 +4,7 @@ artist_name: "Tim Burgess"
 artist: "tim-burgess"
 album_name: "Tim's Listening Party"
 date: 2024-03-20T13:57:30.000000Z
+release_date: "1993-01-01"
 release_id: "30149570"
 slug: "tim-s-listening-party-30149570"
 hideSummary: true
@@ -26,36 +27,41 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Hold On (Ultimate Mix)
-2. One To Another
-3. Space Samba (Disco Volador Theme)
-4. The Wild Ones
-5. Real Life
-6. Sexuality
-7. Setting Sun
-8. Blind
-9. Cannonball
-10. Ease Your Feet In The Sea
-11. My Ever Changing Moods
-12. Moonshine Freeze
-13. Oh My Corazon
-14. Music When The Lights Go Out
-15. Wiggy Giggy
-16. Emily Kane
-17. Flash Delirium
-18. Too Much Too Young
-19. Self-Effacing
-20. Black Belt
-21. Other Side Of The World
-22. Girl Inform Me
-23. Let's Push Things Forward
-24. Jackie Wilson Said (I'm In Heaven When You Smile)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hold On (Ultimate Mix) |  |
+| A2 | One To Another |  |
+| A3 | Space Samba (Disco Volador Theme) |  |
+| A4 | The Wild Ones |  |
+| A5 | Real Life |  |
+| A6 | Sexuality |  |
+| B1 | Setting Sun |  |
+| B2 | Blind |  |
+| B3 | Cannonball |  |
+| B4 | Ease Your Feet In The Sea |  |
+| B5 | My Ever Changing Moods |  |
+| C1 | Moonshine Freeze |  |
+| C2 | Oh My Corazon |  |
+| C3 | Music When The Lights Go Out |  |
+| C4 | Wiggy Giggy |  |
+| C5 | Emily Kane |  |
+| C6 | Flash Delirium |  |
+| D1 | Too Much Too Young |  |
+| D2 | Self-Effacing |  |
+| D3 | Black Belt |  |
+| D4 | Other Side Of The World |  |
+| D5 | Girl Inform Me |  |
+| D6 | Let's Push Things Forward |  |
+| D7 | Jackie Wilson Said (I'm In Heaven When You Smile) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/britten-the-little-sweep-gemini-variations-childrens/1730991259" >}}<br>
-
 
 
 
@@ -68,5 +74,5 @@ styles: []
 | Format         | Vinyl 2× LP Compilation (Green) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1184X |
-| Notes | 500 copies came with a signed print, identified by the X added to the cat. no. on a sticker. 200 copies came with a signed and hand numbered Japanese style obi from Assai Records. |
+| Notes | 500 copies came with a signed print, identified by the X added to the cat. no. on a sticker.<br>200 copies came with a signed and hand numbered Japanese style obi from Assai Records. |
 | Discogs URL    | [Tim Burgess - Tim's Listening Party](https://www.discogs.com/release/30149570-Tim-Burgess-Tims-Listening-Party) |

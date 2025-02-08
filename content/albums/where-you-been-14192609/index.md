@@ -1,16 +1,17 @@
 ---
-title: "Dinosaur Jr. - Where You Been"
-artist_name: "Dinosaur Jr."
+title: "Dinosaur Jr - Where You Been"
+artist_name: "Dinosaur Jr"
 artist: "dinosaur-jr"
 album_name: "Where You Been"
 date: 2019-09-28T07:52:21.000000Z
+release_date: "1993-02-09"
 release_id: "14192609"
 slug: "where-you-been-14192609"
 hideSummary: true
 cover:
     image: "where-you-been-14192609.jpg"
-    alt: "Where You Been by Dinosaur Jr."
-    caption: "Where You Been by Dinosaur Jr."
+    alt: "Where You Been by Dinosaur Jr"
+    caption: "Where You Been by Dinosaur Jr"
 additional_images:
     - "https://i.discogs.com/NryYPnEh9-jU-nZys1oiPLr-S130t8oOuuMO1m4MrwI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDItNjAyNC5qcGVn.jpeg"
     - "https://i.discogs.com/niGEekpFu5iaHM842fImoaLMgoWBlMqZ1e2O3vLCzgs/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/NjA5LTE1Njk4NTAz/MDItOTYzNS5qcGVn.jpeg"
@@ -36,45 +37,41 @@ Where You Been is the fifth official studio album by Dinosaur Jr., released on F
 The song "Start Choppin'" was their biggest hit, reaching number 3 on the Modern Rock Tracks chart in the U.S., and the Top 20 of the UK Singles Chart. This was drummer Murph's last recording with J Mascis until 2007's Beyond.
 This was the only Dinosaur Jr. album between 1988's Bug and 2007's Beyond to be recorded entirely with a full band. During Dinosaur Jr.'s major label years, Mascis performed most of the instruments himself on record.
 The album peaked with 263,000 units sold in the US.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Where You Been
-2. Out There
-3. Start Choppin
-4. What Else Is New
-5. On The Way
-6. Not The Same
-7. Get Me
-8. Drawerings
-9. Hide
-10. Goin Home
-11. I Ain't Sayin
-12. Bonus Tracks And Peel Sessions
-13. Hot Burrito #2
-14. Quest (Acoustic)
-15. Turnip Farm
-16. Forget It
-17. Keeblin'
-18. Get Me (Peel Session)
-19. Keeblin' (Peel Session)
-20. Hide (Peel Session)
-21. Missing Link
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Where You Been |  |
+| A1 | Out There |  |
+| A2 | Start Choppin |  |
+| A3 | What Else Is New |  |
+| A4 | On The Way |  |
+| A5 | Not The Same |  |
+| B1 | Get Me |  |
+| B2 | Drawerings |  |
+| B3 | Hide |  |
+| B4 | Goin Home |  |
+| B5 | I Ain't Sayin |  |
+|  | Bonus Tracks And Peel Sessions |  |
+| C1 | Hot Burrito #2 |  |
+| C2 | Quest (Acoustic) |  |
+| C3 | Turnip Farm |  |
+| C4 | Forget It |  |
+| C5 | Keeblin' |  |
+| D1 | Get Me (Peel Session) |  |
+| D2 | Keeblin' (Peel Session) |  |
+| D3 | Hide (Peel Session) |  |
+| D4 | Missing Link |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/where-you-been/1765551992" >}}<br>
 
 
-## Videos
-### Dinosaur Jr - Out There
-{{< youtube id="XelDCDRnboE" title="Dinosaur Jr - Out There" >}}<br>
-### More Videos
-
-- [Dinosaur Jr - Get Me](https://www.youtube.com/watch?v=ybExfDHg1i0)
-- [Dinosaur Jr - Start Choppin](https://www.youtube.com/watch?v=Z_-JapMQUPQ)
-- [Dinosaur Jr - Goin Home](https://www.youtube.com/watch?v=30h3HWSarDA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +83,5 @@ The album peaked with 263,000 units sold in the US.
 | Format         | Vinyl LP Album (Blue), Vinyl LP Compilation (Blue), All Media Deluxe Edition Reissue Remastered |
 | Label          | Cherry Red |
 | Catalog Number | PBREDD757 |
-| Notes | Sticker: Remastered & expanded 2 LP Edition Contains bonus tracks & Peel Sessions  Package in a gatefold sleeve. Each LP is housed in a custom inner sleeve.  ℗ 2019 Cherry Red Records Ltd, except for Side D tracks 1-3 ℗ 1993 and 2019 BBC Worldwide Ltd and licensed courtesy of BBC Worldwide Ltd This compilation © 2019 Cherry Red Records Ltd www.cherryred.co.uk Made in EU  'Where You Been' released February 1993 Side C, track 1: 'Get Me' Single B-Side released November 1992. Side C, track 2: 'Quest' Australasian and Asia only EP released July 1993. (These are incorrect sleeve notes - C2 was issued on the 'Get Me' 12" and CD editions in UK and Europe  - see https://www.discogs.com/Dinosaur-Jr-Get-Me/master/5606) Side C, tracks 3 and 4: 'Start Choppin' Single B-Side released January 1993 Side C, track 5: 'Out There' Single B-Side released May 1993. Side D, tracks 1-3: Recorded for the John Peel Show, BBC Radio One (UK), November 24th 1992 (broadcast January 9th 1993) Side D, track 4: From the 'Judgement night' OST, released September 1993.  All tracks [...] published by Spam As The Bread Music/BMG Blue/BMG Rights Management (UK) Ltd. except for Hot Burrito #2 [...] Irving Music/Universal Music Publishing Ltd and Missing Link [...] Careers BMG Music Publishing, Careers Music Inc, Universal Music Publishing International Ltd.  'Where You Been' [...] recorded mostly at Dreamland, then Master Control and Baby Monster [...]  Keeblin' engineered [...] at Wendell Recording Studio.  Pre-order came with pin 4x4 cm (compare photos). |
-| Discogs URL    | [Dinosaur Jr. - Where You Been](https://www.discogs.com/release/14192609-Dinosaur-Jr-Where-You-Been) |
+| Notes | Sticker:<br>Remastered & expanded 2 LP Edition<br>Contains bonus tracks & Peel Sessions<br><br>Package in a gatefold sleeve.<br>Each LP is housed in a custom inner sleeve.<br><br>℗ 2019 Cherry Red Records Ltd, except for Side D tracks 1-3 ℗ 1993 and 2019 BBC Worldwide Ltd and licensed courtesy of BBC Worldwide Ltd<br>This compilation © 2019 Cherry Red Records Ltd<br>www.cherryred.co.uk Made in EU<br><br>'Where You Been' released February 1993<br>Side C, track 1: 'Get Me' Single B-Side released November 1992.<br>Side C, track 2: 'Quest' Australasian and Asia only EP released July 1993. (These are incorrect sleeve notes - C2 was issued on the 'Get Me' 12" and CD editions in UK and Europe  - see https://www.discogs.com/Dinosaur-Jr-Get-Me/master/5606)<br>Side C, tracks 3 and 4: 'Start Choppin' Single B-Side released January 1993<br>Side C, track 5: 'Out There' Single B-Side released May 1993.<br>Side D, tracks 1-3: Recorded for the John Peel Show, BBC Radio One (UK), November 24th 1992 (broadcast January 9th 1993)<br>Side D, track 4: From the 'Judgement night' OST, released September 1993.<br><br>All tracks [...] published by Spam As The Bread Music/BMG Blue/BMG Rights Management (UK) Ltd. except for Hot Burrito #2 [...] Irving Music/Universal Music Publishing Ltd and Missing Link [...] Careers BMG Music Publishing, Careers Music Inc, Universal Music Publishing International Ltd.<br><br>'Where You Been' [...] recorded mostly at Dreamland, then Master Control and Baby Monster [...]<br><br>Keeblin' engineered [...] at Wendell Recording Studio.<br><br>Pre-order came with pin 4x4 cm (compare photos). |
+| Discogs URL    | [Dinosaur Jr - Where You Been](https://www.discogs.com/release/14192609-Dinosaur-Jr-Where-You-Been) |

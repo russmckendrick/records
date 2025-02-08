@@ -4,6 +4,7 @@ artist_name: "Stars"
 artist: "stars"
 album_name: "There Is No Love In Fluorescent Light"
 date: 2017-11-07T18:42:01.000000Z
+release_date: "2017-10-13"
 release_id: "10994086"
 slug: "there-is-no-love-in-fluorescent-light-10994086"
 hideSummary: true
@@ -21,44 +22,32 @@ styles: ["Indie Rock", "Indie Pop", "Alternative Rock"]
 There Is No Love in Fluorescent Light is the eighth studio album by Canadian band Stars. It is the follow-up album to No One Is Lost, in 2014. It was released on October 13, 2017.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Privilege
-2. Fluorescent Light
-3. Losing To You
-4. Hope Avenue
-5. Alone
-6. We Called It Love
-7. Real Thing
-8. The Gift Of Love
-9. On The Hills
-10. The Maze
-11. California, I Love That Name
-12. Wanderers
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Privilege |  |
+| A2 | Fluorescent Light |  |
+| A3 | Losing To You |  |
+| B1 | Hope Avenue |  |
+| B2 | Alone |  |
+| B3 | We Called It Love |  |
+| C1 | Real Thing |  |
+| C2 | The Gift Of Love |  |
+| C3 | On The Hills |  |
+| D1 | The Maze |  |
+| D2 | California, I Love That Name |  |
+| D3 | Wanderers |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/there-is-no-love-in-fluorescent-light/1267599221" >}}<br>
 
 
-## Videos
-### Privilege Official Audio by Stars
-{{< youtube id="mUAoB5WYdLA" title="Privilege Official Audio by Stars" >}}<br>
-### More Videos
-
-- [Stars - Fluorescent Light Official Audio](https://www.youtube.com/watch?v=2HJBkVsUNps)
-- [Losing To You](https://www.youtube.com/watch?v=lPYmAYU5Nug)
-- [Hope Avenue](https://www.youtube.com/watch?v=aipv5iARLhk)
-- [Stars - Alone Official Audio](https://www.youtube.com/watch?v=k3V-CQI5OiQ)
-- [We Called It Love](https://www.youtube.com/watch?v=YJwmEFm_tpg)
-- [Stars - Real Thing Official Audio](https://www.youtube.com/watch?v=xm-vMmgKL68)
-- [The Gift Of Love](https://www.youtube.com/watch?v=YBu_ZuZyyhU)
-- [On The Hills](https://www.youtube.com/watch?v=NfouphCLeUM)
-- [The Maze](https://www.youtube.com/watch?v=LVhpxarz6k0)
-- [California I Love That Name](https://www.youtube.com/watch?v=kYVuPoupRkg)
-- [Wanderers](https://www.youtube.com/watch?v=Sr5i0Ej2Ofg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +59,5 @@ There Is No Love in Fluorescent Light is the eighth studio album by Canadian ban
 | Format         | Vinyl 2× LP Album Limited Edition (Bone) |
 | Label          | Last Gang Records |
 | Catalog Number | Q101943 |
-| Notes | Limited to 500 copies. Pressed on 140g bone vinyl, double gatefold. Includes Digital Download. |
+| Notes | Limited to 500 copies.<br>Pressed on 140g bone vinyl, double gatefold. Includes Digital Download. |
 | Discogs URL    | [Stars - There Is No Love In Fluorescent Light](https://www.discogs.com/release/10994086-Stars-There-Is-No-Love-In-Fluorescent-Light) |

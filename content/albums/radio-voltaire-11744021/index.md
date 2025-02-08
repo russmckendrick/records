@@ -1,9 +1,10 @@
 ---
 title: "Kino - Radio Voltaire"
 artist_name: "Kino"
-artist: "kino-2"
+artist: "kino"
 album_name: "Radio Voltaire"
 date: 2018-03-24T11:43:56.000000Z
+release_date: "2018-03-23"
 release_id: "11744021"
 slug: "radio-voltaire-11744021"
 hideSummary: true
@@ -20,49 +21,41 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Radio Voltaire (7:03)
-2. The Dead Club (4:09)
-3. Idlewild (6:01)
-4. I Don't Know Why (5:22)
-5. I Won't Break So Easily Any More (5:11)
-6. Temple Tudor (4:46)
-7. Out Of Time (6:22)
-8. Warmth Of The Sun (1:49)
-9. Grey Shapes On Concrete Fields (4:41)
-10. Keep The Faith (5:35)
-11. The Silent Fighter Pilot (4:44)
-12. Radio Voltaire (7:02)
-13. The Dead Club (4:06)
-14. Idlewild (5:59)
-15. I Don't Know Why (5:21)
-16. I Won't Break So Easily Any More (5:26)
-17. Temple Tudor (4:24)
-18. Out Of Time (6:18)
-19. Warmth Of The Sun (1:46)
-20. Grey Shapes On Concrete Fields (4:39)
-21. Keep The Faith (5:32)
-22. The Silent Fighter Pilot (4:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Radio Voltaire | 7:03 |
+| A2 | The Dead Club | 4:09 |
+| A3 | Idlewild | 6:01 |
+| B1 | I Don't Know Why | 5:22 |
+| B2 | I Won't Break So Easily Any More | 5:11 |
+| B3 | Temple Tudor | 4:46 |
+| C1 | Out Of Time | 6:22 |
+| C2 | Warmth Of The Sun | 1:49 |
+| C3 | Grey Shapes On Concrete Fields | 4:41 |
+| D1 | Keep The Faith | 5:35 |
+| D2 | The Silent Fighter Pilot | 4:44 |
+| CD1 | Radio Voltaire | 7:02 |
+| CD2 | The Dead Club | 4:06 |
+| CD3 | Idlewild | 5:59 |
+| CD4 | I Don't Know Why | 5:21 |
+| CD5 | I Won't Break So Easily Any More | 5:26 |
+| CD6 | Temple Tudor | 4:24 |
+| CD7 | Out Of Time | 6:18 |
+| CD8 | Warmth Of The Sun | 1:46 |
+| CD9 | Grey Shapes On Concrete Fields | 4:39 |
+| CD10 | Keep The Faith | 5:32 |
+| CD11 | The Silent Fighter Pilot | 4:42 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/radio-voltaire/1337056975" >}}<br>
 
 
-## Videos
-### Radio Voltaire
-{{< youtube id="PU1pfWRd7FI" title="Radio Voltaire" >}}<br>
-### More Videos
-
-- [Kino  Radio Voltaire](https://www.youtube.com/watch?v=PPcNGSp-hFQ)
-- [KINO - I Dont Know Why Album Track](https://www.youtube.com/watch?v=zSEhyBbQbYM)
-- [Idlewild](https://www.youtube.com/watch?v=KQ8NW00S4tQ)
-- [Keep the Faith](https://www.youtube.com/watch?v=-N4xxnp6dL8)
-- [Out of Time](https://www.youtube.com/watch?v=qoxS9jlKMVY)
-- [Temple Tudor](https://www.youtube.com/watch?v=vg64jzqkPdA)
-- [The Silent Fighter Pilot](https://www.youtube.com/watch?v=HlSRbHaNk60)
-- [I Wont Break So Easily Any More](https://www.youtube.com/watch?v=0fFdioSs9ic)
-- [Warmth of the Sun](https://www.youtube.com/watch?v=N6rIZtd6izQ)
 
 ## Release Images
 {{< imageGrid >}}

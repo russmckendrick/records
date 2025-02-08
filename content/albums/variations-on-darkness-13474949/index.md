@@ -1,9 +1,10 @@
 ---
 title: "Sigur Rós - Variations On Darkness"
 artist_name: "Sigur Rós"
-artist: "sigur-r-s"
+artist: "sigur-ros"
 album_name: "Variations On Darkness"
 date: 2019-04-13T11:16:44.000000Z
+release_date: "2019-04-13"
 release_id: "13474949"
 slug: "variations-on-darkness-13474949"
 hideSummary: true
@@ -21,23 +22,21 @@ styles: ["Post Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Hungry Ghosts / We Live In An Old Chaos Of The Sun (20:44)
-2. The Silence Of Animals / The Truth Is, It Wanted To Cave In (22:59)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | The Hungry Ghosts / We Live In An Old Chaos Of The Sun | 20:44 |
+| B | The Silence Of Animals / The Truth Is, It Wanted To Cave In | 22:59 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/variations-on-darkness/1458756921" >}}<br>
 
 
-## Videos
-### The Hungry Ghosts We Live in an Old Chaos of the Sun
-{{< youtube id="ywHYsR6WqHs" title="The Hungry Ghosts We Live in an Old Chaos of the Sun" >}}<br>
-### More Videos
-
-- [The Silence of Animals The Truth is it Wanted to Cave in](https://www.youtube.com/watch?v=8HrNl8KyvJE)
-- [The Hungry Ghosts We Live in an Old Chaos of the Sun](https://www.youtube.com/watch?v=ywHYsR6WqHs)
-- [The Silence of Animals The Truth is it Wanted to Cave in](https://www.youtube.com/watch?v=8HrNl8KyvJE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -48,5 +47,5 @@ styles: ["Post Rock"]
 | Format         | Vinyl LP Album Record Store Day Limited Edition |
 | Label          | Krúnk |
 | Catalog Number | KRUNK31LP |
-| Notes | Released on Record Store Day 2019.  Note on the front cover :  A score of high nordic drama drawing on unreleased Sigur Rós material and multitracks from the band's catalogue. Premiered at Norður og Niður Festival, to soundtrack performances from the Iceland Dance Company. Arranged by Valdimar Johansson, choreographed by Erna Ómarsdóttir. |
+| Notes | Released on Record Store Day 2019.<br><br>Note on the front cover : <br>A score of high nordic drama drawing on unreleased Sigur Rós material and multitracks from the band's catalogue.<br>Premiered at Norður og Niður Festival, to soundtrack performances from the Iceland Dance Company.<br>Arranged by Valdimar Johansson, choreographed by Erna Ómarsdóttir. |
 | Discogs URL    | [Sigur Rós - Variations On Darkness](https://www.discogs.com/release/13474949-Sigur-Rós-Variations-On-Darkness) |

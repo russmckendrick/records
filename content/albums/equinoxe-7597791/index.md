@@ -4,6 +4,7 @@ artist_name: "Jean-Michel Jarre"
 artist: "jean-michel-jarre"
 album_name: "Equinoxe"
 date: 2016-12-08T18:38:48.000000Z
+release_date: "1978-11-13"
 release_id: "7597791"
 slug: "equinoxe-7597791"
 hideSummary: true
@@ -21,24 +22,26 @@ styles: ["Experimental", "Ambient", "Synth-pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Equinoxe Part 1 (2:23)
-2. Equinoxe Part 2 (5:02)
-3. Equinoxe Part 3 (4:59)
-4. Equinoxe Part 4 (7:04)
-5. Equinoxe Part 5 (3:52)
-6. Equinoxe Part 6 (2:47)
-7. Equinoxe Part 7 (7:48)
-8. Equinoxe Part 8 (5:07)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Equinoxe Part 1 | 2:23 |
+| A2 | Equinoxe Part 2 | 5:02 |
+| A3 | Equinoxe Part 3 | 4:59 |
+| A4 | Equinoxe Part 4 | 7:04 |
+| B1 | Equinoxe Part 5 | 3:52 |
+| B2 | Equinoxe Part 6 | 2:47 |
+| B3 | Equinoxe Part 7 | 7:48 |
+| B4 | Equinoxe Part 8 | 5:07 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/%C3%A9quinoxe/1719812711" >}}<br>
 
-
-## Videos
-### Jean-Michel Jarre - Equinoxe Pt 4
-{{< youtube id="iyX_qouAmfE" title="Jean-Michel Jarre - Equinoxe Pt 4" >}}<br>
 
 
 ## Release Images
@@ -50,5 +53,5 @@ styles: ["Experimental", "Ambient", "Synth-pop"]
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Disques Dreyfus |
 | Catalog Number | 88843024691 |
-| Notes | Cover & labels: ℗ 1978 Disques Dreyfus-BMG © 2015 Disques Dreyfus-BMG  Made in the EU.  Cover: Recorded on MCI-STUDIO EQUIPMENT New mastering from the original analog tapes 2014 Special thanks to [a=Michel Geiss]  |
+| Notes | Cover & labels:<br>℗ 1978 Disques Dreyfus-BMG © 2015 Disques Dreyfus-BMG <br>Made in the EU.<br><br>Cover:<br>Recorded on MCI-STUDIO EQUIPMENT<br>New mastering from the original analog tapes 2014<br>Special thanks to [a=Michel Geiss]<br> |
 | Discogs URL    | [Jean-Michel Jarre - Equinoxe](https://www.discogs.com/release/7597791-Jean-Michel-Jarre-Equinoxe) |

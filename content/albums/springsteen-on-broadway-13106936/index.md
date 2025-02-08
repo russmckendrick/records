@@ -46,40 +46,42 @@ That Springsteen is a masterful storyteller with superhuman command of a small t
 
 
 ## Tracklisting
-1. Growin' Up (Intro) (2:05)
-2. Growin' Up (Song) (12:00)
-3. My Hometown (Intro) (7:21)
-4. My Hometown (Song) (4:00)
-5. My Father's House (Intro) (4:29)
-6. My Father's House (Song) (6:23)
-7. The Wish (Intro) (6:10)
-8. The Wish (Song) (4:25)
-9. Thunder Road (Intro) (3:19)
-10. Thunder Road (Song) (5:28)
-11. The Promised Land (Intro) (11:35)
-12. The Promised Land (Song) (4:02)
-13. Born In The U.S.A. (Intro) (8:09)
-14. Born In The U.S.A. (Song) (4:45)
-15. Tenth Avenue Freeze-Out (Intro) (1:10)
-16. Tenth Avenue Freeze-Out (Song) (7:56)
-17. Tougher Than The Rest (Intro) (1:25)
-18. Tougher Than The Rest (Song) (4:30)
-19. Brilliant Disguise (Intro) (1:43)
-20. Brilliant Disguise (Song) (4:47)
-21. Long Time Coming (Intro) (3:09)
-22. Long Time Coming (Song) (3:54)
-23. The Ghost Of Tom Joad (Intro) (3:28)
-24. The Ghost Of Tom Joad (Song) (4:36)
-25. The Rising (Song) (4:33)
-26. Dancing In The Dark (Intro) (2:47)
-27. Dancing In The Dark (Song) (4:10)
-28. Land Of Hope And Dreams (Song) (3:58)
-29. Born To Run (Intro) (7:36)
-30. Born To Run (Song) (5:10)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Growin' Up (Intro) | 2:05 |
+| A2 | Growin' Up (Song) | 12:00 |
+| A3 | My Hometown (Intro) | 7:21 |
+| A4 | My Hometown (Song) | 4:00 |
+| B1 | My Father's House (Intro) | 4:29 |
+| B2 | My Father's House (Song) | 6:23 |
+| B3 | The Wish (Intro) | 6:10 |
+| B4 | The Wish (Song) | 4:25 |
+| C1 | Thunder Road (Intro) | 3:19 |
+| C2 | Thunder Road (Song) | 5:28 |
+| C3 | The Promised Land (Intro) | 11:35 |
+| C4 | The Promised Land (Song) | 4:02 |
+| D1 | Born In The U.S.A. (Intro) | 8:09 |
+| D2 | Born In The U.S.A. (Song) | 4:45 |
+| D3 | Tenth Avenue Freeze-Out (Intro) | 1:10 |
+| D4 | Tenth Avenue Freeze-Out (Song) | 7:56 |
+| E1 | Tougher Than The Rest (Intro) | 1:25 |
+| E2 | Tougher Than The Rest (Song) | 4:30 |
+| E3 | Brilliant Disguise (Intro) | 1:43 |
+| E4 | Brilliant Disguise (Song) | 4:47 |
+| E5 | Long Time Coming (Intro) | 3:09 |
+| E6 | Long Time Coming (Song) | 3:54 |
+| F1 | The Ghost Of Tom Joad (Intro) | 3:28 |
+| F2 | The Ghost Of Tom Joad (Song) | 4:36 |
+| F3 | The Rising (Song) | 4:33 |
+| G1 | Dancing In The Dark (Intro) | 2:47 |
+| G2 | Dancing In The Dark (Song) | 4:10 |
+| G3 | Land Of Hope And Dreams (Song) | 3:58 |
+| H1 | Born To Run (Intro) | 7:36 |
+| H2 | Born To Run (Song) | 5:10 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/springsteen-on-broadway/1445588120" >}}<br>
-
 
 
 
@@ -93,5 +95,5 @@ That Springsteen is a masterful storyteller with superhuman command of a small t
 | Format         | Vinyl 4× LP Album |
 | Label          | Columbia |
 | Catalog Number | 19075904371 |
-| Notes | Single wide spine sleeve in transparent plastic O-card. Printed inner sleeves.  Recordings from the Springsteen On Broadway show at the Walter Kerr Theatre, New York, NY (which ran from October 12, 2017 to December 15, 2018). Includes free digital download.  Note on runouts: The first part of the runouts is hand-etched. The second part, starting with "MPO" is machine-etched. |
+| Notes | Single wide spine sleeve in transparent plastic O-card. Printed inner sleeves.<br><br>Recordings from the Springsteen On Broadway show at the Walter Kerr Theatre, New York, NY (which ran from October 12, 2017 to December 15, 2018).<br>Includes free digital download.<br><br>Note on runouts:<br>The first part of the runouts is hand-etched. The second part, starting with "MPO" is machine-etched. |
 | Discogs URL    | [Bruce Springsteen - Springsteen On Broadway](https://www.discogs.com/release/13106936-Bruce-Springsteen-Springsteen-On-Broadway) |

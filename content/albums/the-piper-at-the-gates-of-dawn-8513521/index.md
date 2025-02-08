@@ -38,40 +38,25 @@ The album has since been hailed as a pivotal psychedelic music recording. Specia
 
 
 ## Tracklisting
-1. Astronomy Dominé
-2. Lucifer Sam
-3. Matilda Mother
-4. Flaming
-5. Pow R. Toc H.
-6. Take Up Thy Stethoscope And Walk
-7. Interstellar Overdrive
-8. The Gnome
-9. Chapter 24
-10. The Scarecrow
-11. Bike
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Astronomy Dominé |  |
+| A2 | Lucifer Sam |  |
+| A3 | Matilda Mother |  |
+| A4 | Flaming |  |
+| A5 | Pow R. Toc H. |  |
+| A6 | Take Up Thy Stethoscope And Walk |  |
+| B1 | Interstellar Overdrive |  |
+| B2 | The Gnome |  |
+| B3 | Chapter 24 |  |
+| B4 | The Scarecrow |  |
+| B5 | Bike |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-piper-at-the-gates-of-dawn/699637401" >}}<br>
 
 
-## Videos
-### Pink Floyd - Astronomy Domine 1967 vinyl
-{{< youtube id="ebROVN6fbjk" title="Pink Floyd - Astronomy Domine 1967 vinyl" >}}<br>
-### More Videos
-
-- [Pink Floyd - Astronomy Domine Mono Version](https://www.youtube.com/watch?v=lZVxVNyVGJo)
-- [Pink Floyd - Lucifer Sam Mono Version](https://www.youtube.com/watch?v=tddoa2dGhqU)
-- [Pink Floyd - Matilda Mother Mono Version](https://www.youtube.com/watch?v=1iK3zJflx-0)
-- [The Pink Floyd Flaming](https://www.youtube.com/watch?v=dlSz8p5Guqo)
-- [Pink Floyd - Pow R Toc H Mono Version](https://www.youtube.com/watch?v=8yx-Hl08i9A)
-- [Pink Floyd - Take Up Thy Stethoscope And Walk Mono Version](https://www.youtube.com/watch?v=XHNRktvTQpo)
-- [Pink Floyd - Interstellar Overdrive Mono Version](https://www.youtube.com/watch?v=ibKV7tPTXn4)
-- [Pink Floyd - Interstellar Overdrive 1967 vinyl](https://www.youtube.com/watch?v=Q00PYv2rPaY)
-- [The Pink Floyd The Gnome](https://www.youtube.com/watch?v=dpgKUKvHz4s)
-- [Pink Floyd - Chapter 24 Mono Version](https://www.youtube.com/watch?v=usO8Tshf0wI)
-- [Pink Floyd - The Scarecrow Mono Version](https://www.youtube.com/watch?v=vlU0rjDPDKE)
-- [Pink Floyd - Bike Mono Version](https://www.youtube.com/watch?v=QQc6mlGIotQ)
-- [Pink Floyd - Take Up Thy Stethoscope And Walk Official Audio](https://www.youtube.com/watch?v=Jk_OJhx3d2U)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +68,5 @@ The album has since been hailed as a pivotal psychedelic music recording. Specia
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP1 |
-| Notes | The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: August 1967 Made in the E.U. www.pinkfloyd.com  Hype sticker on shrink wrap.  Printed image of the original flip back rear sleeve. |
+| Notes | The stereo remastered album on heavyweight 180ɢ vinyl<br>Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN<br>Original UK release date: August 1967<br>Made in the E.U.<br>www.pinkfloyd.com<br><br>Hype sticker on shrink wrap.  Printed image of the original flip back rear sleeve. |
 | Discogs URL    | [Pink Floyd - The Piper At The Gates Of Dawn](https://www.discogs.com/release/8513521-Pink-Floyd-The-Piper-At-The-Gates-Of-Dawn) |

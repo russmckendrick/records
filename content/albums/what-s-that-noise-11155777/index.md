@@ -4,6 +4,7 @@ artist_name: "Coldcut"
 artist: "coldcut"
 album_name: "What's That Noise?"
 date: 2018-02-09T11:47:15.000000Z
+release_date: ""
 release_id: "11155777"
 slug: "what-s-that-noise-11155777"
 hideSummary: true
@@ -25,28 +26,30 @@ styles: ["House", "Breaks", "Downtempo"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. People Hold On (3:58)
-2. Fat (Party And Bullshit) (4:17)
-3. (I'm) In Deep (5:08)
-4. My Telephone (4:54)
-5. Theme From "Reportage" (1:35)
-6. Which Doctor? (4:30)
-7. Stop This Crazy Thing (5:15)
-8. No Connection (3:34)
-9. Smoke 1 (4:40)
-10. Doctorin' The House (Say R Mix) (4:35)
-11. What's That Noise? (2:28)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | People Hold On | 3:58 |
+| A2 | Fat (Party And Bullshit) | 4:17 |
+| A3 | (I'm) In Deep | 5:08 |
+| A4 | My Telephone | 4:54 |
+| A5 | Theme From "Reportage" | 1:35 |
+| A6 | Which Doctor? | 4:30 |
+| B1 | Stop This Crazy Thing | 5:15 |
+| B2 | No Connection | 3:34 |
+| B3 | Smoke 1 | 4:40 |
+| B4 | Doctorin' The House (Say R Mix) | 4:35 |
+| B5 | What's That Noise? | 2:28 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Coldcut - Whats That Noise Full Album
-{{< youtube id="tgYhZ5Ennig" title="Coldcut - Whats That Noise Full Album" >}}<br>
-### More Videos
 
-- [Coldcut - People hold on featuring Lisa Stansfield](https://www.youtube.com/watch?v=9SS7Hu-XyGg)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "Mansun"
 artist: "mansun"
 album_name: "One EP"
 date: 2018-04-26T17:57:35.000000Z
+release_date: "2024-03-27"
 release_id: "11285610"
 slug: "one-ep-11285610"
 hideSummary: true
@@ -21,24 +22,23 @@ styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Egg Shaped Fred (3:54)
-2. Ski Jump Nose (3:42)
-3. Lemonade Secret Drinker (3:48)
-4. Thief (3:03)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Egg Shaped Fred | 3:54 |
+| A2 | Ski Jump Nose | 3:42 |
+| B1 | Lemonade Secret Drinker | 3:48 |
+| B2 | Thief | 3:03 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/one-ep/1770153812" >}}<br>
 
 
-## Videos
-### Egg Shaped Fred Remastered
-{{< youtube id="MNaFbl0mMMQ" title="Egg Shaped Fred Remastered" >}}<br>
-### More Videos
-
-- [Ski Jump Nose](https://www.youtube.com/watch?v=7po5fCmyUzY)
-- [Mansun - Lemonade Secret Drinker](https://www.youtube.com/watch?v=vEW_PJN2JZs)
 
 ## Release Images
 {{< imageGrid >}}

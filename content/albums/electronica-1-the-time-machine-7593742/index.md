@@ -4,6 +4,7 @@ artist_name: "Jean-Michel Jarre"
 artist: "jean-michel-jarre"
 album_name: "Electronica 1: The Time Machine"
 date: 2018-01-29T19:33:46.000000Z
+release_date: "2015-10-16"
 release_id: "7593742"
 slug: "electronica-1-the-time-machine-7593742"
 hideSummary: true
@@ -34,50 +35,36 @@ styles: ["Synth-pop", "Electro", "Trance"]
 Electronica 1: The Time Machine is the seventeenth studio album by French electronic musician and composer Jean-Michel Jarre, released on 16 October 2015 by Columbia Records. It was recorded with the help of 15 collaborators, including Moby, Vince Clarke (of Depeche Mode, Yazoo, and Erasure), Gesaffelstein, M83, Armin van Buuren, John Carpenter, Robert "3D" Del Naja of Massive Attack fame, Pete Townshend (from The Who), and the late Edgar Froese of Tangerine Dream, the collaboration being one of Froese's last projects before his death in January 2015.
 Jarre announced on 20 April 2015 "Conquistador" as result of his collaboration with French techno producer Gesaffelstein. On 15 May 2015, a second collaboration, this time with French electronic band M83 titled "Glory" was announced, with a music video for the track being released on 23 June 2015. A third collaboration, this time with German electronic band Tangerine Dream was announced on 22 June 2015.
 On 28 August 2015, details of the album and the title Electronica 1: The Time Machine were announced, together with the Little Boots track "If..!". The album was nominated for the 59th Annual Grammy Awards in the "Best Dance/Electronic Album" category.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Time Machine (3:54)
-2. Glory (4:12)
-3. Close Your Eyes (6:15)
-4. Automatic (Part 1) (3:06)
-5. Automatic (Part 2) (3:03)
-6. If..! (3:13)
-7. Immortals (4:24)
-8. Suns Have Gone (5:55)
-9. Conquistador (3:09)
-10. Travelator (Part 2) (3:10)
-11. Zero Gravity (7:12)
-12. Rely On Me (2:54)
-13. Stardust (4:37)
-14. Watching You (4:09)
-15. A Question Of Blood (2:58)
-16. The Train & The River (7:13)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Time Machine | 3:54 |
+| A2 | Glory | 4:12 |
+| A3 | Close Your Eyes | 6:15 |
+| A4 | Automatic (Part 1) | 3:06 |
+| A5 | Automatic (Part 2) | 3:03 |
+| B1 | If..! | 3:13 |
+| B2 | Immortals | 4:24 |
+| B3 | Suns Have Gone | 5:55 |
+| B4 | Conquistador | 3:09 |
+| C1 | Travelator (Part 2) | 3:10 |
+| C2 | Zero Gravity | 7:12 |
+| C3 | Rely On Me | 2:54 |
+| C4 | Stardust | 4:37 |
+| D1 | Watching You | 4:09 |
+| D2 | A Question Of Blood | 2:58 |
+| D3 | The Train & The River | 7:13 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/electronica-1-the-time-machine/1046500584" >}}<br>
 
 
-## Videos
-### Jean-Michel Jarre M83 - Glory
-{{< youtube id="NF7OoJZPLJc" title="Jean-Michel Jarre M83 - Glory" >}}<br>
-### More Videos
-
-- [Jean-Michel Jarre Vincent Clarke - Automatic Pt 1 Audio Video](https://www.youtube.com/watch?v=NxV0OWna09U)
-- [Jean-Michel Jarre Armin van Buuren - Stardust Audio](https://www.youtube.com/watch?v=pRwYx8w1clk)
-- [Jean-Michel Jarre Tangerine Dream - Zero Gravity Audio Video](https://www.youtube.com/watch?v=L7MHhLYecT0)
-- [Jean-Michel Jarre Vincent Clarke - Automatic Pt 2 Audio Video](https://www.youtube.com/watch?v=hhcveYXKZTY)
-- [Jean-Michel Jarre - Electronica Volume 1 Official Trailer](https://www.youtube.com/watch?v=sw02ZVo4ea4)
-- [Jean-Michel Jarre  M83 - Glory Steve Angello Remix Cover Art](https://www.youtube.com/watch?v=ogmdkV3b0Yg)
-- [Jean-Michel Jarre John Carpenter - A Question of Blood Audio Video](https://www.youtube.com/watch?v=nVLUXBKFRGs)
-- [Jean-Michel Jarre Boys Noize - The Time Machine Audio Video](https://www.youtube.com/watch?v=xjrCDAXg1Bw)
-- [Jean-Michel Jarre  Deezer Close Up](https://www.youtube.com/watch?v=pDj9t4Uf8Q0)
-- [A Question Of Blood](https://www.youtube.com/watch?v=2qSaeRMK0mk)
-- [Jean-Michel Jarre Pete Townshend - Travelator Pt 2 Audio Video](https://www.youtube.com/watch?v=4xZQ5hX0xyk)
-- [Jean-Michel Jarre M83 - Glory](https://www.youtube.com/watch?v=NF7OoJZPLJc)
-- [Jean-Michel Jarre Air - Close Your Eyes Audio Video](https://www.youtube.com/watch?v=aI6kxtQ1sgY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -89,5 +76,5 @@ On 28 August 2015, details of the album and the title Electronica 1: The Time Ma
 | Format         | Vinyl 2× LP Album (180 Gram) |
 | Label          | Aero Productions |
 | Catalog Number | 88843018981 |
-| Notes | ℗ & © 2015 Music Affair Entertainment Limited under exclusive license to Sony Music Entertainment Germany GmbH. Made in the E.U.  Gatefold sleeve with printed innersleeves. First issues come with black/yello rectangular sticker on shrinkwrap and included coupon, later pressings come with "Grammy nominated album" black round sticker on shrinkwrap without coupon for download.  Coupon is for downloading the full album plus a bonus track, the "Continuous Mix".  Other Photos: DR (Droits Réservés / Rights Reserved) |
+| Notes | ℗ & © 2015 Music Affair Entertainment Limited under exclusive license to Sony Music Entertainment Germany GmbH.<br>Made in the E.U.<br><br>Gatefold sleeve with printed innersleeves.<br>First issues come with black/yello rectangular sticker on shrinkwrap and included coupon, later pressings come with "Grammy nominated album" black round sticker on shrinkwrap without coupon for download.<br><br>Coupon is for downloading the full album plus a bonus track, the "Continuous Mix".<br><br>Other Photos: DR (Droits Réservés / Rights Reserved) |
 | Discogs URL    | [Jean-Michel Jarre - Electronica 1: The Time Machine](https://www.discogs.com/release/7593742-Jean-Michel-Jarre-Electronica-1-The-Time-Machine) |

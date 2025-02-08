@@ -4,6 +4,7 @@ artist_name: "Simple Minds"
 artist: "simple-minds"
 album_name: "Once Upon A Time"
 date: 2015-09-11T18:02:24.000000Z
+release_date: "1985-10-21"
 release_id: "762207"
 slug: "once-upon-a-time-762207"
 hideSummary: true
@@ -23,35 +24,28 @@ styles: ["Pop Rock", "Synth-pop"]
 ---
 
 Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds, released on 21 October 1985 by record label Virgin (A&M in the US),  Once Upon a Time topped the UK charts, and peaked at No. 10 on the US charts, spending five consecutive weeks in the Top 10 of Billboard and 16 weeks in the Top 20.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Once Upon A Time
-2. All The Things She Said
-3. Ghost Dancing
-4. Alive And Kicking
-5. Oh Jungleland
-6. I Wish You Were Here
-7. Sanctify Yourself
-8. Come A Long Way
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Once Upon A Time |  |
+| A2 | All The Things She Said |  |
+| A3 | Ghost Dancing |  |
+| A4 | Alive And Kicking |  |
+| B1 | Oh Jungleland |  |
+| B2 | I Wish You Were Here |  |
+| B3 | Sanctify Yourself |  |
+| B4 | Come A Long Way |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/once-upon-a-time/1440841956" >}}<br>
 
 
-## Videos
-### Simple Minds Alive and Kicking
-{{< youtube id="EK08XU4VaLQ" title="Simple Minds Alive and Kicking" >}}<br>
-### More Videos
-
-- [Simple Minds -- Sanctify Yourself 1985](https://www.youtube.com/watch?v=yAZlws4jB6w)
-- [Simple Minds - Alive And Kicking HDlyrics](https://www.youtube.com/watch?v=4MsV45E-P-E)
-- [Simple Minds - Alive  Kicking 1985 LP Version HQ](https://www.youtube.com/watch?v=WEvHl3SU6U0)
-- [Simple Minds Once Upon a Time](https://www.youtube.com/watch?v=eQlYTc_rZ7c)
-- [Simple Minds - All The Things She Said](https://www.youtube.com/watch?v=tytPcvyJASc)
-- [Simple Minds - Sanctify Yourself](https://www.youtube.com/watch?v=sGQNRyxmhhg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +57,5 @@ Once Upon a Time is the seventh studio album by Scottish rock band Simple Minds,
 | Format         | Vinyl LP Album Picture Disc |
 | Label          | Virgin |
 | Catalog Number | VP 2364 |
-| Notes | Gatefold sleeve with a circular cut out front to reveal the picture disc which resides in an inner plastic that also houses a printed, folded cardboard inner sleeve with lyrics.  Recorded at Townhouse Studios, London.   |
+| Notes | Gatefold sleeve with a circular cut out front to reveal the picture disc which resides in an inner plastic that also houses a printed, folded cardboard inner sleeve with lyrics.<br>Recorded at Townhouse Studios, London.<br> |
 | Discogs URL    | [Simple Minds - Once Upon A Time](https://www.discogs.com/release/762207-Simple-Minds-Once-Upon-A-Time) |

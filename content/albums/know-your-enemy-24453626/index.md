@@ -4,6 +4,7 @@ artist_name: "Manic Street Preachers"
 artist: "manic-street-preachers"
 album_name: "Know Your Enemy"
 date: 2022-09-10T09:46:24.000000Z
+release_date: "2001-03-14"
 release_id: "24453626"
 slug: "know-your-enemy-24453626"
 hideSummary: true
@@ -34,56 +35,44 @@ styles: ["Alternative Rock"]
 Know Your Enemy is the sixth studio album by Welsh alternative rock band Manic Street Preachers, released on 19 March 2001 by Epic Records. It was supported by four singles, all of which reached the  top 20 of the UK Singles Chart. 
 The band originally envisioned Know Your Enemy as two separate albums with very different sounds and concepts, with the intention of releasing both on the same day. However, the record label vetoed the idea and a compromise was made, resulting in a single, lengthy, very diverse record. Whilst the album sold well, it did not match the success of its predecessor, This Is My Truth Tell Me Yours. Critics were somewhat divided in their opinions at first, but its reception since has been more positive.
 In 2022, the band released remixed and expanded 2- and 3-disc editions of Know Your Enemy, rearranging the tracks into the two separate albums as originally intended.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Door To The River
-2. The Year Of Purification
-3. Ocean Spray
-4. So Why So Sad (Avalanches Sean Penn Mix)
-5. Door To The River
-6. Rosebud
-7. Just A Kid
-8. His Last Painting
-9. Let Robeson Sing
-10. Groundhog Days
-11. Epicentre
-12. Solidarity
-13. Intravenous Agnostic
-14. Found That Soul
-15. We Are All Bourgeois Now
-16. Freedom Of Speech Won't Feed My Children
-17. The Convalescent
-18. Baby Elian
-19. Masses Against The Classes
-20. My Guernica
-21. Studies In Paralysis
-22. Dead Martyrs
-23. Wattsville Blues
-24. Miss Europa Disco Dancer
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Door To The River |  |
+| A1 | The Year Of Purification |  |
+| A2 | Ocean Spray |  |
+| A3 | So Why So Sad (Avalanches Sean Penn Mix) |  |
+| A4 | Door To The River |  |
+| A5 | Rosebud |  |
+| B6 | Just A Kid |  |
+| B7 | His Last Painting |  |
+| B8 | Let Robeson Sing |  |
+| B9 | Groundhog Days |  |
+| B10 | Epicentre |  |
+|  | Solidarity |  |
+| C1 | Intravenous Agnostic |  |
+| C2 | Found That Soul |  |
+| C3 | We Are All Bourgeois Now |  |
+| C4 | Freedom Of Speech Won't Feed My Children |  |
+| C5 | The Convalescent |  |
+| C6 | Baby Elian |  |
+| D7 | Masses Against The Classes |  |
+| D8 | My Guernica |  |
+| D9 | Studies In Paralysis |  |
+| D10 | Dead Martyrs |  |
+| D11 | Wattsville Blues |  |
+| D12 | Miss Europa Disco Dancer |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/know-your-enemy/319494170" >}}<br>
 
 
-## Videos
-### Manic Street Preachers - So Why So Sad
-{{< youtube id="x3i1E9N8zww" title="Manic Street Preachers - So Why So Sad" >}}<br>
-### More Videos
-
-- [Manic Street Preachers - Ocean Spray](https://www.youtube.com/watch?v=vUJLdC6wqno)
-- [Manic Street Preachers - Let Robeson Sing Official Video](https://www.youtube.com/watch?v=9_QGfzeiNb0)
-- [Manic Street Preachers - Found That Soul](https://www.youtube.com/watch?v=-uwacLOnyKA)
-- [Manic Street Preachers Know Your Enemy Studio Footage from wwwmanicscouk 2001](https://www.youtube.com/watch?v=vnTwDFWwm88)
-- [Manic Street Preachers - The Year of Purification Official Audio](https://www.youtube.com/watch?v=NYJ3TBfFbN4)
-- [Manic Street Preachers - Intravenous Agnostic Official Audio](https://www.youtube.com/watch?v=fRiOYL_TpUc)
-- [Manic Street Preachers - We Are All Bourgeois Now Official Audio](https://www.youtube.com/watch?v=LWzWm1-Q76Y)
-- [Manics Know Your Enemy Interview](https://www.youtube.com/watch?v=zzMHzqdzuyI)
-- [Manic street preachers know your enemy unboxing](https://www.youtube.com/watch?v=b8e_m8Gpdos)
-- [Manic Street Preachers - Ocean Spray Live in Cuba](https://www.youtube.com/watch?v=y3yT3EEvebE)
-- [Manic Street Preachers - The Year of Purification Live in Cuba](https://www.youtube.com/watch?v=rCV-1l1DsQE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -95,5 +84,5 @@ In 2022, the band released remixed and expanded 2- and 3-disc editions of Know Y
 | Format         | Vinyl LP Album, Vinyl LP Album, All Media Remastered (180 g) |
 | Label          | Columbia |
 | Catalog Number | 19439988681 |
-| Notes | A reimagined version of the band's 2001 album. The album has been entirely remixed and reconstructed to form two separate albums as originally planned.  Gatefold sleeve. The artist and title to the front are in a spot gloss varnish detail. Top opening picture inner sleeves of thin card. Hype stickered shrink-wrap.  A limited number of copies with a signed insert were available to pre-order from the band's online store. These had a unique catalogue number and barcode on hype sticker and barcode sticker on the shrinkwrap.  Tracks on each album are numbered sequentially. All runout characters are etched excepting the pressing numbers between "- -", which are stamped.  Made in the EU. |
+| Notes | A reimagined version of the band's 2001 album. The album has been entirely remixed and reconstructed to form two separate albums as originally planned.<br><br>Gatefold sleeve. The artist and title to the front are in a spot gloss varnish detail.<br>Top opening picture inner sleeves of thin card.<br>Hype stickered shrink-wrap.<br><br>A limited number of copies with a signed insert were available to pre-order from the band's online store. These had a unique catalogue number and barcode on hype sticker and barcode sticker on the shrinkwrap.<br><br>Tracks on each album are numbered sequentially.<br>All runout characters are etched excepting the pressing numbers between "- -", which are stamped.<br><br>Made in the EU. |
 | Discogs URL    | [Manic Street Preachers - Know Your Enemy](https://www.discogs.com/release/24453626-Manic-Street-Preachers-Know-Your-Enemy) |

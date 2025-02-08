@@ -1,6 +1,6 @@
 ---
-title: "St. Vincent - All Born Screaming"
-artist_name: "St. Vincent"
+title: "St Vincent - All Born Screaming"
+artist_name: "St Vincent"
 artist: "st-vincent"
 album_name: "All Born Screaming"
 date: 2024-04-30T11:45:09.000000Z
@@ -10,8 +10,8 @@ slug: "all-born-screaming-30547978"
 hideSummary: true
 cover:
     image: "all-born-screaming-30547978.jpg"
-    alt: "All Born Screaming by St. Vincent"
-    caption: "All Born Screaming by St. Vincent"
+    alt: "All Born Screaming by St Vincent"
+    caption: "All Born Screaming by St Vincent"
 additional_images:
     - "https://i.discogs.com/8GKLqguV96XIe1a4RpuZL7sUk71bKT8laAxkKKHcJyQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/OTc4LTE3MTQ2OTIw/ODMtNTcyMy5qcGVn.jpeg"
     - "https://i.discogs.com/n0gxYR_-wNTsbmhydSNmH8xEF6SPVDO6VWbECxHOeRo/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/OTc4LTE3MTQ2OTIw/ODItNjIxMC5qcGVn.jpeg"
@@ -49,32 +49,24 @@ With <i>All Born Screaming</i>, Clark manages to capture the bloody nature of th
 
 
 ## Tracklisting
-1. Hell Is Near (4:09)
-2. Reckless (3:57)
-3. Broken Man (3:21)
-4. Flea (3:47)
-5. Big Time Nothing (2:59)
-6. Violent Times (3:57)
-7. The Power's Out (4:38)
-8. Sweetest Fruit (3:56)
-9. So Many Planets (3:35)
-10. All Born Screaming (6:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hell Is Near | 4:09 |
+| A2 | Reckless | 3:57 |
+| A3 | Broken Man | 3:21 |
+| A4 | Flea | 3:47 |
+| A5 | Big Time Nothing | 2:59 |
+| B1 | Violent Times | 3:57 |
+| B2 | The Power's Out | 4:38 |
+| B3 | Sweetest Fruit | 3:56 |
+| B4 | So Many Planets | 3:35 |
+| B5 | All Born Screaming | 6:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-born-screaming/1729549170" >}}<br>
 
 
-## Videos
-### St Vincent - All Born Screaming Official Audio ft Cate Le Bon
-{{< youtube id="BWkxzcWt51w" title="St Vincent - All Born Screaming Official Audio ft Cate Le Bon" >}}<br>
-### More Videos
-
-- [St Vincent - Violent Times Official Audio](https://www.youtube.com/watch?v=mtY1vRh7QwQ)
-- [St Vincent - Broken Man Official](https://www.youtube.com/watch?v=RYJxPg6quL4)
-- [St Vincent - Reckless Official Audio](https://www.youtube.com/watch?v=fIxfVno3wmI)
-- [St Vincent - Sweetest Fruit Official Audio](https://www.youtube.com/watch?v=TT-goBoETr4)
-- [St Vincent - Flea Lyric Video](https://www.youtube.com/watch?v=E65yRApR9UU)
-- [St Vincent - So Many Planets Official Audio](https://www.youtube.com/watch?v=VefkG-Re4_Q)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +78,5 @@ With <i>All Born Screaming</i>, Clark manages to capture the bloody nature of th
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | Total Pleasure Records |
 | Catalog Number | 00196922801839 |
-| Notes | Rough Trade exclusive Limited Edition of 2500. 50 copies with a signed print of the album sleeve were released as part of the Rough Trade year end list.   Made in Germany. |
-| Discogs URL    | [St. Vincent - All Born Screaming](https://www.discogs.com/release/30547978-St-Vincent-All-Born-Screaming) |
+| Notes | Rough Trade exclusive Limited Edition of 2500. 50 copies with a signed print of the album sleeve were released as part of the Rough Trade year end list. <br><br>Made in Germany. |
+| Discogs URL    | [St Vincent - All Born Screaming](https://www.discogs.com/release/30547978-St-Vincent-All-Born-Screaming) |

@@ -35,26 +35,25 @@ And despite the confusion about <i>Born in the U.S.A.</i>’s title track, Sprin
 
 
 ## Tracklisting
-1. Born In The U.S.A. (4:39)
-2. Cover Me (3:26)
-3. Darlington County (4:48)
-4. Working On The Highway (3:11)
-5. Downbound Train (3:35)
-6. I'm On Fire (2:36)
-7. No Surrender (4:00)
-8. Bobby Jean (3:46)
-9. I'm Goin' Down (3:29)
-10. Glory Days (4:15)
-11. Dancing In The Dark (4:01)
-12. My Hometown (4:33)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Born In The U.S.A. | 4:39 |
+| A2 | Cover Me | 3:26 |
+| A3 | Darlington County | 4:48 |
+| A4 | Working On The Highway | 3:11 |
+| A5 | Downbound Train | 3:35 |
+| A6 | I'm On Fire | 2:36 |
+| B1 | No Surrender | 4:00 |
+| B2 | Bobby Jean | 3:46 |
+| B3 | I'm Goin' Down | 3:29 |
+| B4 | Glory Days | 4:15 |
+| B5 | Dancing In The Dark | 4:01 |
+| B6 | My Hometown | 4:33 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/born-in-the-u-s-a/203708420" >}}<br>
 
-
-## Videos
-### Bruce Springsteen - Born in the USA Official Video
-{{< youtube id="EPhWR4d3FJQ" title="Bruce Springsteen - Born in the USA Official Video" >}}<br>
 
 
 ## Release Images
@@ -67,5 +66,5 @@ And despite the confusion about <i>Born in the U.S.A.</i>’s title track, Sprin
 | Format         | Vinyl LP Album Limited Edition Reissue (Red Translucent, Gatefold) |
 | Label          | Columbia |
 | Catalog Number | 19658875161 |
-| Notes | 40th Anniversary Limited Edition on Translucent Red Vinyl. Includes exclusive Lithograph plus a Booklet with archival Photos and a new Essay.  Made In The EU. |
+| Notes | 40th Anniversary Limited Edition on Translucent Red Vinyl.<br>Includes exclusive Lithograph plus a Booklet with archival Photos and a new Essay.<br><br>Made In The EU. |
 | Discogs URL    | [Bruce Springsteen - Born In The U.S.A.](https://www.discogs.com/release/30957880-Bruce-Springsteen-Born-In-The-USA) |

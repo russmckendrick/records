@@ -4,6 +4,7 @@ artist_name: "Harmony Rockets"
 artist: "harmony-rockets"
 album_name: "Lachesis / Clotho / Atropos"
 date: 2018-09-28T11:59:04.000000Z
+release_date: "2018-09-14"
 release_id: "12547656"
 slug: "lachesis-clotho-atropos-12547656"
 hideSummary: true
@@ -20,26 +21,22 @@ styles: ["Post Rock", "Experimental", "Folk"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Lachesis (17:11)
-2. Clotho (9:03)
-3. Atropos (7:38)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Lachesis | 17:11 |
+| B1 | Clotho | 9:03 |
+| B2 | Atropos | 7:38 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lachesis-clotho-atropos/1429387563" >}}<br>
 
 
-## Videos
-### Lachesis
-{{< youtube id="U77FkZhmijU" title="Lachesis" >}}<br>
-### More Videos
-
-- [Clotho](https://www.youtube.com/watch?v=lTVndB71EGU)
-- [Atropos](https://www.youtube.com/watch?v=gQ1IDEN58JU)
-- [Lachesis](https://www.youtube.com/watch?v=U77FkZhmijU)
-- [Clotho](https://www.youtube.com/watch?v=lTVndB71EGU)
-- [Atropos](https://www.youtube.com/watch?v=gQ1IDEN58JU)
 
 ## Release Images
 {{< imageGrid >}}

@@ -1,9 +1,10 @@
 ---
 title: "Amplifier - The Astronaut Dismantles HAL/Eternity"
 artist_name: "Amplifier"
-artist: "amplifier-3"
+artist: "amplifier"
 album_name: "The Astronaut Dismantles HAL/Eternity"
 date: 2015-11-03T19:26:04.000000Z
+release_date: "2005-10-24"
 release_id: "3274640"
 slug: "the-astronaut-dismantles-hal-eternity-3274640"
 hideSummary: true
@@ -19,27 +20,32 @@ styles: ["Alternative Rock", "Space Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Astronaut Dismantles HAL
-2. Continuum (8:51)
-3. Into The Space Age (4:59)
-4. For Marcia (4:57)
-5. The Brain Room (0:56)
-6. Everyday Combat (5:33)
-7. Live Human (5:39)
-8. Scarecrows (4:02)
-9. Eternity
-10. Amplified 99 (4:45)
-11. Area 51 (5:43)
-12. The Ways Of Amplifier (6:47)
-13. My Corrosion (5:48)
-14. Departure Lounge (6:35)
-15. Number One Son (6:04)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Astronaut Dismantles HAL |  |
+| A1 | Continuum | 8:51 |
+| A2 | Into The Space Age | 4:59 |
+| A3 | For Marcia | 4:57 |
+| B1 | The Brain Room | 0:56 |
+| B2 | Everyday Combat | 5:33 |
+| B3 | Live Human | 5:39 |
+| B4 | Scarecrows | 4:02 |
+|  | Eternity |  |
+| A1 | Amplified 99 | 4:45 |
+| A2 | Area 51 | 5:43 |
+| A3 | The Ways Of Amplifier | 6:47 |
+| B1 | My Corrosion | 5:48 |
+| B2 | Departure Lounge | 6:35 |
+| B3 | Number One Son | 6:04 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-astronaut-dismantles-hal/1189717939" >}}<br>
-
 
 
 

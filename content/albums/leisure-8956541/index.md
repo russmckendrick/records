@@ -4,6 +4,7 @@ artist_name: "Blur"
 artist: "blur"
 album_name: "Leisure"
 date: 2016-08-30T16:05:06.000000Z
+release_date: "1991-08-26"
 release_id: "8956541"
 slug: "leisure-8956541"
 hideSummary: true
@@ -24,33 +25,31 @@ styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. She's So High
-2. Bang
-3. Slow Down
-4. Repetition
-5. Bad Day
-6. Sing
-7. There's No Other Way
-8. Fool
-9. Come Together
-10. High Cool
-11. Birthday
-12. Wear Me Down
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | She's So High |  |
+| A2 | Bang |  |
+| A3 | Slow Down |  |
+| A4 | Repetition |  |
+| A5 | Bad Day |  |
+| A6 | Sing |  |
+| B1 | There's No Other Way |  |
+| B2 | Fool |  |
+| B3 | Come Together |  |
+| B4 | High Cool |  |
+| B5 | Birthday |  |
+| B6 | Wear Me Down |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/leisure/699605281" >}}<br>
 
 
-## Videos
-### Blur - Birthday Official Audio
-{{< youtube id="xGFa5_wdRsU" title="Blur - Birthday Official Audio" >}}<br>
-### More Videos
-
-- [Blur - Wear Me Down Official Audio](https://www.youtube.com/watch?v=c46J6GK1qX8)
-- [Blur - Sing Official Audio](https://www.youtube.com/watch?v=zsQ6_9m-iDo)
-- [Theres No Other Way 2012 Remaster](https://www.youtube.com/watch?v=2Yhn0cwKJ6M)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +60,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Repress (Turquoise, 25th Anniversary Edition) |
 | Label          | Food |
 | Catalog Number | FOODLPX6 |
-| Notes | Sourced from the 2012 remaster of [r=3787137]. Includes a download card.  Includes a printed inner sleeve.  Digital remasters ℗ 2012 The copyright in this sound recording is owned by Parlophone Records Ltd. © 2012 Parlophone Records Ltd. A Warner Music Group Company.  'Bathing hat' photo from Hulton Picture Company with a little help from I.Q.  "Stephan Street" typo on inner sleeve, but not label.  Tracks A1, A2 & A6 published by Universal / MCA Music Ltd. Tracks A3-A5 published by Illegal Songs Inc. Tracks B1 & B3 published by Universal / MCA Music Ltd. Tracks B2, & B4-B6 published by Illegal Songs Inc. |
+| Notes | Sourced from the 2012 remaster of [r=3787137].<br>Includes a download card. <br>Includes a printed inner sleeve.<br><br>Digital remasters ℗ 2012 The copyright in this sound recording is owned by Parlophone Records Ltd.<br>© 2012 Parlophone Records Ltd. A Warner Music Group Company.<br><br>'Bathing hat' photo from Hulton Picture Company with a little help from I.Q.<br><br>"Stephan Street" typo on inner sleeve, but not label.<br><br>Tracks A1, A2 & A6 published by Universal / MCA Music Ltd.<br>Tracks A3-A5 published by Illegal Songs Inc.<br>Tracks B1 & B3 published by Universal / MCA Music Ltd.<br>Tracks B2, & B4-B6 published by Illegal Songs Inc. |
 | Discogs URL    | [Blur - Leisure](https://www.discogs.com/release/8956541-Blur-Leisure) |

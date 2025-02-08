@@ -65,47 +65,49 @@ In the outtakes, we get glimpses of the band’s past (the paranoiac folk of “
 
 
 ## Tracklisting
-1. Kid A
-2. Everything In Its Right Place
-3. Kid A
-4. The National Anthem
-5. How To Disappear Completely
-6. Treefingers
-7. Optimistic
-8. In Limbo
-9. Idioteque
-10. Morning Bell
-11. Motion Picture Soundtrack
-12. Untitled
-13. Amnesiac
-14. Packt Like Sardines In A Crushd Tin Box
-15. Pyramid Song
-16. Pulk/Pull Revolving Doors
-17. You And Whose Army?
-18. I Might Be Wrong
-19. Knives Out
-20. Morning Bell/Amnesiac
-21. Dollars And Cents
-22. Hunting Bears
-23. Like Spinning Plates
-24. Life In A Glasshouse
-25. Kid Amnesiae
-26. Like Spinning Plates ('Why Us?' Version)
-27. Untitled V1
-28. Fog (Again Again Version)
-29. If You Say The Word
-30. Follow Me Around
-31. Pulk/Pull (True Love Waits Version)
-32. Untitled V2
-33. The Morning Bell (In The Dark Version)
-34. Pyramid Strings
-35. Alt. Fast Track
-36. Untitled V3
-37. How To Disappear Into Strings
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Kid A |  |
+| A1 | Everything In Its Right Place |  |
+| A2 | Kid A |  |
+| A3 | The National Anthem |  |
+| A4 | How To Disappear Completely |  |
+| A5 | Treefingers |  |
+| B1 | Optimistic |  |
+| B2 | In Limbo |  |
+| B3 | Idioteque |  |
+| B4 | Morning Bell |  |
+| B5 | Motion Picture Soundtrack |  |
+| B6 | Untitled |  |
+|  | Amnesiac |  |
+| C1 | Packt Like Sardines In A Crushd Tin Box |  |
+| C2 | Pyramid Song |  |
+| C3 | Pulk/Pull Revolving Doors |  |
+| C4 | You And Whose Army? |  |
+| C5 | I Might Be Wrong |  |
+| D1 | Knives Out |  |
+| D2 | Morning Bell/Amnesiac |  |
+| D3 | Dollars And Cents |  |
+| D4 | Hunting Bears |  |
+| D5 | Like Spinning Plates |  |
+| D6 | Life In A Glasshouse |  |
+|  | Kid Amnesiae |  |
+| E1 | Like Spinning Plates ('Why Us?' Version) |  |
+| E2 | Untitled V1 |  |
+| E3 | Fog (Again Again Version) |  |
+| E4 | If You Say The Word |  |
+| E5 | Follow Me Around |  |
+| F1 | Pulk/Pull (True Love Waits Version) |  |
+| F2 | Untitled V2 |  |
+| F3 | The Morning Bell (In The Dark Version) |  |
+| F4 | Pyramid Strings |  |
+| F5 | Alt. Fast Track |  |
+| F6 | Untitled V3 |  |
+| F7 | How To Disappear Into Strings |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kid-a-mnesia/1581785974" >}}<br>
-
 
 
 
@@ -119,5 +121,5 @@ In the outtakes, we get glimpses of the band’s past (the paranoiac folk of “
 | Format         | Vinyl LP Album Reissue (Cream), Vinyl LP Album Reissue (Cream), Vinyl LP Compilation (Cream), All Media Compilation Deluxe Edition Limited Edition (SCARRY Edition) |
 | Label          | XL Recordings |
 | Catalog Number | XL1166LPX |
-| Notes | Triple cream LP and the “SCARRY” book.    XL1166LPX is on the barcode sticker.  XL1166LPX_2 is on the packaging materials.  Thirty-six large 340mm x 320mm (13.4" x 12.6") pages of KID A and Amnesiac artwork on gloss laminated 600my GC1 board.  Each LP comes in a printed inner sleeve. Extra inner sleeves were included in the mailed package.  Kid A: Mastered [...] at Abbey Road Studios. The track 'Idioteque' contains two samples from the Odyssey label title 'First Recordings- Electronic Music Winners' (1976). The two compositions sampled are Paul Lansky's 'Mild Und Liese' published by Warner Chappell Music Publishing Ltd. and 'Short Piece' by Arthur Krieger published by the Subito Music Corporation. Both samples are used with the kind permission of the composers and the Sony Music Corporation.  Amnesiac: These recordings were made on location at the same time as Kid A Additional musicians on Pyramid Song & Dollars And Cents [...] recorded at Dorchester Abbey, Oxfordshire.  Kid Amnesiae: On Pyramid Strings and How To Disappear Strings: Strings performed by the Orchestra of St. John's [...] recorded at Dorchester Abbey, Oxfordshire. The fonts used are 'BD Plakatbau' by Buro Destruct and 'Deansgate' & 'Deansgate Light' by K-Type.  ℗ 2021 The copyright in this sound recording is owned by XL Recordings Ltd. © 2021 XL Recordings Ltd. All tracks published by Warner Chappell Music Publishing Ltd. |
+| Notes | Triple cream LP and the “SCARRY” book. <br><br> XL1166LPX is on the barcode sticker.<br> XL1166LPX_2 is on the packaging materials.<br><br>Thirty-six large 340mm x 320mm (13.4" x 12.6") pages of KID A and Amnesiac artwork on gloss laminated 600my GC1 board.<br><br>Each LP comes in a printed inner sleeve. Extra inner sleeves were included in the mailed package.<br><br>Kid A:<br>Mastered [...] at Abbey Road Studios.<br>The track 'Idioteque' contains two samples from the Odyssey label title 'First Recordings- Electronic Music Winners' (1976). The two compositions sampled are Paul Lansky's 'Mild Und Liese' published by Warner Chappell Music Publishing Ltd. and 'Short Piece' by Arthur Krieger published by the Subito Music Corporation. Both samples are used with the kind permission of the composers and the Sony Music Corporation.<br><br>Amnesiac:<br>These recordings were made on location at the same time as Kid A<br>Additional musicians on Pyramid Song & Dollars And Cents [...] recorded at Dorchester Abbey, Oxfordshire.<br><br>Kid Amnesiae:<br>On Pyramid Strings and How To Disappear Strings: Strings performed by the Orchestra of St. John's [...] recorded at Dorchester Abbey, Oxfordshire.<br>The fonts used are 'BD Plakatbau' by Buro Destruct and 'Deansgate' & 'Deansgate Light' by K-Type.<br><br>℗ 2021 The copyright in this sound recording is owned by XL Recordings Ltd.<br>© 2021 XL Recordings Ltd.<br>All tracks published by Warner Chappell Music Publishing Ltd. |
 | Discogs URL    | [Radiohead - Kid A Mnesia](https://www.discogs.com/release/21254395-Radiohead-Kid-A-Mnesia) |

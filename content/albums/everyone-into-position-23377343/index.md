@@ -4,6 +4,7 @@ artist_name: "Oceansize"
 artist: "oceansize"
 album_name: "Everyone Into Position"
 date: 2022-06-04T02:28:06.000000Z
+release_date: "2005-09-19"
 release_id: "23377343"
 slug: "everyone-into-position-23377343"
 hideSummary: true
@@ -31,39 +32,30 @@ styles: ["Alternative Rock", "Post Rock", "Shoegaze", "Progressive Metal", "Post
 
 Everyone into Position is the second studio album by British progressive/alternative rock band Oceansize, released on 19 September 2005 on Beggars Banquet. The album marked the final appearance of bassist Jon Ellis.
 According to vocalist/guitarist Mike Vennart: "at the beginning of 'Ornament/The Last Wrongs' there are all these weird ambient noises and what it was is that a friend of ours was in the Amazon jungle and recorded all these parrots. They sounded like kids laughing and shouting, not parrots."
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Charm Offensive
-2. Heaven Alive
-3. A Homage To A Shame
-4. Meredith
-5. Music For A Nurse
-6. New Pin
-7. No Tomorrow
-8. Mine Host
-9. You Can't Keep A Bad Man Down
-10. Ornament / The Last Wrongs
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Charm Offensive |  |
+| A2 | Heaven Alive |  |
+| A3 | A Homage To A Shame |  |
+| B1 | Meredith |  |
+| B2 | Music For A Nurse |  |
+| C1 | New Pin |  |
+| C2 | No Tomorrow |  |
+| C3 | Mine Host |  |
+| D1 | You Can't Keep A Bad Man Down |  |
+| D2 | Ornament / The Last Wrongs |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everyone-into-position/1136804665" >}}<br>
 
 
-## Videos
-### Oceansize - New Pin
-{{< youtube id="1sc9tN_DVX0" title="Oceansize - New Pin" >}}<br>
-### More Videos
-
-- [Meredith](https://www.youtube.com/watch?v=BMz1xSrQzsw)
-- [Oceansize - The Charm Offensive with lyrics](https://www.youtube.com/watch?v=ox9SfroL0uQ)
-- [OrnamentThe Last Wrongs](https://www.youtube.com/watch?v=-EyzI6xQ6rU)
-- [Oceansize - Heaven Alive](https://www.youtube.com/watch?v=ZDi4wUKB8rE)
-- [You Cant Keep a Bad Man Down](https://www.youtube.com/watch?v=Zk810vgMqq0)
-- [Music For A Nurse](https://www.youtube.com/watch?v=DucQeZaD3GI)
-- [A Homage to a Shame](https://www.youtube.com/watch?v=PBdnFoY6ujk)
-- [Oceansize - No Tomorrow with lyrics](https://www.youtube.com/watch?v=Lz2wE3zf2ew)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +67,5 @@ According to vocalist/guitarist Mike Vennart: "at the beginning of 'Ornament/The
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Splatter Yellow) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ 244 LP2 |
-| Notes | Hype sticker says Limited Edition Vinyl Pressing Splatter Yellow but it is acutally Translucent Yellow with Green, Red and White Splatter.   Tracks listed sequentially on jacket.  Some copies feature "Mine Host" as D1 rather than C2.  ℗ 2005 Beggars Banquet Records Ltd © 2005 Beggars Banquet Records Ltd |
+| Notes | Hype sticker says Limited Edition Vinyl Pressing Splatter Yellow but it is acutally Translucent Yellow with Green, Red and White Splatter. <br><br>Tracks listed sequentially on jacket.  Some copies feature "Mine Host" as D1 rather than C2.<br><br>℗ 2005 Beggars Banquet Records Ltd<br>© 2005 Beggars Banquet Records Ltd |
 | Discogs URL    | [Oceansize - Everyone Into Position](https://www.discogs.com/release/23377343-Oceansize-Everyone-Into-Position) |

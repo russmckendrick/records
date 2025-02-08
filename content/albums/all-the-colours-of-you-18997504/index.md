@@ -4,6 +4,7 @@ artist_name: "James"
 artist: "james"
 album_name: "All The Colours Of You"
 date: 2021-06-04T04:20:12.000000Z
+release_date: "2021-06-04"
 release_id: "18997504"
 slug: "all-the-colours-of-you-18997504"
 hideSummary: true
@@ -34,39 +35,31 @@ All the Colours of You is the 16th studio album of English rock band James that 
 Music critics gave All the Colours of You generally positive reviews; some of them complimented Lee's production and noted the album's anthemic nature. It peaked at number three in the United Kingdom, and charted in Germany, Ireland, Portugal, Scotland, and Switzerland. "All the Colours of You" was released as the album's lead single on 1 March 2021, and the tracks "Beautiful Beaches", "Recover", "Isabella" were released as follow-up singles over the next two months. James played several festivals in the UK in August and September 2021, and ended the year with a UK arena tour with Happy Mondays. A tour of Portugal in April 2022 was followed by more UK festival performances throughout June 2022.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. ZERO (5:42)
-2. All The Colours Of You (5:26)
-3. Recover (3:44)
-4. Beautiful Beaches (5:14)
-5. Wherever It Takes Us (5:05)
-6. Hush (4:23)
-7. Getting Myself Into (3:27)
-8. Magic Bus (3:01)
-9. Miss America (3:01)
-10. Isabella (4:23)
-11. XYST (4:23)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | ZERO | 5:42 |
+| A2 | All The Colours Of You | 5:26 |
+| A3 | Recover | 3:44 |
+| B1 | Beautiful Beaches | 5:14 |
+| B2 | Wherever It Takes Us | 5:05 |
+| B3 | Hush | 4:23 |
+| C1 | Getting Myself Into | 3:27 |
+| C2 | Magic Bus | 3:01 |
+| C3 | Miss America | 3:01 |
+| D1 | Isabella | 4:23 |
+| D2 | XYST | 4:23 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-the-colours-of-you/1553115786" >}}<br>
 
 
-## Videos
-### James  Beautiful Beaches Official Audio
-{{< youtube id="8HQBbi3eGV0" title="James  Beautiful Beaches Official Audio" >}}<br>
-### More Videos
-
-- [Wherever It Takes Us](https://www.youtube.com/watch?v=l31jX9KxHOQ)
-- [Hush](https://www.youtube.com/watch?v=yOddbb1Nlfc)
-- [James  Isabella Official Audio](https://www.youtube.com/watch?v=edikctKq3DA)
-- [Miss America](https://www.youtube.com/watch?v=zwvLr3iIrO4)
-- [Recover](https://www.youtube.com/watch?v=Ce_xXU-yabY)
-- [ZERO](https://www.youtube.com/watch?v=i9NrVoehWws)
-- [James - All The Colours Of You Official Lyric Video](https://www.youtube.com/watch?v=-fQk-hEMYMc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +71,5 @@ Music critics gave All the Colours of You generally positive reviews; some of th
 | Format         | Vinyl 2× LP Album Limited Edition (Red/Black Split) |
 | Label          | Virgin Music Label & Artist Services |
 | Catalog Number | NBLM001LPX |
-| Notes | ℗&© 2021 Nothing But Love Music. Made in Poland. 300 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. |
+| Notes | ℗&© 2021 Nothing But Love Music.<br>Made in Poland.<br>300 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. |
 | Discogs URL    | [James - All The Colours Of You](https://www.discogs.com/release/18997504-James-All-The-Colours-Of-You) |

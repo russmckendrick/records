@@ -4,6 +4,7 @@ artist_name: "Tacoma Narrows Bridge Disaster"
 artist: "tacoma-narrows-bridge-disaster"
 album_name: "The World Inside"
 date: 2021-10-18T05:16:39.000000Z
+release_date: "2021-08-19"
 release_id: "20584321"
 slug: "the-world-inside-20584321"
 hideSummary: true
@@ -24,20 +25,23 @@ styles: ["Post Rock"]
 
 The World Inside is a science fiction novel by American writer Robert Silverberg, published in 1971. The novel originally appeared as a series of shorter works in 1970 and 1971, all but one published in Galaxy, including the Hugo nominated novella "The World Outside". The World Inside was nominated for a Hugo Award in 1972, although Silverberg declined the nomination.
 On March 2, 2010, Orb Books published this title as a trade paperback edition.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Machinations (8:09)
-2. The World Inside (9:08)
-3. Presynaptic (4:15)
-4. Postsynaptic (10:41)
-5. Apocryphal (10:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Machinations | 8:09 |
+| A2 | The World Inside | 9:08 |
+| A3 | Presynaptic | 4:15 |
+| B1 | Postsynaptic | 10:41 |
+| B2 | Apocryphal | 10:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-world-inside/1578306223" >}}<br>
-
 
 
 

@@ -4,6 +4,7 @@ artist_name: "Nightmares On Wax"
 artist: "nightmares-on-wax"
 album_name: "Smokers Delight"
 date: 2020-04-09T16:45:27.000000Z
+release_date: "1995-09-25"
 release_id: "15030498"
 slug: "smokers-delight-15030498"
 hideSummary: true
@@ -28,53 +29,37 @@ styles: ["Trip Hop", "Dub", "Downtempo"]
 Smokers Delight is the second studio album by English DJ and record producer Nightmares on Wax. It was released in 1995 on Warp in the United Kingdom, and on Wax Trax in the United States. It peaked at number 84 on the UK Albums Chart.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Nights Introlude (4:40)
-2. Dreddoverboard (5:48)
-3. Pipes Honour (9:05)
-4. Me + You (0:56)
-5. Stars (6:59)
-6. Wait A Minute (2:44)
-7. Praying For A Jeepbeat (2:44)
-8. Groove St. (7:29)
-9. Time (To Listen) (0:25)
-10. (Man) Tha Journey (6:19)
-11. Bless My Soul (5:57)
-12. Cruise (Don't Stop) (7:05)
-13. Mission Venice (2:50)
-14. What I'm Feelin (Good) (2:26)
-15. Rise (5:14)
-16. Rise (Reprise) (1:46)
-17. Gambia Via Vagatorbeach (4:41)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Nights Introlude | 4:40 |
+| A2 | Dreddoverboard | 5:48 |
+| A3 | Pipes Honour | 9:05 |
+| B1 | Me + You | 0:56 |
+| B2 | Stars | 6:59 |
+| B3 | Wait A Minute | 2:44 |
+| B4 | Praying For A Jeepbeat | 2:44 |
+| B5 | Groove St. | 7:29 |
+| C1 | Time (To Listen) | 0:25 |
+| C2 | (Man) Tha Journey | 6:19 |
+| C3 | Bless My Soul | 5:57 |
+| C4 | Cruise (Don't Stop) | 7:05 |
+| D1 | Mission Venice | 2:50 |
+| D2 | What I'm Feelin (Good) | 2:26 |
+| D3 | Rise | 5:14 |
+| D4 | Rise (Reprise) | 1:46 |
+| D5 | Gambia Via Vagatorbeach | 4:41 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/smokers-delight/281088001" >}}<br>
 
 
-## Videos
-### Nightmares on wax - nights introlude
-{{< youtube id="C6ixa3G_tL4" title="Nightmares on wax - nights introlude" >}}<br>
-### More Videos
-
-- [Dreddoverboard](https://www.youtube.com/watch?v=lI0GaidrVCo)
-- [Nightmares on wax- pipes honour](https://www.youtube.com/watch?v=UiiGWxO-VkY)
-- [Me And You](https://www.youtube.com/watch?v=O2Xqf__1Kns)
-- [Stars](https://www.youtube.com/watch?v=71Lz0SL7T-8)
-- [Wait A Minute  Praying For A Jeepbeat](https://www.youtube.com/watch?v=fL9s3jgo7Pg)
-- [Nightmares on wax - groove st](https://www.youtube.com/watch?v=tBg48HzyrQQ)
-- [Time To Listen](https://www.youtube.com/watch?v=KsRQ2LcgEBA)
-- [Man Tha Journey](https://www.youtube.com/watch?v=LyVQ_aWB2Wc)
-- [Nightmares On Wax - Bless My Soul](https://www.youtube.com/watch?v=iu3wM8kTwCQ)
-- [Cruise Dont Stop](https://www.youtube.com/watch?v=18i-jiW_n40)
-- [Mission venice](https://www.youtube.com/watch?v=X_w8Qfc5X_k)
-- [What Im Feelin Good](https://www.youtube.com/watch?v=A8UBRWncBXo)
-- [Nightmares on Wax   Rise](https://www.youtube.com/watch?v=tyeiIfyw7kg)
-- [Rise Reprise](https://www.youtube.com/watch?v=uq9m7B8Eebs)
-- [Nightmares On Wax - Gambia Via Vagatorbeach](https://www.youtube.com/watch?v=vJsLPB52mgQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +71,5 @@ Smokers Delight is the second studio album by English DJ and record producer Nig
 | Format         | Vinyl LP (Translucent Green), Vinyl LP (Translucent Red), All Media Album Limited Edition Reissue (25th Anniversary Edition) |
 | Label          | Warp Records |
 | Catalog Number | WARPDD36RX |
-| Notes | 25th Anniversary Edition  Includes exclusive roach material insert, sleeve notes and download card for Smokers Delight: Sonic Buds New Tracks  Tracks A1 and A2 recorded at Fon Studios, Sheffield Tracks B1,B3,C1,C2,C3,C4 recorded at T.T.B. Studios, Wakefield Tracks A3,B2,B4,B5,D2,D3,D4,D5 recorded at Touchwood Studios, Leeds  Track A1 contains a sample from "Summer In The City" performed by [a17546]. Licensed from A+M Records Inc. Track B1 contains a sample from "Love Is Missing From Our Lives" performed by [a104991]. Licensed from MCA Special Markets Track C2 contains a sample from "Just My Soul Responding" performed by [a86094]. Licensed from Motown Records Co. by arrangement with Polygram Special Markets Track C3 contains a sample from "We Got The Funk" performed by [a29224]. Licensed from Sugar Hill Records Track D1 contains a sample from "Fireball" performed by [a48397]. Licensed from Tappan Zee Records Inc.  A1: Robbins Music Corp. A2, A3, B2, D3 to D5: Warp Music, EMI Music, copyright control B1, C2: Windswept Pacific Music, Warp Music, EMI Music B3: Warner Chappell Music B4, B5, C1: Warp Music, EMI Music C3: EMI Music Publishing C4: Gambi Music BMI/IQ Music Ltd., Warp Music, EMI Music D1: Helios Music (BMI) D2: Habana Music Publishing Ltd., Warp Music, EMI Music, copyright control  This album is dedicated to the memory of Kelso Thompson & Elton Lewis |
+| Notes | 25th Anniversary Edition<br><br>Includes exclusive roach material insert, sleeve notes and download card for Smokers Delight: Sonic Buds New Tracks<br><br>Tracks A1 and A2 recorded at Fon Studios, Sheffield<br>Tracks B1,B3,C1,C2,C3,C4 recorded at T.T.B. Studios, Wakefield<br>Tracks A3,B2,B4,B5,D2,D3,D4,D5 recorded at Touchwood Studios, Leeds<br><br>Track A1 contains a sample from "Summer In The City" performed by [a17546]. Licensed from A+M Records Inc.<br>Track B1 contains a sample from "Love Is Missing From Our Lives" performed by [a104991]. Licensed from MCA Special Markets<br>Track C2 contains a sample from "Just My Soul Responding" performed by [a86094]. Licensed from Motown Records Co. by arrangement with Polygram Special Markets<br>Track C3 contains a sample from "We Got The Funk" performed by [a29224]. Licensed from Sugar Hill Records<br>Track D1 contains a sample from "Fireball" performed by [a48397]. Licensed from Tappan Zee Records Inc.<br><br>A1: Robbins Music Corp.<br>A2, A3, B2, D3 to D5: Warp Music, EMI Music, copyright control<br>B1, C2: Windswept Pacific Music, Warp Music, EMI Music<br>B3: Warner Chappell Music<br>B4, B5, C1: Warp Music, EMI Music<br>C3: EMI Music Publishing<br>C4: Gambi Music BMI/IQ Music Ltd., Warp Music, EMI Music<br>D1: Helios Music (BMI)<br>D2: Habana Music Publishing Ltd., Warp Music, EMI Music, copyright control<br><br>This album is dedicated to the memory of Kelso Thompson & Elton Lewis |
 | Discogs URL    | [Nightmares On Wax - Smokers Delight](https://www.discogs.com/release/15030498-Nightmares-On-Wax-Smokers-Delight) |

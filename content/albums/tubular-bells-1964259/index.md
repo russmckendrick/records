@@ -4,6 +4,7 @@ artist_name: "Mike Oldfield"
 artist: "mike-oldfield"
 album_name: "Tubular Bells"
 date: 2015-09-21T17:34:23.000000Z
+release_date: "2007"
 release_id: "1964259"
 slug: "tubular-bells-1964259"
 hideSummary: true
@@ -25,26 +26,22 @@ Tubular Bells initially sold slowly, but gained worldwide attention in December 
 An orchestral version produced by David Bedford was released in 1975 as The Orchestral Tubular Bells. It was followed by the albums Tubular Bells II (1992), Tubular Bells III (1998), The Millennium Bell (1999), and a re-recorded version, Tubular Bells 2003, for its 30th anniversary. A remastered edition was released in 2009. In 2010, Tubular Bells was one of ten classic album covers from British artists commemorated on a series of UK postage stamps issued by the Royal Mail. Its contribution to British music was recognised when Oldfield played extracts during the 2012 Summer Olympics opening ceremony in London.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Tubular Bells (Part One) (25:00)
-2. Tubular Bells (Part Two) (23:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Tubular Bells (Part One) | 25:00 |
+| B | Tubular Bells (Part Two) | 23:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/oldfield-tubular-bells-pt-1/720161872" >}}<br>
 
 
-## Videos
-### Mike Oldfield - Tubular Bells Full Album
-{{< youtube id="bv_4sZCLlr0" title="Mike Oldfield - Tubular Bells Full Album" >}}<br>
-### More Videos
-
-- [Mike Oldfield - Tubular bells](https://www.youtube.com/watch?v=sSRJvq4Wd48)
-- [Mike Oldfield - 1st UK press - Tubular Bells side 1](https://www.youtube.com/watch?v=aZ7x13Sf-ho)
-- [Mike Oldfield - 1st UK press - Tubular Bells side 2](https://www.youtube.com/watch?v=p9rgHxuRx9U)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,5 +53,5 @@ An orchestral version produced by David Bedford was released in 1975 as The Orch
 | Format         | Vinyl LP Album Repress (Fawn & Mauve Labels) |
 | Label          | Virgin |
 | Catalog Number | V2001 |
-| Notes | 4th UK pressing, 1975 with fawn and mauve labels. Some copies came with a black polythene lined inner bag with the Virgin Records logo.  The 3 releases below all have the fawn and mauve labels, released in 1975. This release shows the earlier company address on the rear sleeve. [r22094719] shows the later company address and also has a lacquer cutting signature in the etched matrix runouts. [r29866060] also shows the later company address but has no lacquer cutting signature and is an all stamped matrix runout. |
+| Notes | 4th UK pressing, 1975 with fawn and mauve labels.<br>Some copies came with a black polythene lined inner bag with the Virgin Records logo.<br><br>The 3 releases below all have the fawn and mauve labels, released in 1975.<br>This release shows the earlier company address on the rear sleeve.<br>[r22094719] shows the later company address and also has a lacquer cutting signature in the etched matrix runouts.<br>[r29866060] also shows the later company address but has no lacquer cutting signature and is an all stamped matrix runout. |
 | Discogs URL    | [Mike Oldfield - Tubular Bells](https://www.discogs.com/release/1964259-Mike-Oldfield-Tubular-Bells) |

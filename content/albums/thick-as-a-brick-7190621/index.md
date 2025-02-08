@@ -46,19 +46,16 @@ The album was recorded in late 1971, featuring music composed by Anderson and ar
 
 
 ## Tracklisting
-1. Thick As A Brick
-2. Thick As A Brick
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Thick As A Brick |  |
+| B | Thick As A Brick |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/thick-as-a-brick-2/693545308" >}}<br>
 
 
-## Videos
-### Jethro Tull - 1st UK press - Thick as a brick - side 1
-{{< youtube id="ulQylM_bAzc" title="Jethro Tull - 1st UK press - Thick as a brick - side 1" >}}<br>
-### More Videos
-
-- [JethroTull - 1st UK press - Thick as a brick - side2](https://www.youtube.com/watch?v=zJ7BMFSKxxE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +67,5 @@ The album was recorded in late 1971, featuring music composed by Anderson and ar
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Chrysalis |
 | Catalog Number | 0825646139507 |
-| Notes | The 2012 Steven Wilson stereo remix. Issued in a single pocket sleeve with a large format 24-page booklet and an MP3 download voucher.  [Sticker:] The 2012 Steven Wilson stereo remix on 180gm vinyl & 24 page booklet 0825646139507 [Vinyl Collector logo] Includes download code for MP3 version of the album www.facebook.com/vinylcollector  [Rear sleeve:] ℗ 2012 Chrysalis Records Ltd © 2015 Chrysalis Records Ltd, a Warner Music Group Company. [...] © 2015 Chrysalis Records Ltd. Printed in the EU.  [Labels:] ℗ 2012 The 2012 Steven Wilson Stereo Remix ℗ 2012 Chrysalis Records Ltd., © 2015 Chrysalis Records Ltd., a Warner Music Group Company. [...] Made in the EU [...]  Runouts are etched. '1I=' is mirrored on side A variant 2 runout; '21' is mirrored on side B variant 2 runout. |
+| Notes | The 2012 Steven Wilson stereo remix. Issued in a single pocket sleeve with a large format 24-page booklet and an MP3 download voucher.<br><br>[Sticker:]<br>The 2012 Steven Wilson stereo remix on 180gm vinyl & 24 page booklet<br>0825646139507<br>[Vinyl Collector logo]<br>Includes download code for MP3 version of the album<br>www.facebook.com/vinylcollector<br><br>[Rear sleeve:]<br>℗ 2012 Chrysalis Records Ltd © 2015 Chrysalis Records Ltd, a Warner Music Group Company. [...] © 2015 Chrysalis Records Ltd. Printed in the EU.<br><br>[Labels:]<br>℗ 2012<br>The 2012 Steven Wilson Stereo Remix<br>℗ 2012 Chrysalis Records Ltd., © 2015 Chrysalis Records Ltd., a Warner Music Group Company. [...] Made in the EU [...]<br><br>Runouts are etched. '1I=' is mirrored on side A variant 2 runout; '21' is mirrored on side B variant 2 runout. |
 | Discogs URL    | [Jethro Tull - Thick As A Brick](https://www.discogs.com/release/7190621-Jethro-Tull-Thick-As-A-Brick) |

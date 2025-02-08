@@ -1,9 +1,10 @@
 ---
 title: "Dubstar - One"
 artist_name: "Dubstar"
-artist: "dubstar-2"
+artist: "dubstar"
 album_name: "One"
 date: 2018-10-13T07:28:15.000000Z
+release_date: "2020-09-25"
 release_id: "12652179"
 slug: "one-12652179"
 hideSummary: true
@@ -21,32 +22,29 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Love Comes Late (4:48)
-2. Love Gathers (4:28)
-3. Torched (5:09)
-4. Please Stop Leaving Me Alone (4:16)
-5. I Hold Your Heart (5:07)
-6. Waltz No. 9 (3:53)
-7. You Were Never In Love (4:36)
-8. Locked Inside (5:52)
-9. Why Don't You Kiss Me (3:12)
-10. Mantra (6:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Love Comes Late | 4:48 |
+| A2 | Love Gathers | 4:28 |
+| A3 | Torched | 5:09 |
+| A4 | Please Stop Leaving Me Alone | 4:16 |
+| A5 | I Hold Your Heart | 5:07 |
+| B1 | Waltz No. 9 | 3:53 |
+| B2 | You Were Never In Love | 4:36 |
+| B3 | Locked Inside | 5:52 |
+| B4 | Why Don't You Kiss Me | 3:12 |
+| B5 | Mantra | 6:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dubstar-preludes-vol-1-ep/1529008332" >}}<br>
 
 
-## Videos
-### Why Dont You Kiss Me
-{{< youtube id="vLk-EO4SjJs" title="Why Dont You Kiss Me" >}}<br>
-### More Videos
-
-- [Dubstar - Love Comes Late Official Music Video](https://www.youtube.com/watch?v=W3c4_v-wPw8)
-- [Dubstar - You Were Never In Love Official Video](https://www.youtube.com/watch?v=9ORxgXkNb7w)
-- [Dubstar - You Were Never In Love Official Video](https://www.youtube.com/watch?v=9ORxgXkNb7w)
-- [Why Dont You Kiss Me](https://www.youtube.com/watch?v=vLk-EO4SjJs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -57,5 +55,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl LP Album Limited Edition Numbered (Red) |
 | Label          | Northern Writes |
 | Catalog Number | none |
-| Notes | Limited to 500 copies.  Comes with Mp3 download code card. |
+| Notes | Limited to 500 copies. <br>Comes with Mp3 download code card. |
 | Discogs URL    | [Dubstar - One](https://www.discogs.com/release/12652179-Dubstar-2-One) |

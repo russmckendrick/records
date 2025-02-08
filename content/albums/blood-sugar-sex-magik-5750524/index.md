@@ -36,34 +36,31 @@ It’s that balance—between the crude and the contemplative, the direct and th
 
 
 ## Tracklisting
-1. The Power Of Equality (4:00)
-2. If You Have To Ask (4:11)
-3. Breaking The Girl (5:03)
-4. Funky Monks (5:22)
-5. Suck My Kiss (3:35)
-6. I Could Have Lied (4:10)
-7. Mellowship Slinky In B Major (4:00)
-8. The Righteous & The Wicked (4:05)
-9. Give It Away (4:45)
-10. Blood Sugar Sex Magik (4:31)
-11. Under The Bridge (4:34)
-12. Naked In The Rain (4:30)
-13. Apache Rose Peacock (4:43)
-14. The Greeting Song (3:14)
-15. My Lovely Man (4:45)
-16. Sir Psycho Sexy (8:24)
-17. They're Red Hot (1:44)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Power Of Equality | 4:00 |
+| A2 | If You Have To Ask | 4:11 |
+| A3 | Breaking The Girl | 5:03 |
+| A4 | Funky Monks | 5:22 |
+| A5 | Suck My Kiss | 3:35 |
+| B1 | I Could Have Lied | 4:10 |
+| B2 | Mellowship Slinky In B Major | 4:00 |
+| B3 | The Righteous & The Wicked | 4:05 |
+| B4 | Give It Away | 4:45 |
+| C1 | Blood Sugar Sex Magik | 4:31 |
+| C2 | Under The Bridge | 4:34 |
+| C3 | Naked In The Rain | 4:30 |
+| C4 | Apache Rose Peacock | 4:43 |
+| D1 | The Greeting Song | 3:14 |
+| D2 | My Lovely Man | 4:45 |
+| D3 | Sir Psycho Sexy | 8:24 |
+| D4 | They're Red Hot | 1:44 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blood-sugar-sex-magik/945581828" >}}<br>
 
 
-## Videos
-### Red Hot Chili Peppers - Blood Sugar Sex Magik Cassette 1991
-{{< youtube id="6lRldXL_74w" title="Red Hot Chili Peppers - Blood Sugar Sex Magik Cassette 1991" >}}<br>
-### More Videos
-
-- [Red Hot Chili Peppers - Blood Sugar Sex Magik Full Album](https://www.youtube.com/watch?v=kziGsq8reTc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +72,5 @@ It’s that balance—between the crude and the contemplative, the direct and th
 | Format         | Vinyl 2× LP Album Reissue Repress |
 | Label          | Warner Bros. Records |
 | Catalog Number | 7599-26681-1 |
-| Notes | Hype sticker on shrink wrap: "Contains Language That Some People May Find Offensive". Glossy single jacket with white paper inner sleeves. No printed inner sleeves, no lyrics sheet. 140g black vinyl.  ℗ © 1991 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside of the U.S. Made in Germany by ⓦ Warner Music Manufacturing Europe.  [Note: Not a exclusive 2011 25th Anniversary Release, see [r3325063], [r3244590]]  Suck My Kiss is spelled Suck Me Kiss on label.  For a similar later release (after May 2019) with the new "Warner Records" label logo, see [r14651298]. |
+| Notes | Hype sticker on shrink wrap: "Contains Language That Some People May Find Offensive".<br>Glossy single jacket with white paper inner sleeves.<br>No printed inner sleeves, no lyrics sheet.<br>140g black vinyl.<br><br>℗ © 1991 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside of the U.S.<br>Made in Germany by ⓦ Warner Music Manufacturing Europe.<br><br>[Note: Not a exclusive 2011 25th Anniversary Release, see [r3325063], [r3244590]]<br><br>Suck My Kiss is spelled Suck Me Kiss on label.<br><br>For a similar later release (after May 2019) with the new "Warner Records" label logo, see [r14651298]. |
 | Discogs URL    | [Red Hot Chili Peppers - Blood Sugar Sex Magik](https://www.discogs.com/release/5750524-Red-Hot-Chili-Peppers-Blood-Sugar-Sex-Magik) |

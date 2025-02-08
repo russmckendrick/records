@@ -4,6 +4,7 @@ artist_name: "Stars"
 artist: "stars"
 album_name: "No One Is Lost"
 date: 2017-06-27T18:05:54.000000Z
+release_date: "2014-10-13"
 release_id: "6214485"
 slug: "no-one-is-lost-6214485"
 hideSummary: true
@@ -28,35 +29,31 @@ styles: ["Indie Rock", "Indie Pop"]
 ---
 
 No One Is Lost is the seventh studio album by Canadian indie pop band Stars, released on October 14, 2014, by Soft Revolution / ATO Records.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. From The Night
-2. This Is The Last Time
-3. You Keep Coming Up
-4. Turn It Up
-5. No Better Place
-6. What Is To Be Done?
-7. Trap Door
-8. Are You Ok?
-9. The Stranger
-10. Look Away
-11. No One Is Lost
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | From The Night |  |
+| A2 | This Is The Last Time |  |
+| A3 | You Keep Coming Up |  |
+| B1 | Turn It Up |  |
+| B2 | No Better Place |  |
+| B3 | What Is To Be Done? |  |
+| C1 | Trap Door |  |
+| C2 | Are You Ok? |  |
+| C3 | The Stranger |  |
+| D1 | Look Away |  |
+| D2 | No One Is Lost |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-one-is-lost/908536655" >}}<br>
 
 
-## Videos
-### Stars - No One Is Lost Official Video
-{{< youtube id="PehLcp7sNi0" title="Stars - No One Is Lost Official Video" >}}<br>
-### More Videos
-
-- [Stars - From The Night Official Video](https://www.youtube.com/watch?v=Dr5VE3ogdl8)
-- [Stars - No One Is Lost Official Video](https://www.youtube.com/watch?v=PehLcp7sNi0)
-- [Stars - From The Night Official Video](https://www.youtube.com/watch?v=Dr5VE3ogdl8)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "The Lickerish Quartet"
 artist: "the-lickerish-quartet"
 album_name: "Threesome Vol. 3"
 date: 2022-07-02T07:38:55.000000Z
+release_date: "2022-05-20"
 release_id: "23730260"
 slug: "threesome-vol-3-23730260"
 hideSummary: true
@@ -20,20 +21,25 @@ styles: ["Power Pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Fortunately  (4:30)
-2. New Days (5:24)
-3. You All Alone (4:14)
-4. In The Meantime  (4:00)
-5. Fortunately (Instrumental Mix) (4:30)
-6. New Days (Instrumental Mix) (5:24)
-7. You All Alone (Instrumental Mix) (4:14)
-8. In The Meantime (Instrumental Mix) (4:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fortunately  | 4:30 |
+| A2 | New Days | 5:24 |
+| A3 | You All Alone | 4:14 |
+| A4 | In The Meantime  | 4:00 |
+| B1 | Fortunately (Instrumental Mix) | 4:30 |
+| B2 | New Days (Instrumental Mix) | 5:24 |
+| B3 | You All Alone (Instrumental Mix) | 4:14 |
+| B4 | In The Meantime (Instrumental Mix) | 4:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/threesome-vol-3-ep/1620935620" >}}<br>
-
 
 
 

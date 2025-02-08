@@ -35,25 +35,20 @@ The album garnered significant critical praise, often cited as a watershed entry
 
 
 ## Tracklisting
-1. Myrrhman
-2. Ascension Day
-3. After The Flood
-4. Taphead
-5. New Grass
-6. Runeii
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Myrrhman |  |
+| A2 | Ascension Day |  |
+| A3 | After The Flood |  |
+| B1 | Taphead |  |
+| B2 | New Grass |  |
+| B3 | Runeii |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/laughing-stock/1442531159" >}}<br>
 
 
-## Videos
-### After The Flood
-{{< youtube id="-YQBC5EkDJw" title="After The Flood" >}}<br>
-### More Videos
-
-- [Runeii](https://www.youtube.com/watch?v=KnollEPX7Ug)
-- [After The Flood](https://www.youtube.com/watch?v=-YQBC5EkDJw)
-- [Runeii](https://www.youtube.com/watch?v=KnollEPX7Ug)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +60,5 @@ The album garnered significant critical praise, often cited as a watershed entry
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | Polydor |
 | Catalog Number | 00600753655191 |
-| Notes | It comes with a cartonboard inner with printed lyrics. Earlier copies were released with a "black to white" voucher, advertised with a sticker on cover reading "Includes a voucher to download MP3 version of the album. 180 gram heavyweight vinyl".  Recorded at Wessex Studios London Sept 1990 - April 1991  ℗ 1991 Polydor Ltd (UK) © 2015 Polydor Ltd (UK) Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands. Made in the EU.  Sticker on shrink : "Made in Netherlands" |
+| Notes | It comes with a cartonboard inner with printed lyrics.<br>Earlier copies were released with a "black to white" voucher, advertised with a sticker on cover reading "Includes a voucher to download MP3 version of the album. 180 gram heavyweight vinyl".<br><br>Recorded at Wessex Studios London Sept 1990 - April 1991<br><br>℗ 1991 Polydor Ltd (UK)<br>© 2015 Polydor Ltd (UK)<br>Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands. Made in the EU.<br><br>Sticker on shrink : "Made in Netherlands" |
 | Discogs URL    | [Talk Talk - Laughing Stock](https://www.discogs.com/release/8574859-Talk-Talk-Laughing-Stock) |

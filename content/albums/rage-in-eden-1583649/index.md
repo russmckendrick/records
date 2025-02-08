@@ -4,6 +4,7 @@ artist_name: "Ultravox"
 artist: "ultravox"
 album_name: "Rage In Eden"
 date: 2015-09-16T18:56:48.000000Z
+release_date: "1981-09-11"
 release_id: "1583649"
 slug: "rage-in-eden-1583649"
 hideSummary: true
@@ -24,38 +25,29 @@ styles: ["New Wave", "Synth-pop"]
 Rage in Eden is the fifth studio album by British new wave band Ultravox, released on 11 September 1981 through Chrysalis Records. The album reached #4 in the UK album charts and was certified Gold by the BPI for sales in excess of 100,000 copies.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Voice (5:53)
-2. We Stand Alone (5:30)
-3. Rage In Eden (4:02)
-4. I Remember (Death In The Afternoon) (4:56)
-5. The Thin Wall (5:33)
-6. Stranger Within (7:18)
-7. Accent On Youth (4:40)
-8. The Ascent (2:00)
-9. Your Name (Has Slipped My Mind Again) (4:38)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Voice | 5:53 |
+| A2 | We Stand Alone | 5:30 |
+| A3 | Rage In Eden | 4:02 |
+| A4 | I Remember (Death In The Afternoon) | 4:56 |
+| B1 | The Thin Wall | 5:33 |
+| B2 | Stranger Within | 7:18 |
+| B3 | Accent On Youth | 4:40 |
+| B4 | The Ascent | 2:00 |
+| B5 | Your Name (Has Slipped My Mind Again) | 4:38 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rage-in-eden-deluxe-edition/1631045728" >}}<br>
 
 
-## Videos
-### Ultravox - Rage In Eden - 1981
-{{< youtube id="UaN5JqUSTQw" title="Ultravox - Rage In Eden - 1981" >}}<br>
-### More Videos
-
-- [ULTRAVOX - We Stand Alone 1981](https://www.youtube.com/watch?v=A0cCEGo5CqM)
-- [Ultravox - The Voice 1981 HD](https://www.youtube.com/watch?v=MXyxsp5zlCo)
-- [Ultravox - I Remember Death in the Afternoon](https://www.youtube.com/watch?v=wbZWIisWKBg)
-- [Ultravox - Rage In Eden - 1981](https://www.youtube.com/watch?v=UaN5JqUSTQw)
-- [ULTRAVOX - We Stand Alone 1981](https://www.youtube.com/watch?v=A0cCEGo5CqM)
-- [Ultravox - The Voice 1981 HD](https://www.youtube.com/watch?v=MXyxsp5zlCo)
-- [Ultravox - I Remember Death in the Afternoon](https://www.youtube.com/watch?v=wbZWIisWKBg)
-- [ULTRAVOX  Rage In Eden  1981  Vinyl  Full album](https://www.youtube.com/watch?v=GnrDUCRB80A)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +59,5 @@ Rage in Eden is the fifth studio album by British new wave band Ultravox, releas
 | Format         | Vinyl LP Album Stereo |
 | Label          | Chrysalis |
 | Catalog Number | CDL 1338 |
-| Notes | This version of the album and comes with a free fold-out poster. This release has maroon labels with white typography instead of the gold typography like this version, [r=27835]. The outer sleeve has a matte finish.  "℗ © 1981 CHRYSALIS RECORDS LTD"  Durations not listed on this release. Timings via stopwatch. |
+| Notes | This version of the album and comes with a free fold-out poster. This release has maroon labels with white typography instead of the gold typography like this version, [r=27835]. The outer sleeve has a matte finish.<br><br>"℗ © 1981 CHRYSALIS RECORDS LTD"<br><br>Durations not listed on this release. Timings via stopwatch. |
 | Discogs URL    | [Ultravox - Rage In Eden](https://www.discogs.com/release/1583649-Ultravox-Rage-In-Eden) |

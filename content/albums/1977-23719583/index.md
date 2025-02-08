@@ -4,6 +4,7 @@ artist_name: "Ash"
 artist: "ash"
 album_name: "1977"
 date: 2022-07-02T07:39:13.000000Z
+release_date: "1996-05-06"
 release_id: "23719583"
 slug: "1977-23719583"
 hideSummary: true
@@ -31,37 +32,32 @@ Preceded by the album's fourth single "Goldfinger" in April 1996, the band embar
 1977 received generally positive reviews from music critics, who praised the album's "catchy" nature. The album peaked at number one in the UK, as well as reaching the top 40 in Australia, Finland, New Zealand, Norway, and Switzerland. "Kung Fu", "Girl from Mars", "Angel Interceptor", "Goldfinger", and "Oh Yeah" all charted on the UK Singles Chart, with "Goldfinger" reaching the highest position at number five. 1977 appeared on several UK publications' best-of-the-year album lists, by the likes of Kerrang!, NME, and Melody Maker, among others. The album would later be certified platinum in the UK.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Lose Control
-2. Goldfinger
-3. Girl From Mars
-4. I'd Give You Anything
-5. Gone The Dream
-6. Kung Fu
-7. Oh Yeah
-8. Let It Flow
-9. Innocent Smile
-10. Angel Interceptor
-11. Lost In You
-12. Darkside Lightside
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Lose Control |  |
+| A2 | Goldfinger |  |
+| A3 | Girl From Mars |  |
+| A4 | I'd Give You Anything |  |
+| A5 | Gone The Dream |  |
+| A6 | Kung Fu |  |
+| B7 | Oh Yeah |  |
+| B8 | Let It Flow |  |
+| B9 | Innocent Smile |  |
+| B10 | Angel Interceptor |  |
+| B11 | Lost In You |  |
+| B12 | Darkside Lightside |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/1977/1437459330" >}}<br>
 
 
-## Videos
-### Ash - Kung Fu Official HD Video
-{{< youtube id="dWqY8qrBBSI" title="Ash - Kung Fu Official HD Video" >}}<br>
-### More Videos
-
-- [Ash - Girl From Mars UK version Official HD Video](https://www.youtube.com/watch?v=FkSl9GGOFHM)
-- [Ash - Angel Interceptor Official Video](https://www.youtube.com/watch?v=QawmH3hOkl8)
-- [Ash - Goldfinger Official HD Video](https://www.youtube.com/watch?v=35hDrzcHnIA)
-- [Ash - Oh Yeah Official HD Video](https://www.youtube.com/watch?v=-aPIXeAmpO8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +69,5 @@ Preceded by the album's fourth single "Goldfinger" in April 1996, the band embar
 | Format         | Vinyl LP Album Reissue Remastered (White With Black Splatter) |
 | Label          | BMG |
 | Catalog Number | BMGCAT711CLP |
-| Notes | Gatefold sleeve Sticker reports "Black & White splatter vinyl - Each copy unique and individual"  Track numbering listed sequentially on both sleeve and side labels.   4050538785463 catalog number printed on side labels  Manufactured in Czech Republic. |
+| Notes | Gatefold sleeve<br>Sticker reports "Black & White splatter vinyl - Each copy unique and individual"<br><br>Track numbering listed sequentially on both sleeve and side labels. <br><br>4050538785463 catalog number printed on side labels<br><br>Manufactured in Czech Republic. |
 | Discogs URL    | [Ash - 1977](https://www.discogs.com/release/23719583-Ash-1977) |

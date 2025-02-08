@@ -4,6 +4,7 @@ artist_name: "The Soulsavers"
 artist: "the-soulsavers"
 album_name: "The Light The Dead See"
 date: 2015-08-09T08:44:03.000000Z
+release_date: "2012-05-21"
 release_id: "3700217"
 slug: "the-light-the-dead-see-3700217"
 hideSummary: true
@@ -32,56 +33,44 @@ styles: ["Alternative Rock", "Gospel"]
 The Light the Dead See is the fourth full-length studio album from English electronica production duo Soulsavers, released by V2 Records in the UK on 21 May 2012, and by Mute in the US on 22 May 2012. The album title comes from a poem by Frank Stanford. The album is a collaboration with Dave Gahan, the frontman of Depeche Mode, as guest vocalist. Gahan sings and wrote the lyrics on all non-instrumental songs on the album.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. La Ribera
-2. In The Morning
-3. Longest Day
-4. Presence Of God
-5. Just Try
-6. Gone Too Far
-7. Point Sur Pt. 1
-8. Take Me Back Home
-9. Bitterman
-10. I Can't Stay
-11. Take
-12. Tonight
-13. La Ribera (1:51)
-14. In The Morning (3:33)
-15. Longest Day (4:14)
-16. Presence Of God (3:45)
-17. Just Try (4:03)
-18. Gone Too Far (3:12)
-19. Point Sur Pt. 1 (1:41)
-20. Take Me Back Home (4:06)
-21. Bitterman (4:51)
-22. I Can't Stay (5:02)
-23. Take (3:45)
-24. Tonight (3:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | La Ribera |  |
+| A2 | In The Morning |  |
+| A3 | Longest Day |  |
+| A4 | Presence Of God |  |
+| A5 | Just Try |  |
+| A6 | Gone Too Far |  |
+| B1 | Point Sur Pt. 1 |  |
+| B2 | Take Me Back Home |  |
+| B3 | Bitterman |  |
+| B4 | I Can't Stay |  |
+| B5 | Take |  |
+| B6 | Tonight |  |
+| CD-1 | La Ribera | 1:51 |
+| CD-2 | In The Morning | 3:33 |
+| CD-3 | Longest Day | 4:14 |
+| CD-4 | Presence Of God | 3:45 |
+| CD-5 | Just Try | 4:03 |
+| CD-6 | Gone Too Far | 3:12 |
+| CD-7 | Point Sur Pt. 1 | 1:41 |
+| CD-8 | Take Me Back Home | 4:06 |
+| CD-9 | Bitterman | 4:51 |
+| CD-10 | I Can't Stay | 5:02 |
+| CD-11 | Take | 3:45 |
+| CD-12 | Tonight | 3:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-light-the-dead-see/671788459" >}}<br>
 
 
-## Videos
-### Soulsavers - Take Me Back Home
-{{< youtube id="v85gICtpVjw" title="Soulsavers - Take Me Back Home" >}}<br>
-### More Videos
-
-- [Soulsavers - Take](https://www.youtube.com/watch?v=8rGtjubbsqs)
-- [Soulsavers - Gone too far](https://www.youtube.com/watch?v=0Tk0EzjoGVU)
-- [Soulsavers -  Presence of God](https://www.youtube.com/watch?v=_YsTGnH8G6k)
-- [Soulsavers -  The Longest Day](https://www.youtube.com/watch?v=kO9js-Pym2Q)
-- [Soulsavers - In the Morning](https://www.youtube.com/watch?v=cUmVS6DkQbI)
-- [Soulsavers - Take Me Back Home](https://www.youtube.com/watch?v=v85gICtpVjw)
-- [Soulsavers - Take](https://www.youtube.com/watch?v=8rGtjubbsqs)
-- [Soulsavers - Gone too far](https://www.youtube.com/watch?v=0Tk0EzjoGVU)
-- [Soulsavers -  Presence of God](https://www.youtube.com/watch?v=_YsTGnH8G6k)
-- [Soulsavers -  The Longest Day](https://www.youtube.com/watch?v=kO9js-Pym2Q)
-- [Soulsavers - In the Morning](https://www.youtube.com/watch?v=cUmVS6DkQbI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -93,5 +82,5 @@ The Light the Dead See is the fourth full-length studio album from English elect
 | Format         | Vinyl LP Album, CD Album |
 | Label          | V2 |
 | Catalog Number | VVR797363 |
-| Notes | Recorded 2010/11/12 in Los Angeles, New York, London, Berlin, Sydney & Stoke-on-Trent.    Recorded at  Sunset Sound / Selma Sound / 11AD - Los Angeles, The Mouse House / Casa G / Mute hq / Strongrooms - UK  Schlaf Klänge Studios - Berlin, Studios 301 - Sydney  Dave Gahan vocals recorded at Madpan studios N.Y.C. & Blanco Studio N.Y.C.    Published by EMI Music Publishing Ltd Licensed by JJSR Productions Inc / Mute Songs    ℗&© 2012 V2 Records.    Duration times are not printed on cover or labels.    Initial pre-orders from recordstore.co.uk included an 'exclusive album artwork print'    CD packaged in clear generic PVC sleeve.    The album title printed on labels has a typo – "Sea" instead of "See".   |
+| Notes | Recorded 2010/11/12 in Los Angeles, New York, London, Berlin, Sydney & Stoke-on-Trent.<br><br>Recorded at<br>Sunset Sound / Selma Sound / 11AD - Los Angeles, The Mouse House / Casa G / Mute hq / Strongrooms - UK<br>Schlaf Klänge Studios - Berlin, Studios 301 - Sydney<br>Dave Gahan vocals recorded at Madpan studios N.Y.C. & Blanco Studio N.Y.C.<br><br>Published by EMI Music Publishing Ltd Licensed by JJSR Productions Inc / Mute Songs<br><br>℗&© 2012 V2 Records.<br><br>Duration times are not printed on cover or labels.<br><br>Initial pre-orders from recordstore.co.uk included an 'exclusive album artwork print'<br><br>CD packaged in clear generic PVC sleeve.<br><br>The album title printed on labels has a typo – "Sea" instead of "See".<br> |
 | Discogs URL    | [The Soulsavers - The Light The Dead See](https://www.discogs.com/release/3700217-Soulsavers-The-Light-The-Dead-See) |

@@ -4,6 +4,7 @@ artist_name: "Inspiral Carpets"
 artist: "inspiral-carpets"
 album_name: "The Beast Inside"
 date: 2021-11-22T01:21:57.000000Z
+release_date: "1991-04-22"
 release_id: "21038797"
 slug: "the-beast-inside-21038797"
 hideSummary: true
@@ -26,41 +27,31 @@ styles: ["Indie Pop"]
 
 The Beast Inside is the second studio album from British indie rock band Inspiral Carpets. It was released on 22 April 1991 on Mute Records.
 The album made the Top 10 in the United Kingdom.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Caravan
-2. Please Be Cruel
-3. Born Yesterday
-4. Sleep Well Tonight
-5. Grip
-6. Beast Inside
-7. Skidoo
-8. Niagara
-9. Mermaid
-10. Further Away
-11. Dreams Are All We Have
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Caravan |  |
+| A2 | Please Be Cruel |  |
+| A3 | Born Yesterday |  |
+| B4 | Sleep Well Tonight |  |
+| B5 | Grip |  |
+| B6 | Beast Inside |  |
+| C7 | Skidoo |  |
+| C8 | Niagara |  |
+| C9 | Mermaid |  |
+| D10 | Further Away |  |
+| D11 | Dreams Are All We Have |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-beast-inside/1435624385" >}}<br>
 
 
-## Videos
-### Inspiral Carpets - Caravan
-{{< youtube id="lxGkMeS-5eI" title="Inspiral Carpets - Caravan" >}}<br>
-### More Videos
-
-- [Inspiral Carpets - Please Be Cruel](https://www.youtube.com/watch?v=Qsmvsede5jU)
-- [Born Yesterday](https://www.youtube.com/watch?v=jTlGa__tw-c)
-- [Sleep Well Tonight](https://www.youtube.com/watch?v=mXqeV4lW2O0)
-- [Grip](https://www.youtube.com/watch?v=aycEFuxsej4)
-- [Beast Inside](https://www.youtube.com/watch?v=Lp5bfZ17cR8)
-- [Niagara](https://www.youtube.com/watch?v=on17iGSV7GI)
-- [Mermaid](https://www.youtube.com/watch?v=8Kb4XFg_xCE)
-- [Further Away](https://www.youtube.com/watch?v=XdODbhPsHLQ)
-- [Dreams Are All We Have](https://www.youtube.com/watch?v=ZuEIxhrGYUY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +63,5 @@ The album made the Top 10 in the United Kingdom.
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Purple Transparent) |
 | Label          | Mute |
 | Catalog Number | Ldung14 |
-| Notes | Includes exclusive bonus track "Skidoo" (original b-side of [m=46375]).  Single jacket sleeve with two printed innersleeves. Tracks listed sequentially on side labels.  "for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]..." |
+| Notes | Includes exclusive bonus track "Skidoo" (original b-side of [m=46375]).<br><br>Single jacket sleeve with two printed innersleeves.<br>Tracks listed sequentially on side labels.<br><br>"for [url=https://www.discogs.com/artist/397375-Craig-Gill]craig[/url]..." |
 | Discogs URL    | [Inspiral Carpets - The Beast Inside](https://www.discogs.com/release/21038797-Inspiral-Carpets-The-Beast-Inside) |

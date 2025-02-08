@@ -4,6 +4,7 @@ artist_name: "Genesis"
 artist: "genesis"
 album_name: "...And Then There Were Three..."
 date: 2024-11-22T03:22:01.000000Z
+release_date: "1978-03-31"
 release_id: "31143704"
 slug: "and-then-there-were-three-31143704"
 hideSummary: true
@@ -22,43 +23,31 @@ styles: ["Pop Rock", "Prog Rock"]
 The album received mixed reviews from critics, but reached No. 3 on the UK Albums Chart and No. 14 on the US Billboard 200. The lead single "Follow You Follow Me" became their highest charting at that point, reaching No. 7 in the UK and No. 23 in the US. The album was certified platinum by the Recording Industry Association of America (RIAA) in 1988 for selling one million copies in the US. To further promote it, Genesis toured worldwide with live guitarist Daryl Stuermer and drummer Chester Thompson, both of whom would become mainstays of the band's touring lineup for the next three decades. The album was remixed in 2007 as part of the Genesis 1976–1982 box set in 5.1 surround sound and a new stereo mix by Nick Davis.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Down And Out
-2. Undertow
-3. Ballad Of Big
-4. Snowbound
-5. Burning Rope
-6. Deep In The Motherlode
-7. Many Too Many
-8. Scenes From A Night's Dream
-9. Say It's Alright Joe
-10. The Lady Lies
-11. Follow You Follow Me
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Down And Out |  |
+| A2 | Undertow |  |
+| A3 | Ballad Of Big |  |
+| A4 | Snowbound |  |
+| A5 | Burning Rope |  |
+| B1 | Deep In The Motherlode |  |
+| B2 | Many Too Many |  |
+| B3 | Scenes From A Night's Dream |  |
+| B4 | Say It's Alright Joe |  |
+| B5 | The Lady Lies |  |
+| B6 | Follow You Follow Me |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/and-then-there-were-three-remastered/1472172127" >}}<br>
 
 
-## Videos
-### Genesis - Down and Out Official Audio
-{{< youtube id="EjLEOBHANkM" title="Genesis - Down and Out Official Audio" >}}<br>
-### More Videos
-
-- [Genesis - And Then There Were Three Full Album 1978 HQ](https://www.youtube.com/watch?v=cfrrjKRFc-E)
-- [Genesis - Undertow Official Audio](https://www.youtube.com/watch?v=ztzEdOZWw-k)
-- [Genesis - Ballad of Big Official Audio](https://www.youtube.com/watch?v=3ZZOz2zNBoM)
-- [Genesis - Snowbound Official Audio](https://www.youtube.com/watch?v=OekE08o27wo)
-- [Genesis - Burning Rope Official Audio](https://www.youtube.com/watch?v=YhObRW6DS4c)
-- [Genesis - Deep in the Motherlode Official Audio](https://www.youtube.com/watch?v=B0awdorlQTk)
-- [Genesis - Many Too Many Official Audio](https://www.youtube.com/watch?v=-14dNUqY4Kk)
-- [Genesis - Scenes from a Nights Dream Official Audio](https://www.youtube.com/watch?v=amJRHii1lrs)
-- [Genesis - Say Its Alright Joe Official Audio](https://www.youtube.com/watch?v=5QI80f2ohJ4)
-- [Genesis - The Lady Lies Official Audio](https://www.youtube.com/watch?v=xe0IurIrqrU)
-- [Genesis - Follow You Follow Me Official Audio](https://www.youtube.com/watch?v=vt2HSAfa2rQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +59,5 @@ The album received mixed reviews from critics, but reached No. 3 on the UK Alb
 | Format         | Vinyl LP Album Limited Edition Reissue (Sea-Blue) |
 | Label          | Rhino Records (2) |
 | Catalog Number | RCV1 188284 |
-| Notes | Rhino Sounds Of The Summer The 1978 Album Featuring: Follow You Follow Me Many Too Many Deep In The Motherlode On Sea-Blue Vinyl |
+| Notes | Rhino<br>Sounds Of The Summer<br>The 1978 Album<br>Featuring:<br>Follow You Follow Me<br>Many Too Many<br>Deep In The Motherlode<br>On Sea-Blue Vinyl |
 | Discogs URL    | [Genesis - ...And Then There Were Three...](https://www.discogs.com/release/31143704-Genesis-And-Then-There-Were-Three) |

@@ -4,6 +4,7 @@ artist_name: "Genesis"
 artist: "genesis"
 album_name: "BBC Broadcasts"
 date: 2023-03-04T10:11:00.000000Z
+release_date: ""
 release_id: "26289155"
 slug: "bbc-broadcasts-26289155"
 hideSummary: true
@@ -41,44 +42,49 @@ styles: ["Prog Rock", "Pop Rock"]
 ---
 
 BBC Broadcasts is a box set by the English rock band Genesis. It was released on 3 March 2023 by EMI Records.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Paris (1972)
-2. The Musical Box
-3. Sound Of The 70's (1971)
-4. Stagnation
-5. Sound Of The 70's (1972)
-6. Harlequin
-7. Harold The Barrel
-8. Top Gear (1972)
-9. Get' Em Out By Friday
-10. Wembley Arena (1975)
-11. Watcher Of The Skies
-12. Lyceum (1980)
-13. Dancing With The Moonlit Knight
-14. The Carpet Crawlers
-15. Behind The Lines
-16. Duchess
-17. Guide Vocal
-18. Duke‘s Travels
-19. Duke's End
-20. Say It's Alright Joe
-21. The Lady Lies
-22. I Know What I Like (In Your Wardrobe)
-23. Wembley (1987)
-24. Mama
-25. That's All
-26. Home By The Sea
-27. Second Home By The Sea
-28. Throwing It All Away
-29. Knebworth (1992)
-30. No Son Of Mine
-31. Driving The Last Spike
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Paris (1972) |  |
+| A1 | The Musical Box |  |
+|  | Sound Of The 70's (1971) |  |
+| A2 | Stagnation |  |
+|  | Sound Of The 70's (1972) |  |
+| A3 | Harlequin |  |
+| A4 | Harold The Barrel |  |
+|  | Top Gear (1972) |  |
+| B1 | Get' Em Out By Friday |  |
+|  | Wembley Arena (1975) |  |
+| B2 | Watcher Of The Skies |  |
+|  | Lyceum (1980) |  |
+| B3 | Dancing With The Moonlit Knight |  |
+| B4 | The Carpet Crawlers |  |
+| C1 | Behind The Lines |  |
+| C2 | Duchess |  |
+| C3 | Guide Vocal |  |
+| C4 | Duke‘s Travels |  |
+| C5 | Duke's End |  |
+| D1 | Say It's Alright Joe |  |
+| D2 | The Lady Lies |  |
+| D3 | I Know What I Like (In Your Wardrobe) |  |
+|  | Wembley (1987) |  |
+| E1 | Mama |  |
+| E2 | That's All |  |
+| E3 | Home By The Sea |  |
+| E4 | Second Home By The Sea |  |
+| F1 | Throwing It All Away |  |
+|  | Knebworth (1992) |  |
+| F2 | No Son Of Mine |  |
+| F3 | Driving The Last Spike |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -92,5 +98,5 @@ BBC Broadcasts is a box set by the English rock band Genesis. It was released on
 | Format         | Vinyl 3× LP Compilation Stereo |
 | Label          | EMI |
 | Catalog Number | 00602435686370 |
-| Notes | Some Versions comes with an exclusive Print Art (Cat No: 7808336336O Barcode 0602455170286)  Trifold sleeve. On labels: Made in the EU. Sticker on back shrink: "Made in Czech Republic"  Runouts are engraved except "MILES.ABBEYROAD.ROOM30" which is etched.  Photography By Knebworth, BBC & Getty Images.  Hype sticker on front shrink saying: "23 TRACK 3LP SET FEATURING THE GROUP`S WORK RECORDED BY THE BBC BETWEEN 1970 & 1998 NEW NOTES WRITTEN BY MICHAEL HANN CONTAINS FAVOURITES SUCH AS ´THE CARPET CRAWLERS, ´NO SON OF MINE´& ´TURN IT ON AGAIN´ MANY PREVIOUSLY TRACKS SELECTIONS FROM JOHN PEEL´S SHOW, BOTH OF THE GROUP´S KNEBWORTH PERFORMANCES (78 AND 92) AS WELL AS THEIR MUCH-LOVED 1980 SHOW AT LONDON´S LYCEUM, &THEIR TRIUMPHANT SELL-OUT RUN OF SHOWS AT WEMBLEY IN 1987. 006024355686370"   |
+| Notes | Some Versions comes with an exclusive Print Art (Cat No: 7808336336O Barcode 0602455170286)<br><br>Trifold sleeve.<br>On labels: Made in the EU.<br>Sticker on back shrink: "Made in Czech Republic"<br><br>Runouts are engraved except "MILES.ABBEYROAD.ROOM30" which is etched.<br><br>Photography By Knebworth, BBC & Getty Images.<br><br>Hype sticker on front shrink saying:<br>"23 TRACK 3LP SET<br>FEATURING THE GROUP`S WORK RECORDED BY THE BBC BETWEEN 1970 & 1998<br>NEW NOTES WRITTEN BY MICHAEL HANN<br>CONTAINS FAVOURITES SUCH AS<br>´THE CARPET CRAWLERS, ´NO SON OF MINE´& ´TURN IT ON AGAIN´<br>MANY PREVIOUSLY TRACKS<br>SELECTIONS FROM JOHN PEEL´S SHOW, BOTH OF THE GROUP´S<br>KNEBWORTH PERFORMANCES (78 AND 92)<br>AS WELL AS THEIR MUCH-LOVED 1980 SHOW AT LONDON´S LYCEUM,<br>&THEIR TRIUMPHANT SELL-OUT RUN OF SHOWS AT WEMBLEY IN 1987.<br>006024355686370"<br><br> |
 | Discogs URL    | [Genesis - BBC Broadcasts](https://www.discogs.com/release/26289155-Genesis-BBC-Broadcasts) |

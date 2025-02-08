@@ -1,6 +1,6 @@
 ---
-title: "Belle & Sebastian - A Bit Of Previous"
-artist_name: "Belle & Sebastian"
+title: "Belle  Sebastian - A Bit Of Previous"
+artist_name: "Belle  Sebastian"
 artist: "belle-sebastian"
 album_name: "A Bit Of Previous"
 date: 2022-05-08T06:21:58.000000Z
@@ -10,8 +10,8 @@ slug: "a-bit-of-previous-23097233"
 hideSummary: true
 cover:
     image: "a-bit-of-previous-23097233.jpg"
-    alt: "A Bit Of Previous by Belle & Sebastian"
-    caption: "A Bit Of Previous by Belle & Sebastian"
+    alt: "A Bit Of Previous by Belle  Sebastian"
+    caption: "A Bit Of Previous by Belle  Sebastian"
 additional_images:
     - "https://i.discogs.com/JAvyXGyFxMuWelUUoLBdMgL45rXw4Q1e0kYHUDeY29E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODY1/MjctNTE3Ny5qcGVn.jpeg"
     - "https://i.discogs.com/UkbU7UR2ZI3bZzaEFPs5Exqs7Sh4viujUFh1IvVWRr8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDk3/MjMzLTE2NTE1ODcy/NzUtODYyNi5qcGVn.jpeg"
@@ -81,45 +81,30 @@ Murdoch: “‘Working Boy in New York City’ is more about a San Francisco thi
 
 
 ## Tracklisting
-1. A Bit Of Previous LP
-2. Young And Stupid
-3. If They're Shooting At You
-4. Talk To Me Talk To Me
-5. Reclaim The Night
-6. Do It For Your Country
-7. Prophets On Hold
-8. Unnecessary Drama
-9. Come On Home
-10. A World Without You
-11. Deathbed Of My Dreams
-12. Sea Of Sorrow
-13. Working Boy In New York City
-14. A Bit Of Previous 7"
-15. A Bit Of Previous
-16. Sometimes
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | A Bit Of Previous LP |  |
+| A1 | Young And Stupid |  |
+| A2 | If They're Shooting At You |  |
+| A3 | Talk To Me Talk To Me |  |
+| A4 | Reclaim The Night |  |
+| A5 | Do It For Your Country |  |
+| A6 | Prophets On Hold |  |
+| B1 | Unnecessary Drama |  |
+| B2 | Come On Home |  |
+| B3 | A World Without You |  |
+| B4 | Deathbed Of My Dreams |  |
+| B5 | Sea Of Sorrow |  |
+| B6 | Working Boy In New York City |  |
+|  | A Bit Of Previous 7" |  |
+| C | A Bit Of Previous |  |
+| D | Sometimes |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-bit-of-previous/1601369496" >}}<br>
 
 
-## Videos
-### Belle and Sebastian - Young and Stupid Official Lyric Video
-{{< youtube id="O9P7EBj8LgU" title="Belle and Sebastian - Young and Stupid Official Lyric Video" >}}<br>
-### More Videos
-
-- [If Theyre Shooting At You](https://www.youtube.com/watch?v=r94kiQ4vdLc)
-- [Talk to Me Talk to Me](https://www.youtube.com/watch?v=hLeETgzOz18)
-- [Reclaim the Night](https://www.youtube.com/watch?v=sbWW4cRfIAs)
-- [Do It for Your Country](https://www.youtube.com/watch?v=kuzNkBOa17A)
-- [Prophets On Hold](https://www.youtube.com/watch?v=8JkmXvWx6r4)
-- [Belle and Sebastian- Unnecessary Drama Official Music Video](https://www.youtube.com/watch?v=h2-RZSVHNVQ)
-- [Come On Home](https://www.youtube.com/watch?v=uQypW7gaNHA)
-- [A World Without You](https://www.youtube.com/watch?v=N_c6lEYyZ6I)
-- [Deathbed of My Dreams](https://www.youtube.com/watch?v=TCnsMyJj_tY)
-- [Sea of Sorrow](https://www.youtube.com/watch?v=J54Q0ZgDbGI)
-- [Working Boy in New York City](https://www.youtube.com/watch?v=pOOawVJjsEI)
-- [Belle And Sebastian - A Bit Of Previous 7 inch](https://www.youtube.com/watch?v=yo-ZS8al_hQ)
-- [Belle And Sebastian - Sometimes](https://www.youtube.com/watch?v=xAB7GFHN_QA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -131,5 +116,5 @@ Murdoch: “‘Working Boy in New York City’ is more about a San Francisco thi
 | Format         | Vinyl LP Album Stereo (Gatefold), Vinyl 7" 45 RPM Stereo |
 | Label          | Matador |
 | Catalog Number | OLE1845LPE |
-| Notes | Indies Exclusive version Includes full color glossy inner sleeve and a full color matte 12X12 lyric/notes booklet.  200 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. |
-| Discogs URL    | [Belle & Sebastian - A Bit Of Previous](https://www.discogs.com/release/23097233-Belle-And-Sebastian-A-Bit-Of-Previous) |
+| Notes | Indies Exclusive version<br>Includes full color glossy inner sleeve and a full color matte 12X12 lyric/notes booklet.<br><br>200 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. |
+| Discogs URL    | [Belle  Sebastian - A Bit Of Previous](https://www.discogs.com/release/23097233-Belle-And-Sebastian-A-Bit-Of-Previous) |

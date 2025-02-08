@@ -1,16 +1,17 @@
 ---
-title: "Level 42 - Running In The Family"
-artist_name: "Level 42"
-artist: "level-42"
+title: "Level - Running In The Family"
+artist_name: "Level"
+artist: "level"
 album_name: "Running In The Family"
 date: 2016-01-07T16:18:51.000000Z
+release_date: "1987"
 release_id: "310232"
 slug: "running-in-the-family-310232"
 hideSummary: true
 cover:
     image: "running-in-the-family-310232.jpg"
-    alt: "Running In The Family by Level 42"
-    caption: "Running In The Family by Level 42"
+    alt: "Running In The Family by Level"
+    caption: "Running In The Family by Level"
 additional_images:
     - "https://i.discogs.com/FH68wlK7DuZzGiXybSsnto3paWYSz2RzlJPqraEIZQU/rs:fit/g:sm/q:90/h:497/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDIz/Mi0xMzUxMTc2NjUw/LTgwMzcuanBlZw.jpeg"
     - "https://i.discogs.com/a7XqoEp7tXiwe7Z2mlFOgSU8auCwr5djJaAIg6bGlJ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDIz/Mi0xMzY3MDc0Mjcy/LTg4NjYuanBlZw.jpeg"
@@ -31,51 +32,28 @@ Running in the Family was a big international success, reaching the Top 10 in nu
 In 2012, the album was remastered and re-released to celebrate the 25th anniversary of its original release.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Lessons In Love
-2. Children Say
-3. Running In The Family
-4. It's Over
-5. To Be With You Again
-6. Two Solitudes
-7. Fashion Fever
-8. The Sleepwalkers
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Lessons In Love |  |
+| A2 | Children Say |  |
+| A3 | Running In The Family |  |
+| A4 | It's Over |  |
+| B1 | To Be With You Again |  |
+| B2 | Two Solitudes |  |
+| B3 | Fashion Fever |  |
+| B4 | The Sleepwalkers |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/running-in-the-family/1443532962" >}}<br>
 
 
-## Videos
-### Level 42 - Lessons In Love
-{{< youtube id="9x1RcVrGjGM" title="Level 42 - Lessons In Love" >}}<br>
-### More Videos
-
-- [Level 42   Children Say](https://www.youtube.com/watch?v=zj9Wd1BaVrU)
-- [Running In The Family Extended Version](https://www.youtube.com/watch?v=1LhbWRiyPHk)
-- [Level 42 - Its Over Extended Mix](https://www.youtube.com/watch?v=9VpYFQEWOrw)
-- [To Be With You Again](https://www.youtube.com/watch?v=Nb5f5dys414)
-- [Two Solitudes Everyones Love In The Air](https://www.youtube.com/watch?v=O5qb0xx6AJ4)
-- [Fashion Fever](https://www.youtube.com/watch?v=LUZrKO81MXc)
-- [The Sleepwalkers](https://www.youtube.com/watch?v=tLwOtu-Rg3A)
-- [Lessons In Love Shep Pettibone Remix](https://www.youtube.com/watch?v=NUOUVXcasso)
-- [Running In The Family Dave O Remix](https://www.youtube.com/watch?v=-KYaaZhmvYA)
-- [Its Over Remix](https://www.youtube.com/watch?v=nYP4X_6Lq_M)
-- [Something About You Shep Pettibone Remix](https://www.youtube.com/watch?v=DRygbFeHJQ0)
-- [World Machine Shep Pettibone Remix](https://www.youtube.com/watch?v=Svjb21mjf9Y)
-- [Level 42 - Children Say HQ](https://www.youtube.com/watch?v=uEZpYXVb7ws)
-- [Level 42 - Lessons In Love](https://www.youtube.com/watch?v=9x1RcVrGjGM)
-- [Level 42 - To Be With You Again Official Video](https://www.youtube.com/watch?v=w-9yUBLdcoE)
-- [Level 42 - Running In The Family Official Video](https://www.youtube.com/watch?v=x4m41bBPJvA)
-- [Level 42 - Its Over](https://www.youtube.com/watch?v=eUC4o8ZN8FM)
-- [Two Solitudes Everyones Love In The Air](https://www.youtube.com/watch?v=O5qb0xx6AJ4)
-- [Fashion Fever](https://www.youtube.com/watch?v=LUZrKO81MXc)
-- [The Sleepwalkers](https://www.youtube.com/watch?v=tLwOtu-Rg3A)
-- [Level 42 - Lessons In Love 1986 Official Music Video Remastered](https://www.youtube.com/watch?v=t256k9aZd-4)
-- [Level 42 - Its Over 1987 Official Music Video Remastered](https://www.youtube.com/watch?v=c7RJEOydpwQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -87,5 +65,5 @@ In 2012, the album was remastered and re-released to celebrate the 25th annivers
 | Format         | Vinyl LP Album |
 | Label          | Polydor |
 | Catalog Number | POLH 42 |
-| Notes | Issued with a printed lyric / picture innersleeve. Some issues include an advertising insert for Level 42 merchandise.  There is [url=http://www.discogs.com/Level-42-Running-In-The-Family/release/7427841]another UK version[/url] which was mastered at Musitech & was not pressed at PRS Ltd.  Some with stickered front sleeve |
-| Discogs URL    | [Level 42 - Running In The Family](https://www.discogs.com/release/310232-Level-42-Running-In-The-Family) |
+| Notes | Issued with a printed lyric / picture innersleeve. Some issues include an advertising insert for Level 42 merchandise.<br><br>There is [url=http://www.discogs.com/Level-42-Running-In-The-Family/release/7427841]another UK version[/url] which was mastered at Musitech & was not pressed at PRS Ltd.<br><br>Some with stickered front sleeve |
+| Discogs URL    | [Level - Running In The Family](https://www.discogs.com/release/310232-Level-42-Running-In-The-Family) |

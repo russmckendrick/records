@@ -4,6 +4,7 @@ artist_name: "Glasgow Coma Scale"
 artist: "glasgow-coma-scale"
 album_name: "Sirens"
 date: 2022-04-22T08:20:33.000000Z
+release_date: "2021-09-17"
 release_id: "20160328"
 slug: "sirens-20160328"
 hideSummary: true
@@ -25,25 +26,25 @@ styles: ["Post Rock", "Stoner Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Orion (7:49)
-2. Magik (6:38)
-3. Underskin (8:05)
-4. Sirens (6:20)
-5. Day 366 (9:08)
-6. One Must Fall (6:47)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Orion | 7:49 |
+| A2 | Magik | 6:38 |
+| A3 | Underskin | 8:05 |
+| B1 | Sirens | 6:20 |
+| B2 | Day 366 | 9:08 |
+| B3 | One Must Fall | 6:47 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sirens/1772889401" >}}<br>
 
 
-## Videos
-### Glasgow Coma Scale - Sirens Album 2021
-{{< youtube id="t1q1HZLAgAg" title="Glasgow Coma Scale - Sirens Album 2021" >}}<br>
-### More Videos
-
-- [Glasgow Coma Scale - Sirens Album 2021](https://www.youtube.com/watch?v=t1q1HZLAgAg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -54,5 +55,5 @@ styles: ["Post Rock", "Stoner Rock"]
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | Tonzonen Records |
 | Catalog Number | TON109 |
-| Notes | Limited to 750 (red), Gatefold Cover, Download-Card, Poster  Recorded and mixed Tonstudio45, Lahnstein in 2020 Mastered by [...], Berlin in 2020-2021 Artwork : [...] : sulewski.net  Cat# 1 appears on rear cover Cat# 2 appears on spine |
+| Notes | Limited to 750 (red), Gatefold Cover, Download-Card, Poster<br><br>Recorded and mixed Tonstudio45, Lahnstein in 2020<br>Mastered by [...], Berlin in 2020-2021<br>Artwork : [...] : sulewski.net<br><br>Cat# 1 appears on rear cover<br>Cat# 2 appears on spine |
 | Discogs URL    | [Glasgow Coma Scale - Sirens](https://www.discogs.com/release/20160328-Glasgow-Coma-Scale-Sirens) |

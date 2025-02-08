@@ -4,6 +4,7 @@ artist_name: "Orbital"
 artist: "orbital"
 album_name: "Orbital"
 date: 2024-04-20T07:59:40.000000Z
+release_date: "1993-01-01"
 release_id: "30430805"
 slug: "orbital-30430805"
 hideSummary: true
@@ -32,44 +33,31 @@ styles: ["Techno"]
 ---
 
 Orbital are an English electronic music duo from Otford, Kent, England, consisting of brothers Phil and Paul Hartnoll. The band's name is taken from Greater London's orbital motorway, the M25, which was central to the early rave scene during the early days of acid house. Additionally, the cover art on three of their albums showcase stylised atomic orbitals. Orbital have been critically and commercially successful, known particularly for their live improvisation during shows.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Moebius (7:01)
-2. Speed Freak (7:17)
-3. Macro Head (6:54)
-4. Oolaa (6:15)
-5. Desert Storm (12:06)
-6. Fahrenheit 303 (8:26)
-7. Steel Cube Idolatry (6:34)
-8. High Rise (8:23)
-9. Chime (Live) (5:56)
-10. Midnight (Live) (6:53)
-11. Belfast (8:06)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Moebius | 7:01 |
+| A2 | Speed Freak | 7:17 |
+| A3 | Macro Head | 6:54 |
+| B1 | Oolaa | 6:15 |
+| B2 | Desert Storm | 12:06 |
+| C1 | Fahrenheit 303 | 8:26 |
+| C2 | Steel Cube Idolatry | 6:34 |
+| C3 | High Rise | 8:23 |
+| D1 | Chime (Live) | 5:56 |
+| D2 | Midnight (Live) | 6:53 |
+| D3 | Belfast | 8:06 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/orbital-2/1320062319" >}}<br>
 
 
-## Videos
-### Orbital - Orbital Green Album 1991 HQ FULL ALBUM
-{{< youtube id="FsCEo-ey8E0" title="Orbital - Orbital Green Album 1991 HQ FULL ALBUM" >}}<br>
-### More Videos
-
-- [Orbital - The moebius from the green album](https://www.youtube.com/watch?v=IhDYHXkQd7Q)
-- [Orbital - Belfast Remastered Visualiser](https://www.youtube.com/watch?v=AZzJxWlvlNg)
-- [Orbital - Belfast HQ](https://www.youtube.com/watch?v=d5vGjCoQM1s)
-- [Orbital - Chime Live](https://www.youtube.com/watch?v=BEKsquKVppc)
-- [Orbital - Choice](https://www.youtube.com/watch?v=mr9MptBpTMM)
-- [Orbital - Choice Original Version](https://www.youtube.com/watch?v=YdRlvg5DzMc)
-- [Crime](https://www.youtube.com/watch?v=g24ssrWXYas)
-- [Torpedo Town](https://www.youtube.com/watch?v=CE3wFYhRQ5A)
-- [Orbital  Orbital  Green Album   -  Side 1](https://www.youtube.com/watch?v=Hm5fBRht-PU)
-- [Orbital  Orbital  Green Album   -  Side 2](https://www.youtube.com/watch?v=RzqRSPioXCc)
-- [Orbital  Orbital  Green Album   -  Side 3](https://www.youtube.com/watch?v=X-yUk_GSCd4)
-- [Orbital  Orbital  Green Album   -  Side 4](https://www.youtube.com/watch?v=2YGlzBuffDM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +69,5 @@ Orbital are an English electronic music duo from Otford, Kent, England, consisti
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold) |
 | Label          | London Records |
 | Catalog Number | LMS1725118 |
-| Notes | Brand new liner notes. Double black vinyl.  'Macro Head' Recorded at Gee St. 'Belfast' Recorded at Marcus Studio. ℗ & © 2024 London Records Ltd.  Also available as a numbered Assai Records ‘Obi Edition’ of 100 - signed on obi by the band.  Made in Czechia.  Runouts are etched apart from GZ Media's identifiers, which are laser-etched. |
+| Notes | Brand new liner notes. Double black vinyl.<br><br>'Macro Head' Recorded at Gee St.<br>'Belfast' Recorded at Marcus Studio.<br>℗ & © 2024 London Records Ltd.<br><br>Also available as a numbered Assai Records ‘Obi Edition’ of 100 - signed on obi by the band.<br><br>Made in Czechia.<br><br>Runouts are etched apart from GZ Media's identifiers, which are laser-etched. |
 | Discogs URL    | [Orbital - Orbital](https://www.discogs.com/release/30430805-Orbital-Orbital) |

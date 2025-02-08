@@ -4,6 +4,7 @@ artist_name: "Portishead"
 artist: "portishead"
 album_name: "Roseland NYC Live"
 date: 2024-04-30T05:29:18.000000Z
+release_date: "1998-01-01"
 release_id: "30502642"
 slug: "roseland-nyc-live-30502642"
 hideSummary: true
@@ -29,45 +30,34 @@ styles: ["Downtempo", "Acid Jazz", "Trip Hop"]
 Roseland NYC Live is a live album by English electronic music band Portishead. It was released on 2 November 1998 by Go! Beat. A PAL format VHS video was released the same year, with a DVD version following four years later. Although the New York Philharmonic is credited as appearing in the video, none of the musicians are members of the Philharmonic, nor is the Philharmonic credited in the audio album.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Humming
-2. Cowboys
-3. All Mine
-4. Mysterons
-5. Only You
-6. Half Day Closing
-7. Over
-8. Glory Box
-9. Sour Times
-10. Roads
-11. Strangers
-12. Undenied
-13. Numb
-14. Western Eyes
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Humming |  |
+| A2 | Cowboys |  |
+| A3 | All Mine |  |
+| B1 | Mysterons |  |
+| B2 | Only You |  |
+| B3 | Half Day Closing |  |
+| B4 | Over |  |
+| C1 | Glory Box |  |
+| C2 | Sour Times |  |
+| C3 | Roads |  |
+| D1 | Strangers |  |
+| D2 | Undenied |  |
+| D3 | Numb |  |
+| D4 | Western Eyes |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/roseland-nyc-live/1440913466" >}}<br>
 
 
-## Videos
-### Portishead - Half day closing Roseland NYC HQ
-{{< youtube id="KjuhPvWEgtY" title="Portishead - Half day closing Roseland NYC HQ" >}}<br>
-### More Videos
-
-- [Portishead - Only you Roseland NYC HQ](https://www.youtube.com/watch?v=4cIiyfSZfzs)
-- [Portishead - Glory box Roseland NYC HQ](https://www.youtube.com/watch?v=SLrkE6T_m5Y)
-- [Portishead - Roads - Roseland NYC HQ Audio](https://www.youtube.com/watch?v=52bAsZI9xm8)
-- [Portishead - Roseland Nyc Live - Cowboys](https://www.youtube.com/watch?v=SL8lY5372Ec)
-- [Portishead - Sour times Roseland NYC HQ](https://www.youtube.com/watch?v=CZ_Z0Zfvsj0)
-- [Portishead - Strangers Roseland NYC HQ](https://www.youtube.com/watch?v=HbSu2UM8kcQ)
-- [Portishead - Mysterons Roseland NYC HQ](https://www.youtube.com/watch?v=rRZdai5UPjE)
-- [Portishead - Numb Roseland NYC HQ](https://www.youtube.com/watch?v=r8Zuek09YYA)
-- [Portishead Roseland New York - Humming](https://www.youtube.com/watch?v=YLeCQQjXV1g)
-- [Portishead - Half day closing Roseland NYC HQ](https://www.youtube.com/watch?v=KjuhPvWEgtY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +69,5 @@ Roseland NYC Live is a live album by English electronic music band Portishead. I
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (25th Anniversary Edition, Gatefold, Red) |
 | Label          | Universal Music Recordings |
 | Catalog Number | 556 893 1 |
-| Notes | Hype sticker on front cover: "PORTISHEAD roseland nyc live • 25th anniversary edition expanded to 14 tracks • Remastered 2xLP red vinyl • Includes double-sided poster and NYC venue VIP pass"  All tracks recorded live at the Roseland Ballroom, New York City 24th July 1997.  Newly remastered, the track list has been expanded for the 25th anniversary edition to include "Undenied" and "Numb" from the concert film, as well as the full length performance of ‘Western Eyes’, which played in part over the credits of the film.  "Sour Times" and "Roads" are also now the original Roseland versions (previously substituted on the album release with recordings from other performances). All 5 of these tracks are on vinyl for the first time.  Sticker on back cover "Made in Germany".  A Systemtactic release ℗ 2023 Universal Music Operations Limited © 2023 Universal Music Operations Limited.  Runouts are etched. |
+| Notes | Hype sticker on front cover:<br>"PORTISHEAD<br>roseland nyc live<br>• 25th anniversary edition expanded to 14 tracks<br>• Remastered 2xLP red vinyl<br>• Includes double-sided poster and NYC venue VIP pass"<br><br>All tracks recorded live at the Roseland Ballroom, New York City 24th July 1997.<br><br>Newly remastered, the track list has been expanded for the 25th anniversary edition to include "Undenied" and "Numb" from the concert film, as well as the full length performance of ‘Western Eyes’, which played in part over the credits of the film.  "Sour Times" and "Roads" are also now the original Roseland versions (previously substituted on the album release with recordings from other performances). All 5 of these tracks are on vinyl for the first time.<br><br>Sticker on back cover "Made in Germany".<br><br>A Systemtactic release ℗ 2023 Universal Music Operations Limited © 2023 Universal Music Operations Limited.<br><br>Runouts are etched. |
 | Discogs URL    | [Portishead - Roseland NYC Live](https://www.discogs.com/release/30502642-Portishead-Roseland-NYC-Live) |

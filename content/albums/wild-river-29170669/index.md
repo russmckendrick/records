@@ -4,6 +4,7 @@ artist_name: "David Longdon"
 artist: "david-longdon"
 album_name: "Wild River"
 date: 2023-12-17T05:03:28.000000Z
+release_date: "2023-11-03"
 release_id: "29170669"
 slug: "wild-river-29170669"
 hideSummary: true
@@ -24,47 +25,37 @@ styles: ["Prog Rock"]
 A wild river (United States, Australia, & New Zealand) or heritage river (Canada) is a river or a river system designated by a government to be protected and kept "relatively untouched by development and are therefore in near natural condition, with all, or almost all, of their natural values intact."
 Within some nations including in the United States of America, Canada, New Zealand, and the Commonwealth of Australia, governments have opted to focus on rivers and river systems as a kind of "unmodified or slightly modified" landscape feature to protect, manage and preserve in near 'natural' condition – variously labeling or formally declaring such areas to be "wild rivers" (or "heritage rivers").
 The term "wild river" may also more generically describe or identify free-flowing rivers without dams.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Always
-2. Honey Trap
-3. Mandy
-4. About Time
-5. Vertigo
-6. Wild River
-7. Loving & Giving
-8. In Essence
-9. This House
-10. Joely
-11. Falling Down To Earth
-12. On To The Headland
-13. Beyond Belief
-14. Every Silver Lining (Live)
-15. April Fool (Live)
-16. Can I Come With You (Live)
-17. Pipe Dream (Live)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Always |  |
+| A2 | Honey Trap |  |
+| A3 | Mandy |  |
+| A4 | About Time |  |
+| A5 | Vertigo |  |
+| B1 | Wild River |  |
+| B2 | Loving & Giving |  |
+| B3 | In Essence |  |
+| B4 | This House |  |
+| C1 | Joely |  |
+| C2 | Falling Down To Earth |  |
+| C3 | On To The Headland |  |
+| C4 | Beyond Belief |  |
+| D1 | Every Silver Lining (Live) |  |
+| D2 | April Fool (Live) |  |
+| D3 | Can I Come With You (Live) |  |
+| D4 | Pipe Dream (Live) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wild-river/1696982337" >}}<br>
 
 
-## Videos
-### David Longdon - Wild River - album preview
-{{< youtube id="1yIrIR0Rp64" title="David Longdon - Wild River - album preview" >}}<br>
-### More Videos
-
-- [David Longdon - Always](https://www.youtube.com/watch?v=hObZhPkcerM)
-- [Honey Trap](https://www.youtube.com/watch?v=4vvvukaDSVE)
-- [Mandy](https://www.youtube.com/watch?v=sVJHEn3OVyU)
-- [David Longdon  -  About Time](https://www.youtube.com/watch?v=cwIlZN8Rnfs)
-- [Wild River](https://www.youtube.com/watch?v=5GNDdRmjIXA)
-- [Loving and Giving Live](https://www.youtube.com/watch?v=SmddacNMLCE)
-- [David Longdon - This House](https://www.youtube.com/watch?v=zScHowuicfY)
-- [Falling Down To Earth](https://www.youtube.com/watch?v=qc3BvsoR7kU)
-- [Beyond Belief](https://www.youtube.com/watch?v=B0ZkRRUpFz4)
 
 ## Release Images
 {{< imageGrid >}}

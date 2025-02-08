@@ -4,6 +4,7 @@ artist_name: "Split Enz"
 artist: "split-enz"
 album_name: "Waiata"
 date: 2016-01-29T18:22:31.000000Z
+release_date: "1981-04-01"
 release_id: "2684571"
 slug: "waiata-2684571"
 hideSummary: true
@@ -22,36 +23,31 @@ styles: ["Leftfield", "Pop Rock", "Experimental"]
 
 Waiata is the seventh studio album by New Zealand new wave band Split Enz, released in March 1981. Its Australian release was titled Corroboree. Waiata is the Māori term for song and singing, while corroboree is an Aboriginal term. According to Noel Crombie the intention was to name the album using a word from the natives of every country it was released in. This did not go ahead and the only country to adopt this change was Australia. The rest of the world kept the New Zealand title Waiata.
 The songs "History Never Repeats" and "One Step Ahead" were among the first music videos aired on MTV when the cable television channel launched in the United States in 1981.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Hard Act To Follow (3:17)
-2. One Step Ahead (2:52)
-3. I Don't Wanna Dance (3:34)
-4. Iris (2:50)
-5. Wail (2:49)
-6. Clumsy (3:29)
-7. History Never Repeats (3:00)
-8. Walking Through The Ruins (4:15)
-9. Ships (3:01)
-10. Ghost Girl (4:26)
-11. Albert Of India (4:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hard Act To Follow | 3:17 |
+| A2 | One Step Ahead | 2:52 |
+| A3 | I Don't Wanna Dance | 3:34 |
+| A4 | Iris | 2:50 |
+| A5 | Wail | 2:49 |
+| A6 | Clumsy | 3:29 |
+| B1 | History Never Repeats | 3:00 |
+| B2 | Walking Through The Ruins | 4:15 |
+| B3 | Ships | 3:01 |
+| B4 | Ghost Girl | 4:26 |
+| B5 | Albert Of India | 4:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/waiata/1442252874" >}}<br>
 
 
-## Videos
-### Split Enz - One Step Ahead Official Video
-{{< youtube id="9bjIhxgxbz4" title="Split Enz - One Step Ahead Official Video" >}}<br>
-### More Videos
-
-- [Split Enz - I Dont Wanna Dance](https://www.youtube.com/watch?v=uy4kk1MZKHI)
-- [Split Enz - History Never Repeats Official Video](https://www.youtube.com/watch?v=xXrWTFvnqKI)
-- [Split Enz - Iris](https://www.youtube.com/watch?v=pF72BXV2quw)
-- [Split Enz - Hard Act To Follow](https://www.youtube.com/watch?v=AGTSUeyt-nY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +59,5 @@ The songs "History Never Repeats" and "One Step Ahead" were among the first musi
 | Format         | Vinyl LP Album |
 | Label          | A&M Records |
 | Catalog Number | AMLH 64848 |
-| Notes | Early UK issue with blue centre labels. A similar release features brown centre labels, see [r=9164357].  Recorded and mixed July to December 1980. Made in England. |
+| Notes | Early UK issue with blue centre labels. A similar release features brown centre labels, see [r=9164357].<br><br>Recorded and mixed July to December 1980.<br>Made in England. |
 | Discogs URL    | [Split Enz - Waiata](https://www.discogs.com/release/2684571-Split-Enz-Waiata) |

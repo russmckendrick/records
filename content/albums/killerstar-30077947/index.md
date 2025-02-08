@@ -4,6 +4,7 @@ artist_name: "KillerStar"
 artist: "killerstar"
 album_name: "KillerStar"
 date: 2025-01-20T01:01:37.000000Z
+release_date: ""
 release_id: "30077947"
 slug: "killerstar-30077947"
 hideSummary: true
@@ -22,21 +23,25 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Should’ve Known Better (5:45)
-2. Everybody Loves A Hero (4:16)
-3. Got Me All Wrong (4:18)
-4. Go (Hold On Tight) (5:30)
-5. Feel It (3:57)
-6. You’re A Chameleon (3:50)
-7. Too Late (4:09)
-8. Falling Through (6:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Should’ve Known Better | 5:45 |
+| A2 | Everybody Loves A Hero | 4:16 |
+| A3 | Got Me All Wrong | 4:18 |
+| A4 | Go (Hold On Tight) | 5:30 |
+| B1 | Feel It | 3:57 |
+| B2 | You’re A Chameleon | 3:50 |
+| B3 | Too Late | 4:09 |
+| B4 | Falling Through | 6:56 |
 
 
-## Spotify
-{{< spotify type="album" id="4IHg4kymqqqlqePfbFId5x" width="100%" height="500" >}}<br>
-
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 

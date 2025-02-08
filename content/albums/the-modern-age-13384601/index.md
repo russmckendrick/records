@@ -1,9 +1,10 @@
 ---
 title: "Sleeper - The Modern Age"
 artist_name: "Sleeper"
-artist: "sleeper-2"
+artist: "sleeper"
 album_name: "The Modern Age"
 date: 2019-03-23T13:39:12.000000Z
+release_date: "2019-03-22"
 release_id: "13384601"
 slug: "the-modern-age-13384601"
 hideSummary: true
@@ -26,32 +27,30 @@ styles: ["Indie Rock", "Britpop"]
 ---
 
 The Modern Age is the fourth studio album by English Britpop band Sleeper. The album was released in the UK on 22 March 2019, and peaked at number 18 on the UK Album Chart. Three singles were released from this album, "Look At You Now", "The Sun Also Rises" and "More Than I Do", all of which failed to chart.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Paradise Waiting
-2. Look At You Now
-3. The Sun Also Rises
-4. Dig
-5. The Modern Age
-6. Cellophane
-7. Car Into The Sea
-8. Blue Like You
-9. More Than I Do
-10. Big Black Sun
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Paradise Waiting |  |
+| A2 | Look At You Now |  |
+| A3 | The Sun Also Rises |  |
+| A4 | Dig |  |
+| A5 | The Modern Age |  |
+| B1 | Cellophane |  |
+| B2 | Car Into The Sea |  |
+| B3 | Blue Like You |  |
+| B4 | More Than I Do |  |
+| B5 | Big Black Sun |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-modern-age/1445590486" >}}<br>
 
 
-## Videos
-### SLEEPER THE SUN ALSO RISES Official video
-{{< youtube id="czLvTGLcyHE" title="SLEEPER THE SUN ALSO RISES Official video" >}}<br>
-### More Videos
-
-- [Sleeper - Look At You Now](https://www.youtube.com/watch?v=LSh37ZvMTiw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +62,5 @@ The Modern Age is the fourth studio album by English Britpop band Sleeper. The a
 | Format         | Vinyl LP Album Limited Edition (Cream) |
 | Label          | Gorsky Records |
 | Catalog Number | SLEEP19LPC2 |
-| Notes | "Indies only" limited edition cream coloured vinyl. Issued in a matte sleeve. Picture/lyric inner sleeve of matte card. Barcode over-sticker applied to shrink-wrap. Some copies were made available which were signed by the members of the band.  Label cat# SLEEP19LP on the labels center (side B) and on the back cover. Label cat# SLEEP19LPC2 (for the cream limited edition) on the sticker with barcode.  Mixed by Stephen Street at The Bunker Made in the EU. |
+| Notes | "Indies only" limited edition cream coloured vinyl.<br>Issued in a matte sleeve. Picture/lyric inner sleeve of matte card.<br>Barcode over-sticker applied to shrink-wrap.<br>Some copies were made available which were signed by the members of the band.<br><br>Label cat# SLEEP19LP on the labels center (side B) and on the back cover.<br>Label cat# SLEEP19LPC2 (for the cream limited edition) on the sticker with barcode.<br><br>Mixed by Stephen Street at The Bunker<br>Made in the EU. |
 | Discogs URL    | [Sleeper - The Modern Age](https://www.discogs.com/release/13384601-Sleeper-2-The-Modern-Age) |

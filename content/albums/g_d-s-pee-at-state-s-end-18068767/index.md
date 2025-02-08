@@ -1,6 +1,6 @@
 ---
-title: "Godspeed You Black Emperor! - G_d's Pee At State's End!"
-artist_name: "Godspeed You Black Emperor!"
+title: "Godspeed You Black Emperor - G_d's Pee At State's End!"
+artist_name: "Godspeed You Black Emperor"
 artist: "godspeed-you-black-emperor"
 album_name: "G_d's Pee At State's End!"
 date: 2021-04-26T10:26:00.000000Z
@@ -10,8 +10,8 @@ slug: "g_d-s-pee-at-state-s-end-18068767"
 hideSummary: true
 cover:
     image: "g_d-s-pee-at-state-s-end-18068767.jpg"
-    alt: "G_d's Pee At State's End! by Godspeed You Black Emperor!"
-    caption: "G_d's Pee At State's End! by Godspeed You Black Emperor!"
+    alt: "G_d's Pee At State's End! by Godspeed You Black Emperor"
+    caption: "G_d's Pee At State's End! by Godspeed You Black Emperor"
 additional_images:
     - "https://i.discogs.com/BibFB5DwJ29kSXFB93xyv0yKsNI8PNV458b3rS3sQb4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDY4/NzY3LTE2MjUwMTM3/ODUtMzgwMC5qcGVn.jpeg"
     - "https://i.discogs.com/UV1VxwU6q-1HUH35C53pIfdz5_YkN-MOX4mZlHKIaec/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDY4/NzY3LTE2MjUwMTM3/ODUtNjM1NS5qcGVn.jpeg"
@@ -43,21 +43,18 @@ Godspeed's seventh album adheres to a similar structure as their post-reunion re
 
 
 ## Tracklisting
-1. A Military Alphabet (Five Eyes All Blind) (4521.0kHz 6730.0kHz 4109.09kHz) / Job's Lament / First Of The Last Glaciers / Where We Break How We Shine (Rockets For Mary)
-2. Fire At Static Valley
-3. "Government Came" (9980.0kHz 3617.1kHz 4521.0 kHz) / Cliffs Gaze / Cliffs' Gaze At Empty Waters' Rise / Ashes To Sea Or Nearer To Thee
-4. Our Side Has To Win (For D.H.)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | A Military Alphabet (Five Eyes All Blind) (4521.0kHz 6730.0kHz 4109.09kHz) / Job's Lament / First Of The Last Glaciers / Where We Break How We Shine (Rockets For Mary) |  |
+| B | Fire At Static Valley |  |
+| 3 | "Government Came" (9980.0kHz 3617.1kHz 4521.0 kHz) / Cliffs Gaze / Cliffs' Gaze At Empty Waters' Rise / Ashes To Sea Or Nearer To Thee |  |
+| 4 | Our Side Has To Win (For D.H.) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/g-ds-pee-at-states-end/1556346295" >}}<br>
 
 
-## Videos
-### Godspeed You Black Emperor - G_ds Pee AT STATES END Full Album
-{{< youtube id="5Mp2EipaHps" title="Godspeed You Black Emperor - G_ds Pee AT STATES END Full Album" >}}<br>
-### More Videos
-
-- [Godspeed You Black Emperor - G_ds Pee AT STATES END Full Album](https://www.youtube.com/watch?v=5Mp2EipaHps)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +66,5 @@ Godspeed's seventh album adheres to a similar structure as their post-reunion re
 | Format         | Vinyl LP (180 gram), Vinyl 10" 33 ⅓ RPM EP, All Media Album |
 | Label          | Constellation |
 | Catalog Number | CST156 |
-| Notes | Tracked live at the almighty hotel2tango, 6-11 octobre 2020. Edits and overdubs 12-18 octobre 2020. Mastered at Greymarket.  Released in a gatefold cover with b/w printed inner sleeves. Comes with label insert.  This release is auto-coupled: the LP contains sides A and 3, while the 10" contains sides B and 4. The record labels name the sides 12A, 12B, 10A & b (the b side of the 10 inch is labeled simply 'b').  The cover refers to the order of the tracks as sides A (12" A side), B (10" A side), 3 (12" B side) & 4 (10" b side)  For additional clarity: the 12" contains what is referred to as sides A and 3 (where Side 3 contains a locked groove) and the 10" has sides B & 4.  Side 3 (12" side labeled 12B) ends with a locked groove.  The writing on the label of the 10" side b (AKA "Side 4) is in Yiddish; "מיך וועלן זיי איבערלעבן". The correct spelling for the word is "מיך וועלן זיי איבערלעבד" (Translation: We will outlive them).  Housed in an embossed gatefold sleeve and includes a DL card.  Some pre-orders at independent record stores included a promo poster.  The back cover features logos of [l1285790] and [l56231]. |
-| Discogs URL    | [Godspeed You Black Emperor! - G_d's Pee At State's End!](https://www.discogs.com/release/18068767-Godspeed-You-Black-Emperor-G_ds-Pee-At-States-End) |
+| Notes | Tracked live at the almighty hotel2tango, 6-11 octobre 2020. Edits and overdubs 12-18 octobre 2020. Mastered at Greymarket.<br><br>Released in a gatefold cover with b/w printed inner sleeves. Comes with label insert.<br><br>This release is auto-coupled: the LP contains sides A and 3, while the 10" contains sides B and 4.<br>The record labels name the sides 12A, 12B, 10A & b (the b side of the 10 inch is labeled simply 'b'). <br>The cover refers to the order of the tracks as sides A (12" A side), B (10" A side), 3 (12" B side) & 4 (10" b side) <br>For additional clarity: the 12" contains what is referred to as sides A and 3 (where Side 3 contains a locked groove) and the 10" has sides B & 4.<br><br>Side 3 (12" side labeled 12B) ends with a locked groove.<br><br>The writing on the label of the 10" side b (AKA "Side 4) is in Yiddish; "מיך וועלן זיי איבערלעבן". The correct spelling for the word is "מיך וועלן זיי איבערלעבד" (Translation: We will outlive them).<br><br>Housed in an embossed gatefold sleeve and includes a DL card.<br><br>Some pre-orders at independent record stores included a promo poster.<br><br>The back cover features logos of [l1285790] and [l56231]. |
+| Discogs URL    | [Godspeed You Black Emperor - G_d's Pee At State's End!](https://www.discogs.com/release/18068767-Godspeed-You-Black-Emperor-G_ds-Pee-At-States-End) |

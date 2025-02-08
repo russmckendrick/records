@@ -4,6 +4,7 @@ artist_name: "Bullet Height"
 artist: "bullet-height"
 album_name: "No Atonement"
 date: 2017-06-08T17:51:46.000000Z
+release_date: "2017-05-19"
 release_id: "10376234"
 slug: "no-atonement-10376234"
 hideSummary: true
@@ -25,47 +26,39 @@ styles: ["Industrial"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Fight Song
-2. Bastion
-3. Hold Together
-4. Wild Words
-5. Intravenous
-6. Cadence
-7. No Atonement
-8. Break Our Hearts Down
-9. Fever
-10. Up To The Neck
-11. Fight Song (3:31)
-12. Bastion (4:08)
-13. Hold Together (4:08)
-14. Wild Words (3:52)
-15. Intravenous (4:42)
-16. Cadence (4:23)
-17. No Atonement (3:38)
-18. Break Our Hearts Down (4:47)
-19. Fever (3:44)
-20. Up To The Neck (6:02)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fight Song |  |
+| A2 | Bastion |  |
+| A3 | Hold Together |  |
+| A4 | Wild Words |  |
+| A5 | Intravenous |  |
+| B1 | Cadence |  |
+| B2 | No Atonement |  |
+| B3 | Break Our Hearts Down |  |
+| B4 | Fever |  |
+| B5 | Up To The Neck |  |
+| CD-1 | Fight Song | 3:31 |
+| CD-2 | Bastion | 4:08 |
+| CD-3 | Hold Together | 4:08 |
+| CD-4 | Wild Words | 3:52 |
+| CD-5 | Intravenous | 4:42 |
+| CD-6 | Cadence | 4:23 |
+| CD-7 | No Atonement | 3:38 |
+| CD-8 | Break Our Hearts Down | 4:47 |
+| CD-9 | Fever | 3:44 |
+| CD-10 | Up To The Neck | 6:02 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-atonement/1219447555" >}}<br>
 
 
-## Videos
-### Fight Song
-{{< youtube id="0lyWF-I7pZA" title="Fight Song" >}}<br>
-### More Videos
-
-- [BULLET HEIGHT - Bastion Official Track](https://www.youtube.com/watch?v=kmlmn3YHpNs)
-- [BULLET HEIGHT - Hold Together OFFICIAL VIDEO](https://www.youtube.com/watch?v=Qfie7ok8-XI)
-- [Wild Words](https://www.youtube.com/watch?v=EcshkqnUp9o)
-- [Intravenous](https://www.youtube.com/watch?v=TFVsojTL7rc)
-- [Cadence](https://www.youtube.com/watch?v=oLChpiZ2WQk)
-- [No Atonement](https://www.youtube.com/watch?v=PxE2Bmf3VpY)
-- [BULLET HEIGHT - Break Our Hearts Down Album Track](https://www.youtube.com/watch?v=PZwRQQN5cA8)
-- [Fever](https://www.youtube.com/watch?v=Z6hnJrBKOKw)
-- [Break Our Hearts Down](https://www.youtube.com/watch?v=xHItLkOiP3g)
 
 ## Release Images
 {{< imageGrid >}}

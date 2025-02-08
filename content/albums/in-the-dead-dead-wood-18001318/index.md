@@ -4,6 +4,7 @@ artist_name: "Vennart"
 artist: "vennart"
 album_name: "In The Dead, Dead Wood"
 date: 2021-03-29T04:48:05.000000Z
+release_date: "2020-11-06"
 release_id: "18001318"
 slug: "in-the-dead-dead-wood-18001318"
 hideSummary: true
@@ -29,24 +30,26 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Silhouette
-2. Super Sleuth
-3. Elemental
-4. Lancelot
-5. In The Dead, Dead Wood
-6. Weight In Gold
-7. Mourning On The Range
-8. Forc In The Road
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Silhouette |  |
+| A2 | Super Sleuth |  |
+| A3 | Elemental |  |
+| A4 | Lancelot |  |
+| A5 | In The Dead, Dead Wood |  |
+| B1 | Weight In Gold |  |
+| B2 | Mourning On The Range |  |
+| B3 | Forc In The Road |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-the-dead-dead-wood/1574731572" >}}<br>
 
-
-## Videos
-### VENNART - SUPER SLEUTH TAROT LYRIC VIDEO
-{{< youtube id="NqfligxJvzs" title="VENNART - SUPER SLEUTH TAROT LYRIC VIDEO" >}}<br>
 
 
 ## Release Images

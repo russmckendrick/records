@@ -4,6 +4,7 @@ artist_name: "The The"
 artist: "the-the"
 album_name: "Soul Mining"
 date: 2022-10-14T05:54:29.000000Z
+release_date: "1983"
 release_id: "24818426"
 slug: "soul-mining-24818426"
 hideSummary: true
@@ -26,37 +27,27 @@ Soul Mining is the debut studio album by the English post-punk and synth-pop ban
 Soul Mining was released in the United Kingdom on 21 October 1983 on Some Bizzare Records/Epic Records and included versions of the singles "Uncertain Smile", "Perfect", and "This Is the Day". Although the album received positive reviews, its initial sales were modest, reaching number 27 in the UK and charting in a number of other countries, but in 2019 the album was certified gold in the UK. Soul Mining was reissued in June 2014 as a two-disc 30th anniversary deluxe version on vinyl, attracting retrospective reviews which universally praised the record, with critics describing it as both Johnson's best work and one of the best albums of the 1980s.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I've Been Waitin' For Tomorrow (All Of My Life)
-2. This Is The Day
-3. The Sinking Feeling 
-4. Uncertain Smile
-5. The Twilight Hour
-6. Soul Mining 
-7. Giant
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I've Been Waitin' For Tomorrow (All Of My Life) |  |
+| A2 | This Is The Day |  |
+| A3 | The Sinking Feeling  |  |
+| A4 | Uncertain Smile |  |
+| B1 | The Twilight Hour |  |
+| B2 | Soul Mining  |  |
+| B3 | Giant |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/soul-mining/457379243" >}}<br>
 
 
-## Videos
-### The The - Ive Been Waitin for Tomorrow All of My Life Official Video
-{{< youtube id="Rsdhq1czay0" title="The The - Ive Been Waitin for Tomorrow All of My Life Official Video" >}}<br>
-### More Videos
-
-- [The The - Uncertain Smile Audio](https://www.youtube.com/watch?v=5bErFXjUGvQ)
-- [The The - This Is the Day Official 4K Video](https://www.youtube.com/watch?v=Nxazmzy0vAo)
-- [The The - Giant](https://www.youtube.com/watch?v=aub7ojxeEAw)
-- [Perfect](https://www.youtube.com/watch?v=gmS-1YSBRKk)
-- [The The Ive Been Waiting for Tomorrow All of My Life](https://www.youtube.com/watch?v=MVQ-i4hSESI)
-- [The The - The Sinking Feeling](https://www.youtube.com/watch?v=RzPeHdPeL-c)
-- [The The - The Twilight Hour](https://www.youtube.com/watch?v=oApuE2uJsas)
-- [Soul Mining](https://www.youtube.com/watch?v=IkzwnBqjRYg)
-- [The The - Ive Been Waitin for Tomorrow All of My Life Official Video](https://www.youtube.com/watch?v=Rsdhq1czay0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +59,5 @@ Soul Mining was released in the United Kingdom on 21 October 1983 on Some Bizzar
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Some Bizzare |
 | Catalog Number | 19658720241 |
-| Notes | Made in the EU.  Reissued on vinyl for National Album Day. Used the 30th Anniversary boxset remaster.  Runouts are stamped, apart from ''Ⅰ'' on variant 2, which is etched. |
+| Notes | Made in the EU.<br><br>Reissued on vinyl for National Album Day.<br>Used the 30th Anniversary boxset remaster.<br><br>Runouts are stamped, apart from ''Ⅰ'' on variant 2, which is etched. |
 | Discogs URL    | [The The - Soul Mining](https://www.discogs.com/release/24818426-The-The-Soul-Mining) |

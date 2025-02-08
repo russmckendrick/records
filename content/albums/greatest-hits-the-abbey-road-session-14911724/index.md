@@ -1,16 +1,17 @@
 ---
-title: "Therapy? - Greatest Hits (The Abbey Road Session)"
-artist_name: "Therapy?"
+title: "Therapy - Greatest Hits (The Abbey Road Session)"
+artist_name: "Therapy"
 artist: "therapy"
 album_name: "Greatest Hits (The Abbey Road Session)"
 date: 2021-02-18T07:59:34.000000Z
+release_date: ""
 release_id: "14911724"
 slug: "greatest-hits-the-abbey-road-session-14911724"
 hideSummary: true
 cover:
     image: "greatest-hits-the-abbey-road-session-14911724.jpg"
-    alt: "Greatest Hits (The Abbey Road Session) by Therapy?"
-    caption: "Greatest Hits (The Abbey Road Session) by Therapy?"
+    alt: "Greatest Hits (The Abbey Road Session) by Therapy"
+    caption: "Greatest Hits (The Abbey Road Session) by Therapy"
 additional_images:
     - "https://i.discogs.com/Y2ArFoeN6q7OMWq7BWOqi6gj7M8M7ogNJXNjRqdCkMI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTEx/NzI0LTE1ODQxMTgy/MzctNDQyOC5qcGVn.jpeg"
     - "https://i.discogs.com/8MP2vYI6gO720nzj-LxYawDWUYXul_P3eVVQhDqs-M4/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTEx/NzI0LTE1ODQwOTYz/MzItNjI3NC5qcGVn.jpeg"
@@ -28,32 +29,32 @@ styles: ["Alternative Rock"]
 Greatest Hits (The Abbey Road Session) is a live-in-studio album by the rock band Therapy?. It was released by Marshall Records on 13 March 2020. The 12 tracks, all re-recordings of UK Top 40 singles originally released between 1992 and 1998, were recorded on 8 November 2019 at Abbey Road Studios in London.
 The album was released on black vinyl, translucent green vinyl and double CD. While initial pre-order physical copies carried the "Abbey Road" subtitle, following an issue raised by the studio over naming rights, re-pressings and all digital copies were retitled Greatest Hits (2020 Versions).
 The second part of the double CD release, entitled Official Bootleg 1990–2020, features 15 live songs (one to represent each studio album in the band's discography) recorded between 1990 and 2018, compiled from the band's personal archives.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Teethgrinder
-2. Screamager
-3. Opal Mantra
-4. Turn
-5. Nowhere
-6. Trigger Inside
-7. Die Laughing
-8. Stories
-9. Loose
-10. Diane
-11. Church Of Noise
-12. Lonely, Cryin' Only
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Teethgrinder |  |
+| A2 | Screamager |  |
+| A3 | Opal Mantra |  |
+| A4 | Turn |  |
+| A5 | Nowhere |  |
+| A6 | Trigger Inside |  |
+| B1 | Die Laughing |  |
+| B2 | Stories |  |
+| B3 | Loose |  |
+| B4 | Diane |  |
+| B5 | Church Of Noise |  |
+| B6 | Lonely, Cryin' Only |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Therapy ft James Dean Bradfield - Die Laughing 2020 Version Official Lyric Video
-{{< youtube id="h7-XdZj3a_A" title="Therapy ft James Dean Bradfield - Die Laughing 2020 Version Official Lyric Video" >}}<br>
-### More Videos
 
-- [Therapy ft James Dean Bradfield - Die Laughing 2020 Version Official Lyric Video](https://www.youtube.com/watch?v=h7-XdZj3a_A)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +66,5 @@ The second part of the double CD release, entitled Official Bootleg 1990–2020,
 | Format         | Vinyl LP Album |
 | Label          | Marshall Records (10) |
 | Catalog Number | R920.011 |
-| Notes | Autographed copies were available to pre-order from the band's webstore (these copies didn't come shrink-wrapped, but in a resealable polypropylene cover).  Catalog# and barcode differ from those on the coloured vinyl edition. |
-| Discogs URL    | [Therapy? - Greatest Hits (The Abbey Road Session)](https://www.discogs.com/release/14911724-Therapy-Greatest-Hits-The-Abbey-Road-Session) |
+| Notes | Autographed copies were available to pre-order from the band's webstore (these copies didn't come shrink-wrapped, but in a resealable polypropylene cover).<br><br>Catalog# and barcode differ from those on the coloured vinyl edition. |
+| Discogs URL    | [Therapy - Greatest Hits (The Abbey Road Session)](https://www.discogs.com/release/14911724-Therapy-Greatest-Hits-The-Abbey-Road-Session) |

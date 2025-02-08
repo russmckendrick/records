@@ -4,6 +4,7 @@ artist_name: "Alanis Morissette"
 artist: "alanis-morissette"
 album_name: "Jagged Little Pill"
 date: 2017-04-17T13:21:29.000000Z
+release_date: "2005-06-21"
 release_id: "4064194"
 slug: "jagged-little-pill-4064194"
 hideSummary: true
@@ -34,47 +35,32 @@ Jagged Little Pill received positive reviews from critics, who praised its music
 The album has been re-released twice: on October 30, 2015, in a two-disc deluxe edition and a four-disc collector's edition commemorating its 20th anniversary; and on June 26, 2020, in a 25th anniversary deluxe edition. An acoustic re-recording of the album was released on June 13, 2005, to mark its 10th anniversary. It inspired a musical stage production, which premiered at the American Repertory Theater in Cambridge on May 5, 2018; it transferred to Broadway the following year, and was nominated for 15 Tony Awards, including Best Musical. A world tour celebrating the 25th anniversary of Jagged Little Pill began in early 2020 but was postponed due to the COVID-19 pandemic.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. All I Really Want (4:42)
-2. You Oughta Know (4:07)
-3. Perfect (3:05)
-4. Hand In My Pocket (3:38)
-5. Right Through You (2:53)
-6. Forgiven (4:57)
-7. You Learn (3:58)
-8. Head Over Feet (4:24)
-9. Mary Jane (4:38)
-10. Ironic (3:47)
-11. Not The Doctor (3:44)
-12. Wake Up (4:54)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | All I Really Want | 4:42 |
+| A2 | You Oughta Know | 4:07 |
+| A3 | Perfect | 3:05 |
+| A4 | Hand In My Pocket | 3:38 |
+| A5 | Right Through You | 2:53 |
+| A6 | Forgiven | 4:57 |
+| B1 | You Learn | 3:58 |
+| B2 | Head Over Feet | 4:24 |
+| B3 | Mary Jane | 4:38 |
+| B4 | Ironic | 3:47 |
+| B5 | Not The Doctor | 3:44 |
+| B6 | Wake Up | 4:54 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vsq-performs-alanis-morissettes-jagged-little-pill/1021694197" >}}<br>
 
 
-## Videos
-### Alanis Morissette - Hand In My Pocket Official 4K Music Video
-{{< youtube id="CUjIY_XxF1g" title="Alanis Morissette - Hand In My Pocket Official 4K Music Video" >}}<br>
-### More Videos
-
-- [Alanis Morissette - Ironic Official 4K Music Video](https://www.youtube.com/watch?v=Jne9t8sHpUc)
-- [Alanis Morissette - You Oughta Know Official 4K Music Video](https://www.youtube.com/watch?v=NPcyTyilmYY)
-- [Alanis Morissette - You Learn Official 4K Music Video](https://www.youtube.com/watch?v=GFW-WfuX2Dk)
-- [Alanis Morissette - Head Over Feet Official 4K Music Video](https://www.youtube.com/watch?v=4iuO49jbovg)
-- [All I Really Want 2015 Remaster](https://www.youtube.com/watch?v=9t9HQMGfGrY)
-- [Perfect 2015 Remaster](https://www.youtube.com/watch?v=jZ-_oyHFdeM)
-- [Right Through You 2015 Remaster](https://www.youtube.com/watch?v=gpCE80nmeTw)
-- [Forgiven 2015 Remaster](https://www.youtube.com/watch?v=-9DnL-TlyJw)
-- [Head over Feet 2015 Remaster](https://www.youtube.com/watch?v=r5thPd3hAKs)
-- [Mary Jane 2015 Remaster](https://www.youtube.com/watch?v=HYHx5NlUlZk)
-- [Ironic 2015 Remaster](https://www.youtube.com/watch?v=Adu-EfJbuBs)
-- [Not the Doctor 2015 Remaster](https://www.youtube.com/watch?v=Jpm3SPXeB2I)
-- [Wake Up 2015 Remaster](https://www.youtube.com/watch?v=JX6FbIkfyro)
-- [You Oughta Know Jimmy the Saint Blend  Your House A Capella 2015 Remaster](https://www.youtube.com/watch?v=SIVIzG86_jE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +72,5 @@ The album has been re-released twice: on October 30, 2015, in a two-disc deluxe 
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Maverick |
 | Catalog Number | 8122797168 |
-| Notes | Hype sticker: "180-Gram Vinyl Cut From the Original Analog Master"  Black & white printed inner sleeve with lyrics and credits.  This submission incorporates versions stickered "25th ANNIVERSARY", the sticker being the only difference. |
+| Notes | Hype sticker:<br>"180-Gram Vinyl Cut From the Original Analog Master"<br><br>Black & white printed inner sleeve with lyrics and credits.<br><br>This submission incorporates versions stickered "25th ANNIVERSARY", the sticker being the only difference. |
 | Discogs URL    | [Alanis Morissette - Jagged Little Pill](https://www.discogs.com/release/4064194-Alanis-Morissette-Jagged-Little-Pill) |

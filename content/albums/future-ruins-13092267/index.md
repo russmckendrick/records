@@ -4,6 +4,7 @@ artist_name: "Swervedriver"
 artist: "swervedriver"
 album_name: "Future Ruins"
 date: 2019-01-27T14:29:59.000000Z
+release_date: "2019-01-25"
 release_id: "13092267"
 slug: "future-ruins-13092267"
 hideSummary: true
@@ -24,40 +25,30 @@ styles: ["Indie Rock", "Shoegaze", "Alternative Rock"]
 Future Ruins is the sixth studio album by English alternative rock band Swervedriver. It was released on 25 January 2019 through Dangerbird Records.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Mary Winter (5:04)
-2. The Lonely Crowd Fades In The Air (4:13)
-3. Future Ruins (6:13)
-4. Theeascending (4:45)
-5. Drone Lover (4:19)
-6. Spiked Flower (3:26)
-7. Everybody's Going Somewhere & No-One's Going Anywhere (3:49)
-8. Golden Remedy (5:43)
-9. Good Times Are So Hard To Follow (3:09)
-10. Radio-Silent (7:04)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mary Winter | 5:04 |
+| A2 | The Lonely Crowd Fades In The Air | 4:13 |
+| A3 | Future Ruins | 6:13 |
+| A4 | Theeascending | 4:45 |
+| A5 | Drone Lover | 4:19 |
+| B1 | Spiked Flower | 3:26 |
+| B2 | Everybody's Going Somewhere & No-One's Going Anywhere | 3:49 |
+| B3 | Golden Remedy | 5:43 |
+| B4 | Good Times Are So Hard To Follow | 3:09 |
+| B5 | Radio-Silent | 7:04 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/future-ruins/1439002583" >}}<br>
 
 
-## Videos
-### Mary Winter
-{{< youtube id="yohv_1_dJrM" title="Mary Winter" >}}<br>
-### More Videos
-
-- [The Lonely Crowd Fades in the Air](https://www.youtube.com/watch?v=hLhtN3WdLIc)
-- [Future Ruins](https://www.youtube.com/watch?v=dlJkbwCH7Oo)
-- [Theeascending](https://www.youtube.com/watch?v=k2bG0xsaKk8)
-- [Drone Lover](https://www.youtube.com/watch?v=uiP4O7MlasM)
-- [Spiked Flower](https://www.youtube.com/watch?v=CH-SPJWiykc)
-- [Everybodys Going Somewhere and No-Ones Going Anywhere](https://www.youtube.com/watch?v=UUCUlRsG1FU)
-- [Golden Remedy](https://www.youtube.com/watch?v=RYPjucxPwMs)
-- [Good Times Are so Hard to Follow](https://www.youtube.com/watch?v=Hb9ClOgmdj8)
-- [Radio-Silent](https://www.youtube.com/watch?v=Whom9yF9oxU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +60,5 @@ Future Ruins is the sixth studio album by English alternative rock band Swervedr
 | Format         | Vinyl LP Album (Red) |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT121LP |
-| Notes | Indies exclusive heavyweight red vinyl. Includes MP3 Download Code.  |
+| Notes | Indies exclusive heavyweight red vinyl. Includes MP3 Download Code.<br> |
 | Discogs URL    | [Swervedriver - Future Ruins](https://www.discogs.com/release/13092267-Swervedriver-Future-Ruins) |

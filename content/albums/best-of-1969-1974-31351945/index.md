@@ -4,6 +4,7 @@ artist_name: "Fleetwood Mac"
 artist: "fleetwood-mac"
 album_name: "Best Of 1969-1974"
 date: 2024-07-30T04:36:53.000000Z
+release_date: "2024-07-26"
 release_id: "31351945"
 slug: "best-of-1969-1974-31351945"
 hideSummary: true
@@ -21,31 +22,36 @@ styles: ["AOR", "Blues Rock", "Pop Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Oh Well (Part 1) (3:22)
-2. Rattlesnake Shake (3:29)
-3. The Green Manalishi (With The Two Prong Crown) (4:37)
-4. Station Man (5:52)
-5. Jewel Eyed Judy (3:19)
-6. Tell Me All The Things You Do (4:15)
-7. Future Games (8:14)
-8. Sands Of Time (Single Version) (3:03)
-9. Sunny Side Of Heaven (3:11)
-10. Bare Trees (5:05)
-11. Sentimental Lady (4:36)
-12. Spare Me A Little Of Your Love (3:48)
-13. Remember Me (2:41)
-14. Did You Ever Love Me (3:39)
-15. Emerald Eyes (3:35)
-16. Hypnotized (4:49)
-17. Heroes Are Hard To Find (3:35)
-18. Angel (3:55)
-19. Prove Your Love (3:57)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Oh Well (Part 1) | 3:22 |
+| A2 | Rattlesnake Shake | 3:29 |
+| A3 | The Green Manalishi (With The Two Prong Crown) | 4:37 |
+| A4 | Station Man | 5:52 |
+| A5 | Jewel Eyed Judy | 3:19 |
+| B1 | Tell Me All The Things You Do | 4:15 |
+| B2 | Future Games | 8:14 |
+| B3 | Sands Of Time (Single Version) | 3:03 |
+| B4 | Sunny Side Of Heaven | 3:11 |
+| C1 | Bare Trees | 5:05 |
+| C2 | Sentimental Lady | 4:36 |
+| C3 | Spare Me A Little Of Your Love | 3:48 |
+| C4 | Remember Me | 2:41 |
+| C5 | Did You Ever Love Me | 3:39 |
+| D1 | Emerald Eyes | 3:35 |
+| D2 | Hypnotized | 4:49 |
+| D3 | Heroes Are Hard To Find | 3:35 |
+| D4 | Angel | 3:55 |
+| D5 | Prove Your Love | 3:57 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/best-of-1969-1974/1758792628" >}}<br>
-
 
 
 

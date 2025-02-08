@@ -38,39 +38,26 @@ In the UK, it was the first Aerosmith album to attain both Silver (60,000 units 
 
 
 ## Tracklisting
-1. Heart's Done Time (4:42)
-2. Magic Touch (4:40)
-3. Rag Doll (4:21)
-4. Simoriah (3:21)
-5. Dude (Looks Like A Lady) (4:23)
-6. St. John (4:12)
-7. Hangman Jury (5:33)
-8. Girl Keeps Coming Apart (4:12)
-9. Angel (5:10)
-10. Permanent Vacation (4:52)
-11. I'm Down (2:20)
-12. The Movie (4:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Heart's Done Time | 4:42 |
+| A2 | Magic Touch | 4:40 |
+| A3 | Rag Doll | 4:21 |
+| A4 | Simoriah | 3:21 |
+| A5 | Dude (Looks Like A Lady) | 4:23 |
+| A6 | St. John | 4:12 |
+| B1 | Hangman Jury | 5:33 |
+| B2 | Girl Keeps Coming Apart | 4:12 |
+| B3 | Angel | 5:10 |
+| B4 | Permanent Vacation | 4:52 |
+| B5 | I'm Down | 2:20 |
+| B6 | The Movie | 4:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/permanent-vacation/1440823323" >}}<br>
 
 
-## Videos
-### Aerosmith  Permanent Vacation
-{{< youtube id="VvjPlwT8g5M" title="Aerosmith  Permanent Vacation" >}}<br>
-### More Videos
-
-- [Aerosmith  The Movie](https://www.youtube.com/watch?v=Hvh54NV4f_I)
-- [Aerosmith  Angel](https://www.youtube.com/watch?v=aTiATfN7FsQ)
-- [Aerosmith  Hearts Done Time](https://www.youtube.com/watch?v=CZFfXeDTLCg)
-- [Aerosmith  Girl Keeps Coming Apart](https://www.youtube.com/watch?v=W53vBZIy0lc)
-- [Aerosmith  St John](https://www.youtube.com/watch?v=zvSKkBn_GfU)
-- [Aerosmith  Rag Doll](https://www.youtube.com/watch?v=a3XVTd8CIiU)
-- [Aerosmith  Dude Looks Like A Lady](https://www.youtube.com/watch?v=0aYu9nqOdso)
-- [Aerosmith  Hangman Jury](https://www.youtube.com/watch?v=gFg2yrc7pgo)
-- [Aerosmith  Simoriah](https://www.youtube.com/watch?v=ipGG0Lxw4DA)
-- [Aerosmith  Im Down](https://www.youtube.com/watch?v=BMx1aVr4gNo)
-- [Aerosmith  Magic Touch](https://www.youtube.com/watch?v=A5TZ7bUkBVM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +69,5 @@ In the UK, it was the first Aerosmith album to attain both Silver (60,000 units 
 | Format         | Vinyl LP Album Limited Edition Reissue (Red/Black Marbled) |
 | Label          | Geffen Records |
 | Catalog Number | 00602547954374 |
-| Notes | Recorded at Little Mountain Sound Studios, Vancouver, B.C., Canada Originally mastered at Sterling Sound  ℗ 1987 © 2016 Geffen Records Universal International Music B.V. Gerrit Van Der Veenlaan Made in EU  Issued with a printed inner sleeve.  Runouts are stamped.  |
+| Notes | Recorded at Little Mountain Sound Studios, Vancouver, B.C., Canada<br>Originally mastered at Sterling Sound<br><br>℗ 1987 © 2016 Geffen Records<br>Universal International Music B.V. Gerrit Van Der Veenlaan<br>Made in EU<br><br>Issued with a printed inner sleeve.<br><br>Runouts are stamped.<br> |
 | Discogs URL    | [Aerosmith - Permanent Vacation](https://www.discogs.com/release/13639079-Aerosmith-Permanent-Vacation) |

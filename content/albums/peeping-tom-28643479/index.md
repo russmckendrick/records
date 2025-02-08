@@ -1,9 +1,10 @@
 ---
 title: "Peeping Tom - Peeping Tom"
 artist_name: "Peeping Tom"
-artist: "peeping-tom-3"
+artist: "peeping-tom"
 album_name: "Peeping Tom"
 date: 2023-11-10T11:13:37.000000Z
+release_date: "2024-03-25"
 release_id: "28643479"
 slug: "peeping-tom-28643479"
 hideSummary: true
@@ -25,46 +26,31 @@ styles: ["Alternative Rock", "Abstract"]
 ---
 
 Peeping Tom is the only studio album by American band Peeping Tom. It was released by Ipecac Recordings on May 30, 2006. It peaked at number 103 on the Billboard 200 chart.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Five Seconds (4:20)
-2. Mojo (3:40)
-3. Don't Even Trip (5:46)
-4. Getaway (3:22)
-5. Your Neighborhood Spaceman (5:45)
-6. Kill The DJ (4:09)
-7. Caipirinha (2:46)
-8. Celebrity Death Match (3:42)
-9. How U Feelin? (2:44)
-10. Sucker (2:33)
-11. We're Not Alone (Remix) (5:10)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Five Seconds | 4:20 |
+| A2 | Mojo | 3:40 |
+| A3 | Don't Even Trip | 5:46 |
+| A4 | Getaway | 3:22 |
+| A5 | Your Neighborhood Spaceman | 5:45 |
+| B1 | Kill The DJ | 4:09 |
+| B2 | Caipirinha | 2:46 |
+| B3 | Celebrity Death Match | 3:42 |
+| B4 | How U Feelin? | 2:44 |
+| B5 | Sucker | 2:33 |
+| B6 | We're Not Alone (Remix) | 5:10 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peeping-tom-single/1732545588" >}}<br>
 
 
-## Videos
-### Five Seconds feat Odd Nosdam
-{{< youtube id="Bz9Ez78Hnd8" title="Five Seconds feat Odd Nosdam" >}}<br>
-### More Videos
-
-- [Mojo feat Rahzel  Dan the Automator](https://www.youtube.com/watch?v=nPCCK9rpKQ4)
-- [Dont Even Trip feat Amon Tobin](https://www.youtube.com/watch?v=9xrADyR6I2c)
-- [Getaway feat Kool Keith](https://www.youtube.com/watch?v=rqnQM9Wq7Lw)
-- [Your Neighborhood Spaceman feat Jel  Odd Nosdam](https://www.youtube.com/watch?v=PBy509Q86ew)
-- [Kill the DJ feat Massive Attack](https://www.youtube.com/watch?v=kpGpI-jrkp0)
-- [Caipirinha feat Bebel Gilberto](https://www.youtube.com/watch?v=pSj4qm6wdOk)
-- [Celebrity Death Match feat Kid Koala](https://www.youtube.com/watch?v=o15N0AQgdyY)
-- [How U Feelin feat Doseone](https://www.youtube.com/watch?v=LtpVcDb94Ts)
-- [Sucker feat Norah Jones](https://www.youtube.com/watch?v=pHJ7xXlsnkk)
-- [Were Not Alone - Remix feat Dub Trio](https://www.youtube.com/watch?v=6CJjWVQJVeY)
-- [Mojo](https://www.youtube.com/watch?v=iiVwuTxvZHQ)
-- [Peeping Tom Pre-School Love Affair](https://www.youtube.com/watch?v=p0afn-HM9cY)
-- [Peeping Tom - 02 - Mojo Feat Rahzel  Dan The Automator](https://www.youtube.com/watch?v=WB17RP2vmLY)
-- [Vinyl Unboxing PEEPING TOM - Peeping Tom Ipecac Records 2023 Newbury Comics Exclusive](https://www.youtube.com/watch?v=_BsZa9IHmcQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +62,5 @@ Peeping Tom is the only studio album by American band Peeping Tom. It was releas
 | Format         | Vinyl LP Album Reissue (Tan) |
 | Label          | Ipecac Recordings |
 | Catalog Number | IPC258LP2 |
-| Notes | 2023 Reissue Indie Exclusive Tan Vinyl Die-Cut sleeve Includes Hype Sticker On Front  Back sleeve uses CD image which is incorrect for LP, Kill the DJ is track B1, not A6 as suggested by back cover.  |
+| Notes | 2023 Reissue<br>Indie Exclusive Tan Vinyl<br>Die-Cut sleeve<br>Includes Hype Sticker On Front<br><br>Back sleeve uses CD image which is incorrect for LP, Kill the DJ is track B1, not A6 as suggested by back cover.<br> |
 | Discogs URL    | [Peeping Tom - Peeping Tom](https://www.discogs.com/release/28643479-Peeping-Tom-3-Peeping-Tom) |

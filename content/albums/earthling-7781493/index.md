@@ -4,6 +4,7 @@ artist_name: "David Bowie"
 artist: "david-bowie"
 album_name: "Earthling"
 date: 2016-02-24T13:03:45.000000Z
+release_date: "1997-02-03"
 release_id: "7781493"
 slug: "earthling-7781493"
 hideSummary: true
@@ -30,32 +31,29 @@ Developing musical styles previously explored on Outside (1995), Earthling showc
 Earthling charted better than its predecessor and reached the top ten in several countries. Its accompanying singles featured numerous remixes and were supported with music videos. Bowie promoted the album through television appearances and on the Earthling Tour in 1997. Although the album was mostly received positively on release, later reviews find Earthling lacked innovation in a time when the drum and bass craze was well-established; others consider it a worthwhile addition to an underrated decade. It was reissued with bonus tracks in 2004 and remastered in 2021 for inclusion on the box set Brilliant Adventure (1992–2001).
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Little Wonder
-2. Looking For Satellites
-3. Battle For Britain (The Letter)
-4. Seven Years In Tibet
-5. Dead Man Walking
-6. Telling Lies
-7. The Last Thing You Should Do
-8. I'm Afraid Of Americans
-9. Law (Earthlings On Fire)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Little Wonder |  |
+| A2 | Looking For Satellites |  |
+| A3 | Battle For Britain (The Letter) |  |
+| A4 | Seven Years In Tibet |  |
+| B1 | Dead Man Walking |  |
+| B2 | Telling Lies |  |
+| B3 | The Last Thing You Should Do |  |
+| B4 | I'm Afraid Of Americans |  |
+| B5 | Law (Earthlings On Fire) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/earthling/1053944724" >}}<br>
 
 
-## Videos
-### David Bowie - Seven Years In Tibet Official Music Video HD Upgrade
-{{< youtube id="uJgZggr9ZRI" title="David Bowie - Seven Years In Tibet Official Music Video HD Upgrade" >}}<br>
-### More Videos
-
-- [DAVID BOWIE - TELLING LIES - LIVE LORELEY 1996 - HQ](https://www.youtube.com/watch?v=A6yuPt_qE4Q)
-- [David Bowie - Im Afraid of Americans Official Music Video 4K Upgrade](https://www.youtube.com/watch?v=LT3cERVRoQo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +65,5 @@ Earthling charted better than its predecessor and reached the top ten in several
 | Format         | Vinyl LP Album Record Store Day Reissue (Green, 180g) |
 | Label          | ISO Records |
 | Catalog Number | FRM-42627 |
-| Notes | Black Friday Record Store Day 2015 release in Tri-fold Sleeve limited to 2000.  Recorded at Looking Glass Studios Mixed at Right Track Originally mastered at Gateway Mastering Studios Inc. Portland, Maine (Re)Mastered at Friday Music Studios, Surf City, CA & Capitol Mastering, Hollywood, CA  © 1997, 2015 ISO Records/Risky Folio, Inc. made under license to Sony Music Entertainment ℗ 1997 ISO Records/Risky Folio, Inc. made under license to Sony Music Entertainment  Title is written as "EART HL I NG" on the cover.  Premium Vinyl Pressing HQ-180 RTI   ISO/COLUMBIA STEREO/ FRIDAY MUSIC 180 GRAM AUDIOPHILE VINYL on spine  |
+| Notes | Black Friday Record Store Day 2015 release in Tri-fold Sleeve limited to 2000.<br><br>Recorded at Looking Glass Studios<br>Mixed at Right Track<br>Originally mastered at Gateway Mastering Studios Inc. Portland, Maine<br>(Re)Mastered at Friday Music Studios, Surf City, CA & Capitol Mastering, Hollywood, CA<br><br>© 1997, 2015 ISO Records/Risky Folio, Inc. made under license to Sony Music Entertainment<br>℗ 1997 ISO Records/Risky Folio, Inc. made under license to Sony Music Entertainment<br><br>Title is written as "EART HL I NG" on the cover.<br><br>Premium Vinyl Pressing HQ-180 RTI <br><br>ISO/COLUMBIA STEREO/ FRIDAY MUSIC 180 GRAM AUDIOPHILE VINYL on spine<br> |
 | Discogs URL    | [David Bowie - Earthling](https://www.discogs.com/release/7781493-David-Bowie-Earthling) |

@@ -36,43 +36,28 @@ For as otherworldly as the final moments and last gasp of Lead Belly’s “Wher
 
 
 ## Tracklisting
-1. About A Girl (3:37)
-2. Come As You Are (4:14)
-3. Jesus Doesn't Want Me For A Sunbeam (4:37)
-4. The Man Who Sold The World (4:20)
-5. Pennyroyal Tea (3:40)
-6. Dumb (2:52)
-7. Polly (3:16)
-8. On A Plain (3:44)
-9. Something In The Way (4:01)
-10. Plateau (3:38)
-11. Oh Me (3:26)
-12. Lake Of Fire (2:55)
-13. All Apologies (4:23)
-14. Where Did You Sleep Last Night (5:07)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | About A Girl | 3:37 |
+| A2 | Come As You Are | 4:14 |
+| A3 | Jesus Doesn't Want Me For A Sunbeam | 4:37 |
+| A4 | The Man Who Sold The World | 4:20 |
+| A5 | Pennyroyal Tea | 3:40 |
+| A6 | Dumb | 2:52 |
+| A7 | Polly | 3:16 |
+| B1 | On A Plain | 3:44 |
+| B2 | Something In The Way | 4:01 |
+| B3 | Plateau | 3:38 |
+| B4 | Oh Me | 3:26 |
+| B5 | Lake Of Fire | 2:55 |
+| B6 | All Apologies | 4:23 |
+| B7 | Where Did You Sleep Last Night | 5:07 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mtv-unplugged-in-new-york-live-acoustic/1440892370" >}}<br>
 
 
-## Videos
-### Nirvana - About A Girl Live On MTV Unplugged 1993  Unedited
-{{< youtube id="_24pJQUj7zg" title="Nirvana - About A Girl Live On MTV Unplugged 1993  Unedited" >}}<br>
-### More Videos
-
-- [Nirvana - Come As You Are Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=z9LiPuVRyU8)
-- [Nirvana - Jesus Doesnt Want Me For A Sunbeam Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=bVjeYbRmkQ4)
-- [Nirvana - The Man Who Sold The World Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=OgeR2oqZGTs)
-- [Nirvana - Pennyroyal Tea Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=4dcIPGzxsl8)
-- [Nirvana - Dumb Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=GtBhclCigH0)
-- [Nirvana - Polly Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=3H0NHHKBemg)
-- [Nirvana - On A Plain Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=80B_yiN2FH8)
-- [Nirvana - Something In The Way Live On MTV Unplugged Unedited 1993](https://www.youtube.com/watch?v=1YhR5UfaAzM)
-- [Nirvana - Plateau Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=Sj8UbmdV7bk)
-- [Nirvana - Oh Me Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=T5LtSKKr7oY)
-- [Nirvana - Lake Of Fire Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=d4LdUQzCPPM)
-- [Nirvana - All Apologies Live On MTV Unplugged 1993  Unedited](https://www.youtube.com/watch?v=-BsB8A3Todo)
-- [Nirvana - Where Did You Sleep Last Night Live On MTV Unplugged Unedited](https://www.youtube.com/watch?v=hEMm7gxBYSc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +69,5 @@ For as otherworldly as the final moments and last gasp of Lead Belly’s “Wher
 | Format         | Vinyl LP Album Reissue Repress (180 Gram) |
 | Label          | Geffen Records |
 | Catalog Number | 0720642472712 |
-| Notes | Recorded for MTV's "Unplugged" at Sony Studios, New York, NY on November 18, 1993.  All Songs Published by EMI-Virgin Songs, Inc./The End Of Music BMI except "Jesus Doesn't Want Me For A Sunbeam" Published by EMI-Blackwood Music Inc. on behalf of EMI Music Publishing Ltd./Complete Music Ltd. Administered by Incomplete Music Inc. BMI, "The Man Who Sold The World" Published by Tintoretto Music/Screen Gems-EMI/Chrysalis Songs BMI, "Oh Me", "Plateau" and "Lake Of Fire" Published by Meat Puppets Music BMI and "Where Did You Sleep Last Night" Published by Folkways Music Publishers, Inc. BMI Curt Kirkwood and Cris Kirkwood appear Courtesy of London Records.  ℗ 1994 Geffen Records, Inc. an MCA Company © 1994 Geffen Records, Inc. an MCA Company. Made in the EU.   2008 repress on 180g vinyl. Part of the "Back To Black" Vinyl Reissue Series by Universal Records for the 60th Vinyl Anniversary.  Includes a voucher to download MP3 version of the album & Back to Black sticker on the outside  The runouts are stamped. |
+| Notes | Recorded for MTV's "Unplugged" at Sony Studios, New York, NY on November 18, 1993.<br><br>All Songs Published by EMI-Virgin Songs, Inc./The End Of Music BMI except "Jesus Doesn't Want Me For A Sunbeam" Published by EMI-Blackwood Music Inc. on behalf of EMI Music Publishing Ltd./Complete Music Ltd. Administered by Incomplete Music Inc. BMI, "The Man Who Sold The World" Published by Tintoretto Music/Screen Gems-EMI/Chrysalis Songs BMI, "Oh Me", "Plateau" and "Lake Of Fire" Published by Meat Puppets Music BMI and "Where Did You Sleep Last Night" Published by Folkways Music Publishers, Inc. BMI<br>Curt Kirkwood and Cris Kirkwood appear Courtesy of London Records.<br><br>℗ 1994 Geffen Records, Inc. an MCA Company<br>© 1994 Geffen Records, Inc. an MCA Company.<br>Made in the EU. <br><br>2008 repress on 180g vinyl. Part of the "Back To Black" Vinyl Reissue Series by Universal Records for the 60th Vinyl Anniversary.<br><br>Includes a voucher to download MP3 version of the album & Back to Black sticker on the outside<br><br>The runouts are stamped. |
 | Discogs URL    | [Nirvana - MTV Unplugged In New York](https://www.discogs.com/release/1901246-Nirvana-MTV-Unplugged-In-New-York) |

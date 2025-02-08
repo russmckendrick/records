@@ -43,41 +43,34 @@ Permanent Waves received a mostly positive reception from critics and became the
 
 
 ## Tracklisting
-1. Original Album
-2. The Spirit Of Radio (4:54)
-3. Freewill (5:22)
-4. Jacob's Ladder (7:50)
-5. Entre Nous (4:37)
-6. Different Strings (3:50)
-7. Natural Science (9:20)
-8. Permanent Waves World Tour 1980
-9. Beneath, Between & Behind (Live In Manchester)
-10. By-Tor & The Snow Dog (Live In London)
-11. Xanadu (Live In London)
-12. The Spirit Of Radio (Live in Manchester)
-13. Natural Science (Live In Manchester)
-14. A Passage To Bangkok (Live In Manchester)
-15. The Trees (Live In Manchester)
-16. Cygnus X-1 (Live In London)
-17. Cygnus X-1 Book II (Live In London)
-18. Closer To The Heart (Live In Manchester)
-19. Jacob’s Ladder (Live In Missouri)
-20. Freewill (Live In London)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Original Album |  |
+| A1 | The Spirit Of Radio | 4:54 |
+| A2 | Freewill | 5:22 |
+| A3 | Jacob's Ladder | 7:50 |
+| B1 | Entre Nous | 4:37 |
+| B2 | Different Strings | 3:50 |
+| B3 | Natural Science | 9:20 |
+|  | Permanent Waves World Tour 1980 |  |
+| C1 | Beneath, Between & Behind (Live In Manchester) |  |
+| C2 | By-Tor & The Snow Dog (Live In London) |  |
+| C3 | Xanadu (Live In London) |  |
+| D1 | The Spirit Of Radio (Live in Manchester) |  |
+| D2 | Natural Science (Live In Manchester) |  |
+| D3 | A Passage To Bangkok (Live In Manchester) |  |
+| D4 | The Trees (Live In Manchester) |  |
+| E1 | Cygnus X-1 (Live In London) |  |
+| E2 | Cygnus X-1 Book II (Live In London) |  |
+| F1 | Closer To The Heart (Live In Manchester) |  |
+| F2 | Jacob’s Ladder (Live In Missouri) |  |
+| F3 | Freewill (Live In London) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/permanent-waves-remastered/1440782947" >}}<br>
 
 
-## Videos
-### The Spirit of Radio
-{{< youtube id="ws2hOsgrLVA" title="The Spirit of Radio" >}}<br>
-### More Videos
-
-- [Freewill](https://www.youtube.com/watch?v=63idB8aNRPo)
-- [Jacobs Ladder](https://www.youtube.com/watch?v=yYCOTJUwzr8)
-- [Entre Nous](https://www.youtube.com/watch?v=C4iF_AOaPhA)
-- [Different Strings](https://www.youtube.com/watch?v=sQfOpWvtQlA)
-- [Natural Science](https://www.youtube.com/watch?v=JXeb5jpdMds)
 
 ## Release Images
 {{< imageGrid >}}
@@ -89,5 +82,5 @@ Permanent Waves received a mostly positive reception from critics and became the
 | Format         | Vinyl 3× LP Album Reissue Remastered, All Media Deluxe Edition |
 | Label          | Mercury |
 | Catalog Number | 00602508607257 |
-| Notes | Slipcase packing containing: - Permanent Waves Album  - Single cover with printed insert - Permanent Waves World Tour 1980 - Gatefold cover - LP sized softcover booklet  Sticker on shrink wrap: 40th Anniversary Edition 3LPS - 180-Gram AudioPhile Vinyl Original Album + Permanent Waves World Tour 1980 12 Unreleased Live Performances Designed By Hugh Syme With Unreleased Illustrations And Photos |
+| Notes | Slipcase packing containing:<br>- Permanent Waves Album  - Single cover with printed insert<br>- Permanent Waves World Tour 1980 - Gatefold cover<br>- LP sized softcover booklet<br><br>Sticker on shrink wrap:<br>40th Anniversary Edition<br>3LPS - 180-Gram AudioPhile Vinyl<br>Original Album + Permanent Waves World Tour 1980<br>12 Unreleased Live Performances<br>Designed By Hugh Syme<br>With Unreleased Illustrations And Photos |
 | Discogs URL    | [Rush - Permanent Waves](https://www.discogs.com/release/15405283-Rush-Permanent-Waves) |

@@ -33,36 +33,25 @@ It’s a record that sees Kiwanuka glancing back to his youth, reflecting on dou
 
 
 ## Tracklisting
-1. Floating Parade
-2. Small Changes
-3. One And Only
-4. Rebel Soul
-5. Lowdown (Part i)
-6. Lowdown (Part ii)
-7. Follow Your Dreams
-8. Live For Your Love
-9. Stay By My Side
-10. The Rest Of Me
-11. Four Long Years
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Floating Parade |  |
+| A2 | Small Changes |  |
+| A3 | One And Only |  |
+| A4 | Rebel Soul |  |
+| A5 | Lowdown (Part i) |  |
+| A6 | Lowdown (Part ii) |  |
+| B1 | Follow Your Dreams |  |
+| B2 | Live For Your Love |  |
+| B3 | Stay By My Side |  |
+| B4 | The Rest Of Me |  |
+| B5 | Four Long Years |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/small-changes/1765573122" >}}<br>
 
 
-## Videos
-### Michael Kiwanuka - Floating Parade Official Lyric Video
-{{< youtube id="UCTICm5oOxg" title="Michael Kiwanuka - Floating Parade Official Lyric Video" >}}<br>
-### More Videos
-
-- [Small Changes](https://www.youtube.com/watch?v=-4lokXVNLhU)
-- [One And Only](https://www.youtube.com/watch?v=BgbIMUGFfFM)
-- [Rebel Soul](https://www.youtube.com/watch?v=csFchOd8FVU)
-- [Michael Kiwanuka - Lowdown parts i and ii](https://www.youtube.com/watch?v=agx-kVgC3sg)
-- [Follow Your Dreams](https://www.youtube.com/watch?v=SlPB0IBIDc0)
-- [Live For Your Love](https://www.youtube.com/watch?v=yjM_NA7Kzfs)
-- [Stay By My Side](https://www.youtube.com/watch?v=qCzHJ4R87Xc)
-- [The Rest Of Me](https://www.youtube.com/watch?v=nNAo1tnABqY)
-- [Four Long Years](https://www.youtube.com/watch?v=BusZjcKbH5w)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +63,5 @@ It’s a record that sees Kiwanuka glancing back to his youth, reflecting on dou
 | Format         | Vinyl LP Limited Edition (White and Black Marbled) |
 | Label          | Polydor |
 | Catalog Number | 6590614 |
-| Notes | Rough Trade Exclusive White and Black Marbled Limited to 1500 copies 180 Gram Vinyl Housed in Gatefold Sleeve with Full Size 12 Page Booklet. |
+| Notes | Rough Trade Exclusive<br>White and Black Marbled<br>Limited to 1500 copies<br>180 Gram Vinyl Housed in Gatefold Sleeve with Full Size 12 Page Booklet. |
 | Discogs URL    | [Michael Kiwanuka - Small Changes](https://www.discogs.com/release/32384205-Michael-Kiwanuka-Small-Changes) |

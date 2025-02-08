@@ -4,6 +4,7 @@ artist_name: "Howard Jones"
 artist: "howard-jones"
 album_name: "Dream Into Action"
 date: 2018-11-29T12:45:46.000000Z
+release_date: "1985-03-11"
 release_id: "5710031"
 slug: "dream-into-action-5710031"
 hideSummary: true
@@ -26,59 +27,32 @@ Dream into Action is the second studio album by British pop musician Howard Jone
 The album contains the hit singles "Things Can Only Get Better" (UK No. 6, US No. 5), "Look Mama" (UK No. 10) and "Life in One Day" (UK No. 14, US No. 19). Additionally, the track "No One Is to Blame" was re-recorded in a new arrangement for single release, reaching No. 16 in the UK and No. 4 in the US in 1986 and was included on a later second European pressing of the album. The 1984 single "Like to Get to Know You Well" (UK No. 4) was included on the album's CD reissue (and is also on the US version of the vinyl album). A world tour accompanied the album's original release with Jones playing Wembley Arena and the O2 Academy Birmingham in the UK, and arena-size venues in the US, Europe and Japan. In 2010, a remastered edition of the album was issued alongside Jones' debut album Human's Lib.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Things Can Only Get Better (3:56)
-2. Life In One Day (3:40)
-3. Dream Into Action (3:46)
-4. No One Is To Blame (3:29)
-5. Look Mama (4:03)
-6. Assault And Battery (4:52)
-7. Automaton (4:04)
-8. Is There A Difference? (3:33)
-9. Elegy (4:22)
-10. Specialty (3:58)
-11. Why Look For The Key? (3:23)
-12. Hunger For The Flesh (3:59)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Things Can Only Get Better | 3:56 |
+| A2 | Life In One Day | 3:40 |
+| A3 | Dream Into Action | 3:46 |
+| A4 | No One Is To Blame | 3:29 |
+| A5 | Look Mama | 4:03 |
+| A6 | Assault And Battery | 4:52 |
+| B1 | Automaton | 4:04 |
+| B2 | Is There A Difference? | 3:33 |
+| B3 | Elegy | 4:22 |
+| B4 | Specialty | 3:58 |
+| B5 | Why Look For The Key? | 3:23 |
+| B6 | Hunger For The Flesh | 3:59 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dream-into-action/1760579324" >}}<br>
 
 
-## Videos
-### Life in One Day Pt 1 2018 Remaster
-{{< youtube id="dzI32uP4VeA" title="Life in One Day Pt 1 2018 Remaster" >}}<br>
-### More Videos
-
-- [Dream Into Action 2018 Remaster](https://www.youtube.com/watch?v=YZ_PIs_aqCA)
-- [Howard Jones - No One Is To Blame](https://www.youtube.com/watch?v=pekhxxngQ3s)
-- [Howard Jones Look Mama](https://www.youtube.com/watch?v=V7kBThjwQ1c)
-- [Assault and Battery 2018 Remaster](https://www.youtube.com/watch?v=kvGPHPBigCE)
-- [Automaton 2018 Remaster](https://www.youtube.com/watch?v=NKjJtONCJTQ)
-- [Is There a Difference 2018 Remaster](https://www.youtube.com/watch?v=GDErX-c1sk0)
-- [Elegy 2018 Remaster](https://www.youtube.com/watch?v=ZRNyksTuJvs)
-- [Specialty 2018 Remaster](https://www.youtube.com/watch?v=_WRU1DI_WAc)
-- [Why Look for the Key 2018 Remaster](https://www.youtube.com/watch?v=yjemLgOCVJg)
-- [Hunger for the Flesh 2018 Remaster](https://www.youtube.com/watch?v=SMdZKJD_atc)
-- [Howard Jones - Things Can Only Get Better Remastered Video 1985](https://www.youtube.com/watch?v=woWvClE6yHE)
-- [Life in One Day Pt 1 2018 Remaster](https://www.youtube.com/watch?v=dzI32uP4VeA)
-- [Dream Into Action 2018 Remaster](https://www.youtube.com/watch?v=YZ_PIs_aqCA)
-- [Howard Jones - No One Is To Blame](https://www.youtube.com/watch?v=pekhxxngQ3s)
-- [Howard Jones Look Mama](https://www.youtube.com/watch?v=V7kBThjwQ1c)
-- [Assault and Battery 2018 Remaster](https://www.youtube.com/watch?v=kvGPHPBigCE)
-- [Automaton 2018 Remaster](https://www.youtube.com/watch?v=NKjJtONCJTQ)
-- [Is There a Difference 2018 Remaster](https://www.youtube.com/watch?v=GDErX-c1sk0)
-- [Elegy 2018 Remaster](https://www.youtube.com/watch?v=ZRNyksTuJvs)
-- [Specialty 2018 Remaster](https://www.youtube.com/watch?v=_WRU1DI_WAc)
-- [Why Look for the Key 2018 Remaster](https://www.youtube.com/watch?v=yjemLgOCVJg)
-- [Hunger for the Flesh 2018 Remaster](https://www.youtube.com/watch?v=SMdZKJD_atc)
-- [Howard Jones - Things Can Only Get Better Remastered Video 1985](https://www.youtube.com/watch?v=woWvClE6yHE)
-- [HOWARD JONES - NO ONE IS TO BLAME 1986](https://www.youtube.com/watch?v=1DZuEFbH1Yk)
-- [No One Is to Blame Single Mix](https://www.youtube.com/watch?v=IZks4NLXeqw)
-- [Howard Jones - No One Is To Blame Lyrics](https://www.youtube.com/watch?v=O_ZjjBXxhqM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -90,5 +64,5 @@ The album contains the hit singles "Things Can Only Get Better" (UK No. 6, US No
 | Format         | Vinyl LP Album |
 | Label          | WEA |
 | Catalog Number | WX 15 |
-| Notes | Inner sleeve: lyrics, credits, artwork Some copies may have a sticker about contents on the sleeve front (see images).  LP was reissued in 1986, [r=1844744], with the single version of "No One Is To Blame" replacing the original album version. Catalogue numbers for both versions are identical.  ℗ & © 1985 WEA Records Ltd Manufactured in Germany by Record Service GmbH, Alsdorf.  UK only issue with no rights society credits on the labels.   |
+| Notes | Inner sleeve: lyrics, credits, artwork<br>Some copies may have a sticker about contents on the sleeve front (see images).<br><br>LP was reissued in 1986, [r=1844744], with the single version of "No One Is To Blame" replacing the original album version. Catalogue numbers for both versions are identical.<br><br>℗ & © 1985 WEA Records Ltd<br>Manufactured in Germany by Record Service GmbH, Alsdorf.<br><br>UK only issue with no rights society credits on the labels.<br><br> |
 | Discogs URL    | [Howard Jones - Dream Into Action](https://www.discogs.com/release/5710031-Howard-Jones-Dream-Into-Action) |

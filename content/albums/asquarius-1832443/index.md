@@ -4,6 +4,7 @@ artist_name: "Cud"
 artist: "cud"
 album_name: "Asquarius"
 date: 2017-05-19T14:22:56.000000Z
+release_date: "2007-01-01"
 release_id: "1832443"
 slug: "asquarius-1832443"
 hideSummary: true
@@ -25,37 +26,32 @@ styles: ["Indie Rock"]
 ---
 
 Asquarius (1992) is the third studio album released by the Leeds-based indie rock band Cud which reached number 30 in the UK album chart. Q magazine included it in their 1998 issue as part of their essential dozen Britpop records to have in your collection. The album was reissued in 2007 in expanded form. The album was recorded at Woodlands in Castleford, except for "Possession", which was recorded at Woodhouse in Leeds in January 1992. Mixing took place at Jacobs in Farnham, and Metropolis in London in February 1992. The recordings were mainly produced by Jon Langford, except for "Possession", which was produced by Dave Creffield; the latter served as engineer throughout the sessions, with assistance from Neil Amor.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Rich And Strange (3:39)
-2. Easy (2:45)
-3. Sometimes Rightly, Sometimes Wrongly (3:10)
-4. Spanish Love Song (3:26)
-5. Magic Alex (4:16)
-6. Beyond Hair (3:11)
-7. Pink Flamingo (3:51)
-8. Possession (3:42)
-9. Through The Roof (3:59)
-10. Soul Food (2:55)
-11. Once Again (5:07)
-12. No Smoking (3:29)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rich And Strange | 3:39 |
+| A2 | Easy | 2:45 |
+| A3 | Sometimes Rightly, Sometimes Wrongly | 3:10 |
+| A4 | Spanish Love Song | 3:26 |
+| A5 | Magic Alex | 4:16 |
+| A6 | Beyond Hair | 3:11 |
+| B1 | Pink Flamingo | 3:51 |
+| B2 | Possession | 3:42 |
+| B3 | Through The Roof | 3:59 |
+| B4 | Soul Food | 2:55 |
+| B5 | Once Again | 5:07 |
+| B6 | No Smoking | 3:29 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/asquarius-reissue-expanded/1443220829" >}}<br>
 
 
-## Videos
-### CUD - Rich and Strange 1992
-{{< youtube id="D7ikmVbr8J8" title="CUD - Rich and Strange 1992" >}}<br>
-### More Videos
-
-- [CUD - Rich and Strange 1992](https://www.youtube.com/watch?v=D7ikmVbr8J8)
-- [CUD - Magic Alex](https://www.youtube.com/watch?v=wvU4gaoeozk)
-- [CUD - Beyond Hair](https://www.youtube.com/watch?v=FYJUxY4Pa7Q)
-- [Cud - Spanish Love Song](https://www.youtube.com/watch?v=hC2vQwuvr5o)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +63,5 @@ Asquarius (1992) is the third studio album released by the Leeds-based indie roc
 | Format         | Vinyl LP Album Limited Edition Numbered Stereo |
 | Label          | A&M Records |
 | Catalog Number | 395 390-1 |
-| Notes | A numbered sticker on the sleeve reads: "Limited Edition of 5,000 contains free 'Asquarius' poster designed by Philip Bond, Glyn Dillon and Jamie Hewlett".  Issued in a 'flipback' outer sleeve and a printed inner sleeve.  Recorded at Woodlands, Castleford, Yorkshire, except Possession (B2) recorded at Woodhouse, Leeds - January '92. Mixed at Jacobs, Farnham, Surrey and Metropolis, London - February '92.  ℗ 1992 A&M Records Ltd. London © 1992 A&M Records Ltd. London  Made in England. |
+| Notes | A numbered sticker on the sleeve reads: "Limited Edition of 5,000 contains free 'Asquarius' poster designed by Philip Bond, Glyn Dillon and Jamie Hewlett".<br><br>Issued in a 'flipback' outer sleeve and a printed inner sleeve.<br><br>Recorded at Woodlands, Castleford, Yorkshire, except Possession (B2) recorded at Woodhouse, Leeds - January '92.<br>Mixed at Jacobs, Farnham, Surrey and Metropolis, London - February '92.<br><br>℗ 1992 A&M Records Ltd. London<br>© 1992 A&M Records Ltd. London<br><br>Made in England. |
 | Discogs URL    | [Cud - Asquarius](https://www.discogs.com/release/1832443-Cud-Asquarius) |

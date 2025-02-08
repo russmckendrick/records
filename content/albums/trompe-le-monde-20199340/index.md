@@ -4,6 +4,7 @@ artist_name: "Pixies"
 artist: "pixies"
 album_name: "Trompe Le Monde"
 date: 2021-09-24T04:03:53.000000Z
+release_date: "1991-09-23"
 release_id: "20199340"
 slug: "trompe-le-monde-20199340"
 hideSummary: true
@@ -26,47 +27,35 @@ styles: ["Alternative Rock"]
 Trompe le Monde is the fourth studio album by the American alternative rock band Pixies, released on September 23, 1991 on 4AD in the United Kingdom and on September 24, 1991, on  Elektra Records in the United States. Recorded in Burbank, California, Paris and London, the album was produced by Gil Norton, and was Pixies' final studio album before their break-up two years later. There would be no Pixies' albums of new material for 23 years after Trompe le Monde.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Trompe Le Monde
-2. Planet Of Sound
-3. Alec Eiffel
-4. The Sad Punk
-5. Head On
-6. U-Mass
-7. Palace Of The Brine
-8. Letter To Memphis
-9. Bird Dream Of The Olympus Mons
-10. Space (I Believe In)
-11. Subbacultcha
-12. Distance Equals Rate Times Time
-13. Lovely Day
-14. Motorway To Roswell
-15. The Navajo Know
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Trompe Le Monde |  |
+| A2 | Planet Of Sound |  |
+| A3 | Alec Eiffel |  |
+| A4 | The Sad Punk |  |
+| A5 | Head On |  |
+| A6 | U-Mass |  |
+| A7 | Palace Of The Brine |  |
+| A8 | Letter To Memphis |  |
+| B1 | Bird Dream Of The Olympus Mons |  |
+| B2 | Space (I Believe In) |  |
+| B3 | Subbacultcha |  |
+| B4 | Distance Equals Rate Times Time |  |
+| B5 | Lovely Day |  |
+| B6 | Motorway To Roswell |  |
+| B7 | The Navajo Know |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/trompe-le-monde/1457604293" >}}<br>
 
 
-## Videos
-### Trompe le Monde
-{{< youtube id="hp7NgLIWCiE" title="Trompe le Monde" >}}<br>
-### More Videos
-
-- [PIXIES - Planet Of Sound Official Lyric Video](https://www.youtube.com/watch?v=TFl4AemxH4g)
-- [PIXIES - Alec Eiffel Official Video](https://www.youtube.com/watch?v=rsMLjaloyvI)
-- [The Sad Punk](https://www.youtube.com/watch?v=zcVpFug2p00)
-- [Head On](https://www.youtube.com/watch?v=oliTZ5hQcjI)
-- [U-Mass](https://www.youtube.com/watch?v=anVauyMv-nE)
-- [Space I Believe In](https://www.youtube.com/watch?v=Xf5mRBPzTQ4)
-- [Subbacultcha](https://www.youtube.com/watch?v=SWYsAbbx0rQ)
-- [Distance Equals Rate Times Time](https://www.youtube.com/watch?v=VpHYy3ZmklM)
-- [Lovely Day](https://www.youtube.com/watch?v=BdVt1IXdGpQ)
-- [Motorway to Roswell](https://www.youtube.com/watch?v=mPzLGTgyAw4)
-- [The Navajo Know](https://www.youtube.com/watch?v=PGjHxjf_les)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +67,5 @@ Trompe le Monde is the fourth studio album by the American alternative rock band
 | Format         | Vinyl LP Album Limited Edition Reissue (Green Marbled, GZ Media Pressing) |
 | Label          | 4AD |
 | Catalog Number | CAD 1014 LP |
-| Notes | 30th Anniversary Edition Has "Made in Czech Republic" printed on the shrink wrap on the rear cover.  Includes a printed inner sleeve.  Recorded at Master Control, Burbank Pacifique, Burbank Studio Des Dames, Paris Blackwing, London Mixed at Master Rock, London  Published by Rice And Beans Music except "Head On" by Warner Chappell Music Ltd.  ℗&© 1991 4.A.D. |
+| Notes | 30th Anniversary Edition<br>Has "Made in Czech Republic" printed on the shrink wrap on the rear cover. <br>Includes a printed inner sleeve.<br><br>Recorded at Master Control, Burbank<br>Pacifique, Burbank<br>Studio Des Dames, Paris<br>Blackwing, London<br>Mixed at Master Rock, London<br><br>Published by Rice And Beans Music except "Head On" by Warner Chappell Music Ltd.<br><br>℗&© 1991 4.A.D. |
 | Discogs URL    | [Pixies - Trompe Le Monde](https://www.discogs.com/release/20199340-Pixies-Trompe-Le-Monde) |

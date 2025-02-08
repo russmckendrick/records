@@ -4,6 +4,7 @@ artist_name: "Thought Forms"
 artist: "thought-forms"
 album_name: "Songs About Drowning"
 date: 2016-11-22T17:48:28.000000Z
+release_date: "2016-11-04"
 release_id: "9222029"
 slug: "songs-about-drowning-9222029"
 hideSummary: true
@@ -26,30 +27,28 @@ styles: ["Noise", "Alternative Rock", "Psychedelic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Forget My Name
-2. Woolf Music
-3. The Bridge
-4. Aeaea
-5. Inland
-6. Missouri
-7. By The Stars
-8. Drawn
-9. The Lake
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Forget My Name |  |
+| A2 | Woolf Music |  |
+| A3 | The Bridge |  |
+| A4 | Aeaea |  |
+| A5 | Inland |  |
+| B1 | Missouri |  |
+| B2 | By The Stars |  |
+| B3 | Drawn |  |
+| B4 | The Lake |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songs-about-drowning/1160347728" >}}<br>
 
 
-## Videos
-### Thought Forms - Woolf Music
-{{< youtube id="20G3LlU4z1A" title="Thought Forms - Woolf Music" >}}<br>
-### More Videos
-
-- [Thought Forms - Forget My Name](https://www.youtube.com/watch?v=wIqml6lLNJw)
-- [Thought Forms - Woolf Music](https://www.youtube.com/watch?v=20G3LlU4z1A)
-- [Thought Forms - Forget My Name](https://www.youtube.com/watch?v=wIqml6lLNJw)
 
 ## Release Images
 {{< imageGrid >}}

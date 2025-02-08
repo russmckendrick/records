@@ -4,6 +4,7 @@ artist_name: "Baxter Dury"
 artist: "baxter-dury"
 album_name: "Prince Of Tears"
 date: 2017-10-28T15:46:15.000000Z
+release_date: "2017-10-27"
 release_id: "11063096"
 slug: "prince-of-tears-11063096"
 hideSummary: true
@@ -24,37 +25,29 @@ styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Miami
-2. Porcelain
-3. Mungo
-4. Listen
-5. Almond Milk
-6. Letter Bomb
-7. Oi
-8. August
-9. Wanna
-10. Prince Of Tears
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Miami |  |
+| A2 | Porcelain |  |
+| A3 | Mungo |  |
+| A4 | Listen |  |
+| A5 | Almond Milk |  |
+| B1 | Letter Bomb |  |
+| B2 | Oi |  |
+| B3 | August |  |
+| B4 | Wanna |  |
+| B5 | Prince Of Tears |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/prince-of-tears/1268762151" >}}<br>
 
 
-## Videos
-### Baxter Dury - Miami
-{{< youtube id="HyILwv1KBT4" title="Baxter Dury - Miami" >}}<br>
-### More Videos
-
-- [Baxter Dury - Porcelain](https://www.youtube.com/watch?v=ijymeAMEEHg)
-- [Baxter Dury - Mungo](https://www.youtube.com/watch?v=nLRdfIB2GLw)
-- [Baxter Dury - Listen](https://www.youtube.com/watch?v=bs_vDiPil2E)
-- [Baxter Dury - Almond Milk](https://www.youtube.com/watch?v=i_Lp35ZO-eA)
-- [Baxter Dury - Letter Bomb](https://www.youtube.com/watch?v=_ujXqsCHgE8)
-- [Baxter Dury - Oi](https://www.youtube.com/watch?v=El3V7js1uYw)
-- [Baxter Dury - August](https://www.youtube.com/watch?v=CBTnSUlPLjY)
-- [Baxter Dury - Wanna](https://www.youtube.com/watch?v=Lp57mSug63c)
-- [Baxter Dury - Prince Of Tears](https://www.youtube.com/watch?v=zPpaKK4XK74)
 
 ## Release Images
 {{< imageGrid >}}

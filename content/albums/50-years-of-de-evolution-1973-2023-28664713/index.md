@@ -4,6 +4,7 @@ artist_name: "Devo"
 artist: "devo"
 album_name: "50 Years Of De-Evolution (1973-2023)"
 date: 2023-10-21T23:55:46.000000Z
+release_date: ""
 release_id: "28664713"
 slug: "50-years-of-de-evolution-1973-2023-28664713"
 hideSummary: true
@@ -23,51 +24,44 @@ styles: ["New Wave", "Synth-pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Mongoloid (Warner Version) (3:45)
-2. Jocko Homo (Warner Version) (3:39)
-3. (I Can't Get No) Satisfaction (2:40)
-4. Come Back Jonee (3:25)
-5. Secret Agent Man (3:34)
-6. The Day My Baby Gave Me A Surprize (2:39)
-7. Smart Patrol (3:45)
-8. Girl U Want (2:57)
-9. Whip It (2:38)
-10. Freedom Of Choice (3:28)
-11. Gates Of Steel (3:27)
-12. Working In The Coal Mine (2:49)
-13. Beautiful World (3:30)
-14. Jerkin' Back 'N' Forth (3:04)
-15. Through Being Cool (3:11)
-16. Love Without Anger (2:34)
-17. Time Out For Fun (2:48)
-18. Peek A Boo! (3:01)
-19. That's Good (3:25)
-20. Big Mess (2:44)
-21. Here To Go (Go Mix Version) (5:32)
-22. Are You Experienced? (3:09)
-23. Disco Dancer (7-Inch Version) (4:10)
-24. Post Post-Modern Man (3:20)
-25. Fresh (2:57)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mongoloid (Warner Version) | 3:45 |
+| A2 | Jocko Homo (Warner Version) | 3:39 |
+| A3 | (I Can't Get No) Satisfaction | 2:40 |
+| A4 | Come Back Jonee | 3:25 |
+| A5 | Secret Agent Man | 3:34 |
+| A6 | The Day My Baby Gave Me A Surprize | 2:39 |
+| B1 | Smart Patrol | 3:45 |
+| B2 | Girl U Want | 2:57 |
+| B3 | Whip It | 2:38 |
+| B4 | Freedom Of Choice | 3:28 |
+| B5 | Gates Of Steel | 3:27 |
+| B6 | Working In The Coal Mine | 2:49 |
+| C1 | Beautiful World | 3:30 |
+| C2 | Jerkin' Back 'N' Forth | 3:04 |
+| C3 | Through Being Cool | 3:11 |
+| C4 | Love Without Anger | 2:34 |
+| C5 | Time Out For Fun | 2:48 |
+| C6 | Peek A Boo! | 3:01 |
+| C7 | That's Good | 3:25 |
+| D1 | Big Mess | 2:44 |
+| D2 | Here To Go (Go Mix Version) | 5:32 |
+| D3 | Are You Experienced? | 3:09 |
+| D4 | Disco Dancer (7-Inch Version) | 4:10 |
+| D5 | Post Post-Modern Man | 3:20 |
+| D6 | Fresh | 2:57 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### PeekABoo 2023 Remaster
-{{< youtube id="P-p6EiglULA" title="PeekABoo 2023 Remaster" >}}<br>
-### More Videos
 
-- [Gates of Steel 2023 Remaster](https://www.youtube.com/watch?v=nQMFkmi0gS8)
-- [What We Do Single Edit 2023 Remaster](https://www.youtube.com/watch?v=7t7RTSKZ1EA)
-- [Through Being Cool 2023 Remaster](https://www.youtube.com/watch?v=-jj5d0lnj7A)
-- [Going Under 2023 Remaster](https://www.youtube.com/watch?v=1YKDliSLV1c)
-- [Triumph of the Will 2023 Remaster](https://www.youtube.com/watch?v=5BIE6DTRYDY)
-- [It Takes a Worried Man 2023 Remaster](https://www.youtube.com/watch?v=oda1x98NF8k)
-- [Freedom of Choice 2023 Remaster](https://www.youtube.com/watch?v=T1MjLtGiWEU)
-- [Are You Experienced 2023 Remaster](https://www.youtube.com/watch?v=aQg460kbKHE)
-- [Bread and Butter 2023 Remaster](https://www.youtube.com/watch?v=nfFV_qic6gI)
-- [Watch Us Work It 2023 Remaster](https://www.youtube.com/watch?v=eTxkuMKM6X4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +72,5 @@ styles: ["New Wave", "Synth-pop"]
 | Format         | Vinyl LP (Blue), Vinyl LP (Red), All Media Compilation Special Edition Stereo |
 | Label          | Rhino Records (2) |
 | Catalog Number | RCV1 725327 |
-| Notes | 50 Years of De-Evolution in 25 Tracks  Special Edition blue and red vinyl edition.  Only available at retail stores.  |
+| Notes | 50 Years of De-Evolution in 25 Tracks<br><br>Special Edition blue and red vinyl edition.  Only available at retail stores.<br> |
 | Discogs URL    | [Devo - 50 Years Of De-Evolution (1973-2023)](https://www.discogs.com/release/28664713-Devo-50-Years-Of-De-Evolution-1973-2023) |

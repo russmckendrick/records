@@ -38,38 +38,25 @@ The album received critical acclaim and was in the UK charts for many weeks, cha
 
 
 ## Tracklisting
-1. Leave Home
-2. In Dust We Trust
-3. Song To The Siren
-4. Three Little Birdies Down Beats
-5. Fuck Up Beats
-6. Chemical Beats
-7. Life Is Sweet
-8. Playground For A Wedgeless Firm
-9. Chico's Groove
-10. One Too Many Mornings
-11. Alive Alone
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Leave Home |  |
+| A2 | In Dust We Trust |  |
+| B1 | Song To The Siren |  |
+| B2 | Three Little Birdies Down Beats |  |
+| B3 | Fuck Up Beats |  |
+| B4 | Chemical Beats |  |
+| C1 | Life Is Sweet |  |
+| C2 | Playground For A Wedgeless Firm |  |
+| D1 | Chico's Groove |  |
+| D2 | One Too Many Mornings |  |
+| D3 | Alive Alone |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/exit-planet-dust/723670972" >}}<br>
 
 
-## Videos
-### Leave Home
-{{< youtube id="4QKi8DorEpM" title="Leave Home" >}}<br>
-### More Videos
-
-- [In Dust We Trust](https://www.youtube.com/watch?v=YtnBsvu72kY)
-- [Song To The Siren Live From Sabresonic NightclubUnited Kingdom1994](https://www.youtube.com/watch?v=D7R4Z0T5ViA)
-- [Three Little Birdies Down Beats](https://www.youtube.com/watch?v=kJqSFi0ukEY)
-- [Fuck Up Beats](https://www.youtube.com/watch?v=RvXDHnJ817E)
-- [Chemical Beats](https://www.youtube.com/watch?v=_GfcIprkuvw)
-- [The Chemical Brothers - Life Is Sweet Official Music Video](https://www.youtube.com/watch?v=30p2UWAegeQ)
-- [Playground For A Wedgeless Firm](https://www.youtube.com/watch?v=vaYgOV1urpQ)
-- [Chicos Groove](https://www.youtube.com/watch?v=F8smPDj7r4w)
-- [One Too Many Mornings](https://www.youtube.com/watch?v=wA-FVMPg49I)
-- [Alive Alone](https://www.youtube.com/watch?v=q9rrZzrgA2I)
-- [THE CHEMICAL BROTHERS - One Too Many Mornings](https://www.youtube.com/watch?v=ItS_e_u37Qs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +68,5 @@ The album received critical acclaim and was in the UK charts for many weeks, cha
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Freestyle Dust |
 | Catalog Number | XDUSTLP1 |
-| Notes | Color printed glossy inner sleeves. Printed in UK.  On the back of the sleeve: Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands   |
+| Notes | Color printed glossy inner sleeves. Printed in UK.<br><br>On the back of the sleeve:<br>Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands<br><br> |
 | Discogs URL    | [The Chemical Brothers - Exit Planet Dust](https://www.discogs.com/release/9241739-The-Chemical-Brothers-Exit-Planet-Dust) |

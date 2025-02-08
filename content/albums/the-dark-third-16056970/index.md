@@ -4,6 +4,7 @@ artist_name: "Pure Reason Revolution"
 artist: "pure-reason-revolution"
 album_name: "The Dark Third"
 date: 2020-10-16T13:28:17.000000Z
+release_date: "2006-04-08"
 release_id: "16056970"
 slug: "the-dark-third-16056970"
 hideSummary: true
@@ -24,64 +25,53 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Prog Rock"]
 ---
 
 The Dark Third is the first full-length album by Pure Reason Revolution. It was produced by Paul Northfield (Rush, Porcupine Tree, Gentle Giant, Hole) and recorded at Fairhazel Studios and later RAK studios. An earlier single "Apprentice of the Universe" peaked at #74. The title refers to the "Dark Third", the third of a person's life spent asleep and dreaming, with the song on disc 2 "In Aurelia" being based lyrically and thematically around the book Aurelia by Gérard de Nerval.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Aeropause
-2. Goshen's Remains
-3. Apprentice Of The Universe
-4. The Bright Ambassadors Of Morning
-5. Nimos & Tambos
-6. Voices In Winter
-7. In The Realms Of The Divine
-8. Bullitts Dominæ
-9. Arrival
-10. The Intention Craft
-11. He Tried To Show Them Magic!
-12. Ambassadors Return
-13. Asleep Under Eiderdown
-14. In Aurélia
-15. Golden Clothes
-16. The Exact Colour
-17. The Twyncyn
-18. Trembling Willows
-19. Aeropause (5:04)
-20. Goshen’s Remains (5:44)
-21. Apprentice Of The Universe (4:16)
-22. The Bright Ambassadors Of Morning (11:56)
-23. Nimos And Tambos (3:44)
-24. Voices In Winter / In The Realms Of The Divine (6:34)
-25. Bullitts Dominae (5:22)
-26. Arrival / The Intention Craft (8:53)
-27. He Tried To Show Them Magic! / Ambassadors Return (5:13)
-28. Asleep Under Eiderdown (3:02)
-29. In Aurélia (3:59)
-30. Borgens Vor (4:17)
-31. The Exact Colour (4:05)
-32. The Twyncyn / Trembling Willows (7:16)
-33. Golden Clothes (7:31)
+| Position | Title | Duration |
+|----------|-------|----------|
+| I-I | Aeropause |  |
+| I-II | Goshen's Remains |  |
+| I-III | Apprentice Of The Universe |  |
+| II-I | The Bright Ambassadors Of Morning |  |
+| II-II | Nimos & Tambos |  |
+| II-III-I | Voices In Winter |  |
+| II-III-II | In The Realms Of The Divine |  |
+| III-I | Bullitts Dominæ |  |
+| III-II-I | Arrival |  |
+| III-II-II | The Intention Craft |  |
+| III-III-I | He Tried To Show Them Magic! |  |
+| III-III-II | Ambassadors Return |  |
+| III-IV | Asleep Under Eiderdown |  |
+| IV-I | In Aurélia |  |
+| IV-II | Golden Clothes |  |
+| IV-III | The Exact Colour |  |
+| IV-IV-I | The Twyncyn |  |
+| IV-IV-II | Trembling Willows |  |
+| CD1-1 | Aeropause | 5:04 |
+| CD1-2 | Goshen’s Remains | 5:44 |
+| CD1-3 | Apprentice Of The Universe | 4:16 |
+| CD1-4 | The Bright Ambassadors Of Morning | 11:56 |
+| CD1-5 | Nimos And Tambos | 3:44 |
+| CD1-6 | Voices In Winter / In The Realms Of The Divine | 6:34 |
+| CD1-7 | Bullitts Dominae | 5:22 |
+| CD1-8 | Arrival / The Intention Craft | 8:53 |
+| CD1-9 | He Tried To Show Them Magic! / Ambassadors Return | 5:13 |
+| CD1-10 | Asleep Under Eiderdown | 3:02 |
+| CD2-1 | In Aurélia | 3:59 |
+| CD2-2 | Borgens Vor | 4:17 |
+| CD2-3 | The Exact Colour | 4:05 |
+| CD2-4 | The Twyncyn / Trembling Willows | 7:16 |
+| CD2-5 | Golden Clothes | 7:31 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-dark-third/270604771" >}}<br>
 
 
-## Videos
-### Aeropause
-{{< youtube id="r6b7lVJSKQY" title="Aeropause" >}}<br>
-### More Videos
-
-- [Goshens Remains](https://www.youtube.com/watch?v=lyE82wgOkVY)
-- [Apprentice of the Universe](https://www.youtube.com/watch?v=qbTSSD-nZZE)
-- [Nimos and Tambos](https://www.youtube.com/watch?v=dEcQhIlPb1Y)
-- [Voices in Winter  In the Realms of the Divine](https://www.youtube.com/watch?v=1_R96xcQKrw)
-- [Bullitts Dominae](https://www.youtube.com/watch?v=X3-VtVsXcdE)
-- [Arrival  The Intention Craft](https://www.youtube.com/watch?v=aZcO_EAqoj0)
-- [He Tried to Show Them Magic  Ambassadors Return](https://www.youtube.com/watch?v=WD3aCXr2VVg)
-- [Asleep Under Eiderdown](https://www.youtube.com/watch?v=tZzWfMcUHPQ)
-- [The Exact Colour](https://www.youtube.com/watch?v=cerFbpn__sc)
-- [The Twyncyn  Trembling Willows](https://www.youtube.com/watch?v=kDXbZhTToxo)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "Crippled Black Phoenix"
 artist: "crippled-black-phoenix"
 album_name: "Ellengæst"
 date: 2020-10-08T20:31:44.000000Z
+release_date: "2020-10-09"
 release_id: "16022505"
 slug: "ellengst-16022505"
 hideSummary: true
@@ -19,24 +20,26 @@ styles: ["Prog Rock", "Stoner Rock", "Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. House Of Fools
-2. Lost
-3. In The Night
-4. Cry Of Love
-5. Everything I Say
-6. (-)
-7. The Invisible Past
-8. She's In Parties
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | House Of Fools |  |
+| A2 | Lost |  |
+| B1 | In The Night |  |
+| B2 | Cry Of Love |  |
+| C1 | Everything I Say |  |
+| C2 | (-) |  |
+| D1 | The Invisible Past |  |
+| D2 | She's In Parties |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/elleng%C3%A6st/1524581300" >}}<br>
 
-
-## Videos
-### Crippled Black Phoenix - Ellengæst Full Album 2020
-{{< youtube id="NSHkQICpeng" title="Crippled Black Phoenix - Ellengæst Full Album 2020" >}}<br>
 
 
 ## Release Images

@@ -53,38 +53,24 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 
 
 ## Tracklisting
-1. Darkness
-2. Growing Up
-3. Sky Blue
-4. No Way Out
-5. I Grieve
-6. The Barry Williams Show
-7. My Head Sounds Like That
-8. More Than This
-9. Signal To Noise
-10. The Drop
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Darkness |  |
+| A2 | Growing Up |  |
+| A3 | Sky Blue |  |
+| B1 | No Way Out |  |
+| B2 | I Grieve |  |
+| C1 | The Barry Williams Show |  |
+| C2 | My Head Sounds Like That |  |
+| C3 | More Than This |  |
+| D1 | Signal To Noise |  |
+| D2 | The Drop |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-1-car-remastered/986695072" >}}<br>
 
 
-## Videos
-### Peter Gabriel - The Barry Williams Show
-{{< youtube id="BLGkpFXiMOg" title="Peter Gabriel - The Barry Williams Show" >}}<br>
-### More Videos
-
-- [Peter Gabriel - More Than This Live at Real World Studios](https://www.youtube.com/watch?v=hloQg2ODeT0)
-- [Peter Gabriel - Growing Up](https://www.youtube.com/watch?v=tn2VPj1R76U)
-- [Darkness](https://www.youtube.com/watch?v=r1JPO91IpV4)
-- [Growing Up](https://www.youtube.com/watch?v=O-aHqlm6WmE)
-- [Sky Blue](https://www.youtube.com/watch?v=JivC_WsQQuo)
-- [No Way Out](https://www.youtube.com/watch?v=m1COhjggWAc)
-- [I Grieve](https://www.youtube.com/watch?v=7wZkbRJq6wk)
-- [The Barry Williams Show](https://www.youtube.com/watch?v=SpavyOf-rkM)
-- [My Head Sounds Like That](https://www.youtube.com/watch?v=yPDuAqtzrxQ)
-- [More Than This](https://www.youtube.com/watch?v=aVXB4Y_LvpI)
-- [Signal To Noise](https://www.youtube.com/watch?v=1zM7QaPiwqE)
-- [Peter Gabriel - The Drop](https://www.youtube.com/watch?v=darh1ywCsj8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -96,5 +82,5 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | Real World Records |
 | Catalog Number | PGLPR11 |
-| Notes | 33 ⅓ Half-Speed Remaster. Gatefold sleeve, comes with 22-page 7" booklet, which includes credits and images, and a Hi-Res Download Card.  On labels and sleeve back: ℗ 2016 Peter Gabriel Ltd. © 2016 Peter Gabriel Ltd.   In booklet: ℗ © 2016 Peter Gabriel Ltd.  Manufactured in the EU.  Runouts: "PGLPR11 A1", "PGLPR11 B1", "PGLPR11 C1", "PGLPR11 D1" and "= MATT @ ALCHEMY =" are etched, everything else is stamped. |
+| Notes | 33 ⅓ Half-Speed Remaster.<br>Gatefold sleeve, comes with 22-page 7" booklet, which includes credits and images, and a Hi-Res Download Card.<br><br>On labels and sleeve back:<br>℗ 2016 Peter Gabriel Ltd. © 2016 Peter Gabriel Ltd. <br><br>In booklet:<br>℗ © 2016 Peter Gabriel Ltd. <br>Manufactured in the EU.<br><br>Runouts:<br>"PGLPR11 A1", "PGLPR11 B1", "PGLPR11 C1", "PGLPR11 D1" and "= MATT @ ALCHEMY =" are etched, everything else is stamped. |
 | Discogs URL    | [Peter Gabriel - Up](https://www.discogs.com/release/9473463-Peter-Gabriel-Up) |

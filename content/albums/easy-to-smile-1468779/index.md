@@ -4,6 +4,7 @@ artist_name: "Senseless Things"
 artist: "senseless-things"
 album_name: "Easy To Smile"
 date: 2018-02-15T19:24:32.000000Z
+release_date: "2007-07-05"
 release_id: "1468779"
 slug: "easy-to-smile-1468779"
 hideSummary: true
@@ -22,23 +23,22 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Easy To Smile (4:44)
-2. Hazel (4:01)
-3. Mollylove (2:45)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Easy To Smile | 4:44 |
+| B1 | Hazel | 4:01 |
+| B2 | Mollylove | 2:45 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/easy-to-smile/259486680" >}}<br>
 
 
-## Videos
-### senseless things - easy to smile
-{{< youtube id="xoqkAI7vk3c" title="senseless things - easy to smile" >}}<br>
-### More Videos
-
-- [Easy To Smile Edited Version](https://www.youtube.com/watch?v=98eDh69GD-M)
-- [senseless things - easy to smile](https://www.youtube.com/watch?v=xoqkAI7vk3c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -49,5 +49,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 12" Single 45 RPM |
 | Label          | Epic |
 | Catalog Number | 657695 6 |
-| Notes | Tracks A1 and B1 recorded at the Greenhouse And Gooseberry Studios, September '91.  Track B2 recorded at the Greenhouse April 1991.    Includes exclusive Jamie Hewlett print.   |
+| Notes | Tracks A1 and B1 recorded at the Greenhouse And Gooseberry Studios, September '91.<br>Track B2 recorded at the Greenhouse April 1991.<br><br>Includes exclusive Jamie Hewlett print.<br> |
 | Discogs URL    | [Senseless Things - Easy To Smile](https://www.discogs.com/release/1468779-Senseless-Things-Easy-To-Smile) |

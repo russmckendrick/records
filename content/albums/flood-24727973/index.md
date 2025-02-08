@@ -4,6 +4,7 @@ artist_name: "Headswim"
 artist: "headswim"
 album_name: "Flood"
 date: 2022-10-09T05:00:54.000000Z
+release_date: "2024-03-01"
 release_id: "24727973"
 slug: "flood-24727973"
 hideSummary: true
@@ -20,45 +21,42 @@ styles: ["Alternative Rock"]
 Flood is the 1994 debut full-length album by the English rock band Headswim, released on 24 October 1994 on Epic Records. Originally titled Precipity Flood, it was recorded over three weeks at Rockfield Studios in Wales, with Dave Eringa producing. The album included three singles, "Gone to Pot", "Soup", and "Crawl".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Gone To Pot
-2. Soup
-3. Try Disappointed
-4. Crawl
-5. Dead
-6. Years On Me
-7. Apple Of My Eye
-8. Down
-9. Stinkhorn
-10. Safe Harvest
-11. Beneath A Black Moon
-12. Rolling Intro
-13. Gone To Pot (BBC R1 Rock Show)
-14. Stinkhorn (BBC R1 Rock Show)
-15. Try Disappointed (BBC R1 Rock Show)
-16. Beneath A Black Moon (BBC R1 Rock Show)
-17. The Fear
-18. Apprenticed To Pain
-19. Morning Song
-20. Rotting Tooth
-21. Proud
-22. Precipity Flood
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Gone To Pot |  |
+| A2 | Soup |  |
+| A3 | Try Disappointed |  |
+| A4 | Crawl |  |
+| A5 | Dead |  |
+| A6 | Years On Me |  |
+| B1 | Apple Of My Eye |  |
+| B2 | Down |  |
+| B3 | Stinkhorn |  |
+| B4 | Safe Harvest |  |
+| B5 | Beneath A Black Moon |  |
+| C1 | Rolling Intro |  |
+| C2 | Gone To Pot (BBC R1 Rock Show) |  |
+| C3 | Stinkhorn (BBC R1 Rock Show) |  |
+| C4 | Try Disappointed (BBC R1 Rock Show) |  |
+| C5 | Beneath A Black Moon (BBC R1 Rock Show) |  |
+| C6 | The Fear |  |
+| D1 | Apprenticed To Pain |  |
+| D2 | Morning Song |  |
+| D3 | Rotting Tooth |  |
+| D4 | Proud |  |
+| D5 | Precipity Flood |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flood-live-live/1726213047" >}}<br>
 
 
-## Videos
-### HEADSWIM - Flood FULL ALBUM 1994 with inside cover  lyrics
-{{< youtube id="7CrTrrJWBgE" title="HEADSWIM - Flood FULL ALBUM 1994 with inside cover  lyrics" >}}<br>
-### More Videos
-
-- [Headswim - Gone To Pot HQ](https://www.youtube.com/watch?v=WK2bOn6UGqE)
-- [Headswim - Stinkhorn HQ](https://www.youtube.com/watch?v=ZivlvKrZsFQ)
 
 ## Release Images
 {{< imageGrid >}}

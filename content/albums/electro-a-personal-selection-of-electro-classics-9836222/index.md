@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Electro (A Personal Selection Of Electro Classics)"
 date: 2017-02-22T18:01:26.000000Z
+release_date: ""
 release_id: "9836222"
 slug: "electro-a-personal-selection-of-electro-classics-9836222"
 hideSummary: true
@@ -25,44 +26,27 @@ styles: ["Electro"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Al Naafiyish (The Soul)
-2. Release Yourself
-3. Mysterious Waves
-4. Rain Forest
-5. The Party Scene
-6. This Party's Jam Packed
-7. Feel The Force
-8. The Smurf
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Al Naafiyish (The Soul) |  |
+| A2 | Release Yourself |  |
+| B1 | Mysterious Waves |  |
+| B2 | Rain Forest |  |
+| C1 | The Party Scene |  |
+| C2 | This Party's Jam Packed |  |
+| D1 | Feel The Force |  |
+| D2 | The Smurf |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Hashim - Al Naafiysh The Soul
-{{< youtube id="i46sF1PcqL8" title="Hashim - Al Naafiysh The Soul" >}}<br>
-### More Videos
 
-- [Aleem ft Leroy Burgess - Release Yourself DUB](https://www.youtube.com/watch?v=v6mnQzQ0DgE)
-- [Dynamix II - Just give the DJ a break 12 Club Version](https://www.youtube.com/watch?v=C7Okvrwtg6k)
-- [High Noon Pt 2](https://www.youtube.com/watch?v=EMEVKbIGdHM)
-- [Newcleus Computer Age Push the Button](https://www.youtube.com/watch?v=OJd22xoSTNM)
-- [Tyrone Brunson - The Smurf 12](https://www.youtube.com/watch?v=7VaGGZplMPs)
-- [Paul Hardcastle - Rainforest 12 inch version 1985 HQsound](https://www.youtube.com/watch?v=lFmcdf77wzU)
-- [Keymatic - Breakin In Space](https://www.youtube.com/watch?v=AhZVhtOsZDE)
-- [Dwayne Omarr - This Partys Jam Packed](https://www.youtube.com/watch?v=2Y48_5DoqmU)
-- [The Russell Brothers - The Party Scene](https://www.youtube.com/watch?v=Qyan1_bxiA0)
-- [Freak A Zoid - Midnight Star](https://www.youtube.com/watch?v=5wJWuaPR0Lo)
-- [G-Force Featuring Ronnie Gee  Captain Cee - Feel The Force  Satellite Music International 1983 ](https://www.youtube.com/watch?v=VX98k2meA68)
-- [Grandmaster Flash  The Furious Five- Scorpio Remastered](https://www.youtube.com/watch?v=tkXNO3gy7bk)
-- [Imperial Brothers  - We Come To Rock Club Version 1984](https://www.youtube.com/watch?v=bBXfwD2iook)
-- [Divine Sounds - What People Do For Money](https://www.youtube.com/watch?v=qJtKEAQdN3E)
-- [The Beat Box Boys - Give Me My Money](https://www.youtube.com/watch?v=KSAOII8kniQ)
-- [The Packman - Im the Packman Eat Everything I Can](https://www.youtube.com/watch?v=bvfNwrJJPz4)
-- [Kosmic Light Force - Mysterious Waves Nightbeat Records 1985](https://www.youtube.com/watch?v=tBwJDoW64p0)
-- [High Fidelity Three - B Boys Breakdance  Inst  Cutting Records 1984 ](https://www.youtube.com/watch?v=BLnHWdHQp1c)
-- [X-Ray Vision - Video Control Vocal](https://www.youtube.com/watch?v=blwFnZGLg4w)
-- [The Sunburst Band - Atlantic Forest](https://www.youtube.com/watch?v=6946h5a9gtk)
 
 ## Release Images
 {{< imageGrid >}}

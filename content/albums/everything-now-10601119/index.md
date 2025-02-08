@@ -42,32 +42,27 @@ Upon release, Everything Now proved polarizing with critics—some reviews said 
 
 
 ## Tracklisting
-1. Everything_Now (Continued) (0:46)
-2. Everything Now (5:03)
-3. Signs Of Life (4:37)
-4. Creature Comfort (4:44)
-5. Peter Pan (2:49)
-6. Chemistry (3:38)
-7. Infinite Content (1:42)
-8. Infinite_Content (1:37)
-9. Electric Blue (4:02)
-10. Good God Damn (3:34)
-11. Put Your Money On Me (5:53)
-12. We Don't Deserve Love (6:29)
-13. Everything Now (Continued) (2:22)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Everything_Now (Continued) | 0:46 |
+| A2 | Everything Now | 5:03 |
+| A3 | Signs Of Life | 4:37 |
+| A4 | Creature Comfort | 4:44 |
+| A5 | Peter Pan | 2:49 |
+| A6 | Chemistry | 3:38 |
+| A7 | Infinite Content | 1:42 |
+| A8 | Infinite_Content | 1:37 |
+| B1 | Electric Blue | 4:02 |
+| B2 | Good God Damn | 3:34 |
+| B3 | Put Your Money On Me | 5:53 |
+| B4 | We Don't Deserve Love | 6:29 |
+| B5 | Everything Now (Continued) | 2:22 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everything-now/1240796998" >}}<br>
 
 
-## Videos
-### Arcade Fire - Everything Now Official Video
-{{< youtube id="zC30BYR3CUk" title="Arcade Fire - Everything Now Official Video" >}}<br>
-### More Videos
-
-- [Arcade Fire - Signs of Life Official Video](https://www.youtube.com/watch?v=_Dx4IAD1NLo)
-- [Arcade Fire - Electric Blue Official Video](https://www.youtube.com/watch?v=UymXRxJPOQo)
-- [Arcade Fire - Creature Comfort Official Video](https://www.youtube.com/watch?v=xzwicesJQ7E)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +74,5 @@ Upon release, Everything Now proved polarizing with critics—some reviews said 
 | Format         | Vinyl LP Album Limited Edition (Blue Translucent) |
 | Label          | Sonovox Records |
 | Catalog Number | 88985447861 |
-| Notes | Referred to as the 'Night Version.'  Gatefold sleeve that comes in a clear plastic slipcase. Includes a printed insert and a printed inner sleeve.  ℗&© 2017 Arcade Fire Music  "Everything Now" contains elements from "The Coffee Cola Song" written by [a181285].  Recorded at Boombox Studios, New Orleans; Sonovox Studios, Montréal; Gang Recording Studio, Paris Mixed at Parlor Studios & Boombox Studios, New Orleans; Toast, London Mastered at Sterling Sound, NYC  [Artwork] shot in Death Valley  Published by EMI Music Publishing Limited |
+| Notes | Referred to as the 'Night Version.'<br><br>Gatefold sleeve that comes in a clear plastic slipcase.<br>Includes a printed insert and a printed inner sleeve.<br><br>℗&© 2017 Arcade Fire Music<br><br>"Everything Now" contains elements from "The Coffee Cola Song" written by [a181285].<br><br>Recorded at Boombox Studios, New Orleans; Sonovox Studios, Montréal; Gang Recording Studio, Paris<br>Mixed at Parlor Studios & Boombox Studios, New Orleans; Toast, London<br>Mastered at Sterling Sound, NYC<br><br>[Artwork] shot in Death Valley<br><br>Published by EMI Music Publishing Limited |
 | Discogs URL    | [Arcade Fire - Everything Now](https://www.discogs.com/release/10601119-Arcade-Fire-Everything-Now) |

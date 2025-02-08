@@ -4,6 +4,7 @@ artist_name: "Belly"
 artist: "belly"
 album_name: "Bees"
 date: 2021-06-12T06:03:40.000000Z
+release_date: "2021-06-14"
 release_id: "19112494"
 slug: "bees-19112494"
 hideSummary: true
@@ -30,31 +31,36 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Dancing Gold
-2. Star (Full Band)
-3. Dream On Me
-4. Sweet Ride
-5. Trust In Me
-6. Diamond Rib Cage
-7. Sexy S
-8. Baby's Arm
-9. Broken
-10. It's Not Unusual (Ivo's Version)
-11. Are You Experienced?
-12. Spaceman
-13. Hot Burrito #1
-14. Think About Your Troubles
-15. Hushabye Mountain
-16. Lilith
-17. John Dark
-18. Judas Mon Coeur (French Version)
-19. Thief
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dancing Gold |  |
+| A2 | Star (Full Band) |  |
+| A3 | Dream On Me |  |
+| A4 | Sweet Ride |  |
+| A5 | Trust In Me |  |
+| B1 | Diamond Rib Cage |  |
+| B2 | Sexy S |  |
+| B3 | Baby's Arm |  |
+| B4 | Broken |  |
+| B5 | It's Not Unusual (Ivo's Version) |  |
+| C1 | Are You Experienced? |  |
+| C2 | Spaceman |  |
+| C3 | Hot Burrito #1 |  |
+| C4 | Think About Your Troubles |  |
+| C5 | Hushabye Mountain |  |
+| D1 | Lilith |  |
+| D2 | John Dark |  |
+| D3 | Judas Mon Coeur (French Version) |  |
+| D4 | Thief |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bees/1569255970" >}}<br>
-
 
 
 
@@ -67,5 +73,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 2× LP Record Store Day Compilation (Honey) |
 | Label          | 4AD |
 | Catalog Number | 4AD0342LPE |
-| Notes | RSD 2021, Limited to 1,000 copies on Honey coloured vinyl, housed in a gatefold sleeve. Compilation of B-sides, covers and oddities.  Barcode sticker on reverse with 4AD address, address, Belly web address.  Runouts are hand etched except MPO codes which are laser etched. |
+| Notes | RSD 2021, Limited to 1,000 copies on Honey coloured vinyl, housed in a gatefold sleeve.<br>Compilation of B-sides, covers and oddities.<br><br>Barcode sticker on reverse with 4AD address, address, Belly web address.<br><br>Runouts are hand etched except MPO codes which are laser etched. |
 | Discogs URL    | [Belly - Bees](https://www.discogs.com/release/19112494-Belly-Bees) |

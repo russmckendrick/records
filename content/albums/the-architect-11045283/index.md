@@ -4,6 +4,7 @@ artist_name: "Jane Weaver"
 artist: "jane-weaver"
 album_name: "The Architect"
 date: 2017-12-11T19:45:45.000000Z
+release_date: "2017-10-27"
 release_id: "11045283"
 slug: "the-architect-11045283"
 hideSummary: true
@@ -19,24 +20,23 @@ styles: ["Electro", "Indie Pop", "Synth-pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Architect
-2. The Architect - Andy Votel's Brutaliszt 250KG Readymix
-3. Code
-4. Element
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Architect |  |
+| A2 | The Architect - Andy Votel's Brutaliszt 250KG Readymix |  |
+| B1 | Code |  |
+| B2 | Element |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-architect-ep/1667322669" >}}<br>
 
 
-## Videos
-### Jane Weaver - The Architect
-{{< youtube id="keXHh0lr2y8" title="Jane Weaver - The Architect" >}}<br>
-### More Videos
-
-- [Jane Weaver - The Architect](https://www.youtube.com/watch?v=keXHh0lr2y8)
-- [Jane Weaver - The Architect](https://www.youtube.com/watch?v=keXHh0lr2y8)
 
 ## Release Images
 {{< imageGrid >}}

@@ -31,44 +31,28 @@ But even in a post-Nirvana marketplace that was more receptive to aggressive sou
 
 
 ## Tracklisting
-1. Time To Relax
-2. Nitro [Youth Energy]
-3. Bad Habit
-4. Gotta Get Away
-5. Genocide
-6. Something To Believe In
-7. Come Out And Play (Keep 'Em Separated)
-8. Self Esteem
-9. It'll Be A Long Time
-10. Killboy Powerhead
-11. What Happened To You?
-12. So Alone
-13. Not The One
-14. Smash
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Time To Relax |  |
+| A2 | Nitro [Youth Energy] |  |
+| A3 | Bad Habit |  |
+| A4 | Gotta Get Away |  |
+| A5 | Genocide |  |
+| A6 | Something To Believe In |  |
+| A7 | Come Out And Play (Keep 'Em Separated) |  |
+| B8 | Self Esteem |  |
+| B9 | It'll Be A Long Time |  |
+| B10 | Killboy Powerhead |  |
+| B11 | What Happened To You? |  |
+| B12 | So Alone |  |
+| B13 | Not The One |  |
+| B14 | Smash |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/smash/1485034772" >}}<br>
 
 
-## Videos
-### The Offspring - Self Esteem Official Video
-{{< youtube id="w-GVMRLeaVs" title="The Offspring - Self Esteem Official Video" >}}<br>
-### More Videos
-
-- [The Offspring - Come Out And Play](https://www.youtube.com/watch?v=1jOk8dk-qaU)
-- [Offspring  Smash](https://www.youtube.com/watch?v=FGYRZa5LMk8)
-- [Offspring  Self Esteem](https://www.youtube.com/watch?v=8HbH241bCZE)
-- [Offspring  Time To Relax](https://www.youtube.com/watch?v=UMFkb_AgKkA)
-- [Offspring  Come Out And Play](https://www.youtube.com/watch?v=YWhzv8ZB5V4)
-- [Offspring  So Alone](https://www.youtube.com/watch?v=7juIAX4jiXI)
-- [Offspring  What Happened To You-](https://www.youtube.com/watch?v=HL-BY70vCuY)
-- [Offspring  Not The One](https://www.youtube.com/watch?v=kcrxAgKlwyI)
-- [Offspring  Itll Be A Long Time](https://www.youtube.com/watch?v=Ve4qFME66ho)
-- [Offspring  Something To Believe In](https://www.youtube.com/watch?v=m9IRH0VegmI)
-- [Offspring  Genocide](https://www.youtube.com/watch?v=QIx2URH-iPE)
-- [Offspring  Killboy Powerhead](https://www.youtube.com/watch?v=HUKejtY0H7I)
-- [Offspring  Gotta Get Away](https://www.youtube.com/watch?v=h4m88SQhlIY)
-- [Offspring  Nitro Youth Energy](https://www.youtube.com/watch?v=XpjXgpSJlcQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +64,5 @@ But even in a post-Nirvana marketplace that was more receptive to aggressive sou
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Epitaph |
 | Catalog Number | 86868-1 |
-| Notes | Tracks listed sequentially on labels and back cover.   Comes with a printed inner sleeve with song lyrics, Thanks and Credits. Sticker on front reads: "Digitally Remastered from the original master tape"  All Songs Written By The Offspring Additional recording at The Hook, North Hollywood All Rights Reserved. Used By Permission. Except Killboy Powerhead, published by Touch and Go Records.  1994,2008 Epitaph 2798 Sunset Blvd, Los Angeles, CA 90026 |
+| Notes | Tracks listed sequentially on labels and back cover. <br><br>Comes with a printed inner sleeve with song lyrics, Thanks and Credits.<br>Sticker on front reads: "Digitally Remastered from the original master tape"<br><br>All Songs Written By The Offspring<br>Additional recording at The Hook, North Hollywood<br>All Rights Reserved. Used By Permission.<br>Except Killboy Powerhead, published by Touch and Go Records.<br><br>1994,2008 Epitaph<br>2798 Sunset Blvd, Los Angeles, CA 90026 |
 | Discogs URL    | [The Offspring - Smash](https://www.discogs.com/release/10243726-Offspring-Smash) |

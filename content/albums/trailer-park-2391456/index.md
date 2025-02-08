@@ -32,37 +32,24 @@ An expanded two-disc Legacy Edition was released internationally on 10 March 200
 
 
 ## Tracklisting
-1. She Cries Your Name
-2. Tangent
-3. Don't Need A Reason
-4. Live As You Dream
-5. Sugar Boy
-6. Touch Me With Your Love
-7. How Far
-8. Someone's Daughter
-9. I Wish I Never Saw The Sunshine
-10. Galaxy Of Emptiness
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | She Cries Your Name |  |
+| A2 | Tangent |  |
+| A3 | Don't Need A Reason |  |
+| A4 | Live As You Dream |  |
+| A5 | Sugar Boy |  |
+| B1 | Touch Me With Your Love |  |
+| B2 | How Far |  |
+| B3 | Someone's Daughter |  |
+| B4 | I Wish I Never Saw The Sunshine |  |
+| B5 | Galaxy Of Emptiness |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/trailer-park/281788574" >}}<br>
 
 
-## Videos
-### Beth Orton - She Cries Your Name Video
-{{< youtube id="rFZc4ax4tJs" title="Beth Orton - She Cries Your Name Video" >}}<br>
-### More Videos
-
-- [Beth Orton - Live As You Dream](https://www.youtube.com/watch?v=Mt3d3lmDd_8)
-- [Someones Daughter - Beth Orton](https://www.youtube.com/watch?v=gIoC_Ya6WRo)
-- [BETH ORTON I WISH I NEVER SAW THE SUNSHINE](https://www.youtube.com/watch?v=XR2gaDtS1js)
-- [Beth Orton - Tangent](https://www.youtube.com/watch?v=ToUivqnyxN4)
-- [BETH ORTON - dONT nEED A rEASON  lyrics](https://www.youtube.com/watch?v=LWt3xqqwsjw)
-- [Beth Orton - sugar boy](https://www.youtube.com/watch?v=JeZpru0Rr_4)
-- [Beth Orton - Touch Me With Your Love Video](https://www.youtube.com/watch?v=OQ3iZc7lfaY)
-- [Beth Orton whenever](https://www.youtube.com/watch?v=R5GzcVZmnE8)
-- [Beth Orton - Galaxy of Emptiness](https://www.youtube.com/watch?v=o0_YZtSdzwo)
-- [Beth Orton - Touch Me With Your Love](https://www.youtube.com/watch?v=mx3wDOdVEAY)
-- [Whenever 2008 Remastered Version](https://www.youtube.com/watch?v=S3H5EZo18Jw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +61,5 @@ An expanded two-disc Legacy Edition was released internationally on 10 March 200
 | Format         | Vinyl LP Album Reissue |
 | Label          | Plain Recordings |
 | Catalog Number | plain149 |
-| Notes | Ⓟ 1996 Deconstruction Ltd.  © 2010 Runt LLC    180 gram vinyl    Custom inner sleeve   |
+| Notes | Ⓟ 1996 Deconstruction Ltd.<br>© 2010 Runt LLC<br><br>180 gram vinyl<br><br>Custom inner sleeve<br> |
 | Discogs URL    | [Beth Orton - Trailer Park](https://www.discogs.com/release/2391456-Beth-Orton-Trailer-Park) |

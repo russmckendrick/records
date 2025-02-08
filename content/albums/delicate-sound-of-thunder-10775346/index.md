@@ -4,6 +4,7 @@ artist_name: "Pink Floyd"
 artist: "pink-floyd"
 album_name: "Delicate Sound Of Thunder"
 date: 2017-11-17T16:42:40.000000Z
+release_date: "1988-11-22"
 release_id: "10775346"
 slug: "delicate-sound-of-thunder-10775346"
 hideSummary: true
@@ -31,37 +32,34 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 
 Delicate Sound of Thunder is a live album by the English band Pink Floyd. It was recorded over five nights at the Nassau Coliseum in Uniondale, New York, in August 1988, during their A Momentary Lapse of Reason Tour, and mixed at Abbey Road Studios in September 1988. It was released on 21 November 1988, through EMI Records in the UK and Columbia Records in the United States.
 The album was remixed, restored and reissued in December 2019 for The Later Years 1987–2019 box set. This version included songs that were not present on the original release. In November 2020, it was given a standalone release.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Shine On You Crazy Diamond Parts 1-5 (11:45)
-2. Learning To Fly (5:07)
-3. Yet Another Movie
-4. Round And Around
-5. Sorrow (9:44)
-6. The Dogs Of War (7:13)
-7. On The Turning Away (7:35)
-8. One Of These Days (6:17)
-9. Time / Breathe (In The Air) (Reprise) (5:18)
-10. Money (9:42)
-11. Another Brick In The Wall Part II (5:17)
-12. Wish You Were Here (4:50)
-13. Comfortably Numb (8:42)
-14. Run Like Hell (6:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Shine On You Crazy Diamond Parts 1-5 | 11:45 |
+| A2 | Learning To Fly | 5:07 |
+| A3 | Yet Another Movie |  |
+| A4 | Round And Around |  |
+| B1 | Sorrow | 9:44 |
+| B2 | The Dogs Of War | 7:13 |
+| B3 | On The Turning Away | 7:35 |
+| C1 | One Of These Days | 6:17 |
+| C2 | Time / Breathe (In The Air) (Reprise) | 5:18 |
+| C3 | Money | 9:42 |
+| C4 | Another Brick In The Wall Part II | 5:17 |
+| D1 | Wish You Were Here | 4:50 |
+| D2 | Comfortably Numb | 8:42 |
+| D3 | Run Like Hell | 6:42 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/delicate-sound-of-thunder-live/696774967" >}}<br>
 
 
-## Videos
-### Pink Floyd - 1st EU press - Delicate Sound Of Thunder - side 1
-{{< youtube id="bbibaNevmiU" title="Pink Floyd - 1st EU press - Delicate Sound Of Thunder - side 1" >}}<br>
-### More Videos
-
-- [Pink Floyd - 1st EU press - Delicate Sound Of Thunder - side 2](https://www.youtube.com/watch?v=nz3aH7ZX9CY)
-- [Pink Floyd - Run Like Hell Live Delicate Sound Of Thunder 2019 Remix](https://www.youtube.com/watch?v=tepWRMseQiM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +71,5 @@ The album was remixed, restored and reissued in December 2019 for The Later Year
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP16 |
-| Notes | The sticker, the cover and the label show "Breathe in the Air (Reprise)" but the song is not present. Very similar release, but with correct printed setlist is here: [r=29067676] |
+| Notes | The sticker, the cover and the label show "Breathe in the Air (Reprise)" but the song is not present.<br>Very similar release, but with correct printed setlist is here: [r=29067676] |
 | Discogs URL    | [Pink Floyd - Delicate Sound Of Thunder](https://www.discogs.com/release/10775346-Pink-Floyd-Delicate-Sound-Of-Thunder) |

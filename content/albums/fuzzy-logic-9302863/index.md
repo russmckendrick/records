@@ -4,6 +4,7 @@ artist_name: "Super Furry Animals"
 artist: "super-furry-animals"
 album_name: "Fuzzy Logic"
 date: 2016-11-05T12:25:43.000000Z
+release_date: "1996-05-20"
 release_id: "9302863"
 slug: "fuzzy-logic-9302863"
 hideSummary: true
@@ -28,35 +29,32 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 Fuzzy Logic is the debut album by the Welsh rock band Super Furry Animals. Recorded at Rockfield Studios in Wales, and released on the Creation label in May 1996, it was positively received by critics, who felt it was an eclectic if inconsistent mix of psychedelic music and glam rock, and was included in Q Magazine's list of recordings of the year. It has retained a modest respect among some critics; it was listed in Q's "Best British Albums Ever" in July 2004, and is included in the book 1001 Albums You Must Hear Before You Die. It contains two top 20 hits in "If You Don't Want Me to Destroy You" and "Something 4 the Weekend"; it also contains the singles "God! Show Me Magic" and "Hometown Unicorn". It reached number 23 in the UK Albums Chart on release. In 2013, NME ranked it at number 245 in its list of the 500 Greatest Albums of All Time.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. God! Show Me Magic (1:50)
-2. Fuzzy Birds (2:27)
-3. Something 4 The Weekend (2:33)
-4. Frisbee (2:21)
-5. Hometown Unicorn (3:33)
-6. Gathering Moss (3:22)
-7. If You Don't Want Me To Destroy You (3:17)
-8. Bad Behaviour (4:26)
-9. Mario Man (4:07)
-10. Hangin' With Howard Marks (4:20)
-11. Long Gone (5:20)
-12. For Now And Ever (3:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | God! Show Me Magic | 1:50 |
+| A2 | Fuzzy Birds | 2:27 |
+| A3 | Something 4 The Weekend | 2:33 |
+| A4 | Frisbee | 2:21 |
+| A5 | Hometown Unicorn | 3:33 |
+| A6 | Gathering Moss | 3:22 |
+| A7 | If You Don't Want Me To Destroy You | 3:17 |
+| B1 | Bad Behaviour | 4:26 |
+| B2 | Mario Man | 4:07 |
+| B3 | Hangin' With Howard Marks | 4:20 |
+| B4 | Long Gone | 5:20 |
+| B5 | For Now And Ever | 3:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fuzzy-logic/1439967206" >}}<br>
 
 
-## Videos
-### Super Furry Animals - God Show Me Magic Video
-{{< youtube id="d1siktyfFxY" title="Super Furry Animals - God Show Me Magic Video" >}}<br>
-### More Videos
-
-- [Super Furry Animals - If You Dont Want Me To Destroy You](https://www.youtube.com/watch?v=TT03pCDn6DA)
-- [Super Furry Animals - Something 4 the Weekend Video](https://www.youtube.com/watch?v=D1QyO4TkWts)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +66,5 @@ Fuzzy Logic is the debut album by the Welsh rock band Super Furry Animals. Recor
 | Format         | Vinyl LP Album Reissue Remastered (20th Anniversary,180g, Gatefold) |
 | Label          | BMG |
 | Catalog Number | BMGCATLP77 |
-| Notes | Recorded and mixed at Rockfield Studios, Wales, Earth.  2016 reissue of original 1996 release.  2016 new remaster from the original tapes.  *************************************************************************************************************************************************************  The matrix elements of the runouts are stamped on both sides; whereas references to Jonz Loud (or variants of) are etched |
+| Notes | Recorded and mixed at Rockfield Studios, Wales, Earth.<br><br>2016 reissue of original 1996 release.<br><br>2016 new remaster from the original tapes.<br><br>*************************************************************************************************************************************************************<br><br>The matrix elements of the runouts are stamped on both sides; whereas references to Jonz Loud (or variants of) are etched |
 | Discogs URL    | [Super Furry Animals - Fuzzy Logic](https://www.discogs.com/release/9302863-Super-Furry-Animals-Fuzzy-Logic) |

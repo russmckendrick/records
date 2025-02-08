@@ -4,6 +4,7 @@ artist_name: "Porcupine Tree"
 artist: "porcupine-tree"
 album_name: "Coma Divine"
 date: 2017-05-20T15:11:49.000000Z
+release_date: "1997-10-03"
 release_id: "10285598"
 slug: "coma-divine-10285598"
 hideSummary: true
@@ -35,33 +36,33 @@ styles: ["Prog Rock"]
 
 Coma Divine – Recorded Live in Rome or just Coma Divine, is a live album by British progressive rock band Porcupine Tree, first released in October 1997. It was expanded to a double album in 2003, adding the three tracks from the promotional single Coma Divine II (1999), and one more previously unreleased outtake. The expanded edition was also released on vinyl containing 3 LPs, plus a bonus 7 inch single with two demo versions of the song "Disappear" (later included on the compilation album The Sound of No One Listening in 2020; a newer version was included on the "Four Chords That Made a Million" single in 2000 and the compilation Recordings in 2001).
 The album was finally revamped in digipack through Snapper label in 2004.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Bornlivedieintro
-2. Signify
-3. Waiting Phase One
-4. Waiting Phase Two
-5. The Sky Moves Sideways
-6. Dislocated Day
-7. The Sleep Of No Dreaming
-8. Moonloop
-9. Up The Downstair
-10. The Moon Touches Your Shoulder
-11. Always Never
-12. Is...Not
-13. Radioactive Toy
-14. Not Beautiful Anymore
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Bornlivedieintro |  |
+| A2 | Signify |  |
+| A3 | Waiting Phase One |  |
+| A4 | Waiting Phase Two |  |
+| B5 | The Sky Moves Sideways |  |
+| B6 | Dislocated Day |  |
+| C7 | The Sleep Of No Dreaming |  |
+| C8 | Moonloop |  |
+| D9 | Up The Downstair |  |
+| D10 | The Moon Touches Your Shoulder |  |
+| D11 | Always Never |  |
+| E12 | Is...Not |  |
+| E13 | Radioactive Toy |  |
+| F14 | Not Beautiful Anymore |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/coma-divine-recorded-live-in-rome-expanded-edition/1170643787" >}}<br>
 
-
-## Videos
-### Porcupine Tree - Coma Divine
-{{< youtube id="m3ny45ETHVk" title="Porcupine Tree - Coma Divine" >}}<br>
 
 
 ## Release Images
@@ -74,5 +75,5 @@ The album was finally revamped in digipack through Snapper label in 2004.
 | Format         | Vinyl 3× LP Album Reissue Remastered |
 | Label          | Kscope |
 | Catalog Number | Kscope950 |
-| Notes | Comes in gate-fold sleeve with hype sticker. The release contains 3 coloured printed inner sleeves, showing art prints on one, tracks on the other side and a 4 sided booklet showing art prints on the outside and band photos inside  This vinyl uses the 2012 remaster. Coma Divine was the only Delerium Years album that didn’t get a new remaster. So this version is exactly the same remaster as in [url=https://www.discogs.com/Porcupine-Tree-The-Delerium-Years-1994-1997/release/8088258]the box set[/url], and as in the 2012 release [url=https://www.discogs.com/Porcupine-Tree-Coma-Divine/release/3848521]KSCOPE834[/url]  [Sticker] Porcupine Tree Coma Divine 3LP SET Remastered by Steven Wilson Recorded over 3 nights at the 'Frontiera' Rome in 1997 Includes 'Waiting', 'Signify', 'The Sky Moves Sideways' & 'Radioactive Toy' [Kscope logo] 950 kscopemusic.com/porcupinetree   Some copies came with a 4 sided Kscope hype sheet  Tracks are sequentially listed regardless of sides.  ℗ 2012 Snapper Music Plc. © 2012 Snapper Music Plc.   The runout strings are etched. |
+| Notes | Comes in gate-fold sleeve with hype sticker. The release contains 3 coloured printed inner sleeves, showing art prints on one, tracks on the other side and a 4 sided booklet showing art prints on the outside and band photos inside<br><br>This vinyl uses the 2012 remaster. Coma Divine was the only Delerium Years album that didn’t get a new remaster. So this version is exactly the same remaster as in [url=https://www.discogs.com/Porcupine-Tree-The-Delerium-Years-1994-1997/release/8088258]the box set[/url], and as in the 2012 release [url=https://www.discogs.com/Porcupine-Tree-Coma-Divine/release/3848521]KSCOPE834[/url]<br><br>[Sticker]<br>Porcupine Tree<br>Coma Divine<br>3LP SET<br>Remastered by Steven Wilson<br>Recorded over 3 nights at<br>the 'Frontiera' Rome in 1997<br>Includes 'Waiting', 'Signify',<br>'The Sky Moves Sideways'<br>& 'Radioactive Toy'<br>[Kscope logo] 950<br>kscopemusic.com/porcupinetree<br><br><br>Some copies came with a 4 sided Kscope hype sheet<br><br>Tracks are sequentially listed regardless of sides.<br><br>℗ 2012 Snapper Music Plc. © 2012 Snapper Music Plc. <br><br>The runout strings are etched. |
 | Discogs URL    | [Porcupine Tree - Coma Divine](https://www.discogs.com/release/10285598-Porcupine-Tree-Coma-Divine) |

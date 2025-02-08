@@ -4,6 +4,7 @@ artist_name: "Tim Bowness"
 artist: "tim-bowness"
 album_name: "Lost In The Ghost Light"
 date: 2017-02-18T11:14:07.000000Z
+release_date: "2017-02-17"
 release_id: "9852036"
 slug: "lost-in-the-ghost-light-9852036"
 hideSummary: true
@@ -28,35 +29,35 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Worlds Of Yesterday (5:41)
-2. Moonshot Manchild (8:58)
-3. Kill The Pain That's Killing You (3:44)
-4. Nowhere Good To Go (4:46)
-5. You'll Be The Silence (9:01)
-6. Lost In The Ghost Light (1:40)
-7. You Wanted To Be Seen (5:32)
-8. Distant Summers (4:06)
-9. Worlds Of Yesterday (5:41)
-10. Moonshot Manchild (8:58)
-11. Kill The Pain That's Killing You (3:44)
-12. Nowhere Good To Go (4:46)
-13. You'll Be The Silence (9:01)
-14. Lost In The Ghost Light (1:40)
-15. You Wanted To Be Seen (5:32)
-16. Distant Summers (4:06)
+| Position | Title | Duration |
+|----------|-------|----------|
+| LP-A1 | Worlds Of Yesterday | 5:41 |
+| LP-A2 | Moonshot Manchild | 8:58 |
+| LP-A3 | Kill The Pain That's Killing You | 3:44 |
+| LP-A4 | Nowhere Good To Go | 4:46 |
+| LP-B1 | You'll Be The Silence | 9:01 |
+| LP-B2 | Lost In The Ghost Light | 1:40 |
+| LP-B3 | You Wanted To Be Seen | 5:32 |
+| LP-B4 | Distant Summers | 4:06 |
+| CD-1 | Worlds Of Yesterday | 5:41 |
+| CD-2 | Moonshot Manchild | 8:58 |
+| CD-3 | Kill The Pain That's Killing You | 3:44 |
+| CD-4 | Nowhere Good To Go | 4:46 |
+| CD-5 | You'll Be The Silence | 9:01 |
+| CD-6 | Lost In The Ghost Light | 1:40 |
+| CD-7 | You Wanted To Be Seen | 5:32 |
+| CD-8 | Distant Summers | 4:06 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lost-in-the-ghost-light/1179909058" >}}<br>
 
 
-## Videos
-### Tim Bowness - Lost In The Ghost Light album trailer
-{{< youtube id="MSh-64nnnSM" title="Tim Bowness - Lost In The Ghost Light album trailer" >}}<br>
-### More Videos
-
-- [Tim Bowness - Kill the Pain Thats Killing You](https://www.youtube.com/watch?v=6rCXh6FAsZ0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +68,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl LP Album (Gold), CD Album, All Media Limited Edition Numbered |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 473 |
-| Notes | Gold vinyl + CD in gatefold. Limited to 400 copies. Burning Shed mailorder exclusive including postcard signed by Tim Bowness.  Tracks durations as indicated on release back. |
+| Notes | Gold vinyl + CD in gatefold.<br>Limited to 400 copies.<br>Burning Shed mailorder exclusive including postcard signed by Tim Bowness.<br><br>Tracks durations as indicated on release back. |
 | Discogs URL    | [Tim Bowness - Lost In The Ghost Light](https://www.discogs.com/release/9852036-Tim-Bowness-Lost-In-The-Ghost-Light) |

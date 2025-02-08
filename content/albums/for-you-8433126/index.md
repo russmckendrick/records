@@ -38,21 +38,23 @@ For You reached No. 163 on the Billboard 200 and No. 21 on the Billboard Soul ch
 
 
 ## Tracklisting
-1. Side One
-2. For You (1:06)
-3. In Love (3:38)
-4. Soft And Wet (3:01)
-5. Crazy You (2:17)
-6. Just As Long As We're Together (6:24)
-7. The Other Side
-8. Baby (3:09)
-9. My Love Is Forever (4:09)
-10. So Blue (4:26)
-11. I'm Yours (5:01)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Side One |  |
+| A1 | For You | 1:06 |
+| A2 | In Love | 3:38 |
+| A3 | Soft And Wet | 3:01 |
+| A4 | Crazy You | 2:17 |
+| A5 | Just As Long As We're Together | 6:24 |
+|  | The Other Side |  |
+| B1 | Baby | 3:09 |
+| B2 | My Love Is Forever | 4:09 |
+| B3 | So Blue | 4:26 |
+| B4 | I'm Yours | 5:01 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-ones-for-you/1228887671" >}}<br>
-
 
 
 
@@ -66,5 +68,5 @@ For You reached No. 163 on the Billboard 200 and No. 21 on the Billboard Soul ch
 | Format         | Vinyl LP Album Reissue |
 | Label          | Warner Bros. Records |
 | Catalog Number | 9362-49220-9 |
-| Notes | Original 1978 vinyl mastering by Bernie Grundman at A&M (artwork) Reissue 2016 vinyl mastering by Kevin Gray at Cohearant Audio (matrix/runout) |
+| Notes | Original 1978 vinyl mastering by Bernie Grundman at A&M (artwork)<br>Reissue 2016 vinyl mastering by Kevin Gray at Cohearant Audio (matrix/runout) |
 | Discogs URL    | [Prince - For You](https://www.discogs.com/release/8433126-Prince-For-You) |

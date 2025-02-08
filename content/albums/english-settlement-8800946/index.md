@@ -43,60 +43,44 @@ English Settlement was well-received critically and continues to be regarded by 
 
 
 ## Tracklisting
-1. Runaways (4:51)
-2. Ball And Chain (4:28)
-3. Senses Working Overtime (4:45)
-4. Jason And The Argonauts (6:03)
-5. No Thugs In Our House (5:16)
-6. Yacht Dance (3:52)
-7. All Of A Sudden (It's Too Late) (5:18)
-8. Melt The Guns (6:31)
-9. Leisure (5:01)
-10. It's Nearly Africa (3:54)
-11. Knuckle Down (4:26)
-12. Fly On The Wall (3:11)
-13. Down In The Cockpit (5:35)
-14. English Roundabout (3:50)
-15. Snowman (4:26)
-16. Runaways (4:51)
-17. Ball And Chain (4:28)
-18. Senses Working Overtime (4:45)
-19. Jason And The Argonauts (6:03)
-20. No Thugs In Our House (5:16)
-21. Yacht Dance (3:52)
-22. All Of A Sudden (It's Too Late) (5:18)
-23. Melt The Guns (6:31)
-24. Leisure (5:01)
-25. It's Nearly Africa (3:54)
-26. Knuckle Down (4:26)
-27. Fly On The Wall (3:11)
-28. Down In The Cockpit (5:35)
-29. English Roundabout (3:50)
-30. Snowman (4:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Runaways | 4:51 |
+| A2 | Ball And Chain | 4:28 |
+| A3 | Senses Working Overtime | 4:45 |
+| A4 | Jason And The Argonauts | 6:03 |
+| B1 | No Thugs In Our House | 5:16 |
+| B2 | Yacht Dance | 3:52 |
+| B3 | All Of A Sudden (It's Too Late) | 5:18 |
+| C1 | Melt The Guns | 6:31 |
+| C2 | Leisure | 5:01 |
+| C3 | It's Nearly Africa | 3:54 |
+| C4 | Knuckle Down | 4:26 |
+| D1 | Fly On The Wall | 3:11 |
+| D2 | Down In The Cockpit | 5:35 |
+| D3 | English Roundabout | 3:50 |
+| D4 | Snowman | 4:26 |
+| CD-1 | Runaways | 4:51 |
+| CD-2 | Ball And Chain | 4:28 |
+| CD-3 | Senses Working Overtime | 4:45 |
+| CD-4 | Jason And The Argonauts | 6:03 |
+| CD-5 | No Thugs In Our House | 5:16 |
+| CD-6 | Yacht Dance | 3:52 |
+| CD-7 | All Of A Sudden (It's Too Late) | 5:18 |
+| CD-8 | Melt The Guns | 6:31 |
+| CD-9 | Leisure | 5:01 |
+| CD-10 | It's Nearly Africa | 3:54 |
+| CD-11 | Knuckle Down | 4:26 |
+| CD-12 | Fly On The Wall | 3:11 |
+| CD-13 | Down In The Cockpit | 5:35 |
+| CD-14 | English Roundabout | 3:50 |
+| CD-15 | Snowman | 4:26 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/english-settlement/724357979" >}}<br>
 
 
-## Videos
-### Runaways 2001 Remaster
-{{< youtube id="tJocUSEXk8c" title="Runaways 2001 Remaster" >}}<br>
-### More Videos
-
-- [Ball And Chain 2001 Remaster](https://www.youtube.com/watch?v=aiGgyr02X08)
-- [Senses Working Overtime Remastered 2001](https://www.youtube.com/watch?v=kjt7AdLYT2w)
-- [Jason And The Argonauts 2001 Remaster](https://www.youtube.com/watch?v=G8yzT0LItfU)
-- [No Thugs In Our House 2001 Remaster](https://www.youtube.com/watch?v=PnRzV4ehSxY)
-- [Yacht Dance 2001 Remaster](https://www.youtube.com/watch?v=gPOYlIsy18Y)
-- [All Of A Sudden Its Too Late](https://www.youtube.com/watch?v=yCvGUu3DBJQ)
-- [Melt The Guns 2001 Remaster](https://www.youtube.com/watch?v=FPWEiqHVFGI)
-- [Leisure 2001 Remaster](https://www.youtube.com/watch?v=nwKjnLE8j0M)
-- [Its Nearly Africa 2001 Remaster](https://www.youtube.com/watch?v=6PLGLATbfpY)
-- [Knuckle Down 2001 Remaster](https://www.youtube.com/watch?v=5Y-fCyRSdho)
-- [Fly On The Wall 2001 Remaster](https://www.youtube.com/watch?v=--6yDQhARM8)
-- [Down In The Cockpit 2001 Remaster](https://www.youtube.com/watch?v=lPEVlbV7KoA)
-- [English Roundabout 2001 Remaster](https://www.youtube.com/watch?v=aSIyaZoG0sU)
-- [Snowman 2001 Remaster](https://www.youtube.com/watch?v=jzGFzWxBep8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -108,5 +92,5 @@ English Settlement was well-received critically and continues to be regarded by 
 | Format         | Vinyl 2× LP Album Reissue, CD Album Reissue, Box Set Deluxe Edition |
 | Label          | Ape House |
 | Catalog Number | APELPD105 |
-| Notes | A deluxe version of XTC's 1982 classic, English Settlement.   Including:   * 2 x 33rpm, 200g heavyweight vinyl  * 12" 16 page booklet with song notes by band members  * Lyric sheet  * 2016 cut from original half-inch master sources  * CD mastered from the same original master sources  * All contents packaged in a sturdy slipcase   While looking for the (still 'lost in the archives') multi-track tapes to enable Steven Wilson to undertake new stereo and 5.1 surround mixes of the album, the original half-inch master tapes were discovered and used as source masters from which engineer John Dent cut new lacquers for this heavyweight vinyl edition.  |
+| Notes | A deluxe version of XTC's 1982 classic, English Settlement. <br><br>Including: <br><br>* 2 x 33rpm, 200g heavyweight vinyl <br>* 12" 16 page booklet with song notes by band members <br>* Lyric sheet <br>* 2016 cut from original half-inch master sources <br>* CD mastered from the same original master sources <br>* All contents packaged in a sturdy slipcase <br><br>While looking for the (still 'lost in the archives') multi-track tapes to enable Steven Wilson to undertake new stereo and 5.1 surround mixes of the album, the original half-inch master tapes were discovered and used as source masters from which engineer John Dent cut new lacquers for this heavyweight vinyl edition.  |
 | Discogs URL    | [XTC - English Settlement](https://www.discogs.com/release/8800946-XTC-English-Settlement) |

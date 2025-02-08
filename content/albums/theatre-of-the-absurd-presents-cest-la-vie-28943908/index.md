@@ -4,6 +4,7 @@ artist_name: "Madness"
 artist: "madness"
 album_name: "Theatre Of The Absurd Presents C’est La Vie"
 date: 2023-11-21T10:25:26.000000Z
+release_date: "2023-11-17"
 release_id: "28943908"
 slug: "theatre-of-the-absurd-presents-cest-la-vie-28943908"
 hideSummary: true
@@ -20,51 +21,39 @@ styles: ["Ska", "Pop Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Prologue "Mr Beckett Sir..."
-2. Theatre Of The Absurd
-3. If I Go Mad
-4. Baby Burglar
-5. Act One "Surrounded On All Sides..."
-6. C'Est La Vie
-7. What On Earth Is It (You Take Me For?)
-8. Hour Of Need
-9. Act Two "The Damsel In Distress.."
-10. Round We Go
-11. Act Three "The Situation Deteriorates..."
-12. Lockdown And Frack Off
-13. Beginners 101
-14. Is There Anybody Out There?
-15. The Law According To Dr. Kippah
-16. Epilogue "And So Ladies And Gentlemen..."
-17. Run For Your Life
-18. Set Me Free (Let Me Be)
-19. In My Street
-20. Fin "Ladies And Gentlemen"
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Prologue "Mr Beckett Sir..." |  |
+| A2 | Theatre Of The Absurd |  |
+| A3 | If I Go Mad |  |
+| A4 | Baby Burglar |  |
+| B1 | Act One "Surrounded On All Sides..." |  |
+| B2 | C'Est La Vie |  |
+| B3 | What On Earth Is It (You Take Me For?) |  |
+| B4 | Hour Of Need |  |
+| B5 | Act Two "The Damsel In Distress.." |  |
+| B6 | Round We Go |  |
+| C1 | Act Three "The Situation Deteriorates..." |  |
+| C2 | Lockdown And Frack Off |  |
+| C3 | Beginners 101 |  |
+| C4 | Is There Anybody Out There? |  |
+| C5 | The Law According To Dr. Kippah |  |
+| D1 | Epilogue "And So Ladies And Gentlemen..." |  |
+| D2 | Run For Your Life |  |
+| D3 | Set Me Free (Let Me Be) |  |
+| D4 | In My Street |  |
+| D5 | Fin "Ladies And Gentlemen" |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/theatre-of-the-absurd-presents-cest-la-vie/1705669890" >}}<br>
 
 
-## Videos
-### Madness - Theatre Of The Absurd introduces Acts 1 2  3 Official Video
-{{< youtube id="QkfxpJzWaOk" title="Madness - Theatre Of The Absurd introduces Acts 1 2  3 Official Video" >}}<br>
-### More Videos
-
-- [Madness - Cest La Vie - Official Video Extended Version](https://www.youtube.com/watch?v=ln8HewrmbqA)
-- [Madness - Theatre of the Absurd presents Cest La Vie Full Album 2023](https://www.youtube.com/watch?v=JZpM97DCfK8)
-- [Madness - In My Street Official Audio](https://www.youtube.com/watch?v=T8i2PMWqt0Y)
-- [Theatre of the Absurd Introduces Cest La Vie - Madness](https://www.youtube.com/watch?v=8LNJpC8TH-g)
-- [Madness - If I Go Mad Official Audio](https://www.youtube.com/watch?v=Tju6XtD-a_4)
-- [Madness - Cest La Vie Official Audio](https://www.youtube.com/watch?v=4EmfBzpefz0)
-- [Madness - Cest La Vie Lyric Video](https://www.youtube.com/watch?v=Xyd9kgraOPs)
-- [Madness - Round We Go Official Audio](https://www.youtube.com/watch?v=ecmVv_S10p0)
-- [Madness - Theatre Of The Absurd introduces Acts 1 2  3 Official Video](https://www.youtube.com/watch?v=QkfxpJzWaOk)
-- [Madness - Cest La Vie - Official Video Extended Version](https://www.youtube.com/watch?v=ln8HewrmbqA)
-- [Madness - Friday Night Saturday Morning Live From The Cest La Vie Tour Official Audio](https://www.youtube.com/watch?v=EfpJvyhTuis)
-- [Madness - Friday Night Saturday Morning - Terry Hall  The Specials cover - London 19 Oct 2023](https://www.youtube.com/watch?v=8xuJ_8LHuvY)
-- [Madness live 2023 Terry Hall Tribute Specials](https://www.youtube.com/watch?v=qqK-a9zOftI)
 
 ## Release Images
 {{< imageGrid >}}

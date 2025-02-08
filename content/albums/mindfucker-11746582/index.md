@@ -32,36 +32,26 @@ After highlighting Monster Magnet’s melodic side and Stones-schooled roots on 
 
 
 ## Tracklisting
-1. Rocket Freak
-2. Soul
-3. Mindfucker
-4. I'm God
-5. Drowning
-6. Ejection
-7. Want Some
-8. Brainwashed
-9. All Day Midnight
-10. When The Hammer Comes Down
-11. You Can't Be Trusted [bonus track]
-12. Utopia [bonus track]
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rocket Freak |  |
+| A2 | Soul |  |
+| A3 | Mindfucker |  |
+| A4 | I'm God |  |
+| B1 | Drowning |  |
+| B2 | Ejection |  |
+| B3 | Want Some |  |
+| B4 | Brainwashed |  |
+| C1 | All Day Midnight |  |
+| C2 | When The Hammer Comes Down |  |
+| C3 | You Can't Be Trusted [bonus track] |  |
+| C4 | Utopia [bonus track] |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mastermind/1183584710" >}}<br>
 
 
-## Videos
-### MONSTER MAGNET - Ejection Official Video  Napalm Records
-{{< youtube id="odiGshPzmlI" title="MONSTER MAGNET - Ejection Official Video  Napalm Records" >}}<br>
-### More Videos
-
-- [MONSTER MAGNET - Im God Official Lyric Video  Napalm Records](https://www.youtube.com/watch?v=jxvU7o_PSWk)
-- [MONSTER MAGNET - Mindfucker Official Video  Napalm Records](https://www.youtube.com/watch?v=tsvvS142wWg)
-- [Monster Magnet - Utopia BONUS TRACK off of Mindfucker](https://www.youtube.com/watch?v=M4DKRUQmVvY)
-- [MONSTER MAGNET - Ejection Official Video  Napalm Records](https://www.youtube.com/watch?v=odiGshPzmlI)
-- [MONSTER MAGNET - Im God Official Lyric Video  Napalm Records](https://www.youtube.com/watch?v=jxvU7o_PSWk)
-- [MONSTER MAGNET - Mindfucker Official Video  Napalm Records](https://www.youtube.com/watch?v=tsvvS142wWg)
-- [Monster Magnet - Utopia BONUS TRACK off of Mindfucker](https://www.youtube.com/watch?v=M4DKRUQmVvY)
-- [Monster Magnet - Utopia BONUS TRACK off of Mindfucker](https://www.youtube.com/watch?v=M4DKRUQmVvY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +62,5 @@ After highlighting Monster Magnet’s melodic side and Stones-schooled roots on 
 | Format         | Vinyl LP (Yellow Opaque), Vinyl LP Single Sided Etched (Yellow Opaque), All Media Album Limited Edition |
 | Label          | Napalm Records |
 | Catalog Number | NPR 757 VINYL |
-| Notes | Hype sticker on shrinkwrap reads: Exclusive and strictly limited Napalm Records mailorder edition *YELLOW*  Limited to 500 copies. |
+| Notes | Hype sticker on shrinkwrap reads: Exclusive and strictly limited Napalm Records mailorder edition *YELLOW*<br><br>Limited to 500 copies. |
 | Discogs URL    | [Monster Magnet - Mindfucker](https://www.discogs.com/release/11746582-Monster-Magnet-Mindfucker) |

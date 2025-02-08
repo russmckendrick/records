@@ -1,9 +1,10 @@
 ---
 title: "Cassandra Jenkins - My Light, My Destroyer"
 artist_name: "Cassandra Jenkins"
-artist: "cassandra-jenkins-2"
+artist: "cassandra-jenkins"
 album_name: "My Light, My Destroyer"
 date: 2024-07-30T03:45:06.000000Z
+release_date: "2024-07-12"
 release_id: "31205095"
 slug: "my-light-my-destroyer-31205095"
 hideSummary: true
@@ -22,28 +23,31 @@ styles: ["Indie Pop", "Dream Pop", "Indie Rock", "New Age"]
 ---
 
 My Light, My Destroyer is the third studio album by American pop musician Cassandra Jenkins. It is her first release on Dead Oceans and has received positive reviews from critics who have praised her songwriting, evolution as a musician from her previous work, and the cosmic themes on the songs, written with a metaphorical overview effect that discusses personal emotions.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Devotion
-2. Clams Casino
-3. Delphinium Blue
-4. Shatner’s Theme
-5. Aurora, IL 
-6. Betelgeuse
-7. Omakase
-8. Music??
-9. Petco
-10. Attente Téléphonique
-11. Tape and Tissue
-12. Only One
-13. Hayley
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Devotion |  |
+| A2 | Clams Casino |  |
+| A3 | Delphinium Blue |  |
+| A4 | Shatner’s Theme |  |
+| A5 | Aurora, IL  |  |
+| A6 | Betelgeuse |  |
+| B1 | Omakase |  |
+| B2 | Music?? |  |
+| B3 | Petco |  |
+| B4 | Attente Téléphonique |  |
+| B5 | Tape and Tissue |  |
+| B6 | Only One |  |
+| B7 | Hayley |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/my-light-my-destroyer/1738308923" >}}<br>
-
 
 
 

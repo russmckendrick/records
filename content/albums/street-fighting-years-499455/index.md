@@ -4,6 +4,7 @@ artist_name: "Simple Minds"
 artist: "simple-minds"
 album_name: "Street Fighting Years"
 date: 2016-04-25T21:08:38.000000Z
+release_date: "1989-05-08"
 release_id: "499455"
 slug: "street-fighting-years-499455"
 hideSummary: true
@@ -32,36 +33,30 @@ styles: ["Pop Rock"]
 Street Fighting Years is the eighth studio album by Scottish rock band Simple Minds, released in May 1989 by record label Virgin Records worldwide apart from the US, where it was released by A&M. Produced by Trevor Horn and Stephen Lipson, the album reached the top of the UK Albums Chart.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Street Fighting Years (6:18)
-2. Soul Crying Out (6:06)
-3. Wall Of Love (5:16)
-4. This Is Your Land (6:16)
-5. Take A Step Back (4:20)
-6. Kick It In (6:08)
-7. Let It All Come Down (4:50)
-8. Mandela Day (5:36)
-9. Belfast Child (6:38)
-10. Biko (7:30)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Street Fighting Years | 6:18 |
+| A2 | Soul Crying Out | 6:06 |
+| A3 | Wall Of Love | 5:16 |
+| A4 | This Is Your Land | 6:16 |
+| A5 | Take A Step Back | 4:20 |
+| B1 | Kick It In | 6:08 |
+| B2 | Let It All Come Down | 4:50 |
+| B3 | Mandela Day | 5:36 |
+| B4 | Belfast Child | 6:38 |
+| B5 | Biko | 7:30 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/street-fighting-years-super-deluxe/1494164697" >}}<br>
 
 
-## Videos
-### Simple Minds - Street Fighting Years Live
-{{< youtube id="TJw3WTtOLqk" title="Simple Minds - Street Fighting Years Live" >}}<br>
-### More Videos
-
-- [Simple Minds - Belfast Child](https://www.youtube.com/watch?v=7vhhTvcLoRw)
-- [Simple Minds - Kick It In](https://www.youtube.com/watch?v=Fe2Pl9MnPHc)
-- [Biko Remastered 2002](https://www.youtube.com/watch?v=o4TKoLcrAdY)
-- [Simple Minds - Street Fighting Years Live](https://www.youtube.com/watch?v=TJw3WTtOLqk)
-- [Simple Minds - This Is Your Land](https://www.youtube.com/watch?v=GqpAY2OBJzc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +68,5 @@ Street Fighting Years is the eighth studio album by Scottish rock band Simple Mi
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Virgin |
 | Catalog Number | MINDS1 |
-| Notes | [a11879] appears courtesy of [l27031] / [l38030].  All digitally recorded and mixed analogue i.e. "DAD"   "Street Fighting Years" song written in memory of Victor Jara.  Made In Scotland March '88 - March '89. Studio Drums provided by Tama. Source of graphic: The Beauty of Fractals.  Published by Virgin Music (Publishers) Ltd. except B2 published by Copyright Control/Virgin Music (Publishers) Ltd. and B5 published by Peter Gabriel Ltd.  ℗&© 1989 Virgin Records Ltd.  Manufactured in the UK. *Matrix / Runout (Runout Side A): MINDS1-A1̶2̶U̶ MINDS 1 A-2U-1-2 D MASTERDISK MINDS1-A1̶2̶U̶ & MASTERDISK are etched and the cross out with stamped "X"   Durations do not appear on this release. Timings via stopwatch. |
+| Notes | [a11879] appears courtesy of [l27031] / [l38030].<br><br>All digitally recorded and mixed analogue i.e. "DAD" <br><br>"Street Fighting Years" song written in memory of Victor Jara.<br><br>Made In Scotland March '88 - March '89.<br>Studio Drums provided by Tama.<br>Source of graphic: The Beauty of Fractals.<br><br>Published by Virgin Music (Publishers) Ltd. except B2 published by Copyright Control/Virgin Music (Publishers) Ltd. and B5 published by Peter Gabriel Ltd.<br><br>℗&© 1989 Virgin Records Ltd.<br><br>Manufactured in the UK.<br>*Matrix / Runout (Runout Side A): MINDS1-A1̶2̶U̶ MINDS 1 A-2U-1-2 D MASTERDISK<br>MINDS1-A1̶2̶U̶ & MASTERDISK are etched and the cross out with stamped "X" <br><br>Durations do not appear on this release. Timings via stopwatch. |
 | Discogs URL    | [Simple Minds - Street Fighting Years](https://www.discogs.com/release/499455-Simple-Minds-Street-Fighting-Years) |

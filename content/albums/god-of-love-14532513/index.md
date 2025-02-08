@@ -4,6 +4,7 @@ artist_name: "Bad Brains"
 artist: "bad-brains"
 album_name: "God Of Love"
 date: 2019-12-16T18:41:48.000000Z
+release_date: "1995-05-23"
 release_id: "14532513"
 slug: "god-of-love-14532513"
 hideSummary: true
@@ -29,40 +30,32 @@ Backed by huge promotion from the label and an opening slot on the Beastie Boys'
 This album was re-released on Record Store Day, April 16, 2011, as only 2,000 copies along with a 7".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Cool Mountaineer
-2. Justice Keepers
-3. Long Time
-4. Rights Of A Child
-5. God Of Love
-6. Overs The Water
-7. Tongue Tee Tie
-8. Darling I Need You
-9. To The Heavens
-10. Thank Jah
-11. Big Fun
-12. How I Love Thee
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cool Mountaineer |  |
+| A2 | Justice Keepers |  |
+| A3 | Long Time |  |
+| A4 | Rights Of A Child |  |
+| A5 | God Of Love |  |
+| A6 | Overs The Water |  |
+| B1 | Tongue Tee Tie |  |
+| B2 | Darling I Need You |  |
+| B3 | To The Heavens |  |
+| B4 | Thank Jah |  |
+| B5 | Big Fun |  |
+| B6 | How I Love Thee |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/god-of-love/298875762" >}}<br>
 
 
-## Videos
-### Bad Brains - God Of Love Full album 1995
-{{< youtube id="qL_2Vw1iUoA" title="Bad Brains - God Of Love Full album 1995" >}}<br>
-### More Videos
-
-- [Bad Brains - To The Heavens](https://www.youtube.com/watch?v=9scEyRRKRHU)
-- [How I Love Thee](https://www.youtube.com/watch?v=HlUQmaEBRLE)
-- [Bad Brains  -  God of Love](https://www.youtube.com/watch?v=ryLmymTTfGg)
-- [Cool Mountaineer](https://www.youtube.com/watch?v=boZu3RvzApE)
-- [Darling I Need You](https://www.youtube.com/watch?v=SadIA-zX4vk)
-- [Justice Keepers](https://www.youtube.com/watch?v=isp3qJH_jlI)
-- [Long Time](https://www.youtube.com/watch?v=jUVw_nD5Hws)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +67,5 @@ This album was re-released on Record Store Day, April 16, 2011, as only 2,000 co
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Green/Yellow Mixed, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2531 |
-| Notes | 180-gram audiophile vinyl Insert Limited edition of 1000 individually numbered copies on coloured (transparent green & solid yellow mixed) vinyl |
+| Notes | 180-gram audiophile vinyl<br>Insert<br>Limited edition of 1000 individually numbered copies on coloured (transparent green & solid yellow mixed) vinyl |
 | Discogs URL    | [Bad Brains - God Of Love](https://www.discogs.com/release/14532513-Bad-Brains-God-Of-Love) |

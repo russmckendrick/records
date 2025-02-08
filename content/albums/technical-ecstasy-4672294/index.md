@@ -4,6 +4,7 @@ artist_name: "Black Sabbath"
 artist: "black-sabbath"
 album_name: "Technical Ecstasy"
 date: 2017-05-27T15:34:42.000000Z
+release_date: "1976-09-25"
 release_id: "4672294"
 slug: "technical-ecstasy-4672294"
 hideSummary: true
@@ -25,37 +26,28 @@ Technical Ecstasy is the seventh studio album by English rock band Black Sabbath
 An attempt by the band to experiment and explore other musical territory, Technical Ecstasy features more varied and complex songs than earlier records, with prominent keyboard parts and effects. One song, the pop ballad "It's Alright", is sung by drummer Bill Ward, becoming the band's first song  not sung by frontman Ozzy Osbourne. 
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Back Street Kids (3:46)
-2. You Won't Change Me (6:34)
-3. She's Gone (4:51)
-4. Gypsy (5:10)
-5. All Moving Parts (Stand Still) (4:59)
-6. Rock 'N' Roll Doctor (3:25)
-7. It's Alright (3:58)
-8. Dirty Women (7:15)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Back Street Kids | 3:46 |
+| A2 | You Won't Change Me | 6:34 |
+| A3 | She's Gone | 4:51 |
+| A4 | Gypsy | 5:10 |
+| B1 | All Moving Parts (Stand Still) | 4:59 |
+| B2 | Rock 'N' Roll Doctor | 3:25 |
+| B3 | It's Alright | 3:58 |
+| B4 | Dirty Women | 7:15 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/technical-ecstasy/1439822515" >}}<br>
 
 
-## Videos
-### You Wont Change Me 2009 - Remaster
-{{< youtube id="2WemFC9_QOM" title="You Wont Change Me 2009 - Remaster" >}}<br>
-### More Videos
-
-- [Back Street Kids 2021 - Remaster](https://www.youtube.com/watch?v=fIbSaZEQHhE)
-- [Its Alright 2009 - Remaster](https://www.youtube.com/watch?v=dK34ypPMXUA)
-- [Dirty Women 2009 - Remaster](https://www.youtube.com/watch?v=je9WddfojLg)
-- [You Wont Change Me 2021 - Remaster](https://www.youtube.com/watch?v=8bvQvkybeXs)
-- [Gypsy 2009 - Remaster](https://www.youtube.com/watch?v=XegDtu1Ze38)
-- [Black Sabbath - Technical Ecstasy Full Album 1976](https://www.youtube.com/watch?v=8Y5-at7d7YU)
-- [BLACK SABBATH - Dirty Women Live Video](https://www.youtube.com/watch?v=6EBk3czZXlQ)
-- [Its Alright 2013 Remaster](https://www.youtube.com/watch?v=av06oJjdS9A)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +59,5 @@ An attempt by the band to experiment and explore other musical territory, Techni
 | Format         | Cassette Album |
 | Label          | Vertigo |
 | Catalog Number | 7231 400 |
-| Notes | Recorded at Criteria Studios, Miami Florida and Sounds Interchange, Toronto Canada  "It's Alright" and "She's Gone" have switched places compared to the vinyl version. Cassette inlay lists them twice correctly, once wrong. Cassette labels are correct. |
+| Notes | Recorded at Criteria Studios, Miami Florida and Sounds Interchange, Toronto Canada<br><br>"It's Alright" and "She's Gone" have switched places compared to the vinyl version. Cassette inlay lists them twice correctly, once wrong. Cassette labels are correct. |
 | Discogs URL    | [Black Sabbath - Technical Ecstasy](https://www.discogs.com/release/4672294-Black-Sabbath-Technical-Ecstasy) |

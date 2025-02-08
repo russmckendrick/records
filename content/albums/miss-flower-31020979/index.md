@@ -4,6 +4,7 @@ artist_name: "Emiliana Torrini"
 artist: "emiliana-torrini"
 album_name: "Miss Flower"
 date: 2024-07-16T05:09:07.000000Z
+release_date: "2024-06-21"
 release_id: "31020979"
 slug: "miss-flower-31020979"
 hideSummary: true
@@ -26,38 +27,30 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Black Water
-2. Lady K
-3. Waterhole
-4. Dreamers
-5. Miss Flower
-6. Black Lion Lane
-7. Let's Keep Dancing
-8. Love Poem
-9. The Golden Thread
-10. (Silence)
-11. A Dream Through The Floorboards
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Black Water |  |
+| A2 | Lady K |  |
+| A3 | Waterhole |  |
+| A4 | Dreamers |  |
+| A5 | Miss Flower |  |
+| B6 | Black Lion Lane |  |
+| B7 | Let's Keep Dancing |  |
+| B8 | Love Poem |  |
+| B9.1 | The Golden Thread |  |
+| B9.2 | (Silence) |  |
+| B9.3 | A Dream Through The Floorboards |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/miss-flower/1742129465" >}}<br>
 
 
-## Videos
-### Black Water
-{{< youtube id="_ZGI-XJ3uvM" title="Black Water" >}}<br>
-### More Videos
-
-- [Lady K](https://www.youtube.com/watch?v=H5I4-vKFP98)
-- [Waterhole](https://www.youtube.com/watch?v=nn6MfpYeRzY)
-- [Dreamers](https://www.youtube.com/watch?v=O0TbC9eFE3o)
-- [Emiliana Torrini - Miss Flower official video](https://www.youtube.com/watch?v=ZDJyN4_oN28)
-- [Emiliana Torrini - Black Lion Lane official video](https://www.youtube.com/watch?v=T1vKgb4xKSI)
-- [Emiliana Torrini - Lets Keep Dancing official video](https://www.youtube.com/watch?v=KiOBgZ915-w)
-- [Love Poem](https://www.youtube.com/watch?v=jKg60zZAH5I)
-- [The Golden Thread](https://www.youtube.com/watch?v=8YVo5bOUnVU)
-- [A Dream Through The Floorboards](https://www.youtube.com/watch?v=5Z5MXaw8voI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +61,5 @@ styles: []
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | Grönland Records |
 | Catalog Number | LPGRON291 |
-| Notes | ℗ & © 2024 Groenland Records  Lyrics and credits printed on the inner sleeve.  Signed version from JPC shop Germany, sticker code: 5 061010 501890  |
+| Notes | ℗ & © 2024 Groenland Records<br><br>Lyrics and credits printed on the inner sleeve.<br><br>Signed version from JPC shop Germany, sticker code: 5 061010 501890  |
 | Discogs URL    | [Emiliana Torrini - Miss Flower](https://www.discogs.com/release/31020979-Emiliana-Torrini-Miss-Flower) |

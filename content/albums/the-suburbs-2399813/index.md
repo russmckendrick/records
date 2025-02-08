@@ -34,47 +34,30 @@ Arcade Fire released a deluxe edition CD/DVD of The Suburbs on June 27, 2011 (ev
 
 
 ## Tracklisting
-1. The Suburbs (5:14)
-2. Ready To Start (4:17)
-3. Modern Man (4:39)
-4. Rococo (4:01)
-5. Empty Room (2:52)
-6. City With No Children (3:12)
-7. Half Light I (4:14)
-8. Half Light II (No Celebration) (4:25)
-9. Month Of May (3:45)
-10. Wasted Hours (3:26)
-11. Deep Blue (4:29)
-12. We Used To Wait (5:27)
-13. Sprawl I (Flatland) (3:18)
-14. Sprawl II (Mountains Beyond Mountains) (5:21)
-15. Suburban War (4:44)
-16. The Suburbs (Continued) (1:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Suburbs | 5:14 |
+| A2 | Ready To Start | 4:17 |
+| A3 | Modern Man | 4:39 |
+| A4 | Rococo | 4:01 |
+| B5 | Empty Room | 2:52 |
+| B6 | City With No Children | 3:12 |
+| B7 | Half Light I | 4:14 |
+| B8 | Half Light II (No Celebration) | 4:25 |
+| C9 | Month Of May | 3:45 |
+| C10 | Wasted Hours | 3:26 |
+| C11 | Deep Blue | 4:29 |
+| C12 | We Used To Wait | 5:27 |
+| D13 | Sprawl I (Flatland) | 3:18 |
+| D14 | Sprawl II (Mountains Beyond Mountains) | 5:21 |
+| D15 | Suburban War | 4:44 |
+| D16 | The Suburbs (Continued) | 1:26 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-suburbs/1252757950" >}}<br>
 
 
-## Videos
-### Arcade Fire - Arcade Fire presents Sprawl II Mountains Beyond Mountains
-{{< youtube id="NuSbELCNloc" title="Arcade Fire - Arcade Fire presents Sprawl II Mountains Beyond Mountains" >}}<br>
-### More Videos
-
-- [Arcade Fire - Ready to Start Official Video](https://www.youtube.com/watch?v=9oI27uSzxNQ)
-- [Arcade Fire - Suburban War Official Lyric Video](https://www.youtube.com/watch?v=KpWqfrX9908)
-- [Arcade Fire - We Used to Wait Official Lyric Video](https://www.youtube.com/watch?v=xQuUN1HGa0c)
-- [Arcade Fire - Deep Blue Official Lyric Video](https://www.youtube.com/watch?v=-lueG-ZACyA)
-- [Arcade Fire - Wasted Hours Official Lyric Video](https://www.youtube.com/watch?v=OI0IKf_VXYk)
-- [Arcade Fire - Month of May Official Lyric Video](https://www.youtube.com/watch?v=eNINCykhR3I)
-- [Arcade Fire - Half Light II No Celebration Official Lyric Video](https://www.youtube.com/watch?v=tGVFjGjeyQM)
-- [Arcade Fire - Half Light I Official Lyric Video](https://www.youtube.com/watch?v=qrwCeUqB8CU)
-- [Arcade Fire - The Suburbs Official Video](https://www.youtube.com/watch?v=5Euj9f3gdyM)
-- [Arcade Fire - The Suburbs Full Live Album](https://www.youtube.com/watch?v=B1Bt0UiIN5o)
-- [Arcade Fire - Modern Man Official Lyric Video](https://www.youtube.com/watch?v=P_0PhRlfjas)
-- [Arcade Fire - Rococo Official Lyric Video](https://www.youtube.com/watch?v=ly65sLPIKVw)
-- [Arcade Fire - Empty Room Official Lyric Video](https://www.youtube.com/watch?v=qutEvlHaCHE)
-- [Arcade Fire - City with No Children Official Lyric Video](https://www.youtube.com/watch?v=MkgcAmT5Io0)
-- [Arcade Fire - Sprawl I Flatland Official Lyric Video](https://www.youtube.com/watch?v=OQlpJ-ZgEH4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +69,5 @@ Arcade Fire released a deluxe edition CD/DVD of The Suburbs on June 27, 2011 (ev
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | City Slang |
 | Catalog Number | 2743427 |
-| Notes | Printed notes:  Recorded at: Petite Église, Farnham; Magic Shop, New York; Studio Frisson, Montréal; Public Hi-Fi, Austin;   and various bedrooms, living rooms and basements in Montréal.  Mixed at: Studio Frisson, Montréal.  Copyright Arcade Fire Music Inc. (Canada).  All Titles Copyright Control.    A' LA MÉMOIRE DE FRANÇOIS CHEVALLIER.  EN SOLIDARITÉ AVEC LE PEUPLE D' HAITI.      Other notes:  Album comes in a gatefold sleeve.   Inner sleeves with lyrics and credits.  Sides are labelled as Side 1, Side 2, Side 3 and Side 4. Tracks are numbered 1 to 16.  Side 3 ends with a locked groove in the runout which repeats the same piece of music indefinitely.   |
+| Notes | Printed notes:<br>Recorded at: Petite Église, Farnham; Magic Shop, New York; Studio Frisson, Montréal; Public Hi-Fi, Austin; <br>and various bedrooms, living rooms and basements in Montréal.<br>Mixed at: Studio Frisson, Montréal.<br>Copyright Arcade Fire Music Inc. (Canada).<br>All Titles Copyright Control.<br><br>A' LA MÉMOIRE DE FRANÇOIS CHEVALLIER.<br>EN SOLIDARITÉ AVEC LE PEUPLE D' HAITI.<br><br><br>Other notes:<br>Album comes in a gatefold sleeve. <br>Inner sleeves with lyrics and credits.<br>Sides are labelled as Side 1, Side 2, Side 3 and Side 4. Tracks are numbered 1 to 16.<br>Side 3 ends with a locked groove in the runout which repeats the same piece of music indefinitely.<br> |
 | Discogs URL    | [Arcade Fire - The Suburbs](https://www.discogs.com/release/2399813-Arcade-Fire-The-Suburbs) |

@@ -1,16 +1,17 @@
 ---
-title: "R.E.M. - Out Of Time"
-artist_name: "R.E.M."
-artist: "r-e-m"
+title: "REM - Out Of Time"
+artist_name: "REM"
+artist: "rem"
 album_name: "Out Of Time"
 date: 2018-01-08T18:31:33.000000Z
+release_date: "2024-10-10"
 release_id: "9375101"
 slug: "out-of-time-9375101"
 hideSummary: true
 cover:
     image: "out-of-time-9375101.jpg"
-    alt: "Out Of Time by R.E.M."
-    caption: "Out Of Time by R.E.M."
+    alt: "Out Of Time by REM"
+    caption: "Out Of Time by REM"
 additional_images:
     - "https://i.discogs.com/hVcvtaq6k0CLNU5jNOK5edjfzIc7Pjt74is0y7PVVeo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTQ3OTQ4MjEx/Ny01MDEzLmpwZWc.jpeg"
     - "https://i.discogs.com/Z5WL4mNCMRXOMXjY0ed8tG_0rHA1TxmDs0etp0_jEbE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTQ3OTQ4MjEx/NS03ODcwLmpwZWc.jpeg"
@@ -35,52 +36,52 @@ styles: ["Alternative Rock"]
 Out of Time is the seventh studio album by American alternative rock band R.E.M., released on March 12, 1991, by Warner Bros. Records. With Out of Time, R.E.M.'s status grew from that of a cult band to a massive international act. The record topped the album sales charts in both the United States and the United Kingdom, spending 109 weeks on U.S. album charts and, with two separate spells at the top, and spending 183 weeks on the British charts, including one week at the top. The album has sold more than four and a half million copies in the United States and more than 18 million copies worldwide. Out of Time won three Grammy Awards in 1992: one as Best Alternative Music Album, and two for its first single, "Losing My Religion".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Time Side
-2. Radio Song (4:12)
-3. Losing My Religion (4:26)
-4. Low (4:55)
-5. Near Wild Heaven (3:17)
-6. Endgame (3:48)
-7. Memory Side
-8. Shiny Happy People (3:44)
-9. Belong (4:03)
-10. Half A World Away (3:26)
-11. Texarkana (3:36)
-12. Country Feedback (4:07)
-13. Me In Honey (4:06)
-14. Out Of Time Demos
-15. Losing My Religion 1 (Demo) (4:00)
-16. Near Wild Heaven 1 (Demo) (4:09)
-17. Shiny Happy People 1 (Demo) (3:14)
-18. Texarkana 1 (Demo) (3:50)
-19. Untitled Demo 2 (3:33)
-20. Radio – Acoustic (Radio Song 1 Demo) (4:15)
-21. Near Wild Heaven 2 (Demo) (4:34)
-22. Shiny Happy People 2 (Demo) (3:55)
-23. Slow Sad Rocker (Endgame Demo) (4:34)
-24. Radio – Band (Radio Song 3 Demo) (4:22)
-25. Losing My Religion 2 (Demo) (4:36)
-26. Belong (Demo) (4:17)
-27. Blackbirds (Half A World Away Demo) (3:26)
-28. Texarkana (Demo) (4:06)
-29. Country Feedback (Demo) (4:03)
-30. Me On Keyboard (Me In Honey Demo) (3:42)
-31. Low (Demo) (4:54)
-32. 40 Sec. (40 Second Song Demo) (1:22)
-33. Fretless 1 (Demo) (4:52)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Time Side |  |
+| A1 | Radio Song | 4:12 |
+| A2 | Losing My Religion | 4:26 |
+| A3 | Low | 4:55 |
+| A4 | Near Wild Heaven | 3:17 |
+| A5 | Endgame | 3:48 |
+|  | Memory Side |  |
+| B1 | Shiny Happy People | 3:44 |
+| B2 | Belong | 4:03 |
+| B3 | Half A World Away | 3:26 |
+| B4 | Texarkana | 3:36 |
+| B5 | Country Feedback | 4:07 |
+| B6 | Me In Honey | 4:06 |
+|  | Out Of Time Demos |  |
+| C1 | Losing My Religion 1 (Demo) | 4:00 |
+| C2 | Near Wild Heaven 1 (Demo) | 4:09 |
+| C3 | Shiny Happy People 1 (Demo) | 3:14 |
+| C4 | Texarkana 1 (Demo) | 3:50 |
+| C5 | Untitled Demo 2 | 3:33 |
+| D1 | Radio – Acoustic (Radio Song 1 Demo) | 4:15 |
+| D2 | Near Wild Heaven 2 (Demo) | 4:34 |
+| D3 | Shiny Happy People 2 (Demo) | 3:55 |
+| D4 | Slow Sad Rocker (Endgame Demo) | 4:34 |
+| E1 | Radio – Band (Radio Song 3 Demo) | 4:22 |
+| E2 | Losing My Religion 2 (Demo) | 4:36 |
+| E3 | Belong (Demo) | 4:17 |
+| E4 | Blackbirds (Half A World Away Demo) | 3:26 |
+| E5 | Texarkana (Demo) | 4:06 |
+| F1 | Country Feedback (Demo) | 4:03 |
+| F2 | Me On Keyboard (Me In Honey Demo) | 3:42 |
+| F3 | Low (Demo) | 4:54 |
+| F4 | 40 Sec. (40 Second Song Demo) | 1:22 |
+| F5 | Fretless 1 (Demo) | 4:52 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/out-of-time-single/1773528896" >}}<br>
 
-
-## Videos
-### REM - Losing My Religion Official HD Music Video
-{{< youtube id="xwtdhWltSIg" title="REM - Losing My Religion Official HD Music Video" >}}<br>
 
 
 ## Release Images
@@ -93,5 +94,5 @@ Out of Time is the seventh studio album by American alternative rock band R.E.M.
 | Format         | Vinyl LP Album Reissue, Vinyl 2× LP (Demos), All Media Limited Edition Remastered (25th Anniversary Edition, 180 Gram) |
 | Label          | Concord Bicycle Music |
 | Catalog Number | 0888072010246 |
-| Notes | 25th Anniversary edition box set. The 3 LP set includes remastered vinyl versions of the original album (A/B) and the demos (C to F). 180 g pressing. Digital download card.  On back: Made in the EU. LC 15025. BIEM/SDRM. 0888072010246. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN. Baarn, Netherlands. |
-| Discogs URL    | [R.E.M. - Out Of Time](https://www.discogs.com/release/9375101-REM-Out-Of-Time) |
+| Notes | 25th Anniversary edition box set. The 3 LP set includes remastered vinyl versions of the original album (A/B) and the demos (C to F). 180 g pressing. Digital download card.<br><br>On back:<br>Made in the EU. LC 15025. BIEM/SDRM. 0888072010246. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN. Baarn, Netherlands. |
+| Discogs URL    | [REM - Out Of Time](https://www.discogs.com/release/9375101-REM-Out-Of-Time) |

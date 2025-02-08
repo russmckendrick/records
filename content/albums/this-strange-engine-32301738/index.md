@@ -4,6 +4,7 @@ artist_name: "Marillion"
 artist: "marillion"
 album_name: "This Strange Engine"
 date: 2024-11-23T06:51:15.000000Z
+release_date: "1997-04-21"
 release_id: "32301738"
 slug: "this-strange-engine-32301738"
 hideSummary: true
@@ -59,45 +60,45 @@ styles: ["Prog Rock"]
 ---
 
 This Strange Engine is the ninth studio album by the British neo-prog band Marillion, released in April 1997 by the Castle Communications imprint Raw Power. It was the first of the three recordings that Marillion made under contract with Castle, after being dropped by EMI Records in 1995 and before eventually going independent in 2000. The album was recorded at The Racket Club in Buckinghamshire, England, between August and November 1996 and was produced by the band themselves.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Album Remix 2024
-2. Man Of A Thousand Faces
-3. One Fine Day
-4. 80 Days
-5. Estonia
-6. Memory Of Water
-7. An Accidental Man
-8. Hope For The Future
-9. This Strange Engine
-10. Live In Grand Rapids 1997
-11. Intro
-12. Estonia
-13. Lap Of Luxury
-14. Hard As Love
-15. 80 Days
-16. Warm Wet Circles
-17. Man Of A Thousand Faces
-18. Seasons End
-19. This Town
-20. Slainthe Mhath
-21. King
-22. Bass Solo
-23. This Strange Engine
-24. Easter
-25. White Russian
-26. Garden Party
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Album Remix 2024 |  |
+| LP1-A1 | Man Of A Thousand Faces |  |
+| LP1-A2 | One Fine Day |  |
+| LP1-B1 | 80 Days |  |
+| LP1-B2 | Estonia |  |
+| LP2-C1 | Memory Of Water |  |
+| LP2-C2 | An Accidental Man |  |
+| LP2-C3 | Hope For The Future |  |
+| LP2-D1 | This Strange Engine |  |
+|  | Live In Grand Rapids 1997 |  |
+| LP3-A1 | Intro |  |
+| LP3-A2 | Estonia |  |
+| LP3-A3 | Lap Of Luxury |  |
+| LP3-A4 | Hard As Love |  |
+| LP3-B1 | 80 Days |  |
+| LP3-B2 | Warm Wet Circles |  |
+| LP3-B3 | Man Of A Thousand Faces |  |
+| LP4-C1 | Seasons End |  |
+| LP4-C2 | This Town |  |
+| LP4-D1 | Slainthe Mhath |  |
+| LP4-D2 | King |  |
+| LP5-E1 | Bass Solo |  |
+| LP5-E2 | This Strange Engine |  |
+| LP5-F1 | Easter |  |
+| LP5-F2 | White Russian |  |
+| LP5-F3 | Garden Party |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-strange-engine-deluxe-edition/1761810736" >}}<br>
 
-
-## Videos
-### This Strange Engine
-{{< youtube id="CBy-FFfBvow" title="This Strange Engine" >}}<br>
 
 
 ## Release Images

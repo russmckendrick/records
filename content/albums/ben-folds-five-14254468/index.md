@@ -4,6 +4,7 @@ artist_name: "Ben Folds Five"
 artist: "ben-folds-five"
 album_name: "Ben Folds Five"
 date: 2020-02-25T18:10:13.000000Z
+release_date: "1995-07-25"
 release_id: "14254468"
 slug: "ben-folds-five-14254468"
 hideSummary: true
@@ -23,34 +24,32 @@ Ben Folds Five was an American alternative rock trio formed in 1993 in Chapel Hi
 During their first seven years, the band released three studio records, a compilation of B-sides and outtakes, and eight singles. They also contributed to a number of soundtracks and compilations. Ben Folds Five disbanded in October 2000, but reunited in 2011, and released their fourth album, The Sound of the Life of the Mind, in 2012, before disbanding again in 2013.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Jackson Cannery (3:24)
-2. Philosophy (4:36)
-3. Julianne (2:31)
-4. Wheres Summer B.? (4:07)
-5. Alice Childress (4:34)
-6. Underground (4:11)
-7. Sports & Wine (2:58)
-8. Uncle Walter (3:51)
-9. Best Imitation Of Myself (2:38)
-10. Video (4:07)
-11. The Last Polka (4:34)
-12. Boxing (4:43)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Jackson Cannery | 3:24 |
+| A2 | Philosophy | 4:36 |
+| A3 | Julianne | 2:31 |
+| A4 | Wheres Summer B.? | 4:07 |
+| A5 | Alice Childress | 4:34 |
+| A6 | Underground | 4:11 |
+| B1 | Sports & Wine | 2:58 |
+| B2 | Uncle Walter | 3:51 |
+| B3 | Best Imitation Of Myself | 2:38 |
+| B4 | Video | 4:07 |
+| B5 | The Last Polka | 4:34 |
+| B6 | Boxing | 4:43 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ben-folds-five/771779576" >}}<br>
 
 
-## Videos
-### Ben Folds Five FULL ALBUM
-{{< youtube id="zUOt5AhUqKE" title="Ben Folds Five FULL ALBUM" >}}<br>
-### More Videos
-
-- [Ben Folds Five - Underground](https://www.youtube.com/watch?v=jqADHn7SWlA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +61,5 @@ During their first seven years, the band released three studio records, a compil
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Turquoise) |
 | Label          | Plain Recordings |
 | Catalog Number | plain169 |
-| Notes | Limited edition of 1000 on opaque turquoise vinyl in a tip-on jacket.  Recorded at Wave Castle, NC, 2/95.    |
+| Notes | Limited edition of 1000 on opaque turquoise vinyl in a tip-on jacket.<br><br>Recorded at Wave Castle, NC, 2/95.<br><br><br> |
 | Discogs URL    | [Ben Folds Five - Ben Folds Five](https://www.discogs.com/release/14254468-Ben-Folds-Five-Ben-Folds-Five) |

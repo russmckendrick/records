@@ -4,6 +4,7 @@ artist_name: "Manic Street Preachers"
 artist: "manic-street-preachers"
 album_name: "Forever Delayed - The Greatest Hits"
 date: 2016-03-24T16:33:42.000000Z
+release_date: "2002-10-28"
 release_id: "3368048"
 slug: "forever-delayed-the-greatest-hits-3368048"
 hideSummary: true
@@ -27,32 +28,37 @@ styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. A Design For Life
-2. Motorcycle Emptiness
-3. If You Tolerate This Your Children Will Be Next
-4. La Tristesse Durera (Scream To A Sigh)
-5. There By The Grace Of God
-6. You Love Us
-7. Australia
-8. You Stole The Sun From My Heart
-9. Kevin Carter
-10. Tsunami
-11. The Masses Against The Classes
-12. From Despair To Where
-13. Door To The River
-14. Everything Must Go
-15. Faster
-16. Little Baby Nothing
-17. Suicide Is Painless (Theme From Mash)
-18. So Why So Sad
-19. The Everlasting
-20. Motown Junk
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | A Design For Life |  |
+| A2 | Motorcycle Emptiness |  |
+| A3 | If You Tolerate This Your Children Will Be Next |  |
+| A4 | La Tristesse Durera (Scream To A Sigh) |  |
+| B1 | There By The Grace Of God |  |
+| B2 | You Love Us |  |
+| B3 | Australia |  |
+| B4 | You Stole The Sun From My Heart |  |
+| B5 | Kevin Carter |  |
+| B6 | Tsunami |  |
+| C1 | The Masses Against The Classes |  |
+| C2 | From Despair To Where |  |
+| C3 | Door To The River |  |
+| C4 | Everything Must Go |  |
+| C5 | Faster |  |
+| D1 | Little Baby Nothing |  |
+| D2 | Suicide Is Painless (Theme From Mash) |  |
+| D3 | So Why So Sad |  |
+| D4 | The Everlasting |  |
+| D5 | Motown Junk |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/forever-delayed-the-greatest-hits/211440430" >}}<br>
-
 
 
 

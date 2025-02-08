@@ -1,9 +1,10 @@
 ---
 title: "BASIC - This Is BASIC"
 artist_name: "BASIC"
-artist: "basic-40"
+artist: "basic"
 album_name: "This Is BASIC"
 date: 2024-09-07T06:22:26.000000Z
+release_date: "2024-09-06"
 release_id: "31558960"
 slug: "this-is-basic-31558960"
 hideSummary: true
@@ -20,25 +21,25 @@ styles: ["Art Rock", "Post Rock", "Avantgarde"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. For Stars Of The Air (9:11)
-2. Nerve Time (5:04)
-3. Positive Halfway (7:29)
-4. Last Resort Of The Gambling Man (4:09)
-5. Versatile Switch (5:45)
-6. New Auspicious (6:54)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | For Stars Of The Air | 9:11 |
+| A2 | Nerve Time | 5:04 |
+| A3 | Positive Halfway | 7:29 |
+| B1 | Last Resort Of The Gambling Man | 4:09 |
+| B2 | Versatile Switch | 5:45 |
+| B3 | New Auspicious | 6:54 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-is-basic/1751798961" >}}<br>
 
 
-## Videos
-### For Stars of the Air
-{{< youtube id="jHe1eMLTNpc" title="For Stars of the Air" >}}<br>
-### More Videos
-
-- [For Stars of the Air](https://www.youtube.com/watch?v=jHe1eMLTNpc)
 
 ## Release Images
 {{< imageGrid >}}

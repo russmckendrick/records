@@ -1,9 +1,10 @@
 ---
 title: "Tennis - Pollen"
 artist_name: "Tennis"
-artist: "tennis-6"
+artist: "tennis"
 album_name: "Pollen"
 date: 2024-05-20T08:33:23.000000Z
+release_date: "2023-02-10"
 release_id: "26049697"
 slug: "pollen-26049697"
 hideSummary: true
@@ -25,32 +26,30 @@ styles: ["Indie Pop", "Synth-pop"]
 ---
 
 Pollen is the sixth studio album by the musical duo Tennis, released via their own label Mutually Detrimental on February 10, 2023. It was preceded by the singles "One Night with the Valet", "Let's Make a Mistake Tonight", and "Forbidden Doors". The album received acclaim from critics.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Forbidden Doors
-2. Glorietta
-3. Let's Make A Mistake Tonight
-4. One Night With The Valet
-5. Pollen Song
-6. Hotel Valet
-7. Paper
-8. Gibraltar
-9. Never Been Wrong
-10. Pillow For A Cloud
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Forbidden Doors |  |
+| A2 | Glorietta |  |
+| A3 | Let's Make A Mistake Tonight |  |
+| A4 | One Night With The Valet |  |
+| A5 | Pollen Song |  |
+| B1 | Hotel Valet |  |
+| B2 | Paper |  |
+| B3 | Gibraltar |  |
+| B4 | Never Been Wrong |  |
+| B5 | Pillow For A Cloud |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pollen/1651271193" >}}<br>
 
 
-## Videos
-### Pollen Song
-{{< youtube id="W7Ewyu06pTI" title="Pollen Song" >}}<br>
-### More Videos
-
-- [Tennis - Lets Make a Mistake Tonight Official Video](https://www.youtube.com/watch?v=HG2Bklaa880)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +61,5 @@ Pollen is the sixth studio album by the musical duo Tennis, released via their o
 | Format         | Vinyl LP Album (Clear w/ Gold Smoke [Pollen]) |
 | Label          | Mutually Detrimental |
 | Catalog Number | MD008LP |
-| Notes | Comes in sleeve with foil text and printed inner.  Hype-sticker on shrink with barcode.  Lossless lacquer cut by Sterling Sound Exclusive Pollen-Colored Vinyl |
+| Notes | Comes in sleeve with foil text and printed inner.<br><br>Hype-sticker on shrink with barcode.<br><br>Lossless lacquer cut by Sterling Sound<br>Exclusive Pollen-Colored Vinyl |
 | Discogs URL    | [Tennis - Pollen](https://www.discogs.com/release/26049697-Tennis-6-Pollen) |

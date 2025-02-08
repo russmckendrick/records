@@ -4,6 +4,7 @@ artist_name: "Genesis"
 artist: "genesis"
 album_name: "Trespass"
 date: 2024-09-28T08:00:44.000000Z
+release_date: "1970-10-23"
 release_id: "9141285"
 slug: "trespass-9141285"
 hideSummary: true
@@ -24,32 +25,26 @@ Genesis turned professional in autumn 1969, and began to rehearse intensely and 
 Shortly after recording, Phillips decided to leave the group, which almost caused Genesis to split. After discussing the situation, they agreed to continue, and replaced Mayhew with drummer and singer Phil Collins before they resumed touring. Trespass was not a major success upon release; it failed to chart in the UK and the US and it received some mixed reviews from critics, but it was commercially successful in Belgium, which helped sustain the band's career. A reissue briefly charted the UK top 100 in 1984.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Looking For Someone
-2. White Mountain
-3. Visions Of Angels
-4. Stagnation
-5. Dusk
-6. The Knife
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Looking For Someone |  |
+| A2 | White Mountain |  |
+| A3 | Visions Of Angels |  |
+| B1 | Stagnation |  |
+| B2 | Dusk |  |
+| B3 | The Knife |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/trespass-2007-stereo-mix/1695097428" >}}<br>
 
 
-## Videos
-### Genesis - Looking For Someone Official Audio
-{{< youtube id="E7Z_xXh7gm8" title="Genesis - Looking For Someone Official Audio" >}}<br>
-### More Videos
-
-- [Genesis - White Mountain Official Audio](https://www.youtube.com/watch?v=6hgYH3-HVrY)
-- [Genesis - Visions Of Angels Official Audio](https://www.youtube.com/watch?v=uMM8spZyEgg)
-- [Genesis - Stagnation Official Audio](https://www.youtube.com/watch?v=BNKDXs5P08Q)
-- [Genesis - Dusk Official Audio](https://www.youtube.com/watch?v=zhw1gm5-nt0)
-- [Genesis - The Knife Official Audio](https://www.youtube.com/watch?v=v719eZmXRdE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +56,5 @@ Shortly after recording, Phillips decided to leave the group, which almost cause
 | Format         | Vinyl LP Album Reissue (Half Speed Master 180 gr. ) |
 | Label          | Charisma |
 | Catalog Number | 4790213 |
-| Notes | Gatefold cover. Printed 12" x12" insert with lyrics.  A3 is mistitled "Visions Of Angles" inside the gatefold sleeve. |
+| Notes | Gatefold cover.<br>Printed 12" x12" insert with lyrics.<br><br>A3 is mistitled "Visions Of Angles" inside the gatefold sleeve. |
 | Discogs URL    | [Genesis - Trespass](https://www.discogs.com/release/9141285-Genesis-Trespass) |

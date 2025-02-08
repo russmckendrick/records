@@ -1,16 +1,17 @@
 ---
-title: "Howlin' Wolf - The Real Folk Blues"
-artist_name: "Howlin' Wolf"
+title: "Howlin Wolf - The Real Folk Blues"
+artist_name: "Howlin Wolf"
 artist: "howlin-wolf"
 album_name: "The Real Folk Blues"
 date: 2016-04-30T15:22:06.000000Z
+release_date: "1967-01-01"
 release_id: "6663919"
 slug: "the-real-folk-blues-6663919"
 hideSummary: true
 cover:
     image: "the-real-folk-blues-6663919.jpg"
-    alt: "The Real Folk Blues by Howlin' Wolf"
-    caption: "The Real Folk Blues by Howlin' Wolf"
+    alt: "The Real Folk Blues by Howlin Wolf"
+    caption: "The Real Folk Blues by Howlin Wolf"
 additional_images:
     - "https://i.discogs.com/jV1NHBK7U27Zz-YJNywRWf0xfAfhJBGekCZzBoEI3H0/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjM5/MTktMTczMzE1Mzk1/My00MTUwLmpwZWc.jpeg"
     - "https://i.discogs.com/Fa6McL4_pF18YV8jukvKGGnyv0wGuNKuqzE94M5L9cU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjM5/MTktMTczMzE1Mzk1/My0yNzk1LmpwZWc.jpeg"
@@ -21,43 +22,32 @@ styles: ["Chicago Blues"]
 ---
 
 The Real Folk Blues is a compilation album by blues musician Howlin' Wolf, which was released by Chess Records in 1965. The album's songs, which were originally issued as singles, were recorded in Chicago between 1956 and 1965.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Killing Floor (2:50)
-2. Louise (2:45)
-3. Poor Boy (2:35)
-4. Sittin' On Top Of The World (2:33)
-5. Nature (2:47)
-6. My Country Sugar Mama (Aka Sugar Mama) (2:38)
-7. Tail Dragger (2:58)
-8. Three Hundred Pounds Of Joy (3:06)
-9. Natchez Burning (2:11)
-10. Built For Comfort (2:39)
-11. Ooh Baby, Hold Me (2:41)
-12. Tell Me What I've Done (2:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Killing Floor | 2:50 |
+| A2 | Louise | 2:45 |
+| A3 | Poor Boy | 2:35 |
+| A4 | Sittin' On Top Of The World | 2:33 |
+| A5 | Nature | 2:47 |
+| A6 | My Country Sugar Mama (Aka Sugar Mama) | 2:38 |
+| B1 | Tail Dragger | 2:58 |
+| B2 | Three Hundred Pounds Of Joy | 3:06 |
+| B3 | Natchez Burning | 2:11 |
+| B4 | Built For Comfort | 2:39 |
+| B5 | Ooh Baby, Hold Me | 2:41 |
+| B6 | Tell Me What I've Done | 2:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/more-real-folk-blues/1444213729" >}}<br>
 
 
-## Videos
-### Howlin Wolf - Tell Me What Ive Done HD
-{{< youtube id="pm-v_7K66rw" title="Howlin Wolf - Tell Me What Ive Done HD" >}}<br>
-### More Videos
-
-- [Killing Floor](https://www.youtube.com/watch?v=CHrVB35kTrE)
-- [Tell Me What Ive Done](https://www.youtube.com/watch?v=sJQzde1L5UI)
-- [Poor Boy](https://www.youtube.com/watch?v=FsagiHRjaHY)
-- [Louise](https://www.youtube.com/watch?v=W4oUtgN9HqE)
-- [Built For Comfort](https://www.youtube.com/watch?v=VoO1q5KSi6w)
-- [Three Hundred Pounds Of Joy](https://www.youtube.com/watch?v=UzHXBJKP72U)
-- [Tail Dragger](https://www.youtube.com/watch?v=m4ucJ8ShLHg)
-- [Sitting On Top Of The World](https://www.youtube.com/watch?v=K1LAl1xLC0g)
-- [Howlin Wolf - The Natchez Burnin](https://www.youtube.com/watch?v=gbwQ8OoMrYc)
-- [Howlin Wolf - Tell Me What Ive Done HD](https://www.youtube.com/watch?v=pm-v_7K66rw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +59,5 @@ The Real Folk Blues is a compilation album by blues musician Howlin' Wolf, which
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Dolchess |
 | Catalog Number | DOL1502H |
-| Notes | 180g HQ Virgin Vinyl. Manufactured in Europe. The runouts are etched. |
-| Discogs URL    | [Howlin' Wolf - The Real Folk Blues](https://www.discogs.com/release/6663919-Howlin-Wolf-The-Real-Folk-Blues) |
+| Notes | 180g HQ Virgin Vinyl.<br>Manufactured in Europe.<br>The runouts are etched. |
+| Discogs URL    | [Howlin Wolf - The Real Folk Blues](https://www.discogs.com/release/6663919-Howlin-Wolf-The-Real-Folk-Blues) |

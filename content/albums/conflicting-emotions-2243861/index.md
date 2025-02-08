@@ -4,6 +4,7 @@ artist_name: "Split Enz"
 artist: "split-enz"
 album_name: "Conflicting Emotions"
 date: 2018-10-03T18:03:38.000000Z
+release_date: "1983-11-01"
 release_id: "2243861"
 slug: "conflicting-emotions-2243861"
 hideSummary: true
@@ -29,41 +30,30 @@ The rumored resentment over Tim Finn's successful solo career was worsened by hi
 Eddie Rayner at this point started to use the Yamaha DX7 synthesizer which can heard on many tracks.
 The band advertised for a new drummer before taking to the road for the Conflicting Emotions tour, hoping an injection of new blood would revitalize them. Paul Hester answered the call, joining Split Enz in time to feature in the video clip for "Message to My Girl".
 The album cover art was created by former Split Enz frontman Phil Judd, while the back cover was painted by Noel Crombie.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Strait Old Line (4:00)
-2. Bullet Brain And Cactus Head (3:55)
-3. Message To My Girl (4:02)
-4. Working Up An Appetite (4:05)
-5. Our Day (4:54)
-6. No Mischief (4:14)
-7. The Devil You Know (3:34)
-8. I Wake Up Every Night (4:45)
-9. Conflicting Emotions (4:31)
-10. Bon Voyage (4:02)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Strait Old Line | 4:00 |
+| A2 | Bullet Brain And Cactus Head | 3:55 |
+| A3 | Message To My Girl | 4:02 |
+| A4 | Working Up An Appetite | 4:05 |
+| A5 | Our Day | 4:54 |
+| B1 | No Mischief | 4:14 |
+| B2 | The Devil You Know | 3:34 |
+| B3 | I Wake Up Every Night | 4:45 |
+| B4 | Conflicting Emotions | 4:31 |
+| B5 | Bon Voyage | 4:02 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/conflicting-emotions/1443885439" >}}<br>
 
 
-## Videos
-### Split Enz - Straight Old Line
-{{< youtube id="d-m7HcNuFyA" title="Split Enz - Straight Old Line" >}}<br>
-### More Videos
-
-- [Bullet Brain And Cactus Head](https://www.youtube.com/watch?v=rqgxYL56n00)
-- [Split Enz - Message To My Girl Official Video](https://www.youtube.com/watch?v=n0pcM30pjgQ)
-- [Working Up An Appetite](https://www.youtube.com/watch?v=y1tT6wC120s)
-- [Our Day](https://www.youtube.com/watch?v=_gNlaExfKvI)
-- [No Mischief](https://www.youtube.com/watch?v=Uty4eVfkWR8)
-- [The Devil You Know](https://www.youtube.com/watch?v=ffnUGQr6kpM)
-- [I Wake Up Every Night](https://www.youtube.com/watch?v=jKj0NxlhHuw)
-- [Split Enz - The Devil You Know](https://www.youtube.com/watch?v=7WGCQqYlgZQ)
-- [Split Enz - Conflicting Emotions](https://www.youtube.com/watch?v=tpNLtLIOHbE)
-- [Bon Voyage](https://www.youtube.com/watch?v=1rImGjZzmMI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +65,5 @@ The album cover art was created by former Split Enz frontman Phil Judd, while th
 | Format         | Vinyl LP Album Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMLX 64963 |
-| Notes | Includes inner sleeve with lyrics and credits.  Some copies came with hype sticker  "featuring  TIM FINN  64963"  Made in Holland.  Similar to [r=13033729] but with both stampers from EDP |
+| Notes | Includes inner sleeve with lyrics and credits.<br><br>Some copies came with hype sticker <br>"featuring <br>TIM FINN <br>64963"<br><br>Made in Holland.<br><br>Similar to [r=13033729] but with both stampers from EDP |
 | Discogs URL    | [Split Enz - Conflicting Emotions](https://www.discogs.com/release/2243861-Split-Enz-Conflicting-Emotions) |

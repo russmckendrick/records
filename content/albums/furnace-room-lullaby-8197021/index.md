@@ -1,16 +1,17 @@
 ---
-title: "Neko Case & Her Boyfriends - Furnace Room Lullaby"
-artist_name: "Neko Case & Her Boyfriends"
+title: "Neko Case  Her Boyfriends - Furnace Room Lullaby"
+artist_name: "Neko Case  Her Boyfriends"
 artist: "neko-case-her-boyfriends"
 album_name: "Furnace Room Lullaby"
 date: 2022-03-19T06:48:23.000000Z
+release_date: ""
 release_id: "8197021"
 slug: "furnace-room-lullaby-8197021"
 hideSummary: true
 cover:
     image: "furnace-room-lullaby-8197021.jpg"
-    alt: "Furnace Room Lullaby by Neko Case & Her Boyfriends"
-    caption: "Furnace Room Lullaby by Neko Case & Her Boyfriends"
+    alt: "Furnace Room Lullaby by Neko Case  Her Boyfriends"
+    caption: "Furnace Room Lullaby by Neko Case  Her Boyfriends"
 additional_images:
     - "https://i.discogs.com/e5q7F6vKNzVs15jx9aRNEArJ2seCaPeeeGehsCY1YFg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTcw/MjEtMTQ1Njk0Nzkx/Ny01NTEwLmpwZWc.jpeg"
     - "https://i.discogs.com/nk6w5mDBBpVVKrMQlMgR5oKp3kZ15jc1-U24rEFVsxM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTcw/MjEtMTU0NjI3ODc0/OC00MTU5LmpwZWc.jpeg"
@@ -22,42 +23,32 @@ Furnace Room Lullaby is the second studio album by Neko Case and Her Boyfriends,
 Said Case of the title track at a performance at Austin City Limits in 2003, "I wanted to write a murder ballad, simply because I was such a huge fan of the Louvin Brothers.  Not that this song is anywhere as good as a Louvin Brothers song, but I tried."
 Guest musicians on the album include Scott Betts, Brian Connelly, Bob Egan, Dallas Good and Travis Good, Kelly Hogan, Evan Johns, Kevin Kane, Don Kerr, Linda McRae, Darryl Neudorf, Carl Newman, Ford Pier, John Ramberg, Henri Sangalang, Ron Sexsmith and Joel Trueblood.
 The title track was included on the soundtrack to Sam Raimi's film The Gift.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Set Out Running
-2. Guided By Wire
-3. Porchlight
-4. Mood To Burn Bridges
-5. No Need To Cry
-6. Twist The Knife
-7. Thrice All American
-8. We've Never Met
-9. Whip The Blankets
-10. South Tacoma Way
-11. Bought And Sold
-12. Furnace Room Lullaby
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Set Out Running |  |
+| A2 | Guided By Wire |  |
+| A3 | Porchlight |  |
+| A4 | Mood To Burn Bridges |  |
+| A5 | No Need To Cry |  |
+| A6 | Twist The Knife |  |
+| B1 | Thrice All American |  |
+| B2 | We've Never Met |  |
+| B3 | Whip The Blankets |  |
+| B4 | South Tacoma Way |  |
+| B5 | Bought And Sold |  |
+| B6 | Furnace Room Lullaby |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Neko Case Furnace Room Lullaby from The Gift
-{{< youtube id="9nBt_e9tzdQ" title="Neko Case Furnace Room Lullaby from The Gift" >}}<br>
-### More Videos
 
-- [Neko Case  Her Boyfriends - Mood to Burn Bridges](https://www.youtube.com/watch?v=_s6DQSIjTFs)
-- [Set Out Running](https://www.youtube.com/watch?v=HTPJq30ghBA)
-- [Guided By Wire](https://www.youtube.com/watch?v=sCwg05ayU6o)
-- [Mood to Burn Bridges](https://www.youtube.com/watch?v=qKdDcwdygos)
-- [Thrice All American](https://www.youtube.com/watch?v=lT4QMN93g9o)
-- [Weve Never Met](https://www.youtube.com/watch?v=zhMr1kCJy-Y)
-- [South Tacoma Way](https://www.youtube.com/watch?v=k8iz8oNzOxM)
-- [Neko Case - Furnace Room Lullaby](https://www.youtube.com/watch?v=jttWyvL6iIM)
-- [Neko Case - Furnace Room Lullaby Live from Austin TX](https://www.youtube.com/watch?v=lz2gMJqtIz4)
-- [Neko Case Furnace Room Lullaby from The Gift](https://www.youtube.com/watch?v=9nBt_e9tzdQ)
-- [Neko Case  Her Boyfriends - Mood to Burn Bridges](https://www.youtube.com/watch?v=_s6DQSIjTFs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +60,5 @@ The title track was included on the soundtrack to Sam Raimi's film The Gift.
 | Format         | Vinyl LP Album Limited Edition Reissue (Clear w/ Red, Gatefold) |
 | Label          | Anti- |
 | Catalog Number | #86915-1 |
-| Notes | Download card included.  "#86915-1" is on the spine "99976-1" is on the sticker that states that the download card is included "86915-1CRM (Clear/Red)" is on the bar code sticker  Copyright is 2015 but the lp was reissued on March 4th, 2016.   |
-| Discogs URL    | [Neko Case & Her Boyfriends - Furnace Room Lullaby](https://www.discogs.com/release/8197021-Neko-Case-Her-Boyfriends-Furnace-Room-Lullaby) |
+| Notes | Download card included.<br><br>"#86915-1" is on the spine<br>"99976-1" is on the sticker that states that the download card is included<br>"86915-1CRM (Clear/Red)" is on the bar code sticker<br><br>Copyright is 2015 but the lp was reissued on March 4th, 2016.   |
+| Discogs URL    | [Neko Case  Her Boyfriends - Furnace Room Lullaby](https://www.discogs.com/release/8197021-Neko-Case-Her-Boyfriends-Furnace-Room-Lullaby) |

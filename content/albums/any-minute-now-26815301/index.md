@@ -4,6 +4,7 @@ artist_name: "Soulwax"
 artist: "soulwax"
 album_name: "Any Minute Now"
 date: 2023-04-23T04:36:49.000000Z
+release_date: "2004-08-19"
 release_id: "26815301"
 slug: "any-minute-now-26815301"
 hideSummary: true
@@ -34,47 +35,33 @@ Any Minute Now is the third studio album by Belgian electronic music duo Soulwax
 Like on most CDs from Soulwax and 2 Many DJs, an untitled hidden track can be heard by rewinding before the start of the first track. A version of this hidden track appeared on Nite Versions as "I Love Techno".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. E Talking
-2. Any Minute Now
-3. Please...Don't Be Yourself
-4. Compute
-5. Krack
-6. Slowdance
-7. A Ballad To Forget
-8. Accidents And Compliments
-9. NY Excuse
-10. Miserable Girl
-11. YYY/NNN
-12. The Truth Is So Boring
-13. Dance 2 Slow
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | E Talking |  |
+| A2 | Any Minute Now |  |
+| A3 | Please...Don't Be Yourself |  |
+| B1 | Compute |  |
+| B2 | Krack |  |
+| B3 | Slowdance |  |
+| C1 | A Ballad To Forget |  |
+| C2 | Accidents And Compliments |  |
+| C3 | NY Excuse |  |
+| D1 | Miserable Girl |  |
+| D2 | YYY/NNN |  |
+| D3 | The Truth Is So Boring |  |
+| D4 | Dance 2 Slow |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/any-minute-now/273159734" >}}<br>
 
 
-## Videos
-### Soulwax - Any Minute Now HD
-{{< youtube id="wbp-_Bpt_vY" title="Soulwax - Any Minute Now HD" >}}<br>
-### More Videos
-
-- [Soulwax   E Talking](https://www.youtube.com/watch?v=SdbaDBp1S_I)
-- [E Talking](https://www.youtube.com/watch?v=3dYrgHnZtmU)
-- [SOULWAX - NY Excuse](https://www.youtube.com/watch?v=EF3bu9fmheA)
-- [Soulwax - Any Minute Now](https://www.youtube.com/watch?v=aAhn3bh47m0)
-- [Soulwax - Pleasedont be yourself](https://www.youtube.com/watch?v=uHZ-m6YrYy4)
-- [Soulwax- Compute](https://www.youtube.com/watch?v=kz4_oO_3ms8)
-- [Soulwax - Krack Original Version](https://www.youtube.com/watch?v=C_M2g5AVsTs)
-- [Soulwax - Slowdance Stereo Difference from Any Minute Now](https://www.youtube.com/watch?v=ztRTF-EhUjc)
-- [Soulwax - A ballad to forget](https://www.youtube.com/watch?v=FTSjAsiBiaY)
-- [Soulwax - Accidents  Compliments Stereo Difference from Any Minute Now](https://www.youtube.com/watch?v=1H7nj8LP7Mo)
-- [Soulwax - Miserable Girl](https://www.youtube.com/watch?v=P6t3Spz0G4M)
-- [Soulwax - YYYNNN Stereo Difference from Any Minute Now](https://www.youtube.com/watch?v=BkXlZK8QFpM)
-- [Soulwax - The Truth Is So Boring Stereo Difference from Any Minute Now](https://www.youtube.com/watch?v=bbmKdFxbtwg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +73,5 @@ Like on most CDs from Soulwax and 2 Many DJs, an untitled hidden track can be he
 | Format         | Vinyl 2× LP Album Reissue Stereo (Clear) |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASB 060 DLP |
-| Notes | Sticker: CLEAR VINYL  Produced and engineered for 140dB.  Published by Strictly Confidential / We'll Sue You!, except track C3 published by Strictly Confidential / We'll Sue You! / Copyright Control  P & C 2004 Play It Again Sam [PIAS]  Runouts are etched  |
+| Notes | Sticker: CLEAR VINYL<br><br>Produced and engineered for 140dB.<br><br>Published by Strictly Confidential / We'll Sue You!, except track C3 published by Strictly Confidential / We'll Sue You! / Copyright Control<br><br>P & C 2004 Play It Again Sam [PIAS]<br><br>Runouts are etched<br> |
 | Discogs URL    | [Soulwax - Any Minute Now](https://www.discogs.com/release/26815301-Soulwax-Any-Minute-Now) |

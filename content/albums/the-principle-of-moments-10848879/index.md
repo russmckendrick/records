@@ -34,34 +34,22 @@ Rhino Entertainment released a remastered edition of the album, with bonus track
 
 
 ## Tracklisting
-1. Other Arms (4:20)
-2. In The Mood (5:19)
-3. Messin' With The Mekon (4:40)
-4. Wreckless Love (5:18)
-5. Thru' With The Two Step (5:33)
-6. Horizontal Departure (4:19)
-7. Stranger Here...Than Over There (4:18)
-8. Big Log (5:03)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Other Arms | 4:20 |
+| A2 | In The Mood | 5:19 |
+| A3 | Messin' With The Mekon | 4:40 |
+| A4 | Wreckless Love | 5:18 |
+| B1 | Thru' With The Two Step | 5:33 |
+| B2 | Horizontal Departure | 4:19 |
+| B3 | Stranger Here...Than Over There | 4:18 |
+| B4 | Big Log | 5:03 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-principle-of-moments-remastered/254162739" >}}<br>
 
 
-## Videos
-### A1  Other Arms   - Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Audio Rip
-{{< youtube id="iUo9HV4aslY" title="A1  Other Arms   - Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Audio Rip" >}}<br>
-### More Videos
-
-- [A2  In The Mood   - Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=oNUqEkWHEQs)
-- [A3  Messin With The Mekon  - Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=JDVOHFMJVRU)
-- [A4  Wreckless Love - Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=4xdTExGA9FI)
-- [B1  Thru With The Two Step - Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=c-MrnD9mc6U)
-- [B2  Horizontal Departure - Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=SQCQmgu5g4g)
-- [B3  Stranger HereThan Over There  Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Rip](https://www.youtube.com/watch?v=4Y-Cs8pRH8A)
-- [B4  Big Log  - Robert Plant  The Principle Of Moments 1983 Vinyl Album HQ Audio Rip](https://www.youtube.com/watch?v=ox9t_8peT3s)
-- [ROBERT PLANT 1983   The Principle Of Moments Stereo](https://www.youtube.com/watch?v=EwxOHYivi0w)
-- [Robert Plant - In the Mood Official Video HD REMASTERED](https://www.youtube.com/watch?v=jj5nH0O8lmg)
-- [Robert Plant - Big Log Official Video HD REMASTERED](https://www.youtube.com/watch?v=FxSsol3Zd7k)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +61,5 @@ Rhino Entertainment released a remastered edition of the album, with bonus track
 | Format         | Vinyl LP Album |
 | Label          | Es Paranza Records |
 | Catalog Number | 79-0101-1 |
-| Notes | 'W' A Warner Communications Company. ℗ 1983 Atlantic Recording Corporation for the United States and WEA International Inc., for the world outside of the United States. Publishers (For UK only): Talk Time Music / Bay Music Co. Ltd.  Embossed 'W' logo on bottom-right of back cover. |
+| Notes | 'W' A Warner Communications Company.<br>℗ 1983 Atlantic Recording Corporation for the United States<br>and WEA International Inc., for the world outside of the United States.<br>Publishers (For UK only): Talk Time Music / Bay Music Co. Ltd. <br>Embossed 'W' logo on bottom-right of back cover. |
 | Discogs URL    | [Robert Plant - The Principle Of Moments](https://www.discogs.com/release/10848879-Robert-Plant-The-Principle-Of-Moments) |

@@ -4,6 +4,7 @@ artist_name: "My Bloody Valentine"
 artist: "my-bloody-valentine"
 album_name: "Isn't Anything"
 date: 2021-05-21T05:29:01.000000Z
+release_date: "2023-09-18"
 release_id: "18793480"
 slug: "isn-t-anything-18793480"
 hideSummary: true
@@ -31,43 +32,32 @@ styles: ["Shoegaze", "Indie Rock"]
 Isn't Anything is the debut studio album by Irish-English rock band My Bloody Valentine, released on 21 November 1988 by Creation Records. Its innovative guitar and production techniques consolidated the experimentation of the band's preceding EPs and would make the album a pioneering work of the subgenre known as shoegazing. Upon its release, the album received rave critical reviews and reached No. 1 on the UK Independent Albums Chart.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Soft As Snow (But Warm Inside)
-2. Lose My Breath
-3. Cupid Come
-4. (When You Wake) You're Still In A Dream
-5. No More Sorry
-6. All I Need
-7. Feed Me With Your Kiss
-8. Sueisfine
-9. Several Girls Galore
-10. You Never Should
-11. Nothing Much To Lose
-12. I Can See It (But I Can't Feel It)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Soft As Snow (But Warm Inside) |  |
+| A2 | Lose My Breath |  |
+| A3 | Cupid Come |  |
+| A4 | (When You Wake) You're Still In A Dream |  |
+| A5 | No More Sorry |  |
+| A6 | All I Need |  |
+| B1 | Feed Me With Your Kiss |  |
+| B2 | Sueisfine |  |
+| B3 | Several Girls Galore |  |
+| B4 | You Never Should |  |
+| B5 | Nothing Much To Lose |  |
+| B6 | I Can See It (But I Can't Feel It) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/my-bloody-valentine-single/1707099905" >}}<br>
 
 
-## Videos
-### my bloody valentine  Feed Me With Your Kiss official video
-{{< youtube id="9rxE0Mr_U8U" title="my bloody valentine  Feed Me With Your Kiss official video" >}}<br>
-### More Videos
-
-- [Lose My Breath](https://www.youtube.com/watch?v=pMCm3RLuSt0)
-- [Cupid Come](https://www.youtube.com/watch?v=j4CQvLJOV9I)
-- [When You Wake Youre Still In A Dream](https://www.youtube.com/watch?v=uSkL96zp2QE)
-- [No More Sorry](https://www.youtube.com/watch?v=9IGW8oGY7yQ)
-- [Sueisfine](https://www.youtube.com/watch?v=O1eDVBKxcn4)
-- [Several Girls Galore](https://www.youtube.com/watch?v=6OgnaBn6jvc)
-- [You Never Should](https://www.youtube.com/watch?v=w1z76Y_3x7s)
-- [Nothing Much To Lose](https://www.youtube.com/watch?v=HzsjqkYI1BI)
-- [I Can See It But I Cant Feel It](https://www.youtube.com/watch?v=EG159C9shuA)
-- [My Bloody Valentine - Isnt Anything FULL ALBUM 1988](https://www.youtube.com/watch?v=EfnVoY6RHMc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +69,5 @@ Isn't Anything is the debut studio album by Irish-English rock band My Bloody Va
 | Format         | Vinyl LP Album Deluxe Edition Reissue Repress (Gatefold) |
 | Label          | MBV Records |
 | Catalog Number | REWIGLP158X |
-| Notes | Fully analog cut. Released in a deluxe glossy gatefold tip-on and board-mounted sleeve. Includes a printed polylined inner sleeve and MP3, FLAC and WAV download card.  All runout details are hand etched. The Optimal Media "geometric" marks (e.g. '1IΛ' and '31' on variant 2) are mirrored.  [Sticker:] fully analog cut includes download codes 24-bit, 16-bit, mp3 made in the eu  [Gatefold inside:] Mastered from original ¼" analog tapes using Studer A80-VU-PRE and Neumann VMS 80 lathe  [Labels:] ℗ & © 2021 mbv records under exclusive license to domino recording co. ltd. made in the eu |
+| Notes | Fully analog cut. Released in a deluxe glossy gatefold tip-on and board-mounted sleeve.<br>Includes a printed polylined inner sleeve and MP3, FLAC and WAV download card. <br>All runout details are hand etched. The Optimal Media "geometric" marks (e.g. '1IΛ' and '31' on variant 2) are mirrored.<br><br>[Sticker:]<br>fully analog cut<br>includes download codes<br>24-bit, 16-bit, mp3<br>made in the eu<br><br>[Gatefold inside:]<br>Mastered from original ¼" analog tapes using Studer A80-VU-PRE and Neumann VMS 80 lathe<br><br>[Labels:]<br>℗ & © 2021 mbv records under exclusive license to domino recording co. ltd.<br>made in the eu |
 | Discogs URL    | [My Bloody Valentine - Isn't Anything](https://www.discogs.com/release/18793480-My-Bloody-Valentine-Isnt-Anything) |

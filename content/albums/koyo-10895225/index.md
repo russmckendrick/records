@@ -1,9 +1,10 @@
 ---
 title: "Koyo - Koyo"
 artist_name: "Koyo"
-artist: "koyo-2"
+artist: "koyo"
 album_name: "Koyo"
 date: 2017-09-23T11:29:08.000000Z
+release_date: "2023-08-04"
 release_id: "10895225"
 slug: "koyo-10895225"
 hideSummary: true
@@ -21,29 +22,29 @@ Koyo is an American melodic hardcore band formed in 2020 in Stony Brook, New Yor
 The band's music has been compared to Long Island emo, pop punk and melodic hardcore bands such as Taking Back Sunday and The Movielife.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Strange Bird In The Sky (5:36)
-2. Jettisoned (4:55)
-3. The Beauty In Loneliness (5:26)
-4. Lost In The Kingdom (3:47)
-5. Jouska (6:26)
-6. Ray Of Sunshine (5:34)
-7. What Is Mine (5:35)
-8. Now I Understand (4:11)
-9. Tetrachromat (Parts 1 & 2) (8:08)
-10. Release (6:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Strange Bird In The Sky | 5:36 |
+| A2 | Jettisoned | 4:55 |
+| A3 | The Beauty In Loneliness | 5:26 |
+| B1 | Lost In The Kingdom | 3:47 |
+| B2 | Jouska | 6:26 |
+| C1 | Ray Of Sunshine | 5:34 |
+| C2 | What Is Mine | 5:35 |
+| C3 | Now I Understand | 4:11 |
+| D1 | Tetrachromat (Parts 1 & 2) | 8:08 |
+| D2 | Release | 6:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/koyo-koyo/1699850474" >}}<br>
 
-
-## Videos
-### KOYO - Jettisoned Official Video
-{{< youtube id="1lay0p-YDu8" title="KOYO - Jettisoned Official Video" >}}<br>
 
 
 ## Release Images

@@ -1,9 +1,10 @@
 ---
 title: "Whiteout - Young Tribe Rule"
 artist_name: "Whiteout"
-artist: "whiteout-2"
+artist: "whiteout"
 album_name: "Young Tribe Rule"
 date: 2022-08-06T02:00:44.000000Z
+release_date: "2022-08-05"
 release_id: "24087902"
 slug: "young-tribe-rule-24087902"
 hideSummary: true
@@ -26,21 +27,26 @@ styles: ["Indie Rock", "Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Get Me Through (Outta Here) (3:42)
-2. Sleep Talking (3:17)
-3. Bright Shining Lie (7:03)
-4. Cousin Jane (4:08)
-5. So Confused (5:00)
-6. Get Me Through (Acoustic) (3:27)
-7. Rocks Off (3:24)
-8. Shine On You (Acoustic) (4:55)
-9. The Days Of The Week (2:43)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Get Me Through (Outta Here) | 3:42 |
+| A2 | Sleep Talking | 3:17 |
+| A3 | Bright Shining Lie | 7:03 |
+| A4 | Cousin Jane | 4:08 |
+| B1 | So Confused | 5:00 |
+| B2 | Get Me Through (Acoustic) | 3:27 |
+| B3 | Rocks Off | 3:24 |
+| B4 | Shine On You (Acoustic) | 4:55 |
+| B5 | The Days Of The Week | 2:43 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/young-tribe-rule/1635555869" >}}<br>
-
 
 
 
@@ -53,5 +59,5 @@ styles: ["Indie Rock", "Alternative Rock"]
 | Format         | Vinyl LP Mini-Album Compilation |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1054 |
-| Notes | Japanese exclusive mini album featuring B-sides and rarities, issued on vinyl for the first time. 140g vinyl. With printed inner lyric sheet. |
+| Notes | Japanese exclusive mini album featuring B-sides and rarities, issued on vinyl for the first time.<br>140g vinyl.<br>With printed inner lyric sheet. |
 | Discogs URL    | [Whiteout - Young Tribe Rule](https://www.discogs.com/release/24087902-Whiteout-2-Young-Tribe-Rule) |

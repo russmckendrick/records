@@ -54,31 +54,26 @@ Less than two years after U2 vowed to “dream it all up again”, <i>Achtung Ba
 
 
 ## Tracklisting
-1. Zoo Station 
-2. Even Better Than The Real Thing
-3. One
-4.  Until The End Of The World
-5. Who's Gonna Ride Your Wild Horses 
-6. So Cruel 
-7. The Fly
-8. Mysterious Ways 
-9. Tryin' To Throw Your Arms Around The World 
-10. Ultra Violet (Light My Way)
-11. Acrobat
-12. Love Is Blindness
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Zoo Station  |  |
+| A2 | Even Better Than The Real Thing |  |
+| A3 | One |  |
+| B1 |  Until The End Of The World |  |
+| B2 | Who's Gonna Ride Your Wild Horses  |  |
+| B3 | So Cruel  |  |
+| C1 | The Fly |  |
+| C2 | Mysterious Ways  |  |
+| C3 | Tryin' To Throw Your Arms Around The World  |  |
+| D1 | Ultra Violet (Light My Way) |  |
+| D2 | Acrobat |  |
+| D3 | Love Is Blindness |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/achtung-baby/1443063058" >}}<br>
 
 
-## Videos
-### U2 - 1st press - Achtung Baby - side one - 192 Khz
-{{< youtube id="mV7pzrkZwzg" title="U2 - 1st press - Achtung Baby - side one - 192 Khz" >}}<br>
-### More Videos
-
-- [U2 - Mysterious Ways Official Music Video](https://www.youtube.com/watch?v=TxcDTUMLQJI)
-- [U2 - One Official Music Video](https://www.youtube.com/watch?v=ftjEcrrf7r0)
-- [U2 - Even Better Than The Real Thing Official Music Video](https://www.youtube.com/watch?v=vTxrgXWToZA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -90,5 +85,5 @@ Less than two years after U2 vowed to “dream it all up again”, <i>Achtung Ba
 | Format         | Vinyl LP Stereo (Red Translucent, 180 Gram), Vinyl LP Stereo (Blue Translucent, 180 Gram), All Media Album Deluxe Edition Limited Edition Numbered Reissue Special Edition (30th Anniversary) |
 | Label          | Island Records |
 | Catalog Number | U28AB30 |
-| Notes | Package includes:  • Slipcase with an individually numbered sticker on the reverse • Both LPs housed in a wide-spine sleeve with a 8 page booklet including lyrics & credits • A limited edition bespoke 60cm x 60cm folded poster  Released in a slip cover that features one of four different “mystery covers”. This release contains the “Carnalville” photo of the band cover. The outer UPC is different for each mystery cover.  4 different mystery covers (inside of slipcase) exist which can be identified by the barcode:  6 0243868634 6 Nude Adam [r21053176] 6 0243868635 3 Carnival (this release) 6 0243868636 0 Bono and Nassim [R21055915] 6 0243868638 4 Band in red [r21065644]  The 2-, XIV, and 1IΔ etchings in the runouts are mirrored. |
+| Notes | Package includes:<br><br>• Slipcase with an individually numbered sticker on the reverse<br>• Both LPs housed in a wide-spine sleeve with a 8 page booklet including lyrics & credits<br>• A limited edition bespoke 60cm x 60cm folded poster<br><br>Released in a slip cover that features one of four different “mystery covers”. This release contains the “Carnalville” photo of the band cover. The outer UPC is different for each mystery cover.<br><br>4 different mystery covers (inside of slipcase) exist which can be identified by the barcode:<br><br>6 0243868634 6 Nude Adam [r21053176]<br>6 0243868635 3 Carnival (this release)<br>6 0243868636 0 Bono and Nassim [R21055915]<br>6 0243868638 4 Band in red [r21065644]<br><br>The 2-, XIV, and 1IΔ etchings in the runouts are mirrored. |
 | Discogs URL    | [U2 - Achtung Baby](https://www.discogs.com/release/21054859-U2-Achtung-Baby) |

@@ -38,39 +38,26 @@ From the record title to the snarled lyrics, Roger Waters is clearly not content
 
 
 ## Tracklisting
-1. When We Were Young
-2. Déjà Vu
-3. The Last Refugee
-4. Picture That
-5. Broken Bones
-6. Is This The Life We Really Want?
-7. Bird In A Gale
-8. The Most Beautiful Girl
-9. Smell The Roses
-10. Wait For Her
-11. Oceans Apart
-12. Part Of Me Died
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | When We Were Young |  |
+| A2 | Déjà Vu |  |
+| A3 | The Last Refugee |  |
+| B4 | Picture That |  |
+| B5 | Broken Bones |  |
+| C6 | Is This The Life We Really Want? |  |
+| C7 | Bird In A Gale |  |
+| C8 | The Most Beautiful Girl |  |
+| D9 | Smell The Roses |  |
+| D10 | Wait For Her |  |
+| D11 | Oceans Apart |  |
+| D12 | Part Of Me Died |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/is-this-the-life-we-really-want/1227077689" >}}<br>
 
 
-## Videos
-### Roger Waters - Smell the Roses Audio
-{{< youtube id="PEh7Ip4yvH8" title="Roger Waters - Smell the Roses Audio" >}}<br>
-### More Videos
-
-- [When We Were Young](https://www.youtube.com/watch?v=wqZ0HKbCNfE)
-- [Roger Waters - Déjà Vu Audio](https://www.youtube.com/watch?v=gf7kMaurLZk)
-- [Roger Waters - The Last Refugee](https://www.youtube.com/watch?v=_XdLNqWYgGI)
-- [Picture That](https://www.youtube.com/watch?v=YIiRMgF29eo)
-- [Broken Bones](https://www.youtube.com/watch?v=4svv0lvizXQ)
-- [Is This the Life We Really Want](https://www.youtube.com/watch?v=Htjj7NJiNBA)
-- [Bird In A Gale](https://www.youtube.com/watch?v=BQxx9R8l6ZY)
-- [The Most Beautiful Girl](https://www.youtube.com/watch?v=GtPON4OH_tE)
-- [Roger Waters - Wait for Her Video](https://www.youtube.com/watch?v=iSl1kmQMG2E)
-- [Oceans Apart](https://www.youtube.com/watch?v=1o7j98l6FZc)
-- [Part of Me Died](https://www.youtube.com/watch?v=ucnwTy9VNcU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +68,5 @@ From the record title to the snarled lyrics, Roger Waters is clearly not content
 | Format         | Vinyl 2× LP Album Stereo (180 Gram) |
 | Label          | Columbia |
 | Catalog Number | 88985 43649 1 |
-| Notes | Comes in a gatefold cover, inner sleeves with lyrics. Download code included.  Parental Advisory Explicit Content Strong Language  Back cover: © 2017 Jule Pond Productions LLC / ℗ 2017 The copyright in this sound recording is owned by Jule Pond Productions LLC, under exclusive license to Columbia Records,  a Division of Sony Music Entertainment. / Distributed by Columbia Records, a Division of Sony Music Entertainment / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / “Columbia” and [Columbia logo] Reg. U.S. Pat. & Tm. Off. Marca Registrada. / All Rights Reserved. / Made in the EU. / LC00162  Gatefold interior: The lyrics for 'Wait For Her' were written by Roger Waters and inspired by an English translation by an unknown author of Lesson from the Kama Sutra (Wait For Her) by Mahmoud Darwish  Runouts are etched |
+| Notes | Comes in a gatefold cover, inner sleeves with lyrics.<br>Download code included.<br><br>Parental Advisory<br>Explicit Content<br>Strong Language<br><br>Back cover:<br>© 2017 Jule Pond Productions LLC / ℗ 2017 The copyright in this sound recording is owned by Jule Pond Productions LLC, under exclusive license to Columbia Records, <br>a Division of Sony Music Entertainment. / Distributed by Columbia Records, a Division of Sony Music Entertainment / Sony Music Entertainment International Services GmbH,<br>PO Box 510, 33311 Gütersloh, Germany. / “Columbia” and [Columbia logo] Reg. U.S. Pat. & Tm. Off. Marca Registrada. / All Rights Reserved. / Made in the EU. / LC00162<br><br>Gatefold interior:<br>The lyrics for 'Wait For Her' were written by Roger Waters and inspired by an English translation by an unknown author of Lesson from the Kama Sutra (Wait For Her) by Mahmoud Darwish<br><br>Runouts are etched |
 | Discogs URL    | [Roger Waters - Is This The Life We Really Want?](https://www.discogs.com/release/10364702-Roger-Waters-Is-This-The-Life-We-Really-Want) |

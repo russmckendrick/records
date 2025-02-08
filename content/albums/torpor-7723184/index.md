@@ -1,9 +1,10 @@
 ---
 title: "Baron - Torpor"
 artist_name: "Baron"
-artist: "baron-14"
+artist: "baron"
 album_name: "Torpor"
 date: 2016-02-28T17:52:36.000000Z
+release_date: "2015-11-06"
 release_id: "7723184"
 slug: "torpor-7723184"
 hideSummary: true
@@ -18,45 +19,27 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Dragonfly (4:48)
-2. Mark Maker (6:54)
-3. Wild Cry (4:50)
-4. Dark Down (3:25)
-5. Stry (8:15)
-6. Sleepless (7:05)
-7. Deeper Align (6:52)
-8. Albedo Dei (5:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dragonfly | 4:48 |
+| A2 | Mark Maker | 6:54 |
+| A3 | Wild Cry | 4:50 |
+| A4 | Dark Down | 3:25 |
+| B1 | Stry | 8:15 |
+| B2 | Sleepless | 7:05 |
+| B3 | Deeper Align | 6:52 |
+| B4 | Albedo Dei | 5:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/torpor/1494198864" >}}<br>
 
 
-## Videos
-### Baron - Stry
-{{< youtube id="3sgJCOxKCfg" title="Baron - Stry" >}}<br>
-### More Videos
-
-- [Baron - Mark Maker](https://www.youtube.com/watch?v=BGSwIOP7WZg)
-- [Dragonfly](https://www.youtube.com/watch?v=azsJsQGA-sA)
-- [Dark Down](https://www.youtube.com/watch?v=c6bN2SUIzYc)
-- [Mark Maker](https://www.youtube.com/watch?v=YNtB4eMoaO4)
-- [Sleepless](https://www.youtube.com/watch?v=z7Z7V0COv9I)
-- [Wild Cry](https://www.youtube.com/watch?v=Pg8lEvNMJjk)
-- [Deeper Align](https://www.youtube.com/watch?v=xTWnKiYxeGQ)
-- [Albedo Dei](https://www.youtube.com/watch?v=2UtyLlC8ONA)
-- [Stry](https://www.youtube.com/watch?v=L_yIckisLxM)
-- [Baron - Stry](https://www.youtube.com/watch?v=3sgJCOxKCfg)
-- [Baron - Mark Maker](https://www.youtube.com/watch?v=BGSwIOP7WZg)
-- [Dragonfly](https://www.youtube.com/watch?v=azsJsQGA-sA)
-- [Dark Down](https://www.youtube.com/watch?v=c6bN2SUIzYc)
-- [Mark Maker](https://www.youtube.com/watch?v=YNtB4eMoaO4)
-- [Sleepless](https://www.youtube.com/watch?v=z7Z7V0COv9I)
-- [Wild Cry](https://www.youtube.com/watch?v=Pg8lEvNMJjk)
-- [Deeper Align](https://www.youtube.com/watch?v=xTWnKiYxeGQ)
-- [Albedo Dei](https://www.youtube.com/watch?v=2UtyLlC8ONA)
-- [Stry](https://www.youtube.com/watch?v=L_yIckisLxM)
 
 ## Release Images
 {{< imageGrid >}}

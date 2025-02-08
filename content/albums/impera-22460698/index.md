@@ -1,7 +1,7 @@
 ---
 title: "Ghost - Impera"
 artist_name: "Ghost"
-artist: "ghost-32"
+artist: "ghost"
 album_name: "Impera"
 date: 2022-03-15T04:22:17.000000Z
 release_date: "2022-03-11"
@@ -82,42 +82,26 @@ At the time, Forge was already planning to make a record about the bubonic plagu
 
 
 ## Tracklisting
-1. Imperium (1:40)
-2. Kaisarion (5:02)
-3. Spillways (3:16)
-4. Call Me Little Sunshine  (4:44)
-5. Hunter's Moon  (3:16)
-6. Watcher In The Sky (5:48)
-7. Dominion (1:22)
-8. Twenties (3:46)
-9. Darkness At The Heart Of My Love (4:58)
-10. Griftwood (5:16)
-11. Bite Of Passage  (0:31)
-12. Respite On The Spitalfields (6:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Imperium | 1:40 |
+| A2 | Kaisarion | 5:02 |
+| A3 | Spillways | 3:16 |
+| A4 | Call Me Little Sunshine  | 4:44 |
+| A5 | Hunter's Moon  | 3:16 |
+| A6 | Watcher In The Sky | 5:48 |
+| B1 | Dominion | 1:22 |
+| B2 | Twenties | 3:46 |
+| B3 | Darkness At The Heart Of My Love | 4:58 |
+| B4 | Griftwood | 5:16 |
+| B5 | Bite Of Passage  | 0:31 |
+| B6 | Respite On The Spitalfields | 6:42 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/impera/1603122391" >}}<br>
 
 
-## Videos
-### Ghost - Hunters Moon Official Music Video
-{{< youtube id="rtkaUZvMaG8" title="Ghost - Hunters Moon Official Music Video" >}}<br>
-### More Videos
-
-- [Ghost - Call Me Little Sunshine Official Music Video](https://www.youtube.com/watch?v=DD2m_iqD7dI)
-- [Ghost - Spillways Official Music Video](https://www.youtube.com/watch?v=u9DV1eHQpcA)
-- [Ghost - Call Me Little Sunshine Official Music Video](https://www.youtube.com/watch?v=DD2m_iqD7dI)
-- [Ghost - Twenties Official Lyric Video](https://www.youtube.com/watch?v=nQ-pxlKgiTI)
-- [Ghost - Hunters Moon Official Music Video](https://www.youtube.com/watch?v=rtkaUZvMaG8)
-- [Ghost - Darkness At The Heart Of My Love Official Audio](https://www.youtube.com/watch?v=tzXFZuB1wSQ)
-- [Ghost - Spillways Official Audio](https://www.youtube.com/watch?v=wFxXpPAFnks)
-- [Ghost - Watcher In The Sky Official Audio](https://www.youtube.com/watch?v=0mGr5bMItQY)
-- [Ghost - Griftwood Official Audio](https://www.youtube.com/watch?v=d6WA06fNscc)
-- [Ghost - Kaiserion Official Audio](https://www.youtube.com/watch?v=kt6Ss5r7-qo)
-- [Ghost - Dominion Official Audio](https://www.youtube.com/watch?v=N1U7buIoHqc)
-- [Ghost - Imperium Official Audio](https://www.youtube.com/watch?v=iuYxW_RiSaw)
-- [Ghost - Bite Of Passage Official Audio](https://www.youtube.com/watch?v=C2pLkzpevao)
-- [Ghost - Respite On The Spitalfields Official Audio](https://www.youtube.com/watch?v=JA21qOo2mWs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -129,5 +113,5 @@ At the time, Forge was already planning to make a record about the bubonic plagu
 | Format         | Vinyl LP Album Limited Edition (Magenta [Dark Magenta]) |
 | Label          | Loma Vista |
 | Catalog Number | LVR02521 |
-| Notes | Issued with a 28-page booklet. Total number of copies unknown, 200 copies with hand numbered obi-strip exclusive to Assai Records.  Recorded April 2020 - July 2021. Mixed June - August 2021. Mastered August 2021.  Hype sticker: Dark Magenta Vinyl Featuring new singles "Hunter's Moon" & "Call Me Little Sunshine"  Plus a 28-page book of illustrations |
+| Notes | Issued with a 28-page booklet.<br>Total number of copies unknown, 200 copies with hand numbered obi-strip exclusive to Assai Records.<br><br>Recorded April 2020 - July 2021.<br>Mixed June - August 2021.<br>Mastered August 2021.<br><br>Hype sticker:<br>Dark Magenta Vinyl<br>Featuring new singles "Hunter's Moon" & "Call Me Little Sunshine" <br>Plus a 28-page book of illustrations |
 | Discogs URL    | [Ghost - Impera](https://www.discogs.com/release/22460698-Ghost-32-Impera) |

@@ -4,6 +4,7 @@ artist_name: "Martin Hannett"
 artist: "martin-hannett"
 album_name: "Hannett's Electronic Recordings - Homage To Delia Derbyshire"
 date: 2017-09-01T18:42:21.000000Z
+release_date: "2017-08-11"
 release_id: "10764813"
 slug: "hannett-s-electronic-recordings-homage-to-delia-derbyshire-10764813"
 hideSummary: true
@@ -19,46 +20,37 @@ styles: ["Experimental", "Synthwave"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Martin On Synths, Keyboards Etc - Track A (3:41)
-2. Homage To Delia Derbyshire, Pt. 2 (2:38)
-3. Homage To Delia Derbyshire, Pt, 3 (2:02)
-4. Martin Plays Bass (3:26)
-5. Homage To Delia Derbyshire, Pt. 5 (3:17)
-6. Homage To Delia Derbyshire, Pt. 6 (1:23)
-7. Martin On Synths, Keyboards Etc - Track C (4:40)
-8. Homage To Delia Derbyshire, Pt. 8 (2:22)
-9. Martin On Syndrums (10:31)
-10. Homage To Delia Derbyshire, Pt. 10 (1:26)
-11. Homage To Delia Derbyshire, Pt. 11 (3:03)
-12. Homage To Delia Derbyshire, Pt. 12 (2:54)
-13. Homage To Delia Derbyshire, Pt. 13 (3:48)
-14. Homage To Delia Derbyshire, Pt. 14 (2:27)
-15. Homage To Delia Derbyshire, Pt. 15 (1:04)
-16. Martin On Synths, Metronome Etc (4:04)
-17. Homage To Delia Derbyshire, Pt. 17 (2:07)
-18. Homage To Delia Derbyshire, Pt. 18 (2:12)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Martin On Synths, Keyboards Etc - Track A | 3:41 |
+| A2 | Homage To Delia Derbyshire, Pt. 2 | 2:38 |
+| A3 | Homage To Delia Derbyshire, Pt, 3 | 2:02 |
+| A4 | Martin Plays Bass | 3:26 |
+| A5 | Homage To Delia Derbyshire, Pt. 5 | 3:17 |
+| A6 | Homage To Delia Derbyshire, Pt. 6 | 1:23 |
+| A7 | Martin On Synths, Keyboards Etc - Track C | 4:40 |
+| A8 | Homage To Delia Derbyshire, Pt. 8 | 2:22 |
+| B1 | Martin On Syndrums | 10:31 |
+| B2 | Homage To Delia Derbyshire, Pt. 10 | 1:26 |
+| B3 | Homage To Delia Derbyshire, Pt. 11 | 3:03 |
+| B4 | Homage To Delia Derbyshire, Pt. 12 | 2:54 |
+| B5 | Homage To Delia Derbyshire, Pt. 13 | 3:48 |
+| B6 | Homage To Delia Derbyshire, Pt. 14 | 2:27 |
+| B7 | Homage To Delia Derbyshire, Pt. 15 | 1:04 |
+| B8 | Martin On Synths, Metronome Etc | 4:04 |
+| B9 | Homage To Delia Derbyshire, Pt. 17 | 2:07 |
+| B10 | Homage To Delia Derbyshire, Pt. 18 | 2:12 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hannetts-electronic-recordings-homage-to-delia-derbyshire/1286330954" >}}<br>
 
 
-## Videos
-### Homage To Delia Derbyshire Pt 11
-{{< youtube id="KqF8gvUx4kA" title="Homage To Delia Derbyshire Pt 11" >}}<br>
-### More Videos
-
-- [Martin Plays Bass](https://www.youtube.com/watch?v=hsskkL7C7PA)
-- [Martin On Synths Keyboards ETC Track A](https://www.youtube.com/watch?v=hqqqSykCHRo)
-- [Homage To Delia Derbyshire Pt 13](https://www.youtube.com/watch?v=0RzMIxo6lvM)
-- [Homage To Delia Derbyshire Pt 11](https://www.youtube.com/watch?v=flhaD1ikMqw)
-- [Martin On Syndrums](https://www.youtube.com/watch?v=mG9Oiv9slak)
-- [Martin On Synths Metronome ETC](https://www.youtube.com/watch?v=r2e1oCAwlWI)
-- [Martin On Synths Keyboards ETC Track A](https://www.youtube.com/watch?v=rqS7MzCx6a8)
-- [Martin Plays Bass](https://www.youtube.com/watch?v=DSnRN1R-sRU)
-- [Martin On Synths Keyboards ETC Track C](https://www.youtube.com/watch?v=g5Z0jVGLBjU)
-- [Martin On Syndrums](https://www.youtube.com/watch?v=RKurJt_93c8)
 
 ## Release Images
 {{< imageGrid >}}

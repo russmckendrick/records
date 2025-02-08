@@ -1,9 +1,10 @@
 ---
 title: "Amplifier - Amplifier"
 artist_name: "Amplifier"
-artist: "amplifier-3"
+artist: "amplifier"
 album_name: "Amplifier"
 date: 2022-04-15T03:50:14.000000Z
+release_date: "2021-10-15"
 release_id: "22878905"
 slug: "amplifier-22878905"
 hideSummary: true
@@ -31,30 +32,30 @@ Originally released by Music For Nations on 6 June 2004, it was re-released by t
 The critical reception of the album was generally positive, with comments such as:
 "A British rock-scene altering record. Enjoy it in all its infinite glory" Kerrang!
 "No other record this year will have the audacity to field such lofty ambitions, let alone have the skills to fulfil them" NME
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Motorhead (6:15)
-2. Airborne (8:29)
-3. Panzer (7:03)
-4. Old Movies (5:50)
-5. Post Acid Youth (6:06)
-6. Neon (4:17)
-7. On/Off (6:34)
-8. The Consultancy (4:59)
-9. One Great Summer (5:57)
-10. UFOs (7:27)
-11. Glory Electricity (7:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Motorhead | 6:15 |
+| A2 | Airborne | 8:29 |
+| B3 | Panzer | 7:03 |
+| B4 | Old Movies | 5:50 |
+| B5 | Post Acid Youth | 6:06 |
+| C6 | Neon | 4:17 |
+| C7 | On/Off | 6:34 |
+| C8 | The Consultancy | 4:59 |
+| D9 | One Great Summer | 5:57 |
+| D10 | UFOs | 7:27 |
+| D11 | Glory Electricity | 7:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/us/album/amplifier/1201106185" >}}<br>
 
-
-## Videos
-### Amplifier - 01 MotorHead
-{{< youtube id="nGC9Lji2JLw" title="Amplifier - 01 MotorHead" >}}<br>
 
 
 ## Release Images

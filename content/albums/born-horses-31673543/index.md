@@ -4,6 +4,7 @@ artist_name: "Mercury Rev"
 artist: "mercury-rev"
 album_name: "Born Horses"
 date: 2024-09-07T06:18:03.000000Z
+release_date: "2024-09-06"
 release_id: "31673543"
 slug: "born-horses-31673543"
 hideSummary: true
@@ -30,37 +31,28 @@ styles: ["Dream Pop", "Indie Rock", "Psychedelic Rock", "Spoken Word"]
 Born Horses is an album by American rock band Mercury Rev. The album was released on 6 September 2024 through Bella Union.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Mood Swings (7:15)
-2. Ancient Love (5:53)
-3. Your Hammer, My Heart (4:44)
-4. Patterns (3:53)
-5. A Bird Of No Address (4:13)
-6. Born Horses (3:40)
-7. Everything I Thought I Had Lost (6:12)
-8. There's Always Been A Bird In Me (4:13)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mood Swings | 7:15 |
+| A2 | Ancient Love | 5:53 |
+| A3 | Your Hammer, My Heart | 4:44 |
+| A4 | Patterns | 3:53 |
+| B1 | A Bird Of No Address | 4:13 |
+| B2 | Born Horses | 3:40 |
+| B3 | Everything I Thought I Had Lost | 6:12 |
+| B4 | There's Always Been A Bird In Me | 4:13 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/born-horses/1745738049" >}}<br>
 
 
-## Videos
-### Mercury Rev - Born Horses Official Single
-{{< youtube id="ZEOH2Jv1ZA8" title="Mercury Rev - Born Horses Official Single" >}}<br>
-### More Videos
-
-- [Mercury Rev - A Bird Of No Address Official Video](https://www.youtube.com/watch?v=mUNI8YdaYqc)
-- [Mercury Rev - Patterns Official Visualiser](https://www.youtube.com/watch?v=JTwMNU966Ks)
-- [Mercury Rev - Ancient Love Official Visualiser](https://www.youtube.com/watch?v=yCKIjjKmwp0)
-- [Mood Swings](https://www.youtube.com/watch?v=SG5mUzBWZxU)
-- [Mercury Rev - Born Horses Official Single](https://www.youtube.com/watch?v=ZEOH2Jv1ZA8)
-- [Mercury Rev - A Bird Of No Address Official Video](https://www.youtube.com/watch?v=mUNI8YdaYqc)
-- [Mercury Rev - Patterns Official Visualiser](https://www.youtube.com/watch?v=JTwMNU966Ks)
-- [Mercury Rev - Ancient Love Official Visualiser](https://www.youtube.com/watch?v=yCKIjjKmwp0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +64,5 @@ Born Horses is an album by American rock band Mercury Rev. The album was release
 | Format         | Vinyl LP Album Stereo |
 | Label          | Bella Union |
 | Catalog Number | BELLA1582V |
-| Notes | Gatefold sleeve and includes a 4 page 12" x 12" insert with lyrics and band member images.  Made in Germany. |
+| Notes | Gatefold sleeve and includes a 4 page 12" x 12" insert with lyrics and band member images.<br><br>Made in Germany. |
 | Discogs URL    | [Mercury Rev - Born Horses](https://www.discogs.com/release/31673543-Mercury-Rev-Born-Horses) |

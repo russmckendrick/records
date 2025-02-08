@@ -28,37 +28,25 @@ Featuring an expansive cast of supporting players and session musicians—includ
 
 
 ## Tracklisting
-1. Blues
-2. Terra
-3. Holy, Holy
-4. The New Sound
-5. Walk Up
-6. Through A War
-7. Bongo Season
-8. Motorbike
-9. As If Waltz
-10. The Magician
-11. If You Are But A Dream
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Blues |  |
+| A2 | Terra |  |
+| A3 | Holy, Holy |  |
+| B4 | The New Sound |  |
+| B5 | Walk Up |  |
+| B6 | Through A War |  |
+| B7 | Bongo Season |  |
+| C8 | Motorbike |  |
+| C9 | As If Waltz |  |
+| D10 | The Magician |  |
+| D11 | If You Are But A Dream |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-new-sound/1752102463" >}}<br>
 
 
-## Videos
-### Geordie Greep - Blues Official Audio
-{{< youtube id="EZqF9Vt612w" title="Geordie Greep - Blues Official Audio" >}}<br>
-### More Videos
-
-- [Terra](https://www.youtube.com/watch?v=XJJusFoJkLk)
-- [Geordie Greep - Holy Holy](https://www.youtube.com/watch?v=A4EU_0vFzuU)
-- [The New Sound](https://www.youtube.com/watch?v=V3Jna6fPOp0)
-- [Through a War](https://www.youtube.com/watch?v=Fh7tuLhINLY)
-- [Bongo Season](https://www.youtube.com/watch?v=m4TONESSIW0)
-- [Walk Up](https://www.youtube.com/watch?v=AG5mtkURAD8)
-- [Motorbike](https://www.youtube.com/watch?v=7JmFmFacF2Y)
-- [As if Waltz](https://www.youtube.com/watch?v=b8lgOVbxj7E)
-- [The Magician](https://www.youtube.com/watch?v=gJ1f6oKYqeQ)
-- [If You Are But a Dream](https://www.youtube.com/watch?v=f69kcqy7Lmk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +58,5 @@ Featuring an expansive cast of supporting players and session musicians—includ
 | Format         | Vinyl 2× LP Album (Regular Cover) |
 | Label          | Rough Trade |
 | Catalog Number | RT0499LP |
-| Notes | Original cover version Early orders came with a small sticker sheet |
+| Notes | Original cover version<br>Early orders came with a small sticker sheet |
 | Discogs URL    | [Geordie Greep - The New Sound](https://www.discogs.com/release/31910491-Geordie-Greep-The-New-Sound) |

@@ -41,37 +41,26 @@ Nearly 20 years into the band's career, The National have reached a status attai
 
 
 ## Tracklisting
-1. Nobody Else Will Be There
-2. Day I Die
-3. Walk It Back
-4. The System Only Dreams In Total Darkness
-5. Born To Beg
-6. Turtleneck
-7. Empire Line
-8. I'll Still Destroy You
-9. Guilty Party
-10. Carin at the Liquor Store
-11. Dark Side of the Gym
-12. Sleep Well Beast
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Nobody Else Will Be There |  |
+| A2 | Day I Die |  |
+| A3 | Walk It Back |  |
+| B1 | The System Only Dreams In Total Darkness |  |
+| B2 | Born To Beg |  |
+| B3 | Turtleneck |  |
+| C1 | Empire Line |  |
+| C2 | I'll Still Destroy You |  |
+| C3 | Guilty Party |  |
+| D1 | Carin at the Liquor Store |  |
+| D2 | Dark Side of the Gym |  |
+| D3 | Sleep Well Beast |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sleep-well-beast/1233837225" >}}<br>
 
 
-## Videos
-### The National - The System Only Dreams in Total Darkness
-{{< youtube id="2O6duDDkhis" title="The National - The System Only Dreams in Total Darkness" >}}<br>
-### More Videos
-
-- [The National - Day I Die](https://www.youtube.com/watch?v=GwZvip416NU)
-- [The National - Walk It Back](https://www.youtube.com/watch?v=xnZA52oTp6M)
-- [The National - Sleep Well Beast](https://www.youtube.com/watch?v=kwraJAssyuE)
-- [Nobody Else Will Be There](https://www.youtube.com/watch?v=jUFhgORw4T4)
-- [The National - Sleep Well Beast](https://www.youtube.com/watch?v=kwraJAssyuE)
-- [The National - Carin at the Liquor Store](https://www.youtube.com/watch?v=eEe_yCVLQSc)
-- [The National - Guilty Party](https://www.youtube.com/watch?v=71xmrULJ-ms)
-- [The National - Ill Still Destroy You](https://www.youtube.com/watch?v=gPp-3QSXf1g)
-- [The National - Dark Side of the Gym](https://www.youtube.com/watch?v=4ICyy1V6n4c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +72,5 @@ Nearly 20 years into the band's career, The National have reached a status attai
 | Format         | Vinyl 2× LP Album (White) |
 | Label          | 4AD |
 | Catalog Number | 4AD0020LP |
-| Notes | Pressed on 2x12" standard weight white vinyl. Gatefold sleeve. Includes a 24" x 24" folded poster and 2 inner sleeves.  Includes code for digital download.   Barcode sticker: 4AD0020LP MADE IN EU  ℗ & © 2017 4AD  Produced [...] at Long Pond, Hudson Valley, NY.  "Walk It Back" includes an excerpt from the article entitled "Faith, Certainty and the Presidency of George W. Bush" by Ron Suskind, first published in the New York Times Magazine.  All rights administered by BMG Rights Management (US) LLC (except for Ron Suskind, published by Music of Virtual (BMI) administered outside North America by Touch Tones Music Ltd.).  Recorded [...] at Long Pond. Paris orchestral sessions recorded [...] at Studio Saint Germain. Los Angeles vocal sessions recorded [...] at Illegoland. Additional sessions recorded at Future Past, Hudson, NY, Funkhaus, Berlin, and Michelberger Hotel, Berlin.  Mastered [...] at Sterling Sound, New York, NY. |
+| Notes | Pressed on 2x12" standard weight white vinyl. Gatefold sleeve. Includes a 24" x 24" folded poster and 2 inner sleeves.  Includes code for digital download. <br><br>Barcode sticker: 4AD0020LP MADE IN EU<br><br>℗ & © 2017 4AD<br><br>Produced [...] at Long Pond, Hudson Valley, NY.<br><br>"Walk It Back" includes an excerpt from the article entitled "Faith, Certainty and the Presidency of George W. Bush" by Ron Suskind, first published in the New York Times Magazine.<br><br>All rights administered by BMG Rights Management (US) LLC (except for Ron Suskind, published by Music of Virtual (BMI) administered outside North America by Touch Tones Music Ltd.).<br><br>Recorded [...] at Long Pond. Paris orchestral sessions recorded [...] at Studio Saint Germain. Los Angeles vocal sessions recorded [...] at Illegoland. Additional sessions recorded at Future Past, Hudson, NY, Funkhaus, Berlin, and Michelberger Hotel, Berlin.<br><br>Mastered [...] at Sterling Sound, New York, NY. |
 | Discogs URL    | [The National - Sleep Well Beast](https://www.discogs.com/release/10823938-The-National-Sleep-Well-Beast) |

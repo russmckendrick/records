@@ -4,6 +4,7 @@ artist_name: "James"
 artist: "james"
 album_name: "Millionaires"
 date: 2017-12-17T09:50:57.000000Z
+release_date: "1999-01-01"
 release_id: "11277658"
 slug: "millionaires-11277658"
 hideSummary: true
@@ -25,34 +26,32 @@ Millionaires is the eighth studio album by British alternative rock band James. 
 "I Know What I'm Here For" was released as a single in July 1999, followed by "Just Like Fred Astaire" in early October. Millionaires was released through Mercury Records on 11 October; initial promotion consisted of TV appearances, radio performances, listening parties and launch nights. In December they embarked on a UK tour, coinciding with the single release of "We're Going to Miss You". Millionaires reached number two in the UK album chart, and was certified gold by the BPI. On the UK singles chart, "I Know What I'm Here For" peaked at number 22, "Just Like Fred Astaire" reached number 17, and "We're Going to Miss You" peaked at number 48. Millionaires received a mainly favourable response from music critics, with many finding it an enjoyable album.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Crash (3:58)
-2. Just Like Fred Astaire (3:44)
-3. I Know What I'm Here For (3:52)
-4. Shooting My Mouth Off (3:24)
-5. We're Going To Miss You (4:35)
-6. Strangers (5:12)
-7. Hello (4:37)
-8. Afro Lover (4:02)
-9. Surprise (5:04)
-10. Dumb Jam (2:38)
-11. Someone's Got It In For Me (4:08)
-12. Vervaceous (5:41)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Crash | 3:58 |
+| A2 | Just Like Fred Astaire | 3:44 |
+| A3 | I Know What I'm Here For | 3:52 |
+| B1 | Shooting My Mouth Off | 3:24 |
+| B2 | We're Going To Miss You | 4:35 |
+| B3 | Strangers | 5:12 |
+| C1 | Hello | 4:37 |
+| C2 | Afro Lover | 4:02 |
+| C3 | Surprise | 5:04 |
+| D1 | Dumb Jam | 2:38 |
+| D2 | Someone's Got It In For Me | 4:08 |
+| D3 | Vervaceous | 5:41 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/millionaires/1442660638" >}}<br>
 
 
-## Videos
-### James - Hello live
-{{< youtube id="hhOHnCqpmCg" title="James - Hello live" >}}<br>
-### More Videos
-
-- [JAMES - STRANGERS - legendado](https://www.youtube.com/watch?v=XYlcPuru_wU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +63,5 @@ Millionaires is the eighth studio album by British alternative rock band James. 
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Fontana |
 | Catalog Number | 5712914 |
-| Notes | Single sleeve (not gatefold) including inner sleeves featuring band photography and credits. The spine features the catalogue number 5712914 whereas the blue hype sticker shows 571 291-4. Logos for Fontana, Mercury and UMC all feature. Download coupon included.  The hype sticker reads:  James Millionaires Never before on Vinyl 'Millionaires' over 2 x 180G Heavyweight Vinyl LPs Includes the single '[m=3524]'  [a42895] appears courtesy of Atlantic Recording Corporation.  Outer sleeve: ℗ 1999 Mercury Records Limited. © 2017 Mercury Records Limited. The copyright in this sound recording is owned by Mercury Records Limited. A Universal Music Company. Made in the E.U.  Inner sleeve: ℗ 1999 Mercury Records Ltd (London) © 2017 Mercury Records Ltd (London) The copyright in this sound recording is owned by Mercury Records Ltd (London). A Universal Music Company. |
+| Notes | Single sleeve (not gatefold) including inner sleeves featuring band photography and credits. The spine features the catalogue number 5712914 whereas the blue hype sticker shows 571 291-4. Logos for Fontana, Mercury and UMC all feature. Download coupon included.<br><br>The hype sticker reads:<br><br>James<br>Millionaires<br>Never before on Vinyl<br>'Millionaires' over 2 x 180G Heavyweight Vinyl LPs<br>Includes the single '[m=3524]'<br><br>[a42895] appears courtesy of Atlantic Recording Corporation.<br><br>Outer sleeve:<br>℗ 1999 Mercury Records Limited. © 2017 Mercury Records Limited. The copyright in this sound recording is owned by Mercury Records Limited. A Universal Music Company.<br>Made in the E.U.<br><br>Inner sleeve:<br>℗ 1999 Mercury Records Ltd (London) © 2017 Mercury Records Ltd (London) The copyright in this sound recording is owned by Mercury Records Ltd (London). A Universal Music Company. |
 | Discogs URL    | [James - Millionaires](https://www.discogs.com/release/11277658-James-Millionaires) |

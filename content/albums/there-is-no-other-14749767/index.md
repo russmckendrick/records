@@ -4,6 +4,7 @@ artist_name: "Isobel Campbell"
 artist: "isobel-campbell"
 album_name: "There Is No Other..."
 date: 2020-02-07T18:45:55.000000Z
+release_date: "2020-02-07"
 release_id: "14749767"
 slug: "there-is-no-other-14749767"
 hideSummary: true
@@ -25,45 +26,39 @@ styles: ["Indie Pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. There Is No Other...
-2. City Of Angels
-3. Runnin' Down A Dream
-4. Vultures
-5. Ant Life
-6. Rainbow
-7. The Heart Of It All
-8. Hey World
-9. The National Bird Of India
-10. Just For Today
-11. See Your Face Again
-12. Boulevard
-13. Counting Fireflies
-14. Below Zero
-15. Voices In The Sky
-16. Together
-17. Never My Love
-18. Something
-19. Voices In The Sky
-20. Sa Ta Na Ma.
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | There Is No Other... |  |
+| A1 | City Of Angels |  |
+| A2 | Runnin' Down A Dream |  |
+| A3 | Vultures |  |
+| A4 | Ant Life |  |
+| A5 | Rainbow |  |
+| A6 | The Heart Of It All |  |
+| A7 | Hey World |  |
+| B1 | The National Bird Of India |  |
+| B2 | Just For Today |  |
+| B3 | See Your Face Again |  |
+| B4 | Boulevard |  |
+| B5 | Counting Fireflies |  |
+| B6 | Below Zero |  |
+|  | Voices In The Sky |  |
+| CD-1 | Together |  |
+| CD-2 | Never My Love |  |
+| CD-3 | Something |  |
+| CD-4 | Voices In The Sky |  |
+| CD-5 | Sa Ta Na Ma. |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/there-is-no-other/1474138431" >}}<br>
 
 
-## Videos
-### Isobel Campbell - Ant Life Official Video
-{{< youtube id="Sv3vXIUumvc" title="Isobel Campbell - Ant Life Official Video" >}}<br>
-### More Videos
-
-- [Isobel Campbell - Hey World Official Video](https://www.youtube.com/watch?v=bBgKg7wStRc)
-- [Isobel Campbell - Runnin Down A Dream Official Audio](https://www.youtube.com/watch?v=97DY0TXNW9A)
-- [Isobel Campbell - The National Bird Of India Official Audio](https://www.youtube.com/watch?v=ZcogrJ6hgTw)
-- [Isobel Campbell - Ant Life Official Video](https://www.youtube.com/watch?v=Sv3vXIUumvc)
-- [Isobel Campbell - Hey World Official Video](https://www.youtube.com/watch?v=bBgKg7wStRc)
-- [Isobel Campbell - Runnin Down A Dream Official Audio](https://www.youtube.com/watch?v=97DY0TXNW9A)
-- [Isobel Campbell - The National Bird Of India Official Audio](https://www.youtube.com/watch?v=ZcogrJ6hgTw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +69,5 @@ styles: ["Indie Pop"]
 | Format         | Vinyl LP Album Limited Edition (Yellow Heavyweight Vinyl), CD |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP720Y |
-| Notes | Limited to 1,000 copies.  Rough Trade album of the month February 2020.  LP packaged in a gatefold sleeve, includes a printed inner sleeve.  Includes a download code.  Includes a bonus 5-track CD in its own card sleeve.  Cat. number COOKLP720Y on sticker Cat. number COOKLP720 on LP spine and labels Cat. number FRYCD1194 on CD sleeve and CD label. |
+| Notes | Limited to 1,000 copies.<br><br>Rough Trade album of the month February 2020.<br><br>LP packaged in a gatefold sleeve, includes a printed inner sleeve.<br><br>Includes a download code.<br><br>Includes a bonus 5-track CD in its own card sleeve.<br><br>Cat. number COOKLP720Y on sticker<br>Cat. number COOKLP720 on LP spine and labels<br>Cat. number FRYCD1194 on CD sleeve and CD label. |
 | Discogs URL    | [Isobel Campbell - There Is No Other...](https://www.discogs.com/release/14749767-Isobel-Campbell-There-Is-No-Other) |

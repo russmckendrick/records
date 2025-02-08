@@ -4,6 +4,7 @@ artist_name: "Arrested Development"
 artist: "arrested-development"
 album_name: "3 Years, 5 Months And 2 Days In The Life Of..."
 date: 2017-04-09T14:17:03.000000Z
+release_date: "1992-03-24"
 release_id: "6252763"
 slug: "3-years-5-months-and-2-days-in-the-life-of-6252763"
 hideSummary: true
@@ -27,52 +28,35 @@ Upon release, the album received praise by critics. It is included in Robert Dim
 The song "Tennessee" is part of The Rock and Roll Hall of Fame's 500 Songs that Shaped Rock and Roll list.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Man's Final Frontier (2:38)
-2. Mama's Always On Stage (3:25)
-3. People Everyday (3:26)
-4. Blues Happy (0:46)
-5. Mr. Wendal (4:06)
-6. Children Play With Earth (2:38)
-7. Raining Revolution (3:55)
-8. Fishin' 4 Religion (4:06)
-9. Give A Man A Fish (4:22)
-10. U (4:59)
-11. Eve Of Reality (1:53)
-12. Natural (4:18)
-13. Dawn Of The Dreads (5:17)
-14. Tennessee (4:32)
-15. Washed Away (6:22)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Man's Final Frontier | 2:38 |
+| A2 | Mama's Always On Stage | 3:25 |
+| A3 | People Everyday | 3:26 |
+| A4 | Blues Happy | 0:46 |
+| A5 | Mr. Wendal | 4:06 |
+| A6 | Children Play With Earth | 2:38 |
+| A7 | Raining Revolution | 3:55 |
+| A8 | Fishin' 4 Religion | 4:06 |
+| A9 | Give A Man A Fish | 4:22 |
+| B1 | U | 4:59 |
+| B2 | Eve Of Reality | 1:53 |
+| B3 | Natural | 4:18 |
+| B4 | Dawn Of The Dreads | 5:17 |
+| B5 | Tennessee | 4:32 |
+| B6 | Washed Away | 6:22 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/3-years-5-months-and-2-days-in-the-life-of/715906160" >}}<br>
 
 
-## Videos
-### Arrested Development - Mr Wendal
-{{< youtube id="GfxvsHpTZWk" title="Arrested Development - Mr Wendal" >}}<br>
-### More Videos
-
-- [People Everyday - Arrested Development](https://www.youtube.com/watch?v=QlKWz_FcVoo)
-- [3 Years 5 Months And 2 Days In The Life Of](https://www.youtube.com/watch?v=GMGXnL78xmQ)
-- [Arrested Development - Tennessee](https://www.youtube.com/watch?v=6VCdJyOAQYM)
-- [Arrested Development - Mr Wendal](https://www.youtube.com/watch?v=GfxvsHpTZWk)
-- [Mans Final Frontier](https://www.youtube.com/watch?v=yaY3slfWuRE)
-- [Mamas Always On Stage](https://www.youtube.com/watch?v=4rYpFKBzGS4)
-- [People Everyday](https://www.youtube.com/watch?v=eBpiJysWvK8)
-- [Blues Happy](https://www.youtube.com/watch?v=kWSKhBd2HVM)
-- [Children Play With Earth](https://www.youtube.com/watch?v=JXlmXGQRCKo)
-- [Raining Revolution](https://www.youtube.com/watch?v=UvXLuKZX2cc)
-- [Fishin 4 Religion](https://www.youtube.com/watch?v=PkWSyNe9IUs)
-- [Give A Man A Fish](https://www.youtube.com/watch?v=EjyWKR8HFC8)
-- [U](https://www.youtube.com/watch?v=F_oaU12n-d8)
-- [Eve Of Reality](https://www.youtube.com/watch?v=0aXUsECPt4g)
-- [Dawn Of The Dreads](https://www.youtube.com/watch?v=XJDhadFrf6w)
-- [Washed Away](https://www.youtube.com/watch?v=lBzxAXAvbu8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +68,5 @@ The song "Tennessee" is part of The Rock and Roll Hall of Fame's 500 Songs that 
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Cooltempo |
 | Catalog Number | MOVLP890 |
-| Notes | 180 gram audiophile vinyl  Insert  |
+| Notes | 180 gram audiophile vinyl<br>Insert  |
 | Discogs URL    | [Arrested Development - 3 Years, 5 Months And 2 Days In The Life Of...](https://www.discogs.com/release/6252763-Arrested-Development-3-Years-5-Months-And-2-Days-In-The-Life-Of) |

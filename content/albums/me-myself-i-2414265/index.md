@@ -4,6 +4,7 @@ artist_name: "Joan Armatrading"
 artist: "joan-armatrading"
 album_name: "Me Myself I"
 date: 2020-08-02T13:37:48.000000Z
+release_date: "1976-07-01"
 release_id: "2414265"
 slug: "me-myself-i-2414265"
 hideSummary: true
@@ -28,38 +29,30 @@ Me Myself I is the sixth studio album by British recording artist Joan Armatradi
 The title track became one of her most successful singles, peaking at number 21 over an 11-week stay in the UK Singles Chart. It was also used in the soundtrack of an Australian movie of the same title made in 1999. "All the Way From America" was a minor hit, peaking at number 54 in the UK chart.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Me Myself I (3:16)
-2. Ma-Me-O-Beach (3:00)
-3. Friends (3:05)
-4. Is It Tomorrow Yet (3:31)
-5. Turn Out The Light (4:19)
-6. When You Kisses Me (3:14)
-7. All The Way From America (4:49)
-8. Feeling In My Heart (For You) (3:36)
-9. Simon (3:40)
-10. I Need You (2:44)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Me Myself I | 3:16 |
+| A2 | Ma-Me-O-Beach | 3:00 |
+| A3 | Friends | 3:05 |
+| A4 | Is It Tomorrow Yet | 3:31 |
+| A5 | Turn Out The Light | 4:19 |
+| B1 | When You Kisses Me | 3:14 |
+| B2 | All The Way From America | 4:49 |
+| B3 | Feeling In My Heart (For You) | 3:36 |
+| B4 | Simon | 3:40 |
+| B5 | I Need You | 2:44 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/joan-armatrading/1444099157" >}}<br>
 
 
-## Videos
-### Ma Me O Beach
-{{< youtube id="K-tf2qFtNFU" title="Ma Me O Beach" >}}<br>
-### More Videos
-
-- [Friends](https://www.youtube.com/watch?v=hF1wTxW7VKM)
-- [Is It Tomorrow Yet](https://www.youtube.com/watch?v=41VgElN01lo)
-- [Turn Out The Light](https://www.youtube.com/watch?v=wg1lJrl3F9Q)
-- [Feeling In My Heart For You](https://www.youtube.com/watch?v=VLfd0Ro0wLE)
-- [Simon](https://www.youtube.com/watch?v=gaa_RPDW958)
-- [I Need You](https://www.youtube.com/watch?v=9zsuwzoxfDU)
-- [joan armatrading - turn out the light](https://www.youtube.com/watch?v=UL99gk3ELvc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +64,5 @@ The title track became one of her most successful singles, peaking at number 21 
 | Format         | Vinyl LP Album Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMLH 64809 |
-| Notes | Released with a full colour inner sleeve , one side showing a picture of the artist. © 1980 A & M Records,Ltd. AMLH 64809 on other side.  Some copies are stamped "PROPERTY OF A&M DEMONSTRATION ONLY NOT FOR SALE"  |
+| Notes | Released with a full colour inner sleeve , one side showing a picture of the artist. © 1980 A & M Records,Ltd. AMLH 64809 on other side. <br>Some copies are stamped "PROPERTY OF A&M DEMONSTRATION ONLY NOT FOR SALE"<br> |
 | Discogs URL    | [Joan Armatrading - Me Myself I](https://www.discogs.com/release/2414265-Joan-Armatrading-Me-Myself-I) |

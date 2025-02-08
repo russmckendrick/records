@@ -4,6 +4,7 @@ artist_name: "Pearl Jam"
 artist: "pearl-jam"
 album_name: "Rearviewmirror (Greatest Hits 1991-2003: Volume 1)"
 date: 2022-03-19T05:54:49.000000Z
+release_date: "2004-11-16"
 release_id: "22421005"
 slug: "rearviewmirror-greatest-hits-1991-2003-volume-1-22421005"
 hideSummary: true
@@ -33,32 +34,34 @@ styles: ["Alternative Rock", "Grunge"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Once (2004 Mix)
-2. Alive (2004 Mix)
-3. Even Flow
-4. Jeremy
-5. State Of Love And Trust
-6. Animal
-7. Go
-8. Dissident
-9. Rearviewmirror
-10. Spin The Black Circle
-11. Corduroy
-12. Not For You
-13. I Got Id
-14. Hail, Hail
-15. Do The Evolution
-16. Save You
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Once (2004 Mix) |  |
+| A2 | Alive (2004 Mix) |  |
+| A3 | Even Flow |  |
+| A4 | Jeremy |  |
+| B1 | State Of Love And Trust |  |
+| B2 | Animal |  |
+| B3 | Go |  |
+| B4 | Dissident |  |
+| C1 | Rearviewmirror |  |
+| C2 | Spin The Black Circle |  |
+| C3 | Corduroy |  |
+| C4 | Not For You |  |
+| D1 | I Got Id |  |
+| D2 | Hail, Hail |  |
+| D3 | Do The Evolution |  |
+| D4 | Save You |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rearviewmirror-greatest-hits-1991-2003/158049800" >}}<br>
 
-
-## Videos
-### Pearl Jam - Once Official Audio
-{{< youtube id="3i575s4hbu0" title="Pearl Jam - Once Official Audio" >}}<br>
 
 
 ## Release Images
@@ -70,5 +73,5 @@ styles: ["Alternative Rock", "Grunge"]
 | Format         | Vinyl 2× LP Compilation Reissue (Gatefold Sleeve) |
 | Label          | Epic |
 | Catalog Number | 19439895051 |
-| Notes | ℗ 2003 Pearl Jam / This compilation (2004) Epic Records & © 2004, 2022 Epic Records, a division of Sony Music Entertainment. Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH. PO Box 510, 33311 Gütersloh, Germany. (...) Made in the EU. LC00199 / 19439895051  This submission contains [r=378611]'s first four sides. Please refer to [r=22421110] which includes the last four sides. Gatefold jacket with two full printed inner sleeves with credits and photos. White sticker on the shrink wrap on front cover: "Pearl Jam rearviewmirror greatest hits 1991-2003: Volume 1". Barcode is on a separate sticker on the shrink wrap only, on back cover. Made in the EU (on back cover and labels). |
+| Notes | ℗ 2003 Pearl Jam / This compilation (2004) Epic Records & © 2004, 2022 Epic Records, a division of Sony Music Entertainment. Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH. PO Box 510, 33311 Gütersloh, Germany. (...) Made in the EU. LC00199 / 19439895051<br><br>This submission contains [r=378611]'s first four sides. Please refer to [r=22421110] which includes the last four sides.<br>Gatefold jacket with two full printed inner sleeves with credits and photos.<br>White sticker on the shrink wrap on front cover: "Pearl Jam rearviewmirror greatest hits 1991-2003: Volume 1".<br>Barcode is on a separate sticker on the shrink wrap only, on back cover.<br>Made in the EU (on back cover and labels). |
 | Discogs URL    | [Pearl Jam - Rearviewmirror (Greatest Hits 1991-2003: Volume 1)](https://www.discogs.com/release/22421005-Pearl-Jam-Rearviewmirror-Greatest-Hits-1991-2003-Volume-1) |

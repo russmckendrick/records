@@ -4,6 +4,7 @@ artist_name: "Held By Trees"
 artist: "held-by-trees"
 album_name: "Solace"
 date: 2022-04-27T08:23:36.000000Z
+release_date: "2022-04-22"
 release_id: "23017073"
 slug: "solace-23017073"
 hideSummary: true
@@ -26,33 +27,27 @@ styles: ["Post Rock", "Experimental"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Next To Silence
-2. In The Trees
-3. Rain After Sun
-4. Wave Upon Wave
-5. An Approach
-6. The Tree Of Life
-7. Mysterium
-8. The New Earth
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Next To Silence |  |
+| A2 | In The Trees |  |
+| A3 | Rain After Sun |  |
+| A4 | Wave Upon Wave |  |
+| B5 | An Approach |  |
+| B6 | The Tree Of Life |  |
+| B7 | Mysterium |  |
+| B8 | The New Earth |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/solace/1692299278" >}}<br>
 
 
-## Videos
-### The Tree of Life
-{{< youtube id="CsUmGZ7bK6E" title="The Tree of Life" >}}<br>
-### More Videos
-
-- [The New Earth](https://www.youtube.com/watch?v=jjDwzXeFNxg)
-- [Next to Silence](https://www.youtube.com/watch?v=LmTZhK2hWcc)
-- [In the Trees](https://www.youtube.com/watch?v=t0MK79ltP1c)
-- [Rain After Sun](https://www.youtube.com/watch?v=KUdrAXbkAIU)
-- [An Approach](https://www.youtube.com/watch?v=GNf46jVghns)
-- [Wave Upon Wave](https://www.youtube.com/watch?v=RumGniGdO4g)
-- [Held By Trees  Mysterium](https://www.youtube.com/watch?v=zr5KAsCU4L0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +58,5 @@ styles: ["Post Rock", "Experimental"]
 | Format         | Vinyl LP Album (Eco Vinyl) |
 | Label          | Tweed Jacket Music Ltd |
 | Catalog Number | TJMLP01 |
-| Notes | The colour of the record may vary as it is 'eco vinyl'.  © ℗ Tweed Jacket Music Ltd 2022  The tracks are numbered 1 to 8 on the release. |
+| Notes | The colour of the record may vary as it is 'eco vinyl'.<br><br>© ℗ Tweed Jacket Music Ltd 2022<br><br>The tracks are numbered 1 to 8 on the release. |
 | Discogs URL    | [Held By Trees - Solace](https://www.discogs.com/release/23017073-Held-By-Trees-Solace) |

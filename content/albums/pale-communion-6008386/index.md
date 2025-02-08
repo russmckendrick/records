@@ -4,6 +4,7 @@ artist_name: "Opeth"
 artist: "opeth"
 album_name: "Pale Communion"
 date: 2016-08-25T16:29:14.000000Z
+release_date: "2014-08-22"
 release_id: "6008386"
 slug: "pale-communion-6008386"
 hideSummary: true
@@ -36,39 +37,28 @@ styles: ["Prog Rock"]
 Pale Communion is the eleventh studio album by Swedish progressive metal band Opeth. The album was released on 26 August 2014 through Roadrunner Records. The album was produced by Mikael Åkerfeldt and mixed by Steven Wilson. Pale Communion is the first album with keyboardist Joakim Svalberg after the departure of Per Wiberg in 2011. The album sold 19,090 copies in its first week of release in the United States, debuting at number 19 on the Billboard 200.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Eternal Rains Will Come
-2. Cusp Of Eternity
-3. Moon Above, Sun Below
-4. Elysian Woes
-5. Goblin
-6. River
-7. Voice Of Treason
-8. Faith In Others
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Eternal Rains Will Come |  |
+| A2 | Cusp Of Eternity |  |
+| B1 | Moon Above, Sun Below |  |
+| B2 | Elysian Woes |  |
+| C1 | Goblin |  |
+| C2 | River |  |
+| D1 | Voice Of Treason |  |
+| D2 | Faith In Others |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pale-communion/881685468" >}}<br>
 
 
-## Videos
-### Opeth - Cusp Of Eternity Audio
-{{< youtube id="JHq9yMXw3iA" title="Opeth - Cusp Of Eternity Audio" >}}<br>
-### More Videos
-
-- [Opeth - Cusp Of Eternity Audio](https://www.youtube.com/watch?v=JHq9yMXw3iA)
-- [opeht pale communion 2014 full album](https://www.youtube.com/watch?v=EgfeVZOItlQ)
-- [Unboxing Opeth - Pale Communion 2014 Deluxe Edition](https://www.youtube.com/watch?v=cuAd_0CXfvc)
-- [Opeth - Eternal Rains Will Come Audio](https://www.youtube.com/watch?v=CoW3Sywb5xQ)
-- [Opeth - Moon Above Sun Below Audio](https://www.youtube.com/watch?v=a3sYPX17cFk)
-- [Opeth - Goblin Audio](https://www.youtube.com/watch?v=tHkb8u0NedQ)
-- [Opeth - Elysian Woes Audio](https://www.youtube.com/watch?v=_6k--wHwV5A)
-- [Opeth - River Audio](https://www.youtube.com/watch?v=v-sGhzHzLSE)
-- [Opeth - Voice of Treason Audio](https://www.youtube.com/watch?v=iO4-mXMbiy8)
-- [Opeth - Faith In Others Audio](https://www.youtube.com/watch?v=wFSRCZN843c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +70,5 @@ Pale Communion is the eleventh studio album by Swedish progressive metal band Op
 | Format         | Vinyl 2× LP Album Limited Edition (Silver) |
 | Label          | Roadrunner Records |
 | Catalog Number | RR7573-1 |
-| Notes | 180g vinyl with printed innersleeves in gatefold cover. Limited to 500 copies. Inclusive download card with bonus content (available on 08/25/14)  Some releases contained a silver coloured Opeth hanger, art.nr. 285947St  Was originally planned to be pressed on gold vinyl but due to production problems it was decided to change the color to silver. |
+| Notes | 180g vinyl with printed innersleeves in gatefold cover. Limited to 500 copies.<br>Inclusive download card with bonus content (available on 08/25/14) <br>Some releases contained a silver coloured Opeth hanger, art.nr. 285947St<br><br>Was originally planned to be pressed on gold vinyl but due to production problems it was decided to change the color to silver. |
 | Discogs URL    | [Opeth - Pale Communion](https://www.discogs.com/release/6008386-Opeth-Pale-Communion) |

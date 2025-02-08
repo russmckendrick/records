@@ -4,6 +4,7 @@ artist_name: "Meat Loaf"
 artist: "meat-loaf"
 album_name: "Bat Out Of Hell"
 date: 2017-07-05T14:33:25.000000Z
+release_date: "1984"
 release_id: "9681142"
 slug: "bat-out-of-hell-9681142"
 hideSummary: true
@@ -28,35 +29,27 @@ Bat Out of Hell has sold over 43 million copies worldwide, making it one of the 
 A musical based on Bat Out of Hell, staged by Jay Scheib, opened at the Manchester Opera House on February 17, 2017, before transferring to the London Coliseum and Toronto's Ed Mirvish Theatre in late 2017. Between April 2, 2018 and January 5, 2019, the show was performed at the Dominion Theatre in London, before a short run the same year in the United States.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Bat Out Of Hell (9:48)
-2. You Took The Words Right Out Of My Mouth (Hot Summer Night) (5:04)
-3. Heaven Can Wait (4:38)
-4. All Revved Up With No Place To Go (4:19)
-5. Two Out Of Three Ain't Bad (5:23)
-6. Paradise By The Dashboard Light (8:28)
-7. For Crying Out Loud (8:45)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Bat Out Of Hell | 9:48 |
+| A2 | You Took The Words Right Out Of My Mouth (Hot Summer Night) | 5:04 |
+| A3 | Heaven Can Wait | 4:38 |
+| A4 | All Revved Up With No Place To Go | 4:19 |
+| B1 | Two Out Of Three Ain't Bad | 5:23 |
+|  | Paradise By The Dashboard Light | 8:28 |
+| B3 | For Crying Out Loud | 8:45 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hits-out-of-hell/950557238" >}}<br>
 
 
-## Videos
-### Bat Out of Hell
-{{< youtube id="x7ES7ueI7p0" title="Bat Out of Hell" >}}<br>
-### More Videos
-
-- [You Took The Words Right Out of My Mouth Hot Summer Night](https://www.youtube.com/watch?v=HRZTRTPiIT4)
-- [Heaven Can Wait](https://www.youtube.com/watch?v=VJKm0KxQ2L4)
-- [All Revved Up with No Place to Go](https://www.youtube.com/watch?v=eWVmRvq50kQ)
-- [Two Out of Three Aint Bad](https://www.youtube.com/watch?v=HVvXWUAKtus)
-- [Paradise By the Dashboard Light](https://www.youtube.com/watch?v=a136H5K3OKw)
-- [For Crying Out Loud](https://www.youtube.com/watch?v=8KyHDNQkBSA)
-- [Meat Loaf - Bat Out of Hell PCM Stereo](https://www.youtube.com/watch?v=3QGMCSCFoKA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +61,5 @@ A musical based on Bat Out of Hell, staged by Jay Scheib, opened at the Manchest
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Label          | Epic |
 | Catalog Number | 88985375141 |
-| Notes | Some copies have a sticker.   Dedicated to Wesley and Wilma Aday and Louis Steinman.  Edgar Winter appears courtesy of Blue Sky Records.  Todd Rundgren, Kasim Sultan, Roger Powell and John Wilcox appear courtesy of Bearsville Records.   Made in the EU.  |
+| Notes | Some copies have a sticker. <br><br>Dedicated to Wesley and Wilma Aday and Louis Steinman.<br><br>Edgar Winter appears courtesy of Blue Sky Records. <br>Todd Rundgren, Kasim Sultan, Roger Powell and John Wilcox appear courtesy of Bearsville Records. <br><br>Made in the EU.  |
 | Discogs URL    | [Meat Loaf - Bat Out Of Hell](https://www.discogs.com/release/9681142-Meat-Loaf-Bat-Out-Of-Hell) |

@@ -35,33 +35,24 @@ You can hear their desperation in “Racing in the Street” or on the sombre ti
 
 
 ## Tracklisting
-1. Badlands (4:01)
-2. Adam Raised A Cain (4:32)
-3. Something In The Night (5:12)
-4. Candy's Room (2:45)
-5. Racing In The Street (6:52)
-6. The Promised Land (4:24)
-7. Factory (2:17)
-8. Streets Of Fire (4:03)
-9. Prove It All Night (3:57)
-10. Darkness On The Edge Of Town (4:28)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Badlands | 4:01 |
+| A2 | Adam Raised A Cain | 4:32 |
+| A3 | Something In The Night | 5:12 |
+| A4 | Candy's Room | 2:45 |
+| A5 | Racing In The Street | 6:52 |
+| B1 | The Promised Land | 4:24 |
+| B2 | Factory | 2:17 |
+| B3 | Streets Of Fire | 4:03 |
+| B4 | Prove It All Night | 3:57 |
+| B5 | Darkness On The Edge Of Town | 4:28 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/darkness-on-the-edge-of-town/400713977" >}}<br>
 
 
-## Videos
-### Darkness On the Edge of Town
-{{< youtube id="0LpdEyGhNxM" title="Darkness On the Edge of Town" >}}<br>
-### More Videos
-
-- [DARKNESS ON THE EDGE OF TOWN Bruce Springsteen Vinyl HQ Sound Full Album](https://www.youtube.com/watch?v=yTp5runGeBM)
-- [Darkness on the Edge of Town complete album](https://www.youtube.com/watch?v=pTeREIomdrY)
-- [Bruce Springsteen - Darkness on the Edge of Town](https://www.youtube.com/watch?v=kg0ekQBmzKs)
-- [The Promised Land](https://www.youtube.com/watch?v=azQY2YBUMQc)
-- [Candys Room](https://www.youtube.com/watch?v=CyPfb0vOVfo)
-- [Prove It All Night](https://www.youtube.com/watch?v=UzjkWdRqWFo)
-- [Adam Raised a Cain](https://www.youtube.com/watch?v=PRRd78fqmIg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +64,5 @@ You can hear their desperation in “Racing in the Street” or on the sombre ti
 | Format         | Vinyl LP Album |
 | Label          | CBS |
 | Catalog Number | CBS 86061 |
-| Notes | 'Made in England'    With picture inner sleeve and lyric insert.   |
+| Notes | 'Made in England'<br><br>With picture inner sleeve and lyric insert.<br> |
 | Discogs URL    | [Bruce Springsteen - Darkness On The Edge Of Town](https://www.discogs.com/release/1856291-Bruce-Springsteen-Darkness-On-The-Edge-Of-Town) |

@@ -4,6 +4,7 @@ artist_name: "Devin Townsend Project"
 artist: "devin-townsend-project"
 album_name: "Transcendence"
 date: 2016-09-10T11:22:07.000000Z
+release_date: "2016-09-09"
 release_id: "9021741"
 slug: "transcendence-9021741"
 hideSummary: true
@@ -29,46 +30,44 @@ styles: ["Progressive Metal"]
 Transcendence is the seventeenth studio album by Canadian musician Devin Townsend. It is the seventh and final album in the Devin Townsend Project series. It was released on September 9, 2016, via HevyDevy Records.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Truth
-2. Stormbending
-3. Failure
-4. Secret Sciences
-5. Higher
-6. Stars
-7. Transcendence
-8. Offer Your Light
-9. From The Heart
-10. Transdermal Celebration
-11. Gump
-12. Loud
-13. Truth (4:47)
-14. Stormbending (5:23)
-15. Failure (6:02)
-16. Secret Sciences (7:28)
-17. Higher (9:40)
-18. Stars (4:18)
-19. Transcendence (5:55)
-20. Offer Your Light (3:58)
-21. From The Heart (8:24)
-22. Transdermal Celebration (8:26)
-23. Gump (5:25)
-24. Loud (3:23)
+| Position | Title | Duration |
+|----------|-------|----------|
+| LP-A1 | Truth |  |
+| LP-A2 | Stormbending |  |
+| LP-A3 | Failure |  |
+| LP-A4 | Secret Sciences |  |
+| LP-B1 | Higher |  |
+| LP-B2 | Stars |  |
+| LP-B3 | Transcendence |  |
+| LP-C1 | Offer Your Light |  |
+| LP-C2 | From The Heart |  |
+| LP-C3 | Transdermal Celebration |  |
+| LP-D1 | Gump |  |
+| LP-D2 | Loud |  |
+| CD-1 | Truth | 4:47 |
+| CD-2 | Stormbending | 5:23 |
+| CD-3 | Failure | 6:02 |
+| CD-4 | Secret Sciences | 7:28 |
+| CD-5 | Higher | 9:40 |
+| CD-6 | Stars | 4:18 |
+| CD-7 | Transcendence | 5:55 |
+| CD-8 | Offer Your Light | 3:58 |
+| CD-9 | From The Heart | 8:24 |
+| CD-10 | Transdermal Celebration | 8:26 |
+| CD-11 | Gump | 5:25 |
+| CD-12 | Loud | 3:23 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/transcendence-deluxe-edition/1138087195" >}}<br>
 
 
-## Videos
-### DEVIN TOWNSEND PROJECT - Stormbending Album Track
-{{< youtube id="8s9qh77gj6Y" title="DEVIN TOWNSEND PROJECT - Stormbending Album Track" >}}<br>
-### More Videos
-
-- [Devin Townsend Project - Transcendence](https://www.youtube.com/watch?v=kUh72bHQr08)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +79,5 @@ Transcendence is the seventeenth studio album by Canadian musician Devin Townsen
 | Format         | Vinyl LP (Clear), Vinyl LP Etched (Clear), All Media Album, CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 462 |
-| Notes | Recorded between March & April 2016 in Vancouver BC, Canada.  Published by: Copyright Control except 'Stormbending', 'Failure', 'Secret Sciences', 'Higher' and 'Transcendence', published by Copyright Control / AMF Music. 'From The Heart' published by Copyright Control / AMF Music / Mustamullah Music (BMI)  'Transdermal Celebration' is a cover by [a=Ween] which appeared on their 2003 album 'Quebec'. Copyright Control  Sample of the O.L.D. song, 'Last Look' used with kind permission from Earache Records  Mastered for Systematic Productions  FACTOR We acknowledge the financial support of FACTOR and Canada's private radio broadcasters.  Recorded at The Armoury Studios  Choir recorded at The Farm Studios  © 2016 InsideOut Music. Issued under license from HevyDevy Records · ℗ 2016 HevyDevy Records. Issued under from HevyDevy Records to Century Media Records Ltd. under exclusive license from InsideOutMusic · Made in Germany · Century Media Records Ltd.  180g Transparent clear vinyl in gatefold + CD in PVC sleeve.  Limited to 200 copies  "From The Heart" is both credited with Music By credits for "Devin Townsend, Dave Young, Brian Waddell, Ryan VanPoederooyen, Mike St-Jean" and "Devin Townsend, Jeffrey M. Kagel" |
+| Notes | Recorded between March & April 2016 in Vancouver BC, Canada.<br><br>Published by: Copyright Control except 'Stormbending', 'Failure', 'Secret Sciences', 'Higher' and 'Transcendence', published by Copyright Control / AMF Music.<br>'From The Heart' published by Copyright Control / AMF Music / Mustamullah Music (BMI)<br><br>'Transdermal Celebration' is a cover by [a=Ween] which appeared on their 2003 album 'Quebec'.<br>Copyright Control<br><br>Sample of the O.L.D. song, 'Last Look' used with kind permission from Earache Records<br><br>Mastered for Systematic Productions<br><br>FACTOR<br>We acknowledge the financial support of FACTOR and Canada's private radio broadcasters.<br><br>Recorded at The Armoury Studios<br><br>Choir recorded at The Farm Studios<br><br>© 2016 InsideOut Music. Issued under license from HevyDevy Records · ℗ 2016 HevyDevy Records. Issued under from HevyDevy Records to Century Media Records Ltd. under exclusive license from InsideOutMusic · Made in Germany · Century Media Records Ltd.<br><br>180g Transparent clear vinyl in gatefold + CD in PVC sleeve.<br><br>Limited to 200 copies<br><br>"From The Heart" is both credited with Music By credits for "Devin Townsend, Dave Young, Brian Waddell, Ryan VanPoederooyen, Mike St-Jean" and "Devin Townsend, Jeffrey M. Kagel" |
 | Discogs URL    | [Devin Townsend Project - Transcendence](https://www.discogs.com/release/9021741-Devin-Townsend-Project-Transcendence) |

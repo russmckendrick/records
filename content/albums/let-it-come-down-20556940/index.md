@@ -4,6 +4,7 @@ artist_name: "Spiritualized"
 artist: "spiritualized"
 album_name: "Let It Come Down"
 date: 2021-10-28T05:19:50.000000Z
+release_date: "2001-09-17"
 release_id: "20556940"
 slug: "let-it-come-down-20556940"
 hideSummary: true
@@ -30,37 +31,31 @@ styles: ["Downtempo", "Psychedelic Rock", "Indie Rock"]
 Let It Come Down is the fourth studio album by the rock band Spiritualized, released in 2001. It was recorded and produced at Abbey Road and AIR Studios. It took Jason Pierce, Spiritualized's lead singer, guitarist and sole constant member, four years to write, perform, produce and release. The album utilises 115 session musicians, including orchestra and London Community Gospel Choir. The wall of sound technique (most notably used by 1960s record producer Phil Spector) is evident on this album, especially on such tracks as "Do It All Over Again", "Stop Your Crying", "The Straight and the Narrow" and "Out of Sight".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. On Fire
-2. Do It All Over Again
-3. Don't Just Do Something
-4. Out Of Sight
-5. The Twelve Steps
-6. The Straight And The Narrow
-7. I Didn't Mean To Hurt You
-8. Stop Your Crying
-9. Anything More
-10. Won't Get To Heaven (The State I'm In)
-11. Lord Can You Hear Me
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | On Fire |  |
+| A2 | Do It All Over Again |  |
+| A3 | Don't Just Do Something |  |
+| B1 | Out Of Sight |  |
+| B2 | The Twelve Steps |  |
+| B3 | The Straight And The Narrow |  |
+| C1 | I Didn't Mean To Hurt You |  |
+| C2 | Stop Your Crying |  |
+| C3 | Anything More |  |
+| D1 | Won't Get To Heaven (The State I'm In) |  |
+| D2 | Lord Can You Hear Me |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/let-it-come-down/1502492981" >}}<br>
 
 
-## Videos
-### Spiritualized - Do It All Over Again Official Video
-{{< youtube id="s2v0PZOpRqg" title="Spiritualized - Do It All Over Again Official Video" >}}<br>
-### More Videos
-
-- [Spiritualized - Stop Your Crying Official Music Video](https://www.youtube.com/watch?v=JhynUZyB2sk)
-- [Spiritualized - Out Of Sight Official Music Video](https://www.youtube.com/watch?v=WOswxJKtLLw)
-- [Lord Can You Hear Me - Spiritualized Official Audio](https://www.youtube.com/watch?v=H8j-fV17i54)
-- [On Fire](https://www.youtube.com/watch?v=IYhI-KHoCb0)
-- [The Twelve Steps](https://www.youtube.com/watch?v=dRNyQ3I7ous)
 
 ## Release Images
 {{< imageGrid >}}

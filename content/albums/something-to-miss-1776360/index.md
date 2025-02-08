@@ -4,6 +4,7 @@ artist_name: "Senseless Things"
 artist: "senseless-things"
 album_name: "Something To Miss"
 date: 2018-02-15T19:24:32.000000Z
+release_date: "2007-07-05"
 release_id: "1776360"
 slug: "something-to-miss-1776360"
 hideSummary: true
@@ -21,20 +22,22 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Something To Miss (3:53)
-2. 16.18.21 (3:05)
-3. Never Haunted (2:38)
-4. Answering Machine (3:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Something To Miss | 3:53 |
+| B1 | 16.18.21 | 3:05 |
+| B2 | Never Haunted | 2:38 |
+| B3 | Answering Machine | 3:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/something-to-miss/259504098" >}}<br>
 
-
-## Videos
-### Senseless Things - Something To Miss
-{{< youtube id="NzWfqBz8ksY" title="Senseless Things - Something To Miss" >}}<br>
 
 
 ## Release Images

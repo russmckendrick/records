@@ -4,6 +4,7 @@ artist_name: "Rick James"
 artist: "rick-james"
 album_name: "Street Songs"
 date: 2019-04-09T17:40:59.000000Z
+release_date: "2021-04-30"
 release_id: "9106450"
 slug: "street-songs-9106450"
 hideSummary: true
@@ -24,44 +25,28 @@ styles: ["Funk", "Disco"]
 ---
 
 Street Songs is the fifth studio album by American musician Rick James, released in April 1981 on Gordy Records. It contained two of James's biggest hits: the singles "Give It to Me Baby" and "Super Freak".
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Give It To Me Baby (4:07)
-2. Ghetto Life (4:20)
-3. Make Love To Me (4:48)
-4. Mr. Policeman (4:17)
-5. Super Freak (3:25)
-6. Fire And Desire (7:19)
-7. Call Me Up (3:54)
-8. Below The Funk (Pass The J) (2:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Give It To Me Baby | 4:07 |
+| A2 | Ghetto Life | 4:20 |
+| A3 | Make Love To Me | 4:48 |
+| A4 | Mr. Policeman | 4:17 |
+| B1 | Super Freak | 3:25 |
+| B2 | Fire And Desire | 7:19 |
+| B3 | Call Me Up | 3:54 |
+| B4 | Below The Funk (Pass The J) | 2:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rick-james-single/1562543429" >}}<br>
 
 
-## Videos
-### Ricky James - Street Songs Full Album
-{{< youtube id="kGuDqxQhzv8" title="Ricky James - Street Songs Full Album" >}}<br>
-### More Videos
-
-- [Rick James - Street Songs 1981 - A1 - Give It To Me Baby](https://www.youtube.com/watch?v=7rBgp8JoplM)
-- [Rick James - Street Songs 1981 - A2 - Ghetto Life](https://www.youtube.com/watch?v=J0p9PTPK028)
-- [Rick James - Street Songs 1981 - A3 - Make Love To Me](https://www.youtube.com/watch?v=8-ttYz7i4D4)
-- [Rick James - Street Songs 1981 - A4 - Mr Policeman](https://www.youtube.com/watch?v=rL677jElRXM)
-- [Rick James - Street Songs 1981 - B1 - Super Freak](https://www.youtube.com/watch?v=TPq3VuCQPM8)
-- [Rick James - Street Songs 1981 - B2 - Fire And Desire](https://www.youtube.com/watch?v=GVN2t0cAYdA)
-- [Rick James - Street Songs 1981 - B3 - Call Me Up](https://www.youtube.com/watch?v=oGzasyId3VM)
-- [Below the Funk Pass the J - Rick James](https://www.youtube.com/watch?v=d1TPSlLwKb8)
-- [Ghetto Life](https://www.youtube.com/watch?v=LyrGXnpSlIE)
-- [Rick James - Super Freak Official Music Video](https://www.youtube.com/watch?v=QYHxGBH6o4M)
-- [Rick James - Ghetto Life](https://www.youtube.com/watch?v=2wWh-3ZN-g0)
-- [Rick James - Ghetto Life Sound Remastered](https://www.youtube.com/watch?v=Md_D3_0CfFw)
-- [Rick James - Give It To Me Baby](https://www.youtube.com/watch?v=1dNIQVYGXbM)
-- [Fool On The Street](https://www.youtube.com/watch?v=6ydyddihZPs)
-- [Rick James - Hard To Get Official Music Video](https://www.youtube.com/watch?v=Fmuxwhl32as)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +58,5 @@ Street Songs is the fifth studio album by American musician Rick James, released
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Gordy |
 | Catalog Number | G 1002 |
-| Notes | Includes voucher to download MP3 version of the album.  On back cover : ℗ 1981 Motown Records Company L.P. A Universal Music Company © 1981 Motown Records Company L.P. A Universal Music Company Made in the EU. LC 01846. 0600753160107  On inner sleeve : Steve Price, courtesy of A&M Records Michael Narada Walden, courtesy of Atlantic Recording Corp. Armando Peraza & Raul Rekow, and Maxine Waters Willard & Julia Waters Tillman, courtesy of Arista Records. |
+| Notes | Includes voucher to download MP3 version of the album.<br><br>On back cover :<br>℗ 1981 Motown Records Company L.P. A Universal Music Company<br>© 1981 Motown Records Company L.P. A Universal Music Company<br>Made in the EU.<br>LC 01846. 0600753160107<br><br>On inner sleeve :<br>Steve Price, courtesy of A&M Records<br>Michael Narada Walden, courtesy of Atlantic Recording Corp.<br>Armando Peraza & Raul Rekow, and Maxine Waters Willard & Julia Waters Tillman, courtesy of Arista Records. |
 | Discogs URL    | [Rick James - Street Songs](https://www.discogs.com/release/9106450-Rick-James-Street-Songs) |

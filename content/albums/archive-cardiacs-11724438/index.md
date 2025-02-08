@@ -4,6 +4,7 @@ artist_name: "Cardiacs"
 artist: "cardiacs"
 album_name: "Archive Cardiacs"
 date: 2018-03-18T15:59:40.000000Z
+release_date: "1988-01-01"
 release_id: "11724438"
 slug: "archive-cardiacs-11724438"
 hideSummary: true
@@ -27,37 +28,32 @@ Archive Cardiacs (or simply Archive) is a compilation album by English rock band
 The album was originally released on cassette in 1989 exclusively available to the Cardiacs Yousletter Family and was reissued on CD in 1995.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Aukamacic
-2. Icky Qualms
-3. Piffol Four Times
-4. Scratching Crawling Scrawling
-5. As Cold As Can Be In An English Sea
-6. T.V.T.V.
-7. My Trade Mark
-8. The Obvious Identity
-9. Piffol One Time
-10. A Game For Bertie's Party
-11. Piffol Three Times
-12. Rock Around The Clock
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Aukamacic |  |
+| A2 | Icky Qualms |  |
+| A3 | Piffol Four Times |  |
+| A4 | Scratching Crawling Scrawling |  |
+| A5 | As Cold As Can Be In An English Sea |  |
+| A6 | T.V.T.V. |  |
+| A7 | My Trade Mark |  |
+| B1 | The Obvious Identity |  |
+| B2 | Piffol One Time |  |
+| B3 | A Game For Bertie's Party |  |
+| B4 | Piffol Three Times |  |
+| B5 | Rock Around The Clock |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cardiacs-live/338545664" >}}<br>
 
 
-## Videos
-### Aukamacic
-{{< youtube id="3eEf17I2y0k" title="Aukamacic" >}}<br>
-### More Videos
-
-- [Icky Qualms](https://www.youtube.com/watch?v=E3XQqgfrfkc)
-- [Piffol One Time](https://www.youtube.com/watch?v=_L8Oa8xcr_o)
-- [Cardiacs - TVTV](https://www.youtube.com/watch?v=YU3fP7Efy28)
-- [Cardiacs - As Cold As Can Be In An English Sea](https://www.youtube.com/watch?v=5RNdUpVRB6g)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +65,5 @@ The album was originally released on cassette in 1989 exclusively available to t
 | Format         | Vinyl LP Album |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH LP 000 |
-| Notes | A collection of recordings from the period 1977-79.  Comes in a green textured gatefold sleeve with a printed inner lyric/credit/info sleeve. |
+| Notes | A collection of recordings from the period 1977-79.<br><br>Comes in a green textured gatefold sleeve with a printed inner lyric/credit/info sleeve. |
 | Discogs URL    | [Cardiacs - Archive Cardiacs](https://www.discogs.com/release/11724438-Cardiacs-Archive-Cardiacs) |

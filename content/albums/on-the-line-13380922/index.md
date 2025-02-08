@@ -57,37 +57,25 @@ A successful child actor turned indie-rock sweetheart with Rilo Kiley, a solo ar
 
 
 ## Tracklisting
-1. Heads Gonna Roll (5:13)
-2. Wasted Youth (4:13)
-3. Red Bull & Hennessy (4:48)
-4. Hollywood Lawn (4:34)
-5. Do Si Do (3:54)
-6. Dogwood (4:28)
-7. Party Clown (4:09)
-8. Little White Dove (4:49)
-9. Taffy (4:27)
-10. On The Line (3:48)
-11. Rabbit Hole (2:46)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Heads Gonna Roll | 5:13 |
+| A2 | Wasted Youth | 4:13 |
+| A3 | Red Bull & Hennessy | 4:48 |
+| A4 | Hollywood Lawn | 4:34 |
+| A5 | Do Si Do | 3:54 |
+| B1 | Dogwood | 4:28 |
+| B2 | Party Clown | 4:09 |
+| B3 | Little White Dove | 4:49 |
+| B4 | Taffy | 4:27 |
+| B5 | On The Line | 3:48 |
+| B6 | Rabbit Hole | 2:46 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/on-the-line/1449905465" >}}<br>
 
 
-## Videos
-### Jenny Lewis - Heads Gonna Roll Official Audio
-{{< youtube id="jubKE-ymrV0" title="Jenny Lewis - Heads Gonna Roll Official Audio" >}}<br>
-### More Videos
-
-- [Jenny Lewis - Wasted Youth Official Audio](https://www.youtube.com/watch?v=ZY8bdQRpmGU)
-- [Jenny Lewis - Red Bull  Hennessy Official Audio](https://www.youtube.com/watch?v=rINs_GRLAVs)
-- [Jenny Lewis - Hollywood Lawn Official Audio](https://www.youtube.com/watch?v=6fspjNnHJ7I)
-- [Jenny Lewis - Do Si Do Official Audio](https://www.youtube.com/watch?v=DH0W70khpK8)
-- [Jenny Lewis - Dogwood Official Audio](https://www.youtube.com/watch?v=GODst4QgxdI)
-- [Jenny Lewis - Party Clown Official Audio](https://www.youtube.com/watch?v=u0W0XHT2_50)
-- [Jenny Lewis - Little White Dove Official Audio](https://www.youtube.com/watch?v=rLFJT_ca8YA)
-- [Jenny Lewis - Taffy Official Audio](https://www.youtube.com/watch?v=UkT4EWzoX38)
-- [Jenny Lewis - On The Line Official Audio](https://www.youtube.com/watch?v=GmfvvKDOEwE)
-- [Jenny Lewis - Rabbit Hole Official Audio](https://www.youtube.com/watch?v=PSgvM6D6ssY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -99,5 +87,5 @@ A successful child actor turned indie-rock sweetheart with Rilo Kiley, a solo ar
 | Format         | Vinyl LP Album Limited Edition (Blue) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 585764-1 |
-| Notes | Recorded at Capitol Studios Additional recording at Neptune Valley Studio  Published by Deprecious Music administered by Kobalt Music Publishing, Inc. (BMI)  Ryan Adams appears courtesy of Blue Note Records.  Includes four-panel, double-sided fold-out full-colour poster which includes lyrics and credits.   Warner Bros. Records Inc., A Warner Music Group Company. © ℗ 2019 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Printed in Canada. Manufactured in Germany. |
+| Notes | Recorded at Capitol Studios<br>Additional recording at Neptune Valley Studio<br><br>Published by Deprecious Music administered by Kobalt Music Publishing, Inc. (BMI)<br><br>Ryan Adams appears courtesy of Blue Note Records.<br><br>Includes four-panel, double-sided fold-out full-colour poster which includes lyrics and credits. <br><br>Warner Bros. Records Inc., A Warner Music Group Company.<br>© ℗ 2019 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.<br>Printed in Canada.<br>Manufactured in Germany. |
 | Discogs URL    | [Jenny Lewis - On The Line](https://www.discogs.com/release/13380922-Jenny-Lewis-On-The-Line) |

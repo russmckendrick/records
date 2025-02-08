@@ -38,22 +38,24 @@ In the songs’ simplicity is a clear confidence: “Enter Sandman” and “Sad
 
 
 ## Tracklisting
-1. Enter Sandman (5:29)
-2. Sad But True (5:24)
-3. Holier Than Thou (3:47)
-4. The Unforgiven (6:26)
-5. Wherever I May Roam (6:42)
-6. Don't Tread On Me (3:59)
-7. Through The Never (4:01)
-8. Nothing Else Matters (6:29)
-9. Of Wolf And Man (4:16)
-10. The God That Failed (5:05)
-11. My Friend Of Misery (6:47)
-12. The Struggle Within (3:51)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Enter Sandman | 5:29 |
+| A2 | Sad But True | 5:24 |
+| A3 | Holier Than Thou | 3:47 |
+| B1 | The Unforgiven | 6:26 |
+| B2 | Wherever I May Roam | 6:42 |
+| B3 | Don't Tread On Me | 3:59 |
+| C1 | Through The Never | 4:01 |
+| C2 | Nothing Else Matters | 6:29 |
+| C3 | Of Wolf And Man | 4:16 |
+| D1 | The God That Failed | 5:05 |
+| D2 | My Friend Of Misery | 6:47 |
+| D3 | The Struggle Within | 3:51 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/metallica/1440833237" >}}<br>
-
 
 
 
@@ -67,5 +69,5 @@ In the songs’ simplicity is a clear confidence: “Enter Sandman” and “Sad
 | Format         | Vinyl 2× LP Album Reissue Repress |
 | Label          | Blackened |
 | Catalog Number | BLCKND008-1 |
-| Notes | Insert contains lyrics.  Recorded at One On One Recording, Los Angeles, October '90 - June '91.  "© 1991 Blackened Recordings. Made in the U.S.A. All Rights Reserved" on insert. "© ℗ 1991 Blackened Recordings. Manufactured by Warner Music Group, 3400W Olive Ave. Burbank, CA 91505-4614. Printed in U.S.A. All Rights Reserved." on back cover.  "© ℗ 1991 Blackened Recordings." on labels.  Matrix/runout etched, except "18250" & "18251" stamped. |
+| Notes | Insert contains lyrics.<br><br>Recorded at One On One Recording, Los Angeles, October '90 - June '91.<br><br>"© 1991 Blackened Recordings. Made in the U.S.A. All Rights Reserved" on insert.<br>"© ℗ 1991 Blackened Recordings. Manufactured by Warner Music Group, 3400W Olive Ave. Burbank, CA 91505-4614. Printed in U.S.A. All Rights Reserved." on back cover. <br>"© ℗ 1991 Blackened Recordings." on labels.<br><br>Matrix/runout etched, except "18250" & "18251" stamped. |
 | Discogs URL    | [Metallica - Metallica](https://www.discogs.com/release/6007719-Metallica-Metallica) |

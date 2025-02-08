@@ -4,6 +4,7 @@ artist_name: "Marillion"
 artist: "marillion"
 album_name: "Radiation 2013"
 date: 2021-05-30T05:07:49.000000Z
+release_date: "1998-10-27"
 release_id: "4755043"
 slug: "radiation-2013-4755043"
 hideSummary: true
@@ -28,21 +29,26 @@ styles: ["Alternative Rock", "Prog Rock", "Symphonic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Costa Del Slough
-2. Under The Sun
-3. The Answering Machine
-4. Three Minute Boy
-5. Now She'll Never Know
-6. These Chains
-7. Born To Run
-8. Cathedral Wall
-9. A Few Words For The Dead
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Costa Del Slough |  |
+| A2 | Under The Sun |  |
+| A3 | The Answering Machine |  |
+| A4 | Three Minute Boy |  |
+| B1 | Now She'll Never Know |  |
+| B2 | These Chains |  |
+| B3 | Born To Run |  |
+| C1 | Cathedral Wall |  |
+| C2 | A Few Words For The Dead |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/radiation-2013/1328434526" >}}<br>
-
 
 
 
@@ -55,5 +61,5 @@ styles: ["Alternative Rock", "Prog Rock", "Symphonic Rock"]
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue Remastered (180 gram, Blue Translucent) |
 | Label          | Madfish |
 | Catalog Number | SMALP996 |
-| Notes | This record features the 2013 remaster/remix by Michael Hunter, on translucent blue heavyweight vinyl. Comes in a gatefold sleeve.  Written and Recorded at The Racket Club, Buckinghamshire, between November '97 and June '98. Mixed at The Forge, Oswestry.  Published by Hornall Brothers Publishing.  Side D features an etching by cover artist, Carl Glover.  ℗ 2013 Intact Recordings under exclusive licence to Snapper Music Plc. © 2013 Intact Recordings. Madfish is a Snapper Music Label.  [Back cover reads]: Made in Poland  [Labels reads]: Made in Germany.  Red sticker reads: Marillion Radiation 2013 Deluxe Gatefold 2LP Edition on blue vinyl with etching  Newly remixed and remastered by Michael Hunter with new artwork  Madfish www.madfishmusic.com/marillion“ SMALP996  |
+| Notes | This record features the 2013 remaster/remix by Michael Hunter, on translucent blue heavyweight vinyl. Comes in a gatefold sleeve.<br><br>Written and Recorded at The Racket Club, Buckinghamshire, between November '97 and June '98.<br>Mixed at The Forge, Oswestry.<br><br>Published by Hornall Brothers Publishing.<br><br>Side D features an etching by cover artist, Carl Glover.<br><br>℗ 2013 Intact Recordings under exclusive licence to Snapper Music Plc.<br>© 2013 Intact Recordings.<br>Madfish is a Snapper Music Label.<br><br>[Back cover reads]:<br>Made in Poland<br><br>[Labels reads]:<br>Made in Germany.<br><br>Red sticker reads:<br>Marillion<br>Radiation 2013<br>Deluxe Gatefold 2LP<br>Edition on blue vinyl<br>with etching<br><br>Newly remixed and<br>remastered by Michael<br>Hunter with new artwork<br><br>Madfish<br>www.madfishmusic.com/marillion“<br>SMALP996<br> |
 | Discogs URL    | [Marillion - Radiation 2013](https://www.discogs.com/release/4755043-Marillion-Radiation-2013) |

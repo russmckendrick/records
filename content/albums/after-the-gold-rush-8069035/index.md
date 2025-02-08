@@ -34,37 +34,25 @@ And in a moment when the optimism of the ’60s was dissipating into the realiti
 
 
 ## Tracklisting
-1. Tell Me Why (2:57)
-2. After The Gold Rush (3:46)
-3. Only Love Can Break Your Heart (3:09)
-4. Southern Man (5:31)
-5. Till The Morning Comes (1:16)
-6. Oh, Lonesome Me (3:49)
-7. Don't Let It Bring You Down (2:57)
-8. Birds (2:33)
-9. When You Dance, I Can Really Love (3:45)
-10. I Believe In You (3:27)
-11. Cripple Creek Ferry (1:34)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Tell Me Why | 2:57 |
+| A2 | After The Gold Rush | 3:46 |
+| A3 | Only Love Can Break Your Heart | 3:09 |
+| A4 | Southern Man | 5:31 |
+| A5 | Till The Morning Comes | 1:16 |
+| B1 | Oh, Lonesome Me | 3:49 |
+| B2 | Don't Let It Bring You Down | 2:57 |
+| B3 | Birds | 2:33 |
+| B4 | When You Dance, I Can Really Love | 3:45 |
+| B5 | I Believe In You | 3:27 |
+| B6 | Cripple Creek Ferry | 1:34 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/after-the-gold-rush/1015783330" >}}<br>
 
 
-## Videos
-### After the Gold Rush
-{{< youtube id="atOcSKbrl38" title="After the Gold Rush" >}}<br>
-### More Videos
-
-- [Tell Me Why](https://www.youtube.com/watch?v=3ppMcqsg0Sw)
-- [Only Love Can Break Your Heart](https://www.youtube.com/watch?v=RN5jMXLPBQI)
-- [Southern Man](https://www.youtube.com/watch?v=-KTpIQROSAw)
-- [Till the Morning Comes](https://www.youtube.com/watch?v=VxTmf8gm5-U)
-- [Oh Lonesome Me](https://www.youtube.com/watch?v=6UrdY0t_NxM)
-- [Dont Let It Bring You Down](https://www.youtube.com/watch?v=uCheMBE8hq0)
-- [Birds](https://www.youtube.com/watch?v=7-nj2gP1aBg)
-- [When You Dance I Can Really Love](https://www.youtube.com/watch?v=Im0EerJZWlo)
-- [I Believe in You](https://www.youtube.com/watch?v=4VkbavD6aHE)
-- [Cripple Creek Ferry](https://www.youtube.com/watch?v=wBZi3M0bR-g)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +64,5 @@ And in a moment when the optimism of the ’60s was dissipating into the realiti
 | Format         | Vinyl LP Album Reissue Repress (140 Gram, Gatefold) |
 | Label          | Reprise Records |
 | Catalog Number | 517936-1 |
-| Notes | Mastered from the original analog master tapes. 140 gram vinyl, gatefold sleeve. Repress of the 180 gram version, [r2061084]. Includes poster-sized lyric insert.  Originally released in 1970.  ©℗2009 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S. Printed in U.S.A.  ©℗2009 Reprise Records, a Warner Music Group Company Manufactured in Germany |
+| Notes | Mastered from the original analog master tapes. 140 gram vinyl, gatefold sleeve. Repress of the 180 gram version, [r2061084]. Includes poster-sized lyric insert.<br><br>Originally released in 1970.<br><br>©℗2009 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.<br>Printed in U.S.A.<br><br>©℗2009 Reprise Records, a Warner Music Group Company<br>Manufactured in Germany |
 | Discogs URL    | [Neil Young - After The Gold Rush](https://www.discogs.com/release/8069035-Neil-Young-After-The-Gold-Rush) |

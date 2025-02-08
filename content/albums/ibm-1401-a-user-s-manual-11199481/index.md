@@ -1,9 +1,10 @@
 ---
 title: "Jóhann Jóhannsson - IBM 1401, A User's Manual"
 artist_name: "Jóhann Jóhannsson"
-artist: "j-hann-j-hannsson"
+artist: "johann-johannsson"
 album_name: "IBM 1401, A User's Manual"
 date: 2017-12-09T19:15:31.000000Z
+release_date: "2006-10-30"
 release_id: "11199481"
 slug: "ibm-1401-a-user-s-manual-11199481"
 hideSummary: true
@@ -34,30 +35,28 @@ IBM 1401, A User's Manual is the fourth full-length studio album by Icelandic mu
 4AD released the album on vinyl for the first time on December 8, 2017. The reissue was a double LP pressing on clear-coloured vinyl and included two previously unreleased live bonus tracks.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Part 1 / IBM 1401 Processing Unit (8:32)
-2. Part 2 / IBM 1403 Printer (9:33)
-3. Part 3 / IBM 1402 Card Read-Punch (10:23)
-4. Part 4 / IBM 729 II Magnetic Tape Unit (7:15)
-5. Part 5 / The Sun's Gone Dim And The Sky's Turned Black (7:09)
-6. Live
-7. Part 1 / IBM 1401 Processing Unit
-8. Part 5 / The Sun's Gone Dim And The Sky's Turned Black
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Part 1 / IBM 1401 Processing Unit | 8:32 |
+| A2 | Part 2 / IBM 1403 Printer | 9:33 |
+| B1 | Part 3 / IBM 1402 Card Read-Punch | 10:23 |
+| B2 | Part 4 / IBM 729 II Magnetic Tape Unit | 7:15 |
+| C | Part 5 / The Sun's Gone Dim And The Sky's Turned Black | 7:09 |
+|  | Live |  |
+| D1 | Part 1 / IBM 1401 Processing Unit |  |
+| D2 | Part 5 / The Sun's Gone Dim And The Sky's Turned Black |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ibm-1401-a-users-manual/311183849" >}}<br>
 
 
-## Videos
-### IBM 1401 a Users Manual Part I - IBM 1401 Processing Unit
-{{< youtube id="tBw_wSoVQrY" title="IBM 1401 a Users Manual Part I - IBM 1401 Processing Unit" >}}<br>
-### More Videos
-
-- [Jóhann Jóhannsson - The Suns Gone Dim And The Skys Turned Black Baraka](https://www.youtube.com/watch?v=euROmffXvKM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +68,5 @@ IBM 1401, A User's Manual is the fourth full-length studio album by Icelandic mu
 | Format         | Vinyl 2× LP Album Reissue (Clear) |
 | Label          | 4AD |
 | Catalog Number | DAD 2609 |
-| Notes | Gatefold jacket is embossed.  The orchestra was recorded at Barrandov Studios, Smecky Soundstage in Prague in September 2005. Additional recordings were made in Reykjavik, Skálholt, Florence, Madrid, Zurich, Piran and Rennes during the period 2003-2006. Mixed in Syrland, Reykjavik in February 2006. Mastered in Abbey Road.  Side D recorded live in concert at the Rudolfinium in Prague with the City of Prague Philharmonic Orchestra, 2nd November 2010 and are exclusive bonus tracks to the LP version of this release.  This LP release comes with a digital download of the entire album, including the 2 bonus tracks.  Tracks two and three feature the voice of "an unknown instructor from an IBM 1401 Data Processing System maintenance instruction tape found in my father’s attic."  All electronic sounds were derived from the IBM 1401 Data Processing System and the Hammond B3 organ with Ring Modulator, Distortion and Filter pedals. The music and sounds of the IBM 1401 Data Processing System were recorded by Jóhann Gunnarsson, Örn Kaldalóns and Elías Davídsson in Reykjavik in 1971. The musical fragment played by the computer is from the hymn "Ísland Ögrum Skorid" by Sigvaldi Kaldalóns, used by kind permission.  (P) 2006 4AD Ltd (C) 2006 4AD Ltd Manufactured in the UK  |
+| Notes | Gatefold jacket is embossed.<br><br>The orchestra was recorded at Barrandov Studios, Smecky Soundstage in Prague in September 2005.<br>Additional recordings were made in Reykjavik, Skálholt, Florence, Madrid, Zurich, Piran and Rennes during the period 2003-2006.<br>Mixed in Syrland, Reykjavik in February 2006.<br>Mastered in Abbey Road.<br><br>Side D recorded live in concert at the Rudolfinium in Prague with the City of Prague Philharmonic Orchestra, 2nd November 2010 and are exclusive bonus tracks to the LP version of this release.<br><br>This LP release comes with a digital download of the entire album, including the 2 bonus tracks.<br><br>Tracks two and three feature the voice of "an unknown instructor from an IBM 1401 Data Processing System maintenance instruction tape found in my father’s attic."<br><br>All electronic sounds were derived from the IBM 1401 Data Processing System and the Hammond B3 organ with Ring Modulator, Distortion and Filter pedals. The music and sounds of the IBM 1401 Data Processing System were recorded by Jóhann Gunnarsson, Örn Kaldalóns and Elías Davídsson in Reykjavik in 1971. The musical fragment played by the computer is from the hymn "Ísland Ögrum Skorid" by Sigvaldi Kaldalóns, used by kind permission.<br><br>(P) 2006 4AD Ltd<br>(C) 2006 4AD Ltd<br>Manufactured in the UK<br> |
 | Discogs URL    | [Jóhann Jóhannsson - IBM 1401, A User's Manual](https://www.discogs.com/release/11199481-Jóhann-Jóhannsson-IBM-1401-A-Users-Manual) |

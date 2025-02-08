@@ -35,30 +35,29 @@ Dookie received critical acclaim upon its release, although some early fans accu
 
 
 ## Tracklisting
-1. Burnout (2:07)
-2. Having A Blast (2:45)
-3. Chump (2:54)
-4. Longview (3:59)
-5. Welcome To Paradise (3:45)
-6. Pulling Teeth (2:31)
-7. Basket Case (3:01)
-8. She (2:14)
-9. Sassafras Roots (2:38)
-10. When I Come Around (2:58)
-11. Coming Clean (1:35)
-12. Emenius Sleepus (1:44)
-13. In The End (1:46)
-14. F.O.D. (2:49)
-15. (silence) (1:20)
-16. All By Myself (1:38)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Burnout | 2:07 |
+| A2 | Having A Blast | 2:45 |
+| A3 | Chump | 2:54 |
+| A4 | Longview | 3:59 |
+| A5 | Welcome To Paradise | 3:45 |
+| A6 | Pulling Teeth | 2:31 |
+| A7 | Basket Case | 3:01 |
+| B1 | She | 2:14 |
+| B2 | Sassafras Roots | 2:38 |
+| B3 | When I Come Around | 2:58 |
+| B4 | Coming Clean | 1:35 |
+| B5 | Emenius Sleepus | 1:44 |
+| B6 | In The End | 1:46 |
+| B7.1 | F.O.D. | 2:49 |
+| B7.2 | (silence) | 1:20 |
+| B7.3 | All By Myself | 1:38 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dookie/1160081985" >}}<br>
 
-
-## Videos
-### Green Day - Welcome To Paradise Live
-{{< youtube id="OR7R9Kuw2fY" title="Green Day - Welcome To Paradise Live" >}}<br>
 
 
 ## Release Images
@@ -71,5 +70,5 @@ Dookie received critical acclaim upon its release, although some early fans accu
 | Format         | Vinyl LP Album Reissue |
 | Label          | Reprise Records |
 | Catalog Number | 9362-49869-5 |
-| Notes | Includes printed insert.  Track B2 titled "Sassafras" on label. Tracks B7.2 and B7.3 are unlisted.  Green sticker on front: The 1994 breakthrough album. For the first time on vinyl in over a decade. BECAUSE SOUND MATTERS 1-468284 (K1)  Inlay: 1994 WB Music Corp./Green Daze Music, admin. by WB Music Corp. ASCAP except "Welcome To Paradise" © 1991 WB Music Corp./Green Daze Music, admin. by WB Music Corp. ASCAP. Lyrics Reprinted by Permission. © 2008, 1994 Reprise Records.  Back cover: Reprise Records, a Warner Music Group Company. © ℗ 2008, 1994 Reprise Records for the U.S. and WEA International Inc. for the world outside of the U.S. Made in the E.U.  Labels: WB Music Corp./Green Daze Music admin. by WB Music Corp. (ASCAP) © ℗ 2008, 1994 Reprise Records Made in the E.U.  Runouts are etched Some copies have Made in Germany sticker on back right corner.   |
+| Notes | Includes printed insert.<br><br>Track B2 titled "Sassafras" on label.<br>Tracks B7.2 and B7.3 are unlisted.<br><br>Green sticker on front:<br>The 1994 breakthrough album. For the first time on vinyl in over a decade. BECAUSE SOUND MATTERS 1-468284 (K1)<br><br>Inlay:<br>1994 WB Music Corp./Green Daze Music, admin. by WB Music Corp. ASCAP except "Welcome To Paradise" © 1991 WB Music Corp./Green Daze Music, admin. by WB Music Corp. ASCAP.<br>Lyrics Reprinted by Permission.<br>© 2008, 1994 Reprise Records.<br><br>Back cover:<br>Reprise Records, a Warner Music Group Company.<br>© ℗ 2008, 1994 Reprise Records for the U.S. and WEA International Inc. for the world outside of the U.S.<br>Made in the E.U.<br><br>Labels:<br>WB Music Corp./Green Daze Music admin. by WB Music Corp. (ASCAP)<br>© ℗ 2008, 1994 Reprise Records<br>Made in the E.U.<br><br>Runouts are etched<br>Some copies have Made in Germany sticker on back right corner. <br> |
 | Discogs URL    | [Green Day - Dookie](https://www.discogs.com/release/3375961-Green-Day-Dookie) |

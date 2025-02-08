@@ -4,6 +4,7 @@ artist_name: "Depeche Mode"
 artist: "depeche-mode"
 album_name: "Exciter"
 date: 2017-02-10T17:47:25.000000Z
+release_date: "2006-11-08"
 release_id: "9798727"
 slug: "exciter-9798727"
 hideSummary: true
@@ -33,37 +34,33 @@ Exciter debuted at number nine on the UK Albums Chart and number eight on the Bi
 The plant that appears on the cover is the Agave attenuata, a species of agave sometimes known as the "lion's tail", "swan's neck", or "foxtail" for its development of a curved stem, unusual among agaves.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Dream On
-2. Shine
-3. The Sweetest Condition
-4. When The Body Speaks
-5. The Dead Of Night
-6. Lovetheme
-7. Freelove
-8. Comatose
-9. I Feel Loved
-10. Breathe
-11. Easy Tiger
-12. I Am You
-13. Goodnight Lovers
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dream On |  |
+| A2 | Shine |  |
+| A3 | The Sweetest Condition |  |
+| B1 | When The Body Speaks |  |
+| B2 | The Dead Of Night |  |
+| B3 | Lovetheme |  |
+| C1 | Freelove |  |
+| C2 | Comatose |  |
+| C3 | I Feel Loved |  |
+| D1 | Breathe |  |
+| D2 | Easy Tiger |  |
+| D3 | I Am You |  |
+| D4 | Goodnight Lovers |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-depeche-mode-vol-1-deluxe/665398796" >}}<br>
 
 
-## Videos
-### The Sweetest Condition
-{{< youtube id="VZo0rvoyz3Q" title="The Sweetest Condition" >}}<br>
-### More Videos
-
-- [When the Body Speaks](https://www.youtube.com/watch?v=9RDU2065k8E)
-- [Shine](https://www.youtube.com/watch?v=MqDKvCixUnQ)
-- [Depeche Mode - Dream On Official Video](https://www.youtube.com/watch?v=7dgrMSTalZ0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +72,5 @@ The plant that appears on the cover is the Agave attenuata, a species of agave s
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Sony Music |
 | Catalog Number | 88985336931 |
-| Notes | ℗ 2001 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 2001, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / LC 05834 88985336931  Gatefold sleeve. 180 gram. |
+| Notes | ℗ 2001 Venusnote Ltd. under<br>exclusive license to Sony Music<br>Entertainment International<br>Ltd. © 2001, 2016 Venusnote Ltd.<br>under exclusive license to Sony Music<br>Entertainment International Ltd.<br>Distributed by Sony Music<br>Entertainment. / All trademarks and<br>logos are protected. / Made<br>in the EU. / Sony Music<br>Entertainment International<br>Services GmbH, PO Box 510, 33311<br>Gütersloh, Germany. / LC 05834<br>88985336931<br><br>Gatefold sleeve. 180 gram. |
 | Discogs URL    | [Depeche Mode - Exciter](https://www.discogs.com/release/9798727-Depeche-Mode-Exciter) |

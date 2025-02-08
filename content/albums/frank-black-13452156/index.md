@@ -4,6 +4,7 @@ artist_name: "Frank Black"
 artist: "frank-black"
 album_name: "Frank Black"
 date: 2019-04-13T11:19:10.000000Z
+release_date: "1993-03-08"
 release_id: "13452156"
 slug: "frank-black-13452156"
 hideSummary: true
@@ -28,40 +29,35 @@ styles: ["Indie Rock"]
 Frank Black is the debut solo album by American alternative rock musician Frank Black. The album was recorded in 1992 and released on March 8, 1993, via 4AD and Elektra Records, after the breakup of Black's band Pixies.
 The album is similar in style, both musically and lyrically, to the Pixies' last album prior to their 1993 breakup, Trompe le Monde. Frank Black is characterized by a focus on UFOs and science fiction. Two singles from the album—"Los Angeles" and "Hang On to Your Ego"—were released in 1993; both reached the top ten of Billboard's Modern Rock Tracks chart.
 The song "I Heard Ramona Sing" is featured in the 2010 film Scott Pilgrim vs. the World, as well as its soundtrack.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Los Angeles
-2. I Heard Ramona Sing
-3. Hang On To Your Ego
-4. Fu Manchu
-5. Places Named After Numbers
-6. Czar
-7. Old Black Dawning
-8. Ten Percenter
-9. Brackish Boy
-10. Two Spaces
-11. Tossed (Instrumental Version)
-12. Parry The Wind High, Low
-13. Adda Lee
-14. Every Time I Go Around Here
-15. Don't Ya Rile 'Em
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Los Angeles |  |
+| A2 | I Heard Ramona Sing |  |
+| A3 | Hang On To Your Ego |  |
+| A4 | Fu Manchu |  |
+| A5 | Places Named After Numbers |  |
+| A6 | Czar |  |
+| A7 | Old Black Dawning |  |
+| A8 | Ten Percenter |  |
+| B9 | Brackish Boy |  |
+| B10 | Two Spaces |  |
+| B11 | Tossed (Instrumental Version) |  |
+| B12 | Parry The Wind High, Low |  |
+| B13 | Adda Lee |  |
+| B14 | Every Time I Go Around Here |  |
+| B15 | Don't Ya Rile 'Em |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/frank-black/1450116872" >}}<br>
 
 
-## Videos
-### Los Angeles
-{{< youtube id="rxeQHQQwiZ0" title="Los Angeles" >}}<br>
-### More Videos
-
-- [Frank Black- Los Angeles Official Video 1993](https://www.youtube.com/watch?v=fuLllNyfiHs)
-- [10 Percenter - Frank Black](https://www.youtube.com/watch?v=kfhc0frCr6M)
-- [Places Named After Numbers - Frank Black](https://www.youtube.com/watch?v=9NDt41bY70s)
-- [Two Spaces - Frank Black](https://www.youtube.com/watch?v=5zOEyOvaEYU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +69,5 @@ The song "I Heard Ramona Sing" is featured in the 2010 film Scott Pilgrim vs. th
 | Format         | Vinyl LP Album Record Store Day Reissue (Orange) |
 | Label          | 4AD |
 | Catalog Number | CAD 3004 LPE |
-| Notes | A Record Store Day 2019 release. Exclusive, quantity of 4,500. Includes a custom inner sleeve.  On back of jacket: Made in E.U. U.S. • 134 Grand Street, New York, N.Y. 10013 U.K. • 17-19 Alma Road, London SW18 1AA  Made in E.U on labels.  Recorded at The Clubhouse, Burbank, California. Mixed at The Plant Studios, Sausalito, Ca. Additional recording at Master Control Studio, Burbank, Ca. Mastered at Capitol Tower Mastering [...]  All songs [...] published by Spime Songs, BMI 1992 except "Hang On To Your Ego" [...] published by Rondor Music (London) Ltd.  ℗ & © 1993 4AD Ltd.  On the runouts: catalog numbers together with side indicators A and B are hand-etched, other numbers and MPO logo are laser etched. |
+| Notes | A Record Store Day 2019 release. Exclusive, quantity of 4,500.<br>Includes a custom inner sleeve.<br><br>On back of jacket:<br>Made in E.U.<br>U.S. • 134 Grand Street, New York, N.Y. 10013<br>U.K. • 17-19 Alma Road, London SW18 1AA<br><br>Made in E.U on labels.<br><br>Recorded at The Clubhouse, Burbank, California.<br>Mixed at The Plant Studios, Sausalito, Ca.<br>Additional recording at Master Control Studio, Burbank, Ca.<br>Mastered at Capitol Tower Mastering [...]<br><br>All songs [...] published by Spime Songs, BMI 1992 except "Hang On To Your Ego" [...] published by Rondor Music (London) Ltd.<br><br>℗ & © 1993 4AD Ltd.<br><br>On the runouts: catalog numbers together with side indicators A and B are hand-etched, other numbers and MPO logo are laser etched. |
 | Discogs URL    | [Frank Black - Frank Black](https://www.discogs.com/release/13452156-Frank-Black-Frank-Black) |

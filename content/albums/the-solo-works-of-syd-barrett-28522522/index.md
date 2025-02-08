@@ -4,6 +4,7 @@ artist_name: "Syd Barrett"
 artist: "syd-barrett"
 album_name: "The Solo Works Of Syd Barrett "
 date: 2023-10-09T01:02:45.000000Z
+release_date: "2024-08-27"
 release_id: "28522522"
 slug: "the-solo-works-of-syd-barrett-28522522"
 hideSummary: true
@@ -44,55 +45,60 @@ styles: ["Psychedelic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Madcap Laughs
-2. Terrapin  (5:00)
-3. No Good Trying  (3:26)
-4. Love You  (2:25)
-5. No Man's Land (3:50)
-6. Dark Globe  (2:10)
-7. Here I Go  (3:13)
-8. Octopus (3:45)
-9. Golden Hair (1:56)
-10. Long Gone (2:47)
-11. - (7:59)
-12. Late Night  (3:12)
-13. Barrett
-14. Baby Lemonade 
-15. Love Song 
-16. Dominoes 
-17. It Is Obvious 
-18. Rats 
-19. Maisie
-20. Gigolo Aunt 
-21. Waving My Arms In The Air
-22. I Never Lied To You
-23. Wined And Dined 
-24. Wolfpack
-25. Effervescing Elephant 
-26. Opel
-27. Opel
-28. Clowns And Jugglers
-29. Rats
-30. Golden Hair (Remake, Take 6)
-31. Dolly Rocker 
-32. Word Song
-33. Wined And Dined 
-34. Swan Lee (Silas Lang) 
-35. Birdie Hop 
-36. Let's Split 
-37. Lanky (Part One) 
-38. Wouldn't You Miss Me (Dark Globe) 
-39. Milky Way 
-40. Golden Hair (Take 1) 
-41. -
-42. Dark Globe 
-43. Dominoes 
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Madcap Laughs |  |
+| A1 | Terrapin  | 5:00 |
+| A2 | No Good Trying  | 3:26 |
+| A3 | Love You  | 2:25 |
+| A4 | No Man's Land | 3:50 |
+| A5 | Dark Globe  | 2:10 |
+| A6 | Here I Go  | 3:13 |
+| B1 | Octopus | 3:45 |
+| B2 | Golden Hair | 1:56 |
+| B3 | Long Gone | 2:47 |
+|  | - | 7:59 |
+| B7 | Late Night  | 3:12 |
+|  | Barrett |  |
+| C1 | Baby Lemonade  |  |
+| C2 | Love Song  |  |
+| C3 | Dominoes  |  |
+| C4 | It Is Obvious  |  |
+| C5 | Rats  |  |
+| C6 | Maisie |  |
+| D1 | Gigolo Aunt  |  |
+| D2 | Waving My Arms In The Air |  |
+| D3 | I Never Lied To You |  |
+| D4 | Wined And Dined  |  |
+| D5 | Wolfpack |  |
+| D6 | Effervescing Elephant  |  |
+|  | Opel |  |
+| E1 | Opel |  |
+| E2 | Clowns And Jugglers |  |
+| E3 | Rats |  |
+| E4 | Golden Hair (Remake, Take 6) |  |
+| E5 | Dolly Rocker  |  |
+| E6 | Word Song |  |
+| E7 | Wined And Dined  |  |
+| F1 | Swan Lee (Silas Lang)  |  |
+| F2 | Birdie Hop  |  |
+| F3 | Let's Split  |  |
+| F4 | Lanky (Part One)  |  |
+| F5 | Wouldn't You Miss Me (Dark Globe)  |  |
+| F6 | Milky Way  |  |
+| F7 | Golden Hair (Take 1)  |  |
+|  | - |  |
+| G | Dark Globe  |  |
+| H | Dominoes  |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/calm-classroom-music/1764481209" >}}<br>
-
 
 
 
@@ -105,5 +111,5 @@ styles: ["Psychedelic Rock"]
 | Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue (Gold Translucent With Black Smoke [Golden Hair], 180g), Vinyl LP Album Reissue (Green Marble [Baby Lemonade], 180g ), Vinyl LP Album Reissue (Clear With Black Smoke [Milky Way Opel], 180g), Vinyl 7" 45 RPM Single |
 | Label          | Third Man Records |
 | Catalog Number | TMR-944 |
-| Notes | The lyric of "Golden Hair" is from a poem by James Joyce. Permission for use granted by The Society of Authors, literary representatives of the estate of James Joyce.  The back cover of The Madcap Laughs reads "SIDE ONE" on the tracklisting for both sides.  Durations are only listed for The Madcap Laughs on the back cover.  Runouts are etched. |
+| Notes | The lyric of "Golden Hair" is from a poem by James Joyce. Permission for use granted by The Society of Authors, literary representatives of the estate of James Joyce.<br><br>The back cover of The Madcap Laughs reads "SIDE ONE" on the tracklisting for both sides.<br><br>Durations are only listed for The Madcap Laughs on the back cover.<br><br>Runouts are etched. |
 | Discogs URL    | [Syd Barrett - The Solo Works Of Syd Barrett ](https://www.discogs.com/release/28522522-Syd-Barrett-The-Solo-Works-Of-Syd-Barrett-) |

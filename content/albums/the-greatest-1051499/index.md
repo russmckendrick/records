@@ -4,6 +4,7 @@ artist_name: "Ian Brown"
 artist: "ian-brown"
 album_name: "The Greatest"
 date: 2017-02-02T17:47:22.000000Z
+release_date: "2005-01-01"
 release_id: "1051499"
 slug: "the-greatest-1051499"
 hideSummary: true
@@ -32,40 +33,37 @@ styles: ["Indie Rock", "Alternative Rock"]
 
 The Greatest is the first compilation album from British musician Ian Brown, lead singer of the Stone Roses. It was released on 12 September 2005 and covers material from his first four albums plus two new tracks, "All Ablaze" and "Return of the Fisherman". "All Ablaze" was released as a single on 5 September 2005.
 The compilation was released in a single disc Standard Edition and two disc Limited Edition; the latter includes extended liner notes in book-sized packaging.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. My Star (Album Version) (5:13)
-2. Corpses In Their Mouths (Album Version) (4:09)
-3. Can't See Me (Bacon & Quarmby Remix) (3:56)
-4. Be There (5:16)
-5. Love Like A Fountain (Single Version) (3:31)
-6. Dolphins Were Monkeys (Single Version) (2:55)
-7. Golden Gaze (Single Version) (3:09)
-8. F.E.A.R. (Album Version) (4:29)
-9. Whispers (Album Version) (3:56)
-10. Forever And A Day (The Greatest Version) (3:03)
-11. Keep What Ya Got (Album Version) (4:28)
-12. Time Is My Everything (Album Version) (3:52)
-13. Longsight M13 (Album Version) (3:12)
-14. Reign (5:32)
-15. Lovebug (The Greatest Version) (3:12)
-16. All Ablaze (The Album Version) (4:29)
-17. Return Of The Fisherman (The Album Version) (4:17)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | My Star (Album Version) | 5:13 |
+| A2 | Corpses In Their Mouths (Album Version) | 4:09 |
+| A3 | Can't See Me (Bacon & Quarmby Remix) | 3:56 |
+| B1 | Be There | 5:16 |
+| B2 | Love Like A Fountain (Single Version) | 3:31 |
+| B3 | Dolphins Were Monkeys (Single Version) | 2:55 |
+| B4 | Golden Gaze (Single Version) | 3:09 |
+| C1 | F.E.A.R. (Album Version) | 4:29 |
+| C2 | Whispers (Album Version) | 3:56 |
+| C3 | Forever And A Day (The Greatest Version) | 3:03 |
+| C4 | Keep What Ya Got (Album Version) | 4:28 |
+| C5 | Time Is My Everything (Album Version) | 3:52 |
+| D1 | Longsight M13 (Album Version) | 3:12 |
+| D2 | Reign | 5:32 |
+| D3 | Lovebug (The Greatest Version) | 3:12 |
+| D4 | All Ablaze (The Album Version) | 4:29 |
+| D5 | Return Of The Fisherman (The Album Version) | 4:17 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ian-brown-the-greatest/1445740062" >}}<br>
 
 
-## Videos
-### Ian Brown - FEAR
-{{< youtube id="8f8wAXDZ9D0" title="Ian Brown - FEAR" >}}<br>
-### More Videos
-
-- [Ian Brown - Time Is My Everything](https://www.youtube.com/watch?v=jW6cLKlKOek)
-- [Ian Brown - Dolphins Were Monkeys](https://www.youtube.com/watch?v=kPIIlm24-lk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +75,5 @@ The compilation was released in a single disc Standard Edition and two disc Limi
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Polydor |
 | Catalog Number | 987 289-0 |
-| Notes | Made in the EU. Runouts are etched. |
+| Notes | Made in the EU.<br>Runouts are etched. |
 | Discogs URL    | [Ian Brown - The Greatest](https://www.discogs.com/release/1051499-Ian-Brown-The-Greatest) |

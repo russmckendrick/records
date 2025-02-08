@@ -4,6 +4,7 @@ artist_name: "Anathema"
 artist: "anathema"
 album_name: "Hindsight"
 date: 2016-10-23T08:56:07.000000Z
+release_date: "2008-08-25"
 release_id: "5552454"
 slug: "hindsight-5552454"
 hideSummary: true
@@ -24,45 +25,31 @@ Hindsight is an acoustically oriented studio compilation album by British progre
 This album also features cello playing of Dave Wesling from the Royal Liverpool Philharmonic Orchestra. A close friend of the band, Dave previously toured with the band in 2004 and is featured on the DVD A Moment in Time. Dave Wesling is also a convicted sex offender. The record was arranged, recorded, performed and produced solely by the band. Kscope label launched a Hindsight mini-site, available in three languages—English, Italian and French—from where the song "Fragile Dreams" can be downloaded for free in MP3 format if subscribing to a mailing list. The mini-site also contains streaming previews of "Inner Silence", "Are You There?" and "Angelica".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Fragile Dreams
-2. Leave No Trace
-3. Inner Silence
-4. One Last Goodbye
-5. Are You There?
-6. Angelica
-7. Anathema
-8. A Natural Disaster
-9. Temporary Peace
-10. Flying
-11. Unchained (Tales Of The Unexpected)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fragile Dreams |  |
+| A2 | Leave No Trace |  |
+| A3 | Inner Silence |  |
+| A4 | One Last Goodbye |  |
+| B1 | Are You There? |  |
+| B2 | Angelica |  |
+| B3 | Anathema |  |
+| B4 | A Natural Disaster |  |
+| C1 | Temporary Peace |  |
+| C2 | Flying |  |
+| C3 | Unchained (Tales Of The Unexpected) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hindsight/282920209" >}}<br>
 
 
-## Videos
-### Anathema - A Natural Disaster Hindsight
-{{< youtube id="dNd4mq2HvoE" title="Anathema - A Natural Disaster Hindsight" >}}<br>
-### More Videos
-
-- [Anathema - 03 Inner Silence Hindsight](https://www.youtube.com/watch?v=U3K5SAlcGQ4)
-- [Anathema - 01 Fragile Dreams Hindsight](https://www.youtube.com/watch?v=08SWLhoBTwE)
-- [Anathema - Flying Hindsight](https://www.youtube.com/watch?v=wQmwfiEvOgE)
-- [Anathema-Angelica Hindsight](https://www.youtube.com/watch?v=WicH4P8HxTI)
-- [Anathema - 05 Are You There Hindsight](https://www.youtube.com/watch?v=wI_RIhF2nOw)
-- [Anathema - 04 One Last Goodbye Hindsight](https://www.youtube.com/watch?v=msEND_xgNt0)
-- [Anathema - A Natural Disaster Hindsight](https://www.youtube.com/watch?v=dNd4mq2HvoE)
-- [Anathema - 03 Inner Silence Hindsight](https://www.youtube.com/watch?v=U3K5SAlcGQ4)
-- [Anathema - 01 Fragile Dreams Hindsight](https://www.youtube.com/watch?v=08SWLhoBTwE)
-- [Anathema - Flying Hindsight](https://www.youtube.com/watch?v=wQmwfiEvOgE)
-- [Anathema-Angelica Hindsight](https://www.youtube.com/watch?v=WicH4P8HxTI)
-- [Anathema - 05 Are You There Hindsight](https://www.youtube.com/watch?v=wI_RIhF2nOw)
-- [Anathema - 04 One Last Goodbye Hindsight](https://www.youtube.com/watch?v=msEND_xgNt0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +61,5 @@ This album also features cello playing of Dave Wesling from the Royal Liverpool 
 | Format         | Vinyl LP, Vinyl LP Single Sided, All Media Album Reissue |
 | Label          | Kscope |
 | Catalog Number | KSCOPE859 |
-| Notes | Produced and performed by Anathema as winter became spring in the year 2008.  Recorded and mixed in the small hours of the night by Les Smith assisted by Jamie Cavanagh.  Mournful cello played with passion by David Westling.  Irish mandolin played with champagne and orange juice by Duncan Patterson.  Jamie took the photos and Vincent put it together, with inspiration from Sarah Derat.    All songs written by Daniel Cavanagh except track 2 by Vincent Cavanagh and track 6 lyrics by Duncan Patterson.  Tracks 1, 3 & 6 published by Vile Music (a division of Imagem Music Ltd.) - All other tracks published by Sony / BMG.    Please note - side D is a screen printed only side, do not attempt to play this side.    Deepest gratitude goes to all those who feel a deeper connection to our music and to their own true nature.  This recording of Are You There? is dedicated with love and respect to Johan Trybou and to Fien - 'The important thing is that we are together'. |
+| Notes | Produced and performed by Anathema as winter became spring in the year 2008.<br>Recorded and mixed in the small hours of the night by Les Smith assisted by Jamie Cavanagh.<br>Mournful cello played with passion by David Westling.<br>Irish mandolin played with champagne and orange juice by Duncan Patterson.<br>Jamie took the photos and Vincent put it together, with inspiration from Sarah Derat.<br><br>All songs written by Daniel Cavanagh except track 2 by Vincent Cavanagh and track 6 lyrics by Duncan Patterson.<br>Tracks 1, 3 & 6 published by Vile Music (a division of Imagem Music Ltd.) - All other tracks published by Sony / BMG.<br><br>Please note - side D is a screen printed only side, do not attempt to play this side.<br><br>Deepest gratitude goes to all those who feel a deeper connection to our music and to their own true nature.<br>This recording of Are You There? is dedicated with love and respect to Johan Trybou and to Fien - 'The important thing is that we are together'. |
 | Discogs URL    | [Anathema - Hindsight](https://www.discogs.com/release/5552454-Anathema-Hindsight) |

@@ -4,6 +4,7 @@ artist_name: "Little Angels"
 artist: "little-angels"
 album_name: "Don't Prey For Me"
 date: 2016-04-04T21:20:19.000000Z
+release_date: "1989-01-01"
 release_id: "2591341"
 slug: "don-t-prey-for-me-2591341"
 hideSummary: true
@@ -24,33 +25,31 @@ styles: ["Hard Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Do You Wanna Riot
-2. Kick Hard
-3. Big Bad World
-4. Kicking Up Dust
-5. Don't Pray For Me
-6. Radical Your Lover
-7. Broken Wings Of An Angel
-8. Bitter & Twisted
-9. Promises
-10. When I Get Out Of Here
-11. No Solution
-12. She's A Little Angel
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Do You Wanna Riot |  |
+| A2 | Kick Hard |  |
+| A3 | Big Bad World |  |
+| A4 | Kicking Up Dust |  |
+| A5 | Don't Pray For Me |  |
+| A6 | Radical Your Lover |  |
+| B1 | Broken Wings Of An Angel |  |
+| B2 | Bitter & Twisted |  |
+| B3 | Promises |  |
+| B4 | When I Get Out Of Here |  |
+| B5 | No Solution |  |
+| B6 | She's A Little Angel |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dont-prey-for-me/1442397355" >}}<br>
 
 
-## Videos
-### Little Angels - Dont Prey For Me Full Album
-{{< youtube id="wW4ex-Id_nA" title="Little Angels - Dont Prey For Me Full Album" >}}<br>
-### More Videos
-
-- [Little Angels - Dont pray for me](https://www.youtube.com/watch?v=H5Mx2UZ2UaA)
-- [Little Angels - Dont prey for me](https://www.youtube.com/watch?v=Az-ayGM81Yo)
-- [Little Angels - Dont Prey For Me Full Album](https://www.youtube.com/watch?v=wW4ex-Id_nA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +60,5 @@ styles: ["Hard Rock"]
 | Format         | Vinyl LP Album Reissue |
 | Label          | Polydor |
 | Catalog Number | 843 469-1 |
-| Notes | With hype sticker on sleeve. Includes black and white printed inner sleeve.  ℗ 1989 Polydor Ltd. (UK) ℗ 1990 Polydor Ltd. (UK) © 1990 Polydor Ltd. (UK) |
+| Notes | With hype sticker on sleeve.<br>Includes black and white printed inner sleeve.<br><br>℗ 1989 Polydor Ltd. (UK)<br>℗ 1990 Polydor Ltd. (UK)<br>© 1990 Polydor Ltd. (UK) |
 | Discogs URL    | [Little Angels - Don't Prey For Me](https://www.discogs.com/release/2591341-Little-Angels-Dont-Prey-For-Me) |

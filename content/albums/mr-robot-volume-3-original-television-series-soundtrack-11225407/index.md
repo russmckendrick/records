@@ -36,81 +36,38 @@ Mac Quayle’s hypnotic score to <i>Mr. Robot</i> is a gift that keeps on giving
 
 
 ## Tracklisting
-1. 2.0_1-s4ve-the-w0rld.act (2:28)
-2. 2.0_2-FuxSocy.sln (2:32)
-3. 2.0_3-j0urnaling.ivs (1:58)
-4. 2.0_4-control-1s-an-illusion.amr (2:14)
-5. 2.0_5-infiniteloop0finsanity.vox (3:39)
-6. 2.0_6-madame3xecutioner.oga (4:08)
-7. 2.0_7-jester-actual.dss (2:53)
-8. 2.0_8-confid3nce.dct (2:24)
-9. 2.0_9-unexpectedpresents.m4b (2:45)
-10. 2.0_10-masktakesover.sln (3:57)
-11. 2.0_11-music-b0x.mmf (1:09)
-12. 2.1_1-prisoner-of-paranoia.ivs (2:20)
-13. 2.2_1-hidinginplainsight.awb (2:59)
-14. 2.2_2-annihil4tion.dct (2:30)
-15. 2.2_3-existence.opus (3:36)
-16. 2.2_4-mightbe0wned.tta (2:34)
-17. 2.2_5-divinity.iklax (5:14)
-18. 2.3_1-steel-v4lley.webm (2:29)
-19. 2.3_2-di3with4nswers.dvf (2:41)
-20. 2.3_3-fuckgutinstinct.act (1:34)
-21. 2.3_4-midland-city.oga (4:03)
-22. 2.3_5-pun1shm3nt.ape (1:55)
-23. 2.4_1-heartworm.3gp (2:41)
-24. 2.4_2-m4ster-s1ave.msv (1:28)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 2.0_1-s4ve-the-w0rld.act | 2:28 |
+| A2 | 2.0_2-FuxSocy.sln | 2:32 |
+| A3 | 2.0_3-j0urnaling.ivs | 1:58 |
+| A4 | 2.0_4-control-1s-an-illusion.amr | 2:14 |
+| A5 | 2.0_5-infiniteloop0finsanity.vox | 3:39 |
+| A6 | 2.0_6-madame3xecutioner.oga | 4:08 |
+| B1 | 2.0_7-jester-actual.dss | 2:53 |
+| B2 | 2.0_8-confid3nce.dct | 2:24 |
+| B3 | 2.0_9-unexpectedpresents.m4b | 2:45 |
+| B4 | 2.0_10-masktakesover.sln | 3:57 |
+| B5 | 2.0_11-music-b0x.mmf | 1:09 |
+| B6 | 2.1_1-prisoner-of-paranoia.ivs | 2:20 |
+| C1 | 2.2_1-hidinginplainsight.awb | 2:59 |
+| C2 | 2.2_2-annihil4tion.dct | 2:30 |
+| C3 | 2.2_3-existence.opus | 3:36 |
+| C4 | 2.2_4-mightbe0wned.tta | 2:34 |
+| C5 | 2.2_5-divinity.iklax | 5:14 |
+| D1 | 2.3_1-steel-v4lley.webm | 2:29 |
+| D2 | 2.3_2-di3with4nswers.dvf | 2:41 |
+| D3 | 2.3_3-fuckgutinstinct.act | 1:34 |
+| D4 | 2.3_4-midland-city.oga | 4:03 |
+| D5 | 2.3_5-pun1shm3nt.ape | 1:55 |
+| D6 | 2.4_1-heartworm.3gp | 2:41 |
+| D7 | 2.4_2-m4ster-s1ave.msv | 1:28 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mr-robot-vol-3-original-television-series-soundtrack/1240417353" >}}<br>
 
 
-## Videos
-### Mr Robot Vol 3 - Mac Quayle - Soundtrack Preview Official Video
-{{< youtube id="tMHQIaPjRmo" title="Mr Robot Vol 3 - Mac Quayle - Soundtrack Preview Official Video" >}}<br>
-### More Videos
-
-- [Mac Quayle  - Mr Robot 20_1-s4ve-the-w0rldact](https://www.youtube.com/watch?v=T-dglvI2KXg)
-- [20_2-FuxSocysln](https://www.youtube.com/watch?v=5OfZPpjqrGg)
-- [20_3-j0urnalingivs](https://www.youtube.com/watch?v=CVGAPiNrdwI)
-- [Mac Quayle  - Mr Robot 20_4-control-1s-an-illusion](https://www.youtube.com/watch?v=oV50Uex04TM)
-- [Mac Quayle  - Mr Robot 20_6-madame3xecutioneroga](https://www.youtube.com/watch?v=Q_UT1lhkwBY)
-- [20_7-jester-actualdss](https://www.youtube.com/watch?v=w4ilJeNJnxo)
-- [20_8-confid3ncedct](https://www.youtube.com/watch?v=XsS2-d8okVE)
-- [20_9-unexpectedpresentsm4b](https://www.youtube.com/watch?v=UBt7D2Nu0Ng)
-- [20_10-masktakesoversln](https://www.youtube.com/watch?v=cdHNnYNdiRk)
-- [21_1-prisoner-of-paranoiaivs](https://www.youtube.com/watch?v=97T5eh6p51k)
-- [22_1-hidinginplainsightawb](https://www.youtube.com/watch?v=-VeFanGOqa8)
-- [22_2-annihil4tiondct](https://www.youtube.com/watch?v=oS16RNSwmSU)
-- [22_3-existenceopus](https://www.youtube.com/watch?v=szZ6B2NcSyw)
-- [22_4-mightbe0wnedtta](https://www.youtube.com/watch?v=H9JjmKlumA0)
-- [22_5-divinityiklax](https://www.youtube.com/watch?v=hNvLFJVEjfs)
-- [Mac Quayle  - Mr Robot 23_1-steel-v4lleywebm](https://www.youtube.com/watch?v=u5nJM6vVvJI)
-- [23_3-fuckgutinstinctact](https://www.youtube.com/watch?v=zfdYYPi1428)
-- [23_4-midland-cityoga](https://www.youtube.com/watch?v=Go0mM1Hkt1w)
-- [23_5-pun1shm3ntape](https://www.youtube.com/watch?v=Alul7aWuqaY)
-- [24_1-heartworm3gp](https://www.youtube.com/watch?v=CdCVt2maF8g)
-- [Mr Robot Vol 3 - Mac Quayle - Soundtrack Preview Official Video](https://www.youtube.com/watch?v=tMHQIaPjRmo)
-- [Mac Quayle  - Mr Robot 20_1-s4ve-the-w0rldact](https://www.youtube.com/watch?v=T-dglvI2KXg)
-- [20_2-FuxSocysln](https://www.youtube.com/watch?v=5OfZPpjqrGg)
-- [20_3-j0urnalingivs](https://www.youtube.com/watch?v=CVGAPiNrdwI)
-- [Mac Quayle  - Mr Robot 20_4-control-1s-an-illusion](https://www.youtube.com/watch?v=oV50Uex04TM)
-- [Mac Quayle  - Mr Robot 20_6-madame3xecutioneroga](https://www.youtube.com/watch?v=Q_UT1lhkwBY)
-- [20_7-jester-actualdss](https://www.youtube.com/watch?v=w4ilJeNJnxo)
-- [20_8-confid3ncedct](https://www.youtube.com/watch?v=XsS2-d8okVE)
-- [20_9-unexpectedpresentsm4b](https://www.youtube.com/watch?v=UBt7D2Nu0Ng)
-- [20_10-masktakesoversln](https://www.youtube.com/watch?v=cdHNnYNdiRk)
-- [21_1-prisoner-of-paranoiaivs](https://www.youtube.com/watch?v=97T5eh6p51k)
-- [22_1-hidinginplainsightawb](https://www.youtube.com/watch?v=-VeFanGOqa8)
-- [22_2-annihil4tiondct](https://www.youtube.com/watch?v=oS16RNSwmSU)
-- [22_3-existenceopus](https://www.youtube.com/watch?v=szZ6B2NcSyw)
-- [22_4-mightbe0wnedtta](https://www.youtube.com/watch?v=H9JjmKlumA0)
-- [22_5-divinityiklax](https://www.youtube.com/watch?v=hNvLFJVEjfs)
-- [Mac Quayle  - Mr Robot 23_1-steel-v4lleywebm](https://www.youtube.com/watch?v=u5nJM6vVvJI)
-- [23_3-fuckgutinstinctact](https://www.youtube.com/watch?v=zfdYYPi1428)
-- [23_4-midland-cityoga](https://www.youtube.com/watch?v=Go0mM1Hkt1w)
-- [23_5-pun1shm3ntape](https://www.youtube.com/watch?v=Alul7aWuqaY)
-- [24_1-heartworm3gp](https://www.youtube.com/watch?v=CdCVt2maF8g)
 
 ## Release Images
 {{< imageGrid >}}
@@ -121,5 +78,5 @@ Mac Quayle’s hypnotic score to <i>Mr. Robot</i> is a gift that keeps on giving
 | Format         | Vinyl 2× LP Album (Clear w/ Red & White Splatter) |
 | Label          | Invada |
 | Catalog Number | LSINV189LP |
-| Notes | Sticker on release reads: "2 x Crystal clear with red & white splatter effect vinyl.  Deluxe gatefold sleeve includes full colour insert  + 11"× 22" fold-out poster."  Both LSINV189LP and LSINV189LPcol are mentioned on the release. LSINV189LP on the sleeve, LSINV189LPcol on the sticker which is placed on the sealing. |
+| Notes | Sticker on release reads:<br>"2 x Crystal clear with red & white splatter effect vinyl. <br>Deluxe gatefold sleeve includes full colour insert <br>+ 11"× 22" fold-out poster."<br><br>Both LSINV189LP and LSINV189LPcol are mentioned on the release. LSINV189LP on the sleeve, LSINV189LPcol on the sticker which is placed on the sealing. |
 | Discogs URL    | [Mac Quayle - Mr. Robot: Volume 3 (Original Television Series Soundtrack)](https://www.discogs.com/release/11225407-Mac-Quayle-Mr-Robot-Volume-3-Original-Television-Series-Soundtrack) |

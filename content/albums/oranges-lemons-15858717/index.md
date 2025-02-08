@@ -36,41 +36,29 @@ As its cover art and album title suggest, <I>Oranges & Lemons</I> represents the
 
 
 ## Tracklisting
-1. Garden Of Earthly Delights
-2. The Mayor Of Simpleton
-3. King For A Day
-4. Here Comes President Kill Again
-5. The Loving
-6. Poor Skeleton Steps Out
-7. One Of The Millions
-8. Scarecrow People
-9. Merely A Man
-10. Cynical Days
-11. Across This Antheap
-12. Hold Me My Daddy
-13. Pink Thing
-14. Miniature Sun
-15. Chalkhills And Children
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Garden Of Earthly Delights |  |
+| A2 | The Mayor Of Simpleton |  |
+| A3 | King For A Day |  |
+| A4 | Here Comes President Kill Again |  |
+| B1 | The Loving |  |
+| B2 | Poor Skeleton Steps Out |  |
+| B3 | One Of The Millions |  |
+| B4 | Scarecrow People |  |
+| C1 | Merely A Man |  |
+| C2 | Cynical Days |  |
+| C3 | Across This Antheap |  |
+| D1 | Hold Me My Daddy |  |
+| D2 | Pink Thing |  |
+| D3 | Miniature Sun |  |
+| D4 | Chalkhills And Children |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/oranges-lemons/724628737" >}}<br>
 
 
-## Videos
-### Garden Of Earthly Delights 2001 Remaster
-{{< youtube id="LOdkG4sqGfo" title="Garden Of Earthly Delights 2001 Remaster" >}}<br>
-### More Videos
-
-- [XTC- Chalkhills And Children-Steve Wilson 2015 Stereo Mix](https://www.youtube.com/watch?v=pwqTSIzg0wQ)
-- [Scarecrow People 2001 Remaster](https://www.youtube.com/watch?v=lzmCKu0fG2I)
-- [XTC - One of the Millions - Oranges  Lemons 1989](https://www.youtube.com/watch?v=NAduyR-iAUU)
-- [XTC - Mayor of Simpleton](https://www.youtube.com/watch?v=5Da9sc6YDBo)
-- [XTC - King For A Day](https://www.youtube.com/watch?v=depsFULhqV8)
-- [XTC - Poor Skeleton Steps Out](https://www.youtube.com/watch?v=fj4I4sWtyEI)
-- [Garden Of Earthly Delights 2001 Remaster](https://www.youtube.com/watch?v=LOdkG4sqGfo)
-- [XTC- Chalkhills And Children-Steve Wilson 2015 Stereo Mix](https://www.youtube.com/watch?v=pwqTSIzg0wQ)
-- [Scarecrow People 2001 Remaster](https://www.youtube.com/watch?v=lzmCKu0fG2I)
-- [XTC - One of the Millions - Oranges  Lemons 1989](https://www.youtube.com/watch?v=NAduyR-iAUU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +69,5 @@ As its cover art and album title suggest, <I>Oranges & Lemons</I> represents the
 | Format         | Vinyl 2× LP Album Reissue Stereo (Gatefold, 200g) |
 | Label          | Ape House |
 | Catalog Number | APELPX109 |
-| Notes | Hype sticker with barcode affixed to shrink: The 1989 classic album Newly cut from masters Approved by Andy Partridge Pressed on 200g Super-heavyweight vinyl in new gatefold sleeve  Orders from Ape House/Burning Shed come with an Oranges & Lemons postcard.  Issued in gatefold jacket with notes and lyrics inside.  Issued with identical printed poly-lined inner sleeves with beveled corners, showing XTC back catalogue on one side and more company releases on the other side.  ℗ 1989, the copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited.  © 2020 Ape House Ltd. Made in the EU. |
+| Notes | Hype sticker with barcode affixed to shrink:<br>The 1989 classic album<br>Newly cut from masters<br>Approved by Andy Partridge<br>Pressed on 200g<br>Super-heavyweight vinyl<br>in new gatefold sleeve<br><br>Orders from Ape House/Burning Shed come with an Oranges & Lemons postcard.<br><br>Issued in gatefold jacket with notes and lyrics inside.<br><br>Issued with identical printed poly-lined inner sleeves with beveled corners, showing XTC back catalogue on one side and more company releases on the other side.<br><br>℗ 1989, the copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited. <br>© 2020 Ape House Ltd. Made in the EU. |
 | Discogs URL    | [XTC - Oranges & Lemons](https://www.discogs.com/release/15858717-XTC-Oranges-Lemons) |

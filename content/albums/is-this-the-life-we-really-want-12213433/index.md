@@ -38,39 +38,26 @@ From the record title to the snarled lyrics, Roger Waters is clearly not content
 
 
 ## Tracklisting
-1. When We Were Young
-2. Deja Vu
-3. The Last Refugee
-4. Picture That
-5. Broken Bones
-6. Is This The Life We Really Want?
-7. Bird In A Gale
-8. The Most Beautiful Girl
-9. Smell The Roses
-10. Wait For Her
-11. Oceans Apart
-12. Part Of Me Died
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | When We Were Young |  |
+| A2 | Deja Vu |  |
+| A3 | The Last Refugee |  |
+| B1 | Picture That |  |
+| B2 | Broken Bones |  |
+| C1 | Is This The Life We Really Want? |  |
+| C2 | Bird In A Gale |  |
+| C3 | The Most Beautiful Girl |  |
+| D1 | Smell The Roses |  |
+| D2 | Wait For Her |  |
+| D3 | Oceans Apart |  |
+| D4 | Part Of Me Died |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/is-this-the-life-we-really-want/1227077689" >}}<br>
 
 
-## Videos
-### Roger Waters - Smell the Roses Audio
-{{< youtube id="PEh7Ip4yvH8" title="Roger Waters - Smell the Roses Audio" >}}<br>
-### More Videos
-
-- [When We Were Young](https://www.youtube.com/watch?v=wqZ0HKbCNfE)
-- [Roger Waters - Déjà Vu Audio](https://www.youtube.com/watch?v=gf7kMaurLZk)
-- [Roger Waters - The Last Refugee](https://www.youtube.com/watch?v=_XdLNqWYgGI)
-- [Picture That](https://www.youtube.com/watch?v=YIiRMgF29eo)
-- [Broken Bones](https://www.youtube.com/watch?v=4svv0lvizXQ)
-- [Is This the Life We Really Want](https://www.youtube.com/watch?v=Htjj7NJiNBA)
-- [Bird In A Gale](https://www.youtube.com/watch?v=BQxx9R8l6ZY)
-- [The Most Beautiful Girl](https://www.youtube.com/watch?v=GtPON4OH_tE)
-- [Roger Waters - Wait for Her Video](https://www.youtube.com/watch?v=iSl1kmQMG2E)
-- [Oceans Apart](https://www.youtube.com/watch?v=1o7j98l6FZc)
-- [Part of Me Died](https://www.youtube.com/watch?v=ucnwTy9VNcU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +68,5 @@ From the record title to the snarled lyrics, Roger Waters is clearly not content
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Green) |
 | Label          | Columbia |
 | Catalog Number | C-192609 |
-| Notes | Comes in a gatefold cover, inner sleeves with lyrics. Download code included. Made in the EU.  Parental Advisory Explicit Content Strong Language  Hype sticker: Numbered Limited Edition Green Vinyl  Number is stamped in silver on front cover.  All variants show etched runouts except: A, B, C & D sides on variant 1: "MPO 18 30966", "MPO 18 30654", "MPO 18 28730" and "MPO 18 31545" are stamped; A, B, C & D sides on variant 2: "MPO 18 30964", "MPO 18 30574", "MPO 18 30664" and "MPO 18 28258" are stamped; A, B, C & D sides on variant 3: "MPO® 18 30363", "MPO® 18 28425", "MPO® 18 28670" and "MPO® 18 31634" are stamped. Variant 3 shows also C2=C² and D2=D². |
+| Notes | Comes in a gatefold cover, inner sleeves with lyrics.<br>Download code included.<br>Made in the EU.<br><br>Parental Advisory<br>Explicit Content<br>Strong Language<br><br>Hype sticker: Numbered Limited Edition Green Vinyl<br><br>Number is stamped in silver on front cover.<br><br>All variants show etched runouts except:<br>A, B, C & D sides on variant 1: "MPO 18 30966", "MPO 18 30654", "MPO 18 28730" and "MPO 18 31545" are stamped;<br>A, B, C & D sides on variant 2: "MPO 18 30964", "MPO 18 30574", "MPO 18 30664" and "MPO 18 28258" are stamped;<br>A, B, C & D sides on variant 3: "MPO® 18 30363", "MPO® 18 28425", "MPO® 18 28670" and "MPO® 18 31634" are stamped.<br>Variant 3 shows also C2=C² and D2=D². |
 | Discogs URL    | [Roger Waters - Is This The Life We Really Want?](https://www.discogs.com/release/12213433-Roger-Waters-Is-This-The-Life-We-Really-Want) |

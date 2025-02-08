@@ -4,6 +4,7 @@ artist_name: "Paul Weller"
 artist: "paul-weller"
 album_name: "An Orchestrated Songbook"
 date: 2023-02-11T08:07:31.000000Z
+release_date: "2021-12-10"
 release_id: "21286225"
 slug: "an-orchestrated-songbook-21286225"
 hideSummary: true
@@ -33,37 +34,37 @@ styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Andromeda
-2. English Rose
-3. My Ever Changing Moods
-4. On Sunset
-5. Carnation
-6. Glad Times
-7. Broken Stones
-8. Gravity
-9. It's A Very Deep Sea
-10. Bowie
-11. Equanimity
-12. You're The Best Thing
-13. Still Glides The Stream
-14. Movin On
-15. Wild Wood
-16. Rockets
-17. You Do Something To Me
-18. White Horses
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Andromeda |  |
+| A2 | English Rose |  |
+| A3 | My Ever Changing Moods |  |
+| A4 | On Sunset |  |
+| B1 | Carnation |  |
+| B2 | Glad Times |  |
+| B3 | Broken Stones |  |
+| B4 | Gravity |  |
+| B5 | It's A Very Deep Sea |  |
+| C1 | Bowie |  |
+| C2 | Equanimity |  |
+| C3 | You're The Best Thing |  |
+| C4 | Still Glides The Stream |  |
+| C5 | Movin On |  |
+| D1 | Wild Wood |  |
+| D2 | Rockets |  |
+| D3 | You Do Something To Me |  |
+| D4 | White Horses |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/paul-weller-an-orchestrated-songbook-with-jules/1572852255" >}}<br>
 
 
-## Videos
-### Paul Weller -  Wild Wood Feat Celeste -  With Jules Buckley And The BBC Symphony Orchestra 2021
-{{< youtube id="SmsvdTeeLaw" title="Paul Weller -  Wild Wood Feat Celeste -  With Jules Buckley And The BBC Symphony Orchestra 2021" >}}<br>
-### More Videos
-
-- [You Do Something To Me](https://www.youtube.com/watch?v=QUeUah8uGMk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +75,5 @@ styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Polydor |
 | Catalog Number | 3845942 |
-| Notes | All songs performed live at the Barbican Centre, London with the BBC Symphony Orchestra on May 15th 2021. Made in the EU With attached booklet  |
+| Notes | All songs performed live at the Barbican Centre, London with the BBC Symphony Orchestra on May 15th 2021.<br>Made in the EU<br>With attached booklet<br> |
 | Discogs URL    | [Paul Weller - An Orchestrated Songbook](https://www.discogs.com/release/21286225-Paul-Weller-With-Jules-Buckley-The-BBC-Symphony-Orchestra-An-Orchestrated-Songbook) |

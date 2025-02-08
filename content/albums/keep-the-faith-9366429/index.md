@@ -4,6 +4,7 @@ artist_name: "Bon Jovi"
 artist: "bon-jovi"
 album_name: "Keep The Faith"
 date: 2018-06-13T17:29:14.000000Z
+release_date: "1992-11-03"
 release_id: "9366429"
 slug: "keep-the-faith-9366429"
 hideSummary: true
@@ -26,27 +27,30 @@ styles: ["Hard Rock"]
 
 "Keep the Faith" is a song by American rock band Bon Jovi. It was written by Jon Bon Jovi, Richie Sambora, and Desmond Child. It was released on October 7, 1992, as the lead single from Bon Jovi's fifth album, Keep the Faith (1992). It is characterized by its driving bass line and is a live staple for the band. "I Wish Everyday Could Be Like Christmas" appeared as a B-side to the song in the United States. In the US, the song reached number one on the Billboard Album Rock Tracks chart and peaked at number 29 on the Billboard Hot 100. Worldwide, "Keep the Faith" topped the charts of Norway and Portugal and reached number five in the United Kingdom.
 It is a regular song at live shows by the band and is featured on the Live from London and The Crush Tour DVDs. When played live it features Jon Bon Jovi playing percussion. In 2009, Jon Bon Jovi released a new version of "Keep the Faith" with the Washington DC Youth Choir on the compilation album Oh Happy Day. German Eurodance band X-Perience has also covered "Keep the Faith" in their 1997 album Take Me Home.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Believe (5:48)
-2. Keep The Faith (5:45)
-3. I'll Sleep When I'm Dead (4:44)
-4. In These Arms (5:19)
-5. Bed Of Roses (6:34)
-6. If I Was Your Mother (4:27)
-7. Dry County (9:52)
-8. Woman In Love (3:48)
-9. Fear (3:05)
-10. I Want You (5:35)
-11. Blame It On The Love Of Rock & Roll (4:23)
-12. Little Bit Of Soul (5:47)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Believe | 5:48 |
+| A2 | Keep The Faith | 5:45 |
+| A3 | I'll Sleep When I'm Dead | 4:44 |
+| B1 | In These Arms | 5:19 |
+| B2 | Bed Of Roses | 6:34 |
+| B3 | If I Was Your Mother | 4:27 |
+| C1 | Dry County | 9:52 |
+| C2 | Woman In Love | 3:48 |
+| C3 | Fear | 3:05 |
+| D1 | I Want You | 5:35 |
+| D2 | Blame It On The Love Of Rock & Roll | 4:23 |
+| D3 | Little Bit Of Soul | 5:47 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/keep-the-faith/1440826842" >}}<br>
-
 
 
 
@@ -60,5 +64,5 @@ It is a regular song at live shows by the band and is featured on the Live from 
 | Format         | Vinyl 2× LP Album (180 gram) |
 | Label          | Mercury |
 | Catalog Number | B0021970-01 |
-| Notes | 180 gram vinyl released in a gatefold sleeve.     |
+| Notes | 180 gram vinyl released in a gatefold sleeve.  <br><br> |
 | Discogs URL    | [Bon Jovi - Keep The Faith](https://www.discogs.com/release/9366429-Bon-Jovi-Keep-The-Faith) |

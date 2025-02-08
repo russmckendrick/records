@@ -4,6 +4,7 @@ artist_name: "The Pineapple Thief"
 artist: "the-pineapple-thief"
 album_name: "Nothing But The Truth"
 date: 2021-11-03T04:57:21.000000Z
+release_date: "2021-10-22"
 release_id: "20766034"
 slug: "nothing-but-the-truth-20766034"
 hideSummary: true
@@ -34,55 +35,37 @@ styles: ["Prog Rock"]
 
 Nothing but the Truth is a 2008 American political drama film written and directed by Rod Lurie. The film stars Kate Beckinsale, Matt Dillon, Angela Bassett, Alan Alda and Vera Farmiga. According to comments made by Lurie in The Truth Hurts, a bonus feature on the DVD release, his inspiration for the screenplay was the case of journalist Judith Miller, who in July 2005 was jailed for contempt of court for refusing to testify before a federal grand jury investigating a leak naming Valerie Plame as a covert CIA operative, but this was merely a starting point for what is primarily a fictional story. In an April 2009 interview, Lurie stressed: "I should say that the film is about neither of these women although certainly their stories as reported in the press went into the creation of their characters and the situation they find themselves in."
 The film premiered at the Toronto International Film Festival on September 8, 2008. It was scheduled to open in New York City and Los Angeles on December 19, but because distributor Yari Film Group filed for Chapter 11 protection, it was never given a theatrical release.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Versions Of The Truth
-2. In Exile
-3. Warm Seas
-4. Our Mire
-5. Build A World
-6. Demons
-7. Driving Like Maniacs
-8. Someone Pull Me Out
-9. Uncovering Your Tracks
-10. Break It All
-11. White Mist
-12. Out Of Line
-13. Wretched Soul
-14. Far Below
-15. Threatening War
-16. The Swell
-17. The Final Thing On My Mind 
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Versions Of The Truth |  |
+| A2 | In Exile |  |
+| A3 | Warm Seas |  |
+| A4 | Our Mire |  |
+| B1 | Build A World |  |
+| B2 | Demons |  |
+| B3 | Driving Like Maniacs |  |
+| B4 | Someone Pull Me Out |  |
+| B5 | Uncovering Your Tracks |  |
+| C1 | Break It All |  |
+| C2 | White Mist |  |
+| C3 | Out Of Line |  |
+| C4 | Wretched Soul |  |
+| D1 | Far Below |  |
+| D2 | Threatening War |  |
+| D3 | The Swell |  |
+| D4 | The Final Thing On My Mind  |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nothing-but-the-truth/1579363537" >}}<br>
 
 
-## Videos
-### Versions of the Truth Nothing But The Truth
-{{< youtube id="wN2UoQLf-so" title="Versions of the Truth Nothing But The Truth" >}}<br>
-### More Videos
-
-- [In Exile Nothing But The Truth](https://www.youtube.com/watch?v=z-7iAQBnlXk)
-- [Warm Seas Nothing But The Truth](https://www.youtube.com/watch?v=HzFnNXvukVk)
-- [The Pineapple Thief - Our Mire](https://www.youtube.com/watch?v=fXK3bTcUDOs)
-- [Build a World Nothing But The Truth](https://www.youtube.com/watch?v=vP57XBhB5-0)
-- [Demons Nothing But The Truth](https://www.youtube.com/watch?v=rljS4gjt02E)
-- [Driving Like Maniacs Nothing But The Truth](https://www.youtube.com/watch?v=DvPRkwAXuYg)
-- [The Pineapple Thief - Someone Pull Me Out of Here](https://www.youtube.com/watch?v=hKYOamo5BkY)
-- [Uncovering Your Tracks Nothing But The Truth](https://www.youtube.com/watch?v=r8MUOwUCDIQ)
-- [Break It All Nothing But The Truth](https://www.youtube.com/watch?v=l4VIlJJH1dk)
-- [White Mist Nothing But The Truth](https://www.youtube.com/watch?v=lMmZyB1zS_Y)
-- [Out of Line Nothing But The Truth](https://www.youtube.com/watch?v=1WqFswe0ZnA)
-- [The Pineapple Thief - Wretched Soul](https://www.youtube.com/watch?v=0feChcaPsPw)
-- [Far Below Nothing But The Truth](https://www.youtube.com/watch?v=r7aVYMnFmoA)
-- [Threatening War Nothing But The Truth](https://www.youtube.com/watch?v=I-XlPxeRC4M)
-- [The Swell Nothing But The Truth](https://www.youtube.com/watch?v=p5VJqMLRUng)
-- [The Final Thing on My Mind Nothing But The Truth](https://www.youtube.com/watch?v=fODhYXZCRmo)
-- [Drum Cam Split Screen - Our Mire by The Pineapple Thief From Nothing But The Truth](https://www.youtube.com/watch?v=Ylxs0xVvSDo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -94,5 +77,5 @@ The film premiered at the Toronto International Film Festival on September 8, 20
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1136 |
-| Notes | Gavin Harrison - Drums Steve Kitch - Keyboards Bruce Soord - Guitars and vocals Jon Sykes - Bass guitar and backing vocals George Marios - Guitars and backing vocals - Mixed by - Bruce Soord and Gavin Harrison Mastered by - Steve Kitch at Steve Kitch mastering Artwork by - Michael Schoenholtz Design and layout by - Beech Photographer - Greg Holland Publisher - Universal/MCA Music Ltd Squatter Madras Music and Bruce Soord |
+| Notes | Gavin Harrison - Drums<br>Steve Kitch - Keyboards<br>Bruce Soord - Guitars and vocals<br>Jon Sykes - Bass guitar and backing vocals<br>George Marios - Guitars and backing vocals<br>-<br>Mixed by - Bruce Soord and Gavin Harrison<br>Mastered by - Steve Kitch at Steve Kitch mastering<br>Artwork by - Michael Schoenholtz<br>Design and layout by - Beech<br>Photographer - Greg Holland<br>Publisher - Universal/MCA Music Ltd<br>Squatter Madras Music<br>and Bruce Soord |
 | Discogs URL    | [The Pineapple Thief - Nothing But The Truth](https://www.discogs.com/release/20766034-The-Pineapple-Thief-Nothing-But-The-Truth) |

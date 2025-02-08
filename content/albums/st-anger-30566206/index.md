@@ -4,6 +4,7 @@ artist_name: "Metallica"
 artist: "metallica"
 album_name: "St. Anger"
 date: 2024-05-03T06:45:21.000000Z
+release_date: "2003-06-05"
 release_id: "30566206"
 slug: "st-anger-30566206"
 hideSummary: true
@@ -38,30 +39,30 @@ Recording began in April 2001 but was postponed after rhythm guitarist and vocal
 St. Anger was intended for release on June 10, 2003, but was released five days earlier due to concerns over unlicensed distribution via peer-to-peer file sharing networks. Despite mixed reviews, it debuted at the top of sales charts in 14 countries, including the US Billboard 200. Metallica spent two years touring to promote the album. In 2004, the lead single, "St. Anger", won a Grammy Award for Best Metal Performance. St. Anger was certified double platinum by the Recording Industry Association of America (RIAA) for shipping two million copies in the US; it has sold nearly six million copies worldwide.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Frantic (5:50)
-2. St. Anger (7:21)
-3. Some Kind Of Monster (8:26)
-4. Dirty Window (5:25)
-5. Invisible Kid (8:30)
-6. My World (5:46)
-7. Shoot Me Again (7:10)
-8. Sweet Amber (5:27)
-9. The Unnamed Feeling (7:09)
-10. Purify (5:14)
-11. All Within My Hands (8:48)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Frantic | 5:50 |
+| A2 | St. Anger | 7:21 |
+| A3 | Some Kind Of Monster | 8:26 |
+| B1 | Dirty Window | 5:25 |
+| B2 | Invisible Kid | 8:30 |
+| B3 | My World | 5:46 |
+| C1 | Shoot Me Again | 7:10 |
+| C2 | Sweet Amber | 5:27 |
+| C3 | The Unnamed Feeling | 7:09 |
+| D1 | Purify | 5:14 |
+| D2 | All Within My Hands | 8:48 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/st-anger/1440844088" >}}<br>
 
-
-## Videos
-### Metallica - St Anger Official Music Video
-{{< youtube id="6ajl1ABdD8A" title="Metallica - St Anger Official Music Video" >}}<br>
 
 
 ## Release Images
@@ -74,5 +75,5 @@ St. Anger was intended for release on June 10, 2003, but was released five days 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Orange (Some Kind of Orange)) |
 | Label          | Blackened |
 | Catalog Number | BLCKND016-1U |
-| Notes | Hype Sticker on front: "Pressed on Limited Edition Some Kind of Orange 2LP Vinyl. BLCKND016-1U"  "Made in Germany" Sticker on back.  Limited Edition. Comes in a gatefold jacket. |
+| Notes | Hype Sticker on front:<br>"Pressed on<br>Limited Edition<br>Some Kind<br>of Orange<br>2LP Vinyl.<br>BLCKND016-1U"<br><br>"Made in Germany" Sticker on back.<br><br>Limited Edition. Comes in a gatefold jacket. |
 | Discogs URL    | [Metallica - St. Anger](https://www.discogs.com/release/30566206-Metallica-St-Anger) |

@@ -4,6 +4,7 @@ artist_name: "Phil Collins"
 artist: "phil-collins"
 album_name: "The Singles"
 date: 2017-01-06T19:25:23.000000Z
+release_date: "2004-09-25"
 release_id: "9196545"
 slug: "the-singles-9196545"
 hideSummary: true
@@ -39,48 +40,51 @@ styles: ["Pop Rock", "Ballad"]
 The Singles is a compilation album by English drummer Phil Collins. It was released on 14 October 2016 through Atlantic Records and Warner Music. The album is Collins' fourth compilation album—after ...Hits (1998), The Platinum Collection (2004) and Love Songs: A Compilation... Old and New (2004)—and came at the end of his Take a Look at Me Now series, which saw him remaster and reissue his entire back catalogue dating back to 1981's Face Value. The compilation is made up of most of the hit singles from Collins' solo career, as well as lesser-known singles. The album was released in two versions, a standard 2-CD edition and a deluxe 3-CD edition. A vinyl edition was also released, first available as a 4-LP set with the same track list as in standard 2-CD edition, but it was, in 2018, replaced with a 2-LP set, which have only 19 selected tracks from previous version.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Easy Lover (5:03)
-2. Two Hearts (3:24)
-3. Sussudio (4:23)
-4. I Missed Again (3:44)
-5. Wear My Hat (4:42)
-6. Don't Lose My Number (4:48)
-7. You Can't Hurry Love (2:54)
-8. Something Happened On The Way To Heaven (4:51)
-9. We Wait And We Wonder (7:00)
-10. Can't Stop Loving You (4:16)
-11. Dance Into The Light (4:23)
-12. It's In Your Eyes (3:04)
-13. Hang In Long Enough (4:44)
-14. Thru These Walls (5:04)
-15. I Wish It Would Rain Down (5:28)
-16. Both Sides Of The Story (6:42)
-17. (Love Is Like A) Heatwave (2:52)
-18. Going Back (4:38)
-19. In The Air Tonight (5:35)
-20. Against All Odds (3:26)
-21. If Leaving Me Is Easy (4:56)
-22. One More Night (4:48)
-23. Separate Lives (4:08)
-24. A Groovy Kind Of Love (3:30)
-25. That's Just The Way It Is (5:20)
-26. Do You Remember? (4:36)
-27. Everyday (5:43)
-28. True Colors (4:34)
-29. You'll Be In My Heart (4:17)
-30. The Least You Can Do (4:22)
-31. Look Through My Eyes (4:00)
-32. Another Day In Paradise (5:23)
-33. Take Me Home (5:53)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Easy Lover | 5:03 |
+| A2 | Two Hearts | 3:24 |
+| A3 | Sussudio | 4:23 |
+| A4 | I Missed Again | 3:44 |
+| A5 | Wear My Hat | 4:42 |
+| B1 | Don't Lose My Number | 4:48 |
+| B2 | You Can't Hurry Love | 2:54 |
+| B3 | Something Happened On The Way To Heaven | 4:51 |
+| B4 | We Wait And We Wonder | 7:00 |
+| C1 | Can't Stop Loving You | 4:16 |
+| C2 | Dance Into The Light | 4:23 |
+| C3 | It's In Your Eyes | 3:04 |
+| C4 | Hang In Long Enough | 4:44 |
+| D1 | Thru These Walls | 5:04 |
+| D2 | I Wish It Would Rain Down | 5:28 |
+| D3 | Both Sides Of The Story | 6:42 |
+| D4 | (Love Is Like A) Heatwave | 2:52 |
+| E1 | Going Back | 4:38 |
+| E2 | In The Air Tonight | 5:35 |
+| E3 | Against All Odds | 3:26 |
+| E4 | If Leaving Me Is Easy | 4:56 |
+| F1 | One More Night | 4:48 |
+| F2 | Separate Lives | 4:08 |
+| F3 | A Groovy Kind Of Love | 3:30 |
+| F4 | That's Just The Way It Is | 5:20 |
+| G1 | Do You Remember? | 4:36 |
+| G2 | Everyday | 5:43 |
+| G3 | True Colors | 4:34 |
+| G4 | You'll Be In My Heart | 4:17 |
+| H1 | The Least You Can Do | 4:22 |
+| H2 | Look Through My Eyes | 4:00 |
+| H3 | Another Day In Paradise | 5:23 |
+| H4 | Take Me Home | 5:53 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/love-songs/110687880" >}}<br>
-
 
 
 
@@ -94,5 +98,5 @@ The Singles is a compilation album by English drummer Phil Collins. It was relea
 | Format         | Vinyl 4× LP Compilation Remastered, Box Set |
 | Label          | Atlantic |
 | Catalog Number | 081227945909 |
-| Notes | Includes 20 page high gloss book with photos and song info.  For the first time on vinyl : 'True Colors', 'You'll Be In My Heart' & 'Look Through My Eyes'  Half speed mastering and pressing plant uncredited, identified by runout. |
+| Notes | Includes 20 page high gloss book with photos and song info.<br><br>For the first time on vinyl : 'True Colors', 'You'll Be In My Heart' & 'Look Through My Eyes'<br><br>Half speed mastering and pressing plant uncredited, identified by runout. |
 | Discogs URL    | [Phil Collins - The Singles](https://www.discogs.com/release/9196545-Phil-Collins-The-Singles) |

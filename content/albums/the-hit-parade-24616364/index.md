@@ -4,6 +4,7 @@ artist_name: "The Wedding Present"
 artist: "the-wedding-present"
 album_name: "The Hit Parade"
 date: 2022-09-25T07:17:03.000000Z
+release_date: "1992-01-01"
 release_id: "24616364"
 slug: "the-hit-parade-24616364"
 hideSummary: true
@@ -33,70 +34,67 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Blue Eyes
-2. Go-Go Dancer
-3. Three
-4. Silver Shorts
-5. Come Play With Me
-6. California
-7. Flying Saucer
-8. Boing!
-9. Loveslave
-10. Sticky
-11. The Queen Of Outer Space
-12. No Christmas
-13. Cattle And Cane
-14. Don't Cry No Tears
-15. Think That It Might
-16. Falling
-17. Pleasant Valley Sunday
-18. Let's Make Some Plans
-19. Rocket
-20. Theme From Shaft
-21. Chant Of The Ever Circling Skeletal Family
-22. Go Wild In The Country
-23. U.F.O.
-24. Step Into Christmas
-25. Blue Eyes
-26. Go-Go Dancer
-27. Three
-28. Silver Shorts
-29. Come Play With Me
-30. California 
-31. Flying Saucer 
-32. Boing!
-33. Loveslave
-34. Sticky
-35. The Queen Of Outer Space
-36. No Christmas 
-37. Cattle And Cane 
-38. Don't Cry No Tears
-39. Think That It Might
-40. Falling
-41. Pleasant Valley Sunday
-42. Let's Make Some Plans
-43. Rocket
-44. Theme From Shaft
-45. Chant Of The Ever Circling Skeletal Family
-46. Go Wild In The Country 
-47. U.F.O.
-48. Step Into Christmas 
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Blue Eyes |  |
+| A2 | Go-Go Dancer |  |
+| A3 | Three |  |
+| A4 | Silver Shorts |  |
+| A5 | Come Play With Me |  |
+| A6 | California |  |
+| B1 | Flying Saucer |  |
+| B2 | Boing! |  |
+| B3 | Loveslave |  |
+| B4 | Sticky |  |
+| B5 | The Queen Of Outer Space |  |
+| B6 | No Christmas |  |
+| C1 | Cattle And Cane |  |
+| C2 | Don't Cry No Tears |  |
+| C3 | Think That It Might |  |
+| C4 | Falling |  |
+| C5 | Pleasant Valley Sunday |  |
+| C6 | Let's Make Some Plans |  |
+| D1 | Rocket |  |
+| D2 | Theme From Shaft |  |
+| D3 | Chant Of The Ever Circling Skeletal Family |  |
+| D4 | Go Wild In The Country |  |
+| D5 | U.F.O. |  |
+| D6 | Step Into Christmas |  |
+| CD1-1 | Blue Eyes |  |
+| CD1-2 | Go-Go Dancer |  |
+| CD1-3 | Three |  |
+| CD1-4 | Silver Shorts |  |
+| CD1-5 | Come Play With Me |  |
+| CD1-6 | California  |  |
+| CD1-7 | Flying Saucer  |  |
+| CD1-8 | Boing! |  |
+| CD1-9 | Loveslave |  |
+| CD1-10 | Sticky |  |
+| CD1-11 | The Queen Of Outer Space |  |
+| CD1-12 | No Christmas  |  |
+| CD-2-1 | Cattle And Cane  |  |
+| CD2-2 | Don't Cry No Tears |  |
+| CD2-3 | Think That It Might |  |
+| CD2-4 | Falling |  |
+| CD2-5 | Pleasant Valley Sunday |  |
+| CD2-6 | Let's Make Some Plans |  |
+| CD2-7 | Rocket |  |
+| CD2-8 | Theme From Shaft |  |
+| CD2-9 | Chant Of The Ever Circling Skeletal Family |  |
+| CD2-10 | Go Wild In The Country  |  |
+| CD2-11 | U.F.O. |  |
+| CD2-12 | Step Into Christmas  |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-hit-parade/285881864" >}}<br>
 
 
-## Videos
-### The Wedding Present -  Blue Eyes
-{{< youtube id="d6PTTVI3qLc" title="The Wedding Present -  Blue Eyes" >}}<br>
-### More Videos
-
-- [The Wedding Present -  Boing](https://www.youtube.com/watch?v=3-1Fmlk9t2s)
-- [The Wedding Present - The Queen Of Outer Space](https://www.youtube.com/watch?v=EsOAf_5XSaI)
-- [The Wedding Present - Cattle and Cane](https://www.youtube.com/watch?v=AJr9GYf9FkQ)
-- [The Wedding Present - Silver Shorts HD](https://www.youtube.com/watch?v=xrh2iV7MISw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -107,5 +105,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 2× LP Compilation Reissue, CD 2× Compilation Promo Reissue, All Media (30th Anniversary Edition) |
 | Label          | Sony Music |
 | Catalog Number | 19658708791 |
-| Notes | Issued in a gatefold sleeve. The images in the gatefold show the original 7" labels, release date, highest UK chart positions. Vinyl discs held in top opening gloss inner sleeves of thin card. CDs held in paper pockets with a window. On discs: "For promotional use only • Not for sale". Hype sticker applied to the shrink-wrap.  Some autographed copies were made available from Scopitones. These copies may come with the shrink-wrap in situ but partially opened.  The two CDs have the same tracks as the vinyl. Runouts are hand etched excepting the GZ Media data which is laser etched. |
+| Notes | Issued in a gatefold sleeve. The images in the gatefold show the original 7" labels, release date, highest UK chart positions.<br>Vinyl discs held in top opening gloss inner sleeves of thin card.<br>CDs held in paper pockets with a window. On discs: "For promotional use only • Not for sale".<br>Hype sticker applied to the shrink-wrap.<br><br>Some autographed copies were made available from Scopitones. These copies may come with the shrink-wrap in situ but partially opened.<br><br>The two CDs have the same tracks as the vinyl.<br>Runouts are hand etched excepting the GZ Media data which is laser etched. |
 | Discogs URL    | [The Wedding Present - The Hit Parade](https://www.discogs.com/release/24616364-The-Wedding-Present-The-Hit-Parade) |

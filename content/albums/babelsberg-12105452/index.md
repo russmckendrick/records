@@ -4,6 +4,7 @@ artist_name: "Gruff Rhys"
 artist: "gruff-rhys"
 album_name: "Babelsberg"
 date: 2018-06-08T17:58:58.000000Z
+release_date: "2018-06-08"
 release_id: "12105452"
 slug: "babelsberg-12105452"
 hideSummary: true
@@ -29,33 +30,30 @@ styles: ["Alternative Rock"]
 Babelsberg is the fifth studio album by Welsh musician Gruff Rhys. It was released in June 2018 under Rough Trade Records.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Frontier Man 
-2. The Club 
-3. Oh Dear!
-4. Limited Edition Heart 
-5. Take That Call
-6. Drones In The City 
-7. Negative Vibes
-8. Same Old Song 
-9. Architecture Of Amnesia  
-10. Selfies In The Sunset
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Frontier Man  |  |
+| A2 | The Club  |  |
+| A3 | Oh Dear! |  |
+| A4 | Limited Edition Heart  |  |
+| A5 | Take That Call |  |
+| A6 | Drones In The City  |  |
+| B1 | Negative Vibes |  |
+| B2 | Same Old Song  |  |
+| B3 | Architecture Of Amnesia   |  |
+| B4 | Selfies In The Sunset |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/babelsberg/1362980945" >}}<br>
 
 
-## Videos
-### Gruff Rhys - Limited Edition Heart Official Audio
-{{< youtube id="L09PSR7uQtU" title="Gruff Rhys - Limited Edition Heart Official Audio" >}}<br>
-### More Videos
-
-- [Gruff Rhys Previews New LP Babelsberg With Frontier Man Video](https://www.youtube.com/watch?v=UXbdEig4apo)
-- [Gruff Rhys - Frontier Man Official Video](https://www.youtube.com/watch?v=7Y6VLjIKwqQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +65,5 @@ Babelsberg is the fifth studio album by Welsh musician Gruff Rhys. It was releas
 | Format         | Vinyl LP Album |
 | Label          | Rough Trade |
 | Catalog Number | RT0010LP |
-| Notes | Gatefold Jacket with Obi Strip Includes download card for 320k MP3s. |
+| Notes | Gatefold Jacket with Obi Strip<br>Includes download card for 320k MP3s. |
 | Discogs URL    | [Gruff Rhys - Babelsberg](https://www.discogs.com/release/12105452-Gruff-Rhys-Babelsberg) |

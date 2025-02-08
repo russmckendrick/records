@@ -4,6 +4,7 @@ artist_name: "Gary Numan"
 artist: "gary-numan"
 album_name: "Premier Hits"
 date: 2015-08-15T08:06:31.000000Z
+release_date: "1997-03-25"
 release_id: "7341798"
 slug: "premier-hits-7341798"
 hideSummary: true
@@ -21,48 +22,41 @@ The Premier Hits is a compilation album by Gary Numan released in March 1996 on 
 All the tracks were digitally remastered in November 1995 and the enclosed twelve page colour booklet contains photos and an essay by long term Numan collaborator Steve Malins. All the single sleeves are also illustrated with the unexplained exception of Stormtrooper in Drag and Love Needs No Disguise.
 The album was reissued in 1997 by Beggars Banquet as Premier Hits with a different sleeve design (again taken from the Dance album photo session). Currently the album stands as the most famous and highest selling Gary Numan compilation, and was certified Silver by the BPI in March 2015.
 The album was again reissued in August 2015 by Beggars Banquet as Premier Hits as a 2LP Vinyl set, while seeing a change of the track listing. It involves the removal of the "Cars" 'Premier Mix' while the addition of four bonus tracks, “Metal”, "We Are So Fragile", "Films" and "Me, I Disconnect From You".
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Cars 
-2. I Die: You Die (3:43)
-3. Are 'Friends' Electric? (5:23)
-4. Down In The Park (4:23)
-5. We Are Glass (4:47)
-6. Metal
-7. We Are So Fragile
-8. Bombers (3:54)
-9. We Take Mystery (To Bed) (3:43)
-10. She's Got Claws (4:56)
-11. Complex (3:12)
-12. Music For Chameleons (3:40)
-13. That's Too Bad (3:20)
-14. This Wreckage (5:24)
-15. Films
-16. Warriors (4:09)
-17. Me! I Disconnect From You
-18. Love Needs No Disguise (4:38)
-19. White Boys And Heroes (3:37)
-20. Sister Surprise (5:01)
-21. Stormtrooper In Drag
+| Position | Title | Duration |
+|----------|-------|----------|
+| a1 | Cars  |  |
+| a2 | I Die: You Die | 3:43 |
+| a3 | Are 'Friends' Electric? | 5:23 |
+| a4 | Down In The Park | 4:23 |
+| a5 | We Are Glass | 4:47 |
+| b1 | Metal |  |
+| b2 | We Are So Fragile |  |
+| b3 | Bombers | 3:54 |
+| b4 | We Take Mystery (To Bed) | 3:43 |
+| b5 | She's Got Claws | 4:56 |
+| b6 | Complex | 3:12 |
+| c1 | Music For Chameleons | 3:40 |
+| c2 | That's Too Bad | 3:20 |
+| c3 | This Wreckage | 5:24 |
+| c4 | Films |  |
+| c5 | Warriors | 4:09 |
+| d1 | Me! I Disconnect From You |  |
+| d2 | Love Needs No Disguise | 4:38 |
+| d3 | White Boys And Heroes | 3:37 |
+| d4 | Sister Surprise | 5:01 |
+| d5 | Stormtrooper In Drag |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/premier-hits/1025318240" >}}<br>
 
 
-## Videos
-### Gary Numan - Cars
-{{< youtube id="Im3JzxlatUs" title="Gary Numan - Cars" >}}<br>
-### More Videos
-
-- [Gary Numan We Take Mystery To bed Promo Video 1982](https://www.youtube.com/watch?v=X6nmepWa3fE)
-- [TUBEWAY ARMY   bombers](https://www.youtube.com/watch?v=GJLxnF_0bro)
-- [Gary Numan Shes got Claws Promo Video 1981](https://www.youtube.com/watch?v=i_K93VLhlZk)
-- [Cars - Premier Mix](https://www.youtube.com/watch?v=O2_ixzTObiw)
-- [Gary Numan - We Are Glass](https://www.youtube.com/watch?v=HVHnIiWpNig)
-- [We are Glass](https://www.youtube.com/watch?v=Hh5ftP9-IAw)
 
 ## Release Images
 {{< imageGrid >}}

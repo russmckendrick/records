@@ -4,6 +4,7 @@ artist_name: "Back To The Planet"
 artist: "back-to-the-planet"
 album_name: "Mind + Soul Collaborators"
 date: 2017-04-14T14:01:00.000000Z
+release_date: ""
 release_id: "1838415"
 slug: "mind-soul-collaborators-1838415"
 hideSummary: true
@@ -20,30 +21,29 @@ styles: ["Leftfield", "Indie Rock", "Dub", "Punk", "Reggae-Pop", "New Age", "Tec
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Please Don't Fight
-2. Crossed Lines
-3. Daydream
-4. Mother
-5. Misunderstood
-6. Starved By Ignorance
-7. London City
-8. Teenage Turtles
-9. Hard Edged Few
-10. Sleepless Nights
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Please Don't Fight |  |
+| A2 | Crossed Lines |  |
+| A3 | Daydream |  |
+| A4 | Mother |  |
+| A5 | Misunderstood |  |
+| B1 | Starved By Ignorance |  |
+| B2 | London City |  |
+| B3 | Teenage Turtles |  |
+| B4 | Hard Edged Few |  |
+| B5 | Sleepless Nights |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Back to the Planet   Sleepless Nights
-{{< youtube id="aDdBekh_jhA" title="Back to the Planet   Sleepless Nights" >}}<br>
-### More Videos
 
-- [Back to the Planet Sleepless Nights and Reprise](https://www.youtube.com/watch?v=lNSEV-_tJh0)
-- [Back to the Planet   Sleepless Nights](https://www.youtube.com/watch?v=aDdBekh_jhA)
-- [Back to the Planet Sleepless Nights and Reprise](https://www.youtube.com/watch?v=lNSEV-_tJh0)
-- [Back to the planet - Daydream Orbital Remix](https://www.youtube.com/watch?v=suNsAIWYIL8)
 
 ## Release Images
 {{< imageGrid >}}

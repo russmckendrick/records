@@ -1,16 +1,17 @@
 ---
-title: "The Fierce & The Dead - Magnet"
-artist_name: "The Fierce & The Dead"
+title: "The Fierce  The Dead - Magnet"
+artist_name: "The Fierce  The Dead"
 artist: "the-fierce-the-dead"
 album_name: "Magnet"
 date: 2022-09-17T09:35:32.000000Z
+release_date: "2015-08-14"
 release_id: "8267564"
 slug: "magnet-8267564"
 hideSummary: true
 cover:
     image: "magnet-8267564.jpg"
-    alt: "Magnet by The Fierce & The Dead"
-    caption: "Magnet by The Fierce & The Dead"
+    alt: "Magnet by The Fierce  The Dead"
+    caption: "Magnet by The Fierce  The Dead"
 additional_images:
     - "https://i.discogs.com/gUxy-YF4Pc90SbbdQZMtup1VmIjq54yJYt42qKTGHAU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjc1/NjQtMTQ1ODQ2ODA3/MS03ODIyLmpwZWc.jpeg"
     - "https://i.discogs.com/pjtcHkUVY977N9LKrrPL62EV5FmDkUAr7eGnMLOpFBI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjc1/NjQtMTQ1ODQ2ODA3/Mi01NDI3LmpwZWc.jpeg"
@@ -23,20 +24,23 @@ Magnetism is the class of physical attributes that occur through a magnetic fiel
 The most familiar effects occur in ferromagnetic materials, which are strongly attracted by magnetic fields and can be magnetized to become permanent magnets, producing magnetic fields themselves. Demagnetizing a magnet is also possible. Only a few substances are ferromagnetic; the most common ones are iron, cobalt, nickel, and their alloys.
 All substances exhibit some type of magnetism. Magnetic materials are classified according to their bulk susceptibility. Ferromagnetism is responsible for most of the effects of magnetism encountered in everyday life, but there are actually several types of magnetism. Paramagnetic substances, such as aluminium and oxygen, are weakly attracted to an applied magnetic field; diamagnetic substances, such as copper and carbon, are weakly repelled; while antiferromagnetic materials, such as chromium, have a more complex relationship with a magnetic field. The force of a magnet on paramagnetic, diamagnetic, and antiferromagnetic materials is usually too weak to be felt and can be detected only by laboratory instruments, so in everyday life, these substances are often described as non-magnetic.
 The strength of a magnetic field always decreases with distance from the magnetic source, though the exact mathematical relationship between strength and distance varies. Many factors can influence the magnetic field of an object including the magnetic moment of the material, the physical shape of the object, both the magnitude and direction of any electric current present within the object, and the temperature of the object.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Magnet In Your Face (1:41)
-2. Palm Trees (4:00)
-3. Flint (4:24)
-4. Part 6 (The 8th Circuit) (3:59)
-5. Chief (Rehearsal Recording) (5:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| 1 | Magnet In Your Face | 1:41 |
+| 2 | Palm Trees | 4:00 |
+| 3 | Flint | 4:24 |
+| 4 | Part 6 (The 8th Circuit) | 3:59 |
+| 5 | Chief (Rehearsal Recording) | 5:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/magnet-ep/1031295288" >}}<br>
-
 
 
 
@@ -50,5 +54,5 @@ The strength of a magnetic field always decreases with distance from the magneti
 | Format         | Vinyl 12" 33 ⅓ RPM Single Sided EP Limited Edition Stereo (Screenprint) |
 | Label          | Crate Digger Records |
 | Catalog Number | CDIGG001 |
-| Notes | Limited Edition of 500 Screen printed B side  Tracks 1, 2, 3. & 4 recorded at Farheath Studios & Ant Farm Studios Tracks 5 recorded at the New Empowering Church |
-| Discogs URL    | [The Fierce & The Dead - Magnet](https://www.discogs.com/release/8267564-The-Fierce-The-Dead-Magnet) |
+| Notes | Limited Edition of 500<br>Screen printed B side<br><br>Tracks 1, 2, 3. & 4 recorded at Farheath Studios & Ant Farm Studios<br>Tracks 5 recorded at the New Empowering Church |
+| Discogs URL    | [The Fierce  The Dead - Magnet](https://www.discogs.com/release/8267564-The-Fierce-The-Dead-Magnet) |

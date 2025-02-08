@@ -4,6 +4,7 @@ artist_name: "Mazzy Star"
 artist: "mazzy-star"
 album_name: "Ghost Highway"
 date: 2023-03-20T13:05:46.000000Z
+release_date: "2015-05-18"
 release_id: "16210745"
 slug: "ghost-highway-16210745"
 hideSummary: true
@@ -23,26 +24,31 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Flowers in December (5:10)
-2. Ride It On (3:18)
-3. Into Dust (6:12)
-4. Give You My Lovin' (4:02)
-5. Fade Into You (4:39)
-6. Halah (3:25)
-7. Ghost Highway (3:30)
-8. Blue Flower (4:42)
-9. Mary Of Silence (7:48)
-10. Flowers In December (5:26)
-11. Bells Ring (4:21)
-12. Blue Flower (4:12)
-13. Halah (3:45)
-14. So Tonight, That I Might See (7:39)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Flowers in December | 5:10 |
+| A2 | Ride It On | 3:18 |
+| A3 | Into Dust | 6:12 |
+| A4 | Give You My Lovin' | 4:02 |
+| B1 | Fade Into You | 4:39 |
+| B2 | Halah | 3:25 |
+| B3 | Ghost Highway | 3:30 |
+| B4 | Blue Flower | 4:42 |
+| C1 | Mary Of Silence | 7:48 |
+| C2 | Flowers In December | 5:26 |
+| C3 | Bells Ring | 4:21 |
+| D1 | Blue Flower | 4:12 |
+| D2 | Halah | 3:45 |
+| D3 | So Tonight, That I Might See | 7:39 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ghost-highway/988896855" >}}<br>
-
 
 
 
@@ -55,5 +61,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 2× LP Remastered (Purple) |
 | Label          | Easy Action |
 | Catalog Number | EARS152LP |
-| Notes | A1-B4 Recorded at The Metro Chicago 12th November 1994 . C1 Recorded at Maison de la Radio, Studio 105 October 1993. C2-D3 Recorded at KROQ Los Angeles 10th December 1994. Comes in gatefold sleeve. The Winter of '94 and a year after the release of the sublime "So Tonight That I Might See", Mazzy Star find themselves still touring and promoting the album, some of the songs featured here are from that album such as Into Dust, Bells Ring the title track and the hit single Fade Into You. Whilst songs like Flowers in December would turn up on the next album released a whole two years later. Four of the selections are from the critically acclaimed first album She Hangs Brightly issued in 1990, including the Sylvia Gomez penned "Give You My Lovin' "and the obscure German band Slapp Happy cover of Blue Flower |
+| Notes | A1-B4 Recorded at The Metro Chicago 12th November 1994 .<br>C1 Recorded at Maison de la Radio, Studio 105 October 1993.<br>C2-D3 Recorded at KROQ Los Angeles 10th December 1994.<br>Comes in gatefold sleeve.<br>The Winter of '94 and a year after the release of the sublime "So Tonight That I Might See", Mazzy Star find themselves still touring and promoting the album, some of the songs featured here are from that album such as Into Dust, Bells Ring the title track and the hit single Fade Into You. Whilst songs like Flowers in December would turn up on the next album released a whole two years later. Four of the selections are from the critically acclaimed first album She Hangs Brightly issued in 1990, including the Sylvia Gomez penned "Give You My Lovin' "and the obscure German band Slapp Happy cover of Blue Flower |
 | Discogs URL    | [Mazzy Star - Ghost Highway](https://www.discogs.com/release/16210745-Mazzy-Star-Ghost-Highway) |

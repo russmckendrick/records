@@ -37,47 +37,30 @@ Goldie's <i>Timeless</i> set the standard for what a drum 'n' bass LP might achi
 
 
 ## Tracklisting
-1. Inner City Life
-2. Pressure
-3. Jah
-4. Saint Angel
-5. State Of Mind
-6. This Is A Bad
-7. Sea Of Tears
-8. Jah The Seventh Seal
-9. A Sense Of Rage (Sensual V.I.P. Mix)
-10. Still Life
-11. Angel
-12. Adrift
-13. Kemistry
-14. You & Me
-15. Sensual (Original Mix)
-16. Kemistry (V.I.P. Mix)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Inner City Life |  |
+| A2 | Pressure |  |
+| A3 | Jah |  |
+| B1 | Saint Angel |  |
+| B2 | State Of Mind |  |
+| B3 | This Is A Bad |  |
+| C1 | Sea Of Tears |  |
+| C2 | Jah The Seventh Seal |  |
+| D1 | A Sense Of Rage (Sensual V.I.P. Mix) |  |
+| D2 | Still Life |  |
+| D3 | Angel |  |
+| E1 | Adrift |  |
+| E2 | Kemistry |  |
+| E3 | You & Me |  |
+| F1 | Sensual (Original Mix) |  |
+| F2 | Kemistry (V.I.P. Mix) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/timeless-25-year-anniversary/1561942518" >}}<br>
 
 
-## Videos
-### Goldie - Timeless
-{{< youtube id="Usqwy2-E4SE" title="Goldie - Timeless" >}}<br>
-### More Videos
-
-- [Goldie - Timeless 1995 Full album - 2 CDs](https://www.youtube.com/watch?v=dhV9VbxV3Rw)
-- [Goldie - Sensual](https://www.youtube.com/watch?v=il2etoRKwx4)
-- [Goldie - Timeless](https://www.youtube.com/watch?v=Usqwy2-E4SE)
-- [Goldie Sea of Tears](https://www.youtube.com/watch?v=BY37izMpcsc)
-- [Goldie You  Me](https://www.youtube.com/watch?v=kZAeF4Fy9us)
-- [Goldie - Saint Angel HD](https://www.youtube.com/watch?v=NvHtYLWMUKU)
-- [Goldie - Jah The Seventh Seal](https://www.youtube.com/watch?v=goK2Qbbt7LE)
-- [Goldie - Adrift](https://www.youtube.com/watch?v=j8sN_xgUa58)
-- [Goldie Kemistry](https://www.youtube.com/watch?v=P0IrNQsfL9c)
-- [Goldie Sensual](https://www.youtube.com/watch?v=x9Z7WND01xE)
-- [Goldie State of Mind](https://www.youtube.com/watch?v=QcbWg01E7Qg)
-- [This Is A Bad](https://www.youtube.com/watch?v=05iHoucOVLE)
-- [Goldie - A Sense Of Rage Sensual Vip Mix](https://www.youtube.com/watch?v=ZTSJLyUhEAk)
-- [Goldie Angel](https://www.youtube.com/watch?v=nIRDgl_Rx4E)
-- [Goldie Kemistry](https://www.youtube.com/watch?v=P0IrNQsfL9c)
 
 ## Release Images
 {{< imageGrid >}}

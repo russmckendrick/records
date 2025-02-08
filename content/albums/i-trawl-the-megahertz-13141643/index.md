@@ -4,6 +4,7 @@ artist_name: "Prefab Sprout"
 artist: "prefab-sprout"
 album_name: "I Trawl The Megahertz"
 date: 2019-02-01T19:30:09.000000Z
+release_date: "2003-05-27"
 release_id: "13141643"
 slug: "i-trawl-the-megahertz-13141643"
 hideSummary: true
@@ -24,37 +25,29 @@ The largely instrumental album marks a notable stylistic change from previous Pr
 With themes of old memories and time passing, I Trawl the Megahertz is a highly personal work, dominated by its poignant title track, in which Connors intones "the story of her life", largely created by excerpts of radio conversation, over an orchestral motif. Despite concerns the album would alienate fans, I Trawl the Megahertz was belatedly released to positive critical reception, with many finding the album powerful and poignant. In the year end polls for 2003's albums of the year it featured at number 22 in Uncut Magazine and number 50 in Mojo, who later included the album in their 2005 list of the top 50 'most out there' albums. The magazine would later describe I Trawl the Megahertz as an "unlikely orch-pop masterpiece."
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Trawl The Megahertz
-2. Esprit De Corps
-3. Fall From Grace
-4. We Were Poor....
-5. Orchid 7
-6. I'm 49
-7. Sleeping Rough
-8. Ineffable
-9. ....But We Were Happy
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Trawl The Megahertz |  |
+| C2 | Esprit De Corps |  |
+| C3 | Fall From Grace |  |
+| C4 | We Were Poor.... |  |
+| C5 | Orchid 7 |  |
+| D6 | I'm 49 |  |
+| D7 | Sleeping Rough |  |
+| D8 | Ineffable |  |
+| D9 | ....But We Were Happy |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-trawl-the-megahertz/1441428258" >}}<br>
 
 
-## Videos
-### I Trawl the Megahertz FULL ALBUM  Paddy McAloon 2003 320 kbps
-{{< youtube id="5ilBNaMxQwk" title="I Trawl the Megahertz FULL ALBUM  Paddy McAloon 2003 320 kbps" >}}<br>
-### More Videos
-
-- [I Trawl The Megahertz Complete](https://www.youtube.com/watch?v=1bSPNboKCzM)
-- [Paddy McAloon - I Trawl The Megahertz Edit](https://www.youtube.com/watch?v=1_uV_vypH0o)
-- [I Trawl the Megahertz FULL ALBUM  Paddy McAloon 2003 320 kbps](https://www.youtube.com/watch?v=5ilBNaMxQwk)
-- [Paddy Mcaloon-Sleeping Rough](https://www.youtube.com/watch?v=OUQLhJAxRZc)
-- [Paddy McAloon - Esprit De Corps](https://www.youtube.com/watch?v=TkRpbSVZQpM)
-- [Paddy McAloon - I Trawl The Megahertz Edit](https://www.youtube.com/watch?v=1_uV_vypH0o)
-- [I Trawl the Megahertz FULL ALBUM  Paddy McAloon 2003 320 kbps](https://www.youtube.com/watch?v=5ilBNaMxQwk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +59,5 @@ With themes of old memories and time passing, I Trawl the Megahertz is a highly 
 | Format         | Vinyl LP Single Sided Etched (White, 180g), Vinyl LP (White, 180g), All Media Album Limited Edition Reissue Remastered |
 | Label          | Sony Music |
 | Catalog Number | 88985411061 |
-| Notes | ℗ & © 2019 Paddy McAloon under exclusive license to Sony Music Entertainment UK Limited. Made in the EU. Design studio credited as Hoof.net.au  Limited edition of 1000 copies pressed on 180g white vinyl, available exclusively from Rough Trade. Includes download code. Sticker with barcode for this edition blocking barcode printed on back cover. Gatefold jacket, printed inner sleeves, with lyrics and credits on A/B inner sleeve. Release title listed as I Trawl The Megahertz Remastered on spine and labels. Tracks listed sequentially from 01. to 09. on back cover.  Hype sticker on front cover: "2LP Remastered from the original tapes, overseen by Paddy McAloon Side B fully etched 180 gram heavy weight vinyl + download code 88985411061"  Originally issued in 2003 as [m53413], this reissue credited to Prefab Sprout.  From around 4th February 2019 Rough Trade's website reported that "The LPX2+ is currently off sale due to a manufacturing fault. Updates will follow".  In March 2019 a new press was released for sale and sent out as replacement for the faulty copies. The repress can be found here:  [r=13351529]. |
+| Notes | ℗ & © 2019 Paddy McAloon under exclusive license to Sony Music Entertainment UK Limited. Made in the EU.<br>Design studio credited as Hoof.net.au<br><br>Limited edition of 1000 copies pressed on 180g white vinyl, available exclusively from Rough Trade.<br>Includes download code. Sticker with barcode for this edition blocking barcode printed on back cover. Gatefold jacket, printed inner sleeves, with lyrics and credits on A/B inner sleeve. Release title listed as I Trawl The Megahertz Remastered on spine and labels. Tracks listed sequentially from 01. to 09. on back cover.<br><br>Hype sticker on front cover:<br>"2LP<br>Remastered from the original tapes, overseen by Paddy McAloon<br>Side B fully etched<br>180 gram heavy weight vinyl<br>+ download code<br>88985411061"<br><br>Originally issued in 2003 as [m53413], this reissue credited to Prefab Sprout.<br><br>From around 4th February 2019 Rough Trade's website reported that "The LPX2+ is currently off sale due to a manufacturing fault. Updates will follow".<br><br>In March 2019 a new press was released for sale and sent out as replacement for the faulty copies. The repress can be found here: <br>[r=13351529]. |
 | Discogs URL    | [Prefab Sprout - I Trawl The Megahertz](https://www.discogs.com/release/13141643-Prefab-Sprout-I-Trawl-The-Megahertz) |

@@ -1,9 +1,10 @@
 ---
 title: "Matt Berry - Opium"
 artist_name: "Matt Berry"
-artist: "matt-berry-3"
+artist: "matt-berry"
 album_name: "Opium"
 date: 2015-10-20T17:19:18.000000Z
+release_date: "2021-11-26"
 release_id: "6666205"
 slug: "opium-6666205"
 hideSummary: true
@@ -23,50 +24,31 @@ Opium (or poppy tears, scientific name: Lachryma papaveris) is dried latex obtai
 The English word for opium is borrowed from Latin, which in turn comes from Ancient Greek: ὄπιον (ópion), a diminutive of ὀπός (opós, "juice of a plant"). The word meconium (derived from the Greek for "opium-like", but now used to refer to newborn stools) historically referred to related, weaker preparations made from other parts of the opium poppy or different species of poppies.
 The production methods have not significantly changed since ancient times. Through selective breeding of the Papaver somniferum plant, the content of the phenanthrene alkaloids morphine, codeine, and to a lesser extent thebaine has been greatly increased. In modern times, much of the thebaine, which often serves as the raw material for the synthesis for oxycodone, hydrocodone, hydromorphone, and other semisynthetic opiates, originates from extracting Papaver orientale or Papaver bracteatum.
 For the illegal drug trade, the morphine is extracted from the opium latex, reducing the bulk weight by 88%. It is then converted to heroin which is almost twice as potent, and increases the value by a similar factor. The reduced weight and bulk make it easier to smuggle.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Introduction
-2. Reach For The Ground
-3. Love Is A Fool
-4. Lay Your Love On Me
-5. White Hood
-6. Opium
-7. The Hangman
-8. Hot Dog
-9. Jet Setter
-10. Love Is A Fool (Again)
-11. One More Hit
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Introduction |  |
+| A2 | Reach For The Ground |  |
+| A3 | Love Is A Fool |  |
+| A4 | Lay Your Love On Me |  |
+| A5 | White Hood |  |
+| B1 | Opium |  |
+| B2 | The Hangman |  |
+| B3 | Hot Dog |  |
+| B4 | Jet Setter |  |
+| B5 | Love Is A Fool (Again) |  |
+| B6 | One More Hit |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gather-up/1583801242" >}}<br>
 
 
-## Videos
-### Matt Berry Hot Dog
-{{< youtube id="GdSnL40fMwg" title="Matt Berry Hot Dog" >}}<br>
-### More Videos
-
-- [Matt Berry Reach For The Ground](https://www.youtube.com/watch?v=OXXMPBAZtqc)
-- [Matt Berry Love Is A Fool](https://www.youtube.com/watch?v=oWoUrM_vTIM)
-- [Matt Berry Lay Your Love On Me](https://www.youtube.com/watch?v=V9udNVZvgiM)
-- [Matt Berry White Hood](https://www.youtube.com/watch?v=0F8h93aSDbk)
-- [Matt Berry The Hangman](https://www.youtube.com/watch?v=HSkODv3jjME)
-- [Matt Berry Jet Setter](https://www.youtube.com/watch?v=3GAas03g84c)
-- [Matt Berry One More Hit](https://www.youtube.com/watch?v=gXRX2PqPRiM)
-- [Matt Berry Introduction](https://www.youtube.com/watch?v=pwHaQ_eUcK8)
-- [Matt Berry Love Is A Fool Again](https://www.youtube.com/watch?v=NOk4HESVWOk)
-- [Matt Berry Opium](https://www.youtube.com/watch?v=yjVw8wg4J5o)
-- [Matt Berry Hot Dog](https://www.youtube.com/watch?v=GdSnL40fMwg)
-- [Matt Berry Reach For The Ground](https://www.youtube.com/watch?v=OXXMPBAZtqc)
-- [Matt Berry Love Is A Fool](https://www.youtube.com/watch?v=oWoUrM_vTIM)
-- [Matt Berry Lay Your Love On Me](https://www.youtube.com/watch?v=V9udNVZvgiM)
-- [Matt Berry White Hood](https://www.youtube.com/watch?v=0F8h93aSDbk)
-- [Matt Berry The Hangman](https://www.youtube.com/watch?v=HSkODv3jjME)
-- [Matt Berry Jet Setter](https://www.youtube.com/watch?v=3GAas03g84c)
-- [Matt Berry One More Hit](https://www.youtube.com/watch?v=gXRX2PqPRiM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +60,5 @@ For the illegal drug trade, the morphine is extracted from the opium latex, redu
 | Format         | Vinyl LP Album Limited Edition Numbered Repress (Orange) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP372 |
-| Notes | Limited to 500 numbered copies on orange vinyl, 100 copies were sold through retail, with the remaining 400 copies made available to those who attended Matt Berry's Feb. 13, 2015, gig at The Forum in London. Some copies are signed. Artwork is exclusive to this release only. |
+| Notes | Limited to 500 numbered copies on orange vinyl, 100 copies were sold through retail, with the remaining 400 copies made available to those who attended Matt Berry's Feb. 13, 2015, gig at The Forum in London.<br>Some copies are signed.<br>Artwork is exclusive to this release only. |
 | Discogs URL    | [Matt Berry - Opium](https://www.discogs.com/release/6666205-Matt-Berry-3-Opium) |

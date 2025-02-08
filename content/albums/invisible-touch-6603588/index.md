@@ -33,22 +33,21 @@ Invisible Touch was a worldwide success and reached No. 1 on the UK Albums Chart
 
 
 ## Tracklisting
-1. Invisible Touch
-2. Tonight, Tonight, Tonight
-3. Land Of Confusion
-4. In Too Deep
-5. Anything She Does
-6. Domino
-7. Throwing It All Away
-8. The Brazilian
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Invisible Touch |  |
+| A2 | Tonight, Tonight, Tonight |  |
+| A3 | Land Of Confusion |  |
+| A4 | In Too Deep |  |
+| B1 | Anything She Does |  |
+|  | Domino |  |
+| B3 | Throwing It All Away |  |
+| B4 | The Brazilian |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/invisible-touch-2007-remaster/396483774" >}}<br>
 
-
-## Videos
-### Genesis - Invisible Touch Official Music Video
-{{< youtube id="epOBenUjIHw" title="Genesis - Invisible Touch Official Music Video" >}}<br>
 
 
 ## Release Images
@@ -61,5 +60,5 @@ Invisible Touch was a worldwide success and reached No. 1 on the UK Albums Chart
 | Format         | Vinyl LP Album Stereo |
 | Label          | Virgin |
 | Catalog Number | GEN LP2 |
-| Notes | Written, recorded and mixed at The Farm, Surrey, 85/86.  Mastered at Masterdisc N.Y.C.  Sleeve produced at Assorted Images.  All tracks published by Anthony Banks Ltd / Philip Collins Ltd / Michael Rutherford Ltd / Hit and Run Music Publishing Ltd  Virgin Records.  ℗ 1986 Charisma Records Ltd. © 1986 Charisma Records Ltd.  Manufactured in the UK.  Glossy printed inner sleeve.  Not embossed or textured.  Single cat. no. followed by side indicator on label.  This version is almost identical to [r=10216464] but this has Masterdisk etched in the matrices.  Runouts are Etched, except "U-1-#" and "D" Stamped.  Direct Metal Mastering. |
+| Notes | Written, recorded and mixed at The Farm, Surrey, 85/86.<br><br>Mastered at Masterdisc N.Y.C.<br><br>Sleeve produced at Assorted Images.<br><br>All tracks published by Anthony Banks Ltd / Philip Collins Ltd / Michael Rutherford Ltd / Hit and Run Music Publishing Ltd<br><br>Virgin Records.<br><br>℗ 1986 Charisma Records Ltd. © 1986 Charisma Records Ltd.<br><br>Manufactured in the UK.<br><br>Glossy printed inner sleeve.<br><br>Not embossed or textured.<br><br>Single cat. no. followed by side indicator on label.<br><br>This version is almost identical to [r=10216464] but this has Masterdisk etched in the matrices.<br><br>Runouts are Etched, except "U-1-#" and "D" Stamped.<br><br>Direct Metal Mastering. |
 | Discogs URL    | [Genesis - Invisible Touch](https://www.discogs.com/release/6603588-Genesis-Invisible-Touch) |

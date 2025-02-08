@@ -1,6 +1,6 @@
 ---
-title: "Dr. John - Gris-Gris"
-artist_name: "Dr. John"
+title: "Dr John - Gris-Gris"
+artist_name: "Dr John"
 artist: "dr-john"
 album_name: "Gris-Gris"
 date: 2015-08-10T18:40:06.000000Z
@@ -10,8 +10,8 @@ slug: "gris-gris-4673220"
 hideSummary: true
 cover:
     image: "gris-gris-4673220.jpg"
-    alt: "Gris-Gris by Dr. John"
-    caption: "Gris-Gris by Dr. John"
+    alt: "Gris-Gris by Dr John"
+    caption: "Gris-Gris by Dr John"
 additional_images:
     - "https://i.discogs.com/wuWRVKBHyXmiDwmYo0CQJ5O75AjHZ2Rd-LoV6Z2JCQk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzMy/MjAtMTY4MDM2NDI1/OC0zMDUwLmpwZWc.jpeg"
     - "https://i.discogs.com/GeFXdhe-eCGfIOzNe9GBIRMSj-PWzqkpeeUbr_ebw1c/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzMy/MjAtMTY4MDM2NDI1/OC0zMDIzLmpwZWc.jpeg"
@@ -30,29 +30,21 @@ Gris-Gris failed to chart in the United Kingdom and the United States. It was re
 
 
 ## Tracklisting
-1. Gris-Gris Gumbo Ya Ya (5:34)
-2. Danse Kalinda Ba Doom (3:44)
-3. Mama Roux (2:55)
-4. Danse Fambeaux (4:53)
-5. Croker Courtbullion (5:57)
-6. Jump Sturdy (2:19)
-7. I Walk On Guilded Splinters (7:57)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Gris-Gris Gumbo Ya Ya | 5:34 |
+| A2 | Danse Kalinda Ba Doom | 3:44 |
+| A3 | Mama Roux | 2:55 |
+| A4 | Danse Fambeaux | 4:53 |
+| B1 | Croker Courtbullion | 5:57 |
+| B2 | Jump Sturdy | 2:19 |
+| B3 | I Walk On Guilded Splinters | 7:57 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gris-gris/106225386" >}}<br>
 
 
-## Videos
-### Gris-Gris Gumbo Ya Ya
-{{< youtube id="ijZUoSsnRPU" title="Gris-Gris Gumbo Ya Ya" >}}<br>
-### More Videos
-
-- [Danse Kalinda Ba Doom](https://www.youtube.com/watch?v=jKn6sUz7O0g)
-- [Mama Roux](https://www.youtube.com/watch?v=1tVFIXGWsmY)
-- [Danse Fambeaux](https://www.youtube.com/watch?v=apMbFM3UH0E)
-- [Croker Courtbullion](https://www.youtube.com/watch?v=HD8npKskEdo)
-- [Jump Sturdy](https://www.youtube.com/watch?v=KBPGqC27zqc)
-- [I Walk on Guilded Splinters](https://www.youtube.com/watch?v=lekQoT485aA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +56,5 @@ Gris-Gris failed to chart in the United Kingdom and the United States. It was re
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | ATCO Records |
 | Catalog Number | SD 33-234 |
-| Notes | Rhino 180gm re-issue with green custom sticker on front featuring "The debut album from Dr. John, The Night Tripper ...".  On back cover and labels: ℗© 1968 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured In EU. LC02982  Liner notes uncredited.  On runouts: All is etched Last code (after MK) is mirrored   |
-| Discogs URL    | [Dr. John - Gris-Gris](https://www.discogs.com/release/4673220-Dr-JohnNight-Tripper-Gris-Gris) |
+| Notes | Rhino 180gm re-issue with green custom sticker on front featuring "The debut album from Dr. John, The Night Tripper ...".<br><br>On back cover and labels:<br>℗© 1968 Atlantic Recording Corporation.<br>Marketed by Rhino Entertainment Company, a Warner Music Group Company.<br>Manufactured In EU. LC02982<br><br>Liner notes uncredited.<br><br>On runouts:<br>All is etched<br>Last code (after MK) is mirrored<br><br> |
+| Discogs URL    | [Dr John - Gris-Gris](https://www.discogs.com/release/4673220-Dr-JohnNight-Tripper-Gris-Gris) |

@@ -25,42 +25,24 @@ The peerless indie trio’s first LP in a decade is 33 minutes of pure, lean, ho
 
 
 ## Tracklisting
-1. Price Tag
-2. Fangless
-3. Surface Envy
-4. No Cities To Love
-5. A New Wave
-6. No Anthems
-7. Gimme Love
-8. Bury Our Friends
-9. Hey Darling
-10. Fade
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Price Tag |  |
+| A2 | Fangless |  |
+| A3 | Surface Envy |  |
+| A4 | No Cities To Love |  |
+| A5 | A New Wave |  |
+| B1 | No Anthems |  |
+| B2 | Gimme Love |  |
+| B3 | Bury Our Friends |  |
+| B4 | Hey Darling |  |
+| B5 | Fade |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-cities-to-love/927171224" >}}<br>
 
 
-## Videos
-### Sleater-Kinney - No Cities To Love
-{{< youtube id="Cj2k3QsHmyM" title="Sleater-Kinney - No Cities To Love" >}}<br>
-### More Videos
-
-- [Sleater-Kinney - Price Tag](https://www.youtube.com/watch?v=TWc6knXULsw)
-- [Sleater-Kinney - Fangless](https://www.youtube.com/watch?v=kV5ezv1yg0c)
-- [Sleater-Kinney - No Cities to Love](https://www.youtube.com/watch?v=_jiX-Svw7KQ)
-- [Sleater-Kinney - A New Wave OFFICIAL VIDEO](https://www.youtube.com/watch?v=Kc1htX3q-F0)
-- [Sleater-Kinney - No Cities To Love](https://www.youtube.com/watch?v=Cj2k3QsHmyM)
-- [Sleater-Kinney - No Cities to Love](https://www.youtube.com/watch?v=_jiX-Svw7KQ)
-- [Sleater-Kinney perform No Cities To Love Live on Sound Opinions](https://www.youtube.com/watch?v=k16RIk7C1HE)
-- [Sleater-Kinney - No Cities to Love Live](https://www.youtube.com/watch?v=Fbf9C7f_eRs)
-- [Sleater-Kinney - No Cities To Love ALBUM REVIEW](https://www.youtube.com/watch?v=O-U2u1zZEeo)
-- [Sleater-Kinney - No Cities to Love  Live in San Francisco](https://www.youtube.com/watch?v=VliouU1NJlI)
-- [Sleater-Kinney - No Cities To Love  KZradio Version](https://www.youtube.com/watch?v=7BhQjgSVfs4)
-- [Sleater Kinney - No Cities To Love - The Roundhouse London - 23031](https://www.youtube.com/watch?v=5AyhgrDYi84)
-- [Sleater-Kinney No Cities To Love Live at First Avenue](https://www.youtube.com/watch?v=1vTGjXOVai4)
-- [SLEATER-KINNEY No Cities To Love TERMINAL 5 NYC February 26 2015](https://www.youtube.com/watch?v=PJsIFgJeBRA)
-- [Sleater-Kinney - No Cities To Love Album](https://www.youtube.com/watch?v=UPwtJsXJcC8)
-- [Sleater Kinney -No Cities To Love](https://www.youtube.com/watch?v=x-e2BdHdB4E)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +54,5 @@ The peerless indie trio’s first LP in a decade is 33 minutes of pure, lean, ho
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Sub Pop |
 | Catalog Number | SP1100 |
-| Notes | Black vinyl edition, comes in a triple gatefold cover.    Includes a four page sheet with lyrics and credits and a coupon with free download code.   Exclusive Barnes & Noble edition with art print signed by the band.     All songs written by Sleater Kinney.  Code Word Nemesis (ASCAP)    ©℗ 2015 Sub Pop Records.    Back Cover Photograph: Eso, "Colour-Composite of the Sky Field with Several High-Redshift Galaxies"   |
+| Notes | Black vinyl edition, comes in a triple gatefold cover.  <br>Includes a four page sheet with lyrics and credits and a coupon with free download code. <br>Exclusive Barnes & Noble edition with art print signed by the band. <br><br>All songs written by Sleater Kinney.<br>Code Word Nemesis (ASCAP)<br><br>©℗ 2015 Sub Pop Records.<br><br>Back Cover Photograph: Eso, "Colour-Composite of the Sky Field with Several High-Redshift Galaxies"<br> |
 | Discogs URL    | [Sleater-Kinney - No Cities To Love](https://www.discogs.com/release/7761945-Sleater-Kinney-No-Cities-To-Love) |

@@ -4,6 +4,7 @@ artist_name: "Daft Punk"
 artist: "daft-punk"
 album_name: "Discovery = ディスカバリー"
 date: 2024-12-17T10:26:02.000000Z
+release_date: ""
 release_id: "32515302"
 slug: "discovery-32515302"
 hideSummary: true
@@ -32,43 +33,33 @@ styles: ["House"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. One More Time = ワン・モア・タイム
-2. Aerodynamic = エアロダイナミック
-3. Digital Love = デジタル・ラブ
-4. Harder, Better, Faster, Stronger = 仕事は終わらない
-5. Crescendolls = クレッシェンドールズ
-6. Nightvision = ナイトビジョン
-7. Superheroes = スーパーヒーロー
-8. High Life = ハイ・ライフ
-9. Something About Us = 愛の絆
-10. Voyager = ボイジャー
-11. Veridis Quo = ヴェリディス・クオ
-12. Short Circuit = ショート・サーキット
-13. Face To Face = 素顔で向き合えば
-14. Too Long = 自由をこの手に
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | One More Time = ワン・モア・タイム |  |
+| A2 | Aerodynamic = エアロダイナミック |  |
+| A3 | Digital Love = デジタル・ラブ |  |
+| B1 | Harder, Better, Faster, Stronger = 仕事は終わらない |  |
+| B2 | Crescendolls = クレッシェンドールズ |  |
+| B3 | Nightvision = ナイトビジョン |  |
+| B4 | Superheroes = スーパーヒーロー |  |
+| C1 | High Life = ハイ・ライフ |  |
+| C2 | Something About Us = 愛の絆 |  |
+| C3 | Voyager = ボイジャー |  |
+| C4 | Veridis Quo = ヴェリディス・クオ |  |
+| D1 | Short Circuit = ショート・サーキット |  |
+| D2 | Face To Face = 素顔で向き合えば |  |
+| D3 | Too Long = 自由をこの手に |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Daft Punk - One More Time Official Video
-{{< youtube id="FGBhQbmPwH8" title="Daft Punk - One More Time Official Video" >}}<br>
-### More Videos
 
-- [Daft Punk - Aerodynamic Official Video](https://www.youtube.com/watch?v=L93-7vRfxNs)
-- [Daft Punk - Digital Love Official Video](https://www.youtube.com/watch?v=FxzBvqY5PP0)
-- [Daft Punk - Harder Better Faster Stronger Official Video](https://www.youtube.com/watch?v=gAjR4_CbPpQ)
-- [Daft Punk - Crescendolls Official Video](https://www.youtube.com/watch?v=6S3ISlvlEbs)
-- [Daft Punk - Nightvision Official Video](https://www.youtube.com/watch?v=xBTqRd09y3E)
-- [Daft Punk - Superheroes Official Video](https://www.youtube.com/watch?v=bRt5z880CFY)
-- [Daft Punk - High Life Official Video](https://www.youtube.com/watch?v=HoQN7K6HdRw)
-- [Daft Punk - Something About Us Official Video](https://www.youtube.com/watch?v=sOS9aOIXPEk)
-- [Daft Punk - Voyager Official Video](https://www.youtube.com/watch?v=CqZgd6-xQl8)
-- [Daft Punk - Veridis Quo Official Video](https://www.youtube.com/watch?v=HhZaHf8RP6g)
-- [Daft Punk - Short Circuit Official Video](https://www.youtube.com/watch?v=1-yzqgwTVi8)
-- [Daft Punk - Face to Face Official Video](https://www.youtube.com/watch?v=dKJfJMMsqX4)
-- [Daft Punk - Too Long Official Video](https://www.youtube.com/watch?v=Z6_ZNW1DACE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +70,5 @@ styles: ["House"]
 | Format         | Vinyl 2× LP Album Limited Edition Reissue |
 | Label          | Daft Life |
 | Catalog Number | 0085365227255 |
-| Notes | 2024 reissue designed to recreate 2002 Japanese variant [r148392]. Limited-edition gold pressing here: [r=32560179]  The release comes in a tip-on gatefold jacket featuring artwork tying into the group’s collaboration with Leiji Matsumoto and Toei Animation and sporting an obi strip with release info (updated to reflect changes to this particular release).  The set contains the album, its liner notes on a 4-page insert, a 12”x12” sticker sheet, a Japanese language insert, and a Daft Club membership card, with an unique number to input on the corresponding website, brought back online on December 2024.  Disc labels feature the text 見本/非売品 (Sample/Not for sale).  Hype sticker text: daft punk  Discovery Japanese Edition First Reissue Double Vinyl Includes Daft Club Card + Stickers  Obi Strip Text Translated  DAFT PUNK DISCOVERY Completely Limited Edition A futuristic project proposed to Daft Punk. The history of music will be reborn here. DAFT PUNK DISCOVERY access to free content provided on the internet DAFT CLUB membership card included for free includes a Japanese translation of the initial instructions for registering as a member of the DAFT CLUB! The Japanese Version includes a message from Daft Punk to their Japanese fans! The Japanese Version  In response to ethusiastic requests, the masterpiece album "Discovery," which heated up the club scene at the dawn of the 21st century, is finally being  released on vinyl for the first time in Japan!  In addition to the luxurious two-disc set, the album also includes the first and second illustration jackets (from the music video by  Reiji Matsumoto) that are familiar from the Japanese CD Version A must-have specification featuring both!   2 disc set  Regular price 3,500 yen (base price 3,333 yen)  Until 02/09/26  [What is DAFT CLUB?] Daft Punk, Who have been making waves with their explove hit "One More Time," their music video production with Reiji Matsumoto, and their shocking android look, have discovered a groundbreaking concept that breaks the conventional wisdom of the music industry! This album comes with a credit card-sized DAFT CLUB membership card (also known as a DAFT CARD, valid until  December 2002) that is engraved with a unique 16-digit number.  if you access DAFT CLUB on the internet and register as a member using this number, you can download a program called DAFT PLAYER. Once you have completed the registration process, a dream world awaits you: you can download remixes and other  enjoyable content provided by Daft Punk themselves, free of charge. "Discovery" is not complete with the 14 songs on this album....  You grow it!  DAFT CLUB Supported OS WINDOWS 98/2000 (as of March 2002)  Commentary, lyrics and translation included.  Limited to 25000 Copies.   Made in Germany. |
+| Notes | 2024 reissue designed to recreate 2002 Japanese variant [r148392].<br>Limited-edition gold pressing here: [r=32560179]<br><br>The release comes in a tip-on gatefold jacket featuring artwork tying into the group’s collaboration with Leiji Matsumoto and Toei Animation and sporting an obi strip with release info (updated to reflect changes to this particular release). <br>The set contains the album, its liner notes on a 4-page insert, a 12”x12” sticker sheet, a Japanese language insert, and a Daft Club membership card, with an unique number to input on the corresponding website, brought back online on December 2024.<br><br>Disc labels feature the text 見本/非売品 (Sample/Not for sale).<br><br>Hype sticker text:<br>daft punk <br>Discovery<br>Japanese Edition First Reissue<br>Double Vinyl<br>Includes Daft Club Card + Stickers<br><br>Obi Strip Text Translated <br>DAFT PUNK<br>DISCOVERY<br>Completely Limited Edition<br>A futuristic project proposed to Daft Punk. The history of music will be reborn here.<br>DAFT PUNK DISCOVERY<br>access to free content provided on the internet<br>DAFT CLUB membership card included for free<br>includes a Japanese translation of the initial instructions for registering as a member of the DAFT CLUB!<br>The Japanese Version includes a message from Daft Punk to their Japanese fans! The Japanese Version<br><br>In response to ethusiastic requests, the masterpiece<br>album "Discovery," which heated up the club<br>scene at the dawn of the 21st century, is finally being <br>released on vinyl for the first time in Japan! <br>In addition to the luxurious two-disc set, the album also includes<br>the first and second illustration jackets (from the music video by <br>Reiji Matsumoto) that are familiar from the Japanese CD Version<br>A must-have specification featuring both! <br><br>2 disc set<br><br>Regular price 3,500 yen (base price 3,333 yen) <br>Until 02/09/26<br><br>[What is DAFT CLUB?]<br>Daft Punk, Who have been making waves with their<br>explove hit "One More Time," their music video<br>production with Reiji Matsumoto, and their shocking<br>android look, have discovered a groundbreaking<br>concept that breaks the conventional wisdom<br>of the music industry!<br>This album comes with a credit card-sized<br>DAFT CLUB membership card (also<br>known as a DAFT CARD, valid until <br>December 2002) that is engraved with<br>a unique 16-digit number.<br><br>if you access DAFT CLUB on the internet<br>and register as a member using this<br>number, you can download a program<br>called DAFT PLAYER.<br>Once you have completed the registration<br>process, a dream world awaits you:<br>you can download remixes and other <br>enjoyable content provided by Daft Punk<br>themselves, free of charge.<br>"Discovery" is not complete with the<br>14 songs on this album....<br><br>You grow it!<br><br>DAFT CLUB Supported OS<br>WINDOWS 98/2000 (as of March 2002)<br><br>Commentary, lyrics and translation included.<br><br>Limited to 25000 Copies. <br><br>Made in Germany. |
 | Discogs URL    | [Daft Punk - Discovery = ディスカバリー](https://www.discogs.com/release/32515302-Daft-Punk-ダフトパンク-Discovery-ディスカバリー) |

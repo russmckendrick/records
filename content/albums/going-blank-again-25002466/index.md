@@ -4,6 +4,7 @@ artist_name: "Ride"
 artist: "ride"
 album_name: "Going Blank Again"
 date: 2022-11-04T06:15:59.000000Z
+release_date: "1992-03-06"
 release_id: "25002466"
 slug: "going-blank-again-25002466"
 hideSummary: true
@@ -33,40 +34,30 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 Going Blank Again is the second studio album by English rock band Ride, released on 9 March 1992 on Creation Records. It was produced by Alan Moulder, and peaked at No. 5 in the UK Albums Chart. In October 2009 the album was certified gold by the British Phonographic Industry for sales of over 100,000 units.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Leave Them All Behind
-2. Twisterella
-3. Not Fazed
-4. Chrome Waves
-5. Mouse Trap
-6. Time Of Her Time
-7. Cool Your Boots
-8. Making Judy Smile
-9. Time Machine
-10. OX4
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Leave Them All Behind |  |
+| A2 | Twisterella |  |
+| B3 | Not Fazed |  |
+| B4 | Chrome Waves |  |
+| B5 | Mouse Trap |  |
+| C6 | Time Of Her Time |  |
+| C7 | Cool Your Boots |  |
+| C8 | Making Judy Smile |  |
+| D9 | Time Machine |  |
+| D10 | OX4 |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/going-blank-again/1621531296" >}}<br>
 
 
-## Videos
-### Ride - Leave Them All Behind
-{{< youtube id="gIsnb1TKYjE" title="Ride - Leave Them All Behind" >}}<br>
-### More Videos
-
-- [Ride - Twisterella](https://www.youtube.com/watch?v=qQ8y87YQDX4)
-- [Ride - Not Fazed](https://www.youtube.com/watch?v=KqOPgCFdO5E)
-- [Ride - Chrome Waves](https://www.youtube.com/watch?v=zzL_vKpqSXE)
-- [Ride - Mouse Trap](https://www.youtube.com/watch?v=fnVqqkMp6Ns)
-- [Ride - Time Of Her Time](https://www.youtube.com/watch?v=hNW4Pq-OIb4)
-- [Ride - Cool Your Boots](https://www.youtube.com/watch?v=3aFh4oTmIio)
-- [Ride - Making Judy Smile](https://www.youtube.com/watch?v=bnmnMAE0sCM)
-- [Ride - Time Machine](https://www.youtube.com/watch?v=5zdq_L4K64w)
-- [Ride - OX4](https://www.youtube.com/watch?v=57I0Lt0yalA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +69,5 @@ Going Blank Again is the second studio album by English rock band Ride, released
 | Format         | Vinyl 2× LP Album Reissue (Orange Transparent) |
 | Label          | Wichita |
 | Catalog Number | webb573lp |
-| Notes | ℗ 1992 Wichita Recordings Ltd., under exclusive license from Ride. © 2022 Wichita Recordings Ltd., under exclusive license from Ride. Release under exclusive license to [PIAS].  — Description of contents: Record comes with a gatefold jacket with gloss machine varnish: Left and right inner panel feature a single black and white photograph of the entire band. The record in standard weight comes in a black poly-lined inner sleeve. One of the inner sleeves features a sticker including a link and a code to retrieve digital files to the music. Also includes a single sided 12" x 12" insert featuring credits and lyrics.  — Hype sticker reads: "The band's clasic sophomore album  back in print on coloured vinyl  Featuring the singles Leave Them All Behind and Twisterella  Includes  full album download with  four bonus tracks  [cat#]"  — Additional information: • Catalog no. designated as "webblp573" on spine of record as well as record center labels and insert, meanwhile designated as "WEBB573LP" upon hype sticker and runout. • 'Original audio reworked and refined' • Tracklist is sequentially the way it appears on the backside of the record jacket. • Recorded at Chipping Norton Recording Studios by Alan Moulder and at Black Barn Studios, Ripley by Matt Oliver • Track C7: Dialogue [...] from withnail & I used by permission © 1987 handmade films (1985) partnership • The runout section features a cross out in the catalog number on all four sides: WEBB58̶73LP  Although not mentioned on the release, the bonus download tracks are "Going Blank Again", "Howard Hughes", "Stampede" (all from the Twisterella EP), and "Grasshopper" (from the Leave Them All Behind EP). |
+| Notes | ℗ 1992 Wichita Recordings Ltd., under exclusive license from Ride.<br>© 2022 Wichita Recordings Ltd., under exclusive license from Ride.<br>Release under exclusive license to [PIAS].<br><br>— Description of contents:<br>Record comes with a gatefold jacket with gloss machine varnish: Left and right inner panel feature a single black and white photograph of the entire band. The record in standard weight comes in a black poly-lined inner sleeve. One of the inner sleeves features a sticker including a link and a code to retrieve digital files to the music. Also includes a single sided 12" x 12" insert featuring credits and lyrics.<br><br>— Hype sticker reads:<br>"The band's clasic<br>sophomore album <br>back in print<br>on coloured vinyl<br><br>Featuring the singles<br>Leave Them All Behind<br>and Twisterella<br><br>Includes <br>full album download with <br>four bonus tracks<br><br>[cat#]"<br><br>— Additional information:<br>• Catalog no. designated as "webblp573" on spine of record as well as record center labels and insert, meanwhile designated as "WEBB573LP" upon hype sticker and runout.<br>• 'Original audio reworked and refined'<br>• Tracklist is sequentially the way it appears on the backside of the record jacket.<br>• Recorded at Chipping Norton Recording Studios by Alan Moulder and at Black Barn Studios, Ripley by Matt Oliver<br>• Track C7: Dialogue [...] from withnail & I used by permission © 1987 handmade films (1985) partnership<br>• The runout section features a cross out in the catalog number on all four sides: WEBB58̶73LP<br><br>Although not mentioned on the release, the bonus download tracks are "Going Blank Again", "Howard Hughes", "Stampede" (all from the Twisterella EP), and "Grasshopper" (from the Leave Them All Behind EP). |
 | Discogs URL    | [Ride - Going Blank Again](https://www.discogs.com/release/25002466-Ride-Going-Blank-Again) |

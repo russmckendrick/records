@@ -31,45 +31,24 @@ Spectral visions haunt Agnes Obel’s remarkable third studio album. You can hea
 
 
 ## Tracklisting
-1. Stretch Your Eyes
-2. Familiar
-3. Red Virgin Soil
-4. It's Happening Again
-5. Stone
-6. Trojan Horses
-7. Citizen Of Glass
-8. Golden Green
-9. Grasshopper
-10. Mary
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Stretch Your Eyes |  |
+| A2 | Familiar |  |
+| A3 | Red Virgin Soil |  |
+| A4 | It's Happening Again |  |
+| A5 | Stone |  |
+| B1 | Trojan Horses |  |
+| B2 | Citizen Of Glass |  |
+| B3 | Golden Green |  |
+| B4 | Grasshopper |  |
+| B5 | Mary |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/citizen-of-glass/1132114456" >}}<br>
 
 
-## Videos
-### Agnes Obel - Stretch your Eyes Official Audio
-{{< youtube id="N0mV1raPQ3o" title="Agnes Obel - Stretch your Eyes Official Audio" >}}<br>
-### More Videos
-
-- [Agnes Obel - Familiar Official Video](https://www.youtube.com/watch?v=32kYH6XZrIo)
-- [Agnes Obel - Red Virgin Soil Official Audio](https://www.youtube.com/watch?v=GalTlzwr3XU)
-- [Agnes Obel - Its Happening Again Official Video](https://www.youtube.com/watch?v=YT-ECHaz4PE)
-- [Agnes Obel - Stone Official Audio](https://www.youtube.com/watch?v=pyFmxA3ZyLE)
-- [Agnes Obel - Trojan Horses Official Audio](https://www.youtube.com/watch?v=-EYEOMj7TBk)
-- [Agnes Obel - Citizen Of Glass Official Audio](https://www.youtube.com/watch?v=IlIRIZSZtuc)
-- [Agnes Obel - Golden Green Official Video](https://www.youtube.com/watch?v=WRLVINLlEVE)
-- [Agnes Obel - Grasshopper Official Audio](https://www.youtube.com/watch?v=TMPRryoSny0)
-- [Agnes Obel - Mary Official Audio](https://www.youtube.com/watch?v=CoBT59xRElU)
-- [Agnes Obel - Stretch your Eyes Official Audio](https://www.youtube.com/watch?v=N0mV1raPQ3o)
-- [Agnes Obel - Familiar Official Video](https://www.youtube.com/watch?v=32kYH6XZrIo)
-- [Agnes Obel - Red Virgin Soil Official Audio](https://www.youtube.com/watch?v=GalTlzwr3XU)
-- [Agnes Obel - Its Happening Again Official Video](https://www.youtube.com/watch?v=YT-ECHaz4PE)
-- [Agnes Obel - Stone Official Audio](https://www.youtube.com/watch?v=pyFmxA3ZyLE)
-- [Agnes Obel - Trojan Horses Official Audio](https://www.youtube.com/watch?v=-EYEOMj7TBk)
-- [Agnes Obel - Citizen Of Glass Official Audio](https://www.youtube.com/watch?v=IlIRIZSZtuc)
-- [Agnes Obel - Golden Green Official Video](https://www.youtube.com/watch?v=WRLVINLlEVE)
-- [Agnes Obel - Grasshopper Official Audio](https://www.youtube.com/watch?v=TMPRryoSny0)
-- [Agnes Obel - Mary Official Audio](https://www.youtube.com/watch?v=CoBT59xRElU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +59,5 @@ Spectral visions haunt Agnes Obel’s remarkable third studio album. You can hea
 | Format         | Vinyl LP Album (180 Gram) |
 | Label          | [PIAS] |
 | Catalog Number | PIASR905LP |
-| Notes | Debossed gatefold sleeve with full lyrics and credits printed on inside. Includes download code for MP3 and/or FLAC digital copy of the album.  Dedicated to Ole.  (P) 2016 Agnes Obel (C) 2016 Agnes Obel. Under exclusive license to Play It Again Sam. All runouts etched.  |
+| Notes | Debossed gatefold sleeve with full lyrics and credits printed on inside.<br>Includes download code for MP3 and/or FLAC digital copy of the album.<br><br>Dedicated to Ole.<br><br>(P) 2016 Agnes Obel (C) 2016 Agnes Obel. Under exclusive license to Play It Again Sam.<br>All runouts etched.<br> |
 | Discogs URL    | [Agnes Obel - Citizen Of Glass](https://www.discogs.com/release/9218599-Agnes-Obel-Citizen-Of-Glass) |

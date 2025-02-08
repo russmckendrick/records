@@ -4,6 +4,7 @@ artist_name: "Rhoda Dakar"
 artist: "rhoda-dakar"
 album_name: "Version Girl"
 date: 2023-05-29T04:54:09.000000Z
+release_date: "2023-05-26"
 release_id: "27220650"
 slug: "version-girl-27220650"
 hideSummary: true
@@ -25,40 +26,31 @@ styles: ["Ska"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Version Girl (Version)
-2. Stop Your Sobbing
-3. Everyday Is Like Sunday
-4. What A Wonderful World
-5. Hangin' Round
-6. Song To The Siren
-7. Walking After Midnight
-8. The Man Who Sold The World
-9. Comme Un Arbre
-10. As Tears Go By
-11. Love Hurts
-12. Peace, Love And Understanding
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Version Girl (Version) |  |
+| A2 | Stop Your Sobbing |  |
+| A3 | Everyday Is Like Sunday |  |
+| A4 | What A Wonderful World |  |
+| A5 | Hangin' Round |  |
+| A6 | Song To The Siren |  |
+| B1 | Walking After Midnight |  |
+| B2 | The Man Who Sold The World |  |
+| B3 | Comme Un Arbre |  |
+| B4 | As Tears Go By |  |
+| B5 | Love Hurts |  |
+| B6 | Peace, Love And Understanding |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/version-girl/1656285954" >}}<br>
 
 
-## Videos
-### Version Girl
-{{< youtube id="j5NDG1pWwks" title="Version Girl" >}}<br>
-### More Videos
-
-- [Song to the Siren](https://www.youtube.com/watch?v=yJZgxeKLHyo)
-- [Hangin Round](https://www.youtube.com/watch?v=U7budhiLvw8)
-- [Stop Your Sobbing](https://www.youtube.com/watch?v=f_ACPp7rYec)
-- [Comme Un Arbre](https://www.youtube.com/watch?v=oGHxC-j_Rwo)
-- [Rhoda Dakar - What A Wonderful World Official Video](https://www.youtube.com/watch?v=V-nND6PpuRY)
-- [Everyday Is Like Sunday](https://www.youtube.com/watch?v=QJ2GSYYMAE0)
-- [A Wonderful Version](https://www.youtube.com/watch?v=KxXq9iyLhM0)
-- [Love Hurts](https://www.youtube.com/watch?v=pW7WD2Oz3LI)
-- [Rhoda Dakar - What A Wonderful World Official Lyric Video](https://www.youtube.com/watch?v=x7dcssR4mOo)
-- [As Tears Go By Official Video](https://www.youtube.com/watch?v=_Oj2V7nn5u0)
 
 ## Release Images
 {{< imageGrid >}}

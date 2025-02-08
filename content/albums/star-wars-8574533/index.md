@@ -1,9 +1,10 @@
 ---
 title: "John Williams - Star Wars"
 artist_name: "John Williams"
-artist: "john-williams-4"
+artist: "john-williams"
 album_name: "Star Wars"
 date: 2016-06-20T17:48:46.000000Z
+release_date: "2013-01-01"
 release_id: "8574533"
 slug: "star-wars-8574533"
 hideSummary: true
@@ -34,40 +35,36 @@ Solo: A Star Wars Story (Original Motion Picture Soundtrack) is the soundtrack a
 Walt Disney Records released the soundtrack album on May 25, 2018, and debuted at third position on soundtracks chart from UK's Official Charts Company. It further received positive response and Powell won the Film Music Composition of the Year award by the International Film Music Critics Association. It was followed by a deluxe edition release on November 20, 2020, that featured Williams' additional cues and unedited demos from the score, and a 2-LP vinyl album was published by Mondo in January 2021.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Main Title (5:20)
-2. Imperial Attack (6:10)
-3. Princess Leia's Theme (4:18)
-4. The Desert And The Robot Auction (2:51)
-5. Ben's Death And TIE Fighter Attack (3:46)
-6. The Little People Work (4:02)
-7. Rescue Of The Princess (4:46)
-8. Inner City (4:12)
-9. Cantina Band (2:44)
-10. The Land Of The Sandpeople (2:50)
-11. Mouse Robot And Blasting Off (4:01)
-12. The Return Home (2:46)
-13. The Walls Converge (4:37)
-14. The Princess Appears (4:04)
-15. The Last Battle (12:05)
-16. The Throne Room And End Title (5:28)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Main Title | 5:20 |
+| A2 | Imperial Attack | 6:10 |
+| A3 | Princess Leia's Theme | 4:18 |
+| A4 | The Desert And The Robot Auction | 2:51 |
+| B1 | Ben's Death And TIE Fighter Attack | 3:46 |
+| B2 | The Little People Work | 4:02 |
+| B3 | Rescue Of The Princess | 4:46 |
+| B4 | Inner City | 4:12 |
+| B5 | Cantina Band | 2:44 |
+| C1 | The Land Of The Sandpeople | 2:50 |
+| C2 | Mouse Robot And Blasting Off | 4:01 |
+| C3 | The Return Home | 2:46 |
+| C4 | The Walls Converge | 4:37 |
+| C5 | The Princess Appears | 4:04 |
+| D1 | The Last Battle | 12:05 |
+| D2 | The Throne Room And End Title | 5:28 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/john-williams-star-wars-suite-and-other-film-music/1452597883" >}}<br>
 
 
-## Videos
-### Star Wars - A New Hope 1977 Soundtrack - JOHN  WLLIAMS Full Vinyl Rip
-{{< youtube id="5HyEXrrihYE" title="Star Wars - A New Hope 1977 Soundtrack - JOHN  WLLIAMS Full Vinyl Rip" >}}<br>
-### More Videos
-
-- [John Williams - Main Title from Star Wars  London Symphony Orchestra](https://www.youtube.com/watch?v=YtyrRpGAg34)
-- [Star Wars Main Theme - John Williams London Symphony Orchestra](https://www.youtube.com/watch?v=vKmganWCdW0)
-- [Princess Leias Theme](https://www.youtube.com/watch?v=eyHOUMWw5_M)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +76,5 @@ Walt Disney Records released the soundtrack album on May 25, 2018, and debuted a
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Gold) |
 | Label          | 20th Century Records |
 | Catalog Number | FMW 37/8 |
-| Notes | First and third cat# from sleeve, second from label. Issued with insert with liner notes and list of London Symphony performers.  Limited edition gold-coloured vinyl. All music restored from the original masters. 180-gram double-LP gatefold.  Motion Picture Artwork, Photos and TM © & ℗ 1977 Lucasfilm Ltd., under exclusive license to Sony Classical, a division of Sony Music Entertainment. © 2015 Sony Music Entertainment. Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH. Made in the EU. Consists of previously released material.  [On labels:] ℗ 1977 Lucasfilm Ltd., under exclusive license to Sony Music Entertainment / © 2015 Sony Music Entertainment. / Motion Picture Artwork, Photos, TM © 2015 Lucasfilm Ltd. Published by Fox Fanfare Music, Inc. (BMI)  Recorded at Anvil Recording Studios, London, England (...) on March 5-16, 1977. Remixed at The Burbank Studios, Burbank, California |
+| Notes | First and third cat# from sleeve, second from label.<br>Issued with insert with liner notes and list of London Symphony performers.<br><br>Limited edition gold-coloured vinyl. All music restored from the original masters. 180-gram double-LP gatefold.<br><br>Motion Picture Artwork, Photos and TM © & ℗ 1977 Lucasfilm Ltd., under exclusive license to Sony Classical, a division of Sony Music Entertainment. © 2015 Sony Music Entertainment.<br>Distributed by Sony Music Entertainment. Sony Music Entertainment International Services GmbH. Made in the EU. Consists of previously released material.<br><br>[On labels:]<br>℗ 1977 Lucasfilm Ltd., under exclusive license to Sony Music Entertainment / © 2015 Sony Music Entertainment. / Motion Picture Artwork, Photos, TM © 2015 Lucasfilm Ltd.<br>Published by Fox Fanfare Music, Inc. (BMI)<br><br>Recorded at Anvil Recording Studios, London, England (...) on March 5-16, 1977.<br>Remixed at The Burbank Studios, Burbank, California |
 | Discogs URL    | [John Williams - Star Wars](https://www.discogs.com/release/8574533-John-Williams-4London-Symphony-Orchestra-Star-Wars) |

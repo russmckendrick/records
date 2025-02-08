@@ -1,9 +1,10 @@
 ---
 title: "Mötley Crüe - Dr. Feelgood"
 artist_name: "Mötley Crüe"
-artist: "m-tley-cr-e"
+artist: "motley-crue"
 album_name: "Dr. Feelgood"
 date: 2024-11-22T12:49:35.000000Z
+release_date: "1989-08-28"
 release_id: "32368842"
 slug: "dr-feelgood-32368842"
 hideSummary: true
@@ -31,33 +32,31 @@ styles: ["Hard Rock", "Glam"]
 
 "Dr. Feelgood" is a song by American heavy metal band Mötley Crüe. It was released as the lead single from their fifth studio album of the same name.
 "Dr. Feelgood" is Mötley Crüe's only gold single in the U.S. In 2009, it was ranked the 15th greatest hard rock song of all time by VH1.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. T.N.T (Terror 'N' Tinseltown) (0:43)
-2. Dr. Feelgood (4:50)
-3. Slice Of Your Pie (4:31)
-4. Rattlesnake Shake (3:40)
-5. Kickstart My Heart (4:42)
-6. Without You (4:30)
-7. Same Ol' Situation (S.O.S.) (4:13)
-8. Sticky Sweet (3:51)
-9. She Goes Down (4:37)
-10. Don't Go Away Mad (Just Go Away) (4:40)
-11. Time For Change (4:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | T.N.T (Terror 'N' Tinseltown) | 0:43 |
+| A2 | Dr. Feelgood | 4:50 |
+| A3 | Slice Of Your Pie | 4:31 |
+| A4 | Rattlesnake Shake | 3:40 |
+| A5 | Kickstart My Heart | 4:42 |
+| A6 | Without You | 4:30 |
+| B1 | Same Ol' Situation (S.O.S.) | 4:13 |
+| B2 | Sticky Sweet | 3:51 |
+| B3 | She Goes Down | 4:37 |
+| B4 | Don't Go Away Mad (Just Go Away) | 4:40 |
+| B5 | Time For Change | 4:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dr-feelgood/1764395673" >}}<br>
 
 
-## Videos
-### Mötley Crüe - Dr Feelgood Official Music Video
-{{< youtube id="trGX3ET3jTQ" title="Mötley Crüe - Dr Feelgood Official Music Video" >}}<br>
-### More Videos
-
-- [Motley Crue - Kickstart My Heart Official HD Remaster](https://www.youtube.com/watch?v=k0WHSYFY21w)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +68,5 @@ styles: ["Hard Rock", "Glam"]
 | Format         | Vinyl LP Album Limited Edition Reissue (35th Anniversary, Red & White Splatter, Lenticular Art Card Cover) |
 | Label          | BMG |
 | Catalog Number | 964054581 |
-| Notes | 1st cat# from spine, labels & hype sticker 2nd cat# from rear sleeve‘s under side  on inner:  © 1989 Printed in U.S.A.  on rear sleeve: ℗ & © 2024  Sticker on shrink foil: Made in Czech Republic This Comes with a Walmart Exclusive Sticker with Catalogue Number #964047701 It maybe worldwide as I purchased my copy in HMV in the UK with Walmart Sticker.   |
+| Notes | 1st cat# from spine, labels & hype sticker<br>2nd cat# from rear sleeve‘s under side<br><br>on inner: <br>© 1989<br>Printed in U.S.A.<br><br>on rear sleeve:<br>℗ & © 2024<br><br>Sticker on shrink foil: Made in Czech Republic<br>This Comes with a Walmart Exclusive Sticker with Catalogue Number #964047701<br>It maybe worldwide as I purchased my copy in HMV in the UK with Walmart Sticker.<br><br> |
 | Discogs URL    | [Mötley Crüe - Dr. Feelgood](https://www.discogs.com/release/32368842-Mötley-Crüe-Dr-Feelgood) |

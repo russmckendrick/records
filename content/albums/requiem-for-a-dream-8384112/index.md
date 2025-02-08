@@ -4,6 +4,7 @@ artist_name: "Clint Mansell"
 artist: "clint-mansell"
 album_name: "Requiem For A Dream"
 date: 2016-07-25T16:20:45.000000Z
+release_date: "2018-05-26"
 release_id: "8384112"
 slug: "requiem-for-a-dream-8384112"
 hideSummary: true
@@ -31,61 +32,59 @@ styles: ["Abstract", "Score", "Modern Classical", "Ambient"]
 Requiem for a Dream is a 2000 American psychological drama film directed by Darren Aronofsky and starring Ellen Burstyn, Jared Leto, Jennifer Connelly, Christopher McDonald, and Marlon Wayans. It is based on the 1978 novel of the same name by Hubert Selby Jr., with whom Aronofsky wrote the screenplay. The film depicts four characters affected by drug addiction and how it alters their physical and emotional states. Their addictions cause them to become imprisoned in a world of delusion and desperation. As the film progresses, each character deteriorates, and their delusions are shattered by the harsh reality of their situations, resulting in catastrophe.
 Selby's novel was optioned by Aronofsky and producer Eric Watson. Selby had always intended to adapt the novel into a film, and he had written a script years prior to Aronofsky approaching him. Aronofsky was enthusiastic about the story and developed the script with Selby, despite initial struggles to obtain funding for the film's production. He and the cast speak of the film being about addictions in general, and not just drugs, and how one’s attempts to fulfill their dreams can fuel an addiction with a theme of loneliness and avoidance of reality in different ways. Principal photography took place in Brooklyn, New York, from April to June 1999. During the post-production process, the music was composed by Clint Mansell while Jay Rabinowitz worked for editing.
 The film premiered at the 2000 Cannes Film Festival, selected as an out-of-competition entry, followed by the United States theatrical release on October 6, 2000, by Artisan Entertainment. The film grossed $7 million against a $4 million budget and received a positive response from critics. The film's visual style, direction, screenplay, editing, musical score, cast, emotional depth, and themes were all praised, with Burstyn receiving Academy Award and Golden Globe Award nominations for Best Actress.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Summer
-2. Summer Overture (2:36)
-3. Party (0:28)
-4. Coney Island Dreaming (1:04)
-5. Party (0:36)
-6. Chocolate Charms (0:25)
-7. Ghosts Of Things To Come (1:33)
-8. Dreams (0:44)
-9. Tense (0:37)
-10. Dr. Pill (0:42)
-11. High On Life (0:11)
-12. Ghosts (1:21)
-13. Crimin' & Dealin' (1:44)
-14. Hope Overture (2:31)
-15. Tense (0:28)
-16. Bialy & Lox Conga (0:45)
-17. Fall
-18. Cleaning Apartment (1:25)
-19. Ghosts-Falling (1:11)
-20. Dreams (1:02)
-21. Arnold (2:35)
-22. Marion Barfs (2:22)
-23. Supermarket Sweep (2:14)
-24. Dreams (0:32)
-25. Sara Goldfarb Has Left The Building (1:17)
-26. Bugs Got A Devilish Grin Conga (0:57)
-27. Winter
-28. Winter Overture (0:19)
-29. Southern Hospitality (1:23)
-30. Fear (2:26)
-31. Full Tense (1:04)
-32. The Beginning Of The End (4:28)
-33. Ghosts Of A Future Lost (1:50)
-34. Meltdown (3:55)
-35. Lux Aeterna (3:54)
-36. Coney Island Low (2:13)
-37. In The End It's All Nice
-38. Purple In The Morning, Blue In The Afternoon, Orange In The Evening, Green At Night (13:16)
-39. 30 Days To Revolutionize Your Life!!! 1-900-976-JUICE (6:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Summer |  |
+| A1 | Summer Overture | 2:36 |
+| A2 | Party | 0:28 |
+| A3 | Coney Island Dreaming | 1:04 |
+| A4 | Party | 0:36 |
+| A5 | Chocolate Charms | 0:25 |
+| A6 | Ghosts Of Things To Come | 1:33 |
+| A7 | Dreams | 0:44 |
+| A8 | Tense | 0:37 |
+| A9 | Dr. Pill | 0:42 |
+| A10 | High On Life | 0:11 |
+| A11 | Ghosts | 1:21 |
+| A12 | Crimin' & Dealin' | 1:44 |
+| A13 | Hope Overture | 2:31 |
+| A14 | Tense | 0:28 |
+| A15 | Bialy & Lox Conga | 0:45 |
+|  | Fall |  |
+| B1 | Cleaning Apartment | 1:25 |
+| B2 | Ghosts-Falling | 1:11 |
+| B3 | Dreams | 1:02 |
+| B4 | Arnold | 2:35 |
+| B5 | Marion Barfs | 2:22 |
+| B6 | Supermarket Sweep | 2:14 |
+| B7 | Dreams | 0:32 |
+| B8 | Sara Goldfarb Has Left The Building | 1:17 |
+| B9 | Bugs Got A Devilish Grin Conga | 0:57 |
+|  | Winter |  |
+| C1 | Winter Overture | 0:19 |
+| C2 | Southern Hospitality | 1:23 |
+| C3 | Fear | 2:26 |
+| C4 | Full Tense | 1:04 |
+| C5 | The Beginning Of The End | 4:28 |
+| C6 | Ghosts Of A Future Lost | 1:50 |
+| C7 | Meltdown | 3:55 |
+| C8 | Lux Aeterna | 3:54 |
+| C9 | Coney Island Low | 2:13 |
+|  | In The End It's All Nice |  |
+| D1 | Purple In The Morning, Blue In The Afternoon, Orange In The Evening, Green At Night | 13:16 |
+| D2 | 30 Days To Revolutionize Your Life!!! 1-900-976-JUICE | 6:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/requiem-for-a-dream-single/1383377592" >}}<br>
 
 
-## Videos
-### Requiem for a Dream 2000 Soundtrack Full Vinyl Rip
-{{< youtube id="B9S1nojrxCg" title="Requiem for a Dream 2000 Soundtrack Full Vinyl Rip" >}}<br>
-### More Videos
-
-- [Requiem for a Dream 2000 Soundtrack Full Vinyl Rip](https://www.youtube.com/watch?v=B9S1nojrxCg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -97,5 +96,5 @@ The film premiered at the 2000 Cannes Film Festival, selected as an out-of-compe
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Remastered |
 | Label          | Nonesuch |
 | Catalog Number | 553787-1 |
-| Notes | Soundtrack album from the movie Requiem For A Dream directed by Darren Aronofsky (2000). Recorded and mixed March 1-8, 2000 at Skywalker Sound, Marin County, CA.  Bialy & Lox Conga & Bugs Got A Devilish Grin Conga engineered, programmed and mixed at Plantain Recording House, New York City.  Originally mastered at SoundByte Productions, Inc., New York City.  Limited edition of 5000 copies. Packaged in heavy gatefold sleeve with insert and MP3 download card (listed under [r=8414457]).  Released as part of Record Store Day 2016, but subsequently sold via Nonesuch Store. |
+| Notes | Soundtrack album from the movie Requiem For A Dream directed by Darren Aronofsky (2000).<br>Recorded and mixed March 1-8, 2000 at Skywalker Sound, Marin County, CA.<br><br>Bialy & Lox Conga & Bugs Got A Devilish Grin Conga engineered, programmed and mixed at Plantain Recording House, New York City.<br><br>Originally mastered at SoundByte Productions, Inc., New York City.<br><br>Limited edition of 5000 copies.<br>Packaged in heavy gatefold sleeve with insert and MP3 download card (listed under [r=8414457]).<br><br>Released as part of Record Store Day 2016, but subsequently sold via Nonesuch Store. |
 | Discogs URL    | [Clint Mansell - Requiem For A Dream](https://www.discogs.com/release/8384112-Clint-Mansell-Featuring-Kronos-Quartet-Requiem-For-A-Dream) |

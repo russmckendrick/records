@@ -4,6 +4,7 @@ artist_name: "Paul Simon"
 artist: "paul-simon"
 album_name: "The Ultimate Collection"
 date: 2015-08-09T08:30:54.000000Z
+release_date: "2015-04-10"
 release_id: "6978849"
 slug: "the-ultimate-collection-6978849"
 hideSummary: true
@@ -25,34 +26,37 @@ styles: ["Folk Rock", "Pop Rock"]
 ---
 
 The Ultimate Collection is a greatest hits album by American folk singer Paul Simon. The album debuted at number one the UK Albums Chart and the Scottish Albums Chart, giving Simon his first UK chart topper since 1990. It was incorrectly marketed as the first album to include a selection of Simon & Garfunkel's best-known songs as well as the biggest hits of Simon's own solo career with the first compilation to do that being 2013's Over The Bridge Of Time: A Paul Simon Retrospective (1964-2011)
-    
+        
+        
     
 
 
 ## Tracklisting
-1. You Can Call Me Al
-2. Graceland
-3. Mrs. Robinson
-4. The Boxer
-5. Diamonds On The Soles Of Her Shoes
-6. 50 Ways To Leave Your Lover
-7. Cecilia
-8. Me And Julio Down By The Schoolyard
-9. The Boy In The Bubble
-10. The Only Living Boy In New York
-11. Mother And Child Reunion
-12. Late In The Evening
-13. Father And Daughter
-14. The Obvious Child
-15. Slip Slidin' Away
-16. America
-17. The Sound Of Silence
-18. Still Crazy After All These Years
-19. Bridge Over Troubled Water
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | You Can Call Me Al |  |
+| A2 | Graceland |  |
+| A3 | Mrs. Robinson |  |
+| A4 | The Boxer |  |
+| B1 | Diamonds On The Soles Of Her Shoes |  |
+| B2 | 50 Ways To Leave Your Lover |  |
+| B3 | Cecilia |  |
+| B4 | Me And Julio Down By The Schoolyard |  |
+| B5 | The Boy In The Bubble |  |
+| C1 | The Only Living Boy In New York |  |
+| C2 | Mother And Child Reunion |  |
+| C3 | Late In The Evening |  |
+| C4 | Father And Daughter |  |
+| C5 | The Obvious Child |  |
+| D1 | Slip Slidin' Away |  |
+| D2 | America |  |
+| D3 | The Sound Of Silence |  |
+| D4 | Still Crazy After All These Years |  |
+| D5 | Bridge Over Troubled Water |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/paul-simon-the-ultimate-collection/967293370" >}}<br>
-
 
 
 
@@ -66,5 +70,5 @@ The Ultimate Collection is a greatest hits album by American folk singer Paul Si
 | Format         | Vinyl 2× LP Compilation (180g) |
 | Label          | Sony Music |
 | Catalog Number | 88875085521 |
-| Notes | ℗ & © 2015 Sony Music Entertainment UK Limited. All trademarks and logos are protected. All rights reserved. Distributed by Sony Music Entertainment. Sony Music International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. Made in the EU.  Gatefold cover. Includes an eight page lyric booklet. |
+| Notes | ℗ & © 2015 Sony Music Entertainment UK Limited. All trademarks and logos are protected. All rights reserved.<br>Distributed by Sony Music Entertainment.<br>Sony Music International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.<br>Made in the EU.<br><br>Gatefold cover.<br>Includes an eight page lyric booklet. |
 | Discogs URL    | [Paul Simon - The Ultimate Collection](https://www.discogs.com/release/6978849-Paul-Simon-The-Ultimate-Collection) |

@@ -4,6 +4,7 @@ artist_name: "Gary Numan"
 artist: "gary-numan"
 album_name: "Intruder"
 date: 2021-05-21T07:27:42.000000Z
+release_date: "2021-05-21"
 release_id: "18815773"
 slug: "intruder-18815773"
 hideSummary: true
@@ -31,45 +32,33 @@ styles: ["Industrial"]
 ---
 
 Intruder is the nineteenth studio album by English musician Gary Numan, released on 21 May 2021 by BMG and The End. It entered UK Albums Chart at number two, on 28 May 2021.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Betrayed
-2. The Gift
-3. I Am Screaming
-4. Intruder
-5. Is This World Not Enough
-6. A Black Sun
-7. The Chosen
-8. And It Breaks Me Again
-9. Saints And Liars
-10. Now And Forever
-11. The End Of Dragons
-12. When You Fall 
-13. The End Of Dragons (Alt) 
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Betrayed |  |
+| A2 | The Gift |  |
+| A3 | I Am Screaming |  |
+| A4 | Intruder |  |
+| B1 | Is This World Not Enough |  |
+| B2 | A Black Sun |  |
+| B3 | The Chosen |  |
+| C1 | And It Breaks Me Again |  |
+| C2 | Saints And Liars |  |
+| C3 | Now And Forever |  |
+| D1 | The End Of Dragons |  |
+| D2 | When You Fall  |  |
+| D3 | The End Of Dragons (Alt)  |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/intruder/1566837719" >}}<br>
 
 
-## Videos
-### Gary Numan - Intruder Official Video
-{{< youtube id="-RxebQuFgJY" title="Gary Numan - Intruder Official Video" >}}<br>
-### More Videos
-
-- [Gary Numan -  Is This World Not Enough Official Audio](https://www.youtube.com/watch?v=HzPAQCQdozw)
-- [Gary Numan - The End of Dragons Official Audio](https://www.youtube.com/watch?v=k9x_maPw0DE)
-- [Gary Numan - The Gift Official Audio](https://www.youtube.com/watch?v=T4YhOnS6ItI)
-- [Gary Numan - A Black Sun Official Audio](https://www.youtube.com/watch?v=lIdlve4SsIg)
-- [Gary Numan -  And It Breaks Me Again Official Audio](https://www.youtube.com/watch?v=Gd7dsGwkUzU)
-- [Gary Numan - When You Fall Official Audio](https://www.youtube.com/watch?v=ODoOq93YDLo)
-- [Gary Numan - The End of Dragons Alt Official Audio](https://www.youtube.com/watch?v=unsbaAOUTLA)
-- [Gary Numan - The Chosen Official Audio](https://www.youtube.com/watch?v=0RUoHaxC48o)
-- [Gary Numan - Now And Forever Official Audio](https://www.youtube.com/watch?v=Pb9ADQTk7J8)
-- [Gary Numan - I Am Screaming Official Audio](https://www.youtube.com/watch?v=tvO_BpzlV8E)
-- [Gary Numan -  Betrayed Official Audio](https://www.youtube.com/watch?v=Vh8ITj24rKk)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "Elephant Gym"
 artist: "elephant-gym"
 album_name: "Underwater"
 date: 2019-08-15T17:59:55.000000Z
+release_date: "2018-10-05"
 release_id: "13413825"
 slug: "underwater-13413825"
 hideSummary: true
@@ -29,35 +30,33 @@ styles: ["Math Rock"]
 An underwater environment is a environment of, and immersed in, liquid water in a natural or artificial feature (called a body of water), such as an ocean, sea, lake, pond, reservoir, river, canal, or aquifer. Some characteristics of the underwater environment are universal, but many depend on the local situation.
 Liquid water has been present on Earth for most of the history of the planet. The underwater environment is thought to be the place of the origin of life on Earth, and it remains the ecological region most critical to the support of life and the natural habitat of the majority of living organisms. Several branches of science are dedicated to the study of this environment or specific parts or aspects of it.
 A number of human activities are conducted in the more accessible parts of the underwater environment. These include research, underwater diving for work or recreation, and underwater warfare with submarines. It is hostile to humans in many ways and often inaccessible, and therefore relatively little explored.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Shower
-2. Underwater
-3. Satellite
-4. Half Asleep
-5. Bad Dream
-6. Half
-7. Shell
-8. Lake
-9. Quilt
-10. Walk
-11. Speechless
-12. Moonset
-13. Midway [Rgry Remix]
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Shower |  |
+| A2 | Underwater |  |
+| A3 | Satellite |  |
+| A4 | Half Asleep |  |
+| A5 | Bad Dream |  |
+| A6 | Half |  |
+| A7 | Shell |  |
+| B8 | Lake |  |
+| B9 | Quilt |  |
+| B10 | Walk |  |
+| B11 | Speechless |  |
+| B12 | Moonset |  |
+| B13 | Midway [Rgry Remix] |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/%E6%B0%B4%E5%BA%95/1613718805" >}}<br>
 
 
-## Videos
-### Elephant Gym - Underwater - Full Album - 2018
-{{< youtube id="oAwNf9Zy2UU" title="Elephant Gym - Underwater - Full Album - 2018" >}}<br>
-### More Videos
-
-- [Elephant Gym - Underwater - Full Album - 2018](https://www.youtube.com/watch?v=oAwNf9Zy2UU)
 
 ## Release Images
 {{< imageGrid >}}

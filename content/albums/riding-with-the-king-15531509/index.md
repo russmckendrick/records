@@ -1,16 +1,17 @@
 ---
-title: "B.B. King - Riding With The King"
-artist_name: "B.B. King"
-artist: "b-b-king"
+title: "BB King - Riding With The King"
+artist_name: "BB King"
+artist: "bb-king"
 album_name: "Riding With The King"
 date: 2020-06-26T11:27:48.000000Z
+release_date: "2000-06-12"
 release_id: "15531509"
 slug: "riding-with-the-king-15531509"
 hideSummary: true
 cover:
     image: "riding-with-the-king-15531509.jpg"
-    alt: "Riding With The King by B.B. King"
-    caption: "Riding With The King by B.B. King"
+    alt: "Riding With The King by BB King"
+    caption: "Riding With The King by BB King"
 additional_images:
     - "https://i.discogs.com/Bc1HWlfN1PTTL5YYWB8hTP-ubptAiAXD-FHw-Ol_rco/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMx/NTA5LTE1OTMxMTU0/NTEtNzU5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/fL6AUawjftf_pYx_v1d_TzEDg_umvYiaSbI7xx7FREQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMx/NTA5LTE1OTMzODUx/NTYtODE3NC5wbmc.jpeg"
@@ -31,29 +32,32 @@ Riding with the King is a collaborative album by B.B. King and Eric Clapton that
 The album was generally well received by reviewers, although some felt that it could have been better, and that the sound on the CD was too polished for a blues album.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Riding With The King (4:23)
-2. Ten Long Years (4:41)
-3. Key To The Highway (3:40)
-4. Marry You (4:59)
-5. Three O'Clock Blues (8:37)
-6. Help The Poor (5:05)
-7. I Wanna Be (4:46)
-8. Worried Life Blues (4:26)
-9. Days Of Old (3:00)
-10. When My Heart Beats Like A Hammer (7:08)
-11. Hold On I'm Coming (6:20)
-12. Come Rain Or Come Shine (4:10)
-13. Rollin' And Tumblin' (4:30)
-14. Let Me Love You Baby (5:07)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Riding With The King | 4:23 |
+| A2 | Ten Long Years | 4:41 |
+| A3 | Key To The Highway | 3:40 |
+| A4 | Marry You | 4:59 |
+| B1 | Three O'Clock Blues | 8:37 |
+| B2 | Help The Poor | 5:05 |
+| B3 | I Wanna Be | 4:46 |
+| C1 | Worried Life Blues | 4:26 |
+| C2 | Days Of Old | 3:00 |
+| C3 | When My Heart Beats Like A Hammer | 7:08 |
+| C4 | Hold On I'm Coming | 6:20 |
+| D1 | Come Rain Or Come Shine | 4:10 |
+| D2 | Rollin' And Tumblin' | 4:30 |
+| D3 | Let Me Love You Baby | 5:07 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/riding-with-the-king/1684357304" >}}<br>
-
 
 
 
@@ -67,5 +71,5 @@ The album was generally well received by reviewers, although some felt that it c
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Blue, 180 Gram, Gatefold) |
 | Label          | Reprise Records |
 | Catalog Number | 093624893417 |
-| Notes | 20th Anniversary Expanded Edition. Pressed on 180 Gram blue colored vinyl, featuring the unreleased tracks “Rollin' And Tumblin’” and “Let Me Love You Baby”.  “Rollin' And Tumblin’” songwriting credit is shown as “P.D.”, so unlinked credit used.  Made in the Netherlands |
-| Discogs URL    | [B.B. King - Riding With The King](https://www.discogs.com/release/15531509-BB-King-Eric-Clapton-Riding-With-The-King) |
+| Notes | 20th Anniversary Expanded Edition. Pressed on 180 Gram blue colored vinyl, featuring the unreleased tracks “Rollin' And Tumblin’” and “Let Me Love You Baby”.<br><br>“Rollin' And Tumblin’” songwriting credit is shown as “P.D.”, so unlinked credit used.<br><br>Made in the Netherlands |
+| Discogs URL    | [BB King - Riding With The King](https://www.discogs.com/release/15531509-BB-King-Eric-Clapton-Riding-With-The-King) |

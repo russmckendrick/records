@@ -4,6 +4,7 @@ artist_name: "Paris Angels"
 artist: "paris-angels"
 album_name: "Sundew"
 date: 2016-04-04T21:20:19.000000Z
+release_date: "1991-01-01"
 release_id: "661808"
 slug: "sundew-661808"
 hideSummary: true
@@ -27,48 +28,30 @@ Sundew is the debut album by Mancunian band Paris Angels, released by Virgin Rec
 Despite lacking a hit single, the album reached number 37 on the UK Albums Chart, although general public indifference was a result of the Madchester scene losing popularity, and the band were dropped from Virgin after the label was sold to EMI in 1992, causing the band to split up and abandon their second album. Nonetheless, Sundew received acclaim from music critics, and today is regarded as a classic of its genre.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Eternity (3:21)
-2. Fade (3:58)
-3. Smile (3:32)
-4. Slippery Man (3:51)
-5. What Goes On (4:04)
-6. Perfume (Loved Up) (4:10)
-7. Louise (3:05)
-8. Breathless (5:34)
-9. Chaos (Stupid Stupid) (4:02)
-10. Purest Values (4:08)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Eternity | 3:21 |
+| A2 | Fade | 3:58 |
+| A3 | Smile | 3:32 |
+| A4 | Slippery Man | 3:51 |
+| A5 | What Goes On | 4:04 |
+| B1 | Perfume (Loved Up) | 4:10 |
+| B2 | Louise | 3:05 |
+| B3 | Breathless | 5:34 |
+| B4 | Chaos (Stupid Stupid) | 4:02 |
+| B5 | Purest Values | 4:08 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sundew/714532688" >}}<br>
 
 
-## Videos
-### Paris Angels - Eternity 1991
-{{< youtube id="XVyHvWFRlCo" title="Paris Angels - Eternity 1991" >}}<br>
-### More Videos
-
-- [Paris Angels - Fade](https://www.youtube.com/watch?v=AaSBOGRk2QI)
-- [Paris Angels - Smile](https://www.youtube.com/watch?v=r5UI4APVDkA)
-- [Paris Angels - Slippery Man 1991](https://www.youtube.com/watch?v=YcoIGguMLmw)
-- [Paris Angels - What Goes On](https://www.youtube.com/watch?v=XvNq53_7-NE)
-- [Paris Angels - Perfume Loved up audio only](https://www.youtube.com/watch?v=tK_d-DpHBnQ)
-- [Paris Angels - Breathless](https://www.youtube.com/watch?v=6Na_uds8r90)
-- [Paris Angels - Chaos Stupid Stupid](https://www.youtube.com/watch?v=5nP9We7LcxA)
-- [Paris Angels - Purest Values Audio](https://www.youtube.com/watch?v=VT1OMkGt6Dk)
-- [Paris Angels - Eternity 1991](https://www.youtube.com/watch?v=XVyHvWFRlCo)
-- [Paris Angels - Fade](https://www.youtube.com/watch?v=AaSBOGRk2QI)
-- [Paris Angels - Smile](https://www.youtube.com/watch?v=r5UI4APVDkA)
-- [Paris Angels - Slippery Man 1991](https://www.youtube.com/watch?v=YcoIGguMLmw)
-- [Paris Angels - What Goes On](https://www.youtube.com/watch?v=XvNq53_7-NE)
-- [Paris Angels - Perfume Loved up audio only](https://www.youtube.com/watch?v=tK_d-DpHBnQ)
-- [Paris Angels - Breathless](https://www.youtube.com/watch?v=6Na_uds8r90)
-- [Paris Angels - Chaos Stupid Stupid](https://www.youtube.com/watch?v=5nP9We7LcxA)
-- [Paris Angels - Purest Values Audio](https://www.youtube.com/watch?v=VT1OMkGt6Dk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +63,5 @@ Despite lacking a hit single, the album reached number 37 on the UK Albums Chart
 | Format         | Vinyl LP Album |
 | Label          | Virgin |
 | Catalog Number | V 2667 |
-| Notes | Laminated cover Inner sleeve with photo and credits  [Label] Manufactured by the UK |
+| Notes | Laminated cover<br>Inner sleeve with photo and credits<br><br>[Label]<br>Manufactured by the UK |
 | Discogs URL    | [Paris Angels - Sundew](https://www.discogs.com/release/661808-Paris-Angels-Sundew) |

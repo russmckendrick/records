@@ -39,33 +39,23 @@ But the newest touch comes at the end. The tender, midtempo song “This Must Be
 
 
 ## Tracklisting
-1. Burning Down The House (4:00)
-2. Making Flippy Floppy (4:36)
-3. Girlfriend Is Better (4:25)
-4. Slippery People (3:30)
-5. I Get Wild / Wild Gravity (4:06)
-6. Swamp (5:09)
-7. Moon Rocks (5:04)
-8. Pull Up The Roots (5:08)
-9. This Must Be The Place (Naive Melody) (4:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Burning Down The House | 4:00 |
+| A2 | Making Flippy Floppy | 4:36 |
+| A3 | Girlfriend Is Better | 4:25 |
+| A4 | Slippery People | 3:30 |
+| A5 | I Get Wild / Wild Gravity | 4:06 |
+| B1 | Swamp | 5:09 |
+| B2 | Moon Rocks | 5:04 |
+| B3 | Pull Up The Roots | 5:08 |
+| B4 | This Must Be The Place (Naive Melody) | 4:56 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/speaking-in-tongues/300202199" >}}<br>
 
 
-## Videos
-### Talking Heads - Burning Down the House Official Video
-{{< youtube id="_3eC35LoF4U" title="Talking Heads - Burning Down the House Official Video" >}}<br>
-### More Videos
-
-- [Talking Heads - This Must Be the Place Official Audio](https://www.youtube.com/watch?v=3ffD8_-s1TQ)
-- [Making Flippy Floppy](https://www.youtube.com/watch?v=NpdT178afp0)
-- [Girlfriend Is Better](https://www.youtube.com/watch?v=OL_uB_4RlJQ)
-- [Slippery People](https://www.youtube.com/watch?v=JwMb06BiB9o)
-- [I Get Wild  Wild Gravity](https://www.youtube.com/watch?v=OPUVGuUPfVM)
-- [Swamp](https://www.youtube.com/watch?v=NBKG2juWANI)
-- [Moon Rocks](https://www.youtube.com/watch?v=MBPhsUfzkiU)
-- [Pull up the Roots](https://www.youtube.com/watch?v=nYWt_U43M9Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +67,5 @@ But the newest touch comes at the end. The tender, midtempo song “This Must Be
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Blue) |
 | Label          | Rhino Records (2) |
 | Catalog Number | RCV1-23883 |
-| Notes | "Start Your Ear Off Right" 2021 repress from Rhino on blue vinyl, exclusive to indie retailers.  Made in Germany.   Limited edition of 4,500 copies. |
+| Notes | "Start Your Ear Off Right" 2021 repress from Rhino on blue vinyl, exclusive to indie retailers. <br>Made in Germany. <br><br>Limited edition of 4,500 copies. |
 | Discogs URL    | [Talking Heads - Speaking In Tongues](https://www.discogs.com/release/16799757-Talking-Heads-Speaking-In-Tongues) |

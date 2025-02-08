@@ -4,6 +4,7 @@ artist_name: "Tom Waits"
 artist: "tom-waits"
 album_name: "Mule Variations"
 date: 2017-12-15T15:21:35.000000Z
+release_date: "2009-10-05"
 release_id: "11280851"
 slug: "mule-variations-11280851"
 hideSummary: true
@@ -28,44 +29,36 @@ styles: ["Abstract", "Art Rock", "Blues Rock"]
 
 Mule Variations is the thirteenth studio album by American musician Tom Waits, released on April 16, 1999, on the ANTI- label. It was Waits' first studio album in six years, following The Black Rider (1993). The album was backed by an extensive tour in Europe and North America during the summer and autumn of 1999, which was Waits' first proper tour since 1987. Other promotional stops included a solo performance on VH1 Storytellers.
 Mule Variations won a Grammy Award for Best Contemporary Folk Album and was nominated for Best Male Rock Performance for the track "Hold On". It has sold more than 500,000 copies worldwide. In 2012, the album was ranked number 416 on Rolling Stone's list of The 500 Greatest Albums of All Time.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Big In Japan (4:05)
-2. Lowside Of The Road (2:59)
-3. Hold On (5:33)
-4. Get Behind The Mule (6:52)
-5. House Where Nobody Lives (4:14)
-6. Cold Water (5:23)
-7. Pony (4:32)
-8. What's He Building? (3:20)
-9. Black Market Baby (5:02)
-10. Eyeball Kid (4:25)
-11. Picture In A Frame (3:39)
-12. Chocolate Jesus (3:55)
-13. Georgia Lee (4:24)
-14. Filipino Box Spring Hog (3:09)
-15. Take It With Me (4:24)
-16. Come On Up To The House (4:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Big In Japan | 4:05 |
+| A2 | Lowside Of The Road | 2:59 |
+| A3 | Hold On | 5:33 |
+| A4 | Get Behind The Mule | 6:52 |
+| B1 | House Where Nobody Lives | 4:14 |
+| B2 | Cold Water | 5:23 |
+| B3 | Pony | 4:32 |
+| B4 | What's He Building? | 3:20 |
+| C1 | Black Market Baby | 5:02 |
+| C2 | Eyeball Kid | 4:25 |
+| C3 | Picture In A Frame | 3:39 |
+| C4 | Chocolate Jesus | 3:55 |
+| D1 | Georgia Lee | 4:24 |
+| D2 | Filipino Box Spring Hog | 3:09 |
+| D3 | Take It With Me | 4:24 |
+| D4 | Come On Up To The House | 4:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tom-waits-mini-biography/335710864" >}}<br>
 
 
-## Videos
-### Tom Waits - Hold On
-{{< youtube id="0P5jV4lHHR0" title="Tom Waits - Hold On" >}}<br>
-### More Videos
-
-- [Tom Waits - Get Behind The Mule](https://www.youtube.com/watch?v=O_v2HChe350)
-- [Tom Waits - Come On Up To The House](https://www.youtube.com/watch?v=wFrqclcm8pU)
-- [Tom Waits - Take It With Me](https://www.youtube.com/watch?v=dCiPaNWHB2U)
-- [Tom Waits - Big In Japan](https://www.youtube.com/watch?v=NM60iVDu79Y)
-- [Tom Waits - Cold Water](https://www.youtube.com/watch?v=NvUJtOWnCok)
-- [Tom Waits - Lowside Of The Road](https://www.youtube.com/watch?v=JKwXxSfNDEI)
-- [Tom Waits - Hold On](https://www.youtube.com/watch?v=3mSAfYomtr4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +70,5 @@ Mule Variations won a Grammy Award for Best Contemporary Folk Album and was nomi
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 gram, Gatefold) |
 | Label          | Anti- |
 | Catalog Number | 6547-3 |
-| Notes | Hype sticker on front shrink: "Newly Remastered with Waits/Brennan"  Small white circular sticker: "Download Card Included 180 Gram"  Remastered 2017 version - remastering supervised by Waits/Brennan and Karl Derfler. Remastered at Infrasonic Mastering by Peter Lyman, assisted by Philip Rodriguez.  All songs recorded at Prairie Sun Recording Studios except 'Lowside Of The Road' recorded at Sputnik Sound.  Les Claypool, Larry LaLonde and Brain appears courtesy of Interscope Records  John Hammond and Charlie Musselwhite appear courtesy of Pointblank/Virgin Records America, Inc.  Marc Ribot appears courtesy of Atlantic Recording Corporation  © 1999 Jalma Music (ASCAP) |
+| Notes | Hype sticker on front shrink:<br>"Newly Remastered<br>with Waits/Brennan"<br><br>Small white circular sticker:<br>"Download Card Included<br>180 Gram"<br><br>Remastered 2017 version - remastering supervised by Waits/Brennan and Karl Derfler.<br>Remastered at Infrasonic Mastering by Peter Lyman, assisted by Philip Rodriguez.<br><br>All songs recorded at Prairie Sun Recording Studios except 'Lowside Of The Road' recorded at Sputnik Sound.<br><br>Les Claypool, Larry LaLonde and Brain appears courtesy of Interscope Records<br><br>John Hammond and Charlie Musselwhite appear courtesy of Pointblank/Virgin Records America, Inc.<br><br>Marc Ribot appears courtesy of Atlantic Recording Corporation<br><br>© 1999 Jalma Music (ASCAP) |
 | Discogs URL    | [Tom Waits - Mule Variations](https://www.discogs.com/release/11280851-Tom-Waits-Mule-Variations) |

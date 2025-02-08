@@ -4,6 +4,7 @@ artist_name: "Belly"
 artist: "belly"
 album_name: "Star"
 date: 2016-07-18T17:38:17.000000Z
+release_date: "1993-01-25"
 release_id: "8785855"
 slug: "star-8785855"
 hideSummary: true
@@ -35,63 +36,49 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Someone To Die For
-2. Angel
-3. Dusted
-4. Every Word
-5. Gepetto
-6. Witch
-7. Slow Dog
-8. Low Red Moon
-9. Feed The Tree
-10. Full Moon, Empty Heart
-11. White Belly
-12. Untogether
-13. Star
-14. Sad Dress
-15. Stay
-16. Someone To Die For (2:04)
-17. Angel (2:58)
-18. Dusted (2:48)
-19. Every Word (3:33)
-20. Gepetto (3:24)
-21. Witch (1:35)
-22. Slow Dog (4:02)
-23. Low Red Moon (5:32)
-24. Feed The Tree (3:29)
-25. Full Moon, Empty Heart (3:02)
-26. White Belly (3:36)
-27. Untogether (4:44)
-28. Star (1:27)
-29. Sad Dress (3:44)
-30. Stay (4:57)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Someone To Die For |  |
+| A2 | Angel |  |
+| A3 | Dusted |  |
+| A4 | Every Word |  |
+| B5 | Gepetto |  |
+| B6 | Witch |  |
+| B7 | Slow Dog |  |
+| B8 | Low Red Moon |  |
+| C9 | Feed The Tree |  |
+| C10 | Full Moon, Empty Heart |  |
+| C11 | White Belly |  |
+| C12 | Untogether |  |
+| D13 | Star |  |
+| D14 | Sad Dress |  |
+| D15 | Stay |  |
+| CD-1 | Someone To Die For | 2:04 |
+| CD-2 | Angel | 2:58 |
+| CD-3 | Dusted | 2:48 |
+| CD-4 | Every Word | 3:33 |
+| CD-5 | Gepetto | 3:24 |
+| CD-6 | Witch | 1:35 |
+| CD-7 | Slow Dog | 4:02 |
+| CD-8 | Low Red Moon | 5:32 |
+| CD-9 | Feed The Tree | 3:29 |
+| CD-10 | Full Moon, Empty Heart | 3:02 |
+| CD-11 | White Belly | 3:36 |
+| CD-12 | Untogether | 4:44 |
+| CD-13 | Star | 1:27 |
+| CD-14 | Sad Dress | 3:44 |
+| CD-15 | Stay | 4:57 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/star/1450116246" >}}<br>
 
 
-## Videos
-### Belly - Someone To Die For
-{{< youtube id="B8w0B0EKy_4" title="Belly - Someone To Die For" >}}<br>
-### More Videos
-
-- [Angel](https://www.youtube.com/watch?v=QR6LsLhxYrs)
-- [Belly - Dusted](https://www.youtube.com/watch?v=OuvpQiyBTSs)
-- [Belly - Every Word](https://www.youtube.com/watch?v=AEH0mxpfL4Y)
-- [Belly - Gepetto](https://www.youtube.com/watch?v=KtNAzcRNF4k)
-- [Belly - Witch](https://www.youtube.com/watch?v=vUFAjBeFbls)
-- [Belly - Slow Dog](https://www.youtube.com/watch?v=BqwjWrTIT8Q)
-- [Belly- Low Red Moon](https://www.youtube.com/watch?v=PLjqM068nqU)
-- [Belly - Feed The Tree](https://www.youtube.com/watch?v=KNE_DasDuaM)
-- [Belly - Full Moon Empty Heart](https://www.youtube.com/watch?v=mqbU7f1eu2o)
-- [Belly - White Belly](https://www.youtube.com/watch?v=hL3y4wlXWMg)
-- [Belly - Untogether](https://www.youtube.com/watch?v=o-d03SLhMIs)
-- [Belly - Star](https://www.youtube.com/watch?v=tIm3jilH8dY)
-- [Belly - Sad Dress](https://www.youtube.com/watch?v=W6aG1mvs_GI)
-- [Belly - Stay](https://www.youtube.com/watch?v=K5EWwP3Ob9U)
-- [Belly - Low Red Moon](https://www.youtube.com/watch?v=JJgucSSCwtM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -102,5 +89,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 2× LP Album Remastered (White Marbled), CD Album, All Media Limited Edition Reissue |
 | Label          | 4AD |
 | Catalog Number | DAD 3002 |
-| Notes | Sticker on outer plastic sleeve: "Limited Gatefold 2 LP Edition white marbled vinyl pressing: INCLUDES BONUS CD OF THE ALBUM." Each LP comes in a custom inner sleeve.  LP1: Blue marbling LP2: Pink/red marbling  Tracks numbered sequentially regardless of sides.  All songs [...] recorded at: Sound Emporium Studios, Nashville All songs [...] mixed at: Sixteenth Avenue Sound, Nashville except tracks 3, 5, 7 and 9 [...] recorded and mixed: Amazon Studios, Liverpool  P 2016 4AD Ltd, C 2016 4AD Ltd US- 134 Grand Street, New York, N.Y. 10013 UK- 17-19 Alma Road, London, SW18 1AA Manufactured in the E U  Labels: P & C 1993 4AD, manufactured in the E.U.  Track durations not listed on release. |
+| Notes | Sticker on outer plastic sleeve: "Limited Gatefold 2 LP Edition white marbled vinyl pressing: INCLUDES BONUS CD OF THE ALBUM."<br>Each LP comes in a custom inner sleeve.<br><br>LP1: Blue marbling<br>LP2: Pink/red marbling<br><br>Tracks numbered sequentially regardless of sides.<br><br>All songs [...] recorded at: Sound Emporium Studios, Nashville<br>All songs [...] mixed at: Sixteenth Avenue Sound, Nashville<br>except tracks 3, 5, 7 and 9 [...] recorded and mixed: Amazon Studios, Liverpool<br><br>P 2016 4AD Ltd, C 2016 4AD Ltd<br>US- 134 Grand Street, New York, N.Y. 10013<br>UK- 17-19 Alma Road, London, SW18 1AA<br>Manufactured in the E U<br><br>Labels: P & C 1993 4AD, manufactured in the E.U.<br><br>Track durations not listed on release. |
 | Discogs URL    | [Belly - Star](https://www.discogs.com/release/8785855-Belly-Star) |

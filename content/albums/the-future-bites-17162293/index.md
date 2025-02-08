@@ -4,6 +4,7 @@ artist_name: "Steven Wilson"
 artist: "steven-wilson"
 album_name: "The Future Bites"
 date: 2021-01-29T07:02:41.000000Z
+release_date: "2021-01-29"
 release_id: "17162293"
 slug: "the-future-bites-17162293"
 hideSummary: true
@@ -44,51 +45,30 @@ styles: ["Alternative Rock"]
 ---
 
 The Future Bites (stylised as THE FUTURE BITES™) is the sixth studio album by British musician Steven Wilson. The album was initially set for release on 12 June 2020 through Caroline International, (his second and final album on the label) but later was pushed back to 29 January 2021 due to the COVID-19 pandemic, which affected the marketing and production related to the album. It was co-produced by Wilson and David Kosten and recorded in London.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Unself
-2. Self
-3. King Ghost
-4. 12 Things I Forgot
-5. Eminent Sleaze
-6. Man Of The People
-7. Personal Shopper
-8. Follower
-9. Count Of Unease
-10. Hey Sleeper (3:14)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Unself |  |
+| A2 | Self |  |
+| A3 | King Ghost |  |
+| A4 | 12 Things I Forgot |  |
+| A5 | Eminent Sleaze |  |
+| A6 | Man Of The People |  |
+| B1 | Personal Shopper |  |
+| B2 | Follower |  |
+| B3 | Count Of Unease |  |
+| C1 | Hey Sleeper | 3:14 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-future-bites/1530202084" >}}<br>
 
 
-## Videos
-### Steven Wilson - Hey Sleeper - The Future Bites
-{{< youtube id="QxHXQfV7Mt4" title="Steven Wilson - Hey Sleeper - The Future Bites" >}}<br>
-### More Videos
-
-- [Steven Wilson - SELF Official Video](https://www.youtube.com/watch?v=UroVey4fJ_g)
-- [Steven Wilson - KING GHOST Official Video](https://www.youtube.com/watch?v=zSvdLcS62ZM)
-- [Steven Wilson - 12 THINGS I FORGOT Official Audio](https://www.youtube.com/watch?v=7wZrYAgf8d8)
-- [Steven Wilson - EMINENT SLEAZE Official Video](https://www.youtube.com/watch?v=kUKmOkrcMig)
-- [Steven Wilson - MAN OF THE PEOPLE Official Lyric Video](https://www.youtube.com/watch?v=G_yW8ornhK4)
-- [Steven Wilson - PERSONAL SHOPPER Official Video](https://www.youtube.com/watch?v=sX22dFMSNcg)
-- [FOLLOWER](https://www.youtube.com/watch?v=Vr5zrU4fk_k)
-- [COUNT OF UNEASE](https://www.youtube.com/watch?v=wsoA82vOtns)
-- [Unboxing a 10000 box set Steven Wilsons The Future Bites Ultra Deluxe Limited Edition of One](https://www.youtube.com/watch?v=v1vm4mUyuGo)
-- [UNSELF](https://www.youtube.com/watch?v=7VuItbHUsaQ)
-- [Steven Wilson - The Future Bites Full Album 2021](https://www.youtube.com/watch?v=fd7NTkWEBHo)
-- [Steven Wilson - Hey Sleeper - The Future Bites](https://www.youtube.com/watch?v=QxHXQfV7Mt4)
-- [UNSELF](https://www.youtube.com/watch?v=7VuItbHUsaQ)
-- [SELF](https://www.youtube.com/watch?v=svUx9D3WCr4)
-- [Steven Wilson - King Ghost 2020](https://www.youtube.com/watch?v=M55vjv1Bed0)
-- [Steven Wilson - 12 THINGS I FORGOT Official Audio](https://www.youtube.com/watch?v=7wZrYAgf8d8)
-- [Steven Wilson - EMINENT SLEAZE Official Video](https://www.youtube.com/watch?v=kUKmOkrcMig)
-- [Steven Wilson - PERSONAL SHOPPER Official Video](https://www.youtube.com/watch?v=sX22dFMSNcg)
-- [FOLLOWER](https://www.youtube.com/watch?v=Vr5zrU4fk_k)
-- [COUNT OF UNEASE](https://www.youtube.com/watch?v=wsoA82vOtns)
 
 ## Release Images
 {{< imageGrid >}}
@@ -100,5 +80,5 @@ The Future Bites (stylised as THE FUTURE BITES™) is the sixth studio album by 
 | Format         | Vinyl LP Album, Vinyl 7" Single Sided Limited Edition (White), All Media Limited Edition (UK Tour Edition, O-Sleeve) |
 | Label          | Caroline International |
 | Catalog Number | CAROL021LPTUK |
-| Notes | This UK Tour Edition could be pre-ordered through Universal UK.  This release was originally announced as a clear vinyl disc for the album, and black vinyl for the 7". However, the album was supplied on black vinyl and the 7" on white vinyl. There was no immediate explanation for this from official sources. However, in April 2021, the label honoured the promise of a clear vinyl disc, supplied in a plain inner sleeve, marked with barcode "2 566079 843305 WILSONREPLACEMENT", which was sent free of charge to all those that had pre-ordered this edition of the album. The disc is listed here... [r17988457]   The bonus audio on the 7" single is a "previously unreleased Steven Wilson demo recorded March 2006 during 'Fear Of Blank Planet' writing sessions. Remixed in August 2020"  The gatefold cover is enclosed in an O-Sleeve bearing the unique cat. no. of this release. |
+| Notes | This UK Tour Edition could be pre-ordered through Universal UK.<br><br>This release was originally announced as a clear vinyl disc for the album, and black vinyl for the 7". However, the album was supplied on black vinyl and the 7" on white vinyl. There was no immediate explanation for this from official sources. However, in April 2021, the label honoured the promise of a clear vinyl disc, supplied in a plain inner sleeve, marked with barcode "2 566079 843305 WILSONREPLACEMENT", which was sent free of charge to all those that had pre-ordered this edition of the album. The disc is listed here... [r17988457]<br> <br>The bonus audio on the 7" single is a "previously unreleased Steven Wilson demo recorded March 2006 during 'Fear Of Blank Planet' writing sessions. Remixed in August 2020"<br><br>The gatefold cover is enclosed in an O-Sleeve bearing the unique cat. no. of this release. |
 | Discogs URL    | [Steven Wilson - The Future Bites](https://www.discogs.com/release/17162293-Steven-Wilson-The-Future-Bites) |

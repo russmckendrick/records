@@ -4,6 +4,7 @@ artist_name: "The Velvet Underground"
 artist: "the-velvet-underground"
 album_name: "The Velvet Underground & Nico"
 date: 2016-01-10T12:53:11.000000Z
+release_date: "2021-09-24"
 release_id: "1839185"
 slug: "the-velvet-underground-nico-1839185"
 hideSummary: true
@@ -29,41 +30,31 @@ styles: ["Art Rock", "Psychedelic Rock", "Experimental"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Sunday Morning (2:53)
-2. I'm Waiting For My Man (4:37)
-3. Femme Fatale (2:35)
-4. Venus In Furs (5:07)
-5. Run Run Run (4:18)
-6. All Tomorrow's Parties (5:55)
-7. I'll Be Your Mirror (2:01)
-8. Heroin (7:10)
-9. There She Goes Again (2:39)
-10. The Black Angel's Death Song (3:10)
-11. European Son (7:47)
-12. Chelsea Girls (7:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sunday Morning | 2:53 |
+| A2 | I'm Waiting For My Man | 4:37 |
+| A3 | Femme Fatale | 2:35 |
+| A4 | Venus In Furs | 5:07 |
+| A5 | Run Run Run | 4:18 |
+| A6 | All Tomorrow's Parties | 5:55 |
+| A7 | I'll Be Your Mirror | 2:01 |
+| B1 | Heroin | 7:10 |
+| B2 | There She Goes Again | 2:39 |
+| B3 | The Black Angel's Death Song | 3:10 |
+| B4 | European Son | 7:47 |
+| B5 | Chelsea Girls | 7:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ill-be-your-mirror-a-tribute-to-the-velvet-underground-nico/1565884195" >}}<br>
 
 
-## Videos
-### The Velvet Underground Nico - Sunday Morning
-{{< youtube id="Xhbyj8pqUao" title="The Velvet Underground Nico - Sunday Morning" >}}<br>
-### More Videos
-
-- [Im Waiting For The Man](https://www.youtube.com/watch?v=99og_g7rXnA)
-- [Femme Fatale](https://www.youtube.com/watch?v=ggHPtzVSEeE)
-- [Venus In Furs](https://www.youtube.com/watch?v=KR7Lv8XZtkk)
-- [Run Run Run](https://www.youtube.com/watch?v=wIdf3PwKmEI)
-- [All Tomorrows Parties](https://www.youtube.com/watch?v=nfAK-IAlcsY)
-- [Heroin](https://www.youtube.com/watch?v=foptT2bsKww)
-- [There She Goes Again](https://www.youtube.com/watch?v=QbW39jwtewE)
-- [Ill Be Your Mirror](https://www.youtube.com/watch?v=KGZWb1SIiR4)
-- [The Black Angels Death Song](https://www.youtube.com/watch?v=5S78t8I8Z5I)
-- [European Son](https://www.youtube.com/watch?v=JNZeMMDEZfo)
-- [The Velvet Underground  Nico Full Album 1967](https://www.youtube.com/watch?v=Yjgj2YCRBh4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +65,5 @@ styles: ["Art Rock", "Psychedelic Rock", "Experimental"]
 | Format         | Vinyl LP Album Reissue (Peeling Banana, 180g, Gatefold) |
 | Label          | Vinyl Lovers |
 | Catalog Number | 900051 |
-| Notes | Barcode sticker on plastic protection with the text: "180 gram Virgin Vinyl - Bonus Track: Chelsea Girls - Cover with Andy Warhol's Original Peeling Banana!!!" Gatefold sleeve with original real peelable banana design. Banana is made from window sticker material, and is re-peelable. Track B5 is a bonus track.  © 1967 Verve. This compilation ℗ & © 2008 Lilith Records Ltd. Manufactured in EU - Under license from ℗ ООО "Universal Music", Russia. Photos by kind permission of Universal Music PLC.  |
+| Notes | Barcode sticker on plastic protection with the text:<br>"180 gram Virgin Vinyl - Bonus Track: Chelsea Girls - Cover with Andy Warhol's Original Peeling Banana!!!"<br>Gatefold sleeve with original real peelable banana design.<br>Banana is made from window sticker material, and is re-peelable.<br>Track B5 is a bonus track.<br><br>© 1967 Verve.<br>This compilation ℗ & © 2008 Lilith Records Ltd.<br>Manufactured in EU - Under license from ℗ ООО "Universal Music", Russia.<br>Photos by kind permission of Universal Music PLC.<br> |
 | Discogs URL    | [The Velvet Underground - The Velvet Underground & Nico](https://www.discogs.com/release/1839185-The-Velvet-Underground-Nico-3-The-Velvet-Underground-Nico) |

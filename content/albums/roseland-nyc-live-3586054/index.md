@@ -4,6 +4,7 @@ artist_name: "Portishead"
 artist: "portishead"
 album_name: "Roseland NYC Live"
 date: 2016-01-31T14:13:01.000000Z
+release_date: "1998-01-01"
 release_id: "3586054"
 slug: "roseland-nyc-live-3586054"
 hideSummary: true
@@ -29,41 +30,31 @@ styles: ["Trip Hop"]
 Roseland NYC Live is a live album by English electronic music band Portishead. It was released on 2 November 1998 by Go! Beat. A PAL format VHS video was released the same year, with a DVD version following four years later. Although the New York Philharmonic is credited as appearing in the video, none of the musicians are members of the Philharmonic, nor is the Philharmonic credited in the audio album.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Humming
-2. Cowboys
-3. All Mine
-4. Mysterons
-5. Only You
-6. Half Day Closing
-7. Over
-8. Glory Box
-9. Sour Times
-10. Roads
-11. Strangers
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Humming |  |
+| A2 | Cowboys |  |
+| A3 | All Mine |  |
+| B1 | Mysterons |  |
+| B2 | Only You |  |
+| B3 | Half Day Closing |  |
+| B4 | Over |  |
+| C1 | Glory Box |  |
+| C2 | Sour Times |  |
+| D1 | Roads |  |
+| D2 | Strangers |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/roseland-nyc-live/1440913466" >}}<br>
 
 
-## Videos
-### Portishead - Only you Roseland NYC HQ
-{{< youtube id="4cIiyfSZfzs" title="Portishead - Only you Roseland NYC HQ" >}}<br>
-### More Videos
-
-- [Portishead - Glory box Roseland NYC HQ](https://www.youtube.com/watch?v=SLrkE6T_m5Y)
-- [Portishead - Roads - Roseland NYC HQ Audio](https://www.youtube.com/watch?v=52bAsZI9xm8)
-- [Portishead - Roseland Nyc Live - Cowboys](https://www.youtube.com/watch?v=SL8lY5372Ec)
-- [Portishead - Sour times Roseland NYC HQ](https://www.youtube.com/watch?v=CZ_Z0Zfvsj0)
-- [Portishead - Strangers Roseland NYC HQ](https://www.youtube.com/watch?v=HbSu2UM8kcQ)
-- [Portishead - Mysterons Roseland NYC HQ](https://www.youtube.com/watch?v=rRZdai5UPjE)
-- [Portishead - Numb Roseland NYC HQ](https://www.youtube.com/watch?v=r8Zuek09YYA)
-- [Portishead Roseland New York - Humming](https://www.youtube.com/watch?v=YLeCQQjXV1g)
-- [Portishead - Half day closing Roseland NYC HQ](https://www.youtube.com/watch?v=KjuhPvWEgtY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +66,5 @@ Roseland NYC Live is a live album by English electronic music band Portishead. I
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Go! Beat |
 | Catalog Number | 559 424-1 |
-| Notes | According to the "320" stamped in the runouts, which refers to Universal M & L, Germany, this reissue was most likely released sometime between 1999 and 2005, as Universal M & L, Germany, established in 1999 and then became EDC, Germany in 2005.  Single pocket sleeve, includes a foldout poster but unlike the original issue this reissue has no printed inner sleeves.  Some of the pressings came with wrongly centered labels on both sides of the first record.  On the B-side the label comes over the last part of the last song.    [On back sleeve]: ℗ 1998 Go Beat © 1998 Go Beat The copyright in this sound recording is owned by Go Beat under exclusive license to Polydor Ltd. (UK)  Runouts are stamped. |
+| Notes | According to the "320" stamped in the runouts, which refers to Universal M & L, Germany, this reissue was most likely released sometime between 1999 and 2005, as Universal M & L, Germany, established in 1999 and then became EDC, Germany in 2005.<br><br>Single pocket sleeve, includes a foldout poster but unlike the original issue this reissue has no printed inner sleeves.<br><br>Some of the pressings came with wrongly centered labels on both sides of the first record. <br>On the B-side the label comes over the last part of the last song.  <br><br>[On back sleeve]:<br>℗ 1998 Go Beat<br>© 1998 Go Beat<br>The copyright in this sound recording is owned by Go Beat under exclusive license to Polydor Ltd. (UK)<br><br>Runouts are stamped. |
 | Discogs URL    | [Portishead - Roseland NYC Live](https://www.discogs.com/release/3586054-Portishead-Roseland-NYC-Live) |

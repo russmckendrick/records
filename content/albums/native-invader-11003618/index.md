@@ -4,6 +4,7 @@ artist_name: "Tori Amos"
 artist: "tori-amos"
 album_name: "Native Invader"
 date: 2018-01-20T19:10:32.000000Z
+release_date: "2017-09-08"
 release_id: "11003618"
 slug: "native-invader-11003618"
 hideSummary: true
@@ -28,42 +29,33 @@ styles: ["Acoustic", "Alternative Rock", "Ballad"]
 ---
 
 Native Invader is the fifteenth studio album (twelfth of entirely original material) by American singer-songwriter Tori Amos. It was released on September 8, 2017, through Decca Records. Its lead single "Cloud Riders", was released on July 27, 2017.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Reindeer King
-2. Wings
-3. Broken Arrow
-4. Cloud Riders
-5. Up The Creek
-6. Breakaway
-7. Wildwood
-8. Chocolate Song
-9. Bang
-10. Climb
-11. Bats
-12. Benjamin
-13. Mary's Eyes
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Reindeer King |  |
+| A2 | Wings |  |
+| A3 | Broken Arrow |  |
+| B1 | Cloud Riders |  |
+| B2 | Up The Creek |  |
+| B3 | Breakaway |  |
+| C1 | Wildwood |  |
+| C2 | Chocolate Song |  |
+| C3 | Bang |  |
+| D1 | Climb |  |
+| D2 | Bats |  |
+| D3 | Benjamin |  |
+| D4 | Mary's Eyes |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/native-invader/1440770840" >}}<br>
 
 
-## Videos
-### Tori Amos - Reindeer King Lyric Video
-{{< youtube id="gsSBNNjhGJY" title="Tori Amos - Reindeer King Lyric Video" >}}<br>
-### More Videos
-
-- [Tori Amos - Cloud Riders Lyric Video](https://www.youtube.com/watch?v=VVx2jNxy8lM)
-- [Breakaway](https://www.youtube.com/watch?v=KkAr-6RFH9M)
-- [Benjamin](https://www.youtube.com/watch?v=wS6rvD_lkro)
-- [Tori Amos Discusses Her New Album Native Invader](https://www.youtube.com/watch?v=sfhCN6H59lc)
-- [Tori Amos - Nylon Interview Native Invader 2017](https://www.youtube.com/watch?v=_HGdRvFe1Bg)
-- [Tori Amos  Native Invader unboxing](https://www.youtube.com/watch?v=FHaYaTW3cT8)
-- [UNBOXING Tori Amos - Native Invader](https://www.youtube.com/watch?v=QGJ9QyH7qeU)
-- [Tori Amos - Reindeer King Audio](https://www.youtube.com/watch?v=ub0yooZAGOA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +67,5 @@ Native Invader is the fifteenth studio album (twelfth of entirely original mater
 | Format         | Vinyl 2× LP Album |
 | Label          | Decca |
 | Catalog Number | 00028948155880 |
-| Notes | 2 x 12" 180 gram vinyl set housed in a gatefold sleeve with inner lyric sleeves.  This European-made release is the sole version on vinyl, released and available in all major territories. |
+| Notes | 2 x 12" 180 gram vinyl set housed in a gatefold sleeve with inner lyric sleeves.<br><br>This European-made release is the sole version on vinyl, released and available in all major territories. |
 | Discogs URL    | [Tori Amos - Native Invader](https://www.discogs.com/release/11003618-Tori-Amos-Native-Invader) |

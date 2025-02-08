@@ -43,43 +43,32 @@ The album was first released on vinyl, followed by a release on CD and cassette 
 
 
 ## Tracklisting
-1. Division One
-2. Last Exit
-3. Spin The Black Circle
-4. Not For You
-5. Tremor Christ
-6. Division Two
-7. Nothingman
-8. Whipping
-9. Pry, To
-10. Corduroy
-11. Division Three
-12. Bugs
-13. Satan's Bed
-14. Better Man
-15. Aye Davanita
-16. Division Four
-17. Immortality
-18. Hey Foxymophandlemama, That's Me
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Division One |  |
+| A1 | Last Exit |  |
+| A2 | Spin The Black Circle |  |
+| A3 | Not For You |  |
+| A4 | Tremor Christ |  |
+|  | Division Two |  |
+| B1 | Nothingman |  |
+| B2 | Whipping |  |
+| B3 | Pry, To |  |
+| B4 | Corduroy |  |
+|  | Division Three |  |
+| C1 | Bugs |  |
+| C2 | Satan's Bed |  |
+| C3 | Better Man |  |
+| C4 | Aye Davanita |  |
+|  | Division Four |  |
+| D1 | Immortality |  |
+| D2 | Hey Foxymophandlemama, That's Me |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vitalogy/1777937276" >}}<br>
 
 
-## Videos
-### Pearl Jam - Better Man Official Audio
-{{< youtube id="nDK-wsdEhNE" title="Pearl Jam - Better Man Official Audio" >}}<br>
-### More Videos
-
-- [Immortality Remastered](https://www.youtube.com/watch?v=pw4VEW3StIw)
-- [Not for You Remastered](https://www.youtube.com/watch?v=QulcQ5Afd7I)
-- [Last Exit Remastered](https://www.youtube.com/watch?v=YQRyhKmkUUE)
-- [Nothingman Remastered](https://www.youtube.com/watch?v=xiNpezXV3ck)
-- [Spin the Black Circle Remastered](https://www.youtube.com/watch?v=T3oMcrqDn_4)
-- [Tremor Christ Remastered](https://www.youtube.com/watch?v=CHnApSpj_8w)
-- [Whipping Remastered](https://www.youtube.com/watch?v=2ek78O2Eays)
-- [Satans Bed Remastered](https://www.youtube.com/watch?v=sHPnS_kBrcY)
-- [Corduroy Remastered](https://www.youtube.com/watch?v=FQkgIrfpLw0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -91,5 +80,5 @@ The album was first released on vinyl, followed by a release on CD and cassette 
 | Format         | Vinyl 2× LP Album Remastered Reissue (180 Gram, Gold Foil Stamp) |
 | Label          | Epic |
 | Catalog Number | 88697843111 |
-| Notes | Issued in a leather-texture gatefold sleeve, comes with an insert with photos and an 8 page booklet of artwork, lyrics & credits. Track D2 titled "Stupid Mop" on label.   Recorded in Seattle, Atlanta & New Orleans 1994.   ℗ 1994 Sony Music Entertainment © 1994, 2011 Sony Music Entertainment Made in the EU/Sony Music Entertainment International Services GmbH, Gütersloh  Made in the EU |
+| Notes | Issued in a leather-texture gatefold sleeve, comes with an insert with photos and an 8 page booklet of artwork, lyrics & credits.<br>Track D2 titled "Stupid Mop" on label. <br><br>Recorded in Seattle, Atlanta & New Orleans 1994. <br><br>℗ 1994 Sony Music Entertainment © 1994, 2011 Sony Music Entertainment<br>Made in the EU/Sony Music Entertainment International Services GmbH, Gütersloh<br><br>Made in the EU |
 | Discogs URL    | [Pearl Jam - Vitalogy](https://www.discogs.com/release/8392718-Pearl-Jam-Vitalogy) |

@@ -4,6 +4,7 @@ artist_name: "Bangles"
 artist: "bangles"
 album_name: "Different Light"
 date: 2022-09-16T09:28:23.000000Z
+release_date: "1986-01-02"
 release_id: "24530885"
 slug: "different-light-24530885"
 hideSummary: true
@@ -26,40 +27,32 @@ styles: ["Pop Rock"]
 
 Different Light is the second studio album by American pop rock band the Bangles, released in January 1986. The album's Top 40 sound was a departure from their earlier 1960s-style rock'n'roll sound. It is their most successful album, reaching number two on the Billboard 200 and producing five charting singles, including the Billboard top two hits "Manic Monday" and "Walk Like an Egyptian". It is also the first album in which bassist Michael Steele sings lead vocals on some tracks.
 The 2008 reissue CD on the Wounded Bird Records label (WOU 4039) adds a bonus track: "Walk Like an Egyptian (Extended Dance Mix)".
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Manic Monday (3:03)
-2. In A Different Light (2:50)
-3. Walking Down Your Street (3:02)
-4. Walk Like An Egyptian (3:21)
-5. Standing In The Hallway (2:53)
-6. Return Post (4:19)
-7. If She Knew What She Wants (3:47)
-8. Let It Go (2:28)
-9. September Gurls (2:42)
-10. Angels Don't Fall In Love (3:21)
-11. Following (3:18)
-12. Not Like You (3:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Manic Monday | 3:03 |
+| A2 | In A Different Light | 2:50 |
+| A3 | Walking Down Your Street | 3:02 |
+| A4 | Walk Like An Egyptian | 3:21 |
+| A5 | Standing In The Hallway | 2:53 |
+| A6 | Return Post | 4:19 |
+| B1 | If She Knew What She Wants | 3:47 |
+| B2 | Let It Go | 2:28 |
+| B3 | September Gurls | 2:42 |
+| B4 | Angels Don't Fall In Love | 3:21 |
+| B5 | Following | 3:18 |
+| B6 | Not Like You | 3:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/different-light/285529680" >}}<br>
 
 
-## Videos
-### The Bangles - Manic Monday
-{{< youtube id="SsmVgoXDq2w" title="The Bangles - Manic Monday" >}}<br>
-### More Videos
-
-- [The Bangles - Walk Like an Egyptian Video Version](https://www.youtube.com/watch?v=Cv6tuzHUuuk)
-- [The Bangles - Walking Down Your Street Video Version](https://www.youtube.com/watch?v=HvnV2jFeWNQ)
-- [The Bangles - If She Knew What She Wants](https://www.youtube.com/watch?v=mu_pNeqAQ-U)
-- [The Bangles - Manic Monday](https://www.youtube.com/watch?v=SsmVgoXDq2w)
-- [The Bangles - Walk Like an Egyptian Video Version](https://www.youtube.com/watch?v=Cv6tuzHUuuk)
-- [The Bangles - Walking Down Your Street Video Version](https://www.youtube.com/watch?v=HvnV2jFeWNQ)
-- [The Bangles - If She Knew What She Wants](https://www.youtube.com/watch?v=mu_pNeqAQ-U)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +64,5 @@ The 2008 reissue CD on the Wounded Bird Records label (WOU 4039) adds a bonus tr
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Stereo (Pink & Purple Marbled) |
 | Label          | Columbia |
 | Catalog Number | MOVLP2678 |
-| Notes | On hype sticker: Limited Edition of 4000 numbered copies on pink & purple marbled vinyl Includes insert with lyrics 180 gram audiophile vinyl www.musiconvinyl.com MOVLP2678  On spine: MOVLP2678  On back cover: ℗ 1985 Columbia Records, a division of Sony Music Entertainment. © 1985, 2022 Columbia Records, a division of Sony Music Entertainment. Columbia is the exclusive trademark of Sony Music Entertainment.  Manufactured and distributed by Music On Vinyl B.V  Made in the EU. MOVLP2678  On inner sleeve: Inner sleeve ©1985 Controversy Music (ASCAP)  ©1985 Blackwood Music Inc. (BMI)  ©1985 Bangophile Music (BMI)  Blackwood Music Inc. administers for Bangophile Music ©1985 Spinning Avenue Music (BMI)  I.R.S. Music, Inc. administers for Spinning Avenue Music ©1985 See Square Music (BMI)  ©1985 Peer International Corporation (BMI)  ©1984 Funzalo Music Ltd. (BMI)  ©1984 Juters Music Co. (BMI)  ©1974 Almo Music Corp. (ASCAP)  ©1974 Koala Music (ASCAP)   Recorded at Sunset Sound Factory and Sunset Sound, Hollywood, CA… Summer, 1985  we'd like to thank these musicians for contributing their special talents: David Kahne, Rusty Anderson, Mitchell Froom, Carlos Vega  © 1985, 2022 Columbia Records, a division of Sony Music Entertainment. MOVLP2678  On labels: ℗ 1985 Columbia Records, a division of Sony Music Entertainment. © 1985, 2022 Columbia Records, a division of Sony Music Entertainment. Columbia is the exclusive trademark of Sony Music Entertainment. Manufactured and distributed by Music On Vinyl B.V Made in the EU. BIEM/STEMRA.   |
+| Notes | On hype sticker:<br>Limited Edition of 4000 numbered copies on pink & purple marbled vinyl<br>Includes insert with lyrics<br>180 gram audiophile vinyl<br>www.musiconvinyl.com MOVLP2678<br><br>On spine: MOVLP2678<br><br>On back cover: ℗ 1985 Columbia Records, a division of Sony Music Entertainment. © 1985, 2022 Columbia Records, a division of Sony Music Entertainment. Columbia is the exclusive trademark of Sony Music Entertainment. <br>Manufactured and distributed by Music On Vinyl B.V <br>Made in the EU. MOVLP2678<br><br>On inner sleeve:<br>Inner sleeve<br>©1985 Controversy Music (ASCAP) <br>©1985 Blackwood Music Inc. (BMI) <br>©1985 Bangophile Music (BMI) <br>Blackwood Music Inc. administers for Bangophile Music<br>©1985 Spinning Avenue Music (BMI) <br>I.R.S. Music, Inc. administers for Spinning Avenue Music<br>©1985 See Square Music (BMI) <br>©1985 Peer International Corporation (BMI) <br>©1984 Funzalo Music Ltd. (BMI) <br>©1984 Juters Music Co. (BMI) <br>©1974 Almo Music Corp. (ASCAP) <br>©1974 Koala Music (ASCAP) <br><br>Recorded at Sunset Sound Factory and Sunset Sound, Hollywood, CA… Summer, 1985<br><br>we'd like to thank these musicians for contributing their special talents: David Kahne, Rusty Anderson, Mitchell Froom, Carlos Vega<br><br>© 1985, 2022 Columbia Records, a division of Sony Music Entertainment. MOVLP2678<br><br>On labels: ℗ 1985 Columbia Records, a division of Sony Music Entertainment. © 1985, 2022 Columbia Records, a division of Sony Music Entertainment. Columbia is the exclusive trademark of Sony Music Entertainment. Manufactured and distributed by Music On Vinyl B.V<br>Made in the EU. BIEM/STEMRA.<br><br> |
 | Discogs URL    | [Bangles - Different Light](https://www.discogs.com/release/24530885-Bangles-Different-Light) |

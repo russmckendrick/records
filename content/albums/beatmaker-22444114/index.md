@@ -1,9 +1,10 @@
 ---
 title: "Matt Berry - Beatmaker"
 artist_name: "Matt Berry"
-artist: "matt-berry-3"
+artist: "matt-berry"
 album_name: "Beatmaker"
 date: 2022-03-10T05:19:10.000000Z
+release_date: "2022-01-04"
 release_id: "22444114"
 slug: "beatmaker-22444114"
 hideSummary: true
@@ -21,23 +22,21 @@ styles: ["Jazz-Funk"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Beatmaker
-2. Beatmaker (Instrumental)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Beatmaker |  |
+| B | Beatmaker (Instrumental) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/beatmaker-single/1597038144" >}}<br>
 
 
-## Videos
-### Beatmaker
-{{< youtube id="30ZQP2INn48" title="Beatmaker" >}}<br>
-### More Videos
-
-- [Beatmaker Instrumental](https://www.youtube.com/watch?v=BPnMKmlW0hc)
-- [Beatmaker](https://www.youtube.com/watch?v=30ZQP2INn48)
-- [Beatmaker Instrumental](https://www.youtube.com/watch?v=BPnMKmlW0hc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -48,5 +47,5 @@ styles: ["Jazz-Funk"]
 | Format         | Vinyl 7" 45 RPM Single Limited Edition Stereo |
 | Label          | Acid Jazz |
 | Catalog Number | AJX635S |
-| Notes | Originally slated release date 25/03/2022 as per https://mattberry.bandcamp.com Brought forward to 11/03/2022  (nb: Some online customers received their orders earlier than the official release date)  Sleeve notes: Mastered by Mike Thorne at Rimshot Studios. Brass recorded by Sir Tristan Longworth at Chicken Shack Studios.  'Beatmaker' was originally released in 1970 by Doris (see: '[r=1506115]') |
+| Notes | Originally slated release date 25/03/2022 as per https://mattberry.bandcamp.com<br>Brought forward to 11/03/2022<br><br>(nb: Some online customers received their orders earlier than the official release date)<br><br>Sleeve notes:<br>Mastered by Mike Thorne at Rimshot Studios.<br>Brass recorded by Sir Tristan Longworth at Chicken Shack Studios.<br><br>'Beatmaker' was originally released in 1970 by Doris (see: '[r=1506115]') |
 | Discogs URL    | [Matt Berry - Beatmaker](https://www.discogs.com/release/22444114-Matt-Berry-3-Featuring-Emma-Noble-Beatmaker) |

@@ -4,6 +4,7 @@ artist_name: "65daysofstatic"
 artist: "65daysofstatic"
 album_name: "replicr, 2019"
 date: 2019-09-28T07:53:07.000000Z
+release_date: "2019-09-27"
 release_id: "14191140"
 slug: "replicr-2019-14191140"
 hideSummary: true
@@ -26,65 +27,48 @@ styles: ["Noise", "Experimental", "Ambient"]
 ---
 
 replicr, 2019 is the sixth studio album by 65daysofstatic, which was released on September 27, 2019.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. pretext (2:15)
-2. stillstellung (3:37)
-3. d|| tl | | | (1:43)
-4. bad age (4:48)
-5. 05|| | 1| (0:48)
-6. sister (4:23)
-7. gr[]v-_s (1:21)
-8. popular beats (3:01)
-9. five waves (4:00)
-10. interference_1 (5:22)
-11. []lid (1:00)
-12. z03 (4:08)
-13. u| || | th | r| d (2:01)
-14. trackerplatz (3:41)
-15. pretext (2:15)
-16. stillstellung (3:37)
-17. d|| tl | | | (1:43)
-18. bad age (4:48)
-19. 05|| | 1| (0:48)
-20. sister (4:23)
-21. gr[]v-_s (1:21)
-22. popular beats (3:01)
-23. five waves (4:00)
-24. interference_1 (5:22)
-25. []lid (1:00)
-26. z03 (4:08)
-27. u| || | th | r| d (2:01)
-28. trackerplatz (3:41)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | pretext | 2:15 |
+| A2 | stillstellung | 3:37 |
+| A3 | d|| tl | | | | 1:43 |
+| A4 | bad age | 4:48 |
+| A5 | 05|| | 1| | 0:48 |
+| A6 | sister | 4:23 |
+| A7 | gr[]v-_s | 1:21 |
+| A8 | popular beats | 3:01 |
+| B1 | five waves | 4:00 |
+| B2 | interference_1 | 5:22 |
+| B3 | []lid | 1:00 |
+| B4 | z03 | 4:08 |
+| B5 | u| || | th | r| d | 2:01 |
+| B6 | trackerplatz | 3:41 |
+| CD-1 | pretext | 2:15 |
+| CD-2 | stillstellung | 3:37 |
+| CD-3 | d|| tl | | | | 1:43 |
+| CD-4 | bad age | 4:48 |
+| CD-5 | 05|| | 1| | 0:48 |
+| CD-6 | sister | 4:23 |
+| CD-7 | gr[]v-_s | 1:21 |
+| CD-8 | popular beats | 3:01 |
+| CD-9 | five waves | 4:00 |
+| CD-10 | interference_1 | 5:22 |
+| CD-11 | []lid | 1:00 |
+| CD-12 | z03 | 4:08 |
+| CD-13 | u| || | th | r| d | 2:01 |
+| CD-14 | trackerplatz | 3:41 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/replicr-2019/1471952343" >}}<br>
 
 
-## Videos
-### 65daysofstatic  replicr 2019 new album coming 270919
-{{< youtube id="9LQckltGMJ4" title="65daysofstatic  replicr 2019 new album coming 270919" >}}<br>
-### More Videos
-
-- [65daysofstatic - popular beats OFFICIAL VIDEO](https://www.youtube.com/watch?v=dH9tZ5z4dFg)
-- [65daysofstatic  Trackerplatz OFFICIAL VIDEO](https://www.youtube.com/watch?v=l73eDjbpPzA)
-- [65daysofstatic  Five Waves](https://www.youtube.com/watch?v=Ph2V7KlA07Y)
-- [stillstellung](https://www.youtube.com/watch?v=mL3tU67wtP8)
-- [pretext](https://www.youtube.com/watch?v=4r1ehk3FAeQ)
-- [d tl   ](https://www.youtube.com/watch?v=CYl7CFJW3ho)
-- [interference_1](https://www.youtube.com/watch?v=rOKrre1PGRQ)
-- [gr  v-_s](https://www.youtube.com/watch?v=VVcyZx6S74I)
-- [bad age](https://www.youtube.com/watch?v=ecqDkD9oFXU)
-- [05  1](https://www.youtube.com/watch?v=Pi8fRC2pc0A)
-- [z03](https://www.youtube.com/watch?v=LNfmkmT5UDs)
-- [sister](https://www.youtube.com/watch?v=bZvS_slO534)
-- [ lid](https://www.youtube.com/watch?v=tKSMvBvs35E)
-- [65_replicr_stream_280819](https://www.youtube.com/watch?v=BzNNNB-p_gk)
-- [65_replicr_stream_040919](https://www.youtube.com/watch?v=ZSAqTfTKp70)
-- [65_replicr_stream_250919](https://www.youtube.com/watch?v=KQmCs0l2cMg)
 
 ## Release Images
 {{< imageGrid >}}

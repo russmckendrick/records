@@ -1,9 +1,10 @@
 ---
 title: "Sigur Rós - Von"
 artist_name: "Sigur Rós"
-artist: "sigur-r-s"
+artist: "sigur-ros"
 album_name: "Von"
 date: 2019-01-04T19:34:21.000000Z
+release_date: "2019-08-09"
 release_id: "6655456"
 slug: "von-6655456"
 hideSummary: true
@@ -30,40 +31,42 @@ styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Sigur Rós (9:46)
-2. Dögun (5:50)
-3. Hún Jörð ... (7:17)
-4. Leit Að Lífi (2:33)
-5. Myrkur (6:14)
-6. 18 Sekúndur Fyrir Sólarupprás (0:18)
-7. Hafssól (12:24)
-8. Veröld Ný Og Óð (3:29)
-9. Von (5:12)
-10. Mistur (2:16)
-11. Syndir Guðs (Opinberun Frelsarans) (7:40)
-12. Rukrym (8:59)
-13. Sigur Rós (9:49)
-14. Dögun (5:54)
-15. Hún Jörð (7:14)
-16. Leit Að Lífi (2:33)
-17. Myrkur (6:15)
-18. 18 Sekúndur Fyrir Sólarupprás (0:18)
-19. Hafssól (12:25)
-20. Veröld Ný Og óð (3:33)
-21. Von (5:21)
-22. Mistur (2:12)
-23. Syndir Guðs (Opinberun Frelsarans) (13:51)
-24. Rukrym (2:51)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sigur Rós | 9:46 |
+| A2 | Dögun | 5:50 |
+| A3 | Hún Jörð ... | 7:17 |
+| B1 | Leit Að Lífi | 2:33 |
+| B2 | Myrkur | 6:14 |
+| B3 | 18 Sekúndur Fyrir Sólarupprás | 0:18 |
+| B4 | Hafssól | 12:24 |
+| C1 | Veröld Ný Og Óð | 3:29 |
+| C2 | Von | 5:12 |
+| C3 | Mistur | 2:16 |
+| D1 | Syndir Guðs (Opinberun Frelsarans) | 7:40 |
+| D2 | Rukrym | 8:59 |
+| CD-1 | Sigur Rós | 9:49 |
+| CD-2 | Dögun | 5:54 |
+| CD-3 | Hún Jörð | 7:14 |
+| CD-4 | Leit Að Lífi | 2:33 |
+| CD-5 | Myrkur | 6:15 |
+| CD-6 | 18 Sekúndur Fyrir Sólarupprás | 0:18 |
+| CD-7 | Hafssól | 12:25 |
+| CD-8 | Veröld Ný Og óð | 3:33 |
+| CD-9 | Von | 5:21 |
+| CD-10 | Mistur | 2:12 |
+| CD-11 | Syndir Guðs (Opinberun Frelsarans) | 13:51 |
+| CD-12 | Rukrym | 2:51 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sigur-r%C3%B3s-presents-liminal-sleep/1475167321" >}}<br>
 
-
-## Videos
-### Sigur Rós - Von Full Album Stream
-{{< youtube id="0Pi_tRpk7_g" title="Sigur Rós - Von Full Album Stream" >}}<br>
 
 
 ## Release Images
@@ -75,5 +78,5 @@ styles: ["Abstract", "Ambient", "Experimental", "Shoegaze", "Post Rock"]
 | Format         | Vinyl 2× LP Album Reissue (180g), CD Album Reissue |
 | Label          | XL Recordings |
 | Catalog Number | XLLP609 |
-| Notes | Hljóðsmíðin var hljóðrituð vor daga 1995, hljóðblönduð veturinn 1995 til 1996 í hljóðverinu sem hvarf, Hvarf. Tónjöfnun og uppsetning Vonar var gerð í Núlist byrjun sumars 1997. Hönnun og umbrot útlits umslags gerðum við heima á því herrans ári 1997. Lokahönd er lögð á Von.  Violet PVC outer sleeve & printed inner sleeves. Track D2 ends in a locked groove. |
+| Notes | Hljóðsmíðin var hljóðrituð vor daga 1995, hljóðblönduð veturinn 1995 til 1996 í hljóðverinu sem hvarf, Hvarf. Tónjöfnun og uppsetning Vonar var gerð í Núlist byrjun sumars 1997. Hönnun og umbrot útlits umslags gerðum við heima á því herrans ári 1997. Lokahönd er lögð á Von.<br><br>Violet PVC outer sleeve & printed inner sleeves.<br>Track D2 ends in a locked groove. |
 | Discogs URL    | [Sigur Rós - Von](https://www.discogs.com/release/6655456-Sigur-Rós-Von) |

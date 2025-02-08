@@ -4,6 +4,7 @@ artist_name: "Bill Fisher"
 artist: "bill-fisher"
 album_name: "Hallucinations Of A Higher Truth"
 date: 2021-11-06T05:57:40.000000Z
+release_date: "2021-07-30"
 release_id: "20871457"
 slug: "hallucinations-of-a-higher-truth-20871457"
 hideSummary: true
@@ -25,30 +26,29 @@ styles: ["Psychedelic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. In The Morning (4:10)
-2. I'll See You Around (4:39)
-3. Better Than You (2:38)
-4. Fsus (2:10)
-5. Caroline (4:02)
-6. Answers In Your Soul (4:35)
-7. People Should Be Friendly (3:00)
-8. Off To Work (2:37)
-9. Time & Death (1:43)
-10. Evil In Your Eye (5:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | In The Morning | 4:10 |
+| A2 | I'll See You Around | 4:39 |
+| A3 | Better Than You | 2:38 |
+| A4 | Fsus | 2:10 |
+| A5 | Caroline | 4:02 |
+| B1 | Answers In Your Soul | 4:35 |
+| B2 | People Should Be Friendly | 3:00 |
+| B3 | Off To Work | 2:37 |
+| B4 | Time & Death | 1:43 |
+| B5 | Evil In Your Eye | 5:56 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hallucinations-of-a-higher-truth/1575676546" >}}<br>
 
 
-## Videos
-### Bill Fisher - In the Morning Official Visualiser Video
-{{< youtube id="3SAs3xtNG4g" title="Bill Fisher - In the Morning Official Visualiser Video" >}}<br>
-### More Videos
-
-- [Bill Fisher - In the Morning Official Visualiser Video](https://www.youtube.com/watch?v=3SAs3xtNG4g)
-- [Bill Fisher - Hallucinations of a Higher Truth Full Album 2021](https://www.youtube.com/watch?v=pAANiKCOzgw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,5 +59,5 @@ styles: ["Psychedelic Rock"]
 | Format         | Vinyl LP Album Limited Edition Numbered (Crimson Nebula Edition) |
 | Label          | Septaphonic Records |
 | Catalog Number | Septaphonic 5 |
-| Notes | Super Deluxe Crimson Nebula Edition. Limited Edition of 500. Gatefold sleeve with black poly-lined inner sleeve. All songs written by Bill Fisher except ‘Caroline’ written by Rossi/Young. All songs performed and produced by Bill Fisher. Recorded at The Rainbow Lodge, Nottingham, England. Mastered by Lira Wish at Film-Maker Studios. Art and design by Zorad. ©℗ 2021 Bill Fisher |
+| Notes | Super Deluxe Crimson Nebula Edition.<br>Limited Edition of 500.<br>Gatefold sleeve with black poly-lined inner sleeve.<br>All songs written by Bill Fisher except ‘Caroline’ written by Rossi/Young.<br>All songs performed and produced by Bill Fisher.<br>Recorded at The Rainbow Lodge, Nottingham, England.<br>Mastered by Lira Wish at Film-Maker Studios.<br>Art and design by Zorad.<br>©℗ 2021 Bill Fisher |
 | Discogs URL    | [Bill Fisher - Hallucinations Of A Higher Truth](https://www.discogs.com/release/20871457-Bill-Fisher-Hallucinations-Of-A-Higher-Truth) |

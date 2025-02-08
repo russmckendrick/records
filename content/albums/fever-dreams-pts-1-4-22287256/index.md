@@ -4,6 +4,7 @@ artist_name: "Johnny Marr"
 artist: "johnny-marr"
 album_name: "Fever Dreams Pts 1-4"
 date: 2022-02-25T09:31:02.000000Z
+release_date: "2022-02-25"
 release_id: "22287256"
 slug: "fever-dreams-pts-1-4-22287256"
 hideSummary: true
@@ -36,42 +37,39 @@ styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Part 1
-2. Spirit Power & Soul
-3. Receiver
-4. All These Days
-5. Ariel
-6. Part 2
-7. Lightning People
-8. Hideaway Girl
-9. Sensory Street
-10. Tenement Time
-11. Part 3
-12. The Speed Of Love
-13. Night And Day
-14. Counter-clock World
-15. Rubicon
-16. Part 4
-17. God's Gift
-18. Ghoster
-19. The Whirl
-20. Human
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Part 1 |  |
+| A1 | Spirit Power & Soul |  |
+| A2 | Receiver |  |
+| A3 | All These Days |  |
+| A4 | Ariel |  |
+|  | Part 2 |  |
+| B1 | Lightning People |  |
+| B2 | Hideaway Girl |  |
+| B3 | Sensory Street |  |
+| B4 | Tenement Time |  |
+|  | Part 3 |  |
+| C1 | The Speed Of Love |  |
+| C2 | Night And Day |  |
+| C3 | Counter-clock World |  |
+| C4 | Rubicon |  |
+|  | Part 4 |  |
+| D1 | God's Gift |  |
+| D2 | Ghoster |  |
+| D3 | The Whirl |  |
+| D4 | Human |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fever-dreams-pts-1-4/1604197520" >}}<br>
 
 
-## Videos
-### Johnny Marr - Spirit Power and Soul Official Video
-{{< youtube id="qeqBn3BAMag" title="Johnny Marr - Spirit Power and Soul Official Video" >}}<br>
-### More Videos
-
-- [Johnny Marr - Sensory Street Official Lyric Video](https://www.youtube.com/watch?v=9jlL9cCSGgg)
-- [Johnny Marr - Night and Day Official Video](https://www.youtube.com/watch?v=xuOocn__zVo)
-- [Johnny Marr - Spirit Power and Soul Official Video](https://www.youtube.com/watch?v=qeqBn3BAMag)
-- [Johnny Marr - Night and Day Official Video](https://www.youtube.com/watch?v=xuOocn__zVo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +80,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl 2× LP Album Limited Edition (Turquoise) |
 | Label          | BMG |
 | Catalog Number | NVLP005T |
-| Notes | Gatefold sleeve with inner sleeves with lyrics printed on them. Stickers: "Limited Edition Turquoise 2LP" and "Parental Advisory Explicit Lyrics"  500 copies were retailed by Assai Records with an approved hand numbered and signed Japanese style Obi under Assai Obi Editions. Obi signed by Johnny Marr.  Tracks A1 to B4 ℗ 2021, Tracks C1 to D4 ℗ 2022. © 2022 New Voodoo Limited under exclusive license to BMG Rights Management (UK) Limited.  Manufactured in Poland.  Certain bundles included a 12 x 12 Inch Art Print signed by Johnny Marr. |
+| Notes | Gatefold sleeve with inner sleeves with lyrics printed on them.<br>Stickers: "Limited Edition Turquoise 2LP" and "Parental Advisory Explicit Lyrics"<br><br>500 copies were retailed by Assai Records with an approved hand numbered and signed Japanese style Obi under Assai Obi Editions. Obi signed by Johnny Marr.<br><br>Tracks A1 to B4 ℗ 2021, Tracks C1 to D4 ℗ 2022. © 2022 New Voodoo Limited under exclusive license to BMG Rights Management (UK) Limited.<br><br>Manufactured in Poland.<br><br>Certain bundles included a 12 x 12 Inch Art Print signed by Johnny Marr. |
 | Discogs URL    | [Johnny Marr - Fever Dreams Pts 1-4](https://www.discogs.com/release/22287256-Johnny-Marr-Fever-Dreams-Pts-1-4) |

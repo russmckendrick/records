@@ -31,33 +31,25 @@ For a band so strongly identified with a particular time and place, The Strokes 
 
 
 ## Tracklisting
-1. Is This It (2:35)
-2. The Modern Age (3:32)
-3. Soma (2:37)
-4. Barely Legal (3:58)
-5. Someday (3:07)
-6. Alone, Together (3:12)
-7. Last Nite (3:17)
-8. Hard To Explain (3:47)
-9. New York City Cops (3:36)
-10. Trying Your Luck (3:27)
-11. Take It Or Leave It (3:16)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Is This It | 2:35 |
+| A2 | The Modern Age | 3:32 |
+| A3 | Soma | 2:37 |
+| A4 | Barely Legal | 3:58 |
+| A5 | Someday | 3:07 |
+| B1 | Alone, Together | 3:12 |
+| B2 | Last Nite | 3:17 |
+| B3 | Hard To Explain | 3:47 |
+| B4 | New York City Cops | 3:36 |
+| B5 | Trying Your Luck | 3:27 |
+| B6 | Take It Or Leave It | 3:16 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/is-this-it/269080434" >}}<br>
 
 
-## Videos
-### The Strokes - Last Nite Official Music Video
-{{< youtube id="TOypSnKFHrE" title="The Strokes - Last Nite Official Music Video" >}}<br>
-### More Videos
-
-- [The Strokes - Someday Official Music Video](https://www.youtube.com/watch?v=knU9gRUWCno)
-- [The Strokes - Hard To Explain Official Music Video](https://www.youtube.com/watch?v=BXkm6h6uq0k)
-- [The Strokes - The Modern Age Official Music Video](https://www.youtube.com/watch?v=RzO7IGWGxu8)
-- [The Strokes - Is This It Mad TV 2002](https://www.youtube.com/watch?v=vMZ9-6Hxv2w)
-- [The Strokes - Is This It Full Album 2001 HQ](https://www.youtube.com/watch?v=uwTrH3e5OzM)
-- [The Strokes - Soma Lyrics HQ](https://www.youtube.com/watch?v=wU6oRPIli_M)
 
 ## Release Images
 {{< imageGrid >}}

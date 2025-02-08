@@ -4,6 +4,7 @@ artist_name: "The Wildhearts"
 artist: "the-wildhearts"
 album_name: "Earth Vs The Wildhearts"
 date: 2019-09-13T17:47:05.000000Z
+release_date: "1993-08-30"
 release_id: "14123607"
 slug: "earth-vs-the-wildhearts-14123607"
 hideSummary: true
@@ -24,34 +25,30 @@ Earth vs the Wildhearts is the debut studio album by British rock band the Wildh
 The album has been reissued twice: first in 1994 with the addition of the formerly single-only track "Caffeine Bomb", and again in 2010 with several B-sides from the period.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Greetings From Shitsville
-2. TV Tan
-3. Everlone
-4. Shame On Me
-5. Loveshit
-6. The Miles Away Girl
-7. My Baby Is A Headfuck /
-8. Suckerpunch
-9. News Of The World
-10. Love U Til I Don't
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Greetings From Shitsville |  |
+| A2 | TV Tan |  |
+| A3 | Everlone |  |
+| A4 | Shame On Me |  |
+| A5 | Loveshit |  |
+| B1 | The Miles Away Girl |  |
+| B2 | My Baby Is A Headfuck / |  |
+| B3 | Suckerpunch |  |
+| B4 | News Of The World |  |
+| B5 | Love U Til I Don't |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/earth-versus-the-wildhearts/41297620" >}}<br>
 
 
-## Videos
-### Greetings from Shitsville
-{{< youtube id="XM-iQc3yYQs" title="Greetings from Shitsville" >}}<br>
-### More Videos
-
-- [News of the World](https://www.youtube.com/watch?v=L191KWeauHQ)
-- [The Wildhearts - Loveshit](https://www.youtube.com/watch?v=nW_eNEuYNUI)
-- [The Wildhearts - TV Tan](https://www.youtube.com/watch?v=o8y-M_0UffE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +60,5 @@ The album has been reissued twice: first in 1994 with the addition of the former
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | EastWest |
 | Catalog Number | 0190295451950 |
-| Notes | Produced by The Wildhearts at Wessex Studios, London. Engineered by KK. Additional production and mixed by Mike 'SPike' Drake at Maison Rouge Studios, London except for 'Suckerpunch' (track B3) - produced and mixed by Mark Dodson at Mayfair Studios, London.  Mastered at Sterling Sounds, NYC.  ℗ 1993 Warner Music U.K. Ltd. This release © 2019 Warner Music U.K. Ltd., a Warner Music Group company. |
+| Notes | Produced by The Wildhearts at Wessex Studios, London. Engineered by KK. Additional production and mixed by Mike 'SPike' Drake at Maison Rouge Studios, London except for 'Suckerpunch' (track B3) - produced and mixed by Mark Dodson at Mayfair Studios, London.<br><br>Mastered at Sterling Sounds, NYC.<br><br>℗ 1993 Warner Music U.K. Ltd. This release © 2019 Warner Music U.K. Ltd., a Warner Music Group company. |
 | Discogs URL    | [The Wildhearts - Earth Vs The Wildhearts](https://www.discogs.com/release/14123607-The-Wildhearts-Earth-Vs-The-Wildhearts) |

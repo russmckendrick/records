@@ -4,6 +4,7 @@ artist_name: "At The Drive-In"
 artist: "at-the-drive-in"
 album_name: "in•ter a•li•a"
 date: 2017-05-05T17:27:45.000000Z
+release_date: "2017-05-05"
 release_id: "10234051"
 slug: "inter-alia-10234051"
 hideSummary: true
@@ -21,31 +22,30 @@ styles: ["Indie Rock", "Post-Hardcore"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. No Wolf Like The Present
-2. Continuum
-3. Tilting At The Univendor
-4. Governed By Contagions
-5. Pendulum In A Peasant Dress
-6. Incurably Innocent
-7. Call Broken Arrow
-8. Holtzclaw
-9. Torrentially Cutshaw
-10. Ghost-Tape No. 9
-11. Hostage Stamps
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | No Wolf Like The Present |  |
+| A2 | Continuum |  |
+| A3 | Tilting At The Univendor |  |
+| A4 | Governed By Contagions |  |
+| A5 | Pendulum In A Peasant Dress |  |
+| A6 | Incurably Innocent |  |
+| B1 | Call Broken Arrow |  |
+| B2 | Holtzclaw |  |
+| B3 | Torrentially Cutshaw |  |
+| B4 | Ghost-Tape No. 9 |  |
+| B5 | Hostage Stamps |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-ter-a-li-a/1207471331" >}}<br>
 
 
-## Videos
-### At The Drive-In - inter alia 2017 Full album vinyl
-{{< youtube id="Y-dIyGbATsc" title="At The Drive-In - inter alia 2017 Full album vinyl" >}}<br>
-### More Videos
-
-- [At The Drive In - Hostage Stamps Official Music Video](https://www.youtube.com/watch?v=JoNJ6AQhmFY)
-- [At The Drive In - Incurably Innocent Lyric Video](https://www.youtube.com/watch?v=uS_IramA9m4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,5 +56,5 @@ styles: ["Indie Rock", "Post-Hardcore"]
 | Format         | Vinyl LP Album Limited Edition (Grimace Purple / Deep Purple With Grimace Purple Splatter Split) |
 | Label          | Rise Records (3) |
 | Catalog Number | RISE 369-1 |
-| Notes | 2,250 units on Half Grimace Purple & Half Deep Purple with Grimace Purple Splatter vinyl  Recorded at Sunset Sound Factory |
+| Notes | 2,250 units on Half Grimace Purple & Half Deep Purple with Grimace Purple Splatter vinyl<br><br>Recorded at Sunset Sound Factory |
 | Discogs URL    | [At The Drive-In - in•ter a•li•a](https://www.discogs.com/release/10234051-At-The-Drive-In-inter-alia) |

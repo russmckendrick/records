@@ -4,6 +4,7 @@ artist_name: "Inspiral Carpets"
 artist: "inspiral-carpets"
 album_name: "The Complete Singles"
 date: 2023-03-20T05:45:50.000000Z
+release_date: "1995-09-18"
 release_id: "26454110"
 slug: "the-complete-singles-26454110"
 hideSummary: true
@@ -32,69 +33,44 @@ styles: ["Indie Rock"]
 Discography: The Complete Singles Collection is the first greatest hits album by English synth-pop duo Pet Shop Boys, released on 4 November 1991 by Parlophone.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Keep The Circle Around
-2. Butterfly
-3. Joe
-4. Find Out Why
-5. Move
-6. This Is How It Feels
-7. She Comes In The Fall
-8. Biggest Mountain
-9. Weakness
-10. Caravan
-11. Please Be Cruel
-12. Dragging Me Down
-13. Two Worlds Collide
-14. Generations
-15. Bitches Brew
-16. How It Should Be
-17. Saturn 5
-18. I Want You
-19. Uniform
-20. Come Back Tomorrow
-21. You’re So Good For Me
-22. Fix Your Smile
-23. Spitfire
-24. Let You Down (Edit)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Keep The Circle Around |  |
+| A2 | Butterfly |  |
+| A3 | Joe |  |
+| A4 | Find Out Why |  |
+| A5 | Move |  |
+| A6 | This Is How It Feels |  |
+| A7 | She Comes In The Fall |  |
+| B1 | Biggest Mountain |  |
+| B2 | Weakness |  |
+| B3 | Caravan |  |
+| B4 | Please Be Cruel |  |
+| B5 | Dragging Me Down |  |
+| C1 | Two Worlds Collide |  |
+| C2 | Generations |  |
+| C3 | Bitches Brew |  |
+| C4 | How It Should Be |  |
+| C5 | Saturn 5 |  |
+| C6 | I Want You |  |
+| D1 | Uniform |  |
+| D2 | Come Back Tomorrow |  |
+| D3 | You’re So Good For Me |  |
+| D4 | Fix Your Smile |  |
+| D5 | Spitfire |  |
+| D6 | Let You Down (Edit) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-complete-singles/1672583898" >}}<br>
 
 
-## Videos
-### Inspiral Carpets - Changes Martyn Walsh  Simon Lyon Remix Official Visualiser
-{{< youtube id="cmqzakGa6Dc" title="Inspiral Carpets - Changes Martyn Walsh  Simon Lyon Remix Official Visualiser" >}}<br>
-### More Videos
-
-- [Keep the Circle Around 2023 Remaster](https://www.youtube.com/watch?v=mypEpDOaZ6U)
-- [Butterfly 2023 Remaster](https://www.youtube.com/watch?v=sUAGD5cvsMk)
-- [Joe 2023 Remaster](https://www.youtube.com/watch?v=f_GhZ9w3o28)
-- [Find Out Why 2023 Remaster](https://www.youtube.com/watch?v=SRbVmjUsVeg)
-- [Move 2023 Remaster](https://www.youtube.com/watch?v=k9SYolKaqHU)
-- [This Is How It Feels 2023 Remaster](https://www.youtube.com/watch?v=CpTzFzKVZfc)
-- [She Comes in the Fall 2023 Remaster](https://www.youtube.com/watch?v=yxkuO60UvFU)
-- [Biggest Mountain 2023 Remaster](https://www.youtube.com/watch?v=GSOVfG_ZzxM)
-- [Weakness 2023 Remaster](https://www.youtube.com/watch?v=_bJEbVCpE8Y)
-- [Caravan 2023 Remaster](https://www.youtube.com/watch?v=4EyTAHldatc)
-- [Please Be Cruel 2023 Remaster](https://www.youtube.com/watch?v=wcW9zj_v8nQ)
-- [Dragging Me Down 2023 Remaster](https://www.youtube.com/watch?v=6KVuhJFUA7Q)
-- [Two Worlds Collide 7 Edit 2023 Remaster](https://www.youtube.com/watch?v=qjF7iOokg4c)
-- [Generations 2023 Remaster](https://www.youtube.com/watch?v=0wJJ_zgv9IA)
-- [Bitches Brew 2023 Remaster](https://www.youtube.com/watch?v=cK_XaUE45TU)
-- [How It Should Be 2023 Remaster](https://www.youtube.com/watch?v=cwECpC5LU2k)
-- [Saturn 5 2023 Remaster](https://www.youtube.com/watch?v=IZjqpT2PPgI)
-- [I Want You feat Mark E Smith 2023 Remaster](https://www.youtube.com/watch?v=9TlpH6Fwycc)
-- [Uniform 2023 Remaster](https://www.youtube.com/watch?v=2ZTQFw3IgaA)
-- [Come Back Tomorrow 2023 Remaster](https://www.youtube.com/watch?v=X0YXJCuFv2A)
-- [Youre so Good for Me 2023 Remaster](https://www.youtube.com/watch?v=wPS1PD-JbpM)
-- [Fix Your Smile 2023 Remaster](https://www.youtube.com/watch?v=MBFYZxiQsI8)
-- [Spitfire 2023 Remaster](https://www.youtube.com/watch?v=xgrVxrWhCdw)
-- [Let You Down Edit 2023 Remaster](https://www.youtube.com/watch?v=6m33S82yYAM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -106,5 +82,5 @@ Discography: The Complete Singles Collection is the first greatest hits album by
 | Format         | Vinyl 2× LP Compilation Limited Edition Remastered Stereo |
 | Label          | Mute |
 | Catalog Number | dung36lpx |
-| Notes | "Midnight Licorice" colour double vinyl [i.e., black!]  Manufactured in Poland |
+| Notes | "Midnight Licorice" colour double vinyl [i.e., black!]<br><br>Manufactured in Poland |
 | Discogs URL    | [Inspiral Carpets - The Complete Singles](https://www.discogs.com/release/26454110-Inspiral-Carpets-The-Complete-Singles) |

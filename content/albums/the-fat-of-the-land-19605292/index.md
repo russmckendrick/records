@@ -4,6 +4,7 @@ artist_name: "The Prodigy"
 artist: "the-prodigy"
 album_name: "The Fat Of The Land"
 date: 2021-07-27T04:40:01.000000Z
+release_date: "1997-06-30"
 release_id: "19605292"
 slug: "the-fat-of-the-land-19605292"
 hideSummary: true
@@ -31,47 +32,30 @@ styles: ["Breakbeat", "Breaks"]
 The Fat of the Land is the third studio album by English electronic music group the Prodigy, released on 30 June 1997 through XL Recordings. The album received critical acclaim and topped the UK Albums Chart and the US Billboard 200. It has sold over 10 million copies worldwide as of 2019. It is their best-selling album.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Smack My Bitch Up
-2. Breathe
-3. Diesel Power
-4. Funky Shit
-5. Serial Thrilla
-6. Mindfields
-7. Narayan
-8. Firestarter
-9. Climbatize
-10. Fuel My Fire
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Smack My Bitch Up |  |
+| A2 | Breathe |  |
+| B1 | Diesel Power |  |
+| B2 | Funky Shit |  |
+| C1 | Serial Thrilla |  |
+| C2 | Mindfields |  |
+| C3 | Narayan |  |
+| D1 | Firestarter |  |
+| D2 | Climbatize |  |
+| D3 | Fuel My Fire |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-fat-of-the-land/1450123945" >}}<br>
 
 
-## Videos
-### TVC - The Prodigy The Fat of the Land - Sony Music Australia
-{{< youtube id="02IJIwuXDwY" title="TVC - The Prodigy The Fat of the Land - Sony Music Australia" >}}<br>
-### More Videos
-
-- [The Prodigy - Firestarter Official Video](https://www.youtube.com/watch?v=wmin5WkOuPw)
-- [The Prodigy  TheFatoftheLand Full Album](https://www.youtube.com/watch?v=GP6F0y3eU0Q)
-- [Smack My Bitch Up](https://www.youtube.com/watch?v=xW17jtkjvvg)
-- [Breathe](https://www.youtube.com/watch?v=LhOjN4t0YsY)
-- [The Prodigy - Funky Shit](https://www.youtube.com/watch?v=psCf0oK9dvg)
-- [The Prodigy   Serial Thrilla](https://www.youtube.com/watch?v=kmaBE7ZJ8cE)
-- [The Prodigy   Mindfields original](https://www.youtube.com/watch?v=7lEB7V-KIb0)
-- [The Prodigy - Narayan](https://www.youtube.com/watch?v=_bleTaIGSQw)
-- [Firestarter](https://www.youtube.com/watch?v=Hb9hvRSEel8)
-- [The Prodigy - Climbatize](https://www.youtube.com/watch?v=HuZTEsvgQko)
-- [The Prodigy - Fuel My Fire](https://www.youtube.com/watch?v=sf3QD3VoOnU)
-- [The Prodigy  TheFatoftheLand Full Album](https://www.youtube.com/watch?v=GP6F0y3eU0Q)
-- [Mindfields](https://www.youtube.com/watch?v=mbcVm8iepQE)
-- [The Prodigy - Breathe Official Video](https://www.youtube.com/watch?v=6_PAHbqq-o4)
-- [Reviewing The Prodigys The Fat of the Land in 10 seconds or less](https://www.youtube.com/watch?v=lToRGp9bYNE)
-- [The Samples  The Prodigy  The Fat Of The Land Edition](https://www.youtube.com/watch?v=fl79MQ0M4dw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +67,5 @@ The Fat of the Land is the third studio album by English electronic music group 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Repress Stereo (Orange Neon) |
 | Label          | XL Recordings |
 | Catalog Number | XL121LPE2 |
-| Notes | Limited edition of 1000 copies.  ℗XL Recordings Ltd 1997. ©XL Recordings Ltd 1997. |
+| Notes | Limited edition of 1000 copies.<br><br>℗XL Recordings Ltd 1997. ©XL Recordings Ltd 1997. |
 | Discogs URL    | [The Prodigy - The Fat Of The Land](https://www.discogs.com/release/19605292-Prodigy-The-Fat-Of-The-Land) |

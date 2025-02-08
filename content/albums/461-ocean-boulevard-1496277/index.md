@@ -4,6 +4,7 @@ artist_name: "Eric Clapton"
 artist: "eric-clapton"
 album_name: "461 Ocean Boulevard"
 date: 2020-08-02T13:40:52.000000Z
+release_date: "1974-07-01"
 release_id: "1496277"
 slug: "461-ocean-boulevard-1496277"
 hideSummary: true
@@ -25,33 +26,30 @@ The album was Clapton's return to the recording studio after a three-year hiatus
 A remastered two-disc deluxe edition of the album was released in 2004, which included selections from two live shows at the Hammersmith Odeon, and additional studio jam sessions.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Motherless Children
-2. Give Me Strength
-3. Willie And The Hand Jive
-4. Get Ready
-5. I Shot The Sheriff
-6. I Can't Hold Out Much Longer
-7. Please Be With Me
-8. Let It Grow
-9. Steady Rollin' Man
-10. Mainline Florida
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Motherless Children |  |
+| A2 | Give Me Strength |  |
+| A3 | Willie And The Hand Jive |  |
+| A4 | Get Ready |  |
+| A5 | I Shot The Sheriff |  |
+| B1 | I Can't Hold Out Much Longer |  |
+| B2 | Please Be With Me |  |
+| B3 | Let It Grow |  |
+| B4 | Steady Rollin' Man |  |
+| B5 | Mainline Florida |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/461-ocean-boulevard/1440851328" >}}<br>
 
 
-## Videos
-### 에릭 클랩튼 1974 Eric Clapton  461 Ocean Boulevard Full Album
-{{< youtube id="9hprfwmfz5k" title="에릭 클랩튼 1974 Eric Clapton  461 Ocean Boulevard Full Album" >}}<br>
-### More Videos
-
-- [Eric Clapton - Motherless Children Live In San Diego](https://www.youtube.com/watch?v=h9d2ZeAvBgA)
-- [Eric Clapton - Layla Live Aid 1985](https://www.youtube.com/watch?v=f9myqi7VL9s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +61,5 @@ A remastered two-disc deluxe edition of the album was released in 2004, which in
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | RSO |
 | Catalog Number | SPELP 24 |
-| Notes | Non-gatefold sleeve.  — Back cover: Recorded at Criteria Recording Studios, Miami, Florida. Yvonne Elliman courtesy of Purple Records. Al Jackson courtesy of Stax Records. Produced […] by arrangement with the Robert Stigwood Organization ℗ 1974 RSO Records © 1983 Polydor Ltd. (London)  — Labels: Made in England Marketed by Polydor Ltd Original Sound Recording made by RSO Records Ltd. ℗ 1974 RSO Records Ltd.  All matrix details are stamped. |
+| Notes | Non-gatefold sleeve.<br><br>— Back cover:<br>Recorded at Criteria Recording Studios, Miami, Florida.<br>Yvonne Elliman courtesy of Purple Records.<br>Al Jackson courtesy of Stax Records.<br>Produced […] by arrangement with the Robert Stigwood Organization<br>℗ 1974 RSO Records © 1983 Polydor Ltd. (London)<br><br>— Labels:<br>Made in England<br>Marketed by Polydor Ltd<br>Original Sound Recording made by RSO Records Ltd.<br>℗ 1974 RSO Records Ltd.<br><br>All matrix details are stamped. |
 | Discogs URL    | [Eric Clapton - 461 Ocean Boulevard](https://www.discogs.com/release/1496277-Eric-Clapton-461-Ocean-Boulevard) |

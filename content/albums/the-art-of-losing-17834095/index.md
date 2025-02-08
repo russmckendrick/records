@@ -4,6 +4,7 @@ artist_name: "The Anchoress"
 artist: "the-anchoress"
 album_name: "The Art Of Losing"
 date: 2021-03-14T11:51:46.000000Z
+release_date: "2021-03-12"
 release_id: "17834095"
 slug: "the-art-of-losing-17834095"
 hideSummary: true
@@ -26,33 +27,33 @@ styles: []
 ---
 
 The Art of Losing is the second studio album by Welsh musician The Anchoress (birth name Catherine Anne Davies). It was released on 12 March 2021 by Kscope. Written and produced by Davies, the record has a dark alt-pop sound. Lyrically, it draws from grief, fury, and Davies's personal experiences. Upon release, the album was met with critical acclaim, with praise towards Davies's storytelling.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Moon Rise (Prelude)
-2. Let It Hurt
-3. The Exchange
-4. Show Your Face
-5. The Art Of Losing
-6. All Farewells Should Be Sudden
-7. All Shall Be Well
-8. Unravel
-9. Paris
-10. 5am
-11. The Heart Is A Lonesome Hunter
-12. My Confessor
-13. With The Boys
-14. Moon (An End)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Moon Rise (Prelude) |  |
+| A2 | Let It Hurt |  |
+| A3 | The Exchange |  |
+| B1 | Show Your Face |  |
+| B2 | The Art Of Losing |  |
+| B3 | All Farewells Should Be Sudden |  |
+| B4 | All Shall Be Well |  |
+| C1 | Unravel |  |
+| C2 | Paris |  |
+| C3 | 5am |  |
+| C4 | The Heart Is A Lonesome Hunter |  |
+| D1 | My Confessor |  |
+| D2 | With The Boys |  |
+| D3 | Moon (An End) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-art-of-losing/1535065686" >}}<br>
 
-
-## Videos
-### The Exchange - The Anchoress feat James Dean Bradfield
-{{< youtube id="HLFqdfYeVJ4" title="The Exchange - The Anchoress feat James Dean Bradfield" >}}<br>
 
 
 ## Release Images
@@ -65,5 +66,5 @@ The Art of Losing is the second studio album by Welsh musician The Anchoress (bi
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Gold) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1111 |
-| Notes | Double Gold Vinyl Limited to 500 copies |
+| Notes | Double Gold Vinyl<br>Limited to 500 copies |
 | Discogs URL    | [The Anchoress - The Art Of Losing](https://www.discogs.com/release/17834095-The-Anchoress-The-Art-Of-Losing) |

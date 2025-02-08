@@ -4,6 +4,7 @@ artist_name: "Suede"
 artist: "suede"
 album_name: "Night Thoughts Replacement Pack A"
 date: 2019-12-19T20:21:35.000000Z
+release_date: ""
 release_id: "13083066"
 slug: "night-thoughts-replacement-pack-a-13083066"
 hideSummary: true
@@ -19,31 +20,31 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. When You Are Young
-2. Outsiders
-3. No Tomorrow
-4. Pale Snow
-5. I Don't Know How To Reach You
-6. What I'm Trying To Tell You
-7. Tightrope
-8. Learning To Be
-9. Like Kids
-10. I Can't Give Her What She Wants
-11. When You Were Young
-12. The Fur And The Feathers
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | When You Are Young |  |
+| A2 | Outsiders |  |
+| A3 | No Tomorrow |  |
+| B1 | Pale Snow |  |
+| B2 | I Don't Know How To Reach You |  |
+| B3 | What I'm Trying To Tell You |  |
+| C1 | Tightrope |  |
+| C2 | Learning To Be |  |
+| C3 | Like Kids |  |
+| D1 | I Can't Give Her What She Wants |  |
+| D2 | When You Were Young |  |
+| D3 | The Fur And The Feathers |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Suede - What Im Trying To Tell You
-{{< youtube id="so7PZl_1vOM" title="Suede - What Im Trying To Tell You" >}}<br>
-### More Videos
 
-- [Suede - Like Kids](https://www.youtube.com/watch?v=q3pVPrfOc2g)
-- [Suede  - No Tomorrow](https://www.youtube.com/watch?v=ZHQRz_15s3g)
-- [Suede  - Pale Snow](https://www.youtube.com/watch?v=ir9RgLZuIfY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -54,5 +55,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 2× LP 45 RPM Album Reissue (Translucent Blue ) |
 | Label          | Demon Records |
 | Catalog Number | SUEDEAMZREP1 |
-| Notes | Standalone replacement pressing of album in [r12778997], re-pressed due to errors on that edition.   Blue vinyl Amazon exclusive version. 1,000 only.  Sent in plain white sleeves with no album cover or inserts (unless requested).   ℗ 2016 Suede Ltd. under exclusive license to Warner Music UK Ltd. © Demon Music Group Ltd Made in the EU. |
+| Notes | Standalone replacement pressing of album in [r12778997], re-pressed due to errors on that edition. <br><br>Blue vinyl Amazon exclusive version. 1,000 only.<br><br>Sent in plain white sleeves with no album cover or inserts (unless requested). <br><br>℗ 2016 Suede Ltd. under exclusive license to Warner Music UK Ltd.<br>© Demon Music Group Ltd<br>Made in the EU. |
 | Discogs URL    | [Suede - Night Thoughts Replacement Pack A](https://www.discogs.com/release/13083066-Suede-Night-Thoughts-Replacement-Pack-A) |

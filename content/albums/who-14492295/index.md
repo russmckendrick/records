@@ -4,6 +4,7 @@ artist_name: "The Who"
 artist: "the-who"
 album_name: "Who"
 date: 2019-12-11T18:40:10.000000Z
+release_date: "2014-01-01"
 release_id: "14492295"
 slug: "who-14492295"
 hideSummary: true
@@ -23,30 +24,30 @@ Who is the twelfth studio album by the English rock band The Who, released on 6 
 Promoted by three singles, including the lead single "Ball and Chain", WHO was a commercial success, reaching number three on the UK Albums Chart and number two on the American Billboard 200. The album was also positively received by music critics. The Who supported the album with their Moving On! Tour.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. All This Music Must Fade
-2. Ball And Chain
-3. I Don't Wanna Get Wise
-4. Detour
-5. Beads On One String
-6. Hero Ground Zero
-7. Street Song
-8. I'll Be Back
-9. Break The News
-10. Rockin' In Rage
-11. She Rocked My World
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | All This Music Must Fade |  |
+| A2 | Ball And Chain |  |
+| A3 | I Don't Wanna Get Wise |  |
+| A4 | Detour |  |
+| A5 | Beads On One String |  |
+| A6 | Hero Ground Zero |  |
+| B1 | Street Song |  |
+| B2 | I'll Be Back |  |
+| B3 | Break The News |  |
+| B4 | Rockin' In Rage |  |
+| B5 | She Rocked My World |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-who-hits-50-deluxe-edition/1461212271" >}}<br>
 
-
-## Videos
-### The Who - All This Music Must Fade New Song
-{{< youtube id="QpKhGNaiS6c" title="The Who - All This Music Must Fade New Song" >}}<br>
 
 
 ## Release Images
@@ -59,5 +60,5 @@ Promoted by three singles, including the lead single "Ball and Chain", WHO was a
 | Format         | Vinyl LP Album Limited Edition Picture Disc |
 | Label          | Polydor |
 | Catalog Number | 0830402 |
-| Notes | The First Studio Album since 2006  Includes free digital download code of all songs of "Who"  ℗&© 2019 Yearhour Limited under exclusive licence to Universal Music Operations Limited  Made in the EU  |
+| Notes | The First Studio Album since 2006<br><br>Includes free digital download code of all songs of "Who"<br><br>℗&© 2019 Yearhour Limited under exclusive licence to Universal Music Operations Limited<br><br>Made in the EU<br> |
 | Discogs URL    | [The Who - Who](https://www.discogs.com/release/14492295-The-Who-Who) |

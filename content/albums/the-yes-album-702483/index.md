@@ -4,6 +4,7 @@ artist_name: "Yes"
 artist: "yes"
 album_name: "The Yes Album"
 date: 2016-04-15T18:22:14.000000Z
+release_date: "1971-02-19"
 release_id: "702483"
 slug: "the-yes-album-702483"
 hideSummary: true
@@ -25,32 +26,26 @@ The band spent mid-1970 writing and rehearsing new material at a farmhouse at Ro
 The album was a critical success and a major commercial breakthrough for Yes, who had been at risk of being dropped by Atlantic due to the commercial failures of their first two albums. It reached number 4 in the United Kingdom and number 40 in the United States, and was later certified platinum by the Recording Industry Association of America for surpassing one million copies. The album has been reissued on CD several times, and was given a Blu-ray release in 2014 remixed by Steven Wilson.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Yours Is No Disgrace (9:36)
-2. The Clap (3:07)
-3. Starship Trooper (9:23)
-4. I've Seen All Good People (6:47)
-5. A Venture (3:13)
-6. Perpetual Change (8:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Yours Is No Disgrace | 9:36 |
+| A2 | The Clap | 3:07 |
+|  | Starship Trooper | 9:23 |
+|  | I've Seen All Good People | 6:47 |
+| B2 | A Venture | 3:13 |
+| B3 | Perpetual Change | 8:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-yes-album/1049017157" >}}<br>
 
 
-## Videos
-### Yours Is No Disgrace 2008 Remaster
-{{< youtube id="1fUudna1Xuw" title="Yours Is No Disgrace 2008 Remaster" >}}<br>
-### More Videos
-
-- [The Clap 2008 Remaster](https://www.youtube.com/watch?v=0rHaZYWEtYs)
-- [Starship Trooper a Life Seeker b Disillusion c Würm 2008 Remaster](https://www.youtube.com/watch?v=Yu9ykgGUm1w)
-- [Ive Seen All Good People a Your Move b All Good People 2008 Remaster](https://www.youtube.com/watch?v=WfgPEh2J9aI)
-- [A Venture 2008 Remaster](https://www.youtube.com/watch?v=8mLbzNPOXpI)
-- [Perpetual Change 2008 Remaster](https://www.youtube.com/watch?v=OZ5av777ANk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +57,5 @@ The album was a critical success and a major commercial breakthrough for Yes, wh
 | Format         | Vinyl LP Album Reissue |
 | Label          | Atlantic |
 | Catalog Number | ATL 40 106 |
-| Notes | First cat. number on labels, the spine, and the cover. Second cat. number on the back cover.  Recorded at Advision Studios, London, Autumn 1970. Track A2 recorded live, Lyceum London ℗ 1971 Atlantic Records  |
+| Notes | First cat. number on labels, the spine, and the cover. Second cat. number on the back cover.<br><br>Recorded at Advision Studios, London, Autumn 1970.<br>Track A2 recorded live, Lyceum London<br>℗ 1971 Atlantic Records<br> |
 | Discogs URL    | [Yes - The Yes Album](https://www.discogs.com/release/702483-Yes-The-Yes-Album) |

@@ -39,36 +39,32 @@ This album was certified Gold by the RIAA on June 11, 2009. As of February 2015,
 
 
 ## Tracklisting
-1. 1 Unum
-2. March Into The Sea (3:30)
-3. Dashboard (4:06)
-4. Fire It Up (4:34)
-5. Florida (2:57)
-6. 2 Duo
-7. Parting Of The Sensory (5:34)
-8. Missed The Boat (4:24)
-9. We've Got Everything (3:40)
-10. 3 Tria
-11. Fly Trapped In A Jar (4:29)
-12. Education (3:56)
-13. Little Motel (4:44)
-14. Steam Engenius (4:26)
-15. 4 Quattor
-16. Spitting Venom (8:27)
-17. People As Places As People (3:42)
-18. Invisible (3:59)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | 1 Unum |  |
+| A1 | March Into The Sea | 3:30 |
+| A2 | Dashboard | 4:06 |
+| A3 | Fire It Up | 4:34 |
+| A4 | Florida | 2:57 |
+|  | 2 Duo |  |
+| B1 | Parting Of The Sensory | 5:34 |
+| B2 | Missed The Boat | 4:24 |
+| B3 | We've Got Everything | 3:40 |
+|  | 3 Tria |  |
+| C1 | Fly Trapped In A Jar | 4:29 |
+| C2 | Education | 3:56 |
+| C3 | Little Motel | 4:44 |
+| C4 | Steam Engenius | 4:26 |
+|  | 4 Quattor |  |
+| D1 | Spitting Venom | 8:27 |
+| D2 | People As Places As People | 3:42 |
+| D3 | Invisible | 3:59 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/we-were-dead-before-the-ship-even-sank/216544035" >}}<br>
 
 
-## Videos
-### Modest Mouse - Dashboard Official Music Video
-{{< youtube id="penvn9VL32Y" title="Modest Mouse - Dashboard Official Music Video" >}}<br>
-### More Videos
-
-- [Modest Mouse - Missed the Boat Contest Video](https://www.youtube.com/watch?v=O4XskfT6vNY)
-- [Modest Mouse - Dashboard Official Music Video](https://www.youtube.com/watch?v=penvn9VL32Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +76,5 @@ This album was certified Gold by the RIAA on June 11, 2009. As of February 2015,
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Epic |
 | Catalog Number | 82876 86139 1 |
-| Notes | 180 Gram Vinyl    Labels:  © ℗ 2006 Sony BMG Music Entertainment  Made in the EU  Sleeve:  © ℗ 2007 Sony BMG Music Entertainment    Different from US version for inner paper sleeves in lighter paper, labels are all white and the sides are numbered with these words:    1 UNUM  2 DUO  3 TRIA  4 QUATTOR   |
+| Notes | 180 Gram Vinyl<br><br>Labels:<br>© ℗ 2006 Sony BMG Music Entertainment<br>Made in the EU<br>Sleeve:<br>© ℗ 2007 Sony BMG Music Entertainment<br><br>Different from US version for inner paper sleeves in lighter paper, labels are all white and the sides are numbered with these words:<br><br>1 UNUM<br>2 DUO<br>3 TRIA<br>4 QUATTOR<br> |
 | Discogs URL    | [Modest Mouse - We Were Dead Before The Ship Even Sank](https://www.discogs.com/release/2075825-Modest-Mouse-We-Were-Dead-Before-The-Ship-Even-Sank) |

@@ -4,6 +4,7 @@ artist_name: "Bootsy Collins"
 artist: "bootsy-collins"
 album_name: "World Wide Funk"
 date: 2017-10-28T15:15:18.000000Z
+release_date: "2017-10-27"
 release_id: "11046939"
 slug: "world-wide-funk-11046939"
 hideSummary: true
@@ -42,30 +43,33 @@ styles: ["P.Funk"]
 ---
 
 World Wide Funk is the 15th studio album by former Parliament-Funkadelic bassist Bootsy Collins. The album was released on October 26, 2017—Collins' 66th birthday—by Mascot Records and was made available on CD, 180G "Splatter" vinyl, and digital download. The album features diverse musical collaborations with artists such as Stanley Clarke, Victor Wooten, Chuck D, Big Daddy Kane, Doug E. Fresh, Eric Gales, Musiq Soulchild, Buckethead, Dennis Chambers, Kali Uchis, and the late P-Funk keyboardist, Bernie Worrell.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. World Wide Funk
-2. Bass-Rigged-System
-3. Pusherman
-4. Thera-P
-5. Hot Saucer
-6. Heaven Eyes
-7. Ladies Nite
-8. Candy Coated Lover
-9. Snow Bunny
-10. Hi-On-Heels
-11. A Salute To Bernie
-12. Boomerang
-13. Worth My While
-14. Come Back Bootsy
-15. Illusions
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | World Wide Funk |  |
+| A2 | Bass-Rigged-System |  |
+| A3 | Pusherman |  |
+| A4 | Thera-P |  |
+| B1 | Hot Saucer |  |
+| B2 | Heaven Eyes |  |
+| B3 | Ladies Nite |  |
+| B4 | Candy Coated Lover |  |
+| C1 | Snow Bunny |  |
+| C2 | Hi-On-Heels |  |
+| C3 | A Salute To Bernie |  |
+| C4 | Boomerang |  |
+| D1 | Worth My While |  |
+| D2 | Come Back Bootsy |  |
+| D3 | Illusions |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/world-wide-funk/1600467754" >}}<br>
-
 
 
 
@@ -79,5 +83,5 @@ World Wide Funk is the 15th studio album by former Parliament-Funkadelic bassist
 | Format         | Vinyl 2× LP Album Limited Edition (Splatter) |
 | Label          | Mascot Records (2) |
 | Catalog Number | M 75141 |
-| Notes | Hype sticker on shrink: 140 gram splatter 2-LP Download card included  Gatefold cover, spine: [Mascot 'M' logo] Bootsy Collins World Wide Funk M 75141  Gatefold cover, back: [Mascot Records logo] M75141 [Barcode] [Mascot Label Group logo] Ⓟ © 2017 Mascot Music Productions and Publishing B.V.  Includes 12-pages LP size comic book  Spoken Intro by Iggy Pop |
+| Notes | Hype sticker on shrink:<br>140 gram splatter 2-LP<br>Download card included<br><br>Gatefold cover, spine:<br>[Mascot 'M' logo] Bootsy Collins World Wide Funk M 75141<br><br>Gatefold cover, back:<br>[Mascot Records logo] M75141 [Barcode] [Mascot Label Group logo]<br>Ⓟ © 2017 Mascot Music Productions and Publishing B.V.<br><br>Includes 12-pages LP size comic book<br><br>Spoken Intro by Iggy Pop |
 | Discogs URL    | [Bootsy Collins - World Wide Funk](https://www.discogs.com/release/11046939-Bootsy-Collins-World-Wide-Funk) |

@@ -4,6 +4,7 @@ artist_name: "The Ink Spots"
 artist: "the-ink-spots"
 album_name: "The Best Of The Ink Spots (20 Classic Tracks)"
 date: 2020-08-02T13:46:36.000000Z
+release_date: "1999-01-01"
 release_id: "1771691"
 slug: "the-best-of-the-ink-spots-20-classic-tracks-1771691"
 hideSummary: true
@@ -21,57 +22,39 @@ styles: ["Vocal"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. If I Didn't Care
-2. Bless You For Being An Angel
-3. When The Swallows Come Back To Capistrano
-4. Whispering Grass (Don't Tell The Trees)
-5. Maybe
-6. Java Jive
-7. Do I Worry
-8. I Don't Want To Set The World On Fire
-9. Ev'ry Night About This Time
-10. Don't Get Around Much Anymore
-11. To Each His Own
-12. Ring Telephone Ring
-13. I'd Climb The Highest Mountain
-14. Puttin' And Takin'
-15. Cow-Cow-Boogie
-16. Into Each Life Some Rain Must Fall
-17. Your Feet's Too Big
-18. I'll Never Smile Again
-19. It's A Sin To Tell A Lie
-20. Someone's Rocking My Dreamboat
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | If I Didn't Care |  |
+| A2 | Bless You For Being An Angel |  |
+| A3 | When The Swallows Come Back To Capistrano |  |
+| A4 | Whispering Grass (Don't Tell The Trees) |  |
+| A5 | Maybe |  |
+| A6 | Java Jive |  |
+| A7 | Do I Worry |  |
+| A8 | I Don't Want To Set The World On Fire |  |
+| A9 | Ev'ry Night About This Time |  |
+| A10 | Don't Get Around Much Anymore |  |
+| B1 | To Each His Own |  |
+| B2 | Ring Telephone Ring |  |
+| B3 | I'd Climb The Highest Mountain |  |
+| B4 | Puttin' And Takin' |  |
+| B5 | Cow-Cow-Boogie |  |
+| B6 | Into Each Life Some Rain Must Fall |  |
+| B7 | Your Feet's Too Big |  |
+| B8 | I'll Never Smile Again |  |
+| B9 | It's A Sin To Tell A Lie |  |
+| B10 | Someone's Rocking My Dreamboat |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/20th-century-masters-the-millennium-series-the/1440921890" >}}<br>
 
 
-## Videos
-### If I Didnt Care
-{{< youtube id="Xt3QYPkoa64" title="If I Didnt Care" >}}<br>
-### More Videos
-
-- [Bless You For Being An Angel](https://www.youtube.com/watch?v=XIuNdUNhQ_I)
-- [When the Swallows Come Back to Capistrano](https://www.youtube.com/watch?v=X2Fg7eJ7TPU)
-- [Whispering Grass Dont Tell The Trees](https://www.youtube.com/watch?v=v5rdLrZu6YM)
-- [Maybe](https://www.youtube.com/watch?v=cSv7Nq2ia_Y)
-- [Java Jive](https://www.youtube.com/watch?v=R9jc0qNvVQk)
-- [Do I Worry](https://www.youtube.com/watch?v=Oib5lKejxkQ)
-- [I Dont Want To Set The World On Fire](https://www.youtube.com/watch?v=PdLRCvVM8b4)
-- [Evry Night About This Time](https://www.youtube.com/watch?v=8oFBFAvUnsw)
-- [Dont Get Around Much Anymore](https://www.youtube.com/watch?v=tCDbAUtmDzU)
-- [The Ink Spots - To Each His Own](https://www.youtube.com/watch?v=vbJTkC5fkvo)
-- [Ring Telephone Ring](https://www.youtube.com/watch?v=nDJmzW91IhU)
-- [Id Climb The Highest Mountain](https://www.youtube.com/watch?v=o0v1mqjo5lI)
-- [Puttin and Takin](https://www.youtube.com/watch?v=5kxluBWPwmc)
-- [Cow Cow Boogie](https://www.youtube.com/watch?v=XgOrrftfkdM)
-- [The Ink Spots - Into Each Life Some Rain Must Fall](https://www.youtube.com/watch?v=ayGkA-vxrMc)
-- [Your Feets Too Big](https://www.youtube.com/watch?v=PbQ9P-_KLII)
-- [The Ink Spots - Ill Never Smile Again](https://www.youtube.com/watch?v=zYMdjMdpp8Y)
-- [The Ink Spots - Its A Sin To Tell A Lie](https://www.youtube.com/watch?v=kK4JTwcCp_0)
-- [The Ink Spots - Someones Rocking My Dreamboat](https://www.youtube.com/watch?v=SR1_sY0_yAo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +65,5 @@ styles: ["Vocal"]
 | Format         | Vinyl LP Compilation Reissue Mono |
 | Label          | Music For Pleasure |
 | Catalog Number | MFP 50529 |
-| Notes | On rear cover: ℗ Original sound recording made by MCA Records Inc. Previously released on the MCA label ([url=https://www.discogs.com/Ink-Spots-Best-Of-The-Ink-Spots/master/163463]MCF 2573[/url]) under the same title Printed and made in Great Britain by Garrod & Lofthouse International Ltd. |
+| Notes | On rear cover:<br>℗ Original sound recording made by MCA Records Inc.<br>Previously released on the MCA label ([url=https://www.discogs.com/Ink-Spots-Best-Of-The-Ink-Spots/master/163463]MCF 2573[/url]) under the same title<br>Printed and made in Great Britain by Garrod & Lofthouse International Ltd. |
 | Discogs URL    | [The Ink Spots - The Best Of The Ink Spots (20 Classic Tracks)](https://www.discogs.com/release/1771691-The-Ink-Spots-The-Best-Of-The-Ink-Spots-20-Classic-Tracks) |

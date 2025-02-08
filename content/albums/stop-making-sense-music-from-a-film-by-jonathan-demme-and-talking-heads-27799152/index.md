@@ -4,6 +4,7 @@ artist_name: "Talking Heads"
 artist: "talking-heads"
 album_name: "Stop Making Sense (Music From A Film By Jonathan Demme And Talking Heads)"
 date: 2023-08-18T10:06:43.000000Z
+release_date: ""
 release_id: "27799152"
 slug: "stop-making-sense-music-from-a-film-by-jonathan-demme-and-talking-heads-27799152"
 hideSummary: true
@@ -25,40 +26,37 @@ styles: ["New Wave", "Post-Punk", "Art Rock", "Soundtrack", "Funk", "Pop Rock", 
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Psycho Killer
-2. Heaven
-3. Thank You For Sending Me An Angel
-4. Found A Job
-5. Slippery People
-6. Cities
-7. Burning Down The House
-8. Life During Wartime
-9. Making Flippy Floppy
-10. Swamp
-11. What A Day That Was
-12. This Must Be The Place (Naïve Melody)
-13. Once In A Lifetime
-14. Big Business / I Zimbra
-15. Genius Of Love
-16. Girlfriend Is Better
-17. Take Me To The River
-18. Crosseyed And Painless
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Psycho Killer |  |
+| A2 | Heaven |  |
+| A3 | Thank You For Sending Me An Angel |  |
+| A4 | Found A Job |  |
+| A5 | Slippery People |  |
+| A6 | Cities |  |
+| B1 | Burning Down The House |  |
+| B2 | Life During Wartime |  |
+| B3 | Making Flippy Floppy |  |
+| B4 | Swamp |  |
+| C1 | What A Day That Was |  |
+| C2 | This Must Be The Place (Naïve Melody) |  |
+| C3 | Once In A Lifetime |  |
+| C4 | Big Business / I Zimbra |  |
+| D1 | Genius Of Love |  |
+| D2 | Girlfriend Is Better |  |
+| D3 | Take Me To The River |  |
+| D4 | Crosseyed And Painless |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Psycho Killer Live
-{{< youtube id="xGccP6N2xP4" title="Psycho Killer Live" >}}<br>
-### More Videos
 
-- [Swamp Live](https://www.youtube.com/watch?v=O2VTCfcfTTM)
-- [Once in a Lifetime Live](https://www.youtube.com/watch?v=3XCp3ioDjwo)
-- [Slippery People Live](https://www.youtube.com/watch?v=ZCHv9jHHgwU)
-- [Burning Down the House Live](https://www.youtube.com/watch?v=WymDCo0dkSY)
-- [Crosseyed and Painless Live](https://www.youtube.com/watch?v=qhLDfsOBsC0)
-- [Take Me to the River Live](https://www.youtube.com/watch?v=1FlTFQW9lAQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +67,5 @@ styles: ["New Wave", "Post-Punk", "Art Rock", "Soundtrack", "Funk", "Pop Rock", 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Special Edition Stereo (Optimal Pressing) |
 | Label          | Sire |
 | Catalog Number | R1 724897 |
-| Notes | Hype sticker: Music from the film by Jonathan Demme and Talking Heads, newly remastered Special limited-edition 2-LP package features the complete show on vinyl for the first time Also includes original booklet with additional liner notes written by Tina Weymouth, David Byrne, Chris Frantz, and Jerry Harrison  Packaged like the 1984 limited edition pressing but in a wide-spine sleeve. Booklet has additional pages with never before seen photos. Tracks A6 and C4 are identified as previously unreleased.  This version is similar to the [url=https://www.discogs.com/release/28021260-Talking-Heads-Stop-Making-Sense-Music-From-A-Film-By-Jonathan-Demme-And-Talking-Heads]PRP Pressing[/url] with the following differences: - "Made in Germany" printed on back of outer sleeve - Runouts indicate Optimal catalog numbers "BN94056"  This reissue ℗ & © 2023, 1984 Sire Records Company, a Warner Music Group Company, for the U.S. and Canada, and Parlophone Records Ltd., a Warner Music Group Company, for the rest of the world. Manufactured for & marketed by Rhino Entertainment Company, a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021. Made in Germany.  Recorded at The Pantages Theatre, Hollywood, December 1983 by The Record Plant Mobile Re-recording for film at Can Am and Ocean Way, Los Angeles, and Right Track, New York Mixed at Soundworks and Sigma Sound, New York... Originally mastered... at Sterling Sound, New York  Reissue credits: Remastered... at Sterling Sound Vinyl lacquers cut... at Sterling Sound |
+| Notes | Hype sticker:<br>Music from the film by Jonathan Demme and Talking Heads, newly remastered<br>Special limited-edition 2-LP package features the complete show on vinyl for the first time<br>Also includes original booklet with additional liner notes written by Tina Weymouth, David Byrne, Chris Frantz, and Jerry Harrison<br><br>Packaged like the 1984 limited edition pressing but in a wide-spine sleeve. Booklet has additional pages with never before seen photos.<br>Tracks A6 and C4 are identified as previously unreleased.<br><br>This version is similar to the [url=https://www.discogs.com/release/28021260-Talking-Heads-Stop-Making-Sense-Music-From-A-Film-By-Jonathan-Demme-And-Talking-Heads]PRP Pressing[/url] with the following differences:<br>- "Made in Germany" printed on back of outer sleeve<br>- Runouts indicate Optimal catalog numbers "BN94056"<br><br>This reissue ℗ & © 2023, 1984 Sire Records Company, a Warner Music Group Company, for the U.S. and Canada, and Parlophone Records Ltd., a Warner Music Group Company, for the rest of the world. Manufactured for & marketed by Rhino Entertainment Company, a Warner Music Group Company, 777 S. Santa Fe Ave., Los Angeles, CA 90021.<br>Made in Germany.<br><br>Recorded at The Pantages Theatre, Hollywood, December 1983 by The Record Plant Mobile<br>Re-recording for film at Can Am and Ocean Way, Los Angeles, and Right Track, New York<br>Mixed at Soundworks and Sigma Sound, New York...<br>Originally mastered... at Sterling Sound, New York<br><br>Reissue credits:<br>Remastered... at Sterling Sound<br>Vinyl lacquers cut... at Sterling Sound |
 | Discogs URL    | [Talking Heads - Stop Making Sense (Music From A Film By Jonathan Demme And Talking Heads)](https://www.discogs.com/release/27799152-Talking-Heads-Stop-Making-Sense-Music-From-A-Film-By-Jonathan-Demme-And-Talking-Heads) |

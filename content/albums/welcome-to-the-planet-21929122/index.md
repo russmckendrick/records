@@ -4,6 +4,7 @@ artist_name: "Big Big Train"
 artist: "big-big-train"
 album_name: "Welcome To The Planet "
 date: 2022-01-29T02:16:32.000000Z
+release_date: "2022-01-28"
 release_id: "21929122"
 slug: "welcome-to-the-planet-21929122"
 hideSummary: true
@@ -23,31 +24,29 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
 Welcome to the Planet is the fourteenth studio album by English progressive rock band Big Big Train, released 28 January 2022. It was their first album to be released since the death of lead singer David Longdon and first to feature new violinist Clare Lindley, as well as former session contributors Dave Foster and Carly Bryant as full members. It is also the last to feature Bryant who departed the band in January 2023.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Made From Sunshine  (4:05)
-2. The Connection Plan  (3:56)
-3. Lanterna  (6:29)
-4. Capitoline Venus  (2:26)
-5. A Room With No Ceiling  (4:52)
-6. Proper Jack Froster (6:38)
-7. Bats In The Belfry  (4:54)
-8. Oak And Stone  (7:13)
-9. Welcome To The Planet  (6:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Made From Sunshine  | 4:05 |
+| A2 | The Connection Plan  | 3:56 |
+| A3 | Lanterna  | 6:29 |
+| A4 | Capitoline Venus  | 2:26 |
+| A5 | A Room With No Ceiling  | 4:52 |
+| B1 | Proper Jack Froster | 6:38 |
+| B2 | Bats In The Belfry  | 4:54 |
+| B3 | Oak And Stone  | 7:13 |
+| B4 | Welcome To The Planet  | 6:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-planet/1591312364" >}}<br>
 
 
-## Videos
-### Welcome to the Planet
-{{< youtube id="grdDTkrbeNs" title="Welcome to the Planet" >}}<br>
-### More Videos
-
-- [B I G - B I G - T R A I N  W E L C O M E - T O - T H E - P L A N E T Mini-Premiere](https://www.youtube.com/watch?v=xuBVD39b4cw)
 
 ## Release Images
 {{< imageGrid >}}

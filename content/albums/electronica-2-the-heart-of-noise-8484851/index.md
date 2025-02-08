@@ -4,6 +4,7 @@ artist_name: "Jean-Michel Jarre"
 artist: "jean-michel-jarre"
 album_name: "Electronica 2 - The Heart Of Noise"
 date: 2018-01-26T20:02:54.000000Z
+release_date: "2016-05-06"
 release_id: "8484851"
 slug: "electronica-2-the-heart-of-noise-8484851"
 hideSummary: true
@@ -32,52 +33,36 @@ styles: ["Electro", "Synth-pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Heart Of Noise
-2. Brick England (4:01)
-3. These Creatures (3:40)
-4. As One (3:58)
-5. Here For You (3:59)
-6. Electrees (4:10)
-7. Exit (6:19)
-8. What You Want (3:27)
-9. Gisele (3:43)
-10. Switch On Leon (4:43)
-11. Circus (3:09)
-12. Why This, Why That And Why? (3:58)
-13. The Architect (4:43)
-14. Swipe To The Right (4:54)
-15. Walking The Mile (4:52)
-16. Falling Down (3:23)
-17. The Heart Of Noise (The Origin) (2:39)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Heart Of Noise |  |
+| A3 | Brick England | 4:01 |
+| A4 | These Creatures | 3:40 |
+| A5 | As One | 3:58 |
+| B1 | Here For You | 3:59 |
+| B2 | Electrees | 4:10 |
+| B3 | Exit | 6:19 |
+| B4 | What You Want | 3:27 |
+| C1 | Gisele | 3:43 |
+| C2 | Switch On Leon | 4:43 |
+| C3 | Circus | 3:09 |
+| C4 | Why This, Why That And Why? | 3:58 |
+| D1 | The Architect | 4:43 |
+| D2 | Swipe To The Right | 4:54 |
+| D3 | Walking The Mile | 4:52 |
+| D4 | Falling Down | 3:23 |
+| D5 | The Heart Of Noise (The Origin) | 2:39 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/electronica-2-the-heart-of-noise/1081484725" >}}<br>
 
 
-## Videos
-### 𝐉𝐄𝐀𝐍 𝐌𝐈𝐂𝐇𝐄𝐋 𝐉𝐀𝐑𝐑𝐄 - 𝐓𝐇𝐄 𝐇𝐄𝐀𝐑𝐓 𝐎𝐅 𝐍𝐎𝐈𝐒𝐄 𝐄𝐋𝐄𝐂𝐓𝐑𝐎𝐍𝐈𝐂𝐀 𝟐 - 𝟐𝟎𝟏𝟔 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌
-{{< youtube id="xMIqsjtznek" title="𝐉𝐄𝐀𝐍 𝐌𝐈𝐂𝐇𝐄𝐋 𝐉𝐀𝐑𝐑𝐄 - 𝐓𝐇𝐄 𝐇𝐄𝐀𝐑𝐓 𝐎𝐅 𝐍𝐎𝐈𝐒𝐄 𝐄𝐋𝐄𝐂𝐓𝐑𝐎𝐍𝐈𝐂𝐀 𝟐 - 𝟐𝟎𝟏𝟔 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌" >}}<br>
-### More Videos
-
-- [The Heart of Noise Pt 2](https://www.youtube.com/watch?v=UWvY0-mwHM8)
-- [Jean-Michel Jarre - Electronica Vol 2 The Heart of Noise Official Albumplayer](https://www.youtube.com/watch?v=L2kjbfCEBiU)
-- [Electrees](https://www.youtube.com/watch?v=9FhqgY9pZTA)
-- [Swipe to the Right](https://www.youtube.com/watch?v=-2RHkcnue7Y)
-- [The Architect](https://www.youtube.com/watch?v=2Kh54MkQZNg)
-- [Jeff Mills  Jean Michel Jarre - The Architect](https://www.youtube.com/watch?v=C-ubvrIxsIg)
-- [CLIP Stop motion Jean-Michel Jarre Ft Jeff Mills The Architect - Jean Baptiste Cousin](https://www.youtube.com/watch?v=T29n6ovQdD0)
-- [Jean-Michel Jarre - The Heart of Noise The Origin Official Music Video](https://www.youtube.com/watch?v=RmLEsmmnsGw)
-- [Jean-Michel Jarre - Electronica Vol 2 The Heart of Noise Official Albumplayer](https://www.youtube.com/watch?v=L2kjbfCEBiU)
-- [𝐉𝐄𝐀𝐍 𝐌𝐈𝐂𝐇𝐄𝐋 𝐉𝐀𝐑𝐑𝐄 - 𝐓𝐇𝐄 𝐇𝐄𝐀𝐑𝐓 𝐎𝐅 𝐍𝐎𝐈𝐒𝐄 𝐄𝐋𝐄𝐂𝐓𝐑𝐎𝐍𝐈𝐂𝐀 𝟐 - 𝟐𝟎𝟏𝟔 𝐅𝐔𝐋𝐋 𝐀𝐋𝐁𝐔𝐌](https://www.youtube.com/watch?v=xMIqsjtznek)
-- [The Heart of Noise Pt 2](https://www.youtube.com/watch?v=UWvY0-mwHM8)
-- [Jean-Michel Jarre - Electronica Vol 2 The Heart of Noise Official Albumplayer](https://www.youtube.com/watch?v=L2kjbfCEBiU)
-- [Electrees](https://www.youtube.com/watch?v=9FhqgY9pZTA)
-- [Swipe to the Right](https://www.youtube.com/watch?v=-2RHkcnue7Y)
-- [The Architect](https://www.youtube.com/watch?v=2Kh54MkQZNg)
-- [Jeff Mills  Jean Michel Jarre - The Architect](https://www.youtube.com/watch?v=C-ubvrIxsIg)
-- [CLIP Stop motion Jean-Michel Jarre Ft Jeff Mills The Architect - Jean Baptiste Cousin](https://www.youtube.com/watch?v=T29n6ovQdD0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -88,5 +73,5 @@ styles: ["Electro", "Synth-pop"]
 | Format         | Vinyl 2× LP Album (180 Gram) |
 | Label          | Aero Productions |
 | Catalog Number | 88875196681 |
-| Notes | ℗ & © 2016 Music Affair Entertainment Limited under exclusive license to Sony Music Entertainment Germany GmbH. Made in the E.U.  Heavy-weight pressing (180 g) in gatefold sleeve with printed inner sleeves. Comes with a download code card, and a yellow sticker on outer shrink. Download code was valid thru 31.12.2017.  Tracks A1 and A2 (The Heart Of Noise Part 1 and Part 2) appear as one track on label and backsleeve, but are divided into two seperate tracks on the vinyl.    The four sides of the album are differently named on labels and sleeves:  "Disc 3 - Side A" (=Side A) on inner sleeve, "A3" on disc label and back sleeve; "Disc 3 - Side B" (=Side B) on inner sleeve, "B3" on disc label and back sleeve; "Disc 4 - Side A" (=Side C) on inner sleeve, "A4" on disc label and back sleeve; "Disc 4 - Side B" (=Side D) on inner sleeve, "B4" on disc label and back sleeve.    |
+| Notes | ℗ & © 2016 Music Affair Entertainment Limited under exclusive license to Sony Music Entertainment Germany GmbH.<br>Made in the E.U.<br><br>Heavy-weight pressing (180 g) in gatefold sleeve with printed inner sleeves. Comes with a download code card, and a yellow sticker on outer shrink. Download code was valid thru 31.12.2017.<br><br>Tracks A1 and A2 (The Heart Of Noise Part 1 and Part 2) appear as one track on label and backsleeve, but are divided into two seperate tracks on the vinyl. <br> <br>The four sides of the album are differently named on labels and sleeves: <br>"Disc 3 - Side A" (=Side A) on inner sleeve, "A3" on disc label and back sleeve;<br>"Disc 3 - Side B" (=Side B) on inner sleeve, "B3" on disc label and back sleeve;<br>"Disc 4 - Side A" (=Side C) on inner sleeve, "A4" on disc label and back sleeve;<br>"Disc 4 - Side B" (=Side D) on inner sleeve, "B4" on disc label and back sleeve. <br>  |
 | Discogs URL    | [Jean-Michel Jarre - Electronica 2 - The Heart Of Noise](https://www.discogs.com/release/8484851-Jean-Michel-Jarre-Electronica-2-The-Heart-Of-Noise) |

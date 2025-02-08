@@ -4,6 +4,7 @@ artist_name: "The Wonder Stuff"
 artist: "the-wonder-stuff"
 album_name: "Hup"
 date: 2016-11-16T13:03:18.000000Z
+release_date: "2000-01-01"
 release_id: "3580276"
 slug: "hup-3580276"
 hideSummary: true
@@ -23,35 +24,32 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock"]
 ---
 
 Hup is the second album by English alternative rock band the Wonder Stuff, released in 1989.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. 30 Years In The Bathroom
-2. Radio Ass Kiss
-3. Golden Green
-4. Let's Be Other People
-5. Piece Of Sky
-6. Can't Shape Up
-7. Don't Let Me Down, Gently
-8. Cartoon Boyfriend
-9. Good Night Though
-10. Unfaithful
-11. Them, Big Oak Trees
-12. Room 410
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 30 Years In The Bathroom |  |
+| A2 | Radio Ass Kiss |  |
+| A3 | Golden Green |  |
+| A4 | Let's Be Other People |  |
+| A5 | Piece Of Sky |  |
+| A6 | Can't Shape Up |  |
+| B1 | Don't Let Me Down, Gently |  |
+| B2 | Cartoon Boyfriend |  |
+| B3 | Good Night Though |  |
+| B4 | Unfaithful |  |
+| B5 | Them, Big Oak Trees |  |
+| B6 | Room 410 |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/love-bites-bruises-a-wonder-stuff-compilation/1452860148" >}}<br>
 
 
-## Videos
-### CARTOON BOYFRIEND - THE WONDER STUFF - HUP 1989
-{{< youtube id="dOYo2IQ5UNo" title="CARTOON BOYFRIEND - THE WONDER STUFF - HUP 1989" >}}<br>
-### More Videos
-
-- [The Wonder Stuff - Golden Green](https://www.youtube.com/watch?v=KPQ3Cuo_V3A)
-- [The Wonder Stuff - Piece Of Sky](https://www.youtube.com/watch?v=hYkg8027YoQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +61,5 @@ Hup is the second album by English alternative rock band the Wonder Stuff, relea
 | Format         | Vinyl LP Album |
 | Label          | Polydor |
 | Catalog Number | 841187-1 |
-| Notes | 'HUP' printed on front cover with 'The Wonder Stuff' sticker attached.  Released with a printed lyric and credit inner sleeve.  Engineered at The Greenhouse, North London.  [Labels]: ℗ 1989 Polydor Ltd. (UK)  © Polydor Ltd. (UK) 1989. Polygram Music 1989. [Sleeve]: ℗ 1989 Polydor Ltd. (UK)  © Polydor Ltd. (UK) 1989. |
+| Notes | 'HUP' printed on front cover with 'The Wonder Stuff' sticker attached. <br>Released with a printed lyric and credit inner sleeve.<br><br>Engineered at The Greenhouse, North London.<br><br>[Labels]:<br>℗ 1989 Polydor Ltd. (UK) <br>© Polydor Ltd. (UK) 1989.<br>Polygram Music 1989.<br>[Sleeve]:<br>℗ 1989 Polydor Ltd. (UK) <br>© Polydor Ltd. (UK) 1989. |
 | Discogs URL    | [The Wonder Stuff - Hup](https://www.discogs.com/release/3580276-The-Wonder-Stuff-Hup) |

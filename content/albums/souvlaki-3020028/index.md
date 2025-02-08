@@ -4,6 +4,7 @@ artist_name: "Slowdive"
 artist: "slowdive"
 album_name: "Souvlaki"
 date: 2018-12-27T18:12:11.000000Z
+release_date: "1993-05-17"
 release_id: "3020028"
 slug: "souvlaki-3020028"
 hideSummary: true
@@ -26,48 +27,30 @@ Souvlaki is the second studio album by the English rock band Slowdive. It was re
 On its initial release, Souvlaki peaked at number 51 on the UK Albums Chart and was greeted with tepid reviews from critics. It has since received retrospective critical acclaim and has been hailed as a classic of the shoegaze genre.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Alison (3:52)
-2. Machine Gun (4:28)
-3. 40 Days (3:17)
-4. Sing (4:50)
-5. Here She Comes (2:19)
-6. Souvlaki Space Station (5:59)
-7. When The Sun Hits (4:48)
-8. Altogether (3:43)
-9. Melon Yellow (3:54)
-10. Dagger (3:33)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Alison | 3:52 |
+| A2 | Machine Gun | 4:28 |
+| A3 | 40 Days | 3:17 |
+| A4 | Sing | 4:50 |
+| A5 | Here She Comes | 2:19 |
+| B1 | Souvlaki Space Station | 5:59 |
+| B2 | When The Sun Hits | 4:48 |
+| B3 | Altogether | 3:43 |
+| B4 | Melon Yellow | 3:54 |
+| B5 | Dagger | 3:33 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/souvlaki/399211729" >}}<br>
 
 
-## Videos
-### Slowdive - Alison Video
-{{< youtube id="jkM3M3zGcGE" title="Slowdive - Alison Video" >}}<br>
-### More Videos
-
-- [Machine Gun](https://www.youtube.com/watch?v=HF1k1m6eYV0)
-- [40 Days](https://www.youtube.com/watch?v=e2p4Zb3u0jI)
-- [Sing](https://www.youtube.com/watch?v=Ek_ttFy6q0s)
-- [Here She Comes](https://www.youtube.com/watch?v=ijEBnd0D3WQ)
-- [Slowdive - Souvlaki Space Station Official Audio](https://www.youtube.com/watch?v=WPApiFhKFsg)
-- [Altogether](https://www.youtube.com/watch?v=DDpoO3ZiNuM)
-- [Melon Yellow](https://www.youtube.com/watch?v=FXJlvlg0B0Q)
-- [Dagger](https://www.youtube.com/watch?v=GbngixAJoec)
-- [Slowdive - Alison Video](https://www.youtube.com/watch?v=jkM3M3zGcGE)
-- [Machine Gun](https://www.youtube.com/watch?v=HF1k1m6eYV0)
-- [40 Days](https://www.youtube.com/watch?v=e2p4Zb3u0jI)
-- [Sing](https://www.youtube.com/watch?v=Ek_ttFy6q0s)
-- [Here She Comes](https://www.youtube.com/watch?v=ijEBnd0D3WQ)
-- [Slowdive - Souvlaki Space Station Official Audio](https://www.youtube.com/watch?v=WPApiFhKFsg)
-- [Altogether](https://www.youtube.com/watch?v=DDpoO3ZiNuM)
-- [Melon Yellow](https://www.youtube.com/watch?v=FXJlvlg0B0Q)
-- [Dagger](https://www.youtube.com/watch?v=GbngixAJoec)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +62,5 @@ On its initial release, Souvlaki peaked at number 51 on the UK Albums Chart and 
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP202 |
-| Notes | Originally released ℗ & © 1993 Creation Records Limited This release ℗ & © 2011 Sony Music Entertainment: Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU. [sleeve]  tracks a1, a3, a4, a5 & b5 recorded at Protocol Studios, London. tracks a2, b1 & b3 recorded at Courtyard Studio, Sutton Courtenay. tracks b2 & b4 recorded at The White House Studio, Weston Super Mare. All tracks published by EMI Music Publishing Ltd. except a4 EMI Music Publishing Ltd./Opal Music Originally released ℗ & © 1993 Creation Records. This release ℗ & © 2011 Sony Music Entertainment: Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU. [insert]  Originally released ℗ & © 1993 Creation Records Limited This release ℗ & © 2011 Sony Music Entertainment Made in the EU Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment. [labels]  Music On Vinyl [logo] Classic Album 180 gram audiophile pressing www.musiconvinyl.com [sticker]  - 30cm square insert - esealable PVC protective sleeve with sticker on front - etched matrices - similar repress with "Made in the Netherlands" & Music On Vinyl B.V. address on rear sleeve: [r=26412479] |
+| Notes | Originally released ℗ & © 1993 Creation Records Limited<br>This release ℗ & © 2011 Sony Music Entertainment:<br>Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment.<br>Made in the EU.<br>[sleeve]<br><br>tracks a1, a3, a4, a5 & b5 recorded at Protocol Studios, London.<br>tracks a2, b1 & b3 recorded at Courtyard Studio, Sutton Courtenay.<br>tracks b2 & b4 recorded at The White House Studio, Weston Super Mare.<br>All tracks published by EMI Music Publishing Ltd. except a4 EMI Music Publishing Ltd./Opal Music<br>Originally released ℗ & © 1993 Creation Records.<br>This release ℗ & © 2011 Sony Music Entertainment:<br>Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment.<br>Made in the EU.<br>[insert]<br><br>Originally released ℗ & © 1993 Creation Records Limited<br>This release ℗ & © 2011 Sony Music Entertainment<br>Made in the EU<br>Manufactured and distributed by Music On Vinyl B.V. for Sony Music Entertainment.<br>[labels]<br><br>Music On Vinyl [logo]<br>Classic Album<br>180 gram audiophile pressing<br>www.musiconvinyl.com<br>[sticker]<br><br>- 30cm square insert<br>- esealable PVC protective sleeve with sticker on front<br>- etched matrices<br>- similar repress with "Made in the Netherlands" & Music On Vinyl B.V. address on rear sleeve: [r=26412479] |
 | Discogs URL    | [Slowdive - Souvlaki](https://www.discogs.com/release/3020028-Slowdive-Souvlaki) |

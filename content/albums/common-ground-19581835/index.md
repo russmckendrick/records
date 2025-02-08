@@ -4,6 +4,7 @@ artist_name: "Big Big Train"
 artist: "big-big-train"
 album_name: "Common Ground"
 date: 2021-07-30T07:19:02.000000Z
+release_date: "2021-07-30"
 release_id: "19581835"
 slug: "common-ground-19581835"
 hideSummary: true
@@ -30,39 +31,29 @@ Common Ground is the thirteenth studio album by the English progressive rock ban
 It was elected by PopMatters as the ninth best progressive rock/metal album of 2021.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Strangest Times (5:08)
-2. All The Love We Can Give (8:07)
-3. Black With Ink (7:22)
-4. Dandelion Clock (4:15)
-5. Headwaters (2:27)
-6. Apollo (7:53)
-7. Common Ground (4:57)
-8. Atlantic Cable (15:05)
-9. Endnotes (6:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Strangest Times | 5:08 |
+| A2 | All The Love We Can Give | 8:07 |
+| B1 | Black With Ink | 7:22 |
+| B2 | Dandelion Clock | 4:15 |
+| C1 | Headwaters | 2:27 |
+| C2 | Apollo | 7:53 |
+| C3 | Common Ground | 4:57 |
+| D1 | Atlantic Cable | 15:05 |
+| D2 | Endnotes | 6:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/common-ground/1564398164" >}}<br>
 
 
-## Videos
-### Common Ground by Big Big Train
-{{< youtube id="wIQnhCcI4gA" title="Common Ground by Big Big Train" >}}<br>
-### More Videos
-
-- [Atlantic Cable](https://www.youtube.com/watch?v=V_Fbr9GkiFk)
-- [Black with Ink](https://www.youtube.com/watch?v=c9rO6-i3qUg)
-- [Endnotes](https://www.youtube.com/watch?v=Qp9zC1rE7LM)
-- [Headwaters](https://www.youtube.com/watch?v=kLTK26pqo-k)
-- [Dandelion Clock](https://www.youtube.com/watch?v=xvsqQSxag5c)
-- [BIG BIG TRAIN - The Strangest Times 2021 Progressive Rock  Art Rock](https://www.youtube.com/watch?v=swdU6qMjldE)
-- [Common Ground by Big Big Train](https://www.youtube.com/watch?v=wIQnhCcI4gA)
-- [Big Big Train Common Ground  New Album Review](https://www.youtube.com/watch?v=pv1G_A9N4Dg)
-- [Atlantic Cable](https://www.youtube.com/watch?v=V_Fbr9GkiFk)
 
 ## Release Images
 {{< imageGrid >}}

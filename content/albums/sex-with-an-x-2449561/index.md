@@ -25,31 +25,26 @@ Eugene Kelly and Frances McKee broke up at the end of the 1980s, only briefly re
 
 
 ## Tracklisting
-1. Ruined
-2. Sex With An X
-3. The Devil's Inside Me
-4. Such A Fool
-5. Turning It On
-6. Overweight But Over You
-7. Poison Pen
-8. I Hate The 80's
-9. Mouth To Mouth
-10. Whitechapel
-11. My God's Bigger Than Your God
-12. Exit The Vaselines
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ruined |  |
+| A2 | Sex With An X |  |
+| A3 | The Devil's Inside Me |  |
+| A4 | Such A Fool |  |
+| A5 | Turning It On |  |
+| A6 | Overweight But Over You |  |
+| B1 | Poison Pen |  |
+| B2 | I Hate The 80's |  |
+| B3 | Mouth To Mouth |  |
+| B4 | Whitechapel |  |
+| B5 | My God's Bigger Than Your God |  |
+| B6 | Exit The Vaselines |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sex-with-an-x/387736753" >}}<br>
 
 
-## Videos
-### The Vaselines - Sex With An X OFFICIAL VIDEO
-{{< youtube id="GHIa3zr_vTQ" title="The Vaselines - Sex With An X OFFICIAL VIDEO" >}}<br>
-### More Videos
-
-- [The Vaselines - I Hate The 80s 2010](https://www.youtube.com/watch?v=i1zMx4Eltbo)
-- [The Vaselines - Sex With An X OFFICIAL VIDEO](https://www.youtube.com/watch?v=GHIa3zr_vTQ)
-- [The Vaselines - I Hate The 80s 2010](https://www.youtube.com/watch?v=i1zMx4Eltbo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +56,5 @@ Eugene Kelly and Frances McKee broke up at the end of the 1980s, only briefly re
 | Format         | Vinyl LP Album |
 | Label          | Sub Pop |
 | Catalog Number | SP 889 |
-| Notes | Recorded to tape at Analogue Catalogue Studios, Mossley, England. Mixed at Cava Studios, Glasgow. Mastered at Red Block Mastering, Glasgow.  ©℗2010 Under exclusive license to Sub Pop.  First 200 direct pre-orders from Sub Pop received this [url=http://www.discogs.com/Vaselines-Whitechapel-Demo-Picked-A-Cherry-Demo/release/2465133]bonus 7"[/url].  Gatefold sleeve.   In the runouts, GOLDEN is stamped and the rest are etched. |
+| Notes | Recorded to tape at Analogue Catalogue Studios, Mossley, England. Mixed at Cava Studios, Glasgow. Mastered at Red Block Mastering, Glasgow.<br><br>©℗2010 Under exclusive license to Sub Pop.<br><br>First 200 direct pre-orders from Sub Pop received this [url=http://www.discogs.com/Vaselines-Whitechapel-Demo-Picked-A-Cherry-Demo/release/2465133]bonus 7"[/url].<br><br>Gatefold sleeve. <br><br>In the runouts, GOLDEN is stamped and the rest are etched. |
 | Discogs URL    | [The Vaselines - Sex With An X](https://www.discogs.com/release/2449561-The-Vaselines-Sex-With-An-X) |

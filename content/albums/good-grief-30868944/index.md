@@ -4,6 +4,7 @@ artist_name: "Bernard Butler"
 artist: "bernard-butler"
 album_name: "Good Grief"
 date: 2024-08-30T04:22:24.000000Z
+release_date: "2024-05-31"
 release_id: "30868944"
 slug: "good-grief-30868944"
 hideSummary: true
@@ -24,24 +25,27 @@ Good Grief is a 2023 American comedy-drama film written and directed by Dan Levy
 Good Grief received a limited theatrical release in the United States on December 29, 2023, before its streaming debut by Netflix on January 5, 2024.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Camber Sands
-2. Deep Emotions
-3. Living The Dream
-4. Preaching To The Choir
-5. Pretty D
-6. The Forty Foot
-7. London Show
-8. Clean
-9. The Wind
+| Position | Title | Duration |
+|----------|-------|----------|
+| 1 | Camber Sands |  |
+| 2 | Deep Emotions |  |
+| 3 | Living The Dream |  |
+| 4 | Preaching To The Choir |  |
+| 5 | Pretty D |  |
+| 6 | The Forty Foot |  |
+| 7 | London Show |  |
+| 8 | Clean |  |
+| 9 | The Wind |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/good-grief/1734832338" >}}<br>
-
 
 
 
@@ -55,5 +59,5 @@ Good Grief received a limited theatrical release in the United States on Decembe
 | Format         | Vinyl LP Album (Silver Vinyl, Signed Print) |
 | Label          | 355 Recordings |
 | Catalog Number | 355REC001LPX |
-| Notes | Sticker on the front : Limited first edition of 700 copies pressed on silver vinyl (includes signed print). Some copies are sold with the artist's signature on the front of the cover. |
+| Notes | Sticker on the front : Limited first edition of 700 copies pressed on silver vinyl (includes signed print).<br>Some copies are sold with the artist's signature on the front of the cover. |
 | Discogs URL    | [Bernard Butler - Good Grief](https://www.discogs.com/release/30868944-Bernard-Butler-Good-Grief) |

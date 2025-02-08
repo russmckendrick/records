@@ -36,32 +36,25 @@ Nigel Gray, who had recorded and engineered the band’s first two albums, 1978�
 
 
 ## Tracklisting
-1. Don't Stand So Close To Me (4:03)
-2. Driven To Tears (3:21)
-3. When The World Is Running Down, You Make The Best Of What's Still Around (3:33)
-4. Canary In A Coalmine (2:24)
-5. Voices Inside My Head (3:51)
-6. Bombs Away (3:07)
-7. De Do Do Do, De Da Da Da (4:09)
-8. Behind My Camel (2:53)
-9. Man In A Suitcase (2:15)
-10. Shadows In The Rain (5:09)
-11. The Other Way Of Stopping (3:21)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Don't Stand So Close To Me | 4:03 |
+| A2 | Driven To Tears | 3:21 |
+| A3 | When The World Is Running Down, You Make The Best Of What's Still Around | 3:33 |
+| A4 | Canary In A Coalmine | 2:24 |
+| A5 | Voices Inside My Head | 3:51 |
+| A6 | Bombs Away | 3:07 |
+| B1 | De Do Do Do, De Da Da Da | 4:09 |
+| B2 | Behind My Camel | 2:53 |
+| B3 | Man In A Suitcase | 2:15 |
+| B4 | Shadows In The Rain | 5:09 |
+| B5 | The Other Way Of Stopping | 3:21 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/zenyatta-mondatta-remastered/1440637146" >}}<br>
 
 
-## Videos
-### The Police - De Do Do Do De Da Da Da Official Music Video
-{{< youtube id="7v2GDbEmjGE" title="The Police - De Do Do Do De Da Da Da Official Music Video" >}}<br>
-### More Videos
-
-- [The Police - Dont Stand So Close To Me Official Music Video](https://www.youtube.com/watch?v=KNIZofPB8ZM)
-- [Driven To Tears](https://www.youtube.com/watch?v=cPkChi1ckq0)
-- [The Police - De Do Do Do De Da Da Da Official Music Video](https://www.youtube.com/watch?v=7v2GDbEmjGE)
-- [The Police - Dont Stand So Close To Me Official Music Video](https://www.youtube.com/watch?v=KNIZofPB8ZM)
-- [Driven To Tears](https://www.youtube.com/watch?v=cPkChi1ckq0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +66,5 @@ Nigel Gray, who had recorded and engineered the band’s first two albums, 1978�
 | Format         | Vinyl LP Album Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMLH 64831 |
-| Notes | ℗ 1980 A&M Records Ltd. © 1980 A&M Records Ltd. Original sound recording made by A&M Records Ltd  Recorded at Wisseloord Studios, Hilversum, Netherlands.  Issued with an illustrated picture inner sleeve.  A1 to A5, B1, B3, B4: Virgin Music (Publishers) Ltd A6, B2, B5: Roxanne Music Overseas Ltd  Runouts are etched, except for STRAWBERRY |
+| Notes | ℗ 1980 A&M Records Ltd. © 1980 A&M Records Ltd.<br>Original sound recording made by A&M Records Ltd<br><br>Recorded at Wisseloord Studios, Hilversum, Netherlands.<br><br>Issued with an illustrated picture inner sleeve.<br><br>A1 to A5, B1, B3, B4: Virgin Music (Publishers) Ltd<br>A6, B2, B5: Roxanne Music Overseas Ltd<br><br>Runouts are etched, except for STRAWBERRY |
 | Discogs URL    | [The Police - Zenyatta Mondatta](https://www.discogs.com/release/371546-The-Police-Zenyatta-Mondatta) |

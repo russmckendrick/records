@@ -36,37 +36,25 @@ Amnesiac was named one of the year's best albums by numerous publications. It wa
 
 
 ## Tracklisting
-1. Packt Like Sardines In A Crushd Tin Box
-2. Pyramid Song
-3. Pull/Pulk Revolving Doors
-4. You And Whose Army?
-5. I Might Be Wrong
-6. Knives Out
-7. Morning Bell/Amnesiac
-8. Dollars And Cents
-9. Hunting Bears
-10. Like Spinning Plates
-11. Life In A Glasshouse
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Packt Like Sardines In A Crushd Tin Box |  |
+| A2 | Pyramid Song |  |
+| A3 | Pull/Pulk Revolving Doors |  |
+| B1 | You And Whose Army? |  |
+| B2 | I Might Be Wrong |  |
+| C1 | Knives Out |  |
+| C2 | Morning Bell/Amnesiac |  |
+| C3 | Dollars And Cents |  |
+| D1 | Hunting Bears |  |
+| D2 | Like Spinning Plates |  |
+| D3 | Life In A Glasshouse |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kid-a-mnesia/1581785974" >}}<br>
 
 
-## Videos
-### Packt Like Sardines In a Crushd Tin Box
-{{< youtube id="LwE4LNP8zsI" title="Packt Like Sardines In a Crushd Tin Box" >}}<br>
-### More Videos
-
-- [Radiohead - Pyramid Song](https://www.youtube.com/watch?v=3M_Gg1xAHE4)
-- [PulkPull Revolving Doors](https://www.youtube.com/watch?v=-fuhLeD594A)
-- [You And Whose Army](https://www.youtube.com/watch?v=QQnc-hM80UQ)
-- [Radiohead - I Might Be Wrong](https://www.youtube.com/watch?v=LOuLf8ThkoQ)
-- [Radiohead - Knives Out](https://www.youtube.com/watch?v=2Lpw3yMCWro)
-- [Morning BellAmnesiac](https://www.youtube.com/watch?v=6LGS0S8Lh4A)
-- [Dollars and Cents](https://www.youtube.com/watch?v=egUFlyfE1PY)
-- [Hunting Bears](https://www.youtube.com/watch?v=6AM0q_u7XNc)
-- [Like Spinning Plates](https://www.youtube.com/watch?v=-UAElLsVOQI)
-- [Life In a Glasshouse](https://www.youtube.com/watch?v=hKrAPSootn4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +66,5 @@ Amnesiac was named one of the year's best albums by numerous publications. It wa
 | Format         | Vinyl 2× 10" 33 ⅓ RPM Album Reissue |
 | Label          | XL Recordings |
 | Catalog Number | XLLP783 |
-| Notes | From back cover: Store away from direct sunlight, preferably in a dark drawer with your secrets.  Including voucher with download code |
+| Notes | From back cover: Store away from direct sunlight, preferably in a dark drawer with your secrets.<br><br>Including voucher with download code |
 | Discogs URL    | [Radiohead - Amnesiac](https://www.discogs.com/release/8992372-Radiohead-Amnesiac) |

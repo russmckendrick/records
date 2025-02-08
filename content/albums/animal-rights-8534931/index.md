@@ -4,6 +4,7 @@ artist_name: "Moby"
 artist: "moby"
 album_name: "Animal Rights"
 date: 2018-01-18T19:49:11.000000Z
+release_date: "1996-09-23"
 release_id: "8534931"
 slug: "animal-rights-8534931"
 hideSummary: true
@@ -22,58 +23,32 @@ styles: ["Punk", "Alternative Rock"]
 Animal Rights is the fourth studio album by American musician Moby, released on September 23, 1996. The album was a temporary style shift from the electronica music that Moby had previously released to an alternative rock sound influenced by the hardcore punk music that he had enjoyed as a teenager. The album was released to mediocre critical reviews and commercial performance.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Now I Let Go
-2. Come On Baby
-3. Someone To Love
-4. Heavy Flow
-5. You
-6. My Love Will Never Die
-7. Soft
-8. Say It's All Mine
-9. That's When I Reach For My Revolver
-10. Face It
-11. Living
-12. Love Song For My Mum
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Now I Let Go |  |
+| A2 | Come On Baby |  |
+| A3 | Someone To Love |  |
+| A4 | Heavy Flow |  |
+| A5 | You |  |
+| A6 | My Love Will Never Die |  |
+| A7 | Soft |  |
+| B1 | Say It's All Mine |  |
+| B2 | That's When I Reach For My Revolver |  |
+| B3 | Face It |  |
+| B4 | Living |  |
+| B5 | Love Song For My Mum |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/animal-rights/1193759982" >}}<br>
 
 
-## Videos
-### Moby  Animal Rights-Full Album CD 1
-{{< youtube id="MtnMN6DxjIo" title="Moby  Animal Rights-Full Album CD 1" >}}<br>
-### More Videos
-
-- [Now I Let It Go](https://www.youtube.com/watch?v=pz9vp9ZTeII)
-- [Moby Come On Baby - Official video](https://www.youtube.com/watch?v=Vea9WhI_oNM)
-- [Someone to Love](https://www.youtube.com/watch?v=N7n1JMHrX_Q)
-- [Heavy Flow](https://www.youtube.com/watch?v=T-arZ8fb1RM)
-- [You](https://www.youtube.com/watch?v=UtOBNnP1jlo)
-- [My Love Will Never Die](https://www.youtube.com/watch?v=4C2pmVAXIF4)
-- [Soft](https://www.youtube.com/watch?v=EqPlG6xJslI)
-- [Say Its All Mine](https://www.youtube.com/watch?v=6c9EqIkObbQ)
-- [Moby Thats When I Reach For My Revolver](https://www.youtube.com/watch?v=_Nt5by-TsUw)
-- [Face It](https://www.youtube.com/watch?v=usGjYKURBL8)
-- [Living](https://www.youtube.com/watch?v=Hjrq6RnKBdw)
-- [Love Song for My Mom](https://www.youtube.com/watch?v=_KHM5fHj1Y4)
-- [Moby  Animal Rights-Full Album CD 1](https://www.youtube.com/watch?v=MtnMN6DxjIo)
-- [Now I Let It Go](https://www.youtube.com/watch?v=pz9vp9ZTeII)
-- [Moby Come On Baby - Official video](https://www.youtube.com/watch?v=Vea9WhI_oNM)
-- [Someone to Love](https://www.youtube.com/watch?v=N7n1JMHrX_Q)
-- [Heavy Flow](https://www.youtube.com/watch?v=T-arZ8fb1RM)
-- [You](https://www.youtube.com/watch?v=UtOBNnP1jlo)
-- [My Love Will Never Die](https://www.youtube.com/watch?v=4C2pmVAXIF4)
-- [Soft](https://www.youtube.com/watch?v=EqPlG6xJslI)
-- [Say Its All Mine](https://www.youtube.com/watch?v=6c9EqIkObbQ)
-- [Moby Thats When I Reach For My Revolver](https://www.youtube.com/watch?v=_Nt5by-TsUw)
-- [Face It](https://www.youtube.com/watch?v=usGjYKURBL8)
-- [Living](https://www.youtube.com/watch?v=Hjrq6RnKBdw)
-- [Love Song for My Mom](https://www.youtube.com/watch?v=_KHM5fHj1Y4)
 
 ## Release Images
 {{< imageGrid >}}

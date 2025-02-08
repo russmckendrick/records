@@ -4,6 +4,7 @@ artist_name: "Ian Dury"
 artist: "ian-dury"
 album_name: "The Bus Driver's Prayer & Other Stories"
 date: 2016-09-21T18:13:01.000000Z
+release_date: "1992-01-01"
 release_id: "7802272"
 slug: "the-bus-driver-s-prayer-other-stories-7802272"
 hideSummary: true
@@ -22,53 +23,33 @@ styles: ["Power Pop", "Pop Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. That's Enough Of That (4:49)
-2. Bill Haley's Last Words (2:43)
-3. Poor Joey (3:50)
-4. Quick Quick Slow (3:14)
-5. Fly InTthe Ointment (2:55)
-6. O' Donegal (3:49)
-7. Poo-Poo In The Prawn (3:15)
-8. London Talking (1:10)
-9. Have A Word (3:54)
-10. D'Orine The Cow (3:18)
-11. Your Horoscope (3:59)
-12. No Such Thing As Love (3:36)
-13. Two Old Dogs Without A Name (4:43)
-14. The Bus Driver's Prayer (0:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | That's Enough Of That | 4:49 |
+| A2 | Bill Haley's Last Words | 2:43 |
+| A3 | Poor Joey | 3:50 |
+| A4 | Quick Quick Slow | 3:14 |
+| A5 | Fly InTthe Ointment | 2:55 |
+| A6 | O' Donegal | 3:49 |
+| A7 | Poo-Poo In The Prawn | 3:15 |
+| B1 | London Talking | 1:10 |
+| B2 | Have A Word | 3:54 |
+| B3 | D'Orine The Cow | 3:18 |
+| B4 | Your Horoscope | 3:59 |
+| B5 | No Such Thing As Love | 3:36 |
+| B6 | Two Old Dogs Without A Name | 4:43 |
+| B7 | The Bus Driver's Prayer | 0:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-bus-drivers-prayer-other-stories/1488490669" >}}<br>
 
 
-## Videos
-### Thats Enough of That
-{{< youtube id="78BgjlFEohk" title="Thats Enough of That" >}}<br>
-### More Videos
-
-- [Bill Haleys Last Words](https://www.youtube.com/watch?v=rQNbkOSFmpE)
-- [Poor Joey](https://www.youtube.com/watch?v=rZj0Oybh6SA)
-- [Quick Quick Slow](https://www.youtube.com/watch?v=f4Qaygd7yDs)
-- [Fly in the Ointment](https://www.youtube.com/watch?v=8XlQj9I4ORE)
-- [ODonegal](https://www.youtube.com/watch?v=N-KbuwQHO5o)
-- [Poo-Poo in the Prawn](https://www.youtube.com/watch?v=QU6-OsBvwXY)
-- [Have a Word](https://www.youtube.com/watch?v=vX8EJFrzJE0)
-- [London Talking](https://www.youtube.com/watch?v=jrIfyeCgzFw)
-- [DOrine the Cow](https://www.youtube.com/watch?v=5-LABPHVUpQ)
-- [Your Horoscope](https://www.youtube.com/watch?v=G4857QLVyyI)
-- [No Such Thing as Love](https://www.youtube.com/watch?v=NBOosNNxhrw)
-- [Two Old Dogs Without a Name](https://www.youtube.com/watch?v=JdwWg8Rw4ac)
-- [Ian Dury-Bus Drivers Prayer](https://www.youtube.com/watch?v=k-hDEroXFhY)
-- [Amerind](https://www.youtube.com/watch?v=iIQ2IIIoZwg)
-- [I Believe](https://www.youtube.com/watch?v=q3Kwu7D6Wvw)
-- [Cowboys](https://www.youtube.com/watch?v=1qKh6Cvq53s)
-- [One Love](https://www.youtube.com/watch?v=8KQrO3CyEdo)
-- [Grape and Grain](https://www.youtube.com/watch?v=pvuXJX-_dxI)
-- [The Writer](https://www.youtube.com/watch?v=bJRy4auSH5E)
-- [Whale](https://www.youtube.com/watch?v=pppuE4fKGaM)
-- [Itinerent Child](https://www.youtube.com/watch?v=9tbbSOPmexg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +60,5 @@ styles: ["Power Pop", "Pop Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Demon Records |
 | Catalog Number | DEMREC61 |
-| Notes | Manufactured in the EU  180-Gram Heavyweight Vinyl job |
+| Notes | Manufactured in the EU<br><br>180-Gram Heavyweight Vinyl job |
 | Discogs URL    | [Ian Dury - The Bus Driver's Prayer & Other Stories](https://www.discogs.com/release/7802272-Ian-Dury-The-Bus-Drivers-Prayer-Other-Stories) |

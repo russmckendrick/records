@@ -4,6 +4,7 @@ artist_name: "Moby"
 artist: "moby"
 album_name: "Everything Is Wrong"
 date: 2018-01-26T20:03:24.000000Z
+release_date: "1995-03-14"
 release_id: "8577393"
 slug: "everything-is-wrong-8577393"
 hideSummary: true
@@ -24,46 +25,33 @@ styles: ["House", "Techno", "Ambient", "Rhythmic Noise", "Hard Beat"]
 Everything Is Wrong is the third studio album by American electronica musician Moby, released on March 14, 1995, by record labels Mute in the United Kingdom and Elektra in the United States. It was released with a limited-edition bonus disc of ambient music titled Underwater.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Hymn
-2. Feeling So Real
-3. All That I Need Is To Be Loved
-4. Let's Go Free
-5. Everytime You Touch Me
-6. Bring Back My Happiness
-7. What Love
-8. First Cool Hive
-9. Into The Blue
-10. Anthem
-11. Everything Is Wrong
-12. God Moving Over The Face Of The Waters
-13. When It's Cold I'd Like To Die
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hymn |  |
+| A2 | Feeling So Real |  |
+| A3 | All That I Need Is To Be Loved |  |
+| A4 | Let's Go Free |  |
+| A5 | Everytime You Touch Me |  |
+| A6 | Bring Back My Happiness |  |
+| A7 | What Love |  |
+| B1 | First Cool Hive |  |
+| B2 | Into The Blue |  |
+| B3 | Anthem |  |
+| B4 | Everything Is Wrong |  |
+| B5 | God Moving Over The Face Of The Waters |  |
+| B6 | When It's Cold I'd Like To Die |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everything-is-wrong/1757584529" >}}<br>
 
 
-## Videos
-### Moby - Hymn
-{{< youtube id="Uofe-1bz1lU" title="Moby - Hymn" >}}<br>
-### More Videos
-
-- [Moby - Feeling So Real](https://www.youtube.com/watch?v=jgyBX_mdAIg)
-- [Moby - All That I Need Is to Be Loved](https://www.youtube.com/watch?v=OY5sL6EdrOY)
-- [Moby - Lets Go Free](https://www.youtube.com/watch?v=kzXZyaJ5F3Y)
-- [Moby - Everytime You Touch Me](https://www.youtube.com/watch?v=GecTKAr1WLI)
-- [Moby - Bring Back My Happiness](https://www.youtube.com/watch?v=nOyR6oEzouI)
-- [Moby - What Love](https://www.youtube.com/watch?v=baibJxJEsxY)
-- [Moby - First Cool Hive](https://www.youtube.com/watch?v=d-W7Orn6SS4)
-- [Moby - Into the Blue](https://www.youtube.com/watch?v=KvBRxpd_jdM)
-- [Moby - Anthem](https://www.youtube.com/watch?v=KyMrFiYDzRU)
-- [Moby - Everything Is Wrong](https://www.youtube.com/watch?v=jOdnc1oIhl4)
-- [Moby - God Moving Over the Face of the Waters](https://www.youtube.com/watch?v=Cz931gKz7bk)
-- [Moby - When Its Cold Id Like to Die](https://www.youtube.com/watch?v=kW31oqMgpNg)
 
 ## Release Images
 {{< imageGrid >}}

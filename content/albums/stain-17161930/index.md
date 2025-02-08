@@ -35,30 +35,27 @@ The album has retrospectively been considered a "dark horse" in the alternative 
 
 
 ## Tracklisting
-1. Go Away
-2. Ignorance Is Bliss
-3. Leave It Alone
-4. Bi
-5. Mind Your Own Business
-6. Ausländer
-7. Never Satisfied
-8. Nothingness
-9. Postman
-10. WTFF
-11. This Little Pig
-12. Hemp
-13. Wall
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Go Away |  |
+| A2 | Ignorance Is Bliss |  |
+| A3 | Leave It Alone |  |
+| A4 | Bi |  |
+| A5 | Mind Your Own Business |  |
+| A6 | Ausländer |  |
+| B1 | Never Satisfied |  |
+| B2 | Nothingness |  |
+| B3 | Postman |  |
+| B4 | WTFF |  |
+| B5 | This Little Pig |  |
+| B6 | Hemp |  |
+| B7 | Wall |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stain/158628416" >}}<br>
 
 
-## Videos
-### Living Colour - Leave It Alone
-{{< youtube id="i6p3Es4TJJA" title="Living Colour - Leave It Alone" >}}<br>
-### More Videos
-
-- [Living Colour - Bi](https://www.youtube.com/watch?v=EMprpu0et9M)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +67,5 @@ The album has retrospectively been considered a "dark horse" in the alternative 
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Red Translucent) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1346 |
-| Notes | Limited to 1000 copies.  Originally released (P) & (C) 1993 Sony Music Entertainment. This release (P) & (C) 2015 Sony Music Entertainment.   Made in EU. |
+| Notes | Limited to 1000 copies.<br><br>Originally released (P) & (C) 1993 Sony Music Entertainment. This release (P) & (C) 2015 Sony Music Entertainment. <br><br>Made in EU. |
 | Discogs URL    | [Living Colour - Stain](https://www.discogs.com/release/17161930-Living-Colour-Stain) |

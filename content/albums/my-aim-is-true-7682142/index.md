@@ -33,32 +33,27 @@ On release, My Aim Is True was met with critical acclaim, with many praising Cos
 
 
 ## Tracklisting
-1. Welcome To The Working Week
-2. Miracle Man
-3. No Dancing
-4. Blame It On Cain
-5. Alison
-6. Sneaky Feelings
-7. Watching The Detectives
-8. (The Angels Wanna Wear My) Red Shoes
-9. Less Than Zero
-10. Mystery Dance
-11. Pay It Back
-12. I'm Not Angry
-13. Waiting For The End Of The World
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Welcome To The Working Week |  |
+| A2 | Miracle Man |  |
+| A3 | No Dancing |  |
+| A4 | Blame It On Cain |  |
+| A5 | Alison |  |
+| A6 | Sneaky Feelings |  |
+| A7 | Watching The Detectives |  |
+| B1 | (The Angels Wanna Wear My) Red Shoes |  |
+| B2 | Less Than Zero |  |
+| B3 | Mystery Dance |  |
+| B4 | Pay It Back |  |
+| B5 | I'm Not Angry |  |
+| B6 | Waiting For The End Of The World |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/my-aim-is-true/1440840988" >}}<br>
 
 
-## Videos
-### Elvis Costello  Clover - My Aim Is True 1977
-{{< youtube id="3-9Jt2J40t4" title="Elvis Costello  Clover - My Aim Is True 1977" >}}<br>
-### More Videos
-
-- [Welcome To The Working Week](https://www.youtube.com/watch?v=FJTIIfhk2k4)
-- [Alison](https://www.youtube.com/watch?v=XTtopI620ZU)
-- [Im Not Angry](https://www.youtube.com/watch?v=AyGXSW-9x8I)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +65,5 @@ On release, My Aim Is True was met with critical acclaim, with many praising Cos
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | UMe |
 | Catalog Number | 0602547331144 |
-| Notes | Includes a voucher to download MP3 version of the album. Made in the Czech Republic.   |
+| Notes | Includes a voucher to download MP3 version of the album.<br>Made in the Czech Republic. <br> |
 | Discogs URL    | [Elvis Costello - My Aim Is True](https://www.discogs.com/release/7682142-Elvis-Costello-My-Aim-Is-True) |

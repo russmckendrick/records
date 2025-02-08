@@ -40,29 +40,25 @@ By turns aggressive and elusive, abrasive and romantic, <i>Return to Cookie Moun
 
 
 ## Tracklisting
-1. I Was A Lover (4:21)
-2. Hours (3:55)
-3. Province (4:37)
-4. Playhouses (5:12)
-5. Wolf Like Me (4:39)
-6. A Method (4:26)
-7. Let The Devil In (4:25)
-8. Dirtywhirl (4:15)
-9. Blues From Down Here (5:17)
-10. Tonight (6:52)
-11. Wash The Day (8:07)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Was A Lover | 4:21 |
+| A2 | Hours | 3:55 |
+| A3 | Province | 4:37 |
+| B4 | Playhouses | 5:12 |
+| B5 | Wolf Like Me | 4:39 |
+| B6 | A Method | 4:26 |
+| C7 | Let The Devil In | 4:25 |
+| C8 | Dirtywhirl | 4:15 |
+| C9 | Blues From Down Here | 5:17 |
+| D10 | Tonight | 6:52 |
+| D11 | Wash The Day | 8:07 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/return-to-cookie-mountain/1437098983" >}}<br>
 
 
-## Videos
-### TV On The Radio - Wolf Like Me Official Music Video  Re-upload
-{{< youtube id="6yyNJXpP3EU" title="TV On The Radio - Wolf Like Me Official Music Video  Re-upload" >}}<br>
-### More Videos
-
-- [TV On The Radio  Wolf Like Me](https://www.youtube.com/watch?v=03hC_Ml8aAM)
-- [Wolf Like Me](https://www.youtube.com/watch?v=xZl-ssLKyPE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +70,5 @@ By turns aggressive and elusive, abrasive and romantic, <i>Return to Cookie Moun
 | Format         | Vinyl LP 45 RPM (Brown, Dark Translucent [Amber]), Vinyl LP 45 RPM (Brown, Light Translucent [Grain]), All Media Album Club Edition Deluxe Edition Reissue Remastered |
 | Label          | Interscope Records |
 | Catalog Number | B0028301-01 |
-| Notes | Vinyl Me Please Essentials, June 2018 Includes an obi strip and an art print. Tracks are continuously numbered across sides on the release.  Sticker: VMP Exclusive Vinyl Edition - Half-Speed Remastered at Alchemy UK - 2LP, 45RPM Multi-Color Vinyl - Heavyweight Gatefold, Tip On Jacket - 24pg Full Color Lyric Booklet  A TV On The Radio/Interscope Records release; ℗2006 ©2018 Touch and Go Records, under exclusive license to UMG Recordings, Inc. Manufactured by Universal Music Enterprises, a Division of UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404.             |
+| Notes | Vinyl Me Please Essentials, June 2018<br>Includes an obi strip and an art print.<br>Tracks are continuously numbered across sides on the release.<br><br>Sticker:<br>VMP Exclusive Vinyl Edition<br>- Half-Speed Remastered at Alchemy UK<br>- 2LP, 45RPM Multi-Color Vinyl<br>- Heavyweight Gatefold, Tip On Jacket<br>- 24pg Full Color Lyric Booklet<br><br>A TV On The Radio/Interscope Records release; ℗2006 ©2018 Touch and Go Records, under exclusive license to UMG Recordings, Inc. Manufactured by Universal Music Enterprises, a Division of UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404.             |
 | Discogs URL    | [TV On The Radio - Return To Cookie Mountain](https://www.discogs.com/release/12117863-TV-On-The-Radio-Return-To-Cookie-Mountain) |

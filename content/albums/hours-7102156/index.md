@@ -4,6 +4,7 @@ artist_name: "David Bowie"
 artist: "david-bowie"
 album_name: "Hours..."
 date: 2016-01-22T19:34:03.000000Z
+release_date: "1999-09-21"
 release_id: "7102156"
 slug: "hours-7102156"
 hideSummary: true
@@ -28,32 +29,30 @@ In contrast to the experimental nature of Bowie's other works throughout the dec
 Accompanied by multiple UK top 40 singles, Hours peaked at number five on the UK Albums Chart but was Bowie's first album to miss the US Billboard 200 top 40 since 1972. It also received mixed reviews from music critics, many of whom praised individual tracks but criticised the album as a whole, sentiments echoed by later reviewers. Bowie promoted the album through the Hours Tour and various television appearances. Retrospective lists ranking all of Bowie's studio albums have placed Hours among Bowie's weaker efforts. The album was reissued with bonus tracks in 2004 and remastered in 2021 for inclusion on the box set Brilliant Adventure (1992–2001).
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Thursday's Child (5:22)
-2. Something In The Air (5:46)
-3. Survive (4:11)
-4. If I'm Dreaming My Life (7:04)
-5. Seven (4:04)
-6. What's Really Happening? (4:10)
-7. The Pretty Things Are Going To Hell (4:41)
-8. New Angels Of Promise (4:37)
-9. Brilliant Adventure (1:52)
-10. The Dreamers (5:13)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Thursday's Child | 5:22 |
+| A2 | Something In The Air | 5:46 |
+| A3 | Survive | 4:11 |
+| A4 | If I'm Dreaming My Life | 7:04 |
+| B1 | Seven | 4:04 |
+| B2 | What's Really Happening? | 4:10 |
+| B3 | The Pretty Things Are Going To Hell | 4:41 |
+| B4 | New Angels Of Promise | 4:37 |
+| B5 | Brilliant Adventure | 1:52 |
+| B6 | The Dreamers | 5:13 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hours/1053991355" >}}<br>
 
 
-## Videos
-### BOWIE  STUDIO FOOTAGE RECORDING WHATS REALLY HAPPENING1998
-{{< youtube id="Ui5SUoaaWtc" title="BOWIE  STUDIO FOOTAGE RECORDING WHATS REALLY HAPPENING1998" >}}<br>
-### More Videos
-
-- [David Bowie - Thursdays Child Official Music Video HD Upgrade](https://www.youtube.com/watch?v=gfOKDB0ChQk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +64,5 @@ Accompanied by multiple UK top 40 singles, Hours peaked at number five on the UK
 | Format         | Vinyl LP Album Reissue |
 | Label          | ISO Records |
 | Catalog Number | MOVLP1400 |
-| Notes | Originally Released ℗ & © 1999 ISO Records. This Release ℗ & © 2015 Sony Music Entertainment under license from ISO Records. Made in the EU.  180 gram vinyl 20-page booklet Standard black vinyl. |
+| Notes | Originally Released ℗ & © 1999 ISO Records.<br>This Release ℗ & © 2015 Sony Music Entertainment under license from ISO Records.<br>Made in the EU.<br><br>180 gram vinyl<br>20-page booklet<br>Standard black vinyl. |
 | Discogs URL    | [David Bowie - Hours...](https://www.discogs.com/release/7102156-David-Bowie-Hours) |

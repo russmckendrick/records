@@ -4,6 +4,7 @@ artist_name: "Nordic Giants"
 artist: "nordic-giants"
 album_name: "A Tree As Old As Me"
 date: 2021-04-22T04:45:49.000000Z
+release_date: ""
 release_id: "15233938"
 slug: "a-tree-as-old-as-me-15233938"
 hideSummary: true
@@ -19,14 +20,21 @@ styles: ["Post Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Shine
-2. B.O.A.T.S
-3. The Seed
-4. Through A Lens Darkly
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Shine |  |
+| A2 | B.O.A.T.S |  |
+| B1 | The Seed |  |
+| B2 | Through A Lens Darkly |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 

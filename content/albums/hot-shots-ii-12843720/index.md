@@ -4,6 +4,7 @@ artist_name: "The Beta Band"
 artist: "the-beta-band"
 album_name: "Hot Shots II"
 date: 2018-11-28T09:50:11.000000Z
+release_date: "2001-06-26"
 release_id: "12843720"
 slug: "hot-shots-ii-12843720"
 hideSummary: true
@@ -32,43 +33,40 @@ Hot Shots II is the second studio album by the Scottish musical group The Beta B
 Mason later said the album was, "us doing what we promised to do and making something completely incredible, that didn't sound like anything else. Nothing else that's ever come after it has ever sounded like it. It's got good, fleshed out and complete songs on it."
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Squares
-2. Al Sharp
-3. Human Being
-4. Gone
-5. Dragon
-6. Broke
-7. Quiet
-8. Alleged
-9. Life
-10. Eclipse
-11. Squares
-12. Al Sharp
-13. Human Being
-14. Gone
-15. Dragon
-16. Broke
-17. Quiet
-18. Alleged
-19. Life
-20. Eclipse
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Squares |  |
+| A2 | Al Sharp |  |
+| B1 | Human Being |  |
+| B2 | Gone |  |
+| B3 | Dragon |  |
+| C1 | Broke |  |
+| C2 | Quiet |  |
+| C3 | Alleged |  |
+| D1 | Life |  |
+| D2 | Eclipse |  |
+| CD-1 | Squares |  |
+| CD-2 | Al Sharp |  |
+| CD-3 | Human Being |  |
+| CD-4 | Gone |  |
+| CD-5 | Dragon |  |
+| CD-6 | Broke |  |
+| CD-7 | Quiet |  |
+| CD-8 | Alleged |  |
+| CD-9 | Life |  |
+| CD-10 | Eclipse |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hot-shots-ii/1339241338" >}}<br>
 
 
-## Videos
-### The Beta Band - Eclipse
-{{< youtube id="06KiM57Pvu0" title="The Beta Band - Eclipse" >}}<br>
-### More Videos
-
-- [Broke](https://www.youtube.com/watch?v=kB81YHKYDdI)
-- [The Beta Band - Hot Shots II  Full album](https://www.youtube.com/watch?v=O7rjG--0oqU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +78,5 @@ Mason later said the album was, "us doing what we promised to do and making some
 | Format         | Vinyl LP Album Limited Edition Reissue (Gold), Vinyl LP Album Limited Edition Reissue (Silver), CD Reissue |
 | Label          | Because Music |
 | Catalog Number | BEC5543810 |
-| Notes | Limited edition of 1000 copies. Includes CD of album.  Recorded and mixed for SRM.  Printed in EU.  Catalogue number BEC5543810 appears on a UPC sticker on outer wrap, covering the original UPC. Spine still has catalogue number BEC5543701, as per the black vinyl version.  With full-colour printed inner sleeves.  |
+| Notes | Limited edition of 1000 copies. Includes CD of album.<br><br>Recorded and mixed for SRM.<br><br>Printed in EU.<br><br>Catalogue number BEC5543810 appears on a UPC sticker on outer wrap, covering the original UPC. Spine still has catalogue number BEC5543701, as per the black vinyl version.<br><br>With full-colour printed inner sleeves.<br> |
 | Discogs URL    | [The Beta Band - Hot Shots II](https://www.discogs.com/release/12843720-The-Beta-Band-Hot-Shots-II) |

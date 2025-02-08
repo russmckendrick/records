@@ -4,6 +4,7 @@ artist_name: "Lonely Robot"
 artist: "lonely-robot"
 album_name: "Under Stars"
 date: 2019-04-26T12:43:07.000000Z
+release_date: "2023-08-20"
 release_id: "13532354"
 slug: "under-stars-13532354"
 hideSummary: true
@@ -29,41 +30,41 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Terminal Earth (1:55)
-2. Ancient Ascendant (5:47)
-3. Icarus (5:20)
-4. Under Stars (5:16)
-5. Authorship Of Our Lives (5:39)
-6. The Signal (3:19)
-7. The Only Time I Don't Belong Is Now (5:15)
-8. When Gravity Fails (5:03)
-9. How Bright Is The Sun? (6:03)
-10. Inside This Machine (3:28)
-11. An Ending (2:39)
-12. Terminal Earth (1:55)
-13. Ancient Ascendant (5:47)
-14. Icarus (5:20)
-15. Under Stars (5:16)
-16. Authorship Of Our Lives (5:39)
-17. The Signal (3:19)
-18. The Only Time I Don't Belong Is Now (5:15)
-19. When Gravity Fails (5:03)
-20. How Bright Is The Sun? (6:03)
-21. Inside This Machine (3:28)
-22. An Ending (2:39)
+| Position | Title | Duration |
+|----------|-------|----------|
+| LP-A1 | Terminal Earth | 1:55 |
+| LP-A2 | Ancient Ascendant | 5:47 |
+| LP-A3 | Icarus | 5:20 |
+| LP-B1 | Under Stars | 5:16 |
+| LP-B2 | Authorship Of Our Lives | 5:39 |
+| LP-C1 | The Signal | 3:19 |
+| LP-C2 | The Only Time I Don't Belong Is Now | 5:15 |
+| LP-C3 | When Gravity Fails | 5:03 |
+| LP-D1 | How Bright Is The Sun? | 6:03 |
+| LP-D2 | Inside This Machine | 3:28 |
+| LP-D3 | An Ending | 2:39 |
+| CD-1 | Terminal Earth | 1:55 |
+| CD-2 | Ancient Ascendant | 5:47 |
+| CD-3 | Icarus | 5:20 |
+| CD-4 | Under Stars | 5:16 |
+| CD-5 | Authorship Of Our Lives | 5:39 |
+| CD-6 | The Signal | 3:19 |
+| CD-7 | The Only Time I Don't Belong Is Now | 5:15 |
+| CD-8 | When Gravity Fails | 5:03 |
+| CD-9 | How Bright Is The Sun? | 6:03 |
+| CD-10 | Inside This Machine | 3:28 |
+| CD-11 | An Ending | 2:39 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/music-for-lonely-robots-and-fallen-stars-single/1704395851" >}}<br>
 
 
-## Videos
-### Lonely Robot - Under Stars 2019 Crossover Prog Full Album
-{{< youtube id="18eelBDtYSg" title="Lonely Robot - Under Stars 2019 Crossover Prog Full Album" >}}<br>
-### More Videos
-
-- [Lonely Robot - Under Stars 2019 Crossover Prog Full Album](https://www.youtube.com/watch?v=18eelBDtYSg)
 
 ## Release Images
 {{< imageGrid >}}

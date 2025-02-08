@@ -4,6 +4,7 @@ artist_name: "Depeche Mode"
 artist: "depeche-mode"
 album_name: "A Broken Frame"
 date: 2017-02-20T19:08:15.000000Z
+release_date: "1982-09-27"
 release_id: "8970950"
 slug: "a-broken-frame-8970950"
 hideSummary: true
@@ -28,25 +29,28 @@ A Broken Frame is the second studio album by English electronic music band Depec
 The album reached number eight on the UK Albums Chart and was promoted by the singles "See You", "The Meaning of Love" and "Leave in Silence".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Leave In Silence
-2. My Secret Garden
-3. Monument
-4. Nothing To Fear
-5. See You
-6. Satellite
-7. The Meaning Of Love
-8. A Photograph Of You
-9. Shouldn't Have Done That
-10. The Sun & The Rainfall
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Leave In Silence |  |
+| A2 | My Secret Garden |  |
+| A3 | Monument |  |
+| A4 | Nothing To Fear |  |
+| A5 | See You |  |
+| B1 | Satellite |  |
+| B2 | The Meaning Of Love |  |
+| B3 | A Photograph Of You |  |
+| B4 | Shouldn't Have Done That |  |
+| B5 | The Sun & The Rainfall |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-broken-frame/665410900" >}}<br>
-
 
 
 

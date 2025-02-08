@@ -1,16 +1,17 @@
 ---
-title: "Black Country, New Road - Live At Bush Hall"
-artist_name: "Black Country, New Road"
+title: "Black Country New Road - Live At Bush Hall"
+artist_name: "Black Country New Road"
 artist: "black-country-new-road"
 album_name: "Live At Bush Hall"
 date: 2023-05-02T10:22:53.000000Z
+release_date: "2023-03-24"
 release_id: "26890124"
 slug: "live-at-bush-hall-26890124"
 hideSummary: true
 cover:
     image: "live-at-bush-hall-26890124.jpg"
-    alt: "Live At Bush Hall by Black Country, New Road"
-    caption: "Live At Bush Hall by Black Country, New Road"
+    alt: "Live At Bush Hall by Black Country New Road"
+    caption: "Live At Bush Hall by Black Country New Road"
 additional_images:
     - "https://i.discogs.com/b1msjY6oc08bhn2RTh6NNbP0Xq7kP8oxbyvKMBBGXgM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODMyOTgz/MjEtNzEyMy5qcGVn.jpeg"
     - "https://i.discogs.com/B66efXQi4JNNp4tPy39TXx6qMmrUqC3xNa7n1vhDkr4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODMyOTgz/MjQtNzU3Ny5qcGVn.jpeg"
@@ -35,38 +36,29 @@ styles: ["Art Rock", "Alternative Rock"]
 
 Live at Bush Hall is a concert film by British rock band Black Country, New Road released on 20 February 2023 through YouTube. It is the first official release since Ants from Up There and the departure of Isaac Wood, the band's vocalist, and consists of recordings from previously unreleased music performed live at Bush Hall, London, over the period of 15–16 December 2022.
 An album of the performance was released on 24 March 2023 through Ninja Tune.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Up Song
-2. The Boy
-3. I Won’t Always Love You
-4. Across The Pond Friend
-5. Laughing Song
-6. The Wrong Trousers
-7. Turbines/Pigs
-8. Dancers
-9. Up Song (Reprise)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Up Song |  |
+| A2 | The Boy |  |
+| A3 | I Won’t Always Love You |  |
+| A4 | Across The Pond Friend |  |
+| A5 | Laughing Song |  |
+| B1 | The Wrong Trousers |  |
+| B2 | Turbines/Pigs |  |
+| B3 | Dancers |  |
+| B4 | Up Song (Reprise) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-bush-hall/1669295690" >}}<br>
 
 
-## Videos
-### Black Country New Road - Up Song - Live at Bush Hall Official Audio
-{{< youtube id="9rHjkRgJlEs" title="Black Country New Road - Up Song - Live at Bush Hall Official Audio" >}}<br>
-### More Videos
-
-- [Black Country New Road - The Boy - Live at Bush Hall Official Audio](https://www.youtube.com/watch?v=eDxTJD2xzng)
-- [Black Country New Road - I Wont Always Love You - Live at Bush Hall Official Audio](https://www.youtube.com/watch?v=4eFDXIwIE9w)
-- [Black Country New Road - Across The Pond Friend - Live at Bush Hall Official Audio](https://www.youtube.com/watch?v=ecXo9ZmKUSk)
-- [Black Country New Road - Laughing Song - Live at Bush Hall Official Audio](https://www.youtube.com/watch?v=JL1AYJ9zBJE)
-- [Black Country New Road - The Wrong Trousers - Live at Bush Hall Official Audio](https://www.youtube.com/watch?v=LGbgUghB_kQ)
-- [Black Country New Road - TurbinesPigs - Live at Bush Hall Official Audio](https://www.youtube.com/watch?v=VgZn5dfg1U0)
-- [Black Country New Road - Dancers - Live at Bush Hall Official Audio](https://www.youtube.com/watch?v=N0cywoEn0_s)
-- [Black Country New Road - Up Song Reprise - Live at Bush Hall Official Audio](https://www.youtube.com/watch?v=wzkT0_D938c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +70,5 @@ An album of the performance was released on 24 March 2023 through Ninja Tune.
 | Format         | Vinyl LP Album |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN289 |
-| Notes | 140g black vinyl. Includes a booklet and a download code.  Recorded at Bush Hall, London Mastered... at Abbey Road  ℗ & © Ninja Tune 2023 Made in EU |
-| Discogs URL    | [Black Country, New Road - Live At Bush Hall](https://www.discogs.com/release/26890124-Black-Country-New-Road-Live-At-Bush-Hall) |
+| Notes | 140g black vinyl.<br>Includes a booklet and a download code.<br><br>Recorded at Bush Hall, London<br>Mastered... at Abbey Road<br><br>℗ & © Ninja Tune 2023<br>Made in EU |
+| Discogs URL    | [Black Country New Road - Live At Bush Hall](https://www.discogs.com/release/26890124-Black-Country-New-Road-Live-At-Bush-Hall) |

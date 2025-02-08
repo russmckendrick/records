@@ -4,6 +4,7 @@ artist_name: "The Moody Blues"
 artist: "the-moody-blues"
 album_name: "Octave"
 date: 2017-05-27T15:32:26.000000Z
+release_date: "1974-10-08"
 release_id: "1660021"
 slug: "octave-1660021"
 hideSummary: true
@@ -25,32 +26,30 @@ styles: ["Prog Rock", "Soft Rock", "Pop Rock"]
 ---
 
 Octave is the ninth album by the Moody Blues (the eighth by this particular line-up), released in 1978, and their first release after a substantial hiatus following the success of the best-selling Seventh Sojourn in 1972. Released after a considerable break, which saw The Moody Blues returning in an era of punk music and disco, Octave produced a reduced commercial outcome for the band, but reached No. 6 in the United Kingdom and went platinum in the United States, where the album reached No. 13. The album produced the hit single "Steppin' in a Slide Zone", which hit No. 39 in the US, in addition to "Driftwood". The album's title is a musical pun: it references both the notion of an octave; and as a word derived from the Latin octavus it refers to this being the eighth album by this line-up of the Moody Blues (following on from the previous album title Seventh Sojourn).
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Steppin' In A Slide Zone (5:28)
-2. Under Moonshine (5:00)
-3. Had To Fall In Love (3:38)
-4. I'll Be Level With You (3:47)
-5. Driftwood (5:02)
-6. Top Rank Suite (3:40)
-7. I'm Your Man (4:20)
-8. Survival (4:09)
-9. One Step Into The Light (4:28)
-10. The Day We Meet Again (6:18)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Steppin' In A Slide Zone | 5:28 |
+| A2 | Under Moonshine | 5:00 |
+| A3 | Had To Fall In Love | 3:38 |
+| A4 | I'll Be Level With You | 3:47 |
+| A5 | Driftwood | 5:02 |
+| B1 | Top Rank Suite | 3:40 |
+| B2 | I'm Your Man | 4:20 |
+| B3 | Survival | 4:09 |
+| B4 | One Step Into The Light | 4:28 |
+| B5 | The Day We Meet Again | 6:18 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-is-the-moody-blues/1440652559" >}}<br>
 
 
-## Videos
-### The Moody Blues   Octave 1978 CD London Records   820 329 2  1986 Made in W Germany by PolyGram Ori
-{{< youtube id="_3_qeDuazO4" title="The Moody Blues   Octave 1978 CD London Records   820 329 2  1986 Made in W Germany by PolyGram Ori" >}}<br>
-### More Videos
-
-- [The Moody Blues   Octave 1978 CD London Records   820 329 2  1986 Made in W Germany by PolyGram Ori](https://www.youtube.com/watch?v=_3_qeDuazO4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +61,5 @@ Octave is the ninth album by the Moody Blues (the eighth by this particular line
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Decca |
 | Catalog Number | TXS 129 |
-| Notes | Gatefold sleeve.   Track lengths only printed on sleeve  |
+| Notes | Gatefold sleeve. <br>Track lengths only printed on sleeve<br> |
 | Discogs URL    | [The Moody Blues - Octave](https://www.discogs.com/release/1660021-The-Moody-Blues-Octave) |

@@ -4,6 +4,7 @@ artist_name: "Spiritualized"
 artist: "spiritualized"
 album_name: "Amazing Grace"
 date: 2024-01-19T10:57:15.000000Z
+release_date: "2003-09-08"
 release_id: "29521360"
 slug: "amazing-grace-29521360"
 hideSummary: true
@@ -27,41 +28,31 @@ The album is generally harder-edged than its predecessors, featuring a number of
 Two singles were released, "She Kissed Me (It Felt Like a Hit)" and "Cheapster". The former song's title is a reference to the song "He Hit Me (It Felt Like a Kiss)" by the 1960s girl group The Crystals, and the latter's is a likely reference to T. Rex's "Jeepster".
 The world tour following the album's release culminated in a headline slot on The Other Stage at Glastonbury 2004 and a support slot for Primal Scream at Brixton Academy, for the Hoping Foundation charity concert, later released on DVD.
 The closing track on the album, "Lay It Down Slow", was used in the Series Finale of the American TV show Prison Break.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. This Little Life Of Mine (4:00)
-2. She Kissed Me (It Felt Like A Hit) (3:27)
-3. Hold On (3:54)
-4. Oh Baby (4:10)
-5. Never Goin' Back (2:53)
-6. The Power And The Glory (4:30)
-7. Lord Let It Rain On Me (3:42)
-8. The Ballad Of Richie Lee (3:25)
-9. Cheapster (2:39)
-10. Rated X (5:19)
-11. Lay It Down Slow (5:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | This Little Life Of Mine | 4:00 |
+| A2 | She Kissed Me (It Felt Like A Hit) | 3:27 |
+| A3 | Hold On | 3:54 |
+| A4 | Oh Baby | 4:10 |
+| A5 | Never Goin' Back | 2:53 |
+| A6 | The Power And The Glory | 4:30 |
+| B1 | Lord Let It Rain On Me | 3:42 |
+| B2 | The Ballad Of Richie Lee | 3:25 |
+| B3 | Cheapster | 2:39 |
+| B4 | Rated X | 5:19 |
+| B5 | Lay It Down Slow | 5:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/amazing-grace/1708968106" >}}<br>
 
 
-## Videos
-### Amazing Grace Peace on Earth
-{{< youtube id="QmTVdpVMvss" title="Amazing Grace Peace on Earth" >}}<br>
-### More Videos
-
-- [Spiritualized - She Kissed Me It Felt Like a Hit Official Music Video](https://www.youtube.com/watch?v=40MJSm6EYXM)
-- [Hold On](https://www.youtube.com/watch?v=5TgJVYLPGvs)
-- [Lay It Down Slow](https://www.youtube.com/watch?v=7R2yP0dU4qo)
-- [Spiritualized - Rated X Official Music Video](https://www.youtube.com/watch?v=_w4FgrS04jY)
-- [Spiritualized - Cheapster Official Music Video](https://www.youtube.com/watch?v=QdoGsEBL8wk)
-- [Amazing Grace Peace on Earth](https://www.youtube.com/watch?v=QmTVdpVMvss)
-- [Spiritualized - She Kissed Me It Felt Like a Hit Official Music Video](https://www.youtube.com/watch?v=40MJSm6EYXM)
-- [Hold On](https://www.youtube.com/watch?v=5TgJVYLPGvs)
-- [Lay It Down Slow](https://www.youtube.com/watch?v=7R2yP0dU4qo)
 
 ## Release Images
 {{< imageGrid >}}

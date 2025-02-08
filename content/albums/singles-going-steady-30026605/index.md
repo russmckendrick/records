@@ -33,47 +33,30 @@ The band never locked in better than on “Ever Fallen In Love (With Someone You
 
 
 ## Tracklisting
-1. Orgasm Addict (2:01)
-2. What Do I Get? (2:55)
-3. I Don't Mind (2:19)
-4. Love You More (1:49)
-5. Ever Fallen In Love? (2:41)
-6. Promises (2:35)
-7. Everybody's Happy Nowadays (3:11)
-8. Harmony In My Head (3:07)
-9. What Ever Happened To? (2:14)
-10. Oh Shit! (1:36)
-11. Autonomy (3:44)
-12. Noise Annoys (2:51)
-13. Just Lust (3:00)
-14. Lipstick (2:37)
-15. Why Can't I Touch It? (6:35)
-16. Something's Gone Wrong Again (4:29)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Orgasm Addict | 2:01 |
+| A2 | What Do I Get? | 2:55 |
+| A3 | I Don't Mind | 2:19 |
+| A4 | Love You More | 1:49 |
+| A5 | Ever Fallen In Love? | 2:41 |
+| A6 | Promises | 2:35 |
+| A7 | Everybody's Happy Nowadays | 3:11 |
+| A8 | Harmony In My Head | 3:07 |
+| B1 | What Ever Happened To? | 2:14 |
+| B2 | Oh Shit! | 1:36 |
+| B3 | Autonomy | 3:44 |
+| B4 | Noise Annoys | 2:51 |
+| B5 | Just Lust | 3:00 |
+| B6 | Lipstick | 2:37 |
+| B7 | Why Can't I Touch It? | 6:35 |
+| B8 | Something's Gone Wrong Again | 4:29 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/singles-going-steady-deluxe-version/1251022568" >}}<br>
 
 
-## Videos
-### What Do I Get
-{{< youtube id="mdTmynmVaEk" title="What Do I Get" >}}<br>
-### More Videos
-
-- [Just Lust](https://www.youtube.com/watch?v=SnCCFRRN_F8)
-- [I Dont Mind](https://www.youtube.com/watch?v=ViNmPECcXY4)
-- [Love You More 2001 Remastered Version](https://www.youtube.com/watch?v=xRPp2Bc7AJY)
-- [Ever Fallen In Love With Someone You Shouldntve](https://www.youtube.com/watch?v=aUVVRyjiVzo)
-- [Promises](https://www.youtube.com/watch?v=Krbod-Z0Liw)
-- [Everybodys Happy Nowadays](https://www.youtube.com/watch?v=XQ1xqWCPp9w)
-- [Harmony in My Head](https://www.youtube.com/watch?v=ixURorO8tAw)
-- [Whatever Happened To](https://www.youtube.com/watch?v=55V_VKG6KEk)
-- [Oh Shit](https://www.youtube.com/watch?v=mmZUwib43RA)
-- [Autonomy](https://www.youtube.com/watch?v=ltHTiQf2_dM)
-- [Noise Annoys](https://www.youtube.com/watch?v=ZyPQ8wjTyGk)
-- [Lipstick](https://www.youtube.com/watch?v=FVkleJDdSqA)
-- [Why Cant I Touch It](https://www.youtube.com/watch?v=UkLvrpfxVoQ)
-- [Somethings Gone Wrong Again](https://www.youtube.com/watch?v=8PHkwjGbmNg)
-- [Buzzcocks - What Do I Get Official Video](https://www.youtube.com/watch?v=iMXR7w76VZU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +68,5 @@ The band never locked in better than on “Ever Fallen In Love (With Someone You
 | Format         | Vinyl LP Compilation Numbered Reissue Remastered Repress (Orange Translucent) |
 | Label          | Domino |
 | Catalog Number | REWIGLP129 |
-| Notes | Numbered edition of 2000 copies Heavyweight vinyl including download code and 8-page booklet.  Half-speed mastering by Barry Grint at Alchemy, London. This compilation ℗ 1979 © 2019 Domino Recording Co. Ltd. Made in the EU |
+| Notes | Numbered edition of 2000 copies<br>Heavyweight vinyl including download code and 8-page booklet. <br>Half-speed mastering by Barry Grint at Alchemy, London.<br>This compilation ℗ 1979 © 2019 Domino Recording Co. Ltd.<br>Made in the EU |
 | Discogs URL    | [Buzzcocks - Singles Going Steady](https://www.discogs.com/release/30026605-Buzzcocks-Singles-Going-Steady) |

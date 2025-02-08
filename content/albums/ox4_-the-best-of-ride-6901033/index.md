@@ -4,6 +4,7 @@ artist_name: "Ride"
 artist: "ride"
 album_name: "OX4_ The Best Of Ride"
 date: 2015-08-09T08:32:46.000000Z
+release_date: "2002-11-05"
 release_id: "6901033"
 slug: "ox4_-the-best-of-ride-6901033"
 hideSummary: true
@@ -30,38 +31,35 @@ styles: ["Indie Rock"]
 ---
 
 OX4_ The Best of Ride is a compilation album by the British band Ride, released in 2001 by Ignition Records in the United Kingdom. The album was also released as the first disc in the three-disc Ride Box Set, which also included Firing Blanks_ Unreleased Ride Recordings 1988-95 and Live at Reading Festival 1992. The American edition was released by The First Time Records in 2002 and included a second disc with four of the unreleased tracks from Firing Blanks. The title is a reference to the band's local Oxford postcode in their teenage years.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Chelsea Girl
-2. Drive Blind
-3. Like A Daydream
-4. Taste
-5. Dreams Burn Down
-6. Vapour Trail
-7. Unfamiliar
-8. Leave Them All Behind
-9. Twisterella
-10. OX4
-11. Birdman
-12. From Time To Time
-13. How Does It Feel To Feel?
-14. I Don't Know Where It Comes From
-15. Black Nite Crash
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Chelsea Girl |  |
+| A2 | Drive Blind |  |
+| A3 | Like A Daydream |  |
+| A4 | Taste |  |
+| B1 | Dreams Burn Down |  |
+| B2 | Vapour Trail |  |
+| B3 | Unfamiliar |  |
+| C1 | Leave Them All Behind |  |
+| C2 | Twisterella |  |
+| C3 | OX4 |  |
+| D1 | Birdman |  |
+| D2 | From Time To Time |  |
+| D3 | How Does It Feel To Feel? |  |
+| D4 | I Don't Know Where It Comes From |  |
+| D5 | Black Nite Crash |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ox4-the-best-of-ride-remastered/1475240723" >}}<br>
 
 
-## Videos
-### Ride - Leave Them All Behind
-{{< youtube id="gIsnb1TKYjE" title="Ride - Leave Them All Behind" >}}<br>
-### More Videos
-
-- [Ride - Leave Them All Behind](https://www.youtube.com/watch?v=gIsnb1TKYjE)
-- [Ride - Like A Daydream](https://www.youtube.com/watch?v=8zzo25t_eC8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +71,5 @@ OX4_ The Best of Ride is a compilation album by the British band Ride, released 
 | Format         | Vinyl 2× LP Record Store Day Compilation Reissue (Red) |
 | Label          | Sire |
 | Catalog Number | 081227955137 |
-| Notes | Exclusive to Record Store day 2015. Limited edition of 5000 red transparent vinyl. 15-track best-of collection originally released in 2001. Made in EU.  Pressing plant uncredited, identified by the three concentric rings near the spindle hole. |
+| Notes | Exclusive to Record Store day 2015. Limited edition of 5000 red transparent vinyl. 15-track best-of collection originally released in 2001. Made in EU.<br><br>Pressing plant uncredited, identified by the three concentric rings near the spindle hole. |
 | Discogs URL    | [Ride - OX4_ The Best Of Ride](https://www.discogs.com/release/6901033-Ride-OX4_-The-Best-Of-Ride) |

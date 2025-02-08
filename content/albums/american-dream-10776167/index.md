@@ -44,49 +44,24 @@ Also slipping away: The 2000s indie-dance scene that had once viewed Murphy as a
 
 
 ## Tracklisting
-1. Oh Baby
-2. Other Voices
-3. I Used To
-4. Change Yr Mind
-5. How Do You Sleep?
-6. Tonite
-7. Call The Police
-8. American Dream 
-9. Emotional Haircut
-10. Black Screen
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Oh Baby |  |
+| A2 | Other Voices |  |
+| A3 | I Used To |  |
+| B1 | Change Yr Mind |  |
+| B2 | How Do You Sleep? |  |
+| C1 | Tonite |  |
+| C2 | Call The Police |  |
+| C3 | American Dream  |  |
+| D1 | Emotional Haircut |  |
+| D2 | Black Screen |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/american-dream/1258822744" >}}<br>
 
 
-## Videos
-### oh baby
-{{< youtube id="PPa7wrRW2zE" title="oh baby" >}}<br>
-### More Videos
-
-- [other voices](https://www.youtube.com/watch?v=ZRaVXBJDiu8)
-- [i used to](https://www.youtube.com/watch?v=P3tNaLXGPXc)
-- [change yr mind](https://www.youtube.com/watch?v=ocu-e4A-XBk)
-- [how do you sleep](https://www.youtube.com/watch?v=E55hWJFzaC8)
-- [tonite](https://www.youtube.com/watch?v=On47IHTHEdA)
-- [call the police](https://www.youtube.com/watch?v=b4AYQa0j_v8)
-- [american dream](https://www.youtube.com/watch?v=pUo4Waix-ww)
-- [emotional haircut](https://www.youtube.com/watch?v=N2olnx1bTW0)
-- [black screen](https://www.youtube.com/watch?v=hYmvBLNhif4)
-- [oh baby](https://www.youtube.com/watch?v=PPa7wrRW2zE)
-- [other voices](https://www.youtube.com/watch?v=ZRaVXBJDiu8)
-- [i used to](https://www.youtube.com/watch?v=P3tNaLXGPXc)
-- [change yr mind](https://www.youtube.com/watch?v=ocu-e4A-XBk)
-- [how do you sleep](https://www.youtube.com/watch?v=E55hWJFzaC8)
-- [tonite](https://www.youtube.com/watch?v=On47IHTHEdA)
-- [call the police](https://www.youtube.com/watch?v=b4AYQa0j_v8)
-- [american dream](https://www.youtube.com/watch?v=pUo4Waix-ww)
-- [emotional haircut](https://www.youtube.com/watch?v=N2olnx1bTW0)
-- [black screen](https://www.youtube.com/watch?v=hYmvBLNhif4)
-- [LCD Soundsystem - oh baby Official Video](https://www.youtube.com/watch?v=5gIhrPGyu6U)
-- [LCD Soundsystem - tonite Video](https://www.youtube.com/watch?v=lqq3BtGrpU8)
-- [LCD Soundsystem - american dream](https://www.youtube.com/watch?v=ML1MUKOJIIo)
-- [LCD Soundsystem - call the police](https://www.youtube.com/watch?v=zWKIWNJnlzI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -98,5 +73,5 @@ Also slipping away: The 2000s indie-dance scene that had once viewed Murphy as a
 | Format         | Vinyl 2× LP Album |
 | Label          | DFA |
 | Catalog Number | 88985456111 |
-| Notes | 140-gram vinyl housed in gatefold cover and issued with a download voucher. This was also available in a bundle that included a tote bag and eight signed band photos. All sides end in locked grooves.  © & ℗ 2017 Excelsior Equity Management of NY, LLC |
+| Notes | 140-gram vinyl housed in gatefold cover and issued with a download voucher. This was also available in a bundle that included a tote bag and eight signed band photos. All sides end in locked grooves.<br><br>© & ℗ 2017 Excelsior Equity Management of NY, LLC |
 | Discogs URL    | [LCD Soundsystem - American Dream](https://www.discogs.com/release/10776167-LCD-Soundsystem-American-Dream) |

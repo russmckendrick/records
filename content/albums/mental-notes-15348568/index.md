@@ -4,6 +4,7 @@ artist_name: "Split Enz"
 artist: "split-enz"
 album_name: "Mental Notes"
 date: 2020-05-26T13:00:53.000000Z
+release_date: "1975-07-31"
 release_id: "15348568"
 slug: "mental-notes-15348568"
 hideSummary: true
@@ -30,33 +31,30 @@ styles: ["Prog Rock", "Art Rock"]
 ---
 
 Mental Notes is the debut studio album by New Zealand band Split Enz. The album cover was painted by band member Phil Judd. Original vinyl copies featured Judd saying "Make a mental note" in the runout groove of the record's second side, causing the phrase to be looped ad infinitum on manual turntables until the stylus is removed.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Late Last Night
-2. Walking Down A Road
-3. Titus
-4. Lovey Dovey
-5. Sweet Dreams
-6. Stranger Than Fiction
-7. Time For A Change
-8. Matinee Idyll
-9. The Woman Who Loves You
-10. Mental Notes
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Late Last Night |  |
+| A2 | Walking Down A Road |  |
+| A3 | Titus |  |
+| A4 | Lovey Dovey |  |
+| A5 | Sweet Dreams |  |
+| B1 | Stranger Than Fiction |  |
+| B2 | Time For A Change |  |
+| B3 | Matinee Idyll |  |
+| B4 | The Woman Who Loves You |  |
+| B5 | Mental Notes |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mental-notes/1629181127" >}}<br>
 
 
-## Videos
-### Split Enz - Late Last Night Official Video
-{{< youtube id="51ib_El-yh4" title="Split Enz - Late Last Night Official Video" >}}<br>
-### More Videos
-
-- [Split Enz - Lovey Dovey Official Video](https://www.youtube.com/watch?v=66s967Qx0dM)
-- [Split Enz - Sweet Dreams Official Video](https://www.youtube.com/watch?v=we9XmUzmMlc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +66,5 @@ Mental Notes is the debut studio album by New Zealand band Split Enz. The album 
 | Format         | Vinyl LP Album Reissue Remastered (White, 180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC540 |
-| Notes | Gatefold Runouts are stamped |
+| Notes | Gatefold<br>Runouts are stamped |
 | Discogs URL    | [Split Enz - Mental Notes](https://www.discogs.com/release/15348568-Split-Enz-Mental-Notes) |

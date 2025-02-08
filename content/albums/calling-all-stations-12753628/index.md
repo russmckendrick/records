@@ -4,6 +4,7 @@ artist_name: "Genesis"
 artist: "genesis"
 album_name: "...Calling All Stations..."
 date: 2024-09-07T06:12:41.000000Z
+release_date: "1997-09-01"
 release_id: "12753628"
 slug: "calling-all-stations-12753628"
 hideSummary: true
@@ -26,39 +27,31 @@ styles: ["Soft Rock", "Pop Rock", "Synth-pop"]
 Calling All Stations was released to mostly negative reviews from music critics who chastised its lack of direction but praised Wilson's performance. It sold poorly in comparison to their earlier albums, reaching No. 2 in the UK and performed well in Europe but it peaked at No. 54 in the US. This marked their first studio album not to reach number one in the UK since 1978. "Congo", the first of three singles from the album, went to No. 29 in the UK. The Calling All Stations Tour saw Genesis tour Europe throughout 1998 but an American leg was booked and cancelled twice due to low ticket sales. The group disbanded at the tour's conclusion, but later reunited with Collins for the Turn It On Again and The Last Domino? Tours.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Calling All Stations (5:46)
-2. Congo (4:52)
-3. Shipwrecked (4:24)
-4. Alien Afternoon (7:52)
-5. Not About Us (4:39)
-6. If That's What You Need (5:13)
-7. The Dividing Line (7:46)
-8. Uncertain Weather (5:30)
-9. Small Talk (5:03)
-10. There Must Be Some Other Way (7:55)
-11. One Man's Fool (8:46)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Calling All Stations | 5:46 |
+| A2 | Congo | 4:52 |
+| A3 | Shipwrecked | 4:24 |
+| A4 | Alien Afternoon | 7:52 |
+| B1 | Not About Us | 4:39 |
+| B2 | If That's What You Need | 5:13 |
+| B3 | The Dividing Line | 7:46 |
+| B4 | Uncertain Weather | 5:30 |
+| C1 | Small Talk | 5:03 |
+| C2 | There Must Be Some Other Way | 7:55 |
+| C3 | One Man's Fool | 8:46 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/calling-all-stations-remastered/268027056" >}}<br>
 
 
-## Videos
-### Genesis - Calling All Stations Official Audio
-{{< youtube id="s9nNhNaMDPw" title="Genesis - Calling All Stations Official Audio" >}}<br>
-### More Videos
-
-- [Genesis - Congo  Original Album Version](https://www.youtube.com/watch?v=yj7i8126IYY)
-- [Genesis - Alien Afternoon Official Audio](https://www.youtube.com/watch?v=XbJtdWN0DKY)
-- [Genesis - If Thats All You Need Official Audio](https://www.youtube.com/watch?v=M4GCx-fplVo)
-- [Genesis - Uncertain Weather Official Audio](https://www.youtube.com/watch?v=6KGdujJmcTM)
-- [Genesis - Small Talk Official Audio](https://www.youtube.com/watch?v=HWDRP5r3M2o)
-- [Genesis - There Must Be Some Other Way Official Audio](https://www.youtube.com/watch?v=93Pk3BSIwOY)
-- [Genesis - One Mans Fool Official Audio](https://www.youtube.com/watch?v=iocSyK2rgrk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +63,5 @@ Calling All Stations was released to mostly negative reviews from music critics 
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 374588 |
-| Notes | Recorded at The Farm, Surrey, England   |
+| Notes | Recorded at The Farm, Surrey, England<br><br> |
 | Discogs URL    | [Genesis - ...Calling All Stations...](https://www.discogs.com/release/12753628-Genesis-Calling-All-Stations) |

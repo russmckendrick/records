@@ -4,6 +4,7 @@ artist_name: "The Polyphonic Spree"
 artist: "the-polyphonic-spree"
 album_name: "Together We're Heavy"
 date: 2017-07-29T08:44:29.000000Z
+release_date: "2004-07-13"
 release_id: "5326625"
 slug: "together-we-re-heavy-5326625"
 hideSummary: true
@@ -35,45 +36,30 @@ The US version of Together We're Heavy contains an additional bonus DVD (entitle
 It reached number one on the Billboard Top Heatseekers albums chart in the United States.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Section 11 (A Long Day Continues / We Sound Amazed) (8:32)
-2. Section 12 (Hold Me Now) (4:30)
-3. Section 13 (Diamonds / Mild Devotion To Majesty) (4:55)
-4. Section 14 (Two Thousand Places) (5:19)
-5. Section 15 (Ensure Your Reservation) (1:39)
-6. Section 16 (One Man Show) (4:58)
-7. Section 17 (Suitcase Calling) (8:48)
-8. Section 18 (Everything Starts At The Seam) (1:54)
-9. Section 19 (When The Fool Becomes A King) (10:38)
-10. Section 20 (Together We're Heavy) (6:30)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Section 11 (A Long Day Continues / We Sound Amazed) | 8:32 |
+| A2 | Section 12 (Hold Me Now) | 4:30 |
+| B1 | Section 13 (Diamonds / Mild Devotion To Majesty) | 4:55 |
+| B2 | Section 14 (Two Thousand Places) | 5:19 |
+| B3 | Section 15 (Ensure Your Reservation) | 1:39 |
+| C1 | Section 16 (One Man Show) | 4:58 |
+| C2 | Section 17 (Suitcase Calling) | 8:48 |
+| D1 | Section 18 (Everything Starts At The Seam) | 1:54 |
+| D2 | Section 19 (When The Fool Becomes A King) | 10:38 |
+| D3 | Section 20 (Together We're Heavy) | 6:30 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/together-were-heavy/903318414" >}}<br>
 
 
-## Videos
-### Section 11 A Long Day Continues  We Sound Amazed
-{{< youtube id="N55OvrqdrLI" title="Section 11 A Long Day Continues  We Sound Amazed" >}}<br>
-### More Videos
-
-- [Section 12 Hold Me Now](https://www.youtube.com/watch?v=1KrAPnHDfko)
-- [The Polyphonic Spree Section 13 Diamonds Mild devotion to majesty](https://www.youtube.com/watch?v=F62msANqVQU)
-- [The Polyphonic Spree - Two Thousand Places](https://www.youtube.com/watch?v=kNdmkiAkvT0)
-- [Section 15 Ensure Your Reservation](https://www.youtube.com/watch?v=3oZTgO4ef94)
-- [Section 16 One Man Show](https://www.youtube.com/watch?v=NMk6IhU3BUY)
-- [Section 17 Suitcase Calling](https://www.youtube.com/watch?v=lpAT0QH3UGA)
-- [Section 18 Everything Starts At The Seam](https://www.youtube.com/watch?v=vd4W5cm6LN8)
-- [The Polyphonic Spree - Section 20 Together Were Heavy](https://www.youtube.com/watch?v=zpAOozUt-K8)
-- [Section 11 A Long Day ContinuesWe Sound Amazed](https://www.youtube.com/watch?v=KdyFxfFHnmg)
-- [The Polyphonic Spree - Section 20 Together Were Heavy](https://www.youtube.com/watch?v=zpAOozUt-K8)
-- [The Polyphonic Spree - Section 20 Together Were Heavy](https://www.youtube.com/watch?v=XeA1AYpgLY4)
-- [The Polyphonic Spree Together Were Heavy](https://www.youtube.com/watch?v=-MYLRycwgqw)
-- [Section 20 Together Were Heavy](https://www.youtube.com/watch?v=3KCv7U2KA8c)
-- [Section 20 Together Were Heavy](https://www.youtube.com/watch?v=_nxjf6AYecc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +71,5 @@ It reached number one on the Billboard Top Heatseekers albums chart in the Unite
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Hollywood Records |
 | Catalog Number | 2061-62423-1 |
-| Notes | Cover has Disneyland Records logo on back, but no catalog number.    Release comes with 2-page booklet of liner notes and lyrics. |
+| Notes | Cover has Disneyland Records logo on back, but no catalog number.<br><br>Release comes with 2-page booklet of liner notes and lyrics. |
 | Discogs URL    | [The Polyphonic Spree - Together We're Heavy](https://www.discogs.com/release/5326625-The-Polyphonic-Spree-Together-Were-Heavy) |

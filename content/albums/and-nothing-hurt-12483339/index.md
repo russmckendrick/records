@@ -33,23 +33,22 @@ In the flush ’90s, labels could let a band like Spiritualized splurge on ample
 
 
 ## Tracklisting
-1. A Perfect Miracle
-2. I'm Your Man
-3. Here It Comes (The Road) Let's Go
-4. Let's Dance
-5. On The Sunshine
-6. Damaged
-7. The Morning After
-8. The Prize
-9. Sail on Through
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | A Perfect Miracle |  |
+| A2 | I'm Your Man |  |
+| A3 | Here It Comes (The Road) Let's Go |  |
+| A4 | Let's Dance |  |
+| A5 | On The Sunshine |  |
+| B1 | Damaged |  |
+| B2 | The Morning After |  |
+| B3 | The Prize |  |
+| B4 | Sail on Through |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/and-nothing-hurt/1391135207" >}}<br>
 
-
-## Videos
-### Spiritualized - And Nothing Hurt Full Album Stream
-{{< youtube id="ydrvW4Sw4QA" title="Spiritualized - And Nothing Hurt Full Album Stream" >}}<br>
 
 
 ## Release Images

@@ -4,6 +4,7 @@ artist_name: "The Boo Radleys"
 artist: "the-boo-radleys"
 album_name: "Giant Steps"
 date: 2023-09-02T07:59:30.000000Z
+release_date: "1993-08-13"
 release_id: "28149154"
 slug: "giant-steps-28149154"
 hideSummary: true
@@ -21,56 +22,39 @@ styles: ["Indie Rock"]
 ---
 
 Giant Steps is the third studio album by the Boo Radleys, released in 1993. The title is inspired by John Coltrane's album of the same name, and the record features an assortment of influences — their previous shoegazing sound backed by pop, reggae, noise pop and orchestral sounds.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Hang Suspended
-2. Upon 9th & Fairchild
-3. Wish I Was Skinny
-4. Leaves And Sand
-5. Butterfly McQueen
-6. Rodney King (Song For Lenny Bruce)
-7. Thinking Of Ways
-8. Barney (...And Me)
-9. Spun Around
-10. If You Want It, Take It
-11. Best Lose The Fear
-12. Take The Time Around
-13. Lazarus
-14. One Is For
-15. Run My Way Runway
-16. I've Lost The Reason
-17. The White Noise Revisited
-18. Lazarus (Saint Etienne Remix)
-19. Rodney King (Saint Etienne Remix)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Hang Suspended |  |
+| A2 | Upon 9th & Fairchild |  |
+| A3 | Wish I Was Skinny |  |
+| A4 | Leaves And Sand |  |
+| B1 | Butterfly McQueen |  |
+| B2 | Rodney King (Song For Lenny Bruce) |  |
+| B3 | Thinking Of Ways |  |
+| B4 | Barney (...And Me) |  |
+| C1 | Spun Around |  |
+| C2 | If You Want It, Take It |  |
+| C3 | Best Lose The Fear |  |
+| C4 | Take The Time Around |  |
+| C5 | Lazarus |  |
+| D1 | One Is For |  |
+| D2 | Run My Way Runway |  |
+| D3 | I've Lost The Reason |  |
+| D4 | The White Noise Revisited |  |
+| E | Lazarus (Saint Etienne Remix) |  |
+| F | Rodney King (Saint Etienne Remix) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/giant-steps/268500341" >}}<br>
 
 
-## Videos
-### The Boo Radleys - I Hang Suspended
-{{< youtube id="ImatMDcsNL4" title="The Boo Radleys - I Hang Suspended" >}}<br>
-### More Videos
-
-- [Upon 9th And Fairchild](https://www.youtube.com/watch?v=Sh6dRuLeXys)
-- [The Boo Radleys - Wish I Was Skinny](https://www.youtube.com/watch?v=49bcBvSdWYU)
-- [Leaves and Sand](https://www.youtube.com/watch?v=tuDqIBahBvI)
-- [Butterfly McQueen](https://www.youtube.com/watch?v=YD7xt-9K7D4)
-- [Rodney King Song for Lenny Bruce](https://www.youtube.com/watch?v=-Q63IA8rS8U)
-- [Thinking of Ways](https://www.youtube.com/watch?v=J0Gjnr9gijU)
-- [The Boo Radleys - Barney And Me](https://www.youtube.com/watch?v=onlj1LrOXic)
-- [Spun Around](https://www.youtube.com/watch?v=P5BB2NzprRk)
-- [If You Want It Take It](https://www.youtube.com/watch?v=4pDk7XZxDFE)
-- [Best Lose the Fear](https://www.youtube.com/watch?v=8ydNYcnwY-c)
-- [Take the Time Around](https://www.youtube.com/watch?v=BfH6lXbrW5k)
-- [The Boo Radleys - Lazarus](https://www.youtube.com/watch?v=WRNyZ7DM-_k)
-- [One Is For](https://www.youtube.com/watch?v=G6UIkXJvKoA)
-- [Run My Way Runway](https://www.youtube.com/watch?v=HrzfbZy9TZA)
-- [Ive Lost the Reason](https://www.youtube.com/watch?v=gWr0IUpteds)
-- [The White Noise Revisited](https://www.youtube.com/watch?v=q6HvX_kczxQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +66,5 @@ Giant Steps is the third studio album by the Boo Radleys, released in 1993. The 
 | Format         | Vinyl LP (Orange), Vinyl LP (Purple), Vinyl 10" 45 RPM (Exclusive), All Media Album Limited Edition Reissue Remastered |
 | Label          | Two Piers |
 | Catalog Number | BN7LPX |
-| Notes | 30th Anniversary Reissue Recorded at First Protocol Studios, London, February & March 1993  Exclusive black vinyl 10" featuring two Saint Etienne remixes in this format  Copies ordered from the band's website came with a limited enamel pin.  Sleeve note: Originally released 1993 Creation Records Ltd.  |
+| Notes | 30th Anniversary Reissue<br>Recorded at First Protocol Studios, London, February & March 1993<br><br>Exclusive black vinyl 10" featuring two Saint Etienne remixes in this format<br><br>Copies ordered from the band's website came with a limited enamel pin.<br><br>Sleeve note: Originally released 1993 Creation Records Ltd.<br> |
 | Discogs URL    | [The Boo Radleys - Giant Steps](https://www.discogs.com/release/28149154-The-Boo-Radleys-Giant-Steps) |

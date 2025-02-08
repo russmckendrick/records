@@ -1,16 +1,17 @@
 ---
-title: "Godspeed You Black Emperor! - No Title As Of 13 February 2024 28,340 Dead"
-artist_name: "Godspeed You Black Emperor!"
+title: "Godspeed You Black Emperor - No Title As Of 13 February 2024 28,340 Dead"
+artist_name: "Godspeed You Black Emperor"
 artist: "godspeed-you-black-emperor"
 album_name: "No Title As Of 13 February 2024 28,340 Dead"
 date: 2024-12-31T01:19:01.000000Z
+release_date: "2024-10-04"
 release_id: "31850216"
 slug: "notitle-as-of-13-february-2024-28-340-dead-31850216"
 hideSummary: true
 cover:
     image: "notitle-as-of-13-february-2024-28-340-dead-31850216.jpg"
-    alt: "No Title As Of 13 February 2024 28,340 Dead by Godspeed You Black Emperor!"
-    caption: "No Title As Of 13 February 2024 28,340 Dead by Godspeed You Black Emperor!"
+    alt: "No Title As Of 13 February 2024 28,340 Dead by Godspeed You Black Emperor"
+    caption: "No Title As Of 13 February 2024 28,340 Dead by Godspeed You Black Emperor"
 additional_images:
     - "https://i.discogs.com/NqJF169VvBO7wNJ_KikcDHKGssW4it_vrrmi3KiWaEw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODUw/MjE2LTE3MzAxOTY5/NTItMTY1NS5qcGVn.jpeg"
     - "https://i.discogs.com/bIFndV9GPp5AQcMATDuNARK0J8tAGwrQDhxRHIMQHwo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODUw/MjE2LTE3Mjc1MjEw/MDUtODYxNy5qcGVn.jpeg"
@@ -32,38 +33,26 @@ styles: ["Post Rock", "Drone"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Sun Is A Hole Sun Is Vapors (5:32)
-2. Babys In A Thundercloud (13:37)
-3. Raindrops Cast In Lead (13:18)
-4. Broken Spires At Dead Kapital (3:35)
-5. Pale Spectator Takes Photographs (11:18)
-6. Grey Rubble — Green Shoots (6:54)
-7. Untitled (13:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sun Is A Hole Sun Is Vapors | 5:32 |
+| A2 | Babys In A Thundercloud | 13:37 |
+| B3 | Raindrops Cast In Lead | 13:18 |
+| C4 | Broken Spires At Dead Kapital | 3:35 |
+| C5 | Pale Spectator Takes Photographs | 11:18 |
+| C6 | Grey Rubble — Green Shoots | 6:54 |
+| D7 | Untitled | 13:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-title-as-of-13-february-2024-28-340-dead/1760821166" >}}<br>
 
 
-## Videos
-### SUN IS A HOLE SUN IS VAPORS
-{{< youtube id="55CLYupTQpQ" title="SUN IS A HOLE SUN IS VAPORS" >}}<br>
-### More Videos
-
-- [BABYS IN A THUNDERCLOUD](https://www.youtube.com/watch?v=Lb3VKnzuDeE)
-- [RAINDROPS CAST IN LEAD](https://www.youtube.com/watch?v=IKTBbVJ8bCg)
-- [BROKEN SPIRES AT DEAD KAPITAL](https://www.youtube.com/watch?v=M4kFuV9u20o)
-- [PALE SPECTATOR TAKES PHOTOGRAPHS](https://www.youtube.com/watch?v=UvOG3SOWybE)
-- [GREY RUBBLE  GREEN SHOOTS](https://www.youtube.com/watch?v=w9WvC2707hY)
-- [Godspeed You Black Emperor - NO TITLE AS OF 13 FEBRUARY 2024 28340 DEAD Album 2024](https://www.youtube.com/watch?v=B2bXSNWEYqg)
-- [SUN IS A HOLE SUN IS VAPORS](https://www.youtube.com/watch?v=55CLYupTQpQ)
-- [BABYS IN A THUNDERCLOUD](https://www.youtube.com/watch?v=Lb3VKnzuDeE)
-- [RAINDROPS CAST IN LEAD](https://www.youtube.com/watch?v=IKTBbVJ8bCg)
-- [BROKEN SPIRES AT DEAD KAPITAL](https://www.youtube.com/watch?v=M4kFuV9u20o)
-- [PALE SPECTATOR TAKES PHOTOGRAPHS](https://www.youtube.com/watch?v=UvOG3SOWybE)
-- [GREY RUBBLE  GREEN SHOOTS](https://www.youtube.com/watch?v=w9WvC2707hY)
-- [Godspeed You Black Emperor - NO TITLE AS OF 13 FEBRUARY 2024 28340 DEAD Album 2024](https://www.youtube.com/watch?v=B2bXSNWEYqg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +63,5 @@ styles: ["Post Rock", "Drone"]
 | Format         | Vinyl 2× LP Album Stereo (180g) |
 | Label          | Constellation |
 | Catalog Number | CST183 |
-| Notes | In full-color printed gatefold sleeve. Discs come in full-color printed custom inner sleeves.   Comes with a download code for the tracks in mp3 format.   Recorded at Thee Mighty Hotel2Tango Winter of Bombs 2024.  Side D not titled on packaging but is a continuation of Grey Rubble - Green Shoots not present on the compact disc edition.  Tracks are listed sequentially regardless of side on inner panels of gatefold.   Track durations do not appear on the release.   Runouts are etched.   Lacquer cutting company/engineer, vinyl pressing company derived from runouts.  |
-| Discogs URL    | [Godspeed You Black Emperor! - No Title As Of 13 February 2024 28,340 Dead](https://www.discogs.com/release/31850216-Godspeed-You-Black-Emperor-NoTitle-As-Of-13-February-2024-28340-Dead) |
+| Notes | In full-color printed gatefold sleeve. Discs come in full-color printed custom inner sleeves. <br><br>Comes with a download code for the tracks in mp3 format. <br><br>Recorded at Thee Mighty Hotel2Tango Winter of Bombs 2024.<br><br>Side D not titled on packaging but is a continuation of Grey Rubble - Green Shoots not present on the compact disc edition.<br><br>Tracks are listed sequentially regardless of side on inner panels of gatefold. <br><br>Track durations do not appear on the release. <br><br>Runouts are etched. <br><br>Lacquer cutting company/engineer, vinyl pressing company derived from runouts.  |
+| Discogs URL    | [Godspeed You Black Emperor - No Title As Of 13 February 2024 28,340 Dead](https://www.discogs.com/release/31850216-Godspeed-You-Black-Emperor-NoTitle-As-Of-13-February-2024-28340-Dead) |

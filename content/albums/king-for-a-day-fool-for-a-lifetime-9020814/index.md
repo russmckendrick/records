@@ -4,6 +4,7 @@ artist_name: "Faith No More"
 artist: "faith-no-more"
 album_name: "King For A Day Fool For A Lifetime"
 date: 2016-09-12T16:37:18.000000Z
+release_date: "1995-04-25"
 release_id: "9020814"
 slug: "king-for-a-day-fool-for-a-lifetime-9020814"
 hideSummary: true
@@ -35,52 +36,43 @@ Following Martin's departure, Trey Spruance was brought on to perform on the alb
 Critical reception to the album has been mixed, with its varied genres being cited as a detraction by several reviewers. However, retrospective critique has been more positive and the record has subsequently appeared on several publications' "best of" lists. The album earned the band two Bay Area Music award nominations.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Get Out		 (2:16)
-2. Ricochet (4:28)
-3. Evidence (4:54)
-4. The Gentle Art Of Making Enemies (3:29)
-5. Star A.D. (3:23)
-6. Cuckoo For Caca (4:28)
-7. Caralho Voador (4:01)
-8. Ugly In The Morning (3:05)
-9. Digging The Grave (3:04)
-10. Take This Bottle (4:58)
-11. King For A Day (6:36)
-12. What A Day (2:38)
-13. The Last To Know (4:27)
-14. Just A Man (5:36)
-15. Bonus tracks
-16. Absolute Zero (4:06)
-17. Greenfields (4:38)
-18. I Started A Joke (3:01)
-19. Spanish Eyes (3:00)
-20. I Won't Forget You (4:10)
-21. Hippie Jam Song (4:57)
-22. Evidence (Versione Italiana) (3:56)
-23. I Wanna F**k Myself (2:53)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Get Out		 | 2:16 |
+| A2 | Ricochet | 4:28 |
+| A3 | Evidence | 4:54 |
+| A4 | The Gentle Art Of Making Enemies | 3:29 |
+| A5 | Star A.D. | 3:23 |
+| A6 | Cuckoo For Caca | 4:28 |
+| B1 | Caralho Voador | 4:01 |
+| B2 | Ugly In The Morning | 3:05 |
+| B3 | Digging The Grave | 3:04 |
+| B4 | Take This Bottle | 4:58 |
+| B5 | King For A Day | 6:36 |
+| C1 | What A Day | 2:38 |
+| C2 | The Last To Know | 4:27 |
+| C3 | Just A Man | 5:36 |
+|  | Bonus tracks |  |
+| C4 | Absolute Zero | 4:06 |
+| C5 | Greenfields | 4:38 |
+| D1 | I Started A Joke | 3:01 |
+| D2 | Spanish Eyes | 3:00 |
+| D3 | I Won't Forget You | 4:10 |
+| D4 | Hippie Jam Song | 4:57 |
+| D5 | Evidence (Versione Italiana) | 3:56 |
+| D6 | I Wanna F**k Myself | 2:53 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/king-for-a-day-fool-for-a-lifetime/184673815" >}}<br>
 
 
-## Videos
-### Faith No More - Ricochet Official Music Video
-{{< youtube id="BzoDVzO1F9I" title="Faith No More - Ricochet Official Music Video" >}}<br>
-### More Videos
-
-- [Faith No More - Evidence Official Music Video](https://www.youtube.com/watch?v=7lvMNLhJrb0)
-- [Get Out](https://www.youtube.com/watch?v=FOkh5hxPY6s)
-- [Star AD](https://www.youtube.com/watch?v=xALb75mMnJ0)
-- [Caralho Voador](https://www.youtube.com/watch?v=tsm9VlnRJdM)
-- [King for a Day](https://www.youtube.com/watch?v=vCktbM5Uqk4)
-- [What a Day](https://www.youtube.com/watch?v=5ZTcxtQWVNU)
-- [The Last to Know](https://www.youtube.com/watch?v=KER-6L5jq40)
-- [Just a Man](https://www.youtube.com/watch?v=h5MFFc0xdwg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -92,5 +84,5 @@ Critical reception to the album has been mixed, with its varied genres being cit
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold Sleeve, 180 gram) |
 | Label          | Slash |
 | Catalog Number | 0190295973292 |
-| Notes | A sticker on the front cover states: "Double 180gm Gatefold Vinyl Bonus LP features rare tracks & previously unreleased versions New liner notes by Roddy Bottum Includes download code for mp3 version of the album "  Mp3 download catalogued here: [r=12129387] The US version of the release does not include a download card and features a different sleeve sticker. |
+| Notes | A sticker on the front cover states:<br>"Double 180gm Gatefold Vinyl<br>Bonus LP features rare tracks & previously unreleased versions<br>New liner notes by Roddy Bottum<br>Includes download code for mp3 version of the album "<br><br>Mp3 download catalogued here: [r=12129387]<br>The US version of the release does not include a download card and features a different sleeve sticker. |
 | Discogs URL    | [Faith No More - King For A Day Fool For A Lifetime](https://www.discogs.com/release/9020814-Faith-No-More-King-For-A-Day-Fool-For-A-Lifetime) |

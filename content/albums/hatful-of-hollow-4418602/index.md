@@ -4,6 +4,7 @@ artist_name: "The Smiths"
 artist: "the-smiths"
 album_name: "Hatful Of Hollow"
 date: 2016-10-03T14:27:49.000000Z
+release_date: "2011-05-01"
 release_id: "4418602"
 slug: "hatful-of-hollow-4418602"
 hideSummary: true
@@ -30,38 +31,36 @@ Hatful of Hollow is a compilation album by English rock band the Smiths, release
 Hatful of Hollow reached No. 7 on the UK Albums Chart, remaining on the chart for 46 weeks. In 2000, Q magazine placed the album at No. 44 on its list of the "100 Greatest British Albums Ever".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. William, It Was Really Nothing (2:09)
-2. What Difference Does It Make? (3:42)
-3. These Things Take Time (2:33)
-4. This Charming Man (2:43)
-5. How Soon Is Now? (6:43)
-6. Handsome Devil (2:46)
-7. Hand In Glove (3:14)
-8. Still Ill (3:54)
-9. Heaven Knows I'm Miserable Now (3:34)
-10. This Night Has Opened My Eyes (3:40)
-11. You've Got Everything Now (4:18)
-12. Accept Yourself (4:02)
-13. Girl Afraid (2:45)
-14. Back To The Old House (3:02)
-15. Reel Around The Fountain (5:51)
-16. Please Please Please Let Me Get What I Want (1:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | William, It Was Really Nothing | 2:09 |
+| A2 | What Difference Does It Make? | 3:42 |
+| A3 | These Things Take Time | 2:33 |
+| A4 | This Charming Man | 2:43 |
+| A5 | How Soon Is Now? | 6:43 |
+| A6 | Handsome Devil | 2:46 |
+| A7 | Hand In Glove | 3:14 |
+| A8 | Still Ill | 3:54 |
+| B1 | Heaven Knows I'm Miserable Now | 3:34 |
+| B2 | This Night Has Opened My Eyes | 3:40 |
+| B3 | You've Got Everything Now | 4:18 |
+| B4 | Accept Yourself | 4:02 |
+| B5 | Girl Afraid | 2:45 |
+| B6 | Back To The Old House | 3:02 |
+| B7 | Reel Around The Fountain | 5:51 |
+| B8 | Please Please Please Let Me Get What I Want | 1:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-smiths-project-box-set-hatful-of-hollow/1298339436" >}}<br>
 
 
-## Videos
-### 04 How Soon Is Now - The Smiths - Hatful Of Hollow
-{{< youtube id="FQ4DUnghgT0" title="04 How Soon Is Now - The Smiths - Hatful Of Hollow" >}}<br>
-### More Videos
-
-- [The Smiths - Heaven Knows Im Miserable Now Official Music Video](https://www.youtube.com/watch?v=TjPhzgxe3L0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +72,5 @@ Hatful of Hollow reached No. 7 on the UK Albums Chart, remaining on the chart fo
 | Format         | Vinyl LP Compilation (180 Gram, Gat) |
 | Label          | SIRE |
 | Catalog Number | R1 45205 |
-| Notes | 180 Gram Gatefold LP 1993 John Peel + David Jensen Show Sessions, Plus the Hit Singles  |
+| Notes | 180 Gram Gatefold LP<br>1993 John Peel + David Jensen Show Sessions, Plus the Hit Singles<br> |
 | Discogs URL    | [The Smiths - Hatful Of Hollow](https://www.discogs.com/release/4418602-The-Smiths-Hatful-Of-Hollow) |

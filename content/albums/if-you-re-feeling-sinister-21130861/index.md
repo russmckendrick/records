@@ -1,6 +1,6 @@
 ---
-title: "Belle & Sebastian - If You're Feeling Sinister"
-artist_name: "Belle & Sebastian"
+title: "Belle  Sebastian - If You're Feeling Sinister"
+artist_name: "Belle  Sebastian"
 artist: "belle-sebastian"
 album_name: "If You're Feeling Sinister"
 date: 2021-12-07T13:04:16.000000Z
@@ -10,8 +10,8 @@ slug: "if-you-re-feeling-sinister-21130861"
 hideSummary: true
 cover:
     image: "if-you-re-feeling-sinister-21130861.jpg"
-    alt: "If You're Feeling Sinister by Belle & Sebastian"
-    caption: "If You're Feeling Sinister by Belle & Sebastian"
+    alt: "If You're Feeling Sinister by Belle  Sebastian"
+    caption: "If You're Feeling Sinister by Belle  Sebastian"
 additional_images:
     - "https://i.discogs.com/BTtXq01ROtr05UuiCctnVABbqLlfmjfo07KGDBfQIEI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMw/ODYxLTE2Mzc5NDY0/NzMtODczNy5qcGVn.jpeg"
     - "https://i.discogs.com/HCG15OreZrdmEioecLwh1u_uHOHqXh8RQdHl6HivrO4/rs:fit/g:sm/q:90/h:303/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTMw/ODYxLTE2OTk0NzQ0/MjMtODUyMS5qcGVn.jpeg"
@@ -32,32 +32,24 @@ With intimate storytelling, intricate orchestration, and catchy melodies, <i>If 
 
 
 ## Tracklisting
-1. The Stars Of Track And Field
-2. Seeing Other People
-3. Me And The Major
-4. Like Dylan In The Movies
-5. The Fox In The Snow
-6. Get Me Away From Here, I'm Dying
-7. If You're Feeling Sinister
-8. Mayfly
-9. The Boy Done Wrong Again
-10. Judy And The Dream Of Horses
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Stars Of Track And Field |  |
+| A2 | Seeing Other People |  |
+| A3 | Me And The Major |  |
+| A4 | Like Dylan In The Movies |  |
+| A5 | The Fox In The Snow |  |
+| B1 | Get Me Away From Here, I'm Dying |  |
+| B2 | If You're Feeling Sinister |  |
+| B3 | Mayfly |  |
+| B4 | The Boy Done Wrong Again |  |
+| B5 | Judy And The Dream Of Horses |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/if-youre-feeling-sinister/516530926" >}}<br>
 
 
-## Videos
-### Get Me Away from Here Im Dying
-{{< youtube id="O_r2K3vvbQ0" title="Get Me Away from Here Im Dying" >}}<br>
-### More Videos
-
-- [If Youre Feeling Sinister](https://www.youtube.com/watch?v=hS6IeXyVhV8)
-- [The Stars Of Track And Field](https://www.youtube.com/watch?v=yCYphHhF4Mo)
-- [Belle and Sebastian - If Youre Feeling Sinister](https://www.youtube.com/watch?v=e-jnftESRJE)
-- [Belle and Sebastian - If Youre Feeling Sinister - Pitchfork Classic](https://www.youtube.com/watch?v=4de-RHHLCBA)
-- [The Stars of Track  Field](https://www.youtube.com/watch?v=LDrCuEAHNZc)
-- [Belle and Sebastian - Get Me Away from Here Im Dying](https://www.youtube.com/watch?v=wcKsxHURj24)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +61,5 @@ With intimate storytelling, intricate orchestration, and catchy melodies, <i>If 
 | Format         | Vinyl LP Album Limited Edition Reissue (Red Transparent, 25th Anniversary Edition) |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP001RED |
-| Notes | (P) & (C) 1996 Jeepster Recordings Ltd. Made in the EU.  Some copies bought from the B&S official store came signed by Sarah, Stuart, Stevie, Richard and Chris. |
-| Discogs URL    | [Belle & Sebastian - If You're Feeling Sinister](https://www.discogs.com/release/21130861-Belle-And-Sebastian-If-Youre-Feeling-Sinister) |
+| Notes | (P) & (C) 1996 Jeepster Recordings Ltd.<br>Made in the EU.<br><br>Some copies bought from the B&S official store came signed by Sarah, Stuart, Stevie, Richard and Chris. |
+| Discogs URL    | [Belle  Sebastian - If You're Feeling Sinister](https://www.discogs.com/release/21130861-Belle-And-Sebastian-If-Youre-Feeling-Sinister) |

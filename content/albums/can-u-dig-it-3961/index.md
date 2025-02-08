@@ -4,6 +4,7 @@ artist_name: "Pop Will Eat Itself"
 artist: "pop-will-eat-itself"
 album_name: "Can U Dig It?"
 date: 2018-02-15T19:24:32.000000Z
+release_date: "2005-11-01"
 release_id: "3961"
 slug: "can-u-dig-it-3961"
 hideSummary: true
@@ -21,28 +22,23 @@ styles: ["House", "Breaks", "Synth-pop", "Indie Rock", "Leftfield", "Industrial"
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Can U Dig It? (Twelve) (4:25)
-2. Poison To The Mind (2:45)
-3. Radio P.W.E.I. (Acapella) (1:10)
-4. The Fuses Have Been Lit (Instrumental) (2:07)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Can U Dig It? (Twelve) | 4:25 |
+| B1 | Poison To The Mind | 2:45 |
+| B2 | Radio P.W.E.I. (Acapella) | 1:10 |
+| B3 | The Fuses Have Been Lit (Instrumental) | 2:07 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ultimate-isaac-hayes-can-you-dig-it/1443105620" >}}<br>
 
 
-## Videos
-### Pop Will Eat Itself - Can U Dig It Twelve
-{{< youtube id="7uG_gNOhmDc" title="Pop Will Eat Itself - Can U Dig It Twelve" >}}<br>
-### More Videos
-
-- [Pop Will Eat Itself - Can U Dig It Twelve](https://www.youtube.com/watch?v=7uG_gNOhmDc)
-- [Pop Will Eat Itself - Can U Dig It Video](https://www.youtube.com/watch?v=36nWNAvtwrw)
-- [Pop Will Eat Itself - Can U Dig It Justin Strauss 12 House Mix 1989](https://www.youtube.com/watch?v=D8VTrcfE758)
-- [Pop Will Eat Itself - Can U Dig It Video](https://www.youtube.com/watch?v=36nWNAvtwrw)
-- [Poison to the Mind](https://www.youtube.com/watch?v=ffPjII-GJ7Y)
-- [Pop Will Eat Itself - Can U Dig It Video](https://www.youtube.com/watch?v=36nWNAvtwrw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -53,5 +49,5 @@ styles: ["House", "Breaks", "Synth-pop", "Indie Rock", "Leftfield", "Industrial"
 | Format         | Vinyl 12" 45 RPM Stereo |
 | Label          | RCA |
 | Catalog Number | PT 42620 |
-| Notes | (P)+(C) BMG Records UK Ltd.  On the release, [a578564] is credited as - Featuring the wild guitar of The Buzzard from "Yeah God"  Printed in England |
+| Notes | (P)+(C) BMG Records UK Ltd.<br><br>On the release, [a578564] is credited as - Featuring the wild guitar of The Buzzard from "Yeah God"<br><br>Printed in England |
 | Discogs URL    | [Pop Will Eat Itself - Can U Dig It?](https://www.discogs.com/release/3961-Pop-Will-Eat-Itself-Can-U-Dig-It) |

@@ -4,6 +4,7 @@ artist_name: "Field Music"
 artist: "field-music"
 album_name: "Tones Of Town"
 date: 2017-05-20T15:12:05.000000Z
+release_date: "2007-01-22"
 release_id: "10173938"
 slug: "tones-of-town-10173938"
 hideSummary: true
@@ -20,33 +21,31 @@ styles: ["Pop Rock", "Indie Rock"]
 ---
 
 Tones of Town is the second studio album by indie rock band Field Music. It was released on 22 January 2007. "In Context" (w/b 'Off & On'), "A House Is Not a Home" (w/b 'Logic') and "She Can Do What She Wants" (w/b 'Sit Tighter', an alternate version of 'Sit Tight') were released as singles.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Give It Lose It Take It (3:56)
-2. Sit Tight (3:02)
-3. Tones Of Town (3:05)
-4. A House Is Not A Home (2:36)
-5. Kingston (1:54)
-6. Working To Work (2:51)
-7. In Context (3:37)
-8. A Gap Has Appeared (2:01)
-9. Closer At Hand (2:29)
-10. Place Yourself (3:02)
-11. She Can Do What She Wants (3:06)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Give It Lose It Take It | 3:56 |
+| A2 | Sit Tight | 3:02 |
+| A3 | Tones Of Town | 3:05 |
+| A4 | A House Is Not A Home | 2:36 |
+| A5 | Kingston | 1:54 |
+| B1 | Working To Work | 2:51 |
+| B2 | In Context | 3:37 |
+| B3 | A Gap Has Appeared | 2:01 |
+| B4 | Closer At Hand | 2:29 |
+| B5 | Place Yourself | 3:02 |
+| B6 | She Can Do What She Wants | 3:06 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tones-of-town/210355490" >}}<br>
 
 
-## Videos
-### Field Music - In Context
-{{< youtube id="DBqx9Tpmj-U" title="Field Music - In Context" >}}<br>
-### More Videos
-
-- [Field Music - Tones of Town](https://www.youtube.com/watch?v=nYzlSJKboio)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,5 +57,5 @@ Tones of Town is the second studio album by indie rock band Field Music. It was 
 | Format         | Vinyl LP Album Limited Edition Reissue (Yellow) |
 | Label          | Memphis Industries |
 | Catalog Number | MI074LPX |
-| Notes | Released for Record Store Day 2017.  Back on LP for the first time since its original pressing in 2007, on limited edition of 650 on  180g yellow vinyl.  Includes download code.  Recorded at Eight Music Studio / Sunderland. Mastered at Alchemy.  Published by Chrysalis Music. ℗ + © Memphis Industries Ltd 2006. |
+| Notes | Released for Record Store Day 2017.<br><br>Back on LP for the first time since its original pressing in 2007, on limited edition of 650 on  180g yellow vinyl.<br><br>Includes download code.<br><br>Recorded at Eight Music Studio / Sunderland.<br>Mastered at Alchemy.<br><br>Published by Chrysalis Music.<br>℗ + © Memphis Industries Ltd 2006. |
 | Discogs URL    | [Field Music - Tones Of Town](https://www.discogs.com/release/10173938-Field-Music-Tones-Of-Town) |

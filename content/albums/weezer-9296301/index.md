@@ -39,50 +39,24 @@ Rivers Cuomo was a Kiss fan, and you could tell by listening, if not by looking:
 
 
 ## Tracklisting
-1. My Name Is Jonas (3:24)
-2. No One Else (3:04)
-3. The World Has Turned And Left Me Here (4:19)
-4. Buddy Holly (2:39)
-5. Undone - The Sweater Song (5:05)
-6. Surf Wax America (3:06)
-7. Say It Ain't So (4:18)
-8. In The Garage (3:55)
-9. Holiday (3:24)
-10. Only In Dreams (7:59)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | My Name Is Jonas | 3:24 |
+| A2 | No One Else | 3:04 |
+| A3 | The World Has Turned And Left Me Here | 4:19 |
+| A4 | Buddy Holly | 2:39 |
+| A5 | Undone - The Sweater Song | 5:05 |
+| A6 | Surf Wax America | 3:06 |
+| B1 | Say It Ain't So | 4:18 |
+| B2 | In The Garage | 3:55 |
+| B3 | Holiday | 3:24 |
+| B4 | Only In Dreams | 7:59 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/weezer/1440878798" >}}<br>
 
 
-## Videos
-### Weezer - Buddy Holly Official Music Video
-{{< youtube id="kemivUKb4f4" title="Weezer - Buddy Holly Official Music Video" >}}<br>
-### More Videos
-
-- [Weezer - Say It Aint So Official Video](https://www.youtube.com/watch?v=ENXvZ9YRjbo)
-- [Weezer - Undone -- The Sweater Song](https://www.youtube.com/watch?v=LHQqqM5sr7g)
-- [Weezer - Say It Aint So Official Video](https://www.youtube.com/watch?v=ENXvZ9YRjbo)
-- [Weezer - Buddy Holly](https://www.youtube.com/watch?v=Kjr7US2Z9aY)
-- [Weezer - Africa starring Weird Al Yankovic](https://www.youtube.com/watch?v=mk5Dwg5zm2U)
-- [Weezer - Island In The Sun Official Music Video](https://www.youtube.com/watch?v=erG5rgNYSdk)
-- [Weezer - Undone -- The Sweater Song](https://www.youtube.com/watch?v=LHQqqM5sr7g)
-- [Weezer - Buddy Holly Official Music Video](https://www.youtube.com/watch?v=kemivUKb4f4)
-- [Day 250 of posting Weezer everyday for the boys to create an army](https://www.youtube.com/watch?v=k8fIDU7I_Gk)
-- [I Just Threw Out The Love Of My Dreams](https://www.youtube.com/watch?v=r2dosVRzLSM)
-- [weezer weezer meme funny comedy satire shortsfeed shorts viral fyp music bluealbum](https://www.youtube.com/watch?v=oFA1LEQRRR8)
-- [Weezer - Buddy Holly 2024 Remaster](https://www.youtube.com/watch?v=SiJie3Z7DG8)
-- [Were Weezer of course were playing the Blue Album in full this summer httpsweezercomtour](https://www.youtube.com/watch?v=BnbuptO63X4)
-- [Kenosha Wisconsins own Weezer Animation by Yuri Fain](https://www.youtube.com/watch?v=MTvhBwn5WWs)
-- [Weezer - The Blue Album LIVE  Spotify THIRTY - The 30th Anniversary](https://www.youtube.com/watch?v=P_vI3FV1H4U)
-- [Weezer - Hash Pipe Revised](https://www.youtube.com/watch?v=_9BGLtqqkVI)
-- [Weezer - Beverly Hills](https://www.youtube.com/watch?v=HL_WvOly7mY)
-- [Weezer - Island In The Sun](https://www.youtube.com/watch?v=HVHUjzZZGQ4)
-- [Weezer - SNL](https://www.youtube.com/watch?v=ab5WvwfLuLM)
-- [Pink Triangle](https://www.youtube.com/watch?v=v2vWDWxYJBc)
-- [I just noticed this in double life  buddyholly weezer](https://www.youtube.com/watch?v=XiU1qCvPs7c)
-- [Weezer - Say It Aint So](https://www.youtube.com/watch?v=zo-x4PU8S6g)
-- [Weezer - Say It Aint So 2024 Remaster](https://www.youtube.com/watch?v=OoPHItnUFkw)
-- [Weezer - Pork And Beans](https://www.youtube.com/watch?v=PQHPYelqr0E)
 
 ## Release Images
 {{< imageGrid >}}
@@ -94,5 +68,5 @@ Rivers Cuomo was a Kiss fan, and you could tell by listening, if not by looking:
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Geffen Records |
 | Catalog Number | 00602547945396 |
-| Notes | 180 gram heavyweight vinyl. Includes download voucher. Includes fold out black and white poster/inlay.  Poster/Inlay: © 2004 Geffen Records.  Back cover: Recorded and Mixed at Electric Lady Studios, NYC, August - September 1993 Remastered at Sterling Sound, NYC ℗ 2004 © 2016 Geffen Records. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands. Made in the EU. |
+| Notes | 180 gram heavyweight vinyl.<br>Includes download voucher.<br>Includes fold out black and white poster/inlay.<br><br>Poster/Inlay:<br>© 2004 Geffen Records.<br><br>Back cover:<br>Recorded and Mixed at Electric Lady Studios, NYC, August - September 1993<br>Remastered at Sterling Sound, NYC<br>℗ 2004 © 2016 Geffen Records.<br>Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands.<br>Made in the EU. |
 | Discogs URL    | [Weezer - Weezer](https://www.discogs.com/release/9296301-Weezer-Weezer) |

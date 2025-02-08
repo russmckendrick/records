@@ -4,6 +4,7 @@ artist_name: "Danny Cavanagh"
 artist: "danny-cavanagh"
 album_name: "Monochrome"
 date: 2017-10-14T10:09:24.000000Z
+release_date: "2017-10-13"
 release_id: "10932389"
 slug: "monochrome-10932389"
 hideSummary: true
@@ -28,40 +29,27 @@ styles: ["Prog Rock"]
 A monochrome or monochromatic image, object or palette is composed of one color (or values of one color). Images using only shades of grey are called grayscale (typically digital) or black-and-white (typically analog). In physics, monochromatic light refers to electromagnetic radiation that contains a narrow band of wavelengths, which is a distinct concept.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Exorcist (6:43)
-2. This Music (4:50)
-3. Soho (7:39)
-4. The Silent Flight Of The Raven Winged Hours (9:03)
-5. Dawn (2:42)
-6. Oceans Of Time (8:14)
-7. Some Dreams Come True (8:34)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Exorcist | 6:43 |
+| A2 | This Music | 4:50 |
+| B1 | Soho | 7:39 |
+| B2 | The Silent Flight Of The Raven Winged Hours | 9:03 |
+| C1 | Dawn | 2:42 |
+| C2 | Oceans Of Time | 8:14 |
+| D1 | Some Dreams Come True | 8:34 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/monochrome/1273863411" >}}<br>
 
 
-## Videos
-### Daniel Cavanagh - This Music from Monochrome
-{{< youtube id="VuJGTV3T-l0" title="Daniel Cavanagh - This Music from Monochrome" >}}<br>
-### More Videos
-
-- [Daniel Cavanagh - Soho Monochrome](https://www.youtube.com/watch?v=wAfA7aw5Dzw)
-- [Daniel Cavanagh - The Silent Flight of the Raven Winged Hours acoustic from MonochromeColour](https://www.youtube.com/watch?v=o5XtTnnK6J0)
-- [Daniel Cavanagh - Dawn Monochrome](https://www.youtube.com/watch?v=OmoNknT9zGc)
-- [Daniel Cavanagh - Oceans Of Time Monochrome](https://www.youtube.com/watch?v=xxsaFocAETQ)
-- [Daniel Cavanagh - Monochrome](https://www.youtube.com/watch?v=ycoasc71RFc)
-- [Daniel Cavanagh - The Exorcist from Monochrome](https://www.youtube.com/watch?v=pKGoYUZ_B1c)
-- [Daniel Cavanagh - This Music from Monochrome](https://www.youtube.com/watch?v=VuJGTV3T-l0)
-- [Daniel Cavanagh - Soho Monochrome](https://www.youtube.com/watch?v=wAfA7aw5Dzw)
-- [Daniel Cavanagh - The Silent Flight of the Raven Winged Hours acoustic from MonochromeColour](https://www.youtube.com/watch?v=o5XtTnnK6J0)
-- [Daniel Cavanagh - Dawn Monochrome](https://www.youtube.com/watch?v=OmoNknT9zGc)
-- [Daniel Cavanagh - Oceans Of Time Monochrome](https://www.youtube.com/watch?v=xxsaFocAETQ)
-- [Daniel Cavanagh - Monochrome](https://www.youtube.com/watch?v=ycoasc71RFc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +61,5 @@ A monochrome or monochromatic image, object or palette is composed of one color 
 | Format         | Vinyl 2× LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE945 |
-| Notes | Anneke van Giersbergen appears courtesy of InsideOut Music. Illustrations by Danny Branscombe (dannybranscombe.com), layout by Danny with Scott at Kscope  Many thanks to my beloved anathema family.  Dedicated to Ariel & Ester    ℗ 2017 Daniel Cavanagh © 2017 Daniel Cavanagh. Issued under exclusive licence from Daniel Cavanagh to Snapper Music Ltd. Kscope is a Snapper Music label. Cat. No: KSCOPE 945 Barcode 802644894515. Made in the EU. |
+| Notes | Anneke van Giersbergen appears courtesy of InsideOut Music.<br>Illustrations by Danny Branscombe (dannybranscombe.com), layout by Danny with Scott at Kscope<br><br>Many thanks to my beloved anathema family.<br><br>Dedicated to Ariel & Ester  <br><br>℗ 2017 Daniel Cavanagh © 2017 Daniel Cavanagh.<br>Issued under exclusive licence from Daniel Cavanagh to Snapper Music Ltd.<br>Kscope is a Snapper Music label. Cat. No: KSCOPE 945 Barcode 802644894515. Made in the EU. |
 | Discogs URL    | [Danny Cavanagh - Monochrome](https://www.discogs.com/release/10932389-Danny-Cavanagh-Monochrome) |

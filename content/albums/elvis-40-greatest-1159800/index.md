@@ -4,6 +4,7 @@ artist_name: "Elvis Presley"
 artist: "elvis-presley"
 album_name: "Elvis' 40 Greatest"
 date: 2016-01-08T19:12:12.000000Z
+release_date: "2000"
 release_id: "1159800"
 slug: "elvis-40-greatest-1159800"
 hideSummary: true
@@ -25,55 +26,58 @@ styles: ["Rock & Roll", "Pop Rock", "Ballad"]
 
 Elvis' 40 Greatest is a compilation album by American singer and musician Elvis Presley. It was released in 1974 and was the UK's biggest-selling album over the Christmas period of that year, but along with all albums on K-tel, Ronco and Arcade, it was ineligible for the UK Albums Chart until 1975 because it was felt that heavy TV advertising and low pricing distorted the charts.  It finally reached number one on the UK Albums Chart in 1977, and became the 10th best-selling album of the 1970s in the UK.
 It was originally pressed with a brown cover and doctored image of Elvis, with blue labels, this short lived pressing was replaced by yellow label copies.  The 1977 release, which appeared on the new RCA blue "signature" label, credited to "RCA Special Products", was released simultaneously on black vinyl and a more expensive pink vinyl edition.  The black vinyl sold a stagger 250'000 copies LESS than the pink vinyl, making it the more collectable item, even though fans are often tricked in to thinking the pink vinyl is "rare". It is in fact one of the most common and best selling Elvis compilation albums of all time.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. My Baby Left Me
-2. Heartbreak Hotel
-3. Blue Suede Shoes
-4. Hound Dog
-5. Love Me Tender
-6. Got A Lot O' Livin' To Do
-7. (Let Me Be Your) Teddy Bear
-8. Party
-9. All Shook Up
-10. Old Shep
-11. Don't
-12. Hard Headed Woman
-13. Kring Creole
-14. Jailhouse Rock
-15. A Big Hunk O' Love
-16. I Got Stung
-17. One Night
-18. (Now And Then There's) A Fool Such As I
-19. I Need Your Love Tonight
-20. Stuck On You
-21. Fever
-22. It's Now Or Never
-23. Are You Lonesome Tonight?
-24. Wooden Heart
-25. Surrender
-26. (Marie's The Name) His Latest Flame
-27. Wild In The Country
-28. There's Always Me
-29. Rock-A-Hula Baby
-30. Can't Help Falling In Love With You
-31. Good Luck Charm
-32. She's Not You
-33. Return To Sender
-34. You're The Devil In Disguise
-35. Crying In The Chapel
-36. Guitar Man
-37. In The Ghetto
-38. Suspicious Minds
-39. There Goes My Everything
-40. Don't Cry Daddy
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | My Baby Left Me |  |
+| A2 | Heartbreak Hotel |  |
+| A3 | Blue Suede Shoes |  |
+| A4 | Hound Dog |  |
+| A5 | Love Me Tender |  |
+| A6 | Got A Lot O' Livin' To Do |  |
+| A7 | (Let Me Be Your) Teddy Bear |  |
+| A8 | Party |  |
+| A9 | All Shook Up |  |
+| A10 | Old Shep |  |
+| B1 | Don't |  |
+| B2 | Hard Headed Woman |  |
+| B3 | Kring Creole |  |
+| B4 | Jailhouse Rock |  |
+| B5 | A Big Hunk O' Love |  |
+| B6 | I Got Stung |  |
+| B7 | One Night |  |
+| B8 | (Now And Then There's) A Fool Such As I |  |
+| B9 | I Need Your Love Tonight |  |
+| B10 | Stuck On You |  |
+| C1 | Fever |  |
+| C2 | It's Now Or Never |  |
+| C3 | Are You Lonesome Tonight? |  |
+| C4 | Wooden Heart |  |
+| C5 | Surrender |  |
+| C6 | (Marie's The Name) His Latest Flame |  |
+| C7 | Wild In The Country |  |
+| C8 | There's Always Me |  |
+| C9 | Rock-A-Hula Baby |  |
+| C10 | Can't Help Falling In Love With You |  |
+| D1 | Good Luck Charm |  |
+| D2 | She's Not You |  |
+| D3 | Return To Sender |  |
+| D4 | You're The Devil In Disguise |  |
+| D5 | Crying In The Chapel |  |
+| D6 | Guitar Man |  |
+| D7 | In The Ghetto |  |
+| D8 | Suspicious Minds |  |
+| D9 | There Goes My Everything |  |
+| D10 | Don't Cry Daddy |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-50-greatest-hits/1506073839" >}}<br>
-
 
 
 
@@ -87,5 +91,5 @@ It was originally pressed with a brown cover and doctored image of Elvis, with b
 | Format         | Vinyl 2× LP Compilation (Gatefold) |
 | Label          | Arcade |
 | Catalog Number | ADEP 12 |
-| Notes | Gatefold Sleeve. ADEP 12 = cat# on spine ADE P 12 = cat# on labels  On rear cover: Interpak by Shorewood Packaging Co. Ltd. England  On labels: Made by RCA  |
+| Notes | Gatefold Sleeve.<br>ADEP 12 = cat# on spine<br>ADE P 12 = cat# on labels<br><br>On rear cover:<br>Interpak by Shorewood Packaging Co. Ltd. England<br><br>On labels:<br>Made by RCA<br> |
 | Discogs URL    | [Elvis Presley - Elvis' 40 Greatest](https://www.discogs.com/release/1159800-Elvis-Presley-Elvis-40-Greatest) |

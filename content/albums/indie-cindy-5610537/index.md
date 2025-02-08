@@ -4,6 +4,7 @@ artist_name: "Pixies"
 artist: "pixies"
 album_name: "Indie Cindy"
 date: 2015-08-09T08:33:44.000000Z
+release_date: "2014-04-19"
 release_id: "5610537"
 slug: "indie-cindy-5610537"
 hideSummary: true
@@ -35,46 +36,44 @@ styles: ["Indie Rock"]
 Indie Cindy is the fifth studio album by the American alternative rock band the Pixies. Released in April 2014, it was the band's first album since 1991's Trompe le Monde, and the first Pixies album not to feature bass guitar player Kim Deal. Instead, bass guitar duties on the album are handled by Simon "Ding" Archer, a former member of the British post-punk band The Fall.
 The album combines all the songs from the band's 2013–14 extended play releases—EP1, EP2, and EP3—which were recorded and produced in 2012 by Gil Norton, who produced the band's previous albums Doolittle, Bossanova, and Trompe le Monde.
 Limited numbers of vinyl copies of the album were released on Record Store Day 2014 (double album but pressed at 45 rpm), 10 days prior to the album's full release. These copies came with a single-sided 7" single of "Women of War". The album was released in North America on April 29, 2014 as a digital download, digipak CD and 2LP vinyl as well as a deluxe edition on CD or vinyl which included a live CD and a 40-page hardback book.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. What Goes Boom
-2. Greens And Blues
-3. Indie Cindy
-4. Bagboy
-5. Magdalena 318
-6. Silver Snail
-7. Blue Eyed Hexe
-8. Ring The Bell
-9. Another Toe In The Ocean
-10. Andro Queen
-11. Snakes
-12. Jaime Bravo
-13. What Goes Boom (3:32)
-14. Greens And Blues (3:47)
-15. Indie Cindy (4:41)
-16. Bagboy (4:53)
-17. Magdalena 318 (3:26)
-18. Silver Snail (3:29)
-19. Blue Eyed Hexe (3:11)
-20. Ring The Bell (3:35)
-21. Another Toe In The Ocean (3:46)
-22. Andro Queen (3:23)
-23. Snakes (3:45)
-24. Jaime Bravo (4:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | What Goes Boom |  |
+| A2 | Greens And Blues |  |
+| A3 | Indie Cindy |  |
+| B1 | Bagboy |  |
+| B2 | Magdalena 318 |  |
+| B3 | Silver Snail |  |
+| C1 | Blue Eyed Hexe |  |
+| C2 | Ring The Bell |  |
+| C3 | Another Toe In The Ocean |  |
+| D1 | Andro Queen |  |
+| D2 | Snakes |  |
+| D3 | Jaime Bravo |  |
+| CD-1 | What Goes Boom | 3:32 |
+| CD-2 | Greens And Blues | 3:47 |
+| CD-3 | Indie Cindy | 4:41 |
+| CD-4 | Bagboy | 4:53 |
+| CD-5 | Magdalena 318 | 3:26 |
+| CD-6 | Silver Snail | 3:29 |
+| CD-7 | Blue Eyed Hexe | 3:11 |
+| CD-8 | Ring The Bell | 3:35 |
+| CD-9 | Another Toe In The Ocean | 3:46 |
+| CD-10 | Andro Queen | 3:23 |
+| CD-11 | Snakes | 3:45 |
+| CD-12 | Jaime Bravo | 4:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/indie-cindy/1589760347" >}}<br>
 
 
-## Videos
-### PIXIES - Indie Cindy Official Video
-{{< youtube id="PDa3cY7U6NA" title="PIXIES - Indie Cindy Official Video" >}}<br>
-### More Videos
-
-- [PIXIES - Indie Cindy](https://www.youtube.com/watch?v=Njf8Pp6oyMU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +85,5 @@ Limited numbers of vinyl copies of the album were released on Record Store Day 2
 | Format         | Vinyl 2× 12" 45 RPM Album (Orange, 180 gram), CD Album, All Media Limited Edition |
 | Label          | Pixies Music |
 | Catalog Number | PM006DLP |
-| Notes | [url=/label/23713]FNAC[/url] exclusive orange vinyl. Gatefold sleeve + Printed inner sleeves. Double heavyweight 180g vinyl + CD.    Recorded at Rockfield Studios, Wales. Mixed for 140dB.  Additional recording: Sonelab, Easthampton, and The Autumn Den, Northampton.    ℗ & © Pixies Music 2013    Made in the EU    Catalog# on rear cover and spine: PM006DLP  Sticker on shrinkwrap states cat# PM006DLPF to denote this special French release. |
+| Notes | [url=/label/23713]FNAC[/url] exclusive orange vinyl. Gatefold sleeve + Printed inner sleeves. Double heavyweight 180g vinyl + CD.<br><br>Recorded at Rockfield Studios, Wales. Mixed for 140dB.<br>Additional recording: Sonelab, Easthampton, and The Autumn Den, Northampton.<br><br>℗ & © Pixies Music 2013<br><br>Made in the EU<br><br>Catalog# on rear cover and spine: PM006DLP<br>Sticker on shrinkwrap states cat# PM006DLPF to denote this special French release. |
 | Discogs URL    | [Pixies - Indie Cindy](https://www.discogs.com/release/5610537-Pixies-Indie-Cindy) |

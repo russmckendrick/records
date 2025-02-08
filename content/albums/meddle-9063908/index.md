@@ -4,6 +4,7 @@ artist_name: "Pink Floyd"
 artist: "pink-floyd"
 album_name: "Meddle"
 date: 2016-09-23T16:51:31.000000Z
+release_date: "2006-07-11"
 release_id: "9063908"
 slug: "meddle-9063908"
 hideSummary: true
@@ -29,31 +30,26 @@ With no material to work with and no clear idea of the album's direction, the ba
 As with several previous albums, the cover was designed by Hipgnosis, and has been explained by its creator Storm Thorgerson – who was unhappy with the final result – to be an ear underwater. The album was well received by critics upon its release, and was commercially successful in the United Kingdom, but lacklustre publicity on the part of the band's American label Capitol Records led to poor sales in the US upon initial release.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. One Of These Days
-2. A Pillow Of Winds
-3. Fearless
-4. San Tropez
-5. Seamus
-6. Echoes
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | One Of These Days |  |
+| A2 | A Pillow Of Winds |  |
+| A3 | Fearless |  |
+| A4 | San Tropez |  |
+| A5 | Seamus |  |
+| B | Echoes |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pink-floyd/278703138" >}}<br>
 
 
-## Videos
-### Pink Floyd - One of these Days Official Audio
-{{< youtube id="raV_A8YcBu0" title="Pink Floyd - One of these Days Official Audio" >}}<br>
-### More Videos
-
-- [Pink Floyd - A Pillow Of Winds Official Audio](https://www.youtube.com/watch?v=Hgx267jVma0)
-- [Pink Floyd - Fearless Official Audio](https://www.youtube.com/watch?v=IkgaMFjo_lI)
-- [Pink Floyd - San Tropez Official Audio](https://www.youtube.com/watch?v=mjNYO-OI2Fo)
-- [Pink Floyd - Echoes Official Audio](https://www.youtube.com/watch?v=OcDiOUQBFd4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +61,5 @@ As with several previous albums, the cover was designed by Hipgnosis, and has be
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 g, Gatefold) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP6 |
-| Notes | ℗ 2016 Pink Floyd Music Ltd. © 2016 Pink Floyd Music Ltd.  Hype sticker: The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: November 1971 Made and printed in the E.U. www.pinkfloyd.com  Fully textured sleeve. "Fearless" includes "You'll Never Walk Alone" (Rodgers & Hammerstein II). Track durations are not given on this release.  The US release can be found [url=http://www.discogs.com/release/9092521]here[/url]  Runouts are etched: "16909 1A" and "16909 1B" are stamped. |
+| Notes | ℗ 2016 Pink Floyd Music Ltd.<br>© 2016 Pink Floyd Music Ltd.<br><br>Hype sticker:<br>The stereo remastered album on heavyweight 180ɢ vinyl<br>Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN<br>Original UK release date: November 1971<br>Made and printed in the E.U.<br>www.pinkfloyd.com<br><br>Fully textured sleeve.<br>"Fearless" includes "You'll Never Walk Alone" (Rodgers & Hammerstein II).<br>Track durations are not given on this release.<br><br>The US release can be found [url=http://www.discogs.com/release/9092521]here[/url]<br><br>Runouts are etched: "16909 1A" and "16909 1B" are stamped. |
 | Discogs URL    | [Pink Floyd - Meddle](https://www.discogs.com/release/9063908-Pink-Floyd-Meddle) |

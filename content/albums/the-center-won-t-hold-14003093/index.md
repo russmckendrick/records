@@ -52,31 +52,27 @@ Tucker: “This song is really about realising that there's some social justice 
 
 
 ## Tracklisting
-1. The Center Won't Hold
-2. Hurry On Home
-3. Reach Out
-4. Can I Go On
-5. Restless
-6. Ruins
-7. Love
-8. Bad Dance
-9. The Future Is Here
-10. The Dog/The Body
-11. Broken
-12. Hurry On Home
-13. The Dog/The Body
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Center Won't Hold |  |
+| A2 | Hurry On Home |  |
+| A3 | Reach Out |  |
+| A4 | Can I Go On |  |
+| A5 | Restless |  |
+| A6 | Ruins |  |
+| B1 | Love |  |
+| B2 | Bad Dance |  |
+| B3 | The Future Is Here |  |
+| B4 | The Dog/The Body |  |
+| B5 | Broken |  |
+| C | Hurry On Home |  |
+| D | The Dog/The Body |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-center-wont-hold/1467763810" >}}<br>
 
 
-## Videos
-### Sleater-Kinney - The Center Wont Hold Official Lyric Video
-{{< youtube id="_xfPoLEJpgY" title="Sleater-Kinney - The Center Wont Hold Official Lyric Video" >}}<br>
-### More Videos
-
-- [Sleater-Kinney - The Future Is Here Official Lyric Video](https://www.youtube.com/watch?v=MP_2p79Ems4)
-- [Sleater-Kinney - Can I Go On Official Video](https://www.youtube.com/watch?v=pB08AUiTP3w)
 
 ## Release Images
 {{< imageGrid >}}
@@ -88,5 +84,5 @@ Tucker: “This song is really about realising that there's some social justice 
 | Format         | Vinyl LP Album, Vinyl 7" Single |
 | Label          | Caroline International |
 | Catalog Number | 7790840 |
-| Notes | Sticker on shrinkwrap: GATEFOLD JACKET - 180G BLACK HEAVYWEIGHT VINYL - COLLECTABLE ARTPACK - 7" VINYL SINGLE   Catalogue number on LP sleeve is 7790840 Catalogue number of 7" single is 7790839 Administered by BMG Rights Management (US) LLC. |
+| Notes | Sticker on shrinkwrap: GATEFOLD JACKET - 180G BLACK HEAVYWEIGHT VINYL - COLLECTABLE ARTPACK - 7" VINYL SINGLE <br><br>Catalogue number on LP sleeve is 7790840<br>Catalogue number of 7" single is 7790839<br>Administered by BMG Rights Management (US) LLC. |
 | Discogs URL    | [Sleater-Kinney - The Center Won't Hold](https://www.discogs.com/release/14003093-Sleater-Kinney-The-Center-Wont-Hold) |

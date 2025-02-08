@@ -4,6 +4,7 @@ artist_name: "The James Hunter Six"
 artist: "the-james-hunter-six"
 album_name: "Whatever It Takes"
 date: 2018-02-19T18:42:26.000000Z
+release_date: "2018-02-02"
 release_id: "11497989"
 slug: "whatever-it-takes-11497989"
 hideSummary: true
@@ -23,47 +24,29 @@ styles: ["Rhythm & Blues"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. I Don't Wanna Be Without You
-2. Whatever It Takes
-3. I Got Eyes
-4. Mm-Hmm
-5. Blisters
-6. I Should've Spoke Up
-7. Show Her
-8. Don't Let Pride Take You For A Ride
-9. How Long
-10. It Was Gonna Be You
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Don't Wanna Be Without You |  |
+| A2 | Whatever It Takes |  |
+| A3 | I Got Eyes |  |
+| A4 | Mm-Hmm |  |
+| A5 | Blisters |  |
+| B1 | I Should've Spoke Up |  |
+| B2 | Show Her |  |
+| B3 | Don't Let Pride Take You For A Ride |  |
+| B4 | How Long |  |
+| B5 | It Was Gonna Be You |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whatever-it-takes/1484988854" >}}<br>
 
 
-## Videos
-### I Dont Wanna Be Without You
-{{< youtube id="Y7Kc_zDU2RI" title="I Dont Wanna Be Without You" >}}<br>
-### More Videos
-
-- [Whatever It Takes](https://www.youtube.com/watch?v=s---v0I-fnc)
-- [I Got Eyes](https://www.youtube.com/watch?v=JLY3mzivXRA)
-- [Mm-Hmm](https://www.youtube.com/watch?v=KuYL9szNGsI)
-- [Blisters](https://www.youtube.com/watch?v=yVpO4R8qd7w)
-- [I Shouldve Spoke Up](https://www.youtube.com/watch?v=di90SP63Ahg)
-- [Show Her](https://www.youtube.com/watch?v=3Sb0Rx_O8rc)
-- [Dont Let Pride Take You for a Ride](https://www.youtube.com/watch?v=6SQGydlB8ls)
-- [It Was Gonna Be You](https://www.youtube.com/watch?v=kE0CaexS6JM)
-- [How Long](https://www.youtube.com/watch?v=3HJ_nr4ycbs)
-- [I Dont Wanna Be Without You](https://www.youtube.com/watch?v=Y7Kc_zDU2RI)
-- [Whatever It Takes](https://www.youtube.com/watch?v=s---v0I-fnc)
-- [I Got Eyes](https://www.youtube.com/watch?v=JLY3mzivXRA)
-- [Mm-Hmm](https://www.youtube.com/watch?v=KuYL9szNGsI)
-- [Blisters](https://www.youtube.com/watch?v=yVpO4R8qd7w)
-- [I Shouldve Spoke Up](https://www.youtube.com/watch?v=di90SP63Ahg)
-- [Show Her](https://www.youtube.com/watch?v=3Sb0Rx_O8rc)
-- [Dont Let Pride Take You for a Ride](https://www.youtube.com/watch?v=6SQGydlB8ls)
-- [It Was Gonna Be You](https://www.youtube.com/watch?v=kE0CaexS6JM)
-- [How Long](https://www.youtube.com/watch?v=3HJ_nr4ycbs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +57,5 @@ styles: ["Rhythm & Blues"]
 | Format         | Vinyl LP Album Limited Edition Mono (Gold Transparent) |
 | Label          | Daptone Records |
 | Catalog Number | DAP-051 |
-| Notes | Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.  All songs Stoketone Pub., BMI. A Bosco Mann Production © 2017, Daptone Records. Sleeve notes -Sam Boncon, WHIT  Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  Limited edition translucent gold vinyl. Includes MP 3 download card. |
+| Notes | Recorded to 8-tracks at Penrose Recorders - Daptone West, Riverside, CA.<br><br>All songs Stoketone Pub., BMI.<br>A Bosco Mann Production<br>© 2017, Daptone Records.<br>Sleeve notes -Sam Boncon, WHIT<br><br>Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206<br><br>Limited edition translucent gold vinyl. Includes MP 3 download card. |
 | Discogs URL    | [The James Hunter Six - Whatever It Takes](https://www.discogs.com/release/11497989-The-James-Hunter-Six-Whatever-It-Takes) |

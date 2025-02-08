@@ -4,6 +4,7 @@ artist_name: "XTC"
 artist: "xtc"
 album_name: "25 O'Clock"
 date: 2019-10-30T17:52:51.000000Z
+release_date: ""
 release_id: "14326864"
 slug: "25-o-clock-14326864"
 hideSummary: true
@@ -26,30 +27,26 @@ The project was conceived by Partridge as a one-off excursion into 1960s-style p
 Upon its release in the UK, 25 O'Clock sold twice as many copies as XTC's then-latest album The Big Express (1984), even before the Dukes' identity was made public. One single was issued, "The Mole from the Ministry", which was an improvised-in-the-studio Beatles pastiche. 25 O'Clock was followed up in 1987 with the LP Psonic Psunspot, which contained the outtake "Have You Seen Jackie?". Another outtake, "Big Day", was reworked for XTC's 1986 album Skylarking.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. 25 O'Clock
-2. Bike Ride To The Moon
-3. My Love Explodes
-4. What In The World??...
-5. Your Gold Dress
-6. The Mole From The Ministry
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 25 O'Clock |  |
+| A2 | Bike Ride To The Moon |  |
+| A3 | My Love Explodes |  |
+| B1 | What In The World??... |  |
+| B2 | Your Gold Dress |  |
+| B3 | The Mole From The Ministry |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### The Dukes of Stratosphear - 25 OClock
-{{< youtube id="xGF7o_I4mAw" title="The Dukes of Stratosphear - 25 OClock" >}}<br>
-### More Videos
 
-- [The Dukes Of Stratosphear - Bike Ride to the Moon - 2009 Remaster](https://www.youtube.com/watch?v=QDKZqZ8bsDs)
-- [My Love Explodes - The Dukes Of Stratosphear](https://www.youtube.com/watch?v=30XdxwZb0kc)
-- [The Dukes Of Stratosphear - What In The World -](https://www.youtube.com/watch?v=MfDNP9El2qM)
-- [The Dukes Of Stratosphear - Your Gold Dress](https://www.youtube.com/watch?v=DnWoDmaiC0g)
-- [Mole From The Ministry  The Dukes Of Stratosphear](https://www.youtube.com/watch?v=49q5FtQltzg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +58,5 @@ Upon its release in the UK, 25 O'Clock sold twice as many copies as XTC's then-l
 | Format         | Vinyl 12" 33 ⅓ RPM Mini-Album Reissue Repress Stereo (Gatefold, 200gr) |
 | Label          | Ape House |
 | Catalog Number | APELP023 |
-| Notes | 2019 reissue.  No track times on this issue. Made in England  Back cover: "All songs by Andy Partridge as SIR JOHN JOHNS except B1 by Colin Moulding as THE RED CURTAIN"  Liner notes: Captured gently at Chapel Lane Studios, Hereford  Mastering credit to [a147827] per liner notes.  Issued with a coloured printed polylined innersleeve with bevelled corners, showing XTC back catalogue on one and some more APE releases on the other side. |
+| Notes | 2019 reissue.<br><br>No track times on this issue.<br>Made in England<br><br>Back cover:<br>"All songs by Andy Partridge as SIR JOHN JOHNS except B1 by Colin Moulding as THE RED CURTAIN"<br><br>Liner notes:<br>Captured gently at Chapel Lane Studios, Hereford<br><br>Mastering credit to [a147827] per liner notes.<br><br>Issued with a coloured printed polylined innersleeve with bevelled corners, showing XTC back catalogue on one and some more APE releases on the other side. |
 | Discogs URL    | [XTC - 25 O'Clock](https://www.discogs.com/release/14326864-XTC-As-The-Dukes-Of-Stratosphear-25-OClock) |

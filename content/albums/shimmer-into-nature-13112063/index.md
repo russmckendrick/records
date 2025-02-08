@@ -4,6 +4,7 @@ artist_name: "Ed Wynne"
 artist: "ed-wynne"
 album_name: "Shimmer Into Nature"
 date: 2019-03-04T19:20:33.000000Z
+release_date: "2018-10-12"
 release_id: "13112063"
 slug: "shimmer-into-nature-13112063"
 hideSummary: true
@@ -30,27 +31,24 @@ styles: ["Space Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Glass Staircase  (7:55)
-2. Travel Dust (9:15)
-3. Oddplonk (8:00)
-4. Shim (7:44)
-5. Wherble (10:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Glass Staircase  | 7:55 |
+| A2 | Travel Dust | 9:15 |
+| A3 | Oddplonk | 8:00 |
+| B1 | Shim | 7:44 |
+| B2 | Wherble | 10:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/shimmer-into-nature/1423203880" >}}<br>
 
 
-## Videos
-### Glass Staircase
-{{< youtube id="9v0FLIFgrMA" title="Glass Staircase" >}}<br>
-### More Videos
-
-- [Travel Dust](https://www.youtube.com/watch?v=375Wxy5MvoA)
-- [Oddplonk](https://www.youtube.com/watch?v=HHwC_sipmNU)
-- [Shim](https://www.youtube.com/watch?v=2nfs4BFva6k)
-- [Wherble](https://www.youtube.com/watch?v=We4U6kxxP2E)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +59,5 @@ styles: ["Space Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1004 |
-| Notes | 180gm Heavy Weight Vinyl  Gatefold sleeve  Some copies come with Kscope promotional flyer. |
+| Notes | 180gm Heavy Weight Vinyl<br><br>Gatefold sleeve<br><br>Some copies come with Kscope promotional flyer. |
 | Discogs URL    | [Ed Wynne - Shimmer Into Nature](https://www.discogs.com/release/13112063-Ed-Wynne-Shimmer-Into-Nature) |

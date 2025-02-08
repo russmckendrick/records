@@ -4,6 +4,7 @@ artist_name: "The Bluetones"
 artist: "the-bluetones"
 album_name: "Expecting To Fly"
 date: 2016-10-04T16:38:04.000000Z
+release_date: "1996-01-01"
 release_id: "8548682"
 slug: "expecting-to-fly-8548682"
 hideSummary: true
@@ -27,37 +28,31 @@ Expecting to Fly is the debut studio album by the Bluetones. It was released on 
 A 2 CD Expanded Edition of the album was released on 9 March 2009.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Talking To Clary
-2. Bluetonic
-3. Cut Some Rug
-4. Things Change
-5. The Fountainhead
-6. Carnt Be Trusted
-7. Slight Return
-8. Putting Out Fires
-9. Vampire
-10. A Parting Gesture
-11. Time & Again
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Talking To Clary |  |
+| A2 | Bluetonic |  |
+| A3 | Cut Some Rug |  |
+| A4 | Things Change |  |
+| A5 | The Fountainhead |  |
+| B1 | Carnt Be Trusted |  |
+| B2 | Slight Return |  |
+| B3 | Putting Out Fires |  |
+| B4 | Vampire |  |
+| B5 | A Parting Gesture |  |
+| B6 | Time & Again |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/expecting-to-fly/1443718863" >}}<br>
 
 
-## Videos
-### The Bluetones - Slight Return
-{{< youtube id="B-3UpL6MkZ0" title="The Bluetones - Slight Return" >}}<br>
-### More Videos
-
-- [The bluetones- Bluetonic](https://www.youtube.com/watch?v=7JVFHCcHv5Y)
-- [Bluetones - Cut Some Rug - Full Video Song](https://www.youtube.com/watch?v=i80ClZCwVcg)
-- [Talking to Clarry - The Bluetones](https://www.youtube.com/watch?v=5kVRAbSOTMs)
-- [The Bluetones - Putting out Fires](https://www.youtube.com/watch?v=mC2zVwPdWos)
-- [Cut Some Rug - The Bluetones](https://www.youtube.com/watch?v=Cv3be8ScIdQ)
 
 ## Release Images
 {{< imageGrid >}}

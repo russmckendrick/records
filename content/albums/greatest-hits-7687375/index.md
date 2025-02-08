@@ -32,31 +32,24 @@ Al Green's Greatest Hits is a 1975 greatest hits release by soul singer Al Green
 
 
 ## Tracklisting
-1. Tired Of Being Alone  (2:43)
-2. Call Me (Come Back Home) (3:04)
-3. I'm Still In Love With You (3:14)
-4. Here I Am (Come And Take Me) (4:15)
-5. Love And Happiness (5:04)
-6. Let's Stay Together  (3:18)
-7. I Can't Get Next To You (3:53)
-8. You Ought To Be With Me (3:20)
-9. Look What You Done For Me (3:06)
-10. Let's Get Married  (3:23)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Tired Of Being Alone  | 2:43 |
+| A2 | Call Me (Come Back Home) | 3:04 |
+| A3 | I'm Still In Love With You | 3:14 |
+| A4 | Here I Am (Come And Take Me) | 4:15 |
+| A5 | Love And Happiness | 5:04 |
+| B1 | Let's Stay Together  | 3:18 |
+| B2 | I Can't Get Next To You | 3:53 |
+| B3 | You Ought To Be With Me | 3:20 |
+| B4 | Look What You Done For Me | 3:06 |
+| B5 | Let's Get Married  | 3:23 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1203896404" >}}<br>
 
 
-## Videos
-### Al Green - Sha-La-La Make Me Happy Official Audio
-{{< youtube id="KURTpEdnDo4" title="Al Green - Sha-La-La Make Me Happy Official Audio" >}}<br>
-### More Videos
-
-- [Love and Happiness](https://www.youtube.com/watch?v=q8AMZmWqgRM)
-- [Here I Am Come and Take Me](https://www.youtube.com/watch?v=vHAXp39WjZM)
-- [Al Green - How Can You Mend A Broken Heart Official Audio](https://www.youtube.com/watch?v=r0qmJoav5rE)
-- [The Best of Al Green - Al Green Greatest Hits  Full Album](https://www.youtube.com/watch?v=Rksvpr-vNJQ)
-- [Al Green - Love and Happiness](https://www.youtube.com/watch?v=rqqAnjY2Rmo)
 
 ## Release Images
 {{< imageGrid >}}

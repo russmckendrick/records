@@ -4,6 +4,7 @@ artist_name: "Bob Mould"
 artist: "bob-mould"
 album_name: "Blue Hearts"
 date: 2020-09-29T12:05:27.000000Z
+release_date: "2020-09-25"
 release_id: "15934028"
 slug: "blue-hearts-15934028"
 hideSummary: true
@@ -30,62 +31,34 @@ Blue Hearts is an album by the American alternative rock musician Bob Mould, rel
 The album peaked at No. 181 on the Billboard 200.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Heart On My Sleeve (1:58)
-2. Next Generation (2:20)
-3. American Crisis (2:28)
-4. Fireball (1:39)
-5. Forecast of Rain (2:26)
-6. When You Left (2:32)
-7. Siberian Butterfly (2:10)
-8. Everyth!ng to You (2:51)
-9. Racing to the End (1:51)
-10. Baby Needs a Cookie (2:57)
-11. Little Pieces (2:37)
-12. Leather Dreams (2:53)
-13. Password to My Soul (2:54)
-14. The Ocean (3:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Heart On My Sleeve | 1:58 |
+| A2 | Next Generation | 2:20 |
+| A3 | American Crisis | 2:28 |
+| A4 | Fireball | 1:39 |
+| A5 | Forecast of Rain | 2:26 |
+| A6 | When You Left | 2:32 |
+| A7 | Siberian Butterfly | 2:10 |
+| A8 | Everyth!ng to You | 2:51 |
+| B1 | Racing to the End | 1:51 |
+| B2 | Baby Needs a Cookie | 2:57 |
+| B3 | Little Pieces | 2:37 |
+| B4 | Leather Dreams | 2:53 |
+| B5 | Password to My Soul | 2:54 |
+| B6 | The Ocean | 3:56 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blue-hearts/1512263916" >}}<br>
 
 
-## Videos
-### Heart on My Sleeve
-{{< youtube id="bkbPhYShiCg" title="Heart on My Sleeve" >}}<br>
-### More Videos
-
-- [Next Generation](https://www.youtube.com/watch?v=G75JEUymDqo)
-- [Bob Mould - American Crisis Official Video](https://www.youtube.com/watch?v=zD7TxGTPsV4)
-- [Fireball](https://www.youtube.com/watch?v=5JnKg2x3MA8)
-- [Bob Mould - Forecast of Rain Official Video](https://www.youtube.com/watch?v=Bygb9bTd__U)
-- [When You Left](https://www.youtube.com/watch?v=903-HdeLhbA)
-- [Bob Mould - Siberian Butterfly Official Video](https://www.youtube.com/watch?v=IowGrGWzecQ)
-- [Everythng to You](https://www.youtube.com/watch?v=pkTtkWteuuI)
-- [Racing to the End](https://www.youtube.com/watch?v=Hlt7x1RF6Xc)
-- [Baby Needs a Cookie](https://www.youtube.com/watch?v=ge8la_2iAKk)
-- [Little Pieces](https://www.youtube.com/watch?v=umNJVoqQ4Wo)
-- [Leather Dreams](https://www.youtube.com/watch?v=hSW-b8Pgdvs)
-- [Password to My Soul](https://www.youtube.com/watch?v=8BU3bXTrwhY)
-- [The Ocean](https://www.youtube.com/watch?v=melM7wufREc)
-- [Heart on My Sleeve](https://www.youtube.com/watch?v=bkbPhYShiCg)
-- [Next Generation](https://www.youtube.com/watch?v=G75JEUymDqo)
-- [Bob Mould - American Crisis Official Video](https://www.youtube.com/watch?v=zD7TxGTPsV4)
-- [Fireball](https://www.youtube.com/watch?v=5JnKg2x3MA8)
-- [Bob Mould - Forecast of Rain Official Video](https://www.youtube.com/watch?v=Bygb9bTd__U)
-- [When You Left](https://www.youtube.com/watch?v=903-HdeLhbA)
-- [Bob Mould - Siberian Butterfly Official Video](https://www.youtube.com/watch?v=IowGrGWzecQ)
-- [Everythng to You](https://www.youtube.com/watch?v=pkTtkWteuuI)
-- [Racing to the End](https://www.youtube.com/watch?v=Hlt7x1RF6Xc)
-- [Baby Needs a Cookie](https://www.youtube.com/watch?v=ge8la_2iAKk)
-- [Little Pieces](https://www.youtube.com/watch?v=umNJVoqQ4Wo)
-- [Leather Dreams](https://www.youtube.com/watch?v=hSW-b8Pgdvs)
-- [Password to My Soul](https://www.youtube.com/watch?v=8BU3bXTrwhY)
-- [The Ocean](https://www.youtube.com/watch?v=melM7wufREc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -97,5 +70,5 @@ The album peaked at No. 181 on the Billboard 200.
 | Format         | Vinyl LP Album Limited Edition (Blue/Black/White Tri-color) |
 | Label          | Merge Records |
 | Catalog Number | MRG730 |
-| Notes | Issued with digital download card. 200 copies were signed by Bob Mould before shrink-wrapping and sold exclusively through Electric Fetus in Minneapolis. 100 posters signed by Bob Mould were included with the album purchase after the signed albums were sold out.  Runouts are etched. |
+| Notes | Issued with digital download card. 200 copies were signed by Bob Mould before shrink-wrapping and sold exclusively through Electric Fetus in Minneapolis. 100 posters signed by Bob Mould were included with the album purchase after the signed albums were sold out.<br><br>Runouts are etched. |
 | Discogs URL    | [Bob Mould - Blue Hearts](https://www.discogs.com/release/15934028-Bob-Mould-Blue-Hearts) |

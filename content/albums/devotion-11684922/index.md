@@ -4,6 +4,7 @@ artist_name: "Beach House"
 artist: "beach-house"
 album_name: "Devotion"
 date: 2018-03-14T19:36:36.000000Z
+release_date: "2008-02-26"
 release_id: "11684922"
 slug: "devotion-11684922"
 hideSummary: true
@@ -34,36 +35,31 @@ styles: ["Indie Rock", "Dream Pop"]
 
 Devotion is the second studio album by American dream pop duo Beach House. It was released on February 26, 2008, by Carpark Records in North America, Bella Union in Europe, and Mistletone Records in Australia. Written in the early months of 2007, it was recorded at Lord Baltimore Recording Studio within two months. The album was released to mostly positive reviews from music critics and is their first album to enter the Billboard 200 chart, debuting at number 195, selling roughly 3,000 copies upon its release. As of April 2012 Devotion has sold 49,000 copies in the United States according to Nielsen Soundscan.
 Regarding the album's title, lead vocalist and keyboardist Victoria Legrand reflected ten years after the album's release: "We called it Devotion for a reason. That was part of the story, and it’s part of our union. It felt like we were chasing something together. Two dreamers, together in a dreamworld."
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Wedding Bell
-2. You Came To Me
-3. Gila
-4. Turtle Island
-5. Holy Dances
-6. All The Years
-7. Heart Of Chambers
-8. Some Things Last A Long Time
-9. Astronaut
-10. D.A.R.L.I.N.G.
-11. Home Again
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Wedding Bell |  |
+| A2 | You Came To Me |  |
+| A3 | Gila |  |
+| B1 | Turtle Island |  |
+| B2 | Holy Dances |  |
+| B3 | All The Years |  |
+| C1 | Heart Of Chambers |  |
+| C2 | Some Things Last A Long Time |  |
+| C3 | Astronaut |  |
+| D1 | D.A.R.L.I.N.G. |  |
+| D2 | Home Again |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/devotion/1247691975" >}}<br>
 
 
-## Videos
-### Beach House  All the Years
-{{< youtube id="eWO4CuAKjyw" title="Beach House  All the Years" >}}<br>
-### More Videos
-
-- [Beach House - Turtle Island](https://www.youtube.com/watch?v=KVqd5KJVzNA)
-- [Beach House - You Came To Me](https://www.youtube.com/watch?v=8UqwNLdb45k)
-- [Beach House Gila](https://www.youtube.com/watch?v=pFxdDE0k1_Q)
-- [Beach House - Some Things Last A Long Time](https://www.youtube.com/watch?v=MlgkEjrdR9c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +71,5 @@ Regarding the album's title, lead vocalist and keyboardist Victoria Legrand refl
 | Format         | Vinyl 2× LP 45 RPM Album Club Edition Deluxe Edition Reissue Remastered (Clear w/ Gold Splatter [Gold Cloud Burst], 180g, Tip-On Sleeve) |
 | Label          | Vinyl Me, Please |
 | Catalog Number | VMP-027 |
-| Notes | 10th anniversary reissue.  Lyric poster is hand-written by Victoria Legrand.  Runouts: Etched. Characters after [Side letter]-1 are stamped For example - Side B - etched, 'VMP027-B1' stamped, '168079M2/A' |
+| Notes | 10th anniversary reissue.  Lyric poster is hand-written by Victoria Legrand.<br><br>Runouts:<br>Etched. Characters after [Side letter]-1 are stamped<br>For example - Side B - etched, 'VMP027-B1' stamped, '168079M2/A' |
 | Discogs URL    | [Beach House - Devotion](https://www.discogs.com/release/11684922-Beach-House-Devotion) |

@@ -4,6 +4,7 @@ artist_name: "Garbage"
 artist: "garbage"
 album_name: "Garbage"
 date: 2021-08-20T09:05:27.000000Z
+release_date: "2018-07-27"
 release_id: "19925866"
 slug: "garbage-19925866"
 hideSummary: true
@@ -29,31 +30,31 @@ Garbage is the debut studio album by Scottish/American rock band Garbage. It was
 In October 2015, the album was reissued to mark its 20th anniversary, featuring remastered tracks from the original analog tapes, as well as remixes and previously unreleased alternate versions of songs from the album.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Supervixen
-2. Queer
-3. Only Happy When It Rains
-4. As Heaven Is Wide
-5. Not My Idea
-6. A Stroke Of Luck
-7. Vow
-8. Stupid Girl
-9. Dog New Tricks
-10. My Lover's Box
-11. Fix Me Now
-12. Milk
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Supervixen |  |
+| A2 | Queer |  |
+| A3 | Only Happy When It Rains |  |
+| B4 | As Heaven Is Wide |  |
+| B5 | Not My Idea |  |
+| B6 | A Stroke Of Luck |  |
+| C7 | Vow |  |
+| C8 | Stupid Girl |  |
+| C9 | Dog New Tricks |  |
+| D10 | My Lover's Box |  |
+| D11 | Fix Me Now |  |
+| D12 | Milk |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/garbage-ep/1417170498" >}}<br>
 
-
-## Videos
-### Garbage - Stupid Girl
-{{< youtube id="2GhPUAVgHZc" title="Garbage - Stupid Girl" >}}<br>
 
 
 ## Release Images
@@ -66,5 +67,5 @@ In October 2015, the album was reissued to mark its 20th anniversary, featuring 
 | Format         | Vinyl 2× LP 45 RPM Reissue Remastered (Gatefold, 180 Gram) |
 | Label          | BMG |
 | Catalog Number | BMGCAT514DLP |
-| Notes | The Debut Album on Double Heavyweight Black Vinyl. Features the singles 'Only Happy When It Rains' and 'Stupid Girl'.  Runouts are etched. |
+| Notes | The Debut Album on Double Heavyweight Black Vinyl. Features the singles 'Only Happy When It Rains' and 'Stupid Girl'.<br><br>Runouts are etched. |
 | Discogs URL    | [Garbage - Garbage](https://www.discogs.com/release/19925866-Garbage-Garbage) |

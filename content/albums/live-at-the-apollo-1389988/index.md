@@ -1,6 +1,6 @@
 ---
-title: "Daryl Hall & John Oates - Live At The Apollo"
-artist_name: "Daryl Hall & John Oates"
+title: "Daryl Hall  John Oates - Live At The Apollo"
+artist_name: "Daryl Hall  John Oates"
 artist: "daryl-hall-john-oates"
 album_name: "Live At The Apollo"
 date: 2020-08-01T12:45:09.000000Z
@@ -10,8 +10,8 @@ slug: "live-at-the-apollo-1389988"
 hideSummary: true
 cover:
     image: "live-at-the-apollo-1389988.jpg"
-    alt: "Live At The Apollo by Daryl Hall & John Oates"
-    caption: "Live At The Apollo by Daryl Hall & John Oates"
+    alt: "Live At The Apollo by Daryl Hall  John Oates"
+    caption: "Live At The Apollo by Daryl Hall  John Oates"
 additional_images:
     - "https://i.discogs.com/_FgRRAfpkLkavKoZFz8kUlnoPnvKETjrHSHECwN6ric/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk5/ODgtMTMwMDYzOTk0/MC5qcGVn.jpeg"
     - "https://i.discogs.com/jSrTBBOfnp6r-ZE1InFplo-7iYNntVdNQDcX8mTZZXg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk5/ODgtMTIzNTc1Njg3/MC5qcGVn.jpeg"
@@ -33,23 +33,22 @@ On July 13, 1985, Daryl Hall, John Oates, Eddie Kendricks and David Ruffin appea
 
 
 ## Tracklisting
-1. Side 1
-2. Apollo Medley
-3. When Something Is Wrong With My Baby (4:50)
-4. Everytime You Go Away (7:08)
-5. Side A
-6. I Can't Go For That (No Can Do) (7:24)
-7. One On One (5:13)
-8. Possession Obsession (5:33)
-9. Adult Education (6:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Side 1 |  |
+|  | Apollo Medley |  |
+| A2 | When Something Is Wrong With My Baby | 4:50 |
+| A3 | Everytime You Go Away | 7:08 |
+|  | Side A |  |
+| B1 | I Can't Go For That (No Can Do) | 7:24 |
+| B2 | One On One | 5:13 |
+| B3 | Possession Obsession | 5:33 |
+| B4 | Adult Education | 6:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/daryl-hall-john-oates/217709553" >}}<br>
 
-
-## Videos
-### A NITE AT THE APOLLO LIVE by Daryl Hall  John Oates with David Ruffin  Eddie Kendricks
-{{< youtube id="uZ2evBezbqs" title="A NITE AT THE APOLLO LIVE by Daryl Hall  John Oates with David Ruffin  Eddie Kendricks" >}}<br>
 
 
 ## Release Images
@@ -62,5 +61,5 @@ On July 13, 1985, Daryl Hall, John Oates, Eddie Kendricks and David Ruffin appea
 | Format         | Vinyl LP Album |
 | Label          | RCA |
 | Catalog Number | PL87035 |
-| Notes | ℗ 1985 RCA Records (on labels) © 1985 RCA Records (on inner sleeve)  Managements by Champion Entertainment Organization, Inc  Comes with a printed inner sleeves with pictures and credits  On labels Side A is stated as 'Side 1' and Side B as 'Side A'.  Made in Germany. Bass clef on inner ring of B-side label   |
-| Discogs URL    | [Daryl Hall & John Oates - Live At The Apollo](https://www.discogs.com/release/1389988-Daryl-Hall-John-Oates-With-David-Ruffin-Eddie-Kendrick-Live-At-The-Apollo) |
+| Notes | ℗ 1985 RCA Records (on labels)<br>© 1985 RCA Records (on inner sleeve)<br><br>Managements by Champion Entertainment Organization, Inc<br><br>Comes with a printed inner sleeves with pictures and credits<br><br>On labels Side A is stated as 'Side 1' and Side B as 'Side A'.<br><br>Made in Germany.<br>Bass clef on inner ring of B-side label   |
+| Discogs URL    | [Daryl Hall  John Oates - Live At The Apollo](https://www.discogs.com/release/1389988-Daryl-Hall-John-Oates-With-David-Ruffin-Eddie-Kendrick-Live-At-The-Apollo) |

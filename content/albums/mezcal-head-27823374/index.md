@@ -4,6 +4,7 @@ artist_name: "Swervedriver"
 artist: "swervedriver"
 album_name: "Mezcal Head"
 date: 2023-08-06T07:40:44.000000Z
+release_date: "1993-08-05"
 release_id: "27823374"
 slug: "mezcal-head-27823374"
 hideSummary: true
@@ -27,29 +28,29 @@ styles: ["Shoegaze", "Indie Rock"]
 ---
 
 Mezcal Head is the second studio album by English alternative rock band Swervedriver. It was released on 27 September 1993 by Creation Records in the United Kingdom and on 5 October 1993 by A&M Records in the United States.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. For Seeking Heat
-2. Duel
-3. Blowin' Cool
-4. MM Abduction
-5. Last Train To Satansville
-6. Harry & Maggie
-7. A Change Is Gonna Come
-8. Girl On A Motorbike
-9. Duress
-10. You Find It Everywhere
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | For Seeking Heat |  |
+| A2 | Duel |  |
+| A3 | Blowin' Cool |  |
+| A4 | MM Abduction |  |
+| A5 | Last Train To Satansville |  |
+| B1 | Harry & Maggie |  |
+| B2 | A Change Is Gonna Come |  |
+| B3 | Girl On A Motorbike |  |
+| B4 | Duress |  |
+| B5 | You Find It Everywhere |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mezcal-head/294644091" >}}<br>
 
-
-## Videos
-### Swervedriver - Last Train To Satansville
-{{< youtube id="Dc5iz8p8E5Q" title="Swervedriver - Last Train To Satansville" >}}<br>
 
 
 ## Release Images
@@ -62,5 +63,5 @@ Mezcal Head is the second studio album by English alternative rock band Swervedr
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue Marbled, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1851 |
-| Notes | The sticker on the shrink wrap says:  "30th Anniversary Edition of 1.500 Individually                                                                                                                 Numbered Copies on Blue Marbled Vinyl  Includes 4 page Insert 180 gram audiophile vinyl"  Originally released ℗ & © 1993 Creation Records Ltd. This release ℗ & © 2017 Sony Music Entertainment. |
+| Notes | The sticker on the shrink wrap says:<br><br>"30th Anniversary Edition of 1.500 Individually                                                                                                               <br> Numbered Copies on Blue Marbled Vinyl<br> Includes 4 page Insert<br>180 gram audiophile vinyl"<br><br>Originally released ℗ & © 1993 Creation Records Ltd. This release ℗ & © 2017 Sony Music Entertainment. |
 | Discogs URL    | [Swervedriver - Mezcal Head](https://www.discogs.com/release/27823374-Swervedriver-Mezcal-Head) |

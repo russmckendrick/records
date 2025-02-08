@@ -4,6 +4,7 @@ artist_name: "The Radicant"
 artist: "the-radicant"
 album_name: "We Ascend"
 date: 2024-07-21T03:36:08.000000Z
+release_date: "2024-07-12"
 release_id: "31279829"
 slug: "we-ascend-31279829"
 hideSummary: true
@@ -22,19 +23,24 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. SIDE A
-2. We Ascend (5:44)
-3. Zero Blue (NSS mix) (3:18)
-4. Anchor (3:39)
-5. SIDE B
-6. Wide Steppe (6:16)
-7. Stowaway (4:37)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | SIDE A |  |
+| 1 | We Ascend | 5:44 |
+| 2 | Zero Blue (NSS mix) | 3:18 |
+| 3 | Anchor | 3:39 |
+|  | SIDE B |  |
+| 4 | Wide Steppe | 6:16 |
+| 5 | Stowaway | 4:37 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/we-ascend-ep/1749269552" >}}<br>
-
 
 
 
@@ -47,5 +53,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl 12" 33 ⅓ RPM EP Stereo |
 | Label          | Kscope |
 | Catalog Number | 1058 |
-| Notes | Hype sticker says:  The Radicant We Ascend The Debut EP KSCOPE1058 kscopemusic.com/theradicant  Link is wrong though, URL should be https://kscopemusic.com/artists/the-radicant/  Orders placed in Artist Store were signed by Vincent Cavanagh.  |
+| Notes | Hype sticker says:<br><br>The Radicant<br>We Ascend<br>The Debut EP<br>KSCOPE1058<br>kscopemusic.com/theradicant<br><br>Link is wrong though, URL should be https://kscopemusic.com/artists/the-radicant/<br><br>Orders placed in Artist Store were signed by Vincent Cavanagh.  |
 | Discogs URL    | [The Radicant - We Ascend](https://www.discogs.com/release/31279829-The-Radicant-We-Ascend) |

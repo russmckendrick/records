@@ -4,6 +4,7 @@ artist_name: "The Power Station"
 artist: "the-power-station"
 album_name: "The Power Station"
 date: 2018-11-01T07:46:55.000000Z
+release_date: "1985-03-25"
 release_id: "5372278"
 slug: "the-power-station-5372278"
 hideSummary: true
@@ -21,35 +22,27 @@ styles: ["Pop Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Some Like It Hot
-2. Murderess
-3. Lonely Tonight
-4. Communication
-5. Get It On (Bang A Gong)
-6. Go To Zero
-7. Harvest For The World
-8. Still In Your Heart
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Some Like It Hot |  |
+| A2 | Murderess |  |
+| A3 | Lonely Tonight |  |
+| A4 | Communication |  |
+| B1 | Get It On (Bang A Gong) |  |
+| B2 | Go To Zero |  |
+| B3 | Harvest For The World |  |
+| B4 | Still In Your Heart |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-power-station-deluxe-edition/894224064" >}}<br>
 
 
-## Videos
-### Some Like It Hot 2005 Remaster
-{{< youtube id="rRifNARpNL4" title="Some Like It Hot 2005 Remaster" >}}<br>
-### More Videos
-
-- [Murderess 2005 Remaster](https://www.youtube.com/watch?v=UAFS6u7xThw)
-- [Lonely Tonight 2005 Remaster](https://www.youtube.com/watch?v=_k1LvKyk8Jg)
-- [Communication 2005 Remaster](https://www.youtube.com/watch?v=bZtyEIP5_uE)
-- [Get It On Bang a Gong 2005 Remaster](https://www.youtube.com/watch?v=lp0RYMN3yow)
-- [Go to Zero 2005 Remaster](https://www.youtube.com/watch?v=63BwZe8MV5Y)
-- [Harvest for the World 2005 Remaster](https://www.youtube.com/watch?v=08OhoybGUmw)
-- [Still in Your Heart 2005 Remaster](https://www.youtube.com/watch?v=KdID52pR7EY)
-- [The Power Station - Some Like It Hot](https://www.youtube.com/watch?v=Hw1t7OCESUw)
-- [The Power Station - Get It On Bang A Gong Official Music Video](https://www.youtube.com/watch?v=O2vHbXI2p4k)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "Big Big Train"
 artist: "big-big-train"
 album_name: "The Second Brightest Star"
 date: 2017-06-24T15:07:53.000000Z
+release_date: "2017-07-14"
 release_id: "10470066"
 slug: "the-second-brightest-star-10470066"
 hideSummary: true
@@ -19,37 +20,31 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
 The Second Brightest Star is the eleventh studio album by the English progressive rock band Big Big Train. It contains a mix of new songs along with re-worked material from the band's previous two albums, Folklore and Grimspound. It is the band's last album to feature co-founder Andy Poole who departed the band in January 2018.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Second Brightest Star
-2. Haymaking
-3. The Passing Widow
-4. Skylon
-5. London Stone
-6. The Leaden Stour
-7. Terra Australis Incognita
-8. Grimlore
-9. Brooklands Sequence
-10. London Plane Sequence
-11. The Gentlemen's Reprise
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Second Brightest Star |  |
+| A2 | Haymaking |  |
+| A3 | The Passing Widow |  |
+| B1 | Skylon |  |
+| B2 | London Stone |  |
+| B3 | The Leaden Stour |  |
+| B4 | Terra Australis Incognita |  |
+|  | Grimlore |  |
+|  | Brooklands Sequence |  |
+|  | London Plane Sequence |  |
+| D2 | The Gentlemen's Reprise |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-second-brightest-star/1252927599" >}}<br>
 
 
-## Videos
-### Big Big Train - Brooklands Sequence The Second Brightest Star 2017
-{{< youtube id="1FeatR8ZXy8" title="Big Big Train - Brooklands Sequence The Second Brightest Star 2017" >}}<br>
-### More Videos
-
-- [BIG BIG TRAIN-The Second Brightest Strar-10-The Gentlemens Reprise-Prog Rock-2017](https://www.youtube.com/watch?v=Aow_g329l6g)
-- [The Second Brightest Star](https://www.youtube.com/watch?v=ybMxRZVQVcI)
-- [Notes on The Second Brightest Star by Big Big Train](https://www.youtube.com/watch?v=SGf2CKoRti4)
-- [Terra Australis Incognita](https://www.youtube.com/watch?v=T4gWzO7aRpA)
-- [Big Big Train - London Plane Sequence](https://www.youtube.com/watch?v=z3SS27wGjq0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +56,5 @@ The Second Brightest Star is the eleventh studio album by the English progressiv
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (180 Gram, Transparent Sea Foam Green) |
 | Label          | Plane Groovy |
 | Catalog Number | PLG056 |
-| Notes | Packaged in a gatefold cover with lyric/info insert and ploylined inner sleeves.  A companion album to Grimspound, The Second Brightest Star features 40 minutes of brand new songs and instrumentals.   Alongside these new tracks, the album contains an additional 30 minutes of music presenting songs from Folklore (2016) and Grimspound (2017) in extended arrangements. |
+| Notes | Packaged in a gatefold cover with lyric/info insert and ploylined inner sleeves.<br><br>A companion album to Grimspound, The Second Brightest Star features 40 minutes of brand new songs and instrumentals.<br> <br>Alongside these new tracks, the album contains an additional 30 minutes of music presenting songs from Folklore (2016) and Grimspound (2017) in extended arrangements. |
 | Discogs URL    | [Big Big Train - The Second Brightest Star](https://www.discogs.com/release/10470066-Big-Big-Train-The-Second-Brightest-Star) |

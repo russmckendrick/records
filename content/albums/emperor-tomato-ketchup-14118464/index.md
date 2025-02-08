@@ -38,56 +38,43 @@ Nowhere had that possibility sounded more exciting than on <i>Emperor Tomato Ket
 
 
 ## Tracklisting
-1. Metronomic Underground
-2. Cybele's Reverie
-3. Percolator
-4. Les Yper-Sound
-5. Spark Plug
-6. OLV 26
-7. The Noise Of Carpet
-8. Tomorrow Is Already Here
-9. Emperor Tomato Ketchup
-10. Monstre Sacre
-11. Motoroller Scalatron
-12. Slow Fast Hazel
-13. Anonymous Collective
-14. Bonus Disc
-15. Freestyle Dumpling
-16. The Noise Of Carpet (Original Mix)
-17. Old Lungs
-18. Percolator (Original Mix)
-19. Cybele's Reverie (Demo)
-20. Spark Plug (Demo)
-21. Spinal Column (Demo)
-22. Emperor Tomato Ketchup (Demo)
-23. Les Yper-Sound (Demo)
-24. Metronomic Underground (Demo)
-25. Percolator (Demo)
-26. Tomorrow Is Already Here (Demo)
-27. Brigitte (Demo)
-28. Motoroller Scalatron (Demo)
-29. Anonymous Collective (Demo)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Metronomic Underground |  |
+| A2 | Cybele's Reverie |  |
+| A3 | Percolator |  |
+| B1 | Les Yper-Sound |  |
+| B2 | Spark Plug |  |
+| B3 | OLV 26 |  |
+| B4 | The Noise Of Carpet |  |
+| C1 | Tomorrow Is Already Here |  |
+| C2 | Emperor Tomato Ketchup |  |
+| C3 | Monstre Sacre |  |
+| D1 | Motoroller Scalatron |  |
+| D2 | Slow Fast Hazel |  |
+| D3 | Anonymous Collective |  |
+|  | Bonus Disc |  |
+| E1 | Freestyle Dumpling |  |
+| E2 | The Noise Of Carpet (Original Mix) |  |
+| E3 | Old Lungs |  |
+| E4 | Percolator (Original Mix) |  |
+| F1 | Cybele's Reverie (Demo) |  |
+| F2 | Spark Plug (Demo) |  |
+| F3 | Spinal Column (Demo) |  |
+| F4 | Emperor Tomato Ketchup (Demo) |  |
+| F5 | Les Yper-Sound (Demo) |  |
+| F6 | Metronomic Underground (Demo) |  |
+| F7 | Percolator (Demo) |  |
+| F8 | Tomorrow Is Already Here (Demo) |  |
+| F9 | Brigitte (Demo) |  |
+| F10 | Motoroller Scalatron (Demo) |  |
+| F11 | Anonymous Collective (Demo) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/emperor-tomato-ketchup/1230526714" >}}<br>
 
 
-## Videos
-### Metronomic Underground
-{{< youtube id="GLYu0allKgs" title="Metronomic Underground" >}}<br>
-### More Videos
-
-- [Stereolab  Cybeles Reverie Official Video](https://www.youtube.com/watch?v=0JgxATTtROs)
-- [Percolator](https://www.youtube.com/watch?v=kbT9Y1nHJgU)
-- [Les Yper-Sound](https://www.youtube.com/watch?v=pDwAqRGVy5o)
-- [Spark Plug](https://www.youtube.com/watch?v=ktP29RMoMsg)
-- [Olv 26](https://www.youtube.com/watch?v=axZqWiwYxbM)
-- [Tomorrow Is Already Here](https://www.youtube.com/watch?v=NwtdmYzJLNA)
-- [Emperor Tomato Ketchup](https://www.youtube.com/watch?v=TQP1ZbnIFYo)
-- [Monstre Sacre](https://www.youtube.com/watch?v=41pda7oAflw)
-- [Motoroller Scalatron](https://www.youtube.com/watch?v=vlN4wshQ2qU)
-- [Slow Fast Hazel](https://www.youtube.com/watch?v=ss3CkxClkpk)
-- [Anonymous Collective](https://www.youtube.com/watch?v=eiqOdr4IMco)
 
 ## Release Images
 {{< imageGrid >}}
@@ -99,5 +86,5 @@ Nowhere had that possibility sounded more exciting than on <i>Emperor Tomato Ket
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media Limited Edition Numbered (Clear) |
 | Label          | Duophonic Ultra High Frequency Disks |
 | Catalog Number | D-UHF-D11R |
-| Notes | Expanded Edition, housed in PVC outer sleeve. Limited to 2500 copies, numbered on hype sticker.  Contains poster, download card, and lottery scratch ticket. |
+| Notes | Expanded Edition, housed in PVC outer sleeve.<br>Limited to 2500 copies, numbered on hype sticker.<br><br>Contains poster, download card, and lottery scratch ticket. |
 | Discogs URL    | [Stereolab - Emperor Tomato Ketchup](https://www.discogs.com/release/14118464-Stereolab-Emperor-Tomato-Ketchup) |

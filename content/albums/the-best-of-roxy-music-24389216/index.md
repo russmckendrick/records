@@ -4,6 +4,7 @@ artist_name: "Roxy Music"
 artist: "roxy-music"
 album_name: "The Best Of Roxy Music"
 date: 2022-09-04T03:40:23.000000Z
+release_date: "2001-06-19"
 release_id: "24389216"
 slug: "the-best-of-roxy-music-24389216"
 hideSummary: true
@@ -30,44 +31,38 @@ styles: ["Art Rock", "Pop Rock", "Synth-pop", "Glam"]
 The Best of Roxy Music is a greatest hits album by English art rock band Roxy Music, released in 2001. The album includes at least one song from all eight of the band's studio albums and all three of their non-album single A-sides. The songs are arranged in reverse chronological order.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Avalon (4:16)
-2. More Than This (4:17)
-3. Jealous Guy (4:56)
-4. Over You (3:26)
-5. Same Old Scene (3:57)
-6. Oh Yeah (4:51)
-7. Angel Eyes (2:51)
-8. Dance Away (3:46)
-9. Both Ends Burning (5:14)
-10. Love Is The Drug (4:08)
-11. Out Of The Blue (4:44)
-12. All I Want Is You (2:52)
-13. Mother Of Pearl (6:34)
-14. Street Life (3:28)
-15. Do The Strand (4:01)
-16. Pyjamarama (2:51)
-17. Virginia Plain (2:56)
-18. Re-Make / Re-Model (4:52)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Avalon | 4:16 |
+| A2 | More Than This | 4:17 |
+| A3 | Jealous Guy | 4:56 |
+| A4 | Over You | 3:26 |
+| B1 | Same Old Scene | 3:57 |
+| B2 | Oh Yeah | 4:51 |
+| B3 | Angel Eyes | 2:51 |
+| B4 | Dance Away | 3:46 |
+| B5 | Both Ends Burning | 5:14 |
+| C1 | Love Is The Drug | 4:08 |
+| C2 | Out Of The Blue | 4:44 |
+| C3 | All I Want Is You | 2:52 |
+| C4 | Mother Of Pearl | 6:34 |
+| D1 | Street Life | 3:28 |
+| D2 | Do The Strand | 4:01 |
+| D3 | Pyjamarama | 2:51 |
+| D4 | Virginia Plain | 2:56 |
+| D5 | Re-Make / Re-Model | 4:52 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-roxy-music/724413368" >}}<br>
 
 
-## Videos
-### Roxy Music  Avalon  The Best Of Roxy Music
-{{< youtube id="KPnXxzOU6WY" title="Roxy Music  Avalon  The Best Of Roxy Music" >}}<br>
-### More Videos
-
-- [Roxy Music  Avalon  The Best Of Roxy Music](https://www.youtube.com/watch?v=KPnXxzOU6WY)
-- [Roxy Music - More Than This](https://www.youtube.com/watch?v=kOnde5c7OG8)
-- [Roxy Music - Jealous Guy Official Video](https://www.youtube.com/watch?v=hRzGzRqNj58)
-- [Roxy Music - Over You ᴴᴰ](https://www.youtube.com/watch?v=Lm84LZF66_w)
-- [Roxy Music - Oh yeah](https://www.youtube.com/watch?v=rpuiPhxsZLo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +74,5 @@ The Best of Roxy Music is a greatest hits album by English art rock band Roxy Mu
 | Format         | Vinyl 2× LP Compilation Reissue Remastered (Half-Speed, 180g) |
 | Label          | Virgin |
 | Catalog Number | RMLPB1 |
-| Notes | Wide-spine sleeve with poly-lined die-cut black paper inners and lyric inner sleeves.  Original shrink-wrap features a hype sticker to the front which reads "For the first time on 180g double vinyl. Mastered and cut half speed at Abbey Road Studios, London", and a rectangular barcode sticker to the rear, which reads “2 x 180g heavy weight vinyl Mastered and cut half speed at Abbey Road Studios, London”.  Made in the EU. |
+| Notes | Wide-spine sleeve with poly-lined die-cut black paper inners and lyric inner sleeves.<br><br>Original shrink-wrap features a hype sticker to the front which reads "For the first time on 180g double vinyl. Mastered and cut half speed at Abbey Road Studios, London", and a rectangular barcode sticker to the rear, which reads “2 x 180g heavy weight vinyl Mastered and cut half speed at Abbey Road Studios, London”.<br><br>Made in the EU. |
 | Discogs URL    | [Roxy Music - The Best Of Roxy Music](https://www.discogs.com/release/24389216-Roxy-Music-The-Best-Of-Roxy-Music) |

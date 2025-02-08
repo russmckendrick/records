@@ -4,6 +4,7 @@ artist_name: "David Gilmour"
 artist: "david-gilmour"
 album_name: "On An Island"
 date: 2015-10-12T18:45:01.000000Z
+release_date: "2006-03-06"
 release_id: "707721"
 slug: "on-an-island-707721"
 hideSummary: true
@@ -31,40 +32,30 @@ styles: ["Prog Rock", "Art Rock"]
 On an Island is the third solo studio album by Pink Floyd member David Gilmour. It was released in the UK on 6 March 2006, Gilmour's 60th birthday, and in the United States the following day. It was his first solo album in 22 years since About Face in 1984 and nearly 12 years since Pink Floyd's 1994 album The Division Bell.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Castellorizon
-2. On An Island
-3. The Blue
-4. Take A Breath
-5. Red Sky At Night
-6. This Heaven
-7. Then I Close My Eyes
-8. Smile
-9. Pocketful Of Stones
-10. Where We Start
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Castellorizon |  |
+| A2 | On An Island |  |
+| A3 | The Blue |  |
+| A4 | Take A Breath |  |
+| A5 | Red Sky At Night |  |
+| B1 | This Heaven |  |
+| B2 | Then I Close My Eyes |  |
+| B3 | Smile |  |
+| B4 | Pocketful Of Stones |  |
+| B5 | Where We Start |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/on-an-island/703028242" >}}<br>
 
 
-## Videos
-### David Gilmour - Castellorizon
-{{< youtube id="-yf85whLpUU" title="David Gilmour - Castellorizon" >}}<br>
-### More Videos
-
-- [David Gilmour On A Island](https://www.youtube.com/watch?v=Ij2vdvL7dx4)
-- [David Gilmour - The blue](https://www.youtube.com/watch?v=eOdC6QToROk)
-- [David Gilmour - Take a breath](https://www.youtube.com/watch?v=isekWlmtibM)
-- [David Gilmour - Red sky at night](https://www.youtube.com/watch?v=2bj6W8Xpb5o)
-- [David Gilmour - This heaven](https://www.youtube.com/watch?v=UCdbSSagQWc)
-- [David Gilmour - Then I Close My Eyes](https://www.youtube.com/watch?v=T8Hx4eXopKc)
-- [David Gilmour - Smile](https://www.youtube.com/watch?v=jy-4pGTneWk)
-- [David Gilmour - Pocketful of stones](https://www.youtube.com/watch?v=Q6f5xUpyUY0)
-- [David Gilmour - Where we start](https://www.youtube.com/watch?v=86py0X_o2gs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +67,5 @@ On an Island is the third solo studio album by Pink Floyd member David Gilmour. 
 | Format         | Vinyl LP Album |
 | Label          | EMI |
 | Catalog Number | 0946 3 55695 1 3 |
-| Notes | Made in the EU.    It comes in heavy gatefold cover with poster   |
+| Notes | Made in the EU.<br><br>It comes in heavy gatefold cover with poster<br> |
 | Discogs URL    | [David Gilmour - On An Island](https://www.discogs.com/release/707721-David-Gilmour-On-An-Island) |

@@ -4,6 +4,7 @@ artist_name: "Bomb The Bass"
 artist: "bomb-the-bass"
 album_name: "Into The Dragon"
 date: 2018-10-01T17:55:28.000000Z
+release_date: "1988-10"
 release_id: "12489219"
 slug: "into-the-dragon-12489219"
 hideSummary: true
@@ -26,44 +27,32 @@ styles: ["Hip-House", "Acid House", "Freestyle"]
 Into the Dragon is the debut studio album by English musician Bomb the Bass, released on Rhythm King Records in 1988. It first made the UK Albums Chart in October of '88 and peaked at number 18. It features a number of guest vocalists and three singles "Beat Dis", "Megablast/Don't Make Me Wait" and a cover version of "I Say a Little Prayer" featuring Maureen Walsh.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Dis Side
-2. Beat Dis (U.S. 7" Mix) (3:24)
-3. Megablast Rap (Version) (6:15)
-4. On The Cut (3:30)
-5. Don't Make Me Wait (7" Mix) (3:44)
-6. Dynamite Beats (1:22)
-7. Dat Side
-8. Megablast (Hip Hop On Precinct 13) (7" Mix) (3:40)
-9. Hey You! (3:00)
-10. Shake It (4:30)
-11. Say A Little Prayer (4:30)
-12. Beat Dat (Freestyle Scratch Mix) (2:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Dis Side |  |
+| A1 | Beat Dis (U.S. 7" Mix) | 3:24 |
+| A2 | Megablast Rap (Version) | 6:15 |
+| A3 | On The Cut | 3:30 |
+| A4 | Don't Make Me Wait (7" Mix) | 3:44 |
+| A5 | Dynamite Beats | 1:22 |
+|  | Dat Side |  |
+| B1 | Megablast (Hip Hop On Precinct 13) (7" Mix) | 3:40 |
+| B2 | Hey You! | 3:00 |
+| B3 | Shake It | 4:30 |
+| B4 | Say A Little Prayer | 4:30 |
+| B5 | Beat Dat (Freestyle Scratch Mix) | 2:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/into-the-dragon/400362376" >}}<br>
 
 
-## Videos
-### Bomb the bass - Into the dragon Full Album
-{{< youtube id="00_lzstpX1Y" title="Bomb the bass - Into the dragon Full Album" >}}<br>
-### More Videos
-
-- [BOMB THE BASS - Beat Dis 7 US Mix](https://www.youtube.com/watch?v=CX-OsVJE-DE)
-- [BOMB THE BASS featuring MERLIN - Mégablast Rap](https://www.youtube.com/watch?v=s4WnGHIK88k)
-- [BOMB THE BASS - On the Cut](https://www.youtube.com/watch?v=rU0VJXc0H1s)
-- [BOMB THE BASS featuring LAURAINE - Dont Make Me Wait 7 Mix](https://www.youtube.com/watch?v=T56ONhUdZXg)
-- [BOMB THE BASS - Dynamite Beats](https://www.youtube.com/watch?v=dhn2mL2F36s)
-- [BOMB THE BASS -Megablast Hip Hop On Precinct 13 7 Mix](https://www.youtube.com/watch?v=bWbJeUEKzc8)
-- [BOMB THE BASS featuring AURRA - Hey You](https://www.youtube.com/watch?v=alQBkH08BDU)
-- [BOMB THE BASS - Shake It](https://www.youtube.com/watch?v=nEpeVSQ4S3U)
-- [Bomb The Bass - Say A Little Prayer](https://www.youtube.com/watch?v=LF559UnQ7zM)
-- [BOMB THE BASS - Beat Dat Freestyle Scratch Mix](https://www.youtube.com/watch?v=vbMj6sfuIK8)
-- [Bomb The Bass  Into The Dragon](https://www.youtube.com/watch?v=lihARFPi2k4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +64,5 @@ Into the Dragon is the debut studio album by English musician Bomb the Bass, rel
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2172 |
-| Notes | 30th Anniversary Edition limited to 1500 machine-numbered copies on 180g.  Made in the EU. |
+| Notes | 30th Anniversary Edition limited to 1500 machine-numbered copies on 180g.<br><br>Made in the EU. |
 | Discogs URL    | [Bomb The Bass - Into The Dragon](https://www.discogs.com/release/12489219-Bomb-The-Bass-Into-The-Dragon) |

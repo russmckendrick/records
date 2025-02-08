@@ -53,45 +53,24 @@ The album received generally positive reviews from critics and was a commercial 
 
 
 ## Tracklisting
-1. 5 A.M.
-2. Rattle That Lock
-3. Faces Of Stone
-4. A Boat Lies Waiting
-5. Dancing Right In Front Of Me
-6. In Any Tongue
-7. Beauty
-8. The Girl In The Yellow Dress
-9. Today
-10. And Then...
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 5 A.M. |  |
+| A2 | Rattle That Lock |  |
+| A3 | Faces Of Stone |  |
+| A4 | A Boat Lies Waiting |  |
+| A5 | Dancing Right In Front Of Me |  |
+| B1 | In Any Tongue |  |
+| B2 | Beauty |  |
+| B3 | The Girl In The Yellow Dress |  |
+| B4 | Today |  |
+| B5 | And Then... |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rattle-that-lock-deluxe/1018308980" >}}<br>
 
 
-## Videos
-### David Gilmour - 5 AM Official Audio
-{{< youtube id="lIoflO7R480" title="David Gilmour - 5 AM Official Audio" >}}<br>
-### More Videos
-
-- [David Gilmour - Rattle That Lock Official Audio](https://www.youtube.com/watch?v=GkVWsk8xueo)
-- [David Gilmour - Faces of Stone Official Audio](https://www.youtube.com/watch?v=AUGOkCQ37NA)
-- [David Gilmour - A Boat Lies Waiting Official Audio](https://www.youtube.com/watch?v=hoSCZuX0SwE)
-- [David Gilmour - Dancing Right In Front of Me Official Audio](https://www.youtube.com/watch?v=_ULYgFNq44E)
-- [David Gilmour - In Any Tongue Official Audio](https://www.youtube.com/watch?v=IyWuen5ytes)
-- [David Gilmour - Beauty Official Audio](https://www.youtube.com/watch?v=FC5Q2liC2yI)
-- [David Gilmour - The Girl In The Yellow Dress Official Audio](https://www.youtube.com/watch?v=N69ArORNEhE)
-- [David Gilmour - Today Official Audio](https://www.youtube.com/watch?v=t3c8VOdO_G4)
-- [David Gilmour - And Then Official Audio](https://www.youtube.com/watch?v=ZZlXn-DaCwY)
-- [David Gilmour - 5 AM Official Audio](https://www.youtube.com/watch?v=lIoflO7R480)
-- [David Gilmour - Rattle That Lock Official Audio](https://www.youtube.com/watch?v=GkVWsk8xueo)
-- [David Gilmour - Faces of Stone Official Audio](https://www.youtube.com/watch?v=AUGOkCQ37NA)
-- [David Gilmour - A Boat Lies Waiting Official Audio](https://www.youtube.com/watch?v=hoSCZuX0SwE)
-- [David Gilmour - Dancing Right In Front of Me Official Audio](https://www.youtube.com/watch?v=_ULYgFNq44E)
-- [David Gilmour - In Any Tongue Official Audio](https://www.youtube.com/watch?v=IyWuen5ytes)
-- [David Gilmour - Beauty Official Audio](https://www.youtube.com/watch?v=FC5Q2liC2yI)
-- [David Gilmour - The Girl In The Yellow Dress Official Audio](https://www.youtube.com/watch?v=N69ArORNEhE)
-- [David Gilmour - Today Official Audio](https://www.youtube.com/watch?v=t3c8VOdO_G4)
-- [David Gilmour - And Then Official Audio](https://www.youtube.com/watch?v=ZZlXn-DaCwY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -103,5 +82,5 @@ The album received generally positive reviews from critics and was a commercial 
 | Format         | Vinyl LP Album |
 | Label          | Columbia |
 | Catalog Number | 88875123291 |
-| Notes | Heavyweight vinyl, gatefold jacket, photo inner bag 16-page photo/lyric book including photos of artist and album sessions. [url=http://www.discogs.com/release/9200296]Download card of CD version (mp3)[/url]. Two stickers on front cover (Extension after cat.no. '...S1' and '...S3') came with original LP release. |
+| Notes | Heavyweight vinyl, gatefold jacket, photo inner bag 16-page photo/lyric book including photos of artist and album sessions.<br>[url=http://www.discogs.com/release/9200296]Download card of CD version (mp3)[/url]. Two stickers on front cover (Extension after cat.no. '...S1' and '...S3') came with original LP release. |
 | Discogs URL    | [David Gilmour - Rattle That Lock](https://www.discogs.com/release/7252492-David-Gilmour-Rattle-That-Lock) |

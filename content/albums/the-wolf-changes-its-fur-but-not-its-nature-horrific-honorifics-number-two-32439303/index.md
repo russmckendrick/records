@@ -4,6 +4,7 @@ artist_name: "Crippled Black Phoenix"
 artist: "crippled-black-phoenix"
 album_name: "The Wolf Changes Its Fur But Not Its Nature + Horrific Honorifics Number Two"
 date: 2024-11-30T08:20:32.000000Z
+release_date: ""
 release_id: "32439303"
 slug: "the-wolf-changes-its-fur-but-not-its-nature-horrific-honorifics-number-two-32439303"
 hideSummary: true
@@ -27,26 +28,33 @@ styles: ["Prog Rock", "Goth Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. We Forgotten Who We Are
-2. You Put The Devil In Me
-3. 444
-4. Goodnight Europe Pt2
-5. (-)
-6. Song For The Unloved
-7. Whissendine
-8. Blizzard Of Horned Cats
-9. Vengeance
-10. Self Control
-11. Blueprint
-12. And Thats Sad
-13. Hammer Song
-14. When A Blind Man Cries
-15. My Pal
-16. Goin' Against Your Mind
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | We Forgotten Who We Are |  |
+| A2 | You Put The Devil In Me |  |
+| B1 | 444 |  |
+| B2 | Goodnight Europe Pt2 |  |
+| C1 | (-) |  |
+| C2 | Song For The Unloved |  |
+| D1 | Whissendine |  |
+| D2 | Blizzard Of Horned Cats |  |
+| E1 | Vengeance |  |
+| E2 | Self Control |  |
+| E3 | Blueprint |  |
+| E4 | And Thats Sad |  |
+| F1 | Hammer Song |  |
+| F2 | When A Blind Man Cries |  |
+| F3 | My Pal |  |
+| F4 | Goin' Against Your Mind |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -59,5 +67,5 @@ styles: ["Prog Rock", "Goth Rock"]
 | Format         | Vinyl 3× LP Limited Edition Stereo (Silver) |
 | Label          | Season Of Mist |
 | Catalog Number | SOM818LPD |
-| Notes | Sticker reads:  20 Years Of CRIPPED BLACK PHOENIX  After two decades of challenging the silence, this double album redefines echoes of the past and honors the rebels who lit the path.  Silver vinyl strictly limited to 500 copies worldwide! |
+| Notes | Sticker reads:<br><br>20 Years Of CRIPPED BLACK PHOENIX<br><br>After two decades of challenging the silence, this double album redefines echoes of the past and honors the rebels who lit the path.<br><br>Silver vinyl strictly limited to 500 copies worldwide! |
 | Discogs URL    | [Crippled Black Phoenix - The Wolf Changes Its Fur But Not Its Nature + Horrific Honorifics Number Two](https://www.discogs.com/release/32439303-Crippled-Black-Phoenix-The-Wolf-Changes-Its-Fur-But-Not-Its-Nature-Horrific-Honorifics-Number-Two) |

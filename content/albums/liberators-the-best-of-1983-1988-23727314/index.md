@@ -4,6 +4,7 @@ artist_name: "Spear Of Destiny"
 artist: "spear-of-destiny"
 album_name: "Liberators! The Best Of 1983-1988"
 date: 2022-07-03T07:55:58.000000Z
+release_date: ""
 release_id: "23727314"
 slug: "liberators-the-best-of-1983-1988-23727314"
 hideSummary: true
@@ -25,22 +26,29 @@ styles: ["Alternative Rock", "New Wave"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Wheel (3:10)
-2. Rainmaker (2:56)
-3. Liberator (3:38)
-4. Prisoner Of Love (3:31)
-5. Come Back (3:36)
-6. Mickey (6:18)
-7. The Traveller (4:45)
-8. Was That You? (3:55)
-9. Strangers In Our Town (3:55)
-10. Never Take Me Alive (4:15)
-11. So In Love With You (4:20)
-12. Radio Radio (3:10)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Wheel | 3:10 |
+| A2 | Rainmaker | 2:56 |
+| A3 | Liberator | 3:38 |
+| A4 | Prisoner Of Love | 3:31 |
+| A5 | Come Back | 3:36 |
+| A6 | Mickey | 6:18 |
+| B1 | The Traveller | 4:45 |
+| B2 | Was That You? | 3:55 |
+| B3 | Strangers In Our Town | 3:55 |
+| B4 | Never Take Me Alive | 4:15 |
+| B5 | So In Love With You | 4:20 |
+| B6 | Radio Radio | 3:10 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 

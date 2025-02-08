@@ -1,6 +1,6 @@
 ---
-title: "Emerson, Lake & Palmer - Pictures At An Exhibition"
-artist_name: "Emerson, Lake & Palmer"
+title: "Emerson Lake  Palmer - Pictures At An Exhibition"
+artist_name: "Emerson Lake  Palmer"
 artist: "emerson-lake-palmer"
 album_name: "Pictures At An Exhibition"
 date: 2017-01-25T18:25:24.000000Z
@@ -10,8 +10,8 @@ slug: "pictures-at-an-exhibition-841694"
 hideSummary: true
 cover:
     image: "pictures-at-an-exhibition-841694.jpg"
-    alt: "Pictures At An Exhibition by Emerson, Lake & Palmer"
-    caption: "Pictures At An Exhibition by Emerson, Lake & Palmer"
+    alt: "Pictures At An Exhibition by Emerson Lake  Palmer"
+    caption: "Pictures At An Exhibition by Emerson Lake  Palmer"
 additional_images:
     - "https://i.discogs.com/U_UOUp2bvB_5DElqG3ehAdsAL3NZstyAJu6GTb73P6Q/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTY5/NC0xMTY0NDQ4NDM2/LmpwZWc.jpeg"
     - "https://i.discogs.com/k87oJR04UfBMRwyTOZvJvu-VCKw80YCu5esLchO3J64/rs:fit/g:sm/q:90/h:365/w:365/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTY5/NC0xMjg2MzgxNDk1/LmpwZWc.jpeg"
@@ -30,29 +30,26 @@ Pictures at an Exhibition went to number 3 on the UK Albums Chart and number 10 
 
 
 ## Tracklisting
-1. Promenade
-2. The Gnome
-3. Promenade
-4. The Sage
-5. The Old Castle
-6. Blues Variation
-7. Promenade
-8. The Hut Of Baba Yaga
-9. The Curse Of Baba Yaga
-10. The Hut Of Baba Yaga
-11. The Great Gates Of Kiev
-12. Nutrocker
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Promenade |  |
+| A2 | The Gnome |  |
+| A3 | Promenade |  |
+| A4 | The Sage |  |
+| A5 | The Old Castle |  |
+| A6 | Blues Variation |  |
+| B1 | Promenade |  |
+| B2 | The Hut Of Baba Yaga |  |
+| B3 | The Curse Of Baba Yaga |  |
+| B4 | The Hut Of Baba Yaga |  |
+| B5 | The Great Gates Of Kiev |  |
+| B6 | Nutrocker |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/emerson-lake-palmer/1528524799" >}}<br>
 
 
-## Videos
-### Emerson Lake  Palmer - Pictures At An Exhibition full LP
-{{< youtube id="xWQct6D6HsM" title="Emerson Lake  Palmer - Pictures At An Exhibition full LP" >}}<br>
-### More Videos
-
-- [ELP - Promenade  The Gnome Fixed the lag](https://www.youtube.com/watch?v=XXcwymuO_Vg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +61,5 @@ Pictures at an Exhibition went to number 3 on the UK Albums Chart and number 10 
 | Format         | Vinyl LP Album Reissue |
 | Label          | Manticore |
 | Catalog Number | K 33501 |
-| Notes | Recorded Live, Newcastle City Hall, March 26, 1971.  Original release date 1971.   |
-| Discogs URL    | [Emerson, Lake & Palmer - Pictures At An Exhibition](https://www.discogs.com/release/841694-Emerson-Lake-Palmer-Pictures-At-An-Exhibition) |
+| Notes | Recorded Live, Newcastle City Hall, March 26, 1971.<br>Original release date 1971.<br> |
+| Discogs URL    | [Emerson Lake  Palmer - Pictures At An Exhibition](https://www.discogs.com/release/841694-Emerson-Lake-Palmer-Pictures-At-An-Exhibition) |

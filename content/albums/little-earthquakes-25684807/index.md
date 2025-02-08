@@ -39,39 +39,26 @@ Her label famously wanted to replace the album’s piano with guitars—a respon
 
 
 ## Tracklisting
-1. Crucify (4:58)
-2. Girl (4:06)
-3. Silent All These Years (4:11)
-4. Precious Things (4:26)
-5. Winter (5:41)
-6. Happy Phantom (3:13)
-7. China (4:59)
-8. Leather (3:12)
-9. Mother (6:59)
-10. Tear In Your Hand (4:38)
-11. Me And A Gun (3:44)
-12. Little Earthquakes (6:52)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Crucify | 4:58 |
+| A2 | Girl | 4:06 |
+| A3 | Silent All These Years | 4:11 |
+| B1 | Precious Things | 4:26 |
+| B2 | Winter | 5:41 |
+| B3 | Happy Phantom | 3:13 |
+| C1 | China | 4:59 |
+| C2 | Leather | 3:12 |
+| C3 | Mother | 6:59 |
+| D1 | Tear In Your Hand | 4:38 |
+| D2 | Me And A Gun | 3:44 |
+| D3 | Little Earthquakes | 6:52 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/little-earthquakes-remastered/981370459" >}}<br>
 
 
-## Videos
-### Crucify 2015 Remaster
-{{< youtube id="dGBwsC0yJ8o" title="Crucify 2015 Remaster" >}}<br>
-### More Videos
-
-- [Girl 2015 Remaster](https://www.youtube.com/watch?v=boNX-dl7VXc)
-- [Silent All These Years 2015 Remaster](https://www.youtube.com/watch?v=qt9IkhdRK30)
-- [Precious Things 2015 Remaster](https://www.youtube.com/watch?v=e6z2wE8ECao)
-- [Tori Amos-Winter](https://www.youtube.com/watch?v=9JofmYkcaRE)
-- [Happy Phantom 2015 Remaster](https://www.youtube.com/watch?v=4ZUkTtAsv4A)
-- [China 2015 Remaster](https://www.youtube.com/watch?v=zKGgBz5cVfo)
-- [Leather 2015 Remaster](https://www.youtube.com/watch?v=athwHqqtSpM)
-- [Mother 2015 Remaster](https://www.youtube.com/watch?v=2uaA23WOytc)
-- [Tear in Your Hand 2015 Remaster](https://www.youtube.com/watch?v=kGjpRNtoA0A)
-- [Me and a Gun 2015 Remaster](https://www.youtube.com/watch?v=_jjaiM71CtI)
-- [Little Earthquakes 2015 Remaster](https://www.youtube.com/watch?v=VzPtNtrNm_k)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +70,5 @@ Her label famously wanted to replace the album’s piano with guitars—a respon
 | Format         | Vinyl 2× LP Album Reissue Remastered Special Edition Stereo (Green Translucent [Cola-Bottle Clear]) |
 | Label          | Atlantic |
 | Catalog Number | R1 82358 |
-| Notes | Double Vinyl  Barnes & Noble Exclusive Cola-Bottle Clear Vinyl Debut solo album.   Release produced by Tori Amos Audio Supervision Mark Hawley Remastered in 2022 by Jon Astley for Close to the Edge Half-Speed master cut at Abbey Road Studio, London by Miles Showell  1st and 2nd cat #'s are printed on the spine and insert, 3rd and 4th printed on labels and hype sticker. |
+| Notes | Double Vinyl <br>Barnes & Noble Exclusive<br>Cola-Bottle Clear Vinyl<br>Debut solo album. <br><br>Release produced by Tori Amos<br>Audio Supervision Mark Hawley<br>Remastered in 2022 by Jon Astley for Close to the Edge<br>Half-Speed master cut at Abbey Road Studio, London by Miles Showell<br><br>1st and 2nd cat #'s are printed on the spine and insert, 3rd and 4th printed on labels and hype sticker. |
 | Discogs URL    | [Tori Amos - Little Earthquakes](https://www.discogs.com/release/25684807-Tori-Amos-Little-Earthquakes) |

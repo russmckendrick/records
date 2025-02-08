@@ -4,6 +4,7 @@ artist_name: "Jethro Tull"
 artist: "jethro-tull"
 album_name: "Heavy Horses"
 date: 2021-05-30T05:08:03.000000Z
+release_date: "2001-05-14"
 release_id: "11884370"
 slug: "heavy-horses-11884370"
 hideSummary: true
@@ -44,34 +45,29 @@ Heavy Horses is the eleventh studio album by British progressive rock band Jethr
 The album is often considered the second in a trio of folk rock albums released by the band at the end of the 1970s, alongside Songs from the Wood (1977) and Stormwatch (1979). In contrast to the British folklore-inspired lyrical content found on Songs from the Wood, Heavy Horses adopts a more realist and earthly perspective of country living — the album and its title track are dedicated to the "indigenous working ponies and horses of Great Britain". Musically, the album sees the band continuing the combination of folk and progressive rock found on Songs from the Wood, although with an overall darker and more sober sound fitting the changed lyrical content.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. ...And The Mouse Police Never Sleeps (3:12)
-2. Acres Wild (3:24)
-3. No Lullaby (7:54)
-4. Moths (3:31)
-5. Journeyman (3:58)
-6. Rover (4:30)
-7. One Brown Mouse (3:23)
-8. Heavy Horses (9:03)
-9. Weathercock (4:01)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | ...And The Mouse Police Never Sleeps | 3:12 |
+| A2 | Acres Wild | 3:24 |
+| A3 | No Lullaby | 7:54 |
+| A4 | Moths | 3:31 |
+| A5 | Journeyman | 3:58 |
+| B1 | Rover | 4:30 |
+| B2 | One Brown Mouse | 3:23 |
+| B3 | Heavy Horses | 9:03 |
+| B4 | Weathercock | 4:01 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-jethro-tull/699620744" >}}<br>
 
 
-## Videos
-### Jethro Tull - Heavy Horses - 1 And The Mouse Police Never Sleeps
-{{< youtube id="3V_8FByoT4g" title="Jethro Tull - Heavy Horses - 1 And The Mouse Police Never Sleeps" >}}<br>
-### More Videos
-
-- [Jethro Tull - Acres Wild](https://www.youtube.com/watch?v=ABKifBPLGus)
-- [Jethro Tull - No Lullaby](https://www.youtube.com/watch?v=yVmA6XdrnNA)
-- [Jethro Tull -  Heavy Horses Full Album 1978](https://www.youtube.com/watch?v=LDE7x1SPYmE)
-- [Jethro Tull  - Heavy Horses](https://www.youtube.com/watch?v=vRHATZzMh-g)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +79,5 @@ The album is often considered the second in a trio of folk rock albums released 
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Chrysalis |
 | Catalog Number | 0190295757311 |
-| Notes | 40th anniversary remix by Steven Wilson on 180gm vinyl. Includes a 24 page booklet.  Recorded July 1977 - January 1978  ℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd.  Runouts etched, Optimal markings (1=) are mirrored |
+| Notes | 40th anniversary remix by Steven Wilson on 180gm vinyl. Includes a 24 page booklet.<br><br>Recorded July 1977 - January 1978<br><br>℗ 2018 Parlophone Records Ltd.<br>© 2018 Parlophone Records Ltd.<br><br>Runouts etched, Optimal markings (1=) are mirrored |
 | Discogs URL    | [Jethro Tull - Heavy Horses](https://www.discogs.com/release/11884370-Jethro-Tull-Heavy-Horses) |

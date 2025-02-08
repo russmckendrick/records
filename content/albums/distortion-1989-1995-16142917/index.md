@@ -4,6 +4,7 @@ artist_name: "Bob Mould"
 artist: "bob-mould"
 album_name: "Distortion: 1989 - 1995"
 date: 2020-11-05T18:48:49.000000Z
+release_date: "2021-04-16"
 release_id: "16142917"
 slug: "distortion-1989-1995-16142917"
 hideSummary: true
@@ -64,92 +65,97 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Workbook
-2. Sunspots
-3. Wishing Well
-4. Heartbreak A Stranger
-5. See A Little Light
-6. Poison Years
-7. Sinners And Their Repentences
-8. Brasilia Crossed With Trenton
-9. Compositions For The Young And Old
-10. Lonely Afternoon
-11. Dreaming, I Am
-12. Whichever Way The Wind Blows
-13. Black Sheets Of Rain
-14. Black Sheets Of Rain
-15. Stand Guard
-16. It's Too Late
-17. One Good Reason
-18. Stop Your Crying
-19. Hanging Tree
-20. The Last Night
-21. Hear Me Calling
-22. Out Of Your LIfe
-23. Disappointed
-24. Sacrifice / Let There Be Peace
-25. Copper Blue
-26. The Act We Act
-27. A Good Idea
-28. Changes
-29. Helpless
-30. Hoover Dam
-31. The Slim
-32. If I Can't Change Your Mind
-33. Fortune Teller
-34. Slick
-35. Man On The Moon
-36. Beaster
-37. Come Around
-38. Tilted
-39. Judas Cradle
-40. JC Auto
-41. Feeling Better
-42. Walking Away
-43. File Under: Easy Listening
-44. Gift
-45. Company Book
-46. Your Favorite Thing
-47. What You Want It To Be
-48. Gee Angel
-49. Panama City Hotel
-50. Can't Help You Anymore
-51. Granny Cool
-52. Believe What You're Saying
-53. Explode And Make Up
-54. Besides
-55. Needle Hits E
-56. If I Can't Change Your Mind (Solo Mix)
-57. Try Again
-58. Where Diamonds Are Halos (Live)
-59. Armenia City In The Sky (Live)
-60. Clownmaster
-61. Anyone (Live)
-62. JC Auto (Live)
-63. Believe What You're Saying (Campfire Mix)
-64. Mind Is An Island
-65. Frustration
-66. Going Home
-67. In The Eyes Of My Friends
-68. And You Tell Me
-69. If I Can't Change Your Mind (BBC Radio Session)
-70. Hoover Dam (BBC Radio Session)
-71. The Slim (BBC Radio Session)
-72. Where Diamonds Are Halos (BBC Radio Session)
-73. Distortion Plus: 1989-1995
-74. All Those People Know
-75. No Water In Hell
-76. Dying From The Inside Out
-77. Dio
-78. Hickory Wind
-79. Can't Fight It
-80. Turning Of The Tide
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Workbook |  |
+| A1 | Sunspots |  |
+| A2 | Wishing Well |  |
+| A3 | Heartbreak A Stranger |  |
+| A4 | See A Little Light |  |
+| A5 | Poison Years |  |
+| A6 | Sinners And Their Repentences |  |
+| B1 | Brasilia Crossed With Trenton |  |
+| B2 | Compositions For The Young And Old |  |
+| B3 | Lonely Afternoon |  |
+| B4 | Dreaming, I Am |  |
+| B5 | Whichever Way The Wind Blows |  |
+|  | Black Sheets Of Rain |  |
+| C1 | Black Sheets Of Rain |  |
+| C2 | Stand Guard |  |
+| C3 | It's Too Late |  |
+| C4 | One Good Reason |  |
+| C5 | Stop Your Crying |  |
+| D1 | Hanging Tree |  |
+| D2 | The Last Night |  |
+| D3 | Hear Me Calling |  |
+| D4 | Out Of Your LIfe |  |
+| D5 | Disappointed |  |
+| D6 | Sacrifice / Let There Be Peace |  |
+|  | Copper Blue |  |
+| E1 | The Act We Act |  |
+| E2 | A Good Idea |  |
+| E3 | Changes |  |
+| E4 | Helpless |  |
+| E5 | Hoover Dam |  |
+| F1 | The Slim |  |
+| F2 | If I Can't Change Your Mind |  |
+| F3 | Fortune Teller |  |
+| F4 | Slick |  |
+| F5 | Man On The Moon |  |
+|  | Beaster |  |
+| G1 | Come Around |  |
+| G2 | Tilted |  |
+| G3 | Judas Cradle |  |
+| H1 | JC Auto |  |
+| H2 | Feeling Better |  |
+| H3 | Walking Away |  |
+|  | File Under: Easy Listening |  |
+| I1 | Gift |  |
+| I2 | Company Book |  |
+| I3 | Your Favorite Thing |  |
+| I4 | What You Want It To Be |  |
+| I5 | Gee Angel |  |
+| J1 | Panama City Hotel |  |
+| J2 | Can't Help You Anymore |  |
+| J3 | Granny Cool |  |
+| J4 | Believe What You're Saying |  |
+| J5 | Explode And Make Up |  |
+|  | Besides |  |
+| K1 | Needle Hits E |  |
+| K2 | If I Can't Change Your Mind (Solo Mix) |  |
+| K3 | Try Again |  |
+| K4 | Where Diamonds Are Halos (Live) |  |
+| K5 | Armenia City In The Sky (Live) |  |
+| L1 | Clownmaster |  |
+| L2 | Anyone (Live) |  |
+| L3 | JC Auto (Live) |  |
+| L4 | Believe What You're Saying (Campfire Mix) |  |
+| L5 | Mind Is An Island |  |
+| M1 | Frustration |  |
+| M2 | Going Home |  |
+| M3 | In The Eyes Of My Friends |  |
+| M4 | And You Tell Me |  |
+| N1 | If I Can't Change Your Mind (BBC Radio Session) |  |
+| N2 | Hoover Dam (BBC Radio Session) |  |
+| N3 | The Slim (BBC Radio Session) |  |
+| N4 | Where Diamonds Are Halos (BBC Radio Session) |  |
+|  | Distortion Plus: 1989-1995 |  |
+| O1 | All Those People Know |  |
+| O2 | No Water In Hell |  |
+| O3 | Dying From The Inside Out |  |
+| P1 | Dio |  |
+| P2 | Hickory Wind |  |
+| P3 | Can't Fight It |  |
+| P4 | Turning Of The Tide |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bob-mould-presents-distortion-the-best-of-1989-2019/1563236784" >}}<br>
-
 
 
 
@@ -162,5 +168,5 @@ styles: []
 | Format         | Box Set Limited Edition, Vinyl LP Album Reissue (Clear With Yellow & Brown Splatter, 140g), Vinyl LP Album Reissue (Clear With Orange & Grey Splatter, 140g), Vinyl LP Album Reissue (Clear With Yellow & Blue Splatter, 140g), Vinyl LP Album Reissue (Clear With Red & Green Splatter, 140g), Vinyl LP Album Reissue (Clear With Blue & White Splatter, 140g), Vinyl 2× LP Compilation Reissue (Clear With Red & Purple Splatter, 140g), Vinyl LP Compilation (Clear, 140g) |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX48X |
-| Notes | ℗ and © 2020 Demon Music Group.  Comes with new cover artwork for all the previously released items, a companion booklet of lyrics, memorabilia and new liner notes and a 12" x 12" screen print of the new Copper Blue cover artwork hand signed by Bob Mould. This signed edition has the extra catalog number DEMRECBOX48X and only 750 copies were produced. |
+| Notes | ℗ and © 2020 Demon Music Group.<br><br>Comes with new cover artwork for all the previously released items, a companion booklet of lyrics, memorabilia and new liner notes and a 12" x 12" screen print of the new Copper Blue cover artwork hand signed by Bob Mould. This signed edition has the extra catalog number DEMRECBOX48X and only 750 copies were produced. |
 | Discogs URL    | [Bob Mould - Distortion: 1989 - 1995](https://www.discogs.com/release/16142917-Bob-Mould-Distortion-1989-1995) |

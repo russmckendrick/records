@@ -4,6 +4,7 @@ artist_name: "Pure Reason Revolution"
 artist: "pure-reason-revolution"
 album_name: "Eupnea"
 date: 2020-04-06T14:08:58.000000Z
+release_date: "2020-04-03"
 release_id: "15061317"
 slug: "eupnea-15061317"
 hideSummary: true
@@ -22,31 +23,31 @@ In the mammalian respiratory system, eupnea is normal, good, healthy and unlabor
 Eupnea is the unaffected natural breathing in all mammals, including humans. Eupnea does not require any volitional effort whatsoever, but occurs whenever a mammal is in a natural state of relaxation, i.e. when there is no clear and present danger in their environment and without substantial exertion. When a mammal perceives potential danger or is under exertion, eupnea stops, and a much more limited and labored form of breathing—shallow breathing—occurs. 
 Eupnea is an efficient and effective form of breathing, which balances between maximizing air intake, and minimizing muscular effort.
 During eupnea, neural output to respiratory muscles is highly regular and stable, with rhythmic bursts of activity during inspiration only to the diaphragm and external intercostal muscles.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. New Obsession
-2. Silent Genesis
-3. Maelstrom
-4. Ghosts & Typhoons
-5. Beyond Our Bodies
-6. Eupnea
-7. New Obsession (5:07)
-8. Silent Genesis (10:20)
-9. Maelstrom (5:44)
-10. Ghosts & Typhoons (8:45)
-11. Beyond Our Bodies (4:28)
-12. Eupnea (13:22)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | New Obsession |  |
+| A2 | Silent Genesis |  |
+| A3 | Maelstrom |  |
+| B1 | Ghosts & Typhoons |  |
+| B2 | Beyond Our Bodies |  |
+| C1 | Eupnea |  |
+| CD-1 | New Obsession | 5:07 |
+| CD-2 | Silent Genesis | 10:20 |
+| CD-3 | Maelstrom | 5:44 |
+| CD-4 | Ghosts & Typhoons | 8:45 |
+| CD-5 | Beyond Our Bodies | 4:28 |
+| CD-6 | Eupnea | 13:22 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/eupnea/1494941222" >}}<br>
 
-
-## Videos
-### PURE REASON REVOLUTION - Ghosts  Typhoons OFFICIAL VIDEO
-{{< youtube id="nIfrCbRkBww" title="PURE REASON REVOLUTION - Ghosts  Typhoons OFFICIAL VIDEO" >}}<br>
 
 
 ## Release Images
@@ -59,5 +60,5 @@ During eupnea, neural output to respiratory muscles is highly regular and stable
 | Format         | Vinyl LP (Yellow Neon, 180 Gram), Vinyl LP Single Sided Etched (Yellow Neon, 180 Gram), All Media Album, CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 545 |
-| Notes | Gatefold release and limited to 100 copies from the Burning Shed online store.  CD housed in a transparent sleeve. Included a 12" lyric sheet.  Made in the EU.  |
+| Notes | Gatefold release and limited to 100 copies from the Burning Shed online store.<br><br>CD housed in a transparent sleeve. Included a 12" lyric sheet.<br><br>Made in the EU.<br> |
 | Discogs URL    | [Pure Reason Revolution - Eupnea](https://www.discogs.com/release/15061317-Pure-Reason-Revolution-Eupnea) |

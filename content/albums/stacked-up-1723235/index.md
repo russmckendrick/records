@@ -4,6 +4,7 @@ artist_name: "Senser"
 artist: "senser"
 album_name: "Stacked Up"
 date: 2015-12-04T18:21:46.000000Z
+release_date: "1995"
 release_id: "1723235"
 slug: "stacked-up-1723235"
 hideSummary: true
@@ -28,58 +29,33 @@ styles: ["Alternative Rock", "Breaks", "Electro"]
 
 Stacked Up is the debut album by UK rap-rock band Senser. It was released in the UK on 2 May 1994 and entered the national charts at No.4.
 It features an eclectic, incendiary cross over of hip hop, rock and psychedelia.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. States Of Mind (5:10)
-2. The Key (5:22)
-3. Switch (4:33)
-4. Age Of Panic (4:08)
-5. What's Going On (5:07)
-6. One Touch One Bounce (3:24)
-7. Stubborn (5:46)
-8. Door Game (6:39)
-9. Peanut Head (5:40)
-10. Peace (5:50)
-11. Eject (5:19)
-12. No Comply (2:37)
-13. Worth (3:04)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | States Of Mind | 5:10 |
+| A2 | The Key | 5:22 |
+| A3 | Switch | 4:33 |
+| B1 | Age Of Panic | 4:08 |
+| B2 | What's Going On | 5:07 |
+| B3 | One Touch One Bounce | 3:24 |
+| C1 | Stubborn | 5:46 |
+| C2 | Door Game | 6:39 |
+| C3 | Peanut Head | 5:40 |
+| D1 | Peace | 5:50 |
+| D2 | Eject | 5:19 |
+| D3 | No Comply | 2:37 |
+| D4 | Worth | 3:04 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/senser-stacked-up-xx/924017824" >}}<br>
 
 
-## Videos
-### Senser - Age of Panic Official Video
-{{< youtube id="tmZ-loZlsyI" title="Senser - Age of Panic Official Video" >}}<br>
-### More Videos
-
-- [Senser - Switch Official Video](https://www.youtube.com/watch?v=TPbXnwkiTF4)
-- [Senser - No Comply Official Video](https://www.youtube.com/watch?v=K5yYtzsJAyg)
-- [States of Mind  by Senser of Stacked up C D](https://www.youtube.com/watch?v=bVjIDr_GOBs)
-- [Senser - Worth](https://www.youtube.com/watch?v=ImyjkfQbSH8)
-- [Senser - Whats Going On w lyrics](https://www.youtube.com/watch?v=G3-TCUhQfiY)
-- [Senser - The Key fusion metal techno hip hop](https://www.youtube.com/watch?v=16eArly5UyM)
-- [Senser - Eject Official Video](https://www.youtube.com/watch?v=W69gdXUryEg)
-- [Senser - Stubborn](https://www.youtube.com/watch?v=anEPodHXSi0)
-- [Senser - Worth fusion metal techno hip hop](https://www.youtube.com/watch?v=TGJs3aGXZMw)
-- [SENSER - Age Of Panic](https://www.youtube.com/watch?v=MyQallcPu2A)
-- [Senser - Door Game](https://www.youtube.com/watch?v=CdLEsvXu7zQ)
-- [Senser  Stacked Up Full Album](https://www.youtube.com/watch?v=8M6r_sLmKJk)
-- [Senser - Age of Panic  Eject live at Glastonbury 1994](https://www.youtube.com/watch?v=WNhlU-n7eGs)
-- [Senser stacked up rehearsals and writing sessions 1992](https://www.youtube.com/watch?v=uYwnVsNhjck)
-- [Senser - Switch](https://www.youtube.com/watch?v=hg9FA8h81NU)
-- [States of Mind  by Senser of Stacked up C D](https://www.youtube.com/watch?v=bVjIDr_GOBs)
-- [Senser - Peace](https://www.youtube.com/watch?v=rCDjpjCZCb8)
-- [Senser - Age of Panic Official Video](https://www.youtube.com/watch?v=tmZ-loZlsyI)
-- [Senser - No Comply Official Video](https://www.youtube.com/watch?v=K5yYtzsJAyg)
-- [Senser - Switch Official Video](https://www.youtube.com/watch?v=TPbXnwkiTF4)
-- [Senser - Age Of Panic - Live  Reading Festival 94](https://www.youtube.com/watch?v=sbX5Ft336tA)
-- [The Key](https://www.youtube.com/watch?v=A6sEg0fdWV8)
-- [States of Mind](https://www.youtube.com/watch?v=5mNVnr5BKsA)
-- [Age of Panic](https://www.youtube.com/watch?v=GUbHzwMS5PM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -91,5 +67,5 @@ It features an eclectic, incendiary cross over of hip hop, rock and psychedelia.
 | Format         | Vinyl 2× LP Album Limited Edition Numbered (Yellow Fluorescent) |
 | Label          | Ultimate |
 | Catalog Number | topp lp008s |
-| Notes | Limited edition of 3,000 copies on yellow vinyl that were exclusively from CWNN stores. Each sleeve is numbered. Gatefold sleeve with lyrics on inside. Some with merchandise insert. Runouts: all hand-etched.  |
+| Notes | Limited edition of 3,000 copies on yellow vinyl that were exclusively from CWNN stores. Each sleeve is numbered.<br>Gatefold sleeve with lyrics on inside.<br>Some with merchandise insert.<br>Runouts: all hand-etched.<br> |
 | Discogs URL    | [Senser - Stacked Up](https://www.discogs.com/release/1723235-Senser-Stacked-Up) |

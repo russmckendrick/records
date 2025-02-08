@@ -4,6 +4,7 @@ artist_name: "Explosions In The Sky"
 artist: "explosions-in-the-sky"
 album_name: "The Rescue "
 date: 2019-08-16T17:14:07.000000Z
+release_date: "2023-03-03"
 release_id: "13992920"
 slug: "the-rescue-13992920"
 hideSummary: true
@@ -21,30 +22,28 @@ styles: ["Post Rock"]
 ---
 
 The Rescue is the fourth studio album by American post-rock band Explosions in the Sky, released on October 11, 2005. Written, recorded and mastered in two weeks in band member Michael James's house in Austin, Texas, The Rescue is a concept album inspired by an experience the band had while touring.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Day One
-2. Day Two
-3. Day Three
-4. Day Four
-5. Day Five
-6. Day Six
-7. Day Seven
-8. Day Eight
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Day One |  |
+| A2 | Day Two |  |
+| A3 | Day Three |  |
+| A4 | Day Four |  |
+| B1 | Day Five |  |
+| B2 | Day Six |  |
+| B3 | Day Seven |  |
+| B4 | Day Eight |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/explosions-in-the-sky/1668189318" >}}<br>
 
 
-## Videos
-### Explosions in the Sky - The Rescue Full Album HD
-{{< youtube id="1mqBMmhgsjM" title="Explosions in the Sky - The Rescue Full Album HD" >}}<br>
-### More Videos
-
-- [Explosions in the Sky - The Rescue Full Album HD](https://www.youtube.com/watch?v=1mqBMmhgsjM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,5 +55,5 @@ The Rescue is the fourth studio album by American post-rock band Explosions in t
 | Format         | Vinyl LP EP Limited Edition Reissue Remastered (Orange Dusty Opaque) |
 | Label          | Temporary Residence Limited |
 | Catalog Number | TRR326 |
-| Notes | Limited edition colored vinyl: Opaque dusty orange (Edition of 4.000) Vinyl format includes MP3 download coupon inside package. |
+| Notes | Limited edition colored vinyl: Opaque dusty orange (Edition of 4.000)<br>Vinyl format includes MP3 download coupon inside package. |
 | Discogs URL    | [Explosions In The Sky - The Rescue ](https://www.discogs.com/release/13992920-Explosions-In-The-Sky-The-Rescue-) |

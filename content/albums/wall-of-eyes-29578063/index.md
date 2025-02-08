@@ -1,7 +1,7 @@
 ---
 title: "The Smile - Wall Of Eyes"
 artist_name: "The Smile"
-artist: "the-smile-5"
+artist: "the-smile"
 album_name: "Wall Of Eyes"
 date: 2024-02-02T00:43:05.000000Z
 release_date: "2024-01-26"
@@ -41,31 +41,22 @@ There are some surprises along the way, too. A few songs veer into floaty lullab
 
 
 ## Tracklisting
-1. Wall Of Eyes
-2. Teleharmonic
-3. Read The Room
-4. Under Our Pillows
-5. Friend Of A Friend
-6. I Quit
-7. Bending Hectic
-8. You Know Me!
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Wall Of Eyes |  |
+| A2 | Teleharmonic |  |
+| A3 | Read The Room |  |
+| A4 | Under Our Pillows |  |
+| B1 | Friend Of A Friend |  |
+| B2 | I Quit |  |
+| B3 | Bending Hectic |  |
+| B4 | You Know Me! |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wall-of-eyes/1711359135" >}}<br>
 
 
-## Videos
-### The Smile - Wall Of Eyes Official Video
-{{< youtube id="IsqqjOxEuAg" title="The Smile - Wall Of Eyes Official Video" >}}<br>
-### More Videos
-
-- [The Smile - Teleharmonic](https://www.youtube.com/watch?v=djSkQnPgq9o)
-- [The Smile - Read The Room](https://www.youtube.com/watch?v=n6vh4rfgdcE)
-- [The Smile - Under Our Pillows](https://www.youtube.com/watch?v=hx-GOI9ZCpQ)
-- [The Smile - Friend Of A Friend Official Video](https://www.youtube.com/watch?v=WhivN4GJQCQ)
-- [The Smile - I Quit](https://www.youtube.com/watch?v=j5pxS3QNydw)
-- [The Smile - Bending Hectic](https://www.youtube.com/watch?v=sBtJ9_zTqdE)
-- [The Smile - You Know Me](https://www.youtube.com/watch?v=0-LuXy6qZDY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +68,5 @@ There are some surprises along the way, too. A few songs veer into floaty lullab
 | Format         | Vinyl LP Album Limited Edition (Blue) |
 | Label          | XL Recordings |
 | Catalog Number | XL1394LPE |
-| Notes | XL1394LPE is printed on the barcode sticker.  Packaged in a matte "soft touch" finish, with glossy black lettering, gatefold sleeve and with blue sticker "THE SMILE - LIMITED EDITION BLUE VINYL". The French distribution may have another "France Inter" sticker. Includes a printed inner sleeve with lyrics.  Early orders from various indie sellers across the world received a free 12x12 Art Print.  Recorded in Oxford & at Abbey Road Studios Mixed at Studiofour, London Mastered... at Sterling Sound  ℗2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd ©2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd  Published by Warner Chappell Music & Warp Publishing |
+| Notes | XL1394LPE is printed on the barcode sticker.<br><br>Packaged in a matte "soft touch" finish, with glossy black lettering, gatefold sleeve and with blue sticker "THE SMILE - LIMITED EDITION BLUE VINYL".<br>The French distribution may have another "France Inter" sticker.<br>Includes a printed inner sleeve with lyrics.<br><br>Early orders from various indie sellers across the world received a free 12x12 Art Print.<br><br>Recorded in Oxford & at Abbey Road Studios<br>Mixed at Studiofour, London<br>Mastered... at Sterling Sound<br><br>℗2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd<br>©2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd<br><br>Published by Warner Chappell Music & Warp Publishing |
 | Discogs URL    | [The Smile - Wall Of Eyes](https://www.discogs.com/release/29578063-The-Smile-5-Wall-Of-Eyes) |

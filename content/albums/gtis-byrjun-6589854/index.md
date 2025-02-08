@@ -1,7 +1,7 @@
 ---
 title: "Sigur Rós - Ágætis Byrjun"
 artist_name: "Sigur Rós"
-artist: "sigur-r-s"
+artist: "sigur-ros"
 album_name: "Ágætis Byrjun"
 date: 2016-11-18T18:42:26.000000Z
 release_date: "1999-06-12"
@@ -38,54 +38,33 @@ In 2000, a year after its Icelandic bow, <i>Ágætis byrjun</i> was released in 
 
 
 ## Tracklisting
-1. Svefn-g-englar
-2. Starálfur
-3. Flugufrelsarinn
-4. Ný Batterí
-5. Hjartað Hamast (Bamm Bamm Bamm)
-6. Viðrar Vel Til Loftárása
-7. Olsen Olsen
-8. Ágætis Byrjun
-9. Avalon
-10. Intro
-11. Svefn-g-englar
-12. Starálfur
-13. Flugufrelsarinn
-14. Ný Batterí
-15. Hjartað Hamast (Bamm Bamm Bamm)
-16. Viðrar Vel Til Loftárása
-17. Olsen Olsen
-18. Ágætis Byrjun
-19. Avalon
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Svefn-g-englar |  |
+| A2 | Starálfur |  |
+| B1 | Flugufrelsarinn |  |
+| B2 | Ný Batterí |  |
+| C1 | Hjartað Hamast (Bamm Bamm Bamm) |  |
+| C2 | Viðrar Vel Til Loftárása |  |
+| D1 | Olsen Olsen |  |
+| D2 | Ágætis Byrjun |  |
+| D3 | Avalon |  |
+| CD-1 | Intro |  |
+| CD-2 | Svefn-g-englar |  |
+| CD-3 | Starálfur |  |
+| CD-4 | Flugufrelsarinn |  |
+| CD-5 | Ný Batterí |  |
+| CD-6 | Hjartað Hamast (Bamm Bamm Bamm) |  |
+| CD-7 | Viðrar Vel Til Loftárása |  |
+| CD-8 | Olsen Olsen |  |
+| CD-9 | Ágætis Byrjun |  |
+| CD-10 | Avalon |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/%C3%A1g%C3%A6tis-byrjun/1447442814" >}}<br>
 
 
-## Videos
-### Intro
-{{< youtube id="56qkeYZn7Ig" title="Intro" >}}<br>
-### More Videos
-
-- [Svefn-g-englar  Official Video](https://www.youtube.com/watch?v=8L64BcCRDAE)
-- [Starálfur](https://www.youtube.com/watch?v=7fEUUnXDnbk)
-- [Flugufrelsarinn](https://www.youtube.com/watch?v=X2kgnWqCw0k)
-- [Ný batterí](https://www.youtube.com/watch?v=TU9T3T2pmjQ)
-- [Hjartað hamast bamm bamm bamm](https://www.youtube.com/watch?v=5uID1eJFYws)
-- [Viðrar vel til loftárása Official Video](https://www.youtube.com/watch?v=akYuy2FMQk4)
-- [Olsen olsen](https://www.youtube.com/watch?v=r99HxSSgzsw)
-- [Ágætis byrjun](https://www.youtube.com/watch?v=MHTRGBdH-s4)
-- [Avalon](https://www.youtube.com/watch?v=vwf4Z941jAA)
-- [Intro](https://www.youtube.com/watch?v=56qkeYZn7Ig)
-- [Svefn-g-englar  Official Video](https://www.youtube.com/watch?v=8L64BcCRDAE)
-- [Starálfur](https://www.youtube.com/watch?v=7fEUUnXDnbk)
-- [Flugufrelsarinn](https://www.youtube.com/watch?v=X2kgnWqCw0k)
-- [Ný batterí](https://www.youtube.com/watch?v=TU9T3T2pmjQ)
-- [Hjartað hamast bamm bamm bamm](https://www.youtube.com/watch?v=5uID1eJFYws)
-- [Viðrar vel til loftárása Official Video](https://www.youtube.com/watch?v=akYuy2FMQk4)
-- [Olsen olsen](https://www.youtube.com/watch?v=r99HxSSgzsw)
-- [Ágætis byrjun](https://www.youtube.com/watch?v=MHTRGBdH-s4)
-- [Avalon](https://www.youtube.com/watch?v=vwf4Z941jAA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -96,5 +75,5 @@ In 2000, a year after its Icelandic bow, <i>Ágætis byrjun</i> was released in 
 | Format         | Vinyl 2× LP Album Reissue, CD Album |
 | Label          | XL Recordings |
 | Catalog Number | XLLP610 |
-| Notes | ℗© 2000 Sigur Rós undern exclusive license to XL Recordings Ltd.  Sticker on front: "Pressed on audiophile quality 180 gram vinyl. Contains CD."  Sigur Ros clear sticker logo is pasted on outer shrink wrap.   |
+| Notes | ℗© 2000 Sigur Rós undern exclusive license to XL Recordings Ltd.<br><br>Sticker on front: "Pressed on audiophile quality 180 gram vinyl. Contains CD." <br>Sigur Ros clear sticker logo is pasted on outer shrink wrap.<br><br> |
 | Discogs URL    | [Sigur Rós - Ágætis Byrjun](https://www.discogs.com/release/6589854-Sigur-Rós-Ágætis-Byrjun) |

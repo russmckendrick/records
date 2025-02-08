@@ -1,9 +1,10 @@
 ---
 title: "Magenta - We Are Legend"
 artist_name: "Magenta"
-artist: "magenta-10"
+artist: "magenta"
 album_name: "We Are Legend"
 date: 2017-07-29T08:50:54.000000Z
+release_date: ""
 release_id: "10451674"
 slug: "we-are-legend-10451674"
 hideSummary: true
@@ -21,13 +22,20 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Trojan (25:58)
-2. Colours (10:48)
-3. Legend (11:22)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Trojan | 25:58 |
+| B1 | Colours | 10:48 |
+| B2 | Legend | 11:22 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 

@@ -26,28 +26,24 @@ The deluxe edition adds four live versions of tracks. The Target Exclusive versi
 
 
 ## Tracklisting
-1. Losing You
-2. It's Goodbye And So Long To You
-3. Windy City
-4. I Never Cared For You
-5. River In The Rain
-6. Dream Of Me
-7. Gentle On My Mind
-8. All Alone Am I
-9. Poison Love
-10. You Don't Know Me
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Losing You |  |
+| A2 | It's Goodbye And So Long To You |  |
+| A3 | Windy City |  |
+| A4 | I Never Cared For You |  |
+| A5 | River In The Rain |  |
+| B1 | Dream Of Me |  |
+| B2 | Gentle On My Mind |  |
+| B3 | All Alone Am I |  |
+| B4 | Poison Love |  |
+| B5 | You Don't Know Me |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/windy-city/1440866016" >}}<br>
 
 
-## Videos
-### Alison Krauss - Windy City
-{{< youtube id="LNtKPzHxKG8" title="Alison Krauss - Windy City" >}}<br>
-### More Videos
-
-- [Alison Krauss - Losing You](https://www.youtube.com/watch?v=mLpuId3BNcU)
-- [Alison Krauss - Make The World Go Away Feat Jamey Johnson](https://www.youtube.com/watch?v=1w_VU8C0WGA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,5 +55,5 @@ The deluxe edition adds four live versions of tracks. The Target Exclusive versi
 | Format         | Vinyl LP Album (180g) |
 | Label          | Capitol Records |
 | Catalog Number | 00602557037500 |
-| Notes | Gatefold.  Includes free album download card |
+| Notes | Gatefold.<br><br>Includes free album download card |
 | Discogs URL    | [Alison Krauss - Windy City](https://www.discogs.com/release/9914922-Alison-Krauss-Windy-City) |

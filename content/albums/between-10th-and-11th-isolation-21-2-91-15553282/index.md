@@ -4,6 +4,7 @@ artist_name: "The Charlatans"
 artist: "the-charlatans"
 album_name: "Between 10th And 11th / Isolation 21.2.91"
 date: 2020-07-03T12:50:52.000000Z
+release_date: ""
 release_id: "15553282"
 slug: "between-10th-and-11th-isolation-21-2-91-15553282"
 hideSummary: true
@@ -24,48 +25,39 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Between 10th And 11th
-2. I Don't Want To See The Sights
-3. Ignition
-4. Page One
-5. Tremelo Song
-6. The End Of Everything
-7. Subtitle
-8. Can't Even Be Bothered
-9. Weirdo
-10. Chewing Gum Weekend
-11. (No One) Not Even The Rain
-12. Isolation 21.2.91 Live At Chicago Metro
-13. Imperial 109
-14. The Only One I Know
-15. Then
-16. Happen To Die
-17. White Shirt
-18. Indian Rope
-19. Opportunity
-20. Sproston Green
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Between 10th And 11th |  |
+| A1 | I Don't Want To See The Sights |  |
+| A2 | Ignition |  |
+| A3 | Page One |  |
+| A4 | Tremelo Song |  |
+| A5 | The End Of Everything |  |
+| B1 | Subtitle |  |
+| B2 | Can't Even Be Bothered |  |
+| B3 | Weirdo |  |
+| B4 | Chewing Gum Weekend |  |
+| B5 | (No One) Not Even The Rain |  |
+|  | Isolation 21.2.91 Live At Chicago Metro |  |
+| C1 | Imperial 109 |  |
+| C2 | The Only One I Know |  |
+| C3 | Then |  |
+| C4 | Happen To Die |  |
+| C5 | White Shirt |  |
+| D1 | Indian Rope |  |
+| D2 | Opportunity |  |
+| D3 | Sproston Green |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### The Charlatans - Tremelo Song
-{{< youtube id="a_jfHwt8USc" title="The Charlatans - Tremelo Song" >}}<br>
-### More Videos
 
-- [The Charlatans - Weirdo](https://www.youtube.com/watch?v=SXBR96Z8_e8)
-- [Chewing Gum Weekend](https://www.youtube.com/watch?v=6qf1OLRwbgw)
-- [Weirdo](https://www.youtube.com/watch?v=m-yjro8dZjY)
-- [I Dont Want To See The Sights](https://www.youtube.com/watch?v=xivKBrdgz3c)
-- [Cant Even Be Bothered](https://www.youtube.com/watch?v=GyOk-gCOE9U)
-- [Ignition](https://www.youtube.com/watch?v=NtinvC3Yc8k)
-- [The End Of Everything](https://www.youtube.com/watch?v=BYBzjmrw8Qs)
-- [Subtitle](https://www.youtube.com/watch?v=t_Wr_nfYTbg)
-- [No One Not Even The Rain](https://www.youtube.com/watch?v=AZezlm4_KOA)
-- [The Charlatans - Tremelo Song](https://www.youtube.com/watch?v=a_jfHwt8USc)
-- [The Charlatans - Weirdo](https://www.youtube.com/watch?v=SXBR96Z8_e8)
-- [Chewing Gum Weekend](https://www.youtube.com/watch?v=6qf1OLRwbgw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +68,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl LP Album Reissue (Clear), Vinyl LP Reissue Remastered (Clear), All Media (Expanded Edition, Gatefold Sleeve) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ2165LP |
-| Notes | ℗ 2020 Beggars Banquet Ltd © 2020 Beggars Banquet Ltd Original release ℗ & © 1992 Situation Two Beggars Banquet Records Limited |
+| Notes | ℗ 2020 Beggars Banquet Ltd © 2020 Beggars Banquet Ltd<br>Original release ℗ & © 1992 Situation Two<br>Beggars Banquet Records Limited |
 | Discogs URL    | [The Charlatans - Between 10th And 11th / Isolation 21.2.91](https://www.discogs.com/release/15553282-The-Charlatans-Between-10th-And-11th-Isolation-21291) |

@@ -4,6 +4,7 @@ artist_name: "Scott Walker"
 artist: "scott-walker"
 album_name: "Scott 2"
 date: 2017-05-27T15:31:54.000000Z
+release_date: "1981"
 release_id: "2403028"
 slug: "scott-2-2403028"
 hideSummary: true
@@ -25,48 +26,32 @@ Scott 2 is the second solo album by Scott Walker, released in 1968 by Philips Re
 Like its predecessor, Scott 2 comprises an assortment of pop cover versions, selections from Walker favorite Jacques Brel, and a handful of original songs. His following three albums would feature mostly or entirely original material.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Jackie
-2. Best Of Both Worlds
-3. Black Sheep Boy
-4. The Amorous Humphrey Plugg
-5. Next
-6. The Girls From The Streets
-7. Plastic Palace People
-8. Wait Until Dark
-9. The Girls And The Dogs
-10. Windows Of The World
-11. The Bridge
-12. Come Next Spring
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Jackie |  |
+| A2 | Best Of Both Worlds |  |
+| A3 | Black Sheep Boy |  |
+| A4 | The Amorous Humphrey Plugg |  |
+| A5 | Next |  |
+| A6 | The Girls From The Streets |  |
+| B1 | Plastic Palace People |  |
+| B2 | Wait Until Dark |  |
+| B3 | The Girls And The Dogs |  |
+| B4 | Windows Of The World |  |
+| B5 | The Bridge |  |
+| B6 | Come Next Spring |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/scott-walker-sings-jacques-brel/1444213513" >}}<br>
 
 
-## Videos
-### SCOTT WALKER - BEST OF BOTH WORLDS
-{{< youtube id="q722DbdXg2M" title="SCOTT WALKER - BEST OF BOTH WORLDS" >}}<br>
-### More Videos
-
-- [Black Sheep Boy](https://www.youtube.com/watch?v=64vvs0xU4aY)
-- [Scott Walker - Wait Until Dark](https://www.youtube.com/watch?v=JyKbqnqO8hA)
-- [Scott Walker - The Bridge](https://www.youtube.com/watch?v=jgLfvwm4mg4)
-- [Scott Walker - The Amorous Humphrey Plugg](https://www.youtube.com/watch?v=JFXuMljSY7g)
-- [Scott Walker - Jackie](https://www.youtube.com/watch?v=eKtZf62BQzM)
-- [Scott Walker - The Girls from the Street](https://www.youtube.com/watch?v=Jj_C6Rv0HV0)
-- [The Girls And The Dogs](https://www.youtube.com/watch?v=8p70xFGQTOs)
-- [Plastic Palace People](https://www.youtube.com/watch?v=fqmrCixYLWU)
-- [Scott Walker The Walker Brothers  The Windows of The World](https://www.youtube.com/watch?v=oywI42UcxY4)
-- [Scott Walker - Come Next Spring](https://www.youtube.com/watch?v=LWy7dJU-7RE)
-- [Scott Walker   Next](https://www.youtube.com/watch?v=gR3W6vmgg_I)
-- [SCOTT WALKER - BEST OF BOTH WORLDS](https://www.youtube.com/watch?v=q722DbdXg2M)
-- [Black Sheep Boy](https://www.youtube.com/watch?v=64vvs0xU4aY)
-- [Scott Walker - Wait Until Dark](https://www.youtube.com/watch?v=JyKbqnqO8hA)
-- [Scott Walker - The Bridge](https://www.youtube.com/watch?v=jgLfvwm4mg4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +63,5 @@ Like its predecessor, Scott 2 comprises an assortment of pop cover versions, sel
 | Format         | Vinyl LP Album Stereo |
 | Label          | Philips |
 | Catalog Number | SBL7840 |
-| Notes | Included 11" by 11" artist portrait insert.  SBL7840 on spine & rear cover, SBL.7840 on labels, 844 210 BY on rear cover & labels.  A1. ℗ 1967 A2 to B6. ℗ 1968  A1, A5, B3. Carlin/BIEM A2. Lords Music A3. Robbins Music A4, A6, B1, B5. Miracle Songs B2. Blossom Music B4. Blue Seas/Jac B6. Frank Music |
+| Notes | Included 11" by 11" artist portrait insert.<br><br>SBL7840 on spine & rear cover, SBL.7840 on labels, 844 210 BY on rear cover & labels.<br><br>A1. ℗ 1967<br>A2 to B6. ℗ 1968<br><br>A1, A5, B3. Carlin/BIEM<br>A2. Lords Music<br>A3. Robbins Music<br>A4, A6, B1, B5. Miracle Songs<br>B2. Blossom Music<br>B4. Blue Seas/Jac<br>B6. Frank Music |
 | Discogs URL    | [Scott Walker - Scott 2](https://www.discogs.com/release/2403028-Scott-Walker-Scott-2) |

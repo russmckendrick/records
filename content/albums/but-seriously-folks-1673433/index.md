@@ -4,6 +4,7 @@ artist_name: "Joe Walsh"
 artist: "joe-walsh"
 album_name: "But Seriously, Folks..."
 date: 2020-08-02T13:33:25.000000Z
+release_date: "1978-05-16"
 release_id: "1673433"
 slug: "but-seriously-folks-1673433"
 hideSummary: true
@@ -27,33 +28,27 @@ styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Over And Over (4:52)
-2. Second Hand Store (3:36)
-3. Indian Summer (3:03)
-4. At The Station (5:09)
-5. Tomorrow (3:38)
-6. Inner Tube (1:25)
-7. Theme From Boat Weirdos (4:44)
-8. Life's Been Good (8:04)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Over And Over | 4:52 |
+| A2 | Second Hand Store | 3:36 |
+| A3 | Indian Summer | 3:03 |
+| A4 | At The Station | 5:09 |
+| B1 | Tomorrow | 3:38 |
+| B2 | Inner Tube | 1:25 |
+| B3 | Theme From Boat Weirdos | 4:44 |
+| B4 | Life's Been Good | 8:04 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/but-seriously-folks/332682774" >}}<br>
 
 
-## Videos
-### Over and Over
-{{< youtube id="pV6BRgu1mCM" title="Over and Over" >}}<br>
-### More Videos
-
-- [Second Hand Store](https://www.youtube.com/watch?v=9uzCuP4_72U)
-- [Indian Summer](https://www.youtube.com/watch?v=ob3IYBH37yE)
-- [At the Station](https://www.youtube.com/watch?v=pg_3jHeB-3M)
-- [Tomorrow](https://www.youtube.com/watch?v=byl1LfL3SBU)
-- [Inner Tube](https://www.youtube.com/watch?v=L9KUnOI3WjU)
-- [Theme from Boat Weirdos](https://www.youtube.com/watch?v=1hD5lmf2LLE)
-- [Joe Walsh - Lifes Been Good Official Audio](https://www.youtube.com/watch?v=Fds_2qH9sBQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +59,5 @@ styles: ["Rock & Roll", "Classic Rock", "Soft Rock"]
 | Format         | Vinyl LP Album Stereo (Gatefold) |
 | Label          | Asylum Records |
 | Catalog Number | K 53081 |
-| Notes | Mastered at Sterling Sound, N.Y.C. Recorded at Bayshore Recording Studios, Coconut Grove, Florida. Gatefold sleeve and printed inner sleeve ℗ 1978 Asylum Records © 1978 an Elektra/Asylum recording. |
+| Notes | Mastered at Sterling Sound, N.Y.C.<br>Recorded at Bayshore Recording Studios, Coconut Grove, Florida.<br>Gatefold sleeve and printed inner sleeve<br>℗ 1978 Asylum Records<br>© 1978 an Elektra/Asylum recording. |
 | Discogs URL    | [Joe Walsh - "But Seriously, Folks..."](https://www.discogs.com/release/1673433-Joe-Walsh-But-Seriously-Folks) |

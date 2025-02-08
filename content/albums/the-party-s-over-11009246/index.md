@@ -4,6 +4,7 @@ artist_name: "Talk Talk"
 artist: "talk-talk"
 album_name: "The Party's Over"
 date: 2017-11-04T10:47:46.000000Z
+release_date: "1982"
 release_id: "11009246"
 slug: "the-party-s-over-11009246"
 hideSummary: true
@@ -25,41 +26,29 @@ styles: ["New Wave", "Synth-pop"]
 The Party's Over is the debut album by Talk Talk. It was released on 12 July 1982 and produced by Colin Thurston, who was a former engineer for David Bowie but was better known for producing Duran Duran's first two albums.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Talk Talk
-2. It's So Serious
-3. Today
-4. The Party's Over
-5. Hate
-6. Have You Heard The News?
-7. Mirror Man
-8. Another Word
-9. Candy
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Talk Talk |  |
+| A2 | It's So Serious |  |
+| A3 | Today |  |
+| A4 | The Party's Over |  |
+| B1 | Hate |  |
+| B2 | Have You Heard The News? |  |
+| B3 | Mirror Man |  |
+| B4 | Another Word |  |
+| B5 | Candy |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-partys-over/697202581" >}}<br>
 
 
-## Videos
-### Talk Talk
-{{< youtube id="0uA5Qe5PSWw" title="Talk Talk" >}}<br>
-### More Videos
-
-- [Today 1997 Remaster](https://www.youtube.com/watch?v=gMDN4MbSKqw)
-- [The Partys Over 1997 Remaster](https://www.youtube.com/watch?v=kNXYKYkqvE8)
-- [Hate 1997 Remaster](https://www.youtube.com/watch?v=4rqUYKKSyHE)
-- [Have You Heard the News 1997 Remaster](https://www.youtube.com/watch?v=aYIKfkTJYcs)
-- [Mirror Man 1997 Remaster](https://www.youtube.com/watch?v=YMZ0ApjY5IQ)
-- [Talk Talk](https://www.youtube.com/watch?v=0uA5Qe5PSWw)
-- [Today 1997 Remaster](https://www.youtube.com/watch?v=gMDN4MbSKqw)
-- [The Partys Over 1997 Remaster](https://www.youtube.com/watch?v=kNXYKYkqvE8)
-- [Hate 1997 Remaster](https://www.youtube.com/watch?v=4rqUYKKSyHE)
-- [Have You Heard the News 1997 Remaster](https://www.youtube.com/watch?v=aYIKfkTJYcs)
-- [Mirror Man 1997 Remaster](https://www.youtube.com/watch?v=YMZ0ApjY5IQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +60,5 @@ The Party's Over is the debut album by Talk Talk. It was released on 12 July 198
 | Format         | Vinyl LP Album Reissue |
 | Label          | Parlophone |
 | Catalog Number | 0190295792626 |
-| Notes | Textured outer sleeve.    |
+| Notes | Textured outer sleeve.<br><br><br> |
 | Discogs URL    | [Talk Talk - The Party's Over](https://www.discogs.com/release/11009246-Talk-Talk-The-Partys-Over) |

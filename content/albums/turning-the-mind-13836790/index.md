@@ -4,6 +4,7 @@ artist_name: "Maps"
 artist: "maps"
 album_name: "Turning The Mind"
 date: 2019-09-01T09:46:37.000000Z
+release_date: "2009-09-28"
 release_id: "13836790"
 slug: "turning-the-mind-13836790"
 hideSummary: true
@@ -21,37 +22,32 @@ styles: ["Electro", "Leftfield", "Synth-pop", "Tech House"]
 Turning the Mind is the second album from Northampton-based band Maps, released in 2009.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Turning The Mind
-2. I Dream Of Crystal
-3. Let Go Of The Fear
-4. Valium In The Sunshine
-5. Papercuts
-6. Love Will Come
-7. Everything Is Shattering
-8. Nothing
-9. The Note (These Voices)
-10. Chemeleon
-11. Die Happy, Die Smiling
-12. Without You
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Turning The Mind |  |
+| A2 | I Dream Of Crystal |  |
+| A3 | Let Go Of The Fear |  |
+| A4 | Valium In The Sunshine |  |
+| B1 | Papercuts |  |
+| B2 | Love Will Come |  |
+| B3 | Everything Is Shattering |  |
+| B4 | Nothing |  |
+| C1 | The Note (These Voices) |  |
+| C2 | Chemeleon |  |
+| C3 | Die Happy, Die Smiling |  |
+| C4 | Without You |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/turning-the-mind/757877794" >}}<br>
 
 
-## Videos
-### Maps - Turning The Mind
-{{< youtube id="VRvjPQRp6Co" title="Maps - Turning The Mind" >}}<br>
-### More Videos
-
-- [Chemeleon](https://www.youtube.com/watch?v=fxH0ShE9fNY)
-- [Turning the Mind](https://www.youtube.com/watch?v=wX4ALgTvqaw)
-- [Maps - From Heres to Bliss Bonus Track](https://www.youtube.com/watch?v=2c6q2F-zEM0)
-- [From Heres to Bliss](https://www.youtube.com/watch?v=EK7rKGkYesM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +59,5 @@ Turning the Mind is the second album from Northampton-based band Maps, released 
 | Format         | Vinyl LP, Vinyl LP Etched, All Media Album Limited Edition Reissue Repress (Orange) |
 | Label          | Mute |
 | Catalog Number | STUMM298 |
-| Notes | Limited edition of 500 copies. Classified as both a reissue and re-press on the Mute Bank web site. General release date listed as August 23rd, 2019 however copies were sold earlier at Maps gigs in June & July 2019.  Circular silver hype sticker on the cellophane reads:  First time on vinyl  Mute 4.0 Orange vinyl Limited edition of 500  Double album D side etching + Digital copy _  ℗ 2019 Mute Records Limited © 2009 Mute Records Limited Printed in the EU. |
+| Notes | Limited edition of 500 copies. Classified as both a reissue and re-press on the Mute Bank web site. General release date listed as August 23rd, 2019 however copies were sold earlier at Maps gigs in June & July 2019.<br><br>Circular silver hype sticker on the cellophane reads:<br><br>First time on vinyl<br><br>Mute 4.0 Orange vinyl<br>Limited edition of 500<br><br>Double album<br>D side etching<br>+<br>Digital copy<br>_<br><br>℗ 2019 Mute Records Limited<br>© 2009 Mute Records Limited<br>Printed in the EU. |
 | Discogs URL    | [Maps - Turning The Mind](https://www.discogs.com/release/13836790-Maps-Turning-The-Mind) |

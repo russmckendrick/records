@@ -1,9 +1,10 @@
 ---
 title: "AVA - Waves"
 artist_name: "AVA"
-artist: "ava-28"
+artist: "ava"
 album_name: "Waves"
 date: 2019-07-20T15:40:42.000000Z
+release_date: "2019-07-12"
 release_id: "13867076"
 slug: "waves-13867076"
 hideSummary: true
@@ -23,29 +24,29 @@ styles: ["Indie Pop", "Neo-Classical"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Waves
-2. In Motion
-3. To Be Alone
-4. Ocean
-5. Voyager
-6. Resistance
-7. Into The Deep
-8. Deep Blue
-9. Mulholland
-10. Underwater
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Waves |  |
+| A2 | In Motion |  |
+| A3 | To Be Alone |  |
+| A4 | Ocean |  |
+| A5 | Voyager |  |
+| B1 | Resistance |  |
+| B2 | Into The Deep |  |
+| B3 | Deep Blue |  |
+| B4 | Mulholland |  |
+| B5 | Underwater |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/waves/1726630973" >}}<br>
 
 
-## Videos
-### AVA - Waves Neo-Classical Ambient Electronic
-{{< youtube id="CiBM_R_2GYc" title="AVA - Waves Neo-Classical Ambient Electronic" >}}<br>
-### More Videos
-
-- [AVA - Waves Neo-Classical Ambient Electronic](https://www.youtube.com/watch?v=CiBM_R_2GYc)
 
 ## Release Images
 {{< imageGrid >}}

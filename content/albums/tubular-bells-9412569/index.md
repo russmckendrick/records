@@ -4,6 +4,7 @@ artist_name: "Mike Oldfield"
 artist: "mike-oldfield"
 album_name: "Tubular Bells"
 date: 2016-12-01T06:53:11.000000Z
+release_date: "2007"
 release_id: "9412569"
 slug: "tubular-bells-9412569"
 hideSummary: true
@@ -33,30 +34,26 @@ Tubular Bells initially sold slowly, but gained worldwide attention in December 
 An orchestral version produced by David Bedford was released in 1975 as The Orchestral Tubular Bells. It was followed by the albums Tubular Bells II (1992), Tubular Bells III (1998), The Millennium Bell (1999), and a re-recorded version, Tubular Bells 2003, for its 30th anniversary. A remastered edition was released in 2009. In 2010, Tubular Bells was one of ten classic album covers from British artists commemorated on a series of UK postage stamps issued by the Royal Mail. Its contribution to British music was recognised when Oldfield played extracts during the 2012 Summer Olympics opening ceremony in London.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The 2009 Stereo Mixes By Mike Oldfield
-2. Tubular Bells (Part One)
-3. Tubular Bells (Part Two)
-4. The Original 1973 Stereo Album Mix
-5. Tubular Bells (Part One)
-6. Tubular Bells (Part Two)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The 2009 Stereo Mixes By Mike Oldfield |  |
+| A | Tubular Bells (Part One) |  |
+| B | Tubular Bells (Part Two) |  |
+|  | The Original 1973 Stereo Album Mix |  |
+| C | Tubular Bells (Part One) |  |
+| D | Tubular Bells (Part Two) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/oldfield-tubular-bells-pt-1/720161872" >}}<br>
 
 
-## Videos
-### Mike Oldfield - Tubular Bells Full Album
-{{< youtube id="bv_4sZCLlr0" title="Mike Oldfield - Tubular Bells Full Album" >}}<br>
-### More Videos
-
-- [Mike Oldfield - Tubular bells](https://www.youtube.com/watch?v=sSRJvq4Wd48)
-- [Mike Oldfield - 1st UK press - Tubular Bells side 1](https://www.youtube.com/watch?v=aZ7x13Sf-ho)
-- [Mike Oldfield - 1st UK press - Tubular Bells side 2](https://www.youtube.com/watch?v=p9rgHxuRx9U)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +65,5 @@ An orchestral version produced by David Bedford was released in 1975 as The Orch
 | Format         | Vinyl LP Album Reissue (180 Gram ), Vinyl LP Album Reissue (180 Gram), All Media Deluxe Edition Remastered Stereo (Gatefold) |
 | Label          | Virgin |
 | Catalog Number | 0600753695036 |
-| Notes | 2016 remastered reissue, cut using half-speed mastering at Abbey Road Studios.  Housed in a gatefold cover and includes voucher to download MP3 version of the album and Japanese style obi.  |
+| Notes | 2016 remastered reissue, cut using half-speed mastering at Abbey Road Studios.<br><br>Housed in a gatefold cover and includes voucher to download MP3 version of the album and Japanese style obi.<br> |
 | Discogs URL    | [Mike Oldfield - Tubular Bells](https://www.discogs.com/release/9412569-Mike-Oldfield-Tubular-Bells) |

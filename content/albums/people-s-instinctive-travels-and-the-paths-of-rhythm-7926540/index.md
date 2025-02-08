@@ -34,46 +34,32 @@ People's Instinctive Travels and the Paths of Rhythm was met with acclaim from p
 
 
 ## Tracklisting
-1. Push It Along (7:42)
-2. Luck Of Lucien (4:32)
-3. After Hours (4:39)
-4. Footprints (4:00)
-5. I Left My Wallet In El Segundo (4:06)
-6. Pubic Enemy (3:45)
-7. Bonita Applebum (4:11)
-8. Can I Kick It? (4:52)
-9. Youthful Expression (4:01)
-10. Rhythm (Devoted To The Art Of Moving Butts) (3:33)
-11. Mr. Muhammad (5:27)
-12. Ham 'N' Eggs (3:54)
-13. Go Ahead In The Rain (3:54)
-14. Description Of A Fool (5:41)
-15. Bonus Tracks
-16. Footprints (Remix) (5:08)
-17. Bonita Applebum (Pharrell Williams Remix) (3:53)
-18. Can I Kick It? (J. Cole Remix) (2:49)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Push It Along | 7:42 |
+| A2 | Luck Of Lucien | 4:32 |
+| A3 | After Hours | 4:39 |
+| A4 | Footprints | 4:00 |
+| B1 | I Left My Wallet In El Segundo | 4:06 |
+| B2 | Pubic Enemy | 3:45 |
+| B3 | Bonita Applebum | 4:11 |
+| B4 | Can I Kick It? | 4:52 |
+| B5 | Youthful Expression | 4:01 |
+| C1 | Rhythm (Devoted To The Art Of Moving Butts) | 3:33 |
+| C2 | Mr. Muhammad | 5:27 |
+| C3 | Ham 'N' Eggs | 3:54 |
+| C4 | Go Ahead In The Rain | 3:54 |
+| D1 | Description Of A Fool | 5:41 |
+|  | Bonus Tracks |  |
+| D2 | Footprints (Remix) | 5:08 |
+| D3 | Bonita Applebum (Pharrell Williams Remix) | 3:53 |
+| D4 | Can I Kick It? (J. Cole Remix) | 2:49 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peoples-instinctive-travels-and-the-paths-of/1046921573" >}}<br>
 
 
-## Videos
-### A Tribe Called Quest - Footprints Remix Official Audio ft CeeLo Green
-{{< youtube id="GLDoO3YOxiU" title="A Tribe Called Quest - Footprints Remix Official Audio ft CeeLo Green" >}}<br>
-### More Videos
-
-- [A Tribe Called Quest - Bonita Applebum Pharrell Williams Remix Digital Video](https://www.youtube.com/watch?v=aS_rkTi0D_M)
-- [A Tribe Called Quest - I Left My Wallet In El Segundo Official Video](https://www.youtube.com/watch?v=WILyWmT2A-Q)
-- [A Tribe Called Quest - Can I Kick It Official HD Video](https://www.youtube.com/watch?v=O3pyCGnZzYA)
-- [Mr Muhammad](https://www.youtube.com/watch?v=e4hpXesb2CA)
-- [Push It Along](https://www.youtube.com/watch?v=T6a8N2CjNRU)
-- [A Tribe Called Quest Luck Of Lucien](https://www.youtube.com/watch?v=QdoYL5wmvYc)
-- [A Tribe Called Quest - After Hours](https://www.youtube.com/watch?v=nXy3MhxAGZk)
-- [A Tribe Called Quest-Youthful Expression](https://www.youtube.com/watch?v=8b_fY7PPDrg)
-- [Rhythm Devoted to the Art of Moving Butts](https://www.youtube.com/watch?v=-pc8H8Ozr6Y)
-- [A Tribe Called Quest - Ham N Eggs](https://www.youtube.com/watch?v=GmOcs7cmxd4)
-- [A Tribe Called Quest - Footprints Remix Official Audio ft CeeLo Green](https://www.youtube.com/watch?v=GLDoO3YOxiU)
-- [A Tribe Called Quest - Bonita Applebum Pharrell Williams Remix Digital Video](https://www.youtube.com/watch?v=aS_rkTi0D_M)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +71,5 @@ People's Instinctive Travels and the Paths of Rhythm was met with acclaim from p
 | Format         | Vinyl 2× LP Album Reissue Remastered (25th Anniversary, Gatefold, 180 gram) |
 | Label          | Jive |
 | Catalog Number | 88875172371 |
-| Notes | 25th anniversary edition with 3 bonus remixes.  Made in the EU.  Track B3 erroneously credits "Stevie Wonder" as performer but in fact the real performer is "Ramp".   Pressed By and Lacquer Cut At derived from matrix details.  Runouts are etched, except for -37846- which is stamped |
+| Notes | 25th anniversary edition with 3 bonus remixes.<br><br>Made in the EU.<br><br>Track B3 erroneously credits "Stevie Wonder" as performer but in fact the real performer is "Ramp". <br><br>Pressed By and Lacquer Cut At derived from matrix details.<br><br>Runouts are etched, except for -37846- which is stamped |
 | Discogs URL    | [A Tribe Called Quest - People's Instinctive Travels And The Paths Of Rhythm](https://www.discogs.com/release/7926540-A-Tribe-Called-Quest-Peoples-Instinctive-Travels-And-The-Paths-Of-Rhythm) |

@@ -4,6 +4,7 @@ artist_name: "The Orb"
 artist: "the-orb"
 album_name: "Abolition Of The Royal Familia (Guillotine Mixes)"
 date: 2021-05-10T03:53:37.000000Z
+release_date: "2021-04-09"
 release_id: "18203164"
 slug: "abolition-of-the-royal-familia-guillotine-mixes-18203164"
 hideSummary: true
@@ -28,34 +29,30 @@ styles: ["Ambient", "House"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Daze (David Harrow Remix) (BLM Remix23)
-2. Queen Of Hearts (Moody Boys Remix) (Duck Or Drown)
-3. Ital Orb (Gaudi Remix) (Iron Chair)
-4. Narcotics (David Harrow Remix 2) (Head Crusher)
-5. Hawk Kings (Lost Stoned Pandas Remix) (Pear Of Anguish)
-6. Honey Moonies (Paul Metamono Remix) (Burnt At The Stake)
-7. Slave Til U Die (Andy Falconer Remix) (Water Boarding)
-8. Weekend (Dom Beken & Kris Needs Remix) (The Judas Triangle)
-9. Pervitin (Violeta Vicci Remix) (The Saw Torture)
-10. AAA (Violeta Vicci Remix) (Hung, Drawn And Quartered)
-11. Shape Shifting Pt. 1 (Youth Bring In The Clown Remix)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Daze (David Harrow Remix) (BLM Remix23) |  |
+| A2 | Queen Of Hearts (Moody Boys Remix) (Duck Or Drown) |  |
+| A3 | Ital Orb (Gaudi Remix) (Iron Chair) |  |
+| B1 | Narcotics (David Harrow Remix 2) (Head Crusher) |  |
+| B2 | Hawk Kings (Lost Stoned Pandas Remix) (Pear Of Anguish) |  |
+| B3 | Honey Moonies (Paul Metamono Remix) (Burnt At The Stake) |  |
+| C1 | Slave Til U Die (Andy Falconer Remix) (Water Boarding) |  |
+| C2 | Weekend (Dom Beken & Kris Needs Remix) (The Judas Triangle) |  |
+| C3 | Pervitin (Violeta Vicci Remix) (The Saw Torture) |  |
+| D1 | AAA (Violeta Vicci Remix) (Hung, Drawn And Quartered) |  |
+| D2 | Shape Shifting Pt. 1 (Youth Bring In The Clown Remix) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/abolition-of-the-royal-familia-guillotine-mixes/1537418838" >}}<br>
 
 
-## Videos
-### Slave Till U Die No Matter What U Buy Lanse Aux Meadows Mix
-{{< youtube id="wZDik3CbH40" title="Slave Till U Die No Matter What U Buy Lanse Aux Meadows Mix" >}}<br>
-### More Videos
-
-- [The Orb - Ital Orb Iron Chair - Gaudi Remix Official Audio](https://www.youtube.com/watch?v=ymKDIqKxvCk)
-- [The Orb - AAA Hung Drawn and Quartered - Violeta Vicci Remix Official Audio](https://www.youtube.com/watch?v=BXD09ox8y70)
-- [The Orb - Pervitin Empire Culling  The Hemlock Stone Version](https://www.youtube.com/watch?v=llGe4H1hwqw)
-- [The Orb - Queen of Hearts Duck or Drown - Moody Boyz Remix Official Audio](https://www.youtube.com/watch?v=xibTj1SqTck)
-- [Orb  Abolition Of The Royal Familia Guillotine Mixes](https://www.youtube.com/watch?v=RuVSXb_dTJk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +63,5 @@ styles: ["Ambient", "House"]
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Cooking Vinyl |
 | Catalog Number | COOKLP784 |
-| Notes | The release came sealed in a polythene shrink-wrap, with a circular hype sticker on the front. A download card was included.  Made In The EU |
+| Notes | The release came sealed in a polythene shrink-wrap, with a circular hype sticker on the front. A download card was included.<br><br>Made In The EU |
 | Discogs URL    | [The Orb - Abolition Of The Royal Familia (Guillotine Mixes)](https://www.discogs.com/release/18203164-Orb-Abolition-Of-The-Royal-Familia-Guillotine-Mixes) |

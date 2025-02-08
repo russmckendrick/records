@@ -4,6 +4,7 @@ artist_name: "Jesus Jones"
 artist: "jesus-jones"
 album_name: "Liquidizer 2019"
 date: 2020-03-05T19:39:16.000000Z
+release_date: "1989"
 release_id: "14811949"
 slug: "liquidizer-2019-14811949"
 hideSummary: true
@@ -24,23 +25,23 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Move Mountains (3:18)
-2. All The Answers (3:59)
-3. Someone To Blame (4:00)
-4. Bring It On Down (7:37)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Move Mountains | 3:18 |
+| B | All The Answers | 3:59 |
+| C | Someone To Blame | 4:00 |
+| D | Bring It On Down | 7:37 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/liquidizer/697141413" >}}<br>
 
 
-## Videos
-### Jesus Jones - All The Answers
-{{< youtube id="ZiXm7kHLvt8" title="Jesus Jones - All The Answers" >}}<br>
-### More Videos
-
-- [Jesus Jones - Move Mountains 2019](https://www.youtube.com/watch?v=0lnKLH1lNfk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -51,5 +52,5 @@ styles: []
 | Format         | Vinyl 2× 7" 45 RPM Single Limited Edition Mispress (Silver/Grey (mispress variant) / Multicolour Grey) |
 | Label          | Speedowax Records |
 | Catalog Number | ATOMO183 |
-| Notes | 1st 7" is pressed on a Silver/Grey vinyl (mispress variant) only available through the Speedowax Records (Constantrotation) Web Store. Vinyl comes in clear plastic sleeves inside a white card outer sleeve, folded, printed with artwork & credits.  Thanks to: Richard, Anthony, Cubase, LH507, LH9349 on back of outer sleeve. |
+| Notes | 1st 7" is pressed on a Silver/Grey vinyl (mispress variant) only available through the Speedowax Records (Constantrotation) Web Store.<br>Vinyl comes in clear plastic sleeves inside a white card outer sleeve, folded, printed with artwork & credits.<br><br>Thanks to: Richard, Anthony, Cubase, LH507, LH9349 on back of outer sleeve. |
 | Discogs URL    | [Jesus Jones - Liquidizer 2019](https://www.discogs.com/release/14811949-Jesus-Jones-Liquidizer-2019) |

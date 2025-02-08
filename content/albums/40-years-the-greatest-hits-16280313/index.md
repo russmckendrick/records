@@ -4,6 +4,7 @@ artist_name: "Spandau Ballet"
 artist: "spandau-ballet"
 album_name: "40 Years: The Greatest Hits"
 date: 2020-11-27T17:47:00.000000Z
+release_date: "2020-11-27"
 release_id: "16280313"
 slug: "40-years-the-greatest-hits-16280313"
 hideSummary: true
@@ -19,34 +20,37 @@ styles: ["Pop Rock"]
 
 40 Years: The Greatest Hits is a greatest hits album by English new wave band Spandau Ballet, released in 2020. The collection includes every song issued as a single by the band to that point, although the original recording of "Instinction" from the 1982 Diamond album was chosen over the hit remix by Trevor Horn.
 Their 1990 recording of "The Boxer" made its debut here. Other tracks from their first five albums were also included along with several mixes of their hits that were released as 12-inch singles.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. To Cut A Long Story Short
-2. The Freeze
-3. Musclebound
-4. Chant No. 1
-5. Instinction
-6. Lifeline
-7. Gold
-8. True
-9. Only When You Leave
-10. I'll Fly for You
-11. Communication
-12. Highly Strung
-13. Round & Round
-14. Fight For Ourselves
-15. How Many Lies?
-16. Be Free With Your Love
-17. The Boxer
-18. This Is The Love
-19. Through the Barricades
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | To Cut A Long Story Short |  |
+| A2 | The Freeze |  |
+| A3 | Musclebound |  |
+| A4 | Chant No. 1 |  |
+| A5 | Instinction |  |
+| A6 | Lifeline |  |
+| B1 | Gold |  |
+| B2 | True |  |
+| B3 | Only When You Leave |  |
+| B4 | I'll Fly for You |  |
+| C1 | Communication |  |
+| C2 | Highly Strung |  |
+| C3 | Round & Round |  |
+| C4 | Fight For Ourselves |  |
+| C5 | How Many Lies? |  |
+| D1 | Be Free With Your Love |  |
+| D2 | The Boxer |  |
+| D3 | This Is The Love |  |
+| D4 | Through the Barricades |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/40-years-the-greatest-hits/1535024673" >}}<br>
-
 
 
 

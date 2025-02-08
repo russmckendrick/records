@@ -4,6 +4,7 @@ artist_name: "Teenage Fanclub"
 artist: "teenage-fanclub"
 album_name: "Thirteen"
 date: 2018-08-29T18:39:26.000000Z
+release_date: "1993-10-04"
 release_id: "12373131"
 slug: "thirteen-12373131"
 hideSummary: true
@@ -26,43 +27,35 @@ styles: ["Indie Rock"]
 ---
 
 Thirteen is the fourth album by Scottish alternative rock band Teenage Fanclub, released in 1993 on Creation Records in the UK and Geffen in the US. It was commonly believed at the time that it was named after the song "Thirteen" by Big Star, a band that has heavily influenced Teenage Fanclub. The self-produced album was poorly received by critics on its release. It peaked at number 14 on the UK Albums Chart.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Hang On (5:05)
-2. The Cabbage (2:56)
-3. Radio (2:56)
-4. Norman 3 (4:36)
-5. Song To The Cynic (3:36)
-6. 120 Mins (3:07)
-7. Escher (3:19)
-8. Commercial Alternative (2:40)
-9. Fear Of Flying (5:24)
-10. Tears Are Cool (3:48)
-11. Ret Liv Dead (2:09)
-12. Get Funky (1:23)
-13. Gene Clark (6:37)
-14. Country Song (3:58)
-15. Eyes Wide Open (1:59)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hang On | 5:05 |
+| A2 | The Cabbage | 2:56 |
+| A3 | Radio | 2:56 |
+| A4 | Norman 3 | 4:36 |
+| A5 | Song To The Cynic | 3:36 |
+| A6 | 120 Mins | 3:07 |
+| B1 | Escher | 3:19 |
+| B2 | Commercial Alternative | 2:40 |
+| B3 | Fear Of Flying | 5:24 |
+| B4 | Tears Are Cool | 3:48 |
+| B5 | Ret Liv Dead | 2:09 |
+| B6 | Get Funky | 1:23 |
+| B7 | Gene Clark | 6:37 |
+| C | Country Song | 3:58 |
+| D | Eyes Wide Open | 1:59 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/thirteen/1417070105" >}}<br>
 
 
-## Videos
-### Teenage Fanclub - Hang On
-{{< youtube id="Min5jvGu9sQ" title="Teenage Fanclub - Hang On" >}}<br>
-### More Videos
-
-- [Fear of Flying](https://www.youtube.com/watch?v=x46fz5bwBz4)
-- [The Cabbage](https://www.youtube.com/watch?v=gFHVAKxuMXA)
-- [Gene Clark](https://www.youtube.com/watch?v=7dEDXC_wwhY)
-- [Song to the Cynic](https://www.youtube.com/watch?v=dRE6NVcb9x8)
-- [120 Mins](https://www.youtube.com/watch?v=rbMCnIRmVYI)
-- [Teenage Fanclub - Norman 3](https://www.youtube.com/watch?v=F6FIxUdlABA)
-- [Get Funky](https://www.youtube.com/watch?v=Yw9lcN3ujLg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +67,5 @@ Thirteen is the fourth album by Scottish alternative rock band Teenage Fanclub, 
 | Format         | Vinyl LP Album Reissue Remastered, Vinyl 7" 45 RPM Limited Edition |
 | Label          | Sony Music |
 | Catalog Number | 19075837061 |
-| Notes | Recorded at Ca Va Workshops, Glasgow and Revolution Studios, Cheadle Hulme, Cheshire. Mixed at Revolution Studios. Mastered at the Hit Factory. Remastered at Abbey Road Studio Joe MacAlinden appears courtesy of [l944]/[l144867]. John McCusker and Iain MacDonald appear courtesy of The [a1183460] and [url=https://www.discogs.com/label/120387-Temple-Records-2]Temple Records[/url]. An initial run of copies preordered from official webstore was signed by band members'.  Includes a colour inner sleeve printed with credits and photographs. Includes mp3 download card. Limited edition 7" included with initial pressing. Track times are not printed on the release itself, 7" excepted. |
+| Notes | Recorded at Ca Va Workshops, Glasgow and Revolution Studios, Cheadle Hulme, Cheshire.<br>Mixed at Revolution Studios.<br>Mastered at the Hit Factory.<br>Remastered at Abbey Road Studio<br>Joe MacAlinden appears courtesy of [l944]/[l144867].<br>John McCusker and Iain MacDonald appear courtesy of The [a1183460] and [url=https://www.discogs.com/label/120387-Temple-Records-2]Temple Records[/url].<br>An initial run of copies preordered from official webstore was signed by band members'.<br><br>Includes a colour inner sleeve printed with credits and photographs.<br>Includes mp3 download card.<br>Limited edition 7" included with initial pressing.<br>Track times are not printed on the release itself, 7" excepted. |
 | Discogs URL    | [Teenage Fanclub - Thirteen](https://www.discogs.com/release/12373131-Teenage-Fanclub-Thirteen) |

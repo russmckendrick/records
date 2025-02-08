@@ -4,6 +4,7 @@ artist_name: "Steely Dan"
 artist: "steely-dan"
 album_name: "Aja"
 date: 2023-09-29T06:39:01.000000Z
+release_date: "1993-12-19"
 release_id: "28423303"
 slug: "aja-28423303"
 hideSummary: true
@@ -29,34 +30,27 @@ Aja (, pronounced "Asia") is the sixth studio album by the American rock band St
 The album peaked at number three on the Billboard Top LPs & Tape chart, and number five on the UK Albums Chart, ultimately becoming Steely Dan's most commercially successful release. It spawned the hit singles "Peg", "Deacon Blues", and "Josie". At the 20th Annual Grammy Awards, Aja won Best Engineered Recording – Non-Classical, and was nominated for Album of the Year and Best Pop Performance by a Duo or Group with Vocals. It has appeared on many retrospective "greatest albums" lists, with critics and audiophiles applauding the album's high production quality. In 2010, the album was added to the National Recording Registry by Library of Congress for being "culturally, historically, or aesthetically significant".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Black Cow (5:07)
-2. Aja (7:56)
-3. Deacon Blues (7:26)
-4. Peg (3:58)
-5. Home At Last (5:31)
-6. I Got The News (5:03)
-7. Josie (4:30)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Black Cow | 5:07 |
+| A2 | Aja | 7:56 |
+| A3 | Deacon Blues | 7:26 |
+| B1 | Peg | 3:58 |
+| B2 | Home At Last | 5:31 |
+| B3 | I Got The News | 5:03 |
+| B4 | Josie | 4:30 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/citizen-steely-dan-1972-1980/1446019239" >}}<br>
 
 
-## Videos
-### Black Cow
-{{< youtube id="XRj0Ohg-y1A" title="Black Cow" >}}<br>
-### More Videos
-
-- [Aja](https://www.youtube.com/watch?v=CYZwVf07tHA)
-- [Deacon Blues](https://www.youtube.com/watch?v=OyCDicG0tDs)
-- [Peg](https://www.youtube.com/watch?v=u_pt3khMRFs)
-- [Home At Last](https://www.youtube.com/watch?v=Hx5ZlTyzU-k)
-- [I Got The News](https://www.youtube.com/watch?v=T6DSoyAjkus)
-- [Josie](https://www.youtube.com/watch?v=qwZ_u_UKb0Q)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +62,5 @@ The album peaked at number three on the Billboard Top LPs & Tape chart, and numb
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180gms) |
 | Label          | Geffen Records |
 | Catalog Number | B0035028-01 |
-| Notes | A Geffen Records release ℗ 1977 © 2023 UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404 U.S.A. Distributed by Universal Music Enterprises, a Division of UMG Recordings, Inc. All rights reserved. umgcatalog.com B0035028-01.  The format of the runouts is as follows: Variant 1: '266344E1 1698750' and '266344E2 1688470' are stamped; everything else is etched Variant 2: '266344E1 1698750' and '266344E2 1707970' are stamped; everything else is etched Variant 3: '266344E1 1655685' and '266344E2 1684364' are stamped; everything else is etched |
+| Notes | A Geffen Records release ℗ 1977 © 2023 UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404 U.S.A. Distributed by Universal Music Enterprises, a Division of UMG Recordings, Inc. All rights reserved. umgcatalog.com B0035028-01.<br><br>The format of the runouts is as follows:<br>Variant 1: '266344E1 1698750' and '266344E2 1688470' are stamped; everything else is etched<br>Variant 2: '266344E1 1698750' and '266344E2 1707970' are stamped; everything else is etched<br>Variant 3: '266344E1 1655685' and '266344E2 1684364' are stamped; everything else is etched |
 | Discogs URL    | [Steely Dan - Aja](https://www.discogs.com/release/28423303-Steely-Dan-Aja) |

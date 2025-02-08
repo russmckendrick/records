@@ -4,6 +4,7 @@ artist_name: "Fun Boy Three"
 artist: "fun-boy-three"
 album_name: "The Fun Boy Three"
 date: 2023-08-06T07:39:39.000000Z
+release_date: "2023-08-04"
 release_id: "27872178"
 slug: "the-fun-boy-three-27872178"
 hideSummary: true
@@ -22,44 +23,30 @@ styles: ["Pop Rock", "New Wave", "Ska"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Sanctuary
-2. Way On Down
-3. The Lunatics (Have Taken Over The Asylum)
-4. Life In General (Lewe In Algemeen)
-5. Faith, Hope And Charity
-6. Funrama 2
-7. Best of Luck Mate
-8. T'Aint What You Do (It's The Way That You Do It)
-9. The Telephone Always Rings
-10. I Don't Believe It
-11. Alone
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sanctuary |  |
+| A2 | Way On Down |  |
+| A3 | The Lunatics (Have Taken Over The Asylum) |  |
+| A4 | Life In General (Lewe In Algemeen) |  |
+| A5 | Faith, Hope And Charity |  |
+| A6 | Funrama 2 |  |
+| B1 | Best of Luck Mate |  |
+| B2 | T'Aint What You Do (It's The Way That You Do It) |  |
+| B3 | The Telephone Always Rings |  |
+| B4 | I Don't Believe It |  |
+| B5 | Alone |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-complete-fun-boy-three/1660766808" >}}<br>
 
 
-## Videos
-### Fun Boy Three - The Lunatics Have Taken Over The Asylum Official Music Video
-{{< youtube id="on-y9Pv-CJA" title="Fun Boy Three - The Lunatics Have Taken Over The Asylum Official Music Video" >}}<br>
-### More Videos
-
-- [Funrama 2](https://www.youtube.com/watch?v=sSD93kA2xPU)
-- [The FUN BOY THREE  The Fun Boy Three  1982  Full album Vinyl](https://www.youtube.com/watch?v=OhmqmCytUPU)
-- [faith hope  charity](https://www.youtube.com/watch?v=ASx_aPbVJDM)
-- [BANANARAMA Ft FB3-It Aint What You Do dgms FB3 album mix](https://www.youtube.com/watch?v=P8JBgqrW18E)
-- [Fun Boy Three - The Lunatics Have Taken Over the Asylum](https://www.youtube.com/watch?v=7aItpjF5vXc)
-- [Fun Boy Three It Aint What You Do Its The Way That You Do It](https://www.youtube.com/watch?v=4o0r9unT4L4)
-- [Fun Boy Three - It Aint What You Do Its The Way That You Do It](https://www.youtube.com/watch?v=0_kjctTbMHA)
-- [Fun Boy Three - The Lunatics Have Taken Over The Asylum](https://www.youtube.com/watch?v=on-y9Pv-CJA)
-- [Fun Boy Three - The Telephone Always Rings Official Video](https://www.youtube.com/watch?v=j5nH3iYfYh8)
-- [Fun Boy Three - best of luck mate](https://www.youtube.com/watch?v=c1aNpGFtgWA)
-- [Fun Boy Three - Live 1983 Full Performance](https://www.youtube.com/watch?v=fyc5jq5a2PE)
-- [Fun Boy Three - way on down](https://www.youtube.com/watch?v=hYuD4W-uEFo)
-- [Fun Boy Three - life in general](https://www.youtube.com/watch?v=eCSB7vyIqk0)
-- [Fun Boy Three - the end](https://www.youtube.com/watch?v=JoKiePSYWb4)
-- [Fun Boy Three - summertime](https://www.youtube.com/watch?v=eoJDXI0HPjA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +57,5 @@ styles: ["Pop Rock", "New Wave", "Ska"]
 | Format         | Vinyl LP Album Reissue Remastered (Red, Translucent, 180g) |
 | Label          | Chrysalis Catalogue |
 | Catalog Number | CRV1426 |
-| Notes | With hype sticker: FUN BOY THREE - 180gm TRANSLUCENT RED  Features the hits: THE LUNATICS (Have Taken Over The Asylum), THE TELEPHONE ALWAYS RINGS and T'AINT WHAT YOU DO (It's The Way That You Do It) |
+| Notes | With hype sticker:<br>FUN BOY THREE - 180gm TRANSLUCENT RED <br>Features the hits: THE LUNATICS (Have Taken Over The Asylum), THE TELEPHONE ALWAYS RINGS and T'AINT WHAT YOU DO (It's The Way That You Do It) |
 | Discogs URL    | [Fun Boy Three - The Fun Boy Three](https://www.discogs.com/release/27872178-Fun-Boy-Three-The-Fun-Boy-Three) |

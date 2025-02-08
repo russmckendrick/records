@@ -4,6 +4,7 @@ artist_name: "The Soundtrack Of Our Lives"
 artist: "the-soundtrack-of-our-lives"
 album_name: "Origin Vol. 1"
 date: 2020-07-06T12:40:06.000000Z
+release_date: "2024-03-10"
 release_id: "15417224"
 slug: "origin-vol-1-15417224"
 hideSummary: true
@@ -22,43 +23,38 @@ The song "Bigtime" was used as the official theme song for WrestleMania 21 and w
 Singles from the album are "Bigtime", "Heading For a Breakdown" and "Believe I've Found".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Believe I've Found
-2. Transcendental Suicide
-3. Bigtime
-4. Heading For A Breakdown
-5. Mother One Track Mind
-6. Midnight Children
-7. Lone Summer
-8. Royal Explosion (Part II)
-9. Wheels Of Boredom
-10. Borderline
-11. Song For The Others
-12. Age Of No Reply
-13. Bonus Side
-14. To Somewhere Else
-15. World Bank
-16. Sister Surround
-17. Love Song #3105
-18. A Room Without A View
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Believe I've Found |  |
+| A2 | Transcendental Suicide |  |
+| A3 | Bigtime |  |
+| A4 | Heading For A Breakdown |  |
+| B1 | Mother One Track Mind |  |
+| B2 | Midnight Children |  |
+| B3 | Lone Summer |  |
+| B4 | Royal Explosion (Part II) |  |
+| C1 | Wheels Of Boredom |  |
+| C2 | Borderline |  |
+| C3 | Song For The Others |  |
+| C4 | Age Of No Reply |  |
+|  | Bonus Side |  |
+| D1 | To Somewhere Else |  |
+| D2 | World Bank |  |
+| D3 | Sister Surround |  |
+| D4 | Love Song #3105 |  |
+| D5 | A Room Without A View |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/origins-original-soundtrack-vol-1-ep/1735235397" >}}<br>
 
 
-## Videos
-### The Soundtrack of Our Lives - Bigtime
-{{< youtube id="CtjtlcJk2IM" title="The Soundtrack of Our Lives - Bigtime" >}}<br>
-### More Videos
-
-- [The Soundtrack of Our Lives - Transcendental Suicide](https://www.youtube.com/watch?v=oga9lQJKDJE)
-- [The Soundtrack of Our Lives - Bigtime](https://www.youtube.com/watch?v=CtjtlcJk2IM)
-- [The Soundtrack of Our Lives - Bigtime](https://www.youtube.com/watch?v=CtjtlcJk2IM)
-- [The Soundtrack of Our Lives - Transcendental Suicide](https://www.youtube.com/watch?v=oga9lQJKDJE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +66,5 @@ Singles from the album are "Bigtime", "Heading For a Breakdown" and "Believe I'v
 | Format         | Vinyl 2× LP Limited Edition Numbered Reissue Remastered Stereo (Gold, Expanded) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2646 |
-| Notes | Limited Edition of 1500 Gold Coloured Copies Individually Numbered Includes Insert Contains 5 Bonus Tracks 180 gram audiophile vinyl  Gatefold cover |
+| Notes | Limited Edition of 1500 Gold Coloured Copies<br>Individually Numbered<br>Includes Insert<br>Contains 5 Bonus Tracks<br>180 gram audiophile vinyl<br><br>Gatefold cover |
 | Discogs URL    | [The Soundtrack Of Our Lives - Origin Vol. 1](https://www.discogs.com/release/15417224-The-Soundtrack-Of-Our-Lives-Origin-Vol-1) |

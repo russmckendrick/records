@@ -4,6 +4,7 @@ artist_name: "Ozzy Osbourne"
 artist: "ozzy-osbourne"
 album_name: "Memoirs Of A Madman"
 date: 2016-05-09T16:30:08.000000Z
+release_date: "2014-10-14"
 release_id: "6175350"
 slug: "memoirs-of-a-madman-6175350"
 hideSummary: true
@@ -22,44 +23,37 @@ styles: ["Hard Rock", "Heavy Metal"]
 ---
 
 Memoirs of a Madman (French: Mémoires d'un fou) is an autobiographical text written by Gustave Flaubert in 1838.  The next year, Flaubert dedicated it to his friend, Alfred Le Poittevin. The manuscript changed hands twice before being finally published in La Revue Blanche from December 1900 to February 1901, some twenty years after Flaubert's death.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Crazy Train
-2. Mr. Crowley
-3. Flying High Again
-4. Over The Mountain
-5. Bark At The Moon
-6. The Ultimate Sin
-7. Miracle Man
-8. No More Tears (Edit)
-9. Mama, I'm Coming Home
-10. Road To Nowhere
-11. Perry Mason
-12. I Just Want You
-13. Gets Me Through
-14. Changes
-15. I Don't Wanna Stop
-16. Let Me Hear You Scream
-17. Paranoid (Live)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Crazy Train |  |
+| A2 | Mr. Crowley |  |
+| A3 | Flying High Again |  |
+| A4 | Over The Mountain |  |
+| B1 | Bark At The Moon |  |
+| B2 | The Ultimate Sin |  |
+| B3 | Miracle Man |  |
+| B4 | No More Tears (Edit) |  |
+| C1 | Mama, I'm Coming Home |  |
+| C2 | Road To Nowhere |  |
+| C3 | Perry Mason |  |
+| C4 | I Just Want You |  |
+| D1 | Gets Me Through |  |
+| D2 | Changes |  |
+| D3 | I Don't Wanna Stop |  |
+| D4 | Let Me Hear You Scream |  |
+| D5 | Paranoid (Live) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/memoirs-of-a-madman/911604105" >}}<br>
 
 
-## Videos
-### Ozzy Osbourne Paranoid Liveyerdenizplakcom İstanbul Kadıköy
-{{< youtube id="qxcruo00h4U" title="Ozzy Osbourne Paranoid Liveyerdenizplakcom İstanbul Kadıköy" >}}<br>
-### More Videos
-
-- [Ozzy Osbourne Paranoid Liveyerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=qxcruo00h4U)
-- [OZZY OSBOURNE - No More Tears](https://www.youtube.com/watch?v=CprfjfN5PRs)
-- [Mr Crowley](https://www.youtube.com/watch?v=4Rtq63cdTro)
-- [Road to Nowhere](https://www.youtube.com/watch?v=9I53DlflmlI)
-- [Paranoid Live at The Roundhouse London England - 2010](https://www.youtube.com/watch?v=uUsqxqRCuig)
-- [OZZY OSBOURNE - Dreamer](https://www.youtube.com/watch?v=LCCiwPEdEpg)
 
 ## Release Images
 {{< imageGrid >}}

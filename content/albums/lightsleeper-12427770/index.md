@@ -1,16 +1,17 @@
 ---
-title: "Neil & Liam Finn - Lightsleeper"
-artist_name: "Neil & Liam Finn"
+title: "Neil  Liam Finn - Lightsleeper"
+artist_name: "Neil  Liam Finn"
 artist: "neil-liam-finn"
 album_name: "Lightsleeper"
 date: 2018-08-25T08:50:37.000000Z
+release_date: "2018-08-24"
 release_id: "12427770"
 slug: "lightsleeper-12427770"
 hideSummary: true
 cover:
     image: "lightsleeper-12427770.jpg"
-    alt: "Lightsleeper by Neil & Liam Finn"
-    caption: "Lightsleeper by Neil & Liam Finn"
+    alt: "Lightsleeper by Neil  Liam Finn"
+    caption: "Lightsleeper by Neil  Liam Finn"
 additional_images:
     - "https://i.discogs.com/4LgTJMVX2Xf08NHHh9i51WXT2PJ3wxHXQCGz-pCBGKY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NzcwLTE1NjMzMDEx/MDItMTExNi5qcGVn.jpeg"
     - "https://i.discogs.com/8ZvlFSREodPYnkutJSyI2RxT68-nlUWUbgFqO_P09Gc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NzcwLTE1NjMzMDEx/MDItMzM3Ny5qcGVn.jpeg"
@@ -32,52 +33,31 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Prelude - Island Of Peace
-2. Meet Me In The Air
-3. Where's My Room
-4. Listen
-5. Any Other Way
-6. Back To Life
-7. Anger Plays A Part
-8. Troubles
-9. Hiding Place
-10. Ghosts
-11. We Know What It Means
-12. Hold Her Close
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Prelude - Island Of Peace |  |
+| A2 | Meet Me In The Air |  |
+| A3 | Where's My Room |  |
+| B1 | Listen |  |
+| B2 | Any Other Way |  |
+| B3 | Back To Life |  |
+| C1 | Anger Plays A Part |  |
+| C2 | Troubles |  |
+| C3 | Hiding Place |  |
+| D1 | Ghosts |  |
+| D2 | We Know What It Means |  |
+| D3 | Hold Her Close |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lightsleeper/1389944005" >}}<br>
 
 
-## Videos
-### Prelude - Island Of Peace
-{{< youtube id="r8fphdbMffI" title="Prelude - Island Of Peace" >}}<br>
-### More Videos
-
-- [Neil  Liam Finn - Meet Me In The Air official video](https://www.youtube.com/watch?v=nibGWAjOpdM)
-- [Neil  Liam Finn - Wheres My Room](https://www.youtube.com/watch?v=gaG6FwUtlFc)
-- [Listen](https://www.youtube.com/watch?v=U_1le07pVsM)
-- [Any Other Way](https://www.youtube.com/watch?v=vqBwxip-bzs)
-- [Neil  Liam Finn - Back To Life Official Video](https://www.youtube.com/watch?v=4z8iOoVEAUo)
-- [Hiding Place](https://www.youtube.com/watch?v=Gp-GSO9iJsQ)
-- [Neil  Liam Finn - Ghosts](https://www.youtube.com/watch?v=6_9qYRglhU4)
-- [We Know What It Means](https://www.youtube.com/watch?v=E-NcJIsabec)
-- [Neil  Liam Finn -  Hold Her Close](https://www.youtube.com/watch?v=Qq-MAHDilxk)
-- [Neil  Liam Finn - Lightsleeper](https://www.youtube.com/watch?v=IQRnK9JZLuE)
-- [Prelude - Island Of Peace](https://www.youtube.com/watch?v=r8fphdbMffI)
-- [Neil  Liam Finn - Meet Me In The Air official video](https://www.youtube.com/watch?v=nibGWAjOpdM)
-- [Neil  Liam Finn - Wheres My Room](https://www.youtube.com/watch?v=gaG6FwUtlFc)
-- [Listen](https://www.youtube.com/watch?v=U_1le07pVsM)
-- [Any Other Way](https://www.youtube.com/watch?v=vqBwxip-bzs)
-- [Neil  Liam Finn - Back To Life Official Video](https://www.youtube.com/watch?v=4z8iOoVEAUo)
-- [Hiding Place](https://www.youtube.com/watch?v=Gp-GSO9iJsQ)
-- [Neil  Liam Finn - Ghosts](https://www.youtube.com/watch?v=6_9qYRglhU4)
-- [We Know What It Means](https://www.youtube.com/watch?v=E-NcJIsabec)
-- [Neil  Liam Finn -  Hold Her Close](https://www.youtube.com/watch?v=Qq-MAHDilxk)
-- [Neil  Liam Finn - Lightsleeper](https://www.youtube.com/watch?v=IQRnK9JZLuE)
-- [Neil  Liam Finn - Anger Plays A Part Official Video](https://www.youtube.com/watch?v=36ockEzh4Hw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -88,5 +68,5 @@ styles: []
 | Format         | Vinyl 2× LP Album |
 | Label          | Lester Records |
 | Catalog Number | LRNFLF0017LP |
-| Notes | Additional recordings at Thonic Peenith studios LA and Studio C, Greece.  Neil & Sharon Finn published by Kobalt Publishing, Liam Finn published by Mushroom Publishing  ℗ & © 2018 Lester Records Ltd under exclusive license to Inertia Music / [PIAS]  All matrix details are etched. Mastered at Takt = Plated at. |
-| Discogs URL    | [Neil & Liam Finn - Lightsleeper](https://www.discogs.com/release/12427770-Neil-Liam-Finn-Lightsleeper) |
+| Notes | Additional recordings at Thonic Peenith studios LA and Studio C, Greece.<br><br>Neil & Sharon Finn published by Kobalt Publishing,<br>Liam Finn published by Mushroom Publishing<br><br>℗ & © 2018 Lester Records Ltd under exclusive license to Inertia Music / [PIAS]<br><br>All matrix details are etched.<br>Mastered at Takt = Plated at. |
+| Discogs URL    | [Neil  Liam Finn - Lightsleeper](https://www.discogs.com/release/12427770-Neil-Liam-Finn-Lightsleeper) |

@@ -4,6 +4,7 @@ artist_name: "Mansun"
 artist: "mansun"
 album_name: "Before The Grey Lantern"
 date: 2023-05-04T11:16:20.000000Z
+release_date: "2017-08-25"
 release_id: "26854388"
 slug: "before-the-grey-lantern-26854388"
 hideSummary: true
@@ -23,26 +24,31 @@ styles: ["Indie Rock", "Psychedelic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Take It Easy Chicken
-2. Flourella
-3. The Greatest Pain
-4. The Edge
-5. Rebel Without A Quilt
-6. No One Knows Us
-7. The Holy Blood And The Holy Grail
-8. Skin Up Pin Up
-9. Ski Jump Nose
-10. Things Keep Falling Off Buildings
-11. Lemonade Secret Drinker
-12. Drastic Sturgeon
-13. Moronica
-14. The Most To Gain
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Take It Easy Chicken |  |
+| A2 | Flourella |  |
+| A3 | The Greatest Pain |  |
+| A4 | The Edge |  |
+| A5 | Rebel Without A Quilt |  |
+| A6 | No One Knows Us |  |
+| A7 | The Holy Blood And The Holy Grail |  |
+| B1 | Skin Up Pin Up |  |
+| B2 | Ski Jump Nose |  |
+| B3 | Things Keep Falling Off Buildings |  |
+| B4 | Lemonade Secret Drinker |  |
+| B5 | Drastic Sturgeon |  |
+| B6 | Moronica |  |
+| B7 | The Most To Gain |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern-collectors-edition/1770502521" >}}<br>
-
 
 
 
@@ -55,5 +61,5 @@ styles: ["Indie Rock", "Psychedelic Rock"]
 | Format         | Vinyl LP Record Store Day Compilation |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1201 |
-| Notes | Record Store Day 2023 A collection of Singes & B-Sides Made in Germany Track A1: 1995 Original Self-Released Version Track A5: 2018 Remaster |
+| Notes | Record Store Day 2023<br>A collection of Singes & B-Sides<br>Made in Germany<br>Track A1: 1995 Original Self-Released Version<br>Track A5: 2018 Remaster |
 | Discogs URL    | [Mansun - Before The Grey Lantern](https://www.discogs.com/release/26854388-Mansun-Before-The-Grey-Lantern) |

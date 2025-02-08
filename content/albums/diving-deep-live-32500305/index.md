@@ -4,6 +4,7 @@ artist_name: "Tori Amos"
 artist: "tori-amos"
 album_name: "Diving Deep Live"
 date: 2024-12-07T08:40:16.000000Z
+release_date: "2024-12-06"
 release_id: "32500305"
 slug: "diving-deep-live-32500305"
 hideSummary: true
@@ -32,27 +33,30 @@ styles: ["Alternative Rock"]
 Diving Deep Live is the 6th live album by American singer-songwriter Tori Amos. It was released on December 6, 2024, through Decca Records. The album was recorded on Amos' Ocean to Ocean Tour throughout 2022 and 2023 backed by bassist and "musical director" Jon Evans and drummer Ash Soan. The standard LP contains twelve tracks, while CD and digital releases, under the name Diving Deeper, feature four bonus tracks. "Cornflake Girl" was released as the album's single on November 1, 2024.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. God
-2. Ocean To Ocean
-3. Amber Waves
-4. Daisy Dead Petals
-5. Pandora's Aquarium
-6. Silent All These Years
-7. Ruby Through The Looking Glass
-8. Climb
-9. Spring Haze
-10. Code Red
-11. Cornflake Girl
-12. Lady In Blue
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | God |  |
+| A2 | Ocean To Ocean |  |
+| A3 | Amber Waves |  |
+| A4 | Daisy Dead Petals |  |
+| B1 | Pandora's Aquarium |  |
+| B2 | Silent All These Years |  |
+| B3 | Ruby Through The Looking Glass |  |
+| C1 | Climb |  |
+| C2 | Spring Haze |  |
+| D1 | Code Red |  |
+| D2 | Cornflake Girl |  |
+| D3 | Lady In Blue |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/diving-deep-live/1773966331" >}}<br>
-
 
 
 
@@ -66,5 +70,5 @@ Diving Deep Live is the 6th live album by American singer-songwriter Tori Amos. 
 | Format         | Vinyl 2× LP Limited Edition (Turquoise) |
 | Label          | Decca |
 | Catalog Number | 7500639 |
-| Notes | Ltd Edition Coloured Vinyl with signed artwork insert In a Gatefold sleeve Vinyl Mastered by Miles Showell at Abbey Road Studios |
+| Notes | Ltd Edition Coloured Vinyl with signed artwork insert<br>In a Gatefold sleeve<br>Vinyl Mastered by Miles Showell at Abbey Road Studios |
 | Discogs URL    | [Tori Amos - Diving Deep Live](https://www.discogs.com/release/32500305-Tori-Amos-Diving-Deep-Live) |

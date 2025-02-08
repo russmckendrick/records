@@ -4,6 +4,7 @@ artist_name: "The Brand New Heavies"
 artist: "the-brand-new-heavies"
 album_name: "Brother Sister"
 date: 2024-10-03T10:59:47.000000Z
+release_date: "1990-01-01"
 release_id: "31848254"
 slug: "brother-sister-31848254"
 hideSummary: true
@@ -26,58 +27,38 @@ Brother Sister is an album by British acid jazz and funk group the Brand New Hea
 Brother Sister was lead singer N'Dea Davenport's last album with the Brand New Heavies before leaving to complete her solo album (which she had put on hold to join the Heavies). She returned to join the band ten years later.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Have A Good Time
-2. Brother Sister
-3. Dream On Dreamer
-4. Midnight At The Oasis 
-5. Back To Love
-6. Ten Ton Take
-7. Mind Trips
-8. Spend Some Time
-9. Keep Together
-10. Snake Hips
-11. Fake
-12. People Giving Love
-13. World Keeps Spinning
-14. Forever
-15. Day Break
-16. Los Burritos 
-17. Baby Don’t Use Me
-18. Touch Of Your Love
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Have A Good Time |  |
+| A2 | Brother Sister |  |
+| A3 | Dream On Dreamer |  |
+| A4 | Midnight At The Oasis  |  |
+| B1 | Back To Love |  |
+| B2 | Ten Ton Take |  |
+| B3 | Mind Trips |  |
+| B4 | Spend Some Time |  |
+| C1 | Keep Together |  |
+| C2 | Snake Hips |  |
+| C3 | Fake |  |
+| C4 | People Giving Love |  |
+| C5 | World Keeps Spinning |  |
+| D1 | Forever |  |
+| D2 | Day Break |  |
+| D3 | Los Burritos  |  |
+| D4 | Baby Don’t Use Me |  |
+| D5 | Touch Of Your Love |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/brother-sister/1320056852" >}}<br>
 
 
-## Videos
-### Have A Good Time  -- The Brand New Heavies Brother Sister
-{{< youtube id="t_Nl9R7zYt8" title="Have A Good Time  -- The Brand New Heavies Brother Sister" >}}<br>
-### More Videos
-
-- [The Brand New Heavies - Midnight At The Oasis](https://www.youtube.com/watch?v=XMO84Twq9Ow)
-- [The Brand New Heavies - Dream On Dreamer](https://www.youtube.com/watch?v=FB8nIGKbpJY)
-- [the brand new heavies worlds keep spinning](https://www.youtube.com/watch?v=pH13TxvvPlk)
-- [the brand new heavies spend some time](https://www.youtube.com/watch?v=SYJAqS2t9Ds)
-- [the brand new heavies snake hips](https://www.youtube.com/watch?v=XaMehp4m9Xc)
-- [the brand new heavies dream on dreamer](https://www.youtube.com/watch?v=DuEDJN1cz8g)
-- [the brand new heavies ten ton take](https://www.youtube.com/watch?v=7GmzpAaLocs)
-- [the brand new heavies people giving love](https://www.youtube.com/watch?v=GRvP5MXBWto)
-- [the brand new heavies midnight at the oasis](https://www.youtube.com/watch?v=hetUaULHWgk)
-- [the brand new heavies mind trips](https://www.youtube.com/watch?v=OGOSPDL2CfQ)
-- [the brand new heavies forever](https://www.youtube.com/watch?v=Y_wpDlRQsrI)
-- [the brand new heavies have a good time](https://www.youtube.com/watch?v=rM_ck_HyMBY)
-- [the brand new heavies back to love](https://www.youtube.com/watch?v=mPPm973RLGk)
-- [the brand new heavies day break](https://www.youtube.com/watch?v=vBI3pvYKU2s)
-- [the brand new heavies keep together](https://www.youtube.com/watch?v=MJmIQRSXd98)
-- [the brand new heavies brother sister](https://www.youtube.com/watch?v=qfxw-ICYCFc)
-- [the brand new heavies fake](https://www.youtube.com/watch?v=qjw1SeD5omo)
-- [The Brand New Heavies - Mind Trips](https://www.youtube.com/watch?v=_ddKjtaezYQ)
-- [The Brand New Heavies - Forever](https://www.youtube.com/watch?v=QAlh807FrMw)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "Eels"
 artist: "eels"
 album_name: "Earth To Dora (She Belongs With The Gentle Souls)"
 date: 2020-11-01T10:17:15.000000Z
+release_date: ""
 release_id: "16136698"
 slug: "earth-to-dora-she-belongs-with-the-gentle-souls-16136698"
 hideSummary: true
@@ -23,32 +24,31 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Anything For Boo	
-2. Are We Alright Again	
-3. Who You Say You Are	
-4. Earth To Dora	
-5. Dark And Dramatic	
-6. Are You Fucking Your Ex	
-7. The Gentle Souls	
-8. Of Unsent Letters	
-9. I Got Hurt	
-10. OK
-11. Baby Let's Make It Real	
-12. Waking Up	
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Anything For Boo	 |  |
+| A2 | Are We Alright Again	 |  |
+| A3 | Who You Say You Are	 |  |
+| A4 | Earth To Dora	 |  |
+| A5 | Dark And Dramatic	 |  |
+| A6 | Are You Fucking Your Ex	 |  |
+| B1 | The Gentle Souls	 |  |
+| B2 | Of Unsent Letters	 |  |
+| B3 | I Got Hurt	 |  |
+| B4 | OK |  |
+| B5 | Baby Let's Make It Real	 |  |
+| B6 | Waking Up	 |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### EELS - Anything For Boo - official lyric video
-{{< youtube id="tfsby3Rh8r0" title="EELS - Anything For Boo - official lyric video" >}}<br>
-### More Videos
 
-- [EELS - Are We Alright Again  - official audio](https://www.youtube.com/watch?v=xGjAA8Q9VG8)
-- [EELS - Who You Say You Are - official lyric video](https://www.youtube.com/watch?v=UmUSivxidEw)
-- [EELS - Baby Lets Make It Real - official lyric video](https://www.youtube.com/watch?v=VXuBaaxH_7U)
-- [EELS - Are We Alright Again - official video](https://www.youtube.com/watch?v=ERdHNn1tggA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,5 +59,5 @@ styles: []
 | Format         | Vinyl LP Album Stereo |
 | Label          | E Works Records |
 | Catalog Number | EWORKS116LP |
-| Notes | Gatefold sleeve holds record in a printed, colored cardboard inner sleeve.  Tracks A1, A2, B5: Satan's Cock-A-Doodle Do/Almo Music ASCAP/Koool G Murder Music ASCAP Tracks B3, B6: Satan's Cock-A- Doodle Do/Almo Music ASCAP Tracks A4, A5, B2: Satan's Cock-A- Doodle Do/Almo Music ASCAP/Chetland Music BMI Tracks A3, A6, B4: Satan's Cock-A- Doodle Do/Almo Music ASCAP/Questionable Notability Music ASCAP Track B1: Satan's Cock-A- Doodle Do/Almo Music ASCAP/Chetland Music BMI/Koool G Murder Music ASCAP |
+| Notes | Gatefold sleeve holds record in a printed, colored cardboard inner sleeve.<br><br>Tracks A1, A2, B5: Satan's Cock-A-Doodle Do/Almo Music ASCAP/Koool G Murder Music ASCAP<br>Tracks B3, B6: Satan's Cock-A- Doodle Do/Almo Music ASCAP<br>Tracks A4, A5, B2: Satan's Cock-A- Doodle Do/Almo Music ASCAP/Chetland Music BMI<br>Tracks A3, A6, B4: Satan's Cock-A- Doodle Do/Almo Music ASCAP/Questionable Notability Music ASCAP<br>Track B1: Satan's Cock-A- Doodle Do/Almo Music ASCAP/Chetland Music BMI/Koool G Murder Music ASCAP |
 | Discogs URL    | [Eels - Earth To Dora (She Belongs With The Gentle Souls)](https://www.discogs.com/release/16136698-Eels-Earth-To-Dora-She-Belongs-With-The-Gentle-Souls) |

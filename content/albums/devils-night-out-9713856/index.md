@@ -4,6 +4,7 @@ artist_name: "The Mighty Mighty Bosstones"
 artist: "the-mighty-mighty-bosstones"
 album_name: "Devils Night Out"
 date: 2020-08-15T10:10:27.000000Z
+release_date: "1998-01-01"
 release_id: "9713856"
 slug: "devils-night-out-9713856"
 hideSummary: true
@@ -25,29 +26,29 @@ styles: ["Ska", "Punk", "Hardcore"]
 Devil's Night Out is the debut studio album by the Mighty Mighty Bosstones. It was released in 1990 by Taang! Records. It was one of the first albums to mix ska and hardcore punk.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Devil's Night Out
-2. Howwhywuz, Howwhyyam
-3. Drunks And Children
-4. Hope I Never Lose My Wallet
-5. Haji
-6. The Bartender's Song
-7. Patricia
-8. The Cave ('Cognito Fiesta Version)
-9. Do Something Crazy
-10. A Little Bit Ugly
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Devil's Night Out |  |
+| A2 | Howwhywuz, Howwhyyam |  |
+| A3 | Drunks And Children |  |
+| A4 | Hope I Never Lose My Wallet |  |
+| A5 | Haji |  |
+| B1 | The Bartender's Song |  |
+| B2 | Patricia |  |
+| B3 | The Cave ('Cognito Fiesta Version) |  |
+| B4 | Do Something Crazy |  |
+| B5 | A Little Bit Ugly |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-mighty-mighty-bosstones-live-from-the-middle-east/1443762934" >}}<br>
 
-
-## Videos
-### The Mighty Mighty Bosstones  - Devils Night Out Full Album
-{{< youtube id="cTIEH0PVRGg" title="The Mighty Mighty Bosstones  - Devils Night Out Full Album" >}}<br>
 
 
 ## Release Images
@@ -60,5 +61,5 @@ Devil's Night Out is the debut studio album by the Mighty Mighty Bosstones. It w
 | Format         | Vinyl LP Album Reissue |
 | Label          | Taang! Records |
 | Catalog Number | TAANG! #44 |
-| Notes | Engineered at the Fort Apache Boston  Issued with a lyric sheet |
+| Notes | Engineered at the Fort Apache Boston<br><br>Issued with a lyric sheet |
 | Discogs URL    | [The Mighty Mighty Bosstones - Devils Night Out](https://www.discogs.com/release/9713856-The-Mighty-Mighty-Bosstones-Devils-Night-Out) |

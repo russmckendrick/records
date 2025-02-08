@@ -1,9 +1,10 @@
 ---
 title: "Sermon - Birth Of The Marvellous"
 artist_name: "Sermon"
-artist: "sermon-6"
+artist: "sermon"
 album_name: "Birth Of The Marvellous"
 date: 2019-05-11T14:17:10.000000Z
+release_date: "2019-03-22"
 release_id: "13393404"
 slug: "birth-of-the-marvellous-13393404"
 hideSummary: true
@@ -22,27 +23,26 @@ styles: ["Progressive Metal"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Descend
-2. Festival
-3. The Drift
-4. Contrition
-5. Chasm
-6. The Preacher
-7. The Rise Of Desiderata
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Descend |  |
+| A2 | Festival |  |
+| A3 | The Drift |  |
+| A4 | Contrition |  |
+| B1 | Chasm |  |
+| B2 | The Preacher |  |
+| B3 | The Rise Of Desiderata |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/birth-of-the-marvellous/1448303615" >}}<br>
 
 
-## Videos
-### SERMON - THE DESCEND OFFICIAL AUDIO
-{{< youtube id="jlh1JbdhKt4" title="SERMON - THE DESCEND OFFICIAL AUDIO" >}}<br>
-### More Videos
-
-- [Sermon - Birth Of The Marvellous 2019 Progressive Metal Full Album](https://www.youtube.com/watch?v=P0FtRWykN-w)
-- [SERMON - THE DESCEND OFFICIAL AUDIO](https://www.youtube.com/watch?v=jlh1JbdhKt4)
 
 ## Release Images
 {{< imageGrid >}}

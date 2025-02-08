@@ -1,6 +1,6 @@
 ---
-title: "Daryl Hall & John Oates - The Very Best Of"
-artist_name: "Daryl Hall & John Oates"
+title: "Daryl Hall  John Oates - The Very Best Of"
+artist_name: "Daryl Hall  John Oates"
 artist: "daryl-hall-john-oates"
 album_name: "The Very Best Of"
 date: 2016-08-13T09:39:29.000000Z
@@ -10,8 +10,8 @@ slug: "the-very-best-of-8863457"
 hideSummary: true
 cover:
     image: "the-very-best-of-8863457.jpg"
-    alt: "The Very Best Of by Daryl Hall & John Oates"
-    caption: "The Very Best Of by Daryl Hall & John Oates"
+    alt: "The Very Best Of by Daryl Hall  John Oates"
+    caption: "The Very Best Of by Daryl Hall  John Oates"
 additional_images:
     - "https://i.discogs.com/6UT6Joehke6_vxXwSfwo1a6VgJpr-NOuj_ffxkThIcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjM0/NTctMTQ3MDkwMTM3/MC01NjEyLmpwZWc.jpeg"
     - "https://i.discogs.com/0ApwBqiMw6z82zcd7ea1EnRTQfHg7yawdNbNnq0-ZjQ/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjM0/NTctMTUyMDIxMTU4/OS05NzQzLmpwZWc.jpeg"
@@ -35,63 +35,32 @@ It was released on K2 High Definition CD in 2012 and was re-released on vinyl on
 
 
 ## Tracklisting
-1. Sara Smile (3:07)
-2. Rich Girl (2:23)
-3. It's A Laugh (Single Version) (3:38)
-4. Wait For Me (3:59)
-5. You've Lost That Lovin' Feeling (4:36)
-6. Kiss On My List (3:48)
-7. You Make My Dreams (3:10)
-8. Private Eyes (3:29)
-9. I Can't Go For That (No Can Do) (5:07)
-10. Did It In A Minute (3:37)
-11. Maneater (4:34)
-12. One On One (4:28)
-13. Family Man (3:25)
-14. Say It Isn't So (4:17)
-15. Adult Education (Promotional 12") (4:34)
-16. Out Of Touch (Single Version) (3:55)
-17. Method Of Modern Love (5:27)
-18. Some Things Are Better Left Unsaid (5:23)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sara Smile | 3:07 |
+| A2 | Rich Girl | 2:23 |
+| A3 | It's A Laugh (Single Version) | 3:38 |
+| A4 | Wait For Me | 3:59 |
+| A5 | You've Lost That Lovin' Feeling | 4:36 |
+| B1 | Kiss On My List | 3:48 |
+| B2 | You Make My Dreams | 3:10 |
+| B3 | Private Eyes | 3:29 |
+| B4 | I Can't Go For That (No Can Do) | 5:07 |
+| B5 | Did It In A Minute | 3:37 |
+| C1 | Maneater | 4:34 |
+| C2 | One On One | 4:28 |
+| C3 | Family Man | 3:25 |
+| C4 | Say It Isn't So | 4:17 |
+| D1 | Adult Education (Promotional 12") | 4:34 |
+| D2 | Out Of Touch (Single Version) | 3:55 |
+| D3 | Method Of Modern Love | 5:27 |
+| D4 | Some Things Are Better Left Unsaid | 5:23 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/daryl-hall-john-oates/217709553" >}}<br>
 
 
-## Videos
-### Daryl Hall  John Oates - Private Eyes Official Music Video
-{{< youtube id="JsntlJZ9h1U" title="Daryl Hall  John Oates - Private Eyes Official Music Video" >}}<br>
-### More Videos
-
-- [Daryl Hall  John Oates - I Cant Go For That No Can Do Official Video](https://www.youtube.com/watch?v=ccenFp_3kq8)
-- [Daryl Hall  John Oates - Kiss On My List Official Video](https://www.youtube.com/watch?v=lsHld-iArOc)
-- [Daryl Hall  John Oates - Maneater Official Music Video](https://www.youtube.com/watch?v=yRYFKcMa_Ek)
-- [Daryl Hall  John Oates - Wait For Me Official Video](https://www.youtube.com/watch?v=5zkHLp24Gis)
-- [Daryl Hall  John Oates - Say it Isnt So Official Video](https://www.youtube.com/watch?v=_R5xIdXwNMk)
-- [Daryl Hall  John Oates - One On One Official Video](https://www.youtube.com/watch?v=EXU2tnKEwwo)
-- [Daryl Hall  John Oates - Out Of Touch Official Video](https://www.youtube.com/watch?v=D00M2KZH1J0)
-- [Daryl Hall  John Oates - Method of Modern Love Official Video](https://www.youtube.com/watch?v=Q3F4c7E9IBU)
-- [Daryl Hall  John Oates - You Make My Dreams](https://www.youtube.com/watch?v=EErSKhC0CZs)
-- [Daryl Hall  John Oates - Adult Education](https://www.youtube.com/watch?v=XLYqTZKEpvs)
-- [Daryl Hall  John Oates - Youve Lost That Lovin Feeling Official Video](https://www.youtube.com/watch?v=SXX5OtJJWDo)
-- [Daryl Hall  John Oates - Family Man Official Video](https://www.youtube.com/watch?v=-oiqiYdWXiM)
-- [Daryl Hall  John Oates - Some Things Are Better Left Unsaid](https://www.youtube.com/watch?v=Emp0vkKczBI)
-- [Hall  Oates  -  Rich Girl  TOPPOP 1977](https://www.youtube.com/watch?v=YKDO35K5-BA)
-- [Daryl Hall  John Oates - Private Eyes Official Music Video](https://www.youtube.com/watch?v=JsntlJZ9h1U)
-- [Daryl Hall  John Oates - I Cant Go For That No Can Do Official Video](https://www.youtube.com/watch?v=ccenFp_3kq8)
-- [Daryl Hall  John Oates - Kiss On My List Official Video](https://www.youtube.com/watch?v=lsHld-iArOc)
-- [Daryl Hall  John Oates - Maneater Official Music Video](https://www.youtube.com/watch?v=yRYFKcMa_Ek)
-- [Daryl Hall  John Oates - Wait For Me Official Video](https://www.youtube.com/watch?v=5zkHLp24Gis)
-- [Daryl Hall  John Oates - Say it Isnt So Official Video](https://www.youtube.com/watch?v=_R5xIdXwNMk)
-- [Daryl Hall  John Oates - One On One Official Video](https://www.youtube.com/watch?v=EXU2tnKEwwo)
-- [Daryl Hall  John Oates - Out Of Touch Official Video](https://www.youtube.com/watch?v=D00M2KZH1J0)
-- [Daryl Hall  John Oates - Method of Modern Love Official Video](https://www.youtube.com/watch?v=Q3F4c7E9IBU)
-- [Daryl Hall  John Oates - You Make My Dreams](https://www.youtube.com/watch?v=EErSKhC0CZs)
-- [Daryl Hall  John Oates - Adult Education](https://www.youtube.com/watch?v=XLYqTZKEpvs)
-- [Daryl Hall  John Oates - Youve Lost That Lovin Feeling Official Video](https://www.youtube.com/watch?v=SXX5OtJJWDo)
-- [Daryl Hall  John Oates - Family Man Official Video](https://www.youtube.com/watch?v=-oiqiYdWXiM)
-- [Daryl Hall  John Oates - Some Things Are Better Left Unsaid](https://www.youtube.com/watch?v=Emp0vkKczBI)
-- [Hall  Oates  -  Rich Girl  TOPPOP 1977](https://www.youtube.com/watch?v=YKDO35K5-BA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -103,5 +72,5 @@ It was released on K2 High Definition CD in 2012 and was re-released on vinyl on
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue Remastered (Gray / Blue) |
 | Label          | RCA |
 | Catalog Number | 88985330971 |
-| Notes | Legacy edition. First time on vinyl for this compilation. LP1 is pressed on gray vinyl, LP2 on blue vinyl.  Ⓒ 2001, 2016 RCA Records, a division of Sony Music Entertainment. The compilation Ⓟ 2001 RCA Records, a division of Sony Music Entertainment.  This package consists of previously released material.  |
-| Discogs URL    | [Daryl Hall & John Oates - The Very Best Of](https://www.discogs.com/release/8863457-Daryl-Hall-John-Oates-The-Very-Best-Of) |
+| Notes | Legacy edition. First time on vinyl for this compilation.<br>LP1 is pressed on gray vinyl, LP2 on blue vinyl.<br><br>Ⓒ 2001, 2016 RCA Records, a division of Sony Music Entertainment.<br>The compilation Ⓟ 2001 RCA Records, a division of Sony Music Entertainment.<br><br>This package consists of previously released material.<br> |
+| Discogs URL    | [Daryl Hall  John Oates - The Very Best Of](https://www.discogs.com/release/8863457-Daryl-Hall-John-Oates-The-Very-Best-Of) |

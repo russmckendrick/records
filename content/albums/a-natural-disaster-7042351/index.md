@@ -4,6 +4,7 @@ artist_name: "Anathema"
 artist: "anathema"
 album_name: "A Natural Disaster"
 date: 2016-10-22T12:17:38.000000Z
+release_date: "2003-11-03"
 release_id: "7042351"
 slug: "a-natural-disaster-7042351"
 hideSummary: true
@@ -23,44 +24,40 @@ styles: ["Alternative Rock"]
 A Natural Disaster is the seventh album by the British rock band Anathema. It was released on 3 November 2003 in the United Kingdom and on 24 February 2004 in the United States through Music for Nations.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Harmonium (5:30)
-2. Balance (3:58)
-3. Closer (6:21)
-4. Are You There? (4:58)
-5. Childhood Dream (2:10)
-6. Pulled Under At 2000 Metres A Second (5:22)
-7. A Natural Disaster (6:27)
-8. Flying (5:57)
-9. Electricity (3:52)
-10. Violence (10:55)
-11. Harmonium (5:28)
-12. Balance (3:28)
-13. Closer (6:21)
-14. Are You There? (4:58)
-15. Childhood Dream (2:11)
-16. Pulled Under At 2000 Metres A Second (5:23)
-17. A Natural Disaster (6:28)
-18. Flying (5:57)
-19. Electricity (3:52)
-20. Violence (10:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Harmonium | 5:30 |
+| A2 | Balance | 3:58 |
+| A3 | Closer | 6:21 |
+| A4 | Are You There? | 4:58 |
+| A5 | Childhood Dream | 2:10 |
+| A6 | Pulled Under At 2000 Metres A Second | 5:22 |
+| B1 | A Natural Disaster | 6:27 |
+| B2 | Flying | 5:57 |
+| B3 | Electricity | 3:52 |
+| B4 | Violence | 10:55 |
+| CD1 | Harmonium | 5:28 |
+| CD2 | Balance | 3:28 |
+| CD3 | Closer | 6:21 |
+| CD4 | Are You There? | 4:58 |
+| CD5 | Childhood Dream | 2:11 |
+| CD6 | Pulled Under At 2000 Metres A Second | 5:23 |
+| CD7 | A Natural Disaster | 6:28 |
+| CD8 | Flying | 5:57 |
+| CD9 | Electricity | 3:52 |
+| CD10 | Violence | 10:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-natural-disaster-remastered/970424341" >}}<br>
 
 
-## Videos
-### Anathema - A Natural Disaster Audio
-{{< youtube id="_lMiIsQqLaE" title="Anathema - A Natural Disaster Audio" >}}<br>
-### More Videos
-
-- [Anathema - A Natural Disaster  FULL DEMO](https://www.youtube.com/watch?v=3H-i4PDX3WQ)
-- [Anathema - A Natural Disaster Audio](https://www.youtube.com/watch?v=_lMiIsQqLaE)
-- [ANATHEMA - A Natural Disaster](https://www.youtube.com/watch?v=JB1djmYr0aA)
 
 ## Release Images
 {{< imageGrid >}}

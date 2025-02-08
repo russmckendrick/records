@@ -48,42 +48,35 @@ Good News for People Who Love Bad News was nominated for the Grammy Award for Be
 
 
 ## Tracklisting
-1. Horn Intro (0:10)
-2. The World At Large (4:33)
-3. Float On (3:29)
-4. Ocean Breathes Salty (3:44)
-5. Dig Your Grave (0:13)
-6. Bury Me With It (3:50)
-7. Dance Hall (2:57)
-8. Bukowski (4:15)
-9. This Devil's Workday (2:19)
-10. The View (4:10)
-11. Satin In A Coffin (2:35)
-12. Interlude (Milo) (0:59)
-13. Blame It On The Tetons (5:25)
-14. Black Cadillacs (2:43)
-15. One Chance (3:02)
-16. The Good Times Are Killing Me (4:17)
-17. The World At Large (Enough Love To Kill Us All Remix) (4:58)
-18. Float On (Dan The Automator Remix) (5:21)
-19. Ocean Breathes Salty (Poolside Remix) (3:11)
-20. Bury Me With It (Jacknife Lee Remix) (3:59)
-21. One Chance (Dennis Herring Remix) (2:04)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Horn Intro | 0:10 |
+| A2 | The World At Large | 4:33 |
+| A3 | Float On | 3:29 |
+| A4 | Ocean Breathes Salty | 3:44 |
+| A5 | Dig Your Grave | 0:13 |
+| A6 | Bury Me With It | 3:50 |
+| B7 | Dance Hall | 2:57 |
+| B8 | Bukowski | 4:15 |
+| B9 | This Devil's Workday | 2:19 |
+| B10 | The View | 4:10 |
+| B11 | Satin In A Coffin | 2:35 |
+| C12 | Interlude (Milo) | 0:59 |
+| C13 | Blame It On The Tetons | 5:25 |
+| C14 | Black Cadillacs | 2:43 |
+| C15 | One Chance | 3:02 |
+| C16 | The Good Times Are Killing Me | 4:17 |
+| D17 | The World At Large (Enough Love To Kill Us All Remix) | 4:58 |
+| D18 | Float On (Dan The Automator Remix) | 5:21 |
+| D19 | Ocean Breathes Salty (Poolside Remix) | 3:11 |
+| D20 | Bury Me With It (Jacknife Lee Remix) | 3:59 |
+| D21 | One Chance (Dennis Herring Remix) | 2:04 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/good-news-for-people-who-love-bad-news/201257412" >}}<br>
 
 
-## Videos
-### Modest Mouse - Float On Official Music Video
-{{< youtube id="CTAud5O7Qqk" title="Modest Mouse - Float On Official Music Video" >}}<br>
-### More Videos
-
-- [The Good Times Are Killing Me](https://www.youtube.com/watch?v=oITcKJpM9UQ)
-- [Bury Me With It](https://www.youtube.com/watch?v=-0c53YAYK1o)
-- [Modest Mouse - The World At Large Audio](https://www.youtube.com/watch?v=1TXdU9LMmv4)
-- [Bukowski](https://www.youtube.com/watch?v=m0VpdRYCv3s)
-- [Blame It On the Tetons](https://www.youtube.com/watch?v=kLMENNyUxcI)
 
 ## Release Images
 {{< imageGrid >}}

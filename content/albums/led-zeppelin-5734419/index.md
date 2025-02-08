@@ -34,19 +34,21 @@ In 1982, Led Zeppelin released their last studio album, Coda, which contained ou
 
 
 ## Tracklisting
-1. Good Times Bad Times (2:46)
-2. Babe I'm Gonna Leave You (6:42)
-3. You Shook Me (6:28)
-4. Dazed And Confused (6:28)
-5. Your Time Is Gonna Come (4:34)
-6. Black Mountain Side (2:12)
-7. Communication Breakdown (2:30)
-8. I Can't Quit You Baby (4:42)
-9. How Many More Times (8:27)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Good Times Bad Times | 2:46 |
+| A2 | Babe I'm Gonna Leave You | 6:42 |
+| A3 | You Shook Me | 6:28 |
+| A4 | Dazed And Confused | 6:28 |
+| B1 | Your Time Is Gonna Come | 4:34 |
+| B2 | Black Mountain Side | 2:12 |
+| B3 | Communication Breakdown | 2:30 |
+| B4 | I Can't Quit You Baby | 4:42 |
+| B5 | How Many More Times | 8:27 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/led-zeppelin-deluxe-edition/836967207" >}}<br>
-
 
 
 
@@ -60,5 +62,5 @@ In 1982, Led Zeppelin released their last studio album, Coda, which contained ou
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Atlantic |
 | Catalog Number | 8122796641 |
-| Notes | Front cover has sticker with barcode and following text:  The Classic 1969 Debut Album on 180g Vinyl Includes Good Times Bad Times & Dazed And Confused Remastered by Jimmy Page   Back cover: © 1969 Atlantic Recording Corporation, a Warner Music Group Company. Manufactured & Marketed by Warner Music Group. Made in the EU.  Labels: © 1969 Atlantic Recording Corporation. ℗ 2013 Atlantic Recording Corporation. Manufactured in Germany.  All selections administered by WB Music Corp. (ASCAP) except as indicated: A2 by Songs Of Polygram International Inc. (BMI) / WB Music Corp. ASCAP A3 by Arc Music / Hoochie Coochie Music BMI B4 by Hoochie Coochie Music BMI |
+| Notes | Front cover has sticker with barcode and following text: <br>The Classic 1969 Debut Album on 180g Vinyl<br>Includes Good Times Bad Times & Dazed And Confused<br>Remastered by Jimmy Page<br> <br>Back cover:<br>© 1969 Atlantic Recording Corporation, a Warner Music Group Company.<br>Manufactured & Marketed by Warner Music Group.<br>Made in the EU.<br><br>Labels:<br>© 1969 Atlantic Recording Corporation.<br>℗ 2013 Atlantic Recording Corporation.<br>Manufactured in Germany.<br><br>All selections administered by WB Music Corp. (ASCAP) except as indicated:<br>A2 by Songs Of Polygram International Inc. (BMI) / WB Music Corp. ASCAP<br>A3 by Arc Music / Hoochie Coochie Music BMI<br>B4 by Hoochie Coochie Music BMI |
 | Discogs URL    | [Led Zeppelin - Led Zeppelin](https://www.discogs.com/release/5734419-Led-Zeppelin-Led-Zeppelin) |

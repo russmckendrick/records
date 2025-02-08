@@ -4,6 +4,7 @@ artist_name: "Hawkwind"
 artist: "hawkwind"
 album_name: "Space Ritual"
 date: 2023-09-29T06:41:39.000000Z
+release_date: "2015-03-20"
 release_id: "28412089"
 slug: "space-ritual-28412089"
 hideSummary: true
@@ -26,41 +27,37 @@ styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 Space Ritual (officially known as The Space Ritual Alive in Liverpool and London) is a 1973 live double album recorded in 1972 by UK rock band Hawkwind. It is their fourth album since their debut, Hawkwind, in 1970. It reached number 9 in the UK Albums Chart and briefly dented the Billboard Hot 200, peaking at number 179.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Earth Calling
-2. Born To Go
-3. Down Through The Night
-4. The Awakening
-5. Lord Of Light
-6. The Black Corridor
-7. Space Is Deep
-8. Electronic No. 1
-9. Orgone Accumulator
-10. Upside Down
-11. 10 Seconds Of Forever
-12. Brainstorm
-13. 7 By 7
-14. Sonic Attack
-15. Time We Left This World Today
-16. Master Of The Universe
-17. Welcome To The Future
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Earth Calling |  |
+| A2 | Born To Go |  |
+| A3 | Down Through The Night |  |
+| A4 | The Awakening |  |
+| B1 | Lord Of Light |  |
+| B2 | The Black Corridor |  |
+| B3 | Space Is Deep |  |
+| B4 | Electronic No. 1 |  |
+| C1 | Orgone Accumulator |  |
+| C2 | Upside Down |  |
+| C3 | 10 Seconds Of Forever |  |
+| C4 | Brainstorm |  |
+| D1 | 7 By 7 |  |
+| D2 | Sonic Attack |  |
+| D3 | Time We Left This World Today |  |
+| D4 | Master Of The Universe |  |
+| D5 | Welcome To The Future |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-space-ritual-alive/966245556" >}}<br>
 
 
-## Videos
-### Earth Calling Live 2007 Remaster
-{{< youtube id="8wHM6sRbImY" title="Earth Calling Live 2007 Remaster" >}}<br>
-### More Videos
-
-- [Born to Go Live 2007 Remaster](https://www.youtube.com/watch?v=pNfRIePduqQ)
-- [Space Is Deep Live 2007 Remaster](https://www.youtube.com/watch?v=4MUR7FIVNQ8)
-- [Hawkwind - Born to Go - taken from Space Ritual 1973 animation](https://www.youtube.com/watch?v=QAlw83pm0NY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +69,5 @@ Space Ritual (officially known as The Space Ritual Alive in Liverpool and London
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Remastered Stereo (Sky Blue With Yellow And Red Splatter) |
 | Label          | Atomhenge |
 | Catalog Number | QATOMLP21052 |
-| Notes | Limited to 500 hand-numbered copies sold exclusively at Rough Trade shops and online Includes a foldout poster insert    [Labels] The original album remastered ℗ 2023 Parlophone Records Ltd.  © 2023 Cherry Red Records Ltd. Made in the EU  Runouts are stamped except side identifiers (A B C D) and final "⌶" character that are etched |
+| Notes | Limited to 500 hand-numbered copies sold exclusively at Rough Trade shops and online<br>Includes a foldout poster insert<br><br><br><br>[Labels]<br>The original album remastered<br>℗ 2023 Parlophone Records Ltd. <br>© 2023 Cherry Red Records Ltd.<br>Made in the EU<br><br>Runouts are stamped except side identifiers (A B C D) and final "⌶" character that are etched |
 | Discogs URL    | [Hawkwind - Space Ritual](https://www.discogs.com/release/28412089-Hawkwind-Space-Ritual) |

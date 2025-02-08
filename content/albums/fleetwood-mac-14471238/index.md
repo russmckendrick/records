@@ -36,21 +36,23 @@ On being reminded by John McVie that they were supposed to be a blues band, Olse
 
 
 ## Tracklisting
-1. Monday Morning (2:48)
-2. Warm Ways (3:50)
-3. Blue Letter (2:31)
-4. Rhiannon (4:12)
-5. Over My Head (3:34)
-6. Crystal (5:12)
-7. Say You Love Me (4:11)
-8. Landslide (3:05)
-9. World Turning (4:25)
-10. Sugar Daddy (4:09)
-11. I'm So Afraid (4:15)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Monday Morning | 2:48 |
+| A2 | Warm Ways | 3:50 |
+| A3 | Blue Letter | 2:31 |
+| A4 | Rhiannon | 4:12 |
+| A5 | Over My Head | 3:34 |
+| A6 | Crystal | 5:12 |
+| B1 | Say You Love Me | 4:11 |
+| B2 | Landslide | 3:05 |
+| B3 | World Turning | 4:25 |
+| B4 | Sugar Daddy | 4:09 |
+| B5 | I'm So Afraid | 4:15 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fleetwood-mac/309646617" >}}<br>
-
 
 
 
@@ -64,5 +66,5 @@ On being reminded by John McVie that they were supposed to be a blues band, Olse
 | Format         | Vinyl LP Album Reissue Stereo (White) |
 | Label          | Reprise Records |
 | Catalog Number | RCV1 2281 |
-| Notes | Reissue on white vinyl. ℗ & © 1975 Warner Records Inc. Made in the E.U.  The sticker on the sleeve states "first time on white vinyl" when this isn't the case - it had previously been issued on white vinyl in the UK in 1978 [r2547373].    . |
+| Notes | Reissue on white vinyl.<br>℗ & © 1975 Warner Records Inc.<br>Made in the E.U.<br><br>The sticker on the sleeve states "first time on white vinyl" when this isn't the case - it had previously been issued on white vinyl in the UK in 1978 [r2547373].<br>   . |
 | Discogs URL    | [Fleetwood Mac - Fleetwood Mac](https://www.discogs.com/release/14471238-Fleetwood-Mac-Fleetwood-Mac) |

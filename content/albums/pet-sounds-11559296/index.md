@@ -4,6 +4,7 @@ artist_name: "The Beach Boys"
 artist: "the-beach-boys"
 album_name: "Pet Sounds"
 date: 2019-08-05T17:25:41.000000Z
+release_date: "2005-02-15"
 release_id: "11559296"
 slug: "pet-sounds-11559296"
 hideSummary: true
@@ -26,28 +27,31 @@ Incorporating elements of pop, jazz, exotica, classical, and the avant-garde, Wi
 Pet Sounds revolutionized music production and the role of professional record producers, especially through Wilson's pioneering studio-as-instrument praxis. The record contributed to the cultural legitimization of popular music, a greater public appreciation for albums, the popularity of synthesizers, and the development of psychedelic music and progressive/art rock. It also introduced novel approaches to orchestration, chord voicings, and structural harmonies, such as its avoidance of definite key signatures. Although it had been widely revered by industry insiders, the album was obscure to mass audiences before being reissued in the 1990s, after which it topped several critics' and musicians' polls for the best album of all time, including those published by NME, Mojo, Uncut, and The Times. The album has also been consistently ranked number 2 in all editions of Rolling Stone's "The 500 Greatest Albums of All Time" list. As a solo artist, Wilson embarked on a string of Pet Sounds concert tours in the early 2000s and late 2010s. In 2004, the album was inducted into the National Recording Registry by the Library of Congress for being "culturally, historically, or aesthetically significant". Pet Sounds is certified platinum by the Recording Industry Association of America (RIAA), indicating over one million units sold in the U.S. An expanded reissue, The Pet Sounds Sessions, was released in 1997, featuring the album's first true stereo mix.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Wouldn't It Be Nice (2:22)
-2. You Still Believe In Me (2:33)
-3. That's Not Me (2:27)
-4. Don't Talk (Put Your Head On My Shoulder) (2:52)
-5. I'm Waiting For The Day (3:01)
-6. Let's Go Away For Awhile (2:18)
-7. Sloop John B (2:57)
-8. God Only Knows (2:46)
-9. I Know There's An Answer (3:10)
-10. Here Today (2:38)
-11. I Just Wasn't Made For These Times (3:21)
-12. Pet Sounds (2:20)
-13. Caroline, No (2:16)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Wouldn't It Be Nice | 2:22 |
+| A2 | You Still Believe In Me | 2:33 |
+| A3 | That's Not Me | 2:27 |
+| A4 | Don't Talk (Put Your Head On My Shoulder) | 2:52 |
+| A5 | I'm Waiting For The Day | 3:01 |
+| A6 | Let's Go Away For Awhile | 2:18 |
+| A7 | Sloop John B | 2:57 |
+| B1 | God Only Knows | 2:46 |
+| B2 | I Know There's An Answer | 3:10 |
+| B3 | Here Today | 2:38 |
+| B4 | I Just Wasn't Made For These Times | 3:21 |
+| B5 | Pet Sounds | 2:20 |
+| B6 | Caroline, No | 2:16 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vsq-performs-the-beach-boys-pet-sounds/992201457" >}}<br>
-
 
 
 
@@ -61,5 +65,5 @@ Pet Sounds revolutionized music production and the role of professional record p
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (Yellow / Green, 130 g) |
 | Label          | Capitol Records |
 | Catalog Number | B0024729-01 |
-| Notes | Limited repress of 2000 on 130g vinyl by The Sound of Vinyl.  Rear cover, bottom:  This stereo record should be played only with a stereo cartridge and needle to avoid damage.  Stereo mix produced and mixed by Mark Linett under the supervision of Brian Wilson. ℗ © 2016 Capitol records, LLC, 1750 N. Vine Street, Hollywood, CA 90028 - U.S.A.  Distributed by Universal Music Disctribution.  All rights reserved.   B0024729-01  UNIVERSALMUSICENTERPRISES.COM  THEBEACHBOYS.COM  Black Capitol Records label with rainbow ring. |
+| Notes | Limited repress of 2000 on 130g vinyl by The Sound of Vinyl.<br><br>Rear cover, bottom: <br>This stereo record should be played only with a stereo cartridge and needle to avoid damage. <br>Stereo mix produced and mixed by Mark Linett under the supervision of Brian Wilson.<br>℗ © 2016 Capitol records, LLC, 1750 N. Vine Street, Hollywood, CA 90028 - U.S.A.  Distributed by Universal Music Disctribution.  All rights reserved.   B0024729-01  UNIVERSALMUSICENTERPRISES.COM  THEBEACHBOYS.COM<br><br>Black Capitol Records label with rainbow ring. |
 | Discogs URL    | [The Beach Boys - Pet Sounds](https://www.discogs.com/release/11559296-The-Beach-Boys-Pet-Sounds) |

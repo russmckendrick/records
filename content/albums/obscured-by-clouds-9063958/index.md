@@ -32,36 +32,24 @@ Working again with director Barbet Schroeder, Pink Floyd created this soundtrack
 
 
 ## Tracklisting
-1. Obscured By Clouds (3:33)
-2. When You're In (2:23)
-3. Burning Bridges (3:30)
-4. The Gold It's In The... (3:07)
-5. Wot's ... Uh The Deal (5:07)
-6. Mudmen (4:18)
-7. Childhood's End (4:29)
-8. Free Four (4:10)
-9. Stay (4:08)
-10. Absolutely Curtains (5:51)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Obscured By Clouds | 3:33 |
+| A2 | When You're In | 2:23 |
+| A3 | Burning Bridges | 3:30 |
+| A4 | The Gold It's In The... | 3:07 |
+| A5 | Wot's ... Uh The Deal | 5:07 |
+| A6 | Mudmen | 4:18 |
+| B1 | Childhood's End | 4:29 |
+| B2 | Free Four | 4:10 |
+| B3 | Stay | 4:08 |
+| B4 | Absolutely Curtains | 5:51 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/obscured-by-clouds/717956085" >}}<br>
 
 
-## Videos
-### Pink Floyd - 1st UK press vinyl - Obscured by clouds - side 2
-{{< youtube id="IA_Eq3DtkR8" title="Pink Floyd - 1st UK press vinyl - Obscured by clouds - side 2" >}}<br>
-### More Videos
-
-- [Obscured By Clouds](https://www.youtube.com/watch?v=16V-wNwlTw0)
-- [When Youre In](https://www.youtube.com/watch?v=6vr07uuBjg4)
-- [Burning Bridges](https://www.youtube.com/watch?v=nsGhjcDNU2g)
-- [04 The Gold Its In The](https://www.youtube.com/watch?v=HWhOd0ENVS8)
-- [Pink Floyd - Wots Uh The Deal Official Music Video](https://www.youtube.com/watch?v=aGPjfj69cXE)
-- [Mudmen](https://www.youtube.com/watch?v=uKSTu-HMPQ4)
-- [Pink Floyd - Childhoods End Official Music Video](https://www.youtube.com/watch?v=SnTz09-nk9c)
-- [Free Four](https://www.youtube.com/watch?v=FPSb5QjgjAc)
-- [Stay](https://www.youtube.com/watch?v=Rhge-ZOgfsw)
-- [Absolutely Curtains](https://www.youtube.com/watch?v=o876axae4VE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +61,5 @@ Working again with director Barbet Schroeder, Pink Floyd created this soundtrack
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP7 |
-| Notes | Matrices in runouts are hand-etched, "16910 1A" and "16910 1B" are laser etched.  Comes with sleeve rounded corners. A pink "Obscured By Clouds - Music from La Vallée - Pink Floyd" sticker on face side and hype sticker on the shrink-wrap. This sticker is in French for the French market (see pic)  On sticker: The stereo remastered album on heavyweight 180 gram vinyl Remastered from the original analogue tapes. Original UK release date: June 1972 ℗ 2016 Pink Floyd Music Ltd. © 2016 Pink Floyd Music Ltd. Made in the E.U. www.pinkfloyd.com On the French sticker, Mudmen is erroneously stated on side B  On back cover: ℗ 2016 Pink Floyd Music Ltd. © 2016 Pink Floyd Music Ltd. Made and Printed in the E.U. Printed and made by Optimal  On labels: Publishing for the world excluding USA & Canada: Tracks A1 to A5, B3, B4 published by Pink Floyd Music Publishers Ltd. / Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij  B.V. (1) (2) Track A6, B1 published by Pink Floyd Music Publishers Ltd. (1) Track B2 published by Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij  B.V. (3) (1) administered by Imagem UK Ltd (2) administered by Warner/Chappell Music Publishing (3) administered by Warner/Chappell Music Publishing Limited   Publishing for USA & Canada: Tracks A1 to B4 published by TRO-Hampshire House Publishing Corp.  The US release can be found [url=https://www.discogs.com/release/9093697]here[/url]  Track timings from needle drop (stopwatch method). |
+| Notes | Matrices in runouts are hand-etched, "16910 1A" and "16910 1B" are laser etched.<br><br>Comes with sleeve rounded corners.<br>A pink "Obscured By Clouds - Music from La Vallée - Pink Floyd" sticker on face side and hype sticker on the shrink-wrap.<br>This sticker is in French for the French market (see pic)<br><br>On sticker:<br>The stereo remastered album on heavyweight 180 gram vinyl<br>Remastered from the original analogue tapes.<br>Original UK release date: June 1972<br>℗ 2016 Pink Floyd Music Ltd. © 2016 Pink Floyd Music Ltd.<br>Made in the E.U.<br>www.pinkfloyd.com<br>On the French sticker, Mudmen is erroneously stated on side B<br><br>On back cover:<br>℗ 2016 Pink Floyd Music Ltd. © 2016 Pink Floyd Music Ltd.<br>Made and Printed in the E.U.<br>Printed and made by Optimal<br><br>On labels:<br>Publishing for the world excluding USA & Canada:<br>Tracks A1 to A5, B3, B4 published by Pink Floyd Music Publishers Ltd. / Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij  B.V. (1) (2)<br>Track A6, B1 published by Pink Floyd Music Publishers Ltd. (1)<br>Track B2 published by Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij  B.V. (3)<br>(1) administered by Imagem UK Ltd<br>(2) administered by Warner/Chappell Music Publishing<br>(3) administered by Warner/Chappell Music Publishing Limited<br><br><br>Publishing for USA & Canada:<br>Tracks A1 to B4 published by TRO-Hampshire House Publishing Corp.<br><br>The US release can be found [url=https://www.discogs.com/release/9093697]here[/url]<br><br>Track timings from needle drop (stopwatch method). |
 | Discogs URL    | [Pink Floyd - Obscured By Clouds](https://www.discogs.com/release/9063958-Pink-Floyd-Obscured-By-Clouds) |

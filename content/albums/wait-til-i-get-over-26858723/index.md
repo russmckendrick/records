@@ -4,6 +4,7 @@ artist_name: "Durand Jones"
 artist: "durand-jones"
 album_name: "Wait Til I Get Over"
 date: 2023-05-05T04:24:52.000000Z
+release_date: "2023-05-05"
 release_id: "26858723"
 slug: "wait-til-i-get-over-26858723"
 hideSummary: true
@@ -26,35 +27,32 @@ styles: ["Soul", "Funk", "Bayou Funk"]
 ---
 
 Wait Til I Get Over is the first solo studio album by American musician Durand Jones, released on May 5, 2023, through Dead Oceans. It follows three albums by Jones as the singer of the group Durand Jones & The Indications, and is themed around his hometown in Louisiana. The album received acclaim from critics and charted in the top 40 in Scotland.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Gerri Marie (2:45)
-2. The Place You'd Most Want To Live (Interlude) (1:09)
-3. Lord Have Mercy (4:01)
-4. Sadie (2:57)
-5. I Want You (4:04)
-6. Wait Til I Get Over (3:02)
-7. That Feeling (4:22)
-8. See It Through (Interlude) (1:25)
-9. See It Through  (3:24)
-10. Someday We'll All Be Free (4:04)
-11. Letter to My 17 Year Old Self (5:48)
-12. Secrets
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Gerri Marie | 2:45 |
+| A2 | The Place You'd Most Want To Live (Interlude) | 1:09 |
+| A3 | Lord Have Mercy | 4:01 |
+| A4 | Sadie | 2:57 |
+| A5 | I Want You | 4:04 |
+| A6 | Wait Til I Get Over | 3:02 |
+| A7 | That Feeling | 4:22 |
+| B1 | See It Through (Interlude) | 1:25 |
+| B2 | See It Through  | 3:24 |
+| B3 | Someday We'll All Be Free | 4:04 |
+| B4 | Letter to My 17 Year Old Self | 5:48 |
+| B5 | Secrets |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wait-til-i-get-over/1668161620" >}}<br>
 
 
-## Videos
-### Durand Jones - Wait Til I Get Over Full Album 2023
-{{< youtube id="zKfR2mdfHoI" title="Durand Jones - Wait Til I Get Over Full Album 2023" >}}<br>
-### More Videos
-
-- [Gerri Marie](https://www.youtube.com/watch?v=trU0X7FPXuc)
-- [Wait Til I Get Over](https://www.youtube.com/watch?v=0xhaweCEEzE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +64,5 @@ Wait Til I Get Over is the first solo studio album by American musician Durand J
 | Format         | Vinyl LP Album Limited Edition (Blue [Blue Jay]) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC280 |
-| Notes | B5 is a hidden track, title and credits are in the booklet.  Blue Jay Limited Edition with 20 page booklet and digital download.  Some copies were released early for RSD at Landlocked Music in Bloomington, Indiana with signing by Durand Jones himself.  Official Release Date is May 5th, 2023. |
+| Notes | B5 is a hidden track, title and credits are in the booklet.<br><br>Blue Jay Limited Edition with 20 page booklet and digital download. <br>Some copies were released early for RSD at Landlocked Music in Bloomington, Indiana with signing by Durand Jones himself.  Official Release Date is May 5th, 2023. |
 | Discogs URL    | [Durand Jones - Wait Til I Get Over](https://www.discogs.com/release/26858723-Durand-Jones-Wait-Til-I-Get-Over) |

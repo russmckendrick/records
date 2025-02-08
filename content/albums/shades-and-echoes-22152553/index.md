@@ -1,9 +1,10 @@
 ---
 title: "Forenzics - Shades And Echoes"
 artist_name: "Forenzics"
-artist: "forenzics-2"
+artist: "forenzics"
 album_name: "Shades And Echoes"
 date: 2022-02-26T10:38:07.000000Z
+release_date: "2021-11-12"
 release_id: "22152553"
 slug: "shades-and-echoes-22152553"
 hideSummary: true
@@ -22,38 +23,30 @@ styles: ["Pop Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Chances Are
-2. Rules
-3. Unlikely Friend
-4. Abandoned
-5. Premiere Fois
-6. Shut The Door
-7. Walking
-8. Europe Speaks
-9. Empty Nest
-10. System Overload
-11. Strange Stars
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Chances Are |  |
+| A2 | Rules |  |
+| A3 | Unlikely Friend |  |
+| A4 | Abandoned |  |
+| A5 | Premiere Fois |  |
+| A6 | Shut The Door |  |
+| B1 | Walking |  |
+| B2 | Europe Speaks |  |
+| B3 | Empty Nest |  |
+| B4 | System Overload |  |
+| B5 | Strange Stars |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/shades-and-echoes/1593377292" >}}<br>
 
 
-## Videos
-### Chances Are Official Music Video
-{{< youtube id="Q8iw7N1opTw" title="Chances Are Official Music Video" >}}<br>
-### More Videos
-
-- [Walking](https://www.youtube.com/watch?v=70jJTeu-06o)
-- [Premiere Fois](https://www.youtube.com/watch?v=IADrE_1e_N4)
-- [Unlikely Friend feat Washington](https://www.youtube.com/watch?v=3Lmuu8i6VeM)
-- [Strange Stars](https://www.youtube.com/watch?v=H5YTiBEsoYc)
-- [Chances Are Official Music Video](https://www.youtube.com/watch?v=Q8iw7N1opTw)
-- [Walking](https://www.youtube.com/watch?v=70jJTeu-06o)
-- [Premiere Fois](https://www.youtube.com/watch?v=IADrE_1e_N4)
-- [Unlikely Friend feat Washington](https://www.youtube.com/watch?v=3Lmuu8i6VeM)
-- [Strange Stars](https://www.youtube.com/watch?v=H5YTiBEsoYc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +57,5 @@ styles: ["Pop Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Warner Music New Zealand |
 | Catalog Number | CAT 5419711037 |
-| Notes | "Changes Are" contains a shade of "Spellbound" ([m=81206] 1975) "Abandoned" contains a shade from "Matinee Idyll 129" ([m=192427] 1976) "Shut The Door" contains a shade from "Matinee Idyll 129" ([m=192427] 1976). 'Pealing Bells' echoes from "Give It A Whirl" ([m=81212] 1978) "Walking" includes a shade and echo from "Walking Down A Road" ([m=81206] 1975) "Strange Stars" includes an echo from "Under The Wheel" ([m=81206] 1975)  Runouts are etched. 1| is mirrored. |
+| Notes | "Changes Are" contains a shade of "Spellbound" ([m=81206] 1975)<br>"Abandoned" contains a shade from "Matinee Idyll 129" ([m=192427] 1976)<br>"Shut The Door" contains a shade from "Matinee Idyll 129" ([m=192427] 1976). 'Pealing Bells' echoes from "Give It A Whirl" ([m=81212] 1978)<br>"Walking" includes a shade and echo from "Walking Down A Road" ([m=81206] 1975)<br>"Strange Stars" includes an echo from "Under The Wheel" ([m=81206] 1975)<br><br>Runouts are etched. 1| is mirrored. |
 | Discogs URL    | [Forenzics - Shades And Echoes](https://www.discogs.com/release/22152553-Forenzics-2-Shades-And-Echoes) |

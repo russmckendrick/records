@@ -4,6 +4,7 @@ artist_name: "Longpigs"
 artist: "longpigs"
 album_name: "The Sun Is Often Out"
 date: 2020-07-03T12:37:14.000000Z
+release_date: "1996-01-01"
 release_id: "15537055"
 slug: "the-sun-is-often-out-15537055"
 hideSummary: true
@@ -31,51 +32,31 @@ styles: ["Indie Rock"]
 
 The Sun Is Often Out (stylized as THE SUN iS OfTEN oUT) is the debut album by Longpigs, released in 1996 on U2's record label, Mother Records.
 Five singles were released from the album, initially to little success. The first two—"She Said" and "Jesus Christ"—both failed to crack the UK Top 40, both stalling at No. 67. The third single, "Far", fared a little better, scraping into the Top 40, reaching No. 37 and receiving significant radio airplay, particularly on the national pop and rock radio station, BBC Radio 1. However, the next single, "On and On", would be the band's breakthrough single, reaching No. 16 in the UK. With this momentum the album was released in April, and shortly after, "She Said" was re-released, also making it to No. 16 in the UK singles chart. The final single from the album, "Lost Myself", narrowly missed giving the band a third successive Top 20 single, stalling at No. 22.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Lost Myself
-2. She Said
-3. Far
-4. On And On
-5. Happy Again
-6. All Hype
-7. Sally Dances
-8. Jesus Christ
-9. Dozen Wicked Words
-10. Elvis
-11. Over Our Bodies
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Lost Myself |  |
+| A2 | She Said |  |
+| A3 | Far |  |
+| A4 | On And On |  |
+| A5 | Happy Again |  |
+| A6 | All Hype |  |
+| B1 | Sally Dances |  |
+| B2 | Jesus Christ |  |
+| B3 | Dozen Wicked Words |  |
+| B4 | Elvis |  |
+| B5 | Over Our Bodies |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-sun-is-often-out/1489735610" >}}<br>
 
 
-## Videos
-### Longpigs - On and On
-{{< youtube id="6Pg32F19KfI" title="Longpigs - On and On" >}}<br>
-### More Videos
-
-- [The Longpigs - Jesus Christ](https://www.youtube.com/watch?v=wjGPT7LJQHA)
-- [Longpigs - Sally Dances](https://www.youtube.com/watch?v=TAdFwQMgt8k)
-- [Longpigs - Far](https://www.youtube.com/watch?v=3ZW04NmOf7g)
-- [Lost Myself - Longpigs The](https://www.youtube.com/watch?v=1fdbblQ2HMc)
-- [Longpigs - Elvis](https://www.youtube.com/watch?v=IrZ7-xuxrSY)
-- [Longpigs - She Said](https://www.youtube.com/watch?v=dutG1mcfkpo)
-- [LONGPIGS  On  and On   BBC Radio One live session track  1995](https://www.youtube.com/watch?v=TnKFBlkw8gU)
-- [Longpigs - She Said Top Of The Pops](https://www.youtube.com/watch?v=4S1DgmkbW6E)
-- [The Longpigs - On And On US Version](https://www.youtube.com/watch?v=1P-oRJ-5M0A)
-- [Lost Myself](https://www.youtube.com/watch?v=n2v1sj9eRXI)
-- [Lost Myself](https://www.youtube.com/watch?v=OXMRz0WQPgI)
-- [On  On](https://www.youtube.com/watch?v=vmHNHWPtlZg)
-- [Elvis](https://www.youtube.com/watch?v=1SrfFy523f8)
-- [Over Our Bodies](https://www.youtube.com/watch?v=2soMlrKasCI)
-- [Far](https://www.youtube.com/watch?v=MS066blVC1I)
-- [She Said](https://www.youtube.com/watch?v=sStoUPJk_Ac)
-- [LONGPIGS  On  and On   BBC Radio One live session track  1995](https://www.youtube.com/watch?v=TnKFBlkw8gU)
-- [All Hype](https://www.youtube.com/watch?v=N6p9vVxTBpM)
-- [Longpigs - On and On](https://www.youtube.com/watch?v=6Pg32F19KfI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -87,5 +68,5 @@ Five singles were released from the album, initially to little success. The firs
 | Format         | Vinyl LP Album Reissue (Blue) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC707X |
-| Notes | Amazon.co.uk exclusive version with alternate barcode (on sticker) and unique blue 'hype' sticker. The sleeve is also hand signed by lead singer Crispin Hunt. Limited to 500 copies.  Exclusive catalogue number only features on the 'hype' sticker. Record and inner sleeve is identical to the standard blue vinyl reissue. Sleeve is the same except for an unique barcode sticker and being signed by Crispin Hunt.  Blue hype sticker reads: THE SUN iS OfTEN oUT The 1996 debut album by LONGPIGS Reissued on vinyl for the first time Includes the singles 'On ANd ON', 'SHE SAiD' & 'LOST MySELf' Pressed on heavyweight 180g blue vinyl Amazon exclusive Version Signed by CRiSPiN HUNT DEMREC707X [DEMON RECORDS (logo)]  A "DOO-WOP" record-design by ABRAHAMS PANTS & Orla Quirke  Manufactured in the EU  Press details: "Demon Records is proud to present the first ever vinyl reissue of this cult classic, pressed on 180g heavyweight Blue vinyl. This Amazon Exclusive version is signed by vocalist Crispin hunt and is strictly limited to 500 copies" |
+| Notes | Amazon.co.uk exclusive version with alternate barcode (on sticker) and unique blue 'hype' sticker.<br>The sleeve is also hand signed by lead singer Crispin Hunt.<br>Limited to 500 copies.<br><br>Exclusive catalogue number only features on the 'hype' sticker.<br>Record and inner sleeve is identical to the standard blue vinyl reissue.<br>Sleeve is the same except for an unique barcode sticker and being signed by Crispin Hunt.<br><br>Blue hype sticker reads:<br>THE SUN iS OfTEN oUT<br>The 1996 debut album by<br>LONGPIGS<br>Reissued on vinyl<br>for the first time<br>Includes the singles<br>'On ANd ON',<br>'SHE SAiD' & 'LOST MySELf'<br>Pressed on heavyweight<br>180g blue vinyl<br>Amazon exclusive Version<br>Signed by CRiSPiN HUNT<br>DEMREC707X<br>[DEMON RECORDS (logo)]<br><br>A "DOO-WOP" record-design by ABRAHAMS PANTS & Orla Quirke<br><br>Manufactured in the EU<br><br>Press details: "Demon Records is proud to present the first ever vinyl reissue of this cult classic, pressed on 180g heavyweight Blue vinyl. This Amazon Exclusive version is signed by vocalist Crispin hunt and is strictly limited to 500 copies" |
 | Discogs URL    | [Longpigs - The Sun Is Often Out](https://www.discogs.com/release/15537055-Longpigs-The-Sun-Is-Often-Out) |

@@ -4,6 +4,7 @@ artist_name: "The Black Crowes"
 artist: "the-black-crowes"
 album_name: "Amorica"
 date: 2015-12-21T22:34:04.000000Z
+release_date: "1994-11-01"
 release_id: "7862351"
 slug: "amorica-7862351"
 hideSummary: true
@@ -31,33 +32,31 @@ The album cover notably featured a close-up photo of the pelvic region of a woma
 Other songs recorded during the Amorica sessions were "Feathers," "Tied Up and Swallowed" and "Chevrolet" (a Taj Mahal cover), which were later released as B-sides, bonus tracks or on compilation albums.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Gone (5:08)
-2. A Conspiracy (4:44)
-3. High Head Blues (4:00)
-4. Cursed Diamond (5:56)
-5. Nonfiction (4:15)
-6. She Gave Good Sunflower (5:48)
-7. P. 25 London (3:37)
-8. Ballad In Urgency (5:39)
-9. Wiser Time (5:31)
-10. Downtown Money Waster (3:39)
-11. Descending (5:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Gone | 5:08 |
+| A2 | A Conspiracy | 4:44 |
+| A3 | High Head Blues | 4:00 |
+| B4 | Cursed Diamond | 5:56 |
+| B5 | Nonfiction | 4:15 |
+| B6 | She Gave Good Sunflower | 5:48 |
+| C7 | P. 25 London | 3:37 |
+| C8 | Ballad In Urgency | 5:39 |
+| C9 | Wiser Time | 5:31 |
+| D10 | Downtown Money Waster | 3:39 |
+| D11 | Descending | 5:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/amorica/1443919777" >}}<br>
 
 
-## Videos
-### The Black Crowes - A Conspiracy
-{{< youtube id="zvGXRCQSd44" title="The Black Crowes - A Conspiracy" >}}<br>
-### More Videos
-
-- [The Black Crowes - High Head Blues - Official Music Video](https://www.youtube.com/watch?v=a7ZOUQKRpGc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +68,5 @@ Other songs recorded during the Amorica sessions were "Feathers," "Tied Up and S
 | Format         | Vinyl 2× LP Album Reissue (180 gram) |
 | Label          | American Recordings |
 | Catalog Number | 00602537494231 |
-| Notes | © ℗ 1994 American Recordings, LLC.  Made in the EU. Universal International Music B.V. Geritt Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands.  Comes with plain white inner sleeves and a double printed lyric sheet.  Has the original yellow disc labels with track times listed and a fishing-hook depicted on the first side of each record. Contains added coupon with [url=https://www.discogs.com/release/9476948]MP3 download[/url] code.  Back To Black Sticker on front. |
+| Notes | © ℗ 1994 American Recordings, LLC. <br>Made in the EU.<br>Universal International Music B.V. Geritt Van Der Veenlaan 4, 3743 Dn, Baarn, Netherlands.<br><br>Comes with plain white inner sleeves and a double printed lyric sheet. <br>Has the original yellow disc labels with track times listed and a fishing-hook depicted on the first side of each record.<br>Contains added coupon with [url=https://www.discogs.com/release/9476948]MP3 download[/url] code.<br><br>Back To Black Sticker on front. |
 | Discogs URL    | [The Black Crowes - Amorica](https://www.discogs.com/release/7862351-The-Black-Crowes-Amorica) |

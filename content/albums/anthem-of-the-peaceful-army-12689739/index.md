@@ -33,35 +33,24 @@ Swirling together the techniques and textures of rock and blues greats—The All
 
 
 ## Tracklisting
-1. Age Of Man
-2. The Cold Wind
-3. When The Curtain Falls
-4. Watching Over
-5. Lover, Leaver (Taker, Believer)
-6. You're The One
-7. The New Day
-8. Mountain Of The Sun
-9. Brave New World
-10. Anthem
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Age Of Man |  |
+| A2 | The Cold Wind |  |
+| A3 | When The Curtain Falls |  |
+| A4 | Watching Over |  |
+| A5 | Lover, Leaver (Taker, Believer) |  |
+| B6 | You're The One |  |
+| B7 | The New Day |  |
+| B8 | Mountain Of The Sun |  |
+| B9 | Brave New World |  |
+| B10 | Anthem |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/anthem-of-the-peaceful-army/1435351050" >}}<br>
 
 
-## Videos
-### Greta Van Fleet - Age of Man Audio
-{{< youtube id="Wd9te6ZQXpQ" title="Greta Van Fleet - Age of Man Audio" >}}<br>
-### More Videos
-
-- [Greta Van Fleet - The Cold Wind Audio](https://www.youtube.com/watch?v=WhwbltW35dM)
-- [Greta Van Fleet - When The Curtain Falls Audio](https://www.youtube.com/watch?v=hurQgJXtpKI)
-- [Greta Van Fleet - Watching Over Audio](https://www.youtube.com/watch?v=S5GG5eIql5E)
-- [Greta Van Fleet - Youre The One Audio](https://www.youtube.com/watch?v=S2pa-Eb4wLE)
-- [Greta Van Fleet - The New Day Audio](https://www.youtube.com/watch?v=j_fElyTRFCc)
-- [Greta Van Fleet - Lover Leaver Audio](https://www.youtube.com/watch?v=_JLkhO38Fu8)
-- [Greta Van Fleet - Mountain of the Sun Audio](https://www.youtube.com/watch?v=RqFwTIkWegY)
-- [Greta Van Fleet - Brave New World Audio](https://www.youtube.com/watch?v=K6l0JTo-Ovc)
-- [Greta Van Fleet - Anthem Audio](https://www.youtube.com/watch?v=D2xar8DwKi0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +62,5 @@ Swirling together the techniques and textures of rock and blues greats—The All
 | Format         | Vinyl LP Album Stereo |
 | Label          | Lava |
 | Catalog Number | 00602567949756 |
-| Notes | Similar to a [l1522969] repress [r=27436266], which has different runouts.  Includes a two-sided lyric/credit sheet insert.  Tracks listed sequentially on the back cover (e.g. "Side 2 track six").  Misspellings: - The title is misspelled on the back cover as "Anthem of the Peacful Army". - A line from the song 'When the curtain falls' has a spelling mistake in the lyric sheet: "Well I loved you in that move (movie) show". - A line from the song 'Anthem' has a word missing in the lyric sheet: "That the world is only what ('the' is missing) world is made of".  [On back cover]: ℗ & © 2018 Republic Records, a division of UMG Recordings, Inc & Lava Music LLC. [...] Made in the EU. Universal International Music B.V.  [On the insert]: © | 2018 | Published by LAVA Music Publishing (admin. Kobalt Music Publishing) All songs recorded at Blackbird Studio Nashville, TN All songs mixed [...] at Rustbelt Studios Royal Oak, MI All songs mastered [...] at Sterling Sound  Runouts are etched. Pressing plant identified by matrix code. |
+| Notes | Similar to a [l1522969] repress [r=27436266], which has different runouts.<br><br>Includes a two-sided lyric/credit sheet insert.<br><br>Tracks listed sequentially on the back cover (e.g. "Side 2 track six").<br><br>Misspellings:<br>- The title is misspelled on the back cover as "Anthem of the Peacful Army".<br>- A line from the song 'When the curtain falls' has a spelling mistake in the lyric sheet: "Well I loved you in that move (movie) show".<br>- A line from the song 'Anthem' has a word missing in the lyric sheet: "That the world is only what ('the' is missing) world is made of".<br><br>[On back cover]:<br>℗ & © 2018 Republic Records, a division of UMG Recordings, Inc & Lava Music LLC.<br>[...] Made in the EU. Universal International Music B.V.<br><br>[On the insert]:<br>© | 2018 | Published by LAVA Music Publishing (admin. Kobalt Music Publishing)<br>All songs recorded at Blackbird Studio Nashville, TN<br>All songs mixed [...] at Rustbelt Studios Royal Oak, MI<br>All songs mastered [...] at Sterling Sound<br><br>Runouts are etched.<br>Pressing plant identified by matrix code. |
 | Discogs URL    | [Greta Van Fleet - Anthem Of The Peaceful Army](https://www.discogs.com/release/12689739-Greta-Van-Fleet-Anthem-Of-The-Peaceful-Army) |

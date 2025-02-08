@@ -36,37 +36,25 @@ In 2016, The Stone Roses released their first new material in two decades. The b
 
 
 ## Tracklisting
-1. I Wanna Be Adored (4:49)
-2. She Bangs The Drums (3:52)
-3. Waterfall (4:39)
-4. Don't Stop (5:19)
-5. Bye Bye Bad Man (4:01)
-6. Elizabeth My Dear (0:55)
-7. (Song For My) Sugar Spun Sister (3:26)
-8. Made Of Stone (4:14)
-9. Shoot You Down (4:13)
-10. This Is The One (4:57)
-11. I Am The Resurrection (8:10)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Wanna Be Adored | 4:49 |
+| A2 | She Bangs The Drums | 3:52 |
+| A3 | Waterfall | 4:39 |
+| A4 | Don't Stop | 5:19 |
+| A5 | Bye Bye Bad Man | 4:01 |
+| B1 | Elizabeth My Dear | 0:55 |
+| B2 | (Song For My) Sugar Spun Sister | 3:26 |
+| B3 | Made Of Stone | 4:14 |
+| B4 | Shoot You Down | 4:13 |
+| B5 | This Is The One | 4:57 |
+| B6 | I Am The Resurrection | 8:10 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-stone-roses-turns-into-stone/553210422" >}}<br>
 
 
-## Videos
-### I Wanna Be Adored Remastered
-{{< youtube id="aa10yl8mirk" title="I Wanna Be Adored Remastered" >}}<br>
-### More Videos
-
-- [She Bangs the Drums Remastered](https://www.youtube.com/watch?v=T6cUmieJwJY)
-- [Waterfall Remastered](https://www.youtube.com/watch?v=Sk5bekdJ78o)
-- [Dont Stop Remastered](https://www.youtube.com/watch?v=VTvzdEQhMIY)
-- [Bye Bye Bad Man Remastered](https://www.youtube.com/watch?v=QCPdjuG2KMI)
-- [Elizabeth My Dear Remastered](https://www.youtube.com/watch?v=zrRKmKVYrPg)
-- [Song for My Sugar Spun Sister Remastered](https://www.youtube.com/watch?v=E7wflP-o1VQ)
-- [Made of Stone Remastered](https://www.youtube.com/watch?v=6zDYMLtVJ4g)
-- [Shoot You Down Remastered](https://www.youtube.com/watch?v=SesXkvL485c)
-- [This Is the One Remastered](https://www.youtube.com/watch?v=DBwU_EtoP1o)
-- [I Am the Resurrection Remastered](https://www.youtube.com/watch?v=vWP54WPwYlI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +66,5 @@ In 2016, The Stone Roses released their first new material in two decades. The b
 | Format         | Vinyl LP Album Reissue Repress |
 | Label          | Silvertone Records |
 | Catalog Number | 88843041991 |
-| Notes | This reissue has raised gold lettering the same as the UK first pressing.   ℗ 2009 Silvertone Records Limited © 2014 Silvertone Records Limited. Silvertone Records Limited is wholly owned by Sony Music Enterainment UK Limited. Made in the EU. |
+| Notes | This reissue has raised gold lettering the same as the UK first pressing. <br><br>℗ 2009 Silvertone Records Limited © 2014 Silvertone Records Limited.<br>Silvertone Records Limited is wholly owned by Sony Music Enterainment UK Limited.<br>Made in the EU. |
 | Discogs URL    | [The Stone Roses - The Stone Roses](https://www.discogs.com/release/5581078-The-Stone-Roses-The-Stone-Roses) |

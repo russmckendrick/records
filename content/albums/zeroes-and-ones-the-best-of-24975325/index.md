@@ -4,6 +4,7 @@ artist_name: "Jesus Jones"
 artist: "jesus-jones"
 album_name: "Zeroes And Ones - The Best Of"
 date: 2022-10-29T04:27:30.000000Z
+release_date: "2013-09-17"
 release_id: "24975325"
 slug: "zeroes-and-ones-the-best-of-24975325"
 hideSummary: true
@@ -20,39 +21,44 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock", "Industrial"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Right Here, Right Now
-2. The Devil You Know
-3. All The Answers
-4. Caricature
-5. The Next Big Thing
-6. Trust Me
-7. Chemistry
-8. Info Freako
-9. International Bright Young Thing
-10. Get A Good Thing
-11. Who? Where? Why?
-12. Never Enough
-13. Culture Vulture
-14. Idiot Stare
-15. Real, Real, Real
-16. The Right Decision
-17. Move Mountains
-18. Suck It Up
-19. Blissed
-20. Motion
-21. Zeroes & Ones
-22. Bring It On Down
-23. Where Are All The Dreams
-24. Chemical #1
-25. Song 13
-26. Welcome Back Victoria
-27. Run On Empty
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Right Here, Right Now |  |
+| A2 | The Devil You Know |  |
+| A3 | All The Answers |  |
+| A4 | Caricature |  |
+| A5 | The Next Big Thing |  |
+| A6 | Trust Me |  |
+| A7 | Chemistry |  |
+| B1 | Info Freako |  |
+| B2 | International Bright Young Thing |  |
+| B3 | Get A Good Thing |  |
+| B4 | Who? Where? Why? |  |
+| B5 | Never Enough |  |
+| B6 | Culture Vulture |  |
+| B7 | Idiot Stare |  |
+| C1 | Real, Real, Real |  |
+| C2 | The Right Decision |  |
+| C3 | Move Mountains |  |
+| C4 | Suck It Up |  |
+| C5 | Blissed |  |
+| C6 | Motion |  |
+| D1 | Zeroes & Ones |  |
+| D2 | Bring It On Down |  |
+| D3 | Where Are All The Dreams |  |
+| D4 | Chemical #1 |  |
+| D5 | Song 13 |  |
+| D6 | Welcome Back Victoria |  |
+| D7 | Run On Empty |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/from-here-to-now-to-you/1435611352" >}}<br>
-
 
 
 
@@ -65,5 +71,5 @@ styles: ["Alternative Rock", "Synth-pop", "Indie Rock", "Industrial"]
 | Format         | Vinyl 2× LP Compilation (Gold Vinyl) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC 958 |
-| Notes | 2LP set featuring all the hits and more, with track-by-track annotation by the band's keyboard player Iain Baker Pressed on 140g Gold Vinyl |
+| Notes | 2LP set featuring all the hits and more, with track-by-track annotation by the band's keyboard player Iain Baker<br>Pressed on 140g Gold Vinyl |
 | Discogs URL    | [Jesus Jones - Zeroes And Ones - The Best Of](https://www.discogs.com/release/24975325-Jesus-Jones-Zeroes-And-Ones-The-Best-Of) |

@@ -4,6 +4,7 @@ artist_name: "Oceansize"
 artist: "oceansize"
 album_name: "Everyone Into Position"
 date: 2016-06-13T17:50:32.000000Z
+release_date: "2005-09-19"
 release_id: "1460942"
 slug: "everyone-into-position-1460942"
 hideSummary: true
@@ -28,39 +29,30 @@ styles: ["Alternative Rock", "Post Rock", "Indie Rock"]
 
 Everyone into Position is the second studio album by British progressive/alternative rock band Oceansize, released on 19 September 2005 on Beggars Banquet. The album marked the final appearance of bassist Jon Ellis.
 According to vocalist/guitarist Mike Vennart: "at the beginning of 'Ornament/The Last Wrongs' there are all these weird ambient noises and what it was is that a friend of ours was in the Amazon jungle and recorded all these parrots. They sounded like kids laughing and shouting, not parrots."
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Charm Offensive (7:19)
-2. Heaven Alive (6:21)
-3. A Homage To A Shame (5:52)
-4. Meredith (5:26)
-5. Music For A Nurse (8:16)
-6. New Pin (5:11)
-7. No Tomorrow (7:10)
-8. Mine Host (4:10)
-9. You Can't Keep A Bad Man Down (7:36)
-10. Ornament / The Last Wrongs (9:23)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Charm Offensive | 7:19 |
+| A2 | Heaven Alive | 6:21 |
+| A3 | A Homage To A Shame | 5:52 |
+| B1 | Meredith | 5:26 |
+| B2 | Music For A Nurse | 8:16 |
+| C1 | New Pin | 5:11 |
+| C2 | No Tomorrow | 7:10 |
+| C3 | Mine Host | 4:10 |
+| D1 | You Can't Keep A Bad Man Down | 7:36 |
+| D2 | Ornament / The Last Wrongs | 9:23 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everyone-into-position/1136804665" >}}<br>
 
 
-## Videos
-### Oceansize - New Pin
-{{< youtube id="1sc9tN_DVX0" title="Oceansize - New Pin" >}}<br>
-### More Videos
-
-- [Meredith](https://www.youtube.com/watch?v=BMz1xSrQzsw)
-- [Oceansize - The Charm Offensive with lyrics](https://www.youtube.com/watch?v=ox9SfroL0uQ)
-- [OrnamentThe Last Wrongs](https://www.youtube.com/watch?v=-EyzI6xQ6rU)
-- [Oceansize - Heaven Alive](https://www.youtube.com/watch?v=ZDi4wUKB8rE)
-- [You Cant Keep a Bad Man Down](https://www.youtube.com/watch?v=Zk810vgMqq0)
-- [Music For A Nurse](https://www.youtube.com/watch?v=DucQeZaD3GI)
-- [A Homage to a Shame](https://www.youtube.com/watch?v=PBdnFoY6ujk)
-- [Oceansize - No Tomorrow with lyrics](https://www.youtube.com/watch?v=Lz2wE3zf2ew)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +64,5 @@ According to vocalist/guitarist Mike Vennart: "at the beginning of 'Ornament/The
 | Format         | Vinyl 2× LP Album |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ 244 |
-| Notes | Recorded at Monnow Valley Studio, Monmouth and at The Works Studio, Stockport.  Mixed at Sarm West Studio, London.  Mastered at Abbey Road, London.   |
+| Notes | Recorded at Monnow Valley Studio, Monmouth and at The Works Studio, Stockport.<br>Mixed at Sarm West Studio, London.<br>Mastered at Abbey Road, London.<br> |
 | Discogs URL    | [Oceansize - Everyone Into Position](https://www.discogs.com/release/1460942-Oceansize-Everyone-Into-Position) |

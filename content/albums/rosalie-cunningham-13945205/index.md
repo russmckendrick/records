@@ -4,6 +4,7 @@ artist_name: "Rosalie Cunningham"
 artist: "rosalie-cunningham"
 album_name: "Rosalie Cunningham"
 date: 2019-09-03T17:17:57.000000Z
+release_date: "2019-07-26"
 release_id: "13945205"
 slug: "rosalie-cunningham-13945205"
 hideSummary: true
@@ -23,34 +24,28 @@ styles: ["Psychedelic Rock"]
 Rosalie Jo Cunningham (born 25 April 1990) is an English singer-songwriter. After the break-up of the band Ipso Facto, Cunningham started a new project named Purson. She has performed as a solo artist since 2017.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Ride On My Bike
-2. Fuck Love
-3. House Of The Glass Red
-4. Dethroning Of The Party Queen
-5. Nobody Hears
-6. Riddles And Games
-7. Butterflies 
-8. A Yarn From The Wheel
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ride On My Bike |  |
+| A2 | Fuck Love |  |
+| A3 | House Of The Glass Red |  |
+| A4 | Dethroning Of The Party Queen |  |
+| A5 | Nobody Hears |  |
+| B1 | Riddles And Games |  |
+| B2 | Butterflies  |  |
+| B3 | A Yarn From The Wheel |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rosalie-cunningham/1464598387" >}}<br>
 
 
-## Videos
-### Rosalie Cunningham - Nobody Hears OFFICIAL LYRIC VIDEO
-{{< youtube id="KYB4HyH_GPU" title="Rosalie Cunningham - Nobody Hears OFFICIAL LYRIC VIDEO" >}}<br>
-### More Videos
-
-- [Rosalie Cunningham - Rosalie Cunningham Full Album 2019](https://www.youtube.com/watch?v=BC2_2Bhd7lo)
-- [Rosalie Cunningham - Ride On My Bike OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=5l5YOplmlio)
-- [Rosalie Cunningham - Nobody Hears OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=KYB4HyH_GPU)
-- [Rosalie Cunningham - Rosalie Cunningham Full Album 2019](https://www.youtube.com/watch?v=BC2_2Bhd7lo)
-- [Rosalie Cunningham - Ride On My Bike OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=5l5YOplmlio)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +57,5 @@ Rosalie Jo Cunningham (born 25 April 1990) is an English singer-songwriter. Afte
 | Format         | Vinyl LP Album |
 | Label          | Esoteric Antenna |
 | Catalog Number | EANTLP1075 |
-| Notes | Standard black vinyl 200 copies was signed by the band Made in the EU |
+| Notes | Standard black vinyl<br>200 copies was signed by the band<br>Made in the EU |
 | Discogs URL    | [Rosalie Cunningham - Rosalie Cunningham](https://www.discogs.com/release/13945205-Rosalie-Cunningham-Rosalie-Cunningham) |

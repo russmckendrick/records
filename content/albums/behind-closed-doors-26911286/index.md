@@ -1,9 +1,10 @@
 ---
 title: "Thunder - Behind Closed Doors"
 artist_name: "Thunder"
-artist: "thunder-3"
+artist: "thunder"
 album_name: "Behind Closed Doors"
 date: 2023-04-29T11:43:49.000000Z
+release_date: "1995-01-23"
 release_id: "26911286"
 slug: "behind-closed-doors-26911286"
 hideSummary: true
@@ -32,40 +33,36 @@ Following the departure of the band's original bassist Mark "Snake" Luckhurst in
 Behind Closed Doors was promoted on the Behind Closed Doors Tour beginning in April 1995, which included shows in the UK, Europe and Japan, as well as a number of festival dates. Three singles were released from the album, all of which reached the top 40 of the UK Singles Chart – "Stand Up" peaked at number 23, "River of Pain" peaked at number 31 and "Castles in the Sand" peaked at number 30. All three singles also reached the UK Rock & Metal Singles Chart top five.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Moth To The Flame
-2. Fly On The Wall
-3. I'll Be Waiting
-4. River Of Pain
-5. Future Train
-6. 'Til The River Runs Dry
-7. Stand Up
-8. Preaching From A Chair
-9. Castles In The Sand
-10. Too Scared To Live
-11. Ball And Chain
-12. It Happened In This Town
-13. In A Broken Dream (Live At Club Citta Japan, 2000)
-14. Stand Up (Live At Shepherd's Bush Empire London, 2005)
-15. Til The River Runs Dry (Live At Nottingham Rock City, 2005)
-16. Preaching From A Chair (Acoustic At Tackle Out Studio Hove, 2019)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Moth To The Flame |  |
+| A2 | Fly On The Wall |  |
+| A3 | I'll Be Waiting |  |
+| A4 | River Of Pain |  |
+| B1 | Future Train |  |
+| B2 | 'Til The River Runs Dry |  |
+| B3 | Stand Up |  |
+| B4 | Preaching From A Chair |  |
+| C1 | Castles In The Sand |  |
+| C2 | Too Scared To Live |  |
+| C3 | Ball And Chain |  |
+| C4 | It Happened In This Town |  |
+| D1 | In A Broken Dream (Live At Club Citta Japan, 2000) |  |
+| D2 | Stand Up (Live At Shepherd's Bush Empire London, 2005) |  |
+| D3 | Til The River Runs Dry (Live At Nottingham Rock City, 2005) |  |
+| D4 | Preaching From A Chair (Acoustic At Tackle Out Studio Hove, 2019) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/behind-closed-doors/696411631" >}}<br>
 
 
-## Videos
-### Thunder - Behind Closed Doors Full Album
-{{< youtube id="J_aEafaZk6A" title="Thunder - Behind Closed Doors Full Album" >}}<br>
-### More Videos
-
-- [Thunder- River of Pain- Behind Closed Doors](https://www.youtube.com/watch?v=ohjIl6m5kVY)
-- [Thunder - Ill Be Waiting](https://www.youtube.com/watch?v=1NZvf4uwilM)
-- [Thunder - Stand Up - Behind Closed Doors](https://www.youtube.com/watch?v=oDYLrW5sncI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +74,5 @@ Behind Closed Doors was promoted on the Behind Closed Doors Tour beginning in Ap
 | Format         | Vinyl LP Album Limited Edition Reissue (Clear), Vinyl LP Album Limited Edition Reissue (Red) |
 | Label          | BMG |
 | Catalog Number | BMGCAT717DLP |
-| Notes | Track D1 Previously available on a Japan only live CD called 'Open The Window, Close The Door'. Long deleted and never previously available on vinyl or digital. Track D2 Previously unreleased Track D3 Previously only available on The Xmas Show Live 2005 CD given to ticket holders only. Long deleted and has never been on vinyl or digital. Track D4 Previously available on a Thunder shop exclusive CD in 2019 called 'Danny & Luke, A Nice Pair'. Long deleted and has never been on vinyl.  Some copies came with a limited edition art card. |
+| Notes | Track D1 Previously available on a Japan only live CD called 'Open The Window, Close The Door'. Long deleted and never previously available on vinyl or digital.<br>Track D2 Previously unreleased<br>Track D3 Previously only available on The Xmas Show Live 2005 CD given to ticket holders only. Long deleted and has never been on vinyl or digital.<br>Track D4 Previously available on a Thunder shop exclusive CD in 2019 called 'Danny & Luke, A Nice Pair'. Long deleted and has never been on vinyl.<br><br>Some copies came with a limited edition art card. |
 | Discogs URL    | [Thunder - Behind Closed Doors](https://www.discogs.com/release/26911286-Thunder-3-Behind-Closed-Doors) |

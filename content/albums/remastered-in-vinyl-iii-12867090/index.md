@@ -97,33 +97,35 @@ Bush worked with session musicians who had worked with groups such as Pilot, The
 
 
 ## Tracklisting
-1. Aerial
-2. "A Sea Of Honey"
-3. "A Sky Of Honey"
-4. Director's Cut 
-5. Flower Of The Mountain
-6. Song Of Solomon
-7. Lily
-8. Deeper Understanding
-9. The Red Shoes
-10. This Woman's Work
-11. Moments Of Pleasure
-12. Never Be Mine
-13. Top Of The City
-14. And So Is Love
-15. Rubberband Girl
-16. 50 Words For Snow
-17. Snowflake
-18. Lake Tahoe
-19. Misty
-20. Wild Man
-21. Snowed In At Wheeler Street
-22. 50 Words For Snow
-23. Among Angels
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Aerial |  |
+|  | "A Sea Of Honey" |  |
+|  | "A Sky Of Honey" |  |
+|  | Director's Cut  |  |
+| E1 | Flower Of The Mountain |  |
+| E2 | Song Of Solomon |  |
+| E3 | Lily |  |
+| F1 | Deeper Understanding |  |
+| F2 | The Red Shoes |  |
+| F3 | This Woman's Work |  |
+| G1 | Moments Of Pleasure |  |
+| G2 | Never Be Mine |  |
+| H1 | Top Of The City |  |
+| H2 | And So Is Love |  |
+| H3 | Rubberband Girl |  |
+|  | 50 Words For Snow |  |
+| I1 | Snowflake |  |
+| I2 | Lake Tahoe |  |
+| J1 | Misty |  |
+| K1 | Wild Man |  |
+| K2 | Snowed In At Wheeler Street |  |
+| L1 | 50 Words For Snow |  |
+| L2 | Among Angels |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-kick-inside-remastered/1441813799" >}}<br>
-
 
 
 

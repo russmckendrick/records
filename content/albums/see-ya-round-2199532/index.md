@@ -4,6 +4,7 @@ artist_name: "Split Enz"
 artist: "split-enz"
 album_name: "See Ya 'Round"
 date: 2018-10-03T18:03:57.000000Z
+release_date: ""
 release_id: "2199532"
 slug: "see-ya-round-2199532"
 hideSummary: true
@@ -27,31 +28,31 @@ Neil Finn's demos from this era included an early version of the future Crowded 
 The album's lead single, "I Walk Away," had a low-budget video clip which features the band protruding their faces through theatrical costume cut-outs, much like on the artwork of the album. The song was also released on a 12" single, featuring an of-its-era extended remix. Neither single nor album were released in the US, because after most copies of 1983's Conflicting Emotions ended up in bargain bins, the American label A&M would not risk another potential Split Enz failure and dropped them from the roster. "I Walk Away" was later re-recorded (with a different verse) and re-released on the U.S. issue of the first Crowded House album, as it was new to U.S. audiences. Originally intended as a goodbye to the Enz, key parts of the song were rewritten for the Crowded House album, supposedly to reflect Neil's uncertainty of venturing away from the security of the Enz.
 See Ya 'Round was initially released only in Australia and New Zealand, charting at #29 and #5, respectively. A later release in Canada featured a grey border on the cover instead of an orange one.
 After an appearance on Countdown and the release of "One Mouth Is Fed" as a follow-up single, the band decided to end with a proper goodbye and beckoned Tim Finn back for one final "Enz With a Bang" tour. It is on this tour that Neil met future Crowded House bassist and collaborator, Nick Seymour. A live album was released a year later featuring songs from the three Melbourne shows of this tour and the 1982 Time and Tide tour.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Breakin' My Back (3:53)
-2. I Walk Away (3:48)
-3. Doctor Love (4:15)
-4. One Mouth Is Fed (3:24)
-5. Years Go By (4:11)
-6. Voices (3:30)
-7. The Lost Cat (5:45)
-8. Adz (4:07)
-9. This Is Massive (3:24)
-10. Kia Kaha (3:36)
-11. Ninnie Knees Up (3:09)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Breakin' My Back | 3:53 |
+| A2 | I Walk Away | 3:48 |
+| A3 | Doctor Love | 4:15 |
+| A4 | One Mouth Is Fed | 3:24 |
+| A5 | Years Go By | 4:11 |
+| A6 | Voices | 3:30 |
+| B1 | The Lost Cat | 5:45 |
+| B2 | Adz | 4:07 |
+| B3 | This Is Massive | 3:24 |
+| B4 | Kia Kaha | 3:36 |
+| B5 | Ninnie Knees Up | 3:09 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Split Enz - I Walk Away Official Video
-{{< youtube id="t2SZYbzRajU" title="Split Enz - I Walk Away Official Video" >}}<br>
-### More Videos
 
-- [Split Enz - I Walk Away Official Video](https://www.youtube.com/watch?v=t2SZYbzRajU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +64,5 @@ After an appearance on Countdown and the release of "One Mouth Is Fed" as a foll
 | Format         | Vinyl LP Album |
 | Label          | Mushroom |
 | Catalog Number | RML 52050 |
-| Notes | Recorded at A.A.V. Studios, Melbourne.  ℗ 1984 Mushroom Records Pty. Ltd. Australia. Trademark owned by Mushroom Records Pty. Ltd. Australia and used by Festival Records Pty. Ltd. Australia and Festival Records (N.Z.) Ltd. under authorization. Manufactured under license by Festival Manufacturing Pty. Ltd. Australia and Festival Records Retails Marketing Ltd. N.Z. Distributed by Festival Records Retail Marketing © 1984 Mushroom Records Pty. Ltd. Australia  NZ pressing |
+| Notes | Recorded at A.A.V. Studios, Melbourne.<br><br>℗ 1984 Mushroom Records Pty. Ltd. Australia.<br>Trademark owned by Mushroom Records Pty. Ltd. Australia and used by Festival Records Pty. Ltd. Australia and Festival Records (N.Z.) Ltd. under authorization.<br>Manufactured under license by Festival Manufacturing Pty. Ltd. Australia and Festival Records Retails Marketing Ltd. N.Z.<br>Distributed by Festival Records Retail Marketing<br>© 1984 Mushroom Records Pty. Ltd. Australia<br><br>NZ pressing |
 | Discogs URL    | [Split Enz - See Ya 'Round](https://www.discogs.com/release/2199532-Split-Enz-See-Ya-Round) |

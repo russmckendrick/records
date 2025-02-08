@@ -4,6 +4,7 @@ artist_name: "Deacon Blue"
 artist: "deacon-blue"
 album_name: "Believers"
 date: 2021-05-31T11:05:23.000000Z
+release_date: "2016-09-30"
 release_id: "9416088"
 slug: "believers-9416088"
 hideSummary: true
@@ -22,34 +23,32 @@ styles: ["Pop Rock"]
 ---
 
 Believers is the eighth studio album released by Scottish band Deacon Blue, released on 30 September 2016 via both EarMusic and Sheer Sound recording labels. The album was a commercial success in the United Kingdom, debuting at number thirteen and remained in the UK Albums Chart for a further week, making Believers Deacon Blue's seventh Top 40 UK album. In their native Scotland, Believers debuted at number four on the Scottish Albums Chart.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Believers (3:35)
-2. This Is A Love Song (4:00)
-3. I Will And I Won't (3:42)
-4. Meteors (3:00)
-5. Gone (3:34)
-6. What I Left Out (3:14)
-7. A Boy (3:10)
-8. Birds (5:52)
-9. You Can't Know Everything (3:35)
-10. Delivery Man (4:22)
-11. Come Awake (3:28)
-12. B Boy (1:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Believers | 3:35 |
+| A2 | This Is A Love Song | 4:00 |
+| A3 | I Will And I Won't | 3:42 |
+| A4 | Meteors | 3:00 |
+| A5 | Gone | 3:34 |
+| A6 | What I Left Out | 3:14 |
+| B1 | A Boy | 3:10 |
+| B2 | Birds | 5:52 |
+| B3 | You Can't Know Everything | 3:35 |
+| B4 | Delivery Man | 4:22 |
+| B5 | Come Awake | 3:28 |
+| B6 | B Boy | 1:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/believers/1136775251" >}}<br>
 
 
-## Videos
-### Deacon Blue  - Believers - 03 - I Will and I Wont
-{{< youtube id="UVUsVqdKzmI" title="Deacon Blue  - Believers - 03 - I Will and I Wont" >}}<br>
-### More Videos
-
-- [Deacon Blue The Believers Official Music Video](https://www.youtube.com/watch?v=d9JmILWh5i8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +60,5 @@ Believers is the eighth studio album released by Scottish band Deacon Blue, rele
 | Format         | Vinyl LP Album Stereo |
 | Label          | Ear Music |
 | Catalog Number | 0211435EMU |
-| Notes | Hype sticker on shrink reads:  "DEACON BLUE  Their brilliant new album.  Featuring 'The Believers' and 'This is a Love Song'.  THIS IS CLASSIC DEACON BLUE" .  Durations do not appear on this release.  Made in Germany. |
+| Notes | Hype sticker on shrink reads: <br>"DEACON BLUE <br>Their brilliant new album. <br>Featuring 'The Believers' and 'This is a Love Song'. <br>THIS IS CLASSIC DEACON BLUE" .<br><br>Durations do not appear on this release.<br><br>Made in Germany. |
 | Discogs URL    | [Deacon Blue - Believers](https://www.discogs.com/release/9416088-Deacon-Blue-Believers) |

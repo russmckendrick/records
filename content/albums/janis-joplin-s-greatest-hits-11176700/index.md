@@ -30,24 +30,23 @@ Few white women knew the blues as well as Joplin, and this collection showcases 
 
 
 ## Tracklisting
-1. Piece Of My Heart (4:19)
-2. Summertime (4:01)
-3. Try (Just A Little Bit Harder) (4:02)
-4. Cry Baby (3:57)
-5. Me And Bobby McGee (4:30)
-6. Down On Me (3:07)
-7. Get It While You Can (3:24)
-8. Bye, Bye Baby (2:36)
-9. Move Over (3:40)
-10. Ball And Chain (8:01)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Piece Of My Heart | 4:19 |
+| A2 | Summertime | 4:01 |
+| A3 | Try (Just A Little Bit Harder) | 4:02 |
+| A4 | Cry Baby | 3:57 |
+| A5 | Me And Bobby McGee | 4:30 |
+| B1 | Down On Me | 3:07 |
+| B2 | Get It While You Can | 3:24 |
+| B3 | Bye, Bye Baby | 2:36 |
+| B4 | Move Over | 3:40 |
+| B5 | Ball And Chain | 8:01 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/janis-joplins-greatest-hits/1475500000" >}}<br>
 
-
-## Videos
-### Ball and Chain
-{{< youtube id="Y504YSHPSuI" title="Ball and Chain" >}}<br>
 
 
 ## Release Images
@@ -60,5 +59,5 @@ Few white women knew the blues as well as Joplin, and this collection showcases 
 | Format         | Vinyl LP Compilation Reissue (Pink & Blue Splattered Clear) |
 | Label          | Columbia |
 | Catalog Number | 88985479731 |
-| Notes | THE CLASSIC GREATEST HITS SERIES FIRST TIME AVAILABLE ON VINYL IN 27 YEARS PRESSED ON PINK & BLUE SPLATTERED CLEAR VINYL  For Record Store Day's Black Friday 2017  Inc MP3 download |
+| Notes | THE CLASSIC GREATEST HITS SERIES<br>FIRST TIME AVAILABLE ON VINYL IN 27 YEARS<br>PRESSED ON PINK & BLUE SPLATTERED CLEAR VINYL<br><br>For Record Store Day's Black Friday 2017<br><br>Inc MP3 download |
 | Discogs URL    | [Janis Joplin - Janis Joplin's Greatest Hits](https://www.discogs.com/release/11176700-Janis-Joplin-Janis-Joplins-Greatest-Hits) |

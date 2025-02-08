@@ -4,6 +4,7 @@ artist_name: "Broken DC"
 artist: "broken-dc"
 album_name: "Astragal"
 date: 2016-11-17T19:53:32.000000Z
+release_date: "2016-10-17"
 release_id: "9156904"
 slug: "astragal-9156904"
 hideSummary: true
@@ -18,26 +19,28 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. White Street (1:19)
-2. Chimes (4:31)
-3. Namer Of Clouds (3:41)
-4. Phase In A Still River Flows (7:39)
-5. Hollow Tree (2:44)
-6. Black Candles (2:25)
-7. Forever Blue (5:30)
-8. Soon The Monsoon (3:02)
-9. Summer Lawns (4:57)
-10. Always Is Now (6:28)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | White Street | 1:19 |
+| A2 | Chimes | 4:31 |
+| A3 | Namer Of Clouds | 3:41 |
+| A4 | Phase In A Still River Flows | 7:39 |
+| A5 | Hollow Tree | 2:44 |
+| B1 | Black Candles | 2:25 |
+| B2 | Forever Blue | 5:30 |
+| B3 | Soon The Monsoon | 3:02 |
+| B4 | Summer Lawns | 4:57 |
+| B5 | Always Is Now | 6:28 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/astragal/1171757044" >}}<br>
 
-
-## Videos
-### Broken DC - Summer Lawns
-{{< youtube id="mK12aoSMjvc" title="Broken DC - Summer Lawns" >}}<br>
 
 
 ## Release Images

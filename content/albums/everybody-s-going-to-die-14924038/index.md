@@ -4,6 +4,7 @@ artist_name: "Church Of The Cosmic Skull"
 artist: "church-of-the-cosmic-skull"
 album_name: "Everybody's Going To Die "
 date: 2020-03-14T09:50:10.000000Z
+release_date: "2019-11-29"
 release_id: "14924038"
 slug: "everybody-s-going-to-die-14924038"
 hideSummary: true
@@ -27,31 +28,29 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Fantasy (1:58)
-2. Don't You Believe In Magic? (4:06)
-3. Everybody's Going To Die (4:07)
-4. Do What You Want (With Love In Your Heart) (3:22)
-5. Into The Skull (3:00)
-6. Seven (3:08)
-7. The Hunt (5:40)
-8. The Great Black Hole (2:59)
-9. Sorcery & Sabotage (3:03)
-10. Living In A Bubble (3:47)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fantasy | 1:58 |
+| A2 | Don't You Believe In Magic? | 4:06 |
+| A3 | Everybody's Going To Die | 4:07 |
+| A4 | Do What You Want (With Love In Your Heart) | 3:22 |
+| A5 | Into The Skull | 3:00 |
+| B1 | Seven | 3:08 |
+| B2 | The Hunt | 5:40 |
+| B3 | The Great Black Hole | 2:59 |
+| B4 | Sorcery & Sabotage | 3:03 |
+| B5 | Living In A Bubble | 3:47 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everybodys-going-to-die/1487673648" >}}<br>
 
 
-## Videos
-### Everybodys Going to Die
-{{< youtube id="vaMH-ha3Lbc" title="Everybodys Going to Die" >}}<br>
-### More Videos
-
-- [Church of the Cosmic Skull - Sorcery  Sabotage Official Video](https://www.youtube.com/watch?v=KcFy-lYmncE)
-- [Everybodys Going to Die](https://www.youtube.com/watch?v=vaMH-ha3Lbc)
-- [Church of the Cosmic Skull - Sorcery  Sabotage Official Video](https://www.youtube.com/watch?v=KcFy-lYmncE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +61,5 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 | Format         | Vinyl LP Album Limited Edition Numbered (Cosmic Rainbow Edition) |
 | Label          | Septaphonic Records |
 | Catalog Number | Septaphonic 1 |
-| Notes | Limited to 500 numbered copies, sold as an exclusive preorder by the band themselves.  Comes with signed poster and certificate of authentication on name of customer Serial number: 5 070000 12808 |
+| Notes | Limited to 500 numbered copies, sold as an exclusive preorder by the band themselves.<br><br>Comes with signed poster and certificate of authentication on name of customer<br>Serial number: 5 070000 12808 |
 | Discogs URL    | [Church Of The Cosmic Skull - Everybody's Going To Die ](https://www.discogs.com/release/14924038-Church-Of-The-Cosmic-Skull-Everybodys-Going-To-Die-) |

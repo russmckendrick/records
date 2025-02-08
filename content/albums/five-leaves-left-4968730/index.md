@@ -34,35 +34,24 @@ The haunting songs of Nick Drake continue to fascinate fans worldwide over 30 ye
 
 
 ## Tracklisting
-1. Time Has Told Me (3:56)
-2. River Man (4:28)
-3. Three Hours (6:01)
-4. Way To Blue (3:05)
-5. Day Is Done (2:22)
-6. 'Cello Song (3:58)
-7. The Thoughts Of Mary Jane (3:12)
-8. Man In A Shed (3:49)
-9. Fruit Tree (4:42)
-10. Saturday Sun (4:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Time Has Told Me | 3:56 |
+| A2 | River Man | 4:28 |
+| A3 | Three Hours | 6:01 |
+| A4 | Way To Blue | 3:05 |
+| A5 | Day Is Done | 2:22 |
+| B1 | 'Cello Song | 3:58 |
+| B2 | The Thoughts Of Mary Jane | 3:12 |
+| B3 | Man In A Shed | 3:49 |
+| B4 | Fruit Tree | 4:42 |
+| B5 | Saturday Sun | 4:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/five-leaves-left-remastered/1440656068" >}}<br>
 
 
-## Videos
-### Time Has Told Me
-{{< youtube id="G8SmkwS82u4" title="Time Has Told Me" >}}<br>
-### More Videos
-
-- [River Man](https://www.youtube.com/watch?v=HQ9JBwuO128)
-- [Three Hours](https://www.youtube.com/watch?v=VfSWWScqH5M)
-- [Day Is Done](https://www.youtube.com/watch?v=9VNfZwvuyBA)
-- [Way To Blue](https://www.youtube.com/watch?v=DW2m0wp8zO0)
-- [ Cello Song](https://www.youtube.com/watch?v=MhSVh75lKiE)
-- [The Thoughts Of Mary Jane](https://www.youtube.com/watch?v=XpR_OdvyRNI)
-- [Man In A Shed](https://www.youtube.com/watch?v=RPETztdS7Fk)
-- [Fruit Tree](https://www.youtube.com/watch?v=lBBeyHk8Gmw)
-- [Saturday Sun](https://www.youtube.com/watch?v=QwaqO3i_eQA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +63,5 @@ The haunting songs of Nick Drake continue to fascinate fans worldwide over 30 ye
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Island Records |
 | Catalog Number | 0602537347568 |
-| Notes | Packaged in a gatefold sleeve. Includes a custom inner sleeve. Some copies include a digital download.  Remastered from a 24-bit digital file made from the original tape by the album's original engineer, John Wood at Abbey Road Studios.  All Songs [...] © 1969 Warlock Music Ltd.  Printed & Made by Ernest J. Day & Co. Ltd. |
+| Notes | Packaged in a gatefold sleeve.<br>Includes a custom inner sleeve.<br>Some copies include a digital download.<br><br>Remastered from a 24-bit digital file made from the original tape by the album's original engineer, John Wood at Abbey Road Studios.<br><br>All Songs [...] © 1969 Warlock Music Ltd.<br><br>Printed & Made by Ernest J. Day & Co. Ltd. |
 | Discogs URL    | [Nick Drake - Five Leaves Left](https://www.discogs.com/release/4968730-Nick-Drake-Five-Leaves-Left) |

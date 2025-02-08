@@ -4,6 +4,7 @@ artist_name: "The Wonder Stuff"
 artist: "the-wonder-stuff"
 album_name: "Never Loved Elvis"
 date: 2019-01-12T11:06:30.000000Z
+release_date: "1991"
 release_id: "566167"
 slug: "never-loved-elvis-566167"
 hideSummary: true
@@ -30,38 +31,33 @@ The song "Mission Drive" was inspired by Wonder Stuff singer Miles Hunt's fall o
 The most successful single from the album, "The Size of a Cow", reached No. 5 on the UK singles chart. The album peaked at No. 3 on the albums chart.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Mission Drive (4:08)
-2. Play (2:47)
-3. False Start (0:47)
-4. Welcome To The Cheap Seats (2:54)
-5. The Size Of A Cow (3:12)
-6. Sleep Alone (3:52)
-7. Donation (3:51)
-8. Inertia (3:57)
-9. Maybe (4:12)
-10. Grotesque (1:59)
-11. Here Comes Everyone (3:53)
-12. Caught In My Shadow (3:48)
-13. 38 Line Poem (5:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mission Drive | 4:08 |
+| A2 | Play | 2:47 |
+| A3 | False Start | 0:47 |
+| A4 | Welcome To The Cheap Seats | 2:54 |
+| A5 | The Size Of A Cow | 3:12 |
+| A6 | Sleep Alone | 3:52 |
+| A7 | Donation | 3:51 |
+| B1 | Inertia | 3:57 |
+| B2 | Maybe | 4:12 |
+| B3 | Grotesque | 1:59 |
+| B4 | Here Comes Everyone | 3:53 |
+| B5 | Caught In My Shadow | 3:48 |
+| B6 | 38 Line Poem | 5:26 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/never-loved-elvis-live/1342325822" >}}<br>
 
 
-## Videos
-### The Wonder Stuff - Welcome to the Cheap Seats Late Night with David Letterman 1991
-{{< youtube id="I4oJGOQZTsA" title="The Wonder Stuff - Welcome to the Cheap Seats Late Night with David Letterman 1991" >}}<br>
-### More Videos
-
-- [The Wonder Stuff Never Loved Elvis Live](https://www.youtube.com/watch?v=K6HRGN1pk4s)
-- [The Wonder Stuff - Sleep Alone HD 1080p - Never Loved Elvis Birmingham O2 - 15-12-2011](https://www.youtube.com/watch?v=yQbz0Fq91nw)
-- [Wonderstuff Size of a cow](https://www.youtube.com/watch?v=t1egoyuCrwM)
-- [THE WONDER STUFF - Mission Drive  Live1991](https://www.youtube.com/watch?v=V4NW5S1UTPQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +69,5 @@ The most successful single from the album, "The Size of a Cow", reached No. 5 on
 | Format         | Vinyl LP Album |
 | Label          | The Far Out Recording Company |
 | Catalog Number | 847252-1 |
-| Notes | Ⓟ&Ⓒ 1991 Polydor Ltd. (UK)	 Comes with printed inner sleeve. Release date taken from 'Polydor News' press release. |
+| Notes | Ⓟ&Ⓒ 1991 Polydor Ltd. (UK)	<br>Comes with printed inner sleeve.<br>Release date taken from 'Polydor News' press release. |
 | Discogs URL    | [The Wonder Stuff - Never Loved Elvis](https://www.discogs.com/release/566167-The-Wonder-Stuff-Never-Loved-Elvis) |

@@ -4,6 +4,7 @@ artist_name: "Hooverphonic"
 artist: "hooverphonic"
 album_name: "The Best Of Hooverphonic"
 date: 2021-06-29T02:28:57.000000Z
+release_date: "2016-10-21"
 release_id: "18295270"
 slug: "the-best-of-hooverphonic-18295270"
 hideSummary: true
@@ -30,53 +31,52 @@ styles: ["Europop", "Downtempo"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. You
-2. Badaboum
-3. Hiding In A Song
-4. I Like The Way I Dance
-5. Deep Forest
-6. Amalfi
-7. Ether
-8. Boomerang
-9. Gravity
-10. Happiness
-11. Anger Never Dies
-12. The Night Before
-13. Heartbroken
-14. One Two Three
-15. Vinegar & Salt (Orchestra Version)
-16. Unfinished Sympathy (Orchestra Version)
-17. Renaissance Affair (Orchestra Version)
-18. 2 Wicky
-19. Eden
-20. Club Montepulciano
-21. This Stange Effect
-22. Mad About You
-23. Jackie Cane
-24. Out Of Sight
-25. Vinegar & Salt
-26. Sometimes
-27. The World Is Mine
-28. The Last Thing I Need is You
-29. We All Float
-30. Wake Up
-31. You Hurt Me
-32. Dirty Lenses
-33. Expedition Impossible
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | You |  |
+| A2 | Badaboum |  |
+| A3 | Hiding In A Song |  |
+| A4 | I Like The Way I Dance |  |
+| A5 | Deep Forest |  |
+| A6 | Amalfi |  |
+| B1 | Ether |  |
+| B2 | Boomerang |  |
+| B3 | Gravity |  |
+| B4 | Happiness |  |
+| B5 | Anger Never Dies |  |
+| C1 | The Night Before |  |
+| C2 | Heartbroken |  |
+| C3 | One Two Three |  |
+| C4 | Vinegar & Salt (Orchestra Version) |  |
+| C5 | Unfinished Sympathy (Orchestra Version) |  |
+| C6 | Renaissance Affair (Orchestra Version) |  |
+| D1 | 2 Wicky |  |
+| D2 | Eden |  |
+| D3 | Club Montepulciano |  |
+| D4 | This Stange Effect |  |
+| D5 | Mad About You |  |
+| E1 | Jackie Cane |  |
+| E2 | Out Of Sight |  |
+| E3 | Vinegar & Salt |  |
+| E4 | Sometimes |  |
+| E5 | The World Is Mine |  |
+| E6 | The Last Thing I Need is You |  |
+| F1 | We All Float |  |
+| F2 | Wake Up |  |
+| F3 | You Hurt Me |  |
+| F4 | Dirty Lenses |  |
+| F5 | Expedition Impossible |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-hooverphonic/1162708533" >}}<br>
 
 
-## Videos
-### Hooverphonic - 2 Wicky Official Video
-{{< youtube id="dppcuKJrqbE" title="Hooverphonic - 2 Wicky Official Video" >}}<br>
-### More Videos
-
-- [Hooverphonic - You Still Video](https://www.youtube.com/watch?v=wplXFoN_RQg)
-- [Hooverphonic - Sometimes](https://www.youtube.com/watch?v=_QbnmV90tko)
 
 ## Release Images
 {{< imageGrid >}}
@@ -87,5 +87,5 @@ styles: ["Europop", "Downtempo"]
 | Format         | Vinyl 3× LP Compilation Reissue Stereo |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2638 |
-| Notes | 180gr audiophile vinyl  |
+| Notes | 180gr audiophile vinyl<br> |
 | Discogs URL    | [Hooverphonic - The Best Of Hooverphonic](https://www.discogs.com/release/18295270-Hooverphonic-The-Best-Of-Hooverphonic) |

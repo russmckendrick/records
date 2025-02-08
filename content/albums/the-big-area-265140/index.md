@@ -4,6 +4,7 @@ artist_name: "Then Jerico"
 artist: "then-jerico"
 album_name: "The Big Area"
 date: 2016-07-05T18:10:33.000000Z
+release_date: "1989-01-01"
 release_id: "265140"
 slug: "the-big-area-265140"
 hideSummary: true
@@ -23,31 +24,29 @@ styles: ["Alternative Rock", "Pop Rock"]
 ---
 
 The Big Area is the second album by English rock band Then Jerico, released in 1989. It includes three singles which reached the UK top 40: "Big Area" (No. 13; the band's biggest single to date), "What Does It Take" (featuring backing vocals by Belinda Carlisle; No. 33) and "Sugar Box" (No. 22). The album reached No. 4 in the UK Albums Chart.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Big Area (4:46)
-2. What Does It Take? (3:46)
-3. You Ought To Know (4:10)
-4. Song For The Brokenhearted (4:26)
-5. Darkest Hour (4:28)
-6. Reeling (5:36)
-7. Where You Lie (4:52)
-8. Sugar Box (3:42)
-9. Helpless (4:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Big Area | 4:46 |
+| A2 | What Does It Take? | 3:46 |
+| A3 | You Ought To Know | 4:10 |
+| A4 | Song For The Brokenhearted | 4:26 |
+| A5 | Darkest Hour | 4:28 |
+| B1 | Reeling | 5:36 |
+| B2 | Where You Lie | 4:52 |
+| B3 | Sugar Box | 3:42 |
+| B4 | Helpless | 4:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-big-area/1320027819" >}}<br>
 
 
-## Videos
-### Then Jerico - Big Area
-{{< youtube id="wzIS86D1YJc" title="Then Jerico - Big Area" >}}<br>
-### More Videos
-
-- [Then Jerico - The Big Area - 1989 LP Album](https://www.youtube.com/watch?v=j2tlBpk8XJk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,5 +58,5 @@ The Big Area is the second album by English rock band Then Jerico, released in 1
 | Format         | Vinyl LP Album Stereo |
 | Label          | London Records |
 | Catalog Number | 828 122-1 |
-| Notes | "Big Area" is featured in the movie "Slipstream".  Includes a printed inner sleeve with lyrics to all songs and credits.  Sleeve spine and inner sleeve has the title printed as: The Big Area (Outside)  Written and recorded in 1988.  Made in England.  © 1989 FFRR Records Ltd.  ℗ 1989 FFRR Records Ltd.  Durations do not appear on this release. Timings via stopwatch. |
+| Notes | "Big Area" is featured in the movie "Slipstream".<br><br>Includes a printed inner sleeve with lyrics to all songs and credits.<br><br>Sleeve spine and inner sleeve has the title printed as: The Big Area (Outside)<br><br>Written and recorded in 1988.<br><br>Made in England.<br><br>© 1989 FFRR Records Ltd.  ℗ 1989 FFRR Records Ltd.<br><br>Durations do not appear on this release. Timings via stopwatch. |
 | Discogs URL    | [Then Jerico - The Big Area](https://www.discogs.com/release/265140-Then-Jerico-The-Big-Area) |

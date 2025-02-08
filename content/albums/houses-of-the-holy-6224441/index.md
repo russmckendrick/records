@@ -39,26 +39,22 @@ Although critical response was mixed, Houses of the Holy became a commercial suc
 
 
 ## Tracklisting
-1. The Song Remains The Same (5:29)
-2. The Rain Song (7:39)
-3. Over The Hills And Far Away (4:50)
-4. The Crunge (3:17)
-5. Dancing Days (3:43)
-6. D'yer Mak'er (4:22)
-7. No Quarter (7:02)
-8. The Ocean (4:31)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Song Remains The Same | 5:29 |
+| A2 | The Rain Song | 7:39 |
+| A3 | Over The Hills And Far Away | 4:50 |
+| A4 | The Crunge | 3:17 |
+| B1 | Dancing Days | 3:43 |
+| B2 | D'yer Mak'er | 4:22 |
+| B3 | No Quarter | 7:02 |
+| B4 | The Ocean | 4:31 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/houses-of-the-holy-remastered/580707916" >}}<br>
 
 
-## Videos
-### Led Zeppelin - Houses of the Holy Remaster Official Full Album
-{{< youtube id="97FpOlzPqFM" title="Led Zeppelin - Houses of the Holy Remaster Official Full Album" >}}<br>
-### More Videos
-
-- [Led Zeppelin - Over The Hills And Far Away](https://www.youtube.com/watch?v=Ee33FsDANk0)
-- [Led Zeppelin - No Quarter Official Audio](https://www.youtube.com/watch?v=_vG_mTt6hCs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +66,5 @@ Although critical response was mixed, Houses of the Holy became a commercial suc
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 Gram, Gatefold) |
 | Label          | Atlantic |
 | Catalog Number | 8122796573 |
-| Notes | 180 gram vinyl housed in a gatefold jacket and issued in a white poly lined inner sleeve. The gatefold jacket is sealed with a white bellyband including the following printed text: Front : Led Zeppelin Houses Of The Holy Back : [Atlantic logo] 8122796573 Includes an 11" x 11" thick velum style paper insert with lyrics and band line-up.  Runouts are entirely etched, and where [l313190]'s faintly inscribed geometric marks appear, these are mirrored: Variant 2: Side A '51▽', side B '1 11 -' Variant 3: Side A '3=1', side B '4V1' Variant 4: Side A '3+X', side B '4 T T' Variant 5: Side A '2VT', side B '41–' Variant 6: Side A '3T', side B 'hV1' Due to the nature of the hand etching, it can sometimes appear that there is a space between the letters and numbers of the Optimal Media GmbH identifiers. However, as per the Optimal Media GmbH label page, their runout scheme "is in fact always without spaces."  [Sticker:] The classic album on 180g vinyl Remastered & produced by Jimmy Page  [Insert:] Recorded at Rolling Stones Mobile Studio at Stargroves (Hampshire), Island Studio (London), Olympic Studios (London) ℗ & © 1973 Atlantic Recording Corporation, a Warner Music Group Company. [...] All lyrics administered by WB Music Corp. (ASCAP) Made in the EU. 8122796573  [Labels:] ℗ & © 1973 Atlantic Recording Corporation. Manufactured in Germany. |
+| Notes | 180 gram vinyl housed in a gatefold jacket and issued in a white poly lined inner sleeve. The gatefold jacket is sealed with a white bellyband including the following printed text:<br>Front : Led Zeppelin Houses Of The Holy<br>Back : [Atlantic logo] 8122796573<br>Includes an 11" x 11" thick velum style paper insert with lyrics and band line-up.<br><br>Runouts are entirely etched, and where [l313190]'s faintly inscribed geometric marks appear, these are mirrored:<br>Variant 2: Side A '51▽', side B '1 11 -'<br>Variant 3: Side A '3=1', side B '4V1'<br>Variant 4: Side A '3+X', side B '4 T T'<br>Variant 5: Side A '2VT', side B '41–'<br>Variant 6: Side A '3T', side B 'hV1'<br>Due to the nature of the hand etching, it can sometimes appear that there is a space between the letters and numbers of the Optimal Media GmbH identifiers. However, as per the Optimal Media GmbH label page, their runout scheme "is in fact always without spaces."<br><br>[Sticker:]<br>The classic album on 180g vinyl<br>Remastered & produced by Jimmy Page<br><br>[Insert:]<br>Recorded at Rolling Stones Mobile Studio at Stargroves (Hampshire), Island Studio (London), Olympic Studios (London)<br>℗ & © 1973 Atlantic Recording Corporation, a Warner Music Group Company. [...]<br>All lyrics administered by WB Music Corp. (ASCAP)<br>Made in the EU. 8122796573<br><br>[Labels:]<br>℗ & © 1973 Atlantic Recording Corporation. Manufactured in Germany. |
 | Discogs URL    | [Led Zeppelin - Houses Of The Holy](https://www.discogs.com/release/6224441-Led-Zeppelin-Houses-Of-The-Holy) |

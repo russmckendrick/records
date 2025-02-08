@@ -4,6 +4,7 @@ artist_name: "Monster Magnet"
 artist: "monster-magnet"
 album_name: "Monolithic Baby!"
 date: 2022-10-01T04:05:35.000000Z
+release_date: "2004-05-25"
 release_id: "24530108"
 slug: "monolithic-baby-24530108"
 hideSummary: true
@@ -43,52 +44,32 @@ The song "Master of Light" was written for the movie Torque (2004) where the ban
 Monolithic Baby! charted in seven countries and peaked at #7 in Sweden and #13 in Germany.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Slut Machine
-2. Supercruel
-3. On The Verge
-4. Unbroken (Hotel Baby)
-5. Radiation Day
-6. Monolithic
-7. The Right Stuff
-8. There's No Way Out Of Here
-9. Master Of Light
-10. Too Bad
-11. Ultimate Everything
-12. CNN War Theme
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Slut Machine |  |
+| A2 | Supercruel |  |
+| A3 | On The Verge |  |
+| B1 | Unbroken (Hotel Baby) |  |
+| B2 | Radiation Day |  |
+| B3 | Monolithic |  |
+| C1 | The Right Stuff |  |
+| C2 | There's No Way Out Of Here |  |
+| C3 | Master Of Light |  |
+| D1 | Too Bad |  |
+| D2 | Ultimate Everything |  |
+| D3 | CNN War Theme |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/monolithic-baby/1635598919" >}}<br>
 
 
-## Videos
-### Monster Magnet - Monolithic
-{{< youtube id="o1jB6C8HfSI" title="Monster Magnet - Monolithic" >}}<br>
-### More Videos
-
-- [Monster Magnet - Monolithic  HQ](https://www.youtube.com/watch?v=2fAL9sjce6Q)
-- [On The Verge - Monster Magnet - Monolithic Baby](https://www.youtube.com/watch?v=k7ZETM9Ewxk)
-- [Unbroken Hotel Baby](https://www.youtube.com/watch?v=99DfGBp5PYE)
-- [Monster Magnet - Radiation Day](https://www.youtube.com/watch?v=D5Id6AoS63I)
-- [Monster Magnet - Monolithic](https://www.youtube.com/watch?v=WtMFxoTMJso)
-- [The Right Stuff - Monster Magnet](https://www.youtube.com/watch?v=AwcJ5YoWyBc)
-- [Monster Magnet - Theres No Way Out Of Here](https://www.youtube.com/watch?v=6TS8nii_HJ8)
-- [Master Of The Light - Monster Magnet - Monolithic Baby](https://www.youtube.com/watch?v=wp_QYeQceQE)
-- [Monster Magnet - Too Bad](https://www.youtube.com/watch?v=rMpT-Uyy3lY)
-- [Monster Magnet - Ultimate everything](https://www.youtube.com/watch?v=ugkEdtoxgco)
-- [Monster Magnet - CNN War Theme - Monolithic Baby](https://www.youtube.com/watch?v=7DcP3qJCZ48)
-- [Monster Magnet - Monolithic official video HQ](https://www.youtube.com/watch?v=47tPU2ch5UU)
-- [Monster Magnet - Monolithic HQ Live London Astoria England](https://www.youtube.com/watch?v=DEgAHuAHQJ0)
-- [Monster Magnet - Monolithic baby Full Album](https://www.youtube.com/watch?v=IMeCZnNRfBc)
-- [Monster Magnet Monolithic Baby Full Album](https://www.youtube.com/watch?v=4Avmj09YA2k)
-- [08 Monster Magnet - Monolithic Baby Werchter 2004](https://www.youtube.com/watch?v=gaSBfHMStWo)
-- [Monster Magnet -  Monolithic live  With Full Force 2004](https://www.youtube.com/watch?v=cnBbLEw8bl4)
-- [Slut Machine - Monster Magnet](https://www.youtube.com/watch?v=ekdbw4OlJNg)
-- [Monster Magnet - Supercruel](https://www.youtube.com/watch?v=SBc9yU1qhVc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -100,5 +81,5 @@ Monolithic Baby! charted in seven countries and peaked at #7 in Sweden and #13 i
 | Format         | Vinyl 2× LP 45 RPM Album Reissue |
 | Label          | Napalm Records |
 | Catalog Number | NPR1066VINYL |
-| Notes | Black vinyl edition.  Tracks C1, D3 mixed at Paramount Studios, CA.  Tim Cronin, eye of agamotto and the sum of all fears.  Magnet welcomes aboard Bob Pantella on drums.  Dedicated to the memory of Gerald F Wyndorf 1918-2003 "Love you Pop! See you on the other side!'  (45 RPM not mentioned anywhere on the cover/inlay/record.) |
+| Notes | Black vinyl edition.<br><br>Tracks C1, D3 mixed at Paramount Studios, CA.<br><br>Tim Cronin, eye of agamotto and the sum of all fears.<br><br>Magnet welcomes aboard Bob Pantella on drums.<br><br>Dedicated to the memory of Gerald F Wyndorf 1918-2003<br>"Love you Pop! See you on the other side!'<br><br>(45 RPM not mentioned anywhere on the cover/inlay/record.) |
 | Discogs URL    | [Monster Magnet - Monolithic Baby!](https://www.discogs.com/release/24530108-Monster-Magnet-Monolithic-Baby) |

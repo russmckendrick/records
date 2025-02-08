@@ -4,6 +4,7 @@ artist_name: "Iggy Pop"
 artist: "iggy-pop"
 album_name: "The Idiot"
 date: 2017-07-05T14:34:36.000000Z
+release_date: "1977-03-18"
 release_id: "10451933"
 slug: "the-idiot-10451933"
 hideSummary: true
@@ -29,36 +30,28 @@ After the album was completed, Bowie began recording his next album Low, which f
 Pop supported The Idiot with a tour in March and April 1977, with Bowie as his keyboardist. Afterward, the two collaborated again on Pop's second studio album, Lust for Life (1977). Retrospectively, The Idiot has continued to be received positively, with many noting Pop's artistic evolution. However, because Bowie largely created it, fans do not generally consider the album as being representative of Pop's output. It has influenced post-punk, industrial, and gothic acts, including Joy Division.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Sister Midnight (4:23)
-2. Nightclubbing (4:18)
-3. Funtime (2:53)
-4. Baby (3:20)
-5. China Girl (5:12)
-6. Dum Dum Boys (7:12)
-7. Tiny Girls (3:03)
-8. Mass Production (8:28)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sister Midnight | 4:23 |
+| A2 | Nightclubbing | 4:18 |
+| A3 | Funtime | 2:53 |
+| A4 | Baby | 3:20 |
+| A5 | China Girl | 5:12 |
+| B1 | Dum Dum Boys | 7:12 |
+| B2 | Tiny Girls | 3:03 |
+| B3 | Mass Production | 8:28 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-idiot/1440888621" >}}<br>
 
 
-## Videos
-### Sister Midnight
-{{< youtube id="LAiQZGDmVXg" title="Sister Midnight" >}}<br>
-### More Videos
-
-- [Nightclubbing](https://www.youtube.com/watch?v=EpECxEO4uZM)
-- [Funtime](https://www.youtube.com/watch?v=DDYatCwJvCA)
-- [Baby](https://www.youtube.com/watch?v=nU3EyAYg4t4)
-- [China Girl](https://www.youtube.com/watch?v=slU0PSJedbU)
-- [Dum Dum Boys](https://www.youtube.com/watch?v=12Uks7c0G8c)
-- [Tiny Girls](https://www.youtube.com/watch?v=80BN9xWkRsQ)
-- [Mass Production](https://www.youtube.com/watch?v=CmmlxVlUz7Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +63,5 @@ Pop supported The Idiot with a tour in March and April 1977, with Bowie as his k
 | Format         | Vinyl LP Album Limited Edition Reissue (Silver, 180) |
 | Label          | UMC |
 | Catalog Number | 00600753772461 |
-| Notes | Exclusive to HMV stores in the UK as part of their Vinyl Week. Limited to 1500 copies. Includes voucher to download MP3 version of the album.  Made in the E.U. |
+| Notes | Exclusive to HMV stores in the UK as part of their Vinyl Week. Limited to 1500 copies. Includes voucher to download MP3 version of the album.<br><br>Made in the E.U. |
 | Discogs URL    | [Iggy Pop - The Idiot](https://www.discogs.com/release/10451933-Iggy-Pop-The-Idiot) |

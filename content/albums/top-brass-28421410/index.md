@@ -1,9 +1,10 @@
 ---
 title: "Matt Berry - Top Brass"
 artist_name: "Matt Berry"
-artist: "matt-berry-3"
+artist: "matt-berry"
 album_name: "Top Brass"
 date: 2023-09-29T06:44:38.000000Z
+release_date: "2023-08-18"
 release_id: "28421410"
 slug: "top-brass-28421410"
 hideSummary: true
@@ -23,24 +24,22 @@ styles: ["Modern Classical"]
 Top Brass (subtitled Featuring 5 Trumpets) is an album by American jazz composer and arranger Ernie Wilkins featuring performances recorded in 1955 and first released on the Savoy label. The album consists of five original selections with trumpeters Ray Copeland, Idrees Sulieman, Donald Byrd, Ernie Royal and Joe Wilder followed by five standards featuring each individually.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Top Brass
-2. Top Brass (Bare Essentials Mix)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Top Brass |  |
+| B | Top Brass (Bare Essentials Mix) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/top-brass-single/1700893393" >}}<br>
 
 
-## Videos
-### Top Brass
-{{< youtube id="K3Wtj8zBUck" title="Top Brass" >}}<br>
-### More Videos
-
-- [Top Brass Bare Essentials Mix](https://www.youtube.com/watch?v=wKH_6_bRmXg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -52,5 +51,5 @@ Top Brass (subtitled Featuring 5 Trumpets) is an album by American jazz composer
 | Format         | Vinyl 7" 45 RPM Single Limited Edition Stereo |
 | Label          | Acid Jazz |
 | Catalog Number | AJX767S |
-| Notes | The first collaboration between Matt Berry and iconic Library Music label KPM. A seven-inch single called 'Top Brass’ that comes housed in a picture sleeve that mimics the classic KPM 1000 series and is adorned with unique KPM x Acid Jazz labels. Limited to 1000 copies.  Recorded at Peach Studios, Bedfordshire and the Village, Los Angeles Brass and strings recorded at the Village Mastered for KPM by Nick Stebbings Mixed and Produced by Matt Berry  Thanks to Craig Blundell, Jack Lewis at KPM, Dean Rudland and Ed at Acid Jazz, Phil Scragg, and Jaffa for moving so swiftly. Under exclusive licence to Acid Jazz Acquisitions Ltd.  "stereo playable mono" |
+| Notes | The first collaboration between Matt Berry and iconic Library Music label KPM. A seven-inch single called 'Top Brass’ that comes housed in a picture sleeve that mimics the classic KPM 1000 series and is adorned with unique KPM x Acid Jazz labels.<br>Limited to 1000 copies.<br><br>Recorded at Peach Studios, Bedfordshire and the Village, Los Angeles<br>Brass and strings recorded at the Village<br>Mastered for KPM by Nick Stebbings<br>Mixed and Produced by Matt Berry<br><br>Thanks to Craig Blundell, Jack Lewis at KPM, Dean Rudland and Ed at Acid Jazz, Phil Scragg, and Jaffa for moving so swiftly.<br>Under exclusive licence to Acid Jazz Acquisitions Ltd.<br><br>"stereo playable mono" |
 | Discogs URL    | [Matt Berry - Top Brass](https://www.discogs.com/release/28421410-Matt-Berry-3-Top-Brass) |

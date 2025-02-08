@@ -4,6 +4,7 @@ artist_name: "Cardiacs"
 artist: "cardiacs"
 album_name: "Heaven Born And Ever Bright"
 date: 2018-08-14T18:11:12.000000Z
+release_date: "1991-09-24"
 release_id: "10608092"
 slug: "heaven-born-and-ever-bright-10608092"
 hideSummary: true
@@ -27,40 +28,31 @@ styles: ["Punk", "Prog Rock", "Experimental", "Symphonic Rock"]
 ---
 
 Heaven Born and Ever Bright is the third studio album by British rock band Cardiacs, released on 15 May 1992 through the band's label Alphabet Business Concern, originally marketed by Rough Trade and distributed by Rough Trade and Pinnacle. It was produced by Tim Smith, engineered by David Murder and mixed by both. Due to Rough Trade going bankrupt soon after the album's release, it was scarce until reissued in 1995. This reissue was remastered and given new cover art.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Alphabet Business Concern (Home Of Fadeless Splendour) (3:59)
-2. She Is Hiding Behind The Shed (4:19)
-3. March (3:18)
-4. Goodbye Grace (3:57)
-5. Anything I Can't Eat (3:24)
-6. Helen And Heaven (3:09)
-7. Bodysbad (4:09)
-8. For Good And All (4:42)
-9. Core (2:32)
-10. Day Is Gone (3:17)
-11. Snakes-a-Sleeping (8:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Alphabet Business Concern (Home Of Fadeless Splendour) | 3:59 |
+| A2 | She Is Hiding Behind The Shed | 4:19 |
+| A3 | March | 3:18 |
+| A4 | Goodbye Grace | 3:57 |
+| A5 | Anything I Can't Eat | 3:24 |
+| A6 | Helen And Heaven | 3:09 |
+| B1 | Bodysbad | 4:09 |
+| B2 | For Good And All | 4:42 |
+| B3 | Core | 2:32 |
+| B4 | Day Is Gone | 3:17 |
+| B5 | Snakes-a-Sleeping | 8:26 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/heaven-born-and-ever-bright/333656477" >}}<br>
 
 
-## Videos
-### Cardiacs - The Alphabet Business Concern Home of Fadeless Splendour
-{{< youtube id="nLH9N73RhLU" title="Cardiacs - The Alphabet Business Concern Home of Fadeless Splendour" >}}<br>
-### More Videos
-
-- [Cardiacs - Helen and Heaven](https://www.youtube.com/watch?v=e7tGYm9XNp8)
-- [Cardiacs - Goodbye Grace](https://www.youtube.com/watch?v=OXEVCQ1wAFA)
-- [Cardiacs - Anything I Cant Eat](https://www.youtube.com/watch?v=pFWzkOiLHyw)
-- [Cardiacs - Helen And Heaven](https://www.youtube.com/watch?v=GCpTb-oZZRY)
-- [Cardiacs - Bodysbad](https://www.youtube.com/watch?v=mXqqmxDq300)
-- [Cardiacs - For Good and All](https://www.youtube.com/watch?v=3w-SSegxzoA)
-- [CARDIACS - Core](https://www.youtube.com/watch?v=6pEbXdT0PWw)
-- [Cardiacs - Day is Gone](https://www.youtube.com/watch?v=iRctRAWNi2w)
 
 ## Release Images
 {{< imageGrid >}}

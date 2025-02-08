@@ -61,46 +61,29 @@ Stephen Bruner’s fourth album as Thundercat is shrouded in loss—of love, of 
 
 
 ## Tracklisting
-1. Lost In Space / Great Scott / 22-26
-2. Innerstellar Love
-3. I Love Louis Cole
-4. Black Qualls
-5. Miguel's Happy Dance
-6. How Sway
-7. Funny Thing
-8. Overseas
-9. Dragonball Durag
-10. How I Feel
-11. King Of The Hill
-12. Unrequited Love
-13. Fair Chance
-14. Existential Dread
-15. It Is What It Is
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Lost In Space / Great Scott / 22-26 |  |
+| A2 | Innerstellar Love |  |
+| A3 | I Love Louis Cole |  |
+| A4 | Black Qualls |  |
+| A5 | Miguel's Happy Dance |  |
+| A6 | How Sway |  |
+| A7 | Funny Thing |  |
+| B1 | Overseas |  |
+| B2 | Dragonball Durag |  |
+| B3 | How I Feel |  |
+| B4 | King Of The Hill |  |
+| B5 | Unrequited Love |  |
+| B6 | Fair Chance |  |
+| B7 | Existential Dread |  |
+| B8 | It Is What It Is |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/it-is-what-it-is/1494467036" >}}<br>
 
 
-## Videos
-### Thundercat - Innerstellar Love Official Audio
-{{< youtube id="yA4R9qLa26E" title="Thundercat - Innerstellar Love Official Audio" >}}<br>
-### More Videos
-
-- [How Sway](https://www.youtube.com/watch?v=QwQeEmY1QxI)
-- [Thundercat - Fair Chance feat Ty Dolla ign  Lil B Official Audio](https://www.youtube.com/watch?v=IoFOXgIme9M)
-- [How I Feel](https://www.youtube.com/watch?v=qIOMiQ3d80A)
-- [Funny Thing](https://www.youtube.com/watch?v=lSrKfSDwIi0)
-- [Black Qualls](https://www.youtube.com/watch?v=IOHbF1Zg4S0)
-- [King Of The Hill](https://www.youtube.com/watch?v=VOVi-INLRWI)
-- [Overseas](https://www.youtube.com/watch?v=HE-2bO2I_es)
-- [I Love Louis Cole](https://www.youtube.com/watch?v=YHTufn3VWq0)
-- [Unrequited Love](https://www.youtube.com/watch?v=eRo_FFrliAs)
-- [Existential Dread](https://www.youtube.com/watch?v=f728T_wocZ8)
-- [Miguels Happy Dance](https://www.youtube.com/watch?v=_D_DGhBR7NA)
-- [It Is What It Is](https://www.youtube.com/watch?v=lqDs_quhy0I)
-- [Innerstellar Love](https://www.youtube.com/watch?v=S19y2wksSz8)
-- [Thundercat - Dragonball Durag Official Video](https://www.youtube.com/watch?v=ormQQG2UhtQ)
-- [Thundercat - Dragonball Durag Official Video](https://www.youtube.com/watch?v=ormQQG2UhtQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -112,5 +95,5 @@ Stephen Bruner’s fourth album as Thundercat is shrouded in loss—of love, of 
 | Format         | Vinyl LP Album Limited Edition Stereo (Pink, 140g) |
 | Label          | Brainfeeder |
 | Catalog Number | BF100RT |
-| Notes | Limited edition (Rough Trade exclusive), 1,000 copies.  140g pink vinyl LP housed in a 3mm spined sleeve with obi strip.  Sleeve does not have gold foil detail (only on deluxe editions).  Barcode sticker on rear of shrinkwrap with catalogue number, text ("Rough Trade Exclusive/ Standard LP/ Pink Vinyl") and barcode without numbers.  |
+| Notes | Limited edition (Rough Trade exclusive), 1,000 copies.<br><br>140g pink vinyl LP housed in a 3mm spined sleeve with obi strip.<br><br>Sleeve does not have gold foil detail (only on deluxe editions).<br><br>Barcode sticker on rear of shrinkwrap with catalogue number, text ("Rough Trade Exclusive/ Standard LP/ Pink Vinyl") and barcode without numbers.  |
 | Discogs URL    | [Thundercat - It Is What It Is](https://www.discogs.com/release/15052400-Thundercat-It-Is-What-It-Is) |

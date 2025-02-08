@@ -66,80 +66,56 @@ There’s a mystical power between every echoing line of <i>All Things Must Pass
 
 
 ## Tracklisting
-1. All Things Must Pass - New Mix By Paul Hicks	
-2. I'd Have You Anytime
-3. My Sweet Lord
-4. Wah-Wah
-5. Isn't It A Pity (Version One)
-6. What Is Life
-7. If Not For You
-8. Behind That Locked Door
-9. Let It Down
-10. Run Of The Mill
-11. Beware Of Darkness
-12. Apple Scruffs
-13. Ballad Of Sir Frankie Crisp (Let It Roll)
-14. Awaiting On You All
-15. All Things Must Pass
-16. I Dig Love
-17. Art Of Dying
-18. Isn't It A Pity (Version Two)
-19. Hear Me Lord
-20. Out Of The Blue
-21. It's Johnny's Birthday
-22. Plug Me In
-23. I Remember Jeep
-24. Thanks For The Pepperoni
-25. Session Outtakes And Jams
-26. Isn't It A Pity - Take 14
-27. Wah-Wah - Take 1
-28. I'd Have You Anytime - Take 5
-29. Art Of Dying - Take 1
-30. Isn't It A Pity - Take 27
-31. If Not For You - Take 2
-32. Wedding Bells (Are Breaking Up That Old Gang Of Mine) - Take 1
-33. What Is Life - Take 1
-34. Beware Of Darkness - Take 8
-35. Hear Me Lord - Take 5
-36. Let It Down - Take 1
-37. Run Of The Mill - Take 36
-38. Down To The River (Rocking Chair Jam) - Take 1
-39. Get Back - Take 1
-40. Almost 12 Bar Honky Tonk - Take 1
-41. It's Johnny's Birthday - Take 1
-42. Woman Don't You Cry For Me - Take 5
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | All Things Must Pass - New Mix By Paul Hicks	 |  |
+| A1 | I'd Have You Anytime |  |
+| A2 | My Sweet Lord |  |
+| A3 | Wah-Wah |  |
+| A4 | Isn't It A Pity (Version One) |  |
+| B1 | What Is Life |  |
+| B2 | If Not For You |  |
+| B3 | Behind That Locked Door |  |
+| B4 | Let It Down |  |
+| B5 | Run Of The Mill |  |
+| C1 | Beware Of Darkness |  |
+| C2 | Apple Scruffs |  |
+| C3 | Ballad Of Sir Frankie Crisp (Let It Roll) |  |
+| C4 | Awaiting On You All |  |
+| C5 | All Things Must Pass |  |
+| D1 | I Dig Love |  |
+| D2 | Art Of Dying |  |
+| D3 | Isn't It A Pity (Version Two) |  |
+| D4 | Hear Me Lord |  |
+| E1 | Out Of The Blue |  |
+| E2 | It's Johnny's Birthday |  |
+| E3 | Plug Me In |  |
+| F1 | I Remember Jeep |  |
+| F2 | Thanks For The Pepperoni |  |
+|  | Session Outtakes And Jams |  |
+| G1 | Isn't It A Pity - Take 14 |  |
+| G2 | Wah-Wah - Take 1 |  |
+| G3 | I'd Have You Anytime - Take 5 |  |
+| G4 | Art Of Dying - Take 1 |  |
+| H1 | Isn't It A Pity - Take 27 |  |
+| H2 | If Not For You - Take 2 |  |
+| H3 | Wedding Bells (Are Breaking Up That Old Gang Of Mine) - Take 1 |  |
+| H4 | What Is Life - Take 1 |  |
+| H5 | Beware Of Darkness - Take 8 |  |
+| I1 | Hear Me Lord - Take 5 |  |
+| I2 | Let It Down - Take 1 |  |
+| I3 | Run Of The Mill - Take 36 |  |
+| I4 | Down To The River (Rocking Chair Jam) - Take 1 |  |
+| J1 | Get Back - Take 1 |  |
+| J2 | Almost 12 Bar Honky Tonk - Take 1 |  |
+| J3 | It's Johnny's Birthday - Take 1 |  |
+| J4 | Woman Don't You Cry For Me - Take 5 |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-things-must-pass-50th-anniversary/1666662415" >}}<br>
 
 
-## Videos
-### George Harrison - All Things Must Pass Disc 1
-{{< youtube id="doReVkb3Xgo" title="George Harrison - All Things Must Pass Disc 1" >}}<br>
-### More Videos
-
-- [George Harrison - All Things Must Pass Disc 2  3](https://www.youtube.com/watch?v=QzEOFcrHDIM)
-- [George Harrison - All Things Must Pass Cd1 FullAlbum](https://www.youtube.com/watch?v=ZCdj6oraKRg)
-- [George Harrison - All Things Must Pass Full Album 1970](https://www.youtube.com/watch?v=dpa-80yYL7Q)
-- [All Things Must Pass 2009 Remaster](https://www.youtube.com/watch?v=bpbdsIQb87A)
-- [George Harrison - All Things Must Pass](https://www.youtube.com/watch?v=oVx_8mj-UyE)
-- [Paul McCartney - All Things Must Pass Live](https://www.youtube.com/watch?v=o6iaSWSB7rE)
-- [George Harrison - All Things Must Pass Last TV Appearance 1997](https://www.youtube.com/watch?v=HAo_4mXxLrM)
-- [George Harrison - All Things Must Pass Lyrics](https://www.youtube.com/watch?v=Til-MWvtkf0)
-- [THE BEST DOUBLE ALBUMS OF ALL TIME](https://www.youtube.com/watch?v=-5PHigXL8PI)
-- [George Harrison All Things Pass FULL MOVIE](https://www.youtube.com/watch?v=N5goAwWijAQ)
-- [John Lennon helps George with All Things Must Pass](https://www.youtube.com/watch?v=kQAMDw77m9U)
-- [All Things Must Pass Demo](https://www.youtube.com/watch?v=JeyB7zzEquo)
-- [Peter Frampton on Recording All Things Must Pass With George Harrison](https://www.youtube.com/watch?v=Ajr0KukHKsE)
-- [GEORGE HARRISON -  All Things Must Pass with lyrics](https://www.youtube.com/watch?v=_nYXsnRSQXA)
-- [All Things Must Pass Anthology 3 Version](https://www.youtube.com/watch?v=5ODEhwaU2Uw)
-- [Id Have You Anytime 2014 Remaster](https://www.youtube.com/watch?v=bEoaZc7pY4M)
-- [Beware of Darkness 2014 Remaster](https://www.youtube.com/watch?v=FrsGTItbss4)
-- [George Harrison - All Things Must Pass Living In The Material World Bonus Tracks](https://www.youtube.com/watch?v=KZbGVHk3tBA)
-- [George Harrison - All Things Must Pass 1997 - VH1- HD](https://www.youtube.com/watch?v=HsQKJt1n_dc)
-- [All Things Must Pass](https://www.youtube.com/watch?v=Hxyon6mBXfU)
-- [All Things Must Pass 1080p FULL MOVIE - Documentary Music](https://www.youtube.com/watch?v=tH-Y3WiwUXQ)
-- [GEORGE HARRISON - ALL THINGS MUST PASS Full album UK](https://www.youtube.com/watch?v=boZC6NTls70)
 
 ## Release Images
 {{< imageGrid >}}
@@ -150,5 +126,5 @@ There’s a mystical power between every echoing line of <i>All Things Must Pass
 | Format         | Vinyl 3× LP Album Reissue Remastered Stereo (180g), Vinyl 2× LP Stereo (180g), Box Set Deluxe Edition |
 | Label          | Capitol Records |
 | Catalog Number | 0602435676012 |
-| Notes | Made in Czech Republic  Comes with a poster and an 8-page booklet.  [disc 1 inner sleeve] A1*† A2 to B1* B2† B3 to B5* * All lyrics copyright 1970 for the world by Harrisongs Music, Ltd., England All rights for the United States and Canada controlled by Harrisongs Music, Inc. † All lyrics copyright 1970 by Big Sky Music.  [disc 2 inner sleeve] All lyrics copyright 1970 for the world by Harrisongs Music, Ltd., England All rights for the United States and Canada controlled by Harrisongs Music, Inc.  [disc 3 inner sleeve] All tracks * except E2† * Copyright for the world by Harrisongs Music, Ltd., England All rights for the United States and Canada controlled by Harrisongs Music, Inc. † based on "Congratulations" by Bill Martin & Phil Coulter and published by Peter Maurice Music Co/EMI Music Publishing Ltd.  [disc 4 inner sleeve] All songs written by George Harrison and published by Harrisongs Ltd. except "I'd Have You Anytime" written by George Harrison & Bob Dylan and published by Harrisongs Ltd. & Big Sky Music, and "If Not For You" written by Bob Dylan and published by Big Sky Music, and "Wedding Bells (Are Breaking Up That Old Gang Of Mine)" written by Willie Raskin, Sammy Fain & Irving Kahal and published by Cherio Corporation Kobalt OBO RYTVOC, Inc. 3567601   [disc 5 inner sleeve] All songs written by George Harrison and published by Harrisongs Ltd. except "Get Back" written by John Lennon & Paul McCartney and Published by Sony/ATV Music Publishing LLC, and "It's Johnny's Birthday" based on "Congratulations" by Bill Martin & Phil Coulter and published by Peter Maurice Music Co/EMI Music Publishing Ltd. 3567601  Runouts are all stamped |
+| Notes | Made in Czech Republic<br><br>Comes with a poster and an 8-page booklet.<br><br>[disc 1 inner sleeve]<br>A1*†<br>A2 to B1*<br>B2†<br>B3 to B5*<br>* All lyrics copyright 1970 for the world by Harrisongs Music, Ltd., England<br>All rights for the United States and Canada controlled by Harrisongs Music, Inc.<br>† All lyrics copyright 1970 by Big Sky Music.<br><br>[disc 2 inner sleeve]<br>All lyrics copyright 1970 for the world by Harrisongs Music, Ltd., England<br>All rights for the United States and Canada controlled by Harrisongs Music, Inc.<br><br>[disc 3 inner sleeve]<br>All tracks * except E2†<br>* Copyright for the world by Harrisongs Music, Ltd., England<br>All rights for the United States and Canada controlled by Harrisongs Music, Inc.<br>† based on "Congratulations" by Bill Martin & Phil Coulter and published by Peter Maurice Music Co/EMI Music Publishing Ltd.<br><br>[disc 4 inner sleeve]<br>All songs written by George Harrison and published by Harrisongs Ltd. except "I'd Have You Anytime" written by George Harrison & Bob Dylan and published by Harrisongs Ltd. & Big Sky Music, and "If Not For You" written by Bob Dylan and published by Big Sky Music, and "Wedding Bells (Are Breaking Up That Old Gang Of Mine)" written by Willie Raskin, Sammy Fain & Irving Kahal and published by Cherio Corporation Kobalt OBO RYTVOC, Inc.<br>3567601 <br><br>[disc 5 inner sleeve]<br>All songs written by George Harrison and published by Harrisongs Ltd. except "Get Back" written by John Lennon & Paul McCartney and Published by Sony/ATV Music Publishing LLC, and "It's Johnny's Birthday" based on "Congratulations" by Bill Martin & Phil Coulter and published by Peter Maurice Music Co/EMI Music Publishing Ltd.<br>3567601<br><br>Runouts are all stamped |
 | Discogs URL    | [George Harrison - All Things Must Pass (50th Anniversary)](https://www.discogs.com/release/19772260-George-Harrison-All-Things-Must-Pass-50th-Anniversary) |

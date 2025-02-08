@@ -1,16 +1,17 @@
 ---
-title: "Jurassic 5 - Quality Control"
-artist_name: "Jurassic 5"
-artist: "jurassic-5"
+title: "Jurassic - Quality Control"
+artist_name: "Jurassic"
+artist: "jurassic"
 album_name: "Quality Control"
 date: 2023-07-29T02:26:52.000000Z
+release_date: "2000-01-01"
 release_id: "7119855"
 slug: "quality-control-7119855"
 hideSummary: true
 cover:
     image: "quality-control-7119855.jpg"
-    alt: "Quality Control by Jurassic 5"
-    caption: "Quality Control by Jurassic 5"
+    alt: "Quality Control by Jurassic"
+    caption: "Quality Control by Jurassic"
 additional_images:
     - "https://i.discogs.com/rVrxu-wfy1HcyLaGETLS2AxOVIH4Q8Ow8AVw33HgT6U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTk4/NTUtMTU0NjcwNjE5/Mi03OTM4LmpwZWc.jpeg"
     - "https://i.discogs.com/CzUNIaWeCLQg67VbiSmoalFyrOpvDMsOrrIY4vmAU7Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTk4/NTUtMTU0NjcwNjE5/Ny0yMDUzLmpwZWc.jpeg"
@@ -25,38 +26,35 @@ styles: ["Conscious"]
 Quality Control is the second studio album by American alternative hip hop group Jurassic 5. It was released on June 6, 2000, by Interscope Records.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. How We Get Along
-2. The Influence
-3. Great Expectations
-4. Quality (Intro)
-5. Quality Control
-6. Contact
-7. Lausd
-8. World Of Entertainment (Woe Is Me)
-9. Monkey Bars
-10. Jurass Finish First
-11. Contribution
-12. Twelve
-13. The Game
-14. Improvise
-15. Swing Set
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | How We Get Along |  |
+| A2 | The Influence |  |
+| A3 | Great Expectations |  |
+| A4 | Quality (Intro) |  |
+| A5 | Quality Control |  |
+| B1 | Contact |  |
+| B2 | Lausd |  |
+| B3 | World Of Entertainment (Woe Is Me) |  |
+| B4 | Monkey Bars |  |
+| C1 | Jurass Finish First |  |
+| C2 | Contribution |  |
+| C3 | Twelve |  |
+| D1 | The Game |  |
+| D2 | Improvise |  |
+| D3 | Swing Set |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/quality-control/1673136297" >}}<br>
 
 
-## Videos
-### Jurassic 5 - Quality Control
-{{< youtube id="PgpDN-bARwc" title="Jurassic 5 - Quality Control" >}}<br>
-### More Videos
-
-- [Jurassic 5 - Whats Golden Official Video](https://www.youtube.com/watch?v=XsZKrctSDaw)
-- [Jurassic 5 - The Influence](https://www.youtube.com/watch?v=tqu73IZwRTg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,4 +66,4 @@ Quality Control is the second studio album by American alternative hip hop group
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Get On Down |
 | Catalog Number | GET 56035-LP |
-| Discogs URL    | [Jurassic 5 - Quality Control](https://www.discogs.com/release/7119855-Jurassic-5-Quality-Control) |
+| Discogs URL    | [Jurassic - Quality Control](https://www.discogs.com/release/7119855-Jurassic-5-Quality-Control) |

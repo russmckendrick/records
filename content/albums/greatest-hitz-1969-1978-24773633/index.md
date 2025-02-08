@@ -4,6 +4,7 @@ artist_name: "The Sweet"
 artist: "the-sweet"
 album_name: "Greatest Hitz 1969-1978"
 date: 2022-10-12T04:21:08.000000Z
+release_date: ""
 release_id: "24773633"
 slug: "greatest-hitz-1969-1978-24773633"
 hideSummary: true
@@ -37,49 +38,43 @@ styles: ["Glam"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Ballroom Blitz
-2. Blockbuster
-3. Teenage Rampage
-4. Action
-5. The Six Teens
-6. Fox On The Run
-7. Hell Raiser
-8. Wig-Wam Bam
-9. Co-Co
-10. Poppa Joe
-11. Little Willy
-12. The Lies In Your Eyes
-13. Love Is Like Oxygen
-14. Funny Funny
-15. Alexander Graham Bell
-16. Turn It Down
-17. Set Me Free
-18. Peppermint Twist
-19. Burning
-20. Burn On The Flame
-21. Rock & Roll Disgrace
-22. Stairway To The Stars
-23. Lady Starlight
-24. Own Up, Take A Look At Yourself
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Ballroom Blitz |  |
+| A2 | Blockbuster |  |
+| A3 | Teenage Rampage |  |
+| A4 | Action |  |
+| A5 | The Six Teens |  |
+| A6 | Fox On The Run |  |
+| B1 | Hell Raiser |  |
+| B2 | Wig-Wam Bam |  |
+| B3 | Co-Co |  |
+| B4 | Poppa Joe |  |
+| B5 | Little Willy |  |
+| B6 | The Lies In Your Eyes |  |
+| C1 | Love Is Like Oxygen |  |
+| C2 | Funny Funny |  |
+| C3 | Alexander Graham Bell |  |
+| C4 | Turn It Down |  |
+| C5 | Set Me Free |  |
+| C6 | Peppermint Twist |  |
+| D1 | Burning |  |
+| D2 | Burn On The Flame |  |
+| D3 | Rock & Roll Disgrace |  |
+| D4 | Stairway To The Stars |  |
+| D5 | Lady Starlight |  |
+| D6 | Own Up, Take A Look At Yourself |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### The Sweet - The Ballroom Blitz 1973
-{{< youtube id="afwwckbcD4c" title="The Sweet - The Ballroom Blitz 1973" >}}<br>
-### More Videos
 
-- [The Sweet - Blockbuster 1973](https://www.youtube.com/watch?v=wiR126m42Mk)
-- [The Sweet - Fox On The Run 1975](https://www.youtube.com/watch?v=t46OEW1zEZs)
-- [The Sweet - Hell Raiser 1973](https://www.youtube.com/watch?v=1ZPd38RSgso)
-- [The Sweet - Wig Wam Bam 1972](https://www.youtube.com/watch?v=1FY2ap05X0k)
-- [The Sweet - The Ballroom Blitz 1973](https://www.youtube.com/watch?v=afwwckbcD4c)
-- [The Sweet - Blockbuster 1973](https://www.youtube.com/watch?v=wiR126m42Mk)
-- [The Sweet - Fox On The Run 1975](https://www.youtube.com/watch?v=t46OEW1zEZs)
-- [The Sweet - Hell Raiser 1973](https://www.youtube.com/watch?v=1ZPd38RSgso)
-- [The Sweet - Wig Wam Bam 1972](https://www.youtube.com/watch?v=1FY2ap05X0k)
 
 ## Release Images
 {{< imageGrid >}}

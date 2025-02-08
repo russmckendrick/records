@@ -4,6 +4,7 @@ artist_name: "The Smashing Pumpkins"
 artist: "the-smashing-pumpkins"
 album_name: "Rotten Apples: Greatest Hits"
 date: 2024-08-16T07:14:11.000000Z
+release_date: "2001-11-20"
 release_id: "31416686"
 slug: "rotten-apples-greatest-hits-31416686"
 hideSummary: true
@@ -21,42 +22,37 @@ styles: ["Alternative Rock", "Grunge"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Siva
-2. Rhinocerous
-3. Drown
-4. Cherub Rock
-5. Today
-6. Disarm
-7. Landslide
-8. Bullet With Butterfly Wings
-9. 1979
-10. Zero
-11. Tonight, Tonight
-12. Eye
-13. Ava Adore
-14. Perfect
-15. The Everlasting Gaze
-16. Stand Inside Your Love
-17. Real Love
-18. Untitled
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Siva |  |
+| A2 | Rhinocerous |  |
+| A3 | Drown |  |
+| A4 | Cherub Rock |  |
+| B1 | Today |  |
+| B2 | Disarm |  |
+| B3 | Landslide |  |
+| B4 | Bullet With Butterfly Wings |  |
+| B5 | 1979 |  |
+| C1 | Zero |  |
+| C2 | Tonight, Tonight |  |
+| C3 | Eye |  |
+| C4 | Ava Adore |  |
+| C5 | Perfect |  |
+| D1 | The Everlasting Gaze |  |
+| D2 | Stand Inside Your Love |  |
+| D3 | Real Love |  |
+| D4 | Untitled |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rotten-apples-greatest-hits/712732565" >}}<br>
 
 
-## Videos
-### The Smashing Pumpkins - Today
-{{< youtube id="xmUZ6nCFNoU" title="The Smashing Pumpkins - Today" >}}<br>
-### More Videos
-
-- [The Smashing Pumpkins - 1979 Official Music Video](https://www.youtube.com/watch?v=4aeETEoNfOg)
-- [The Smashing Pumpkins - Bullet With Butterfly Wings](https://www.youtube.com/watch?v=8-r-V0uK4u0)
-- [The Smashing Pumpkins - Zero Official Music Video](https://www.youtube.com/watch?v=3wk7C64kaP4)
-- [The Smashing Pumpkins - Siva Official Music Video](https://www.youtube.com/watch?v=F3wAtWywrP4)
-- [Smashing Pumpkins - Siva](https://www.youtube.com/watch?v=-ZHnUuwvA8w)
-- [Landslide Remastered](https://www.youtube.com/watch?v=eYYx722ZYrs)
 
 ## Release Images
 {{< imageGrid >}}

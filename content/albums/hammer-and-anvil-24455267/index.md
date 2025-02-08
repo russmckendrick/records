@@ -4,6 +4,7 @@ artist_name: "Pure Reason Revolution"
 artist: "pure-reason-revolution"
 album_name: "Hammer And Anvil"
 date: 2022-09-09T03:31:47.000000Z
+release_date: "2010-10-15"
 release_id: "24455267"
 slug: "hammer-and-anvil-24455267"
 hideSummary: true
@@ -30,33 +31,30 @@ styles: ["Electro", "Experimental", "Ambient", "Prog Rock"]
 
 The hammer and anvil is a military tactic involving the use of two primary forces, one to pin down an enemy, and the other to smash or defeat the opponent with an encirclement maneuver. It may involve a frontal assault by one part of the force, playing a slower-moving or more static role. The second phase involves a more mobile force that maneuvers around the enemy and attacks from behind or the flank to deliver a decisive blow.
 The "hammer and anvil" tactic is fundamentally a single envelopment, and is to be distinguished from a simple encirclement where one group simply keeps an enemy occupied, while a flanking force delivers the coup de grace. The strongest expression of the concept is where both echelons are sufficient in themselves to strike a decisive blow. The "anvil" echelon here is not a mere diversionary gambit, but a substantial body that hits the enemy hard to pin him down and grind away his strength. The "hammer" or maneuver element succeeds because the anvil force materially or substantially weakens the enemy, preventing him from adjusting to the threat in his flank or rear. Other variants of the concept allow for an enemy to be held fast by a substantial blocking or holding force, while a strong echelon, or hammer, delivers the decisive blow. In all scenarios, both the hammer and anvil elements are substantial entities that can cause significant material damage to opponents, as opposed to light diversionary, or small scale holding units.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Fight Fire
-2. Black Mourning
-3. Patriarch
-4. Last Man, Last Round
-5. Valour
-6. Over The Top
-7. Never Divide
-8. Blitzkrieg
-9. Open Insurrection
-10. Armistice
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fight Fire |  |
+| A2 | Black Mourning |  |
+| A3 | Patriarch |  |
+| B1 | Last Man, Last Round |  |
+| B2 | Valour |  |
+| B3 | Over The Top |  |
+| B4 | Never Divide |  |
+| C1 | Blitzkrieg |  |
+| C2 | Open Insurrection |  |
+| C3 | Armistice |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hammer-and-anvil/1056376043" >}}<br>
 
 
-## Videos
-### Pure Reason Revolution - Valour - Hammer and Anvil - 2010
-{{< youtube id="l8MK78-aPLs" title="Pure Reason Revolution - Valour - Hammer and Anvil - 2010" >}}<br>
-### More Videos
-
-- [Pure Reason Revolution - Black Mourning - Hammer and Anvil - 2010](https://www.youtube.com/watch?v=fg2C_9Bj_sQ)
-- [Pure Reason Revolution - Fight Fire - Hammer and Anvil - 2010](https://www.youtube.com/watch?v=-oOWaZRn8WM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +66,5 @@ The "hammer and anvil" tactic is fundamentally a single envelopment, and is to b
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Yellow) |
 | Label          | Superball Music |
 | Catalog Number | MOVLP3078 |
-| Notes | Limited Edition of 1000 copies on yellow coloured vinyl Available on vinyl for the first time Includes band logo etch on D-side 180 gram audiophile vinyl  Made in the EU. |
+| Notes | Limited Edition of 1000 copies on yellow coloured vinyl<br>Available on vinyl for the first time<br>Includes band logo etch on D-side<br>180 gram audiophile vinyl<br><br>Made in the EU. |
 | Discogs URL    | [Pure Reason Revolution - Hammer And Anvil](https://www.discogs.com/release/24455267-Pure-Reason-Revolution-Hammer-And-Anvil) |

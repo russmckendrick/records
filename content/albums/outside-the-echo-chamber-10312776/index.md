@@ -4,6 +4,7 @@ artist_name: "Coldcut"
 artist: "coldcut"
 album_name: "Outside The Echo Chamber"
 date: 2017-06-09T16:12:30.000000Z
+release_date: "2017-05-19"
 release_id: "10312776"
 slug: "outside-the-echo-chamber-10312776"
 hideSummary: true
@@ -44,42 +45,35 @@ styles: ["Reggae", "Dub", "Dancehall"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Everyday Another Sanction
-2. Everyday Another Sanction (Dub)
-3. Vitals
-4. Vitals (Dub)
-5. Robbery
-6. Robbery (Dub)
-7. Divide And Rule
-8. Divide And Rule (Dub)
-9. Kajra Mohobbat Wala
-10. Kajra Mohobbat Wala (Dub)
-11. Make Up Your Mind
-12. Make Up Your Mind
-13. Metro
-14. Livid Hip Hop
-15. Aztec Riddim
-16. Make Up Your Mind (Dub)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Everyday Another Sanction |  |
+| B | Everyday Another Sanction (Dub) |  |
+| C | Vitals |  |
+| D | Vitals (Dub) |  |
+| E | Robbery |  |
+| F | Robbery (Dub) |  |
+| G | Divide And Rule |  |
+| H | Divide And Rule (Dub) |  |
+| I | Kajra Mohobbat Wala |  |
+| J | Kajra Mohobbat Wala (Dub) |  |
+| K | Make Up Your Mind |  |
+| L | Make Up Your Mind |  |
+| M | Metro |  |
+| N | Livid Hip Hop |  |
+| O | Aztec Riddim |  |
+| P | Make Up Your Mind (Dub) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/outside-the-echo-chamber/1583219464" >}}<br>
 
 
-## Videos
-### Coldcut x On-U Sound - Vitals feat Roots Manuva Dub
-{{< youtube id="9FjK8yyVY0M" title="Coldcut x On-U Sound - Vitals feat Roots Manuva Dub" >}}<br>
-### More Videos
-
-- [Coldcut x On-U Sound - Metro](https://www.youtube.com/watch?v=k8x_UjoeMjk)
-- [Coldcut x On-U Sound - Make Up Your Mind feat CeCile and Toddla T Dub](https://www.youtube.com/watch?v=3t9RzE-GvBc)
-- [Coldcut x On-U Sound - Aztec Riddim](https://www.youtube.com/watch?v=ksoOE3z3MQk)
-- [Coldcut x On-U Sound - Kajra Mohabbat Wala feat Hamsika Iyer](https://www.youtube.com/watch?v=Dvt2nRs7e7I)
-- [Coldcut x On-U Sound - Divide and Rule feat Lee Scratch Perry Junior Reid and Elan](https://www.youtube.com/watch?v=t1HtUqJ4zSk)
-- [Coldcut x On-U Sound - Livid Hip Hop](https://www.youtube.com/watch?v=YZMghlhcSw8)
-- [Coldcut x On-U Sound - Divide and Rule Mungos Hi Fi Remix](https://www.youtube.com/watch?v=KwLiMC2AhgM)
-- [Coldcut x On-U Sound - Kajra Mohabbat Wala feat Hamsika Iyer Dub](https://www.youtube.com/watch?v=oiWT2JNa53s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -90,5 +84,5 @@ styles: ["Reggae", "Dub", "Dancehall"]
 | Format         | Vinyl 8× 7" 45 RPM Album, Box Set Limited Edition |
 | Label          | Ahead Of Our Time |
 | Catalog Number | AHEDBOX015 |
-| Notes | Box set contains eight dinked 7”s with recycled labels, housed in brown paper ‘grocery’ bags, and two Coldcut 45 adapters.  Includes download code.  Signed copies were available from Recordstore.co.uk |
+| Notes | Box set contains eight dinked 7”s with recycled labels, housed in brown paper ‘grocery’ bags, and two Coldcut 45 adapters.<br><br>Includes download code.<br><br>Signed copies were available from Recordstore.co.uk |
 | Discogs URL    | [Coldcut - Outside The Echo Chamber](https://www.discogs.com/release/10312776-Coldcut-x-On-U-Sound-Outside-The-Echo-Chamber) |

@@ -4,6 +4,7 @@ artist_name: "Pet Shop Boys"
 artist: "pet-shop-boys"
 album_name: "Smash (The Singles 1985-2020)"
 date: 2023-06-16T09:59:40.000000Z
+release_date: "2023-06-16"
 release_id: "27393912"
 slug: "smash-the-singles-1985-2020-27393912"
 hideSummary: true
@@ -37,67 +38,72 @@ styles: ["Dance-pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. West End Girls
-2. Love Comes Quickly
-3. Opportunities (Let's Make Lots Of Money)
-4. Suburbia
-5. It's A Sin
-6. What Have I Done To Deserve This?
-7. Rent
-8. Always On My Mind
-9. Heart
-10. Domino Dancing
-11. Left To My Own Devices
-12. It's Alright
-13. So Hard
-14. Being Boring
-15. Where The Streets Have No Name / I Can't Take My Eyes Off You
-16. Jealousy
-17. DJ Culture
-18. Was It Worth It?
-19. Can You Forgive Her?
-20. Go West
-21. I Wouldn't Normally Do This Kind Of Thing
-22. Liberation
-23. Yesterday, When I Was Mad
-24. Paninaro 95
-25. Before
-26. Se A Vida É (That's The Way Life Is)
-27. Single-Bilingual
-28. A Red Letter Day
-29. Somewhere
-30. I Don't Know What You Want But I Can't Give It Any More
-31. New York City Boy (USA Radio Edit)
-32. You Only Tell Me You Love Me When You're Drunk
-33. Home And Dry
-34. I Get Along
-35. Miracles
-36. Flamboyant
-37. I'm With Stupid
-38. Minimal
-39. Numb
-40. Love Etc
-41. Did You See Me Coming?
-42. It Doesn't Often Snow At Christmas
-43. Together
-44. Winner
-45. Leaving
-46. Memory Of The Future
-47. Vocal
-48. Love Is A Bourgeois Construct
-49. Thursday
-50. The Pop Kids
-51. Twenty-Something
-52. Say It To Me
-53. Dreamland
-54. Monkey Business
-55. I Don't Wanna
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | West End Girls |  |
+| A2 | Love Comes Quickly |  |
+| A3 | Opportunities (Let's Make Lots Of Money) |  |
+| A4 | Suburbia |  |
+| B1 | It's A Sin |  |
+| B2 | What Have I Done To Deserve This? |  |
+| B3 | Rent |  |
+| B4 | Always On My Mind |  |
+| B5 | Heart |  |
+| C1 | Domino Dancing |  |
+| C2 | Left To My Own Devices |  |
+| C3 | It's Alright |  |
+| C4 | So Hard |  |
+| D1 | Being Boring |  |
+| D2 | Where The Streets Have No Name / I Can't Take My Eyes Off You |  |
+| D3 | Jealousy |  |
+| D4 | DJ Culture |  |
+| D5 | Was It Worth It? |  |
+| E1 | Can You Forgive Her? |  |
+| E2 | Go West |  |
+| E3 | I Wouldn't Normally Do This Kind Of Thing |  |
+| E4 | Liberation |  |
+| F1 | Yesterday, When I Was Mad |  |
+| F2 | Paninaro 95 |  |
+| F3 | Before |  |
+| F4 | Se A Vida É (That's The Way Life Is) |  |
+| F5 | Single-Bilingual |  |
+| G1 | A Red Letter Day |  |
+| G2 | Somewhere |  |
+| G3 | I Don't Know What You Want But I Can't Give It Any More |  |
+| G4 | New York City Boy (USA Radio Edit) |  |
+| H1 | You Only Tell Me You Love Me When You're Drunk |  |
+| H2 | Home And Dry |  |
+| H3 | I Get Along |  |
+| H4 | Miracles |  |
+| H5 | Flamboyant |  |
+| I1 | I'm With Stupid |  |
+| I2 | Minimal |  |
+| I3 | Numb |  |
+| I4 | Love Etc |  |
+| I5 | Did You See Me Coming? |  |
+| J1 | It Doesn't Often Snow At Christmas |  |
+| J2 | Together |  |
+| J3 | Winner |  |
+| J4 | Leaving |  |
+| J5 | Memory Of The Future |  |
+| K1 | Vocal |  |
+| K2 | Love Is A Bourgeois Construct |  |
+| K3 | Thursday |  |
+| K4 | The Pop Kids |  |
+| L1 | Twenty-Something |  |
+| L2 | Say It To Me |  |
+| L3 | Dreamland |  |
+| L4 | Monkey Business |  |
+| L5 | I Don't Wanna |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/smash-the-singles-1985-2020-2023-remaster/1678986191" >}}<br>
-
 
 
 

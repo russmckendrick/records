@@ -1,7 +1,7 @@
 ---
 title: "Steve Mason - About The Light"
 artist_name: "Steve Mason"
-artist: "steve-mason-2"
+artist: "steve-mason"
 album_name: "About The Light"
 date: 2019-01-19T09:38:30.000000Z
 release_date: "2019-01-18"
@@ -28,43 +28,24 @@ Here, Mason emerges from insularity to seize the day on the title track’s coun
 
 
 ## Tracklisting
-1. America Is Your Boyfriend
-2. Rocket
-3. No Clue
-4. About The Light
-5. Fox On The Rooftop
-6. Stars Around My Heart
-7. Spanish Brigade
-8. Don't Know Where
-9. Walking Away From Love
-10. The End
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | America Is Your Boyfriend |  |
+| A2 | Rocket |  |
+| A3 | No Clue |  |
+| A4 | About The Light |  |
+| A5 | Fox On The Rooftop |  |
+| B1 | Stars Around My Heart |  |
+| B2 | Spanish Brigade |  |
+| B3 | Don't Know Where |  |
+| B4 | Walking Away From Love |  |
+| B5 | The End |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/about-the-light/1434556882" >}}<br>
 
 
-## Videos
-### Steve Mason - About  the light
-{{< youtube id="8jPy090dfPg" title="Steve Mason - About  the light" >}}<br>
-### More Videos
-
-- [Rocket](https://www.youtube.com/watch?v=3ko96ZE8lvk)
-- [Fox on the Rooftop](https://www.youtube.com/watch?v=gjNO4fSv4hM)
-- [About the Light](https://www.youtube.com/watch?v=iNq9vi7w1CA)
-- [Steve Mason - Fox on the rooftop](https://www.youtube.com/watch?v=HPgygTsLH-A)
-- [America Is Your Boyfriend](https://www.youtube.com/watch?v=qkLt8csF5eI)
-- [No Clue](https://www.youtube.com/watch?v=jcrD5EBKhw4)
-- [Stars Around My Heart](https://www.youtube.com/watch?v=KLxAlOobhf4)
-- [Walking Away from Love](https://www.youtube.com/watch?v=9SfZEou56sU)
-- [Steve Mason - About  the light](https://www.youtube.com/watch?v=8jPy090dfPg)
-- [Rocket](https://www.youtube.com/watch?v=3ko96ZE8lvk)
-- [Fox on the Rooftop](https://www.youtube.com/watch?v=gjNO4fSv4hM)
-- [About the Light](https://www.youtube.com/watch?v=iNq9vi7w1CA)
-- [Steve Mason - Fox on the rooftop](https://www.youtube.com/watch?v=HPgygTsLH-A)
-- [America Is Your Boyfriend](https://www.youtube.com/watch?v=qkLt8csF5eI)
-- [No Clue](https://www.youtube.com/watch?v=jcrD5EBKhw4)
-- [Stars Around My Heart](https://www.youtube.com/watch?v=KLxAlOobhf4)
-- [Walking Away from Love](https://www.youtube.com/watch?v=9SfZEou56sU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +57,5 @@ Here, Mason emerges from insularity to seize the day on the title track’s coun
 | Format         | Vinyl LP Album Limited Edition (Silver) |
 | Label          | Double Six (2) |
 | Catalog Number | DS121LP |
-| Notes | Indies Silver vinyl version.  (i.e.with no lenticular print insert of the front cover, version).  Download card for MP3 and WAV files included.  Some copies issued with a sticker applied to the shrinkwrap with alternative catalogue number DSS121LPX and barcode listed. |
+| Notes | Indies Silver vinyl version.  (i.e.with no lenticular print insert of the front cover, version).<br><br>Download card for MP3 and WAV files included.<br><br>Some copies issued with a sticker applied to the shrinkwrap with alternative catalogue number DSS121LPX and barcode listed. |
 | Discogs URL    | [Steve Mason - About The Light](https://www.discogs.com/release/13072237-Steve-Mason-2-About-The-Light) |

@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "The Brits 1991 (The Magic Of British Music) "
 date: 2019-01-05T11:38:49.000000Z
+release_date: ""
 release_id: "1307225"
 slug: "the-brits-1991-the-magic-of-british-music-1307225"
 hideSummary: true
@@ -21,39 +22,46 @@ styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Sacrifice
-2. Nothing Compares 2 U
-3. Praying For Time
-4. I'm Your Baby Tonight
-5. A Little Time
-6. Unchained Melody
-7. Wicked Game
-8. Thieves In The Temple
-9. Suicide Blonde
-10. Blaze Of Glory
-11. Black Cat
-12. It Must Have Been Love
-13. Hold On
-14. Falling
-15. Groove Is In The Heart
-16. Doin' The Do
-17. Dub Be Good To Me
-18. Naked In The Rain
-19. Livin' In The Light
-20. I've Got You Under My Skin
-21. Reputation
-22. There She Goes
-23. Kinky Afro
-24. One Love
-25. Close To Me (Closest Mix)
-26. Smalltown Boy (1991 Remix)
-27. Love Shack
-28. Live Together
-29. Life's What You Make It
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sacrifice |  |
+| A2 | Nothing Compares 2 U |  |
+| A3 | Praying For Time |  |
+| A4 | I'm Your Baby Tonight |  |
+| A5 | A Little Time |  |
+| A6 | Unchained Melody |  |
+| A7 | Wicked Game |  |
+| B1 | Thieves In The Temple |  |
+| B2 | Suicide Blonde |  |
+| B3 | Blaze Of Glory |  |
+| B4 | Black Cat |  |
+| B5 | It Must Have Been Love |  |
+| B6 | Hold On |  |
+| B7 | Falling |  |
+| C1 | Groove Is In The Heart |  |
+| C2 | Doin' The Do |  |
+| C3 | Dub Be Good To Me |  |
+| C4 | Naked In The Rain |  |
+| C5 | Livin' In The Light |  |
+| C6 | I've Got You Under My Skin |  |
+| C7 | Reputation |  |
+| C8 | There She Goes |  |
+| D1 | Kinky Afro |  |
+| D2 | One Love |  |
+| D3 | Close To Me (Closest Mix) |  |
+| D4 | Smalltown Boy (1991 Remix) |  |
+| D5 | Love Shack |  |
+| D6 | Live Together |  |
+| D7 | Life's What You Make It |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -66,5 +74,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Telstar |
 | Catalog Number | STAR 2481 |
-| Notes | D3 misspelled "Closet mix" instead of "Closest mix"  |
+| Notes | D3 misspelled "Closet mix" instead of "Closest mix"<br> |
 | Discogs URL    | [Various - The Brits 1991 (The Magic Of British Music) ](https://www.discogs.com/release/1307225-Various-The-Brits-1991-The-Magic-Of-British-Music-) |

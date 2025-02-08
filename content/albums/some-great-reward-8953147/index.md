@@ -38,27 +38,23 @@ This was the first album where they achieved chart success in the US with the si
 
 
 ## Tracklisting
-1. Something To Do (3:45)
-2. Lie To Me (5:04)
-3. People Are People (3:52)
-4. It Doesn't Matter (4:45)
-5. Stories Of Old (3:12)
-6. Somebody (4:26)
-7. Master And Servant (4:13)
-8. If You Want (4:40)
-9. Blasphemous Rumours (6:21)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Something To Do | 3:45 |
+| A2 | Lie To Me | 5:04 |
+| A3 | People Are People | 3:52 |
+| A4 | It Doesn't Matter | 4:45 |
+| A5 | Stories Of Old | 3:12 |
+| B1 | Somebody | 4:26 |
+| B2 | Master And Servant | 4:13 |
+| B3 | If You Want | 4:40 |
+| B4 | Blasphemous Rumours | 6:21 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/some-great-reward/665403327" >}}<br>
 
 
-## Videos
-### Depeche Mode - Some Great Reward FULL ALBUM
-{{< youtube id="8gCF4xdVQV8" title="Depeche Mode - Some Great Reward FULL ALBUM" >}}<br>
-### More Videos
-
-- [Depeche Mode - Some Great Reward full album](https://www.youtube.com/watch?v=pELObWd223Y)
-- [dave doesnt remember some great reward](https://www.youtube.com/watch?v=2wRK07nfs9c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +66,5 @@ This was the first album where they achieved chart success in the US with the si
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 Gram) |
 | Label          | Legacy |
 | Catalog Number | STUMM19 |
-| Notes | Published by EMI Music Publishing Ltd, assigned by Grabbing Hands Music Ltd. Except If You Want, published by BMG Music Publishing Ltd. Recorded at Music Works, London and Hansa Mischraum, Berlin. Mixed at Hansa Mischraum, Berlin.  Remastered at Super Audio Mastering. Cut at The Exchange.  ℗ 1984 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. © 1984, 2007, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. Distributed by Sony Music Entertainment. Made in the EU. Sony Music Entertainment International Services GmbH |
+| Notes | Published by EMI Music Publishing Ltd, assigned by Grabbing Hands Music Ltd. Except If You Want, published by BMG Music Publishing Ltd.<br>Recorded at Music Works, London and Hansa Mischraum, Berlin.<br>Mixed at Hansa Mischraum, Berlin.<br><br>Remastered at Super Audio Mastering. Cut at The Exchange.<br><br>℗ 1984 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd.<br>© 1984, 2007, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd.<br>Distributed by Sony Music Entertainment.<br>Made in the EU.<br>Sony Music Entertainment International Services GmbH |
 | Discogs URL    | [Depeche Mode - Some Great Reward](https://www.discogs.com/release/8953147-Depeche-Mode-Some-Great-Reward) |

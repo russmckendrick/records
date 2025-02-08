@@ -34,31 +34,22 @@ In MTV footage from around the album’s release, Lars Ulrich tells an interview
 
 
 ## Tracklisting
-1. Battery (5:10)
-2. Master Of Puppets (8:38)
-3. The Thing That Should Not Be (6:32)
-4. Welcome Home (Sanitarium) (6:28)
-5. Disposable Heroes (8:14)
-6. Leper Messiah (5:38)
-7. Orion (Instrumental) (8:12)
-8. Damage, Inc (5:08)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Battery | 5:10 |
+| A2 | Master Of Puppets | 8:38 |
+| A3 | The Thing That Should Not Be | 6:32 |
+| A4 | Welcome Home (Sanitarium) | 6:28 |
+| B1 | Disposable Heroes | 8:14 |
+| B2 | Leper Messiah | 5:38 |
+| B3 | Orion (Instrumental) | 8:12 |
+| B4 | Damage, Inc | 5:08 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/master-of-puppets-remastered/1440901428" >}}<br>
 
 
-## Videos
-### Battery Remastered
-{{< youtube id="a_ITtP033RI" title="Battery Remastered" >}}<br>
-### More Videos
-
-- [Master of Puppets Remastered](https://www.youtube.com/watch?v=E0ozmU9cJDg)
-- [The Thing That Should Not Be Remastered](https://www.youtube.com/watch?v=DoHk21aGHas)
-- [Welcome Home Sanitarium Remastered](https://www.youtube.com/watch?v=ZiIc0HuJ78Q)
-- [Disposable Heroes Remastered](https://www.youtube.com/watch?v=dzssbzIsmqU)
-- [Leper Messiah Remastered](https://www.youtube.com/watch?v=JYALpvUGNk8)
-- [Orion Remastered](https://www.youtube.com/watch?v=-OxslxSG48Q)
-- [Damage Inc Remastered](https://www.youtube.com/watch?v=DdekZoYoamE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +61,5 @@ In MTV footage from around the album’s release, Lars Ulrich tells an interview
 | Format         | Vinyl LP Album Reissue |
 | Label          | Blackened |
 | Catalog Number | BLCKND005-1 |
-| Notes | [On back cover:] ℗ & © 1986 Blackened Recordings Inc, under exclusive licence to Universal International Music B.V. All rights reserved. Made in the EU.  [On printed inner sheet:] All songs published by Creeping Death Music (ASCAP). |
+| Notes | [On back cover:]<br>℗ & © 1986 Blackened Recordings Inc, under exclusive licence to Universal International Music B.V. All rights reserved. Made in the EU.<br><br>[On printed inner sheet:]<br>All songs published by Creeping Death Music (ASCAP). |
 | Discogs URL    | [Metallica - Master Of Puppets](https://www.discogs.com/release/7260112-Metallica-Master-Of-Puppets) |

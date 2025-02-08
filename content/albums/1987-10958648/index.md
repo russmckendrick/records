@@ -4,6 +4,7 @@ artist_name: "Whitesnake"
 artist: "whitesnake"
 album_name: "1987"
 date: 2017-10-08T09:55:50.000000Z
+release_date: "1987-04-07"
 release_id: "10958648"
 slug: "1987-10958648"
 hideSummary: true
@@ -27,42 +28,40 @@ styles: ["Classic Rock", "Hard Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. 2017 Remaster
-2. Still Of The Night
-3. Bad Boys
-4. You're Gonna Break My Heart Again
-5. Straight For The Heart
-6. Here I Go Again 87
-7. Give Me All Your Love
-8. Is This Love
-9. Children Of The Night
-10. Crying In The Rain
-11. Don't Turn Away
-12. Bonus Material
-13. Still Of The Night (2017 Remix)
-14. Is This Love (2017 Remix)
-15. Give Me All Your Love (2017 Remix)
-16. Here I Go Again 87 (2017 Remix)
-17. Looking For Love
-18. Here I Go Again (Live)
-19. Is This Love (Live)
-20. Give Me All Your Love (Live)
-21. Still of the Night (Live)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | 2017 Remaster |  |
+| A1 | Still Of The Night |  |
+| A2 | Bad Boys |  |
+| A3 | You're Gonna Break My Heart Again |  |
+| A4 | Straight For The Heart |  |
+| A5 | Here I Go Again 87 |  |
+| B1 | Give Me All Your Love |  |
+| B2 | Is This Love |  |
+| B3 | Children Of The Night |  |
+| B4 | Crying In The Rain |  |
+| B5 | Don't Turn Away |  |
+|  | Bonus Material |  |
+| C1 | Still Of The Night (2017 Remix) |  |
+| C2 | Is This Love (2017 Remix) |  |
+| C3 | Give Me All Your Love (2017 Remix) |  |
+| C4 | Here I Go Again 87 (2017 Remix) |  |
+| C5 | Looking For Love |  |
+| D1 | Here I Go Again (Live) |  |
+| D2 | Is This Love (Live) |  |
+| D3 | Give Me All Your Love (Live) |  |
+| D4 | Still of the Night (Live) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/1987-30th-anniversary-remaster/1269150105" >}}<br>
 
 
-## Videos
-### Whitesnake - Here I Go Again 87 Official Music Video
-{{< youtube id="WyF8RHM1OCg" title="Whitesnake - Here I Go Again 87 Official Music Video" >}}<br>
-### More Videos
-
-- [Whitesnake - Is This Love Official Music Video](https://www.youtube.com/watch?v=GOJk0HW_hJw)
-- [Whitesnake - Give Me All Your Love Official Music Video](https://www.youtube.com/watch?v=dkl2hiTHUrc)
-- [Straight for the Heart 2017 Remaster](https://www.youtube.com/watch?v=V-2PjKfhoOo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +72,5 @@ styles: ["Classic Rock", "Hard Rock"]
 | Format         | Vinyl LP Album Remastered (180 Gram), Vinyl LP, All Media Reissue (30th Anniversary Edition) |
 | Label          | Parlophone |
 | Catalog Number | 0190295785178 |
-| Notes | In the runouts, where [url=https://www.discogs.com/label/313190]Optimal Media GmbH's[/url] "geometric" marks appear, these are mirrored: "2|" "1|=" "1|+" |
+| Notes | In the runouts, where [url=https://www.discogs.com/label/313190]Optimal Media GmbH's[/url] "geometric" marks appear, these are mirrored:<br>"2|" "1|=" "1|+" |
 | Discogs URL    | [Whitesnake - 1987](https://www.discogs.com/release/10958648-Whitesnake-1987) |

@@ -4,6 +4,7 @@ artist_name: "Porcupine Tree"
 artist: "porcupine-tree"
 album_name: "In Absentia"
 date: 2018-03-12T19:33:13.000000Z
+release_date: "2002-09-24"
 release_id: "11632553"
 slug: "in-absentia-11632553"
 hideSummary: true
@@ -35,40 +36,32 @@ styles: ["Alternative Rock"]
 In Absentia is the seventh studio album by British progressive rock band Porcupine Tree, first released on 24 September 2002. The album marked several changes for the band, with it being the first with new drummer Gavin Harrison and the first to move into a more progressive metal direction, contrary to past albums' psychedelic and alternative rock sounds. Additionally, it was their first release on a major record label, Lava Records. It was very well received critically and commercially, with it often being considered the band's crowning achievement, and selling three times as many copies as any of the band's earlier albums.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Blackest Eyes (4:26)
-2. Trains (5:57)
-3. Lips Of Ashes (4:40)
-4. The Sound Of Muzak (4:59)
-5. Gravity Eyelids (7:56)
-6. Wedding Nails (6:33)
-7. Prodigal (5:33)
-8. .3 (5:26)
-9. The Creator Has A Mastertape (5:21)
-10. Heartattack In A Layby (4:15)
-11. Strip The Soul (7:22)
-12. Collapse The Light Into Earth (5:52)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Blackest Eyes | 4:26 |
+| A2 | Trains | 5:57 |
+| A3 | Lips Of Ashes | 4:40 |
+| B1 | The Sound Of Muzak | 4:59 |
+| B2 | Gravity Eyelids | 7:56 |
+| B3 | Wedding Nails | 6:33 |
+| C1 | Prodigal | 5:33 |
+| C2 | .3 | 5:26 |
+| C3 | The Creator Has A Mastertape | 5:21 |
+| D1 | Heartattack In A Layby | 4:15 |
+| D2 | Strip The Soul | 7:22 |
+| D3 | Collapse The Light Into Earth | 5:52 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-absentia/1770062036" >}}<br>
 
 
-## Videos
-### Porcupine Tree - In Absentia
-{{< youtube id="U8sfqB0J7i4" title="Porcupine Tree - In Absentia" >}}<br>
-### More Videos
-
-- [Collapse Intro - Remastered](https://www.youtube.com/watch?v=-8JbDjln3rc)
-- [Drown With Me Remastered](https://www.youtube.com/watch?v=VsG5tIBUk6Y)
-- [Orchidia Remastered](https://www.youtube.com/watch?v=LjbYGYqVSx8)
-- [Chloroform Remastered](https://www.youtube.com/watch?v=3GVBLqa8JMM)
-- [Futile Remastered](https://www.youtube.com/watch?v=YN-N_YSXhcg)
-- [Meantime Remastered](https://www.youtube.com/watch?v=JNmaWGOnJz0)
-- [Unboxing Porcupine Tree - In Absentia 2020 Boxset](https://www.youtube.com/watch?v=Rh22gKXw63s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +73,5 @@ In Absentia is the seventh studio album by British progressive rock band Porcupi
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (White, 180g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE981 |
-| Notes | [Liner Notes] "Remastered by Steven Wilson in November 2017." "The copyright of this sound recording is owned by Snapper Music Ltd. ℗ 2002 Snapper Music © 2018 Snapper Music "  Gatefold cover with printed inner sleeves.  |
+| Notes | [Liner Notes]<br>"Remastered by Steven Wilson in November 2017."<br>"The copyright of this sound recording is owned by Snapper Music Ltd. ℗ 2002 Snapper Music © 2018 Snapper Music "<br><br>Gatefold cover with printed inner sleeves.  |
 | Discogs URL    | [Porcupine Tree - In Absentia](https://www.discogs.com/release/11632553-Porcupine-Tree-In-Absentia) |

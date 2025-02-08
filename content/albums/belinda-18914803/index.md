@@ -4,6 +4,7 @@ artist_name: "Belinda Carlisle"
 artist: "belinda-carlisle"
 album_name: "Belinda"
 date: 2022-01-09T03:56:30.000000Z
+release_date: "2015-05-25"
 release_id: "18914803"
 slug: "belinda-18914803"
 hideSummary: true
@@ -30,41 +31,41 @@ styles: ["Pop Rock"]
 Belinda is the debut studio album by American singer Belinda Carlisle. It was released on May 19, 1986 by I.R.S. Records. Carlisle began work on the album in 1985 following the breakup of the Go-Go's, for whom she was the lead singer. The album was supported by four singles, with lead single "Mad About You" peaking at number 3 on the US Billboard Hot 100 and No. 1 in Canada.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Mad About You
-2. I Need A Disguise
-3. Since You've Gone
-4. I Feel The Magic
-5. I Never Wanted A Rich Man
-6. Band Of Gold
-7. Gotta Get To You
-8. From The Heart
-9. Shot In The Dark
-10. Stuff And Nonsense
-11. Bonus Tracks
-12. Band Of Gold (Single Mix)
-13. Dancing In The City
-14. Mad About You (Extended Version)
-15. Band Of Gold (Extended Mix)
-16. Band Of Gold (Dub Mix)
-17. Live In Concert
-18. Shot In The Dark
-19. Lust To Love
-20. Mad About You
-21. Since You're Gone
-22. Head Over Heels
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mad About You |  |
+| A2 | I Need A Disguise |  |
+| A3 | Since You've Gone |  |
+| A4 | I Feel The Magic |  |
+| A5 | I Never Wanted A Rich Man |  |
+| B1 | Band Of Gold |  |
+| B2 | Gotta Get To You |  |
+| B3 | From The Heart |  |
+| B4 | Shot In The Dark |  |
+| B5 | Stuff And Nonsense |  |
+|  | Bonus Tracks |  |
+| C1 | Band Of Gold (Single Mix) |  |
+| C2 | Dancing In The City |  |
+| C3 | Mad About You (Extended Version) |  |
+| C4 | Band Of Gold (Extended Mix) |  |
+| C5 | Band Of Gold (Dub Mix) |  |
+|  | Live In Concert |  |
+| D1 | Shot In The Dark |  |
+| D2 | Lust To Love |  |
+| D3 | Mad About You |  |
+| D4 | Since You're Gone |  |
+| D5 | Head Over Heels |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-belinda-carlisle/996508709" >}}<br>
 
-
-## Videos
-### Belinda Carlisle - Mad About You 4K Version
-{{< youtube id="OPzF5S2dgfA" title="Belinda Carlisle - Mad About You 4K Version" >}}<br>
 
 
 ## Release Images
@@ -77,5 +78,5 @@ Belinda is the debut studio album by American singer Belinda Carlisle. It was re
 | Format         | All Media Deluxe Edition Limited Edition (35th Anniversary Edition), Vinyl LP Album Stereo (Pink, 180 Gram), Vinyl LP Stereo (Pink, 180 Gram) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC900X |
-| Notes | Sticker on shrinkwrap states:  "Belinda DELUXE 2LP 35TH ANNIVERSARY EDITION From 1986, Belinda's debut solo album Features the hit singles "Mad About You" and "I Feel The Magic" Bonus LP includes mixes of  "Band Of Gold recorded with Freda Payne plus five live recordings Includes the lyrics and annotation Pressed on 180 gram pink vinyl First time on vinyl since 1986 DEMREC900X"    ℗ & © 2021 Capitol Records LLC Manufactured in the EU   |
+| Notes | Sticker on shrinkwrap states:<br><br>"Belinda<br>DELUXE 2LP 35TH ANNIVERSARY EDITION<br>From 1986, Belinda's debut solo album<br>Features the hit singles<br>"Mad About You" and "I Feel The Magic"<br>Bonus LP includes mixes of <br>"Band Of Gold<br>recorded with Freda Payne<br>plus five live recordings<br>Includes the lyrics and annotation<br>Pressed on 180 gram pink vinyl<br>First time on vinyl since 1986<br>DEMREC900X"<br><br><br><br>℗ & © 2021 Capitol Records LLC<br>Manufactured in the EU<br><br> |
 | Discogs URL    | [Belinda Carlisle - Belinda](https://www.discogs.com/release/18914803-Belinda-Carlisle-Belinda) |

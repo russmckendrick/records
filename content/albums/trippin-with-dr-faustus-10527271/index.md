@@ -1,9 +1,10 @@
 ---
 title: "Amplifier - Trippin' With Dr. Faustus"
 artist_name: "Amplifier"
-artist: "amplifier-3"
+artist: "amplifier"
 album_name: "Trippin' With Dr. Faustus"
 date: 2018-08-12T09:43:08.000000Z
+release_date: "2017-06-23"
 release_id: "10527271"
 slug: "trippin-with-dr-faustus-10527271"
 hideSummary: true
@@ -31,33 +32,29 @@ styles: ["Space Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Rainbow Machine
-2. Freakzone
-3. Kosmos (Grooves Of Triumph)
-4. The Commotion (Big Time Party Maker)
-5. Big Daddy
-6. Horse
-7. Anubis
-8. Supernova
-9. Silvio
-10. Old Blue Eyes
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rainbow Machine |  |
+| A2 | Freakzone |  |
+| B1 | Kosmos (Grooves Of Triumph) |  |
+| B2 | The Commotion (Big Time Party Maker) |  |
+| C1 | Big Daddy |  |
+| C2 | Horse |  |
+| C3 | Anubis |  |
+| D1 | Supernova |  |
+| D2 | Silvio |  |
+| D3 | Old Blue Eyes |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/trippin-with-dr-faustus/1235100150" >}}<br>
 
 
-## Videos
-### Amplifier - Rainbow Machine
-{{< youtube id="TE4KCRZI2tg" title="Amplifier - Rainbow Machine" >}}<br>
-### More Videos
-
-- [Amplifier - Freakzone 2017](https://www.youtube.com/watch?v=k7NAMedoq4o)
-- [Amplifier - Kosmos Lyric Video](https://www.youtube.com/watch?v=s4PoflfAMEo)
-- [Amplifier - Rainbow Machine](https://www.youtube.com/watch?v=TE4KCRZI2tg)
-- [Amplifier - Freakzone 2017](https://www.youtube.com/watch?v=k7NAMedoq4o)
-- [Amplifier - Kosmos Lyric Video](https://www.youtube.com/watch?v=s4PoflfAMEo)
 
 ## Release Images
 {{< imageGrid >}}

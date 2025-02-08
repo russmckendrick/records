@@ -4,6 +4,7 @@ artist_name: "Porcupine Tree"
 artist: "porcupine-tree"
 album_name: "House Of Blues - Los Angeles 2003"
 date: 2021-08-09T03:27:40.000000Z
+release_date: ""
 release_id: "19649257"
 slug: "house-of-blues-los-angeles-2003-19649257"
 hideSummary: true
@@ -29,29 +30,31 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Blackest Eyes (5:29)
-2. Shesmovedon (5:24)
-3. Gravity Eyelids (7:41)
-4. Futile (7:49)
-5. Even Less (7:15)
-6. Slave Called Shiver (4:38)
-7. Waiting (4:42)
-8. Hatesong (8:42)
-9. Russia On Ice (12:08)
-10. Moon Touches Your Shoulder (6:12)
-11. Strip The Soul (8:06)
-12. Wedding Nails (6:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Blackest Eyes | 5:29 |
+| A2 | Shesmovedon | 5:24 |
+| A3 | Gravity Eyelids | 7:41 |
+| B4 | Futile | 7:49 |
+| B5 | Even Less | 7:15 |
+| B6 | Slave Called Shiver | 4:38 |
+| B7 | Waiting | 4:42 |
+| C8 | Hatesong | 8:42 |
+| C9 | Russia On Ice | 12:08 |
+| D10 | Moon Touches Your Shoulder | 6:12 |
+| D11 | Strip The Soul | 8:06 |
+| D12 | Wedding Nails | 6:42 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Porcupine Tree - Live at the House of Blues Los Angeles 2003 Official Vinyl
-{{< youtube id="_3vHn79gP4Q" title="Porcupine Tree - Live at the House of Blues Los Angeles 2003 Official Vinyl" >}}<br>
-### More Videos
 
-- [Porcupine Tree - Live at the House of Blues Los Angeles 2003 Official Vinyl](https://www.youtube.com/watch?v=_3vHn79gP4Q)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +65,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 2× LP Album Limited Edition (Blue transparent) |
 | Label          | Transmission Recordings |
 | Catalog Number | Transmission 14.2 |
-| Notes | According to Steven Wilson on Instagram, this release is limited to 4,000 copies.  Tracks listed sequentially on sleeve.   The plating marks (1|, 1=, 1+, etc.) on runouts are mirrored.  [Liner notes] Recorded live at the House of Blues, Los Angeles on 30th July 2003. Restored and remixed from the 24 track ADAT tapes in 2020.  (...) ℗&© 2020 The copyright in this sound recording is owned by Porcupine Tree Ltd. (...) Made in EU.    |
+| Notes | According to Steven Wilson on Instagram, this release is limited to 4,000 copies.<br><br>Tracks listed sequentially on sleeve. <br><br>The plating marks (1|, 1=, 1+, etc.) on runouts are mirrored.<br><br>[Liner notes]<br>Recorded live at the House of Blues, Los Angeles on 30th July 2003.<br>Restored and remixed from the 24 track ADAT tapes in 2020. <br>(...)<br>℗&© 2020 The copyright in this sound recording is owned by Porcupine Tree Ltd. (...) Made in EU.<br><br><br> |
 | Discogs URL    | [Porcupine Tree - House Of Blues - Los Angeles 2003](https://www.discogs.com/release/19649257-Porcupine-Tree-House-Of-Blues-Los-Angeles-2003) |

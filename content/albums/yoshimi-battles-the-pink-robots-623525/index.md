@@ -33,36 +33,25 @@ Those disparate efforts all played a role in the creation of <i>Yoshimi</i>, whi
 
 
 ## Tracklisting
-1. Fight Test (4:14)
-2. One More Robot / Sympathy 3000-21 (4:59)
-3. Yoshimi Battles The Pink Robots Pt. 1 (4:45)
-4. Yoshimi Battles The Pink Robots Pt. 2 (2:57)
-5. In The Morning Of The Magicians (6:18)
-6. Ego Tripping At The Gates Of Hell (4:34)
-7. Are You A Hypnotist?? (4:44)
-8. It's Summertime (4:20)
-9. Do You Realize?? (3:32)
-10. All We Have Is Now (3:53)
-11. Approaching Pavanis Mons By Balloon (Utopia Planitia) (3:09)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fight Test | 4:14 |
+| A2 | One More Robot / Sympathy 3000-21 | 4:59 |
+| A3 | Yoshimi Battles The Pink Robots Pt. 1 | 4:45 |
+| A4 | Yoshimi Battles The Pink Robots Pt. 2 | 2:57 |
+| A5 | In The Morning Of The Magicians | 6:18 |
+| B1 | Ego Tripping At The Gates Of Hell | 4:34 |
+| B2 | Are You A Hypnotist?? | 4:44 |
+| B3 | It's Summertime | 4:20 |
+| B4 | Do You Realize?? | 3:32 |
+| B5 | All We Have Is Now | 3:53 |
+| B6 | Approaching Pavanis Mons By Balloon (Utopia Planitia) | 3:09 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/yoshimi-battles-the-pink-robots/1189403816" >}}<br>
 
 
-## Videos
-### The Flaming Lips - Yoshimi Battles the Pink Robots Pt 1 Official Music Video
-{{< youtube id="ZdDHi5SSIlM" title="The Flaming Lips - Yoshimi Battles the Pink Robots Pt 1 Official Music Video" >}}<br>
-### More Videos
-
-- [The Flaming Lips - Do You Realize Official Music Video HD Remaster](https://www.youtube.com/watch?v=lPXWt2ESxVY)
-- [In the Morning of the Magicians](https://www.youtube.com/watch?v=gNwyByCEytc)
-- [One More Robot  Sympathy 3000-21](https://www.youtube.com/watch?v=eCfOD0yrvOo)
-- [Ego Tripping at the Gates of Hell](https://www.youtube.com/watch?v=PamBD5B2wXk)
-- [Its Summertime](https://www.youtube.com/watch?v=8epnNzRSUdI)
-- [Yoshimi Battles the Pink RobotsPt 2](https://www.youtube.com/watch?v=uSUA1OZZxCA)
-- [All We Have Is Now](https://www.youtube.com/watch?v=SAGdXf7uago)
-- [The Flaming Lips - Are You A Hypnotist Official Music Video](https://www.youtube.com/watch?v=E-9mCAA1YYY)
-- [Approaching Pavonis Mons by Balloon Utopia Planitia](https://www.youtube.com/watch?v=yqxYqc6ipU0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +63,5 @@ Those disparate efforts all played a role in the creation of <i>Yoshimi</i>, whi
 | Format         | Vinyl LP Album (Red Translucent, Gatefold) |
 | Label          | Warner Bros. Records |
 | Catalog Number | 9362-48141-1 |
-| Notes | Comes in a gatefold sleeve.  Recorded at Tarbox Road Studios in Cassadaga, New York, June 2000 - April 2002. Additional tracking at Bell Labs and Brooklyn Bridge Recordings.  © ℗ 2002 Warner Bros. Records Inc. ©2002 Lovely Sorts of Death/EMI Blackwood Music Inc. BMI.  Some copies come affixed with a Cargo Distribution sticker.  Made in Germany. |
+| Notes | Comes in a gatefold sleeve.<br><br>Recorded at Tarbox Road Studios in Cassadaga, New York, June 2000 - April 2002. Additional tracking at Bell Labs and Brooklyn Bridge Recordings.<br><br>© ℗ 2002 Warner Bros. Records Inc.<br>©2002 Lovely Sorts of Death/EMI Blackwood Music Inc. BMI.<br><br>Some copies come affixed with a Cargo Distribution sticker.<br><br>Made in Germany. |
 | Discogs URL    | [The Flaming Lips - Yoshimi Battles The Pink Robots](https://www.discogs.com/release/623525-The-Flaming-Lips-Yoshimi-Battles-The-Pink-Robots) |

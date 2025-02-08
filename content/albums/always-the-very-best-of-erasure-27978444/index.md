@@ -4,6 +4,7 @@ artist_name: "Erasure"
 artist: "erasure"
 album_name: "Always (The Very Best Of Erasure)"
 date: 2023-08-18T10:04:25.000000Z
+release_date: "2015"
 release_id: "27978444"
 slug: "always-the-very-best-of-erasure-27978444"
 hideSummary: true
@@ -33,36 +34,38 @@ styles: ["Synth-pop", "Electro"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Who Needs Love Like That (3:06)
-2. Oh L'Amour (3:07)
-3. Sometimes (3:39)
-4. Victim Of Love (3:38)
-5. The Circus (4:06)
-6. Ship Of Fools (4:03)
-7. Chains Of Love (3:43)
-8. A Little Respect (3:38)
-9. Stop! (2:55)
-10. Drama! (4:06)
-11. Blue Savannah (4:19)
-12. Chorus (4:29)
-13. Love To Hate You (3:56)
-14. Take A Chance On Me (3:46)
-15. Always (4:04)
-16. Fingers & Thumbs (Cold Summer's Day) (4:23)
-17. Breathe (3:49)
-18. Elevation (3:36)
-19. Love You To The Sky (3:19)
-20. Hey Now (Think I Got A Feeling) (3:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Who Needs Love Like That | 3:06 |
+| A2 | Oh L'Amour | 3:07 |
+| A3 | Sometimes | 3:39 |
+| A4 | Victim Of Love | 3:38 |
+| A5 | The Circus | 4:06 |
+| B1 | Ship Of Fools | 4:03 |
+| B2 | Chains Of Love | 3:43 |
+| B3 | A Little Respect | 3:38 |
+| B4 | Stop! | 2:55 |
+| B5 | Drama! | 4:06 |
+| C1 | Blue Savannah | 4:19 |
+| C2 | Chorus | 4:29 |
+| C3 | Love To Hate You | 3:56 |
+| C4 | Take A Chance On Me | 3:46 |
+| C5 | Always | 4:04 |
+| D1 | Fingers & Thumbs (Cold Summer's Day) | 4:23 |
+| D2 | Breathe | 3:49 |
+| D3 | Elevation | 3:36 |
+| D4 | Love You To The Sky | 3:19 |
+| D5 | Hey Now (Think I Got A Feeling) | 3:26 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/always-the-very-best-of-erasure/1439548683" >}}<br>
 
-
-## Videos
-### Erasure - Always Official HD Music Video
-{{< youtube id="lWqJTKdznaM" title="Erasure - Always Official HD Music Video" >}}<br>
 
 
 ## Release Images
@@ -74,5 +77,5 @@ styles: ["Synth-pop", "Electro"]
 | Format         | Vinyl 2× LP Compilation Reissue (180g, Gatefold) |
 | Label          | Mute |
 | Catalog Number | LPMUTEL26 |
-| Notes | Track durations taken from inner sleeves. Originally released on CD to commemorate the 30th anniversary of Erasure, 'Always - The Very Best Of Erasure' is available on vinyl for the very first time.  On cover and spine: Always ERASURE The Very Best Of On hype sticker: ALWAYS The Very Best Of Erasure  Manufactured in France |
+| Notes | Track durations taken from inner sleeves.<br>Originally released on CD to commemorate the 30th anniversary of Erasure, 'Always - The Very Best Of Erasure' is available on vinyl for the very first time.<br><br>On cover and spine: Always ERASURE The Very Best Of<br>On hype sticker: ALWAYS The Very Best Of Erasure<br><br>Manufactured in France |
 | Discogs URL    | [Erasure - Always (The Very Best Of Erasure)](https://www.discogs.com/release/27978444-Erasure-Always-The-Very-Best-Of-Erasure) |

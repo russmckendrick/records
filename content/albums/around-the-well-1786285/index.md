@@ -38,60 +38,37 @@ styles: ["Acoustic", "Indie Rock", "Folk"]
 
 
 ## Tracklisting
-1. Dearest Forsaken
-2. Morning
-3. Loud As Hope
-4. Peng! 33
-5. Sacred Vision
-6. Friends They Are Jewels
-7. Hickory
-8. Waitin' For A Superman
-9. Swans And The Swimming
-10. Call Your Boys
-11. Such Great Heights
-12. Communion Cups & Someone's Coat
-13. Belated Promise Ring
-14. God Made The Automobile
-15. Homeward, These Shoes
-16. Love Vigilantes
-17. Sinning Hands
-18. No Moon
-19. Serpent Charmer
-20. Carried Home
-21. Kingdom Of The Animals
-22. Arms Of A Thief
-23. The Trapeze Swinger
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dearest Forsaken |  |
+| A2 | Morning |  |
+| A3 | Loud As Hope |  |
+| A4 | Peng! 33 |  |
+| A5 | Sacred Vision |  |
+| A6 | Friends They Are Jewels |  |
+| B1 | Hickory |  |
+| B2 | Waitin' For A Superman |  |
+| B3 | Swans And The Swimming |  |
+| B4 | Call Your Boys |  |
+| B5 | Such Great Heights |  |
+| C1 | Communion Cups & Someone's Coat |  |
+| C2 | Belated Promise Ring |  |
+| C3 | God Made The Automobile |  |
+| C4 | Homeward, These Shoes |  |
+| C5 | Love Vigilantes |  |
+| C6 | Sinning Hands |  |
+| D1 | No Moon |  |
+| D2 | Serpent Charmer |  |
+| D3 | Carried Home |  |
+| D4 | Kingdom Of The Animals |  |
+| D5 | Arms Of A Thief |  |
+| E1 | The Trapeze Swinger |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/around-the-well-bonus-track-version/314988639" >}}<br>
 
 
-## Videos
-### God Made the Automobile
-{{< youtube id="99yUdF-f55s" title="God Made the Automobile" >}}<br>
-### More Videos
-
-- [Communion Cups and Someones Coat](https://www.youtube.com/watch?v=_3l8aom6o8A)
-- [Kingdom of the Animals](https://www.youtube.com/watch?v=4ep7aE_q_Jw)
-- [Arms of a Thief](https://www.youtube.com/watch?v=_EHCBa1qh2U)
-- [Waitin for a Superman](https://www.youtube.com/watch?v=NUb85TnTiBk)
-- [Iron  Wine - Upward Over the Mountain](https://www.youtube.com/watch?v=Cg4CCy2kbuA)
-- [Swans and the Swimming](https://www.youtube.com/watch?v=GnhS1wJtZ_s)
-- [God Made the Automobile](https://www.youtube.com/watch?v=99yUdF-f55s)
-- [Communion Cups and Someones Coat](https://www.youtube.com/watch?v=_3l8aom6o8A)
-- [Kingdom of the Animals](https://www.youtube.com/watch?v=4ep7aE_q_Jw)
-- [Arms of a Thief](https://www.youtube.com/watch?v=_EHCBa1qh2U)
-- [Waitin for a Superman](https://www.youtube.com/watch?v=NUb85TnTiBk)
-- [Iron  Wine - Upward Over the Mountain](https://www.youtube.com/watch?v=Cg4CCy2kbuA)
-- [Swans and the Swimming](https://www.youtube.com/watch?v=GnhS1wJtZ_s)
-- [Iron and Wine - Love Vigilantes a New Order cover](https://www.youtube.com/watch?v=EL-mDlRKNKg)
-- [Iron and Wine - Such Great Heights a Postal Service cover](https://www.youtube.com/watch?v=kgy09d4WNhA)
-- [Iron and Wine - The Trapeze Swinger](https://www.youtube.com/watch?v=yt7O8gDy0DA)
-- [Iron and Wine - Carried Home](https://www.youtube.com/watch?v=rMTYjiJ8wO8)
-- [Belated Promise Ring - Iron  Wine](https://www.youtube.com/watch?v=vVwIBFEjQXY)
-- [Iron and Wine - Swans And The Swimming](https://www.youtube.com/watch?v=UNDb6I3OJqU)
-- [Around The Well Iron  Wine 2009](https://www.youtube.com/watch?v=FKjMFeB56TU)
-- [Peng 33](https://www.youtube.com/watch?v=7uEQpxm5ODo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -103,5 +80,5 @@ styles: ["Acoustic", "Indie Rock", "Folk"]
 | Format         | Vinyl 2× LP Compilation (Gatefold), Vinyl 12" 33 ⅓ RPM Single Sided Etched |
 | Label          | Sub Pop |
 | Catalog Number | SP 808 |
-| Notes | Includes an MP3 download coupon for the entire album + insert with lyrics. 'Love Vigilantes' recorded December 13, 2004 at KUOW, Puget Sound Public Radio, Seattle, WA.  All songs written by Sam Beam (Sam Beam Music)[BMI], except 'Waitin' For Superman' — W. Coyne, S. Drozd, M. Ivins (EMI Blackwood Music, Lovely Sorts of Death)[BMI] / 'Peng! 33' — L. Sadier, T. Gane (Universal Music MGB Songs OBO Complete Music Limited)[ASCAP] / 'Such Great Heights' — B. Gibbard, J. Tamborello (Fake Songs/Dying Songs (Administered by Bicycle Music) ) [BMI] / 'Love Vigilantes' — S. Morris, P. Hook, B. Sumner, G. Gilbert (WB Music Corp OBO Warner/Chappell Music Ltd)[ASCAP]  F-side is an etched album/artist artwork.  © ℗ 2009 Sub Pop Records |
+| Notes | Includes an MP3 download coupon for the entire album + insert with lyrics.<br>'Love Vigilantes' recorded December 13, 2004 at KUOW, Puget Sound Public Radio, Seattle, WA.<br><br>All songs written by Sam Beam (Sam Beam Music)[BMI], except 'Waitin' For Superman' — W. Coyne, S. Drozd, M. Ivins (EMI Blackwood Music, Lovely Sorts of Death)[BMI] / 'Peng! 33' — L. Sadier, T. Gane (Universal Music MGB Songs OBO Complete Music Limited)[ASCAP] / 'Such Great Heights' — B. Gibbard, J. Tamborello (Fake Songs/Dying Songs (Administered by Bicycle Music) ) [BMI] / 'Love Vigilantes' — S. Morris, P. Hook, B. Sumner, G. Gilbert (WB Music Corp OBO Warner/Chappell Music Ltd)[ASCAP]<br><br>F-side is an etched album/artist artwork.<br><br>© ℗ 2009 Sub Pop Records |
 | Discogs URL    | [Iron And Wine - Around The Well](https://www.discogs.com/release/1786285-Iron-And-Wine-Around-The-Well) |

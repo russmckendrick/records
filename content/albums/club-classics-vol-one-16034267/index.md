@@ -4,6 +4,7 @@ artist_name: "Soul II Soul"
 artist: "soul-ii-soul"
 album_name: "Club Classics Vol. One"
 date: 2020-10-16T10:31:44.000000Z
+release_date: "1989-01-01"
 release_id: "16034267"
 slug: "club-classics-vol-one-16034267"
 hideSummary: true
@@ -25,36 +26,29 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Keep On Movin' (6:02)
-2. Fairplay  (3:58)
-3. Holdin' On (Bambelela) (3:52)
-4. Feeling Free (Live Rap) (4:16)
-5. African Dance (6:08)
-6. Dance  (3:42)
-7. Feel Free (5:05)
-8. Happiness Dub (5:34)
-9. Back To Life (Acapella) (3:48)
-10. Jazzie's Groove (2:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Keep On Movin' | 6:02 |
+| A2 | Fairplay  | 3:58 |
+| A3 | Holdin' On (Bambelela) | 3:52 |
+| A4 | Feeling Free (Live Rap) | 4:16 |
+| A5 | African Dance | 6:08 |
+| B1 | Dance  | 3:42 |
+| B2 | Feel Free | 5:05 |
+| B3 | Happiness Dub | 5:34 |
+| B4 | Back To Life (Acapella) | 3:48 |
+| B5 | Jazzie's Groove | 2:42 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/club-classics-vol-1/723622157" >}}<br>
 
 
-## Videos
-### Soul II Soul - Fairplay Official Video
-{{< youtube id="WaZtVZuqNcI" title="Soul II Soul - Fairplay Official Video" >}}<br>
-### More Videos
-
-- [Soul II Soul - Keep On Movin Official Video](https://www.youtube.com/watch?v=1iQl46-zIcM)
-- [Soul II Soul - Back To Life However Do You Want Me Official Music Video](https://www.youtube.com/watch?v=TB54dZkzZOY)
-- [Soul II Soul - Jazzies Groove](https://www.youtube.com/watch?v=_FtrDBpl0WI)
-- [Soul II Soul - Feeling Free](https://www.youtube.com/watch?v=QDble9Z7pDs)
-- [Soul II Soul - African Dance](https://www.youtube.com/watch?v=DzBlSj-y-Rk)
-- [Soul II Soul  Club Classics Vol  One 1989](https://www.youtube.com/watch?v=rAGZnmVOpJQ)
-- [Happiness Dub](https://www.youtube.com/watch?v=X_W2zyhwzMg)
-- [Soul II Soul  Club Classics Vol  One 1989](https://www.youtube.com/watch?v=rAGZnmVOpJQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +59,5 @@ styles: []
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (Gold & Black, 180g) |
 | Label          | 10 Records |
 | Catalog Number | 3507526 |
-| Notes | National Album Day 2020 Release Title listed as Club Classics Vol. One on front cover / Club Classics - Vol. 1 on labels.  Catalogue number on sticker is: 3507526 Catalogue number on sleeve & labels is: 00602435075266  ℗ 1989 10 Records Ltd. © 2020 10 Records Ltd. Manufactured in the EU. Made in Germany. |
+| Notes | National Album Day 2020 Release<br>Title listed as Club Classics Vol. One on front cover / Club Classics - Vol. 1 on labels.<br><br>Catalogue number on sticker is: 3507526<br>Catalogue number on sleeve & labels is: 00602435075266<br><br>℗ 1989 10 Records Ltd.<br>© 2020 10 Records Ltd.<br>Manufactured in the EU.<br>Made in Germany. |
 | Discogs URL    | [Soul II Soul - Club Classics Vol. One](https://www.discogs.com/release/16034267-Soul-II-Soul-Club-Classics-Vol-One) |

@@ -4,6 +4,7 @@ artist_name: "Teenage Fanclub"
 artist: "teenage-fanclub"
 album_name: "Bandwagonesque"
 date: 2016-06-21T16:38:04.000000Z
+release_date: "1991-11-18"
 release_id: "8667450"
 slug: "bandwagonesque-8667450"
 hideSummary: true
@@ -26,50 +27,32 @@ styles: ["Alternative Rock"]
 Bandwagonesque is the third album by Scottish alternative rock band Teenage Fanclub, released in November 1991 on Creation Records. The album gave the band substantial US success when the single "Star Sign" reached number four on the Billboard Modern Rock Tracks chart, becoming their biggest hit in that country, with "What You Do to Me" and "The Concept" also becoming top 20 hits on that chart. Bandwagonesque was voted "album of the year" for 1991 by American music magazine Spin, beating R.E.M.'s Out of Time and Nirvana's Nevermind; the magazine has subsequently apologized for and defended the selection. The album peaked at no. 22 in the UK and 137 in the US.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Concept
-2. Satan
-3. December
-4. What You Do To Me
-5. I Don't Know
-6. Star Sign
-7. Metal Baby
-8. Pet Rock
-9. Sidewinder
-10. Alcoholiday
-11. Guiding Star
-12. Is This Music?
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Concept |  |
+| A2 | Satan |  |
+| A3 | December |  |
+| A4 | What You Do To Me |  |
+| A5 | I Don't Know |  |
+| A6 | Star Sign |  |
+| B1 | Metal Baby |  |
+| B2 | Pet Rock |  |
+| B3 | Sidewinder |  |
+| B4 | Alcoholiday |  |
+| B5 | Guiding Star |  |
+| B6 | Is This Music? |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bandwagonesque/1417071599" >}}<br>
 
 
-## Videos
-### Teenage Fanclub - The Concept
-{{< youtube id="7JYH1pVbqpQ" title="Teenage Fanclub - The Concept" >}}<br>
-### More Videos
-
-- [The Concept](https://www.youtube.com/watch?v=lY5pvZ-9N88)
-- [Satan](https://www.youtube.com/watch?v=5__iCgfnM48)
-- [December](https://www.youtube.com/watch?v=mO6UJdm1JyQ)
-- [What You Do To Me](https://www.youtube.com/watch?v=s0WSG9xD7H0)
-- [I Dont Know](https://www.youtube.com/watch?v=iQS75sJ_PjM)
-- [Star Sign](https://www.youtube.com/watch?v=M0oLeRT47A8)
-- [Metal Baby](https://www.youtube.com/watch?v=QBNb3FW5mAc)
-- [Pet Rock](https://www.youtube.com/watch?v=M3nHgOajan4)
-- [Sidewinder](https://www.youtube.com/watch?v=coTtMaDGZRM)
-- [Alcoholiday](https://www.youtube.com/watch?v=-2Z0YzRxRXw)
-- [Guiding Star](https://www.youtube.com/watch?v=DQfTMU55wHo)
-- [Is This Music](https://www.youtube.com/watch?v=3gaxHqjX79w)
-- [Teenage Fanclub - Star Sign](https://www.youtube.com/watch?v=xw49UgKoZnQ)
-- [Teenage Fanclub - What You Do To Me](https://www.youtube.com/watch?v=SmJ3zOn9RD8)
-- [Teenage Fanclub - The Concept](https://www.youtube.com/watch?v=Er_JOsnwzcI)
-- [Teenage Fanclub - Long Hair](https://www.youtube.com/watch?v=Mqqq-yNCIow)
-- [Teenage Fanclub-Heavy Metal 6](https://www.youtube.com/watch?v=--HpK8ub4g4)
 
 ## Release Images
 {{< imageGrid >}}

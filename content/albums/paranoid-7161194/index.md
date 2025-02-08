@@ -39,41 +39,30 @@ This is heavy subject matter, and the band developed a musical vocabulary to mat
 
 
 ## Tracklisting
-1. War Pigs
-2. Paranoid
-3. Planet Caravan
-4. Iron Man
-5. Electric Funeral
-6. Hand Of Doom
-7. Rat Salad
-8. Fairies Wear Boots
-9. War Pigs
-10. Paranoid
-11. Planet Caravan
-12. Iron Man
-13. Electric Funeral
-14. Hand Of Doom
-15. Rat Salad
-16. Fairies Wear Boots
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | War Pigs |  |
+| A2 | Paranoid |  |
+| A3 | Planet Caravan |  |
+| A4 | Iron Man |  |
+| B1 | Electric Funeral |  |
+| B2 | Hand Of Doom |  |
+| B3 | Rat Salad |  |
+| B4 | Fairies Wear Boots |  |
+| CD-1 | War Pigs |  |
+| CD-2 | Paranoid |  |
+| CD-3 | Planet Caravan |  |
+| CD-4 | Iron Man |  |
+| CD-5 | Electric Funeral |  |
+| CD-6 | Hand Of Doom |  |
+| CD-7 | Rat Salad |  |
+| CD-8 | Fairies Wear Boots |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/paranoid/1533659667" >}}<br>
 
 
-## Videos
-### Black Sabbath - Paranoid Cassette 1970
-{{< youtube id="-sbzdOaF8PA" title="Black Sabbath - Paranoid Cassette 1970" >}}<br>
-### More Videos
-
-- [BLACK SABBATH - Paranoid Full Album](https://www.youtube.com/watch?v=fWvKvOViM3g)
-- [War Pigs](https://www.youtube.com/watch?v=bc5Nk1DXyEY)
-- [Black Sabbath - Paranoid Official Audio](https://www.youtube.com/watch?v=BOTIIw76qiE)
-- [Planet Caravan 2012 - Remaster](https://www.youtube.com/watch?v=bm2N2nHqITY)
-- [Iron Man](https://www.youtube.com/watch?v=F01UTYg79KY)
-- [Electric Funeral](https://www.youtube.com/watch?v=2wJ-NBeEDIY)
-- [Hand of Doom 2012 - Remaster](https://www.youtube.com/watch?v=dgPv9_sPiME)
-- [Rat Salad](https://www.youtube.com/watch?v=S2H5hzOMhIs)
-- [Fairies Wear Boots](https://www.youtube.com/watch?v=8e1W2O5jDPI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +74,5 @@ This is heavy subject matter, and the band developed a musical vocabulary to mat
 | Format         | Vinyl LP Album Reissue, CD Album Reissue |
 | Label          | Sanctuary |
 | Catalog Number | BMGRM054LP |
-| Notes | Issued in a gatefold cover. Includes a CD of the album in a clear plastic sleeve.  Sticker on shrink-wrap reads: Includes CD of Album    Vertigo swirl on top left of front cover.  Vertigo swirl on side A disc label.    Recorded at Regent Sound and Island Studios  Management/Jim Simpson, Big Bear, Birmingham    ℗ 2015 Sanctuary Records Group Ltd., a BMG Company, under sxclusive licence to [PIAS]  © 2015 Sanctuary Records Group Ltd., a BMG Company, under sxclusive licence to [PIAS]  Use of the Vertigo logos and trademarks by kind permission of the Universal Music Group.  Made in EU     |
+| Notes | Issued in a gatefold cover. Includes a CD of the album in a clear plastic sleeve.<br>Sticker on shrink-wrap reads: Includes CD of Album<br><br>Vertigo swirl on top left of front cover.<br>Vertigo swirl on side A disc label.<br><br>Recorded at Regent Sound and Island Studios<br>Management/Jim Simpson, Big Bear, Birmingham<br><br>℗ 2015 Sanctuary Records Group Ltd., a BMG Company, under sxclusive licence to [PIAS]<br>© 2015 Sanctuary Records Group Ltd., a BMG Company, under sxclusive licence to [PIAS]<br>Use of the Vertigo logos and trademarks by kind permission of the Universal Music Group.<br>Made in EU<br><br> |
 | Discogs URL    | [Black Sabbath - Paranoid](https://www.discogs.com/release/7161194-Black-Sabbath-Paranoid) |

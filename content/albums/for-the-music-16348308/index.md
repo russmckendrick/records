@@ -4,6 +4,7 @@ artist_name: "Blackfield"
 artist: "blackfield"
 album_name: "For The Music"
 date: 2021-02-08T05:19:16.000000Z
+release_date: "2020-12-04"
 release_id: "16348308"
 slug: "for-the-music-16348308"
 hideSummary: true
@@ -24,37 +25,28 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. For The Music
-2. After All
-3. Garden Of Sin
-4. Under My Skin
-5. Over And Over
-6. Falling
-7. White Nights
-8. Summer's Gone
-9. It's So Hard
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | For The Music |  |
+| A2 | After All |  |
+| A3 | Garden Of Sin |  |
+| A4 | Under My Skin |  |
+| B1 | Over And Over |  |
+| B2 | Falling |  |
+| B3 | White Nights |  |
+| B4 | Summer's Gone |  |
+| B5 | It's So Hard |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/for-the-music/1531752115" >}}<br>
 
 
-## Videos
-### Blackfield - For The Music Official Music Video
-{{< youtube id="1N8wIhCxMns" title="Blackfield - For The Music Official Music Video" >}}<br>
-### More Videos
-
-- [Over  Over](https://www.youtube.com/watch?v=89kHkP9OJao)
-- [Falling](https://www.youtube.com/watch?v=SMaDJlCKv2k)
-- [White Nights](https://www.youtube.com/watch?v=qGCNYMxcB40)
-- [Blackfield - Summers Gone Official 4K Video](https://www.youtube.com/watch?v=iPpsVVBUPHo)
-- [Blackfield - For The Music Official Music Video](https://www.youtube.com/watch?v=1N8wIhCxMns)
-- [Over  Over](https://www.youtube.com/watch?v=89kHkP9OJao)
-- [Falling](https://www.youtube.com/watch?v=SMaDJlCKv2k)
-- [White Nights](https://www.youtube.com/watch?v=qGCNYMxcB40)
-- [Blackfield - Summers Gone Official 4K Video](https://www.youtube.com/watch?v=iPpsVVBUPHo)
-- [Album Preview Blackfield  For The Music](https://www.youtube.com/watch?v=9wp8HV8S0cE)
 
 ## Release Images
 {{< imageGrid >}}

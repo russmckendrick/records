@@ -4,6 +4,7 @@ artist_name: "Kenji Kawai"
 artist: "kenji-kawai"
 album_name: "Ghost In The Shell (Original Soundtrack)"
 date: 2017-07-14T19:20:57.000000Z
+release_date: "1995-11-22"
 release_id: "10522236"
 slug: "ghost-in-the-shell-original-soundtrack-10522236"
 hideSummary: true
@@ -44,33 +45,31 @@ styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. M01 謡I - Making Of Cyborg
-2. M02 Ghosthack (本編未使用)
-3. EXM Puppetmaster
-4. M04 Virtual Crime
-5. M05 謠 II - Ghost City
-6. M06 Access
-7. M07 Nightstalker
-8. M08 Floating Museum
-9. M09 Ghostdive
-10. M10 謠 III - Reincarnation
-11. Bonus 7"
-12. 挿入歌 毎天見一見! (See You Everyday) 
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | M01 謡I - Making Of Cyborg |  |
+| A2 | M02 Ghosthack (本編未使用) |  |
+| A3 | EXM Puppetmaster |  |
+| A4 | M04 Virtual Crime |  |
+| A5 | M05 謠 II - Ghost City |  |
+| B1 | M06 Access |  |
+| B2 | M07 Nightstalker |  |
+| B3 | M08 Floating Museum |  |
+| B4 | M09 Ghostdive |  |
+| B5 | M10 謠 III - Reincarnation |  |
+|  | Bonus 7" |  |
+| C | 挿入歌 毎天見一見! (See You Everyday)  |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ghost-in-the-shell-koukaku-kidoutai-original-soundtrack/910532068" >}}<br>
 
 
-## Videos
-### Ghost In The Shell 1995 OST
-{{< youtube id="ceBW3RbrL0E" title="Ghost In The Shell 1995 OST" >}}<br>
-### More Videos
-
-- [M01 Chant I - Making of Cyborg - Kenji Kawai Ghost in the Shell Soundtrack](https://www.youtube.com/watch?v=iTPNaUsjksM)
-- [Ghost in the Shell OST - Floating Museum](https://www.youtube.com/watch?v=S9579XgUUds)
-- [Kenji Kawai  謡II - Ghost City 1995 HQ HD](https://www.youtube.com/watch?v=T1lFE39E1Tc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +80,5 @@ styles: ["Soundtrack", "Abstract", "Ambient", "Score", "Anison"]
 | Format         | Vinyl LP, Vinyl 7" 45 RPM Single Sided, All Media Album Limited Edition Misprint Reissue Stereo |
 | Label          | We Release Whatever The Fuck We Want Records |
 | Catalog Number | WRWTFWW017LTD |
-| Notes | Misprint: white characters "攻殻機動隊" (Ghost In The Shell) on obi are missing. Version with correct printed obi strip: [r10806721].  Hype sticker reads: "First official release on vinyl."  Housed in sleeve with silver hot foil embossed print, obi, and 24-page liner notes booklet. |
+| Notes | Misprint: white characters "攻殻機動隊" (Ghost In The Shell) on obi are missing.<br>Version with correct printed obi strip: [r10806721].<br><br>Hype sticker reads: "First official release on vinyl."<br><br>Housed in sleeve with silver hot foil embossed print, obi, and 24-page liner notes booklet. |
 | Discogs URL    | [Kenji Kawai - Ghost In The Shell (Original Soundtrack)](https://www.discogs.com/release/10522236-Kenji-Kawai-Ghost-In-The-Shell-Original-Soundtrack) |

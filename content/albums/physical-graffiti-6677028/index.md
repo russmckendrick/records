@@ -40,41 +40,29 @@ The extended format means the band can indulge every whim and include experiment
 
 
 ## Tracklisting
-1. Custard Pie  (4:15)
-2. The Rover  (5:39)
-3. In My Time Of Dying (11:08)
-4. Houses Of The Holy (4:04)
-5. Trampled Under Foot  (5:36)
-6. Kashmir  (8:37)
-7. In The Light (8:47)
-8. Bron-Yr-Aur  (2:06)
-9. Down By The Seaside  (5:15)
-10. Ten Years Gone (6:34)
-11. Night Flight (3:38)
-12. The Wanton Song (4:08)
-13. Boogie With Stu (3:52)
-14. Black Country Woman (4:24)
-15. Sick Again (4:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Custard Pie  | 4:15 |
+| A2 | The Rover  | 5:39 |
+| A3 | In My Time Of Dying | 11:08 |
+| B1 | Houses Of The Holy | 4:04 |
+| B2 | Trampled Under Foot  | 5:36 |
+| B3 | Kashmir  | 8:37 |
+| C1 | In The Light | 8:47 |
+| C2 | Bron-Yr-Aur  | 2:06 |
+| C3 | Down By The Seaside  | 5:15 |
+| C4 | Ten Years Gone | 6:34 |
+| D1 | Night Flight | 3:38 |
+| D2 | The Wanton Song | 4:08 |
+| D3 | Boogie With Stu | 3:52 |
+| D4 | Black Country Woman | 4:24 |
+| D5 | Sick Again | 4:42 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/physical-graffiti-remastered/580707980" >}}<br>
 
 
-## Videos
-### Led Zeppelin - Physical Graffiti Cassette 1975
-{{< youtube id="hXAjyl2Z7EE" title="Led Zeppelin - Physical Graffiti Cassette 1975" >}}<br>
-### More Videos
-
-- [Ten Years Gone 1990 Remaster](https://www.youtube.com/watch?v=DBzuYNK95sM)
-- [Houses of the Holy 1990 Remaster](https://www.youtube.com/watch?v=ohDQ1FUUjPs)
-- [In the Light 1990 Remaster](https://www.youtube.com/watch?v=pNo1nS_JV5k)
-- [Bron-Yr-Aur 1993 Remaster](https://www.youtube.com/watch?v=QKge6Ay9O4E)
-- [Custard Pie 1990 Remaster](https://www.youtube.com/watch?v=VVP3g1-Wq_0)
-- [Trampled Under Foot 1990 Remaster](https://www.youtube.com/watch?v=vamReLUOlrA)
-- [In My Time of Dying 1990 Remaster](https://www.youtube.com/watch?v=scpqae3P7Dg)
-- [Kashmir Remaster](https://www.youtube.com/watch?v=gEYqSorzOZs)
-- [The Wanton Song Remaster](https://www.youtube.com/watch?v=KTypf_JMFis)
-- [The Wanton Song 1990 Remaster](https://www.youtube.com/watch?v=iaFK6AHhU8s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +74,5 @@ The extended format means the band can indulge every whim and include experiment
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (180g) |
 | Label          | Swan Song |
 | Catalog Number | 8122796578 |
-| Notes | Issued with two printed inner sleeves and a folded large format inlay with track list, credits and recording info. Housed in a die-cut single pocket jacket. Selected record shops offered this together with a Physical Graffiti slip mat and a brown paper bag with the LP artwork printed on front.  Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”).   [Sticker:] 40th anniversary edition on 180g vinyl Includes Kashmir & Trampled Under Foot  Remastered & produced by Jimmy Page  [Rear sleeve:] ℗ & © 1975 Atlantic Recording Corporation, a Warner Music Group Company. All Rights Reserved. Manufactured & Marketed by Warner Music Group, 3400 W. Olive Ave., Burbank, CA 91505-4614. Printed in the EU.  [Insert:] Package concept & design: AGI Mike Doud, London Peter Corriston, New York Custard Pie: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios The Rover: Track [...] at Stargroves with The Rolling Stones Mobile Studio/Overdubs & Mixdown [...] Olympic Studios In My Time Of Dying: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Mixdown [...] Olympic Studios Houses Of The Holy: Track & Overdubs [...] Olympic Studios/Mixdown [...] at Electric Ladyland Trampled Under Foot: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios Kashmir: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios In The Light: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios Bron-Yr-Aur: Track [...] Island Studios/Mixdown [...] Olympic Studios Down By The Seaside: Track & Overdubs [...] Island Studios/Mixdown [...] Olympic Studios Ten Years Gone: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios Night Flight: Track [...] at Headly Grange with The Rolling Stones Mobile Studio/Overdubs [...] Island Studios/Mixdown [...] Olympic Studios The Wanton Song: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios Boogie With Stu: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios Black Country Woman: Track [...] at Stargroves, in the garden with The Rolling Stones Mobile Studio/Mixdown [...] Olympic Studios Sick Again: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios  [Labels:] ℗ & © 1975 Atlantic Recording Corporation. Manufactured in Germany. |
+| Notes | Issued with two printed inner sleeves and a folded large format inlay with track list, credits and recording info. Housed in a die-cut single pocket jacket.<br>Selected record shops offered this together with a Physical Graffiti slip mat and a brown paper bag with the LP artwork printed on front.<br><br>Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”). <br><br>[Sticker:]<br>40th anniversary edition on 180g vinyl<br>Includes Kashmir & Trampled Under Foot <br>Remastered & produced by Jimmy Page<br><br>[Rear sleeve:]<br>℗ & © 1975 Atlantic Recording Corporation, a Warner Music Group Company. All Rights Reserved.<br>Manufactured & Marketed by Warner Music Group, 3400 W. Olive Ave., Burbank, CA 91505-4614. Printed in the EU.<br><br>[Insert:]<br>Package concept & design: AGI<br>Mike Doud, London<br>Peter Corriston, New York<br>Custard Pie: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios<br>The Rover: Track [...] at Stargroves with The Rolling Stones Mobile Studio/Overdubs & Mixdown [...] Olympic Studios<br>In My Time Of Dying: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Mixdown [...] Olympic Studios<br>Houses Of The Holy: Track & Overdubs [...] Olympic Studios/Mixdown [...] at Electric Ladyland<br>Trampled Under Foot: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios<br>Kashmir: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios<br>In The Light: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios<br>Bron-Yr-Aur: Track [...] Island Studios/Mixdown [...] Olympic Studios<br>Down By The Seaside: Track & Overdubs [...] Island Studios/Mixdown [...] Olympic Studios<br>Ten Years Gone: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios<br>Night Flight: Track [...] at Headly Grange with The Rolling Stones Mobile Studio/Overdubs [...] Island Studios/Mixdown [...] Olympic Studios<br>The Wanton Song: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios<br>Boogie With Stu: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios<br>Black Country Woman: Track [...] at Stargroves, in the garden with The Rolling Stones Mobile Studio/Mixdown [...] Olympic Studios<br>Sick Again: Track [...] at Headly Grange with Ronnie Lane's Mobile Studio/Overdubs & Mixdown [...] Olympic Studios<br><br>[Labels:]<br>℗ & © 1975 Atlantic Recording Corporation. Manufactured in Germany. |
 | Discogs URL    | [Led Zeppelin - Physical Graffiti](https://www.discogs.com/release/6677028-Led-Zeppelin-Physical-Graffiti) |

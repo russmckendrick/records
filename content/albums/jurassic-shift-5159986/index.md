@@ -4,6 +4,7 @@ artist_name: "Ozric Tentacles"
 artist: "ozric-tentacles"
 album_name: "Jurassic Shift"
 date: 2020-06-01T13:34:09.000000Z
+release_date: "1993-07-13"
 release_id: "5159986"
 slug: "jurassic-shift-5159986"
 hideSummary: true
@@ -31,37 +32,30 @@ In a review for AllMusic, Steven McDonald wrote:
 The Ozrics are a truly curious bunch in that they have this unerring tendency and uncanny ability to make great scads of progressive and space music that has true heart. There are very few times when one can connect fabulous technical skill with such a strongly emotional core, and never mind the mystical triggers.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Sun Hair (5:43)
-2. Stretchy (6:51)
-3. Feng Shui (10:24)
-4. Jurassic Shift (11:05)
-5. Pteranodon (5:40)
-6. Train Oasis (2:45)
-7. Vita Voom (4:48)
-8. Half Light In Thillai (5:35)
-9. Sun Hair (System 7 Stargate Mix) (8:32)
-10. Pteranodon (Hallucinogen Mix) (8:52)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sun Hair | 5:43 |
+| A2 | Stretchy | 6:51 |
+| A3 | Feng Shui | 10:24 |
+| B1 | Jurassic Shift | 11:05 |
+| B2 | Pteranodon | 5:40 |
+| B3 | Train Oasis | 2:45 |
+| B4 | Vita Voom | 4:48 |
+| C1 | Half Light In Thillai | 5:35 |
+| C2 | Sun Hair (System 7 Stargate Mix) | 8:32 |
+| D1 | Pteranodon (Hallucinogen Mix) | 8:52 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/jurassic-shift/214136665" >}}<br>
 
 
-## Videos
-### Sunhair 2020 Ed Wynne Remaster
-{{< youtube id="FDixlKkQR2w" title="Sunhair 2020 Ed Wynne Remaster" >}}<br>
-### More Videos
-
-- [Stretchy 2020 Ed Wynne Remaster](https://www.youtube.com/watch?v=S-82W6gVEt8)
-- [Feng Shui 2020 Ed Wynne Remaster](https://www.youtube.com/watch?v=K0hWabelX9w)
-- [Half Light In Thillai](https://www.youtube.com/watch?v=gqMdQxn8RRQ)
-- [Pteranodon 2020 Ed Wynne Remaster](https://www.youtube.com/watch?v=5xo90EXeggA)
-- [Train Oasis 2020 Ed Wynne Remaster](https://www.youtube.com/watch?v=e_7vCf87A1k)
-- [Vita Voom 2020 Ed Wynne Remaster](https://www.youtube.com/watch?v=oEXkbwOxGOI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +67,5 @@ The Ozrics are a truly curious bunch in that they have this unerring tendency an
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram, Transparent Pink), Vinyl 12" Stereo (180 Gram), All Media (Gatefold) |
 | Label          | Madfish |
 | Catalog Number | SMALP955 |
-| Notes | Recorded in 1992-1993 at The Mill, Somerset.  Made in Germany.  ℗ 1993 Snapper Music © 2013 Snapper Music.  Packaged in a gatefold jacket with black inner LP sleeves and hype sticker affixed to the shrink wrap on the front. |
+| Notes | Recorded in 1992-1993 at The Mill, Somerset.<br><br>Made in Germany.<br><br>℗ 1993 Snapper Music © 2013 Snapper Music.<br><br>Packaged in a gatefold jacket with black inner LP sleeves and hype sticker affixed to the shrink wrap on the front. |
 | Discogs URL    | [Ozric Tentacles - Jurassic Shift](https://www.discogs.com/release/5159986-Ozric-Tentacles-Jurassic-Shift) |

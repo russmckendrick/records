@@ -25,29 +25,24 @@ Hypnotic, compelling and at times unsettling: welcome to the vivid debut solo al
 
 
 ## Tracklisting
-1. Never Know
-2. #WarOnFalse
-3. Úlfur Resurrection
-4. Downtown Tigers
-5. London Water
-6. Summertime Police
-7. Poseidon (Keep Me Safe)
-8. The Light Under The Door
-9. All About Waiting
-10. Admiral Of Upside Down
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Never Know |  |
+| A2 | #WarOnFalse |  |
+| A3 | Úlfur Resurrection |  |
+| B1 | Downtown Tigers |  |
+| B2 | London Water |  |
+| C1 | Summertime Police |  |
+| C2 | Poseidon (Keep Me Safe) |  |
+| C3 | The Light Under The Door |  |
+| D1 | All About Waiting |  |
+| D2 | Admiral Of Upside Down |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-parallel/1473514161" >}}<br>
 
 
-## Videos
-### Dhani Harrison - Never Know Audio
-{{< youtube id="B757_F4TLvs" title="Dhani Harrison - Never Know Audio" >}}<br>
-### More Videos
-
-- [Dhani Harrison - All About Waiting Official Video](https://www.youtube.com/watch?v=reRlyvQvTng)
-- [Dhani Harrison - Never Know Audio](https://www.youtube.com/watch?v=B757_F4TLvs)
-- [Dhani Harrison - All About Waiting Official Video](https://www.youtube.com/watch?v=reRlyvQvTng)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,5 +53,5 @@ Hypnotic, compelling and at times unsettling: welcome to the vivid debut solo al
 | Format         | Vinyl 2× LP Album Limited Edition (180g) |
 | Label          | BMG |
 | Catalog Number | 538317510 |
-| Notes | Includes digital download code. Gatefold sleeve.  Copies distributed in the US have a stickered barcode affixed to the shrink. Released in the US 10/20/17.  Runouts are etched. |
+| Notes | Includes digital download code. Gatefold sleeve.<br><br>Copies distributed in the US have a stickered barcode affixed to the shrink. Released in the US 10/20/17.<br><br>Runouts are etched. |
 | Discogs URL    | [Dhani Harrison - In///Parallel](https://www.discogs.com/release/11027074-Dhani-Harrison-InParallel) |

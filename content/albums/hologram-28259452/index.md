@@ -1,9 +1,10 @@
 ---
 title: "Amplifier - Hologram"
 artist_name: "Amplifier"
-artist: "amplifier-3"
+artist: "amplifier"
 album_name: "Hologram"
 date: 2023-09-25T04:02:47.000000Z
+release_date: "2023-04-14"
 release_id: "28259452"
 slug: "hologram-28259452"
 hideSummary: true
@@ -21,18 +22,23 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Two Way Mirror (5:32)
-2. Sweet Perfume (6:22)
-3. Hologram (6:51)
-4. Tundra (3:52)
-5. Let Me Drive (7:04)
-6. Gargantuan (Prt1) (6:49)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Two Way Mirror | 5:32 |
+| A2 | Sweet Perfume | 6:22 |
+| A3 | Hologram | 6:51 |
+| B1 | Tundra | 3:52 |
+| B2 | Let Me Drive | 7:04 |
+| B3 | Gargantuan (Prt1) | 6:49 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hologram-digital/1671607587" >}}<br>
-
 
 
 
@@ -45,5 +51,5 @@ styles: []
 | Format         | Vinyl LP Album Limited Edition (Blue/Red) |
 | Label          | Rockosmos |
 | Catalog Number | ROK262 |
-| Notes | Limited to 500 copies. Half and Half Blue/Red coloured vinyl. Some copies Signed rear side on sleeve. |
+| Notes | Limited to 500 copies.<br>Half and Half Blue/Red coloured vinyl.<br>Some copies Signed rear side on sleeve. |
 | Discogs URL    | [Amplifier - Hologram](https://www.discogs.com/release/28259452-Amplifier-3-Hologram) |

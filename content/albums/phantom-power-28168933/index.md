@@ -4,6 +4,7 @@ artist_name: "Super Furry Animals"
 artist: "super-furry-animals"
 album_name: "Phantom Power"
 date: 2023-09-08T04:42:25.000000Z
+release_date: "2003-07-17"
 release_id: "28168933"
 slug: "phantom-power-28168933"
 hideSummary: true
@@ -35,36 +36,34 @@ Phantom Power is the sixth album by Welsh indie rock band Super Furry Animals, r
 The album, like their previous record Rings Around the World, was simultaneously released on CD, vinyl and DVD. The DVD featured a surround sound mix of the album along with animations, commentary by Mario Caldato Jr. (who mixed the record) and remixes. The majority of these remixes were re-released as the album Phantom Phorce in 2004. Phantom Power was well received, with many critics suggesting it was the best album of the band's career.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Hello Sunshine (3:34)
-2. Liberty Belle (2:58)
-3. Golden Retriever (2:28)
-4. Sex, War & Robots (3:49)
-5. The Piccolo Snare (6:44)
-6. Venus & Serena (3:27)
-7. Father Father #1 (1:55)
-8. Bleed Forever (3:40)
-9. Out Of Control (2:44)
-10. Cityscape Skybaby (4:34)
-11. Father Father #2 (1:51)
-12. Valet Parking (4:35)
-13. The Undefeated (4:07)
-14. Slow Life (6:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hello Sunshine | 3:34 |
+| A2 | Liberty Belle | 2:58 |
+| A3 | Golden Retriever | 2:28 |
+| B1 | Sex, War & Robots | 3:49 |
+| B2 | The Piccolo Snare | 6:44 |
+| B3 | Venus & Serena | 3:27 |
+| C1 | Father Father #1 | 1:55 |
+| C2 | Bleed Forever | 3:40 |
+| C3 | Out Of Control | 2:44 |
+| C4 | Cityscape Skybaby | 4:34 |
+| D1 | Father Father #2 | 1:51 |
+| D2 | Valet Parking | 4:35 |
+| D3 | The Undefeated | 4:07 |
+| D4 | Slow Life | 6:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/phantom-power/1641279712" >}}<br>
 
 
-## Videos
-### Super Furry Animals - Golden Retriever Video
-{{< youtube id="GNB3WWkNVhM" title="Super Furry Animals - Golden Retriever Video" >}}<br>
-### More Videos
-
-- [Super Furry Animals - Hello Sunshine Video](https://www.youtube.com/watch?v=XHlUcYYifO0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +75,5 @@ The album, like their previous record Rings Around the World, was simultaneously
 | Format         | Vinyl 2× LP Album Reissue Remastered (Die Cut Cover) |
 | Label          | BMG |
 | Catalog Number | BMGCAT799DLP |
-| Notes | Hype sticker Heavyweight black vinyl  Double LP in die-cut sleeve Reassembled from original mixdown tapes, mastered in high definition for maximum quality.  Colour printed inner sleeves and insert with foreword by album executive producer Kurt Stern.  All elements of the runouts are etched on each side. |
+| Notes | Hype sticker<br>Heavyweight black vinyl <br>Double LP in die-cut sleeve<br>Reassembled from original mixdown tapes, mastered in high definition for maximum quality.<br><br>Colour printed inner sleeves and insert with foreword by album executive producer Kurt Stern.<br><br>All elements of the runouts are etched on each side. |
 | Discogs URL    | [Super Furry Animals - Phantom Power](https://www.discogs.com/release/28168933-Super-Furry-Animals-Phantom-Power) |

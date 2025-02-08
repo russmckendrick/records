@@ -4,6 +4,7 @@ artist_name: "Roxette"
 artist: "roxette"
 album_name: "Joyride"
 date: 2021-11-26T09:14:40.000000Z
+release_date: "2009-09-28"
 release_id: "21128191"
 slug: "joyride-21128191"
 hideSummary: true
@@ -30,36 +31,32 @@ The album was a critical and commercial success upon release, with a retrospecti
 The band toured extensively to support the record, performing to over 1.7 million people across four continents during the "Join the Joyride! Tour". As of 2001, the album has sold over 11 million copies worldwide. An expanded 30th-anniversary edition of the album was released on 26 November 2021.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Joyride
-2. Hotblooded
-3. Fading Like A Flower (Every Time You Leave)
-4. Knockin' On Every Door
-5. Spending My Time
-6. Watercolours In The Rain
-7. The Big L.
-8. (Do You Get) Excited?
-9. Small Talk
-10. Physical Fascination
-11. Things Will Never Be The Same
-12. Perfect Day
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Joyride |  |
+| A2 | Hotblooded |  |
+| A3 | Fading Like A Flower (Every Time You Leave) |  |
+| A4 | Knockin' On Every Door |  |
+| A5 | Spending My Time |  |
+| A6 | Watercolours In The Rain |  |
+| B1 | The Big L. |  |
+| B2 | (Do You Get) Excited? |  |
+| B3 | Small Talk |  |
+| B4 | Physical Fascination |  |
+| B5 | Things Will Never Be The Same |  |
+| B6 | Perfect Day |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/joyride-deluxe-version/693194466" >}}<br>
 
 
-## Videos
-### Roxette - Spending My Time
-{{< youtube id="eG0IYV6G0I0" title="Roxette - Spending My Time" >}}<br>
-### More Videos
-
-- [Roxette - The Big L](https://www.youtube.com/watch?v=P3BziGZOMcE)
-- [Roxette - Joyride Official Video Remastered](https://www.youtube.com/watch?v=1I3ebe7ykGI)
-- [Roxette - Do You Get Excited](https://www.youtube.com/watch?v=5U_P-HR8J5w)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +68,5 @@ The band toured extensively to support the record, performing to over 1.7 millio
 | Format         | Vinyl LP Album Reissue Stereo (Transparent Orange Marbled, Gatefold) |
 | Label          | Parlophone |
 | Catalog Number | 5054197107177 |
-| Notes | Back cover: Made in Germany  Glossy gatefold cover  |
+| Notes | Back cover: Made in Germany<br><br>Glossy gatefold cover<br> |
 | Discogs URL    | [Roxette - Joyride](https://www.discogs.com/release/21128191-Roxette-Joyride) |

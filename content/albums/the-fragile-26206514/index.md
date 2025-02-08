@@ -4,6 +4,7 @@ artist_name: "Nine Inch Nails"
 artist: "nine-inch-nails"
 album_name: "The Fragile"
 date: 2024-12-14T02:39:14.000000Z
+release_date: "1999-09-21"
 release_id: "26206514"
 slug: "the-fragile-26206514"
 hideSummary: true
@@ -70,66 +71,45 @@ Looking to depart from the distorted production of their previous album, The Dow
 Upon release, critics applauded the album's ambition and composition, although some criticized its length and perceived lack of lyrical substance. However, in the years following its release, it has come to be regarded by many critics and listeners to be among the band's best work. The album debuted at number one in the U.S. to become the band's first chart-topper, and was eventually certified double platinum by the RIAA.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Somewhat Damaged (4:31)
-2. The Day The World Went Away (5:04)
-3. The Frail (1:54)
-4. The Wretched (5:36)
-5. We're In This Together (7:19)
-6. The Fragile (4:32)
-7. Just Like You Imagined (3:52)
-8. Even Deeper (6:16)
-9. Pilgrimage (3:41)
-10. No, You Don't (3:36)
-11. La Mer (5:10)
-12. The Great Below (5:17)
-13. The Way Out Is Through (4:17)
-14. Into The Void (4:49)
-15. Where Is Everybody? (5:40)
-16. The Mark Has Been Made (4:46)
-17. 10 Miles High (5:09)
-18. Please (3:31)
-19. Starfuckers, Inc. (5:00)
-20. Complication (2:27)
-21. The New Flesh (3:42)
-22. I'm Looking Forward To Joining You, Finally (4:20)
-23. The Big Come Down (4:12)
-24. Underneath It All (2:47)
-25. Ripe (5:18)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Somewhat Damaged | 4:31 |
+| A2 | The Day The World Went Away | 5:04 |
+| A3 | The Frail | 1:54 |
+| A4 | The Wretched | 5:36 |
+| B1 | We're In This Together | 7:19 |
+| B2 | The Fragile | 4:32 |
+| B3 | Just Like You Imagined | 3:52 |
+| B4 | Even Deeper | 6:16 |
+| C1 | Pilgrimage | 3:41 |
+| C2 | No, You Don't | 3:36 |
+| C3 | La Mer | 5:10 |
+| C4 | The Great Below | 5:17 |
+| D1 | The Way Out Is Through | 4:17 |
+| D2 | Into The Void | 4:49 |
+| D3 | Where Is Everybody? | 5:40 |
+| D4 | The Mark Has Been Made | 4:46 |
+| E1 | 10 Miles High | 5:09 |
+| E2 | Please | 3:31 |
+| E3 | Starfuckers, Inc. | 5:00 |
+| E4 | Complication | 2:27 |
+| E5 | The New Flesh | 3:42 |
+| F1 | I'm Looking Forward To Joining You, Finally | 4:20 |
+| F2 | The Big Come Down | 4:12 |
+| F3 | Underneath It All | 2:47 |
+| F4 | Ripe | 5:18 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-fragile/1440836334" >}}<br>
 
 
-## Videos
-### Somewhat Damaged
-{{< youtube id="JX-Vlrpv8qI" title="Somewhat Damaged" >}}<br>
-### More Videos
-
-- [The Day The World Went Away](https://www.youtube.com/watch?v=TfKTgx15jag)
-- [The Frail](https://www.youtube.com/watch?v=rOMcxTK7-0w)
-- [The Wretched](https://www.youtube.com/watch?v=ANjQ8wI-W7g)
-- [The Fragile](https://www.youtube.com/watch?v=BO-iKVlPz8I)
-- [Just Like You Imagined](https://www.youtube.com/watch?v=OqWM-tXtoBU)
-- [Even Deeper](https://www.youtube.com/watch?v=hwz86XHCMdU)
-- [Pilgrimage](https://www.youtube.com/watch?v=xJUJ-qNdsf8)
-- [No You Dont](https://www.youtube.com/watch?v=IhCVl8Z63D8)
-- [La Mer](https://www.youtube.com/watch?v=dcIOInVS7jo)
-- [The Great Below](https://www.youtube.com/watch?v=HCORXBfRcNo)
-- [The Way Out Is Through](https://www.youtube.com/watch?v=_WVA92lnty0)
-- [Where Is Everybody](https://www.youtube.com/watch?v=uQJq-WJXUAU)
-- [The Mark Has Been Made](https://www.youtube.com/watch?v=yUCTlqExGyo)
-- [Please](https://www.youtube.com/watch?v=RU-q94bYNoY)
-- [Starfuckers Inc](https://www.youtube.com/watch?v=dxjry1KS-pg)
-- [Complication](https://www.youtube.com/watch?v=ls9Gyv_v-G8)
-- [Im Looking Forward To Joining You Finally](https://www.youtube.com/watch?v=MBff4D18Tck)
-- [The Big Come Down](https://www.youtube.com/watch?v=9gg2p7_PnTQ)
-- [Underneath It All](https://www.youtube.com/watch?v=pzXeJ762BBc)
-- [Ripe With Decay](https://www.youtube.com/watch?v=HkrUlSKRQRo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -141,5 +121,5 @@ Upon release, critics applauded the album's ambition and composition, although s
 | Format         | Vinyl 3× LP Album Reissue Remastered (Definitive Edition) |
 | Label          | Nothing Records |
 | Catalog Number | 00602557142778 |
-| Notes | 2017 Definitive Edition, repressed in fall 2022.   This release has different catalog numbers throughout the packaging than the first EU release [r11192900] and copyright details reference Netherlands on the back of the outer sleeve. Includes a matte 20-page lyric booklet and a 12 page essay "At The Corner of Nothing and Nowhere: Sequencing The Fragile" by Bob Ezrin. Does not include a download code insert.  From the NIN store description: "The definitive version of the Fragile, meticulously prepared by Trent Reznor and NIN Art Director John Crawford. Remastered from the original sources in 2016 on 180-gram Vinyl, with lots of details that you may never notice, but we care about.”  Recorded and mixed at Nothing Studios, New Orleans. Supplemental drums recorded at Electrical Audio. Remastered at Baker Mastering. Vinyl mastering at Golden Mastering.  A spurious credit appears on the release for "additional vocals" on the Quiet version of 'The Day The World Went Away', a track found not on this release, but rather on [m=3912]. Some photographs in bundled essay credited to Nothing Studios.  ℗©2017 Interscope Records.  Written by T Reznor ©1999 Leaving Hope/TVT Music Inc (ASCAP) administered by Leaving Hope Music Inc, except - A1, B4: Written by T Reznor, D Lohner ©1999 Leaving Hope/TVT Music Inc (ASCAP) administered by Leaving Hope Music Inc/Wish It Away (ASCAP). D1: Written by T Reznor, K Hillebrandt, C Clouser ©1999 Leaving Hope/TVT Music Inc (ASCAP) administered by Leaving Hope Music Inc/Hillebrandt/Hypercube Music/Warner Tamerlane Music (BMI). E3: Written by T Reznor, C Clouser ©1999 Leaving Hope/TVT Music Inc (ASCAP) administered by Leaving Hope Music Inc/Hypercube Music/Warner Tamerlane Music (BMI)/Quackenbush Music Limited (ASCAP) administered by Polygram International Music Publishing Inc. Contains elements from 'Shout It Out Loud' performed by Kiss used courtesy of Mercury Records under license from Universal Music Special Markets Inc.  Hype sticker on front: The definitive vinyl edition of the Fragile, meticulously prepared by Trent Reznor and NIN art director John Crawford.  Remastered 2017 audio on 180-Gram Vinyl, remastered artwork and more.  ℗© 2017 interscope records: all rights reserved. unauthorised copying, reproduction, hiring, lending, public performance and broadcasting prohibited. made in the eu. biem/sdrm. lc 06406. universal international music b.v. gerrit van der veenlaan 4, 3743 dn, baarn, netherlands.  halo fourteen Original release date: September 21, 1999 |
+| Notes | 2017 Definitive Edition, repressed in fall 2022. <br><br>This release has different catalog numbers throughout the packaging than the first EU release [r11192900] and copyright details reference Netherlands on the back of the outer sleeve.<br>Includes a matte 20-page lyric booklet and a 12 page essay "At The Corner of Nothing and Nowhere: Sequencing The Fragile" by Bob Ezrin.<br>Does not include a download code insert.<br><br>From the NIN store description:<br>"The definitive version of the Fragile, meticulously prepared by Trent Reznor and NIN Art Director John Crawford.<br>Remastered from the original sources in 2016 on 180-gram Vinyl, with lots of details that you may never notice, but we care about.”<br><br>Recorded and mixed at Nothing Studios, New Orleans.<br>Supplemental drums recorded at Electrical Audio.<br>Remastered at Baker Mastering.<br>Vinyl mastering at Golden Mastering.<br><br>A spurious credit appears on the release for "additional vocals" on the Quiet version of 'The Day The World Went Away', a track found not on this release, but rather on [m=3912].<br>Some photographs in bundled essay credited to Nothing Studios.<br><br>℗©2017 Interscope Records.<br><br>Written by T Reznor ©1999 Leaving Hope/TVT Music Inc (ASCAP) administered by Leaving Hope Music Inc, except -<br>A1, B4: Written by T Reznor, D Lohner ©1999 Leaving Hope/TVT Music Inc (ASCAP) administered by Leaving Hope Music Inc/Wish It Away (ASCAP).<br>D1: Written by T Reznor, K Hillebrandt, C Clouser ©1999 Leaving Hope/TVT Music Inc (ASCAP) administered by Leaving Hope Music Inc/Hillebrandt/Hypercube Music/Warner Tamerlane Music (BMI).<br>E3: Written by T Reznor, C Clouser ©1999 Leaving Hope/TVT Music Inc (ASCAP) administered by Leaving Hope Music Inc/Hypercube Music/Warner Tamerlane Music (BMI)/Quackenbush Music Limited (ASCAP) administered by Polygram International Music Publishing Inc. Contains elements from 'Shout It Out Loud' performed by Kiss used courtesy of Mercury Records under license from Universal Music Special Markets Inc.<br><br>Hype sticker on front:<br>The definitive vinyl edition of the Fragile, meticulously prepared by Trent Reznor and NIN art director John Crawford.  Remastered 2017 audio on 180-Gram Vinyl, remastered artwork and more.<br><br>℗© 2017 interscope records: all rights reserved. unauthorised copying, reproduction, hiring, lending, public performance and broadcasting prohibited. made in the eu. biem/sdrm. lc 06406. universal international music b.v. gerrit van der veenlaan 4, 3743 dn, baarn, netherlands.<br><br>halo fourteen<br>Original release date: September 21, 1999 |
 | Discogs URL    | [Nine Inch Nails - The Fragile](https://www.discogs.com/release/26206514-Nine-Inch-Nails-The-Fragile) |

@@ -4,6 +4,7 @@ artist_name: "James"
 artist: "james"
 album_name: "Laid"
 date: 2017-05-04T21:09:51.000000Z
+release_date: "1998-01-01"
 release_id: "6813016"
 slug: "laid-6813016"
 hideSummary: true
@@ -30,38 +31,32 @@ styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Out To Get You (4:27)
-2. Sometimes (Lester Piggott) (5:08)
-3. Dream Thrum (4:47)
-4. One Of The Three (4:08)
-5. Say Something (3:26)
-6. Five-O (5:24)
-7. P.S. (5:04)
-8. Everybody Knows (3:28)
-9. Knuckle Too Far (4:40)
-10. Low Low Low (2:52)
-11. Laid (2:36)
-12. Lullaby (3:48)
-13. Skindiving (5:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Out To Get You | 4:27 |
+| A2 | Sometimes (Lester Piggott) | 5:08 |
+| A3 | Dream Thrum | 4:47 |
+| B1 | One Of The Three | 4:08 |
+| B2 | Say Something | 3:26 |
+| B3 | Five-O | 5:24 |
+| C1 | P.S. | 5:04 |
+| C2 | Everybody Knows | 3:28 |
+| C3 | Knuckle Too Far | 4:40 |
+| D1 | Low Low Low | 2:52 |
+| D2 | Laid | 2:36 |
+| D3 | Lullaby | 3:48 |
+| D4 | Skindiving | 5:42 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-james/1440910867" >}}<br>
 
 
-## Videos
-### James - Say Something US Version
-{{< youtube id="50dZQkrqxAk" title="James - Say Something US Version" >}}<br>
-### More Videos
-
-- [James - Laid Version 3 Official Video](https://www.youtube.com/watch?v=0trh9Y598fM)
-- [James - Out to get you](https://www.youtube.com/watch?v=rZ_ePY2CjRw)
-- [James - Sometimes](https://www.youtube.com/watch?v=ejU5YAHN3vQ)
-- [James - Sometimes](https://www.youtube.com/watch?v=LGfnw4YscBA)
-- [James - One Of The Three Video Subtitulado](https://www.youtube.com/watch?v=K2hqxNywzIA)
-- [James - Say Something](https://www.youtube.com/watch?v=icehffFWOck)
-- [James - Low Low Low](https://www.youtube.com/watch?v=0Q1XkhswlsQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +67,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Fontana |
 | Catalog Number | 0602547096401 |
-| Notes | Sleeves with lyrics, photos, credits, art etc Contains voucher for MP3 download 180 Gram Heavyweight Vinyl Made in the EU |
+| Notes | Sleeves with lyrics, photos, credits, art etc<br>Contains voucher for MP3 download<br>180 Gram Heavyweight Vinyl<br>Made in the EU |
 | Discogs URL    | [James - Laid](https://www.discogs.com/release/6813016-James-Laid) |

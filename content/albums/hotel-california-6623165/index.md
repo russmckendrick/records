@@ -36,26 +36,23 @@ That shift can be largely attributed to the new kid in town: Joe Walsh, who repl
 
 
 ## Tracklisting
-1. Hotel California (6:30)
-2. New Kid In Town (5:04)
-3. Life In The Fast Lane (4:46)
-4. Wasted Time (4:55)
-5. Wasted Time (Reprise) (1:22)
-6. Victim Of Love (4:11)
-7. Pretty Maids All In A Row (4:05)
-8. Try And Love Again (5:10)
-9. The Last Resort (7:25)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hotel California | 6:30 |
+| A2 | New Kid In Town | 5:04 |
+| A3 | Life In The Fast Lane | 4:46 |
+| A4 | Wasted Time | 4:55 |
+| B1 | Wasted Time (Reprise) | 1:22 |
+| B2 | Victim Of Love | 4:11 |
+| B3 | Pretty Maids All In A Row | 4:05 |
+| B4 | Try And Love Again | 5:10 |
+| B5 | The Last Resort | 7:25 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hotel-california/635770200" >}}<br>
 
 
-## Videos
-### Hotel California 2013 Remaster
-{{< youtube id="BciS5krYL80" title="Hotel California 2013 Remaster" >}}<br>
-### More Videos
-
-- [Victim of Love 2013 Remaster](https://www.youtube.com/watch?v=AFdomKzAPTY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +64,5 @@ That shift can be largely attributed to the new kid in town: Joe Walsh, who repl
 | Format         | Vinyl LP Album Reissue Stereo (Gatefold, 180 Gram) |
 | Label          | Asylum Records |
 | Catalog Number | RRM1-1084 |
-| Notes | ℗ & © 1976 Elektra/Asylum Records for the U.S. and WEA International Inc. for the world outside of the U.S.  All Rights Reserved. Marketed by Warner Strategic Marketing, a Warner Music Group Company. Made in EU. LC02982   LP is pressed on 180 gram vinyl and replicates the original album packaging - which means that includes a replica of the poster from the original issue with band photos by Norman Seeff in full colour. |
+| Notes | ℗ & © 1976 Elektra/Asylum Records for the U.S. and WEA International Inc. for the world outside of the U.S.  All Rights Reserved.<br>Marketed by Warner Strategic Marketing, a Warner Music Group Company. Made in EU. LC02982 <br><br>LP is pressed on 180 gram vinyl and replicates the original album packaging - which means that includes a replica of the poster from the original issue with band photos by Norman Seeff in full colour. |
 | Discogs URL    | [Eagles - Hotel California](https://www.discogs.com/release/6623165-Eagles-Hotel-California) |

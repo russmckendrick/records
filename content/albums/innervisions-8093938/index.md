@@ -35,40 +35,23 @@ There’s salvation to be found in “Higher Ground”, an impossibly groovy seq
 
 
 ## Tracklisting
-1. Too High (4:37)
-2. Visions (5:17)
-3. Living For The City (7:26)
-4. Golden Lady (5:00)
-5. Higher Ground (3:54)
-6. Jesus Children Of America (4:04)
-7. All In Love Is Fair (3:45)
-8. Don't You Worry 'Bout A Thing (4:55)
-9. He's Misstra Know-It-All (6:06)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Too High | 4:37 |
+| A2 | Visions | 5:17 |
+| A3 | Living For The City | 7:26 |
+| A4 | Golden Lady | 5:00 |
+| B1 | Higher Ground | 3:54 |
+| B2 | Jesus Children Of America | 4:04 |
+| B3 | All In Love Is Fair | 3:45 |
+| B4 | Don't You Worry 'Bout A Thing | 4:55 |
+| B5 | He's Misstra Know-It-All | 6:06 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/innervisions/1440806790" >}}<br>
 
 
-## Videos
-### Stevie Wonder - Innervisions Full Album 1973
-{{< youtube id="wi5kA7QOCI4" title="Stevie Wonder - Innervisions Full Album 1973" >}}<br>
-### More Videos
-
-- [Hes Misstra Know-It-All](https://www.youtube.com/watch?v=uivvYGyQiow)
-- [Too High](https://www.youtube.com/watch?v=UvtYEdYjkJM)
-- [Visions](https://www.youtube.com/watch?v=fy4fMlLj_B8)
-- [Living For The City](https://www.youtube.com/watch?v=ghLWjyOOLno)
-- [Golden Lady](https://www.youtube.com/watch?v=CXCTjAMR3eA)
-- [Higher Ground](https://www.youtube.com/watch?v=1esf0efHbjM)
-- [Jesus Children Of America](https://www.youtube.com/watch?v=8o8FVoib92w)
-- [All In Love Is Fair](https://www.youtube.com/watch?v=1surYguNfEg)
-- [Dont You Worry Bout A Thing](https://www.youtube.com/watch?v=RxsBc5p-dPU)
-- [Stevie Wonder - Innervisions 1973 Part 1 Full Album](https://www.youtube.com/watch?v=cPOaluwCL8I)
-- [Stevie Wonder - Visions - with lyrics](https://www.youtube.com/watch?v=pwtfC4hLWnY)
-- [Stevie Wonder - Innervisions - Promo - In Studio Performance  Interview 1973](https://www.youtube.com/watch?v=Z-ipVu9pl3w)
-- [stevie wonder - Stevie Wonder Visions - Innervisions](https://www.youtube.com/watch?v=t36ynCw8WKQ)
-- [Stevie Wonder - Visions](https://www.youtube.com/watch?v=K4mdXoaKqco)
-- [Stevie Wonder - Innervisions on Flipside TV 1973](https://www.youtube.com/watch?v=fUG3e7_tedE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +63,5 @@ There’s salvation to be found in “Higher Ground”, an impossibly groovy seq
 | Format         | Vinyl LP Album Reissue Remastered Repress (180 Gram, Gatefold) |
 | Label          | Tamla Motown |
 | Catalog Number | 0050109032617 |
-| Notes | Version without "www.gzvinyl.com" in runouts can be found here: [r14990914]  ℗ 1973 Motown Record Corporation © 1973 Motown Record Corporation, A Universal Music Company. Made in the EU.  Recorded at Record Plant, Los Angeles and Media Sound, Inc., New York  180 Gram Vinyl. Includes download code. |
+| Notes | Version without "www.gzvinyl.com" in runouts can be found here: [r14990914]<br><br>℗ 1973 Motown Record Corporation © 1973 Motown Record Corporation, A Universal Music Company.<br>Made in the EU.<br><br>Recorded at Record Plant, Los Angeles and Media Sound, Inc., New York<br><br>180 Gram Vinyl. Includes download code. |
 | Discogs URL    | [Stevie Wonder - Innervisions](https://www.discogs.com/release/8093938-Stevie-Wonder-Innervisions) |

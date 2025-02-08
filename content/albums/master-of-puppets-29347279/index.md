@@ -36,31 +36,22 @@ In MTV footage from around the album’s release, Lars Ulrich tells an interview
 
 
 ## Tracklisting
-1. Battery (5:12)
-2. Master Of Puppets (8:35)
-3. The Thing That Should Not Be (6:36)
-4. Welcome Home (Sanitarium) (6:27)
-5. Disposable Heroes (8:16)
-6. Leper Messiah (5:40)
-7. Orion (8:27)
-8. Damage, Inc. (5:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Battery | 5:12 |
+| A2 | Master Of Puppets | 8:35 |
+| A3 | The Thing That Should Not Be | 6:36 |
+| A4 | Welcome Home (Sanitarium) | 6:27 |
+| B1 | Disposable Heroes | 8:16 |
+| B2 | Leper Messiah | 5:40 |
+| B3 | Orion | 8:27 |
+| B4 | Damage, Inc. | 5:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/master-of-puppets-remastered/1440901428" >}}<br>
 
 
-## Videos
-### Battery Remastered
-{{< youtube id="a_ITtP033RI" title="Battery Remastered" >}}<br>
-### More Videos
-
-- [Master of Puppets Remastered](https://www.youtube.com/watch?v=E0ozmU9cJDg)
-- [The Thing That Should Not Be Remastered](https://www.youtube.com/watch?v=DoHk21aGHas)
-- [Welcome Home Sanitarium Remastered](https://www.youtube.com/watch?v=ZiIc0HuJ78Q)
-- [Disposable Heroes Remastered](https://www.youtube.com/watch?v=dzssbzIsmqU)
-- [Leper Messiah Remastered](https://www.youtube.com/watch?v=JYALpvUGNk8)
-- [Orion Remastered](https://www.youtube.com/watch?v=-OxslxSG48Q)
-- [Damage Inc Remastered](https://www.youtube.com/watch?v=DdekZoYoamE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +63,5 @@ In MTV footage from around the album’s release, Lars Ulrich tells an interview
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Red (Battery Brick)) |
 | Label          | Blackened |
 | Catalog Number | BLCKND005R-1 |
-| Notes | Made in Germany Pressed on Limited Edition Battery Brick Vinyl  |
+| Notes | Made in Germany<br>Pressed on Limited Edition Battery Brick Vinyl  |
 | Discogs URL    | [Metallica - Master Of Puppets](https://www.discogs.com/release/29347279-Metallica-Master-Of-Puppets) |

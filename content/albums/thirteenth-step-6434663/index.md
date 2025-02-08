@@ -4,6 +4,7 @@ artist_name: "A Perfect Circle"
 artist: "a-perfect-circle"
 album_name: "Thirteenth Step"
 date: 2018-02-07T20:35:40.000000Z
+release_date: "2003-01-01"
 release_id: "6434663"
 slug: "thirteenth-step-6434663"
 hideSummary: true
@@ -28,36 +29,32 @@ styles: ["Alternative Rock", "Prog Rock"]
 Thirteenth Step is the second studio album by American rock band A Perfect Circle, released on September 16, 2003. The album sold well, charting at the number 2 position on the Billboard 200 in its premiere week, selling over 231,000 copies and staying on the charts for 78 weeks. The album went on to be certified as gold on November 4, 2003, and as platinum on March 24, 2006, by the RIAA. Three singles were released from the album, "Weak and Powerless", which topped both the Mainstream Rock Tracks and Modern Rock Tracks,  followed by "The Outsider" and "Blue", which also charted on the respective charts.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Package (7:40)
-2. Weak And Powerless (3:15)
-3. The Noose (4:53)
-4. Blue (4:13)
-5. Vanishing (4:51)
-6. A Stranger (3:12)
-7. The Outsider (4:06)
-8. Crimes (2:34)
-9. The Nurse Who Loved Me (4:04)
-10. Pet (4:34)
-11. Lullaby (2:01)
-12. Gravity (5:08)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Package | 7:40 |
+| A2 | Weak And Powerless | 3:15 |
+| A3 | The Noose | 4:53 |
+| B1 | Blue | 4:13 |
+| B2 | Vanishing | 4:51 |
+| B3 | A Stranger | 3:12 |
+| C1 | The Outsider | 4:06 |
+| C2 | Crimes | 2:34 |
+| C3 | The Nurse Who Loved Me | 4:04 |
+| D1 | Pet | 4:34 |
+| D2 | Lullaby | 2:01 |
+| D3 | Gravity | 5:08 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/thirteenth-step/723637755" >}}<br>
 
 
-## Videos
-### A Perfect Circle -  Thirteenth Step Full Album
-{{< youtube id="b9jQ0FUQ9b8" title="A Perfect Circle -  Thirteenth Step Full Album" >}}<br>
-### More Videos
-
-- [The Package](https://www.youtube.com/watch?v=m2Yhn6-jJPE)
-- [A Perfect Circle - Outsider Directors Cut](https://www.youtube.com/watch?v=KO3l733WRN0)
-- [A Stranger](https://www.youtube.com/watch?v=Qypuo3T4aHQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +66,5 @@ Thirteenth Step is the second studio album by American rock band A Perfect Circl
 | Format         | Vinyl 2× LP Album Reissue Stereo (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1114 |
-| Notes | Pressing plant uncredited, identified by matrix numbers   Sticker says: "Music On Vinyl Classic Album 180 gram audiophile vinyl pressing www.musiconvinyl.com"  Original release Ⓟ 2003 Virgin Records America, Inc.  This release Ⓟ & Ⓒ 2014 Universal Music B.V. |
+| Notes | Pressing plant uncredited, identified by matrix numbers <br><br>Sticker says:<br>"Music On Vinyl<br>Classic Album<br>180 gram audiophile vinyl pressing<br>www.musiconvinyl.com"<br><br>Original release Ⓟ 2003 Virgin Records America, Inc. <br>This release Ⓟ & Ⓒ 2014 Universal Music B.V. |
 | Discogs URL    | [A Perfect Circle - Thirteenth Step](https://www.discogs.com/release/6434663-A-Perfect-Circle-Thirteenth-Step) |

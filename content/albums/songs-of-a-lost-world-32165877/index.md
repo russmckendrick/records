@@ -47,31 +47,22 @@ With all this loss and mortality, <i>Songs of a Lost World</i> recalls Bowie’s
 
 
 ## Tracklisting
-1. Alone (6:43)
-2. And Nothing Is Forever (6:49)
-3. A Fragile Thing (4:40)
-4. Warsong (4:17)
-5. Drone: Nodrone (4:44)
-6. I Can Never Say Goodbye (5:56)
-7. All I Ever Am (5:16)
-8. Endsong (10:21)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Alone | 6:43 |
+| A2 | And Nothing Is Forever | 6:49 |
+| B1 | A Fragile Thing | 4:40 |
+| B2 | Warsong | 4:17 |
+| B3 | Drone: Nodrone | 4:44 |
+| C1 | I Can Never Say Goodbye | 5:56 |
+| C2 | All I Ever Am | 5:16 |
+| D | Endsong | 10:21 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songs-of-a-lost-world/1768728131" >}}<br>
 
 
-## Videos
-### The Cure - Alone Official Lyric Video
-{{< youtube id="sx9SVAtMkJM" title="The Cure - Alone Official Lyric Video" >}}<br>
-### More Videos
-
-- [The Cure - A Fragile Thing Official Lyric Video](https://www.youtube.com/watch?v=V7sZlKuh8gA)
-- [And Nothing Is Forever](https://www.youtube.com/watch?v=yEBO_xKfwN4)
-- [DroneNodrone](https://www.youtube.com/watch?v=jBlJSxAtmpE)
-- [I Can Never Say Goodbye](https://www.youtube.com/watch?v=DV-acRCuOGU)
-- [Warsong](https://www.youtube.com/watch?v=W6gFQfYSopQ)
-- [All I Ever Am](https://www.youtube.com/watch?v=wW3wokbdfeA)
-- [Endsong](https://www.youtube.com/watch?v=gA5pg7DRLf4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +74,5 @@ With all this loss and mortality, <i>Songs of a Lost World</i> recalls Bowie’s
 | Format         | Vinyl 2× LP Album Bioplastic (Half Speed Master) |
 | Label          | Polydor |
 | Catalog Number | 7503682 |
-| Notes | Gatefold sleeve with a matte finish. The interior section of each pocket is printed black. Two printed inner sleeves of top opening matte paper. Issued with a 24 x 24 inch (60 x 60cm) poster. This was sealed within the shrinkwrap.  'Bagatelle' sculpture by Janez Pirnat (1975)  A Polydor Records release. ℗ & © 2024 Lost Music Limited, under exclusive licence to Universal Music Operations Limited. Made in the EU. Universal International Music B.V.  'Made in the EU' printed on cover and centre labels, 'Made in Germany' stickered on shrinkwrap. Runouts are etched, except, "-64865-" and "-64923-" which are stamped.  The I and II after the Schallplattenfabrik job numbers are rendered as Ⅰ and Ⅱ.  Track durations are not printed on the release.  On the Cure official site, marketed as a "store exclusive" and "half speed master 2LP vinyl" release.  The gatefold printed inner includes the last six lines of poem "When I Have Fears That I May Cease To Be" by John Keats.  |
+| Notes | Gatefold sleeve with a matte finish. The interior section of each pocket is printed black.<br>Two printed inner sleeves of top opening matte paper.<br>Issued with a 24 x 24 inch (60 x 60cm) poster. This was sealed within the shrinkwrap.<br><br>'Bagatelle' sculpture by Janez Pirnat (1975)<br><br>A Polydor Records release. ℗ & © 2024 Lost Music Limited, under exclusive licence to Universal Music Operations Limited.<br>Made in the EU. Universal International Music B.V.<br><br>'Made in the EU' printed on cover and centre labels, 'Made in Germany' stickered on shrinkwrap.<br>Runouts are etched, except, "-64865-" and "-64923-" which are stamped. <br>The I and II after the Schallplattenfabrik job numbers are rendered as Ⅰ and Ⅱ.<br><br>Track durations are not printed on the release.<br><br>On the Cure official site, marketed as a "store exclusive" and "half speed master 2LP vinyl" release.<br><br>The gatefold printed inner includes the last six lines of poem "When I Have Fears That I May Cease To Be" by John Keats.<br> |
 | Discogs URL    | [The Cure - Songs Of A Lost World](https://www.discogs.com/release/32165877-The-Cure-Songs-Of-A-Lost-World) |

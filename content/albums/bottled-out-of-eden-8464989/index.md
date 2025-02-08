@@ -4,6 +4,7 @@ artist_name: "Knifeworld"
 artist: "knifeworld"
 album_name: "Bottled Out Of Eden"
 date: 2016-05-05T05:36:07.000000Z
+release_date: "2016-04-22"
 release_id: "8464989"
 slug: "bottled-out-of-eden-8464989"
 hideSummary: true
@@ -31,43 +32,41 @@ styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. High / Aflame
-2. The Germ Inside
-3. I Am Lost
-4. The Deathless
-5. Foul Temple
-6. Vision Of The Bent Path
-7. I Must Set Fire To Your Portrait
-8. Lowered Into Necromancy
-9. A Dream About A Dream
-10. Secret Words
-11. Feel The Sorcery
-12. High / Aflame (6:31)
-13. The Germ Inside (4:47)
-14. I Am Lost (7:12)
-15. The Deathless (5:26)
-16. Foul Temple (2:41)
-17. Vision Of The Bent Path (0:32)
-18. I Must Set Fire To Your Portrait (5:37)
-19. Lowered Into Necromancy (3:59)
-20. A Dream About A Dream (5:43)
-21. Secret Words (3:12)
-22. Feel The Sorcery (3:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | High / Aflame |  |
+| A2 | The Germ Inside |  |
+| B1 | I Am Lost |  |
+| B2 | The Deathless |  |
+| B3 | Foul Temple |  |
+| C1 | Vision Of The Bent Path |  |
+| C2 | I Must Set Fire To Your Portrait |  |
+| C3 | Lowered Into Necromancy |  |
+| D1 | A Dream About A Dream |  |
+| D2 | Secret Words |  |
+| D3 | Feel The Sorcery |  |
+| 1 | High / Aflame | 6:31 |
+| 2 | The Germ Inside | 4:47 |
+| 3 | I Am Lost | 7:12 |
+| 4 | The Deathless | 5:26 |
+| 5 | Foul Temple | 2:41 |
+| 6 | Vision Of The Bent Path | 0:32 |
+| 7 | I Must Set Fire To Your Portrait | 5:37 |
+| 8 | Lowered Into Necromancy | 3:59 |
+| 9 | A Dream About A Dream | 5:43 |
+| 10 | Secret Words | 3:12 |
+| 11 | Feel The Sorcery | 3:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bottled-out-of-eden/1087654773" >}}<br>
 
 
-## Videos
-### KNIFEWORLD - HighAflame OFFICIAL VIDEO
-{{< youtube id="WzXVxOT8an0" title="KNIFEWORLD - HighAflame OFFICIAL VIDEO" >}}<br>
-### More Videos
-
-- [KNIFEWORLD - The Germ Inside Lyric Video](https://www.youtube.com/watch?v=mWRig5rV274)
-- [KNIFEWORLD - HighAflame OFFICIAL VIDEO](https://www.youtube.com/watch?v=WzXVxOT8an0)
-- [KNIFEWORLD - The Germ Inside Lyric Video](https://www.youtube.com/watch?v=mWRig5rV274)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +77,5 @@ styles: ["Prog Rock", "Math Rock", "Art Rock", "Bubblegum"]
 | Format         | Vinyl 2× LP Album Stereo, CD Album Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 447 |
-| Notes | Black vinyl in gatefold with CD.  Recorded at [l292088]. Additional recording at [l999278].  With thanks to: Colin Hill, Tim Rogers, Dawn Torabi, Maggie Thomas, Carter Anderson, Tom McCluskie, Thomas Waber, Freddy Palmer and Jessica Lausen.  Layout and artwork at [l877277]. Cover adapted from 'Imaginary Battleflag No. 1' by [l877277].  Published by [l196068].  Dedicated to the memory of Daevid Allen, Nick Marsh, Mike Quayle and Justin Lish.  knifeworld.co.uk |
+| Notes | Black vinyl in gatefold with CD.<br><br>Recorded at [l292088].<br>Additional recording at [l999278].<br><br>With thanks to: Colin Hill, Tim Rogers, Dawn Torabi, Maggie Thomas, Carter Anderson, Tom McCluskie, Thomas Waber, Freddy Palmer and Jessica Lausen.<br><br>Layout and artwork at [l877277].<br>Cover adapted from 'Imaginary Battleflag No. 1' by [l877277].<br><br>Published by [l196068].<br><br>Dedicated to the memory of Daevid Allen, Nick Marsh, Mike Quayle and Justin Lish.<br><br>knifeworld.co.uk |
 | Discogs URL    | [Knifeworld - Bottled Out Of Eden](https://www.discogs.com/release/8464989-Knifeworld-Bottled-Out-Of-Eden) |

@@ -4,6 +4,7 @@ artist_name: "Rancid"
 artist: "rancid"
 album_name: "Life Won't Wait"
 date: 2018-08-25T12:50:23.000000Z
+release_date: "1998-06-30"
 release_id: "5888309"
 slug: "life-won-t-wait-5888309"
 hideSummary: true
@@ -20,46 +21,42 @@ styles: ["Punk", "Ska"]
 Life Won't Wait is the fourth studio album by the American punk rock band Rancid. It was released on June 30, 1998, through Epitaph Records. It was released as the follow-up to ...And Out Come the Wolves (1995).
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Intro (0:48)
-2. Bloodclot (2:45)
-3. Hoover Street (4:09)
-4. Black Lung (1:53)
-5. Life Won't Wait (3:48)
-6. New Dress (2:51)
-7. Warsaw (1:31)
-8. Hooligans (2:32)
-9. Crane Fist (3:48)
-10. Leicester Square (2:34)
-11. Backslide (2:53)
-12. Who Would've Thought (2:56)
-13. Cash, Culture And Violence (3:10)
-14. Cocktails (3:20)
-15. The Wolf (2:38)
-16. 1998 (2:45)
-17. Lady Liberty (2:20)
-18. Wrongful Suspicion (3:31)
-19. Turntable (2:16)
-20. Something In The World Today (2:33)
-21. Corazon De Oro (3:58)
-22. Coppers (5:01)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Intro | 0:48 |
+| A2 | Bloodclot | 2:45 |
+| A3 | Hoover Street | 4:09 |
+| A4 | Black Lung | 1:53 |
+| A5 | Life Won't Wait | 3:48 |
+| B1 | New Dress | 2:51 |
+| B2 | Warsaw | 1:31 |
+| B3 | Hooligans | 2:32 |
+| B4 | Crane Fist | 3:48 |
+| B5 | Leicester Square | 2:34 |
+| B6 | Backslide | 2:53 |
+| C1 | Who Would've Thought | 2:56 |
+| C2 | Cash, Culture And Violence | 3:10 |
+| C3 | Cocktails | 3:20 |
+| C4 | The Wolf | 2:38 |
+| C5 | 1998 | 2:45 |
+| C6 | Lady Liberty | 2:20 |
+| D1 | Wrongful Suspicion | 3:31 |
+| D2 | Turntable | 2:16 |
+| D3 | Something In The World Today | 2:33 |
+| D4 | Corazon De Oro | 3:58 |
+| D5 | Coppers | 5:01 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/life-wont-wait/1485036889" >}}<br>
 
 
-## Videos
-### Rancid - Hooligans MUSIC VIDEO
-{{< youtube id="dN1FYAisi94" title="Rancid - Hooligans MUSIC VIDEO" >}}<br>
-### More Videos
-
-- [Rancid - Who Wouldve Thought MUSIC VIDEO](https://www.youtube.com/watch?v=oJqFEk67eLE)
-- [Rancid - Bloodclot MUSIC VIDEO](https://www.youtube.com/watch?v=1pnUvCRavfo)
-- [Rancid - Life Wont Wait](https://www.youtube.com/watch?v=M5hVE4CgKh4)
 
 ## Release Images
 {{< imageGrid >}}

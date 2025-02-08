@@ -40,49 +40,30 @@ Pharcyde cut a stark figure in the gangsta-rap-dominated ’90s: The members mig
 
 
 ## Tracklisting
-1. 4 Better Or 4 Worse (Interlude) (0:36)
-2. Oh Shit (4:29)
-3. It's Jiggaboo Time (Skit) (1:26)
-4. 4 Better Or 4 Worse (5:03)
-5. I'm That Type Of Nigga (5:16)
-6. If I Were President (Skit) (1:01)
-7. Soul Flower (Remix) (4:23)
-8. On The DL (4:27)
-9. Pack The Pipe (Interlude) (0:21)
-10. Officer (4:00)
-11. Ya Mama (4:20)
-12. Passing Me By (5:03)
-13. Otha Fish (5:21)
-14. Quinton's On The Way (Skit) (2:09)
-15. Pack The Pipe (5:03)
-16. Return Of The B-Boy (3:33)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 4 Better Or 4 Worse (Interlude) | 0:36 |
+| A2 | Oh Shit | 4:29 |
+| A3 | It's Jiggaboo Time (Skit) | 1:26 |
+| A4 | 4 Better Or 4 Worse | 5:03 |
+| B1 | I'm That Type Of Nigga | 5:16 |
+| B2 | If I Were President (Skit) | 1:01 |
+| B3 | Soul Flower (Remix) | 4:23 |
+| B4 | On The DL | 4:27 |
+| C1 | Pack The Pipe (Interlude) | 0:21 |
+| C2 | Officer | 4:00 |
+| C3 | Ya Mama | 4:20 |
+| C4 | Passing Me By | 5:03 |
+| D1 | Otha Fish | 5:21 |
+| D2 | Quinton's On The Way (Skit) | 2:09 |
+| D3 | Pack The Pipe | 5:03 |
+| D4 | Return Of The B-Boy | 3:33 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bizarre-ride-ii-the-pharcyde/1440913414" >}}<br>
 
 
-## Videos
-### The Pharcyde - 4 Better Or 4 Worse Official Music Video
-{{< youtube id="49PQ75u6WTQ" title="The Pharcyde - 4 Better Or 4 Worse Official Music Video" >}}<br>
-### More Videos
-
-- [The Pharcyde - Ya Mama Official Music Video](https://www.youtube.com/watch?v=lnCeZY6nxjQ)
-- [The Pharcyde - Passin Me By Official Music Video](https://www.youtube.com/watch?v=a-mAK3uB2_0)
-- [4 Better Or 4 Worse Interlude by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=VDieujZyzzM)
-- [Oh S by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=QdANlTrjXBg)
-- [Its Jigaboo Time Skit by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=emY7MNY3SIY)
-- [4 Better or 4 Worse  by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=kg8YrFgtznU)
-- [Im The Type of N by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=4h-Uh1jdKYg)
-- [If I Were President Skit by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=-s_u_A-PaNM)
-- [Soul Flower Remix by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=VlJvt_uSrb4)
-- [On The DL by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=Se2MfbzFJtc)
-- [Pack The Pipe by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=3jXYwF6hl-I)
-- [Officer by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=sby8NMiNlmo)
-- [Ya Mama by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=g3SZK9-PfZw)
-- [Passin Me By by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=UYN1ODw4wM8)
-- [Otha Fish by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=0ra4_t8kPXE)
-- [Quintons On The Way Skit by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=wh6WVMPrepY)
-- [Return of the B-Boy by The Pharcyde from Bizarre Ride II The Pharcyde](https://www.youtube.com/watch?v=4NR4b1bbls4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -94,5 +75,5 @@ Pharcyde cut a stark figure in the gangsta-rap-dominated ’90s: The members mig
 | Format         | Vinyl 2× LP Album Record Store Day Reissue Stereo (Clear w/Yellow & Purple Splatter) |
 | Label          | Craft Recordings |
 | Catalog Number | CR00018 |
-| Notes | On back cover, label side A & C and insert: ℗ & © 1992 Craft Recordings, A Division Of Concord Music Group, Inc. Made In The U.S.A.  Similar version: [r=11190558] is a 2017 reissue with yellow & blue translucent vinyl records. |
+| Notes | On back cover, label side A & C and insert:<br>℗ & © 1992 Craft Recordings, A Division Of Concord Music Group, Inc.<br>Made In The U.S.A.<br><br>Similar version:<br>[r=11190558] is a 2017 reissue with yellow & blue translucent vinyl records. |
 | Discogs URL    | [The Pharcyde - Bizarre Ride II The Pharcyde](https://www.discogs.com/release/25831636-The-Pharcyde-Bizarre-Ride-II-The-Pharcyde) |

@@ -4,6 +4,7 @@ artist_name: "Scott Walker"
 artist: "scott-walker"
 album_name: "Scott 4"
 date: 2018-03-07T19:22:05.000000Z
+release_date: "1981"
 release_id: "5758295"
 slug: "scott-4-5758295"
 hideSummary: true
@@ -26,37 +27,30 @@ styles: ["Vocal", "Ballad", "Pop Rock"]
 Scott 4 is Scott Walker's fifth  solo album. It was released in late 1969 under his birth name, Scott Engel, and failed to chart. Reissues have been released under his stage name. It has since received praise as one of Walker's best works.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Seventh Seal
-2. On Your Own Again
-3. The World's Strongest Man
-4. Angels Of Ashes
-5. Boy Child
-6. Hero Of The War
-7. The Old Man's Back Again (Dedicated To The Neo-Stalinist Regime)
-8. Duchess
-9. Get Behind Me
-10. Rhymes Of Goodbye
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Seventh Seal |  |
+| A2 | On Your Own Again |  |
+| A3 | The World's Strongest Man |  |
+| A4 | Angels Of Ashes |  |
+| A5 | Boy Child |  |
+| B1 | Hero Of The War |  |
+| B2 | The Old Man's Back Again (Dedicated To The Neo-Stalinist Regime) |  |
+| B3 | Duchess |  |
+| B4 | Get Behind Me |  |
+| B5 | Rhymes Of Goodbye |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/scott-walker-sings-jacques-brel/1444213513" >}}<br>
 
 
-## Videos
-### Scott Walker - The Seventh Seal
-{{< youtube id="jMUk1R_fKEA" title="Scott Walker - The Seventh Seal" >}}<br>
-### More Videos
-
-- [Scott Walker The Old Mans Back Again](https://www.youtube.com/watch?v=N-zgdGQB4S4)
-- [Scott Walker - Boy Child](https://www.youtube.com/watch?v=THPVTsenZxs)
-- [Scott Walker - Angels Of Ashes](https://www.youtube.com/watch?v=HYHp-w-1PJY)
-- [Rhymes Of Goodbye](https://www.youtube.com/watch?v=jI1-_LqC8Ok)
-- [Get Behind Me](https://www.youtube.com/watch?v=2Vr22rvFB-g)
-- [Duchess](https://www.youtube.com/watch?v=M7gMlpABItE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +62,5 @@ Scott 4 is Scott Walker's fifth  solo album. It was released in late 1969 under 
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Mercury |
 | Catalog Number | 3728852 |
-| Notes | Includes download code. Remastered 2013 from original analogue tapes. |
+| Notes | Includes download code.<br>Remastered 2013 from original analogue tapes. |
 | Discogs URL    | [Scott Walker - Scott 4](https://www.discogs.com/release/5758295-Scott-Walker-Scott-4) |

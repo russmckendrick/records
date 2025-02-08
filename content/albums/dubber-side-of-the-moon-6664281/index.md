@@ -4,6 +4,7 @@ artist_name: "Easy Star All-Stars"
 artist: "easy-star-all-stars"
 album_name: "Dubber Side Of The Moon"
 date: 2017-12-17T12:21:19.000000Z
+release_date: "2010-10-26"
 release_id: "6664281"
 slug: "dubber-side-of-the-moon-6664281"
 hideSummary: true
@@ -22,34 +23,29 @@ styles: ["Reggae", "Dub"]
 Dubber Side of the Moon is the second dub reggae tribute to the Pink Floyd album, The Dark Side of the Moon, by New York–based band Easy Star All-Stars.  The album features bass-heavy dub remixes by prominent dub producers of its predecessor, Easy Star Records' 2003 release Dub Side of the Moon.  Dubber Side of the Moon debuted at #2 on the Billboard Reggae charts.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Speak To Me / Breathe (In The Air) (3:52)
-2. On The Run (4:04)
-3. Time (5:46)
-4. The Great Gig In The Sky (5:06)
-5. Money (6:38)
-6. Us And Them (6:00)
-7. Any Colour You Like (4:04)
-8. Brain Damage (4:28)
-9. Eclipse (2:29)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Speak To Me / Breathe (In The Air) | 3:52 |
+| A2 | On The Run | 4:04 |
+| A3 | Time | 5:46 |
+| A4 | The Great Gig In The Sky | 5:06 |
+| B1 | Money | 6:38 |
+| B2 | Us And Them | 6:00 |
+| B3 | Any Colour You Like | 4:04 |
+| B4 | Brain Damage | 4:28 |
+| B5 | Eclipse | 2:29 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dubber-side-of-the-moon-bonus-track-version/393668042" >}}<br>
 
 
-## Videos
-### Brain Damage Adrian Sherwood and Jazzwad Remix
-{{< youtube id="XsCWT9QVK3A" title="Brain Damage Adrian Sherwood and Jazzwad Remix" >}}<br>
-### More Videos
-
-- [Easy Star All Stars - Brain Damage Adrian Sherwood  Jazzwad RemixPink Floyd](https://www.youtube.com/watch?v=Xnwz_L2ZKo0)
-- [EASY STAR ALL-STARS DUBBER SIDE OF THE MOON TRAILER](https://www.youtube.com/watch?v=waLrqTiltmQ)
-- [Easy Star All Stars - Money The Alchemist Remix](https://www.youtube.com/watch?v=azmdQp4MryE)
-- [Easy All-Stars - Dubber Side Of The Moon Full Album HQ](https://www.youtube.com/watch?v=CD_SkZpc6J0)
 
 ## Release Images
 {{< imageGrid >}}

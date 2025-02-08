@@ -4,6 +4,7 @@ artist_name: "Dropkick Murphys"
 artist: "dropkick-murphys"
 album_name: "This Machine Still Kills Fascists"
 date: 2022-11-14T05:22:20.000000Z
+release_date: "2023-01-13"
 release_id: "25013020"
 slug: "this-machine-still-kills-fascists-25013020"
 hideSummary: true
@@ -26,39 +27,32 @@ styles: ["Folk", "Acoustic"]
 ---
 
 This Machine Still Kills Fascists is the eleventh studio album by American band Dropkick Murphys and was released on September 30, 2022, on Dummy Luck Music. It marks the band's first studio album since Do or Die to not feature vocalist Al Barr, who was on hiatus from the band to take care of his ailing mother. It is the band's first acoustic and is composed of unused lyrics and words by Woody Guthrie.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Two 6's Upside Down (3:29)
-2. Talking Jukebox (3:14)
-3. Ten Times More (2:11)
-4. Never Git Drunk No More (3:26)
-5. All You Fonies (2:49)
-6. The Last One (3:34)
-7. Cadillac, Cadillac (2:53)
-8. Waters Are A'Risin (3:03)
-9. Where Trouble Is At (2:34)
-10. Dig A Hole (3:10)
-11. Bonus Track
-12. Never Git Drunk No More (Alternate Version)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Two 6's Upside Down | 3:29 |
+| A2 | Talking Jukebox | 3:14 |
+| A3 | Ten Times More | 2:11 |
+| A4 | Never Git Drunk No More | 3:26 |
+| A5 | All You Fonies | 2:49 |
+| B6 | The Last One | 3:34 |
+| B7 | Cadillac, Cadillac | 2:53 |
+| B8 | Waters Are A'Risin | 3:03 |
+| B9 | Where Trouble Is At | 2:34 |
+| B10 | Dig A Hole | 3:10 |
+|  | Bonus Track |  |
+| B11 | Never Git Drunk No More (Alternate Version) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-machine-still-kills-fascists-expanded-edition/1663331530" >}}<br>
 
 
-## Videos
-### Dropkick Murphys Two 6s Upside Down Music Video
-{{< youtube id="-5yrNwMWff0" title="Dropkick Murphys Two 6s Upside Down Music Video" >}}<br>
-### More Videos
-
-- [Dropkick Murphys All You Fonies Music Video](https://www.youtube.com/watch?v=kM2Cf6h0-rs)
-- [Dig A Hole feat Woody Guthrie](https://www.youtube.com/watch?v=kNaH6VfnB4Y)
-- [Never Git Drunk No More feat Nikki Lane](https://www.youtube.com/watch?v=rf63LeDTiOY)
-- [Talking Jukebox](https://www.youtube.com/watch?v=7Y7u4T37Scs)
-- [Where Trouble Is At](https://www.youtube.com/watch?v=2btpqK2Ss3s)
-- [Cadillac Cadillac](https://www.youtube.com/watch?v=n_GPhieZfqY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +64,5 @@ This Machine Still Kills Fascists is the eleventh studio album by American band 
 | Format         | Vinyl LP Album Limited Edition Stereo (Crystal) |
 | Label          | Dummy Luck Music |
 | Catalog Number | DLM002LPXC |
-| Notes | Indie store exclusive pressed on crystal vinyl  Catalog Number DLM002LPXC on sticker. Catalog DLM002LP on spine. Catalog DLM-002 on labels.  Songs are listed on the sleeve in track order and are not divided into sides |
+| Notes | Indie store exclusive pressed on crystal vinyl<br><br>Catalog Number DLM002LPXC on sticker. Catalog DLM002LP on spine. Catalog DLM-002 on labels.<br><br>Songs are listed on the sleeve in track order and are not divided into sides |
 | Discogs URL    | [Dropkick Murphys - This Machine Still Kills Fascists](https://www.discogs.com/release/25013020-Dropkick-Murphys-This-Machine-Still-Kills-Fascists) |

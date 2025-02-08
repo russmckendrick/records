@@ -52,32 +52,24 @@ Oakenfold and his Perfecto Records remix partner Steve Osborne were eventually a
 
 
 ## Tracklisting
-1. Kinky Afro
-2. God's Cop
-3. Donovan
-4. Grandbag's Funeral
-5. Loose Fit
-6. Dennis And Lois
-7. Bob's Yer Uncle
-8. Step On
-9. Holiday
-10. Harmony
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Kinky Afro |  |
+| A2 | God's Cop |  |
+| A3 | Donovan |  |
+| A4 | Grandbag's Funeral |  |
+| A5 | Loose Fit |  |
+| B1 | Dennis And Lois |  |
+| B2 | Bob's Yer Uncle |  |
+| B3 | Step On |  |
+| B4 | Holiday |  |
+| B5 | Harmony |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pills-n-thrills-and-bellyaches-remastered/1760421622" >}}<br>
 
 
-## Videos
-### Happy Mondays - Kinky Afro Official Video
-{{< youtube id="O8maBsuhHr4" title="Happy Mondays - Kinky Afro Official Video" >}}<br>
-### More Videos
-
-- [Happy Mondays - Pills n Thrills and Bellyaches Full Album 1990](https://www.youtube.com/watch?v=IbkrlClTQeA)
-- [HAPPY MONDAYS  Pills N Thrills And Bellyaches  1990  Full album  CD](https://www.youtube.com/watch?v=eTXRwbJls5w)
-- [Happy Mondays Pills N Thrills And Bellyaches Full Album](https://www.youtube.com/watch?v=ET5z5_IGpBk)
-- [Happy Mondays - Step On from the Pills N Thrills And Bellyaches album](https://www.youtube.com/watch?v=HA-xjJQRzJk)
-- [HAPPY MONDAYS pills n thrills and bellyachesFULL ALBUM](https://www.youtube.com/watch?v=y5FU31A3cKw)
-- [Happy Mondays - Channel 4s 100 Greatest Albums 2005 - Pills Thrills And Bellyaches](https://www.youtube.com/watch?v=agZN3xDm8Og)
 
 ## Release Images
 {{< imageGrid >}}
@@ -89,5 +81,5 @@ Oakenfold and his Perfecto Records remix partner Steve Osborne were eventually a
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue (Yellow) |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 60986 |
-| Notes | 25th Anniversary edition, released on Record Store Day 2015. Mastered from the original tapes on limited edition 180 gram yellow vinyl.  Published by London Music Ltd. except B3 published by Tapestry Music Ltd. © 1970 |
+| Notes | 25th Anniversary edition, released on Record Store Day 2015.<br>Mastered from the original tapes on limited edition 180 gram yellow vinyl.<br><br>Published by London Music Ltd.<br>except B3 published by Tapestry Music Ltd. © 1970 |
 | Discogs URL    | [Happy Mondays - Pills 'N' Thrills And Bellyaches](https://www.discogs.com/release/6913456-Happy-Mondays-Pills-N-Thrills-And-Bellyaches) |

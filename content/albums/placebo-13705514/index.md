@@ -4,6 +4,7 @@ artist_name: "Placebo"
 artist: "placebo"
 album_name: "Placebo"
 date: 2019-06-17T17:31:39.000000Z
+release_date: "2021-07-09"
 release_id: "13705514"
 slug: "placebo-13705514"
 hideSummary: true
@@ -28,46 +29,30 @@ Placebo is the debut studio album by British alternative rock band Placebo. It w
 The album was a commercial success in the UK, reaching number 5 in the UK Albums Chart. It spawned five singles, including "Nancy Boy" and "36 Degrees". The album was remastered and reissued in 2006 for its tenth anniversary, including demos and a DVD featuring live performances and music videos from the album.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Come Home
-2. Teenage Angst
-3. Bionic
-4. 36 Degrees
-5. Hang On To Your IQ
-6. Nancy Boy
-7. I Know
-8. Bruise Pristine
-9. Lady Of The Flowers
-10. Swallow
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Come Home |  |
+| A2 | Teenage Angst |  |
+| A3 | Bionic |  |
+| A4 | 36 Degrees |  |
+| A5 | Hang On To Your IQ |  |
+| B1 | Nancy Boy |  |
+| B2 | I Know |  |
+| B3 | Bruise Pristine |  |
+| B4 | Lady Of The Flowers |  |
+| B5 | Swallow |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/placebo-single/1572802845" >}}<br>
 
 
-## Videos
-### PLACEBO Bruise Pristine
-{{< youtube id="v6XhoHTDFSM" title="PLACEBO Bruise Pristine" >}}<br>
-### More Videos
-
-- [PLACEBO - Teenage Angst](https://www.youtube.com/watch?v=Fx5bfLI5slU)
-- [Placebo - Come Home](https://www.youtube.com/watch?v=KFnvkypksPI)
-- [Placebo - Teenage Angst](https://www.youtube.com/watch?v=SpEHT9blu_0)
-- [Placebo - Bionic](https://www.youtube.com/watch?v=YMpi6I0Rex8)
-- [Placebo - 36 Degrees](https://www.youtube.com/watch?v=f8CkTsDNGJI)
-- [Placebo - Hang on to your IQ](https://www.youtube.com/watch?v=_OWNqTkWl-Q)
-- [Placebo - Nancy Boy](https://www.youtube.com/watch?v=RbCvjxjGiKE)
-- [Placebo - I Know](https://www.youtube.com/watch?v=gGGWN2T-Nno)
-- [Placebo - Bruise Pristine](https://www.youtube.com/watch?v=3xMI6Ql_Ch0)
-- [Placebo - Lady of the Flowers](https://www.youtube.com/watch?v=gan1oKzVtiU)
-- [Placebo - Swallow](https://www.youtube.com/watch?v=eq0r8xD3ADs)
-- [Placebo - 36 Degrees](https://www.youtube.com/watch?v=f8CkTsDNGJI)
-- [PLACEBO - Nancy Boy](https://www.youtube.com/watch?v=PBxuq_eWW94)
-- [Placebo - I Know](https://www.youtube.com/watch?v=2wqlAfeC-Jc)
-- [Placebo - Bionic](https://www.youtube.com/watch?v=YMpi6I0Rex8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +64,5 @@ The album was a commercial success in the UK, reaching number 5 in the UK Albums
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | Elevator Music (4) |
 | Catalog Number | 6711042 |
-| Notes | Recorded at Westland Studios, Dublin, Republic of Ireland, in the spring of 1996, except Nancy Boy, recorded at Marcadet Stidios, Paris in November 1996. Made in the EU Riverman Management.  Gatefold sleeve. Opening inside. Printed glossy inner sleeve. A Blue Source Sleeve. |
+| Notes | Recorded at Westland Studios, Dublin, Republic of Ireland, in the spring of 1996, except Nancy Boy, recorded at Marcadet Stidios, Paris in November 1996.<br>Made in the EU<br>Riverman Management.<br><br>Gatefold sleeve. Opening inside. Printed glossy inner sleeve.<br>A Blue Source Sleeve. |
 | Discogs URL    | [Placebo - Placebo](https://www.discogs.com/release/13705514-Placebo-Placebo) |

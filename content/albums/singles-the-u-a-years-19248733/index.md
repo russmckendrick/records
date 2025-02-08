@@ -1,16 +1,17 @@
 ---
-title: "Dr. Feelgood - Singles (The U.A. Years+)"
-artist_name: "Dr. Feelgood"
+title: "Dr Feelgood - Singles (The U.A. Years+)"
+artist_name: "Dr Feelgood"
 artist: "dr-feelgood"
 album_name: "Singles (The U.A. Years+)"
 date: 2024-03-28T05:16:18.000000Z
+release_date: ""
 release_id: "19248733"
 slug: "singles-the-u-a-years-19248733"
 hideSummary: true
 cover:
     image: "singles-the-u-a-years-19248733.jpg"
-    alt: "Singles (The U.A. Years+) by Dr. Feelgood"
-    caption: "Singles (The U.A. Years+) by Dr. Feelgood"
+    alt: "Singles (The U.A. Years+) by Dr Feelgood"
+    caption: "Singles (The U.A. Years+) by Dr Feelgood"
 additional_images:
     - "https://i.discogs.com/wLGwiy4GRQFoAzewP5x_XyoTwesD7EBmHjoD22gZedE/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjQ4/NzMzLTE2MjQ0Njgx/OTMtOTI5Mi5qcGVn.jpeg"
     - "https://i.discogs.com/NSqjZYJgTfeNXH74yHFGK3aOtFRhNrjQR2BCJhnwH-o/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjQ4/NzMzLTE2MjQ0Njgy/MDMtNjU2OS5qcGVn.jpeg"
@@ -24,65 +25,45 @@ styles: ["Rhythm & Blues", "Pub Rock", "Rock & Roll"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Roxette
-2. She Does It Right
-3. Back In The Night
-4. Going Back Home
-5. Riot In Cell Block No. 9
-6. Sneakin' Suspicion
-7. She's A Wind Up
-8. Baby Jane
-9. Down At The Doctors
-10. Milk And Alcohol
-11. As Long As The Price Is Right
-12. Put Him Out Of Your Mind
-13. Hong Kong Money
-14. No Mo Do Yakamo
-15. Jumping From Love To Love
-16. Violent Love
-17. Waiting For Saturday Night
-18. Monkey
-19. Trying To Live My Life Without You
-20. Crazy About Girls
-21. My Way
-22. Mad Man Blues
-23. Don't Wait Up
-24. See You Later Alligator
-25. Hunting Shooting Fishing
-26. Milk And Alcohol... (New Recipe)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Roxette |  |
+| A2 | She Does It Right |  |
+| A3 | Back In The Night |  |
+| A4 | Going Back Home |  |
+| A5 | Riot In Cell Block No. 9 |  |
+| A6 | Sneakin' Suspicion |  |
+| B1 | She's A Wind Up |  |
+| B2 | Baby Jane |  |
+| B3 | Down At The Doctors |  |
+| B4 | Milk And Alcohol |  |
+| B5 | As Long As The Price Is Right |  |
+| B6 | Put Him Out Of Your Mind |  |
+| C1 | Hong Kong Money |  |
+| C2 | No Mo Do Yakamo |  |
+| C3 | Jumping From Love To Love |  |
+| C4 | Violent Love |  |
+| C5 | Waiting For Saturday Night |  |
+| C6 | Monkey |  |
+| C7 | Trying To Live My Life Without You |  |
+| D1 | Crazy About Girls |  |
+| D2 | My Way |  |
+| D3 | Mad Man Blues |  |
+| D4 | Don't Wait Up |  |
+| D5 | See You Later Alligator |  |
+| D6 | Hunting Shooting Fishing |  |
+| D7 | Milk And Alcohol... (New Recipe) |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Dr Feelgood - Roxette
-{{< youtube id="ab8IOxF2aG8" title="Dr Feelgood - Roxette" >}}<br>
-### More Videos
 
-- [Sneakin Suspicion 2002 Remaster](https://www.youtube.com/watch?v=mlruXOzvYIU)
-- [Baby Jane 2002 Remaster](https://www.youtube.com/watch?v=-eIRcE0xx0Q)
-- [Dr Feelgood - Milk and Alcohol](https://www.youtube.com/watch?v=a4IjrjMbmC4)
-- [As Long as the Price Is Right 2002 Remaster](https://www.youtube.com/watch?v=C026VSStbqA)
-- [Dr  Feelgood  Put Him Out Of Your Mind](https://www.youtube.com/watch?v=Cn643CO0EvM)
-- [DrFeelgood Hong Kong Money](https://www.youtube.com/watch?v=PM4ITLY6Zco)
-- [DR FEELGOOD -  Trying To Live My Life Without You](https://www.youtube.com/watch?v=DapXc6OHJkA)
-- [Dr Feelgood - She Does It Right](https://www.youtube.com/watch?v=VilmdZl7mBg)
-- [Dr Feelgood - Back In The Night](https://www.youtube.com/watch?v=IiS791LhMyQ)
-- [Dr Feelgood - Going Back Home](https://www.youtube.com/watch?v=F1Tc9vV1COQ)
-- [Dr Feelgood - Riot in Cell Block No 9](https://www.youtube.com/watch?v=jPDis9bkWkQ)
-- [DrFeelgood-Shes a Windup ](https://www.youtube.com/watch?v=zp3HaRFFi_Q)
-- [Dr Feelgood - Down At The Doctors with lyrics](https://www.youtube.com/watch?v=xM0B7cXLnZs)
-- [Dr Feelgood - No Mo Do Yakamo](https://www.youtube.com/watch?v=xzzQdwMrOd4)
-- [Dr  Feelgood  Jumping From Love To Love](https://www.youtube.com/watch?v=L1lbjhc1IUc)
-- [Dr  Feelgood  Violent Love](https://www.youtube.com/watch?v=S-gsdJJcs7g)
-- [Dr Feelgood  - Waiting for Saturday night](https://www.youtube.com/watch?v=pZvAaR3_7VQ)
-- [Dr Feelgood - Monkey](https://www.youtube.com/watch?v=BhE6hZqEg3c)
-- [Crazy About Girls](https://www.youtube.com/watch?v=oKulN4PhxrE)
-- [Dr  Feelgood - My Way](https://www.youtube.com/watch?v=mFHbHYIrUGo)
-- [Dr Feelgood - Mad Man Blues](https://www.youtube.com/watch?v=7cL9KeNrTdI)
-- [See You Later Alligator](https://www.youtube.com/watch?v=Mym7-Fvfc1A)
-- [Hunting Shooting Fishing](https://www.youtube.com/watch?v=aCbBOdSzMkU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -93,5 +74,5 @@ styles: ["Rhythm & Blues", "Pub Rock", "Rock & Roll"]
 | Format         | Vinyl 2× LP Compilation Reissue Stereo Mono (Multi-Coloured [Recycled]) |
 | Label          | Parlophone |
 | Catalog Number | EM 1332 |
-| Notes | Pressed using recycled coloured vinyl pellets, making each record unique.  This edition was exclusive to Dig! Records (thisisdig.com) and was issued unsealed, in a Dig! branded brown paper bag.  A1 & A2: Mono A3 to D7: Stereo |
-| Discogs URL    | [Dr. Feelgood - Singles (The U.A. Years+)](https://www.discogs.com/release/19248733-Dr-Feelgood-Singles-The-UA-Years) |
+| Notes | Pressed using recycled coloured vinyl pellets, making each record unique. <br>This edition was exclusive to Dig! Records (thisisdig.com) and was issued unsealed, in a Dig! branded brown paper bag.<br><br>A1 & A2: Mono<br>A3 to D7: Stereo |
+| Discogs URL    | [Dr Feelgood - Singles (The U.A. Years+)](https://www.discogs.com/release/19248733-Dr-Feelgood-Singles-The-UA-Years) |

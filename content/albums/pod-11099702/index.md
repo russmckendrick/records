@@ -36,39 +36,26 @@ The album opened up space for a wave of female-centric indie-rock bands that han
 
 
 ## Tracklisting
-1. Glorious
-2. Doe
-3. Happiness Is A Warm Gun
-4. Oh!
-5. Hellbound
-6. When I Was A Painter
-7. Fortunately Gone
-8. Iris
-9. Opened
-10. Only In 3's
-11. Lime House
-12. Metal Man
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Glorious |  |
+| A2 | Doe |  |
+| A3 | Happiness Is A Warm Gun |  |
+| A4 | Oh! |  |
+| A5 | Hellbound |  |
+| A6 | When I Was A Painter |  |
+| B7 | Fortunately Gone |  |
+| B8 | Iris |  |
+| B9 | Opened |  |
+| B10 | Only In 3's |  |
+| B11 | Lime House |  |
+| B12 | Metal Man |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pod/310996771" >}}<br>
 
 
-## Videos
-### Glorious
-{{< youtube id="OSwgWt0UNgE" title="Glorious" >}}<br>
-### More Videos
-
-- [Doe](https://www.youtube.com/watch?v=wANv31sHYrk)
-- [Happiness Is A Warm Gun](https://www.youtube.com/watch?v=LoIyUl10ChQ)
-- [Oh](https://www.youtube.com/watch?v=53sd3y2m1uU)
-- [Hellbound](https://www.youtube.com/watch?v=vByo-9H5xBs)
-- [When I Was A Painter](https://www.youtube.com/watch?v=3Pe9LS65yM4)
-- [Fortunately Gone](https://www.youtube.com/watch?v=9eFufqZ_wBI)
-- [Iris](https://www.youtube.com/watch?v=BjNkwC59tp4)
-- [Opened](https://www.youtube.com/watch?v=wFMxXEcATxk)
-- [Only In 3s](https://www.youtube.com/watch?v=6LM6hA4NyO8)
-- [Lime House](https://www.youtube.com/watch?v=fjsELVfqFFw)
-- [Metal Man](https://www.youtube.com/watch?v=9S-V1LxNccI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +67,5 @@ The album opened up space for a wave of female-centric indie-rock bands that han
 | Format         | Vinyl LP Album Reissue |
 | Label          | 4AD |
 | Catalog Number | CAD 0006 |
-| Notes | Includes a printed inner sleeve. Track positions are sequentially listed as 1 to 12 across sides.  Recorded at Palladium Studios, Edinburgh, Scotland. Thanks to Carl Haarer, Mickey Bones, David Narcizo and Gary Smith, Paul Kolderie, Joe Harvard at Ford Apache.  Made in the EU  Josephine Wiggs courtesy of [l2051].  EMI Music Publishing Ltd. except A3 Sony / ATV Music Publishing (UK) Ltd.  ℗ & © 1990 4AD Ltd. |
+| Notes | Includes a printed inner sleeve.<br>Track positions are sequentially listed as 1 to 12 across sides.<br><br>Recorded at Palladium Studios, Edinburgh, Scotland.<br>Thanks to Carl Haarer, Mickey Bones, David Narcizo and Gary Smith, Paul Kolderie, Joe Harvard at Ford Apache.<br><br>Made in the EU<br><br>Josephine Wiggs courtesy of [l2051].<br><br>EMI Music Publishing Ltd. except A3 Sony / ATV Music Publishing (UK) Ltd.<br><br>℗ & © 1990 4AD Ltd. |
 | Discogs URL    | [The Breeders - Pod](https://www.discogs.com/release/11099702-The-Breeders-Pod) |

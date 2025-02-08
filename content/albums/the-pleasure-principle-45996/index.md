@@ -4,6 +4,7 @@ artist_name: "Gary Numan"
 artist: "gary-numan"
 album_name: "The Pleasure Principle"
 date: 2016-01-13T10:27:40.000000Z
+release_date: "2010-10-18"
 release_id: "45996"
 slug: "the-pleasure-principle-45996"
 hideSummary: true
@@ -23,54 +24,30 @@ styles: ["Synth-pop", "New Wave"]
 ---
 
 The Pleasure Principle is the debut solo studio album by the English new wave musician Gary Numan, released on 7 September 1979 by Beggars Banquet Records. The album came about six months after Replicas (1979), his second and final studio album with the band Tubeway Army. The Pleasure Principle peaked at No. 1 on the UK Albums Chart.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Airlane (3:18)
-2. Metal (3:33)
-3. Complex (3:14)
-4. Films (4:09)
-5. M.E. (5:37)
-6. Tracks (2:52)
-7. Observer (2:53)
-8. Conversation (7:38)
-9. Cars (3:53)
-10. Engineers (4:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Airlane | 3:18 |
+| A2 | Metal | 3:33 |
+| A3 | Complex | 3:14 |
+| A4 | Films | 4:09 |
+| A5 | M.E. | 5:37 |
+| B1 | Tracks | 2:52 |
+| B2 | Observer | 2:53 |
+| B3 | Conversation | 7:38 |
+| B4 | Cars | 3:53 |
+| B5 | Engineers | 4:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-pleasure-principle-live/404842205" >}}<br>
 
 
-## Videos
-### Gary Numan - Cars HD
-{{< youtube id="Im3JzxlatUs" title="Gary Numan - Cars HD" >}}<br>
-### More Videos
-
-- [Airlane Remastered 2009](https://www.youtube.com/watch?v=4Kv0yLg4LBQ)
-- [Metal Remastered 2009](https://www.youtube.com/watch?v=ZmZ6_tbLgXM)
-- [Complex](https://www.youtube.com/watch?v=QKAb_J_NGyQ)
-- [Films Remastered 2009](https://www.youtube.com/watch?v=6HbIGk6zH_k)
-- [ME Remastered 2009](https://www.youtube.com/watch?v=-C_ijHitM-Q)
-- [Tracks Remastered 2009](https://www.youtube.com/watch?v=uTgDYuOmUW0)
-- [Observer Remastered 2009](https://www.youtube.com/watch?v=iOwiOhBusgs)
-- [Conversation Remastered 2009](https://www.youtube.com/watch?v=7_kIjBaxhO0)
-- [Cars Remastered 2009](https://www.youtube.com/watch?v=LrjM8Fi7J58)
-- [Engineers Remastered 2009](https://www.youtube.com/watch?v=qW2DML0OCOM)
-- [Gary Numan - Cars HD](https://www.youtube.com/watch?v=Im3JzxlatUs)
-- [Airlane Remastered 2009](https://www.youtube.com/watch?v=4Kv0yLg4LBQ)
-- [Metal Remastered 2009](https://www.youtube.com/watch?v=ZmZ6_tbLgXM)
-- [Complex](https://www.youtube.com/watch?v=QKAb_J_NGyQ)
-- [Films Remastered 2009](https://www.youtube.com/watch?v=6HbIGk6zH_k)
-- [ME Remastered 2009](https://www.youtube.com/watch?v=-C_ijHitM-Q)
-- [Tracks Remastered 2009](https://www.youtube.com/watch?v=uTgDYuOmUW0)
-- [Observer Remastered 2009](https://www.youtube.com/watch?v=iOwiOhBusgs)
-- [Conversation Remastered 2009](https://www.youtube.com/watch?v=7_kIjBaxhO0)
-- [Cars Remastered 2009](https://www.youtube.com/watch?v=LrjM8Fi7J58)
-- [Engineers Remastered 2009](https://www.youtube.com/watch?v=qW2DML0OCOM)
-- [Gary Numans The Pleasure Principle - No Chords Allowed](https://www.youtube.com/watch?v=sroBbbiBbi4)
-- [Airlane Remastered 2009](https://www.youtube.com/watch?v=4Kv0yLg4LBQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +59,5 @@ The Pleasure Principle is the debut solo studio album by the English new wave mu
 | Format         | Vinyl LP Album Stereo |
 | Label          | Beggars Banquet |
 | Catalog Number | BEGA 10 |
-| Notes | Comes with a printed inner sleeve (rounded corners) containing album lyrics on one side and band picture on the other.  ℗ 1979 Beggars Banquet. © 1979 A Beggars Banquet Recording. All songs © 1979  Distributed by WEA Records Ltd. A Warner Communications Company.  All titles:- Beggars Banquet / Andrew Heath Music Ltd. |
+| Notes | Comes with a printed inner sleeve (rounded corners) containing album lyrics on one side and band picture on the other.<br><br>℗ 1979 Beggars Banquet.<br>© 1979 A Beggars Banquet Recording.<br>All songs © 1979<br><br>Distributed by WEA Records Ltd. A Warner Communications Company.<br><br>All titles:- Beggars Banquet / Andrew Heath Music Ltd. |
 | Discogs URL    | [Gary Numan - The Pleasure Principle](https://www.discogs.com/release/45996-Gary-Numan-The-Pleasure-Principle) |

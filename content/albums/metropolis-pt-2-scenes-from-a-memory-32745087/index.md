@@ -4,6 +4,7 @@ artist_name: "Dream Theater"
 artist: "dream-theater"
 album_name: "Metropolis Pt. 2: Scenes From A Memory"
 date: 2025-01-10T02:04:27.000000Z
+release_date: ""
 release_id: "32745087"
 slug: "metropolis-pt-2-scenes-from-a-memory-32745087"
 hideSummary: true
@@ -31,28 +32,30 @@ For the album's twentieth anniversary, the band performed the album live in its 
 On June 24, 2024, it was announced that the album would receive a novel adaptation, with Peter Orullian as the author. It is set to be released on October 26, 2024, coinciding with the album's 25th anniversary.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Regression (2:06)
-2. Overture 1928 (3:37)
-3. Strange Deja Vu (5:12)
-4. Through My Words (1:02)
-5. Fatal Tragedy (6:49)
-6. Beyond This Life (11:22)
-7. Through Her Eyes (5:29)
-8. Home (12:53)
-9. The Dance Of Eternity (6:13)
-10. One Last Time (3:46)
-11. The Spirit Carries On (6:38)
-12. Finally Free (12:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Regression | 2:06 |
+| A2 | Overture 1928 | 3:37 |
+| A3 | Strange Deja Vu | 5:12 |
+| A4 | Through My Words | 1:02 |
+| A5 | Fatal Tragedy | 6:49 |
+| B1 | Beyond This Life | 11:22 |
+| B2 | Through Her Eyes | 5:29 |
+| C1 | Home | 12:53 |
+| C2 | The Dance Of Eternity | 6:13 |
+| C3 | One Last Time | 3:46 |
+| D1 | The Spirit Carries On | 6:38 |
+| D2 | Finally Free | 12:00 |
 
 
-## Spotify
-{{< spotify type="album" id="1QZi8laY96nhaeGSklvN4D" width="100%" height="500" >}}<br>
-
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 

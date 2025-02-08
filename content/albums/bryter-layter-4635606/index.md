@@ -4,6 +4,7 @@ artist_name: "Nick Drake"
 artist: "nick-drake"
 album_name: "Bryter Layter"
 date: 2015-08-09T08:36:29.000000Z
+release_date: "1971-03-05"
 release_id: "4635606"
 slug: "bryter-layter-4635606"
 hideSummary: true
@@ -28,32 +29,30 @@ styles: ["Folk Rock"]
 Bryter Layter is the second studio album by English folk singer-songwriter Nick Drake. Recorded in 1970 and released on 5 March 1971 by Island Records, it was his last album to feature backing musicians, as his next and final studio album, Pink Moon, had Drake perform all songs solo.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Introduction (1:33)
-2. Hazey Jane II (3:41)
-3. At The Chime Of A City Clock (4:42)
-4. One Of These Things First (4:46)
-5. Hazey Jane I (4:24)
-6. Bryter Layter (3:16)
-7. Fly (2:56)
-8. Poor Boy (6:30)
-9. Northern Sky (3:42)
-10. Sunday (3:39)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Introduction | 1:33 |
+| A2 | Hazey Jane II | 3:41 |
+| A3 | At The Chime Of A City Clock | 4:42 |
+| A4 | One Of These Things First | 4:46 |
+| A5 | Hazey Jane I | 4:24 |
+| B1 | Bryter Layter | 3:16 |
+| B2 | Fly | 2:56 |
+| B3 | Poor Boy | 6:30 |
+| B4 | Northern Sky | 3:42 |
+| B5 | Sunday | 3:39 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bryter-layter/1704061160" >}}<br>
 
 
-## Videos
-### Nick Drake - Bryter Layter - side 1
-{{< youtube id="aOh6iKpi3bE" title="Nick Drake - Bryter Layter - side 1" >}}<br>
-### More Videos
-
-- [Nick Drake - Bryter Layter - side 2](https://www.youtube.com/watch?v=dT7IwXyD2Co)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +64,5 @@ Bryter Layter is the second studio album by English folk singer-songwriter Nick 
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 g, Textured Sleeve) |
 | Label          | Island Records |
 | Catalog Number | 0602537347551 |
-| Notes | ℗ 2013 Island Records Ltd. © 1970 Island Records Ltd. A Universal Music company. Made in the EU.  Includes a printed inner sleeve, a sticker on front shrink and a coupon with choice of download format: -24 bit / 96 kHz FLAC -24 bit / 96 kHz 320 Kbps MP3 -"Dubbed From Disc" 320 Kbps MP3  Adam Nunn's credit does not appear on release. Universal Music Group International appears on sticker and coupon only.  Cut from a tape-copy of original masters.  All the runout information on both sides is etched. The number "5" is inverted on variant 2's side B runout information. |
+| Notes | ℗ 2013 Island Records Ltd. © 1970 Island Records Ltd. A Universal Music company.<br>Made in the EU.<br><br>Includes a printed inner sleeve, a sticker on front shrink and a coupon with choice of download format:<br>-24 bit / 96 kHz FLAC<br>-24 bit / 96 kHz 320 Kbps MP3<br>-"Dubbed From Disc" 320 Kbps MP3<br><br>Adam Nunn's credit does not appear on release.<br>Universal Music Group International appears on sticker and coupon only.<br><br>Cut from a tape-copy of original masters.<br><br>All the runout information on both sides is etched. The number "5" is inverted on variant 2's side B runout information. |
 | Discogs URL    | [Nick Drake - Bryter Layter](https://www.discogs.com/release/4635606-Nick-Drake-Bryter-Layter) |

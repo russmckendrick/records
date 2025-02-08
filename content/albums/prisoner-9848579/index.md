@@ -30,31 +30,26 @@ styles: ["Indie Rock", "Pop Rock", "Country Rock"]
 
 
 ## Tracklisting
-1. Do You Still Love Me?
-2. Prisoner
-3. Doomsday
-4. Haunted House
-5. Shiver and Shake
-6. To Be Without You
-7. Anything I Say To You Now
-8. Breakdown
-9. Outbound Train
-10. Broken Anyway
-11. Tightrope
-12. We Disappear
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Do You Still Love Me? |  |
+| A2 | Prisoner |  |
+| A3 | Doomsday |  |
+| A4 | Haunted House |  |
+| A5 | Shiver and Shake |  |
+| A6 | To Be Without You |  |
+| B1 | Anything I Say To You Now |  |
+| B2 | Breakdown |  |
+| B3 | Outbound Train |  |
+| B4 | Broken Anyway |  |
+| B5 | Tightrope |  |
+| B6 | We Disappear |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/prisoner/1440888762" >}}<br>
 
 
-## Videos
-### Ryan Adams - Do You Still Love Me Audio
-{{< youtube id="U-qfQcJveDw" title="Ryan Adams - Do You Still Love Me Audio" >}}<br>
-### More Videos
-
-- [Ryan Adams - Prisoner NRK P3](https://www.youtube.com/watch?v=kmCuj5xYa2s)
-- [Ryan Adams - Doomsday Audio](https://www.youtube.com/watch?v=p0F5cYTrKOI)
-- [Ryan Adams - To Be Without You Audio](https://www.youtube.com/watch?v=r-MgXtelSYQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +61,5 @@ styles: ["Indie Rock", "Pop Rock", "Country Rock"]
 | Format         | Vinyl LP Album Stereo |
 | Label          | Pax Americana Record Company |
 | Catalog Number | PAX-AM 058 |
-| Notes | Includes a download card (MP3 and WAV). Comes with a full colour insert that has lyrics and credits.  All tracks ℗2017 except A1 and A6 ℗2016 Paxamericana Recording Company under exclusive license to Blue Note. ©2017 Paxamericana Recording Company under exclusive license to Blue Note.  All songs [...] ©2017 Barland Music administered by BMG Rights Management, LLC (ASCAP) except A1 [...] ©2016 Barland Music administered by BMG Rights Management, LLC (ASCAP) / It All Works Music administered by Wixen Music Publishing (ASCAP) and A2 [...] ©2017 Barland Music administered by BMG Rights Management, LLC (ASCAP) / Urban Birdsongs Music administered by EMI Sony ATV (ASCAP)  1st Cat # - Labels, rear cover 2nd Cat # - labels 3rd Cat # - Rear cover, spine  Runouts are etched except for "P. USA" and "-42229-" which are stamped. |
+| Notes | Includes a download card (MP3 and WAV).<br>Comes with a full colour insert that has lyrics and credits.<br><br>All tracks ℗2017 except A1 and A6 ℗2016 Paxamericana Recording Company under exclusive license to Blue Note.<br>©2017 Paxamericana Recording Company under exclusive license to Blue Note.<br><br>All songs [...] ©2017 Barland Music administered by BMG Rights Management, LLC (ASCAP) except A1 [...] ©2016 Barland Music administered by BMG Rights Management, LLC (ASCAP) / It All Works Music administered by Wixen Music Publishing (ASCAP) and A2 [...] ©2017 Barland Music administered by BMG Rights Management, LLC (ASCAP) / Urban Birdsongs Music administered by EMI Sony ATV (ASCAP)<br><br>1st Cat # - Labels, rear cover<br>2nd Cat # - labels<br>3rd Cat # - Rear cover, spine<br><br>Runouts are etched except for "P. USA" and "-42229-" which are stamped. |
 | Discogs URL    | [Ryan Adams - Prisoner](https://www.discogs.com/release/9848579-Ryan-Adams-Prisoner) |

@@ -1,7 +1,7 @@
 ---
-title: "R.E.M. - New Adventures In Hi-Fi"
-artist_name: "R.E.M."
-artist: "r-e-m"
+title: "REM - New Adventures In Hi-Fi"
+artist_name: "REM"
+artist: "rem"
 album_name: "New Adventures In Hi-Fi"
 date: 2021-11-11T09:23:10.000000Z
 release_date: "1996-09-10"
@@ -10,8 +10,8 @@ slug: "new-adventures-in-hi-fi-20712988"
 hideSummary: true
 cover:
     image: "new-adventures-in-hi-fi-20712988.jpg"
-    alt: "New Adventures In Hi-Fi by R.E.M."
-    caption: "New Adventures In Hi-Fi by R.E.M."
+    alt: "New Adventures In Hi-Fi by REM"
+    caption: "New Adventures In Hi-Fi by REM"
 additional_images:
     - "https://i.discogs.com/yS1Ru2ebTwA0359wZwQUKjP4kp_Zz_D-xj0MzvbnPHs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzEy/OTg4LTE2MzU1MDcy/MzAtMjc1My5qcGVn.jpeg"
     - "https://i.discogs.com/LrTFS5k7sD2wPGFktZwk_OIKG7VC0c9fo8zU7SLMXzI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzEy/OTg4LTE2MzU4NDk3/MTUtOTQ1Mi5qcGVn.jpeg"
@@ -47,34 +47,28 @@ Unlike R.E.M.’s previous five albums, <i>New Adventures in Hi-Fi</i> didn’t 
 
 
 ## Tracklisting
-1. How The West Was Won And Where It Got Us (4:30)
-2. The Wake-up Bomb (5:07)
-3. New Test Leper (5:25)
-4. Undertow (5:08)
-5. E-bow The Letter (5:22)
-6. Leave (7:17)
-7. Departure (3:27)
-8. Bittersweet Me (4:06)
-9. Be Mine (5:32)
-10. Binky The Doormat (5:00)
-11. Zither (2:33)
-12. So Fast, So Numb (4:11)
-13. Low Desert (3:30)
-14. Electrolite (4:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | How The West Was Won And Where It Got Us | 4:30 |
+| A2 | The Wake-up Bomb | 5:07 |
+| A3 | New Test Leper | 5:25 |
+| B1 | Undertow | 5:08 |
+| B2 | E-bow The Letter | 5:22 |
+| B3 | Leave | 7:17 |
+| C1 | Departure | 3:27 |
+| C2 | Bittersweet Me | 4:06 |
+| C3 | Be Mine | 5:32 |
+| C4 | Binky The Doormat | 5:00 |
+| D1 | Zither | 2:33 |
+| D2 | So Fast, So Numb | 4:11 |
+| D3 | Low Desert | 3:30 |
+| D4 | Electrolite | 4:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/new-adventures-in-hi-fi/1440951221" >}}<br>
 
 
-## Videos
-### REM - E-Bow The Letter Official Music Video feat Patti Smith
-{{< youtube id="5cnIQHJ169s" title="REM - E-Bow The Letter Official Music Video feat Patti Smith" >}}<br>
-### More Videos
-
-- [REM - How The West Was Won And Where It Got Us Official Music Video](https://www.youtube.com/watch?v=9BC07l2_zKU)
-- [REM - Electrolite Official Music Video](https://www.youtube.com/watch?v=1LewYq40Svw)
-- [REM - Leave Official Audio](https://www.youtube.com/watch?v=tXj6_-UwkOU)
-- [REM - New Test Leper Official Music Video](https://www.youtube.com/watch?v=_c_Yg8azAi0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +80,5 @@ Unlike R.E.M.’s previous five albums, <i>New Adventures in Hi-Fi</i> didn’t 
 | Format         | Vinyl 2× LP Album Reissue Remastered (25th Anniversary ) |
 | Label          | Craft Recordings |
 | Catalog Number | 888072245457 |
-| Notes | 25th Anniversary Edition.  ℗ 2021 & © 1996 R.E.M./Athens. Ltd. Under exclusive license to Craft Recordings.  Made in the EU.  Some copies from the REM webstore came with a numbered Artprint pencil numbered xxx/600. The print is signed 'CB', possibly Chris Bilheimer. |
-| Discogs URL    | [R.E.M. - New Adventures In Hi-Fi](https://www.discogs.com/release/20712988-REM-New-Adventures-In-Hi-Fi) |
+| Notes | 25th Anniversary Edition.<br><br>℗ 2021 & © 1996 R.E.M./Athens. Ltd. Under exclusive license to Craft Recordings.<br><br>Made in the EU.<br><br>Some copies from the REM webstore came with a numbered Artprint pencil numbered xxx/600. The print is signed 'CB', possibly Chris Bilheimer. |
+| Discogs URL    | [REM - New Adventures In Hi-Fi](https://www.discogs.com/release/20712988-REM-New-Adventures-In-Hi-Fi) |

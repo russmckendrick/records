@@ -4,6 +4,7 @@ artist_name: "The Beta Band"
 artist: "the-beta-band"
 album_name: "The Patty Patty Sound"
 date: 2016-02-19T17:28:46.000000Z
+release_date: "2024-10-18"
 release_id: "7427082"
 slug: "the-patty-patty-sound-7427082"
 hideSummary: true
@@ -26,30 +27,24 @@ The track "Monolith" features a manipulated sample of "Dry The Rain" from the E.
 The Patty Patty Sound, along with the other two original E.P.s from The Beta Band, long out of print on vinyl were re-issued as part of Record Store Day 2013.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Inner Meets Me
-2. The House Song
-3. The Monolith
-4. She's The One
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Inner Meets Me |  |
+| A2 | The House Song |  |
+| B1 | The Monolith |  |
+| B2 | She's The One |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/its-officially-christmas-the-double-album/1774094610" >}}<br>
 
 
-## Videos
-### Beta Band-Shes The One For Me
-{{< youtube id="fh9yn5zxAXw" title="Beta Band-Shes The One For Me" >}}<br>
-### More Videos
-
-- [The Beta Band - Inner Meet Me](https://www.youtube.com/watch?v=eyRu0b7nnNc)
-- [The Beta Band - The House Song](https://www.youtube.com/watch?v=PihMXJ2lKCs)
-- [The Beta Band - 07 Monolith](https://www.youtube.com/watch?v=xeUVbfPIPhU)
-- [The Beta Band - Inner Meet Me](https://www.youtube.com/watch?v=eyRu0b7nnNc)
-- [Beta Band-Shes The One For Me](https://www.youtube.com/watch?v=fh9yn5zxAXw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +56,5 @@ The Patty Patty Sound, along with the other two original E.P.s from The Beta Ban
 | Format         | Vinyl 12" 33 ⅓ RPM EP Repress (180 g) |
 | Label          | Regal |
 | Catalog Number | REGS 18 |
-| Notes | 180gm pressing. MP3 download voucher. Spine reads "Supreme Food And Wine"  ℗ 1998 The copyright in these sound recordings is owned by Parlophone Records Ltd. © 2013 Parlophone Records Ltd., A Warner Group Company. Made in EU. 0825646092017. REGS 18. |
+| Notes | 180gm pressing. MP3 download voucher.<br>Spine reads "Supreme Food And Wine"<br><br>℗ 1998 The copyright in these sound recordings is owned by Parlophone Records Ltd.<br>© 2013 Parlophone Records Ltd., A Warner Group Company. Made in EU. 0825646092017. REGS 18. |
 | Discogs URL    | [The Beta Band - The Patty Patty Sound](https://www.discogs.com/release/7427082-The-Beta-Band-The-Patty-Patty-Sound) |

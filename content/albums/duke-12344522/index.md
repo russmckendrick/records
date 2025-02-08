@@ -4,6 +4,7 @@ artist_name: "Genesis"
 artist: "genesis"
 album_name: "Duke"
 date: 2020-06-01T13:34:46.000000Z
+release_date: "2023-02-24"
 release_id: "12344522"
 slug: "duke-12344522"
 hideSummary: true
@@ -26,31 +27,31 @@ Duke is the tenth studio album by English rock band Genesis, released on 28 Marc
 Duke was positively received by music critics, who praised the album for bridging the band's progressive rock-oriented past, such as the closing ten-minute "Duke's Travels"/"Duke's End" suite, with their more pop rock-oriented, commercially accessible direction, as displayed on the hit singles "Turn It On Again", "Duchess", and "Misunderstanding". It reached No. 11 in the US, and became their first album to reach No. 1 in the UK. It has since been certified Platinum in both countries.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Behind The Lines
-2. Duchess
-3. Guide Vocal
-4. Man Of Our Times
-5. Misunderstanding
-6. Heathaze
-7. Turn It On Again
-8. Alone Tonight
-9. Cul-De-Sac
-10. Please Don't Ask
-11. Duke's Travels
-12. Duke's End
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Behind The Lines |  |
+| A2 | Duchess |  |
+| A3 | Guide Vocal |  |
+| A4 | Man Of Our Times |  |
+| A5 | Misunderstanding |  |
+| A6 | Heathaze |  |
+| B1 | Turn It On Again |  |
+| B2 | Alone Tonight |  |
+| B3 | Cul-De-Sac |  |
+| B4 | Please Don't Ask |  |
+| B5 | Duke's Travels |  |
+| B6 | Duke's End |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/genesis-drop-single/1662502516" >}}<br>
 
-
-## Videos
-### Genesis - Dukes Travels Official Audio
-{{< youtube id="n3IarAnJOHg" title="Genesis - Dukes Travels Official Audio" >}}<br>
 
 
 ## Release Images
@@ -63,5 +64,5 @@ Duke was positively received by music critics, who praised the album for bridgin
 | Format         | Vinyl LP Album Reissue |
 | Label          | Charisma |
 | Catalog Number | 6748978 |
-| Notes | Gatefold sleeve. Comes with a download card. |
+| Notes | Gatefold sleeve.<br>Comes with a download card. |
 | Discogs URL    | [Genesis - Duke](https://www.discogs.com/release/12344522-Genesis-Duke) |

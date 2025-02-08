@@ -75,34 +75,26 @@ When Def Leppard arrived at the follow-up to their mega-selling third album, 198
 
 
 ## Tracklisting
-1. Women (5:41)
-2. Rocket (6:34)
-3. Animal (4:02)
-4. Love Bites (5:46)
-5. Pour Some Sugar On Me (4:25)
-6. Armageddon It (5:21)
-7. Gods Of War (6:33)
-8. Don't Shoot Shotgun (4:26)
-9. Run Riot (4:39)
-10. Hysteria (5:49)
-11. Excitable (4:19)
-12. Love And Affection (4:35)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Women | 5:41 |
+| A2 | Rocket | 6:34 |
+| A3 | Animal | 4:02 |
+| B1 | Love Bites | 5:46 |
+| B2 | Pour Some Sugar On Me | 4:25 |
+| B3 | Armageddon It | 5:21 |
+| C1 | Gods Of War | 6:33 |
+| C2 | Don't Shoot Shotgun | 4:26 |
+| C3 | Run Riot | 4:39 |
+| D1 | Hysteria | 5:49 |
+| D2 | Excitable | 4:19 |
+| D3 | Love And Affection | 4:35 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hysteria/1440903625" >}}<br>
 
 
-## Videos
-### Def Leppard - Hysteria Long Version
-{{< youtube id="yMzyleT2FqY" title="Def Leppard - Hysteria Long Version" >}}<br>
-### More Videos
-
-- [DEF LEPPARD - Pour Some Sugar On Me Official Music Video](https://www.youtube.com/watch?v=0UIB9Y4OFPs)
-- [DEF LEPPARD - Women Official Music Video](https://www.youtube.com/watch?v=4HR0P3sIb80)
-- [DEF LEPPARD - Armageddon It Official Music Video](https://www.youtube.com/watch?v=urNFQw8VIvA)
-- [Def Leppard - Love Bites](https://www.youtube.com/watch?v=W4XiSFyYRE8)
-- [Def Leppard - Rocket](https://www.youtube.com/watch?v=bpcc43NV394)
-- [CD  Def Leppard  Hysteria  1987](https://www.youtube.com/watch?v=pqOz5oodPJE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -114,5 +106,5 @@ When Def Leppard arrived at the follow-up to their mega-selling third album, 198
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Orange Translucent, 180 gram) |
 | Label          | UMC |
 | Catalog Number | 5756104 |
-| Notes | 30th anniversary orange translucent coloured vinyl reissue.   Limited to 500 copies in the U.K. Limited to 500 copies in the U.S.A. Total copies unknown: - estimated: 1000 - 2000  Gatefold sleeve and printed credit / lyric inner sleeves.  Hype sticker on shrink wrap reads: DEF LEPPARD [logo] HYSTERIA REMASTERED 180g Heavyweight vinyl  Double LP for the first time Orange coloured ltd edition 5756104"  Multiple catalogue numbers are stated across the release: Outer sleeve and hype sticker shows catalogue number as 5756104 Inner sleeve (A+B) and record labels (A+B) shows catalogue number as 5764901 Inner sleeve (C+D) and record labels (C+D) shows catalogue number as 5764902  ℗ 2017 Phonogram Records Limited © 2017 Phonogram Records Limited. Made in the EU.  Hysteria was recorded at: Wisseloord Studios, Hilversum, Holland [...]. Windmill Lone Studio 2, Dublin, Ireland [...]. Studio Des Dames, Paris, France [...]  Hysteria was mixed at Battery Studios, London, England  All the songs published by: In the UK/Ireland: Why Bother Ltd./Warner Bros. Music/Zomba Music Publishers. In Australia / New Zealand: Bludgeon Riffola Ltd./Warner Bros. Music/Zomba Music Publishers. In the Rest of The Known Universe: Bludgeon Riffola Ltd./Zomba Music Publishers.  (Track durations are not written on the release.) |
+| Notes | 30th anniversary orange translucent coloured vinyl reissue. <br><br>Limited to 500 copies in the U.K.<br>Limited to 500 copies in the U.S.A.<br>Total copies unknown: - estimated: 1000 - 2000<br><br>Gatefold sleeve and printed credit / lyric inner sleeves.<br><br>Hype sticker on shrink wrap reads:<br>DEF LEPPARD [logo]<br>HYSTERIA<br>REMASTERED<br>180g Heavyweight vinyl <br>Double LP for the first time<br>Orange coloured ltd edition<br>5756104"<br><br>Multiple catalogue numbers are stated across the release:<br>Outer sleeve and hype sticker shows catalogue number as 5756104<br>Inner sleeve (A+B) and record labels (A+B) shows catalogue number as 5764901<br>Inner sleeve (C+D) and record labels (C+D) shows catalogue number as 5764902<br><br>℗ 2017 Phonogram Records Limited © 2017 Phonogram Records Limited.<br>Made in the EU.<br><br>Hysteria was recorded at: Wisseloord Studios, Hilversum, Holland [...]. Windmill Lone Studio 2, Dublin, Ireland [...]. Studio Des Dames, Paris, France [...]<br><br>Hysteria was mixed at Battery Studios, London, England<br><br>All the songs published by: In the UK/Ireland: Why Bother Ltd./Warner Bros. Music/Zomba Music Publishers. In Australia / New Zealand: Bludgeon Riffola Ltd./Warner Bros. Music/Zomba Music Publishers. In the Rest of The Known Universe: Bludgeon Riffola Ltd./Zomba Music Publishers.<br><br>(Track durations are not written on the release.) |
 | Discogs URL    | [Def Leppard - Hysteria](https://www.discogs.com/release/10660430-Def-Leppard-Hysteria) |

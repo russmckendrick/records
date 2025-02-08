@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Radio Active"
 date: 2015-09-16T18:57:14.000000Z
+release_date: ""
 release_id: "1762222"
 slug: "radio-active-1762222"
 hideSummary: true
@@ -21,80 +22,40 @@ styles: ["Disco", "Reggae-Pop", "Ska", "Hard Rock", "Synth-pop", "Funk"]
 ---
 
 Radio Active is a radio comedy programme, broadcast on BBC Radio 4 during the 1980s.   The series grew out of a 1979 Edinburgh Festival Fringe show presented by The Oxford Revue and starred Angus Deayton, Geoffrey Perkins, Michael Fenton Stevens, Helen Atkinson-Wood and Philip Pope. The first episode was broadcast in 1980, and it ran for seven series.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. D.I.S.C.O.
-2. Amigo
-3. Johnny & Mary
-4. Trouble
-5. I Die You Die
-6. Misunderstanding
-7. If It's Alright With You
-8. The Whisper
-9. Dancin' On A Wire
-10. Metropolis
-11. Feels Like I'm In Love
-12. You're Lying
-13. Use It Up And Wear It Out
-14. Enola Gay
-15. Lies (Through The 80's)
-16. Generals And Majors
-17. Paranoid
-18. Unlock The Funk
-19. You Gotta Be A Hustler
-20. I Think It's Gonna Rain
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | D.I.S.C.O. |  |
+| A2 | Amigo |  |
+| A3 | Johnny & Mary |  |
+| A4 | Trouble |  |
+| A5 | I Die You Die |  |
+| A6 | Misunderstanding |  |
+| A7 | If It's Alright With You |  |
+| A8 | The Whisper |  |
+| A9 | Dancin' On A Wire |  |
+| A10 | Metropolis |  |
+| B1 | Feels Like I'm In Love |  |
+| B2 | You're Lying |  |
+| B3 | Use It Up And Wear It Out |  |
+| B4 | Enola Gay |  |
+| B5 | Lies (Through The 80's) |  |
+| B6 | Generals And Majors |  |
+| B7 | Paranoid |  |
+| B8 | Unlock The Funk |  |
+| B9 | You Gotta Be A Hustler |  |
+| B10 | I Think It's Gonna Rain |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Radio Active Face A 1980
-{{< youtube id="c-NmtskiSzo" title="Radio Active Face A 1980" >}}<br>
-### More Videos
 
-- [Ottawan - DISCO HD Legendado em PT- BR](https://www.youtube.com/watch?v=mJpymZpk-t8)
-- [Black Slate - Amigo](https://www.youtube.com/watch?v=-9NgIPLtwSc)
-- [Robert Palmer - Johnny and Mary Official Video](https://www.youtube.com/watch?v=7_SAMrDnXOE)
-- [Gillan - Trouble](https://www.youtube.com/watch?v=wcceF1v0EE4)
-- [Gary Numan   I Die You Die](https://www.youtube.com/watch?v=Xw8dTF9Jr34)
-- [Genesis - Misunderstanding](https://www.youtube.com/watch?v=IrNTsKg4z64)
-- [The Korgis - If Its Alright With You Baby](https://www.youtube.com/watch?v=BCgwJDBGMW0)
-- [The Selecter - Whisper -  TOTP 1980](https://www.youtube.com/watch?v=Q7z7EoTvlQI)
-- [Surface Noise - Dancin on a Wire HQ Audio](https://www.youtube.com/watch?v=wHksbw-ZuXk)
-- [Metropolis](https://www.youtube.com/watch?v=VLhbZH7YWtE)
-- [Kelly Marie - feels like im in love - HQ video sound](https://www.youtube.com/watch?v=WR03E91J_uA)
-- [Linx - Youre Lying 12 Jazz-Disco-Funk 1980](https://www.youtube.com/watch?v=obcrmJ-eOf8)
-- [Use It Up And Wear It Out - Odyssey  1980](https://www.youtube.com/watch?v=xNWSO7Hod0E)
-- [Orchestral Manoeuvres In The Dark - Enola Gay Official Music Video](https://www.youtube.com/watch?v=d5XJ2GiR6Bo)
-- [Manfred Manns Earth Band - Lies Through The 80s Official](https://www.youtube.com/watch?v=sjyAkmZd63g)
-- [XTC - Generals and Majors](https://www.youtube.com/watch?v=LCW6Kte2o1A)
-- [Black Sabbath - Paranoid Lyrics](https://www.youtube.com/watch?v=FSGyXeRFLyE)
-- [Locksmith  -  Unlock The Funk](https://www.youtube.com/watch?v=VMGvgwb4SfM)
-- [Sue Wilkinson - Youve Got to be a Hustler - TOTP 1980 HD](https://www.youtube.com/watch?v=rT0T6ErJEJU)
-- [UB40 - I Think Its Going to Rain Today Lyrics](https://www.youtube.com/watch?v=JSUhwUF5P_w)
-- [Radio Active Face A 1980](https://www.youtube.com/watch?v=c-NmtskiSzo)
-- [Ottawan - DISCO HD Legendado em PT- BR](https://www.youtube.com/watch?v=mJpymZpk-t8)
-- [Black Slate - Amigo](https://www.youtube.com/watch?v=-9NgIPLtwSc)
-- [Robert Palmer - Johnny and Mary Official Video](https://www.youtube.com/watch?v=7_SAMrDnXOE)
-- [Gillan - Trouble](https://www.youtube.com/watch?v=wcceF1v0EE4)
-- [Gary Numan   I Die You Die](https://www.youtube.com/watch?v=Xw8dTF9Jr34)
-- [Genesis - Misunderstanding](https://www.youtube.com/watch?v=IrNTsKg4z64)
-- [The Korgis - If Its Alright With You Baby](https://www.youtube.com/watch?v=BCgwJDBGMW0)
-- [The Selecter - Whisper -  TOTP 1980](https://www.youtube.com/watch?v=Q7z7EoTvlQI)
-- [Surface Noise - Dancin on a Wire HQ Audio](https://www.youtube.com/watch?v=wHksbw-ZuXk)
-- [Metropolis](https://www.youtube.com/watch?v=VLhbZH7YWtE)
-- [Kelly Marie - feels like im in love - HQ video sound](https://www.youtube.com/watch?v=WR03E91J_uA)
-- [Linx - Youre Lying 12 Jazz-Disco-Funk 1980](https://www.youtube.com/watch?v=obcrmJ-eOf8)
-- [Use It Up And Wear It Out - Odyssey  1980](https://www.youtube.com/watch?v=xNWSO7Hod0E)
-- [Orchestral Manoeuvres In The Dark - Enola Gay Official Music Video](https://www.youtube.com/watch?v=d5XJ2GiR6Bo)
-- [Manfred Manns Earth Band - Lies Through The 80s Official](https://www.youtube.com/watch?v=sjyAkmZd63g)
-- [XTC - Generals and Majors](https://www.youtube.com/watch?v=LCW6Kte2o1A)
-- [Black Sabbath - Paranoid Lyrics](https://www.youtube.com/watch?v=FSGyXeRFLyE)
-- [Locksmith  -  Unlock The Funk](https://www.youtube.com/watch?v=VMGvgwb4SfM)
-- [Sue Wilkinson - Youve Got to be a Hustler - TOTP 1980 HD](https://www.youtube.com/watch?v=rT0T6ErJEJU)
-- [UB40 - I Think Its Going to Rain Today Lyrics](https://www.youtube.com/watch?v=JSUhwUF5P_w)
 
 ## Release Images
 {{< imageGrid >}}
@@ -106,5 +67,5 @@ Radio Active is a radio comedy programme, broadcast on BBC Radio 4 during the 19
 | Format         | Vinyl LP Compilation (Lyntone Pressing) |
 | Label          | Ronco |
 | Catalog Number | RTL 2049 |
-| Notes | Subtitled "20 Electric Hits"    Track B5 title shortened to 'Lies' on sleeve tracklist.   |
+| Notes | Subtitled "20 Electric Hits"<br><br>Track B5 title shortened to 'Lies' on sleeve tracklist.<br> |
 | Discogs URL    | [Various - Radio Active](https://www.discogs.com/release/1762222-Various-Radio-Active) |

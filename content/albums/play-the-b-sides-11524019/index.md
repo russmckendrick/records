@@ -4,6 +4,7 @@ artist_name: "Moby"
 artist: "moby"
 album_name: "Play: The B Sides"
 date: 2018-02-06T20:52:52.000000Z
+release_date: "1999-05-17"
 release_id: "11524019"
 slug: "play-the-b-sides-11524019"
 hideSummary: true
@@ -29,35 +30,31 @@ The song "Flower" was featured on the soundtrack for the 2000 film Gone in 60 Se
 “Flower” is also a walk-up song used by Major League Baseball player Bryce Harper. The song "Memory Gospel" was used on the soundtracks for the films Get Carter, 40 Days and 40 Nights and Southland Tales as well as the documentary Earthlings.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Flower (3:26)
-2. Sunday (5:03)
-3. Memory Gospel (6:42)
-4. Whispering Wind (6:02)
-5. Summer (5:58)
-6. Spirit (4:08)
-7. Flying Foxes (6:16)
-8. Sunspot (6:49)
-9. Flying Over The Dateline (4:47)
-10. Running (7:05)
-11. The Sun Never Stops Setting (4:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Flower | 3:26 |
+| A2 | Sunday | 5:03 |
+| A3 | Memory Gospel | 6:42 |
+| B1 | Whispering Wind | 6:02 |
+| B2 | Summer | 5:58 |
+| B3 | Spirit | 4:08 |
+| C1 | Flying Foxes | 6:16 |
+| C2 | Sunspot | 6:49 |
+| C3 | Flying Over The Dateline | 4:47 |
+| D1 | Running | 7:05 |
+| D2 | The Sun Never Stops Setting | 4:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/play-the-b-sides/1445707052" >}}<br>
 
 
-## Videos
-### MOBY - SUNDAY PLAY THE B SIDES
-{{< youtube id="7Brcsjvuc00" title="MOBY - SUNDAY PLAY THE B SIDES" >}}<br>
-### More Videos
-
-- [Moby - Princess](https://www.youtube.com/watch?v=hhCDcKq4EZI)
-- [Moby - Flying Foxes Official Audio](https://www.youtube.com/watch?v=JLjsLWevjkw)
-- [Moby - The Sun Never Stops Setting Official Audio](https://www.youtube.com/watch?v=xj7YUmYofmo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +66,5 @@ The song "Flower" was featured on the soundtrack for the 2000 film Gone in 60 Se
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Red Translucent) |
 | Label          | Little Idiot |
 | Catalog Number | IDIOT062LP2 |
-| Notes | Limited to 1000 copies.  Flower, contains a sample from the Jessie Pratcher, Mattie Gardner & Mary Gardner recording Green Sally, Up, produced under license from Atlantic Recording Corp. By arrangement with Warner Special projects.  ℗ 2017 Little Idiot © 2017 Little Idiot  On labels: ℗ 2017 Little Idiot Music © 2017 Little Idiot Music   Track durations not listed on the release. |
+| Notes | Limited to 1000 copies.<br><br>Flower, contains a sample from the Jessie Pratcher, Mattie Gardner & Mary Gardner recording Green Sally, Up, produced under license from Atlantic Recording Corp. By arrangement with Warner Special projects.<br><br>℗ 2017 Little Idiot © 2017 Little Idiot<br><br>On labels:<br>℗ 2017 Little Idiot Music<br>© 2017 Little Idiot Music <br><br>Track durations not listed on the release. |
 | Discogs URL    | [Moby - Play: The B Sides](https://www.discogs.com/release/11524019-Moby-Play-The-B-Sides) |

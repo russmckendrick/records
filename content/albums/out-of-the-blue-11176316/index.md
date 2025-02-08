@@ -4,6 +4,7 @@ artist_name: "Electric Light Orchestra"
 artist: "electric-light-orchestra"
 album_name: "Out Of The Blue"
 date: 2018-01-17T20:32:58.000000Z
+release_date: "2011-10-10"
 release_id: "11176316"
 slug: "out-of-the-blue-11176316"
 hideSummary: true
@@ -27,37 +28,34 @@ styles: ["Prog Rock", "Symphonic Rock"]
 Out of the Blue is the seventh studio album by the British rock group Electric Light Orchestra (ELO), released on 24 October 1977 in the United States and four days after in the UK on 28 October. Written and produced by ELO frontman Jeff Lynne, the double album is among the most commercially successful records in the group's history, selling about 10 million copies worldwide by 2007.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Turn To Stone
-2. It's Over
-3. Sweet Talkin'  Woman
-4. Across The Border
-5. Night In The City
-6. Starlight
-7. Jungle
-8. Believe Me Now
-9. Steppin'  Out
-10. Concerto For A Rainy Day
-11. Sweet Is The Night
-12. The Whale
-13. Birmingham Blues
-14. Wild West Hero
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Turn To Stone |  |
+| A2 | It's Over |  |
+| A3 | Sweet Talkin'  Woman |  |
+| A4 | Across The Border |  |
+| B1 | Night In The City |  |
+| B2 | Starlight |  |
+| B3 | Jungle |  |
+| B4 | Believe Me Now |  |
+| B5 | Steppin'  Out |  |
+|  | Concerto For A Rainy Day |  |
+| D1 | Sweet Is The Night |  |
+| D2 | The Whale |  |
+| D3 | Birmingham Blues |  |
+| D4 | Wild West Hero |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-essential-electric-light-orchestra/466451499" >}}<br>
 
 
-## Videos
-### Electric Light Orchestra - Mr Blue Sky Official Video
-{{< youtube id="aQUlA8Hcv4s" title="Electric Light Orchestra - Mr Blue Sky Official Video" >}}<br>
-### More Videos
-
-- [Electric Light Orchestra  -  Out of the Blue Full Album 1977](https://www.youtube.com/watch?v=2f9CoaIH9FE)
-- [Electric Light Orchestra  - Turn To Stoneyerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=MBu3K6uz0KA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +67,5 @@ Out of the Blue is the seventh studio album by the British rock group Electric L
 | Format         | Vinyl 2× LP Album Limited Edition Picture Disc Reissue Stereo |
 | Label          | Sony Music |
 | Catalog Number | 88985456161 |
-| Notes | 40th Anniversary double LP Picture Disc with digital download. Made in the E.U. ℗ 1977 Epic Records © 1977, 2017 Epic Records  |
+| Notes | 40th Anniversary double LP Picture Disc with digital download.<br>Made in the E.U.<br>℗ 1977 Epic Records<br>© 1977, 2017 Epic Records<br> |
 | Discogs URL    | [Electric Light Orchestra - Out Of The Blue](https://www.discogs.com/release/11176316-Electric-Light-Orchestra-Out-Of-The-Blue) |

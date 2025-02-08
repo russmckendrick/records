@@ -36,40 +36,25 @@ An expanded two-disc Legacy Edition was released internationally on 10 March 200
 
 
 ## Tracklisting
-1. She Cries Your Name
-2. Tangent
-3. Don't Need A Reason
-4. Live As You Dream
-5. Sugar Boy
-6. Touch Me With Your Love
-7. Whenever
-8. How Far
-9. Someone's Daughter
-10. I Wish I Never Saw The Sunshine
-11. Galaxy Of Emptiness
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | She Cries Your Name |  |
+| A2 | Tangent |  |
+| A3 | Don't Need A Reason |  |
+| B1 | Live As You Dream |  |
+| B2 | Sugar Boy |  |
+| B3 | Touch Me With Your Love |  |
+| C1 | Whenever |  |
+| C2 | How Far |  |
+| C3 | Someone's Daughter |  |
+| C4 | I Wish I Never Saw The Sunshine |  |
+| D | Galaxy Of Emptiness |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/trailer-park/281788574" >}}<br>
 
 
-## Videos
-### Beth Orton - Touch Me With Your Love
-{{< youtube id="mx3wDOdVEAY" title="Beth Orton - Touch Me With Your Love" >}}<br>
-### More Videos
-
-- [Whenever 2008 Remastered Version](https://www.youtube.com/watch?v=S3H5EZo18Jw)
-- [Beth Orton - She Cries Your Name Video](https://www.youtube.com/watch?v=rFZc4ax4tJs)
-- [Beth Orton - Live As You Dream](https://www.youtube.com/watch?v=Mt3d3lmDd_8)
-- [Someones Daughter - Beth Orton](https://www.youtube.com/watch?v=gIoC_Ya6WRo)
-- [BETH ORTON I WISH I NEVER SAW THE SUNSHINE](https://www.youtube.com/watch?v=XR2gaDtS1js)
-- [Beth Orton - Tangent](https://www.youtube.com/watch?v=ToUivqnyxN4)
-- [BETH ORTON - dONT nEED A rEASON  lyrics](https://www.youtube.com/watch?v=LWt3xqqwsjw)
-- [Beth Orton - sugar boy](https://www.youtube.com/watch?v=JeZpru0Rr_4)
-- [Beth Orton - Touch Me With Your Love Video](https://www.youtube.com/watch?v=OQ3iZc7lfaY)
-- [Beth Orton whenever](https://www.youtube.com/watch?v=R5GzcVZmnE8)
-- [Beth Orton - Galaxy of Emptiness](https://www.youtube.com/watch?v=o0_YZtSdzwo)
-- [Beth Orton - Touch Me With Your Love](https://www.youtube.com/watch?v=mx3wDOdVEAY)
-- [Whenever 2008 Remastered Version](https://www.youtube.com/watch?v=S3H5EZo18Jw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +66,5 @@ An expanded two-disc Legacy Edition was released internationally on 10 March 200
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Remastered (Blue) |
 | Label          | Sony Music |
 | Catalog Number | 19439956801 |
-| Notes | On sticker: Trailer Park Limited Edition American Diner Blue colour vinyl Pressed across 2LPs for the first time  Ⓟ 2008 Sony Music Entertainment (UK) Limited © 1996, 2022 Sony Music Entertainment (UK) Limited  RSD 2022 Second Drop Limited to 2000 copies  Runouts for all variants hand etched except for laser etched [MPO logo]® and laser stamper number ## ###### |
+| Notes | On sticker:<br>Trailer Park<br>Limited Edition<br>American Diner Blue<br>colour vinyl<br>Pressed across 2LPs<br>for the first time<br><br>Ⓟ 2008 Sony Music Entertainment (UK) Limited<br>© 1996, 2022 Sony Music Entertainment (UK) Limited<br><br>RSD 2022 Second Drop<br>Limited to 2000 copies<br><br>Runouts for all variants hand etched except for laser etched [MPO logo]® and laser stamper number ## ###### |
 | Discogs URL    | [Beth Orton - Trailer Park](https://www.discogs.com/release/23590796-Beth-Orton-Trailer-Park) |

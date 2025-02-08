@@ -4,6 +4,7 @@ artist_name: "Crowded House"
 artist: "crowded-house"
 album_name: "The Very Very Best Of Crowded House"
 date: 2019-07-15T18:00:11.000000Z
+release_date: "2010-10-22"
 release_id: "13869670"
 slug: "the-very-very-best-of-crowded-house-13869670"
 hideSummary: true
@@ -30,43 +31,39 @@ styles: []
 The Very Very Best of Crowded House is a compilation album featuring 19 singles from the period spanning Crowded House's first five studio albums. A CD and DVD box set is available, which includes a DVD of 25 of the band's music videos. The album is also available as a 'Deluxe Digital Version' which features 32 tracks including a rare 1987 live recording of the band's cover version of the Hunters & Collectors song "Throw Your Arms Around Me".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Something So Strong
-2. Weather With You
-3. It's Only Natural
-4. Chocolate Cake
-5. Fall At Your Feet
-6. Distant Sun
-7. Better Be Home Soon
-8. Four Seasons In One Day
-9. Don't Dream It's Over
-10. Mean To Me
-11. Locked Out
-12. Don't Stop Now
-13. Pineapple Head
-14. Instinct
-15. Fingers Of Love
-16. Private Universe
-17. Not The Girl You Think You Are
-18. Nails In My Feet
-19. Pour Le Monde
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Something So Strong |  |
+| A2 | Weather With You |  |
+| A3 | It's Only Natural |  |
+| A4 | Chocolate Cake |  |
+| A5 | Fall At Your Feet |  |
+| B1 | Distant Sun |  |
+| B2 | Better Be Home Soon |  |
+| B3 | Four Seasons In One Day |  |
+| B4 | Don't Dream It's Over |  |
+| B5 | Mean To Me |  |
+| C1 | Locked Out |  |
+| C2 | Don't Stop Now |  |
+| C3 | Pineapple Head |  |
+| C4 | Instinct |  |
+| C5 | Fingers Of Love |  |
+| D1 | Private Universe |  |
+| D2 | Not The Girl You Think You Are |  |
+| D3 | Nails In My Feet |  |
+| D4 | Pour Le Monde |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-very-best-of-crowded-house/716399594" >}}<br>
 
 
-## Videos
-### Crowded House - Dont Dream Its Over Official Video
-{{< youtube id="J9gKyRmic20" title="Crowded House - Dont Dream Its Over Official Video" >}}<br>
-### More Videos
-
-- [Crowded House - Its Only Natural](https://www.youtube.com/watch?v=duf-dofeoms)
-- [Crowded House - Fall At Your Feet](https://www.youtube.com/watch?v=2ROiU9kOHeE)
-- [Crowded House - Four Seasons In One Day](https://www.youtube.com/watch?v=si3dBlNdifE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +75,5 @@ The Very Very Best of Crowded House is a compilation album featuring 19 singles 
 | Format         | Vinyl 2× LP Compilation Reissue |
 | Label          | Universal Music |
 | Catalog Number | 00602557847581 |
-| Notes | 180 gram Black vinyl.  Comes with a hype sticker and a voucher with a download code |
+| Notes | 180 gram Black vinyl.<br><br>Comes with a hype sticker and a voucher with a download code |
 | Discogs URL    | [Crowded House - The Very Very Best Of Crowded House](https://www.discogs.com/release/13869670-Crowded-House-The-Very-Very-Best-Of-Crowded-House) |

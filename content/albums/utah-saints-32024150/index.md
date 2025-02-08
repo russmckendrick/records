@@ -4,6 +4,7 @@ artist_name: "Utah Saints"
 artist: "utah-saints"
 album_name: "Utah Saints"
 date: 2024-10-22T10:20:04.000000Z
+release_date: "1992-01-01"
 release_id: "32024150"
 slug: "utah-saints-32024150"
 hideSummary: true
@@ -36,42 +37,34 @@ Utah Saints ran clubs from 1988 to 1994, particularly Ricky's and The Gallery (l
 They had five further UK top 40 singles including a top 10 between 2000 and 2012, and continue to produce music, DJ in clubs and at festivals, promote nights, curate festival stages and write music for film, trailers and games.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. New Gold Dream (81-82-83-84)
-2. What Can You Do For Me
-3. Soulution
-4. Believe In Me
-5. Too Much To Swallow (Part 1)
-6. Something Good
-7. I Want You
-8. States Of Mind
-9. Trance Atlantic Glide
-10. Kinetic Synthetic
-11. My Mind Must Be Free
-12. Highlander (CJ Bolland Mix)
-13. Ohio (DJ Misjah Mix)
-14. Star (Union Jack Mix)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | New Gold Dream (81-82-83-84) |  |
+| A2 | What Can You Do For Me |  |
+| A3 | Soulution |  |
+| B1 | Believe In Me |  |
+| B2 | Too Much To Swallow (Part 1) |  |
+| B3 | Something Good |  |
+| B4 | I Want You |  |
+| C1 | States Of Mind |  |
+| C2 | Trance Atlantic Glide |  |
+| C3 | Kinetic Synthetic |  |
+| C4 | My Mind Must Be Free |  |
+| D1 | Highlander (CJ Bolland Mix) |  |
+| D2 | Ohio (DJ Misjah Mix) |  |
+| D3 | Star (Union Jack Mix) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/utah-saints/1320068334" >}}<br>
 
 
-## Videos
-### Utah Saints - Highlander CJ Bolland Remix
-{{< youtube id="6p53gEcJFWc" title="Utah Saints - Highlander CJ Bolland Remix" >}}<br>
-### More Videos
-
-- [Utah Saints - Ohio DJ Misjah Mix](https://www.youtube.com/watch?v=OgOis6fdphs)
-- [Utah Saints - Star Union Jack Mix](https://www.youtube.com/watch?v=akAyOK3TcoY)
-- [Utah Saints - Highlander CJ Bolland Remix](https://www.youtube.com/watch?v=6p53gEcJFWc)
-- [Utah Saints - Ohio DJ Misjah Mix](https://www.youtube.com/watch?v=OgOis6fdphs)
-- [Utah Saints - Star Union Jack Mix](https://www.youtube.com/watch?v=akAyOK3TcoY)
-- [Utah Saints - Something Good Original Version](https://www.youtube.com/watch?v=f7hlMR-Xn9I)
-- [Utah Saints - Utah Saints](https://www.youtube.com/watch?v=FrIIHKGI4fM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +76,5 @@ They had five further UK top 40 singles including a top 10 between 2000 and 2012
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
 | Label          | London Records |
 | Catalog Number | LMS5521987 |
-| Notes | U.K. National Album Day 2024 release Saturday 19th October 2024 2024 theme: GREAT BRITISH GROUPS  2LP 30th Anniversary Edition Remastered + Expanded with remixes & rarities  Wide spine standard sleeve made from foil card.  Utah Saints use samples to FREE us from the confines of popular instruments. THE sample may be a vocal phrase, 100 guitars, or everyday MACHINES and animals. These are all just instruments to us. No tape was used in the making of this album. TAKE CONTROL of the machine NOW!  RESPECT and thanks to Annie Lennox, David A. Stewart, Kate Bush, Motorhead, AND Akai. This album is dedicated to all those who supported and believed in us. We know who you are and we LOVE you. |
+| Notes | U.K. National Album Day 2024 release<br>Saturday 19th October 2024<br>2024 theme: GREAT BRITISH GROUPS<br><br>2LP 30th Anniversary Edition<br>Remastered + Expanded with remixes & rarities<br><br>Wide spine standard sleeve made from foil card.<br><br>Utah Saints use samples to FREE us from the confines of popular instruments. THE sample may be a vocal phrase, 100 guitars, or everyday MACHINES and animals. These are all just instruments to us. No tape was used in the making of this album. TAKE CONTROL of the machine NOW!<br><br>RESPECT and thanks to Annie Lennox, David A. Stewart, Kate Bush, Motorhead, AND Akai. This album is dedicated to all those who supported and believed in us. We know who you are and we LOVE you. |
 | Discogs URL    | [Utah Saints - Utah Saints](https://www.discogs.com/release/32024150-Utah-Saints-Utah-Saints) |

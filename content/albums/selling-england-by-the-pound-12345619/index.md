@@ -4,6 +4,7 @@ artist_name: "Genesis"
 artist: "genesis"
 album_name: "Selling England By The Pound"
 date: 2018-08-06T18:42:06.000000Z
+release_date: "1973-10-13"
 release_id: "12345619"
 slug: "selling-england-by-the-pound-12345619"
 hideSummary: true
@@ -29,30 +30,28 @@ The album was recorded in August 1973 following the tour supporting the previous
 Critics and the band members themselves have given mixed opinions of the album. Its reputation has improved over time, appearing on various critical and fan-voted rankings of the best progressive rock albums. The album has continued to sell and has reached Gold certification by the British Phonographic Industry and the Recording Industry Association of America. It was remastered for CD in 1994 and 2007. Several of the album tracks became fan favourites and featured as a regular part of the band's live setlist into the 1980s.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Dancing With The Moonlit Knight (8:04)
-2. I Know What I Like (In Your Wardrobe) (4:10)
-3. Firth Of Fifth (9:40)
-4. More Fool Me  (3:13)
-5. The Battle Of Epping Forest (11:43)
-6. After The Ordeal (4:15)
-7. The Cinema Show (10:41)
-8. Aisle Of Plenty (1:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dancing With The Moonlit Knight | 8:04 |
+| A2 | I Know What I Like (In Your Wardrobe) | 4:10 |
+| A3 | Firth Of Fifth | 9:40 |
+| A4 | More Fool Me  | 3:13 |
+| B1 | The Battle Of Epping Forest | 11:43 |
+| B2 | After The Ordeal | 4:15 |
+| B3 | The Cinema Show | 10:41 |
+| B4 | Aisle Of Plenty | 1:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/selling-england-by-the-pound-2007-stereo-mix/294810249" >}}<br>
 
 
-## Videos
-### Genesis - 1st UK press - Selling England by the Pound - side 1
-{{< youtube id="qDI4yUYVgqc" title="Genesis - 1st UK press - Selling England by the Pound - side 1" >}}<br>
-### More Videos
-
-- [Genesis - 1st UK press - Selling England by the Pound - side 2](https://www.youtube.com/watch?v=LGE4SMe1e6o)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +63,5 @@ Critics and the band members themselves have given mixed opinions of the album. 
 | Format         | Vinyl LP Album Reissue Remastered Repress Stereo (180 gr.) |
 | Label          | Charisma |
 | Catalog Number | 00602567490456 |
-| Notes | Album includes printed insert with all lyrics and download code. ℗ 1973 Notebest Ltd  ℗ & © 2018 Made in the E.U. |
+| Notes | Album includes printed insert with all lyrics and download code.<br>℗ 1973 Notebest Ltd<br><br>℗ & © 2018<br>Made in the E.U. |
 | Discogs URL    | [Genesis - Selling England By The Pound](https://www.discogs.com/release/12345619-Genesis-Selling-England-By-The-Pound) |

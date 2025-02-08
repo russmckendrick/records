@@ -26,15 +26,17 @@ styles: []
 
 
 ## Tracklisting
-1. Echoes
-2. One Of These Days
-3. A Pillow Of Winds
-4. San Tropez
-5. Fearless
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Echoes |  |
+| B1 | One Of These Days |  |
+| B2 | A Pillow Of Winds |  |
+| B3 | San Tropez |  |
+| B4 | Fearless |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/meddle/699632611" >}}<br>
-
 
 
 

@@ -4,6 +4,7 @@ artist_name: "Shed Seven"
 artist: "shed-seven"
 album_name: "Change Giver"
 date: 2024-11-10T22:10:39.000000Z
+release_date: "1995"
 release_id: "32253204"
 slug: "change-giver-32253204"
 hideSummary: true
@@ -26,43 +27,31 @@ Change Giver is the debut album by British rock band Shed Seven, released via Po
 The album was a moderate chart success in the UK, peaking at number 16 in the UK Albums Chart upon release, while three of the four singles taken from the album charted in the UK Top 40.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Dirty Soul (3:37)
-2. Speakeasy (3:19)
-3. Long Time Dead (3:50)
-4. Head And Hands (3:58)
-5. Casino Girl (3:56)
-6. Missing Out (3:12)
-7. Dolphin (3:36)
-8. Stars In Your Eyes (4:06)
-9. Mark (3:41)
-10. Ocean Pie (4:39)
-11. On An Island With You (8:13)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dirty Soul | 3:37 |
+| A2 | Speakeasy | 3:19 |
+| A3 | Long Time Dead | 3:50 |
+| A4 | Head And Hands | 3:58 |
+| A5 | Casino Girl | 3:56 |
+| A6 | Missing Out | 3:12 |
+| B1 | Dolphin | 3:36 |
+| B2 | Stars In Your Eyes | 4:06 |
+| B3 | Mark | 3:41 |
+| B4 | Ocean Pie | 4:39 |
+| B5 | On An Island With You | 8:13 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/change-giver/1442965827" >}}<br>
 
 
-## Videos
-### Shed Seven  Change Giver 1994 - FULL ALBUM
-{{< youtube id="FuQPdPNy0QU" title="Shed Seven  Change Giver 1994 - FULL ALBUM" >}}<br>
-### More Videos
-
-- [Dirty Soul](https://www.youtube.com/watch?v=7mGkW0JosAg)
-- [SHED 7-SPEAKEASY       BY ELIAS](https://www.youtube.com/watch?v=3BOTix-Pb5Q)
-- [Head And Hands](https://www.youtube.com/watch?v=Mfs3K2iP4p8)
-- [Casino Girl](https://www.youtube.com/watch?v=66ZfoT6el9g)
-- [Shed Seven - Dolphin](https://www.youtube.com/watch?v=6RHtuXrL_hE)
-- [Shed Seven - Mark Single Version](https://www.youtube.com/watch?v=xDP05hzetDM)
-- [Shed Seven - On an Island With You](https://www.youtube.com/watch?v=nylypag2Lds)
-- [Long Time Dead](https://www.youtube.com/watch?v=zvO29vYTulc)
-- [Ocean Pie](https://www.youtube.com/watch?v=VAs4P7BBQls)
-- [Missing Out](https://www.youtube.com/watch?v=AQdcDJqr7Zk)
-- [Shed Seven  Change Giver 1994 - FULL ALBUM](https://www.youtube.com/watch?v=FuQPdPNy0QU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +63,5 @@ The album was a moderate chart success in the UK, peaking at number 16 in the UK
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Universal Music Recordings |
 | Catalog Number | UMCLP100 |
-| Notes | Advertised online as a '30th Anniversary' edition. No reference to this is listed on the sleeve. Shrink wrapped with no hype stickers.  Made in the E.U.  Pre-orders from the soundofvinyl webshop included an exclusive 12"x12" cover print signed by Rick, Paul and Tom from the original line-up. The print was sealed in an additional external glass-clear cellophane wrapper (not sealed inside the sleeve of the LP). |
+| Notes | Advertised online as a '30th Anniversary' edition.<br>No reference to this is listed on the sleeve.<br>Shrink wrapped with no hype stickers.<br><br>Made in the E.U.<br><br>Pre-orders from the soundofvinyl webshop included an exclusive 12"x12" cover print signed by Rick, Paul and Tom from the original line-up.<br>The print was sealed in an additional external glass-clear cellophane wrapper (not sealed inside the sleeve of the LP). |
 | Discogs URL    | [Shed Seven - Change Giver](https://www.discogs.com/release/32253204-Shed-Seven-Change-Giver) |

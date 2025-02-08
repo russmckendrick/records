@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Motown Funk Volume 2"
 date: 2018-04-21T13:35:16.000000Z
+release_date: ""
 release_id: "11895847"
 slug: "motown-funk-volume-2-11895847"
 hideSummary: true
@@ -23,46 +24,38 @@ styles: ["Funk", "Soul"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Drink The Wine (Album Version)
-2. Gonna Find A True Love (Single Version)
-3. Keep On Truckin' (Album Version)
-4. Machine Gun (Album Version)
-5. Thank You Falettinme Be Mice Elf Agin
-6. Every Time I See You I Go Wild
-7. (I Know) I'm Losing You (Album Version)
-8. It's The Same Old Love (Album Version)
-9. Behold
-10. Closing Jimmy's
-11. To Know You Is To Love You (Album Version)
-12. You Can't Judge A Book By It's Cover (Album Version)
-13. Runnin' (From Hell Up In Harlem OST)
-14. Brick House (Single Version)
-15. Got To Give It Up (Part 1)
-16. Haiku (Album Version)
-17. Mister Magic (Album Version)
-18. UFO's (Album Version)
-19. Let It Whip (Single Version)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Drink The Wine (Album Version) |  |
+| A2 | Gonna Find A True Love (Single Version) |  |
+| A3 | Keep On Truckin' (Album Version) |  |
+| A4 | Machine Gun (Album Version) |  |
+| A5 | Thank You Falettinme Be Mice Elf Agin |  |
+| B1 | Every Time I See You I Go Wild |  |
+| B2 | (I Know) I'm Losing You (Album Version) |  |
+| B3 | It's The Same Old Love (Album Version) |  |
+| B4 | Behold |  |
+| B5 | Closing Jimmy's |  |
+| C1 | To Know You Is To Love You (Album Version) |  |
+| C2 | You Can't Judge A Book By It's Cover (Album Version) |  |
+| C3 | Runnin' (From Hell Up In Harlem OST) |  |
+| C4 | Brick House (Single Version) |  |
+| C5 | Got To Give It Up (Part 1) |  |
+| D1 | Haiku (Album Version) |  |
+| D2 | Mister Magic (Album Version) |  |
+| D3 | UFO's (Album Version) |  |
+| D4 | Let It Whip (Single Version) |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Bottom  Company - Gonna Find A True Love
-{{< youtube id="_MYJV-4rTpI" title="Bottom  Company - Gonna Find A True Love" >}}<br>
-### More Videos
 
-- [Keep On Truckin](https://www.youtube.com/watch?v=wp_FlThJBSE)
-- [Commodores -  Machine Gun](https://www.youtube.com/watch?v=ho_Od3o9OLg)
-- [Earl Van Dyke - Thank You Falettinme Be Mice Elf Agin](https://www.youtube.com/watch?v=tsqa9YEjSro)
-- [Stevie Wonder - Every Time I See You I Go Wild 1967](https://www.youtube.com/watch?v=gZsMrmLaoI0)
-- [Rare Earth - I Know Im Losing You full version](https://www.youtube.com/watch?v=F28X8--2dFU)
-- [The Jerry Ross Symposium - Its The Same Old Love](https://www.youtube.com/watch?v=dPeuCmVutSA)
-- [Behold](https://www.youtube.com/watch?v=_HDSLNjkdaw)
-- [Closing Jimmys Trouble Man Original Film Score](https://www.youtube.com/watch?v=PmMqjN4OTiQ)
-- [Grover Washington Jr  Mister Magic](https://www.youtube.com/watch?v=2Jvdy6khEmA)
-- [Undisputed Truth-UFOs](https://www.youtube.com/watch?v=m_VoWIUnCbo)
-- [Dazz Band  Let It Whip](https://www.youtube.com/watch?v=lCemjTAw7i0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +66,5 @@ styles: ["Funk", "Soul"]
 | Format         | Vinyl 2× LP Record Store Day Compilation (Yellow Translucent) |
 | Label          | UMC |
 | Catalog Number | 5381363 |
-| Notes | Gatefold sleeve. Some copies have a hype sticker on shrink wrap.  60s/70s U.K. Tamla Motown logo on each of the four record labels 70s/80s "M" Motown logo on the front of the gatefold sleeve |
+| Notes | Gatefold sleeve. Some copies have a hype sticker on shrink wrap.<br><br>60s/70s U.K. Tamla Motown logo on each of the four record labels<br>70s/80s "M" Motown logo on the front of the gatefold sleeve |
 | Discogs URL    | [Various - Motown Funk Volume 2](https://www.discogs.com/release/11895847-Various-Motown-Funk-Volume-2) |

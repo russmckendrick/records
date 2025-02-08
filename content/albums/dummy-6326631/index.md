@@ -29,39 +29,24 @@ Based in Bristol, Portishead followed in the footsteps of Massive Attack, the lo
 
 
 ## Tracklisting
-1. Mysterons (4:56)
-2. Sour Times (4:05)
-3. Strangers (3:49)
-4. It Could Be Sweet (4:10)
-5. Wandering Star (4:46)
-6. Numb (3:43)
-7. Roads (4:56)
-8. Pedestal (3:30)
-9. Biscuit (4:34)
-10. Glory Box (4:49)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mysterons | 4:56 |
+| A2 | Sour Times | 4:05 |
+| A3 | Strangers | 3:49 |
+| A4 | It Could Be Sweet | 4:10 |
+| A5 | Wandering Star | 4:46 |
+| B1 | Numb | 3:43 |
+| B2 | Roads | 4:56 |
+| B3 | Pedestal | 3:30 |
+| B4 | Biscuit | 4:34 |
+| B5 | Glory Box | 4:49 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dummy/1440653096" >}}<br>
 
 
-## Videos
-### Mysterons
-{{< youtube id="slDNOtOQ8oA" title="Mysterons" >}}<br>
-### More Videos
-
-- [Sour Times](https://www.youtube.com/watch?v=VoSoZyiHZ6o)
-- [Strangers](https://www.youtube.com/watch?v=wCAURNnKqFo)
-- [It Could Be Sweet](https://www.youtube.com/watch?v=Aw8GucJ4f7E)
-- [Wandering Star](https://www.youtube.com/watch?v=8T0cRt8efsQ)
-- [Its A Fire](https://www.youtube.com/watch?v=selAvZE6lp4)
-- [Numb](https://www.youtube.com/watch?v=mfw7oAGxq8Q)
-- [Roads](https://www.youtube.com/watch?v=7nxWP9BhI7w)
-- [Pedestal](https://www.youtube.com/watch?v=6zexKiOafjk)
-- [Biscuit](https://www.youtube.com/watch?v=FRntBOQsNYc)
-- [Glory Box](https://www.youtube.com/watch?v=c417rIku6Iw)
-- [Portishead - Numb Official Video](https://www.youtube.com/watch?v=Z7If6GODLFc)
-- [Portishead - Glory Box - Remastered](https://www.youtube.com/watch?v=yAKX51r7erw)
-- [Portishead - Glory Box](https://www.youtube.com/watch?v=4qQyUi4zfDs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +58,5 @@ Based in Bristol, Portishead followed in the footsteps of Massive Attack, the lo
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram, Gatefold) |
 | Label          | Go! Beat |
 | Catalog Number | 3797205 |
-| Notes | Vinyl contained in full-color gloss varnish liner with track credits.  All tracks recorded at State of Art and Coach House Studios, Bristol, with additional mixing at Moles Studio, Bath.  Track A2 contains samples from [url=http://www.discogs.com/Lalo-Schifrin-Action/release/2496879] "Danube Incident"[/url] written & performed by Lalo Schifrin and a percussion sample from [url=http://www.discogs.com/Smokey-Brooks-Eternal-Spin-It-Jig/release/827473] "Spin-It Jig"[/url] written by Henry Brooks and Otis Turner performed by Smokey Brooks   Track A3 contains samples from [url=http://www.discogs.com/Weather-Report-Black-Market/master/21739] "Elegant People"[/url] written & performed by Weather Report Track A5 contains samples from [url=http://www.discogs.com/Eric-Burdon-War-Best-Of-Eric-Burdon-War/master/449308] "Magic Mountain"[/url] written & performed by Eric Burdon & War Track B4 contains samples from [url=http://www.discogs.com/Johnnie-Ray-Ill-Never-Fall-In-Love-Again/master/232947] "I'll Never Fall In Love Again"[/url] written & performed by Johnnie Ray Track B5 contains samples from [url=http://www.discogs.com/Isaac-Hayes-Black-Moses/master/122054] "Ike's Rap III"[/url] written & performed by Isaac Hayes  ©1994 Go! Discs Limited. ℗1994 Go! Discs Limited.  |
+| Notes | Vinyl contained in full-color gloss varnish liner with track credits.<br><br>All tracks recorded at State of Art and Coach House Studios, Bristol, with additional mixing at Moles Studio, Bath.<br><br>Track A2 contains samples from [url=http://www.discogs.com/Lalo-Schifrin-Action/release/2496879] "Danube Incident"[/url] written & performed by Lalo Schifrin and a percussion sample from [url=http://www.discogs.com/Smokey-Brooks-Eternal-Spin-It-Jig/release/827473] "Spin-It Jig"[/url] written by Henry Brooks and Otis Turner performed by Smokey Brooks  <br>Track A3 contains samples from [url=http://www.discogs.com/Weather-Report-Black-Market/master/21739] "Elegant People"[/url] written & performed by Weather Report<br>Track A5 contains samples from [url=http://www.discogs.com/Eric-Burdon-War-Best-Of-Eric-Burdon-War/master/449308] "Magic Mountain"[/url] written & performed by Eric Burdon & War<br>Track B4 contains samples from [url=http://www.discogs.com/Johnnie-Ray-Ill-Never-Fall-In-Love-Again/master/232947] "I'll Never Fall In Love Again"[/url] written & performed by Johnnie Ray<br>Track B5 contains samples from [url=http://www.discogs.com/Isaac-Hayes-Black-Moses/master/122054] "Ike's Rap III"[/url] written & performed by Isaac Hayes<br><br>©1994 Go! Discs Limited.<br>℗1994 Go! Discs Limited.<br> |
 | Discogs URL    | [Portishead - Dummy](https://www.discogs.com/release/6326631-Portishead-Dummy) |

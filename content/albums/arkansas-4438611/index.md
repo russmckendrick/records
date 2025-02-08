@@ -4,6 +4,7 @@ artist_name: "Glen Campbell"
 artist: "glen-campbell"
 album_name: "Arkansas"
 date: 2020-08-02T13:41:48.000000Z
+release_date: "1975-01-01"
 release_id: "4438611"
 slug: "arkansas-4438611"
 hideSummary: true
@@ -21,26 +22,28 @@ styles: ["Country"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Arkansas
-2. I Will Never Pass This Way Again
-3. Both Sides Now
-4. A Beautiful Love Song
-5. Sunny Day Girl
-6. Bridge Over Troubled Water
-7. If You Could Read My Mind
-8. It's Over
-9. You've Still Got A Place In My Heart
-10. You'll Never Walk Alone
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Arkansas |  |
+| A2 | I Will Never Pass This Way Again |  |
+| A3 | Both Sides Now |  |
+| A4 | A Beautiful Love Song |  |
+| A5 | Sunny Day Girl |  |
+| B1 | Bridge Over Troubled Water |  |
+| B2 | If You Could Read My Mind |  |
+| B3 | It's Over |  |
+| B4 | You've Still Got A Place In My Heart |  |
+| B5 | You'll Never Walk Alone |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/arkansas/714727780" >}}<br>
 
-
-## Videos
-### Glen Campbell - Arkansas
-{{< youtube id="eccolhz6Jnc" title="Glen Campbell - Arkansas" >}}<br>
 
 
 ## Release Images
@@ -52,5 +55,5 @@ styles: ["Country"]
 | Format         | Vinyl Compilation LP |
 | Label          | Capitol Records |
 | Catalog Number | VMP 1001 |
-| Notes | Stereo 7510 T. M. Garrod & Lofthouse Ltd |
+| Notes | Stereo<br>7510 T. M. Garrod & Lofthouse Ltd |
 | Discogs URL    | [Glen Campbell - Arkansas](https://www.discogs.com/release/4438611-Glen-Campbell-Arkansas) |

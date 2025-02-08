@@ -4,6 +4,7 @@ artist_name: "Nine Inch Nails"
 artist: "nine-inch-nails"
 album_name: "Broken"
 date: 2017-11-18T09:02:20.000000Z
+release_date: "1992-09-22"
 release_id: "10693965"
 slug: "broken-10693965"
 hideSummary: true
@@ -40,33 +41,28 @@ The release consists entirely of new material and replaces the synth-pop style o
 Broken received positive reviews from critics and reached number seven on the US Billboard 200, eventually receiving a platinum certification from the Recording Industry Association of America (RIAA). The recording helped to propel Nine Inch Nails into mainstream popularity, and later received two Grammy Awards (both for Best Metal Performance) for the songs "Wish" and "Happiness in Slavery".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Pinion (1:03)
-2. Wish (3:46)
-3. Last (4:44)
-4. Help Me I Am In Hell (1:55)
-5. Happiness In Slavery (5:21)
-6. Gave Up (4:08)
-7. Physical (5:29)
-8. Suck (5:07)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Pinion | 1:03 |
+| A2 | Wish | 3:46 |
+| A3 | Last | 4:44 |
+| A4 | Help Me I Am In Hell | 1:55 |
+| A5 | Happiness In Slavery | 5:21 |
+| A6 | Gave Up | 4:08 |
+| B | Physical | 5:29 |
+| C | Suck | 5:07 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/broken-ep/1440743805" >}}<br>
 
 
-## Videos
-### Nine Inch Nails   Broken
-{{< youtube id="EBgeJ8daK24" title="Nine Inch Nails   Broken" >}}<br>
-### More Videos
-
-- [Nine Inch Nails   Broken](https://www.youtube.com/watch?v=EBgeJ8daK24)
-- [Nine Inch Nails - Pinion](https://www.youtube.com/watch?v=XfW0ke4bwI4)
-- [Nine Inch Nails Help Me I Am In Hell 1992](https://www.youtube.com/watch?v=CBOhQamGGuI)
-- [Nine Inch Nails Gave Up 1992](https://www.youtube.com/watch?v=yVpw1SwJRBI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +74,5 @@ Broken received positive reviews from critics and reached number seven on the US
 | Format         | Vinyl 12" 33 ⅓ RPM Single Sided Mini-Album Etched (180g), Vinyl 7" 45 RPM, All Media Reissue Remastered Stereo (Definitive Edition) |
 | Label          | Nothing Records |
 | Catalog Number | B0025684-01 |
-| Notes | 2017 Definitive Edition. Comes with digital download code. The 12" contains a spiral etching of random lyrics from the songs on the record.  Studios: Hell (New Orleans), Royal Recorders (Lake Geneva), South Beach Studios (Miami Beach), Village Recorder (Los Angeles), A&M (Los Angeles), Pig (Beverly Hills).  12" Jacket has a matte "n" on the front and the inside is white. 7" Paper inner sleeve.  From the hype sticker:  The definitive version of Broken, meticulously prepared by Trent Reznor and NIN art director John Crawford. Remastered in 2016 on 180-GRAM VINYL, with lots of details attended to that you may never notice but we care about.   Halo five Original release date: September 22, 1992 |
+| Notes | 2017 Definitive Edition. Comes with digital download code.<br>The 12" contains a spiral etching of random lyrics from the songs on the record.<br><br>Studios: Hell (New Orleans), Royal Recorders (Lake Geneva), South Beach Studios (Miami Beach), Village Recorder (Los Angeles), A&M (Los Angeles), Pig (Beverly Hills).<br><br>12" Jacket has a matte "n" on the front and the inside is white.<br>7" Paper inner sleeve.<br><br>From the hype sticker: <br>The definitive version of Broken, meticulously prepared by Trent Reznor and NIN art director John Crawford. Remastered in 2016 on 180-GRAM VINYL, with lots of details attended to that you may never notice but we care about. <br><br>Halo five<br>Original release date: September 22, 1992 |
 | Discogs URL    | [Nine Inch Nails - Broken](https://www.discogs.com/release/10693965-Nine-Inch-Nails-Broken) |

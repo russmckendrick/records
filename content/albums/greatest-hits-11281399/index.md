@@ -1,16 +1,17 @@
 ---
-title: "Sly & The Family Stone - Greatest Hits"
-artist_name: "Sly & The Family Stone"
+title: "Sly  The Family Stone - Greatest Hits"
+artist_name: "Sly  The Family Stone"
 artist: "sly-the-family-stone"
 album_name: "Greatest Hits"
 date: 2018-01-29T19:34:01.000000Z
+release_date: "1970-11-21"
 release_id: "11281399"
 slug: "greatest-hits-11281399"
 hideSummary: true
 cover:
     image: "greatest-hits-11281399.jpg"
-    alt: "Greatest Hits by Sly & The Family Stone"
-    caption: "Greatest Hits by Sly & The Family Stone"
+    alt: "Greatest Hits by Sly  The Family Stone"
+    caption: "Greatest Hits by Sly  The Family Stone"
 additional_images:
     - "https://i.discogs.com/cASZXZmfwVJBmP2mJ9xHWQX4fel7fRdbwoKdJqYXEbg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjgx/Mzk5LTE1ODA2MDU0/OTQtMzI1My5qcGVn.jpeg"
     - "https://i.discogs.com/V_0dXEYjQX8uy0m0gAX0vBxA5Wgr1q18jxI1QKJyKik/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjgx/Mzk5LTE1ODA2MDU1/MTktNDcyOC5qcGVn.jpeg"
@@ -28,45 +29,32 @@ The recordings on this compilation are not the same as the single versions in al
 Greatest Hits was certified quintuple platinum by the Recording Industry Association of America (RIAA), having shipped five million copies in the United States. In 2003, Rolling Stone magazine ranked the album number 60 on its list of the 500 greatest albums of all time, 61 in a 2012 revised list, and number 343 in the 2020 rankings.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Want To Take You Higher (5:22)
-2. Everybody Is A Star (3:00)
-3. Stand! (3:08)
-4. Life (2:58)
-5. Fun (2:20)
-6. You Can Make It If You Try (3:39)
-7. Dance To The Music (2:58)
-8. Everyday People (2:20)
-9. Hot Fun In The Summertime (2:37)
-10. M'Lady (2:44)
-11. Sing A Simple Song (4:47)
-12. Thank You Falettinme Be Mice Elf Agin (3:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Want To Take You Higher | 5:22 |
+| A2 | Everybody Is A Star | 3:00 |
+| A3 | Stand! | 3:08 |
+| A4 | Life | 2:58 |
+| A5 | Fun | 2:20 |
+| A6 | You Can Make It If You Try | 3:39 |
+| B1 | Dance To The Music | 2:58 |
+| B2 | Everyday People | 2:20 |
+| B3 | Hot Fun In The Summertime | 2:37 |
+| B4 | M'Lady | 2:44 |
+| B5 | Sing A Simple Song | 4:47 |
+| B6 | Thank You Falettinme Be Mice Elf Agin | 3:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits/212579326" >}}<br>
 
 
-## Videos
-### Sly  Family Stone - You Can Make It If You Try
-{{< youtube id="l8sz_7TPWE0" title="Sly  Family Stone - You Can Make It If You Try" >}}<br>
-### More Videos
-
-- [Sly  The Family Stone Thank You Falettinme Be Mice Elf Agin HQ Audio](https://www.youtube.com/watch?v=wj5VODa-eTY)
-- [Sly  The Family Stone - Sing a Simple Song Official Audio](https://www.youtube.com/watch?v=42YGprrAOj0)
-- [Sly  The Family Stone - Fun](https://www.youtube.com/watch?v=wKpVxOMNofg)
-- [Sly  The Family Stone - Everyday People Audio](https://www.youtube.com/watch?v=3JvkaUvB-ec)
-- [Sly  The Family Stone - Hot Fun in the Summertime Official Audio](https://www.youtube.com/watch?v=Bg0tFRea0wA)
-- [I Want To Take You Higher](https://www.youtube.com/watch?v=GZrsNne4XhM)
-- [Stand](https://www.youtube.com/watch?v=Al0WUPn_CnM)
-- [Everyday People](https://www.youtube.com/watch?v=bsxM-zuKdmQ)
-- [Life](https://www.youtube.com/watch?v=dbD1UVjr39s)
-- [MLady](https://www.youtube.com/watch?v=ZZ-MtP_LDXU)
-- [Sly  The Family Stone - Dance To The Music Audio](https://www.youtube.com/watch?v=Jn2PNlhvy8E)
-- [Sly  The Family Stone - Everybody Is a Star Official Audio](https://www.youtube.com/watch?v=3-1s2gqDs_U)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +66,5 @@ Greatest Hits was certified quintuple platinum by the Recording Industry Associa
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Epic |
 | Catalog Number | 88985432351 |
-| Notes | Runouts are etched, '03' on Side A is mirrored.  |
-| Discogs URL    | [Sly & The Family Stone - Greatest Hits](https://www.discogs.com/release/11281399-Sly-The-Family-Stone-Greatest-Hits) |
+| Notes | Runouts are etched, '03' on Side A is mirrored.<br> |
+| Discogs URL    | [Sly  The Family Stone - Greatest Hits](https://www.discogs.com/release/11281399-Sly-The-Family-Stone-Greatest-Hits) |

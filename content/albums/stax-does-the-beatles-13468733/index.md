@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Stax Does The Beatles"
 date: 2019-04-13T11:17:16.000000Z
+release_date: ""
 release_id: "13468733"
 slug: "stax-does-the-beatles-13468733"
 hideSummary: true
@@ -26,65 +27,34 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Day Tripper (Alternate Take)
-2. Help!
-3. Got to Get You Into My Life
-4. With a Little Help From My Friends
-5. Yesterday (Live)
-6. Eleanor Rigby
-7. Let it Be
-8. Something
-9. Yesterday
-10. Michelle
-11. And I Love Her
-12. With a Little Help From My Friends
-13. Lady Madonna
-14. My Sweet Lord
-15. Hey Jude
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Day Tripper (Alternate Take) |  |
+| A2 | Help! |  |
+| A3 | Got to Get You Into My Life |  |
+| A4 | With a Little Help From My Friends |  |
+| A5 | Yesterday (Live) |  |
+| B1 | Eleanor Rigby |  |
+| B2 | Let it Be |  |
+| B3 | Something |  |
+| C1 | Yesterday |  |
+| C2 | Michelle |  |
+| C3 | And I Love Her |  |
+| C4 | With a Little Help From My Friends |  |
+| D1 | Lady Madonna |  |
+| D2 | My Sweet Lord |  |
+| D3 | Hey Jude |  |
 
 
-## Spotify
-{{< spotify type="album" id="7a0OEC5urhsWKPaWZSgSjA" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
-## Videos
-### STAX DOES THE BEATLESa few tracks
-{{< youtube id="uKYcbGMHPAM" title="STAX DOES THE BEATLESa few tracks" >}}<br>
-### More Videos
-
-- [Let It Be - The Mar-Keys from Stax Does The Beatles](https://www.youtube.com/watch?v=0zqgu5rnPb4)
-- [And I Love Her - Reggie Milner from Stax Does The Beatles](https://www.youtube.com/watch?v=I6agj_lsnF4)
-- [My Sweet Lord - JG Williams from Stax Does The Beatles](https://www.youtube.com/watch?v=QNyoGjBwcPY)
-- [Michelle - Booker T  The MGs from Stax Does The Beatles](https://www.youtube.com/watch?v=EMcZXkSlpko)
-- [Eleanor Rigby - Booker T  The MGs from Stax Does The Beatles](https://www.youtube.com/watch?v=EkP5LsMuOt0)
-- [Day Tripper  Alternate Take - Otis Redding from Stax Does The Beatles](https://www.youtube.com/watch?v=b5L_POL7rTQ)
-- [Yesterday - The Bar-Kays from Stax Does The Beatles](https://www.youtube.com/watch?v=ZTZRMlMGs3Y)
-- [With A Little Help From My Friends - Steve Cropper from Stax Does The Beatles](https://www.youtube.com/watch?v=gSHCPfc_aYI)
-- [Something - Isaac Hayes from Stax Does The Beatles](https://www.youtube.com/watch?v=ZmMV9FJEbeQ)
-- [Lady Madonna - Booker T  The MGs from Stax Does The Beatles](https://www.youtube.com/watch?v=lC3xYq87TXg)
-- [Help - David Porter from Stax Does The Beatles](https://www.youtube.com/watch?v=gHm6J7haV8I)
-- [Hey Jude - The Bar-Kays from Stax Does The Beatles](https://www.youtube.com/watch?v=syr8QIMCfXI)
-- [Yesterday Live - Carla Thomas from Stax Does The Beatles](https://www.youtube.com/watch?v=iFEDiz_NkYU)
-- [With A Little Help From My Friends - The Bar-Kays from Stax Does The Beatles](https://www.youtube.com/watch?v=PLqHKZ2rEJU)
-- [Got To Get You Into My Life - Booker T  The MGs from Stax Does The Beatles](https://www.youtube.com/watch?v=tjQvibc4T_k)
-- [STAX DOES THE BEATLESa few tracks](https://www.youtube.com/watch?v=uKYcbGMHPAM)
-- [Let It Be - The Mar-Keys from Stax Does The Beatles](https://www.youtube.com/watch?v=0zqgu5rnPb4)
-- [And I Love Her - Reggie Milner from Stax Does The Beatles](https://www.youtube.com/watch?v=I6agj_lsnF4)
-- [My Sweet Lord - JG Williams from Stax Does The Beatles](https://www.youtube.com/watch?v=QNyoGjBwcPY)
-- [Michelle - Booker T  The MGs from Stax Does The Beatles](https://www.youtube.com/watch?v=EMcZXkSlpko)
-- [Eleanor Rigby - Booker T  The MGs from Stax Does The Beatles](https://www.youtube.com/watch?v=EkP5LsMuOt0)
-- [Day Tripper  Alternate Take - Otis Redding from Stax Does The Beatles](https://www.youtube.com/watch?v=b5L_POL7rTQ)
-- [Yesterday - The Bar-Kays from Stax Does The Beatles](https://www.youtube.com/watch?v=ZTZRMlMGs3Y)
-- [With A Little Help From My Friends - Steve Cropper from Stax Does The Beatles](https://www.youtube.com/watch?v=gSHCPfc_aYI)
-- [Something - Isaac Hayes from Stax Does The Beatles](https://www.youtube.com/watch?v=ZmMV9FJEbeQ)
-- [Lady Madonna - Booker T  The MGs from Stax Does The Beatles](https://www.youtube.com/watch?v=lC3xYq87TXg)
-- [Help - David Porter from Stax Does The Beatles](https://www.youtube.com/watch?v=gHm6J7haV8I)
-- [Hey Jude - The Bar-Kays from Stax Does The Beatles](https://www.youtube.com/watch?v=syr8QIMCfXI)
-- [Yesterday Live - Carla Thomas from Stax Does The Beatles](https://www.youtube.com/watch?v=iFEDiz_NkYU)
-- [With A Little Help From My Friends - The Bar-Kays from Stax Does The Beatles](https://www.youtube.com/watch?v=PLqHKZ2rEJU)
-- [Got To Get You Into My Life - Booker T  The MGs from Stax Does The Beatles](https://www.youtube.com/watch?v=tjQvibc4T_k)
 
 ## Release Images
 {{< imageGrid >}}

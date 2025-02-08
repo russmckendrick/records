@@ -36,22 +36,24 @@ Like all of Waits’ 1970s material, <i>Closing Time</i> was more of a cult obje
 
 
 ## Tracklisting
-1. Ol' '55 (3:55)
-2. I Hope That I Don't Fall In Love With You (3:52)
-3. Virginia Avenue (3:22)
-4. Old Shoes (& Picture Postcards) (3:41)
-5. Midnight Lullaby (3:10)
-6. Martha (4:26)
-7. Rosie (3:56)
-8. Lonely (3:11)
-9. Ice Cream Man (3:05)
-10. Little Trip To Heaven (On The Wings Of Your Love) (3:55)
-11. Grapefruit Moon (4:46)
-12. Closing Time (3:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ol' '55 | 3:55 |
+| A2 | I Hope That I Don't Fall In Love With You | 3:52 |
+| A3 | Virginia Avenue | 3:22 |
+| A4 | Old Shoes (& Picture Postcards) | 3:41 |
+| A5 | Midnight Lullaby | 3:10 |
+| A6 | Martha | 4:26 |
+| B1 | Rosie | 3:56 |
+| B2 | Lonely | 3:11 |
+| B3 | Ice Cream Man | 3:05 |
+| B4 | Little Trip To Heaven (On The Wings Of Your Love) | 3:55 |
+| B5 | Grapefruit Moon | 4:46 |
+| B6 | Closing Time | 3:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/closing-time-remastered/1485071375" >}}<br>
-
 
 
 
@@ -65,5 +67,5 @@ Like all of Waits’ 1970s material, <i>Closing Time</i> was more of a cult obje
 | Format         | Vinyl LP Album Reissue Remastered Stereo (White Label, 180 Gram) |
 | Label          | Asylum Records |
 | Catalog Number | 8122-79807-1 |
-| Notes | Please note there are 3 pressing variations that use the original "White Label" layout. This version and also these 2 releases. [r=16911276] [r=2667222]   On back cover: This production committed to Asylum by Herb Cohen  On sticker: LP's cut from the original analog masters  Packages replicated to the finest detail  Manufactured with more care than ever  Contradicting what is printed on the hype sticker there is no lyrics inner sleeve on this reissue package.  |
+| Notes | Please note there are 3 pressing variations that use the original "White Label" layout.<br>This version and also these 2 releases.<br>[r=16911276]<br>[r=2667222]<br><br><br>On back cover:<br>This production committed to Asylum by Herb Cohen<br><br>On sticker:<br>LP's cut from the original analog masters <br>Packages replicated to the finest detail <br>Manufactured with more care than ever<br><br>Contradicting what is printed on the hype sticker there is no lyrics inner sleeve on this reissue package.<br> |
 | Discogs URL    | [Tom Waits - Closing Time](https://www.discogs.com/release/3440356-Tom-Waits-Closing-Time) |

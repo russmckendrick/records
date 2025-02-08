@@ -1,16 +1,17 @@
 ---
-title: "Zero 7 - Simple Things"
-artist_name: "Zero 7"
-artist: "zero-7"
+title: "Zero - Simple Things"
+artist_name: "Zero"
+artist: "zero"
 album_name: "Simple Things"
 date: 2015-10-05T18:21:13.000000Z
+release_date: "2001-04-23"
 release_id: "7198006"
 slug: "simple-things-7198006"
 hideSummary: true
 cover:
     image: "simple-things-7198006.jpg"
-    alt: "Simple Things by Zero 7"
-    caption: "Simple Things by Zero 7"
+    alt: "Simple Things by Zero"
+    caption: "Simple Things by Zero"
 additional_images:
     - "https://i.discogs.com/rTsJhsg4fYP6kzlo154cdb_DVcwVvoBuFaBw9iDHOx8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTgw/MDYtMTQ0MzE2NTAw/Ni02ODk0LmpwZWc.jpeg"
     - "https://i.discogs.com/2eIQdSCeIcfjKXCwwPIEraEaX25orON7L8oTOEqD-V0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTgw/MDYtMTQ0MzE2NTAw/NS0zMjEzLmpwZWc.jpeg"
@@ -35,38 +36,31 @@ styles: ["Downtempo"]
 Simple Things is the debut studio album by English duo Zero 7, released on 23 April 2001. It peaked at number 28 on the UK Albums Chart, staying on the chart for 56 weeks. It was nominated for the Mercury Prize. Five singles, such as "Destiny" and "In the Waiting Line", promoted the album prior to its release.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Have Seen (5:06)
-2. Polaris (4:48)
-3. Destiny (5:37)
-4. Give It Away (5:17)
-5. Simple Things (4:24)
-6. Red Dust (5:40)
-7. Distractions (5:16)
-8. In The Waiting Line (4:32)
-9. Out Of Town (4:47)
-10. This World (5:36)
-11. Likufanele (6:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Have Seen | 5:06 |
+| A2 | Polaris | 4:48 |
+| A3 | Destiny | 5:37 |
+| B1 | Give It Away | 5:17 |
+| B2 | Simple Things | 4:24 |
+| B3 | Red Dust | 5:40 |
+| C1 | Distractions | 5:16 |
+| C2 | In The Waiting Line | 4:32 |
+| C3 | Out Of Town | 4:47 |
+| D1 | This World | 5:36 |
+| D2 | Likufanele | 6:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/simple-things/1326273139" >}}<br>
 
 
-## Videos
-### Simple Things - Zero 7 Full Album
-{{< youtube id="mV5FhnK2UKM" title="Simple Things - Zero 7 Full Album" >}}<br>
-### More Videos
-
-- [Zero 7 - Destiny Full-Length HQ](https://www.youtube.com/watch?v=idtRhja2rAM)
-- [Simple Things](https://www.youtube.com/watch?v=X5hpG9-uU3I)
-- [Simple Things Live](https://www.youtube.com/watch?v=Z2IHG5rLMns)
-- [Zero 7 - In The Waiting Line Official Video ft Sophie Barker](https://www.youtube.com/watch?v=V1zrEGsj234)
-- [Simple Things](https://www.youtube.com/watch?v=X5hpG9-uU3I)
-- [Zero 7 - I Have Seen Official Video ft Mozez](https://www.youtube.com/watch?v=rap9YCMq7iw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +72,5 @@ Simple Things is the debut studio album by English duo Zero 7, released on 23 Ap
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Warner Music |
 | Catalog Number | 0825646132751 |
-| Notes | ℗ 2001 A & E Records Limited. © 2001 Warner Music UK Ltd. A Warner Music Group Company. Made in the EU.  Produced and Fleximixed at Shabang Studios.  Sticker on front. 180gm vinyl Includes download code for mp3 version of the album. |
-| Discogs URL    | [Zero 7 - Simple Things](https://www.discogs.com/release/7198006-Zero-7-Simple-Things) |
+| Notes | ℗ 2001 A & E Records Limited. © 2001 Warner Music UK Ltd.<br>A Warner Music Group Company.<br>Made in the EU.<br><br>Produced and Fleximixed at Shabang Studios.<br><br>Sticker on front.<br>180gm vinyl Includes download code for mp3 version of the album. |
+| Discogs URL    | [Zero - Simple Things](https://www.discogs.com/release/7198006-Zero-7-Simple-Things) |

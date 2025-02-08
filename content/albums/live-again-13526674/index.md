@@ -1,9 +1,10 @@
 ---
 title: "The League Of Gentlemen - Live Again!"
 artist_name: "The League Of Gentlemen"
-artist: "the-league-of-gentlemen-3"
+artist: "the-league-of-gentlemen"
 album_name: "Live Again!"
 date: 2019-04-24T16:42:40.000000Z
+release_date: "2019-04-13"
 release_id: "13526674"
 slug: "live-again-13526674"
 hideSummary: true
@@ -31,40 +32,42 @@ styles: ["Comedy"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Opening Announcement 
-2. Perveswerve
-3. Go Johnny Go, Go, Go, Go!
-4. Attachments Dating Agency
-5. Mick McNamara 
-6. Pam Doove
-7. Fun Night With Mike King
-8. Pop & Al
-9. Mr Foot
-10. Charlie & Stella
-11. Ollie Plimsolls
-12. Tubbs & Edward
-13. Toddy's Bingo
-14. Geoff, Mike & Brian
-15. Dear Bernice...
-16. Herr Lipp
-17. 'Surgery In Action' Live
-18. Dear Bernice...
-19. Pauline RIP
-20. Auntie Val's Wedding
-21. Les McQueen
-22. Benjamin's Flashback 
-23. Dear Bernice...
-24. Local Shop/Wife Mine
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Opening Announcement  |  |
+| A2 | Perveswerve |  |
+| A3 | Go Johnny Go, Go, Go, Go! |  |
+| A4 | Attachments Dating Agency |  |
+| A5 | Mick McNamara  |  |
+| A6 | Pam Doove |  |
+| A7 | Fun Night With Mike King |  |
+| A8 | Pop & Al |  |
+| B1 | Mr Foot |  |
+| B2 | Charlie & Stella |  |
+| B3 | Ollie Plimsolls |  |
+| B4 | Tubbs & Edward |  |
+| B5 | Toddy's Bingo |  |
+| B6 | Geoff, Mike & Brian |  |
+| C1 | Dear Bernice... |  |
+| C2 | Herr Lipp |  |
+| C3 | 'Surgery In Action' Live |  |
+| C4 | Dear Bernice... |  |
+| C5 | Pauline RIP |  |
+| D1 | Auntie Val's Wedding |  |
+| D2 | Les McQueen |  |
+| D3 | Benjamin's Flashback  |  |
+| D4 | Dear Bernice... |  |
+| D5 | Local Shop/Wife Mine |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-again/1457934944" >}}<br>
 
-
-## Videos
-### The League Of Gentlemen Live Again Toddys Bingo
-{{< youtube id="AT7zM7TXjr8" title="The League Of Gentlemen Live Again Toddys Bingo" >}}<br>
 
 
 ## Release Images
@@ -76,5 +79,5 @@ styles: ["Comedy"]
 | Format         | Vinyl 2× LP Record Store Day Limited Edition (Black / White, Gatefold, Pop-up sleeve ) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC410 |
-| Notes | Black & White mixed 'Papa Lazarou' vinyl. Gatefold sleeve with cardboard pop-up interior. Record Store Day 2019 Recorded London, 27 September 2018 |
+| Notes | Black & White mixed 'Papa Lazarou' vinyl.<br>Gatefold sleeve with cardboard pop-up interior.<br>Record Store Day 2019<br>Recorded London, 27 September 2018 |
 | Discogs URL    | [The League Of Gentlemen - Live Again!](https://www.discogs.com/release/13526674-The-League-Of-Gentlemen-3-Live-Again) |

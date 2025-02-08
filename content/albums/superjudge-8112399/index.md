@@ -4,6 +4,7 @@ artist_name: "Monster Magnet"
 artist: "monster-magnet"
 album_name: "Superjudge"
 date: 2016-07-10T09:50:22.000000Z
+release_date: "1993-04-06"
 release_id: "8112399"
 slug: "superjudge-8112399"
 hideSummary: true
@@ -30,54 +31,38 @@ styles: ["Space Rock", "Psychedelic Rock"]
 ---
 
 Superjudge is the second full-length album by American rock band Monster Magnet, released on April 6, 1993. It is the first Monster Magnet album to feature lead guitarist Ed Mundell, who replaced founding member John McBain in 1992. The album was not a commercial success upon release, but would later become an influential release in the stoner rock genre alongside the band's debut album, Spine of God. The tracks "Twin Earth" and "Face Down" were released as singles with accompanying music videos.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Cyclops Revolution
-2. Twin Earth
-3. Superjudge
-4. Cage Around The Sun
-5. Elephant Bell
-6. Dinosaur Vacume
-7. Evil
-8. Stadium
-9. Face Down
-10. Brainstorm
-11. Black Balloon
-12. Unsolid (Studio B-Side)
-13. Medicine (Live B-Side)
-14. Nod Scene (Live B-Side)
-15. Superjudge (Live B-Side)
-16. Twin Earth (Live)
-17. Nod Scene (Live)
-18. Evil (Live)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cyclops Revolution |  |
+| A2 | Twin Earth |  |
+| A3 | Superjudge |  |
+| A4 | Cage Around The Sun |  |
+| B1 | Elephant Bell |  |
+| B2 | Dinosaur Vacume |  |
+| B3 | Evil |  |
+| B4 | Stadium |  |
+| B5 | Face Down |  |
+| C1 | Brainstorm |  |
+| C2 | Black Balloon |  |
+| C3 | Unsolid (Studio B-Side) |  |
+| C4 | Medicine (Live B-Side) |  |
+| C5 | Nod Scene (Live B-Side) |  |
+| D1 | Superjudge (Live B-Side) |  |
+| D2 | Twin Earth (Live) |  |
+| D3 | Nod Scene (Live) |  |
+| D4 | Evil (Live) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/superjudge/1713568887" >}}<br>
 
 
-## Videos
-### Monster Magnet - Superjudge Full Album
-{{< youtube id="4v6patyOnzk" title="Monster Magnet - Superjudge Full Album" >}}<br>
-### More Videos
-
-- [Monster Magnet - Superjudge](https://www.youtube.com/watch?v=zf49V2yB3Z4)
-- [Monster Magnet - Dinosaur Vacume](https://www.youtube.com/watch?v=XjelR577XPc)
-- [Monster Magnet - Cyclops Revolution](https://www.youtube.com/watch?v=Xj9RxWM7Dmg)
-- [Monster Magnet - Stadium](https://www.youtube.com/watch?v=m7pwlP43J2M)
-- [Monster Magnet - Twin Earth](https://www.youtube.com/watch?v=9qR4ViYVmew)
-- [Monster Magnet - Twin Earth HQ](https://www.youtube.com/watch?v=WNkdSieWjnM)
-- [Monster Magnet - Twin Earth](https://www.youtube.com/watch?v=1eyu_UmDrCk)
-- [Monster Magnet - Elephant Bell Superjudge](https://www.youtube.com/watch?v=RGHeYiEfEbc)
-- [Evil Is Going On](https://www.youtube.com/watch?v=pNQixVBrh0Q)
-- [Monster Magnet - Evil 1992](https://www.youtube.com/watch?v=NUf8LfM9wqc)
-- [Monster Magnet - Face Down](https://www.youtube.com/watch?v=tz6epB9kJW4)
-- [Monster Magnet - Brainstorm](https://www.youtube.com/watch?v=NCOa0lXJuEk)
-- [Monster Magnet - Cage Around The Sun w lyrics](https://www.youtube.com/watch?v=YNY0IgDOfqo)
-- [Monster Magnet - Black Balloon](https://www.youtube.com/watch?v=bm3WsrqN1WQ)
-- [Monster Magnet - Superjudge Full Album](https://www.youtube.com/watch?v=4v6patyOnzk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -89,5 +74,5 @@ Superjudge is the second full-length album by American rock band Monster Magnet,
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Spinefarm Records |
 | Catalog Number | 00600753642450 |
-| Notes |  Black vinyl. Includes sleeve-notes & bonus tracks + cover material.     Comes with free album download code.    ℗ & © 2015 Spinefarm Records & Universal Music Group Company    Made in the EU. |
+| Notes |  Black vinyl. Includes sleeve-notes & bonus tracks + cover material. <br><br>Comes with free album download code.<br><br>℗ & © 2015 Spinefarm Records & Universal Music Group Company<br><br>Made in the EU. |
 | Discogs URL    | [Monster Magnet - Superjudge](https://www.discogs.com/release/8112399-Monster-Magnet-Superjudge) |

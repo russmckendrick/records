@@ -4,6 +4,7 @@ artist_name: "Nordic Giants"
 artist: "nordic-giants"
 album_name: "A Séance Of Dark Delusions"
 date: 2015-08-21T17:40:40.000000Z
+release_date: "2015-04-27"
 release_id: "6982951"
 slug: "a-sance-of-dark-delusions-6982951"
 hideSummary: true
@@ -32,32 +33,28 @@ styles: ["Post Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Elysian Skies
-2. Evolve Or Perish
-3. Rapture
-4. Give Flight To The Imagination
-5. Dissolve
-6. Illuminate
-7. Futures Dark
-8. Black Folds
-9. A Thousand Lost Dreams
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Elysian Skies |  |
+| A2 | Evolve Or Perish |  |
+| A3 | Rapture |  |
+| A4 | Give Flight To The Imagination |  |
+| A5 | Dissolve |  |
+| B1 | Illuminate |  |
+| B2 | Futures Dark |  |
+| B3 | Black Folds |  |
+| B4 | A Thousand Lost Dreams |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-s%C3%A9ance-of-dark-delusions/985590300" >}}<br>
 
 
-## Videos
-###  Nordic Giants A Séance Of Dark Delusions May 2015 UK Tour Trailer 2 
-{{< youtube id="yeI5UM572xI" title=" Nordic Giants A Séance Of Dark Delusions May 2015 UK Tour Trailer 2 " >}}<br>
-### More Videos
-
-- [Nordic Giants - A Séance of Dark Delusions documentary clip](https://www.youtube.com/watch?v=LDroAjaym04)
-- [Nordic Giants - Rapture from A Séance of Dark Delusions](https://www.youtube.com/watch?v=K79YFZLXobM)
-- [ Nordic Giants A Séance Of Dark Delusions May 2015 UK Tour Trailer 2 ](https://www.youtube.com/watch?v=yeI5UM572xI)
-- [Nordic Giants - A Séance of Dark Delusions documentary clip](https://www.youtube.com/watch?v=LDroAjaym04)
-- [Nordic Giants - Rapture from A Séance of Dark Delusions](https://www.youtube.com/watch?v=K79YFZLXobM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +65,5 @@ styles: ["Post Rock"]
 | Format         | Vinyl LP Album (180 g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE879 |
-| Notes | ℗ 2015 Snapper IPR Ltd. © 2015 Snapper IPR Ltd. KScope is a Snapper Music label. Made in Germany.  Gatefold 1LP + 4 page booklet + download code.   |
+| Notes | ℗ 2015 Snapper IPR Ltd. © 2015 Snapper IPR Ltd. KScope is a Snapper Music label. Made in Germany.<br><br>Gatefold 1LP + 4 page booklet + download code.<br><br> |
 | Discogs URL    | [Nordic Giants - A Séance Of Dark Delusions](https://www.discogs.com/release/6982951-Nordic-Giants-A-Séance-Of-Dark-Delusions) |

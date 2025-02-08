@@ -4,6 +4,7 @@ artist_name: "Split Enz"
 artist: "split-enz"
 album_name: "I Got You"
 date: 2018-10-03T18:03:57.000000Z
+release_date: "2024-05-24"
 release_id: "141830"
 slug: "i-got-you-141830"
 hideSummary: true
@@ -24,24 +25,22 @@ styles: ["New Wave", "Pop Rock", "Synth-pop"]
 The song was rated #11 on the Australasian Performing Right Association's Top 100 New Zealand Songs Of All Time list.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Got You (3:24)
-2. Double Happy (3:15)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | I Got You | 3:24 |
+| B | Double Happy | 3:15 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-got-you-karaoke-version-originally-performed-by-split/1755091340" >}}<br>
 
 
-## Videos
-### Split Enz - I Got You Official Video
-{{< youtube id="wiqBlKnb91A" title="Split Enz - I Got You Official Video" >}}<br>
-### More Videos
-
-- [Split Enz - I Got You 1980](https://www.youtube.com/watch?v=YmQlBfxh4Us)
 
 ## Release Images
 {{< imageGrid >}}
@@ -53,5 +52,5 @@ The song was rated #11 on the Australasian Performing Right Association's Top 10
 | Format         | Vinyl 7" 45 RPM Single Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMS 7546 |
-| Notes | From the forthcoming A & M album [m=81214] AMLH 64822 A Boomerang production  Published by Modern Publishing Ltd./ATV Music Ltd. ℗ 1979 Mushroom Records Pty. Ltd. |
+| Notes | From the forthcoming A & M album [m=81214] AMLH 64822<br>A Boomerang production<br><br>Published by Modern Publishing Ltd./ATV Music Ltd.<br>℗ 1979 Mushroom Records Pty. Ltd. |
 | Discogs URL    | [Split Enz - I Got You](https://www.discogs.com/release/141830-Split-Enz-I-Got-You) |

@@ -39,33 +39,24 @@ Roland Orzabal and Curt Smith have been through a lot together in their 40-plus 
 
 
 ## Tracklisting
-1. No Small Thing (4:42)
-2. The Tipping Point (4:13)
-3. Long, Long, Long Time (4:31)
-4. Break The Man (3:55)
-5. My Demons (3:08)
-6. Rivers Of Mercy (6:08)
-7. Please Be Happy (3:05)
-8. Master Plan (4:37)
-9. End Of Night (3:23)
-10. Stay (4:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | No Small Thing | 4:42 |
+| A2 | The Tipping Point | 4:13 |
+| A3 | Long, Long, Long Time | 4:31 |
+| A4 | Break The Man | 3:55 |
+| A5 | My Demons | 3:08 |
+| B1 | Rivers Of Mercy | 6:08 |
+| B2 | Please Be Happy | 3:05 |
+| B3 | Master Plan | 4:37 |
+| B4 | End Of Night | 3:23 |
+| B5 | Stay | 4:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-tipping-point/1586912660" >}}<br>
 
 
-## Videos
-### Tears For Fears - The Tipping Point Official Music Video
-{{< youtube id="yUp-ujO979U" title="Tears For Fears - The Tipping Point Official Music Video" >}}<br>
-### More Videos
-
-- [Tears For Fears - Break The Man Official Music Video](https://www.youtube.com/watch?v=zAwFd1wz_-Y)
-- [Tears For Fears The Tipping Point BBC Breakfast 2022](https://www.youtube.com/watch?v=iSeFQ5K1FSw)
-- [Tears for Fears - The Tipping Point The 12 Extended Versions](https://www.youtube.com/watch?v=R94XmkUCySk)
-- [Tears For Fears Break The Man](https://www.youtube.com/watch?v=rVHqaESW8Ug)
-- [Tears For Fears - The Tipping Point - Behind The Song](https://www.youtube.com/watch?v=JMtfACD2u6s)
-- [Tears For Fears - Tipping Point Radio 2 in the Park 2023](https://www.youtube.com/watch?v=rkf0nGSvJ48)
-- [Tears for Fears  The Tipping Point  LIVE Performance  SiriusXM](https://www.youtube.com/watch?v=iRRLxxoc36k)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +68,5 @@ Roland Orzabal and Curt Smith have been through a lot together in their 40-plus 
 | Format         | Vinyl LP Album Limited Edition (Green Grass) |
 | Label          | Concord Records |
 | Catalog Number | CRE01856 |
-| Notes | US & Canada Indie Exclusive  ℗ & © 2022 TFFUK, LLC  Gatefold sleeve and includes a limited edition lithograph. 888072410978 is the UPC of this colored pressing, the other is the generic black vinyl UPC. |
+| Notes | US & Canada Indie Exclusive<br><br>℗ & © 2022 TFFUK, LLC<br><br>Gatefold sleeve and includes a limited edition lithograph.<br>888072410978 is the UPC of this colored pressing, the other is the generic black vinyl UPC. |
 | Discogs URL    | [Tears For Fears - The Tipping Point](https://www.discogs.com/release/22266628-Tears-For-Fears-The-Tipping-Point) |

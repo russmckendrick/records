@@ -1,6 +1,6 @@
 ---
-title: "Elvis Costello & The Attractions - Punch The Clock"
-artist_name: "Elvis Costello & The Attractions"
+title: "Elvis Costello  The Attractions - Punch The Clock"
+artist_name: "Elvis Costello  The Attractions"
 artist: "elvis-costello-the-attractions"
 album_name: "Punch The Clock"
 date: 2018-08-17T16:35:01.000000Z
@@ -10,8 +10,8 @@ slug: "punch-the-clock-379376"
 hideSummary: true
 cover:
     image: "punch-the-clock-379376.jpg"
-    alt: "Punch The Clock by Elvis Costello & The Attractions"
-    caption: "Punch The Clock by Elvis Costello & The Attractions"
+    alt: "Punch The Clock by Elvis Costello  The Attractions"
+    caption: "Punch The Clock by Elvis Costello  The Attractions"
 additional_images:
     - "https://i.discogs.com/UfjjqzlFLovKSSPAdyuR8j6EUoICwRez30AYwbAqv18/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTM3/Ni0xMjk5MjUxNDQ4/LmpwZWc.jpeg"
     - "https://i.discogs.com/FSpzoCXIOvr9Zt_VhI0GLW2pMpRDspklTlusP6gXF5M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTM3/Ni0xMjk5MjUxNDU3/LmpwZWc.jpeg"
@@ -31,23 +31,25 @@ The album received mixed-to-positive reviews from music critics on release and i
 
 
 ## Tracklisting
-1. Let Them All Talk (3:05)
-2. Everyday I Write The Book (3:54)
-3. The Greatest Thing (3:04)
-4. The Element Within Her (2:52)
-5. Love Went Mad (3:12)
-6. Shipbuilding (4:52)
-7. TKO (Boxing Day) (3:28)
-8. Charm School (3:55)
-9. The Invisible Man (3:05)
-10. Mouth Almighty (3:00)
-11. King Of Thieves (3:45)
-12. Pills And Soap (3:42)
-13. The World And His Wife (3:25)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Let Them All Talk | 3:05 |
+| A2 | Everyday I Write The Book | 3:54 |
+| A3 | The Greatest Thing | 3:04 |
+| A4 | The Element Within Her | 2:52 |
+| A5 | Love Went Mad | 3:12 |
+| A6 | Shipbuilding | 4:52 |
+| B1 | TKO (Boxing Day) | 3:28 |
+| B2 | Charm School | 3:55 |
+| B3 | The Invisible Man | 3:05 |
+| B4 | Mouth Almighty | 3:00 |
+| B5 | King Of Thieves | 3:45 |
+| B6 | Pills And Soap | 3:42 |
+| B7 | The World And His Wife | 3:25 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/punch-the-clock/1442898613" >}}<br>
-
 
 
 
@@ -61,5 +63,5 @@ The album received mixed-to-positive reviews from music critics on release and i
 | Format         | Vinyl LP Album |
 | Label          | F-Beat |
 | Catalog Number | XXLP 19 |
-| Notes | Recorded at Air Studios, London. Mixed at Genetic Studios, Reading.  Issued with heavy stock printed inner sleeve with lyrics. (inner sleeve has rounded corners, for copy with square corners see elsewhere)  [Publishers] Plangent Visions Music Ltd. except "Shipbuilding" Plangent Visions Music Ltd. / Warner Bros. Music Ltd.  [Rear sleeve]: ℗ & © 1983 F-Beat Records. Marketed and distributed by RCA Ltd. Record Division.  [Labels]: ℗ 1983 Riviera Global Records Productions Ltd.  © 1983 F-Beat Records Ltd.  Variant 4 Last character of Side A matrix/runout is after "A-1U-1-1-" where only a small round bottom is visible, like a shallow u or the bottom part of a 8. The upper part is not visible at all. |
-| Discogs URL    | [Elvis Costello & The Attractions - Punch The Clock](https://www.discogs.com/release/379376-Elvis-Costello-And-The-Attractions-Punch-The-Clock) |
+| Notes | Recorded at Air Studios, London. Mixed at Genetic Studios, Reading.<br><br>Issued with heavy stock printed inner sleeve with lyrics. (inner sleeve has rounded corners, for copy with square corners see elsewhere)<br><br>[Publishers]<br>Plangent Visions Music Ltd. except<br>"Shipbuilding" Plangent Visions Music Ltd. / Warner Bros. Music Ltd.<br><br>[Rear sleeve]:<br>℗ & © 1983 F-Beat Records. Marketed and distributed by<br>RCA Ltd. Record Division.<br><br>[Labels]:<br>℗ 1983 Riviera Global Records Productions Ltd. <br>© 1983 F-Beat Records Ltd.<br><br>Variant 4 Last character of Side A matrix/runout is after "A-1U-1-1-" where only a small round bottom is visible, like a shallow u or the bottom part of a 8. The upper part is not visible at all. |
+| Discogs URL    | [Elvis Costello  The Attractions - Punch The Clock](https://www.discogs.com/release/379376-Elvis-Costello-And-The-Attractions-Punch-The-Clock) |

@@ -33,24 +33,21 @@ Conceived of in a dream and sketched out during a series of pre-dawn sessions be
 
 
 ## Tracklisting
-1. The Lord
-2. Love Is Like A Braid
-3. My Professional Opinion
-4. Your Forgiveness
-5. Trail Of Volcanoes
-6. The Sacred Harp
-7. Wait
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Lord |  |
+| A2 | Love Is Like A Braid |  |
+| A3 | My Professional Opinion |  |
+| B1 | Your Forgiveness |  |
+| B2 | Trail Of Volcanoes |  |
+| B3 | The Sacred Harp |  |
+| B4 | Wait |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/seven-psalms/1679077462" >}}<br>
 
 
-## Videos
-### Seven Psalms The Lord  Love Is Like a Braid  My Professional Opinion  Your Forgiveness 
-{{< youtube id="ANtntuDslnk" title="Seven Psalms The Lord  Love Is Like a Braid  My Professional Opinion  Your Forgiveness " >}}<br>
-### More Videos
-
-- [Seven Psalms The Lord  Love Is Like a Braid  My Professional Opinion  Your Forgiveness ](https://www.youtube.com/watch?v=ANtntuDslnk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +59,5 @@ Conceived of in a dream and sketched out during a series of pre-dawn sessions be
 | Format         | Vinyl LP Album Stereo |
 | Label          | Owl Records (24) |
 | Catalog Number | 19658784901 |
-| Notes | Made in the EU.  Includes 4 page inlay folder with lyrics and credits.  ℗ and © 2023 Owl Records, under exclusive license to Sony Music Entertainment |
+| Notes | Made in the EU.<br><br>Includes 4 page inlay folder with lyrics and credits.<br><br>℗ and © 2023 Owl Records, under exclusive license to Sony Music Entertainment |
 | Discogs URL    | [Paul Simon - Seven Psalms](https://www.discogs.com/release/27127059-Paul-Simon-Seven-Psalms) |

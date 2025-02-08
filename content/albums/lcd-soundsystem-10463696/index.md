@@ -33,41 +33,23 @@ At the same time, Murphy had begun producing his own music as LCD Soundsystem. T
 
 
 ## Tracklisting
-1. Daft Punk Is Playing At My House
-2. Too Much Love
-3. Tribulations
-4. Movement
-5. Never As Tired As When I'm Waking Up
-6. On Repeat
-7. Thrills
-8. Disco Infiltrator
-9. Great Release
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Daft Punk Is Playing At My House |  |
+| A2 | Too Much Love |  |
+| A3 | Tribulations |  |
+| A4 | Movement |  |
+| A5 | Never As Tired As When I'm Waking Up |  |
+| B1 | On Repeat |  |
+| B2 | Thrills |  |
+| B3 | Disco Infiltrator |  |
+| B4 | Great Release |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lcd-soundsystem/696523434" >}}<br>
 
 
-## Videos
-### LCD Soundsystem - Daft Punk Is Playing At My House Official Video
-{{< youtube id="Cj8JrQ9w5jY" title="LCD Soundsystem - Daft Punk Is Playing At My House Official Video" >}}<br>
-### More Videos
-
-- [Daft Punk Is Playing at My House](https://www.youtube.com/watch?v=c7eCpUG9r5U)
-- [Too Much Love](https://www.youtube.com/watch?v=CcEC5r0xzt8)
-- [Tribulations](https://www.youtube.com/watch?v=G6aNYV8B5wc)
-- [Movement](https://www.youtube.com/watch?v=2vHUEGI3_no)
-- [Never as Tired as When Im Waking Up](https://www.youtube.com/watch?v=Xz4Lq1RfqAk)
-- [On Repeat](https://www.youtube.com/watch?v=y6SmM0IQTjY)
-- [Thrills](https://www.youtube.com/watch?v=oOpf6_kpgLI)
-- [Disco Infiltrator](https://www.youtube.com/watch?v=s7CBdX0_A3g)
-- [Great Release](https://www.youtube.com/watch?v=NFy1VJFDrZ4)
-- [Yr Citys a Sucker](https://www.youtube.com/watch?v=q_wroK6bY7Y)
-- [Losing My Edge](https://www.youtube.com/watch?v=nqww88x584U)
-- [Beat Connection](https://www.youtube.com/watch?v=xwVFktBrS-E)
-- [Give It Up](https://www.youtube.com/watch?v=th2IQgi5d-Y)
-- [Tired](https://www.youtube.com/watch?v=uIzBOTXASgw)
-- [Yeah](https://www.youtube.com/watch?v=ERdGCgI-Uj4)
-- [Yeah Pretentious Mix](https://www.youtube.com/watch?v=vTDDSrhXdBY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +61,5 @@ At the same time, Murphy had begun producing his own music as LCD Soundsystem. T
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | DFA |
 | Catalog Number | dfaplg 2138lp |
-| Notes | Gatefold sleeve  ℗ 2005 © 2017  Printed in the EU  Reissue with different back cover. |
+| Notes | Gatefold sleeve<br><br>℗ 2005<br>© 2017<br><br>Printed in the EU<br><br>Reissue with different back cover. |
 | Discogs URL    | [LCD Soundsystem - LCD Soundsystem](https://www.discogs.com/release/10463696-LCD-Soundsystem-LCD-Soundsystem) |

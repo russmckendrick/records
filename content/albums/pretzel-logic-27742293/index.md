@@ -32,37 +32,25 @@ And, boy—does the knife gleam on <i>Pretzel Logic</i>. Even the album’s comf
 
 
 ## Tracklisting
-1. Rikki Don't Lose That Number (4:30)
-2. Night By Night (3:36)
-3. Any Major Dude Will Tell You (3:05)
-4. Barrytown (3:17)
-5. East St. Louis Toodle-oo (2:45)
-6. Parker's Band (2:36)
-7. Through With Buzz (1:30)
-8. Pretzel Logic (4:28)
-9. With A Gun (2:15)
-10. Charlie Freak (2:41)
-11. Monkey In Your Soul (2:31)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rikki Don't Lose That Number | 4:30 |
+| A2 | Night By Night | 3:36 |
+| A3 | Any Major Dude Will Tell You | 3:05 |
+| A4 | Barrytown | 3:17 |
+| A5 | East St. Louis Toodle-oo | 2:45 |
+| B1 | Parker's Band | 2:36 |
+| B2 | Through With Buzz | 1:30 |
+| B3 | Pretzel Logic | 4:28 |
+| B4 | With A Gun | 2:15 |
+| B5 | Charlie Freak | 2:41 |
+| B6 | Monkey In Your Soul | 2:31 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pretzel-logic/1696215205" >}}<br>
 
 
-## Videos
-### Rikki Dont Lose That Number
-{{< youtube id="3tvRSFAVAqU" title="Rikki Dont Lose That Number" >}}<br>
-### More Videos
-
-- [Night By Night](https://www.youtube.com/watch?v=0cxFzHO9lfI)
-- [Any Major Dude Will Tell You](https://www.youtube.com/watch?v=HBzzdlpISFg)
-- [Barrytown](https://www.youtube.com/watch?v=BwAu9S_UBPo)
-- [East St Louis Toodle-Oo](https://www.youtube.com/watch?v=aD2FCoxmWgA)
-- [Parkers Band](https://www.youtube.com/watch?v=vvziJUxrD6k)
-- [Through With Buzz](https://www.youtube.com/watch?v=0P6zEU_G9v4)
-- [Pretzel Logic](https://www.youtube.com/watch?v=UBxZFadp9Pw)
-- [With A Gun](https://www.youtube.com/watch?v=kM89Cx3GQJg)
-- [Charlie Freak](https://www.youtube.com/watch?v=TDZdNr9PHao)
-- [Monkey In Your Soul](https://www.youtube.com/watch?v=v6gAN-HRt9Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +62,5 @@ And, boy—does the knife gleam on <i>Pretzel Logic</i>. Even the album’s comf
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | Geffen Records |
 | Catalog Number | B0034986-01 |
-| Notes | Gatefold sleeve  Runouts: B0034986-01-A A 4/11/23 and B0034986-01-B B 4/10/23 etched. All else stamped. Runouts show a narrowed double A typical for a Arnie Acosta cut |
+| Notes | Gatefold sleeve<br><br>Runouts:<br>B0034986-01-A A 4/11/23 and B0034986-01-B B 4/10/23 etched. All else stamped.<br>Runouts show a narrowed double A typical for a Arnie Acosta cut |
 | Discogs URL    | [Steely Dan - Pretzel Logic](https://www.discogs.com/release/27742293-Steely-Dan-Pretzel-Logic) |

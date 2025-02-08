@@ -1,16 +1,17 @@
 ---
-title: "Echo & The Bunnymen - Porcupine"
-artist_name: "Echo & The Bunnymen"
+title: "Echo  The Bunnymen - Porcupine"
+artist_name: "Echo  The Bunnymen"
 artist: "echo-the-bunnymen"
 album_name: "Porcupine"
 date: 2017-07-21T18:28:47.000000Z
+release_date: "1983-02-04"
 release_id: "374614"
 slug: "porcupine-374614"
 hideSummary: true
 cover:
     image: "porcupine-374614.jpg"
-    alt: "Porcupine by Echo & The Bunnymen"
-    caption: "Porcupine by Echo & The Bunnymen"
+    alt: "Porcupine by Echo  The Bunnymen"
+    caption: "Porcupine by Echo  The Bunnymen"
 additional_images:
     - "https://i.discogs.com/x5vqvO7bN8UD52UzHMwUwpDnaiGjGIH_v_hUDR_srf4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDYx/NC0xNjAxOTcxNjM0/LTQxMTQuanBlZw.jpeg"
     - "https://i.discogs.com/KrEzeuq-_TGVaTd242QRHJAzZ1iMjG2qBBv5P57NuP8/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDYx/NC0xNjAxOTcxNjM5/LTUyNjYuanBlZw.jpeg"
@@ -28,50 +29,30 @@ Porcupine is the third studio album by the English post-punk band Echo & the Bun
 Porcupine was recorded at Trident Studios in London, Rockfield Studios in South Wales and Amazon Studios in Liverpool. It was produced by Ian Broudie (credited as "Kingbird"), who had co-produced the band's first album, 1980's Crocodiles, and their second single, "Rescue." After being rejected by the band's label, the album was rerecorded with Shankar providing strings. It was originally released as an LP in 1983 before being reissued on CD in 1988. The album was reissued as a remastered and expanded CD in 2003, along with the other four of the band's first five studio albums. A VHS video called Porcupine – An Atlas Adventure was also released, containing six promotional videos of tracks from the album.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Cutter (3:50)
-2. Back Of Love (3:12)
-3. My White Devil (4:30)
-4. Clay (4:10)
-5. Porcupine (5:55)
-6. Heads Will Roll (3:28)
-7. Ripeness (4:46)
-8. Higher Hell (5:00)
-9. Gods Will Be Gods (4:10)
-10. In Bluer Skies (5:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Cutter | 3:50 |
+| A2 | Back Of Love | 3:12 |
+| A3 | My White Devil | 4:30 |
+| A4 | Clay | 4:10 |
+| A5 | Porcupine | 5:55 |
+| B1 | Heads Will Roll | 3:28 |
+| B2 | Ripeness | 4:46 |
+| B3 | Higher Hell | 5:00 |
+| B4 | Gods Will Be Gods | 4:10 |
+| B5 | In Bluer Skies | 5:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/porcupine/1611166017" >}}<br>
 
 
-## Videos
-### The Cutter
-{{< youtube id="3fKwo8qlkJE" title="The Cutter" >}}<br>
-### More Videos
-
-- [Back of Love](https://www.youtube.com/watch?v=W5O-F0s8CzU)
-- [My White Devil](https://www.youtube.com/watch?v=eSfGEaxSdEQ)
-- [Clay](https://www.youtube.com/watch?v=fRKwNcYbbkQ)
-- [Porcupine](https://www.youtube.com/watch?v=bUdyUqhivug)
-- [Heads Will Roll](https://www.youtube.com/watch?v=wo87VUG-F54)
-- [Ripeness](https://www.youtube.com/watch?v=yOnOUSxaJ-0)
-- [Higher Hell](https://www.youtube.com/watch?v=CMh55H3K8fY)
-- [Gods Will Be Gods](https://www.youtube.com/watch?v=HJKhtrbVsl4)
-- [In Bluer Skies](https://www.youtube.com/watch?v=xtzzHeeLR3E)
-- [The Cutter](https://www.youtube.com/watch?v=3fKwo8qlkJE)
-- [Back of Love](https://www.youtube.com/watch?v=W5O-F0s8CzU)
-- [My White Devil](https://www.youtube.com/watch?v=eSfGEaxSdEQ)
-- [Clay](https://www.youtube.com/watch?v=fRKwNcYbbkQ)
-- [Porcupine](https://www.youtube.com/watch?v=bUdyUqhivug)
-- [Heads Will Roll](https://www.youtube.com/watch?v=wo87VUG-F54)
-- [Ripeness](https://www.youtube.com/watch?v=yOnOUSxaJ-0)
-- [Higher Hell](https://www.youtube.com/watch?v=CMh55H3K8fY)
-- [Gods Will Be Gods](https://www.youtube.com/watch?v=HJKhtrbVsl4)
-- [In Bluer Skies](https://www.youtube.com/watch?v=xtzzHeeLR3E)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +64,5 @@ Porcupine was recorded at Trident Studios in London, Rockfield Studios in South 
 | Format         | Vinyl LP Album |
 | Label          | Korova |
 | Catalog Number | KODE 6 |
-| Notes | First pressing released without barcode on sleeve and with credits printed on a polylined liner. KODE 6 only on labels; also 240027-1 on inner and rear sleeve, 24.0027-1 on spine.  A limited number of the first UK pressing included a free five track cassette. This was the same cassette as given away with some copies of the "The Cutter" 7" single that was released at about the same time.   ℗&© 1983 WEA Records Ltd.  ZOO MANAGEMENT c/o Korova Records 17 Berners Street London, West One   "PINING FOR THE PORK OF THE PORCUPINE"  Manufactured in Germany ---------------- Mastering credit derived from matrix. Runouts have the matrices stamped and etched, the 2-digit number and 'RAYS' is etched, the main string is stamped. |
-| Discogs URL    | [Echo & The Bunnymen - Porcupine](https://www.discogs.com/release/374614-Echo-The-Bunnymen-Porcupine) |
+| Notes | First pressing released without barcode on sleeve and with credits printed on a polylined liner.<br>KODE 6 only on labels; also 240027-1 on inner and rear sleeve, 24.0027-1 on spine.<br><br>A limited number of the first UK pressing included a free five track cassette. This was the same cassette as given away with some copies of the "The Cutter" 7" single that was released at about the same time. <br><br>℗&© 1983 WEA Records Ltd.<br><br>ZOO MANAGEMENT<br>c/o Korova Records<br>17 Berners Street<br>London, West One <br><br>"PINING FOR THE PORK OF THE PORCUPINE"<br><br>Manufactured in Germany<br>----------------<br>Mastering credit derived from matrix.<br>Runouts have the matrices stamped and etched, the 2-digit number and 'RAYS' is etched, the main string is stamped. |
+| Discogs URL    | [Echo  The Bunnymen - Porcupine](https://www.discogs.com/release/374614-Echo-The-Bunnymen-Porcupine) |

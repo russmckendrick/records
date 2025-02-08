@@ -4,6 +4,7 @@ artist_name: "Gentle Giant"
 artist: "gentle-giant"
 album_name: "Octopus"
 date: 2021-07-03T06:35:05.000000Z
+release_date: "1972-01-01"
 release_id: "15056299"
 slug: "octopus-15056299"
 hideSummary: true
@@ -23,36 +24,28 @@ styles: ["Prog Rock"]
 ---
 
 Octopus is the fourth studio album by British progressive rock band Gentle Giant, released in 1972. It was the band's last album which all the Shulman brothers involved together in the band, as the founding member Phil Shulman left the band after the release, and the first with new drummer John Weathers, who would remain with the band until their dissolution in 1980. Octopus remains a highly regarded example of the progressive rock genre and is generally considered to represent the start of the band's peak period.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Advent Of Panurge
-2. Raconteur, Troubadour
-3. A Cry For Everyone
-4. Knots
-5. The Boys In The Band
-6. Dog's Life
-7. Think Of Me With Kindness
-8. River
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Advent Of Panurge |  |
+| A2 | Raconteur, Troubadour |  |
+| A3 | A Cry For Everyone |  |
+| A4 | Knots |  |
+| B1 | The Boys In The Band |  |
+| B2 | Dog's Life |  |
+| B3 | Think Of Me With Kindness |  |
+| B4 | River |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/octopus/1443562139" >}}<br>
 
 
-## Videos
-### The Advent Of Panurge
-{{< youtube id="guxnve_K8tA" title="The Advent Of Panurge" >}}<br>
-### More Videos
-
-- [Raconteur Troubadour](https://www.youtube.com/watch?v=gMZy7YYeWGw)
-- [A Cry For Everyone](https://www.youtube.com/watch?v=_VjL7CoDTa0)
-- [Knots](https://www.youtube.com/watch?v=_gl-83nVGwU)
-- [The Boys In The Band](https://www.youtube.com/watch?v=sDrODRwDJec)
-- [Dogs Life](https://www.youtube.com/watch?v=PHcaNlrlLLA)
-- [Think Of Me With Kindness](https://www.youtube.com/watch?v=cKKAuSd93U0)
-- [River](https://www.youtube.com/watch?v=QJy6KIAYryk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +57,5 @@ Octopus is the fourth studio album by British progressive rock band Gentle Giant
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold) |
 | Label          | Alucard |
 | Catalog Number | ALUGGV61 |
-| Notes | ℗ & © 2020 Alucard Publishing Limited Made in EU  180g black vinyl in a gatefold sleeve with the original European artwork including all lyrics. 50th anniversary reissue of the original mix. This 2020 edition is remastered from the original mixes. As Ray Shulman has said: "The tapes used were the original quarter inch masters from the Phonogram/Universal archive. They were digitised at 24bit/192khz from a Studer A80 Mkii Tape Machine. Tape machine line up and bias settings are critical in faithfully reproducing the masters, so we thought it best to send digital files, that we knew were correctly transferred, to the cutting room. That way we didn't have to rely on unknown inferior tape machines."   To be clear, these 2020 releases do not use any of the later Steven Wilson mixes and Steven did not remaster any of them. |
+| Notes | ℗ & © 2020 Alucard Publishing Limited<br>Made in EU<br><br>180g black vinyl in a gatefold sleeve with the original European artwork including all lyrics.<br>50th anniversary reissue of the original mix.<br>This 2020 edition is remastered from the original mixes. As Ray Shulman has said:<br>"The tapes used were the original quarter inch masters from the Phonogram/Universal archive. They were digitised at 24bit/192khz from a Studer A80 Mkii Tape Machine. Tape machine line up and bias settings are critical in faithfully reproducing the masters, so we thought it best to send digital files, that we knew were correctly transferred, to the cutting room. That way we didn't have to rely on unknown inferior tape machines."<br> <br>To be clear, these 2020 releases do not use any of the later Steven Wilson mixes and Steven did not remaster any of them. |
 | Discogs URL    | [Gentle Giant - Octopus](https://www.discogs.com/release/15056299-Gentle-Giant-Octopus) |

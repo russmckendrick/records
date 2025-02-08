@@ -4,6 +4,7 @@ artist_name: "The Magpie Salute"
 artist: "the-magpie-salute"
 album_name: "High Water I"
 date: 2018-08-11T08:07:31.000000Z
+release_date: "2018-08-10"
 release_id: "12366614"
 slug: "high-water-i-12366614"
 hideSummary: true
@@ -26,34 +27,32 @@ styles: ["Classic Rock", "Country Rock", "Blues Rock"]
 High Water I is the debut studio album by American rock band The Magpie Salute, released August 10, 2018 on Eagle Records. Produced by leader and guitarist Rich Robinson, it served as the follow-up to their self-titled live album released one year prior. The band's follow-up High Water II was released October 18, 2019.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Mary The Gypsy (3:07)
-2. High Water (5:45)
-3. Send Me An Omen (3:58)
-4. For The Wind (5:05)
-5. Sister Moon (3:48)
-6. Color Blind (3:44)
-7. Take It All (3:27)
-8. Walk On Water (4:07)
-9. Hand In Hand (3:25)
-10. You Found Me (4:53)
-11. Can You See (3:10)
-12. Open Up (3:49)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mary The Gypsy | 3:07 |
+| A2 | High Water | 5:45 |
+| A3 | Send Me An Omen | 3:58 |
+| B1 | For The Wind | 5:05 |
+| B2 | Sister Moon | 3:48 |
+| B3 | Color Blind | 3:44 |
+| C1 | Take It All | 3:27 |
+| C2 | Walk On Water | 4:07 |
+| C3 | Hand In Hand | 3:25 |
+| D1 | You Found Me | 4:53 |
+| D2 | Can You See | 3:10 |
+| D3 | Open Up | 3:49 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/high-water-i/1600471299" >}}<br>
 
 
-## Videos
-### The Magpie Salute  High Water
-{{< youtube id="C9FkRy4xsa0" title="The Magpie Salute  High Water" >}}<br>
-### More Videos
-
-- [The Magpie Salute - High Water](https://www.youtube.com/watch?v=Z4h20Rr3a9s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +64,5 @@ High Water I is the debut studio album by American rock band The Magpie Salute, 
 | Format         | Vinyl 2× LP Album (Clear Transparent, 180 Gram) |
 | Label          | Provogue |
 | Catalog Number | PRD7558 1 |
-| Notes | Gatefold sleeve, 180 gram clear transparent vinyl, contains a download card. Some copies included limited edition poster.   Made in the EU. |
+| Notes | Gatefold sleeve, 180 gram clear transparent vinyl, contains a download card. Some copies included limited edition poster. <br><br>Made in the EU. |
 | Discogs URL    | [The Magpie Salute - High Water I](https://www.discogs.com/release/12366614-The-Magpie-Salute-High-Water-I) |

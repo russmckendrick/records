@@ -4,6 +4,7 @@ artist_name: "The Black Crowes"
 artist: "the-black-crowes"
 album_name: "Croweology"
 date: 2021-04-30T07:38:41.000000Z
+release_date: "1991-01-01"
 release_id: "18329314"
 slug: "croweology-18329314"
 hideSummary: true
@@ -37,50 +38,40 @@ styles: ["Blues Rock", "Southern Rock"]
 Croweology is an acoustic-based album by American rock band The Black Crowes, released on August 3, 2010. The set includes newly recorded versions of nineteen songs from the band's career, covering their albums from Shake Your Money Maker to Lions, plus a cover of the Chris Ethridge and Gram Parsons song "She", in mostly-acoustic arrangements. Critic Stephen Thomas Erlewine stated the Crowes capture "the sound of seasoned veterans still finding new ways to play old favorites" and the double album is "a generous, entertaining gift to the fans who have stayed true throughout the years". This would be the last recorded album to feature lead guitarist,  Luther Dickinson. Croweology was the last studio record released by the band before their hiatus lasting from 2013 to 2020. 
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Jealous Again
-2. Share The Ride
-3. Remedy
-4. Non-Fiction
-5. Hotel Illness
-6. Soul Singing
-7. Ballad In Urgency
-8. Wiser Time
-9. Cold Boy Smile
-10. Under A Mountain
-11. She Talks To Angels
-12. Morning Song
-13. Downtown Money Waster
-14. Good Friday
-15. Thorn In My Pride
-16. Welcome To The Good Times
-17. Girl From A Pawnshop
-18. Sister Luck
-19. She
-20. Bad Luck Blue Eyes Goodbye
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Jealous Again |  |
+| A2 | Share The Ride |  |
+| A3 | Remedy |  |
+| B1 | Non-Fiction |  |
+| B2 | Hotel Illness |  |
+| B3 | Soul Singing |  |
+| C1 | Ballad In Urgency |  |
+| C2 | Wiser Time |  |
+| C3 | Cold Boy Smile |  |
+| D1 | Under A Mountain |  |
+| D2 | She Talks To Angels |  |
+| D3 | Morning Song |  |
+| D4 | Downtown Money Waster |  |
+| E1 | Good Friday |  |
+| E2 | Thorn In My Pride |  |
+| E3 | Welcome To The Good Times |  |
+| F1 | Girl From A Pawnshop |  |
+| F2 | Sister Luck |  |
+| F3 | She |  |
+| F4 | Bad Luck Blue Eyes Goodbye |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/she-talks-to-angels-single/1626386964" >}}<br>
 
 
-## Videos
-### Wiser Time
-{{< youtube id="bS5MwHiLqOQ" title="Wiser Time" >}}<br>
-### More Videos
-
-- [Thorn in My Pride](https://www.youtube.com/watch?v=hbk8NM2XLbY)
-- [Morning Song](https://www.youtube.com/watch?v=l3BgyfsjgV0)
-- [Non-Fiction](https://www.youtube.com/watch?v=WI13i7SMsz4)
-- [Sister Luck](https://www.youtube.com/watch?v=CWsm2eJjihg)
-- [Remedy](https://www.youtube.com/watch?v=uge7HKkF_Ro)
-- [Hotel Illness](https://www.youtube.com/watch?v=anxlw3cQyfk)
-- [She Talks to Angels](https://www.youtube.com/watch?v=B_8fDDIxbgs)
-- [Soul Singing](https://www.youtube.com/watch?v=olVG7oKsWEo)
-- [Ballad in Urgency](https://www.youtube.com/watch?v=sgfPKR5i9oc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -92,5 +83,5 @@ Croweology is an acoustic-based album by American rock band The Black Crowes, re
 | Format         | Vinyl 3× LP Album Limited Edition Reissue Stereo (10th Anniversary, Gold + Black) |
 | Label          | Silver Arrow |
 | Catalog Number | SAR 03 LP |
-| Notes | Hype Sticker: "10th Anniversary Edition Gold Vinyl" Gatefold pop-up sleeve. Download card included, but url on it redirects to a page that "requires the Adobe Flash Player," which is no longer active.  ℗ & © 2010 Silver Arrow Records, Inc.  Silver Arrow cat# derived from runouts (no cat#s printed anywhere else on release) |
+| Notes | Hype Sticker: "10th Anniversary Edition Gold Vinyl"<br>Gatefold pop-up sleeve.<br>Download card included, but url on it redirects to a page that "requires the Adobe Flash Player," which is no longer active.<br><br>℗ & © 2010 Silver Arrow Records, Inc.<br><br>Silver Arrow cat# derived from runouts (no cat#s printed anywhere else on release) |
 | Discogs URL    | [The Black Crowes - Croweology](https://www.discogs.com/release/18329314-The-Black-Crowes-Croweology) |

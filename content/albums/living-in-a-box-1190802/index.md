@@ -4,6 +4,7 @@ artist_name: "Living In A Box"
 artist: "living-in-a-box"
 album_name: "Living In A Box"
 date: 2018-09-07T18:30:44.000000Z
+release_date: "2022-03-30"
 release_id: "1190802"
 slug: "living-in-a-box-1190802"
 hideSummary: true
@@ -24,41 +25,30 @@ styles: ["New Wave", "Synth-pop", "Soul"]
 ---
 
 "Living in a Box" is a song by the British band of the same name, released on 23 March 1987 as their first single from their self-titled debut album. It was the group's biggest hit single along with "Room in Your Heart" (1989), reaching No. 5 on the UK Singles Chart. "Living in a Box" became the group's only top-40 hit in the United States, peaking at No. 17 on the Billboard Hot 100. The song was later covered by Bobby Womack; his version reached No. 70 in the UK.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Living In A Box (3:02)
-2. Love Is The Art (3:39)
-3. So The Story Goes (4:19)
-4. From Beginning To The End (4:01)
-5. Generate The Wave (4:48)
-6. Scales Of Justice (4:20)
-7. Going For The Big One (3:35)
-8. Human Story (4:10)
-9. Can't Stop The Wheel (5:17)
-10. Living In A Box (Reprise: Full 12" Version) (3:10)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Living In A Box | 3:02 |
+| A2 | Love Is The Art | 3:39 |
+| A3 | So The Story Goes | 4:19 |
+| A4 | From Beginning To The End | 4:01 |
+| A5 | Generate The Wave | 4:48 |
+| B1 | Scales Of Justice | 4:20 |
+| B2 | Going For The Big One | 3:35 |
+| B3 | Human Story | 4:10 |
+| B4 | Can't Stop The Wheel | 5:17 |
+| B5 | Living In A Box (Reprise: Full 12" Version) | 3:10 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/us/album/living-in-a-box/1629182004" >}}<br>
 
 
-## Videos
-### Living In A Box - Living In A Box 7 Version HQ Audio
-{{< youtube id="kbOavg6ONzo" title="Living In A Box - Living In A Box 7 Version HQ Audio" >}}<br>
-### More Videos
-
-- [Love Is the Art](https://www.youtube.com/watch?v=dej7tlxtJH0)
-- [Living in a box  - So the story goes 1987](https://www.youtube.com/watch?v=jEE7BNtbnvM)
-- [From Beginning to End](https://www.youtube.com/watch?v=8Dt5WeDyD90)
-- [Generate the Wave](https://www.youtube.com/watch?v=Rsb9eu1DCZA)
-- [Superheroes](https://www.youtube.com/watch?v=kx8BE7iY1o8)
-- [Going for the Big One](https://www.youtube.com/watch?v=DpbQ7pTQUUk)
-- [Human Story](https://www.youtube.com/watch?v=nEzFYQzIZ7k)
-- [Cant Stop the Wheel](https://www.youtube.com/watch?v=M39wXTVTksQ)
-- [Living In A Box - Living In A Box 12 inch version 1987](https://www.youtube.com/watch?v=AFHEdWMyijk)
-- [Living In A Box - Living In A Box Official Video](https://www.youtube.com/watch?v=mHzfhU8t5i8)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "It Bites"
 artist: "it-bites"
 album_name: "Map Of The Past"
 date: 2021-05-09T05:00:28.000000Z
+release_date: "2012-03-23"
 release_id: "18649051"
 slug: "map-of-the-past-18649051"
 hideSummary: true
@@ -21,48 +22,44 @@ styles: ["Prog Rock", "Symphonic Rock"]
 Map of the Past is the fifth studio album by progressive rock band It Bites. It was released on March 26, 2012. This is the band's first concept album. It was written by singer/guitarist John Mitchell and keyboardist John Beck throughout 2011. This concept deals with the theme of the past, as seen through old photographs.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Man In The Photograph
-2. Wallflower
-3. Map Of The Past
-4. Clocks
-5. Flag
-6. The Big Machine
-7. Cartoon Graveyard
-8. Send No Flowers
-9. Meadow And The Stream
-10. The Last Escape
-11. Exit Song
-12. Man In The Photograph
-13. Wallflower
-14. Map Of The Past
-15. Clocks
-16. Flag
-17. The Big Machine
-18. Cartoon Graveyard
-19. Send No Flowers
-20. Meadow And The Stream
-21. The Last Escape
-22. Exit Song
-23. Lighthouse (3:27)
-24. Come On (5:10)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Man In The Photograph |  |
+| A2 | Wallflower |  |
+| A3 | Map Of The Past |  |
+| B1 | Clocks |  |
+| B2 | Flag |  |
+| B3 | The Big Machine |  |
+| C1 | Cartoon Graveyard |  |
+| C2 | Send No Flowers |  |
+| D1 | Meadow And The Stream |  |
+| D2 | The Last Escape |  |
+| D3 | Exit Song |  |
+| CD-1 | Man In The Photograph |  |
+| CD-2 | Wallflower |  |
+| CD-3 | Map Of The Past |  |
+| CD-4 | Clocks |  |
+| CD-5 | Flag |  |
+| CD-6 | The Big Machine |  |
+| CD-7 | Cartoon Graveyard |  |
+| CD-8 | Send No Flowers |  |
+| CD-9 | Meadow And The Stream |  |
+| CD-10 | The Last Escape |  |
+| CD-11 | Exit Song |  |
+| CD-12 | Lighthouse | 3:27 |
+| CD-13 | Come On | 5:10 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/map-of-the-past/1056415449" >}}<br>
 
 
-## Videos
-### It Bites - Map of the Past
-{{< youtube id="Ny5bD9bhUpQ" title="It Bites - Map of the Past" >}}<br>
-### More Videos
-
-- [It Bites   Map of the Past](https://www.youtube.com/watch?v=zwLerWDhX9Y)
-- [Man in the Photograph - It Bites](https://www.youtube.com/watch?v=gguU7-MhugA)
-- [It Bites - Meadow and the Stream](https://www.youtube.com/watch?v=wYlohpuSZ9A)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +71,5 @@ Map of the Past is the fifth studio album by progressive rock band It Bites. It 
 | Format         | Vinyl 2× LP 45 RPM Album Remastered, CD Album Remastered, All Media Reissue |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 585 |
-| Notes | Gatefold, black vinyl version..  Hype sticker: "Gatefold 2LP + CD + LP-Booklet The fifth studio album from  IT BITES available on vinyl once again. Newly remastered and  featuring expanded liner notes  on the making of the album."  ℗ 2012 InsideOutMusic. © 2021 Century Media Records Ltd. under exclusive license from InsideOutMusic. LC 01414 . IOMLP 585. Distributed by Sony Music Entertainment. All trademarks and logos are protected. Made in the EU. Sony Music International Services Gmbh. PO Box 510. 33311 Gütersloh. Germany. 19439854401.  Tracks CD-12 and CD-13 are bonus tracks. |
+| Notes | Gatefold, black vinyl version..<br><br>Hype sticker:<br>"Gatefold 2LP + CD + LP-Booklet<br>The fifth studio album from <br>IT BITES<br>available on vinyl once again.<br>Newly remastered and <br>featuring expanded liner notes <br>on the making of the album."<br><br>℗ 2012 InsideOutMusic. © 2021 Century Media Records Ltd. under exclusive license from InsideOutMusic. LC 01414 . IOMLP 585. Distributed by Sony Music Entertainment. All trademarks and logos are protected. Made in the EU. Sony Music International Services Gmbh. PO Box 510. 33311 Gütersloh. Germany. 19439854401.<br><br>Tracks CD-12 and CD-13 are bonus tracks. |
 | Discogs URL    | [It Bites - Map Of The Past](https://www.discogs.com/release/18649051-It-Bites-Map-Of-The-Past) |

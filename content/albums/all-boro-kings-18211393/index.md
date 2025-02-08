@@ -4,6 +4,7 @@ artist_name: "Dog Eat Dog"
 artist: "dog-eat-dog"
 album_name: "All Boro Kings"
 date: 2021-06-29T02:28:44.000000Z
+release_date: "2019-10-25"
 release_id: "18211393"
 slug: "all-boro-kings-18211393"
 hideSummary: true
@@ -27,45 +28,30 @@ styles: ["Funk Metal", "Hardcore"]
 ---
 
 All Boro Kings is the first studio album by American band Dog Eat Dog, released on May 24, 1994, by Roadrunner Records. The album was a solid success, selling over 400,000 copies in 1996. The album was a big hit in Europe, charting in countries like: Germany, United Kingdom and the Netherlands. The album got certified gold in the Netherlands in 2000. The music videos for songs "Who's the King" and "No Fronts" were in heavy rotation on MTV Europe which proved to be the key factor in the album's success. So far, the album has sold 600,000 copies worldwide. Darryl Jenifer of the Bad Brains made a vocal appearance on "Who's The King"
-    
+        
+        
     
 
 
 ## Tracklisting
-1. If These Are Good Times (3:06)
-2. Think (3:05)
-3. No Fronts (4:35)
-4. Pull My Finger (3:32)
-5. Who's The King? (3:53)
-6. Strip Song (2:43)
-7. Queen (2:24)
-8. In The Doghouse (5:43)
-9. Funnel King (2:41)
-10. What Comes Around (3:22)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | If These Are Good Times | 3:06 |
+| A2 | Think | 3:05 |
+| A3 | No Fronts | 4:35 |
+| A4 | Pull My Finger | 3:32 |
+| A5 | Who's The King? | 3:53 |
+| B6 | Strip Song | 2:43 |
+| B7 | Queen | 2:24 |
+| B8 | In The Doghouse | 5:43 |
+| B9 | Funnel King | 2:41 |
+| B10 | What Comes Around | 3:22 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-boro-kings-live/1674416638" >}}<br>
 
 
-## Videos
-### Dog Eat Dog - Funnel King
-{{< youtube id="a_TedVjcybg" title="Dog Eat Dog - Funnel King" >}}<br>
-### More Videos
-
-- [Dog Eat Dog -  No Fronts](https://www.youtube.com/watch?v=R2YYAMi-C8w)
-- [Dog Eat Dog - Whos The King from All Boro Kings 1994longplay](https://www.youtube.com/watch?v=rtuaiaIm8wQ)
-- [Dog Eat Dog - No Fronts](https://www.youtube.com/watch?v=41KJCoydlEU)
-- [Dog Eat Dog-Whos the King](https://www.youtube.com/watch?v=smOwf0iBqXI)
-- [Whos the King](https://www.youtube.com/watch?v=TVgjF-Vc_tQ)
-- [Dog Eat Dog - Funnel King](https://www.youtube.com/watch?v=a_TedVjcybg)
-- [Best Of 90s - 1Album1Song - Dog Eat Dog All Boro KingsNo Fronts](https://www.youtube.com/watch?v=a5eBA-RsGsU)
-- [No Fronts](https://www.youtube.com/watch?v=HukQVeoKLSI)
-- [If These Are Good Times](https://www.youtube.com/watch?v=v56JPMsfA_Y)
-- [Dog Eat Dog No Fronts](https://www.youtube.com/watch?v=c_FAGSiyiR4)
-- [Dog Eat Dog - No Fronts](https://www.youtube.com/watch?v=HtQ2UnMdL6g)
-- [Dog Eat Dog - Whos The King](https://www.youtube.com/watch?v=KA7gt2iTWBQ)
-- [Dog Eat Dog - Whos The King from All Boro Kings 1994longplay](https://www.youtube.com/watch?v=rtuaiaIm8wQ)
-- [Best Of 90s - 1Album1Song - Dog Eat Dog All Boro KingsNo Fronts](https://www.youtube.com/watch?v=a5eBA-RsGsU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +63,5 @@ All Boro Kings is the first studio album by American band Dog Eat Dog, released 
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Gold, 180 Gram) |
 | Label          | Roadrunner Records |
 | Catalog Number | MOVLP2821 |
-| Notes | Edition of 2000 machine numbered copies.  Includes 12x12" insert with lyrics and credits. Compared to the original vinyl release, tracks are numbered sequentially on both side labels and back cover. |
+| Notes | Edition of 2000 machine numbered copies. <br>Includes 12x12" insert with lyrics and credits.<br>Compared to the original vinyl release, tracks are numbered sequentially on both side labels and back cover. |
 | Discogs URL    | [Dog Eat Dog - All Boro Kings](https://www.discogs.com/release/18211393-Dog-Eat-Dog-All-Boro-Kings) |

@@ -1,16 +1,17 @@
 ---
-title: "Frost* - Day And Age"
-artist_name: "Frost*"
+title: "Frost - Day And Age"
+artist_name: "Frost"
 artist: "frost"
 album_name: "Day And Age"
 date: 2021-05-22T02:56:13.000000Z
+release_date: "2021-05-14"
 release_id: "18819115"
 slug: "day-and-age-18819115"
 hideSummary: true
 cover:
     image: "day-and-age-18819115.jpg"
-    alt: "Day And Age by Frost*"
-    caption: "Day And Age by Frost*"
+    alt: "Day And Age by Frost"
+    caption: "Day And Age by Frost"
 additional_images:
     - "https://i.discogs.com/tqkP6j1mvqVOUEOGFzuFYzb6XShJkXfc9DgKixo4S4A/rs:fit/g:sm/q:90/h:561/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE5/MTE1LTE2MjE1OTk0/NDctNDk4MS5qcGVn.jpeg"
     - "https://i.discogs.com/2Pz6M20_jOnm_YFIXU8ZMlEooEHzpX6areRA_mBF1LU/rs:fit/g:sm/q:90/h:538/w:522/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE5/MTE1LTE2MjE1OTk4/MjMtNzQwNS5qcGVn.jpeg"
@@ -27,32 +28,34 @@ styles: ["Pop Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Day And Age  (11:49)
-2. Terrestrial  (5:13)
-3. Waiting For The Lie (4:31)
-4. The Boy Who Stood Still (7:33)
-5. Island Life (4:14)
-6. Skywards (4:13)
-7. Kill The Orchestra  (9:27)
-8. Repeat To Fade (6:14)
-9. Day And Age (11:49)
-10. Terrestrial (5:13)
-11. Waiting For The Lie (4:31)
-12. The Boy Who Stood Still (7:33)
-13. Island Life (4:14)
-14. Skywards (4:13)
-15. Kill The Orchestra (9:27)
-16. Repeat To Fade (6:14)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Day And Age  | 11:49 |
+| A2 | Terrestrial  | 5:13 |
+| B1 | Waiting For The Lie | 4:31 |
+| B2 | The Boy Who Stood Still | 7:33 |
+| B3 | Island Life | 4:14 |
+| B4 | Skywards | 4:13 |
+| C1 | Kill The Orchestra  | 9:27 |
+| C2 | Repeat To Fade | 6:14 |
+| CD-1 | Day And Age | 11:49 |
+| CD-2 | Terrestrial | 5:13 |
+| CD-3 | Waiting For The Lie | 4:31 |
+| CD-4 | The Boy Who Stood Still | 7:33 |
+| CD-5 | Island Life | 4:14 |
+| CD-6 | Skywards | 4:13 |
+| CD-7 | Kill The Orchestra | 9:27 |
+| CD-8 | Repeat To Fade | 6:14 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/day-and-age-deluxe-edition/1556722306" >}}<br>
 
-
-## Videos
-### FROST - Day And Age Official Video
-{{< youtube id="RmiAmW3sgHs" title="FROST - Day And Age Official Video" >}}<br>
 
 
 ## Release Images
@@ -65,4 +68,4 @@ styles: ["Pop Rock", "Prog Rock"]
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 576 |
 | Notes | Limited edition of 200 copies. Burning Shed exclusive. Gatefold. Signed postcard included. |
-| Discogs URL    | [Frost* - Day And Age](https://www.discogs.com/release/18819115-Frost-Day-And-Age) |
+| Discogs URL    | [Frost - Day And Age](https://www.discogs.com/release/18819115-Frost-Day-And-Age) |

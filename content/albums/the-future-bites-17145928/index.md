@@ -4,6 +4,7 @@ artist_name: "Steven Wilson"
 artist: "steven-wilson"
 album_name: "The Future Bites"
 date: 2021-02-01T05:00:53.000000Z
+release_date: "2021-01-29"
 release_id: "17145928"
 slug: "the-future-bites-17145928"
 hideSummary: true
@@ -40,49 +41,29 @@ styles: ["Alternative Rock", "Prog Rock"]
 ---
 
 The Future Bites (stylised as THE FUTURE BITES™) is the sixth studio album by British musician Steven Wilson. The album was initially set for release on 12 June 2020 through Caroline International, (his second and final album on the label) but later was pushed back to 29 January 2021 due to the COVID-19 pandemic, which affected the marketing and production related to the album. It was co-produced by Wilson and David Kosten and recorded in London.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Unself (1:06)
-2. Self (2:55)
-3. King Ghost (4:06)
-4. 12 Things I Forgot (4:42)
-5. Eminent Sleaze (3:52)
-6. Man Of The People (4:41)
-7. Personal Shopper (9:49)
-8. Follower (4:39)
-9. Count Of Unease (6:08)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Unself | 1:06 |
+| A2 | Self | 2:55 |
+| A3 | King Ghost | 4:06 |
+| A4 | 12 Things I Forgot | 4:42 |
+| A5 | Eminent Sleaze | 3:52 |
+| A6 | Man Of The People | 4:41 |
+| B1 | Personal Shopper | 9:49 |
+| B2 | Follower | 4:39 |
+| B3 | Count Of Unease | 6:08 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-future-bites/1530202084" >}}<br>
 
 
-## Videos
-### Steven Wilson - SELF Official Video
-{{< youtube id="UroVey4fJ_g" title="Steven Wilson - SELF Official Video" >}}<br>
-### More Videos
-
-- [Steven Wilson - KING GHOST Official Video](https://www.youtube.com/watch?v=zSvdLcS62ZM)
-- [Steven Wilson - 12 THINGS I FORGOT Official Audio](https://www.youtube.com/watch?v=7wZrYAgf8d8)
-- [Steven Wilson - EMINENT SLEAZE Official Video](https://www.youtube.com/watch?v=kUKmOkrcMig)
-- [Steven Wilson - MAN OF THE PEOPLE Official Lyric Video](https://www.youtube.com/watch?v=G_yW8ornhK4)
-- [Steven Wilson - PERSONAL SHOPPER Official Video](https://www.youtube.com/watch?v=sX22dFMSNcg)
-- [FOLLOWER](https://www.youtube.com/watch?v=Vr5zrU4fk_k)
-- [COUNT OF UNEASE](https://www.youtube.com/watch?v=wsoA82vOtns)
-- [Unboxing a 10000 box set Steven Wilsons The Future Bites Ultra Deluxe Limited Edition of One](https://www.youtube.com/watch?v=v1vm4mUyuGo)
-- [UNSELF](https://www.youtube.com/watch?v=7VuItbHUsaQ)
-- [Steven Wilson - The Future Bites Full Album 2021](https://www.youtube.com/watch?v=fd7NTkWEBHo)
-- [Steven Wilson - Hey Sleeper - The Future Bites](https://www.youtube.com/watch?v=QxHXQfV7Mt4)
-- [UNSELF](https://www.youtube.com/watch?v=7VuItbHUsaQ)
-- [SELF](https://www.youtube.com/watch?v=svUx9D3WCr4)
-- [Steven Wilson - King Ghost 2020](https://www.youtube.com/watch?v=M55vjv1Bed0)
-- [Steven Wilson - 12 THINGS I FORGOT Official Audio](https://www.youtube.com/watch?v=7wZrYAgf8d8)
-- [Steven Wilson - EMINENT SLEAZE Official Video](https://www.youtube.com/watch?v=kUKmOkrcMig)
-- [Steven Wilson - PERSONAL SHOPPER Official Video](https://www.youtube.com/watch?v=sX22dFMSNcg)
-- [FOLLOWER](https://www.youtube.com/watch?v=Vr5zrU4fk_k)
-- [COUNT OF UNEASE](https://www.youtube.com/watch?v=wsoA82vOtns)
 
 ## Release Images
 {{< imageGrid >}}
@@ -94,5 +75,5 @@ The Future Bites (stylised as THE FUTURE BITES™) is the sixth studio album by 
 | Format         | Vinyl LP Album Limited Edition (Red, 180 Gram) |
 | Label          | Caroline International |
 | Catalog Number | CAROL021LPC |
-| Notes | ℗&© 2021 Steven Wilson Productions Ltd  180g red vinyl in gatefold sleeve with O-Card slipcase, including a 16-page booklet with lyrics, credits and photos.  Early copies came with poster of cover signed by Steven Wilson.  All rights reserved. Unauthorized copying, reproduction, hiring, lending, public performance and broadcast prohibited. Made in the EU. 00602508804397 CAROL021LPC  Recorded at Muttley Ranch, London. Additional recording at Snap Studios. Mastered at Gateway Mastering, Portland, Maine.  Published by Hands Off It's Mine Publishing administered by Universal Music Publishing Group.  [a57103] appears courtesy of Virgin / EMI Records. [a1941784] appears courtesy of Everything Everything (and Kyle). [a432252] courtesy of [a28972] (track A3). [a1167068] and [a2265938] courtesy of [a337145] (track A4).  Runouts: - Runouts are machine-stamped except for '0866569' and the "geometric" marks which are hand-etched - "Geometric" marks are mirrored |
+| Notes | ℗&© 2021 Steven Wilson Productions Ltd<br><br>180g red vinyl in gatefold sleeve with O-Card slipcase, including a 16-page booklet with lyrics, credits and photos.<br><br>Early copies came with poster of cover signed by Steven Wilson.<br><br>All rights reserved. Unauthorized copying, reproduction, hiring, lending, public performance and broadcast prohibited. Made in the EU. 00602508804397 CAROL021LPC<br><br>Recorded at Muttley Ranch, London.<br>Additional recording at Snap Studios.<br>Mastered at Gateway Mastering, Portland, Maine.<br><br>Published by Hands Off It's Mine Publishing administered by Universal Music Publishing Group.<br><br>[a57103] appears courtesy of Virgin / EMI Records.<br>[a1941784] appears courtesy of Everything Everything (and Kyle).<br>[a432252] courtesy of [a28972] (track A3).<br>[a1167068] and [a2265938] courtesy of [a337145] (track A4).<br><br>Runouts:<br>- Runouts are machine-stamped except for '0866569' and the "geometric" marks which are hand-etched<br>- "Geometric" marks are mirrored |
 | Discogs URL    | [Steven Wilson - The Future Bites](https://www.discogs.com/release/17145928-Steven-Wilson-The-Future-Bites) |

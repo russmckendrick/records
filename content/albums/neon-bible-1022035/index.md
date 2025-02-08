@@ -40,38 +40,25 @@ Neon Bible became Arcade Fire's highest-charting album at the time, debuting on 
 
 
 ## Tracklisting
-1. Black Mirror (4:13)
-2. Keep The Car Running (3:29)
-3. Neon Bible (2:16)
-4. Intervention (4:19)
-5. Black Wave / Bad Vibrations (3:57)
-6. Ocean Of Noise (4:53)
-7. The Well And The Lighthouse (3:56)
-8. (Antichrist Television Blues) (5:07)
-9. Windowsill (4:16)
-10. No Cars Go (5:43)
-11. My Body Is A Cage (4:47)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Black Mirror | 4:13 |
+| A2 | Keep The Car Running | 3:29 |
+| A3 | Neon Bible | 2:16 |
+| A4 | Intervention | 4:19 |
+| B5 | Black Wave / Bad Vibrations | 3:57 |
+| B6 | Ocean Of Noise | 4:53 |
+| B7 | The Well And The Lighthouse | 3:56 |
+| B8 | (Antichrist Television Blues) | 5:07 |
+| C9 | Windowsill | 4:16 |
+| C10 | No Cars Go | 5:43 |
+| C11 | My Body Is A Cage | 4:47 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/neon-bible/1252615522" >}}<br>
 
 
-## Videos
-### Arcade Fire - Black Mirror Official Video
-{{< youtube id="aXuymDSGCko" title="Arcade Fire - Black Mirror Official Video" >}}<br>
-### More Videos
-
-- [Arcade Fire - Neon Bible music video](https://www.youtube.com/watch?v=y_n_o1anu9E)
-- [Arcade Fire - Intervention](https://www.youtube.com/watch?v=ZO7ZWfvCjBE)
-- [Arcade Fire - Black Wave Bad Vibrations](https://www.youtube.com/watch?v=Ar1k-aTI32o)
-- [Arcade Fire - Neon Bible Official Audio](https://www.youtube.com/watch?v=eHe4cDG2ErM)
-- [Arcade Fire - Keep the Car Running Official Audio](https://www.youtube.com/watch?v=MSv1om_7DgU)
-- [Arcade Fire - Black Mirror Official Video](https://www.youtube.com/watch?v=aXuymDSGCko)
-- [Arcade Fire - Neon Bible music video](https://www.youtube.com/watch?v=y_n_o1anu9E)
-- [Arcade Fire - Intervention](https://www.youtube.com/watch?v=ZO7ZWfvCjBE)
-- [Arcade Fire - Black Wave Bad Vibrations](https://www.youtube.com/watch?v=Ar1k-aTI32o)
-- [Arcade Fire - No Cars Go Official Audio](https://www.youtube.com/watch?v=T703EHtdPwo)
-- [Arcade Fire - My Body Is a Cage Official Audio](https://www.youtube.com/watch?v=6F_Hx3oLfvU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +70,5 @@ Neon Bible became Arcade Fire's highest-charting album at the time, debuting on 
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched Special Cut, All Media Album (Gatefold) |
 | Label          | Sonovox Records |
 | Catalog Number | 1724447 |
-| Notes | LP is double 180-gram audiophile quality in gatefold sleeve with three sides of music and an etching on the fourth side. Printed card inner sleeves.  Side three has a locked groove in the run out repeatedly playing the same, short piece of music.  Recorded and mixed during 2006 at "the church" in Quebec. Additional recording was done at Win and Régine's house, the St. James Anglican Church in Bedford, Québec, the Église St. Jean Baptiste in Montréal, as well as in New York and Budapest. Additional mixing was done at Olympic Studios in London.  The name Neon Bible, from a novel by John Kennedy Toole, is used with permission of Grove Press, Inc. c/o Macintosh & Otis Inc.  Tracks listed sequentially on release.  Runouts are etched. |
+| Notes | LP is double 180-gram audiophile quality in gatefold sleeve with three sides of music and an etching on the fourth side. Printed card inner sleeves.<br><br>Side three has a locked groove in the run out repeatedly playing the same, short piece of music.<br><br>Recorded and mixed during 2006 at "the church" in Quebec.<br>Additional recording was done at Win and Régine's house, the St. James Anglican Church in Bedford, Québec, the Église St. Jean Baptiste in Montréal, as well as in New York and Budapest. Additional mixing was done at Olympic Studios in London.<br><br>The name Neon Bible, from a novel by John Kennedy Toole, is used with permission of Grove Press, Inc. c/o Macintosh & Otis Inc.<br><br>Tracks listed sequentially on release.<br><br>Runouts are etched. |
 | Discogs URL    | [Arcade Fire - Neon Bible](https://www.discogs.com/release/1022035-Arcade-Fire-Neon-Bible) |

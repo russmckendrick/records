@@ -40,31 +40,22 @@ The album describes terrorism and danger (and on the last song, “The Overload�
 
 
 ## Tracklisting
-1. Born Under Punches (The Heat Goes On)
-2. Crosseyed And Painless
-3. The Great Curve
-4. Once In A Lifetime
-5. Houses In Motion
-6. Seen And Not Seen
-7. Listening Wind
-8. The Overload
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Born Under Punches (The Heat Goes On) |  |
+| A2 | Crosseyed And Painless |  |
+| A3 | The Great Curve |  |
+| B1 | Once In A Lifetime |  |
+| B2 | Houses In Motion |  |
+| B3 | Seen And Not Seen |  |
+| B4 | Listening Wind |  |
+| B5 | The Overload |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/remain-in-light/300948043" >}}<br>
 
 
-## Videos
-### Talking Heads - Once In A Lifetime Official Audio
-{{< youtube id="fR0jgT9UX0Q" title="Talking Heads - Once In A Lifetime Official Audio" >}}<br>
-### More Videos
-
-- [Born Under Punches The Heat Goes On](https://www.youtube.com/watch?v=Mmp5jAKpyns)
-- [Crosseyed and Painless](https://www.youtube.com/watch?v=hVBr3kVF9qM)
-- [The Great Curve](https://www.youtube.com/watch?v=dGsHLKyZ8H8)
-- [Houses in Motion](https://www.youtube.com/watch?v=PjIR1ESQLI0)
-- [Seen and Not Seen](https://www.youtube.com/watch?v=vDptHYVTWNg)
-- [Listening Wind](https://www.youtube.com/watch?v=jK5uqY-VYDM)
-- [The Overload](https://www.youtube.com/watch?v=5eOWkohW2NE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +67,5 @@ The album describes terrorism and danger (and on the last song, “The Overload�
 | Format         | Vinyl LP Album Reissue |
 | Label          | Sire |
 | Catalog Number | SIR K 56 867 |
-| Notes | ℗ 1980 Sire Records Company.  Distributed by WEA Records Ltd.  Sleeve: Manufactured in Germany by Record Service GmBH. Alsdorf.  Label: Made in Germany by WEA Musik GMBH    Cat# on labels: SRK. 6095  Cat# on sleeve: SIR K 56 867  Cat# on inner sleeve: WB 56 867  UK: SRK 6095    Printed polylined inner sleeve.    The back cover and labels have different tracklistings, of which the label shows the correct order. |
+| Notes | ℗ 1980 Sire Records Company.<br>Distributed by WEA Records Ltd.<br>Sleeve: Manufactured in Germany by Record Service GmBH. Alsdorf.<br>Label: Made in Germany by WEA Musik GMBH<br><br>Cat# on labels: SRK. 6095<br>Cat# on sleeve: SIR K 56 867<br>Cat# on inner sleeve: WB 56 867<br>UK: SRK 6095<br><br>Printed polylined inner sleeve.<br><br>The back cover and labels have different tracklistings, of which the label shows the correct order. |
 | Discogs URL    | [Talking Heads - Remain In Light](https://www.discogs.com/release/3908559-Talking-Heads-Remain-In-Light) |

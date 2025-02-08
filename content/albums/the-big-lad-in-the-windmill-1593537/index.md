@@ -4,6 +4,7 @@ artist_name: "It Bites"
 artist: "it-bites"
 album_name: "The Big Lad In The Windmill"
 date: 2018-09-07T18:30:44.000000Z
+release_date: "1986-01-01"
 release_id: "1593537"
 slug: "the-big-lad-in-the-windmill-1593537"
 hideSummary: true
@@ -27,42 +28,30 @@ The album reached No. 35 in the UK albums chart and produced three singles — "
 Although marketed as a 1980s pop album, The Big Lad in the Windmill features an unusual mix of musical styles including pop, hard rock, Prince-style funk, power balladry and progressive rock, often all within the same song. The album also showcased the band's musical virtuosity, featuring multiple changes of dynamics and tempo plus prominent guitar and keyboard solos. The version of "Calling All the Heroes" included on the album is the full-length version rather than the better-known single edit, and features additional musical sections plus several false endings.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Got You Eating Out Of My Hand (5:37)
-2. All In Red (3:31)
-3. Whole New World (4:25)
-4. Screaming On The Beaches (3:45)
-5. Wanna Shout (3:29)
-6. Turn Me Loose (4:11)
-7. Cold, Tired And Hungry (4:16)
-8. Calling All The Heroes (5:33)
-9. You'll Never Go To Heaven (7:12)
-10. The Big Lad In The Windmill (0:48)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Got You Eating Out Of My Hand | 5:37 |
+| A2 | All In Red | 3:31 |
+| A3 | Whole New World | 4:25 |
+| A4 | Screaming On The Beaches | 3:45 |
+| A5 | Wanna Shout | 3:29 |
+| B1 | Turn Me Loose | 4:11 |
+| B2 | Cold, Tired And Hungry | 4:16 |
+| B3 | Calling All The Heroes | 5:33 |
+| B4 | You'll Never Go To Heaven | 7:12 |
+| B5 | The Big Lad In The Windmill | 0:48 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-big-lad-in-the-windmill/714393070" >}}<br>
 
 
-## Videos
-### Calling All The Heroes - It Bites
-{{< youtube id="3hIWY-ir0s8" title="Calling All The Heroes - It Bites" >}}<br>
-### More Videos
-
-- [It Bites -Tokyo 10101989 1](https://www.youtube.com/watch?v=6XE1NG9zaYU)
-- [It Bites - Wanna shout](https://www.youtube.com/watch?v=9GX4l_mXyu4)
-- [It Bites - Munich 09021987](https://www.youtube.com/watch?v=Dy0v7c4r24Y)
-- [It Bites - Tokyo 10101989 2](https://www.youtube.com/watch?v=wRgxjj9HdIE)
-- [It Bites - I Got You Eating Out Of My Hand Live Sheffield 1989 06 21](https://www.youtube.com/watch?v=NfnJwIpo2pc)
-- [Calling All The Heroes - It Bites](https://www.youtube.com/watch?v=3hIWY-ir0s8)
-- [It Bites -Tokyo 10101989 1](https://www.youtube.com/watch?v=6XE1NG9zaYU)
-- [It Bites - Wanna shout](https://www.youtube.com/watch?v=9GX4l_mXyu4)
-- [It Bites - Munich 09021987](https://www.youtube.com/watch?v=Dy0v7c4r24Y)
-- [It Bites - Tokyo 10101989 2](https://www.youtube.com/watch?v=wRgxjj9HdIE)
-- [It Bites - I Got You Eating Out Of My Hand Live Sheffield 1989 06 21](https://www.youtube.com/watch?v=NfnJwIpo2pc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +63,5 @@ Although marketed as a 1980s pop album, The Big Lad in the Windmill features an 
 | Format         | Vinyl LP Album Stereo |
 | Label          | Virgin |
 | Catalog Number | V2378 |
-| Notes | With illustrated inner sleeve. Recorded at Rak Studios, England. Mixed at Oddysey Studios, England.  ℗ 1986 Virgin Records Ltd. © 1986 Virgin Records Ltd. Manufactured in the U.K.  Runouts are stamped except for etched "TOWNHOUSE" |
+| Notes | With illustrated inner sleeve.<br>Recorded at Rak Studios, England.<br>Mixed at Oddysey Studios, England.<br><br>℗ 1986 Virgin Records Ltd.<br>© 1986 Virgin Records Ltd.<br>Manufactured in the U.K.<br><br>Runouts are stamped except for etched "TOWNHOUSE" |
 | Discogs URL    | [It Bites - The Big Lad In The Windmill](https://www.discogs.com/release/1593537-It-Bites-The-Big-Lad-In-The-Windmill) |

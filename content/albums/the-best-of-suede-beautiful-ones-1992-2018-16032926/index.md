@@ -4,6 +4,7 @@ artist_name: "Suede"
 artist: "suede"
 album_name: "The Best Of Suede. Beautiful Ones. 1992-2018"
 date: 2021-01-03T08:00:22.000000Z
+release_date: "2020-10-09"
 release_id: "16032926"
 slug: "the-best-of-suede-beautiful-ones-1992-2018-16032926"
 hideSummary: true
@@ -19,68 +20,73 @@ styles: ["Indie Rock", "Britpop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Drowners
-2. Metal Mickey
-3. Animal Nitrate
-4. So Young
-5. Stay Together (Long Version)
-6. We Are The Pigs
-7. The Wild Ones
-8. New Generation
-9. Trash
-10. Filmstar
-11. Lazy
-12. Beautiful Ones
-13. Saturday Night
-14. Electricity
-15. She's In Fashion
-16. Everything Will Flow
-17. Can't Get Enough
-18. Obsessions
-19. Barriers
-20. It Starts And Ends With You
-21. For The Strangers
-22. Outsiders
-23. Wastelands
-24. Life Is Golden
-25. The Invisibles
-26. To The Birds
-27. My Insatiable One
-28. He's Dead
-29. The Big Time
-30. Pantomime Horse
-31. Sleeping Pills
-32. The Next Life
-33. High Rising
-34. My Dark Star
-35. The Living Dead
-36. Killing Of A Flashboy
-37. Heroine
-38. This Hollywood Life
-39. The 2 Of Us
-40. The Asphalt World
-41. Still Life
-42. Europe Is Our Playground (Sci-Fi Lullabies Version)
-43. She
-44. By The Sea
-45. He's Gone
-46. Indian Strings
-47. Oceans
-48. Snowblind
-49. Sabotage
-50. Sometimes I Feel I'll Float Away
-51. Pale Snow
-52. I Don't Know How To Reach You
-53. Tightrope
-54. As One
-55. All The Wild Places
-56. Flytipping
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Drowners |  |
+| A2 | Metal Mickey |  |
+| A3 | Animal Nitrate |  |
+| A4 | So Young |  |
+| A5 | Stay Together (Long Version) |  |
+| B1 | We Are The Pigs |  |
+| B2 | The Wild Ones |  |
+| B3 | New Generation |  |
+| B4 | Trash |  |
+| B5 | Filmstar |  |
+| C1 | Lazy |  |
+| C2 | Beautiful Ones |  |
+| C3 | Saturday Night |  |
+| C4 | Electricity |  |
+| C5 | She's In Fashion |  |
+| D1 | Everything Will Flow |  |
+| D2 | Can't Get Enough |  |
+| D3 | Obsessions |  |
+| D4 | Barriers |  |
+| D5 | It Starts And Ends With You |  |
+| E1 | For The Strangers |  |
+| E2 | Outsiders |  |
+| E3 | Wastelands |  |
+| E4 | Life Is Golden |  |
+| E5 | The Invisibles |  |
+| F1 | To The Birds |  |
+| F2 | My Insatiable One |  |
+| F3 | He's Dead |  |
+| F4 | The Big Time |  |
+| G1 | Pantomime Horse |  |
+| G2 | Sleeping Pills |  |
+| G3 | The Next Life |  |
+| G4 | High Rising |  |
+| H1 | My Dark Star |  |
+| H2 | The Living Dead |  |
+| H3 | Killing Of A Flashboy |  |
+| H4 | Heroine |  |
+| H5 | This Hollywood Life |  |
+| I1 | The 2 Of Us |  |
+| I2 | The Asphalt World |  |
+| I3 | Still Life |  |
+| J1 | Europe Is Our Playground (Sci-Fi Lullabies Version) |  |
+| J2 | She |  |
+| J3 | By The Sea |  |
+| J4 | He's Gone |  |
+| J5 | Indian Strings |  |
+| J6 | Oceans |  |
+| K1 | Snowblind |  |
+| K2 | Sabotage |  |
+| K3 | Sometimes I Feel I'll Float Away |  |
+| K4 | Pale Snow |  |
+| K5 | I Don't Know How To Reach You |  |
+| L1 | Tightrope |  |
+| L2 | As One |  |
+| L3 | All The Wild Places |  |
+| L4 | Flytipping |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/beautiful-ones-the-best-of-suede-1992-2018/1528165185" >}}<br>
-
 
 
 
@@ -93,5 +99,5 @@ styles: ["Indie Rock", "Britpop"]
 | Format         | Box Set Compilation, Vinyl 6× LP (White, 180 Gram) |
 | Label          | Demon Records |
 | Catalog Number | SUEDEBOX012 |
-| Notes | Six LP boxset featuring all the hits, favourite B-sides & Album Tracks on 180g white vinyl. Inner sleeves showcase fans memorabilia  750 copies (with stickered cat# SUEDEBOX012X) came with an insert signed by [a=Brett Anderson] and were sold exclusively on [l=Amazon.co.uk] |
+| Notes | Six LP boxset featuring all the hits, favourite B-sides & Album Tracks on 180g white vinyl.<br>Inner sleeves showcase fans memorabilia<br><br>750 copies (with stickered cat# SUEDEBOX012X) came with an insert signed by [a=Brett Anderson] and were sold exclusively on [l=Amazon.co.uk] |
 | Discogs URL    | [Suede - The Best Of Suede. Beautiful Ones. 1992-2018](https://www.discogs.com/release/16032926-Suede-The-Best-Of-Suede-Beautiful-Ones-1992-2018) |

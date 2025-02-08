@@ -68,52 +68,35 @@ When asked how it’s possible that <I>Either/Or</I> could continue to resonate 
 
 
 ## Tracklisting
-1. Speed Trials
-2. Alameda
-3. Ballad of Big Nothing
-4. Between the Bars
-5. Pictures of Me
-6. No Name No. 5
-7. Rose Parade
-8. Punch and Judy
-9. Angeles
-10. Cupid's Trick
-11. 2:45 AM
-12. Say Yes
-13. My New Freedom (Live)
-14. Pictures of Me (Live)
-15. Angeles (Live)
-16. Some Song (Live)
-17. Rose Parade (Live)
-18. New Monkey (Keys)
-19. I Don't Think I'm Ever Gonna Figure It Out (Remixed/Remastered)
-20. I Figured You Out
-21. Bottle Up and Explode! (Alternate Version)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Speed Trials |  |
+| A2 | Alameda |  |
+| A3 | Ballad of Big Nothing |  |
+| A4 | Between the Bars |  |
+| A5 | Pictures of Me |  |
+| A6 | No Name No. 5 |  |
+| B1 | Rose Parade |  |
+| B2 | Punch and Judy |  |
+| B3 | Angeles |  |
+| B4 | Cupid's Trick |  |
+| B5 | 2:45 AM |  |
+| B6 | Say Yes |  |
+| C1 | My New Freedom (Live) |  |
+| C2 | Pictures of Me (Live) |  |
+| C3 | Angeles (Live) |  |
+| C4 | Some Song (Live) |  |
+| C5 | Rose Parade (Live) |  |
+| D1 | New Monkey (Keys) |  |
+| D2 | I Don't Think I'm Ever Gonna Figure It Out (Remixed/Remastered) |  |
+| D3 | I Figured You Out |  |
+| D4 | Bottle Up and Explode! (Alternate Version) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/either-or-expanded-edition/1442701781" >}}<br>
 
 
-## Videos
-### Elliott Smith - EitherOr Expanded Edition CD1
-{{< youtube id="9g-vyrGKGWM" title="Elliott Smith - EitherOr Expanded Edition CD1" >}}<br>
-### More Videos
-
-- [Elliott Smith - EitherOr Expanded Edition CD2](https://www.youtube.com/watch?v=2jrOSoOBVmI)
-- [Elliott Smith - Ballad Of Big Nothing from EitherOr](https://www.youtube.com/watch?v=iU9yMN1MCfY)
-- [Elliott Smith - Speed Trials from EitherOr](https://www.youtube.com/watch?v=UuizNQUOFCI)
-- [Elliott Smith - Alameda from EitherOr](https://www.youtube.com/watch?v=WcRgqXYmzZE)
-- [Elliott Smith - Between The Bars from EitherOr](https://www.youtube.com/watch?v=n5g-91mwiNs)
-- [Elliott Smith - Pictures Of Me from EitherOr](https://www.youtube.com/watch?v=TKIxDKOfGv8)
-- [Elliott Smith - No Name No 5 from EitherOr](https://www.youtube.com/watch?v=sXd5tbNtoGs)
-- [Elliott Smith - Rose Parade from EitherOr](https://www.youtube.com/watch?v=PWOYmZs43MM)
-- [Elliott Smith - Punch And Judy from EitherOr](https://www.youtube.com/watch?v=9yE405jfEP8)
-- [Elliott Smith - Angeles from EitherOr](https://www.youtube.com/watch?v=rQEEvDcMurE)
-- [Elliott Smith - Cupids Trick from EitherOr](https://www.youtube.com/watch?v=B0LBHaL4iSw)
-- [Elliott Smith - 245 AM from EitherOr](https://www.youtube.com/watch?v=FGKoJVXG98g)
-- [Elliott Smith - Say Yes from EitherOr](https://www.youtube.com/watch?v=8bxmk09lCzk)
-- [Elliott Smith - EitherOr Expanded Edition CD1](https://www.youtube.com/watch?v=9g-vyrGKGWM)
-- [Elliott Smith - EitherOr Expanded Edition CD2](https://www.youtube.com/watch?v=2jrOSoOBVmI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -124,5 +107,5 @@ When asked how it’s possible that <I>Either/Or</I> could continue to resonate 
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Gatefold) |
 | Label          | Kill Rock Stars |
 | Catalog Number | KRS620 |
-| Notes | Includes a download card and OBI strip  Standard black vinyl version |
+| Notes | Includes a download card and OBI strip<br><br>Standard black vinyl version |
 | Discogs URL    | [Elliott Smith - Either / Or: Expanded Edition](https://www.discogs.com/release/9965763-Elliott-Smith-Either-Or-Expanded-Edition) |

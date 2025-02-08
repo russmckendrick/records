@@ -4,6 +4,7 @@ artist_name: "Ian Dury And The Blockheads"
 artist: "ian-dury-and-the-blockheads"
 album_name: "Greatest Hits"
 date: 2020-05-26T12:11:25.000000Z
+release_date: "2020-10-16"
 release_id: "12167804"
 slug: "greatest-hits-12167804"
 hideSummary: true
@@ -24,35 +25,33 @@ styles: ["Punk"]
 
 A greatest hits album or best-of album is a type of compilation album that collects popular and commercially successful songs by a particular artist or band. While greatest hits albums are typically supported by the artist, they can also be created by record companies without express approval from the original artist as a means to generate sales. They are typically regarded as a good starting point for new fans of an artist, but are sometimes criticized by longtime fans as not inclusive enough or necessary at all.
 It is also common for greatest hits albums to include new recordings, remixes or unreleased alternate takes of the hit songs, plus other new material as bonus tracks to increase appeal for longtime fans (who might otherwise already own the recordings included). At times, a greatest hits compilation marks the first album appearance of a successful single that was never attached to a previous studio album. Greatest hits albums usually are released after an artist or band's contract with a major label is completed, they've been dropped or died, with next releases following on new labels.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Sex & Drugs & Rock & Roll
-2. Wake Up And Make Love
-3. Reasons To Be Cheerful Part 3
-4. Hit Me With Your Rhythm Stick
-5. My Old Man
-6. Sweet Gene Vincent
-7. What A Waste
-8. There Ain't Half Been Some Clever Bastards
-9. Inbetweenies
-10. I Want To Be Straight
-11. Sueperman's Big Sister
-12. Billericay Dickie
-13. Clevor Trever
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sex & Drugs & Rock & Roll |  |
+| A2 | Wake Up And Make Love |  |
+| A3 | Reasons To Be Cheerful Part 3 |  |
+| A4 | Hit Me With Your Rhythm Stick |  |
+| A5 | My Old Man |  |
+| A6 | Sweet Gene Vincent |  |
+| A7 | What A Waste |  |
+| B1 | There Ain't Half Been Some Clever Bastards |  |
+| B2 | Inbetweenies |  |
+| B3 | I Want To Be Straight |  |
+| B4 | Sueperman's Big Sister |  |
+| B5 | Billericay Dickie |  |
+| B6 | Clevor Trever |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hit-me-the-best-of/1534568853" >}}<br>
 
 
-## Videos
-### Ian Dury - Wake up and make love with me
-{{< youtube id="c-VeOakGGPQ" title="Ian Dury - Wake up and make love with me" >}}<br>
-### More Videos
-
-- [Ian Dury and the Blockheads - Sex and Drugs and Rock  Roll](https://www.youtube.com/watch?v=rJjM9lr8nys)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +63,5 @@ It is also common for greatest hits albums to include new recordings, remixes or
 | Format         | Vinyl LP Compilation (Yellow) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC280 |
-| Notes | Released on translucent yellow heavyweight vinyl .  Sticker on the wrapper states: IAN DURY AND THE BLOCKHEADS GREATEST HITS INCLUDES THE HIT SONGS 'HIT ME WITH YOUR RYTHM STICK' 'REASON'S TO BE CHEERFUL (PART 3)' 'WHAT A WASTE' ON 180g COLOURED VINYL DEMREC280 |
+| Notes | Released on translucent yellow heavyweight vinyl .<br><br>Sticker on the wrapper states:<br>IAN DURY<br>AND THE BLOCKHEADS<br>GREATEST HITS<br>INCLUDES THE HIT SONGS<br>'HIT ME WITH YOUR<br>RYTHM STICK'<br>'REASON'S TO BE CHEERFUL<br>(PART 3)'<br>'WHAT A WASTE'<br>ON 180g COLOURED VINYL<br>DEMREC280 |
 | Discogs URL    | [Ian Dury And The Blockheads - Greatest Hits](https://www.discogs.com/release/12167804-Ian-Dury-And-The-Blockheads-Greatest-Hits) |

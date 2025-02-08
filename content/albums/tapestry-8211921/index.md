@@ -32,41 +32,28 @@ Individually, the songs have long since been woven into pop music’s unconsciou
 
 
 ## Tracklisting
-1. I Feel the Earth Move
-2. So Far Away
-3. It's Too Late
-4. Home Again
-5. Beautiful
-6. Way Over Yonder
-7. Out In The Cold
-8. You've Got A Friend
-9. Where You Lead
-10. Will You Still Love Me Tomorrow?
-11. Smackwater Jack
-12. Tapestry
-13. (You Make Me Feel Like) A Natural Woman
-14. Smackwater Jack (Previously Unreleased Live Version)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Feel the Earth Move |  |
+| A2 | So Far Away |  |
+| A3 | It's Too Late |  |
+| A4 | Home Again |  |
+| A5 | Beautiful |  |
+| A6 | Way Over Yonder |  |
+| A7 | Out In The Cold |  |
+| B1 | You've Got A Friend |  |
+| B2 | Where You Lead |  |
+| B3 | Will You Still Love Me Tomorrow? |  |
+| B4 | Smackwater Jack |  |
+| B5 | Tapestry |  |
+| B6 | (You Make Me Feel Like) A Natural Woman |  |
+| B7 | Smackwater Jack (Previously Unreleased Live Version) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tapestry/747087657" >}}<br>
 
 
-## Videos
-### Carole King - I Feel the Earth Move Official Audio
-{{< youtube id="6913KnbMpHM" title="Carole King - I Feel the Earth Move Official Audio" >}}<br>
-### More Videos
-
-- [Carole King - So Far Away Official Audio](https://www.youtube.com/watch?v=UofYl3dataU)
-- [Carole King - Its Too Late Official Audio](https://www.youtube.com/watch?v=VkKxmnrRVHo)
-- [Home Again](https://www.youtube.com/watch?v=5bbU6gY2N9c)
-- [Beautiful](https://www.youtube.com/watch?v=6ZC17DIsDaQ)
-- [Way over Yonder](https://www.youtube.com/watch?v=M2alP70O_Gw)
-- [Carole King - Youve Got a Friend Official Audio](https://www.youtube.com/watch?v=eAR_Ff5A8Rk)
-- [Where You Lead](https://www.youtube.com/watch?v=jtxeDpNoR8I)
-- [Will You Love Me Tomorrow](https://www.youtube.com/watch?v=WMGBcS0h-Ng)
-- [Smackwater Jack](https://www.youtube.com/watch?v=ANsKjjyfeOo)
-- [Tapestry](https://www.youtube.com/watch?v=JM07lUytXA0)
-- [Carole King - You Make Me Feel Like A Natural Woman Official Audio](https://www.youtube.com/watch?v=KQXY8zwQgmc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +65,5 @@ Individually, the songs have long since been woven into pop music’s unconsciou
 | Format         | Vinyl LP Album Reissue Stereo (180 g) |
 | Label          | Ode Records (2) |
 | Catalog Number | 88875170161 |
-| Notes | Gatefold sleeve. Sticker on shrink: [We are vinyl logo] 180 GRAM VINYL CLAIM YOUR DOWNLOAD AT WEAREVINYL.COM |
+| Notes | Gatefold sleeve.<br>Sticker on shrink: [We are vinyl logo] 180 GRAM VINYL CLAIM YOUR DOWNLOAD AT WEAREVINYL.COM |
 | Discogs URL    | [Carole King - Tapestry](https://www.discogs.com/release/8211921-Carole-King-Tapestry) |

@@ -33,26 +33,25 @@ The album has influenced many bands and musicians, and the industry in general. 
 
 
 ## Tracklisting
-1. Holidays In The Sun (3:22)
-2. Bodies (2:41)
-3. No Feelings (2:53)
-4. Liar (3:20)
-5. God Save The Queen (4:11)
-6. Problems (2:02)
-7. Seventeen (3:32)
-8. Anarchy In The U.K (3:03)
-9. Submission (4:12)
-10. Pretty Vacant (3:18)
-11. New York (3:07)
-12. EMI (3:10)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Holidays In The Sun | 3:22 |
+| A2 | Bodies | 2:41 |
+| A3 | No Feelings | 2:53 |
+| A4 | Liar | 3:20 |
+| A5 | God Save The Queen | 4:11 |
+| A6 | Problems | 2:02 |
+| B1 | Seventeen | 3:32 |
+| B2 | Anarchy In The U.K | 3:03 |
+| B3 | Submission | 4:12 |
+| B4 | Pretty Vacant | 3:18 |
+| B5 | New York | 3:07 |
+| B6 | EMI | 3:10 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/never-mind-the-bollocks-heres-the-sex-pistols/1440810369" >}}<br>
 
-
-## Videos
-### Sex Pistols - Never Mind The Bollocks Heres The Sex Pistols Full Album HQ
-{{< youtube id="LD2i99QPVI0" title="Sex Pistols - Never Mind The Bollocks Heres The Sex Pistols Full Album HQ" >}}<br>
 
 
 ## Release Images
@@ -65,5 +64,5 @@ The album has influenced many bands and musicians, and the industry in general. 
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180g) |
 | Label          | Universal Music Group International |
 | Catalog Number | SexPisLP77 |
-| Notes | Part of the 'Back To Black' series of releases of classic albums. Some copies have a square sticker on the shrinkwrap.  Unknown quantity of copies on heavyweight 180g black vinyl.  Track B3 not presented on Cover artwork Track B6 presented as 'EMI Unlimited Edition' on cover artwork  Includes voucher to download an mp3 copy of LP.  ℗ & © 2014 Made in the EU.  Similar release without 'www.gzvinyl.com' is here, [r=13043632] |
+| Notes | Part of the 'Back To Black' series of releases of classic albums.<br>Some copies have a square sticker on the shrinkwrap. <br>Unknown quantity of copies on heavyweight 180g black vinyl.<br><br>Track B3 not presented on Cover artwork<br>Track B6 presented as 'EMI Unlimited Edition' on cover artwork<br><br>Includes voucher to download an mp3 copy of LP.<br><br>℗ & © 2014<br>Made in the EU.<br><br>Similar release without 'www.gzvinyl.com' is here, [r=13043632] |
 | Discogs URL    | [Sex Pistols - Never Mind The Bollocks, Here's The Sex Pistols](https://www.discogs.com/release/5759979-Sex-Pistols-Never-Mind-The-Bollocks-Heres-The-Sex-Pistols) |

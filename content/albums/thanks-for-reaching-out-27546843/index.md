@@ -1,9 +1,10 @@
 ---
 title: "Jim Bob - Thanks For Reaching Out"
 artist_name: "Jim Bob"
-artist: "jim-bob-2"
+artist: "jim-bob"
 album_name: "Thanks For Reaching Out"
 date: 2023-07-01T06:24:14.000000Z
+release_date: "2023-06-30"
 release_id: "27546843"
 slug: "thanks-for-reaching-out-27546843"
 hideSummary: true
@@ -21,32 +22,31 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Thanks For Reaching Out
-2. The Day Of Reckoning
-3. Bernadette (Hasn’t Found Anyone Yet)
-4. Toxic Man
-5. This Is End Times
-6. We Need To Try Harder (We Need To Do Better)
-7. Billionaire In Space
-8. Sebastian’s Gone On A Ridealong
-9. goesaroundcomesaround
-10. Befriend The Police
-11. The Prince Of Wales
-12. Thanks For Reaching Outro
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Thanks For Reaching Out |  |
+| A2 | The Day Of Reckoning |  |
+| A3 | Bernadette (Hasn’t Found Anyone Yet) |  |
+| A4 | Toxic Man |  |
+| A5 | This Is End Times |  |
+| A6 | We Need To Try Harder (We Need To Do Better) |  |
+| B1 | Billionaire In Space |  |
+| B2 | Sebastian’s Gone On A Ridealong |  |
+| B3 | goesaroundcomesaround |  |
+| B4 | Befriend The Police |  |
+| B5 | The Prince Of Wales |  |
+| B6 | Thanks For Reaching Outro |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/thanks-for-reaching-out/1678181317" >}}<br>
 
 
-## Videos
-### Jim Bob - Thanks For Reaching Out Official Video
-{{< youtube id="hqQdYpe7_wM" title="Jim Bob - Thanks For Reaching Out Official Video" >}}<br>
-### More Videos
-
-- [Jim Bob - Sebastians Gone On A Ridealong Official Video](https://www.youtube.com/watch?v=AInM9y6GcXQ)
-- [Jim Bob - Billionaire In Space Official Video](https://www.youtube.com/watch?v=a8Lb9yOefMc)
 
 ## Release Images
 {{< imageGrid >}}

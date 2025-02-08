@@ -4,6 +4,7 @@ artist_name: "Gavin Harrison"
 artist: "gavin-harrison"
 album_name: "Cheating The Polygraph"
 date: 2022-01-05T03:54:49.000000Z
+release_date: "2015-04-13"
 release_id: "6905612"
 slug: "cheating-the-polygraph-6905612"
 hideSummary: true
@@ -27,29 +28,27 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. What Happens Now? (7:32)
-2. Sound Of Muzak / So Called Friend (5:56)
-3. The Start Of Something Beautiful (4:48)
-4. Heartattack In A Layby (6:00)
-5. The Pills I'm Taking (From Anesthetise) (5:03)
-6. Hatesong / Halo (8:17)
-7. Cheating The Polygraph / Mother & Child Divided (5:29)
-8. Futile (6:04)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | What Happens Now? | 7:32 |
+| A2 | Sound Of Muzak / So Called Friend | 5:56 |
+| A3 | The Start Of Something Beautiful | 4:48 |
+| A4 | Heartattack In A Layby | 6:00 |
+| B1 | The Pills I'm Taking (From Anesthetise) | 5:03 |
+| B2 | Hatesong / Halo | 8:17 |
+| B3 | Cheating The Polygraph / Mother & Child Divided | 5:29 |
+| B4 | Futile | 6:04 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cheating-the-polygraph/969274641" >}}<br>
 
 
-## Videos
-### Gavin Harrison Cheating The PolygraphMother  Child Divided
-{{< youtube id="ZwaqOBXpEDs" title="Gavin Harrison Cheating The PolygraphMother  Child Divided" >}}<br>
-### More Videos
-
-- [Gavin Harrison - Hatesong  Halo from Cheating the Polygraph](https://www.youtube.com/watch?v=s9PCreC7Lfk)
-- [Gavin Harrison Cheating The PolygraphMother  Child Divided](https://www.youtube.com/watch?v=ZwaqOBXpEDs)
-- [Gavin Harrison - Hatesong  Halo from Cheating the Polygraph](https://www.youtube.com/watch?v=s9PCreC7Lfk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,5 +59,5 @@ styles: []
 | Format         | Vinyl LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE876 |
-| Notes | The spelling of "Sound Of Muzak" and "Anesthetise" differ from the original song titles ("The Sound Of Muzak" and "Anesthetize" respectively).  180g heavyweight vinyl, gatefold cover.  All pre-orders from Burning Shed came with an exclusive postcard signed by Gavin Harrison. |
+| Notes | The spelling of "Sound Of Muzak" and "Anesthetise" differ from the original song titles ("The Sound Of Muzak" and "Anesthetize" respectively).<br><br>180g heavyweight vinyl, gatefold cover.<br><br>All pre-orders from Burning Shed came with an exclusive postcard signed by Gavin Harrison. |
 | Discogs URL    | [Gavin Harrison - Cheating The Polygraph](https://www.discogs.com/release/6905612-Gavin-Harrison-Cheating-The-Polygraph) |

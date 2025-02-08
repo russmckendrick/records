@@ -4,6 +4,7 @@ artist_name: "Doves"
 artist: "doves"
 album_name: "Kingdom Of Rust"
 date: 2022-11-22T02:17:56.000000Z
+release_date: "2009-01-01"
 release_id: "25227943"
 slug: "kingdom-of-rust-25227943"
 hideSummary: true
@@ -34,30 +35,30 @@ Kingdom of Rust is the fourth studio album from British indie rock band Doves. T
 The album was born from a tumultuous time in Doves' history, and followed a four-year gap between their last album Some Cities in 2005, at the time the longest period between albums from the band. Doves would tour to promote the album throughout 2009, culminating in a recording hiatus in 2010 which would subsequently last until 2020.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Jetstream (5:30)
-2. Kingdom Of Rust (5:09)
-3. The Outsiders (3:25)
-4. Winter Hill (5:17)
-5. 10:03 (4:03)
-6. The Greatest Denier (3:55)
-7. Birds Flew Backwards (2:50)
-8. Spellbound (5:38)
-9. Compulsion (5:12)
-10. House Of Mirrors (4:14)
-11. Lifelines (4:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Jetstream | 5:30 |
+| A2 | Kingdom Of Rust | 5:09 |
+| B1 | The Outsiders | 3:25 |
+| B2 | Winter Hill | 5:17 |
+| B3 | 10:03 | 4:03 |
+| C1 | The Greatest Denier | 3:55 |
+| C2 | Birds Flew Backwards | 2:50 |
+| C3 | Spellbound | 5:38 |
+| D1 | Compulsion | 5:12 |
+| D2 | House Of Mirrors | 4:14 |
+| D3 | Lifelines | 4:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kingdom-of-rust/714639464" >}}<br>
 
-
-## Videos
-### Doves - Kingdom of rust Kingdom of rust Music video
-{{< youtube id="qSWr_bTrGvc" title="Doves - Kingdom of rust Kingdom of rust Music video" >}}<br>
 
 
 ## Release Images

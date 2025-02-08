@@ -67,41 +67,27 @@ Works with iPhone 7 or later with the latest version of iOS; 12.9-inch iPad Pro 
 
 
 ## Tracklisting
-1. You Ain't the Problem (4:09)
-2. Rolling (2:51)
-3. I've Been Dazed (4:25)
-4. Piano Joint (This Kind of Love) Intro (2:18)
-5. Piano Joint (This Kind of Love) (3:51)
-6. Another Human Being (Interlude) (1:51)
-7. Living in Denial (3:31)
-8. Hero (3:19)
-9. Hard to Say Goodbye (7:05)
-10. Final Days (4:10)
-11. Interlude (Loving The People) (2:42)
-12. Solid Ground (3:53)
-13. Light (5:48)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | You Ain't the Problem | 4:09 |
+| A2 | Rolling | 2:51 |
+| A3 | I've Been Dazed | 4:25 |
+| B1 | Piano Joint (This Kind of Love) Intro | 2:18 |
+| B2 | Piano Joint (This Kind of Love) | 3:51 |
+| B3 | Another Human Being (Interlude) | 1:51 |
+| B4 | Living in Denial | 3:31 |
+| C1 | Hero | 3:19 |
+| C2 | Hard to Say Goodbye | 7:05 |
+| D1 | Final Days | 4:10 |
+| D2 | Interlude (Loving The People) | 2:42 |
+| D3 | Solid Ground | 3:53 |
+| D4 | Light | 5:48 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kiwanuka/1474357932" >}}<br>
 
 
-## Videos
-### Michael Kiwanuka - You Aint The Problem Lyric Video
-{{< youtube id="2yEeF65NnyI" title="Michael Kiwanuka - You Aint The Problem Lyric Video" >}}<br>
-### More Videos
-
-- [Rolling](https://www.youtube.com/watch?v=WeRQ_Essido)
-- [Ive Been Dazed](https://www.youtube.com/watch?v=HEqeRL4LRuE)
-- [Piano Joint This Kind Of Love](https://www.youtube.com/watch?v=NPOyFQQvXJ4)
-- [Piano Joint This Kind Of Love](https://www.youtube.com/watch?v=0PVN31NuYNo)
-- [Another Human Being](https://www.youtube.com/watch?v=1j1vgmZAnrA)
-- [Living In Denial](https://www.youtube.com/watch?v=YM5U3h8uITM)
-- [Hero Intro](https://www.youtube.com/watch?v=z7eYrvS-OE8)
-- [Hard To Say Goodbye](https://www.youtube.com/watch?v=786dl0llF4c)
-- [Final Days](https://www.youtube.com/watch?v=t7egVrhFaFU)
-- [Interlude Loving The People](https://www.youtube.com/watch?v=YHPxzrAvWS0)
-- [Solid Ground](https://www.youtube.com/watch?v=zO_wmEzfMRY)
-- [Light](https://www.youtube.com/watch?v=RCDsiBLZPnk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -113,5 +99,5 @@ Works with iPhone 7 or later with the latest version of iOS; 12.9-inch iPad Pro 
 | Format         | Vinyl 2× LP Album Limited Edition (Yellow, 180g) |
 | Label          | Polydor |
 | Catalog Number | 7795288 |
-| Notes | Gatefold sleeve holds two full color printed cardboard inner sleeves.  Some copies include colour print signed by the artist.  On labels: Made in the Czech Republic |
+| Notes | Gatefold sleeve holds two full color printed cardboard inner sleeves.<br><br>Some copies include colour print signed by the artist.<br><br>On labels: Made in the Czech Republic |
 | Discogs URL    | [Michael Kiwanuka - Kiwanuka](https://www.discogs.com/release/14335267-Michael-Kiwanuka-Kiwanuka) |

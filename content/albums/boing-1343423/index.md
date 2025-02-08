@@ -1,9 +1,10 @@
 ---
 title: "Airhead - Boing!!"
 artist_name: "Airhead"
-artist: "airhead-3"
+artist: "airhead"
 album_name: "Boing!!"
 date: 2016-02-29T18:17:33.000000Z
+release_date: "1991"
 release_id: "1343423"
 slug: "boing-1343423"
 hideSummary: true
@@ -21,35 +22,30 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Scrap Happy
-2. I Might Fall
-3. Right Now
-4. Funny How
-5. Easy
-6. Counting Sheep
-7. I Don't Mind
-8. Congratulations
-9. Wish You Were Here
-10. Isn't It Rich
-11. Everybody Needs
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Scrap Happy |  |
+| A2 | I Might Fall |  |
+| A3 | Right Now |  |
+| A4 | Funny How |  |
+| A5 | Easy |  |
+| B1 | Counting Sheep |  |
+| B2 | I Don't Mind |  |
+| B3 | Congratulations |  |
+| B4 | Wish You Were Here |  |
+| B5 | Isn't It Rich |  |
+| B6 | Everybody Needs |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/boing/570560067" >}}<br>
 
 
-## Videos
-### Airhead - Right Now
-{{< youtube id="juzGy3-fGpg" title="Airhead - Right Now" >}}<br>
-### More Videos
-
-- [Airhead - Counting Sheep OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=frNsD1ktDlk)
-- [Airhead - Scrap Happy OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=2xpANQbpbkw)
-- [Airhead - Funny How Official Music Video](https://www.youtube.com/watch?v=17Zfcq6cq2g)
-- [Airhead - Right Now](https://www.youtube.com/watch?v=juzGy3-fGpg)
-- [Airhead - Counting Sheep OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=frNsD1ktDlk)
-- [Airhead - Scrap Happy OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=2xpANQbpbkw)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "The Sha La Das"
 artist: "the-sha-la-das"
 album_name: "Love In The Wind"
 date: 2018-09-25T19:14:45.000000Z
+release_date: "2018-09-21"
 release_id: "12550052"
 slug: "love-in-the-wind-12550052"
 hideSummary: true
@@ -21,34 +22,30 @@ styles: ["Doo Wop", "Soul", "Surf"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Open My Eyes
-2. Just For A Minute
-3. Summer Breeze
-4. Okay My Love
-5. Sha La Da La La
-6. Those Years Are Over
-7. Do What
-8. Carnival
-9. You Never Know Whether
-10. It's You
-11. Love In The Wind
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Open My Eyes |  |
+| A2 | Just For A Minute |  |
+| A3 | Summer Breeze |  |
+| A4 | Okay My Love |  |
+| A5 | Sha La Da La La |  |
+| B1 | Those Years Are Over |  |
+| B2 | Do What |  |
+| B3 | Carnival |  |
+| B4 | You Never Know Whether |  |
+| B5 | It's You |  |
+| B6 | Love In The Wind |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/love-in-the-wind/1485064517" >}}<br>
 
 
-## Videos
-### The Sha La Das - Love in the Wind Official Audio
-{{< youtube id="S-0XRjO8Iy0" title="The Sha La Das - Love in the Wind Official Audio" >}}<br>
-### More Videos
-
-- [Sha La Das - Open My Eyes Official Audio](https://www.youtube.com/watch?v=EDSSesrKz0k)
-- [Sha La Das - Just for a Minute Official Audio](https://www.youtube.com/watch?v=_I6OloEONDw)
-- [The Sha La Das - Okay My Love Official Audio](https://www.youtube.com/watch?v=Gp5-_UdJq7M)
-- [The Sha La Das - Carnival Official Audio](https://www.youtube.com/watch?v=kaA0TFlVtiY)
-- [The Sha La Das - Those Years Are Over Official Audio](https://www.youtube.com/watch?v=UncuOBiYjuM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,5 +56,5 @@ styles: ["Doo Wop", "Soul", "Surf"]
 | Format         | Vinyl LP Album |
 | Label          | Dunham |
 | Catalog Number | DUN-1006 |
-| Notes | Text on the Backside of the Record: All Songs @ BMG Platinum Songs (BMI) / Extraordinaire Music (BMI) /  Music of Big Deal (BMI) / WC Songs (ASCAP) / Words for Free (ASCAP.) Recorded by T. Brenneck at DUNHAM SOUND STUDIOS, Brooklyn, NY. Mixed by T. Brenneck at THE DIAMOND MINE, Long Island City, NY.  Assistant Engineering by JENS JUNGKURTH, JOE HARRISON. Vocal Arrangements by W.C. SCHALDA, Except "Sha La Da La La (Christmas Time)" by TNT. String Arrangements by TNT. Mastered by J.J. Golden. Cover Photo by W.C. SCHALDA. Sleeve Design by HOMER STEINWEISS, DANNY MILLER. Executive Producers, SUGARMAN & ROTH. Copyright 2018, DAPTONE RECORDS      |
+| Notes | Text on the Backside of the Record:<br>All Songs @ BMG Platinum Songs (BMI) / Extraordinaire Music (BMI) / <br>Music of Big Deal (BMI) / WC Songs (ASCAP) / Words for Free (ASCAP.)<br>Recorded by T. Brenneck at DUNHAM SOUND STUDIOS, Brooklyn, NY.<br>Mixed by T. Brenneck at THE DIAMOND MINE, Long Island City, NY. <br>Assistant Engineering by JENS JUNGKURTH, JOE HARRISON.<br>Vocal Arrangements by W.C. SCHALDA, Except "Sha La Da La La (Christmas Time)" by TNT.<br>String Arrangements by TNT.<br>Mastered by J.J. Golden.<br>Cover Photo by W.C. SCHALDA.<br>Sleeve Design by HOMER STEINWEISS, DANNY MILLER.<br>Executive Producers, SUGARMAN & ROTH.<br>Copyright 2018, DAPTONE RECORDS      |
 | Discogs URL    | [The Sha La Das - Love In The Wind](https://www.discogs.com/release/12550052-The-Sha-La-Das-Love-In-The-Wind) |

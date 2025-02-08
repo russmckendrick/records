@@ -32,19 +32,18 @@ Two striking ballads, “Blue in Green” and “Flamenco Sketches”, bear the 
 
 
 ## Tracklisting
-1. So What
-2. Freddie Freeloader
-3. Blue In Green
-4. Flamenco Sketches
-5. All Blues
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | So What |  |
+| A2 | Freddie Freeloader |  |
+| A3 | Blue In Green |  |
+| B1 | Flamenco Sketches |  |
+| B2 | All Blues |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kind-of-blue/268443092" >}}<br>
 
-
-## Videos
-### Miles Davis - Blue In Green Official Audio
-{{< youtube id="TLDflhhdPCg" title="Miles Davis - Blue In Green Official Audio" >}}<br>
 
 
 ## Release Images

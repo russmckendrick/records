@@ -4,6 +4,7 @@ artist_name: "The Lemonheads"
 artist: "the-lemonheads"
 album_name: "Come On Feel The Lemonheads"
 date: 2023-05-19T11:08:00.000000Z
+release_date: "1993-01-01"
 release_id: "27057084"
 slug: "come-on-feel-the-lemonheads-27057084"
 hideSummary: true
@@ -36,57 +37,51 @@ styles: ["Alternative Rock", "Country Rock"]
 ---
 
 Come on Feel the Lemonheads is the sixth studio album by the American alternative rock band the Lemonheads. It was released on October 12, 1993. Produced by The Robb Brothers, the band lineup consisted of Evan Dando (lead vocals, guitar), Nic Dalton (bass guitar) and David Ryan (drums), along with former bassist Juliana Hatfield singing backing vocals on several tracks.  The album was written by Dando and his songwriting partner Tom Morgan. Following the success of their prior album, It's a Shame About Ray, the band had attracted considerable media attention as alternative rock darlings, and some big-name guest musicians appeared on the album as well, including the Go-Go's lead singer Belinda Carlisle and funk musician Rick James. The song "Into Your Arms", a cover version of a song written and recorded previously by Dalton's former band, became the Lemonheads' biggest charting hit.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Great Big No (2:51)
-2. Into Your Arms (2:44)
-3. It's About Time (2:41)
-4. Down About It (2:15)
-5. Paid To Smile (3:00)
-6. Big Gay Heart (4:37)
-7. Style (2:12)
-8. Rest Assured (2:31)
-9. Dawn Can't Decide (2:18)
-10. I'll Do It Anyway (3:34)
-11. Rick James Style (3:18)
-12. Being Around (1:48)
-13. Favorite T (2:59)
-14. You Can Take It With You (2:05)
-15. The Jello Fund (5:54)
-16. Alternative & Acoustic
-17. Big Gay Heart (Demo) (4:26)
-18. Being Around (Alternative) (1:39)
-19. Into Your Arms (Acoustic) (1:32)
-20. Down About It (Acoustic) (2:47)
-21. Deep Bottom Cove (1:23)
-22. Acoustic Rick James Style (4:41)
-23. It's About Time (Acoustic) (2:21)
-24. Covers & Curiosities
-25. Miss Otis Regrets (2:44)
-26. Learning The Game (1:15)
-27. Little Black Egg (2:16)
-28. Streets Of Baltimore (2:10)
-29. Frying Pan (3:10)
-30. He's On The Beach (3:03)
-31. Favorite T (Live In Session) (2:25)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Great Big No | 2:51 |
+| A2 | Into Your Arms | 2:44 |
+| A3 | It's About Time | 2:41 |
+| A4 | Down About It | 2:15 |
+| A5 | Paid To Smile | 3:00 |
+| A6 | Big Gay Heart | 4:37 |
+| A7 | Style | 2:12 |
+| A8 | Rest Assured | 2:31 |
+| B1 | Dawn Can't Decide | 2:18 |
+| B2 | I'll Do It Anyway | 3:34 |
+| B3 | Rick James Style | 3:18 |
+| B4 | Being Around | 1:48 |
+| B5 | Favorite T | 2:59 |
+| B6 | You Can Take It With You | 2:05 |
+| B7 | The Jello Fund | 5:54 |
+|  | Alternative & Acoustic |  |
+| C1 | Big Gay Heart (Demo) | 4:26 |
+| C2 | Being Around (Alternative) | 1:39 |
+| C3 | Into Your Arms (Acoustic) | 1:32 |
+| C4 | Down About It (Acoustic) | 2:47 |
+| C5 | Deep Bottom Cove | 1:23 |
+| C6 | Acoustic Rick James Style | 4:41 |
+| C7 | It's About Time (Acoustic) | 2:21 |
+|  | Covers & Curiosities |  |
+| D1 | Miss Otis Regrets | 2:44 |
+| D2 | Learning The Game | 1:15 |
+| D3 | Little Black Egg | 2:16 |
+| D4 | Streets Of Baltimore | 2:10 |
+| D5 | Frying Pan | 3:10 |
+| D6 | He's On The Beach | 3:03 |
+| D7 | Favorite T (Live In Session) | 2:25 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/come-on-feel-the-lemonheads/1667958046" >}}<br>
 
 
-## Videos
-### The Lemonheads - Come On Feel The Lemonheads Full Album - 30th Anniversary Edition
-{{< youtube id="NMDpZZglra0" title="The Lemonheads - Come On Feel The Lemonheads Full Album - 30th Anniversary Edition" >}}<br>
-### More Videos
-
-- [The Lemonheads - Its About Time](https://www.youtube.com/watch?v=_OVy1Q-O4wM)
-- [The Lemonheads - Down About It - Come on Feel the Lemonheads 1993](https://www.youtube.com/watch?v=66dq0FIQO8c)
-- [The Lemonheads - Into Your Arms Lyrics](https://www.youtube.com/watch?v=Kt-lmyQG6GI)
-- [The Lemonheads - Big gay heart](https://www.youtube.com/watch?v=wnxTjW8MBlc)
-- [The Lemonheads - Into Your Arms](https://www.youtube.com/watch?v=ZhlJCQH7-SQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -98,5 +93,5 @@ Come on Feel the Lemonheads is the sixth studio album by the American alternativ
 | Format         | Vinyl LP Album Reissue (Red), Vinyl LP Compilation (Yellow), All Media (30th Anniversary Edition, Gatefold) |
 | Label          | Fire Records |
 | Catalog Number | FIRELP494 |
-| Notes | Packaged in a gatefold sleeve. Includes printed inner sleeves and a download card. The download card is in the form of a postcard with the download code on one side and a photo of the band on the other. Inner sleeve 1: a photo of the band on one side, credits + a smaller photo of the band on the other Inner sleeve 2: sleeve notes on one side, track list and writing credits on the other  [Hype sticker:] Come On Feel The Lemonheads "The perfect pop album" ★★★★★ NME 2XLP Expanded 30th Anniversary Edition on red & yellow vinyl  [Back cover:] A3 - Written for Juliana Hatfield A6 - Against Violence B2 - Written for Belinda Carlisle  ℗ 1993 Fire Records. © 2023 Fire Records.  [Inner sleeve 1:] [a56631] [...] (courtesy of Virgin Records) Evan Dando is published by Dave and Darlene Music (ASCAP), administered by Music Sales Corporation. Tom Morgan is published by Domino Publishing.  Into Your Arms [...] (APRA). Miss Otis regrets [...] (Chappell Music). Learning the Game [...] (Peermusic). Little Black Egg [...] (Ace Records). Streets of Baltimore [...] (Sony/Atv Harmony). Frying Pan [...] (Mumblety Peg Music). He's on the Beach [...] (BMG).  Runouts: - Runouts are hand-etched - The Optimal Media plating symbols ("geometric" marks) are mirrored and some of them may be inverted |
+| Notes | Packaged in a gatefold sleeve.<br>Includes printed inner sleeves and a download card.<br>The download card is in the form of a postcard with the download code on one side and a photo of the band on the other.<br>Inner sleeve 1: a photo of the band on one side, credits + a smaller photo of the band on the other<br>Inner sleeve 2: sleeve notes on one side, track list and writing credits on the other<br><br>[Hype sticker:]<br>Come On Feel The Lemonheads<br>"The perfect pop album"<br>★★★★★<br>NME<br>2XLP Expanded 30th Anniversary Edition on red & yellow vinyl<br><br>[Back cover:]<br>A3 - Written for Juliana Hatfield<br>A6 - Against Violence<br>B2 - Written for Belinda Carlisle<br><br>℗ 1993 Fire Records.<br>© 2023 Fire Records.<br><br>[Inner sleeve 1:]<br>[a56631] [...] (courtesy of Virgin Records)<br>Evan Dando is published by Dave and Darlene Music (ASCAP), administered by Music Sales Corporation.<br>Tom Morgan is published by Domino Publishing.<br><br>Into Your Arms [...] (APRA).<br>Miss Otis regrets [...] (Chappell Music).<br>Learning the Game [...] (Peermusic).<br>Little Black Egg [...] (Ace Records).<br>Streets of Baltimore [...] (Sony/Atv Harmony).<br>Frying Pan [...] (Mumblety Peg Music).<br>He's on the Beach [...] (BMG).<br><br>Runouts:<br>- Runouts are hand-etched<br>- The Optimal Media plating symbols ("geometric" marks) are mirrored and some of them may be inverted |
 | Discogs URL    | [The Lemonheads - Come On Feel The Lemonheads](https://www.discogs.com/release/27057084-The-Lemonheads-Come-On-Feel-The-Lemonheads) |

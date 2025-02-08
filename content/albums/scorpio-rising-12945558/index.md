@@ -4,6 +4,7 @@ artist_name: "Death In Vegas"
 artist: "death-in-vegas"
 album_name: "Scorpio Rising"
 date: 2018-12-19T19:50:11.000000Z
+release_date: "2003-06-17"
 release_id: "12945558"
 slug: "scorpio-rising-12945558"
 hideSummary: true
@@ -28,44 +29,30 @@ Several songs on the album have appeared in television advertisements and on fil
 "Help Yourself" was used in a commercial by the former Czech mobile phone operator Eurotel (now Telefónica O2 Czech Republic); in Johan Kramer's 2003 film The Other Final; in the 2003 Girl Skateboards video Yeah Right!; and in the 2005 film 12 and Holding.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Leather
-2. Girls
-3. Hands Around My Throat
-4. 23 Lies
-5. Scorpio Rising
-6. Killing Smile
-7. Natja
-8. So You Say You Lost Your Baby
-9. Diving Horses
-10. Help Yourself
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Leather |  |
+| A2 | Girls |  |
+| A3 | Hands Around My Throat |  |
+| B1 | 23 Lies |  |
+| B2 | Scorpio Rising |  |
+| B3 | Killing Smile |  |
+| C1 | Natja |  |
+| C2 | So You Say You Lost Your Baby |  |
+| C3 | Diving Horses |  |
+| D | Help Yourself |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/scorpio-rising/1187871169" >}}<br>
 
 
-## Videos
-### Death In Vegas - Scorpio Raising ft Liam Gallagher
-{{< youtube id="5XVTHL6wpZQ" title="Death In Vegas - Scorpio Raising ft Liam Gallagher" >}}<br>
-### More Videos
-
-- [Death in Vegas - Killing Smile](https://www.youtube.com/watch?v=K_GfO61f3yM)
-- [Death In Vegas - Diving Horses](https://www.youtube.com/watch?v=7ZtjzD7I3Hc)
-- [Death in Vegas - 23 Lies Hope Sandoval](https://www.youtube.com/watch?v=ONxlnW0T3X8)
-- [Leather](https://www.youtube.com/watch?v=YRhp8ygTPZM)
-- [Death In Vegas Girls](https://www.youtube.com/watch?v=v4-GIq4bEOE)
-- [Death in Vegas - Hands Around My Throat](https://www.youtube.com/watch?v=r-S2aqnfzDs)
-- [Death in vegas-Scorpio Rising](https://www.youtube.com/watch?v=0T1uUmL8rog)
-- [Death In Vegas - Natja](https://www.youtube.com/watch?v=HMZMdCGP8GA)
-- [Death In Vegas feat Hope Sandoval - Help Yourself lyrics](https://www.youtube.com/watch?v=H2ihddzxTFA)
-- [Death In Vegas - Scorpio Raising ft Liam Gallagher](https://www.youtube.com/watch?v=5XVTHL6wpZQ)
-- [Death in Vegas - Killing Smile](https://www.youtube.com/watch?v=K_GfO61f3yM)
-- [Death In Vegas - Diving Horses](https://www.youtube.com/watch?v=7ZtjzD7I3Hc)
-- [Death in Vegas - 23 Lies Hope Sandoval](https://www.youtube.com/watch?v=ONxlnW0T3X8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +64,5 @@ Several songs on the album have appeared in television advertisements and on fil
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue (Red Translucent) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2251 |
-| Notes | ℗ & © 2018 Sony Music Entertainment.  180 gram audiophile vinyl. Gatefold sleeve. Printed innersleeves with per track credits. 2.500 individually numbered copies on red vinyl.  Runouts are hand etched on all four sides. |
+| Notes | ℗ & © 2018 Sony Music Entertainment.<br><br>180 gram audiophile vinyl.<br>Gatefold sleeve.<br>Printed innersleeves with per track credits.<br>2.500 individually numbered copies on red vinyl.<br><br>Runouts are hand etched on all four sides. |
 | Discogs URL    | [Death In Vegas - Scorpio Rising](https://www.discogs.com/release/12945558-Death-In-Vegas-Scorpio-Rising) |

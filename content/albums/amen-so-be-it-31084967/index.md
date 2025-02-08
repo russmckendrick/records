@@ -4,6 +4,7 @@ artist_name: "Paddy Casey"
 artist: "paddy-casey"
 album_name: "Amen (So Be It). "
 date: 2024-09-30T07:04:35.000000Z
+release_date: "1999-06-28"
 release_id: "31084967"
 slug: "amen-so-be-it-31084967"
 hideSummary: true
@@ -27,42 +28,31 @@ styles: ["Folk Rock", "Soul"]
 Amen (So Be It) is the debut album by Irish musician Paddy Casey. It was released on 28 June 1999.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Fear
-2. Whatever Gets You True
-3. Can't Take That Away
-4. Ancient Sorrow
-5. Everybody Wants
-6. Sweet Suburban Sky
-7. Downtown
-8. Would U B
-9. Winter's Fire
-10. Rainwater 
-11. It's Over Now 
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fear |  |
+| A2 | Whatever Gets You True |  |
+| A3 | Can't Take That Away |  |
+| A4 | Ancient Sorrow |  |
+| A5 | Everybody Wants |  |
+| A6 | Sweet Suburban Sky |  |
+| B1 | Downtown |  |
+| B2 | Would U B |  |
+| B3 | Winter's Fire |  |
+| B4 | Rainwater  |  |
+| B5 | It's Over Now  |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/amen-so-be-it/183489212" >}}<br>
 
 
-## Videos
-### Fear
-{{< youtube id="sE5euDtcj5c" title="Fear" >}}<br>
-### More Videos
-
-- [Paddy Casey - Whatever Gets You True](https://www.youtube.com/watch?v=WrLUjKiVFug)
-- [Cant Take That Away](https://www.youtube.com/watch?v=obKaqafnmbw)
-- [Ancient Sorrow](https://www.youtube.com/watch?v=14kLHO5xgKs)
-- [Everybody Wants](https://www.youtube.com/watch?v=SMEInVrf5iU)
-- [Paddy Casey - Sweet Suburban Sky original version](https://www.youtube.com/watch?v=MbG-pqgpt4s)
-- [Downtown](https://www.youtube.com/watch?v=VVCGoHsY2wU)
-- [Would U B](https://www.youtube.com/watch?v=i3HQQpsHVeI)
-- [Winters Fire](https://www.youtube.com/watch?v=tXz0Upa3RpA)
-- [Rainwater](https://www.youtube.com/watch?v=ggO-sGfzaB0)
-- [Its Over Now](https://www.youtube.com/watch?v=JS5z756qyeg)
 
 ## Release Images
 {{< imageGrid >}}

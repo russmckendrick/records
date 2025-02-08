@@ -4,6 +4,7 @@ artist_name: "The Seatbelts"
 artist: "the-seatbelts"
 album_name: "Cowboy Bebop (Original Series Soundtrack)"
 date: 2023-10-06T04:35:08.000000Z
+release_date: "1998-05-21"
 release_id: "16328898"
 slug: "cowboy-bebop-original-series-soundtrack-16328898"
 hideSummary: true
@@ -29,44 +30,41 @@ styles: ["Soundtrack", "Score", "Anison"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Tank!
-2. Rush
-3. Spokey Dokey
-4. Bad Dog No Biscuits
-5. Cat Blues
-6. Cosmos
-7. Space Lion
-8. Waltz For Zizi
-9. Piano Black
-10. Pot City
-11. Too Good Too Bad
-12. Car 24
-13. The Egg And I
-14. Felt Tip Pen
-15. Rain
-16. Digging My Potato
-17. Memory
-18. What Planet Is This?
-19. Diamonds
-20. Mushroom Hunting
-21. Einstein Groovin’
-22. Pearls
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Tank! |  |
+| A2 | Rush |  |
+| A3 | Spokey Dokey |  |
+| A4 | Bad Dog No Biscuits |  |
+| A5 | Cat Blues |  |
+| B1 | Cosmos |  |
+| B2 | Space Lion |  |
+| B3 | Waltz For Zizi |  |
+| B4 | Piano Black |  |
+| B5 | Pot City |  |
+| C1 | Too Good Too Bad |  |
+| C2 | Car 24 |  |
+| C3 | The Egg And I |  |
+| C4 | Felt Tip Pen |  |
+| C5 | Rain |  |
+| C6 | Digging My Potato |  |
+| C7 | Memory |  |
+| D1 | What Planet Is This? |  |
+| D2 | Diamonds |  |
+| D3 | Mushroom Hunting |  |
+| D4 | Einstein Groovin’ |  |
+| D5 | Pearls |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cowboy-bebop-original-motion-picture-soundtrack/1521453383" >}}<br>
 
 
-## Videos
-### Cowboy Bebop - Opening  Tank
-{{< youtube id="EL-D9LrFJd4" title="Cowboy Bebop - Opening  Tank" >}}<br>
-### More Videos
-
-- [Cowboy Bebop Original Series Soundtrack - Side A Milan by The Seatbelts](https://www.youtube.com/watch?v=o4wkH-6I4BM)
-- [Cowboy Bebop Original Series Soundtrack - Side B Milan by The Seatbelts](https://www.youtube.com/watch?v=QY2RBgYuBOA)
-- [Cowboy Bebop Original Series Soundtrack - Side C Milan by The Seatbelts](https://www.youtube.com/watch?v=SFK0r9_SDSk)
-- [Cowboy Bebop Original Series Soundtrack - Side D Milan by The Seatbelts](https://www.youtube.com/watch?v=2mN0nKcksIs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +75,5 @@ styles: ["Soundtrack", "Score", "Anison"]
 | Format         | Vinyl LP (Purple Translucent Marbled), Vinyl LP (Red/Gold Translucent Marbled), All Media Limited Edition Stereo |
 | Label          | Milan |
 | Catalog Number | 19439787681 |
-| Notes | Made in EU  Issued in a gatefold sleeve with printed inners.  The US release has swapped vinyl colours in opposite, the first disc is red/gold, and the second is purple. |
+| Notes | Made in EU<br><br>Issued in a gatefold sleeve with printed inners.<br><br>The US release has swapped vinyl colours in opposite, the first disc is red/gold, and the second is purple. |
 | Discogs URL    | [The Seatbelts - Cowboy Bebop (Original Series Soundtrack)](https://www.discogs.com/release/16328898-Seatbelts-Cowboy-Bebop-Original-Series-Soundtrack) |

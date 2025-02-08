@@ -4,6 +4,7 @@ artist_name: "Faith No More"
 artist: "faith-no-more"
 album_name: "The Real Thing"
 date: 2015-08-09T08:42:38.000000Z
+release_date: "1989-06-20"
 release_id: "383371"
 slug: "the-real-thing-383371"
 hideSummary: true
@@ -26,34 +27,29 @@ styles: ["Alternative Metal", "Funk Metal", "Alternative Rock"]
 The Real Thing is the third studio album by American rock band Faith No More, released on June 20, 1989, by Slash and Reprise Records. It is the first album to feature singer Mike Patton, following the dismissal of previous vocalist Chuck Mosley. On this album, Faith No More continued to advance their sound range, combining alternative metal, funk metal, and rap metal.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. From Out Of Nowhere (3:19)
-2. Epic (4:51)
-3. Falling To Pieces (5:12)
-4. Surprise! You're Dead! (2:26)
-5. Zombie Eaters (5:57)
-6. The Real Thing (8:10)
-7. Underwater Love (3:50)
-8. The Morning After (3:40)
-9. Woodpecker From Mars (5:38)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | From Out Of Nowhere | 3:19 |
+| A2 | Epic | 4:51 |
+| A3 | Falling To Pieces | 5:12 |
+| A4 | Surprise! You're Dead! | 2:26 |
+| A5 | Zombie Eaters | 5:57 |
+| B1 | The Real Thing | 8:10 |
+| B2 | Underwater Love | 3:50 |
+| B3 | The Morning After | 3:40 |
+| B4 | Woodpecker From Mars | 5:38 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-real-thing/83386606" >}}<br>
 
 
-## Videos
-### Faith No More - Epic Official Music Video
-{{< youtube id="ZG_k5CSYKhg" title="Faith No More - Epic Official Music Video" >}}<br>
-### More Videos
-
-- [Faith No More - Falling to Pieces Official Music Video](https://www.youtube.com/watch?v=32bdevGClD4)
-- [Faith No More - From Out Of Nowhere Official Music Video](https://www.youtube.com/watch?v=j4tsGWdarHc)
-- [Faith No More - Surprise Youre Dead Official Music Video](https://www.youtube.com/watch?v=eG4AawcYdSE)
-- [Faith No More - The Real Thing Full Album](https://www.youtube.com/watch?v=TebRt1gFVhs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +61,5 @@ The Real Thing is the third studio album by American rock band Faith No More, re
 | Format         | Vinyl LP Album Stereo |
 | Label          | London American Recordings |
 | Catalog Number | 828 154-1 |
-| Notes | Silver and black London Records labels printed with "Made in Holland". Label, album title, artist and catalogue number is printed along the top edge of the sleeve in addition to the release spine.    This version is very similar to the UK version. The [url=http://www.discogs.com/Faith-No-More-The-Real-Thing/release/1869217]UK version[/url] does not have album, artist, label and catalogue number information printed along the top edge of the sleeve and has white and red labels with no mention of its country of manufacture.    Includes a printed inner sleeve with graphics, photographs and credits.    Recorded December 1988 at Studio D, Sausalito, CA.  Mixed January 1989 at Blue Canyon, Studio City, CA.  Mastered at K-Disc, Los Angeles, CA.    Marketed in France by Barclay and in West Germany by Metronome Musik GmbH.    ℗ 1989 Slash Records  © 1989 Slash Records   |
+| Notes | Silver and black London Records labels printed with "Made in Holland". Label, album title, artist and catalogue number is printed along the top edge of the sleeve in addition to the release spine.<br><br>This version is very similar to the UK version. The [url=http://www.discogs.com/Faith-No-More-The-Real-Thing/release/1869217]UK version[/url] does not have album, artist, label and catalogue number information printed along the top edge of the sleeve and has white and red labels with no mention of its country of manufacture.<br><br>Includes a printed inner sleeve with graphics, photographs and credits.<br><br>Recorded December 1988 at Studio D, Sausalito, CA.<br>Mixed January 1989 at Blue Canyon, Studio City, CA.<br>Mastered at K-Disc, Los Angeles, CA.<br><br>Marketed in France by Barclay and in West Germany by Metronome Musik GmbH.<br><br>℗ 1989 Slash Records<br>© 1989 Slash Records<br> |
 | Discogs URL    | [Faith No More - The Real Thing](https://www.discogs.com/release/383371-Faith-No-More-The-Real-Thing) |

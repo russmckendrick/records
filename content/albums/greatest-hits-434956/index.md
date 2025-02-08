@@ -4,6 +4,7 @@ artist_name: "Steely Dan"
 artist: "steely-dan"
 album_name: "Greatest Hits"
 date: 2015-09-11T18:02:24.000000Z
+release_date: "1985-01-01"
 release_id: "434956"
 slug: "greatest-hits-434956"
 hideSummary: true
@@ -27,46 +28,38 @@ styles: ["Classic Rock"]
 ---
 
 Greatest Hits is a compilation album by the American rock band Steely Dan, released in 1978 by ABC Records. The double album includes tracks from the band's first six studio albums, as well as a previously unreleased song, "Here at the Western World", recorded during sessions for The Royal Scam (1976). Greatest Hits was certified platinum in the U.S., with sales of over one million units.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Do It Again (5:50)
-2. Reeling In The Years (4:35)
-3. My Old School (5:45)
-4. Bodhisattva (5:18)
-5. Show Biz Kids (5:21)
-6. East St. Louis Toodle-Oo (2:46)
-7. Rikki Don't Lose That Number (4:34)
-8. Pretzel Logic (4:30)
-9. Any Major Dude (3:06)
-10. Here At The Western World (4:00)
-11. Black Friday (3:39)
-12. Bad Sneakers (3:16)
-13. Doctor Wu (3:53)
-14. Haitian Divorce (5:48)
-15. Kid Charlemagne (4:38)
-16. The Fez (3:54)
-17. Peg (3:54)
-18. Josie (4:30)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Do It Again | 5:50 |
+| A2 | Reeling In The Years | 4:35 |
+| A3 | My Old School | 5:45 |
+| A4 | Bodhisattva | 5:18 |
+| B1 | Show Biz Kids | 5:21 |
+| B2 | East St. Louis Toodle-Oo | 2:46 |
+| B3 | Rikki Don't Lose That Number | 4:34 |
+| B4 | Pretzel Logic | 4:30 |
+| B5 | Any Major Dude | 3:06 |
+| C1 | Here At The Western World | 4:00 |
+| C2 | Black Friday | 3:39 |
+| C3 | Bad Sneakers | 3:16 |
+| C4 | Doctor Wu | 3:53 |
+| C5 | Haitian Divorce | 5:48 |
+| D1 | Kid Charlemagne | 4:38 |
+| D2 | The Fez | 3:54 |
+| D3 | Peg | 3:54 |
+| D4 | Josie | 4:30 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-decade-of-steely-dan-remastered/1440724756" >}}<br>
 
 
-## Videos
-### Steely Dan   Aja Full Album
-{{< youtube id="tigLvVwKcKc" title="Steely Dan   Aja Full Album" >}}<br>
-### More Videos
-
-- [Steely Dan on Vinyl   Greatest Hits](https://www.youtube.com/watch?v=3jdaR89sY_c)
-- [Steely Dan - Do It Again](https://www.youtube.com/watch?v=aQnW-MxAU6U)
-- [RIKKI DONT LOSE THAT NUMBER 1974 by Steely Dan](https://www.youtube.com/watch?v=UfZWp-hGCdA)
-- [Steely Dan - 1974 Greatest Hits - Pretzel Logic Full Album](https://www.youtube.com/watch?v=OJ8ZUVP4YD8)
-- [Doctor Wu](https://www.youtube.com/watch?v=ImtdntJQfSs)
-- [Steely Dan  - Bodhisattva  1973 - Vinyl Greatest Hits 7278 2LPs  1978](https://www.youtube.com/watch?v=jEB9pAG0i84)
-- [Do It Again](https://www.youtube.com/watch?v=jmdiKePVUy8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +71,5 @@ Greatest Hits is a compilation album by the American rock band Steely Dan, relea
 | Format         | Vinyl 2× LP Compilation Reissue |
 | Label          | ABC Records |
 | Catalog Number | ABCD 616 |
-| Notes | Since this version, mastered by Steve Angel (https://www.discogs.com/artist/368590-Steve-Angel) at Trident (https://www.discogs.com/label/218698) was the one that was kept after the ABC label had become part of MCA (leading to this 3d UK version: https://www.discogs.com/release/5294065-Steely-Dan-Greatest-Hits on MCA labels) THIS version by default is then a reissue of what was the actual 1st UK issue here: https://www.discogs.com/release/27400791-Steely-Dan-Greatest-Hits-, with lacquer cut by Jack Adams(2).  Runouts are hand-etched, except the stamper identification numbers appearing on certain sides of variants 3, 4 and 5: those are a combination of 2 stamped decimals, rotated sideways compared to the rest of the string. The etched mother indicator (looking like a sideways Λ (broken A) or ∴ (3 dots in a pyramid)) as described in [l553982] is transcribed as a "<" in variant 3 and as an "A" in variant 5.    |
+| Notes | Since this version, mastered by Steve Angel (https://www.discogs.com/artist/368590-Steve-Angel) at Trident (https://www.discogs.com/label/218698) was the one that was kept after the ABC label had become part of MCA (leading to this 3d UK version: https://www.discogs.com/release/5294065-Steely-Dan-Greatest-Hits on MCA labels) THIS version by default is then a reissue of what was the actual 1st UK issue here: https://www.discogs.com/release/27400791-Steely-Dan-Greatest-Hits-, with lacquer cut by Jack Adams(2).<br><br>Runouts are hand-etched, except the stamper identification numbers appearing on certain sides of variants 3, 4 and 5: those are a combination of 2 stamped decimals, rotated sideways compared to the rest of the string.<br>The etched mother indicator (looking like a sideways Λ (broken A) or ∴ (3 dots in a pyramid)) as described in [l553982] is transcribed as a "<" in variant 3 and as an "A" in variant 5. <br>  |
 | Discogs URL    | [Steely Dan - Greatest Hits](https://www.discogs.com/release/434956-Steely-Dan-Greatest-Hits) |

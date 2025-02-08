@@ -1,16 +1,17 @@
 ---
-title: "Steve Earle & The Dukes - J.T. "
-artist_name: "Steve Earle & The Dukes"
+title: "Steve Earle  The Dukes - J.T. "
+artist_name: "Steve Earle  The Dukes"
 artist: "steve-earle-the-dukes"
 album_name: "J.T. "
 date: 2021-03-19T04:05:42.000000Z
+release_date: "1988-10-17"
 release_id: "17858752"
 slug: "j-t-17858752"
 hideSummary: true
 cover:
     image: "j-t-17858752.jpg"
-    alt: "J.T.  by Steve Earle & The Dukes"
-    caption: "J.T.  by Steve Earle & The Dukes"
+    alt: "J.T.  by Steve Earle  The Dukes"
+    caption: "J.T.  by Steve Earle  The Dukes"
 additional_images:
     - "https://i.discogs.com/wbn3Rm71V4AkhkrD0zXyaY6TYBW7kI5Mcrwu9i5CGwg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODU4/NzUyLTE2MTcyMzIw/MDktNDczNy5qcGVn.jpeg"
     - "https://i.discogs.com/luS_P3eb01wxlheVivVl0WzbjHbJhkIdayyD_SscKG0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODU4/NzUyLTE2MTcyMzIw/MDgtMjUxNC5qcGVn.jpeg"
@@ -29,42 +30,31 @@ styles: []
 ---
 
 J.T. is a studio album by American rock band Steve Earle & The Dukes. The album is a tribute to Earle's oldest son, Justin Townes Earle, who died of an accidental drug overdose on August 20, 2020. It was released by New West Records on January 4, 2021, on what would have been Justin's 39th birthday.  Recording sessions took place at Electric Lady Studios in New York City with Ray Kennedy as audio engineer. Production was handled by Steve Earle himself.  At Metacritic, which assigns a normalized rating out of 100 to reviews from mainstream publications, the album received an average score of 82 based on eleven reviews.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Don't Care (1:54)
-2. Ain't Glad I'm Leaving  (2:52)
-3. Maria  (2:46)
-4. Far Away In Another Town  (3:06)
-5. They Killed John Henry  (2:34)
-6. Turn Out My Lights  (2:35)
-7. Lone Pine Hill (2:43)
-8. Champagne Corolla  (3:35)
-9. The Saint Of Lost Causes  (5:01)
-10. Harlem River Blues  (3:10)
-11. Last Words  (4:21)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Don't Care | 1:54 |
+| A2 | Ain't Glad I'm Leaving  | 2:52 |
+| A3 | Maria  | 2:46 |
+| A4 | Far Away In Another Town  | 3:06 |
+| A5 | They Killed John Henry  | 2:34 |
+| A6 | Turn Out My Lights  | 2:35 |
+| B1 | Lone Pine Hill | 2:43 |
+| B2 | Champagne Corolla  | 3:35 |
+| B3 | The Saint Of Lost Causes  | 5:01 |
+| B4 | Harlem River Blues  | 3:10 |
+| B5 | Last Words  | 4:21 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/copperhead-road-deluxe-edition/1455672074" >}}<br>
 
 
-## Videos
-### Steve Earle  The Dukes - Far Away In Another Town Audio Only
-{{< youtube id="yqcFxkhM_i0" title="Steve Earle  The Dukes - Far Away In Another Town Audio Only" >}}<br>
-### More Videos
-
-- [Steve Earle  The Dukes - Dublin Blues Audio Only](https://www.youtube.com/watch?v=wrNWrG385hg)
-- [Steve Earle  The Dukes - Harlem River Blues Audio Only](https://www.youtube.com/watch?v=FXgtD3jfikk)
-- [Steve Earle  The Dukes - Champagne Corolla Audio Only](https://www.youtube.com/watch?v=JLYKGOeTSWo)
-- [Steve Earle  The Dukes - Last Words Audio Only](https://www.youtube.com/watch?v=RR2XPOYqSZI)
-- [Steve Earle  The Dukes - The Saint Of Lost Causes Audio Only](https://www.youtube.com/watch?v=xeqGCbo6pFo)
-- [Steve Earle  The Dukes - Lone Pine Hill Audio Only](https://www.youtube.com/watch?v=fRsPjoIC8lI)
-- [Steve Earle  The Dukes - I Dont Care Audio Only](https://www.youtube.com/watch?v=PzFAztmFYXQ)
-- [Steve Earle  The Dukes - Turn Out My Lights Audio Only](https://www.youtube.com/watch?v=E5b9gVDhWQY)
-- [Steve Earle  The Dukes - Far Away In Another Town Audio Only](https://www.youtube.com/watch?v=yqcFxkhM_i0)
-- [Steve Earle  The Dukes - They Killed John Henry Audio Only](https://www.youtube.com/watch?v=1TGssyFJAuk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +66,5 @@ J.T. is a studio album by American rock band Steve Earle & The Dukes. The album 
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | New West Records |
 | Catalog Number | NW5492 |
-| Notes | Housed in a gatefold sleeve.  Indie retail exclusive color. SteveEarle.com NewWest Records.com NW5492 written on bottom left of sleeve. |
-| Discogs URL    | [Steve Earle & The Dukes - J.T. ](https://www.discogs.com/release/17858752-Steve-Earle-The-Dukes-JT-) |
+| Notes | Housed in a gatefold sleeve.<br><br>Indie retail exclusive color. SteveEarle.com NewWest Records.com NW5492 written on bottom left of sleeve. |
+| Discogs URL    | [Steve Earle  The Dukes - J.T. ](https://www.discogs.com/release/17858752-Steve-Earle-The-Dukes-JT-) |

@@ -32,23 +32,22 @@ Recorded over the course of six weeks in London’s legendary Power Plant Studio
 
 
 ## Tracklisting
-1. Smooth Operator (4:58)
-2. Your Love Is King (3:40)
-3. Hang On To Your Love (5:54)
-4. Frankie's First Affair (4:38)
-5. When Am I Going To Make A Living (3:25)
-6. Cherry Pie (6:20)
-7. Sally (5:20)
-8. I Will Be Your Friend (4:43)
-9. Why Can't We Live Together (5:27)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Smooth Operator | 4:58 |
+| A2 | Your Love Is King | 3:40 |
+| A3 | Hang On To Your Love | 5:54 |
+| A4 | Frankie's First Affair | 4:38 |
+| A5 | When Am I Going To Make A Living | 3:25 |
+| B1 | Cherry Pie | 6:20 |
+| B2 | Sally | 5:20 |
+| B3 | I Will Be Your Friend | 4:43 |
+| B4 | Why Can't We Live Together | 5:27 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/diamond-life/1524651063" >}}<br>
 
-
-## Videos
-### Sade - Cherry Pie Audio
-{{< youtube id="bNkbbA_xW5E" title="Sade - Cherry Pie Audio" >}}<br>
 
 
 ## Release Images
@@ -60,5 +59,5 @@ Recorded over the course of six weeks in London’s legendary Power Plant Studio
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Epic |
 | Catalog Number | EPC 26044 |
-| Notes | Issued in a gatefold sleeve. Has light blue labels (with fading effect not solid) with yellow Epic logo.  ℗ 1984 CBS Records © 1984 CBS Records  (A1 to B3) MCPS (B4) Southern Music Pub. Co. Ltd.  Original sound recording made by CBS Records  May have one of various hype stickers on the cover (or not)  Made in England |
+| Notes | Issued in a gatefold sleeve. Has light blue labels (with fading effect not solid) with yellow Epic logo.<br><br>℗ 1984 CBS Records<br>© 1984 CBS Records<br><br>(A1 to B3) MCPS (B4) Southern Music Pub. Co. Ltd.<br><br>Original sound recording made by CBS Records<br><br>May have one of various hype stickers on the cover (or not)<br><br>Made in England |
 | Discogs URL    | [Sade - Diamond Life](https://www.discogs.com/release/3783783-Sade-Diamond-Life) |

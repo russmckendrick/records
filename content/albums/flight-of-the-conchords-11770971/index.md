@@ -28,39 +28,29 @@ Previously, they referred to themselves as "New Zealand's fourth most popular gu
 
 
 ## Tracklisting
-1. Foux Du Fafa (2:46)
-2. Inner City Pressure (3:27)
-3. Hiphopopotamus Vs. Rhymenoceros (2:09)
-4. Think About It (3:14)
-5. Ladies Of The World (3:57)
-6. Mutha'uckas (2:26)
-7. The Prince Of Parties (1:48)
-8. Leggy Blonde (2:42)
-9. Robots (3:43)
-10. Boom (2:17)
-11. A Kiss Is Not A Contract (1:54)
-12. The Most Beautiful Girl (In The Room) (4:02)
-13. Business Time (4:05)
-14. Bowie (3:15)
-15. Au Revoir (0:21)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Foux Du Fafa | 2:46 |
+| A2 | Inner City Pressure | 3:27 |
+| A3 | Hiphopopotamus Vs. Rhymenoceros | 2:09 |
+| A4 | Think About It | 3:14 |
+| A5 | Ladies Of The World | 3:57 |
+| A6 | Mutha'uckas | 2:26 |
+| A7 | The Prince Of Parties | 1:48 |
+| A8 | Leggy Blonde | 2:42 |
+| B1 | Robots | 3:43 |
+| B2 | Boom | 2:17 |
+| B3 | A Kiss Is Not A Contract | 1:54 |
+| B4 | The Most Beautiful Girl (In The Room) | 4:02 |
+| B5 | Business Time | 4:05 |
+| B6 | Bowie | 3:15 |
+| B7 | Au Revoir | 0:21 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flight-of-the-conchords/278064216" >}}<br>
 
 
-## Videos
-### Au Revoir
-{{< youtube id="_A5JYqZj9H4" title="Au Revoir" >}}<br>
-### More Videos
-
-- [Flight of the Conchords Self Titled 2008](https://www.youtube.com/watch?v=-mViKo6NX3o)
-- [Flight of the Conchords Ep 8 Foux Da Fa Fa](https://www.youtube.com/watch?v=X5hrUGFhsXo)
-- [Flight of the Conchords Ep 3 Hiphopopotamus vs Rhymenoceros](https://www.youtube.com/watch?v=FArZxLj6DLk)
-- [Flight Of The Conchords](https://www.youtube.com/watch?v=lmDTSQtK20c)
-- [Flight of the Conchords Robot Song HBO](https://www.youtube.com/watch?v=mvrva8NoMLM)
-- [Flight of the Conchords Ep2 Inner City Pressure](https://www.youtube.com/watch?v=7wqfcwgT0Ds)
-- [Flight of the Conchords Ep 6 Bowies In Space](https://www.youtube.com/watch?v=f4zV4pJ8MwM)
-- [Boom](https://www.youtube.com/watch?v=hD82FYtIIr0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +62,5 @@ Previously, they referred to themselves as "New Zealand's fourth most popular gu
 | Format         | Vinyl LP Album Reissue (Yellow) |
 | Label          | Sub Pop |
 | Catalog Number | SP 715 |
-| Notes | Credits Art Direction – Dusty Summers, Jeff Kleinsmith Design – Jeff Kleinsmith Drum Programming [Beat Programming] – Mickey Petralia Engineer – Matt Shane (2), Mickey Petralia Illustration – Tyler Stout Management [Music] – Martinovich & Sampson Mastered By – Greg Calbi, Ray Janos Mixed By – Mickey Petralia Performer – Bret McKenzie, Jemaine Clement Producer – Flight Of The Conchords, Mickey Petralia Written-By – Bret McKenzie, Jemaine Clement |
+| Notes | Credits<br>Art Direction – Dusty Summers, Jeff Kleinsmith<br>Design – Jeff Kleinsmith<br>Drum Programming [Beat Programming] – Mickey Petralia<br>Engineer – Matt Shane (2), Mickey Petralia<br>Illustration – Tyler Stout<br>Management [Music] – Martinovich & Sampson<br>Mastered By – Greg Calbi, Ray Janos<br>Mixed By – Mickey Petralia<br>Performer – Bret McKenzie, Jemaine Clement<br>Producer – Flight Of The Conchords, Mickey Petralia<br>Written-By – Bret McKenzie, Jemaine Clement |
 | Discogs URL    | [Flight Of The Conchords - Flight Of The Conchords](https://www.discogs.com/release/11770971-Flight-Of-The-Conchords-Flight-Of-The-Conchords) |

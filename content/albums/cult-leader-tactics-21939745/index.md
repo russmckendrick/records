@@ -4,6 +4,7 @@ artist_name: "Paul Draper"
 artist: "paul-draper"
 album_name: "Cult Leader Tactics"
 date: 2022-01-29T12:06:26.000000Z
+release_date: "2022-01-28"
 release_id: "21939745"
 slug: "cult-leader-tactics-21939745"
 hideSummary: true
@@ -26,30 +27,30 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Cult Leader Tactics (4:08)
-2. Internationalle (3:24)
-3. Dirty Trix (3:49)
-4. Cult Leader Tactics In E-Flat Minor (1:33)
-5. You've Got No Life Skills, Baby! (3:58)
-6. U Killed My Fish (3:44)
-7. Everyone Becomes A Problem Eventually (3:31)
-8. Annie (4:24)
-9. Talkin Behind My Back (2:59)
-10. Omega Man (4:08)
-11. Lyin Bout Who You Sleep With (5:01)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cult Leader Tactics | 4:08 |
+| A2 | Internationalle | 3:24 |
+| A3 | Dirty Trix | 3:49 |
+| A4 | Cult Leader Tactics In E-Flat Minor | 1:33 |
+| A5 | You've Got No Life Skills, Baby! | 3:58 |
+| A6 | U Killed My Fish | 3:44 |
+| B1 | Everyone Becomes A Problem Eventually | 3:31 |
+| B2 | Annie | 4:24 |
+| B3 | Talkin Behind My Back | 2:59 |
+| B4 | Omega Man | 4:08 |
+| B5 | Lyin Bout Who You Sleep With | 5:01 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cult-leader-tactics/1588722385" >}}<br>
 
 
-## Videos
-### Paul Draper - Cult Leader Tactics Official Lyric Video
-{{< youtube id="v9--PJqt7Jc" title="Paul Draper - Cult Leader Tactics Official Lyric Video" >}}<br>
-### More Videos
-
-- [Cult Leader Tactics in E-Flat Minor](https://www.youtube.com/watch?v=3ANL_fDerBU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,5 +61,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition Stereo (Violet Translucent) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE 1160 |
-| Notes | First 150 signed by Paul Draper  Gatefold sleeve Lyric / credits inner sleeve. Kscope insert   |
+| Notes | First 150 signed by Paul Draper<br><br>Gatefold sleeve<br>Lyric / credits inner sleeve.<br>Kscope insert<br><br> |
 | Discogs URL    | [Paul Draper - Cult Leader Tactics](https://www.discogs.com/release/21939745-Paul-Draper-Cult-Leader-Tactics) |

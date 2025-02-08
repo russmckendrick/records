@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "True Romance (Motion Picture Soundtrack)"
 date: 2018-09-13T18:16:45.000000Z
+release_date: ""
 release_id: "12488063"
 slug: "true-romance-motion-picture-soundtrack-12488063"
 hideSummary: true
@@ -26,47 +27,33 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Side Clarence
-2. You're So Cool (3:40)
-3. Graceland (3:25)
-4. In Dreams (3:45)
-5. Wounded Bird (5:10)
-6. I Want Your Body (4:18)
-7. Stars At Dawn (2:04)
-8. Side Alabama
-9. I Need A Heart To Come Home To (4:20)
-10. Viens Mallika Sous Le Dome Edais (3:56)
-11. (Love Is) The Tender Trap (3:37)
-12. Outshined (5:12)
-13. Amid The Chaos Of Day (4:54)
-14. Two Hearts (3:33)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Side Clarence |  |
+| A1 | You're So Cool | 3:40 |
+| A2 | Graceland | 3:25 |
+| A3 | In Dreams | 3:45 |
+| A4 | Wounded Bird | 5:10 |
+| A5 | I Want Your Body | 4:18 |
+| A6 | Stars At Dawn | 2:04 |
+|  | Side Alabama |  |
+| B1 | I Need A Heart To Come Home To | 4:20 |
+| B2 | Viens Mallika Sous Le Dome Edais | 3:56 |
+| B3 | (Love Is) The Tender Trap | 3:37 |
+| B4 | Outshined | 5:12 |
+| B5 | Amid The Chaos Of Day | 4:54 |
+| B6 | Two Hearts | 3:33 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### True Romance Soundtrack Track 5 I Want Your Body Nymphomania
-{{< youtube id="RalIJp1jL6M" title="True Romance Soundtrack Track 5 I Want Your Body Nymphomania" >}}<br>
-### More Videos
 
-- [Graceland](https://www.youtube.com/watch?v=HtcpPIhmNHo)
-- [True Romance Score by Hans ZImmer Shootout Track 13](https://www.youtube.com/watch?v=dhdUZzbeSZY)
-- [True Romance OST - Shootout](https://www.youtube.com/watch?v=vWJ6wu22I30)
-- [Hans Zimmer - Youre So Cool](https://www.youtube.com/watch?v=bayyRPSXGq0)
-- [True Romance Soundtrack Track 6 Stars At Dawn Hans Zimmer](https://www.youtube.com/watch?v=Dx1VZnMv2A8)
-- [Youre So Cool](https://www.youtube.com/watch?v=lFUkaB_NU5o)
-- [Graceland](https://www.youtube.com/watch?v=HtcpPIhmNHo)
-- [In Dreams](https://www.youtube.com/watch?v=xFlKHvkOmSQ)
-- [Wounded Bird](https://www.youtube.com/watch?v=eUDwnzeGgA0)
-- [I Want Your Body](https://www.youtube.com/watch?v=jVLJAsPx7EI)
-- [Stars at Dawn](https://www.youtube.com/watch?v=o9gvZA-dJM8)
-- [I Need A Heart To Come Home To](https://www.youtube.com/watch?v=EOI3_ckWzb0)
-- [Viens Mallika Sous Le Dome Edais From Lakme](https://www.youtube.com/watch?v=WwcWDjOrh2M)
-- [Love Is The Tender Trap](https://www.youtube.com/watch?v=Q3o1T5DY_JQ)
-- [Outshined](https://www.youtube.com/watch?v=jBq_tFvtzEI)
-- [Amid The Chaos Of The Day](https://www.youtube.com/watch?v=eFZm0oOi2Oc)
-- [Two Hearts](https://www.youtube.com/watch?v=gQ4bRyK3JEo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +64,5 @@ styles: ["Soundtrack", "Pop Rock", "Alternative Rock", "Modern Classical", "Euro
 | Format         | Vinyl LP Limited Edition (Clear w/ White Splatter) |
 | Label          | Real Gone Music |
 | Catalog Number | RGM-0759 |
-| Notes | 25th Anniversary Edition. Pressed on clear with white splatter vinyl. Limited Edition of 1700. |
+| Notes | 25th Anniversary Edition.<br>Pressed on clear with white splatter vinyl.<br>Limited Edition of 1700. |
 | Discogs URL    | [Various - True Romance (Motion Picture Soundtrack)](https://www.discogs.com/release/12488063-Various-True-Romance-Motion-Picture-Soundtrack) |

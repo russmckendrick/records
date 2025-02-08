@@ -4,6 +4,7 @@ artist_name: "Slowdive"
 artist: "slowdive"
 album_name: "Slowdive"
 date: 2017-05-05T17:26:48.000000Z
+release_date: "2007-12-11"
 release_id: "10229694"
 slug: "slowdive-10229694"
 hideSummary: true
@@ -33,37 +34,28 @@ styles: ["Shoegaze", "Indie Rock", "Dream Pop"]
 Slowdive is the fourth studio album by English rock band Slowdive. It was released on 5 May 2017 by the record label Dead Oceans. It was Slowdive's first studio album in 22 years, following Pygmalion (1995). It was also the band's first album since Souvlaki (1993) to feature the drummer Simon Scott as a member.
 Slowdive was preceded by the singles "Star Roving", released on 12 January 2017, and "Sugar for the Pill", released on 28 March 2017.
 The album artwork is a still image from avant-garde cut-out animation film, Heaven and Earth Magic (1962), by beatnik artist and polymath Harry Smith.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Slomo
-2. Star Roving
-3. Don't Know Why
-4. Sugar For The Pill
-5. Everyone Knows
-6. No Longer Making Time
-7. Go Get It
-8. Falling Ashes
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Slomo |  |
+| A2 | Star Roving |  |
+| A3 | Don't Know Why |  |
+| A4 | Sugar For The Pill |  |
+| B1 | Everyone Knows |  |
+| B2 | No Longer Making Time |  |
+| B3 | Go Get It |  |
+| B4 | Falling Ashes |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/slowdive-ep/270300100" >}}<br>
 
 
-## Videos
-### Slomo
-{{< youtube id="KDIDLIE7Z1E" title="Slomo" >}}<br>
-### More Videos
-
-- [Slowdive - Star Roving Official Audio](https://www.youtube.com/watch?v=ogCih4OavoY)
-- [Slowdive - Sugar for the Pill Official Video](https://www.youtube.com/watch?v=BxwAPBxc0lU)
-- [Slowdive - Dont Know Why Official Video](https://www.youtube.com/watch?v=_kB2ot1PWy8)
-- [Slowdive   No Longer Making Time](https://www.youtube.com/watch?v=uxlXJf5iUzU)
-- [Slowdive - Go Get It Music video](https://www.youtube.com/watch?v=N0rMOMq-cqA)
-- [Slowdive - Falling Ashes](https://www.youtube.com/watch?v=t2INV5FS6AM)
-- [Slomo](https://www.youtube.com/watch?v=KDIDLIE7Z1E)
-- [Slowdive - 30th June](https://www.youtube.com/watch?v=AaGtVvx6R-0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +67,5 @@ The album artwork is a still image from avant-garde cut-out animation film, Heav
 | Format         | Vinyl LP Album Limited Edition (Silver) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC132 |
-| Notes | DOC132: The catalog number is printed on the spine.  DOC132LPC1: The catalog number is printed on the barcode sticker.   Housed in a gatefold cover, including a digital download for the entire album. Originally retailed sealed in shrinkwrap with an informational hype sticker adhered to front, noting the limited edition silver vinyl edition. An additional barcode sticker was adhered to back, covering the barcode printed on the back cover and featuring a custom catalog number. Both stickers are affixed to the outside of shrinkwrap.  Limited to 8000 copies worldwide.   1000 copies were hand-signed by the entire band in silver and gold ink, raffled exclusively from selected independent record stores in the United States.   From the back cover and the labels side A and B:  © & ℗ 2017 Dead Oceans, Inc.   From the gatefold inner:  Halstead published by Little Homestead Songs Goswell/Savill/Chaplin/Scott copyright control   recorded at The Courtyard Studio in Sutton Courtenay, Sound Gallery in Exeter,  The White House in Kewstoke, The Farm 2 in St Merryn and Zigzag Music Productions in Hilton   cover art by [...], film #12: Heaven and Earth Magic ca 1957-1962   |
+| Notes | DOC132: The catalog number is printed on the spine. <br>DOC132LPC1: The catalog number is printed on the barcode sticker. <br><br>Housed in a gatefold cover, including a digital download for the entire album. Originally retailed sealed in shrinkwrap with an informational hype sticker adhered to front, noting the limited edition silver vinyl edition. An additional barcode sticker was adhered to back, covering the barcode printed on the back cover and featuring a custom catalog number. Both stickers are affixed to the outside of shrinkwrap. <br>Limited to 8000 copies worldwide. <br><br>1000 copies were hand-signed by the entire band in silver and gold ink, raffled exclusively from selected independent record stores in the United States. <br><br>From the back cover and the labels side A and B: <br>© & ℗ 2017 Dead Oceans, Inc. <br><br>From the gatefold inner: <br>Halstead published by Little Homestead Songs<br>Goswell/Savill/Chaplin/Scott copyright control <br><br>recorded at The Courtyard Studio in Sutton Courtenay, Sound Gallery in Exeter, <br>The White House in Kewstoke, The Farm 2 in St Merryn and Zigzag Music Productions in Hilton <br><br>cover art by [...], film #12: Heaven and Earth Magic ca 1957-1962 <br> |
 | Discogs URL    | [Slowdive - Slowdive](https://www.discogs.com/release/10229694-Slowdive-Slowdive) |

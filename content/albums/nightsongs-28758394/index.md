@@ -4,6 +4,7 @@ artist_name: "Stars"
 artist: "stars"
 album_name: "Nightsongs"
 date: 2023-12-08T11:17:49.000000Z
+release_date: "2001-01-23"
 release_id: "28758394"
 slug: "nightsongs-28758394"
 hideSummary: true
@@ -30,45 +31,43 @@ styles: ["Pop Rock", "Downtempo", "Synth-pop", "Indie Rock"]
 ---
 
 Nightsongs is the first album by Canadian indie rock band Stars, released in 2001 on Le Grand Magistery. At this time, Stars consisted only of Torquil Campbell and Chris Seligman, although both Amy Millan and Emily Haines of Metric make appearances.  There is also a very rare vinyl pressing of the record on the Japanese label Syft, which has since gone out of business. The vinyl pressing also has 2 additional tracks ("Friend's Father's Mother" and "Angeline") not featured on the CD version.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Counting Stars On The Ceiling
-2. My Radio (AM Mix)
-3. Going, Going, Gone
-4. This Charming Man
-5. On Peak Hill
-6. International Rock Star
-7. The Very Thing
-8. Write What You Know
-9. Tru
-10. Better Be Heaven
-11. Liar
-12. Tonight
-13. Toxic Holiday
-14. My Radio (FM Mix)
-15. When? (Demo)
-16. On Peak Hill (Live)
-17. Going, Going, Gone (Live)
-18. Theme from Stars
-19. Krush
-20. Violent
-21. The Aspidistra Flies
-22. Cótes Des Neiges
-23. The Comeback
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Counting Stars On The Ceiling |  |
+| A2 | My Radio (AM Mix) |  |
+| A3 | Going, Going, Gone |  |
+| A4 | This Charming Man |  |
+| A5 | On Peak Hill |  |
+| A6 | International Rock Star |  |
+| B1 | The Very Thing |  |
+| B2 | Write What You Know |  |
+| B3 | Tru |  |
+| B4 | Better Be Heaven |  |
+| B5 | Liar |  |
+| B6 | Tonight |  |
+| C1 | Toxic Holiday |  |
+| C2 | My Radio (FM Mix) |  |
+| C3 | When? (Demo) |  |
+| C4 | On Peak Hill (Live) |  |
+| C5 | Going, Going, Gone (Live) |  |
+| C6 | Theme from Stars |  |
+| D1 | Krush |  |
+| D2 | Violent |  |
+| D3 | The Aspidistra Flies |  |
+| D4 | Cótes Des Neiges |  |
+| D5 | The Comeback |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nightsongs/337320937" >}}<br>
 
 
-## Videos
-### Stars - Counting Stars on the Ceiling
-{{< youtube id="wXEFA2z5hpk" title="Stars - Counting Stars on the Ceiling" >}}<br>
-### More Videos
-
-- [Stars - My Radio FM Mix](https://www.youtube.com/watch?v=KXc1ZlWNXlI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +79,5 @@ Nightsongs is the first album by Canadian indie rock band Stars, released in 200
 | Format         | Vinyl LP Album (Light Blue Opaque), Vinyl LP Compilation (Royal Blue), All Media Limited Edition |
 | Label          | Sweat Records Records |
 | Catalog Number | SRR 006 |
-| Notes | Side A & B: Nightsongs LP Side C: "Toxic Holiday" (Nightsongs bonus track) & A Lot of Little Lies for the Sake of One Big Truth EP Side D: The Comeback EP  Gatefold jacket with new essay by Louis Philippe! Limited edition of 500. 250 available exclusively for STARS Patreon members. The remaining 250 available through the Sweat Records Records Bandcamp store.  |
+| Notes | Side A & B: Nightsongs LP<br>Side C: "Toxic Holiday" (Nightsongs bonus track) & A Lot of Little Lies for the Sake of One Big Truth EP<br>Side D: The Comeback EP<br><br>Gatefold jacket with new essay by Louis Philippe! Limited edition of 500. 250 available exclusively for STARS Patreon members. The remaining 250 available through the Sweat Records Records Bandcamp store.<br> |
 | Discogs URL    | [Stars - Nightsongs](https://www.discogs.com/release/28758394-Stars-Nightsongs) |

@@ -4,6 +4,7 @@ artist_name: "Hothouse Flowers"
 artist: "hothouse-flowers"
 album_name: "People"
 date: 2015-12-09T10:18:46.000000Z
+release_date: "1988-05-01"
 release_id: "1163794"
 slug: "people-1163794"
 hideSummary: true
@@ -23,37 +24,31 @@ styles: ["Blues Rock"]
 ---
 
 People is the debut studio album by Irish rock group Hothouse Flowers, released in 1988. It was produced by Clive Langer and Alan Winstanley.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I'm Sorry
-2. Don't Go
-3. Forgiven
-4. It'll Be Easier In The Morning
-5. Hallelujah Jordan
-6. If You Go
-7. The Older We Get
-8. Yes I Was
-9. Love Don't Work This Way
-10. Ballad Of Katie
-11. Feet On The Ground
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I'm Sorry |  |
+| A2 | Don't Go |  |
+| A3 | Forgiven |  |
+| A4 | It'll Be Easier In The Morning |  |
+| A5 | Hallelujah Jordan |  |
+| A6 | If You Go |  |
+| B1 | The Older We Get |  |
+| B2 | Yes I Was |  |
+| B3 | Love Don't Work This Way |  |
+| B4 | Ballad Of Katie |  |
+| B5 | Feet On The Ground |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/people/1317287289" >}}<br>
 
 
-## Videos
-### Hothouse Flowers  Dont Go
-{{< youtube id="Ym1bePL88ro" title="Hothouse Flowers  Dont Go" >}}<br>
-### More Videos
-
-- [Hothouse Flowers  Dont Go](https://www.youtube.com/watch?v=Ym1bePL88ro)
-- [Hothouse Flowers - Itll Be Easier in the Morning](https://www.youtube.com/watch?v=BzwPz83UbuU)
-- [Hothouse Flowers -  Im sorry](https://www.youtube.com/watch?v=_6wFR7cUfE8)
-- [Hothouse Flowers The Older We Get](https://www.youtube.com/watch?v=h3oWuIEAGaQ)
-- [Hothouse Flowers - Dont Go Official Video](https://www.youtube.com/watch?v=HDEY1UeIsr4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +60,5 @@ People is the debut studio album by Irish rock group Hothouse Flowers, released 
 | Format         | Vinyl LP Album Stereo |
 | Label          | London Records |
 | Catalog Number | LON LP 58 |
-| Notes | Dedicated to Eamon and Terri with love. Issued with a custom inner sleeve containing lyrics, credits and images. |
+| Notes | Dedicated to Eamon and Terri with love.<br>Issued with a custom inner sleeve containing lyrics, credits and images. |
 | Discogs URL    | [Hothouse Flowers - People](https://www.discogs.com/release/1163794-Hothouse-Flowers-People) |

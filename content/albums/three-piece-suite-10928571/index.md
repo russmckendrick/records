@@ -4,6 +4,7 @@ artist_name: "Gentle Giant"
 artist: "gentle-giant"
 album_name: "Three Piece Suite"
 date: 2017-10-13T18:11:01.000000Z
+release_date: "2017-09-29"
 release_id: "10928571"
 slug: "three-piece-suite-10928571"
 hideSummary: true
@@ -28,24 +29,29 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Steven Wilson Remixes
-2. Giant
-3. Nothing At All	
-4. Why Not?	
-5. Pantagruel's Nativity	
-6. The House, The Street, The Room	
-7. Schooldays	
-8. Peel The Paint	
-9. Mister Class And Quality?
-10. Three Friends	
-11. Freedom's Child	
-12. Nothing At All (Steven Wilson 7" Edit)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Steven Wilson Remixes |  |
+| A1 | Giant |  |
+| A2 | Nothing At All	 |  |
+| B1 | Why Not?	 |  |
+| B2 | Pantagruel's Nativity	 |  |
+| B3 | The House, The Street, The Room	 |  |
+| C1 | Schooldays	 |  |
+| C2 | Peel The Paint	 |  |
+| D1 | Mister Class And Quality? |  |
+| D2 | Three Friends	 |  |
+| D3 | Freedom's Child	 |  |
+| D4 | Nothing At All (Steven Wilson 7" Edit) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/three-piece-suite-steven-wilson-mix/1700249833" >}}<br>
-
 
 
 
@@ -58,5 +64,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 2× LP Compilation (180g) |
 | Label          | Alucard |
 | Catalog Number | ALUGGV058 |
-| Notes | This collection features a selection of songs remixed by Steven Wilson from the first three albums, [m=15459], [m=15438], and [m=15551]. It also includes the rare track Freedoms Child previously released on [m=682954].   Made in EU |
+| Notes | This collection features a selection of songs remixed by Steven Wilson from the first three albums, [m=15459], [m=15438], and [m=15551]. It also includes the rare track Freedoms Child previously released on [m=682954]. <br><br>Made in EU |
 | Discogs URL    | [Gentle Giant - Three Piece Suite](https://www.discogs.com/release/10928571-Gentle-Giant-Three-Piece-Suite) |

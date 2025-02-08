@@ -47,29 +47,24 @@ Once lockdowns had loosened, she took to Nashville, where she recorded with accl
 
 
 ## Tracklisting
-1. Psychos
-2. Joy'All
-3. Puppy And A Truck
-4. Apples And Oranges
-5. Essence Of Life
-6. Giddy Up
-7. Cherry Baby
-8. Love Feel
-9. Balcony
-10. Chain Of Tears
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Psychos |  |
+| A2 | Joy'All |  |
+| A3 | Puppy And A Truck |  |
+| A4 | Apples And Oranges |  |
+| A5 | Essence Of Life |  |
+| B1 | Giddy Up |  |
+| B2 | Cherry Baby |  |
+| B3 | Love Feel |  |
+| B4 | Balcony |  |
+| B5 | Chain Of Tears |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/joyall/1677437609" >}}<br>
 
 
-## Videos
-### Jenny Lewis - Psychos Official Video
-{{< youtube id="vlNVtA6Lgu4" title="Jenny Lewis - Psychos Official Video" >}}<br>
-### More Videos
-
-- [Jenny Lewis - JoyAll Visualizer](https://www.youtube.com/watch?v=m62vvx-J8cg)
-- [Jenny Lewis - Giddy Up Lyric Video](https://www.youtube.com/watch?v=AwcWjGTEAU8)
-- [Jenny Lewis - Love Feel](https://www.youtube.com/watch?v=KjklFFGL_Hc)
 
 ## Release Images
 {{< imageGrid >}}

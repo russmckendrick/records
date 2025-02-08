@@ -35,28 +35,23 @@ Stewart had all of the music and orchestration written and completely recorded b
 
 
 ## Tracklisting
-1. Lord Grenville (5:00)
-2. On The Border (3:22)
-3. Midas Shadow (3:08)
-4. Sand In Your Shoes (3:02)
-5. If It Doesn't Come Naturally, Leave It (4:28)
-6. Flying Sorcery (4:20)
-7. Broadway Hotel (3:55)
-8. One Stage Before (4:39)
-9. Year Of The Cat (6:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Lord Grenville | 5:00 |
+| A2 | On The Border | 3:22 |
+| A3 | Midas Shadow | 3:08 |
+| A4 | Sand In Your Shoes | 3:02 |
+| A5 | If It Doesn't Come Naturally, Leave It | 4:28 |
+| B1 | Flying Sorcery | 4:20 |
+| B2 | Broadway Hotel | 3:55 |
+| B3 | One Stage Before | 4:39 |
+| B4 | Year Of The Cat | 6:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/year-of-the-cat-remastered/695528177" >}}<br>
 
 
-## Videos
-### Flying Sorcery  Al Stewart  Year Of The Cat  1976 Janus LP
-{{< youtube id="u8xzvbJLtl0" title="Flying Sorcery  Al Stewart  Year Of The Cat  1976 Janus LP" >}}<br>
-### More Videos
-
-- [Al Stewart - Year of the Cat Official Audio](https://www.youtube.com/watch?v=Ak_MTXQALa0)
-- [Broadway Hotel 2001 Remaster](https://www.youtube.com/watch?v=2zpShd0A7Nk)
-- [Midas Shadow 2001 Remaster](https://www.youtube.com/watch?v=Gmb6Rm5yWqk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +63,5 @@ Stewart had all of the music and orchestration written and completely recorded b
 | Format         | Vinyl LP Album Stereo (Gatefold) |
 | Label          | RCA |
 | Catalog Number | RS 1082 |
-| Notes |   Note: An alternate version with flat labels and mastered by [a336941], is here - [r8747181]    |
+| Notes | <br><br>Note:<br>An alternate version with flat labels and mastered by [a336941], is here - [r8747181]<br><br><br> |
 | Discogs URL    | [Al Stewart - Year Of The Cat](https://www.discogs.com/release/774100-Al-Stewart-Year-Of-The-Cat) |

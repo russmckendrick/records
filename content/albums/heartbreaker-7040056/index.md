@@ -37,45 +37,29 @@ A Deluxe Edition, featuring bonus recording session takes and pre-album demos, w
 
 
 ## Tracklisting
-1. (Argument With David Rawlings Concerning Morrissey)
-2. To Be Young (Is To Be Sad, Is To Be High)
-3. My Winding Wheel
-4. AMY
-5. Oh My Sweet Carolina
-6. Bartering Lines
-7. Call Me On Your Way Back Home
-8. Damn, Sam (I Love A Woman That Rains)
-9. Come Pick Me Up
-10. To Be The One
-11. Why Do They Leave?
-12. Shakedown On 9th Street
-13. Don't Ask For The Water
-14. In My Time Of Need
-15. Sweet Lil Gal (23rd/1st)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | (Argument With David Rawlings Concerning Morrissey) |  |
+| A2 | To Be Young (Is To Be Sad, Is To Be High) |  |
+| A3 | My Winding Wheel |  |
+| A4 | AMY |  |
+| B1 | Oh My Sweet Carolina |  |
+| B2 | Bartering Lines |  |
+| B3 | Call Me On Your Way Back Home |  |
+| B4 | Damn, Sam (I Love A Woman That Rains) |  |
+| C1 | Come Pick Me Up |  |
+| C2 | To Be The One |  |
+| C3 | Why Do They Leave? |  |
+| C4 | Shakedown On 9th Street |  |
+| D1 | Don't Ask For The Water |  |
+| D2 | In My Time Of Need |  |
+| D3 | Sweet Lil Gal (23rd/1st) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/heartbreaker/593627968" >}}<br>
 
 
-## Videos
-### Argument with David Rawlings Concerning Morrisey
-{{< youtube id="-Z0o7zWtu_0" title="Argument with David Rawlings Concerning Morrisey" >}}<br>
-### More Videos
-
-- [Ryan Adams To Be Young Is to Be Sad Is to Be High](https://www.youtube.com/watch?v=g_c1YM53Wwo)
-- [Ryan Adams My Winding Wheel](https://www.youtube.com/watch?v=dfu5Tx9A_wo)
-- [Ryan Adams - AMY Heartbreaker](https://www.youtube.com/watch?v=BvmORF7DLFM)
-- [Oh My Sweet Carolina](https://www.youtube.com/watch?v=eMZYRvDvgT4)
-- [Bartering Lines](https://www.youtube.com/watch?v=aKHyuoPriRQ)
-- [Ryan Adams Call Me on Your Way Back Home](https://www.youtube.com/watch?v=BYrhG5g4Mc8)
-- [Ryan Adams - Damn Sam I Love A Woman That Rains](https://www.youtube.com/watch?v=C0i3LyJXAjo)
-- [Ryan Adams - Come Pick Me Up](https://www.youtube.com/watch?v=kM0mjukDGRw)
-- [Ryan Adams To Be the One](https://www.youtube.com/watch?v=hekcNSyhW9g)
-- [Ryan Adams Why Do They Leave](https://www.youtube.com/watch?v=VGIFTHlJLO8)
-- [Ryan Adams Shakedown on 9th Street](https://www.youtube.com/watch?v=aOV_WQLp1_M)
-- [Ryan Adams Dont Ask for the Water](https://www.youtube.com/watch?v=s2aVfugHN5w)
-- [Ryan Adams - In My Time Of Need](https://www.youtube.com/watch?v=9mpBPs-IgQ4)
-- [Sweet Lil gal 23rd1st](https://www.youtube.com/watch?v=DuL3Zx0hEFs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -87,5 +71,5 @@ A Deluxe Edition, featuring bonus recording session takes and pre-album demos, w
 | Format         | Vinyl 2× LP Album Reissue (180 gram) |
 | Label          | Pax Americana Record Company |
 | Catalog Number | PAX-AM 052 |
-| Notes | Includes a voucher to download 96/24 WAV version of the album.    MADE IN GERMANY sticker on shrink wrap on back cover.    PAX-AM 052 located in lower right corner of back cover.  00600753583609 located on spine, and labels. |
+| Notes | Includes a voucher to download 96/24 WAV version of the album.<br><br>MADE IN GERMANY sticker on shrink wrap on back cover.<br><br>PAX-AM 052 located in lower right corner of back cover.<br>00600753583609 located on spine, and labels. |
 | Discogs URL    | [Ryan Adams - Heartbreaker](https://www.discogs.com/release/7040056-Ryan-Adams-Heartbreaker) |

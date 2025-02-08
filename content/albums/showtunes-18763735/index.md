@@ -4,6 +4,7 @@ artist_name: "Lambchop"
 artist: "lambchop"
 album_name: "Showtunes"
 date: 2021-05-25T04:48:11.000000Z
+release_date: "2021-05-21"
 release_id: "18763735"
 slug: "showtunes-18763735"
 hideSummary: true
@@ -27,36 +28,28 @@ styles: ["Art Rock"]
 Showtunes is the fifteenth studio album by American rock band Lambchop. It was released on May 21, 2021, on Merge Records in the United States and on City Slang elsewhere.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. A Chef's Kiss (3:45)
-2. Drop C (3:22)
-3. Papa Was A Rolling Stone Journalist (1:58)
-4. Fuku (7:03)
-5. Unknown Man (4:23)
-6. Blue Leo (3:04)
-7. Impossible Meatballs (3:10)
-8. The Last Benedict (4:03)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | A Chef's Kiss | 3:45 |
+| A2 | Drop C | 3:22 |
+| A3 | Papa Was A Rolling Stone Journalist | 1:58 |
+| A4 | Fuku | 7:03 |
+| B1 | Unknown Man | 4:23 |
+| B2 | Blue Leo | 3:04 |
+| B3 | Impossible Meatballs | 3:10 |
+| B4 | The Last Benedict | 4:03 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/showtunes/1721065005" >}}<br>
 
 
-## Videos
-### Lambchop - A Chefs Kiss Official Lyric Video
-{{< youtube id="KzNWfgRFjhY" title="Lambchop - A Chefs Kiss Official Lyric Video" >}}<br>
-### More Videos
-
-- [Drop C](https://www.youtube.com/watch?v=0fVsNU2fHKM)
-- [Papa Was a Rolling Stone Journalist](https://www.youtube.com/watch?v=Q4WYSF2MKMk)
-- [Lambchop - Fuku Official Video](https://www.youtube.com/watch?v=KP8SGpb0PTc)
-- [Unknown Man](https://www.youtube.com/watch?v=mOqtFK3zUNo)
-- [Blue Leo](https://www.youtube.com/watch?v=R9xUDjMO-B0)
-- [Impossible Meatballs](https://www.youtube.com/watch?v=yYnB046yWGI)
-- [Lambchop - The Last Benedict Official Video](https://www.youtube.com/watch?v=GQIFEjqnqCQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +61,5 @@ Showtunes is the fifteenth studio album by American rock band Lambchop. It was r
 | Format         | Vinyl LP 45 RPM Album Limited Edition Stereo (White) |
 | Label          | City Slang |
 | Catalog Number | SLANG50362LP |
-| Notes | ℗ & © 2021 City Slang. Produced and mixed at Battle Tapes, Nashville TN 2019-2020 Recorded in Nashville, Minneapolis, L.A., Cologne, Hoboken. Songs published by Pathetic Hindsight Music admin by Schubert Music  Issued with download code card. ONLINE SHOP EXCLUSIVE from the label, City Slang: Limited Coloured LP + 12 Month Calendar Bundle (June 2021 - May 2022)   |
+| Notes | ℗ & © 2021 City Slang.<br>Produced and mixed at Battle Tapes, Nashville TN 2019-2020<br>Recorded in Nashville, Minneapolis, L.A., Cologne, Hoboken.<br>Songs published by Pathetic Hindsight Music admin by Schubert Music<br><br>Issued with download code card.<br>ONLINE SHOP EXCLUSIVE from the label, City Slang:<br>Limited Coloured LP + 12 Month Calendar Bundle (June 2021 - May 2022)<br><br> |
 | Discogs URL    | [Lambchop - Showtunes](https://www.discogs.com/release/18763735-Lambchop-Showtunes) |

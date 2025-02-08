@@ -4,6 +4,7 @@ artist_name: "Curve"
 artist: "curve"
 album_name: "Cuckoo"
 date: 2017-12-23T10:30:11.000000Z
+release_date: ""
 release_id: "10770803"
 slug: "cuckoo-10770803"
 hideSummary: true
@@ -23,41 +24,30 @@ styles: ["Industrial", "Downtempo", "Indie Rock"]
 ---
 
 Cuckoo is the second studio album to be released by the British alternative rock band Curve. It was released on 13 September 1993 and was issued by Anxious Records and Charisma Records. It was less commercially successful than the band's previous releases.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Missing Link
-2. Crystal
-3. Men Are From Mars Women Are From Venus
-4. All Of One
-5. Unreadable Communication
-6. Turkey Crossing
-7. Super Blaster
-8. Left Of Mother
-9. Sweetest Pie
-10. Cuckoo
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Missing Link |  |
+| A2 | Crystal |  |
+| A3 | Men Are From Mars Women Are From Venus |  |
+| A4 | All Of One |  |
+| A5 | Unreadable Communication |  |
+| B1 | Turkey Crossing |  |
+| B2 | Super Blaster |  |
+| B3 | Left Of Mother |  |
+| B4 | Sweetest Pie |  |
+| B5 | Cuckoo |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Curve - Crystal
-{{< youtube id="KL-I0kyYxT4" title="Curve - Crystal" >}}<br>
-### More Videos
 
-- [Curve - Men Are From Mars Women Are From Venus](https://www.youtube.com/watch?v=BOQX4v5c6u4)
-- [Curve - All of one](https://www.youtube.com/watch?v=rUDSBN7oN10)
-- [Curve - Turkey Crossing](https://www.youtube.com/watch?v=3x72B9kuWp8)
-- [Curve - Superblaster](https://www.youtube.com/watch?v=Zxi5vBnhQu0)
-- [Curve - Sweetest Pie](https://www.youtube.com/watch?v=aa0AyjhTaCY)
-- [Curve - Cuckoo](https://www.youtube.com/watch?v=oFj97DVmhxU)
-- [Curve - Missing Link](https://www.youtube.com/watch?v=B_VYNNkCDFo)
-- [Curve - Cuckoo Full Album](https://www.youtube.com/watch?v=w9_c0HGbvyA)
-- [Curve - Cuckoo Full Album](https://www.youtube.com/watch?v=w9_c0HGbvyA)
-- [CURVE - Half the Time  Honey Tongue mix from  Blackerthreetrackertwo UK 1993 audio](https://www.youtube.com/watch?v=4tu9cFTHPok)
-- [Curve - Rising FSOL Headspace Mix](https://www.youtube.com/watch?v=lXuUns3Mr1U)
-- [Curve - Missing Link Nine Inch Nails Screaming Bird Mix](https://www.youtube.com/watch?v=2WYFu4a9GCg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +59,5 @@ Cuckoo is the second studio album to be released by the British alternative rock
 | Format         | Vinyl LP Album Reissue |
 | Label          | 3 Loop Music |
 | Catalog Number | 3RANGE-53LP |
-| Notes | Comes with download card from 3 Loop Music.  Preorder copies come with a limited availability art card signed by Toni and Dean . |
+| Notes | Comes with download card from 3 Loop Music.<br><br>Preorder copies come with a limited availability art card signed by Toni and Dean . |
 | Discogs URL    | [Curve - Cuckoo](https://www.discogs.com/release/10770803-Curve-Cuckoo) |

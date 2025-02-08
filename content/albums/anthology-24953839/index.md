@@ -4,6 +4,7 @@ artist_name: "Garbage"
 artist: "garbage"
 album_name: "Anthology"
 date: 2022-10-28T05:35:35.000000Z
+release_date: "2022-11-21"
 release_id: "24953839"
 slug: "anthology-24953839"
 hideSummary: true
@@ -35,35 +36,38 @@ styles: ["Alternative Rock", "Pop Rock"]
 ---
 
 Anthology is a greatest hits album by American rock band Garbage, released on October 28, 2022, through Stunvolume and BMG. It is the band's third overall and second international greatest hits album. The album includes remastered versions of 35 tracks, among hit singles and fan favourites, as well as rare track "Witness to Your Love", a song recorded in 2008 for inclusion in the Give Listen Help charity compilation.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Only Happy When It Rains
-2. Queer
-3. Stupid Girl
-4. #1 Crush
-5. Push It
-6. I Think I'm Paranoid
-7. Special
-8. The World Is Not Enough
-9. Androgyny
-10. Cherry Lips (Go Baby Go!)
-11. Why Do You Love Me
-12. Bleed Like Me
-13. Witness To Your Love
-14. Blood For Poppies
-15. Automatic Systematic Habit
-16. Empty
-17. Even Though Our Love Is Doomed
-18. No Horses
-19. The Men Who Rule The World
-20. No Gods No Masters
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Only Happy When It Rains |  |
+| A2 | Queer |  |
+| A3 | Stupid Girl |  |
+| A4 | #1 Crush |  |
+| A5 | Push It |  |
+| B1 | I Think I'm Paranoid |  |
+| B2 | Special |  |
+| B3 | The World Is Not Enough |  |
+| B4 | Androgyny |  |
+| B5 | Cherry Lips (Go Baby Go!) |  |
+| B6 | Why Do You Love Me |  |
+| C1 | Bleed Like Me |  |
+| C2 | Witness To Your Love |  |
+| C3 | Blood For Poppies |  |
+| C4 | Automatic Systematic Habit |  |
+| C5 | Empty |  |
+| D1 | Even Though Our Love Is Doomed |  |
+| D2 | No Horses |  |
+| D3 | The Men Who Rule The World |  |
+| D4 | No Gods No Masters |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/anthology/1654917453" >}}<br>
-
 
 
 
@@ -77,5 +81,5 @@ Anthology is a greatest hits album by American rock band Garbage, released on Oc
 | Format         | Vinyl 2× LP Compilation Limited Edition (Yellow Translucent) |
 | Label          | Stun Volume |
 | Catalog Number | BMGCAT585CLP |
-| Notes | Garbage Anthology 1995-2022.  This vinyl edition omits 15 tracks that appear on the CD edition [r=24985015].  Issued in a single sleeve including two printed inner sleeves with photos, liner notes and credits. Some copies ordered direct from the artist webstore came with an exclusive set of four postcards.  Track durations do not appear on the release.  Catalog numbers: BMGCAT585CLP (on the hype sticker and spine) 4050538819151 (on back cover)  [Hype sticker on shrink-wrap]: Garbage Anthology 1995 - 2022 Includes rare track "Witness To Your Love" Released on transparent coloured vinyl  [On back cover]: This compilation ℗ & © 2022 Garbage Unlimited, LCC d/b/a/ STUNVOLUME under exclusive license to Infectious Music, a division of BMG Rights Management (UK) Limited. [...] This package contains previously unreleased material. Manufactured in Poland. BMG UK.  [On the 2nd inner sleeve]: Side A tracks 1-3 taken from [m=26091] sessions originally recorded at Smart Studios in Madison, Wisconsin, USA. #1 Crush originally recorded Smart Studios in 1995 Side A track 5 and side B tracks 1 & 2 taken from [m=26127] sessions originally recorded at Smart Studios. The World Is Not Enough originally recorded at Metropolis, London, Air Studios, London and Armoury Studios, Vancouver in 1999 for the MGM Motion Picture, The World Is Not Enough Side B tracks 4 & 5 taken from [m=26067] sessions originally recorded at Smart Studios. Side B track 6 and side C track 1 taken from [m=26107] sessions originally recorded at Smart Studios, Sound City in Van Nuys, CA; The Boat In Los Angeles, CA and GrungeIsDead in Silverlake, CA. Witness To Your Love (previously unreleased) originally recorded at GrungeIsDead Side C tracks 3 & 4 taken from [m=436251] sessions recorded at Red Razor Sounds, Atwater Village, CA with additional recording at GrungeIsDead; The Pass in Studio City, CA; Snowglobe Studios Co, East West, Hollywood, CA and Smart Studios Side C track 5 and side D track 1 taken from [m=1012760] sessions originally recorded at Red Razor Sounds with additional recording at GrungeIsDead. No Horses originally recorded at Red Razor Sounds in 2017. Side D tracks 3 & 4 taken from [url=https://www.discogs.com/master/2164747-Garbage-No-Gods-No-Masters]No Gods, No Masters[/url] sessions originally recorded at Red Razor Sounds.  All tracks published by Vibecrusher Music (BMI) / Deadarm Music (ASCAP) administered by BMG Rights Management (UK) Ltd. Except Stupid Girl published by Almo Music Corporation, EMI Virgin Music Inc, Irving Music, Inc, Vibecrusher Music (BMI) / Deadarm Music (ASCAP) administered by BMG Rights Management (UK) Ltd and The World Is Not Enough published by Universal/MCA Music Limited  Runouts are hand-etched. |
+| Notes | Garbage Anthology 1995-2022.<br><br>This vinyl edition omits 15 tracks that appear on the CD edition [r=24985015].<br><br>Issued in a single sleeve including two printed inner sleeves with photos, liner notes and credits.<br>Some copies ordered direct from the artist webstore came with an exclusive set of four postcards.<br><br>Track durations do not appear on the release.<br><br>Catalog numbers:<br>BMGCAT585CLP (on the hype sticker and spine)<br>4050538819151 (on back cover)<br><br>[Hype sticker on shrink-wrap]:<br>Garbage Anthology<br>1995 - 2022<br>Includes rare track<br>"Witness To Your Love"<br>Released on transparent<br>coloured vinyl<br><br>[On back cover]:<br>This compilation ℗ & © 2022 Garbage Unlimited, LCC d/b/a/ STUNVOLUME under exclusive license to Infectious Music, a division of BMG Rights Management (UK) Limited. [...] This package contains previously unreleased material. Manufactured in Poland. BMG UK.<br><br>[On the 2nd inner sleeve]:<br>Side A tracks 1-3 taken from [m=26091] sessions originally recorded at Smart Studios in Madison, Wisconsin, USA.<br>#1 Crush originally recorded Smart Studios in 1995<br>Side A track 5 and side B tracks 1 & 2 taken from [m=26127] sessions originally recorded at Smart Studios.<br>The World Is Not Enough originally recorded at Metropolis, London, Air Studios, London and Armoury Studios, Vancouver in 1999 for the MGM Motion Picture, The World Is Not Enough<br>Side B tracks 4 & 5 taken from [m=26067] sessions originally recorded at Smart Studios.<br>Side B track 6 and side C track 1 taken from [m=26107] sessions originally recorded at Smart Studios, Sound City in Van Nuys, CA; The Boat In Los Angeles, CA and GrungeIsDead in Silverlake, CA.<br>Witness To Your Love (previously unreleased) originally recorded at GrungeIsDead<br>Side C tracks 3 & 4 taken from [m=436251] sessions recorded at Red Razor Sounds, Atwater Village, CA with additional recording at GrungeIsDead; The Pass in Studio City, CA; Snowglobe Studios Co, East West, Hollywood, CA and Smart Studios<br>Side C track 5 and side D track 1 taken from [m=1012760] sessions originally recorded at Red Razor Sounds with additional recording at GrungeIsDead.<br>No Horses originally recorded at Red Razor Sounds in 2017.<br>Side D tracks 3 & 4 taken from [url=https://www.discogs.com/master/2164747-Garbage-No-Gods-No-Masters]No Gods, No Masters[/url] sessions originally recorded at Red Razor Sounds.<br><br>All tracks published by Vibecrusher Music (BMI) / Deadarm Music (ASCAP) administered by BMG Rights Management (UK) Ltd. Except Stupid Girl published by Almo Music Corporation, EMI Virgin Music Inc, Irving Music, Inc, Vibecrusher Music (BMI) / Deadarm Music (ASCAP) administered by BMG Rights Management (UK) Ltd and The World Is Not Enough published by Universal/MCA Music Limited<br><br>Runouts are hand-etched. |
 | Discogs URL    | [Garbage - Anthology](https://www.discogs.com/release/24953839-Garbage-Anthology) |

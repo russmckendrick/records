@@ -4,6 +4,7 @@ artist_name: "INXS"
 artist: "inxs"
 album_name: "All The Voices"
 date: 2015-12-28T14:09:49.000000Z
+release_date: ""
 release_id: "6035012"
 slug: "all-the-voices-6035012"
 hideSummary: true
@@ -60,130 +61,137 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. INXS
-2. On A Bus
-3. Doctor
-4. Just Keep Walking
-5. Learn To Smile
-6. Jumping
-7. In Vain
-8. Roller Skating
-9. Body Language
-10. Newsreel Babies
-11. Wishy Washy
-12. Underneath The Colours
-13. Stay Young
-14. Horizons
-15. Big Go Go
-16. Underneath The Colours
-17. Fair Weather Ahead
-18. Night Of Rebellion
-19. Follow
-20. Barbarian
-21. What Would You Do
-22. Just To Learn Again
-23. Shabooh Shoobah
-24. The One Thing
-25. To Look At You
-26. Spy Of Love
-27. Soul Mistake
-28. Here Comes
-29. Black And White
-30. Golden Playpen
-31. Jan's Song
-32. Old World, New World
-33. Don't Change
-34. The Swing
-35. Original Sin
-36. Melting In The Sun
-37. I Send A Message
-38. Dancing On The Jetty
-39. The Swing
-40. Johnson's Aeroplane
-41. Love Is (What I Say)
-42. Face The Change
-43. Burn For You
-44. All The Voices
-45. Listen Like Thieves
-46. What You Need
-47. Listen Like Thieves
-48. Kiss The Dirt (Falling Down The Mountain)
-49. Shine Like It Does
-50. Good + Bad Times
-51. Biting Bullets
-52. This Time
-53. Three Sisters
-54. Same Direction
-55. One X One
-56. Red Red Sun
-57. Kick
-58. Guns In The Sky
-59. New Sensation
-60. Devil Inside
-61. Need You Tonight
-62. Mediate
-63. The Loved One
-64. Wild Life
-65. Never Tear Us Apart
-66. Mystify
-67. Kick
-68. Calling All Nations
-69. Tiny Daggers
-70. X
-71. Suicide Blonde
-72. Disappear
-73. The Stairs
-74. Faith In Each Other
-75. By My Side
-76. Lately
-77. Who Pays The Price
-78. Know The Difference
-79. Bitter Tears
-80. On My Way
-81. Hear That Sound
-82. Welcome To Wherever You Are
-83. Questions
-84. Heaven Sent
-85. Communication
-86. Taste It
-87. Not Enough Time
-88. All Around
-89. Baby Don't Cry
-90. Beautiful Girl
-91. Wishing Well
-92. Back On Line
-93. Strange Desire
-94. Men And Women
-95. Full Moon, Dirty Hearts
-96. Days Of Rust
-97. The Gift
-98. Make Your Peace
-99. Time
-100. I'm Only Looking
-101. Please (You Got That...)
-102. Full Moon, Dirty Hearts
-103. Freedom Deep
-104. Kill The Pain
-105. Cut Your Roses Down
-106. The Messenger
-107. Viking Juice
-108. Elegantly Wasted
-109. Show Me (Cherry Baby)
-110. Elegantly Wasted
-111. Everything
-112. Don't Lose Your Head
-113. Searching
-114. I'm Just A Man
-115. Girl On Fire
-116. We Are Thrown Together
-117. Shake The Tree
-118. She Is Rising
-119. Building Bridges
-120. Shine
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | INXS |  |
+| A1 | On A Bus |  |
+| A2 | Doctor |  |
+| A3 | Just Keep Walking |  |
+| A4 | Learn To Smile |  |
+| A5 | Jumping |  |
+| B1 | In Vain |  |
+| B2 | Roller Skating |  |
+| B3 | Body Language |  |
+| B4 | Newsreel Babies |  |
+| B5 | Wishy Washy |  |
+|  | Underneath The Colours |  |
+| C1 | Stay Young |  |
+| C2 | Horizons |  |
+| C3 | Big Go Go |  |
+| C4 | Underneath The Colours |  |
+| C5 | Fair Weather Ahead |  |
+| D1 | Night Of Rebellion |  |
+| D2 | Follow |  |
+| D3 | Barbarian |  |
+| D4 | What Would You Do |  |
+| D5 | Just To Learn Again |  |
+|  | Shabooh Shoobah |  |
+| E1 | The One Thing |  |
+| E2 | To Look At You |  |
+| E3 | Spy Of Love |  |
+| E4 | Soul Mistake |  |
+| E5 | Here Comes |  |
+| F1 | Black And White |  |
+| F2 | Golden Playpen |  |
+| F3 | Jan's Song |  |
+| F4 | Old World, New World |  |
+| F5 | Don't Change |  |
+|  | The Swing |  |
+| G1 | Original Sin |  |
+| G2 | Melting In The Sun |  |
+| G3 | I Send A Message |  |
+| G4 | Dancing On The Jetty |  |
+| G5 | The Swing |  |
+| H1 | Johnson's Aeroplane |  |
+| H2 | Love Is (What I Say) |  |
+| H3 | Face The Change |  |
+| H4 | Burn For You |  |
+| H5 | All The Voices |  |
+|  | Listen Like Thieves |  |
+| I1 | What You Need |  |
+| I2 | Listen Like Thieves |  |
+| I3 | Kiss The Dirt (Falling Down The Mountain) |  |
+| I4 | Shine Like It Does |  |
+| I5 | Good + Bad Times |  |
+| J1 | Biting Bullets |  |
+| J2 | This Time |  |
+| J3 | Three Sisters |  |
+| J4 | Same Direction |  |
+| J5 | One X One |  |
+| J6 | Red Red Sun |  |
+|  | Kick |  |
+| K1 | Guns In The Sky |  |
+| K2 | New Sensation |  |
+| K3 | Devil Inside |  |
+| K4 | Need You Tonight |  |
+| K5 | Mediate |  |
+| K6 | The Loved One |  |
+| L1 | Wild Life |  |
+| L2 | Never Tear Us Apart |  |
+| L3 | Mystify |  |
+| L4 | Kick |  |
+| L5 | Calling All Nations |  |
+| L6 | Tiny Daggers |  |
+|  | X |  |
+| M1 | Suicide Blonde |  |
+| M2 | Disappear |  |
+| M3 | The Stairs |  |
+| M4 | Faith In Each Other |  |
+| M5 | By My Side |  |
+| N1 | Lately |  |
+| N2 | Who Pays The Price |  |
+| N3 | Know The Difference |  |
+| N4 | Bitter Tears |  |
+| N5 | On My Way |  |
+| N6 | Hear That Sound |  |
+|  | Welcome To Wherever You Are |  |
+| O1 | Questions |  |
+| O2 | Heaven Sent |  |
+| O3 | Communication |  |
+| O4 | Taste It |  |
+| O5 | Not Enough Time |  |
+| O6 | All Around |  |
+| P1 | Baby Don't Cry |  |
+| P2 | Beautiful Girl |  |
+| P3 | Wishing Well |  |
+| P4 | Back On Line |  |
+| P5 | Strange Desire |  |
+| P6 | Men And Women |  |
+|  | Full Moon, Dirty Hearts |  |
+| Q1 | Days Of Rust |  |
+| Q2 | The Gift |  |
+| Q3 | Make Your Peace |  |
+| Q4 | Time |  |
+| Q5 | I'm Only Looking |  |
+| Q6 | Please (You Got That...) |  |
+| R1 | Full Moon, Dirty Hearts |  |
+| R2 | Freedom Deep |  |
+| R3 | Kill The Pain |  |
+| R4 | Cut Your Roses Down |  |
+| R5 | The Messenger |  |
+| R6 | Viking Juice |  |
+|  | Elegantly Wasted |  |
+| S1 | Show Me (Cherry Baby) |  |
+| S2 | Elegantly Wasted |  |
+| S3 | Everything |  |
+| S4 | Don't Lose Your Head |  |
+| S5 | Searching |  |
+| S6 | I'm Just A Man |  |
+| T1 | Girl On Fire |  |
+| T2 | We Are Thrown Together |  |
+| T3 | Shake The Tree |  |
+| T4 | She Is Rising |  |
+| T5 | Building Bridges |  |
+| T6 | Shine |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -196,5 +204,5 @@ styles: []
 | Format         | Box Set Compilation Limited Edition, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue, Vinyl LP Album Reissue |
 | Label          | Universal Music Group International |
 | Catalog Number | 0602537778867 |
-| Notes | Includes download voucher.  "Welcome to Wherever You Are" (never released on LP in the US, uses labels from the original European release), "Full Moon, Dirty Hearts" (never released on LP in the US - new labels were created instead of using the labels from the original European release) and "Elegantly Wasted" (never released on LP, uses black INXS labels). |
+| Notes | Includes download voucher.<br><br>"Welcome to Wherever You Are" (never released on LP in the US, uses labels from the original European release), "Full Moon, Dirty Hearts" (never released on LP in the US - new labels were created instead of using the labels from the original European release) and "Elegantly Wasted" (never released on LP, uses black INXS labels). |
 | Discogs URL    | [INXS - All The Voices](https://www.discogs.com/release/6035012-INXS-All-The-Voices) |

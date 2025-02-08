@@ -29,39 +29,32 @@ The Montreal DJ vibes with Icelandic singer Emilíana Torrini.
 
 
 ## Tracklisting
-1. The Observable Universe
-2. Adrift
-3. Transmission 1
-4. Fallaway
-5. Perihelion
-6. Photons
-7. Beneath The Heat
-8. Novachord
-9. Transmission 2
-10. Collapser
-11. Transmission 3
-12. The Hubble Constant
-13. Satellite
-14. Apoapsis
-15. Nightfall
-16. The Darkest Day
-17. Epilogue
-18. Nightfall: Pale Blue
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Observable Universe |  |
+| A2 | Adrift |  |
+| A3 | Transmission 1 |  |
+| B1 | Fallaway |  |
+| B2 | Perihelion |  |
+| B3 | Photons |  |
+| B4 | Beneath The Heat |  |
+| B5 | Novachord |  |
+| C1 | Transmission 2 |  |
+| C2 | Collapser |  |
+| C3 | Transmission 3 |  |
+| C4 | The Hubble Constant |  |
+| C5 | Satellite |  |
+| C6 | Apoapsis |  |
+| D1 | Nightfall |  |
+| D2 | The Darkest Day |  |
+| D3 | Epilogue |  |
+| D4 | Nightfall: Pale Blue |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/music-to-draw-to-satellite-feat-emil%C3%ADana-torrini/1440929755" >}}<br>
 
 
-## Videos
-### Kid Koala - Music To Draw To Satellite - the observable universe trailer
-{{< youtube id="u8JLozxxGrg" title="Kid Koala - Music To Draw To Satellite - the observable universe trailer" >}}<br>
-### More Videos
-
-- [Kid Koala - The Observable Universe full song stream](https://www.youtube.com/watch?v=ZDuCTIhvD5w)
-- [Kid Koala Adrift featuring Emiliana Torrini Official Audio](https://www.youtube.com/watch?v=QXLK91GLnjg)
-- [Kid Koala - Music To Draw To Satellite - the observable universe trailer](https://www.youtube.com/watch?v=u8JLozxxGrg)
-- [Kid Koala - The Observable Universe full song stream](https://www.youtube.com/watch?v=ZDuCTIhvD5w)
-- [Kid Koala Adrift featuring Emiliana Torrini Official Audio](https://www.youtube.com/watch?v=QXLK91GLnjg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +65,5 @@ The Montreal DJ vibes with Icelandic singer Emilíana Torrini.
 | Format         | Vinyl 2× LP Album |
 | Label          | Arts & Crafts |
 | Catalog Number | A&C 129 |
-| Notes | Includes 16p booklet  in CD booklet size (same as used for CD) and Digital Download Card (for MP3 download only) |
+| Notes | Includes 16p booklet  in CD booklet size (same as used for CD)<br>and Digital Download Card (for MP3 download only) |
 | Discogs URL    | [Kid Koala - Music To Draw To: Satellite](https://www.discogs.com/release/9741236-Kid-Koala-Featuring-Emilíana-Torrini-Music-To-Draw-To-Satellite) |

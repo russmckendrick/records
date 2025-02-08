@@ -34,25 +34,24 @@ The Doors and "Light My Fire" have been inducted into the Grammy Hall of Fame. I
 
 
 ## Tracklisting
-1. Break On Through (To The Other Side) (2:25)
-2. Soul Kitchen (3:30)
-3. The Crystal Ship (2:30)
-4. Twentieth Century Fox (2:30)
-5. Alabama Song (Whisky Bar) (3:15)
-6. Light My Fire (6:50)
-7. Back Door Man (3:30)
-8. I Looked At You (2:18)
-9. End Of The Night (2:49)
-10. Take It As It Comes (2:13)
-11. The End (11:35)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Break On Through (To The Other Side) | 2:25 |
+| A2 | Soul Kitchen | 3:30 |
+| A3 | The Crystal Ship | 2:30 |
+| A4 | Twentieth Century Fox | 2:30 |
+| A5 | Alabama Song (Whisky Bar) | 3:15 |
+| A6 | Light My Fire | 6:50 |
+| B1 | Back Door Man | 3:30 |
+| B2 | I Looked At You | 2:18 |
+| B3 | End Of The Night | 2:49 |
+| B4 | Take It As It Comes | 2:13 |
+| B5 | The End | 11:35 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-the-doors/640047463" >}}<br>
 
-
-## Videos
-### Break on Through To the Other Side
-{{< youtube id="NFeUko-lQHg" title="Break on Through To the Other Side" >}}<br>
 
 
 ## Release Images
@@ -65,5 +64,5 @@ The Doors and "Light My Fire" have been inducted into the Grammy Hall of Fame. I
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | Elektra |
 | Catalog Number | 8122-79865-0 |
-| Notes | On sticker: "Featuring the Original Stereo Mixes Includes BREAK ON THROUGH (TO THE OTHER SIDE) LIGHT MY FIRE TWENTIETH CENTURY FOX 8122-79865-0 180-GRAM VINYL"  Manufactured in the E.U.  From the Rhino Records website: "The 12" reissue on 180-gram HQ virgin vinyl presents the original stereo mixes, artwork and inner sleeves. The laquers were cut at Bernie Grundman Mastering in Hollywood, CA under the direct supervision of original Doors producer/engineer Bruce Botnick and Electra Records founder Jac Holzman."  Part of the 2009 European reissues by [url=https://www.discogs.com/label/152823-Rhino-Vinyl]Rhino Vinyl[/url] on 180 Gram: - [url=https://www.discogs.com/release/2785880-The-Doors-The-Doors]The Doors (mono)[/url] - [url=https://www.discogs.com/release/2548932-The-Doors-The-Doors]The Doors (stereo)[/url] - [url=https://www.discogs.com/release/2548935-The-Doors-Strange-Days]Strange Days[/url] - [url=https://www.discogs.com/release/2795914-The-Doors-Waiting-For-The-Sun]Waiting For The Sun[/url] - [url=https://www.discogs.com/release/3080469-The-Doors-The-Soft-Parade]The Soft Parade[/url] - [url=https://www.discogs.com/release/3144579-The-Doors-Morrison-Hotel]Morrison Hotel[/url] - [url=https://www.discogs.com/release/2548925-Doors-LA-Woman]L.A. Woman[/url]  |
+| Notes | On sticker:<br>"Featuring the Original Stereo Mixes<br>Includes<br>BREAK ON THROUGH (TO THE OTHER SIDE)<br>LIGHT MY FIRE<br>TWENTIETH CENTURY FOX<br>8122-79865-0<br>180-GRAM VINYL"<br><br>Manufactured in the E.U.<br><br>From the Rhino Records website: "The 12" reissue on 180-gram HQ virgin vinyl presents the original stereo mixes, artwork and inner sleeves. The laquers were cut at Bernie Grundman Mastering in Hollywood, CA under the direct supervision of original Doors producer/engineer Bruce Botnick and Electra Records founder Jac Holzman."<br><br>Part of the 2009 European reissues by [url=https://www.discogs.com/label/152823-Rhino-Vinyl]Rhino Vinyl[/url] on 180 Gram:<br>- [url=https://www.discogs.com/release/2785880-The-Doors-The-Doors]The Doors (mono)[/url]<br>- [url=https://www.discogs.com/release/2548932-The-Doors-The-Doors]The Doors (stereo)[/url]<br>- [url=https://www.discogs.com/release/2548935-The-Doors-Strange-Days]Strange Days[/url]<br>- [url=https://www.discogs.com/release/2795914-The-Doors-Waiting-For-The-Sun]Waiting For The Sun[/url]<br>- [url=https://www.discogs.com/release/3080469-The-Doors-The-Soft-Parade]The Soft Parade[/url]<br>- [url=https://www.discogs.com/release/3144579-The-Doors-Morrison-Hotel]Morrison Hotel[/url]<br>- [url=https://www.discogs.com/release/2548925-Doors-LA-Woman]L.A. Woman[/url]<br> |
 | Discogs URL    | [The Doors - The Doors](https://www.discogs.com/release/2548932-The-Doors-The-Doors) |

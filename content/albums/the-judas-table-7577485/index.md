@@ -1,9 +1,10 @@
 ---
 title: "Antimatter - The Judas Table"
 artist_name: "Antimatter"
-artist: "antimatter-3"
+artist: "antimatter"
 album_name: "The Judas Table"
 date: 2016-01-18T18:40:52.000000Z
+release_date: "2015-10-09"
 release_id: "7577485"
 slug: "the-judas-table-7577485"
 hideSummary: true
@@ -27,38 +28,30 @@ styles: ["Prog Rock"]
 The Judas Table is the sixth album by the UK band Antimatter. It was released on 9 October 2015. In January 2020, The Judas Table was voted the number 1 'Album of the Decade' (2010's) by Dead Rhetoric's David E. Gehlke  as well as being among the 'Top 25 Progressive Metal Albums Of The Decade' by Dutch Progressive Rock Page's Andy Read 
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Black Eyed Man (6:24)
-2. Killer (5:37)
-3. Comrades (4:58)
-4. Stillborn Empires (2:45)
-5. Little Piggy (5:03)
-6. Hole (6:07)
-7. Can of Worms (5:14)
-8. Integrity (6:45)
-9. The Judas Table (7:21)
-10. Goodbye (2:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Black Eyed Man | 6:24 |
+| A2 | Killer | 5:37 |
+| A3 | Comrades | 4:58 |
+| B1 | Stillborn Empires | 2:45 |
+| B2 | Little Piggy | 5:03 |
+| B3 | Hole | 6:07 |
+| C1 | Can of Worms | 5:14 |
+| C2 | Integrity | 6:45 |
+| C3 | The Judas Table | 7:21 |
+| C4 | Goodbye | 2:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-judas-table/1556091887" >}}<br>
 
 
-## Videos
-### Antimatter - Stillborn Empires official music video
-{{< youtube id="e06YDLbTNZA" title="Antimatter - Stillborn Empires official music video" >}}<br>
-### More Videos
-
-- [Antimatter - Killer](https://www.youtube.com/watch?v=gCjimCfzhEI)
-- [Antimatter - Comrades](https://www.youtube.com/watch?v=uGP16Q-96pw)
-- [Antimatter - Little Piggy](https://www.youtube.com/watch?v=OkXWlqYC1s0)
-- [Antimatter - Hole](https://www.youtube.com/watch?v=fxB3AI9n_V4)
-- [Antimatter - Can of Worms](https://www.youtube.com/watch?v=icrO3PpFrW8)
-- [Antimatter - Integrity](https://www.youtube.com/watch?v=jtKFYIVqutc)
-- [Antimatter - The Judas Table](https://www.youtube.com/watch?v=yIhighJ9S8s)
 
 ## Release Images
 {{< imageGrid >}}

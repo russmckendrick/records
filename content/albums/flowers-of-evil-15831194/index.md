@@ -4,6 +4,7 @@ artist_name: "Ulver"
 artist: "ulver"
 album_name: " Flowers Of Evil"
 date: 2020-08-30T09:28:27.000000Z
+release_date: "2020-08-28"
 release_id: "15831194"
 slug: "flowers-of-evil-15831194"
 hideSummary: true
@@ -28,32 +29,28 @@ styles: ["Synth-pop"]
 
 Flowers of Evil is the twelfth studio album by Norwegian experimental electronica band Ulver. Written and produced by Ulver, the album was released on August 28, 2020 via House of Mythology. The album was recorded in Oslo from summer 2019 to winter 2020 and mixed by Martin Glover and Michael Rendall in February 2020. The album was officially announced in February 2020 with music video of the song "Russian Doll" being released on Valentine's Day. The second single "Little Boy" was made available on April 4, 2020.
 The album cover features a still image of actress Renée Jeanne Falconetti having her head shaved during her performance in the title role of Carl Theodor Dreyer's La Passion de Jeanne d'Arc, a film released in 1928.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. One Last Dance
-2. Russian Doll
-3. Machine Guns And Peacock Feathers
-4. Hour Of The Wolf
-5. Apocalypse 1993
-6. Little Boy
-7. Nostalgia
-8. A Thousand Cuts
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | One Last Dance |  |
+| A2 | Russian Doll |  |
+| A3 | Machine Guns And Peacock Feathers |  |
+| A4 | Hour Of The Wolf |  |
+| B1 | Apocalypse 1993 |  |
+| B2 | Little Boy |  |
+| B3 | Nostalgia |  |
+| B4 | A Thousand Cuts |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flowers-of-evil/1526294296" >}}<br>
 
 
-## Videos
-### Ulver - Russian Doll
-{{< youtube id="3e_Zs79vq40" title="Ulver - Russian Doll" >}}<br>
-### More Videos
-
-- [Ulver - Nostalgia](https://www.youtube.com/watch?v=Wt1qbDvMoik)
-- [Ulver - Russian Doll](https://www.youtube.com/watch?v=a8QwxdF_oMQ)
-- [Ulver - Flowers of Evil Full Album 2020](https://www.youtube.com/watch?v=9M3CN0AUmoc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +62,5 @@ The album cover features a still image of actress Renée Jeanne Falconetti havin
 | Format         | Vinyl LP Album Limited Edition (Crystal Clear) |
 | Label          | House of Mythology |
 | Catalog Number | HOM023LPC |
-| Notes | Limited 180 gram crystal clear vinyl, housed in thick printed inner sleeve and thick card stock sleeve. Includes a 12" matte paper four-page booklet.  Pressed in 1000 copies.  |
+| Notes | Limited 180 gram crystal clear vinyl, housed in thick printed inner sleeve and thick card stock sleeve.<br>Includes a 12" matte paper four-page booklet. <br>Pressed in 1000 copies.  |
 | Discogs URL    | [Ulver -  Flowers Of Evil](https://www.discogs.com/release/15831194-Ulver-Flowers-Of-Evil) |

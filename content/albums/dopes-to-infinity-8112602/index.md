@@ -4,6 +4,7 @@ artist_name: "Monster Magnet"
 artist: "monster-magnet"
 album_name: "Dopes To Infinity"
 date: 2016-02-17T18:14:14.000000Z
+release_date: "1995-01-01"
 release_id: "8112602"
 slug: "dopes-to-infinity-8112602"
 hideSummary: true
@@ -30,57 +31,35 @@ styles: ["Space Rock", "Psychedelic Rock", "Hard Rock"]
 Dopes to Infinity is the third album by American rock band Monster Magnet, released on March 21, 1995. The album includes the song "Negasonic Teenage Warhead", the band's first hit single. 
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Dopes To Infinity
-2. Negasonic Teenage Warhead
-3. Look To Your Orb For The Warning
-4. All Friends And Kingdom Come
-5. Ego, The Living Planet
-6. Blow 'Em Off
-7. Third Alternative
-8. I Control, I Fly
-9. King Of Mars
-10. Dead Christmas
-11. Theme From "Masterburner"
-12. Vertigo
-13. Forbidden Planet (Bonus Track)
-14. Eclipse This (B-Side)
-15. I'm Five Years Ahead Of My Time (B-Side)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dopes To Infinity |  |
+| A2 | Negasonic Teenage Warhead |  |
+| A3 | Look To Your Orb For The Warning |  |
+| A4 | All Friends And Kingdom Come |  |
+| B1 | Ego, The Living Planet |  |
+| B2 | Blow 'Em Off |  |
+| B3 | Third Alternative |  |
+| B4 | I Control, I Fly |  |
+| C1 | King Of Mars |  |
+| C2 | Dead Christmas |  |
+| C3 | Theme From "Masterburner" |  |
+| C4 | Vertigo |  |
+| D1 | Forbidden Planet (Bonus Track) |  |
+| D2 | Eclipse This (B-Side) |  |
+| D3 | I'm Five Years Ahead Of My Time (B-Side) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dopes-to-infinity/1713553022" >}}<br>
 
 
-## Videos
-### Dopes To Infinity
-{{< youtube id="JWldvOmqhRk" title="Dopes To Infinity" >}}<br>
-### More Videos
-
-- [Negasonic Teenage Warhead](https://www.youtube.com/watch?v=s9vSW6mL14c)
-- [Look To Your Orb For The Warning](https://www.youtube.com/watch?v=9xfts_jRZ9U)
-- [All Friends And Kingdom Come](https://www.youtube.com/watch?v=pshDmk_JrQo)
-- [Ego The Living Planet](https://www.youtube.com/watch?v=aDtrGiK1KM8)
-- [Blow Em Off](https://www.youtube.com/watch?v=EDZKEBKvjyo)
-- [Third Alternative](https://www.youtube.com/watch?v=kezve_bWPg0)
-- [I Control I Fly](https://www.youtube.com/watch?v=oBNkgGtzPAM)
-- [King Of Mars](https://www.youtube.com/watch?v=nW3DPwxRLmE)
-- [Dead Christmas](https://www.youtube.com/watch?v=gY6kQ3iqFhY)
-- [Theme From Masterburner](https://www.youtube.com/watch?v=-qMC9e0CS6s)
-- [Vertigo](https://www.youtube.com/watch?v=XWuZQ3ySNt4)
-- [Monster Magnet - Forbidden Planet 1](https://www.youtube.com/watch?v=oYiMVTvQmac)
-- [Monster Magnet - Forbidden Planet 2](https://www.youtube.com/watch?v=krSiJW4AZbE)
-- [Monster Magnet - Dopes To Infinity](https://www.youtube.com/watch?v=MuOuzBzNdvY)
-- [Monster Magnet - Dopes To Infinity](https://www.youtube.com/watch?v=tQps2kebpUc)
-- [Monster Magnet - Negasonic Teenage Warhead](https://www.youtube.com/watch?v=aKj5cJ9_KSg)
-- [Monster Magnet - Dead Christmas](https://www.youtube.com/watch?v=dzeTyqowtxM)
-- [Monster Magnet - Look To Your Orb For The Warning with lyrics](https://www.youtube.com/watch?v=KhjfXmo_rnE)
-- [Monster Magnet - Look To Your Orb For The Warning The Matrix](https://www.youtube.com/watch?v=cT5zI0Zhk0c)
-- [Monster Magnet - Dopes to Infinity 10150AMOV](https://www.youtube.com/watch?v=6M8pI0jYJq4)
-- [Monster Magnet - Dopes to Infinity MONSTERMOV](https://www.youtube.com/watch?v=hWPr5vUoFX0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -92,5 +71,5 @@ Dopes to Infinity is the third album by American rock band Monster Magnet, relea
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Spinefarm Records |
 | Catalog Number | 00600753642337 |
-| Notes | Black vinyl. Includes sleeve-notes & bonus material.    Comes with free album download code.    ℗ & © 2015 Spinefarm Records & Universal Music Group Company    Made in the EU. |
+| Notes | Black vinyl. Includes sleeve-notes & bonus material.<br><br>Comes with free album download code.<br><br>℗ & © 2015 Spinefarm Records & Universal Music Group Company<br><br>Made in the EU. |
 | Discogs URL    | [Monster Magnet - Dopes To Infinity](https://www.discogs.com/release/8112602-Monster-Magnet-Dopes-To-Infinity) |

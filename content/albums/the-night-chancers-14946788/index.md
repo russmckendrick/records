@@ -4,6 +4,7 @@ artist_name: "Baxter Dury"
 artist: "baxter-dury"
 album_name: "The Night Chancers"
 date: 2020-09-15T17:31:59.000000Z
+release_date: "2020-03-20"
 release_id: "14946788"
 slug: "the-night-chancers-14946788"
 hideSummary: true
@@ -27,42 +28,30 @@ styles: ["Alternative Rock", "Indie Pop"]
 The Night Chancers is the sixth studio album by English musician Baxter Dury. It was released on 20 March 2020 under [PIAS] France LE LABEL for the world and under Heavenly Recordings for the UK, Ireland and USA.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I'm Not Your Dog
-2. Slumlord
-3. Saliva Hog
-4. Samurai
-5. Sleep People
-6. Carla's Got A Boyfriend
-7. The Night Chancers
-8. Hello, I'm Sorry
-9. Daylight
-10. Say Nothing
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I'm Not Your Dog |  |
+| A2 | Slumlord |  |
+| A3 | Saliva Hog |  |
+| A4 | Samurai |  |
+| A5 | Sleep People |  |
+| B1 | Carla's Got A Boyfriend |  |
+| B2 | The Night Chancers |  |
+| B3 | Hello, I'm Sorry |  |
+| B4 | Daylight |  |
+| B5 | Say Nothing |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-night-chancers/1487696844" >}}<br>
 
 
-## Videos
-### Baxter Dury - Slumlord Official Music Video
-{{< youtube id="KWbVIv7DrU8" title="Baxter Dury - Slumlord Official Music Video" >}}<br>
-### More Videos
-
-- [Baxter Dury - Im Not Your Dog Official Music Video](https://www.youtube.com/watch?v=x_x9tB2Qsyk)
-- [Baxter Dury - Slumlord Official Music Video](https://www.youtube.com/watch?v=KWbVIv7DrU8)
-- [Baxter Dury - Im Not Your Dog Official Music Video](https://www.youtube.com/watch?v=x_x9tB2Qsyk)
-- [Baxter Dury - Carlas Got A Boyfriend Official Audio](https://www.youtube.com/watch?v=CaAszLkOh6w)
-- [Say Nothing](https://www.youtube.com/watch?v=tahejIw1jXw)
-- [The Night Chancers](https://www.youtube.com/watch?v=W-7-sddliMo)
-- [Baxter Dury - Samurai](https://www.youtube.com/watch?v=JsnwNgvXFEU)
-- [Saliva Hog](https://www.youtube.com/watch?v=CpMVX3UDev4)
-- [Hello Im Sorry](https://www.youtube.com/watch?v=GEst-mUxvRI)
-- [Baxter Dury - Carlas Got A Boyfriend](https://www.youtube.com/watch?v=MPj7GifljM8)
-- [Daylight](https://www.youtube.com/watch?v=hH8W0cM_718)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +63,5 @@ The Night Chancers is the sixth studio album by English musician Baxter Dury. It
 | Format         | Vinyl LP Album Limited Edition (Crystal Clear, Heavyweight) |
 | Label          | [PIAS] Le Label |
 | Catalog Number | PIASLL141LPC |
-| Notes | Limited heavyweight crystal vinyl edition. Contains download code printed on inner sleeve.  ℗ & © 2020 Le Label [PIAS] under exclusive license to Heavenly Recordings for UK, Ireland and USA. Made in the EU.  Recorded at Hoxa Strings recorded at The Church. |
+| Notes | Limited heavyweight crystal vinyl edition. Contains download code printed on inner sleeve.<br><br>℗ & © 2020 Le Label [PIAS] under exclusive license to Heavenly Recordings for UK, Ireland and USA. Made in the EU.<br><br>Recorded at Hoxa<br>Strings recorded at The Church. |
 | Discogs URL    | [Baxter Dury - The Night Chancers](https://www.discogs.com/release/14946788-Baxter-Dury-The-Night-Chancers) |

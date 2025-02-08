@@ -4,6 +4,7 @@ artist_name: "Mint Field"
 artist: "mint-field"
 album_name: "Pasar De Las Luces"
 date: 2018-06-13T17:28:19.000000Z
+release_date: "2018-02-23"
 release_id: "11608065"
 slug: "pasar-de-las-luces-11608065"
 hideSummary: true
@@ -24,34 +25,32 @@ styles: ["Shoegaze"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. El Parque Parecía No Tener Fin
-2. Ojos En El Carro
-3. Ciudad Satélite
-4. Temporada De Jacarandas
-5. Quiero Otoño De Nuevo
-6. Cambios Del Pasar
-7. Viceversa
-8. Nostalgia
-9. Boötes Void
-10. Nada Es Estático Y Evoluciona
-11. Club De Chicas
-12. Para Gali
-13. Párpados Morados
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | El Parque Parecía No Tener Fin |  |
+| A2 | Ojos En El Carro |  |
+| A3 | Ciudad Satélite |  |
+| B1 | Temporada De Jacarandas |  |
+| B2 | Quiero Otoño De Nuevo |  |
+| B3 | Cambios Del Pasar |  |
+| B4 | Viceversa |  |
+| C1 | Nostalgia |  |
+| C2 | Boötes Void |  |
+| C3 | Nada Es Estático Y Evoluciona |  |
+| D1 | Club De Chicas |  |
+| D2 | Para Gali |  |
+| D3 | Párpados Morados |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pasar-de-las-luces/1608120869" >}}<br>
 
 
-## Videos
-### Mint Field - Ojos En El Carro Official Video
-{{< youtube id="E6ENOMFlTGQ" title="Mint Field - Ojos En El Carro Official Video" >}}<br>
-### More Videos
-
-- [Mint Field - Quiero Otoño De Nuevo Official Video](https://www.youtube.com/watch?v=-E4HZt8u5QI)
-- [Mint Field - Ojos En El Carro Official Video](https://www.youtube.com/watch?v=E6ENOMFlTGQ)
-- [Mint Field - Quiero Otoño De Nuevo Official Video](https://www.youtube.com/watch?v=-E4HZt8u5QI)
 
 ## Release Images
 {{< imageGrid >}}

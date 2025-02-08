@@ -4,6 +4,7 @@ artist_name: "New Order"
 artist: "new-order"
 album_name: "Everythings Gone Green"
 date: 2019-03-15T20:43:21.000000Z
+release_date: "2009-09-01"
 release_id: "13345407"
 slug: "everythings-gone-green-13345407"
 hideSummary: true
@@ -24,26 +25,23 @@ styles: ["New Wave", "Electro"]
 As usual per New Order and Joy Division's releases, the recording date and location of the music is not disclosed on the original sleeve. The single was originally released in Belgium on Factory Benelux and bears the catalogue number FBN8. The single was later released in New Zealand in 1982 and was made available in the UK through import copies. The artwork was designed by Peter Saville with computer graphics on the cover designed by Stephen Morris and Gillian Gilbert.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Everythings Gone Green (5:31)
-2. Cries And Whispers (3:26)
-3. Mesh (3:03)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Everythings Gone Green | 5:31 |
+| B1 | Cries And Whispers | 3:26 |
+| B2 | Mesh | 3:03 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everythings-gone-green/720975455" >}}<br>
 
 
-## Videos
-### New Order - Everythings Gone Green Official Lyric Video
-{{< youtube id="Aaf-eqg8dvo" title="New Order - Everythings Gone Green Official Lyric Video" >}}<br>
-### More Videos
-
-- [Mesh 2023 Digital Master](https://www.youtube.com/watch?v=orWkj0KUJdY)
-- [New Order -- Cries and Whispers](https://www.youtube.com/watch?v=0NZfjbht79M)
 
 ## Release Images
 {{< imageGrid >}}

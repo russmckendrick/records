@@ -4,6 +4,7 @@ artist_name: "The Polyphonic Spree"
 artist: "the-polyphonic-spree"
 album_name: "The Beginning Stages Of..."
 date: 2015-10-08T07:49:19.000000Z
+release_date: "2002-06-04"
 release_id: "890127"
 slug: "the-beginning-stages-of-890127"
 hideSummary: true
@@ -32,37 +33,30 @@ styles: ["Alternative Rock", "Psychedelic Rock"]
 The Beginning Stages of... is the debut album from The Polyphonic Spree. The US re-release version of the album has both the original CD plus a bonus CD that features four alternate tracks and a music video for the single version of "Light and Day". The UK re-release is identical to the original release. The album is also available on gatefold vinyl.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Section 1 (Have A Day/Celebratory)
-2. Section 2 (It's The Sun)
-3. Section 3 (Days Like This Keep Me Warm)
-4. Section 4 (La La)
-5. Section 5 (Middle Of The Day)
-6. Section 6 (Hanging Around The Day Part 1)
-7. Section 7 (Hanging Around The Day Part 2)
-8. Section 8 (Soldier Girl)
-9. Section 9 (Light & Day / Reach For The Sun)
-10. Section 10 (A Long Day)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Section 1 (Have A Day/Celebratory) |  |
+| A2 | Section 2 (It's The Sun) |  |
+| A3 | Section 3 (Days Like This Keep Me Warm) |  |
+| A4 | Section 4 (La La) |  |
+| A5 | Section 5 (Middle Of The Day) |  |
+| B1 | Section 6 (Hanging Around The Day Part 1) |  |
+| B2 | Section 7 (Hanging Around The Day Part 2) |  |
+| C1 | Section 8 (Soldier Girl) |  |
+| C2 | Section 9 (Light & Day / Reach For The Sun) |  |
+| D1 | Section 10 (A Long Day) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-beginning-stages-of/1711109317" >}}<br>
 
 
-## Videos
-### the polyphonic spree - its the sun
-{{< youtube id="P9gk1PGZxaE" title="the polyphonic spree - its the sun" >}}<br>
-### More Videos
-
-- [The Polyphonic Spree - Hanging Around the Day Pt 1  2](https://www.youtube.com/watch?v=BiNf3VVuwjc)
-- [THE POLYPHONIC SPREE soldier girl](https://www.youtube.com/watch?v=4uzddaCSwpE)
-- [Light  Day  Reach for the Sun](https://www.youtube.com/watch?v=fnKrKbzlJiY)
-- [Light  Day  Reach For The Sun](https://www.youtube.com/watch?v=88TOTBUARGo)
-- [the polyphonic spree - its the sun](https://www.youtube.com/watch?v=P9gk1PGZxaE)
-- [The Polyphonic Spree - Hanging Around the Day Pt 1  2](https://www.youtube.com/watch?v=BiNf3VVuwjc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +68,5 @@ The Beginning Stages of... is the debut album from The Polyphonic Spree. The US 
 | Format         | Vinyl 2× LP Album Numbered |
 | Label          | 679 |
 | Catalog Number | 679L011TLP |
-| Notes | Additional voices on this recording include the members of the band as well as friends.  Engineered and recorded by Andy Baker at Dallas Sound Lab, Dallas, TX in 3 days (October 29-31, 2000).  Gatefold sleeve with printed inner sleeves. |
+| Notes | Additional voices on this recording include the members of the band as well as friends.<br>Engineered and recorded by Andy Baker at Dallas Sound Lab, Dallas, TX in 3 days (October 29-31, 2000).<br>Gatefold sleeve with printed inner sleeves. |
 | Discogs URL    | [The Polyphonic Spree - The Beginning Stages Of...](https://www.discogs.com/release/890127-The-Polyphonic-Spree-The-Beginning-Stages-Of) |

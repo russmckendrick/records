@@ -1,9 +1,10 @@
 ---
 title: "Skin - Skin"
 artist_name: "Skin"
-artist: "skin-4"
+artist: "skin"
 album_name: "Skin"
 date: 2018-12-17T19:15:09.000000Z
+release_date: "2024-03-29"
 release_id: "3142113"
 slug: "skin-3142113"
 hideSummary: true
@@ -22,33 +23,31 @@ styles: ["Hard Rock"]
 ---
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Money
-2. Shine Your Light
-3. House Of Love
-4. Colourblind
-5. Which Are The Tears
-6. Look But Don't Touch
-7. Nightsong
-8. Tower Of Strength
-9. Revolution
-10. Raised On Radio
-11. Wings Of An Angel
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Money |  |
+| A2 | Shine Your Light |  |
+| A3 | House Of Love |  |
+| A4 | Colourblind |  |
+| A5 | Which Are The Tears |  |
+| A6 | Look But Don't Touch |  |
+| B1 | Nightsong |  |
+| B2 | Tower Of Strength |  |
+| B3 | Revolution |  |
+| B4 | Raised On Radio |  |
+| B5 | Wings Of An Angel |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/us/album/skin/692260041" >}}<br>
 
 
-## Videos
-### Skin - Money
-{{< youtube id="1jYnGlaLf5I" title="Skin - Money" >}}<br>
-### More Videos
-
-- [SKIN - Shine Your Light 1993](https://www.youtube.com/watch?v=jkBX8h5P0No)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,5 +59,5 @@ styles: ["Hard Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Parlophone |
 | Catalog Number | 7243 8 28869 1 4 |
-| Notes | Printed in the U.K.   The number 7243 8 28869 1 4 appears on the spine and above the barcode box. The number PCSD 151 appears under the barcode box |
+| Notes | Printed in the U.K. <br><br>The number 7243 8 28869 1 4 appears on the spine and above the barcode box. The number PCSD 151 appears under the barcode box |
 | Discogs URL    | [Skin - Skin](https://www.discogs.com/release/3142113-Skin-4-Skin) |

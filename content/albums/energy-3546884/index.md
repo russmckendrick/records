@@ -32,38 +32,33 @@ The album stayed in print on Lookout until 2006, when the band took back its rec
 
 
 ## Tracklisting
-1. Knowledge (1:40)
-2. Sound System (2:14)
-3. Jaded (1:49)
-4. Take Warning (2:44)
-5. The Crowd (2:10)
-6. Bombshell (1:01)
-7. Unity (2:13)
-8. Vulnerability (1:58)
-9. Bankshot (1:30)
-10. One Of These Days (1:05)
-11. Gonna Find You (1:52)
-12. Bad Town (2:32)
-13. Smiling (1:44)
-14. Caution (1:23)
-15. Freeze Up (2:19)
-16. Artificial Life (2:03)
-17. Room Without A Window (1:31)
-18. Big City (2:14)
-19. Missionary (2:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Knowledge | 1:40 |
+| A2 | Sound System | 2:14 |
+| A3 | Jaded | 1:49 |
+| A4 | Take Warning | 2:44 |
+| A5 | The Crowd | 2:10 |
+| A6 | Bombshell | 1:01 |
+| A7 | Unity | 2:13 |
+| A8 | Vulnerability | 1:58 |
+| A9 | Bankshot | 1:30 |
+| A10 | One Of These Days | 1:05 |
+| B1 | Gonna Find You | 1:52 |
+| B2 | Bad Town | 2:32 |
+| B3 | Smiling | 1:44 |
+| B4 | Caution | 1:23 |
+| B5 | Freeze Up | 2:19 |
+| B6 | Artificial Life | 2:03 |
+| B7 | Room Without A Window | 1:31 |
+| B8 | Big City | 2:14 |
+| B9 | Missionary | 2:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/operation-ivy-2007-remaster/1485043761" >}}<br>
 
 
-## Videos
-### Operation Ivy - Energy 1991 Full Album Ska Punk  US
-{{< youtube id="ABbp6AoMCik" title="Operation Ivy - Energy 1991 Full Album Ska Punk  US" >}}<br>
-### More Videos
-
-- [Knowledge 2007 Remaster](https://www.youtube.com/watch?v=2ItT4f8O93Q)
-- [Bankshot 2007 Remaster](https://www.youtube.com/watch?v=v3arEYZxrzI)
-- [Room Without a Window 2007 Remaster](https://www.youtube.com/watch?v=8gW1ha3UsmI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +70,5 @@ The album stayed in print on Lookout until 2006, when the band took back its rec
 | Format         | Vinyl LP Album Reissue |
 | Label          | Hellcat Records |
 | Catalog Number | 86893-1 |
-| Notes | Recorded at Sound And Vision in San Francisco. Mixed at Dancing Dog in E-Ville. Mastered by John Golden at K-Disc, Hollywood.  Insert contains band info, lyrics, photos & artwork. |
+| Notes | Recorded at Sound And Vision in San Francisco.<br>Mixed at Dancing Dog in E-Ville.<br>Mastered by John Golden at K-Disc, Hollywood.<br><br>Insert contains band info, lyrics, photos & artwork. |
 | Discogs URL    | [Operation Ivy - Energy](https://www.discogs.com/release/3546884-Operation-Ivy-Energy) |

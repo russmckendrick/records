@@ -4,6 +4,7 @@ artist_name: "Kevin Morby"
 artist: "kevin-morby"
 album_name: "City Music"
 date: 2017-06-17T09:30:09.000000Z
+release_date: "2017-06-16"
 release_id: "10422791"
 slug: "city-music-10422791"
 hideSummary: true
@@ -38,33 +39,31 @@ The collective made its debut in 2019 with the release of two extended plays, Ma
 Maverick City Music's accolades include 5 Grammy Awards, 4 GMA Dove Awards, 1 Billboard Music Award, and 1 Soul Train Music Award.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Come To Me Now (4:50)
-2. Crybaby (3:58)
-3. 1234 (1:45)
-4. Aboard My Train (3:19)
-5. Dry Your Eyes (4:11)
-6. City Music (6:46)
-7. Tin Can (3:33)
-8. Caught In My Eye (4:49)
-9. Night Time (6:07)
-10. Pearly Gates (3:50)
-11. Downtown's Lights (4:23)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Come To Me Now | 4:50 |
+| A2 | Crybaby | 3:58 |
+| A3 | 1234 | 1:45 |
+| A4 | Aboard My Train | 3:19 |
+| A5 | Dry Your Eyes | 4:11 |
+| A6 | City Music | 6:46 |
+| B1 | Tin Can | 3:33 |
+| B2 | Caught In My Eye | 4:49 |
+| B3 | Night Time | 6:07 |
+| B4 | Pearly Gates | 3:50 |
+| B5 | Downtown's Lights | 4:23 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/city-music/1208719994" >}}<br>
 
 
-## Videos
-### Kevin Morby - City Music Official Video
-{{< youtube id="7cKM3tfAsEo" title="Kevin Morby - City Music Official Video" >}}<br>
-### More Videos
-
-- [Kevin Morby - Come To Me Now Official Lyric Video](https://www.youtube.com/watch?v=QLL3AmFnhL8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +75,5 @@ Maverick City Music's accolades include 5 Grammy Awards, 4 GMA Dove Awards, 1 Bi
 | Format         | Vinyl LP Album Club Edition (White & Orange Tie-Dye) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC131 |
-| Notes | "Ten new songs, a Germs cover and a Flannery O'Connor passage read by Meg Baird."  Includes a 12pg lyric booklet and a download card. Comes with two separate inserts, an art print and some additional liner notes/a cocktail recipe.  All songs written by Kevin Morby. © Kobalt Publishing, *except "Caught In My Eye", written by Darby Crash and "1234", which incorporates a portion of "People Who Died", written by Jim Carroll, Brian Linsley, Stephen Linsley, Terrell Winn and Wayne Woods.  ["People Who Died"] published by Dr. Benway Music (ASCAP); and Missing Finger Music (BMI). ["Caught In My Eye"] ©1981 Crash Course Music (BMI). Administered by BMG Bumblebee (BM).  ℗ & © 2017 Dead Oceans, Inc.  Recorded by Drew Fischer in Stinson Beach at Panoramic Studios and by Richard Swift in Cottage Grove, Oregon 2015 & 2016. |
+| Notes | "Ten new songs, a Germs cover and a Flannery O'Connor passage read by Meg Baird."<br><br>Includes a 12pg lyric booklet and a download card. Comes with two separate inserts, an art print and some additional liner notes/a cocktail recipe.<br><br>All songs written by Kevin Morby. © Kobalt Publishing, *except "Caught In My Eye", written by Darby Crash and "1234", which incorporates a portion of "People Who Died", written by Jim Carroll, Brian Linsley, Stephen Linsley, Terrell Winn and Wayne Woods.<br><br>["People Who Died"] published by Dr. Benway Music (ASCAP); and Missing Finger Music (BMI).<br>["Caught In My Eye"] ©1981 Crash Course Music (BMI). Administered by BMG Bumblebee (BM).<br><br>℗ & © 2017 Dead Oceans, Inc.<br><br>Recorded by Drew Fischer in Stinson Beach at Panoramic Studios and by Richard Swift in Cottage Grove, Oregon 2015 & 2016. |
 | Discogs URL    | [Kevin Morby - City Music](https://www.discogs.com/release/10422791-Kevin-Morby-City-Music) |

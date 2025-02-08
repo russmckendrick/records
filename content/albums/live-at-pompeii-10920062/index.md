@@ -4,6 +4,7 @@ artist_name: "David Gilmour"
 artist: "david-gilmour"
 album_name: "Live At Pompeii"
 date: 2017-09-29T17:27:50.000000Z
+release_date: "2017-09-29"
 release_id: "10920062"
 slug: "live-at-pompeii-10920062"
 hideSummary: true
@@ -53,71 +54,41 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 Live at Pompeii is a live album and film by David Gilmour, the guitarist of Pink Floyd. It was recorded at the Amphitheatre of Pompeii. It documents his 2015–16 world tour to promote his album, Rattle That Lock (2015). The concert was directed by Gavin Elder. The album was released on 29 September 2017 and is available on CD, LP, digital download, DVD, BD and deluxe box set containing the CD album and BD, plus a bonus exclusive BD of extras.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. 5 A.M.  (3:13)
-2. Rattle That Lock (5:21)
-3. Faces Of Stone (6:00)
-4. What Do You Want From Me (4:41)
-5. The Blue (6:34)
-6. The Great Gig In The Sky (6:02)
-7. A Boat Lies Waiting (4:56)
-8. Wish You Were Here (5:18)
-9. Money (8:13)
-10. In Any Tongue (7:56)
-11. High Hopes (9:38)
-12. One Of These Days (6:25)
-13. Shine On You Crazy Diamond (Parts 1-5) (12:30)
-14. Fat Old Sun (6:24)
-15. Coming Back To Life (7:10)
-16. On An Island (7:05)
-17. Today (6:43)
-18. Sorrow (10:51)
-19. Run Like Hell (7:23)
-20. Time / Breathe (In The Air) (Reprise)  (6:45)
-21. Comfortably Numb (9:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 5 A.M.  | 3:13 |
+| A2 | Rattle That Lock | 5:21 |
+| A3 | Faces Of Stone | 6:00 |
+| A4 | What Do You Want From Me | 4:41 |
+| B1 | The Blue | 6:34 |
+| B2 | The Great Gig In The Sky | 6:02 |
+| B3 | A Boat Lies Waiting | 4:56 |
+| C1 | Wish You Were Here | 5:18 |
+| C2 | Money | 8:13 |
+| C3 | In Any Tongue | 7:56 |
+| D1 | High Hopes | 9:38 |
+| D2 | One Of These Days | 6:25 |
+| E1 | Shine On You Crazy Diamond (Parts 1-5) | 12:30 |
+| E2 | Fat Old Sun | 6:24 |
+| F1 | Coming Back To Life | 7:10 |
+| F2 | On An Island | 7:05 |
+| F3 | Today | 6:43 |
+| G1 | Sorrow | 10:51 |
+| G2 | Run Like Hell | 7:23 |
+| H1 | Time / Breathe (In The Air) (Reprise)  | 6:45 |
+| H2 | Comfortably Numb | 9:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-pompeii/1260000840" >}}<br>
 
 
-## Videos
-### David Gilmour - One of These Days Live At Pompeii
-{{< youtube id="ABPQdXertbs" title="David Gilmour - One of These Days Live At Pompeii" >}}<br>
-### More Videos
-
-- [David Gilmour - Money Live At Pompeii](https://www.youtube.com/watch?v=26nZZSLs65o)
-- [David Gilmour - TimeBreathe Reprise Live At Pompeii](https://www.youtube.com/watch?v=sogFyPrAY5E)
-- [David Gilmour - Wish You Were Here Live At Pompeii](https://www.youtube.com/watch?v=WaEKXGlfYj8)
-- [David Gilmour - Comfortably Numb Live At Pompeii](https://www.youtube.com/watch?v=eHKG7EMxWW8)
-- [David Gilmour - Run Like Hell Live At Pompeii](https://www.youtube.com/watch?v=Z50ssGVeE94)
-- [David Gilmour - The Great Gig In the Sky Live At Pompeii](https://www.youtube.com/watch?v=jXRJSyHuG2I)
-- [David Gilmour - Shine On You Crazy Diamond Live At Pompeii](https://www.youtube.com/watch?v=CiXNIjGX1hY)
-- [David Gilmour - High Hopes Live At Pompeii](https://www.youtube.com/watch?v=-xveqYrKJTE)
-- [David Gilmour - Coming Back To Life Live At Pompeii](https://www.youtube.com/watch?v=YTaYw6V5HP4)
-- [David Gilmour - Sorrow Live At Pompeii](https://www.youtube.com/watch?v=q3ATfbYXqpc)
-- [David Gilmour - Fat Old Sun Live At Pompeii](https://www.youtube.com/watch?v=qB3dLKVSs6s)
-- [David Gilmour - Faces of Stone Live At Pompeii](https://www.youtube.com/watch?v=xFai4z9Z5bU)
-- [David Gilmour - In Any Tongue Live At Pompeii](https://www.youtube.com/watch?v=iOACn7v-_VI)
-- [David Gilmour - On An Island Live At Pompeii](https://www.youtube.com/watch?v=r49ehE3bU94)
-- [David Gilmour - One of These Days Live At Pompeii](https://www.youtube.com/watch?v=ABPQdXertbs)
-- [David Gilmour - Money Live At Pompeii](https://www.youtube.com/watch?v=26nZZSLs65o)
-- [David Gilmour - TimeBreathe Reprise Live At Pompeii](https://www.youtube.com/watch?v=sogFyPrAY5E)
-- [David Gilmour - Wish You Were Here Live At Pompeii](https://www.youtube.com/watch?v=WaEKXGlfYj8)
-- [David Gilmour - Comfortably Numb Live At Pompeii](https://www.youtube.com/watch?v=eHKG7EMxWW8)
-- [David Gilmour - Run Like Hell Live At Pompeii](https://www.youtube.com/watch?v=Z50ssGVeE94)
-- [David Gilmour - The Great Gig In the Sky Live At Pompeii](https://www.youtube.com/watch?v=jXRJSyHuG2I)
-- [David Gilmour - Shine On You Crazy Diamond Live At Pompeii](https://www.youtube.com/watch?v=CiXNIjGX1hY)
-- [David Gilmour - High Hopes Live At Pompeii](https://www.youtube.com/watch?v=-xveqYrKJTE)
-- [David Gilmour - Coming Back To Life Live At Pompeii](https://www.youtube.com/watch?v=YTaYw6V5HP4)
-- [David Gilmour - Sorrow Live At Pompeii](https://www.youtube.com/watch?v=q3ATfbYXqpc)
-- [David Gilmour - Fat Old Sun Live At Pompeii](https://www.youtube.com/watch?v=qB3dLKVSs6s)
-- [David Gilmour - Faces of Stone Live At Pompeii](https://www.youtube.com/watch?v=xFai4z9Z5bU)
-- [David Gilmour - In Any Tongue Live At Pompeii](https://www.youtube.com/watch?v=iOACn7v-_VI)
-- [David Gilmour - On An Island Live At Pompeii](https://www.youtube.com/watch?v=r49ehE3bU94)
 
 ## Release Images
 {{< imageGrid >}}
@@ -129,5 +100,5 @@ Live at Pompeii is a live album and film by David Gilmour, the guitarist of Pink
 | Format         | Vinyl 4× LP Album (180 gram), Box Set |
 | Label          | Columbia |
 | Catalog Number | 88985464971 |
-| Notes | Sticker - 88985464971 S1  David Gilmour The Voice & Guitar of Pink Floyd  Sticker - 88985464971 S2  4 LP Set 180 Gram Heavyweight Vinyl 2 Gatefold Jackets Polyliner inner bags 24-page photo booklet Heavyweight Slipcase  Made in the EU |
+| Notes | Sticker - 88985464971 S1<br><br>David Gilmour<br>The Voice & Guitar of Pink Floyd<br><br>Sticker - 88985464971 S2<br><br>4 LP Set 180 Gram<br>Heavyweight Vinyl<br>2 Gatefold Jackets<br>Polyliner inner bags<br>24-page photo booklet<br>Heavyweight Slipcase<br><br>Made in the EU |
 | Discogs URL    | [David Gilmour - Live At Pompeii](https://www.discogs.com/release/10920062-David-Gilmour-Live-At-Pompeii) |

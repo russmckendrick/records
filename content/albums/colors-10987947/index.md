@@ -4,6 +4,7 @@ artist_name: "Beck"
 artist: "beck"
 album_name: "Colors"
 date: 2017-12-24T11:35:56.000000Z
+release_date: "2017-10-13"
 release_id: "10987947"
 slug: "colors-10987947"
 hideSummary: true
@@ -27,25 +28,28 @@ styles: ["Dance-pop", "New Wave"]
 ---
 
 Colors is the thirteenth studio album by American musician Beck, released on October 13, 2017, by Fonograf Records &  Capitol Records. The album was recorded between 2013 and 2017, with Beck producing alongside Greg Kurstin. The album's earliest single, "Dreams", was released in June 2015, while three more singles ("Wow", "Dear Life" in Italy and "Up All Night" in the US) were released between June 2016 and September 2017. The title track was also released as a single in April 2018. The album won the Best Alternative Music Album and Best Engineered Album, Non-Classical at the 61st Annual Grammy Awards.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Colors (4:21)
-2. Seventh Heaven (5:00)
-3. I'm So Free (4:08)
-4. Dear Life (3:44)
-5. No Distraction (4:32)
-6. Dreams (4:57)
-7. Wow (3:42)
-8. Up All Night (3:10)
-9. Square One (2:55)
-10. Fix Me (3:13)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Colors | 4:21 |
+| A2 | Seventh Heaven | 5:00 |
+| A3 | I'm So Free | 4:08 |
+| A4 | Dear Life | 3:44 |
+| A5 | No Distraction | 4:32 |
+| B1 | Dreams | 4:57 |
+| B2 | Wow | 3:42 |
+| B3 | Up All Night | 3:10 |
+| B4 | Square One | 2:55 |
+| B5 | Fix Me | 3:13 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/colors/1440881121" >}}<br>
-
 
 
 
@@ -59,5 +63,5 @@ Colors is the thirteenth studio album by American musician Beck, released on Oct
 | Format         | Vinyl LP Album (Red) |
 | Label          | Fonograf Records |
 | Catalog Number | 00602557176803 |
-| Notes | Inc Download card with Exp date 10/13/19 12" x 12" Folded Lyric Insert |
+| Notes | Inc Download card with Exp date 10/13/19<br>12" x 12" Folded Lyric Insert |
 | Discogs URL    | [Beck - Colors](https://www.discogs.com/release/10987947-Beck-Colors) |

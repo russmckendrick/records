@@ -4,6 +4,7 @@ artist_name: "INXS"
 artist: "inxs"
 album_name: "The Very Best"
 date: 2023-03-11T03:01:39.000000Z
+release_date: "2011-01-01"
 release_id: "17981053"
 slug: "the-very-best-17981053"
 hideSummary: true
@@ -30,35 +31,38 @@ The Very Best is a greatest hits album released by Australian band INXS in 2011.
 Following the screening of INXS: Never Tear Us Apart, an Australian miniseries about INXS that commenced on 9 February 2014 on the Seven Network, the album re-entered the charts, peaking at number one. When the miniseries screened in New Zealand in August 2014, the album also charted, similarly peaking at number one.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Need You Tonight 
-2. Mystify
-3. Suicide Blonde
-4. Taste It
-5. Original Sin
-6. Heaven Sent
-7. Disappear
-8. Never Tear Us Apart
-9. The Gift
-10. Devil Inside
-11. Beautiful Girl
-12. By My Side
-13. Kiss The Dirt (Falling Down The Mountain)
-14. Elegantly Wasted
-15. New Sensation
-16. What You Need
-17. Listen Like Thieves
-18. Just Keep Walking
-19. Bitter Tears
-20. Baby Don't Cry
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Need You Tonight  |  |
+| A2 | Mystify |  |
+| A3 | Suicide Blonde |  |
+| A4 | Taste It |  |
+| A5 | Original Sin |  |
+| B1 | Heaven Sent |  |
+| B2 | Disappear |  |
+| B3 | Never Tear Us Apart |  |
+| B4 | The Gift |  |
+| B5 | Devil Inside |  |
+| C1 | Beautiful Girl |  |
+| C2 | By My Side |  |
+| C3 | Kiss The Dirt (Falling Down The Mountain) |  |
+| C4 | Elegantly Wasted |  |
+| C5 | New Sensation |  |
+| D1 | What You Need |  |
+| D2 | Listen Like Thieves |  |
+| D3 | Just Keep Walking |  |
+| D4 | Bitter Tears |  |
+| D5 | Baby Don't Cry |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best/1440521939" >}}<br>
-
 
 
 

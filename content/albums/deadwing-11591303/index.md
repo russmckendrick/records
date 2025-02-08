@@ -4,6 +4,7 @@ artist_name: "Porcupine Tree"
 artist: "porcupine-tree"
 album_name: "Deadwing"
 date: 2018-02-23T18:57:11.000000Z
+release_date: "2005-03-28"
 release_id: "11591303"
 slug: "deadwing-11591303"
 hideSummary: true
@@ -39,41 +40,31 @@ The album includes collaborations with King Crimson's Adrian Belew, who plays gu
 In 2017, Kscope Records purchased the album as well as the previous album In Absentia; both were remastered and rereleased in 2018 through the label, with the new versions having less compression and an overall improvement in sound quality.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Deadwing (9:46)
-2. Shallow (4:16)
-3. Lazarus (4:18)
-4. Halo (4:38)
-5. Arriving Somewhere But Not Here (12:02)
-6. Mellotron Scratch (6:56)
-7. Open Car (3:46)
-8. Start Of Something Beautiful (7:39)
-9. Glass Arm Shattering (6:13)
-10. So Called Friend  (4:48)
-11. Half-Light (6:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Deadwing | 9:46 |
+| A2 | Shallow | 4:16 |
+| A3 | Lazarus | 4:18 |
+| B1 | Halo | 4:38 |
+| B2 | Arriving Somewhere But Not Here | 12:02 |
+| C1 | Mellotron Scratch | 6:56 |
+| C2 | Open Car | 3:46 |
+| C3 | Start Of Something Beautiful | 7:39 |
+| D1 | Glass Arm Shattering | 6:13 |
+| D2 | So Called Friend  | 4:48 |
+| D3 | Half-Light | 6:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/deadwing/1770060647" >}}<br>
 
 
-## Videos
-### Deadwing
-{{< youtube id="gZDE8UGVQyU" title="Deadwing" >}}<br>
-### More Videos
-
-- [Shallow](https://www.youtube.com/watch?v=1lym_8nmyJI)
-- [Lazarus](https://www.youtube.com/watch?v=WeyIOc_A3G4)
-- [Halo](https://www.youtube.com/watch?v=RFowJjldSww)
-- [Arriving Somewhere But Not Here](https://www.youtube.com/watch?v=Kpeip2B8l2E)
-- [Mellotron Scratch](https://www.youtube.com/watch?v=rBNu-rILsE0)
-- [Open Car](https://www.youtube.com/watch?v=xuORaGlbBoQ)
-- [The Start of Something Beautiful](https://www.youtube.com/watch?v=x_O8HZpkaH0)
-- [Glass Arm Shattering](https://www.youtube.com/watch?v=HwgLkvHM6js)
-- [Unboxing Porcupine Tree - Deadwing 2023 Deluxe Edition](https://www.youtube.com/watch?v=NeBqm0B2z3s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +76,5 @@ In 2017, Kscope Records purchased the album as well as the previous album In Abs
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Clear) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE982 |
-| Notes | Recorded in England between March-Oct 2004 at No Man's Land, The Artillery, Bourne Place, New Rising, RAK, Astoria and Livingstone. Some elements retained from demos recorded 2003-04.  Deadwing is based on the first screenplay by Steven Wilson and Mike Bennion  Remastered  by SW November 2017  Gatefold cover with printed inner sleeves.  |
+| Notes | Recorded in England between March-Oct 2004 at No Man's Land, The Artillery, Bourne Place, New Rising, RAK, Astoria and Livingstone.<br>Some elements retained from demos recorded 2003-04.<br><br>Deadwing is based on the first screenplay by Steven Wilson and Mike Bennion<br><br>Remastered  by SW November 2017<br><br>Gatefold cover with printed inner sleeves.  |
 | Discogs URL    | [Porcupine Tree - Deadwing](https://www.discogs.com/release/11591303-Porcupine-Tree-Deadwing) |

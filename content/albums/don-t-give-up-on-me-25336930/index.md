@@ -4,6 +4,7 @@ artist_name: "Solomon Burke"
 artist: "solomon-burke"
 album_name: "Don't Give Up On Me"
 date: 2022-12-02T07:57:17.000000Z
+release_date: "2002-07-23"
 release_id: "25336930"
 slug: "don-t-give-up-on-me-25336930"
 hideSummary: true
@@ -22,42 +23,32 @@ Don't Give Up on Me is a studio album by American R&B/Soul singer Solomon Burke,
 The title track, written by the team of Dan Penn and Carson Whitsett with Hoy Lindsey, gained popularity (and introduced Burke to a new generation) when it was used several times on the popular primetime teen soap opera The O.C. as one of the signature song of adult couple Sandy and Kirsten Cohen, played by Peter Gallagher and Kelly Rowan. It became a staple of Burke's live performances and has been covered by Joe Cocker, as well as Peter Gallagher, who also performed the song on The O.C.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Don't Give Up On Me
-2. Fast Train
-3. Diamond In Your Mind
-4. Flesh And Blood
-5. Soul Searchin'
-6. Only A Dream
-7. The Judgement
-8. Stepchild
-9. The Other Side Of The Coin
-10. None Of Us Are Free
-11. Sit This One Out
-12. I Need A Holiday
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Don't Give Up On Me |  |
+| A2 | Fast Train |  |
+| A3 | Diamond In Your Mind |  |
+| B1 | Flesh And Blood |  |
+| B2 | Soul Searchin' |  |
+| B3 | Only A Dream |  |
+| C1 | The Judgement |  |
+| C2 | Stepchild |  |
+| C3 | The Other Side Of The Coin |  |
+| D1 | None Of Us Are Free |  |
+| D2 | Sit This One Out |  |
+| D3 | I Need A Holiday |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dont-give-up-on-me/1485019443" >}}<br>
 
 
-## Videos
-### Dont Give Up On Me
-{{< youtube id="tbvZ6CawWEY" title="Dont Give Up On Me" >}}<br>
-### More Videos
-
-- [Fast Train](https://www.youtube.com/watch?v=mqmxkGjow1A)
-- [Only A Dream](https://www.youtube.com/watch?v=mKShWA7lvbI)
-- [Diamond In Your Mind](https://www.youtube.com/watch?v=pLp7kH4jxRA)
-- [Soul Searchin](https://www.youtube.com/watch?v=GdG3ngeyaXQ)
-- [The Judgement](https://www.youtube.com/watch?v=tE4tk8bl784)
-- [The Other Side Of The Coin](https://www.youtube.com/watch?v=Q8lu8LqG2oQ)
-- [Sit This One Out](https://www.youtube.com/watch?v=peRzfSGUMcU)
-- [Stepchild](https://www.youtube.com/watch?v=XJngNK33msU)
-- [Flesh And Blood](https://www.youtube.com/watch?v=dR43hOzfkbw)
 
 ## Release Images
 {{< imageGrid >}}

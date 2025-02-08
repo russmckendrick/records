@@ -33,37 +33,30 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 
 
 ## Tracklisting
-1. Spirit Of Eden
-2. The Rainbow
-3. Eden
-4. Desire
-5. Inheritance
-6. I Believe In You
-7. Wealth
-8. Spirit Of Eden
-9. The Rainbow
-10. Eden
-11. Desire
-12. Inheritance
-13. I Believe In You
-14. Wealth
-15. -
-16. John Cope
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Spirit Of Eden |  |
+| LP-A1 | The Rainbow |  |
+| LP-A2 | Eden |  |
+| LP-A3 | Desire |  |
+| LP-B1 | Inheritance |  |
+| LP-B2 | I Believe In You |  |
+| LP-B3 | Wealth |  |
+|  | Spirit Of Eden |  |
+| DVD-1 | The Rainbow |  |
+| DVD-2 | Eden |  |
+| DVD-3 | Desire |  |
+| DVD-4 | Inheritance |  |
+| DVD-5 | I Believe In You |  |
+| DVD-6 | Wealth |  |
+|  | - |  |
+| DVD-7 | John Cope |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/spirit-of-eden/701395363" >}}<br>
 
 
-## Videos
-### The Rainbow 1997 Remaster
-{{< youtube id="AFQETve1wS0" title="The Rainbow 1997 Remaster" >}}<br>
-### More Videos
-
-- [Desire 1997 Remaster](https://www.youtube.com/watch?v=tfnmMl3WmBo)
-- [Eden 1997 Remaster](https://www.youtube.com/watch?v=yVQlFEynONQ)
-- [I Believe in You 1997 Remaster](https://www.youtube.com/watch?v=3EBTk5brQVY)
-- [Inheritance 1997 Remaster](https://www.youtube.com/watch?v=_-J_pnpZDss)
-- [Wealth 1997 Remaster](https://www.youtube.com/watch?v=9-UKgrd2E6Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +68,5 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 | Format         | Vinyl LP Album Reissue Stereo (180 gram), DVD DVD-Video NTSC Album Reissue Stereo |
 | Label          | Parlophone |
 | Catalog Number | PCSDX 105 |
-| Notes | This release is identical to [r=13758598] in every regard except the Parlophone Records related text at the bottom of the rear cover is spread over two lines rather than three.  This reissue set includes:  - a heavyweight 180gm vinyl LP pressing. - an audio only DVD-Video (NTSC, Region 0) containing the album delivered as a 96kHz/24 bit LPCM stereo mix.  The LP is housed in a regular spined sleeve including an inner bag with lyrics. The DVD is housed in a cardboard sleeve, tucked inside the vinyl cover.  The DVD includes an additional track, "John Cope", originally released in 1988 as B-side of "I Believe In You".  ℗ 1988 The copyright of this compilation is owned by EMI Records Ltd. © 2012 EMI Records Ltd. This label copy information is the subject of copyright protection. All rights reserved. © 2012 EMI Records Ltd. Printed in the EU. 5099932778717  Credits and Mark Hollis' handwritten lyrics are printed on the inner sleeve. A1 to A3 is a continuous track.  Audio only DVD: DVD 9 / region 0 / NTSC / aspect ratio: 16:9. 96khz/24bit LPCM stereo. Exempt from classification duration: 45.44.   Although the audio on this DVD has been transferred from the original analogue stereo masters at 96khz/24bit, the audio used to create the final mix was bounced down from 2" reel-to-reel 24-track tapes, to a Mitsubishi ProDigi 32-track digital recorder which only recorded at a sampling rate of 44.1khz.  This means there is no content above 22khz on the original digital recordings and therefore all mixes / copies that followed would also be lacking in content above 22khz.   ℗ 2012 the copyright in this compilation is owned by EMI Records Ltd. © 2012 EMI Records Ltd. This label copy information is the subject of copyright protection. all rights reserved. © 2012 EMI Records Ltd. Printed in the EU.   DVD comes in a card sleeve.  |
+| Notes | This release is identical to [r=13758598] in every regard except the Parlophone Records related text at the bottom of the rear cover is spread over two lines rather than three.<br><br>This reissue set includes: <br>- a heavyweight 180gm vinyl LP pressing.<br>- an audio only DVD-Video (NTSC, Region 0) containing the album delivered as a 96kHz/24 bit LPCM stereo mix.<br><br>The LP is housed in a regular spined sleeve including an inner bag with lyrics.<br>The DVD is housed in a cardboard sleeve, tucked inside the vinyl cover.<br><br>The DVD includes an additional track, "John Cope", originally released in 1988 as B-side of "I Believe In You".<br><br>℗ 1988 The copyright of this compilation is owned by EMI Records Ltd.<br>© 2012 EMI Records Ltd. This label copy information is the subject of copyright protection. All rights reserved.<br>© 2012 EMI Records Ltd. Printed in the EU. 5099932778717<br><br>Credits and Mark Hollis' handwritten lyrics are printed on the inner sleeve.<br>A1 to A3 is a continuous track.<br><br>Audio only DVD: DVD 9 / region 0 / NTSC / aspect ratio: 16:9. 96khz/24bit LPCM stereo. Exempt from classification duration: 45.44. <br><br>Although the audio on this DVD has been transferred from the original analogue stereo masters at 96khz/24bit, the audio used to create the final mix was bounced down from 2" reel-to-reel 24-track tapes, to a Mitsubishi ProDigi 32-track digital recorder which only recorded at a sampling rate of 44.1khz.  This means there is no content above 22khz on the original digital recordings and therefore all mixes / copies that followed would also be lacking in content above 22khz. <br><br>℗ 2012 the copyright in this compilation is owned by EMI Records Ltd. © 2012 EMI Records Ltd. This label copy information is the subject of copyright protection. all rights reserved. © 2012 EMI Records Ltd. Printed in the EU. <br><br>DVD comes in a card sleeve.<br> |
 | Discogs URL    | [Talk Talk - Spirit Of Eden](https://www.discogs.com/release/3552909-Talk-Talk-Spirit-Of-Eden) |

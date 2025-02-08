@@ -32,34 +32,24 @@ Coming Up is the third album by English alternative rock band Suede, released on
 
 
 ## Tracklisting
-1. Trash (4:06)
-2. Filmstar (3:25)
-3. Lazy (3:19)
-4. By The Sea (4:15)
-5. She (3:38)
-6. Beautiful Ones (3:50)
-7. Starcrazy (3:33)
-8. Picnic By The Motorway (4:45)
-9. The Chemistry Between Us (7:04)
-10. Saturday Night (4:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Trash | 4:06 |
+| A2 | Filmstar | 3:25 |
+| A3 | Lazy | 3:19 |
+| A4 | By The Sea | 4:15 |
+| A5 | She | 3:38 |
+| B1 | Beautiful Ones | 3:50 |
+| B2 | Starcrazy | 3:33 |
+| B3 | Picnic By The Motorway | 4:45 |
+| B4 | The Chemistry Between Us | 7:04 |
+| B5 | Saturday Night | 4:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/coming-up-remastered/435030230" >}}<br>
 
 
-## Videos
-### Suede - Beautiful Ones Official Video
-{{< youtube id="xqovGKdgAXY" title="Suede - Beautiful Ones Official Video" >}}<br>
-### More Videos
-
-- [Suede - Lazy Official Video](https://www.youtube.com/watch?v=YP2enk5w5fk)
-- [Suede - She Live in Germany 1997](https://www.youtube.com/watch?v=OeWcVu0tiA0)
-- [She Remastered](https://www.youtube.com/watch?v=oia2fXQAlyg)
-- [Suede - Beautiful Ones](https://www.youtube.com/watch?v=xqovGKdgAXY)
-- [Suede - Trash](https://www.youtube.com/watch?v=-PdKGDMhau4)
-- [Suede - Saturday Night](https://www.youtube.com/watch?v=wEWn0aVcuSM)
-- [Suede - Lazy](https://www.youtube.com/watch?v=YP2enk5w5fk)
-- [Suede - Filmstar](https://www.youtube.com/watch?v=PX6L65xgOzY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +61,5 @@ Coming Up is the third album by English alternative rock band Suede, released on
 | Format         | Vinyl LP Album Reissue |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 3 |
-| Notes | 180 gram vinyl. Demon Records Ltd release. Some copies have a MP3 download card. Pressing plant uncredited, identified by the matrix numbers. |
+| Notes | 180 gram vinyl.<br>Demon Records Ltd release.<br>Some copies have a MP3 download card.<br>Pressing plant uncredited, identified by the matrix numbers. |
 | Discogs URL    | [Suede - Coming Up](https://www.discogs.com/release/5410320-Suede-Coming-Up) |

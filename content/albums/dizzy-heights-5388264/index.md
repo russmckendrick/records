@@ -4,6 +4,7 @@ artist_name: "Neil Finn"
 artist: "neil-finn"
 album_name: "Dizzy Heights"
 date: 2015-10-04T11:26:45.000000Z
+release_date: "2014-02-07"
 release_id: "5388264"
 slug: "dizzy-heights-5388264"
 hideSummary: true
@@ -23,35 +24,31 @@ styles: ["Pop Rock", "Alternative Rock"]
 ---
 
 Dizzy Heights, released in February 2014, is the third solo album by New Zealand singer-songwriter, Neil Finn.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Impressions
-2. Dizzy Heights
-3. Flying In The Face Of Love
-4. Divebomber
-5. Better Than TV
-6. Pony Ride
-7. White Lies And Alibis
-8. Recluse
-9. Strangest Friends
-10. In My Blood
-11. Lights Of New York
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Impressions |  |
+| A2 | Dizzy Heights |  |
+| A3 | Flying In The Face Of Love |  |
+| A4 | Divebomber |  |
+| A5 | Better Than TV |  |
+| A6 | Pony Ride |  |
+| B1 | White Lies And Alibis |  |
+| B2 | Recluse |  |
+| B3 | Strangest Friends |  |
+| B4 | In My Blood |  |
+| B5 | Lights Of New York |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dizzy-heights-bonus-track-version/727690973" >}}<br>
 
 
-## Videos
-### Neil Finn - Divebomber
-{{< youtube id="ks_-25Fgh5U" title="Neil Finn - Divebomber" >}}<br>
-### More Videos
-
-- [Neil Finn - Dizzy Heights](https://www.youtube.com/watch?v=d67sb3rBmlo)
-- [Neil Finn - Divebomber](https://www.youtube.com/watch?v=ks_-25Fgh5U)
-- [Neil Finn - Divebomber](https://www.youtube.com/watch?v=ks_-25Fgh5U)
 
 ## Release Images
 {{< imageGrid >}}

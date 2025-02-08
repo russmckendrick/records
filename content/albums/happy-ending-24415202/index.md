@@ -4,6 +4,7 @@ artist_name: "Hifi Sean"
 artist: "hifi-sean"
 album_name: "Happy Ending"
 date: 2024-09-07T06:19:13.000000Z
+release_date: "2023-02-03"
 release_id: "24415202"
 slug: "happy-ending-24415202"
 hideSummary: true
@@ -23,37 +24,33 @@ In storylines where the protagonists are in physical danger, a happy ending main
 A happy ending is epitomized in the standard fairy tale ending phrase, "happily ever after" or "and they lived happily ever after". (One Thousand and One Nights has the more restrained formula "they lived happily until there came to them the One who Destroys all Happiness" (i.e. Death); likewise, the Russian versions of fairy tales typically end with "they lived long and happily, and died together on the same day".) Satisfactory happy endings are happy for the reader as well, in that the characters they sympathize with are rewarded. However, this can also serve as an open path for a possible sequel. For example, in the 1977 film Star Wars, Luke Skywalker defeats the Galactic Empire by destroying the Death Star; however, the story's happy ending has consequences that follow in 1980's The Empire Strikes Back that are reversed in 1983's Return of the Jedi. The concept of a permanent happy ending is specifically brought up in the Stephen King fantasy/fairy tale novel The Eyes of the Dragon which has a standard good ending for the genre, but simply states that "there were good days and bad days" afterwards.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Happy Ending
-2. The Fever
-3. Beautiful
-4. Hurricanes
-5. All In The World
-6. Diamond Dust
-7. The Skin I'm In
-8. Maybe
-9. Bunker To Bunker
-10. Transatlantic
-11. Real Thoughts In Real Time
-12. Otherwise
-13. Aurora (Parts 1 & 2)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Happy Ending |  |
+| A2 | The Fever |  |
+| A3 | Beautiful |  |
+| B1 | Hurricanes |  |
+| B2 | All In The World |  |
+| B3 | Diamond Dust |  |
+| C1 | The Skin I'm In |  |
+| C2 | Maybe |  |
+| C3 | Bunker To Bunker |  |
+| C4 | Transatlantic |  |
+| D1 | Real Thoughts In Real Time |  |
+| D2 | Otherwise |  |
+| D3 | Aurora (Parts 1 & 2) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/happy-ending/1660268623" >}}<br>
 
 
-## Videos
-### Real Thoughts In Real Time
-{{< youtube id="NdFkwnR7yX8" title="Real Thoughts In Real Time" >}}<br>
-### More Videos
-
-- [The Fever](https://www.youtube.com/watch?v=lfn6YNzvYgc)
-- [Hifi Sean  David McAlmont - Beautiful](https://www.youtube.com/watch?v=geZ8smiU7rw)
-- [Happy Ending](https://www.youtube.com/watch?v=DAUvrlCE3R4)
 
 ## Release Images
 {{< imageGrid >}}

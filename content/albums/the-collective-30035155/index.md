@@ -4,6 +4,7 @@ artist_name: "Kim Gordon"
 artist: "kim-gordon"
 album_name: "The Collective"
 date: 2024-03-12T12:44:10.000000Z
+release_date: "2024-03-08"
 release_id: "30035155"
 slug: "the-collective-30035155"
 hideSummary: true
@@ -27,53 +28,31 @@ styles: ["Noise Rock", "No Wave", "Trap", "Illbient", "Leftfield"]
 ---
 
 The Collective is the second solo studio album by the American musician Kim Gordon, released on March 8, 2024, by Matador Records. It received acclaim from critics. It also received two nominations at the 67th Annual Grammy Awards: Best Alternative Music Album and Best Alternative Music Performance (for "Bye Bye").
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Bye Bye
-2. The Candy House
-3. I Don't Miss My Mind
-4. I'm A Man
-5. Trophies
-6. It's Dark Inside
-7. Psychedelic Orgasm
-8. Tree House
-9. Shelf Warmer
-10. The Believers
-11. Dream Dollar
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Bye Bye |  |
+| A2 | The Candy House |  |
+| A3 | I Don't Miss My Mind |  |
+| A4 | I'm A Man |  |
+| A5 | Trophies |  |
+| A6 | It's Dark Inside |  |
+| B1 | Psychedelic Orgasm |  |
+| B2 | Tree House |  |
+| B3 | Shelf Warmer |  |
+| B4 | The Believers |  |
+| B5 | Dream Dollar |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-collective/1719712035" >}}<br>
 
 
-## Videos
-### Kim Gordon - BYE BYE Official Music Video
-{{< youtube id="IZ3i80B0qKg" title="Kim Gordon - BYE BYE Official Music Video" >}}<br>
-### More Videos
-
-- [Kim Gordon - The Candy House Official Audio](https://www.youtube.com/watch?v=Q_3KJkezWOs)
-- [Kim Gordon - I Dont Miss My Mind Official Audio](https://www.youtube.com/watch?v=wjyktFqiOZc)
-- [Kim Gordon- Im a Man Official Music Video](https://www.youtube.com/watch?v=ioKP3ORu0QY)
-- [Kim Gordon - Trophies Official Audio](https://www.youtube.com/watch?v=YECXEjt4lNQ)
-- [Kim Gordon - Its Dark Inside Official Audio](https://www.youtube.com/watch?v=RVndycw2Sng)
-- [Kim Gordon- Psychedelic Orgasm Official Music Video](https://www.youtube.com/watch?v=cdn2A3MVnfE)
-- [Kim Gordon - Tree House Official Audio](https://www.youtube.com/watch?v=GkGuOz7toz0)
-- [Kim Gordon - Shelf Warmer Official Audio](https://www.youtube.com/watch?v=pzCPToX5PyU)
-- [Kim Gordon - The Believers Official Audio](https://www.youtube.com/watch?v=aZ32GjG7jPs)
-- [Kim Gordon - Dream Dollar Official Audio](https://www.youtube.com/watch?v=OKo0ilO01YQ)
-- [Kim Gordon - BYE BYE Official Music Video](https://www.youtube.com/watch?v=IZ3i80B0qKg)
-- [Kim Gordon - The Candy House Official Audio](https://www.youtube.com/watch?v=Q_3KJkezWOs)
-- [Kim Gordon - I Dont Miss My Mind Official Audio](https://www.youtube.com/watch?v=wjyktFqiOZc)
-- [Kim Gordon- Im a Man Official Music Video](https://www.youtube.com/watch?v=ioKP3ORu0QY)
-- [Kim Gordon - Trophies Official Audio](https://www.youtube.com/watch?v=YECXEjt4lNQ)
-- [Kim Gordon - Its Dark Inside Official Audio](https://www.youtube.com/watch?v=RVndycw2Sng)
-- [Kim Gordon- Psychedelic Orgasm Official Music Video](https://www.youtube.com/watch?v=cdn2A3MVnfE)
-- [Kim Gordon - Tree House Official Audio](https://www.youtube.com/watch?v=GkGuOz7toz0)
-- [Kim Gordon - Shelf Warmer Official Audio](https://www.youtube.com/watch?v=pzCPToX5PyU)
-- [Kim Gordon - The Believers Official Audio](https://www.youtube.com/watch?v=aZ32GjG7jPs)
-- [Kim Gordon - Dream Dollar Official Audio](https://www.youtube.com/watch?v=OKo0ilO01YQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +64,5 @@ The Collective is the second solo studio album by the American musician Kim Gord
 | Format         | Vinyl LP Album Limited Edition Stereo (Coke Bottle Green) |
 | Label          | Matador |
 | Catalog Number | OLE2029LP |
-| Notes | Packaged in a glossy sleeve. Includes a printed inner sleeve. Hype sticker: Limited edition coke bottle green vinyl Some copies came with a signed poster.  © & ℗ 2023 Matador Records. 134 Grand St New York NY 10013.  Recorded at Justin Raisen's Home STudio, Los Angeles, CA  Published by: Forgetful Songs (BMI), Brought To You By Heavy Duty (ASCAP) / Heavy Duty Music Publishing, Brought To You By Heavy Duty (ASCAP) / Heavy Duty Music Publishing, Anthony Paul Lopez Publishing, Van Cortlandt Music (SESAC) |
+| Notes | Packaged in a glossy sleeve.<br>Includes a printed inner sleeve.<br>Hype sticker: Limited edition coke bottle green vinyl<br>Some copies came with a signed poster.<br><br>© & ℗ 2023 Matador Records. 134 Grand St New York NY 10013.<br><br>Recorded at Justin Raisen's Home STudio, Los Angeles, CA<br><br>Published by: Forgetful Songs (BMI), Brought To You By Heavy Duty (ASCAP) / Heavy Duty Music Publishing, Brought To You By Heavy Duty (ASCAP) / Heavy Duty Music Publishing, Anthony Paul Lopez Publishing, Van Cortlandt Music (SESAC) |
 | Discogs URL    | [Kim Gordon - The Collective](https://www.discogs.com/release/30035155-Kim-Gordon-The-Collective) |

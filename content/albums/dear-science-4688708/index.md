@@ -4,6 +4,7 @@ artist_name: "TV On The Radio"
 artist: "tv-on-the-radio"
 album_name: "Dear Science"
 date: 2016-02-24T13:04:00.000000Z
+release_date: "2008-09-21"
 release_id: "4688708"
 slug: "dear-science-4688708"
 hideSummary: true
@@ -27,49 +28,31 @@ styles: ["Leftfield", "Indie Rock"]
 
 Dear Science is the third studio album by the band TV on the Radio. It was released on September 16, 2008, digitally through Touch and Go Records, with the physical release coming a week later through Interscope Records and DGC Records in North America and 4AD elsewhere.
 As of 2012, sales in the United States have exceeded 203,000 copies, according to Nielsen SoundScan. In 2009, it was awarded a gold certification from the Independent Music Companies Association, which indicated sales of at least 100,000 copies throughout Europe.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Halfway Home (5:32)
-2. Crying (4:11)
-3. Dancing Choose (2:56)
-4. Stork & Owl (4:02)
-5. Golden Age (4:12)
-6. Family Tree (5:34)
-7. Red Dress (4:25)
-8. Love Dog (5:36)
-9. Shout Me Out (4:16)
-10. DLZ (3:49)
-11. Lover's Day (5:54)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Halfway Home | 5:32 |
+| A2 | Crying | 4:11 |
+| A3 | Dancing Choose | 2:56 |
+| B1 | Stork & Owl | 4:02 |
+| B2 | Golden Age | 4:12 |
+| B3 | Family Tree | 5:34 |
+| C1 | Red Dress | 4:25 |
+| C2 | Love Dog | 5:36 |
+| C3 | Shout Me Out | 4:16 |
+| D1 | DLZ | 3:49 |
+| D2 | Lover's Day | 5:54 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dear-science/1437099341" >}}<br>
 
 
-## Videos
-### Love Dog
-{{< youtube id="jigPcKz3pSQ" title="Love Dog" >}}<br>
-### More Videos
-
-- [Family Tree](https://www.youtube.com/watch?v=nCdYMs66Y38)
-- [Heroic Dose](https://www.youtube.com/watch?v=KiiOhcJ24EY)
-- [DLZ](https://www.youtube.com/watch?v=0BAtp5yi5-4)
-- [Love Dog](https://www.youtube.com/watch?v=e3QoNBCNWRY)
-- [TV On The Radio - Golden Age](https://www.youtube.com/watch?v=2wTHxUl9WdQ)
-- [Family Tree](https://www.youtube.com/watch?v=1oKgKT8yONs)
-- [DLZ](https://www.youtube.com/watch?v=E6qCnRe3KDw)
-- [Halfway Home](https://www.youtube.com/watch?v=7qFI86BkC3Q)
-- [Family Tree](https://www.youtube.com/watch?v=TQOGnwNzgMo)
-- [TV On The Radio - Golden Age Official Video](https://www.youtube.com/watch?v=Fl4Oms4qcoE)
-- [Crying](https://www.youtube.com/watch?v=pNNpPdDWNEs)
-- [Stork  Owl](https://www.youtube.com/watch?v=NEkaQkt6vZc)
-- [Dancing Choose](https://www.youtube.com/watch?v=GXvoYbIDCVE)
-- [TV On The Radio - Golden Age](https://www.youtube.com/watch?v=2wTHxUl9WdQ)
-- [Love Dog](https://www.youtube.com/watch?v=jigPcKz3pSQ)
-- [Family Tree](https://www.youtube.com/watch?v=nCdYMs66Y38)
-- [Heroic Dose](https://www.youtube.com/watch?v=KiiOhcJ24EY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +64,5 @@ As of 2012, sales in the United States have exceeded 203,000 copies, according t
 | Format         | Vinyl 2× LP Reissue (White, Gatefold, 180g) |
 | Label          | 4AD |
 | Catalog Number | CAD2821 |
-| Notes | "TV On The Radio" is not printed on the sleeve, it is a sticker on the shrink. Gatefold sleeve.  ℗ & © 2008 Touch and Go Records, exclusively licensed to 4AD.  Recorded at Stay Gold Studio, Brooklyn, NY 2008. Mixed at Chalice Studios, Los Angeles, CA.  Track durations not listed on the release. |
+| Notes | "TV On The Radio" is not printed on the sleeve, it is a sticker on the shrink.<br>Gatefold sleeve.<br><br>℗ & © 2008 Touch and Go Records, exclusively licensed to 4AD.<br><br>Recorded at Stay Gold Studio, Brooklyn, NY 2008.<br>Mixed at Chalice Studios, Los Angeles, CA.<br><br>Track durations not listed on the release. |
 | Discogs URL    | [TV On The Radio - Dear Science](https://www.discogs.com/release/4688708-TV-On-The-Radio-Dear-Science) |

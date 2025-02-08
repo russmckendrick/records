@@ -1,16 +1,17 @@
 ---
-title: "G. Love & Special Sauce - G. Love & Special Sauce"
-artist_name: "G. Love & Special Sauce"
+title: "G Love  Special Sauce - G. Love & Special Sauce"
+artist_name: "G Love  Special Sauce"
 artist: "g-love-special-sauce"
 album_name: "G. Love & Special Sauce"
 date: 2024-12-15T05:12:57.000000Z
+release_date: "1994-05-05"
 release_id: "30359294"
 slug: "g-love-special-sauce-30359294"
 hideSummary: true
 cover:
     image: "g-love-special-sauce-30359294.jpg"
-    alt: "G. Love & Special Sauce by G. Love & Special Sauce"
-    caption: "G. Love & Special Sauce by G. Love & Special Sauce"
+    alt: "G. Love & Special Sauce by G Love  Special Sauce"
+    caption: "G. Love & Special Sauce by G Love  Special Sauce"
 additional_images:
     - "https://i.discogs.com/vd2OwhHnhMpGXepLK2WSJKjpyCW77H1shejgonvsfbI/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzU5/Mjk0LTE3MTI3NjMx/NTktODU2OS5qcGVn.jpeg"
     - "https://i.discogs.com/uD9PNolU__T1Y88AECZsXC_mGteBVPa68VXJSj7_Ub8/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzU5/Mjk0LTE3MTQzMDk0/ODQtNTQ2MC5qcGVn.jpeg"
@@ -22,49 +23,37 @@ styles: ["Indie Pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Things That I Used to Do
-2. Blues Music
-3. Garbage Man
-4. Eyes Have Miles
-5. Baby's Got Sauce
-6. Rhyme for the Summertime
-7. Cold Beverage
-8. Fatman
-9. This Ain't Living
-10. Walk to Slide
-11. Shooting Hoops
-12. Some Peoples Like That
-13. Town to Town
-14. I Love You
-15. The Things That I Used to Do (Live)
-16. Blues Music (Fast Version)
-17. Lila (Original Version)
-18. Just Like Trains (Live)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Things That I Used to Do |  |
+| A2 | Blues Music |  |
+| A3 | Garbage Man |  |
+| A4 | Eyes Have Miles |  |
+| B1 | Baby's Got Sauce |  |
+| B2 | Rhyme for the Summertime |  |
+| B3 | Cold Beverage |  |
+| B4 | Fatman |  |
+| B5 | This Ain't Living |  |
+| C1 | Walk to Slide |  |
+| C2 | Shooting Hoops |  |
+| C3 | Some Peoples Like That |  |
+| C4 | Town to Town |  |
+| C5 | I Love You |  |
+| D1 | The Things That I Used to Do (Live) |  |
+| D2 | Blues Music (Fast Version) |  |
+| D3 | Lila (Original Version) |  |
+| D4 | Just Like Trains (Live) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/g-love-and-special-sauce/158469825" >}}<br>
 
 
-## Videos
-### G Love And Special Sauce - The Things That I Used To Do
-{{< youtube id="C2if2LR7LTs" title="G Love And Special Sauce - The Things That I Used To Do" >}}<br>
-### More Videos
-
-- [G Love  Special Sauce - Blues Music Official Audio](https://www.youtube.com/watch?v=tXbwVSB6E84)
-- [G Love  Special Sauce - Garbage Man Official Audio](https://www.youtube.com/watch?v=cIevUzaY63I)
-- [G Love  Special Sauce - Eyes Have Miles Official Audio](https://www.youtube.com/watch?v=w1Ct2FzfgI4)
-- [G Love  Special Sauce - Babys Got Sauce Official Video](https://www.youtube.com/watch?v=cDqADZygseM)
-- [G Love  Special Sauce - Rhyme for the Summertime Official Audio](https://www.youtube.com/watch?v=PjZd0iaBKq4)
-- [G Love  Special Sauce - Cold Beverage Official Video](https://www.youtube.com/watch?v=pk9-28HgxfE)
-- [G Love  Special Sauce - Fatman Official Audio](https://www.youtube.com/watch?v=wZwxplQ5kIw)
-- [G Love  Special Sauce - This Aint Living Official Audio](https://www.youtube.com/watch?v=cNqHXqnZfvY)
-- [G Love  Special Sauce - Walk To Slide Official Audio](https://www.youtube.com/watch?v=Q4smoDdkRF4)
-- [G Love  Special Sauce - Shooting Hoops Official Audio](https://www.youtube.com/watch?v=h05cUhQPOec)
-- [G Love  Special Sauce - Some Peoples Like That Official Audio](https://www.youtube.com/watch?v=EE0Pci2WMTk)
-- [G Love  Special Sauce - Town To Town Official Audio](https://www.youtube.com/watch?v=9oLtxo9Bgp8)
-- [G Love  Special Sauce - I Love You Official Audio](https://www.youtube.com/watch?v=hdEOs9HRTCY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +64,5 @@ styles: ["Indie Pop"]
 | Format         | Vinyl 2× LP Album Record Store Day Reissue (Light Blue) |
 | Label          | Epic-Legacy |
 | Catalog Number | 19658848991 |
-| Notes | ℗ 1994 & ©1994, 2024 Epic Records  RSD 2024 release   Made in the EU. |
-| Discogs URL    | [G. Love & Special Sauce - G. Love & Special Sauce](https://www.discogs.com/release/30359294-G-Love-Special-Sauce-G-Love-Special-Sauce) |
+| Notes | ℗ 1994 & ©1994, 2024 Epic Records<br><br>RSD 2024 release<br><br><br>Made in the EU. |
+| Discogs URL    | [G Love  Special Sauce - G. Love & Special Sauce](https://www.discogs.com/release/30359294-G-Love-Special-Sauce-G-Love-Special-Sauce) |

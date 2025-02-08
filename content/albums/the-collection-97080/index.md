@@ -4,6 +4,7 @@ artist_name: "Ultravox"
 artist: "ultravox"
 album_name: "The Collection"
 date: 2019-11-08T19:52:05.000000Z
+release_date: "1984-11-02"
 release_id: "97080"
 slug: "the-collection-97080"
 hideSummary: true
@@ -24,45 +25,34 @@ The Collection is a greatest hits album by British band Ultravox, released on 2 
 The album peaked at number 2 on the UK Album Chart, becoming their highest-charting album. It also became their best-selling album, being certified triple platinum by the British Phonographic Industry (BPI) for shipments in excess of 900,000 copies.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Dancing With Tears In My Eyes (4:11)
-2. Hymn (The Power And The Glory) (4:28)
-3. The Thin Wall (4:27)
-4. The Voice (4:25)
-5. Vienna (4:39)
-6. Passing Strangers (3:51)
-7. Sleepwalk (3:14)
-8. Reap The Wild Wind (3:43)
-9. All Stood Still (3:43)
-10. Visions In Blue (4:15)
-11. We Came To Dance (4:10)
-12. One Small Day (4:29)
-13. Love's Great Adventure (3:07)
-14. Lament (4:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dancing With Tears In My Eyes | 4:11 |
+| A2 | Hymn (The Power And The Glory) | 4:28 |
+| A3 | The Thin Wall | 4:27 |
+| A4 | The Voice | 4:25 |
+| A5 | Vienna | 4:39 |
+| A6 | Passing Strangers | 3:51 |
+| A7 | Sleepwalk | 3:14 |
+| B1 | Reap The Wild Wind | 3:43 |
+| B2 | All Stood Still | 3:43 |
+| B3 | Visions In Blue | 4:15 |
+| B4 | We Came To Dance | 4:10 |
+| B5 | One Small Day | 4:29 |
+| B6 | Love's Great Adventure | 3:07 |
+| B7 | Lament | 4:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-collection/1629178655" >}}<br>
 
 
-## Videos
-### Ultravox - Passing Strangers Music Video
-{{< youtube id="rNcCBzmrUTc" title="Ultravox - Passing Strangers Music Video" >}}<br>
-### More Videos
-
-- [Ultravox - Vienna Album And 12 Version Music Video](https://www.youtube.com/watch?v=jnA4VYNj2Mw)
-- [Ultravox - The Thin Wall Single Edit Music Video](https://www.youtube.com/watch?v=YgKcupEWc6w)
-- [Ultravox - The Voice Alternate Version Music Video](https://www.youtube.com/watch?v=xQA_xQhDdMY)
-- [Ultravox - Reap The Wild Wind Music Video](https://www.youtube.com/watch?v=JB_Ae_U1w2M)
-- [Ultravox - Hymn Music Video](https://www.youtube.com/watch?v=m8kd6YAvQSY)
-- [Ultravox - We Came To Dance Music Video](https://www.youtube.com/watch?v=RAQRVnHuq1k)
-- [Ultravox - One Small Day Music Video](https://www.youtube.com/watch?v=HxvhBaVj-cM)
-- [Ultravox - Dancing With Tears In My Eyes Music Video](https://www.youtube.com/watch?v=BPr3CSFm-uo)
-- [Ultravox - Lament Edit Version Music Video](https://www.youtube.com/watch?v=Ei4SaIh0Hk4)
-- [Ultravox - Loves Great Adventure Music Video](https://www.youtube.com/watch?v=n-uNbI0BRec)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +64,5 @@ The album peaked at number 2 on the UK Album Chart, becoming their highest-chart
 | Format         | Vinyl LP Compilation |
 | Label          | Chrysalis |
 | Catalog Number | UTV1 |
-| Notes | Some copies include a printed inner sleeve that is same as the background on the outer sleeve.  Timings do not appear on the sleeve/label - Timings measured from a digitized copy of this release. |
+| Notes | Some copies include a printed inner sleeve that is same as the background on the outer sleeve.<br><br>Timings do not appear on the sleeve/label - Timings measured from a digitized copy of this release. |
 | Discogs URL    | [Ultravox - The Collection](https://www.discogs.com/release/97080-Ultravox-The-Collection) |

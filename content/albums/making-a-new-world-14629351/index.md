@@ -28,67 +28,33 @@ Making a New World features a diverse mix of styles, genres, and instruments, as
 
 
 ## Tracklisting
-1. Sound Ranging
-2. Silence / After The Fact
-3. Coffee Or Wine
-4. Best Kept Garden
-5. I Thought You Were Something Else
-6. Between Nations
-7. Change Of Heir
-8. Do You Read Me?
-9. From A Dream, Into My Arms
-10. Beyond That Of Courtesy
-11. A Shot To The Arm
-12. A Common Language Pt. 1
-13. A Common Language Pt. 2
-14. Nikon Pt. 1
-15. Nikon Pt. 2
-16. If The Wind Blows Towards The Hospital
-17. Only In A Man's World
-18. Money Is A Memory
-19. An Independent State
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sound Ranging |  |
+| A2 | Silence / After The Fact |  |
+| A3 | Coffee Or Wine |  |
+| A4 | Best Kept Garden |  |
+| A5 | I Thought You Were Something Else |  |
+| A6 | Between Nations |  |
+| A7 | Change Of Heir |  |
+| A8 | Do You Read Me? |  |
+| A9 | From A Dream, Into My Arms |  |
+| B1 | Beyond That Of Courtesy |  |
+| B2 | A Shot To The Arm |  |
+| B3 | A Common Language Pt. 1 |  |
+| B4 | A Common Language Pt. 2 |  |
+| B5 | Nikon Pt. 1 |  |
+| B6 | Nikon Pt. 2 |  |
+| B7 | If The Wind Blows Towards The Hospital |  |
+| B8 | Only In A Man's World |  |
+| B9 | Money Is A Memory |  |
+| B10 | An Independent State |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/making-a-new-world/1476733640" >}}<br>
 
 
-## Videos
-### A Change of Heir
-{{< youtube id="-2tpEGNFuvU" title="A Change of Heir" >}}<br>
-### More Videos
-
-- [Between Nations](https://www.youtube.com/watch?v=uAG_WNGqKis)
-- [Coffee or Wine](https://www.youtube.com/watch?v=pKbn2ipegpo)
-- [An Independent State](https://www.youtube.com/watch?v=633JiD0MLws)
-- [From a Dream into My Arms](https://www.youtube.com/watch?v=3ZkEK7qpsgI)
-- [From a Dream into My Arms](https://www.youtube.com/watch?v=3ZkEK7qpsgI)
-- [Best Kept Garden](https://www.youtube.com/watch?v=FoSiRJxnlW8)
-- [Best Kept Garden](https://www.youtube.com/watch?v=FoSiRJxnlW8)
-- [Silence](https://www.youtube.com/watch?v=R06AHVW2Opg)
-- [Silence](https://www.youtube.com/watch?v=R06AHVW2Opg)
-- [A Common Language Pt 1](https://www.youtube.com/watch?v=qwfpExdpgxg)
-- [A Common Language Pt 1](https://www.youtube.com/watch?v=qwfpExdpgxg)
-- [A Shot to the Arm](https://www.youtube.com/watch?v=n1TUR34qlJM)
-- [A Shot to the Arm](https://www.youtube.com/watch?v=n1TUR34qlJM)
-- [Nikon Pt 1](https://www.youtube.com/watch?v=c6qnO2oe52g)
-- [Nikon Pt 1](https://www.youtube.com/watch?v=c6qnO2oe52g)
-- [A Change of Heir](https://www.youtube.com/watch?v=-2tpEGNFuvU)
-- [Between Nations](https://www.youtube.com/watch?v=uAG_WNGqKis)
-- [Coffee or Wine](https://www.youtube.com/watch?v=pKbn2ipegpo)
-- [An Independent State](https://www.youtube.com/watch?v=633JiD0MLws)
-- [From a Dream into My Arms](https://www.youtube.com/watch?v=3ZkEK7qpsgI)
-- [From a Dream into My Arms](https://www.youtube.com/watch?v=3ZkEK7qpsgI)
-- [Best Kept Garden](https://www.youtube.com/watch?v=FoSiRJxnlW8)
-- [Best Kept Garden](https://www.youtube.com/watch?v=FoSiRJxnlW8)
-- [Silence](https://www.youtube.com/watch?v=R06AHVW2Opg)
-- [Silence](https://www.youtube.com/watch?v=R06AHVW2Opg)
-- [A Common Language Pt 1](https://www.youtube.com/watch?v=qwfpExdpgxg)
-- [A Common Language Pt 1](https://www.youtube.com/watch?v=qwfpExdpgxg)
-- [A Shot to the Arm](https://www.youtube.com/watch?v=n1TUR34qlJM)
-- [A Shot to the Arm](https://www.youtube.com/watch?v=n1TUR34qlJM)
-- [Nikon Pt 1](https://www.youtube.com/watch?v=c6qnO2oe52g)
-- [Nikon Pt 1](https://www.youtube.com/watch?v=c6qnO2oe52g)
-- [Field Music - Only In A Mans World](https://www.youtube.com/watch?v=ft__PS9rFAU)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "The Pineapple Thief"
 artist: "the-pineapple-thief"
 album_name: "Tightly Unwound"
 date: 2016-02-21T12:07:56.000000Z
+release_date: "2008"
 release_id: "5189116"
 slug: "tightly-unwound-5189116"
 hideSummary: true
@@ -28,32 +29,29 @@ Tightly Unwound (2008) is the seventh studio album by The Pineapple Thief, and t
 Those who were signed to the  mailing list could get the acoustic version of "Shoot First" as a free-download track. On 28 July 2008 the band released Shoot First as a download EP.
 A video for the song, filmed by the acclaimed director Lasse Hoile (famous for his works with Porcupine Tree, Opeth, Dream Theater and Blackfield), premiered on the Tightly Unwound mini-site on 31 July 2008.
 Two tracks, "And So Say All of You" and "The Sorry State", were originally written for the band's first and second Fruit and Veg Selection podcasts, respectively.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. My Debt To You
-2. Shoot First
-3. Sinners
-4. The Sorry State
-5. Tightly Wound
-6. My Bleeding Hand
-7. Different World
-8. And So Say All Of You
-9. Too Much To Lose
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | My Debt To You |  |
+| A2 | Shoot First |  |
+| A3 | Sinners |  |
+| B1 | The Sorry State |  |
+| B2 | Tightly Wound |  |
+| B3 | My Bleeding Hand |  |
+| C1 | Different World |  |
+| C2 | And So Say All Of You |  |
+| D1 | Too Much To Lose |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tightly-unwound/731043162" >}}<br>
 
 
-## Videos
-### The Pineapple Thief - Shoot First from Tightly Unwound
-{{< youtube id="8vwYejVfkas" title="The Pineapple Thief - Shoot First from Tightly Unwound" >}}<br>
-### More Videos
-
-- [Tightly Wound](https://www.youtube.com/watch?v=qlfgcaXRZ7U)
-- [The Pineapple Thief - Too Much to Lose from Tightly Unwound](https://www.youtube.com/watch?v=MdaxryzsjjA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +63,5 @@ Two tracks, "And So Say All of You" and "The Sorry State", were originally writt
 | Format         | Vinyl 2× LP Album (Orange) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE852 |
-| Notes | A double vinyl edition of the first ever album released on Kscope.     Remastered, remixed and presented on heavyweight orange vinyl in a gatefold sleeve package.     Part of the Kscope 5th anniversary celebrations, Tightly Unwound - the first album released on Kscope - has been released for the first time on vinyl.  Remastered and Remixed  Made in Germany   |
+| Notes | A double vinyl edition of the first ever album released on Kscope. <br><br>Remastered, remixed and presented on heavyweight orange vinyl in a gatefold sleeve package. <br><br>Part of the Kscope 5th anniversary celebrations, Tightly Unwound - the first album released on Kscope - has been released for the first time on vinyl.<br>Remastered and Remixed<br>Made in Germany<br> |
 | Discogs URL    | [The Pineapple Thief - Tightly Unwound](https://www.discogs.com/release/5189116-The-Pineapple-Thief-Tightly-Unwound) |

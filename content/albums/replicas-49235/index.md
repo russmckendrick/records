@@ -4,6 +4,7 @@ artist_name: "Tubeway Army"
 artist: "tubeway-army"
 album_name: "Replicas"
 date: 2016-01-08T19:14:34.000000Z
+release_date: "1979-04-01"
 release_id: "49235"
 slug: "replicas-49235"
 hideSummary: true
@@ -31,50 +32,30 @@ Replicas is the second and final studio album by the English new wave band Tubew
 Fuelled by a surprise No. 1 hit single, "Are 'Friends' Electric?", the album also reached No. 1 in the UK charts in July 1979 and was certified Gold by the BPI for sales in excess of 100,000 copies.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Me! I Disconnect From You (3:22)
-2. Are 'Friends' Electric? (5:24)
-3. The Machman (3:07)
-4. Praying To The Aliens (3:59)
-5. Down In The Park (4:26)
-6. You Are In My Vision (3:14)
-7. Replicas (5:00)
-8. It Must Have Been Years (4:01)
-9. When The Machines Rock (3:14)
-10. I Nearly Married A Human (6:31)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Me! I Disconnect From You | 3:22 |
+| A2 | Are 'Friends' Electric? | 5:24 |
+| A3 | The Machman | 3:07 |
+| A4 | Praying To The Aliens | 3:59 |
+| A5 | Down In The Park | 4:26 |
+| B1 | You Are In My Vision | 3:14 |
+| B2 | Replicas | 5:00 |
+| B3 | It Must Have Been Years | 4:01 |
+| B4 | When The Machines Rock | 3:14 |
+| B5 | I Nearly Married A Human | 6:31 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/replicas-redux/273106969" >}}<br>
 
 
-## Videos
-### Me I Disconnect from You
-{{< youtube id="gb66ZMHlixQ" title="Me I Disconnect from You" >}}<br>
-### More Videos
-
-- [Are Friends Electric](https://www.youtube.com/watch?v=1snv-0jCiWY)
-- [The Machman](https://www.youtube.com/watch?v=D8C76KM7xg0)
-- [Praying to the Aliens](https://www.youtube.com/watch?v=Niw_cOHiY1w)
-- [Down in the Park](https://www.youtube.com/watch?v=9GQS-iFCzus)
-- [You Are in My Vision](https://www.youtube.com/watch?v=FETUoLuEYxg)
-- [Replicas](https://www.youtube.com/watch?v=SjCW0kXqBR8)
-- [It Must Have Been Years](https://www.youtube.com/watch?v=so98lFTAZV0)
-- [When the Machines Rock](https://www.youtube.com/watch?v=OhMBGZx9KYE)
-- [I Nearly Married A Human Remastered](https://www.youtube.com/watch?v=oFd9OhnKqvw)
-- [Me I Disconnect from You](https://www.youtube.com/watch?v=gb66ZMHlixQ)
-- [Are Friends Electric](https://www.youtube.com/watch?v=1snv-0jCiWY)
-- [The Machman](https://www.youtube.com/watch?v=D8C76KM7xg0)
-- [Praying to the Aliens](https://www.youtube.com/watch?v=Niw_cOHiY1w)
-- [Down in the Park](https://www.youtube.com/watch?v=9GQS-iFCzus)
-- [You Are in My Vision](https://www.youtube.com/watch?v=FETUoLuEYxg)
-- [Replicas](https://www.youtube.com/watch?v=SjCW0kXqBR8)
-- [It Must Have Been Years](https://www.youtube.com/watch?v=so98lFTAZV0)
-- [When the Machines Rock](https://www.youtube.com/watch?v=OhMBGZx9KYE)
-- [I Nearly Married A Human Remastered](https://www.youtube.com/watch?v=oFd9OhnKqvw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +67,5 @@ Fuelled by a surprise No. 1 hit single, "Are 'Friends' Electric?", the album als
 | Format         | Vinyl LP Album Stereo |
 | Label          | Beggars Banquet |
 | Catalog Number | BEGA 7 |
-| Notes | Recorded at Gooseberry Studios, London. Mixed at Marcus Music AB, London. Inner sleeve printed with lyrics on one side and photograph with credits on the other side, rounded corners. Initial copies included a poster.  There is also a variant with label layout differences and square corners on the printed inner, [r=5409666].  ℗ 1979 Beggars Banquet. © 1979 A Beggars Banquet Recording |
+| Notes | Recorded at Gooseberry Studios, London. Mixed at Marcus Music AB, London.<br>Inner sleeve printed with lyrics on one side and photograph with credits on the other side, rounded corners.<br>Initial copies included a poster.<br><br>There is also a variant with label layout differences and square corners on the printed inner, [r=5409666].<br><br>℗ 1979 Beggars Banquet.<br>© 1979 A Beggars Banquet Recording |
 | Discogs URL    | [Tubeway Army - Replicas](https://www.discogs.com/release/49235-Tubeway-Army-Replicas) |

@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "This Is Trojan"
 date: 2017-07-29T18:47:00.000000Z
+release_date: ""
 release_id: "10620174"
 slug: "this-is-trojan-10620174"
 hideSummary: true
@@ -50,77 +51,81 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Volume One
-2. Israelites
-3. Double Barrel
-4. Love Of The Common People
-5. Liquidator
-6. Monkey Man
-7. Red Red Wine
-8. Young, Gifted & Black
-9. Let Your Yeah Be Yeah
-10. Help Me Make It Through The Night
-11. Black Pearl
-12. Black And White
-13. Rain
-14. Suzanne Beware Of The Devil
-15. Sweet Sensation
-16. Return Of Django
-17. 007 (Shanty Town)
-18. Everything I Own
-19. Hurt So Good
-20. I Want To Wake Up With You
-21. Girlie Girlie
-22. Volume Two
-23. Uptown Top Ranking
-24. OK Fred
-25. Money In My Pocket
-26. You're Everything To Me
-27. It Mek
-28. Skinhead Moonstomp
-29. Long Shot Kick De Bucket
-30. 54-46 Was My Number
-31. Kingston Town
-32. Please Don't Make Me Cry
-33. Johnny Too Bad
-34. Montego Bay
-35. Pied Piper
-36. Moon River
-37. Crying Over You
-38. Ire Feelings (Skanga)
-39. Sing A Little Song
-40. Mad About You
-41. Snoopy Vs. The Red Baron
-42. Dat
-43. Volume Three
-44. You Can Get It If You Really Want
-45. The Tide Is High
-46. Rudy, A Message To You
-47. Monkey Spanner
-48. Rivers Of Babylon
-49. Elizabethan Reggae
-50. Train To Skaville
-51. John Jones
-52. Stop That Train
-53. Perfidia
-54. Carry Go Bring Home
-55. I'm In The Mood For Ska
-56. Ram Goat Liver
-57. This Monday Morning Feeling
-58. I Am What I Am
-59. Leggo Skanga
-60. Pickney Gal
-61. Dollar In The Teeth
-62. Moon Hop
-63. Reggae Merengue
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Volume One |  |
+| A1 | Israelites |  |
+| A2 | Double Barrel |  |
+| A3 | Love Of The Common People |  |
+| A4 | Liquidator |  |
+| A5 | Monkey Man |  |
+| B1 | Red Red Wine |  |
+| B2 | Young, Gifted & Black |  |
+| B3 | Let Your Yeah Be Yeah |  |
+| B4 | Help Me Make It Through The Night |  |
+| B5 | Black Pearl |  |
+| C1 | Black And White |  |
+| C2 | Rain |  |
+| C3 | Suzanne Beware Of The Devil |  |
+| C4 | Sweet Sensation |  |
+| C5 | Return Of Django |  |
+| D1 | 007 (Shanty Town) |  |
+| D2 | Everything I Own |  |
+| D3 | Hurt So Good |  |
+| D4 | I Want To Wake Up With You |  |
+| D5 | Girlie Girlie |  |
+|  | Volume Two |  |
+| E1 | Uptown Top Ranking |  |
+| E2 | OK Fred |  |
+| E3 | Money In My Pocket |  |
+| E4 | You're Everything To Me |  |
+| E5 | It Mek |  |
+| F1 | Skinhead Moonstomp |  |
+| F2 | Long Shot Kick De Bucket |  |
+| F3 | 54-46 Was My Number |  |
+| F4 | Kingston Town |  |
+| F5 | Please Don't Make Me Cry |  |
+| G1 | Johnny Too Bad |  |
+| G2 | Montego Bay |  |
+| G3 | Pied Piper |  |
+| G4 | Moon River |  |
+| G5 | Crying Over You |  |
+| H1 | Ire Feelings (Skanga) |  |
+| H2 | Sing A Little Song |  |
+| H3 | Mad About You |  |
+| H4 | Snoopy Vs. The Red Baron |  |
+| H5 | Dat |  |
+|  | Volume Three |  |
+| I1 | You Can Get It If You Really Want |  |
+| I2 | The Tide Is High |  |
+| I3 | Rudy, A Message To You |  |
+| I4 | Monkey Spanner |  |
+| I5 | Rivers Of Babylon |  |
+| J1 | Elizabethan Reggae |  |
+| J2 | Train To Skaville |  |
+| J3 | John Jones |  |
+| J4 | Stop That Train |  |
+| J5 | Perfidia |  |
+| K1 | Carry Go Bring Home |  |
+| K2 | I'm In The Mood For Ska |  |
+| K3 | Ram Goat Liver |  |
+| K4 | This Monday Morning Feeling |  |
+| K5 | I Am What I Am |  |
+| L1 | Leggo Skanga |  |
+| L2 | Pickney Gal |  |
+| L3 | Dollar In The Teeth |  |
+| L4 | Moon Hop |  |
+| L5 | Reggae Merengue |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Bob Andy  Marcia Griffiths - Young Gifted and Black Official Lyrics Video
-{{< youtube id="r6YeFp-Qex8" title="Bob Andy  Marcia Griffiths - Young Gifted and Black Official Lyrics Video" >}}<br>
 
 
 ## Release Images
@@ -132,5 +137,5 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 | Format         | Box Set Compilation Deluxe Edition, Vinyl 2× LP Compilation Repress (180 Gram), Vinyl 2× LP Compilation Repress (180 Gram), Vinyl 2× LP Compilation Repress (180 Gram) |
 | Label          | Trojan Records |
 | Catalog Number | TROJANLP001X |
-| Notes | Sticker on cover.  Made in the EU |
+| Notes | Sticker on cover.<br><br>Made in the EU |
 | Discogs URL    | [Various - This Is Trojan](https://www.discogs.com/release/10620174-Various-This-Is-Trojan) |

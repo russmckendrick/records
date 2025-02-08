@@ -4,6 +4,7 @@ artist_name: "Genesis"
 artist: "genesis"
 album_name: "Abacab"
 date: 2015-09-11T18:02:24.000000Z
+release_date: "1981-09-18"
 release_id: "2294111"
 slug: "abacab-2294111"
 hideSummary: true
@@ -26,29 +27,29 @@ Abacab is the eleventh studio album by English rock band Genesis, released on 18
 Abacab enjoyed a mostly positive reception from critics and was a commercial success for the band, becoming their second No. 1 LP on the UK Albums Chart and their first to reach the top ten of the US Billboard 200, peaking at No. 7. Genesis released four singles from the album, the most successful being "Abacab" and "No Reply at All". The album was certified gold in the UK and double platinum by the Recording Industry Association of America for selling two million copies in the US. The Abacab Tour visited North America and Europe in 1981, recordings from which formed most of their 1982 live album and concert video Three Sides Live. Three tracks left off the album were released on the EP 3×3. The album was reissued with a new stereo and 5.1 surround sound mix in 2007.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Abacab
-2. No Reply At All
-3. Me And Sarah Jane
-4. Keep It Dark
-5. Dodo
-6. Lurker
-7. Who Dunnit?
-8. Man On The Corner
-9. Like It Or Not
-10. Another Record
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Abacab |  |
+| A2 | No Reply At All |  |
+| A3 | Me And Sarah Jane |  |
+| A4 | Keep It Dark |  |
+| B1 | Dodo |  |
+| B2 | Lurker |  |
+| B3 | Who Dunnit? |  |
+| B4 | Man On The Corner |  |
+| B5 | Like It Or Not |  |
+| B6 | Another Record |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/abacab-remastered/1472171777" >}}<br>
 
-
-## Videos
-### Genesis - Abacab Official Music Video
-{{< youtube id="suCNZe3Gwkw" title="Genesis - Abacab Official Music Video" >}}<br>
 
 
 ## Release Images
@@ -61,5 +62,5 @@ Abacab enjoyed a mostly positive reception from critics and was a commercial suc
 | Format         | Vinyl LP Album (CORG - Cyan/Orange/Red/Green Cover) |
 | Label          | Charisma |
 | Catalog Number | CBR 102 |
-| Notes | Tracks B1/B2 appear as two tracks on the sleeve, inner sleeve and label, but as one track on the release  Contains a special, picture inner sleeve  This version has a cyan, orange, red and green embossed cover  A version with a blue/grey cover is [r667424]  |
+| Notes | Tracks B1/B2 appear as two tracks on the sleeve, inner sleeve and label, but as one track on the release<br><br>Contains a special, picture inner sleeve<br><br>This version has a cyan, orange, red and green embossed cover<br><br>A version with a blue/grey cover is [r667424]<br> |
 | Discogs URL    | [Genesis - Abacab](https://www.discogs.com/release/2294111-Genesis-Abacab) |

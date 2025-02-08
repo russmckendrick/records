@@ -4,6 +4,7 @@ artist_name: "Nine Below Zero"
 artist: "nine-below-zero"
 album_name: "Third Degree"
 date: 2021-09-03T04:32:37.000000Z
+release_date: "1982"
 release_id: "2218199"
 slug: "third-degree-2218199"
 hideSummary: true
@@ -21,27 +22,29 @@ styles: ["Rhythm & Blues", "Pub Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Eleven Plus Eleven (2:18)
-2. Wipe Away Your Kiss (2:50)
-3. Why Can't We Be What We Want To Be (2:53)
-4. Tearful Eye (3:38)
-5. True Love Is A Crime (3:13)
-6. Egg On My Face (3:22)
-7. Sugarbeat (And Rhythm Sweet) (4:09)
-8. Mystery Man (4:01)
-9. East Street, SE17 (3:15)
-10. You Don't Love Me (3:03)
-11. You Can't Say Yes And You Can't Say No (3:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Eleven Plus Eleven | 2:18 |
+| A2 | Wipe Away Your Kiss | 2:50 |
+| A3 | Why Can't We Be What We Want To Be | 2:53 |
+| A4 | Tearful Eye | 3:38 |
+| A5 | True Love Is A Crime | 3:13 |
+| A6 | Egg On My Face | 3:22 |
+| B1 | Sugarbeat (And Rhythm Sweet) | 4:09 |
+| B2 | Mystery Man | 4:01 |
+| B3 | East Street, SE17 | 3:15 |
+| B4 | You Don't Love Me | 3:03 |
+| B5 | You Can't Say Yes And You Can't Say No | 3:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/third-degree/1443308710" >}}<br>
 
-
-## Videos
-### Nine Below Zero - Eleven Plus Eleven
-{{< youtube id="ExM1vP-rhH4" title="Nine Below Zero - Eleven Plus Eleven" >}}<br>
 
 
 ## Release Images
@@ -53,5 +56,5 @@ styles: ["Rhythm & Blues", "Pub Rock"]
 | Format         | Vinyl LP Album Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMLH 68537 |
-| Notes | Official UK release  Month of release from Record Collector Magazine Oct 1994 p.127  |
+| Notes | Official UK release<br><br>Month of release from Record Collector Magazine Oct 1994 p.127<br> |
 | Discogs URL    | [Nine Below Zero - Third Degree](https://www.discogs.com/release/2218199-Nine-Below-Zero-Third-Degree) |

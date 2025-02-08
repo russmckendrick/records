@@ -32,35 +32,26 @@ On her first solo release since her supergroup outing with k.d. lang and Neko Ca
 
 
 ## Tracklisting
-1. Margaret Sands
-2. Everybody Needs You
-3. Seven Falls
-4. Mountains Of The Moon
-5. Watch Fire
-6. Heavy Petals
-7. The Lookout
-8. The Meadow
-9. The Canyon
-10. Lightning Rod
-11. When It Grows Darkest
-12. Zozobra
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Margaret Sands |  |
+| A2 | Everybody Needs You |  |
+| A3 | Seven Falls |  |
+| A4 | Mountains Of The Moon |  |
+| A5 | Watch Fire |  |
+| A6 | Heavy Petals |  |
+| B7 | The Lookout |  |
+| B8 | The Meadow |  |
+| B9 | The Canyon |  |
+| B10 | Lightning Rod |  |
+| B11 | When It Grows Darkest |  |
+| B12 | Zozobra |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-lookout/1336461182" >}}<br>
 
 
-## Videos
-### Laura Veirs - The Lookout Full Album Stream
-{{< youtube id="9nSs3Xn2blI" title="Laura Veirs - The Lookout Full Album Stream" >}}<br>
-### More Videos
-
-- [Laura Veirs - Margaret Sands opbmusic](https://www.youtube.com/watch?v=_LoW3hKVBGQ)
-- [Laura Veirs - Everybody Needs You](https://www.youtube.com/watch?v=srwAMHbHVAE)
-- [Laura Veirs - Seven Falls Live on KEXP](https://www.youtube.com/watch?v=46Z89pu4Lu0)
-- [Laura Veirs - The Lookout Full Album Stream](https://www.youtube.com/watch?v=9nSs3Xn2blI)
-- [Laura Veirs - Margaret Sands opbmusic](https://www.youtube.com/watch?v=_LoW3hKVBGQ)
-- [Laura Veirs - Everybody Needs You](https://www.youtube.com/watch?v=srwAMHbHVAE)
-- [Laura Veirs - Seven Falls Live on KEXP](https://www.youtube.com/watch?v=46Z89pu4Lu0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +62,5 @@ On her first solo release since her supergroup outing with k.d. lang and Neko Ca
 | Format         | Vinyl LP Album Limited Edition (Gold) |
 | Label          | Bella Union |
 | Catalog Number | BELLA744V |
-| Notes | First pressing on Gold coloured vinyl.  100 copies bought from the Bella Union store came with a signed postcard.  © 2018 Freak Off The Leash Music (BMI), Adm. by BMG  Produced, recorded and mixed by Tucker Martine at Flora Recording and Playback in Portland, OR in the summer and fall of 2017  |
+| Notes | First pressing on Gold coloured vinyl.<br><br>100 copies bought from the Bella Union store came with a signed postcard.<br><br>© 2018 Freak Off The Leash Music (BMI), Adm. by BMG<br><br>Produced, recorded and mixed by Tucker Martine at Flora Recording and Playback in Portland, OR in the summer and fall of 2017<br> |
 | Discogs URL    | [Laura Veirs - The Lookout](https://www.discogs.com/release/11865679-Laura-Veirs-The-Lookout) |

@@ -4,6 +4,7 @@ artist_name: "Audioweb"
 artist: "audioweb"
 album_name: "Audioweb"
 date: 2021-10-09T06:37:10.000000Z
+release_date: "1996-01-01"
 release_id: "19184125"
 slug: "audioweb-19184125"
 hideSummary: true
@@ -21,41 +22,30 @@ Audioweb is the eponymously titled debut album from the Manchester-based band.  
 The album was produced by Kevin Bacon and Jonathan Quarmby with additional production and programming by Audioweb.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Sleeper (5:15)
-2. Yeah? (4:00)
-3. Into My World (4:20)
-4. Faker (4:26)
-5. Who's To Blame (4:05)
-6. Time (4:18)
-7. Jah Love (3:58)
-8. Bankrobber (3:40)
-9. Lover (4:30)
-10. Drip Feed (8:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sleeper | 5:15 |
+| A2 | Yeah? | 4:00 |
+| A3 | Into My World | 4:20 |
+| A4 | Faker | 4:26 |
+| A5 | Who's To Blame | 4:05 |
+| B1 | Time | 4:18 |
+| B2 | Jah Love | 3:58 |
+| B3 | Bankrobber | 3:40 |
+| B4 | Lover | 4:30 |
+| B5 | Drip Feed | 8:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/audioweb/1442541735" >}}<br>
 
 
-## Videos
-### Sleeper
-{{< youtube id="4bl1IbUH1A8" title="Sleeper" >}}<br>
-### More Videos
-
-- [Yeah](https://www.youtube.com/watch?v=a6dbwCFFP9E)
-- [Into My World](https://www.youtube.com/watch?v=5uKcORkJeR4)
-- [Faker](https://www.youtube.com/watch?v=-VaNSckSJII)
-- [Whos To Blame](https://www.youtube.com/watch?v=r_HVqu4DPYQ)
-- [Time](https://www.youtube.com/watch?v=_wS8okOB6fI)
-- [Jah Love](https://www.youtube.com/watch?v=um0uN7E64UI)
-- [Bankrobber](https://www.youtube.com/watch?v=epm2Ml_FrEw)
-- [Lover](https://www.youtube.com/watch?v=RSeZFH8yD7Y)
-- [Drip Feed  Untitled Dialogue Medley](https://www.youtube.com/watch?v=TDLHsvDsmXE)
-- [AUDIOWEB - SLEEPER 1996](https://www.youtube.com/watch?v=Kcq5cbjbdoU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +57,5 @@ The album was produced by Kevin Bacon and Jonathan Quarmby with additional produ
 | Format         | Vinyl LP Album Reissue (White) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC897 |
-| Notes | About this release This is the bands debut album originally released in 1996 on U 2 ’s label Mother Records who built their reputation as a live act. Highlights include the top 30 single Bankrobber ’’(cover of the Clash track) and the first single ‘ Sleeper’,‘Yeah?’ and ‘Faker’.  This is the first reissue of this album, pressed on 180g heavyweight white vinyl with original artwork and printed inner sleeve.   |
+| Notes | About this release<br>This is the bands debut album originally released in 1996 on U 2 ’s label Mother Records who built their reputation as a live act. Highlights include the top 30 single Bankrobber ’’(cover of the Clash track) and the first single ‘ Sleeper’,‘Yeah?’ and ‘Faker’.<br><br>This is the first reissue of this album, pressed on 180g heavyweight white vinyl with original artwork and printed inner sleeve.<br><br> |
 | Discogs URL    | [Audioweb - Audioweb](https://www.discogs.com/release/19184125-Audioweb-Audioweb) |

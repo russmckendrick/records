@@ -4,6 +4,7 @@ artist_name: "bdrmm"
 artist: "bdrmm"
 album_name: "Bedroom"
 date: 2020-08-28T10:18:05.000000Z
+release_date: "2020-07-03"
 release_id: "15830094"
 slug: "bedroom-15830094"
 hideSummary: true
@@ -25,34 +26,30 @@ styles: ["Dream Pop", "Indie Pop", "Shoegaze"]
 ---
 
 Bedroom is the debut studio album by British shoegaze band Bdrmm, released on 3 July 2020 through Sonic Cathedral. It was produced by Alex Greaves and received positive reviews from critics.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Momo
-2. Push/Pull
-3. A Reason To Celebrate
-4. Gush
-5. Happy
-6. (The Silence)
-7. (Un)Happy
-8. If....
-9. Is That What You Wanted To Hear?
-10. Forget The Credits
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Momo |  |
+| A2 | Push/Pull |  |
+| A3 | A Reason To Celebrate |  |
+| A4 | Gush |  |
+| A5 | Happy |  |
+| A6 | (The Silence) |  |
+| B1 | (Un)Happy |  |
+| B2 | If.... |  |
+| B3 | Is That What You Wanted To Hear? |  |
+| B4 | Forget The Credits |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bedroom/1701098303" >}}<br>
 
 
-## Videos
-### bdrmm - Bedroom Full Album
-{{< youtube id="eQWIrE9xGes" title="bdrmm - Bedroom Full Album" >}}<br>
-### More Videos
-
-- [bdrmm - Is That What You Wanted To Hear Official Video](https://www.youtube.com/watch?v=J-fwuaYXv3M)
-- [bdrmm - A Reason To Celebrate Official Audio](https://www.youtube.com/watch?v=_PMHvJwelug)
-- [bdrmm - Happy Official Audio](https://www.youtube.com/watch?v=Po-RJ3sYSpM)
 
 ## Release Images
 {{< imageGrid >}}

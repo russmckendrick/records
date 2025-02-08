@@ -4,6 +4,7 @@ artist_name: "Senseless Things"
 artist: "senseless-things"
 album_name: "The First Of Too Many"
 date: 2019-03-24T13:15:48.000000Z
+release_date: "1991-03-03"
 release_id: "4677659"
 slug: "the-first-of-too-many-4677659"
 hideSummary: true
@@ -21,36 +22,34 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Everybody's Gone
-2. Best Friend
-3. Ex Teenager
-4. It's Cool To Hang Out With Your Ex
-5. 19 Blue
-6. Should I Feel It
-7. Lip Radio
-8. In Love Again
-9. Got It At The Delmar
-10. American Dad
-11. Radio Spiteful
-12. Chicken
-13. Wrong Number
-14. Different Tongues
-15. Fishing At Tescos
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Everybody's Gone |  |
+| A2 | Best Friend |  |
+| A3 | Ex Teenager |  |
+| A4 | It's Cool To Hang Out With Your Ex |  |
+| A5 | 19 Blue |  |
+| A6 | Should I Feel It |  |
+| A7 | Lip Radio |  |
+| B1 | In Love Again |  |
+| B2 | Got It At The Delmar |  |
+| B3 | American Dad |  |
+| B4 | Radio Spiteful |  |
+| B5 | Chicken |  |
+| B6 | Wrong Number |  |
+| B7 | Different Tongues |  |
+| B8 | Fishing At Tescos |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-first-of-too-many/273760193" >}}<br>
 
 
-## Videos
-### Senseless Things - Everybodys Gone
-{{< youtube id="B9nQya3W7SQ" title="Senseless Things - Everybodys Gone" >}}<br>
-### More Videos
-
-- [Senseless Things First Of Too Many](https://www.youtube.com/watch?v=HUsiqmCjMX4)
-- [Senseless Things - Got It At The Delmar](https://www.youtube.com/watch?v=xGB_6CZAzNI)
-- [Senseless Things First Of Too Many](https://www.youtube.com/watch?v=HUsiqmCjMX4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +60,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl LP Album Limited Edition (Purple) |
 | Label          | Epic |
 | Catalog Number | 469157 0 |
-| Notes | Recorded at the Greenhouse Studios, London - March/April 1991. Tracks A1, A3, A5 to A7, B3 to B8 mixed at the Greenhouse Studios, London - March/April 1991. Tracks A2, A4, and B1 mixed at the Hit Factory, London - July 1991. Track B2 mixed at Gooseberry Studios, Brixton - July 1991.  Runouts are etched. |
+| Notes | Recorded at the Greenhouse Studios, London - March/April 1991.<br>Tracks A1, A3, A5 to A7, B3 to B8 mixed at the Greenhouse Studios, London - March/April 1991.<br>Tracks A2, A4, and B1 mixed at the Hit Factory, London - July 1991.<br>Track B2 mixed at Gooseberry Studios, Brixton - July 1991.<br><br>Runouts are etched. |
 | Discogs URL    | [Senseless Things - The First Of Too Many](https://www.discogs.com/release/4677659-Senseless-Things-The-First-Of-Too-Many) |

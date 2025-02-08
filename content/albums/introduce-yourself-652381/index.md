@@ -4,6 +4,7 @@ artist_name: "Faith No More"
 artist: "faith-no-more"
 album_name: "Introduce Yourself"
 date: 2015-08-09T08:42:25.000000Z
+release_date: "1987-04"
 release_id: "652381"
 slug: "introduce-yourself-652381"
 hideSummary: true
@@ -25,40 +26,30 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal", "Alternative Metal"]
 Introduce Yourself is the second studio album by American rock band Faith No More, released in 1987. Due to the limited availability of the first album, We Care a Lot (until it was re-released on CD years later), many, including the band, once considered this Faith No More's true debut album. Being the group's major label debut, this album features better production than its predecessor, which is most evident on this album's version of the song "We Care a Lot," which also features updated, more topical, lyrics. It is the final album to feature vocalist Chuck Mosley before he was fired from Faith No More in 1988.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Faster Disco (4:17)
-2. Anne's Song (4:47)
-3. Introduce Yourself (1:30)
-4. Chinese Arithmetic (4:36)
-5. Death March (2:59)
-6. We Care A Lot (4:01)
-7. R n' R (3:11)
-8. The Crab Song (5:52)
-9. Blood (3:39)
-10. Spirit (2:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Faster Disco | 4:17 |
+| A2 | Anne's Song | 4:47 |
+| A3 | Introduce Yourself | 1:30 |
+| A4 | Chinese Arithmetic | 4:36 |
+| A5 | Death March | 2:59 |
+| B1 | We Care A Lot | 4:01 |
+| B2 | R n' R | 3:11 |
+| B3 | The Crab Song | 5:52 |
+| B4 | Blood | 3:39 |
+| B5 | Spirit | 2:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/introduce-yourself/63819537" >}}<br>
 
 
-## Videos
-### Faith No More - We Care a Lot Official Music Video
-{{< youtube id="LQhX8PbNUWI" title="Faith No More - We Care a Lot Official Music Video" >}}<br>
-### More Videos
-
-- [Annes Song](https://www.youtube.com/watch?v=-W4RwQhNIUk)
-- [Death March](https://www.youtube.com/watch?v=lrROABXAn8Q)
-- [The Crab Song](https://www.youtube.com/watch?v=QFYymqpBBkg)
-- [Blood](https://www.youtube.com/watch?v=hWRKWkpQBAk)
-- [Faith No More - We Care a Lot Official Music Video](https://www.youtube.com/watch?v=LQhX8PbNUWI)
-- [Annes Song](https://www.youtube.com/watch?v=-W4RwQhNIUk)
-- [Death March](https://www.youtube.com/watch?v=lrROABXAn8Q)
-- [The Crab Song](https://www.youtube.com/watch?v=QFYymqpBBkg)
-- [Blood](https://www.youtube.com/watch?v=hWRKWkpQBAk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +61,5 @@ Introduce Yourself is the second studio album by American rock band Faith No Mor
 | Format         | Vinyl LP Album (Allied Record Pressing) |
 | Label          | Slash |
 | Catalog Number | 25559-1 |
-| Notes | This version was pressed at Allied Record Company and is otherwise identical to the version [url=http://www.discogs.com/release/4354696]made at Specialty Records Corporation[/url].  Catalogue number 25559-1 is printed on the spine of the sleeve. 1-25559 is printed on the face labels.  Recorded at Studio D, Sausalito, CA. / Control Center, Los Angeles, CA.  Mixed at Studio D, Sausalito, CA.  © 1987 Slash Records ℗ 1987 Slash Records. Distributed by Warner Bros. Records, Inc. Made in USA.  Allied Record Company and Sheffield Lab Matrix are not directly credited but have identified from information ion the vinyl runout area. Runout etched except "a kdisc" which is stamped. |
+| Notes | This version was pressed at Allied Record Company and is otherwise identical to the version [url=http://www.discogs.com/release/4354696]made at Specialty Records Corporation[/url].<br><br>Catalogue number 25559-1 is printed on the spine of the sleeve. 1-25559 is printed on the face labels.<br><br>Recorded at Studio D, Sausalito, CA. / Control Center, Los Angeles, CA. <br>Mixed at Studio D, Sausalito, CA.<br><br>© 1987 Slash Records ℗ 1987 Slash Records.<br>Distributed by Warner Bros. Records, Inc.<br>Made in USA.<br><br>Allied Record Company and Sheffield Lab Matrix are not directly credited but have identified from information ion the vinyl runout area.<br>Runout etched except "a kdisc" which is stamped. |
 | Discogs URL    | [Faith No More - Introduce Yourself](https://www.discogs.com/release/652381-Faith-No-More-Introduce-Yourself) |

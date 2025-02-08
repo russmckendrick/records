@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Indie Top 20 Volume XI"
 date: 2017-04-14T14:01:00.000000Z
+release_date: ""
 release_id: "589039"
 slug: "indie-top-20-volume-xi-589039"
 hideSummary: true
@@ -27,37 +28,39 @@ styles: ["Synth-pop", "Indie Rock", "Alternative Rock", "Techno", "Dub Techno", 
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Anytime Anyplace Anywhere (4:10)
-2. Pray (3:56)
-3. Spirit (3:25)
-4. Fishes Eyes (6:45)
-5. Phobia (4:42)
-6. Listen (3:30)
-7. Magic (3:57)
-8. Moody 'Live' (4:22)
-9. I Wanna Talk Like Iggy Pop (4:52)
-10. Get Higher (4:30)
-11. Then (4:12)
-12. God Knows It's True (4:55)
-13. Half Life, Remembered (4:38)
-14. Cry-Blood (Dub) (6:16)
-15. Oxygen Reprise V2.0 (5:20)
-16. Tragedy >For You< (4:31)
-17. Kaleidoscope (5:38)
-18. Decadence (4:19)
-19. Birdbrain (3:12)
-20. Dig For Fire (2:47)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Anytime Anyplace Anywhere | 4:10 |
+| A2 | Pray | 3:56 |
+| A3 | Spirit | 3:25 |
+| A4 | Fishes Eyes | 6:45 |
+| A5 | Phobia | 4:42 |
+| B1 | Listen | 3:30 |
+| B2 | Magic | 3:57 |
+| B3 | Moody 'Live' | 4:22 |
+| B4 | I Wanna Talk Like Iggy Pop | 4:52 |
+| B5 | Get Higher | 4:30 |
+| C1 | Then | 4:12 |
+| C2 | God Knows It's True | 4:55 |
+| C3 | Half Life, Remembered | 4:38 |
+| C4 | Cry-Blood (Dub) | 6:16 |
+| C5 | Oxygen Reprise V2.0 | 5:20 |
+| D1 | Tragedy >For You< | 4:31 |
+| D2 | Kaleidoscope | 5:38 |
+| D3 | Decadence | 4:19 |
+| D4 | Birdbrain | 3:12 |
+| D5 | Dig For Fire | 2:47 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### The Shamen - Oxygen Restriction Indie Top 20 Volume XI 1991
-{{< youtube id="NZ_LDyvoxUY" title="The Shamen - Oxygen Restriction Indie Top 20 Volume XI 1991" >}}<br>
-### More Videos
 
-- [The Shamen - Oxygen Restriction](https://www.youtube.com/watch?v=JxUuFgsFaMc)
 
 ## Release Images
 {{< imageGrid >}}

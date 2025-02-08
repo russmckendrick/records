@@ -1,16 +1,17 @@
 ---
-title: "Durand Jones & The Indications - Durand Jones & The Indications "
-artist_name: "Durand Jones & The Indications"
+title: "Durand Jones  The Indications - Durand Jones & The Indications "
+artist_name: "Durand Jones  The Indications"
 artist: "durand-jones-the-indications"
 album_name: "Durand Jones & The Indications "
 date: 2018-03-20T12:54:29.000000Z
+release_date: "2016-03-16"
 release_id: "11718792"
 slug: "durand-jones-the-indications-11718792"
 hideSummary: true
 cover:
     image: "durand-jones-the-indications-11718792.jpg"
-    alt: "Durand Jones & The Indications  by Durand Jones & The Indications"
-    caption: "Durand Jones & The Indications  by Durand Jones & The Indications"
+    alt: "Durand Jones & The Indications  by Durand Jones  The Indications"
+    caption: "Durand Jones & The Indications  by Durand Jones  The Indications"
 additional_images:
     - "https://i.discogs.com/7FRKoiqTQ3qFLaopgALyD18Al8MdEfqaeZpTHXNt4Vw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzE4/NzkyLTE1MjE5MTM3/OTEtNzQ1OS5wbmc.jpeg"
     - "https://i.discogs.com/Zt6TzGnkjgOOYUiOh1rJm952ckOLhWo3FpGAmIm0BYE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzE4/NzkyLTE1MjE0NzIy/MTctNTMzOS5qcGVn.jpeg"
@@ -23,30 +24,27 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Make A Change (3:28)
-2. Smile (3:48)
-3. Can't Keep My Cool (4:19)
-4. Groovy Babe (3:11)
-5. Giving Up (5:07)
-6. Is It Any Wonder? (4:36)
-7. Now I'm Gone  (5:39)
-8. Tuck 'N' Roll (2:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Make A Change | 3:28 |
+| A2 | Smile | 3:48 |
+| A3  | Can't Keep My Cool | 4:19 |
+| A4 | Groovy Babe | 3:11 |
+| B1 | Giving Up | 5:07 |
+| B2 | Is It Any Wonder? | 4:36 |
+| B3 | Now I'm Gone  | 5:39 |
+| B4 | Tuck 'N' Roll | 2:56 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/durand-jones-the-indications/1730817055" >}}<br>
 
 
-## Videos
-### Durand Jones  The Indications - Smile - Soul 45
-{{< youtube id="rjb010wGS-k" title="Durand Jones  The Indications - Smile - Soul 45" >}}<br>
-### More Videos
-
-- [Durand Jones  The Indications - Is It Any Wonder - 8282017 - Paste Studios New York NY](https://www.youtube.com/watch?v=hIHxDxTcuDk)
-- [Durand Jones  The Indications - You And Me](https://www.youtube.com/watch?v=zc6HnutjZCc)
-- [Cant Keep My Cool](https://www.youtube.com/watch?v=NgzG4XYcgcU)
-- [Durand Jones  The Indications - Durand Jones  The Indications FULL ALBUM STREAM](https://www.youtube.com/watch?v=7E6v7pZChQY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -57,4 +55,4 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 | Format         | Vinyl LP Album Limited Edition Reissue (Red translucent) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC157 |
-| Discogs URL    | [Durand Jones & The Indications - Durand Jones & The Indications ](https://www.discogs.com/release/11718792-Durand-Jones-The-Indications-Durand-Jones-The-Indications-) |
+| Discogs URL    | [Durand Jones  The Indications - Durand Jones & The Indications ](https://www.discogs.com/release/11718792-Durand-Jones-The-Indications-Durand-Jones-The-Indications-) |

@@ -4,6 +4,7 @@ artist_name: "The Cure"
 artist: "the-cure"
 album_name: "The Head On The Door"
 date: 2018-03-29T19:50:27.000000Z
+release_date: "1985-01-01"
 release_id: "2418673"
 slug: "the-head-on-the-door-2418673"
 hideSummary: true
@@ -29,46 +30,30 @@ The Head on the Door is the sixth studio album by English rock band The Cure. It
 The album is the first to feature drummer Boris Williams. Bassist Simon Gallup, who had previously worked on three major Cure albums of the early 1980s, was called back before the recording. In 1985, the band became a quintet with instrumentalist Porl Thompson as their fifth official member. The Head on the Door is the first Cure album where all the songs were composed solely by singer and guitarist Robert Smith.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. In Between Days (2:56)
-2. Kyoto Song (4:14)
-3. The Blood (3:41)
-4. Six Different Ways (3:16)
-5. Push (4:30)
-6. The Baby Screams (3:42)
-7. Close To Me (3:21)
-8. A Night Like This (4:13)
-9. Screw (2:36)
-10. Sinking (4:53)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | In Between Days | 2:56 |
+| A2 | Kyoto Song | 4:14 |
+| A3 | The Blood | 3:41 |
+| A4 | Six Different Ways | 3:16 |
+| A5 | Push | 4:30 |
+| B1 | The Baby Screams | 3:42 |
+| B2 | Close To Me | 3:21 |
+| B3 | A Night Like This | 4:13 |
+| B4 | Screw | 2:36 |
+| B5 | Sinking | 4:53 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-head-on-the-door/1443833316" >}}<br>
 
 
-## Videos
-### The Cure - Close To Me
-{{< youtube id="BjvfIJstWeg" title="The Cure - Close To Me" >}}<br>
-### More Videos
-
-- [The Cure - In Between Days](https://www.youtube.com/watch?v=scif2vfg1ug)
-- [Kyoto Song](https://www.youtube.com/watch?v=q1-ZaQTe6RI)
-- [The Cure - The Blood](https://www.youtube.com/watch?v=4PgWNRSHQ8k)
-- [Six Different Ways](https://www.youtube.com/watch?v=RMTA62J44G0)
-- [Push](https://www.youtube.com/watch?v=8sxCVBBmx10)
-- [The Baby Screams](https://www.youtube.com/watch?v=tZYv4DRjDpM)
-- [A Night Like This](https://www.youtube.com/watch?v=nvB7v5ZEh18)
-- [Screw](https://www.youtube.com/watch?v=ARyCYfTX9e0)
-- [Inbetween Days Robert Smith Home Demo](https://www.youtube.com/watch?v=dGYgk6DrxyM)
-- [A Night Like This Studio Demo](https://www.youtube.com/watch?v=05gzZXxGz48)
-- [Lime Time Studio Demo](https://www.youtube.com/watch?v=t8o4H2GTqm8)
-- [Six Different Ways Studio Demo](https://www.youtube.com/watch?v=db7VD6TVIQE)
-- [Inwood Robert Smith Home Demo](https://www.youtube.com/watch?v=Jpxpl5MQoKo)
-- [Innsbruck Robert Smith Home Demo](https://www.youtube.com/watch?v=-GOOAbYVfhk)
-- [Lalala Studio Demo](https://www.youtube.com/watch?v=5jyX4sNJzAs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +65,5 @@ The album is the first to feature drummer Boris Williams. Bassist Simon Gallup, 
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 gram) |
 | Label          | Fiction Records |
 | Catalog Number | 0042282723116 |
-| Notes | Cardboard jacket with printed inner sleeve (lyrics & credits), download voucher and red hype sticker with black/white font: "Back To Black 60th Vinyl Anniversary Includes a voucher to download MP3 version of the album Made in EU www.backtoblackvinyl.com"  Originally released in 1985  Track times not given on release  |
+| Notes | Cardboard jacket with printed inner sleeve (lyrics & credits), download voucher and red hype sticker with black/white font:<br>"Back To Black<br>60th Vinyl Anniversary<br>Includes a voucher to download MP3 version of the album<br>Made in EU<br>www.backtoblackvinyl.com"<br><br>Originally released in 1985<br><br>Track times not given on release<br> |
 | Discogs URL    | [The Cure - The Head On The Door](https://www.discogs.com/release/2418673-The-Cure-The-Head-On-The-Door) |

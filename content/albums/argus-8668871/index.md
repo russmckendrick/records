@@ -4,6 +4,7 @@ artist_name: "Wishbone Ash"
 artist: "wishbone-ash"
 album_name: "Argus"
 date: 2017-06-01T18:07:52.000000Z
+release_date: "1970-12-04"
 release_id: "8668871"
 slug: "argus-8668871"
 hideSummary: true
@@ -29,22 +30,25 @@ styles: ["Hard Rock", "Classic Rock"]
 Argus is the third album by the British rock band Wishbone Ash, released on 28 April 1972. It is their most commercially and critically successful album, peaking at No. 3 in the UK Albums Chart.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Time Was (9:39)
-2. Sometime World (6:49)
-3. Blowin' Free (5:18)
-4. The King Will Come (7:10)
-5. Leaf And Stream (3:51)
-6. Warrior  (11:58)
-7. Throw Down The Sword
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Time Was | 9:39 |
+| A2 | Sometime World | 6:49 |
+| A3 | Blowin' Free | 5:18 |
+| B1 | The King Will Come | 7:10 |
+| B2 | Leaf And Stream | 3:51 |
+| B3 | Warrior  | 11:58 |
+| B4 | Throw Down The Sword |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wishbone-ash/1443237340" >}}<br>
-
 
 
 
@@ -58,5 +62,5 @@ Argus is the third album by the British rock band Wishbone Ash, released on 28 A
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | MCA Records |
 | Catalog Number | MCA 410 099 |
-| Notes | Different labels to https://www.discogs.com/Wishbone-Ash-Argus/release/6351919 BA-213 on rear sleeve (P) 1978 réédition Printed in France Imp Glory 92602 Asnières Made in France  cat# is given as MCA 410 009 on cover and 410009 on center labels |
+| Notes | Different labels to https://www.discogs.com/Wishbone-Ash-Argus/release/6351919<br>BA-213 on rear sleeve<br>(P) 1978 réédition<br>Printed in France Imp Glory 92602 Asnières<br>Made in France<br><br>cat# is given as MCA 410 009 on cover and 410009 on center labels |
 | Discogs URL    | [Wishbone Ash - Argus](https://www.discogs.com/release/8668871-Wishbone-Ash-Argus) |

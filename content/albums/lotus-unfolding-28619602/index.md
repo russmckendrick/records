@@ -4,6 +4,7 @@ artist_name: "Ozric Tentacles"
 artist: "ozric-tentacles"
 album_name: "Lotus Unfolding"
 date: 2023-10-19T22:16:25.000000Z
+release_date: "2023-10-20"
 release_id: "28619602"
 slug: "lotus-unfolding-28619602"
 hideSummary: true
@@ -26,37 +27,25 @@ styles: ["Space Rock", "Psychedelic Rock", "Ambient"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Storm In A Teacup (9:30)
-2. Deep Blue Shade (5:08)
-3. Lotus Unfolding (8:10)
-4. Crumplepenny (9:54)
-5. Green Incantation (7:35)
-6. Burundi Spaceport (5:02)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Storm In A Teacup | 9:30 |
+| A2 | Deep Blue Shade | 5:08 |
+| A3 | Lotus Unfolding | 8:10 |
+| B1 | Crumplepenny | 9:54 |
+| B2 | Green Incantation | 7:35 |
+| B3 | Burundi Spaceport | 5:02 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lotus-unfolding/1707428182" >}}<br>
 
 
-## Videos
-### O Z R I C - T E N T A C L E S  L O T U S - U N F O L D I N G
-{{< youtube id="1pfser5uX_w" title="O Z R I C - T E N T A C L E S  L O T U S - U N F O L D I N G" >}}<br>
-### More Videos
-
-- [Ozric Tentacles -  Lotus Unfolding - official promo video taken from the album Lotus Unfolding](https://www.youtube.com/watch?v=iMnQiB8KKBQ)
-- [Ozric Tentacles - Deep Blue Shade Official Video](https://www.youtube.com/watch?v=XXs19JdRjS8)
-- [Storm in a Teacup](https://www.youtube.com/watch?v=PpER0O2V1so)
-- [Burundi Spaceport](https://www.youtube.com/watch?v=5CrWga8Emnk)
-- [Crumplepenny](https://www.youtube.com/watch?v=GQbxOHaQ2bI)
-- [Green Incantation](https://www.youtube.com/watch?v=fNy-wlDyL3I)
-- [O Z R I C - T E N T A C L E S  L O T U S - U N F O L D I N G](https://www.youtube.com/watch?v=1pfser5uX_w)
-- [Ozric Tentacles -  Lotus Unfolding - official promo video taken from the album Lotus Unfolding](https://www.youtube.com/watch?v=iMnQiB8KKBQ)
-- [Ozric Tentacles - Deep Blue Shade Official Video](https://www.youtube.com/watch?v=XXs19JdRjS8)
-- [Storm in a Teacup](https://www.youtube.com/watch?v=PpER0O2V1so)
-- [Burundi Spaceport](https://www.youtube.com/watch?v=5CrWga8Emnk)
-- [Crumplepenny](https://www.youtube.com/watch?v=GQbxOHaQ2bI)
-- [Green Incantation](https://www.youtube.com/watch?v=fNy-wlDyL3I)
 
 ## Release Images
 {{< imageGrid >}}

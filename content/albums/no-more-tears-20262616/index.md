@@ -4,6 +4,7 @@ artist_name: "Ozzy Osbourne"
 artist: "ozzy-osbourne"
 album_name: "No More Tears"
 date: 2021-09-19T04:28:15.000000Z
+release_date: "2022-04-29"
 release_id: "20262616"
 slug: "no-more-tears-20262616"
 hideSummary: true
@@ -30,30 +31,30 @@ styles: ["Heavy Metal", "Hard Rock"]
 "No More Tears" is the fifth song and title track on the 1991 Ozzy Osbourne album No More Tears. It reached number five on the U.S. Mainstream Rock Tracks chart, number 71 on the Billboard Hot 100, number 17 on the Dutch Top 40 chart and number 32 on the UK Singles Chart.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Mr. Tinkertrain (5:56)
-2. I Don't Want To Change The World (4:05)
-3. Mama, I'm Coming Home (4:11)
-4. Desire (5:45)
-5. No More Tears (7:23)
-6. S.I.N. (4:46)
-7. Hellraiser (4:52)
-8. Time After Time (4:20)
-9. Zombie Stomp (6:13)
-10. A.V.H. (4:12)
-11. Road To Nowhere (5:09)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mr. Tinkertrain | 5:56 |
+| A2 | I Don't Want To Change The World | 4:05 |
+| A3 | Mama, I'm Coming Home | 4:11 |
+| B1 | Desire | 5:45 |
+| B2 | No More Tears | 7:23 |
+| C1 | S.I.N. | 4:46 |
+| C2 | Hellraiser | 4:52 |
+| C3 | Time After Time | 4:20 |
+| D1 | Zombie Stomp | 6:13 |
+| D2 | A.V.H. | 4:12 |
+| D3 | Road To Nowhere | 5:09 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-more-tears/1620628762" >}}<br>
 
-
-## Videos
-### Ozzy Osbourne - No More Tears Official Audio
-{{< youtube id="mX_8p7NaibQ" title="Ozzy Osbourne - No More Tears Official Audio" >}}<br>
 
 
 ## Release Images

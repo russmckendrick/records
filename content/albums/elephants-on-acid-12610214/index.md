@@ -4,6 +4,7 @@ artist_name: "Cypress Hill"
 artist: "cypress-hill"
 album_name: "Elephants On Acid"
 date: 2018-10-17T17:37:44.000000Z
+release_date: "2018-09-28"
 release_id: "12610214"
 slug: "elephants-on-acid-12610214"
 hideSummary: true
@@ -33,66 +34,62 @@ Elephants on Acid is the ninth studio album by American hip hop group Cypress Hi
 Despite serving as an interlude, "Muggs Is Dead" was released as a second single of the album on August 23 and received an animated video.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Tusko
-2. Band Of Gypsies
-3. Put Em In The Ground
-4. Satao
-5. Jesus Was A Stoner
-6. Pass The Knife
-7. LSD
-8. Oh Na Na 
-9. Holy Mountain
-10. Locos
-11. Falling Down
-12. Elephant Acid
-13. Insane OG
-14. The 5th Angel
-15. Warlord
-16. Reefer Man
-17. Thru The Rabbit Hole
-18. Crazy
-19. Muggs Is Dead
-20. Blood On My Hands Again
-21. Stairway To Heaven
-22. Tusko
-23. Band Of Gypsies
-24. Put Em In The Ground
-25. Satao
-26. Jesus Was A Stoner
-27. Pass The Knife
-28. LSD
-29. Oh Na Na
-30. Holy Mountain
-31. Locos
-32. Falling Down
-33. Elephant Acid
-34. Insane OG
-35. The 5th Angel
-36. Warlord
-37. Reefer Man
-38. Thru The Rabbit Hole
-39. Crazy
-40. Muggs Is Dead
-41. Blood On My Hands Again
-42. Stairway To Heaven
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Tusko |  |
+| A2 | Band Of Gypsies |  |
+| A3 | Put Em In The Ground |  |
+| A4 | Satao |  |
+| A5 | Jesus Was A Stoner |  |
+| A6 | Pass The Knife |  |
+| B1 | LSD |  |
+| B2 | Oh Na Na  |  |
+| B3 | Holy Mountain |  |
+| B4 | Locos |  |
+| B5 | Falling Down |  |
+| C1 | Elephant Acid |  |
+| C2 | Insane OG |  |
+| C3 | The 5th Angel |  |
+| C4 | Warlord |  |
+| C5 | Reefer Man |  |
+| D1 | Thru The Rabbit Hole |  |
+| D2 | Crazy |  |
+| D3 | Muggs Is Dead |  |
+| D4 | Blood On My Hands Again |  |
+| D5 | Stairway To Heaven |  |
+| CD1 | Tusko |  |
+| CD2 | Band Of Gypsies |  |
+| CD3 | Put Em In The Ground |  |
+| CD4 | Satao |  |
+| CD5 | Jesus Was A Stoner |  |
+| CD6 | Pass The Knife |  |
+| CD7 | LSD |  |
+| CD8 | Oh Na Na |  |
+| CD9 | Holy Mountain |  |
+| CD10 | Locos |  |
+| CD11 | Falling Down |  |
+| CD12 | Elephant Acid |  |
+| CD13 | Insane OG |  |
+| CD14 | The 5th Angel |  |
+| CD15 | Warlord |  |
+| CD16 | Reefer Man |  |
+| CD17 | Thru The Rabbit Hole |  |
+| CD18 | Crazy |  |
+| CD19 | Muggs Is Dead |  |
+| CD20 | Blood On My Hands Again |  |
+| CD21 | Stairway To Heaven |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/elephants-on-acid/1405708942" >}}<br>
 
 
-## Videos
-### Cypress Hill - Band of Gypsies Official Video
-{{< youtube id="buxccDwjkdA" title="Cypress Hill - Band of Gypsies Official Video" >}}<br>
-### More Videos
-
-- [Cypress Hill - Locos feat Sick Jacken Official Video](https://www.youtube.com/watch?v=glZQaFukto0)
-- [Cypress Hill - Reefer Man](https://www.youtube.com/watch?v=jDb2xNsa2YA)
-- [Cypress Hill - Blood On My Hands Again Official Video](https://www.youtube.com/watch?v=P1AaYTKGknk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -104,5 +101,5 @@ Despite serving as an interlude, "Muggs Is Dead" was released as a second single
 | Format         | Vinyl 2× LP 45 RPM Album, CD Album |
 | Label          | BMG |
 | Catalog Number | 538415541 |
-| Notes | Manufactured in Poland Made in the E.U  Printed innersleeves  Comes in gatefold This version also contains the CD version - comes with a paper sleeve |
+| Notes | Manufactured in Poland<br>Made in the E.U<br><br>Printed innersleeves <br>Comes in gatefold<br>This version also contains the CD version - comes with a paper sleeve |
 | Discogs URL    | [Cypress Hill - Elephants On Acid](https://www.discogs.com/release/12610214-Cypress-Hill-Elephants-On-Acid) |

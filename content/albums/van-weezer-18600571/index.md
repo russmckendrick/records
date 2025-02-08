@@ -33,23 +33,25 @@ Clocking in at a snappy 30 minutes, the 10 tracks here are all killer, no filler
 
 
 ## Tracklisting
-1. Hero (3:56)
-2. All The Good Ones (2:44)
-3. The End Of The Game (3:01)
-4. I Need Some Of That (3:19)
-5. Beginning Of The End (3:15)
-6. Blue Dream (2:50)
-7. 1 More Hit (3:05)
-8. Sheila Can Do It (2:57)
-9. She Needs Me (2:52)
-10. Precious Metal Girl (2:50)
-11. [Non Audio] (1:00)
-12. I've Thrown It All Away (3:23)
-13. I Need Some Of That [Reprise] (0:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hero | 3:56 |
+| A2 | All The Good Ones | 2:44 |
+| A3 | The End Of The Game | 3:01 |
+| A4 | I Need Some Of That | 3:19 |
+| A5 | Beginning Of The End | 3:15 |
+| B1 | Blue Dream | 2:50 |
+| B2 | 1 More Hit | 3:05 |
+| B3 | Sheila Can Do It | 2:57 |
+| B4 | She Needs Me | 2:52 |
+| B5a | Precious Metal Girl | 2:50 |
+| B5b | [Non Audio] | 1:00 |
+| B6a | I've Thrown It All Away | 3:23 |
+| B6b | I Need Some Of That [Reprise] | 0:56 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/van-weezer/1479227321" >}}<br>
-
 
 
 
@@ -63,5 +65,5 @@ Clocking in at a snappy 30 minutes, the 10 tracks here are all killer, no filler
 | Format         | Vinyl LP Album Limited Edition (Pink [Neon]) |
 | Label          | Crush Music (2) |
 | Catalog Number | 075678650925 |
-| Notes | Indies exclusive.  On label rim text: Made in Czech Republic  Hype sticker on shrink: Van Weezer Neon Pink. ℗ & © 2021 Weezer under exclusive license to Crush Music / Atlantic Recording Corporation for the United States and Crush Music / WEA  International Inc. for the world excluding the United States. A Warner Music Company. All rights reserved.  Unauthorized duplication is a violation of applicable laws. Made in Czech Republic. GEMA/BIEM. 075678650963  Track B6 is hidden and is not mentioned in the tracklist.  ℗ (on Label) + © (on Innersleeve) 2021 Weezer under license to Crush Music / Atlantic Recording Corporation for the United States and Crush Music / WEA International Inc. for the world excluding the United States. A Warner Music Company. |
+| Notes | Indies exclusive.<br><br>On label rim text: Made in Czech Republic<br><br>Hype sticker on shrink: Van Weezer Neon Pink. ℗ & © 2021 Weezer under exclusive license to Crush Music / Atlantic Recording Corporation for the United States and Crush Music / WEA  International Inc. for the world excluding the United States. A Warner Music Company. All rights reserved.  Unauthorized duplication is a violation of applicable laws. Made in Czech Republic. GEMA/BIEM. 075678650963<br><br>Track B6 is hidden and is not mentioned in the tracklist.<br><br>℗ (on Label) + © (on Innersleeve) 2021 Weezer under license to Crush Music / Atlantic Recording Corporation for the United States and Crush Music / WEA International Inc. for the world excluding the United States. A Warner Music Company. |
 | Discogs URL    | [Weezer - Van Weezer](https://www.discogs.com/release/18600571-Weezer-Van-Weezer) |

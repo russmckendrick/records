@@ -51,27 +51,24 @@ When My Morning Jacket decamped to Stinson Beach, California, to record the <i>T
 
 
 ## Tracklisting
-1. Spinning My Wheels
-2. Still Thinkin'
-3. Climbing The Ladder
-4. Feel You
-5. Beautiful Love (Wasn't Enough)
-6. Magic Bullet
-7. Run It
-8. Wasted
-9. Welcome Home
-10. The First Time
+| Position | Title | Duration |
+|----------|-------|----------|
+| E1 | Spinning My Wheels |  |
+| E2 | Still Thinkin' |  |
+| E3 | Climbing The Ladder |  |
+| E4 | Feel You |  |
+| E5 | Beautiful Love (Wasn't Enough) |  |
+| F1 | Magic Bullet |  |
+| F2 | Run It |  |
+| F3 | Wasted |  |
+| F4 | Welcome Home |  |
+| F5 | The First Time |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-waterfall-ii/1516505813" >}}<br>
 
 
-## Videos
-### My Morning Jacket - In Its Infancy The Waterfall Visualizer
-{{< youtube id="oT7xCWDQkXU" title="My Morning Jacket - In Its Infancy The Waterfall Visualizer" >}}<br>
-### More Videos
-
-- [My Morning Jacket - Spinning My Wheels Official Visualizer](https://www.youtube.com/watch?v=7VJqwdv-upU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +80,5 @@ When My Morning Jacket decamped to Stinson Beach, California, to record the <i>T
 | Format         | Vinyl LP Album (Clear) |
 | Label          | ATO Records |
 | Catalog Number | ATO0530LP |
-| Notes | Standard clear version  Brittany Howard appears courtesy of ATO Records  |
+| Notes | Standard clear version<br><br>Brittany Howard appears courtesy of ATO Records<br> |
 | Discogs URL    | [My Morning Jacket - The Waterfall II](https://www.discogs.com/release/15837565-My-Morning-Jacket-The-Waterfall-II) |

@@ -1,16 +1,17 @@
 ---
-title: "Mr. Scruff - Ninja Tuna"
-artist_name: "Mr. Scruff"
+title: "Mr Scruff - Ninja Tuna"
+artist_name: "Mr Scruff"
 artist: "mr-scruff"
 album_name: "Ninja Tuna"
 date: 2024-03-29T07:22:54.000000Z
+release_date: "2009-02-15"
 release_id: "30208622"
 slug: "ninja-tuna-30208622"
 hideSummary: true
 cover:
     image: "ninja-tuna-30208622.jpg"
-    alt: "Ninja Tuna by Mr. Scruff"
-    caption: "Ninja Tuna by Mr. Scruff"
+    alt: "Ninja Tuna by Mr Scruff"
+    caption: "Ninja Tuna by Mr Scruff"
 additional_images:
     - "https://i.discogs.com/YNcBmBgwgCiQVgdtqwj4it57m1OQBwrpsHYjp5WZw4Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjA4/NjIyLTE3MTI4NTA4/NTctNjAyNy5qcGVn.jpeg"
     - "https://i.discogs.com/Z2pLGzRsQc9A9oh_P9KdpED0Wk8yqq1h40snRMYV0EA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjA4/NjIyLTE3MTI4NTA4/NjUtMTA3NC5qcGVn.jpeg"
@@ -39,63 +40,38 @@ A compilation of outtakes from the album, entitled Bonus Bait, was released the 
 In 2009, it was awarded a silver certification (indicating sales of at least 30,000 copies throughout Europe) from the Independent Music Companies Association.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Test The Sound (2:29)
-2. Music Takes Me Up (5:27)
-3. Donkey Ride (5:12)
-4. Hairy Bumpercress (6:30)
-5. Whiplash (5:59)
-6. Nice Up The Function (3:54)
-7. Bang The Floor (3:41)
-8. Get On Down (5:53)
-9. Hold On (5:03)
-10. Give Up To Get (6:44)
-11. Kalimba (5:54)
-12. Zen (3:52)
-13. This Way (5:32)
-14. Stockport Carnival (5:29)
-15. Fix That Speaker (4:51)
-16. Bunch Of Keys (LP Edit) (7:22)
-17. Rocking Chair (5:59)
-18. Nice Up The Function (Remix Instrumental) (3:53)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Test The Sound | 2:29 |
+| A2 | Music Takes Me Up | 5:27 |
+| A3 | Donkey Ride | 5:12 |
+| B1 | Hairy Bumpercress | 6:30 |
+| B2 | Whiplash | 5:59 |
+| B3 | Nice Up The Function | 3:54 |
+| C1 | Bang The Floor | 3:41 |
+| C2 | Get On Down | 5:53 |
+| C3 | Hold On | 5:03 |
+| D1 | Give Up To Get | 6:44 |
+| D2 | Kalimba | 5:54 |
+| D3 | Zen | 3:52 |
+| E1 | This Way | 5:32 |
+| E2 | Stockport Carnival | 5:29 |
+| E3 | Fix That Speaker | 4:51 |
+| F1 | Bunch Of Keys (LP Edit) | 7:22 |
+| F2 | Rocking Chair | 5:59 |
+| F3 | Nice Up The Function (Remix Instrumental) | 3:53 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ninja-tuna-with-bonus-bait/416300530" >}}<br>
 
 
-## Videos
-### Mr Scruff- Kalimba Ninja Tuna
-{{< youtube id="tCO4i2t-Aso" title="Mr Scruff- Kalimba Ninja Tuna" >}}<br>
-### More Videos
-
-- [Mr Scruff - Kalimba](https://www.youtube.com/watch?v=jZHAb92E31E)
-- [Mr Scruff-Ninja Tuna 10 Hours](https://www.youtube.com/watch?v=Qm1UeHt4xpg)
-- [Mr Scruff - Music Takes Me Up](https://www.youtube.com/watch?v=Ojl2KLCGT4I)
-- [Mr Scruff - Hairy Bumpercress](https://www.youtube.com/watch?v=n6u5tkMhV_o)
-- [Ninja Tuna Kalimba 1 hour Mr Scruff HDHQ](https://www.youtube.com/watch?v=1tb2jf0yEvQ)
-- [Mr Scruff - This way](https://www.youtube.com/watch?v=AtIh3Ty6YaM)
-- [Mr Scruff - Test The Sound](https://www.youtube.com/watch?v=lCLUtXJMAz8)
-- [Songs from Ninja Tuna 2nd Edition](https://www.youtube.com/watch?v=ggfLWkmHMeE)
-- [Mr Scruff - Test The Sound](https://www.youtube.com/watch?v=AEyscNtGJY8)
-- [Mr Scruff - Music Takes Me Up](https://www.youtube.com/watch?v=Ojl2KLCGT4I)
-- [Mr Scruff - Donkey Ride](https://www.youtube.com/watch?v=uLeD2ZdIXM0)
-- [Mr Scruff - Hairy Bumpercress](https://www.youtube.com/watch?v=n6u5tkMhV_o)
-- [Mr Scruff - Whiplash](https://www.youtube.com/watch?v=J6fklo4ulr0)
-- [Mr Scruff - Nice Up The Function feat Roots Manuva](https://www.youtube.com/watch?v=4m8BdBL2gwM)
-- [Mr Scruff - Bang The Floor](https://www.youtube.com/watch?v=QC7YN3iP_4M)
-- [Mr Scruff - Get On Down](https://www.youtube.com/watch?v=bzs8OXHrAfw)
-- [Mr Scruff - Hold On feat Andreya Triana](https://www.youtube.com/watch?v=E5rWrLgnKDM)
-- [Mr Scruff - Give Up To Get](https://www.youtube.com/watch?v=d1jnXU9bIsk)
-- [Mr Scruff - This way](https://www.youtube.com/watch?v=AtIh3Ty6YaM)
-- [Mr Scruff - Stockport Carnival](https://www.youtube.com/watch?v=0D1lJyntI6A)
-- [Mr Scruff - Test The Sound](https://www.youtube.com/watch?v=lCLUtXJMAz8)
-- [Mr Scruff - Kalimba](https://www.youtube.com/watch?v=jZHAb92E31E)
-- [Mr Scruff - Hairy Bumpercress](https://www.youtube.com/watch?v=n6u5tkMhV_o)
-- [Kalimba](https://www.youtube.com/watch?v=yzDNVwKHF1I)
 
 ## Release Images
 {{< imageGrid >}}
@@ -107,5 +83,5 @@ In 2009, it was awarded a silver certification (indicating sales of at least 30,
 | Format         | Vinyl 3× LP Album Deluxe Edition Reissue |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN143 |
-| Notes | Gatefold release, first time on vinyl Cover includes peel-able tuna sticker |
-| Discogs URL    | [Mr. Scruff - Ninja Tuna](https://www.discogs.com/release/30208622-Mr-Scruff-Ninja-Tuna) |
+| Notes | Gatefold release, first time on vinyl<br>Cover includes peel-able tuna sticker |
+| Discogs URL    | [Mr Scruff - Ninja Tuna](https://www.discogs.com/release/30208622-Mr-Scruff-Ninja-Tuna) |

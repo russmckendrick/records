@@ -1,7 +1,7 @@
 ---
 title: "Tennis - Swimmer"
 artist_name: "Tennis"
-artist: "tennis-6"
+artist: "tennis"
 album_name: "Swimmer"
 date: 2024-05-20T08:32:33.000000Z
 release_date: "2020-02-14"
@@ -53,28 +53,23 @@ styles: ["Alternative Rock", "Indie Rock"]
 
 
 ## Tracklisting
-1. I’ll Haunt You
-2. Need Your Love
-3. How To Forgive
-4. Runner
-5. Echoes
-6. Swimmer
-7. Tender As A Tomb
-8. Late Night
-9. Matrimony II
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I’ll Haunt You |  |
+| A2 | Need Your Love |  |
+| A3 | How To Forgive |  |
+| A4 | Runner |  |
+| A5 | Echoes |  |
+| B6 | Swimmer |  |
+| B7 | Tender As A Tomb |  |
+| B8 | Late Night |  |
+| B9 | Matrimony II |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/swimmer/1489443683" >}}<br>
 
 
-## Videos
-### Tennis - Swimmer
-{{< youtube id="oa80vXMYpXw" title="Tennis - Swimmer" >}}<br>
-### More Videos
-
-- [Tennis - Runner Official Video](https://www.youtube.com/watch?v=Z6kNQEzQJpA)
-- [Tennis - Ill Haunt You](https://www.youtube.com/watch?v=SzuzbFdJLss)
-- [Tennis - Swimmer Lyrics](https://www.youtube.com/watch?v=TzMaDus2cNU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +81,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl LP Album Limited Edition Stereo (Clear) |
 | Label          | Mutually Detrimental |
 | Catalog Number | MD007LP |
-| Notes | Hype sticker states "Limited Edition Clear Vinyl".  The record itself is coke bottle green/clear.  Tracks are sequentially listed on release.  Embossed cover.  Includes digital download coupon. |
+| Notes | Hype sticker states "Limited Edition Clear Vinyl".  The record itself is coke bottle green/clear.<br><br>Tracks are sequentially listed on release.<br><br>Embossed cover.<br><br>Includes digital download coupon. |
 | Discogs URL    | [Tennis - Swimmer](https://www.discogs.com/release/26162459-Tennis-6-Swimmer) |

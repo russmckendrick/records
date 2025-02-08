@@ -55,38 +55,25 @@ styles: ["Afrobeat", "Fusion"]
 
 
 ## Tracklisting
-1. Field Negus (3:03)
-2. Pick Up Your Burning Cross (3:44)
-3. Think Of Home (3:32)
-4. Hustle (5:18)
-5. For The Culture (4:01)
-6. To Never Forget The Source (2:55)
-7. In Rememberance Of Those Fallen (5:06)
-8. Let The Circle Be Unbroken (6:29)
-9. Envision Yourself Levitating (8:23)
-10. Throughout The Madness, Stay Strong (5:53)
-11. Black (2:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Field Negus | 3:03 |
+| A2 | Pick Up Your Burning Cross | 3:44 |
+| A3 | Think Of Home | 3:32 |
+| B1 | Hustle | 5:18 |
+| B2 | For The Culture | 4:01 |
+| B3 | To Never Forget The Source | 2:55 |
+| C1 | In Rememberance Of Those Fallen | 5:06 |
+| C2 | Let The Circle Be Unbroken | 6:29 |
+| D1 | Envision Yourself Levitating | 8:23 |
+| D2 | Throughout The Madness, Stay Strong | 5:53 |
+| D3 | Black | 2:42 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/black-to-the-future/1558301183" >}}<br>
 
 
-## Videos
-### Sons Of Kemet - To Never Forget The Source Visualizer
-{{< youtube id="pZUbNXhnSm4" title="Sons Of Kemet - To Never Forget The Source Visualizer" >}}<br>
-### More Videos
-
-- [Sons Of Kemet - Envision Yourself Levitating Audio](https://www.youtube.com/watch?v=tnRyUJhGPiM)
-- [Sons Of Kemet - Think Of Home Audio](https://www.youtube.com/watch?v=We057kA3Ufk)
-- [Sons Of Kemet Joshua Idehen - Black Audio](https://www.youtube.com/watch?v=lKPcYyEB9is)
-- [Sons Of Kemet - For The Culture Audio ft D Double E](https://www.youtube.com/watch?v=jCTdusj5BwU)
-- [Sons Of Kemet - Let The Circle Be Unbroken Audio](https://www.youtube.com/watch?v=Vs8LkbdxERo)
-- [Sons Of Kemet - To Never Forget The Source Visualizer](https://www.youtube.com/watch?v=pZUbNXhnSm4)
-- [Sons Of Kemet - Envision Yourself Levitating Audio](https://www.youtube.com/watch?v=tnRyUJhGPiM)
-- [Sons Of Kemet - Think Of Home Audio](https://www.youtube.com/watch?v=We057kA3Ufk)
-- [Sons Of Kemet Joshua Idehen - Black Audio](https://www.youtube.com/watch?v=lKPcYyEB9is)
-- [Sons Of Kemet - For The Culture Audio ft D Double E](https://www.youtube.com/watch?v=jCTdusj5BwU)
-- [Sons Of Kemet - Let The Circle Be Unbroken Audio](https://www.youtube.com/watch?v=Vs8LkbdxERo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -98,5 +85,5 @@ styles: ["Afrobeat", "Fusion"]
 | Format         | Vinyl 2× LP Album |
 | Label          | Impulse! |
 | Catalog Number | 00602435621661 |
-| Notes | Angel Bat Dawid appears courtesy of Angel Bat Dawid. Moor Mother appears courtesy of Don Giovanni Records. Lianne La Havas appears courtesy of Warner Records UK, a division of Warner Music UK Limited.  60 Impulse! sticker on shrinkwrap.  Sterling stamp etched in runouts. |
+| Notes | Angel Bat Dawid appears courtesy of Angel Bat Dawid.<br>Moor Mother appears courtesy of Don Giovanni Records.<br>Lianne La Havas appears courtesy of Warner Records UK, a division of Warner Music UK Limited.<br><br>60 Impulse! sticker on shrinkwrap.<br><br>Sterling stamp etched in runouts. |
 | Discogs URL    | [Sons Of Kemet - Black To The Future](https://www.discogs.com/release/18665626-Sons-Of-Kemet-Black-To-The-Future) |

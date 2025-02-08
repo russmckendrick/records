@@ -4,6 +4,7 @@ artist_name: "Ride"
 artist: "ride"
 album_name: "Tarantula"
 date: 2023-08-06T07:40:28.000000Z
+release_date: "1996-03-12"
 release_id: "27861876"
 slug: "tarantula-27861876"
 hideSummary: true
@@ -28,38 +29,32 @@ Tarantula is the fourth studio album by British rock band Ride, released in Marc
 This is also the only Ride album on which Andy Bell's vocal duties outweigh those of regular frontman Mark Gardener, due to internal conflict and the prior of their breakup.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Black Nite Crash
-2. Sunshine / Nowhere To Run
-3. Dead Man
-4. Walk On Water
-5. Deep Inside My Pocket
-6. Mary Anne
-7. Castle On The Hill
-8. Gonna Be Alright
-9. The Dawn Patrol
-10. Ride The Wind
-11. Burnin'
-12. Starlight Motel
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Black Nite Crash |  |
+| A2 | Sunshine / Nowhere To Run |  |
+| A3 | Dead Man |  |
+| A4 | Walk On Water |  |
+| A5 | Deep Inside My Pocket |  |
+| A6 | Mary Anne |  |
+| B7 | Castle On The Hill |  |
+| B8 | Gonna Be Alright |  |
+| B9 | The Dawn Patrol |  |
+| B10 | Ride The Wind |  |
+| B11 | Burnin' |  |
+| B12 | Starlight Motel |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tarantula-remastered/884028948" >}}<br>
 
 
-## Videos
-### Ride - Black Nite Crash
-{{< youtube id="gUee69Oo2sk" title="Ride - Black Nite Crash" >}}<br>
-### More Videos
-
-- [Ride - Sunshine  Nowhere to Run](https://www.youtube.com/watch?v=4MH-kXD1Bco)
-- [Ride - Ride The Wind](https://www.youtube.com/watch?v=vlnL2H6RJEk)
-- [Ride - Burnin](https://www.youtube.com/watch?v=YlG4KXvTA7M)
-- [Ride - Castle On The Hill](https://www.youtube.com/watch?v=JSh_exG6YJM)
-- [Ride - Walk On Water](https://www.youtube.com/watch?v=U29GLDNAVsE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +66,5 @@ This is also the only Ride album on which Andy Bell's vocal duties outweigh thos
 | Format         | Vinyl LP Album Limited Edition Reissue |
 | Label          | Wichita |
 | Catalog Number | WEBB577LP |
-| Notes | Hype sticker states orange vinyl. Due to an error at the pressing plant, all preorders were pressed on black vinyl.   Tracks numbered sequentailly across both sides.  Includes full album download with three bonus tracks. |
+| Notes | Hype sticker states orange vinyl. Due to an error at the pressing plant, all preorders were pressed on black vinyl. <br><br>Tracks numbered sequentailly across both sides.<br><br>Includes full album download with three bonus tracks. |
 | Discogs URL    | [Ride - Tarantula](https://www.discogs.com/release/27861876-Ride-Tarantula) |

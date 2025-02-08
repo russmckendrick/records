@@ -4,6 +4,7 @@ artist_name: "Kraftwerk"
 artist: "kraftwerk"
 album_name: "The Mix"
 date: 2017-04-23T12:08:38.000000Z
+release_date: "2018-03-20"
 release_id: "10035766"
 slug: "the-mix-10035766"
 hideSummary: true
@@ -34,42 +35,31 @@ styles: ["Electro"]
 The Mix is the tenth studio album by the German electronic music band Kraftwerk. It was released on 10 June 1991 by Kling Klang and EMI in Europe and by Elektra Records in North America. It features entirely re-arranged and re-recorded versions of a selection of songs which had originally appeared on Kraftwerk's albums Autobahn (1974) through Electric Café (1986). Some of the songs, such as "The Robots" and "Radioactivity", feature new additional melodies and/or lyrics.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Robots (8:59)
-2. Computer Love (6:39)
-3. Pocket Calculator (4:32)
-4. Dentaku (3:27)
-5. Autobahn (9:28)
-6. Radioactivity (6:53)
-7. Trans Europe Express (3:20)
-8. Abzug (2:18)
-9. Metal On Metal (4:59)
-10. Home Computer (8:03)
-11. Music Non Stop (6:38)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Robots | 8:59 |
+| A2 | Computer Love | 6:39 |
+| B1 | Pocket Calculator | 4:32 |
+| B2 | Dentaku | 3:27 |
+| B3 | Autobahn | 9:28 |
+| C1 | Radioactivity | 6:53 |
+| C2 | Trans Europe Express | 3:20 |
+| C3 | Abzug | 2:18 |
+| C4 | Metal On Metal | 4:59 |
+| D1 | Home Computer | 8:03 |
+| D2 | Music Non Stop | 6:38 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kraftwerk/1361778060" >}}<br>
 
 
-## Videos
-### Kraftwerk - Musik Non Stop The Mix
-{{< youtube id="cbPc_Iu8JLA" title="Kraftwerk - Musik Non Stop The Mix" >}}<br>
-### More Videos
-
-- [Kraftwerk -  The Robots The Mix](https://www.youtube.com/watch?v=9P-JaG2PpyI)
-- [Kraftwerk - The Mix German Version](https://www.youtube.com/watch?v=K_-5QZITLzc)
-- [Kraftwerk - Radioactivity The Mix](https://www.youtube.com/watch?v=QAGCVYDJHss)
-- [Kraftwerk - Computer Love The Mix](https://www.youtube.com/watch?v=rEyxppGP8T4)
-- [Kraftwerk - The Mix German Radioaktivität HD](https://www.youtube.com/watch?v=WRLifnM08as)
-- [Kraftwerk  The Mix Side 1](https://www.youtube.com/watch?v=7nurAemGnJg)
-- [Kraftwerk  The Mix Side 2](https://www.youtube.com/watch?v=XVcEkjc6yQo)
-- [Kraftwerk  The Mix Side 3](https://www.youtube.com/watch?v=KrAk2-mQYaU)
-- [Kraftwerk  The Mix Side 4](https://www.youtube.com/watch?v=F7tQwkZmjNg)
-- [Kraftwerk   The Mix Full Album  Bonus Tracks 1991   English Version SD 854x480](https://www.youtube.com/watch?v=lnVEj5H0rpU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +71,5 @@ The Mix is the tenth studio album by the German electronic music band Kraftwerk.
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 g) |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 6605219 |
-| Notes | Kling Klang Produkt 1991 • Ralf Hütter • Florian Schneider  Digital Master. Comes with 20 page full color photo booklet (30cm x 30cm). This edition: English track-titles.  ℗ 2009 The copyright in this sound recording is owned by Ralf Hütter/Kraftwerk under exclusive licence to Parlophone Records Ltd.  © 2009 Ralf Hütter/Kraftwerk under licence to Parlophone Records Ltd. a Warner Music Group Company. Made in the EU (on labels). Printed In EU (on cover). Barcode string printed on back cover.  |
+| Notes | Kling Klang Produkt 1991 • Ralf Hütter • Florian Schneider<br><br>Digital Master. Comes with 20 page full color photo booklet (30cm x 30cm). This edition: English track-titles.<br><br>℗ 2009 The copyright in this sound recording is owned by Ralf Hütter/Kraftwerk under exclusive licence to Parlophone Records Ltd. <br>© 2009 Ralf Hütter/Kraftwerk under licence to Parlophone Records Ltd. a Warner Music Group Company.<br>Made in the EU (on labels). Printed In EU (on cover). Barcode string printed on back cover.  |
 | Discogs URL    | [Kraftwerk - The Mix](https://www.discogs.com/release/10035766-Kraftwerk-The-Mix) |

@@ -4,6 +4,7 @@ artist_name: "Terrorvision"
 artist: "terrorvision"
 album_name: "How To Make Friends And Influence People"
 date: 2019-05-31T19:17:19.000000Z
+release_date: "1994"
 release_id: "996005"
 slug: "how-to-make-friends-and-influence-people-996005"
 hideSummary: true
@@ -24,41 +25,33 @@ styles: ["Pop Rock", "Indie Rock"]
 How to Make Friends and Influence People is the second album by the rock band Terrorvision, released in 1994 on Total Vegas Recordings. "Oblivion", "Middleman", "Pretend Best Friend", "Alice What's the Matter", and "Some People Say" were all released as singles. The title refers to the Dale Carnegie book How to Win Friends and Influence People. The album was recorded in 17 days.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Alice What's The Matter? (2:43)
-2. Oblivion (3:03)
-3. Stop The Bus (3:43)
-4. Discotheque Wreck (3:17)
-5. Middleman (3:32)
-6. Still The Rhythm (3:32)
-7. Ten Shades Of Grey (3:03)
-8. Stab In The Back (4:51)
-9. Pretend Best Friend (3:47)
-10. Time O' The Signs (3:25)
-11. What The Doctor Ordered (2:17)
-12. Some People Say (3:03)
-13. What Makes You Tick (4:12)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Alice What's The Matter? | 2:43 |
+| A2 | Oblivion | 3:03 |
+| A3 | Stop The Bus | 3:43 |
+| A4 | Discotheque Wreck | 3:17 |
+| A5 | Middleman | 3:32 |
+| A6 | Still The Rhythm | 3:32 |
+| A7 | Ten Shades Of Grey | 3:03 |
+| B1 | Stab In The Back | 4:51 |
+| B2 | Pretend Best Friend | 3:47 |
+| B3 | Time O' The Signs | 3:25 |
+| B4 | What The Doctor Ordered | 2:17 |
+| B5 | Some People Say | 3:03 |
+| B6 | What Makes You Tick | 4:12 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/how-to-make-friends-and-influence-people/691355372" >}}<br>
 
 
-## Videos
-### Terrorvision - Alice Whats the matter
-{{< youtube id="VOOcJobuZTc" title="Terrorvision - Alice Whats the matter" >}}<br>
-### More Videos
-
-- [Terrorvision - Oblivion](https://www.youtube.com/watch?v=5RIlRhXXQjg)
-- [Middle Man](https://www.youtube.com/watch?v=S0i5RnRj-ZM)
-- [Pretend Best Friend](https://www.youtube.com/watch?v=oZ4LW_BkO_M)
-- [What Makes You Tick](https://www.youtube.com/watch?v=Ooxedc1BiPM)
-- [Stop the Bus](https://www.youtube.com/watch?v=MG2PtSSNbho)
-- [Terrorvision  Some People Say](https://www.youtube.com/watch?v=4IuL7EDHPi8)
-- [Time O the Signs](https://www.youtube.com/watch?v=Y5LS9iSIJv4)
 
 ## Release Images
 {{< imageGrid >}}

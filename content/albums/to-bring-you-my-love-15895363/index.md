@@ -32,34 +32,24 @@ The opening title track sets the swampy, unsettling mood—a dark religious revi
 
 
 ## Tracklisting
-1. To Bring You My Love
-2. Meet Ze Monsta
-3. Working For The Man
-4. C'mon Billy
-5. Teclo
-6. Long Snake Moan
-7. Down By The Water
-8. I Think I'm A Mother
-9. Send His Love To Me
-10. The Dancer
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | To Bring You My Love |  |
+| A2 | Meet Ze Monsta |  |
+| A3 | Working For The Man |  |
+| A4 | C'mon Billy |  |
+| A5 | Teclo |  |
+| B1 | Long Snake Moan |  |
+| B2 | Down By The Water |  |
+| B3 | I Think I'm A Mother |  |
+| B4 | Send His Love To Me |  |
+| B5 | The Dancer |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/to-bring-you-my-love/1440922042" >}}<br>
 
 
-## Videos
-### PJ Harvey - Down By The Water
-{{< youtube id="lbq4G1TjKYg" title="PJ Harvey - Down By The Water" >}}<br>
-### More Videos
-
-- [To Bring You My Love](https://www.youtube.com/watch?v=P-O91rE4Fe0)
-- [Meet Ze Monsta](https://www.youtube.com/watch?v=hQNMZshcU6k)
-- [Working For The Man](https://www.youtube.com/watch?v=xuQ0thdv66s)
-- [PJ Harvey - Cmon Billy](https://www.youtube.com/watch?v=pr1j3GfJuR4)
-- [Teclo](https://www.youtube.com/watch?v=4qU0IWBAm-s)
-- [Long Snake Moan](https://www.youtube.com/watch?v=mbuvj1k_LIc)
-- [I Think Im A Mother](https://www.youtube.com/watch?v=d_AVPjUfsJQ)
-- [The Dancer](https://www.youtube.com/watch?v=uV99yrooqjg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +61,5 @@ The opening title track sets the swampy, unsettling mood—a dark religious revi
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Island Records |
 | Catalog Number | 0896473 |
-| Notes | Initial copies with hype sticker, and included download card from thesoundofvinyl.com, in 16bit / 44.1KHz WAV format.  ℗ 1995 Universal Music Operations Ltd. © 1995 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company.  Universal International Music. B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany.  Jacket is made from textured matte cardstock. Artist/title text is overprinted on the front cover to give a slightly embossed effect.  Issued with printed inner sleeve.  First catalog number (0896473) on jacket spine, back, labels, inner sleeve. Second catalog number (00602508964732) on jacket back, label rimtext.  Hype sticker (catalog number 0896473) affixed to shrink: Re-issue of the original 1995 album To Bring You My Love, featuring the singles Down By The Water, C'mon Billy and Send His Love To Me Pressed on 180GSM vinyl Includes download card  Recorded at Townhouse Three, Battersea - September/October 1994 Mixed at Windmill Lane, Dublin - October/November 1994  All titles © Hot Head Music Limited (ASCAP) Administered by Kobalt Songs Music Publishing (ASCAP)  Runouts are etched, Optimal plating marks (e.g., =1, V1, etc.) are mirrored. |
+| Notes | Initial copies with hype sticker, and included download card from thesoundofvinyl.com, in 16bit / 44.1KHz WAV format.<br><br>℗ 1995 Universal Music Operations Ltd. © 1995 Universal Music Operations Ltd.<br>The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. <br>Universal International Music. B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands.<br>Made in Germany.<br><br>Jacket is made from textured matte cardstock. Artist/title text is overprinted on the front cover to give a slightly embossed effect.<br><br>Issued with printed inner sleeve.<br><br>First catalog number (0896473) on jacket spine, back, labels, inner sleeve.<br>Second catalog number (00602508964732) on jacket back, label rimtext.<br><br>Hype sticker (catalog number 0896473) affixed to shrink:<br>Re-issue of the original 1995 album To Bring You My Love, featuring the singles Down By The Water, C'mon Billy and Send His Love To Me<br>Pressed on 180GSM vinyl<br>Includes download card<br><br>Recorded at Townhouse Three, Battersea - September/October 1994<br>Mixed at Windmill Lane, Dublin - October/November 1994<br><br>All titles © Hot Head Music Limited (ASCAP)<br>Administered by Kobalt Songs Music Publishing (ASCAP)<br><br>Runouts are etched, Optimal plating marks (e.g., =1, V1, etc.) are mirrored. |
 | Discogs URL    | [PJ Harvey - To Bring You My Love](https://www.discogs.com/release/15895363-PJ-Harvey-To-Bring-You-My-Love) |

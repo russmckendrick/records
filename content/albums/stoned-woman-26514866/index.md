@@ -4,6 +4,7 @@ artist_name: "Mother Earth"
 artist: "mother-earth"
 album_name: "Stoned Woman"
 date: 2023-12-14T11:21:40.000000Z
+release_date: "1992-01-01"
 release_id: "26514866"
 slug: "stoned-woman-26514866"
 hideSummary: true
@@ -21,35 +22,28 @@ styles: ["Acid Jazz", "Soul", "Funk"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Riot On 103rd Street
-2. Look To The Light
-3. Stoned Woman
-4. The 5th Quadrant
-5. Jonathan E
-6. Bad Ass Weed
-7. Knowledge (Rap)
-8. Knowledge (Instrumental)
-9. Look To The Light (Alternate)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Riot On 103rd Street |  |
+| A2 | Look To The Light |  |
+| A3 | Stoned Woman |  |
+| A4 | The 5th Quadrant |  |
+| B1 | Jonathan E |  |
+| B2 | Bad Ass Weed |  |
+| B3 | Knowledge (Rap) |  |
+| B4 | Knowledge (Instrumental) |  |
+| B5 | Look To The Light (Alternate) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stoned-woman/1152592674" >}}<br>
 
 
-## Videos
-### Theme from Riot on 103rd Street
-{{< youtube id="2gmCTD3IEIM" title="Theme from Riot on 103rd Street" >}}<br>
-### More Videos
-
-- [Look To The Light](https://www.youtube.com/watch?v=ZrUTQvPhL8M)
-- [Stoned Woman](https://www.youtube.com/watch?v=f7e5KezOzCY)
-- [The Fifth Quadrant](https://www.youtube.com/watch?v=NbwUScJuVMA)
-- [Jonathan E](https://www.youtube.com/watch?v=ZAk9APjQeP0)
-- [Bad Ass Weed](https://www.youtube.com/watch?v=ChOI-Vw08Sg)
-- [Knowledge Rap Version](https://www.youtube.com/watch?v=fxU5i6YefnY)
-- [Knowledge](https://www.youtube.com/watch?v=nw1dtLDAy-o)
-- [Look To The Light Alternate Flute Mix](https://www.youtube.com/watch?v=REpkPqI9_o8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,5 +54,5 @@ styles: ["Acid Jazz", "Soul", "Funk"]
 | Format         | Vinyl LP Album Reissue (Yellow) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP297Y |
-| Notes | ℗ 1992 Acid Jazz Records © 1992 Acid Jazz Records |
+| Notes | ℗ 1992 Acid Jazz Records<br>© 1992 Acid Jazz Records |
 | Discogs URL    | [Mother Earth - Stoned Woman](https://www.discogs.com/release/26514866-Mother-Earth-Stoned-Woman) |

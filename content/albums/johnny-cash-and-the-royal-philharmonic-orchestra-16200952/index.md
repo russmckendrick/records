@@ -4,6 +4,7 @@ artist_name: "Johnny Cash"
 artist: "johnny-cash"
 album_name: "Johnny Cash And The Royal Philharmonic Orchestra"
 date: 2020-12-26T06:26:06.000000Z
+release_date: "2020-11-13"
 release_id: "16200952"
 slug: "johnny-cash-and-the-royal-philharmonic-orchestra-16200952"
 hideSummary: true
@@ -28,27 +29,30 @@ Johnny Cash and the Royal Philharmonic Orchestra is a posthumously released albu
 The album debuted at number 10 on the UK Albums Chart, selling 7,861 units in its first week. It is Cash's first charting album since Out Among the Stars (2014).
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Man In Black
-2. Galway Bay
-3. Girl From The North Country
-4. I Came To Believe
-5. A Thing Called Love
-6. The Loving Gift
-7. I Walk The Line
-8. Farther Along
-9. Flesh And Blood
-10. The Gambler
-11. Ring Of Fire
-12. Highwayman
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Man In Black |  |
+| A2 | Galway Bay |  |
+| A3 | Girl From The North Country |  |
+| A4 | I Came To Believe |  |
+| A5 | A Thing Called Love |  |
+| A6 | The Loving Gift |  |
+| B1 | I Walk The Line |  |
+| B2 | Farther Along |  |
+| B3 | Flesh And Blood |  |
+| B4 | The Gambler |  |
+| B5 | Ring Of Fire |  |
+| B6 | Highwayman |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/johnny-cash-and-the-royal-philharmonic-orchestra/1530090983" >}}<br>
-
 
 
 

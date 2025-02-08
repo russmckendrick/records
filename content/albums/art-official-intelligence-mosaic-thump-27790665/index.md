@@ -27,32 +27,31 @@ The four years De La Soul took off between <i>Stakes Is High</i> and 2000’s <i
 
 
 ## Tracklisting
-1. Spitkicker.com / Say R. (1:19)
-2. U Can Do (Life) (4:23)
-3. My Writes (5:29)
-4. Oooh / Ghost Weed Skit 01 (5:27)
-5. Thru Ya City (3:29)
-6. I.C. Y'All (3:21)
-7. View (3:56)
-8. Interluden (0:22)
-9. Set The Mood / Ghost Weed Skit 02  (4:24)
-10. All Good? (4:58)
-11. Declaration (2:56)
-12. Squat! (4:14)
-13. Words From The Chief Rocker (1:01)
-14. With Me / Ghost Weed Skit 03 (4:52)
-15. Copa (Cabanga) (4:05)
-16. Foolin' (4:22)
-17. The Art Of Getting Jumped (3:47)
-18. U Don't Wanna B.D.S (4:13)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Spitkicker.com / Say R. | 1:19 |
+| A2 | U Can Do (Life) | 4:23 |
+| A3 | My Writes | 5:29 |
+| A4 | Oooh / Ghost Weed Skit 01 | 5:27 |
+| A5 | Thru Ya City | 3:29 |
+| B1 | I.C. Y'All | 3:21 |
+| B2 | View | 3:56 |
+| B3 | Interluden | 0:22 |
+| B4 | Set The Mood / Ghost Weed Skit 02  | 4:24 |
+| B5 | All Good? | 4:58 |
+| C1 | Declaration | 2:56 |
+| C2 | Squat! | 4:14 |
+| C3 | Words From The Chief Rocker | 1:01 |
+| C4 | With Me / Ghost Weed Skit 03 | 4:52 |
+| D1 | Copa (Cabanga) | 4:05 |
+| D2 | Foolin' | 4:22 |
+| D3 | The Art Of Getting Jumped | 3:47 |
+| D4 | U Don't Wanna B.D.S | 4:13 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/art-official-intelligence-mosaic-thump/1673761955" >}}<br>
 
-
-## Videos
-### Thru Ya City
-{{< youtube id="LWivj5sx_eU" title="Thru Ya City" >}}<br>
 
 
 ## Release Images
@@ -65,5 +64,5 @@ The four years De La Soul took off between <i>Stakes Is High</i> and 2000’s <i
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | AOI Records |
 | Catalog Number | RMM 055-1 |
-| Notes | Release date of August 11, 2023 in the U.S. and September 15, 2023 Worldwide. "MADE IN CZECH REPUBLIC" sticker on back shrink  RMM-055-1 on 'hype' sticker |
+| Notes | Release date of August 11, 2023 in the U.S. and September 15, 2023 Worldwide.<br>"MADE IN CZECH REPUBLIC" sticker on back shrink<br><br>RMM-055-1 on 'hype' sticker |
 | Discogs URL    | [De La Soul - Art Official Intelligence: Mosaic Thump](https://www.discogs.com/release/27790665-De-La-Soul-Art-Official-Intelligence-Mosaic-Thump) |

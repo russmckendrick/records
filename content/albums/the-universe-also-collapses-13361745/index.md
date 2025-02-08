@@ -4,6 +4,7 @@ artist_name: "Gong"
 artist: "gong"
 album_name: "The Universe Also Collapses "
 date: 2019-05-10T18:52:57.000000Z
+release_date: "2019-05-10"
 release_id: "13361745"
 slug: "the-universe-also-collapses-13361745"
 hideSummary: true
@@ -28,28 +29,24 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 The Universe Also Collapses is a studio album by the psychedelic rock band Gong, released on 10 May 2019 by Kscope. The album was highly acclaimed.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Forever Reoccurring (20:37)
-2. If Never I'm And Ever You (2:07)
-3. My Sawtooth Wake (13:14)
-4. The Elemental (6:43)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Forever Reoccurring | 20:37 |
+| B1 | If Never I'm And Ever You | 2:07 |
+| B2 | My Sawtooth Wake | 13:14 |
+| B3 | The Elemental | 6:43 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-universe-also-collapses/1453425781" >}}<br>
 
 
-## Videos
-### Forever Reoccurring
-{{< youtube id="gyjBBUZ5cwE" title="Forever Reoccurring" >}}<br>
-### More Videos
-
-- [My Sawtooth Wake](https://www.youtube.com/watch?v=7hbZfHer4Jw)
-- [The Elemental](https://www.youtube.com/watch?v=7jjCO45jw88)
-- [If Never Im and Ever You](https://www.youtube.com/watch?v=B3jBKRKQSXQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +58,5 @@ The Universe Also Collapses is a studio album by the psychedelic rock band Gong,
 | Format         | Vinyl LP Album Limited Edition (Pink) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1039 |
-| Notes | Special limited edition of 500 on 180gsm pink vinyl.  Vinyl housed in inner pic sleeve with band picture, lyrics and credits.  Album housed in a resealable vinyl bag.  Centre label on Side A has a psychedelic star image. Side B has the Gong mandala.   Square pink hype sticker with white writing. All copies come with KSCOPE advertising card 10"x10" |
+| Notes | Special limited edition of 500 on 180gsm pink vinyl.  Vinyl housed in inner pic sleeve with band picture, lyrics and credits.  Album housed in a resealable vinyl bag.<br><br>Centre label on Side A has a psychedelic star image. Side B has the Gong mandala.  <br>Square pink hype sticker with white writing.<br>All copies come with KSCOPE advertising card 10"x10" |
 | Discogs URL    | [Gong - The Universe Also Collapses ](https://www.discogs.com/release/13361745-Gong-The-Universe-Also-Collapses-) |

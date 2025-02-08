@@ -47,21 +47,23 @@ styles: ["Minneapolis Sound", "Funk"]
 
 
 ## Tracklisting
-1. 1999 (6:14)
-2. Little Red Corvette (5:04)
-3. Delirious (4:00)
-4. Let's Pretend We're Married (7:20)
-5. D.M.S.R. (8:18)
-6. Automatic (9:26)
-7. Something In The Water (Does Not Compute) (4:02)
-8. Free (5:07)
-9. Lady Cab Driver (8:17)
-10. All The Critics Love U In New York (5:58)
-11. International Lover (6:38)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 1999 | 6:14 |
+| A2 | Little Red Corvette | 5:04 |
+| A3 | Delirious | 4:00 |
+| B1 | Let's Pretend We're Married | 7:20 |
+| B2 | D.M.S.R. | 8:18 |
+| C1 | Automatic | 9:26 |
+| C2 | Something In The Water (Does Not Compute) | 4:02 |
+| C3 | Free | 5:07 |
+| D1 | Lady Cab Driver | 8:17 |
+| D2 | All The Critics Love U In New York | 5:58 |
+| D3 | International Lover | 6:38 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/1999/214145240" >}}<br>
-
 
 
 
@@ -75,5 +77,5 @@ styles: ["Minneapolis Sound", "Funk"]
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered (Purple, 180 gram) |
 | Label          | Warner Records |
 | Catalog Number | RR1 23720 |
-| Notes | Red sticker on shrink: The iconic album remastered for the very first time Limited edition, 180g 2LP set pressed on Prince purple vinyl Includes download code RR1 23720  Vinyl housed in die-cut black paper, polylined inner sleeves, and come with two replica inner sleeves containing pictures, credits and lyrics.  Album title stylized as **1999** on labels.  Cover, back Made in the E.U. PRINCE.COM |603497849987  Labels: RR1 23720 Made in the E.U. GEMA/BIEM • 603497849987  ℗ & © 2019, 1982 NPG Records, Inc. Under exclusive license to Warner Records Inc. Made in the E.U.  |
+| Notes | Red sticker on shrink:<br>The iconic album remastered for the very first time<br>Limited edition, 180g 2LP set pressed on Prince purple vinyl<br>Includes download code<br>RR1 23720<br><br>Vinyl housed in die-cut black paper, polylined inner sleeves, and come with two replica inner sleeves containing pictures, credits and lyrics.<br><br>Album title stylized as **1999** on labels.<br><br>Cover, back<br>Made in the E.U. PRINCE.COM |603497849987<br><br>Labels:<br>RR1 23720<br>Made in the E.U. GEMA/BIEM • 603497849987<br><br>℗ & © 2019, 1982 NPG Records, Inc. Under exclusive license to Warner Records Inc. Made in the E.U.<br> |
 | Discogs URL    | [Prince - 1999](https://www.discogs.com/release/14462421-Prince-1999) |

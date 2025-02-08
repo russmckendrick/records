@@ -1,16 +1,17 @@
 ---
-title: "B.B. King - Selections From: Ladies & Gentlemen ... Mr. B.B. King"
-artist_name: "B.B. King"
-artist: "b-b-king"
+title: "BB King - Selections From: Ladies & Gentlemen ... Mr. B.B. King"
+artist_name: "BB King"
+artist: "bb-king"
 album_name: "Selections From: Ladies & Gentlemen ... Mr. B.B. King"
 date: 2015-12-01T22:11:01.000000Z
+release_date: "2015-01-02"
 release_id: "7771447"
 slug: "selections-from-ladies-gentlemen-mr-b-b-king-7771447"
 hideSummary: true
 cover:
     image: "selections-from-ladies-gentlemen-mr-b-b-king-7771447.jpg"
-    alt: "Selections From: Ladies & Gentlemen ... Mr. B.B. King by B.B. King"
-    caption: "Selections From: Ladies & Gentlemen ... Mr. B.B. King by B.B. King"
+    alt: "Selections From: Ladies & Gentlemen ... Mr. B.B. King by BB King"
+    caption: "Selections From: Ladies & Gentlemen ... Mr. B.B. King by BB King"
 additional_images:
     - "https://i.discogs.com/DpzUxYFh3k4x6zNPIdJSdyCnOKrCqba-U5QNA2qBjBM/rs:fit/g:sm/q:90/h:393/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzE0/NDctMTQ0ODQ0Mjcy/NS01ODI0LmpwZWc.jpeg"
     - "https://i.discogs.com/Kv9W7qDjmn2IWcT0b1eo84b-VSaS56IEh3oPvndHmn0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzE0/NDctMTUxOTc2OTI2/NC05NDU1LmpwZWc.jpeg"
@@ -31,36 +32,36 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. How Blue Can You Get?
-2. I Wonder Why
-3. Think It Over
-4. The Thrill Is Gone
-5. Chains And Things
-6. Worry, Worry
-7. Sweet Sixteen
-8. Ghetto Woman
-9. There Must Be A Better World Somewhere
-10. When Love Comes To Town
-11. Stormy Monday Blues
-12. Blues Man
-13. Caldonia
-14. You Have A Way
-15. Key To The Highway (Live) 
-16. Get These Blues Off Me 
-17. See That My Grave Is Kept Clean
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | How Blue Can You Get? |  |
+| A2 | I Wonder Why |  |
+| A3 | Think It Over |  |
+| A4 | The Thrill Is Gone |  |
+| A5 | Chains And Things |  |
+| B1 | Worry, Worry |  |
+| B2 | Sweet Sixteen |  |
+| B3 | Ghetto Woman |  |
+| C1 | There Must Be A Better World Somewhere |  |
+| C2 | When Love Comes To Town |  |
+| C3 | Stormy Monday Blues |  |
+| C4 | Blues Man |  |
+| D1 | Caldonia |  |
+| D2 | You Have A Way |  |
+| D3 | Key To The Highway (Live)  |  |
+| D4 | Get These Blues Off Me  |  |
+| D5 | See That My Grave Is Kept Clean |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ladies-gentlemen-single/947692405" >}}<br>
 
 
-## Videos
-### Ladies and Gentlemen Mr BB King auf bbkingfande
-{{< youtube id="UDuvJ9pweig" title="Ladies and Gentlemen Mr BB King auf bbkingfande" >}}<br>
-### More Videos
-
-- [Ladies and Gentlemen Mr BB King auf bbkingfande](https://www.youtube.com/watch?v=UDuvJ9pweig)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +72,5 @@ styles: []
 | Format         | Vinyl 2× LP Compilation (180 Gram, Gatefold) |
 | Label          | Universal Music Group International |
 | Catalog Number | 0600753629734 |
-| Notes | Includes voucher to download MP3 version of the album. Gatefold cover. Made in Germany (on back cover), Made in The E.U. (on label Sie1 & Side 3) |
-| Discogs URL    | [B.B. King - Selections From: Ladies & Gentlemen ... Mr. B.B. King](https://www.discogs.com/release/7771447-BB-King-Selections-From-Ladies-Gentlemen--Mr-BB-King) |
+| Notes | Includes voucher to download MP3 version of the album.<br>Gatefold cover.<br>Made in Germany (on back cover), Made in The E.U. (on label Sie1 & Side 3) |
+| Discogs URL    | [BB King - Selections From: Ladies & Gentlemen ... Mr. B.B. King](https://www.discogs.com/release/7771447-BB-King-Selections-From-Ladies-Gentlemen--Mr-BB-King) |

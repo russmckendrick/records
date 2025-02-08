@@ -32,30 +32,22 @@ As synonymous as the album is in the collective memory with ’80s music, the re
 
 
 ## Tracklisting
-1. Shout (6:31)
-2. The Working Hour (6:31)
-3. Everybody Wants To Rule The World (4:10)
-4. Mothers Talk (5:07)
-5. I Believe (4:54)
-6. Broken (2:38)
-7. Head Over Heels (5:02)
-8. Listen (6:49)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Shout | 6:31 |
+| A2 | The Working Hour | 6:31 |
+| A3 | Everybody Wants To Rule The World | 4:10 |
+| A4 | Mothers Talk | 5:07 |
+| B1 | I Believe | 4:54 |
+| B2 | Broken | 2:38 |
+| B3 | Head Over Heels | 5:02 |
+| B4 | Listen | 6:49 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songs-from-the-big-chair/1440813508" >}}<br>
 
 
-## Videos
-### The Working Hour
-{{< youtube id="eroNADQ_mL8" title="The Working Hour" >}}<br>
-### More Videos
-
-- [Tears For Fears - Listen](https://www.youtube.com/watch?v=CY4va_mw3gk)
-- [Broken](https://www.youtube.com/watch?v=Vsva4qGh8l8)
-- [I Believe](https://www.youtube.com/watch?v=1n4OuEJMIEs)
-- [Tears For Fears - Head Over Heels](https://www.youtube.com/watch?v=CsHiG-43Fzg)
-- [Tears For Fears - Mothers Talk US Mix](https://www.youtube.com/watch?v=5dCD1p0zPbs)
-- [Tears For Fears - Shout Official Music Video](https://www.youtube.com/watch?v=Ye7FKc1JQe4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +59,5 @@ As synonymous as the album is in the collective memory with ’80s music, the re
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 3794995 |
-| Notes | Includes voucher to download MP3 version of the album.  ℗ 2014 Mercury Records Limited. © 2014 Mercury Records Limited. Made in EU.   All runouts are hand etched. Plating symbols are mirrored.  |
+| Notes | Includes voucher to download MP3 version of the album.<br><br>℗ 2014 Mercury Records Limited. © 2014 Mercury Records Limited.<br>Made in EU. <br><br>All runouts are hand etched. Plating symbols are mirrored.  |
 | Discogs URL    | [Tears For Fears - Songs From The Big Chair](https://www.discogs.com/release/6298468-Tears-For-Fears-Songs-From-The-Big-Chair) |

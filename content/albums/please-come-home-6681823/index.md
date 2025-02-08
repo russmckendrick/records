@@ -4,6 +4,7 @@ artist_name: "Lonely Robot"
 artist: "lonely-robot"
 album_name: "Please Come Home"
 date: 2016-01-10T12:52:53.000000Z
+release_date: "2015-03-10"
 release_id: "6681823"
 slug: "please-come-home-6681823"
 hideSummary: true
@@ -30,45 +31,42 @@ styles: ["Prog Rock"]
 
 "Christmas (Baby Please Come Home)" is a pop song originally sung by Darlene Love and included on the 1963 compilation album A Christmas Gift for You from Philles Records (later renamed A Christmas Gift for You from Phil Spector). The song was written by Ellie Greenwich, Jeff Barry, and Phil Spector.
 Upon release, the song did not find commercial success, but in later years it has gone on to become a Christmas standard. It charted for the first time on the Billboard Hot 100 in December 2018 and has since peaked at number 15. It has also been listed on the Billboard Holiday 100 chart, peaking at number seven. The song has been covered by U2, Mariah Carey, Cher, Death Cab for Cutie, and Michael Bublé, among others.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Airlock
-2. God Vs Man
-3. The Boy In The Radio
-4. Why Do We Stay?
-5. Lonely Robot
-6. A Godless Sea
-7. Oubliette
-8. Construct/Obstruct
-9. Are We Copies?
-10. Humans Being
-11. The Red Balloon
-12. Airlock (3:55)
-13. God Vs Man (5:40)
-14. The Boy In The Radio (4:49)
-15. Why Do We Stay? (5:10)
-16. Lonely Robot (8:07)
-17. A Godless Sea (5:26)
-18. Oubliette (5:19)
-19. Construct/Obstruct (5:46)
-20. Are We Copies? (6:17)
-21. Human Being (5:36)
-22. The Red Balloon (2:01)
+| Position | Title | Duration |
+|----------|-------|----------|
+| LP-A1 | Airlock |  |
+| LP-A2 | God Vs Man |  |
+| LP-A3 | The Boy In The Radio |  |
+| LP-B1 | Why Do We Stay? |  |
+| LP-B2 | Lonely Robot |  |
+| LP-C1 | A Godless Sea |  |
+| LP-C2 | Oubliette |  |
+| LP-C3 | Construct/Obstruct |  |
+| LP-D1 | Are We Copies? |  |
+| LP-D2 | Humans Being |  |
+| LP-D3 | The Red Balloon |  |
+| CD-1 | Airlock | 3:55 |
+| CD-2 | God Vs Man | 5:40 |
+| CD-3 | The Boy In The Radio | 4:49 |
+| CD-4 | Why Do We Stay? | 5:10 |
+| CD-5 | Lonely Robot | 8:07 |
+| CD-6 | A Godless Sea | 5:26 |
+| CD-7 | Oubliette | 5:19 |
+| CD-8 | Construct/Obstruct | 5:46 |
+| CD-9 | Are We Copies? | 6:17 |
+| CD-10 | Human Being | 5:36 |
+| CD-11 | The Red Balloon | 2:01 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/please-come-home/1049160955" >}}<br>
 
 
-## Videos
-### Why Do We Stay - Lonely Robot
-{{< youtube id="WnXbsTZQX3g" title="Why Do We Stay - Lonely Robot" >}}<br>
-### More Videos
-
-- [Lonely Robot - A Godless Sea](https://www.youtube.com/watch?v=5-ZEiRKwuqw)
-- [Lonely Robot - Airlock](https://www.youtube.com/watch?v=XeZcUm77IJg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +78,5 @@ Upon release, the song did not find commercial success, but in later years it ha
 | Format         | Vinyl 2× LP Album Stereo (180 Gram), CD Album Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 415 |
-| Notes | Sticker on front reads: "New project by mastermind, producer, guitarist and vocalist John Mitchell (Kino, It Bites, Frost*, Arena), feat. guest appearances from Peter Cox (Go West, Ex- Manfred Mann's Earth Band), Nik Kershaw, Steve Hogarth (Marillion) and many more ...  "Lonely Robot is a gloriously ambitious sonic adventure, produced and performed to perfection" - Steven Wilson  Packaged in a gatefold jacket with color inner sleeves and hype sticker affixed to the front. CD comes packaged inside in a clear envelope-style PVC sleeve.  On tour in the spring 2015!  This sticker is removeable."  Orders through German retailer JPC come with an autographed promo card exclusively. |
+| Notes | Sticker on front reads:<br>"New project by mastermind, producer, guitarist and vocalist John Mitchell (Kino, It Bites, Frost*, Arena), feat. guest appearances from Peter Cox (Go West, Ex- Manfred Mann's Earth Band), Nik Kershaw, Steve Hogarth (Marillion) and many more ...<br><br>"Lonely Robot is a gloriously ambitious sonic adventure, produced and performed to perfection" - Steven Wilson<br><br>Packaged in a gatefold jacket with color inner sleeves and hype sticker affixed to the front. CD comes packaged inside in a clear envelope-style PVC sleeve.<br><br>On tour in the spring 2015!<br><br>This sticker is removeable."<br><br>Orders through German retailer JPC come with an autographed promo card exclusively. |
 | Discogs URL    | [Lonely Robot - Please Come Home](https://www.discogs.com/release/6681823-Lonely-Robot-Please-Come-Home) |

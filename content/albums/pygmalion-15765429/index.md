@@ -4,6 +4,7 @@ artist_name: "Slowdive"
 artist: "slowdive"
 album_name: "Pygmalion"
 date: 2020-08-14T16:55:06.000000Z
+release_date: "1995-02-06"
 release_id: "15765429"
 slug: "pygmalion-15765429"
 hideSummary: true
@@ -27,38 +28,29 @@ styles: ["Post Rock", "Ethereal", "Ambient", "Abstract", "Dream Pop", "Shoegaze"
 Pygmalion is the third studio album by English rock band Slowdive, released on 6 February 1995 by Creation Records. It was the group's final album before their disbandment in 1995 and later reformation in 2014, and their only album with Ian McCutcheon, who had replaced Simon Scott on drums.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Rutti (10:05)
-2. Crazy For You (6:01)
-3. Miranda (4:49)
-4. Trellisaze (6:22)
-5. Cello (1:42)
-6. J's Heaven (6:47)
-7. Visions Of La (1:48)
-8. Blue Skied An' Clear (6:54)
-9. All Of Us (4:07)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rutti | 10:05 |
+| A2 | Crazy For You | 6:01 |
+| A3 | Miranda | 4:49 |
+| A4 | Trellisaze | 6:22 |
+| B1 | Cello | 1:42 |
+| B2 | J's Heaven | 6:47 |
+| B3 | Visions Of La | 1:48 |
+| B4 | Blue Skied An' Clear | 6:54 |
+| B5 | All Of Us | 4:07 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pygmalion/400647147" >}}<br>
 
 
-## Videos
-### Rutti
-{{< youtube id="X3UmjDqF0lc" title="Rutti" >}}<br>
-### More Videos
-
-- [Crazy for You](https://www.youtube.com/watch?v=fb4MRvJ6NXw)
-- [Miranda](https://www.youtube.com/watch?v=D5BuFce-Ro4)
-- [Trellisaze](https://www.youtube.com/watch?v=oDEG7-MKaTI)
-- [Cello](https://www.youtube.com/watch?v=cjpxk3vL8iY)
-- [Js Heaven](https://www.youtube.com/watch?v=Rrwdr7B_wtk)
-- [Visions Of LA](https://www.youtube.com/watch?v=HnDpEOfQONk)
-- [Blue Skied An Clear](https://www.youtube.com/watch?v=mrbFB_vTvHg)
-- [All Of Us](https://www.youtube.com/watch?v=kYeMBYsEWRo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +62,5 @@ Pygmalion is the third studio album by English rock band Slowdive, released on 6
 | Format         | Vinyl LP Album Numbered Reissue Repress (Clear & Green Marbled, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP604 |
-| Notes | 25th aniversary edition. Comes in a thick sleeve with alubrushed finish. Includes insert with photos and credits. Released in a clear plastic resealable sleeve with info sticker. Edition of 3000 copies.  Recorded at Courtyard Studio, Sutton Courtney, Nr Abingdon.  Originally ℗ & © 1995 Creation Records Limited. This release ℗ & © 2012 Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU |
+| Notes | 25th aniversary edition. Comes in a thick sleeve with alubrushed finish. Includes insert with photos and credits. Released in a clear plastic resealable sleeve with info sticker. Edition of 3000 copies.<br><br>Recorded at Courtyard Studio, Sutton Courtney, Nr Abingdon.<br><br>Originally ℗ & © 1995 Creation Records Limited. This release ℗ & © 2012 Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU |
 | Discogs URL    | [Slowdive - Pygmalion](https://www.discogs.com/release/15765429-Slowdive-Pygmalion) |

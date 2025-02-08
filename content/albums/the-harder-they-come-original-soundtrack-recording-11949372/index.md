@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "The Harder They Come (Original Soundtrack Recording)"
 date: 2019-01-04T19:33:59.000000Z
+release_date: ""
 release_id: "11949372"
 slug: "the-harder-they-come-original-soundtrack-recording-11949372"
 hideSummary: true
@@ -25,37 +26,31 @@ styles: ["Soundtrack", "Reggae"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. You Can Get It If You Really Want
-2. Draw Your Brakes
-3. Rivers Of Babylon
-4. Many Rivers To Cross
-5. Sweet And Dandy
-6. The Harder They Come
-7. Johnny Too Bad
-8. Shanty Town
-9. Pressure Drop
-10. Sitting In Limbo
-11. You Can Get It If You Really Want
-12. The Harder They Come
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | You Can Get It If You Really Want |  |
+| A2 | Draw Your Brakes |  |
+| A3 | Rivers Of Babylon |  |
+| A4 | Many Rivers To Cross |  |
+| A5 | Sweet And Dandy |  |
+| A6 | The Harder They Come |  |
+| B1 | Johnny Too Bad |  |
+| B2 | Shanty Town |  |
+| B3 | Pressure Drop |  |
+| B4 | Sitting In Limbo |  |
+| B5 | You Can Get It If You Really Want |  |
+| B6 | The Harder They Come |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Jimmy Cliff - The Harder They Come Original Soundtrack 1972
-{{< youtube id="StP9OX4bOgU" title="Jimmy Cliff - The Harder They Come Original Soundtrack 1972" >}}<br>
-### More Videos
 
-- [Scotty   Draw Your Brakes](https://www.youtube.com/watch?v=pcGadadrPtk)
-- [Desmond Dekker  007 Shanty Town with lyrics](https://www.youtube.com/watch?v=YspCXgdjqEM)
-- [The Harder They Come Movie HD](https://www.youtube.com/watch?v=j9U1zc8ys-Q)
-- [Review 25 Jimmy Cliff - The Harder They Come](https://www.youtube.com/watch?v=f0DNBaKWieI)
-- [Jimmy Cliff - The Harder They Come](https://www.youtube.com/watch?v=7Znh0OM9jiA)
-- [Jimmy Cliff - You Can Get If You Really Want](https://www.youtube.com/watch?v=alJGnfiQ9iU)
-- [Scotty - Draw Your Brakes - Balada Sangrenta Jimmy Cliff](https://www.youtube.com/watch?v=m7KxOv1v7Bs)
-- [Jimmy Cliff - Many Rivers to Cross](https://www.youtube.com/watch?v=7FhiM5gXRZM)
-- [The Slickers - Johnny Too Bad](https://www.youtube.com/watch?v=lRm7j2UL3YY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +61,5 @@ styles: ["Soundtrack", "Reggae"]
 | Format         | Vinyl LP Compilation Reissue (180 Gram, Gatefold) |
 | Label          | Island Records |
 | Catalog Number | 00602567073949 |
-| Notes | 180 gram vinyl Gatefold Jacket  "Made in Germany" stickered on shrink   Runouts are etched. |
+| Notes | 180 gram vinyl<br>Gatefold Jacket <br>"Made in Germany" stickered on shrink <br><br>Runouts are etched. |
 | Discogs URL    | [Various - The Harder They Come (Original Soundtrack Recording)](https://www.discogs.com/release/11949372-Various-The-Harder-They-Come-Original-Soundtrack-Recording) |

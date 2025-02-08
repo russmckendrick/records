@@ -28,29 +28,24 @@ This 10x-platinum 1980 album (the band’s ninth) is the career pinnacle for are
 
 
 ## Tracklisting
-1. Don't Let Him Go (3:44)
-2. Keep On Loving You (3:19)
-3. Follow My Heart (3:47)
-4. In Your Letter (3:14)
-5. Take It On The Run (3:59)
-6. Tough Guys (3:48)
-7. Out Of Season (3:05)
-8. Shakin' It Loose (2:24)
-9. Someone Tonight (2:39)
-10. I Wish You Were There (4:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Don't Let Him Go | 3:44 |
+| A2 | Keep On Loving You | 3:19 |
+| A3 | Follow My Heart | 3:47 |
+| A4 | In Your Letter | 3:14 |
+| A5 | Take It On The Run | 3:59 |
+| B1 | Tough Guys | 3:48 |
+| B2 | Out Of Season | 3:05 |
+| B3 | Shakin' It Loose | 2:24 |
+| B4 | Someone Tonight | 2:39 |
+| B5 | I Wish You Were There | 4:26 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hi-infidelity-30th-anniversary-edition/447759207" >}}<br>
 
 
-## Videos
-### Dont Let Him Go
-{{< youtube id="DIuJ-OoKlAE" title="Dont Let Him Go" >}}<br>
-### More Videos
-
-- [REO Speedwagon - Keep on Loving You Video Version](https://www.youtube.com/watch?v=wJzNZ1c5C9c)
-- [REO Speedwagon - Hi Infidelity Full Album](https://www.youtube.com/watch?v=VOlpdKgxdHo)
-- [Reo Speedwagon  Hi InfidelityLegacy Edition Full Album HQ](https://www.youtube.com/watch?v=sJyfQwgI-Z0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +57,5 @@ This 10x-platinum 1980 album (the band’s ninth) is the career pinnacle for are
 | Format         | Vinyl LP Album |
 | Label          | CBS/Sony |
 | Catalog Number | LP-1511-E |
-| Notes | ℗© 1980 CBS Inc.    Manufactured in the Philippines by Blackgold Records Corporation under licensese by CBS / Sony In. (Tokyo, Japan) |
+| Notes | ℗© 1980 CBS Inc.<br><br>Manufactured in the Philippines by Blackgold Records Corporation under licensese by CBS / Sony In. (Tokyo, Japan) |
 | Discogs URL    | [REO Speedwagon - Hi Infidelity](https://www.discogs.com/release/3374002-REO-Speedwagon-Hi-Infidelity) |

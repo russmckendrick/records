@@ -4,6 +4,7 @@ artist_name: "Y Kant Tori Read"
 artist: "y-kant-tori-read"
 album_name: "Y Kant Tori Read"
 date: 2017-12-07T21:00:02.000000Z
+release_date: "1988-01-06"
 release_id: "11172681"
 slug: "y-kant-tori-read-11172681"
 hideSummary: true
@@ -29,40 +30,32 @@ Two singles were released. The first, "The Big Picture", was commercially issued
 A music video for their song "The Big Picture" was made, but the only member of the band featured was Amos, since by then, unable to withstand pressure from Atlantic Records, she had jettisoned the rest of them with the exception of Steve Caton.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Left Side
-2. The Big Picture (4:19)
-3. Cool On Your Island (4:57)
-4. Fayth (4:23)
-5. Fire On The Side (4:53)
-6. Pirates (4:16)
-7. Right Side
-8. Floating City (5:22)
-9. Heart Attack At 23 (5:16)
-10. On The Boundary (4:38)
-11. You Go To My Head (3:55)
-12. Etienne Trilogy (6:45)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Left Side |  |
+| A1 | The Big Picture | 4:19 |
+| A2 | Cool On Your Island | 4:57 |
+| A3 | Fayth | 4:23 |
+| A4 | Fire On The Side | 4:53 |
+| A5 | Pirates | 4:16 |
+|  | Right Side |  |
+| B1 | Floating City | 5:22 |
+| B2 | Heart Attack At 23 | 5:16 |
+| B3 | On The Boundary | 4:38 |
+| B4 | You Go To My Head | 3:55 |
+|  | Etienne Trilogy | 6:45 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/y-kant-tori-read-remastered/1273432503" >}}<br>
 
 
-## Videos
-### Y Kant Tori Read - Cool on Your Island On Vinyl Record
-{{< youtube id="hOc0IUWCav8" title="Y Kant Tori Read - Cool on Your Island On Vinyl Record" >}}<br>
-### More Videos
-
-- [Y Kant Tori Read - The Big Picture](https://www.youtube.com/watch?v=iHdzlbgeQqo)
-- [Y Kant Tori Read- Heart Attack at 23](https://www.youtube.com/watch?v=X-469tgMcmc)
-- [Y Kant Tori Read - Floating City Music Video](https://www.youtube.com/watch?v=dk4kE7ZMMhU)
-- [Y Kant Tori Read - Cool On Your Island Music Video](https://www.youtube.com/watch?v=KSFpCrif26Q)
-- [Y Kant Tori Read - The Big Picture](https://www.youtube.com/watch?v=iHdzlbgeQqo)
-- [Y Kant Tori Read - Cool on Your Island On Vinyl Record](https://www.youtube.com/watch?v=hOc0IUWCav8)
-- [Y Kant Tori Read - The Big Picture](https://www.youtube.com/watch?v=iHdzlbgeQqo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +67,5 @@ A music video for their song "The Big Picture" was made, but the only member of 
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered (Orange) |
 | Label          | Atlantic |
 | Catalog Number | 081227942410 |
-| Notes | Black Friday / RSD issue with sticker. Subsequent issues without the RSD sticker.  081227942410 on spine. |
+| Notes | Black Friday / RSD issue with sticker. Subsequent issues without the RSD sticker.<br><br>081227942410 on spine. |
 | Discogs URL    | [Y Kant Tori Read - Y Kant Tori Read](https://www.discogs.com/release/11172681-Y-Kant-Tori-Read-Y-Kant-Tori-Read) |

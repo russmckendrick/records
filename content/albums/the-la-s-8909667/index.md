@@ -1,7 +1,7 @@
 ---
-title: "The La's - The La's"
-artist_name: "The La's"
-artist: "the-la-s"
+title: "The Las - The La's"
+artist_name: "The Las"
+artist: "the-las"
 album_name: "The La's"
 date: 2016-10-11T16:25:20.000000Z
 release_date: "1990-11"
@@ -10,8 +10,8 @@ slug: "the-la-s-8909667"
 hideSummary: true
 cover:
     image: "the-la-s-8909667.jpg"
-    alt: "The La's by The La's"
-    caption: "The La's by The La's"
+    alt: "The La's by The Las"
+    caption: "The La's by The Las"
 additional_images:
     - "https://i.discogs.com/BySRiUaP4Q62JUpWxblHQdumOrimOijJRwPIvyh3NN0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDk2/NjctMTQ3MTY0MjU4/NC0zMjc3LmpwZWc.jpeg"
     - "https://i.discogs.com/w85oKfvPJJ5C8pPq3wd3FXf8nQ86C3YvMreW3GW66qs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDk2/NjctMTQ3MjA0MDU0/OS0xNTQzLmpwZWc.jpeg"
@@ -36,39 +36,26 @@ After the departure of Badger in late 1986, the band signed to Go! Discs in 1987
 
 
 ## Tracklisting
-1. Son Of A Gun
-2. I Can't Sleep
-3. Timeless Melody
-4. Liberty Ship
-5. There She Goes
-6. Doledrum
-7. Feelin'
-8. Way Out
-9. I.O.U.
-10. Freedom Song
-11. Failure
-12. Looking Glass
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Son Of A Gun |  |
+| A2 | I Can't Sleep |  |
+| A3 | Timeless Melody |  |
+| A4 | Liberty Ship |  |
+| A5 | There She Goes |  |
+| A6 | Doledrum |  |
+| B1 | Feelin' |  |
+| B2 | Way Out |  |
+| B3 | I.O.U. |  |
+| B4 | Freedom Song |  |
+| B5 | Failure |  |
+| B6 | Looking Glass |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-las-remastered-bonus-track-version/1443735619" >}}<br>
 
 
-## Videos
-### The Las - Son of a Gun audio only
-{{< youtube id="Np4mAy-HlmQ" title="The Las - Son of a Gun audio only" >}}<br>
-### More Videos
-
-- [The Las - I Cant Sleep audio only](https://www.youtube.com/watch?v=6LURvVxSZl4)
-- [The Las - Timeless Melody audio only](https://www.youtube.com/watch?v=Eus8vzjBVaQ)
-- [The Las - Liberty Ship audio only](https://www.youtube.com/watch?v=e4QBcdmn30I)
-- [The Las - There She Goes audio only](https://www.youtube.com/watch?v=925i0-TCjrQ)
-- [The Las - Doledrum audio only](https://www.youtube.com/watch?v=ZvHpLflwPfc)
-- [The Las - Feelin audio only](https://www.youtube.com/watch?v=1bzxpWob71M)
-- [The Las - Way Out audio only](https://www.youtube.com/watch?v=A7PQh0ZgA_U)
-- [The Las - IOU audio only](https://www.youtube.com/watch?v=0YirTfE0EsM)
-- [The Las - Freedom Song audio only](https://www.youtube.com/watch?v=THPQoF2VaxY)
-- [The Las - Failure audio only](https://www.youtube.com/watch?v=ygTcGzk7u08)
-- [The Las - Looking Glass audio only](https://www.youtube.com/watch?v=wjo9CwDKRls)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,4 +68,4 @@ After the departure of Badger in late 1986, the band signed to Go! Discs in 1987
 | Label          | Go! Discs |
 | Catalog Number | 478 974-6 |
 | Notes | Contains Download Voucher |
-| Discogs URL    | [The La's - The La's](https://www.discogs.com/release/8909667-The-Las-The-Las) |
+| Discogs URL    | [The Las - The La's](https://www.discogs.com/release/8909667-The-Las-The-Las) |

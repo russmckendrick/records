@@ -34,63 +34,44 @@ Anyone coming to Daft Punk’s soundtrack for 2010’s <I>Tron: Legacy</I> expec
 
 
 ## Tracklisting
-1. Overture (2:28)
-2. The Grid (1:36)
-3. The Son Of Flynn (1:35)
-4. Recognizer (2:37)
-5. Armory (2:02)
-6. Arena (1:33)
-7. Rinzler (2:17)
-8. The Game Has Changed (3:25)
-9. Outlands (2:42)
-10. Adagio For TRON (4:11)
-11. Nocturne (1:41)
-12. End Of Line (2:36)
-13. Derezzed (1:44)
-14. Fall (1:22)
-15. Solar Sailer (2:42)
-16. Rectifier (2:14)
-17. Disc Wars (4:11)
-18. C.L.U. (4:39)
-19. Arrival (2:00)
-20. Flynn Lives (3:22)
-21. TRON Legacy (End Titles) (3:17)
-22. Finale (4:24)
-23. Bonus Content
-24. Sea Of Simulation (2:40)
-25. Encom Part 2 (2:15)
-26. Encom Part 1 (3:51)
-27. Round One (1:38)
-28. Castor (2:18)
-29. Reflections (2:36)
-30. Sunrise Prelude (2:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Overture | 2:28 |
+| A2 | The Grid | 1:36 |
+| A3 | The Son Of Flynn | 1:35 |
+| A4 | Recognizer | 2:37 |
+| A5 | Armory | 2:02 |
+| A6 | Arena | 1:33 |
+| A7 | Rinzler | 2:17 |
+| A8 | The Game Has Changed | 3:25 |
+| A9 | Outlands | 2:42 |
+| B1 | Adagio For TRON | 4:11 |
+| B2 | Nocturne | 1:41 |
+| B3 | End Of Line | 2:36 |
+| B4 | Derezzed | 1:44 |
+| B5 | Fall | 1:22 |
+| B6 | Solar Sailer | 2:42 |
+| B7 | Rectifier | 2:14 |
+| B8 | Disc Wars | 4:11 |
+| C1 | C.L.U. | 4:39 |
+| C2 | Arrival | 2:00 |
+| C3 | Flynn Lives | 3:22 |
+| C4 | TRON Legacy (End Titles) | 3:17 |
+| C5 | Finale | 4:24 |
+|  | Bonus Content |  |
+| D1 | Sea Of Simulation | 2:40 |
+| D2 | Encom Part 2 | 2:15 |
+| D3 | Encom Part 1 | 3:51 |
+| D4 | Round One | 1:38 |
+| D5 | Castor | 2:18 |
+| D6 | Reflections | 2:36 |
+| D7 | Sunrise Prelude | 2:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tron-legacy-original-motion-picture-soundtrack/1440617583" >}}<br>
 
 
-## Videos
-### TRON  LEGACY 2010 - Soundtrack Full Vinyl Rip
-{{< youtube id="GUpdmSVyJe0" title="TRON  LEGACY 2010 - Soundtrack Full Vinyl Rip" >}}<br>
-### More Videos
-
-- [C L U - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=LI55EDPxzZE)
-- [Finale - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=0epmDgPXyS4)
-- [Tron Legacy End Titles - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=_RHx3irsR3I)
-- [Disc Wars - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=sOfVg__PXao)
-- [The Grid - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=I61XxgIm_fw)
-- [Flynn Lives - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=0z0On7QOqU0)
-- [Round One - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=eruPoAU6Yio)
-- [Arrival - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=Lc9aSEYZWD0)
-- [Fall - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=GHwmK9djaKY)
-- [Castor - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=ULtDCC9eiR0)
-- [Armory - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=XWTRkdGDvH8)
-- [Solar Sailer - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=GsOV8VQkhQI)
-- [The Grid - Daft Punk - TRON Legacy Original Motion Picture Soundtrack](https://www.youtube.com/watch?v=43nr4E5kKRg)
-- [Arena - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=kyvqtj3yFaI)
-- [TRON Legacy Soundtrack - Overture The Grid  Tron Legacy Daft Punk - Michael G Mix HD](https://www.youtube.com/watch?v=lWu40FA3eZk)
-- [Reflections - Daft Punk - TRON Legacy Original Motion Picture Soundtrack - Vinyl](https://www.youtube.com/watch?v=LUVvF3L-_fI)
-- [Daft Punk - Derezzed from TRON Legacy](https://www.youtube.com/watch?v=m4cgLL8JaVI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -101,5 +82,5 @@ Anyone coming to Daft Punk’s soundtrack for 2010’s <I>Tron: Legacy</I> expec
 | Format         | Vinyl 2× LP Album Reissue Repress |
 | Label          | Walt Disney Records |
 | Catalog Number | D001356101 |
-| Notes | 180 gram vinyl. Comes in gatefold jacket with insert. TRON lettering on the cover is glow-in-the-dark. Unlike the [url=http://www.discogs.com/release/2814077]original limited release[/url], no download code is included on the insert. Sticker: "Features two tracks previously unreleased on any physical format" ("[url=http://www.discogs.com/release/2585356]Sea Of Simulation[/url]" and "[url=http://www.discogs.com/release/4241399]Sunrise Prelude[/url]") Labels are identical to the original ones, featuring the same copyright/licensing credits for that edition.  Back and insert: This compilation ℗ 2011 Walt Disney Records Labels: This compilation ℗ 2011 Walt Disney Records, Under Exclusive License to EMI Records LTD. |
+| Notes | 180 gram vinyl. Comes in gatefold jacket with insert. TRON lettering on the cover is glow-in-the-dark.<br>Unlike the [url=http://www.discogs.com/release/2814077]original limited release[/url], no download code is included on the insert.<br>Sticker: "Features two tracks previously unreleased on any physical format" ("[url=http://www.discogs.com/release/2585356]Sea Of Simulation[/url]" and "[url=http://www.discogs.com/release/4241399]Sunrise Prelude[/url]")<br>Labels are identical to the original ones, featuring the same copyright/licensing credits for that edition.<br><br>Back and insert: This compilation ℗ 2011 Walt Disney Records<br>Labels: This compilation ℗ 2011 Walt Disney Records, Under Exclusive License to EMI Records LTD. |
 | Discogs URL    | [Daft Punk - TRON: Legacy (Vinyl Edition Motion Picture Soundtrack)](https://www.discogs.com/release/7347762-Daft-Punk-TRON-Legacy-Vinyl-Edition-Motion-Picture-Soundtrack) |

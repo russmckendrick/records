@@ -4,6 +4,7 @@ artist_name: "Super Furry Animals"
 artist: "super-furry-animals"
 album_name: "(Brawd Bach) Rings Around The World"
 date: 2022-06-18T05:46:20.000000Z
+release_date: ""
 release_id: "23612801"
 slug: "brawd-bach-rings-around-the-world-23612801"
 hideSummary: true
@@ -25,18 +26,25 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Tradewinds
-2. The Roman Road
-3. Edam Anchorman
-4. All The Shit U Do
-5. Gypsy Space Muffin
-6. Patience
-7. Happiness Is A Worn Pun
-8. -
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Tradewinds |  |
+| A2 | The Roman Road |  |
+| A3 | Edam Anchorman |  |
+| A4 | All The Shit U Do |  |
+| B1 | Gypsy Space Muffin |  |
+| B2 | Patience |  |
+| B3 | Happiness Is A Worn Pun |  |
+| B4 | - |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -49,5 +57,5 @@ styles: []
 | Format         | Vinyl LP Record Store Day Compilation Limited Edition Remastered (Yellow) |
 | Label          | BMG |
 | Catalog Number | BMGCAT606LP |
-| Notes | RSD 2022 Drop 2 release   Track B3 is a version unique to this release. It features an extended outro (found on the instrumental version of the song on [r=20489644]) which ends on a locked groove. It is necessary to manually lift the tonearm beyond this to hear track B4. Track B4 is an untitled track taken from the menu music on the original DVD release of the Rings Around The World album. It can also be found at 24m 05s on track 19 ('Menu Music Medley') of [r=20489644].  Manufactured In Sweden. |
+| Notes | RSD 2022 Drop 2 release <br><br>Track B3 is a version unique to this release. It features an extended outro (found on the instrumental version of the song on [r=20489644]) which ends on a locked groove. It is necessary to manually lift the tonearm beyond this to hear track B4.<br>Track B4 is an untitled track taken from the menu music on the original DVD release of the Rings Around The World album. It can also be found at 24m 05s on track 19 ('Menu Music Medley') of [r=20489644].<br><br>Manufactured In Sweden. |
 | Discogs URL    | [Super Furry Animals - (Brawd Bach) Rings Around The World](https://www.discogs.com/release/23612801-Super-Furry-Animals-Brawd-Bach-Rings-Around-The-World) |

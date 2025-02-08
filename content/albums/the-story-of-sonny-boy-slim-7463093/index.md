@@ -1,6 +1,6 @@
 ---
-title: "Gary Clark Jr. - The Story Of Sonny Boy Slim"
-artist_name: "Gary Clark Jr."
+title: "Gary Clark Jr - The Story Of Sonny Boy Slim"
+artist_name: "Gary Clark Jr"
 artist: "gary-clark-jr"
 album_name: "The Story Of Sonny Boy Slim"
 date: 2015-09-22T19:05:10.000000Z
@@ -10,8 +10,8 @@ slug: "the-story-of-sonny-boy-slim-7463093"
 hideSummary: true
 cover:
     image: "the-story-of-sonny-boy-slim-7463093.jpg"
-    alt: "The Story Of Sonny Boy Slim by Gary Clark Jr."
-    caption: "The Story Of Sonny Boy Slim by Gary Clark Jr."
+    alt: "The Story Of Sonny Boy Slim by Gary Clark Jr"
+    caption: "The Story Of Sonny Boy Slim by Gary Clark Jr"
 additional_images:
     - "https://i.discogs.com/-H3um0nX2f0iW-MWJuFosakJCPbzjW6baPJfM6pa9iU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/MS0yOTU3LmpwZWc.jpeg"
     - "https://i.discogs.com/-Pb8GmXG51ZKp1cEj2lF1jRP094H9Foa-NKs7XizYxw/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/NC0xODY3LmpwZWc.jpeg"
@@ -40,39 +40,27 @@ It reached number one on the Billboard Top Blues Albums chart in October that ye
 
 
 ## Tracklisting
-1. The Healing (4:49)
-2. Grinder (3:22)
-3. Star (4:44)
-4. Our Love (4:12)
-5. Church (5:10)
-6. Hold On (3:47)
-7. Cold Blooded (3:43)
-8. Wings (4:12)
-9. BYOB (1:00)
-10. Can't Sleep (3:48)
-11. Stay (3:45)
-12. Shake (3:18)
-13. Down To Ride (7:52)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Healing | 4:49 |
+| A2 | Grinder | 3:22 |
+| A3 | Star | 4:44 |
+| A4 | Our Love | 4:12 |
+| B1 | Church | 5:10 |
+| B2 | Hold On | 3:47 |
+| B3 | Cold Blooded | 3:43 |
+| B4 | Wings | 4:12 |
+| C1 | BYOB | 1:00 |
+| C2 | Can't Sleep | 3:48 |
+| C3 | Stay | 3:45 |
+| C4 | Shake | 3:18 |
+| C5 | Down To Ride | 7:52 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-story-of-sonny-boy-slim/1022109426" >}}<br>
 
 
-## Videos
-### Gary Clark Jr - Wings
-{{< youtube id="kWxLtDfm0GE" title="Gary Clark Jr - Wings" >}}<br>
-### More Videos
-
-- [Gary Clark Jr - BYOBCant SleepShake Official Music Video](https://www.youtube.com/watch?v=M6R0I7mGsUc)
-- [Vinyl Unboxing Gary Clark Jr The Story of Sonny Boy Slim](https://www.youtube.com/watch?v=r41NtcTBL0k)
-- [Gary Clark Jr - Our Love](https://www.youtube.com/watch?v=JOTZmvxfnEg)
-- [Gary Clark Jr - Wings](https://www.youtube.com/watch?v=kWxLtDfm0GE)
-- [Gary Clark Jr - BYOBCant SleepShake Official Music Video](https://www.youtube.com/watch?v=M6R0I7mGsUc)
-- [Vinyl Unboxing Gary Clark Jr The Story of Sonny Boy Slim](https://www.youtube.com/watch?v=r41NtcTBL0k)
-- [Gary Clark Jr - Our Love](https://www.youtube.com/watch?v=JOTZmvxfnEg)
-- [Gary Clark Jr - Grinder Official Music Video](https://www.youtube.com/watch?v=5ffEpbvAcG4)
-- [Cold Blooded](https://www.youtube.com/watch?v=7KdVSh8jvto)
-- [Down to Ride](https://www.youtube.com/watch?v=eA6i5oaTkTU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +72,5 @@ It reached number one on the Billboard Top Blues Albums chart in October that ye
 | Format         | Vinyl LP Stereo, Vinyl LP Single Sided Etched Stereo, All Media Album |
 | Label          | Warner Bros. Records |
 | Catalog Number | 550131-1 |
-| Notes | © 2015 Hotwire Unlimited LLC (BMI)  © ℗ 2015 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside the U.S. Printed in Canada. Manufactured in The Netherlands.    Gatefold sleeve contains colour insert with credits. |
-| Discogs URL    | [Gary Clark Jr. - The Story Of Sonny Boy Slim](https://www.discogs.com/release/7463093-Gary-Clark-Jr-The-Story-Of-Sonny-Boy-Slim) |
+| Notes | © 2015 Hotwire Unlimited LLC (BMI)<br><br>© ℗ 2015 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside the U.S.<br>Printed in Canada.<br>Manufactured in The Netherlands.<br><br> <br>Gatefold sleeve contains colour insert with credits. |
+| Discogs URL    | [Gary Clark Jr - The Story Of Sonny Boy Slim](https://www.discogs.com/release/7463093-Gary-Clark-Jr-The-Story-Of-Sonny-Boy-Slim) |

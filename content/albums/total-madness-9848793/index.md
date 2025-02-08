@@ -4,6 +4,7 @@ artist_name: "Madness"
 artist: "madness"
 album_name: "Total Madness"
 date: 2017-02-22T18:01:50.000000Z
+release_date: "2009-09-21"
 release_id: "9848793"
 slug: "total-madness-9848793"
 hideSummary: true
@@ -28,38 +29,41 @@ Due to licensing problems, none of the four singles that Madness released on Zar
 The album effectively supersedes the now deleted Divine Madness collection. Total Madness should not be confused with the earlier US-only Total Madness — The Very Best of Madness.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. One Step Beyond
-2. Baggy Trousers
-3. House Of Fun
-4. Our House
-5. Embarrassment
-6. My Girl
-7. It Must Be Love
-8. Wings Of A Dove
-9. The Sun And The Rain
-10. Grey Day
-11. NW5
-12. Cardiac Arrest
-13. Tomorrow's (Just Another Day)
-14. Driving In My Car
-15. Bed And Breakfast Man
-16. Lovestruck
-17. One Better Day
-18. Michael Caine
-19. Return Of The Los Palmas 7
-20. The Prince
-21. Shut Up
-22. Madness
-23. Night Boat To Cairo
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | One Step Beyond |  |
+| A2 | Baggy Trousers |  |
+| A3 | House Of Fun |  |
+| A4 | Our House |  |
+| A5 | Embarrassment |  |
+| A6 | My Girl |  |
+| B1 | It Must Be Love |  |
+| B2 | Wings Of A Dove |  |
+| B3 | The Sun And The Rain |  |
+| B4 | Grey Day |  |
+| B5 | NW5 |  |
+| C1 | Cardiac Arrest |  |
+| C2 | Tomorrow's (Just Another Day) |  |
+| C3 | Driving In My Car |  |
+| C4 | Bed And Breakfast Man |  |
+| C5 | Lovestruck |  |
+| C6 | One Better Day |  |
+| D1 | Michael Caine |  |
+| D2 | Return Of The Los Palmas 7 |  |
+| D3 | The Prince |  |
+| D4 | Shut Up |  |
+| D5 | Madness |  |
+| D6 | Night Boat To Cairo |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/total-madness/1780335516" >}}<br>
-
 
 
 
@@ -73,5 +77,5 @@ The album effectively supersedes the now deleted Divine Madness collection. Tota
 | Format         | Vinyl 2× LP Compilation Limited Edition Numbered Reissue Repress (Red, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP629 |
-| Notes | Limited edition of 2.000 numbered copies on red vinyl Gatefold Sleeve. Repressed from [r=4071815] master.  MOV 00[XXXX] [silver print on back sleeve]  This compilation ℗ and © 2012 Union Square Music Ltd. Made in the EU.  All tracks except side B, track 5: ℗ 2009 Stirling Holdings Limited, under exclusive licence to Union Square Music Ltd. Courtesy of Stirling Holdings Limited.  Hype stickers on cellophane bag:  "Britain's Favourite Band! Featuring Our House One Step Beyond Baggy Trousers It Must Be Love House Of Fun MOVLP629"  "Music On Vinyl Madness 'Total Madness' All Their Greatest Hits Limited Edition of 2000 Coloured Copies Individually Numbered 180 gram audiophile vinyl www.musiconvinyl.com MOVLP629"  |
+| Notes | Limited edition of 2.000 numbered copies on red vinyl<br>Gatefold Sleeve. Repressed from [r=4071815] master.<br><br>MOV 00[XXXX] [silver print on back sleeve]<br><br>This compilation ℗ and © 2012 Union Square Music Ltd.<br>Made in the EU.<br><br>All tracks except side B, track 5: ℗ 2009 Stirling Holdings Limited, under exclusive licence to Union Square Music Ltd. Courtesy of Stirling Holdings Limited.<br><br>Hype stickers on cellophane bag:<br><br>"Britain's Favourite Band!<br>Featuring<br>Our House<br>One Step Beyond<br>Baggy Trousers<br>It Must Be Love<br>House Of Fun<br>MOVLP629"<br><br>"Music On Vinyl<br>Madness<br>'Total Madness'<br>All Their Greatest Hits<br>Limited Edition of 2000 Coloured Copies<br>Individually Numbered<br>180 gram audiophile vinyl<br>www.musiconvinyl.com MOVLP629"<br> |
 | Discogs URL    | [Madness - Total Madness](https://www.discogs.com/release/9848793-Madness-Total-Madness) |

@@ -4,6 +4,7 @@ artist_name: "Corrosion Of Conformity"
 artist: "corrosion-of-conformity"
 album_name: "No Cross No Crown"
 date: 2018-02-10T17:26:54.000000Z
+release_date: "2018-01-12"
 release_id: "11474479"
 slug: "no-cross-no-crown-11474479"
 hideSummary: true
@@ -31,39 +32,35 @@ styles: ["Stoner Rock", "Heavy Metal"]
 No Cross No Crown is the tenth studio album by American heavy metal band Corrosion of Conformity, released on January 12, 2018 by Nuclear Blast. This is the only album to feature the "classic" lineup of Woody Weatherman, Mike Dean, Reed Mullin and Pepper Keenan since America's Volume Dealer (2000). It is also the last album to feature Mullin, who died in early 2020, and the last to feature founding bassist Mike Dean, who exited the band in 2024.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Novus Deus
-2. The Luddite
-3. Cast The First Stone
-4. No Cross
-5. Wolf Named Crow
-6. Little Man
-7. Matre's Diem
-8. Forgive Me
-9. Nothing Left To Say
-10. Sacred Isolation
-11. Old Disaster
-12. E.L.M.
-13. No Cross No Crown
-14. A Quest To Believe (A Call To The Void)
-15. Son And Daughter
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Novus Deus |  |
+| A2 | The Luddite |  |
+| A3 | Cast The First Stone |  |
+| A4 | No Cross |  |
+| A5 | Wolf Named Crow |  |
+| B1 | Little Man |  |
+| B2 | Matre's Diem |  |
+| B3 | Forgive Me |  |
+| C1 | Nothing Left To Say |  |
+| C2 | Sacred Isolation |  |
+| C3 | Old Disaster |  |
+| C4 | E.L.M. |  |
+| D1 | No Cross No Crown |  |
+| D2 | A Quest To Believe (A Call To The Void) |  |
+| D3 | Son And Daughter |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-cross-no-crown/1458857714" >}}<br>
 
 
-## Videos
-### CORROSION OF CONFORMITY - Cast The First Stone OFFICIAL TRACK
-{{< youtube id="ljxyItzRZm4" title="CORROSION OF CONFORMITY - Cast The First Stone OFFICIAL TRACK" >}}<br>
-### More Videos
-
-- [CORROSION OF CONFORMITY - Wolf Named Crow OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=fIfv7BKvtI8)
-- [CORROSION OF CONFORMITY - The Luddite OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=TusKotRru_c)
-- [Corrosion Of Conformity  Little Man](https://www.youtube.com/watch?v=B0ubqmddD4s)
 
 ## Release Images
 {{< imageGrid >}}

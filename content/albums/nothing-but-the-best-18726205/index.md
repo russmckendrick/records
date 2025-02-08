@@ -31,33 +31,35 @@ The <i>Nothing But the Best</i> compilation album is a two-for-one: It collects 
 
 
 ## Tracklisting
-1. Come Fly With Me (3:14)
-2. The Best Is Yet To Come (2:56)
-3. The Way You Look Tonight (3:22)
-4. Luck Be A Lady (5:15)
-5. Bewitched (3:00)
-6. The Good Life (2:27)
-7. The Girl From Ipanema (3:14)
-8. Fly Me To The Moon (In Other Words) (2:28)
-9. Summer Wind (2:55)
-10. Strangers In The Night (2:45)
-11. Call Me Irresponsible (2:56)
-12. Somethin' Stupid (2:40)
-13. My Kind Of Town (3:11)
-14. It Was A Very Good Year (4:27)
-15. That's Life (3:07)
-16. Moonlight Serenade (3:28)
-17. Nothing But The Best (3:00)
-18. Drinking Again (3:15)
-19. All My Tomorrows (4:35)
-20. My Way (4:36)
-21. Theme From New York, New York (3:25)
-22. Bonus Track
-23. Body And Soul (Previously Unissued) (4:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Come Fly With Me | 3:14 |
+| A2 | The Best Is Yet To Come | 2:56 |
+| A3 | The Way You Look Tonight | 3:22 |
+| A4 | Luck Be A Lady | 5:15 |
+| A5 | Bewitched | 3:00 |
+| B1 | The Good Life | 2:27 |
+| B2 | The Girl From Ipanema | 3:14 |
+| B3 | Fly Me To The Moon (In Other Words) | 2:28 |
+| B4 | Summer Wind | 2:55 |
+| B5 | Strangers In The Night | 2:45 |
+| B6 | Call Me Irresponsible | 2:56 |
+| C1 | Somethin' Stupid | 2:40 |
+| C2 | My Kind Of Town | 3:11 |
+| C3 | It Was A Very Good Year | 4:27 |
+| C4 | That's Life | 3:07 |
+| C5 | Moonlight Serenade | 3:28 |
+| C6 | Nothing But The Best | 3:00 |
+| D1 | Drinking Again | 3:15 |
+| D2 | All My Tomorrows | 4:35 |
+| D3 | My Way | 4:36 |
+| D4 | Theme From New York, New York | 3:25 |
+|  | Bonus Track |  |
+| D5 | Body And Soul (Previously Unissued) | 4:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nothing-but-the-best-remastered/1440858119" >}}<br>
-
 
 
 
@@ -70,5 +72,5 @@ The <i>Nothing But the Best</i> compilation album is a two-for-one: It collects 
 | Format         | Vinyl LP (Blue), Vinyl LP (Transparent), All Media Compilation Limited Edition Reissue |
 | Label          | Capitol Records |
 | Catalog Number | 00602435639901 |
-| Notes | Limited Edition - Exclusive Transparent Blue & Clear Vinyl  First Time on Vinyl  Manufactured in the E.U. |
+| Notes | Limited Edition - Exclusive Transparent Blue & Clear Vinyl <br>First Time on Vinyl<br><br>Manufactured in the E.U. |
 | Discogs URL    | [Frank Sinatra - Nothing But The Best](https://www.discogs.com/release/18726205-Frank-Sinatra-Nothing-But-The-Best) |

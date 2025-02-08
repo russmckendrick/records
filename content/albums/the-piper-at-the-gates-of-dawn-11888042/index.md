@@ -38,40 +38,25 @@ The album has since been hailed as a pivotal psychedelic music recording. Specia
 
 
 ## Tracklisting
-1. Astronomy Dominé (4:09)
-2. Lucifer Sam (3:09)
-3. Matilda Mother (3:05)
-4. Flaming (2:44)
-5. Pow R. Toc H. (4:24)
-6. Take Up Thy Stethoscope And Walk (3:06)
-7. Interstellar Overdrive (9:41)
-8. The Gnome (2:10)
-9. Chapter 24 (3:51)
-10. The Scarecrow (2:11)
-11. Bike (3:23)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Astronomy Dominé | 4:09 |
+| A2 | Lucifer Sam | 3:09 |
+| A3 | Matilda Mother | 3:05 |
+| A4 | Flaming | 2:44 |
+| A5 | Pow R. Toc H. | 4:24 |
+| A6 | Take Up Thy Stethoscope And Walk | 3:06 |
+| B1 | Interstellar Overdrive | 9:41 |
+| B2 | The Gnome | 2:10 |
+| B3 | Chapter 24 | 3:51 |
+| B4 | The Scarecrow | 2:11 |
+| B5 | Bike | 3:23 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-piper-at-the-gates-of-dawn/699637401" >}}<br>
 
 
-## Videos
-### Pink Floyd - Astronomy Domine 1967 vinyl
-{{< youtube id="ebROVN6fbjk" title="Pink Floyd - Astronomy Domine 1967 vinyl" >}}<br>
-### More Videos
-
-- [Pink Floyd - Astronomy Domine Mono Version](https://www.youtube.com/watch?v=lZVxVNyVGJo)
-- [Pink Floyd - Lucifer Sam Mono Version](https://www.youtube.com/watch?v=tddoa2dGhqU)
-- [Pink Floyd - Matilda Mother Mono Version](https://www.youtube.com/watch?v=1iK3zJflx-0)
-- [The Pink Floyd Flaming](https://www.youtube.com/watch?v=dlSz8p5Guqo)
-- [Pink Floyd - Pow R Toc H Mono Version](https://www.youtube.com/watch?v=8yx-Hl08i9A)
-- [Pink Floyd - Take Up Thy Stethoscope And Walk Mono Version](https://www.youtube.com/watch?v=XHNRktvTQpo)
-- [Pink Floyd - Interstellar Overdrive Mono Version](https://www.youtube.com/watch?v=ibKV7tPTXn4)
-- [Pink Floyd - Interstellar Overdrive 1967 vinyl](https://www.youtube.com/watch?v=Q00PYv2rPaY)
-- [The Pink Floyd The Gnome](https://www.youtube.com/watch?v=dpgKUKvHz4s)
-- [Pink Floyd - Chapter 24 Mono Version](https://www.youtube.com/watch?v=usO8Tshf0wI)
-- [Pink Floyd - The Scarecrow Mono Version](https://www.youtube.com/watch?v=vlU0rjDPDKE)
-- [Pink Floyd - Bike Mono Version](https://www.youtube.com/watch?v=QQc6mlGIotQ)
-- [Pink Floyd - Take Up Thy Stethoscope And Walk Official Audio](https://www.youtube.com/watch?v=Jk_OJhx3d2U)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +68,5 @@ The album has since been hailed as a pivotal psychedelic music recording. Specia
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Remastered Mono (180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP26 |
-| Notes | RSD 2018 release, limited edition package with poster. Quantity: 15.000 copies worldwide.  Original UK release date: August 1967. © 2018 Pink Floyd Music Ltd. |
+| Notes | RSD 2018 release, limited edition package with poster.<br>Quantity: 15.000 copies worldwide.<br><br>Original UK release date: August 1967.<br>© 2018 Pink Floyd Music Ltd. |
 | Discogs URL    | [Pink Floyd - The Piper At The Gates Of Dawn](https://www.discogs.com/release/11888042-Pink-Floyd-The-Piper-At-The-Gates-Of-Dawn) |

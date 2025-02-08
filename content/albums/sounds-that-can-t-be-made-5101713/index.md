@@ -4,6 +4,7 @@ artist_name: "Marillion"
 artist: "marillion"
 album_name: "Sounds That Can't Be Made"
 date: 2017-12-17T12:31:09.000000Z
+release_date: "2012-09-14"
 release_id: "5101713"
 slug: "sounds-that-can-t-be-made-5101713"
 hideSummary: true
@@ -30,33 +31,28 @@ styles: ["Prog Rock"]
 
 Sounds That Can't Be Made is Marillion's 17th studio album, released on 17 September 2012. Besides the standard edition there is also a "deluxe campaign edition" containing a bonus DVD with a feature-length documentary called Making Sounds.
 A 5.1 channel surround version of the album was released as part of the A Sunday Night Above the Rain Blu-ray set released on Racket Records in 2014.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Gaza
-2. Sounds That Can't Be Made
-3. Pour My Love
-4. Power
-5. Montréal
-6. Invisible Ink
-7. Lucky Man
-8. The Sky Above The Rain
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Gaza |  |
+| B1 | Sounds That Can't Be Made |  |
+| B2 | Pour My Love |  |
+| B3 | Power |  |
+| C1 | Montréal |  |
+| C2 | Invisible Ink |  |
+| D1 | Lucky Man |  |
+| D2 | The Sky Above The Rain |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sounds-that-cant-be-made/558499415" >}}<br>
 
 
-## Videos
-### Sounds That Cant Be Made - Marillion Weekend Holland
-{{< youtube id="k3dwSj5HQWk" title="Sounds That Cant Be Made - Marillion Weekend Holland" >}}<br>
-### More Videos
-
-- [Gaza](https://www.youtube.com/watch?v=uaBVTtt53FA)
-- [Marillion - Sounds That Cant Be Made](https://www.youtube.com/watch?v=16AfYI3Xd-g)
-- [Gaza Live](https://www.youtube.com/watch?v=k4jykGAL4dM)
-- [Gaza](https://www.youtube.com/watch?v=seZLPCMQUmo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +64,5 @@ A 5.1 channel surround version of the album was released as part of the A Sunday
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Ear Music |
 | Catalog Number | 0209119ERE |
-| Notes | Comes in a gatefold cover with printed inner sleeves.   Written & Recorded at The Racket Club & Real World Studios during 2010, 2011 & 2012. Additional guitars recorded at UTB Studios  ℗ & © 2013 Intact Recordings under exclusive license to Edel Germany GmbH.  Made in Germany by optimal media GmbH  Manufacturing error: On some copies the labels of side C (green) and D (blue) have been swapped by mistake.  Durations are not noted anywhere on this release.   All runouts are etched.  |
+| Notes | Comes in a gatefold cover with printed inner sleeves. <br><br>Written & Recorded at The Racket Club & Real World Studios during 2010, 2011 & 2012.<br>Additional guitars recorded at UTB Studios<br><br>℗ & © 2013 Intact Recordings under exclusive license to Edel Germany GmbH.<br><br>Made in Germany by optimal media GmbH<br><br>Manufacturing error:<br>On some copies the labels of side C (green) and D (blue) have been swapped by mistake.<br><br>Durations are not noted anywhere on this release. <br><br>All runouts are etched.  |
 | Discogs URL    | [Marillion - Sounds That Can't Be Made](https://www.discogs.com/release/5101713-Marillion-Sounds-That-Cant-Be-Made) |

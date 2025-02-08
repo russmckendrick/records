@@ -30,28 +30,25 @@ Just as 1989’s <i>Technique</i> revelled in the excitement of late-1980s acid 
 
 
 ## Tracklisting
-1. Regret
-2. World
-3. Ruined In A Day
-4. Spooky
-5. Everyone Everywhere
-6. Young Offender
-7. Liar
-8. Chemical
-9. Times Change
-10. Special
-11. Avalanche
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Regret |  |
+| A2 | World |  |
+| A3 | Ruined In A Day |  |
+| A4 | Spooky |  |
+| A5 | Everyone Everywhere |  |
+| B1 | Young Offender |  |
+| B2 | Liar |  |
+| B3 | Chemical |  |
+| B4 | Times Change |  |
+| B5 | Special |  |
+| B6 | Avalanche |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/republic/1040965893" >}}<br>
 
 
-## Videos
-### New Order - Regret Official Music Video
-{{< youtube id="71ZHVmSuBJM" title="New Order - Regret Official Music Video" >}}<br>
-### More Videos
-
-- [New Order - World The Price of Love Official Music Video](https://www.youtube.com/watch?v=CXzs47qy2Pk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +60,5 @@ Just as 1989’s <i>Technique</i> revelled in the excitement of late-1980s acid 
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Rhino Records (2) |
 | Catalog Number | 0825646072231 |
-| Notes | Recorded and mixed at Real World & RAK.  Designed at Pentagram.    180g Vinyl  Printed inner sleeve  incl. download code for mp3 version of this album    ℗ 2015 Warner Records 90 LTD  © 1993 CentreDate Co. Ltd |
+| Notes | Recorded and mixed at Real World & RAK.<br>Designed at Pentagram.<br><br>180g Vinyl<br>Printed inner sleeve<br>incl. download code for mp3 version of this album<br><br>℗ 2015 Warner Records 90 LTD<br>© 1993 CentreDate Co. Ltd |
 | Discogs URL    | [New Order - Republic](https://www.discogs.com/release/7515852-NewOrder-Republic) |

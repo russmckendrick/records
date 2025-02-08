@@ -4,6 +4,7 @@ artist_name: "Cobalt Chapel"
 artist: "cobalt-chapel"
 album_name: "Orange Synthetic"
 date: 2021-02-28T09:11:36.000000Z
+release_date: "2021-01-29"
 release_id: "17164159"
 slug: "orange-synthetic-17164159"
 hideSummary: true
@@ -22,37 +23,29 @@ styles: ["Psychedelic Rock", "Prog Rock", "Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. In Company (4:27)
-2. The Sequel (3:49)
-3. Message To (3:18)
-4. A Father's Lament (3:41)
-5. Our Angel Polygon (4:32)
-6. Cry A Spiral (4:53)
-7. It's The End, The End (5:26)
-8. Pretty Mire, Be My Friend (4:04)
-9. E.B. (2:15)
-10. Orange Synthetic (6:21)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | In Company | 4:27 |
+| A2 | The Sequel | 3:49 |
+| A3 | Message To | 3:18 |
+| A4 | A Father's Lament | 3:41 |
+| A5 | Our Angel Polygon | 4:32 |
+| B1 | Cry A Spiral | 4:53 |
+| B2 | It's The End, The End | 5:26 |
+| B3 | Pretty Mire, Be My Friend | 4:04 |
+| B4 | E.B. | 2:15 |
+| B5 | Orange Synthetic | 6:21 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/orange-synthetic/1536139108" >}}<br>
 
 
-## Videos
-### Orange Synthetic
-{{< youtube id="P6-IRZINYYM" title="Orange Synthetic" >}}<br>
-### More Videos
-
-- [A Fathers Lament](https://www.youtube.com/watch?v=dTBigf8QjcA)
-- [Pretty Mire Be My Friend](https://www.youtube.com/watch?v=gp2QeUOKuVY)
-- [Our Angel Polygon](https://www.youtube.com/watch?v=_38R40lhH2k)
-- [Its The End The End](https://www.youtube.com/watch?v=_G1Sqy4pD_w)
-- [Orange Synthetic](https://www.youtube.com/watch?v=P6-IRZINYYM)
-- [A Fathers Lament](https://www.youtube.com/watch?v=dTBigf8QjcA)
-- [Pretty Mire Be My Friend](https://www.youtube.com/watch?v=gp2QeUOKuVY)
-- [Our Angel Polygon](https://www.youtube.com/watch?v=_38R40lhH2k)
-- [Its The End The End](https://www.youtube.com/watch?v=_G1Sqy4pD_w)
 
 ## Release Images
 {{< imageGrid >}}

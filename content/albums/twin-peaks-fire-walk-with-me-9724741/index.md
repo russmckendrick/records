@@ -4,6 +4,7 @@ artist_name: "Angelo Badalamenti"
 artist: "angelo-badalamenti"
 album_name: "Twin Peaks: Fire Walk With Me"
 date: 2017-02-28T18:44:20.000000Z
+release_date: "1992-08-07"
 release_id: "9724741"
 slug: "twin-peaks-fire-walk-with-me-9724741"
 hideSummary: true
@@ -33,44 +34,32 @@ Most of the television cast reprised their roles, though the majority of their s
 Fire Walk with Me premiered at the 1992 Cannes Film Festival in competition for the Palme d'Or. It has long been reported that the film was booed and jeered by the audience at Cannes, though co-writer Robert Engels denies this happened. Upon release, the film received polarized reviews from critics in the United States and was a box office failure domestically, although it fared much better in Japan. The film has been positively reevaluated in the 21st century, and it is now widely regarded as one of Lynch's major works and one of the greatest films of the 1990s.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Theme From Twin Peaks - Fire Walk With Me
-2. The Pine Float
-3. Sycamore Trees
-4. Don't Do Anything (I Woudn't Do)
-5. A Real Indication
-6. Questions In A World Of Blue
-7. The Pink Room
-8. The Black Dog Runs At Night
-9. Best Friends
-10. Moving Through Time
-11. Montage From Twin Peaks (Girl Talk / Birds In Hell / Laura Palmer's Theme / Falling)
-12. The Voice Of Love
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Theme From Twin Peaks - Fire Walk With Me |  |
+| A2 | The Pine Float |  |
+| A3 | Sycamore Trees |  |
+| B4 | Don't Do Anything (I Woudn't Do) |  |
+| B5 | A Real Indication |  |
+| C6 | Questions In A World Of Blue |  |
+| C7 | The Pink Room |  |
+| C8 | The Black Dog Runs At Night |  |
+| C9 | Best Friends |  |
+| D10 | Moving Through Time |  |
+| D11 | Montage From Twin Peaks (Girl Talk / Birds In Hell / Laura Palmer's Theme / Falling) |  |
+| D12 | The Voice Of Love |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/twin-peaks-fire-walk-with-me-soundtrack-from-the/46734067" >}}<br>
 
 
-## Videos
-### Theme from Twin Peaks-Fire Walk with Me
-{{< youtube id="grlkoRazWh4" title="Theme from Twin Peaks-Fire Walk with Me" >}}<br>
-### More Videos
-
-- [The Pine Float](https://www.youtube.com/watch?v=0s64HHHz5T4)
-- [Sycamore Trees](https://www.youtube.com/watch?v=HnFgsQUqugI)
-- [Dont Do Anything I Wouldnt Do](https://www.youtube.com/watch?v=KrsBPs_cMmY)
-- [A Real Indication](https://www.youtube.com/watch?v=kLYkLFEL46U)
-- [Questions in a World of Blue](https://www.youtube.com/watch?v=MOSaLtcqob8)
-- [The Pink Room](https://www.youtube.com/watch?v=VA6bVJ1vw_A)
-- [The Black Dog Runs at Night](https://www.youtube.com/watch?v=Hlkdj8fFFzA)
-- [Best Friends](https://www.youtube.com/watch?v=DZ4S0UPavSk)
-- [Moving Through Time](https://www.youtube.com/watch?v=i3BhWXi5lzo)
-- [Montage from Twin Peaks Girl Talk  Birds in Hell  Laura Palmers Theme  Falling](https://www.youtube.com/watch?v=nQsEFLFLv1c)
-- [The Voice of Love](https://www.youtube.com/watch?v=2VpNT0V25HU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +71,5 @@ Fire Walk with Me premiered at the 1992 Cannes Film Festival in competition for 
 | Format         | Vinyl 2× LP Album Reissue Remastered (Red / Black Marbled [Cherry Pie]) |
 | Label          | Death Waltz Recording Company |
 | Catalog Number | DW51 |
-| Notes | • Director approved artwork • Composer approved audio • 425gsm Gatefold sleeve housed inside a bespoke black die cut outer jacket with black spot varnish finish, complete with obi strip.  [On back gatefold and label margins] ℗ & © 1992 & 2016 Warner Bros. Records Inc. Produced under license from Warner Bros. Records Inc. Manufactured by Rhino Entertainment Company, A Warner Music Group Company. [...] Made in the U.S.A. Marketed by Death Waltz Records.  [On back outer jacket] ℗1990 & 2016 Warner Bros. Records Inc. Produced under license from Warner Bros. Records Inc. ©Death Waltz Records. Manufactured by Rhino Entertainment Company, a Warner Music Group Company. [...] Made In The U.S.A. Marketed by Death Waltz Records.  [On inside gatefold] Recorded at Excalibur Sound by Art Pohlemus except 'The Pink Room' Recorded at Capitol Recording by David Bianco "Best Friends" Recorded at Fantasy Studios by Michael Semanick Originally Mastered at Sterling Sound, NYC Engineered for vinyl at Warner Archives Laquer cut for vinyl for Plush Vinyl  All music published by Anlon Music Co. (ASCAP) / Bobkind Music (ASCAP) Anlon Music Co. and Bobkind Music are administered worldwide by Univerisal Music Corp. (ASCAP)    Tracks listed in sequential order on inner jacket and center labels. Track B4 incorrectly listed as Don't Do Anything (I Woudn't Do) on both back cover and label. Track C8 incorrectly listed as The Black Dog Run At Night on label. Tracks B5 and C8 credited to [a129732] on the original 1992 release. Typo on sleeve (gatefold inner and back): Anlon Music Co. and Bobkind Music are administered worldwide by Univerisal Music Corp. (ASCAP) The "Remastered" tag and associated remastered credits are not printed on the release itself, but are found on the official store page. |
+| Notes | • Director approved artwork<br>• Composer approved audio<br>• 425gsm Gatefold sleeve housed inside a bespoke black die cut outer jacket with black spot varnish finish, complete with obi strip.<br><br>[On back gatefold and label margins]<br>℗ & © 1992 & 2016 Warner Bros. Records Inc. Produced under license from Warner Bros. Records Inc. Manufactured by Rhino Entertainment Company, A Warner Music Group Company. [...] Made in the U.S.A. Marketed by Death Waltz Records.<br><br>[On back outer jacket]<br>℗1990 & 2016 Warner Bros. Records Inc. Produced under license from Warner Bros. Records Inc. ©Death Waltz Records. Manufactured by Rhino Entertainment Company, a Warner Music Group Company. [...] Made In The U.S.A. Marketed by Death Waltz Records.<br><br>[On inside gatefold]<br>Recorded at Excalibur Sound by Art Pohlemus except 'The Pink Room' Recorded at Capitol Recording by David Bianco<br>"Best Friends" Recorded at Fantasy Studios by Michael Semanick<br>Originally Mastered at Sterling Sound, NYC<br>Engineered for vinyl at Warner Archives<br>Laquer cut for vinyl for Plush Vinyl<br><br>All music published by Anlon Music Co. (ASCAP) / Bobkind Music (ASCAP)<br>Anlon Music Co. and Bobkind Music are administered worldwide by Univerisal Music Corp. (ASCAP)<br><br> <br>Tracks listed in sequential order on inner jacket and center labels.<br>Track B4 incorrectly listed as Don't Do Anything (I Woudn't Do) on both back cover and label.<br>Track C8 incorrectly listed as The Black Dog Run At Night on label.<br>Tracks B5 and C8 credited to [a129732] on the original 1992 release.<br>Typo on sleeve (gatefold inner and back): Anlon Music Co. and Bobkind Music are administered worldwide by Univerisal Music Corp. (ASCAP)<br>The "Remastered" tag and associated remastered credits are not printed on the release itself, but are found on the official store page. |
 | Discogs URL    | [Angelo Badalamenti - Twin Peaks: Fire Walk With Me](https://www.discogs.com/release/9724741-Angelo-Badalamenti-Twin-Peaks-Fire-Walk-With-Me) |

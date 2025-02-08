@@ -1,16 +1,17 @@
 ---
-title: "Desmond Dekker & The Aces - Pretty Africa"
-artist_name: "Desmond Dekker & The Aces"
+title: "Desmond Dekker  The Aces - Pretty Africa"
+artist_name: "Desmond Dekker  The Aces"
 artist: "desmond-dekker-the-aces"
 album_name: "Pretty Africa"
 date: 2019-04-16T16:23:57.000000Z
+release_date: "2000-07-28"
 release_id: "13473923"
 slug: "pretty-africa-13473923"
 hideSummary: true
 cover:
     image: "pretty-africa-13473923.jpg"
-    alt: "Pretty Africa by Desmond Dekker & The Aces"
-    caption: "Pretty Africa by Desmond Dekker & The Aces"
+    alt: "Pretty Africa by Desmond Dekker  The Aces"
+    caption: "Pretty Africa by Desmond Dekker  The Aces"
 additional_images:
     - "https://i.discogs.com/TI0C1aKjTeCxEk9OoiWZM6C3oOE-GK133FV4rSzkI7U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDcz/OTIzLTE1ODk0ODYx/NDYtNjkwNC5qcGVn.jpeg"
     - "https://i.discogs.com/kBa0MWFVoE-ZC3tXrOQuY6Q_YpqNMvzci9OubQLti6c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDcz/OTIzLTE1ODk0ODYy/ODctOTQ4Ni5qcGVn.jpeg"
@@ -23,32 +24,31 @@ styles: ["Ska", "Rocksteady"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Pretty Africa (3:15)
-2. Treat Me Cruel (2:06)
-3. Love Is The Key (3:59)
-4. The Sweet Sound Of Music (2:37)
-5. Behold (2:46)
-6. Please Don't Bend (2:25)
-7. Sweet Music (2:51)
-8. Was A Sunny Day (3:33)
-9. We Got To Be Free (3:14)
-10. Walk Don't Run (3:51)
-11. Trample (2:27)
-12. Jah Jah Children (3:14)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Pretty Africa | 3:15 |
+| A2 | Treat Me Cruel | 2:06 |
+| A3 | Love Is The Key | 3:59 |
+| A4 | The Sweet Sound Of Music | 2:37 |
+| A5 | Behold | 2:46 |
+| A6 | Please Don't Bend | 2:25 |
+| B1 | Sweet Music | 2:51 |
+| B2 | Was A Sunny Day | 3:33 |
+| B3 | We Got To Be Free | 3:14 |
+| B4 | Walk Don't Run | 3:51 |
+| B5 | Trample | 2:27 |
+| B6 | Jah Jah Children | 3:14 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-desmond-dekker/1436086515" >}}<br>
 
 
-## Videos
-### Desmond Dekker  The Aces - Pretty Africa Long Lost Recording
-{{< youtube id="AnZDKe8XErg" title="Desmond Dekker  The Aces - Pretty Africa Long Lost Recording" >}}<br>
-### More Videos
-
-- [the Aces - LOVE IS THE KEY](https://www.youtube.com/watch?v=JnFa5-xxsl8)
-- [Barry Howard  Carl Hall - Was a sunny day the Aces](https://www.youtube.com/watch?v=dbe1vssKGKM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,5 +59,5 @@ styles: ["Ska", "Rocksteady"]
 | Format         | Vinyl LP Album Record Store Day Limited Edition (Gold, Translucent) |
 | Label          | Trojan Records |
 | Catalog Number | TBL 1037 |
-| Notes | Album recorded in the summer of 1973 in London's Chalk Farm Studio; not released at the time and only discovered in the Trojan Vaults in 2018.  Sticker: "Long lost album released for the first time!" Record Store Day 2019. Ltd edition of 500  Packaged with a printed inner sleeve with lyrics and archive pictures.  Vinyl is described on RSD website as pale yellow (Trojan website just says 'coloured vinyl'), but colouring is more pale orange.  Timings not listed  Pressing plant and Lacquer cut at & by uncredited, identified by the matrix numbers. |
-| Discogs URL    | [Desmond Dekker & The Aces - Pretty Africa](https://www.discogs.com/release/13473923-Desmond-Dekker-And-The-Aces-Pretty-Africa) |
+| Notes | Album recorded in the summer of 1973 in London's Chalk Farm Studio; not released at the time and only discovered in the Trojan Vaults in 2018.<br><br>Sticker: "Long lost album released for the first time!"<br>Record Store Day 2019.<br>Ltd edition of 500<br><br>Packaged with a printed inner sleeve with lyrics and archive pictures.<br><br>Vinyl is described on RSD website as pale yellow (Trojan website just says 'coloured vinyl'), but colouring is more pale orange.<br><br>Timings not listed<br><br>Pressing plant and Lacquer cut at & by uncredited, identified by the matrix numbers. |
+| Discogs URL    | [Desmond Dekker  The Aces - Pretty Africa](https://www.discogs.com/release/13473923-Desmond-Dekker-And-The-Aces-Pretty-Africa) |

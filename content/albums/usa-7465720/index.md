@@ -42,30 +42,20 @@ Original vinyl release in 1975.  Includes tracks 1 - 6 (although track 1 & 2 are
 
 
 ## Tracklisting
-1. Larks' Tongues In Aspic Part II (6:45)
-2. Lament (4:05)
-3. Exiles (7:04)
-4. Asbury Park (6:50)
-5. Easy Money (6:32)
-6. 21st Century Schizoid Man (7:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Larks' Tongues In Aspic Part II | 6:45 |
+| A2 | Lament | 4:05 |
+| A3 | Exiles | 7:04 |
+| B1 | Asbury Park | 6:50 |
+| B2 | Easy Money | 6:32 |
+| B3 | 21st Century Schizoid Man | 7:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-the-court-of-the-crimson-king-expanded-edition/918534711" >}}<br>
 
 
-## Videos
-### Walk On - No Pussyfooting - Live
-{{< youtube id="xM2t5Z-XgXw" title="Walk On - No Pussyfooting - Live" >}}<br>
-### More Videos
-
-- [Larks Tongues In Aspic Part II - Live](https://www.youtube.com/watch?v=Ql_kW_zXiuY)
-- [Lament - Live](https://www.youtube.com/watch?v=Ar9Y6H6MjFQ)
-- [Exiles - Live](https://www.youtube.com/watch?v=qsP49QAxsHE)
-- [Asbury Park - Live](https://www.youtube.com/watch?v=aOg5NSJFKqM)
-- [Easy Money - Live](https://www.youtube.com/watch?v=6G9YOvX76D4)
-- [21st Century Schizoid Man - Live](https://www.youtube.com/watch?v=4kO44O4-BgU)
-- [Starless - Live](https://www.youtube.com/watch?v=JHkEIN6HdFI)
-- [Fracture - Live](https://www.youtube.com/watch?v=rJHCl6NjCcE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +67,5 @@ Original vinyl release in 1975.  Includes tracks 1 - 6 (although track 1 & 2 are
 | Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP12 |
-| Notes | Newly cut from masters approved by Robert Fripp  Recorded live by the Record Plant, N.Y.C. June 1974  Download card includes exclusive codes for 320kbps MP3 downloads of an original 1975 vinyl transfer and photos by Mike Dowd of King Crimson at the Casino, Asbury Park, June 28, 1974.  |
+| Notes | Newly cut from masters approved by Robert Fripp<br><br>Recorded live by the Record Plant, N.Y.C. June 1974<br><br>Download card includes exclusive codes for 320kbps MP3 downloads of an original 1975 vinyl transfer and photos by Mike Dowd of King Crimson at the Casino, Asbury Park, June 28, 1974.  |
 | Discogs URL    | [King Crimson - USA](https://www.discogs.com/release/7465720-King-Crimson-USA) |

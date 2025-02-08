@@ -4,6 +4,7 @@ artist_name: "Ride"
 artist: "ride"
 album_name: "Interplay"
 date: 2024-03-29T07:24:20.000000Z
+release_date: "2024-03-29"
 release_id: "30233693"
 slug: "interplay-30233693"
 hideSummary: true
@@ -37,52 +38,32 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Shoegaze"]
 Interplay is the seventh studio album by English rock band Ride, released on 29 March 2024 through Wichita Recordings. It was written and recorded during the COVID-19 pandemic, and produced by Richie Kennedy, and the first album since 1996's Tarantula not produced by Erol Alkan. The album received positive reviews from critics.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Peace Sign (4:38)
-2. Last Frontier (4:09)
-3. Light In A Quiet Room (6:02)
-4. Monaco (4:15)
-5. I Came To See The Wreck (5:57)
-6. Stay Free (5:00)
-7. Last Night I Went Somewhere To Dream (4:13)
-8. Sunrise Chaser (4:18)
-9. Midnight Rider (4:23)
-10. Portland Rocks (5:02)
-11. Essaouira (7:10)
-12. Yesterday Is Just A Song (3:34)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Peace Sign | 4:38 |
+| A2 | Last Frontier | 4:09 |
+| A3 | Light In A Quiet Room | 6:02 |
+| B1 | Monaco | 4:15 |
+| B2 | I Came To See The Wreck | 5:57 |
+| B3 | Stay Free | 5:00 |
+| C1 | Last Night I Went Somewhere To Dream | 4:13 |
+| C2 | Sunrise Chaser | 4:18 |
+| C3 | Midnight Rider | 4:23 |
+| D1 | Portland Rocks | 5:02 |
+| D2 | Essaouira | 7:10 |
+| D3 | Yesterday Is Just A Song | 3:34 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/interplay/1717487806" >}}<br>
 
 
-## Videos
-### RIDE - Peace Sign Official Visualiser
-{{< youtube id="CGnClWTNQRQ" title="RIDE - Peace Sign Official Visualiser" >}}<br>
-### More Videos
-
-- [RIDE - Last Frontier Official Visualiser](https://www.youtube.com/watch?v=KR31bfYn3NM)
-- [RIDE - Monaco Official Visualiser](https://www.youtube.com/watch?v=Oxdz6wnA-tU)
-- [RIDE - Portland Rocks Official Visualiser](https://www.youtube.com/watch?v=QglDc7tJsCE)
-- [Essaouira](https://www.youtube.com/watch?v=3FxI42BIOjE)
-- [I Came to See the Wreck](https://www.youtube.com/watch?v=zG5hDFpHjyA)
-- [Light in a Quiet Room](https://www.youtube.com/watch?v=IODxpM8qk8Q)
-- [Sunrise Chaser](https://www.youtube.com/watch?v=u0X6h9jc054)
-- [Stay Free](https://www.youtube.com/watch?v=gdpehrtmhNA)
-- [Yesterday is Just a Song](https://www.youtube.com/watch?v=Zck0Aw5elW4)
-- [RIDE - Peace Sign Official Visualiser](https://www.youtube.com/watch?v=CGnClWTNQRQ)
-- [RIDE - Last Frontier Official Visualiser](https://www.youtube.com/watch?v=KR31bfYn3NM)
-- [RIDE - Monaco Official Visualiser](https://www.youtube.com/watch?v=Oxdz6wnA-tU)
-- [RIDE - Portland Rocks Official Visualiser](https://www.youtube.com/watch?v=QglDc7tJsCE)
-- [Essaouira](https://www.youtube.com/watch?v=3FxI42BIOjE)
-- [I Came to See the Wreck](https://www.youtube.com/watch?v=zG5hDFpHjyA)
-- [Light in a Quiet Room](https://www.youtube.com/watch?v=IODxpM8qk8Q)
-- [Sunrise Chaser](https://www.youtube.com/watch?v=u0X6h9jc054)
-- [Stay Free](https://www.youtube.com/watch?v=gdpehrtmhNA)
-- [Yesterday is Just a Song](https://www.youtube.com/watch?v=Zck0Aw5elW4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -94,5 +75,5 @@ Interplay is the seventh studio album by English rock band Ride, released on 29 
 | Format         | Vinyl 2× LP 45 RPM Album Limited Edition (Blue) |
 | Label          | Wichita |
 | Catalog Number | WEBB630LP |
-| Notes | 100 copies were sold by Assai Records with a hand numbered Obi strip and signed art card. Rough Trade produced 250 copies with a Band Signed Print.   |
+| Notes | 100 copies were sold by Assai Records with a hand numbered Obi strip and signed art card.<br>Rough Trade produced 250 copies with a Band Signed Print. <br> |
 | Discogs URL    | [Ride - Interplay](https://www.discogs.com/release/30233693-Ride-Interplay) |

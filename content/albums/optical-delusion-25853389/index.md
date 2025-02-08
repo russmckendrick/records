@@ -34,35 +34,24 @@ The opening track of Orbital’s 10th album, <i>Optical Delusion</i>, borrows it
 
 
 ## Tracklisting
-1. Ringa Ringa (The Old Pandemic Folk Song)
-2. Day One
-3. Are You Alive?
-4. You Are The Frequency
-5. The New Abnormal
-6. Home
-7. Dirty Rat
-8. Requiem For The Pre-Apocalypse
-9. What A Surprise
-10. Moon Princess
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ringa Ringa (The Old Pandemic Folk Song) |  |
+| A2 | Day One |  |
+| A3 | Are You Alive? |  |
+| B4 | You Are The Frequency |  |
+| B5 | The New Abnormal |  |
+| C6 | Home |  |
+| C7 | Dirty Rat |  |
+| C8 | Requiem For The Pre-Apocalypse |  |
+| D9 | What A Surprise |  |
+| D10 | Moon Princess |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/optical-delusion/1648750410" >}}<br>
 
 
-## Videos
-### Ringa Ringa The Old Pandemic Folk Song
-{{< youtube id="nVN-l0orYPk" title="Ringa Ringa The Old Pandemic Folk Song" >}}<br>
-### More Videos
-
-- [Day One feat Dina Ipavic](https://www.youtube.com/watch?v=8P3C7vY0wcc)
-- [Are You Alive](https://www.youtube.com/watch?v=aBx7XV2zHng)
-- [The New Abnormal](https://www.youtube.com/watch?v=WoBIDnYqrzY)
-- [Dirty Rat](https://www.youtube.com/watch?v=HuMlwKyDwTE)
-- [Requiem for the Pre-Apocalypse](https://www.youtube.com/watch?v=9D3NXmsVIo4)
-- [Lost In Time](https://www.youtube.com/watch?v=Oh1yD9uf3jU)
-- [The Crane](https://www.youtube.com/watch?v=wVvj_y93n2M)
-- [Year Of The Bat](https://www.youtube.com/watch?v=fAQdjwmfn4I)
-- [Are You Alive Plaid Remix](https://www.youtube.com/watch?v=DV6ZlHqZCv8)
 
 ## Release Images
 {{< imageGrid >}}

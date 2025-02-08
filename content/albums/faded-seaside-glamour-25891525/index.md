@@ -4,6 +4,7 @@ artist_name: "Delays"
 artist: "delays"
 album_name: "Faded Seaside Glamour"
 date: 2023-03-20T05:44:46.000000Z
+release_date: "2004-04-05"
 release_id: "25891525"
 slug: "faded-seaside-glamour-25891525"
 hideSummary: true
@@ -31,61 +32,32 @@ Faded Seaside Glamour is the debut studio album by English rock band Delays, rel
 Music critics gave Faded Seaside Glamour generally favourable reviews; some critics praised the band's musicianship and others highlighted Gilbert's vocals. The album charted at number 17 in the United Kingdom and it was certified silver by the British Phonographic Industry (BPI). The lead single "Nearer Than Heaven" initially reached number 91 on the UK Singles Chart, but after its reissue in March 2004, it peaked at number 21. The second single, "Hey Girl", entered at number 40. In January 2004, "Long Time Coming" was released as the third single and peaked at number 16 on the UK Singles Chart. The latter release was followed the next month by a performance at the NME Awards. In July 2004, Delays toured the United States with Cardia and Paula Kelly. The band then returned to the UK, where they supported Franz Ferdinand and Snow Patrol, and ended the year with a headlining UK tour.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Wanderlust
-2. Nearer Than Heaven
-3. Long Time Coming
-4. Bedroom Scene
-5. No Ending
-6. You Wear The Sun
-7. Hey Girl
-8. Stay Where You Are
-9. There's Water Here
-10. Satellites Lost
-11. One Night Away
-12. On
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Wanderlust |  |
+| A2 | Nearer Than Heaven |  |
+| A3 | Long Time Coming |  |
+| A4 | Bedroom Scene |  |
+| A5 | No Ending |  |
+| A6 | You Wear The Sun |  |
+| B7 | Hey Girl |  |
+| B8 | Stay Where You Are |  |
+| B9 | There's Water Here |  |
+| B10 | Satellites Lost |  |
+| B11 | One Night Away |  |
+| B12 | On |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/faded-seaside-glamour/260654407" >}}<br>
 
 
-## Videos
-### Wanderlust
-{{< youtube id="12iKTYOe6hA" title="Wanderlust" >}}<br>
-### More Videos
-
-- [Delays - Nearer Than Heaven](https://www.youtube.com/watch?v=JbIddy1G_OY)
-- [DELAYS - LONG TIME COMING](https://www.youtube.com/watch?v=tqRnGdD_WV4)
-- [Delays - Bedroom Scene 2004](https://www.youtube.com/watch?v=fmppoyPq-Ls)
-- [No Ending](https://www.youtube.com/watch?v=dx_bYg0SypU)
-- [You Wear the Sun](https://www.youtube.com/watch?v=K9WKhZ5hss4)
-- [Delays - Hey Girl](https://www.youtube.com/watch?v=E8wgJftpGDA)
-- [Delays - Stay Where You Are 2004](https://www.youtube.com/watch?v=Dc2VaK0sBx8)
-- [Theres Water Here](https://www.youtube.com/watch?v=dfZBGvHgABs)
-- [Satellites Lost](https://www.youtube.com/watch?v=BMEwu106X6I)
-- [One Night Away](https://www.youtube.com/watch?v=rBJkHbvGd3k)
-- [On](https://www.youtube.com/watch?v=L2ylsxrjlLg)
-- [Delays - On](https://www.youtube.com/watch?v=7mDZPbOmnTc)
-- [Delays - Hey Girl](https://www.youtube.com/watch?v=E8wgJftpGDA)
-- [Delays - Nearer Than Heaven](https://www.youtube.com/watch?v=JbIddy1G_OY)
-- [Delays  Wanderlust](https://www.youtube.com/watch?v=ykkI_bldscs)
-- [Satellites Lost](https://www.youtube.com/watch?v=BMEwu106X6I)
-- [Wanderlust](https://www.youtube.com/watch?v=12iKTYOe6hA)
-- [Delays - Nearer Than Heaven](https://www.youtube.com/watch?v=JbIddy1G_OY)
-- [DELAYS - LONG TIME COMING](https://www.youtube.com/watch?v=tqRnGdD_WV4)
-- [Delays - Bedroom Scene 2004](https://www.youtube.com/watch?v=fmppoyPq-Ls)
-- [No Ending](https://www.youtube.com/watch?v=dx_bYg0SypU)
-- [You Wear the Sun](https://www.youtube.com/watch?v=K9WKhZ5hss4)
-- [Delays - Hey Girl](https://www.youtube.com/watch?v=E8wgJftpGDA)
-- [Delays - Stay Where You Are 2004](https://www.youtube.com/watch?v=Dc2VaK0sBx8)
-- [Theres Water Here](https://www.youtube.com/watch?v=dfZBGvHgABs)
-- [Satellites Lost](https://www.youtube.com/watch?v=BMEwu106X6I)
-- [One Night Away](https://www.youtube.com/watch?v=rBJkHbvGd3k)
-- [On](https://www.youtube.com/watch?v=L2ylsxrjlLg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -97,5 +69,5 @@ Music critics gave Faded Seaside Glamour generally favourable reviews; some crit
 | Format         | Vinyl LP Album Deluxe Edition Limited Edition Reissue (Orange) |
 | Label          | Rough Trade |
 | Catalog Number | RTRAD114LPX |
-| Notes | Gatefold sleeve with gloss card art print, housed in an embossed, die cut o-card slipcase.  Catalogue number on slipcase is RTRAD114LPX Catalogue number on sleeve is RTRAD114LP ℗ 2022 the copyright in these sound recordings is owned by Rough Trade Records Ltd. © 2022 Rough Trade Records Ltd.  Runouts are hand etched, 1I (looks like VI) is mirrored. |
+| Notes | Gatefold sleeve with gloss card art print, housed in an embossed, die cut o-card slipcase.<br><br>Catalogue number on slipcase is RTRAD114LPX<br>Catalogue number on sleeve is RTRAD114LP<br>℗ 2022 the copyright in these sound recordings is owned by Rough Trade Records Ltd.<br>© 2022 Rough Trade Records Ltd.<br><br>Runouts are hand etched, 1I (looks like VI) is mirrored. |
 | Discogs URL    | [Delays - Faded Seaside Glamour](https://www.discogs.com/release/25891525-Delays-Faded-Seaside-Glamour) |

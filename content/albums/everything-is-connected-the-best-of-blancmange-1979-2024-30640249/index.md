@@ -4,6 +4,7 @@ artist_name: "Blancmange"
 artist: "blancmange"
 album_name: "Everything Is Connected (The Best Of Blancmange 1979-2024)"
 date: 2024-05-15T04:42:41.000000Z
+release_date: ""
 release_id: "30640249"
 slug: "everything-is-connected-the-best-of-blancmange-1979-2024-30640249"
 hideSummary: true
@@ -33,29 +34,29 @@ styles: ["Synth-pop", "New Wave"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Living On The Ceiling
-2. Waves
-3. Blind Vision
-4. Don't Tell Me
-5. The Day Before You Came
-6. What's The Time?
-7. Distant Storm
-8. Mindset
-9. Reduced Voltage
-10. Some Times These
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Living On The Ceiling |  |
+| A2 | Waves |  |
+| A3 | Blind Vision |  |
+| A4 | Don't Tell Me |  |
+| A5 | The Day Before You Came |  |
+| B1 | What's The Time? |  |
+| B2 | Distant Storm |  |
+| B3 | Mindset |  |
+| B4 | Reduced Voltage |  |
+| B5 | Some Times These |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Thats Love That Is Is
-{{< youtube id="Vxg_EtSFCAg" title="Thats Love That Is Is" >}}<br>
-### More Videos
 
-- [Whats The Time](https://www.youtube.com/watch?v=INiu3QreHDo)
-- [Thats Love That Is Is](https://www.youtube.com/watch?v=Vxg_EtSFCAg)
-- [Whats The Time](https://www.youtube.com/watch?v=INiu3QreHDo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +67,5 @@ styles: ["Synth-pop", "New Wave"]
 | Format         | Vinyl LP Album Compilation Limited Edition (Coke Bottle Green Transparent) |
 | Label          | London Records |
 | Catalog Number | LMS1725115 |
-| Notes | Truncated 10 track vinyl version of the companion 2XCD which contains 38 tracks [r30631420].  ℗ & © 2024 London Records Ltd. Manufactured in France.  Title of A1 is printed upside down on cover. Initial copies ordered from the band's official website included a 12"x12" colour print signed by Neil Arthur. |
+| Notes | Truncated 10 track vinyl version of the companion 2XCD which contains 38 tracks [r30631420].<br><br>℗ & © 2024 London Records Ltd.<br>Manufactured in France.<br><br>Title of A1 is printed upside down on cover. Initial copies ordered from the band's official website included a 12"x12" colour print signed by Neil Arthur. |
 | Discogs URL    | [Blancmange - Everything Is Connected (The Best Of Blancmange 1979-2024)](https://www.discogs.com/release/30640249-Blancmange-Everything-Is-Connected-The-Best-Of-Blancmange-1979-2024) |

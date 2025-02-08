@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "The Endless Coloured Ways (The Songs Of Nick Drake)"
 date: 2023-07-10T13:24:22.000000Z
+release_date: ""
 release_id: "27634329"
 slug: "the-endless-coloured-ways-the-songs-of-nick-drake-27634329"
 hideSummary: true
@@ -37,70 +38,51 @@ styles: ["Alt-Pop", "Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Season One
-2. Episode A:
-3. Voices (Prelude)
-4. 'Cello Song
-5. Hazey Jane II
-6. Saturday Sun
-7. Road
-8. From The Morning
-9. Place To Be
-10. Episode B:
-11. Three Hours
-12. Parasite
-13. Time Has Told Me
-14. One Of These Things First
-15. Northern Sky
-16. Black Eyed Dog
-17. Season Two
-18. Episode C:
-19. Road (Reprise)
-20. Poor Boy
-21. Which Will
-22. Harvest Breed
-23. I Think They're Leaving Me Behind
-24. Pink Moon
-25. Time Of No Reply
-26. Episode D:
-27. River Man
-28. Free Ride
-29. Fly
-30. Day Is Done
-31. Voices
-32. Tomorrow Is A Long Time
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Season One |  |
+|  | Episode A: |  |
+| A1 | Voices (Prelude) |  |
+| A2 | 'Cello Song |  |
+| A3 | Hazey Jane II |  |
+| A4 | Saturday Sun |  |
+| A5 | Road |  |
+| A6 | From The Morning |  |
+| A7 | Place To Be |  |
+|  | Episode B: |  |
+| B1 | Three Hours |  |
+| B2 | Parasite |  |
+| B3 | Time Has Told Me |  |
+| B4 | One Of These Things First |  |
+| B5 | Northern Sky |  |
+| B6 | Black Eyed Dog |  |
+|  | Season Two |  |
+|  | Episode C: |  |
+| C1 | Road (Reprise) |  |
+| C2 | Poor Boy |  |
+| C3 | Which Will |  |
+| C4 | Harvest Breed |  |
+| C5 | I Think They're Leaving Me Behind |  |
+| C6 | Pink Moon |  |
+| C7 | Time Of No Reply |  |
+|  | Episode D: |  |
+| D1 | River Man |  |
+| D2 | Free Ride |  |
+| D3 | Fly |  |
+| D4 | Day Is Done |  |
+| D5 | Voices |  |
+| E | Tomorrow Is A Long Time |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### John Grant - Day Is Done Official Film
-{{< youtube id="rhRXEtJ4EfA" title="John Grant - Day Is Done Official Film" >}}<br>
-### More Videos
 
-- [Stick in the Wheel - Parasite Official Film](https://www.youtube.com/watch?v=kfPUn8hrBtA)
-- [Camille - Hazey Jane II Official Film](https://www.youtube.com/watch?v=zmAb2lGywfA)
-- [AURORA - Pink Moon Official Film](https://www.youtube.com/watch?v=_YiPqRWNbjY)
-- [Fontaines DC  Cello Song from The Endless Coloured Ways The Songs Of Nick Drake](https://www.youtube.com/watch?v=ezDU--NeT4c)
-- [Saturday Sun from The Endless Coloured Ways The Songs of Nick Drake Official Visual](https://www.youtube.com/watch?v=rtxE0BxfNEc)
-- [Lets Eat Grandma - From The Morning from The Endless Coloured Ways The Songs Of Nick](https://www.youtube.com/watch?v=k3sfm6WGuKs)
-- [Craig Armstrong Black Eye Dog The Endless Coloured Ways The song of Nick Drake](https://www.youtube.com/watch?v=NykydXFjyrY)
-- [Philip Selway - Fly Official Film](https://www.youtube.com/watch?v=NcQMscokX7s)
-- [I Think Theyre Leaving Me Behind from The Endless Coloured Ways The Songs of Nick Dr](https://www.youtube.com/watch?v=qtnAaPfwEpA)
-- [John Parish  Aldous Harding - Three Hours Official Film](https://www.youtube.com/watch?v=P1EuZcw05mU)
-- [I Think Theyre Leaving Me Behind from The Endless Coloured Ways The Songs of Nick Dr](https://www.youtube.com/watch?v=qtnAaPfwEpA)
-- [John Grant - Day Is Done Official Film](https://www.youtube.com/watch?v=rhRXEtJ4EfA)
-- [Stick in the Wheel - Parasite Official Film](https://www.youtube.com/watch?v=kfPUn8hrBtA)
-- [Camille - Hazey Jane II Official Film](https://www.youtube.com/watch?v=zmAb2lGywfA)
-- [AURORA - Pink Moon Official Film](https://www.youtube.com/watch?v=_YiPqRWNbjY)
-- [Fontaines DC  Cello Song from The Endless Coloured Ways The Songs Of Nick Drake](https://www.youtube.com/watch?v=ezDU--NeT4c)
-- [Saturday Sun from The Endless Coloured Ways The Songs of Nick Drake Official Visual](https://www.youtube.com/watch?v=rtxE0BxfNEc)
-- [Lets Eat Grandma - From The Morning from The Endless Coloured Ways The Songs Of Nick](https://www.youtube.com/watch?v=k3sfm6WGuKs)
-- [Craig Armstrong Black Eye Dog The Endless Coloured Ways The song of Nick Drake](https://www.youtube.com/watch?v=NykydXFjyrY)
-- [Philip Selway - Fly Official Film](https://www.youtube.com/watch?v=NcQMscokX7s)
-- [I Think Theyre Leaving Me Behind from The Endless Coloured Ways The Songs of Nick Dr](https://www.youtube.com/watch?v=qtnAaPfwEpA)
-- [John Parish  Aldous Harding - Three Hours Official Film](https://www.youtube.com/watch?v=P1EuZcw05mU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -111,5 +93,5 @@ styles: ["Alt-Pop", "Alternative Rock"]
 | Format         | Vinyl 2× LP (Gatefold, Buff), Vinyl 7" 45 RPM Single Sided |
 | Label          | Chrysalis |
 | Catalog Number | BRVC75 |
-| Notes | Obi strip reads: "Summer Special Gatefold shop edition  Pressed on two heavyweight buff-coloured audiophile slabs of vinyl. Includes a single-sided 7” single with Nick Drake covering Bob Dylan."  LP (from back cover): All tracks mastered by Robin Millar at Blue Raincoat Studios, London Inside photo: Bill Jackson, still taken from the film ‘When Day Is Done’ ---- LP - Ⓟ & Ⓒ 2023 The copyright in this compilation is owned by Chrysalis Records Limited. 7" - Ⓟ & Ⓒ 2023 Bryter Music  Vinyl is marketed and mentioned on OBI strip as "Buff" - it is more gray and dark brown colored than traditional buff - tan color. Vinyl is translucent. LP - Made in UK 7" Made in Czech Republic  Track - credits / LCCN: A2: Recorded at Battery Studios, London Mixed by Guy Garvey & Barney Lister at The Dairy, London A3: Recorded by Nicolas Quere at la Frette Studios, France Mixed by Will Maclennan at Sound City Studios, Los Angeles A6: Recorded at Studio Bruxo, UK A7: Recorded at Ground Control Studios, UK B1: Produced, arranged, and mixed by John Parish at Honorsound Studio, Bristol, UK Aldous Harding's vocals recorded by Mark Perkins at Te Ta Studios, NZ B2: Recorded at Eastcote Sudios, London & From Here B4: Co-produced & engineered by Darren Jones at The Pool Studios, London. B5: Engineered by Euan Burton with Kevin Burleigh & Matthew Boyle at Gorbals Sound, Glasgow. B6: Rebecca's vocals recorded by Colin Elliot at Yellow Arch Studios C2: Recorded at Paquin Studios, Auckland, NZ C4: Recorded in Subtle Bunny Studio, USA C5: Recorded at Rebellious Jukebox Studios, Birmingham, England C6: Recorded and Mixed at Norsk Rikstudio, Norway D1: Recorded and mixed at Sound City Studios, Los Angeles D3: Recorded at Evolution Studios, Oxford, UK D5: Vocals recorded by Oli Deakin & additional engineering by Iggy B at Bella Union Studios, Strongrooms, London  Appearances courtesy of artist's label, from inner sleeve (artist / label): [a6322880] / [l140545] [a87774] / [l54379] [a52967] / [l1610] [a4975931] / [l58970] [a63853] / [l2264311] [a4146181] / [l273745] and [l374705] [a3438857] / [l916740] [a600535] / [l65722] [a2460769] / [l1610] [a4256161] / [l241890] [a8074051] / [l35538] [a5286566] / [l29121] [a532900] / [l5320], [l529557], and [l74158] [a179556] / [l2201]        |
+| Notes | Obi strip reads:<br>"Summer Special Gatefold shop edition <br>Pressed on two heavyweight buff-coloured audiophile slabs of vinyl. Includes a single-sided 7” single with Nick Drake covering Bob Dylan."<br><br>LP (from back cover):<br>All tracks mastered by Robin Millar at Blue Raincoat Studios, London<br>Inside photo: Bill Jackson, still taken from the film ‘When Day Is Done’<br>----<br>LP - Ⓟ & Ⓒ 2023 The copyright in this compilation is owned by Chrysalis Records Limited.<br>7" - Ⓟ & Ⓒ 2023 Bryter Music<br><br>Vinyl is marketed and mentioned on OBI strip as "Buff" - it is more gray and dark brown colored than traditional buff - tan color. Vinyl is translucent.<br>LP - Made in UK<br>7" Made in Czech Republic<br><br>Track - credits / LCCN:<br>A2: Recorded at Battery Studios, London<br>Mixed by Guy Garvey & Barney Lister at The Dairy, London<br>A3: Recorded by Nicolas Quere at la Frette Studios, France<br>Mixed by Will Maclennan at Sound City Studios, Los Angeles<br>A6: Recorded at Studio Bruxo, UK<br>A7: Recorded at Ground Control Studios, UK<br>B1: Produced, arranged, and mixed by John Parish at Honorsound Studio, Bristol, UK<br>Aldous Harding's vocals recorded by Mark Perkins at Te Ta Studios, NZ<br>B2: Recorded at Eastcote Sudios, London & From Here<br>B4: Co-produced & engineered by Darren Jones at The Pool Studios, London.<br>B5: Engineered by Euan Burton with Kevin Burleigh & Matthew Boyle at Gorbals Sound, Glasgow.<br>B6: Rebecca's vocals recorded by Colin Elliot at Yellow Arch Studios<br>C2: Recorded at Paquin Studios, Auckland, NZ<br>C4: Recorded in Subtle Bunny Studio, USA<br>C5: Recorded at Rebellious Jukebox Studios, Birmingham, England<br>C6: Recorded and Mixed at Norsk Rikstudio, Norway<br>D1: Recorded and mixed at Sound City Studios, Los Angeles<br>D3: Recorded at Evolution Studios, Oxford, UK<br>D5: Vocals recorded by Oli Deakin & additional engineering by Iggy B at Bella Union Studios, Strongrooms, London<br><br>Appearances courtesy of artist's label, from inner sleeve (artist / label):<br>[a6322880] / [l140545]<br>[a87774] / [l54379]<br>[a52967] / [l1610]<br>[a4975931] / [l58970]<br>[a63853] / [l2264311]<br>[a4146181] / [l273745] and [l374705]<br>[a3438857] / [l916740]<br>[a600535] / [l65722]<br>[a2460769] / [l1610]<br>[a4256161] / [l241890]<br>[a8074051] / [l35538]<br>[a5286566] / [l29121]<br>[a532900] / [l5320], [l529557], and [l74158]<br>[a179556] / [l2201]<br><br><br><br><br><br><br> |
 | Discogs URL    | [Various - The Endless Coloured Ways (The Songs Of Nick Drake)](https://www.discogs.com/release/27634329-Various-The-Endless-Coloured-Ways-The-Songs-Of-Nick-Drake) |

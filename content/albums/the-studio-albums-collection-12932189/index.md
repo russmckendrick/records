@@ -4,6 +4,7 @@ artist_name: "Creedence Clearwater Revival"
 artist: "creedence-clearwater-revival"
 album_name: "The Studio Albums Collection"
 date: 2019-11-16T11:42:05.000000Z
+release_date: "1968-07-05"
 release_id: "12932189"
 slug: "the-studio-albums-collection-12932189"
 hideSummary: true
@@ -59,109 +60,91 @@ styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Creedence Clearwater Revival
-2. I Put A Spell On You (4:25)
-3. The Working Man (3:02)
-4. Susie Q (8:34)
-5. Ninety-Nine And A Half (Won't Do) (3:35)
-6. Get Down Woman (3:02)
-7. Porterville (2:13)
-8. Gloomy (3:48)
-9. Walk On The Water (4:16)
-10. Bayou Country
-11. Born On The Bayou (5:16)
-12. Bootleg (3:02)
-13. Graveyard Train (8:38)
-14. Good Golly Miss Molly (2:44)
-15. Penthouse Pauper (3:40)
-16. Proud Mary (3:09)
-17. Keep On Chooglin' (7:40)
-18. Green River
-19. Green River (2:32)
-20. Commotion (2:41)
-21. Tombstone Shadow (3:36)
-22. Wrote A Song For Everyone (4:55)
-23. Bad Moon Rising (2:18)
-24. Lodi (3:10)
-25. Cross-Tie Walker (3:17)
-26. Sinister Purpose (3:20)
-27. The Night Time Is The Right Time (3:07)
-28. Willy And The Poor Boys
-29. Down On The Corner (2:43)
-30. It Came Out Of The Sky (2:58)
-31. Cotton Fields (2:53)
-32. Poorboy Shuffle (2:25)
-33. Feelin' Blue (5:05)
-34. Fortunate Son (2:20)
-35. Don't Look Now (It Ain't You Or Me) (2:08)
-36. The Midnight Special (4:10)
-37. Side O' The Road (3:21)
-38. Effigy (6:28)
-39. Cosmos Factory
-40. Ramble Tamble (7:09)
-41. Before You Accuse Me (Take A Look At Yourself) (3:24)
-42. Travelin' Band (2:07)
-43. Ooby Dooby (2:05)
-44. Lookin' Out My Back Door (2:31)
-45. Run Through The Jungle (3:09)
-46. Up Around The Bend (2:40)
-47. My Baby Left Me (2:17)
-48. Who'll Stop The Rain (2:28)
-49. I Heard It Through The Grapevine (11:05)
-50. Long As I Can See The Light (3:33)
-51. Pendulum
-52. Pagan Baby (6:25)
-53. Sailor's Lament (3:52)
-54. Chameleon (3:20)
-55. Have You Ever Seen The Rain (2:38)
-56. (Wish I Could) Hideaway (3:49)
-57. Born To Move (5:39)
-58. Hey Tonight (2:43)
-59. It's Just A Thought (3:56)
-60. Molina (2:41)
-61. Rude Awakening #2 (6:19)
-62. Mardi Gras
-63. Lookin' For A Reason (3:25)
-64. Take It Like A Friend (3:01)
-65. Need Someone To Hold (2:59)
-66. Tearin' Up The Country (2:13)
-67. Someday Never Comes (3:59)
-68. What Are You Gonna Do (2:51)
-69. Sail Away (2:25)
-70. Hello Mary Lou (2:11)
-71. Door To Door (2:03)
-72. Sweet Hitch-Hiker (2:59)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Creedence Clearwater Revival |  |
+| A1 | I Put A Spell On You | 4:25 |
+| A2 | The Working Man | 3:02 |
+| A3 | Susie Q | 8:34 |
+| B1 | Ninety-Nine And A Half (Won't Do) | 3:35 |
+| B2 | Get Down Woman | 3:02 |
+| B3 | Porterville | 2:13 |
+| B4 | Gloomy | 3:48 |
+| B5 | Walk On The Water | 4:16 |
+|  | Bayou Country |  |
+| C1 | Born On The Bayou | 5:16 |
+| C2 | Bootleg | 3:02 |
+| C3 | Graveyard Train | 8:38 |
+| D1 | Good Golly Miss Molly | 2:44 |
+| D2 | Penthouse Pauper | 3:40 |
+| D3 | Proud Mary | 3:09 |
+| D4 | Keep On Chooglin' | 7:40 |
+|  | Green River |  |
+| E1 | Green River | 2:32 |
+| E2 | Commotion | 2:41 |
+| E3 | Tombstone Shadow | 3:36 |
+| E4 | Wrote A Song For Everyone | 4:55 |
+| F1 | Bad Moon Rising | 2:18 |
+| F2 | Lodi | 3:10 |
+| F3 | Cross-Tie Walker | 3:17 |
+| F4 | Sinister Purpose | 3:20 |
+| F5 | The Night Time Is The Right Time | 3:07 |
+|  | Willy And The Poor Boys |  |
+| G1 | Down On The Corner | 2:43 |
+| G2 | It Came Out Of The Sky | 2:58 |
+| G3 | Cotton Fields | 2:53 |
+| G4 | Poorboy Shuffle | 2:25 |
+| G5 | Feelin' Blue | 5:05 |
+| H1 | Fortunate Son | 2:20 |
+| H2 | Don't Look Now (It Ain't You Or Me) | 2:08 |
+| H3 | The Midnight Special | 4:10 |
+| H4 | Side O' The Road | 3:21 |
+| H5 | Effigy | 6:28 |
+|  | Cosmos Factory |  |
+| I1 | Ramble Tamble | 7:09 |
+| I2 | Before You Accuse Me (Take A Look At Yourself) | 3:24 |
+| I3 | Travelin' Band | 2:07 |
+| I4 | Ooby Dooby | 2:05 |
+| I5 | Lookin' Out My Back Door | 2:31 |
+| I6 | Run Through The Jungle | 3:09 |
+| J1 | Up Around The Bend | 2:40 |
+| J2 | My Baby Left Me | 2:17 |
+| J3 | Who'll Stop The Rain | 2:28 |
+| J4 | I Heard It Through The Grapevine | 11:05 |
+| J5 | Long As I Can See The Light | 3:33 |
+|  | Pendulum |  |
+| K1 | Pagan Baby | 6:25 |
+| K2 | Sailor's Lament | 3:52 |
+| K3 | Chameleon | 3:20 |
+| K4 | Have You Ever Seen The Rain | 2:38 |
+| K5 | (Wish I Could) Hideaway | 3:49 |
+| L1 | Born To Move | 5:39 |
+| L2 | Hey Tonight | 2:43 |
+| L3 | It's Just A Thought | 3:56 |
+| L4 | Molina | 2:41 |
+| L5 | Rude Awakening #2 | 6:19 |
+|  | Mardi Gras |  |
+| M1 | Lookin' For A Reason | 3:25 |
+| M2 | Take It Like A Friend | 3:01 |
+| M3 | Need Someone To Hold | 2:59 |
+| M4 | Tearin' Up The Country | 2:13 |
+| M5 | Someday Never Comes | 3:59 |
+| N1 | What Are You Gonna Do | 2:51 |
+| N2 | Sail Away | 2:25 |
+| N3 | Hello Mary Lou | 2:11 |
+| N4 | Door To Door | 2:03 |
+| N5 | Sweet Hitch-Hiker | 2:59 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/creedence-clearwater-revival/1440944801" >}}<br>
 
 
-## Videos
-### Creedence Clearwater Revival - Have You Ever Seen The Rain Official
-{{< youtube id="u1V8YRJnr4Q" title="Creedence Clearwater Revival - Have You Ever Seen The Rain Official" >}}<br>
-### More Videos
-
-- [Creedence Clearwater Revival - The Studio Albums Collection Half Speed Masters Unboxing](https://www.youtube.com/watch?v=Y14px43fICc)
-- [Creedence Clearwater Revival - The Studio Albums Collection](https://www.youtube.com/watch?v=NUSgXNrOce0)
-- [Creedence Clearwater Revival - The Studio Albums Collection](https://www.youtube.com/watch?v=Qsp9KJAEWV0)
-- [CREEDENCE CLEARWATER REVIVAL - The Studio Albums Collection  UNBOXING  REVIEW](https://www.youtube.com/watch?v=wwYlNGD0NUI)
-- [Ranking the Studio Albums Creedence Clearwater Revival](https://www.youtube.com/watch?v=84b_UwVbeGY)
-- [CCR - the studio albums collection - my review](https://www.youtube.com/watch?v=61UuSulzaMY)
-- [Creedence Clearwater Revival -  The Studio album collection -Suzie Q Vinyl Reed Muse 3C](https://www.youtube.com/watch?v=KLAoJX-DiWc)
-- [Creedence 12 vinyl collection - Different editions](https://www.youtube.com/watch?v=bnZldRR0fBw)
-- [Creedence Clearwater Revival   vinyl  CD collection](https://www.youtube.com/watch?v=xRG-u59psMY)
-- [Discography Creedence Clearwater Revival](https://www.youtube.com/watch?v=vFQ55_VXOf8)
-- [Creedence Clearwater Revival Vinyl Record Collection Part_13](https://www.youtube.com/watch?v=qXdbeg2h2vM)
-- [On this day in 1970 Cosmos Factory hit 1 on UK Album Charts](https://www.youtube.com/watch?v=VFqcRHDXt-w)
-- [Creedence Clearwater Revival CD Collection](https://www.youtube.com/watch?v=4BTdxtAua-g)
-- [My Creedence Clearwater Revival Vinyl Collection](https://www.youtube.com/watch?v=Op8jdF5XF2A)
-- [Credence Clearwater Revival vinyl Walmart exclusive](https://www.youtube.com/watch?v=MIKdKWM4ttk)
-- [Creedence Clearwater Revival Vinyl Record Collection Part_33](https://www.youtube.com/watch?v=E_FeNIiAIoM)
-- [Studio Albums Ranked - Creedence Clearwater Revival  bicyclelegs](https://www.youtube.com/watch?v=yrrwT7KigNE)
-- [New Album In 1969 Bayou Country by Creedence Clearwater Revival](https://www.youtube.com/watch?v=yo2Ne9JsD1Y)
-- [Creedence Clearwater Revival - Half-Speed Masters Interview with Miles Showell](https://www.youtube.com/watch?v=jvrUQiZh_qc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -172,5 +155,5 @@ styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 | Format         | Box Set Compilation Numbered Special Edition, Vinyl 7× LP Album Reissue Remastered (Half-Speed Mastering) |
 | Label          | Craft Recordings |
 | Catalog Number | CR00131 |
-| Notes | Text on the back cover of the box set:  The compilation ℗ & © 2018 Craft Recordings, a division of Concord Music Group, Inc. All rights reserved. unauthorized copying, reproduction, hiring, lending, public performance and broadcasting prohibited. Made in the EU. 0888072049376. Universal International Music B.V. Gerrit van der Veenlaan 4, 3743 dn, Baarn, Netherlands |
+| Notes | Text on the back cover of the box set:<br><br>The compilation ℗ & © 2018 Craft Recordings, a division of Concord Music Group, Inc. All rights reserved. unauthorized copying, reproduction, hiring, lending, public performance and broadcasting prohibited. Made in the EU. 0888072049376. Universal International Music B.V. Gerrit van der Veenlaan 4, 3743 dn, Baarn, Netherlands |
 | Discogs URL    | [Creedence Clearwater Revival - The Studio Albums Collection](https://www.discogs.com/release/12932189-Creedence-Clearwater-Revival-The-Studio-Albums-Collection) |

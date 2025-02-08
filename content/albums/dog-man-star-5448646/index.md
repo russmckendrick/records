@@ -37,35 +37,26 @@ While Dog Man Star was acclaimed by many reviewers as a masterpiece, the trend t
 
 
 ## Tracklisting
-1. Introducing The Band (2:38)
-2. We Are The Pigs (4:19)
-3. Heroine (3:22)
-4. The Wild Ones (4:50)
-5. Daddy's Speeding (5:22)
-6. The Power (4:31)
-7. New Generation (4:37)
-8. This Hollywood Life (3:50)
-9. The 2 Of Us (5:45)
-10. Black Or Blue (3:48)
-11. The Asphalt World (9:25)
-12. Still Life (5:23)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Introducing The Band | 2:38 |
+| A2 | We Are The Pigs | 4:19 |
+| A3 | Heroine | 3:22 |
+| A4 | The Wild Ones | 4:50 |
+| B1 | Daddy's Speeding | 5:22 |
+| B2 | The Power | 4:31 |
+| B3 | New Generation | 4:37 |
+| C1 | This Hollywood Life | 3:50 |
+| C2 | The 2 Of Us | 5:45 |
+| C3 | Black Or Blue | 3:48 |
+| D1 | The Asphalt World | 9:25 |
+| D2 | Still Life | 5:23 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dog-man-star-remastered/435029097" >}}<br>
 
 
-## Videos
-### Suede - Dog Man Star 1994
-{{< youtube id="8H9AQixOwrU" title="Suede - Dog Man Star 1994" >}}<br>
-### More Videos
-
-- [Suede - We Are The Pigs Official Video](https://www.youtube.com/watch?v=fxtIwh1Nz0k)
-- [Suede - New Generation](https://www.youtube.com/watch?v=hkSlV8nAuCs)
-- [Suede - The Wild Ones](https://www.youtube.com/watch?v=a0SuX1IvJys)
-- [Suede - The Wild Ones](https://www.youtube.com/watch?v=a0SuX1IvJys)
-- [Suede - We Are The Pigs](https://www.youtube.com/watch?v=fxtIwh1Nz0k)
-- [Suede - New Generation](https://www.youtube.com/watch?v=hkSlV8nAuCs)
-- [NME Flexi](https://www.youtube.com/watch?v=CC_mCJGivYc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +68,5 @@ While Dog Man Star was acclaimed by many reviewers as a masterpiece, the trend t
 | Format         | Vinyl 2× LP Album Reissue (180 g) |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 2 |
-| Notes | Mastered in Portland, Maine.  Though reissued in 2014, copyright notice states '(c) 2013'. |
+| Notes | Mastered in Portland, Maine. <br>Though reissued in 2014, copyright notice states '(c) 2013'. |
 | Discogs URL    | [Suede - Dog Man Star](https://www.discogs.com/release/5448646-Suede-Dog-Man-Star) |

@@ -4,6 +4,7 @@ artist_name: "Toto"
 artist: "toto"
 album_name: "40 Trips Around The Sun"
 date: 2018-03-01T19:54:53.000000Z
+release_date: "2018-02-09"
 release_id: "11540403"
 slug: "40-trips-around-the-sun-11540403"
 hideSummary: true
@@ -32,49 +33,37 @@ styles: ["Arena Rock", "Classic Rock", "AOR"]
 40 Trips Around the Sun contains 14 tracks from 1978 to 1993, and three previously unreleased recordings ("Spanish Sea", "Alone" and "Struck by Lightning"). "Spanish Sea" was recorded during the sessions for Isolation (1984), and was re-written with a new chorus. Steve Lukather said of the song: "Thanks to modern tech we were able to play once again with not only our 20 something selves but with our dear brothers Jeff and Mike Porcaro reminding us just how deep their groove was. Bittersweet... Many stories, laughs and a few tears on this one". "Alone" is a newly written song by Toto members David Paich, Steve Lukather, Steve Porcaro and Joseph Williams, while "Struck by Lightning" was previously unreleased.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Alone (Newly Recorded)
-2. Spanish Sea (Newly Recorded)
-3. I'll Supply The Love
-4. I'll Be Over You
-5. Stranger In Town
-6. 99
-7. Struck By Lightning (Newly Recorded)
-8. Pamela
-9. Afraid Of Love
-10. I Won't Hold You Back
-11. Jake To The Bone
-12. Stop Loving You
-13. Lea
-14. Hold The Line
-15. Georgy Porgy
-16. Rosanna
-17. Africa
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Alone (Newly Recorded) |  |
+| A2 | Spanish Sea (Newly Recorded) |  |
+| A3 | I'll Supply The Love |  |
+| A4 | I'll Be Over You |  |
+| A5 | Stranger In Town |  |
+| B1 | 99 |  |
+| B2 | Struck By Lightning (Newly Recorded) |  |
+| B3 | Pamela |  |
+| B4 | Afraid Of Love |  |
+| C1 | I Won't Hold You Back |  |
+| C2 | Jake To The Bone |  |
+| C3 | Stop Loving You |  |
+| C4 | Lea |  |
+| D1 | Hold The Line |  |
+| D2 | Georgy Porgy |  |
+| D3 | Rosanna |  |
+| D4 | Africa |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits-40-trips-around-the-sun/1310067089" >}}<br>
 
 
-## Videos
-### Toto - Africa Video
-{{< youtube id="FTQbiNvZqaY" title="Toto - Africa Video" >}}<br>
-### More Videos
-
-- [Toto - Hold The Line](https://www.youtube.com/watch?v=htgr3pvBr-I)
-- [Toto - Rosanna Video](https://www.youtube.com/watch?v=qmOLtTGvsbM)
-- [Toto - Georgy Porgy Video Version](https://www.youtube.com/watch?v=EWIgEtkE3GA)
-- [Toto - Stranger In Town](https://www.youtube.com/watch?v=RSeldKAqM-w)
-- [Toto - Pamela](https://www.youtube.com/watch?v=QCq9751mOFo)
-- [Toto - Africa Video](https://www.youtube.com/watch?v=FTQbiNvZqaY)
-- [Toto - Hold The Line](https://www.youtube.com/watch?v=htgr3pvBr-I)
-- [Toto - Rosanna Video](https://www.youtube.com/watch?v=qmOLtTGvsbM)
-- [Toto - Georgy Porgy Video Version](https://www.youtube.com/watch?v=EWIgEtkE3GA)
-- [Toto - Stranger In Town](https://www.youtube.com/watch?v=RSeldKAqM-w)
-- [Toto - Pamela](https://www.youtube.com/watch?v=QCq9751mOFo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +75,5 @@ styles: ["Arena Rock", "Classic Rock", "AOR"]
 | Format         | Vinyl 2× LP Compilation Remastered |
 | Label          | Columbia |
 | Catalog Number | 19075808661 |
-| Notes | Made in the EU. This compilation ℗&© 2018 Sony Music Entertainment   ℗ 2017 (A1), 2018 (A2, B2) Sony Music Entertainment;  ℗ 1978 (A3, D1, D2), 1979 (B1), 1982 (B4, C1, D3, D4), 1984 (A5), 1986 (A4, C4), 1988 (B3, C3), 1992 (C2) Columbia Records  Stickers, gatefold, celebrating their 40th anniversary. Three new songs: "Alone", "Spanish Sea" and "Struck By Lightning". |
+| Notes | Made in the EU.<br>This compilation ℗&© 2018 Sony Music Entertainment<br><br> ℗ 2017 (A1), 2018 (A2, B2) Sony Music Entertainment;  ℗ 1978 (A3, D1, D2), 1979 (B1), 1982 (B4, C1, D3, D4), 1984 (A5), 1986 (A4, C4), 1988 (B3, C3), 1992 (C2) Columbia Records<br><br>Stickers, gatefold, celebrating their 40th anniversary. Three new songs: "Alone", "Spanish Sea" and "Struck By Lightning". |
 | Discogs URL    | [Toto - 40 Trips Around The Sun](https://www.discogs.com/release/11540403-Toto-40-Trips-Around-The-Sun) |

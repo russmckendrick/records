@@ -4,6 +4,7 @@ artist_name: "Simple Minds"
 artist: "simple-minds"
 album_name: "Rejuvenation 2001-2014"
 date: 2020-05-26T19:08:56.000000Z
+release_date: ""
 release_id: "12910238"
 slug: "rejuvenation-2001-2014-12910238"
 hideSummary: true
@@ -20,71 +21,78 @@ styles: ["Indie Pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Neon Lights
-2. Gloria
-3. The Man Who Sold The World
-4. Homosapien
-5. Dancing Barefoot
-6. Neon Lights
-7. Hello I Love You
-8. Bring On The Dancing Horses
-9. The Needle And The Damage Done
-10. For Your Pleasure
-11. All Tomorrow’s Parties
-12. Being Boiled
-13. Love Will Tear Us Apart
-14. Cry
-15. Cry
-16. Spaceface
-17. New Sunshine Morning
-18. One Step Closer
-19. Face In The Sun
-20. Disconnected
-21. Lazy Lately
-22. Sugar
-23. Sleeping Girl
-24. Cry Again
-25. Slave Nation
-26. The Floating World
-27. Black & White 050505
-28. Stay Visible
-29. Home
-30. Stranger
-31. Different World (Taormina.Me)
-32. Underneath The Ice
-33. The Jeweller Part 2
-34. A Life Shot In Black And White
-35. Kiss The Ground
-36. Dolphins
-37. Too Much Television
-38. Graffiti Soul
-39. Moscow Underground
-40. Rockets
-41. Stars Will Lead The Way
-42. Light Travels
-43. Kiss And Fly
-44. Graffiti Soul
-45. Blood Type O
-46. This Is It
-47. Shadows And Light
-48. Rockin’ In The Free World
-49. Big Music
-50. Blindfolded
-51. Midnight Walking
-52. Honest Town
-53. Big Music
-54. Human
-55. Blood Diamonds
-56. Let The Day Begin
-57. Concrete And Cherry Blossom
-58. Imagination
-59. Kill Or Cure
-60. Broken Glass Park
-61. Spirited Away
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Neon Lights |  |
+| 1-A1 | Gloria |  |
+| 1-A2 | The Man Who Sold The World |  |
+| 1-A3 | Homosapien |  |
+| 1-A4 | Dancing Barefoot |  |
+| 1-A5 | Neon Lights |  |
+| 1-A6 | Hello I Love You |  |
+| 1-B1 | Bring On The Dancing Horses |  |
+| 1-B2 | The Needle And The Damage Done |  |
+| 1-B3 | For Your Pleasure |  |
+| 1-B4 | All Tomorrow’s Parties |  |
+| 1-B5 | Being Boiled |  |
+| 1-B6 | Love Will Tear Us Apart |  |
+|  | Cry |  |
+| 2-A1 | Cry |  |
+| 2-A2 | Spaceface |  |
+| 2-A3 | New Sunshine Morning |  |
+| 2-A4 | One Step Closer |  |
+| 2-A5 | Face In The Sun |  |
+| 2-A6 | Disconnected |  |
+| 2-B1 | Lazy Lately |  |
+| 2-B2 | Sugar |  |
+| 2-B3 | Sleeping Girl |  |
+| 2-B4 | Cry Again |  |
+| 2-B5 | Slave Nation |  |
+| 2-B6 | The Floating World |  |
+|  | Black & White 050505 |  |
+| 3-A1 | Stay Visible |  |
+| 3-A2 | Home |  |
+| 3-A3 | Stranger |  |
+| 3-A4 | Different World (Taormina.Me) |  |
+| 3-A5 | Underneath The Ice |  |
+| 3-B1 | The Jeweller Part 2 |  |
+| 3-B2 | A Life Shot In Black And White |  |
+| 3-B3 | Kiss The Ground |  |
+| 3-B4 | Dolphins |  |
+| 3-B5 | Too Much Television |  |
+|  | Graffiti Soul |  |
+| 4-A1 | Moscow Underground |  |
+| 4-A2 | Rockets |  |
+| 4-A3 | Stars Will Lead The Way |  |
+| 4-A4 | Light Travels |  |
+| 4-A5 | Kiss And Fly |  |
+| 4-B1 | Graffiti Soul |  |
+| 4-B2 | Blood Type O |  |
+| 4-B3 | This Is It |  |
+| 4-B4 | Shadows And Light |  |
+| 4-B5 | Rockin’ In The Free World |  |
+|  | Big Music |  |
+| 5-A1 | Blindfolded |  |
+| 5-A2 | Midnight Walking |  |
+| 5-A3 | Honest Town |  |
+| 5-B1 | Big Music |  |
+| 5-B2 | Human |  |
+| 5-B3 | Blood Diamonds |  |
+| 6-C1 | Let The Day Begin |  |
+| 6-C2 | Concrete And Cherry Blossom |  |
+| 6-C3 | Imagination |  |
+| 6-D1 | Kill Or Cure |  |
+| 6-D2 | Broken Glass Park |  |
+| 6-D3 | Spirited Away |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -97,5 +105,5 @@ styles: ["Indie Pop"]
 | Format         | Box Set Compilation Deluxe Edition, Vinyl LP Album Reissue (Clear), Vinyl LP Album Reissue (Gold), Vinyl LP Album Reissue (White), Vinyl LP Album Reissue (Red), Vinyl 2× LP Album Reissue (Disc 1 Blue, Disc 2 Grey) |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX30 |
-| Notes | 6 LP Coloured Vinyl Box Set.  Includes “Neon Lights”, “Cry”, Black and White 050505”, “Graffiti Soul”  and “Big Music” [2 LP]  “Neon Lights”, “Cry”, Black and White 050505” make their first appearances on vinyl in this box set, with specially-created outer and inner sleeves, and include some exclusive bonus tracks from the CD releases.   All the albums are pressed on different coloured 180 gram vinyl, and the rigid slipcase features a brand new note by Jim. |
+| Notes | 6 LP Coloured Vinyl Box Set.<br><br>Includes “Neon Lights”, “Cry”, Black and White 050505”, “Graffiti Soul”  and “Big Music” [2 LP]<br><br>“Neon Lights”, “Cry”, Black and White 050505” make their first appearances on vinyl in this box set, with specially-created outer and inner sleeves, and include some exclusive bonus tracks from the CD releases.<br><br> All the albums are pressed on different coloured 180 gram vinyl, and the rigid slipcase features a brand new note by Jim. |
 | Discogs URL    | [Simple Minds - Rejuvenation 2001-2014](https://www.discogs.com/release/12910238-Simple-Minds-Rejuvenation-2001-2014) |

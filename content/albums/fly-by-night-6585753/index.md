@@ -34,25 +34,22 @@ Fly by Night is the second studio album by the Canadian rock band Rush, released
 
 
 ## Tracklisting
-1. Anthem (4:10)
-2. Best I Can (3:24)
-3. Beneath, Between, & Behind (3:00)
-4. By-Tor & The Snow Dog (8:57)
-5. Fly By Night (3:20)
-6. Making Memories (2:56)
-7. Rivendell (5:00)
-8. In The End (6:51)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Anthem | 4:10 |
+| A2 | Best I Can | 3:24 |
+| A3 | Beneath, Between, & Behind | 3:00 |
+|  | By-Tor & The Snow Dog | 8:57 |
+| B1 | Fly By Night | 3:20 |
+| B2 | Making Memories | 2:56 |
+| B3 | Rivendell | 5:00 |
+| B4 | In The End | 6:51 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fly-by-night-remastered/1440724415" >}}<br>
 
 
-## Videos
-### Rush - Fly By Night
-{{< youtube id="nEVDZl5UvN4" title="Rush - Fly By Night" >}}<br>
-### More Videos
-
-- [Rush - Fly By Night](https://www.youtube.com/watch?v=nEVDZl5UvN4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +61,5 @@ Fly by Night is the second studio album by the Canadian rock band Rush, released
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 00602547107817 |
-| Notes | Tracks conceived/written in: A1 - Toronto - Beamsville A2 - Toronto A3 - Seattle - Toronto A4 - Los Angeles - Cleveland - Toronto B1 - Lansing, Mich. - Toronto B2 - St. Louis - Los Angeles B3 - Beamsville, Columbus, OH. B4 - Toronto  Recorded and mixed at: Toronto Sound Studios, Toronto, Canada. DMM Mastering at Abbey Road Mastering Studios - October 2014 Remastered at: Abbey Road Mastering Studios, London, UK.  Executive Production by Moon Records, owned and operated by S.R.O. Productions Ltd. / Management: Ray Danniels S.R.O. Productions Ltd., Toronto, Canada /  All selections published by ole Core Music Publishing (SOCAN/SESAC) administered by ole. All lyrics © 1975 ole Core Music Publishing (SOCAN/SESAC) administered by ole. © 2015 Mercury Records, a division of UMG Recordings, Inc.  Belated Mention: Mr. O. Scar Continuing Thanks to: Cliff Burnstein, Donna Halper, Don Shafer, and to all who have helped.  Issued with a lyrics sheet insert and a mp3 download coupon.  Track A4.III "The Batle" is incorrectly printed on cover as "Of The Battle" but spelt correctly on lyric insert and their website at https://www.rush.com  ℗ © 2015 Mercury Records Made in the EU  All Matrix/Runouts are stamped except " i...i " which is etched on side B.  FOR BEST RESULTS    PLAY THIS ALBUM |
+| Notes | Tracks conceived/written in:<br>A1 - Toronto - Beamsville<br>A2 - Toronto<br>A3 - Seattle - Toronto<br>A4 - Los Angeles - Cleveland - Toronto<br>B1 - Lansing, Mich. - Toronto<br>B2 - St. Louis - Los Angeles<br>B3 - Beamsville, Columbus, OH.<br>B4 - Toronto<br><br>Recorded and mixed at: Toronto Sound Studios, Toronto, Canada.<br>DMM Mastering at Abbey Road Mastering Studios - October 2014<br>Remastered at: Abbey Road Mastering Studios, London, UK.<br><br>Executive Production by Moon Records, owned and operated by S.R.O. Productions Ltd. /<br>Management: Ray Danniels S.R.O. Productions Ltd., Toronto, Canada / <br>All selections published by ole Core Music Publishing (SOCAN/SESAC) administered by ole.<br>All lyrics © 1975 ole Core Music Publishing (SOCAN/SESAC) administered by ole.<br>© 2015 Mercury Records, a division of UMG Recordings, Inc.<br><br>Belated Mention: Mr. O. Scar<br>Continuing Thanks to: Cliff Burnstein, Donna Halper, Don Shafer, and to all who have helped.<br><br>Issued with a lyrics sheet insert and a mp3 download coupon.<br><br>Track A4.III "The Batle" is incorrectly printed on cover as "Of The Battle" but spelt correctly on lyric insert and their website at https://www.rush.com<br><br>℗ © 2015 Mercury Records<br>Made in the EU<br><br>All Matrix/Runouts are stamped except " i...i " which is etched on side B.<br><br>FOR BEST RESULTS    PLAY THIS ALBUM |
 | Discogs URL    | [Rush - Fly By Night](https://www.discogs.com/release/6585753-Rush-Fly-By-Night) |

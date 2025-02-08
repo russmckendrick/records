@@ -38,35 +38,26 @@ Breezy balladry is still Finn’s strong suit, as heard on lovestruck devotional
 
 
 ## Tracklisting
-1. Bad Times Good
-2. Playing With Fire
-3. To The Island
-4. Sweet Tooth
-5. Whatever You Want
-6. Show Me The Way
-7. Goodnight Everyone
-8. Too Good For This World
-9. Start Of Something
-10. Real Life Woman
-11. Love Isn't Hard At All
-12. Deeper Down
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Bad Times Good |  |
+| A2 | Playing With Fire |  |
+| A3 | To The Island |  |
+| A4 | Sweet Tooth |  |
+| A5 | Whatever You Want |  |
+| A6 | Show Me The Way |  |
+| B1 | Goodnight Everyone |  |
+| B2 | Too Good For This World |  |
+| B3 | Start Of Something |  |
+| B4 | Real Life Woman |  |
+| B5 | Love Isn't Hard At All |  |
+| B6 | Deeper Down |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dreamers-are-waiting/1536857014" >}}<br>
 
 
-## Videos
-### Crowded House - To The Island Official Video
-{{< youtube id="-HGjvQxGxNQ" title="Crowded House - To The Island Official Video" >}}<br>
-### More Videos
-
-- [Crowded House - Whatever You Want Official Video](https://www.youtube.com/watch?v=ZggTaHMoQYs)
-- [Crowded House - Playing with Fire Official Video](https://www.youtube.com/watch?v=HRzk3sWMxAg)
-- [Crowded House - Show Me the Way Lyric Video](https://www.youtube.com/watch?v=BVauKkGwdSk)
-- [Crowded House - To The Island](https://www.youtube.com/watch?v=-HGjvQxGxNQ)
-- [Crowded House - Whatever You Want](https://www.youtube.com/watch?v=ZggTaHMoQYs)
-- [Crowded House - Playing With Fire](https://www.youtube.com/watch?v=HRzk3sWMxAg)
-- [Crowded House - Love Isnt Hard At All](https://www.youtube.com/watch?v=1EGATVq-tK4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +69,5 @@ Breezy balladry is still Finn’s strong suit, as heard on lovestruck devotional
 | Format         | Vinyl LP Album Limited Edition (Cyan Blue / Black Split) |
 | Label          | EMI |
 | Catalog Number | 3543054 |
-| Notes | Gatefold sleeve. Photo innersleeve. 8 pages lyrics insert.  An EMI Recorded Music Australia production. ℗ & © 2021 Lester Records Ltd. Marketed and distributed under exclusive license by Universal Music Australia Pty Ltd. A Universal Music Company. Universal Music B.V. 's Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in the E.U.  Round Hype sticker: 180 gram Heavyweight Multi-Coloured Vinyl 3543054  Rectangular Hype sticker: Crowded House Dreamers Are Waiting 3543054  |
+| Notes | Gatefold sleeve.<br>Photo innersleeve.<br>8 pages lyrics insert.<br><br>An EMI Recorded Music Australia production.<br>℗ & © 2021 Lester Records Ltd. Marketed and distributed under exclusive license by Universal Music Australia Pty Ltd. A Universal Music Company.<br>Universal Music B.V. 's Gravelandseweg 80, 1217 EW Hilversum, Netherlands.<br>Made in the E.U.<br><br>Round Hype sticker:<br>180 gram<br>Heavyweight<br>Multi-Coloured Vinyl<br>3543054<br><br>Rectangular Hype sticker:<br>Crowded House<br>Dreamers Are Waiting<br>3543054<br> |
 | Discogs URL    | [Crowded House - Dreamers Are Waiting](https://www.discogs.com/release/19009780-Crowded-House-Dreamers-Are-Waiting) |

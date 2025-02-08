@@ -4,6 +4,7 @@ artist_name: "Beastie Boys"
 artist: "beastie-boys"
 album_name: "Paul's Boutique"
 date: 2020-02-14T18:07:05.000000Z
+release_date: "2020-09-18"
 release_id: "12872158"
 slug: "paul-s-boutique-12872158"
 hideSummary: true
@@ -25,37 +26,35 @@ styles: ["Cut-up/DJ", "Hip Hop"]
 
 Paul's Boutique is the second studio album by the American hip hop group Beastie Boys, released on July 25, 1989, by Capitol Records. Produced by the Beastie Boys and the Dust Brothers, the album's composition makes extensive use of samples, drawn from a wide range of genres including funk, soul, rock, and jazz. It was recorded over two years at Matt Dike's apartment and the Record Plant in Los Angeles.
 Paul's Boutique did not match the sales of the group's 1986 debut Licensed to Ill, and was promoted minimally by Capitol. However, despite its initial commercial failure, it became recognized as the group's breakthrough achievement, with its innovative lyrical and sonic style earning them a position as critical favorites within the hip hop community. Sometimes described as the "Sgt. Pepper of hip-hop", Paul's Boutique has placed on several lists of the greatest albums of all time, and is viewed by many critics as a landmark album of golden age hip hop and a seminal work in sample-based production.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. To All The Girls (1:29)
-2. Shake Your Rump (3:19)
-3. Johnny Ryall (3:00)
-4. Egg Man (2:57)
-5. High Plains Drifter (4:13)
-6. The Sounds Of Science (3:11)
-7. 3-Minute Rule (3:39)
-8. Hey Ladies (3:47)
-9. 5-Piece Chicken Dinner (0:23)
-10. Looking Down The Barrel Of A Gun (3:28)
-11. Car Thief (3:39)
-12. What Comes Around (3:07)
-13. Shadrach (4:07)
-14. Ask For Janice (0:11)
-15. B-Boy Bouillabaisse (12:34)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | To All The Girls | 1:29 |
+| A2 | Shake Your Rump | 3:19 |
+| A3 | Johnny Ryall | 3:00 |
+| A4 | Egg Man | 2:57 |
+| A5 | High Plains Drifter | 4:13 |
+| A6 | The Sounds Of Science | 3:11 |
+| A7 | 3-Minute Rule | 3:39 |
+| A8 | Hey Ladies | 3:47 |
+| B1 | 5-Piece Chicken Dinner | 0:23 |
+| B2 | Looking Down The Barrel Of A Gun | 3:28 |
+| B3 | Car Thief | 3:39 |
+| B4 | What Comes Around | 3:07 |
+| B5 | Shadrach | 4:07 |
+| B6 | Ask For Janice | 0:11 |
+|  | B-Boy Bouillabaisse | 12:34 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pauls-boutique-single/1527639985" >}}<br>
 
 
-## Videos
-### Beastie Boys - Pauls Boutique Full Album
-{{< youtube id="iySa7HTWgSI" title="Beastie Boys - Pauls Boutique Full Album" >}}<br>
-### More Videos
-
-- [Beastie Boys - Pauls Boutique FULL ALBUM](https://www.youtube.com/watch?v=E6MwsNxnMUM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +66,5 @@ Paul's Boutique did not match the sales of the group's 1986 debut Licensed to Il
 | Format         | Vinyl LP Album Reissue Remastered (180g, Gatefold) |
 | Label          | Capitol Records |
 | Catalog Number | 00602577057847 |
-| Notes | Remastered by Beastie Boys and Chris Athens at Sterling Sound, NYC |
+| Notes | Remastered by Beastie Boys<br>and Chris Athens<br>at Sterling Sound, NYC |
 | Discogs URL    | [Beastie Boys - Paul's Boutique](https://www.discogs.com/release/12872158-Beastie-Boys-Pauls-Boutique) |

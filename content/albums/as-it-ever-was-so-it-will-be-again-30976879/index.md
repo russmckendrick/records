@@ -33,38 +33,27 @@ At first glance, Colin Meloy and co. are doing a lot across the ample framework 
 
 
 ## Tracklisting
-1. Burial Ground (4:04)
-2. Oh No! (5:04)
-3. The Reapers (4:41)
-4. Long White Veil (3:49)
-5. William Fitzwilliam (3:35)
-6. Don't Go To The Woods (3:57)
-7. The Black Maria (3:50)
-8. All I Want Is You (2:38)
-9. Born To The Morning (3:24)
-10. America Made Me (5:20)
-11. Tell Me What's On Your Mind (3:57)
-12. Never Satisfied (4:01)
-13. Joan In The Garden (19:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Burial Ground | 4:04 |
+| A2 | Oh No! | 5:04 |
+| A3 | The Reapers | 4:41 |
+| A4 | Long White Veil | 3:49 |
+| B1 | William Fitzwilliam | 3:35 |
+| B2 | Don't Go To The Woods | 3:57 |
+| B3 | The Black Maria | 3:50 |
+| B4 | All I Want Is You | 2:38 |
+| C1 | Born To The Morning | 3:24 |
+| C2 | America Made Me | 5:20 |
+| C3 | Tell Me What's On Your Mind | 3:57 |
+| C4 | Never Satisfied | 4:01 |
+| D1 | Joan In The Garden | 19:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/as-it-ever-was-so-it-will-be-again/1733117575" >}}<br>
 
 
-## Videos
-### The Decemberists - As It Ever Was So It Will Be Again Full Album 2024
-{{< youtube id="_ppJ7bpPKFM" title="The Decemberists - As It Ever Was So It Will Be Again Full Album 2024" >}}<br>
-### More Videos
-
-- [The Decemberists - Joan in the Garden Official Audio](https://www.youtube.com/watch?v=6nhLuHWcTdo)
-- [The Decemberists - Burial Ground Official Audio](https://www.youtube.com/watch?v=dBlJ35D7tss)
-- [The Decemberists - All I Want Is You Official Audio](https://www.youtube.com/watch?v=YwdVlUUa7xU)
-- [The Decemberists - Oh No Official Audio](https://www.youtube.com/watch?v=qXIZp_MlyJA)
-- [The Decemberists - As It Ever Was So It Will Be Again Full Album 2024](https://www.youtube.com/watch?v=_ppJ7bpPKFM)
-- [The Decemberists - Joan in the Garden Official Audio](https://www.youtube.com/watch?v=6nhLuHWcTdo)
-- [The Decemberists - Burial Ground Official Audio](https://www.youtube.com/watch?v=dBlJ35D7tss)
-- [The Decemberists - All I Want Is You Official Audio](https://www.youtube.com/watch?v=YwdVlUUa7xU)
-- [The Decemberists - Oh No Official Audio](https://www.youtube.com/watch?v=qXIZp_MlyJA)
 
 ## Release Images
 {{< imageGrid >}}

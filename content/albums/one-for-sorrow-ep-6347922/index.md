@@ -4,6 +4,7 @@ artist_name: "The Anchoress"
 artist: "the-anchoress"
 album_name: "One For Sorrow EP"
 date: 2016-10-19T17:04:32.000000Z
+release_date: "2014-11-03"
 release_id: "6347922"
 slug: "one-for-sorrow-ep-6347922"
 hideSummary: true
@@ -23,23 +24,23 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. One For Sorrow (3:26)
-2. Once Upon A Lie (3:32)
-3. Long Year (3:55)
-4. One For Sorrow (Philip Reach Requiem Mix) (4:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | One For Sorrow | 3:26 |
+| A2 | Once Upon A Lie | 3:32 |
+| B1 | Long Year | 3:55 |
+| B2 | One For Sorrow (Philip Reach Requiem Mix) | 4:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/one-for-sorrow-ep/909495393" >}}<br>
 
 
-## Videos
-### One For Sorrow - The Anchoress
-{{< youtube id="AP0MpWelbx8" title="One For Sorrow - The Anchoress" >}}<br>
-### More Videos
-
-- [One For Sorrow - The Anchoress](https://www.youtube.com/watch?v=AP0MpWelbx8)
 
 ## Release Images
 {{< imageGrid >}}

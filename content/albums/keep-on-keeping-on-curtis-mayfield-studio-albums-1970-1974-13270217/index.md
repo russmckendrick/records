@@ -4,6 +4,7 @@ artist_name: "Curtis Mayfield"
 artist: "curtis-mayfield"
 album_name: "Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974"
 date: 2020-05-27T15:16:10.000000Z
+release_date: "2019-02-22"
 release_id: "13270217"
 slug: "keep-on-keeping-on-curtis-mayfield-studio-albums-1970-1974-13270217"
 hideSummary: true
@@ -35,45 +36,50 @@ styles: ["Soul", "Funk"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Curtis
-2. (Don't Worry) If There's A Hell Below We're All Going To Go (7:46)
-3. The Other Side Of Town (4:00)
-4. The Makings Of You (3:40)
-5. We Are The People Who Are Darker Than Blue (6:00)
-6. Move On Up (8:50)
-7. Miss Black America  (2:55)
-8. Wild And Free (3:12)
-9. Give It Up (3:45)
-10. Roots
-11. Get Down (5:45)
-12. Keep On Keeping On (5:08)
-13. Underground  (5:15)
-14. We Got To Have Peace (4:44)
-15. Beautiful Brother Of Mine (7:23)
-16. Now You’re Gone  (6:50)
-17. Love To Keep You In My Mind (3:48)
-18. Back To The World 
-19. Back To The World (6:48)
-20. Future Shock (5:24)
-21. Right On For The Darkness  (7:30)
-22. If I Were Only A Child Again (2:53)
-23. Can't Say Nothin' (5:20)
-24. Keep On Trippin' (3:16)
-25. Future Song (Love A Good Woman, Love A Good Man) (5:00)
-26. Sweet Exorcist 
-27. Ain't Got Time (5:10)
-28. Sweet Exorcist  (3:50)
-29. To Be Invisible  (4:12)
-30. Power To The People  (3:26)
-31. Kung Fu (6:02)
-32. Suffer  (4:06)
-33. Make Me Believe In You (5:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Curtis |  |
+| A1 | (Don't Worry) If There's A Hell Below We're All Going To Go | 7:46 |
+| A2 | The Other Side Of Town | 4:00 |
+| A3 | The Makings Of You | 3:40 |
+| A4 | We Are The People Who Are Darker Than Blue | 6:00 |
+| B1 | Move On Up | 8:50 |
+| B2 | Miss Black America  | 2:55 |
+| B3 | Wild And Free | 3:12 |
+| B4 | Give It Up | 3:45 |
+|  | Roots |  |
+| C1 | Get Down | 5:45 |
+| C2 | Keep On Keeping On | 5:08 |
+| C3 | Underground  | 5:15 |
+| C4 | We Got To Have Peace | 4:44 |
+| D1 | Beautiful Brother Of Mine | 7:23 |
+| D2 | Now You’re Gone  | 6:50 |
+| D3 | Love To Keep You In My Mind | 3:48 |
+|  | Back To The World  |  |
+| E1 | Back To The World | 6:48 |
+| E2 | Future Shock | 5:24 |
+| E3 | Right On For The Darkness  | 7:30 |
+| F1 | If I Were Only A Child Again | 2:53 |
+| F2 | Can't Say Nothin' | 5:20 |
+| F3 | Keep On Trippin' | 3:16 |
+| F4 | Future Song (Love A Good Woman, Love A Good Man) | 5:00 |
+|  | Sweet Exorcist  |  |
+| G1 | Ain't Got Time | 5:10 |
+| G2 | Sweet Exorcist  | 3:50 |
+| G3 | To Be Invisible  | 4:12 |
+| G4 | Power To The People  | 3:26 |
+| H1 | Kung Fu | 6:02 |
+| H2 | Suffer  | 4:06 |
+| H3 | Make Me Believe In You | 5:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/keep-on-keeping-on-curtis-mayfield-studio-albums-1970/1449314858" >}}<br>
-
 
 
 
@@ -86,5 +92,5 @@ styles: ["Soul", "Funk"]
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 gr), Vinyl LP Album Reissue Remastered Stereo (180 gr), Vinyl LP Album Reissue Remastered Stereo (180 gr), Vinyl LP Album Reissue Remastered Stereo (180 gr), Box Set, All Media Compilation |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 573931 |
-| Notes | Record 1: Vocal overdubbing at Record Plant, New York Published by CAMAD MUSIC ℗ & © 2019, 1970 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve  Record 2: Recorded at RCA Studios, Chicago, Illinois ℗ & © 2019, 1971 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve with lyrics and poster calendar  Record 3: Recorded at Curtom Studios, Chicago ℗ & © 2019, 1973 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve with lyrics  Record 4: Recorded at Curtom Studios, Chicago, Illinois ℗ & © 2019, 1974 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Gatefold sleeve with lyrics  Box: This Collection ℗ & ©  2019 Curtom Records for the U.S. and WEA International Inc. for the world outside the U.S. Made in EU.  Round sticker on shrink with The first four funk-soul slabs from the ground-floor layer of the conscious groove. Newly remastered On 180 gram vinyl R1 573931 / 603497855797 |
+| Notes | Record 1:<br>Vocal overdubbing at Record Plant, New York<br>Published by CAMAD MUSIC<br>℗ & © 2019, 1970 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.<br>Gatefold sleeve<br><br>Record 2:<br>Recorded at RCA Studios, Chicago, Illinois<br>℗ & © 2019, 1971 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.<br>Gatefold sleeve with lyrics and poster calendar<br><br>Record 3:<br>Recorded at Curtom Studios, Chicago<br>℗ & © 2019, 1973 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.<br>Gatefold sleeve with lyrics<br><br>Record 4:<br>Recorded at Curtom Studios, Chicago, Illinois<br>℗ & © 2019, 1974 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.<br>Gatefold sleeve with lyrics<br><br>Box:<br>This Collection ℗ & ©  2019 Curtom Records for the U.S. and WEA International Inc. for the world outside the U.S.<br>Made in EU.<br><br>Round sticker on shrink with<br>The first four<br>funk-soul slabs from<br>the ground-floor layer<br>of the conscious groove.<br>Newly remastered<br>On 180 gram<br>vinyl<br>R1 573931 / 603497855797 |
 | Discogs URL    | [Curtis Mayfield - Keep On Keeping On: Curtis Mayfield Studio Albums 1970-1974](https://www.discogs.com/release/13270217-Curtis-Keep-On-Keeping-On-Curtis-Mayfield-Studio-Albums-1970-1974) |

@@ -39,36 +39,30 @@ The album was preceded by the charting (No. 78) 1989 single "A Huge Ever Growing
 
 
 ## Tracklisting
-1. Orbits Record One
-2. Earth Orbits
-3. Little Fluffy Clouds (4:27)
-4. Earth (Gaia) (9:48)
-5. Supernova At The End Of The Universe (11:56)
-6. Lunar Orbits
-7. Back Side Of The Moon (14:14)
-8. Spanish Castles In Space (15:06)
-9. Ultraworld Records
-10. Ultraworld Probes
-11. Perpetual Dawn (9:32)
-12. Into The Fourth Dimension (9:15)
-13. Outlands (8:23)
-14. Ultraworlds
-15. Star 6 & 7 8 9 (8:10)
-16. A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld: Live Mix MK 10 (18:48)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Orbits Record One |  |
+|  | Earth Orbits |  |
+| A1 | Little Fluffy Clouds | 4:27 |
+| A2 | Earth (Gaia) | 9:48 |
+| A3 | Supernova At The End Of The Universe | 11:56 |
+|  | Lunar Orbits |  |
+| B1 | Back Side Of The Moon | 14:14 |
+| B2 | Spanish Castles In Space | 15:06 |
+|  | Ultraworld Records |  |
+|  | Ultraworld Probes |  |
+| C1 | Perpetual Dawn | 9:32 |
+| C2 | Into The Fourth Dimension | 9:15 |
+| C3 | Outlands | 8:23 |
+|  | Ultraworlds |  |
+| D1 | Star 6 & 7 8 9 | 8:10 |
+| D2 | A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld: Live Mix MK 10 | 18:48 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-orbs-adventures-beyond-the-ultraworld/1452851519" >}}<br>
 
 
-## Videos
-### the orbs adventures beyond the ultraworld -full double album- CD1CD2
-{{< youtube id="AaXT3raG5gY" title="the orbs adventures beyond the ultraworld -full double album- CD1CD2" >}}<br>
-### More Videos
-
-- [Earth Gaia](https://www.youtube.com/watch?v=Ejnyt8wNMpc)
-- [Little Fluffy Clouds](https://www.youtube.com/watch?v=KNfjpmvbQG0)
-- [The Orb - Supernova At The End Of The Universe Chilled beats](https://www.youtube.com/watch?v=RVtacEhq2uk)
-- [The orb - Back side of the moon](https://www.youtube.com/watch?v=vTDdoIctIkI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +74,5 @@ The album was preceded by the charting (No. 78) 1989 single "A Huge Ever Growing
 | Format         | Vinyl 2× LP Album Reissue Remastered (180g) |
 | Label          | Island Records |
 | Catalog Number | 0602557753264 |
-| Notes | ℗ 1991 Islands Records, a division of Universal Music Operations Limited © 1991 Islands Records, a division of Universal Music Operations Limited Made in the E.U. Includes a download voucher.  Cat# on sticker: 577 5326 Cat# on spine: 060255753264  A1: Recorded at Do Not Erase, London. Programmed at the Coach house, London.  A2: Recorded at Do Not Erase, London. Respect to Jasper.  The inner sleeve shows incorrect credits, these are corrected in the discogs credits. A3: Recorded at Marcus Studios, London.  B1: Recorded at Marcus Studios, London. Programmed 25 miles above the earth. B2: Recorded at Berwick Street Studio, London. Programmed in Barcelona, Spain.  C1, C2: Recorded at Berwick Street Studio, London. Programmed in Soho, London.  C3: Recorded at Berwick Street Studio, London. Programmed in Lab Studio, Berlin.  D1: Recorded at Berwick Street Studio, London. Programmed in Brixton, Southside.  D2: Recorded live at Trancentral, London. Programmed in inner space. |
+| Notes | ℗ 1991 Islands Records, a division of Universal Music Operations Limited<br>© 1991 Islands Records, a division of Universal Music Operations Limited<br>Made in the E.U. Includes a download voucher.<br><br>Cat# on sticker: 577 5326<br>Cat# on spine: 060255753264<br><br>A1: Recorded at Do Not Erase, London. Programmed at the Coach house, London. <br>A2: Recorded at Do Not Erase, London. Respect to Jasper.  The inner sleeve shows incorrect credits, these are corrected in the discogs credits.<br>A3: Recorded at Marcus Studios, London. <br>B1: Recorded at Marcus Studios, London. Programmed 25 miles above the earth.<br>B2: Recorded at Berwick Street Studio, London. Programmed in Barcelona, Spain. <br>C1, C2: Recorded at Berwick Street Studio, London. Programmed in Soho, London. <br>C3: Recorded at Berwick Street Studio, London. Programmed in Lab Studio, Berlin. <br>D1: Recorded at Berwick Street Studio, London. Programmed in Brixton, Southside. <br>D2: Recorded live at Trancentral, London. Programmed in inner space. |
 | Discogs URL    | [The Orb - The Orb's Adventures Beyond The Ultraworld](https://www.discogs.com/release/11049937-The-Orb-The-Orbs-Adventures-Beyond-The-Ultraworld) |

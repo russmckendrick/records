@@ -4,6 +4,7 @@ artist_name: "The Grid"
 artist: "the-grid"
 album_name: "Leviathan"
 date: 2021-12-15T10:53:58.000000Z
+release_date: "2021-06-25"
 release_id: "19464730"
 slug: "leviathan-19464730"
 hideSummary: true
@@ -26,21 +27,26 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Empire
-2. Milkwood
-3. Pulse Detected
-4. Loom
-5. Leviathan
-6. After The Rain
-7. Fire Tower
-8. Zhora
-9. Sympatico
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Empire |  |
+| A2 | Milkwood |  |
+| A3 | Pulse Detected |  |
+| B1 | Loom |  |
+| B2 | Leviathan |  |
+| C1 | After The Rain |  |
+| C2 | Fire Tower |  |
+| D1 | Zhora |  |
+| D2 | Sympatico |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/leviathan/1566407448" >}}<br>
-
 
 
 
@@ -53,5 +59,5 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 | Format         | Vinyl 2× LP Album (200g) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | DGMLPX102 |
-| Notes | Gatefold sleeve     |
+| Notes | Gatefold sleeve<br><br><br><br> |
 | Discogs URL    | [The Grid - Leviathan](https://www.discogs.com/release/19464730-The-Grid-Fripp-Leviathan) |

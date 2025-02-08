@@ -28,32 +28,31 @@ On their sixth album, 2001’s <i>AOI: Bionix</i>—the second volume in a never
 
 
 ## Tracklisting
-1. Intro (0:29)
-2. Bionix (2:43)
-3. Baby Phat (3:50)
-4. Simply (4:05)
-5. Simply Havin (0:48)
-6. Held Down (4:54)
-7. Rev. Do Good #1 (1:05)
-8. Watch Out (3:35)
-9. Special (3:37)
-10. Rev. Do Good #2 (1:14)
-11. The Sauce (2:25)
-12. Am I Worth You? (4:01)
-13. Pawn Star (4:07)
-14. What We Do (For Love) (5:05)
-15. Rev. Do Good #3 (2:20)
-16. Peer Pressure (5:09)
-17. It's American (1:10)
-18. Trying People (4:31)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Intro | 0:29 |
+| A2 | Bionix | 2:43 |
+| A3 | Baby Phat | 3:50 |
+| A4 | Simply | 4:05 |
+| A5 | Simply Havin | 0:48 |
+| B1 | Held Down | 4:54 |
+| B2 | Rev. Do Good #1 | 1:05 |
+| B3 | Watch Out | 3:35 |
+| B4 | Special | 3:37 |
+| B5 | Rev. Do Good #2 | 1:14 |
+| C1 | The Sauce | 2:25 |
+| C2 | Am I Worth You? | 4:01 |
+| C3 | Pawn Star | 4:07 |
+| C4 | What We Do (For Love) | 5:05 |
+| D1 | Rev. Do Good #3 | 2:20 |
+| D2 | Peer Pressure | 5:09 |
+| D3 | It's American | 1:10 |
+| D4 | Trying People | 4:31 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/aoi-bionix/1664589445" >}}<br>
 
-
-## Videos
-### Peer Pressure
-{{< youtube id="BUW46Z3iZV0" title="Peer Pressure" >}}<br>
 
 
 ## Release Images
@@ -66,5 +65,5 @@ On their sixth album, 2001’s <i>AOI: Bionix</i>—the second volume in a never
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | AOI Records |
 | Catalog Number | RMM-056-1 |
-| Notes | The release date is August 11, 2023, in the U.S. and September 15, 2023, worldwide.  The "MADE IN CZECH REPUBLIC" sticker is on the back shrinkwrap. |
+| Notes | The release date is August 11, 2023, in the U.S. and September 15, 2023, worldwide.<br><br>The "MADE IN CZECH REPUBLIC" sticker is on the back shrinkwrap. |
 | Discogs URL    | [De La Soul - AOI: Bionix](https://www.discogs.com/release/27790746-De-La-Soul-AOI-Bionix) |

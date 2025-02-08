@@ -27,93 +27,60 @@ The superhero’s score blends '90s hip-hop with cinematic drama.
 
 
 ## Tracklisting
-1. Diamondback Arrives
-2. Final Battle - Part 1
-3. In The Wind
-4. Diamondback's Trap
-5. Blue Fusion
-6. Final Battle - Part 2
-7. I'm Luke Cage
-8. Street Cleaning
-9. The Ambush
-10. End Theme
-11. Coffee At Midnight
-12. Red-Handedly Blameless
-13. Always Forward Pops
-14. Unveil The Bride
-15. Shameek's Death
-16. The Plan
-17. Requiem For Phife
-18. We Had Coffee
-19. Pops Is Gone
-20. Theme
-21. Greed Becomes Me
-22. Bulletproof Love
-23. Microphone Check Five'O
-24. Luke's Freedom
-25. Uptown Claire
-26. Shades Beware
-27. Misty Resolute
-28. Fresh Air
-29. Kinda Strong
-30. Big Man Little Jacket
-31. Scarfe's Dying
-32. Claire's Wisdom
-33. Gun Threat
-34. Bad Love
-35. Finding Chico
-36. I Am Carl Lucas
-37. Crispus Attucks
-38. Hideout
-39. Cuban Coffee
-40. Like A Brother
-41. Cottonmouth's Clamp
-42. Survival
-43. Cottonmouth Theme
-44. Luke Cops
-45. Crushin' On Reva
-46. Beloved Reva
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Diamondback Arrives |  |
+| A2 | Final Battle - Part 1 |  |
+| A3 | In The Wind |  |
+| A4 | Diamondback's Trap |  |
+| A5 | Blue Fusion |  |
+| A6 | Final Battle - Part 2 |  |
+| A7 | I'm Luke Cage |  |
+| A8 | Street Cleaning |  |
+| A9 | The Ambush |  |
+| B1 | End Theme |  |
+| B2 | Coffee At Midnight |  |
+| B3 | Red-Handedly Blameless |  |
+| B4 | Always Forward Pops |  |
+| B5 | Unveil The Bride |  |
+| B6 | Shameek's Death |  |
+| B7 | The Plan |  |
+| B8 | Requiem For Phife |  |
+| B9 | We Had Coffee |  |
+| B10 | Pops Is Gone |  |
+| C1 | Theme |  |
+| C2 | Greed Becomes Me |  |
+| C3 | Bulletproof Love |  |
+| C4 | Microphone Check Five'O |  |
+| C5 | Luke's Freedom |  |
+| C6 | Uptown Claire |  |
+| C7 | Shades Beware |  |
+| C8 | Misty Resolute |  |
+| C9 | Fresh Air |  |
+| C10 | Kinda Strong |  |
+| C11 | Big Man Little Jacket |  |
+| C12 | Scarfe's Dying |  |
+| C13 | Claire's Wisdom |  |
+| D1 | Gun Threat |  |
+| D2 | Bad Love |  |
+| D3 | Finding Chico |  |
+| D4 | I Am Carl Lucas |  |
+| D5 | Crispus Attucks |  |
+| D6 | Hideout |  |
+| D7 | Cuban Coffee |  |
+| D8 | Like A Brother |  |
+| D9 | Cottonmouth's Clamp |  |
+| D10 | Survival |  |
+| D11 | Cottonmouth Theme |  |
+| D12 | Luke Cops |  |
+| D13 | Crushin' On Reva |  |
+| D14 | Beloved Reva |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/luke-cage-original-soundtrack-album/1440838810" >}}<br>
 
 
-## Videos
-### Adrian Younge  Ali Shaheed Muhammad - Im Luke Cage
-{{< youtube id="yhwcVrVUa3U" title="Adrian Younge  Ali Shaheed Muhammad - Im Luke Cage" >}}<br>
-### More Videos
-
-- [Adrian Younge  Ali Shaheed Muhammad - End Theme](https://www.youtube.com/watch?v=DPJqvwJQxzI)
-- [Adrian Younge  Ali Shaheed Muhammad - Coffee At Midnight](https://www.youtube.com/watch?v=p8rl5kvlGdQ)
-- [Adrian Younge  Ali Shaheed Muhammad - Red-Handedly Blameless](https://www.youtube.com/watch?v=7Zc0av55sKI)
-- [Adrian Younge  Ali Shaheed Muhammad - Theme from Luke Cage](https://www.youtube.com/watch?v=_-w2BeDlfCo)
-- [Adrian Younge  Ali Shaheed Muhammad feat Method Man - Bulletproof Love](https://www.youtube.com/watch?v=wkpRgSAhfbg)
-- [Adrian Younge  Ali Shaheed Muhammad - Microphone Check Five O](https://www.youtube.com/watch?v=uy4Bt8g6J54)
-- [Adrian Younge  Ali Shaheed Muhammad - Lukes Freedom](https://www.youtube.com/watch?v=_K4S91WrFL0)
-- [Adrian Younge  Ali Shaheed Muhammad - Uptown Claire](https://www.youtube.com/watch?v=fthV5QA-ing)
-- [Adrian Younge  Ali Shaheed Muhammad - Misty Resolute](https://www.youtube.com/watch?v=FGZBmUoSvT4)
-- [Adrian Younge  Ali Shaheed Muhammad - Fresh Air](https://www.youtube.com/watch?v=rIoxLrFNGks)
-- [Adrian Younge  Ali Shaheed Muhammad - Big Man Little Jacket](https://www.youtube.com/watch?v=zHqdU1VPShY)
-- [Adrian Younge  Ali Shaheed Muhammad - Bad Love](https://www.youtube.com/watch?v=4b0L89Zon5U)
-- [Adrian Younge  Ali Shaheed Muhammad - Cuban Coffee](https://www.youtube.com/watch?v=CwSA2h8CnE4)
-- [Adrian Younge  Ali Shaheed Muhammad - Cottonmouth Theme](https://www.youtube.com/watch?v=7R8WxNN7h78)
-- [Adrian Younge  Ali Shaheed Muhammad - Luke Cops](https://www.youtube.com/watch?v=VMUS_42cLmE)
-- [Adrian Younge  Ali Shaheed Muhammad - Im Luke Cage](https://www.youtube.com/watch?v=yhwcVrVUa3U)
-- [Adrian Younge  Ali Shaheed Muhammad - End Theme](https://www.youtube.com/watch?v=DPJqvwJQxzI)
-- [Adrian Younge  Ali Shaheed Muhammad - Coffee At Midnight](https://www.youtube.com/watch?v=p8rl5kvlGdQ)
-- [Adrian Younge  Ali Shaheed Muhammad - Red-Handedly Blameless](https://www.youtube.com/watch?v=7Zc0av55sKI)
-- [Adrian Younge  Ali Shaheed Muhammad - Theme from Luke Cage](https://www.youtube.com/watch?v=_-w2BeDlfCo)
-- [Adrian Younge  Ali Shaheed Muhammad feat Method Man - Bulletproof Love](https://www.youtube.com/watch?v=wkpRgSAhfbg)
-- [Adrian Younge  Ali Shaheed Muhammad - Microphone Check Five O](https://www.youtube.com/watch?v=uy4Bt8g6J54)
-- [Adrian Younge  Ali Shaheed Muhammad - Lukes Freedom](https://www.youtube.com/watch?v=_K4S91WrFL0)
-- [Adrian Younge  Ali Shaheed Muhammad - Uptown Claire](https://www.youtube.com/watch?v=fthV5QA-ing)
-- [Adrian Younge  Ali Shaheed Muhammad - Misty Resolute](https://www.youtube.com/watch?v=FGZBmUoSvT4)
-- [Adrian Younge  Ali Shaheed Muhammad - Fresh Air](https://www.youtube.com/watch?v=rIoxLrFNGks)
-- [Adrian Younge  Ali Shaheed Muhammad - Big Man Little Jacket](https://www.youtube.com/watch?v=zHqdU1VPShY)
-- [Adrian Younge  Ali Shaheed Muhammad - Bad Love](https://www.youtube.com/watch?v=4b0L89Zon5U)
-- [Adrian Younge  Ali Shaheed Muhammad - Cuban Coffee](https://www.youtube.com/watch?v=CwSA2h8CnE4)
-- [Adrian Younge  Ali Shaheed Muhammad - Cottonmouth Theme](https://www.youtube.com/watch?v=7R8WxNN7h78)
-- [Adrian Younge  Ali Shaheed Muhammad - Luke Cops](https://www.youtube.com/watch?v=VMUS_42cLmE)
 
 ## Release Images
 {{< imageGrid >}}

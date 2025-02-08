@@ -43,50 +43,24 @@ Bush did pen three new songs for <i>Lionheart</i>, led by the kick-off track “
 
 
 ## Tracklisting
-1. Symphony In Blue (3:34)
-2. In Search Of Peter Pan (3:46)
-3. Wow (3:58)
-4. Don't Push Your Foot On The Heartbrake (3:11)
-5. Oh England My Lionheart (3:09)
-6. Fullhouse (3:13)
-7. In The Warm Room (3:33)
-8. Kashka From Baghdad (3:55)
-9. Coffee Homeground (3:38)
-10. Hammer Horror (4:37)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Symphony In Blue | 3:34 |
+| A2 | In Search Of Peter Pan | 3:46 |
+| A3 | Wow | 3:58 |
+| A4 | Don't Push Your Foot On The Heartbrake | 3:11 |
+| A5 | Oh England My Lionheart | 3:09 |
+| B1 | Fullhouse | 3:13 |
+| B2 | In The Warm Room | 3:33 |
+| B3 | Kashka From Baghdad | 3:55 |
+| B4 | Coffee Homeground | 3:38 |
+| B5 | Hammer Horror | 4:37 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lionheart/697237542" >}}<br>
 
 
-## Videos
-### Symphony in Blue
-{{< youtube id="YmPVq8rspws" title="Symphony in Blue" >}}<br>
-### More Videos
-
-- [In Search of Peter Pan](https://www.youtube.com/watch?v=xnwTNwjxQxI)
-- [Wow](https://www.youtube.com/watch?v=F9qQMIbFHHE)
-- [Dont Push Your Foot on the Heartbrake](https://www.youtube.com/watch?v=pu23otIE61s)
-- [Oh England My Lionheart](https://www.youtube.com/watch?v=3KKgC67wU50)
-- [Full House](https://www.youtube.com/watch?v=orRTYidzWcs)
-- [In the Warm Room](https://www.youtube.com/watch?v=zUZCoORXf7M)
-- [Kashka from Baghdad](https://www.youtube.com/watch?v=ZsUQIMGIVrM)
-- [Coffee Homeground](https://www.youtube.com/watch?v=VXORLnOmMBE)
-- [Hammer Horror](https://www.youtube.com/watch?v=fF2IONJLyk4)
-- [Kate Bush - Hammer Horror](https://www.youtube.com/watch?v=nyx4akq9_rA)
-- [Symphony in Blue](https://www.youtube.com/watch?v=YmPVq8rspws)
-- [In Search of Peter Pan](https://www.youtube.com/watch?v=xnwTNwjxQxI)
-- [Wow](https://www.youtube.com/watch?v=F9qQMIbFHHE)
-- [Dont Push Your Foot on the Heartbrake](https://www.youtube.com/watch?v=pu23otIE61s)
-- [Oh England My Lionheart](https://www.youtube.com/watch?v=3KKgC67wU50)
-- [Full House](https://www.youtube.com/watch?v=orRTYidzWcs)
-- [In the Warm Room](https://www.youtube.com/watch?v=zUZCoORXf7M)
-- [Kashka from Baghdad](https://www.youtube.com/watch?v=ZsUQIMGIVrM)
-- [Coffee Homeground](https://www.youtube.com/watch?v=VXORLnOmMBE)
-- [Hammer Horror](https://www.youtube.com/watch?v=fF2IONJLyk4)
-- [Kate Bush - Hammer Horror](https://www.youtube.com/watch?v=nyx4akq9_rA)
-- [Oh England My Lionheart 2018 Remaster](https://www.youtube.com/watch?v=2fET9PwX-bI)
-- [Symphony in Blue 2018 Remaster](https://www.youtube.com/watch?v=TmOEpA8jxUE)
-- [Kate Bush - Symphony In Blue 1979 Xmas Special](https://www.youtube.com/watch?v=sySgoCy0_AM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -98,5 +72,5 @@ Bush did pen three new songs for <i>Lionheart</i>, led by the kick-off track “
 | Format         | Vinyl LP Album Stereo (Embossed, Gatefold) |
 | Label          | EMI |
 | Catalog Number | EMA 787 |
-| Notes | Track A2 incorporates the song "When You Wish Upon A Star" (From Walt Disney's "Pinocchio"), written by Leigh Harline and Ned Washington.  "Kate Bush - Lionheart" text on front cover and rear cover are embossed. Gatefold sleeve with lyrics inside. Butter coloured inner bag with rounded corners, which has EMA 787(I) printed on top right of one side. 'HOPE YOU LIKE IT' etched in runouts, the rest stamped. Recorded at Superbear Studios. All lyrics reproduced by kind permission, published by Kate Bush / EMI Music Publ. Ltd. (C) 1978. David Paton and Ian Bairnson courtesy of Arista Records. (P) 1978 EMI Records Ltd. Available on tape.  Made in Gt. Britain.  Durations do not appear on this release.  [r=10148817] is a later repress with different record labels [r=5536970] has "Made in Ireland" on the labels, otherwise identical |
+| Notes | Track A2 incorporates the song "When You Wish Upon A Star" (From Walt Disney's "Pinocchio"), written by Leigh Harline and Ned Washington.<br><br>"Kate Bush - Lionheart" text on front cover and rear cover are embossed.<br>Gatefold sleeve with lyrics inside.<br>Butter coloured inner bag with rounded corners, which has EMA 787(I) printed on top right of one side.<br>'HOPE YOU LIKE IT' etched in runouts, the rest stamped.<br>Recorded at Superbear Studios.<br>All lyrics reproduced by kind permission, published by Kate Bush / EMI Music Publ. Ltd. (C) 1978.<br>David Paton and Ian Bairnson courtesy of Arista Records.<br>(P) 1978 EMI Records Ltd.<br>Available on tape.<br><br>Made in Gt. Britain.<br><br>Durations do not appear on this release.<br><br>[r=10148817] is a later repress with different record labels<br>[r=5536970] has "Made in Ireland" on the labels, otherwise identical |
 | Discogs URL    | [Kate Bush - Lionheart](https://www.discogs.com/release/426108-Kate-Bush-Lionheart) |

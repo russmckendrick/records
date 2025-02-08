@@ -30,33 +30,24 @@ In late 2020, Kevin Morby holed up in the then-quiet Peabody hotel in Memphis to
 
 
 ## Tracklisting
-1. This Is A Photograph
-2. A Random Act Of Kindness
-3. Bittersweet, TN
-4. Disappearing
-5. A Coat Of Butterflies
-6. Rock Bottom
-7. Five Easy Pieces
-8. Stop Before I Cry
-9. It's Over
-10. Goodbye To Good Times
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | This Is A Photograph |  |
+| A2 | A Random Act Of Kindness |  |
+| A3 | Bittersweet, TN |  |
+| A4 | Disappearing |  |
+| A5 | A Coat Of Butterflies |  |
+| B1 | Rock Bottom |  |
+| B2 | Five Easy Pieces |  |
+| B3 | Stop Before I Cry |  |
+| B4 | It's Over |  |
+| B5 | Goodbye To Good Times |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-is-a-photograph/1607541242" >}}<br>
 
 
-## Videos
-### Kevin Morby - This is a Photograph Official Video
-{{< youtube id="hmxrnAouciM" title="Kevin Morby - This is a Photograph Official Video" >}}<br>
-### More Videos
-
-- [Kevin Morby - A Random Act Of Kindness Official Video](https://www.youtube.com/watch?v=HN82J9RvCMY)
-- [Kevin Morby - Rock Bottom Official Video](https://www.youtube.com/watch?v=xRd4OjaDE4k)
-- [Its Over](https://www.youtube.com/watch?v=2LjQDJuu63w)
-- [Kevin Morby - This is a Photograph Official Video](https://www.youtube.com/watch?v=hmxrnAouciM)
-- [Kevin Morby - A Random Act Of Kindness Official Video](https://www.youtube.com/watch?v=HN82J9RvCMY)
-- [Kevin Morby - Rock Bottom Official Video](https://www.youtube.com/watch?v=xRd4OjaDE4k)
-- [Its Over](https://www.youtube.com/watch?v=2LjQDJuu63w)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +58,5 @@ In late 2020, Kevin Morby holed up in the then-quiet Peabody hotel in Memphis to
 | Format         | Vinyl LP Album Limited Edition (Gold Nugget) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC316 |
-| Notes | Limited edition pressed on 'gold nugget' vinyl. Includes a printed inner sleeve, a fold-out set of photos, and a download code. Rear sticker: Made In Canada  A small amount of autographed copies were made available through Newbury Comics.  © & ℗ 2022 Dead Oceans, Inc.  Engineering [...] at Slow Fawn in Accord, NY Additional Recording [...] at Sam Phillips Recording in Memphis, TN Additional Engineering [...] in New York, NY Mixed and Mastered [...] at Isokon in Kingston, NY |
+| Notes | Limited edition pressed on 'gold nugget' vinyl. Includes a printed inner sleeve, a fold-out set of photos, and a download code.<br>Rear sticker: Made In Canada<br><br>A small amount of autographed copies were made available through Newbury Comics.<br><br>© & ℗ 2022 Dead Oceans, Inc.<br><br>Engineering [...] at Slow Fawn in Accord, NY<br>Additional Recording [...] at Sam Phillips Recording in Memphis, TN<br>Additional Engineering [...] in New York, NY<br>Mixed and Mastered [...] at Isokon in Kingston, NY |
 | Discogs URL    | [Kevin Morby - This Is A Photograph](https://www.discogs.com/release/23180702-Kevin-Morby-This-Is-A-Photograph) |

@@ -4,6 +4,7 @@ artist_name: "Dream The Electric Sleep"
 artist: "dream-the-electric-sleep"
 album_name: "Beneath The Dark Wide Sky"
 date: 2016-11-17T19:51:28.000000Z
+release_date: "2016-07-22"
 release_id: "8813791"
 slug: "beneath-the-dark-wide-sky-8813791"
 hideSummary: true
@@ -27,41 +28,41 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Drift (5:11)
-2. Let The Light Flood In (5:30)
-3. Flight (4:46)
-4. We Who Blackout The Sun (5:15)
-5. Hanging By Time (5:40)
-6. Culling The Herd (7:26)
-7. The Last Psalm To Silence (2:15)
-8. The Good Night Sky (5:28)
-9. Headlights (4:25)
-10. Black Wind (6:15)
-11. All Good Things (5:00)
-12. Drift (5:11)
-13. Let The Light Flood In (5:30)
-14. Flight (4:46)
-15. We Who Blackout The Sun (5:15)
-16. Hanging By Time (5:40)
-17. Culling The Herd (7:26)
-18. The Last Psalm To Silence (2:15)
-19. The Good Night Sky (5:28)
-20. Headlights (4:25)
-21. Black Wind (6:15)
-22. All Good Things (5:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Drift | 5:11 |
+| A2 | Let The Light Flood In | 5:30 |
+| A3 | Flight | 4:46 |
+| B1 | We Who Blackout The Sun | 5:15 |
+| B2 | Hanging By Time | 5:40 |
+| B3 | Culling The Herd | 7:26 |
+| C1 | The Last Psalm To Silence | 2:15 |
+| C2 | The Good Night Sky | 5:28 |
+| C3 | Headlights | 4:25 |
+| D1 | Black Wind | 6:15 |
+| D2 | All Good Things | 5:00 |
+| 1 | Drift | 5:11 |
+| 2 | Let The Light Flood In | 5:30 |
+| 3 | Flight | 4:46 |
+| 4 | We Who Blackout The Sun | 5:15 |
+| 5 | Hanging By Time | 5:40 |
+| 6 | Culling The Herd | 7:26 |
+| 7 | The Last Psalm To Silence | 2:15 |
+| 8 | The Good Night Sky | 5:28 |
+| 9 | Headlights | 4:25 |
+| 10 | Black Wind | 6:15 |
+| 11 | All Good Things | 5:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/beneath-the-dark-wide-sky/1648321577" >}}<br>
 
 
-## Videos
-### All Good Things
-{{< youtube id="fjo9bj0A-Qc" title="All Good Things" >}}<br>
-### More Videos
-
-- [Drift](https://www.youtube.com/watch?v=Ck-J8hWeqJY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +73,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 2× 12" 33 ⅓ RPM Album Limited Edition (Silver Marbled), CD Album |
 | Label          | Mutiny Records (2) |
 | Catalog Number | OMN16155 |
-| Notes | ℗ and © 2016 Dream The Electric Sleep.  Packaged in a gatefold jacket with hype sticker affixed to the front of the shrink wrap. CD is packaged inside in a PVC sleeve. |
+| Notes | ℗ and © 2016 Dream The Electric Sleep.<br><br>Packaged in a gatefold jacket with hype sticker affixed to the front of the shrink wrap. CD is packaged inside in a PVC sleeve. |
 | Discogs URL    | [Dream The Electric Sleep - Beneath The Dark Wide Sky](https://www.discogs.com/release/8813791-Dream-The-Electric-Sleep-Beneath-The-Dark-Wide-Sky) |

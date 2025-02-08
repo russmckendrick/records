@@ -4,6 +4,7 @@ artist_name: "Anathema"
 artist: "anathema"
 album_name: "We're Here Because We're Here"
 date: 2020-03-21T16:17:46.000000Z
+release_date: "2010-05-31"
 release_id: "14963699"
 slug: "we-re-here-because-we-re-here-14963699"
 hideSummary: true
@@ -24,37 +25,30 @@ styles: ["Alternative Rock", "Prog Rock"]
 ---
 
 We're Here Because We're Here is the eighth album by the British rock band Anathema. It was released on 31 May 2010. The working title of the album was Horizons. The album was mixed by Steven Wilson of Porcupine Tree.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Thin Air (6:00)
-2. Summernight Horizon (4:13)
-3. Dreaming Light (5:47)
-4. Everything (5:06)
-5. Angels Walk Among Us (5:17)
-6. Presence (2:58)
-7. A Simple Mistake (8:14)
-8. Get Off Get Out (5:01)
-9. Universal (7:19)
-10. Hindsight (8:11)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Thin Air | 6:00 |
+| A2 | Summernight Horizon | 4:13 |
+| A3 | Dreaming Light | 5:47 |
+| B1 | Everything | 5:06 |
+| B2 | Angels Walk Among Us | 5:17 |
+| B3 | Presence | 2:58 |
+| C1 | A Simple Mistake | 8:14 |
+| C2 | Get Off Get Out | 5:01 |
+| D1 | Universal | 7:19 |
+| D2 | Hindsight | 8:11 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/were-here-because-were-here/369025308" >}}<br>
 
 
-## Videos
-### Anathema - Thin Air lyrics
-{{< youtube id="jW0p7jQnKqg" title="Anathema - Thin Air lyrics" >}}<br>
-### More Videos
-
-- [Anathema - Summer Night Horizon](https://www.youtube.com/watch?v=ld5UqwI8Tg4)
-- [Anathema - Dreaming Light](https://www.youtube.com/watch?v=rSToh--FUsI)
-- [Anathema - Everything](https://www.youtube.com/watch?v=KaXWp-3fL_E)
-- [Anathema - Angels Walk Among Us Lyrics](https://www.youtube.com/watch?v=BRMNJNzscwQ)
-- [Anathema - Presence](https://www.youtube.com/watch?v=T8fWHvP8oqg)
-- [Anathema - Were Here Because Were Here Full Album](https://www.youtube.com/watch?v=xxvfI3uWM1s)
 
 ## Release Images
 {{< imageGrid >}}

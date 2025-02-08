@@ -33,33 +33,23 @@ The song is typical of the band's music, with the dual lead guitar harmony and B
 
 
 ## Tracklisting
-1. Jailbreak
-2. Angel From The Coast
-3. Running Back
-4. Romeo And The Lonely Girl
-5. Warriors
-6. The Boys Are Back In Town
-7. Fight Or Fall
-8. Cowboy Song
-9. Emerald
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Jailbreak |  |
+| A2 | Angel From The Coast |  |
+| A3 | Running Back |  |
+| A4 | Romeo And The Lonely Girl |  |
+| A5 | Warriors |  |
+| B1 | The Boys Are Back In Town |  |
+| B2 | Fight Or Fall |  |
+| B3 | Cowboy Song |  |
+| B4 | Emerald |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/jailbreak/1440918303" >}}<br>
 
 
-## Videos
-### Jailbreak
-{{< youtube id="dMko8DlY9IA" title="Jailbreak" >}}<br>
-### More Videos
-
-- [Angel From The Coast](https://www.youtube.com/watch?v=i_R0JAzHXq8)
-- [Running Back](https://www.youtube.com/watch?v=w8Ca-YfG5r8)
-- [Romeo And The Lonely Girl](https://www.youtube.com/watch?v=DgpARCtjTg4)
-- [Warriors](https://www.youtube.com/watch?v=nQjp0an5cO0)
-- [The Boys Are Back In Town](https://www.youtube.com/watch?v=56b4TTT609c)
-- [Fight Or Fall](https://www.youtube.com/watch?v=xpgK4_JT7bQ)
-- [Cowboy Song](https://www.youtube.com/watch?v=Q61q458T92w)
-- [Emerald](https://www.youtube.com/watch?v=2Rby6u-KCwE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +61,5 @@ The song is typical of the band's music, with the dual lead guitar harmony and B
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Label          | Vertigo |
 | Catalog Number | 0802631 |
-| Notes | 2020 reissue.  180g vinyl.  Die cut sleeve. Some copies include "The Sound Of Vinyl" download code.  ℗ 2014 © 2014 Made in Germany.  Runouts are stamped except for the cat# 0802631 x *on both sides) and the Greg@ft signature on the B side |
+| Notes | 2020 reissue. <br>180g vinyl. <br>Die cut sleeve.<br>Some copies include "The Sound Of Vinyl" download code.<br><br>℗ 2014 © 2014<br>Made in Germany.<br><br>Runouts are stamped except for the cat# 0802631 x *on both sides) and the Greg@ft signature on the B side |
 | Discogs URL    | [Thin Lizzy - Jailbreak](https://www.discogs.com/release/14698179-Thin-Lizzy-Jailbreak) |

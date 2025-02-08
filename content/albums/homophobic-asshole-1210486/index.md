@@ -4,6 +4,7 @@ artist_name: "Senseless Things"
 artist: "senseless-things"
 album_name: "Homophobic Asshole"
 date: 2018-02-15T19:24:32.000000Z
+release_date: "2007-07-05"
 release_id: "1210486"
 slug: "homophobic-asshole-1210486"
 hideSummary: true
@@ -21,24 +22,22 @@ styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Homophobic Asshole
-2. Body Bag
-3. Just Flirting
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Homophobic Asshole |  |
+| B1 | Body Bag |  |
+| B2 | Just Flirting |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/homophobic-a-e/259488624" >}}<br>
 
 
-## Videos
-### Senseless Things - Homophobic Asshole
-{{< youtube id="cbSvdWaARRM" title="Senseless Things - Homophobic Asshole" >}}<br>
-### More Videos
-
-- [SENSELESS THINGS Homophobic Asshole](https://www.youtube.com/watch?v=Q3YUFhjR3wM)
-- [Senseless Things - Body Bag](https://www.youtube.com/watch?v=tsHv3fLuxIU)
-- [Senseless Things - Homophobic Asshole](https://www.youtube.com/watch?v=cbSvdWaARRM)
 
 ## Release Images
 {{< imageGrid >}}

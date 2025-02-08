@@ -1,7 +1,7 @@
 ---
 title: "Sigur Rós - Valtari"
 artist_name: "Sigur Rós"
-artist: "sigur-r-s"
+artist: "sigur-ros"
 album_name: "Valtari"
 date: 2021-07-03T06:11:15.000000Z
 release_date: "2012-05-28"
@@ -24,25 +24,22 @@ No other band creates symphonic textures quite like Sigur Rós. The Icelandic gr
 
 
 ## Tracklisting
-1. Ég Anda
-2. Ekki Múkk
-3. Varúð
-4. Rembihnútur
-5. Dauðalogn
-6. Varðeldur
-7. Valtari
-8. Fjögur Píanó
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ég Anda |  |
+| A2 | Ekki Múkk |  |
+| B1 | Varúð |  |
+| B2 | Rembihnútur |  |
+| C1 | Dauðalogn |  |
+| C2 | Varðeldur |  |
+| D1 | Valtari |  |
+| D2 | Fjögur Píanó |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/valtari/717401815" >}}<br>
 
 
-## Videos
-### Sigur Rós - Valtari Full Album Stream
-{{< youtube id="jQi77xni1p8" title="Sigur Rós - Valtari Full Album Stream" >}}<br>
-### More Videos
-
-- [Sigur Rós - Varúð Official Music Video](https://www.youtube.com/watch?v=Gf1h2PMPCAo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -53,5 +50,5 @@ No other band creates symphonic textures quite like Sigur Rós. The Icelandic gr
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Krúnk |
 | Catalog Number | KRUNK61LP |
-| Notes | Limited standard black vinyl edition. Side B runout is a locked groove.  Barcode sticker on shrink, lower right corner.  ℗ 2012 the copyright in this sound recording is owned by Sigur Rós under exclusive license to Krúnk.  © 2021 Krúnk. Published by Universal Music Publishing. |
+| Notes | Limited standard black vinyl edition. Side B runout is a locked groove.<br><br>Barcode sticker on shrink, lower right corner.<br><br>℗ 2012 the copyright in this sound recording is owned by Sigur Rós under exclusive license to Krúnk. <br>© 2021 Krúnk.<br>Published by Universal Music Publishing. |
 | Discogs URL    | [Sigur Rós - Valtari](https://www.discogs.com/release/19148089-Sigur-Rós-Valtari) |

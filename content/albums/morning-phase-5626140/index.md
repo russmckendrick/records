@@ -36,44 +36,27 @@ In the more than five years separating the release of <i>Modern Guilt</i> and <i
 
 
 ## Tracklisting
-1. Cycle (0:40)
-2. Morning (5:22)
-3. Heart Is A Drum (4:31)
-4. Say Goodbye (3:29)
-5. Blue Moon (4:00)
-6. Unforgiven (4:34)
-7. Wave (3:45)
-8. Don't Let It Go (3:08)
-9. Blackbird Chain (4:26)
-10. Phase (1:12)
-11. Turn Away (3:05)
-12. Country Down (4:00)
-13. Waking Light (5:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cycle | 0:40 |
+| A2 | Morning | 5:22 |
+| A3 | Heart Is A Drum | 4:31 |
+| A4 | Say Goodbye | 3:29 |
+| A5 | Blue Moon | 4:00 |
+| A6 | Unforgiven | 4:34 |
+| B1 | Wave | 3:45 |
+| B2 | Don't Let It Go | 3:08 |
+| B3 | Blackbird Chain | 4:26 |
+| B4 | Phase | 1:12 |
+| B5 | Turn Away | 3:05 |
+| B6 | Country Down | 4:00 |
+| B7 | Waking Light | 5:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/morning-phase/1440857105" >}}<br>
 
 
-## Videos
-### Morning
-{{< youtube id="z_j25z5zwT4" title="Morning" >}}<br>
-### More Videos
-
-- [Phase](https://www.youtube.com/watch?v=bzTm0fJQHAY)
-- [Cycle](https://www.youtube.com/watch?v=n9AOSt1RG7I)
-- [Beck Morning](https://www.youtube.com/watch?v=FGhmQj-ediA)
-- [Beck - Heart Is A Drum](https://www.youtube.com/watch?v=_6Zp84XH6Eo)
-- [Album Of The Year Beck  GRAMMYs](https://www.youtube.com/watch?v=V4jEpVCGqSM)
-- [Beck - Morning HQ wLyrics](https://www.youtube.com/watch?v=UvKbBkiYN9Y)
-- [Beck - Cutting Morning Phase](https://www.youtube.com/watch?v=JJIUItRNC9M)
-- [Beck - Morning Lyrics](https://www.youtube.com/watch?v=unZkASVfF74)
-- [Beck - Morning Phase ALBUM REVIEW](https://www.youtube.com/watch?v=BrAgo1Qh4uk)
-- [Beck - Say Goodbye Live on The Tonight Show](https://www.youtube.com/watch?v=3B8uTd4Tfno)
-- [Beck Performs Blue Moon](https://www.youtube.com/watch?v=yf3CVZ4CgfA)
-- [Beck - Blue Moon Audio](https://www.youtube.com/watch?v=WIWbgR4vYiw)
-- [Beck - Waking Light Audio](https://www.youtube.com/watch?v=ixtNYSiNyO4)
-- [Beck - Waking Light Live on The Tonight Show](https://www.youtube.com/watch?v=7Fb59aQUOx0)
-- [Beck On Writing Morning Phase In His Kitchen  GRAMMYs](https://www.youtube.com/watch?v=QQk2EjMV4Rs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +68,5 @@ In the more than five years separating the release of <i>Modern Guilt</i> and <i
 | Format         | Vinyl LP Album (180 Gram) |
 | Label          | Capitol Records |
 | Catalog Number | 0602537649747 |
-| Notes | 180 gram  Includes: Printed insert with lyrics and credits Download card for entire album in MP3 format (later copies don't have it)  Recorded at Ocean Way Recording (Hollywood, CA and Nashville, TN), Blackbird Studio (Nashville, TN), Gang Recording Studio (Paris, France), Rak Studios (London, UK), Capitol Studios (Hollywood, CA), Sunset Sound (Hollywood, CA), and The Library (Los Angeles, CA) Mixed at Electric Lady Studios, New York  ℗© 2014 Fonograf Records under exclusive license to Capitol Records Manufactured in Germany by Furnace MFG / The Pallas Group for Capitol Records Made in EU  Runouts are etched except for the stamped '-31098- P.USA'. |
+| Notes | 180 gram<br><br>Includes:<br>Printed insert with lyrics and credits<br>Download card for entire album in MP3 format (later copies don't have it)<br><br>Recorded at Ocean Way Recording (Hollywood, CA and Nashville, TN), Blackbird Studio (Nashville, TN), Gang Recording Studio (Paris, France), Rak Studios (London, UK), Capitol Studios (Hollywood, CA), Sunset Sound (Hollywood, CA), and The Library (Los Angeles, CA)<br>Mixed at Electric Lady Studios, New York<br><br>℗© 2014 Fonograf Records under exclusive license to Capitol Records<br>Manufactured in Germany by Furnace MFG / The Pallas Group for Capitol Records<br>Made in EU<br><br>Runouts are etched except for the stamped '-31098- P.USA'. |
 | Discogs URL    | [Beck - Morning Phase](https://www.discogs.com/release/5626140-Beck-Morning-Phase) |

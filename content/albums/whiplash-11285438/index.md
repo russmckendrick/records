@@ -4,6 +4,7 @@ artist_name: "James"
 artist: "james"
 album_name: "Whiplash"
 date: 2017-12-16T18:39:35.000000Z
+release_date: "2019-07-12"
 release_id: "11285438"
 slug: "whiplash-11285438"
 hideSummary: true
@@ -24,35 +25,31 @@ Preceded by the release of Whiplash's lead single "She's a Star" in February 199
 Whiplash received generally positive reviews from music critics, some of whom noted James' attempt to mix their older sound with newer elements. It peaked at number 9 in the UK, while its singles all reached the UK top 30, the highest being "She's a Star" at number 9. Whiplash was later certified gold in the UK, and "She's a Star" was certified silver in the same territory.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Tomorrow (3:46)
-2. Lost A Friend (3:40)
-3. Waltzing Along (3:54)
-4. She's A Star (3:39)
-5. Greenpeace (4:49)
-6. Go To The Bank (4:22)
-7. Play Dead (4:44)
-8. Avalanche (3:46)
-9. Homeboy (2:38)
-10. Watering Hole (3:45)
-11. Blue Pastures (4:18)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Tomorrow | 3:46 |
+| A2 | Lost A Friend | 3:40 |
+| A3 | Waltzing Along | 3:54 |
+| B1 | She's A Star | 3:39 |
+| B2 | Greenpeace | 4:49 |
+| B3 | Go To The Bank | 4:22 |
+| C1 | Play Dead | 4:44 |
+| C2 | Avalanche | 3:46 |
+| C3 | Homeboy | 2:38 |
+| D1 | Watering Hole | 3:45 |
+| D2 | Blue Pastures | 4:18 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whiplash-single/1471704921" >}}<br>
 
 
-## Videos
-### James - Tomorrow
-{{< youtube id="HF7Gaxy4_8E" title="James - Tomorrow" >}}<br>
-### More Videos
-
-- [James - Lost A Friend Live VH-1 1998](https://www.youtube.com/watch?v=hsxrfv2zVPc)
-- [James - Waltzing Along](https://www.youtube.com/watch?v=QZTCt-nQY9U)
-- [James - Shes a star HQ Whiplash 1997](https://www.youtube.com/watch?v=VF2qV-oSn0Q)
 
 ## Release Images
 {{< imageGrid >}}

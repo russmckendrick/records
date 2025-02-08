@@ -4,6 +4,7 @@ artist_name: "Curve"
 artist: "curve"
 album_name: "Doppelgänger"
 date: 2017-09-01T05:56:02.000000Z
+release_date: "1992-03-09"
 release_id: "10770475"
 slug: "doppelgnger-10770475"
 hideSummary: true
@@ -18,40 +19,29 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Already Yours
-2. Horror Head
-3. Wish You Dead
-4. Doppelgänger
-5. Lillies Dying
-6. Ice That Melts The Tips
-7. Split Into Fractions
-8. Think And Act
-9. Fait Accompli
-10. Sandpit
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Already Yours |  |
+| A2 | Horror Head |  |
+| A3 | Wish You Dead |  |
+| A4 | Doppelgänger |  |
+| A5 | Lillies Dying |  |
+| B1 | Ice That Melts The Tips |  |
+| B2 | Split Into Fractions |  |
+| B3 | Think And Act |  |
+| B4 | Fait Accompli |  |
+| B5 | Sandpit |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/doppelg%C3%A4nger/390862009" >}}<br>
 
 
-## Videos
-### Curve - Horror Head 4K Remaster
-{{< youtube id="Y3jYRP9jGKc" title="Curve - Horror Head 4K Remaster" >}}<br>
-### More Videos
-
-- [Curve - Superblaster 4K Remaster](https://www.youtube.com/watch?v=pYQa-Ft6nmE)
-- [Curve - Missing Link 1993](https://www.youtube.com/watch?v=KqmGEPfRzk0)
-- [CURVE - Horror Head Remix - 12 1992](https://www.youtube.com/watch?v=o5kwCNC7c88)
-- [Curve - Ice that melts the tips](https://www.youtube.com/watch?v=OBI1FaLNQZA)
-- [Curve - Horror Head](https://www.youtube.com/watch?v=04i4A5OdNmA)
-- [Sandpit](https://www.youtube.com/watch?v=qHX_2Orr1D4)
-- [Curve - Horror Head](https://www.youtube.com/watch?v=_4xMR7mYPWU)
-- [Curve Clipped](https://www.youtube.com/watch?v=moAIaLbcKb0)
-- [Curve - Doppelganger](https://www.youtube.com/watch?v=mT0dGTNtODc)
-- [Curve - Lillies Dying](https://www.youtube.com/watch?v=q7VKHpfv_Io)
-- [Curve - Think  Act](https://www.youtube.com/watch?v=L6YTLz8eqxI)
-- [Curve  - Fait Accompli video](https://www.youtube.com/watch?v=00rv4Kz3NKA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +52,5 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 | Format         | Vinyl LP Album Reissue |
 | Label          | 3 Loop Music |
 | Catalog Number | 3RANGE-52LP |
-| Notes | 25th Anniversary Edition Comes with download card from 3 Loop Music.   Some copies come with a print, using the image for the cover of [r=266442], signed by Toni and Dean. |
+| Notes | 25th Anniversary Edition<br>Comes with download card from 3 Loop Music. <br><br>Some copies come with a print, using the image for the cover of [r=266442], signed by Toni and Dean. |
 | Discogs URL    | [Curve - Doppelgänger](https://www.discogs.com/release/10770475-Curve-Doppelgänger) |

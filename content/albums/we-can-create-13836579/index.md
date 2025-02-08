@@ -4,6 +4,7 @@ artist_name: "Maps"
 artist: "maps"
 album_name: "We Can Create"
 date: 2019-08-30T15:22:30.000000Z
+release_date: "2007-05-14"
 release_id: "13836579"
 slug: "we-can-create-13836579"
 hideSummary: true
@@ -28,40 +29,31 @@ styles: ["Downtempo", "Shoegaze"]
 ---
 
 We Can Create is the debut album from Northampton-based artist Maps, released digitally on 16 April 2007, and physically on 14 May 2007. It was shortlisted for the 2007 Mercury Music Prize, but lost out to Klaxons debut album Myths of the Near Future. Five singles were released from the album.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. So Low, So High
-2. You Don't Know Her Name
-3. Elouise
-4. It Will Find You
-5. Glory Verse
-6. Liquid Sugar
-7. To The Sky
-8. Back + Forth
-9. Lost My Soul
-10. Don't Fear
-11. When You Leave
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | So Low, So High |  |
+| A2 | You Don't Know Her Name |  |
+| A3 | Elouise |  |
+| A4 | It Will Find You |  |
+| B1 | Glory Verse |  |
+| B2 | Liquid Sugar |  |
+| B3 | To The Sky |  |
+| B4 | Back + Forth |  |
+| C1 | Lost My Soul |  |
+| C2 | Don't Fear |  |
+| C3 | When You Leave |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/we-can-create/757501669" >}}<br>
 
 
-## Videos
-### Make Yourself Exist
-{{< youtube id="bHSQsbSAuHQ" title="Make Yourself Exist" >}}<br>
-### More Videos
-
-- [Were Not in Kansas Anymore](https://www.youtube.com/watch?v=oANfQ7Br1IA)
-- [Start Something](https://www.youtube.com/watch?v=dTITpNVU1T4)
-- [Fall Apart](https://www.youtube.com/watch?v=_9N6YlDUxzU)
-- [In Chemistry Edit](https://www.youtube.com/watch?v=TCTStfBoQyk)
-- [Maps You Dont Know Her Name](https://www.youtube.com/watch?v=AJgtYk5Pd9M)
-- [MAPS - ELOUISE](https://www.youtube.com/watch?v=ouY5RBOOrPE)
-- [Maps - Elouise Studio-Version](https://www.youtube.com/watch?v=XVU75kz91dE)
-- [Maps - To The Sky](https://www.youtube.com/watch?v=9dHiOJ_JNJM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +65,5 @@ We Can Create is the debut album from Northampton-based artist Maps, released di
 | Format         | Vinyl LP, Vinyl LP Etched, All Media Album Limited Edition Reissue (Green Glass) |
 | Label          | Mute |
 | Catalog Number | lstumm281 |
-| Notes | Limited to 1000 copies.  Classified as both a reissue and repress on the Mute Bank website.  General release date listed as August 23rd, 2019, however copies were sold earlier at Maps gigs in June & July 2019.  Circular hype sticker on the cellophane reads: 1st time on 12" vinyl limited edition seventies style green glass coloured vinyl double album d side etching + digital copy  (p)2019 (c)2007 mute records limited printed in the eu |
+| Notes | Limited to 1000 copies. <br>Classified as both a reissue and repress on the Mute Bank website. <br>General release date listed as August 23rd, 2019, however copies were sold earlier at Maps gigs in June & July 2019.<br><br>Circular hype sticker on the cellophane reads:<br>1st time on 12" vinyl<br>limited edition<br>seventies style<br>green glass coloured vinyl<br>double album<br>d side etching<br>+ digital copy<br><br>(p)2019 (c)2007 mute records limited<br>printed in the eu |
 | Discogs URL    | [Maps - We Can Create](https://www.discogs.com/release/13836579-Maps-We-Can-Create) |

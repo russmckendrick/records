@@ -4,6 +4,7 @@ artist_name: "Slowdive"
 artist: "slowdive"
 album_name: "Slowdive EP"
 date: 2020-09-15T17:32:11.000000Z
+release_date: "2007-12-11"
 release_id: "15825430"
 slug: "slowdive-ep-15825430"
 hideSummary: true
@@ -24,23 +25,22 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Slowdive
-2. Avalyn I
-3. Avalyn Il
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Slowdive |  |
+| A2 | Avalyn I |  |
+| B | Avalyn Il |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/slowdive-ep/270300100" >}}<br>
 
 
-## Videos
-### Slowdive
-{{< youtube id="hs9kJZ1uJ-Q" title="Slowdive" >}}<br>
-### More Videos
-
-- [Slowdive - Slowdive 1991](https://www.youtube.com/watch?v=JzVwpibI8uY)
-- [Slowdive - Avalyn 1  2](https://www.youtube.com/watch?v=5uUoaq_X8oc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -51,5 +51,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 12" 45 RPM EP Record Store Day Limited Edition Numbered Reissue (Green [Translucent Green] With Black Marble ) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12009 |
-| Notes | Exclusively available through Record Store Day 2020 180g audiophile vinyl Jacket with special deluxe alubrush finish  Limited 30th-anniversary edition of 4000 individually numbered copies on green & black marbled (transparent green, clear & black mixed) vinyl  |
+| Notes | Exclusively available through Record Store Day 2020<br>180g audiophile vinyl<br>Jacket with special deluxe alubrush finish <br>Limited 30th-anniversary edition of 4000 individually numbered copies on green & black marbled (transparent green, clear & black mixed) vinyl  |
 | Discogs URL    | [Slowdive - Slowdive EP](https://www.discogs.com/release/15825430-Slowdive-Slowdive-EP) |

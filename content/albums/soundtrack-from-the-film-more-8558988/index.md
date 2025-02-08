@@ -4,6 +4,7 @@ artist_name: "Pink Floyd"
 artist: "pink-floyd"
 album_name: "Soundtrack From The Film More"
 date: 2016-06-03T20:02:40.000000Z
+release_date: "2004-01-01"
 release_id: "8558988"
 slug: "soundtrack-from-the-film-more-8558988"
 hideSummary: true
@@ -25,32 +26,32 @@ styles: ["Soundtrack", "Psychedelic Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Cirrus Minor
-2. The Nile Song
-3. Crying Song
-4. Up The Khyber
-5. Green Is The Colour
-6. Cymbaline
-7. Party Sequence
-8. Main Theme
-9. Ibiza Bar
-10. More Blues
-11. Quicksilver
-12. A Spanish Piece
-13. Dramatic Theme
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cirrus Minor |  |
+| A2 | The Nile Song |  |
+| A3 | Crying Song |  |
+| A4 | Up The Khyber |  |
+| A5 | Green Is The Colour |  |
+| A6 | Cymbaline |  |
+| A7 | Party Sequence |  |
+| B1 | Main Theme |  |
+| B2 | Ibiza Bar |  |
+| B3 | More Blues |  |
+| B4 | Quicksilver |  |
+| B5 | A Spanish Piece |  |
+| B6 | Dramatic Theme |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/eternal-sunshine-of-the-spotless-mind-soundtrack/1442912229" >}}<br>
 
 
-## Videos
-### Pink Floyd - 1st UK press - More - side two - 192 Khz
-{{< youtube id="E4-0wZj1olc" title="Pink Floyd - 1st UK press - More - side two - 192 Khz" >}}<br>
-### More Videos
-
-- [Dramatic Theme](https://www.youtube.com/watch?v=Lp74csZ6JtM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +62,5 @@ styles: ["Soundtrack", "Psychedelic Rock", "Prog Rock"]
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP3 |
-| Notes | The stereo remastered album on heavyweight 180ɢ vinyl Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN Original UK release date: July 1969 www.pinkfloyd.com  Hype sticker on shrink wrap. Printed image of the original flip back rear sleeve. Black paper and plastic poly-lined inner sleeve. Made and Printed by Optimal in the EU (on back cover). Made in the EU (on labels). Soundtrack From The Film “More” - Pink Floyd PFRLP3 (on spine). File under Popular : Films and Shows (on back cover) ℗ 2016 Pink Floyd Music Ltd., marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company. © 2016 Pink Floyd Music Ltd. The copyright in this sound recording and artwork is owned by Pink Floyd Music Ltd (on back cover)  Runouts are etched with Optimal plating symbols mirrored Variant 3 and 5: 'BG' is underlined |
+| Notes | The stereo remastered album on heavyweight 180ɢ vinyl<br>Remastered from the original analogue tapes by JAMES GUTHRIE, JOEL PLANTE and BERNIE GRUNDMAN<br>Original UK release date: July 1969<br>www.pinkfloyd.com<br><br>Hype sticker on shrink wrap.<br>Printed image of the original flip back rear sleeve.<br>Black paper and plastic poly-lined inner sleeve.<br>Made and Printed by Optimal in the EU (on back cover).<br>Made in the EU (on labels).<br>Soundtrack From The Film “More” - Pink Floyd PFRLP3 (on spine).<br>File under Popular : Films and Shows (on back cover)<br>℗ 2016 Pink Floyd Music Ltd., marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company. © 2016 Pink Floyd Music Ltd. The copyright in this sound recording and artwork is owned by Pink Floyd Music Ltd (on back cover)<br><br>Runouts are etched with Optimal plating symbols mirrored<br>Variant 3 and 5: 'BG' is underlined |
 | Discogs URL    | [Pink Floyd - Soundtrack From The Film "More"](https://www.discogs.com/release/8558988-Pink-Floyd-Soundtrack-From-The-Film-More) |

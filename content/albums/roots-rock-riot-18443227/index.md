@@ -4,6 +4,7 @@ artist_name: "Skindred"
 artist: "skindred"
 album_name: "Roots Rock Riot"
 date: 2021-06-04T09:18:15.000000Z
+release_date: "2007-10-22"
 release_id: "18443227"
 slug: "roots-rock-riot-18443227"
 hideSummary: true
@@ -29,39 +30,35 @@ styles: ["Nu Metal", "Ragga"]
 ---
 
 Roots Rock Riot is the second album from Welsh rock band Skindred. It was released on 23 October 2007 in the United States.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Roots Rock Riot (3:02)
-2. Trouble (3:49)
-3. Ratrace (3:22)
-4. State Of Emergency (4:03)
-5. Alright (3:09)
-6. Destroy The Dancefloor (3:44)
-7. Rude Boy For Life (4:11)
-8. Killing Me (4:19)
-9. Spit Out The Poison (3:47)
-10. Cause Ah Riot (3:05)
-11. Ease Up (3:59)
-12. Choices And Decisions (4:40)
-13. 7 Inch Bonus Tracks:
-14. It's A Crime (3:17)
-15. Struggle (3:37)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Roots Rock Riot | 3:02 |
+| A2 | Trouble | 3:49 |
+| A3 | Ratrace | 3:22 |
+| A4 | State Of Emergency | 4:03 |
+| A5 | Alright | 3:09 |
+| A6 | Destroy The Dancefloor | 3:44 |
+| B1 | Rude Boy For Life | 4:11 |
+| B2 | Killing Me | 4:19 |
+| B3 | Spit Out The Poison | 3:47 |
+| B4 | Cause Ah Riot | 3:05 |
+| B5 | Ease Up | 3:59 |
+| B6 | Choices And Decisions | 4:40 |
+|  | 7 Inch Bonus Tracks: |  |
+| A | It's A Crime | 3:17 |
+| B | Struggle | 3:37 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/roots-rock-riot/1451028729" >}}<br>
 
 
-## Videos
-### Roots Rock Riot
-{{< youtube id="fWQuZIzdXPU" title="Roots Rock Riot" >}}<br>
-### More Videos
-
-- [Skindred - Killing me Roots Rock Riot Album](https://www.youtube.com/watch?v=dsaHEp1VfXE)
-- [SKINDRED - Rat Race](https://www.youtube.com/watch?v=h-kmLkfFrtU)
-- [Rude Boy for Life](https://www.youtube.com/watch?v=u1borxceXS0)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "Sam Brown"
 artist: "sam-brown"
 album_name: "Stop!"
 date: 2019-01-19T10:33:32.000000Z
+release_date: "1988-01-01"
 release_id: "11811666"
 slug: "stop-11811666"
 hideSummary: true
@@ -30,44 +31,31 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Walking Back To Me (3:40)
-2. Your Love Is All (4:09)
-3. Stop (4:53)
-4. It Makes Me Wonder (4:33)
-5. This Feeling (3:21)
-6. Tea (0:41)
-7. Piece Of My Luck (3:00)
-8. Ball And Chain (4:34)
-9. Wrap Me Up (3:10)
-10. I'll Be In Love (5:16)
-11. Merry Go Round (3:07)
-12. Sometimes You Just Don't Know (3:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Walking Back To Me | 3:40 |
+| A2 | Your Love Is All | 4:09 |
+| A3 | Stop | 4:53 |
+| A4 | It Makes Me Wonder | 4:33 |
+| A5 | This Feeling | 3:21 |
+| A6 | Tea | 0:41 |
+| B1 | Piece Of My Luck | 3:00 |
+| B2 | Ball And Chain | 4:34 |
+| B3 | Wrap Me Up | 3:10 |
+| B4 | I'll Be In Love | 5:16 |
+| B5 | Merry Go Round | 3:07 |
+| B6 | Sometimes You Just Don't Know | 3:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stop/1443915889" >}}<br>
 
 
-## Videos
-### Sam Brown - Stop LP Full Album
-{{< youtube id="Q1sF8jYV_KM" title="Sam Brown - Stop LP Full Album" >}}<br>
-### More Videos
-
-- [Sam Brown - Stop](https://www.youtube.com/watch?v=m-L9m2qhSmA)
-- [Sam Brown - Stop LP Full Album](https://www.youtube.com/watch?v=Q1sF8jYV_KM)
-- [Walking Back To Me](https://www.youtube.com/watch?v=hTOBlrWzT0o)
-- [Your Love Is All](https://www.youtube.com/watch?v=LEBiRGka5nU)
-- [Stop](https://www.youtube.com/watch?v=kRHSAPiBfq8)
-- [It Makes Me Wonder](https://www.youtube.com/watch?v=UUhjwspFCXI)
-- [This Feeling](https://www.youtube.com/watch?v=zlbuy37bhXs)
-- [Tea](https://www.youtube.com/watch?v=RAQ0OmNsmRI)
-- [Piece Of My Luck](https://www.youtube.com/watch?v=x05qXKVpJGU)
-- [Ball And Chain](https://www.youtube.com/watch?v=xEoXSfjJzwA)
-- [Wrap Me Up](https://www.youtube.com/watch?v=bBtt6SwSzzA)
-- [Ill Be In Love](https://www.youtube.com/watch?v=xFfrFPhSAFE)
-- [Merry Go Round](https://www.youtube.com/watch?v=Vj9OdQpY_4M)
-- [Sometimes You Just Dont Know](https://www.youtube.com/watch?v=r-zwq1Xqab4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +66,5 @@ styles: []
 | Format         | Vinyl LP Album |
 | Label          | A&M Records |
 | Catalog Number | Ama 5195 |
-| Notes | Differs to https://www.discogs.com/Sam-Brown-Stop/release/9230163 6 page insert with lyrics, not 4 page. Etched runout starts JA, not AJ. Song timings different.  |
+| Notes | Differs to https://www.discogs.com/Sam-Brown-Stop/release/9230163<br>6 page insert with lyrics, not 4 page.<br>Etched runout starts JA, not AJ.<br>Song timings different.<br> |
 | Discogs URL    | [Sam Brown - Stop!](https://www.discogs.com/release/11811666-Sam-Brown-Stop) |

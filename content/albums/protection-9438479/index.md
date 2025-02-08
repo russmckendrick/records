@@ -4,6 +4,7 @@ artist_name: "Massive Attack"
 artist: "massive-attack"
 album_name: "Protection"
 date: 2016-12-02T12:53:43.000000Z
+release_date: "1994"
 release_id: "9438479"
 slug: "protection-9438479"
 hideSummary: true
@@ -29,41 +30,30 @@ styles: ["Trip Hop", "Downtempo", "Dub"]
 Protection is the second studio album by English electronic music group Massive Attack, released on 26 September 1994 by Wild Bunch Records and Circa. DJ Mad Professor remixed the album in 1995 under the name No Protection.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Protection (7:56)
-2. Karmacoma (5:14)
-3. Three (3:42)
-4. Weather Storm (4:55)
-5. Spying Glass (5:23)
-6. Better Things (4:15)
-7. Euro Child (5:07)
-8. Sly (5:24)
-9. Heat Miser (3:40)
-10. Light My Fire (Live) (3:11)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Protection | 7:56 |
+| A2 | Karmacoma | 5:14 |
+| A3 | Three | 3:42 |
+| A4 | Weather Storm | 4:55 |
+| A5 | Spying Glass | 5:23 |
+| B1 | Better Things | 4:15 |
+| B2 | Euro Child | 5:07 |
+| B3 | Sly | 5:24 |
+| B4 | Heat Miser | 3:40 |
+| B5 | Light My Fire (Live) | 3:11 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-protection/723371523" >}}<br>
 
 
-## Videos
-### Massive Attack  Protection 2K HD inlay artwork
-{{< youtube id="HfCylD7YOEg" title="Massive Attack  Protection 2K HD inlay artwork" >}}<br>
-### More Videos
-
-- [Massive Attack - Protection](https://www.youtube.com/watch?v=Epgo8ixX6Wo)
-- [Three](https://www.youtube.com/watch?v=AoYKjCCOqbk)
-- [Weather Storm](https://www.youtube.com/watch?v=lTGjFpjOIP8)
-- [Better Things](https://www.youtube.com/watch?v=M-muSqqvFio)
-- [Euro Child](https://www.youtube.com/watch?v=vUceCfTQhow)
-- [Massive Attack - Sly](https://www.youtube.com/watch?v=Dsv21Qq3hOc)
-- [Light My Fire Live From United Kingdom1994](https://www.youtube.com/watch?v=8y3MVfRJ9WA)
-- [Heat Miser](https://www.youtube.com/watch?v=cjHg_vysMBU)
-- [Karmacoma Remastered 2006](https://www.youtube.com/watch?v=7l3Yv4Lzny4)
-- [Massive Attack  Protection 2K HD inlay artwork](https://www.youtube.com/watch?v=HfCylD7YOEg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +65,5 @@ Protection is the second studio album by English electronic music group Massive 
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Label          | Circa |
 | Catalog Number | 5700962 |
-| Notes | Recorded at Wild Bunch Studios, London, UK and at Massive Attack and Antenne Studios, Bristol, UK. All tracks mixed at Olympic Studios, London, UK, except "Eurochild" at Larrabee West, L.A., USA and "Light My Fire (Live)" at Wild Bunch Studios, London, UK. Mastered at The Exchange.  "Weather Storm" contains the sample from "It's Time For Love" performed by Pieces Of A Dream.  "Better Things" contains the sample from "Never Can Say Goodbye" performed by James Brown.  "Light My Fire (Live)" contains the sample from "Light My Fire" performed by The Young Holt Trio.  ℗ & © 1994 Circa Records Ltd. ℗ & © 2016 Virgin Records Ltd.  Universal International Music B.V. Gerrit Van Der Veeniaan 4, 3743 DN, Baarn, Nederlands  Made in the EU.  Includes a download code for a digital copy of the album in CD quality WAV files. Some copies may not include the download code. |
+| Notes | Recorded at Wild Bunch Studios, London, UK and at Massive Attack and Antenne Studios, Bristol, UK.<br>All tracks mixed at Olympic Studios, London, UK, except "Eurochild" at Larrabee West, L.A., USA and "Light My Fire (Live)" at Wild Bunch Studios, London, UK.<br>Mastered at The Exchange.<br><br>"Weather Storm" contains the sample from "It's Time For Love" performed by Pieces Of A Dream.<br><br>"Better Things" contains the sample from "Never Can Say Goodbye" performed by James Brown.<br><br>"Light My Fire (Live)" contains the sample from "Light My Fire" performed by The Young Holt Trio.<br><br>℗ & © 1994 Circa Records Ltd.<br>℗ & © 2016 Virgin Records Ltd.<br><br>Universal International Music B.V.<br>Gerrit Van Der Veeniaan 4, 3743 DN, Baarn, Nederlands<br><br>Made in the EU.<br><br>Includes a download code for a digital copy of the album in CD quality WAV files. Some copies may not include the download code. |
 | Discogs URL    | [Massive Attack - Protection](https://www.discogs.com/release/9438479-Massive-Attack-Protection) |

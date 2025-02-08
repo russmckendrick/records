@@ -4,6 +4,7 @@ artist_name: "Gentle Giant"
 artist: "gentle-giant"
 album_name: "Free Hand"
 date: 2021-06-27T01:57:33.000000Z
+release_date: "1975-07-01"
 release_id: "19250605"
 slug: "free-hand-19250605"
 hideSummary: true
@@ -31,43 +32,36 @@ On 25 June 2021 a new remix by musician and producer Steven Wilson was released 
 International releases of the album include a slightly different position of the hand featured on the cover.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Transfer From The Original Master Tapes
-2. Just The Same (5:34)
-3. On Reflection (5:41)
-4. Free Hand (6:14)
-5. Time To Kill (5:08)
-6. His Last Voyage (6:27)
-7. Talybont (2:43)
-8. Mobile (5:05)
-9. Steven Wilson 2021 Remixes
-10. Just The Same (5:34)
-11. On Reflection (5:41)
-12. Free Hand (6:14)
-13. Time To Kill (5:08)
-14. His Last Voyage (6:27)
-15. Talybont (2:43)
-16. Mobile (5:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Transfer From The Original Master Tapes |  |
+| A1 | Just The Same | 5:34 |
+| A2 | On Reflection | 5:41 |
+| A3 | Free Hand | 6:14 |
+| B1 | Time To Kill | 5:08 |
+| B2 | His Last Voyage | 6:27 |
+| B3 | Talybont | 2:43 |
+| B4 | Mobile | 5:05 |
+|  | Steven Wilson 2021 Remixes |  |
+| C1 | Just The Same | 5:34 |
+| C2 | On Reflection | 5:41 |
+| C3 | Free Hand | 6:14 |
+| D1 | Time To Kill | 5:08 |
+| D2 | His Last Voyage | 6:27 |
+| D3 | Talybont | 2:43 |
+| D4 | Mobile | 5:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/free-hand/1629182869" >}}<br>
 
 
-## Videos
-### Just the Same 2012 Remaster
-{{< youtube id="cr70zm9mI98" title="Just the Same 2012 Remaster" >}}<br>
-### More Videos
-
-- [On Reflection 2012 Remaster](https://www.youtube.com/watch?v=jEK_Gg04FyA)
-- [Free Hand 2012 Remaster](https://www.youtube.com/watch?v=fjdVjgY043w)
-- [Time to Kill 2012 Remaster](https://www.youtube.com/watch?v=5YUfV6s9Me8)
-- [His Last Voyage 2012 Remaster](https://www.youtube.com/watch?v=5nR_vGye7tk)
-- [Talybont 2012 Remaster](https://www.youtube.com/watch?v=wt8-qBqS6S8)
-- [Mobile 2012 Remaster](https://www.youtube.com/watch?v=O1-MUd0hGRE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +73,5 @@ International releases of the album include a slightly different position of the
 | Format         | Vinyl 2× LP Album Reissue (Gatefold) |
 | Label          | Alucard |
 | Catalog Number | ALUGGV066 |
-| Notes | Black vinyl release. Red vinyl pressing seen here [r19268482] White vinyl pressing seen here [r22115038]  Catalogue # on spine and sticker: ALUGGV066 Catalogue # on labels: ALUGGV66 |
+| Notes | Black vinyl release. Red vinyl pressing seen here [r19268482]<br>White vinyl pressing seen here [r22115038]<br><br>Catalogue # on spine and sticker: ALUGGV066<br>Catalogue # on labels: ALUGGV66 |
 | Discogs URL    | [Gentle Giant - Free Hand](https://www.discogs.com/release/19250605-Gentle-Giant-Free-Hand) |

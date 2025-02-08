@@ -4,6 +4,7 @@ artist_name: "The Selecter"
 artist: "the-selecter"
 album_name: "Too Much Pressure"
 date: 2021-04-24T04:26:23.000000Z
+release_date: "1980-02-23"
 release_id: "18421726"
 slug: "too-much-pressure-18421726"
 hideSummary: true
@@ -28,52 +29,35 @@ Too Much Pressure is the debut studio album by the English 2 tone ska revival ba
 The album was released in February 1980 on 2 Tone records. The record was commercially successful, charting at number 5 in the United Kingdom. The record's singles, "Three Minute Hero" and "Missing Words", made the top 25 of the UK Singles Chart. The album was also critically successful, and has had lasting praise in the ensuing years. Although the band's accompanying 2 On 2 Tour with several other 2 Tone acts was fraught with violence, it also helped achieve, in part, the album's commercial success. The band performed the album live for the first time as part of its 35th anniversary tour in 2014.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Three Minute Hero (3:00)
-2. Everyday (3:10)
-3. They Make Me Mad (2:47)
-4. Missing Words (3:22)
-5. Danger (2:38)
-6. Street Feeling (3:11)
-7. My Collie (Not A Dog) (2:45)
-8. Too Much Pressure (3:48)
-9. Murder (2:39)
-10. Out On The Streets (3:28)
-11. Carry Go Bring Come (3:02)
-12. Black And Blue (3:17)
-13. James Bond (2:16)
-14. On My Radio
-15. Too Much Pressure
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Three Minute Hero | 3:00 |
+| A2 | Everyday | 3:10 |
+| A3 | They Make Me Mad | 2:47 |
+| A4 | Missing Words | 3:22 |
+| A5 | Danger | 2:38 |
+| A6 | Street Feeling | 3:11 |
+| A7 | My Collie (Not A Dog) | 2:45 |
+| B1 | Too Much Pressure | 3:48 |
+| B2 | Murder | 2:39 |
+| B3 | Out On The Streets | 3:28 |
+| B4 | Carry Go Bring Come | 3:02 |
+| B5 | Black And Blue | 3:17 |
+| B6 | James Bond | 2:16 |
+| C | On My Radio |  |
+| D | Too Much Pressure |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/too-much-pressure/1629178476" >}}<br>
 
 
-## Videos
-### THE SELECTER - Too Much Pressure FULL ALBUM 1980 LYRICS added in the comment section
-{{< youtube id="lutwqvQq5t8" title="THE SELECTER - Too Much Pressure FULL ALBUM 1980 LYRICS added in the comment section" >}}<br>
-### More Videos
-
-- [The Selecter - Missing Words](https://www.youtube.com/watch?v=G-1BbeXlNIw)
-- [The Selecter - Too Much Pressure](https://www.youtube.com/watch?v=QHnX_wEW1K0)
-- [THE SELECTER - EVERYDAY](https://www.youtube.com/watch?v=OIpTEqK0W9E)
-- [THE SELECTER - DANGER](https://www.youtube.com/watch?v=ckvX_gqcrxs)
-- [Selecter - danger](https://www.youtube.com/watch?v=BjUeBGkum6A)
-- [The Selecter - Out On The Streets](https://www.youtube.com/watch?v=JOecLj8Uw3s)
-- [They Make Me Mad](https://www.youtube.com/watch?v=zgU3PQshqi4)
-- [The Selecter - Too Much Pressure](https://www.youtube.com/watch?v=QHnX_wEW1K0)
-- [The Selecter - James Bond](https://www.youtube.com/watch?v=vfbx_oFeXww)
-- [The Selecter - On My Radio](https://www.youtube.com/watch?v=EXKEa2N5-mo)
-- [The Selecter - Missing Words](https://www.youtube.com/watch?v=BKELD7Rth0g)
-- [Selecter - time hard](https://www.youtube.com/watch?v=dZbL7PVGjqg)
-- [The Selecter - 01 Three Minute Hero](https://www.youtube.com/watch?v=DnjBRNLsMDg)
-- [the selecter too much pressure](https://www.youtube.com/watch?v=I0A8vBmfzWU)
-- [The Selecter - On My Radio Two Tone Records CHS TT4 A 1979](https://www.youtube.com/watch?v=3dI_fH3lC-E)
-- [The Selecter - Too Much Pressure Two Tone Records CHS TT4 B 1979](https://www.youtube.com/watch?v=rFT8kpSqHgQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +69,5 @@ The album was released in February 1980 on 2 Tone records. The record was commer
 | Format         | Vinyl LP Album (Clear), Vinyl 7" 45 RPM Single (Clear), All Media Limited Edition Reissue Remastered (40th Anniversary) |
 | Label          | Two-Tone Records |
 | Catalog Number | CDL TTH5002 |
-| Notes | Recorded at Horizon Studios, Coventry, Dec'79 to Jan'80. 40th anniversary edition Indie-Retail-Version on 180g Clear Vinyl 2021 Half-Speed Remaster by Alchemy At Air  "Anniversary" misspelt on OBI strip stating "40th Annivarsary" 'Carry Go Bring Home' instead of 'Carry Go Bring Come' on label and the inner sleeve image  ℗ & © 2021 Chrysalis Records Limited. Made in The UK.  Catalogue number on 'belly-band': CDL TTC 5002 Catalogue number on spine: CDL TTH5002 |
+| Notes | Recorded at Horizon Studios, Coventry, Dec'79 to Jan'80.<br>40th anniversary edition Indie-Retail-Version on 180g Clear Vinyl<br>2021 Half-Speed Remaster by Alchemy At Air<br><br>"Anniversary" misspelt on OBI strip stating "40th Annivarsary"<br>'Carry Go Bring Home' instead of 'Carry Go Bring Come' on label and the inner sleeve image<br><br>℗ & © 2021 Chrysalis Records Limited. Made in The UK.<br><br>Catalogue number on 'belly-band': CDL TTC 5002<br>Catalogue number on spine: CDL TTH5002 |
 | Discogs URL    | [The Selecter - Too Much Pressure](https://www.discogs.com/release/18421726-The-Selecter-Too-Much-Pressure) |

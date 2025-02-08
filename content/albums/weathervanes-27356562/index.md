@@ -68,37 +68,27 @@ This led to a fundamental shift in his approach to songwriting. “The more spec
 
 
 ## Tracklisting
-1. Death Wish (4:30)
-2. King of Oklahoma (5:02)
-3. Strawberry Woman (4:10)
-4. Middle of the Morning (4:40)
-5. Save the World (5:09)
-6. If You Insist (3:45)
-7. Cast Iron Skillet (3:24)
-8. When We Were Close (3:57)
-9. Volunteer (4:05)
-10. Vestavia Hills (4:31)
-11. White Beretta (3:56)
-12. This Ain't It (6:14)
-13. Miles (7:07)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A-1 | Death Wish | 4:30 |
+| A-2 | King of Oklahoma | 5:02 |
+| A-3 | Strawberry Woman | 4:10 |
+| A-4 | Middle of the Morning | 4:40 |
+| B-1 | Save the World | 5:09 |
+| B-2 | If You Insist | 3:45 |
+| B-3 | Cast Iron Skillet | 3:24 |
+| C-1 | When We Were Close | 3:57 |
+| C-2 | Volunteer | 4:05 |
+| C-3 | Vestavia Hills | 4:31 |
+| D-1 | White Beretta | 3:56 |
+| D-2 | This Ain't It | 6:14 |
+| D-3 | Miles | 7:07 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/weathervanes/1668182705" >}}<br>
 
 
-## Videos
-### When We Were Close
-{{< youtube id="cF141kKZ-nc" title="When We Were Close" >}}<br>
-### More Videos
-
-- [Miles](https://www.youtube.com/watch?v=iedYA61i4uU)
-- [Vestavia Hills](https://www.youtube.com/watch?v=EQE84XGfmzU)
-- [If You Insist](https://www.youtube.com/watch?v=yRi1ad_60KA)
-- [Volunteer](https://www.youtube.com/watch?v=6a36w_Q_o_w)
-- [Strawberry Woman](https://www.youtube.com/watch?v=_aNXp6uFtKU)
-- [White Beretta](https://www.youtube.com/watch?v=zOPJVLzASdI)
-- [Cast Iron Skillet](https://www.youtube.com/watch?v=hlMZJDHn9oY)
-- [King of Oklahoma](https://www.youtube.com/watch?v=GhIQRnl9zJE)
 
 ## Release Images
 {{< imageGrid >}}

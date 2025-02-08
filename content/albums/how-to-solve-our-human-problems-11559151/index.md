@@ -1,16 +1,17 @@
 ---
-title: "Belle & Sebastian - How To Solve Our Human Problems"
-artist_name: "Belle & Sebastian"
+title: "Belle  Sebastian - How To Solve Our Human Problems"
+artist_name: "Belle  Sebastian"
 artist: "belle-sebastian"
 album_name: "How To Solve Our Human Problems"
 date: 2018-02-16T18:48:21.000000Z
+release_date: "2018-02-16"
 release_id: "11559151"
 slug: "how-to-solve-our-human-problems-11559151"
 hideSummary: true
 cover:
     image: "how-to-solve-our-human-problems-11559151.jpg"
-    alt: "How To Solve Our Human Problems by Belle & Sebastian"
-    caption: "How To Solve Our Human Problems by Belle & Sebastian"
+    alt: "How To Solve Our Human Problems by Belle  Sebastian"
+    caption: "How To Solve Our Human Problems by Belle  Sebastian"
 additional_images:
     - "https://i.discogs.com/1nlSrr9EZfy2TXkJ60IwiIGSLMwZbAO9dajUWx_lIdg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU5/MTUxLTE1MjE0NzIx/MDQtMjE3MS5qcGVn.jpeg"
     - "https://i.discogs.com/qhB6hComMEznUzORWGIEfsvw1m9l5IWwiWadk562siQ/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTU5/MTUxLTE1MTkyMjA1/MTYtNjQ1Mi5qcGVn.jpeg"
@@ -45,42 +46,38 @@ styles: ["Indie Pop"]
 How to Solve Our Human Problems is the collective title of three EPs by the band Belle and Sebastian, released through Matador Records between 2017 and 2018. The EPs were eventually compiled as a compilation album on 16 February 2018.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Part One
-2. Sweet Dew Lee
-3. We Were Beautiful
-4. Fickle Season
-5. The Girl Doesn't Get It
-6. Everything Is Now
-7. Part Two
-8. Show Me The Sun
-9. The Same Star
-10. I'll Be Your Pilot
-11. Cornflakes
-12. A Plague On Other Boys
-13. Part Three
-14. Poor Boy
-15. Everything Is Now (Part Two)
-16. Too Many Tears
-17. There Is An Everlasting Song
-18. Best Friend
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Part One |  |
+| A1 | Sweet Dew Lee |  |
+| A2 | We Were Beautiful |  |
+| B1 | Fickle Season |  |
+| B2 | The Girl Doesn't Get It |  |
+| B3 | Everything Is Now |  |
+|  | Part Two |  |
+| C1 | Show Me The Sun |  |
+| C2 | The Same Star |  |
+| C3 | I'll Be Your Pilot |  |
+| D1 | Cornflakes |  |
+| D2 | A Plague On Other Boys |  |
+|  | Part Three |  |
+| E1 | Poor Boy |  |
+| E2 | Everything Is Now (Part Two) |  |
+| F1 | Too Many Tears |  |
+| F2 | There Is An Everlasting Song |  |
+| F3 | Best Friend |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/how-to-solve-our-human-problems-pt-1-3/1586487006" >}}<br>
 
 
-## Videos
-### Belle and Sebastian - We Were Beautiful
-{{< youtube id="qlAfus-n9-U" title="Belle and Sebastian - We Were Beautiful" >}}<br>
-### More Videos
-
-- [Belle and Sebastian - Ill Be Your Pilot](https://www.youtube.com/watch?v=JsL1fVhaNbg)
-- [Belle and Sebastian - We Were Beautiful](https://www.youtube.com/watch?v=qlAfus-n9-U)
-- [Belle and Sebastian - Ill Be Your Pilot](https://www.youtube.com/watch?v=JsL1fVhaNbg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -92,5 +89,5 @@ How to Solve Our Human Problems is the collective title of three EPs by the band
 | Format         | Box Set Compilation Limited Edition, Vinyl 12" EP, Vinyl 12" EP, Vinyl 12" EP |
 | Label          | Matador |
 | Catalog Number | OLE-1123-1 |
-| Notes | The catalog number OLE-1123-1 only appears on the sticker on the shrink wrap. The catalog number OLE-xxxxxxxx appears on the rear of the box. The other 3 catalog numbers appear on the sleeves of the EPs; OLE-1194-1 on part 1, OLE-1195-1 on part 2 and OLE-1196-1 on part 3.  ℗ 2017 Matador Records. © 2017 Matador Records.  Copies sold by [l993033] in Glasgow, Scotland came with a signed postcard set. There are 100 copies of the postcards split between the vinyl boxed set and CD versions. The ratio in which they were divided up is not known.  Comes with an exclusive poster and 3 download codes; one for each EP. The centre labels of part 2 are on the wrong sides of the disc. |
-| Discogs URL    | [Belle & Sebastian - How To Solve Our Human Problems](https://www.discogs.com/release/11559151-Belle-Sebastian-How-To-Solve-Our-Human-Problems) |
+| Notes | The catalog number OLE-1123-1 only appears on the sticker on the shrink wrap. The catalog number OLE-xxxxxxxx appears on the rear of the box. The other 3 catalog numbers appear on the sleeves of the EPs; OLE-1194-1 on part 1, OLE-1195-1 on part 2 and OLE-1196-1 on part 3.<br><br>℗ 2017 Matador Records. © 2017 Matador Records.<br><br>Copies sold by [l993033] in Glasgow, Scotland came with a signed postcard set. There are 100 copies of the postcards split between the vinyl boxed set and CD versions. The ratio in which they were divided up is not known.<br><br>Comes with an exclusive poster and 3 download codes; one for each EP. The centre labels of part 2 are on the wrong sides of the disc. |
+| Discogs URL    | [Belle  Sebastian - How To Solve Our Human Problems](https://www.discogs.com/release/11559151-Belle-Sebastian-How-To-Solve-Our-Human-Problems) |

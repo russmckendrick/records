@@ -4,6 +4,7 @@ artist_name: "Ozric Tentacles"
 artist: "ozric-tentacles"
 album_name: "Space For The Earth"
 date: 2020-12-05T04:23:50.000000Z
+release_date: "2020-10-09"
 release_id: "16031807"
 slug: "space-for-the-earth-16031807"
 hideSummary: true
@@ -31,29 +32,27 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 Space for the Earth is the fifteenth studio album by English progressive and psychedelic rock band Ozric Tentacles. The album was released on 9 October 2020 through the Kscope label. Written, recorded and produced by frontman Ed Wynne in his Blue Bubble studio in Scotland, the album features his son Silas Neptune on keyboards and Balázs Szende on drums, as well as several additional musicians many of which are former Ozric Tentacles members. The album was officially announced on 22 July 2020 followed by the release of the single "Humboldt Currant".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Stripey Clouds (6:37)
-2. Blooperdome (5:34)
-3. Humboldt Currant (6:59)
-4. Popscape (4:51)
-5. Climbing Plants (7:05)
-6. Space For The Earth (7:36)
-7. Harmonic Steps (6:35)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Stripey Clouds | 6:37 |
+| A2 | Blooperdome | 5:34 |
+| A3 | Humboldt Currant | 6:59 |
+| A4 | Popscape | 4:51 |
+| B1 | Climbing Plants | 7:05 |
+| B2 | Space For The Earth | 7:36 |
+| B3 | Harmonic Steps | 6:35 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/space-for-the-earth/1524291057" >}}<br>
 
 
-## Videos
-### Six Worlds An Unusual Journey
-{{< youtube id="g61LoK2WTKs" title="Six Worlds An Unusual Journey" >}}<br>
-### More Videos
-
-- [Ozric Tentacles - Space For The Earth The Tour That Didnt Happen Edition](https://www.youtube.com/watch?v=8BhxyZ3zGyI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +64,5 @@ Space for the Earth is the fifteenth studio album by English progressive and psy
 | Format         | Vinyl LP Album (180 Gram) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1078 |
-| Notes | Recorded & Produced at Blue Bubble Studio, Fife, UK in 2019–2020. Comes with printed inner sleeve. Some copies come with ''Kscope'' marketing leaflet.  Sticker says: „Ozric Tentacles Space for the Earth 180g HEAVYWEIGT VINYL The new studio album featuring guest appearances from former members Joie Hinton, Nick van Gelder, Champignon and Paul Hankin. „This is space music for people from Earth to enjoy“ ED WYNNE ⓚscope 1078  kscopemusic.com“   ℗ 2020 Kscope © 2020 Kscope Made in the EU.  All runouts etched |
+| Notes | Recorded & Produced at Blue Bubble Studio, Fife, UK in 2019–2020.<br>Comes with printed inner sleeve.<br>Some copies come with ''Kscope'' marketing leaflet.<br><br>Sticker says:<br>„Ozric Tentacles<br>Space for the Earth<br>180g HEAVYWEIGT VINYL<br>The new studio album featuring<br>guest appearances from former<br>members Joie Hinton, Nick van<br>Gelder, Champignon and Paul<br>Hankin.<br>„This is space music for people<br>from Earth to enjoy“<br>ED WYNNE<br>ⓚscope 1078  kscopemusic.com“<br><br><br>℗ 2020 Kscope © 2020 Kscope<br>Made in the EU.<br><br>All runouts etched |
 | Discogs URL    | [Ozric Tentacles - Space For The Earth](https://www.discogs.com/release/16031807-Ozric-Tentacles-Space-For-The-Earth) |

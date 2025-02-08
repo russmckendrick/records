@@ -4,6 +4,7 @@ artist_name: "David Bowie"
 artist: "david-bowie"
 album_name: "ChangesOneBowie"
 date: 2016-05-20T19:02:02.000000Z
+release_date: "1976-05-20"
 release_id: "8518115"
 slug: "changesonebowie-8518115"
 hideSummary: true
@@ -28,26 +29,29 @@ Two of the tracks, "Ziggy Stardust" and "Suffragette City", had never been relea
 The album was followed up by a companion compilation, Changestwobowie, in 1981.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Space Oddity (5:10)
-2. John, I'm Only Dancing (2:43)
-3. Changes (3:34)
-4. Ziggy Stardust (3:13)
-5. Suffragette City (3:20)
-6. The Jean Genie (4:04)
-7. Diamond Dogs (5:58)
-8. Rebel Rebel (4:25)
-9. Young Americans (5:07)
-10. Fame (4:10)
-11. Golden Years (3:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Space Oddity | 5:10 |
+| A2 | John, I'm Only Dancing | 2:43 |
+| A3 | Changes | 3:34 |
+| A4 | Ziggy Stardust | 3:13 |
+| A5 | Suffragette City | 3:20 |
+| A6 | The Jean Genie | 4:04 |
+| B1 | Diamond Dogs | 5:58 |
+| B2 | Rebel Rebel | 4:25 |
+| B3 | Young Americans | 5:07 |
+| B4 | Fame | 4:10 |
+| B5 | Golden Years | 3:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/changesonebowie-2016-remaster/1090470635" >}}<br>
-
 
 
 
@@ -61,5 +65,5 @@ The album was followed up by a companion compilation, Changestwobowie, in 1981.
 | Format         | Vinyl LP Compilation Reissue (Clear, 180g) |
 | Label          | Parlophone |
 | Catalog Number | COBLP 2016 |
-| Notes | Sticker: "40th Anniversary Edition Of The Classic Compilation Album On 180g Heavyweight Vinyl" on front of the sleeve. Half of the copies are on clear vinyl (this release), half on [url=https://www.discogs.com/release/8527561]black vinyl[/url]. No mention of the vinyl colour on the sleeve or the sticker.  |
+| Notes | Sticker: "40th Anniversary Edition Of The Classic Compilation Album On 180g Heavyweight Vinyl" on front of the sleeve.<br>Half of the copies are on clear vinyl (this release), half on [url=https://www.discogs.com/release/8527561]black vinyl[/url].<br>No mention of the vinyl colour on the sleeve or the sticker.<br> |
 | Discogs URL    | [David Bowie - ChangesOneBowie](https://www.discogs.com/release/8518115-David-Bowie-ChangesOneBowie) |

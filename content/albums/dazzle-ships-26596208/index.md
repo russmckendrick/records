@@ -4,6 +4,7 @@ artist_name: "Orchestral Manoeuvres In The Dark"
 artist: "orchestral-manoeuvres-in-the-dark"
 album_name: "Dazzle Ships"
 date: 2023-04-03T04:19:48.000000Z
+release_date: "1980-02-22"
 release_id: "26596208"
 slug: "dazzle-ships-26596208"
 hideSummary: true
@@ -30,51 +31,39 @@ The follow-up album to OMD's commercially successful Architecture & Morality (19
 Dazzle Ships met with largely negative reviews and, despite reaching the top five of the UK Albums Chart, was regarded as a commercial flop. It nevertheless came to be recognised as a "cult classic", and an inspiration for many artists across electronic, rock and hip hop music. The music press gradually reversed its opinion of Dazzle Ships, praising the record as an underrated and misunderstood work, and an album ahead of its time.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Radio Prague (1:18)
-2. Genetic Engineering (3:42)
-3. ABC Auto-Industry (2:06)
-4. Telegraph (2:57)
-5. This Is Helena (1:58)
-6. International (4:26)
-7. Dazzle Ships (Parts II, III & VII) (2:21)
-8. The Romance Of The Telescope (3:26)
-9. Silent Running (3:33)
-10. Radio Waves (3:44)
-11. Time Zones (1:49)
-12. Of All The Things We've Made (3:23)
-13. Telegraph 82 (Very Early Demo) (2:50)
-14. Silent Running (Demo) (3:25)
-15. Sold Our Souls (The Avenue Demo) (3:12)
-16. Shakespeare 82 (0:50)
-17. Untitled Instrumental 82 (3:22)
-18. In Heaven Above (4-NEU Demo) (2:51)
-19. Telegraph (Live 1984) (3:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Radio Prague | 1:18 |
+| A2 | Genetic Engineering | 3:42 |
+| A3 | ABC Auto-Industry | 2:06 |
+| A4 | Telegraph | 2:57 |
+| A5 | This Is Helena | 1:58 |
+| A6 | International | 4:26 |
+| B1 | Dazzle Ships (Parts II, III & VII) | 2:21 |
+| B2 | The Romance Of The Telescope | 3:26 |
+| B3 | Silent Running | 3:33 |
+| B4 | Radio Waves | 3:44 |
+| B5 | Time Zones | 1:49 |
+| B6 | Of All The Things We've Made | 3:23 |
+| C1 | Telegraph 82 (Very Early Demo) | 2:50 |
+| C2 | Silent Running (Demo) | 3:25 |
+| C3 | Sold Our Souls (The Avenue Demo) | 3:12 |
+| C4 | Shakespeare 82 | 0:50 |
+| D1 | Untitled Instrumental 82 | 3:22 |
+| D2 | In Heaven Above (4-NEU Demo) | 2:51 |
+| D3 | Telegraph (Live 1984) | 3:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/orchestral-manoeuvres-in-the-dark/714727396" >}}<br>
 
 
-## Videos
-### Radio Prague
-{{< youtube id="9oWSJpIHhYk" title="Radio Prague" >}}<br>
-### More Videos
-
-- [Orchestral Manoeuvres In The Dark - Genetic Engineering](https://www.youtube.com/watch?v=OddgsPyCJmU)
-- [ABC Auto-Industry](https://www.youtube.com/watch?v=fiYgNf9cHnw)
-- [Orchestral Manoeuvres In The Dark - Telegraph](https://www.youtube.com/watch?v=rXXM60niKbg)
-- [This Is Helena](https://www.youtube.com/watch?v=eW7IPtWG26I)
-- [International](https://www.youtube.com/watch?v=erhpHvPVxuo)
-- [Dazzle Ships Parts II III And VII](https://www.youtube.com/watch?v=wy3IxefErus)
-- [The Romance Of The Telescope](https://www.youtube.com/watch?v=DHuNv-yfRK4)
-- [Silent Running](https://www.youtube.com/watch?v=aO5z33JrRJU)
-- [Radio Waves](https://www.youtube.com/watch?v=Evas4RwWg-I)
-- [Time Zones](https://www.youtube.com/watch?v=lwx8A0XUpfM)
-- [Of All The Things Weve Made](https://www.youtube.com/watch?v=HgNBbUiAaQo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +75,5 @@ Dazzle Ships met with largely negative reviews and, despite reaching the top fiv
 | Format         | Vinyl LP Reissue Repress (Silver), Vinyl LP (Blue), All Media Album Limited Edition Stereo (40th Anniversary Edition) |
 | Label          | Virgin |
 | Catalog Number | 0602448814920 |
-| Notes | An EMI Release; ℗ 2023 Virgin Records Limited. © 2023 Virgin Records Limited. Made in the EU.  In addition to the text on the front "Made in the EU" (Hypesticker) there is also an additional sticker at the back "Made in Germany". |
+| Notes | An EMI Release; ℗ 2023 Virgin Records Limited. © 2023 Virgin Records Limited.<br>Made in the EU.<br><br>In addition to the text on the front "Made in the EU" (Hypesticker) there is also an additional sticker at the back "Made in Germany". |
 | Discogs URL    | [Orchestral Manoeuvres In The Dark - Dazzle Ships](https://www.discogs.com/release/26596208-OMD-Dazzle-Ships) |

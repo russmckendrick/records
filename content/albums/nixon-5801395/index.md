@@ -4,6 +4,7 @@ artist_name: "Lambchop"
 artist: "lambchop"
 album_name: "Nixon"
 date: 2017-12-28T13:29:25.000000Z
+release_date: "2000"
 release_id: "5801395"
 slug: "nixon-5801395"
 hideSummary: true
@@ -26,40 +27,30 @@ Nixon is the fifth studio album by American rock band Lambchop. It was released 
 Nixon became a breakthrough release for Lambchop in the United Kingdom, where it received critical acclaim and was named among the best albums of 2000 by numerous publications.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Old Gold Shoe (6:20)
-2. Grumpus (4:19)
-3. You Masculine You (5:59)
-4. Up With People (5:59)
-5. Nashville Parent (5:38)
-6. What Else Could It Be? (3:39)
-7. The Distance From Her To There (4:20)
-8. The Book I Haven't Read (5:44)
-9. The Petrified Florist (4:52)
-10. The Butcher Boy (2:51)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Old Gold Shoe | 6:20 |
+| A2 | Grumpus | 4:19 |
+| A3 | You Masculine You | 5:59 |
+| A4 | Up With People | 5:59 |
+| B1 | Nashville Parent | 5:38 |
+| B2 | What Else Could It Be? | 3:39 |
+| B3 | The Distance From Her To There | 4:20 |
+| B4 | The Book I Haven't Read | 5:44 |
+| B5 | The Petrified Florist | 4:52 |
+| B6 | The Butcher Boy | 2:51 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nixon/1721056352" >}}<br>
 
 
-## Videos
-### The Old Gold Shoe
-{{< youtube id="p7wc-ePLF5I" title="The Old Gold Shoe" >}}<br>
-### More Videos
-
-- [Grumpus](https://www.youtube.com/watch?v=r-2CfhuehRc)
-- [You Masculine You](https://www.youtube.com/watch?v=JfW2ILrKcko)
-- [Lambchop - Up With People](https://www.youtube.com/watch?v=M4PxY_RPBeM)
-- [Nashville Parent](https://www.youtube.com/watch?v=uETqdop3NHw)
-- [What Else Could It Be](https://www.youtube.com/watch?v=-MjootNdfQg)
-- [The Distance from Her](https://www.youtube.com/watch?v=c88_8Hn1x9c)
-- [The Book I Havent Read](https://www.youtube.com/watch?v=ZK3g-33UNao)
-- [Petrified Florist](https://www.youtube.com/watch?v=jNyZOoNuSRI)
-- [Butcher Boy](https://www.youtube.com/watch?v=wTxTgYEYpRw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +62,5 @@ Nixon became a breakthrough release for Lambchop in the United Kingdom, where it
 | Format         | Vinyl LP Album Reissue (180gram) |
 | Label          | City Slang |
 | Catalog Number | SLANG50044LP |
-| Notes | Comes with lyrics insert and download card for a one-off mp3 download of the album.   |
+| Notes | Comes with lyrics insert and download card for a one-off mp3 download of the album. <br> |
 | Discogs URL    | [Lambchop - Nixon](https://www.discogs.com/release/5801395-Lambchop-Nixon) |

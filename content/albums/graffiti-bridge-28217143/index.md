@@ -36,31 +36,30 @@ The album was much better received in sales than the film. It reached number 6 i
 
 
 ## Tracklisting
-1. Can't Stop This Feeling I Got
-2. New Power Generation
-3. Release It
-4. The Question Of U
-5. Elephants & Flowers
-6. Round And Round
-7. We Can Funk
-8. Joy In Repetition
-9. Love Machine
-10. Tick, Tick, Bang
-11. Shake!
-12. Thieves In The Temple
-13. The Latest Fashion
-14. Melody Cool
-15. Still Would Stand All Time (5:23)
-16. Graffiti Bridge
-17. New Power Generation (Pt. II)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Can't Stop This Feeling I Got |  |
+| A2 | New Power Generation |  |
+| A3 | Release It |  |
+| A4 | The Question Of U |  |
+| B1 | Elephants & Flowers |  |
+| B2 | Round And Round |  |
+| B3 | We Can Funk |  |
+| B4 | Joy In Repetition |  |
+| C1 | Love Machine |  |
+| C2 | Tick, Tick, Bang |  |
+| C3 | Shake! |  |
+| C4 | Thieves In The Temple |  |
+| D1 | The Latest Fashion |  |
+| D2 | Melody Cool |  |
+| D3 | Still Would Stand All Time | 5:23 |
+| D4 | Graffiti Bridge |  |
+| D5 | New Power Generation (Pt. II) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/graffiti-bridge/212854444" >}}<br>
 
-
-## Videos
-### Prince Still Would Stand All Time
-{{< youtube id="yfnfK1DTdlY" title="Prince Still Would Stand All Time" >}}<br>
 
 
 ## Release Images

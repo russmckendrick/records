@@ -4,6 +4,7 @@ artist_name: "John Cale"
 artist: "john-cale"
 album_name: "Paris 1919"
 date: 2016-10-14T12:58:46.000000Z
+release_date: "1973-02-25"
 release_id: "8726836"
 slug: "paris-1919-8726836"
 hideSummary: true
@@ -26,38 +27,29 @@ In contrast to the experimental nature of much of John Cale's work before and af
 The album has received critical praise from several publications over the years, including AllMusic and Rolling Stone.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Child's Christmas In Wales (3:19)
-2. Hanky Panky Nohow (2:43)
-3. The Endless Plain Of Fortune (4:10)
-4. Andalucia (3:51)
-5. Macbeth (3:04)
-6. Paris 1919 (4:03)
-7. Graham Greene (2:59)
-8. Half Past France (4:17)
-9. Antartica Starts Here (2:53)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Child's Christmas In Wales | 3:19 |
+| A2 | Hanky Panky Nohow | 2:43 |
+| A3 | The Endless Plain Of Fortune | 4:10 |
+| A4 | Andalucia | 3:51 |
+| A5 | Macbeth | 3:04 |
+| B6 | Paris 1919 | 4:03 |
+| B7 | Graham Greene | 2:59 |
+| B8 | Half Past France | 4:17 |
+| B9 | Antartica Starts Here | 2:53 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/paris-1919/1251616879" >}}<br>
 
 
-## Videos
-### Childs Christmas In Wales
-{{< youtube id="VUwjejvhXOY" title="Childs Christmas In Wales" >}}<br>
-### More Videos
-
-- [Hanky Panky Nohow](https://www.youtube.com/watch?v=1N5rx_P1irs)
-- [The Endless Plain Of Fortune](https://www.youtube.com/watch?v=KFf19OGAAFE)
-- [Andalucia](https://www.youtube.com/watch?v=wR2Y08yty9g)
-- [Macbeth](https://www.youtube.com/watch?v=XhZKaL5RrTI)
-- [Paris 1919](https://www.youtube.com/watch?v=r1NmrknzeLg)
-- [Graham Greene](https://www.youtube.com/watch?v=tGtS8GMVt2I)
-- [Half Past France](https://www.youtube.com/watch?v=OmzBtJ5AayE)
-- [Antarctica Starts Here](https://www.youtube.com/watch?v=QM2vQzl1xos)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +61,5 @@ The album has received critical praise from several publications over the years,
 | Format         | Vinyl LP Album Stereo |
 | Label          | Reprise Records |
 | Catalog Number | K44239 |
-| Notes | The same as [url=https://www.discogs.com/release/861265]this edition[/url] but with different inscription along the edge of label. Includes lyric insert.  On back cover: K44239 (MS 2131) Stereo  A Reprise Recording distributed by WEA Records Ltd. ℗ 1973 © Shorepak by Shorewood Packaging Co. Ltd., England  On label: Made in UK 33⅓ RPM  K 44239 (MS 2131) ℗ 1973 |
+| Notes | The same as [url=https://www.discogs.com/release/861265]this edition[/url] but with different inscription along the edge of label. Includes lyric insert.<br><br>On back cover:<br>K44239<br>(MS 2131)<br>Stereo<br><br>A Reprise Recording distributed by WEA Records Ltd. ℗ 1973 ©<br>Shorepak by Shorewood Packaging Co. Ltd., England<br><br>On label:<br>Made in UK<br>33⅓ RPM<br><br>K 44239<br>(MS 2131)<br>℗ 1973 |
 | Discogs URL    | [John Cale - Paris 1919](https://www.discogs.com/release/8726836-John-Cale-Paris-1919) |

@@ -4,6 +4,7 @@ artist_name: "Airborn Audio"
 artist: "airborn-audio"
 album_name: "Good Fortune"
 date: 2020-08-01T12:46:45.000000Z
+release_date: "2005-02-22"
 release_id: "1595178"
 slug: "good-fortune-1595178"
 hideSummary: true
@@ -22,76 +23,35 @@ After the suspension of his original directorial debut Being Mortal at Searchlig
 Good Fortune is scheduled to be released in the United States on October 17, 2025.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Monday Through Sunday (4:24)
-2. Brights Lights (2:39)
-3. Miami / The Jungle (2:08)
-4. Know Who You Are (1:26)
-5. Inside The Globe (3:20)
-6. Best Shit In The World (3:02)
-7. House Of Mirrors (3:27)
-8. This Year (3:14)
-9. Now I Lay Me Down (3:52)
-10. My Eyes (2:49)
-11. Wings (3:23)
-12. Paradise (3:31)
-13. Close Your Eyes (2:05)
-14. NYC (3:37)
-15. Trust Me (0:28)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Monday Through Sunday | 4:24 |
+| A2 | Brights Lights | 2:39 |
+| A3 | Miami / The Jungle | 2:08 |
+| A4 | Know Who You Are | 1:26 |
+| A5 | Inside The Globe | 3:20 |
+| A6 | Best Shit In The World | 3:02 |
+| A7 | House Of Mirrors | 3:27 |
+| B1 | This Year | 3:14 |
+| B2 | Now I Lay Me Down | 3:52 |
+| B3 | My Eyes | 2:49 |
+| B4 | Wings | 3:23 |
+| B5 | Paradise | 3:31 |
+| B6 | Close Your Eyes | 2:05 |
+| B7 | NYC | 3:37 |
+| B8 | Trust Me | 0:28 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/good-fortune/416266336" >}}<br>
 
 
-## Videos
-### Airborn AudioMSayyid  High Priest - Paradise
-{{< youtube id="At0t0VPHwNY" title="Airborn AudioMSayyid  High Priest - Paradise" >}}<br>
-### More Videos
-
-- [Airborn AudioM Sayyid  High Priest - This Year](https://www.youtube.com/watch?v=g6CBFUJaMyY)
-- [Airborn Audio - Monday Through Sunday](https://www.youtube.com/watch?v=2YJIw-9XIxI)
-- [Airborn Audio -  Mon thru sun](https://www.youtube.com/watch?v=B1pZMq5_0nI)
-- [Monday Through Sunday](https://www.youtube.com/watch?v=7EBreTusIcQ)
-- [This Year](https://www.youtube.com/watch?v=JeVQ2RRglJ4)
-- [Wings](https://www.youtube.com/watch?v=W7rq5HQoqqs)
-- [Paradise](https://www.youtube.com/watch?v=ODwQUelbxiA)
-- [Bright Lights](https://www.youtube.com/watch?v=rsBFX6_nQGc)
-- [NYC](https://www.youtube.com/watch?v=7wKTllBu0yc)
-- [Best Shit In the World](https://www.youtube.com/watch?v=LtBUZHWB9Ho)
-- [Know Who You Are](https://www.youtube.com/watch?v=lXCHuXpnOBU)
-- [My Eyes](https://www.youtube.com/watch?v=n-j2NiFCe2E)
-- [Inside the Globe](https://www.youtube.com/watch?v=CdP2D2J-6Rg)
-- [Now I Lay Me Down](https://www.youtube.com/watch?v=e-kSPNzLMtc)
-- [House of Mirrors](https://www.youtube.com/watch?v=QbT-wJBvu_0)
-- [Close Your Eyes](https://www.youtube.com/watch?v=6bs1B9tklHo)
-- [Trust Me](https://www.youtube.com/watch?v=5EDIcZehxFI)
-- [Airborn Audio  House Of Mirrors Edit 2005](https://www.youtube.com/watch?v=34YvDmBqhpA)
-- [Airborn Audio - This Year Unofficial Music Video](https://www.youtube.com/watch?v=wkUzklrqM4o)
-- [Airborn AudioMSayyid  High Priest - Paradise](https://www.youtube.com/watch?v=At0t0VPHwNY)
-- [Airborn AudioM Sayyid  High Priest - This Year](https://www.youtube.com/watch?v=g6CBFUJaMyY)
-- [Airborn Audio - Monday Through Sunday](https://www.youtube.com/watch?v=2YJIw-9XIxI)
-- [Airborn Audio -  Mon thru sun](https://www.youtube.com/watch?v=B1pZMq5_0nI)
-- [Monday Through Sunday](https://www.youtube.com/watch?v=7EBreTusIcQ)
-- [This Year](https://www.youtube.com/watch?v=JeVQ2RRglJ4)
-- [Wings](https://www.youtube.com/watch?v=W7rq5HQoqqs)
-- [Paradise](https://www.youtube.com/watch?v=ODwQUelbxiA)
-- [Bright Lights](https://www.youtube.com/watch?v=rsBFX6_nQGc)
-- [NYC](https://www.youtube.com/watch?v=7wKTllBu0yc)
-- [Best Shit In the World](https://www.youtube.com/watch?v=LtBUZHWB9Ho)
-- [Know Who You Are](https://www.youtube.com/watch?v=lXCHuXpnOBU)
-- [My Eyes](https://www.youtube.com/watch?v=n-j2NiFCe2E)
-- [Inside the Globe](https://www.youtube.com/watch?v=CdP2D2J-6Rg)
-- [Now I Lay Me Down](https://www.youtube.com/watch?v=e-kSPNzLMtc)
-- [House of Mirrors](https://www.youtube.com/watch?v=QbT-wJBvu_0)
-- [Close Your Eyes](https://www.youtube.com/watch?v=6bs1B9tklHo)
-- [Trust Me](https://www.youtube.com/watch?v=5EDIcZehxFI)
-- [Airborn Audio  House Of Mirrors Edit 2005](https://www.youtube.com/watch?v=34YvDmBqhpA)
-- [Airborn Audio - This Year Unofficial Music Video](https://www.youtube.com/watch?v=wkUzklrqM4o)
-- [Airborn AudioM Sayyid  High Priest - This Year](https://www.youtube.com/watch?v=g6CBFUJaMyY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -103,5 +63,5 @@ Good Fortune is scheduled to be released in the United States on October 17, 202
 | Format         | Vinyl LP Album |
 | Label          | Ninja Tune |
 | Catalog Number | ZEN 95 |
-| Notes | Recorded at Courtstorm Studios NY except A3, A5 and B5 recorded and mixed at Q Studios.  Printed in Canada.    Comes with an 12" photography (photocopy).   |
+| Notes | Recorded at Courtstorm Studios NY except A3, A5 and B5 recorded and mixed at Q Studios.<br>Printed in Canada.<br><br>Comes with an 12" photography (photocopy).<br> |
 | Discogs URL    | [Airborn Audio - Good Fortune](https://www.discogs.com/release/1595178-Airborn-Audio-Good-Fortune) |

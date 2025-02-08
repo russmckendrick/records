@@ -4,6 +4,7 @@ artist_name: "Joy Division"
 artist: "joy-division"
 album_name: "Love Will Tear Us Apart"
 date: 2020-07-17T12:24:17.000000Z
+release_date: "1995"
 release_id: "15622231"
 slug: "love-will-tear-us-apart-15622231"
 hideSummary: true
@@ -23,29 +24,23 @@ styles: ["New Wave", "Post-Punk"]
 
 "Love Will Tear Us Apart" is a song by English rock band Joy Division, released on June 27, 1980 as a non-album single. Its lyrics were inspired by lead singer Ian Curtis's marital problems and struggles with epilepsy. The single was released the month after his suicide.
 The song was certified double platinum in the UK, selling and streaming over 1,200,000 units, and has an ongoing legacy as a defining song of the era. In 2002, NME named "Love Will Tear Us Apart" as the greatest single of all time, while Rolling Stone named it one of the 500 greatest songs ever in 2004, 2010, and 2021.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Love Will Tear Us Apart
-2. These Days
-3. Love Will Tear Us Apart
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Love Will Tear Us Apart |  |
+| B1 | These Days |  |
+| B2 | Love Will Tear Us Apart |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/love-will-tear-us-apart-single/429822858" >}}<br>
 
 
-## Videos
-### Love Will Tear Us Apart 2010 Remaster
-{{< youtube id="mAAqKx4aD_g" title="Love Will Tear Us Apart 2010 Remaster" >}}<br>
-### More Videos
-
-- [These Days 2010 Remaster](https://www.youtube.com/watch?v=6g_b0xr9rZs)
-- [Love Will Tear Us Apart 2 Pennine Version 2010 Remaster](https://www.youtube.com/watch?v=qjJS9fan5sM)
-- [Joy Division - Love Will Tear Us Apart OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=zuuObGsB0No)
-- [Joy Division - Love Will Tear Us Apart 1995 Remastered Version Official Video](https://www.youtube.com/watch?v=674KGKRQBPE)
-- [Joy Division - Love Will Tear Us Apart Official Lyric Video](https://www.youtube.com/watch?v=Vl4yPKd6a1U)
 
 ## Release Images
 {{< imageGrid >}}

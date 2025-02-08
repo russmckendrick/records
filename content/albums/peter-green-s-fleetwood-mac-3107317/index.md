@@ -4,6 +4,7 @@ artist_name: "Fleetwood Mac"
 artist: "fleetwood-mac"
 album_name: "Peter Green's Fleetwood Mac"
 date: 2017-09-09T10:32:13.000000Z
+release_date: "2003-05-27"
 release_id: "3107317"
 slug: "peter-green-s-fleetwood-mac-3107317"
 hideSummary: true
@@ -21,34 +22,31 @@ styles: ["Blues Rock", "Pop Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. My Heart Beat Like A Hammer (2:57)
-2. Merry Go Round (4:07)
-3. Long Grey Mare (2:14)
-4. Hellhound On My Trail (1:59)
-5. Shake Your Moneymaker (2:55)
-6. Looking For Somebody (2:50)
-7. No Place To Go (3:20)
-8. My Baby's Good To Me (2:50)
-9. I Loved Another Woman (2:55)
-10. Cold Black Night (3:16)
-11. The World Keep On Turning (2:28)
-12. Got To Move (3:19)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | My Heart Beat Like A Hammer | 2:57 |
+| A2 | Merry Go Round | 4:07 |
+| A3 | Long Grey Mare | 2:14 |
+| A4 | Hellhound On My Trail | 1:59 |
+| A5 | Shake Your Moneymaker | 2:55 |
+| A6 | Looking For Somebody | 2:50 |
+| B1 | No Place To Go | 3:20 |
+| B2 | My Baby's Good To Me | 2:50 |
+| B3 | I Loved Another Woman | 2:55 |
+| B4 | Cold Black Night | 3:16 |
+| B5 | The World Keep On Turning | 2:28 |
+| B6 | Got To Move | 3:19 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-peter-greens-fleetwood-mac/459432385" >}}<br>
 
 
-## Videos
-### peter greens fleetwood mac - need your love so bad
-{{< youtube id="RtmW2ek7WkQ" title="peter greens fleetwood mac - need your love so bad" >}}<br>
-### More Videos
-
-- [Peter Greens Fleetwood Mac  1968  Expanded Edition](https://www.youtube.com/watch?v=mF9wRyQGv1k)
-- [FLEETWOOD MAC - LP 1968 Full Album](https://www.youtube.com/watch?v=AvG1TxEQlos)
-- [Fleetwood Mac - Shake Your Moneymaker Audio](https://www.youtube.com/watch?v=apL8sYeuOks)
-- [Fleetwood Mac Peter Green - I love another woman](https://www.youtube.com/watch?v=Rdik8L_Wxx4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,5 +57,5 @@ styles: ["Blues Rock", "Pop Rock"]
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP339 |
-| Notes | Plain white poly-lined paper inner sleeve.  A Blue Horizon Production  Originally released ℗ & © 1968 Sony Music Entertainment. This release ℗ & © 2011 Sony Music Entertainment.  Made in the EU.  There's also a 2018 Music On Vinyl reissue on [url=https://www.discogs.com/release/12732203]blue vinyl[/url]. |
+| Notes | Plain white poly-lined paper inner sleeve.<br><br>A Blue Horizon Production<br><br>Originally released ℗ & © 1968 Sony Music Entertainment. This release ℗ & © 2011 Sony Music Entertainment. <br>Made in the EU.<br><br>There's also a 2018 Music On Vinyl reissue on [url=https://www.discogs.com/release/12732203]blue vinyl[/url]. |
 | Discogs URL    | [Fleetwood Mac - Peter Green's Fleetwood Mac](https://www.discogs.com/release/3107317-Fleetwood-Mac-Peter-Greens-Fleetwood-Mac) |

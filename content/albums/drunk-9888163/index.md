@@ -48,61 +48,37 @@ styles: ["Jazz-Funk", "Neo Soul", "Fusion", "Contemporary R&B", "Experimental"]
 
 
 ## Tracklisting
-1. Rabbot Ho (0:38)
-2. Captain Stupido (1:41)
-3. Uh Uh (2:16)
-4. Bus In These Streets (2:24)
-5. A Fan's Mail (Tron Song Suite II) (2:38)
-6. Lava Lamp (2:58)
-7. Jethro (1:34)
-8. Day & Night (0:37)
-9. Show You The Way (3:34)
-10. Walk On By (3:19)
-11. Blackkk (1:59)
-12. Tokyo (2:24)
-13. Jameel's Space Ride (1:09)
-14. Friend Zone (3:12)
-15. Them Changes (3:08)
-16. Where I'm Going (2:09)
-17. Drink Dat (3:35)
-18. Inferno (4:00)
-19. I Am Crazy (0:25)
-20. 3AM (1:15)
-21. Drunk (1:42)
-22. The Turn Down (2:29)
-23. DUI (2:18)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rabbot Ho | 0:38 |
+| A2 | Captain Stupido | 1:41 |
+| A3 | Uh Uh | 2:16 |
+| A4 | Bus In These Streets | 2:24 |
+| B1 | A Fan's Mail (Tron Song Suite II) | 2:38 |
+| B2 | Lava Lamp | 2:58 |
+| B3 | Jethro | 1:34 |
+| C1 | Day & Night | 0:37 |
+| C2 | Show You The Way | 3:34 |
+| C3 | Walk On By | 3:19 |
+| D1 | Blackkk | 1:59 |
+| D2 | Tokyo | 2:24 |
+| D3 | Jameel's Space Ride | 1:09 |
+| E1 | Friend Zone | 3:12 |
+| E2 | Them Changes | 3:08 |
+| F1 | Where I'm Going | 2:09 |
+| F2 | Drink Dat | 3:35 |
+| G1 | Inferno | 4:00 |
+| G2 | I Am Crazy | 0:25 |
+| G3 | 3AM | 1:15 |
+| H1 | Drunk | 1:42 |
+| H2 | The Turn Down | 2:29 |
+| H3 | DUI | 2:18 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/drunk/1197789099" >}}<br>
 
 
-## Videos
-### Thundercat - Tokyo Official Video
-{{< youtube id="SZzjw2UfUEk" title="Thundercat - Tokyo Official Video" >}}<br>
-### More Videos
-
-- [Thundercat - Them Changes Official Video](https://www.youtube.com/watch?v=GNCd_ERZvZM)
-- [Thundercat - Friend Zone](https://www.youtube.com/watch?v=FqE_H1A-8B4)
-- [Thundercat - Walk On By feat Kendrick Lamar](https://www.youtube.com/watch?v=wV8HYokDWeE)
-- [Thundercat - Drunk](https://www.youtube.com/watch?v=McA_CgwoG-w)
-- [Thundercat - Drink Dat feat Wiz Khalifa](https://www.youtube.com/watch?v=_pxpTZpdZ-U)
-- [Thundercat - Uh Uh](https://www.youtube.com/watch?v=9lHjeEkS1WE)
-- [Thundercat - A Fans Mail Tron Song Suite II](https://www.youtube.com/watch?v=g8f5CtP0nT4)
-- [Thundercat - Lava Lamp](https://www.youtube.com/watch?v=KMPjX_3snfM)
-- [Thundercat - Jethro](https://www.youtube.com/watch?v=_ukKdTBwxCA)
-- [Thundercat - Drunk 2017 Full Album](https://www.youtube.com/watch?v=PVnGDwdom7c)
-- [Thundercat - Tokyo Official Video](https://www.youtube.com/watch?v=SZzjw2UfUEk)
-- [Thundercat - Them Changes Official Video](https://www.youtube.com/watch?v=GNCd_ERZvZM)
-- [Thundercat - Friend Zone](https://www.youtube.com/watch?v=FqE_H1A-8B4)
-- [Thundercat - Walk On By feat Kendrick Lamar](https://www.youtube.com/watch?v=wV8HYokDWeE)
-- [Thundercat - Drunk](https://www.youtube.com/watch?v=McA_CgwoG-w)
-- [Thundercat - Drink Dat feat Wiz Khalifa](https://www.youtube.com/watch?v=_pxpTZpdZ-U)
-- [Thundercat - Uh Uh](https://www.youtube.com/watch?v=9lHjeEkS1WE)
-- [Thundercat - A Fans Mail Tron Song Suite II](https://www.youtube.com/watch?v=g8f5CtP0nT4)
-- [Thundercat - Lava Lamp](https://www.youtube.com/watch?v=KMPjX_3snfM)
-- [Thundercat - Jethro](https://www.youtube.com/watch?v=_ukKdTBwxCA)
-- [Thundercat - Drunk 2017 Full Album](https://www.youtube.com/watch?v=PVnGDwdom7c)
-- [Thundercat - Hi feat Mac Miller](https://www.youtube.com/watch?v=_lRqsAVBonI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -113,5 +89,5 @@ styles: ["Jazz-Funk", "Neo Soul", "Fusion", "Contemporary R&B", "Experimental"]
 | Format         | Vinyl 4× 10" 45 RPM (Red), Box Set Album |
 | Label          | Brainfeeder |
 | Catalog Number | BF064 |
-| Notes | Manufactured in EU.  P & C Brainfeeder 2017  included download code. (44.1kHz/24bit WAV Version and 320kbps MP3 Version)  Runouts are etched. |
+| Notes | Manufactured in EU.<br><br>P & C Brainfeeder 2017<br><br>included download code. (44.1kHz/24bit WAV Version and 320kbps MP3 Version)<br><br>Runouts are etched. |
 | Discogs URL    | [Thundercat - Drunk](https://www.discogs.com/release/9888163-Thundercat-Drunk) |

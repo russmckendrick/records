@@ -4,6 +4,7 @@ artist_name: "Faith No More"
 artist: "faith-no-more"
 album_name: "Who Cares A Lot? The Greatest Hits"
 date: 2021-03-29T05:07:09.000000Z
+release_date: "2000-09-04"
 release_id: "17063952"
 slug: "who-cares-a-lot-the-greatest-hits-17063952"
 hideSummary: true
@@ -29,44 +30,34 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. We Care A Lot (Original Version)
-2. Introduce Yourself
-3. From Out Of Nowhere
-4. Epic
-5. Falling To Pieces
-6. Midlife Crisis
-7. A Small Victory
-8. Easy
-9. Digging The Grave
-10. The Gentle Art Of Making Enemies
-11. Evidence
-12. I Started A Joke
-13. Last Cup Of Sorrow
-14. Ashes To Ashes
-15. Stripsearch
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | We Care A Lot (Original Version) |  |
+| A2 | Introduce Yourself |  |
+| A3 | From Out Of Nowhere |  |
+| A4 | Epic |  |
+| B1 | Falling To Pieces |  |
+| B2 | Midlife Crisis |  |
+| B3 | A Small Victory |  |
+| B4 | Easy |  |
+| C1 | Digging The Grave |  |
+| C2 | The Gentle Art Of Making Enemies |  |
+| C3 | Evidence |  |
+| C4 | I Started A Joke |  |
+| D1 | Last Cup Of Sorrow |  |
+| D2 | Ashes To Ashes |  |
+| D3 | Stripsearch |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-faith-no-more-collection/734506512" >}}<br>
 
 
-## Videos
-### Faith No More - From Out Of Nowhere Official Music Video
-{{< youtube id="j4tsGWdarHc" title="Faith No More - From Out Of Nowhere Official Music Video" >}}<br>
-### More Videos
-
-- [Epic](https://www.youtube.com/watch?v=EO6JN3LLTz8)
-- [Faith No More - Stripsearch Official Music Video](https://www.youtube.com/watch?v=-_U6165DVeM)
-- [A Small Victory](https://www.youtube.com/watch?v=8A8ZABKyAys)
-- [Ashes to Ashes](https://www.youtube.com/watch?v=1UYLKtV4GIo)
-- [I Wont Forget You 2016 Remaster](https://www.youtube.com/watch?v=mOtDoTPZ56c)
-- [Faith No More - We Care a Lot Official Music Video 4K](https://www.youtube.com/watch?v=LQhX8PbNUWI)
-- [Faith No More - Epic Official Music Video](https://www.youtube.com/watch?v=ZG_k5CSYKhg)
-- [Faith No More - Easy Official Music Video](https://www.youtube.com/watch?v=vPzDTfIb0DU)
-- [Faith No More - Ashes to Ashes Official Music Video](https://www.youtube.com/watch?v=Kfq7wHJu21c)
-- [Faith No More - I Started a Joke Official Music Video](https://www.youtube.com/watch?v=JKDo6g4CCeU)
-- [Faith No More - Stripsearch Official Music Video](https://www.youtube.com/watch?v=-_U6165DVeM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +68,5 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 | Format         | Vinyl 2× LP Album Compilation Limited Edition Reissue (Gold) |
 | Label          | Slash |
 | Catalog Number | 190295233174 |
-| Notes | Catalogue number 190295233174 is printed on the spine and face labels. Catalogue number 0190295233174 is printed on the hyper sticker affixed to the front cover.  This compilation ℗ 1998 Slash Records / Warner Music UK Limited. © 2021 Warner Music UK Limited, a Warner Music Group Company. All rights reserved.   Manufactured for & marketed by Warner Music UK Limited.  Made in Germany. |
+| Notes | Catalogue number 190295233174 is printed on the spine and face labels. Catalogue number 0190295233174 is printed on the hyper sticker affixed to the front cover.<br><br>This compilation ℗ 1998 Slash Records / Warner Music UK Limited.<br>© 2021 Warner Music UK Limited, a Warner Music Group Company. All rights reserved. <br><br>Manufactured for & marketed by Warner Music UK Limited. <br>Made in Germany. |
 | Discogs URL    | [Faith No More - Who Cares A Lot? The Greatest Hits](https://www.discogs.com/release/17063952-Faith-No-More-Who-Cares-A-Lot-The-Greatest-Hits) |

@@ -4,6 +4,7 @@ artist_name: "Big Big Train"
 artist: "big-big-train"
 album_name: "Folklore"
 date: 2016-05-25T18:46:18.000000Z
+release_date: "2016-05-27"
 release_id: "8567409"
 slug: "folklore-8567409"
 hideSummary: true
@@ -31,47 +32,31 @@ Folklore is the ninth studio album by English progressive rock band Big Big Trai
 The album was released in multiple formats: standard and High Res downloads, as a single CD, and as a double-LP vinyl release that features two additional tracks, "Mudlarks" and "Lost Rivers of London", both of which were previously released on the 2015 EP Wassail. Both versions of the album contain the title track from Wassail, meaning that the vinyl release features all three of the original songs on the EP.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Folklore (7:30)
-2. Along The Ridgeway (6:06)
-3. Salisbury Giant (3:37)
-4. London Plane (10:10)
-5. Mudlarks (6:12)
-6. Lost Rivers Of London (6:02)
-7. The Transit Of Venus Across The Sun (7:18)
-8. Wassail (6:47)
-9. Winkie (8:26)
-10. Brooklands (12:39)
-11. Telling The Bees (6:02)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Folklore | 7:30 |
+| A2 | Along The Ridgeway | 6:06 |
+| A3 | Salisbury Giant | 3:37 |
+| B1 | London Plane | 10:10 |
+| B2 | Mudlarks | 6:12 |
+| B3 | Lost Rivers Of London | 6:02 |
+| C1 | The Transit Of Venus Across The Sun | 7:18 |
+| C2 | Wassail | 6:47 |
+| C3 | Winkie | 8:26 |
+| D1 | Brooklands | 12:39 |
+| D2 | Telling The Bees | 6:02 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/folklore/1096218321" >}}<br>
 
 
-## Videos
-### BIG BIG TRAIN-Folklore-03-Salisbury Giant-Prog Rock-2016
-{{< youtube id="knQAsI_hhRM" title="BIG BIG TRAIN-Folklore-03-Salisbury Giant-Prog Rock-2016" >}}<br>
-### More Videos
-
-- [Along the Ridgeway](https://www.youtube.com/watch?v=4VK1S7UToNs)
-- [Wassail](https://www.youtube.com/watch?v=Tr13PHSPMJM)
-- [London Plane](https://www.youtube.com/watch?v=AYW-fjUuSAc)
-- [The Transit of Venus Across the Sun](https://www.youtube.com/watch?v=S72wsZ6VNno)
-- [Brooklands](https://www.youtube.com/watch?v=3c6N_wKp6mg)
-- [big big train - lost rivers of London](https://www.youtube.com/watch?v=FaaOPtE1i_s)
-- [Big Big Train - Brooklands](https://www.youtube.com/watch?v=sOw-d1jQIl8)
-- [BIG BIG TRAIN-Folklore-04-London Plane-Prog Rock-2016](https://www.youtube.com/watch?v=O9l-ROlHqg0)
-- [Folklore by Big Big Train](https://www.youtube.com/watch?v=0D9YF3e4Gac)
-- [BIG BIG TRAIN-Folklore-03-Salisbury Giant-Prog Rock-2016](https://www.youtube.com/watch?v=knQAsI_hhRM)
-- [Along the Ridgeway](https://www.youtube.com/watch?v=4VK1S7UToNs)
-- [Wassail](https://www.youtube.com/watch?v=Tr13PHSPMJM)
-- [London Plane](https://www.youtube.com/watch?v=AYW-fjUuSAc)
-- [The Transit of Venus Across the Sun](https://www.youtube.com/watch?v=S72wsZ6VNno)
-- [Brooklands](https://www.youtube.com/watch?v=3c6N_wKp6mg)
 
 ## Release Images
 {{< imageGrid >}}

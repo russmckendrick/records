@@ -4,6 +4,7 @@ artist_name: "Belinda Carlisle"
 artist: "belinda-carlisle"
 album_name: "Runaway Horses"
 date: 2018-09-22T13:11:54.000000Z
+release_date: "1989-10-03"
 release_id: "12559007"
 slug: "runaway-horses-12559007"
 hideSummary: true
@@ -27,36 +28,30 @@ Runaway Horses is the third solo studio album by American singer Belinda Carlisl
 The album peaked at number 37 on the US Billboard 200, a considerable fall in sales from Carlisle's 1987 album, Heaven on Earth, but reached number four in the United Kingdom, where it was certified Platinum.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Leave A Light On (4:34)
-2. Runaway Horses (4:42)
-3. Vision Of You (4:37)
-4. Summer Rain (5:26)
-5. La Luna (4:43)
-6. (We Want) The Same Thing (3:57)
-7. Deep Deep Ocean (4:03)
-8. Valentine (5:03)
-9. Whatever It Takes (4:49)
-10. Shades Of Michelangelo (5:46)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Leave A Light On | 4:34 |
+| A2 | Runaway Horses | 4:42 |
+| A3 | Vision Of You | 4:37 |
+| A4 | Summer Rain | 5:26 |
+| A5 | La Luna | 4:43 |
+| B1 | (We Want) The Same Thing | 3:57 |
+| B2 | Deep Deep Ocean | 4:03 |
+| B3 | Valentine | 5:03 |
+| B4 | Whatever It Takes | 4:49 |
+| B5 | Shades Of Michelangelo | 5:46 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/runaway-horses/685170199" >}}<br>
 
 
-## Videos
-### Belinda Carlisle - Leave A Light On Official HD Music Video
-{{< youtube id="pmZYE8j2ZNs" title="Belinda Carlisle - Leave A Light On Official HD Music Video" >}}<br>
-### More Videos
-
-- [Belinda Carlisle - Summer Rain Official HD Music Video](https://www.youtube.com/watch?v=JOlybsZqNlE)
-- [Belinda Carlisle - We Want The Same Thing Official HD Music Video](https://www.youtube.com/watch?v=Q9pw_cY8uyk)
-- [Belinda Carlisle - Runaway Horses Official HD Music Video](https://www.youtube.com/watch?v=z5gQt126Ka8)
-- [Belinda Carlisle - Vision Of You Official HD Music Video](https://www.youtube.com/watch?v=KbeN3MM1OXo)
-- [Belinda Carlisle - La Luna Official HD Music Video](https://www.youtube.com/watch?v=ur48BBf6TkU)
 
 ## Release Images
 {{< imageGrid >}}

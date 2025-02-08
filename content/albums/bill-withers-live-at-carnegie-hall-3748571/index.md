@@ -31,42 +31,28 @@ On a rainy New York City night in 1972, Bill Withers transformed Carnegie Hall i
 
 
 ## Tracklisting
-1. Use Me (8:30)
-2. Friend Of Mine (4:26)
-3. Ain't No Sunshine (2:25)
-4. Grandma's Hands (With Rap) (5:08)
-5. World Keeps Going Around (5:08)
-6. Let Me In Your Life (With Rap) (4:35)
-7. Better Off Dead (3:36)
-8. For My Friend (2:58)
-9. I Can't Write Left Handed (6:52)
-10. Lean On Me (5:47)
-11. Lonely Town Lonely Street (3:54)
-12. Hope She'll Be Happier (4:23)
-13. Let Us Love (5:21)
-14. Harlem/Cold Baloney (13:07)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Use Me | 8:30 |
+| A2 | Friend Of Mine | 4:26 |
+| A3 | Ain't No Sunshine | 2:25 |
+| A4 | Grandma's Hands (With Rap) | 5:08 |
+| B1 | World Keeps Going Around | 5:08 |
+| B2 | Let Me In Your Life (With Rap) | 4:35 |
+| B3 | Better Off Dead | 3:36 |
+| B4 | For My Friend | 2:58 |
+| C1 | I Can't Write Left Handed | 6:52 |
+| C2 | Lean On Me | 5:47 |
+| C3 | Lonely Town Lonely Street | 3:54 |
+| C4 | Hope She'll Be Happier | 4:23 |
+| D1 | Let Us Love | 5:21 |
+| D2 | Harlem/Cold Baloney | 13:07 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-carnegie-hall/203795472" >}}<br>
 
 
-## Videos
-### Use Me Live at Carnegie Hall New York NY - October 1972
-{{< youtube id="fSqtPjpKb6k" title="Use Me Live at Carnegie Hall New York NY - October 1972" >}}<br>
-### More Videos
-
-- [Friend of Mine Live at Carnegie Hall New York NY - October 1972](https://www.youtube.com/watch?v=LXIe92-eQCg)
-- [Grandmas Hands Live at Carnegie Hall New York NY - October 1972](https://www.youtube.com/watch?v=erARI_f9AvA)
-- [World Keeps Going Around Live at Carnegie Hall New York NY - October 1972](https://www.youtube.com/watch?v=hwFz7--6e2w)
-- [Let Me in Your Life Live at Carnegie Hall New York NY - October 1972](https://www.youtube.com/watch?v=EiVnd1DwSHA)
-- [Better off Dead Live at Carnegie Hall New York NY - October 1972](https://www.youtube.com/watch?v=-jpP9pUdiyk)
-- [For My Friend Live at Carnegie Hall New York NY - October 1972](https://www.youtube.com/watch?v=aD337fVyAXk)
-- [Bill Withers - I Cant Write Left-Handed Live Audio](https://www.youtube.com/watch?v=__4_fCgjI74)
-- [Lean on Me Live at Carnegie Hall New York NY - October 1972](https://www.youtube.com/watch?v=tXcCav4zyJI)
-- [Lonely Town Lonely Street Live at Carnegie Hall New York NY - October 1972](https://www.youtube.com/watch?v=Fa65k3eWj8o)
-- [Hope Shell Be Happier Live at Carnegie Hall New York NY - October 1972](https://www.youtube.com/watch?v=MXdn9FrTpk8)
-- [Let Us Love Live at Carnegie Hall New York NY - October 1972](https://www.youtube.com/watch?v=vOfSxkgX8XM)
-- [Medley Harlem  Cold Baloney Live at Carnegie Hall New York NY - October 1972](https://www.youtube.com/watch?v=S00jJdAYVoU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +63,5 @@ On a rainy New York City night in 1972, Bill Withers transformed Carnegie Hall i
 | Format         | Vinyl 2× LP Album Reissue Stereo (180 Gram, Gatefold) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP432 |
-| Notes | Recorded live at Carnegie Hall in connection with The Record Plant. Remixed at The Record Plant, 8456 W. 3rd St. (Los Angeles).  Published by Interior Music, Corp. (BMI)    Gatefold cover with printed company inner sleeves.   |
+| Notes | Recorded live at Carnegie Hall in connection with The Record Plant. Remixed at The Record Plant, 8456 W. 3rd St. (Los Angeles).<br>Published by Interior Music, Corp. (BMI)<br><br>Gatefold cover with printed company inner sleeves.<br> |
 | Discogs URL    | [Bill Withers - Bill Withers Live At Carnegie Hall](https://www.discogs.com/release/3748571-Bill-Withers-Bill-Withers-Live-At-Carnegie-Hall) |

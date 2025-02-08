@@ -43,37 +43,34 @@ Compared to 1977's Rumours, which sold ten million copies by February 1978, Tusk
 
 
 ## Tracklisting
-1. Over & Over (4:35)
-2. The Ledge (2:02)
-3. Think About Me (2:44)
-4. Save Me A Place (2:40)
-5. Sara (6:26)
-6. What Makes You Think You're The One (3:28)
-7. Storms (5:28)
-8. That's All For Everyone (3:04)
-9. Not That Funny (3:19)
-10. Sisters Of The Moon (4:36)
-11. Angel (4:53)
-12. That's Enough For Me (1:48)
-13. Brown Eyes (4:27)
-14. Never Make Me Cry (2:14)
-15. I Know I'm Not Wrong (2:59)
-16. Honey Hi (2:43)
-17. Beautiful Child (5:19)
-18. Walk A Thin Line (3:44)
-19. Tusk (3:36)
-20. Never Forget (3:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Over & Over | 4:35 |
+| A2 | The Ledge | 2:02 |
+| A3 | Think About Me | 2:44 |
+| A4 | Save Me A Place | 2:40 |
+| A5 | Sara | 6:26 |
+| B1 | What Makes You Think You're The One | 3:28 |
+| B2 | Storms | 5:28 |
+| B3 | That's All For Everyone | 3:04 |
+| B4 | Not That Funny | 3:19 |
+| B5 | Sisters Of The Moon | 4:36 |
+| C1 | Angel | 4:53 |
+| C2 | That's Enough For Me | 1:48 |
+| C3 | Brown Eyes | 4:27 |
+| C4 | Never Make Me Cry | 2:14 |
+| C5 | I Know I'm Not Wrong | 2:59 |
+| D1 | Honey Hi | 2:43 |
+| D2 | Beautiful Child | 5:19 |
+| D3 | Walk A Thin Line | 3:44 |
+| D4 | Tusk | 3:36 |
+| D5 | Never Forget | 3:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits/202271826" >}}<br>
 
 
-## Videos
-### Fleetwood Mac - Brown Eyes
-{{< youtube id="dl-0a4sWalg" title="Fleetwood Mac - Brown Eyes" >}}<br>
-### More Videos
-
-- [Fleetwood Mac - Tusk Official Live Video HD](https://www.youtube.com/watch?v=NKCucBUWx5o)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +82,5 @@ Compared to 1977's Rumours, which sold ten million copies by February 1978, Tusk
 | Format         | Vinyl 2× LP Album Reissue (Silver) |
 | Label          | Warner Records |
 | Catalog Number | RCV1 3350 |
-| Notes | Reissue on silver coloured vinyl. Photo on front sleeve is embossed. Single pocket outer jacket with a pair of numbered inner sleeves for each disc. ℗ & © 1979 Warner Records Inc. Made in the E.U.  Some tracks recorded by Lindsey Buckingham at home. Mastered at Capitol Records.  Digital mix-down equipment furnished by Soundstream Inc.  The U.S.C. Trojan Marching Band appears on the song "Tusk" Recorded live at Dodger Stadium.  This album is dedicated to Wing Commander Fleetwood and to Morris Buckingham |
+| Notes | Reissue on silver coloured vinyl. Photo on front sleeve is embossed.<br>Single pocket outer jacket with a pair of numbered inner sleeves for each disc.<br>℗ & © 1979 Warner Records Inc.<br>Made in the E.U.<br><br>Some tracks recorded by Lindsey Buckingham at home. Mastered at Capitol Records.<br><br>Digital mix-down equipment furnished by Soundstream Inc.<br><br>The U.S.C. Trojan Marching Band appears on the song "Tusk"<br>Recorded live at Dodger Stadium.<br><br>This album is dedicated to Wing Commander Fleetwood and to Morris Buckingham |
 | Discogs URL    | [Fleetwood Mac - Tusk](https://www.discogs.com/release/14471233-Fleetwood-Mac-Tusk) |

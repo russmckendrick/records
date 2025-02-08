@@ -65,38 +65,25 @@ Lifeson: “This is difficult to talk about because I wrote the song around the 
 
 
 ## Tracklisting
-1. Never Said I Love You
-2. Shadow
-3. Look Inside
-4. Liar
-5. Spy House
-6. Dog's Life
-7. Kabul Blues
-8. Old Strings
-9. Dumb
-10. Enemy
-11. Western Sunset
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Never Said I Love You |  |
+| A2 | Shadow |  |
+| A3 | Look Inside |  |
+| A4 | Liar |  |
+| A5 | Spy House |  |
+| A6 | Dog's Life |  |
+| B1 | Kabul Blues |  |
+| B2 | Old Strings |  |
+| B3 | Dumb |  |
+| B4 | Enemy |  |
+| B5 | Western Sunset |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/envy-of-none/1599578868" >}}<br>
 
 
-## Videos
-### Never Said I Love You
-{{< youtube id="Yp8q2mMoa7k" title="Never Said I Love You" >}}<br>
-### More Videos
-
-- [Shadow](https://www.youtube.com/watch?v=QF-NhLJ5bnU)
-- [Envy Of None - Look Inside Official Video](https://www.youtube.com/watch?v=QF-lfYi7DXk)
-- [Envy Of None - Liar Official Lyric Video from debut album Envy Of None](https://www.youtube.com/watch?v=vV-IZRh22mo)
-- [Spy House](https://www.youtube.com/watch?v=cFTXxYXXi8o)
-- [Dogs Life](https://www.youtube.com/watch?v=pnExyrswyj0)
-- [Kabul Blues](https://www.youtube.com/watch?v=aL9wVZEkQts)
-- [Old Strings](https://www.youtube.com/watch?v=1_MUQb3W4hU)
-- [Dumb](https://www.youtube.com/watch?v=GgfkpnSwWKQ)
-- [Enemy](https://www.youtube.com/watch?v=XUYlFQUEfs4)
-- [Western Sunset](https://www.youtube.com/watch?v=VeQqcaZm5ws)
-- [Western Sunset - Envy of None - A Tribute to Neil Peart](https://www.youtube.com/watch?v=avToblb8HkY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -108,5 +95,5 @@ Lifeson: “This is difficult to talk about because I wrote the song around the 
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1164 |
-| Notes | Catalogue number appears on a sticker only Comes with an inner sleeve and an advertising sheet. '1+' and '3+' in runouts appear backwards (mirror image). Runouts are etched. |
+| Notes | Catalogue number appears on a sticker only<br>Comes with an inner sleeve and an advertising sheet.<br>'1+' and '3+' in runouts appear backwards (mirror image).<br>Runouts are etched. |
 | Discogs URL    | [Envy Of None - Envy Of None](https://www.discogs.com/release/22788167-Envy-Of-None-Envy-Of-None) |

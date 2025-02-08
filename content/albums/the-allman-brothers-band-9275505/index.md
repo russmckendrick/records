@@ -4,6 +4,7 @@ artist_name: "The Allman Brothers Band"
 artist: "the-allman-brothers-band"
 album_name: "The Allman Brothers Band"
 date: 2017-01-23T17:30:46.000000Z
+release_date: "1969-11-04"
 release_id: "9275505"
 slug: "the-allman-brothers-band-9275505"
 hideSummary: true
@@ -26,35 +27,35 @@ styles: ["Blues Rock", "Southern Rock"]
 The Allman Brothers Band was an American rock band formed in Jacksonville, Florida, in 1969 by brothers Duane Allman (slide guitar and lead guitar) and Gregg Allman (vocals, keyboards, songwriting), as well as Dickey Betts (lead guitar, vocals, songwriting), Berry Oakley (bass guitar), Butch Trucks (drums), and Jai Johanny "Jaimoe" Johanson (drums). The band incorporated elements of Southern rock, blues, jazz, and country music, and their live shows featured jam band-style improvisation and instrumentals.
 The group's first two studio releases stalled commercially, but their 1971 live release, At Fillmore East, represented an artistic and commercial breakthrough. The album features extended renderings of their songs "In Memory of Elizabeth Reed" and "Whipping Post", and is often considered the best live album ever made. Group leader Duane Allman was killed in a motorcycle accident later that year, and the band dedicated Eat a Peach (1972) in his memory, a dual studio/live album that cemented the band's popularity. Following the motorcycle death of bassist Berry Oakley later that year, the group recruited keyboardist Chuck Leavell and bassist Lamar Williams for 1973's Brothers and Sisters, which, combined with the hit single "Ramblin' Man", placed the group at the forefront of 1970s rock music. Internal turmoil overtook them soon after; the group dissolved in 1976, reformed briefly at the end of the decade with additional personnel changes, and dissolved again in 1982.
 The band reformed once more in 1989, releasing a string of new albums and touring heavily. A series of personnel changes in the late 1990s was capped by the departure of Betts. The group found stability during the 2000s with bassist Oteil Burbridge and guitarists Warren Haynes (in his second stint with the band) and Derek Trucks (the nephew of their drummer) and became renowned for their month-long string of shows at New York City's Beacon Theatre each spring. The band retired for good in 2014. The band has been awarded seven gold and four platinum albums, and was inducted into the Rock and Roll Hall of Fame in 1995. Rolling Stone ranked them 52nd on their list of the 100 Greatest Artists of All Time in 2004.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. 1969 Original Stereo Mix
-2. Don't Want You No More (2:25)
-3. It's Not My Cross To Bear (5:02)
-4. Black Hearted Woman (5:08)
-5. Trouble No More (3:45)
-6. Every Hungry Woman (4:13)
-7. Dreams (7:18)
-8. Whipping Post (5:17)
-9. 1973 Beginnings Stereo Mix
-10. Don't Want You No More (2:25)
-11. It's Not My Cross To Bear (4:56)
-12. Black Hearted Woman (5:17)
-13. Trouble No More (3:48)
-14. Every Hungry Woman (4:17)
-15. Dreams (7:17)
-16. Whipping Post (5:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | 1969 Original Stereo Mix |  |
+| A1 | Don't Want You No More | 2:25 |
+| A2 | It's Not My Cross To Bear | 5:02 |
+| A3 | Black Hearted Woman | 5:08 |
+| A4 | Trouble No More | 3:45 |
+| B1 | Every Hungry Woman | 4:13 |
+| B2 | Dreams | 7:18 |
+| B3 | Whipping Post | 5:17 |
+|  | 1973 Beginnings Stereo Mix |  |
+| C1 | Don't Want You No More | 2:25 |
+| C2 | It's Not My Cross To Bear | 4:56 |
+| C3 | Black Hearted Woman | 5:17 |
+| C4 | Trouble No More | 3:48 |
+| D1 | Every Hungry Woman | 4:17 |
+| D2 | Dreams | 7:17 |
+| D3 | Whipping Post | 5:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-allman-brothers-band/1469584148" >}}<br>
 
-
-## Videos
-### The Allman Brothers Band US 1969 Full LP 1st Pressing Psychedelic Blues Rock MASTERPIECE
-{{< youtube id="UoK2fvY-UE4" title="The Allman Brothers Band US 1969 Full LP 1st Pressing Psychedelic Blues Rock MASTERPIECE" >}}<br>
 
 
 ## Release Images
@@ -67,5 +68,5 @@ The band reformed once more in 1989, releasing a string of new albums and tourin
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 180g) |
 | Label          | Mercury |
 | Catalog Number | 00602547813190 |
-| Notes | 2-LP set featuring '1969 Original Stereo Mix' and '1973 Beginnings Stereo Mix'.  180-Gram Audiophile vinyl, newly remastered from original analog tapes. DMM Direct Metal Mastering for Optimal Sound  Made in Holland |
+| Notes | 2-LP set featuring '1969 Original Stereo Mix' and '1973 Beginnings Stereo Mix'.<br><br>180-Gram Audiophile vinyl, newly remastered from original analog tapes.<br>DMM Direct Metal Mastering for Optimal Sound<br><br>Made in Holland |
 | Discogs URL    | [The Allman Brothers Band - The Allman Brothers Band](https://www.discogs.com/release/9275505-The-Allman-Brothers-Band-The-Allman-Brothers-Band) |

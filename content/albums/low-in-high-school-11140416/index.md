@@ -4,6 +4,7 @@ artist_name: "Morrissey"
 artist: "morrissey"
 album_name: "Low In High School"
 date: 2017-11-17T16:42:09.000000Z
+release_date: "2017-11-17"
 release_id: "11140416"
 slug: "low-in-high-school-11140416"
 hideSummary: true
@@ -33,50 +34,32 @@ Low in High School is the eleventh solo studio album by British singer Morrissey
 The album debuted at number 5 on the UK Albums Chart. Low in High School generally received mixed or average reviews.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. My Love, I’d Do Anything For You (4:43)
-2. I Wish You Lonely (2:58)
-3. Jacky’s Only Happy When She’s Up On The Stage (4:19)
-4. Home Is A Question Mark (3:59)
-5. Spent The Day In Bed (3:31)
-6. I Bury The Living (7:25)
-7. In Your Lap (4:35)
-8. The Girl From Tel-Aviv Who Wouldn’t Kneel (4:57)
-9. All The Young People Must Fall In Love (3:36)
-10. When You Open Your Legs (3:17)
-11. Who Will Protect Us From The Police? (4:05)
-12. Israel (5:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | My Love, I’d Do Anything For You | 4:43 |
+| A2 | I Wish You Lonely | 2:58 |
+| A3 | Jacky’s Only Happy When She’s Up On The Stage | 4:19 |
+| A4 | Home Is A Question Mark | 3:59 |
+| A5 | Spent The Day In Bed | 3:31 |
+| A6 | I Bury The Living | 7:25 |
+| B1 | In Your Lap | 4:35 |
+| B2 | The Girl From Tel-Aviv Who Wouldn’t Kneel | 4:57 |
+| B3 | All The Young People Must Fall In Love | 3:36 |
+| B4 | When You Open Your Legs | 3:17 |
+| B5 | Who Will Protect Us From The Police? | 4:05 |
+| B6 | Israel | 5:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/low-in-high-school/1713856303" >}}<br>
 
 
-## Videos
-### Morrissey - I Wish You Lonely Official Lyric Video
-{{< youtube id="S0tJ0rc3zKY" title="Morrissey - I Wish You Lonely Official Lyric Video" >}}<br>
-### More Videos
-
-- [Morrissey - Home Is a Question Mark Official Audio](https://www.youtube.com/watch?v=mibfRl_TTHw)
-- [Morrissey - Spent the Day in Bed Official Video](https://www.youtube.com/watch?v=1rmAi9XmlIo)
-- [Morrissey - I Bury the Living Official Audio](https://www.youtube.com/watch?v=yfcc1wuwOFI)
-- [Morrissey - In Your Lap Official Audio](https://www.youtube.com/watch?v=7jumNAMAy3M)
-- [Morrissey - The Girl from Tel-Aviv Who Wouldnt Kneel Official Audio](https://www.youtube.com/watch?v=oFYHwZRcAKM)
-- [Morrissey - When You Open Your Legs Official Audio](https://www.youtube.com/watch?v=lTZjNUIazmc)
-- [Morrissey - Who Will Protect Us from the Police Official Audio](https://www.youtube.com/watch?v=cvDRtyoqHNw)
-- [Morrissey - Israel Official Audio](https://www.youtube.com/watch?v=uCKjotJEWjo)
-- [Morrissey - I Wish You Lonely Official Lyric Video](https://www.youtube.com/watch?v=S0tJ0rc3zKY)
-- [Morrissey - Home Is a Question Mark Official Audio](https://www.youtube.com/watch?v=mibfRl_TTHw)
-- [Morrissey - Spent the Day in Bed Official Video](https://www.youtube.com/watch?v=1rmAi9XmlIo)
-- [Morrissey - I Bury the Living Official Audio](https://www.youtube.com/watch?v=yfcc1wuwOFI)
-- [Morrissey - In Your Lap Official Audio](https://www.youtube.com/watch?v=7jumNAMAy3M)
-- [Morrissey - The Girl from Tel-Aviv Who Wouldnt Kneel Official Audio](https://www.youtube.com/watch?v=oFYHwZRcAKM)
-- [Morrissey - When You Open Your Legs Official Audio](https://www.youtube.com/watch?v=lTZjNUIazmc)
-- [Morrissey - Who Will Protect Us from the Police Official Audio](https://www.youtube.com/watch?v=cvDRtyoqHNw)
-- [Morrissey - Israel Official Audio](https://www.youtube.com/watch?v=uCKjotJEWjo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -88,5 +71,5 @@ The album debuted at number 5 on the UK Albums Chart. Low in High School general
 | Format         | Vinyl LP Album Limited Edition (Green) |
 | Label          | Étienne |
 | Catalog Number | 538337938 |
-| Notes | Includes download code. 1500 copies from HMV in the UK came with a 12" art print.  Sticker on front notes Green Vinyl and Download. Étienne catalog number on spine is 538337891; Étienne catalog number on Green Sticker on front is 538337931.  Transparent green vinyl. Presented in a gatefold sleeve. The text on the placard at the front image is of a spot gloss varnish detail. The interior section of the disc holding pocket is printed green.  Includes a green printed cardboard inner sleeve with a die-cut hole to reveal the label on the disc. Credits and thank yous on one side and a photo of Morrissey on the other.  Includes a credit card sized download voucher, printed on both sides. Hype sticker on the shrink wrap.  Runouts are etched. |
+| Notes | Includes download code. 1500 copies from HMV in the UK came with a 12" art print. <br>Sticker on front notes Green Vinyl and Download.<br>Étienne catalog number on spine is 538337891; Étienne catalog number on Green Sticker on front is 538337931.<br><br>Transparent green vinyl.<br>Presented in a gatefold sleeve. The text on the placard at the front image is of a spot gloss varnish detail. The interior section of the disc holding pocket is printed green.<br><br>Includes a green printed cardboard inner sleeve with a die-cut hole to reveal the label on the disc. Credits and thank yous on one side and a photo of Morrissey on the other.<br><br>Includes a credit card sized download voucher, printed on both sides.<br>Hype sticker on the shrink wrap.<br><br>Runouts are etched. |
 | Discogs URL    | [Morrissey - Low In High School](https://www.discogs.com/release/11140416-Morrissey-Low-In-High-School) |

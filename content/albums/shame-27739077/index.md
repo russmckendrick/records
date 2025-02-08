@@ -4,6 +4,7 @@ artist_name: "Brad"
 artist: "brad"
 album_name: "Shame"
 date: 2023-07-24T04:25:35.000000Z
+release_date: "1993-04-27"
 release_id: "27739077"
 slug: "shame-27739077"
 hideSummary: true
@@ -26,42 +27,31 @@ styles: ["Alternative Rock", "Grunge", "Pop Rock"]
 Shame is the debut studio album by the American rock band Brad. It was released on April 27, 1993, through Epic Records.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Buttercup (4:14)
-2. My Fingers (3:20)
-3. Nadine (3:32)
-4. Screen (5:12)
-5. 20th Century (4:02)
-6. Good News (4:24)
-7. Raise Love (4:14)
-8. Bad For The Soul (1:11)
-9. Down (4:18)
-10. Rockstar (2:48)
-11. We (5:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Buttercup | 4:14 |
+| A2 | My Fingers | 3:20 |
+| A3 | Nadine | 3:32 |
+| A4 | Screen | 5:12 |
+| A5 | 20th Century | 4:02 |
+| B1 | Good News | 4:24 |
+| B2 | Raise Love | 4:14 |
+| B3 | Bad For The Soul | 1:11 |
+| B4 | Down | 4:18 |
+| B5 | Rockstar | 2:48 |
+| B6 | We | 5:26 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/shame/1482558009" >}}<br>
 
 
-## Videos
-### Brad Shame - 01 Buttercup
-{{< youtube id="EdcpC0gShss" title="Brad Shame - 01 Buttercup" >}}<br>
-### More Videos
-
-- [Brad Shame 05 - 20th Century](https://www.youtube.com/watch?v=-MyK7N6_0v4)
-- [Brad Shame - 02 My Fingers](https://www.youtube.com/watch?v=O6_uzMEb8qM)
-- [Brad Shame - 03 Nadine](https://www.youtube.com/watch?v=MsVSwx8f1wQ)
-- [BRAD - Screen](https://www.youtube.com/watch?v=ahUw17bhQ3U)
-- [Brad Shame - 06 Good News](https://www.youtube.com/watch?v=gksZf1pLNVw)
-- [Brad Shame - 07 Raise Love](https://www.youtube.com/watch?v=7624jyfAizs)
-- [Brad Shame - 08 Bad For The Soul](https://www.youtube.com/watch?v=Wc1c3aBSLvQ)
-- [Brad Shame - 09 Down](https://www.youtube.com/watch?v=RHgCTvwrZ8E)
-- [Brad Shame - 10 Rockstar](https://www.youtube.com/watch?v=IPBnvDDhKnA)
-- [Brad Shame - 11 We](https://www.youtube.com/watch?v=f5oeShjq-l4)
 
 ## Release Images
 {{< imageGrid >}}

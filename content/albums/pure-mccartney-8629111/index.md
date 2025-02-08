@@ -67,51 +67,53 @@ This collection, curated by Sir Paul, proves there are second and third acts in 
 
 
 ## Tracklisting
-1. Maybe I'm Amazed (3:51)
-2. Heart Of The Country (2:24)
-3. Jet (4:09)
-4. Warm And Beautiful (3:14)
-5. Listen To What The Man Said (4:03)
-6. Dear Boy (2:15)
-7. Silly Love Songs (5:55)
-8. The Song We Were Singing (3:55)
-9. Uncle Albert / Admiral Halsey (4:56)
-10. Another Day (3:43)
-11. New (2:58)
-12. Mull Of Kintyre (4:46)
-13. Sing The Changes (3:46)
-14. Jenny Wren (3:49)
-15. Mrs Vanderbilt (4:41)
-16. Save Us (2:41)
-17. Let 'Em In (5:11)
-18. Let Me Roll It (4:51)
-19. Ebony And Ivory (Remixed 2015) (3:46)
-20. Nineteen Hundred And Eighty Five (5:32)
-21. Band On The Run (5:14)
-22. Arrow Through Me (3:39)
-23. My Love (4:10)
-24. Live And Let Die (3:15)
-25. Too Much Rain (3:26)
-26. Say Say Say (2015 Remix)[Radio Edit] (3:42)
-27. My Valentine (3:16)
-28. Goodnight Tonight (4:22)
-29. The World Tonight (4:06)
-30. Pipes Of Peace (3:57)
-31. Dance Tonight (2:56)
-32. Here Today ( Remixed 2015) (2:29)
-33. Wanderlust (Remixed 2015) (3:51)
-34. Great Day (2:09)
-35. Coming Up (3:54)
-36. No More Lonely Nights (4:44)
-37. Too Many People (4:12)
-38. Only Mama Knows (4:20)
-39. With A Little Luck (DJ Edit) (3:13)
-40. Hope For The Future (4:09)
-41. Junk (1:57)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Maybe I'm Amazed | 3:51 |
+| A2 | Heart Of The Country | 2:24 |
+| A3 | Jet | 4:09 |
+| A4 | Warm And Beautiful | 3:14 |
+| A5 | Listen To What The Man Said | 4:03 |
+| A6 | Dear Boy | 2:15 |
+| B1 | Silly Love Songs | 5:55 |
+| B2 | The Song We Were Singing | 3:55 |
+| B3 | Uncle Albert / Admiral Halsey | 4:56 |
+| B4 | Another Day | 3:43 |
+| B5 | New | 2:58 |
+| C1 | Mull Of Kintyre | 4:46 |
+| C2 | Sing The Changes | 3:46 |
+| C3 | Jenny Wren | 3:49 |
+| C4 | Mrs Vanderbilt | 4:41 |
+| C5 | Save Us | 2:41 |
+| D1 | Let 'Em In | 5:11 |
+| D2 | Let Me Roll It | 4:51 |
+| D3 | Ebony And Ivory (Remixed 2015) | 3:46 |
+| D4 | Nineteen Hundred And Eighty Five | 5:32 |
+| E1 | Band On The Run | 5:14 |
+| E2 | Arrow Through Me | 3:39 |
+| E3 | My Love | 4:10 |
+| E4 | Live And Let Die | 3:15 |
+| E5 | Too Much Rain | 3:26 |
+| F1 | Say Say Say (2015 Remix)[Radio Edit] | 3:42 |
+| F2 | My Valentine | 3:16 |
+| F3 | Goodnight Tonight | 4:22 |
+| F4 | The World Tonight | 4:06 |
+| F5 | Pipes Of Peace | 3:57 |
+| G1 | Dance Tonight | 2:56 |
+| G2 | Here Today ( Remixed 2015) | 2:29 |
+| G3 | Wanderlust (Remixed 2015) | 3:51 |
+| G4 | Great Day | 2:09 |
+| G5 | Coming Up | 3:54 |
+| G6 | No More Lonely Nights | 4:44 |
+| H1 | Too Many People | 4:12 |
+| H2 | Only Mama Knows | 4:20 |
+| H3 | With A Little Luck (DJ Edit) | 3:13 |
+| H4 | Hope For The Future | 4:09 |
+| H5 | Junk | 1:57 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pure-mccartney/1440954858" >}}<br>
-
 
 
 
@@ -125,5 +127,5 @@ This collection, curated by Sir Paul, proves there are second and third acts in 
 | Format         | Vinyl 4× LP, Box Set Compilation Remastered (180g, Slip Case) |
 | Label          | Concord Music Group |
 | Catalog Number | HRM-38698-01 |
-| Notes | Manufactured in Germany. HRM-38698-01. 88072386983. www.puremccartney.com Booklet 20 pages & download voucher Pressed on 180g vinyl.  A1 Recorded and mixed at EMI Studios, Abbey Road, London A2 Recorded at CBS Studios, New York. Mixed at Sound Recorders, Los Angeles A3 Recorded at EMI Studios, Lagos and AIR Studios, London. Mixed at Kingsway Studios, London A4 Recorded and mixed at Abbey Road Studios, London A5 Recorded at Sea-Saint Recording Studio, New Orleans; Wally Heider Studios, Los Angeles; Sunset Sound Studios, Los Angeles. Mixed at Wally Heider Studios, Los Angeles A6 Recorded and mixed at Sound Recorders Studio, Los Angeles B1 Recorded and mixed at Abbey Road Studios, London B2 Recorded and mixed at Hog Hill Mill, East Sussex B3 Recorded at CBS Studios, New York. Orchestra recorded at A&R Studios, New York. Mixed at Sound Recorders Studio, Los Angeles B4 Recorded at CBS Studios, New York. Mixed at A&R Studios, New York B5 Recorded at Avatar Studios, New York. Additional recordings at Henson Recording Studios, Los Angeles and at Hog Hill Mill, East Sussex. Mixed at The Mixsuite, UK; Henson Recording Studios, Los Angeles; Hog Hill Mill, East Sussex C1 Recorded at Spirit of Ranachan Studio, Scotland. Mixed at Abbey Road Studios, London C2 Recorded and mixed at Hog Hill Mill C3 Recorded at Ocean Way Recording, Los Angeles. Mixed at AIR Studios, London C4 Recorded at EMI Studios, Lagos and AIR Studios, London. Mixed at Kingsway Studios, London C5 Recorded at Wolf tone Studios, London; AIR Studios, London and Hog Hill Mill, East Sussex. Addtional recording at Henson Recording Studios, Los Angeles. Mixed at The Mixsuite, UK; Henson Recording Studios, Los Angeles; Hog Hill Mill, East Sussex D1 Recorded and mixed at Abbey Road Studios, London D2 Recorded at EMI Studios, Lagos and AIR Studios, London. Mixed at Kingsway Studios, London D3 Recorded at AIR Studios, Montserrat. Remixed at Hog Hill Mill, East Sussex D4 Recorded at EMI Studios, Lagos and AIR Studios, London. Mixed at Kingsway Studios, London E1 Recorded at EMI Studios, Lagos and AIR Studios, London. Mixed at Kingsway Studios, London E2 Recorded and mixed at Abbey Road Studios, London E3 Recorded and mixed at Abbey Road Studios, London E4 Recorded and mixed at AIR Studios, London E5 Recorded at AIR Studios, London. Mixed at Ocean Way Recording, Los Angeles F1 Recorded at AIR Studios, London and Odysssey Studios, London. Additional recording at Cherokee Studios, Los Angeles and Sigma Sound Studios, New York. Mixed at The Mixsuite, UK F2 Recorded at Avatar Studios, New York. London Symphony Orchestra recorded at Abbey Road Studios F3 Recorded at Abbey Road Studios, London. Mixed at Replica Studios, London F4 Recorded and mixed at Hog Hill Mill, East Sussex F5 Recorded and mixed at AIR Studios, London G1 Recorded at RAK Studios, London. Mixed at See Squared Studios, New York G2 Recorded at AIR Studios, London. Remixed at Hog Hill Mill, East Sussex G3 Recorded at Park Gate Studios, East Sussex. Additional recording at AIR Studios, London. remixed at Hog Hill Mill, East Sussex G4 Recorded and mixed at Hog Hill Mill, East Sussex G5 Recorded at Lower Gate Farm, Sussex. Mixed at Abbey Road Studios, London G6 Recorded and mixed at AIR Studios, London H1 Recorded at CBS Studios, New York. Mixed at Sound Recorder Studio, Los Angeles H2 Recorded at AIR Studios, London and Hog Hill Mill, East Sussex. Orchestra recorded at Abbey Road Studios, London. Mixed at Hog Hill Mill, East Sussex H3 Recorded at Fair Carol, Virgin Islands. Mixed at Abbey Road Studios, London H4 Recorded at Abbey Road Studios, London and AIR Studios, London; Avatar Studios, New York; Hog Hill Mill, East Sussex. Orchestra recorded at Abbey Road Studios, London. Mixed at Henson Recording Studios, Los Angeles H5 Recorded at Paul's home and at Morgan Studios, London. Mixed at EMI Studios, Abbey Road, London  All tracks published by MPL Communications Inc except A1, H1, H5 published by Sony/ATV Tunes LLC (ASCAP), C5, E4 published by MPL Communications INC/SONY/ATV Tunes LLC (ASCAP), F1 MPL Communications Inc (ASCAP)/Mijac Music (BMI)  A1 to A6 & B1 to B4, C1, C4, D1, D2, D4, E1 to E4, F3 to F5, G4 to G6, H1, H3, H5 remastered at Abbey Road Studios, London A5, C5, H4 mastered at Sterling Sound, New York C2, D3, F1, G2, G3 mastered at Abbey Road Studios, London C3, E5 mastered at Ocean Way Mastering, Los Angeles F2 mastered at The Mastering Lab, Ojai G1, H2 mastered at Gateway Mastering, Portland ℗ and © 2016. Copyright owned by MPL Communications Inc/Ltd under exclusive license to Concord Music Group, Inc.  |
+| Notes | Manufactured in Germany. HRM-38698-01. 88072386983. www.puremccartney.com<br>Booklet 20 pages & download voucher<br>Pressed on 180g vinyl.<br><br>A1 Recorded and mixed at EMI Studios, Abbey Road, London<br>A2 Recorded at CBS Studios, New York. Mixed at Sound Recorders, Los Angeles<br>A3 Recorded at EMI Studios, Lagos and AIR Studios, London. Mixed at Kingsway Studios, London<br>A4 Recorded and mixed at Abbey Road Studios, London<br>A5 Recorded at Sea-Saint Recording Studio, New Orleans; Wally Heider Studios, Los Angeles; Sunset Sound Studios, Los Angeles. Mixed at Wally Heider Studios, Los Angeles<br>A6 Recorded and mixed at Sound Recorders Studio, Los Angeles<br>B1 Recorded and mixed at Abbey Road Studios, London<br>B2 Recorded and mixed at Hog Hill Mill, East Sussex<br>B3 Recorded at CBS Studios, New York. Orchestra recorded at A&R Studios, New York. Mixed at Sound Recorders Studio, Los Angeles<br>B4 Recorded at CBS Studios, New York. Mixed at A&R Studios, New York<br>B5 Recorded at Avatar Studios, New York. Additional recordings at Henson Recording Studios, Los Angeles and at Hog Hill Mill, East Sussex. Mixed at The Mixsuite, UK; Henson Recording Studios, Los Angeles; Hog Hill Mill, East Sussex<br>C1 Recorded at Spirit of Ranachan Studio, Scotland. Mixed at Abbey Road Studios, London<br>C2 Recorded and mixed at Hog Hill Mill<br>C3 Recorded at Ocean Way Recording, Los Angeles. Mixed at AIR Studios, London<br>C4 Recorded at EMI Studios, Lagos and AIR Studios, London. Mixed at Kingsway Studios, London<br>C5 Recorded at Wolf tone Studios, London; AIR Studios, London and Hog Hill Mill, East Sussex. Addtional recording at Henson Recording Studios, Los Angeles. Mixed at The Mixsuite, UK; Henson Recording Studios, Los Angeles; Hog Hill Mill, East Sussex<br>D1 Recorded and mixed at Abbey Road Studios, London<br>D2 Recorded at EMI Studios, Lagos and AIR Studios, London. Mixed at Kingsway Studios, London<br>D3 Recorded at AIR Studios, Montserrat. Remixed at Hog Hill Mill, East Sussex<br>D4 Recorded at EMI Studios, Lagos and AIR Studios, London. Mixed at Kingsway Studios, London<br>E1 Recorded at EMI Studios, Lagos and AIR Studios, London. Mixed at Kingsway Studios, London<br>E2 Recorded and mixed at Abbey Road Studios, London<br>E3 Recorded and mixed at Abbey Road Studios, London<br>E4 Recorded and mixed at AIR Studios, London<br>E5 Recorded at AIR Studios, London. Mixed at Ocean Way Recording, Los Angeles<br>F1 Recorded at AIR Studios, London and Odysssey Studios, London. Additional recording at Cherokee Studios, Los Angeles and Sigma Sound Studios, New York. Mixed at The Mixsuite, UK<br>F2 Recorded at Avatar Studios, New York. London Symphony Orchestra recorded at Abbey Road Studios<br>F3 Recorded at Abbey Road Studios, London. Mixed at Replica Studios, London<br>F4 Recorded and mixed at Hog Hill Mill, East Sussex<br>F5 Recorded and mixed at AIR Studios, London<br>G1 Recorded at RAK Studios, London. Mixed at See Squared Studios, New York<br>G2 Recorded at AIR Studios, London. Remixed at Hog Hill Mill, East Sussex<br>G3 Recorded at Park Gate Studios, East Sussex. Additional recording at AIR Studios, London. remixed at Hog Hill Mill, East Sussex<br>G4 Recorded and mixed at Hog Hill Mill, East Sussex<br>G5 Recorded at Lower Gate Farm, Sussex. Mixed at Abbey Road Studios, London<br>G6 Recorded and mixed at AIR Studios, London<br>H1 Recorded at CBS Studios, New York. Mixed at Sound Recorder Studio, Los Angeles<br>H2 Recorded at AIR Studios, London and Hog Hill Mill, East Sussex. Orchestra recorded at Abbey Road Studios, London. Mixed at Hog Hill Mill, East Sussex<br>H3 Recorded at Fair Carol, Virgin Islands. Mixed at Abbey Road Studios, London<br>H4 Recorded at Abbey Road Studios, London and AIR Studios, London; Avatar Studios, New York; Hog Hill Mill, East Sussex. Orchestra recorded at Abbey Road Studios, London. Mixed at Henson Recording Studios, Los Angeles<br>H5 Recorded at Paul's home and at Morgan Studios, London. Mixed at EMI Studios, Abbey Road, London<br><br>All tracks published by MPL Communications Inc except A1, H1, H5 published by Sony/ATV Tunes LLC (ASCAP), C5, E4 published by MPL Communications INC/SONY/ATV Tunes LLC (ASCAP), F1 MPL Communications Inc (ASCAP)/Mijac Music (BMI)<br><br>A1 to A6 & B1 to B4, C1, C4, D1, D2, D4, E1 to E4, F3 to F5, G4 to G6, H1, H3, H5 remastered at Abbey Road Studios, London<br>A5, C5, H4 mastered at Sterling Sound, New York<br>C2, D3, F1, G2, G3 mastered at Abbey Road Studios, London<br>C3, E5 mastered at Ocean Way Mastering, Los Angeles<br>F2 mastered at The Mastering Lab, Ojai<br>G1, H2 mastered at Gateway Mastering, Portland<br>℗ and © 2016. Copyright owned by MPL Communications Inc/Ltd under exclusive license to Concord Music Group, Inc.<br> |
 | Discogs URL    | [Paul McCartney - Pure McCartney](https://www.discogs.com/release/8629111-Paul-McCartney-Pure-McCartney) |

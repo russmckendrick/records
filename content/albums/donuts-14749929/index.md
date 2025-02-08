@@ -36,72 +36,45 @@ But <I>Donuts</I> was Yancey’s final missive, notwithstanding a flood of posth
 
 
 ## Tracklisting
-1. Donuts (Outro) (0:12)
-2. Workinonit (2:57)
-3. Waves (1:38)
-4. Light My Fire (0:35)
-5. The New (0:49)
-6. Stop (1:39)
-7. People (1:24)
-8. The Difference (1:52)
-9. Mash (1:31)
-10. Time: The Donut Of The Heart (1:38)
-11. Glazed (1:21)
-12. Airworks (1:44)
-13. Lightworks (1:55)
-14. Stepson Of The Clapper (1:01)
-15. The Twister (Huh, What) (1:16)
-16. One Eleven (1:11)
-17. Two Can Win (1:47)
-18. Don't Cry (1:59)
-19. Anti-American Graffiti (1:53)
-20. Geek Down (1:19)
-21. Thunder (0:54)
-22. Gobstopper (1:05)
-23. One For Ghost (1:18)
-24. Dilla Says Go (1:16)
-25. Walkinonit (1:15)
-26. The Factory (1:23)
-27. U-Love (1:00)
-28. Hi. (1:16)
-29. Bye. (1:27)
-30. Last Donut Of The Night (1:39)
-31. Welcome To The Show (1:11)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Donuts (Outro) | 0:12 |
+| A2 | Workinonit | 2:57 |
+| A3 | Waves | 1:38 |
+| A4 | Light My Fire | 0:35 |
+| A5 | The New | 0:49 |
+| A6 | Stop | 1:39 |
+| A7 | People | 1:24 |
+| A8 | The Difference | 1:52 |
+| B1 | Mash | 1:31 |
+| B2 | Time: The Donut Of The Heart | 1:38 |
+| B3 | Glazed | 1:21 |
+| B4 | Airworks | 1:44 |
+| B5 | Lightworks | 1:55 |
+| B6 | Stepson Of The Clapper | 1:01 |
+| B7 | The Twister (Huh, What) | 1:16 |
+| C1 | One Eleven | 1:11 |
+| C2 | Two Can Win | 1:47 |
+| C3 | Don't Cry | 1:59 |
+| C4 | Anti-American Graffiti | 1:53 |
+| C5 | Geek Down | 1:19 |
+| C6 | Thunder | 0:54 |
+| C7 | Gobstopper | 1:05 |
+| D1 | One For Ghost | 1:18 |
+| D2 | Dilla Says Go | 1:16 |
+| D3 | Walkinonit | 1:15 |
+| D4 | The Factory | 1:23 |
+| D5 | U-Love | 1:00 |
+| D6 | Hi. | 1:16 |
+| D7 | Bye. | 1:27 |
+| D8 | Last Donut Of The Night | 1:39 |
+| D9 | Welcome To The Show | 1:11 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/donuts/108233171" >}}<br>
 
 
-## Videos
-### J Dilla - Last Donut of the Night Donuts Official Video
-{{< youtube id="fC3Cthm0HFU" title="J Dilla - Last Donut of the Night Donuts Official Video" >}}<br>
-### More Videos
-
-- [J Dilla - Workinonit - Donuts Full Album](https://www.youtube.com/watch?v=5nO7IA1DeeI)
-- [J Dilla - Waves - Donuts Full Album](https://www.youtube.com/watch?v=vykkfDITkQs)
-- [J Dilla - Light It - Donuts Full Album](https://www.youtube.com/watch?v=C3zqYM3Rkpg)
-- [J Dilla - The New - Donuts Full Album](https://www.youtube.com/watch?v=0piaF7P3404)
-- [J Dilla - Stop - Donuts Full Album](https://www.youtube.com/watch?v=Ek_cufWYvjE)
-- [J Dilla - People - Donuts Full Album](https://www.youtube.com/watch?v=zNJJBD_I5EU)
-- [J Dilla - The Diffrence - Donuts Full Album](https://www.youtube.com/watch?v=v2zTVZFlCZ0)
-- [J Dilla - Mash - Donuts Full Album](https://www.youtube.com/watch?v=ZLa6sX9N3Jw)
-- [J Dilla - Time The Donut of the Heart - Donuts Full Album](https://www.youtube.com/watch?v=c6qOBFkvdG0)
-- [J Dilla - Glazed - Donuts Full Album](https://www.youtube.com/watch?v=eYhHyUU-CYU)
-- [J Dilla - Airworks - Donuts Full Album](https://www.youtube.com/watch?v=HWz-yEZ6wNY)
-- [J Dilla - Lightworks- Donuts Full Album](https://www.youtube.com/watch?v=Bul7m3jN25Q)
-- [J Dilla - Stepson of the Clapper - Donuts Full Album](https://www.youtube.com/watch?v=Epab732wJWU)
-- [J Dilla - The Twister HuhWhat - Donuts Full Album](https://www.youtube.com/watch?v=6K7u4WJRXgY)
-- [J Dilla - One Eleven - Donuts Full Album](https://www.youtube.com/watch?v=TEPCiR3lidM)
-- [J Dilla - Anti-American Graffiti - Donuts Full Album](https://www.youtube.com/watch?v=_dBAk05eb2k)
-- [J Dilla - Thunder - Donuts Full Album](https://www.youtube.com/watch?v=pZoOyP013Hc)
-- [J Dilla - Gobstopper - Donuts Full Album](https://www.youtube.com/watch?v=atPXB02SLaw)
-- [J Dilla - One for Ghost - Donuts Full Album](https://www.youtube.com/watch?v=1QWY7CBNrgM)
-- [J Dilla - Dilla Says Go - Donuts Full Album](https://www.youtube.com/watch?v=RrCECnzWCDM)
-- [J Dilla - Walkinonit - Donuts Full Album](https://www.youtube.com/watch?v=odUauxvoNwQ)
-- [J Dilla - The Factory - Donuts Full Album](https://www.youtube.com/watch?v=TVdIkN6qT6g)
-- [J Dilla - Hi - Donuts Full Album](https://www.youtube.com/watch?v=uJj3UJkyiKg)
-- [J Dilla - Bye - Donuts Full Album](https://www.youtube.com/watch?v=2-hKtCCgIMw)
-- [J Dilla - Welcome to the Show - Donuts Full Album](https://www.youtube.com/watch?v=4tAsNON4SN0)
 
 ## Release Images
 {{< imageGrid >}}

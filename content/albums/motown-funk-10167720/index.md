@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Motown Funk"
 date: 2017-04-23T13:28:30.000000Z
+release_date: ""
 release_id: "10167720"
 slug: "motown-funk-10167720"
 hideSummary: true
@@ -21,46 +22,41 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Strung Out
-2. Easily Persuaded
-3. When My Love Hand Comes Down
-4. Psychedelic Shack
-5. Smiling Faces Sometimes
-6. The Hunter Gets Captured By The Game
-7. Who Is She (And What Is She To You)
-8. Ball Of Confusion
-9. Feelin' Alright
-10. Can I Get A Witness
-11. Here Comes The Judge
-12. Easin' In
-13. Papa Was A Rolling Stone
-14. "T" Plays It Cool
-15. Rapid Fire
-16. Scratchin'
-17. Give Me Your Love
-18. Brothers Gonna Work It Out
-19. LA (My Town)
-20. Girl You Need A Change Of Mind
-21. Our Lives Are Shaped By What We Love
-22. Sun Country
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Strung Out |  |
+| A2 | Easily Persuaded |  |
+| A3 | When My Love Hand Comes Down |  |
+| A4 | Psychedelic Shack |  |
+| A5 | Smiling Faces Sometimes |  |
+| A6 | The Hunter Gets Captured By The Game |  |
+| A7 | Who Is She (And What Is She To You) |  |
+| B1 | Ball Of Confusion |  |
+| B2 | Feelin' Alright |  |
+| B3 | Can I Get A Witness |  |
+| B4 | Here Comes The Judge |  |
+| B5 | Easin' In |  |
+| C1 | Papa Was A Rolling Stone |  |
+| C2 | "T" Plays It Cool |  |
+| C3 | Rapid Fire |  |
+| C4 | Scratchin' |  |
+| C5 | Give Me Your Love |  |
+| D1 | Brothers Gonna Work It Out |  |
+| D2 | LA (My Town) |  |
+| D3 | Girl You Need A Change Of Mind |  |
+| D4 | Our Lives Are Shaped By What We Love |  |
+| D5 | Sun Country |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Strung Out
-{{< youtube id="ldK1UHr_UzQ" title="Strung Out" >}}<br>
-### More Videos
 
-- [Martha Reeves  The Vandellas Easily Persuaded](https://www.youtube.com/watch?v=qoTQ9nEY7NM)
-- [Jimmy and David Ruffin When My Love Hand Comes Down](https://www.youtube.com/watch?v=a3iBPYbsTcM)
-- [The Temptations - Psychedelic Shack Extended Version](https://www.youtube.com/watch?v=G5ZS6zCwsmk)
-- [Barbara McNair - The Hunter Gets Captured By The Game](https://www.youtube.com/watch?v=e1aQDKgjm3g)
-- [Strung Out](https://www.youtube.com/watch?v=ldK1UHr_UzQ)
-- [Martha Reeves  The Vandellas Easily Persuaded](https://www.youtube.com/watch?v=qoTQ9nEY7NM)
-- [Jimmy and David Ruffin When My Love Hand Comes Down](https://www.youtube.com/watch?v=a3iBPYbsTcM)
-- [The Temptations - Psychedelic Shack Extended Version](https://www.youtube.com/watch?v=G5ZS6zCwsmk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +67,5 @@ styles: ["Funk", "Disco", "Soul", "Psychedelic"]
 | Format         | Vinyl 2× LP Compilation (Red Translucent) |
 | Label          | Tamla Motown |
 | Catalog Number | 537 552-0 |
-| Notes | Released on Record Store Day 2017. Made in the E.U. Coordinated by Spectrum Music, a Universal Music Group Company. |
+| Notes | Released on Record Store Day 2017.<br>Made in the E.U.<br>Coordinated by Spectrum Music, a Universal Music Group Company. |
 | Discogs URL    | [Various - Motown Funk](https://www.discogs.com/release/10167720-Various-Motown-Funk) |

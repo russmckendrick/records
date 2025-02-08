@@ -30,38 +30,37 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 
 
 ## Tracklisting
-1. Good Times Bad Times (2:46)
-2. Communication Breakdown (2:28)
-3. Dazed And Confused (6:26)
-4. Babe I'm Gonna Leave You (6:41)
-5. Whole Lotta Love (5:34)
-6. Ramble On (4:23)
-7. Heartbreaker (4:14)
-8. Immigrant Song (2:23)
-9. Since I've Been Loving You (7:24)
-10. Rock And Roll (3:40)
-11. Black Dog (4:54)
-12. When The Levee Breaks (7:07)
-13. Stairway To Heaven (8:00)
-14. The Song Remains The Same (5:29)
-15. Over The Hills And Far Away (4:47)
-16. D'Yer Maker (4:22)
-17. No Quarter (6:59)
-18. Trampled Under Foot (5:35)
-19. Houses Of The Holy (4:01)
-20. Kashmir (8:31)
-21. Nobody's Fault But Mine (6:27)
-22. Achilles Last Stand (10:22)
-23. In The Evening (6:49)
-24. All Of My Love (5:53)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Good Times Bad Times | 2:46 |
+| A2 | Communication Breakdown | 2:28 |
+| A3 | Dazed And Confused | 6:26 |
+| A4 | Babe I'm Gonna Leave You | 6:41 |
+| B1 | Whole Lotta Love | 5:34 |
+| B2 | Ramble On | 4:23 |
+| B3 | Heartbreaker | 4:14 |
+| B4 | Immigrant Song | 2:23 |
+| C1 | Since I've Been Loving You | 7:24 |
+| C2 | Rock And Roll | 3:40 |
+| C3 | Black Dog | 4:54 |
+| D1 | When The Levee Breaks | 7:07 |
+| D2 | Stairway To Heaven | 8:00 |
+| D3 | The Song Remains The Same | 5:29 |
+| E1 | Over The Hills And Far Away | 4:47 |
+| E2 | D'Yer Maker | 4:22 |
+| E3 | No Quarter | 6:59 |
+| F1 | Trampled Under Foot | 5:35 |
+| F2 | Houses Of The Holy | 4:01 |
+| F3 | Kashmir | 8:31 |
+| G1 | Nobody's Fault But Mine | 6:27 |
+| G2 | Achilles Last Stand | 10:22 |
+| H1 | In The Evening | 6:49 |
+| H2 | All Of My Love | 5:53 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/led-zeppelin-remastered/580708520" >}}<br>
 
-
-## Videos
-### Led Zeppelin - Mothership Full Album 2007 Remaster  Led Zeppelin - Greatest Hits
-{{< youtube id="FDMq9ie0ih0" title="Led Zeppelin - Mothership Full Album 2007 Remaster  Led Zeppelin - Greatest Hits" >}}<br>
 
 
 ## Release Images
@@ -74,5 +73,5 @@ It starts during the first seconds of opening track “Good Times Bad Times”, 
 | Format         | Box Set, Vinyl 4× LP Compilation Enhanced Reissue Remastered (Embossed, 180 Gram) |
 | Label          | Atlantic |
 | Catalog Number | R1 344700 |
-| Notes | This Reissue ℗ 2007 Atlantic Recording Corporation, Warner Music Group Company   © 2007 Mythgem, Ltd.  4-LP Set  Sticker on box front states :   - The Very Best of Led Zepplin - Remastering Supervised by Jimmy Page - Using the new 2014/2015 96kHz/24 bit Masters on Four 180-GRAM LPs - On Four 180-Gram LPS - Plus 20-Page Booklet  |
+| Notes | This Reissue ℗ 2007 Atlantic Recording Corporation, Warner Music Group Company  <br>© 2007 Mythgem, Ltd.<br><br>4-LP Set<br><br>Sticker on box front states : <br><br>- The Very Best of Led Zepplin<br>- Remastering Supervised by Jimmy Page<br>- Using the new 2014/2015 96kHz/24 bit Masters on Four 180-GRAM LPs<br>- On Four 180-Gram LPS<br>- Plus 20-Page Booklet<br> |
 | Discogs URL    | [Led Zeppelin - Mothership](https://www.discogs.com/release/7690309-Led-Zeppelin-Mothership) |

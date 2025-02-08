@@ -4,6 +4,7 @@ artist_name: "Suede"
 artist: "suede"
 album_name: "Head Music"
 date: 2017-05-04T21:09:51.000000Z
+release_date: "1996"
 release_id: "5448682"
 slug: "head-music-5448682"
 hideSummary: true
@@ -28,38 +29,33 @@ styles: ["Alternative Rock", "Britpop"]
 ---
 
 Head Music is the fourth album by English alternative rock band Suede, released by Nude Records in May 1999. Produced and mixed by Steve Osborne, Head Music features a more electronic sound, which was a new approach for the band. The recording of Head Music was plagued with difficulties such as singer Brett Anderson's addiction to crack, and keyboardist Neil Codling's struggle with chronic fatigue syndrome. The album still went to number 1 on the UK Albums Chart, however, making it the band's third and final chart-topping album. Overall, the album received generally favourable reviews from critics.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Electricity (4:39)
-2. Savoir Faire (4:37)
-3. Can't Get Enough (3:58)
-4. Everything Will Flow (4:41)
-5. Down (6:12)
-6. She's In Fashion (4:53)
-7. Asbestos (5:17)
-8. Head Music (3:23)
-9. Elephant Man (3:06)
-10. Hi-Fi (5:09)
-11. Indian Strings (4:21)
-12. He's Gone (5:35)
-13. Crack In The Union Jack (1:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Electricity | 4:39 |
+| A2 | Savoir Faire | 4:37 |
+| A3 | Can't Get Enough | 3:58 |
+| B1 | Everything Will Flow | 4:41 |
+| B2 | Down | 6:12 |
+| B3 | She's In Fashion | 4:53 |
+| C1 | Asbestos | 5:17 |
+| C2 | Head Music | 3:23 |
+| C3 | Elephant Man | 3:06 |
+| D1 | Hi-Fi | 5:09 |
+| D2 | Indian Strings | 4:21 |
+| D3 | He's Gone | 5:35 |
+| D4 | Crack In The Union Jack | 1:56 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/green-suede-head-music-for-lovers/1761221734" >}}<br>
 
 
-## Videos
-### Suede - Everything Will Flow
-{{< youtube id="iJKPP13Tqi4" title="Suede - Everything Will Flow" >}}<br>
-### More Videos
-
-- [Suede - Electricity](https://www.youtube.com/watch?v=ygHrqRx7Abg)
-- [Suede - Shes In Fashion](https://www.youtube.com/watch?v=iNPA68htGxk)
-- [Suede - Cant Get Enough](https://www.youtube.com/watch?v=FGeFkrfrHLc)
-- [Suede - Electricity Official Video](https://www.youtube.com/watch?v=ygHrqRx7Abg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +67,5 @@ Head Music is the fourth album by English alternative rock band Suede, released 
 | Format         | Vinyl 2× LP Album Reissue (180 g) |
 | Label          | Demon Records |
 | Catalog Number | INSATIABLE 4 |
-| Notes | Mastered at The Townhouse. Pressed at Damont Audio Limited.  Designed at Commercial Art.  Supplied with download card for the full album.   Though reissued in 2014, copyright notice states '(c) 2013'.   |
+| Notes | Mastered at The Townhouse. Pressed at Damont Audio Limited.<br>Designed at Commercial Art.<br>Supplied with download card for the full album. <br>Though reissued in 2014, copyright notice states '(c) 2013'.<br> |
 | Discogs URL    | [Suede - Head Music](https://www.discogs.com/release/5448682-Suede-Head-Music) |

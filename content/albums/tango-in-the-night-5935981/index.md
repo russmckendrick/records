@@ -34,38 +34,26 @@ Several of the songs started out as demos for a new Lindsey Buckingham solo albu
 
 
 ## Tracklisting
-1. Big Love (3:37)
-2. Seven Wonders (3:38)
-3. Everywhere (3:41)
-4. Caroline (3:50)
-5. Tango In The Night (3:56)
-6. Mystified (3:06)
-7. Little Lies (3:38)
-8. Family Man (4:01)
-9. Welcome To The Room...Sara (3:37)
-10. Isn't It Midnight (4:06)
-11. When I See You Again (3:47)
-12. You And I, Part II (2:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Big Love | 3:37 |
+| A2 | Seven Wonders | 3:38 |
+| A3 | Everywhere | 3:41 |
+| A4 | Caroline | 3:50 |
+| A5 | Tango In The Night | 3:56 |
+| A6 | Mystified | 3:06 |
+| B1 | Little Lies | 3:38 |
+| B2 | Family Man | 4:01 |
+| B3 | Welcome To The Room...Sara | 3:37 |
+| B4 | Isn't It Midnight | 4:06 |
+| B5 | When I See You Again | 3:47 |
+| B6 | You And I, Part II | 2:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tango-in-the-night-remastered/1217901688" >}}<br>
 
 
-## Videos
-### Fleetwood Mac - Everywhere Official Music Video
-{{< youtube id="YF1R0hc5Q2I" title="Fleetwood Mac - Everywhere Official Music Video" >}}<br>
-### More Videos
-
-- [FLEETWOOD MAC - Big Love 87](https://www.youtube.com/watch?v=ID0Q8L39rNg)
-- [Fleetwood Mac - Seven Wonders Official Music Video](https://www.youtube.com/watch?v=9b4F_ppjnKU)
-- [Fleetwood Mac - Caroline](https://www.youtube.com/watch?v=Y9td_JisDOI)
-- [Fleetwood Mac - Family Man](https://www.youtube.com/watch?v=CZbPD54KTHk)
-- [Tango in the Night 2017 Remaster](https://www.youtube.com/watch?v=i_xlI6gMH7U)
-- [Fleetwood Mac - Little Lies](https://www.youtube.com/watch?v=yWutmIaNv-o)
-- [Fleetwood Mac- 09- Welcome To The RoomSara](https://www.youtube.com/watch?v=80ZXt56rDQ8)
-- [You and I Pt II 2017 Remaster](https://www.youtube.com/watch?v=FU7t8oo4ctY)
-- [Fleetwood Mac - Isnt It Midnight](https://www.youtube.com/watch?v=v2mtUs6GELA)
-- [When I See You Again 2017 Remaster](https://www.youtube.com/watch?v=gKyigbXAx5Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +65,5 @@ Several of the songs started out as demos for a new Lindsey Buckingham solo albu
 | Format         | Vinyl LP Album Stereo |
 | Label          | Warner Bros. Records |
 | Catalog Number | WX 65 |
-| Notes | Please note that this record was originally pressed by Allied Record Company (according to the runout groove). But this is certainly a Record Service Alsdorf pressing.  Issued with a printed inner sleeve with lyrics and credits. Some copies issued with sticker advertising hit songs.  ℗ & © 1987 Warner Bros. Records Inc. for the US & WEA International Inc. for the world outside of the US.  [Inner sleeve & back cover]: UK: WX 65  [On runouts]: - Mastering/processing method derived from the runouts: Direct Metal Mastering [DMM]. - Originally mastered at Precision Lacquer. - Masters were plated at Specialty Records Corporation (SRC), mastered and pressed at Record Service Alsdorf as identified by their specific pattern in the runouts: Country code: SP-GER or SPGER. - Record Service Alsdorf used already existing US mothers. The processing of lacquer disc & 'metalwork' / 'plating' was made at Sheffield Lab Matrix as subcontractor for the Allied Record Company – which can be identified by etched string "△ #####-X" along with a "-SH#" and without the [Allied 'ɑ' logo]-stamp but with the manufacturer matrix number B-#####.   This album is dedicated to [a=Judy Wong].  [url=http://www.discogs.com/release/436642]This release[/url] is almost identical, but different text on the center label below song list on label reads here "All songs published (GB. only)." Runouts are stamped and etched |
+| Notes | Please note that this record was originally pressed by Allied Record Company (according to the runout groove). But this is certainly a Record Service Alsdorf pressing.<br><br>Issued with a printed inner sleeve with lyrics and credits.<br>Some copies issued with sticker advertising hit songs.<br><br>℗ & © 1987 Warner Bros. Records Inc. for the US & WEA International Inc. for the world outside of the US.<br><br>[Inner sleeve & back cover]:<br>UK: WX 65<br><br>[On runouts]:<br>- Mastering/processing method derived from the runouts: Direct Metal Mastering [DMM].<br>- Originally mastered at Precision Lacquer.<br>- Masters were plated at Specialty Records Corporation (SRC), mastered and pressed at Record Service Alsdorf as identified by their specific pattern in the runouts: Country code: SP-GER or SPGER.<br>- Record Service Alsdorf used already existing US mothers. The processing of lacquer disc & 'metalwork' / 'plating' was made at Sheffield Lab Matrix as subcontractor for the Allied Record Company – which can be identified by etched string "△ #####-X" along with a "-SH#" and without the [Allied 'ɑ' logo]-stamp but with the manufacturer matrix number B-#####.<br><br><br>This album is dedicated to [a=Judy Wong].<br><br>[url=http://www.discogs.com/release/436642]This release[/url] is almost identical, but different text on the center label below song list on label reads here "All songs published (GB. only)."<br>Runouts are stamped and etched |
 | Discogs URL    | [Fleetwood Mac - Tango In The Night](https://www.discogs.com/release/5935981-Fleetwood-Mac-Tango-In-The-Night) |

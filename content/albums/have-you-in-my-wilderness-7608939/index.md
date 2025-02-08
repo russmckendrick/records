@@ -33,33 +33,24 @@ Bold experimentalism is key for Californian Julia Holter. Her third album is a m
 
 
 ## Tracklisting
-1. Feel You
-2. Silhouette
-3. How Long?
-4. Lucette Stranded On The Island
-5. Night Song
-6. Sea Calls Me Home
-7. Everytime Boots
-8. Betsy On The Roof
-9. Vasquez
-10. Have You In My Wilderness
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Feel You |  |
+| A2 | Silhouette |  |
+| A3 | How Long? |  |
+| A4 | Lucette Stranded On The Island |  |
+| A5 | Night Song |  |
+| B1 | Sea Calls Me Home |  |
+| B2 | Everytime Boots |  |
+| B3 | Betsy On The Roof |  |
+| B4 | Vasquez |  |
+| B5 | Have You In My Wilderness |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/have-you-in-my-wilderness/1046817772" >}}<br>
 
 
-## Videos
-### Julia Holter - Feel You Official Video
-{{< youtube id="X2JgMniIpRM" title="Julia Holter - Feel You Official Video" >}}<br>
-### More Videos
-
-- [Julia Holter - Silhouette Official Video](https://www.youtube.com/watch?v=m8_ZWlOKsUQ)
-- [How Long](https://www.youtube.com/watch?v=rV6dzWOSEQE)
-- [Lucette Stranded on the Island](https://www.youtube.com/watch?v=QhBhpQgN0MU)
-- [Julia Holter - Betsy On The Roof Official Audio](https://www.youtube.com/watch?v=Sr2GYsynCFg)
-- [Julia Holter - Sea Calls Me Home Official Video](https://www.youtube.com/watch?v=OERixQR-hxY)
-- [Have You In My Wilderness](https://www.youtube.com/watch?v=uYLOYsDYpRg)
-- [Julia Holter   Vasquez  hommage à Julia - unofficial video](https://www.youtube.com/watch?v=w8USu4D0dvw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +62,5 @@ Bold experimentalism is key for Californian Julia Holter. Her third album is a m
 | Format         | Vinyl LP Album |
 | Label          | Domino |
 | Catalog Number | WIGLP341 |
-| Notes | Generic hype sticker on shrink wrap reads: "Comes With MP3s! Details enclosed. 180gm heavyweight virgin vinyl"   Includes download code card and printed lyric inner sleeve.  On sleeve, inner and labels, track A5 is incorrectly listed as Sea Calls Me Home, and track B1 as Night Song.  Some copies ordered from Piccadilly Records contain bonus 8-track promo CD titled "Julia Holter. Selected Tracks 2011-2014".  Thank you: Mom, Dad, Robin, Yelena, Dicky, Tashi and Ramona  In memory of my grandparents Nick and Jeanette, who gave me my first piano   Domino Recording Co. Ltd. P.O. Box 47029 London SW18 1WD / 20 Jay Street, Suite 626, Brooklyn NY 11201 Made in the E.U. |
+| Notes | Generic hype sticker on shrink wrap reads: "Comes With MP3s! Details enclosed. 180gm heavyweight virgin vinyl" <br><br>Includes download code card and printed lyric inner sleeve.<br><br>On sleeve, inner and labels, track A5 is incorrectly listed as Sea Calls Me Home, and track B1 as Night Song.<br><br>Some copies ordered from Piccadilly Records contain bonus 8-track promo CD titled "Julia Holter. Selected Tracks 2011-2014".<br><br>Thank you: Mom, Dad, Robin, Yelena, Dicky, Tashi and Ramona <br>In memory of my grandparents Nick and Jeanette, who gave me my first piano <br><br>Domino Recording Co. Ltd. P.O. Box 47029 London SW18 1WD / 20 Jay Street, Suite 626, Brooklyn NY 11201<br>Made in the E.U. |
 | Discogs URL    | [Julia Holter - Have You In My Wilderness](https://www.discogs.com/release/7608939-Julia-Holter-Have-You-In-My-Wilderness) |

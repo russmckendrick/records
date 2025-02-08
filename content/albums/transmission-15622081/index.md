@@ -4,6 +4,7 @@ artist_name: "Joy Division"
 artist: "joy-division"
 album_name: "Transmission"
 date: 2020-07-17T12:21:06.000000Z
+release_date: "2023-06-08"
 release_id: "15622081"
 slug: "transmission-15622081"
 hideSummary: true
@@ -24,25 +25,22 @@ styles: ["New Wave", "Post-Punk"]
 ---
 
 "Transmission" is a song by English post-punk band Joy Division. Originally recorded in 1978 for the band's aborted self-titled album, it was later re-recorded the following year at a faster tempo and released by record label Factory as the band's debut single.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Transmission
-2. Novelty
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Transmission |  |
+| B | Novelty |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/joy-division-live-in-amsterdam-1980-live/1691356861" >}}<br>
 
 
-## Videos
-### Transmission 2020 Digital Remaster
-{{< youtube id="6jXyZFOkwjQ" title="Transmission 2020 Digital Remaster" >}}<br>
-### More Videos
-
-- [Novelty 2020 Digital Remaster](https://www.youtube.com/watch?v=KykUJ_Ug1t0)
-- [Joy Division - Transmission OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=6dBt3mJtgJc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -54,5 +52,5 @@ styles: ["New Wave", "Post-Punk"]
 | Format         | Vinyl 12" 45 RPM Single Reissue Remastered Stereo (180g) |
 | Label          | Factory |
 | Catalog Number | FAC13.12 |
-| Notes | Embossed sleeve.  On front: FACTORY RECORDS—DEC.80—JD—FAC.13.12—A  On spine: JOY DIVISION TRANSMISSION  Ⓟ1979, 2020 Warner Music UK Ltd.  ©2020 Warner Music UK Ltd.  On rear: FACTORY RECORDS—DEC.80—JD—FAC.13.12—B  On black inner sleeve (both sides): White [l264765] logo on bottom |
+| Notes | Embossed sleeve.<br><br>On front:<br>FACTORY RECORDS—DEC.80—JD—FAC.13.12—A<br><br>On spine:<br>JOY DIVISION TRANSMISSION  Ⓟ1979, 2020 Warner Music UK Ltd.  ©2020 Warner Music UK Ltd.<br><br>On rear:<br>FACTORY RECORDS—DEC.80—JD—FAC.13.12—B<br><br>On black inner sleeve (both sides):<br>White [l264765] logo on bottom |
 | Discogs URL    | [Joy Division - Transmission](https://www.discogs.com/release/15622081-Joy-Division-Transmission) |

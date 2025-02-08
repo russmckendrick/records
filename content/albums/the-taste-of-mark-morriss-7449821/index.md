@@ -4,6 +4,7 @@ artist_name: "Mark Morriss"
 artist: "mark-morriss"
 album_name: "The Taste Of Mark Morriss"
 date: 2015-12-15T18:07:13.000000Z
+release_date: "2015-07-24"
 release_id: "7449821"
 slug: "the-taste-of-mark-morriss-7449821"
 hideSummary: true
@@ -19,35 +20,31 @@ styles: ["Indie Pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. This Pullover
-2. Rock And Roll Woman
-3. Souvenir
-4. Self Control
-5. Duchess
-6. You Are My Friend
-7. Lucretia (My Reflection)
-8. Angel
-9. Almost Gold
-10. Don't Let Go
-11. Love Comes Quickly
-12. Good Advices
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | This Pullover |  |
+| A2 | Rock And Roll Woman |  |
+| A3 | Souvenir |  |
+| A4 | Self Control |  |
+| A5 | Duchess |  |
+| A6 | You Are My Friend |  |
+| B1 | Lucretia (My Reflection) |  |
+| B2 | Angel |  |
+| B3 | Almost Gold |  |
+| B4 | Don't Let Go |  |
+| B5 | Love Comes Quickly |  |
+| B6 | Good Advices |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-taste-of-mark-morriss/1182948149" >}}<br>
 
 
-## Videos
-### Souvenir
-{{< youtube id="6RGWoXzmp7k" title="Souvenir" >}}<br>
-### More Videos
-
-- [You Are My Friend](https://www.youtube.com/watch?v=n3V6cL8M2ao)
-- [This Pullover](https://www.youtube.com/watch?v=yq-NOQHY1xI)
-- [Souvenir](https://www.youtube.com/watch?v=6RGWoXzmp7k)
-- [You Are My Friend](https://www.youtube.com/watch?v=n3V6cL8M2ao)
-- [This Pullover](https://www.youtube.com/watch?v=yq-NOQHY1xI)
 
 ## Release Images
 {{< imageGrid >}}

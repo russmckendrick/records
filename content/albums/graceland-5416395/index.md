@@ -36,31 +36,25 @@ Released in 1986, <i>Graceland</i> would become the most successful solo album o
 
 
 ## Tracklisting
-1. The Boy In The Bubble (3:59)
-2. Graceland (4:48)
-3. I Know What I Know (3:13)
-4. Gumboots (2:42)
-5. Diamonds On The Soles Of Her Shoes (5:34)
-6. You Can Call Me Al (4:39)
-7. Under African Skies (3:34)
-8. Homeless (3:45)
-9. Crazy Love Vol II (4:17)
-10. That Was Your Mother (2:51)
-11. All Around The World Or The Myth Of Fingerprints (3:15)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Boy In The Bubble | 3:59 |
+| A2 | Graceland | 4:48 |
+| A3 | I Know What I Know | 3:13 |
+| A4 | Gumboots | 2:42 |
+| A5 | Diamonds On The Soles Of Her Shoes | 5:34 |
+| B1 | You Can Call Me Al | 4:39 |
+| B2 | Under African Skies | 3:34 |
+| B3 | Homeless | 3:45 |
+| B4 | Crazy Love Vol II | 4:17 |
+| B5 | That Was Your Mother | 2:51 |
+| B6 | All Around The World Or The Myth Of Fingerprints | 3:15 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/graceland/529574560" >}}<br>
 
 
-## Videos
-### Paul Simon - You Can Call Me Al Official Video
-{{< youtube id="uq-gYOrU8bA" title="Paul Simon - You Can Call Me Al Official Video" >}}<br>
-### More Videos
-
-- [Paul Simon - Gumboots Official Audio](https://www.youtube.com/watch?v=L-AQTtXUxYU)
-- [Homeless](https://www.youtube.com/watch?v=Cb04PK_oTlM)
-- [Paul Simon - The Boy In The Bubble](https://www.youtube.com/watch?v=Uy5T6s25XK4)
-- [Paul Simon - Graceland Official Audio](https://www.youtube.com/watch?v=GP6a-7MP91g)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +66,5 @@ Released in 1986, <i>Graceland</i> would become the most successful solo album o
 | Format         | Vinyl LP Album (Embossed) |
 | Label          | Warner Bros. Records |
 | Catalog Number | WX 52 |
-| Notes | All Rights in the U.K. & Eire controlled by Pattern M. Ltd. Embossed horseman picture on front cover (very slightly raised). |
+| Notes | All Rights in the U.K. & Eire controlled by Pattern M. Ltd.<br>Embossed horseman picture on front cover (very slightly raised). |
 | Discogs URL    | [Paul Simon - Graceland](https://www.discogs.com/release/5416395-Paul-Simon-Graceland) |

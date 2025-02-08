@@ -4,6 +4,7 @@ artist_name: "Church Of The Cosmic Skull"
 artist: "church-of-the-cosmic-skull"
 album_name: "Is Satan Real?"
 date: 2018-02-23T17:14:18.000000Z
+release_date: "2016-09-16"
 release_id: "10504683"
 slug: "is-satan-real-10504683"
 hideSummary: true
@@ -25,31 +26,26 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Mountain Heart
-2. Black Slug
-3. Movements In The Sky
-4. Answers In Your Soul
-5. Is Satan Real?
-6. Watch It Grow
-7. Evil In Your Eye
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mountain Heart |  |
+| A2 | Black Slug |  |
+| A3 | Movements In The Sky |  |
+| A4 | Answers In Your Soul |  |
+| B1 | Is Satan Real? |  |
+| B2 | Watch It Grow |  |
+| B3 | Evil In Your Eye |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/is-satan-real/1146826298" >}}<br>
 
 
-## Videos
-### Church of the Cosmic Skull - Mountain Heart Official Audio
-{{< youtube id="WkqEmrRxGIg" title="Church of the Cosmic Skull - Mountain Heart Official Audio" >}}<br>
-### More Videos
-
-- [Church of the Cosmic Skull - Black Slug Official Video](https://www.youtube.com/watch?v=xCQCLe40avs)
-- [Church of the Cosmic Skull - Movements in the Sky Official Audio](https://www.youtube.com/watch?v=6gLGnncwnYc)
-- [Church of the Cosmic Skull - Answers in your Soul Official Audio](https://www.youtube.com/watch?v=kLQ0yAkmbis)
-- [Church of the Cosmic Skull - Is Satan Real Official Audio](https://www.youtube.com/watch?v=kSrj2qMDiJ4)
-- [Church of the Cosmic Skull - Watch it Grow Official Audio](https://www.youtube.com/watch?v=S_87QEtsXYA)
-- [Church of the Cosmic Skull - Evil in your Eye Official Audio](https://www.youtube.com/watch?v=f5_w2ovow84)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,5 +56,5 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 | Format         | Vinyl LP Album Limited Edition Reissue (Alternative Artwork, Clear) |
 | Label          | Bilocation Records |
 | Catalog Number | BILOCATION 44 |
-| Notes | Second pressing with different cover artwork.  Limited to 500 copies on 180gr. clear vinyl. |
+| Notes | Second pressing with different cover artwork.<br><br>Limited to 500 copies on 180gr. clear vinyl. |
 | Discogs URL    | [Church Of The Cosmic Skull - Is Satan Real?](https://www.discogs.com/release/10504683-Church-Of-The-Cosmic-Skull-Is-Satan-Real) |

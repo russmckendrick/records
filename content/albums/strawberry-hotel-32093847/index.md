@@ -4,6 +4,7 @@ artist_name: "Underworld"
 artist: "underworld"
 album_name: "Strawberry Hotel"
 date: 2024-11-11T00:49:15.000000Z
+release_date: "2024-10-25"
 release_id: "32093847"
 slug: "strawberry-hotel-32093847"
 hideSummary: true
@@ -31,54 +32,35 @@ styles: ["Techno", "House", "Ambient"]
 ---
 
 Strawberry Hotel is the eleventh studio album by British electronic group Underworld, released on 25 October 2024 through Virgin Music and the band's own label Smith Hyde Productions. It is the group's first studio album in five years, following on from the release of Drift Series 1 in 2019.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Black Poppies (2:52)
-2. Denver Luna (8:01)
-3. Techno Shinkansen (3:23)
-4. And The Colour Red (5:42)
-5. Sweet Lands Experience (4:44)
-6. Lewis In Pomona (5:38)
-7. Hilo Sky (5:04)
-8. Burst Of Laughter (3:27)
-9. King Of Haarlem (3:46)
-10. Ottavia (5:00)
-11. Denver Luna (Acappella) (2:27)
-12. Gene Pool (9:07)
-13. Oh Thorn! (1:59)
-14. Iron Bones (4:39)
-15. Stick Man Test (2:35)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A01 | Black Poppies | 2:52 |
+| A02 | Denver Luna | 8:01 |
+| A03 | Techno Shinkansen | 3:23 |
+| A04 | And The Colour Red | 5:42 |
+| B05 | Sweet Lands Experience | 4:44 |
+| B06 | Lewis In Pomona | 5:38 |
+| B07 | Hilo Sky | 5:04 |
+| B08 | Burst Of Laughter | 3:27 |
+| C09 | King Of Haarlem | 3:46 |
+| C10 | Ottavia | 5:00 |
+| C11 | Denver Luna (Acappella) | 2:27 |
+| D12 | Gene Pool | 9:07 |
+| D13 | Oh Thorn! | 1:59 |
+| D14 | Iron Bones | 4:39 |
+| D15 | Stick Man Test | 2:35 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/strawberry-hotel/1761865594" >}}<br>
 
 
-## Videos
-### Underworld - Black Poppies Official Visualiser
-{{< youtube id="BUL5J4JzRDA" title="Underworld - Black Poppies Official Visualiser" >}}<br>
-### More Videos
-
-- [Underworld - denver luna Official Visualiser](https://www.youtube.com/watch?v=q6JDLlf2qeE)
-- [Underworld - Techno Shinkansen Official Visualiser](https://www.youtube.com/watch?v=fdkvkHUEgP4)
-- [Underworld - and the colour red full length video](https://www.youtube.com/watch?v=Rh4tuUkANtg)
-- [Sweet Lands Experience](https://www.youtube.com/watch?v=QKqlimyXqn8)
-- [Lewis in Pomona](https://www.youtube.com/watch?v=ROhdGMs-0c8)
-- [Hilo Sky](https://www.youtube.com/watch?v=T0Jq8BTCm64)
-- [Burst of Laughter](https://www.youtube.com/watch?v=e_Km9DBp5BQ)
-- [King of Haarlem](https://www.youtube.com/watch?v=teFXWYe8fhs)
-- [Ottavia](https://www.youtube.com/watch?v=bjckrCiSuOs)
-- [Underworld - denver luna acappella](https://www.youtube.com/watch?v=jBZeQly_NZc)
-- [Gene Pool](https://www.youtube.com/watch?v=zNWriAT0UfM)
-- [Oh Thorn](https://www.youtube.com/watch?v=X1yPrEUiYPk)
-- [Iron Bones](https://www.youtube.com/watch?v=oUhGZXKpoQc)
-- [Stick Man Test](https://www.youtube.com/watch?v=T9XIPKmcABY)
-- [Underworld - Black Poppies Official Visualiser](https://www.youtube.com/watch?v=BUL5J4JzRDA)
-- [Underworld - denver luna Official Visualiser](https://www.youtube.com/watch?v=q6JDLlf2qeE)
-- [Underworld - Techno Shinkansen Official Visualiser](https://www.youtube.com/watch?v=fdkvkHUEgP4)
-- [Underworld Velvet Does  Strawberry Hotel High Fidelity Disc - Japan Only Bonus Track ](https://www.youtube.com/watch?v=N52d4l0wNzc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -90,5 +72,5 @@ Strawberry Hotel is the eleventh studio album by British electronic group Underw
 | Format         | Vinyl 2× LP Album Stereo (180g) |
 | Label          | Smith Hyde Productions |
 | Catalog Number | UWR00098 |
-| Notes | Underworld’s 11th studio album ‘Strawberry Hotel’ on double vinyl gatefold,  180grm black heavy-weight vinyl cut at half speed.  Track C10 "Ottavia": Text translated by Esme from Claudio Monteverdis Lincoronazionedi Poppea.  Rick Smith and Karl Hyde are published by Universal Music Publishing (PRS). ℗ & © 2024 Underworld t/a Smith Hyde Productions. Distributed by Virgin Music. |
+| Notes | Underworld’s 11th studio album ‘Strawberry Hotel’ on double vinyl gatefold, <br>180grm black heavy-weight vinyl cut at half speed.<br><br>Track C10 "Ottavia": Text translated by Esme from Claudio Monteverdis Lincoronazionedi Poppea.<br><br>Rick Smith and Karl Hyde are published by Universal Music Publishing (PRS).<br>℗ & © 2024 Underworld t/a Smith Hyde Productions. Distributed by Virgin Music. |
 | Discogs URL    | [Underworld - Strawberry Hotel](https://www.discogs.com/release/32093847-Underworld-Strawberry-Hotel) |

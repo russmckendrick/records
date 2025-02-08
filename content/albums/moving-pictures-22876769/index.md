@@ -4,6 +4,7 @@ artist_name: "Rush"
 artist: "rush"
 album_name: "Moving Pictures"
 date: 2022-05-04T11:49:16.000000Z
+release_date: "2015-05-18"
 release_id: "22876769"
 slug: "moving-pictures-22876769"
 hideSummary: true
@@ -59,50 +60,48 @@ Moving Pictures is the eighth studio album by Canadian rock band Rush, released 
 Moving Pictures received a positive reception from contemporary and retrospective music critics and became an instant commercial success, reaching number one in Canada and number three in both the United States and the United Kingdom. It remains Rush's highest-selling album in the United States, with five million copies sold. "Limelight", "Tom Sawyer" and "Vital Signs" were released as singles across 1981, and the instrumental "YYZ" was nominated for a Grammy Award for Best Rock Instrumental Performance. Rush supported the album on tour from February to July 1981. In 2020, Rolling Stone ranked the album number 379 on its list of the "500 Greatest Albums of All Time".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Moving Pictures
-2. Tom Sawyer
-3. Red Barchetta
-4. YYZ
-5. Limelight
-6. The Camera Eye
-7. Witch Hunt
-8. Vital Signs
-9. Live in YYZ 1981
-10. 2112 - Overture
-11. 2112 - The Temples Of Syrinx
-12. Freewill
-13. Limelight
-14. Cygnus X-1 Book II: Hemispheres - Prelude
-15. Beneath, Between & Behind
-16. The Camera Eye
-17. YYZ
-18. Broon's Bane
-19. The Trees
-20. Xanadu
-21. The Spirit Of Radio
-22. Red Barchetta
-23. Closer To The Heart
-24. Tom Sawyer
-25. Vital Signs
-26. Natural Science
-27. I - Working Man / Cygnus X-1 Book II: Hemispheres – Armageddon: The Battle Of Heart And Mind / By-Tor & The Snow Dog / In The End / In The Mood / 2112 – Grand Finale
-28. La Villa Strangiato
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Moving Pictures |  |
+| A1 | Tom Sawyer |  |
+| A2 | Red Barchetta |  |
+| A3 | YYZ |  |
+| A4 | Limelight |  |
+| B1 | The Camera Eye |  |
+| B2 | Witch Hunt |  |
+| B3 | Vital Signs |  |
+|  | Live in YYZ 1981 |  |
+| C1 | 2112 - Overture |  |
+| C2 | 2112 - The Temples Of Syrinx |  |
+| C3 | Freewill |  |
+| C4 | Limelight |  |
+| D1 | Cygnus X-1 Book II: Hemispheres - Prelude |  |
+| D2 | Beneath, Between & Behind |  |
+| D3 | The Camera Eye |  |
+| E1 | YYZ |  |
+| E2 | Broon's Bane |  |
+| E3 | The Trees |  |
+| F1 | Xanadu |  |
+| F2 | The Spirit Of Radio |  |
+| G1 | Red Barchetta |  |
+| G2 | Closer To The Heart |  |
+| G3 | Tom Sawyer |  |
+| H1 | Vital Signs |  |
+| H2 | Natural Science |  |
+|  | I - Working Man / Cygnus X-1 Book II: Hemispheres – Armageddon: The Battle Of Heart And Mind / By-Tor & The Snow Dog / In The End / In The Mood / 2112 – Grand Finale |  |
+| J | La Villa Strangiato |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/moving-pictures/994934441" >}}<br>
 
 
-## Videos
-### Rush - Tom Sawyer
-{{< youtube id="auLBLk4ibAk" title="Rush - Tom Sawyer" >}}<br>
-### More Videos
-
-- [Rush - YYZ](https://www.youtube.com/watch?v=ftVTWDrtrlc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -114,5 +113,5 @@ Moving Pictures received a positive reception from contemporary and retrospectiv
 | Format         | Vinyl LP Album Reissue Remastered Stereo, Vinyl 5× LP Stereo, All Media Deluxe Edition (40th Anniversary, Half-Speed Mastered, 180g), Box Set |
 | Label          | Anthem Entertainment |
 | Catalog Number | B0033537-01 |
-| Notes | Live in YYZ 1981 tracks are previously unreleased. Recorded live Mar 24 & 25, 1981. Mixed at Blue Sound & Music Dec 2020-Feb 2021.  Slipcase containing: Moving Pictures Album in single cover with one sheet insert Live In YYZ 1981 - 2 LP in gatefold cover - sides 3 to 6 Live In YYZ 1981 - 2 LP in gatefold cover - sides 7 to 10 24 page LP sized booklet  Sticker on backside (on shrink wrap): MADE IN CZECH REPUBLIC  ℗ 2021 UMG Recordings, Inc. for the world excluding Canada and Japan, ℗ 2021 Anthem Entertainment LP for Canada and Japan, © 2021 Anthem Entertainment LP/UMG Recordings, Inc.   |
+| Notes | Live in YYZ 1981 tracks are previously unreleased. Recorded live Mar 24 & 25, 1981. Mixed at Blue Sound & Music Dec 2020-Feb 2021.<br><br>Slipcase containing:<br>Moving Pictures Album in single cover with one sheet insert<br>Live In YYZ 1981 - 2 LP in gatefold cover - sides 3 to 6<br>Live In YYZ 1981 - 2 LP in gatefold cover - sides 7 to 10<br>24 page LP sized booklet<br><br>Sticker on backside (on shrink wrap): MADE IN CZECH REPUBLIC<br><br>℗ 2021 UMG Recordings, Inc. for the world excluding Canada and Japan,<br>℗ 2021 Anthem Entertainment LP for Canada and Japan,<br>© 2021 Anthem Entertainment LP/UMG Recordings, Inc. <br> |
 | Discogs URL    | [Rush - Moving Pictures](https://www.discogs.com/release/22876769-Rush-Moving-Pictures) |

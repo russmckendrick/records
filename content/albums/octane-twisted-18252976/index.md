@@ -4,6 +4,7 @@ artist_name: "Porcupine Tree"
 artist: "porcupine-tree"
 album_name: "Octane Twisted"
 date: 2021-04-16T02:37:47.000000Z
+release_date: "2012-11-19"
 release_id: "18252976"
 slug: "octane-twisted-18252976"
 hideSummary: true
@@ -38,44 +39,44 @@ styles: ["Psychedelic Rock", "Art Rock", "Prog Rock"]
 Octane Twisted is a live album released by Porcupine Tree on 5 November 2012. It contains a live performance of the band's 2009 album The Incident in its entirety recorded at the Riviera Theater in Chicago on 30 April 2010. The second CD contains other tracks also recorded in Chicago (CD 2, tracks 1–4), along with three songs from the band's (then) final show at the Royal Albert Hall in London on 14 October 2010 (CD 2, tracks 5–7). The initial pressing also included a DVD containing a video of the Incident set.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Incident (Part 1)
-2. Occam's Razor
-3. The Blind House
-4. Great Expectations
-5. Kneel And Disconnect
-6. Drawing The Line
-7. The Incident
-8. Your Unpleasant Family
-9. The Incident (Part 2)
-10. The Yellow Windows Of The Evening Train
-11. Time Flies
-12. The Incident (Part 3)
-13. Degree Zero Of Liberty
-14. Octane Twisted
-15. The Séance
-16. Circle Of Manias
-17. I Drive The Hearse
-18. -
-19. Hatesong
-20. Stars Die
-21. Russia On Ice / The Pills I'm Taking
-22. Bonnie The Cat
-23. Even Less
-24. Dislocated Day
-25. Arriving Somewhere But Not Here
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Incident (Part 1) |  |
+| A1 | Occam's Razor |  |
+| A2 | The Blind House |  |
+| A3 | Great Expectations |  |
+| A4 | Kneel And Disconnect |  |
+| A5 | Drawing The Line |  |
+| A6 | The Incident |  |
+| A7 | Your Unpleasant Family |  |
+|  | The Incident (Part 2) |  |
+| B1 | The Yellow Windows Of The Evening Train |  |
+| B2 | Time Flies |  |
+|  | The Incident (Part 3) |  |
+| C1 | Degree Zero Of Liberty |  |
+| C2 | Octane Twisted |  |
+| C3 | The Séance |  |
+| C4 | Circle Of Manias |  |
+| C5 | I Drive The Hearse |  |
+|  | - |  |
+| D1 | Hatesong |  |
+| D2 | Stars Die |  |
+| E3 | Russia On Ice / The Pills I'm Taking |  |
+| E4 | Bonnie The Cat |  |
+| F1 | Even Less |  |
+| G1 | Dislocated Day |  |
+| G2 | Arriving Somewhere But Not Here |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/octane-twisted-live/684102949" >}}<br>
 
-
-## Videos
-### Porcupine Tree - Octane TwistedThe SeanceCircle Of Manias Lyrics
-{{< youtube id="xEpsduO7Jm0" title="Porcupine Tree - Octane TwistedThe SeanceCircle Of Manias Lyrics" >}}<br>
 
 
 ## Release Images
@@ -88,5 +89,5 @@ Octane Twisted is a live album released by Porcupine Tree on 5 November 2012. It
 | Format         | Box Set Album Reissue, Vinyl 3× LP Stereo, Vinyl LP Single Sided Etched |
 | Label          | Transmission Recordings |
 | Catalog Number | TRANSM132LBX |
-| Notes | 4x 140g vinyl in box, etching on side H, cardboard inner sleeves. Hype sticker on cellophane  Recorded at The Riviera, Chicago, 30th April 2010 except "Even Less". "Discolated Day" and "Arriving Somewhere But Not Here" recorded at the Royal Albert Hall, London, 14th October 2010   ℗ 2012 Porcupine Tree © 2012 Porcupine Tree Made in the EU |
+| Notes | 4x 140g vinyl in box, etching on side H, cardboard inner sleeves. Hype sticker on cellophane<br><br>Recorded at The Riviera, Chicago, 30th April 2010 except "Even Less". "Discolated Day" and "Arriving Somewhere But Not Here" recorded at the Royal Albert Hall, London, 14th October 2010 <br><br>℗ 2012 Porcupine Tree © 2012 Porcupine Tree<br>Made in the EU |
 | Discogs URL    | [Porcupine Tree - Octane Twisted](https://www.discogs.com/release/18252976-Porcupine-Tree-Octane-Twisted) |

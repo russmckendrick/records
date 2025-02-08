@@ -4,6 +4,7 @@ artist_name: "Richard Wright"
 artist: "richard-wright"
 album_name: "Wet Dream"
 date: 2023-09-29T06:39:45.000000Z
+release_date: "1978-05"
 release_id: "28427713"
 slug: "wet-dream-28427713"
 hideSummary: true
@@ -33,41 +34,30 @@ styles: ["Prog Rock", "Art Rock"]
 ---
 
 Wet Dream is the debut solo album by Pink Floyd keyboardist Richard Wright, released in 1978.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Mediterranean C (3:54)
-2. Against The Odds (3:57)
-3. Cat Cruise (5:48)
-4. Summer Elegy (4:59)
-5. Waves (5:12)
-6. Holiday (6:13)
-7. Mad Yannis Dance (3:19)
-8. Drop In From The Top (3:29)
-9. Pink's Song (3:29)
-10. Funky Deux (5:03)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mediterranean C | 3:54 |
+| A2 | Against The Odds | 3:57 |
+| A3 | Cat Cruise | 5:48 |
+| A4 | Summer Elegy | 4:59 |
+| A5 | Waves | 5:12 |
+| B1 | Holiday | 6:13 |
+| B2 | Mad Yannis Dance | 3:19 |
+| B3 | Drop In From The Top | 3:29 |
+| B4 | Pink's Song | 3:29 |
+| B5 | Funky Deux | 5:03 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wet-dream-2023-remix/1693925254" >}}<br>
 
 
-## Videos
-### Richard Wright - Mediterranean C
-{{< youtube id="TmnL29Ig168" title="Richard Wright - Mediterranean C" >}}<br>
-### More Videos
-
-- [Richard Wright - Against the Odds](https://www.youtube.com/watch?v=ulBv_VppwWI)
-- [Richard Wright - Cat Cruise](https://www.youtube.com/watch?v=rTCwVrOPKr4)
-- [Richard Wright- Summer Elegy](https://www.youtube.com/watch?v=6KUBLEyRKCw)
-- [Richard Wright - Waves](https://www.youtube.com/watch?v=h5ESm72E4t0)
-- [Richard Wright - Holiday](https://www.youtube.com/watch?v=u4tF-lA5pN8)
-- [Richard Wright - Mad Yannis Dance](https://www.youtube.com/watch?v=OkHSRqYsGEU)
-- [Richard Wright - Drop In From The Top](https://www.youtube.com/watch?v=KnZsNW2VpwM)
-- [Richard Wright- Pinks Song](https://www.youtube.com/watch?v=yImoJfskNrE)
-- [Richard Wright - Funky Deux](https://www.youtube.com/watch?v=0pHI3QohQzQ)
-- [Richard Wright - Wet Dream Bluray 2023 Instrumental Bonus Tracks](https://www.youtube.com/watch?v=-_6YqoicDYE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +69,5 @@ Wet Dream is the debut solo album by Pink Floyd keyboardist Richard Wright, rele
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Remixed, Blue Marbled) |
 | Label          | Parlophone |
 | Catalog Number | 5054197662348 |
-| Notes | First pressing since 1978 Limited edition on blue marble vinyl Gatefold & soft touch sleeve + two panel double sided poster.  Made In Germany. |
+| Notes | First pressing since 1978<br>Limited edition on blue marble vinyl<br>Gatefold & soft touch sleeve + two panel double sided poster. <br>Made In Germany. |
 | Discogs URL    | [Richard Wright - Wet Dream](https://www.discogs.com/release/28427713-Richard-Wright-Wet-Dream) |

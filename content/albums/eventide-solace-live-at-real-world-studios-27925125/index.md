@@ -4,6 +4,7 @@ artist_name: "Held By Trees"
 artist: "held-by-trees"
 album_name: "Eventide / Solace - Live At Real World Studios"
 date: 2023-09-15T11:32:00.000000Z
+release_date: ""
 release_id: "27925125"
 slug: "eventide-solace-live-at-real-world-studios-27925125"
 hideSummary: true
@@ -23,20 +24,27 @@ styles: ["Ethereal"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Side A - Eventide
-2. Pure Sunlight
-3. The Golden Hour
-4. The Blue Hour
-5. Grow Dark
-6. Nightfall
-7. Side B - Live At Real World Studios
-8. In The Trees
-9. The Tree Of Life
-10. The New Earth
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Side A - Eventide |  |
+| A1 | Pure Sunlight |  |
+| A2 | The Golden Hour |  |
+| A3 | The Blue Hour |  |
+| A4 | Grow Dark |  |
+| A5 | Nightfall |  |
+|  | Side B - Live At Real World Studios |  |
+| B1 | In The Trees |  |
+| B2 | The Tree Of Life |  |
+| B3 | The New Earth |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 

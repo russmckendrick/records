@@ -1,7 +1,7 @@
 ---
-title: "Working Men's Club - Working Men's Club"
-artist_name: "Working Men's Club"
-artist: "working-men-s-club-2"
+title: "Working Mens Club - Working Men's Club"
+artist_name: "Working Mens Club"
+artist: "working-mens-club"
 album_name: "Working Men's Club"
 date: 2020-10-02T12:21:00.000000Z
 release_date: "2020-10-02"
@@ -10,8 +10,8 @@ slug: "working-men-s-club-15993596"
 hideSummary: true
 cover:
     image: "working-men-s-club-15993596.jpg"
-    alt: "Working Men's Club by Working Men's Club"
-    caption: "Working Men's Club by Working Men's Club"
+    alt: "Working Men's Club by Working Mens Club"
+    caption: "Working Men's Club by Working Mens Club"
 additional_images:
     - "https://i.discogs.com/DYItMjxo-mW_Nomt_rh8OEzA4xkc2BwZiSVNAkvANU0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/NTk2LTE2MDE1NDU0/MzYtMjgwMy5qcGVn.jpeg"
     - "https://i.discogs.com/3g2tWGAOwDvWd7yYn57V2TT2WbC0074GJNmmuuA2DSk/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/NTk2LTE2MDE1NDU3/MzAtMjEzMy5qcGVn.jpeg"
@@ -53,42 +53,24 @@ There aren’t many bands who undergo drastic sonic transformations <i>before</i
 
 
 ## Tracklisting
-1. Valleys (6:30)
-2. A. A. A. A.  (3:06)
-3. John Cooper Clarke (5:27)
-4. White Rooms & People (2:31)
-5. Outside (2:51)
-6. Be My Guest (3:56)
-7. Tomorrow (4:05)
-8. Cook A Coffee (2:51)
-9. Teeth (3:41)
-10. Angel (12:30)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Valleys | 6:30 |
+| A2 | A. A. A. A.  | 3:06 |
+| A3 | John Cooper Clarke | 5:27 |
+| A4 | White Rooms & People | 2:31 |
+| A5 | Outside | 2:51 |
+| B1 | Be My Guest | 3:56 |
+| B2 | Tomorrow | 4:05 |
+| B3 | Cook A Coffee | 2:51 |
+| B4 | Teeth | 3:41 |
+| B5 | Angel | 12:30 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/working-mens-club/1500785416" >}}<br>
 
 
-## Videos
-### Angel
-{{< youtube id="wsgjt1jC3Pc" title="Angel" >}}<br>
-### More Videos
-
-- [Cook a Coffee](https://www.youtube.com/watch?v=a3sS2Km_OJo)
-- [John Cooper Clarke](https://www.youtube.com/watch?v=ortHnqOoQB0)
-- [Be My Guest](https://www.youtube.com/watch?v=Y8Qw9CuEmmc)
-- [Outside](https://www.youtube.com/watch?v=0HOJ0tDRi1Q)
-- [White Rooms and People](https://www.youtube.com/watch?v=gagyh1-9zuk)
-- [Tomorrow](https://www.youtube.com/watch?v=Jm6UaS09FR0)
-- [Angel](https://www.youtube.com/watch?v=wsgjt1jC3Pc)
-- [Cook a Coffee](https://www.youtube.com/watch?v=a3sS2Km_OJo)
-- [John Cooper Clarke](https://www.youtube.com/watch?v=ortHnqOoQB0)
-- [Be My Guest](https://www.youtube.com/watch?v=Y8Qw9CuEmmc)
-- [Outside](https://www.youtube.com/watch?v=0HOJ0tDRi1Q)
-- [White Rooms and People](https://www.youtube.com/watch?v=gagyh1-9zuk)
-- [Tomorrow](https://www.youtube.com/watch?v=Jm6UaS09FR0)
-- [Working Mens Club - Valleys Official Video](https://www.youtube.com/watch?v=pzkfcLzUYYg)
-- [Working Mens Club - Teeth](https://www.youtube.com/watch?v=0ovHJ_NzHbE)
-- [Working Mens Club - AAAA](https://www.youtube.com/watch?v=4uCC6IAbRWU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -100,5 +82,5 @@ There aren’t many bands who undergo drastic sonic transformations <i>before</i
 | Format         | Vinyl LP Album Limited Edition Stereo (Neon Yellow ) |
 | Label          | Heavenly |
 | Catalog Number | HVNLP179C |
-| Notes | Some copies were signed by Sydney Minsky-Sargeant when purchased from WMC or Heavenly webstore.  Certain copies came with a Megamix CD [r16004209] |
-| Discogs URL    | [Working Men's Club - Working Men's Club](https://www.discogs.com/release/15993596-Working-Mens-Club-2-Working-Mens-Club) |
+| Notes | Some copies were signed by Sydney Minsky-Sargeant when purchased from WMC or Heavenly webstore.<br><br>Certain copies came with a Megamix CD [r16004209] |
+| Discogs URL    | [Working Mens Club - Working Men's Club](https://www.discogs.com/release/15993596-Working-Mens-Club-2-Working-Mens-Club) |

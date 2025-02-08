@@ -4,6 +4,7 @@ artist_name: "Ronnie Barker"
 artist: "ronnie-barker"
 album_name: "Ronnie Barker's Unbroken British Record"
 date: 2015-12-09T10:18:46.000000Z
+release_date: ""
 release_id: "4087625"
 slug: "ronnie-barker-s-unbroken-british-record-4087625"
 hideSummary: true
@@ -21,20 +22,27 @@ styles: ["Comedy", "Spoken Word", "Country", "Folk"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Irish Medley:
-2. Plain Speaking
-3. The Redskins Annual Dinner
-4. The Vicar Of St Cain & Abel
-5. The Chelsea Pensioners Medley:
-6. The Scottish Medley:
-7. They Tell Me There's A Lot Of It About
-8. Not Round Here
-9. Pismonunciation
-10. The Welsh Medley:
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Irish Medley: |  |
+| A2 | Plain Speaking |  |
+| A3 | The Redskins Annual Dinner |  |
+| A4 | The Vicar Of St Cain & Abel |  |
+|  | The Chelsea Pensioners Medley: |  |
+|  | The Scottish Medley: |  |
+| B2 | They Tell Me There's A Lot Of It About |  |
+| B3 | Not Round Here |  |
+| B4 | Pismonunciation |  |
+|  | The Welsh Medley: |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -47,5 +55,5 @@ styles: ["Comedy", "Spoken Word", "Country", "Folk"]
 | Format         | Vinyl LP Album |
 | Label          | K-Tel |
 | Catalog Number | NE 1029 |
-| Notes | Produced & Co-ordinated by John Schroeder. A Smug Production.  Runouts are entirely hand etched except for the standalone numeral on each side which is stamped sideways. |
+| Notes | Produced & Co-ordinated by John Schroeder.<br>A Smug Production.<br><br>Runouts are entirely hand etched except for the standalone numeral on each side which is stamped sideways. |
 | Discogs URL    | [Ronnie Barker - Ronnie Barker's Unbroken British Record](https://www.discogs.com/release/4087625-Ronnie-Barker-Ronnie-Barkers-Unbroken-British-Record) |

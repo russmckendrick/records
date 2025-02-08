@@ -4,6 +4,7 @@ artist_name: "John Carpenter"
 artist: "john-carpenter"
 album_name: "Lost Themes"
 date: 2018-02-08T18:31:13.000000Z
+release_date: "2015-10-16"
 release_id: "11020458"
 slug: "lost-themes-11020458"
 hideSummary: true
@@ -30,31 +31,29 @@ styles: ["Soundtrack", "Ambient"]
 Lost Themes is the debut studio album by American film director and composer John Carpenter. It was released on February 3, 2015, through Sacred Bones Records. Carpenter created Lost Themes in collaboration with his son Cody Carpenter and his godson Daniel Davies. While Lost Themes is his first stand-alone album, Carpenter has composed numerous critically acclaimed soundtracks for films since the 1970s, including for the films Assault on Precinct 13, Halloween, and Escape from New York.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Vortex
-2. Obsidian 
-3. Fallen
-4. Domain
-5. Mystery
-6. Abyss
-7. Wraith
-8. Purgatory
-9. Night
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Vortex |  |
+| A2 | Obsidian  |  |
+| A3 | Fallen |  |
+| A4 | Domain |  |
+| B1 | Mystery |  |
+| B2 | Abyss |  |
+| B3 | Wraith |  |
+| B4 | Purgatory |  |
+| B5 | Night |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lost-themes-remixed/1036254173" >}}<br>
 
 
-## Videos
-### John Carpenters -  Lost Themes Full Vinyl Rip
-{{< youtube id="EDqLQ7PgvY8" title="John Carpenters -  Lost Themes Full Vinyl Rip" >}}<br>
-### More Videos
-
-- [John Carpenters -  Lost Themes Full Vinyl Rip](https://www.youtube.com/watch?v=EDqLQ7PgvY8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +65,5 @@ Lost Themes is the debut studio album by American film director and composer Joh
 | Format         | Vinyl LP Album Limited Edition Reissue (Green & White Haze) |
 | Label          | Sacred Bones Records |
 | Catalog Number | SBR123 |
-| Notes | © 2014 Sacred Bones Records ℗ 2014 Rodeo Suplex, Inc. D/B/A Rodeo Suplex Music  "Obsidian Green" vinyl pressing  Limited to 500 copies worldwide  Comes in a gatefold sleeve with liner notes insert and download code.  NO catalog number on the cover |
+| Notes | © 2014 Sacred Bones Records<br>℗ 2014 Rodeo Suplex, Inc. D/B/A Rodeo Suplex Music<br><br>"Obsidian Green" vinyl pressing<br><br>Limited to 500 copies worldwide<br><br>Comes in a gatefold sleeve with liner notes insert and download code.<br><br>NO catalog number on the cover |
 | Discogs URL    | [John Carpenter - Lost Themes](https://www.discogs.com/release/11020458-John-Carpenter-Lost-Themes) |

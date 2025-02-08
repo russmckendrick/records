@@ -4,6 +4,7 @@ artist_name: "Awooga"
 artist: "awooga"
 album_name: "Conduit"
 date: 2018-04-24T05:54:25.000000Z
+release_date: "2018-04-20"
 release_id: "11840249"
 slug: "conduit-11840249"
 hideSummary: true
@@ -22,23 +23,25 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Temporal (5:32)
-2. Tabula Rasa (4:04)
-3. Waterhole (3:33)
-4. Blue Rose (4:45)
-5. Bandit (4:39)
-6. Witness (11:10)
-7. Otherside (6:47)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Temporal | 5:32 |
+| A2 | Tabula Rasa | 4:04 |
+| A3 | Waterhole | 3:33 |
+| A4 | Blue Rose | 4:45 |
+| B1 | Bandit | 4:39 |
+| B2 | Witness | 11:10 |
+| B3 | Otherside | 6:47 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/conduit/1349990562" >}}<br>
 
-
-## Videos
-### Awooga - Conduit 2018 Full Album
-{{< youtube id="mXm_PYEIKAs" title="Awooga - Conduit 2018 Full Album" >}}<br>
 
 
 ## Release Images
@@ -50,5 +53,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl LP Album Limited Edition Stereo |
 | Label          | Rockosmos |
 | Catalog Number | none |
-| Notes | Pearl Blue Vinyl (180g) limited to 250 copies Pre-orders ONLY were signed by the band (on the colored inner sleeve) Download code included with the Vinyl |
+| Notes | Pearl Blue Vinyl (180g) limited to 250 copies<br>Pre-orders ONLY were signed by the band (on the colored inner sleeve)<br>Download code included with the Vinyl |
 | Discogs URL    | [Awooga - Conduit](https://www.discogs.com/release/11840249-Awooga-Conduit) |

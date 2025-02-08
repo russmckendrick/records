@@ -33,16 +33,15 @@ Produced simultaneously with We're Only in It for the Money, Zappa saw Lumpy Gra
 
 
 ## Tracklisting
-1. Lumpy Gravy-Part I (15:45)
-2. Lumpy Gravy-Part II (15:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Lumpy Gravy-Part I | 15:45 |
+| B | Lumpy Gravy-Part II | 15:56 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lumpy-gravy/1443184225" >}}<br>
 
-
-## Videos
-### Frank Zappa  1968    Francis Vincent Zappa Lumpy Gravy
-{{< youtube id="uwyH9rAkugI" title="Frank Zappa  1968    Francis Vincent Zappa Lumpy Gravy" >}}<br>
 
 
 ## Release Images
@@ -55,5 +54,5 @@ Produced simultaneously with We're Only in It for the Money, Zappa saw Lumpy Gra
 | Format         | Vinyl LP Album Reissue Remastered Stereo (Gatefold, 180 Gram) |
 | Label          | Zappa Records |
 | Catalog Number | ZR 3836-1 |
-| Notes | Housed in a gatefold jacket. Issued with a white poly lined inner sleeve.  [Front sleeve:] A curiously inconsistent piece which started out to be a ballet but probably didn't make it. [...] with maybe even some of the mothers of invention  [Inside gatefold:] This album was recorded in February of 1967  [Rear sleeve:] [Text balloon:] Is this phase 2 of: We're Only In It For The Money? The work controlled worldwide by the Zappa Family Trust, dba Munchkin Music c1968 pmmxvi Zappa Records. Mastered [...], 2016 Made in the EU Source: 1968 Analog Master Safety This is Official Release #3  [Labels:] © 1968 ℗ mmxvi Zappa Records.  Runout details: Everything is hand-etched except stamped '-39683-' and 'P.USA' on both sides.  There is also a [url=http://www.discogs.com/release/9486212]US release[/url] with the same catalog number.  |
+| Notes | Housed in a gatefold jacket. Issued with a white poly lined inner sleeve.<br><br>[Front sleeve:]<br>A curiously inconsistent piece which started out to be a ballet but probably didn't make it.<br>[...] with maybe even some of the mothers of invention<br><br>[Inside gatefold:]<br>This album was recorded in February of 1967<br><br>[Rear sleeve:]<br>[Text balloon:] Is this phase 2 of: We're Only In It For The Money?<br>The work controlled worldwide by the Zappa Family Trust, dba Munchkin Music c1968 pmmxvi Zappa Records.<br>Mastered [...], 2016<br>Made in the EU<br>Source: 1968 Analog Master Safety<br>This is Official Release #3<br><br>[Labels:]<br>© 1968 ℗ mmxvi Zappa Records.<br><br>Runout details:<br>Everything is hand-etched except stamped '-39683-' and 'P.USA' on both sides.<br><br>There is also a [url=http://www.discogs.com/release/9486212]US release[/url] with the same catalog number.<br> |
 | Discogs URL    | [Frank Zappa - Lumpy Gravy](https://www.discogs.com/release/9489610-Frank-Vincent-Zappa-Conducts-Abnuceals-Emuukha-Electric-Symphony-Orchestra-Chorus-Lumpy-Gravy) |

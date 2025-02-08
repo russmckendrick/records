@@ -4,6 +4,7 @@ artist_name: "Explosions In The Sky"
 artist: "explosions-in-the-sky"
 album_name: "All Of A Sudden I Miss Everyone"
 date: 2016-08-18T17:24:06.000000Z
+release_date: "2007-01-01"
 release_id: "2146324"
 slug: "all-of-a-sudden-i-miss-everyone-2146324"
 hideSummary: true
@@ -31,50 +32,26 @@ styles: ["Post Rock", "Ambient"]
 ---
 
 All of a Sudden I Miss Everyone is the fifth studio album by American post-rock band Explosions in the Sky, released on February 20, 2007.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Birth And Death Of The Day
-2. Welcome, Ghosts
-3. It's Natural To Be Afraid
-4. What Do You Go Home To?
-5. Catastrophe And The Cure
-6. So Long, Lonesome
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Birth And Death Of The Day |  |
+| A2 | Welcome, Ghosts |  |
+| B | It's Natural To Be Afraid |  |
+| C1 | What Do You Go Home To? |  |
+| C2 | Catastrophe And The Cure |  |
+| C3 | So Long, Lonesome |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-of-a-sudden-i-miss-everyone/923356909" >}}<br>
 
 
-## Videos
-### The Birth And Death Of The Day
-{{< youtube id="Fz-mWblMPpw" title="The Birth And Death Of The Day" >}}<br>
-### More Videos
-
-- [Welcome Ghosts](https://www.youtube.com/watch?v=WVdyjIrTq4U)
-- [Its Natural To Be Afraid](https://www.youtube.com/watch?v=z1j_NiUZZWk)
-- [What Do You Go Home To](https://www.youtube.com/watch?v=Pf-2d5i57gs)
-- [Catastrophe And The Cure](https://www.youtube.com/watch?v=4p3cEBd3k58)
-- [So Long Lonesome](https://www.youtube.com/watch?v=rEf85cCQY3M)
-- [The Birth And Death Of The Day](https://www.youtube.com/watch?v=Fz-mWblMPpw)
-- [Welcome Ghosts](https://www.youtube.com/watch?v=WVdyjIrTq4U)
-- [Its Natural To Be Afraid](https://www.youtube.com/watch?v=z1j_NiUZZWk)
-- [What Do You Go Home To](https://www.youtube.com/watch?v=Pf-2d5i57gs)
-- [Catastrophe And The Cure](https://www.youtube.com/watch?v=4p3cEBd3k58)
-- [So Long Lonesome](https://www.youtube.com/watch?v=rEf85cCQY3M)
-- [Explosions in the Sky - All of a Sudden I Miss Everyone Full Album HD](https://www.youtube.com/watch?v=tYfJiKWbUD8)
-- [Explosions in the Sky - All of a Sudden I Miss Everyone Full Album](https://www.youtube.com/watch?v=yXQ3zY96Ilw)
-- [The Birth And Death Of The Day](https://www.youtube.com/watch?v=Fz-mWblMPpw)
-- [Welcome Ghosts](https://www.youtube.com/watch?v=WVdyjIrTq4U)
-- [Explosions in the Sky  All Of A Sudden I Miss EveryOne  The Birth And Death Of The Day](https://www.youtube.com/watch?v=j1nFDEcQtuE)
-- [Catastrophe And The Cure](https://www.youtube.com/watch?v=4p3cEBd3k58)
-- [Welcome Ghosts By Explosions in the Sky](https://www.youtube.com/watch?v=xTw-CwypKdk)
-- [Its Natural To Be Afraid](https://www.youtube.com/watch?v=z1j_NiUZZWk)
-- [Explosions in the Sky  All Of A Sudden I Miss EveryOne  Catastrophe And The Cure](https://www.youtube.com/watch?v=bRBTo-GRwA0)
-- [03 Explosions in the sky - Its Natural to Be Afraid](https://www.youtube.com/watch?v=6h7HgpP7c_w)
-- [Explosions in the Sky  All Of A Sudden I Miss EveryOne  Its Natural To Be Afraid](https://www.youtube.com/watch?v=NcFCUeYBcjs)
-- [Explosions in the Sky - The Birth and Death of the Day](https://www.youtube.com/watch?v=TnTCwg7-UKg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +63,5 @@ All of a Sudden I Miss Everyone is the fifth studio album by American post-rock 
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
 | Label          | Temporary Residence Limited |
 | Catalog Number | trr 99 |
-| Notes | Original press without bonus CD or download code. Copies pressed after 2011 include a download code but are otherwise identical.  Gatefold sleeve includes printed inner sleeves. Some copies include a hype sticker and/or a small folded label catalog.   The label catalog includes releases up through [url=https://www.discogs.com/release/12899067-Fridge-The-Sun]TRR117[/url] which carries the note "Available May '07!" and [url=https://www.discogs.com/master/6075-Grails-Burning-Off-Impurities]TRR118[/url] which carries the note "NEW!"  Side D is an etched picture similar to the cover artwork.  Recorded in Minnesota, August 2006.  Runouts are etched, except for GOLDEN (which is stamped).   Lacquer cutting company derived from runouts.  |
+| Notes | Original press without bonus CD or download code. Copies pressed after 2011 include a download code but are otherwise identical.<br><br>Gatefold sleeve includes printed inner sleeves. Some copies include a hype sticker and/or a small folded label catalog. <br><br>The label catalog includes releases up through [url=https://www.discogs.com/release/12899067-Fridge-The-Sun]TRR117[/url] which carries the note "Available May '07!" and [url=https://www.discogs.com/master/6075-Grails-Burning-Off-Impurities]TRR118[/url] which carries the note "NEW!"<br><br>Side D is an etched picture similar to the cover artwork.<br><br>Recorded in Minnesota, August 2006.<br><br>Runouts are etched, except for GOLDEN (which is stamped). <br><br>Lacquer cutting company derived from runouts.  |
 | Discogs URL    | [Explosions In The Sky - All Of A Sudden I Miss Everyone](https://www.discogs.com/release/2146324-Explosions-In-The-Sky-All-Of-A-Sudden-I-Miss-Everyone) |

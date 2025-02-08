@@ -4,6 +4,7 @@ artist_name: "808 State"
 artist: "808-state"
 album_name: "ex:el"
 date: 2023-10-17T11:28:17.000000Z
+release_date: "1991-03-01"
 release_id: "28581625"
 slug: "ex-el-28581625"
 hideSummary: true
@@ -26,44 +27,33 @@ The album is last to feature founding member Martin Price, who left the group in
 In 2007, The Guardian included the album in their list of "1000 Albums to Hear Before You Die".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. San Francisco
-2. Spanish Heart
-3. Leo Leo
-4. Qmart
-5. Nephatiti
-6. Lift
-7. Ooops
-8. Empire
-9. In Yer Face
-10. Cübik
-11. Lambrusco Cowboy
-12. Techno Bell
-13. Olympic
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | San Francisco |  |
+| A2 | Spanish Heart |  |
+| A3 | Leo Leo |  |
+| B1 | Qmart |  |
+| B3 | Nephatiti |  |
+| B3 | Lift |  |
+| C1 | Ooops |  |
+| C2 | Empire |  |
+| C3 | In Yer Face |  |
+| D1 | Cübik |  |
+| D2 | Lambrusco Cowboy |  |
+| D3 | Techno Bell |  |
+| D4 | Olympic |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ex-el/1535210729" >}}<br>
 
 
-## Videos
-### Cübik
-{{< youtube id="ZgV7u3WsNf0" title="Cübik" >}}<br>
-### More Videos
-
-- [Nephatiti](https://www.youtube.com/watch?v=jHcT9pNjKMU)
-- [San Francisco](https://www.youtube.com/watch?v=TTyf3rmghAA)
-- [Leo Leo](https://www.youtube.com/watch?v=ACi4vw22UiE)
-- [Spanish Heart](https://www.youtube.com/watch?v=iaF1xe2QSOE)
-- [Lift](https://www.youtube.com/watch?v=sa-3Bgo5IEI)
-- [Ooops](https://www.youtube.com/watch?v=KkrPvoVRpYc)
-- [Empire](https://www.youtube.com/watch?v=cWqpuXcMOBY)
-- [Qmart](https://www.youtube.com/watch?v=WeuwKHgHgcI)
-- [808 STATE - OLYMPIC HQ AUDIO](https://www.youtube.com/watch?v=tRz1kXoA_gs)
-- [808 State Olympic - Music Video 1990](https://www.youtube.com/watch?v=i0yu2HmPfsU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +65,5 @@ In 2007, The Guardian included the album in their list of "1000 Albums to Hear B
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (Blue) |
 | Label          | ZTT |
 | Catalog Number | ZTDS35 |
-| Notes | National Album Day 2023.  LPs housed in black poly lined die-cut inner sleeves.  Published by Universal Music Publishing Ltd. / Wardlaw Music. A2: Published by Universal Music Publishing Ltd. / Wardlaw Music / Vitalturn Co Ltd. B1, C1: Published by Universal Music Publishing Ltd. / Wardlaw Music / Wellhart Ltd.  C3, D1, D4 engineered at Square One. Recorded at Revolution Studio, September to December 1990. Digital multitrack.  A Universal Music Recordings release. ℗ 2008 ZTT Records Ltd. © 1991 ZTT Records Ltd. A Universal Music Company.  Made in the EU. |
+| Notes | National Album Day 2023.<br><br>LPs housed in black poly lined die-cut inner sleeves.<br><br>Published by Universal Music Publishing Ltd. / Wardlaw Music.<br>A2: Published by Universal Music Publishing Ltd. / Wardlaw Music / Vitalturn Co Ltd.<br>B1, C1: Published by Universal Music Publishing Ltd. / Wardlaw Music / Wellhart Ltd.<br><br>C3, D1, D4 engineered at Square One. Recorded at Revolution Studio, September to December 1990. Digital multitrack.<br><br>A Universal Music Recordings release. ℗ 2008 ZTT Records Ltd. © 1991 ZTT Records Ltd. A Universal Music Company.<br><br>Made in the EU. |
 | Discogs URL    | [808 State - ex:el](https://www.discogs.com/release/28581625-808-State-exel) |

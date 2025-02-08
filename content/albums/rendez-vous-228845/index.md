@@ -28,28 +28,20 @@ On <i>Electronica 1: The Time Machine</i>, French synthesizer legend Jean Michel
 
 
 ## Tracklisting
-1. First Rendez-vous (2:54)
-2. Second Rendez-vous (10:55)
-3. Third Rendez-vous (3:30)
-4. Fourth Rendez-vous (3:57)
-5. Fifth Rendez-vous (7:41)
-6. Last Rendez-vous: "Ron's Piece" (6:04)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | First Rendez-vous | 2:54 |
+| A2 | Second Rendez-vous | 10:55 |
+| A3 | Third Rendez-vous | 3:30 |
+| B1 | Fourth Rendez-vous | 3:57 |
+| B2 | Fifth Rendez-vous | 7:41 |
+| B3 | Last Rendez-vous: "Ron's Piece" | 6:04 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/electronica-1-the-time-machine-deluxe-edition/1012484745" >}}<br>
 
 
-## Videos
-### Jean Michel Jarre - Rendez-vous
-{{< youtube id="URaWRK7vqDE" title="Jean Michel Jarre - Rendez-vous" >}}<br>
-### More Videos
-
-- [First Rendez Vous](https://www.youtube.com/watch?v=VD6OCOVigfo)
-- [Second Rendez-Vous Remastered](https://www.youtube.com/watch?v=v6lPTqPHicE)
-- [Third Rendez Vous Remastered](https://www.youtube.com/watch?v=wwxlFtj85aA)
-- [Fourth Rendez-Vous](https://www.youtube.com/watch?v=9ggp1YJh4bA)
-- [Fifth Rendez Vous Remastered](https://www.youtube.com/watch?v=POUsIMpRvhI)
-- [Last Rendez Vous Remastered](https://www.youtube.com/watch?v=kJDzaG1AJco)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +53,5 @@ On <i>Electronica 1: The Time Machine</i>, French synthesizer legend Jean Michel
 | Format         | Vinyl LP Album Stereo |
 | Label          | Polydor |
 | Catalog Number | POLH 27 |
-| Notes | Ron McNair's part played by Pierre Gossez. The record is dedicated to Ron McNair and the six Astronauts who died aboard the Challenger Shuttle on 28th January, 1986.  Catalogue numbers: POLH 27 – on sleeve and label 829 125-1 – on label in parentheses  Roland JX-8P incorrectly written as Roland JX BP in credits for track A1.  ℗ 1986 Disques Dreyfus, Paris  Runout A-side variant 3 has "420" under the X's. |
+| Notes | Ron McNair's part played by Pierre Gossez.<br>The record is dedicated to Ron McNair and the six Astronauts who died aboard the Challenger Shuttle on 28th January, 1986.<br><br>Catalogue numbers:<br>POLH 27 – on sleeve and label<br>829 125-1 – on label in parentheses<br><br>Roland JX-8P incorrectly written as Roland JX BP in credits for track A1.<br><br>℗ 1986 Disques Dreyfus, Paris<br><br>Runout A-side variant 3 has "420" under the X's. |
 | Discogs URL    | [Jean-Michel Jarre - Rendez-Vous](https://www.discogs.com/release/228845-Jean-Michel-Jarre-Rendez-Vous) |

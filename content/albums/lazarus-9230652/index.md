@@ -4,6 +4,7 @@ artist_name: "Original New York Cast Of Lazarus"
 artist: "original-new-york-cast-of-lazarus"
 album_name: "Lazarus"
 date: 2016-11-06T10:55:40.000000Z
+release_date: "2016-10-21"
 release_id: "9230652"
 slug: "lazarus-9230652"
 hideSummary: true
@@ -32,48 +33,43 @@ The name Lazarus is frequently used in science and popular culture in reference 
 A distinct character of the same name is also mentioned in the Gospel of Luke in Jesus' parable of the rich man and Lazarus, in which both eponymous characters die, and the former begs for the latter to comfort him from his torments in hell.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Hello Mary Lou (Goodbye Heart)
-2. Lazarus
-3. It's No Game
-4. This Is Not America
-5. The Man Who Sold The World
-6. No Plan
-7. Love Is Lost
-8. Changes
-9. Where Are We Now?
-10. Absolute Beginners
-11. Dirty Boys
-12. Killing A Little Time
-13. Life On Mars?
-14. All The Young Dudes
-15. Sound And Vision
-16. Always Crashing In The Same Car
-17. Valentine's Day
-18. When I Met You
-19. Heroes
-20. Lazarus
-21. No Plan
-22. Killing A Little Time
-23. When I Met You
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hello Mary Lou (Goodbye Heart) |  |
+| A2 | Lazarus |  |
+| A3 | It's No Game |  |
+| A4 | This Is Not America |  |
+| A5 | The Man Who Sold The World |  |
+| B1 | No Plan |  |
+| B2 | Love Is Lost |  |
+| B3 | Changes |  |
+| B4 | Where Are We Now? |  |
+| C1 | Absolute Beginners |  |
+| C2 | Dirty Boys |  |
+| C3 | Killing A Little Time |  |
+| C4 | Life On Mars? |  |
+| C5 | All The Young Dudes |  |
+| D1 | Sound And Vision |  |
+| D2 | Always Crashing In The Same Car |  |
+| D3 | Valentine's Day |  |
+| D4 | When I Met You |  |
+| D5 | Heroes |  |
+| E1 | Lazarus |  |
+| E2 | No Plan |  |
+| E3 | Killing A Little Time |  |
+| E4 | When I Met You |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lazarus-single/1742980993" >}}<br>
 
 
-## Videos
-### David Bowie - Killing a Little Time Audio
-{{< youtube id="OpzVxylreME" title="David Bowie - Killing a Little Time Audio" >}}<br>
-### More Videos
-
-- [David Bowie - When I Met You Audio](https://www.youtube.com/watch?v=5fDy-mRGFkw)
-- [Valentines Day Lazarus Cast Recording Audio](https://www.youtube.com/watch?v=-ry0PRlbJJc)
-- [Michael Esper - Dirty Boys Lazarus Cast Recording Audio](https://www.youtube.com/watch?v=VlY7uGMoars)
-- [Changes Lazarus Cast Recording Audio](https://www.youtube.com/watch?v=rjhVtA6Vt8M)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +81,5 @@ A distinct character of the same name is also mentioned in the Gospel of Luke in
 | Format         | Vinyl 2× LP, Vinyl LP Single Sided, All Media Album |
 | Label          | Columbia |
 | Catalog Number | 88985 37455 1 |
-| Notes | 3LP 180gr in a tri fold cover with 8 page booklet.  LAZARUS The original cast recording to the musical by David Bowie and Enda Walsh  Sticker on shrinkwrap: LAZARUS The Musical from David Bowie & Enda Walsh 19 cast recordings of David Bowie's music From Michael C. Hall, Cristin Milioti, Sophia Anne Caruso and more Includes the Most Recent Studio Recordings from [a10263] 180 GRAM VINYL PLUS DIGITAL DOWNLOAD 88985374551 S1  © 2016 & ℗ Compilation 2016 Jones Tintoretto Entertainment Company LLC, in association with Lazarus Productions, LLC under exclusive license to Columbia Records, a Division of Sony Music Entertainment  Manufactured and Distributed by Columbia Records, a Division of Sony Music Entertainment  Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.  Made in the EU. |
+| Notes | 3LP 180gr in a tri fold cover with 8 page booklet.<br><br>LAZARUS<br>The original cast recording to the musical by David Bowie and Enda Walsh<br><br>Sticker on shrinkwrap:<br>LAZARUS<br>The Musical from David Bowie & Enda Walsh<br>19 cast recordings of David Bowie's music<br>From Michael C. Hall, Cristin Milioti, Sophia Anne Caruso and more<br>Includes the Most Recent Studio Recordings from [a10263]<br>180 GRAM VINYL PLUS DIGITAL DOWNLOAD<br>88985374551 S1<br><br>© 2016 & ℗ Compilation 2016 Jones Tintoretto Entertainment Company LLC, in association with Lazarus Productions, LLC under exclusive license to Columbia Records, a Division of Sony Music Entertainment<br><br>Manufactured and Distributed by Columbia Records, a Division of Sony Music Entertainment<br><br>Sony Music Entertainment International Services GmbH,<br>PO Box 510, 33311 Gütersloh, Germany.<br><br>Made in the EU. |
 | Discogs URL    | [Original New York Cast Of Lazarus - Lazarus](https://www.discogs.com/release/9230652-Original-New-York-Cast-David-Bowie-And-Enda-Walsh-2-Lazarus) |

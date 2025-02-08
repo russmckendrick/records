@@ -4,6 +4,7 @@ artist_name: "Boston"
 artist: "boston"
 album_name: "Boston"
 date: 2018-11-17T19:36:07.000000Z
+release_date: "2022-02-05"
 release_id: "10857591"
 slug: "boston-10857591"
 hideSummary: true
@@ -28,36 +29,28 @@ Defying Epic Records's insistence on recording the album professionally in Los A
 The album was released by Epic in August 1976 and broke sales records, becoming the best-selling debut LP in the US at the time, and winning the Recording Industry Association of America (RIAA) Century Award for the best-selling debut album. The album's singles, "More Than a Feeling", "Peace of Mind" and "Foreplay/Long Time", were major hits, and nearly the entire album receives constant airplay on classic rock radio. The album is often regarded as a staple of 1970s rock and has been included on many lists of essential albums. It has sold at least 17 million copies in the United States alone and at least 20 million worldwide, making it one of the best-selling debut albums of all time.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. More Than A Feeling (4:44)
-2. Peace Of Mind (4:55)
-3. Foreplay/Long Time (7:56)
-4. Rock & Roll Band (2:59)
-5. Smokin' (4:44)
-6. Hitch A Ride (3:18)
-7. Something About You (4:19)
-8. Let Me Take You Home Tonight (4:12)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | More Than A Feeling | 4:44 |
+| A2 | Peace Of Mind | 4:55 |
+| A3 | Foreplay/Long Time | 7:56 |
+| B1 | Rock & Roll Band | 2:59 |
+| B2 | Smokin' | 4:44 |
+| B3 | Hitch A Ride | 3:18 |
+| B4 | Something About You | 4:19 |
+| B5 | Let Me Take You Home Tonight | 4:12 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/boston-single/1606141428" >}}<br>
 
 
-## Videos
-### More Than a Feeling
-{{< youtube id="ufQUxoidxkM" title="More Than a Feeling" >}}<br>
-### More Videos
-
-- [Peace of Mind](https://www.youtube.com/watch?v=tJ42CLtr7Jg)
-- [Foreplay  Long Time](https://www.youtube.com/watch?v=QlMUlpju3qo)
-- [Rock  Roll Band](https://www.youtube.com/watch?v=n-pC3ncVjEw)
-- [Smokin](https://www.youtube.com/watch?v=ZkbbQsh1sZk)
-- [Hitch a Ride](https://www.youtube.com/watch?v=CfSOxvgVfXk)
-- [Something About You](https://www.youtube.com/watch?v=osG16m9lphY)
-- [Let Me Take You Home Tonight](https://www.youtube.com/watch?v=1ZQbJ73GgZ8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +62,5 @@ The album was released by Epic in August 1976 and broke sales records, becoming 
 | Format         | Vinyl LP Album Repress (180 g) |
 | Label          | Epic |
 | Catalog Number | 88985438101 |
-| Notes | ℗ 1976 and © 1976, 2017 Epic Records. Made in the EU. |
+| Notes | ℗ 1976 and © 1976, 2017 Epic Records.<br>Made in the EU. |
 | Discogs URL    | [Boston - Boston](https://www.discogs.com/release/10857591-Boston-Boston) |

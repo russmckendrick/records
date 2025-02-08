@@ -4,6 +4,7 @@ artist_name: "Spiritualized"
 artist: "spiritualized"
 album_name: "Everything Was Beautiful"
 date: 2022-04-22T04:37:18.000000Z
+release_date: "2022-04-22"
 release_id: "22954349"
 slug: "everything-was-beautiful-22954349"
 hideSummary: true
@@ -28,34 +29,27 @@ styles: ["Space Rock", "Psychedelic Rock", "Indie Rock"]
 Everything Was Beautiful is the ninth studio album by Spiritualized, released under Fat Possum Records on April 22, 2022. The album contains influences from psychedelic music, gospel music, and classic rock.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Always Together With You
-2. Best Thing You Never Had (The D Song)
-3. Let It Bleed (For Iggy)
-4. Crazy
-5. The Mainline Song
-6. The A Song (Laid In Your Arms)
-7. I'm Coming Home Again
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Always Together With You |  |
+| A2 | Best Thing You Never Had (The D Song) |  |
+| A3 | Let It Bleed (For Iggy) |  |
+| A4 | Crazy |  |
+| B1 | The Mainline Song |  |
+| B2 | The A Song (Laid In Your Arms) |  |
+| B3 | I'm Coming Home Again |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everything-was-beautiful/1591255695" >}}<br>
 
 
-## Videos
-### Spiritualized - Always Together With You Official Music Video
-{{< youtube id="ME0ji3o05UQ" title="Spiritualized - Always Together With You Official Music Video" >}}<br>
-### More Videos
-
-- [Spiritualized - Best Thing You Never Had The D Song Official Audio](https://www.youtube.com/watch?v=y207itTGDvs)
-- [Spiritualized - Let It Bleed For Iggy Official Audio](https://www.youtube.com/watch?v=Bg_s5hPboEE)
-- [Spiritualized - Crazy Official Audio](https://www.youtube.com/watch?v=DsAcPAE3moM)
-- [Spiritualized  - Mainline Song Official Audio](https://www.youtube.com/watch?v=ie46jOrQ2Hk)
-- [Spiritualized - The A Song Laid In Your Arms Official Audio](https://www.youtube.com/watch?v=6EsC1-mQazw)
-- [Im Coming Home Again](https://www.youtube.com/watch?v=SCLpNGTpybc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +61,5 @@ Everything Was Beautiful is the ninth studio album by Spiritualized, released un
 | Format         | Vinyl LP Album |
 | Label          | Bella Union |
 | Catalog Number | BELLA1270V |
-| Notes | Includes printed inner sleeve and download card for the MP3 version ([r=27971124]) Limited signed copies were available via bellaunionvinylshop.com：Everything Was Beautiful LP (Signed by Artist) ONE PER CUSTOMER  Runouts are etched except : -56500- which is stamped. |
+| Notes | Includes printed inner sleeve and download card for the MP3 version ([r=27971124])<br>Limited signed copies were available via bellaunionvinylshop.com：Everything Was Beautiful LP (Signed by Artist) ONE PER CUSTOMER<br><br>Runouts are etched except : -56500- which is stamped. |
 | Discogs URL    | [Spiritualized - Everything Was Beautiful](https://www.discogs.com/release/22954349-Spiritualized-Everything-Was-Beautiful) |

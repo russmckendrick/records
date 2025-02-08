@@ -4,6 +4,7 @@ artist_name: "Tom Waits"
 artist: "tom-waits"
 album_name: "Glitter And Doom Live"
 date: 2018-01-22T19:16:22.000000Z
+release_date: "2009-11-23"
 release_id: "11273241"
 slug: "glitter-and-doom-live-11273241"
 hideSummary: true
@@ -39,60 +40,37 @@ An announcement from the official site said:
 
 Disc One is designed to sound like one evening's performance, even though the 17 tracks are selected from 10 cities, from Paris to Birmingham; Tulsa to Milan; and Atlanta to Dublin. Sonically the album is superb and has been beautifully recorded and meticulously mastered. Disc Two is a bonus compendium called TOM TALES, which is a selection of the comic bromides, strange musings, and unusual facts that Tom traditionally shares with his audience during the piano set. Waits' topics range from the ritual of insects to the last dying breath of Henry Ford.
 Prior to release, ANTI- made the first eight tracks available for free download.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Lucinda / Ain' Goin' Down To The Wel No Mo' (5:37)
-2. Singapore (5:00)
-3. Get Behind The Mule (6:26)
-4. Fannin Street (4:16)
-5. Dirt In The Ground (5:18)
-6. Such A Scream (2:54)
-7. Live Circus (5:04)
-8. Goin' Out West (3:48)
-9. Falling Down (4:21)
-10. The Part You Throw Away (5:06)
-11. Trampled Rose (5:06)
-12. Metropolitan Glide (3:09)
-13. I'll Shoot The Moon (4:25)
-14. Green Grass (3:20)
-15. Make It Rain (3:58)
-16. Story (2:02)
-17. Lucky Day (3:47)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Lucinda / Ain' Goin' Down To The Wel No Mo' | 5:37 |
+| A2 | Singapore | 5:00 |
+| A3 | Get Behind The Mule | 6:26 |
+| B1 | Fannin Street | 4:16 |
+| B2 | Dirt In The Ground | 5:18 |
+| B3 | Such A Scream | 2:54 |
+| B4 | Live Circus | 5:04 |
+| C1 | Goin' Out West | 3:48 |
+| C2 | Falling Down | 4:21 |
+| C3 | The Part You Throw Away | 5:06 |
+| C4 | Trampled Rose | 5:06 |
+| D1 | Metropolitan Glide | 3:09 |
+| D2 | I'll Shoot The Moon | 4:25 |
+| D3 | Green Grass | 3:20 |
+| D4 | Make It Rain | 3:58 |
+| D5 | Story | 2:02 |
+| D6 | Lucky Day | 3:47 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/glitter-and-doom-live-remastered/1485071268" >}}<br>
 
 
-## Videos
-### Tom Waits - Glitter And Doom Live 2009
-{{< youtube id="rqGNtfNEADQ" title="Tom Waits - Glitter And Doom Live 2009" >}}<br>
-### More Videos
-
-- [Tom Waits - Glitter And Doom Live 2009](https://www.youtube.com/watch?v=rqGNtfNEADQ)
-- [Tom Waits  Glitter and Doom Concert Experience 2008](https://www.youtube.com/watch?v=ByMi1Yii9ek)
-- [Tom Waits - Glitter And Doom Concert Experience 2008](https://www.youtube.com/watch?v=T1yQ1J7NpyM)
-- [Tom Waits - Glitter and Doom Live](https://www.youtube.com/watch?v=n34VIJOfdpM)
-- [Tom Waits Glitter and Doom Tour Opening - Lucinda - 2008 Official Audio](https://www.youtube.com/watch?v=jTp0HwrdOoA)
-- [Tom Waits - Glitter and Doom Live](https://www.youtube.com/watch?v=7TDSDRb-I6Y)
-- [Tom Waits - Glitter and Doom Live](https://www.youtube.com/watch?v=3l4X1S51l_o)
-- [Tom Waits - Goin Out West Live - Glitter and Doom HQ](https://www.youtube.com/watch?v=E4_N2F4o4cU)
-- [Ill Shoot The Moon - Tom Waits Glitter and Doom live](https://www.youtube.com/watch?v=zv9dmmUPvAw)
-- [tom waits glitter and doom live](https://www.youtube.com/watch?v=UR6CtkXNRtk)
-- [Tom Waits - Live Circus - Glitter and Doom](https://www.youtube.com/watch?v=q6zAp0NvPSs)
-- [Glitter and Doom Full Concert - Tom Waits 2008 St Louis](https://www.youtube.com/watch?v=2iGovaFf9Pc)
-- [Glitter and Doom Tour 2008 Footage - Tom Waits Rare Promo Video](https://www.youtube.com/watch?v=-Llu7DFSMxM)
-- [Tom Waits - Singapore Glitter and Doom Live](https://www.youtube.com/watch?v=TRbqtoH3gjA)
-- [Tom Waits Live - Glitter And Doom Tour](https://www.youtube.com/watch?v=UUjsAUXpRXw)
-- [Tom Waits - Story - Glitter and Doom](https://www.youtube.com/watch?v=QR1ss7IHH4Y)
-- [Tom Waits - Fannin Street - Glitter and Doom](https://www.youtube.com/watch?v=6fBMyntZd4M)
-- [Tom Waits   Goin Out West Live   Glitter and Doom HQ](https://www.youtube.com/watch?v=jR-i9bo0FdQ)
-- [Free The Glutens Tom Waits interview 2015](https://www.youtube.com/watch?v=FbKMX2vFOaQ)
-- [Tom Waits - Dirt in the ground Glitter and Doom live](https://www.youtube.com/watch?v=vVRW2QgVNXo)
-- [Tom Waits - Ill Shoot The Moon - Glitter and Doom](https://www.youtube.com/watch?v=0TS6vZycbnA)
-- [Tom Waits Full Concert in Florence - GREAT SOUND 072499 Mule Variations Tour](https://www.youtube.com/watch?v=Bx6F35XlX5o)
 
 ## Release Images
 {{< imageGrid >}}
@@ -104,5 +82,5 @@ Prior to release, ANTI- made the first eight tracks available for free download.
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | Anti- |
 | Catalog Number | 7053-3 |
-| Notes | Produced by Tom Waits & Kathleen Brennan (on back cover, top left corner). Stickers: "Newly Remastered with Waits/Brennan" and "DOWNLOAD CARD INCLUDED / 180 Gram". Gatefold sleeve  |
+| Notes | Produced by Tom Waits & Kathleen Brennan (on back cover, top left corner).<br>Stickers: "Newly Remastered with Waits/Brennan" and "DOWNLOAD CARD INCLUDED / 180 Gram".<br>Gatefold sleeve<br> |
 | Discogs URL    | [Tom Waits - Glitter And Doom Live](https://www.discogs.com/release/11273241-Tom-Waits-Glitter-And-Doom-Live) |

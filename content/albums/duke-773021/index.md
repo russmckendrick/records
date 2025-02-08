@@ -4,6 +4,7 @@ artist_name: "Genesis"
 artist: "genesis"
 album_name: "Duke"
 date: 2016-01-13T10:27:40.000000Z
+release_date: "2023-02-24"
 release_id: "773021"
 slug: "duke-773021"
 hideSummary: true
@@ -28,34 +29,32 @@ Duke is the tenth studio album by English rock band Genesis, released on 28 Marc
 Duke was positively received by music critics, who praised the album for bridging the band's progressive rock-oriented past, such as the closing ten-minute "Duke's Travels"/"Duke's End" suite, with their more pop rock-oriented, commercially accessible direction, as displayed on the hit singles "Turn It On Again", "Duchess", and "Misunderstanding". It reached No. 11 in the US, and became their first album to reach No. 1 in the UK. It has since been certified Platinum in both countries.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Behind The Lines (5:31)
-2. Duchess (6:40)
-3. Guide Vocal (1:18)
-4. Man Of Our Times (5:35)
-5. Misunderstanding (3:11)
-6. Heathaze (5:00)
-7. Turn It On Again (3:50)
-8. Alone Tonight (3:54)
-9. Cul-De-Sac (5:02)
-10. Please Don't Ask (4:00)
-11. Duke's Travels (8:41)
-12. Duke's End (2:04)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Behind The Lines | 5:31 |
+| A2 | Duchess | 6:40 |
+| A3 | Guide Vocal | 1:18 |
+| A4 | Man Of Our Times | 5:35 |
+| A5 | Misunderstanding | 3:11 |
+| A6 | Heathaze | 5:00 |
+| B1 | Turn It On Again | 3:50 |
+| B2 | Alone Tonight | 3:54 |
+| B3 | Cul-De-Sac | 5:02 |
+| B4 | Please Don't Ask | 4:00 |
+| B5 | Duke's Travels | 8:41 |
+| B6 | Duke's End | 2:04 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/genesis-drop-single/1662502516" >}}<br>
 
 
-## Videos
-### Genesis - Dukes Travels Official Audio
-{{< youtube id="n3IarAnJOHg" title="Genesis - Dukes Travels Official Audio" >}}<br>
-### More Videos
-
-- [Genesis - Dukes Travels Official Audio](https://www.youtube.com/watch?v=n3IarAnJOHg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +66,5 @@ Duke was positively received by music critics, who praised the album for bridgin
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Charisma |
 | Catalog Number | CBR 101 |
-| Notes | Sleeve: Engineered by David Hentschel of Dukeslodge Enterprises Ltd. Recorded at Polar Studios Sweden Mixed at Maison Rouge London Mastered at Trident All songs: Hit & Run Music Ltd.  "Albert" also appears in L'Alphabet D'Albert by Lionel Koechlin (Éditions Jannink) ®  Illustrations: © 1979 Editions Jannink, 3 Rue St George, Paris 75009 and © 1980 Lionel Koechlin. Marketed by Charisma Records Ltd. Manufactured and distributed by Phonogram Ltd. © 1980 Charisma Records Ltd.  Labels: Original sound recording made by Charisma Records Ltd. ℗ 1980 Charisma Records Ltd. Hit and Run Music Publishing Ltd. Marketed and distributed by Phonogram Ltd _ Gatefold sleeve. Initial copies with 'Special Price - Limited Period' sticker (see images). Track durations are not printed on the release. |
+| Notes | Sleeve:<br>Engineered by David Hentschel of Dukeslodge Enterprises Ltd.<br>Recorded at Polar Studios Sweden<br>Mixed at Maison Rouge London<br>Mastered at Trident<br>All songs: Hit & Run Music Ltd.<br><br>"Albert" also appears in L'Alphabet D'Albert by Lionel Koechlin (Éditions Jannink) ®<br><br>Illustrations: © 1979 Editions Jannink, 3 Rue St George, Paris 75009 and © 1980 Lionel Koechlin.<br>Marketed by Charisma Records Ltd.<br>Manufactured and distributed by Phonogram Ltd.<br>© 1980 Charisma Records Ltd.<br><br>Labels:<br>Original sound recording made by Charisma Records Ltd.<br>℗ 1980 Charisma Records Ltd.<br>Hit and Run Music Publishing Ltd.<br>Marketed and distributed by Phonogram Ltd<br>_<br>Gatefold sleeve. Initial copies with 'Special Price - Limited Period' sticker (see images).<br>Track durations are not printed on the release. |
 | Discogs URL    | [Genesis - Duke](https://www.discogs.com/release/773021-Genesis-Duke) |

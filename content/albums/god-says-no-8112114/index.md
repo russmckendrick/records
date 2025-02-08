@@ -4,6 +4,7 @@ artist_name: "Monster Magnet"
 artist: "monster-magnet"
 album_name: "God Says No"
 date: 2016-07-10T09:49:54.000000Z
+release_date: "2001-01-01"
 release_id: "8112114"
 slug: "god-says-no-8112114"
 hideSummary: true
@@ -36,48 +37,37 @@ styles: ["Hard Rock", "Heavy Metal", "Psychedelic Rock"]
 God Says No is the fifth studio album by American rock band Monster Magnet. It was released in the United Kingdom on November 12, 2000, and in the United States on April 10, 2001. It was a commercial failure compared to their previous album, Powertrip. It was their last release recorded for A&M Records, due to problems with promotion of the album but it reached #17 in Germany.  It would also be the last release with bassist Joe Calandra and drummer Jon Kleiman.
 The track "Medicine", which appears on the US release, is a re-recording of a track which originally appeared on the band's 1991 album Spine of God. A music video was made for the 1991 version.
 Two different music videos were produced for the song "Heads Explode" and one for "Melt", consisting mostly of live footage over the studio version of the track. The former song was featured in the film Dracula 2000 and included on its soundtrack.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Melt
-2. Heads Explode
-3. Doomsday
-4. God Says No
-5. Kiss Of The Scorpion
-6. All Shook Out
-7. Gravity Well
-8. My Little Friend
-9. Queen Of You
-10. Down In The Jungle
-11. Cry
-12. Take It
-13. Silver Future
-14. I Want More (B-Side)
-15. Leapin' Lizards (B-Side)
-16. Into The Void
-17. Black Celebration
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Melt |  |
+| A2 | Heads Explode |  |
+| A3 | Doomsday |  |
+| A4 | God Says No |  |
+| A5 | Kiss Of The Scorpion |  |
+| B1 | All Shook Out |  |
+| B2 | Gravity Well |  |
+| B3 | My Little Friend |  |
+| B4 | Queen Of You |  |
+| C1 | Down In The Jungle |  |
+| C2 | Cry |  |
+| C3 | Take It |  |
+| C4 | Silver Future |  |
+| D1 | I Want More (B-Side) |  |
+| D2 | Leapin' Lizards (B-Side) |  |
+| D3 | Into The Void |  |
+| D4 | Black Celebration |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/god-says-no/1713553752" >}}<br>
 
 
-## Videos
-### Melt - Monster Magnet - God Says No
-{{< youtube id="tmbwoAeQcJ4" title="Melt - Monster Magnet - God Says No" >}}<br>
-### More Videos
-
-- [MONSTER MAGNET - Heads Explode unedited God Says No HDadv1080p](https://www.youtube.com/watch?v=WhJGAbBVzQw)
-- [All Shook Out - Monster Magnet - God Says No](https://www.youtube.com/watch?v=luq69m7Sp-g)
-- [Monster Magnet - Down in the Jungle](https://www.youtube.com/watch?v=HTMOv_2YgWg)
-- [Monster Magnet-Queen of You lyrics](https://www.youtube.com/watch?v=RxFIuSVQ7vM)
-- [Silver Future - Monster Magnet - God Says No](https://www.youtube.com/watch?v=kuixhLvxA5A)
-- [Monster Magnet - Heads Explode](https://www.youtube.com/watch?v=lOG2hv0NM9k)
-- [Monster Magnet - Heads Explode](https://www.youtube.com/watch?v=SQ8MmFISmXQ)
-- [God Says No - Monster Magnet](https://www.youtube.com/watch?v=riAkBFKRqz0)
-- [Monster Magnet - Kiss of the Scorpion](https://www.youtube.com/watch?v=Ci8fYExzXbI)
-- [Monster Magnet - I Want More](https://www.youtube.com/watch?v=Yji5Keb5Nko)
 
 ## Release Images
 {{< imageGrid >}}
@@ -89,5 +79,5 @@ Two different music videos were produced for the song "Heads Explode" and one fo
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Spinefarm Records |
 | Catalog Number | 00600753637845 |
-| Notes | Black vinyl. Includes sleeve-notes & bonus tracks, cover material and a free album download code.  Original sound recording made by A & M Records Ltd. Tracks C4 and D1 to D4 are bonus tracks.  Recorded at The Warehouse, Vancouver, B.C. Canada Mixed at the Armoury, Vancouver, BC, Canada. Mixed at Rak Studios, London, England. Mixed at The Warehouse, Vancouver, BC, Canada.  ℗ & © 2015 Spinefarm Records. A Universal Music Group Company  Made in the EU. |
+| Notes | Black vinyl. Includes sleeve-notes & bonus tracks, cover material and a free album download code.<br><br>Original sound recording made by A & M Records Ltd.<br>Tracks C4 and D1 to D4 are bonus tracks.<br><br>Recorded at The Warehouse, Vancouver, B.C. Canada<br>Mixed at the Armoury, Vancouver, BC, Canada. Mixed at Rak Studios, London, England. Mixed at The Warehouse, Vancouver, BC, Canada.<br><br>℗ & © 2015 Spinefarm Records. A Universal Music Group Company<br><br>Made in the EU. |
 | Discogs URL    | [Monster Magnet - God Says No](https://www.discogs.com/release/8112114-Monster-Magnet-God-Says-No) |

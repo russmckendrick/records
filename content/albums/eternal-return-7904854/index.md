@@ -28,43 +28,24 @@ For an artist who spent the early part of her career crafting lyrics shrouded in
 
 
 ## Tracklisting
-1. I Am Ready
-2. I Wanna Be Your Man
-3. Better With You
-4. I'd Be Lost
-5. Maybe This Time
-6. Beyond
-7. Luxurious
-8. Only One
-9. Say What You Want
-10. Without
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Am Ready |  |
+| A2 | I Wanna Be Your Man |  |
+| A3 | Better With You |  |
+| A4 | I'd Be Lost |  |
+| A5 | Maybe This Time |  |
+| B1 | Beyond |  |
+| B2 | Luxurious |  |
+| B3 | Only One |  |
+| B4 | Say What You Want |  |
+| B5 | Without |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/eternal-return/1053501895" >}}<br>
 
 
-## Videos
-### Sarah Blasko Eternal Return
-{{< youtube id="QKEXADRzV3A" title="Sarah Blasko Eternal Return" >}}<br>
-### More Videos
-
-- [Sarah Blasko - Only One](https://www.youtube.com/watch?v=VOQoOXYG8jo)
-- [Sarah Blasko - Luxurious](https://www.youtube.com/watch?v=Tpidd8TuxRw)
-- [Only One by Sarah Blasko taken from new album Eternal Return GRAPHIC 2015](https://www.youtube.com/watch?v=GODI9aBPHyg)
-- [Sarah Blasko - Luxurious](https://www.youtube.com/watch?v=bDPLyl10OzU)
-- [Sarah Blasko - Id Be Lost](https://www.youtube.com/watch?v=tFdKcD03R0k)
-- [Sarah Blasko - ASKREPLY](https://www.youtube.com/watch?v=Kh9hF3pMwRE)
-- [Sarah Blasko - Id Be Lost live on triple j](https://www.youtube.com/watch?v=IX88hAbW_2w)
-- [796 Sarah Blasko - Id Be Lost](https://www.youtube.com/watch?v=RKofArVQ0y0)
-- [Sarah Blasko Eternal Return](https://www.youtube.com/watch?v=QKEXADRzV3A)
-- [Sarah Blasko - Only One](https://www.youtube.com/watch?v=VOQoOXYG8jo)
-- [Sarah Blasko - Luxurious](https://www.youtube.com/watch?v=Tpidd8TuxRw)
-- [Only One by Sarah Blasko taken from new album Eternal Return GRAPHIC 2015](https://www.youtube.com/watch?v=GODI9aBPHyg)
-- [Sarah Blasko - Luxurious](https://www.youtube.com/watch?v=bDPLyl10OzU)
-- [Sarah Blasko - Id Be Lost](https://www.youtube.com/watch?v=tFdKcD03R0k)
-- [Sarah Blasko - ASKREPLY](https://www.youtube.com/watch?v=Kh9hF3pMwRE)
-- [Sarah Blasko - Id Be Lost live on triple j](https://www.youtube.com/watch?v=IX88hAbW_2w)
-- [796 Sarah Blasko - Id Be Lost](https://www.youtube.com/watch?v=RKofArVQ0y0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +57,5 @@ For an artist who spent the early part of her career crafting lyrics shrouded in
 | Format         | Vinyl LP Album |
 | Label          | Universal Music |
 | Catalog Number | 4755574 |
-| Notes | Single sleeve with printed inner sleeve containing lyrics and album credits. Includes a download code.  ℗ & © 2015 Sarah Blasko, under exclusive licence to Universal Music Australia Pty Ltd. Manufactured and distributed by Universal Music Australia Pty Ltd  All songs written by Sarah Blasko (Sony/ATV Music Publishing) with Ben Fletcher (Control), David Hunt (Control), Nick Wales (Control), Laurence Pike (Control), Burke Reid (Control).  Produced & engineered at The Grove Studios. |
+| Notes | Single sleeve with printed inner sleeve containing lyrics and album credits.<br>Includes a download code.<br><br>℗ & © 2015 Sarah Blasko, under exclusive licence to Universal Music Australia Pty Ltd.<br>Manufactured and distributed by Universal Music Australia Pty Ltd<br><br>All songs written by Sarah Blasko (Sony/ATV Music Publishing) with Ben Fletcher (Control), David Hunt (Control), Nick Wales (Control), Laurence Pike (Control), Burke Reid (Control).<br><br>Produced & engineered at The Grove Studios. |
 | Discogs URL    | [Sarah Blasko - Eternal Return](https://www.discogs.com/release/7904854-Sarah-Blasko-Eternal-Return) |

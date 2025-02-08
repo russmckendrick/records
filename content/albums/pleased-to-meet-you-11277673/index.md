@@ -4,6 +4,7 @@ artist_name: "James"
 artist: "james"
 album_name: "Pleased To Meet You"
 date: 2017-12-17T09:51:13.000000Z
+release_date: "2001-01-01"
 release_id: "11277673"
 slug: "pleased-to-meet-you-11277673"
 hideSummary: true
@@ -30,37 +31,33 @@ styles: ["Alternative Rock", "Soft Rock", "Indie Rock"]
 
 Pleased to Meet You is the ninth studio album by English rock band James. Less than a year after the release of Millionaires (1999), the band were playing new material live. Recording was split between Ridge Farm, Whitfield St., House in the Woods studios; producer credit was split between Brian Eno, guitarist/violinist Saul Davies, KK and the band. "Getting Away with It (All Messed Up)" was released as a single in late June, followed a week later by Pleased to Meet You on 2 July through Mercury Records.
 The front cover features a composite image of all the band members' faces. Pleased to Meet You reached number 11 on the UK album chart, and was certified silver by the BPI. Lead single "Getting Away with It (All Messed Up)" reached number 22 on the UK singles chart. The record received a mainly favourable response from music critics. It was promoted with an appearance on Top of the Pops and various festivals across three months in the UK, Spain and Portugal. Vocalist Tim Booth left the band after their December UK tour; the final show of which was released as the Getting Away with It...Live live/video album in early 2002.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Space (4:49)
-2. Falling Down (3:37)
-3. English Beefcake (5:47)
-4. Junkie (4:52)
-5. Pleased To Meet You (5:37)
-6. The Shining (4:27)
-7. Senorita (3:11)
-8. Gaudi (3:16)
-9. What Is It Good For (4:12)
-10. Give It Away (3:04)
-11. Fine (3:41)
-12. Getting Away With It (All Messed Up) (4:25)
-13. Alaskan Pipeline (4:28)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Space | 4:49 |
+| A2 | Falling Down | 3:37 |
+| A3 | English Beefcake | 5:47 |
+| B1 | Junkie | 4:52 |
+| B2 | Pleased To Meet You | 5:37 |
+| B3 | The Shining | 4:27 |
+| C1 | Senorita | 3:11 |
+| C2 | Gaudi | 3:16 |
+| C3 | What Is It Good For | 4:12 |
+| D1 | Give It Away | 3:04 |
+| D2 | Fine | 3:41 |
+| D3 | Getting Away With It (All Messed Up) | 4:25 |
+| D4 | Alaskan Pipeline | 4:28 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pleased-to-meet-you/1442647986" >}}<br>
 
 
-## Videos
-### James - Getting Away With It Live TOTP 2001
-{{< youtube id="F4upGHpRyXY" title="James - Getting Away With It Live TOTP 2001" >}}<br>
-### More Videos
-
-- [James - Space with lyrics](https://www.youtube.com/watch?v=_wqdCKr5T5k)
-- [James - Falling Down Later with Jools Holland 2001](https://www.youtube.com/watch?v=4qnc93RdAqQ)
-- [James - Falling Down Live VH1 Will Wanted 2001 RARE](https://www.youtube.com/watch?v=wAtjCVcc3pk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +69,5 @@ The front cover features a composite image of all the band members' faces. Pleas
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 5712915 |
-| Notes | 2017 EU  |
+| Notes | 2017 EU<br> |
 | Discogs URL    | [James - Pleased To Meet You](https://www.discogs.com/release/11277673-James-Pleased-To-Meet-You) |

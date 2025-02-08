@@ -4,6 +4,7 @@ artist_name: "Public Service Broadcasting"
 artist: "public-service-broadcasting"
 album_name: "This New Noise "
 date: 2023-09-08T11:06:28.000000Z
+release_date: "2023-09-08"
 release_id: "28204582"
 slug: "this-new-noise-28204582"
 hideSummary: true
@@ -31,33 +32,27 @@ styles: ["Krautrock", "Classical"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Ripples in The Ether (Towards The Infinite)
-2. This New Noise
-3. An Unusual Man
-4. A Cello Sings In Daventry 
-5. Broadcasting House
-6. The Microphone (The Fleet is Lit Up)
-7. A Candle Which Will Not Be Put Out
-8. What Of The Future? (In Touch With The Infinite)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ripples in The Ether (Towards The Infinite) |  |
+| A2 | This New Noise |  |
+| B1 | An Unusual Man |  |
+| B2 | A Cello Sings In Daventry  |  |
+| C1 | Broadcasting House |  |
+| C2 | The Microphone (The Fleet is Lit Up) |  |
+| D1 | A Candle Which Will Not Be Put Out |  |
+| D2 | What Of The Future? (In Touch With The Infinite) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-new-noise-live/1757847579" >}}<br>
 
 
-## Videos
-### Ripples in the Ether Towards the Infinite
-{{< youtube id="gzzxhC69jDc" title="Ripples in the Ether Towards the Infinite" >}}<br>
-### More Videos
-
-- [This New Noise - Public Service Broadcasting BBC Symphony Orchestra Jules Buckley BBC Proms](https://www.youtube.com/watch?v=XC68Qg5_1Lg)
-- [An Unusual Man Live](https://www.youtube.com/watch?v=_X6aEqsffHw)
-- [A Cello Sings in Daventry Live](https://www.youtube.com/watch?v=9WKKSNqJTSw)
-- [Broadcasting House - Public Service Broadcasting BBC Symphony Orchestra Jules Buckley BBC Proms](https://www.youtube.com/watch?v=04PmHmWLrwY)
-- [The Microphone The Fleet is Lit Up](https://www.youtube.com/watch?v=eR892mPfbvU)
-- [A Candle Which Will Not Be Put Out - Public Service Broadcasting BBC Symphony Orchestra J Buckley](https://www.youtube.com/watch?v=5qEBP-dp9R0)
-- [What of the Future In Touch with the Infinite](https://www.youtube.com/watch?v=QwsSGKwQMsg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +63,5 @@ styles: ["Krautrock", "Classical"]
 | Format         | Vinyl 2× LP Album Limited Edition (White) |
 | Label          | Test Card Recordings |
 | Catalog Number | TCRVA05 |
-| Notes | Hype Sticker with Barcode: Limited white vinyl double LP  Indies only limited edition 3000 copies  ℗ 2023 BBC © 2023 Test Card Recordings All runout data is etched |
+| Notes | Hype Sticker with Barcode:<br>Limited white vinyl double LP<br><br>Indies only limited edition 3000 copies<br><br>℗ 2023 BBC<br>© 2023 Test Card Recordings<br>All runout data is etched |
 | Discogs URL    | [Public Service Broadcasting - This New Noise ](https://www.discogs.com/release/28204582-Public-Service-Broadcasting-BBC-Symphony-Orchestra-Jules-Buckley-This-New-Noise-) |

@@ -44,48 +44,25 @@ The LP’s cover was drawn by bassist Seymour and pays homage to The Beatles’ 
 
 
 ## Tracklisting
-1. Magic Piano
-2. Life's Imitation
-3. The Howl
-4. All That I Can Ever Own
-5. Oh Hi
-6. Some Greater Plan (For Claire)
-7. Black Water, White Circle
-8. Blurry Grass
-9. I Can't Keep Up With You
-10. Thirsty
-11. Night Song
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Magic Piano |  |
+| A2 | Life's Imitation |  |
+| A3 | The Howl |  |
+| A4 | All That I Can Ever Own |  |
+| A5 | Oh Hi |  |
+| A6 | Some Greater Plan (For Claire) |  |
+| B1 | Black Water, White Circle |  |
+| B2 | Blurry Grass |  |
+| B3 | I Can't Keep Up With You |  |
+| B4 | Thirsty |  |
+| B5 | Night Song |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gravity-stairs/1728305078" >}}<br>
 
 
-## Videos
-### CROWDED HOUSE - MAGIC PIANO OFFICIAL LYRIC VIDEO
-{{< youtube id="nSdHrnzD_KA" title="CROWDED HOUSE - MAGIC PIANO OFFICIAL LYRIC VIDEO" >}}<br>
-### More Videos
-
-- [CROWDED HOUSE - TEENAGE SUMMER OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=DDXlz2srXOg)
-- [CROWDED HOUSE - THE HOWL OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=MFln0Ll2s6A)
-- [CROWDED HOUSE - ALL THAT I CAN EVER OWN OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=wvFCiFVz3Xs)
-- [CROWDED HOUSE - OH HI OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=_uMmTV4oGaA)
-- [CROWDED HOUSE - SOME GREATER PLAN OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=_Ymj6gmlGCM)
-- [CROWDED HOUSE - BLACK WATER WHITE CIRCLE OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=6J8pCgS33Bs)
-- [CROWDED HOUSE - BLURRY GRASS OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=cL8JV-G2QD8)
-- [CROWDED HOUSE - I CANT KEEP UP WITH YOU OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=YlWSF6g6gWs)
-- [CROWDED HOUSE - THIRSTY OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=dP8fsH7NhVs)
-- [CROWDED HOUSE - NIGHT SONG OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=6SBF7vMxK9c)
-- [CROWDED HOUSE - MAGIC PIANO OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=nSdHrnzD_KA)
-- [CROWDED HOUSE - TEENAGE SUMMER OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=DDXlz2srXOg)
-- [CROWDED HOUSE - THE HOWL OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=MFln0Ll2s6A)
-- [CROWDED HOUSE - ALL THAT I CAN EVER OWN OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=wvFCiFVz3Xs)
-- [CROWDED HOUSE - OH HI OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=_uMmTV4oGaA)
-- [CROWDED HOUSE - SOME GREATER PLAN OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=_Ymj6gmlGCM)
-- [CROWDED HOUSE - BLACK WATER WHITE CIRCLE OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=6J8pCgS33Bs)
-- [CROWDED HOUSE - BLURRY GRASS OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=cL8JV-G2QD8)
-- [CROWDED HOUSE - I CANT KEEP UP WITH YOU OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=YlWSF6g6gWs)
-- [CROWDED HOUSE - THIRSTY OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=dP8fsH7NhVs)
-- [CROWDED HOUSE - NIGHT SONG OFFICIAL LYRIC VIDEO](https://www.youtube.com/watch?v=6SBF7vMxK9c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -97,5 +74,5 @@ The LP’s cover was drawn by bassist Seymour and pays homage to The Beatles’ 
 | Format         | Vinyl LP Album Stereo (Blue [Cloudy]) |
 | Label          | BMG |
 | Catalog Number | 4099964027372 |
-| Notes | Gatefold sleeve. Includes a printed inner sleeve with track list on one side and lyrics on the other.  Catalog numbers: 4099964027372 (on back cover) 964027371 (on sticker and side B label)  Runouts are machine etched.  [Back cover:] All Songs [...] (BMG Publishing) except: The Howl [...] (Mushroom Music Publishing), Some Greater Plan (for Claire) [...] (BMG Publishing / Mushroom Music Publishing), Blurry Glass [...] (Control) and [...] (BMG Publishing), Can't Keep Up With You [...] (BMG Publishing / Mushroom Music Publishing), Thirsty [...] (Control / BMG Publishing)  Recorded at Music Farm Studios - Byron Bay, Roundhead Studios - Auckland, LaLa Mansion Studios - Los Angeles, La Fabrique Studios St Remy de Provence. Additional Recording at our homes. All songs mixed at Roundhead Studios - Auckland New Zealand. All songs mastered [...] at Gateway Mastering - Portland Maine USA  'Oh Hi' was inspired and created for the children of 'So They Can' schools in Kenya and Tanzania.  ℗© 2024 Lester Records Ltd under exclusive license to BMG Rights Management (Australia) Pty Ltd.  Antonis Moraitis misspelled as "Antonis Moriatis" on the back cover.  Original packaging is shrink wrapped with two stickers:   - One with the band, album name and barcode along with the inscription "Standard Vinyl" and the catalog number 964027371.   - One stating "Made in Czech Republic".   - Additionally, there is a printing on the shrink wrap stating "Made in Canada".  Note: There were apparently no black vinyl original pressings. LP in the "Standard Vinyl" package is cloudy blue. |
+| Notes | Gatefold sleeve.<br>Includes a printed inner sleeve with track list on one side and lyrics on the other.<br><br>Catalog numbers:<br>4099964027372 (on back cover)<br>964027371 (on sticker and side B label)<br><br>Runouts are machine etched.<br><br>[Back cover:]<br>All Songs [...] (BMG Publishing) except:<br>The Howl [...] (Mushroom Music Publishing),<br>Some Greater Plan (for Claire) [...] (BMG Publishing / Mushroom Music Publishing),<br>Blurry Glass [...] (Control) and [...] (BMG Publishing),<br>Can't Keep Up With You [...] (BMG Publishing / Mushroom Music Publishing),<br>Thirsty [...] (Control / BMG Publishing)<br><br>Recorded at Music Farm Studios - Byron Bay, Roundhead Studios - Auckland, LaLa Mansion Studios - Los Angeles, La Fabrique Studios St Remy de Provence.<br>Additional Recording at our homes.<br>All songs mixed at Roundhead Studios - Auckland New Zealand.<br>All songs mastered [...] at Gateway Mastering - Portland Maine USA<br><br>'Oh Hi' was inspired and created for the children of 'So They Can' schools in Kenya and Tanzania.<br><br>℗© 2024 Lester Records Ltd under exclusive license to BMG Rights Management (Australia) Pty Ltd.<br><br>Antonis Moraitis misspelled as "Antonis Moriatis" on the back cover.<br><br>Original packaging is shrink wrapped with two stickers:<br>  - One with the band, album name and barcode along with the inscription "Standard Vinyl" and the catalog number 964027371.<br>  - One stating "Made in Czech Republic".<br>  - Additionally, there is a printing on the shrink wrap stating "Made in Canada".<br><br>Note: There were apparently no black vinyl original pressings. LP in the "Standard Vinyl" package is cloudy blue. |
 | Discogs URL    | [Crowded House - Gravity Stairs](https://www.discogs.com/release/30830307-Crowded-House-Gravity-Stairs) |

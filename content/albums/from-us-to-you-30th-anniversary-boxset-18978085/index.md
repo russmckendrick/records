@@ -4,6 +4,7 @@ artist_name: "EMF"
 artist: "emf"
 album_name: "From Us To You, 30th Anniversary Boxset"
 date: 2021-06-03T00:49:13.000000Z
+release_date: ""
 release_id: "18978085"
 slug: "from-us-to-you-30th-anniversary-boxset-18978085"
 hideSummary: true
@@ -48,72 +49,79 @@ styles: ["Electro", "Synth-pop", "Leftfield", "Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Schubert Dip, 1991
-2. Children
-3. Long Summer Days
-4. When You're Mine
-5. Travelling Not Running
-6. I Believe
-7. Unbelievable
-8. Girl Of An Age
-9. Admit It
-10. Lies
-11. Longtime
-12. EMF
-13. Stigma, 1992
-14. They're Here
-15. Arizona
-16. It's You That Leaves Me Dry
-17. Never Know
-18. Blue Highs
-19. Inside
-20. Getting Through
-21. She Bleeds
-22. Dog
-23. The Light That Burns Twice As Bright
-24. Cha Cha Cha - The Vinyl Cut, 1995
-25. Perfect Day
-26. La Plage
-27. Skin
-28. Secrets
-29. Shining
-30. Bleeding You Dry
-31. The Day I Was Born
-32. West Of The Cox
-33. Ballad O' The Bishop
-34. Glass Smash Jack
-35. Flipsides And Bonafides, 2020
-36. Angel
-37. Kill For You (Lo-Fi Mix)
-38. Elephant (Boxset Edit)
-39. Elevator
-40. Hum Drum
-41. Hypnotronic
-42. Starman
-43. Space
-44. Trash (Boxset Edit)
-45. Easy
-46. This Kid
-47. Make It Happen (Boxset Edit)
-48. Schubert Dip: The Demos, – 1989/1990
-49. Unbelievable
-50. I Believe
-51. Girl Of An Age
-52. Travelling Not Running
-53. Lies
-54. Children
-55. Longtime
-56. Long Summer Days
-57. You're Not What's Going On
-58. Count Me In
-59. Admit It
-60. EMF
-61. When You're Mine
-62. Big Drop
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Schubert Dip, 1991 |  |
+| LP-A1 | Children |  |
+| LP-A2 | Long Summer Days |  |
+| LP-A3 | When You're Mine |  |
+| LP-A4 | Travelling Not Running |  |
+| LP-A5 | I Believe |  |
+| LP-B1 | Unbelievable |  |
+| LP-B2 | Girl Of An Age |  |
+| LP-B3 | Admit It |  |
+| LP-B4 | Lies |  |
+| LP-B5 | Longtime |  |
+| LP-B6 | EMF |  |
+|  | Stigma, 1992 |  |
+| LP-C1 | They're Here |  |
+| LP-C2 | Arizona |  |
+| LP-C3 | It's You That Leaves Me Dry |  |
+| LP-C4 | Never Know |  |
+| LP-C5 | Blue Highs |  |
+| LP-D1 | Inside |  |
+| LP-D2 | Getting Through |  |
+| LP-D3 | She Bleeds |  |
+| LP-D4 | Dog |  |
+| LP-D5 | The Light That Burns Twice As Bright |  |
+|  | Cha Cha Cha - The Vinyl Cut, 1995 |  |
+| LP-E1 | Perfect Day |  |
+| LP-E2 | La Plage |  |
+| LP-E3 | Skin |  |
+| LP-E4 | Secrets |  |
+| LP-E5 | Shining |  |
+| LP-F1 | Bleeding You Dry |  |
+| LP-F2 | The Day I Was Born |  |
+| LP-F3 | West Of The Cox |  |
+| LP-F4 | Ballad O' The Bishop |  |
+| LP-F5 | Glass Smash Jack |  |
+|  | Flipsides And Bonafides, 2020 |  |
+| LP-G1 | Angel |  |
+| LP-G2 | Kill For You (Lo-Fi Mix) |  |
+| LP-G3 | Elephant (Boxset Edit) |  |
+| LP-G4  | Elevator |  |
+| LP-G5 | Hum Drum |  |
+| LP-G6 | Hypnotronic |  |
+| LP-H1 | Starman |  |
+| LP-H2 | Space |  |
+| LP-H3 | Trash (Boxset Edit) |  |
+| LP-H4 | Easy |  |
+| LP-H5 | This Kid |  |
+| LP-H6 | Make It Happen (Boxset Edit) |  |
+|  | Schubert Dip: The Demos, – 1989/1990 |  |
+| CS-A1 | Unbelievable |  |
+| CS-A2 | I Believe |  |
+| CS-A3 | Girl Of An Age |  |
+| CS-A4 | Travelling Not Running |  |
+| CS-A5 | Lies |  |
+| CS-A6 | Children |  |
+| CS-A7 | Longtime |  |
+| CS-B1 | Long Summer Days |  |
+| CS-B2 | You're Not What's Going On |  |
+| CS-B3 | Count Me In |  |
+| CS-B4 | Admit It |  |
+| CS-B5 | EMF |  |
+| CS-B6 | When You're Mine |  |
+| CS-B7 | Big Drop |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -126,5 +134,5 @@ styles: ["Electro", "Synth-pop", "Leftfield", "Alternative Rock"]
 | Format         | Box Set Compilation, Vinyl LP Album Reissue Remastered (Blue), Vinyl LP Album Reissue Remastered (Orange), Vinyl LP Album Reissue Remastered (Green), Vinyl LP Compilation, Cassette Album (Demo) |
 | Label          | Believe |
 | Catalog Number | EMF001BLV |
-| Notes | ℗ Believe 2020. © Believe 2020.  The set was released via Kickstarter and includes a download card for all the music (including the Cha Cha Cha tracks omitted in "The Vinyl Cut") in the box as well as an interview with [a109410] and [a89324]. |
+| Notes | ℗ Believe 2020. © Believe 2020.<br><br>The set was released via Kickstarter and includes a download card for all the music (including the Cha Cha Cha tracks omitted in "The Vinyl Cut") in the box as well as an interview with [a109410] and [a89324]. |
 | Discogs URL    | [EMF - From Us To You, 30th Anniversary Boxset](https://www.discogs.com/release/18978085-EMF-From-Us-To-You-30th-Anniversary-Boxset) |

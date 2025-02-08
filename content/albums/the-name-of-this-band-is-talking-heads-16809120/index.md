@@ -4,6 +4,7 @@ artist_name: "Talking Heads"
 artist: "talking-heads"
 album_name: "The Name Of This Band Is Talking Heads"
 date: 2021-01-23T07:52:11.000000Z
+release_date: "1982-03-24"
 release_id: "16809120"
 slug: "the-name-of-this-band-is-talking-heads-16809120"
 hideSummary: true
@@ -31,59 +32,37 @@ The Name of This Band Is Talking Heads is a double live album by the American ne
 Though a decent commercial and critical success upon release, The Name of This Band was somewhat overshadowed by Talking Heads' subsequent live album and concert film Stop Making Sense. However, it went on to attract greater retrospective acclaim, with critics remarking on its importance in documenting the band's artistic growth.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. New Feeling (3:10)
-2. A Clean Break (4:57)
-3. Don't Worry About The Government (3:08)
-4. Pulled Up (4:08)
-5. Psycho Killer (5:34)
-6. Artists Only (3:48)
-7. Stay Hungry (4:00)
-8. Air (4:09)
-9. Building On Fire (3:36)
-10. Memories (Can't Wait) (3:58)
-11. I Zimbra (3:33)
-12. Drugs (4:47)
-13. Houses In Motion (7:00)
-14. Life During Wartime (5:03)
-15. The Great Curve (6:58)
-16. Crosseyed And Painless (7:05)
-17. Take Me To The River (6:43)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | New Feeling | 3:10 |
+| A2 | A Clean Break | 4:57 |
+| A3 | Don't Worry About The Government | 3:08 |
+| A4 | Pulled Up | 4:08 |
+| A5 | Psycho Killer | 5:34 |
+| B1 | Artists Only | 3:48 |
+| B2 | Stay Hungry | 4:00 |
+| B3 | Air | 4:09 |
+| B4 | Building On Fire | 3:36 |
+| B5 | Memories (Can't Wait) | 3:58 |
+| C1 | I Zimbra | 3:33 |
+| C2 | Drugs | 4:47 |
+| C3 | Houses In Motion | 7:00 |
+| C4 | Life During Wartime | 5:03 |
+| D1 | The Great Curve | 6:58 |
+| D2 | Crosseyed And Painless | 7:05 |
+| D3 | Take Me To The River | 6:43 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-name-of-this-band-is-talking-heads-live-expanded-version/20917648" >}}<br>
 
 
-## Videos
-### Life During Wartime 2004 Remaster
-{{< youtube id="GTIkfzGiIyo" title="Life During Wartime 2004 Remaster" >}}<br>
-### More Videos
-
-- [A Clean Break Lets Work Live 2004 Remaster](https://www.youtube.com/watch?v=-vhtCe4PmHA)
-- [Stay Hungry 1979 Version 2004 Remaster](https://www.youtube.com/watch?v=q4TXwmtvOiI)
-- [Memories Cant Wait 2004 Remaster](https://www.youtube.com/watch?v=d_DdC3PlVdo)
-- [Dont Worry About the Government Live at WCOZ Massachusetts 2004 Remaster](https://www.youtube.com/watch?v=Rqitv9Xxw88)
-- [A Clean Break Lets Work Live at WCOZ Massachusetts 2004 Remaster](https://www.youtube.com/watch?v=-vhtCe4PmHA)
-- [Memories Cant Wait Live at Capitol Theater New Jersey 2004 Remaster](https://www.youtube.com/watch?v=d_DdC3PlVdo)
-- [New Feeling Live at WCOZ Massachusetts 2004 Remaster](https://www.youtube.com/watch?v=2KM5XNGJDqg)
-- [Once in a Lifetime Live at Sun Plaza Tokyo](https://www.youtube.com/watch?v=NCd5OCpeJjw)
-- [Life During Wartime Live at Central Park 2004 Remaster](https://www.youtube.com/watch?v=GTIkfzGiIyo)
-- [Psycho Killer Live at WCOZ Massachusetts 2004 Remaster](https://www.youtube.com/watch?v=nGhPaJw8p6c)
-- [Drugs Live at Emerald City New Jersey 2004 Remaster](https://www.youtube.com/watch?v=nZ8GumPYT5E)
-- [Born Under Punches The Heat Goes On Live at Sun Plaza Tokyo](https://www.youtube.com/watch?v=zJpzHoo4XAQ)
-- [Take Me to the River Live at Central Park 2004 Remaster](https://www.youtube.com/watch?v=G6rUomO27G4)
-- [The Great Curve Live at Central Park 2004 Remaster](https://www.youtube.com/watch?v=2iYETa3pa6U)
-- [Heaven Live at Emerald City New Jersey](https://www.youtube.com/watch?v=5uBKmnVi0r4)
-- [Electricity Drugs Live at The Agora Cleveland Ohio 2004 Remaster](https://www.youtube.com/watch?v=YBlj-a97HYI)
-- [Im Not in Love Live at KSAN San Francisco](https://www.youtube.com/watch?v=MZgkcx3R1F0)
-- [Crosseyed and Painless Live at Emerald City New Jersey 2004 Remaster](https://www.youtube.com/watch?v=z8ou1_b02NA)
-- [The Big Country Live at WXRT Chicago](https://www.youtube.com/watch?v=NDt-3V0x0XE)
-- [Cities Live at Emerald City New Jersey 2004 Remaster](https://www.youtube.com/watch?v=wF9gUzSNUlw)
-- [Animals Live at Sun Plaza Tokyo](https://www.youtube.com/watch?v=F53a0uGFAv8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -95,5 +74,5 @@ Though a decent commercial and critical success upon release, The Name of This B
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Repress (Red Opaque ) |
 | Label          | Sire |
 | Catalog Number | RCV5 3590 |
-| Notes | Rhino 2021 "Start Your Ear Off Right" release.  Limited edition of 4,500 copies.  On outer sleeve - ℗© 1982 Sire Records Company On inner sleeves - © 1982 Sire Records Company & Talking Heads Tours Inc. On labels -  ℗ & © 1982 Sire Records Company  Made in Germany on labels / Made in Germany sticker on shrinkwrap |
+| Notes | Rhino 2021 "Start Your Ear Off Right" release.<br><br>Limited edition of 4,500 copies.<br><br>On outer sleeve - ℗© 1982 Sire Records Company<br>On inner sleeves - © 1982 Sire Records Company & Talking Heads Tours Inc.<br>On labels -  ℗ & © 1982 Sire Records Company<br><br>Made in Germany on labels / Made in Germany sticker on shrinkwrap |
 | Discogs URL    | [Talking Heads - The Name Of This Band Is Talking Heads](https://www.discogs.com/release/16809120-Talking-Heads-The-Name-Of-This-Band-Is-Talking-Heads) |

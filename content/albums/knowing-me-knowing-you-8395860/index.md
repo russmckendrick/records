@@ -4,6 +4,7 @@ artist_name: "Alan Partridge"
 artist: "alan-partridge"
 album_name: "Knowing Me Knowing You"
 date: 2017-04-25T08:35:16.000000Z
+release_date: ""
 release_id: "8395860"
 slug: "knowing-me-knowing-you-8395860"
 hideSummary: true
@@ -20,15 +21,20 @@ styles: ["Comedy"]
 
 Knowing Me, Knowing You with Alan Partridge (also known as Knowing Me, Knowing You) is a BBC Television comedy series of six episodes (beginning 16 September 1994), and a Christmas special Knowing Me, Knowing Yule on 29 December 1995. It is named after the song "Knowing Me, Knowing You" by ABBA (the main character's favourite band), a rendition of which was used as the show's title music. Steve Coogan plays the incompetent but self-satisfied Norwich-based talk show host Alan Partridge, who often insults his guests and humiliates himself in the process. Alan was a spin-off character from the spoof radio show On the Hour (which later transferred to TV as The Day Today). Knowing Me, Knowing You was written by Coogan, Armando Iannucci (who produced the radio version) and Patrick Marber (who also starred), with contributions from the regular supporting cast of Doon Mackichan, Rebecca Front and David Schneider, who played Alan's weekly guests. Steve Brown provided the show's music and arrangements, and also appeared as Glenn Ponder, the man in charge of the house band (the name of which changed, without explanation, every episode).
 Alan went on to appear in two series of the sitcom I'm Alan Partridge, following his life after both his marriage and TV career come to an end, though the latter was subsequently revived. It was generally well received by fans and critics, and was nominated for a BAFTA and a British Comedy Award.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Knowing Me Knowing You, Broadcast BBC Radio 4, 8 December 1992
-2. Knowing Me Knowing You, Broadcast BBC Radio 4, 5 January 1993
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Knowing Me Knowing You, Broadcast BBC Radio 4, 8 December 1992 |  |
+| B | Knowing Me Knowing You, Broadcast BBC Radio 4, 5 January 1993 |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 

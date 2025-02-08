@@ -4,6 +4,7 @@ artist_name: "Gizmodrome"
 artist: "gizmodrome"
 album_name: "Gizmodrome"
 date: 2017-09-15T13:05:04.000000Z
+release_date: "2021-11-19"
 release_id: "10844344"
 slug: "gizmodrome-10844344"
 hideSummary: true
@@ -24,52 +25,32 @@ styles: ["Alternative Rock"]
 Gizmodrome is the self-titled debut album by supergroup Gizmodrome, released in September 2017 on earMusic Records. The album peaked at No. 14 on the UK Independent Albums chart.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Zombies In The Mall (4:00)
-2. Stay Ready (4:02)
-3. Man In The Mountain (3:43)
-4. Summer's Coming (3:29)
-5. Sweet Angels (Rule The World) (2:56)
-6. Amaka Pipa (3:40)
-7. Strange Things Happen (2:56)
-8. Ride Your Life (3:43)
-9. Zubatta Cheve (4:01)
-10. Spin This (6:10)
-11. I Know Too Much (3:47)
-12. Stark Naked (4:04)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Zombies In The Mall | 4:00 |
+| A2 | Stay Ready | 4:02 |
+| A3 | Man In The Mountain | 3:43 |
+| A4 | Summer's Coming | 3:29 |
+| A5 | Sweet Angels (Rule The World) | 2:56 |
+| A6 | Amaka Pipa | 3:40 |
+| A7 | Strange Things Happen | 2:56 |
+| B1 | Ride Your Life | 3:43 |
+| B2 | Zubatta Cheve | 4:01 |
+| B3 | Spin This | 6:10 |
+| B4 | I Know Too Much | 3:47 |
+| B5 | Stark Naked | 4:04 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gizmodrome-live/1581446040" >}}<br>
 
 
-## Videos
-### Gizmodrome  - Stewart Copeland Adrian Belew Mark King  Vittorio Cosma
-{{< youtube id="ygZyuB21gMU" title="Gizmodrome  - Stewart Copeland Adrian Belew Mark King  Vittorio Cosma" >}}<br>
-### More Videos
-
-- [Gizmodrome- Zubatta Cheve](https://www.youtube.com/watch?v=Su7O_l93U6o)
-- [Gizmodrome- Zombies In The Mall](https://www.youtube.com/watch?v=innkqp8YDPw)
-- [Gizmodrome- Stark Naked](https://www.youtube.com/watch?v=-Znl0JPeZ8M)
-- [Gizmodrome Summer Is Coming](https://www.youtube.com/watch?v=za2_NMennRo)
-- [Gizmodrome- Spin This](https://www.youtube.com/watch?v=Ph1XdKGrjKE)
-- [Gizmodrome- Amaka Pipa](https://www.youtube.com/watch?v=7Ovg7IfI89o)
-- [Gizmodrome- Ride Your Life](https://www.youtube.com/watch?v=2FRvy0MIKlk)
-- [Gizmodrome- Stay Ready](https://www.youtube.com/watch?v=kZJ6L4o1fM0)
-- [Gizmodrome- Sweet Angels Rule The Word](https://www.youtube.com/watch?v=RKh3N-t7ykM)
-- [Gizmodrome  - Stewart Copeland Adrian Belew Mark King  Vittorio Cosma](https://www.youtube.com/watch?v=ygZyuB21gMU)
-- [Gizmodrome- Zubatta Cheve](https://www.youtube.com/watch?v=Su7O_l93U6o)
-- [Gizmodrome- Zombies In The Mall](https://www.youtube.com/watch?v=innkqp8YDPw)
-- [Gizmodrome- Stark Naked](https://www.youtube.com/watch?v=-Znl0JPeZ8M)
-- [Gizmodrome Summer Is Coming](https://www.youtube.com/watch?v=za2_NMennRo)
-- [Gizmodrome- Spin This](https://www.youtube.com/watch?v=Ph1XdKGrjKE)
-- [Gizmodrome- Amaka Pipa](https://www.youtube.com/watch?v=7Ovg7IfI89o)
-- [Gizmodrome- Ride Your Life](https://www.youtube.com/watch?v=2FRvy0MIKlk)
-- [Gizmodrome- Stay Ready](https://www.youtube.com/watch?v=kZJ6L4o1fM0)
-- [Gizmodrome- Sweet Angels Rule The Word](https://www.youtube.com/watch?v=RKh3N-t7ykM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +62,5 @@ Gizmodrome is the self-titled debut album by supergroup Gizmodrome, released in 
 | Format         | Vinyl LP Album |
 | Label          | Ear Music |
 | Catalog Number | 0212264EMU |
-| Notes | Gatefold sleeve, printed inner.  Rectangular sticker on shrink "The debut by the new band of Stewart Copeland (The Police) Mark King (Level 42) Adrian Belew (King Crimson) Vittorio Cosma (PFM)". Made in Germany. |
+| Notes | Gatefold sleeve, printed inner. <br>Rectangular sticker on shrink "The debut by the new band of Stewart Copeland (The Police) Mark King (Level 42) Adrian Belew (King Crimson) Vittorio Cosma (PFM)".<br>Made in Germany. |
 | Discogs URL    | [Gizmodrome - Gizmodrome](https://www.discogs.com/release/10844344-Gizmodrome-Gizmodrome) |

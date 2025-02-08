@@ -4,6 +4,7 @@ artist_name: "Fatboy Slim"
 artist: "fatboy-slim"
 album_name: "Better Living Through Chemistry (20th Anniversary Edition) "
 date: 2017-01-15T10:54:45.000000Z
+release_date: "1996-09-23"
 release_id: "9081379"
 slug: "better-living-through-chemistry-20th-anniversary-edition-9081379"
 hideSummary: true
@@ -23,35 +24,30 @@ styles: ["Big Beat", "Breakbeat", "Breaks"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Song For Lindy (4:49)
-2. 10th & Crenshaw (4:18)
-3. Give The Po' Man A Break (5:51)
-4. Going Out Of My Head (5:11)
-5. Everybody Needs A 303 (5:49)
-6. First Down (6:17)
-7. The Weekend Starts Here (6:41)
-8. The Sound Of Milwaukee (6:20)
-9. Santa Cruz (7:27)
-10. Punk To Funk (4:58)
-11. Crenshaw Siren Beats (2:59)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Song For Lindy | 4:49 |
+| A2 | 10th & Crenshaw | 4:18 |
+| A3 | Give The Po' Man A Break | 5:51 |
+| B1 | Going Out Of My Head | 5:11 |
+| B2 | Everybody Needs A 303 | 5:49 |
+| B3 | First Down | 6:17 |
+| C1 | The Weekend Starts Here | 6:41 |
+| C2 | The Sound Of Milwaukee | 6:20 |
+| D1 | Santa Cruz | 7:27 |
+| D2 | Punk To Funk | 4:58 |
+| D3 | Crenshaw Siren Beats | 2:59 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/better-living-through-chemistry-20th-anniversary-edition/1446578875" >}}<br>
 
 
-## Videos
-### Going Out Of My Head by Fatboy Slim Official Video
-{{< youtube id="ynlNxXHqJks" title="Going Out Of My Head by Fatboy Slim Official Video" >}}<br>
-### More Videos
-
-- [Everybody Needs A 303 by Fatboy Slim High ResOfficial Video](https://www.youtube.com/watch?v=o6eIBE7Bo3U)
-- [Fayboy Slim - The weekend starts here classic chilled tune cool beat](https://www.youtube.com/watch?v=h4gh01kftv0)
-- [Santa Cruz by Fatboy Slim Official Video](https://www.youtube.com/watch?v=D06ZivsDJmc)
-- [Fatboy Slim  Better Living Through Chemistry](https://www.youtube.com/watch?v=JfQj4zDuViI)
-- [Fatboy Slim - The Sound Of Milwaukee Official Audio](https://www.youtube.com/watch?v=pcGGRXDW98M)
-- [Fatboy Slim - Better Living Through Chemistry - Full Album  HD 1080p](https://www.youtube.com/watch?v=1fMcsFZax1U)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +58,5 @@ styles: ["Big Beat", "Breakbeat", "Breaks"]
 | Format         | Vinyl 2× LP Album Reissue (Yellow) |
 | Label          | Skint |
 | Catalog Number | BRASSIC2LPS |
-| Notes | 20th Anniversary Edition with yellow vinyl, comes in a standard LP jacket with generic paper inner sleeves. Made in the EU.  "Punk To Funk contains a sample of 'Young Scene' (K. Mansfield) By kind permission of KPM Music Ltd. ℗ & © 1968." "Large shouts to Bella, The Big Kahunas, Jon Carter, Bassbin Twins, Big Beat Boutique, Chemical Bros, Ritchie Fearless, Hard Knox, Heavenly Socialites, Daft Punk, Mark Jones, Derek Dehlarge, Sean Rowley, Bentley Rhythm Ace and the mighty Midfield General & Skintflints" |
+| Notes | 20th Anniversary Edition with yellow vinyl, comes in a standard LP jacket with generic paper inner sleeves. Made in the EU.<br><br>"Punk To Funk contains a sample of 'Young Scene' (K. Mansfield) By kind permission of KPM Music Ltd. ℗ & © 1968."<br>"Large shouts to Bella, The Big Kahunas, Jon Carter, Bassbin Twins, Big Beat Boutique, Chemical Bros, Ritchie Fearless, Hard Knox, Heavenly Socialites, Daft Punk, Mark Jones, Derek Dehlarge, Sean Rowley, Bentley Rhythm Ace and the mighty Midfield General & Skintflints" |
 | Discogs URL    | [Fatboy Slim - Better Living Through Chemistry (20th Anniversary Edition) ](https://www.discogs.com/release/9081379-Fatboy-Slim-Better-Living-Through-Chemistry-20th-Anniversary-Edition-) |

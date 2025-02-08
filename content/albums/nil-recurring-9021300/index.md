@@ -4,6 +4,7 @@ artist_name: "Porcupine Tree"
 artist: "porcupine-tree"
 album_name: "Nil Recurring"
 date: 2016-10-20T16:29:26.000000Z
+release_date: "2007-09-17"
 release_id: "9021300"
 slug: "nil-recurring-9021300"
 hideSummary: true
@@ -27,19 +28,22 @@ styles: ["Prog Rock"]
 
 Nil Recurring (also Transmission 5.1) is an EP by British progressive rock band Porcupine Tree, released on 17 September 2007 through the band's online store. The standard version of the mini-album is composed of four tracks written during the Fear of a Blank Planet recording sessions and was completed over the summer of 2007. The EP's title, which stems from the opening instrumental track on the EP, was actually derived from an unreleased demo written during the Fear of a Blank Planet recording sessions, called "Always Recurring". Although the band never formally released the song, lyrical and melodic elements of the track were reused in the closing piece of the EP, "What Happens Now?".
 Nil Recurring entered the UK Top 30 Independent Label Albums at #8.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Nil Recurring (6:15)
-2. Normal (7:08)
-3. Cheating The Polygraph (7:10)
-4. What Happens Now? (8:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Nil Recurring | 6:15 |
+| A2 | Normal | 7:08 |
+| B1 | Cheating The Polygraph | 7:10 |
+| B2 | What Happens Now? | 8:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nil-recurring-ep/1532102677" >}}<br>
-
 
 
 
@@ -53,5 +57,5 @@ Nil Recurring entered the UK Top 30 Independent Label Albums at #8.
 | Format         | Vinyl 12" Mini-Album Reissue Remastered (Clear, 180g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE936 |
-| Notes | Pressed By information is not listed. Information is derived from runouts.   [Liner Notes - Back Cover] Published by Hands Off It's Mine Publishing, administered by Universal Music Publishing Group ℗ 2007 Porcupine Tree [...] © 2016 Porcupine Tree Made in Germany  [Liner Notes - Inner Sleeves] Nil Recurring and Cheating The Polygraph recorded between Oct-Dec 2006  Normal and What Happens Now? recorded July 2007   |
+| Notes | Pressed By information is not listed. Information is derived from runouts. <br><br>[Liner Notes - Back Cover]<br>Published by Hands Off It's Mine Publishing, administered by Universal Music Publishing Group<br>℗ 2007 Porcupine Tree [...] © 2016 Porcupine Tree<br>Made in Germany<br><br>[Liner Notes - Inner Sleeves]<br>Nil Recurring and Cheating The Polygraph recorded between Oct-Dec 2006 <br>Normal and What Happens Now? recorded July 2007<br><br> |
 | Discogs URL    | [Porcupine Tree - Nil Recurring](https://www.discogs.com/release/9021300-Porcupine-Tree-Nil-Recurring) |

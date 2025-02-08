@@ -4,6 +4,7 @@ artist_name: "Jean-Michel Jarre"
 artist: "jean-michel-jarre"
 album_name: "Equinoxe Infinity"
 date: 2018-11-17T10:44:45.000000Z
+release_date: "2018-11-16"
 release_id: "12805890"
 slug: "equinoxe-infinity-12805890"
 hideSummary: true
@@ -28,46 +29,30 @@ styles: ["Synth-pop"]
 ---
 
 "Equinoxe Infinity" is the twentieth studio album by French musician and composer Jean-Michel Jarre, released on 16 November 2018 by Columbia Records. It is the sequel to his fourth studio release, Équinoxe (1978), released forty years prior.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Watchers (Movement 1)  (2:58)
-2. Flying Totems (Movement 2)  (3:54)
-3. Robots Don't Cry (Movement 3)  (5:44)
-4. All That You Leave Behind (Movement 4)  (4:01)
-5. If The Wind Could Speak (Movement 5)  (1:42)
-6. Infinity (Movement 6)  (4:14)
-7. Machines Are Learning (Movement 7)  (2:07)
-8. The Opening (Movement 8) (4:16)
-9. Don’t Look Back (Movement 9)  (3:36)
-10. Equinoxe Infinity (Movement 10)  (7:35)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Watchers (Movement 1)  | 2:58 |
+| A2 | Flying Totems (Movement 2)  | 3:54 |
+| A3 | Robots Don't Cry (Movement 3)  | 5:44 |
+| A4 | All That You Leave Behind (Movement 4)  | 4:01 |
+| A5 | If The Wind Could Speak (Movement 5)  | 1:42 |
+| B1 | Infinity (Movement 6)  | 4:14 |
+| B2 | Machines Are Learning (Movement 7)  | 2:07 |
+| B3 | The Opening (Movement 8) | 4:16 |
+| B4 | Don’t Look Back (Movement 9)  | 3:36 |
+| B5 | Equinoxe Infinity (Movement 10)  | 7:35 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/equinoxe-infinity/1435149472" >}}<br>
 
 
-## Videos
-### Jean-Michel Jarre - Flying Totems Franci98my Remix
-{{< youtube id="Z6mtx7vMdqQ" title="Jean-Michel Jarre - Flying Totems Franci98my Remix" >}}<br>
-### More Videos
-
-- [Jean-Michel Jarre - Flying Totems Franci98my Remix](https://www.youtube.com/watch?v=jaXBcbxJc5E)
-- [Continous Mix](https://www.youtube.com/watch?v=wuBvQapEhAo)
-- [THE WATCHERS movement 1](https://www.youtube.com/watch?v=ytd-i6fNWzY)
-- [FLYING TOTEMS movement 2](https://www.youtube.com/watch?v=vd4DHJAddVg)
-- [ALL THAT YOU LEAVE BEHIND movement 4](https://www.youtube.com/watch?v=Cw6Nc6QPfg0)
-- [IF THE WIND COULD SPEAK movement 5](https://www.youtube.com/watch?v=Ij0uhDRpIcg)
-- [INFINITY movement 6](https://www.youtube.com/watch?v=xFGVI0_UiNs)
-- [MACHINES ARE LEARNING movement 7](https://www.youtube.com/watch?v=e3OZxdPrrno)
-- [THE OPENING movement 8](https://www.youtube.com/watch?v=7-r0-SdrzCA)
-- [DONT LOOK BACK movement 9](https://www.youtube.com/watch?v=xJ3n3JTiZ20)
-- [EQUINOXE INFINITY movement 10](https://www.youtube.com/watch?v=kmGSVzi7W4A)
-- [Jean Michel Jarre - Flying Totems Movement II](https://www.youtube.com/watch?v=mULr-gnkHtg)
-- [Jean Michel Jarre - Equinoxe Infinity full album 2018](https://www.youtube.com/watch?v=MOdQSZPj1kk)
-- [Jean Michel Jarre - Equinoxe Infinity Full Album HQ](https://www.youtube.com/watch?v=LL1RawtMmb8)
-- [Jean Michel Jarre - The Watchers Movement I](https://www.youtube.com/watch?v=d_RsdauwljE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +64,5 @@ styles: ["Synth-pop"]
 | Format         | Vinyl LP Album (First Cover) |
 | Label          | Columbia |
 | Catalog Number | 19075876451 |
-| Notes | Pre-mastered with the new FiDef algorithm.  Made in the EU |
+| Notes | Pre-mastered with the new FiDef algorithm.<br><br>Made in the EU |
 | Discogs URL    | [Jean-Michel Jarre - Equinoxe Infinity](https://www.discogs.com/release/12805890-Jean-Michel-Jarre-Equinoxe-Infinity) |

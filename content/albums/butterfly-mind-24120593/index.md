@@ -4,6 +4,7 @@ artist_name: "Tim Bowness"
 artist: "tim-bowness"
 album_name: "Butterfly Mind"
 date: 2022-08-07T08:03:33.000000Z
+release_date: "2022-06-17"
 release_id: "24120593"
 slug: "butterfly-mind-24120593"
 hideSummary: true
@@ -28,41 +29,41 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Say Your Goodbyes Part 1 (2:22)
-2. Always The Stranger (2:50)
-3. It's Easier To Love (5:13)
-4. We Feel (4:53)
-5. Lost Player (3:13)
-6. Only A Fool (4:33)
-7. After The Stranger (1:15)
-8. Glitter Fades (4:50)
-9. About The Light That Hits The Forest Floor (3:49)
-10. Dark Nevada Dream (8:20)
-11. Say Your Goodbyes Part 2 (1:59)
-12. Say Your Goodbyes Part 1 (2:22)
-13. Always The Stranger (2:49)
-14. It's Easier To Love (5:12)
-15. We Feel (4:52)
-16. Lost Player (3:13)
-17. Only A Fool (4:32)
-18. After The Stranger (1:14)
-19. Glitter Fades (4:50)
-20. About The Light That Hits The Forest Floor (3:48)
-21. Dark Nevada Dream (8:20)
-22. Say Your Goodbyes Part 2 (1:59)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Say Your Goodbyes Part 1 | 2:22 |
+| A2 | Always The Stranger | 2:50 |
+| A3 | It's Easier To Love | 5:13 |
+| A4 | We Feel | 4:53 |
+| A5 | Lost Player | 3:13 |
+| A6 | Only A Fool | 4:33 |
+| B1 | After The Stranger | 1:15 |
+| B2 | Glitter Fades | 4:50 |
+| B3 | About The Light That Hits The Forest Floor | 3:49 |
+| B4 | Dark Nevada Dream | 8:20 |
+| B5 | Say Your Goodbyes Part 2 | 1:59 |
+| CD-1 | Say Your Goodbyes Part 1 | 2:22 |
+| CD-2 | Always The Stranger | 2:49 |
+| CD-3 | It's Easier To Love | 5:12 |
+| CD-4 | We Feel | 4:52 |
+| CD-5 | Lost Player | 3:13 |
+| CD-6 | Only A Fool | 4:32 |
+| CD-7 | After The Stranger | 1:14 |
+| CD-8 | Glitter Fades | 4:50 |
+| CD-9 | About The Light That Hits The Forest Floor | 3:48 |
+| CD-10 | Dark Nevada Dream | 8:20 |
+| CD-11 | Say Your Goodbyes Part 2 | 1:59 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/butterfly-mind/1613781394" >}}<br>
 
 
-## Videos
-### TIM BOWNESS - Dark Nevada Dream OFFICIAL VIDEO
-{{< youtube id="pWZ7ABPAa5I" title="TIM BOWNESS - Dark Nevada Dream OFFICIAL VIDEO" >}}<br>
-### More Videos
-
-- [TIM BOWNESS - Glitter Fades OFFICIAL VIDEO](https://www.youtube.com/watch?v=3cwUBwOOloE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +74,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Stereo (Green [Transparent], 180g), CD Album Stereo, All Media Limited Edition Numbered |
 | Label          | Inside Out Music |
 | Catalog Number | IOM633 |
-| Notes | Limited to 600 copies. Hand numbered on back of vinyl sleeve. This version exclusive to burningshed.com Pre-Orders from Burning Shed came with a signed postcard and fridge magnet.  Presented in a Die-cut sleeve. Track durations CD taken from dBpoweramp. The character “*” in the matrix runout of the LP represents a handwritten zigzag pattern symbol. |
+| Notes | Limited to 600 copies.<br>Hand numbered on back of vinyl sleeve.<br>This version exclusive to burningshed.com<br>Pre-Orders from Burning Shed came with a signed postcard and fridge magnet. <br>Presented in a Die-cut sleeve.<br>Track durations CD taken from dBpoweramp.<br>The character “*” in the matrix runout of the LP represents a handwritten zigzag pattern symbol. |
 | Discogs URL    | [Tim Bowness - Butterfly Mind](https://www.discogs.com/release/24120593-Tim-Bowness-Butterfly-Mind) |

@@ -40,39 +40,25 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 
 
 ## Tracklisting
-1. On The Air
-2. D.I.Y.
-3. Mother Of Violence
-4. A Wonderful Day In A One-Way-World
-5. White Shadow
-6. Indigo
-7. Animal Magic
-8. Exposure
-9. Flotsam And Jetsam
-10. Perspective
-11. Home Sweet Home
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | On The Air |  |
+| A2 | D.I.Y. |  |
+| A3 | Mother Of Violence |  |
+| A4 | A Wonderful Day In A One-Way-World |  |
+| A5 | White Shadow |  |
+| B1 | Indigo |  |
+| B2 | Animal Magic |  |
+| B3 | Exposure |  |
+| B4 | Flotsam And Jetsam |  |
+| B5 | Perspective |  |
+| B6 | Home Sweet Home |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-1-car-remastered/986695072" >}}<br>
 
 
-## Videos
-### On The Air
-{{< youtube id="jQ-M1UOECDI" title="On The Air" >}}<br>
-### More Videos
-
-- [DIY](https://www.youtube.com/watch?v=eVM8vyTX18s)
-- [Mother Of Violence](https://www.youtube.com/watch?v=hGJW5PpCSjI)
-- [A Wonderful Day In A One-Way World](https://www.youtube.com/watch?v=xydgLftj3M0)
-- [White Shadow](https://www.youtube.com/watch?v=tkgnLFAF_i8)
-- [Indigo](https://www.youtube.com/watch?v=HDlg1QlM5qM)
-- [Animal Magic](https://www.youtube.com/watch?v=PgAdxOJoEMk)
-- [Exposure](https://www.youtube.com/watch?v=8fajhGQM3DQ)
-- [Flotsam And Jetsam](https://www.youtube.com/watch?v=qF-XjcJxG9A)
-- [Perspective](https://www.youtube.com/watch?v=g74OaGwsTaU)
-- [Home Sweet Home](https://www.youtube.com/watch?v=5aCo5v_tKxY)
-- [Peter Gabriel 2  Scratch  1978  full album](https://www.youtube.com/watch?v=1-KqkYMAz6c)
-- [Peter Gabriel - On The Air Rockpalast TV performance 1978](https://www.youtube.com/watch?v=ZdLVIkMwtLs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +70,5 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 | Format         | Vinyl LP Album Reissue Remastered (180 gram) |
 | Label          | Real World Records |
 | Catalog Number | PGLPR2 |
-| Notes | Hype sticker: 33/13RPM Half-Speed Remaster  Includes Hi-Res Download Code  Runouts are stamped, except for 'PGLPR2 A[/B]1' and '=MATT @ ALCHEMY =', which are etched. |
+| Notes | Hype sticker:<br>33/13RPM Half-Speed Remaster <br>Includes Hi-Res Download Code<br><br>Runouts are stamped, except for 'PGLPR2 A[/B]1' and '=MATT @ ALCHEMY =', which are etched. |
 | Discogs URL    | [Peter Gabriel - Peter Gabriel](https://www.discogs.com/release/9477792-Peter-Gabriel-Peter-Gabriel) |

@@ -4,6 +4,7 @@ artist_name: "Chapterhouse"
 artist: "chapterhouse"
 album_name: "Mesmerise"
 date: 2016-12-07T17:40:35.000000Z
+release_date: ""
 release_id: "648372"
 slug: "mesmerise-648372"
 hideSummary: true
@@ -21,24 +22,23 @@ styles: ["Shoegaze", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Mesmerise
-2. Precious One
-3. Summer Chill
-4. Then We'll Rise
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mesmerise |  |
+| A2 | Precious One |  |
+| AA1 | Summer Chill |  |
+| AA2 | Then We'll Rise |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Chapterhouse - Precious One
-{{< youtube id="HW0JWRt0t1A" title="Chapterhouse - Precious One" >}}<br>
-### More Videos
 
-- [Chapterhouse Precious One](https://www.youtube.com/watch?v=ulC6MFx2mAM)
-- [Chapterhouse - Mesmerise Remix](https://www.youtube.com/watch?v=USVFDiAYveM)
-- [Chapterhouse - Precious One remix](https://www.youtube.com/watch?v=DwwaIT5K6mI)
-- [Chapterhouse - Mesmerise Video](https://www.youtube.com/watch?v=Ecm0BVOt62A)
 
 ## Release Images
 {{< imageGrid >}}
@@ -49,5 +49,5 @@ styles: ["Shoegaze", "Indie Rock"]
 | Format         | Vinyl 12" 45 RPM Single |
 | Label          | Dedicated |
 | Catalog Number | HOUSE 001T |
-| Notes | Made in England.  ℗ & © 1991 Dedicated.  All songs recorded in August 1991. Tracks A1 and A2 recorded at Gooseberry Studios, Tracks AA1 and AA2 recorded at Chapel Studios. |
+| Notes | Made in England.<br><br>℗ & © 1991 Dedicated.<br><br>All songs recorded in August 1991. Tracks A1 and A2 recorded at Gooseberry Studios, Tracks AA1 and AA2 recorded at Chapel Studios. |
 | Discogs URL    | [Chapterhouse - Mesmerise](https://www.discogs.com/release/648372-Chapterhouse-Mesmerise) |

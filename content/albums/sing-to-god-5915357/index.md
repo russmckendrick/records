@@ -4,6 +4,7 @@ artist_name: "Cardiacs"
 artist: "cardiacs"
 album_name: "Sing To God"
 date: 2016-03-03T18:17:05.000000Z
+release_date: "1995-01-01"
 release_id: "5915357"
 slug: "sing-to-god-5915357"
 hideSummary: true
@@ -29,53 +30,43 @@ Sing to God is the fourth studio album by English rock band Cardiacs. Their firs
 The album was released in June 1996 by the band's own record label Alphabet Business Concern, originally as a limited edition double-disc CD set, before being re-released as two separate albums. Three singles were released from the album; "Bellyeye", "Manhoo" and "Odd Even". Upon release the album was mostly overlooked, with the exception of some hostile reviews, reflecting the band's unpopularity with the music press at the time. However, over time it has gained a reputation as a masterpiece and the band's magnum opus. Sam Shepherd of MusicOMH said the album is "quite possibly one of the greatest albums ever made." The album was re-released in 2014 as a double LP set, the first time it had been released on vinyl.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Eden On The Air
-2. Eat It Up Worms Hero
-3. Dog-Like Sparky
-4. Fiery Gun Hand
-5. Insect Hoofs On Lassie
-6. Fairy Mary Mag
-7. Bellyeye
-8. A Horses Tail
-9. Manhoo
-10. Wireless
-11. (Peril On The Sea)
-12. Dirty Boy
-13. Billion
-14. Odd Even
-15. Bell Stinks
-16. Bell Clinks
-17. Flap Off You Beak
-18. Quiet As A Mouse
-19. Angleworm Angel
-20. Red Fire Coming Out Of His Gills
-21. No Gold
-22. Nurses Whispering Verses
-23. Foundling
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Eden On The Air |  |
+| A2 | Eat It Up Worms Hero |  |
+| A3 | Dog-Like Sparky |  |
+| A4 | Fiery Gun Hand |  |
+| A5 | Insect Hoofs On Lassie |  |
+| A6 | Fairy Mary Mag |  |
+| B1 | Bellyeye |  |
+| B2 | A Horses Tail |  |
+| B3 | Manhoo |  |
+| B4.a | Wireless |  |
+| B4.b | (Peril On The Sea) |  |
+| C1 | Dirty Boy |  |
+| C2 | Billion |  |
+| C3 | Odd Even |  |
+| C4 | Bell Stinks |  |
+| C5 | Bell Clinks |  |
+| C6 | Flap Off You Beak |  |
+| C7 | Quiet As A Mouse |  |
+| D1 | Angleworm Angel |  |
+| D2 | Red Fire Coming Out Of His Gills |  |
+| D3 | No Gold |  |
+| D4 | Nurses Whispering Verses |  |
+| D5 | Foundling |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sing-to-god/1551386162" >}}<br>
 
 
-## Videos
-### Cardiacs - Eat It Up Worms Hero
-{{< youtube id="hFHAwU2cXDw" title="Cardiacs - Eat It Up Worms Hero" >}}<br>
-### More Videos
-
-- [The Cardiacs - Dog Like Sparky](https://www.youtube.com/watch?v=a820Xo4XdB8)
-- [Cardiacs - Fiery Gun Hand](https://www.youtube.com/watch?v=ebDdbUacEao)
-- [Cardiacs - Insect Hoofs on Lassie](https://www.youtube.com/watch?v=Ka0boB28wUo)
-- [Bellyeye](https://www.youtube.com/watch?v=F-12zpwEHY0)
-- [TRIBUTE VIDEO TO TIM SMITH  CARDIACS   MANHOO from SING TO GOD](https://www.youtube.com/watch?v=rN5znaFXcVc)
-- [Cardiacs - Dirty Boy](https://www.youtube.com/watch?v=d-dd4fMUhAY)
-- [Billion](https://www.youtube.com/watch?v=chs6xkDJWq4)
-- [Cardiacs -  Nurses Whispering Verses Sing to god version](https://www.youtube.com/watch?v=tiVOEHIHuzU)
-- [Foundling](https://www.youtube.com/watch?v=t0qc3kVbACY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -87,5 +78,5 @@ The album was released in June 1996 by the band's own record label Alphabet Busi
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue |
 | Label          | The Alphabet Business Concern |
 | Catalog Number | ALPH DLP 022 |
-| Notes | Recorded between spring and winter 1995 at Apollo 8 Studios, Merritt Island and Sally Birthday House Studios somewhere.    Limited to 200 numbered copies.  Comes in a gatefold sleeve with picture inner sleeves and a download coupon.  Originally released in 1995 as [r=1545537] and [r=4021564] and the limited double album [r=1388690].    ℗&© Alphabet 1995 |
+| Notes | Recorded between spring and winter 1995 at Apollo 8 Studios, Merritt Island and Sally Birthday House Studios somewhere.<br><br>Limited to 200 numbered copies.<br>Comes in a gatefold sleeve with picture inner sleeves and a download coupon.<br>Originally released in 1995 as [r=1545537] and [r=4021564] and the limited double album [r=1388690].<br><br>℗&© Alphabet 1995 |
 | Discogs URL    | [Cardiacs - Sing To God](https://www.discogs.com/release/5915357-Cardiacs-Sing-To-God) |

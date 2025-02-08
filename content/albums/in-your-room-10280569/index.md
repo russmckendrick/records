@@ -4,6 +4,7 @@ artist_name: "Anneke van Giersbergen"
 artist: "anneke-van-giersbergen"
 album_name: "In Your Room"
 date: 2017-05-25T18:38:01.000000Z
+release_date: "2009-10-30"
 release_id: "10280569"
 slug: "in-your-room-10280569"
 hideSummary: true
@@ -21,39 +22,31 @@ styles: ["Pop Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Pearly (3:32)
-2. Hey Okay! (2:34)
-3. I Want (3:14)
-4. Wonder (3:06)
-5. The World (3:52)
-6. Sunny Side Up (2:46)
-7. Physical (3:47)
-8. Home Again (4:37)
-9. Wide Open (3:15)
-10. Longest Day (4:11)
-11. Just Fine (3:27)
-12. Adore (3:57)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Pearly | 3:32 |
+| A2 | Hey Okay! | 2:34 |
+| A3 | I Want | 3:14 |
+| A4 | Wonder | 3:06 |
+| A5 | The World | 3:52 |
+| A6 | Sunny Side Up | 2:46 |
+| B1 | Physical | 3:47 |
+| B2 | Home Again | 4:37 |
+| B3 | Wide Open | 3:15 |
+| B4 | Longest Day | 4:11 |
+| B5 | Just Fine | 3:27 |
+| B6 | Adore | 3:57 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-your-room/1769679211" >}}<br>
 
 
-## Videos
-### Anneke van Giersbergen  Agua de Annique - Wonder official music video
-{{< youtube id="hKLJolIZ6Pg" title="Anneke van Giersbergen  Agua de Annique - Wonder official music video" >}}<br>
-### More Videos
-
-- [Anneke van Giersbergen  Agua de Annique - Hey Okay](https://www.youtube.com/watch?v=telPDj1VQjQ)
-- [Anneke van Giersbergen  Agua de Annique - The World](https://www.youtube.com/watch?v=lj_R0IZMu0I)
-- [Anneke van Giersbergen - In your room](https://www.youtube.com/watch?v=pbho9mqrNIQ)
-- [Anneke Van Giersbergen  Agua de Annique - Just Fine](https://www.youtube.com/watch?v=RYJvj_X12rk)
-- [Anneke van Giersbergen  Agua de Annique - Wonder official music video](https://www.youtube.com/watch?v=hKLJolIZ6Pg)
-- [Anneke van Giersbergen  Agua de Annique - Hey Okay](https://www.youtube.com/watch?v=telPDj1VQjQ)
-- [Anneke van Giersbergen  Agua de Annique - The World](https://www.youtube.com/watch?v=lj_R0IZMu0I)
-- [Anneke van Giersbergen - In your room](https://www.youtube.com/watch?v=pbho9mqrNIQ)
-- [Anneke Van Giersbergen  Agua de Annique - Just Fine](https://www.youtube.com/watch?v=RYJvj_X12rk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +57,5 @@ styles: ["Pop Rock"]
 | Format         | Vinyl LP Album Limited Edition Numbered (White) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1876 |
-| Notes | Limited to 1,000 copies worldwide. Numbered on rear sleeve in silver. |
+| Notes | Limited to 1,000 copies worldwide.<br>Numbered on rear sleeve in silver. |
 | Discogs URL    | [Anneke van Giersbergen - In Your Room](https://www.discogs.com/release/10280569-Anneke-van-Giersbergen-Agua-De-Annique-In-Your-Room) |

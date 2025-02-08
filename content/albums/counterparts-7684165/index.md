@@ -4,6 +4,7 @@ artist_name: "Rush"
 artist: "rush"
 album_name: "Counterparts"
 date: 2017-02-28T18:43:59.000000Z
+release_date: "1993-10-19"
 release_id: "7684165"
 slug: "counterparts-7684165"
 hideSummary: true
@@ -33,26 +34,29 @@ Counterparts is the fifteenth studio album by Canadian rock band Rush, released 
 Counterparts reached No. 2 in the United States, one of the band's two highest-charting albums in the country, and No. 6 in Canada. The first single, "Stick It Out", was No. 1 on the Billboard Album Rock Tracks chart for four weeks. In 1994, the instrumental "Leave That Thing Alone" was nominated for a Grammy Award for Best Rock Instrumental Performance. Counterparts was remastered in 2004 and reissued in 2013 as part of The Studio Albums 1989–2007 box set. In 2015 it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Animate (6:05)
-2. Stick It Out (4:30)
-3. Cut To The Chase (4:49)
-4. Nobody's Hero (4:54)
-5. Between Sun & Moon (4:37)
-6. Alien Shore (5:45)
-7. The Speed Of Love (5:03)
-8. Double Agent (4:51)
-9. Leave That Thing Alone (4:06)
-10. Cold Fire (4:27)
-11. Everyday Glory (5:10)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Animate | 6:05 |
+| A2 | Stick It Out | 4:30 |
+| A3 | Cut To The Chase | 4:49 |
+| A4 | Nobody's Hero | 4:54 |
+| B1 | Between Sun & Moon | 4:37 |
+| B2 | Alien Shore | 5:45 |
+| B3 | The Speed Of Love | 5:03 |
+| C1 | Double Agent | 4:51 |
+| C2 | Leave That Thing Alone | 4:06 |
+| C3 | Cold Fire | 4:27 |
+| C4 | Everyday Glory | 5:10 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/counterparts-remastered/642211626" >}}<br>
-
 
 
 
@@ -66,5 +70,5 @@ Counterparts reached No. 2 in the United States, one of the band's two highest-c
 | Format         | Vinyl LP (200g), Vinyl LP Single Sided Etched (200g), All Media Album Reissue Remastered Special Edition |
 | Label          | Atlantic |
 | Catalog Number | R1 82528 |
-| Notes | Includes High Quality Download Code Etched D Side 2 LP in a single sleeve jacket  |
+| Notes | Includes High Quality Download Code<br>Etched D Side<br>2 LP in a single sleeve jacket<br> |
 | Discogs URL    | [Rush - Counterparts](https://www.discogs.com/release/7684165-Rush-Counterparts) |

@@ -32,26 +32,25 @@ Largely written by a soon-to-exit Vince Clarke, the Basildon synth band’s debu
 
 
 ## Tracklisting
-1. New Life (3:45)
-2. I Sometimes Wish I Was Dead (2:18)
-3. Puppets (3:54)
-4. Boys Say Go! (3:05)
-5. Nodisco (4:17)
-6. What's Your Name? (2:43)
-7. Photographic (4:53)
-8. Tora! Tora! Tora! (4:25)
-9. Big Muff (4:28)
-10. Any Second Now (Voices) (2:37)
-11. Just Can't Get Enough (3:42)
-12. Dreaming Of Me (4:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | New Life | 3:45 |
+| A2 | I Sometimes Wish I Was Dead | 2:18 |
+| A3 | Puppets | 3:54 |
+| A4 | Boys Say Go! | 3:05 |
+| A5 | Nodisco | 4:17 |
+| A6 | What's Your Name? | 2:43 |
+| B1 | Photographic | 4:53 |
+| B2 | Tora! Tora! Tora! | 4:25 |
+| B3 | Big Muff | 4:28 |
+| B4 | Any Second Now (Voices) | 2:37 |
+| B5 | Just Can't Get Enough | 3:42 |
+| B6 | Dreaming Of Me | 4:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/speak-spell/665396776" >}}<br>
 
-
-## Videos
-### Depeche Mode - Speak And Spell full album
-{{< youtube id="m1A9USD8NJk" title="Depeche Mode - Speak And Spell full album" >}}<br>
 
 
 ## Release Images
@@ -63,5 +62,5 @@ Largely written by a soon-to-exit Vince Clarke, the Basildon synth band’s debu
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 Gram) |
 | Label          | Mute |
 | Catalog Number | STUMM5 |
-| Notes | Contains 12"x12" inner sleeve replica insert (from 2007 remaster).   Recorded at Blackwing Studios, London in 1981. All tracks (...) published by Musical Moments Ltd. / Sony Music Publishing. Except Tora! Tora! Tora! and Big Muff (...) published by EMI Music Publishing Ltd., assigned by Grabbing Hands Music Ltd. Remastered (...) at Super Audio Mastering. Cut (...) at The Exchange. Management (...) for Baron Inc. Depeche Mode office (...), Venusnote Ltd.  ℗ 1981 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. / © 1981, 2007, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. / Distributed by Sony Music Entertainment / (...) Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. |
+| Notes | Contains 12"x12" inner sleeve replica insert (from 2007 remaster). <br><br>Recorded at Blackwing Studios, London in 1981.<br>All tracks (...) published by Musical Moments Ltd. / Sony Music Publishing. Except Tora! Tora! Tora! and Big Muff (...) published by EMI Music Publishing Ltd., assigned by Grabbing Hands Music Ltd.<br>Remastered (...) at Super Audio Mastering. Cut (...) at The Exchange.<br>Management (...) for Baron Inc. Depeche Mode office (...), Venusnote Ltd.<br><br>℗ 1981 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. / © 1981, 2007, 2016 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. / Distributed by Sony Music Entertainment / (...) Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. |
 | Discogs URL    | [Depeche Mode - Speak & Spell](https://www.discogs.com/release/8953011-Depeche-Mode-Speak-Spell) |

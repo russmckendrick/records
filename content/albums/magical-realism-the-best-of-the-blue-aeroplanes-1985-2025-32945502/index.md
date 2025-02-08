@@ -4,6 +4,7 @@ artist_name: "The Blue Aeroplanes"
 artist: "the-blue-aeroplanes"
 album_name: "Magical Realism: The Best Of The Blue Aeroplanes 1985-2025"
 date: 2025-01-25T06:50:25.000000Z
+release_date: ""
 release_id: "32945502"
 slug: "magical-realism-the-best-of-the-blue-aeroplanes-1985-2025-32945502"
 hideSummary: true
@@ -32,35 +33,42 @@ styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Action Painting
-2. Tolerance (Single Version)
-3. Spitting Out Miracles
-4. Season Ticket To A Bad Place
-5. Bury Your Love Like Treasure
-6. Severn Beach
-7. Jacket Hangs
-8. …And Stones (Single Edit)
-9. Yr Own World (12” Single Version)
-10. Fun
-11. Colour Me (Alternate Mix)
-12. Broken And Mended
-13. Whatever Happened To Our Golden Birds?
-14. Missy Lane
-15. Warhol’s Fifteen (Live)
-16. Cavaliers Pt 2
-17. Beautiful Is (As Beautiful Does)
-18.  Camus In Pocket
-19. Up In A Down World
-20. Sulpher
-21. Elvis Festival
-22. Dead Tree! Dead Tree! 
-23. Building An Ark For The Anthropocene (Single Edit)
-24. Showing Off To Impress The Girls
-25. I Will Love You (Demo)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Action Painting |  |
+| A2 | Tolerance (Single Version) |  |
+| A3 | Spitting Out Miracles |  |
+| A4 | Season Ticket To A Bad Place |  |
+| A5 | Bury Your Love Like Treasure |  |
+| A6 | Severn Beach |  |
+| B1 | Jacket Hangs |  |
+| B2 | …And Stones (Single Edit) |  |
+| B3 | Yr Own World (12” Single Version) |  |
+| B4 | Fun |  |
+| B5 | Colour Me (Alternate Mix) |  |
+| C1 | Broken And Mended |  |
+| C2 | Whatever Happened To Our Golden Birds? |  |
+| C3 | Missy Lane |  |
+| C4 | Warhol’s Fifteen (Live) |  |
+| C5 | Cavaliers Pt 2 |  |
+| C6 | Beautiful Is (As Beautiful Does) |  |
+| C7 |  Camus In Pocket |  |
+| D1 | Up In A Down World |  |
+| D2 | Sulpher |  |
+| D3 | Elvis Festival |  |
+| D4 | Dead Tree! Dead Tree!  |  |
+| D5 | Building An Ark For The Anthropocene (Single Edit) |  |
+| E1 | Showing Off To Impress The Girls |  |
+| F2 | I Will Love You (Demo) |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -73,5 +81,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl 2× LP Compilation, Vinyl 7" 45 RPM |
 | Label          | Chrysalis |
 | Catalog Number | CRV1713 |
-| Notes | Double 140g vinyl plus a bonus 7". Lyric sheet insert & new sleeve notes by Gerard Langley.  ℗ & © 2025 Chrysalis Records Limited. Made In Scotland. |
+| Notes | Double 140g vinyl plus a bonus 7".<br>Lyric sheet insert & new sleeve notes by Gerard Langley.<br><br>℗ & © 2025 Chrysalis Records Limited. Made In Scotland. |
 | Discogs URL    | [The Blue Aeroplanes - Magical Realism: The Best Of The Blue Aeroplanes 1985-2025](https://www.discogs.com/release/32945502-The-Blue-Aeroplanes-Magical-Realism-The-Best-Of-The-Blue-Aeroplanes-1985-2025) |

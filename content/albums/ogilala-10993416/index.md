@@ -4,6 +4,7 @@ artist_name: "WPC"
 artist: "wpc"
 album_name: "Ogilala"
 date: 2017-10-14T10:09:07.000000Z
+release_date: ""
 release_id: "10993416"
 slug: "ogilala-10993416"
 hideSummary: true
@@ -26,35 +27,31 @@ Ogilala () is the second solo album by American musician Billy Corgan (under his
 The album's songs are primarily acoustic and are predominantly performed on acoustic guitar, piano and strings, contrasting with much of Corgan's other work, as well as his debut solo album. The song "Processional" marked the first time since the Smashing Pumpkins' initial break-up in 2000 that Corgan had collaborated with the band's founding guitarist James Iha.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Zowie
-2. Processional
-3. The Spaniards
-4. Aeronaut
-5. The Long Goodbye
-6. Half-Life Of An Autodidact
-7. Amarinthe
-8. Antietam
-9. Mandarynne
-10. Shiloh
-11. Archer
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Zowie |  |
+| A2 | Processional |  |
+| A3 | The Spaniards |  |
+| A4 | Aeronaut |  |
+| A5 | The Long Goodbye |  |
+| A6 | Half-Life Of An Autodidact |  |
+| B1 | Amarinthe |  |
+| B2 | Antietam |  |
+| B3 | Mandarynne |  |
+| B4 | Shiloh |  |
+| B5 | Archer |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### William Patrick Corgan - Aeronaut
-{{< youtube id="7PdZXNET88A" title="William Patrick Corgan - Aeronaut" >}}<br>
-### More Videos
 
-- [William Patrick Corgan - The Spaniards](https://www.youtube.com/watch?v=e1ZnYLBKs-o)
-- [PILLBOX - Official Trailer 2017](https://www.youtube.com/watch?v=ULv4EwpJlb8)
-- [William Patrick Corgan - Aeronaut](https://www.youtube.com/watch?v=7PdZXNET88A)
-- [William Patrick Corgan - The Spaniards](https://www.youtube.com/watch?v=e1ZnYLBKs-o)
-- [PILLBOX - Official Trailer 2017](https://www.youtube.com/watch?v=ULv4EwpJlb8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +63,5 @@ The album's songs are primarily acoustic and are predominantly performed on acou
 | Format         | Vinyl LP Album Limited Edition (Pink) |
 | Label          | BMG |
 | Catalog Number | 538321031 |
-| Notes | Issued in gatefold sleeve.  Indie exclusive, limited to 1,000 copies worldwide.  Mixed at Rainbow Studio, Oslo, Norway except B5 mixed at Shangri La Studios, Malibu, CA  Includes download card.  On back cover : Made in USA. |
+| Notes | Issued in gatefold sleeve.<br><br>Indie exclusive, limited to 1,000 copies worldwide.<br><br>Mixed at Rainbow Studio, Oslo, Norway except B5 mixed at Shangri La Studios, Malibu, CA<br><br>Includes download card.<br><br>On back cover :<br>Made in USA. |
 | Discogs URL    | [WPC - Ogilala](https://www.discogs.com/release/10993416-WPC-Ogilala) |

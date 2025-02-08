@@ -4,6 +4,7 @@ artist_name: "Laura Veirs"
 artist: "laura-veirs"
 album_name: "Found Light"
 date: 2023-05-21T05:56:10.000000Z
+release_date: "2022-07-08"
 release_id: "23601251"
 slug: "found-light-23601251"
 hideSummary: true
@@ -25,53 +26,34 @@ styles: ["Indie Rock"]
 Found Light is a 2022 studio album by American singer-songwriter Laura Veirs. This is the first album without long-time producer Tucker Martine and also the first where Veirs recorded her guitar and vocals simultaneously. It has received positive critical reception.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Autumn Song
-2. Ring Song
-3. Seaside Haiku
-4. Naked Hymn
-5. My Lantern
-6. Signal
-7. Can't Help But Sing
-8. Eucalyptus
-9. New Arms
-10. Sword Song
-11. Time Will Show You
-12. T & O
-13. Komorebi
-14. Winter Windows
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Autumn Song |  |
+| A2 | Ring Song |  |
+| A3 | Seaside Haiku |  |
+| A4 | Naked Hymn |  |
+| A5 | My Lantern |  |
+| A6 | Signal |  |
+| A7 | Can't Help But Sing |  |
+| B1 | Eucalyptus |  |
+| B2 | New Arms |  |
+| B3 | Sword Song |  |
+| B4 | Time Will Show You |  |
+| B5 | T & O |  |
+| B6 | Komorebi |  |
+| B7 | Winter Windows |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/found-light/1608911975" >}}<br>
 
 
-## Videos
-### Autumn Song
-{{< youtube id="6WLhRk6Tuag" title="Autumn Song" >}}<br>
-### More Videos
-
-- [Ring Song](https://www.youtube.com/watch?v=mhb2MYDCjHQ)
-- [Seaside Haiku Official Music Video](https://www.youtube.com/watch?v=AScXl70VTco)
-- [My Lantern](https://www.youtube.com/watch?v=SwnKz-9cXLA)
-- [Signal](https://www.youtube.com/watch?v=wYuIzSColno)
-- [Naked Hymn](https://www.youtube.com/watch?v=FgMkPOF0XWg)
-- [Winter Windows official music video](https://www.youtube.com/watch?v=3cpp781sku0)
-- [Cant Help But Sing](https://www.youtube.com/watch?v=l6X15KpV2Uk)
-- [Eucalyptus Official Audio](https://www.youtube.com/watch?v=xglwcIWWIxI)
-- [New Arms](https://www.youtube.com/watch?v=hZrPkh2vJGs)
-- [Sword Song](https://www.youtube.com/watch?v=1SWF6ZGI6a4)
-- [Time Will Show You](https://www.youtube.com/watch?v=kzIMTa397xw)
-- [T  O](https://www.youtube.com/watch?v=MZPHyaEw8xs)
-- [Komorebi](https://www.youtube.com/watch?v=xGbVUwt6hE4)
-- [Autumn Song Demo Version](https://www.youtube.com/watch?v=d1zVIixCUaE)
-- [Seaside Haiku Demo Version](https://www.youtube.com/watch?v=LXyTNDpFM0g)
-- [Signal Demo Version](https://www.youtube.com/watch?v=uoPpaMLlRdo)
-- [New Arms Demo Version - Official Audio](https://www.youtube.com/watch?v=EZWpANMb2D8)
-- [Winter Windows Demo Version](https://www.youtube.com/watch?v=tlFGjxU06EU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +65,5 @@ Found Light is a 2022 studio album by American singer-songwriter Laura Veirs. Th
 | Format         | Vinyl LP Album Limited Edition (Pink Galaxy) |
 | Label          | Bella Union |
 | Catalog Number | BELLA1299V |
-| Notes | MADE IN CZECH REPUBLIC clear sticker on rear shrink wrap. BELLA 1299V on spine. Promo sticker on front shrink wrap. Includes insert with credits one side and art print on the other. Plain white paper inner sleeve with cutout. |
+| Notes | MADE IN CZECH REPUBLIC clear sticker on rear shrink wrap.<br>BELLA 1299V on spine.<br>Promo sticker on front shrink wrap.<br>Includes insert with credits one side and art print on the other.<br>Plain white paper inner sleeve with cutout. |
 | Discogs URL    | [Laura Veirs - Found Light](https://www.discogs.com/release/23601251-Laura-Veirs-Found-Light) |

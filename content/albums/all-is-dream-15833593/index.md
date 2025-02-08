@@ -4,6 +4,7 @@ artist_name: "Mercury Rev"
 artist: "mercury-rev"
 album_name: "All Is Dream"
 date: 2020-08-29T17:18:15.000000Z
+release_date: "2001-08-27"
 release_id: "15833593"
 slug: "all-is-dream-15833593"
 hideSummary: true
@@ -28,56 +29,46 @@ styles: ["Alternative Rock"]
 All Is Dream is the fifth studio album by American rock band Mercury Rev. It was released in the United Kingdom on August 27, 2001, in France on August 28, 2001, and in the United States on September 11, 2001. The album's front cover features half of the 1991 painting Breakthrough Dreaming by artist and mystic Jennifer Hathaway.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Dark Is Rising
-2. Tides Of The Moon
-3. Chains
-4. Lincoln's Eyes
-5. Nite And Fog
-6. Little Rhymes
-7. A Drop In Time
-8. You're My Queen
-9. Spiders And Flies
-10. Hercules
-11. Planet Caravan
-12. Streets Of Laredo
-13. I Keep A Close Watch
-14. Nocturne In C# Minor, Opus 27, No. 1
-15. Blue Skies
-16. Mascara Tears
-17. Lucy In The Sky With Diamonds
-18. The Brook Room
-19. Silver And Gold
-20. A Drop In Time (Demo)
-21. Where Mountains Start To Rise
-22. Back Into The Sun (You're The One)
-23. A Quick One At Artie's 44
-24. Mr. Moonlight Will Come
-25. Cool Waves
-26. Hercules (Demo)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Dark Is Rising |  |
+| A2 | Tides Of The Moon |  |
+| A3 | Chains |  |
+| A4 | Lincoln's Eyes |  |
+| A5 | Nite And Fog |  |
+| B1 | Little Rhymes |  |
+| B2 | A Drop In Time |  |
+| B3 | You're My Queen |  |
+| B4 | Spiders And Flies |  |
+| B5 | Hercules |  |
+| C1 | Planet Caravan |  |
+| C2 | Streets Of Laredo |  |
+| C3 | I Keep A Close Watch |  |
+| C4 | Nocturne In C# Minor, Opus 27, No. 1 |  |
+| C5 | Blue Skies |  |
+| C6 | Mascara Tears |  |
+| C7 | Lucy In The Sky With Diamonds |  |
+| D1 | The Brook Room |  |
+| D2 | Silver And Gold |  |
+| D3 | A Drop In Time (Demo) |  |
+| D4 | Where Mountains Start To Rise |  |
+| D5 | Back Into The Sun (You're The One) |  |
+| D6 | A Quick One At Artie's 44 |  |
+| D7 | Mr. Moonlight Will Come |  |
+| D8 | Cool Waves |  |
+| D9 | Hercules (Demo) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-is-dream/1601008224" >}}<br>
 
 
-## Videos
-### The Dark Is Rising
-{{< youtube id="HmE0kkqkutE" title="The Dark Is Rising" >}}<br>
-### More Videos
-
-- [Tides Of The Moon](https://www.youtube.com/watch?v=6hnYMjTKZVA)
-- [Chains](https://www.youtube.com/watch?v=J8urkUCH79s)
-- [Lincolns Eyes](https://www.youtube.com/watch?v=4cXTFM-1ol8)
-- [Nite And Fog](https://www.youtube.com/watch?v=W9I6vukZdG4)
-- [Little Rhymes](https://www.youtube.com/watch?v=A331aSeC9Ww)
-- [A Drop In Time](https://www.youtube.com/watch?v=Mj_QIKMfbjw)
-- [Youre My Queen](https://www.youtube.com/watch?v=kf3jOmMvBBU)
-- [Spiders And Flies](https://www.youtube.com/watch?v=KPSxvBGAX_I)
-- [Hercules](https://www.youtube.com/watch?v=I7-UD3J8Sg4)
 
 ## Release Images
 {{< imageGrid >}}

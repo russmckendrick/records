@@ -40,42 +40,28 @@ Yet the LP never feels overstuffed. There’s an abiding elegance to sounds like
 
 
 ## Tracklisting
-1. Hounds Of Love
-2. Running Up That Hill (A Deal With God)
-3. Hounds Of Love
-4. The Big Sky (7" Mix)
-5. Mother Stands For Comfort
-6. Cloudbusting
-7. The Ninth Wave
-8. And Dream Of Sheep
-9. Under Ice
-10. Waking The Witch
-11. Watching You Without Me
-12. Jig Of Life
-13. Hello Earth
-14. The Morning Fog
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Hounds Of Love |  |
+| A1 | Running Up That Hill (A Deal With God) |  |
+| A2 | Hounds Of Love |  |
+| A3 | The Big Sky (7" Mix) |  |
+| A4 | Mother Stands For Comfort |  |
+| A5 | Cloudbusting |  |
+|  | The Ninth Wave |  |
+| B1 | And Dream Of Sheep |  |
+| B2 | Under Ice |  |
+| B3 | Waking The Witch |  |
+| B4 | Watching You Without Me |  |
+| B5 | Jig Of Life |  |
+| B6 | Hello Earth |  |
+| B7 | The Morning Fog |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hounds-of-love/1675375084" >}}<br>
 
 
-## Videos
-### Running Up That Hill A Deal With God 2018 Remaster
-{{< youtube id="HYwNM1t9ltI" title="Running Up That Hill A Deal With God 2018 Remaster" >}}<br>
-### More Videos
-
-- [Kate Bush - Running Up That Hill - Official Music Video](https://www.youtube.com/watch?v=wp43OdtAAkM)
-- [Kate Bush - Hounds of Love](https://www.youtube.com/watch?v=GOlkRP6zNlY)
-- [Kate Bush - Hounds Of Love 2018 Remastered 1985 Full Album](https://www.youtube.com/watch?v=Q9ky4ODa6Pc)
-- [Kate Bush The Big Sky](https://www.youtube.com/watch?v=QaDUFC8nigM)
-- [Mother Stands For Comfort](https://www.youtube.com/watch?v=L4moGj1b-0g)
-- [And Dream Of Sheep](https://www.youtube.com/watch?v=_8UUVcGskEw)
-- [Under Ice](https://www.youtube.com/watch?v=rSVGdE7sJaM)
-- [Waking The Witch](https://www.youtube.com/watch?v=ZlZmpe-svno)
-- [Watching You Without Me](https://www.youtube.com/watch?v=SI5_xqBVr-s)
-- [Jig Of Life](https://www.youtube.com/watch?v=ntIlVNDpLW8)
-- [Hello Earth](https://www.youtube.com/watch?v=U7QCtPZ3pTg)
-- [The Morning Fog](https://www.youtube.com/watch?v=CZQk2ZgZP3I)
 
 ## Release Images
 {{< imageGrid >}}
@@ -87,5 +73,5 @@ Yet the LP never feels overstuffed. There’s an abiding elegance to sounds like
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Repress (Coloured) |
 | Label          | Fish People |
 | Catalog Number | 0190296729041 |
-| Notes | No. 4 in HMV's exclusive run of classic albums on coloured vinyl to celebrate their 100th anniversary. Released in a matte full picture sleeve with exclusive obi, lyrics inner sleeve (also matte).  Each album is unique in that they are pressed with recycled vinyl of various colours. 1500 copies pressed. Applied to the shrink-wrap may be one or more merchant retailing stickers. Additionally, there is a white circular hype sticker which has the text in the same font as the sleeve.  The new barcode and catalogue number are printed on the silver card Obi strip.  Made in the E.U. Labels: ℗ 1985 except The Big Sky 1986. © 1985 Noble & Brite Ltd. Sleeve: ℗ & © 2018 Noble & Brite Ltd. |
+| Notes | No. 4 in HMV's exclusive run of classic albums on coloured vinyl to celebrate their 100th anniversary. Released in a matte full picture sleeve with exclusive obi, lyrics inner sleeve (also matte).<br><br>Each album is unique in that they are pressed with recycled vinyl of various colours. 1500 copies pressed.<br>Applied to the shrink-wrap may be one or more merchant retailing stickers. Additionally, there is a white circular hype sticker which has the text in the same font as the sleeve.<br><br>The new barcode and catalogue number are printed on the silver card Obi strip.<br><br>Made in the E.U.<br>Labels: ℗ 1985 except The Big Sky 1986. © 1985 Noble & Brite Ltd.<br>Sleeve: ℗ & © 2018 Noble & Brite Ltd. |
 | Discogs URL    | [Kate Bush - Hounds Of Love](https://www.discogs.com/release/19605145-Kate-Bush-Hounds-Of-Love) |

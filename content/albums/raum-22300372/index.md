@@ -4,6 +4,7 @@ artist_name: "Tangerine Dream"
 artist: "tangerine-dream"
 album_name: "Raum"
 date: 2022-02-28T12:27:43.000000Z
+release_date: "2022-02-25"
 release_id: "22300372"
 slug: "raum-22300372"
 hideSummary: true
@@ -31,33 +32,27 @@ styles: ["Berlin-School"]
 ---
 
 Raum is a studio album by Tangerine Dream, released on Kscope on 25 February 2022. It is the group's second studio album since the death of founding member Edgar Froese in 2015. It was created by Thorsten Quaeschning, Hoshiko Yamane, and Paul Frick, using Froese's archives from 1977 to 2013, with access to his Cubase arrangements and tape recordings. It topped the UK Dance Albums Chart.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. In 256 Zeichen (19:10)
-2. You're Always On Time (8:08)
-3. Along The Canal (5:29)
-4. Continuum (7:08)
-5. Portico (6:44)
-6. What You Should Know About Endings (6:55)
-7. Raum (14:54)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | In 256 Zeichen | 19:10 |
+| B1 | You're Always On Time | 8:08 |
+| B2 | Along The Canal | 5:29 |
+| C1 | Continuum | 7:08 |
+| C2 | Portico | 6:44 |
+| C3 | What You Should Know About Endings | 6:55 |
+| D | Raum | 14:54 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/raum/1599337918" >}}<br>
 
 
-## Videos
-### Tangerine Dream  Raum  Full Album  2022
-{{< youtube id="O8BOIDRjfyg" title="Tangerine Dream  Raum  Full Album  2022" >}}<br>
-### More Videos
-
-- [Tangerine Dream - Raum Full Album HQ](https://www.youtube.com/watch?v=-McfWNwGsc4)
-- [Raum](https://www.youtube.com/watch?v=RM5aeRkVf4I)
-- [Tangerine Dream - Raum Single Edit Official Music Video](https://www.youtube.com/watch?v=7vpChxxgB9Y)
-- [Tangerine Dream - Youre Always On Time Edit Official Music Video](https://www.youtube.com/watch?v=MM2xZZuJvpg)
-- [Raum Single Edit](https://www.youtube.com/watch?v=1gxYWZ8Nc4A)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +64,5 @@ Raum is a studio album by Tangerine Dream, released on Kscope on 25 February 202
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1019 |
-| Notes | Release issued in gatefold sleeve with printed inner sleeves.   Notes from black-orange hype sticker: "THE NEW STUDIO ALBUM - 2LP SET The band's second studio album since the passing of Edgar Froese in 2015.  With deep respect for the sound of the previous five decades, this record continues in the ever evolving pathway of Tangerine Dream. KSCOPE1019"  ℗ 2022 eastgate music & arts © 2022 eastgate music & arts  All Runouts are etched. |
+| Notes | Release issued in gatefold sleeve with printed inner sleeves. <br><br>Notes from black-orange hype sticker:<br>"THE NEW STUDIO ALBUM - 2LP SET<br>The band's second studio album since the passing of Edgar Froese in 2015. <br>With deep respect for the sound of the previous five decades, this record continues in the ever evolving pathway of Tangerine Dream.<br>KSCOPE1019"<br><br>℗ 2022 eastgate music & arts<br>© 2022 eastgate music & arts<br><br>All Runouts are etched. |
 | Discogs URL    | [Tangerine Dream - Raum](https://www.discogs.com/release/22300372-Tangerine-Dream-Raum) |

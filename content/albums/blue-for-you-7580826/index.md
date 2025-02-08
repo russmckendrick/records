@@ -4,6 +4,7 @@ artist_name: "Status Quo"
 artist: "status-quo"
 album_name: "Blue For You"
 date: 2016-05-23T18:27:31.000000Z
+release_date: "1976-03"
 release_id: "7580826"
 slug: "blue-for-you-7580826"
 hideSummary: true
@@ -30,32 +31,29 @@ An edited version of Parfitt and Young's "Mystery Song", released in July that y
 In December that year the band decided to release a cover of "Wild Side of Life", a song made famous by Hank Thompson and His Brazos Valley Boys, and written by Arlie Carter and William Warren, as a non-album single. Its B-side was a new Rossi/Lancaster composition, "All Through the Night". The single reached number 9 in the UK.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Is There A Better Way
-2. Mad About The Boy
-3. Ring Of A Change
-4. Blue For You
-5. Rain
-6. Rolling Home
-7. That's A Fact
-8. Ease Your Mind
-9. Mystery Song
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Is There A Better Way |  |
+| A2 | Mad About The Boy |  |
+| A3 | Ring Of A Change |  |
+| A4 | Blue For You |  |
+| A5 | Rain |  |
+| B1 | Rolling Home |  |
+| B2 | That's A Fact |  |
+| B3 | Ease Your Mind |  |
+| B4 | Mystery Song |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blue-for-you/1444058292" >}}<br>
 
 
-## Videos
-### STATUS QUO - BLUE FOR YOU
-{{< youtube id="26LIy1dqtzM" title="STATUS QUO - BLUE FOR YOU" >}}<br>
-### More Videos
-
-- [Status Quo--Blue For You 1976 Full Album HQ](https://www.youtube.com/watch?v=9aPb4N7EPWk)
-- [Status Quo - Rain](https://www.youtube.com/watch?v=Z_mHSGlyRa0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +65,5 @@ In December that year the band decided to release a cover of "Wild Side of Life"
 | Format         | Vinyl LP Album Reissue (180gr) |
 | Label          | Vertigo |
 | Catalog Number | 4723766 |
-| Notes | Gatefold sleeve.  Comes with printed inner sleeve and a poster. 180 gram Vinyl.  © 1976 Mercury Records Limited/Universal Music Catalogue ℗ 1976 Mercury Records Limited |
+| Notes | Gatefold sleeve. <br>Comes with printed inner sleeve and a poster. 180 gram Vinyl.<br><br>© 1976 Mercury Records Limited/Universal Music Catalogue<br>℗ 1976 Mercury Records Limited |
 | Discogs URL    | [Status Quo - Blue For You](https://www.discogs.com/release/7580826-Status-Quo-Blue-For-You) |

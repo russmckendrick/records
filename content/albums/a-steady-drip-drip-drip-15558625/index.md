@@ -4,6 +4,7 @@ artist_name: "Sparks"
 artist: "sparks"
 album_name: "A Steady Drip, Drip, Drip"
 date: 2020-07-05T11:38:50.000000Z
+release_date: "2020-05-15"
 release_id: "15558625"
 slug: "a-steady-drip-drip-drip-15558625"
 hideSummary: true
@@ -36,40 +37,34 @@ The album's digital release on May 15, 2020 through BMG Rights Management entere
 The release of the physical formats was delayed because of the COVID-19 pandemic and only followed on July 3, 2020. Accompanied by the YouTube premiere of a Cyriak Harris music video for the song "The Existential Threat", the physical release saw A Steady Drip, Drip, Drip enter the UK charts at number 7, making this the group's second consecutive UK Top 10 studio album and their fourth overall. The album also made the Billboard 200 list of the top albums in the US, the first time Sparks has had a hit album in America since In Outer Space in 1983.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. All That
-2. I'm Toast
-3. Lawnmower
-4. Sainthood Is Not In Your Future
-5. Pacific Standard Time
-6. Stravinsky's Only Hit
-7. Left Out In The Cold
-8. Self-Effacing
-9. One For The Ages
-10. Onomato Pia
-11. iPhone
-12. The Existential Threat
-13. Nothing Travels Faster Than The Speed Of Light
-14. Please Don't Fuck Up My World
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | All That |  |
+| A2 | I'm Toast |  |
+| A3 | Lawnmower |  |
+| A4 | Sainthood Is Not In Your Future |  |
+| B1 | Pacific Standard Time |  |
+| B2 | Stravinsky's Only Hit |  |
+| B3 | Left Out In The Cold |  |
+| C1 | Self-Effacing |  |
+| C2 | One For The Ages |  |
+| C3 | Onomato Pia |  |
+| D1 | iPhone |  |
+| D2 | The Existential Threat |  |
+| D3 | Nothing Travels Faster Than The Speed Of Light |  |
+| D4 | Please Don't Fuck Up My World |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-steady-drip-drip-drip/1498210122" >}}<br>
 
 
-## Videos
-### Sparks - iPhone Official Video
-{{< youtube id="C3CIDPuxwrY" title="Sparks - iPhone Official Video" >}}<br>
-### More Videos
-
-- [Sparks - The Existential Threat  bonus How To Make A Music Video by Cyriak](https://www.youtube.com/watch?v=nkvxIeV1fQ8)
-- [Pacific Standard Time](https://www.youtube.com/watch?v=zf6y7p2iauE)
-- [Sparks - Im Toast Unofficial Video](https://www.youtube.com/watch?v=aJpfdcurYoQ)
-- [Sparks - iPhone Official Video](https://www.youtube.com/watch?v=C3CIDPuxwrY)
-- [Sparks - The Existential Threat  bonus How To Make A Music Video by Cyriak](https://www.youtube.com/watch?v=nkvxIeV1fQ8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +76,5 @@ The release of the physical formats was delayed because of the COVID-19 pandemic
 | Format         | Vinyl LP 45 RPM (Blue, 180g), Vinyl LP 45 RPM (Purple, 180g), All Media Album Limited Edition |
 | Label          | BMG |
 | Catalog Number | 538603240 |
-| Notes | Includes exclusive poster.  Gatefold sleeve |
+| Notes | Includes exclusive poster.<br><br>Gatefold sleeve |
 | Discogs URL    | [Sparks - A Steady Drip, Drip, Drip](https://www.discogs.com/release/15558625-Sparks-A-Steady-Drip-Drip-Drip) |

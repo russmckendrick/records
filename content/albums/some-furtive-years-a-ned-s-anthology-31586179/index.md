@@ -1,16 +1,17 @@
 ---
-title: "Ned's Atomic Dustbin - Some Furtive Years: A Ned's Anthology"
-artist_name: "Ned's Atomic Dustbin"
-artist: "ned-s-atomic-dustbin"
+title: "Neds Atomic Dustbin - Some Furtive Years: A Ned's Anthology"
+artist_name: "Neds Atomic Dustbin"
+artist: "neds-atomic-dustbin"
 album_name: "Some Furtive Years: A Ned's Anthology"
 date: 2024-08-30T04:16:04.000000Z
+release_date: "2007-05-01"
 release_id: "31586179"
 slug: "some-furtive-years-a-ned-s-anthology-31586179"
 hideSummary: true
 cover:
     image: "some-furtive-years-a-ned-s-anthology-31586179.jpg"
-    alt: "Some Furtive Years: A Ned's Anthology by Ned's Atomic Dustbin"
-    caption: "Some Furtive Years: A Ned's Anthology by Ned's Atomic Dustbin"
+    alt: "Some Furtive Years: A Ned's Anthology by Neds Atomic Dustbin"
+    caption: "Some Furtive Years: A Ned's Anthology by Neds Atomic Dustbin"
 additional_images:
     - "https://i.discogs.com/AD8tqg8kmoPVzWUW6akkJkQrn-PptMO6N7Kq4w0I-sM/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTg2/MTc5LTE3MjQ3NzEy/NzEtNTE3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/2D4QAaZba1L3oJEig_ypyeAdhiuoh41obOBexKqCd58/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTg2/MTc5LTE3MjQ3NzEy/NjMtNzU4MC5qcGVn.jpeg"
@@ -25,65 +26,35 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Grey Cell Green (3:47)
-2. Kill Your Television (2:59)
-3. Until You Find Out (3:07)
-4. Happy (3:56)
-5. Trust (3:29)
-6. Not Sleeping Around (3:16)
-7. Intact (4:47)
-8. All I Ask Of Myself Is That I Hold Together (3:06)
-9. Stuck (3:32)
-10. Cut Up (3:05)
-11. Selfish (3:52)
-12. Scrawl (3:24)
-13. Leg End In His Own Boots (3:08)
-14. Who Goes First? (4:32)
-15. Traffic (3:32)
-16. Song 11 Could Take Forever (3:23)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Grey Cell Green | 3:47 |
+| A2 | Kill Your Television | 2:59 |
+| A3 | Until You Find Out | 3:07 |
+| A4 | Happy | 3:56 |
+| A5 | Trust | 3:29 |
+| A6 | Not Sleeping Around | 3:16 |
+| B1 | Intact | 4:47 |
+| B2 | All I Ask Of Myself Is That I Hold Together | 3:06 |
+| B3 | Stuck | 3:32 |
+| B4 | Cut Up | 3:05 |
+| B5 | Selfish | 3:52 |
+| C1 | Scrawl | 3:24 |
+| C2 | Leg End In His Own Boots | 3:08 |
+| C3 | Who Goes First? | 4:32 |
+| C4 | Traffic | 3:32 |
+| C5 | Song 11 Could Take Forever | 3:23 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/some-furtive-years-a-neds-anthology/303852462" >}}<br>
 
 
-## Videos
-### Neds Atomic Dustbin - Grey Cell Green
-{{< youtube id="HqGzBqPnNBk" title="Neds Atomic Dustbin - Grey Cell Green" >}}<br>
-### More Videos
-
-- [Neds Atomic Dustbin - Kill Your Television Video](https://www.youtube.com/watch?v=FaTcIzLk880)
-- [Neds Atomic Dustbin - Until You Find Out](https://www.youtube.com/watch?v=Jw4vlsVh7Eo)
-- [Neds Atomic Dustbin - Happy](https://www.youtube.com/watch?v=dXorifYSut8)
-- [Neds Atomic Dustbin - Trust](https://www.youtube.com/watch?v=yPCQ_D7GTgU)
-- [Neds Atomic Dustbin - Not Sleeping Around Video](https://www.youtube.com/watch?v=_wDHQRWKg4M)
-- [Neds Atomic Dustbin - Intact](https://www.youtube.com/watch?v=98Wn0YH4icE)
-- [Neds Atomic Dustbin - All I Ask Of Myself Is That I Hold Together Video](https://www.youtube.com/watch?v=KhsKggeyv9Y)
-- [Neds Atomic Dustbin - Stuck Video](https://www.youtube.com/watch?v=vvHdnBSBSls)
-- [Cut Up](https://www.youtube.com/watch?v=ooe0DHb6zko)
-- [Selfish](https://www.youtube.com/watch?v=NJdmmhO5JS4)
-- [Neds Atomic Dustbin - Scrawl](https://www.youtube.com/watch?v=n8ANSfsLzIE)
-- [Leg End In His Own Boots](https://www.youtube.com/watch?v=aNAHkeLYzMw)
-- [Who Goes First](https://www.youtube.com/watch?v=O6LoHg_HIrE)
-- [Traffic](https://www.youtube.com/watch?v=eT6GOIL7Nc0)
-- [Song Eleven Could Take Forever](https://www.youtube.com/watch?v=zEGhPeDOhHk)
-- [Neds Atomic Dustbin - Grey Cell Green](https://www.youtube.com/watch?v=HqGzBqPnNBk)
-- [Neds Atomic Dustbin - Kill Your Television Video](https://www.youtube.com/watch?v=FaTcIzLk880)
-- [Neds Atomic Dustbin - Until You Find Out](https://www.youtube.com/watch?v=Jw4vlsVh7Eo)
-- [Neds Atomic Dustbin - Happy](https://www.youtube.com/watch?v=dXorifYSut8)
-- [Neds Atomic Dustbin - Trust](https://www.youtube.com/watch?v=yPCQ_D7GTgU)
-- [Neds Atomic Dustbin - Not Sleeping Around Video](https://www.youtube.com/watch?v=_wDHQRWKg4M)
-- [Neds Atomic Dustbin - Intact](https://www.youtube.com/watch?v=98Wn0YH4icE)
-- [Neds Atomic Dustbin - All I Ask Of Myself Is That I Hold Together Video](https://www.youtube.com/watch?v=KhsKggeyv9Y)
-- [Neds Atomic Dustbin - Stuck Video](https://www.youtube.com/watch?v=vvHdnBSBSls)
-- [Cut Up](https://www.youtube.com/watch?v=ooe0DHb6zko)
-- [Selfish](https://www.youtube.com/watch?v=NJdmmhO5JS4)
-- [Neds Atomic Dustbin - Scrawl](https://www.youtube.com/watch?v=n8ANSfsLzIE)
-- [Leg End In His Own Boots](https://www.youtube.com/watch?v=aNAHkeLYzMw)
-- [Who Goes First](https://www.youtube.com/watch?v=O6LoHg_HIrE)
-- [Traffic](https://www.youtube.com/watch?v=eT6GOIL7Nc0)
-- [Song Eleven Could Take Forever](https://www.youtube.com/watch?v=zEGhPeDOhHk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -94,5 +65,5 @@ styles: ["Alternative Rock", "Pop Rock", "Indie Rock"]
 | Format         | Vinyl LP (Yellow Flame), Vinyl LP Single Sided Etched (Yellow Flame), All Media Compilation Limited Edition Numbered Reissue |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3331 |
-| Notes | 180 gram audiophile vinyl Includes insert Contains a band logo etch on side D Compiled with the assistance of the band Limited edition of 1500 individually numbered copies on yellow coloured vinyl |
-| Discogs URL    | [Ned's Atomic Dustbin - Some Furtive Years: A Ned's Anthology](https://www.discogs.com/release/31586179-Neds-Atomic-Dustbin-Some-Furtive-Years-A-Neds-Anthology) |
+| Notes | 180 gram audiophile vinyl<br>Includes insert<br>Contains a band logo etch on side D<br>Compiled with the assistance of the band<br>Limited edition of 1500 individually numbered copies on yellow coloured vinyl |
+| Discogs URL    | [Neds Atomic Dustbin - Some Furtive Years: A Ned's Anthology](https://www.discogs.com/release/31586179-Neds-Atomic-Dustbin-Some-Furtive-Years-A-Neds-Anthology) |

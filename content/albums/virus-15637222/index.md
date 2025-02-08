@@ -1,9 +1,10 @@
 ---
 title: "Haken - Virus"
 artist_name: "Haken"
-artist: "haken-2"
+artist: "haken"
 album_name: "Virus"
 date: 2021-01-17T03:29:39.000000Z
+release_date: "2020-07-24"
 release_id: "15637222"
 slug: "virus-15637222"
 hideSummary: true
@@ -30,41 +31,33 @@ styles: ["Progressive Metal"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Prosthetic
-2. Invasion
-3. Carousel
-4. The Strain
-5. Canary Yellow
-6. Messiah Complex
-7. Only Stars
-8. Prosthetic
-9. Invasion
-10. Carousel
-11. The Strain
-12. Canary Yellow
-13. Messiah Complex
-14. Only Stars
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Prosthetic |  |
+| A2 | Invasion |  |
+| B1 | Carousel |  |
+| C1 | The Strain |  |
+| C2 | Canary Yellow |  |
+| D1 | Messiah Complex |  |
+| D2 | Only Stars |  |
+| CD-1 | Prosthetic |  |
+| CD-2 | Invasion |  |
+| CD-3 | Carousel |  |
+| CD-4 | The Strain |  |
+| CD-5 | Canary Yellow |  |
+|  | Messiah Complex |  |
+| CD-11 | Only Stars |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/virus/1503491157" >}}<br>
 
 
-## Videos
-### HAKEN - Prosthetic OFFICIAL VIDEO
-{{< youtube id="4EmbYo65Pbs" title="HAKEN - Prosthetic OFFICIAL VIDEO" >}}<br>
-### More Videos
-
-- [Invasion](https://www.youtube.com/watch?v=9XvK6cMoVu0)
-- [Carousel](https://www.youtube.com/watch?v=84G_kyB9TDo)
-- [The Strain](https://www.youtube.com/watch?v=8gVsg6Whnoo)
-- [Messiah Complex I Ivory Tower](https://www.youtube.com/watch?v=8RScoWKlza0)
-- [Messiah Complex Ii a Glutton for Punishment](https://www.youtube.com/watch?v=ARxTP7BUnFg)
-- [Messiah Complex III Marigold](https://www.youtube.com/watch?v=KcgmiMkpbO0)
-- [Messiah Complex Iv The Sect](https://www.youtube.com/watch?v=ChXXRVOAtzo)
-- [Messiah Complex V Ectobius Rex](https://www.youtube.com/watch?v=YkzpCm9QRnE)
-- [Only Stars](https://www.youtube.com/watch?v=BP55LZwJgRI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +68,5 @@ styles: ["Progressive Metal"]
 | Format         | Vinyl 2× LP Album, CD Album |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 549 |
-| Notes | Version with black vinyl  Runouts: '1 ❘' is mirrored in all runouts. |
+| Notes | Version with black vinyl<br><br>Runouts:<br>'1 ❘' is mirrored in all runouts. |
 | Discogs URL    | [Haken - Virus](https://www.discogs.com/release/15637222-Haken-2-Virus) |

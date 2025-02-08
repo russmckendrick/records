@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Waves Of Distortion (The Best Of Shoegaze 1990​-​2022)"
 date: 2023-05-05T04:25:05.000000Z
+release_date: ""
 release_id: "26951984"
 slug: "waves-of-distortion-the-best-of-shoegaze-1990-2022-26951984"
 hideSummary: true
@@ -22,41 +23,41 @@ styles: ["Shoegaze", "Dream Pop", "Post Rock", "Noise Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Slomo
-2. Pearl - Edit
-3. Vapour Trail
-4. Henna and Swayed
-5. Flying
-6. Sweetness And Light
-7. Chlorine Dream
-8. The 3rd Time We Opened The Capsule
-9. Sight Of You
-10. Alibi
-11. Kaleidoscope
-12. Billy
-13. Daylight Storms
-14. Taker
-15. A Reason To Celebrate
-16. Long Holiday
-17. Overrated – Robin Guthrie Version
-18. Lazuli
-19. Kids Will Be Skeletons
-20. Go And Come Back
-21. Mercy Seat
-22. Ceremony
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Slomo |  |
+| A2 | Pearl - Edit |  |
+| A3 | Vapour Trail |  |
+| A4 | Henna and Swayed |  |
+| A5 | Flying |  |
+| B1 | Sweetness And Light |  |
+| B2 | Chlorine Dream |  |
+| B3 | The 3rd Time We Opened The Capsule |  |
+| B4 | Sight Of You |  |
+| B5 | Alibi |  |
+| B6 | Kaleidoscope |  |
+| C1 | Billy |  |
+| C2 | Daylight Storms |  |
+| C3 | Taker |  |
+| C4 | A Reason To Celebrate |  |
+| C5 | Long Holiday |  |
+| C6 | Overrated – Robin Guthrie Version |  |
+| D1 | Lazuli |  |
+| D2 | Kids Will Be Skeletons |  |
+| D3 | Go And Come Back |  |
+| D4 | Mercy Seat |  |
+| D5 | Ceremony |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Slowdive  Slomo
-{{< youtube id="XHY2w9NO57Y" title="Slowdive  Slomo" >}}<br>
-### More Videos
 
-- [Pearl Edit](https://www.youtube.com/watch?v=wlqKSAJZsZs)
-- [Slowdive  Slomo](https://www.youtube.com/watch?v=XHY2w9NO57Y)
-- [Pearl Edit](https://www.youtube.com/watch?v=wlqKSAJZsZs)
 
 ## Release Images
 {{< imageGrid >}}

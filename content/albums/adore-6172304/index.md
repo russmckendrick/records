@@ -4,6 +4,7 @@ artist_name: "The Smashing Pumpkins"
 artist: "the-smashing-pumpkins"
 album_name: "Adore"
 date: 2016-03-06T09:21:22.000000Z
+release_date: "2000-02-29"
 release_id: "6172304"
 slug: "adore-6172304"
 hideSummary: true
@@ -23,38 +24,36 @@ Adore is the fourth studio album by the American alternative rock band the Smash
 The result was a much more subdued and electronica-tinged sound that Greg Kot of Rolling Stone magazine called "a complete break with the past". The album divided the Smashing Pumpkins fan base and was not as commercially successful as their previous two albums. However, similar to the band's other releases across the decade, the album was critically acclaimed, becoming the third straight Pumpkins album to be nominated for the Grammy Award for Best Alternative Music Performance and has retrospectively gained a cult following. A remastered and expanded version of the album was released on CD and vinyl in September 2014 as a part of the band's project to reissue their back catalogue from 1991 to 2000. This is their only album to be recorded as trio and their first album not to feature an official drummer.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. To Sheila (4:40)
-2. Ava Adore (4:20)
-3. Perfect (3:23)
-4. Daphne Descends (4:38)
-5. Once Upon A Time (4:06)
-6. Tear (5:52)
-7. Crestfallen (4:09)
-8. Appels + Oranjes (3:34)
-9. Pug (4:46)
-10. The Tale Of Dusty And Pistol Pete (4:33)
-11. Annie Dog (3:36)
-12. Shame (6:38)
-13. Behold! The Night Mare (5:12)
-14. For Martha (8:17)
-15. Blank Page (4:51)
-16. 17 (0:17)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | To Sheila | 4:40 |
+| A2 | Ava Adore | 4:20 |
+| A3 | Perfect | 3:23 |
+| A4 | Daphne Descends | 4:38 |
+| B1 | Once Upon A Time | 4:06 |
+| B2 | Tear | 5:52 |
+| B3 | Crestfallen | 4:09 |
+| B4 | Appels + Oranjes | 3:34 |
+| C1 | Pug | 4:46 |
+| C2 | The Tale Of Dusty And Pistol Pete | 4:33 |
+| C3 | Annie Dog | 3:36 |
+| C4 | Shame | 6:38 |
+| D1 | Behold! The Night Mare | 5:12 |
+| D2 | For Martha | 8:17 |
+| D3 | Blank Page | 4:51 |
+| D4 | 17 | 0:17 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/machina-the-machines-of-god/712756036" >}}<br>
 
 
-## Videos
-### The Smashing Pumpkins - Perfect Official Music Video
-{{< youtube id="VKYY8DxVZHE" title="The Smashing Pumpkins - Perfect Official Music Video" >}}<br>
-### More Videos
-
-- [The Smashing Pumpkins - Ava Adore Official Music Video](https://www.youtube.com/watch?v=9uWwvQKGjLI)
 
 ## Release Images
 {{< imageGrid >}}

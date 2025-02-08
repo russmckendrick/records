@@ -4,6 +4,7 @@ artist_name: "Thank You Scientist"
 artist: "thank-you-scientist"
 album_name: "Maps Of Non-Existent Places"
 date: 2020-03-12T18:46:41.000000Z
+release_date: "2014-09-30"
 release_id: "14780449"
 slug: "maps-of-non-existent-places-14780449"
 hideSummary: true
@@ -21,34 +22,30 @@ styles: ["Prog Rock"]
 Maps of Non-Existent Places is the debut full-length album by progressive rock band Thank You Scientist. This is the only album to feature Greg Colacino on bass and Russ Lynch on violin, viola and mandolin.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Prelude
-2. A Salesman's Guide To Non-Existence
-3. Feed The Horses
-4. Blood On The Radio
-5. Absentee
-6. Suspicious Waveforms
-7. Carnival
-8. Concrete Swan Dive
-9. In The Company Of Worms
-10. My Famed Disappearing Act
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Prelude |  |
+| A2 | A Salesman's Guide To Non-Existence |  |
+| A3 | Feed The Horses |  |
+| B1 | Blood On The Radio |  |
+| B2 | Absentee |  |
+| C1 | Suspicious Waveforms |  |
+| C2 | Carnival |  |
+| D1 | Concrete Swan Dive |  |
+| D2 | In The Company Of Worms |  |
+| D3 | My Famed Disappearing Act |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/maps-of-non-existent-places/1617741451" >}}<br>
 
 
-## Videos
-### Prelude
-{{< youtube id="Eiz8nmCYVy0" title="Prelude" >}}<br>
-### More Videos
-
-- [A Salesmans Guide to Non-Existence](https://www.youtube.com/watch?v=qfh51HrD5U4)
-- [Thank You Scientist - Feed the Horses](https://www.youtube.com/watch?v=mWig453dPrc)
-- [Thank You Scientist - Concrete Swan Dive Maps Of Non-Existent Places](https://www.youtube.com/watch?v=lncoFO68wjQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,5 +57,5 @@ Maps of Non-Existent Places is the debut full-length album by progressive rock b
 | Format         | Vinyl 2× LP Album Limited Edition Remastered Repress Stereo (Blood Red With Black Swirl) |
 | Label          | Evil Ink Records |
 | Catalog Number | EI200V |
-| Notes | Limited to 1,000 copies.  This is Thank You Scientist's second release, originally released independently through their Bandcamp account, which has been repressed upon signing to Evil Ink Records.  |
+| Notes | Limited to 1,000 copies.<br><br>This is Thank You Scientist's second release, originally released independently through their Bandcamp account, which has been repressed upon signing to Evil Ink Records.  |
 | Discogs URL    | [Thank You Scientist - Maps Of Non-Existent Places](https://www.discogs.com/release/14780449-Thank-You-Scientist-Maps-Of-Non-Existent-Places) |

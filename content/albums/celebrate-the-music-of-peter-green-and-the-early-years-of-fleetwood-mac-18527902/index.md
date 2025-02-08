@@ -1,16 +1,17 @@
 ---
-title: "Mick Fleetwood & Friends - Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac"
-artist_name: "Mick Fleetwood & Friends"
+title: "Mick Fleetwood  Friends - Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac"
+artist_name: "Mick Fleetwood  Friends"
 artist: "mick-fleetwood-friends"
 album_name: "Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac"
 date: 2021-05-03T01:54:05.000000Z
+release_date: "2021-04-30"
 release_id: "18527902"
 slug: "celebrate-the-music-of-peter-green-and-the-early-years-of-fleetwood-mac-18527902"
 hideSummary: true
 cover:
     image: "celebrate-the-music-of-peter-green-and-the-early-years-of-fleetwood-mac-18527902.jpg"
-    alt: "Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac by Mick Fleetwood & Friends"
-    caption: "Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac by Mick Fleetwood & Friends"
+    alt: "Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac by Mick Fleetwood  Friends"
+    caption: "Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac by Mick Fleetwood  Friends"
 additional_images:
     - "https://i.discogs.com/iDFUnZAMZwbil3yDSq6KdpNXDWiQJtOopz3DEcJkQlk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI3/OTAyLTE2MjA2Mzkz/OTUtNTQzNC5qcGVn.jpeg"
     - "https://i.discogs.com/P-Gg2LwevbS9WyoykOsHj9TAtex7hPxGGJ6o-Bxn9ko/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI3/OTAyLTE2MjA2Mzkz/OTctNjcwMy5qcGVn.jpeg"
@@ -39,60 +40,43 @@ styles: ["Classic Rock", "Blues Rock"]
 
 Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac is a live album by Mick Fleetwood and his seventh solo album overall. It was recorded during a February 2020 concert at the London Palladium to honor the music of founding Fleetwood Mac guitarist Peter Green, who died less than six months after the performance. Although Green did not participate, the concert and album does feature Jeremy Spencer, one of the four original members of Fleetwood Mac.
 The album reached the album charts in several countries upon its release, including the UK, Germany, Australia, and the Netherlands.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Rolling Man
-2. Homework
-3. Doctor Brown
-4. All Your Love
-5. Rattlesnake Shake
-6. Stop Messin' Round
-7. Looking For Somebody
-8. Sandy Mary
-9. Love That Burns
-10. The World Keep On Turning
-11. Like Crying
-12. No Place To Go
-13. Station Man
-14. Man Of The World
-15. Oh Well (Pt.1)
-16. Oh Well (Pt.2)
-17. Need Your Love So Bad
-18. Black Magic Woman
-19. The Sky Is Crying
-20. I Can't Hold Out
-21. The Green Manalishi (With The Two Prong Crown)
-22. Albatross
-23. Shake Your Money Maker
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rolling Man |  |
+| A2 | Homework |  |
+| A3 | Doctor Brown |  |
+| B1 | All Your Love |  |
+| B2 | Rattlesnake Shake |  |
+| B3 | Stop Messin' Round |  |
+| C1 | Looking For Somebody |  |
+| C2 | Sandy Mary |  |
+| C3 | Love That Burns |  |
+| D1 | The World Keep On Turning |  |
+| D2 | Like Crying |  |
+| D3 | No Place To Go |  |
+| D4 | Station Man |  |
+| E1 | Man Of The World |  |
+| E2 | Oh Well (Pt.1) |  |
+| E3 | Oh Well (Pt.2) |  |
+| F1 | Need Your Love So Bad |  |
+| F2 | Black Magic Woman |  |
+| G1 | The Sky Is Crying |  |
+| G2 | I Can't Hold Out |  |
+| H1 | The Green Manalishi (With The Two Prong Crown) |  |
+| H2 | Albatross |  |
+| H3 | Shake Your Money Maker |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/celebrate-the-music-of-peter-green-and-the/1563694617" >}}<br>
 
 
-## Videos
-### Mick Fleetwood And Friends - The Green Manalishi With The Two Prong Crown Official Video
-{{< youtube id="rt8zGoEmGrk" title="Mick Fleetwood And Friends - The Green Manalishi With The Two Prong Crown Official Video" >}}<br>
-### More Videos
-
-- [Mick Fleetwood And Friends - Oh Well Pt 1 Official Video](https://www.youtube.com/watch?v=wrvK-q8Q2XY)
-- [Mick Fleetwood And Friends - Albatross Official Video](https://www.youtube.com/watch?v=xPJZygFYTKI)
-- [Mick Fleetwood And Friends - Stop Messin Round Official Video](https://www.youtube.com/watch?v=KL8L-t8VLqE)
-- [Mick Fleetwood And Friends - Official Trailer](https://www.youtube.com/watch?v=eqUaoL-zKRg)
-- [Mick Fleetwood And Friends - The World Keep On Turning Official Video](https://www.youtube.com/watch?v=bioql-_-v-0)
-- [The Sky Is Crying with Jeremy Spencer Bill Wyman Live from The London Palladium](https://www.youtube.com/watch?v=MQhNLMpWE_s)
-- [Station Man with Pete Townshend Live from The London Palladium](https://www.youtube.com/watch?v=nH5wXNHKCRg)
-- [All Your Love with John Mayall Live from The London Palladium](https://www.youtube.com/watch?v=l9eV__tbM3Q)
-- [Mick Fleetwood And Friends - Rattlesnake Shake Official Video](https://www.youtube.com/watch?v=Z7xbZhD4sPA)
-- [Oh Well Pt 1 with Steven Tyler Billy Gibbons Live from The London Palladium](https://www.youtube.com/watch?v=MQ_1lSvGAzw)
-- [Oh Well Pt 2 with David Gilmour Live from The London Palladium](https://www.youtube.com/watch?v=n3KFI-x7Qhc)
-- [Looking for Somebody with Christine McVie Live from The London Palladium](https://www.youtube.com/watch?v=aMdbKLm_LhI)
-- [Sandy Mary with Jonny Lang Live from The London Palladium](https://www.youtube.com/watch?v=0YqRL0NkALk)
-- [Like Crying with Noel Gallagher Live from The London Palladium](https://www.youtube.com/watch?v=nteRiOW2SS0)
-- [I Cant Hold Out with Jeremy Spencer Bill Wyman Live from The London Palladium](https://www.youtube.com/watch?v=QBjpmJ1p6aY)
-- [Mick Fleetwood  friends celebrate the music of Peter Green  Vinyl unboxing and more](https://www.youtube.com/watch?v=clf-JWLd8_Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -104,5 +88,5 @@ The album reached the album charts in several countries upon its release, includ
 | Format         | Vinyl 4× LP Album |
 | Label          | BMG |
 | Catalog Number | BMGCAT454QLP |
-| Notes | Widespine gatefold   |
-| Discogs URL    | [Mick Fleetwood & Friends - Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac](https://www.discogs.com/release/18527902-Mick-Fleetwood-Friends-Celebrate-The-Music-Of-Peter-Green-And-The-Early-Years-Of-Fleetwood-Mac) |
+| Notes | Widespine gatefold<br><br> |
+| Discogs URL    | [Mick Fleetwood  Friends - Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac](https://www.discogs.com/release/18527902-Mick-Fleetwood-Friends-Celebrate-The-Music-Of-Peter-Green-And-The-Early-Years-Of-Fleetwood-Mac) |

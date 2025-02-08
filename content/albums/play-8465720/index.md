@@ -4,6 +4,7 @@ artist_name: "Moby"
 artist: "moby"
 album_name: "Play"
 date: 2018-01-06T10:52:07.000000Z
+release_date: "1999-06-01"
 release_id: "8465720"
 slug: "play-8465720"
 hideSummary: true
@@ -32,74 +33,38 @@ While some of Moby's earlier work had garnered critical and commercial success w
 In 2003 and 2012, Play was ranked number 341 on Rolling Stone magazine's list of the 500 greatest albums of all time.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Honey (3:27)
-2. Find My Baby (3:58)
-3. Porcelain (4:01)
-4. Why Does My Heart Feel So Bad? (4:23)
-5. South Side (3:48)
-6. Rushing (2:58)
-7. Bodyrock (3:34)
-8. Natural Blues (4:12)
-9. Machete (3:36)
-10. 7 (1:00)
-11. Run On (3:43)
-12. Down Slow (1:34)
-13. If Things Were Perfect (4:17)
-14. Everloving (3:24)
-15. Inside (4:47)
-16. Guitar Flute & String (2:07)
-17. The Sky Is Broken (4:17)
-18. My Weakness (3:37)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Honey | 3:27 |
+| A2 | Find My Baby | 3:58 |
+| A3 | Porcelain | 4:01 |
+| A4 | Why Does My Heart Feel So Bad? | 4:23 |
+| B1 | South Side | 3:48 |
+| B2 | Rushing | 2:58 |
+| B3 | Bodyrock | 3:34 |
+| B4 | Natural Blues | 4:12 |
+| C1 | Machete | 3:36 |
+| C2 | 7 | 1:00 |
+| C3 | Run On | 3:43 |
+| C4 | Down Slow | 1:34 |
+| C5 | If Things Were Perfect | 4:17 |
+| C6 | Everloving | 3:24 |
+| D1 | Inside | 4:47 |
+| D2 | Guitar Flute & String | 2:07 |
+| D3 | The Sky Is Broken | 4:17 |
+| D4 | My Weakness | 3:37 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/play/1436695379" >}}<br>
 
 
-## Videos
-### Moby Honey - Official video
-{{< youtube id="pVwDlkJoITU" title="Moby Honey - Official video" >}}<br>
-### More Videos
-
-- [Moby Find My Baby - Official video](https://www.youtube.com/watch?v=my1B2ldiiW8)
-- [Moby - Porcelain Official Video](https://www.youtube.com/watch?v=IJWlBfo5Oj0)
-- [Moby Why Does My Heart Feel So Bad Official video WhyDoesMyHeart](https://www.youtube.com/watch?v=o1Xsj9-3Pvo)
-- [Moby Gwen Stefani - South Side Official HD Video](https://www.youtube.com/watch?v=x5AS2tx1d9w)
-- [Moby Bodyrock - UK Dance version](https://www.youtube.com/watch?v=xe_PbWFAzZQ)
-- [Moby - Natural Blues ft Christina Ricci Official Video](https://www.youtube.com/watch?v=SC6-TiN19uE)
-- [Moby Run On - Official video](https://www.youtube.com/watch?v=4UXpmvu35Fk)
-- [Moby - South Side Official Audio](https://www.youtube.com/watch?v=CLr8VvF6rBg)
-- [Moby - Rushing Official Audio](https://www.youtube.com/watch?v=VWD3lvE8wCY)
-- [Moby - Machete Official Audio](https://www.youtube.com/watch?v=tR4YuZE_BZs)
-- [Moby - 7 Official Audio](https://www.youtube.com/watch?v=7aIUurXKid0)
-- [Moby - Down Slow Official Audio](https://www.youtube.com/watch?v=y5WWRGenMEs)
-- [Moby - If Things Were Perfect Official Audio](https://www.youtube.com/watch?v=6ersCnJFkcM)
-- [Moby - Everloving Official Audio](https://www.youtube.com/watch?v=gMNB8BqAJdY)
-- [Moby - Inside Official Audio](https://www.youtube.com/watch?v=531MZcx_y6o)
-- [Moby - Guitar Flute and String Official Audio](https://www.youtube.com/watch?v=ef3Th1XKrks)
-- [Moby - The Sky Is Broken Official Audio](https://www.youtube.com/watch?v=c6ZwcJTHCpg)
-- [Moby - My Weakness Official Audio](https://www.youtube.com/watch?v=8miMg3xBN2s)
-- [Moby - Flower Official Audio](https://www.youtube.com/watch?v=6A2V9Bu80J4)
-- [Moby - Sunday Official Audio](https://www.youtube.com/watch?v=qlcp-1ggIfs)
-- [Moby - Memory Gospel Official Audio](https://www.youtube.com/watch?v=sSY5HaXxTgI)
-- [Moby - Whispering Wind Official Audio](https://www.youtube.com/watch?v=LFnPV7JdaLM)
-- [Moby - Summer Official Audio](https://www.youtube.com/watch?v=JRlCRCrQqKs)
-- [Moby - Spirit Official Audio](https://www.youtube.com/watch?v=uqLjfNV6Imk)
-- [Moby - Flying Foxes Official Audio](https://www.youtube.com/watch?v=JLjsLWevjkw)
-- [Moby - Sunspot Official Audio](https://www.youtube.com/watch?v=INl9OcQ-PZo)
-- [Moby - Flying Over the Dateline Official Audio](https://www.youtube.com/watch?v=tTzA9h2B1tE)
-- [Moby - Running Official Audio](https://www.youtube.com/watch?v=GjqJ8TG5vlM)
-- [Moby - The Sun Never Stops Setting Official Audio](https://www.youtube.com/watch?v=xj7YUmYofmo)
-- [Moby and Gwen Stefani w Gavin Southside on Letterman Nov 2000](https://www.youtube.com/watch?v=yjs-ucob9_M)
-- [Moby ft Gwen Stefani - Southside Fashionably Loud 2001](https://www.youtube.com/watch?v=SPl8UprifcE)
-- [Moby featNelly Furtado - South Side](https://www.youtube.com/watch?v=wnl26K1s-Hc)
-- [Moby performing South Side Live at the Village on KCRW](https://www.youtube.com/watch?v=WQRuMtXohBw)
-- [Moby - Southside feat Skylar Grey Live at The Fonda LA](https://www.youtube.com/watch?v=6p-V5RYgz34)
-- [Moby  PlayFull Album](https://www.youtube.com/watch?v=xXOR72BmOyU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -111,5 +76,5 @@ In 2003 and 2012, Play was ranked number 341 on Rolling Stone magazine's list of
 | Format         | Vinyl 2× LP Album Limited Edition Reissue (180g) |
 | Label          | Mute |
 | Catalog Number | Stumm172 |
-| Notes | Printed inner sleeves.  If purchased with other re-issues via Pledgemusic, a 12x12 flat of the play album artwork was included.  "Honey" features samples from the Bessie Jones recording "Sometimes". "Find My Baby" features samples from the Boy Blue recording "Joe Lee's Rock". "Bodyrock" contains a sample of "Love Rap" as performed by Spoony G & the Treacherous 3 and written by Bobby Robinson. "Natural Blues" features samples from the Vera Hall recording "Trouble So Hard". "Run On" features samples from "Run On for a Long Time" by Bill Landford & The Landfordaires.  ℗ 1999 Mute Records Limited © 1999 Mute Records Limited, a BMG company Manufactured and distributed by [PIAS] Manufactured / Made in EU  1IΔ, 1IX, 1=X and 1Δ are mirrored in runouts. |
+| Notes | Printed inner sleeves.<br><br>If purchased with other re-issues via Pledgemusic, a 12x12 flat of the play album artwork was included.<br><br>"Honey" features samples from the Bessie Jones recording "Sometimes".<br>"Find My Baby" features samples from the Boy Blue recording "Joe Lee's Rock".<br>"Bodyrock" contains a sample of "Love Rap" as performed by Spoony G & the Treacherous 3 and written by Bobby Robinson.<br>"Natural Blues" features samples from the Vera Hall recording "Trouble So Hard".<br>"Run On" features samples from "Run On for a Long Time" by Bill Landford & The Landfordaires.<br><br>℗ 1999 Mute Records Limited © 1999 Mute Records Limited, a BMG company<br>Manufactured and distributed by [PIAS]<br>Manufactured / Made in EU<br><br>1IΔ, 1IX, 1=X and 1Δ are mirrored in runouts. |
 | Discogs URL    | [Moby - Play](https://www.discogs.com/release/8465720-Moby-Play) |

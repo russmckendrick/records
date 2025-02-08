@@ -4,6 +4,7 @@ artist_name: "Mark Morriss"
 artist: "mark-morriss"
 album_name: "A Flash Of Darkness"
 date: 2022-03-02T05:09:53.000000Z
+release_date: "2014-02-24"
 release_id: "5871313"
 slug: "a-flash-of-darkness-5871313"
 hideSummary: true
@@ -20,33 +21,30 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. A Flash Of Darkness (3:15)
-2. Consuela (4:05)
-3. Guilty Again (3:34)
-4. It's Hard To Be Good All The Time (4:07)
-5. Pink Bullets (3:39)
-6. Low Company (3:57)
-7. Life Without F(r)iction (5:06)
-8. This Is The Lie (And That's The Truth) (2:23)
-9. Space Cadet (3:41)
-10. Nightcall (5:00)
-11. Sleep Song (5:16)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | A Flash Of Darkness | 3:15 |
+| A2 | Consuela | 4:05 |
+| A3 | Guilty Again | 3:34 |
+| A4 | It's Hard To Be Good All The Time | 4:07 |
+| A5 | Pink Bullets | 3:39 |
+| A6 | Low Company | 3:57 |
+| B1 | Life Without F(r)iction | 5:06 |
+| B2 | This Is The Lie (And That's The Truth) | 2:23 |
+| B3 | Space Cadet | 3:41 |
+| B4 | Nightcall | 5:00 |
+| B5 | Sleep Song | 5:16 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-flash-of-darkness/1152562936" >}}<br>
 
 
-## Videos
-### A Flash of Darkness
-{{< youtube id="aSwZUI8ETZ8" title="A Flash of Darkness" >}}<br>
-### More Videos
-
-- [Consuela](https://www.youtube.com/watch?v=mdOV_lx-M4A)
-- [A Flash of Darkness](https://www.youtube.com/watch?v=aSwZUI8ETZ8)
-- [Consuela](https://www.youtube.com/watch?v=mdOV_lx-M4A)
-- [Mark Morriss A Flash Of Darkness Full Album](https://www.youtube.com/watch?v=L9q47aVymd4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -57,5 +55,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP346 |
-| Notes | Black vinyl 12" LP.    Record in white paper sleeve + colour 12"x12" info insert.    Download card included to redeem all tracks as mp3's.   |
+| Notes | Black vinyl 12" LP.<br><br>Record in white paper sleeve + colour 12"x12" info insert.<br><br>Download card included to redeem all tracks as mp3's.<br> |
 | Discogs URL    | [Mark Morriss - A Flash Of Darkness](https://www.discogs.com/release/5871313-Mark-Morriss-A-Flash-Of-Darkness) |

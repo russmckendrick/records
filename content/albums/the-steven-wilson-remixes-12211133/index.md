@@ -4,6 +4,7 @@ artist_name: "Yes"
 artist: "yes"
 album_name: "The Steven Wilson Remixes"
 date: 2018-07-04T17:36:46.000000Z
+release_date: "2018-06-29"
 release_id: "12211133"
 slug: "the-steven-wilson-remixes-12211133"
 hideSummary: true
@@ -49,46 +50,49 @@ styles: ["Prog Rock"]
 ---
 
 The Steven Wilson Remixes is a box set by the English progressive rock band Yes. Released on 29 June 2018, it compiles remixed versions of five of the band's albums—The Yes Album (1971), Fragile (1971), Close to the Edge (1972), Tales from Topographic Oceans (1973), and Relayer (1974)—overseen by Steven Wilson.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Yes Album (2014 Remix)
-2. Yours Is No Disgrace (9:40)
-3. Clap (3:16)
-4. Starship Trooper (9:26)
-5. I've Seen All Good People (6:57)
-6. A Venture (3:16)
-7. Perpetual Change (8:50)
-8. Fragile (2015 Remix)
-9. Roundabout (8:35)
-10. Cans And Brahms (1:35)
-11. We Have Heaven (1:30)
-12. South Side Of The Sky (8:04)
-13. Five Per Cent For Nothing (0:35)
-14. Long Distance Runaround (3:33)
-15. The Fish (Schindleria Praematurus) (2:35)
-16. Mood For A Day (2:57)
-17. Heart Of The Sunrise (10:34)
-18. Close To The Edge (2013 Remix)
-19. Close To The Edge (18:40)
-20. Seasons Of Man
-21. And You And I (10:07)
-22. Siberian Khatru (8:57)
-23. Tales From Topographic Oceans (2016 Remix)
-24. The Revealing Science Of God (Dance Of The Dawn) (22:01)
-25. The Remembering (High The Memory) (20:38)
-26. The Ancient (Giants Under The Sun) (18:34)
-27. The Ritual (Nous Sommes Du Soleil) (21:35)
-28. Relayer (2016 Remix)
-29. The Gates Of Delirium (21:55)
-30. Sound Chaser (9:25)
-31. To Be Over (9:08)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Yes Album (2014 Remix) |  |
+| A1 | Yours Is No Disgrace | 9:40 |
+| A2 | Clap | 3:16 |
+|  | Starship Trooper | 9:26 |
+|  | I've Seen All Good People | 6:57 |
+| B2 | A Venture | 3:16 |
+| B3 | Perpetual Change | 8:50 |
+|  | Fragile (2015 Remix) |  |
+| C1 | Roundabout | 8:35 |
+| C2 | Cans And Brahms | 1:35 |
+| C3 | We Have Heaven | 1:30 |
+| C4 | South Side Of The Sky | 8:04 |
+| D1 | Five Per Cent For Nothing | 0:35 |
+| D2 | Long Distance Runaround | 3:33 |
+| D3 | The Fish (Schindleria Praematurus) | 2:35 |
+| D4 | Mood For A Day | 2:57 |
+| D5 | Heart Of The Sunrise | 10:34 |
+|  | Close To The Edge (2013 Remix) |  |
+|  | Close To The Edge | 18:40 |
+| E1-IV | Seasons Of Man |  |
+|  | And You And I | 10:07 |
+| F2 | Siberian Khatru | 8:57 |
+|  | Tales From Topographic Oceans (2016 Remix) |  |
+| G1 | The Revealing Science Of God (Dance Of The Dawn) | 22:01 |
+| H1 | The Remembering (High The Memory) | 20:38 |
+| I1 | The Ancient (Giants Under The Sun) | 18:34 |
+| J1 | The Ritual (Nous Sommes Du Soleil) | 21:35 |
+|  | Relayer (2016 Remix) |  |
+| K1 | The Gates Of Delirium | 21:55 |
+| L1 | Sound Chaser | 9:25 |
+| L2 | To Be Over | 9:08 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-steven-wilson-remixes/1404263939" >}}<br>
-
 
 
 
@@ -102,5 +106,5 @@ The Steven Wilson Remixes is a box set by the English progressive rock band Yes.
 | Format         | Box Set Compilation, Vinyl LP Album (Gatefold), Vinyl LP Album (Gatefold), Vinyl LP Album (Gatefold), Vinyl 2× LP Album (Gatefold), Vinyl LP Album (Gatefold), All Media Remastered Stereo (Remixed, 180g) |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 562476 |
-| Notes | [Hype sticker] Featuring new cover art by [url=https://www.discogs.com/artist/1826912]Roger Dean[/url] The [a227943] Remixes on vinyl for the first time [m=34991] [m=34934] [m=35006] [m=35036] [m=35126] R1 562476  Includes remixed versions of: [m=34991] (1971), [m=34934] (1971), [m=35006] (1972), the double album [m=35036] (1973), and [m=35126] (1974). Each album features remixed audio by renowned producer [a227943], released on vinyl for the first time.  The outer box features artwork created specifically for the set by [url=https://www.discogs.com/artist/1826912]Roger Dean[/url], who also created new cover art for [m=35006] and [m=35036], and reworked cover art for [m=34991], [m=34934], and [m=35126].  Made in EU [printed on all disc labels] Printed in U.S.A. [printed on The Yes Album rear cover]  This release differs from the [url=https://www.discogs.com/release/12231071]EU release[/url] based on the cat# printed on the box set spine and hype sticker - this release shows "R1 562476" whereas the EU release shows "081227934019".  The track durations on the rear cover of The Yes Album do not match the durations indicated on the disc labels. There is also a misprint on side L label (Relayer, side B): track L2 ("To Be Over") is numbered "1" rather than "2".  Runouts are etched.   |
+| Notes | [Hype sticker]<br>Featuring new cover art by [url=https://www.discogs.com/artist/1826912]Roger Dean[/url]<br>The [a227943] Remixes on vinyl for the first time<br>[m=34991]<br>[m=34934]<br>[m=35006]<br>[m=35036]<br>[m=35126]<br>R1 562476<br><br>Includes remixed versions of: [m=34991] (1971), [m=34934] (1971), [m=35006] (1972), the double album [m=35036] (1973), and [m=35126] (1974). Each album features remixed audio by renowned producer [a227943], released on vinyl for the first time.<br><br>The outer box features artwork created specifically for the set by [url=https://www.discogs.com/artist/1826912]Roger Dean[/url], who also created new cover art for [m=35006] and [m=35036], and reworked cover art for [m=34991], [m=34934], and [m=35126].<br><br>Made in EU [printed on all disc labels]<br>Printed in U.S.A. [printed on The Yes Album rear cover]<br><br>This release differs from the [url=https://www.discogs.com/release/12231071]EU release[/url] based on the cat# printed on the box set spine and hype sticker - this release shows "R1 562476" whereas the EU release shows "081227934019".<br><br>The track durations on the rear cover of The Yes Album do not match the durations indicated on the disc labels. There is also a misprint on side L label (Relayer, side B): track L2 ("To Be Over") is numbered "1" rather than "2".<br><br>Runouts are etched.<br><br> |
 | Discogs URL    | [Yes - The Steven Wilson Remixes](https://www.discogs.com/release/12211133-Yes-The-Steven-Wilson-Remixes) |

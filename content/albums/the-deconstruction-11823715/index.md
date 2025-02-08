@@ -42,52 +42,44 @@ Lead singer Mark Oliver Everett’s mellow tones remain soothingly constant with
 
 
 ## Tracklisting
-1. The Deconstruction
-2. Bone Dry
-3. The Quandary
-4. Premonition
-5. Rusty Pipes
-6. The Epiphany
-7. Today Is The Day
-8. Sweet Scorched Earth
-9. Coming Back
-10. Be Hurt
-11. You Are The Shining Light
-12. There I Said It
-13. Archie Goodnight
-14. The Unanswerable
-15. In Our Cathedral
-16. The Deconstruction	
-17. Bone Dry
-18. The Quandry
-19. Premonition
-20. Rusty Pipes
-21. The Epiphany
-22. Today Is The Day
-23. Sweet Scorched Earth
-24. Coming Back
-25. Be Hurt
-26. You Are The Shining Light
-27. There I Said It
-28. Archie Goodnight
-29. The Unanswerable
-30. In Our Cathedral
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Deconstruction |  |
+| A2 | Bone Dry |  |
+| A3 | The Quandary |  |
+| A4 | Premonition |  |
+| B1 | Rusty Pipes |  |
+| B2 | The Epiphany |  |
+| B3 | Today Is The Day |  |
+| C1 | Sweet Scorched Earth |  |
+| C2 | Coming Back |  |
+| C3 | Be Hurt |  |
+| C4 | You Are The Shining Light |  |
+| D1 | There I Said It |  |
+| D2 | Archie Goodnight |  |
+| D3 | The Unanswerable |  |
+| D4 | In Our Cathedral |  |
+| CD-1 | The Deconstruction	 |  |
+| CD-2 | Bone Dry |  |
+| CD-3 | The Quandry |  |
+| CD-4 | Premonition |  |
+| CD-5 | Rusty Pipes |  |
+| CD-6 | The Epiphany |  |
+| CD-7 | Today Is The Day |  |
+| CD-8 | Sweet Scorched Earth |  |
+| CD-9 | Coming Back |  |
+| CD-10 | Be Hurt |  |
+| CD-11 | You Are The Shining Light |  |
+| CD-12 | There I Said It |  |
+| CD-13 | Archie Goodnight |  |
+| CD-14 | The Unanswerable |  |
+| CD-15 | In Our Cathedral |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-deconstruction/1330700343" >}}<br>
 
 
-## Videos
-### EELS - The Deconstruction - title track AUDIO
-{{< youtube id="59Au8TUVakg" title="EELS - The Deconstruction - title track AUDIO" >}}<br>
-### More Videos
-
-- [EELS - Premonition AUDIO - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=-Ohw7xQ_9Cs)
-- [EELS - Bone Dry - Official Video](https://www.youtube.com/watch?v=l6CNDk4yJnU)
-- [EELS - The Unanswerable AUDIO - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=scBTg78OevM)
-- [EELS - The Quandary AUDIO - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=FsCkx8YVtSk)
-- [EELS - Be Hurt AUDIO - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=Tju1_bwzLFw)
-- [EELS - Coming Back AUDIO - from THE DECONSTRUCTION](https://www.youtube.com/watch?v=jfrEpjWyCYc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -99,5 +91,5 @@ Lead singer Mark Oliver Everett’s mellow tones remain soothingly constant with
 | Format         | Vinyl 2× 12" 45 RPM (Pink), CD Album, Box Set Deluxe Edition |
 | Label          | E Works Records |
 | Catalog Number | EWORKS1150LPX |
-| Notes | Deluxe box set contains: - 2 x 12" pink vinyl in printed sleeves - digipack cd - 28 page lyric booklet with exclusive photos - 12" artwork print - A4 copy of handwritten "Rusty Pipes" lyrics - E "tip & strip" pen - digital download code |
+| Notes | Deluxe box set contains:<br>- 2 x 12" pink vinyl in printed sleeves<br>- digipack cd<br>- 28 page lyric booklet with exclusive photos<br>- 12" artwork print<br>- A4 copy of handwritten "Rusty Pipes" lyrics<br>- E "tip & strip" pen<br>- digital download code |
 | Discogs URL    | [Eels - The Deconstruction](https://www.discogs.com/release/11823715-Eels-The-Deconstruction) |

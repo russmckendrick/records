@@ -4,6 +4,7 @@ artist_name: "Willie Nelson"
 artist: "willie-nelson"
 album_name: "20 Golden Hits"
 date: 2015-12-17T08:50:29.000000Z
+release_date: "2004-03-29"
 release_id: "3441920"
 slug: "20-golden-hits-3441920"
 hideSummary: true
@@ -21,32 +22,37 @@ styles: ["Country"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Any Old Arms Won't Do (2:47)
-2. Slow Down Old World (1:51)
-3. Healing Hands Of Time (2:13)
-4. And So Will You My Love (3:16)
-5. Things To Remember (1:45)
-6. One Step Beyond (2:00)
-7. Undo The Wrong (2:57)
-8. Home Is Where You're Happy (3:01)
-9. Why Are You Picking On Me? (1:55)
-10. I Hope So (2:35)
-11. I Let My Mind Wonder (3:44)
-12. December Days (2:32)
-13. I Can't Find The Time (2:41)
-14. I Didn't Sleep A Wink (2:11)
-15. You Wouldn't Cross The Street To Say Goodbye (1:47)
-16. Suffering In Silence (2:27)
-17. I Feel Sorry For Him (2:19)
-18. You'll Always Have Someone (2:56)
-19. I Just Don't Understand (2:48)
-20. Pages (1:57)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Any Old Arms Won't Do | 2:47 |
+| A2 | Slow Down Old World | 1:51 |
+| A3 | Healing Hands Of Time | 2:13 |
+| A4 | And So Will You My Love | 3:16 |
+| A5 | Things To Remember | 1:45 |
+| A6 | One Step Beyond | 2:00 |
+| A7 | Undo The Wrong | 2:57 |
+| A8 | Home Is Where You're Happy | 3:01 |
+| A9 | Why Are You Picking On Me? | 1:55 |
+| A10 | I Hope So | 2:35 |
+| B1 | I Let My Mind Wonder | 3:44 |
+| B2 | December Days | 2:32 |
+| B3 | I Can't Find The Time | 2:41 |
+| B4 | I Didn't Sleep A Wink | 2:11 |
+| B5 | You Wouldn't Cross The Street To Say Goodbye | 1:47 |
+| B6 | Suffering In Silence | 2:27 |
+| B7 | I Feel Sorry For Him | 2:19 |
+| B8 | You'll Always Have Someone | 2:56 |
+| B9 | I Just Don't Understand | 2:48 |
+| B10 | Pages | 1:57 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/willie-nelson-the-collection/762172426" >}}<br>
-
 
 
 

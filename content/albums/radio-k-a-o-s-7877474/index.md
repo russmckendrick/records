@@ -4,6 +4,7 @@ artist_name: "Roger Waters"
 artist: "roger-waters"
 album_name: "Radio K.A.O.S."
 date: 2018-10-24T11:39:39.000000Z
+release_date: "1987-06-16"
 release_id: "7877474"
 slug: "radio-k-a-o-s-7877474"
 hideSummary: true
@@ -23,23 +24,26 @@ Radio K.A.O.S. is the second solo studio album by the English rock musician Roge
 The album follows Billy, a mentally and physically disabled man from Wales, forced to live with his uncle David in Los Angeles after his brother Benny is sent to prison following an act intended to support striking coal miners which results in the death of a taxi driver, and his dismissal from his mining job due to "market forces". The album explores Billy's view of the world through an on-air conversation between him and Jim, a disc jockey (DJ) at a fictitious local radio station named Radio KAOS.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Radio Waves (4:58)
-2. Who Needs Information (5:45)
-3. Me Or Him (5:28)
-4. The Powers That Be (4:09)
-5. Sunset Strip (5:02)
-6. Home (6:37)
-7. Four Minutes (4:40)
-8. The Tide Is Turning (After Live Aid) (5:44)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Radio Waves | 4:58 |
+| A2 | Who Needs Information | 5:45 |
+| A3 | Me Or Him | 5:28 |
+| A4 | The Powers That Be | 4:09 |
+| B1 | Sunset Strip | 5:02 |
+| B2 | Home | 6:37 |
+| B3 | Four Minutes | 4:40 |
+| B4 | The Tide Is Turning (After Live Aid) | 5:44 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/radio-k-a-o-s/180102794" >}}<br>
-
 
 
 
@@ -53,5 +57,5 @@ The album follows Billy, a mentally and physically disabled man from Wales, forc
 | Format         | Vinyl LP Album Promo |
 | Label          | EMI |
 | Catalog Number | 074 24 0783 1 |
-| Notes | Disco destinado a promoción prohibida su venta. ℗ Grabación sonora original  realizada por Roger Waters Music Ltd. baja licencia exclusiva a EMI Records Ltd. 1987  © 1987 Roger Waters Music Ltd. bajo licencia exclusiva a EMI Records Ltd. Editado por EMI-Odeon S.A.  Imprime Indugraf Madrid S.A. - Alcorcon (Madrid)  Made in Spain. |
+| Notes | Disco destinado a promoción prohibida su venta.<br>℗ Grabación sonora original  realizada por Roger Waters Music Ltd. baja licencia exclusiva a EMI Records Ltd. 1987<br><br>© 1987 Roger Waters Music Ltd. bajo licencia exclusiva a EMI Records Ltd. Editado por EMI-Odeon S.A.<br><br>Imprime Indugraf Madrid S.A. - Alcorcon (Madrid)<br><br>Made in Spain. |
 | Discogs URL    | [Roger Waters - Radio K.A.O.S.](https://www.discogs.com/release/7877474-Roger-Waters-Radio-KAOS) |

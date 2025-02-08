@@ -4,6 +4,7 @@ artist_name: "Chapterhouse"
 artist: "chapterhouse"
 album_name: "The Best Of Chapterhouse"
 date: 2019-11-09T13:46:57.000000Z
+release_date: "2007-05-04"
 release_id: "14377153"
 slug: "the-best-of-chapterhouse-14377153"
 hideSummary: true
@@ -23,34 +24,34 @@ styles: ["Indie Rock", "Shoegaze"]
 ---
 
 The Best of Chapterhouse is a greatest hits compilation album by English shoegazing band Chapterhouse released in 2007 on CD. The inner sleeve features a brief history of Chapterhouse written by Michael Heatley.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. We Are The Beautiful
-2. Falling Down
-3. Pearl
-4. Mesmerise
-5. Autosleeper
-6. Come Heaven
-7. Breather
-8. She's A Vision
-9. There's Still Life
-10. Love Forever
-11. Then We'll Rise
-12. In My Arms
-13. Ecstasy II
-14. Something More
-15. On The Way To Fly
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | We Are The Beautiful |  |
+| A2 | Falling Down |  |
+| A3 | Pearl |  |
+| A4 | Mesmerise |  |
+| B1 | Autosleeper |  |
+| B2 | Come Heaven |  |
+| B3 | Breather |  |
+| B4 | She's A Vision |  |
+| C1 | There's Still Life |  |
+| C2 | Love Forever |  |
+| C3 | Then We'll Rise |  |
+| D1 | In My Arms |  |
+| D2 | Ecstasy II |  |
+| D3 | Something More |  |
+| D4 | On The Way To Fly |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-chapterhouse/257476852" >}}<br>
 
-
-## Videos
-### Theres Still Life
-{{< youtube id="AiynkKAGQ30" title="Theres Still Life" >}}<br>
 
 
 ## Release Images
@@ -63,5 +64,5 @@ The Best of Chapterhouse is a greatest hits compilation album by English shoegaz
 | Format         | Vinyl 2× LP Compilation Limited Edition Numbered Reissue (Purple & Pink Marble) |
 | Label          | Sony Music |
 | Catalog Number | MOVLP2568 |
-| Notes | Limited edition of 1500 copies. Gatefold sleeve, inner sleeves are die cut, poly lined white paper. Runouts are etched. Made in the EU on labels and rear of sleeve. ℗ 2007 Sony Music Entertainment. © 2007, 2019 Sony Music Entertainment. |
+| Notes | Limited edition of 1500 copies.<br>Gatefold sleeve, inner sleeves are die cut, poly lined white paper.<br>Runouts are etched.<br>Made in the EU on labels and rear of sleeve.<br>℗ 2007 Sony Music Entertainment. © 2007, 2019 Sony Music Entertainment. |
 | Discogs URL    | [Chapterhouse - The Best Of Chapterhouse](https://www.discogs.com/release/14377153-Chapterhouse-The-Best-Of-Chapterhouse) |

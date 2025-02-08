@@ -4,6 +4,7 @@ artist_name: "Black Label Society"
 artist: "black-label-society"
 album_name: "Unblackened"
 date: 2016-04-09T08:07:10.000000Z
+release_date: "2013-09-24"
 release_id: "6224254"
 slug: "unblackened-6224254"
 hideSummary: true
@@ -32,60 +33,43 @@ Unblackened  is a live acoustic album by American heavy metal band Black Label S
 Disc 1 consists of live tracks and disc 2 also consists of live tracks among six newly recorded songs, three of which are re-recordings of previously released songs from the band's studio albums.
 The album was announced back in 2012, but the release was delayed due to the postponement of the show, which was settled to be recorded in August. Black Label Society started the pre-ordering of the album in August 2013, also offering a deluxe edition box set containing a double live CD pack, a DVD of the show, a replica of Zakk Wylde's pewter dagger necklace, a photo book with photos taken from the show, and a custom package.
 On August 9, 2013, "Ain't No Sunshine When She's Gone" was released as a single through iTunes in North America.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Losin' Your Mind (5:47)
-2. The Blessed Hellride (4:23)
-3. Sold My Soul (7:36)
-4. Road Back Home (6:10)
-5. Spoke In The Wheel (5:17)
-6. House Of Doom (4:22)
-7. Queen Of Sorrow (3:48)
-8. Machine Gun Man (4:51)
-9. Sweet Jesus (4:38)
-10. In This River (6:41)
-11. Throwin' It All Away (11:07)
-12. Takillya (Estyabon) (1:39)
-13. Won't Find It Here (8:47)
-14. Rust (5:27)
-15. Speedball (1:05)
-16. I Thank You Child (5:02)
-17. Stillborn (8:25)
-18. Ain't No Sunshine When She's Gone (3:31)
-19. Lovin' Woman (5:05)
-20. Queen Of Sorrow (Unplugged) (4:14)
-21. Song For You (5:08)
-22. Won't Find It Here (Unplugged) (6:55)
-23. Yesterday, Today, Tomorrow (4:45)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Losin' Your Mind | 5:47 |
+| A2 | The Blessed Hellride | 4:23 |
+| A3 | Sold My Soul | 7:36 |
+| A4 | Road Back Home | 6:10 |
+| B1 | Spoke In The Wheel | 5:17 |
+| B2 | House Of Doom | 4:22 |
+| B3 | Queen Of Sorrow | 3:48 |
+| B4 | Machine Gun Man | 4:51 |
+| B5 | Sweet Jesus | 4:38 |
+| C1 | In This River | 6:41 |
+| C2 | Throwin' It All Away | 11:07 |
+| C3 | Takillya (Estyabon) | 1:39 |
+| D1 | Won't Find It Here | 8:47 |
+| D2 | Rust | 5:27 |
+| D3 | Speedball | 1:05 |
+| D4 | I Thank You Child | 5:02 |
+| E1 | Stillborn | 8:25 |
+| E2 | Ain't No Sunshine When She's Gone | 3:31 |
+| E3 | Lovin' Woman | 5:05 |
+| E4 | Queen Of Sorrow (Unplugged) | 4:14 |
+| F1 | Song For You | 5:08 |
+| F2 | Won't Find It Here (Unplugged) | 6:55 |
+| F3 | Yesterday, Today, Tomorrow | 4:45 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/unblackened-live/1504797619" >}}<br>
 
 
-## Videos
-### Sold My Soul - Black Label Society Unblackened
-{{< youtube id="PH8An0MFF2A" title="Sold My Soul - Black Label Society Unblackened" >}}<br>
-### More Videos
-
-- [Rust- Black Label Society Unblackened](https://www.youtube.com/watch?v=7FPkcpP9NWY)
-- [In This River- Black Label Society Unblackened](https://www.youtube.com/watch?v=ZdYB4kq4_IU)
-- [Losin Your Mind- Black Label Society Unblackened](https://www.youtube.com/watch?v=8WOh9igfGv0)
-- [Lovin Woman- Black Label Society Unblackened](https://www.youtube.com/watch?v=EIGiWQy1A2w)
-- [Yesterday Today Tomorrow- Black Label Society Unblackened](https://www.youtube.com/watch?v=-jtP4SYwoPs)
-- [Throwin it all Away-Black Label Society Unblackened](https://www.youtube.com/watch?v=55ofHYBDLNQ)
-- [Stillborn-Black Label Society Unblackened](https://www.youtube.com/watch?v=FhdaThpugpI)
-- [Sold My Soul - Black Label Society Unblackened](https://www.youtube.com/watch?v=PH8An0MFF2A)
-- [Sold My Soul - Black Label Society Unblackened](https://www.youtube.com/watch?v=PH8An0MFF2A)
-- [Rust- Black Label Society Unblackened](https://www.youtube.com/watch?v=7FPkcpP9NWY)
-- [In This River- Black Label Society Unblackened](https://www.youtube.com/watch?v=ZdYB4kq4_IU)
-- [Losin Your Mind- Black Label Society Unblackened](https://www.youtube.com/watch?v=8WOh9igfGv0)
-- [Lovin Woman- Black Label Society Unblackened](https://www.youtube.com/watch?v=EIGiWQy1A2w)
-- [Yesterday Today Tomorrow- Black Label Society Unblackened](https://www.youtube.com/watch?v=-jtP4SYwoPs)
-- [Throwin it all Away-Black Label Society Unblackened](https://www.youtube.com/watch?v=55ofHYBDLNQ)
-- [Stillborn-Black Label Society Unblackened](https://www.youtube.com/watch?v=FhdaThpugpI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -97,5 +81,5 @@ On August 9, 2013, "Ain't No Sunshine When She's Gone" was released as a single 
 | Format         | Vinyl 3× LP Album Limited Edition (Clear) |
 | Label          | Vinyl Vault |
 | Catalog Number | VV3LP011 |
-| Notes | Vinyl Vault is proud to present Unblackened, the new live album from Zack Wylde’s legendary heavy rock outfit Black Label Society recorded in 2013 at Los Angeles’ Club Nokia. BLS present their songs in a way never heard before, with greater use of acoustic instrumentation and a stripped down approach that will leave you floored by the subtlety and intricacies of their songwriting. Despite this the band retain their intensity and lose none of their power with stinging, searing solos that fans know and love featuring throughout on classics such as ‘Stillborn, ‘The Blessed Hellride’ and ‘Throwin’ It All Away’.   This 3LP set also features six additional tracks not found on the DVD concert release including two acoustic versions of “Queen Of Sorrow” and “Won’t Find It Here,” and covers of Leon Russel’s “Song For You” and “Aint No Sunshine” by Bill Withers.   |
+| Notes | Vinyl Vault is proud to present Unblackened, the new live album from Zack Wylde’s legendary heavy rock outfit Black Label Society recorded in 2013 at Los Angeles’ Club Nokia. BLS present their songs in a way never heard before, with greater use of acoustic instrumentation and a stripped down approach that will leave you floored by the subtlety and intricacies of their songwriting. Despite this the band retain their intensity and lose none of their power with stinging, searing solos that fans know and love featuring throughout on classics such as ‘Stillborn, ‘The Blessed Hellride’ and ‘Throwin’ It All Away’. <br>This 3LP set also features six additional tracks not found on the DVD concert release including two acoustic versions of “Queen Of Sorrow” and “Won’t Find It Here,” and covers of Leon Russel’s “Song For You” and “Aint No Sunshine” by Bill Withers.<br> |
 | Discogs URL    | [Black Label Society - Unblackened](https://www.discogs.com/release/6224254-Black-Label-Society-Unblackened) |

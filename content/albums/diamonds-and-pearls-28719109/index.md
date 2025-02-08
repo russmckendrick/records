@@ -39,23 +39,25 @@ But Tony M. isn’t the only vocalist to share the mic with Prince on <i>Diamond
 
 
 ## Tracklisting
-1. Thunder (5:45)
-2. Daddy Pop (5:16)
-3. Diamonds And Pearls (4:43)
-4. Cream (4:12)
-5. Strollin' (3:46)
-6. Willing And Able (4:59)
-7. Gett Off (4:31)
-8. Walk Don't Walk (3:07)
-9. Jughead (4:56)
-10. Money Don't Matter 2 Night (4:46)
-11. Push (5:52)
-12. Insatiable (6:39)
-13. Live 4 Love (Last Words From The Cockpit) (6:59)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Thunder | 5:45 |
+| A2 | Daddy Pop | 5:16 |
+| A3 | Diamonds And Pearls | 4:43 |
+| B1 | Cream | 4:12 |
+| B2 | Strollin' | 3:46 |
+| B3 | Willing And Able | 4:59 |
+| B4 | Gett Off | 4:31 |
+| C1 | Walk Don't Walk | 3:07 |
+| C2 | Jughead | 4:56 |
+| C3 | Money Don't Matter 2 Night | 4:46 |
+| C4 | Push | 5:52 |
+| D1 | Insatiable | 6:39 |
+| D2 | Live 4 Love (Last Words From The Cockpit) | 6:59 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/diamonds-and-pearls/260373146" >}}<br>
-
 
 
 
@@ -69,5 +71,5 @@ But Tony M. isn’t the only vocalist to share the mic with Prince on <i>Diamond
 | Format         | Vinyl 2× LP Album Limited Edition Remastered Stereo (Clear, 180g) |
 | Label          | NPG Records |
 | Catalog Number | 603497843817 |
-| Notes | Hype sticker on shrink-wrap: Prince's Iconic 1991 Album Remastered For The First Time Includes "Gett Off" "Cream" and "Diamonds And Pearls" Limited-Edition 180g  2-LP Clear Vinyl  Housed in foil-wrap cover with spot varnish on front/back cover and spine. Issued with records in printed inner sleeves..  Record labels show artist as "Prince And The N.P.G." and add "Original Album Remastered" before tracklist.  On cover: ℗ & © 2023, 1991 NPG Records, LLC, under exclusive license to Warner Records Inc., a Warner Music Group Company, for the world outside the U.S.A. Made in Germany. R1 25379 / 603497843817   "Made in Germany" sticker affixed on rear shrink-wrap.  In runouts, "1X", "T1", "2V" are mirrored. All is etched.  |
+| Notes | Hype sticker on shrink-wrap:<br>Prince's Iconic 1991 Album Remastered For The First Time<br>Includes "Gett Off" "Cream" and "Diamonds And Pearls"<br>Limited-Edition 180g <br>2-LP Clear Vinyl<br><br>Housed in foil-wrap cover with spot varnish on front/back cover and spine. Issued with records in printed inner sleeves..<br><br>Record labels show artist as "Prince And The N.P.G." and add "Original Album Remastered" before tracklist.<br><br>On cover:<br>℗ & © 2023, 1991 NPG Records, LLC, under exclusive license to Warner Records Inc., a Warner Music Group Company, for the world outside the U.S.A.<br>Made in Germany. R1 25379 / 603497843817 <br><br>"Made in Germany" sticker affixed on rear shrink-wrap.<br><br>In runouts, "1X", "T1", "2V" are mirrored. All is etched.<br> |
 | Discogs URL    | [Prince - Diamonds And Pearls](https://www.discogs.com/release/28719109-Prince-The-New-Power-Generation-Diamonds-And-Pearls) |

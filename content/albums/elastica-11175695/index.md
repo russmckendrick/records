@@ -1,9 +1,10 @@
 ---
 title: "Elastica - Elastica"
 artist_name: "Elastica"
-artist: "elastica-2"
+artist: "elastica"
 album_name: "Elastica"
 date: 2017-11-22T20:15:07.000000Z
+release_date: "2009-10-15"
 release_id: "11175695"
 slug: "elastica-11175695"
 hideSummary: true
@@ -27,49 +28,36 @@ styles: ["Alternative Rock", "Britpop"]
 
 "Connection" is a song by Britpop group Elastica. It was originally released on 10 October 1994 as a single and included on their self-titled debut album in 1995. The song debuted and peaked at number 17 on the UK Singles Chart and became one of the few Britpop songs to gain popularity in North America, reaching number 53 on the US Billboard Hot 100, number two on the Billboard Modern Rock Tracks chart, and number nine on the Canadian RPM 100 Hit Tracks chart. In an interview with Zane Lowe, Damon Albarn mentions playing the synthesizer intro on a Yamaha QY10 handheld sequencer.
 The song was the subject of controversy due to its overt similarity to another band's work. The intro synthesizer part (later repeated as a guitar figure) is lifted from the guitar riff in Wire's "Three Girl Rhumba" and transposed down a semitone. A judgment resulted in an out-of-court settlement and the credits were rewritten. Jonathan Perry writing for The Phoenix noted the similarities to Wire. He included the song in a list of the 90 best songs of the 90s, writing: "'Connection', Elastica's obsessively catchy stateside breakthrough, nicked its signature opening riff from Wire's 'Three Girl Rhumba' – an overzealous (and uncredited) 'homage' that proved that though imitation may indeed be the highest form of flattery, it can also cost in publishing royalties. Great song, though."
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Line Up
-2. Annie
-3. Connection
-4. Car Song
-5. Smile
-6. Hold Me Now
-7. S.O.F.T.
-8. Indian Song
-9. Blue
-10. All-Nighter
-11. Waking Up
-12. 2:1
-13. Vaseline
-14. Never Here
-15. Stutter
-16. In The City
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Line Up |  |
+| A2 | Annie |  |
+| A3 | Connection |  |
+| A4 | Car Song |  |
+| A5 | Smile |  |
+| A6 | Hold Me Now |  |
+| A7 | S.O.F.T. |  |
+| A8 | Indian Song |  |
+| B1 | Blue |  |
+| B2 | All-Nighter |  |
+| B3 | Waking Up |  |
+| B4 | 2:1 |  |
+| B5 | Vaseline |  |
+| B6 | Never Here |  |
+| B7 | Stutter |  |
+| C | In The City |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/elastica-ep/335629816" >}}<br>
 
 
-## Videos
-### Elastica - Line Up
-{{< youtube id="g7Y7vH2XsAM" title="Elastica - Line Up" >}}<br>
-### More Videos
-
-- [Elastica - Connection Official Music Video](https://www.youtube.com/watch?v=ilKcXIFi-Rc)
-- [Elastica - Waking Up](https://www.youtube.com/watch?v=WlOje4ly4hg)
-- [Elastica - Stutter](https://www.youtube.com/watch?v=0ie4x8hWYYE)
-- [Elastica - Car Song](https://www.youtube.com/watch?v=djjw3BKUV28)
-- [Indian Song  Elastica](https://www.youtube.com/watch?v=aCEntBulV9U)
-- [Connection  Elastica](https://www.youtube.com/watch?v=5nLLofBZr3o)
-- [Elastica  Connection](https://www.youtube.com/watch?v=iKoEIzxMxfQ)
-- [21](https://www.youtube.com/watch?v=5iE5vu1Mj2g)
-- [Vaseline](https://www.youtube.com/watch?v=GjwQ811cBL8)
-- [Annie  Elastica](https://www.youtube.com/watch?v=L5FDA8sp2bU)
-- [Stutter  Elastica](https://www.youtube.com/watch?v=Lex-7TJN5Qk)
-- [Car Song  Elastica](https://www.youtube.com/watch?v=9tX7QnheAPA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +69,5 @@ The song was the subject of controversy due to its overt similarity to another b
 | Format         | Vinyl LP Album Reissue, Flexi-disc 7" 45 RPM Single Sided, All Media Limited Edition |
 | Label          | Rough Trade |
 | Catalog Number | RTRADLP914 |
-| Notes | Release comes with flexi-disc, and replica of Elasticatalogue.  "In The City" credits: Published by EMI Music Publishing Recorded 16 March 1994 for the BBC Radio One Steve Lamacq Evening Session released with arrangement with BBC Music. P 1994 BBC Music C 2017 Rough Trade Records |
+| Notes | Release comes with flexi-disc, and replica of Elasticatalogue.<br><br>"In The City" credits:<br>Published by EMI Music Publishing<br>Recorded 16 March 1994 for the BBC Radio One<br>Steve Lamacq Evening Session<br>released with arrangement with BBC Music.<br>P 1994 BBC Music<br>C 2017 Rough Trade Records |
 | Discogs URL    | [Elastica - Elastica](https://www.discogs.com/release/11175695-Elastica-2-Elastica) |

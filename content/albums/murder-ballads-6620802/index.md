@@ -1,6 +1,6 @@
 ---
-title: "Nick Cave & The Bad Seeds - Murder Ballads"
-artist_name: "Nick Cave & The Bad Seeds"
+title: "Nick Cave  The Bad Seeds - Murder Ballads"
+artist_name: "Nick Cave  The Bad Seeds"
 artist: "nick-cave-the-bad-seeds"
 album_name: "Murder Ballads"
 date: 2016-10-01T10:34:00.000000Z
@@ -10,8 +10,8 @@ slug: "murder-ballads-6620802"
 hideSummary: true
 cover:
     image: "murder-ballads-6620802.jpg"
-    alt: "Murder Ballads by Nick Cave & The Bad Seeds"
-    caption: "Murder Ballads by Nick Cave & The Bad Seeds"
+    alt: "Murder Ballads by Nick Cave  The Bad Seeds"
+    caption: "Murder Ballads by Nick Cave  The Bad Seeds"
 additional_images:
     - "https://i.discogs.com/S8bQSXjiGBRSSxa_EZxP9sMtcpgxUbtrMYm0axhrXv8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjA4/MDItMTcxOTA3NTgx/NS01NDI4LmpwZWc.jpeg"
     - "https://i.discogs.com/enFDEvD2Axe_i4pf2u7KETTsavSf2BwPj8tNp-yLz6k/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjA4/MDItMTQyNjI1OTg5/Ni03NDg1LmpwZWc.jpeg"
@@ -41,45 +41,24 @@ So, what’s it all about? Through these broken people, and all their butchery a
 
 
 ## Tracklisting
-1. Song Of Joy (6:47)
-2. Henry Lee (5:15)
-3. Lovely Creature (3:58)
-4. Stagger Lee (4:13)
-5. Where The Wild Roses Grow (3:57)
-6. The Curse Of Millhaven (6:55)
-7. The Kindness Of Strangers (4:39)
-8. Crow Jane (4:14)
-9. O' Malley's Bar (14:28)
-10. Death Is Not The End (4:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Song Of Joy | 6:47 |
+| A2 | Henry Lee | 5:15 |
+| A3 | Lovely Creature | 3:58 |
+| A4 | Stagger Lee | 4:13 |
+| B5 | Where The Wild Roses Grow | 3:57 |
+| B6 | The Curse Of Millhaven | 6:55 |
+| B7 | The Kindness Of Strangers | 4:39 |
+| B8 | Crow Jane | 4:14 |
+| C9 | O' Malley's Bar | 14:28 |
+| C10 | Death Is Not The End | 4:26 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/murder-ballads-2011-remaster/1435815170" >}}<br>
 
 
-## Videos
-### Nick Cave  The Bad Seeds ft Kylie Minogue - Where The Wild Roses Grow Official HD Video
-{{< youtube id="lDpnjE1LUvE" title="Nick Cave  The Bad Seeds ft Kylie Minogue - Where The Wild Roses Grow Official HD Video" >}}<br>
-### More Videos
-
-- [Nick Cave  The Bad Seeds - Henry Lee ft PJ Harvey Official HD Video](https://www.youtube.com/watch?v=QzmMB8dTwGs)
-- [Nick Cave  The Bad Seeds - Stagger Lee Official HD Video](https://www.youtube.com/watch?v=Nbe5RERDh4k)
-- [Nick Cave  The Bad Seeds - Song of Joy Official Audio](https://www.youtube.com/watch?v=77oXG0VNghU)
-- [Nick Cave  The Bad Seeds - Stagger Lee Official Audio](https://www.youtube.com/watch?v=nwE4KUCw-lk)
-- [Nick Cave  The Bad Seeds - Henry Lee feat  P J Harvey Official Audio](https://www.youtube.com/watch?v=_sTc65f8Us0)
-- [Nick Cave  The Bad Seeds - Lovely Creature Official Audio](https://www.youtube.com/watch?v=i83CsZP8Wn4)
-- [Nick Cave  The Bad Seeds - Where The Wild Roses Grow Official Audio](https://www.youtube.com/watch?v=SsR1Ffqqeco)
-- [Nick Cave  The Bad Seeds - The Curse of Millhaven Official Audio](https://www.youtube.com/watch?v=AiIEhK0P-Rw)
-- [Nick Cave  The Bad Seeds - The Kindness of Strangers Official Audio](https://www.youtube.com/watch?v=Qm-7VudMYBc)
-- [Nick Cave  The Bad Seeds - Crow Jane Official Audio](https://www.youtube.com/watch?v=7sac7W8_iLg)
-- [Nick Cave  The Bad Seeds - OMalleys Bar Official Audio](https://www.youtube.com/watch?v=HGXt9JnXR_Y)
-- [Nick Cave  The Bad Seeds - Death Is Not the End Official Audio](https://www.youtube.com/watch?v=BXtDlD9U9iY)
-- [Song of Joy 2011 - Remaster](https://www.youtube.com/watch?v=hhxSf_l2QVc)
-- [Henry Lee feat PJ Harvey](https://www.youtube.com/watch?v=935ajbMo4bQ)
-- [Lovely Creature 2011 - Remaster](https://www.youtube.com/watch?v=DRf-NzeKL8M)
-- [Where the Wild Roses Grow 2011 - Remaster](https://www.youtube.com/watch?v=1e_t8npRGQo)
-- [The Kindness of Strangers 2011 - Remaster](https://www.youtube.com/watch?v=gunKL5lfUt4)
-- [Crow Jane 2011 - Remaster](https://www.youtube.com/watch?v=OAGczWEG7lw)
-- [Death Is Not the End 2011 - Remaster](https://www.youtube.com/watch?v=Nf5Y94tw30E)
 
 ## Release Images
 {{< imageGrid >}}
@@ -91,5 +70,5 @@ So, what’s it all about? Through these broken people, and all their butchery a
 | Format         | Vinyl LP, Vinyl LP Single Sided, All Media Album Reissue Remastered Stereo (180g) |
 | Label          | Mute |
 | Catalog Number | LPSEEDS9 |
-| Notes | Sides A to C contain music, side D is blank. Track numbers are listed sequentially regardless of side.  From front sticker on shrink wrap: Includes download code  Contains download card for [url=http://www.discogs.com/release/8065277]FLAC[/url] or [url=http://www.discogs.com/release/8065337]MP3[/url] files.  Issued with plain white paper inner sleeves.  Recorded in 1993-95 at Atlantis, Sing Sing and Metropolis Studios, Melbourne, Wessex Studios, London and mixed at Metropolis.  "Where The Wild Roses Grow" was mixed at Sarm West, London. Mastered at Whitfield Street  ℗ 2011 Mute Records Ltd, a BMG Company © 2014 Mute Records Ltd, a BMG Company  Runouts are etched |
-| Discogs URL    | [Nick Cave & The Bad Seeds - Murder Ballads](https://www.discogs.com/release/6620802-Nick-Cave-And-The-Bad-Seeds-Murder-Ballads) |
+| Notes | Sides A to C contain music, side D is blank.<br>Track numbers are listed sequentially regardless of side.<br><br>From front sticker on shrink wrap:<br>Includes download code<br><br>Contains download card for [url=http://www.discogs.com/release/8065277]FLAC[/url] or [url=http://www.discogs.com/release/8065337]MP3[/url] files.<br><br>Issued with plain white paper inner sleeves.<br><br>Recorded in 1993-95 at Atlantis, Sing Sing and Metropolis Studios, Melbourne, Wessex Studios, London and mixed at Metropolis. <br>"Where The Wild Roses Grow" was mixed at Sarm West, London.<br>Mastered at Whitfield Street<br><br>℗ 2011 Mute Records Ltd, a BMG Company<br>© 2014 Mute Records Ltd, a BMG Company<br><br>Runouts are etched |
+| Discogs URL    | [Nick Cave  The Bad Seeds - Murder Ballads](https://www.discogs.com/release/6620802-Nick-Cave-And-The-Bad-Seeds-Murder-Ballads) |

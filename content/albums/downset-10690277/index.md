@@ -1,16 +1,17 @@
 ---
-title: "Downset. - Downset."
-artist_name: "Downset."
+title: "Downset - Downset."
+artist_name: "Downset"
 artist: "downset"
 album_name: "Downset."
 date: 2017-08-23T17:34:58.000000Z
+release_date: "1994-01-01"
 release_id: "10690277"
 slug: "downset-10690277"
 hideSummary: true
 cover:
     image: "downset-10690277.jpg"
-    alt: "Downset. by Downset."
-    caption: "Downset. by Downset."
+    alt: "Downset. by Downset"
+    caption: "Downset. by Downset"
 additional_images:
     - "https://i.discogs.com/UlkGljRooYXwxAGuW5g44tGKnDcrJq4y2JaRV2Eghg4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkw/Mjc3LTE2NDI0ODc2/NzgtMTQ4OC5qcGVn.jpeg"
     - "https://i.discogs.com/0sqJStsI1NcDmw8gqP4XboLw2k7rKLUyxbbAW8sl3W0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkw/Mjc3LTE2NDI0ODc2/ODMtMTg4My5qcGVn.jpeg"
@@ -32,44 +33,30 @@ styles: []
 downset. is the debut studio album by American rapcore band downset. The band's major label debut, it was released on July 12, 1994 by Mercury Records.According to Rey Oropeza, the album has sold 275,000 copies worldwide.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Anger! (4:12)
-2. Ritual (3:34)
-3. Take 'em Out (2:40)
-4. Prostitutionalized (3:13)
-5. Downset (3:02)
-6. My American Prayer (5:26)
-7. Holding Hands (3:16)
-8. About To Blast (2:56)
-9. Breed The Killer (2:51)
-10. Dying Of Thirst (3:22)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Anger! | 4:12 |
+| A2 | Ritual | 3:34 |
+| A3 | Take 'em Out | 2:40 |
+| A4 | Prostitutionalized | 3:13 |
+| A5 | Downset | 3:02 |
+| B1 | My American Prayer | 5:26 |
+| B2 | Holding Hands | 3:16 |
+| B3 | About To Blast | 2:56 |
+| B4 | Breed The Killer | 2:51 |
+| B5 | Dying Of Thirst | 3:22 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/downset/1443754337" >}}<br>
 
 
-## Videos
-### Downset - Downset
-{{< youtube id="NzyqdlrU4qs" title="Downset - Downset" >}}<br>
-### More Videos
-
-- [Downset Anger](https://www.youtube.com/watch?v=H6IQxhkVIEw)
-- [downset - downset](https://www.youtube.com/watch?v=Pr1Txqtj-sQ)
-- [downset by downset](https://www.youtube.com/watch?v=JNwiVG1uPqc)
-- [Downset  Downset Remastered Music Video](https://www.youtube.com/watch?v=FvvgcVKFD88)
-- [Downset Anger Live at the Whisky a go go March 31 2000](https://www.youtube.com/watch?v=-lTRPR6TLow)
-- [Downset - Eyes Shut Tight](https://www.youtube.com/watch?v=NxpapKbDrD4)
-- [downset - anger](https://www.youtube.com/watch?v=Lqh_AzlEjKU)
-- [Downset](https://www.youtube.com/watch?v=qRdWO0Iw5cI)
-- [Downset - Anger](https://www.youtube.com/watch?v=G8ZoFbNGpBc)
-- [downset - take em out](https://www.youtube.com/watch?v=u_RUlt7bjQE)
-- [Downset Anger](https://www.youtube.com/watch?v=H6IQxhkVIEw)
-- [downset - ritual](https://www.youtube.com/watch?v=RMF3ZIizj8k)
-- [Breed The Killer](https://www.youtube.com/watch?v=KJdRbiJvOxY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +68,5 @@ downset. is the debut studio album by American rapcore band downset. The band's 
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue, 180 gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1883 |
-| Notes | - 180 gram audiophile vinyl - Includes 4 page 12X12" insert with song lyrics & credits - Limited edition of 1.000 numbered copies on blue vinyl |
-| Discogs URL    | [Downset. - Downset.](https://www.discogs.com/release/10690277-Downset-Downset) |
+| Notes | - 180 gram audiophile vinyl<br>- Includes 4 page 12X12" insert with song lyrics & credits<br>- Limited edition of 1.000 numbered copies on blue vinyl |
+| Discogs URL    | [Downset - Downset.](https://www.discogs.com/release/10690277-Downset-Downset) |

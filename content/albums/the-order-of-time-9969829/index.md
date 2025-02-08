@@ -31,33 +31,26 @@ That many of the magnetic Americana heartmelters on <i>The Order of Time</i> wer
 
 
 ## Tracklisting
-1. Long Lonely Road
-2. Love You Once Made
-3. Shakedown
-4. If And
-5. Man Done Wrong
-6. The Front Door
-7. Astral Plane
-8. Just In Time
-9. With You
-10. Slip Slide On By
-11. Two Hearts
-12. Got Soul
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Long Lonely Road |  |
+| A2 | Love You Once Made |  |
+| A3 | Shakedown |  |
+| A4 | If And |  |
+| A5 | Man Done Wrong |  |
+| A6 | The Front Door |  |
+| B1 | Astral Plane |  |
+| B2 | Just In Time |  |
+| B3 | With You |  |
+| B4 | Slip Slide On By |  |
+| B5 | Two Hearts |  |
+| B6 | Got Soul |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-order-of-time/1440948460" >}}<br>
 
 
-## Videos
-### Valerie June - Shakedown
-{{< youtube id="cShj4BimPXc" title="Valerie June - Shakedown" >}}<br>
-### More Videos
-
-- [Valerie June - The Front Door](https://www.youtube.com/watch?v=OT7jlvXIaSw)
-- [Valerie June - Long Lonely Road](https://www.youtube.com/watch?v=ntc8jL9VDmQ)
-- [Valerie June -  Astral Plane](https://www.youtube.com/watch?v=rN35g4eLQgg)
-- [Valerie June - Got Soul Radio Edit](https://www.youtube.com/watch?v=Zw_4QDxs6CI)
-- [Valerie June - Two Hearts](https://www.youtube.com/watch?v=HFFi4v2wq_8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +61,5 @@ That many of the magnetic Americana heartmelters on <i>The Order of Time</i> wer
 | Format         | Vinyl LP Album |
 | Label          | Concord Records |
 | Catalog Number | CRE00209 |
-| Notes | Norah Jones appears courtesy of [l=Blue Note Records].  Includes a download code on a card. |
+| Notes | Norah Jones appears courtesy of [l=Blue Note Records].<br><br>Includes a download code on a card. |
 | Discogs URL    | [Valerie June - The Order Of Time](https://www.discogs.com/release/9969829-Valerie-June-The-Order-Of-Time) |

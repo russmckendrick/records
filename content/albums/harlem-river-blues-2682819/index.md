@@ -4,6 +4,7 @@ artist_name: "Justin Townes Earle"
 artist: "justin-townes-earle"
 album_name: "Harlem River Blues"
 date: 2015-12-30T18:48:51.000000Z
+release_date: "2010-09-14"
 release_id: "2682819"
 slug: "harlem-river-blues-2682819"
 hideSummary: true
@@ -28,37 +29,31 @@ styles: ["Country", "Folk"]
 Harlem River Blues is Justin Townes Earle's third studio album, released on January 1, 2010, on Bloodshot Records.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Harlem River Blues
-2. One More Night In Brooklyn
-3. Move Over Mama
-4. Workin' For The MTA
-5. Wanderin'
-6. Slippin'  And Slidin'
-7. Christchurch Woman
-8. Learning To Cry
-9. Ain't Waitin'
-10. Rogers Park
-11. Harlem River Blues Reprise
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Harlem River Blues |  |
+| A2 | One More Night In Brooklyn |  |
+| A3 | Move Over Mama |  |
+| A4 | Workin' For The MTA |  |
+| A5 | Wanderin' |  |
+| B1 | Slippin'  And Slidin' |  |
+| B2 | Christchurch Woman |  |
+| B3 | Learning To Cry |  |
+| B4 | Ain't Waitin' |  |
+| B5 | Rogers Park |  |
+| B6 | Harlem River Blues Reprise |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/harlem-river-blues/1700576027" >}}<br>
 
 
-## Videos
-### Justin Townes Earle - Harlem River Blues - album version
-{{< youtube id="vf9lvU8_JUo" title="Justin Townes Earle - Harlem River Blues - album version" >}}<br>
-### More Videos
-
-- [Justin Townes Earle - Aint Waitin Live  Grooveshark Presents Nashville Sessions](https://www.youtube.com/watch?v=Y9W511HVxuY)
-- [Justin Townes Earle - Wanderin - KXT Live Sessions](https://www.youtube.com/watch?v=-lMUY1VAZEI)
-- [Justin Townes Earle - Harlem River Blues - album version](https://www.youtube.com/watch?v=vf9lvU8_JUo)
-- [Justin Townes Earle - Aint Waitin Live  Grooveshark Presents Nashville Sessions](https://www.youtube.com/watch?v=Y9W511HVxuY)
-- [Justin Townes Earle - Wanderin - KXT Live Sessions](https://www.youtube.com/watch?v=-lMUY1VAZEI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +65,5 @@ Harlem River Blues is Justin Townes Earle's third studio album, released on Janu
 | Format         | Vinyl LP Album |
 | Label          | Bloodshot Records |
 | Catalog Number | BS 178 LP |
-| Notes | © ℗ 2010 Bloodshot Ltd.  All songs published by 1989 Music (BMI), Admin by the Royalty Network Inc except  "Rogers Park" published with Scotty Melton Music (BMI) Admin by Bug    [a929782] appears courtesy of [l166451]  [a732399] appears courtesy of [l126609]      |
+| Notes | © ℗ 2010 Bloodshot Ltd.<br>All songs published by 1989 Music (BMI), Admin by the Royalty Network Inc except<br>"Rogers Park" published with Scotty Melton Music (BMI) Admin by Bug<br><br>[a929782] appears courtesy of [l166451]<br>[a732399] appears courtesy of [l126609]<br> <br> |
 | Discogs URL    | [Justin Townes Earle - Harlem River Blues](https://www.discogs.com/release/2682819-Justin-Townes-Earle-Harlem-River-Blues) |

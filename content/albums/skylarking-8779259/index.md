@@ -4,6 +4,7 @@ artist_name: "XTC"
 artist: "xtc"
 album_name: "Skylarking"
 date: 2018-01-19T20:40:17.000000Z
+release_date: "1986-10-27"
 release_id: "8779259"
 slug: "skylarking-8779259"
 hideSummary: true
@@ -39,60 +40,50 @@ Upon release, Skylarking was met with indifference in the UK, rising in the albu
 Skylarking has been listed on "100 greatest albums of the 1980s" lists by Rolling Stone (in 1989) and Pitchfork (in 2002). In 2010, it was discovered that a wiring error made during the mastering process caused the album to have a "thin" sound. The problem was corrected on subsequent remasters. In 2016, an expanded reissue was released by Partridge's Ape House label with demos, outtakes, and new stereo and 5.1 surround sound mixes by Steven Wilson. In 2024, Wilson mixed the album in Dolby Atmos for an updated reissue.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Summer's Cauldron
-2. Grass
-3. The Meeting Place
-4. That's Really Super Supergirl
-5. Ballet For A Rainy Day
-6. 1000 Umbrellas
-7. Season Cycle
-8. Earn Enough For Us
-9. Big Day
-10. Another Satellite
-11. Mermaid Smiled
-12. The Man Who Sailed Around His Soul
-13. Dear God
-14. Dying
-15. Sacrificial Bonfire
-16. Summer's Cauldron
-17. Grass
-18. The Meeting Place
-19. That's Really Super Supergirl
-20. Ballet For A Rainy Day
-21. 1000 Umbrellas
-22. Season Cycle
-23. Earn Enough For Us
-24. Big Day
-25. Another Satellite
-26. Mermaid Smiled
-27. The Man Who Sailed Around His Soul
-28. Dear God
-29. Dying
-30. Sacrificial Bonfire
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Summer's Cauldron |  |
+| A2 | Grass |  |
+| A3 | The Meeting Place |  |
+| A4 | That's Really Super Supergirl |  |
+| B1 | Ballet For A Rainy Day |  |
+| B2 | 1000 Umbrellas |  |
+| B3 | Season Cycle |  |
+| C1 | Earn Enough For Us |  |
+| C2 | Big Day |  |
+| C3 | Another Satellite |  |
+| C4 | Mermaid Smiled |  |
+| D1 | The Man Who Sailed Around His Soul |  |
+| D2 | Dear God |  |
+| D3 | Dying |  |
+| D4 | Sacrificial Bonfire |  |
+| CD-1 | Summer's Cauldron |  |
+| CD-2 | Grass |  |
+| CD-3 | The Meeting Place |  |
+| CD-4 | That's Really Super Supergirl |  |
+| CD-5 | Ballet For A Rainy Day |  |
+| CD-6 | 1000 Umbrellas |  |
+| CD-7 | Season Cycle |  |
+| CD-8 | Earn Enough For Us |  |
+| CD-9 | Big Day |  |
+| CD-10 | Another Satellite |  |
+| CD-11 | Mermaid Smiled |  |
+| CD-12 | The Man Who Sailed Around His Soul |  |
+| CD-13 | Dear God |  |
+| CD-14 | Dying |  |
+| CD-15 | Sacrificial Bonfire |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/skylarking-remastered/1440889477" >}}<br>
 
 
-## Videos
-### XTC - Skylarking Full Album HD
-{{< youtube id="85J91FwPrTw" title="XTC - Skylarking Full Album HD" >}}<br>
-### More Videos
-
-- [XTC - Grass](https://www.youtube.com/watch?v=nErBEvTIvfo)
-- [1000 Umbrellas Remastered 2001](https://www.youtube.com/watch?v=gIs2LzcYuk0)
-- [The meeting place](https://www.youtube.com/watch?v=fBxCxUFOBv0)
-- [The Man Who Sailed Around His Soul Remastered 2001](https://www.youtube.com/watch?v=1KGS7nm9N10)
-- [Earn Enough For Us Remastered 2001](https://www.youtube.com/watch?v=wft8l-bw0qw)
-- [Summers Cauldron Remastered 2001](https://www.youtube.com/watch?v=0Ff7mJ_AjNQ)
-- [Thats Really Super Supergirl Remastered 2001](https://www.youtube.com/watch?v=CBNsiEWghGA)
-- [XTC - Skylarking Full Album HD](https://www.youtube.com/watch?v=85J91FwPrTw)
-- [XTC - Dear God](https://www.youtube.com/watch?v=p554R-Jq43A)
 
 ## Release Images
 {{< imageGrid >}}
@@ -104,5 +95,5 @@ Skylarking has been listed on "100 greatest albums of the 1980s" lists by Rollin
 | Format         | Vinyl 2× LP 45 RPM Album Reissue Repress, CD Album Reissue, Box Set Deluxe Edition Remastered |
 | Label          | Ape House |
 | Catalog Number | APELPD108 |
-| Notes | "A deluxe double vinyl version of the Corrected Polarity edition XTC's ever popular Todd Rundgren produced Skylarking.   Including:  * 2 x 45rpm, 200g heavyweight vinyl  * 12" 16 page booklet with song notes by band members  * Lyric sheet  * Cut from corrected polarity master  * CD of corrected polarity master  * Both album sleeves - sleeve as released and original proposed design  * All contents packaged in a sturdy slipcase."  - Ape House Ltd.  |
+| Notes | "A deluxe double vinyl version of the Corrected Polarity edition XTC's ever popular Todd Rundgren produced Skylarking. <br><br>Including: <br>* 2 x 45rpm, 200g heavyweight vinyl <br>* 12" 16 page booklet with song notes by band members <br>* Lyric sheet <br>* Cut from corrected polarity master <br>* CD of corrected polarity master <br>* Both album sleeves - sleeve as released and original proposed design <br>* All contents packaged in a sturdy slipcase." <br>- Ape House Ltd.<br> |
 | Discogs URL    | [XTC - Skylarking](https://www.discogs.com/release/8779259-XTC-Skylarking) |

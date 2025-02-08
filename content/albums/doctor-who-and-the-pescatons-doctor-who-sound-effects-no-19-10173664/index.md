@@ -4,6 +4,7 @@ artist_name: "Doctor Who"
 artist: "doctor-who"
 album_name: "Doctor Who And The Pescatons / Doctor Who Sound Effects No.19"
 date: 2017-04-23T12:07:40.000000Z
+release_date: ""
 release_id: "10173664"
 slug: "doctor-who-and-the-pescatons-doctor-who-sound-effects-no-19-10173664"
 hideSummary: true
@@ -29,51 +30,53 @@ styles: ["Soundtrack", "Story", "Special Effects", "Spoken Word"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Doctor Who And The Pescatons
-2. Doctor Who And The Pescatons (Side One) (22:22)
-3. Doctor Who And The Pescatons (Side Two) (23:34)
-4. Doctor Who Sound Effects No.19
-5. The Central Control Room In Exillon City - Dr Who And The Exillons
-6. The Dalek Control Room - Death To The Daleks
-7. Metebelis III Atmosphere - Planet Of The Spiders
-8. Styre;s Scouting Machine (Approach, Stop, Search, Depart) - The Destructors
-9. Dalek Hatching Tanks On Skaros - Genesis Of The Daleks
-10. Zygon Spaceship Control Centre - Dr Who And The Zygons
-11. Sutekh Time Tunnel - Pyramid Of Mars
-12. The Interior Of Xoanon - Face Of Evil
-13. The Shrine Of The Sisterhood Of Khan - Dr. Who And The Brain Of Morbius
-14. Kraal Disorientation Chamber - Android Invasion
-15. The Mandragora Helix - The Curse Of Mandragora
-16. Atomic Reactor Runs Wild - The Hand Of Death
-17. Wind-Mine Machine - Robots of Death
-18. Distillation Chamber - The Talons Of Weng Chi'Ang
-19. Cloning And Miniaturisation Process - The Enemy Within
-20. Inside Dr. Who's Mind - The Enemy Within
-21. Tardis Interior (In Flight)
-22. Tardis Interior (Stationary)
-23. Tardis Observation Screen Operates
-24. Tardis Door Opens
-25. Sonic Screwdriver
-26. Fission Gun (2 Blasts) - Ark In Space
-27. Test Gun - Face Of Evil
-28. Gallifreyan Staser Gun (3 Blasts) - The Deadly Assassin
-29. Vardan Gun - The Invasion Of Time
-30. Sontaran Gun (3 Blasts) - The Invasion Of Time
-31. Gallifreyan Staser (3 Blasts) - The Invasion Of Time
-32. Dematerializer Gun (Switch On And Fire) - The Invasion of Time
-33. Dalek Gun (3 Blasts) - Genesis Of The Daleks
-34. Dragon Ray-Gun - The Talons Of Weng Chi'Ang
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Doctor Who And The Pescatons |  |
+| A1 | Doctor Who And The Pescatons (Side One) | 22:22 |
+| B1 | Doctor Who And The Pescatons (Side Two) | 23:34 |
+|  | Doctor Who Sound Effects No.19 |  |
+| C1 | The Central Control Room In Exillon City - Dr Who And The Exillons |  |
+| C2 | The Dalek Control Room - Death To The Daleks |  |
+| C3 | Metebelis III Atmosphere - Planet Of The Spiders |  |
+| C4 | Styre;s Scouting Machine (Approach, Stop, Search, Depart) - The Destructors |  |
+| C5 | Dalek Hatching Tanks On Skaros - Genesis Of The Daleks |  |
+| C6 | Zygon Spaceship Control Centre - Dr Who And The Zygons |  |
+| C7 | Sutekh Time Tunnel - Pyramid Of Mars |  |
+| C8 | The Interior Of Xoanon - Face Of Evil |  |
+| D1 | The Shrine Of The Sisterhood Of Khan - Dr. Who And The Brain Of Morbius |  |
+| D2 | Kraal Disorientation Chamber - Android Invasion |  |
+| D3 | The Mandragora Helix - The Curse Of Mandragora |  |
+| D4 | Atomic Reactor Runs Wild - The Hand Of Death |  |
+| D5 | Wind-Mine Machine - Robots of Death |  |
+| D6 | Distillation Chamber - The Talons Of Weng Chi'Ang |  |
+| D7 | Cloning And Miniaturisation Process - The Enemy Within |  |
+| D8 | Inside Dr. Who's Mind - The Enemy Within |  |
+| D9 | Tardis Interior (In Flight) |  |
+| D10 | Tardis Interior (Stationary) |  |
+| D11 | Tardis Observation Screen Operates |  |
+| D12 | Tardis Door Opens |  |
+| D13 | Sonic Screwdriver |  |
+| D14 | Fission Gun (2 Blasts) - Ark In Space |  |
+| D15 | Test Gun - Face Of Evil |  |
+| D16 | Gallifreyan Staser Gun (3 Blasts) - The Deadly Assassin |  |
+| D17 | Vardan Gun - The Invasion Of Time |  |
+| D18 | Sontaran Gun (3 Blasts) - The Invasion Of Time |  |
+| D19 | Gallifreyan Staser (3 Blasts) - The Invasion Of Time |  |
+| D20 | Dematerializer Gun (Switch On And Fire) - The Invasion of Time |  |
+| D21 | Dalek Gun (3 Blasts) - Genesis Of The Daleks |  |
+| D22 | Dragon Ray-Gun - The Talons Of Weng Chi'Ang |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Doctor Who and The Pescatons
-{{< youtube id="K02U_MHNYGU" title="Doctor Who and The Pescatons" >}}<br>
-### More Videos
 
-- [BBC Radiophonic Workshop - Doctor Who No 19 Sound Effects                BBC-22316](https://www.youtube.com/watch?v=MJ6zhnPE2pw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +87,5 @@ styles: ["Soundtrack", "Story", "Special Effects", "Spoken Word"]
 | Format         | Vinyl LP Reissue Stereo (180g, Green), Vinyl LP Reissue Mono (180g, Orange), All Media Record Store Day Special Edition |
 | Label          | Demon Records |
 | Catalog Number | DEMREC202 |
-| Notes | Released for Record Store Day 2017.  Voices recorded at Argo Studios, London. Effects and music recorded at Molinare Studios, London, and Electrophon Studios, London.  This recording released by arrangement with B.B.C. Records.  ℗ & © 2017 Demon Music Group.  Pressed on 180 gram coloured vinyl: Green for the first disc (Doctor Who And The Pescatons) STEREO, Orange for the second (Doctor Who Sound Effects No.19) MONO. |
+| Notes | Released for Record Store Day 2017.<br><br>Voices recorded at Argo Studios, London.<br>Effects and music recorded at Molinare Studios, London, and Electrophon Studios, London.<br><br>This recording released by arrangement with B.B.C. Records.<br><br>℗ & © 2017 Demon Music Group.<br><br>Pressed on 180 gram coloured vinyl: Green for the first disc (Doctor Who And The Pescatons) STEREO, Orange for the second (Doctor Who Sound Effects No.19) MONO. |
 | Discogs URL    | [Doctor Who - Doctor Who And The Pescatons / Doctor Who Sound Effects No.19](https://www.discogs.com/release/10173664-Doctor-Who-Doctor-Who-And-The-Pescatons-Doctor-Who-Sound-Effects-No19) |

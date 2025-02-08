@@ -37,18 +37,20 @@ The carnal delight of tracks like “Private Joy” and the raunchy romp “Jack
 
 
 ## Tracklisting
-1. Controversy (7:14)
-2. Sexuality (4:20)
-3. Do Me, Baby (7:47)
-4. Private Joy (4:25)
-5. Ronnie, Talk To Russia (1:48)
-6. Let's Work (3:57)
-7. Annie Christian (4:21)
-8. Jack U Off (3:12)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Controversy | 7:14 |
+| A2 | Sexuality | 4:20 |
+| A3 | Do Me, Baby | 7:47 |
+| B1 | Private Joy | 4:25 |
+| B2 | Ronnie, Talk To Russia | 1:48 |
+| B3 | Let's Work | 3:57 |
+| B4 | Annie Christian | 4:21 |
+| B5 | Jack U Off | 3:12 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/controversy/214145071" >}}<br>
-
 
 
 
@@ -62,5 +64,5 @@ The carnal delight of tracks like “Private Joy” and the raunchy romp “Jack
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered |
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122-79777-6 |
-| Notes | ℗&© 1981 Warner Bros. Records Inc. A Warner Music Group Company. Manufactured in the E.U.  Like most Rhino reissues - Rhino pressed both an EU version and a US version [[r3139564]]. This is the EU pressing.  Record Technology Incorporated and Optimal Media Production were identified from runout/matrix.  • Limited 180 grams audiophile with large fold-out poster of Prince in shower photo. • Mastered at Bernie Grundman Mastering from the Original Tapes |
+| Notes | ℗&© 1981 Warner Bros. Records Inc. A Warner Music Group Company. Manufactured in the E.U.<br><br>Like most Rhino reissues - Rhino pressed both an EU version and a US version [[r3139564]]. This is the EU pressing.<br><br>Record Technology Incorporated and Optimal Media Production were identified from runout/matrix.<br><br>• Limited 180 grams audiophile with large fold-out poster of Prince in shower photo.<br>• Mastered at Bernie Grundman Mastering from the Original Tapes |
 | Discogs URL    | [Prince - Controversy](https://www.discogs.com/release/3559573-Prince-Controversy) |

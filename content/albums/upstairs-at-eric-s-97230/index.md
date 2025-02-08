@@ -4,6 +4,7 @@ artist_name: "Yazoo"
 artist: "yazoo"
 album_name: "Upstairs At Eric's"
 date: 2017-06-14T07:25:40.000000Z
+release_date: "1982-08-20"
 release_id: "97230"
 slug: "upstairs-at-eric-s-97230"
 hideSummary: true
@@ -26,26 +27,29 @@ Upstairs at Eric's is the debut studio album by English synth-pop duo Yazoo (kno
 Against the group's wishes, "Situation", originally the B-side of "Only You" in the UK and Europe, was released as the band's debut single in the United States and Canada, where a remixed version of the song by DJ François Kevorkian reached number one on Billboard's Club Play Singles chart. "Situation" peaked at number 73 on the US Billboard Hot 100, while it reached the top 40 in Canada, peaking at number 31. The North American version of the album subsequently replaced the remixed version of "Situation" for the UK album track "Tuesday". Upstairs at Eric's reached number 92 on the Billboard 200 in the US and number 49 on RPM's albums chart in Canada.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Don't Go (3:08)
-2. Too Pieces (3:14)
-3. Bad Connection (3:20)
-4. I Before E Except After C (4:36)
-5. Midnight (4:22)
-6. In My Room (3:52)
-7. Only You (3:14)
-8. Goodbye 70's (2:35)
-9. Tuesday (3:22)
-10. Winter Kills (4:06)
-11. Bring Your Love Down (Didn't I) (4:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Don't Go | 3:08 |
+| A2 | Too Pieces | 3:14 |
+| A3 | Bad Connection | 3:20 |
+| A4 | I Before E Except After C | 4:36 |
+| A5 | Midnight | 4:22 |
+| A6 | In My Room | 3:52 |
+| B1 | Only You | 3:14 |
+| B2 | Goodbye 70's | 2:35 |
+| B3 | Tuesday | 3:22 |
+| B4 | Winter Kills | 4:06 |
+| B5 | Bring Your Love Down (Didn't I) | 4:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/upstairs-at-erics/1436832956" >}}<br>
-
 
 
 
@@ -59,5 +63,5 @@ Against the group's wishes, "Situation", originally the B-side of "Only You" in 
 | Format         | Vinyl LP Album (Musitech Plating) |
 | Label          | Mute |
 | Catalog Number | STUMM 7 |
-| Notes | Recorded at Blackwing 1 & 2 Studios, London Distributed by Rough Trade & Spartan ℗ Mute Records © Sonet Publishing  Comes with a printed inner sleeve with lyrics.  This version was cut at [l173687], with stamper/metalwork by [l380740]. The labels are a lighter shade of blue than other versions.  There are also two versions plated at [l304945]: one [url=https://www.discogs.com/release/9605338]with[/url] "© [l266398]" printed on inner sleeve and one [url=https://www.discogs.com/release/8179227]without[/url]. |
+| Notes | Recorded at Blackwing 1 & 2 Studios, London<br>Distributed by Rough Trade & Spartan<br>℗ Mute Records<br>© Sonet Publishing<br><br>Comes with a printed inner sleeve with lyrics.<br><br>This version was cut at [l173687], with stamper/metalwork by [l380740]. The labels are a lighter shade of blue than other versions.<br><br>There are also two versions plated at [l304945]: one [url=https://www.discogs.com/release/9605338]with[/url] "© [l266398]" printed on inner sleeve and one [url=https://www.discogs.com/release/8179227]without[/url]. |
 | Discogs URL    | [Yazoo - Upstairs At Eric's](https://www.discogs.com/release/97230-Yazoo-Upstairs-At-Erics) |

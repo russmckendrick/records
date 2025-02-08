@@ -4,6 +4,7 @@ artist_name: "Jesus Jones"
 artist: "jesus-jones"
 album_name: "London"
 date: 2022-11-03T13:59:53.000000Z
+release_date: "2001-10-09"
 release_id: "25038310"
 slug: "london-25038310"
 hideSummary: true
@@ -24,27 +25,30 @@ styles: ["Alternative Rock", "Synth-pop"]
 London is the fifth album by the British rock band Jesus Jones in 2001 through Koch Records. Following the commercial failure of 1997's Already which led to the band and EMI parting ways, the band took a hiatus before regathering for the recording of London for Koch/Mi5 Recordings, with a more alternative rock approach as opposed to the techno sounds on their previous albums. The album had low-key promotion, initially only being released in the United States.   Two EP's were released from the album, "Nowhere Slow" and "In the Face Of All This".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Message (2:24)
-2. Stranger (3:28)
-3. The Rocket Ship Of La Jolla (3:51)
-4. Asleep On The Motorway (3:17)
-5. Hello Neon! (4:05)
-6. The A Team (3:09)
-7. Half Up The Hill (3:28)
-8. The Princess Of My Heart (3:34)
-9. Getaway Car (2:43)
-10. To Get There (4:28)
-11. Nowhere Slow (4:01)
-12. In The Face Of All Of This (3:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Message | 2:24 |
+| A2 | Stranger | 3:28 |
+| A3 | The Rocket Ship Of La Jolla | 3:51 |
+| A4 | Asleep On The Motorway | 3:17 |
+| A5 | Hello Neon! | 4:05 |
+| A6 | The A Team | 3:09 |
+| B1 | Half Up The Hill | 3:28 |
+| B2 | The Princess Of My Heart | 3:34 |
+| B3 | Getaway Car | 2:43 |
+| B4 | To Get There | 4:28 |
+| B5 | Nowhere Slow | 4:01 |
+| B6 | In The Face Of All Of This | 3:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/london/1647622598" >}}<br>
-
 
 
 

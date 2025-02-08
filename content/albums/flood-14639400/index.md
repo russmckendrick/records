@@ -33,55 +33,33 @@ The album was initially issued on CD, LP, and cassette. Upon its release, Flood 
 
 
 ## Tracklisting
-1. Theme From Flood
-2. Birdhouse In Your Soul
-3. Lucky Ball & Chain
-4. Istanbul (Not Constantinople)
-5. Dead
-6. Your Racist Friend
-7. Particle Man
-8. Twisting
-9. We Want A Rock
-10. Someone Keeps Moving My Chair
-11. Hearing Aid
-12. Minimum Wage
-13. Letterbox
-14. Whistling In The Dark
-15. Hot Cha
-16. Women & Men
-17. Sapphire Bullets Of Pure Love
-18. They Might Be Giants
-19. Road Movie To Berlin
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Theme From Flood |  |
+| A2 | Birdhouse In Your Soul |  |
+| A3 | Lucky Ball & Chain |  |
+| A4 | Istanbul (Not Constantinople) |  |
+| A5 | Dead |  |
+| A6 | Your Racist Friend |  |
+| A7 | Particle Man |  |
+| A8 | Twisting |  |
+| A9 | We Want A Rock |  |
+| B1 | Someone Keeps Moving My Chair |  |
+| B2 | Hearing Aid |  |
+| B3 | Minimum Wage |  |
+| B4 | Letterbox |  |
+| B5 | Whistling In The Dark |  |
+| B6 | Hot Cha |  |
+| B7 | Women & Men |  |
+| B8 | Sapphire Bullets Of Pure Love |  |
+| B9 | They Might Be Giants |  |
+| B10 | Road Movie To Berlin |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flood/298111036" >}}<br>
 
 
-## Videos
-### THEY MIGHT BE GIANTS Istanbul Not Constantinople
-{{< youtube id="vsQrKZcYtqg" title="THEY MIGHT BE GIANTS Istanbul Not Constantinople" >}}<br>
-### More Videos
-
-- [Theme from Flood](https://www.youtube.com/watch?v=pJ9QQdH3IiQ)
-- [Birdhouse In Your Soul Official Video - They Might Be Giants](https://www.youtube.com/watch?v=2Am-BF7ObCI)
-- [Lucky Ball and Chain](https://www.youtube.com/watch?v=z8au4eCVPis)
-- [They Might Be Giants - Istanbul Not Constantinople](https://www.youtube.com/watch?v=p6NzVd3pGdE)
-- [Dead](https://www.youtube.com/watch?v=bPgXYPJC2uA)
-- [Your Racist Friend](https://www.youtube.com/watch?v=JFGQdvYIJ0M)
-- [Particle Man](https://www.youtube.com/watch?v=vOLivyykLqk)
-- [Twisting](https://www.youtube.com/watch?v=j0jNgo6Ar4Q)
-- [We Want a Rock](https://www.youtube.com/watch?v=Jp8znvfYbow)
-- [Someone Keeps Moving My Chair](https://www.youtube.com/watch?v=5pud7rt4KhU)
-- [Hearing Aid](https://www.youtube.com/watch?v=wMF6Jpm5cvQ)
-- [Minimum Wage](https://www.youtube.com/watch?v=SRcRn_Xv7Ek)
-- [Letterbox](https://www.youtube.com/watch?v=gkBTQX4VwqI)
-- [Whistling in the Dark](https://www.youtube.com/watch?v=pBN4sOQbYxk)
-- [Hot Cha](https://www.youtube.com/watch?v=8970WhW4Z18)
-- [Women  Men](https://www.youtube.com/watch?v=33BTvjZ45MI)
-- [Sapphire Bullets of Pure Love](https://www.youtube.com/watch?v=MnYKfrgN76Y)
-- [They Might Be Giants](https://www.youtube.com/watch?v=e-cz03eTE54)
-- [Road Movie to Berlin](https://www.youtube.com/watch?v=dF7euO5RmqI)
-- [THEY MIGHT BE GIANTS Istanbul Not Constantinople](https://www.youtube.com/watch?v=vsQrKZcYtqg)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "Spear Of Destiny"
 artist: "spear-of-destiny"
 album_name: "S.O.D. The Epic Years"
 date: 2015-12-04T18:21:09.000000Z
+release_date: "2023-02-02"
 release_id: "492090"
 slug: "s-o-d-the-epic-years-492090"
 hideSummary: true
@@ -23,26 +24,28 @@ styles: ["Pop Rock", "Goth Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Wheel
-2. Rainmaker
-3. Prisoner Of Love
-4. Playground Of The Rich
-5. Young Men
-6. Up All Night
-7. Come Back
-8. All My Love (Ask Nothing)
-9. Mickey
-10. Liberator
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Wheel |  |
+| A2 | Rainmaker |  |
+| A3 | Prisoner Of Love |  |
+| A4 | Playground Of The Rich |  |
+| A5 | Young Men |  |
+| B1 | Up All Night |  |
+| B2 | Come Back |  |
+| B3 | All My Love (Ask Nothing) |  |
+| B4 | Mickey |  |
+| B5 | Liberator |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/best-of-spear-of-destiny-live-at-the-forum/1671997414" >}}<br>
 
-
-## Videos
-### Spear Of Destiny-The Wheelwmv
-{{< youtube id="p-6rxCRTsK0" title="Spear Of Destiny-The Wheelwmv" >}}<br>
 
 
 ## Release Images
@@ -54,5 +57,5 @@ styles: ["Pop Rock", "Goth Rock"]
 | Format         | Vinyl LP Compilation |
 | Label          | Epic |
 | Catalog Number | 450872 1 |
-| Notes | Compilation of tracks taken from the three S.O.D. released on the Epic label, Grapes of Wrath, One Eyed Jacks and World Service.  Promo copies are stock release with a gold 'CBS Not For Sale' stamp on the back of cover. |
+| Notes | Compilation of tracks taken from the three S.O.D. released on the Epic label, Grapes of Wrath, One Eyed Jacks and World Service.<br><br>Promo copies are stock release with a gold 'CBS Not For Sale' stamp on the back of cover. |
 | Discogs URL    | [Spear Of Destiny - S.O.D. The Epic Years](https://www.discogs.com/release/492090-Spear-Of-Destiny-SOD-The-Epic-Years) |

@@ -4,6 +4,7 @@ artist_name: "Teenage Fanclub"
 artist: "teenage-fanclub"
 album_name: "Nothing Lasts Forever"
 date: 2024-02-02T00:42:10.000000Z
+release_date: "2023-09-22"
 release_id: "28350391"
 slug: "nothing-lasts-forever-28350391"
 hideSummary: true
@@ -22,35 +23,30 @@ styles: []
 Nothing Lasts Forever is the twelfth full studio album by Scottish band Teenage Fanclub, released on 22 September 2023 through PeMa in Europe and Merge Records in North America. It received positive reviews from critics.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Foreign Land (3:54)
-2. Tired Of Being Alone  (4:43)
-3. I Left A Light On (3:34)
-4. See The Light (3:22)
-5. It’s Alright  (3:48)
-6. Falling Into The Sun (3:13)
-7. Self-Sedation  (3:20)
-8. Middle Of My Mind (3:17)
-9. Back To The Light (3:06)
-10. I Will Love You (7:06)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Foreign Land | 3:54 |
+| A2 | Tired Of Being Alone  | 4:43 |
+| A3 | I Left A Light On | 3:34 |
+| A4 | See The Light | 3:22 |
+| A5 | It’s Alright  | 3:48 |
+| B1 | Falling Into The Sun | 3:13 |
+| B2 | Self-Sedation  | 3:20 |
+| B3 | Middle Of My Mind | 3:17 |
+| B4 | Back To The Light | 3:06 |
+| B5 | I Will Love You | 7:06 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nothing-lasts-forever/1689225713" >}}<br>
 
 
-## Videos
-### Teenage Fanclub - Foreign Land
-{{< youtube id="ikCMuSHsqOU" title="Teenage Fanclub - Foreign Land" >}}<br>
-### More Videos
-
-- [Teenage Fanclub - Tired Of Being Alone](https://www.youtube.com/watch?v=JYu7FiYLWqE)
-- [I Left A Light On](https://www.youtube.com/watch?v=XW2Qt9uAIiU)
-- [See The Light](https://www.youtube.com/watch?v=BwwNCg-exKk)
-- [Its Alright](https://www.youtube.com/watch?v=rcpyLW9Iv-0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +58,5 @@ Nothing Lasts Forever is the twelfth full studio album by Scottish band Teenage 
 | Format         | Vinyl LP Album Limited Edition (Clear) |
 | Label          | Pema |
 | Catalog Number | PEMA20LPX |
-| Notes | Available via both Rough Trade and Monorail as an "exclusive" edition of 1000 copies on clear vinyl with signed art print. Housed in mirror board sleeve with printed inner.  Barcode printed in a hyper stick. Cat# PEMA20LP on the side. |
+| Notes | Available via both Rough Trade and Monorail as an "exclusive" edition of 1000 copies on clear vinyl with signed art print.<br>Housed in mirror board sleeve with printed inner.<br><br>Barcode printed in a hyper stick.<br>Cat# PEMA20LP on the side. |
 | Discogs URL    | [Teenage Fanclub - Nothing Lasts Forever](https://www.discogs.com/release/28350391-Teenage-Fanclub-Nothing-Lasts-Forever) |

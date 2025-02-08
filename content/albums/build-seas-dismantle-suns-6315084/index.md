@@ -4,6 +4,7 @@ artist_name: "Nordic Giants"
 artist: "nordic-giants"
 album_name: "Build Seas, Dismantle Suns"
 date: 2015-09-01T17:52:38.000000Z
+release_date: "2014-11-17"
 release_id: "6315084"
 slug: "build-seas-dismantle-suns-6315084"
 hideSummary: true
@@ -23,31 +24,27 @@ styles: ["Post Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Violent Lights
-2. Drumfire
-3. Neotenie
-4. Between Two Worlds
-5. Little Bird
-6. Mechanical Minds
-7. Strangest Tides
-8. Dark Clouds Mean War
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Violent Lights |  |
+| A2 | Drumfire |  |
+| A3 | Neotenie |  |
+| A4 | Between Two Worlds |  |
+| B1 | Little Bird |  |
+| B2 | Mechanical Minds |  |
+| B3 | Strangest Tides |  |
+| B4 | Dark Clouds Mean War |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/build-seas-dismantle-suns-eps/930867694" >}}<br>
 
 
-## Videos
-### Nordic Giants  Mechanical Minds  Dismantle Suns EP
-{{< youtube id="TxeBiUnKOEM" title="Nordic Giants  Mechanical Minds  Dismantle Suns EP" >}}<br>
-### More Videos
-
-- [Nordic Giants  Dark Clouds Mean War  Dismantle Suns EP](https://www.youtube.com/watch?v=eO5KM3BlOa4)
-- [Nordic Giants  Little Bird  Dismantle Suns](https://www.youtube.com/watch?v=lRf7YNeUh18)
-- [Nordic Giants  Strangest Tides Ft HeyMun  Dismantle Suns EP](https://www.youtube.com/watch?v=5XLoMwelcec)
-- [Nordic Giants - Live at the Cabaret Voltaire Edinburgh October 7 2013 FULL SHOW HD](https://www.youtube.com/watch?v=VBkcCv9pzsA)
-- [Nordic Giants  London Lexington 2013 - Dark Clouds Mean War](https://www.youtube.com/watch?v=fCqAjnaluNg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,5 +55,5 @@ styles: ["Post Rock"]
 | Format         | Vinyl LP Album (Clear) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE869 |
-| Notes | Made in Germany    The 2013 Self Released EPs on 180g Clear Vinyl    www.nordicgiants.co.uk |
+| Notes | Made in Germany<br><br>The 2013 Self Released EPs on 180g Clear Vinyl<br><br>www.nordicgiants.co.uk |
 | Discogs URL    | [Nordic Giants - Build Seas, Dismantle Suns](https://www.discogs.com/release/6315084-Nordic-Giants-Build-Seas-Dismantle-Suns) |

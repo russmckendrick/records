@@ -4,6 +4,7 @@ artist_name: "The Who"
 artist: "the-who"
 album_name: "My Generation"
 date: 2016-04-15T17:26:52.000000Z
+release_date: "1965-04-25"
 release_id: "4285170"
 slug: "my-generation-4285170"
 hideSummary: true
@@ -24,44 +25,32 @@ My Generation is the debut studio album by English rock band the Who, released o
 The album was made immediately after the Who got their first singles on the charts and, according to the booklet in the Deluxe Edition, it was later dismissed by the band as something of a rush job that did not accurately represent their stage performance of the time.  While it didn't sell as well as later albums, peaking at No. 5 on the UK charts and failing to chart in the US, critics have since retrospectively rated it as one of the best rock albums of all time, especially noting its hard sound unusual for the time, and presaging various hard rock styles such as punk and heavy metal.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Out In The Street
-2. I Don't Mind
-3. The Good's Gone
-4. La-La-La-Lies
-5. Much Too Much
-6. My Generation
-7. The Kids Are Alright
-8. Please, Please, Please
-9. It's Not True
-10. I'm A Man
-11. A Legal Matter
-12. The Ox
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Out In The Street |  |
+| A2 | I Don't Mind |  |
+| A3 | The Good's Gone |  |
+| A4 | La-La-La-Lies |  |
+| A5 | Much Too Much |  |
+| A6 | My Generation |  |
+| B1 | The Kids Are Alright |  |
+| B2 | Please, Please, Please |  |
+| B3 | It's Not True |  |
+| B4 | I'm A Man |  |
+| B5 | A Legal Matter |  |
+| B6 | The Ox |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-who-sings-my-generation/1443807171" >}}<br>
 
 
-## Videos
-### Out In The Street Mono Version
-{{< youtube id="ggfrpJrQDNc" title="Out In The Street Mono Version" >}}<br>
-### More Videos
-
-- [I Dont Mind Mono Version](https://www.youtube.com/watch?v=logPlZcnrHg)
-- [The Who  The Goods Gone  1965  Mod Beat](https://www.youtube.com/watch?v=kDXwcqw3rNs)
-- [La-La-La-Lies Mono Version](https://www.youtube.com/watch?v=KtqrHya0cEc)
-- [Much Too Much Mono Version](https://www.youtube.com/watch?v=EOiNXIIF4Zg)
-- [Who - My Generation - Vinyl Play](https://www.youtube.com/watch?v=UG-DLkwhy-M)
-- [The Kids Are Alright Mono Version](https://www.youtube.com/watch?v=SVjwormGnzw)
-- [Please Please Please Mono Version](https://www.youtube.com/watch?v=3giYcqgHASQ)
-- [Its Not True Mono Version](https://www.youtube.com/watch?v=8gwt3noP3iE)
-- [THE WHO IM A MAN BRUNSWICK MONO VINYL My Generation 1st UK](https://www.youtube.com/watch?v=O3zSn5GLOAE)
-- [The Who - A Legal Matter - Decca  AD 1002 export 45s](https://www.youtube.com/watch?v=sGUwIb0Qg-c)
-- [The Ox Mono Version](https://www.youtube.com/watch?v=9e6iLrrVEcQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +62,5 @@ The album was made immediately after the Who got their first singles on the char
 | Format         | Vinyl LP Album Reissue Repress Mono |
 | Label          | Brunswick |
 | Catalog Number | 3715603 |
-| Notes | Standalone repress of the 2012 cut, originally used for [r=4043005] box. Released on 180g vinyl (not mentioned on the release). Cut at Metropolis ('M' logo in the runouts).   No "ABBEY ROAD" in the runouts.  Similar editions: [r=26857655]: "ABBEY ROAD" in the runouts (another 2015 edition). [r=23421197]: "ABBEY ROAD" in the runouts but with longer runouts / different runout format.  Runouts are stamped except for the 'M' logo and "MILES", which are etched.  [On back cover:]  ℗ 1965 Polydor Ltd. (UK). © 1965 Polydor Ltd. (UK). A Universal Music Company. [...] Made in the EU.  [On labels:] [...] Long Playing Microgroove Record Made in England. Brunswick Ltd. London. |
+| Notes | Standalone repress of the 2012 cut, originally used for [r=4043005] box.<br>Released on 180g vinyl (not mentioned on the release).<br>Cut at Metropolis ('M' logo in the runouts).  <br>No "ABBEY ROAD" in the runouts.<br><br>Similar editions:<br>[r=26857655]: "ABBEY ROAD" in the runouts (another 2015 edition).<br>[r=23421197]: "ABBEY ROAD" in the runouts but with longer runouts / different runout format.<br><br>Runouts are stamped except for the 'M' logo and "MILES", which are etched.<br><br>[On back cover:]<br> ℗ 1965 Polydor Ltd. (UK). © 1965 Polydor Ltd. (UK). A Universal Music Company.<br>[...]<br>Made in the EU.<br><br>[On labels:]<br>[...]<br>Long Playing<br>Microgroove Record<br>Made in England. Brunswick Ltd. London. |
 | Discogs URL    | [The Who - My Generation](https://www.discogs.com/release/4285170-The-Who-My-Generation) |

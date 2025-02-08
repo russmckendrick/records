@@ -34,45 +34,24 @@ Less than a year after their full-length debut, hardcore supergroup Dead Cross r
 
 
 ## Tracklisting
-1. Seizure And Desist
-2. Idiopathic
-3. Obedience School
-4. Shillelagh
-5. Bela Lugosi's Dead
-6. Divine Filth
-7. Grave Slave
-8. The Future Has Been Cancelled
-9. Gag Reflex
-10. Church Of The Motherfuckers
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Seizure And Desist |  |
+| A2 | Idiopathic |  |
+| A3 | Obedience School |  |
+| A4 | Shillelagh |  |
+| A5 | Bela Lugosi's Dead |  |
+| B6 | Divine Filth |  |
+| B7 | Grave Slave |  |
+| B8 | The Future Has Been Cancelled |  |
+| B9 | Gag Reflex |  |
+| B10 | Church Of The Motherfuckers |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dead-cross-ep/1367979420" >}}<br>
 
 
-## Videos
-### Dead Cross Seizure and Desist
-{{< youtube id="WpdcT8kyP1U" title="Dead Cross Seizure and Desist" >}}<br>
-### More Videos
-
-- [Idiopathic](https://www.youtube.com/watch?v=X88l3lDg4ps)
-- [Obedience School](https://www.youtube.com/watch?v=OPic-JDSpzM)
-- [Shillelagh](https://www.youtube.com/watch?v=2Sd-B617LgQ)
-- [Bela Lugosis Dead](https://www.youtube.com/watch?v=4QQHlXIDUfI)
-- [Divine Filth](https://www.youtube.com/watch?v=zarUQE-cTIo)
-- [Grave Slave](https://www.youtube.com/watch?v=XPBV0ZvG2yw)
-- [The Future Has Been Cancelled](https://www.youtube.com/watch?v=4DjJzcYbm4Q)
-- [Gag Reflex](https://www.youtube.com/watch?v=ijoP18PK3BE)
-- [Dead Cross - Church of the Motherfuckers](https://www.youtube.com/watch?v=IxaFJQo7TzU)
-- [Dead Cross Seizure and Desist](https://www.youtube.com/watch?v=WpdcT8kyP1U)
-- [Idiopathic](https://www.youtube.com/watch?v=X88l3lDg4ps)
-- [Obedience School](https://www.youtube.com/watch?v=OPic-JDSpzM)
-- [Shillelagh](https://www.youtube.com/watch?v=2Sd-B617LgQ)
-- [Bela Lugosis Dead](https://www.youtube.com/watch?v=4QQHlXIDUfI)
-- [Divine Filth](https://www.youtube.com/watch?v=zarUQE-cTIo)
-- [Grave Slave](https://www.youtube.com/watch?v=XPBV0ZvG2yw)
-- [The Future Has Been Cancelled](https://www.youtube.com/watch?v=4DjJzcYbm4Q)
-- [Gag Reflex](https://www.youtube.com/watch?v=ijoP18PK3BE)
-- [Dead Cross - Church of the Motherfuckers](https://www.youtube.com/watch?v=IxaFJQo7TzU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +63,5 @@ Less than a year after their full-length debut, hardcore supergroup Dead Cross r
 | Format         | Vinyl LP 45 RPM Album Limited Edition (Gold) |
 | Label          | Ipecac Recordings |
 | Catalog Number | IPC193LP |
-| Notes | Gold vinyl issued in glow in the dark gatefold jacket, limited to 2,000 copies.   Comes with download card (320kb/s mp3 only, via dropcards).  Processing company and - engineer for lacquer cut uncredited, identified by the stamped matrix.  |
+| Notes | Gold vinyl issued in glow in the dark gatefold jacket, limited to 2,000 copies.   Comes with download card (320kb/s mp3 only, via dropcards).<br><br>Processing company and - engineer for lacquer cut uncredited, identified by the stamped matrix.  |
 | Discogs URL    | [Dead Cross - Dead Cross](https://www.discogs.com/release/10642664-Dead-Cross-Dead-Cross) |

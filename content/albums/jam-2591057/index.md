@@ -4,6 +4,7 @@ artist_name: "Little Angels"
 artist: "little-angels"
 album_name: "Jam"
 date: 2016-04-15T18:22:14.000000Z
+release_date: "2023-02-21"
 release_id: "2591057"
 slug: "jam-2591057"
 hideSummary: true
@@ -30,40 +31,40 @@ Jam is the third studio album by British rock band Little Angels. It peaked at n
 The album features the band's biggest hit, "Womankind", which peaked at no. 12 during a five-week stay in the UK charts. The single "Too Much Too Young" features Canadian singer Bryan Adams on backup vocals, and also became a significant hit for the group, reaching no. 22. "Soap Box" and "Sail Away" were lesser hits, peaking at no. 33 and no. 45 respectively.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Jam
-2. The Way That I Live
-3. Too Much Too Young
-4. Splendid Isolation
-5. Soapbox
-6. S.T.W.
-7. Don't Confuse Sex With Love
-8. Womankind
-9. Eyes Wide Open
-10. The Colour Of Love
-11. I Was Not Wrong
-12. Sail Away
-13. Tired Of Waiting For You (So Tired)
-14. S.T.W. (Reprise)
-15. Live Jam
-16. She's A Little Angel
-17. Product Of The Working Class (Grooved & Jammed)
-18. I Ain't Gonna Cry
-19. Boneyard 1993
-20. Don't Prey For Me (Extended Version)
-21. Won't Get Fooled Again
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Jam |  |
+| A1 | The Way That I Live |  |
+| A2 | Too Much Too Young |  |
+| A3 | Splendid Isolation |  |
+| A4 | Soapbox |  |
+| A5 | S.T.W. |  |
+| A6 | Don't Confuse Sex With Love |  |
+| B1 | Womankind |  |
+| B2 | Eyes Wide Open |  |
+| B3 | The Colour Of Love |  |
+| B4 | I Was Not Wrong |  |
+| B5 | Sail Away |  |
+| B6 | Tired Of Waiting For You (So Tired) |  |
+| B7 | S.T.W. (Reprise) |  |
+|  | Live Jam |  |
+| C1 | She's A Little Angel |  |
+| C2 | Product Of The Working Class (Grooved & Jammed) |  |
+| C3 | I Ain't Gonna Cry |  |
+| D1 | Boneyard 1993 |  |
+| D2 | Don't Prey For Me (Extended Version) |  |
+| D3 | Won't Get Fooled Again |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/valentines-day-poop-jams/1673801865" >}}<br>
 
-
-## Videos
-### Little Angels  Womankind
-{{< youtube id="AyqjkGLewpY" title="Little Angels  Womankind" >}}<br>
 
 
 ## Release Images
@@ -76,5 +77,5 @@ The album features the band's biggest hit, "Womankind", which peaked at no. 12 d
 | Format         | Vinyl LP Album, Vinyl 10" 33 ⅓ RPM |
 | Label          | Polydor |
 | Catalog Number | 517 676-1 |
-| Notes | Includes Live Jam 10" recorded at Newport Centre, Gwent  With hype sticker on sleeve and printed inner sleeve.  'Tired Of Waiting For You' originally performed by [a94078] 'Won't Get Fooled Again' originally performed by [a196766]  ℗ 1992 Polydor Ltd. (UK) ℗ 1993 Polydor Ltd. (UK) © 1993 Polydor Ltd. (UK) |
+| Notes | Includes Live Jam 10" recorded at Newport Centre, Gwent<br><br>With hype sticker on sleeve and printed inner sleeve.<br><br>'Tired Of Waiting For You' originally performed by [a94078]<br>'Won't Get Fooled Again' originally performed by [a196766]<br><br>℗ 1992 Polydor Ltd. (UK)<br>℗ 1993 Polydor Ltd. (UK)<br>© 1993 Polydor Ltd. (UK) |
 | Discogs URL    | [Little Angels - Jam](https://www.discogs.com/release/2591057-Little-Angels-Jam) |

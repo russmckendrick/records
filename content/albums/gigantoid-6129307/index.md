@@ -4,6 +4,7 @@ artist_name: "Fu Manchu"
 artist: "fu-manchu"
 album_name: "Gigantoid"
 date: 2017-02-15T18:28:24.000000Z
+release_date: "2014-04-29"
 release_id: "6129307"
 slug: "gigantoid-6129307"
 hideSummary: true
@@ -27,38 +28,29 @@ Gigantoid is the eleventh studio album by American stoner rock band Fu Manchu. I
 Initially released as a 2013 split seven-inch single with psych-metal trio Moab, "Robotic Invasion" appears as a bonus track on the digital version of Gigantoid.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Dimension Shifter
-2. Invaders On My Back
-3. Anxiety Reducer
-4. Radio Source Sagitarius
-5. Mutant
-6. No Warning
-7. Evolution Machine
-8. Triplanetary
-9. The Last Question
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dimension Shifter |  |
+| A2 | Invaders On My Back |  |
+| A3 | Anxiety Reducer |  |
+| A4 | Radio Source Sagitarius |  |
+| A5 | Mutant |  |
+| B1 | No Warning |  |
+| B2 | Evolution Machine |  |
+| B3 | Triplanetary |  |
+| B4 | The Last Question |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gigantoid/868547942" >}}<br>
 
 
-## Videos
-### Dimension Shifter
-{{< youtube id="RIzhUm0Gt_g" title="Dimension Shifter" >}}<br>
-### More Videos
-
-- [Fu Manchu - Invaders On My Back Official Audio](https://www.youtube.com/watch?v=6N3wQ084we8)
-- [Fu Manchu - Anxiety Reducer Official Audio](https://www.youtube.com/watch?v=bZQ-kKUfNFY)
-- [Radio Source Sagittarius](https://www.youtube.com/watch?v=sKz39VLf2KM)
-- [Mutant](https://www.youtube.com/watch?v=bTI8HXleDm4)
-- [No Warning](https://www.youtube.com/watch?v=XvwDc95TkH8)
-- [Evolution Machine](https://www.youtube.com/watch?v=0SdypZTlVw8)
-- [Triplanetary](https://www.youtube.com/watch?v=RcruRnHbZ_o)
-- [Fu Manchu - The Last Question Audio](https://www.youtube.com/watch?v=aGX_AQOBolw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +62,5 @@ Initially released as a 2013 split seven-inch single with psych-metal trio Moab,
 | Format         | Vinyl LP Album Repress (Blue Translucent With White Splatter) |
 | Label          | At The Dojo Records |
 | Catalog Number | ATD008 |
-| Notes | Second pressing of approximately 1000 copies. Issued with an single-sided, printed inner sheet. Pressing plant uncredited, identified by the matrix numbers.  [Back cover] ℗&© Fu Manchu under license to At The Dojo Records  [Inner sheet] Recorded, engineered and mixed […] at Susstudio in Simi Valley, CA march 2014 Additional recording […] at The Racket Room in Santa Ana, CA Mastered […] at Oasis Mastering, Burbank, CA  Published by: Fu Music (ASCAP)  The "Management" credit is printed as "Brian Frank for BFrank Management" on the release. The "USA Booking" credit is printed as "Merrick Jarmulowicz for Ground Control Touring" on the release. The "Outside The USA Booking" credit is printed as "Steve Zapp for ITB" on the release. The "Legal" credit is printed as "Joseph Lloyd Serling for Serling, Rooks & Ferrara" on the release.  [Labels]  ℗ & © Fu Manchu under license to At The Dojo Records |
+| Notes | Second pressing of approximately 1000 copies. Issued with an single-sided, printed inner sheet.<br>Pressing plant uncredited, identified by the matrix numbers.<br><br>[Back cover]<br>℗&© Fu Manchu under license to At The Dojo Records<br><br>[Inner sheet]<br>Recorded, engineered and mixed […] at Susstudio in Simi Valley, CA march 2014<br>Additional recording […] at The Racket Room in Santa Ana, CA<br>Mastered […] at Oasis Mastering, Burbank, CA<br><br>Published by: Fu Music (ASCAP)<br><br>The "Management" credit is printed as "Brian Frank for BFrank Management" on the release.<br>The "USA Booking" credit is printed as "Merrick Jarmulowicz for Ground Control Touring" on the release.<br>The "Outside The USA Booking" credit is printed as "Steve Zapp for ITB" on the release.<br>The "Legal" credit is printed as "Joseph Lloyd Serling for Serling, Rooks & Ferrara" on the release.<br><br>[Labels] <br>℗ & © Fu Manchu under license to At The Dojo Records |
 | Discogs URL    | [Fu Manchu - Gigantoid](https://www.discogs.com/release/6129307-Fu-Manchu-Gigantoid) |

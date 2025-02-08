@@ -4,6 +4,7 @@ artist_name: "Jeff Buckley"
 artist: "jeff-buckley"
 album_name: "Live At Sin-é"
 date: 2018-04-21T11:03:08.000000Z
+release_date: "2007-05-22"
 release_id: "11893791"
 slug: "live-at-sin-11893791"
 hideSummary: true
@@ -43,60 +44,53 @@ styles: ["Folk Rock", "Art Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Be Your Husband
-2. Lover, You Should've Come Over
-3. Mojo Pin
-4. Monologue - Duane Eddy, Songs For Lovers
-5. Grace
-6. Monologue - Reverb, The Doors
-7. Strange Fruit
-8. Night Flight
-9. If You Knew
-10. Monologue - Fabulous Time For A Guinness 
-11. Unforgiven (Last Goodbye)
-12. Twelfth Of Never
-13. Monologue - Café Days
-14. Monologue - Eternal Life
-15. Eternal Life
-16. Just Like A Woman
-17. Monologue - False Start, Apology, Miles Davis
-18. Calling You
-19. Monologue - Nusrat, He's My Elvis
-20. Yeh Jo Halka Halka Saroor Hai
-21. Monologue - I'm A Ridiculous Person
-22. If You See Her, Say Hello
-23. Monologue - Matt Dillon, Hollies, Classic Rock Radio
-24. Dink's Song (Traditional)
-25. Monologue - Musical Chairs
-26. Drown In My Own Tears
-27. Monologue - The Suckiest Water
-28. The Way Young Lovers Do
-29. Monologue - Walk Through Walls
-30. Je N'en Connais Pas La Fin
-31. I Shall Be Released
-32. Sweet Thing
-33. Monologue - Good Night Bill
-34. Hallelujah
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Be Your Husband |  |
+| A2 | Lover, You Should've Come Over |  |
+| A3 | Mojo Pin |  |
+| A4 | Monologue - Duane Eddy, Songs For Lovers |  |
+| B1 | Grace |  |
+| B2 | Monologue - Reverb, The Doors |  |
+| B3 | Strange Fruit |  |
+| B4 | Night Flight |  |
+| C1 | If You Knew |  |
+| C2 | Monologue - Fabulous Time For A Guinness  |  |
+| C3 | Unforgiven (Last Goodbye) |  |
+| C4 | Twelfth Of Never |  |
+| C5 | Monologue - Café Days |  |
+| D1 | Monologue - Eternal Life |  |
+| D2 | Eternal Life |  |
+| D3 | Just Like A Woman |  |
+| D4 | Monologue - False Start, Apology, Miles Davis |  |
+| D5 | Calling You |  |
+| E1 | Monologue - Nusrat, He's My Elvis |  |
+| E2 | Yeh Jo Halka Halka Saroor Hai |  |
+| E3 | Monologue - I'm A Ridiculous Person |  |
+| E4 | If You See Her, Say Hello |  |
+| F1 | Monologue - Matt Dillon, Hollies, Classic Rock Radio |  |
+| F2 | Dink's Song (Traditional) |  |
+| F3 | Monologue - Musical Chairs |  |
+| F4 | Drown In My Own Tears |  |
+| F5 | Monologue - The Suckiest Water |  |
+| G1 | The Way Young Lovers Do |  |
+| G2 | Monologue - Walk Through Walls |  |
+| G3 | Je N'en Connais Pas La Fin |  |
+| G4 | I Shall Be Released |  |
+| H1 | Sweet Thing |  |
+| H2 | Monologue - Good Night Bill |  |
+| H3 | Hallelujah |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/so-real-songs-from-jeff-buckley-expanded-edition/1476893546" >}}<br>
 
 
-## Videos
-### Be Your Husband Live at Sin-é New York NY - JulyAugust 1993
-{{< youtube id="bYukHsAsBxY" title="Be Your Husband Live at Sin-é New York NY - JulyAugust 1993" >}}<br>
-### More Videos
-
-- [Jeff Buckley - Lover You Shouldve Come Over Live at Sin-é](https://www.youtube.com/watch?v=GQm1cX8uWxE)
-- [Night Flight Live at Sin-é New York NY - JulyAugust 1993](https://www.youtube.com/watch?v=hYN8Mk54XHg)
-- [jeff buckley - sweet thing](https://www.youtube.com/watch?v=3f08Erq5EK8)
-- [Jeff Buckley - Hallelujah live at Sin-é](https://www.youtube.com/watch?v=BsyRq0WFOHY)
-- [Be Your Husband Live at Sin-é New York NY - JulyAugust 1993](https://www.youtube.com/watch?v=bYukHsAsBxY)
-- [Jeff Buckley - Lover You Shouldve Come Over Live at Sin-é](https://www.youtube.com/watch?v=GQm1cX8uWxE)
-- [Night Flight Live at Sin-é New York NY - JulyAugust 1993](https://www.youtube.com/watch?v=hYN8Mk54XHg)
-- [jeff buckley - sweet thing](https://www.youtube.com/watch?v=3f08Erq5EK8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -107,5 +101,5 @@ styles: ["Folk Rock", "Art Rock"]
 | Format         | Vinyl 4× LP Album Record Store Day Deluxe Edition Limited Edition Numbered |
 | Label          | Columbia |
 | Catalog Number | 88985494801 |
-| Notes | Fabric box containing 4 single glossy jackets with black paper inner sleeves. Eight page full color booklet of photos and liner notes.  Hype sticker says: "Record Store Day  First Time on Vinyl 34 Songs recorded live during Jeff Buckley's café days in the summer of 1993 Individually numbered 4LP set limited edition deluxe packaging 88985494801S1"  Made in the EU. |
+| Notes | Fabric box containing 4 single glossy jackets with black paper inner sleeves.<br>Eight page full color booklet of photos and liner notes.<br><br>Hype sticker says:<br>"Record Store Day <br>First Time on Vinyl<br>34 Songs recorded live during Jeff Buckley's café days in the summer of 1993<br>Individually numbered 4LP set limited edition deluxe packaging<br>88985494801S1"<br><br>Made in the EU. |
 | Discogs URL    | [Jeff Buckley - Live At Sin-é](https://www.discogs.com/release/11893791-Jeff-Buckley-Live-At-Sin-é) |

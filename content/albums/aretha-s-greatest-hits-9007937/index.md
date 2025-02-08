@@ -4,6 +4,7 @@ artist_name: "Aretha Franklin"
 artist: "aretha-franklin"
 album_name: "Aretha's Greatest Hits"
 date: 2016-09-06T16:36:37.000000Z
+release_date: "2014-10-17"
 release_id: "9007937"
 slug: "aretha-s-greatest-hits-9007937"
 hideSummary: true
@@ -25,52 +26,34 @@ styles: ["Soul"]
 Aretha's Greatest Hits is the third compilation album by American singer Aretha Franklin. Released on September 9, 1971, on Atlantic Records, the compilation contains three new recordings: "Spanish Harlem", "You're All I Need to Get By" and "Bridge Over Troubled Water".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Spanish Harlem (3:30)
-2. Chain Of Fools (2:45)
-3. Don't Play That Song (2:48)
-4. I Say A Little Prayer (3:30)
-5. Dr. Feelgood (3:18)
-6. Let It Be (3:28)
-7. Do Right Woman - Do Right Man (3:15)
-8. Bridge Over Troubled Water (5:31)
-9. Respect (2:26)
-10. Baby I Love You (2:39)
-11. (You Make Me Feel LIke) A Natural Woman (2:39)
-12. I Never Loved A Man (The Way I Love You) (2:47)
-13. You're All I Need To Get By (3:34)
-14. Call Me (3:18)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Spanish Harlem | 3:30 |
+| A2 | Chain Of Fools | 2:45 |
+| A3 | Don't Play That Song | 2:48 |
+| A4 | I Say A Little Prayer | 3:30 |
+| A5 | Dr. Feelgood | 3:18 |
+| A6 | Let It Be | 3:28 |
+| A7 | Do Right Woman - Do Right Man | 3:15 |
+| B1 | Bridge Over Troubled Water | 5:31 |
+| B2 | Respect | 2:26 |
+| B3 | Baby I Love You | 2:39 |
+| B4 | (You Make Me Feel LIke) A Natural Woman | 2:39 |
+| B5 | I Never Loved A Man (The Way I Love You) | 2:47 |
+| B6 | You're All I Need To Get By | 3:34 |
+| B7 | Call Me | 3:18 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/aretha-franklin-sings-the-great-diva-classics/923074872" >}}<br>
 
 
-## Videos
-### Aretha Franklin - Greatest Hits Official Full Album  Aretha Franklin Best Songs Playlist
-{{< youtube id="wNwUQJzPY20" title="Aretha Franklin - Greatest Hits Official Full Album  Aretha Franklin Best Songs Playlist" >}}<br>
-### More Videos
-
-- [Aretha Franklin - Aretha Franklin Greatest Hits Full Album 2022 - Best Songs of Aretha Franklin](https://www.youtube.com/watch?v=bn94rDK-TXc)
-- [Aretha Franklin - The Genius of Aretha Franklin Full Album](https://www.youtube.com/watch?v=qQRfayx3WEo)
-- [Arethas Greatest Hits Atlantic](https://www.youtube.com/watch?v=KuDE2JzHYhU)
-- [Aretha Franklin Best Songs Playlist  Aretha Franklin - Greatest Hits Officia Full Album ](https://www.youtube.com/watch?v=0Ys2wDneQvg)
-- [Aretha Franklin - Aretha Franklin Greatest Hits Full Album 2022 - Best Songs of Aretha Franklin](https://www.youtube.com/watch?v=OFaV-llC3CI)
-- [Aretha Franklin - Aretha Franklin Greatest Hits Full Album 2022 - Best Songs of Aretha Franklin](https://www.youtube.com/watch?v=8vjbV9rWsnU)
-- [Aretha Franklin Greatest Hits - The Best Of Aretha Franklin Full Album 2022](https://www.youtube.com/watch?v=gyi_eF5WcqE)
-- [Aretha Franklin - Aretha Franklin Greatest Hits Full Album 2022 - Best Songs of Aretha Franklin](https://www.youtube.com/watch?v=IKkX5t5oOfA)
-- [Aretha Franklin Greatest Hits - The Best Of Aretha Franklin Full Album 2022](https://www.youtube.com/watch?v=7HOyoYqtSKU)
-- [Aretha Franklin - Amazing Grace Full Album Official Video](https://www.youtube.com/watch?v=tkke4ctTYf8)
-- [Aretha Franklin Greatest Hits - The Best Of Aretha Franklin Full Album 2022](https://www.youtube.com/watch?v=p3bJ9nJKkyc)
-- [Aretha Franklin  Greatest Hits 2018 - Best Of Aretha Franklin](https://www.youtube.com/watch?v=19cdDI571nQ)
-- [Aretha Franklin - Greatest Hits Official Full Album  Aretha Franklin Best Songs Playlist](https://www.youtube.com/watch?v=s1xUqP1VMRw)
-- [Aretha Franklins Greatest Hits    The Very Best Of Aretha Franklin](https://www.youtube.com/watch?v=UVLlJaT--eQ)
-- [Aretha Franklin Greatest Hits  Top 100 Artists To Listen in 2022  2023](https://www.youtube.com/watch?v=nQEBJgtTFsU)
-- [Aretha Franklin  Arethas Greatest Hits](https://www.youtube.com/watch?v=KPQmbRfCdww)
-- [Greatest Hits Official Full Album - Aretha Franklin Best Songs Playlist - Aretha Franklin](https://www.youtube.com/watch?v=D_rpvSHCl7w)
 
 ## Release Images
 {{< imageGrid >}}

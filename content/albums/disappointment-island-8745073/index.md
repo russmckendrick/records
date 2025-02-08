@@ -4,6 +4,7 @@ artist_name: "This Town Needs Guns"
 artist: "this-town-needs-guns"
 album_name: "Disappointment Island"
 date: 2016-08-30T16:04:51.000000Z
+release_date: ""
 release_id: "8745073"
 slug: "disappointment-island-8745073"
 hideSummary: true
@@ -21,30 +22,30 @@ styles: ["Emo", "Indie Rock"]
 
 Disappointment Island is one of seven uninhabited islands in the Auckland Islands archipelago, in New Zealand. It is 475 kilometres (295 mi) south of the country's main South Island and 8 kilometres (5 mi) from the northwest end of Auckland Island.
 It is home to a large colony of white-capped albatrosses: about 65,000 pairs – nearly the entire world's population – nest there. Also on the island is the Auckland rail, endemic to the archipelago; once thought to be extinct, it was rediscovered in 1966. The island is known for being one of the least-modified subantarctic islands in New Zealand.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Coconut Crab
-2. A Chase Of Sorts
-3. Consoling Ghosts
-4. In Praise Of Idleness
-5. Whatever, Whenever
-6. Bliss Quest
-7. There's No 'I' In Time
-8. Destroy The Tabernacle!
-9. Sponkulus Nodge
-10. Empty Palms
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Coconut Crab |  |
+| A2 | A Chase Of Sorts |  |
+| A3 | Consoling Ghosts |  |
+| A4 | In Praise Of Idleness |  |
+| A5 | Whatever, Whenever |  |
+| B1 | Bliss Quest |  |
+| B2 | There's No 'I' In Time |  |
+| B3 | Destroy The Tabernacle! |  |
+| B4 | Sponkulus Nodge |  |
+| B5 | Empty Palms |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### TTNG - Disappointment Island Full LP 2016
-{{< youtube id="hI6Yeas0aMc" title="TTNG - Disappointment Island Full LP 2016" >}}<br>
-### More Videos
 
-- [TTNG - Disappointment Island Full LP 2016](https://www.youtube.com/watch?v=hI6Yeas0aMc)
 
 ## Release Images
 {{< imageGrid >}}

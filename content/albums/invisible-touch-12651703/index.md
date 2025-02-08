@@ -31,22 +31,21 @@ Invisible Touch was a worldwide success and reached No. 1 on the UK Albums Chart
 
 
 ## Tracklisting
-1. Invisible Touch
-2. Tonight, Tonight, Tonight
-3. Land Of Confusion
-4. In Too Deep
-5. Anything She Does
-6. Domino
-7. Throwing It All Away
-8. The Brazilian
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Invisible Touch |  |
+| A2 | Tonight, Tonight, Tonight |  |
+| A3 | Land Of Confusion |  |
+| A4 | In Too Deep |  |
+| B1 | Anything She Does |  |
+| B2 | Domino |  |
+| B3 | Throwing It All Away |  |
+| B4 | The Brazilian |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/invisible-touch-2007-remaster/396483774" >}}<br>
 
-
-## Videos
-### Genesis - Invisible Touch Official Music Video
-{{< youtube id="epOBenUjIHw" title="Genesis - Invisible Touch Official Music Video" >}}<br>
 
 
 ## Release Images
@@ -59,5 +58,5 @@ Invisible Touch was a worldwide success and reached No. 1 on the UK Albums Chart
 | Format         | Vinyl LP Album Deluxe Edition Reissue Remastered (180 Gram) |
 | Label          | Atlantic |
 | Catalog Number | R1 37416-1 |
-| Notes | Genesis The Classic Masters Deluxe Edition Half Speed Mastering 2008 Mixes by Nick Davis  180 Gram Audiophile Vinyl  |
+| Notes | Genesis The Classic Masters<br>Deluxe Edition<br>Half Speed Mastering<br>2008 Mixes by Nick Davis <br>180 Gram Audiophile Vinyl  |
 | Discogs URL    | [Genesis - Invisible Touch](https://www.discogs.com/release/12651703-Genesis-Invisible-Touch) |

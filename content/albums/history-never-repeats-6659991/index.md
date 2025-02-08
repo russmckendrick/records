@@ -4,6 +4,7 @@ artist_name: "Split Enz"
 artist: "split-enz"
 album_name: "History Never Repeats"
 date: 2018-10-03T18:03:57.000000Z
+release_date: "1981-04-01"
 release_id: "6659991"
 slug: "history-never-repeats-6659991"
 hideSummary: true
@@ -24,31 +25,23 @@ styles: ["New Wave"]
 History Never Repeats – The Best of Split Enz is a compilation of hits by New Zealand rock band Split Enz. Initially released in the US in 1987, then in New Zealand and Australia in 1989, the album has been through many variations and reissues over the years.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. History Never Repeats (3:00)
-2. Shark Attack (3:00)
-3. What's The Matter With You (4:34)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | History Never Repeats | 3:00 |
+| B1 | Shark Attack | 3:00 |
+| B2 | What's The Matter With You | 4:34 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/waiata/1442252874" >}}<br>
 
 
-## Videos
-### Split Enz - History Never Repeats Official Video
-{{< youtube id="xXrWTFvnqKI" title="Split Enz - History Never Repeats Official Video" >}}<br>
-### More Videos
-
-- [Split Enz - Shark Attack](https://www.youtube.com/watch?v=kl2dslwQ29w)
-- [Split Enz - History Never Repeats](https://www.youtube.com/watch?v=vFp4axRBag8)
-- [Split Enz - History Never Repeats Official Video](https://www.youtube.com/watch?v=xXrWTFvnqKI)
-- [Split Enz - Whats The Matter With You good quality](https://www.youtube.com/watch?v=PcdAU0RlmZY)
-- [Split Enz - History Never Repeats Official Video](https://www.youtube.com/watch?v=xXrWTFvnqKI)
-- [Split Enz - History Never Repeats Official Video](https://www.youtube.com/watch?v=xXrWTFvnqKI)
-- [Split Enz - Shark Attack](https://www.youtube.com/watch?v=kl2dslwQ29w)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,5 +53,5 @@ History Never Repeats – The Best of Split Enz is a compilation of hits by New 
 | Format         | Vinyl 7" 45 RPM Single Etched |
 | Label          | A&M Records |
 | Catalog Number | AMS 8128 |
-| Notes | A-side has a laser etched pattern on the vinyl.    B1 and B2 recorded live at the Hammersmith Odeon.    ℗ 1981 Mushroom Records Pty. Ltd.    A [url=http://www.discogs.com/Split-Enz-History-Never-Repeats/release/626169]similar version[/url] exists with generic A&M labels.   |
+| Notes | A-side has a laser etched pattern on the vinyl.<br><br>B1 and B2 recorded live at the Hammersmith Odeon.<br><br>℗ 1981 Mushroom Records Pty. Ltd.<br><br>A [url=http://www.discogs.com/Split-Enz-History-Never-Repeats/release/626169]similar version[/url] exists with generic A&M labels.<br> |
 | Discogs URL    | [Split Enz - History Never Repeats](https://www.discogs.com/release/6659991-Split-Enz-History-Never-Repeats) |

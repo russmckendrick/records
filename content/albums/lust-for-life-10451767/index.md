@@ -4,6 +4,7 @@ artist_name: "Iggy Pop"
 artist: "iggy-pop"
 album_name: "Lust For Life"
 date: 2017-07-05T14:34:19.000000Z
+release_date: "1977-08-29"
 release_id: "10451767"
 slug: "lust-for-life-10451767"
 hideSummary: true
@@ -24,40 +25,29 @@ styles: []
 ---
 
 "Lust for Life" is a 1977 song performed by American singer Iggy Pop and co-written by David Bowie, featured on the album of the same name.  In 2004, Rolling Stone ranked it at No. 149 on their list of "The 500 Greatest Songs of All Time", re-ranking it at No. 325 in their 2021 updated list.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Lust For Life
-2. Sixteen
-3. Some Weird Sin
-4. The Passenger
-5. Tonight
-6. Success
-7. Turn Blue
-8. Neighborhood Threat
-9. Fall In Love With Me
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Lust For Life |  |
+| A2 | Sixteen |  |
+| A3 | Some Weird Sin |  |
+| A4 | The Passenger |  |
+| A5 | Tonight |  |
+| B1 | Success |  |
+| B2 | Turn Blue |  |
+| B3 | Neighborhood Threat |  |
+| B4 | Fall In Love With Me |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lust-for-life/1440882892" >}}<br>
 
 
-## Videos
-### Iggy Pop - Lust For Life
-{{< youtube id="jQvUBf5l7Vw" title="Iggy Pop - Lust For Life" >}}<br>
-### More Videos
-
-- [Iggy Pop - Lust For Life Edit  Audio](https://www.youtube.com/watch?v=kbCghaLVTOY)
-- [Iggy pop-Lust for life-Lust for life](https://www.youtube.com/watch?v=HuBU3pzy7is)
-- [Iggy Pop - Sixteen](https://www.youtube.com/watch?v=Ef0pxxbkvr0)
-- [Iggy pop-Lust for life-Some weird sin](https://www.youtube.com/watch?v=D_uF6ObhDks)
-- [Iggy Pop - The Passenger Official Video](https://www.youtube.com/watch?v=-fWw7FE9tTo)
-- [Tonight - Iggy Pop](https://www.youtube.com/watch?v=i--aKHwPPJI)
-- [Iggy pop-Lust for life-Success](https://www.youtube.com/watch?v=zTprPVmF8wk)
-- [Iggy pop-Lust for life-Turn Blue](https://www.youtube.com/watch?v=XfUM_NOiWqs)
-- [Iggy pop-Lust for life-Neighbourhood threat](https://www.youtube.com/watch?v=g3L039-UQ-4)
-- [Iggy pop-Lust for life-Fall in love with me](https://www.youtube.com/watch?v=J8C6OfhbC6U)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +59,5 @@ styles: []
 | Format         | Vinyl LP Album Limited Edition Reissue (Red, 180) |
 | Label          | UMC |
 | Catalog Number | 00600753772454 |
-| Notes | Exclusive to HMV stores in the UK as part of their Vinyl Week. Limited to 1500 copies. Includes voucher to download MP3 version of the album.  Album notes credit Vocals to "The Band". Writer credits of Tony & Hunt Sales are credited on labels to the "Sales Brothers".  Made in the EU. |
+| Notes | Exclusive to HMV stores in the UK as part of their Vinyl Week. Limited to 1500 copies. Includes voucher to download MP3 version of the album.<br><br>Album notes credit Vocals to "The Band".<br>Writer credits of Tony & Hunt Sales are credited on labels to the "Sales Brothers".<br><br>Made in the EU. |
 | Discogs URL    | [Iggy Pop - Lust For Life](https://www.discogs.com/release/10451767-Iggy-Pop-Lust-For-Life) |

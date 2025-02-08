@@ -1,9 +1,10 @@
 ---
 title: "Sigur Rós - Takk..."
 artist_name: "Sigur Rós"
-artist: "sigur-r-s"
+artist: "sigur-ros"
 album_name: "Takk..."
 date: 2016-12-04T11:07:33.000000Z
+release_date: "2005-08-22"
 release_id: "7665804"
 slug: "takk-7665804"
 hideSummary: true
@@ -34,43 +35,31 @@ styles: ["Post Rock"]
 Takk... ([ˈtʰaʰkː], Thanks...) is the fourth studio album by the Icelandic post-rock band Sigur Rós, first released in the United States by Geffen Records on 12 September 2005. The album debuted at number 27 on the US Billboard 200, selling 30,000 copies in its first week.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Takk...
-2. Glósóli
-3. Hoppípolla
-4. Með Blóðnasir
-5. Sé Lest
-6. Sæglópur
-7. Gong
-8. Andvari
-9. Svo Hljótt
-10. Heysátan
-11. Mílanó
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Takk... |  |
+| A2 | Glósóli |  |
+| A3 | Hoppípolla |  |
+| A4 | Með Blóðnasir |  |
+| B1 | Sé Lest |  |
+| B2 | Sæglópur |  |
+| C1 | Gong |  |
+| C2 | Andvari |  |
+| D1 | Svo Hljótt |  |
+| D2 | Heysátan |  |
+| E | Mílanó |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/takk/697318976" >}}<br>
 
 
-## Videos
-### Sigur Ros - Glósóli Official Music Video
-{{< youtube id="Bz8iEJeh26E" title="Sigur Ros - Glósóli Official Music Video" >}}<br>
-### More Videos
-
-- [Takk](https://www.youtube.com/watch?v=mT8X_5m25bI)
-- [Glósóli](https://www.youtube.com/watch?v=jG5Lk99kG_s)
-- [Hoppípolla](https://www.youtube.com/watch?v=559un6zgVq4)
-- [Með Blóðnasir](https://www.youtube.com/watch?v=7D3rNTwYJqU)
-- [Sé lest](https://www.youtube.com/watch?v=WeYcCIo82UE)
-- [Sæglópur](https://www.youtube.com/watch?v=IP4kUjIXOMk)
-- [Mílanó](https://www.youtube.com/watch?v=21PFpLDWw0Q)
-- [Gong](https://www.youtube.com/watch?v=8pVHOlHNOp8)
-- [Andvari](https://www.youtube.com/watch?v=4r9Vgj8UuD8)
-- [Svo hljótt](https://www.youtube.com/watch?v=FUri60guH2w)
-- [Heysátan](https://www.youtube.com/watch?v=zEGX8WEodDU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +71,5 @@ Takk... ([ˈtʰaʰkː], Thanks...) is the fourth studio album by the Icelandic p
 | Format         | Vinyl 2× LP (180 g), Vinyl 10" 33 ⅓ RPM Single Sided Etched, All Media Album Deluxe Edition Limited Edition Reissue |
 | Label          | Krúnk |
 | Catalog Number | KRUNK9LP |
-| Notes | 2015 reissue on two 180g LPs and a single-sided etched 10" on thinner vinyl, in original packaging in debossed gatefold sleeve with die-cut inner flap holding the 10".  Sticker on front reads: Sigur Rós "Takk…" Deluxe 180g Vinyl 2 x LP & Etched 10"  Sides are actually numbered 1A, 1B, 2A, 2B, 3A. |
+| Notes | 2015 reissue on two 180g LPs and a single-sided etched 10" on thinner vinyl, in original packaging in debossed gatefold sleeve with die-cut inner flap holding the 10".<br><br>Sticker on front reads:<br>Sigur Rós<br>"Takk…"<br>Deluxe 180g Vinyl<br>2 x LP<br>&<br>Etched 10"<br><br>Sides are actually numbered 1A, 1B, 2A, 2B, 3A. |
 | Discogs URL    | [Sigur Rós - Takk...](https://www.discogs.com/release/7665804-Sigur-Rós-Takk) |

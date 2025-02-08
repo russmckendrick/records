@@ -4,6 +4,7 @@ artist_name: "John Moreland"
 artist: "john-moreland"
 album_name: "High On Tulsa Heat"
 date: 2016-01-20T19:12:37.000000Z
+release_date: "2015-04-21"
 release_id: "6906611"
 slug: "high-on-tulsa-heat-6906611"
 hideSummary: true
@@ -24,41 +25,29 @@ styles: ["Acoustic", "Folk"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Hang Me In The Tulsa County Stars
-2. Heart's Too Heavy
-3. Cleveland County Blues
-4. White Flag
-5. Sad Baptist Rain
-6. Cherokee
-7. Losing Sleep Tonight 
-8. American Flags In Black & White
-9. You Don't Care For Me Enough To Cry
-10. High On Tulsa Heat
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hang Me In The Tulsa County Stars |  |
+| A2 | Heart's Too Heavy |  |
+| A3 | Cleveland County Blues |  |
+| A4 | White Flag |  |
+| A5 | Sad Baptist Rain |  |
+| B1 | Cherokee |  |
+| B2 | Losing Sleep Tonight  |  |
+| B3 | American Flags In Black & White |  |
+| B4 | You Don't Care For Me Enough To Cry |  |
+| B5 | High On Tulsa Heat |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/high-on-tulsa-heat/968599286" >}}<br>
 
 
-## Videos
-### John Moreland - High On Tulsa Heat Full Album 2015
-{{< youtube id="9fKhz3bWMrA" title="John Moreland - High On Tulsa Heat Full Album 2015" >}}<br>
-### More Videos
-
-- [High on Tulsa Heat](https://www.youtube.com/watch?v=c40ou27eoFs)
-- [John Moreland from High On Tulsa Heat at The Kessler](https://www.youtube.com/watch?v=ZuBGQ9ADoFE)
-- [Hang Me in the Tulsa County Stars](https://www.youtube.com/watch?v=dVBVSysjTiI)
-- [Cleveland County Blues](https://www.youtube.com/watch?v=8FDHleNGyAo)
-- [John Moreland Hang Me in the Tulsa County Stars Live at SXSW 2015 FULL VERSION](https://www.youtube.com/watch?v=7s-oZALFMZ8)
-- [John Moreland - Cherokee Official Video](https://www.youtube.com/watch?v=usWrJ8qy5lY)
-- [John Moreland - High On Tulsa Heat Full Album 2015](https://www.youtube.com/watch?v=9fKhz3bWMrA)
-- [High on Tulsa Heat](https://www.youtube.com/watch?v=c40ou27eoFs)
-- [John Moreland from High On Tulsa Heat at The Kessler](https://www.youtube.com/watch?v=ZuBGQ9ADoFE)
-- [Hang Me in the Tulsa County Stars](https://www.youtube.com/watch?v=dVBVSysjTiI)
-- [Cleveland County Blues](https://www.youtube.com/watch?v=8FDHleNGyAo)
-- [John Moreland Hang Me in the Tulsa County Stars Live at SXSW 2015 FULL VERSION](https://www.youtube.com/watch?v=7s-oZALFMZ8)
-- [John Moreland - Cherokee Official Video](https://www.youtube.com/watch?v=usWrJ8qy5lY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +58,5 @@ styles: ["Acoustic", "Folk"]
 | Format         | Vinyl LP Album |
 | Label          | Old Omens |
 | Catalog Number | OO01 |
-| Notes | Pressed on 180 gram vinyl housed in anti-static sleeve with printed insert and download card.  Recorded July - October 2014 in Bixby, OK & Norman, OK.  Runouts are etched, except for WELL MADE MUSIC on side B, which is stamped. |
+| Notes | Pressed on 180 gram vinyl housed in anti-static sleeve with printed insert and download card.<br><br>Recorded July - October 2014 in Bixby, OK & Norman, OK.<br><br>Runouts are etched, except for WELL MADE MUSIC on side B, which is stamped. |
 | Discogs URL    | [John Moreland - High On Tulsa Heat](https://www.discogs.com/release/6906611-John-Moreland-High-On-Tulsa-Heat) |

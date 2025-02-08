@@ -4,6 +4,7 @@ artist_name: "Primal Scream"
 artist: "primal-scream"
 album_name: "Maximum Rock 'N' Roll The Singles Volume 1 "
 date: 2019-06-16T21:51:10.000000Z
+release_date: "2019-05-24"
 release_id: "13767535"
 slug: "maximum-rock-n-roll-the-singles-volume-1-13767535"
 hideSummary: true
@@ -21,46 +22,36 @@ styles: ["Indie Rock", "Alternative Rock", "Downtempo", "House", "Trip Hop", "Bl
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Velocity Girl
-2. Gentle Tuesday
-3. Imperial
-4. Ivy Ivy Ivy
-5. Loaded
-6. Come Together
-7. Higher Than The Sun
-8. Don't Fight It, Feel It
-9. Movin' On Up
-10. Rocks
-11. Jailbird
-12. (I'm Gonna) Cry Myself Blind
-13. Kowalski
-14. Star
-15. Burning Wheel
-16. Swastika Eyes
-17. Kill All Hippies
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Velocity Girl |  |
+| A2 | Gentle Tuesday |  |
+| A3 | Imperial |  |
+| A4 | Ivy Ivy Ivy |  |
+| A5 | Loaded |  |
+| B1 | Come Together |  |
+| B2 | Higher Than The Sun |  |
+| B3 | Don't Fight It, Feel It |  |
+|  B4 | Movin' On Up |  |
+| C1 | Rocks |  |
+| C2 | Jailbird |  |
+| C3 | (I'm Gonna) Cry Myself Blind |  |
+| C4 | Kowalski |  |
+| D1 | Star |  |
+| D2 | Burning Wheel |  |
+| D3 | Swastika Eyes |  |
+| D4 | Kill All Hippies |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/maximum-rock-n-roll-the-singles-remastered/1459271784" >}}<br>
 
 
-## Videos
-### Rocks Remastered
-{{< youtube id="R7n2_OLmzMM" title="Rocks Remastered" >}}<br>
-### More Videos
-
-- [Ivy Ivy Ivy Remastered](https://www.youtube.com/watch?v=Nc8EB_iybKw)
-- [Movin on Up Remastered](https://www.youtube.com/watch?v=p2MCQyXVQdA)
-- [Dolls Sweet Rock and Roll Remastered](https://www.youtube.com/watch?v=xXHOnU1JiPE)
-- [Sometimes I Feel So Lonely Remastered](https://www.youtube.com/watch?v=DelB2BSBRoQ)
-- [Star Remastered](https://www.youtube.com/watch?v=8n1PJfskOtU)
-- [Rocks Remastered](https://www.youtube.com/watch?v=R7n2_OLmzMM)
-- [Ivy Ivy Ivy Remastered](https://www.youtube.com/watch?v=Nc8EB_iybKw)
-- [Movin on Up Remastered](https://www.youtube.com/watch?v=p2MCQyXVQdA)
-- [Dolls Sweet Rock and Roll Remastered](https://www.youtube.com/watch?v=xXHOnU1JiPE)
-- [Sometimes I Feel So Lonely Remastered](https://www.youtube.com/watch?v=DelB2BSBRoQ)
-- [Star Remastered](https://www.youtube.com/watch?v=8n1PJfskOtU)
 
 ## Release Images
 {{< imageGrid >}}

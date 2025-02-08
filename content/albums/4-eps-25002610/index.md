@@ -4,6 +4,7 @@ artist_name: "Ride"
 artist: "ride"
 album_name: "4 EPs"
 date: 2022-11-04T06:15:44.000000Z
+release_date: "2007-10-09"
 release_id: "25002610"
 slug: "4-eps-25002610"
 hideSummary: true
@@ -46,37 +47,35 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Chelsea Girl
-2. Drive Blind
-3. All I Can See
-4. Close My Eyes
-5. Like A Daydream
-6. Silver
-7. Furthest Sense
-8. Perfect Time
-9. Dreams Burn Down
-10. Taste
-11. Here and Now
-12. Nowhere
-13. Unfamiliar
-14. Sennen
-15. Beneath
-16. Today
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Chelsea Girl |  |
+| A2 | Drive Blind |  |
+| A3 | All I Can See |  |
+| A4 | Close My Eyes |  |
+| B1 | Like A Daydream |  |
+| B2 | Silver |  |
+| B3 | Furthest Sense |  |
+| B4 | Perfect Time |  |
+| C1 | Dreams Burn Down |  |
+| C2 | Taste |  |
+| C3 | Here and Now |  |
+| C4 | Nowhere |  |
+| D1 | Unfamiliar |  |
+| D2 | Sennen |  |
+| D3 | Beneath |  |
+| D4 | Today |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ride-4-u-ep/265651482" >}}<br>
 
 
-## Videos
-### Ride - Chelsea Girl
-{{< youtube id="VukI-fMrNkM" title="Ride - Chelsea Girl" >}}<br>
-### More Videos
-
-- [Ride - Sennen](https://www.youtube.com/watch?v=_4FjWtH83Ho)
-- [Ride - Chelsea Girl](https://www.youtube.com/watch?v=VukI-fMrNkM)
-- [Ride - Sennen](https://www.youtube.com/watch?v=_4FjWtH83Ho)
 
 ## Release Images
 {{< imageGrid >}}
@@ -87,5 +86,5 @@ styles: ["Alternative Rock", "Indie Rock", "Shoegaze"]
 | Format         | Vinyl 2× LP Compilation (White) |
 | Label          | Wichita |
 | Catalog Number | WEBB574LP |
-| Notes | 'Original audio reworked and refined' Double white vinyl, standard weight Gatefold sleeve, reverse board Download included Includes 16 page booklet featuring archive photos and an essay by Sonic Cathedral’s Nathaniel Cramp. |
+| Notes | 'Original audio reworked and refined'<br>Double white vinyl, standard weight<br>Gatefold sleeve, reverse board<br>Download included<br>Includes 16 page booklet featuring archive photos and an essay by Sonic Cathedral’s Nathaniel Cramp. |
 | Discogs URL    | [Ride - 4 EPs](https://www.discogs.com/release/25002610-Ride-4-EPs) |

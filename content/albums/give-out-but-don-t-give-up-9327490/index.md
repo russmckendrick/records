@@ -40,26 +40,25 @@ A second version of the album, featuring previously lost recordings, was release
 
 
 ## Tracklisting
-1. Jailbird (3:46)
-2. Rocks (3:37)
-3. (I'm Gonna) Cry Myself Blind (4:30)
-4. Funky Jam (5:24)
-5. Big Jet Plane (4:15)
-6. Free (5:30)
-7. Call On Me (3:50)
-8. Struttin' (8:29)
-9. Sad And Blue (3:27)
-10. Give Out But Don't Give Up (6:16)
-11. I'll Be There For You (6:34)
-12. Everybody Needs Somebody (5:22)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Jailbird | 3:46 |
+| A2 | Rocks | 3:37 |
+| A3 | (I'm Gonna) Cry Myself Blind | 4:30 |
+| B1 | Funky Jam | 5:24 |
+| B2 | Big Jet Plane | 4:15 |
+| B3 | Free | 5:30 |
+| C1 | Call On Me | 3:50 |
+| C2 | Struttin' | 8:29 |
+| C3 | Sad And Blue | 3:27 |
+| D1 | Give Out But Don't Give Up | 6:16 |
+| D2 | I'll Be There For You | 6:34 |
+| D3 | Everybody Needs Somebody | 5:22 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/give-out-but-dont-give-up-deluxe-version/481694930" >}}<br>
 
-
-## Videos
-### Primal Scream - Jailbird Official Video
-{{< youtube id="zNH5aY9mHTo" title="Primal Scream - Jailbird Official Video" >}}<br>
 
 
 ## Release Images
@@ -72,5 +71,5 @@ A second version of the album, featuring previously lost recordings, was release
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | 1972 |
 | Catalog Number | if33 |
-| Notes | Includes print of sleeve cover on glossy paper.  Printed inner sleeves  House in a gatefold sleeve. |
+| Notes | Includes print of sleeve cover on glossy paper.<br><br>Printed inner sleeves<br><br>House in a gatefold sleeve. |
 | Discogs URL    | [Primal Scream - Give Out But Don't Give Up](https://www.discogs.com/release/9327490-Primal-Scream-Give-Out-But-Dont-Give-Up) |

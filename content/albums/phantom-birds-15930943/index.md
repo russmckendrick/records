@@ -1,9 +1,10 @@
 ---
 title: "Matt Berry - Phantom Birds"
 artist_name: "Matt Berry"
-artist: "matt-berry-3"
+artist: "matt-berry"
 album_name: "Phantom Birds"
 date: 2020-09-18T11:11:39.000000Z
+release_date: "2020-09-18"
 release_id: "15930943"
 slug: "phantom-birds-15930943"
 hideSummary: true
@@ -22,46 +23,33 @@ styles: ["Psychedelic", "Easy Listening"]
 ---
 
 Phantom Birds is the eighth studio album by English comedian and musician Matt Berry, released in September 2020 by Acid Jazz Records.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Something In My Eye
-2. You Danced All Night
-3. Phantom Birds
-4. Moonlight Flit
-5. Man Of Doom
-6. Where's My Love?
-7. Take A Bow
-8. Intermission
-9. Hail To The King
-10. In My Mind
-11. That Yellow Bird
-12. Waving Goodbye
-13. Covered In Clowns
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Something In My Eye |  |
+| A2 | You Danced All Night |  |
+| A3 | Phantom Birds |  |
+| A4 | Moonlight Flit |  |
+| A5 | Man Of Doom |  |
+| A6 | Where's My Love? |  |
+| B1 | Take A Bow |  |
+| B2 | Intermission |  |
+| B3 | Hail To The King |  |
+| B4 | In My Mind |  |
+| B5 | That Yellow Bird |  |
+| B6 | Waving Goodbye |  |
+| B7 | Covered In Clowns |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/phantom-birds/1520178813" >}}<br>
 
 
-## Videos
-### Something In My Eye
-{{< youtube id="fSEOOB3-gqQ" title="Something In My Eye" >}}<br>
-### More Videos
-
-- [You Danced All Night](https://www.youtube.com/watch?v=QBuxse1m-t0)
-- [Phantom Birds](https://www.youtube.com/watch?v=HPPRRXHonzE)
-- [Moonlight Flit](https://www.youtube.com/watch?v=pwe8SVBBvoM)
-- [Man Of Doom](https://www.youtube.com/watch?v=gbvx_kYHin4)
-- [Wheres My Love](https://www.youtube.com/watch?v=27tI2Kg0FkY)
-- [Take A Bow](https://www.youtube.com/watch?v=bJVX9FyO8nY)
-- [Intermission](https://www.youtube.com/watch?v=QXuyeK0N6so)
-- [Hail To The King](https://www.youtube.com/watch?v=tDCzAjxQFEY)
-- [In My Mind](https://www.youtube.com/watch?v=RwBRK3iVJ1A)
-- [That Yellow Bird](https://www.youtube.com/watch?v=eCmVnGdltts)
-- [Waving Goodbye](https://www.youtube.com/watch?v=RztchZ6f3Oo)
-- [Covered In Clowns](https://www.youtube.com/watch?v=OZFsqfN49Dc)
 
 ## Release Images
 {{< imageGrid >}}

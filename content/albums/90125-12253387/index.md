@@ -4,6 +4,7 @@ artist_name: "Yes"
 artist: "yes"
 album_name: "90125"
 date: 2018-07-13T19:25:41.000000Z
+release_date: "1983-11-07"
 release_id: "12253387"
 slug: "90125-12253387"
 hideSummary: true
@@ -29,32 +30,29 @@ During the mixing stage, former Yes singer Jon Anderson, who had left in 1980, a
 Named for its Atco catalogue number, 90125 was released to a generally positive reception and introduced the band to a new generation of fans. It reached No. 5 on the US Billboard 200 and No. 16 on the UK Albums Chart, and remains their best selling album with several million copies sold in the US. Of the album's four singles, "Owner of a Lonely Heart" was the most successful and is their only song to top the US Billboard Hot 100 chart. "Cinema" earned the group a Grammy Award for Best Rock Instrumental Performance. Yes toured for the album in 1984 and 1985 which included two headline shows at the inaugural Rock in Rio festival. It was remastered in 2004 with previously unreleased bonus tracks.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Owner Of A Lonely Heart (4:27)
-2. Hold On (5:15)
-3. It Can Happen (5:39)
-4. Changes (6:16)
-5. Cinema (2:09)
-6. Leave It (4:10)
-7. Our Song (4:16)
-8. City Of Love (4:48)
-9. Hearts (7:34)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Owner Of A Lonely Heart | 4:27 |
+| A2 | Hold On | 5:15 |
+| A3 | It Can Happen | 5:39 |
+| A4 | Changes | 6:16 |
+| B1 | Cinema | 2:09 |
+| B2 | Leave It | 4:10 |
+| B3 | Our Song | 4:16 |
+| B4 | City Of Love | 4:48 |
+| B5 | Hearts | 7:34 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/90125/1049010572" >}}<br>
 
 
-## Videos
-### Yes - Leave It Official Music Video
-{{< youtube id="8-hJFoSgXfM" title="Yes - Leave It Official Music Video" >}}<br>
-### More Videos
-
-- [YES - Owner of a Lonely Heart Official Music Video](https://www.youtube.com/watch?v=SVOuYquXuuc)
-- [Yes - It Can Happen Official Music Video](https://www.youtube.com/watch?v=OeVgcIFEh3I)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +64,5 @@ Named for its Atco catalogue number, 90125 was released to a generally positive 
 | Format         | Vinyl LP Album Limited Edition Reissue (Tri-Color, 140g) |
 | Label          | ATCO Records |
 | Catalog Number | RCV1 90125 |
-| Notes | Pink colored front sticker states:  35th Anniversary Tri-Color Vinyl Edition Contains the hits Leave It Owner Of A Lonely Heart If Can Happen 603497860685  140 gram Vinyl coloured in Blue, Yellow and Pink.  Rear cover and Record label states ‘Made in EU . LC02982 . 603497860685 |
+| Notes | Pink colored front sticker states:<br><br>35th Anniversary<br>Tri-Color Vinyl Edition<br>Contains the hits<br>Leave It<br>Owner Of A Lonely Heart<br>If Can Happen<br>603497860685<br><br>140 gram Vinyl coloured in Blue, Yellow and Pink.<br><br>Rear cover and Record label states ‘Made in EU . LC02982 . 603497860685 |
 | Discogs URL    | [Yes - 90125](https://www.discogs.com/release/12253387-Yes-90125) |

@@ -4,6 +4,7 @@ artist_name: "Robbie Robertson"
 artist: "robbie-robertson"
 album_name: "Robbie Robertson"
 date: 2020-08-01T12:50:56.000000Z
+release_date: "1987-01-01"
 release_id: "9243821"
 slug: "robbie-robertson-9243821"
 hideSummary: true
@@ -27,39 +28,29 @@ styles: ["Pop Rock"]
 Jaime Royal Robertson  (July 5, 1943 – August 9, 2023) was a Canadian musician of Indigenous ancestry. He was lead guitarist for Bob Dylan in the mid-late 1960s and early-mid 1970s, guitarist and primary songwriter of The Band from their inception until 1978, and a solo artist.
 Robertson's work with the Band was instrumental in creating the Americana music genre. He was inducted into the Rock and Roll Hall of Fame and the Canadian Music Hall of Fame as a member of the Band, and into Canada's Walk of Fame, with the Band and on his own. He is ranked 59th in Rolling Stone magazine's list of the 100 greatest guitarists. He wrote "The Weight", "The Night They Drove Old Dixie Down", and "Up on Cripple Creek" with the Band and had solo hits with "Broken Arrow" and "Somewhere Down the Crazy River", and many others. He was inducted into the Canadian Songwriters Hall of Fame, and received a Lifetime Achievement Award from the National Academy of Songwriters.
 Robertson collaborated on film and TV soundtracks, usually with director Martin Scorsese, beginning in the rockumentary film The Last Waltz (1978) and continuing through dramatic films including Raging Bull (1980), The King of Comedy (1983), Casino (1995), Gangs of New York (2002), The Wolf of Wall Street (2013), Silence (2016), The Irishman (2019), and Killers of the Flower Moon (2023), scoring the latter shortly before his death. The film was dedicated to his memory, and garnered him a posthumous nomination for Best Original Score at the Academy Awards.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Fallen Angel (5:54)
-2. Showdown At Big Sky (4:48)
-3. Broken Arrow (5:23)
-4. Sweet Fire Of Love (5:17)
-5. American Roulette (4:57)
-6. Somewhere Down The Crazy River (4:57)
-7. Hell's Half Acre (4:21)
-8. Sonny Got Caught In The Moonlight (3:52)
-9. Testimony (4:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fallen Angel | 5:54 |
+| A2 | Showdown At Big Sky | 4:48 |
+| A3 | Broken Arrow | 5:23 |
+| A4 | Sweet Fire Of Love | 5:17 |
+| B1 | American Roulette | 4:57 |
+| B2 | Somewhere Down The Crazy River | 4:57 |
+| B3 | Hell's Half Acre | 4:21 |
+| B4 | Sonny Got Caught In The Moonlight | 3:52 |
+| B5 | Testimony | 4:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/robbie-robertson/1442372729" >}}<br>
 
 
-## Videos
-### Somewhere Down The Crazy River  Robbie Robertson  1987 Geffen LP
-{{< youtube id="UYAUP90Xbzg" title="Somewhere Down The Crazy River  Robbie Robertson  1987 Geffen LP" >}}<br>
-### More Videos
-
-- [Robbie Robertson Showdown At Big Sky Official](https://www.youtube.com/watch?v=3u7UZPxu7H0)
-- [Robbie Robertson   Fallen Angel](https://www.youtube.com/watch?v=HdtAfUtOEWA)
-- [Broken Arrow](https://www.youtube.com/watch?v=OaXJYBHoxuo)
-- [Sweet Fire Of Love](https://www.youtube.com/watch?v=hgAaf7jka84)
-- [American Roulette](https://www.youtube.com/watch?v=rlxD5GGZTeA)
-- [Robbie Robertson - Somewhere Down The Crazy River](https://www.youtube.com/watch?v=zdtTO_RdrLc)
-- [Hells Half Acre](https://www.youtube.com/watch?v=s5-t3e7EWK0)
-- [Sonny Got Caught In The Moonlight](https://www.youtube.com/watch?v=Dk3UzUXBMdc)
-- [Testimony](https://www.youtube.com/watch?v=FqUFRUQ8uZI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +62,5 @@ Robertson collaborated on film and TV soundtracks, usually with director Martin 
 | Format         | Vinyl LP Album Stereo |
 | Label          | Geffen Records |
 | Catalog Number | 924160-1 |
-| Notes | Similar to [r=1113594] but with different publishers on label  made in germany  Promotional sticker in top right corner to front cover "Robbie Robertson The first solo album from leader of The Band includes Fallen Angel, Showdown at big sky" |
+| Notes | Similar to [r=1113594] but with different publishers on label<br><br>made in germany<br><br>Promotional sticker in top right corner to front cover<br>"Robbie Robertson The first solo album from leader of The Band includes Fallen Angel, Showdown at big sky" |
 | Discogs URL    | [Robbie Robertson - Robbie Robertson](https://www.discogs.com/release/9243821-Robbie-Robertson-Robbie-Robertson) |

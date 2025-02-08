@@ -4,6 +4,7 @@ artist_name: "The Flaming Lips"
 artist: "the-flaming-lips"
 album_name: "(Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin"
 date: 2020-01-10T18:20:40.000000Z
+release_date: ""
 release_id: "14597485"
 slug: "recorded-live-at-red-rocks-amphitheatre-the-soft-bulletin-14597485"
 hideSummary: true
@@ -18,33 +19,31 @@ styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Race For The Prize
-2. A Spoonful Weighs A Ton
-3. The Spark That Bled
-4. The Spiderbite Song
-5. Buggin'
-6. What Is The Light?
-7. The Observer
-8. Waitin' For A Superman
-9. Suddenly Everything Has Changed
-10. The Gash
-11. Feeling Yourself Disintegrate
-12. Sleeping On The Roof
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Race For The Prize |  |
+| A2 | A Spoonful Weighs A Ton |  |
+| A3 | The Spark That Bled |  |
+| B1 | The Spiderbite Song |  |
+| B2 | Buggin' |  |
+| C1 | What Is The Light? |  |
+| C2 | The Observer |  |
+| C3 | Waitin' For A Superman |  |
+| C4 | Suddenly Everything Has Changed |  |
+| D1 | The Gash |  |
+| D2 | Feeling Yourself Disintegrate |  |
+| D3 | Sleeping On The Roof |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### The Observer Live at Red Rocks
-{{< youtube id="rJei6ocuqZI" title="The Observer Live at Red Rocks" >}}<br>
-### More Videos
 
-- [Suddenly Everything Has Changed Live at Red Rocks](https://www.youtube.com/watch?v=kFqBO95nYTU)
-- [Buggin Live at Red Rocks](https://www.youtube.com/watch?v=IEcskTKBwIc)
-- [Sleeping On The Roof Live at Red Rocks](https://www.youtube.com/watch?v=jdfCVOWJCTs)
-- [The Spiderbite Song Live at Red Rocks](https://www.youtube.com/watch?v=s5jftUfY_U8)
-- [The Flaming Lips - Race for the Prize feat The Colorado Symphony  André de Ridder](https://www.youtube.com/watch?v=Ty0mYiJVzR4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -55,5 +54,5 @@ styles: ["Alternative Rock", "Experimental", "Indie Rock"]
 | Format         | Vinyl 2× LP Album |
 | Label          | Bella Union |
 | Catalog Number | BELLA882V |
-| Notes | Recorded live at Red Rocks Amphitheatre May 26th, 2016  ©℗ 2019 The Flaming Lips under exclusive license to Bella Union / Pias. Made in the EU. |
+| Notes | Recorded live at Red Rocks Amphitheatre May 26th, 2016<br><br>©℗ 2019 The Flaming Lips under exclusive license to Bella Union / Pias.<br>Made in the EU. |
 | Discogs URL    | [The Flaming Lips - (Recorded Live At Red Rocks Amphitheatre) The Soft Bulletin](https://www.discogs.com/release/14597485-The-Flaming-Lips-Featuring-The-Colorado-Symphony-Recorded-Live-At-Red-Rocks-Amphitheatre-The-Soft-Bu) |

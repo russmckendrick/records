@@ -32,36 +32,27 @@ Joined by Killing Joke bassist Martin ‘Youth’ Glover as producer, Crowded Ho
 
 
 ## Tracklisting
-1. Kare Kare
-2. In My Command
-3. Nails In My Feet
-4. Black & White Boy
-5. Fingers Of Love
-6. Pineapple Head
-7. Locked Out
-8. Private Universe
-9. Walking On The Spot
-10. Distant Sun
-11. Catherine Wheels
-12. Skin Feeling
-13. Together Alone
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Kare Kare |  |
+| A2 | In My Command |  |
+| A3 | Nails In My Feet |  |
+| A4 | Black & White Boy |  |
+| A5 | Fingers Of Love |  |
+| A6 | Pineapple Head |  |
+| B1 | Locked Out |  |
+| B2 | Private Universe |  |
+| B3 | Walking On The Spot |  |
+| B4 | Distant Sun |  |
+| B5 | Catherine Wheels |  |
+| B6 | Skin Feeling |  |
+| B7 | Together Alone |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/together-alone/723500449" >}}<br>
 
 
-## Videos
-### Crowded House - Nails In My Feet
-{{< youtube id="dqxobKeH4Zs" title="Crowded House - Nails In My Feet" >}}<br>
-### More Videos
-
-- [Kare Kare](https://www.youtube.com/watch?v=44chfOSuRNk)
-- [Crowded House - Fingers of Love](https://www.youtube.com/watch?v=iLFpWo3i6VY)
-- [Crowded House - Locked Out](https://www.youtube.com/watch?v=nkSUAj4BEac)
-- [Crowded House - Nails In My Feet](https://www.youtube.com/watch?v=dqxobKeH4Zs)
-- [Crowded House - Private Universe](https://www.youtube.com/watch?v=cPa70RNgOzk)
-- [Crowded House - Distant Sun](https://www.youtube.com/watch?v=Bkd5OQ8b0hQ)
-- [Crowded House - Fingers of Love](https://www.youtube.com/watch?v=iLFpWo3i6VY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +64,5 @@ Joined by Killing Joke bassist Martin ‘Youth’ Glover as producer, Crowded Ho
 | Format         | Vinyl LP Album |
 | Label          | Capitol Records |
 | Catalog Number | ESTU 2215 |
-| Notes | Mixed at Platinum Studios Melbourne and Lyndhurst Air Studios London  Printed in U.K.  Published by Roundhead Music (BMI), except: A1: published by Roundhead Music (BMI)/Warner Bros. Australia pty. Ltd. All rights O/B/O Warner Bros. Australia Ltd. Admin. by WB Music Corp/Take Hart Music Apra/ASCAP B5: published by Roundhead Music (BMI)/Rebel Larynx Music (BMI) B6: published by Warner Bros. Australia pty. Ltd. All rights O/B/O Warner Bros. Australia Ltd. Admin. by WB Music Corp/Take Hart Music Apra/ASCAP B7: published by Roundhead Music/Take Hart Music (BMI)/ASCAP  |
+| Notes | Mixed at Platinum Studios Melbourne and Lyndhurst Air Studios London<br><br>Printed in U.K.<br><br>Published by Roundhead Music (BMI), except:<br>A1: published by Roundhead Music (BMI)/Warner Bros. Australia pty. Ltd. All rights O/B/O Warner Bros. Australia Ltd. Admin. by WB Music Corp/Take Hart Music Apra/ASCAP<br>B5: published by Roundhead Music (BMI)/Rebel Larynx Music (BMI)<br>B6: published by Warner Bros. Australia pty. Ltd. All rights O/B/O Warner Bros. Australia Ltd. Admin. by WB Music Corp/Take Hart Music Apra/ASCAP<br>B7: published by Roundhead Music/Take Hart Music (BMI)/ASCAP<br> |
 | Discogs URL    | [Crowded House - Together Alone](https://www.discogs.com/release/2187186-Crowded-House-Together-Alone) |

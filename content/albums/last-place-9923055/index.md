@@ -4,6 +4,7 @@ artist_name: "Grandaddy"
 artist: "grandaddy"
 album_name: "Last Place"
 date: 2017-03-04T17:55:14.000000Z
+release_date: "2017-03-03"
 release_id: "9923055"
 slug: "last-place-9923055"
 hideSummary: true
@@ -29,43 +30,31 @@ Last Place is the fifth studio album by the American indie rock band Grandaddy, 
 Lyrically inspired by Lytle's divorce, the album was preceded by the singles "Way We Won't", "A Lost Machine" and "Evermore". This is the final album to feature Kevin Garcia on bass, as he would die of a stroke two months after its release.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Way We Won't
-2. Brush With The Wild
-3. Evermore
-4. The Boat Is In The Barn
-5. Chek Injin 
-6. I Don't Wanna Live Here Anymore
-7. That's What You Get For Gettin' Outta  Bed
-8. This Is The Part
-9. Jed The 4th
-10. A Lost Machine
-11. Songbird Son
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Way We Won't |  |
+| A2 | Brush With The Wild |  |
+| A3 | Evermore |  |
+| A4 | The Boat Is In The Barn |  |
+| A5 | Chek Injin  |  |
+| A6 | I Don't Wanna Live Here Anymore |  |
+| B1 | That's What You Get For Gettin' Outta  Bed |  |
+| B2 | This Is The Part |  |
+| B3 | Jed The 4th |  |
+| B4 | A Lost Machine |  |
+| B5 | Songbird Son |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/last-place/1719830818" >}}<br>
 
 
-## Videos
-### Way We Wont
-{{< youtube id="cIH0V3GZGKM" title="Way We Wont" >}}<br>
-### More Videos
-
-- [Brush With the Wild](https://www.youtube.com/watch?v=IG3nDpzBbSc)
-- [Evermore](https://www.youtube.com/watch?v=mHECZRRABmA)
-- [Oh She Deleter  ](https://www.youtube.com/watch?v=tASXQ_0j4cs)
-- [The Boat Is in the Barn](https://www.youtube.com/watch?v=lKFulioz4FI)
-- [Chek Injin](https://www.youtube.com/watch?v=g_yJhNqx2R4)
-- [I Dont Wanna Live Here Anymore](https://www.youtube.com/watch?v=kUaDXYdddsA)
-- [Thats What You Get for Gettin Outta Bed](https://www.youtube.com/watch?v=lku2bqoepOc)
-- [This Is the Part](https://www.youtube.com/watch?v=NBYGrNAXhmk)
-- [Jed the 4th](https://www.youtube.com/watch?v=Lq9G8u33U-o)
-- [A Lost Machine](https://www.youtube.com/watch?v=QqeFtpdmeCM)
-- [Songbird Son](https://www.youtube.com/watch?v=OOMd6VMWAZI)
 
 ## Release Images
 {{< imageGrid >}}

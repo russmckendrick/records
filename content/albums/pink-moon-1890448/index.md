@@ -4,6 +4,7 @@ artist_name: "Nick Drake"
 artist: "nick-drake"
 album_name: "Pink Moon"
 date: 2016-08-09T16:31:12.000000Z
+release_date: "1972-02-25"
 release_id: "1890448"
 slug: "pink-moon-1890448"
 hideSummary: true
@@ -28,42 +29,31 @@ Released two years before Drake's death in November 1974, at the age of twenty-s
 Pink Moon, like Drake's previous studio albums, did not sell well during his lifetime, and its stripped-back, intimate sound received a mixed response from critics. However, the album has since garnered significant critical acclaim, appearing on a number of best-of lists.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Pink Moon
-2. Place To Be
-3. Road
-4. Which Will
-5. Horn
-6. Things Behind The Sun
-7. Know
-8. Parasite
-9. Free Ride
-10. Harvest Breed
-11. From The Morning
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Pink Moon |  |
+| A2 | Place To Be |  |
+| A3 | Road |  |
+| A4 | Which Will |  |
+| A5 | Horn |  |
+| A6 | Things Behind The Sun |  |
+| B1 | Know |  |
+| B2 | Parasite |  |
+| B3 | Free Ride |  |
+| B4 | Harvest Breed |  |
+| B5 | From The Morning |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pink-moon/1567147188" >}}<br>
 
 
-## Videos
-### Pink Moon
-{{< youtube id="ZgHdUeMHTwc" title="Pink Moon" >}}<br>
-### More Videos
-
-- [Place To Be](https://www.youtube.com/watch?v=jvLtyyBRITo)
-- [Road](https://www.youtube.com/watch?v=jpk32L8Bb4c)
-- [Which Will](https://www.youtube.com/watch?v=1gYtqGgSTuo)
-- [Horn](https://www.youtube.com/watch?v=9absJQoPCX8)
-- [Things Behind The Sun](https://www.youtube.com/watch?v=j14PgxHghjQ)
-- [Know](https://www.youtube.com/watch?v=LmqKVhtN50E)
-- [Parasite](https://www.youtube.com/watch?v=qQlMBqdKWb4)
-- [Free Ride](https://www.youtube.com/watch?v=y4CvAejW-jI)
-- [Harvest Breed](https://www.youtube.com/watch?v=7d87RHPn8kI)
-- [From The Morning](https://www.youtube.com/watch?v=xPe5ZQx0OpQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +65,5 @@ Pink Moon, like Drake's previous studio albums, did not sell well during his lif
 | Format         | Vinyl LP Album Reissue Remastered Stereo |
 | Label          | Island Records |
 | Catalog Number | 006025 17456976 |
-| Notes | Released with a 'pink rim' Island label in a gatefold cover containing the lyrics and pressed on 180 gram vinyl. Issued with hype sticker on shrink wrap and download code.  Engineer: John Wood, Sound Techniques |
+| Notes | Released with a 'pink rim' Island label in a gatefold cover containing the lyrics and pressed on 180 gram vinyl.<br>Issued with hype sticker on shrink wrap and download code.<br><br>Engineer: John Wood, Sound Techniques |
 | Discogs URL    | [Nick Drake - Pink Moon](https://www.discogs.com/release/1890448-Nick-Drake-Pink-Moon) |

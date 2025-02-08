@@ -4,6 +4,7 @@ artist_name: "Bruce Springsteen"
 artist: "bruce-springsteen"
 album_name: "Greatest Hits"
 date: 2022-05-31T04:18:22.000000Z
+release_date: "1995-02-27"
 release_id: "12213768"
 slug: "greatest-hits-12213768"
 hideSummary: true
@@ -37,33 +38,36 @@ The incorporation of the "new" tracks was portrayed in the 1996 documentary Bloo
 The compilation was commercially successful, hitting number one on the Billboard 200 and UK Albums Chart, and sold six million copies in the U.S.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Born To Run
-2. Thunder Road
-3. Badlands
-4. The River
-5. Hungry Heart
-6. Atlantic City
-7. Dancing In The Dark
-8. Born In The U.S.A.
-9. My Hometown
-10. Glory Days
-11. Brilliant Disguise
-12. Human Touch
-13. Better Days
-14. Streets Of Philadelphia
-15. Secret Garden
-16. Murder Incorporated
-17. Blood Brothers
-18. This Hard Land
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Born To Run |  |
+| A2 | Thunder Road |  |
+| A3 | Badlands |  |
+| A4 | The River |  |
+| B1 | Hungry Heart |  |
+| B2 | Atlantic City |  |
+| B3 | Dancing In The Dark |  |
+| B4 | Born In The U.S.A. |  |
+| B5 | My Hometown |  |
+| C1 | Glory Days |  |
+| C2 | Brilliant Disguise |  |
+| C3 | Human Touch |  |
+| C4 | Better Days |  |
+| C5 | Streets Of Philadelphia |  |
+| D1 | Secret Garden |  |
+| D2 | Murder Incorporated |  |
+| D3 | Blood Brothers |  |
+| D4 | This Hard Land |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits/1435854353" >}}<br>
-
 
 
 
@@ -77,5 +81,5 @@ The compilation was commercially successful, hitting number one on the Billboard
 | Format         | Vinyl 2× LP Compilation Reissue Remastered (180 gr.) |
 | Label          | Columbia |
 | Catalog Number | 19075820661 |
-| Notes | Made in the EU. Issued in a gatefold sleeve with two printed inner sleeves and a download code. |
+| Notes | Made in the EU.<br>Issued in a gatefold sleeve with two printed inner sleeves and a download code. |
 | Discogs URL    | [Bruce Springsteen - Greatest Hits](https://www.discogs.com/release/12213768-Bruce-Springsteen-Greatest-Hits) |

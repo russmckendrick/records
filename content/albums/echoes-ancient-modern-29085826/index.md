@@ -4,6 +4,7 @@ artist_name: "Trevor Horn"
 artist: "trevor-horn"
 album_name: "Echoes - Ancient & Modern"
 date: 2023-12-16T01:13:04.000000Z
+release_date: "2023-12-01"
 release_id: "29085826"
 slug: "echoes-ancient-modern-29085826"
 hideSummary: true
@@ -18,50 +19,30 @@ styles: ["Ballad", "Vocal", "Baroque Pop", "Symphonic Rock", "Synth-pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Swimming Pools (Drank) (3:56)
-2. Steppin' Out (4:23)
-3. Owner Of A Lonely Heart (3:42)
-4. Slave To The Rhythm (4:13)
-5. Love Is A Battlefield (3:31)
-6. Personal Jesus (3:25)
-7. Drive (3:54)
-8. Relax (4:05)
-9. White Wedding (4:33)
-10. Smells Like Teen Spirit (4:31)
-11. Avalon (4:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Swimming Pools (Drank) | 3:56 |
+| A2 | Steppin' Out | 4:23 |
+| A3 | Owner Of A Lonely Heart | 3:42 |
+| A4 | Slave To The Rhythm | 4:13 |
+| A5 | Love Is A Battlefield | 3:31 |
+| A6 | Personal Jesus | 3:25 |
+| B1 | Drive | 3:54 |
+| B2 | Relax | 4:05 |
+| B3 | White Wedding | 4:33 |
+| B4 | Smells Like Teen Spirit | 4:31 |
+| B5 | Avalon | 4:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/echoes-ancient-modern/1707164661" >}}<br>
 
 
-## Videos
-### Swimming Pools Drank
-{{< youtube id="i1emfLQ-Jqw" title="Swimming Pools Drank" >}}<br>
-### More Videos
-
-- [Steppin Out](https://www.youtube.com/watch?v=f6WhTLb_BkQ)
-- [Owner Of A Lonely Heart](https://www.youtube.com/watch?v=W2cb8NH8Ro4)
-- [Slave To The Rhythm](https://www.youtube.com/watch?v=K_QpI1M33bY)
-- [Love Is A Battlefield](https://www.youtube.com/watch?v=JzkPABWz4ew)
-- [Personal Jesus](https://www.youtube.com/watch?v=DLXh6IY9bCw)
-- [Drive](https://www.youtube.com/watch?v=h6x6OvG6DX0)
-- [Relax](https://www.youtube.com/watch?v=wVOf20ZKm9c)
-- [White Wedding](https://www.youtube.com/watch?v=1otO9cC8NoE)
-- [Smells Like Teen Spirit](https://www.youtube.com/watch?v=A1ZM3p1utcE)
-- [Avalon](https://www.youtube.com/watch?v=bRnlZ9ZBXJg)
-- [Swimming Pools Drank](https://www.youtube.com/watch?v=i1emfLQ-Jqw)
-- [Steppin Out](https://www.youtube.com/watch?v=f6WhTLb_BkQ)
-- [Owner Of A Lonely Heart](https://www.youtube.com/watch?v=W2cb8NH8Ro4)
-- [Slave To The Rhythm](https://www.youtube.com/watch?v=K_QpI1M33bY)
-- [Love Is A Battlefield](https://www.youtube.com/watch?v=JzkPABWz4ew)
-- [Personal Jesus](https://www.youtube.com/watch?v=DLXh6IY9bCw)
-- [Drive](https://www.youtube.com/watch?v=h6x6OvG6DX0)
-- [Relax](https://www.youtube.com/watch?v=wVOf20ZKm9c)
-- [White Wedding](https://www.youtube.com/watch?v=1otO9cC8NoE)
-- [Smells Like Teen Spirit](https://www.youtube.com/watch?v=A1ZM3p1utcE)
-- [Avalon](https://www.youtube.com/watch?v=bRnlZ9ZBXJg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +53,5 @@ styles: ["Ballad", "Vocal", "Baroque Pop", "Symphonic Rock", "Synth-pop"]
 | Format         | Vinyl LP Limited Edition Numbered Stereo (Clear) |
 | Label          | Universal Music Group |
 | Catalog Number | 486 4880 |
-| Notes | Crystal clear limited edition 180g heavyweight vinyl pressing #### of 3.000 |
+| Notes | Crystal clear limited edition<br>180g heavyweight vinyl pressing<br>#### of 3.000 |
 | Discogs URL    | [Trevor Horn - Echoes - Ancient & Modern](https://www.discogs.com/release/29085826-Trevor-Horn-Echoes-Ancient-Modern) |

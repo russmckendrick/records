@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Alternative Anthems"
 date: 2023-06-03T02:08:47.000000Z
+release_date: ""
 release_id: "27247221"
 slug: "alternative-anthems-27247221"
 hideSummary: true
@@ -19,36 +20,40 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Teen Age Riot
-2. Rebel Girl
-3. Touch Me I'm Sick
-4. Don't Want To Know If You Are Lonely
-5. I Wanna Be Your Joey Ramone
-6. Feel The Pain
-7. A Good Idea
-8. The One I Love
-9. Black Hole Sun
-10. She Don't Use Jelly
-11. Swingin Party
-12. Nearly Lost You
-13. Debaser
-14. Feed The Tree
-15. Bruise Violet
-16. Honey Bucket
-17. Backwater
-18. Summer Babe (Winter Version)
-19. Pacer
-20. Take The Skinheads Bowling
-21. Not Too Soon
-22. Taillights Fade
-23. Hunger Strike
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Teen Age Riot |  |
+| A2 | Rebel Girl |  |
+| A3 | Touch Me I'm Sick |  |
+| A4 | Don't Want To Know If You Are Lonely |  |
+| A5 | I Wanna Be Your Joey Ramone |  |
+| A6 | Feel The Pain |  |
+| B1 | A Good Idea |  |
+| B2 | The One I Love |  |
+| B3 | Black Hole Sun |  |
+| B4 | She Don't Use Jelly |  |
+| B5 | Swingin Party |  |
+| C1 | Nearly Lost You |  |
+| C2 | Debaser |  |
+| C3 | Feed The Tree |  |
+| C4 | Bruise Violet |  |
+| C5 | Honey Bucket |  |
+| C6 | Backwater |  |
+| D1 | Summer Babe (Winter Version) |  |
+| D2 | Pacer |  |
+| D3 | Take The Skinheads Bowling |  |
+| D4 | Not Too Soon |  |
+| D5 | Taillights Fade |  |
+| D6 | Hunger Strike |  |
 
 
-## Spotify
-{{< spotify type="album" id="0I5gq6g5TdvPWVAqEECV2y" width="100%" height="500" >}}<br>
-
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 

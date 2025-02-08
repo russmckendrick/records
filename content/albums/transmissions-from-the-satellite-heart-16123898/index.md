@@ -26,34 +26,25 @@ An “alternative rock” band that actually does provide an alternative by util
 
 
 ## Tracklisting
-1. Turn It On (4:39)
-2. Pilot Can At The Queer Of God (4:17)
-3. Oh My Pregnant Head (Labia In The Sunlight) (4:06)
-4. She Don't Use Jelly (3:40)
-5. Chewin' The Apple Of Your Eye (3:51)
-6. Superhumans (3:14)
-7. Be My Head (3:15)
-8. Moth In The Incubator (4:13)
-9. Plastic Jesus (2:19)
-10. When Yer Twenty Two (3:34)
-11. Slow-Nerve-Action (5:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Turn It On | 4:39 |
+| A2 | Pilot Can At The Queer Of God | 4:17 |
+| A3 | Oh My Pregnant Head (Labia In The Sunlight) | 4:06 |
+| A4 | She Don't Use Jelly | 3:40 |
+| A5 | Chewin' The Apple Of Your Eye | 3:51 |
+| B1 | Superhumans | 3:14 |
+| B2 | Be My Head | 3:15 |
+| B3 | Moth In The Incubator | 4:13 |
+| B4 | Plastic Jesus | 2:19 |
+| B5 | When Yer Twenty Two | 3:34 |
+| B6 | Slow-Nerve-Action | 5:56 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/transmissions-from-the-satellite-heart/1231989623" >}}<br>
 
 
-## Videos
-### The Flaming Lips - She Dont Use Jelly Official Music Video
-{{< youtube id="cvfxKbpoxRE" title="The Flaming Lips - She Dont Use Jelly Official Music Video" >}}<br>
-### More Videos
-
-- [The Flaming Lips - Be My Head Official Music Video](https://www.youtube.com/watch?v=6iwrnwSzbGM)
-- [The Flaming Lips - Turn It On Official Music Video](https://www.youtube.com/watch?v=WHV2Txq342o)
-- [When Yer Twenty-Two](https://www.youtube.com/watch?v=PkDqpwXHe3I)
-- [Oh My Pregnant Head](https://www.youtube.com/watch?v=6tuQjskHh4s)
-- [Pilot Can at the Queer of God](https://www.youtube.com/watch?v=anOaEWU18og)
-- [ Plastic Jesus](https://www.youtube.com/watch?v=GmoljzSI6W8)
-- [Superhumans](https://www.youtube.com/watch?v=X_Ygk4qGyt4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +56,5 @@ An “alternative rock” band that actually does provide an alternative by util
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Grey [Ash Grey]) |
 | Label          | Warner Records |
 | Catalog Number | 093624952206 |
-| Notes | Brick and Mortar exclusive for Rocktober 2020. 1000 Pressed.  Made in Germany.  All runouts etched except for "P. USA -22310-" which is stamped. |
+| Notes | Brick and Mortar exclusive for Rocktober 2020. 1000 Pressed.<br><br>Made in Germany.<br><br>All runouts etched except for "P. USA -22310-" which is stamped. |
 | Discogs URL    | [The Flaming Lips - Transmissions From The Satellite Heart](https://www.discogs.com/release/16123898-The-Flaming-Lips-Transmissions-From-The-Satellite-Heart) |

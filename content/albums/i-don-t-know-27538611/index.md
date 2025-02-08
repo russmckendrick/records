@@ -4,6 +4,7 @@ artist_name: "bdrmm"
 artist: "bdrmm"
 album_name: "I Don't Know"
 date: 2023-07-07T11:23:07.000000Z
+release_date: "2023-06-30"
 release_id: "27538611"
 slug: "i-don-t-know-27538611"
 hideSummary: true
@@ -26,32 +27,28 @@ styles: ["Downtempo"]
 "I Don't Know" (아무것도 몰라요) is a song by South Korean girl group, Fiestar, from their third single album, Curious.  It's their first single after a 1-year hiatus. The single was released on November 1, 2013, by LOEN Entertainment, with the title track 'I Don't Know'. This is also their first single under LOEN's music label, Collabodadi., It was also the last single release with former member Cheska had left the group in 2014.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Alps
-2. Be Careful
-3. It's Just A Bit Of Blood
-4. We Fall Apart
-5. Advertisement One
-6. Hidden Cinema
-7. Pulling Stitches
-8. A Final Movement
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Alps |  |
+| A2 | Be Careful |  |
+| A3 | It's Just A Bit Of Blood |  |
+| A4 | We Fall Apart |  |
+| B1 | Advertisement One |  |
+| B2 | Hidden Cinema |  |
+| B3 | Pulling Stitches |  |
+| B4 | A Final Movement |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-dont-know/1666711040" >}}<br>
 
 
-## Videos
-### bdrmm - Be Careful Official Video
-{{< youtube id="QGS0J-llR8o" title="bdrmm - Be Careful Official Video" >}}<br>
-### More Videos
-
-- [bdrmm   - Pulling Stitches Official Video](https://www.youtube.com/watch?v=wr5-ZUS4u9s)
-- [bdrmm - Be Careful Official Video](https://www.youtube.com/watch?v=QGS0J-llR8o)
-- [bdrmm   - Pulling Stitches Official Video](https://www.youtube.com/watch?v=wr5-ZUS4u9s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +60,5 @@ styles: ["Downtempo"]
 | Format         | Vinyl LP Album Limited Edition (White Marble) |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT156LPX |
-| Notes | Gatefold sleeve  Includes MP3 download  Hype sticker: ROCKACT156LPX Sleeve: ROCKACT156LP  nb: 200 hand signed copies on the sleeve were available from band online webshop |
+| Notes | Gatefold sleeve<br><br>Includes MP3 download<br><br>Hype sticker: ROCKACT156LPX<br>Sleeve: ROCKACT156LP<br><br>nb: 200 hand signed copies on the sleeve were available from band online webshop |
 | Discogs URL    | [bdrmm - I Don't Know](https://www.discogs.com/release/27538611-bdrmm-I-Dont-Know) |

@@ -4,6 +4,7 @@ artist_name: "Pet Shop Boys"
 artist: "pet-shop-boys"
 album_name: "Please"
 date: 2018-03-02T13:12:53.000000Z
+release_date: "2024-04-26"
 release_id: "11643866"
 slug: "please-11643866"
 hideSummary: true
@@ -28,29 +29,29 @@ styles: ["Synth-pop"]
 Please is the debut studio album by English synth-pop duo Pet Shop Boys, released on 24 March 1986 by Parlophone in the United Kingdom and by EMI America Records in the United States. According to the duo, the album's title was chosen so that people could go into a record shop and say "Can I have the Pet Shop Boys album, please?" Please featured the number one hit "West End Girls" and nine other songs, including the singles "Opportunities (Let's Make Lots of Money)", "Love Comes Quickly", and "Suburbia".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Two Divided By Zero (3:33)
-2. West End Girls (4:47)
-3. Opportunities (Let's Make Lots Of Money) (3:44)
-4. Love Comes Quickly (4:19)
-5. Suburbia (5:07)
-6. Tonight Is Forever (4:30)
-7. Violence (4:28)
-8. I Want A Lover (4:05)
-9. Later Tonight (2:49)
-10. Why Don't We Live Together? (4:47)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Two Divided By Zero | 3:33 |
+| A2 | West End Girls | 4:47 |
+| A3 | Opportunities (Let's Make Lots Of Money) | 3:44 |
+| A4 | Love Comes Quickly | 4:19 |
+| A5 | Suburbia | 5:07 |
+| B1 | Tonight Is Forever | 4:30 |
+| B2 | Violence | 4:28 |
+| B3 | I Want A Lover | 4:05 |
+| B4 | Later Tonight | 2:49 |
+| B5 | Why Don't We Live Together? | 4:47 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nonetheless/1726963941" >}}<br>
 
-
-## Videos
-### Pet Shop Boys   Please Whole Album HQ 1986 
-{{< youtube id="_KAGx_52PAg" title="Pet Shop Boys   Please Whole Album HQ 1986 " >}}<br>
 
 
 ## Release Images
@@ -63,5 +64,5 @@ Please is the debut studio album by English synth-pop duo Pet Shop Boys, release
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Parlophone |
 | Catalog Number | 190295832759 |
-| Notes | Engineered by David Jacob at Advision Studios, London. Andy Mackay courtesy of Virgin Records Ltd. Helena Springs courtesy of Arista Records Ltd. 2018 Remastering: Tim Young/Metropolis.  ℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd. A Warner Music Group Company. All rights reserved. Made in the EU.  Comes with printed inner sleeve and sticker on shrinkwrap: "pet shop boys please Pressed onto 180g heavyweight vinyl featuring a brand new 2018 remaster of the original album 0190295832759"  |
+| Notes | Engineered by David Jacob at Advision Studios, London.<br>Andy Mackay courtesy of Virgin Records Ltd.<br>Helena Springs courtesy of Arista Records Ltd.<br>2018 Remastering: Tim Young/Metropolis.<br><br>℗ 2018 Parlophone Records Ltd. © 2018 Parlophone Records Ltd. A Warner Music Group Company. All rights reserved.<br>Made in the EU.<br><br>Comes with printed inner sleeve and sticker on shrinkwrap:<br>"pet shop boys<br>please<br>Pressed onto 180g heavyweight<br>vinyl featuring a brand new 2018<br>remaster of the original album<br>0190295832759"<br> |
 | Discogs URL    | [Pet Shop Boys - Please](https://www.discogs.com/release/11643866-Pet-Shop-Boys-Please) |

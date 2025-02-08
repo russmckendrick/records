@@ -4,6 +4,7 @@ artist_name: "Justin Townes Earle"
 artist: "justin-townes-earle"
 album_name: "All In: Unreleased & Rarities (The New West Years)"
 date: 2024-08-13T04:37:34.000000Z
+release_date: "2024-08-09"
 release_id: "31381727"
 slug: "all-in-unreleased-rarities-the-new-west-years-31381727"
 hideSummary: true
@@ -31,39 +32,38 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Cold Comfort (Unreleased Demo For The Saint Of Lost Causes)
-2. Already Gone (Unreleased Demo For The Saint Of Lost Causes)
-3. I Know You (Unreleased Demo For The Saint Of Lost Causes) 
-4. Troubled Eyes (Unreleased Demo For The Saint Of Lost Causes)
-5. Lonely Mornings (Unreleased Demo For The Saint Of Lost Causes)
-6. All Or Nothing (Unreleased Demo For The Saint Of Lost Causes)
-7. If I Was The Devil (Demo For Kids In The Street)
-8. Champagne Corolla (Steve Earle Show On SiriusXM)
-9. So Different Blues (Steve Earle Show On SiriusXM)
-10. Dreams (Unreleased Bonus Track From The Saint Of Lost Causes)
-11. Rocket 88 (Unreleased Bonus Track From The Saint Of Lost Causes)
-12. The Saint Of Lost Causes (Demo For The Saint Of Lost Causes – A Work In Progress)
-13. Appalachian Nightmare (Demo For The Saint Of Lost Causes)
-14. Appalachian Nightmare (Album Version From The Saint Of Lost Causes) 
-15. Over Alameda (Demo For The Saint Of Lost Causes)
-16. Over Alameda (Album Version From The Saint Of Lost Causes)
-17. Glory Days (From Dead Man’s Town: A Tribute To Born In The U.S.A.)
-18. Far From Me (From Broken Hearts & Dirty Windows: Songs Of John Prine)
-19. Graceland (Bonus Track From Kids In The Street, Limited Release 7” And Digital Only)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cold Comfort (Unreleased Demo For The Saint Of Lost Causes) |  |
+| A2 | Already Gone (Unreleased Demo For The Saint Of Lost Causes) |  |
+| A3 | I Know You (Unreleased Demo For The Saint Of Lost Causes)  |  |
+| A4 | Troubled Eyes (Unreleased Demo For The Saint Of Lost Causes) |  |
+| A5 | Lonely Mornings (Unreleased Demo For The Saint Of Lost Causes) |  |
+| A6 | All Or Nothing (Unreleased Demo For The Saint Of Lost Causes) |  |
+| B1 | If I Was The Devil (Demo For Kids In The Street) |  |
+| B2 | Champagne Corolla (Steve Earle Show On SiriusXM) |  |
+| B3 | So Different Blues (Steve Earle Show On SiriusXM) |  |
+| B4 | Dreams (Unreleased Bonus Track From The Saint Of Lost Causes) |  |
+| B5 | Rocket 88 (Unreleased Bonus Track From The Saint Of Lost Causes) |  |
+| B6 | The Saint Of Lost Causes (Demo For The Saint Of Lost Causes – A Work In Progress) |  |
+| C1 | Appalachian Nightmare (Demo For The Saint Of Lost Causes) |  |
+| C2 | Appalachian Nightmare (Album Version From The Saint Of Lost Causes)  |  |
+| C3 | Over Alameda (Demo For The Saint Of Lost Causes) |  |
+| C4 | Over Alameda (Album Version From The Saint Of Lost Causes) |  |
+| D1 | Glory Days (From Dead Man’s Town: A Tribute To Born In The U.S.A.) |  |
+| D2 | Far From Me (From Broken Hearts & Dirty Windows: Songs Of John Prine) |  |
+| D3 | Graceland (Bonus Track From Kids In The Street, Limited Release 7” And Digital Only) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-in-unreleased-rarities-the-new-west-years/1750016771" >}}<br>
 
 
-## Videos
-### Justin Townes Earle - Cold Comfort Official Audio
-{{< youtube id="Nkarq0Dm5Vo" title="Justin Townes Earle - Cold Comfort Official Audio" >}}<br>
-### More Videos
-
-- [Justin Townes Earle - Already Gone Official Audio](https://www.youtube.com/watch?v=qcmodLoOWWY)
-- [Justin Townes Earle - I Know You Official Audio](https://www.youtube.com/watch?v=THDmaZPQdE4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +74,5 @@ styles: []
 | Format         | Vinyl 2× LP Album Limited Edition Numbered (Gold Nugget) |
 | Label          | New West Records |
 | Catalog Number | NW5797 |
-| Notes | 140g gold nugget color vinyl  12", 2-LP, gatefold Rigid Slipcase 52-page photobook Numbered 0001-1000 (numbered copies exceed 1000) |
+| Notes | 140g gold nugget color vinyl <br>12", 2-LP, gatefold<br>Rigid Slipcase<br>52-page photobook<br>Numbered 0001-1000 (numbered copies exceed 1000) |
 | Discogs URL    | [Justin Townes Earle - All In: Unreleased & Rarities (The New West Years)](https://www.discogs.com/release/31381727-Justin-Townes-Earle-All-In-Unreleased-Rarities-The-New-West-Years) |

@@ -42,31 +42,23 @@ Creatively too, there was some agitation. Keyboardist Alan Wilder had grown fed 
 
 
 ## Tracklisting
-1. World In My Eyes
-2. Sweetest Perfection
-3. Personal Jesus
-4. Halo
-5. Waiting For The Night
-6. Enjoy The Silence
-7. Policy Of Truth
-8. Blue Dress
-9. Clean
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | World In My Eyes |  |
+| A2 | Sweetest Perfection |  |
+| A3 | Personal Jesus |  |
+| A4 | Halo |  |
+| A5 | Waiting For The Night |  |
+| B1 | Enjoy The Silence |  |
+| B2 | Policy Of Truth |  |
+| B3 | Blue Dress |  |
+| B4 | Clean |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/violator/665404621" >}}<br>
 
 
-## Videos
-### Depeche Mode - Violator full album
-{{< youtube id="E8Nbh2LWRls" title="Depeche Mode - Violator full album" >}}<br>
-### More Videos
-
-- [Depeche Mode - Enjoy the Silence Remastered](https://www.youtube.com/watch?v=aGSKrC7dGcY)
-- [Depeche Mode - World in My Eyes Official Video](https://www.youtube.com/watch?v=nhZdL4JlnxI)
-- [Depeche Mode - Policy of Truth Official Video](https://www.youtube.com/watch?v=M2VBmHOYpV8)
-- [Depeche Mode - Personal Jesus Official Video](https://www.youtube.com/watch?v=cNd4eocq2K0)
-- [Depeche Mode - Clean Official Video](https://www.youtube.com/watch?v=h1mD-_DKHc0)
-- [Depeche Mode - Halo Official Video](https://www.youtube.com/watch?v=iEH4eqtK8SU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +70,5 @@ Creatively too, there was some agitation. Keyboardist Alan Wilder had grown fed 
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP 941 |
-| Notes | ℗ & © 1990 Venusnote Limited / Mute Records Limited, a BMG company, under exclusive license to Music On Vinyl B.V. / Sony Music Entertainment Netherlands B.V. This version 2014 Music On Vinyl B.V.    Published by EMI Music Publishing Ltd. assigned by Grabbing Hands Music Ltd.    Recorded and mixed at Logic Studios, Milan, Puk Studios, Denmark, The Church, London, Master Rock Studios, London and Axis, New York. Remastered at Super Audio Mastering. Cut at The Exchange    Released in a spot gloss printed gatefold sleeve with inner sleeve replica insert (2007 remaster). Contained in a resealable plastic sleeve with info sticker. |
+| Notes | ℗ & © 1990 Venusnote Limited / Mute Records Limited, a BMG company, under exclusive license to Music On Vinyl B.V. / Sony Music Entertainment Netherlands B.V. This version 2014 Music On Vinyl B.V.<br><br>Published by EMI Music Publishing Ltd. assigned by Grabbing Hands Music Ltd.<br><br>Recorded and mixed at Logic Studios, Milan, Puk Studios, Denmark, The Church, London, Master Rock Studios, London and Axis, New York. Remastered at Super Audio Mastering. Cut at The Exchange<br><br>Released in a spot gloss printed gatefold sleeve with inner sleeve replica insert (2007 remaster). Contained in a resealable plastic sleeve with info sticker. |
 | Discogs URL    | [Depeche Mode - Violator](https://www.discogs.com/release/5529916-Depeche-Mode-Violator) |

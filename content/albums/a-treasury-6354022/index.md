@@ -4,6 +4,7 @@ artist_name: "Nick Drake"
 artist: "nick-drake"
 album_name: "A Treasury"
 date: 2016-06-27T17:45:59.000000Z
+release_date: "2004-01-01"
 release_id: "6354022"
 slug: "a-treasury-6354022"
 hideSummary: true
@@ -27,46 +28,35 @@ styles: ["Folk Rock"]
 A Treasury is a Nick Drake compilation aimed at the audiophile audience. Released in the UK on 27 September 2004 and in the US on 26 October 2004, it was available as both a hybrid multichannel SACD and a 180 gram vinyl LP. To promote the compilation, a single was issued for the song "River Man", released on CD and 7" vinyl in the UK on 13 September 2004.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Introduction
-2. Hazey Jane II
-3. River Man
-4. Cello Song
-5. Hazey Jane I
-6. Pink Moon
-7. Poor Boy
-8. Magic
-9. Place To Be
-10. Northern Sky
-11. Road
-12. Fruit Tree
-13. Black Eyed Dog
-14. Way To Blue
-15. From The Morning
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Introduction |  |
+| A2 | Hazey Jane II |  |
+| A3 | River Man |  |
+| A4 | Cello Song |  |
+| A5 | Hazey Jane I |  |
+| A6 | Pink Moon |  |
+| A7 | Poor Boy |  |
+| B1 | Magic |  |
+| B2 | Place To Be |  |
+| B3 | Northern Sky |  |
+| B4 | Road |  |
+| B5 | Fruit Tree |  |
+| B6 | Black Eyed Dog |  |
+| B7 | Way To Blue |  |
+| B8 | From The Morning |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-treasury/1440822546" >}}<br>
 
 
-## Videos
-### From The Morning
-{{< youtube id="RvwMVDAdwVc" title="From The Morning" >}}<br>
-### More Videos
-
-- [Place To Be](https://www.youtube.com/watch?v=s3R03tDlWvc)
-- [Poor Boy](https://www.youtube.com/watch?v=IK2r5moLP_A)
-- [Nick Drake - Plaisir dAmour](https://www.youtube.com/watch?v=GzzTlGr7kxo)
-- [Nick Drake River Man](https://www.youtube.com/watch?v=YqAPxKP2_gU)
-- [From The Morning](https://www.youtube.com/watch?v=RvwMVDAdwVc)
-- [Place To Be](https://www.youtube.com/watch?v=s3R03tDlWvc)
-- [Poor Boy](https://www.youtube.com/watch?v=IK2r5moLP_A)
-- [From The Morning](https://www.youtube.com/watch?v=RvwMVDAdwVc)
-- [Place To Be](https://www.youtube.com/watch?v=s3R03tDlWvc)
-- [Nick Drake River Man](https://www.youtube.com/watch?v=YqAPxKP2_gU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +68,5 @@ A Treasury is a Nick Drake compilation aimed at the audiophile audience. Release
 | Format         | Vinyl LP Compilation Reissue |
 | Label          | Island Records |
 | Catalog Number | 4700056 |
-| Notes | Includes inner sleeve with lyrics and revised liner notes from Peter Paphides. Some copies are issued with a 'Back To Black' hype sticker attached to the shrink wrap.  Center labels: ℗ © 2004 Universal Island Records Ltd. Made in the EU |
+| Notes | Includes inner sleeve with lyrics and revised liner notes from Peter Paphides.<br>Some copies are issued with a 'Back To Black' hype sticker attached to the shrink wrap.<br><br>Center labels:<br>℗ © 2004 Universal Island Records Ltd.<br>Made in the EU |
 | Discogs URL    | [Nick Drake - A Treasury](https://www.discogs.com/release/6354022-Nick-Drake-A-Treasury) |

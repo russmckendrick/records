@@ -35,48 +35,30 @@ On their final album, Q-Tip, Phife Dawg, Ali Shaheed Muhammad and Jarobi rekindl
 
 
 ## Tracklisting
-1. The Space Program (5:40)
-2. We The People.... (2:52)
-3. Whateva Will Be (2:52)
-4. Solid Wall of Sound (3:43)
-5. Dis Generation (3:33)
-6. Kids...  (3:48)
-7. Melatonin (4:44)
-8. Enough!! (3:20)
-9. Mobius (2:51)
-10. Black Spasmodic (3:03)
-11. The Killing Season (2:43)
-12. Lost Somebody (4:18)
-13. Movin Backwards (4:41)
-14. Conrad Tokyo (3:31)
-15. Ego (3:17)
-16. The Donald (5:22)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Space Program | 5:40 |
+| A2 | We The People.... | 2:52 |
+| A3 | Whateva Will Be | 2:52 |
+| A4 | Solid Wall of Sound | 3:43 |
+| B1 | Dis Generation | 3:33 |
+| B2 | Kids...  | 3:48 |
+| B3 | Melatonin | 4:44 |
+| B4 | Enough!! | 3:20 |
+| C1 | Mobius | 2:51 |
+| C2 | Black Spasmodic | 3:03 |
+| C3 | The Killing Season | 2:43 |
+| C4 | Lost Somebody | 4:18 |
+| D1 | Movin Backwards | 4:41 |
+| D2 | Conrad Tokyo | 3:31 |
+| D3 | Ego | 3:17 |
+| D4 | The Donald | 5:22 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/we-got-it-from-here-thank-you-4-your-service/1173106678" >}}<br>
 
 
-## Videos
-### FULL ALBUM We Got It From Here Thank You 4 Your Service A Tribe Called Quest
-{{< youtube id="aewl9POdSUw" title="FULL ALBUM We Got It From Here Thank You 4 Your Service A Tribe Called Quest" >}}<br>
-### More Videos
-
-- [A Tribe Called Quest - The Space Program Official Video](https://www.youtube.com/watch?v=qTrqmNieVKI)
-- [A Tribe Called Quest - We The People Official Video](https://www.youtube.com/watch?v=vO2Su3erRIA)
-- [Whateva Will Be](https://www.youtube.com/watch?v=7HzJv7DwenE)
-- [Solid Wall of Sound](https://www.youtube.com/watch?v=L400S6Flz2I)
-- [A Tribe Called Quest - Dis Generation Official Video](https://www.youtube.com/watch?v=kQaSDJYwdh4)
-- [Kids](https://www.youtube.com/watch?v=KArPmTJnYmQ)
-- [Melatonin](https://www.youtube.com/watch?v=OZmreJMSvEY)
-- [Enough](https://www.youtube.com/watch?v=wMA1kP7gWS4)
-- [Mobius](https://www.youtube.com/watch?v=xGZlSHszVu4)
-- [Black Spasmodic](https://www.youtube.com/watch?v=UNfBvHerzLs)
-- [The Killing Season](https://www.youtube.com/watch?v=zar75xmMkvU)
-- [Lost Somebody](https://www.youtube.com/watch?v=boQfbi-D8ag)
-- [Movin Backwards](https://www.youtube.com/watch?v=aB7AbkeauLs)
-- [Conrad Tokyo](https://www.youtube.com/watch?v=Eg2ps6KtGRI)
-- [Ego](https://www.youtube.com/watch?v=fA707YJqUUI)
-- [The Donald](https://www.youtube.com/watch?v=ReLIvQNlkLQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -87,5 +69,5 @@ On their final album, Q-Tip, Phife Dawg, Ali Shaheed Muhammad and Jarobi rekindl
 | Format         | Vinyl 2× LP Album |
 | Label          | Epic |
 | Catalog Number | 88985377871 |
-| Notes | B1: additional Phife vocals recorded at Fantasy Studios, Berkeley, CA  Made in the EU.  |
+| Notes | B1: additional Phife vocals recorded at Fantasy Studios, Berkeley, CA<br><br>Made in the EU.<br> |
 | Discogs URL    | [A Tribe Called Quest - We Got It From Here…Thank You 4 Your Service](https://www.discogs.com/release/9579770-A-Tribe-Called-Quest-We-Got-It-From-HereThank-You-4-Your-Service) |

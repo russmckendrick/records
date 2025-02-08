@@ -36,27 +36,26 @@ Bush worked with session musicians who had worked with groups such as Pilot, The
 
 
 ## Tracklisting
-1. Moving (3:00)
-2. The Saxophone Song (3:48)
-3. Strange Phenomena (2:52)
-4. Kite (2:55)
-5. The Man With The Child In His Eyes (2:38)
-6. Wuthering Heights (4:25)
-7. James And The Cold Gun (3:32)
-8. Feel It (2:56)
-9. Oh To Be In Love (3:16)
-10. L'Amour Looks Something Like You (2:24)
-11. Them Heavy People (3:02)
-12. Room For The Life (4:01)
-13. The Kick Inside (3:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Moving | 3:00 |
+| A2 | The Saxophone Song | 3:48 |
+| A3 | Strange Phenomena | 2:52 |
+| A4 | Kite | 2:55 |
+| A5 | The Man With The Child In His Eyes | 2:38 |
+| A6 | Wuthering Heights | 4:25 |
+| B1 | James And The Cold Gun | 3:32 |
+| B2 | Feel It | 2:56 |
+| B3 | Oh To Be In Love | 3:16 |
+| B4 | L'Amour Looks Something Like You | 2:24 |
+| B5 | Them Heavy People | 3:02 |
+| B6 | Room For The Life | 4:01 |
+| B7 | The Kick Inside | 3:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-kick-inside/726230233" >}}<br>
 
-
-## Videos
-### LAmour Looks Something Like You
-{{< youtube id="4c6UEHhgSHA" title="LAmour Looks Something Like You" >}}<br>
 
 
 ## Release Images
@@ -69,5 +68,5 @@ Bush worked with session musicians who had worked with groups such as Pilot, The
 | Format         | Vinyl LP Album Stereo |
 | Label          | EMI |
 | Catalog Number | EMC 3223 |
-| Notes | Fully laminated sleeve. Tan labels with red EMI logo. First cat.# on cover & labels, 2nd (EMI int. cat.#) on cover back.  Recorded at AIR London Studios: July/August 1977 A2, A5 Recorded at AIR London Studios: June 1975 [Executive Producer: David Gilmour]  All songs published by EMI/Kate Bush © 1978 ℗ 1978 EMI Records Ltd. Made in Gt. Britain  Durations do not appear on this release. (Taken per stop watch.)  Runouts are stamped. Either "REMEMBER YOURSELF" or the misspelt "REMBER YOURSELF" can be found etched in the runouts. |
+| Notes | Fully laminated sleeve.<br>Tan labels with red EMI logo.<br>First cat.# on cover & labels, 2nd (EMI int. cat.#) on cover back.<br><br>Recorded at AIR London Studios: July/August 1977<br>A2, A5 Recorded at AIR London Studios: June 1975 [Executive Producer: David Gilmour]<br><br>All songs published by EMI/Kate Bush © 1978<br>℗ 1978 EMI Records Ltd.<br>Made in Gt. Britain<br><br>Durations do not appear on this release. (Taken per stop watch.)<br><br>Runouts are stamped. Either "REMEMBER YOURSELF" or the misspelt "REMBER YOURSELF" can be found etched in the runouts. |
 | Discogs URL    | [Kate Bush - The Kick Inside](https://www.discogs.com/release/414374-Kate-Bush-The-Kick-Inside) |

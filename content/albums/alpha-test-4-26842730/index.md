@@ -1,9 +1,10 @@
 ---
 title: "Henge - Alpha Test 4"
 artist_name: "Henge"
-artist: "henge-3"
+artist: "henge"
 album_name: "Alpha Test 4"
 date: 2024-02-09T08:45:24.000000Z
+release_date: "2023-07-21"
 release_id: "26842730"
 slug: "alpha-test-4-26842730"
 hideSummary: true
@@ -21,37 +22,29 @@ styles: ["Acid", "Prog Rock", "Techno", "Psychedelic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Get A Wriggle On
-2. Self Repair Protocol
-3. Wanderlust
-4. Tardigrades
-5. DNA
-6. Altered State
-7. RA
-8. First Encounter
-9. Alpha Test 4
-10. Asteroid
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Get A Wriggle On |  |
+| A2 | Self Repair Protocol |  |
+| A3 | Wanderlust |  |
+| A4 | Tardigrades |  |
+| A5 | DNA |  |
+| A6 | Altered State |  |
+| B1 | RA |  |
+| B2 | First Encounter |  |
+| B3 | Alpha Test 4 |  |
+| B4 | Asteroid |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/alpha-test-4/1668860444" >}}<br>
 
 
-## Videos
-### HENGE - Get A Wriggle On
-{{< youtube id="Ubm138FI_mw" title="HENGE - Get A Wriggle On" >}}<br>
-### More Videos
-
-- [HENGE - Self Repair Protocol](https://www.youtube.com/watch?v=T7sVFB0ZJ2w)
-- [HENGE - Wanderlust](https://www.youtube.com/watch?v=i5YuojwIj1M)
-- [HENGE - Tardigrades](https://www.youtube.com/watch?v=9DviEyvcshE)
-- [DNA](https://www.youtube.com/watch?v=iouJDTFagkU)
-- [Altered State](https://www.youtube.com/watch?v=VxZjOgdfQAw)
-- [Ra](https://www.youtube.com/watch?v=aO4-3V2IeLk)
-- [First Encounter](https://www.youtube.com/watch?v=buorRmYihlE)
-- [Alpha Test 4](https://www.youtube.com/watch?v=rEe2mrzz5mI)
-- [Asteroid](https://www.youtube.com/watch?v=1kGFBkvPN0w)
 
 ## Release Images
 {{< imageGrid >}}

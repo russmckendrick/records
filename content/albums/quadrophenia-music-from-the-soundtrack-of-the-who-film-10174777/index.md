@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Quadrophenia (Music From The Soundtrack Of The Who Film)"
 date: 2017-06-06T17:29:01.000000Z
+release_date: ""
 release_id: "10174777"
 slug: "quadrophenia-music-from-the-soundtrack-of-the-who-film-10174777"
 hideSummary: true
@@ -30,51 +31,41 @@ styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues"
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. I Am The Sea
-2. The Real Me
-3. I'm One
-4. 5.15
-5. Love Reign O'er Me
-6. Bell Boy
-7. I've Had Enough
-8. Helpless Dancer
-9. Doctor Jimmy
-10. Zoot Suit
-11. Hi Heel Sneakers
-12. Get Out And Stay Out
-13. Four Faces
-14. Joker James
-15. The Punk And The Godfather
-16. Night Train
-17. Louie Louie
-18. Green Onions
-19. Rhythm Of The Rain
-20. He's So Fine
-21. Be My Baby
-22. Da Doo Ron Ron
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Am The Sea |  |
+| A2 | The Real Me |  |
+| A3 | I'm One |  |
+| A4 | 5.15 |  |
+| A5 | Love Reign O'er Me |  |
+| B1 | Bell Boy |  |
+| B2 | I've Had Enough |  |
+| B3 | Helpless Dancer |  |
+| B4 | Doctor Jimmy |  |
+| C1 | Zoot Suit |  |
+| C2 | Hi Heel Sneakers |  |
+| C3 | Get Out And Stay Out |  |
+| C4 | Four Faces |  |
+| C5 | Joker James |  |
+| C6 | The Punk And The Godfather |  |
+| D1 | Night Train |  |
+| D2 | Louie Louie |  |
+| D3 | Green Onions |  |
+| D4 | Rhythm Of The Rain |  |
+| D5 | He's So Fine |  |
+| D6 | Be My Baby |  |
+| D7 | Da Doo Ron Ron |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### 515 - Quadrophenia - The Who
-{{< youtube id="OR5v4yyPV6Y" title="515 - Quadrophenia - The Who" >}}<br>
-### More Videos
 
-- [Cross Section - Hi Heel Sneakers Quadrophenia OST](https://www.youtube.com/watch?v=v9Ii2OcP3rc)
-- [Cross Section - Hi Heel Sneakers Quadrophenia OST](https://www.youtube.com/watch?v=v9Ii2OcP3rc)
-- [The Who - Quadrophenia Full Album 1973](https://www.youtube.com/watch?v=0F3HxlYFc5U)
-- [The Real Me Quadrophenia The Movie](https://www.youtube.com/watch?v=82oVtqrCpaI)
-- [Love reign oer me](https://www.youtube.com/watch?v=ZALcu_UhuIg)
-- [The Who - Bell Boy with Keith Moon](https://www.youtube.com/watch?v=OBruYbPzxOw)
-- [THE WHO - Ive Had Enough  QUADROPHENIA](https://www.youtube.com/watch?v=hb8TfdeRJgk)
-- [James Brown performs Night Train on the TAMI Show Live](https://www.youtube.com/watch?v=ZF_rZrH4yBY)
-- [RHYTHM OF THE RAIN THE CASCADES IN LIVE](https://www.youtube.com/watch?v=l1PJ9mF2H2Q)
-- [The Ronettes - Be My Baby - live HQ](https://www.youtube.com/watch?v=jrVbawRPO7I)
-- [The Crystals - Da Doo Ron Ron - new stereo remix versions](https://www.youtube.com/watch?v=v-qqi7-Q19k)
-- [The Chiffons - Hes So Fine](https://www.youtube.com/watch?v=rinz9Avvq6A)
-- [The Crystals - Da Doo Ron Ron HQ](https://www.youtube.com/watch?v=L0dikX80Ed8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +76,5 @@ styles: ["Garage Rock", "Soul", "Symphonic Rock", "Soundtrack", "Rhythm & Blues"
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition Reissue Remastered (Green [Parka Green], 180g) |
 | Label          | UMC |
 | Catalog Number | 5732868 |
-| Notes | Record Store Day 2017 release.   Issued in a gatefold sleeve.  Runouts are laser-etched apart from "MILES. ABBEY ROAD." which is hand-etched.  [Back Cover]: Sides 1, 2 and 3 recorded at Ramport Studios, Battersea except [C1] recorded at Philips Studios, Stanhope Place Overdubbing and remixing at C.T.S. Wembley and Ramport Studios, Battersea This compilation ℗ 2017 Polydor Ltd. (UK) © 2017 Polydor Ltd. (UK) A Universal Music Company Made In The EU Universal International Music BV  [Inner Sleeves]: [A1 to A4, C2 to C5] ℗ 1973 Polydor Ltd. (UK) [A5] ℗ 1979 Polydor Ltd. (UK) [B1, B2] ℗ 1973 Polydor Ltd. (UK) [B3] ℗ 1979 Polydor Ltd. (UK) [B4, C6] ℗ 1979 The Who Group Ltd. [C1] ℗ 1964 Mercury Records Limited [D1] ℗ 1962 Universal Reocrds, a Division of UMG Recordings, Inc. [D2] ℗ 1963 Kingsmen International Licencing, Inc. [D3] ℗ 1962 Atlantic Records / WEA [D4] ℗ 1975 Warner Bros Records [D5] ℗ 2011 Capitol Records LLC [D6] ℗ 1963 Phil Spector Records / Polydor Inc. [D7] ℗ 1991 Phil Spector Records, Inc.  [Publishers]: [A1 to B4, C3 to C6] Fabulous Music Ltd. [C1] Ivy Music Ltd. [C2] Arc Music Corporation [C2] Jewel Music Publishing Co. Ltd. [D1] Hill & Range Songs Inc. [D1] Pamlee Music [D2] EMI-Longitude Music [D3] Hill & Range [D3] Southwind Music [D4] Sherman De Vorzon Music [D5] Bright Tunes Productions [D6, D7] Carlin Music Corp. [D7] ABKCO Music Ltd. [D7] Mother Bertha Music Ltd. |
+| Notes | Record Store Day 2017 release. <br><br>Issued in a gatefold sleeve.<br><br>Runouts are laser-etched apart from "MILES. ABBEY ROAD." which is hand-etched.<br><br>[Back Cover]:<br>Sides 1, 2 and 3 recorded at Ramport Studios, Battersea except [C1] recorded at Philips Studios, Stanhope Place<br>Overdubbing and remixing at C.T.S. Wembley and Ramport Studios, Battersea<br>This compilation ℗ 2017 Polydor Ltd. (UK) © 2017 Polydor Ltd. (UK) A Universal Music Company<br>Made In The EU<br>Universal International Music BV<br><br>[Inner Sleeves]:<br>[A1 to A4, C2 to C5] ℗ 1973 Polydor Ltd. (UK)<br>[A5] ℗ 1979 Polydor Ltd. (UK)<br>[B1, B2] ℗ 1973 Polydor Ltd. (UK)<br>[B3] ℗ 1979 Polydor Ltd. (UK)<br>[B4, C6] ℗ 1979 The Who Group Ltd.<br>[C1] ℗ 1964 Mercury Records Limited<br>[D1] ℗ 1962 Universal Reocrds, a Division of UMG Recordings, Inc.<br>[D2] ℗ 1963 Kingsmen International Licencing, Inc.<br>[D3] ℗ 1962 Atlantic Records / WEA<br>[D4] ℗ 1975 Warner Bros Records<br>[D5] ℗ 2011 Capitol Records LLC<br>[D6] ℗ 1963 Phil Spector Records / Polydor Inc.<br>[D7] ℗ 1991 Phil Spector Records, Inc.<br><br>[Publishers]:<br>[A1 to B4, C3 to C6] Fabulous Music Ltd.<br>[C1] Ivy Music Ltd.<br>[C2] Arc Music Corporation<br>[C2] Jewel Music Publishing Co. Ltd.<br>[D1] Hill & Range Songs Inc.<br>[D1] Pamlee Music<br>[D2] EMI-Longitude Music<br>[D3] Hill & Range<br>[D3] Southwind Music<br>[D4] Sherman De Vorzon Music<br>[D5] Bright Tunes Productions<br>[D6, D7] Carlin Music Corp.<br>[D7] ABKCO Music Ltd.<br>[D7] Mother Bertha Music Ltd. |
 | Discogs URL    | [Various - Quadrophenia (Music From The Soundtrack Of The Who Film)](https://www.discogs.com/release/10174777-Various-Quadrophenia-Music-From-The-Soundtrack-Of-The-Who-Film) |

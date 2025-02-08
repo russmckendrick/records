@@ -4,6 +4,7 @@ artist_name: "Yes"
 artist: "yes"
 album_name: "Tales From Topographic Oceans"
 date: 2016-03-09T18:40:45.000000Z
+release_date: "1973-12-07"
 release_id: "981938"
 slug: "tales-from-topographic-oceans-981938"
 hideSummary: true
@@ -31,34 +32,24 @@ Rehearsals lasted for two months in London, during which the band decided to pro
 Tales from Topographic Oceans received mixed reviews upon release and became a symbol of the perceived excesses of progressive rock, but earned a more positive reception in later years. It was a commercial success, becoming the first UK album to be certified Gold based solely on pre-orders, and spent two weeks at number one. In the US it peaked at number 6, where it was certified gold in 1974 for surpassing 500,000 copies. Yes toured the album for five months across Europe and North America, the first half of which featured the entire album performed live. Wakeman, who was against playing the whole album, quit the band at its conclusion to continue his solo career. In 2003, the album was remastered with previously unreleased tracks, and an edition with new stereo and 5.1 surround sound mixes by Steven Wilson, with additional bonus tracks, followed in 2016.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Revealing Science Of God - Dance Of The Dawn (20:27)
-2. The Remembering - High The Memory (20:38)
-3. The Ancient - Giants Under The Sun (18:34)
-4. Ritual - Nous Sommes Du Soleil (21:25)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | The Revealing Science Of God - Dance Of The Dawn | 20:27 |
+| B | The Remembering - High The Memory | 20:38 |
+| C | The Ancient - Giants Under The Sun | 18:34 |
+| D | Ritual - Nous Sommes Du Soleil | 21:25 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tales-from-topographic-oceans/1049006570" >}}<br>
 
 
-## Videos
-### The Revealing Science of God Dance of the Dawn
-{{< youtube id="ap4AjA5OiU4" title="The Revealing Science of God Dance of the Dawn" >}}<br>
-### More Videos
-
-- [The Remembering  High the Memory](https://www.youtube.com/watch?v=438-Ii_BueM)
-- [The Ancient  Giants Under the Sun](https://www.youtube.com/watch?v=_HLbVDR_HAg)
-- [Ritual Nous Sommes du Soleil](https://www.youtube.com/watch?v=xQaYwTRLdCM)
-- [Yes - Tales from Topographic Oceans Full Album 1973](https://www.youtube.com/watch?v=4fBH6uHP_08)
-- [The Revealing Science of God Dance of the Dawn](https://www.youtube.com/watch?v=ap4AjA5OiU4)
-- [The Remembering  High the Memory](https://www.youtube.com/watch?v=438-Ii_BueM)
-- [The Ancient  Giants Under the Sun](https://www.youtube.com/watch?v=_HLbVDR_HAg)
-- [Ritual Nous Sommes du Soleil](https://www.youtube.com/watch?v=xQaYwTRLdCM)
-- [Yes - Tales from Topographic Oceans Full Album 1973](https://www.youtube.com/watch?v=4fBH6uHP_08)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +61,5 @@ Tales from Topographic Oceans received mixed reviews upon release and became a s
 | Format         | Vinyl 2× LP Album Stereo (Gatefold) |
 | Label          | Atlantic |
 | Catalog Number | K 80001 |
-| Notes | Full colour gatefold sleeve with double page illustration, by [a1826912] across the front and rear faces of the outer sleeve.  Song titles and lyrics printed across the double page inner faces on a black background.  Recorded at Morgan Studio London during late summer and early autumn 1973.  Plates made by - Mansell Litho. Printed and made in England by Shorewood Packaging. An Atlantic Record distributed by WEA Records Ltd. © and ℗ 1973.   No Atlantic logo on labels - different from [r=6010444].  Plain polylined paper inner sleeves with text:  British Patent No. 800513 & 973939  MADE IN ENGLAND  4913 000 15801  3510 |
+| Notes | Full colour gatefold sleeve with double page illustration, by [a1826912] across the front and rear faces of the outer sleeve.<br><br>Song titles and lyrics printed across the double page inner faces on a black background.<br><br>Recorded at Morgan Studio London during late summer and early autumn 1973.<br><br>Plates made by - Mansell Litho.<br>Printed and made in England by Shorewood Packaging.<br>An Atlantic Record distributed by WEA Records Ltd. © and ℗ 1973. <br><br>No Atlantic logo on labels - different from [r=6010444].<br><br>Plain polylined paper inner sleeves with text: <br>British Patent No. 800513 & 973939  MADE IN ENGLAND  4913 000 15801  3510 |
 | Discogs URL    | [Yes - Tales From Topographic Oceans](https://www.discogs.com/release/981938-Yes-Tales-From-Topographic-Oceans) |

@@ -25,33 +25,28 @@ A masterpiece of joyous nostalgia and full-throated soul marks a new phase for r
 
 
 ## Tracklisting
-1. Building A Beginning
-2. Julian
-3. I Live To Make You Smile
-4. Find It Hard To Say
-5. Me And You
-6. How Did I Live Before Your Love
-7. Walk Right Back
-8. Nothing's Gonna Change
-9. In Love And Alone
-10. Motionless
-11. Believe In Me
-12. I Stay Inside
-13. Precious Years
-14. Don't Let Me Let You Go
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Building A Beginning |  |
+| A2 | Julian |  |
+| A3 | I Live To Make You Smile |  |
+| A4 | Find It Hard To Say |  |
+| B1 | Me And You |  |
+| B2 | How Did I Live Before Your Love |  |
+| B3 | Walk Right Back |  |
+| C1 | Nothing's Gonna Change |  |
+| C2 | In Love And Alone |  |
+| C3 | Motionless |  |
+| C4 | Believe In Me |  |
+| D1 | I Stay Inside |  |
+| D2 | Precious Years |  |
+| D3 | Don't Let Me Let You Go |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/building-a-beginning/1133940590" >}}<br>
 
 
-## Videos
-### Jamie Lidell - Building A Beginning Lyric Video
-{{< youtube id="RkNdHL3eXGc" title="Jamie Lidell - Building A Beginning Lyric Video" >}}<br>
-### More Videos
-
-- [Jamie Lidell - I Live To Make You Smile Official Audio](https://www.youtube.com/watch?v=SpXk3GslsgU)
-- [Jamie Lidell - Building A Beginning Lyric Video](https://www.youtube.com/watch?v=RkNdHL3eXGc)
-- [Jamie Lidell - I Live To Make You Smile Official Audio](https://www.youtube.com/watch?v=SpXk3GslsgU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +58,5 @@ A masterpiece of joyous nostalgia and full-throated soul marks a new phase for r
 | Format         | Vinyl LP 45 RPM (Red), Vinyl LP 45 RPM (Yellow), All Media Album |
 | Label          | Jajulin |
 | Catalog Number | JJL004 |
-| Notes | Gatefold sleeve. Includes digital download.  |
+| Notes | Gatefold sleeve.<br>Includes digital download.  |
 | Discogs URL    | [Jamie Lidell - Building A Beginning](https://www.discogs.com/release/9310602-Jamie-Lidell-Building-A-Beginning) |

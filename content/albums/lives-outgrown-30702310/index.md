@@ -4,6 +4,7 @@ artist_name: "Beth Gibbons"
 artist: "beth-gibbons"
 album_name: "Lives Outgrown"
 date: 2024-05-18T05:26:57.000000Z
+release_date: "2024-05-17"
 release_id: "30702310"
 slug: "lives-outgrown-30702310"
 hideSummary: true
@@ -35,40 +36,30 @@ styles: ["Indie Rock", "Folk", "Art Rock", "Avantgarde", "Ethereal", "Experiment
 Lives Outgrown is the debut solo studio album by English musician Beth Gibbons, released on 17 May 2024 through Domino Recording Company. The album was produced by Gibbons, James Ford and Lee Harris. It was preceded by the singles "Floating on a Moment", "Reaching Out", and "Lost Changes". The album received positive reviews from critics, and was nominated for the 2024 Mercury Prize.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Tell Me Who You Are Today (3:55)
-2. Floating On A Moment (5:26)
-3. Burden Of Life (3:35)
-4. Lost Changes (5:41)
-5. Rewind (4:47)
-6. Reaching Out (4:15)
-7. Oceans (3:43)
-8. For Sale (4:25)
-9. Beyond The Sun (3:54)
-10. Whispering Love (6:10)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Tell Me Who You Are Today | 3:55 |
+| A2 | Floating On A Moment | 5:26 |
+| A3 | Burden Of Life | 3:35 |
+| A4 | Lost Changes | 5:41 |
+| A5 | Rewind | 4:47 |
+| B1 | Reaching Out | 4:15 |
+| B2 | Oceans | 3:43 |
+| B3 | For Sale | 4:25 |
+| B4 | Beyond The Sun | 3:54 |
+| B5 | Whispering Love | 6:10 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lives-outgrown/1728144209" >}}<br>
 
 
-## Videos
-### Tell Me Who You Are Today
-{{< youtube id="noNcHNoWvUM" title="Tell Me Who You Are Today" >}}<br>
-### More Videos
-
-- [Beth Gibbons - Floating On A Moment Official Video](https://www.youtube.com/watch?v=ldrx0eSqV-E)
-- [Burden Of Life](https://www.youtube.com/watch?v=fduOWTkj8dA)
-- [Beth Gibbons - Lost Changes Official Video](https://www.youtube.com/watch?v=sXRJWVvSGIs)
-- [Rewind](https://www.youtube.com/watch?v=Wq-tnd8dyjM)
-- [Beth Gibbons - Reaching Out Official Video](https://www.youtube.com/watch?v=JJeCBRhoXek)
-- [Oceans](https://www.youtube.com/watch?v=QEl4L7hKxrY)
-- [For Sale](https://www.youtube.com/watch?v=m1EPvttmEAs)
-- [Beyond The Sun](https://www.youtube.com/watch?v=pHhLTjbYT48)
-- [Whispering Love](https://www.youtube.com/watch?v=gdX25Ra8ZEA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +71,5 @@ Lives Outgrown is the debut solo studio album by English musician Beth Gibbons, 
 | Format         | Vinyl LP Album Deluxe Edition Limited Edition Stereo (180g) |
 | Label          | Domino |
 | Catalog Number | WIGLP287X |
-| Notes | Limited deluxe heavy gatefold indie vinyl. Made in EU.  Including: - tip-on gatefold sleeve  - 180 gram heavyweight vinyl - 12-page "Scrapbook" booklet  - 4-page insert with lyrics, credits and photos - download code card - black antistatic inner sleeve - 12"x12" album art print in XI/XX editions  Catalogue number on rear jacket and spine: WIGLP287X Catalogue number on sticker: WIGLP287XX or WIGLP287XI  200 additional copies of this release were retailed by Assai Records with a hand numbered Japanese style Obi under their Assai Obi Editions.  All runout details are hand etched. The faintly inscribed Optimal marks (e.g. 'TV' and '1IV') are mirrored.  [Rear jacket:] ℗ & © 2024 Domino Recording Co. Ltd. PO Box 47029 London SW18 1WD / 20 Jay Street #626 Brooklyn NY 11201 dominomusic.com Made in the EU  [Insert:] Recorded at Devon Barn, Bristol State of Art, Studio 53 London and Snap Studios London Orchestration recorded at Konk Studios [...] Mixed [...] at Studio 53 London Mastered [...] Metropolis, London |
+| Notes | Limited deluxe heavy gatefold indie vinyl.<br>Made in EU.<br><br>Including:<br>- tip-on gatefold sleeve <br>- 180 gram heavyweight vinyl<br>- 12-page "Scrapbook" booklet <br>- 4-page insert with lyrics, credits and photos<br>- download code card<br>- black antistatic inner sleeve<br>- 12"x12" album art print in XI/XX editions <br>Catalogue number on rear jacket and spine: WIGLP287X<br>Catalogue number on sticker: WIGLP287XX or WIGLP287XI<br><br>200 additional copies of this release were retailed by Assai Records with a hand numbered Japanese style Obi under their Assai Obi Editions.<br><br>All runout details are hand etched. The faintly inscribed Optimal marks (e.g. 'TV' and '1IV') are mirrored.<br><br>[Rear jacket:]<br>℗ & © 2024 Domino Recording Co. Ltd. PO Box 47029 London SW18 1WD / 20 Jay Street #626 Brooklyn NY 11201 dominomusic.com Made in the EU<br><br>[Insert:]<br>Recorded at Devon Barn, Bristol State of Art, Studio 53 London and Snap Studios London<br>Orchestration recorded at Konk Studios [...]<br>Mixed [...] at Studio 53 London<br>Mastered [...] Metropolis, London |
 | Discogs URL    | [Beth Gibbons - Lives Outgrown](https://www.discogs.com/release/30702310-Beth-Gibbons-Lives-Outgrown) |

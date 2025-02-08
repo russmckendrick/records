@@ -4,6 +4,7 @@ artist_name: "The Orb"
 artist: "the-orb"
 album_name: "U.F.Orb"
 date: 2020-04-25T15:16:35.000000Z
+release_date: "1992-01-01"
 release_id: "11049854"
 slug: "u-f-orb-11049854"
 hideSummary: true
@@ -26,34 +27,27 @@ styles: ["Ambient", "Dub", "House"]
 U.F.Orb is the second studio album by English electronic music group the Orb. It was released on 6 July 1992 as their last work with record label Big Life. Upon its release, the album reached No. 1 on the UK Albums Chart. The music database AllMusic described it as "the commercial and artistic peak of the ambient-house movement."
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. O.O.B.E (12:51)
-2. U.F. Orb (6:08)
-3. Blue Room (17:34)
-4. Towers Of Dub (15:00)
-5. Close Encounters (10:27)
-6. Majestic (11:06)
-7. Sticky End (0:49)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | O.O.B.E | 12:51 |
+| A2 | U.F. Orb | 6:08 |
+| B | Blue Room | 17:34 |
+| C | Towers Of Dub | 15:00 |
+| D1 | Close Encounters | 10:27 |
+| D2 | Majestic | 11:06 |
+| D3 | Sticky End | 0:49 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/u-f-orb/1443195868" >}}<br>
 
 
-## Videos
-### OOBE
-{{< youtube id="UEbyC_hQkhQ" title="OOBE" >}}<br>
-### More Videos
-
-- [UFOrb](https://www.youtube.com/watch?v=MzNp1n37Gm4)
-- [Blue Room](https://www.youtube.com/watch?v=S2Uolg1saNM)
-- [Towers Of Dub](https://www.youtube.com/watch?v=MEc8_2NAy4E)
-- [Close Encounters](https://www.youtube.com/watch?v=J4-9ALbPQFo)
-- [Majestic](https://www.youtube.com/watch?v=EkQc0YeYm3M)
-- [Sticky End](https://www.youtube.com/watch?v=KwRA-_OBWYU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +59,5 @@ U.F.Orb is the second studio album by English electronic music group the Orb. It
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Island Records |
 | Catalog Number | 00602557797831 |
-| Notes | ℗ 1992 Island Records, a division of Universal Music Operations Limited © 1992 Island Records, a division of Universal Music Operations Limited Includes a download voucher.  Cat# on sticker: 577 978-3 Cat# on spine: 00602557797831  All tracks mixed at Matrix 4 Studio. A1: Programmed in Berlin. Published by Edition Bingen, Orb Music, Big Life Music A2: Programmed at Butterfly. Published by Orb Music, Big Life Music B: Programmed in space at Mark Angelo's. Published by Virgin Music, Orb Music, Big Life Music, Oval Music C: Programmed at Sunsonic. Published by Edition Bingen, Orb Music, Big Life Music D: Programmed at Livingston. Published by Orb Music, Big Life Music D: Programmed at Butterfly. Published by E.G. Music, BMG Music, Orb Music, Big Life Music D: Published by Orb Music, Big Life Music |
+| Notes | ℗ 1992 Island Records, a division of Universal Music Operations Limited<br>© 1992 Island Records, a division of Universal Music Operations Limited<br>Includes a download voucher.<br><br>Cat# on sticker: 577 978-3<br>Cat# on spine: 00602557797831<br><br>All tracks mixed at Matrix 4 Studio.<br>A1: Programmed in Berlin. Published by Edition Bingen, Orb Music, Big Life Music<br>A2: Programmed at Butterfly. Published by Orb Music, Big Life Music<br>B: Programmed in space at Mark Angelo's. Published by Virgin Music, Orb Music, Big Life Music, Oval Music<br>C: Programmed at Sunsonic. Published by Edition Bingen, Orb Music, Big Life Music<br>D: Programmed at Livingston. Published by Orb Music, Big Life Music<br>D: Programmed at Butterfly. Published by E.G. Music, BMG Music, Orb Music, Big Life Music<br>D: Published by Orb Music, Big Life Music |
 | Discogs URL    | [The Orb - U.F.Orb](https://www.discogs.com/release/11049854-The-Orb-UFOrb) |

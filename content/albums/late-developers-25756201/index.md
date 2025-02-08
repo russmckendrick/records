@@ -1,6 +1,6 @@
 ---
-title: "Belle & Sebastian - Late Developers"
-artist_name: "Belle & Sebastian"
+title: "Belle  Sebastian - Late Developers"
+artist_name: "Belle  Sebastian"
 artist: "belle-sebastian"
 album_name: "Late Developers"
 date: 2023-02-06T11:31:58.000000Z
@@ -10,8 +10,8 @@ slug: "late-developers-25756201"
 hideSummary: true
 cover:
     image: "late-developers-25756201.jpg"
-    alt: "Late Developers by Belle & Sebastian"
-    caption: "Late Developers by Belle & Sebastian"
+    alt: "Late Developers by Belle  Sebastian"
+    caption: "Late Developers by Belle  Sebastian"
 additional_images:
     - "https://i.discogs.com/2TisZmiFs0n6aTFssIowxFphvVJPgkDG9m0Vvikokv4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcx/MjctNTU2OC5qcGVn.jpeg"
     - "https://i.discogs.com/D8DLAxaRT-BFvvkvR_qhfX-yVl2mA0tH5mlXFcTuzOI/rs:fit/g:sm/q:90/h:315/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcx/MzAtNzA2My5qcGVn.jpeg"
@@ -46,38 +46,25 @@ What tends to give modern Belle and Sebastian albums so much texture and varianc
 
 
 ## Tracklisting
-1. Juliet Naked (3:22)
-2. Give A Little Time (3:23)
-3. When We Were Very Young (3:52)
-4. Will I Tell You A Secret? (2:15)
-5. So In The Moment (3:23)
-6. The Evening Star (4:25)
-7. When You're Not With Me (4:42)
-8. I Don't Know What You See In Me (3:39)
-9. Do You Follow? (4:19)
-10. When The Cynics Stare Back From The Wall (4:21)
-11. Late Developers (4:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Juliet Naked | 3:22 |
+| A2 | Give A Little Time | 3:23 |
+| A3 | When We Were Very Young | 3:52 |
+| A4 | Will I Tell You A Secret? | 2:15 |
+| A5 | So In The Moment | 3:23 |
+| A6 | The Evening Star | 4:25 |
+| B1 | When You're Not With Me | 4:42 |
+| B2 | I Don't Know What You See In Me | 3:39 |
+| B3 | Do You Follow? | 4:19 |
+| B4 | When The Cynics Stare Back From The Wall | 4:21 |
+| B5 | Late Developers | 4:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/late-developers/1652979276" >}}<br>
 
 
-## Videos
-### Belle and Sebastian- Juliet Naked Official Audio
-{{< youtube id="SJzsPJNs8fg" title="Belle and Sebastian- Juliet Naked Official Audio" >}}<br>
-### More Videos
-
-- [Belle and Sebastian- Give A Little Time Official Audio](https://www.youtube.com/watch?v=YaAoBKgasV8)
-- [Belle and Sebastian- When We Were Very Young Official Audio](https://www.youtube.com/watch?v=thV-lSwQJS8)
-- [Belle and Sebastian- Will I Tell You A Secret Official Audio](https://www.youtube.com/watch?v=L8YuF2lk2MU)
-- [Belle and Sebastian- So In The Moment Official Audio](https://www.youtube.com/watch?v=gzB1f4GBI3k)
-- [Belle and Sebastian- The Evening Star Official Audio](https://www.youtube.com/watch?v=jjUOpbSK8ys)
-- [Belle and Sebastian- When Youre Not With Me Official Audio](https://www.youtube.com/watch?v=qzhRidZTMy0)
-- [I Dont Know What You See In Me](https://www.youtube.com/watch?v=v2vxHl57syY)
-- [Belle and Sebastian- Do You Follow Official Audio](https://www.youtube.com/watch?v=eI3GFFR7bPE)
-- [Belle and Sebastian- When The Cynics Stare Back From The Wall Official Audio](https://www.youtube.com/watch?v=kMzfU26LXuM)
-- [Belle and Sebastian- Late Developers Official Audio](https://www.youtube.com/watch?v=Nsl09w8jTro)
-- [Belle and Sebastian- I Dont Know What You See in Me Official Music Video](https://www.youtube.com/watch?v=dgao0WD5g48)
 
 ## Release Images
 {{< imageGrid >}}
@@ -89,5 +76,5 @@ What tends to give modern Belle and Sebastian albums so much texture and varianc
 | Format         | Vinyl LP Album Limited Edition (Orange) |
 | Label          | Matador |
 | Catalog Number | OLE1896LPE |
-| Notes | Gatefold sleeve with printed inner sleeve and lyric booklet  Sticker on shrink wrap reads 'Ltd Edition Orange Vinyl'  200 copies were retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions.  Catalog number on labels and back cover: OLE1896LP. Barcode 1 91401 18960 6 and catalogue number OLE1896LPE stickered on shrink wrap over original barcode 1 914011 896134 >. |
-| Discogs URL    | [Belle & Sebastian - Late Developers](https://www.discogs.com/release/25756201-Belle-And-Sebastian-Late-Developers) |
+| Notes | Gatefold sleeve with printed inner sleeve and lyric booklet<br><br>Sticker on shrink wrap reads 'Ltd Edition Orange Vinyl'<br><br>200 copies were retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions.<br><br>Catalog number on labels and back cover: OLE1896LP.<br>Barcode 1 91401 18960 6 and catalogue number OLE1896LPE stickered on shrink wrap over original barcode 1 914011 896134 >. |
+| Discogs URL    | [Belle  Sebastian - Late Developers](https://www.discogs.com/release/25756201-Belle-And-Sebastian-Late-Developers) |

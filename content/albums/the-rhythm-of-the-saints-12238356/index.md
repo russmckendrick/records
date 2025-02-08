@@ -4,6 +4,7 @@ artist_name: "Paul Simon"
 artist: "paul-simon"
 album_name: "The Rhythm Of The Saints"
 date: 2019-04-26T12:43:37.000000Z
+release_date: "1995-04-04"
 release_id: "12238356"
 slug: "the-rhythm-of-the-saints-12238356"
 hideSummary: true
@@ -27,40 +28,30 @@ The Rhythm of the Saints is the eighth solo studio album by American singer-song
 In 1992, The Rhythm of the Saints earned two nominations for the 34th Grammy Awards – Album of the Year and Producer of the Year.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Obvious Child
-2. Can't Run But
-3. The Coast
-4. Proof
-5. Further To Fly
-6. She Moves On
-7. Born At The Right Time
-8. The Cool, Cool River
-9. Spirit Voices
-10. The Rhythm Of The Saints
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Obvious Child |  |
+| A2 | Can't Run But |  |
+| A3 | The Coast |  |
+| A4 | Proof |  |
+| A5 | Further To Fly |  |
+| B1 | She Moves On |  |
+| B2 | Born At The Right Time |  |
+| B3 | The Cool, Cool River |  |
+| B4 | Spirit Voices |  |
+| B5 | The Rhythm Of The Saints |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-rhythm-of-the-night/797190876" >}}<br>
 
 
-## Videos
-### Paul Simon - Obvious Child Official Video
-{{< youtube id="9HKNAhAxMAk" title="Paul Simon - Obvious Child Official Video" >}}<br>
-### More Videos
-
-- [The Rhythm of the Saints](https://www.youtube.com/watch?v=-0MuckJUILs)
-- [Cant Run But](https://www.youtube.com/watch?v=znfNpN6rfoM)
-- [Paul Simon - The Coast Official Audio](https://www.youtube.com/watch?v=1-tzfMr9E_Y)
-- [Paul Simon - Proof Official Video](https://www.youtube.com/watch?v=Z5Oh-GDikis)
-- [Further to Fly](https://www.youtube.com/watch?v=UU39FlPHNIM)
-- [She Moves On](https://www.youtube.com/watch?v=414FPXLWDVk)
-- [Paul Simon - Born at the Right Time Official Audio](https://www.youtube.com/watch?v=dxnYpg2wyiM)
-- [The Cool Cool River](https://www.youtube.com/watch?v=Ziob6xgiLjc)
-- [Spirit Voices](https://www.youtube.com/watch?v=Ntz9xrtAIXk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +63,5 @@ In 1992, The Rhythm of the Saints earned two nominations for the 34th Grammy Awa
 | Format         | Vinyl LP Album |
 | Label          | Warner Bros. Records |
 | Catalog Number | 7599-26098-1 |
-| Notes | ℗ 1990 Paul Simon  Liner notes state Mastered by Greg Calbi at Sterling Sound, New York, DMM Runout PR-P suggests Mastered at P.R. Records Limited.   Catalogue No., Artist and Title all visible top of front cover and spine  |
+| Notes | ℗ 1990 Paul Simon<br><br>Liner notes state Mastered by Greg Calbi at Sterling Sound, New York, DMM<br>Runout PR-P suggests Mastered at P.R. Records Limited.<br><br><br>Catalogue No., Artist and Title all visible top of front cover and spine<br> |
 | Discogs URL    | [Paul Simon - The Rhythm Of The Saints](https://www.discogs.com/release/12238356-Paul-Simon-The-Rhythm-Of-The-Saints) |

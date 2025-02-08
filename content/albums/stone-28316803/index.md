@@ -4,6 +4,7 @@ artist_name: "Baroness"
 artist: "baroness"
 album_name: "Stone"
 date: 2023-09-23T01:42:12.000000Z
+release_date: "2021-09-22"
 release_id: "28316803"
 slug: "stone-28316803"
 hideSummary: true
@@ -24,39 +25,30 @@ styles: ["Progressive Metal", "Alternative Metal"]
 ---
 
 Stone is the sixth studio album by American heavy metal band Baroness. The album was released on September 15, 2023, through the band's independent label Abraxan Hymns and was self-produced by the band.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Embers
-2. Last Word
-3. Beneath The Rose
-4. Choir
-5. The Dirge
-6. Anodyne
-7. Shine
-8. Magnolia
-9. Under The Wheel
-10. Bloom
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Embers |  |
+| A2 | Last Word |  |
+| A3 | Beneath The Rose |  |
+| A4 | Choir |  |
+| A5 | The Dirge |  |
+| A6 | Anodyne |  |
+| B1 | Shine |  |
+| B2 | Magnolia |  |
+| B3 | Under The Wheel |  |
+| B4 | Bloom |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/el-bar%C3%B3n-gitano-single/1587047517" >}}<br>
 
 
-## Videos
-### BARONESS - Last Word Official Music Video
-{{< youtube id="T7vROjNY9Gk" title="BARONESS - Last Word Official Music Video" >}}<br>
-### More Videos
-
-- [BARONESS - Shine Official Video](https://www.youtube.com/watch?v=cyLeRJigL4A)
-- [BARONESS - Beneath the Rose Official Music Video](https://www.youtube.com/watch?v=TxBGFgqOvaU)
-- [BARONESS - Shine Official Audio](https://www.youtube.com/watch?v=J3xINx9abE8)
-- [BARONESS - Bloom Official Audio](https://www.youtube.com/watch?v=6zl0TtDd6Cc)
-- [BARONESS - Magnolia Official Audio](https://www.youtube.com/watch?v=7u0KIe28iog)
-- [BARONESS - Choir Official Audio](https://www.youtube.com/watch?v=7su4GI5vUf4)
-- [BARONESS - Under The Wheel Official Audio](https://www.youtube.com/watch?v=tMh7QSISKsE)
-- [BARONESS - The Dirge Official Audio](https://www.youtube.com/watch?v=YgYPyvCa3ps)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +60,5 @@ Stone is the sixth studio album by American heavy metal band Baroness. The album
 | Format         | Vinyl LP Album Limited Edition Stereo (Transparent Yellow) |
 | Label          | Abraxan Hymns |
 | Catalog Number | ABXN008-1 |
-| Notes | Limited edition of 500 copies, exclusive to Rough Trade.  Heavyweight printed inner sleeve inside of a gatefold sleeve with black flood and four panel lyric booklet.  Additional information found on barcode sticker: v15. YELLOWTRANS  Side B ends with a locked groove.  |
+| Notes | Limited edition of 500 copies, exclusive to Rough Trade.<br><br>Heavyweight printed inner sleeve inside of a gatefold sleeve with black flood and four panel lyric booklet.<br><br>Additional information found on barcode sticker: v15. YELLOWTRANS<br><br>Side B ends with a locked groove.  |
 | Discogs URL    | [Baroness - Stone](https://www.discogs.com/release/28316803-Baroness-Stone) |

@@ -4,6 +4,7 @@ artist_name: "Nirvana"
 artist: "nirvana"
 album_name: "Nevermind"
 date: 2016-09-08T17:42:11.000000Z
+release_date: "2017-06-23"
 release_id: "1860470"
 slug: "nevermind-1860470"
 hideSummary: true
@@ -30,36 +31,32 @@ Nevermind became an unexpected critical and commercial success, reaching the top
 Nevermind propelled Nirvana into worldwide superstardom, with Cobain being dubbed the "voice of his generation". It brought grunge and alternative rock to a mainstream audience while accelerating the decline of hair metal, drawing similarities to the early 1960s British Invasion of American popular music. It is also often credited with initiating a resurgence of interest in punk culture among teenagers and young adults of Generation X, becoming seminal to the counterculture of the decade. It has sold more than 30 million copies worldwide, making it one of the best-selling albums of all time. In March 1999, it was certified Diamond by the Recording Industry Association of America (RIAA). Among the most acclaimed and influential albums in the history of music, Nevermind was added by the Library of Congress to the National Recording Registry in 2004 for being "culturally, historically, or aesthetically significant", and is frequently ranked highly on lists of the greatest albums of all time, including being ranked number six on Rolling Stone's 2020 and 2023 lists of the "500 Greatest Albums of All Time". The album has since been reissued with alternate takes and live performances.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Smells Like Teen Spirit (5:00)
-2. In Bloom (4:13)
-3. Come As You Are (3:38)
-4. Breed (3:03)
-5. Lithium (4:16)
-6. Polly (2:56)
-7. Territorial Pissings (2:22)
-8. Drain You (3:43)
-9. Lounge Act (2:35)
-10. Stay Away (3:30)
-11. On A Plain (3:12)
-12. Something In The Way (3:43)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Smells Like Teen Spirit | 5:00 |
+| A2 | In Bloom | 4:13 |
+| A3 | Come As You Are | 3:38 |
+| A4 | Breed | 3:03 |
+| A5 | Lithium | 4:16 |
+| A6 | Polly | 2:56 |
+| B1 | Territorial Pissings | 2:22 |
+| B2 | Drain You | 3:43 |
+| B3 | Lounge Act | 2:35 |
+| B4 | Stay Away | 3:30 |
+| B5 | On A Plain | 3:12 |
+| B6 | Something In The Way | 3:43 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nirvana-nevermind-solo-violin/1230754044" >}}<br>
 
 
-## Videos
-### Nirvana - Smells Like Teen Spirit Official Music Video
-{{< youtube id="hTWKbfoikeg" title="Nirvana - Smells Like Teen Spirit Official Music Video" >}}<br>
-### More Videos
-
-- [Nirvana - In Bloom Official Music Video](https://www.youtube.com/watch?v=PbgKEjNBHqM)
-- [Nirvana - Come As You Are Official Music Video](https://www.youtube.com/watch?v=vabnZ9-ex7o)
-- [Nirvana - Lithium Official Music Video](https://www.youtube.com/watch?v=pkcJEvMcnEg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +68,5 @@ Nevermind propelled Nirvana into worldwide superstardom, with Cobain being dubbe
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | DGC |
 | Catalog Number | 0720642442517 |
-| Notes | Part of the "Back To Black - 60th Vinyl Anniversary" series. "Includes A Voucher To Download MP3 Version Of The Album 180 Gram Vinyl Remastered www.backtoblackvinyl.com"  ℗ 1991 Geffen Records © 1991 Geffen Records Made in the EU. |
+| Notes | Part of the "Back To Black - 60th Vinyl Anniversary" series.<br>"Includes A Voucher To Download MP3 Version Of The Album<br>180 Gram Vinyl Remastered<br>www.backtoblackvinyl.com"<br><br>℗ 1991 Geffen Records © 1991 Geffen Records<br>Made in the EU. |
 | Discogs URL    | [Nirvana - Nevermind](https://www.discogs.com/release/1860470-Nirvana-Nevermind) |

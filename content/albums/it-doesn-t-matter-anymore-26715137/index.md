@@ -4,6 +4,7 @@ artist_name: "The Supernaturals"
 artist: "the-supernaturals"
 album_name: "It Doesn't Matter Anymore"
 date: 2023-12-29T04:33:09.000000Z
+release_date: "1997"
 release_id: "26715137"
 slug: "it-doesn-t-matter-anymore-26715137"
 hideSummary: true
@@ -23,31 +24,31 @@ The song was recorded in mid-October 1958 in New York City. Paul Anka wrote it s
 The song has been covered many times by artists like Linda Ronstadt in 1974, and by New Zealand-born singer-songwriter Mark Williams in 1977, who had a number-one hit with it in New Zealand.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Please Be Gentle With Me
-2. Smile
-3. Glimpse Of The Light
-4. Lazy Lover
-5. Love Has Passed Away
-6. Dung Beetle
-7. Stammer
-8. I Don't Think So
-9. Pie In The Sky
-10. The Day Before Yesterday's Man
-11. Prepare To Land
-12. Trees
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Please Be Gentle With Me |  |
+| A2 | Smile |  |
+| A3 | Glimpse Of The Light |  |
+| A4 | Lazy Lover |  |
+| A5 | Love Has Passed Away |  |
+| A6 | Dung Beetle |  |
+| B1 | Stammer |  |
+| B2 | I Don't Think So |  |
+| B3 | Pie In The Sky |  |
+| B4 | The Day Before Yesterday's Man |  |
+| B5 | Prepare To Land |  |
+| B6 | Trees |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/it-doesnt-matter-anymore-expanded-edition/1607113467" >}}<br>
 
-
-## Videos
-### The Supernaturals - Please Be Gentle With Me
-{{< youtube id="96_KlrxCNjU" title="The Supernaturals - Please Be Gentle With Me" >}}<br>
 
 
 ## Release Images

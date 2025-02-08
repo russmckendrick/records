@@ -4,6 +4,7 @@ artist_name: "Sparklehorse"
 artist: "sparklehorse"
 album_name: "Bird Machine"
 date: 2023-09-29T06:43:49.000000Z
+release_date: "2023-09-08"
 release_id: "28320253"
 slug: "bird-machine-28320253"
 hideSummary: true
@@ -27,48 +28,34 @@ styles: ["Alternative Rock"]
 Bird Machine is the fifth studio album from American indie rock band Sparklehorse, released on September 8, 2023 by Anti-. The album was mostly recorded before the 2010 death of bandleader Mark Linkous, and has received positive reviews from critics.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. It Will Never Stop
-2. Kind Ghosts
-3. Evening Star Super Charger
-4. O Child
-5. Falling Down
-6. I Fucked It Up
-7. Hello Lord
-8. Daddy's Gone
-9. Chaos Of The Universe
-10. Listening To The Higsons
-11. Everybody's Gone To Sleep
-12. The Scull Of Lucia
-13. Blue
-14. Stay
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | It Will Never Stop |  |
+| A2 | Kind Ghosts |  |
+| A3 | Evening Star Super Charger |  |
+| A4 | O Child |  |
+| A5 | Falling Down |  |
+| A6 | I Fucked It Up |  |
+| A7 | Hello Lord |  |
+| B1 | Daddy's Gone |  |
+| B2 | Chaos Of The Universe |  |
+| B3 | Listening To The Higsons |  |
+| B4 | Everybody's Gone To Sleep |  |
+| B5 | The Scull Of Lucia |  |
+| B6 | Blue |  |
+| B7 | Stay |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bird-machine/1689023427" >}}<br>
 
 
-## Videos
-### Sparklehorse - It Will Never Stop
-{{< youtube id="K6ZPQDkft90" title="Sparklehorse - It Will Never Stop" >}}<br>
-### More Videos
-
-- [Sparklehorse - Kind Ghosts Full Album Stream](https://www.youtube.com/watch?v=oz4ee0eor78)
-- [Sparklehorse - Evening Star Supercharger](https://www.youtube.com/watch?v=Xr911hFV8Qc)
-- [Sparklehorse - O Child Full Album Stream](https://www.youtube.com/watch?v=Ss51EuAlgkQ)
-- [Sparklehorse - Falling Down Full Album Stream](https://www.youtube.com/watch?v=L1mKhNzIiO0)
-- [Sparklehorse - I Fucked It Up Full Album Stream](https://www.youtube.com/watch?v=g6dZkPJ6aD8)
-- [Sparklehorse - Hello Lord Full Album Stream](https://www.youtube.com/watch?v=MDiUGVGrl5s)
-- [Sparklehorse - Daddys Gone Full Album Stream](https://www.youtube.com/watch?v=ix0W_ofrTVY)
-- [Sparklehorse - Chaos of the Universe Full Album Stream](https://www.youtube.com/watch?v=DXe4W0UaYBQ)
-- [Sparklehorse - Listening to the Higsons](https://www.youtube.com/watch?v=EgL2QiZIyQI)
-- [Sparklehorse - Everybodys Gone to Sleep Full Album Stream](https://www.youtube.com/watch?v=P2O2reRx2Y8)
-- [Sparklehorse - The Scull of Lucia](https://www.youtube.com/watch?v=cxpyd1VH7rM)
-- [Sparklehorse - Blue Full Album Stream](https://www.youtube.com/watch?v=4leIBJBS4mk)
-- [Sparklehorse - Stay Full Album Stream](https://www.youtube.com/watch?v=P27mAT6a7cA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +67,5 @@ Bird Machine is the fifth studio album from American indie rock band Sparklehors
 | Format         | Vinyl LP Album Limited Edition (Yellow & Black Opaque ) |
 | Label          | Anti- |
 | Catalog Number | 87081-1YAB |
-| Notes | Yellow and Black Opaque Vinyl Rough Trade Exclusive Limited to 500 copies US release 9th September 2023, UK release 29th September 2023. |
+| Notes | Yellow and Black Opaque Vinyl<br>Rough Trade Exclusive<br>Limited to 500 copies<br>US release 9th September 2023, UK release 29th September 2023. |
 | Discogs URL    | [Sparklehorse - Bird Machine](https://www.discogs.com/release/28320253-Sparklehorse-Bird-Machine) |

@@ -4,6 +4,7 @@ artist_name: "Santana"
 artist: "santana"
 album_name: "Santana's Greatest Hits"
 date: 2018-02-08T18:31:29.000000Z
+release_date: "1974-07-01"
 release_id: "11498676"
 slug: "santana-s-greatest-hits-11498676"
 hideSummary: true
@@ -23,25 +24,28 @@ Santana's Greatest Hits is a 1974 compilation album by Santana. It offers highli
 Three of the tracks are the edited single versions, as annotated below.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Evil Ways (3:00)
-2. Jingo (2:44)
-3. Hope You're Feeling Better (4:10)
-4. Samba Pa Ti (4:47)
-5. Persuasion (2:34)
-6. Black Magic Woman (3:17)
-7. Oye Como Va (4:19)
-8. Everything's Coming Our Way (3:16)
-9. Se A Cabo (2:51)
-10. Everybody's Everything (3:31)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Evil Ways | 3:00 |
+| A2 | Jingo | 2:44 |
+| A3 | Hope You're Feeling Better | 4:10 |
+| A4 | Samba Pa Ti | 4:47 |
+| A5 | Persuasion | 2:34 |
+| B1 | Black Magic Woman | 3:17 |
+| B2 | Oye Como Va | 4:19 |
+| B3 | Everything's Coming Our Way | 3:16 |
+| B4 | Se A Cabo | 2:51 |
+| B5 | Everybody's Everything | 3:31 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/santanas-greatest-hits/897791041" >}}<br>
-
 
 
 

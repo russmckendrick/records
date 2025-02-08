@@ -4,6 +4,7 @@ artist_name: "Kandace Springs"
 artist: "kandace-springs"
 album_name: "Indigo"
 date: 2018-09-28T11:59:37.000000Z
+release_date: "2018-09-07"
 release_id: "12500626"
 slug: "indigo-12500626"
 hideSummary: true
@@ -19,50 +20,32 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Don't Need The Real Thing (3:26)
-2. Breakdown   (3:19)
-3. Fix Me (4:33)
-4. Indigo (Pt. 1) (0:34)
-5. Piece Of Me (5:09)
-6. 6 8 (5:33)
-7. Indigo (Pt. 2) (0:34)
-8. People Make The World Go 'Round (5:04)
-9. Unsophisticated  (3:27)
-10. Black Orchid (3:29)
-11. Love Sucks (3:55)
-12. The First Time Ever I Saw Your Face (5:40)
-13. Simple Things  (3:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Don't Need The Real Thing | 3:26 |
+| A2 | Breakdown   | 3:19 |
+| A3 | Fix Me | 4:33 |
+| A4 | Indigo (Pt. 1) | 0:34 |
+| A5 | Piece Of Me | 5:09 |
+| A6 | 6 8 | 5:33 |
+| A7 | Indigo (Pt. 2) | 0:34 |
+| B1 | People Make The World Go 'Round | 5:04 |
+| B2 | Unsophisticated  | 3:27 |
+| B3 | Black Orchid | 3:29 |
+| B4 | Love Sucks | 3:55 |
+| B5 | The First Time Ever I Saw Your Face | 5:40 |
+| B6 | Simple Things  | 3:42 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/indigo/1414681591" >}}<br>
 
 
-## Videos
-### Kandace Springs - Dont Need The Real Thing Acoustic Audio
-{{< youtube id="EaQwTZmJywg" title="Kandace Springs - Dont Need The Real Thing Acoustic Audio" >}}<br>
-### More Videos
-
-- [Kandace Springs - Fix Me](https://www.youtube.com/watch?v=oXmtRxZKVFo)
-- [Kandace Springs - Piece Of Me](https://www.youtube.com/watch?v=vfSHvk0wGko)
-- [Kandace Springs - Unsophisticated ft Roy Hargrove](https://www.youtube.com/watch?v=yuMkMu8keXE)
-- [Kandace Springs - Love Sucks](https://www.youtube.com/watch?v=Q05BJUp463I)
-- [Kandace Springs - The First Time Ever I Saw Your Face](https://www.youtube.com/watch?v=MH-vKaz8Bh0)
-- [Kandace Springs - Simple Things ft Scat Springs](https://www.youtube.com/watch?v=xWfhCs8wiUo)
-- [Dont Need The Real Thing](https://www.youtube.com/watch?v=iJe4aCuOQKI)
-- [Breakdown](https://www.youtube.com/watch?v=Ts27-PpIp-4)
-- [Fix Me](https://www.youtube.com/watch?v=y4RUQa_oxRs)
-- [Indigo Pt 1](https://www.youtube.com/watch?v=XN_X7XGIArw)
-- [Piece Of Me](https://www.youtube.com/watch?v=BpIpvLQpMhk)
-- [6 8](https://www.youtube.com/watch?v=UaI38Zy-K1g)
-- [Indigo Pt 2](https://www.youtube.com/watch?v=Zm72L36G--w)
-- [People Make The World Go Round](https://www.youtube.com/watch?v=vgsqJCIKtvc)
-- [Unsophisticated](https://www.youtube.com/watch?v=zC0y-00d00w)
-- [Black Orchid](https://www.youtube.com/watch?v=d1zHnWNKTBE)
-- [Love Sucks](https://www.youtube.com/watch?v=f9fLJt5sqrY)
-- [The First Time Ever I Saw Your Face](https://www.youtube.com/watch?v=XwwSU8O5X5M)
-- [Simple Things](https://www.youtube.com/watch?v=pL5jn3LRl6w)
 
 ## Release Images
 {{< imageGrid >}}

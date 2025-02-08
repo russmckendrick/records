@@ -4,6 +4,7 @@ artist_name: "Grandaddy"
 artist: "grandaddy"
 album_name: "Under The Western Freeway 20th Anniversary Edition"
 date: 2017-10-27T17:01:46.000000Z
+release_date: ""
 release_id: "11028998"
 slug: "under-the-western-freeway-20th-anniversary-edition-11028998"
 hideSummary: true
@@ -37,41 +38,40 @@ styles: ["Lo-Fi", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Under The Western Freeway
-2. Nonphenomenal Lineage  (3:11)
-3. A.M. 180 (3:20)
-4. Collective Dreamwish Of Upperclass Elegance (5:26)
-5. Summer Here Kids (3:35)
-6. Laughing Stock (5:59)
-7. Under The Western Freeway (3:01)
-8. Everything Beautiful Is Far Away (5:13)
-9. Poisoned At Hartsy Thai Food (1:13)
-10. Go Progress Chrome (2:31)
-11. Why Took Your Advice (4:07)
-12. Lawn & So On (9:04)
-13. Unreleased 1997 Demos
-14. Hawaiian Island Wranglers (3:47)
-15. For The Dishwashers (Slow Demo) (3:16)
-16. Dying Brains (Early Demo) (7:07)
-17. Summer Here Kids (Early Demo) (4:44)
-18. Le Symphonique D'HeeHaw (4:37)
-19. Street Bunny (Fluffy Distortion Demo) (2:52)
-20. Bjork ELO Xanadu & The Birth Of Chartsengrafs (8:16)
-21. Laughing Stock (Revelation Demo) (6:03)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Under The Western Freeway |  |
+| A1 | Nonphenomenal Lineage  | 3:11 |
+| A2 | A.M. 180 | 3:20 |
+| A3 | Collective Dreamwish Of Upperclass Elegance | 5:26 |
+| A4 | Summer Here Kids | 3:35 |
+| A5 | Laughing Stock | 5:59 |
+| A6 | Under The Western Freeway | 3:01 |
+| B7 | Everything Beautiful Is Far Away | 5:13 |
+| B8 | Poisoned At Hartsy Thai Food | 1:13 |
+| B9 | Go Progress Chrome | 2:31 |
+| B10 | Why Took Your Advice | 4:07 |
+| B11 | Lawn & So On | 9:04 |
+|  | Unreleased 1997 Demos |  |
+| C1 | Hawaiian Island Wranglers | 3:47 |
+| C2 | For The Dishwashers (Slow Demo) | 3:16 |
+| C3 | Dying Brains (Early Demo) | 7:07 |
+| C4 | Summer Here Kids (Early Demo) | 4:44 |
+| D5 | Le Symphonique D'HeeHaw | 4:37 |
+| D6 | Street Bunny (Fluffy Distortion Demo) | 2:52 |
+| D7 | Bjork ELO Xanadu & The Birth Of Chartsengrafs | 8:16 |
+| D8 | Laughing Stock (Revelation Demo) | 6:03 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Grandaddy - AM 180
-{{< youtube id="ptPXxAds1Jc" title="Grandaddy - AM 180" >}}<br>
-### More Videos
 
-- [Go Progress Chrome](https://www.youtube.com/watch?v=evCTzTUw-hM)
-- [Best Of 90s - 1Album1Song - Grandaddy Under The Western FreewayAM180](https://www.youtube.com/watch?v=rUKM-1x0mVg)
-- [Grandaddy - Why took your advice  Lawn and so on](https://www.youtube.com/watch?v=8nAokLLLvr0)
-- [Grandaddy Under the Western Freeway 20th Anniversary Bonus Tracks baby](https://www.youtube.com/watch?v=Slr4XFeuX-o)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +82,5 @@ styles: ["Lo-Fi", "Indie Rock"]
 | Format         | Vinyl LP Album Reissue (Yellow), Vinyl LP (Blue) |
 | Label          | Friendship Fever |
 | Catalog Number | FVRLP012 |
-| Notes | Double Colour Vinyl: Reissue of their debut album and a bonus LP of unreleased demos from 1997. Housed in a gatefold sleeve. Photos and lyrics printed inside gatefold. Includes 8 page booklet. Disc 2 mastered at Wave Parade Studio.  The first 250 orders got a special bundle [r=11060713].  Tracklisting ascends numerically regardless of disc side.  Pressing credit identified in runout stampings. |
+| Notes | Double Colour Vinyl: Reissue of their debut album and a bonus LP of unreleased demos from 1997. Housed in a gatefold sleeve. Photos and lyrics printed inside gatefold. Includes 8 page booklet.<br>Disc 2 mastered at Wave Parade Studio.<br><br>The first 250 orders got a special bundle [r=11060713].<br><br>Tracklisting ascends numerically regardless of disc side.<br><br>Pressing credit identified in runout stampings. |
 | Discogs URL    | [Grandaddy - Under The Western Freeway 20th Anniversary Edition](https://www.discogs.com/release/11028998-Grandaddy-Under-The-Western-Freeway-20th-Anniversary-Edition) |

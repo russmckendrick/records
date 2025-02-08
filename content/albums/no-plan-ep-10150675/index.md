@@ -4,6 +4,7 @@ artist_name: "David Bowie"
 artist: "david-bowie"
 album_name: "No Plan EP"
 date: 2017-04-22T10:01:51.000000Z
+release_date: "2017-01-08"
 release_id: "10150675"
 slug: "no-plan-ep-10150675"
 hideSummary: true
@@ -23,25 +24,23 @@ styles: ["Art Rock", "Jazz-Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Lazarus (6:24)
-2. No Plan (3:40)
-3. Killing A Little Time (3:46)
-4. When I Met You (4:08)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Lazarus | 6:24 |
+| A2 | No Plan | 3:40 |
+| A3 | Killing A Little Time | 3:46 |
+| A4 | When I Met You | 4:08 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-plan-e-p/1729251922" >}}<br>
 
 
-## Videos
-### David Bowie - No Plan Video
-{{< youtube id="xIgdid8dsC8" title="David Bowie - No Plan Video" >}}<br>
-### More Videos
-
-- [David Bowie - No Plan EP](https://www.youtube.com/watch?v=mm0eAbWAiwE)
-- [David Bowie - No Plan Video](https://www.youtube.com/watch?v=xIgdid8dsC8)
-- [David Bowie - No Plan EP](https://www.youtube.com/watch?v=mm0eAbWAiwE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -52,5 +51,5 @@ styles: ["Art Rock", "Jazz-Rock"]
 | Format         | Vinyl 12" 33 ⅓ RPM Single Sided EP Etched Stereo (180 Gram) |
 | Label          | ISO Records |
 | Catalog Number | 88985419651 |
-| Notes | David Bowie's full name and cat# on spine On sleeve: Made in the EU. / LC00162 / 88985419651 On label: Made in the EU. / BIEM/GEMA / LC00162  The Bowie tracks previously only available on the Lazarus cast recording soundtrack are now available as an EP with digital download.  1st Vinyl release of earlier EP on CD [r9876483].  Note: Comes with a download code for a digital copy. From vinyl to digital  (offer valid to 31.12.2018). See: [r9627868].  Some copies of this vinyl were released with the incorrect sticker on the front that states "[url=https://www.discogs.com/David-Bowie-No-Plan-EP/release/10173317]Limited Edition Clear Vinyl[/url]" and the cat # 88985419621. |
+| Notes | David Bowie's full name and cat# on spine<br>On sleeve: Made in the EU. / LC00162 / 88985419651<br>On label: Made in the EU. / BIEM/GEMA / LC00162<br><br>The Bowie tracks previously only available on the Lazarus cast recording soundtrack are now available as an EP with digital download.<br><br>1st Vinyl release of earlier EP on CD [r9876483].<br><br>Note: Comes with a download code for a digital copy. From vinyl to digital  (offer valid to 31.12.2018). See: [r9627868].<br><br>Some copies of this vinyl were released with the incorrect sticker on the front that states "[url=https://www.discogs.com/David-Bowie-No-Plan-EP/release/10173317]Limited Edition Clear Vinyl[/url]" and the cat # 88985419621. |
 | Discogs URL    | [David Bowie - No Plan EP](https://www.discogs.com/release/10150675-David-Bowie-No-Plan-EP) |

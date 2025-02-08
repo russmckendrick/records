@@ -1,9 +1,10 @@
 ---
 title: "Cream - Best Of Cream"
 artist_name: "Cream"
-artist: "cream-2"
+artist: "cream"
 album_name: "Best Of Cream"
 date: 2020-08-02T13:37:10.000000Z
+release_date: "1995-05-09"
 release_id: "7244667"
 slug: "best-of-cream-7244667"
 hideSummary: true
@@ -25,35 +26,30 @@ Best of Cream was noteworthy upon its release as the first American album to con
 The album peaked at No. 3 on the U.S. Billboard 200 album chart in July 1969. The album reached No. 6 on the UK album charts. The album was certified Gold by the RIAA.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Sunshine Of Your Love (4:08)
-2. Badge (2:45)
-3. Crossroads (4:13)
-4. White Room (3:04)
-5. Swlabr (2:31)
-6. Born Under A Bad Sign (3:08)
-7. Spoonful (6:31)
-8. Tales Of Brave Ulysses (2:50)
-9. Strange Brew (2:45)
-10. I Feel Free (2:48)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sunshine Of Your Love | 4:08 |
+| A2 | Badge | 2:45 |
+| A3 | Crossroads | 4:13 |
+| A4 | White Room | 3:04 |
+| A5 | Swlabr | 2:31 |
+| B1 | Born Under A Bad Sign | 3:08 |
+| B2 | Spoonful | 6:31 |
+| B3 | Tales Of Brave Ulysses | 2:50 |
+| B4 | Strange Brew | 2:45 |
+| B5 | I Feel Free | 2:48 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-cream/1440920886" >}}<br>
 
 
-## Videos
-### Cream - White Room
-{{< youtube id="ond4Wp9nPhM" title="Cream - White Room" >}}<br>
-### More Videos
-
-- [Sunshine Of Your Love](https://www.youtube.com/watch?v=y_u1eu6Lpds)
-- [Badge](https://www.youtube.com/watch?v=5TH32ercNP0)
-- [Cream Crossroads](https://www.youtube.com/watch?v=PE9HvSdcaL4)
-- [Cream - Sunshine Of Your Love HD](https://www.youtube.com/watch?v=zt51rITH3EA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +61,5 @@ The album peaked at No. 3 on the U.S. Billboard 200 album chart in July 1969. 
 | Format         | Vinyl LP Compilation Stereo (Laminated) |
 | Label          | Polydor |
 | Catalog Number | 583 060 |
-| Notes | Laminated sleeve with plain inner sleeve  "Crossroads" was recorded live at the Fillmore Auditorium in San Francisco.  "I Feel Free" is a Robert Stigwood Organization (London) Production.  All other selections were produced by Felix Pappalardi. By arrangement with Robert Stigwood.  Publishers: A1, A4, A5, B3 to B5 by Dratleaf A2 by Dratleaf/Apple  A3 by Immediate B1 by Tee Pee B2 by Jewel  Manufactured by Polydor Records Ltd., London  Made in England  ℗ 1966 - B5 ℗ 1967 - A1, A5, B3, B4 ℗ 1968 - A3, A4, B1, B2 ℗ 1969 - A2 |
+| Notes | Laminated sleeve with plain inner sleeve<br><br>"Crossroads" was recorded live at the Fillmore Auditorium in San Francisco.<br><br>"I Feel Free" is a Robert Stigwood Organization (London) Production.<br><br>All other selections were produced by Felix Pappalardi.<br>By arrangement with Robert Stigwood.<br><br>Publishers:<br>A1, A4, A5, B3 to B5 by Dratleaf<br>A2 by Dratleaf/Apple <br>A3 by Immediate<br>B1 by Tee Pee<br>B2 by Jewel<br><br>Manufactured by Polydor Records Ltd., London<br><br>Made in England<br><br>℗ 1966 - B5<br>℗ 1967 - A1, A5, B3, B4<br>℗ 1968 - A3, A4, B1, B2<br>℗ 1969 - A2 |
 | Discogs URL    | [Cream - Best Of Cream](https://www.discogs.com/release/7244667-Cream-2-Best-Of-Cream) |

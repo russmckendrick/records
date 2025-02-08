@@ -32,39 +32,26 @@ Future Islands’ 2014 effort <i>Singles</i> was a breakthrough for the synth-po
 
 
 ## Tracklisting
-1. Aladdin (4:13)
-2. Time On Her Side (3:39)
-3. Ran (3:26)
-4. Beauty on the Road (4:09)
-5. Cave (3:52)
-6. Through The Roses (3:15)
-7. North Star (3:35)
-8. Ancient Waters (3:56)
-9. Candles (3:57)
-10. Day Glow Fire (3:49)
-11. Shadows (4:05)
-12. Black Rose (3:25)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Aladdin | 4:13 |
+| A2 | Time On Her Side | 3:39 |
+| A3 | Ran | 3:26 |
+| A4 | Beauty on the Road | 4:09 |
+| A5 | Cave | 3:52 |
+| A6 | Through The Roses | 3:15 |
+| B1 | North Star | 3:35 |
+| B2 | Ancient Waters | 3:56 |
+| B3 | Candles | 3:57 |
+| B4 | Day Glow Fire | 3:49 |
+| B5 | Shadows | 4:05 |
+| B6 | Black Rose | 3:25 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-far-field/1195221378" >}}<br>
 
 
-## Videos
-### Future Islands - Cave Official Lyric Video
-{{< youtube id="RGrhubD8VDg" title="Future Islands - Cave Official Lyric Video" >}}<br>
-### More Videos
-
-- [Future Islands - Ran Official Video](https://www.youtube.com/watch?v=MlQunle406U)
-- [Aladdin](https://www.youtube.com/watch?v=5PFZnKYnL1s)
-- [Shadows](https://www.youtube.com/watch?v=XpDbwHbQ_Ak)
-- [Time On Her Side](https://www.youtube.com/watch?v=r1oGu0w5ySI)
-- [North Star](https://www.youtube.com/watch?v=5oOk8j0SfoA)
-- [Candles](https://www.youtube.com/watch?v=Y5FSKPpOkLo)
-- [Day Glow Fire](https://www.youtube.com/watch?v=yfIC5hKRFAw)
-- [Black Rose](https://www.youtube.com/watch?v=J6ivIJt3Vtg)
-- [Ancient Water](https://www.youtube.com/watch?v=sUw-sF4kOI8)
-- [Through the Roses](https://www.youtube.com/watch?v=gZ0TF3IzNm0)
-- [Future Islands - Beauty Of The Road Official Video](https://www.youtube.com/watch?v=vsYHJ1ijoik)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +63,5 @@ Future Islands’ 2014 effort <i>Singles</i> was a breakthrough for the synth-po
 | Format         | Vinyl LP Album Limited Edition (White, 180 Gram) |
 | Label          | 4AD |
 | Catalog Number | 4AD0001LPX |
-| Notes | Inner sleeve with images. Incl. mp3 download code. Incl. cardboard inlay with lyrics and info.  The album title was inspired by the Theodore Roethke book of the same name. |
+| Notes | Inner sleeve with images.<br>Incl. mp3 download code.<br>Incl. cardboard inlay with lyrics and info.<br><br>The album title was inspired by the Theodore Roethke book of the same name. |
 | Discogs URL    | [Future Islands - The Far Field ](https://www.discogs.com/release/10101734-Future-Islands-The-Far-Field-) |

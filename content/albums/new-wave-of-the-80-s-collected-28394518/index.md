@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "New Wave Of The 80's Collected"
 date: 2023-09-26T22:32:10.000000Z
+release_date: ""
 release_id: "28394518"
 slug: "new-wave-of-the-80-s-collected-28394518"
 hideSummary: true
@@ -23,61 +24,45 @@ styles: ["New Wave"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. 11 O'Clock Tick Tock
-2. Senses Working Overtime
-3. Duel
-4. Pale Shelter
-5. Wishful Thinking
-6. Planet Earth
-7. Caterpillar
-8. Dum Dum Girl
-9. All Of My Heart
-10. Since Yesterday
-11. Under The Milky Way
-12. Enola Gay
-13. Someone Somewhere (In Summertime)
-14. Seven Seas
-15. The Walls Came Down
-16. Spellbound
-17. Stay With Me
-18. To Cut A Long Story Short
-19. Rescue Me
-20. Mirror Man
-21. Rattlesnakes
-22. The Man Mountain
-23. Kiss Me
-24. Assassing
-25. Doctor! Doctor!
-26. Love My Way
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 11 O'Clock Tick Tock |  |
+| A2 | Senses Working Overtime |  |
+| A3 | Duel |  |
+| A4 | Pale Shelter |  |
+| A5 | Wishful Thinking |  |
+| A6 | Planet Earth |  |
+| B1 | Caterpillar |  |
+| B2 | Dum Dum Girl |  |
+| B3 | All Of My Heart |  |
+| B4 | Since Yesterday |  |
+| B5 | Under The Milky Way |  |
+| B6 | Enola Gay |  |
+| C1 | Someone Somewhere (In Summertime) |  |
+| C2 | Seven Seas |  |
+| C3 | The Walls Came Down |  |
+| C4 | Spellbound |  |
+| C5 | Stay With Me |  |
+| C6 | To Cut A Long Story Short |  |
+| C7 | Rescue Me |  |
+| D1 | Mirror Man |  |
+| D2 | Rattlesnakes |  |
+| D3 | The Man Mountain |  |
+| D4 | Kiss Me |  |
+| D5 | Assassing |  |
+| D6 | Doctor! Doctor! |  |
+| D7 | Love My Way |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Tears For Fears - Pale Shelter
-{{< youtube id="BUfcT5OoP-8" title="Tears For Fears - Pale Shelter" >}}<br>
-### More Videos
 
-- [U2 - 11 OClock Tick Tock Live On The Old Grey Whistle Test  1981](https://www.youtube.com/watch?v=Gtrfc7cDdgQ)
-- [XTC - Senses Working Overtime Official Video](https://www.youtube.com/watch?v=NrcemZpOmpI)
-- [Propaganda - Duel](https://www.youtube.com/watch?v=nnQ2zOmb6Hg)
-- [China Crisis - Wishful Thinking 1983](https://www.youtube.com/watch?v=ldQpRMegYc0)
-- [Duran Duran - Planet Earth Official Music Video](https://www.youtube.com/watch?v=8NF6Qa84mno)
-- [Dum Dum Girl Take 1 - Talk Talk HDHQ](https://www.youtube.com/watch?v=2QV7PXg1hLs)
-- [ABC - All Of My Heart](https://www.youtube.com/watch?v=Lfph3043yZU)
-- [Strawberry Switchblade -- Since Yesterday](https://www.youtube.com/watch?v=x7QPBzAJ_io)
-- [Orchestral Manoeuvres In The Dark - Enola Gay Official Music Video](https://www.youtube.com/watch?v=d5XJ2GiR6Bo)
-- [Simple Minds   Someone Somewhere in Summertime   1982](https://www.youtube.com/watch?v=RUedmyr2G0M)
-- [The Call - The Walls Came Down 1983](https://www.youtube.com/watch?v=vAxg8nuvPKM)
-- [Stay With Me](https://www.youtube.com/watch?v=at4xD2nlZJE)
-- [The Alarm - Rescue Me](https://www.youtube.com/watch?v=gR4HvXES0C0)
-- [The Human League - Mirror Man](https://www.youtube.com/watch?v=MMu1T_Tg5Fw)
-- [Lloyd Cole And The Commotions - Rattlesnakes](https://www.youtube.com/watch?v=gSc46sEZdl4)
-- [Bow Wow Wow - The man mountain](https://www.youtube.com/watch?v=O3bjHyc8AOo)
-- [Stephen Tin Tin Duffy - Kiss Me](https://www.youtube.com/watch?v=ZwQlwdSphGo)
-- [Marillion - Assassing Official Video](https://www.youtube.com/watch?v=iIOjah-bnDc)
-- [Thompson Twins - Doctor Doctor Video](https://www.youtube.com/watch?v=Pf0_Be5PPPU)
 
 ## Release Images
 {{< imageGrid >}}

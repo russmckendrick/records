@@ -4,6 +4,7 @@ artist_name: "The Band"
 artist: "the-band"
 album_name: "The Band"
 date: 2017-10-06T17:18:16.000000Z
+release_date: "2018-06-15"
 release_id: "7797025"
 slug: "the-band-7797025"
 hideSummary: true
@@ -24,35 +25,32 @@ styles: []
 ---
 
 The Band, also known as The Brown Album, is the second studio album by the Canadian-American rock band the Band, released on September 22, 1969, by Capitol Records. According to Rob Bowman's liner notes for the 2000 reissue, The Band has been viewed as a concept album, with the songs focusing on people, places and traditions associated with an older version of Americana. Thus, the songs on this album draw on historic themes for "The Night They Drove Old Dixie Down", "King Harvest (Has Surely Come)" and "Jawbone" (which was composed in the unusual 6/4 time signature).
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Across The Great Divide (2:52)
-2. Rag Mama Rag (3:02)
-3. The Night They Drove Old Dixie Down (3:30)
-4. When You Awake (3:10)
-5. Up On Cripple Creek (4:29)
-6. Whispering Pines (3:55)
-7. Jemima Surrender (3:30)
-8. Rockin' Chair (3:40)
-9. Look Out Cleveland (3:07)
-10. Jawbone (4:17)
-11. The Unfaithful Servant (4:15)
-12. King Harvest (Has Surely Come) (3:35)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Across The Great Divide | 2:52 |
+| A2 | Rag Mama Rag | 3:02 |
+| A3 | The Night They Drove Old Dixie Down | 3:30 |
+| A4 | When You Awake | 3:10 |
+| A5  | Up On Cripple Creek | 4:29 |
+| A6 | Whispering Pines | 3:55 |
+| B1 | Jemima Surrender | 3:30 |
+| B2 | Rockin' Chair | 3:40 |
+| B3 | Look Out Cleveland | 3:07 |
+| B4 | Jawbone | 4:17 |
+| B5 | The Unfaithful Servant | 4:15 |
+| B6 | King Harvest (Has Surely Come) | 3:35 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-band/1616942135" >}}<br>
 
 
-## Videos
-### The Night They Drove Old Dixie Down Remastered 2000
-{{< youtube id="QC-eDtV5O0Q" title="The Night They Drove Old Dixie Down Remastered 2000" >}}<br>
-### More Videos
-
-- [Up On Cripple Creek 2019 Remix](https://www.youtube.com/watch?v=M3ZZZw1Du1g)
-- [The Band 1969 FULL ALBUM](https://www.youtube.com/watch?v=2D9umNUZOlg)
 
 ## Release Images
 {{< imageGrid >}}

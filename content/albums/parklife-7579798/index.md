@@ -35,43 +35,30 @@ The character sketches that decorated 1993’s <i>Modern Life Is Rubbish</i> are
 
 
 ## Tracklisting
-1. Girls & Boys
-2. Tracy Jacks
-3. End Of A Century
-4. Parklife
-5. Bank Holiday
-6. Badhead
-7. The Debt Collector
-8. Far Out
-9. To The End
-10. London Loves
-11. Trouble In The Message Centre
-12. Clover Over Dover
-13. Magic America
-14. Jubilee
-15. This Is A Low
-16. Lot 105
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Girls & Boys |  |
+| A2 | Tracy Jacks |  |
+| A3 | End Of A Century |  |
+| B1 | Parklife |  |
+| B2 | Bank Holiday |  |
+| B3 | Badhead |  |
+| B4 | The Debt Collector |  |
+| B5 | Far Out |  |
+| C1 | To The End |  |
+| C2 | London Loves |  |
+| C3 | Trouble In The Message Centre |  |
+| C4 | Clover Over Dover |  |
+| D1 | Magic America |  |
+| D2 | Jubilee |  |
+| D3 | This Is A Low |  |
+| D4 | Lot 105 |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/parklife/699665183" >}}<br>
 
 
-## Videos
-### Blur - Girls And Boys Official Music Video
-{{< youtube id="WDswiT87oo8" title="Blur - Girls And Boys Official Music Video" >}}<br>
-### More Videos
-
-- [Blur - End Of A Century Official Music Video](https://www.youtube.com/watch?v=rVNCpCy8gLc)
-- [Blur - Parklife Official 4K Music Video](https://www.youtube.com/watch?v=YSuHrTfcikU)
-- [Blur - Girls And Boys Official Music Video](https://www.youtube.com/watch?v=WDswiT87oo8)
-- [Blur - To The End Official Music Video](https://www.youtube.com/watch?v=0DjHKqb365A)
-- [Blur - This is a Low Official Audio](https://www.youtube.com/watch?v=iZIYAUPo80U)
-- [Blur - Badhead Official Audio](https://www.youtube.com/watch?v=YzSnJ8uePyU)
-- [Blur - Tracy Jacks Official Audio](https://www.youtube.com/watch?v=N2rF4HcW5yk)
-- [Blur - London Loves Official Audio](https://www.youtube.com/watch?v=7GbhjFplF3w)
-- [Blur - Trouble in the Message Centre Official Audio](https://www.youtube.com/watch?v=O5Nhul_AV0M)
-- [End of a Century 2012 Remaster](https://www.youtube.com/watch?v=QFaKlPyhclc)
-- [Blur Recording Parklife in the Studio 19931994](https://www.youtube.com/watch?v=1tBZP_MqVjM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +70,5 @@ The character sketches that decorated 1993’s <i>Modern Life Is Rubbish</i> are
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Repress (Yellow Translucent) |
 | Label          | Food |
 | Catalog Number | FOODLPX10 |
-| Notes | Gatefold sleeve. Limited to 3000 copies on 180 gram yellow vinyl.  Same release, on black vinyl is here, [r8640693]. |
+| Notes | Gatefold sleeve.<br>Limited to 3000 copies on 180 gram yellow vinyl.<br><br>Same release, on black vinyl is here, [r8640693]. |
 | Discogs URL    | [Blur - Parklife](https://www.discogs.com/release/7579798-Blur-Parklife) |

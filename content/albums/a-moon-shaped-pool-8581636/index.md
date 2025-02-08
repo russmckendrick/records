@@ -45,28 +45,25 @@ The sessions for <i>A Moon Shaped Pool</i> were so fraught, the members hesitate
 
 
 ## Tracklisting
-1. Burn The Witch (3:40)
-2. Daydreaming (6:24)
-3. Decks Dark (4:41)
-4. Desert Island Disk (3:44)
-5. Ful Stop (6:07)
-6. Glass Eyes (2:52)
-7. Identikit (4:26)
-8. The Numbers (5:45)
-9. Present Tense (5:06)
-10. Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief (5:03)
-11. True Love Waits (4:43)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Burn The Witch | 3:40 |
+| A2 | Daydreaming | 6:24 |
+| B1 | Decks Dark | 4:41 |
+| B2 | Desert Island Disk | 3:44 |
+| B3 | Ful Stop | 6:07 |
+| C1 | Glass Eyes | 2:52 |
+| C2 | Identikit | 4:26 |
+| C3 | The Numbers | 5:45 |
+| D1 | Present Tense | 5:06 |
+| D2 | Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief | 5:03 |
+| D3 | True Love Waits | 4:43 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-moon-shaped-pool/1111577743" >}}<br>
 
 
-## Videos
-### True Love Waits
-{{< youtube id="WSnc_6Z7HqQ" title="True Love Waits" >}}<br>
-### More Videos
-
-- [Decks Dark](https://www.youtube.com/watch?v=Del3C2W63Pk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +75,5 @@ The sessions for <i>A Moon Shaped Pool</i> were so fraught, the members hesitate
 | Format         | Vinyl 2× LP Album (Optimal Pressing, 180 Gram) |
 | Label          | XL Recordings |
 | Catalog Number | XLLP790 |
-| Notes | Gatefold sleeve. Cover sleeve inside print: Interior of jacket is entirely designed and printed with artwork.  ℗ 2016 LLLP, LLP under exclusive license to XL Recordings Ltd. © 2016 LLLP, LLP under exclusive license to XL Recordings Ltd.  In memory of Vic Godrich 1936-2015  Comes with a voucher for a digital download of the album.  All Runouts are etched. |
+| Notes | Gatefold sleeve.<br>Cover sleeve inside print: Interior of jacket is entirely designed and printed with artwork.<br><br>℗ 2016 LLLP, LLP under exclusive license to XL Recordings Ltd. © 2016 LLLP, LLP under exclusive license to XL Recordings Ltd.<br><br>In memory of Vic Godrich 1936-2015<br><br>Comes with a voucher for a digital download of the album.<br><br>All Runouts are etched. |
 | Discogs URL    | [Radiohead - A Moon Shaped Pool](https://www.discogs.com/release/8581636-Radiohead-A-Moon-Shaped-Pool) |

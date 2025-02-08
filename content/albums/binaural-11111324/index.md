@@ -4,6 +4,7 @@ artist_name: "Pearl Jam"
 artist: "pearl-jam"
 album_name: "Binaural"
 date: 2018-01-20T19:09:48.000000Z
+release_date: "2000-05-16"
 release_id: "11111324"
 slug: "binaural-11111324"
 hideSummary: true
@@ -38,37 +39,34 @@ Binaural is the sixth studio album by American rock band Pearl Jam, released May
 The music on the album featured an experimental sound, evident on songs that used binaural recording techniques. The atmospheric tracks, mostly featuring somber lyrics dealing with social criticism, led the band to convey these themes with images of nebulas in the album artwork. Binaural received positive reviews, and debuted at number two on the Billboard 200. Although the album was certified gold by the RIAA, it became the first Pearl Jam studio album to fail to reach Platinum status in the United States. The album's 2000 tour spawned a large collection of official bootleg releases.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Breakerfall (2:19)
-2. Gods' Dice (2:26)
-3. Evacuation (2:56)
-4. Light Years (5:06)
-5. Nothing As It Seems (5:22)
-6. Thin Air (3:32)
-7. Insignificance (4:28)
-8. Of The Girl (5:07)
-9. Grievance (3:14)
-10. Rival (3:38)
-11. Sleight Of Hand (4:47)
-12. Soon Forget (1:46)
-13. Parting Ways (7:17)
-14. Writers Block
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Breakerfall | 2:19 |
+| A2 | Gods' Dice | 2:26 |
+| A3 | Evacuation | 2:56 |
+| A4 | Light Years | 5:06 |
+| B1 | Nothing As It Seems | 5:22 |
+| B2 | Thin Air | 3:32 |
+| B3 | Insignificance | 4:28 |
+| C1 | Of The Girl | 5:07 |
+| C2 | Grievance | 3:14 |
+| C3 | Rival | 3:38 |
+| D1 | Sleight Of Hand | 4:47 |
+| D2 | Soon Forget | 1:46 |
+| D3.1 | Parting Ways | 7:17 |
+| D3.2 | Writers Block |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/binaural/688730679" >}}<br>
 
 
-## Videos
-### Thin Air
-{{< youtube id="jGw_sG6hzJ4" title="Thin Air" >}}<br>
-### More Videos
-
-- [Rival](https://www.youtube.com/watch?v=2nElp7QMrGU)
-- [Sleight of Hand](https://www.youtube.com/watch?v=Gb0lzdMGc6Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +78,5 @@ The music on the album featured an experimental sound, evident on songs that use
 | Format         | Vinyl 2× LP Album Reissue Remastered |
 | Label          | Epic |
 | Catalog Number | 88985409121 |
-| Notes | On back cover : © 2000, 2017 Epic Records, a division of Sony Music Entertainment / ℗ 2000 Epic Records, a division of Sony Music Entertainment / Distributed by Sony Music Entertainment / Sony Music Entertainment International Services GmbH, PO Box 510, 33310 Gütersloh, Germany. / All trademarks and logos are protected. / EPIC is a registered trademark of Sony Music Entertainment. / All Rights Reserved. /Made in the EU. / This package consists of previously released material. / LC00199  On sticker :  "Newly Remastered from the Original Sources by [a271098] 88985409121S1"  Released in a 3-panel gatefold jacket, with two special cardboard photo inner sleeves, and a replica of the original [r=1092382]'s booklet incl. song lyrics, credits & photos.  Unlike the [url=https://www.discogs.com/release/11112572]US version[/url], the EU version contains the Sony Music logo. |
+| Notes | On back cover :<br>© 2000, 2017 Epic Records, a division of Sony Music Entertainment / ℗ 2000 Epic Records, a division of Sony Music Entertainment / Distributed by Sony Music Entertainment / Sony Music Entertainment International Services GmbH, PO Box 510, 33310 Gütersloh, Germany. / All trademarks and logos are protected. / EPIC is a registered trademark of Sony Music Entertainment. / All Rights Reserved. /Made in the EU. / This package consists of previously released material. / LC00199<br><br>On sticker : <br>"Newly Remastered from the Original Sources by [a271098] 88985409121S1"<br><br>Released in a 3-panel gatefold jacket, with two special cardboard photo inner sleeves, and a replica of the original [r=1092382]'s booklet incl. song lyrics, credits & photos.<br><br>Unlike the [url=https://www.discogs.com/release/11112572]US version[/url], the EU version contains the Sony Music logo. |
 | Discogs URL    | [Pearl Jam - Binaural](https://www.discogs.com/release/11111324-Pearl-Jam-Binaural) |

@@ -34,28 +34,22 @@ Released in 1973, a time of national ennui, Steely Dan’s sophomore album riffs
 
 
 ## Tracklisting
-1. Bodhisattva (5:16)
-2. Razor Boy (3:10)
-3. The Boston Rag (5:48)
-4. Your Gold Teeth (6:58)
-5. Show Biz Kids (5:21)
-6. My Old School (5:44)
-7. Pearl Of The Quarter (3:49)
-8. King Of The World (5:03)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Bodhisattva | 5:16 |
+| A2 | Razor Boy | 3:10 |
+| A3 | The Boston Rag | 5:48 |
+| A4 | Your Gold Teeth | 6:58 |
+| B1 | Show Biz Kids | 5:21 |
+| B2 | My Old School | 5:44 |
+| B3 | Pearl Of The Quarter | 3:49 |
+| B4 | King Of The World | 5:03 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/countdown-to-ecstasy/1687587548" >}}<br>
 
 
-## Videos
-### The Boston Rag
-{{< youtube id="443AysqsYVI" title="The Boston Rag" >}}<br>
-### More Videos
-
-- [Show Biz Kids](https://www.youtube.com/watch?v=E7XXEO1aADM)
-- [Your Gold Teeth](https://www.youtube.com/watch?v=FVjWdsfM6Og)
-- [My Old School - Steely Dan  The Midnight Special](https://www.youtube.com/watch?v=GCX635Z7_PE)
-- [Pearl Of The Quarter](https://www.youtube.com/watch?v=BM9GNRqxxhU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +61,5 @@ Released in 1973, a time of national ennui, Steely Dan’s sophomore album riffs
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180g) |
 | Label          | Geffen Records |
 | Catalog Number | B0034988-01 |
-| Notes | Issued with a printed inner sleeve with lyrics and song notes. Runouts are machine engraved except hand etched 'B0034988-01-A', 'B0034988-01-B' and 'Kr SST'.  [Shrinkwrap sticker on rear:] Made in Czech Republic  [Rear jacket:] Rick Derringer recorded at Carabou Ranch, Nederland, Colorado (Courtesy of Columbia Records) [Geffen logo] [UMᵉ logo] A Universal Music Company A Geffen Records release; ℗ 1973 © 2022 UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404 – U.S.A. Distributed by Universal Music Enterprises, a division of UMG Recordings, Inc.  [Inner sleeve:] A Geffen Records release; ℗ 1973 UMG Recordings, Inc. |
+| Notes | Issued with a printed inner sleeve with lyrics and song notes.<br>Runouts are machine engraved except hand etched 'B0034988-01-A', 'B0034988-01-B' and 'Kr SST'.<br><br>[Shrinkwrap sticker on rear:]<br>Made in Czech Republic<br><br>[Rear jacket:]<br>Rick Derringer recorded at Carabou Ranch, Nederland, Colorado<br>(Courtesy of Columbia Records)<br>[Geffen logo] [UMᵉ logo]<br>A Universal Music Company<br>A Geffen Records release; ℗ 1973 © 2022 UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404 – U.S.A.<br>Distributed by Universal Music Enterprises, a division of UMG Recordings, Inc.<br><br>[Inner sleeve:]<br>A Geffen Records release; ℗ 1973 UMG Recordings, Inc. |
 | Discogs URL    | [Steely Dan - Countdown To Ecstasy](https://www.discogs.com/release/27181434-Steely-Dan-Countdown-To-Ecstasy) |

@@ -4,6 +4,7 @@ artist_name: "The Rolling Stones"
 artist: "the-rolling-stones"
 album_name: "The Rolling Stones In Mono"
 date: 2017-01-13T20:12:41.000000Z
+release_date: "2016-09-30"
 release_id: "9147559"
 slug: "the-rolling-stones-in-mono-9147559"
 hideSummary: true
@@ -56,216 +57,219 @@ styles: ["Pop Rock", "Rock & Roll", "Blues Rock", "Psychedelic Rock"]
 ---
 
 The Rolling Stones in Mono is a box set by the English rock band the Rolling Stones, released by ABKCO Records in September 2016. It contains most of the group's British and American studio albums from the 1960s in mono format, on fifteen compact discs or sixteen vinyl records. All tracks were remastered using the Direct Stream Digital process by Bob Ludwig. The original recordings were produced by Andrew Loog Oldham, Jimmy Miller and the Rolling Stones.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Rolling Stones
-2. Route 66
-3. I Just Want To Make Love To You
-4. Honest I Do
-5. I Need You Baby
-6. Now I've Got A Witness (Like Uncle Phil And Uncle Gene)
-7. Little By Little
-8. I'm A King Bee
-9. Carol
-10. Tell Me (You're Coming Back)
-11. Can I Get A Witness
-12. You Can Make It If You Try
-13. Walking The Dog
-14. 12 X 5
-15. Around And Around
-16. Confessin' The Blues
-17. Empty Heart
-18. Time Is On My Side
-19. Good Times, Bad Times
-20. It's All Over Now
-21. 2120 South Michigan Avenue
-22. Under The Boardwalk
-23. Congratulations
-24. Grown Up Wrong
-25. If You Need Me
-26. Susie Q
-27. The Rolling Stones No.2
-28. Everybody Needs Somebody To Love
-29. Down Home Girl
-30. You Can't Catch Me
-31. Time Is On My Side
-32. What A Shame
-33. Grown Up Wrong
-34. Down The Road Apiece
-35. Under The Boardwalk
-36. I Can't Be Satisfied
-37. Pain In My Heart
-38. Off The Hook
-39. Susie Q
-40. The Rolling Stones Now!
-41. Everybody Needs Somebody To Love
-42. Down Home Girl
-43. You Can't Catch Me
-44. Heart Of Stone
-45. What A Shame
-46. Mona (I Need You Baby)
-47. Down The Road Apiece
-48. Off The Hook
-49. Pain In My Heart
-50. Oh Baby (We Got A Good Thing Goin')
-51. Little Red Rooster
-52. Surprise, Surprise
-53. Out Of Our Heads (US Version)
-54. Mercy, Mercy
-55. Hitch Hike
-56. The Last Time
-57. That's How Strong My Love Is
-58. Good Times
-59. I'm All Right
-60. (I Can't Get No) Satisfaction
-61. Cry To Me
-62. The Under Assistant West Coast Promotion Man
-63. Play With Fire
-64. The Spider And The Fly
-65. One More Try
-66. Out Of Our Heads (UK Version)
-67. She Said "Yeah"
-68. Mercy, Mercy
-69. Hitch Hike
-70. That's How Strong My Love Is
-71. Good Times
-72. Gotta Get Away
-73. Talkin' 'Bout You
-74. Cry To Me
-75. Oh, Baby (We Got A Good Thing Going)
-76. Heart Of Stone
-77. The Under Assistant West Coast Promotion Man
-78.  I'm Free
-79. December's Children (And Everybody's)
-80. She Said "Yeah"
-81. Talkin' About You
-82. You Better Move On
-83. Look What You've Done
-84. The Singer, Not The Song
-85. Route 66
-86. Get Off Of My Cloud
-87. I'm Free
-88. As Tears Go By
-89. Gotta Get Away
-90. Blue Turns To Grey
-91. I'm Moving On
-92. Aftermath (UK Version)
-93. Mother's Little Helper
-94. Stupid Girl
-95. Lady Jane
-96. Under My Thumb
-97. Doncha Bother Me
-98. Goin' Home
-99. Flight 505
-100. High And Dry
-101. Out Of Time
-102. It's Not Easy
-103. I Am Waiting
-104. Take It Or Leave It
-105. Think
-106. What To Do
-107. Aftermath (US Version)
-108. Paint It Black
-109. Stupid Girl
-110. Lady Jane
-111. Under My Thumb
-112. Doncha Bother Me
-113. Think
-114. Flight 505
-115. High And Dry
-116. It's Not Easy
-117. I Am Waiting
-118. Goin' Home
-119. Between The Buttons (UK Version)
-120. Yesterday's Papers
-121. My Obsession
-122. Back Street Girl
-123. Connection
-124. She Smiled Sweetly
-125. Cool, Calm & Collected
-126. All Sold Out
-127. Please Go Home
-128. Who's Been Sleeping Here?
-129. Complicated
-130. Miss Amanda Jones
-131. Something Happened To Me Yesterday
-132. Flowers
-133. Ruby Tuesday
-134. Have You Seen Your Mother, Baby, Standing In The Shadow?
-135. Let's Spend The Night Together
-136. Lady Jane
-137. Out Of Time
-138. My Girl
-139. Backstreet Girl
-140. Please Go Home
-141. Mother's Little Helper
-142. Take It Or Leave It
-143. Ride On, Baby
-144. Sittin' On A Fence
-145. Their Satanic Majesties Request
-146. Sing This All Together
-147. Citadel
-148. In Another Land
-149. 2000 Man
-150. Sing This All Together (See What Happens)
-151. She's A Rainbow
-152. The Lantern
-153. Gomper
-154. 2000 Light Years From Home
-155. On With The Show
-156. Beggars Banquet
-157. Sympathy For The Devil
-158. No Expectations
-159. Dear Doctor
-160. Parachute Woman
-161. Jigsaw Puzzle
-162. Street Fighting Man
-163. Prodigal Son
-164. Stray Cat Blues
-165. Factory Girl
-166. Salt Of The Earth
-167. Let It Bleed
-168. Gimme Shelter
-169. Love In Vain
-170.  Country Honk
-171. Live With Me
-172. Let It Bleed
-173. Midnight Rambler
-174. You Got The Silver
-175. Monkey Man
-176. You Can't Always Get What You Want
-177. Stray Cats
-178. Come On
-179. I Want To Be Loved
-180. I Wanna Be Your Man
-181. Stoned
-182. Fortune Teller
-183. Poison Ivy (Version 1)
-184. Bye Bye Johnny
-185. Money
-186. Poison Ivy (Version 2)
-187. Not Fade Away
-188. I've Been Loving You Too Long
-189. The Under Assistant West Coast Promotion Man (Single Version)
-190. 19th Nervous Breakdown
-191. Sad Day
-192. As Tears Goes By (Italian Version)
-193. Long Long While
-194. Who's Driving Your Plane?
-195. We Love You (Single Version)
-196. Dandelion (Single Version)
-197. Child Of The Moon
-198. Jumpin' Jack Flash
-199. Street Fighting Man (Single Version)
-200. Honky Tonk Women
-201. You Can't Always Get What You Want (Single Version)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Rolling Stones |  |
+| A1 | Route 66 |  |
+| A2 | I Just Want To Make Love To You |  |
+| A3 | Honest I Do |  |
+| A4 | I Need You Baby |  |
+| A5 | Now I've Got A Witness (Like Uncle Phil And Uncle Gene) |  |
+| A6 | Little By Little |  |
+| B1 | I'm A King Bee |  |
+| B2 | Carol |  |
+| B3 | Tell Me (You're Coming Back) |  |
+| B4 | Can I Get A Witness |  |
+| B5 | You Can Make It If You Try |  |
+| B6 | Walking The Dog |  |
+|  | 12 X 5 |  |
+| C1 | Around And Around |  |
+| C2 | Confessin' The Blues |  |
+| C3 | Empty Heart |  |
+| C4 | Time Is On My Side |  |
+| C5 | Good Times, Bad Times |  |
+| C6 | It's All Over Now |  |
+| D1 | 2120 South Michigan Avenue |  |
+| D2 | Under The Boardwalk |  |
+| D3 | Congratulations |  |
+| D4 | Grown Up Wrong |  |
+| D5 | If You Need Me |  |
+| D6 | Susie Q |  |
+|  | The Rolling Stones No.2 |  |
+| E1 | Everybody Needs Somebody To Love |  |
+| E2 | Down Home Girl |  |
+| E3 | You Can't Catch Me |  |
+| E4 | Time Is On My Side |  |
+| E5 | What A Shame |  |
+| E6 | Grown Up Wrong |  |
+| F1 | Down The Road Apiece |  |
+| F2 | Under The Boardwalk |  |
+| F3 | I Can't Be Satisfied |  |
+| F4 | Pain In My Heart |  |
+| F5 | Off The Hook |  |
+| F6 | Susie Q |  |
+|  | The Rolling Stones Now! |  |
+| G1 | Everybody Needs Somebody To Love |  |
+| G2 | Down Home Girl |  |
+| G3 | You Can't Catch Me |  |
+| G4 | Heart Of Stone |  |
+| G5 | What A Shame |  |
+| G6 | Mona (I Need You Baby) |  |
+| H1 | Down The Road Apiece |  |
+| H2 | Off The Hook |  |
+| H3 | Pain In My Heart |  |
+| H3 | Oh Baby (We Got A Good Thing Goin') |  |
+| H5 | Little Red Rooster |  |
+| H6 | Surprise, Surprise |  |
+|  | Out Of Our Heads (US Version) |  |
+| I1 | Mercy, Mercy |  |
+| I2 | Hitch Hike |  |
+| I3 | The Last Time |  |
+| I4 | That's How Strong My Love Is |  |
+| I5 | Good Times |  |
+| I6 | I'm All Right |  |
+| J1 | (I Can't Get No) Satisfaction |  |
+| J2 | Cry To Me |  |
+| J3 | The Under Assistant West Coast Promotion Man |  |
+| J4 | Play With Fire |  |
+| J5 | The Spider And The Fly |  |
+| J6 | One More Try |  |
+|  | Out Of Our Heads (UK Version) |  |
+| K1 | She Said "Yeah" |  |
+| K2 | Mercy, Mercy |  |
+| K3 | Hitch Hike |  |
+| K4 | That's How Strong My Love Is |  |
+| K5 | Good Times |  |
+| K6 | Gotta Get Away |  |
+| L1 | Talkin' 'Bout You |  |
+| L2 | Cry To Me |  |
+| L3 | Oh, Baby (We Got A Good Thing Going) |  |
+| L4 | Heart Of Stone |  |
+| L5 | The Under Assistant West Coast Promotion Man |  |
+| L6 |  I'm Free |  |
+|  | December's Children (And Everybody's) |  |
+| M1 | She Said "Yeah" |  |
+| M2 | Talkin' About You |  |
+| M3 | You Better Move On |  |
+| M4 | Look What You've Done |  |
+| M5 | The Singer, Not The Song |  |
+| M6 | Route 66 |  |
+| N1 | Get Off Of My Cloud |  |
+| N2 | I'm Free |  |
+| N3 | As Tears Go By |  |
+| N4 | Gotta Get Away |  |
+| N5 | Blue Turns To Grey |  |
+| N6 | I'm Moving On |  |
+|  | Aftermath (UK Version) |  |
+| O1 | Mother's Little Helper |  |
+| O2 | Stupid Girl |  |
+| O3 | Lady Jane |  |
+| O4 | Under My Thumb |  |
+| O5 | Doncha Bother Me |  |
+| O6 | Goin' Home |  |
+| P1 | Flight 505 |  |
+| P2 | High And Dry |  |
+| P3 | Out Of Time |  |
+| P4 | It's Not Easy |  |
+| P5 | I Am Waiting |  |
+| P6 | Take It Or Leave It |  |
+| P7 | Think |  |
+| P8 | What To Do |  |
+|  | Aftermath (US Version) |  |
+| Q1 | Paint It Black |  |
+| Q2 | Stupid Girl |  |
+| Q3 | Lady Jane |  |
+| Q4 | Under My Thumb |  |
+| Q5 | Doncha Bother Me |  |
+| Q6 | Think |  |
+| R1 | Flight 505 |  |
+| R2 | High And Dry |  |
+| R3 | It's Not Easy |  |
+| R4 | I Am Waiting |  |
+| R5 | Goin' Home |  |
+|  | Between The Buttons (UK Version) |  |
+| S1 | Yesterday's Papers |  |
+| S2 | My Obsession |  |
+| S3 | Back Street Girl |  |
+| S4 | Connection |  |
+| S5 | She Smiled Sweetly |  |
+| S6 | Cool, Calm & Collected |  |
+| T1 | All Sold Out |  |
+| T2 | Please Go Home |  |
+| T3 | Who's Been Sleeping Here? |  |
+| T4 | Complicated |  |
+| T5 | Miss Amanda Jones |  |
+| T6 | Something Happened To Me Yesterday |  |
+|  | Flowers |  |
+| U1 | Ruby Tuesday |  |
+| U2 | Have You Seen Your Mother, Baby, Standing In The Shadow? |  |
+| U3 | Let's Spend The Night Together |  |
+| U4 | Lady Jane |  |
+| U5 | Out Of Time |  |
+| U6 | My Girl |  |
+| V1 | Backstreet Girl |  |
+| V2 | Please Go Home |  |
+| V3 | Mother's Little Helper |  |
+| V4 | Take It Or Leave It |  |
+| V5 | Ride On, Baby |  |
+| V6 | Sittin' On A Fence |  |
+|  | Their Satanic Majesties Request |  |
+| W1 | Sing This All Together |  |
+| W2 | Citadel |  |
+| W3 | In Another Land |  |
+| W4 | 2000 Man |  |
+| W5 | Sing This All Together (See What Happens) |  |
+| X1 | She's A Rainbow |  |
+| X2 | The Lantern |  |
+| X3 | Gomper |  |
+| X4 | 2000 Light Years From Home |  |
+| X5 | On With The Show |  |
+|  | Beggars Banquet |  |
+| Y1 | Sympathy For The Devil |  |
+| Y2 | No Expectations |  |
+| Y3 | Dear Doctor |  |
+| Y4 | Parachute Woman |  |
+| Y5 | Jigsaw Puzzle |  |
+| Z1 | Street Fighting Man |  |
+| Z2 | Prodigal Son |  |
+| Z3 | Stray Cat Blues |  |
+| Z4 | Factory Girl |  |
+| Z5 | Salt Of The Earth |  |
+|  | Let It Bleed |  |
+| AA1 | Gimme Shelter |  |
+| AA2 | Love In Vain |  |
+| AA3 |  Country Honk |  |
+| AA4 | Live With Me |  |
+| AA5 | Let It Bleed |  |
+| AB1 | Midnight Rambler |  |
+| AB2 | You Got The Silver |  |
+| AB3 | Monkey Man |  |
+| AB4 | You Can't Always Get What You Want |  |
+|  | Stray Cats |  |
+| AC1 | Come On |  |
+| AC2 | I Want To Be Loved |  |
+| AC3 | I Wanna Be Your Man |  |
+| AC4 | Stoned |  |
+| AC5 | Fortune Teller |  |
+| AC6 | Poison Ivy (Version 1) |  |
+| AC7 | Bye Bye Johnny |  |
+| AD1 | Money |  |
+| AD2 | Poison Ivy (Version 2) |  |
+| AD3 | Not Fade Away |  |
+| AD4 | I've Been Loving You Too Long |  |
+| AD5 | The Under Assistant West Coast Promotion Man (Single Version) |  |
+| AD6 | 19th Nervous Breakdown |  |
+| AE1 | Sad Day |  |
+| AE2 | As Tears Goes By (Italian Version) |  |
+| AE3 | Long Long While |  |
+| AE4 | Who's Driving Your Plane? |  |
+| AE5 | We Love You (Single Version) |  |
+| AE6 | Dandelion (Single Version) |  |
+| AF1 | Child Of The Moon |  |
+| AF2 | Jumpin' Jack Flash |  |
+| AF3 | Street Fighting Man (Single Version) |  |
+| AF4 | Honky Tonk Women |  |
+| AF5 | You Can't Always Get What You Want (Single Version) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-rolling-stones-in-mono-remastered/1440774096" >}}<br>
-
 
 
 
@@ -279,5 +283,5 @@ The Rolling Stones in Mono is a box set by the English rock band the Rolling Sto
 | Format         | Box Set Compilation Limited Edition Numbered, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Compilation Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl LP Album Reissue Remastered Mono, Vinyl 2× LP Compilation Remastered Mono |
 | Label          | ABKCO |
 | Catalog Number | 018771834519 |
-| Notes | Made in The Czech Republic (on box and covers). Made in the EU (on record labels). 10,000 numbered copies.  Includes download code for 160 kbit/s MP3 files of all tracks.  'Stray Cats' is a double LP exclusive to this box set containing all non-lp tracks released in the 1960s.  Includes a 48 page booklet with photos and an essay by David Fricke.  All runouts are laser etched. |
+| Notes | Made in The Czech Republic (on box and covers). Made in the EU (on record labels).<br>10,000 numbered copies.<br><br>Includes download code for 160 kbit/s MP3 files of all tracks.<br><br>'Stray Cats' is a double LP exclusive to this box set containing all non-lp tracks released in the 1960s.<br><br>Includes a 48 page booklet with photos and an essay by David Fricke.<br><br>All runouts are laser etched. |
 | Discogs URL    | [The Rolling Stones - The Rolling Stones In Mono](https://www.discogs.com/release/9147559-The-Rolling-Stones-The-Rolling-Stones-In-Mono) |

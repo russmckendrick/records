@@ -4,6 +4,7 @@ artist_name: "Orbital"
 artist: "orbital"
 album_name: "Monsters Exist"
 date: 2018-09-16T11:31:40.000000Z
+release_date: "2018-09-14"
 release_id: "12518665"
 slug: "monsters-exist-12518665"
 hideSummary: true
@@ -26,37 +27,29 @@ styles: ["Techno"]
 ---
 
 Monsters Exist is the ninth studio album by Orbital, released on 14 September 2018 through their own ACP label. It is their first studio album in six years (their last studio album Wonky was released in 2012) and the first since they reformed for the second time in 2017.  The title is shown in the earlier video for "The Box" in 1996 when Tilda Swinton glances at an array of TV screens.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Monsters Exist
-2. Hoo Hoo Ha Ha
-3. The Raid
-4. P.H.U.K.
-5. Tiny Foldable Cities
-6. Buried Deep Within
-7. Vision OnE
-8. The End Is Nigh
-9. There Will Come A Time
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Monsters Exist |  |
+| A2 | Hoo Hoo Ha Ha |  |
+| A3 | The Raid |  |
+| B4 | P.H.U.K. |  |
+| B5 | Tiny Foldable Cities |  |
+| C6 | Buried Deep Within |  |
+| C7 | Vision OnE |  |
+| D8 | The End Is Nigh |  |
+| D9 | There Will Come A Time |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/monsters-exist-deluxe/1380840392" >}}<br>
 
 
-## Videos
-### Orbital - Monsters Exist official audio
-{{< youtube id="rts5Ew5ik_w" title="Orbital - Monsters Exist official audio" >}}<br>
-### More Videos
-
-- [Orbital - Hoo Hoo Ha Ha official audio](https://www.youtube.com/watch?v=CDzKmemfHqQ)
-- [Orbital - PHUK](https://www.youtube.com/watch?v=BGYZp3QqhqE)
-- [Orbital - Tiny Foldable Cities](https://www.youtube.com/watch?v=7CC5aX8OzOI)
-- [Orbital - The End Is Nigh](https://www.youtube.com/watch?v=xrzB8A6h6CA)
-- [Orbital  Kinetic 2017](https://www.youtube.com/watch?v=zJDjaLn_gZA)
-- [Orbital - Monsters Exist official audio](https://www.youtube.com/watch?v=rts5Ew5ik_w)
-- [Orbital - Hoo Hoo Ha Ha official audio](https://www.youtube.com/watch?v=CDzKmemfHqQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +61,5 @@ Monsters Exist is the ninth studio album by Orbital, released on 14 September 20
 | Format         | Vinyl 2× LP Album |
 | Label          | ACP Recordings |
 | Catalog Number | ACPV1806 |
-| Notes | Includes colour insert and download card.  Signed copies were available via Orbital PledgeMusic campaign and Recordstore.co.uk  Tracks on release are numbered sequentially across sides.  Mixed for Pieces of 8 Music |
+| Notes | Includes colour insert and download card.<br><br>Signed copies were available via Orbital PledgeMusic campaign and Recordstore.co.uk<br><br>Tracks on release are numbered sequentially across sides.<br><br>Mixed for Pieces of 8 Music |
 | Discogs URL    | [Orbital - Monsters Exist](https://www.discogs.com/release/12518665-Orbital-Monsters-Exist) |

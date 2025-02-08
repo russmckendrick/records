@@ -4,6 +4,7 @@ artist_name: "Pop Will Eat Itself"
 artist: "pop-will-eat-itself"
 album_name: "Karmadrome / Eat Me! Drink Me! Love Me! Kill Me!"
 date: 2018-02-15T19:24:32.000000Z
+release_date: ""
 release_id: "938078"
 slug: "karmadrome-eat-me-drink-me-love-me-kill-me-938078"
 hideSummary: true
@@ -21,20 +22,21 @@ styles: ["Synth-pop", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Karmadrome (3:52)
-2. Eat Me Drink Me Love Me Kill Me (3:13)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Karmadrome | 3:52 |
+| AA | Eat Me Drink Me Love Me Kill Me | 3:13 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Pop Will Eat Itself - Eat Me Drink Me Dub Me Kill Me
-{{< youtube id="4yCr14ftc38" title="Pop Will Eat Itself - Eat Me Drink Me Dub Me Kill Me" >}}<br>
-### More Videos
 
-- [Pop Will Eat Itself - Karmadrome](https://www.youtube.com/watch?v=2YwfFFcNC9o)
-- [Eat Me Drink Me Love Me Kill Me](https://www.youtube.com/watch?v=myZgDBe95L4)
 
 ## Release Images
 {{< imageGrid >}}

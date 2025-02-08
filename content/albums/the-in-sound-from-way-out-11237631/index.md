@@ -4,6 +4,7 @@ artist_name: "Beastie Boys"
 artist: "beastie-boys"
 album_name: "The In Sound From Way Out!"
 date: 2018-01-06T10:51:53.000000Z
+release_date: "1966"
 release_id: "11237631"
 slug: "the-in-sound-from-way-out-11237631"
 hideSummary: true
@@ -24,33 +25,33 @@ styles: ["Instrumental"]
 The In Sound from Way Out! is an instrumental compilation by the Beastie Boys, released in 1996. The title and cover art concept were borrowed from the Perrey and Kingsley album of the same name.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Devant
-2. Ricky's Theme
-3. Groove Holmes
-4. Pow
-5. Son Of Neckbone
-6. Bobo On The Corner
-7. In 3's
-8. Eugene's Lament
-9. Derrièr
-10. Futterman's Rule
-11. Shambala
-12. Transitions
-13. Sabrosa
-14. Drinkin' Wine
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Devant |  |
+| A1 | Ricky's Theme |  |
+| A2 | Groove Holmes |  |
+| A3 | Pow |  |
+| A4 | Son Of Neckbone |  |
+| A5 | Bobo On The Corner |  |
+| A6 | In 3's |  |
+| A7 | Eugene's Lament |  |
+|  | Derrièr |  |
+| B1 | Futterman's Rule |  |
+| B2 | Shambala |  |
+| B3 | Transitions |  |
+| B4 | Sabrosa |  |
+| B5 | Drinkin' Wine |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-in-sound-from-way-out/712013935" >}}<br>
 
-
-## Videos
-### BEASTIE BOYS - THE IN SOUND FROM WAY OUT  INTRUMENTAL MUSIC COMPOSED PERFORMED   FULL ALBUM
-{{< youtube id="BMBafmZF9wM" title="BEASTIE BOYS - THE IN SOUND FROM WAY OUT  INTRUMENTAL MUSIC COMPOSED PERFORMED   FULL ALBUM" >}}<br>
 
 
 ## Release Images
@@ -63,5 +64,5 @@ The In Sound from Way Out! is an instrumental compilation by the Beastie Boys, r
 | Format         | Vinyl LP Compilation Reissue (180 g) |
 | Label          | Capitol Records |
 | Catalog Number | 602557727920 |
-| Notes | A Capitol Records release; (P) 1996 (C) 2017 Capitol Records, LLC. [...] Made in the EU. [...] Netherlands.  (at the bottom right of the back cover) |
+| Notes | A Capitol Records release; (P) 1996 (C) 2017 Capitol Records, LLC. [...] Made in the EU. [...] Netherlands. <br>(at the bottom right of the back cover) |
 | Discogs URL    | [Beastie Boys - The In Sound From Way Out!](https://www.discogs.com/release/11237631-Beastie-Boys-The-In-Sound-From-Way-Out) |

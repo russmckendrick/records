@@ -4,6 +4,7 @@ artist_name: "Split Enz"
 artist: "split-enz"
 album_name: "Mental Notes"
 date: 2018-09-29T09:45:26.000000Z
+release_date: "1975-07-31"
 release_id: "1445113"
 slug: "mental-notes-1445113"
 hideSummary: true
@@ -23,33 +24,30 @@ styles: ["Prog Rock"]
 ---
 
 Mental Notes is the debut studio album by New Zealand band Split Enz. The album cover was painted by band member Phil Judd. Original vinyl copies featured Judd saying "Make a mental note" in the runout groove of the record's second side, causing the phrase to be looped ad infinitum on manual turntables until the stylus is removed.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Late Last Night (4:05)
-2. Walking Down A Road (5:19)
-3. Titus (3:11)
-4. Lovey Dovey (3:01)
-5. Sweet Dreams (4:59)
-6. Stranger Than Fiction (7:06)
-7. Time For A Change (4:02)
-8. Matinee Idyll (2:54)
-9. The Woman Who Loves You (6:46)
-10. Mental Notes (0:30)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Late Last Night | 4:05 |
+| A2 | Walking Down A Road | 5:19 |
+| A3 | Titus | 3:11 |
+| A4 | Lovey Dovey | 3:01 |
+| A5 | Sweet Dreams | 4:59 |
+| B1 | Stranger Than Fiction | 7:06 |
+| B2 | Time For A Change | 4:02 |
+| B3 | Matinee Idyll | 2:54 |
+| B4 | The Woman Who Loves You | 6:46 |
+| B5 | Mental Notes | 0:30 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mental-notes/1629181127" >}}<br>
 
 
-## Videos
-### Split Enz - Late Last Night Official Video
-{{< youtube id="51ib_El-yh4" title="Split Enz - Late Last Night Official Video" >}}<br>
-### More Videos
-
-- [Split Enz - Lovey Dovey Official Video](https://www.youtube.com/watch?v=66s967Qx0dM)
-- [Split Enz - Sweet Dreams Official Video](https://www.youtube.com/watch?v=we9XmUzmMlc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +59,5 @@ Mental Notes is the debut studio album by New Zealand band Split Enz. The album 
 | Format         | Vinyl LP Album (Gatefold) |
 | Label          | Chrysalis |
 | Catalog Number | CHR 1131 |
-| Notes | Released in a gatefold cover.    On the label the cat.nr. appears as ''CHR-1131''.  Recorded at Basing St. Studios, London April/May 1976.    This is a re-recorded version with a new producer, new versions of old tracks and some new tracks.    |
+| Notes | Released in a gatefold cover.<br><br>On the label the cat.nr. appears as ''CHR-1131''.<br>Recorded at Basing St. Studios, London April/May 1976.<br><br>This is a re-recorded version with a new producer, new versions of old tracks and some new tracks. <br> |
 | Discogs URL    | [Split Enz - Mental Notes](https://www.discogs.com/release/1445113-Split-Enz-Mental-Notes) |

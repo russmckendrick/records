@@ -4,6 +4,7 @@ artist_name: "The Divine Comedy"
 artist: "the-divine-comedy"
 album_name: "Charmed Life (The Best Of The Divine Comedy)"
 date: 2022-02-04T09:20:07.000000Z
+release_date: "1999-09-21"
 release_id: "22022677"
 slug: "charmed-life-the-best-of-the-divine-comedy-22022677"
 hideSummary: true
@@ -31,55 +32,43 @@ styles: ["Indie Pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Charmed Life
-2. National Express
-3. Norman And Norma
-4. Something For The Weekend
-5. Songs Of Love
-6. The Best Mistakes
-7. At The Indie Disco
-8. Bad Ambassador
-9. A Lady Of A Certain Age
-10. Becoming More Like Alfie
-11. Come Home Billy Bird
-12. Have You Ever Been In Love
-13. Our Mutual Friend
-14. Generation Sex
-15. How Can You Leave Me On My Own
-16. Perfect Lovesong
-17. Your Daddy's Car
-18. You'll Never Work In The Town Again
-19. Absent Friends
-20. Everybody Knows (Except You)
-21. The Certainty Of Chance
-22. Sunrise
-23. To The Rescue
-24. Tonight We Fly
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Charmed Life |  |
+| A2 | National Express |  |
+| A3 | Norman And Norma |  |
+| A4 | Something For The Weekend |  |
+| A5 | Songs Of Love |  |
+| A6 | The Best Mistakes |  |
+| B1 | At The Indie Disco |  |
+| B2 | Bad Ambassador |  |
+| B3 | A Lady Of A Certain Age |  |
+| B4 | Becoming More Like Alfie |  |
+| B5 | Come Home Billy Bird |  |
+| B6 | Have You Ever Been In Love |  |
+| C1 | Our Mutual Friend |  |
+| C2 | Generation Sex |  |
+| C3 | How Can You Leave Me On My Own |  |
+| C4 | Perfect Lovesong |  |
+| C5 | Your Daddy's Car |  |
+| C6 | You'll Never Work In The Town Again |  |
+| D1 | Absent Friends |  |
+| D2 | Everybody Knows (Except You) |  |
+| D3 | The Certainty Of Chance |  |
+| D4 | Sunrise |  |
+| D5 | To The Rescue |  |
+| D6 | Tonight We Fly |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/charmed-life-the-best-of-the-divine-comedy/1594485729" >}}<br>
 
 
-## Videos
-### Charmed Life
-{{< youtube id="m4mwCkOLi9Y" title="Charmed Life" >}}<br>
-### More Videos
-
-- [A Lady of a Certain Age](https://www.youtube.com/watch?v=_dDFCWsGfzQ)
-- [Our Mutual Friend](https://www.youtube.com/watch?v=_bM563xi6pU)
-- [The Certainty Of Chance](https://www.youtube.com/watch?v=8PzExXVXo8g)
-- [Ill Take What I Can Get](https://www.youtube.com/watch?v=_RbhKgTh8CY)
-- [Dont Make Me Go Outside](https://www.youtube.com/watch?v=V-dtd_d9ILM)
-- [Who Do You Think You Are](https://www.youtube.com/watch?v=XgXPQ_qNOSw)
-- [The Adventurous Type](https://www.youtube.com/watch?v=xW3sG3HK3OA)
-- [When When When](https://www.youtube.com/watch?v=g4R-xZ6C-Mc)
-- [Te Amo España](https://www.youtube.com/watch?v=SvAMN0zsf-M)
-- [Perfect Lovesong 2021](https://www.youtube.com/watch?v=XFHoqPWCNUQ)
-- [Simple Pleasures](https://www.youtube.com/watch?v=w_7KwkJa3ZY)
-- [Those Pesky Kids](https://www.youtube.com/watch?v=u8sIYcN7ii4)
-- [Butterfly](https://www.youtube.com/watch?v=M4g_gPU5VNg)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "Crippled Black Phoenix"
 artist: "crippled-black-phoenix"
 album_name: "No Sadness Or Farewell"
 date: 2016-11-01T17:22:39.000000Z
+release_date: "2012-10-22"
 release_id: "3961956"
 slug: "no-sadness-or-farewell-3961956"
 hideSummary: true
@@ -24,31 +25,25 @@ styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. How We Rock (12:24)
-2. Hold On (So Goodbye To All Of That) (6:53)
-3. One Armed Boxer (3:18)
-4. Jonestown Martin (6:29)
-5. Long Live Independence (5:22)
-6. Maniac Beast (3:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | How We Rock | 12:24 |
+| A2 | Hold On (So Goodbye To All Of That) | 6:53 |
+| B1 | One Armed Boxer | 3:18 |
+| B2 | Jonestown Martin | 6:29 |
+| B3 | Long Live Independence | 5:22 |
+| B4 | Maniac Beast | 3:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-sadness-or-farewell/1601045064" >}}<br>
 
 
-## Videos
-### Crippled Black Phoenix - Hold On Goodbye To All Of That
-{{< youtube id="E5oVTs7WTKA" title="Crippled Black Phoenix - Hold On Goodbye To All Of That" >}}<br>
-### More Videos
-
-- [Crippled Black Phoenix - How We Rock](https://www.youtube.com/watch?v=WCjrEUbQ7aI)
-- [Crippled Black Phoenix - What Have We Got to Lose](https://www.youtube.com/watch?v=TEioeVpQQQw)
-- [Crippled Black Phoenix-Jonestown Martin](https://www.youtube.com/watch?v=cM-EGF5Pl8Q)
-- [Crippled Black Phoenix - Hold On Goodbye To All Of That](https://www.youtube.com/watch?v=E5oVTs7WTKA)
-- [Crippled Black Phoenix - How We Rock](https://www.youtube.com/watch?v=WCjrEUbQ7aI)
-- [Crippled Black Phoenix - What Have We Got to Lose](https://www.youtube.com/watch?v=TEioeVpQQQw)
-- [Crippled Black Phoenix-Jonestown Martin](https://www.youtube.com/watch?v=cM-EGF5Pl8Q)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,5 +54,5 @@ styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 | Format         | Vinyl LP EP |
 | Label          | Cool Green Recordings |
 | Catalog Number | CGR 7397 1 |
-| Notes | ℗ + © Production and Publishing Mascot Music B.V. All rights reserved.  B1's title on the label is "One Armed Robber". |
+| Notes | ℗ + © Production and Publishing Mascot Music B.V. All rights reserved.<br><br>B1's title on the label is "One Armed Robber". |
 | Discogs URL    | [Crippled Black Phoenix - No Sadness Or Farewell](https://www.discogs.com/release/3961956-Crippled-Black-Phoenix-No-Sadness-Or-Farewell) |

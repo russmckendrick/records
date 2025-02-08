@@ -4,6 +4,7 @@ artist_name: "Janis Ian"
 artist: "janis-ian"
 album_name: "Aftertones"
 date: 2019-01-19T10:36:24.000000Z
+release_date: "1975"
 release_id: "2037717"
 slug: "aftertones-2037717"
 hideSummary: true
@@ -25,44 +26,30 @@ styles: ["Ballad"]
 Aftertones is the eighth album by American singer/songwriter Janis Ian, recorded 1975 in various New York studios and released 1976 by Columbia Records. "Love Is Blind" was a #1 single in Japan for six months.  It was the highest-selling album by a solo female artist in Japan and was also a top twenty and gold record in the United States, Ireland and Holland. "I Would Like to Dance" reached #86 in Canada.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Aftertones (3:14)
-2. I Would Like To Dance (3:38)
-3. Love Is Blind (2:14)
-4. Roses (3:09)
-5. Belle Of The Blues (4:30)
-6. Goodbye To Morning (3:07)
-7. Boy, I Really Tied One On (2:40)
-8. This Must Be Wrong (2:40)
-9. Don't Cry, Old Man (3:51)
-10. Hymn (4:08)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Aftertones | 3:14 |
+| A2 | I Would Like To Dance | 3:38 |
+| A3 | Love Is Blind | 2:14 |
+| A4 | Roses | 3:09 |
+| A5 | Belle Of The Blues | 4:30 |
+| B1 | Goodbye To Morning | 3:07 |
+| B2 | Boy, I Really Tied One On | 2:40 |
+| B3 | This Must Be Wrong | 2:40 |
+| B4 | Don't Cry, Old Man | 3:51 |
+| B5 | Hymn | 4:08 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/aftertones/1546946678" >}}<br>
 
 
-## Videos
-### Aftertones
-{{< youtube id="NlY_DgfLMm8" title="Aftertones" >}}<br>
-### More Videos
-
-- [I Would Like to Dance](https://www.youtube.com/watch?v=AyBv5m4akxU)
-- [Janis Ian - Love is Blind](https://www.youtube.com/watch?v=YXWaUSGxB40)
-- [Roses](https://www.youtube.com/watch?v=9bx3_D2YALI)
-- [Aftertones](https://www.youtube.com/watch?v=NlY_DgfLMm8)
-- [I Would Like to Dance](https://www.youtube.com/watch?v=AyBv5m4akxU)
-- [Janis Ian - Love is Blind](https://www.youtube.com/watch?v=YXWaUSGxB40)
-- [Roses](https://www.youtube.com/watch?v=9bx3_D2YALI)
-- [Belle of the Blues](https://www.youtube.com/watch?v=cv9HnJvcOps)
-- [Hymn](https://www.youtube.com/watch?v=zgn20lxHCNk)
-- [Aftertones](https://www.youtube.com/watch?v=oyCbfl0Sq5I)
-- [I Would Like to Dance](https://www.youtube.com/watch?v=OUN1Yon-Q50)
-- [Aftertones](https://www.youtube.com/watch?v=NlY_DgfLMm8)
-- [Janis Ian Belle of the Blues video](https://www.youtube.com/watch?v=5tZOHvT28k0)
 
 ## Release Images
 {{< imageGrid >}}

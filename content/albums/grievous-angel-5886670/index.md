@@ -30,27 +30,23 @@ It was voted number 324 in the third edition of Colin Larkin's All Time Top 1000
 
 
 ## Tracklisting
-1. Return Of The Grievous Angel (4:19)
-2. Hearts On Fire (3:50)
-3. I Can't Dance (2:20)
-4. Brass Buttons (3:27)
-5. $1000 Wedding (5:00)
-6. Medley Live From Northern Quebec
-7. Love Hurts (3:40)
-8. Las Vegas (3:29)
-9. In My Hour Of Darkness (3:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Return Of The Grievous Angel | 4:19 |
+| A2 | Hearts On Fire | 3:50 |
+| A3 | I Can't Dance | 2:20 |
+| A4 | Brass Buttons | 3:27 |
+| A5 | $1000 Wedding | 5:00 |
+|  | Medley Live From Northern Quebec |  |
+| B2 | Love Hurts | 3:40 |
+| B3 | Las Vegas | 3:29 |
+| B4 | In My Hour Of Darkness | 3:42 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/grievous-angel/304907551" >}}<br>
 
 
-## Videos
-### Gram Parsons - Return Of The Grievous Angel
-{{< youtube id="1PytxPaU6k4" title="Gram Parsons - Return Of The Grievous Angel" >}}<br>
-### More Videos
-
-- [Gram Parsons - In My Hour Of Darkness](https://www.youtube.com/watch?v=ERhhkjqDGsA)
-- [Love Hurts Remastered Version](https://www.youtube.com/watch?v=4fCTZ0ZnD44)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +58,5 @@ It was voted number 324 in the third edition of Colin Larkin's All Time Top 1000
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Reprise Records |
 | Catalog Number | R1-2171 |
-| Notes | ℗ & © 1974 Warner Bros. Records Inc   Manufactured in the EU.  |
+| Notes | ℗ & © 1974 Warner Bros. Records Inc <br>Manufactured in the EU.  |
 | Discogs URL    | [Gram Parsons - Grievous Angel](https://www.discogs.com/release/5886670-Gram-Parsons-Grievous-Angel) |

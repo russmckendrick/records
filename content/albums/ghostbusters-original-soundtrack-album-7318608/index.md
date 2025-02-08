@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Ghostbusters - Original Soundtrack Album"
 date: 2020-08-01T12:40:56.000000Z
+release_date: ""
 release_id: "7318608"
 slug: "ghostbusters-original-soundtrack-album-7318608"
 hideSummary: true
@@ -21,32 +22,29 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Ghostbusters
-2. Cleanin' Up The Town
-3. Savin' The Day
-4. In The Name Of Love
-5. I Can Wait Forever
-6. Hot Night
-7. Magic
-8. Main Title Theme (Ghostbusters)
-9. Dana's Theme
-10. Ghostbusters (Instrumental Version)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ghostbusters |  |
+| A2 | Cleanin' Up The Town |  |
+| A3 | Savin' The Day |  |
+| A4 | In The Name Of Love |  |
+| A5 | I Can Wait Forever |  |
+| B1 | Hot Night |  |
+| B2 | Magic |  |
+| B3 | Main Title Theme (Ghostbusters) |  |
+| B4 | Dana's Theme |  |
+| B5 | Ghostbusters (Instrumental Version) |  |
 
 
-## Spotify
-{{< spotify type="album" id="0epcJ1L57tp3SF30aKyeWa" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
-## Videos
-### Ghostbusters Full Album From the Motion PictureFilm 1984
-{{< youtube id="TymQWWtIU1c" title="Ghostbusters Full Album From the Motion PictureFilm 1984" >}}<br>
-### More Videos
-
-- [Original GhostBusters Theme Song](https://www.youtube.com/watch?v=m9We2XsVZfc)
-- [Musique du film Ghostbusters](https://www.youtube.com/watch?v=DjWYs10OyFE)
-- [Ray Parker Jr - Ghostbusters](https://www.youtube.com/watch?v=Fe93CLbHjxQ)
 
 ## Release Images
 {{< imageGrid >}}

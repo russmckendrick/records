@@ -4,6 +4,7 @@ artist_name: "Gene"
 artist: "gene"
 album_name: "Yours For The Taking (The Best Of)"
 date: 2020-08-22T09:03:43.000000Z
+release_date: "2002-01-01"
 release_id: "15778008"
 slug: "yours-for-the-taking-the-best-of-15778008"
 hideSummary: true
@@ -24,34 +25,39 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. For The Dead
-2. Be My Light, Be My Guide
-3. I Can't Help Myself
-4. This Is Not My Crime
-5. Sleep Well Tonight
-6. Haunted By You
-7. London, Can You Wait?
-8. Olympian
-9. Fighting Fit
-10. We Could Be Kings
-11. Where Are They Now?
-12. Long Sleeves For The Summer
-13. Speak To Me Someone
-14. As Good As It Gets
-15. Fill Her Up
-16. You'll Never Walk Again
-17. Stop
-18. Is It Over?
-19. Yours For The Taking
-20. O Lover
-21. Somewhere In The World
-22. Let Me Move On (Long Version)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | For The Dead |  |
+| A2 | Be My Light, Be My Guide |  |
+| A3 | I Can't Help Myself |  |
+| A4 | This Is Not My Crime |  |
+| A5 | Sleep Well Tonight |  |
+| A6 | Haunted By You |  |
+| B1 | London, Can You Wait? |  |
+| B2 | Olympian |  |
+| B3 | Fighting Fit |  |
+| B4 | We Could Be Kings |  |
+| B5 | Where Are They Now? |  |
+| B6 | Long Sleeves For The Summer |  |
+| C1 | Speak To Me Someone |  |
+| C2 | As Good As It Gets |  |
+| C3 | Fill Her Up |  |
+| C4 | You'll Never Walk Again |  |
+| C5 | Stop |  |
+| D1 | Is It Over? |  |
+| D2 | Yours For The Taking |  |
+| D3 | O Lover |  |
+| D4 | Somewhere In The World |  |
+| D5 | Let Me Move On (Long Version) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-kiss/1440658055" >}}<br>
-
 
 
 
@@ -64,5 +70,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 2× LP Compilation Stereo (Blue, 180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC734 |
-| Notes | 22 tracks compiled by the band.  Manufactured in the EU. |
+| Notes | 22 tracks compiled by the band.<br><br>Manufactured in the EU. |
 | Discogs URL    | [Gene - Yours For The Taking (The Best Of)](https://www.discogs.com/release/15778008-Gene-Yours-For-The-Taking-The-Best-Of) |

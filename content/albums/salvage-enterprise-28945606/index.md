@@ -4,6 +4,7 @@ artist_name: "The Polyphonic Spree"
 artist: "the-polyphonic-spree"
 album_name: "Salvage Enterprise"
 date: 2023-11-21T10:25:43.000000Z
+release_date: "2023-11-17"
 release_id: "28945606"
 slug: "salvage-enterprise-28945606"
 hideSummary: true
@@ -32,28 +33,28 @@ styles: ["Indie Rock", "Folk"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Section 44: Galloping Seas
-2. Section 45: Wishful, Brave, And True
-3. Section 46: Give Me Everything
-4. Section 47: Got Down To The Soul
-5. Section 48: Shadows On The Hillside
-6. Section 49: Hop Off The Fence
-7. Section 50: Open The Shores
-8. Section 51: Winds Of Summer
-9. Section 52: Morning Sun, I Built The Stairs
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Section 44: Galloping Seas |  |
+| A2 | Section 45: Wishful, Brave, And True |  |
+| A3 | Section 46: Give Me Everything |  |
+| A4 | Section 47: Got Down To The Soul |  |
+| A5 | Section 48: Shadows On The Hillside |  |
+| B1 | Section 49: Hop Off The Fence |  |
+| B2 | Section 50: Open The Shores |  |
+| B3 | Section 51: Winds Of Summer |  |
+| B4 | Section 52: Morning Sun, I Built The Stairs |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/salvage-enterprise/1705065928" >}}<br>
 
 
-## Videos
-### The Polyphonic Spree - Galloping Seas
-{{< youtube id="LH02-WiTO_w" title="The Polyphonic Spree - Galloping Seas" >}}<br>
-### More Videos
-
-- [The Polyphonic Spree - Galloping Seas](https://www.youtube.com/watch?v=LH02-WiTO_w)
 
 ## Release Images
 {{< imageGrid >}}

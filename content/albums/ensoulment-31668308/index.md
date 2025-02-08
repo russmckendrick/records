@@ -72,42 +72,26 @@ Still, Johnson goes deeper on tracks such as “Life After Life” and the intim
 
 
 ## Tracklisting
-1. Cognitive Dissident (3:07)
-2. Some Days I Drink My Coffee By The Grave Of William Blake (4:03)
-3. Zen & The Art Of Dating (4:30)
-4. Kissing The Ring Of POTUS (3:34)
-5. Life After Life (3:12)
-6. I Want To Wake Up With You (4:00)
-7. Down By The Frozen River (3:34)
-8. Risin' Above The Need (3:46)
-9. Linoleum Smooth To The Stockinged Foot (3:54)
-10. Where Do We Go When We Die? (4:03)
-11. I Hope You Remember (The Things I Can't Forget) (3:38)
-12. A Rainy Day In May (4:02)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cognitive Dissident | 3:07 |
+| A2 | Some Days I Drink My Coffee By The Grave Of William Blake | 4:03 |
+| A3 | Zen & The Art Of Dating | 4:30 |
+| B4 | Kissing The Ring Of POTUS | 3:34 |
+| B5 | Life After Life | 3:12 |
+| B6 | I Want To Wake Up With You | 4:00 |
+| C7 | Down By The Frozen River | 3:34 |
+| C8 | Risin' Above The Need | 3:46 |
+| C9 | Linoleum Smooth To The Stockinged Foot | 3:54 |
+| D10 | Where Do We Go When We Die? | 4:03 |
+| D11 | I Hope You Remember (The Things I Can't Forget) | 3:38 |
+| D12 | A Rainy Day In May | 4:02 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ensoulment/1740763940" >}}<br>
 
 
-## Videos
-### Cognitive Dissident
-{{< youtube id="_HhRjEBr6vM" title="Cognitive Dissident" >}}<br>
-### More Videos
-
-- [Zen  the Art of Dating](https://www.youtube.com/watch?v=BHI8GQnppJc)
-- [A Rainy Day in May](https://www.youtube.com/watch?v=gfPiC8vqMKE)
-- [Risin Above the Need](https://www.youtube.com/watch?v=SEgahxpFbjQ)
-- [Life After Life](https://www.youtube.com/watch?v=ce1tAGKCtic)
-- [Linoleum Smooth to the Stockinged Foot](https://www.youtube.com/watch?v=uzQ-aDT8tXU)
-- [I Want to Wake up with You](https://www.youtube.com/watch?v=df6CEhx_ipw)
-- [Kissing the Ring of Potus](https://www.youtube.com/watch?v=KDzZXBPiptc)
-- [Where Do We Go When We Die](https://www.youtube.com/watch?v=u9L-SMmf5pM)
-- [Some Days I Drink My Coffee by the Grave of William Blake](https://www.youtube.com/watch?v=h2-4pYP-LJY)
-- [Down by the Frozen River](https://www.youtube.com/watch?v=62A2no3jFkU)
-- [I Hope You Remember The Things I Cant Forget](https://www.youtube.com/watch?v=THTpwdyMjVk)
-- [THE THE   COGNITIVE DISSIDENT](https://www.youtube.com/watch?v=Gmwkzk2bPms)
-- [THE THE  LINOLEUM SMOOTH TO THE STOCKINGED FOOT](https://www.youtube.com/watch?v=qvtDKcADs6c)
-- [THE THE - Some Days I Drink My Coffee By The Grave Of William Blake Official Video](https://www.youtube.com/watch?v=irmURXnkt54)
 
 ## Release Images
 {{< imageGrid >}}
@@ -119,5 +103,5 @@ Still, Johnson goes deeper on tracks such as “Life After Life” and the intim
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Clear) |
 | Label          | Ear Music |
 | Catalog Number | 0219535EMU |
-| Notes | Limited edition issued on crystal clear, 180g vinyl in a gatefold sleeve with a 32-page 10" x 10" full colour booklet with photos and lyrics, with die-cut, black paper inner sleeves, in stickered shrink wrap. The barcode is covered with a barcode sticker.  The tracks are numbered sequentially on the release.  Recorded at Real World Studios, Corsham and Studio Cinoéola, London Mixed at Studio Cinoéola, London Additional editing / processing at The Command Centre, Toronto Additional Engineering at Studio Cinéola, London Assistant Engineering at Real World Studios, Corsham Technical support at Grizzly Media  Tracks 2, 3, 5, 6, 8, 9, 10, 12 Published by Lazarus / Kobalt Music Group Tracks 1, 11 Published by Lazarus / Kobalt Music Group - Bucks Music Group Tracks 4, 7 Published by Lazarus / Kobalt Music Group - Black Dream Music  On sleeve: ℗ & © 2024 Cineola Limited under exclusive license to earMUSIC, a label of Edel Music & Entertainment GmbH. MADE IN GERMANY  On labels and booklet: ℗ & © 2024 Cineola Limited under exclusive license to earMUSIC, a label of Edel Music & Entertainment GmbH. Made in Germany by Optimal Media GmbH |
+| Notes | Limited edition issued on crystal clear, 180g vinyl in a gatefold sleeve with a 32-page 10" x 10" full colour booklet with photos and lyrics, with die-cut, black paper inner sleeves, in stickered shrink wrap.<br>The barcode is covered with a barcode sticker.<br><br>The tracks are numbered sequentially on the release.<br><br>Recorded at Real World Studios, Corsham and Studio Cinoéola, London<br>Mixed at Studio Cinoéola, London<br>Additional editing / processing at The Command Centre, Toronto<br>Additional Engineering at Studio Cinéola, London<br>Assistant Engineering at Real World Studios, Corsham<br>Technical support at Grizzly Media<br><br>Tracks 2, 3, 5, 6, 8, 9, 10, 12 Published by Lazarus / Kobalt Music Group<br>Tracks 1, 11 Published by Lazarus / Kobalt Music Group - Bucks Music Group<br>Tracks 4, 7 Published by Lazarus / Kobalt Music Group - Black Dream Music<br><br>On sleeve:<br>℗ & © 2024 Cineola Limited under exclusive license to earMUSIC, a label of Edel Music & Entertainment GmbH. MADE IN GERMANY<br><br>On labels and booklet:<br>℗ & © 2024 Cineola Limited under exclusive license to earMUSIC, a label of Edel Music & Entertainment GmbH. Made in Germany by Optimal Media GmbH |
 | Discogs URL    | [The The - Ensoulment](https://www.discogs.com/release/31668308-The-The-Ensoulment) |

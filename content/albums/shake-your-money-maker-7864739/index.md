@@ -4,6 +4,7 @@ artist_name: "The Black Crowes"
 artist: "the-black-crowes"
 album_name: "Shake Your Money Maker"
 date: 2015-12-19T11:37:04.000000Z
+release_date: "1990-02-13"
 release_id: "7864739"
 slug: "shake-your-money-maker-7864739"
 hideSummary: true
@@ -28,38 +29,30 @@ Shake Your Money Maker peaked at No. 4 on the Billboard 200, and two of its sing
 On January 8, 2021, the Black Crowes announced that a 30th anniversary edition of the album would be released on February 26, 2021. The new version contains the original tracks remastered in addition to three previously unreleased songs, outtakes, two demos from the Mr. Crowe's Garden era, and a live performance set recorded in 1990 at Center Stage in Atlanta. Previously unreleased track "Charming Mess" was released on the same day as the announcement.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Twice As Hard (4:09)
-2. Jealous Again (4:35)
-3. Sister Luck (5:14)
-4. Could I've Been So Blind (3:44)
-5. Seeing Things (5:18)
-6. Hard To Handle (3:08)
-7. Thick N' Thin (2:43)
-8. She Talks To Angels (5:30)
-9. Struttin' Blues (4:10)
-10. Stare It Cold (5:15)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Twice As Hard | 4:09 |
+| A2 | Jealous Again | 4:35 |
+| A3 | Sister Luck | 5:14 |
+| A4 | Could I've Been So Blind | 3:44 |
+| A5 | Seeing Things | 5:18 |
+| B1 | Hard To Handle | 3:08 |
+| B2 | Thick N' Thin | 2:43 |
+| B3 | She Talks To Angels | 5:30 |
+| B4 | Struttin' Blues | 4:10 |
+| B5 | Stare It Cold | 5:15 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/shake-your-money-maker/1440810644" >}}<br>
 
 
-## Videos
-### The Black Crowes - Hard To Handle
-{{< youtube id="BRcs_OzQb14" title="The Black Crowes - Hard To Handle" >}}<br>
-### More Videos
-
-- [The Black Crowes - She Talks To Angels Official Video](https://www.youtube.com/watch?v=H58gMiQQRm0)
-- [The Black Crowes - Twice As Hard](https://www.youtube.com/watch?v=XLg7aoGAkkk)
-- [Jealous Again](https://www.youtube.com/watch?v=p0J4hxqiiho)
-- [Sister Luck](https://www.youtube.com/watch?v=2AkDHA-JKkY)
-- [Thick N Thin](https://www.youtube.com/watch?v=78ICN03p6vg)
-- [Struttin Blues](https://www.youtube.com/watch?v=yshMEKEl1sA)
-- [Stare It Cold](https://www.youtube.com/watch?v=-5gtI8eqKS4)
 
 ## Release Images
 {{< imageGrid >}}

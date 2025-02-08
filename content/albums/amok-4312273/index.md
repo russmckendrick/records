@@ -1,9 +1,10 @@
 ---
 title: "Atoms For Peace - Amok"
 artist_name: "Atoms For Peace"
-artist: "atoms-for-peace-2"
+artist: "atoms-for-peace"
 album_name: "Amok"
 date: 2018-01-06T10:51:25.000000Z
+release_date: "2013-02-20"
 release_id: "4312273"
 slug: "amok-4312273"
 hideSummary: true
@@ -26,52 +27,38 @@ styles: ["IDM", "Indie Rock", "Glitch", "Experimental"]
 Amok is the only album by the rock band Atoms for Peace, released on February 25, 2013 by XL Recordings. It features the Radiohead singer Thom Yorke (vocals, keyboards, programming and guitars), the Radiohead producer Nigel Godrich (production and programming), the Red Hot Chili Peppers bassist Flea, the drummer Joey Waronker and the percussionist Mauro Refosco. It combines electronic and live instrumentation.
 Yorke formed Atoms for Peace in 2009 to perform songs from his first solo album, The Eraser (2006). After the tour ended, the band spent three days jamming and recording in Los Angeles. Yorke and Godrich edited and arranged the recordings over two years, combining them with Yorke's electronic music.
 Four singles were released: "Default", "Ingenue", "Judge, Jury and Executioner" and "Before Your Very Eyes", with music videos for "Ingenue" and "Before Your Very Eyes". Amok reached the top ten in several countries, including the UK, US and Japan. It received generally favourable reviews, though some critics found it too similar to Yorke's solo work. It was followed by an international tour.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Before Your Very Eyes...
-2. Default
-3. Ingenue
-4. Dropped
-5. Unless
-6. Stuck Together Pieces
-7. Judge Jury And Executioner
-8. Reverse Running
-9. Amok
-10. Before Your Very Eyes... (5:47)
-11. Default (5:15)
-12. Ingenue (4:30)
-13. Dropped (4:57)
-14. Unless (4:40)
-15. Stuck Together Pieces (5:28)
-16. Judge Jury And Executioner (3:28)
-17. Reverse Running (5:06)
-18. Amok (5:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Before Your Very Eyes... |  |
+| A2 | Default |  |
+| B1 | Ingenue |  |
+| B2 | Dropped |  |
+| C1 | Unless |  |
+| C2 | Stuck Together Pieces |  |
+| D1 | Judge Jury And Executioner |  |
+| D2 | Reverse Running |  |
+| D3 | Amok |  |
+| CD-1 | Before Your Very Eyes... | 5:47 |
+| CD-2 | Default | 5:15 |
+| CD-3 | Ingenue | 4:30 |
+| CD-4 | Dropped | 4:57 |
+| CD-5 | Unless | 4:40 |
+| CD-6 | Stuck Together Pieces | 5:28 |
+| CD-7 | Judge Jury And Executioner | 3:28 |
+| CD-8 | Reverse Running | 5:06 |
+| CD-9 | Amok | 5:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/amok/1545337159" >}}<br>
 
 
-## Videos
-### Atoms For Peace - Before Your Very Eyes
-{{< youtube id="1GQF9y2dKv8" title="Atoms For Peace - Before Your Very Eyes" >}}<br>
-### More Videos
-
-- [Atoms For Peace - Default](https://www.youtube.com/watch?v=zU7lArEL0qs)
-- [Atoms For Peace - Ingenue](https://www.youtube.com/watch?v=uK2sW_eaNqs)
-- [Atoms For Peace - Dropped](https://www.youtube.com/watch?v=a9uL315xak8)
-- [Atoms For Peace - Unless](https://www.youtube.com/watch?v=sTncKpk0OTo)
-- [Atoms For Peace - Stuck Together Pieces](https://www.youtube.com/watch?v=UMfh89GQoQE)
-- [Atoms For Peace - Judge Jury And Executioner](https://www.youtube.com/watch?v=SZgN_SuxuBg)
-- [Atoms For Peace - Reverse Running](https://www.youtube.com/watch?v=l2yEXYCF7tg)
-- [Atoms For Peace - Amok](https://www.youtube.com/watch?v=dZHrwFvmRxg)
-- [Atoms For Peace - Before Your Very Eyes](https://www.youtube.com/watch?v=ZWrUEsVrdSU)
-- [Atoms For Peace - Default](https://www.youtube.com/watch?v=yxWBd840E9g)
-- [Atoms For Peace - Ingenue](https://www.youtube.com/watch?v=DpVfF4U75B8)
-- [Atoms For Peace  - Judge Jury and Executioner](https://www.youtube.com/watch?v=LmNXMAQhp-I)
-- [Atoms For Peace - Default](https://www.youtube.com/watch?v=yxWBd840E9g)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +70,5 @@ Four singles were released: "Default", "Ingenue", "Judge, Jury and Executioner" 
 | Format         | Vinyl 2× LP 45 RPM Album, CD Album |
 | Label          | XL Recordings |
 | Catalog Number | XLLP583 |
-| Notes | Recorded in Los Angeles and London at The Hospital, Joey's and Ocean Way. Thanks to Jun & Rico Takahashi & to Lizzie for making us so welcome.  P&C 2013 Unsustainabubble Ltd under exclusive license to XL Recordings Ltd. Track durations not given on release. |
+| Notes | Recorded in Los Angeles and London at The Hospital, Joey's and Ocean Way.<br>Thanks to Jun & Rico Takahashi & to Lizzie for making us so welcome.<br><br>P&C 2013 Unsustainabubble Ltd under exclusive license to XL Recordings Ltd.<br>Track durations not given on release. |
 | Discogs URL    | [Atoms For Peace - Amok](https://www.discogs.com/release/4312273-Atoms-For-Peace-2-Amok) |

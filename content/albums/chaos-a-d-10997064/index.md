@@ -33,46 +33,42 @@ styles: ["Thrash", "Death Metal"]
 
 
 ## Tracklisting
-1. Chaos A.D. (2017 Remaster)
-2. Refuse/Resist (3:19)
-3. Territory (4:47)
-4. Slave New World (2:54)
-5. Amen (4:27)
-6. Kaiowas (3:43)
-7. Propaganda (3:32)
-8. Biotech Is Godzilla (1:52)
-9. Nomad (4:58)
-10. We Who Are Not As Others (3:42)
-11. Manifest (4:46)
-12. The Hunt (3:59)
-13. Clenched Fist (4:57)
-14. Bonus Tracks
-15. Chaos B.C. (5:12)
-16. Symptom Of The Universe (Black Sabbath Cover) (4:15)
-17. Inhuman Nature (3:08)
-18. Policia (1:46)
-19. Crucificados Pelo Sistema (1:04)
-20. Propaganda (Instrumental Writing Session) (1:52)
-21. Clenched Fist (Instrumental Writing Session Ver. 2) (2:52)
-22. Refuse/Resist (Live) (3:50)
-23. Slave New World (Live) (3:06)
-24. Propaganda (Live) (3:25)
-25. Kaiowas (Live) (2:18)
-26. Clenched Fist (Live) (3:38)
-27. Biotech Is Godzilla (Live) (2:08)
-28. Territory (Live) (4:48)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Chaos A.D. (2017 Remaster) |  |
+| A1 | Refuse/Resist | 3:19 |
+| A2 | Territory | 4:47 |
+| A3 | Slave New World | 2:54 |
+| A4 | Amen | 4:27 |
+| A5 | Kaiowas | 3:43 |
+| A6 | Propaganda | 3:32 |
+| B1 | Biotech Is Godzilla | 1:52 |
+| B2 | Nomad | 4:58 |
+| B3 | We Who Are Not As Others | 3:42 |
+| B4 | Manifest | 4:46 |
+| B5 | The Hunt | 3:59 |
+| B6 | Clenched Fist | 4:57 |
+|  | Bonus Tracks |  |
+| C1 | Chaos B.C. | 5:12 |
+| C2 | Symptom Of The Universe (Black Sabbath Cover) | 4:15 |
+| C3 | Inhuman Nature | 3:08 |
+| C4 | Policia | 1:46 |
+| C5 | Crucificados Pelo Sistema | 1:04 |
+| C6 | Propaganda (Instrumental Writing Session) | 1:52 |
+| C7 | Clenched Fist (Instrumental Writing Session Ver. 2) | 2:52 |
+| D1 | Refuse/Resist (Live) | 3:50 |
+| D2 | Slave New World (Live) | 3:06 |
+| D3 | Propaganda (Live) | 3:25 |
+| D4 | Kaiowas (Live) | 2:18 |
+| D5 | Clenched Fist (Live) | 3:38 |
+| D6 | Biotech Is Godzilla (Live) | 2:08 |
+| D7 | Territory (Live) | 4:48 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/chaos-a-d/214479827" >}}<br>
 
 
-## Videos
-### Sepultura - RefuseResist OFFICIAL VIDEO
-{{< youtube id="6ODNxy3YOPU" title="Sepultura - RefuseResist OFFICIAL VIDEO" >}}<br>
-### More Videos
-
-- [Sepultura - Territory OFFICIAL VIDEO](https://www.youtube.com/watch?v=Q_WHGV5bejk)
-- [Sepultura - Slave New World OFFICIAL VIDEO](https://www.youtube.com/watch?v=0K4J90s1A2M)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +80,5 @@ styles: ["Thrash", "Death Metal"]
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold 180gr) |
 | Label          | Roadrunner Records |
 | Catalog Number | 081227934248 |
-| Notes | Newly remastered on 180gr vinyls. The second and bonus LP contains rare and unreleased demos, cover versions and live tracks. Comes in gatefold sleeve with lyrics and plain white lined inner sleeves.  LP2 - Side D: Live In Minneapolis (1994) |
+| Notes | Newly remastered on 180gr vinyls.<br>The second and bonus LP contains rare and unreleased demos, cover versions and live tracks.<br>Comes in gatefold sleeve with lyrics and plain white lined inner sleeves.<br><br>LP2 - Side D: Live In Minneapolis (1994) |
 | Discogs URL    | [Sepultura - Chaos A.D.](https://www.discogs.com/release/10997064-Sepultura-Chaos-AD) |

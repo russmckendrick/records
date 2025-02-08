@@ -36,36 +36,25 @@ And on <i>Separation Sunday</i>, the band is doing some boundary-bending work of
 
 
 ## Tracklisting
-1. Hornets! Hornets! (4:48)
-2. Cattle And The Creeping Things  (3:47)
-3. Your Little Hoodrat Friend (3:54)
-4. Banging Camp  (4:16)
-5. Charlemagne In Sweatpants (3:59)
-6. Stevie Nix (5:28)
-7. Multitude Of Casualties (3:06)
-8. Don't Let Me Explode (2:23)
-9. Chicago Seemed Tired Last Night (3:20)
-10. Crucifixion Cruise (1:51)
-11. How A Resurrection Really Feels (5:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hornets! Hornets! | 4:48 |
+| A2 | Cattle And The Creeping Things  | 3:47 |
+| A3 | Your Little Hoodrat Friend | 3:54 |
+| A4 | Banging Camp  | 4:16 |
+| A5 | Charlemagne In Sweatpants | 3:59 |
+| B1 | Stevie Nix | 5:28 |
+| B2 | Multitude Of Casualties | 3:06 |
+| B3 | Don't Let Me Explode | 2:23 |
+| B4 | Chicago Seemed Tired Last Night | 3:20 |
+| B5 | Crucifixion Cruise | 1:51 |
+| B6 | How A Resurrection Really Feels | 5:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/separation-sunday/58623804" >}}<br>
 
 
-## Videos
-### The Hold Steady - How a Resurrection Really Feels
-{{< youtube id="PFiiq2sFD7E" title="The Hold Steady - How a Resurrection Really Feels" >}}<br>
-### More Videos
-
-- [Stevie Nix](https://www.youtube.com/watch?v=IapupJ1gf9I)
-- [The Hold Steady - Cattle and the Creeping Things](https://www.youtube.com/watch?v=vH73KPV11hE)
-- [Charlemagne in Sweatpants](https://www.youtube.com/watch?v=a1Garm5R3nU)
-- [How a Resurrection Really Feels](https://www.youtube.com/watch?v=OYI4Xj-l1rk)
-- [The Most Important Thing](https://www.youtube.com/watch?v=Df29NhNhANA)
-- [Dont Let Me Explode](https://www.youtube.com/watch?v=94PUqP4yVzc)
-- [Banging Camp](https://www.youtube.com/watch?v=Ie-_fcvmfrM)
-- [Hornets Hornets](https://www.youtube.com/watch?v=zi9FCw5FK60)
-- [Multitude of Casualties](https://www.youtube.com/watch?v=Q9WQoOBrq_g)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +66,5 @@ And on <i>Separation Sunday</i>, the band is doing some boundary-bending work of
 | Format         | Vinyl LP Reissue Remastered (White) |
 | Label          | Frenchkiss Records |
 | Catalog Number | FKR087-1 |
-| Notes | Repress on white vinyl. Comes with download card with B-sides and bonus tracks  ©&℗ 2016 Frenchkiss Records.  |
+| Notes | Repress on white vinyl. Comes with download card with B-sides and bonus tracks<br><br>©&℗ 2016 Frenchkiss Records.  |
 | Discogs URL    | [The Hold Steady - Separation Sunday](https://www.discogs.com/release/9314471-The-Hold-Steady-Separation-Sunday) |

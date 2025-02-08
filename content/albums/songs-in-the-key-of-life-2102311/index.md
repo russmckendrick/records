@@ -40,32 +40,34 @@ The album won Album of the Year at the 19th Grammy Awards and is the best-sellin
 
 
 ## Tracklisting
-1. Love's In Need Of Love Today (7:05)
-2. Have A Talk With God (2:42)
-3. Village Ghetto Land (3:25)
-4. Contusion (3:45)
-5. Sir Duke (3:52)
-6. I Wish (4:12)
-7. Knocks Me Off My Feet (3:35)
-8. Pastime Paradise (3:20)
-9. Summer Soft (4:16)
-10. Ordinary Pain (6:22)
-11. Isn't She Lovely (6:33)
-12. Joy Inside My Tears (6:29)
-13. Black Man (8:29)
-14. Ngiculela - Es Una Historia - I Am Singing (3:48)
-15. If It's Magic (3:11)
-16. As (7:07)
-17. Another Star (8:19)
-18. A Something's Extra Bonus Record
-19. Saturn (4:54)
-20. Ebony Eyes (4:10)
-21. All Day Sucker (5:06)
-22. Easy Goin' Evening (My Mama's Call) (3:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Love's In Need Of Love Today | 7:05 |
+| A2 | Have A Talk With God | 2:42 |
+| A3 | Village Ghetto Land | 3:25 |
+| A4 | Contusion | 3:45 |
+| A5 | Sir Duke | 3:52 |
+| B1 | I Wish | 4:12 |
+| B2 | Knocks Me Off My Feet | 3:35 |
+| B3 | Pastime Paradise | 3:20 |
+| B4 | Summer Soft | 4:16 |
+| B5 | Ordinary Pain | 6:22 |
+| C1 | Isn't She Lovely | 6:33 |
+| C2 | Joy Inside My Tears | 6:29 |
+| C3 | Black Man | 8:29 |
+| D1 | Ngiculela - Es Una Historia - I Am Singing | 3:48 |
+| D2 | If It's Magic | 3:11 |
+| D3 | As | 7:07 |
+| D4 | Another Star | 8:19 |
+|  | A Something's Extra Bonus Record |  |
+| E1 | Saturn | 4:54 |
+| E2 | Ebony Eyes | 4:10 |
+| F1 | All Day Sucker | 5:06 |
+| F2 | Easy Goin' Evening (My Mama's Call) | 3:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songs-in-the-key-of-life/1440788438" >}}<br>
-
 
 
 
@@ -79,5 +81,5 @@ The album won Album of the Year at the 19th Grammy Awards and is the best-sellin
 | Format         | Vinyl 2× LP, Vinyl 7" 33 ⅓ RPM EP, All Media Album Stereo (Gatefold) |
 | Label          | Tamla |
 | Catalog Number | T13-340C2 |
-| Notes | Compared to [r10529590] this version has different 7" labels and jacket does not have a die-cut slott   Collector's album includes two LP's, a 7" EP (A Something's Extra for "Songs In The Key Of Life") and 24-page lyric booklet. All records pressed on black vinyl.  Gatefold sleeve has cat. number T13-340C2, labels have T13-00340.  |
+| Notes | Compared to [r10529590] this version has different 7" labels and jacket does not have a die-cut slott <br><br>Collector's album includes two LP's, a 7" EP (A Something's Extra for "Songs In The Key Of Life") and 24-page lyric booklet. All records pressed on black vinyl.<br><br>Gatefold sleeve has cat. number T13-340C2, labels have T13-00340.<br> |
 | Discogs URL    | [Stevie Wonder - Songs In The Key Of Life](https://www.discogs.com/release/2102311-Stevie-Wonder-Songs-In-The-Key-Of-Life) |

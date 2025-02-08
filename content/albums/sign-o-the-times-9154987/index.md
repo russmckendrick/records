@@ -41,50 +41,30 @@ And he was just getting started. <i>Sign O’ The Times</i> also features such c
 
 
 ## Tracklisting
-1. Sign "O" The Times (5:02)
-2. Play In The Sunshine (5:05)
-3. Housequake (4:38)
-4. The Ballad Of Dorothy Parker (4:04)
-5. It (5:10)
-6. Starfish And Coffee (2:51)
-7. Slow Love (4:18)
-8. Hot Thing (5:39)
-9. Forever In My Life (3:38)
-10. U Got The Look (3:58)
-11. If I Was Your Girlfriend (4:54)
-12. Strange Relationship (4:04)
-13. I Could Never Take The Place Of Your Man (6:31)
-14. The Cross (4:46)
-15. It's Gonna Be A Beautiful Night (8:59)
-16. Adore (6:29)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sign "O" The Times | 5:02 |
+| A2 | Play In The Sunshine | 5:05 |
+| A3 | Housequake | 4:38 |
+| A4 | The Ballad Of Dorothy Parker | 4:04 |
+| B1 | It | 5:10 |
+| B2 | Starfish And Coffee | 2:51 |
+| B3 | Slow Love | 4:18 |
+| B4 | Hot Thing | 5:39 |
+| B5 | Forever In My Life | 3:38 |
+| C1 | U Got The Look | 3:58 |
+| C2 | If I Was Your Girlfriend | 4:54 |
+| C3 | Strange Relationship | 4:04 |
+| C4 | I Could Never Take The Place Of Your Man | 6:31 |
+| D1 | The Cross | 4:46 |
+| D2 | It's Gonna Be A Beautiful Night | 8:59 |
+| D3 | Adore | 6:29 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sign-o-the-times/212852926" >}}<br>
 
 
-## Videos
-### Prince - Sign O The Times Official Music Video
-{{< youtube id="8EdxM72EZ94" title="Prince - Sign O The Times Official Music Video" >}}<br>
-### More Videos
-
-- [Sign O the Times](https://www.youtube.com/watch?v=TQi7v-mJtcs)
-- [Prince - Sign O The Times Live 1987](https://www.youtube.com/watch?v=eWmnc7oapaE)
-- [Prince - Sign O The Times](https://www.youtube.com/watch?v=EVolCHbpk34)
-- [Prince - Sign o the Times](https://www.youtube.com/watch?v=xkB1y189tJo)
-- [Claus dem Wohnzimmer 34 TIME](https://www.youtube.com/watch?v=7o9VSmqAB0Y)
-- [Sign O The Times Edit - 2020 Remaster](https://www.youtube.com/watch?v=2MsWSe3fAvI)
-- [Prince - Sign O the Times  2004 Induction](https://www.youtube.com/watch?v=kl7H4mPmvBI)
-- [Prince Sign o the Times](https://www.youtube.com/watch?v=ACf9uCXgeus)
-- [Prince - Sign O the Times](https://www.youtube.com/watch?v=aEBtFOjTEtw)
-- [PRINCE - Sign O The Times  Play In The Sunshine 1987 MTV VMA](https://www.youtube.com/watch?v=98dX8CTJw20)
-- [Prince - If I Was Your Girlfriend Sign O The Times Concert Film 1987](https://www.youtube.com/watch?v=8I3BxMmICIg)
-- [Prince - Sign O The Times LIVE at Paisley Park 12-31-1987](https://www.youtube.com/watch?v=N8WcK0ens3U)
-- [Prince - Sign O The Times 1987 - The Facts You DIDNT Know](https://www.youtube.com/watch?v=KhpY-aNw064)
-- [Prince - Hot Thing Sign O The Times Concert Film](https://www.youtube.com/watch?v=uYKXIFRiiR0)
-- [Muse  Sign O The Times Prince cover](https://www.youtube.com/watch?v=OZOrIHeEN3s)
-- [Prince - The Cross Live  Sign o the Times 1987](https://www.youtube.com/watch?v=8NnqOfW_klg)
-- [Prince - U Got The Look Official Music Video](https://www.youtube.com/watch?v=_jCuroTbqBI)
-- [Prince Sign o the Times 1987 Full Concert](https://www.youtube.com/watch?v=NynGt0azJ9s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -95,5 +75,5 @@ And he was just getting started. <i>Sign O’ The Times</i> also features such c
 | Format         | Vinyl 2× LP Album Reissue (140 gram) |
 | Label          | Paisley Park |
 | Catalog Number | 7599-25577-1 |
-| Notes | Heart-shaped hype sticker: Manufactured in the E.U.  Labels: Manufactured in the Netherlands.  The 'Lyrics Co-written By' credit for "Slow Love" (track B3) is printed on the label as "Carol Davis" and on the (black) dust sleeve "Carole Raphaell Davis" [sic. read Carole Raphaelle Davis]. On previously released editions it's sometimes opposite or release wide "Carol Davis" only.  Created & mixed at Paisley Park, Sunset Sound and Dierks Studio Mobile Trucks.  [a32411] appears courtesy of [l63404]  Runout strings are etched except for Record Industry identifiers which are stamped.  |
+| Notes | Heart-shaped hype sticker:<br>Manufactured in the E.U.<br><br>Labels:<br>Manufactured in the Netherlands.<br><br>The 'Lyrics Co-written By' credit for "Slow Love" (track B3) is printed on the label as "Carol Davis" and on the (black) dust sleeve "Carole Raphaell Davis" [sic. read Carole Raphaelle Davis]. On previously released editions it's sometimes opposite or release wide "Carol Davis" only.<br><br>Created & mixed at Paisley Park, Sunset Sound and Dierks Studio Mobile Trucks.<br><br>[a32411] appears courtesy of [l63404]<br><br>Runout strings are etched except for Record Industry identifiers which are stamped.<br> |
 | Discogs URL    | [Prince - Sign "O" The Times](https://www.discogs.com/release/9154987-Prince-Sign-O-The-Times) |

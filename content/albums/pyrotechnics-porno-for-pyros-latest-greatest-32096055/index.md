@@ -4,6 +4,7 @@ artist_name: "Porno For Pyros"
 artist: "porno-for-pyros"
 album_name: "Pyrotechnics: Porno For Pyros' Latest & Greatest"
 date: 2024-12-14T02:30:32.000000Z
+release_date: "2024-11-15"
 release_id: "32096055"
 slug: "pyrotechnics-porno-for-pyros-latest-greatest-32096055"
 hideSummary: true
@@ -23,22 +24,27 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Pets (3:36)
-2. Fingernail (4:34)
-3. 100 Ways (3:42)
-4. Pete's Dad (4:12)
-5. Cursed Female (3:25)
-6. Tahitian Moon (3:47)
-7. Little Me (3:11)
-8. Satellite of Love (3:43)
-9. Agua (3:50)
-10. Pets (Daniel Avery Remix) (4:43)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Pets | 3:36 |
+| A2 | Fingernail | 4:34 |
+| A3 | 100 Ways | 3:42 |
+| A4 | Pete's Dad | 4:12 |
+| A5 | Cursed Female | 3:25 |
+| B1 | Tahitian Moon | 3:47 |
+| B2 | Little Me | 3:11 |
+| B3 | Satellite of Love | 3:43 |
+| B4 | Agua | 3:50 |
+| B5 | Pets (Daniel Avery Remix) | 4:43 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pyrotechnics-porno-for-pyros-latest-greatest/1778275719" >}}<br>
-
 
 
 
@@ -51,5 +57,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Compilation Limited Edition (Clear w/Orange Splatter) |
 | Label          | Warner |
 | Catalog Number | RCV1 726712 |
-| Notes | Rhino’s Rocktober 2024 Limited Edition of 5,700 copies pressed on Clear with Orange Splatter Vinyl  Alternative Luminaries Porno For Pyros’ First-Ever Greatest Hits Collection.  Reflecting on one of the wildest creative journeys in music history, alternative rock luminaries Porno For Pyros excitedly present their first-ever greatest hits collection, Pyrotechnics: Porno For Pyros’ Latest & Greatest, out exclusively on vinyl, October 25. Limited to only 5,700 copies, the record will be pressed on special 1-LP clear vinyl with orange splatter and new artwork. Speaking to every era of the band, Pyrotechnics notably collates classic songs alongside new material.  The iconic collective—Perry Farrell [vocals] and Stephen Perkins [drums] of Jane’s Addiction alongside Peter DiStefano [guitar], Martyn Lenoble [bass], and additional bassist Mike Watt—have outfitted this body of work with signature staple anthems a la “Pets” and “Tahitian Moon.” They expanded the set with three recent reunion recordings: “Fingernail,” “Little Me,” and “Agua.” The latter suite of songs notably marked the group’s first music since 1997. Plus, Pyrotechnics also features a brand new Remix of the hit “Pets” by Daniel Avery and a cover of the Lou Reed classic “Satellite of Love." |
+| Notes | Rhino’s Rocktober 2024<br>Limited Edition of 5,700 copies pressed on Clear with Orange Splatter Vinyl<br><br>Alternative Luminaries Porno For Pyros’ First-Ever Greatest Hits Collection.<br><br>Reflecting on one of the wildest creative journeys in music history, alternative rock luminaries Porno For Pyros excitedly present their first-ever greatest hits collection, Pyrotechnics: Porno For Pyros’ Latest & Greatest, out exclusively on vinyl, October 25. Limited to only 5,700 copies, the record will be pressed on special 1-LP clear vinyl with orange splatter and new artwork. Speaking to every era of the band, Pyrotechnics notably collates classic songs alongside new material.<br><br>The iconic collective—Perry Farrell [vocals] and Stephen Perkins [drums] of Jane’s Addiction alongside Peter DiStefano [guitar], Martyn Lenoble [bass], and additional bassist Mike Watt—have outfitted this body of work with signature staple anthems a la “Pets” and “Tahitian Moon.” They expanded the set with three recent reunion recordings: “Fingernail,” “Little Me,” and “Agua.” The latter suite of songs notably marked the group’s first music since 1997. Plus, Pyrotechnics also features a brand new Remix of the hit “Pets” by Daniel Avery and a cover of the Lou Reed classic “Satellite of Love." |
 | Discogs URL    | [Porno For Pyros - Pyrotechnics: Porno For Pyros' Latest & Greatest](https://www.discogs.com/release/32096055-Porno-For-Pyros-Pyrotechnics-Porno-For-Pyros-Latest-Greatest) |

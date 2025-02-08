@@ -4,6 +4,7 @@ artist_name: "Split Enz"
 artist: "split-enz"
 album_name: "True Colours"
 date: 2020-08-22T13:04:32.000000Z
+release_date: "1980-06-25"
 release_id: "15700504"
 slug: "true-colours-15700504"
 hideSummary: true
@@ -24,38 +25,31 @@ styles: ["Pop Rock"]
 ---
 
 True Colours is the sixth studio album released by New Zealand band Split Enz, and was their first major commercial success. Released on 21 January 1980, the album featured more pronounced contributions from co-lead singer and songwriter Neil Finn than previous releases. The album's New Zealand and Australian number 1 single, "I Got You", which also broke them internationally, is credited to him. The US release of the album featured "Shark Attack" and "I Got You" in reversed positions due to the latter's success on the single charts.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Shark Attack
-2. I Got You
-3. What's The Matter With You
-4. Doublehappy
-5. I Wouldn't Dream Of It
-6. I Hope I Never
-7. Nobody Takes Me Seriously Anyway
-8. Missing Person
-9. Poor Boy
-10. How Can I Resist Her
-11. The Choral Sea
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Shark Attack |  |
+| A2 | I Got You |  |
+| A3 | What's The Matter With You |  |
+| A4 | Doublehappy |  |
+| A5 | I Wouldn't Dream Of It |  |
+| A6 | I Hope I Never |  |
+| B1 | Nobody Takes Me Seriously Anyway |  |
+| B2 | Missing Person |  |
+| B3 | Poor Boy |  |
+| B4 | How Can I Resist Her |  |
+| B5 | The Choral Sea |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/true-colours/1494504041" >}}<br>
 
 
-## Videos
-### split enz - the choral sea
-{{< youtube id="8-jVOHQLRF0" title="split enz - the choral sea" >}}<br>
-### More Videos
-
-- [Split Enz - Shark Attack Official Video](https://www.youtube.com/watch?v=jIPlnvR1c6M)
-- [Split Enz - I Got You Official Video](https://www.youtube.com/watch?v=wiqBlKnb91A)
-- [Split Enz - I Hope I Never Official Video](https://www.youtube.com/watch?v=Pu98BS7UkHM)
-- [Split Enz - I Got You 1980](https://www.youtube.com/watch?v=YmQlBfxh4Us)
-- [Split Enz - I Got You 1980](https://www.youtube.com/watch?v=YmQlBfxh4Us)
-- [Split Enz - Nobody Takes Me Seriously](https://www.youtube.com/watch?v=gkk5kZxe_ks)
 
 ## Release Images
 {{< imageGrid >}}

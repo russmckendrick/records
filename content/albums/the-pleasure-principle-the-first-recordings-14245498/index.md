@@ -4,6 +4,7 @@ artist_name: "Gary Numan"
 artist: "gary-numan"
 album_name: "The Pleasure Principle (The First Recordings)"
 date: 2019-10-11T14:37:07.000000Z
+release_date: "1979-09-07"
 release_id: "14245498"
 slug: "the-pleasure-principle-the-first-recordings-14245498"
 hideSummary: true
@@ -20,80 +21,40 @@ styles: ["New Wave", "Synth-pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Cars (Demo Version 2)
-2. Films (Demo Version)
-3. Complex (Demo Version)
-4. Random (Remastered 2009)
-5. M.E. (Demo Version)
-6. Conversation (Demo Version 2)
-7. Tracks (Demo Version)
-8. Cars (Demo Version 1)
-9. Metal (Demo Version)
-10. Airlane (Demo Version)
-11. Trois Gymnopédies No. 1 (Demo Version)
-12. Observer (Demo Version)
-13. Conversation (Demo Version 1)
-14. Engineers (Demo Version)
-15. Asylum (Remastered 2009)
-16. Oceans (Remastered 2009)
-17. Photograph (Remastered 2009)
-18. Airlane (BBC Peel Session)
-19. Cars (BBC Peel Session)
-20. Films (BBC Peel Session)
-21. Conversation (BBC Peel Session)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cars (Demo Version 2) |  |
+| A2 | Films (Demo Version) |  |
+| A3 | Complex (Demo Version) |  |
+| A4 | Random (Remastered 2009) |  |
+| A5 | M.E. (Demo Version) |  |
+| B1 | Conversation (Demo Version 2) |  |
+| B2 | Tracks (Demo Version) |  |
+| B3 | Cars (Demo Version 1) |  |
+| B4 | Metal (Demo Version) |  |
+| B5 | Airlane (Demo Version) |  |
+| C1 | Trois Gymnopédies No. 1 (Demo Version) |  |
+| C2 | Observer (Demo Version) |  |
+| C3 | Conversation (Demo Version 1) |  |
+| C4 | Engineers (Demo Version) |  |
+| C5 | Asylum (Remastered 2009) |  |
+| C6 | Oceans (Remastered 2009) |  |
+| C7  | Photograph (Remastered 2009) |  |
+| D1 | Airlane (BBC Peel Session) |  |
+| D2 | Cars (BBC Peel Session) |  |
+| D3 | Films (BBC Peel Session) |  |
+| D4 | Conversation (BBC Peel Session) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-pleasure-principle-the-first-recordings/1481785089" >}}<br>
 
 
-## Videos
-### Cars Demo Version 2
-{{< youtube id="K83As_YKLac" title="Cars Demo Version 2" >}}<br>
-### More Videos
-
-- [Films Demo Version](https://www.youtube.com/watch?v=wYx3h9OU_3E)
-- [Complex Demo Version](https://www.youtube.com/watch?v=dyEQKqfvlYY)
-- [Random Remastered 2009](https://www.youtube.com/watch?v=3mS8UDnCV9c)
-- [ME Demo Version](https://www.youtube.com/watch?v=f5yTcaVp6aY)
-- [Conversation Demo Version 2](https://www.youtube.com/watch?v=Ioh3mW8QiLY)
-- [Tracks Demo Version](https://www.youtube.com/watch?v=HkActdf6YlA)
-- [Cars Demo Version 1](https://www.youtube.com/watch?v=Pb0vszG30w8)
-- [Metal Demo Version](https://www.youtube.com/watch?v=QGlHkBX8zrM)
-- [Airlane Demo Version](https://www.youtube.com/watch?v=tFVNCk3iSMI)
-- [Trois Gymnopédies No 1 Demo](https://www.youtube.com/watch?v=JOqmZTLdiRE)
-- [Observer Demo Version](https://www.youtube.com/watch?v=DfTcsA6ODSc)
-- [Conversation Demo Version 1](https://www.youtube.com/watch?v=0WopKc6gn9c)
-- [Engineers Demo Version](https://www.youtube.com/watch?v=2TGVDG7Fwr0)
-- [Asylum Remastered 2009](https://www.youtube.com/watch?v=3mXwBYCquJE)
-- [Oceans Remastered 2009](https://www.youtube.com/watch?v=f-8xdxb4doI)
-- [Photograph Remastered 2009](https://www.youtube.com/watch?v=PHsMiqbVBGs)
-- [Airlane BBC Peel Sessions](https://www.youtube.com/watch?v=7cdMAMZ-WCQ)
-- [Cars BBC Peel Sessions](https://www.youtube.com/watch?v=QlbqoVZiLkA)
-- [Films BBC Peel Sessions](https://www.youtube.com/watch?v=m4T0s5OhxiQ)
-- [Conversation BBC Peel Sessions](https://www.youtube.com/watch?v=NOE_Q0IEO0Y)
-- [Cars Demo Version 2](https://www.youtube.com/watch?v=K83As_YKLac)
-- [Films Demo Version](https://www.youtube.com/watch?v=wYx3h9OU_3E)
-- [Complex Demo Version](https://www.youtube.com/watch?v=dyEQKqfvlYY)
-- [Random Remastered 2009](https://www.youtube.com/watch?v=3mS8UDnCV9c)
-- [ME Demo Version](https://www.youtube.com/watch?v=f5yTcaVp6aY)
-- [Conversation Demo Version 2](https://www.youtube.com/watch?v=Ioh3mW8QiLY)
-- [Tracks Demo Version](https://www.youtube.com/watch?v=HkActdf6YlA)
-- [Cars Demo Version 1](https://www.youtube.com/watch?v=Pb0vszG30w8)
-- [Metal Demo Version](https://www.youtube.com/watch?v=QGlHkBX8zrM)
-- [Airlane Demo Version](https://www.youtube.com/watch?v=tFVNCk3iSMI)
-- [Trois Gymnopédies No 1 Demo](https://www.youtube.com/watch?v=JOqmZTLdiRE)
-- [Observer Demo Version](https://www.youtube.com/watch?v=DfTcsA6ODSc)
-- [Conversation Demo Version 1](https://www.youtube.com/watch?v=0WopKc6gn9c)
-- [Engineers Demo Version](https://www.youtube.com/watch?v=2TGVDG7Fwr0)
-- [Asylum Remastered 2009](https://www.youtube.com/watch?v=3mXwBYCquJE)
-- [Oceans Remastered 2009](https://www.youtube.com/watch?v=f-8xdxb4doI)
-- [Photograph Remastered 2009](https://www.youtube.com/watch?v=PHsMiqbVBGs)
-- [Airlane BBC Peel Sessions](https://www.youtube.com/watch?v=7cdMAMZ-WCQ)
-- [Cars BBC Peel Sessions](https://www.youtube.com/watch?v=QlbqoVZiLkA)
-- [Films BBC Peel Sessions](https://www.youtube.com/watch?v=m4T0s5OhxiQ)
-- [Conversation BBC Peel Sessions](https://www.youtube.com/watch?v=NOE_Q0IEO0Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -104,5 +65,5 @@ styles: ["New Wave", "Synth-pop"]
 | Format         | Vinyl 2× LP Compilation Stereo (Orange) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQ2158LP |
-| Notes | 40th Anniversary Edition.  Demos. Early Versions. Outtakes. BBC Session Tracks. Two previously unreleased tracks.   Orange vinyl. Cut out sleeve.   ℗ & © 2019 Beggars Banquet, The Arkive.  Side One / Two / Three Recorded at Freerange Recording Studios London. Side Four Recorded at BBC Maida Vale Studios London.   |
+| Notes | 40th Anniversary Edition.<br><br>Demos. Early Versions. Outtakes. BBC Session Tracks. Two previously unreleased tracks. <br><br>Orange vinyl. Cut out sleeve. <br><br>℗ & © 2019 Beggars Banquet, The Arkive.<br><br>Side One / Two / Three Recorded at Freerange Recording Studios London.<br>Side Four Recorded at BBC Maida Vale Studios London.<br><br> |
 | Discogs URL    | [Gary Numan - The Pleasure Principle (The First Recordings)](https://www.discogs.com/release/14245498-Gary-Numan-The-Pleasure-Principle-The-First-Recordings) |

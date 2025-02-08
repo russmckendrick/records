@@ -4,6 +4,7 @@ artist_name: "Terry Riley"
 artist: "terry-riley"
 album_name: "A Rainbow In Curved Air"
 date: 2022-03-06T05:03:53.000000Z
+release_date: "1969"
 release_id: "130654"
 slug: "a-rainbow-in-curved-air-130654"
 hideSummary: true
@@ -24,27 +25,22 @@ styles: ["Minimal", "Ambient"]
 
 A Rainbow in Curved Air is the third album by American composer Terry Riley, released in 1969 on CBS Records. The title track consists of Riley's overdubbed improvisations on several keyboard and percussion instruments, including electric organ, electric harpsichord, dumbec, and tambourine. The B-side "Poppy Nogood and the Phantom Band" is a saxophone-based drone piece featuring tape loops and edits, drawing on Riley's all-night improvisatory performances in the 1960s.
 Riley's record deal with CBS was part of "Music of Our Time," a short-lived album series on American experimental music helmed by CBS employee David Behrman, who also facilitated the release of Riley's 1968 album In C; these two were the most successful LPs in the series. The album subsequently influenced a number of rock and electronic productions.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. A Rainbow In Curved Air (18:40)
-2. Poppy Nogood And The Phantom Band (21:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | A Rainbow In Curved Air | 18:40 |
+| B | Poppy Nogood And The Phantom Band | 21:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/riley-a-rainbow-in-curved-air/1755233999" >}}<br>
 
 
-## Videos
-### A Rainbow in the Curved Air Instrumental
-{{< youtube id="eKg_R1W94G0" title="A Rainbow in the Curved Air Instrumental" >}}<br>
-### More Videos
-
-- [Poppy Nogood and the Phantom Band Instrumental](https://www.youtube.com/watch?v=ooxgptB19mQ)
-- [Terry Riley A Rainbow In Curved Air 432Hz 1969 Poppy Nogood And The Phantom Band](https://www.youtube.com/watch?v=B8cHjxFoT0M)
-- [Terry Riley - A Rainbow in Curved Air](https://www.youtube.com/watch?v=5PNbEfLIEDs)
-- [Poppy Nogood and the Phantom Band](https://www.youtube.com/watch?v=TsvzYH_PtKU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,5 +52,5 @@ Riley's record deal with CBS was part of "Music of Our Time," a short-lived albu
 | Format         | Vinyl LP Album Stereo |
 | Label          | CBS |
 | Catalog Number | S 64564 |
-| Notes | This version has the ORANGE CBS label with cat# S 64564 (MS 7315) on it, while the cover (front- rear- & spine) just shows 64564.  B-side track misspelled as "Popply Nogood And The Phantom Band". This was corrected for later editions.    The spatially separated mirror images were adapted for studio recording and resemble the sound Terry gets in his all-night concerts.  Wording on rear: And then all wars ended / Arms of every kind were outlawed and the masses gladly contributed them to giant foundries in which they were melted down and the metal poured back into the earth / The Pentagon was turned on its side and painted purple, yellow & green / All boundaries were dissolved / The slaughter of animals was forbidden / The whole of Lower Manhattan became a meadow in which unfortunates from the Bowery were allowed to live out their fantasies in the sunshine and were cured / People swam in the sparkling rivers under blue skies streaked only with incense pouring from the new factories / The energy from dismantled nuclear weapons provided free heat and light / World health was restored / An abundance of organic vegetables, fruits and grains was growing wild along the discarded highways / National flags were sewn together into brightly colored circus tents under which politicians were allowed to perform harmless theatrical games / The concept of work was forgotten  |
+| Notes | This version has the ORANGE CBS label with cat# S 64564 (MS 7315) on it, while the cover (front- rear- & spine) just shows 64564.<br><br>B-side track misspelled as "Popply Nogood And The Phantom Band". This was corrected for later editions.<br>  <br>The spatially separated mirror images were adapted for studio recording and resemble the sound Terry gets in his all-night concerts.<br><br>Wording on rear:<br>And then all wars ended / Arms of every kind were outlawed and the masses gladly contributed them to giant foundries in which they were melted down and the metal poured back into the earth / The Pentagon was turned on its side and painted purple, yellow & green / All boundaries were dissolved / The slaughter of animals was forbidden / The whole of Lower Manhattan became a meadow in which unfortunates from the Bowery were allowed to live out their fantasies in the sunshine and were cured / People swam in the sparkling rivers under blue skies streaked only with incense pouring from the new factories / The energy from dismantled nuclear weapons provided free heat and light / World health was restored / An abundance of organic vegetables, fruits and grains was growing wild along the discarded highways / National flags were sewn together into brightly colored circus tents under which politicians were allowed to perform harmless theatrical games / The concept of work was forgotten<br> |
 | Discogs URL    | [Terry Riley - A Rainbow In Curved Air](https://www.discogs.com/release/130654-Terry-Riley-A-Rainbow-In-Curved-Air) |

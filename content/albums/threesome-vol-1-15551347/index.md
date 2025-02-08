@@ -4,6 +4,7 @@ artist_name: "The Lickerish Quartet"
 artist: "the-lickerish-quartet"
 album_name: "Threesome Vol. 1"
 date: 2020-08-23T21:16:06.000000Z
+release_date: "2020-05-15"
 release_id: "15551347"
 slug: "threesome-vol-1-15551347"
 hideSummary: true
@@ -32,29 +33,27 @@ styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Fadoodle
-2. Bluebird's Blues
-3. There Is A Magic Number
-4. Lighthouse Spaceship
-5. Fadoodle (Bonus Instrumental Version)
-6. Bluebird's Blues (Bonus Instrumental Version)
-7. There Is A Magic Number (Bonus Instrumental Version)
-8. Lighthouse Spaceship (Bonus Instrumental Version)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fadoodle |  |
+| A2 | Bluebird's Blues |  |
+| A3 | There Is A Magic Number |  |
+| A4 | Lighthouse Spaceship |  |
+| B1 | Fadoodle (Bonus Instrumental Version) |  |
+| B2 | Bluebird's Blues (Bonus Instrumental Version) |  |
+| B3 | There Is A Magic Number (Bonus Instrumental Version) |  |
+| B4 | Lighthouse Spaceship (Bonus Instrumental Version) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/threesome-vol-1-ep/1503092920" >}}<br>
 
 
-## Videos
-### The Lickerish Quartet - Fadoodle Lyric Video Mono Mix
-{{< youtube id="ImYKSTJsf-Q" title="The Lickerish Quartet - Fadoodle Lyric Video Mono Mix" >}}<br>
-### More Videos
-
-- [The Lickerish Quartet - Bluebirds Blues Tuneling Video](https://www.youtube.com/watch?v=301_ImeJu5A)
-- [There Is a Magic Number](https://www.youtube.com/watch?v=idfAFwmsmDg)
-- [The Lickerish Quartet - Lighthouse Spaceship Lyric Video](https://www.youtube.com/watch?v=aZM8CQxnOPQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +64,5 @@ styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 | Format         | Vinyl 12" 33 ⅓ RPM EP Remastered Stereo (Random Color) |
 | Label          | Label Logic |
 | Catalog Number | none |
-| Notes | "Bonus Instrumental Version" per each Side B track title, printed on the reverse of the EP cover - "Instrumental Version" printed on the label on Side B.  According to album release website, "The color of vinyl you receive will be randomly chosen".  B-side instrumental versions unique to the vinyl edition. No catalog number, no text on spine. Includes printed inner sleeve. |
+| Notes | "Bonus Instrumental Version" per each Side B track title, printed on the reverse of the EP cover - "Instrumental Version" printed on the label on Side B.<br><br>According to album release website, "The color of vinyl you receive will be randomly chosen". <br>B-side instrumental versions unique to the vinyl edition.<br>No catalog number, no text on spine. Includes printed inner sleeve. |
 | Discogs URL    | [The Lickerish Quartet - Threesome Vol. 1](https://www.discogs.com/release/15551347-The-Lickerish-Quartet-Threesome-Vol-1) |

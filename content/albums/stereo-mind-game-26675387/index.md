@@ -1,7 +1,7 @@
 ---
 title: "Daughter - Stereo Mind Game"
 artist_name: "Daughter"
-artist: "daughter-2"
+artist: "daughter"
 album_name: "Stereo Mind Game"
 date: 2023-04-23T04:35:10.000000Z
 release_date: "2023-04-07"
@@ -75,51 +75,26 @@ IH: “The way the cellos and maybe the piano loop moves from the start of the s
 
 
 ## Tracklisting
-1. Intro
-2. Be On Your Way
-3. Party
-4. Dandelion
-5. Neptune
-6. Swim Back
-7. Junkmail
-8. Future Lover
-9. (Missed Calls)
-10. Isolation
-11. To Rage
-12. Wish I Could Cross The Sea
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Intro |  |
+| A2 | Be On Your Way |  |
+| A3 | Party |  |
+| A4 | Dandelion |  |
+| A5 | Neptune |  |
+| A6 | Swim Back |  |
+| B7 | Junkmail |  |
+| B8 | Future Lover |  |
+| B9 | (Missed Calls) |  |
+| B10 | Isolation |  |
+| B11 | To Rage |  |
+| B12 | Wish I Could Cross The Sea |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stereo-mind-game/1654233350" >}}<br>
 
 
-## Videos
-### Daughter - Intro Official Lyric Video
-{{< youtube id="CLMNIFyjeYw" title="Daughter - Intro Official Lyric Video" >}}<br>
-### More Videos
-
-- [Daughter - Be On Your Way Official Video](https://www.youtube.com/watch?v=6GDzvjRRIkY)
-- [Daughter - Party Official Video](https://www.youtube.com/watch?v=KdgntP7Yp5o)
-- [Daughter - Dandelion Official Lyric Video](https://www.youtube.com/watch?v=eYS7xmjR4Fk)
-- [Daughter - Neptune Official Lyric Video](https://www.youtube.com/watch?v=XMa8MDjcjN0)
-- [Daughter - Swim Back Official Video](https://www.youtube.com/watch?v=MXuYBBjHHiQ)
-- [Daughter - Junkmail Official Lyric Video](https://www.youtube.com/watch?v=ubcE16uf4_Y)
-- [Daughter - Future Lover Official Lyric Video](https://www.youtube.com/watch?v=yyOr8tzmzBM)
-- [Daughter - Missed Calls Official Lyric Video](https://www.youtube.com/watch?v=R02iLK2ku64)
-- [Daughter - Isolation Official Lyric Video](https://www.youtube.com/watch?v=fcbGDyRF5gM)
-- [Daughter - To Rage Official Lyric Video](https://www.youtube.com/watch?v=4O-Jg8Bp67s)
-- [Daughter - Wish I Could Cross The Sea Official Lyric Video](https://www.youtube.com/watch?v=oh7Ptszx-V0)
-- [Daughter - Intro Official Lyric Video](https://www.youtube.com/watch?v=CLMNIFyjeYw)
-- [Daughter - Be On Your Way Official Video](https://www.youtube.com/watch?v=6GDzvjRRIkY)
-- [Daughter - Party Official Video](https://www.youtube.com/watch?v=KdgntP7Yp5o)
-- [Daughter - Dandelion Official Lyric Video](https://www.youtube.com/watch?v=eYS7xmjR4Fk)
-- [Daughter - Neptune Official Lyric Video](https://www.youtube.com/watch?v=XMa8MDjcjN0)
-- [Daughter - Swim Back Official Video](https://www.youtube.com/watch?v=MXuYBBjHHiQ)
-- [Daughter - Junkmail Official Lyric Video](https://www.youtube.com/watch?v=ubcE16uf4_Y)
-- [Daughter - Future Lover Official Lyric Video](https://www.youtube.com/watch?v=yyOr8tzmzBM)
-- [Daughter - Missed Calls Official Lyric Video](https://www.youtube.com/watch?v=R02iLK2ku64)
-- [Daughter - Isolation Official Lyric Video](https://www.youtube.com/watch?v=fcbGDyRF5gM)
-- [Daughter - To Rage Official Lyric Video](https://www.youtube.com/watch?v=4O-Jg8Bp67s)
-- [Daughter - Wish I Could Cross The Sea Official Lyric Video](https://www.youtube.com/watch?v=oh7Ptszx-V0)
 
 ## Release Images
 {{< imageGrid >}}

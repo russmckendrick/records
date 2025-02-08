@@ -4,6 +4,7 @@ artist_name: "Big Big Train"
 artist: "big-big-train"
 album_name: "Grimspound"
 date: 2017-04-29T12:03:10.000000Z
+release_date: "2017-04-28"
 release_id: "10204837"
 slug: "grimspound-10204837"
 hideSummary: true
@@ -24,31 +25,28 @@ In 1893 an archaeological dig was carried out by the Dartmoor Exploration Commit
 The site was designate as a scheduled monument in 1928.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Brave Captain (12:37)
-2. On The Racing Line (5:12)
-3. Experimental Gentlemen: Part 1 Reflectors Of Light Part 2 Merchants Of Light Part 3: The Wonder Of It All (10:01)
-4. Grimspound (6:56)
-5. Meadowland (3:36)
-6. The Ivy Gate (7:27)
-7. As The Crow Flies (6:44)
-8. A Mead Hall In Winter (15:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Brave Captain | 12:37 |
+| A2 | On The Racing Line | 5:12 |
+| B1 | Experimental Gentlemen: Part 1 Reflectors Of Light Part 2 Merchants Of Light Part 3: The Wonder Of It All | 10:01 |
+| B2 | Grimspound | 6:56 |
+| C1 | Meadowland | 3:36 |
+| C2 | The Ivy Gate | 7:27 |
+| C3 | As The Crow Flies | 6:44 |
+| D1 | A Mead Hall In Winter | 15:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/grimspound/1208076126" >}}<br>
 
 
-## Videos
-### Grimspound
-{{< youtube id="Aaf1XDtWVNk" title="Grimspound" >}}<br>
-### More Videos
-
-- [Brave Captain](https://www.youtube.com/watch?v=m8M6KG1e-jU)
-- [A Mead Hall in Winter](https://www.youtube.com/watch?v=52lrA-D7aKA)
 
 ## Release Images
 {{< imageGrid >}}

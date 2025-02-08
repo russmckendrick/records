@@ -32,29 +32,26 @@ This mid-'90s collection lays out New Order's catalogue in all its brilliance (a
 
 
 ## Tracklisting
-1. Can't Afford (6:54)
-2. Looking From A Hilltop (Megamix) (8:09)
-3. Security (5:53)
-4. Reach For Love (5:27)
-5. Love Tempo (7:07)
-6. Fate/Hate (8:08)
-7. Bootsy (Swingfire Mix) (4:16)
-8. ~ (Real Love) (7:22)
-9. The Hunter (Remix) (6:56)
-10. Inside (7:22)
-11. Daggers (Remix) (5:30)
-12. Oh Men (02 Remix) (6:37)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Can't Afford | 6:54 |
+| A2 | Looking From A Hilltop (Megamix) | 8:09 |
+| A3 | Security | 5:53 |
+| B1 | Reach For Love | 5:27 |
+| B2 | Love Tempo | 7:07 |
+| B3 | Fate/Hate | 8:08 |
+| C1 | Bootsy (Swingfire Mix) | 4:16 |
+| C2 | ~ (Real Love) | 7:22 |
+| C3 | The Hunter (Remix) | 6:56 |
+| D1 | Inside | 7:22 |
+| D2 | Daggers (Remix) | 5:30 |
+| D3 | Oh Men (02 Remix) | 6:37 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-new-order/42029668" >}}<br>
 
 
-## Videos
-### Marnie - The Hunter Stephen Morris Remix
-{{< youtube id="WY4rtr44WAQ" title="Marnie - The Hunter Stephen Morris Remix" >}}<br>
-### More Videos
-
-- [Motherland](https://www.youtube.com/watch?v=oS9IUVolNwg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +62,5 @@ This mid-'90s collection lays out New Order's catalogue in all its brilliance (a
 | Format         | Vinyl 2× LP Compilation Remastered |
 | Label          | Factory Benelux |
 | Catalog Number | FBN 60 |
-| Notes | New Order Presents Be Music A collection of tracks produced & remixed by members of New Order between 1982-2015 including classic releases on Factory Records. All tracks digitally remastered in 2016. ℗ + © 2017 Factory Benelux. Printed & manufactured in Belgium. |
+| Notes | New Order Presents Be Music<br>A collection of tracks produced & remixed by members of New Order between 1982-2015 including classic releases on Factory Records. All tracks digitally remastered in 2016.<br>℗ + © 2017 Factory Benelux.<br>Printed & manufactured in Belgium. |
 | Discogs URL    | [New Order - Be Music](https://www.discogs.com/release/9775851-New-Order-Be-Music) |

@@ -4,6 +4,7 @@ artist_name: "Izzy Stradlin And The Ju Ju Hounds"
 artist: "izzy-stradlin-and-the-ju-ju-hounds"
 album_name: "Izzy Stradlin And The Ju Ju Hounds "
 date: 2020-05-13T10:52:36.000000Z
+release_date: "1992-01-01"
 release_id: "8536055"
 slug: "izzy-stradlin-and-the-ju-ju-hounds-8536055"
 hideSummary: true
@@ -28,34 +29,29 @@ styles: ["Hard Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Somebody Knockin' (3:27)
-2. Pressure Drop (2:42)
-3. Time Gone By (3:47)
-4. Shuffle It All (6:19)
-5. Bucket O' Trouble (2:10)
-6. Train Tracks (4:27)
-7. How Will It Go (3:51)
-8. Cuttin' The Rug (5:01)
-9. Take A Look At The Guy (4:43)
-10. Come On Now Inside (3:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Somebody Knockin' | 3:27 |
+| A2 | Pressure Drop | 2:42 |
+| A3 | Time Gone By | 3:47 |
+| A4 | Shuffle It All | 6:19 |
+| A5 | Bucket O' Trouble | 2:10 |
+| B1 | Train Tracks | 4:27 |
+| B2 | How Will It Go | 3:51 |
+| B3 | Cuttin' The Rug | 5:01 |
+| B4 | Take A Look At The Guy | 4:43 |
+| B5 | Come On Now Inside | 3:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/izzy-stradlin-and-the-ju-ju-hounds/1443075882" >}}<br>
 
 
-## Videos
-### Izzy Stradlin And The Ju Ju Hounds  Pressure Drop
-{{< youtube id="Py9ISGt8da8" title="Izzy Stradlin And The Ju Ju Hounds  Pressure Drop" >}}<br>
-### More Videos
-
-- [Izzy Stradlin And The Ju Ju Hounds - Shuffle It All](https://www.youtube.com/watch?v=TKBgbbFaF2U)
-- [Izzy Stradlin  Pressure Drop](https://www.youtube.com/watch?v=CP1ALG-iWCI)
-- [Izzy Stradlin And The Ju Ju Hounds  Somebody Knockin](https://www.youtube.com/watch?v=Th39YEYA-uY)
-- [Izzy Stradlin - How Much](https://www.youtube.com/watch?v=mBw7MbayRes)
-- [Izzy Stradlin And The Ju Ju Hounds    Come On Now Inside](https://www.youtube.com/watch?v=ggljxdB_MBs)
-- [Guns N Roses Izzy Stradlin  Whatever Happened To The Ju Ju Hounds](https://www.youtube.com/watch?v=HJisRE8x_AQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +62,5 @@ styles: ["Hard Rock"]
 | Format         | Vinyl LP Album Reissue |
 | Label          | Geffen Records |
 | Catalog Number | MOVLP1386 |
-| Notes | 180g black vinyl  |
+| Notes | 180g black vinyl<br> |
 | Discogs URL    | [Izzy Stradlin And The Ju Ju Hounds - Izzy Stradlin And The Ju Ju Hounds ](https://www.discogs.com/release/8536055-Izzy-Stradlin-And-The-Ju-Ju-Hounds-Izzy-Stradlin-And-The-Ju-Ju-Hounds-) |

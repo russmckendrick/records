@@ -4,6 +4,7 @@ artist_name: "The Gaslight Anthem"
 artist: "the-gaslight-anthem"
 album_name: "The '59 Sound"
 date: 2015-08-09T08:40:16.000000Z
+release_date: "2008-08-19"
 release_id: "7246420"
 slug: "the-59-sound-7246420"
 hideSummary: true
@@ -29,47 +30,32 @@ styles: ["Alternative Rock", "Punk"]
 The '59 Sound is the second studio album by American punk rock band the Gaslight Anthem, released on August 19, 2008, by record label SideOneDummy.
 In December 2008, eMusic named The '59 Sound the best album of 2008. NME rated it as the 47th best album of the year. The title track was number 62 on Rolling Stone's list of the 100 Best Songs of 2008.
 In July 2009, following Bruce Springsteen's guest appearances with the band at Glastonbury and Hyde Park, sales of the album doubled. In 2018 The Gaslight Anthem released The '59 Sounds Sessions, a companion album to The 59 Sound featuring early versions of songs from the album as well as rarities and b-sides.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Great Expectations
-2. The '59 Sound
-3. Old White Lincoln
-4. High Lonesome
-5. Film Noir
-6. Miles Davis & The Cool
-7. The Patient Ferris Wheel
-8. Casanova, Baby!
-9. Even Cowgirls Get The Blues
-10. Meet Me By The River's Edge
-11. Here's Looking At You Kid
-12. The Backseat
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Great Expectations |  |
+| A2 | The '59 Sound |  |
+| A3 | Old White Lincoln |  |
+| A4 | High Lonesome |  |
+| A5 | Film Noir |  |
+| A6 | Miles Davis & The Cool |  |
+| B7 | The Patient Ferris Wheel |  |
+| B8 | Casanova, Baby! |  |
+| B9 | Even Cowgirls Get The Blues |  |
+| B10 | Meet Me By The River's Edge |  |
+| B11 | Here's Looking At You Kid |  |
+| B12 | The Backseat |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-59-sound/1631014742" >}}<br>
 
 
-## Videos
-### The Gaslight Anthem - The 59 Sound 2008 Full Album
-{{< youtube id="L7XJcQVXtuY" title="The Gaslight Anthem - The 59 Sound 2008 Full Album" >}}<br>
-### More Videos
-
-- [The Gaslight Anthem - The 59 Sound Official Video](https://www.youtube.com/watch?v=G1lq40tR72Q)
-- [Great Expectations](https://www.youtube.com/watch?v=l_Y03cyHJoI)
-- [The 59 Sound](https://www.youtube.com/watch?v=Jp4FWR8ixec)
-- [Old White Lincoln](https://www.youtube.com/watch?v=XTOXCvSaAeA)
-- [High Lonesome](https://www.youtube.com/watch?v=rUvMNJt2wMM)
-- [Film Noir](https://www.youtube.com/watch?v=fWBEALZgsEo)
-- [Miles Davis  The Cool](https://www.youtube.com/watch?v=yUQ39RjdZVY)
-- [The Patient Ferris Wheel](https://www.youtube.com/watch?v=VRGzt3BJA8o)
-- [Casanova Baby](https://www.youtube.com/watch?v=TSuO93n8QVs)
-- [Even Cowgirls Get the Blues](https://www.youtube.com/watch?v=2FTgg-glFc8)
-- [Meet Me By the Rivers Edge](https://www.youtube.com/watch?v=25ozAK8H1qM)
-- [Heres Lookin At You Kid](https://www.youtube.com/watch?v=ISIgklSoPbE)
-- [The Backseat](https://www.youtube.com/watch?v=yEWdR50C8dM)
-- [The Gaslight Anthem - The 59 Sound Official Video](https://www.youtube.com/watch?v=G1lq40tR72Q)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +67,5 @@ In July 2009, following Bruce Springsteen's guest appearances with the band at G
 | Format         | Vinyl LP Limited Edition Reissue Stereo (Blue Transparent) |
 | Label          | SideOneDummy Records |
 | Catalog Number | SD1358-1 |
-| Notes | Made in USA.  Cat# SD1358-1 appears on spine, Cat# SD-1358-2 appears on front cover  First barcode is on a sticker placed on the shrink-wrap, obscuring the barcode printed on the sleeve.  Gatefold sleeve.  Two hype stickers on shrink-wrap: "SideOneDummy Records Celebrating 20 Years" "Limited Edition Colored Vinyl"  Tracks listed sequentially on rear sleeve.  Although there is nothing on the release to indicate anything other than USA as country of manufacture / release, Amazon describe it as "Limited to 1000 (Europe Only)".  In memory of Zach Finch, John Soyack an Travis Connor. |
+| Notes | Made in USA.<br><br>Cat# SD1358-1 appears on spine, Cat# SD-1358-2 appears on front cover<br><br>First barcode is on a sticker placed on the shrink-wrap, obscuring the barcode printed on the sleeve.<br><br>Gatefold sleeve.<br><br>Two hype stickers on shrink-wrap:<br>"SideOneDummy Records Celebrating 20 Years"<br>"Limited Edition Colored Vinyl"<br><br>Tracks listed sequentially on rear sleeve.<br><br>Although there is nothing on the release to indicate anything other than USA as country of manufacture / release, Amazon describe it as "Limited to 1000 (Europe Only)".<br><br>In memory of Zach Finch, John Soyack an Travis Connor. |
 | Discogs URL    | [The Gaslight Anthem - The '59 Sound](https://www.discogs.com/release/7246420-The-Gaslight-Anthem-The-59-Sound) |

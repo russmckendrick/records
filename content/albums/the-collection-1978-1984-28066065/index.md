@@ -4,6 +4,7 @@ artist_name: "Van Halen"
 artist: "van-halen"
 album_name: "The Collection 1978-1984"
 date: 2023-11-17T10:41:35.000000Z
+release_date: ""
 release_id: "28066065"
 slug: "the-collection-1978-1984-28066065"
 hideSummary: true
@@ -22,76 +23,83 @@ styles: ["Hard Rock", "Arena Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Van Halen (2015 Remaster)
-2. Runnin' With The Devil (3:35)
-3. Eruption (1:42)
-4. You Really Got Me (2:36)
-5. Ain't Talkin 'Bout Love (3:48)
-6. I'm The One (3:44)
-7. Jamie's Cryin' (3:29)
-8. Atomic Punk (3:00)
-9. Feel Your Love Tonight (3:41)
-10. Little Dreamer (3:22)
-11. Ice Cream Man (3:18)
-12. On Fire (3:00)
-13. Van Halen II (2015 Remaster)
-14. You're No Good (3:17)
-15. Dance The Night Away (3:09)
-16. Somebody Get Me A Doctor (2:53)
-17. Bottoms Up! (3:06)
-18. Outta Love Again (2:52)
-19. Light Up The Sky (3:11)
-20. Spanish Fly (1:02)
-21. D.O.A. (4:10)
-22. Women In Love... (4:09)
-23. Beautiful Girls (3:57)
-24. Women And Children First (2015 Remaster)
-25. And The Cradle Will Rock... (3:33)
-26. Everybody Wants Some!! (5:07)
-27. Fools (5:56)
-28. Romeo Delight (4:20)
-29. Tora! Tora! (0:56)
-30. Loss Of Control (2:39)
-31. Take Your Whiskey Home (3:10)
-32. Could This Be Magic (3:10)
-33. In A Simple Rhyme (4:41)
-34. Fair Warning (2015 Remaster)
-35. Mean Street (5:01)
-36. "Dirty Movies" (4:08)
-37. Sinner's Swing (3:09)
-38. Hear About It Later (4:32)
-39. Unchained (3:29)
-40. Push Comes To Shove (3:49)
-41. So This Is Love? (3:06)
-42. Sunday Afternoon In The Park (1:59)
-43. One Foot Out Of The Door (2:01)
-44. Diver Down (2015 Remaster)
-45. Where Have All The Good Times Gone! (3:05)
-46. Hang 'Em High (3:28)
-47. Cathedral (1:23)
-48. Secrets (3:25)
-49. Intruder (1:39)
-50. (Oh) Pretty Woman (2:53)
-51. Dancing In The Street (3:45)
-52. Little Guitars (Intro) (0:42)
-53. Little Guitars (3:48)
-54. Big Bad Bill (Is Sweet William Now) (2:45)
-55. The Full Bug (3:21)
-56. Happy Trails (1:06)
-57. 1984 (2015 Remaster)
-58. 1984 (1:08)
-59. Jump (4:02)
-60. Panama (3:30)
-61. Top Jimmy (3:00)
-62. Drop Dead Legs (4:14)
-63. Hot For Teacher (4:42)
-64. I'll Wait (4:41)
-65. Girl Gone Bad (4:33)
-66. House Of Pain (3:19)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Van Halen (2015 Remaster) |  |
+| A1 | Runnin' With The Devil | 3:35 |
+| A2 | Eruption | 1:42 |
+| A3 | You Really Got Me | 2:36 |
+| A4 | Ain't Talkin 'Bout Love | 3:48 |
+| A5 | I'm The One | 3:44 |
+| B1 | Jamie's Cryin' | 3:29 |
+| B2 | Atomic Punk | 3:00 |
+| B3 | Feel Your Love Tonight | 3:41 |
+| B4 | Little Dreamer | 3:22 |
+| B5 | Ice Cream Man | 3:18 |
+| B6 | On Fire | 3:00 |
+|  | Van Halen II (2015 Remaster) |  |
+| C1 | You're No Good | 3:17 |
+| C2 | Dance The Night Away | 3:09 |
+| C3 | Somebody Get Me A Doctor | 2:53 |
+| C4 | Bottoms Up! | 3:06 |
+| C5 | Outta Love Again | 2:52 |
+| D1 | Light Up The Sky | 3:11 |
+| D2 | Spanish Fly | 1:02 |
+| D3 | D.O.A. | 4:10 |
+| D4 | Women In Love... | 4:09 |
+| D5 | Beautiful Girls | 3:57 |
+|  | Women And Children First (2015 Remaster) |  |
+| E1 | And The Cradle Will Rock... | 3:33 |
+| E2 | Everybody Wants Some!! | 5:07 |
+| E3 | Fools | 5:56 |
+| E4 | Romeo Delight | 4:20 |
+| F1 | Tora! Tora! | 0:56 |
+| F2 | Loss Of Control | 2:39 |
+| F3 | Take Your Whiskey Home | 3:10 |
+| F4 | Could This Be Magic | 3:10 |
+| F5 | In A Simple Rhyme | 4:41 |
+|  | Fair Warning (2015 Remaster) |  |
+| G1 | Mean Street | 5:01 |
+| G2 | "Dirty Movies" | 4:08 |
+| G3 | Sinner's Swing | 3:09 |
+| G4 | Hear About It Later | 4:32 |
+| H1 | Unchained | 3:29 |
+| H2 | Push Comes To Shove | 3:49 |
+| H3 | So This Is Love? | 3:06 |
+| H4 | Sunday Afternoon In The Park | 1:59 |
+| H5 | One Foot Out Of The Door | 2:01 |
+|  | Diver Down (2015 Remaster) |  |
+| I1 | Where Have All The Good Times Gone! | 3:05 |
+| I2 | Hang 'Em High | 3:28 |
+| I3 | Cathedral | 1:23 |
+| I4 | Secrets | 3:25 |
+| I5 | Intruder | 1:39 |
+| I6 | (Oh) Pretty Woman | 2:53 |
+| J1 | Dancing In The Street | 3:45 |
+| J2 | Little Guitars (Intro) | 0:42 |
+| J3 | Little Guitars | 3:48 |
+| J4 | Big Bad Bill (Is Sweet William Now) | 2:45 |
+| J5 | The Full Bug | 3:21 |
+| J6 | Happy Trails | 1:06 |
+|  | 1984 (2015 Remaster) |  |
+| K1 | 1984 | 1:08 |
+| K2 | Jump | 4:02 |
+| K3 | Panama | 3:30 |
+| K4 | Top Jimmy | 3:00 |
+| K5 | Drop Dead Legs | 4:14 |
+| L1 | Hot For Teacher | 4:42 |
+| L2 | I'll Wait | 4:41 |
+| L3 | Girl Gone Bad | 4:33 |
+| L4 | House Of Pain | 3:19 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 

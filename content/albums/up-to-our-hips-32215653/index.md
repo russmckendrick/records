@@ -4,6 +4,7 @@ artist_name: "The Charlatans"
 artist: "the-charlatans"
 album_name: "Up To Our Hips"
 date: 2024-11-09T04:33:47.000000Z
+release_date: "1994-03-22"
 release_id: "32215653"
 slug: "up-to-our-hips-32215653"
 hideSummary: true
@@ -34,42 +35,40 @@ Steve Hillage was drafted in to produce their next album at Monnow Valley Studio
 Up to Our Hips received mixed reviews from music critics, some complaining about the album's sound while others found it to be an underrated release. It peaked at number eight in the UK and number ten in Scotland. "Can't Get Out of Bed" and "I Never Want an Easy Life If Me and He Were Ever to Get There" reached the top 40 in the UK, while "Jesus Hairdo" sat outside this range. "I Never Want an Easy Life If Me and He Were Ever to Get There" and "Jesus Hairdo" fared better in Scotland, with the former reaching the top 30 in that territory.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Come In Number 21
-2. I Never Want An Easy Life If Me And He Were Ever To Get There
-3. Can't Get Out Of Bed
-4. Feel Flows
-5. Autograph
-6. Jesus Hairdo
-7. Up To Our Hips
-8. Patrol
-9. Another Rider Up In Flames
-10. Inside-Looking Out
-11. Subterranean
-12. Full Of Culture
-13. Out
-14. Up To Our Hips (Recorded Live For The Steve Lamaq And Jo Wiley Show)
-15. Stir It Up (Altermate Instrumental Mix)
-16. Withdrawn
-17. Feel Flows (Alternate Mix)
-18. You & Everybody
-19. Dont' Let It Stand Aka Can't Get Out Of Bed
-20. Another Rider Up In Flames (Recorded Live For The Steve Lamaq And Jo Wiley Show)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Come In Number 21 |  |
+| A2 | I Never Want An Easy Life If Me And He Were Ever To Get There |  |
+| A3 | Can't Get Out Of Bed |  |
+| A4 | Feel Flows |  |
+| A5 | Autograph |  |
+| B1 | Jesus Hairdo |  |
+| B2 | Up To Our Hips |  |
+| B3 | Patrol |  |
+| B4 | Another Rider Up In Flames |  |
+| B5 | Inside-Looking Out |  |
+| C1 | Subterranean |  |
+| C2 | Full Of Culture |  |
+| C3 | Out |  |
+| C4 | Up To Our Hips (Recorded Live For The Steve Lamaq And Jo Wiley Show) |  |
+| C5 | Stir It Up (Altermate Instrumental Mix) |  |
+| D1 | Withdrawn |  |
+| D2 | Feel Flows (Alternate Mix) |  |
+| D3 | You & Everybody |  |
+| D4 | Dont' Let It Stand Aka Can't Get Out Of Bed |  |
+| D5 | Another Rider Up In Flames (Recorded Live For The Steve Lamaq And Jo Wiley Show) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/up-to-our-hips/1027456677" >}}<br>
 
 
-## Videos
-### The Charlatans - Cant Get Out of Bed
-{{< youtube id="_DA7H7n1bKs" title="The Charlatans - Cant Get Out of Bed" >}}<br>
-### More Videos
-
-- [The Charlatans - Jesus Hairdo](https://www.youtube.com/watch?v=ycw4hquVjTI)
 
 ## Release Images
 {{< imageGrid >}}

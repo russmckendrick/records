@@ -1,9 +1,10 @@
 ---
 title: "Sleeper - Smart"
 artist_name: "Sleeper"
-artist: "sleeper-2"
+artist: "sleeper"
 album_name: "Smart"
 date: 2020-06-08T12:58:31.000000Z
+release_date: "1995-02-13"
 release_id: "15425944"
 slug: "smart-15425944"
 hideSummary: true
@@ -46,61 +47,43 @@ styles: ["Britpop"]
 Smart is the debut studio album by English rock band Sleeper, released on 13 February 1995 by Indolent Records. It was mixed by Stephen Street. The album's sleeve photo is of the Mercury Seven astronauts. A 25th anniversary deluxe edition was released in 2020 on both vinyl and CD. The CD version has 10 extra tracks.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Inbetweener (3:18)
-2. Swallow (2:41)
-3. Delicious (3:01)
-4. Hunch (3:38)
-5. Amuse (2:09)
-6. Bedhead (3:00)
-7. Lady Love Your Countryside (2:39)
-8. Vegas (3:15)
-9. Poor Flying Man (4:01)
-10. Alice In Vain (3:35)
-11. Twisted (3:01)
-12. Pyrotechnician (3:26)
-13. Bonus Tracks
-14. Bedside Manners (2:53)
-15. Tatty (3:56)
-16. Little Annie (2:48)
-17. It's Wrong Of You To Breed (3:00)
-18. One Girl Dreaming (4:19)
-19. Alice In Vain (Single Version) (3:31)
-20. Hymn To Her (3:33)
-21. Big Nurse (4:08)
-22. Ha Ha You're Dead (3:31)
-23. Bank (1:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Inbetweener | 3:18 |
+| A2 | Swallow | 2:41 |
+| A3 | Delicious | 3:01 |
+| A4 | Hunch | 3:38 |
+| A5 | Amuse | 2:09 |
+| A6 | Bedhead | 3:00 |
+| A7 | Lady Love Your Countryside | 2:39 |
+| B8 | Vegas | 3:15 |
+| B9 | Poor Flying Man | 4:01 |
+| B10 | Alice In Vain | 3:35 |
+| B11 | Twisted | 3:01 |
+| B12 | Pyrotechnician | 3:26 |
+|  | Bonus Tracks |  |
+| C1 | Bedside Manners | 2:53 |
+| C2 | Tatty | 3:56 |
+| C3 | Little Annie | 2:48 |
+| C4 | It's Wrong Of You To Breed | 3:00 |
+| C5 | One Girl Dreaming | 4:19 |
+| D6 | Alice In Vain (Single Version) | 3:31 |
+| D7 | Hymn To Her | 3:33 |
+| D8 | Big Nurse | 4:08 |
+| D9 | Ha Ha You're Dead | 3:31 |
+| D10 | Bank | 1:26 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/smart/298625555" >}}<br>
 
 
-## Videos
-### Sleeper - Inbetweener
-{{< youtube id="6Vrk-lBoxNA" title="Sleeper - Inbetweener" >}}<br>
-### More Videos
-
-- [Sleeper - Inbetweener TOTP](https://www.youtube.com/watch?v=El-XUjEJ_rU)
-- [Sleeper - Swallow](https://www.youtube.com/watch?v=zu6m1ylEruA)
-- [SLEEPER Vegas](https://www.youtube.com/watch?v=zmkq2_gMUgY)
-- [Britpop Now Part 9- Sleeper- Inbetweener](https://www.youtube.com/watch?v=IfPjNHwm4Nk)
-- [Sleeper - Alice In Vain Live at Glastonbury 1995](https://www.youtube.com/watch?v=80b7PlTyZEY)
-- [Sleeper - Swallow](https://www.youtube.com/watch?v=zu6m1ylEruA)
-- [Sleeper - 03 Delicious](https://www.youtube.com/watch?v=GW1pRigN4gM)
-- [Sleeper Inbetweener](https://www.youtube.com/watch?v=1zKM3Xt-vM4)
-- [Sleeper - 11 Twisted](https://www.youtube.com/watch?v=pHQrq3cBsZ4)
-- [Sleeper - 12 Pyrotechnician](https://www.youtube.com/watch?v=_-pzp-5okOw)
-- [Sleeper - Swallow](https://www.youtube.com/watch?v=QYaagkD26YY)
-- [Amuse](https://www.youtube.com/watch?v=kk2JCEUDwQk)
-- [Pyrotechnician](https://www.youtube.com/watch?v=btgY4n4Uwwg)
-- [Vegas](https://www.youtube.com/watch?v=apseuik6hS8)
-- [Sleeper - 06 Bedhead](https://www.youtube.com/watch?v=HvdJoMbQqog)
-- [Sleeper - Alice In Vain](https://www.youtube.com/watch?v=WG8qcxSDl_w)
-- [Sleeper - 08 Vegas Album Version](https://www.youtube.com/watch?v=FUwHro_1sY4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -112,5 +95,5 @@ Smart is the debut studio album by English rock band Sleeper, released on 13 Feb
 | Format         | Vinyl LP Album Reissue, Vinyl LP Compilation, All Media Limited Edition (Clear) |
 | Label          | Gorsky Records |
 | Catalog Number | SLEEP25LPC |
-| Notes | 25th Anniversary Edition. Includes 14 page colour booklet Made in the EU  |
+| Notes | 25th Anniversary Edition. Includes 14 page colour booklet<br>Made in the EU  |
 | Discogs URL    | [Sleeper - Smart](https://www.discogs.com/release/15425944-Sleeper-2-Smart) |

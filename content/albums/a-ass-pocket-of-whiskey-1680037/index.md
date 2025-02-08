@@ -1,16 +1,17 @@
 ---
-title: "R.L. Burnside - A Ass Pocket Of Whiskey"
-artist_name: "R.L. Burnside"
-artist: "r-l-burnside"
+title: "RL Burnside - A Ass Pocket Of Whiskey"
+artist_name: "RL Burnside"
+artist: "rl-burnside"
 album_name: "A Ass Pocket Of Whiskey"
 date: 2015-09-01T17:51:10.000000Z
+release_date: "1996-06-25"
 release_id: "1680037"
 slug: "a-ass-pocket-of-whiskey-1680037"
 hideSummary: true
 cover:
     image: "a-ass-pocket-of-whiskey-1680037.jpg"
-    alt: "A Ass Pocket Of Whiskey by R.L. Burnside"
-    caption: "A Ass Pocket Of Whiskey by R.L. Burnside"
+    alt: "A Ass Pocket Of Whiskey by RL Burnside"
+    caption: "A Ass Pocket Of Whiskey by RL Burnside"
 additional_images:
     - "https://i.discogs.com/PNq_W9SJwvdnSKUg69MmVErHzK0yqAL_E3o7L-4Ic_o/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODAw/MzctMTUwMDI4MTk0/NC0xODQyLmpwZWc.jpeg"
     - "https://i.discogs.com/ClyrVUafAp5Or4Hcuwg_XSHNieYQ354_1XxaPmilyf0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODAw/MzctMTQ4NzY5Nzcw/Ni05MzI2LmpwZWc.jpeg"
@@ -25,29 +26,29 @@ styles: ["Hill Country Blues", "Country Blues", "Blues Rock", "Modern Electric B
 A Ass Pocket of Whiskey is the seventh studio album by the American hill country blues musician R. L. Burnside, recorded in conjunction with the Jon Spencer Blues Explosion. It was released on June 18, 1996, through Matador Records. Unusually, The Penguin Guide to Blues Recordings gave the album two contrasting ratings, indicating divided critical opinion.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Goin' Down South
-2. Boogie Chillen
-3. Poor Boy
-4. 2 Brothers
-5. Snake Drive
-6. Shake 'Em On Down
-7. The Criminal Inside Me
-8. Walkin' Blues
-9. Tojo Told Hitler
-10. Have You Ever Been Lonely?
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Goin' Down South |  |
+| A2 | Boogie Chillen |  |
+| A3 | Poor Boy |  |
+| A4 | 2 Brothers |  |
+| A5 | Snake Drive |  |
+| A6 | Shake 'Em On Down |  |
+| B7 | The Criminal Inside Me |  |
+| B8 | Walkin' Blues |  |
+| B9 | Tojo Told Hitler |  |
+| B10 | Have You Ever Been Lonely? |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-ass-pocket-of-whiskey/1093176251" >}}<br>
 
-
-## Videos
-### R L BURNSIDE - A Pocket Ass of Whiskey Full Album
-{{< youtube id="jI5qCXuD4Y4" title="R L BURNSIDE - A Pocket Ass of Whiskey Full Album" >}}<br>
 
 
 ## Release Images
@@ -60,5 +61,5 @@ A Ass Pocket of Whiskey is the seventh studio album by the American hill country
 | Format         | Vinyl LP Album Limited Edition Reissue (180 Gram) |
 | Label          | Fat Possum Records |
 | Catalog Number | FP1026-1 |
-| Notes | Recorded on the afternoon of 2-6-96 at Lunati Farms in Holly Springs, MS.   Released with different stickers on shrink and download code. Tracks are listed sequentially on release.  ©℗1996 Fat Possum Records, LLC.   Printed on labels: "All Rights Reserved All Wrongs Reversed"  "Made in the USA".  Runouts are etched. |
-| Discogs URL    | [R.L. Burnside - A Ass Pocket Of Whiskey](https://www.discogs.com/release/1680037-RL-Burnside-A-Ass-Pocket-Of-Whiskey) |
+| Notes | Recorded on the afternoon of 2-6-96 at Lunati Farms in Holly Springs, MS.<br> <br>Released with different stickers on shrink and download code.<br>Tracks are listed sequentially on release.<br><br>©℗1996 Fat Possum Records, LLC.<br> <br>Printed on labels:<br>"All Rights Reserved All Wrongs Reversed" <br>"Made in the USA".<br><br>Runouts are etched. |
+| Discogs URL    | [RL Burnside - A Ass Pocket Of Whiskey](https://www.discogs.com/release/1680037-RL-Burnside-A-Ass-Pocket-Of-Whiskey) |

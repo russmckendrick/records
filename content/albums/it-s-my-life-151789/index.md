@@ -34,32 +34,23 @@ Yet in spite of the dance largesse of “We Found Love” and “Where Have You 
 
 
 ## Tracklisting
-1. Dum Dum Girl
-2. Such A Shame
-3. Renée
-4. It's My Life
-5. Tomorrow Started
-6. The Last Time
-7. Call In The Night Boy
-8. Does Caroline Know?
-9. It's You
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dum Dum Girl |  |
+| A2 | Such A Shame |  |
+| A3 | Renée |  |
+| A4 | It's My Life |  |
+| B1 | Tomorrow Started |  |
+| B2 | The Last Time |  |
+| B3 | Call In The Night Boy |  |
+| B4 | Does Caroline Know? |  |
+| B5 | It's You |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/talk-that-talk-deluxe/1443061797" >}}<br>
 
 
-## Videos
-### Talk Talk - Its My Life Official Video
-{{< youtube id="cFH5JgyZK1I" title="Talk Talk - Its My Life Official Video" >}}<br>
-### More Videos
-
-- [Talk Talk - Its My Life Official Video](https://www.youtube.com/watch?v=cFH5JgyZK1I)
-- [Tomorrow Started 1997 Remaster](https://www.youtube.com/watch?v=F5s0oynBz7M)
-- [Does Caroline Know 1997 Remaster](https://www.youtube.com/watch?v=bgiCKT6Y-lg)
-- [Renee 1997 Remaster](https://www.youtube.com/watch?v=KfB-iIrJy-s)
-- [Its My Life 1997 Remaster](https://www.youtube.com/watch?v=yWQezjGjiqs)
-- [The Last Time 1997 Remaster](https://www.youtube.com/watch?v=dsDpI1TiQMs)
-- [Its You 1997 Remaster](https://www.youtube.com/watch?v=xYMOv6XR5ts)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +62,5 @@ Yet in spite of the dance largesse of “We Found Love” and “Where Have You 
 | Format         | Vinyl LP Album |
 | Label          | EMI |
 | Catalog Number | EMC 2400021 |
-| Notes | To distinguish from other similar releases:  This release does NOT have 'TALK 1' printed over the Barcode. The runout for side A and side B does NOT include extra etching, 'Rays' or a flower symbol, for lacquer cutting credit.  On sleeve: Logo: EMI (P) 1984 Original sound recordings made by EMI Records Ltd. (C) 1984 EMI Records Ltd. Emi Records Ltd., Hayes, Middlesex, England. Country of manufacture of record as stated on record label. Stereo. Available on cassette. SP8402GL  On labels: Tracks A1 & A4 (published by) Island Music Ltd. / Zomba Music Publishers Ltd. Tracks A2, A3, B1, B3, B4 & B5 (published by) Island Music Ltd. Track B2 (published by) Island Music Ltd. / Berlac Music. Side 1 total time: 19:57 Side 2 total time: 23:32 Manufactured in the Uk.  On inner sleeve: Cat# EMC 2400021 (1) Credits are printed on the inner sleeve. Inner sleeve with rounded corners.  Hype sticker reads: Includes Singles The It's My Life and Such A Shame. |
+| Notes | To distinguish from other similar releases: <br>This release does NOT have 'TALK 1' printed over the Barcode.<br>The runout for side A and side B does NOT include extra etching, 'Rays' or a flower symbol, for lacquer cutting credit.<br><br>On sleeve:<br>Logo: EMI<br>(P) 1984 Original sound recordings made by EMI Records Ltd.<br>(C) 1984 EMI Records Ltd.<br>Emi Records Ltd., Hayes, Middlesex, England.<br>Country of manufacture of record as stated on record label.<br>Stereo.<br>Available on cassette.<br>SP8402GL<br><br>On labels:<br>Tracks A1 & A4 (published by) Island Music Ltd. / Zomba Music Publishers Ltd.<br>Tracks A2, A3, B1, B3, B4 & B5 (published by) Island Music Ltd.<br>Track B2 (published by) Island Music Ltd. / Berlac Music.<br>Side 1 total time: 19:57<br>Side 2 total time: 23:32<br>Manufactured in the Uk.<br><br>On inner sleeve:<br>Cat# EMC 2400021 (1)<br>Credits are printed on the inner sleeve.<br>Inner sleeve with rounded corners.<br><br>Hype sticker reads: Includes Singles The It's My Life and Such A Shame. |
 | Discogs URL    | [Talk Talk - It's My Life](https://www.discogs.com/release/151789-Talk-Talk-Its-My-Life) |

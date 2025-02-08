@@ -4,6 +4,7 @@ artist_name: "a-ha"
 artist: "a-ha"
 album_name: "Hunting High And Low"
 date: 2018-08-17T18:07:56.000000Z
+release_date: "1985-06-10"
 release_id: "12210337"
 slug: "hunting-high-and-low-12210337"
 hideSummary: true
@@ -33,34 +34,30 @@ In all, five singles from the album were released, though not all were released 
 As part of a re-release of their first two studio albums, Hunting High and Low was expanded and remastered in 2010.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Take On Me
-2. Train Of Thought
-3. Hunting High And Low
-4. The Blue Sky
-5. Living A Boy's Adventure Tale
-6. The Sun Always Shines On T.V.
-7. And You Tell Me
-8. Love Is Reason
-9. Dream Myself Alive
-10. Here I Stand And Face The Rain
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Take On Me |  |
+| A2 | Train Of Thought |  |
+| A3 | Hunting High And Low |  |
+| A4 | The Blue Sky |  |
+| A5 | Living A Boy's Adventure Tale |  |
+| B1 | The Sun Always Shines On T.V. |  |
+| B2 | And You Tell Me |  |
+| B3 | Love Is Reason |  |
+| B4 | Dream Myself Alive |  |
+| B5 | Here I Stand And Face The Rain |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hunting-high-and-low-deluxe-edition/380907762" >}}<br>
 
 
-## Videos
-### a-ha - Take On Me Official Video Remastered in 4K
-{{< youtube id="djV11Xbc914" title="a-ha - Take On Me Official Video Remastered in 4K" >}}<br>
-### More Videos
-
-- [a-ha - Train Of Thought Official Video](https://www.youtube.com/watch?v=7vdOgObQvz8)
-- [a-ha - Hunting High and Low Official Video](https://www.youtube.com/watch?v=s6VaeFCxta8)
-- [a-ha - The Sun Always Shines on TV Official Video](https://www.youtube.com/watch?v=a3ir9HC9vYg)
 
 ## Release Images
 {{< imageGrid >}}

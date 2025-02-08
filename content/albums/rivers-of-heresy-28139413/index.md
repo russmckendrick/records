@@ -68,28 +68,24 @@ Neil: “As soon as I heard this, I knew it was going to close the record. Even 
 
 
 ## Tracklisting
-1. Harvest
-2. Blusher
-3. Moi?
-4. Tired, Aye?
-5. Sons And Daughters
-6. Stutter
-7. Palms Of Hands
-8. Busty
-9. Sold! 
-10. The Looming
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Harvest |  |
+| A2 | Blusher |  |
+| A3 | Moi? |  |
+| A4 | Tired, Aye? |  |
+| A5 | Sons And Daughters |  |
+| B1 | Stutter |  |
+| B2 | Palms Of Hands |  |
+| B3 | Busty |  |
+| B4 | Sold!  |  |
+| B5 | The Looming |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rivers-of-heresy/1686591552" >}}<br>
 
 
-## Videos
-### Empire State Bastard - The Looming Official Video
-{{< youtube id="0x9kRPsRHuk" title="Empire State Bastard - The Looming Official Video" >}}<br>
-### More Videos
-
-- [Empire State Bastard - Harvest Video](https://www.youtube.com/watch?v=S5Xjku-dYJ8)
-- [Empire State Bastard - Moi Visualiser](https://www.youtube.com/watch?v=SW3_WzcKuOY)
 
 ## Release Images
 {{< imageGrid >}}

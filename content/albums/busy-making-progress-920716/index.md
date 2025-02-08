@@ -1,9 +1,10 @@
 ---
 title: "Progress - Busy Making Progress"
 artist_name: "Progress"
-artist: "progress-11"
+artist: "progress"
 album_name: "Busy Making Progress"
 date: 2019-01-19T10:35:32.000000Z
+release_date: ""
 release_id: "920716"
 slug: "busy-making-progress-920716"
 hideSummary: true
@@ -21,27 +22,29 @@ styles: ["Folk Rock", "Pop Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Vision (3:05)
-2. There Is A Light (4:10)
-3. Payday (0:45)
-4. Busy Making Progress (2:55)
-5. When You Go (4:25)
-6. Protoplasmic Crud (3:25)
-7. Stop And Think (2:50)
-8. Is It Worth The Price (3:40)
-9. A Long Long Way To Go ..... (3:00)
-10. Changing The Face Of The Earth (5:45)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Vision | 3:05 |
+| A2 | There Is A Light | 4:10 |
+| A3 | Payday | 0:45 |
+| A4 | Busy Making Progress | 2:55 |
+| A5 | When You Go | 4:25 |
+| B1 | Protoplasmic Crud | 3:25 |
+| B2 | Stop And Think | 2:50 |
+| B3 | Is It Worth The Price | 3:40 |
+| B4 | A Long Long Way To Go ..... | 3:00 |
+| B5 | Changing The Face Of The Earth | 5:45 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Busy Making Progress LP 1978 FULL ALBUM Remasterd By B v d M 2014
-{{< youtube id="WJbw8dobg0c" title="Busy Making Progress LP 1978 FULL ALBUM Remasterd By B v d M 2014" >}}<br>
-### More Videos
 
-- [Busy Making Progress LP 1978 FULL ALBUM Remasterd By B v d M 2014](https://www.youtube.com/watch?v=WJbw8dobg0c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -52,5 +55,5 @@ styles: ["Folk Rock", "Pop Rock", "Prog Rock"]
 | Format         | Vinyl LP Album Stereo |
 | Label          | Sudarshan Disc |
 | Catalog Number | BBT 111 |
-| Notes | This is a special benefit album. All the artists who contributed to its production did so without remuneration.  Special thanks to Carlos Santana, Bob Dylan, George Harrison, Neil Diamond, Bob Marley, Stevie Wonder and Alice Coltrane for their inspiration and help with ISKCON projects.  On labels: ℗ © 1978, Sudarshan Disc On sleeve: © Golden Lotus Productions 1978 |
+| Notes | This is a special benefit album. All the artists who contributed to its production did so without remuneration.<br><br>Special thanks to Carlos Santana, Bob Dylan, George Harrison, Neil Diamond, Bob Marley, Stevie Wonder and Alice Coltrane for their inspiration and help with ISKCON projects.<br><br>On labels:<br>℗ © 1978, Sudarshan Disc<br>On sleeve:<br>© Golden Lotus Productions 1978 |
 | Discogs URL    | [Progress - Busy Making Progress](https://www.discogs.com/release/920716-Progress-11-Busy-Making-Progress) |

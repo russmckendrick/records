@@ -4,6 +4,7 @@ artist_name: "Janet Jackson"
 artist: "janet-jackson"
 album_name: "Control"
 date: 2020-08-01T12:44:39.000000Z
+release_date: "2015-06-12"
 release_id: "339019"
 slug: "control-339019"
 hideSummary: true
@@ -29,39 +30,29 @@ Following its release, Control became Jackson's first album to top the Billboard
 Control went on to receive several accolades, including a nomination for the Grammy Award for Album of the Year and winning Producer of the Year, Non-Classical for Jam and Lewis in 1987. It is listed by the National Association of Recording Merchandisers and the Rock and Roll Hall of Fame as one of the 200 Definitive Albums of All Time, in addition to being included in several publications "best of" album lists. In 2016, it was selected for exhibition in the National Museum of African American History and Culture (NMAAHC).
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Control (5:55)
-2. Nasty (4:00)
-3. What Have You Done For Me Lately (4:41)
-4. You Can Be Mine (5:12)
-5. The Pleasure Principle (4:58)
-6. When I Think Of You (3:57)
-7. He Doesn't Know I'm Alive (3:30)
-8. Let's Wait Awhile (4:36)
-9. Funny How Time Flies (When You're Having Fun) (4:27)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Control | 5:55 |
+| A2 | Nasty | 4:00 |
+| A3 | What Have You Done For Me Lately | 4:41 |
+| A4 | You Can Be Mine | 5:12 |
+| B1 | The Pleasure Principle | 4:58 |
+| B2 | When I Think Of You | 3:57 |
+| B3 | He Doesn't Know I'm Alive | 3:30 |
+| B4 | Let's Wait Awhile | 4:36 |
+| B5 | Funny How Time Flies (When You're Having Fun) | 4:27 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lose-control/999298733" >}}<br>
 
 
-## Videos
-### Control
-{{< youtube id="FMuoowyCkUU" title="Control" >}}<br>
-### More Videos
-
-- [Janet Jackson   Nasty HQ](https://www.youtube.com/watch?v=oqH_8b-4214)
-- [Janet Jackson - What Have You Done For Me Lately](https://www.youtube.com/watch?v=biL_or8C5Ac)
-- [Janet Jackson - You Can Be Mine](https://www.youtube.com/watch?v=AdaD_CQ_mtM)
-- [The Pleasure Principle](https://www.youtube.com/watch?v=jXInTVW5h4Y)
-- [Janet Jackson - When I Think Of You](https://www.youtube.com/watch?v=Y4IX3QM8L6I)
-- [Janet Jackson - He Doesnt Know Im Alive](https://www.youtube.com/watch?v=UnQKc-IQRxw)
-- [Janet Jackson - Lets Wait Awhile](https://www.youtube.com/watch?v=o7jAP67iRJ8)
-- [Janet Jackson - Funny How Time Flies When Youre Having Fun](https://www.youtube.com/watch?v=f924WsFsAMc)
-- [Janet Jackson  He Doesnt Know Im Aliveyerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=ClFR51TMAus)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +64,5 @@ Control went on to receive several accolades, including a nomination for the Gra
 | Format         | Vinyl LP Album Stereo |
 | Label          | A&M Records |
 | Catalog Number | AMA 5106 |
-| Notes | ℗ 1986 A & M Records Inc. (labels, back cover, inner sleeve) © 1986 A & M Records Inc. (back cover, inner sleeve)  Issued with a custom printed inner sleeve containing credits.  'A & M RECORDS LTD. ARE THE EXCLUSIVE LICENSEES FOR THE UK' (back cover, inner sleeve)  'Made in England' (labels)  'Printed in England' (spine)  Runouts are stamped except "JA" which is etched. |
+| Notes | ℗ 1986 A & M Records Inc. (labels, back cover, inner sleeve)<br>© 1986 A & M Records Inc. (back cover, inner sleeve)<br><br>Issued with a custom printed inner sleeve containing credits.<br><br>'A & M RECORDS LTD. ARE THE EXCLUSIVE LICENSEES FOR THE UK' (back cover, inner sleeve)<br><br>'Made in England' (labels)<br><br>'Printed in England' (spine)<br><br>Runouts are stamped except "JA" which is etched. |
 | Discogs URL    | [Janet Jackson - Control](https://www.discogs.com/release/339019-Janet-Jackson-Control) |

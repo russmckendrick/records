@@ -4,6 +4,7 @@ artist_name: "Yes"
 artist: "yes"
 album_name: "90125"
 date: 2017-07-26T17:40:44.000000Z
+release_date: "1983-11-07"
 release_id: "10168494"
 slug: "90125-10168494"
 hideSummary: true
@@ -25,32 +26,29 @@ During the mixing stage, former Yes singer Jon Anderson, who had left in 1980, a
 Named for its Atco catalogue number, 90125 was released to a generally positive reception and introduced the band to a new generation of fans. It reached No. 5 on the US Billboard 200 and No. 16 on the UK Albums Chart, and remains their best selling album with several million copies sold in the US. Of the album's four singles, "Owner of a Lonely Heart" was the most successful and is their only song to top the US Billboard Hot 100 chart. "Cinema" earned the group a Grammy Award for Best Rock Instrumental Performance. Yes toured for the album in 1984 and 1985 which included two headline shows at the inaugural Rock in Rio festival. It was remastered in 2004 with previously unreleased bonus tracks.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Owner Of A Lonely Heart (4:27)
-2. Hold On (5:15)
-3. It Can Happen (5:39)
-4. Changes (6:16)
-5. Cinema (2:09)
-6. Leave It (4:10)
-7. Our Song (4:16)
-8. City Of Love (4:48)
-9. Hearts (7:34)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Owner Of A Lonely Heart | 4:27 |
+| A2 | Hold On | 5:15 |
+| A3 | It Can Happen | 5:39 |
+| A4 | Changes | 6:16 |
+| B1 | Cinema | 2:09 |
+| B2 | Leave It | 4:10 |
+| B3 | Our Song | 4:16 |
+| B4 | City Of Love | 4:48 |
+| B5 | Hearts | 7:34 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/90125/1049010572" >}}<br>
 
 
-## Videos
-### Yes - Leave It Official Music Video
-{{< youtube id="8-hJFoSgXfM" title="Yes - Leave It Official Music Video" >}}<br>
-### More Videos
-
-- [YES - Owner of a Lonely Heart Official Music Video](https://www.youtube.com/watch?v=SVOuYquXuuc)
-- [Yes - It Can Happen Official Music Video](https://www.youtube.com/watch?v=OeVgcIFEh3I)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +60,5 @@ Named for its Atco catalogue number, 90125 was released to a generally positive 
 | Format         | Vinyl LP Album Record Store Day Limited Edition Picture Disc Reissue Remastered |
 | Label          | Atlantic Recording Corporation |
 | Catalog Number | R1 90125 |
-| Notes | Record Store Day 2017 Release  Sticker on front:  "LIMITED EDITION OF 5000 For the first time ever as a picture disc  featuring the hit "Owner Of a Lonely Heart"  Taken from the 2014 HD Remasters" |
+| Notes | Record Store Day 2017 Release<br><br>Sticker on front:<br><br>"LIMITED EDITION OF 5000<br>For the first time ever as a picture disc<br><br>featuring the hit "Owner Of a Lonely Heart"<br><br>Taken from the 2014 HD Remasters" |
 | Discogs URL    | [Yes - 90125](https://www.discogs.com/release/10168494-Yes-90125) |

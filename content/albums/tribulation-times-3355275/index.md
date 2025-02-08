@@ -4,6 +4,7 @@ artist_name: "Dennis Brown"
 artist: "dennis-brown"
 album_name: "Tribulation Times"
 date: 2020-01-06T18:20:18.000000Z
+release_date: "1999-01-12"
 release_id: "3355275"
 slug: "tribulation-times-3355275"
 hideSummary: true
@@ -20,33 +21,33 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Smile Like An Angel
-2. Poor Side Of Town
-3. Money In My Pocket (Original Jamaican Version)
-4. This World Is Troubled
-5. Silver Words
-6. Play Girl
-7. Tribulation
-8. Westbound Train
-9. Let Me Live
-10. Don't Expect Me To Be Your Friend
-11. Summertime
-12. My Kind
-13. Golden Streets
-14. We Will Be Free
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Smile Like An Angel |  |
+| A2 | Poor Side Of Town |  |
+| A3 | Money In My Pocket (Original Jamaican Version) |  |
+| A4 | This World Is Troubled |  |
+| A5 | Silver Words |  |
+| A6 | Play Girl |  |
+| A7 | Tribulation |  |
+| B1 | Westbound Train |  |
+| B2 | Let Me Live |  |
+| B3 | Don't Expect Me To Be Your Friend |  |
+| B4 | Summertime |  |
+| B5 | My Kind |  |
+| B6 | Golden Streets |  |
+| B7 | We Will Be Free |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tribulation/2762612" >}}<br>
 
 
-## Videos
-### Dennis Brown - Tribulation Times Reggae Album
-{{< youtube id="XKGZLUUkl5w" title="Dennis Brown - Tribulation Times Reggae Album" >}}<br>
-### More Videos
-
-- [Dennis Brown - Tribulation Times Reggae Album](https://www.youtube.com/watch?v=XKGZLUUkl5w)
 
 ## Release Images
 {{< imageGrid >}}

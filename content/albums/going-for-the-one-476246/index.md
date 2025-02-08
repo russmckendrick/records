@@ -4,6 +4,7 @@ artist_name: "Yes"
 artist: "yes"
 album_name: "Going For The One"
 date: 2016-03-16T18:38:08.000000Z
+release_date: "1977-07-15"
 release_id: "476246"
 slug: "going-for-the-one-476246"
 hideSummary: true
@@ -33,33 +34,25 @@ Going for the One is the eighth studio album by English progressive rock band Ye
 Going for the One received a mostly positive response from music critics who welcomed the band's return to more accessible music. It was a commercial success, reaching No. 1 on the UK Albums Chart for two weeks and No. 8 on the US Billboard 200. "Wonderous Stories" and "Going for the One" were released as singles; the former went to No. 7 in the UK and remains the band's highest-charting single in the country. It was certified gold by the Recording Industry Association of America (RIAA) within a month for selling 500,000 copies. Yes supported the album with a six-month tour of the US, Canada and Europe. A remastered edition was released in 2003 containing previously unreleased tracks from the album's recording sessions.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Going For The One (5:30)
-2. Turn Of The Century (7:58)
-3. Parallels (5:52)
-4. Wonderous Stories (3:45)
-5. Awaken (15:38)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Going For The One | 5:30 |
+| A2 | Turn Of The Century | 7:58 |
+| A3 | Parallels | 5:52 |
+| B1 | Wonderous Stories | 3:45 |
+| B2 | Awaken | 15:38 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/going-for-the-one/1048475557" >}}<br>
 
 
-## Videos
-### Going for the One 2003 Remaster
-{{< youtube id="s-DEnI6RLwM" title="Going for the One 2003 Remaster" >}}<br>
-### More Videos
-
-- [Turn of the Century 2003 Remaster](https://www.youtube.com/watch?v=g0k-Klq-FNA)
-- [Going for the One 2003 Remaster](https://www.youtube.com/watch?v=s-DEnI6RLwM)
-- [Turn of the Century 2003 Remaster](https://www.youtube.com/watch?v=g0k-Klq-FNA)
-- [Yes - Wonderous Stories Official Music Video](https://www.youtube.com/watch?v=9-BMlq_zyko)
-- [Parallels 2008 Remaster](https://www.youtube.com/watch?v=sF7ZSfyL0hU)
-- [Wonderous Stories 2013 Remaster](https://www.youtube.com/watch?v=f7pk3iinPBE)
-- [Awaken 2008 Remaster](https://www.youtube.com/watch?v=G42-qaPxZK0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +64,5 @@ Going for the One received a mostly positive response from music critics who wel
 | Format         | Vinyl LP Album Stereo (Specialty Records Pressing) |
 | Label          | Atlantic |
 | Catalog Number | SD 19106 |
-| Notes | Similar to [url=https://www.discogs.com/Yes-Going-For-The-One/release/7921043]this Specialty Records version[/url] by different lacquer cutting credits in runout.   Recorded at Mountain Studios, Montreux, Switzerland. Track B2 recorded at Eglise des Planches, Montreux, Switzerland. Church Organ recorded at St. Martin's Church, Vevey, Switzerland.   ℗ 1977 Atlantic Recording Company and Star/Right Co. All song published by Topographic Music ASCAP administered by WB Music Corp. Mfg. by Atlantic Recording Corp.  Issued in a gatefold roll-fold sleeve, with lyrics on dustbag.  Runouts are etched, except for the SRC logo which is stamped. |
+| Notes | Similar to [url=https://www.discogs.com/Yes-Going-For-The-One/release/7921043]this Specialty Records version[/url] by different lacquer cutting credits in runout. <br><br>Recorded at Mountain Studios, Montreux, Switzerland.<br>Track B2 recorded at Eglise des Planches, Montreux, Switzerland.<br>Church Organ recorded at St. Martin's Church, Vevey, Switzerland. <br><br>℗ 1977 Atlantic Recording Company and Star/Right Co.<br>All song published by Topographic Music ASCAP administered by WB Music Corp.<br>Mfg. by Atlantic Recording Corp.<br><br>Issued in a gatefold roll-fold sleeve, with lyrics on dustbag.<br><br>Runouts are etched, except for the SRC logo which is stamped. |
 | Discogs URL    | [Yes - Going For The One](https://www.discogs.com/release/476246-Yes-Going-For-The-One) |

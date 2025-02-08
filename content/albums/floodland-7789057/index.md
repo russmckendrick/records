@@ -4,6 +4,7 @@ artist_name: "The Sisters Of Mercy"
 artist: "the-sisters-of-mercy"
 album_name: "Floodland"
 date: 2015-12-01T21:57:17.000000Z
+release_date: "1987"
 release_id: "7789057"
 slug: "floodland-7789057"
 hideSummary: true
@@ -49,58 +50,41 @@ The drum machine acted as the drum player; other than backing vocals, Morrison d
 The singles "This Corrosion", "Dominion", and "Lucretia My Reflection" were released in promotion. "This Corrosion" peaked at number 7 on the UK Singles Chart, while "Dominion" and "Lucretia My Reflection" peaked at number 13 and 20, respectively. Floodland debuted on the UK Albums Chart at number 9, later being certified gold in UK by the BPI for selling 100,000 copies. It also reached the top 40 in other European countries, including Switzerland. Despite initially receiving mixed reviews from music critics, Floodland has retrospectively received praise and been considered a seminal gothic rock album by several critics.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Floodland
-2. Dominion/Mother Russia (7:00)
-3. Flood I (6:23)
-4. Lucretia My Reflection (4:57)
-5. 1959 (4:14)
-6. This Corrosion (9:31)
-7. Flood II (6:14)
-8. Driven Like The Snow (4:38)
-9. Never Land (A Fragment) (3:00)
-10. This Corrosion
-11. This Corrosion (8:37)
-12. Torch (3:50)
-13. Colours (7:13)
-14. Dominion
-15. Dominion (5:08)
-16. Untitled (3:36)
-17. Sandstorm (1:49)
-18. Emma (6:16)
-19. Lucretia My Reflection
-20. Lucretia My Reflection (9:52)
-21. Long Train (1984) (7:28)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Floodland |  |
+| A1 | Dominion/Mother Russia | 7:00 |
+| A2 | Flood I | 6:23 |
+| A3 | Lucretia My Reflection | 4:57 |
+| A4 | 1959 | 4:14 |
+| B1 | This Corrosion | 9:31 |
+| B2 | Flood II | 6:14 |
+| B3 | Driven Like The Snow | 4:38 |
+| B4 | Never Land (A Fragment) | 3:00 |
+|  | This Corrosion |  |
+| C | This Corrosion | 8:37 |
+| D1 | Torch | 3:50 |
+| D2 | Colours | 7:13 |
+|  | Dominion |  |
+| E1 | Dominion | 5:08 |
+| E2 | Untitled | 3:36 |
+| F1 | Sandstorm | 1:49 |
+| F2 | Emma | 6:16 |
+|  | Lucretia My Reflection |  |
+| G | Lucretia My Reflection | 9:52 |
+| H | Long Train (1984) | 7:28 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/floodland/1027459890" >}}<br>
 
 
-## Videos
-### Dominion  Mother Russia New Version for Digital
-{{< youtube id="v0KE3aSH7DI" title="Dominion  Mother Russia New Version for Digital" >}}<br>
-### More Videos
-
-- [Flood I New Version for Digital](https://www.youtube.com/watch?v=Pekj1Y4raSM)
-- [Lucretia My Reflection Vinyl Version New Version for Digital](https://www.youtube.com/watch?v=8nlMbJZDAVA)
-- [1959 New Version for Digital](https://www.youtube.com/watch?v=EWOQWsvQB-k)
-- [This Corrosion New Version for Digital](https://www.youtube.com/watch?v=VXGKngAzQwo)
-- [Flood II Vinyl Version New Version for Digital](https://www.youtube.com/watch?v=AMbsclRxsjk)
-- [Driven Like the Snow Vinyl Version New Version for Digital](https://www.youtube.com/watch?v=qqqvQ7GI058)
-- [Never Land A Fragment New Version for Digital](https://www.youtube.com/watch?v=EjVZBS9C5Gw)
-- [This Corrosion 12 Version New Version for Digital](https://www.youtube.com/watch?v=Jo4u1kLr9X4)
-- [Torch New Version for Digital](https://www.youtube.com/watch?v=8rUXffWx2mE)
-- [Colours New Version for Digital](https://www.youtube.com/watch?v=PpVHw2ehZa0)
-- [Dominion](https://www.youtube.com/watch?v=SMrcB2SscWg)
-- [Untitled New Version for Digital](https://www.youtube.com/watch?v=lQ87rfkvAes)
-- [Sandstorm New Version for Digital](https://www.youtube.com/watch?v=XckmFiSXi9Y)
-- [Emma New Version for Digital](https://www.youtube.com/watch?v=JPNF7W3q9fk)
-- [Lucretia My Reflection 12 Version New Version for Digital](https://www.youtube.com/watch?v=UoAs63R1cZM)
-- [Long Train 1984 New Version for Digital](https://www.youtube.com/watch?v=K-pR4KvDnc8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -112,5 +96,5 @@ The singles "This Corrosion", "Dominion", and "Lucretia My Reflection" were rele
 | Format         | Vinyl LP Album Reissue, Vinyl 3× 12" 45 RPM EP Reissue, Box Set |
 | Label          | Warner Music Group |
 | Catalog Number | 0825646077038 |
-| Notes | LP has lyric sheet / poster included, emulating original release.  All three 12" EPs, as well as being housed in their own (heavier-than-the-original) card sleeves, have black poly-lined inner sleeves.  There are anomalies with all but the Side G & H runouts: The usual [l430654] vinyl runout scheme includes 'E' as the format identifier for stereo, 12", 33⅓ RPM, and 'M' for stereo, 12", 45 RPM. However, on this release, the format identifier for Sides A & B is 'M', despite the fact that they play at 33⅓ RPM, and that for Sides C, D, E & F is 'E', despite them playing at 45 RPM. |
+| Notes | LP has lyric sheet / poster included, emulating original release.<br><br>All three 12" EPs, as well as being housed in their own (heavier-than-the-original) card sleeves, have black poly-lined inner sleeves.<br><br>There are anomalies with all but the Side G & H runouts:<br>The usual [l430654] vinyl runout scheme includes 'E' as the format identifier for stereo, 12", 33⅓ RPM, and 'M' for stereo, 12", 45 RPM. However, on this release, the format identifier for Sides A & B is 'M', despite the fact that they play at 33⅓ RPM, and that for Sides C, D, E & F is 'E', despite them playing at 45 RPM. |
 | Discogs URL    | [The Sisters Of Mercy - Floodland](https://www.discogs.com/release/7789057-The-Sisters-Of-Mercy-Floodland) |

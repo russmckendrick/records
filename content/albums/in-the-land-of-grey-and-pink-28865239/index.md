@@ -4,6 +4,7 @@ artist_name: "Caravan"
 artist: "caravan"
 album_name: "In The Land Of Grey And Pink"
 date: 2023-11-11T02:05:07.000000Z
+release_date: "1971-01-01"
 release_id: "28865239"
 slug: "in-the-land-of-grey-and-pink-28865239"
 hideSummary: true
@@ -34,41 +35,34 @@ The album was written and recorded during late 1970 and early 1971, and featured
 The album was critically well received but was not a chart success, which led to frustration within the band and David Sinclair's departure. Nevertheless, it has remained in print and sold steadily, and been recommended by critics as a good introduction to the Canterbury Scene genre. The band look back favourably on the album and several of its tracks have remained fixtures in Caravan's live repertoire. It has been reissued several times, including a comprehensive 40th anniversary remix package by British musician and producer Steven Wilson in 2011.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Golf Girl (5:00)
-2. Winter Wine (7:35)
-3. Love To Love You (And Tonight Pigs Will Fly) (3:03)
-4. In The Land Of Grey And Pink (4:59)
-5. Nine Feet Underground (22:40)
-6. Expanded Edition - Bonus Tracks
-7. Frozen Rose (I Don't Know It's Name Alias The Word) (6:10)
-8. Aristocracy  (3:15)
-9. It Doesn't Take A Lot (3:14)
-10. It's Likely To Have A Name Next Week/Winter Wine (7:45)
-11. Love Song With Flute - Live At The BBC/1971 (3:33)
-12. In The Land Of Grey & Pink - Live At The BBC/1971 (3:43)
-13. Love To Love You (And Tonight Pigs Will Fly) - Live At The BBC/1971 (3:12)
-14. Feelin',Reelin',Squealin' - Live At Paris Theatre London/1971 (9:30)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Golf Girl | 5:00 |
+| A2 | Winter Wine | 7:35 |
+| A3 | Love To Love You (And Tonight Pigs Will Fly) | 3:03 |
+| A4 | In The Land Of Grey And Pink | 4:59 |
+| B1 | Nine Feet Underground | 22:40 |
+|  | Expanded Edition - Bonus Tracks |  |
+| C1 | Frozen Rose (I Don't Know It's Name Alias The Word) | 6:10 |
+| C2 | Aristocracy  | 3:15 |
+| C3 | It Doesn't Take A Lot | 3:14 |
+| C4 | It's Likely To Have A Name Next Week/Winter Wine | 7:45 |
+| D1 | Love Song With Flute - Live At The BBC/1971 | 3:33 |
+| D2 | In The Land Of Grey & Pink - Live At The BBC/1971 | 3:43 |
+| D3 | Love To Love You (And Tonight Pigs Will Fly) - Live At The BBC/1971 | 3:12 |
+| D4 | Feelin',Reelin',Squealin' - Live At Paris Theatre London/1971 | 9:30 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-the-land-of-grey-and-pink/1443216681" >}}<br>
 
 
-## Videos
-### In The Land Of Grey  Pink
-{{< youtube id="sTAhkb31khY" title="In The Land Of Grey  Pink" >}}<br>
-### More Videos
-
-- [Nine Feet Underground Medley](https://www.youtube.com/watch?v=_Sls_QCMG2Y)
-- [Winter Wine](https://www.youtube.com/watch?v=IlmZt0a6YOQ)
-- [In the Land of Grey and Pink](https://www.youtube.com/watch?v=h-iU5bmP1aU)
-- [In the Land of Grey and Pink](https://www.youtube.com/watch?v=wehVw9ehcec)
-- [In the Land of Grey and Pink Live](https://www.youtube.com/watch?v=iiSZEy1RwFM)
-- [Golf Girl](https://www.youtube.com/watch?v=YNqkOnuHtRE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +74,5 @@ The album was critically well received but was not a chart success, which led to
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Pink / Grey Marble, Expanded Edition) |
 | Label          | Decca |
 | Catalog Number | 00602448775696 |
-| Notes | Hype Sticker Reads:  Expanded Edition 2LP Set Featuring The Original Classic Album plus Rare Bonus Tracks and BBC Sessions  WWW.DECCA.COM TOTAL TIMING: 1:23:47 MADE IN THE EU  Sticker: Made in Germany |
+| Notes | Hype Sticker Reads: <br>Expanded Edition 2LP Set Featuring The Original Classic Album plus Rare Bonus Tracks and BBC Sessions<br><br>WWW.DECCA.COM<br>TOTAL TIMING: 1:23:47<br>MADE IN THE EU<br><br>Sticker: Made in Germany |
 | Discogs URL    | [Caravan - In The Land Of Grey And Pink](https://www.discogs.com/release/28865239-Caravan-In-The-Land-Of-Grey-And-Pink) |

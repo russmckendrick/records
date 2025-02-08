@@ -59,32 +59,22 @@ Pieced together from a foundation of electronic demos that Halstead had in 2019 
 
 
 ## Tracklisting
-1. Shanty
-2. Prayer Remembered
-3. Alife
-4. Andalucia Plays
-5. Kisses
-6. Skin In The Game
-7. Chained To A Cloud
-8. The Slab
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Shanty |  |
+| A2 | Prayer Remembered |  |
+| A3 | Alife |  |
+| A4 | Andalucia Plays |  |
+| B1 | Kisses |  |
+| B2 | Skin In The Game |  |
+| B3 | Chained To A Cloud |  |
+| B4 | The Slab |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everything-is-alive/1688456129" >}}<br>
 
 
-## Videos
-### Slowdive - kisses Official Video
-{{< youtube id="G9RpHfPyEx8" title="Slowdive - kisses Official Video" >}}<br>
-### More Videos
-
-- [Slowdive - skin in the game Official Visualizer](https://www.youtube.com/watch?v=HWtlDuzHc4g)
-- [Slowdive - the slab Official Visualizer](https://www.youtube.com/watch?v=AiQUd6F6_kw)
-- [Slowdive - alife Official Video](https://www.youtube.com/watch?v=MhQht-YK8rw)
-- [shanty](https://www.youtube.com/watch?v=vQiJrhcwfk0)
-- [prayer remembered](https://www.youtube.com/watch?v=XvMLeQCU8ew)
-- [andalucia plays](https://www.youtube.com/watch?v=VEBl708_ou8)
-- [chained to a cloud](https://www.youtube.com/watch?v=AF6pUQkENoY)
-- [Slowdive - chained to a cloud El Conde](https://www.youtube.com/watch?v=Xtzi926Lz50)
 
 ## Release Images
 {{< imageGrid >}}
@@ -96,5 +86,5 @@ Pieced together from a foundation of electronic demos that Halstead had in 2019 
 | Format         | Vinyl LP Album (Pink [Pale Pink]) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC232 |
-| Notes | Released in a gatefold sleeve. Includes a download code.  The second cat # only visible on sticker from shrinkwrap. |
+| Notes | Released in a gatefold sleeve.<br>Includes a download code.<br><br>The second cat # only visible on sticker from shrinkwrap. |
 | Discogs URL    | [Slowdive - Everything Is Alive](https://www.discogs.com/release/28131346-Slowdive-Everything-Is-Alive) |

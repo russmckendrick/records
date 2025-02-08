@@ -37,31 +37,22 @@ There are more straightforward moments here, especially the piano ache of “Cod
 
 
 ## Tracklisting
-1. Bloom
-2. Morning Mr Magpie
-3. Little By Little
-4. Feral
-5. Lotus Flower
-6. Codex
-7. Give Up The Ghost
-8. Separator
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Bloom |  |
+| A2 | Morning Mr Magpie |  |
+| A3 | Little By Little |  |
+| A4 | Feral |  |
+| B1 | Lotus Flower |  |
+| B2 | Codex |  |
+| B3 | Give Up The Ghost |  |
+| B4 | Separator |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-king-of-limbs/1109714965" >}}<br>
 
 
-## Videos
-### Bloom
-{{< youtube id="IxBQ8Er8DYc" title="Bloom" >}}<br>
-### More Videos
-
-- [Morning Mr Magpie](https://www.youtube.com/watch?v=gM9GSuWpM94)
-- [Little By Little](https://www.youtube.com/watch?v=5c1lulf5Fkw)
-- [Feral](https://www.youtube.com/watch?v=pxXSlEj_1hk)
-- [Radiohead - Lotus flower HQ](https://www.youtube.com/watch?v=gMA5jdxPL4s)
-- [Codex](https://www.youtube.com/watch?v=T7t38uDUg5E)
-- [Give Up The Ghost](https://www.youtube.com/watch?v=QGGb7o7EbFs)
-- [Separator](https://www.youtube.com/watch?v=KmpzIU301VU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +64,5 @@ There are more straightforward moments here, especially the piano ache of “Cod
 | Format         | Vinyl LP Album |
 | Label          | Ticker Tape Ltd. |
 | Catalog Number | TICK001LP |
-| Notes | Mastered at Gateway Mastering & DVD ℗ & © 2011 Ticker Tape Ltd. Published by Ticker Tape Ltd. Made in the EU  PEFC (Programme for the Endorsement of Forest Certification Schemes) logo on sleeve  Includes a voucher for an MP3 download of the album and a printed inner sleeve.  Download link now redirects to a different page and codes are no longer accepted for download. |
+| Notes | Mastered at Gateway Mastering & DVD<br>℗ & © 2011 Ticker Tape Ltd.<br>Published by Ticker Tape Ltd.<br>Made in the EU<br><br>PEFC (Programme for the Endorsement of Forest Certification Schemes) logo on sleeve<br><br>Includes a voucher for an MP3 download of the album and a printed inner sleeve.<br><br>Download link now redirects to a different page and codes are no longer accepted for download. |
 | Discogs URL    | [Radiohead - The King Of Limbs](https://www.discogs.com/release/2788860-Radiohead-The-King-Of-Limbs) |

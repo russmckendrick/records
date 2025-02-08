@@ -4,6 +4,7 @@ artist_name: "Justin Townes Earle"
 artist: "justin-townes-earle"
 album_name: "Nothing's Gonna Change The Way You Feel About Me Now"
 date: 2016-04-15T18:22:40.000000Z
+release_date: "2012-03-27"
 release_id: "3512637"
 slug: "nothing-s-gonna-change-the-way-you-feel-about-me-now-3512637"
 hideSummary: true
@@ -34,32 +35,30 @@ styles: ["Folk", "Country", "Country Rock"]
 ---
 
 Nothing's Gonna Change the Way You Feel About Me Now is the fourth studio album by American musician Justin Townes Earle. It was released in March 2012 by Bloodshot Records.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Am I That Lonely Tonight
-2. Look The Other Way
-3. Nothing's Gonna Change The Way You Feel About Me Now
-4. Baby's Got A Bad Idea
-5. Maria
-6. Lower East Side
-7. Won't Be The Last Time
-8. Memphis In The Rain
-9. Unfortunately Anna
-10. Movin' On
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Am I That Lonely Tonight |  |
+| A2 | Look The Other Way |  |
+| A3 | Nothing's Gonna Change The Way You Feel About Me Now |  |
+| A4 | Baby's Got A Bad Idea |  |
+| A5 | Maria |  |
+| B1 | Lower East Side |  |
+| B2 | Won't Be The Last Time |  |
+| B3 | Memphis In The Rain |  |
+| B4 | Unfortunately Anna |  |
+| B5 | Movin' On |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nothings-gonna-change-the-way-you-feel-about-me-now/1700576490" >}}<br>
 
 
-## Videos
-### Nothings Gonna Change The Way You Feel About Me Now
-{{< youtube id="oQXVxJdPfl8" title="Nothings Gonna Change The Way You Feel About Me Now" >}}<br>
-### More Videos
-
-- [Nothings Gonna Change The Way You Feel About Me Now](https://www.youtube.com/watch?v=oQXVxJdPfl8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +70,5 @@ Nothing's Gonna Change the Way You Feel About Me Now is the fourth studio album 
 | Format         | Vinyl LP Album |
 | Label          | Bloodshot Records |
 | Catalog Number | BS 193 LP |
-| Notes | LP includes code for mp3 [url=http://www.discogs.com/Justin-Townes-Earle-Nothings-Gonna-Change-The-Way-You-Feel-About-Me-Now/release/4569325]download card[/url] for the album + bonus track.    The catalog number found on spine and vinyl labels is "BS 193 LP".  The catalog number found on Bloodshot website is "BS 193V".   |
+| Notes | LP includes code for mp3 [url=http://www.discogs.com/Justin-Townes-Earle-Nothings-Gonna-Change-The-Way-You-Feel-About-Me-Now/release/4569325]download card[/url] for the album + bonus track.<br><br>The catalog number found on spine and vinyl labels is "BS 193 LP".<br>The catalog number found on Bloodshot website is "BS 193V".<br> |
 | Discogs URL    | [Justin Townes Earle - Nothing's Gonna Change The Way You Feel About Me Now](https://www.discogs.com/release/3512637-Justin-Townes-Earle-Nothings-Gonna-Change-The-Way-You-Feel-About-Me-Now) |

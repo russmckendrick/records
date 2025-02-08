@@ -4,6 +4,7 @@ artist_name: "Moby"
 artist: "moby"
 album_name: "Everything Was Beautiful, And Nothing Hurt"
 date: 2018-03-02T17:11:33.000000Z
+release_date: "2018-03-02"
 release_id: "11627080"
 slug: "everything-was-beautiful-and-nothing-hurt-11627080"
 hideSummary: true
@@ -30,38 +31,32 @@ styles: ["Ambient", "Downtempo", "Gospel", "Synth-pop", "Trip Hop"]
 ---
 
 Everything Was Beautiful, and Nothing Hurt is the fifteenth studio album by American electronic musician Moby. It was released on March 2, 2018 by the record labels Little Idiot and Mute.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Mere Anarchy
-2. The Waste Of Suns
-3. Like A Motherless Child
-4. The Last Of Goodbyes
-5. The Ceremony Of Innocence
-6. The Tired & The Hurt
-7. Welcome To Hard Times
-8. The Sorrow Tree
-9. Falling Rain & Light
-10. The Middle Is Gone
-11. This Wild Darkness
-12. A Dark Cloud Is Coming
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mere Anarchy |  |
+| A2 | The Waste Of Suns |  |
+| A3 | Like A Motherless Child |  |
+| B1 | The Last Of Goodbyes |  |
+| B2 | The Ceremony Of Innocence |  |
+| B3 | The Tired & The Hurt |  |
+| C1 | Welcome To Hard Times |  |
+| C2 | The Sorrow Tree |  |
+| C3 | Falling Rain & Light |  |
+| D1 | The Middle Is Gone |  |
+| D2 | This Wild Darkness |  |
+| D3 | A Dark Cloud Is Coming |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/everything-was-beautiful-and-nothing-hurt/1321127827" >}}<br>
 
 
-## Videos
-### Moby - Mere Anarchy Official Video
-{{< youtube id="BZcBjjfR-10" title="Moby - Mere Anarchy Official Video" >}}<br>
-### More Videos
-
-- [Moby - The Waste Of Suns Official Audio](https://www.youtube.com/watch?v=2IE38IloCJY)
-- [Moby - Like A Motherless Child Official Video](https://www.youtube.com/watch?v=xp0m08eOD5U)
-- [Moby - The Last Of Goodbyes Official Audio](https://www.youtube.com/watch?v=Df1S_WTG350)
-- [Moby - The Ceremony Of Innocence Official Audio](https://www.youtube.com/watch?v=P0w7rqtR4oQ)
-- [Moby - The Tired And The Hurt Official Audio](https://www.youtube.com/watch?v=UbditKR-BbU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +68,5 @@ Everything Was Beautiful, and Nothing Hurt is the fifteenth studio album by Amer
 | Format         | Vinyl 2× LP Album |
 | Label          | Little Idiot |
 | Catalog Number | IDIOT060LP |
-| Notes | Gatefold sleeve.  Cellophane sticker reads 'New Album. Includes The Single [m=1338452]'. Each inner sleeve has lyrics for the respective songs printed on both sides.  All songs published by Songs Of Kobalt Music Publishing except A2 published by Songs Of Kobalt Music Publishing and Copyright Control. All songs mixed by Steve 'Dub' Jones for Pieces Of 8 Music except 'Welcome To Hard Times' mixed by Moby.  ℗ 2018 Little Idiot © 2018 Little Idiot Recorded in UK & USA. |
+| Notes | Gatefold sleeve.<br><br>Cellophane sticker reads 'New Album. Includes The Single [m=1338452]'. Each inner sleeve has lyrics for the respective songs printed on both sides.<br><br>All songs published by Songs Of Kobalt Music Publishing except A2 published by Songs Of Kobalt Music Publishing and Copyright Control. All songs mixed by Steve 'Dub' Jones for Pieces Of 8 Music except 'Welcome To Hard Times' mixed by Moby.<br><br>℗ 2018 Little Idiot © 2018 Little Idiot<br>Recorded in UK & USA. |
 | Discogs URL    | [Moby - Everything Was Beautiful, And Nothing Hurt](https://www.discogs.com/release/11627080-Moby-Everything-Was-Beautiful-And-Nothing-Hurt) |

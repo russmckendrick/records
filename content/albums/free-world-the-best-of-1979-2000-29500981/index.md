@@ -4,6 +4,7 @@ artist_name: "Kirsty MacColl"
 artist: "kirsty-maccoll"
 album_name: "Free World The Best Of 1979-2000"
 date: 2024-04-21T01:25:32.000000Z
+release_date: ""
 release_id: "29500981"
 slug: "free-world-the-best-of-1979-2000-29500981"
 hideSummary: true
@@ -30,35 +31,42 @@ styles: ["Rock & Roll", "New Wave", "Folk"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. A New England (3:50)
-2. Innocence (4:02)
-3. They Don't Know (3:01)
-4. There's A Guy Works Down The Chip Shop Swears He's Elvis (3:08)
-5. Don't Come The Cowboy With Me, Sonny Jim!  (3:48)
-6. Can't Stop Killing You (4:09)
-7. England 2 Colombia 0 (3:45)
-8. Walking Down Madison (7" Mix)  (4:39)
-9. Free World (Radio Edit)  (2:37)
-10. Terry (3:56)
-11. You Just Haven't Earned It Yet, Baby (From "She's Having A Baby")  (3:39)
-12. Mother's Ruin (3:57)
-13. Mambo Del La Luna (Single Edit)  (3:31)
-14. Angel (Single Edition)  (3:40)
-15. In These Shoes?  (3:39)
-16. My Affair (Single Edition)  (3:34)
-17. Treachery (3:52)
-18. Caroline  (2:55)
-19. Days (2:57)
-20. He's On The Beach (Single Version)  (3:31)
-21. Soho Square (4:26)
-22. Darling, Let's Have Another Baby (3:26)
-23. All I Ever Wanted (Single Version)  (3:31)
-24. Perfect Day (3:49)
-25. Fairytale Of New York  (4:37)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | A New England | 3:50 |
+| A2 | Innocence | 4:02 |
+| A3 | They Don't Know | 3:01 |
+| A4 | There's A Guy Works Down The Chip Shop Swears He's Elvis | 3:08 |
+| A5 | Don't Come The Cowboy With Me, Sonny Jim!  | 3:48 |
+| A6 | Can't Stop Killing You | 4:09 |
+| B1 | England 2 Colombia 0 | 3:45 |
+| B2 | Walking Down Madison (7" Mix)  | 4:39 |
+| B3 | Free World (Radio Edit)  | 2:37 |
+| B4 | Terry | 3:56 |
+| B5 | You Just Haven't Earned It Yet, Baby (From "She's Having A Baby")  | 3:39 |
+| B6 | Mother's Ruin | 3:57 |
+| C1 | Mambo Del La Luna (Single Edit)  | 3:31 |
+| C2 | Angel (Single Edition)  | 3:40 |
+| C3 | In These Shoes?  | 3:39 |
+| C4 | My Affair (Single Edition)  | 3:34 |
+| C5 | Treachery | 3:52 |
+| C6 | Caroline  | 2:55 |
+| C7 | Days | 2:57 |
+| D1 | He's On The Beach (Single Version)  | 3:31 |
+| D2 | Soho Square | 4:26 |
+| D3 | Darling, Let's Have Another Baby | 3:26 |
+| D4 | All I Ever Wanted (Single Version)  | 3:31 |
+| D5 | Perfect Day | 3:49 |
+| D6 | Fairytale Of New York  | 4:37 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -71,5 +79,5 @@ styles: ["Rock & Roll", "New Wave", "Folk"]
 | Format         | Vinyl 2× LP Compilation Limited Edition (Yellow) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1164 |
-| Notes | First ever Kirsty MacColl vinyl best of compilation 25 career-spanning tracks, from the highly acclaimed singer songwriter   Image of Titanic Days album cover is missing from the insert showing all of Kirsty's album and single covers. According to the designer this was just an oversight (the Titanic Days single cover was accidentally used instead of the album cover). |
+| Notes | First ever Kirsty MacColl vinyl best of compilation<br>25 career-spanning tracks, from the highly acclaimed singer songwriter <br><br>Image of Titanic Days album cover is missing from the insert showing all of Kirsty's album and single covers. According to the designer this was just an oversight (the Titanic Days single cover was accidentally used instead of the album cover). |
 | Discogs URL    | [Kirsty MacColl - Free World The Best Of 1979-2000](https://www.discogs.com/release/29500981-Kirsty-MacColl-Free-World-The-Best-Of-1979-2000) |

@@ -4,6 +4,7 @@ artist_name: "The Soundtrack Of Our Lives"
 artist: "the-soundtrack-of-our-lives"
 album_name: "Welcome To The Infant Freebase"
 date: 2020-04-09T11:18:28.000000Z
+release_date: "1996-03-09"
 release_id: "15010459"
 slug: "welcome-to-the-infant-freebase-15010459"
 hideSummary: true
@@ -31,43 +32,40 @@ Welcome to the Infant Freebase is the debut album by the Swedish rock band The S
 The album was originally conceived as a double album, but their record company disagreed.
 It includes the singles "Instant Repeater '99", "Blow My Cool", "Mantra Slider", and "Firmament Vacation (A Soundtrack of Our Lives)", and the song "Instant Repeater '99" was used for the closing credits of the movie Spun.
 The vinyl release of this record also includes the tracks from the Homo Habilis Blues EP.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Mantra Slider
-2. Firmament Vacation (A Soundtrack Of Our Lives)
-3. Underground Indian
-4. Chromosome Layer
-5. Instant Repeater '99
-6. Embryonic Rendezvous
-7. Four Ages (Part II)
-8. Grand Canaria
-9. Endless Song
-10. Confrontation Camp
-11. Blow My Cool
-12. Senior Breakdown
-13. Bendover Babies
-14. The Homo Habilis Blues
-15. For Good
-16. Magic Muslims
-17. Rest In Piece
-18. Retro Man
-19. Theme From Hållö
-20. Legend In His Own Mind
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mantra Slider |  |
+| A2 | Firmament Vacation (A Soundtrack Of Our Lives) |  |
+| A3 | Underground Indian |  |
+| A4 | Chromosome Layer |  |
+| B1 | Instant Repeater '99 |  |
+| B2 | Embryonic Rendezvous |  |
+| B3 | Four Ages (Part II) |  |
+| B4 | Grand Canaria |  |
+| B5 | Endless Song |  |
+| C1 | Confrontation Camp |  |
+| C2 | Blow My Cool |  |
+| C3 | Senior Breakdown |  |
+| C4 | Bendover Babies |  |
+| C5 | The Homo Habilis Blues |  |
+| C6 | For Good |  |
+| D1 | Magic Muslims |  |
+| D2 | Rest In Piece |  |
+| D3 | Retro Man |  |
+| D4 | Theme From Hållö |  |
+| D5 | Legend In His Own Mind |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-infant-freebase/64778945" >}}<br>
 
 
-## Videos
-### The Soundtrack Of Our Lives - Embryonic Rendezvous
-{{< youtube id="2v6TpXXyIgE" title="The Soundtrack Of Our Lives - Embryonic Rendezvous" >}}<br>
-### More Videos
-
-- [The Soundtrack Of Our Lives - Instant Repeater 99](https://www.youtube.com/watch?v=_iBLe6o4a8U)
-- [The Soundtrack of Our Lives - Bendover Babies](https://www.youtube.com/watch?v=cSP1cwPLy7M)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +77,5 @@ The vinyl release of this record also includes the tracks from the Homo Habilis 
 | Format         | Vinyl 2× LP Album Reissue (Gold ) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2645 |
-| Notes | Music On Vinyl THE SOUNDTRACK OF OUR LIVES ”Welcome to The Infant Freebase” Limited Edition of 1500 Gold Coloured Copies” Individually numbered Includes Insert 180 gram audiophile vinyl  Gatefold sleeve. |
+| Notes | Music On Vinyl<br>THE SOUNDTRACK OF OUR LIVES<br>”Welcome to The Infant Freebase”<br>Limited Edition of 1500 Gold Coloured Copies”<br>Individually numbered<br>Includes Insert<br>180 gram audiophile vinyl <br>Gatefold sleeve. |
 | Discogs URL    | [The Soundtrack Of Our Lives - Welcome To The Infant Freebase](https://www.discogs.com/release/15010459-The-Soundtrack-Of-Our-Lives-Welcome-To-The-Infant-Freebase) |

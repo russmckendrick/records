@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack"
 date: 2018-11-30T15:23:32.000000Z
+release_date: ""
 release_id: "11908353"
 slug: "bill-ted-s-excellent-adventure-original-motion-picture-soundtrack-11908353"
 hideSummary: true
@@ -26,34 +27,29 @@ styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Play With Me (3:31)
-2. The Boys And Girls Are Doing It (3:22)
-3. Not So Far Away (3:47)
-4. Dancing With A Gypsy (4:02)
-5. Father Time (5:15)
-6. I Can't Break Away (3:36)
-7. Dangerous (3:13)
-8. Walk Away (4:11)
-9. In Time (5:09)
-10. Two Heads Are Better Than One (4:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Play With Me | 3:31 |
+| A2 | The Boys And Girls Are Doing It | 3:22 |
+| A3 | Not So Far Away | 3:47 |
+| A4 | Dancing With A Gypsy | 4:02 |
+| A5 | Father Time | 5:15 |
+| B1 | I Can't Break Away | 3:36 |
+| B2 | Dangerous | 3:13 |
+| B3 | Walk Away | 4:11 |
+| B4 | In Time | 5:09 |
+| B5 | Two Heads Are Better Than One | 4:26 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Big Pig - I Cant Break Away BillTeds Exellent Adventure
-{{< youtube id="eDtAgi31zIc" title="Big Pig - I Cant Break Away BillTeds Exellent Adventure" >}}<br>
-### More Videos
 
-- [In Time by Robbie Rob](https://www.youtube.com/watch?v=H1tu7RNTZaU)
-- [Play With Me - Extreme Lyrics](https://www.youtube.com/watch?v=475g0fZNywU)
-- [Two Heads Are Better Than One by Power Tool](https://www.youtube.com/watch?v=U56KbegdkGs)
-- [The Boys  the Girls Are Doing It by Vital Signs](https://www.youtube.com/watch?v=4-vucvV7gS0)
-- [Bricklin - Walk Away Bill  Ted OST HQ Remaster](https://www.youtube.com/watch?v=w3AJ8kHh97s)
-- [Glen Burtnik - Not So Far Away HQ](https://www.youtube.com/watch?v=gFxlwnV8YsI)
-- [Shark Island - Dangerous](https://www.youtube.com/watch?v=5uAjZzeB-hI)
-- [Bricklin - walk away](https://www.youtube.com/watch?v=DrduICZlxFU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +60,5 @@ styles: ["Heavy Metal", "Rock & Roll", "Hard Rock", "Glam"]
 | Format         | Vinyl LP Album Limited Edition |
 | Label          | A&M Records |
 | Catalog Number | B0026799-01 |
-| Notes | Standard black vinyl version.  No OBI strip.  Co-Release with Rusted Wave & Mondo LP housed in a silver board jacket Includes printed inner sleeve & insert Initial pressing of 500 LPs on black vinyl |
+| Notes | Standard black vinyl version. <br>No OBI strip.<br><br>Co-Release with Rusted Wave & Mondo<br>LP housed in a silver board jacket<br>Includes printed inner sleeve & insert<br>Initial pressing of 500 LPs on black vinyl |
 | Discogs URL    | [Various - Bill & Ted's Excellent Adventure - Original Motion Picture Soundtrack](https://www.discogs.com/release/11908353-Various-Bill-Teds-Excellent-Adventure-Original-Motion-Picture-Soundtrack) |

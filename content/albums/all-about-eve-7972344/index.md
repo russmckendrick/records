@@ -4,6 +4,7 @@ artist_name: "All About Eve"
 artist: "all-about-eve"
 album_name: "All About Eve"
 date: 2018-10-24T11:38:47.000000Z
+release_date: "1988"
 release_id: "7972344"
 slug: "all-about-eve-7972344"
 hideSummary: true
@@ -34,45 +35,31 @@ All About Eve is a 1950 American drama film written and directed by Joseph L. Ma
 The film stars Bette Davis as Margo Channing, a highly regarded but aging Broadway star, and Anne Baxter as Eve Harrington, an ambitious young fan who maneuvers herself into Channing's life, ultimately threatening Channing's career and her personal relationships. The film co-stars George Sanders, Celeste Holm, Gary Merrill, and Hugh Marlowe, and features Thelma Ritter, Marilyn Monroe in one of her earliest roles, Gregory Ratoff, Barbara Bates and Walter Hampden.
 All About Eve held its world premiere in New York City on October 13, 1950. Highly praised by critics at the time of its release, it received a record 14 nominations at the 23rd Academy Awards, becoming the only film in Oscar history to receive four female acting nominations (Davis and Baxter as Best Actress, Holm and Ritter as Best Supporting Actress). It went on to win six awards, including Best Picture, as well as Best Director and Best Adapted Screenplay, Mankiewicz's second consecutive wins in both categories.
 Widely considered as among the greatest films of all time, in 1990, All About Eve became one of 25 films selected for preservation in the United States Library of Congress's National Film Registry, deemed "culturally, historically, or aesthetically significant". The film was ranked No. 16 on AFI's 1998 list of the 100 best American films.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Flowers In Our Hair (4:18)
-2. Gypsy Dance (3:57)
-3. In The Clouds (3:28)
-4. Martha's Harbour (3:07)
-5. Every Angel (3:56)
-6. Shelter From The Rain (5:20)
-7. She Moves Through The Fair (5:05)
-8. Wild Hearted Woman (3:22)
-9. Never Promise (Anyone Forever) (3:49)
-10. What Kind Of Fool (3:57)
-11. In The Meadow (5:33)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Flowers In Our Hair | 4:18 |
+| A2 | Gypsy Dance | 3:57 |
+| A3 | In The Clouds | 3:28 |
+| A4 | Martha's Harbour | 3:07 |
+| A5 | Every Angel | 3:56 |
+| A6 | Shelter From The Rain | 5:20 |
+| B1 | She Moves Through The Fair | 5:05 |
+| B2 | Wild Hearted Woman | 3:22 |
+| B3 | Never Promise (Anyone Forever) | 3:49 |
+| B4 | What Kind Of Fool | 3:57 |
+| B5 | In The Meadow | 5:33 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/all-about-eve/1442969916" >}}<br>
 
 
-## Videos
-### Flowers In Our Hair
-{{< youtube id="KL6RL-hTRac" title="Flowers In Our Hair" >}}<br>
-### More Videos
-
-- [Gypsy Dance](https://www.youtube.com/watch?v=4xUGIs-Iy1I)
-- [In The Clouds](https://www.youtube.com/watch?v=kOCdegq0-Ks)
-- [Marthas Harbour](https://www.youtube.com/watch?v=D5y6w3Pe3io)
-- [Every Angel](https://www.youtube.com/watch?v=hVjffSg8K3s)
-- [Like Emily](https://www.youtube.com/watch?v=sH0ELHBbeMM)
-- [Shelter From The Rain](https://www.youtube.com/watch?v=epNVzsDm_Po)
-- [She Moves Through The Fair](https://www.youtube.com/watch?v=1VjGhs5N6M0)
-- [Wild Hearted Woman](https://www.youtube.com/watch?v=CEBV-qakPec)
-- [Never Promise Anyone Forever](https://www.youtube.com/watch?v=xSwCULkXu_8)
-- [Appletree Man](https://www.youtube.com/watch?v=6WBF_78lZ9A)
-- [What Kind Of Fool](https://www.youtube.com/watch?v=LDmmXaRDEww)
-- [In The Meadow](https://www.youtube.com/watch?v=jjujXzXLsfI)
-- [Lady Moonlight](https://www.youtube.com/watch?v=UGfMNxRPCB8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +71,5 @@ Widely considered as among the greatest films of all time, in 1990, All About Ev
 | Format         | Vinyl LP Album Stereo (JA Cut) |
 | Label          | Mercury |
 | Catalog Number | MERH 119 |
-| Notes | This version contains JA in the runouts. Issued in an unlaminated single pocket sleeve. Picture inner sleeve with a light gloss finish, top opening paper with a die cut thumb section.  Some with hype sticker - Includes "In The Clouds" "Wild Hearted Woman" And "Every Angel" MERH 119  ℗ 1988 PHONOGRAM LTD (LONDON) except "In The Clouds" ℗ 1987 PHONOGRAM LTD (LONDON)  © 1988 PHONOGRAM LTD (LONDON). Original sound recordings made by Phonogram Ltd.  Runouts are stamped excepting "JA" which are etched. Some copies have a raised edge at the circumference of the labels (typical of PRS) whilst others do not. |
+| Notes | This version contains JA in the runouts.<br>Issued in an unlaminated single pocket sleeve.<br>Picture inner sleeve with a light gloss finish, top opening paper with a die cut thumb section.<br><br>Some with hype sticker - Includes "In The Clouds" "Wild Hearted Woman" And "Every Angel" MERH 119<br><br>℗ 1988 PHONOGRAM LTD (LONDON) except "In The Clouds" ℗ 1987 PHONOGRAM LTD (LONDON) <br>© 1988 PHONOGRAM LTD (LONDON).<br>Original sound recordings made by Phonogram Ltd.<br><br>Runouts are stamped excepting "JA" which are etched.<br>Some copies have a raised edge at the circumference of the labels (typical of PRS) whilst others do not. |
 | Discogs URL    | [All About Eve - All About Eve](https://www.discogs.com/release/7972344-All-About-Eve-All-About-Eve) |

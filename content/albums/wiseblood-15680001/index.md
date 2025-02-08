@@ -4,6 +4,7 @@ artist_name: "Corrosion Of Conformity"
 artist: "corrosion-of-conformity"
 album_name: "Wiseblood"
 date: 2020-08-07T19:27:34.000000Z
+release_date: "1996-10-15"
 release_id: "15680001"
 slug: "wiseblood-15680001"
 hideSummary: true
@@ -30,35 +31,33 @@ styles: ["Groove Metal", "Heavy Metal", "Sludge Metal", "Stoner Rock"]
 Wiseblood is the fifth studio album by American heavy metal band Corrosion of Conformity. It was released on October 15, 1996 by Columbia Records, the band's second and final album for the label. Its name comes from the novel Wise Blood, written by Southern Gothic author Flannery O'Connor. Metallica's lead vocalist James Hetfield provides backing vocals on "Man or Ash". The song "Drowning in a Daydream" was nominated for Best Metal Performance at the 40th Grammy Awards ceremony (which went to Tool for "Ænema"). The album had sold 130,000 copies by 1999, selling less than Blind and Deliverance.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. King Of The Rotten
-2. Long Whip / Big America
-3. Wiseblood
-4. Goodbye Windows
-5. Born Again For The Last Time
-6. Drowning In A Daydream
-7. The Snake Has No Head
-8. The Door
-9. Man Or Ash
-10. Redemption City
-11. Wishbone (Some Tomorrow)
-12. Fuel
-13. Bottom Feeder (El Que Come Abajo) (Instrumental)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | King Of The Rotten |  |
+| A2 | Long Whip / Big America |  |
+| A3 | Wiseblood |  |
+| A4 | Goodbye Windows |  |
+| B1 | Born Again For The Last Time |  |
+| B2 | Drowning In A Daydream |  |
+| B3 | The Snake Has No Head |  |
+| C1 | The Door |  |
+| C2 | Man Or Ash |  |
+| C3 | Redemption City |  |
+| D1 | Wishbone (Some Tomorrow) |  |
+| D2 | Fuel |  |
+| D3 | Bottom Feeder (El Que Come Abajo) (Instrumental) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wiseblood/170614446" >}}<br>
 
 
-## Videos
-### Corrosion Of Conformity - Drowning In a Daydream
-{{< youtube id="uqfPv93Zonw" title="Corrosion Of Conformity - Drowning In a Daydream" >}}<br>
-### More Videos
-
-- [CORROSION OF CONFORMITY- Wiseblood 2X Vinyl Full Album HD](https://www.youtube.com/watch?v=ENhk9xq1fA4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +69,5 @@ Wiseblood is the fifth studio album by American heavy metal band Corrosion of Co
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Reissue Stereo (Blue & Red Marbled Translucent, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP753 |
-| Notes | Originally released ℗ & © 1996 Sony Music Entertainment. This release ℗ & © 2013 Sony Music Entertainment. Comes with printed inner sleeves containing lyrics and credits. 1000 copies pressed. Track B2 "Drowning In A Daydream" mixed at [l276645]. |
+| Notes | Originally released ℗ & © 1996 Sony Music Entertainment. This release ℗ & © 2013 Sony Music Entertainment.<br>Comes with printed inner sleeves containing lyrics and credits.<br>1000 copies pressed.<br>Track B2 "Drowning In A Daydream" mixed at [l276645]. |
 | Discogs URL    | [Corrosion Of Conformity - Wiseblood](https://www.discogs.com/release/15680001-Corrosion-Of-Conformity-Wiseblood) |

@@ -4,6 +4,7 @@ artist_name: "Metallica"
 artist: "metallica"
 album_name: "… And Justice For All"
 date: 2024-02-06T12:20:44.000000Z
+release_date: "1988-08-25"
 release_id: "29674207"
 slug: "and-justice-for-all-29674207"
 hideSummary: true
@@ -27,35 +28,28 @@ styles: ["Thrash"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Blackened (6:42)
-2. …And Justice for All (9:45)
-3. Eye Of The Beholder (6:26)
-4. One (7:23)
-5. The Shortest Straw (6:35)
-6. Harvester Of Sorrow (5:45)
-7. The Frayed Ends Of Sanity (7:41)
-8. To Live Is To Die (9:48)
-9. Dyers Eve (5:13)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Blackened | 6:42 |
+| A2 | …And Justice for All | 9:45 |
+| B1 | Eye Of The Beholder | 6:26 |
+| B2 | One | 7:23 |
+| C1 | The Shortest Straw | 6:35 |
+| C2 | Harvester Of Sorrow | 5:45 |
+| C3 | The Frayed Ends Of Sanity | 7:41 |
+| D1 | To Live Is To Die | 9:48 |
+| D2 | Dyers Eve | 5:13 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/and-justice-for-all/1440843504" >}}<br>
 
 
-## Videos
-### Blackened Remastered
-{{< youtube id="nUZVXtDVrc0" title="Blackened Remastered" >}}<br>
-### More Videos
-
-- [ And Justice for All Remastered](https://www.youtube.com/watch?v=2lgGJRWUIvM)
-- [Eye of the Beholder Remastered](https://www.youtube.com/watch?v=pEBp9ulELLA)
-- [One Remastered](https://www.youtube.com/watch?v=apK2jCrfnsk)
-- [The Shortest Straw Remastered](https://www.youtube.com/watch?v=G1ZxoBk56jQ)
-- [Harvester of Sorrow Remastered](https://www.youtube.com/watch?v=fPufVcLAwdg)
-- [The Frayed Ends of Sanity Remastered](https://www.youtube.com/watch?v=x6wxm0POHBE)
-- [To Live Is to Die Remastered](https://www.youtube.com/watch?v=DhqbGYI970k)
-- [Dyers Eve Remastered](https://www.youtube.com/watch?v=YBOLDdc5QHE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +60,5 @@ styles: ["Thrash"]
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Stereo (Dyers Green) |
 | Label          | Blackened Recordings |
 | Catalog Number | BLCKND007R-1 |
-| Notes | Cover sticker reads "Metallica ... And Justice For All. Pressed on Limited Edition Dyers Green 2LP Vinyl BLCKND007R-1U" Made in Germany printed on back cover & on a sticker |
+| Notes | Cover sticker reads "Metallica ... And Justice For All. Pressed on Limited Edition Dyers Green 2LP Vinyl BLCKND007R-1U"<br>Made in Germany printed on back cover & on a sticker |
 | Discogs URL    | [Metallica - … And Justice For All](https://www.discogs.com/release/29674207-Metallica--And-Justice-For-All) |

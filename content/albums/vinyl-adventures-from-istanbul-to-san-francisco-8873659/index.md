@@ -4,6 +4,7 @@ artist_name: "Tim Burgess"
 artist: "tim-burgess"
 album_name: "Vinyl Adventures From Istanbul To San Francisco"
 date: 2016-08-09T15:25:42.000000Z
+release_date: ""
 release_id: "8873659"
 slug: "vinyl-adventures-from-istanbul-to-san-francisco-8873659"
 hideSummary: true
@@ -28,35 +29,37 @@ styles: ["New Wave", "Classical", "Chicago Blues", "Pop Rock"]
 Tim Book Two: Vinyl Adventures from Istanbul to San Francisco is a 2016 book by Tim Burgess, about him traveling around the world to find specific albums on vinyl.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Otis
-2. Rebel Waltz
-3. Waco
-4. A House Is Not A Motel
-5. She's Lost Control
-6. Snatch It Back And Hold It
-7. Goin' To San Diego
-8. Rebel Rouser
-9. Rêverie
-10. Old World
-11. You Can Call Me Al
-12. I've Seen Better Days
-13. The Drinking Song
-14. Grey Tickles, Black Pressure
-15. Tonight
-16. Blue Skies
-17. State Of The Nation
-18. Symphony #6 In B Minor, "Pathétique" Finale Adagio Lamentoso
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Otis |  |
+| A2 | Rebel Waltz |  |
+| A3 | Waco |  |
+| A4 | A House Is Not A Motel |  |
+| A5 | She's Lost Control |  |
+| B1 | Snatch It Back And Hold It |  |
+| B2 | Goin' To San Diego |  |
+| B3 | Rebel Rouser |  |
+| B4 | Rêverie |  |
+| B5 | Old World |  |
+| C1 | You Can Call Me Al |  |
+| C2 | I've Seen Better Days |  |
+| C3 | The Drinking Song |  |
+| C4 | Grey Tickles, Black Pressure |  |
+| C5 | Tonight |  |
+| D1 | Blue Skies |  |
+| D2 | State Of The Nation |  |
+| D3 | Symphony #6 In B Minor, "Pathétique" Finale Adagio Lamentoso |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### The Durutti Column - Otis
-{{< youtube id="V5Lreb5U87U" title="The Durutti Column - Otis" >}}<br>
 
 
 ## Release Images
@@ -69,5 +72,5 @@ Tim Book Two: Vinyl Adventures from Istanbul to San Francisco is a 2016 book by 
 | Format         | Vinyl 2× LP Compilation Limited Edition (White) |
 | Label          | O Genesis |
 | Catalog Number | OGEN62LP |
-| Notes | Signed copies were available from recordstore.co.uk  Tim Burgess presents a compilation of key artists and tracks as featured in his new book ‘Tim Book Two: Vinyl Adventures from Istanbul to San Francisco’.  |
+| Notes | Signed copies were available from recordstore.co.uk<br><br>Tim Burgess presents a compilation of key artists and tracks as featured in his new book ‘Tim Book Two: Vinyl Adventures from Istanbul to San Francisco’.  |
 | Discogs URL    | [Tim Burgess - Vinyl Adventures From Istanbul To San Francisco](https://www.discogs.com/release/8873659-Tim-Burgess-Vinyl-Adventures-From-Istanbul-To-San-Francisco) |

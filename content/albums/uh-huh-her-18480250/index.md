@@ -4,6 +4,7 @@ artist_name: "PJ Harvey"
 artist: "pj-harvey"
 album_name: "Uh Huh Her"
 date: 2021-04-30T07:39:17.000000Z
+release_date: "2004-01-01"
 release_id: "18480250"
 slug: "uh-huh-her-18480250"
 hideSummary: true
@@ -31,39 +32,33 @@ During the accompanying  tour that lasted eight months, she performed the album'
 The album received largely positive reviews upon its release, although there was some criticism of its production. It currently holds a 79 out of 100 metascore at Metacritic based upon 28 reviews, indicating "generally favorable reviews". Uh Huh Her also earned PJ Harvey nominations to awards such as the Grammy Awards and the Brit Awards.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Life And Death Of Mr. Badmouth
-2. Shame
-3. Who The Fuck?
-4. The Pocket Knife
-5. The Letter
-6. The Slow Drug
-7. No Child Of Mine
-8. Cat On The Wall
-9. You Come Through
-10. It's You
-11. The End
-12. The Desperate Kingdom Of Love
-13. The Darker Days Of Me And Him
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Life And Death Of Mr. Badmouth |  |
+| A2 | Shame |  |
+| A3 | Who The Fuck? |  |
+| A4 | The Pocket Knife |  |
+| A5 | The Letter |  |
+| B1 | The Slow Drug |  |
+| B2 | No Child Of Mine |  |
+| B3 | Cat On The Wall |  |
+| B4 | You Come Through |  |
+| B5 | It's You |  |
+| B6 | The End |  |
+| B7 | The Desperate Kingdom Of Love |  |
+| B8 | The Darker Days Of Me And Him |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/uh-huh-her/1442242670" >}}<br>
 
 
-## Videos
-### PJ Harvey - Shame
-{{< youtube id="AFLOG2wxg3Q" title="PJ Harvey - Shame" >}}<br>
-### More Videos
-
-- [PJ Harvey - You Come Through](https://www.youtube.com/watch?v=ner3eq4poYA)
-- [PJ Harvey - Who The Fuck](https://www.youtube.com/watch?v=ZxcCN6BgO_k)
-- [The Life And Death Of Mr Badmouth](https://www.youtube.com/watch?v=GnM9ZKuZM60)
-- [Cat On The Wall](https://www.youtube.com/watch?v=TXnJdptcL9A)
-- [The Desperate Kingdom Of Love](https://www.youtube.com/watch?v=sKt1BOdvUKY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +70,5 @@ The album received largely positive reviews upon its release, although there was
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Island Records |
 | Catalog Number | 0725318 |
-| Notes | Cat# 0725318 on back cover, spine and inner sleeve (on top right). 0725318-A and 0725318-B on labels.  On jacket back: 0725318 • LC00407 • BIEM/SDRM ℗2004 Universal Music Operations Ltd. ©2004 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V., 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany. www.pjharvey.net  Label rim text: An Island Records Release. ℗2004 Universal Music Operations Ltd. ©2004 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Made in Germany. LC00407 BIEM/SDRM  Issued with printed inner sleeve.  Download card included with some copies.  Published by Hot Head Music Limited (ASCAP), Administered By Kobalt Songs Music Publishing (ASCAP)  Hype sticker with cat. # affixed to shrink on some copies: Reissue Of The Original 2004 Album Uh Huh Her Featuring The Singles The Letter, You Come Through And Shame  Pressed On 180GSM Vinyl Includes Download Card  Runouts are hand etched and Optimal symbols are mirrored. |
+| Notes | Cat# 0725318 on back cover, spine and inner sleeve (on top right).<br>0725318-A and 0725318-B on labels.<br><br>On jacket back:<br>0725318 • LC00407 • BIEM/SDRM<br>℗2004 Universal Music Operations Ltd. ©2004 Universal Music Operations Ltd.<br>The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company.<br>Universal International Music B.V., 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany.<br>www.pjharvey.net<br><br>Label rim text:<br>An Island Records Release. ℗2004 Universal Music Operations Ltd. ©2004 Universal Music Operations Ltd. The copyright in this recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Made in Germany. LC00407 BIEM/SDRM<br><br>Issued with printed inner sleeve.<br><br>Download card included with some copies.<br><br>Published by Hot Head Music Limited (ASCAP), Administered By Kobalt Songs Music Publishing (ASCAP)<br><br>Hype sticker with cat. # affixed to shrink on some copies:<br>Reissue Of The Original 2004 Album Uh Huh Her Featuring The Singles The Letter, You Come Through And Shame <br>Pressed On 180GSM Vinyl<br>Includes Download Card<br><br>Runouts are hand etched and Optimal symbols are mirrored. |
 | Discogs URL    | [PJ Harvey - Uh Huh Her](https://www.discogs.com/release/18480250-P-J-Harvey-Uh-Huh-Her) |

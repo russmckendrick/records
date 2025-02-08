@@ -38,30 +38,24 @@ She’d grown up with classical piano and jazz standards—worlds where technica
 
 
 ## Tracklisting
-1. Sleep To Dream (4:08)
-2. Sullen Girl (3:54)
-3. Shadowboxer (5:24)
-4. Criminal (5:41)
-5. Slow Like Honey (5:56)
-6. The First Taste (4:46)
-7. Never Is A Promise (5:54)
-8. The Child Is Gone (4:14)
-9. Pale September (5:50)
-10. Carrion (5:43)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sleep To Dream | 4:08 |
+| A2 | Sullen Girl | 3:54 |
+| A3 | Shadowboxer | 5:24 |
+| B1 | Criminal | 5:41 |
+| B2 | Slow Like Honey | 5:56 |
+| C1 | The First Taste | 4:46 |
+| C2 | Never Is A Promise | 5:54 |
+| C3 | The Child Is Gone | 4:14 |
+| D1 | Pale September | 5:50 |
+| D2 | Carrion | 5:43 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tidal/309677190" >}}<br>
 
 
-## Videos
-### Fiona Apple - Criminal Official Video
-{{< youtube id="FFOzayDpWoI" title="Fiona Apple - Criminal Official Video" >}}<br>
-### More Videos
-
-- [Fiona Apple - Shadowboxer Official Video](https://www.youtube.com/watch?v=QnXjISlKLuE)
-- [Fiona Apple - Sleep to Dream Official Video](https://www.youtube.com/watch?v=L9Wnh0V4HMM)
-- [Fiona Apple - Never Is a Promise Official Video](https://www.youtube.com/watch?v=c5XptSCCciU)
-- [Fiona Apple - Tidal Full Album](https://www.youtube.com/watch?v=ogZAA3GpTzA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +67,5 @@ She’d grown up with classical piano and jazz standards—worlds where technica
 | Format         | Vinyl 2× LP 45 RPM Album Club Edition Reissue Remastered (180 gram) |
 | Label          | Epic |
 | Catalog Number | 88985420001 |
-| Notes | Gatefold sleeve. Comes with two two-sided inserts and a lyrics booklet. www.vinylmeplease.com/products/fiona-full  © 1996, 2017 Epic Records, a division of Sony Music Entertainment / ℗ 1996 Epic Records, a division of Sony Music Entertainment / Manufactured for Vinyl Me, Please by Sony Music Entertainment  Recorded at Sony Music Studios, Ocean Way Recorders, 4th Street Recording, Los Angeles Mixed at Brooklyn Recording Studio, Los Angeles [...] Production Coordinator: Valerie Pack for Harvest Moon Productions  All songs [...] © 1996 FHW Publishing (ASCAP) |
+| Notes | Gatefold sleeve. Comes with two two-sided inserts and a lyrics booklet.<br>www.vinylmeplease.com/products/fiona-full<br><br>© 1996, 2017 Epic Records, a division of Sony Music Entertainment / ℗ 1996 Epic Records, a division of Sony Music Entertainment / Manufactured for Vinyl Me, Please by Sony Music Entertainment<br><br>Recorded at Sony Music Studios, Ocean Way Recorders, 4th Street Recording, Los Angeles<br>Mixed at Brooklyn Recording Studio, Los Angeles [...]<br>Production Coordinator: Valerie Pack for Harvest Moon Productions<br><br>All songs [...] © 1996 FHW Publishing (ASCAP) |
 | Discogs URL    | [Fiona Apple - Tidal](https://www.discogs.com/release/10241165-Fiona-Apple-Tidal) |

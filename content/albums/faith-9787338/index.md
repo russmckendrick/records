@@ -34,27 +34,23 @@ Faith is one of the best-selling albums of all time, having sold over 25 million
 
 
 ## Tracklisting
-1. Faith (3:15)
-2. Father Figure (5:36)
-3. I Want Your Sex (9:13)
-4. One More Try (5:49)
-5. Hard Day (4:47)
-6. Hand To Mouth (4:36)
-7. Look At Your Hands (4:36)
-8. Monkey (5:05)
-9. Kissing A Fool (4:34)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Faith | 3:15 |
+| A2 | Father Figure | 5:36 |
+|  | I Want Your Sex | 9:13 |
+| A4 | One More Try | 5:49 |
+| B1 | Hard Day | 4:47 |
+| B2 | Hand To Mouth | 4:36 |
+| B3 | Look At Your Hands | 4:36 |
+| B4 | Monkey | 5:05 |
+| B5 | Kissing A Fool | 4:34 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songs-from-the-last-century/412466113" >}}<br>
 
 
-## Videos
-### George Michael - Faith LP Full Album
-{{< youtube id="GQ5z75ombdg" title="George Michael - Faith LP Full Album" >}}<br>
-### More Videos
-
-- [George Michael - Faith LP Full Album](https://www.youtube.com/watch?v=GQ5z75ombdg)
-- [George Michael - Faith Official Video](https://www.youtube.com/watch?v=6Cs3Pvmmv0E)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +62,5 @@ Faith is one of the best-selling albums of all time, having sold over 25 million
 | Format         | Vinyl LP Album |
 | Label          | Epic |
 | Catalog Number | 460000 1 |
-| Notes | Released with a printed card inner sleeve and separate paper credit insert. Photographs on both inserts.  Recorded at Sarm West and Puk Studios.  Track A3 is given as simply "I Want Your Sex" on the rear sleeve. It is given as "I Want Your Sex (Parts 1 & 2)" on the centre labels; and "I Want Your Sex (Monogamy Mix)"; "Rhythm 1 Lust" and "Rhythm 2 Brass In Love" on the credit inner.  All songs published by Morrison Leahy Music Ltd except "Look At Your Hands" published by Morrison Leahy Music Ltd / EMI Music Ltd.  [Labels]: ℗ 1987 CBS Records EPIC & Epic [logo] ® CBS Inc. Made in England.  [Rear sleeve]: EPIC and Epic [logo] ® CBS Inc. Distribution CBS Records CBS Disques S.A. © 1987 CBS Records Made in England.  [Runouts]: Variant 1 runouts are etched apart from the CBS pressing plant identifiers ] and Λ (given as A in the runouts) which are stamped. |
+| Notes | Released with a printed card inner sleeve and separate paper credit insert.<br>Photographs on both inserts.<br><br>Recorded at Sarm West and Puk Studios.<br><br>Track A3 is given as simply "I Want Your Sex" on the rear sleeve.<br>It is given as "I Want Your Sex (Parts 1 & 2)" on the centre labels;<br>and "I Want Your Sex (Monogamy Mix)"; "Rhythm 1 Lust" and "Rhythm 2 Brass In Love" on the credit inner.<br><br>All songs published by Morrison Leahy Music Ltd except<br>"Look At Your Hands" published by Morrison Leahy Music Ltd / EMI Music Ltd.<br><br>[Labels]:<br>℗ 1987 CBS Records<br>EPIC & Epic [logo] ® CBS Inc.<br>Made in England.<br><br>[Rear sleeve]:<br>EPIC and Epic [logo] ® CBS Inc.<br>Distribution CBS Records CBS Disques S.A.<br>© 1987 CBS Records<br>Made in England.<br><br>[Runouts]:<br>Variant 1 runouts are etched apart from the CBS pressing plant identifiers ] and Λ (given as A in the runouts) which are stamped. |
 | Discogs URL    | [George Michael - Faith](https://www.discogs.com/release/9787338-George-Michael-Faith) |

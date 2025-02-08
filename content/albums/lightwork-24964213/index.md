@@ -4,6 +4,7 @@ artist_name: "Devin Townsend"
 artist: "devin-townsend"
 album_name: "Lightwork"
 date: 2022-11-02T04:54:02.000000Z
+release_date: "2022-11-04"
 release_id: "24964213"
 slug: "lightwork-24964213"
 hideSummary: true
@@ -37,96 +38,85 @@ styles: ["Progressive Metal", "Prog Rock"]
 Lightwork is the twenty-first studio album by Canadian musician Devin Townsend, released on November 4, 2022. The album has been described by Devin as a return to a "song oriented album", with "more traditional arrangements", after his latest releases (Empath and The Puzzle). Lyrically, the album addresses the struggles of the COVID-19 pandemic, while reflecting about the post-pandemic future.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Lightwork
-2. Moonpeople
-3. Lightworker
-4. Equinox
-5. Call Of The Void
-6. Heartbreaker
-7. Dimensions
-8. Celestial Signals
-9. Heavy Burden
-10. Vacation
-11. Children Of God
-12. Nightwork
-13. Starchasm, Pt. 2
-14. Stampys Blaster
-15. Factions
-16. Yogi
-17. Precious Sardine
-18. Hope Is In The World
-19. Children Of Dog
-20. Sober
-21. Boogus
-22. Carry Me Home
-23. Lightwork
-24. Moonpeople
-25. Lightworker
-26. Equinox
-27. Call Of The Void
-28. Heartbreaker
-29. Dimensions
-30. Celestial Signals
-31. Heavy Burden
-32. Vacation
-33. Children Of God
-34. Nightwork
-35. Starchasm, Pt. 2
-36. Stampys Blaster
-37. Factions
-38. Yogi
-39. Precious Sardine
-40. Hope Is In The World
-41. Children Of Dog
-42. Sober
-43. Boogus
-44. Carry Me Home
-45. -
-46. Moonpeople (5.1 Mix)
-47. Lightworker (5.1 Mix)
-48. Equinox (5.1 Mix)
-49. Call Of The Void (5.1 Mix)
-50. Heartbreaker (5.1 Mix)
-51. Dimensions (5.1 Mix)
-52. Celestial Signals (5.1 Mix)
-53. Heavy Burden (5.1 Mix)
-54. Vacation (5.1 Mix)
-55. Children Of God (5.1 Mix)
-56. Moonpeople (Commentary Track)
-57. Lightworker (Commentary Track)
-58. Equinox (Commentary Track)
-59. Call Of The Void (Commentary Track)
-60. Heartbreaker (Commentary Track)
-61. Dimensions (Commentary Track)
-62. Celestial Signals (Commentary Track)
-63. Heavy Burden (Commentary Track)
-64. Vacation (Commentary Track)
-65. Children Of God (Commentary Track)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Lightwork |  |
+| A1 | Moonpeople |  |
+| A2 | Lightworker |  |
+| A3 | Equinox |  |
+| B1 | Call Of The Void |  |
+| B2 | Heartbreaker |  |
+| B3 | Dimensions |  |
+| C1 | Celestial Signals |  |
+| C2 | Heavy Burden |  |
+| C3 | Vacation |  |
+| D | Children Of God |  |
+|  | Nightwork |  |
+| E1 | Starchasm, Pt. 2 |  |
+| E2 | Stampys Blaster |  |
+| E3 | Factions |  |
+| E4 | Yogi |  |
+| E5 | Precious Sardine |  |
+| F1 | Hope Is In The World |  |
+| F2 | Children Of Dog |  |
+| F3 | Sober |  |
+| F4 | Boogus |  |
+| F5 | Carry Me Home |  |
+|  | Lightwork |  |
+| CD1-1 | Moonpeople |  |
+| CD1-2 | Lightworker |  |
+| CD1-3 | Equinox |  |
+| CD1-4 | Call Of The Void |  |
+| CD1-5 | Heartbreaker |  |
+| CD1-6 | Dimensions |  |
+| CD1-7 | Celestial Signals |  |
+| CD1-8 | Heavy Burden |  |
+| CD1-9 | Vacation |  |
+| CD1-10 | Children Of God |  |
+|  | Nightwork |  |
+| CD2-1 | Starchasm, Pt. 2 |  |
+| CD2-2 | Stampys Blaster |  |
+| CD2-3 | Factions |  |
+| CD2-4 | Yogi |  |
+| CD2-5 | Precious Sardine |  |
+| CD2-6 | Hope Is In The World |  |
+| CD2-7 | Children Of Dog |  |
+| CD2-8 | Sober |  |
+| CD2-9 | Boogus |  |
+| CD2-10 | Carry Me Home |  |
+|  | - |  |
+| BD-1 | Moonpeople (5.1 Mix) |  |
+| BD-2 | Lightworker (5.1 Mix) |  |
+| BD-3 | Equinox (5.1 Mix) |  |
+| BD-4 | Call Of The Void (5.1 Mix) |  |
+| BD-5 | Heartbreaker (5.1 Mix) |  |
+| BD-6 | Dimensions (5.1 Mix) |  |
+| BD-7 | Celestial Signals (5.1 Mix) |  |
+| BD-8 | Heavy Burden (5.1 Mix) |  |
+| BD-9 | Vacation (5.1 Mix) |  |
+| BD-10 | Children Of God (5.1 Mix) |  |
+| BD-11 | Moonpeople (Commentary Track) |  |
+| BD-12 | Lightworker (Commentary Track) |  |
+| BD-13 | Equinox (Commentary Track) |  |
+| BD-14 | Call Of The Void (Commentary Track) |  |
+| BD-15 | Heartbreaker (Commentary Track) |  |
+| BD-16 | Dimensions (Commentary Track) |  |
+| BD-17 | Celestial Signals (Commentary Track) |  |
+| BD-18 | Heavy Burden (Commentary Track) |  |
+| BD-19 | Vacation (Commentary Track) |  |
+| BD-20 | Children Of God (Commentary Track) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lightwork/1638165304" >}}<br>
 
 
-## Videos
-### Moonpeople - Official Promo Video
-{{< youtube id="D-kl_I8E0kA" title="Moonpeople - Official Promo Video" >}}<br>
-### More Videos
-
-- [Lightworker - Official Promo Video](https://www.youtube.com/watch?v=-udemfZRJrI)
-- [Call Of The Void - Official Promo Video](https://www.youtube.com/watch?v=SpBO0RbLKJ0)
-- [DEVIN TOWNSEND - LIGHTWORK DELUXE EDITION 2022 FULL ALBUM](https://www.youtube.com/watch?v=nRDVLiYds_M)
-- [Equinox](https://www.youtube.com/watch?v=8t_QBTKrTXU)
-- [Heartbreaker - Official Promo Video](https://www.youtube.com/watch?v=G6cNd3dCVFY)
-- [Moonpeople - Official Promo Video](https://www.youtube.com/watch?v=D-kl_I8E0kA)
-- [Lightworker - Official Promo Video](https://www.youtube.com/watch?v=-udemfZRJrI)
-- [Call Of The Void - Official Promo Video](https://www.youtube.com/watch?v=SpBO0RbLKJ0)
-- [DEVIN TOWNSEND - LIGHTWORK DELUXE EDITION 2022 FULL ALBUM](https://www.youtube.com/watch?v=nRDVLiYds_M)
-- [Unboxing Devin Townsend - Lightwork 2022 Limited Edition Artbook](https://www.youtube.com/watch?v=c2hxyDvgfws)
 
 ## Release Images
 {{< imageGrid >}}

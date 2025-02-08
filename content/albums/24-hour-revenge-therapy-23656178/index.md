@@ -32,25 +32,24 @@ But Jawbreaker frontman Blake Schwarzenbach’s mind was also preoccupied with t
 
 
 ## Tracklisting
-1. The Boat Dreams From The Hill
-2. Indictment
-3. Boxcar
-4. Outpatient
-5. Ashtray Monument
-6. Condition Oakland
-7. Ache
-8. Do You Still Hate Me?
-9. West Bay Invitational
-10. Jinx Removing
-11. In Sadding Around
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Boat Dreams From The Hill |  |
+| A2 | Indictment |  |
+| A3 | Boxcar |  |
+| A4 | Outpatient |  |
+| A5 | Ashtray Monument |  |
+| A6 | Condition Oakland |  |
+| B1 | Ache |  |
+| B2 | Do You Still Hate Me? |  |
+| B3 | West Bay Invitational |  |
+| B4 | Jinx Removing |  |
+| B5 | In Sadding Around |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/24-hour-revenge-therapy/917083177" >}}<br>
 
-
-## Videos
-### Jawbreaker - 24 Hour Revenge Therapy 20th Anniversary Edition Full Album
-{{< youtube id="RZlPHB4xDCI" title="Jawbreaker - 24 Hour Revenge Therapy 20th Anniversary Edition Full Album" >}}<br>
 
 
 ## Release Images
@@ -63,5 +62,5 @@ But Jawbreaker frontman Blake Schwarzenbach’s mind was also preoccupied with t
 | Format         | Vinyl LP Album Reissue Repress |
 | Label          | Blackball Records |
 | Catalog Number | BB-010-LP |
-| Notes | Black vinyl repressing.  Recorded in Chicago three days in May, 1993. Tracks A1/A3/A6 recorded in San Francisco one day in August, 1993. Mastered at K-Disc.  Some copies included a hype sticker and download for six bonus tracks recorded by Steve Albini.  Presumably the Mastering credit on the inner sleeve for John Golden at Golden Mastering also only applies to these bonus tracks.  |
+| Notes | Black vinyl repressing.<br><br>Recorded in Chicago three days in May, 1993.<br>Tracks A1/A3/A6 recorded in San Francisco one day in August, 1993.<br>Mastered at K-Disc.<br><br>Some copies included a hype sticker and download for six bonus tracks recorded by Steve Albini.  Presumably the Mastering credit on the inner sleeve for John Golden at Golden Mastering also only applies to these bonus tracks.<br> |
 | Discogs URL    | [Jawbreaker - 24 Hour Revenge Therapy](https://www.discogs.com/release/23656178-Jawbreaker-24-Hour-Revenge-Therapy) |

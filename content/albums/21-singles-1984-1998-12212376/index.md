@@ -4,6 +4,7 @@ artist_name: "The Jesus And Mary Chain"
 artist: "the-jesus-and-mary-chain"
 album_name: "21 Singles 1984-1998"
 date: 2018-07-06T19:23:18.000000Z
+release_date: ""
 release_id: "12212376"
 slug: "21-singles-1984-1998-12212376"
 hideSummary: true
@@ -25,39 +26,40 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Upside Down
-2. Never Understand
-3. You Trip Me Up
-4. Just Like Honey
-5. Some Candy Talking
-6. April Skies
-7. Happy When It Rains
-8. Darklands
-9. Sidewalking
-10. Blues From A Gun
-11. Head On
-12. Rollercoaster
-13. Reverence
-14. Far Gone And Out
-15. Almost Gold
-16. Snakedriver
-17. Sometimes Always
-18. Come On
-19. I Hate Rock N Roll
-20. Cracking Up
-21. I Love Rock N Roll
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Upside Down |  |
+| A2 | Never Understand |  |
+| A3 | You Trip Me Up |  |
+| A4 | Just Like Honey |  |
+| A5 | Some Candy Talking |  |
+| B1 | April Skies |  |
+| B2 | Happy When It Rains |  |
+| B3 | Darklands |  |
+| B4 | Sidewalking |  |
+| C1 | Blues From A Gun |  |
+| C2 | Head On |  |
+| C3 | Rollercoaster |  |
+| C4 | Reverence |  |
+| C5 | Far Gone And Out |  |
+| C6 | Almost Gold |  |
+| D1 | Snakedriver |  |
+| D2 | Sometimes Always |  |
+| D3 | Come On |  |
+| D4 | I Hate Rock N Roll |  |
+| D5 | Cracking Up |  |
+| D6 | I Love Rock N Roll |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### The Jesus And Mary Chain - You Trip Me Up Official Video
-{{< youtube id="zK2nJWNgZBA" title="The Jesus And Mary Chain - You Trip Me Up Official Video" >}}<br>
-### More Videos
 
-- [The Jesus And Mary Chain - Never Understand Official Music Video](https://www.youtube.com/watch?v=b2bzrCCKDwc)
-- [Jesus And Mary Chain   Upside Down](https://www.youtube.com/watch?v=UnO41-rKUsc)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "Ian Dury And The Blockheads"
 artist: "ian-dury-and-the-blockheads"
 album_name: "Laughter"
 date: 2020-08-02T13:34:01.000000Z
+release_date: "1980-11-28"
 release_id: "2878713"
 slug: "laughter-2878713"
 hideSummary: true
@@ -23,43 +24,32 @@ styles: ["New Wave", "Pop Rock", "Disco"]
 ---
 
 Laughter is the third studio album by Ian Dury and the Blockheads; released in 1980, it was the last studio album Dury made for Stiff Records. It was also the last studio album he made with the Blockheads, until 1998's Mr. Love Pants, though a live album Warts 'n' Audience was produced in 1991.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Sueperman's Big Sister
-2. Pardon
-3. Delusions Of Grandeur
-4. Yes & No (Paula)
-5. Dance Of The Crackpots
-6. Over The Points
-7. (Take Your Elbow Out Of The Soup You're Sitting On The Chicken)
-8. Uncoolohol
-9. Hey, Hey, Take Me Away
-10. Manic Depression (Jimi)
-11. Oh Mr Peanut
-12. Fucking Ada
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sueperman's Big Sister |  |
+| A2 | Pardon |  |
+| A3 | Delusions Of Grandeur |  |
+| A4 | Yes & No (Paula) |  |
+| A5 | Dance Of The Crackpots |  |
+| A6 | Over The Points |  |
+| B1 | (Take Your Elbow Out Of The Soup You're Sitting On The Chicken) |  |
+| B2 | Uncoolohol |  |
+| B3 | Hey, Hey, Take Me Away |  |
+| B4 | Manic Depression (Jimi) |  |
+| B5 | Oh Mr Peanut |  |
+| B6 | Fucking Ada |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/laughter/1488480484" >}}<br>
 
 
-## Videos
-### Ian Dury and The Blockheads -  Suepermans Big Sister Official Video
-{{< youtube id="ITuRemn3naI" title="Ian Dury and The Blockheads -  Suepermans Big Sister Official Video" >}}<br>
-### More Videos
-
-- [Pardon](https://www.youtube.com/watch?v=SGTtf7LHjpc)
-- [Delusions of Grandeur](https://www.youtube.com/watch?v=kAsVTjeFbmo)
-- [Yes and No Paula](https://www.youtube.com/watch?v=sgNEx9A2n5E)
-- [Dance of the Crackpots](https://www.youtube.com/watch?v=XVfy37BALlk)
-- [Over the Points](https://www.youtube.com/watch?v=GktrZs1hr-Y)
-- [Take Your Elbow out the Soup Youre Sitting on the Chicken](https://www.youtube.com/watch?v=3K9bibEhGfY)
-- [Uncoolohol](https://www.youtube.com/watch?v=bHIvP-YAqAE)
-- [Hey Hey Take Me Away](https://www.youtube.com/watch?v=dX68r3Ie9HA)
-- [Manic Depression Jimi](https://www.youtube.com/watch?v=UjsfjUhhPto)
-- [Oh Mr Peanut](https://www.youtube.com/watch?v=DdJ8MIlPxak)
 
 ## Release Images
 {{< imageGrid >}}

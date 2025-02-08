@@ -4,6 +4,7 @@ artist_name: "Neil Finn"
 artist: "neil-finn"
 album_name: "Goin' Your Way (Highlights)"
 date: 2017-07-16T08:41:10.000000Z
+release_date: "2015-12-11"
 release_id: "7780882"
 slug: "goin-your-way-highlights-7780882"
 hideSummary: true
@@ -25,29 +26,29 @@ styles: ["Acoustic", "Pop Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. She Will Have Her Way (5:24)
-2. Careless (3:48)
-3. Distant Sun (4:31)
-4. Before Too Long (3:32)
-5. Won't Give In (4:41)
-6. Don't Stand So Close To The Window (2:52)
-7. Four Seasons In One Day (3:48)
-8. Into Temptation (5:03)
-9. To Her Door (3:34)
-10. Don't Dream It's Over (4:31)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | She Will Have Her Way | 5:24 |
+| A2 | Careless | 3:48 |
+| A3 | Distant Sun | 4:31 |
+| A4 | Before Too Long | 3:32 |
+| A5 | Won't Give In | 4:41 |
+| B1 | Don't Stand So Close To The Window | 2:52 |
+| B2 | Four Seasons In One Day | 3:48 |
+| B3 | Into Temptation | 5:03 |
+| B4 | To Her Door | 3:34 |
+| B5 | Don't Dream It's Over | 4:31 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/goin-your-way/1055804128" >}}<br>
 
 
-## Videos
-### Neil Finn  Paul Kelly - Goin Your Way Trailer
-{{< youtube id="Vh7Jk9tUluY" title="Neil Finn  Paul Kelly - Goin Your Way Trailer" >}}<br>
-### More Videos
-
-- [Neil Finn  Paul Kelly - Goin Your Way Trailer](https://www.youtube.com/watch?v=Vh7Jk9tUluY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,5 +59,5 @@ styles: ["Acoustic", "Pop Rock"]
 | Format         | Vinyl LP (Yellow Highlighter ) |
 | Label          | Omnivore Recordings |
 | Catalog Number | OVLP-154 |
-| Notes | Recorded in Sydney on Monday, 18 March 2013   |
+| Notes | Recorded in Sydney on Monday, 18 March 2013<br> |
 | Discogs URL    | [Neil Finn - Goin' Your Way (Highlights)](https://www.discogs.com/release/7780882-Neil-Finn-Paul-Kelly-2-Goin-Your-Way-Highlights) |

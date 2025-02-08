@@ -4,6 +4,7 @@ artist_name: "Primal Scream"
 artist: "primal-scream"
 album_name: "Maximum Rock 'N' Roll The Singles Volume 2 "
 date: 2019-06-16T21:51:19.000000Z
+release_date: "2019-05-24"
 release_id: "13767591"
 slug: "maximum-rock-n-roll-the-singles-volume-2-13767591"
 hideSummary: true
@@ -21,26 +22,31 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Accelerator
-2. Miss Lucifer
-3. Autobahn 66
-4. Some Velvet Morning
-5. Country Girl
-6. Dolls
-7. Sometimes I Feel So Lonely
-8. Can't Go Back
-9. Uptown
-10. 2013
-11. It's Alright, It's OK
-12. Goodbye Johnny
-13. Where The Light Gets In
-14. 100% Or Nothing
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Accelerator |  |
+| A2 | Miss Lucifer |  |
+| A3 | Autobahn 66 |  |
+| A4 | Some Velvet Morning |  |
+| B5 | Country Girl |  |
+| B6 | Dolls |  |
+| B7 | Sometimes I Feel So Lonely |  |
+| C8 | Can't Go Back |  |
+| C9 | Uptown |  |
+| C10 | 2013 |  |
+| C11 | It's Alright, It's OK |  |
+| D12 | Goodbye Johnny |  |
+| D13 | Where The Light Gets In |  |
+| D14 | 100% Or Nothing |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/maximum-rock-n-roll-the-singles-remastered/1459271784" >}}<br>
-
 
 
 
@@ -53,5 +59,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl LP (Green), Vinyl LP (White), All Media Compilation Limited Edition Remastered |
 | Label          | Sony Music |
 | Catalog Number | 19075933811 |
-| Notes | Limited 500 copies in gatefold sleeve with download code.  Tracks numbered sequentially from 1 to 14 on artwork (back cover and labels). |
+| Notes | Limited 500 copies in gatefold sleeve with download code.<br><br>Tracks numbered sequentially from 1 to 14 on artwork (back cover and labels). |
 | Discogs URL    | [Primal Scream - Maximum Rock 'N' Roll The Singles Volume 2 ](https://www.discogs.com/release/13767591-Primal-Scream-Maximum-Rock-N-Roll-The-Singles-Volume-2-) |

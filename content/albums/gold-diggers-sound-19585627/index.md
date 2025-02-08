@@ -48,42 +48,25 @@ The songs born of those sessions—produced by Ricky Reed and Nate Mercereau—b
 
 
 ## Tracklisting
-1. Born Again
-2. Motorbike
-3. Steam
-4. Why Don't You Touch Me
-5. Magnolias
-6. Gold-Diggers (Junior's Fanfare)
-7. Details
-8. Sho Nuff
-9. Sweeter
-10. Don't Worry
-11. Blue Mesas
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Born Again |  |
+| A2 | Motorbike |  |
+| A3 | Steam |  |
+| A4 | Why Don't You Touch Me |  |
+| A5 | Magnolias |  |
+| B1 | Gold-Diggers (Junior's Fanfare) |  |
+| B2 | Details |  |
+| B3 | Sho Nuff |  |
+| B4 | Sweeter |  |
+| B5 | Don't Worry |  |
+| B6 | Blue Mesas |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gold-diggers-sound/1565612362" >}}<br>
 
 
-## Videos
-### Leon Bridges - Details Official Audio
-{{< youtube id="3izvKqufprY" title="Leon Bridges - Details Official Audio" >}}<br>
-### More Videos
-
-- [Leon Bridges - Sho Nuff Official Audio](https://www.youtube.com/watch?v=L5TSafwHkV8)
-- [Leon Bridges - Blue Mesas Official Audio](https://www.youtube.com/watch?v=2QjPc81E09A)
-- [Leon Bridges Robert Glasper - Born Again Official Audio](https://www.youtube.com/watch?v=qD04kpUV3nc)
-- [Leon Bridges - Dont Worry Official Audio ft Ink](https://www.youtube.com/watch?v=SZr3i-v0RBY)
-- [Leon Bridges - Magnolias Official Audio](https://www.youtube.com/watch?v=zii5MS4rEBI)
-- [Leon Bridges - Details Official Audio](https://www.youtube.com/watch?v=3izvKqufprY)
-- [Leon Bridges - Sho Nuff Official Audio](https://www.youtube.com/watch?v=L5TSafwHkV8)
-- [Leon Bridges - Blue Mesas Official Audio](https://www.youtube.com/watch?v=2QjPc81E09A)
-- [Leon Bridges Robert Glasper - Born Again Official Audio](https://www.youtube.com/watch?v=qD04kpUV3nc)
-- [Leon Bridges - Dont Worry Official Audio ft Ink](https://www.youtube.com/watch?v=SZr3i-v0RBY)
-- [Leon Bridges - Magnolias Official Audio](https://www.youtube.com/watch?v=zii5MS4rEBI)
-- [Leon Bridges - Steam Official Video](https://www.youtube.com/watch?v=c7IxY6CTiVA)
-- [Leon Bridges - Motorbike Official Video](https://www.youtube.com/watch?v=Y9OMJ0HvPbk)
-- [Leon Bridges  Gold-Diggers Sound 2021](https://www.youtube.com/watch?v=xo4I7l2ZA0Y)
-- [Leon Bridges   Gold Diggers Sound](https://www.youtube.com/watch?v=CtITTNg3sE0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -95,5 +78,5 @@ The songs born of those sessions—produced by Ricky Reed and Nate Mercereau—b
 | Format         | Vinyl LP Album |
 | Label          | Columbia |
 | Catalog Number | 19439886991 |
-| Notes | Cat # on spine: 19439886991. Cat # on sticker (cover): 19439886991 S1.  |
+| Notes | Cat # on spine: 19439886991.<br>Cat # on sticker (cover): 19439886991 S1.<br> |
 | Discogs URL    | [Leon Bridges - Gold-Diggers Sound](https://www.discogs.com/release/19585627-Leon-Bridges-Gold-Diggers-Sound) |

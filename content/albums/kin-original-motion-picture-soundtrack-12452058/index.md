@@ -4,6 +4,7 @@ artist_name: "Mogwai"
 artist: "mogwai"
 album_name: "Kin (Original Motion Picture Soundtrack)"
 date: 2018-09-03T17:51:16.000000Z
+release_date: "2018-06-21"
 release_id: "12452058"
 slug: "kin-original-motion-picture-soundtrack-12452058"
 hideSummary: true
@@ -24,28 +25,28 @@ styles: ["Post Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Eli's Theme
-2. Scrap
-3. Flee
-4. Funeral Pyre
-5. Donuts
-6. Miscreants
-7. Guns Down
-8. Kin
-9. We're Not Done (End Title)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Eli's Theme |  |
+| A2 | Scrap |  |
+| A3 | Flee |  |
+| A4 | Funeral Pyre |  |
+| A5 | Donuts |  |
+| B1 | Miscreants |  |
+| B2 | Guns Down |  |
+| B3 | Kin |  |
+| B4 | We're Not Done (End Title) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/were-not-done-end-title-from-the-kin-original-motion/1392201092" >}}<br>
 
 
-## Videos
-### Mogwai  Donuts Official Audio
-{{< youtube id="_5CHTscFyFo" title="Mogwai  Donuts Official Audio" >}}<br>
-### More Videos
-
-- [Mogwai - KIN Full Album](https://www.youtube.com/watch?v=J7d-9812sRg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,5 +57,5 @@ styles: ["Post Rock"]
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT 115LPX |
-| Notes | Comes on heavyweight vinyl and includes a digital music download.  Kin © Kin Pictures USA, LLC. Artwork & supplementary materials © 2018 Summit Entertainment, LLC. Score © 2018 A Lion Music (ASCAP). All recordings ℗ 2018 Summit Entertainment, LLC. This compilation ℗&© 2018 Summit Entertainment, LLC. Under exclusive license to Rock Action Records. Made in the EU.  The catalog number 'ROCKACT115LPX' only appears on the red sticker on the front of the shrink wrap. The catalog number 'ROCKACT115LP' appears on the spine and the rear of the sleeve.  Some copies purchased from Monorail Music in Glasgow came with a signed poster. |
+| Notes | Comes on heavyweight vinyl and includes a digital music download.<br><br>Kin © Kin Pictures USA, LLC. Artwork & supplementary materials © 2018 Summit Entertainment, LLC. Score © 2018 A Lion Music (ASCAP). All recordings ℗ 2018 Summit Entertainment, LLC. This compilation ℗&© 2018 Summit Entertainment, LLC. Under exclusive license to Rock Action Records. Made in the EU.<br><br>The catalog number 'ROCKACT115LPX' only appears on the red sticker on the front of the shrink wrap. The catalog number 'ROCKACT115LP' appears on the spine and the rear of the sleeve.<br><br>Some copies purchased from Monorail Music in Glasgow came with a signed poster. |
 | Discogs URL    | [Mogwai - Kin (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12452058-Mogwai-Kin-Original-Motion-Picture-Soundtrack) |

@@ -26,27 +26,29 @@ Beginning with the killer B-side “Gimme the Car” (later a bonus cut on the s
 
 
 ## Tracklisting
-1. Gimme The Car
-2. Blister In The Sun
-3. Gone Daddy Gone / I Just Want To Make Love To You
-4. Kiss Off
-5. Add It Up
-6. Black Girls
-7. Jesus Walking On The Water
-8. Children Of The Revolution
-9. I Held Her In My Arms
-10. Nightmares
-11. American Music
-12. Breakin' Up
-13. Color Me Once
-14. I Danced
-15. Country Death Song (Live, 1998)
-16. Freak Magnet
-17. Good Feeling (Live At Rhino)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Gimme The Car |  |
+| A2 | Blister In The Sun |  |
+| A3 | Gone Daddy Gone / I Just Want To Make Love To You |  |
+| A4 | Kiss Off |  |
+| A5 | Add It Up |  |
+| B1 | Black Girls |  |
+| B2 | Jesus Walking On The Water |  |
+| B3 | Children Of The Revolution |  |
+| B4 | I Held Her In My Arms |  |
+| C1 | Nightmares |  |
+| C2 | American Music |  |
+| C3 | Breakin' Up |  |
+| C4 | Color Me Once |  |
+| D1 | I Danced |  |
+| D2 | Country Death Song (Live, 1998) |  |
+| D3 | Freak Magnet |  |
+| D4 | Good Feeling (Live At Rhino) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/permanent-record-the-very-best-of-the-violent-femmes/1567635436" >}}<br>
-
 
 
 
@@ -59,5 +61,5 @@ Beginning with the killer B-side “Gimme the Car” (later a bonus cut on the s
 | Format         | Vinyl 2× LP Record Store Day Compilation Reissue Remastered (Coke Bottle Clear) |
 | Label          | Craft Recordings |
 | Catalog Number | CR00140 |
-| Notes |  RSD Black Friday limited to 2500 copies, indie-retail exclusive. Gatefold sleeve. Printed inner sleeves.  Good Feeling (Live at Rhino) recorded live at Rhino, Los Angeles, CA, June 14, 2002.     ℗ & © 2005 Craft Recordings Made in U.S.A. |
+| Notes | <br>RSD Black Friday limited to 2500 copies, indie-retail exclusive.<br>Gatefold sleeve.<br>Printed inner sleeves.<br><br>Good Feeling (Live at Rhino) recorded live at Rhino, Los Angeles, CA, June 14, 2002.<br><br><br><br><br>℗ & © 2005 Craft Recordings<br>Made in U.S.A. |
 | Discogs URL    | [Violent Femmes - Permanent Record: The Very Best Of Violent Femmes](https://www.discogs.com/release/12833932-Violent-Femmes-Permanent-Record-The-Very-Best-Of-Violent-Femmes) |

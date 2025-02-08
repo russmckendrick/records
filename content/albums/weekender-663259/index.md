@@ -4,6 +4,7 @@ artist_name: "Flowered Up"
 artist: "flowered-up"
 album_name: "Weekender"
 date: 2017-01-25T18:25:25.000000Z
+release_date: "1992-04-06"
 release_id: "663259"
 slug: "weekender-663259"
 hideSummary: true
@@ -24,45 +25,21 @@ styles: ["Indie Rock"]
 "Weekender" charted in the United Kingdom for five weeks, peaking at number 20 on the charts. The song received positive reviews on its initial release and was later referred to by The Guardian as the group's masterpiece.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Weekender (12:53)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Weekender | 12:53 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/weatheralls-weekender/1549273189" >}}<br>
 
 
-## Videos
-### Flowered Up - Weekender 12 version
-{{< youtube id="Gn2GYzJjR2I" title="Flowered Up - Weekender 12 version" >}}<br>
-### More Videos
-
-- [Flowered Up - Weekender](https://www.youtube.com/watch?v=IDJpF3ZWTn0)
-- [Flowered Up - Weatheralls Weekender Audrey Is A Little Bit More partial mix](https://www.youtube.com/watch?v=qMzyCoqzrZM)
-- [Weatheralls Weekender audrey is a little bit partial mix](https://www.youtube.com/watch?v=uHpL-p6WE3w)
-- [HVN16 - Flowered Up Weekender  film](https://www.youtube.com/watch?v=RrpCdoRgBpQ)
-- [Flowered up - Weekender Part 2 of 2](https://www.youtube.com/watch?v=RpgPH0GfGV4)
-- [Flowered Up - Weekender](https://www.youtube.com/watch?v=o4gKTRuc-5Q)
-- [Flowered Up - Weekender  Full video](https://www.youtube.com/watch?v=TVJFGRUL8EQ)
-- [Flowered Up  Weekender](https://www.youtube.com/watch?v=IYnxpwWmdM4)
-- [Flowered Up Weekender](https://www.youtube.com/watch?v=dbfUw9F7A8M)
-- [FLOWERED UP WEEKENDER FULL VERSION](https://www.youtube.com/watch?v=TdLqoZSsd_U)
-- [Flowered up   Weekender Part 1](https://www.youtube.com/watch?v=9KRdyNkeJn4)
-- [Flowered Up - Weekender](https://www.youtube.com/watch?v=o4gKTRuc-5Q)
-- [Flowered Up - Weekender  Full video](https://www.youtube.com/watch?v=TVJFGRUL8EQ)
-- [HVN16 - Flowered Up Weekender  film](https://www.youtube.com/watch?v=RrpCdoRgBpQ)
-- [Flowered Up Weekender](https://www.youtube.com/watch?v=dbfUw9F7A8M)
-- [Flowered Up  Weekender](https://www.youtube.com/watch?v=IYnxpwWmdM4)
-- [Flowered up   Weekender Part 1](https://www.youtube.com/watch?v=9KRdyNkeJn4)
-- [Flowered up   Weekender Part 2](https://www.youtube.com/watch?v=-FxRfGTvVCA)
-- [FLOWERED UP WEEKENDER FULL VERSION](https://www.youtube.com/watch?v=TdLqoZSsd_U)
-- [Flowered Up - Weatheralls Weekender Audrey Is A Little Bit Partial Mix](https://www.youtube.com/watch?v=UO-9SVSAPAM)
-- [Flowered Up - Weatheralls Weekender Audrey Is A Little Bit More Partial Mix Heavenly 1992](https://www.youtube.com/watch?v=nblT-P5NIkc)
-- [Flowered Up - Cracker Jack](https://www.youtube.com/watch?v=48V6cC2v5tY)
-- [Flowered Up - Enoughs Enough - Weekender 12](https://www.youtube.com/watch?v=iNNu2Aca9Uc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +51,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 12" 45 RPM Single Sided |
 | Label          | Heavenly |
 | Catalog Number | HVN 16 |
-| Notes | Recorded at Westside Studios, London.    © 1992 Sony Music Entertainment (UK) Ltd.  ℗ 1992 Sony Music Entertainment (UK) Ltd. |
+| Notes | Recorded at Westside Studios, London.<br><br>© 1992 Sony Music Entertainment (UK) Ltd.<br>℗ 1992 Sony Music Entertainment (UK) Ltd. |
 | Discogs URL    | [Flowered Up - Weekender](https://www.discogs.com/release/663259-Flowered-Up-Weekender) |

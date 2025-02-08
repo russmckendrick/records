@@ -37,44 +37,28 @@ Even in the midst of bands like Nirvana and Sonic Youth, Pavement’s conversion
 
 
 ## Tracklisting
-1. Summer Babe (Winter Version)
-2. Trigger Cut / Wounded-Kite At :17
-3. No Life Singed Her
-4. In The Mouth A Desert
-5. Conduit For Sale!
-6. Zurich Is Stained
-7. Chesley's Little Wrists
-8. Loretta's Scars
-9. Here
-10. Two States
-11. Perfume-V
-12. Fame Throwa
-13. Jackals, False Grails: The Lonesome Era
-14. Our Singer
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Summer Babe (Winter Version) |  |
+| A2 | Trigger Cut / Wounded-Kite At :17 |  |
+| A3 | No Life Singed Her |  |
+| A4 | In The Mouth A Desert |  |
+| A5 | Conduit For Sale! |  |
+| A6 | Zurich Is Stained |  |
+| A7 | Chesley's Little Wrists |  |
+| B1 | Loretta's Scars |  |
+| B2 | Here |  |
+| B3 | Two States |  |
+| B4 | Perfume-V |  |
+| B5 | Fame Throwa |  |
+| B6 | Jackals, False Grails: The Lonesome Era |  |
+| B7 | Our Singer |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/slanted-enchanted/1589229771" >}}<br>
 
 
-## Videos
-### Summer Babe Winter Version
-{{< youtube id="3cJY0dlzH_g" title="Summer Babe Winter Version" >}}<br>
-### More Videos
-
-- [Trigger CutWounded Kite at 17](https://www.youtube.com/watch?v=Lcrp3mGV_eg)
-- [No Life Singed Her](https://www.youtube.com/watch?v=RuxEvhnBKm4)
-- [In the Mouth A Desert](https://www.youtube.com/watch?v=buMcFUZVqaA)
-- [Conduit For Sale](https://www.youtube.com/watch?v=lpwhcn9R-PQ)
-- [Zürich Is Stained](https://www.youtube.com/watch?v=x74e-RWQP1w)
-- [Chesleys Little Wrists](https://www.youtube.com/watch?v=aEVnDo-m1f8)
-- [Lorettas Scars](https://www.youtube.com/watch?v=LW00xW1vPYo)
-- [Two States](https://www.youtube.com/watch?v=-ws2YMkN-J0)
-- [Perfume-V](https://www.youtube.com/watch?v=GtmEkWV2S50)
-- [Fame Throwa](https://www.youtube.com/watch?v=-9s9EMrHFYE)
-- [Jackals False Grails The Lonesome Era](https://www.youtube.com/watch?v=dG_69muRWCw)
-- [Our Singer](https://www.youtube.com/watch?v=IlmL9BggCNo)
-- [Trigger CutWounded-Kite At 17](https://www.youtube.com/watch?v=-nEs3vODGrE)
-- [Summer Babe Winter Version](https://www.youtube.com/watch?v=skGqpC0WYSk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +70,5 @@ Even in the midst of bands like Nirvana and Sonic Youth, Pavement’s conversion
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Red w/ White & Black Splatter) |
 | Label          | Matador |
 | Catalog Number | OLE038LP |
-| Notes | 30th Anniversary Red w/ White & Black Splatter Vinyl  Made in Czech Republic |
+| Notes | 30th Anniversary Red w/ White & Black Splatter Vinyl<br><br>Made in Czech Republic |
 | Discogs URL    | [Pavement - Slanted And Enchanted](https://www.discogs.com/release/24013337-Pavement-Slanted-And-Enchanted) |

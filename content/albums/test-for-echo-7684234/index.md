@@ -4,6 +4,7 @@ artist_name: "Rush"
 artist: "rush"
 album_name: "Test For Echo"
 date: 2017-02-27T13:59:57.000000Z
+release_date: "1996-09-10"
 release_id: "7684234"
 slug: "test-for-echo-7684234"
 hideSummary: true
@@ -33,42 +34,31 @@ Test for Echo is the sixteenth studio album by the Canadian rock band Rush, rele
 The title track reached No. 1 on the mainstream rock chart. The song "Driven" became a bass showcase for Geddy Lee during live performances, while "Resist" was rearranged as an acoustic song on the Vapor Trails and R30 tours. The band did not perform any tracks from the album on subsequent tours. Test for Echo was remastered and reissued twice: in 2004 as a continuation of "The Rush Remasters" set and in 2013 as a part of the box set The Studio Albums 1989–2007. In 2015, it was reissued after being remastered by Sean Magee at Abbey Road Studios following a direct approach by Rush to remaster their entire back catalogue.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Test For Echo (5:56)
-2. Driven (4:27)
-3. Half The World (3:43)
-4. The Color Of Right (4:49)
-5. Time And Motion (5:02)
-6. Totem (4:59)
-7. Dog Years (4:55)
-8. Virtuality (5:44)
-9. Resist (4:24)
-10. Limbo (5:29)
-11. Carve Away The Stone (4:08)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Test For Echo | 5:56 |
+| A2 | Driven | 4:27 |
+| A3 | Half The World | 3:43 |
+| A4 | The Color Of Right | 4:49 |
+| B1 | Time And Motion | 5:02 |
+| B2 | Totem | 4:59 |
+| B3 | Dog Years | 4:55 |
+| C1 | Virtuality | 5:44 |
+| C2 | Resist | 4:24 |
+| C3 | Limbo | 5:29 |
+| C4 | Carve Away The Stone | 4:08 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/test-for-echo/642222761" >}}<br>
 
 
-## Videos
-### Test for Echo Remastered
-{{< youtube id="_zfIYInFMhg" title="Test for Echo Remastered" >}}<br>
-### More Videos
-
-- [Driven Remastered](https://www.youtube.com/watch?v=Vo20tDqnf_U)
-- [Half the World Remastered](https://www.youtube.com/watch?v=2GvCXX4nRb4)
-- [The Color of Right Remastered](https://www.youtube.com/watch?v=WNcK5nFyrO4)
-- [Time and Motion Remastered](https://www.youtube.com/watch?v=i4pnxlDitdA)
-- [Totem Remastered](https://www.youtube.com/watch?v=mI208DRLsFc)
-- [Dog Years Remastered](https://www.youtube.com/watch?v=Cgp6_jJnrO8)
-- [Virtuality Remastered](https://www.youtube.com/watch?v=4H2_fQ8xWCM)
-- [Resist Remastered](https://www.youtube.com/watch?v=lcTf3ed4Bp8)
-- [Limbo Remastered](https://www.youtube.com/watch?v=MLl4d1KlxZ4)
-- [Carve Away the Stone Remastered](https://www.youtube.com/watch?v=bOBS6m18qnQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +70,5 @@ The title track reached No. 1 on the mainstream rock chart. The song "Driven" be
 | Format         | Vinyl LP (200g), Vinyl LP Single Sided Etched (200g), All Media Album Reissue Remastered Special Edition |
 | Label          | Atlantic |
 | Catalog Number | R1 83739 |
-| Notes | Includes High Quality Download Code  Etched D Side |
+| Notes | Includes High Quality Download Code <br>Etched D Side |
 | Discogs URL    | [Rush - Test For Echo](https://www.discogs.com/release/7684234-Rush-Test-For-Echo) |

@@ -4,6 +4,7 @@ artist_name: "Pixies"
 artist: "pixies"
 album_name: "Best Of Pixies (Wave Of Mutilation)"
 date: 2016-11-21T12:13:43.000000Z
+release_date: "2022-03-09"
 release_id: "2650664"
 slug: "best-of-pixies-wave-of-mutilation-2650664"
 hideSummary: true
@@ -28,63 +29,42 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Bone Machine
-2. Nimrod's Son
-3. The Holiday Song
-4. Caribou
-5. Broken Face
-6. Gigantic
-7. Vamos
-8. Hey
-9. Monkey Gone To Heaven
-10. Debaser
-11. Gouge Away
-12. Wave Of Mutilation
-13. Here Comes Your Man
-14. Tame
-15. Where Is My Mind?
-16. Into The White
-17. Velouria
-18. Allison
-19. Dig For Fire
-20. U-Mass
-21. Alec Eiffel
-22. Planet Of Sound
-23. Winterlong
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Bone Machine |  |
+| A2 | Nimrod's Son |  |
+| A3 | The Holiday Song |  |
+| A4 | Caribou |  |
+| A5 | Broken Face |  |
+| A6 | Gigantic |  |
+| B1 | Vamos |  |
+| B2 | Hey |  |
+| B3 | Monkey Gone To Heaven |  |
+| B4 | Debaser |  |
+| B5 | Gouge Away |  |
+| B6 | Wave Of Mutilation |  |
+| C1 | Here Comes Your Man |  |
+| C2 | Tame |  |
+| C3 | Where Is My Mind? |  |
+| C4 | Into The White |  |
+| C5 | Velouria |  |
+| D1 | Allison |  |
+| D2 | Dig For Fire |  |
+| D3 | U-Mass |  |
+| D4 | Alec Eiffel |  |
+| D5 | Planet Of Sound |  |
+| D6 | Winterlong |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wave-of-mutilation-single/1606788796" >}}<br>
 
 
-## Videos
-### Bone Machine
-{{< youtube id="HfLk4o6ybCU" title="Bone Machine" >}}<br>
-### More Videos
-
-- [Nimrods Son](https://www.youtube.com/watch?v=XCXnIQ5Dqmo)
-- [The Holiday Song](https://www.youtube.com/watch?v=W1H3nsxL1Qs)
-- [Caribou](https://www.youtube.com/watch?v=yQEkLOxFZoQ)
-- [Broken Face](https://www.youtube.com/watch?v=t1WFxCaRFPI)
-- [Gigantic](https://www.youtube.com/watch?v=R0id6tY9AY8)
-- [Vamos Surfer Rosa](https://www.youtube.com/watch?v=nOl_2h01WrQ)
-- [Hey](https://www.youtube.com/watch?v=tVCUAXOBF7w)
-- [PIXIES - Monkey Gone to Heaven Official Video](https://www.youtube.com/watch?v=OncDlwNH9F0)
-- [Pixies - Debaser Official Video](https://www.youtube.com/watch?v=PVyS9JwtFoQ)
-- [The Pixies - Gouge Away Lyrics](https://www.youtube.com/watch?v=BDHidMlViMc)
-- [Pixies - Wave of Mutilation UK Surf](https://www.youtube.com/watch?v=hvHJOus1pRo)
-- [Pixies - Here Comes Your Man Official Video](https://www.youtube.com/watch?v=tPgf_btTFlc)
-- [Pixies - Tame 1989](https://www.youtube.com/watch?v=KR2OiHiysLg)
-- [Pixies - Where Is My Mind](https://www.youtube.com/watch?v=N3oCS85HvpY)
-- [Pixies - Into the White](https://www.youtube.com/watch?v=hnMS6_NqZls)
-- [Pixies - Velouria Official Video](https://www.youtube.com/watch?v=nc0Mv4Iyxvc)
-- [Pixies Allison](https://www.youtube.com/watch?v=pGtnI3EPkKw)
-- [Pixies - Dig For Fire  Allison Official Video](https://www.youtube.com/watch?v=n37Bdr559to)
-- [The Pixies - U mass](https://www.youtube.com/watch?v=cN4V5XjyR6s)
-- [Pixies - Alec Eiffel](https://www.youtube.com/watch?v=TCWbsEuEaVw)
-- [Pixies - Planet Of Sound](https://www.youtube.com/watch?v=YAAmYe6Qfd0)
-- [Winterlong](https://www.youtube.com/watch?v=RpYehve028w)
 
 ## Release Images
 {{< imageGrid >}}
@@ -95,5 +75,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl 2× LP Compilation Album |
 | Label          | 4AD |
 | Catalog Number | CAD 2406 |
-| Notes | House in a gatefold outer sleeve with plain white inner sleeves.    Track A2 to A4 recorded at Fort Apache, Roxbury, MA. From '[url=http://www.discogs.com/Pixies-Come-On-Pilgrim/master/16745]Come On Pilgrim[/url]'.  Tracks A1, A5, B1 and C3 recorded at 2 Division, Boston, MA. From '[url=http://www.discogs.com/Pixies-Surfer-Rosa/master/16731]Surfer Rosa[/url]'.  Track A6 single version re-recorded from '[url=http://www.discogs.com/Pixies-Surfer-Rosa/master/16731]Surfer Rosa[/url]'.  B4 to C2 recorded at Downtown Recorders, Boston, MA. Mixed at Carridge House Studios, Stamford, CT. From '[url=http://www.discogs.com/Pixies-Doolittle/master/16764]Doolittle[/url]'.  C4 recorded at Fort Apache, Roxbury, MA. From '[url=http://www.discogs.com/Pixies-Complete-B-Sides/master/16868]Complete 'B' Sides[/url]'.  C5 to D2 from '[url=http://www.discogs.com/Pixies-Bossanova/master/16787]Bossanova[/url]'.  D6 recorded at Fort Apache, Roxbury, MA. From '[url=http://www.discogs.com/Pixies-Complete-B-Sides/master/16868]Complete 'B' Sides[/url]'.  D3 to D5 recorded at Master Control, Burbank, CA. From '[url=http://www.discogs.com/Pixies-Trompe-Le-Monde/master/16797]Trompe Le Monde[/url]'.    All songs published by Rice And Beans Music (BMI) except 'Winterlong' published by Warner Chappell Music Ltd.    Side A:  Tracks 2, 3, 4, ℗1987 4AD.  Tracks 1, 5, 6, ℗1988 4AD.    Side B:  Track 1 ℗1988 4AD.  Tracks 2, 3, 4, 5, 6, ℗1989 4AD    Side C:  Tracks 1, 2, 4, ℗1989 4AD.  Track 3, ℗1988 4AD.  Track5, ℗1990 4AD.    Side D:  Tracks 1, 2, 6, ℗1990 4AD.  Tracks 3, 4, 5, ℗1991 4AD.    John Dent, Loud Mastering and United Record Pressing are not directly credited on the release but have been identified via their etchings in the vinyl runout.   |
+| Notes | House in a gatefold outer sleeve with plain white inner sleeves.<br><br>Track A2 to A4 recorded at Fort Apache, Roxbury, MA. From '[url=http://www.discogs.com/Pixies-Come-On-Pilgrim/master/16745]Come On Pilgrim[/url]'.<br>Tracks A1, A5, B1 and C3 recorded at 2 Division, Boston, MA. From '[url=http://www.discogs.com/Pixies-Surfer-Rosa/master/16731]Surfer Rosa[/url]'.<br>Track A6 single version re-recorded from '[url=http://www.discogs.com/Pixies-Surfer-Rosa/master/16731]Surfer Rosa[/url]'.<br>B4 to C2 recorded at Downtown Recorders, Boston, MA. Mixed at Carridge House Studios, Stamford, CT. From '[url=http://www.discogs.com/Pixies-Doolittle/master/16764]Doolittle[/url]'.<br>C4 recorded at Fort Apache, Roxbury, MA. From '[url=http://www.discogs.com/Pixies-Complete-B-Sides/master/16868]Complete 'B' Sides[/url]'.<br>C5 to D2 from '[url=http://www.discogs.com/Pixies-Bossanova/master/16787]Bossanova[/url]'.<br>D6 recorded at Fort Apache, Roxbury, MA. From '[url=http://www.discogs.com/Pixies-Complete-B-Sides/master/16868]Complete 'B' Sides[/url]'.<br>D3 to D5 recorded at Master Control, Burbank, CA. From '[url=http://www.discogs.com/Pixies-Trompe-Le-Monde/master/16797]Trompe Le Monde[/url]'.<br><br>All songs published by Rice And Beans Music (BMI) except 'Winterlong' published by Warner Chappell Music Ltd.<br><br>Side A:<br>Tracks 2, 3, 4, ℗1987 4AD.<br>Tracks 1, 5, 6, ℗1988 4AD.<br><br>Side B:<br>Track 1 ℗1988 4AD.<br>Tracks 2, 3, 4, 5, 6, ℗1989 4AD<br><br>Side C:<br>Tracks 1, 2, 4, ℗1989 4AD.<br>Track 3, ℗1988 4AD.<br>Track5, ℗1990 4AD.<br><br>Side D:<br>Tracks 1, 2, 6, ℗1990 4AD.<br>Tracks 3, 4, 5, ℗1991 4AD.<br><br>John Dent, Loud Mastering and United Record Pressing are not directly credited on the release but have been identified via their etchings in the vinyl runout.<br> |
 | Discogs URL    | [Pixies - Best Of Pixies (Wave Of Mutilation)](https://www.discogs.com/release/2650664-Pixies-Best-Of-Pixies-Wave-Of-Mutilation) |

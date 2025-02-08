@@ -4,6 +4,7 @@ artist_name: "DJ Spinna"
 artist: "dj-spinna"
 album_name: "The Wonder Of Stevie (Essential Stevie Compositions, Covers & Cookies)"
 date: 2016-08-03T18:28:59.000000Z
+release_date: ""
 release_id: "210838"
 slug: "the-wonder-of-stevie-essential-stevie-compositions-covers-cookies-210838"
 hideSummary: true
@@ -27,37 +28,31 @@ styles: ["Soul", "Funk", "Disco"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Pastime Paradise (8:31)
-2. Love Having You Around (6:52)
-3. Stick Together (6:17)
-4. Too High (4:05)
-5. Bad Weather (3:15)
-6. Buttercup (5:56)
-7. Superstition (5:35)
-8. Don't You Worry 'Bout A Thing (4:07)
-9. You Got It Bad Girl (3:14)
-10. I Was Made To Love Her (2:53)
-11. Spring High (4:14)
-12. Golden Lady (3:14)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Pastime Paradise | 8:31 |
+| A2 | Love Having You Around | 6:52 |
+| B1 | Stick Together | 6:17 |
+| B2 | Too High | 4:05 |
+| B3 | Bad Weather | 3:15 |
+| C1 | Buttercup | 5:56 |
+| C2 | Superstition | 5:35 |
+| C3 | Don't You Worry 'Bout A Thing | 4:07 |
+| D1 | You Got It Bad Girl | 3:14 |
+| D2 | I Was Made To Love Her | 2:53 |
+| D3 | Spring High | 4:14 |
+| D4 | Golden Lady | 3:14 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### DJ Spinna  Bobbito - Ray Barretto--Pastime Paradise
-{{< youtube id="aSORZzduAos" title="DJ Spinna  Bobbito - Ray Barretto--Pastime Paradise" >}}<br>
-### More Videos
 
-- [DJ Spinna  Bobbito - Ray Barretto--Pastime Paradise](https://www.youtube.com/watch?v=aSORZzduAos)
-- [Hugo Montenegro - You Got it Bad Gir](https://www.youtube.com/watch?v=xFbJrTfrmTE)
-- [JOSE  FELICIANO - GOLDEN LADY](https://www.youtube.com/watch?v=PNeqAq4Ljt8)
-- [Sergio Mendes and Brasil 77 Superstition](https://www.youtube.com/watch?v=heB9Mizn_Bk)
-- [The Main Ingredient - Dont you worry bout a thingwmv](https://www.youtube.com/watch?v=vU6GN9yQZYA)
-- [Carl Anderson - Buttercup](https://www.youtube.com/watch?v=pewJzIZSPQs)
-- [GENE HARRIS --- AS](https://www.youtube.com/watch?v=b20pX_9F8vI)
-- [First Choice - Love Having You Around](https://www.youtube.com/watch?v=so9_Vb5yY4k)
-- [Ramsey Lewis - Spring High](https://www.youtube.com/watch?v=6rAFUTaCa3k)
 
 ## Release Images
 {{< imageGrid >}}

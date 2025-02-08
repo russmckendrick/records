@@ -4,6 +4,7 @@ artist_name: "Spin Doctors"
 artist: "spin-doctors"
 album_name: "Pocket Full of Kryptonite "
 date: 2017-02-24T19:47:09.000000Z
+release_date: "1991-08-20"
 release_id: "6958185"
 slug: "pocket-full-of-kryptonite-6958185"
 hideSummary: true
@@ -26,36 +27,31 @@ It was remastered and reissued in 2011 as a 20th-anniversary edition, with a bon
 The album's title is a quote from the opening track, "Jimmy Olsen's Blues", a humorous song sung from the point of view of Jimmy Olsen, a character in the Superman comic book series. In the song, Jimmy Olsen tries to woo Lois Lane away from Superman, stating "I got a pocket full of Kryptonite," referring to a fictional substance that weakens Superman. The album cover, showing a phone booth, refers to Clark Kent frequently ducking into a nearby phone booth to change into his Superman attire.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Jimmy Olsen's Blues (4:35)
-2. What Time Is It? (4:49)
-3. Little Miss Cant Be Wrong  (3:53)
-4. Forty Or Fifty  (4:23)
-5. Refrigerator Car (4:44)
-6. More Than She Knows  (2:10)
-7. Two Princes  (4:16)
-8. Off My Line (3:57)
-9. How Could You Want Him (When You Know You Could Have Me?) (4:58)
-10. Shinbone Alley
-11. Hard To Exist
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Jimmy Olsen's Blues | 4:35 |
+| A2 | What Time Is It? | 4:49 |
+| A3 | Little Miss Cant Be Wrong  | 3:53 |
+| A4 | Forty Or Fifty  | 4:23 |
+| A5 | Refrigerator Car | 4:44 |
+| A6 | More Than She Knows  | 2:10 |
+| B1 | Two Princes  | 4:16 |
+| B2 | Off My Line | 3:57 |
+| B3 | How Could You Want Him (When You Know You Could Have Me?) | 4:58 |
+| B4 A | Shinbone Alley |  |
+| B4 B | Hard To Exist |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pocket-full-of-kryptonite/169627657" >}}<br>
 
 
-## Videos
-### Spin Doctors - Jimmy Olsens Blues New Version
-{{< youtube id="GrQCro68sRU" title="Spin Doctors - Jimmy Olsens Blues New Version" >}}<br>
-### More Videos
-
-- [Spin Doctors - Little Miss Cant Be Wrong](https://www.youtube.com/watch?v=cXWbMu4PtpE)
-- [Spin Doctors - Two Princes](https://www.youtube.com/watch?v=wsdy_rct6uo)
-- [Spin Doctors - What Time Is It](https://www.youtube.com/watch?v=e86omL8uzks)
-- [Spin Doctors - How Could You Want Him When You Know You Can Have Me](https://www.youtube.com/watch?v=HOGBcYN1Hu4)
 
 ## Release Images
 {{< imageGrid >}}

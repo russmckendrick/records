@@ -4,6 +4,7 @@ artist_name: "Sel Balamir"
 artist: "sel-balamir"
 album_name: "Swell"
 date: 2022-04-01T04:47:24.000000Z
+release_date: "2021-09-06"
 release_id: "22720439"
 slug: "swell-22720439"
 hideSummary: true
@@ -21,29 +22,23 @@ styles: ["Prog Rock", "Space Rock"]
 ---
 
 S'well is a reusable water bottle and insulated products company headquartered in Manhattan, New York. Sarah Kauss founded the company in 2010 and was the company's CEO until 2020.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Swell (20:42)
-2. Jacques Cousteau (11:13)
-3. Seagull (9:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Swell | 20:42 |
+| B1 | Jacques Cousteau | 11:13 |
+| B2 | Seagull | 9:26 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/swell-digital/1571562583" >}}<br>
 
 
-## Videos
-### Swell
-{{< youtube id="cRsXd_cxPv0" title="Swell" >}}<br>
-### More Videos
-
-- [Jacques Cousteau](https://www.youtube.com/watch?v=LA9q6wtDltA)
-- [Seagull](https://www.youtube.com/watch?v=mOC6_K_pzfc)
-- [Swell](https://www.youtube.com/watch?v=cRsXd_cxPv0)
-- [Jacques Cousteau](https://www.youtube.com/watch?v=LA9q6wtDltA)
-- [Seagull](https://www.youtube.com/watch?v=mOC6_K_pzfc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -55,5 +50,5 @@ S'well is a reusable water bottle and insulated products company headquartered i
 | Format         | Vinyl LP Album Limited Edition (FX) |
 | Label          | Rockosmos |
 | Catalog Number | ROK151 |
-| Notes | Limited 180 FX Vinyl. Track timings not listed. |
+| Notes | Limited 180 FX Vinyl.<br>Track timings not listed. |
 | Discogs URL    | [Sel Balamir - Swell](https://www.discogs.com/release/22720439-Sel-Balamir-Swell) |

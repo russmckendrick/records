@@ -4,6 +4,7 @@ artist_name: "Killing Joke"
 artist: "killing-joke"
 album_name: "Pandemonium"
 date: 2020-12-12T03:13:20.000000Z
+release_date: "1994-02-08"
 release_id: "16417860"
 slug: "pandemonium-16417860"
 hideSummary: true
@@ -32,33 +33,30 @@ styles: ["Industrial", "Heavy Metal"]
 Pandemonium is the ninth studio album by English post-punk band Killing Joke, released on 2 August 1994 by Butterfly Records. The album marked Killing Joke's return after a four-year hiatus, the longest the band had taken since it was founded. It also featured the return of founding member Youth, who replaced Paul Raven on bass.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Pandemonium (6:40)
-2. Exorcism (7:26)
-3. Millennium (5:33)
-4. Communion (6:55)
-5. Black Moon (5:19)
-6. Labyrinth (5:53)
-7. Jana (4:06)
-8. Whiteout (5:43)
-9. Pleasures Of The Flesh (5:40)
-10. Mathematics Of Chaos (7:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Pandemonium | 6:40 |
+| A2 | Exorcism | 7:26 |
+| B1 | Millennium | 5:33 |
+| B2 | Communion | 6:55 |
+| B3 | Black Moon | 5:19 |
+| C1 | Labyrinth | 5:53 |
+| C2 | Jana | 4:06 |
+| C3 | Whiteout | 5:43 |
+| D1 | Pleasures Of The Flesh | 5:40 |
+| D2 | Mathematics Of Chaos | 7:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pandemonium/1679617786" >}}<br>
 
 
-## Videos
-### Killing Joke - Pandemonium
-{{< youtube id="zfBMScS05kU" title="Killing Joke - Pandemonium" >}}<br>
-### More Videos
-
-- [killing joke - pandemonium](https://www.youtube.com/watch?v=LL_U5GSUBpw)
-- [Killing Joke - Pandemonium](https://www.youtube.com/watch?v=skUUVejxDZc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +68,5 @@ Pandemonium is the ninth studio album by English post-punk band Killing Joke, re
 | Format         | Vinyl LP (Blue Translucent), Vinyl LP (Clear), All Media Album Reissue |
 | Label          | Spinefarm Records |
 | Catalog Number | SPINE511303 |
-| Notes | Includes double-sided insert with lyrics, credits and new liner notes.  Features revised cover art.   |
+| Notes | Includes double-sided insert with lyrics, credits and new liner notes.<br><br>Features revised cover art.<br><br> |
 | Discogs URL    | [Killing Joke - Pandemonium](https://www.discogs.com/release/16417860-Killing-Joke-Pandemonium) |

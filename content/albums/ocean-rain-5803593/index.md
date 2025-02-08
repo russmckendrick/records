@@ -1,16 +1,17 @@
 ---
-title: "Echo & The Bunnymen - Ocean Rain"
-artist_name: "Echo & The Bunnymen"
+title: "Echo  The Bunnymen - Ocean Rain"
+artist_name: "Echo  The Bunnymen"
 artist: "echo-the-bunnymen"
 album_name: "Ocean Rain"
 date: 2017-03-08T19:51:32.000000Z
+release_date: "1987-07-06"
 release_id: "5803593"
 slug: "ocean-rain-5803593"
 hideSummary: true
 cover:
     image: "ocean-rain-5803593.jpg"
-    alt: "Ocean Rain by Echo & The Bunnymen"
-    caption: "Ocean Rain by Echo & The Bunnymen"
+    alt: "Ocean Rain by Echo  The Bunnymen"
+    caption: "Ocean Rain by Echo  The Bunnymen"
 additional_images:
     - "https://i.discogs.com/PUeOEJsur4iNfluSHprwfSyQDkVpK503f5zz4gPI5lQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDM1/OTMtMTUwNjEyODk3/OS04MTY1LmpwZWc.jpeg"
 genres: ["Rock"]
@@ -21,38 +22,29 @@ Ocean Rain is the fourth studio album by the English post-punk band Echo & the B
 The band wrote the songs for the new album in 1983. In early 1984 they recorded most of the album in Paris using a 35-piece orchestra, with other sessions taking place in Bath and Liverpool. Receiving mixed reviews the album was originally released as an LP and a cassette in May 1984 before it was reissued on CD in August. The album was reissued on CD in 2003, along with the other four of the band's first five studio albums, having been remastered and expanded before again being reissued in 2008 with a live bonus disc. The artwork for the album was designed by Martyn Atkins and the photography was by Brian Griffin. Echo & the Bunnymen played a number of concerts in 2008 where they performed Ocean Rain in full and with the backing of an orchestra.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Silver (3:19)
-2. Nocturnal Me (4:54)
-3. Crystal Days (2:24)
-4. The Yo Yo Man (3:11)
-5. Thorn Of Crowns (4:50)
-6. The Killing Moon (5:46)
-7. Seven Seas (3:19)
-8. My Kingdom (4:06)
-9. Ocean Rain (5:10)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Silver | 3:19 |
+| A2 | Nocturnal Me | 4:54 |
+| A3 | Crystal Days | 2:24 |
+| A4 | The Yo Yo Man | 3:11 |
+| A5 | Thorn Of Crowns | 4:50 |
+| B1 | The Killing Moon | 5:46 |
+| B2 | Seven Seas | 3:19 |
+| B3 | My Kingdom | 4:06 |
+| B4 | Ocean Rain | 5:10 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/echo-the-bunnymen-expanded-version/281706730" >}}<br>
 
 
-## Videos
-### Silver
-{{< youtube id="sQ_QRK_iWrk" title="Silver" >}}<br>
-### More Videos
-
-- [Nocturnal Me](https://www.youtube.com/watch?v=Pu5PWfFmI4I)
-- [Crystal Days](https://www.youtube.com/watch?v=2_uSLF8of-w)
-- [The Yo Yo Man](https://www.youtube.com/watch?v=T1gxp2xTeag)
-- [Thorn of Crowns](https://www.youtube.com/watch?v=jbMIe_wU1jQ)
-- [Echo  The Bunnymen - The Killing Moon Official Music Video](https://www.youtube.com/watch?v=LWz0JC7afNQ)
-- [Echo  The Bunnymen - Seven Seas Official Music Video](https://www.youtube.com/watch?v=LbYxP11rbSM)
-- [My Kingdom](https://www.youtube.com/watch?v=2q1RWbAqYtU)
-- [Ocean Rain](https://www.youtube.com/watch?v=p_AsT8Ney4A)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,4 +57,4 @@ The band wrote the songs for the new album in 1983. In early 1984 they recorded 
 | Label          | Korova |
 | Catalog Number | VIN180LP075 |
 | Notes | 2014 Repressing in Black Vinyl |
-| Discogs URL    | [Echo & The Bunnymen - Ocean Rain](https://www.discogs.com/release/5803593-Echo-The-Bunnymen-Ocean-Rain) |
+| Discogs URL    | [Echo  The Bunnymen - Ocean Rain](https://www.discogs.com/release/5803593-Echo-The-Bunnymen-Ocean-Rain) |

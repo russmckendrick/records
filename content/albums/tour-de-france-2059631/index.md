@@ -4,6 +4,7 @@ artist_name: "Kraftwerk"
 artist: "kraftwerk"
 album_name: "Tour De France"
 date: 2017-04-25T08:35:33.000000Z
+release_date: "2023-07-29"
 release_id: "2059631"
 slug: "tour-de-france-2059631"
 hideSummary: true
@@ -30,41 +31,32 @@ Tour de France Soundtracks (renamed to Tour de France for its remastered release
 The album received positive reviews from critics and was a commercial success. It reached No. 1 in Germany, the top 40 in the UK, as well as No. 3 in the US dance charts.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Prologue (0:31)
-2. Tour De France Étape 1 (4:27)
-3. Tour De France Étape 2 (6:41)
-4. Tour De France Étape 3 (3:57)
-5. Chrono (3:20)
-6. Vitamin (8:10)
-7. Aéro Dynamik (5:04)
-8. Titanium (3:21)
-9. Elektro Kardiogramm (5:16)
-10. La Forme (8:41)
-11. Régéneration (1:17)
-12. Tour De France (5:11)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Prologue | 0:31 |
+| A2 | Tour De France Étape 1 | 4:27 |
+| A3 | Tour De France Étape 2 | 6:41 |
+| A4 | Tour De France Étape 3 | 3:57 |
+| A5 | Chrono | 3:20 |
+| B | Vitamin | 8:10 |
+| C1 | Aéro Dynamik | 5:04 |
+| C2 | Titanium | 3:21 |
+| C3 | Elektro Kardiogramm | 5:16 |
+| D1 | La Forme | 8:41 |
+| D2 | Régéneration | 1:17 |
+| D3 | Tour De France | 5:11 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tour-de-france-single/1696505507" >}}<br>
 
 
-## Videos
-### Kraftwerk - Tour De France - Prologue  Tour De France Étape 123  Chrono HD
-{{< youtube id="ZC_anEzaBVs" title="Kraftwerk - Tour De France - Prologue  Tour De France Étape 123  Chrono HD" >}}<br>
-### More Videos
-
-- [Kraftwerk - Minimum Maximum Tour de France étape 2](https://www.youtube.com/watch?v=gUzQtSLu_zI)
-- [Kraftwerk - Tour De France 3D Full Album](https://www.youtube.com/watch?v=tJPnyjuE3II)
-- [Tour de France Live](https://www.youtube.com/watch?v=ztFajwxbhZo)
-- [KRAFTWERK - Aéro Dynamik Paris Nice 2002 - Prologue 2003](https://www.youtube.com/watch?v=kHkzQiDenZM)
-- [Kraftwerk - Tour De France - Prologue  Tour De France Étape 123  Chrono HD](https://www.youtube.com/watch?v=ZC_anEzaBVs)
-- [Kraftwerk - Minimum Maximum Tour de France étape 2](https://www.youtube.com/watch?v=gUzQtSLu_zI)
-- [Kraftwerk - Tour De France 3D Full Album](https://www.youtube.com/watch?v=tJPnyjuE3II)
-- [Tour de France Live](https://www.youtube.com/watch?v=ztFajwxbhZo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +68,5 @@ The album received positive reviews from critics and was a commercial success. I
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 g) |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 66109 1 6 |
-| Notes | Remastered 2009 release of the 2003 album called "Tour De France Soundtracks". Comes with a 30x30 cm 20-page photo booklet.  Kling Klang Produkt 2003 Made in the EU Printed in Germany |
+| Notes | Remastered 2009 release of the 2003 album called "Tour De France Soundtracks". Comes with a 30x30 cm 20-page photo booklet.<br><br>Kling Klang Produkt 2003<br>Made in the EU<br>Printed in Germany |
 | Discogs URL    | [Kraftwerk - Tour De France](https://www.discogs.com/release/2059631-Kraftwerk-Tour-De-France) |

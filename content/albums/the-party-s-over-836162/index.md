@@ -4,6 +4,7 @@ artist_name: "Talk Talk"
 artist: "talk-talk"
 album_name: "The Party's Over"
 date: 2016-10-14T12:58:46.000000Z
+release_date: "1982"
 release_id: "836162"
 slug: "the-party-s-over-836162"
 hideSummary: true
@@ -25,35 +26,29 @@ styles: ["New Wave", "Synth-pop"]
 The Party's Over is the debut album by Talk Talk. It was released on 12 July 1982 and produced by Colin Thurston, who was a former engineer for David Bowie but was better known for producing Duran Duran's first two albums.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Talk Talk (3:20)
-2. It's So Serious (3:19)
-3. Today (3:28)
-4. The Party's Over (6:10)
-5. Hate (3:56)
-6. Have You Heard The News? (5:05)
-7. Mirror Man (3:18)
-8. Another Word (3:12)
-9. Candy (4:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Talk Talk | 3:20 |
+| A2 | It's So Serious | 3:19 |
+| A3 | Today | 3:28 |
+| A4 | The Party's Over | 6:10 |
+| B1 | Hate | 3:56 |
+| B2 | Have You Heard The News? | 5:05 |
+| B3 | Mirror Man | 3:18 |
+| B4 | Another Word | 3:12 |
+| B5 | Candy | 4:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-partys-over/697202581" >}}<br>
 
 
-## Videos
-### Talk Talk
-{{< youtube id="0uA5Qe5PSWw" title="Talk Talk" >}}<br>
-### More Videos
-
-- [Today 1997 Remaster](https://www.youtube.com/watch?v=gMDN4MbSKqw)
-- [The Partys Over 1997 Remaster](https://www.youtube.com/watch?v=kNXYKYkqvE8)
-- [Hate 1997 Remaster](https://www.youtube.com/watch?v=4rqUYKKSyHE)
-- [Have You Heard the News 1997 Remaster](https://www.youtube.com/watch?v=aYIKfkTJYcs)
-- [Mirror Man 1997 Remaster](https://www.youtube.com/watch?v=YMZ0ApjY5IQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +60,5 @@ The Party's Over is the debut album by Talk Talk. It was released on 12 July 198
 | Format         | Vinyl LP Album Stereo |
 | Label          | EMI |
 | Catalog Number | EMC 3413 |
-| Notes | First issue, with textured outer sleeve. Includes a heavy paper printed inner sleeve with lyrics. Durations do not appear on release.  Labels: ℗1982 Original sound recordings made by EMI Records Ltd. Island Music Ltd. Manufactured in the UK by EMI Records Limited.  Insert: Lyrics reproduced by kind permission Island Music Publishing Ltd. © 1982  Sleeve: EMC 3413 OC 062-07 646 Available on cassette ✽  ℗ 1982 Original sound recordings made by EMI Records Ltd.  EMI Records Ltd. Hayes - Middlesex - England. SP 8207 RS |
+| Notes | First issue, with textured outer sleeve.<br>Includes a heavy paper printed inner sleeve with lyrics.<br>Durations do not appear on release.<br><br>Labels:<br>℗1982 Original sound recordings made by EMI Records Ltd.<br>Island Music Ltd.<br>Manufactured in the UK by EMI Records Limited.<br><br>Insert:<br>Lyrics reproduced by kind permission<br>Island Music Publishing Ltd. © 1982<br><br>Sleeve:<br>EMC 3413<br>OC 062-07 646<br>Available on cassette<br>✽<br><br>℗ 1982 Original sound recordings made by EMI Records Ltd.<br><br>EMI Records Ltd.<br>Hayes - Middlesex - England.<br>SP 8207 RS |
 | Discogs URL    | [Talk Talk - The Party's Over](https://www.discogs.com/release/836162-Talk-Talk-The-Partys-Over) |

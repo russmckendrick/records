@@ -4,6 +4,7 @@ artist_name: "The Levellers"
 artist: "the-levellers"
 album_name: "Peace"
 date: 2020-08-21T10:00:03.000000Z
+release_date: "1994"
 release_id: "15772073"
 slug: "peace-15772073"
 hideSummary: true
@@ -33,35 +34,33 @@ styles: ["Folk Rock"]
 
 Peace is the twelfth studio album by folk-punk rock band the Levellers. The album entered the British album charts at #8, the band's highest charting entry since 1997's Mouth to Mouth reached #5, and improving on previous release We the Collective's #12 position. The 11-track album followed 2018's We the Collective, but is the band's first album composed entirely of new material since 2012's Static on the Airwaves. Peace was recorded at the band's personal recording studio Metway Studios, and released on their label On the Fiddle Recordings Three singles were released in the months leading up to the album, "Food Roof Family", "Calling Out" and "Generation Fear".
 The album was produced by Sean Lakeman.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Food Roof Family (3:40)
-2. Generation Fear (2:36)
-3. Four Boys Lost (3:36)
-4. Burning Hate Like Fire (3:49)
-5. Born That Way (3:13)
-6. Our New Day (2:33)
-7. Calling Out (3:44)
-8. Ghosts In The Water (3:59)
-9. The Men Who Would Be King (2:20)
-10. Albion + Phoenix (3:09)
-11. Our Future (3:55)
-12. Food Roof Family (Live In The Studio)
-13. Our New Day (Live In The Studio)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Food Roof Family | 3:40 |
+| A2 | Generation Fear | 2:36 |
+| A3 | Four Boys Lost | 3:36 |
+| A4 | Burning Hate Like Fire | 3:49 |
+| A5 | Born That Way | 3:13 |
+| A6 | Our New Day | 2:33 |
+| B1 | Calling Out | 3:44 |
+| B2 | Ghosts In The Water | 3:59 |
+| B3 | The Men Who Would Be King | 2:20 |
+| B4 | Albion + Phoenix | 3:09 |
+| B5 | Our Future | 3:55 |
+| C | Food Roof Family (Live In The Studio) |  |
+| D | Our New Day (Live In The Studio) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/levellers-remastered/259322257" >}}<br>
 
 
-## Videos
-### Four Boys Lost
-{{< youtube id="HZ7BUG1oSS4" title="Four Boys Lost" >}}<br>
-### More Videos
-
-- [Levellers - Peace Full Album 2020](https://www.youtube.com/watch?v=AQF1TCpIP5g)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +72,5 @@ The album was produced by Sean Lakeman.
 | Format         | Vinyl LP Deluxe Edition Stereo (Blue Splatter), Vinyl 7" |
 | Label          | On The Fiddle Recordings |
 | Catalog Number | OTFLP031S |
-| Notes | Gatefold Deluxe Blue Splatter Vinyl + Bonus Exclusive 7”  Signed print.   Bonus 7” A – Food Roof Family (Live in the Studio) B – Our New Day (Live in the Studio) |
+| Notes | Gatefold Deluxe Blue Splatter Vinyl + Bonus Exclusive 7” <br>Signed print. <br><br>Bonus 7”<br>A – Food Roof Family (Live in the Studio)<br>B – Our New Day (Live in the Studio) |
 | Discogs URL    | [The Levellers - Peace](https://www.discogs.com/release/15772073-Levellers-Peace) |

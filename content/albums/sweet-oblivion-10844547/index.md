@@ -4,6 +4,7 @@ artist_name: "Screaming Trees"
 artist: "screaming-trees"
 album_name: "Sweet Oblivion"
 date: 2017-10-05T17:54:41.000000Z
+release_date: "1992-09-08"
 release_id: "10844547"
 slug: "sweet-oblivion-10844547"
 hideSummary: true
@@ -26,40 +27,31 @@ styles: ["Alternative Rock", "Grunge"]
 Sweet Oblivion is the sixth studio album by Screaming Trees, released on September 8, 1992. It quickly became the band's best-selling record, and was the closest they ever came to achieving mainstream success. Sweet Oblivion sold in excess of  300,000 copies on the strength of the band's biggest hit, "Nearly Lost You". The song benefited from an appearance on Singles: Original Motion Picture Soundtrack, a Top Ten, platinum-selling hit album which featured many other popular Seattle-based music acts from the period.
 Around the time of the recording of the album, the band’s original drummer Mark Pickerel left to pursue other musical interests, and was replaced with Barrett Martin.
 Nearly four years passed in between Sweet Oblivion and the band's follow-up album, Dust, a move that hurt much of the band's commercial momentum.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Shadow Of The Season (4:34)
-2. Nearly Lost You (4:07)
-3. Dollar Bill (4:35)
-4. More Or Less (3:11)
-5. Butterfly (3:22)
-6. For Celebrations Past (4:09)
-7. The Secret Kind (3:08)
-8. Winter Song (3:43)
-9. Troubled Times (5:20)
-10. No One Knows (5:13)
-11. Julie Paradise (5:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Shadow Of The Season | 4:34 |
+| A2 | Nearly Lost You | 4:07 |
+| A3 | Dollar Bill | 4:35 |
+| A4 | More Or Less | 3:11 |
+| A5 | Butterfly | 3:22 |
+| A6 | For Celebrations Past | 4:09 |
+| B1 | The Secret Kind | 3:08 |
+| B2 | Winter Song | 3:43 |
+| B3 | Troubled Times | 5:20 |
+| B4 | No One Knows | 5:13 |
+| B5 | Julie Paradise | 5:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sweet-oblivion/157316025" >}}<br>
 
 
-## Videos
-### Screaming Trees - Nearly Lost You
-{{< youtube id="PE5f561Y1x4" title="Screaming Trees - Nearly Lost You" >}}<br>
-### More Videos
-
-- [Screaming Trees - Shadow of the Season](https://www.youtube.com/watch?v=vujMy_r5NsY)
-- [Screaming Trees - Dollar Bill](https://www.youtube.com/watch?v=1lfd7zeHRRs)
-- [Screaming Trees - Butterfly](https://www.youtube.com/watch?v=KjZ_Zz13wC0)
-- [𝓢𝓬𝓻𝓮a𝖒ing Trees - 𝗦𝘄𝗲𝗲t blvion Full Album](https://www.youtube.com/watch?v=LdAGDZqeTTk)
-- [Screaming Trees - Dollar Bill](https://www.youtube.com/watch?v=1lfd7zeHRRs)
-- [Screaming Trees - Butterfly](https://www.youtube.com/watch?v=KjZ_Zz13wC0)
-- [Screaming Trees - Nearly Lost You](https://www.youtube.com/watch?v=PE5f561Y1x4)
-- [Screaming Trees - Shadow Of The Season](https://www.youtube.com/watch?v=vujMy_r5NsY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +63,5 @@ Nearly four years passed in between Sweet Oblivion and the band's follow-up albu
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Orange Marbled) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP101 |
-| Notes | "25th Anniversary Edition Limited Edition of 1.500 Copies on Flaming Vinyl Individually Numbered 180 gram audiophile vinyl"  A6 is a bonus track. Includes printed insert with credits. |
+| Notes | "25th Anniversary Edition<br>Limited Edition of 1.500 Copies on Flaming Vinyl<br>Individually Numbered<br>180 gram audiophile vinyl"<br><br>A6 is a bonus track.<br>Includes printed insert with credits. |
 | Discogs URL    | [Screaming Trees - Sweet Oblivion](https://www.discogs.com/release/10844547-Screaming-Trees-Sweet-Oblivion) |

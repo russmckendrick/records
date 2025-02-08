@@ -4,6 +4,7 @@ artist_name: "The Jon Spencer Blues Explosion"
 artist: "the-jon-spencer-blues-explosion"
 album_name: "Orange"
 date: 2017-07-06T20:47:20.000000Z
+release_date: "2002-04-09"
 release_id: "1733106"
 slug: "orange-1733106"
 hideSummary: true
@@ -23,43 +24,32 @@ styles: ["Blues Rock", "Alternative Rock", "Experimental", "Garage Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Bellbottoms (5:17)
-2. Ditch (2:34)
-3. Dang (1:59)
-4. Very Rare (3:05)
-5. Sweat (3:06)
-6. Cowboy (2:57)
-7. Orange (2:59)
-8. Brenda (2:56)
-9. Dissect (2:39)
-10. Blues X Man (3:33)
-11. Full Grown (3:19)
-12. Flavor (6:16)
-13. Greyhound (4:04)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Bellbottoms | 5:17 |
+| A2 | Ditch | 2:34 |
+| A3 | Dang | 1:59 |
+| A4 | Very Rare | 3:05 |
+| A5 | Sweat | 3:06 |
+| A6 | Cowboy | 2:57 |
+| A7 | Orange | 2:59 |
+| B1 | Brenda | 2:56 |
+| B2 | Dissect | 2:39 |
+| B3 | Blues X Man | 3:33 |
+| B4 | Full Grown | 3:19 |
+| B5 | Flavor | 6:16 |
+| B6 | Greyhound | 4:04 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/plastic-fang/1273347125" >}}<br>
 
 
-## Videos
-### The Jon Spencer Blues Explosion - Bellbottoms
-{{< youtube id="XlTqcshkmc8" title="The Jon Spencer Blues Explosion - Bellbottoms" >}}<br>
-### More Videos
-
-- [The Jon Spencer Blues Explosion - Ditch](https://www.youtube.com/watch?v=E5aZEHN4Z5I)
-- [The Jon Spencer Blues Explosion - Dang](https://www.youtube.com/watch?v=3fQY7uFTfVI)
-- [The Jon Spencer Blues Explosion - Very Rare](https://www.youtube.com/watch?v=KkSPNkAl3WY)
-- [The Jon Spencer Blues Explosion - Sweat](https://www.youtube.com/watch?v=tHi5sdlhpjw)
-- [The Jon Spencer Blues Explosion - Cowboy](https://www.youtube.com/watch?v=il9MDvx_lO4)
-- [The Jon Spencer Blues Explosion - Orange](https://www.youtube.com/watch?v=Z1r2fUb_zdc)
-- [The Jon Spencer Blues Explosion - Brenda](https://www.youtube.com/watch?v=tpdZkryLPBY)
-- [The Jon Spencer Blues Explosion - Dissect](https://www.youtube.com/watch?v=tW9mbgss86Q)
-- [The Jon Spencer Blues Explosion - Blues X Man](https://www.youtube.com/watch?v=zVrXDFJ3--0)
-- [The Jon Spencer Blues Explosion - Full Grown](https://www.youtube.com/watch?v=KM_DSCHjrf4)
-- [The Jon Spencer Blues Explosion - Flavor](https://www.youtube.com/watch?v=30agmBTJivQ)
-- [The Jon Spencer Blues Explosion - Greyhound](https://www.youtube.com/watch?v=292BRuSe47o)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +60,5 @@ styles: ["Blues Rock", "Alternative Rock", "Experimental", "Garage Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Matador |
 | Catalog Number | ole 105-1 |
-| Notes | This is the black vinyl version of this LP with a metallic silver cover, some of which have a barcode sticker attached.  Glossy inner sleeve has a full color picture of the band on one side and "orange" written on the other side.    Recorded and mixed at Waterworks, NYC, 1993-94.  All songs c 1994 Spencer / Explosion  c p 1994 Matador Records Inc  Made in the USA by WEA Mfg  Inner sleeve: Printed in Canada |
+| Notes | This is the black vinyl version of this LP with a metallic silver cover, some of which have a barcode sticker attached.<br>Glossy inner sleeve has a full color picture of the band on one side and "orange" written on the other side.<br><br>Recorded and mixed at Waterworks, NYC, 1993-94.<br>All songs c 1994 Spencer / Explosion<br>c p 1994 Matador Records Inc<br>Made in the USA by WEA Mfg<br>Inner sleeve: Printed in Canada |
 | Discogs URL    | [The Jon Spencer Blues Explosion - Orange](https://www.discogs.com/release/1733106-The-Jon-Spencer-Blues-Explosion-Orange) |

@@ -4,6 +4,7 @@ artist_name: "Aerosmith"
 artist: "aerosmith"
 album_name: "Get A Grip"
 date: 2018-01-09T18:32:41.000000Z
+release_date: "1993-04-20"
 release_id: "9685203"
 slug: "get-a-grip-9685203"
 hideSummary: true
@@ -34,48 +35,34 @@ Get a Grip featured guests including Don Henley, who sang backup on "Amazing", a
 Get a Grip became Aerosmith's best-selling studio album worldwide, achieving sales of over 20 million copies. The album became the band's first album to reach number one in the United States and tied with Pump for their second best-selling album in the U.S., selling over 7 million copies as of 1995 (Toys in the Attic leads with nine million). This also made it their third consecutive album with U.S. sales of at least five million. Two songs from the album won Grammy Awards for Best Rock Performance by a Duo or Group with Vocal, in 1993 and 1994. The album was voted Album of the Year by Metal Edge readers in the magazine's 1993 Readers' Choice Awards, while "Livin' on the Edge" was voted Best Video.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Intro (0:23)
-2. Eat The Rich (4:10)
-3. Get A Grip (3:58)
-4. Fever (4:15)
-5. Livin' On The Edge (6:07)
-6. Flesh (5:57)
-7. Walk On Down (3:39)
-8. Shut Up And Dance (4:55)
-9. Cryin' (5:08)
-10. Gotta Love It (5:58)
-11. Crazy (5:17)
-12. Line Up (4:02)
-13. Amazing (5:56)
-14. Boogie Man (2:15)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Intro | 0:23 |
+| A2 | Eat The Rich | 4:10 |
+| A3 | Get A Grip | 3:58 |
+| A4 | Fever | 4:15 |
+| A5 | Livin' On The Edge | 6:07 |
+| B1 | Flesh | 5:57 |
+| B2 | Walk On Down | 3:39 |
+| B3 | Shut Up And Dance | 4:55 |
+| C1 | Cryin' | 5:08 |
+| C2 | Gotta Love It | 5:58 |
+| C3 | Crazy | 5:17 |
+| D1 | Line Up | 4:02 |
+| D2 | Amazing | 5:56 |
+| D3 | Boogie Man | 2:15 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/get-a-grip/1680799198" >}}<br>
 
 
-## Videos
-### TVC - Areosmith - Get A Grip - Music Album 1993
-{{< youtube id="N9xS7465naA" title="TVC - Areosmith - Get A Grip - Music Album 1993" >}}<br>
-### More Videos
-
-- [Aerosmith  Get A Grip](https://www.youtube.com/watch?v=6jX_gpzKPfw)
-- [Aerosmith  Intro](https://www.youtube.com/watch?v=-8_9WoovMtU)
-- [Aerosmith  Crazy](https://www.youtube.com/watch?v=xwxuLThIxc8)
-- [Aerosmith  Boogie Man](https://www.youtube.com/watch?v=qs2xACCzlmg)
-- [Aerosmith  Livin On The Edge](https://www.youtube.com/watch?v=FuIBcqpstmY)
-- [Aerosmith  Walk On Down](https://www.youtube.com/watch?v=I9y_mQEQMZ8)
-- [Aerosmith  Shut Up And Dance](https://www.youtube.com/watch?v=nGFcAy6PhxQ)
-- [Aerosmith  Cryin](https://www.youtube.com/watch?v=O-c2fEdaVtY)
-- [Aerosmith  Fever](https://www.youtube.com/watch?v=-zl1inVRzaU)
-- [Aerosmith feat Lenny Kravitz  Line Up](https://www.youtube.com/watch?v=BsheE52nVLo)
-- [Aerosmith  Flesh](https://www.youtube.com/watch?v=O0ibEOUV69c)
-- [Aerosmith - Gotta Love It](https://www.youtube.com/watch?v=lBK2K0NmSDM)
-- [Aerosmith  Eat The Rich](https://www.youtube.com/watch?v=FEKBM0A9xn0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -87,5 +74,5 @@ Get a Grip became Aerosmith's best-selling studio album worldwide, achieving sal
 | Format         | Vinyl 2× LP Album Reissue (180 grams) |
 | Label          | Geffen Records |
 | Catalog Number | 00602547954398 |
-| Notes | Recorded at Little Mountain Sound Studio, Vancouver, BC, Canada and A&M Studios, Los Angeles, CA. Mixed at Can-Am Studios, Tarzana, CA. Mastered at Masterdisk, NYC.  Issued in a standard cover with 2 printed inner sleeves showing photographs, lyrics and credits.   ℗ 1993 © 2016 Geffen Records  Sticker, includes a voucher to download MP3 version of the album. |
+| Notes | Recorded at Little Mountain Sound Studio, Vancouver, BC, Canada and A&M Studios, Los Angeles, CA.<br>Mixed at Can-Am Studios, Tarzana, CA.<br>Mastered at Masterdisk, NYC.<br><br>Issued in a standard cover with 2 printed inner sleeves showing photographs, lyrics and credits. <br><br>℗ 1993 © 2016 Geffen Records<br><br>Sticker, includes a voucher to download MP3 version of the album. |
 | Discogs URL    | [Aerosmith - Get A Grip](https://www.discogs.com/release/9685203-Aerosmith-Get-A-Grip) |

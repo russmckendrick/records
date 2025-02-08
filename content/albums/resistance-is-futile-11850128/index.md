@@ -4,6 +4,7 @@ artist_name: "Manic Street Preachers"
 artist: "manic-street-preachers"
 album_name: "Resistance Is Futile"
 date: 2018-04-13T18:38:59.000000Z
+release_date: "2018-04-13"
 release_id: "11850128"
 slug: "resistance-is-futile-11850128"
 hideSummary: true
@@ -30,70 +31,44 @@ Resistance Is Futile is the thirteenth album by Welsh alternative rock band Mani
 Supported by six singles, the most since their debut, the album was received with positive reviews from music critics. It debuted and peaked at number 2 on the UK Albums Chart.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. People Give In
-2. International Blue
-3. Distant Colours
-4. Vivian
-5. Dylan & Caitlin
-6. Liverpool Revisited
-7. Sequels Of Forgotten Wars
-8. Hold Me Like A Heaven
-9. In Eternity
-10. Broken Algorithms
-11. A Song For The Sadness
-12. The Left Behind
-13. People Give In
-14. International Blue
-15. Distant Colours
-16. Vivian
-17. Dylan & Caitlin
-18. Liverpool Revisited
-19. Sequels Of Forgotten Wars
-20. Hold Me Like A Heaven
-21. In Eternity
-22. Broken Algorithms
-23. A Song For The Sadness
-24. The Left Behind
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | People Give In |  |
+| A2 | International Blue |  |
+| A3 | Distant Colours |  |
+| A4 | Vivian |  |
+| A5 | Dylan & Caitlin |  |
+| A6 | Liverpool Revisited |  |
+| B7 | Sequels Of Forgotten Wars |  |
+| B8 | Hold Me Like A Heaven |  |
+| B9 | In Eternity |  |
+| B10 | Broken Algorithms |  |
+| B11 | A Song For The Sadness |  |
+| B12 | The Left Behind |  |
+| CD-1 | People Give In |  |
+| CD-2 | International Blue |  |
+| CD-3 | Distant Colours |  |
+| CD-4 | Vivian |  |
+| CD-5 | Dylan & Caitlin |  |
+| CD-6 | Liverpool Revisited |  |
+| CD-7 | Sequels Of Forgotten Wars |  |
+| CD-8 | Hold Me Like A Heaven |  |
+| CD-9 | In Eternity |  |
+| CD-10 | Broken Algorithms |  |
+| CD-11 | A Song For The Sadness |  |
+| CD-12 | The Left Behind |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/resistance-is-futile-deluxe/1326848106" >}}<br>
 
 
-## Videos
-### Manic Street Preachers - People Give In Official Video
-{{< youtube id="ycu1PTHYKik" title="Manic Street Preachers - People Give In Official Video" >}}<br>
-### More Videos
-
-- [Manic Street Preachers - International Blue Official Video](https://www.youtube.com/watch?v=zcJ8BTAGqE0)
-- [Manic Street Preachers - Distant Colours Official Video](https://www.youtube.com/watch?v=7RZzxbZ6WWY)
-- [Vivian](https://www.youtube.com/watch?v=KPm56lRffnU)
-- [Manic Street Preachers  Dylan  Caitlin Lyric Video ft The Anchoress](https://www.youtube.com/watch?v=y2fGHPbkCj0)
-- [Manic Street Preachers - Liverpool Revisited Lyric Video](https://www.youtube.com/watch?v=ex2Ip4aqpDo)
-- [Sequels of Forgotten Wars](https://www.youtube.com/watch?v=6KMWwr9_jCE)
-- [Manic Street Preachers - Hold Me Like a Heaven Official Video](https://www.youtube.com/watch?v=JU5bn2LiOfA)
-- [In Eternity](https://www.youtube.com/watch?v=qFlNQGzsXZ4)
-- [Broken Algorithms](https://www.youtube.com/watch?v=9h7eyoM7im0)
-- [A Song for the Sadness](https://www.youtube.com/watch?v=7v1_ZoG9-Ag)
-- [The Left Behind](https://www.youtube.com/watch?v=YSo3-RHQ6DA)
-- [People Give In Demo](https://www.youtube.com/watch?v=HTcH59CVRcc)
-- [International Blue Demo](https://www.youtube.com/watch?v=igyyiNl-i0A)
-- [Distant Colours Demo](https://www.youtube.com/watch?v=3OvqjD3z9EU)
-- [Vivian Demo](https://www.youtube.com/watch?v=kkVVM47fdlw)
-- [Dylan  Caitlin Demo](https://www.youtube.com/watch?v=fRoF7-twfL0)
-- [Liverpool Revisited Demo](https://www.youtube.com/watch?v=6imIJD9KoMM)
-- [Sequels of Forgotten Wars Demo](https://www.youtube.com/watch?v=yrGnEVLbMVA)
-- [Hold Me Like a Heaven Demo](https://www.youtube.com/watch?v=YSoKtllNF7Y)
-- [In Eternity Demo](https://www.youtube.com/watch?v=C3CZZ9jPfMw)
-- [Broken Algorithms Demo](https://www.youtube.com/watch?v=Nl5CrP-UuSY)
-- [A Song for the Sadness Demo](https://www.youtube.com/watch?v=lUwtL5-ErDk)
-- [The Left Behind Demo](https://www.youtube.com/watch?v=FztYcWO87cM)
-- [Concrete Fields](https://www.youtube.com/watch?v=7leXU1XkkAo)
-- [A Soundtrack to Complete Withdrawal](https://www.youtube.com/watch?v=OpGEb9Cb5rM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -105,5 +80,5 @@ Supported by six singles, the most since their debut, the album was received wit
 | Format         | Vinyl LP Album Limited Edition (White, 180g), CD Album |
 | Label          | Columbia |
 | Catalog Number | 19075809911 |
-| Notes | Includes the album on CD.    Issued in a gatefold sleeve. The gatefold image is different for each vinyl colour variant. Side opening inner sleeve with a portrait, lyrics, credits. Hype sticker applied to the shrink-wrap.  Tracks are numbered sequentially across each disc, 1 to 12. Made In The E.U. |
+| Notes | Includes the album on CD. <br><br><br>Issued in a gatefold sleeve. The gatefold image is different for each vinyl colour variant.<br>Side opening inner sleeve with a portrait, lyrics, credits.<br>Hype sticker applied to the shrink-wrap.<br><br>Tracks are numbered sequentially across each disc, 1 to 12.<br>Made In The E.U. |
 | Discogs URL    | [Manic Street Preachers - Resistance Is Futile](https://www.discogs.com/release/11850128-Manic-Street-Preachers-Resistance-Is-Futile) |

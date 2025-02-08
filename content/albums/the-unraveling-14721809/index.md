@@ -29,26 +29,23 @@ In 2016’s <i>American Band</i>, Drive-By Truckers co-founders Patterson Hood a
 
 
 ## Tracklisting
-1. Rosemary With A Bible And A Gun (3:20)
-2. Armageddon's Back In Town (3:49)
-3. Slow Ride Argument (3:19)
-4. Thoughts And Prayers (5:21)
-5. 21st Century USA (4:13)
-6. Heroin Again (3:55)
-7. Babies In Cages (5:32)
-8. Grievance Merchants (4:08)
-9. Awaiting Resurrection (8:35)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rosemary With A Bible And A Gun | 3:20 |
+| A2 | Armageddon's Back In Town | 3:49 |
+| A3 | Slow Ride Argument | 3:19 |
+| A4 | Thoughts And Prayers | 5:21 |
+| A5 | 21st Century USA | 4:13 |
+| B1 | Heroin Again | 3:55 |
+| B2 | Babies In Cages | 5:32 |
+| B3 | Grievance Merchants | 4:08 |
+| B4 | Awaiting Resurrection | 8:35 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-unraveling/1487667655" >}}<br>
 
 
-## Videos
-### Drive-By Truckers - Thoughts and Prayers Official Lyric Video
-{{< youtube id="tkD4xSqNVII" title="Drive-By Truckers - Thoughts and Prayers Official Lyric Video" >}}<br>
-### More Videos
-
-- [Drive-By Truckers - Thoughts and Prayers Official Lyric Video](https://www.youtube.com/watch?v=tkD4xSqNVII)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,5 +57,5 @@ In 2016’s <i>American Band</i>, Drive-By Truckers co-founders Patterson Hood a
 | Format         | Vinyl LP Album Stereo |
 | Label          | ATO Records |
 | Catalog Number | ATO0518LP |
-| Notes | Black Vinyl Version.   ℗ & © 2020 ATO Records, LLC  16 page booklet with spot varnished cover, liner notes, lyrics, picture and various Information  |
+| Notes | Black Vinyl Version. <br><br>℗ & © 2020 ATO Records, LLC<br><br>16 page booklet with spot varnished cover, liner notes, lyrics, picture and various Information<br> |
 | Discogs URL    | [Drive-By Truckers - The Unraveling](https://www.discogs.com/release/14721809-Drive-By-Truckers-The-Unraveling) |

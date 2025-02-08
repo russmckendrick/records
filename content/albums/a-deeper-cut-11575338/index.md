@@ -4,6 +4,7 @@ artist_name: "The Temperance Movement"
 artist: "the-temperance-movement"
 album_name: "A Deeper Cut"
 date: 2018-02-16T18:48:36.000000Z
+release_date: "2018-02-16"
 release_id: "11575338"
 slug: "a-deeper-cut-11575338"
 hideSummary: true
@@ -26,44 +27,32 @@ styles: ["Blues Rock"]
 A Deeper Cut is the third studio album by British rock band the Temperance Movement.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Caught In The Middle
-2. Built-In Forgetter
-3. Love And Devotion
-4. A Deeper Cut
-5. Backwater Zoo
-6. Another Spiral
-7. Beast Nation
-8. The Way It Was And The Way It Is Now
-9. Higher Than The Sun
-10. Children
-11. There's Still Time
-12. The Wonders We've Seen
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Caught In The Middle |  |
+| A2 | Built-In Forgetter |  |
+| A3 | Love And Devotion |  |
+| A4 | A Deeper Cut |  |
+| A6 | Backwater Zoo |  |
+| A7 | Another Spiral |  |
+| B1 | Beast Nation |  |
+| B2 | The Way It Was And The Way It Is Now |  |
+| B3 | Higher Than The Sun |  |
+| B4 | Children |  |
+| B5 | There's Still Time |  |
+| B6 | The Wonders We've Seen |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-deeper-cut/1301389456" >}}<br>
 
 
-## Videos
-### The Temperance Movement - Caught in the Middle Official Video
-{{< youtube id="VMTDrY4lTDo" title="The Temperance Movement - Caught in the Middle Official Video" >}}<br>
-### More Videos
-
-- [The Temperance Movement - Love and Devotion Official Audio](https://www.youtube.com/watch?v=uk5EkHkd9VQ)
-- [The Temperance Movement - Backwater Zoo Official Audio](https://www.youtube.com/watch?v=KpkDOGadvQ4)
-- [The Temperance Movement - Another Spiral Official Audio](https://www.youtube.com/watch?v=FwpikW0BIC0)
-- [The Temperance Movement - Beast Nation Official Audio](https://www.youtube.com/watch?v=yYxmNlMfGII)
-- [The Temperance Movement - The Way It Was and the Way It Is Now Official Audio](https://www.youtube.com/watch?v=JXrwh4trr8U)
-- [The Temperance Movement - Higher Than the Sun Official Audio](https://www.youtube.com/watch?v=9T3_Jw8Rb40)
-- [The Temperance Movement - Children Official Audio](https://www.youtube.com/watch?v=e5eadiTyo2Y)
-- [The Temperance Movement - Theres Still Time Official Audio](https://www.youtube.com/watch?v=C-KWfJ7Elpw)
-- [The Temperance Movement - The Wonders Weve Seen Official Audio](https://www.youtube.com/watch?v=W_c7x8M6C-Y)
-- [The Temperance Movement - Built-In Forgetter](https://www.youtube.com/watch?v=VORUDEzu89M)
-- [The Temperance Movement - A Deeper Cut](https://www.youtube.com/watch?v=_seBHGQCqgU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +64,5 @@ A Deeper Cut is the third studio album by British rock band the Temperance Movem
 | Format         | Vinyl LP Album Limited Edition (Orange, Gatefold) |
 | Label          | Earache |
 | Catalog Number | MOSH606LP |
-| Notes | Came with glossy 4 pages booklet with lyrics and credits. Limited to 1000 copies for the indie stores. Label code only on lower right on back cover. |
+| Notes | Came with glossy 4 pages booklet with lyrics and credits.<br>Limited to 1000 copies for the indie stores.<br>Label code only on lower right on back cover. |
 | Discogs URL    | [The Temperance Movement - A Deeper Cut](https://www.discogs.com/release/11575338-The-Temperance-Movement-A-Deeper-Cut) |

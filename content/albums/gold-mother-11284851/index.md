@@ -4,6 +4,7 @@ artist_name: "James"
 artist: "james"
 album_name: "Gold Mother"
 date: 2017-12-16T13:19:57.000000Z
+release_date: "2021-06-25"
 release_id: "11284851"
 slug: "gold-mother-11284851"
 hideSummary: true
@@ -22,37 +23,33 @@ Gold Mother is the third studio album by English rock band James. It was release
 Gold Mother received generally positive reviews from music critics, some of whom noted the album to contain some of James' best tracks. It initially reached number 16 in the UK; the reissue peaked at number two. "How Was It for You", the Flood mix of "Come Home", "Lose Control", and "Sit Down" all reached the top 40 in the UK, with "Sit Down" reaching the highest at number two. Gold Mother appeared on year-end album lists by the likes of NME, Melody Maker, and Vox, among others. In the UK, the album was certified gold, while "Sit Down" was certified platinum.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Come Home (Flood Mix)
-2. Lose Control
-3. Government Walls
-4. God Only Knows
-5. You Can't Tell How Much Suffering (On A Face That's Always Smiling)
-6. How Was It For You
-7. Sit Down
-8. Walking The Ghost
-9. Gold Mother
-10. Top Of The World
-11. Come Home (Original Version)
-12. Crescendo
-13. Hang On
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Come Home (Flood Mix) |  |
+| A2 | Lose Control |  |
+| A3 | Government Walls |  |
+| B1 | God Only Knows |  |
+| B2 | You Can't Tell How Much Suffering (On A Face That's Always Smiling) |  |
+| B3 | How Was It For You |  |
+| B4 | Sit Down |  |
+| C1 | Walking The Ghost |  |
+| C2 | Gold Mother |  |
+| C3 | Top Of The World |  |
+| D1 | Come Home (Original Version) |  |
+| D2 | Crescendo |  |
+| D3 | Hang On |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bettie-james-gold-edition/1693341943" >}}<br>
 
 
-## Videos
-### James - Come Home
-{{< youtube id="xWd9mqC80BU" title="James - Come Home" >}}<br>
-### More Videos
-
-- [James - How Was It For You](https://www.youtube.com/watch?v=Lm0IBdp6Y1A)
-- [James Hang On](https://www.youtube.com/watch?v=YCOD4BLwZU0)
-- [James Government Walls](https://www.youtube.com/watch?v=p5s9O6qKLLs)
 
 ## Release Images
 {{< imageGrid >}}

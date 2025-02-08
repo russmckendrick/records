@@ -4,6 +4,7 @@ artist_name: "Regina Spektor"
 artist: "regina-spektor"
 album_name: "Begin To Hope"
 date: 2016-05-10T16:18:30.000000Z
+release_date: "2006-06-13"
 release_id: "8394522"
 slug: "begin-to-hope-8394522"
 hideSummary: true
@@ -32,57 +33,42 @@ The album was nominated for the 2006 Shortlist Music Prize.
 Peter Gabriel recorded a cover of "Après Moi" on his orchestral album Scratch My Back, released in 2010.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Fidelity (3:47)
-2. Better (3:22)
-3. Samson (3:10)
-4. On The Radio (3:22)
-5. Field Below (5:18)
-6. Hotel Song (3:29)
-7. Après Moi (5:08)
-8. 20 Years of Snow (3:31)
-9. That Time (2:39)
-10. Edit (4:53)
-11. Lady (4:45)
-12. Summer In The City (3:50)
-13. Another Town (4:07)
-14. Uh-Merica (3:16)
-15. Baobabs (2:02)
-16. Düsseldorf  (3:09)
-17. Music Box (2:11)
-18. Better (Piano And Voice) (3:09)
-19. Hero (3:45)
-20. Bartender (3:12)
-21. Baby Jesus (2:43)
-22. Better (Radio Recut) (3:12)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fidelity | 3:47 |
+| A2 | Better | 3:22 |
+| A3 | Samson | 3:10 |
+| A4 | On The Radio | 3:22 |
+| A5 | Field Below | 5:18 |
+| A6 | Hotel Song | 3:29 |
+| B1 | Après Moi | 5:08 |
+| B2 | 20 Years of Snow | 3:31 |
+| B3 | That Time | 2:39 |
+| B4 | Edit | 4:53 |
+| B5 | Lady | 4:45 |
+| B6 | Summer In The City | 3:50 |
+| C1 | Another Town | 4:07 |
+| C2 | Uh-Merica | 3:16 |
+| C3 | Baobabs | 2:02 |
+| C4 | Düsseldorf  | 3:09 |
+| C5 | Music Box | 2:11 |
+| D1 | Better (Piano And Voice) | 3:09 |
+| D2 | Hero | 3:45 |
+| D3 | Bartender | 3:12 |
+| D4 | Baby Jesus | 2:43 |
+| D5 | Better (Radio Recut) | 3:12 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/begin-to-hope/157819402" >}}<br>
 
 
-## Videos
-### Regina Spektor - Apres Moi - Begin To Hope 2006 LP Vinyl 4k UHD
-{{< youtube id="To7sRUSb6NA" title="Regina Spektor - Apres Moi - Begin To Hope 2006 LP Vinyl 4k UHD" >}}<br>
-### More Videos
-
-- [Regina Spektor - Fidelity Official Music Video](https://www.youtube.com/watch?v=wigqKfLWjvM)
-- [Regina Spektor - Better Official Music Video](https://www.youtube.com/watch?v=VCokhCqK9rw)
-- [Regina Spektor - Samson OFFICIAL VIDEO](https://www.youtube.com/watch?v=p62rfWxs6a8)
-- [Regina Spektor - On The Radio Official Music Video](https://www.youtube.com/watch?v=tHAhnJbGy9M)
-- [Hotel Song by Regina Spektor](https://www.youtube.com/watch?v=TqJUvP3b9Hk)
-- [Regina Spektor - On The Radio Official Music Video](https://www.youtube.com/watch?v=tHAhnJbGy9M)
-- [That Time](https://www.youtube.com/watch?v=M-41HdCf7dI)
-- [Summer in the City](https://www.youtube.com/watch?v=PpEFC731Mo8)
-- [Regina Spektor - Apres Moi - Begin To Hope 2006 LP Vinyl 4k UHD](https://www.youtube.com/watch?v=To7sRUSb6NA)
-- [Regina Spektor - Fidelity Official Music Video](https://www.youtube.com/watch?v=wigqKfLWjvM)
-- [Regina Spektor - Better Official Music Video](https://www.youtube.com/watch?v=VCokhCqK9rw)
-- [Regina Spektor - Samson OFFICIAL VIDEO](https://www.youtube.com/watch?v=p62rfWxs6a8)
-- [Regina Spektor - On The Radio Official Music Video](https://www.youtube.com/watch?v=tHAhnJbGy9M)
-- [Hotel Song by Regina Spektor](https://www.youtube.com/watch?v=TqJUvP3b9Hk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -94,5 +80,5 @@ Peter Gabriel recorded a cover of "Après Moi" on his orchestral album Scratch M
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition (10th Anniversary Edition, Gatefold) |
 | Label          | Sire |
 | Catalog Number | 553891-1 |
-| Notes | 10th Anniversary Limited Edition 2-LP Set Bonus LP Features 10 Additional Tracks.  Record Store Day Release 2016. Limited to 3,000 copies. |
+| Notes | 10th Anniversary Limited Edition 2-LP Set<br>Bonus LP Features 10 Additional Tracks.<br><br>Record Store Day Release 2016. Limited to 3,000 copies. |
 | Discogs URL    | [Regina Spektor - Begin To Hope](https://www.discogs.com/release/8394522-Regina-Spektor-Begin-To-Hope) |

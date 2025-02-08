@@ -4,6 +4,7 @@ artist_name: "Jeff Buckley"
 artist: "jeff-buckley"
 album_name: "Grace"
 date: 2015-08-09T08:38:40.000000Z
+release_date: "2017-04-20"
 release_id: "6106287"
 slug: "grace-6106287"
 hideSummary: true
@@ -23,41 +24,30 @@ Grace did not meet Columbia's sales expectations, reaching number 149 on the US 
 Rolling Stone included Grace in three of its lists of the 500 greatest albums and named Buckley's version of "Hallelujah" one of the 500 greatest songs. In 2014, Buckley's version of "Hallelujah" was inducted into the American Library of Congress' National Recording Registry.   
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Mojo Pin (5:42)
-2. Grace (5:22)
-3. Last Goodbye (4:35)
-4. Lilac Wine (4:32)
-5. So Real (4:43)
-6. Hallelujah (6:53)
-7. Lover, You Should've Come Over (6:43)
-8. Corpus Christi Carol (2:56)
-9. Eternal Life (4:52)
-10. Dream Brother (5:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| 1 | Mojo Pin | 5:42 |
+| 2 | Grace | 5:22 |
+| 3 | Last Goodbye | 4:35 |
+| 4 | Lilac Wine | 4:32 |
+| 5 | So Real | 4:43 |
+| 6 | Hallelujah | 6:53 |
+| 7 | Lover, You Should've Come Over | 6:43 |
+| 8 | Corpus Christi Carol | 2:56 |
+| 9 | Eternal Life | 4:52 |
+| 10 | Dream Brother | 5:26 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-jeff-buckley-remastered/1229487899" >}}<br>
 
 
-## Videos
-### Mojo Pin
-{{< youtube id="ywEByqEVQRk" title="Mojo Pin" >}}<br>
-### More Videos
-
-- [Jeff Buckley - Grace Official Video](https://www.youtube.com/watch?v=A3adFWKE9JE)
-- [Jeff Buckley - Last Goodbye Edit](https://www.youtube.com/watch?v=3MMXjunSx80)
-- [Lilac Wine](https://www.youtube.com/watch?v=7wj0zxFcHQA)
-- [Jeff Buckley - So Real](https://www.youtube.com/watch?v=EcaxrqhUJ4c)
-- [Jeff Buckley - Hallelujah Official Video](https://www.youtube.com/watch?v=y8AWFf7EAc4)
-- [Lover You Shouldve Come Over](https://www.youtube.com/watch?v=TVKGM7dPSrY)
-- [Corpus Christi Carol](https://www.youtube.com/watch?v=pRyHLrsqO0c)
-- [Eternal Life](https://www.youtube.com/watch?v=7eiqlE98bPI)
-- [Dream Brother](https://www.youtube.com/watch?v=EaUL-_VZXcg)
-- [Forget Her](https://www.youtube.com/watch?v=yZhHtSJwjq0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +59,5 @@ Rolling Stone included Grace in three of its lists of the 500 greatest albums an
 | Format         | CD Album Reissue, Vinyl LP Album Reissue |
 | Label          | Columbia |
 | Catalog Number | 88843094771 |
-| Notes | (C)1994, 2014 Sony Music Entertainment Inc.  (P)1994, 2014 Sony Music Entertainment Inc.  Manufactured by Columbia Records.    2014 180 gram Vinyl Reissue with CD included.   |
+| Notes | (C)1994, 2014 Sony Music Entertainment Inc.<br>(P)1994, 2014 Sony Music Entertainment Inc.<br>Manufactured by Columbia Records.<br><br>2014 180 gram Vinyl Reissue with CD included.<br> |
 | Discogs URL    | [Jeff Buckley - Grace](https://www.discogs.com/release/6106287-Jeff-Buckley-Grace) |

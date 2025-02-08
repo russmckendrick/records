@@ -1,9 +1,10 @@
 ---
 title: "Vuur - In This Moment We Are Free - Cities"
 artist_name: "Vuur"
-artist: "vuur-2"
+artist: "vuur"
 album_name: "In This Moment We Are Free - Cities"
 date: 2017-10-21T15:09:36.000000Z
+release_date: "2017-10-20"
 release_id: "11031373"
 slug: "in-this-moment-we-are-free-cities-11031373"
 hideSummary: true
@@ -27,45 +28,41 @@ styles: ["Progressive Metal"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. My Champion - Berlin
-2. Time - Rotterdam
-3. The Martyr And The Saint - Beirut
-4. The Fire - San Francisco
-5. Freedom - Rio
-6. Days Go By - London
-7. Sail Away - Santiago
-8. Valley Of Diamonds - Mexico City
-9. Your Glorious Light Will Shine - Helsinki
-10. Save Me - Istanbul
-11. Reunite! - Paris
-12. My Champion - Berlin
-13. Time - Rotterdam
-14. The Martyr And The Saint - Beirut
-15. The Fire - San Francisco
-16. Freedom - Rio
-17. Days Go By - London
-18. Sail Away - Santiago
-19. Valley Of Diamonds - Mexico City
-20. Your Glorious Light Will Shine - Helsinki
-21. Save Me - Istanbul
-22. Reunite! - Paris
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | My Champion - Berlin |  |
+| A2 | Time - Rotterdam |  |
+| A3 | The Martyr And The Saint - Beirut |  |
+| B1 | The Fire - San Francisco |  |
+| B2 | Freedom - Rio |  |
+| B3 | Days Go By - London |  |
+| B4 | Sail Away - Santiago |  |
+| C1 | Valley Of Diamonds - Mexico City |  |
+| C2 | Your Glorious Light Will Shine - Helsinki |  |
+| C3 | Save Me - Istanbul |  |
+| C4 | Reunite! - Paris |  |
+| CD1 | My Champion - Berlin |  |
+| CD2 | Time - Rotterdam |  |
+| CD3 | The Martyr And The Saint - Beirut |  |
+| CD4 | The Fire - San Francisco |  |
+| CD5 | Freedom - Rio |  |
+| CD6 | Days Go By - London |  |
+| CD7 | Sail Away - Santiago |  |
+| CD8 | Valley Of Diamonds - Mexico City |  |
+| CD9 | Your Glorious Light Will Shine - Helsinki |  |
+| CD10 | Save Me - Istanbul |  |
+| CD11 | Reunite! - Paris |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-this-moment-we-are-free-cities/1265255116" >}}<br>
 
 
-## Videos
-### VUUR - In This Moment We Are Free - Cities Album Teaser
-{{< youtube id="xWag98avUQI" title="VUUR - In This Moment We Are Free - Cities Album Teaser" >}}<br>
-### More Videos
-
-- [VUUR - Days Go By - London Album Track](https://www.youtube.com/watch?v=Y3rT-X_zgOg)
-- [VUUR - My Champion - Berlin Teaser](https://www.youtube.com/watch?v=WwFqcIiIT0k)
-- [VUUR - Time - Rotterdam Track By Track](https://www.youtube.com/watch?v=nLXj_9ejzm8)
-- [VUUR - The Fire - San Francisco Track By Track](https://www.youtube.com/watch?v=11EeCmOz9Cg)
-- [An introduction to VUUR - Anneke van Giersbergens new band](https://www.youtube.com/watch?v=xtrkfkTM3Wk)
 
 ## Release Images
 {{< imageGrid >}}

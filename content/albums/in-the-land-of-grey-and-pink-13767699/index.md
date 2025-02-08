@@ -4,6 +4,7 @@ artist_name: "Caravan"
 artist: "caravan"
 album_name: "In The Land Of Grey And Pink"
 date: 2019-06-16T21:51:59.000000Z
+release_date: "1971-01-01"
 release_id: "13767699"
 slug: "in-the-land-of-grey-and-pink-13767699"
 hideSummary: true
@@ -22,32 +23,25 @@ The album was written and recorded during late 1970 and early 1971, and featured
 The album was critically well received but was not a chart success, which led to frustration within the band and David Sinclair's departure. Nevertheless, it has remained in print and sold steadily, and been recommended by critics as a good introduction to the Canterbury Scene genre. The band look back favourably on the album and several of its tracks have remained fixtures in Caravan's live repertoire. It has been reissued several times, including a comprehensive 40th anniversary remix package by British musician and producer Steven Wilson in 2011.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Golf Girl
-2. Winter Wine
-3. Love To Love You (And Tonight Pigs Will Fly)
-4. In The Land Of Grey And Pink
-5. Nine Feet Underground
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Golf Girl |  |
+| A2 | Winter Wine |  |
+| A3 | Love To Love You (And Tonight Pigs Will Fly) |  |
+| A4 | In The Land Of Grey And Pink |  |
+|  | Nine Feet Underground |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-the-land-of-grey-and-pink/1443216681" >}}<br>
 
 
-## Videos
-### In The Land Of Grey  Pink
-{{< youtube id="sTAhkb31khY" title="In The Land Of Grey  Pink" >}}<br>
-### More Videos
-
-- [Nine Feet Underground Medley](https://www.youtube.com/watch?v=_Sls_QCMG2Y)
-- [Winter Wine](https://www.youtube.com/watch?v=IlmZt0a6YOQ)
-- [In the Land of Grey and Pink](https://www.youtube.com/watch?v=h-iU5bmP1aU)
-- [In the Land of Grey and Pink](https://www.youtube.com/watch?v=wehVw9ehcec)
-- [In the Land of Grey and Pink Live](https://www.youtube.com/watch?v=iiSZEy1RwFM)
-- [Golf Girl](https://www.youtube.com/watch?v=YNqkOnuHtRE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -59,5 +53,5 @@ The album was critically well received but was not a chart success, which led to
 | Format         | Vinyl LP Album Limited Edition Reissue (Gatefold, Transparent) |
 | Label          | Deram |
 | Catalog Number | 7763089 |
-| Notes | HMV limited edition of 750 copies on transparent vinyl.  English liner notes uncredited. |
+| Notes | HMV limited edition of 750 copies on transparent vinyl.<br><br>English liner notes uncredited. |
 | Discogs URL    | [Caravan - In The Land Of Grey And Pink](https://www.discogs.com/release/13767699-Caravan-In-The-Land-Of-Grey-And-Pink) |

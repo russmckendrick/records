@@ -4,6 +4,7 @@ artist_name: "David Bowie"
 artist: "david-bowie"
 album_name: "Glastonbury 2000"
 date: 2018-11-30T15:19:36.000000Z
+release_date: "2018-11-30"
 release_id: "12811492"
 slug: "glastonbury-2000-12811492"
 hideSummary: true
@@ -50,37 +51,40 @@ styles: ["Art Rock", "Pop Rock"]
 Glastonbury 2000 is a live album by English musician David Bowie. It was recorded during his Sunday night headline slot at the Glastonbury Festival on 25 June 2000, part of his Mini Tour. The album marks the first time the full video and audio of the performance are released, 18 years after it took place. It was shown in its entirety for the first time on BBC2 on 28 June 2020.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Introduction (Greensleeves) (1:48)
-2. Wild Is The Wind (6:54)
-3. China Girl (4:24)
-4. Changes (3:40)
-5. Stay (7:12)
-6. Life On Mars? (4:42)
-7. Absolute Beginners (7:50)
-8. Ashes To Ashes (5:21)
-9. Rebel Rebel (4:12)
-10. Little Wonder (3:57)
-11. Golden Years (4:07)
-12. Fame (4:25)
-13. All The Young Dudes (3:43)
-14. The Man Who Sold The World (3:51)
-15. Station To Station (9:49)
-16. Starman (4:50)
-17. Hallo Spaceboy (5:28)
-18. Under Pressure (5:23)
-19. Ziggy Stardust (3:54)
-20. "Heroes" (5:57)
-21. Let's Dance (7:06)
-22. I'm Afraid Of Americans (5:43)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Introduction (Greensleeves) | 1:48 |
+| A2 | Wild Is The Wind | 6:54 |
+| A3 | China Girl | 4:24 |
+| A4 | Changes | 3:40 |
+| B1 | Stay | 7:12 |
+| B2 | Life On Mars? | 4:42 |
+| B3 | Absolute Beginners | 7:50 |
+| C1 | Ashes To Ashes | 5:21 |
+| C2 | Rebel Rebel | 4:12 |
+| C3 | Little Wonder | 3:57 |
+| C4 | Golden Years | 4:07 |
+| D1 | Fame | 4:25 |
+| D2 | All The Young Dudes | 3:43 |
+| D3 | The Man Who Sold The World | 3:51 |
+| D4 | Station To Station | 9:49 |
+| E1 | Starman | 4:50 |
+| E2 | Hallo Spaceboy | 5:28 |
+| E3 | Under Pressure | 5:23 |
+| E4 | Ziggy Stardust | 3:54 |
+| F1 | "Heroes" | 5:57 |
+| F2 | Let's Dance | 7:06 |
+| F3 | I'm Afraid Of Americans | 5:43 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/glastonbury-2000-live/1438252305" >}}<br>
-
 
 
 
@@ -94,5 +98,5 @@ Glastonbury 2000 is a live album by English musician David Bowie. It was recorde
 | Format         | Vinyl 3× LP Misprint Reissue |
 | Label          | Parlophone |
 | Catalog Number | 0190295570453 |
-| Notes | Recorded at the Pyramid stage, Glastonbury Festival, 25 June 2000. Made in the EU. Triple gatefold sleeve, with colour booklet. Back sleeve misprint: "Changes" is mistakenly listed twice – on side A and again at the end of side B. See the [url=http://www.discogs.com/release/13345593]repress with corrected back sleeve[/url].  Variant 2 runouts: In general, Euro-style "1"s are mirrored (appear as "Λ"s or "V"s). Side B: "T" is inverted.  |
+| Notes | Recorded at the Pyramid stage, Glastonbury Festival, 25 June 2000.<br>Made in the EU.<br>Triple gatefold sleeve, with colour booklet.<br>Back sleeve misprint: "Changes" is mistakenly listed twice – on side A and again at the end of side B. See the [url=http://www.discogs.com/release/13345593]repress with corrected back sleeve[/url].<br><br>Variant 2 runouts: In general, Euro-style "1"s are mirrored (appear as "Λ"s or "V"s). Side B: "T" is inverted.  |
 | Discogs URL    | [David Bowie - Glastonbury 2000](https://www.discogs.com/release/12811492-Bowie-Glastonbury-2000) |

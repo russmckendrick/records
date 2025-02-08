@@ -1,7 +1,7 @@
 ---
 title: "Oasis - Definitely Maybe"
 artist_name: "Oasis"
-artist: "oasis-2"
+artist: "oasis"
 album_name: "Definitely Maybe"
 date: 2019-08-30T15:24:35.000000Z
 release_date: "1994-08-29"
@@ -44,26 +44,25 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 
 
 ## Tracklisting
-1. Rock 'n' Roll Star (5:22)
-2. Shakermaker (5:08)
-3. Live Forever (4:33)
-4. Up In The Sky (4:32)
-5. Columbia (6:11)
-6. Sad Song (4:24)
-7. Supersonic (4:42)
-8. Bring It On Down (4:17)
-9. Cigarettes & Alcohol (4:47)
-10. Digsy's Dinner (2:32)
-11. Slide Away (6:32)
-12. Married With Children (3:07)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rock 'n' Roll Star | 5:22 |
+| A2 | Shakermaker | 5:08 |
+| A3 | Live Forever | 4:33 |
+| B1 | Up In The Sky | 4:32 |
+| B2 | Columbia | 6:11 |
+| B3 | Sad Song | 4:24 |
+| C1 | Supersonic | 4:42 |
+| C2 | Bring It On Down | 4:17 |
+| C3 | Cigarettes & Alcohol | 4:47 |
+| D1 | Digsy's Dinner | 2:32 |
+| D2 | Slide Away | 6:32 |
+| D3 | Married With Children | 3:07 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/definitely-maybe/1517506402" >}}<br>
 
-
-## Videos
-### Oasis - Shakermaker Official HD Remastered Video
-{{< youtube id="3FpNw3286y8" title="Oasis - Shakermaker Official HD Remastered Video" >}}<br>
 
 
 ## Release Images

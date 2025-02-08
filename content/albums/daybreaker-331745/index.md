@@ -36,40 +36,24 @@ As of 2003 it has sold 169,000 copies in the United States.
 
 
 ## Tracklisting
-1. Paris Train (5:46)
-2. Concrete Sky (4:34)
-3. Mount Washington (6:27)
-4. Anywhere (4:35)
-5. Daybreaker (3:55)
-6. Carmella (3:36)
-7. God Song (5:15)
-8. This One's Gonna Bruise (4:44)
-9. Ted's Waltz (5:41)
-10. Thinking About Tomorrow (6:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Paris Train | 5:46 |
+| A2 | Concrete Sky | 4:34 |
+| A3 | Mount Washington | 6:27 |
+| A4 | Anywhere | 4:35 |
+| A5 | Daybreaker | 3:55 |
+| B1 | Carmella | 3:36 |
+| B2 | God Song | 5:15 |
+| B3 | This One's Gonna Bruise | 4:44 |
+| B4 | Ted's Waltz | 5:41 |
+| B5 | Thinking About Tomorrow | 6:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/daybreaker/696518811" >}}<br>
 
 
-## Videos
-### Paris Train
-{{< youtube id="6myjARKjFLs" title="Paris Train" >}}<br>
-### More Videos
-
-- [Daybreaker](https://www.youtube.com/watch?v=zOuS209BVEI)
-- [Teds Waltz](https://www.youtube.com/watch?v=VyybYByaMj8)
-- [Concrete Sky](https://www.youtube.com/watch?v=EGVgbKQldEA)
-- [Mount Washington](https://www.youtube.com/watch?v=j3149WZsPqk)
-- [Anywhere](https://www.youtube.com/watch?v=sLX6xjbCuuA)
-- [Carmella](https://www.youtube.com/watch?v=DiUHKOK6PUE)
-- [God Song](https://www.youtube.com/watch?v=rIGzMZIrBqw)
-- [This Ones Gonna Bruise](https://www.youtube.com/watch?v=1xNbk8Hsg4E)
-- [Thinking About Tomorrow](https://www.youtube.com/watch?v=Ea_9I61HehA)
-- [Beth Orton - Thinking about tomorrow](https://www.youtube.com/watch?v=kjIwm7d_xs8)
-- [Carmella](https://www.youtube.com/watch?v=DiUHKOK6PUE)
-- [Daybreaker](https://www.youtube.com/watch?v=zOuS209BVEI)
-- [Teds Waltz](https://www.youtube.com/watch?v=VyybYByaMj8)
-- [Beth Orton - Carmella](https://www.youtube.com/watch?v=C2vO0wmATrs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +65,5 @@ As of 2003 it has sold 169,000 copies in the United States.
 | Format         | Vinyl LP Album |
 | Label          | Heavenly |
 | Catalog Number | HVNLP 37 |
-| Notes | All songs written by Beth Orton, except:  Tracks 1 & 9 which were written by Beth and Ted Barnes  Track 2 which was written by Beth and Johnny Marr  Track 8 which was written for Beth by Ryan Adams  Track 10 which was written by Beth, Ted, Sebastian Steinberg, and Sean Read    All tracks were mixed by Ben Watt and Andy Bradfield except for tracks 5 and 10   |
+| Notes | All songs written by Beth Orton, except:<br>Tracks 1 & 9 which were written by Beth and Ted Barnes<br>Track 2 which was written by Beth and Johnny Marr<br>Track 8 which was written for Beth by Ryan Adams<br>Track 10 which was written by Beth, Ted, Sebastian Steinberg, and Sean Read<br><br>All tracks were mixed by Ben Watt and Andy Bradfield except for tracks 5 and 10<br> |
 | Discogs URL    | [Beth Orton - Daybreaker](https://www.discogs.com/release/331745-Beth-Orton-Daybreaker) |

@@ -4,6 +4,7 @@ artist_name: "David Bowie"
 artist: "david-bowie"
 album_name: "A New Career In A New Town [ 1977–1982 ]"
 date: 2017-09-29T17:28:10.000000Z
+release_date: "2017-09-29"
 release_id: "10919769"
 slug: "a-new-career-in-a-new-town-19771982-10919769"
 hideSummary: true
@@ -81,130 +82,135 @@ styles: ["Avantgarde", "Art Rock", "Experimental"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Low
-2. Speed Of Life
-3. Breaking Glass
-4. What In The World
-5. Sound And Vision
-6. Always Crashing In The Same Car
-7. Be My Wife
-8. A New Career In A New Town
-9. Warszawa
-10. Art Decade
-11. Weeping Wall
-12. Subterraneans
-13. Heroes
-14. Beauty And The Beast
-15. Joe The Lion
-16. “Heroes”
-17. Sons Of The Silent Age
-18. Blackout
-19. V-2 Schneider
-20. Sense Of Doubt
-21. Moss Garden
-22. Neuköln
-23. The Secret Life Of Arabia
-24. "Heroes" EP
-25. “Heroes” / ”Helden” (German Album Version)
-26. “Helden” (German Single Version)
-27. “Heroes” / ”Héros” (French Album Version)
-28. “Héros” (French Single Version)
-29. Stage (Original)
-30. Hang On To Yourself
-31. Ziggy Stardust
-32. Five Years
-33. Soul Love
-34. Star
-35. Station To Station
-36. Fame
-37. TVC 15
-38. Warszawa
-39. Speed Of Life
-40. Art Decade
-41. Sense Of Doubt
-42. Breaking Glass
-43. “Heroes”
-44. What In The World
-45. Blackout
-46. Beauty And The Beast
-47. Stage (2017)
-48. Warszawa
-49. “Heroes”
-50. What In The World
-51. Be My Wife
-52. The Jean Genie
-53. Blackout
-54. Sense Of Doubt
-55. Speed Of Life
-56. Breaking Glass
-57. Beauty And The Beast
-58. Fame
-59. Five Years
-60. Soul Love
-61. Star
-62. Hang On To Yourself
-63. Ziggy Stardust
-64. Suffragette City
-65. Art Decade
-66. Alabama Song
-67. Station To Station
-68. Stay
-69. TVC 15
-70. Lodger 
-71. Fantastic Voyage
-72. African Night Flight
-73. Move On
-74. Yassassin (Turkish For: Long Live)
-75. Red Sails
-76. D.J.
-77. Look Back In Anger
-78. Boys Keep Swinging
-79. Repetition
-80. Red Money
-81. Lodger (2017 Tony Visconti Mix)
-82. Fantastic Voyage
-83. African Night Flight
-84. Move On
-85. Yassassin (Turkish For: Long Live)
-86. Red Sails
-87. D.J.
-88. Look Back In Anger
-89. Boys Keep Swinging
-90. Repetition
-91. Red Money
-92. Scary Monsters (And Super Creeps)
-93. It’s No Game (Part 1)
-94. Up The Hill Backwards
-95. Scary Monsters (And Super Creeps)
-96. Ashes To Ashes
-97. Fashion
-98. Teenage Wildlife
-99. Scream Like A Baby
-100. Kingdom Come
-101. Because You’re Young
-102. It’s No Game (Part 2)
-103. Re:Call 3
-104. “Heroes” (Single Version)
-105. Beauty And The Beast (Extended Version)
-106. Breaking Glass (Australian Single Version)
-107. Yassassin (Single Version)
-108. D.J. (Single Version)
-109. Alabama Song
-110. Space Oddity (1979 Version)
-111. Ashes To Ashes (Single Version)
-112. Fashion (Single Version)
-113. Scary Monsters (And Super Creeps) (Single Version)
-114. Crystal Japan
-115. Under Pressure (Single Version)
-116. Cat People (Putting Out Fire)
-117. Peace On Earth / Little Drummer Boy (Mono)
-118. Bertolt Brecht’s Baal
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Low |  |
+| A1 | Speed Of Life |  |
+| A2 | Breaking Glass |  |
+| A3 | What In The World |  |
+| A4 | Sound And Vision |  |
+| A5 | Always Crashing In The Same Car |  |
+| A6 | Be My Wife |  |
+| A7 | A New Career In A New Town |  |
+| B1 | Warszawa |  |
+| B2 | Art Decade |  |
+| B3 | Weeping Wall |  |
+| B4 | Subterraneans |  |
+|  | Heroes |  |
+| C1 | Beauty And The Beast |  |
+| C2 | Joe The Lion |  |
+| C3 | “Heroes” |  |
+| C4 | Sons Of The Silent Age |  |
+| C5 | Blackout |  |
+| D1 | V-2 Schneider |  |
+| D2 | Sense Of Doubt |  |
+| D3 | Moss Garden |  |
+| D4 | Neuköln |  |
+| D5 | The Secret Life Of Arabia |  |
+|  | "Heroes" EP |  |
+| E1 | “Heroes” / ”Helden” (German Album Version) |  |
+| E2 | “Helden” (German Single Version) |  |
+| F1 | “Heroes” / ”Héros” (French Album Version) |  |
+| F2 | “Héros” (French Single Version) |  |
+|  | Stage (Original) |  |
+| G1 | Hang On To Yourself |  |
+| G2 | Ziggy Stardust |  |
+| G3 | Five Years |  |
+| G4 | Soul Love |  |
+| G5 | Star |  |
+| H1 | Station To Station |  |
+| H2 | Fame |  |
+| H3 | TVC 15 |  |
+| I1 | Warszawa |  |
+| I2 | Speed Of Life |  |
+| I3 | Art Decade |  |
+| I4 | Sense Of Doubt |  |
+| I5 | Breaking Glass |  |
+| J1 | “Heroes” |  |
+| J2 | What In The World |  |
+| J3 | Blackout |  |
+| J4 | Beauty And The Beast |  |
+|  | Stage (2017) |  |
+| K1 | Warszawa |  |
+| K2 | “Heroes” |  |
+| K3 | What In The World |  |
+| L1 | Be My Wife |  |
+| L2 | The Jean Genie |  |
+| L3 | Blackout |  |
+| L4 | Sense Of Doubt |  |
+| M1 | Speed Of Life |  |
+| M2 | Breaking Glass |  |
+| M3 | Beauty And The Beast |  |
+| M4 | Fame |  |
+| N1 | Five Years |  |
+| N2 | Soul Love |  |
+| N3 | Star |  |
+| N4 | Hang On To Yourself |  |
+| N5 | Ziggy Stardust |  |
+| N6 | Suffragette City |  |
+| O1 | Art Decade |  |
+| O2 | Alabama Song |  |
+| O3 | Station To Station |  |
+| P1 | Stay |  |
+| P2 | TVC 15 |  |
+|  | Lodger  |  |
+| Q1 | Fantastic Voyage |  |
+| Q2 | African Night Flight |  |
+| Q3 | Move On |  |
+| Q4 | Yassassin (Turkish For: Long Live) |  |
+| Q5 | Red Sails |  |
+| R1 | D.J. |  |
+| R2 | Look Back In Anger |  |
+| R3 | Boys Keep Swinging |  |
+| R4 | Repetition |  |
+| R5 | Red Money |  |
+|  | Lodger (2017 Tony Visconti Mix) |  |
+| S1 | Fantastic Voyage |  |
+| S2 | African Night Flight |  |
+| S3 | Move On |  |
+| S4 | Yassassin (Turkish For: Long Live) |  |
+| S5 | Red Sails |  |
+| T1 | D.J. |  |
+| T2 | Look Back In Anger |  |
+| T3 | Boys Keep Swinging |  |
+| T4 | Repetition |  |
+| T5 | Red Money |  |
+|  | Scary Monsters (And Super Creeps) |  |
+| U1 | It’s No Game (Part 1) |  |
+| U2 | Up The Hill Backwards |  |
+| U3 | Scary Monsters (And Super Creeps) |  |
+| U4 | Ashes To Ashes |  |
+| U5 | Fashion |  |
+| V1 | Teenage Wildlife |  |
+| V2 | Scream Like A Baby |  |
+| V3 | Kingdom Come |  |
+| V4 | Because You’re Young |  |
+| V5 | It’s No Game (Part 2) |  |
+|  | Re:Call 3 |  |
+| W1 | “Heroes” (Single Version) |  |
+| W2 | Beauty And The Beast (Extended Version) |  |
+| W3 | Breaking Glass (Australian Single Version) |  |
+| W4 | Yassassin (Single Version) |  |
+| W5 | D.J. (Single Version) |  |
+| X1 | Alabama Song |  |
+| X2 | Space Oddity (1979 Version) |  |
+| X3 | Ashes To Ashes (Single Version) |  |
+| X4 | Fashion (Single Version) |  |
+| X5 | Scary Monsters (And Super Creeps) (Single Version) |  |
+| Y1 | Crystal Japan |  |
+| Y2 | Under Pressure (Single Version) |  |
+| Y3 | Cat People (Putting Out Fire) |  |
+| Y4 | Peace On Earth / Little Drummer Boy (Mono) |  |
+|  | Bertolt Brecht’s Baal |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-new-career-in-a-new-town-1977-1982/1255088551" >}}<br>
-
 
 
 

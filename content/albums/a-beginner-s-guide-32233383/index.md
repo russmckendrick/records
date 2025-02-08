@@ -4,6 +4,7 @@ artist_name: "Orbital"
 artist: "orbital"
 album_name: "A Beginner's Guide"
 date: 2024-11-09T04:35:49.000000Z
+release_date: "2024-11-08"
 release_id: "32233383"
 slug: "a-beginner-s-guide-32233383"
 hideSummary: true
@@ -21,26 +22,29 @@ styles: ["Techno", "Breakbeat", "Ambient", "Downtempo"]
 A Beginner's Guide (Best Of) is a compilation album by electronic music duo Orbital released on 8 November 2024 through London Recordings. The release is Orbital's compilation.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Chime (Edit)
-2. Halcyon (Edit)
-3. Belfast (Edit)
-4. Satan (Spawn)
-5. The Box (Edit)
-6. Lush 3.1 (Edit)
-7. Beached (Edit)
-8. Are We Here? (Edit)
-9. Are You Alive? (Edit)
-10. Style (Edit)
-11. Dirty Rat (Edit)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Chime (Edit) |  |
+| A2 | Halcyon (Edit) |  |
+| A3 | Belfast (Edit) |  |
+| A4 | Satan (Spawn) |  |
+| A5 | The Box (Edit) |  |
+| B1 | Lush 3.1 (Edit) |  |
+| B2 | Beached (Edit) |  |
+| B3 | Are We Here? (Edit) |  |
+| B4 | Are You Alive? (Edit) |  |
+| B5 | Style (Edit) |  |
+| B6 | Dirty Rat (Edit) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-beginners-guide-best-of/1771850068" >}}<br>
-
 
 
 
@@ -54,5 +58,5 @@ A Beginner's Guide (Best Of) is a compilation album by electronic music duo Orbi
 | Format         | Vinyl LP Compilation |
 | Label          | London Records |
 | Catalog Number | LMS1725246 |
-| Notes | Manufactured in France.  On hype sticker:  11 classic tracks including Chime, Belfast, Halcyon, Beached, Dirty Rat & more. |
+| Notes | Manufactured in France.<br><br>On hype sticker: <br>11 classic tracks including Chime, Belfast, Halcyon, Beached, Dirty Rat & more. |
 | Discogs URL    | [Orbital - A Beginner's Guide](https://www.discogs.com/release/32233383-Orbital-A-Beginners-Guide) |

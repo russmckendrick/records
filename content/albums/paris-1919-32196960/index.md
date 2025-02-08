@@ -4,6 +4,7 @@ artist_name: "John Cale"
 artist: "john-cale"
 album_name: "Paris 1919"
 date: 2024-11-16T05:39:07.000000Z
+release_date: "1973-02-25"
 release_id: "32196960"
 slug: "paris-1919-32196960"
 hideSummary: true
@@ -39,45 +40,36 @@ In contrast to the experimental nature of much of John Cale's work before and af
 The album has received critical praise from several publications over the years, including AllMusic and Rolling Stone.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Child's Christmas In Wales (3:20)
-2. Hanky Panky Nohow (2:43)
-3. The Endless Plain Of Fortune (4:10)
-4. Andalucia (3:50)
-5. Macbeth (3:03)
-6. Paris 1919 (4:03)
-7. Graham Greene (2:58)
-8. Half Past France (4:17)
-9. Antarctica Starts Here (2:51)
-10. I Must Not Sniff Cocaine (0:39)
-11. Hanky Panky Nohow (Drone Mix) (3:01)
-12. Child's Christmas In Wales (Rehearsal 1) (3:30)
-13. Half Past France (Intro Chat) (4:27)
-14. Macbeth (Take 11) (3:37)
-15. Hanky Panky Nohow (Guitar Mix) (3:40)
-16. Fever Dream 2024: You're A Ghost (9:11)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Child's Christmas In Wales | 3:20 |
+| A2 | Hanky Panky Nohow | 2:43 |
+| A3 | The Endless Plain Of Fortune | 4:10 |
+| A4 | Andalucia | 3:50 |
+| A5 | Macbeth | 3:03 |
+| B1 | Paris 1919 | 4:03 |
+| B2 | Graham Greene | 2:58 |
+| B3 | Half Past France | 4:17 |
+| B4 | Antarctica Starts Here | 2:51 |
+| C1 | I Must Not Sniff Cocaine | 0:39 |
+| C2 | Hanky Panky Nohow (Drone Mix) | 3:01 |
+| C3 | Child's Christmas In Wales (Rehearsal 1) | 3:30 |
+| C4 | Half Past France (Intro Chat) | 4:27 |
+| C5 | Macbeth (Take 11) | 3:37 |
+| D1 | Hanky Panky Nohow (Guitar Mix) | 3:40 |
+| D2 | Fever Dream 2024: You're A Ghost | 9:11 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/paris-1919/1251616879" >}}<br>
 
 
-## Videos
-### Childs Christmas In Wales
-{{< youtube id="VUwjejvhXOY" title="Childs Christmas In Wales" >}}<br>
-### More Videos
-
-- [Hanky Panky Nohow](https://www.youtube.com/watch?v=1N5rx_P1irs)
-- [The Endless Plain Of Fortune](https://www.youtube.com/watch?v=KFf19OGAAFE)
-- [Andalucia](https://www.youtube.com/watch?v=wR2Y08yty9g)
-- [Macbeth](https://www.youtube.com/watch?v=XhZKaL5RrTI)
-- [Paris 1919](https://www.youtube.com/watch?v=r1NmrknzeLg)
-- [Graham Greene](https://www.youtube.com/watch?v=tGtS8GMVt2I)
-- [Half Past France](https://www.youtube.com/watch?v=OmzBtJ5AayE)
-- [Antarctica Starts Here](https://www.youtube.com/watch?v=QM2vQzl1xos)
 
 ## Release Images
 {{< imageGrid >}}
@@ -89,5 +81,5 @@ The album has received critical praise from several publications over the years,
 | Format         | Vinyl LP Album Reissue Remastered Stereo, Vinyl LP Stereo, All Media Deluxe Edition |
 | Label          | Domino |
 | Catalog Number | REWIGLP139 |
-| Notes | Remastered from the original tapes and includes previously unreleased outtakes and a brand new recording (track D2). Includes liner notes written by Grayson Haver Currin. Single pocket jacket with printed inner sleeves with photographs of the master tapes, a lyrics/credits sheet and a reproduction of an original ad.  Includes digital download card. |
+| Notes | Remastered from the original tapes and includes previously unreleased outtakes and a brand new recording (track D2).<br>Includes liner notes written by Grayson Haver Currin.<br>Single pocket jacket with printed inner sleeves with photographs of the master tapes, a lyrics/credits sheet and a reproduction of an original ad.<br><br>Includes digital download card. |
 | Discogs URL    | [John Cale - Paris 1919](https://www.discogs.com/release/32196960-John-Cale-Paris-1919) |

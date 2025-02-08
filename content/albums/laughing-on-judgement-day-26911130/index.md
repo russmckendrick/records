@@ -1,9 +1,10 @@
 ---
 title: "Thunder - Laughing On Judgement Day"
 artist_name: "Thunder"
-artist: "thunder-3"
+artist: "thunder"
 album_name: "Laughing On Judgement Day"
 date: 2023-04-29T11:43:38.000000Z
+release_date: "1991"
 release_id: "26911130"
 slug: "laughing-on-judgement-day-26911130"
 hideSummary: true
@@ -32,48 +33,37 @@ The material on Laughing on Judgement Day was written primarily by Morley, altho
 Laughing on Judgement Day was promoted on the Laughing All Over the World Tour beginning in October 1992, which included shows supporting Extreme and headline dates in the UK, Japan, Canada and Europe. Four singles were released from the album, all of which reached the top 40 of the UK Singles Chart – "Low Life in High Places" peaked at number 22, "Everybody Wants Her" peaked at number 36, "A Better Man" peaked at number 18 and "Like a Satellite" peaked at number 28.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Does It Feel Like Love ?
-2. Everybody Wants Her
-3. Low Life In High Places
-4. Laughing On Judgement Day
-5. Empty City
-6. Today The World Stopped Turning
-7. Long Way From Home
-8. Fire To Ice
-9. Feeding The Flame
-10. A Better Man
-11. The Moment Of Truth
-12. Flawed To Perfection
-13. Like A Satellite
-14. Baby I`ll Be Gone
-15. A Better Man (Live)
-16. The Moment Of Truth (Live)
-17. Like A Satellite (Live)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Does It Feel Like Love ? |  |
+| A2 | Everybody Wants Her |  |
+| A3 | Low Life In High Places |  |
+| A4 | Laughing On Judgement Day |  |
+| B1 | Empty City |  |
+| B2 | Today The World Stopped Turning |  |
+| B3 | Long Way From Home |  |
+| B4 | Fire To Ice |  |
+| C1 | Feeding The Flame |  |
+| C2 | A Better Man |  |
+| C3 | The Moment Of Truth |  |
+| C4 | Flawed To Perfection |  |
+| C5 | Like A Satellite |  |
+| D1 | Baby I`ll Be Gone |  |
+| D2 | A Better Man (Live) |  |
+| D3 | The Moment Of Truth (Live) |  |
+| D4 | Like A Satellite (Live) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/laughing-on-judgement-day/690849956" >}}<br>
 
 
-## Videos
-### Thunder - Laughing On Judgement Day Full Album
-{{< youtube id="S-jl07EuBuE" title="Thunder - Laughing On Judgement Day Full Album" >}}<br>
-### More Videos
-
-- [Thunder - Empty City](https://www.youtube.com/watch?v=cdJIOJTMBYg)
-- [Thunder - Laughing On Judgement Day](https://www.youtube.com/watch?v=EU3buhICM9c)
-- [Thunder - Baby Ill Be Gone](https://www.youtube.com/watch?v=KK3ekpyAl9M)
-- [Thunder long way from homewmv](https://www.youtube.com/watch?v=V5qGKCfHZl0)
-- [THUNDER   A Better Man](https://www.youtube.com/watch?v=9zhqaQcd1mA)
-- [THUNDER - Xmas Show 2017 - Laughing on Judgement Day](https://www.youtube.com/watch?v=lDcoi5Vla3g)
-- [Laughing on Judgement Day](https://www.youtube.com/watch?v=tYc5D9rCoww)
-- [Thunder - Low Life In High Places OFFICIAL VIDEO with lyrics](https://www.youtube.com/watch?v=wCZe70UfjPA)
-- [Does It Feel Like Love](https://www.youtube.com/watch?v=oFmkyQq7bQU)
-- [Fire to Ice](https://www.youtube.com/watch?v=FkPjUXquUwk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +75,5 @@ Laughing on Judgement Day was promoted on the Laughing All Over the World Tour b
 | Format         | Vinyl LP Album Limited Edition Reissue (Blue), Vinyl LP Album Limited Edition Reissue (White) |
 | Label          | BMG |
 | Catalog Number | BMGCAT709DLP |
-| Notes | Hype sticker on front shrink saying: "THUNDER LAUGHING ON JUDGEMENT DAY LIMITED EDITION BLUE & WHITE DOUBLE VINYL INCLUDES THE TRACKS LOW LIFE IN HIGH PLACES EVERYBODY WANTS HER AND A BETTER MAN PLUS UNRELEASED BONUS TRACKS  BMG BMGCAT709DLP"  Gatefold sleeve  Track D2 Previously unreleased Track D3 Previously only available on The Xmas Show Live 2012 CD given to ticket holders only. Long deleted and has never been on vinyl or digital. Track D4 Previously available on the Half A Dozen Of The Other EP in 2008. Long deleted, never available on vinyl.  A Better Man (Live) recorded on 10th March 2005 at Shepherds Bush Empire The Moment Of Truth (Live) recorded on 21st December 2011 at Nottingham Rock City Like A Satellite (Live) recorded on 3rd December 2007 at Sheffield City Hall  Some copies came with a limited edition art card.  On back cover:  ℗ & © 2022 BMG Rights Management (UK) Ltd. Manufactured in Germany.  On inner sleeve:  All tracks ℗ 2009 Parlophone Records Ltd. a Warner Music Group Company, except tracks D2, D3 and D4 ℗ 2005 STC Recordings. |
+| Notes | Hype sticker on front shrink saying:<br>"THUNDER<br>LAUGHING ON JUDGEMENT DAY<br>LIMITED EDITION BLUE &<br>WHITE DOUBLE VINYL<br>INCLUDES THE TRACKS<br>LOW LIFE IN HIGH PLACES<br>EVERYBODY WANTS HER<br>AND A BETTER MAN<br>PLUS UNRELEASED<br>BONUS TRACKS<br><br>BMG<br>BMGCAT709DLP"<br><br>Gatefold sleeve<br><br>Track D2 Previously unreleased<br>Track D3 Previously only available on The Xmas Show Live 2012 CD given to ticket holders only. Long deleted and has never been on vinyl or digital.<br>Track D4 Previously available on the Half A Dozen Of The Other EP in 2008. Long deleted, never available on vinyl.<br><br>A Better Man (Live) recorded on 10th March 2005 at Shepherds Bush Empire<br>The Moment Of Truth (Live) recorded on 21st December 2011 at Nottingham Rock City<br>Like A Satellite (Live) recorded on 3rd December 2007 at Sheffield City Hall<br><br>Some copies came with a limited edition art card.<br><br>On back cover: <br>℗ & © 2022 BMG Rights Management (UK) Ltd.<br>Manufactured in Germany.<br><br>On inner sleeve: <br>All tracks ℗ 2009 Parlophone Records Ltd. a Warner Music Group Company, except tracks D2, D3 and D4 ℗ 2005 STC Recordings. |
 | Discogs URL    | [Thunder - Laughing On Judgement Day](https://www.discogs.com/release/26911130-Thunder-3-Laughing-On-Judgement-Day) |

@@ -39,27 +39,29 @@ After various adventures in electronica, <i>Riot City Blues</i> is Primal Scream
 
 
 ## Tracklisting
-1. Country Girl
-2. Nitty Gritty
-3. Suicide Sally & Johnny Guitar
-4. When the Bomb Drops
-5. Stone Ya To The Bone 
-6. Gamblin’ Bar Room Blues 
-7. Country Blues # 1 / Will I Be Forgiven? 
-8. Little Death
-9. To Live Is To Fly
-10. Zeppelin Blues While Thinking Of Robert Parker 
-11. The 99th Floor
-12. We’re Gonna Boogie
-13. Gimme Some Truth 
-14. Dolls (Sweet Rock 'N' Roll) 
-15. It’s Not Enough
-16. Hell’s Comin’ Down
-17. Sometimes I Feel So Lonely
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Country Girl |  |
+| A2 | Nitty Gritty |  |
+| A3 | Suicide Sally & Johnny Guitar |  |
+| A4 | When the Bomb Drops |  |
+| A5 | Stone Ya To The Bone  |  |
+| B1 | Gamblin’ Bar Room Blues  |  |
+| B2 | Country Blues # 1 / Will I Be Forgiven?  |  |
+| B3 | Little Death |  |
+| B4 | To Live Is To Fly |  |
+| C1 | Zeppelin Blues While Thinking Of Robert Parker  |  |
+| C2 | The 99th Floor |  |
+| C3 | We’re Gonna Boogie |  |
+| C4 | Gimme Some Truth  |  |
+| D1 | Dolls (Sweet Rock 'N' Roll)  |  |
+| D2 | It’s Not Enough |  |
+| D3 | Hell’s Comin’ Down |  |
+| D4 | Sometimes I Feel So Lonely |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/riot-city-blues-expanded-edition/482123564" >}}<br>
-
 
 
 
@@ -72,5 +74,5 @@ After various adventures in electronica, <i>Riot City Blues</i> is Primal Scream
 | Format         | Vinyl LP (Red Translucent), Vinyl LP (Green Translucent), All Media Album Record Store Day Limited Edition |
 | Label          | Columbia |
 | Catalog Number | 19439873831 |
-| Notes | RSD June 2021 release.  Gatefold sleeve with two inner sleeves with images, credits, lyrics, and new sleevenotes by Bobby Gillespie.  Includes code for digital download, in 320kbps MP3 format. On the downloaded files, the last note of 'Zeppelin Blues While Thinking Of Robert Parker' is mistakenly indexed as the first note of the following track, 'The 99th Floor'.  Matrix/Runout note: All sides - number/letter strings stamped, text strings etched. |
+| Notes | RSD June 2021 release.<br><br>Gatefold sleeve with two inner sleeves with images, credits, lyrics, and new sleevenotes by Bobby Gillespie.<br><br>Includes code for digital download, in 320kbps MP3 format. On the downloaded files, the last note of 'Zeppelin Blues While Thinking Of Robert Parker' is mistakenly indexed as the first note of the following track, 'The 99th Floor'.<br><br>Matrix/Runout note:<br>All sides - number/letter strings stamped, text strings etched. |
 | Discogs URL    | [Primal Scream - Riot City Blues Sessions](https://www.discogs.com/release/19112122-Primal-Scream-Riot-City-Blues-Sessions) |

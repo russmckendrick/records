@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Twin Peaks (Music From The Limited Event Series)"
 date: 2017-09-23T11:28:39.000000Z
+release_date: ""
 release_id: "10889050"
 slug: "twin-peaks-music-from-the-limited-event-series-10889050"
 hideSummary: true
@@ -30,41 +31,39 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock", "Industrial", "Lo-Fi", "
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Twin Peaks Main Theme (Edit)
-2. Shadow
-3. Mississippi
-4. Lark
-5. I Am
-6. I Love How You Love Me
-7. Snake Eyes
-8. Tarifa (Roadhouse Mix)
-9. She's Gone Away
-10. My Prayer
-11. No Stars
-12. Viva Las Vegas
-13. Just You
-14. Green Onions
-15. Wild West (Roadhouse Mix)
-16. Sharp Dressed Man
-17. Axolotl (Roadhouse Mix)
-18. Out Of Sand
-19. I've Been Loving You Too Long (Live From Monterey Pop)
-20. The World Spins
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Twin Peaks Main Theme (Edit) |  |
+| A2 | Shadow |  |
+| A3 | Mississippi |  |
+| A4 | Lark |  |
+| A5 | I Am |  |
+| A6 | I Love How You Love Me |  |
+| B1 | Snake Eyes |  |
+| B2 | Tarifa (Roadhouse Mix) |  |
+| B3 | She's Gone Away |  |
+| B4 | My Prayer |  |
+| C1 | No Stars |  |
+| C2 | Viva Las Vegas |  |
+| C3 | Just You |  |
+| C4 | Green Onions |  |
+| C5 | Wild West (Roadhouse Mix) |  |
+| D1 | Sharp Dressed Man |  |
+| D2 | Axolotl (Roadhouse Mix) |  |
+| D3 | Out Of Sand |  |
+| D4 | I've Been Loving You Too Long (Live From Monterey Pop) |  |
+| D5 | The World Spins |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Twin Peaks- Limited Event Series Full Soundtrack HQ
-{{< youtube id="Mgfu97u9ILs" title="Twin Peaks- Limited Event Series Full Soundtrack HQ" >}}<br>
-### More Videos
 
-- [THE NINE INCH NAILS - SHES GONE AWAY Twin Peaks Music Video](https://www.youtube.com/watch?v=GXc2rPmawek)
-- [Eddie Vedder Out of Sand Twin Peaks](https://www.youtube.com/watch?v=WJHM4w_TD28)
-- [Rebekah Del Rio sings No Stars Live at the Twin Peaks UK Festival 2018](https://www.youtube.com/watch?v=JqzfQWse2uI)
-- [CHROMATICS SHADOW Official Video](https://www.youtube.com/watch?v=IGUboLZx3Tk)
-- [Twin Peaks Theme](https://www.youtube.com/watch?v=nCn3LYqCnrk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +74,5 @@ styles: ["Alternative Rock", "Folk Rock", "Indie Rock", "Industrial", "Lo-Fi", "
 | Format         | Vinyl 2× LP Album Compilation Limited Edition (Red and Black Splatter) |
 | Label          | Rhino Records (2) |
 | Catalog Number | 081227933975 |
-| Notes | Limited edition on transparent red and black splatter vinyl.  Gatefold sleeve. Includes poster.  Silver sticker on shrinkwrap: "20 tracks from the limited event series Songs from Bang Bang bar performances and more including Nine Inch Nails, Chromatics, Sharon Van Etten, Lissie 0 81227 93255 8 Limited Edition Color Vinyl + Poster 081227932558"  This Compilation ℗ & © 2017 Rhino Entertainment Company, a Warner Music Group Company. Twin Peaks Artwork & Photos © 2017 Rancho Rosa Partnership, Inc. Made in E.U. [back cover and labels]  Reportedly limited to 1500 copies for the UK. In France, this edition exclusively sold by [url=https://www.discogs.com/label/23713-FNAC]fnac[/url]. Copies coming with custom stickers: [url=https://www.discogs.com/Various-Twin-Peaks-Music-From-The-Limited-Event-Series/release/10889050#images/38795061]La bande originale de la série évènement[/url] and [url=https://www.discogs.com/Various-Twin-Peaks-Music-From-The-Limited-Event-Series/release/10889050#images/38795062]fnac exclusivité - édition limitée[/url]. |
+| Notes | Limited edition on transparent red and black splatter vinyl. <br>Gatefold sleeve.<br>Includes poster.<br><br>Silver sticker on shrinkwrap:<br>"20 tracks from the limited event series<br>Songs from Bang Bang bar performances and more including Nine Inch Nails, Chromatics, Sharon Van Etten, Lissie<br>0 81227 93255 8<br>Limited Edition<br>Color Vinyl + Poster<br>081227932558"<br><br>This Compilation ℗ & © 2017 Rhino Entertainment Company, a Warner Music Group Company.<br>Twin Peaks Artwork & Photos © 2017 Rancho Rosa Partnership, Inc.<br>Made in E.U. [back cover and labels]<br><br>Reportedly limited to 1500 copies for the UK.<br>In France, this edition exclusively sold by [url=https://www.discogs.com/label/23713-FNAC]fnac[/url]. Copies coming with custom stickers: [url=https://www.discogs.com/Various-Twin-Peaks-Music-From-The-Limited-Event-Series/release/10889050#images/38795061]La bande originale de la série évènement[/url] and [url=https://www.discogs.com/Various-Twin-Peaks-Music-From-The-Limited-Event-Series/release/10889050#images/38795062]fnac exclusivité - édition limitée[/url]. |
 | Discogs URL    | [Various - Twin Peaks (Music From The Limited Event Series)](https://www.discogs.com/release/10889050-Various-Twin-Peaks-Music-From-The-Limited-Event-Series) |

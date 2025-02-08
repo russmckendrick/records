@@ -4,6 +4,7 @@ artist_name: "Iron Butterfly"
 artist: "iron-butterfly"
 album_name: "In-A-Gadda-Da-Vida"
 date: 2017-01-30T18:25:20.000000Z
+release_date: "1968-06-14"
 release_id: "9641670"
 slug: "in-a-gadda-da-vida-9641670"
 hideSummary: true
@@ -28,32 +29,26 @@ At slightly over 17 minutes, it occupies the entire second side of the album. Th
 A 2-minute-52-second 45-rpm version of "In-A-Gadda-Da-Vida" was Iron Butterfly's only song to reach the top 40, reaching number 30, while the album itself reached number four on the album chart and has sold over 30 million copies. An 8-minute-20-second edit of the song was included in the soundtrack to the 1986 film Manhunter. In 2009, it was named the 24th-greatest hard rock song of all time by VH1. It is also often regarded as an influence on heavy metal music and one of the firsts of the genre.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Most Anything You Want (3:41)
-2. Flowers And Beads (3:05)
-3. My Mirage (4:51)
-4. Termination (2:50)
-5. Are You Happy (4:28)
-6. In-A-Gadda-Da-Vida (17:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Most Anything You Want | 3:41 |
+| A2 | Flowers And Beads | 3:05 |
+| A3 | My Mirage | 4:51 |
+| A4 | Termination | 2:50 |
+| A5 | Are You Happy | 4:28 |
+| B1 | In-A-Gadda-Da-Vida | 17:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-a-gadda-da-vida/780234002" >}}<br>
 
 
-## Videos
-### Most Anything You Want
-{{< youtube id="5QZdITJX6I0" title="Most Anything You Want" >}}<br>
-### More Videos
-
-- [Flowers and Beads](https://www.youtube.com/watch?v=rN8iFqDvB_c)
-- [Termination](https://www.youtube.com/watch?v=TxAGeGBhIxI)
-- [My Mirage](https://www.youtube.com/watch?v=zlh4661CQFw)
-- [Are You Happy](https://www.youtube.com/watch?v=XcSZTBuQyK4)
-- [In-A-Gadda-Da-Vida 2006 Remaster Full-Length](https://www.youtube.com/watch?v=Tfpn3wHoNGA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +60,5 @@ A 2-minute-52-second 45-rpm version of "In-A-Gadda-Da-Vida" was Iron Butterfly's
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (Smoked Clear with Green & Pink Splatter) |
 | Label          | ATCO Records |
 | Catalog Number | 081227941918 |
-| Notes | Sticker: "Limited Edition - Psychedelic Splatter Vinyl - Cut from the original analogue master - 081227941918"  Ref. on the spine :  081227941918  Made in E.U. : on rear cover  (P) & (C) 2017, 1968 Atlantic Recording Corporation |
+| Notes | Sticker: "Limited Edition - Psychedelic Splatter Vinyl - Cut from the original analogue master - 081227941918"<br><br>Ref. on the spine :  081227941918<br><br>Made in E.U. : on rear cover<br><br>(P) & (C) 2017, 1968 Atlantic Recording Corporation |
 | Discogs URL    | [Iron Butterfly - In-A-Gadda-Da-Vida](https://www.discogs.com/release/9641670-Iron-Butterfly-In-A-Gadda-Da-Vida) |

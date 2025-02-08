@@ -4,6 +4,7 @@ artist_name: "Church Of The Cosmic Skull"
 artist: "church-of-the-cosmic-skull"
 album_name: "Science Fiction"
 date: 2018-07-21T12:56:21.000000Z
+release_date: "2018-05-17"
 release_id: "12281880"
 slug: "science-fiction-12281880"
 hideSummary: true
@@ -27,33 +28,30 @@ Precedents for science fiction are argued to exist as far back as antiquity, but
 Science fiction has come to influence not just literature but film, TV, and culture at large. Besides providing entertainment, it can also criticize present-day society and explore alternatives and inspire a "sense of wonder".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Science Fiction
-2. Go By The River
-3. Revolution Comes With An Act Of Love
-4. Cold Sweat
-5. The Others
-6. Timehole (Gonna Build A Rocket Tonight)
-7. The Cards That You'Re Playing
-8. Paper Aeroplane
-9. Silver Moon
-10. The Devil Again
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Science Fiction |  |
+| A2 | Go By The River |  |
+| A3 | Revolution Comes With An Act Of Love |  |
+| A4 | Cold Sweat |  |
+| A5 | The Others |  |
+| B1 | Timehole (Gonna Build A Rocket Tonight) |  |
+| B2 | The Cards That You'Re Playing |  |
+| B3 | Paper Aeroplane |  |
+| B4 | Silver Moon |  |
+| B5 | The Devil Again |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/science-fiction/1362743489" >}}<br>
 
 
-## Videos
-### Science Fiction
-{{< youtube id="b5WJDSmv1iE" title="Science Fiction" >}}<br>
-### More Videos
-
-- [Church of the Cosmic Skull - Science Fiction](https://www.youtube.com/watch?v=hdXffwZGg1Q)
-- [Church of the Cosmic Skull - Science Fiction 2018 New Full Album](https://www.youtube.com/watch?v=Al1ammaaqqs)
 
 ## Release Images
 {{< imageGrid >}}

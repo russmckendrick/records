@@ -4,6 +4,7 @@ artist_name: "Alice In Chains"
 artist: "alice-in-chains"
 album_name: "We Die Young"
 date: 2022-04-24T04:25:43.000000Z
+release_date: "2013-02-01"
 release_id: "22275457"
 slug: "we-die-young-22275457"
 hideSummary: true
@@ -24,26 +25,23 @@ styles: ["Alternative Metal", "Grunge"]
 We Die Young is a song and single EP by the American rock band Alice in Chains, engineered and co-produced by Dave Jerden. It was released in July 1990 and is their first studio EP. This was a promo-only EP released on vinyl and cassette, and is thus a sought-after collector's item amongst Alice in Chains fans.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. We Die Young (2:32)
-2. It Ain't Like That (4:38)
-3. Killing Yourself (2:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | We Die Young | 2:32 |
+| C1 | It Ain't Like That | 4:38 |
+| C2 | Killing Yourself | 2:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/we-die-young-in-the-style-of-alice-in-chains/609089162" >}}<br>
 
 
-## Videos
-### Alice In Chains - We Die Young Official HD Video
-{{< youtube id="6JA25BIxgtk" title="Alice In Chains - We Die Young Official HD Video" >}}<br>
-### More Videos
-
-- [Alice in Chains - It Aint Like That 1990](https://www.youtube.com/watch?v=xLsc9rygd8k)
-- [Alice in Chains - Killing Yourself - We Die Young EP](https://www.youtube.com/watch?v=MtrLJrMZwMo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -55,5 +53,5 @@ We Die Young is a song and single EP by the American rock band Alice in Chains, 
 | Format         | Vinyl 12" 33 ⅓ RPM EP Record Store Day Limited Edition Reissue Remastered |
 | Label          | Columbia |
 | Catalog Number | 19439784651 |
-| Notes | Record Store Day 2022 exclusive release, edition of 14350 copies worldwide. This is the version for RSD outside the US, that can be distinguished from the US version by the presence of Sony Music logo. No MPO pressing info on side C.  Made in the EU. |
+| Notes | Record Store Day 2022 exclusive release, edition of 14350 copies worldwide.<br>This is the version for RSD outside the US, that can be distinguished from the US version by the presence of Sony Music logo.<br>No MPO pressing info on side C.<br><br>Made in the EU. |
 | Discogs URL    | [Alice In Chains - We Die Young](https://www.discogs.com/release/22275457-Alice-In-Chains-We-Die-Young) |

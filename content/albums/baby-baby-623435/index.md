@@ -4,6 +4,7 @@ artist_name: "Amy Grant"
 artist: "amy-grant"
 album_name: "Baby Baby"
 date: 2020-08-01T12:45:57.000000Z
+release_date: "2024-03-10"
 release_id: "623435"
 slug: "baby-baby-623435"
 hideSummary: true
@@ -22,38 +23,23 @@ styles: ["Pop Rock", "Synth-pop"]
 ---
 
 "Baby Baby" is a pop song by American recording artist Amy Grant and it was issued as the first single from her eighth studio album, Heart in Motion (1991). The song was written by Grant and Keith Thomas, who also produced it. It was released on January 18, 1991, through A&M Records and topped the US Billboard Hot 100 chart for two consecutive weeks in April 1991, becoming the first in a string of hits from Heart in Motion. At the 34th Annual Grammy Awards in 1992, the song received three Grammy Award nominations, including Song of the Year and Record of the Year. Its music video was directed by D.J. Webster and first aired in March 1991.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Baby Baby (Heart In Motion Mix) (5:57)
-2. Baby Baby (No Getting Over You Mix) (3:55)
-3. Lead Me On (5:28)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Baby Baby (Heart In Motion Mix) | 5:57 |
+| B1 | Baby Baby (No Getting Over You Mix) | 3:55 |
+| B2 | Lead Me On | 5:28 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/heart-in-motion/1440832797" >}}<br>
 
 
-## Videos
-### Amy Grant - Baby Baby
-{{< youtube id="vMXuuYnoRdI" title="Amy Grant - Baby Baby" >}}<br>
-### More Videos
-
-- [Baby Baby - Amy Grant With Lyrics](https://www.youtube.com/watch?v=MvoCxOv6zL0)
-- [Amy Grant - Baby Baby 7 Heart In Motion Mix 1991](https://www.youtube.com/watch?v=cqlmQMSt0yg)
-- [Amy Grant - Baby Baby 12 Heart In Motion Mix](https://www.youtube.com/watch?v=ucyLYstmAzk)
-- [Baby Baby 12 No getting Over You Mix - Amy Grant](https://www.youtube.com/watch?v=DP0uTkS5t5g)
-- [Amy Grant - Baby Baby](https://www.youtube.com/watch?v=vMXuuYnoRdI)
-- [Baby Baby - Amy Grant With Lyrics](https://www.youtube.com/watch?v=MvoCxOv6zL0)
-- [Amy Grant - Baby Baby 7 Heart In Motion Mix 1991](https://www.youtube.com/watch?v=cqlmQMSt0yg)
-- [Amy Grant - Baby Baby 12 Heart In Motion Mix](https://www.youtube.com/watch?v=ucyLYstmAzk)
-- [Baby Baby 12 No getting Over You Mix - Amy Grant](https://www.youtube.com/watch?v=DP0uTkS5t5g)
-- [Amy Grant - Baby Baby](https://www.youtube.com/watch?v=vMXuuYnoRdI)
-- [Amy Grant Baby Baby UK radio edit](https://www.youtube.com/watch?v=TxG8GAdIlCE)
-- [Amy Grant - Baby Baby Lyric Video ft Tori Kelly](https://www.youtube.com/watch?v=euMfgdv_TWw)
-- [Amy Grant feat Tori Kelly - Baby Baby Official Audio from Amy Grant](https://www.youtube.com/watch?v=JGIHP5vcB0s)
-- [Amy Grant  Tori Kelly - Baby Baby Behind The Scenes](https://www.youtube.com/watch?v=SjpnDyWlfjg)
 
 ## Release Images
 {{< imageGrid >}}

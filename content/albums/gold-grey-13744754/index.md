@@ -4,6 +4,7 @@ artist_name: "Baroness"
 artist: "baroness"
 album_name: "Gold & Grey"
 date: 2019-06-17T17:31:14.000000Z
+release_date: "2019-06-14"
 release_id: "13744754"
 slug: "gold-grey-13744754"
 hideSummary: true
@@ -47,44 +48,36 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Front Toward Enemy
-2. I’m Already Gone
-3. Seasons
-4. Sevens
-5. Tourniquet
-6. Anchor’s Lament
-7. Throw Me An Anchor
-8. I’d Do Anything
-9. Blankets Of Ash
-10. Emmett-Radiating Light
-11. Cold-Blooded Angels
-12. Crooked Mile
-13. Broken Halo
-14. Can Oscura
-15. Borderlines
-16. Assault On East Falls
-17. Pale Sun
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Front Toward Enemy |  |
+| A2 | I’m Already Gone |  |
+| A3 | Seasons |  |
+| A4 | Sevens |  |
+| A5 | Tourniquet |  |
+| A6 | Anchor’s Lament |  |
+| B1 | Throw Me An Anchor |  |
+| B2 | I’d Do Anything |  |
+| B3 | Blankets Of Ash |  |
+| B4 | Emmett-Radiating Light |  |
+| B5 | Cold-Blooded Angels |  |
+| C1 | Crooked Mile |  |
+| C2 | Broken Halo |  |
+| C3 | Can Oscura |  |
+| C4 | Borderlines |  |
+| C5 | Assault On East Falls |  |
+| C6 | Pale Sun |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gold-grey/1455859673" >}}<br>
 
 
-## Videos
-### BARONESS - Front Toward Enemy AUDIO
-{{< youtube id="PQ5qs3ALrU4" title="BARONESS - Front Toward Enemy AUDIO" >}}<br>
-### More Videos
-
-- [BARONESS - Throw Me An Anchor AUDIO](https://www.youtube.com/watch?v=KcWFiTJ23Vo)
-- [BARONESS - Seasons OFFICIAL](https://www.youtube.com/watch?v=k3n8RBaUMpc)
-- [BARONESS - Borderlines OFFICIAL](https://www.youtube.com/watch?v=tQX_oVVORFU)
-- [BARONESS - Tourniquet Official Music Video](https://www.youtube.com/watch?v=RQeAvbTVWiU)
-- [BARONESS - Front Toward Enemy AUDIO](https://www.youtube.com/watch?v=PQ5qs3ALrU4)
-- [BARONESS - Throw Me An Anchor AUDIO](https://www.youtube.com/watch?v=KcWFiTJ23Vo)
-- [BARONESS - Seasons OFFICIAL](https://www.youtube.com/watch?v=k3n8RBaUMpc)
-- [BARONESS - Borderlines OFFICIAL](https://www.youtube.com/watch?v=tQX_oVVORFU)
-- [BARONESS - Tourniquet Official Music Video](https://www.youtube.com/watch?v=RQeAvbTVWiU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -95,5 +88,5 @@ styles: ["Stoner Rock", "Heavy Metal", "Prog Rock"]
 | Format         | Vinyl LP (Red Transparent), Vinyl LP Single Sided Etched (Blue Transparent), All Media Album Limited Edition |
 | Label          | Abraxan Hymns |
 | Catalog Number | ABXN006-1 |
-| Notes | Independent Record Stores Release Includes download code, lyric booklet, and printed inner sleeves.  Recorded at Tarbox Studio in Cassadaga, NY with additional tracking in John's Basement Studio in Bala Cynwyd, PA. Strings recorded at Bird Cloud Recording in Edwardsville, IL. Mastered at Sterling Sound in Edgewater, NJ.  All songs written by Baroness © 2019 Aperfectmonster Audio (BMI), Jost Jost (BMI), Freqazoid Music (ASCAP), Gleason Works (BMI).  © & ℗ 2019 Abraxan Hymns, LLC. |
+| Notes | Independent Record Stores Release<br>Includes download code, lyric booklet, and printed inner sleeves.<br><br>Recorded at Tarbox Studio in Cassadaga, NY with additional tracking in John's Basement Studio in Bala Cynwyd, PA.<br>Strings recorded at Bird Cloud Recording in Edwardsville, IL.<br>Mastered at Sterling Sound in Edgewater, NJ.<br><br>All songs written by Baroness © 2019 Aperfectmonster Audio (BMI), Jost Jost (BMI), Freqazoid Music (ASCAP), Gleason Works (BMI).<br><br>© & ℗ 2019 Abraxan Hymns, LLC. |
 | Discogs URL    | [Baroness - Gold & Grey](https://www.discogs.com/release/13744754-Baroness-Gold-Grey) |

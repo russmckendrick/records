@@ -4,6 +4,7 @@ artist_name: "Monster Magnet"
 artist: "monster-magnet"
 album_name: "Milking The Stars: A Re-Imagining Of Last Patrol"
 date: 2016-01-29T18:23:29.000000Z
+release_date: "2014-11-10"
 release_id: "6299294"
 slug: "milking-the-stars-a-re-imagining-of-last-patrol-6299294"
 hideSummary: true
@@ -28,60 +29,32 @@ styles: ["Hard Rock", "Stoner Rock", "Psychedelic Rock"]
 Milking the Stars: A Re-Imagining of Last Patrol is a remix studio album by the American rock band Monster Magnet, released on November 14, 2014. According to frontman Dave Wyndorf, the album is a "reimagined" version of their previous album, 2013's Last Patrol, featuring four new songs and two live tracks. The album is not strictly a remix of Last Patrol, as songs feature new recordings and arrangements aimed at giving the album what Wyndorf describes as "a weird 1960s vibe". The album concludes with two live tracks recorded at the AB in Brussels in 2014, and which feature the debut performance of the band's new bassist, Chris Kosnik.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Let The Circus Burn
-2. Mindless Ones '68
-3. No Paradise For Me
-4. End Of Time (B-3)
-5. Milking The Stars
-6. Hallelujah (Fuzz And Swamp)
-7. I Live Behind The Clouds (Roughed Up And Slightly Spaced)
-8. Goliath Returns
-9. Stay Tuned (Even Sadder)
-10. The Duke (Full On Drums 'n Wah)
-11. Last Patrol (Live)
-12. Three Kingfishers (Live)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Let The Circus Burn |  |
+| A2 | Mindless Ones '68 |  |
+| A3 | No Paradise For Me |  |
+| B1 | End Of Time (B-3) |  |
+| B2 | Milking The Stars |  |
+| B3 | Hallelujah (Fuzz And Swamp) |  |
+| C1 | I Live Behind The Clouds (Roughed Up And Slightly Spaced) |  |
+| C2 | Goliath Returns |  |
+| C3 | Stay Tuned (Even Sadder) |  |
+| C4 | The Duke (Full On Drums 'n Wah) |  |
+| D1 | Last Patrol (Live) |  |
+| D2 | Three Kingfishers (Live) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/milking-the-stars-a-re-imagining-of-last-patrol/1183601514" >}}<br>
 
 
-## Videos
-### MONSTER MAGNET - The Duke Official Video  Napalm Records
-{{< youtube id="2RCwgz4FiSA" title="MONSTER MAGNET - The Duke Official Video  Napalm Records" >}}<br>
-### More Videos
-
-- [Monster Magnet - End of Time](https://www.youtube.com/watch?v=hfp0fZVtgzo)
-- [MONSTER MAGNET - Mindless Ones Official  Napalm Records](https://www.youtube.com/watch?v=YkVOko8xVb8)
-- [Milking The Stars](https://www.youtube.com/watch?v=RyADFdo6H3g)
-- [Last Patrol Live](https://www.youtube.com/watch?v=MOdftJvtYvw)
-- [End Of Time B-3](https://www.youtube.com/watch?v=V2mU6pDuuZE)
-- [Let The Circus Burn](https://www.youtube.com/watch?v=mggy7HHsbFU)
-- [Goliath Returns](https://www.youtube.com/watch?v=EuM5J7s4aP4)
-- [Mindless Ones 68](https://www.youtube.com/watch?v=kiVjdn1o82k)
-- [Three Kingfishers Live](https://www.youtube.com/watch?v=6jEcMZ8XANc)
-- [I Live Behind The Clouds Roughed Up And Slightly Spaced](https://www.youtube.com/watch?v=zgpsvUg7DA0)
-- [The Duke Full On Drums N Wah](https://www.youtube.com/watch?v=jyo1Oxh598Q)
-- [Stay Tuned Even Sadder](https://www.youtube.com/watch?v=3yvfjPGVOIo)
-- [Hallelujah Fuzz And Swamp](https://www.youtube.com/watch?v=JIFKCAZE7jQ)
-- [MONSTER MAGNET - The Duke Official Video  Napalm Records](https://www.youtube.com/watch?v=2RCwgz4FiSA)
-- [Monster Magnet - End of Time](https://www.youtube.com/watch?v=hfp0fZVtgzo)
-- [MONSTER MAGNET - Mindless Ones Official  Napalm Records](https://www.youtube.com/watch?v=YkVOko8xVb8)
-- [Milking The Stars](https://www.youtube.com/watch?v=RyADFdo6H3g)
-- [Last Patrol Live](https://www.youtube.com/watch?v=MOdftJvtYvw)
-- [End Of Time B-3](https://www.youtube.com/watch?v=V2mU6pDuuZE)
-- [Let The Circus Burn](https://www.youtube.com/watch?v=mggy7HHsbFU)
-- [Goliath Returns](https://www.youtube.com/watch?v=EuM5J7s4aP4)
-- [Mindless Ones 68](https://www.youtube.com/watch?v=kiVjdn1o82k)
-- [Three Kingfishers Live](https://www.youtube.com/watch?v=6jEcMZ8XANc)
-- [I Live Behind The Clouds Roughed Up And Slightly Spaced](https://www.youtube.com/watch?v=zgpsvUg7DA0)
-- [The Duke Full On Drums N Wah](https://www.youtube.com/watch?v=jyo1Oxh598Q)
-- [Stay Tuned Even Sadder](https://www.youtube.com/watch?v=3yvfjPGVOIo)
-- [Hallelujah Fuzz And Swamp](https://www.youtube.com/watch?v=JIFKCAZE7jQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -93,5 +66,5 @@ Milking the Stars: A Re-Imagining of Last Patrol is a remix studio album by the 
 | Format         | Vinyl 2× LP Album Limited Edition |
 | Label          | Napalm Records |
 | Catalog Number | NPR 563 LP |
-| Notes | Limited Edition. Gatefold 2-LP on black 180 g vinyl. It's not a new  album, it's a re-imagining of [url=http://www.discogs.com/Monster-Magnet-Last-Patrol/master/608229]Last Patrol[/url], with two new songs, six overworked songs and two live songs.  New vocal, guitar, bass and keyboard tracks recorded March 2014. Mixed at JHOC Studios  © + ℗ 2014 Napalm Records Handels GmbH Made in Germany  |
+| Notes | Limited Edition. Gatefold 2-LP on black 180 g vinyl.<br>It's not a new  album, it's a re-imagining of [url=http://www.discogs.com/Monster-Magnet-Last-Patrol/master/608229]Last Patrol[/url], with two new songs, six overworked songs and two live songs.<br><br>New vocal, guitar, bass and keyboard tracks recorded March 2014.<br>Mixed at JHOC Studios<br><br>© + ℗ 2014 Napalm Records Handels GmbH<br>Made in Germany<br> |
 | Discogs URL    | [Monster Magnet - Milking The Stars: A Re-Imagining Of Last Patrol](https://www.discogs.com/release/6299294-Monster-Magnet-Milking-The-Stars-A-Re-Imagining-Of-Last-Patrol) |

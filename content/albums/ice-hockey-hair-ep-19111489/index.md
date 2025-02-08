@@ -4,6 +4,7 @@ artist_name: "Super Furry Animals"
 artist: "super-furry-animals"
 album_name: "Ice Hockey Hair EP"
 date: 2021-06-18T04:50:29.000000Z
+release_date: "2004-10-01"
 release_id: "19111489"
 slug: "ice-hockey-hair-ep-19111489"
 hideSummary: true
@@ -23,27 +24,23 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Smokin' (5:05)
-2. Mu-tron (3:14)
-3. Ice Hockey Hair (6:45)
-4. Let's Quit Smoking (2:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Smokin' | 5:05 |
+| A2 | Mu-tron | 3:14 |
+| AA1 | Ice Hockey Hair | 6:45 |
+| AA2 | Let's Quit Smoking | 2:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songbook-the-singles-volume-1/1641278241" >}}<br>
 
 
-## Videos
-### Ice Hockey Hair
-{{< youtube id="QO-TzvE8gOU" title="Ice Hockey Hair" >}}<br>
-### More Videos
-
-- [Super Furry Animals - Ice Hockey Hair](https://www.youtube.com/watch?v=o2gh5kzeTPk)
-- [Super Furry Animals - Smokin](https://www.youtube.com/watch?v=kSThnmNv9f4)
-- [Smokin](https://www.youtube.com/watch?v=A8MIKyYh600)
-- [Super Furry Animals - Ice Hockey Hair EP BMG CAT491EP RSD 2021](https://www.youtube.com/watch?v=njixhnsyRUU)
-- [Super Furry Animals - Ice Hockey Hair](https://www.youtube.com/watch?v=o2gh5kzeTPk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -54,5 +51,5 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 | Format         | Vinyl 12" 45 RPM EP Record Store Day Limited Edition Reissue Remastered |
 | Label          | BMG |
 | Catalog Number | BMGCAT491EP |
-| Notes | RSD release limited to 1500 UK / 1500 US / Additional Quantities for EU & Other Regions  Some records came with a white sticker or transparent sticker.  " Smokin' " (Super Furry Animals/Simpson/Rose) contains a sample of "I Love King Selassie" by Black Uhuru.  Archived by: Kliph Scurlock |
+| Notes | RSD release limited to 1500 UK / 1500 US / Additional Quantities for EU & Other Regions<br><br>Some records came with a white sticker or transparent sticker.<br><br>" Smokin' " (Super Furry Animals/Simpson/Rose) contains a sample of "I Love King Selassie" by Black Uhuru.<br><br>Archived by: Kliph Scurlock |
 | Discogs URL    | [Super Furry Animals - Ice Hockey Hair EP](https://www.discogs.com/release/19111489-Super-Furry-Animals-Ice-Hockey-Hair-EP) |

@@ -4,6 +4,7 @@ artist_name: "Jason Isbell And The 400 Unit"
 artist: "jason-isbell-and-the-400-unit"
 album_name: "The Nashville Sound "
 date: 2017-06-16T19:58:45.000000Z
+release_date: "2009-02-17"
 release_id: "10424624"
 slug: "the-nashville-sound-10424624"
 hideSummary: true
@@ -29,34 +30,29 @@ styles: ["Country"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Last Of My Kind (4:22)
-2. Cumberland Gap (3:24)
-3. Tupelo (4:01)
-4. White Man's World  (3:57)
-5. If We Were Vampires (3:36)
-6. Anxiety (6:58)
-7. Molotov  (3:47)
-8. Chaos And Clothes (3:35)
-9. Hope The High Road (3:03)
-10. Something To Love (3:39)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Last Of My Kind | 4:22 |
+| A2 | Cumberland Gap | 3:24 |
+| A3 | Tupelo | 4:01 |
+| A4 | White Man's World  | 3:57 |
+| A5 | If We Were Vampires | 3:36 |
+| B1 | Anxiety | 6:58 |
+| B2 | Molotov  | 3:47 |
+| B3 | Chaos And Clothes | 3:35 |
+| B4 | Hope The High Road | 3:03 |
+| B5 | Something To Love | 3:39 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/jason-isbell-and-the-400-unit/1480316430" >}}<br>
 
 
-## Videos
-### Jason Isbell and the 400 Unit - Cumberland Gap
-{{< youtube id="tZaeKwgS7wg" title="Jason Isbell and the 400 Unit - Cumberland Gap" >}}<br>
-### More Videos
-
-- [Jason Isbell and the 400 Unit - White Mans World](https://www.youtube.com/watch?v=nu4dupoC7EE)
-- [Jason Isbell and the 400 Unit - If We Were Vampires](https://www.youtube.com/watch?v=fyiEJaf-IzE)
-- [Jason Isbell and the 400 Unit - Cumberland Gap](https://www.youtube.com/watch?v=tZaeKwgS7wg)
-- [Jason Isbell and the 400 Unit - White Mans World](https://www.youtube.com/watch?v=nu4dupoC7EE)
-- [Jason Isbell and the 400 Unit - If We Were Vampires](https://www.youtube.com/watch?v=fyiEJaf-IzE)
-- [Jason Isbell and the 400 Unit - Hope The High Road](https://www.youtube.com/watch?v=ci-6Au1Gnrs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +63,5 @@ styles: ["Country"]
 | Format         | Vinyl LP Album Limited Edition (Gatefold, 180 Gram) |
 | Label          | Southeastern Records (2) |
 | Catalog Number | SER99881 |
-| Notes | With limited edition songbook. Album download included. 400 Songbooks randomly signed by Jason and the band.  © & ℗ 2017 Southeastern Records. Marketed & distributed by Thirty Tigers/Red.    Recorded in RCA's "Nashville Sound" Studio.  Track B1 published by Little Lambs Eat Ivy Music (BMI).  All other tracks published by Southeastern Records Publishing (BMI). |
+| Notes | With limited edition songbook. Album download included.<br>400 Songbooks randomly signed by Jason and the band.<br><br>© & ℗ 2017 Southeastern Records. Marketed & distributed by Thirty Tigers/Red.  <br><br>Recorded in RCA's "Nashville Sound" Studio.<br><br>Track B1 published by Little Lambs Eat Ivy Music (BMI).  All other tracks published by Southeastern Records Publishing (BMI). |
 | Discogs URL    | [Jason Isbell And The 400 Unit - The Nashville Sound ](https://www.discogs.com/release/10424624-Jason-Isbell-And-The-400-Unit-The-Nashville-Sound-) |

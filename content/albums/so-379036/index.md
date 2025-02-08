@@ -37,30 +37,22 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 
 
 ## Tracklisting
-1. Red Rain
-2. Sledgehammer
-3. Don't Give Up
-4. That Voice Again
-5. In Your Eyes
-6. Mercy Street
-7. Big Time
-8. We Do What We're Told (Milgram's 37)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Red Rain |  |
+| A2 | Sledgehammer |  |
+| A3 | Don't Give Up |  |
+| A4 | That Voice Again |  |
+| B1 | In Your Eyes |  |
+| B2 | Mercy Street |  |
+| B3 | Big Time |  |
+| B4 | We Do What We're Told (Milgram's 37) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-1-car-remastered/986695072" >}}<br>
 
 
-## Videos
-### Peter Gabriel Feat Kate Bush - Dont Give Up
-{{< youtube id="8LMB6K4rTGU" title="Peter Gabriel Feat Kate Bush - Dont Give Up" >}}<br>
-### More Videos
-
-- [Peter Gabriel Feat Kate Bush - Dont Give Up](https://www.youtube.com/watch?v=8LMB6K4rTGU)
-- [Peter Gabriel - Sledgehammer HD version](https://www.youtube.com/watch?v=OJWJE0x7T4Q)
-- [Peter Gabriel - Dont Give Up ft Kate Bush](https://www.youtube.com/watch?v=VjEq-r2agqc)
-- [Peter Gabriel - Big Time](https://www.youtube.com/watch?v=PBAl9cchQac)
-- [Peter Gabriel - In Your Eyes](https://www.youtube.com/watch?v=kU8OJAOMbPg)
-- [We Do What Were Told Milgrams 37](https://www.youtube.com/watch?v=sMLlDBXtmX0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +64,5 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 | Format         | Vinyl LP Album |
 | Label          | Charisma |
 | Catalog Number | PG 5 |
-| Notes | 'Townhouse' etched in runouts, the rest stamped.  Direct Metal Mastering denoted by 'D' in runouts.  ℗ 1986 Charisma Records Limited  © 1986 Peter Gabriel Limited  All tracks recorded and mixed at Real World Studios, England except for "Mercy Street"; Percussion recorded in Polygram Studios, Rio de Janeiro, engineered by Ary Carvalhaes and Jairo Gualberto, studio organization by Luigi Hoffer, session supervised by Renato Costa and Graciela Silberberg  New York overdubs recorded at the Power Station, engineered by Bruce Lampcov, assisted by Steve Boyer, session supervision by Charlene Colon. Included lyric inner sleeve, made of card on early pressings, paper on later pressings.  P P Arnold courtesy 10 Records Ltd.  Michael Been courtesy Elektra/Asylum Records Inc.  Kate Bush courtesy EMI America Records, a division of Capitol Records INc.  Stewart Copeland courtesy A&M Records Inc.  Jim Kerr courtesy Virgin Records Ltd.  Youssou N'dour courtesy Albert Koski Productions.  L. Shankar courtesy ECM Records.  Richard Tee courtesy King Records Co Ltd.   |
+| Notes | 'Townhouse' etched in runouts, the rest stamped.<br><br>Direct Metal Mastering denoted by 'D' in runouts.<br><br>℗ 1986 Charisma Records Limited <br>© 1986 Peter Gabriel Limited<br><br>All tracks recorded and mixed at Real World Studios, England except for "Mercy Street"; Percussion recorded in Polygram Studios, Rio de Janeiro, engineered by Ary Carvalhaes and Jairo Gualberto, studio organization by Luigi Hoffer, session supervised by Renato Costa and Graciela Silberberg<br><br>New York overdubs recorded at the Power Station, engineered by Bruce Lampcov, assisted by Steve Boyer, session supervision by Charlene Colon.<br>Included lyric inner sleeve, made of card on early pressings, paper on later pressings.<br><br>P P Arnold courtesy 10 Records Ltd. <br>Michael Been courtesy Elektra/Asylum Records Inc. <br>Kate Bush courtesy EMI America Records, a division of Capitol Records INc. <br>Stewart Copeland courtesy A&M Records Inc. <br>Jim Kerr courtesy Virgin Records Ltd. <br>Youssou N'dour courtesy Albert Koski Productions. <br>L. Shankar courtesy ECM Records. <br>Richard Tee courtesy King Records Co Ltd. <br> |
 | Discogs URL    | [Peter Gabriel - So](https://www.discogs.com/release/379036-Peter-Gabriel-So) |

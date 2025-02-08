@@ -4,6 +4,7 @@ artist_name: "Tim Bowness"
 artist: "tim-bowness"
 album_name: "Late Night Laments"
 date: 2020-08-31T10:13:03.000000Z
+release_date: "2020-08-28"
 release_id: "15842720"
 slug: "late-night-laments-15842720"
 hideSummary: true
@@ -20,54 +21,39 @@ styles: ["Ambient"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Late Night Laments
-2. Northern Rain (4:47)
-3. I'm Better Now (3:50)
-4. Darkline (3:58)
-5. We Caught The Light (3:56)
-6. The Hitman Who Missed (3:21)
-7. Never A Place (4:41)
-8. The Last Getaway (4:55)
-9. Hidden Life (5:05)
-10. One Last Call (4:15)
-11. Late Night Laments
-12. Northern Rain (4:47)
-13. I'm Better Now (3:50)
-14. Darkline (3:58)
-15. We Caught The Light (3:56)
-16. The Hitman Who Missed (3:21)
-17. Never A Place (4:41)
-18. The Last Getaway (4:55)
-19. Hidden Life (5:05)
-20. One Last Call (4:15)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Late Night Laments |  |
+| A1 | Northern Rain | 4:47 |
+| A2 | I'm Better Now | 3:50 |
+| A3 | Darkline | 3:58 |
+| A4 | We Caught The Light | 3:56 |
+| A5 | The Hitman Who Missed | 3:21 |
+| B1 | Never A Place | 4:41 |
+| B2 | The Last Getaway | 4:55 |
+| B3 | Hidden Life | 5:05 |
+| B4 | One Last Call | 4:15 |
+|  | Late Night Laments |  |
+| CD-1 | Northern Rain | 4:47 |
+| CD-2 | I'm Better Now | 3:50 |
+| CD-3 | Darkline | 3:58 |
+| CD-4 | We Caught The Light | 3:56 |
+| CD-5 | The Hitman Who Missed | 3:21 |
+| CD-6 | Never A Place | 4:41 |
+| CD-7 | The Last Getaway | 4:55 |
+| CD-8 | Hidden Life | 5:05 |
+| CD-9 | One Last Call | 4:15 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/late-night-laments-bonus-tracks-edition/1519100424" >}}<br>
 
 
-## Videos
-### We Caught the Light
-{{< youtube id="-_OAaUeqVJ0" title="We Caught the Light" >}}<br>
-### More Videos
-
-- [One Last Call](https://www.youtube.com/watch?v=Vwj_oMuD84w)
-- [The Hitman Who Missed](https://www.youtube.com/watch?v=1u8AUkq03cw)
-- [Never a Place](https://www.youtube.com/watch?v=IG3d0uTNzqI)
-- [Darkline](https://www.youtube.com/watch?v=FEzmReMZou8)
-- [War Games by the Sea Bonus track](https://www.youtube.com/watch?v=mGw1IYx75gs)
-- [Cheerleader for the Damned Bonus track](https://www.youtube.com/watch?v=jzdSlKi43-o)
-- [We Caught the Light](https://www.youtube.com/watch?v=-_OAaUeqVJ0)
-- [One Last Call](https://www.youtube.com/watch?v=Vwj_oMuD84w)
-- [The Hitman Who Missed](https://www.youtube.com/watch?v=1u8AUkq03cw)
-- [Never a Place](https://www.youtube.com/watch?v=IG3d0uTNzqI)
-- [Darkline](https://www.youtube.com/watch?v=FEzmReMZou8)
-- [War Games by the Sea Bonus track](https://www.youtube.com/watch?v=mGw1IYx75gs)
-- [Cheerleader for the Damned Bonus track](https://www.youtube.com/watch?v=jzdSlKi43-o)
-- [TIM BOWNESS - Northern Rain OFFICIAL VIDEO](https://www.youtube.com/watch?v=ns8_oScLjeE)
-- [The Last Getaway](https://www.youtube.com/watch?v=dFTZ5NrQyIE)
-- [Tim Bowness - Late Night Laments](https://www.youtube.com/watch?v=QrP7apxFBLA)
 
 ## Release Images
 {{< imageGrid >}}

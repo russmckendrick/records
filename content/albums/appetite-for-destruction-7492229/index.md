@@ -1,6 +1,6 @@
 ---
-title: "Guns N' Roses - Appetite For Destruction"
-artist_name: "Guns N' Roses"
+title: "Guns N Roses - Appetite For Destruction"
+artist_name: "Guns N Roses"
 artist: "guns-n-roses"
 album_name: "Appetite For Destruction"
 date: 2016-05-18T16:49:03.000000Z
@@ -10,8 +10,8 @@ slug: "appetite-for-destruction-7492229"
 hideSummary: true
 cover:
     image: "appetite-for-destruction-7492229.jpg"
-    alt: "Appetite For Destruction by Guns N' Roses"
-    caption: "Appetite For Destruction by Guns N' Roses"
+    alt: "Appetite For Destruction by Guns N Roses"
+    caption: "Appetite For Destruction by Guns N Roses"
 additional_images:
     - "https://i.discogs.com/Lj0CHYaSCmIOrol0NWFwSGEPDASynGJeaS1B1hQ9uQ0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTIy/MjktMTQ4OTQ3ODcy/NS0yMjI0LmpwZWc.jpeg"
     - "https://i.discogs.com/8yZjIIBXnTElRZMWgeQ87KtVuNVYPBSai4at1RQ2Syg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTIy/MjktMTQ0MjU5NDE5/My0yNzgxLmpwZWc.jpeg"
@@ -32,40 +32,28 @@ At the time, the band was considered an antidote to the slickness of pop-metalâ€
 
 
 ## Tracklisting
-1. G
-2. Welcome To The Jungle (4:31)
-3. It's So Easy (3:21)
-4. Nightrain (4:26)
-5. Out Ta Get Me (4:20)
-6. Mr. Brownstone (3:46)
-7. Paradise City (6:46)
-8. R
-9. My Michelle (3:39)
-10. Think About You (3:50)
-11. Sweet Child O' Mine (5:55)
-12. You're Crazy (3:15)
-13. Anything Goes (3:25)
-14. Rocket Queen (6:13)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | G |  |
+| G1 | Welcome To The Jungle | 4:31 |
+| G2 | It's So Easy | 3:21 |
+| G3 | Nightrain | 4:26 |
+| G4 | Out Ta Get Me | 4:20 |
+| G5 | Mr. Brownstone | 3:46 |
+| G6 | Paradise City | 6:46 |
+|  | R |  |
+| R1 | My Michelle | 3:39 |
+| R2 | Think About You | 3:50 |
+| R3 | Sweet Child O' Mine | 5:55 |
+| R4 | You're Crazy | 3:15 |
+| R5 | Anything Goes | 3:25 |
+| R6 | Rocket Queen | 6:13 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/appetite-for-destruction/1377813284" >}}<br>
 
 
-## Videos
-### Guns N Roses - Welcome To The Jungle
-{{< youtube id="o1tj2zJ2Wvg" title="Guns N Roses - Welcome To The Jungle" >}}<br>
-### More Videos
-
-- [Nightrain](https://www.youtube.com/watch?v=aujKauhYsgA)
-- [Out Ta Get Me](https://www.youtube.com/watch?v=RbItpD0qAk4)
-- [Mr Brownstone](https://www.youtube.com/watch?v=-CmMFRr9RMo)
-- [Guns N Roses - Paradise City Official Music Video](https://www.youtube.com/watch?v=Rbm6GXllBiw)
-- [My Michelle](https://www.youtube.com/watch?v=6nhIdHpzHxM)
-- [Think About You](https://www.youtube.com/watch?v=0bjPk-wmfRQ)
-- [Guns N Roses - Sweet Child O Mine Official Music Video](https://www.youtube.com/watch?v=1w7OgIMMRc4)
-- [Youre Crazy](https://www.youtube.com/watch?v=6PO9B83mHDI)
-- [Anything Goes](https://www.youtube.com/watch?v=qcCl-QVfBuI)
-- [Rocket Queen](https://www.youtube.com/watch?v=WO0OUoCDlBE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +65,5 @@ At the time, the band was considered an antidote to the slickness of pop-metalâ€
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Geffen Records |
 | Catalog Number | 00720642414811 |
-| Notes | Made in the EU. Universal International Music BVGerrit van der veenlaan4, 3743 DN, Baarn, Netherlands.  Release date not found anywhere on the item itself, it was provided by the pressing plant when asked about it.  A subsequent repressing was made using the same stamper for side A and a different one for side B: see [r=10323040] |
-| Discogs URL    | [Guns N' Roses - Appetite For Destruction](https://www.discogs.com/release/7492229-Guns-N-Roses-Appetite-For-Destruction) |
+| Notes | Made in the EU. Universal International Music<br>BVGerrit van der veenlaan4, 3743 DN,<br>Baarn, Netherlands.<br><br>Release date not found anywhere on the item itself, it was provided by the pressing plant when asked about it. <br>A subsequent repressing was made using the same stamper for side A and a different one for side B: see [r=10323040] |
+| Discogs URL    | [Guns N Roses - Appetite For Destruction](https://www.discogs.com/release/7492229-Guns-N-Roses-Appetite-For-Destruction) |

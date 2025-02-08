@@ -4,6 +4,7 @@ artist_name: "Zwan"
 artist: "zwan"
 album_name: "Mary Star Of The Sea"
 date: 2016-07-05T20:56:59.000000Z
+release_date: ""
 release_id: "892155"
 slug: "mary-star-of-the-sea-892155"
 hideSummary: true
@@ -27,37 +28,35 @@ The album debuted at number 3 in the US, selling 90,000 copies in its first week
 The album is named both for the Blessed Virgin Mary, from whom bandleader Corgan claimed to find comfort and guidance, and for the Catholic Church in Key West, Florida where he spent time during Zwan's early rehearsals. Seven months after the album's release Corgan announced the band's dissolution, which he attributed to conflicts between the band's members.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Lyric
-2. Settle Down
-3. Declarations Of Faith
-4. Honestly
-5. El Sol
-6. Of A Broken Heart
-7. Ride A Black Swan
-8. Heartsong
-9. Endless Summer
-10. Baby Let's Rock!
-11. Yeah!
-12. Desire
-13. Jesus, I 
-14. Mary Star Of The Sea
-15. Come With Me
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Lyric |  |
+| A2 | Settle Down |  |
+| A3 | Declarations Of Faith |  |
+| A4 | Honestly |  |
+| B1 | El Sol |  |
+| B2 | Of A Broken Heart |  |
+| B3 | Ride A Black Swan |  |
+| B4 | Heartsong |  |
+| C1 | Endless Summer |  |
+| C2 | Baby Let's Rock! |  |
+| C3 | Yeah! |  |
+| C4 | Desire |  |
+| D1a | Jesus, I  |  |
+| D1b | Mary Star Of The Sea |  |
+| D2 | Come With Me |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Zwan - Lyric Video Version
-{{< youtube id="CwmUMySSNQc" title="Zwan - Lyric Video Version" >}}<br>
-### More Videos
 
-- [Zwan - Honestly Video](https://www.youtube.com/watch?v=NLPgz9K4D20)
-- [Zwan - Lyric Video Version](https://www.youtube.com/watch?v=CwmUMySSNQc)
-- [Zwan - Honestly Video](https://www.youtube.com/watch?v=NLPgz9K4D20)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +68,5 @@ The album is named both for the Blessed Virgin Mary, from whom bandleader Corgan
 | Format         | Vinyl 2× LP Album |
 | Label          | Martha's Music |
 | Catalog Number | 9362-48436-1 |
-| Notes | Two LPs in plain white inner sleeves, housed in a single pocket jacket. Pressing plant uncredited, identified by the matrix numbers.   A1, A3, A4, B2, B4 to C4, D2: Faust's Haus Music BMI A2: Faust's Haus Music BMI and Pazitronix Music ASCAP B1, B3, D1a: Faust's Haus Music BMI and Eva Jackson Music ASCAP D1b: Faust's Haus Music BMI, Eva Jackson Music ASCAP, Pazitronix Music ASCAP, Audreyella Music BMI, Bearded Music BMI  [Rear sleeve:] Recorded at Electrical Audio/Chicago IL and Chicago Recording Company/Chicago IL. Management by Elliot Roberts for Lookout Management © ℗ 2003 Martha's Music L.L.C. Manufactured and distributed by Reprise Records, 3300 Warner Blvd., Burbank, CA 91505-4694. Warner Music Group, An AOL Time Warner Company, 75 Rockefeller Plaza, New York, NY 10019-6908. Made in Germany by [Warner 'W' logo] Warner Music Manufacturing Europe.  |
+| Notes | Two LPs in plain white inner sleeves, housed in a single pocket jacket.<br>Pressing plant uncredited, identified by the matrix numbers. <br><br>A1, A3, A4, B2, B4 to C4, D2: Faust's Haus Music BMI<br>A2: Faust's Haus Music BMI and Pazitronix Music ASCAP<br>B1, B3, D1a: Faust's Haus Music BMI and Eva Jackson Music ASCAP<br>D1b: Faust's Haus Music BMI, Eva Jackson Music ASCAP, Pazitronix Music ASCAP, Audreyella Music BMI, Bearded Music BMI<br><br>[Rear sleeve:]<br>Recorded at Electrical Audio/Chicago IL and Chicago Recording Company/Chicago IL.<br>Management by Elliot Roberts for Lookout Management<br>© ℗ 2003 Martha's Music L.L.C. Manufactured and distributed by Reprise Records, 3300 Warner Blvd., Burbank, CA 91505-4694. Warner Music Group, An AOL Time Warner Company, 75 Rockefeller Plaza, New York, NY 10019-6908. Made in Germany by [Warner 'W' logo] Warner Music Manufacturing Europe.<br> |
 | Discogs URL    | [Zwan - Mary Star Of The Sea](https://www.discogs.com/release/892155-Zwan-Mary-Star-Of-The-Sea) |

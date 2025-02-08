@@ -1,6 +1,6 @@
 ---
-title: "St. Vincent - Daddy's Home"
-artist_name: "St. Vincent"
+title: "St Vincent - Daddy's Home"
+artist_name: "St Vincent"
 artist: "st-vincent"
 album_name: "Daddy's Home"
 date: 2021-05-15T06:31:58.000000Z
@@ -10,8 +10,8 @@ slug: "daddy-s-home-18670924"
 hideSummary: true
 cover:
     image: "daddy-s-home-18670924.jpg"
-    alt: "Daddy's Home by St. Vincent"
-    caption: "Daddy's Home by St. Vincent"
+    alt: "Daddy's Home by St Vincent"
+    caption: "Daddy's Home by St Vincent"
 additional_images:
     - "https://i.discogs.com/ekzTc6gIGtkb29ehK3AZSlK8hAS5nRlBUMJVB5zRqok/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njcw/OTI0LTE2MjA2NjU2/MzQtMTEwNy5qcGVn.jpeg"
     - "https://i.discogs.com/sTo933KrduOTUmoxOqSlVGeJRvQbbmeS1ReV1G6ZuDE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njcw/OTI0LTE2MjA2NjU1/OTgtODg3MC5qcGVn.jpeg"
@@ -44,30 +44,25 @@ Recorded with <i>MASSEDUCTION</i> producer Jack Antonoff, <i>Daddy’s Home</i> 
 
 
 ## Tracklisting
-1. Pay Your Way In Pain (3:03)
-2. Down And Out Downtown (3:42)
-3. Daddy's Home (3:19)
-4. Live In The Dream (6:29)
-5. The Melting Of The Sun (4:17)
-6. The Laughing Man (3:25)
-7. Down (3:26)
-8. Somebody Like Me (3:53)
-9. My Baby Wants A Baby (3:20)
-10. ...At The Holiday Party (4:17)
-11. Candy Darling (1:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Pay Your Way In Pain | 3:03 |
+| A2 | Down And Out Downtown | 3:42 |
+| A3 | Daddy's Home | 3:19 |
+| A4 | Live In The Dream | 6:29 |
+| A5 | The Melting Of The Sun | 4:17 |
+| B1 | The Laughing Man | 3:25 |
+| B2 | Down | 3:26 |
+| B3 | Somebody Like Me | 3:53 |
+| B4 | My Baby Wants A Baby | 3:20 |
+| B5 | ...At The Holiday Party | 4:17 |
+| B6 | Candy Darling | 1:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/daddys-home/1552955481" >}}<br>
 
 
-## Videos
-### St Vincent - Pay Your Way In Pain Official Video
-{{< youtube id="ZUTu65AXrJw" title="St Vincent - Pay Your Way In Pain Official Video" >}}<br>
-### More Videos
-
-- [St Vincent - Daddys Home Official Audio](https://www.youtube.com/watch?v=MTbI5zp0It4)
-- [St Vincent - Down Official Video](https://www.youtube.com/watch?v=VQ9iAlm-sJ8)
-- [St Vincent - The Melting Of The Sun Official Video](https://www.youtube.com/watch?v=6oji2hmpzvM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +74,5 @@ Recorded with <i>MASSEDUCTION</i> producer Jack Antonoff, <i>Daddy’s Home</i> 
 | Format         | Vinyl LP Album Limited Edition Stereo (Clear) |
 | Label          | Loma Vista |
 | Catalog Number | LVR01797 |
-| Notes | Indie Exclusive. Includes Poster 200 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. Made in the EU. |
-| Discogs URL    | [St. Vincent - Daddy's Home](https://www.discogs.com/release/18670924-St-Vincent-Daddys-Home) |
+| Notes | Indie Exclusive.<br>Includes Poster<br>200 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions.<br>Made in the EU. |
+| Discogs URL    | [St Vincent - Daddy's Home](https://www.discogs.com/release/18670924-St-Vincent-Daddys-Home) |

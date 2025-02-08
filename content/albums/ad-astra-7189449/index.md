@@ -4,6 +4,7 @@ artist_name: "Spiritual Beggars"
 artist: "spiritual-beggars"
 album_name: "Ad Astra"
 date: 2017-04-09T14:17:37.000000Z
+release_date: "2000"
 release_id: "7189449"
 slug: "ad-astra-7189449"
 hideSummary: true
@@ -28,50 +29,47 @@ styles: ["Stoner Rock", "Hard Rock", "Psychedelic Rock", "Classic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. LP
-2. Left Brain Ambassadors
-3. Wonderful World
-4. Sedated
-5. Angel Of Betrayal
-6. Blessed
-7. Per Aspera Ad Astra
-8. Save Your Soul
-9. Until The Morning
-10. Escaping The Fools
-11. On Dark Rivers
-12. The Goddess
-13. Mantra
-14. CD
-15. Left Brain Ambassadors
-16. Wonderful World
-17. Sedated
-18. Angel Of Betrayal
-19. Blessed
-20. Per Aspera Ad Astra
-21. Save Your Soul
-22. Until The Morning
-23. Escaping The Fools
-24. On Dark Rivers
-25. The Goddess
-26. Mantra
-27. CD - Bonus Track
-28. Let The Magic Talk
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | LP |  |
+| A1 | Left Brain Ambassadors |  |
+| A2 | Wonderful World |  |
+| A3 | Sedated |  |
+| A4 | Angel Of Betrayal |  |
+| A5 | Blessed |  |
+| A6 | Per Aspera Ad Astra |  |
+| A7 | Save Your Soul |  |
+| B1 | Until The Morning |  |
+| B2 | Escaping The Fools |  |
+| B3 | On Dark Rivers |  |
+| B4 | The Goddess |  |
+| B5 | Mantra |  |
+|  | CD |  |
+| 1 | Left Brain Ambassadors |  |
+| 2 | Wonderful World |  |
+| 3 | Sedated |  |
+| 4 | Angel Of Betrayal |  |
+| 5 | Blessed |  |
+| 6 | Per Aspera Ad Astra |  |
+| 7 | Save Your Soul |  |
+| 8 | Until The Morning |  |
+| 9 | Escaping The Fools |  |
+| 10 | On Dark Rivers |  |
+| 11 | The Goddess |  |
+| 12 | Mantra |  |
+|  | CD - Bonus Track |  |
+| 13 | Let The Magic Talk |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ad-astra/963146026" >}}<br>
 
 
-## Videos
-### Spiritual beggars - Angel of betrayal
-{{< youtube id="Uf9UVqaBQI8" title="Spiritual beggars - Angel of betrayal" >}}<br>
-### More Videos
-
-- [spiritual beggars - per aspera ad astra](https://www.youtube.com/watch?v=Lh4Znod70zA)
-- [Spiritual Beggars - Left Brain Ambassadors](https://www.youtube.com/watch?v=wzhWmLEHEBY)
-- [Spiritual Beggars - Ad Astra - Its Over](https://www.youtube.com/watch?v=pyWN8u7Ikp0)
-- [Spiritual beggars - Angel of betrayal](https://www.youtube.com/watch?v=Uf9UVqaBQI8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +80,5 @@ styles: ["Stoner Rock", "Hard Rock", "Psychedelic Rock", "Classic Rock"]
 | Format         | Vinyl LP Album Reissue Remastered (Purple), CD Album Reissue |
 | Label          | Music For Nations |
 | Catalog Number | 88875088291 |
-| Notes | 180 gram purple vinyl housed in single jacket. Printed inner sleeve with credits and liner notes by Michael Amott.  Comes with an additional CD in a cardboard sleeve. |
+| Notes | 180 gram purple vinyl housed in single jacket.<br>Printed inner sleeve with credits and liner notes by Michael Amott.<br><br>Comes with an additional CD in a cardboard sleeve. |
 | Discogs URL    | [Spiritual Beggars - Ad Astra](https://www.discogs.com/release/7189449-Spiritual-Beggars-Ad-Astra) |

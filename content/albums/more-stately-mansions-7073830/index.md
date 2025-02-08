@@ -4,6 +4,7 @@ artist_name: "Charlie Barnes"
 artist: "charlie-barnes"
 album_name: "More Stately Mansions"
 date: 2015-08-09T08:32:25.000000Z
+release_date: "2015-05-08"
 release_id: "7073830"
 slug: "more-stately-mansions-7073830"
 hideSummary: true
@@ -24,52 +25,30 @@ The title of the play was derived from the line "Build thee more stately mansion
 Against his wishes, O'Neill's widow, Carlotta Monterey, authorized Karl Ragnar Gierow of the Swedish Royal Dramatic Theatre to turn the unfinished work into an acting version. The play was the inaugural production at the Ahmanson Theatre in Los Angeles, where it opened on April 12, 1967 with Ingrid Bergman, Colleen Dewhurst, and Arthur Hill in the leading roles. Six months later, after eight previews, the Broadway production, with the same cast directed by José Quintero, opened on October 31 at the Broadhurst Theatre, where it closed after 142 performances. Dewhurst was nominated for a Tony Award for Best Actress in a Play.
 The play was profiled in the William Goldman book The Season: A Candid Look at Broadway.
 In 1997, Ivo van Hove directed a new production of the play at the New York Theatre Workshop.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. More Stately Mansions
-2. Sing To God
-3. Easy, Kid
-4. Balloons
-5. Ghosts
-6. Macbethmacbethmacbeth
-7. House
-8. Dresden
-9. Hammers
-10. Film
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | More Stately Mansions |  |
+| A2 | Sing To God |  |
+| A3 | Easy, Kid |  |
+| A4 | Balloons |  |
+| A5 | Ghosts |  |
+| B1 | Macbethmacbethmacbeth |  |
+| B2 | House |  |
+| B3 | Dresden |  |
+| B4 | Hammers |  |
+| B5 | Film |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/more-stately-mansions/1062927890" >}}<br>
 
 
-## Videos
-### CHARLIE BARNES - More Stately Mansions OFFICIAL VIDEO
-{{< youtube id="w4fZO6j6I2s" title="CHARLIE BARNES - More Stately Mansions OFFICIAL VIDEO" >}}<br>
-### More Videos
-
-- [More Stately Mansions](https://www.youtube.com/watch?v=eyu-KXwb_kw)
-- [More Stately Mansions](https://www.youtube.com/watch?v=8iUXhcEhyK0)
-- [House](https://www.youtube.com/watch?v=V4YvBiOknoc)
-- [Hammers](https://www.youtube.com/watch?v=FSMm4tvvuLc)
-- [MacbethMacbethMacbeth](https://www.youtube.com/watch?v=qu6jzDyGJ4I)
-- [Ghosts](https://www.youtube.com/watch?v=u9HC4Q4vw4A)
-- [Film](https://www.youtube.com/watch?v=yuKB9iOIZ9g)
-- [Dresden](https://www.youtube.com/watch?v=5Lihs48zLVs)
-- [Easy Kid](https://www.youtube.com/watch?v=Bs5IxgpJwTY)
-- [Balloons](https://www.youtube.com/watch?v=wNF7N3xifoI)
-- [CHARLIE BARNES - More Stately Mansions OFFICIAL VIDEO](https://www.youtube.com/watch?v=w4fZO6j6I2s)
-- [More Stately Mansions](https://www.youtube.com/watch?v=eyu-KXwb_kw)
-- [More Stately Mansions](https://www.youtube.com/watch?v=8iUXhcEhyK0)
-- [House](https://www.youtube.com/watch?v=V4YvBiOknoc)
-- [Hammers](https://www.youtube.com/watch?v=FSMm4tvvuLc)
-- [MacbethMacbethMacbeth](https://www.youtube.com/watch?v=qu6jzDyGJ4I)
-- [Ghosts](https://www.youtube.com/watch?v=u9HC4Q4vw4A)
-- [Film](https://www.youtube.com/watch?v=yuKB9iOIZ9g)
-- [Dresden](https://www.youtube.com/watch?v=5Lihs48zLVs)
-- [Easy Kid](https://www.youtube.com/watch?v=Bs5IxgpJwTY)
-- [Balloons](https://www.youtube.com/watch?v=wNF7N3xifoI)
 
 ## Release Images
 {{< imageGrid >}}

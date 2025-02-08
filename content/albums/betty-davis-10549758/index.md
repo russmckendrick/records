@@ -4,6 +4,7 @@ artist_name: "Betty Davis"
 artist: "betty-davis"
 album_name: "Betty Davis"
 date: 2017-07-15T11:32:29.000000Z
+release_date: "2011-07-26"
 release_id: "10549758"
 slug: "betty-davis-10549758"
 hideSummary: true
@@ -39,34 +40,28 @@ styles: ["Funk"]
 Betty Davis (born Betty Gray Mabry; July 26, 1944 – February 9, 2022) was an American singer, songwriter, and model. She was known for her controversial sexually oriented lyrics and performance style, and was the second wife of trumpeter Miles Davis. Her AllMusic profile describes her as "a wildly flamboyant funk diva with few equals ... [who] combined the gritty emotional realism of Tina Turner, the futurist fashion sense of David Bowie, and the trendsetting flair of Miles Davis".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. If I'm In Luck I Might Get Picked Up
-2. Walkin Up The Road
-3. Anti Love Song
-4. Your Man My Man
-5. Ooh Yea
-6. Steppin In Her I. Miller Shoes
-7. Game Is My Middle Name
-8. In The Meantime
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | If I'm In Luck I Might Get Picked Up |  |
+| A2 | Walkin Up The Road |  |
+| A3 | Anti Love Song |  |
+| A4 | Your Man My Man |  |
+| B1 | Ooh Yea |  |
+| B2 | Steppin In Her I. Miller Shoes |  |
+| B3 | Game Is My Middle Name |  |
+| B4 | In The Meantime |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/betty-davis-eyes-single/453243572" >}}<br>
 
 
-## Videos
-### If Im In Luck I Might Get Picked Up
-{{< youtube id="W8b4hPEN05I" title="If Im In Luck I Might Get Picked Up" >}}<br>
-### More Videos
-
-- [Walkin Up the Road](https://www.youtube.com/watch?v=kmoyQJbinGw)
-- [Ooh Yeah](https://www.youtube.com/watch?v=fB7MZz7oNmg)
-- [Steppin In Her I Miller Shoes](https://www.youtube.com/watch?v=6U8KMASNf1U)
-- [Game Is My Middle Name](https://www.youtube.com/watch?v=SN3OU5g55F0)
-- [In the Meantime](https://www.youtube.com/watch?v=OBGR2ZbZIds)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +73,5 @@ Betty Davis (born Betty Gray Mabry; July 26, 1944 – February 9, 2022) was an A
 | Format         | Vinyl LP Album Club Edition Reissue Remastered Repress Stereo (Silver & Blue Splatter, 180g) |
 | Label          | Light In The Attic |
 | Catalog Number | LITA 026 |
-| Notes | Sticker: - VMP exclusive reissue - Gatefold, foil-stamped jacket - Remastered from original tapes - 180g silver & blue vinyl  - Liner notes booklet + coloring sheet  Originally released as Just Sunshine Records JSS-5, 1973  Sides referred as Side 1 and Side 2 on the sleeve.  © 1973 Betty Mabry Music Co./Higher Music Publishing Inc. (ASCAP). Worldwide rights for Higher Music Publishing Inc. administered by Soundrights Music (ASCAP), a division of "A" Side Music, LLC. 1973 HLLMS, LLC ©2017 Light In The Attic Records & Distribution, LLC. |
+| Notes | Sticker:<br>- VMP exclusive reissue<br>- Gatefold, foil-stamped jacket<br>- Remastered from original tapes<br>- 180g silver & blue vinyl<br> - Liner notes booklet + coloring sheet<br><br>Originally released as Just Sunshine Records JSS-5, 1973<br><br>Sides referred as Side 1 and Side 2 on the sleeve.<br><br>© 1973 Betty Mabry Music Co./Higher Music Publishing Inc. (ASCAP).<br>Worldwide rights for Higher Music Publishing Inc. administered by Soundrights Music (ASCAP), a division of "A" Side Music, LLC.<br>1973 HLLMS, LLC ©2017 Light In The Attic Records & Distribution, LLC. |
 | Discogs URL    | [Betty Davis - Betty Davis](https://www.discogs.com/release/10549758-Betty-Davis-Betty-Davis) |

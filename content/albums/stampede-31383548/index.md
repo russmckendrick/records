@@ -29,34 +29,29 @@ Bluegrass virtuoso Molly Tuttle and her band Golden Highway get things loose and
 
 
 ## Tracklisting
-1. Cowboys Are Frequently, Secretly Fond of Each Other
-2. The Hurtin' Kind
-3. Saturday Night's Alright (For Fighting)
-4. Back At Your Door 
-5. Chemical Sunset
-6. Death Valley High
-7. How Far Will We Take It?
-8. Miénteme
-9. Papa Was a Rodeo 
-10. Midnight Ride 
-11. Ever You're Gone
-12. You're An Asshole, I Can't Stand You (And I Want A Divorce)
-13. Where Are We Now?
-14. Conquer The Heart
-15. Rhinestone Cowboy
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cowboys Are Frequently, Secretly Fond of Each Other |  |
+| A2 | The Hurtin' Kind |  |
+| A3 | Saturday Night's Alright (For Fighting) |  |
+| B4 | Back At Your Door  |  |
+| B5 | Chemical Sunset |  |
+| B6 | Death Valley High |  |
+| B7 | How Far Will We Take It? |  |
+| C8 | Miénteme |  |
+| C9 | Papa Was a Rodeo  |  |
+| C10 | Midnight Ride  |  |
+| C11 | Ever You're Gone |  |
+| D12 | You're An Asshole, I Can't Stand You (And I Want A Divorce) |  |
+| D13 | Where Are We Now? |  |
+| D14 | Conquer The Heart |  |
+| D15 | Rhinestone Cowboy |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stampede/1749379116" >}}<br>
 
 
-## Videos
-### Orville Peck  Willie Nelson - Cowboys Are Frequently Secretly Fond Of Each Other Official Video
-{{< youtube id="BirJMnMcfBs" title="Orville Peck  Willie Nelson - Cowboys Are Frequently Secretly Fond Of Each Other Official Video" >}}<br>
-### More Videos
-
-- [Orville Peck  Beck - Death Valley High Official Music Video](https://www.youtube.com/watch?v=1eodFa9rZZQ)
-- [Orville Peck  Noah Cyrus - How Far Will We Take It Official Music Video](https://www.youtube.com/watch?v=X3vPYhwZmOg)
-- [Orville Peck  Kylie Minogue  Diplo - Midnight Ride Official Lyric Video](https://www.youtube.com/watch?v=lKtOo5vwPVg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +63,5 @@ Bluegrass virtuoso Molly Tuttle and her band Golden Highway get things loose and
 | Format         | Vinyl 2× LP Album (White [Bone]) |
 | Label          | Warner Records |
 | Catalog Number | 1726596 |
-| Notes | Issued in gatefold sleeve.  Tracks are listed sequentially regardless of side. |
+| Notes | Issued in gatefold sleeve.<br><br>Tracks are listed sequentially regardless of side. |
 | Discogs URL    | [Orville Peck - Stampede](https://www.discogs.com/release/31383548-Orville-Peck-Stampede) |

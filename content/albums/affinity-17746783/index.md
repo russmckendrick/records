@@ -1,9 +1,10 @@
 ---
 title: "Haken - Affinity"
 artist_name: "Haken"
-artist: "haken-2"
+artist: "haken"
 album_name: "Affinity"
 date: 2021-03-08T12:38:35.000000Z
+release_date: "2016-04-29"
 release_id: "17746783"
 slug: "affinity-17746783"
 hideSummary: true
@@ -21,46 +22,37 @@ styles: ["Progressive Metal"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Affinity.exe (1:24)
-2. Initiate (4:16)
-3. 1985 (9:09)
-4. Lapse (4:44)
-5. The Architect (15:40)
-6. Earthrise (4:48)
-7. Red Giant (6:06)
-8. The Endless Knot (5:50)
-9. Bound By Gravity (9:29)
-10. Affinity.exe (1:24)
-11. Initiate (4:16)
-12. 1985 (9:09)
-13. Lapse (4:44)
-14. The Architect (15:40)
-15. Earthrise (4:48)
-16. Red Giant (6:06)
-17. The Endless Knot (5:50)
-18. Bound By Gravity (9:29)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A01 | Affinity.exe | 1:24 |
+| A02 | Initiate | 4:16 |
+| A03 | 1985 | 9:09 |
+| A04 | Lapse | 4:44 |
+| B01 | The Architect | 15:40 |
+| C01 | Earthrise | 4:48 |
+| C02 | Red Giant | 6:06 |
+| D01 | The Endless Knot | 5:50 |
+| D02 | Bound By Gravity | 9:29 |
+| CD-1 | Affinity.exe | 1:24 |
+| CD-2 | Initiate | 4:16 |
+| CD-3 | 1985 | 9:09 |
+| CD-4 | Lapse | 4:44 |
+| CD-5 | The Architect | 15:40 |
+| CD-6 | Earthrise | 4:48 |
+| CD-7 | Red Giant | 6:06 |
+| CD-8 | The Endless Knot | 5:50 |
+| CD-9 | Bound By Gravity | 9:29 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/affinity/1088398278" >}}<br>
 
 
-## Videos
-### affinityexe
-{{< youtube id="AvhjDInyGYQ" title="affinityexe" >}}<br>
-### More Videos
-
-- [Haken - Affinity tour Live - two hour - complete show](https://www.youtube.com/watch?v=0P41QeM8zQQ)
-- [HAKEN - Initiate OFFICIAL VIDEO](https://www.youtube.com/watch?v=-7pEXGCtnnk)
-- [HAKEN - 1985 Album Track](https://www.youtube.com/watch?v=yW8nBlZZvxM)
-- [Haken - Lapse](https://www.youtube.com/watch?v=EdabtT7mUGI)
-- [The Architect](https://www.youtube.com/watch?v=hiPNVVOTpe8)
-- [HAKEN - Earthrise OFFICIAL VIDEO](https://www.youtube.com/watch?v=hQ8KqJJJJhk)
-- [Red Giant](https://www.youtube.com/watch?v=9kXE4HroksQ)
-- [HAKEN - 1985 LIVE Affinity Album](https://www.youtube.com/watch?v=LMQoJDWGBVs)
-- [HAKEN - The Endless Knot Lyric Video](https://www.youtube.com/watch?v=IVZHNPyMhMo)
-- [Haken - Bound By Gravity with pics](https://www.youtube.com/watch?v=wU6c9kBWABg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +63,5 @@ styles: ["Progressive Metal"]
 | Format         | Vinyl 2× LP Album (180g), CD Album, All Media Reissue |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 579 |
-| Notes | Gatefold sleeve. Black vinyl version.  LP tracks position given with 0s on back. |
+| Notes | Gatefold sleeve. Black vinyl version.<br><br>LP tracks position given with 0s on back. |
 | Discogs URL    | [Haken - Affinity](https://www.discogs.com/release/17746783-Haken-2-Affinity) |

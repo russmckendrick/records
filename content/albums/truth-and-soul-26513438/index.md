@@ -34,36 +34,26 @@ Though Fishbone would find greater mainstream success with 1991’s <i>The Reali
 
 
 ## Tracklisting
-1. Freddie's Dead
-2. Ma And Pa
-3. Questions Of Life
-4. Pouring Rain
-5. Deep Inside
-6. Mighty Long Way
-7. Bonin' In The Boneyard
-8. One Day
-9. Subliminal Fascism
-10. Slow Bus Movin' (Howard Beach Party)
-11. Ghetto Soundwave
-12. Change
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Freddie's Dead |  |
+| A2 | Ma And Pa |  |
+| A3 | Questions Of Life |  |
+| A4 | Pouring Rain |  |
+| A5 | Deep Inside |  |
+| A6 | Mighty Long Way |  |
+| B1 | Bonin' In The Boneyard |  |
+| B2 | One Day |  |
+| B3 | Subliminal Fascism |  |
+| B4 | Slow Bus Movin' (Howard Beach Party) |  |
+| B5 | Ghetto Soundwave |  |
+| B6 | Change |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/truth-and-soul/196393427" >}}<br>
 
 
-## Videos
-### Fishbone - Ghetto Soundwave
-{{< youtube id="HC0buvIyOkE" title="Fishbone - Ghetto Soundwave" >}}<br>
-### More Videos
-
-- [Fishbone - Subliminal Fascism](https://www.youtube.com/watch?v=W90jR6NU9P8)
-- [Fishbone Change Chris Dowd](https://www.youtube.com/watch?v=ghpd3hH12yI)
-- [Fishbone - Ma And Pa](https://www.youtube.com/watch?v=KK640dPPhXE)
-- [Fishbone - Pouring Rain](https://www.youtube.com/watch?v=Y8WrrcAhKCo)
-- [Fishbone - Freddies Dead](https://www.youtube.com/watch?v=4zICxh9kKZg)
-- [Fishbone - Freddies Dead Video](https://www.youtube.com/watch?v=zFrz7sBWbyw)
-- [Bonin in the boneyard by Fishbone](https://www.youtube.com/watch?v=78ZVbw74OhU)
-- [Fishbone Freddies Dead](https://www.youtube.com/watch?v=gwcAU7mCeIg)
 
 ## Release Images
 {{< imageGrid >}}

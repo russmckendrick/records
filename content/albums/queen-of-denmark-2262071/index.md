@@ -4,6 +4,7 @@ artist_name: "John Grant"
 artist: "john-grant"
 album_name: "Queen Of Denmark"
 date: 2015-09-30T17:20:34.000000Z
+release_date: "2010-04-19"
 release_id: "2262071"
 slug: "queen-of-denmark-2262071"
 hideSummary: true
@@ -31,37 +32,32 @@ styles: ["Folk Rock", "Soft Rock", "Indie Rock"]
 Queen of Denmark is the debut solo album by American musician and former The Czars frontman John Grant, released via Bella Union on April 19, 2010. It is a collaboration between Grant and members of the American folk rock band Midlake, who had persuaded him to end his four-year hiatus from music following the break-up of The Czars.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. TC And Honeybear
-2. Marz
-3. Where Dreams Go To Die
-4. Sigourney Weaver
-5. Chicken Bones
-6. Silver Platter Club
-7. It's Easier
-8. Outer Space
-9. Jesus Hates Faggots
-10. Caramel
-11. Leopard & Lamb
-12. Queen Of Denmark
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | TC And Honeybear |  |
+| A2 | Marz |  |
+| A3 | Where Dreams Go To Die |  |
+| B1 | Sigourney Weaver |  |
+| B2 | Chicken Bones |  |
+| B3 | Silver Platter Club |  |
+| C1 | It's Easier |  |
+| C2 | Outer Space |  |
+| C3 | Jesus Hates Faggots |  |
+| D1 | Caramel |  |
+| D2 | Leopard & Lamb |  |
+| D3 | Queen Of Denmark |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/queen-of-denmark/671954335" >}}<br>
 
 
-## Videos
-### John Grant - Queen Of Denmark
-{{< youtube id="b_oNylzsY7I" title="John Grant - Queen Of Denmark" >}}<br>
-### More Videos
-
-- [John Grant Queen of Denmark LIVE at The Cats Cradle 4310](https://www.youtube.com/watch?v=Yz0ggk0eITg)
-- [John Grant feat Midlake - I Wanna Go To Marz - Official Video HD](https://www.youtube.com/watch?v=mzWQSabtWLs)
-- [John Grant - Queen Of Denmark](https://www.youtube.com/watch?v=b_oNylzsY7I)
-- [John Grant Queen of Denmark LIVE at The Cats Cradle 4310](https://www.youtube.com/watch?v=Yz0ggk0eITg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +69,5 @@ Queen of Denmark is the debut solo album by American musician and former The Cza
 | Format         | Vinyl 2× LP Album |
 | Label          | Bella Union |
 | Catalog Number | Bellav235 |
-| Notes | Printed card inner sleeves. Hype sticker (variations in the stickers may be evident)  ℗ & © Bella Union 2010 Made in the EU. |
+| Notes | Printed card inner sleeves. Hype sticker (variations in the stickers may be evident)<br><br>℗ & © Bella Union 2010<br>Made in the EU. |
 | Discogs URL    | [John Grant - Queen Of Denmark](https://www.discogs.com/release/2262071-John-Grant-Queen-Of-Denmark) |

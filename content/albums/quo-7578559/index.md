@@ -4,6 +4,7 @@ artist_name: "Status Quo"
 artist: "status-quo"
 album_name: "Quo"
 date: 2016-05-23T18:26:50.000000Z
+release_date: "1974-05"
 release_id: "7578559"
 slug: "quo-7578559"
 hideSummary: true
@@ -24,36 +25,28 @@ This is the discography of the British rock band Status Quo. They have released 
 For a full list of the band's songs, see List of songs by Status Quo.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Backwater (4:21)
-2. Just Take Me (3:39)
-3. Break The Rules (3:40)
-4. Drifting Away (5:05)
-5. Don't Think It Matters (4:55)
-6. Fine Fine Fine (2:30)
-7. Lonely Man (5:00)
-8. Slow Train (7:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Backwater | 4:21 |
+| A2 | Just Take Me | 3:39 |
+| A3 | Break The Rules | 3:40 |
+| A4 | Drifting Away | 5:05 |
+| B1 | Don't Think It Matters | 4:55 |
+| B2 | Fine Fine Fine | 2:30 |
+| B3 | Lonely Man | 5:00 |
+| B4 | Slow Train | 7:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/quo/1444084881" >}}<br>
 
 
-## Videos
-### Status Quo  Drifting Away
-{{< youtube id="XLFCYfjejIc" title="Status Quo  Drifting Away" >}}<br>
-### More Videos
-
-- [Status Quo  Backwater](https://www.youtube.com/watch?v=6BfeoeRNUts)
-- [Status Quo  Slow Train](https://www.youtube.com/watch?v=tQmOpfq8C1s)
-- [Status Quo  Just Take Me](https://www.youtube.com/watch?v=2hv9qdLr3vY)
-- [Status Quo  Lonely Night Bonus Track](https://www.youtube.com/watch?v=7_Y0SN5ZEzo)
-- [Status Quo  Lonely Man](https://www.youtube.com/watch?v=AsW6e9ANtRg)
-- [Status Quo  Fine Fine Fine](https://www.youtube.com/watch?v=EuU7WKNraFA)
-- [Status Quo-Quo 1974 Full Album HQ](https://www.youtube.com/watch?v=M9ywfW5ZrKk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +58,5 @@ For a full list of the band's songs, see List of songs by Status Quo.
 | Format         | Vinyl LP Album Reissue (180gr) |
 | Label          | Vertigo |
 | Catalog Number | 4723764 |
-| Notes | Comes as 180 gram Vinyl with a poster and a 4-page inlay  © 1974 Mercury Records Limited/Universal Music Catalogue ℗ 1974 Mercury Records Limited   |
+| Notes | Comes as 180 gram Vinyl with a poster and a 4-page inlay<br><br>© 1974 Mercury Records Limited/Universal Music Catalogue<br>℗ 1974 Mercury Records Limited<br><br> |
 | Discogs URL    | [Status Quo - Quo](https://www.discogs.com/release/7578559-Status-Quo-Quo) |

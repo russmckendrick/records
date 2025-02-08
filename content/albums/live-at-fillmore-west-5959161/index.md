@@ -4,6 +4,7 @@ artist_name: "King Curtis"
 artist: "king-curtis"
 album_name: "Live At Fillmore West"
 date: 2016-02-08T18:20:18.000000Z
+release_date: "1971-08"
 release_id: "5959161"
 slug: "live-at-fillmore-west-5959161"
 hideSummary: true
@@ -26,39 +27,29 @@ styles: ["Jazz-Funk"]
 
 Live at Fillmore West is an album by King Curtis, released in 1971. The album showcases the concert he played with his band the Kingpins at the Fillmore West venue in San Francisco in March 1971 who were supporting and backing soul singer Aretha Franklin. A week after its release in August 1971, Curtis was stabbed to death outside his brownstone apartment in New York City.
 It was reissued on compact disc in the 1990s through Rhino Records and was released in an expanded edition in 2006. In addition it was released as an expanded edition four-CD box set entitled, Don't Fight the Feeling: The Complete Aretha Franklin & King Curtis Live At Fillmore West by Rhino Handmade in 2005, featuring the complete concert by King Curtis and Aretha Franklin. This edition was limited to 5,000 numbered copies.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Memphis Soul Stew (7:30)
-2. A Whiter Shade Of Pale (5:15)
-3. Whole Lotta Love (2:10)
-4. I Stand Accused (6:17)
-5. Changes (6:52)
-6. Ode To Billie Joe (3:12)
-7. Mr. Bojangles (4:23)
-8. Signed Sealed Delivered, I'm Yours (2:30)
-9. Soul Serenade (5:30)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Memphis Soul Stew | 7:30 |
+| A2 | A Whiter Shade Of Pale | 5:15 |
+| A3 | Whole Lotta Love | 2:10 |
+| A4 | I Stand Accused | 6:17 |
+| B1 | Changes | 6:52 |
+| B2 | Ode To Billie Joe | 3:12 |
+| B3 | Mr. Bojangles | 4:23 |
+| B4 | Signed Sealed Delivered, I'm Yours | 2:30 |
+| B5 | Soul Serenade | 5:30 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-fillmore-west/162635066" >}}<br>
 
 
-## Videos
-### Memphis Soul Stew Live at Fillmore West 371971
-{{< youtube id="QISOupYqTi4" title="Memphis Soul Stew Live at Fillmore West 371971" >}}<br>
-### More Videos
-
-- [A Whiter Shade of Pale Live at Fillmore West 371971](https://www.youtube.com/watch?v=DOrAd-nyRsM)
-- [Whole Lotta Love Live at Fillmore West 361971](https://www.youtube.com/watch?v=z8RQZc8ir8E)
-- [I Stand Accused Live at Fillmore West 361971](https://www.youtube.com/watch?v=Fj3MRelfzDc)
-- [Them Changes Live at Fillmore West 371971](https://www.youtube.com/watch?v=29liKY8lXI8)
-- [Ode to Billy Joe Live at Fillmore West 371971](https://www.youtube.com/watch?v=SfnwzrA-1xc)
-- [Mr Bojangles Live at Fillmore West 351971](https://www.youtube.com/watch?v=QobLjxsp5hE)
-- [Signed Sealed Delivered Im Yours Live at Fillmore West 351971](https://www.youtube.com/watch?v=4kbU4KldDAA)
-- [Soul Serenade Live at Fillmore West 371971](https://www.youtube.com/watch?v=oQlq6BqIP-o)
-- [Signed Sealed Delivered Im Yours Live at Fillmore West 351971](https://www.youtube.com/watch?v=Oh0qaVOUt-o)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +61,5 @@ It was reissued on compact disc in the 1990s through Rhino Records and was relea
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1143 |
-| Notes | Originally released ℗  & © 1971 ATCO records This release ℗ © 2104 Warner Music. Comes into a lined black paper with round central holes. Made in the EU. |
+| Notes | Originally released ℗  & © 1971 ATCO records<br>This release ℗ © 2104 Warner Music.<br>Comes into a lined black paper with round central holes.<br>Made in the EU. |
 | Discogs URL    | [King Curtis - Live At Fillmore West](https://www.discogs.com/release/5959161-King-Curtis-Live-At-Fillmore-West) |

@@ -4,6 +4,7 @@ artist_name: "Curve"
 artist: "curve"
 album_name: "Frozen"
 date: 2023-02-13T11:30:59.000000Z
+release_date: "2008-01-01"
 release_id: "26071519"
 slug: "frozen-26071519"
 hideSummary: true
@@ -29,33 +30,24 @@ Frozen (Chinese: 极度寒冷) is a 1997 Chinese film directed by Wang Xiaoshuai
 The film, supposedly based on a true story, follows a young performance artist, Qi Lei, who attempts to create a masterpiece centred on the theme of death. After two "acts" where he simulates death, he decides that his final act will be a true suicide through hypothermia.
 Frozen was originally titled The Great Game (simplified Chinese: 大游戏; traditional Chinese: 大游戲; pinyin: Dà yóuxi). This was meant to reflect the attitude of both the film and the artist portrayed within it to treat death and suicide as a game or a manipulation.
 Canadian scholar Erik Bordeleau has interpreted Frozen as an allegory of the aftermath of the 1989 Tiananmen Square protests in China. Qi Lei’s “experience of a radical loss of social subjectivity, staged in performative terms, powerfully echoes also that of the Tiananmen survivors, those whose lives did not come to an end, as did the world to which they belonged.”
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Coast Is Clear
-2. The Colour Hurts
-3. Frozen
-4. Zoo
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Coast Is Clear |  |
+| A2 | The Colour Hurts |  |
+| B1 | Frozen |  |
+| B2 | Zoo |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/chen-yi-karen-tanaka-invisible-curve/400843029" >}}<br>
 
 
-## Videos
-### Curve - The colour hurts
-{{< youtube id="wv9NKUiKR4U" title="Curve - The colour hurts" >}}<br>
-### More Videos
-
-- [Curve Frozen](https://www.youtube.com/watch?v=q8_5TC1s0wQ)
-- [Curve - Zoo](https://www.youtube.com/watch?v=kKvzP8j13_o)
-- [Curve - The colour hurts](https://www.youtube.com/watch?v=wv9NKUiKR4U)
-- [Curve - Zoo](https://www.youtube.com/watch?v=kKvzP8j13_o)
-- [Curve - Coast is clear](https://www.youtube.com/watch?v=lqtxTl4m6l4)
-- [Curve - Frozen](https://www.youtube.com/watch?v=vAANdjxEKlU)
-- [Curve Frozen](https://www.youtube.com/watch?v=q8_5TC1s0wQ)
-- [Curve - Coast is clear](https://www.youtube.com/watch?v=k8kObm7NfQY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +59,5 @@ Canadian scholar Erik Bordeleau has interpreted Frozen as an allegory of the aft
 | Format         | Vinyl 12" EP Limited Edition Numbered (White marbled) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12031 |
-| Notes | Part of a reissue series. Coloured vinyl. Plastic outer sleeve with Music On Vinyl sticker. Limited edition of 1000. Individual number stamped in silver metallic on rear of outer sleeve. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series. |
+| Notes | Part of a reissue series.<br>Coloured vinyl.<br>Plastic outer sleeve with Music On Vinyl sticker.<br>Limited edition of 1000.<br>Individual number stamped in silver metallic on rear of outer sleeve.<br>Plain inner sleeve.<br>Insert advertising Music On Vinyl Curve reissue series. |
 | Discogs URL    | [Curve - Frozen](https://www.discogs.com/release/26071519-Curve-Frozen) |

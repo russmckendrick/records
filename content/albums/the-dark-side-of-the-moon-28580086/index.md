@@ -4,6 +4,7 @@ artist_name: "Pink Floyd"
 artist: "pink-floyd"
 album_name: "The Dark Side Of The Moon"
 date: 2023-10-17T11:27:44.000000Z
+release_date: "2009-12-22"
 release_id: "28580086"
 slug: "the-dark-side-of-the-moon-28580086"
 hideSummary: true
@@ -36,41 +37,30 @@ The Dark Side of the Moon explores themes such as conflict, greed, time, death, 
 The Dark Side of the Moon has received widespread critical acclaim and is often featured in professional listings of the greatest albums of all time. It brought Pink Floyd international fame, wealth and plaudits to all four band members. A blockbuster release of the album era, it also propelled record sales throughout the music industry during the 1970s. The Dark Side of the Moon is certified 14× platinum in the United Kingdom, and topped the US Billboard Top LPs & Tape chart, where it has charted for 990 weeks. By 2013, The Dark Side of the Moon had sold over 45 million copies worldwide, making it the band's best-selling release, the best-selling album of the 1970s, and the fourth-best-selling album in history. In 2012, the album was selected for preservation in the United States National Recording Registry by the Library of Congress as being "culturally, historically, or aesthetically significant". It was inducted into the Grammy Hall of Fame in 1999.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Speak To Me (1:30)
-2. Breathe (In The Air) (2:43)
-3. On The Run (3:30)
-4. Time (6:53)
-5. The Great Gig In The Sky (4:15)
-6. Money (6:30)
-7. Us And Them (7:51)
-8. Any Colour You Like (3:24)
-9. Brain Damage (3:50)
-10. Eclipse (1:45)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1a | Speak To Me | 1:30 |
+| A1b | Breathe (In The Air) | 2:43 |
+| A2 | On The Run | 3:30 |
+| A3 | Time | 6:53 |
+| A4 | The Great Gig In The Sky | 4:15 |
+| B1 | Money | 6:30 |
+| B2 | Us And Them | 7:51 |
+| B3 | Any Colour You Like | 3:24 |
+| B4 | Brain Damage | 3:50 |
+| B5 | Eclipse | 1:45 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-dark-side-of-the-moon/1233884854" >}}<br>
 
 
-## Videos
-### Pink Floyd - The Dark Side Of The Moon 50th Anniversary 2023 Remaster Full Album
-{{< youtube id="k9ynZnEBtvw" title="Pink Floyd - The Dark Side Of The Moon 50th Anniversary 2023 Remaster Full Album" >}}<br>
-### More Videos
-
-- [Speak To Me 2023 Remaster](https://www.youtube.com/watch?v=2o4ygOv0wKk)
-- [Breathe In The Air 2023 Remaster](https://www.youtube.com/watch?v=stOCUPEytzg)
-- [On The Run 2023 Remaster](https://www.youtube.com/watch?v=KrfhWmHxKQI)
-- [Time 2023 Remaster](https://www.youtube.com/watch?v=ki4ZFxeFmEM)
-- [The Great Gig In The Sky 2023 Remaster](https://www.youtube.com/watch?v=msiEYm28OHs)
-- [Money 2023 Remaster](https://www.youtube.com/watch?v=Cy4lg1w3Leo)
-- [Us And Them 2023 Remaster](https://www.youtube.com/watch?v=_It2WPW4O3s)
-- [Any Colour You Like 2023 Remaster](https://www.youtube.com/watch?v=nlgIkOT6qJk)
-- [Brain Damage 2023 Remaster](https://www.youtube.com/watch?v=996Myqoi4gE)
-- [Eclipse 2023 Remaster](https://www.youtube.com/watch?v=k0xGxnZFNYs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +72,5 @@ The Dark Side of the Moon has received widespread critical acclaim and is often 
 | Format         | Vinyl LP Album Reissue Remastered Stereo (50th Anniversary, 180 Gram) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFR50LP1 |
-| Notes | Gatefold cover issued with two posters and two stickers.  Different UPC and [l267164] code than [r=28614196].  Hype Sticker: "Pink Floyd 50 The Dark Side Of The Moon  Remastered For The 50th Anniversary On Heavyweight 180g Vinyl"  Made in The Netherlands  Runouts description: all runouts are etched, except "37307 3A" and "37307 4B (or variants of)" that are stamped. The variant 2 B side contains "400172 1" which has been crossed out. Variant 8, side B, the first 18 is actually a 1 with an 8 stamped directly on top of it.  Also the etched LI on both sides is in an etched box. Variant 11, side B, the 8 is crossed out. LI is also boxed on both sides. |
+| Notes | Gatefold cover issued with two posters and two stickers.  Different UPC and [l267164] code than [r=28614196].<br><br>Hype Sticker:<br>"Pink Floyd<br>50<br>The Dark Side<br>Of The Moon<br><br>Remastered<br>For The<br>50th Anniversary<br>On Heavyweight 180g Vinyl"<br><br>Made in The Netherlands<br><br>Runouts description: all runouts are etched, except "37307 3A" and "37307 4B (or variants of)" that are stamped. The variant 2 B side contains "400172 1" which has been crossed out.<br>Variant 8, side B, the first 18 is actually a 1 with an 8 stamped directly on top of it.  Also the etched LI on both sides is in an etched box.<br>Variant 11, side B, the 8 is crossed out. LI is also boxed on both sides. |
 | Discogs URL    | [Pink Floyd - The Dark Side Of The Moon](https://www.discogs.com/release/28580086-Pink-Floyd-The-Dark-Side-Of-The-Moon) |

@@ -4,6 +4,7 @@ artist_name: "Stars"
 artist: "stars"
 album_name: "The North"
 date: 2017-06-27T18:05:30.000000Z
+release_date: "1998-09-15"
 release_id: "3839836"
 slug: "the-north-3839836"
 hideSummary: true
@@ -28,48 +29,32 @@ The North is the sixth full-length studio album by Canadian indie pop band Stars
 The album's cover shows the Habitat 67 complex, an experimental housing development as well as architectural landmark in Montreal, the band's home city.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Theory Of Relativity (4:26)
-2. Backlines (2:11)
-3. The North (4:52)
-4. Hold On When You Get Love And Let Go When You Give It (4:39)
-5. Through The Mines (4:10)
-6. Do You Want To Die Together? (3:12)
-7. Lights Changing Colour (3:06)
-8. The Loose Ends Will Make Knots (2:32)
-9. A Song Is A Weapon (3:12)
-10. Progress (3:50)
-11. The 400 (3:28)
-12. Walls (4:16)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Theory Of Relativity | 4:26 |
+| A2 | Backlines | 2:11 |
+| A3 | The North | 4:52 |
+| A4 | Hold On When You Get Love And Let Go When You Give It | 4:39 |
+| A5 | Through The Mines | 4:10 |
+| A6 | Do You Want To Die Together? | 3:12 |
+| B1 | Lights Changing Colour | 3:06 |
+| B2 | The Loose Ends Will Make Knots | 2:32 |
+| B3 | A Song Is A Weapon | 3:12 |
+| B4 | Progress | 3:50 |
+| B5 | The 400 | 3:28 |
+| B6 | Walls | 4:16 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-north-star/1671065285" >}}<br>
 
 
-## Videos
-### Stars- The North
-{{< youtube id="4e4JECimr0k" title="Stars- The North" >}}<br>
-### More Videos
-
-- [Stars - The Theory of Relativity](https://www.youtube.com/watch?v=Ta1xEMypk2Q)
-- [Stars - The Theory of Relativity](https://www.youtube.com/watch?v=Ta1xEMypk2Q)
-- [Stars - Hold On When You Get Love And Let Go When You Give It](https://www.youtube.com/watch?v=2SYO6a6PaTs)
-- [The North](https://www.youtube.com/watch?v=A0nanSYxC6A)
-- [Stars - Backlines](https://www.youtube.com/watch?v=DhE2tRB0LCE)
-- [Lights Changing Colour](https://www.youtube.com/watch?v=IJpwhr1DqRA)
-- [Walls](https://www.youtube.com/watch?v=oLj3PqmIVK0)
-- [The 400](https://www.youtube.com/watch?v=B4MhUkeZWuo)
-- [The Loose Ends Will Make Knots](https://www.youtube.com/watch?v=MYK8J46c5Ks)
-- [A Song Is A Weapon](https://www.youtube.com/watch?v=ReGm5EvYk9o)
-- [Do You Want To Die Together](https://www.youtube.com/watch?v=0S5iyO0Ooe8)
-- [Progress](https://www.youtube.com/watch?v=2w8gzGeqiHo)
-- [Through The Mines](https://www.youtube.com/watch?v=EAF52eYLem4)
-- [Stars- The North](https://www.youtube.com/watch?v=4e4JECimr0k)
-- [Stars - The Theory of Relativity](https://www.youtube.com/watch?v=Ta1xEMypk2Q)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +66,5 @@ The album's cover shows the Habitat 67 complex, an experimental housing developm
 | Format         | Vinyl LP Album (Blue Translucent) |
 | Label          | ATO Records |
 | Catalog Number | 88088218161 |
-| Notes | Released on blue translucent vinyl. Comes with printed inner sleeve with lyrics/credits etc. Comes with a free digital download of the entire album.   Gatefold sleeve.  Manufactured and distributed in the United States by RED Distribution, LLC. |
+| Notes | Released on blue translucent vinyl. Comes with printed inner sleeve with lyrics/credits etc. Comes with a free digital download of the entire album. <br><br>Gatefold sleeve.<br><br>Manufactured and distributed in the United States by RED Distribution, LLC. |
 | Discogs URL    | [Stars - The North](https://www.discogs.com/release/3839836-Stars-The-North) |

@@ -38,25 +38,24 @@ The former Drive-By Trucker delivers his most diverse album yet in <i>Something 
 
 
 ## Tracklisting
-1. If It Takes A Lifetime
-2. 24 Frames
-3. Flagship
-4. How To Forget
-5. Children Of Children
-6. The Life You Chose
-7. Something More Than Free
-8. Speed Trap Town
-9. Hudson Commodore
-10. Palmetto Rose
-11. To A Band That I Loved
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | If It Takes A Lifetime |  |
+| A2 | 24 Frames |  |
+| A3 | Flagship |  |
+| B4 | How To Forget |  |
+| B5 | Children Of Children |  |
+| C6 | The Life You Chose |  |
+| C7 | Something More Than Free |  |
+| C8 | Speed Trap Town |  |
+| D9 | Hudson Commodore |  |
+| D10 | Palmetto Rose |  |
+| D11 | To A Band That I Loved |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/something-more-than-free/986866335" >}}<br>
 
-
-## Videos
-### Jason Isbell - 24 Frames Lyric Video
-{{< youtube id="ZtgPeNKpnyw" title="Jason Isbell - 24 Frames Lyric Video" >}}<br>
 
 
 ## Release Images
@@ -69,5 +68,5 @@ The former Drive-By Trucker delivers his most diverse album yet in <i>Something 
 | Format         | Vinyl 2× LP Album |
 | Label          | Southeastern Records (2) |
 | Catalog Number | SER99861 |
-| Notes | Recorded at Sound Emporium Studio, Nashville, TN Additional recording and mixing at Low Country Sound  © and ℗ 2015 Southeastern Records   Tracks are listed sequentially from Track 1 to Track 11 on back cover of album.  Including download voucher (256 kbps MP3). |
+| Notes | Recorded at Sound Emporium Studio, Nashville, TN<br>Additional recording and mixing at Low Country Sound<br><br>© and ℗ 2015 Southeastern Records <br><br>Tracks are listed sequentially from Track 1 to Track 11 on back cover of album.<br><br>Including download voucher (256 kbps MP3). |
 | Discogs URL    | [Jason Isbell - Something More Than Free](https://www.discogs.com/release/7247036-Jason-Isbell-Something-More-Than-Free) |

@@ -37,20 +37,22 @@ Rivers Cuomo was a Kiss fan, and you could tell by listening, if not by looking:
 
 
 ## Tracklisting
-1. Africa
-2. Everybody Wants To Rule The World
-3. Sweet Dreams (Are Made Of This)
-4. Take On Me
-5. Happy Together
-6. Paranoid
-7. Mr. Blue Sky
-8. No Scrubs
-9. Billie Jean
-10. Stand By Me
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Africa |  |
+| A2 | Everybody Wants To Rule The World |  |
+| A3 | Sweet Dreams (Are Made Of This) |  |
+| A4 | Take On Me |  |
+| A5 | Happy Together |  |
+| B1 | Paranoid |  |
+| B2 | Mr. Blue Sky |  |
+| B3 | No Scrubs |  |
+| B4 | Billie Jean |  |
+| B5 | Stand By Me |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/weezer/1440878798" >}}<br>
-
 
 
 
@@ -64,5 +66,5 @@ Rivers Cuomo was a Kiss fan, and you could tell by listening, if not by looking:
 | Format         | Vinyl LP Album Record Store Day Limited Edition (Teal) |
 | Label          | Crush Music (2) |
 | Catalog Number | 7567-86533-1 |
-| Notes | The sixth self-titled album by Weezer, commonly known as 'The Teal Album'. This album contains ten cover versions.  Released for Record Store Day 2019 - Saturday 13th April.  Manufactured in the E.U.   |
+| Notes | The sixth self-titled album by Weezer, commonly known as 'The Teal Album'.<br>This album contains ten cover versions.<br><br>Released for Record Store Day 2019 - Saturday 13th April.<br><br>Manufactured in the E.U.<br><br> |
 | Discogs URL    | [Weezer - Weezer](https://www.discogs.com/release/13486233-Weezer-Weezer) |

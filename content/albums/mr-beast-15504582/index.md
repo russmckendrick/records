@@ -4,6 +4,7 @@ artist_name: "Mogwai"
 artist: "mogwai"
 album_name: "Mr Beast"
 date: 2020-06-24T11:44:05.000000Z
+release_date: "2006-03-05"
 release_id: "15504582"
 slug: "mr-beast-15504582"
 hideSummary: true
@@ -23,30 +24,29 @@ styles: ["Art Rock", "Post Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Auto Rock
-2. Glasgow Mega-Snake
-3. Acid Food
-4. Travel Is Dangerous
-5. Team Handed
-6. Friend Of The Night
-7. Emergency Trap
-8. Folk Death 95
-9. I Chose Horses
-10. We're No Here
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Auto Rock |  |
+| A2 | Glasgow Mega-Snake |  |
+| A3 | Acid Food |  |
+| A4 | Travel Is Dangerous |  |
+| B1 | Team Handed |  |
+| B2 | Friend Of The Night |  |
+| B3 | Emergency Trap |  |
+| C1 | Folk Death 95 |  |
+| C2 | I Chose Horses |  |
+| C3 | We're No Here |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mr-beast/122960260" >}}<br>
 
 
-## Videos
-### Mogwai - Travel Is Dangerous Official Video - 2006
-{{< youtube id="BqXv_7j3Ryc" title="Mogwai - Travel Is Dangerous Official Video - 2006" >}}<br>
-### More Videos
-
-- [Mogwai - Friend of the Night](https://www.youtube.com/watch?v=yC_3alnTE9g)
-- [Mogwai Auto Rock  Les Nuits De Fourvière 2014](https://www.youtube.com/watch?v=5uyznyJQFI0)
 
 ## Release Images
 {{< imageGrid >}}

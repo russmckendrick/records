@@ -39,22 +39,19 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 
 
 ## Tracklisting
-1. Red (6:16)
-2. Fallen Angel (5:58)
-3. One More Red Nightmare (7:07)
-4. Providence (8:06)
-5. Starless (12:18)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Red | 6:16 |
+| A2 | Fallen Angel | 5:58 |
+| A3 | One More Red Nightmare | 7:07 |
+| B1 | Providence | 8:06 |
+| B2 | Starless | 12:18 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-the-court-of-the-crimson-king-expanded-edition/918534711" >}}<br>
 
 
-## Videos
-### King Crimson - Red OFFICIAL
-{{< youtube id="X_pDwv3tpug" title="King Crimson - Red OFFICIAL" >}}<br>
-### More Videos
-
-- [King Crimson - Red OFFICIAL](https://www.youtube.com/watch?v=X_pDwv3tpug)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +63,5 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 | Format         | Vinyl LP Album Reissue Stereo (200-Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLP7 |
-| Notes | Includes b/w postcard with MP3 download code, showing the band live on stage 1974.    All songs published by UMG Music Ltd.    Produced at Olympic Sound Studios, London, England in July and August 1974.    Sticker reads:   The original stereo mix of the 1974 classic   Newly cut from masters approved by Robert Fripp   Includes exclusive codes for 320kbps MP3 downloads of an original 1974 vinyl transfer  200-gram super-heavyweight vinyl    ℗ & © 2013 Robert Fripp.    Made in England.   |
+| Notes | Includes b/w postcard with MP3 download code, showing the band live on stage 1974.<br><br>All songs published by UMG Music Ltd.<br><br>Produced at Olympic Sound Studios, London, England in July and August 1974.<br><br>Sticker reads: <br>The original stereo mix of the 1974 classic <br>Newly cut from masters approved by Robert Fripp <br>Includes exclusive codes for 320kbps MP3 downloads of an original 1974 vinyl transfer<br>200-gram super-heavyweight vinyl<br><br>℗ & © 2013 Robert Fripp.<br><br>Made in England.<br> |
 | Discogs URL    | [King Crimson - Red](https://www.discogs.com/release/4703409-King-Crimson-Red) |

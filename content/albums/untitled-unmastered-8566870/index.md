@@ -28,39 +28,22 @@ Every element of Kendrick Lamar’s <i>untitled unmastered.</i> tells you someth
 
 
 ## Tracklisting
-1. Untitled 01 | 08.19.2014.
-2. Untitled 02 | 06.23.2014.
-3. Untitled 03 | 05.28.2013.
-4. Untitled 04 | 08.14.2014.
-5. Untitled 05 | 09.21.2014.
-6. Untitled 06 | 06.30.2014.
-7. Untitled 07 | 2014 - 2016
-8. Untitled 08 | 09.06.2014.
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Untitled 01 | 08.19.2014. |  |
+| A2 | Untitled 02 | 06.23.2014. |  |
+| A3 | Untitled 03 | 05.28.2013. |  |
+| A4 | Untitled 04 | 08.14.2014. |  |
+| A5 | Untitled 05 | 09.21.2014. |  |
+| B1 | Untitled 06 | 06.30.2014. |  |
+| B2 | Untitled 07 | 2014 - 2016 |  |
+| B3 | Untitled 08 | 09.06.2014. |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/untitled-unmastered/1440844834" >}}<br>
 
 
-## Videos
-### untitled 01  08192014
-{{< youtube id="oIoZgIOgu3o" title="untitled 01  08192014" >}}<br>
-### More Videos
-
-- [untitled 02  06232014](https://www.youtube.com/watch?v=_GghFQ8ryEU)
-- [untitled 03  05282013](https://www.youtube.com/watch?v=o4M4qssoaWU)
-- [untitled 04  08142014](https://www.youtube.com/watch?v=82Cqp-kyrQs)
-- [untitled 05  09212014](https://www.youtube.com/watch?v=inOEtUwSasc)
-- [untitled 06  06302014](https://www.youtube.com/watch?v=fZ2pXyBBwsQ)
-- [untitled 07  levitate](https://www.youtube.com/watch?v=WlVT5bvAlcY)
-- [untitled 08  09062014](https://www.youtube.com/watch?v=JXikcHwPolM)
-- [untitled 01  08192014](https://www.youtube.com/watch?v=oIoZgIOgu3o)
-- [untitled 02  06232014](https://www.youtube.com/watch?v=_GghFQ8ryEU)
-- [untitled 03  05282013](https://www.youtube.com/watch?v=o4M4qssoaWU)
-- [untitled 04  08142014](https://www.youtube.com/watch?v=82Cqp-kyrQs)
-- [untitled 05  09212014](https://www.youtube.com/watch?v=inOEtUwSasc)
-- [untitled 06  06302014](https://www.youtube.com/watch?v=fZ2pXyBBwsQ)
-- [untitled 07  levitate](https://www.youtube.com/watch?v=WlVT5bvAlcY)
-- [untitled 08  09062014](https://www.youtube.com/watch?v=JXikcHwPolM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +55,5 @@ Every element of Kendrick Lamar’s <i>untitled unmastered.</i> tells you someth
 | Format         | Vinyl LP Album |
 | Label          | Top Dawg Entertainment |
 | Catalog Number | 00602547866813 |
-| Notes | [Back cover & labels] ℗ © 2016 Aftermath Records/Interscope Records (Top Dawg Entertainment). A division of UMG Recordings Inc. Made in the EU. |
+| Notes | [Back cover & labels]<br>℗ © 2016 Aftermath Records/Interscope Records (Top Dawg Entertainment). A division of UMG Recordings Inc.<br>Made in the EU. |
 | Discogs URL    | [Kendrick Lamar - Untitled Unmastered.](https://www.discogs.com/release/8566870-Kendrick-Lamar-Untitled-Unmastered) |

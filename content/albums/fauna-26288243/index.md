@@ -1,9 +1,10 @@
 ---
 title: "Haken - Fauna"
 artist_name: "Haken"
-artist: "haken-2"
+artist: "haken"
 album_name: "Fauna"
 date: 2023-03-20T05:43:38.000000Z
+release_date: "2023-03-03"
 release_id: "26288243"
 slug: "fauna-26288243"
 hideSummary: true
@@ -29,47 +30,29 @@ styles: ["Progressive Metal"]
 ---
 
 Fauna (pl.: faunae or faunas) is all of the animal life present in a particular region or time. The corresponding terms for plants and fungi are flora and funga, respectively. Flora, fauna, funga and other forms of life are collectively referred to as biota. Zoologists and paleontologists use fauna to refer to a typical collection of animals found in a specific time or place, e.g. the "Sonoran Desert fauna" or the "Burgess Shale fauna". Paleontologists sometimes refer to a sequence of faunal stages, which is a series of rocks all containing similar fossils. The study of animals of a particular region is called faunistics.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Taurus
-2. Nightingale
-3. The Alphabet Of Me
-4. Sempiternal Beings
-5. Beneath The White Rainbow
-6. Island In The Clouds
-7. Lovebite
-8. Elephants Never Forget
-9. Eyes Of Ebony
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Taurus |  |
+| A2 | Nightingale |  |
+| B1 | The Alphabet Of Me |  |
+| B2 | Sempiternal Beings |  |
+| C1 | Beneath The White Rainbow |  |
+| C2 | Island In The Clouds |  |
+| C3 | Lovebite |  |
+| D1 | Elephants Never Forget |  |
+| D2 | Eyes Of Ebony |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fauna/1650860109" >}}<br>
 
 
-## Videos
-### Haken - Taurus Official Video
-{{< youtube id="4FQBK4CFWbI" title="Haken - Taurus Official Video" >}}<br>
-### More Videos
-
-- [HAKEN - Nightingale OFFICIAL VIDEO](https://www.youtube.com/watch?v=IeENKWcitCw)
-- [Haken - The Alphabet of Me Official Video](https://www.youtube.com/watch?v=LQJ-e75ZSj8)
-- [Sempiternal Beings](https://www.youtube.com/watch?v=CCxjJOB18xk)
-- [Beneath the White Rainbow](https://www.youtube.com/watch?v=QuJ6Ejdpo2A)
-- [Island in the Clouds](https://www.youtube.com/watch?v=-71LuuAw9tc)
-- [Haken - Lovebite Official Video](https://www.youtube.com/watch?v=MjqRKeTOTk8)
-- [Elephants Never Forget](https://www.youtube.com/watch?v=L-H3XFfX1EA)
-- [Eyes Of Ebony](https://www.youtube.com/watch?v=qR8iRyWP7f4)
-- [Taurus Instrumental](https://www.youtube.com/watch?v=gYVrLialqh8)
-- [Nightingale Instrumental](https://www.youtube.com/watch?v=wgDZrFG8Ku4)
-- [The Alphabet of Me Instrumental](https://www.youtube.com/watch?v=2n5VAkm_DVs)
-- [Sempiternal Beings Instrumental](https://www.youtube.com/watch?v=mV6HDaQGt-Y)
-- [Beneath the White Rainbow Instrumental](https://www.youtube.com/watch?v=PG-kGoe61pQ)
-- [Island in the Clouds Instrumental](https://www.youtube.com/watch?v=2AmhgjYltAk)
-- [Lovebite Instrumental](https://www.youtube.com/watch?v=umOv2PyZ9sc)
-- [Elephants Never Forget Instrumental](https://www.youtube.com/watch?v=ql3BHkTGk0w)
-- [Eyes Of Ebony Instrumental](https://www.youtube.com/watch?v=MqDJh-D6mkg)
 
 ## Release Images
 {{< imageGrid >}}

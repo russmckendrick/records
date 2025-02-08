@@ -4,6 +4,7 @@ artist_name: "El Michels Affair"
 artist: "el-michels-affair"
 album_name: "Return To The 37th Chamber"
 date: 2017-05-20T15:15:29.000000Z
+release_date: "2017-04-14"
 release_id: "10178866"
 slug: "return-to-the-37th-chamber-10178866"
 hideSummary: true
@@ -23,40 +24,32 @@ styles: ["Funk", "Soul"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. 4th Chamber
-2. Iron Man
-3. Shaolin Brew
-4. Pork Chop Express
-5. Snakes
-6. Drums For Sale
-7. Shadow Boxing
-8. Sipped Up
-9. Tearz
-10. Verbal Intercourse
-11. Wu-Tang Clan Aint Nuthing Ta F' Wit
-12. All I Need
-13. The End (Eat My Vocals)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 4th Chamber |  |
+| A2 | Iron Man |  |
+| A3 | Shaolin Brew |  |
+| A4 | Pork Chop Express |  |
+| A5 | Snakes |  |
+| A6 | Drums For Sale |  |
+| A7 | Shadow Boxing |  |
+| B1 | Sipped Up |  |
+| B2 | Tearz |  |
+| B3 | Verbal Intercourse |  |
+| B4 | Wu-Tang Clan Aint Nuthing Ta F' Wit |  |
+| B5 | All I Need |  |
+| B6 | The End (Eat My Vocals) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/return-to-the-37th-chamber/1472448782" >}}<br>
 
 
-## Videos
-### El Michels Affair - Return To The 37th chamber Full Album Stream
-{{< youtube id="KaIo14MUyfU" title="El Michels Affair - Return To The 37th chamber Full Album Stream" >}}<br>
-### More Videos
-
-- [El Michels Affair - 4th Chamber - BC001-45 - Side A](https://www.youtube.com/watch?v=dfzbkTiOB-E)
-- [El Michels Affair - Iron Man](https://www.youtube.com/watch?v=g6Lk6YRS5b0)
-- [El Michels Affair - Tearz - BC008-45 - Side A](https://www.youtube.com/watch?v=dvPYQHLZdUk)
-- [El Michels Affair - Shaolin Brew](https://www.youtube.com/watch?v=AK5gDN8AfY0)
-- [El Michels Affair -  Return To The 37th Chamber -  07 Shadow Boxing](https://www.youtube.com/watch?v=lvktFx3k4Ts)
-- [El Michels Affair - Wu-Tang Clan Aint Nuthing Ta F Wit](https://www.youtube.com/watch?v=LNATIh11nPE)
-- [El Michels Affair feat Lee Fields - Snakes](https://www.youtube.com/watch?v=FTb9vPss-UI)
-- [El Michels Affair - Enter The 37th Chamber 2009 Full Album](https://www.youtube.com/watch?v=gVYfIfZDKeg)
-- [El Michels Affair feat Lee Fields  The Shacks - Tearz](https://www.youtube.com/watch?v=hj2pRgWvIaA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +60,5 @@ styles: ["Funk", "Soul"]
 | Format         | Vinyl LP Album |
 | Label          | Big Crown Records |
 | Catalog Number | BC017-LP B |
-| Notes | 2nd of 4 different covers of this release.  Included a digital download code of the album. |
+| Notes | 2nd of 4 different covers of this release. <br>Included a digital download code of the album. |
 | Discogs URL    | [El Michels Affair - Return To The 37th Chamber](https://www.discogs.com/release/10178866-El-Michels-Affair-Return-To-The-37th-Chamber) |

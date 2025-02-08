@@ -1,6 +1,6 @@
 ---
-title: "St. Vincent - Masseduction"
-artist_name: "St. Vincent"
+title: "St Vincent - Masseduction"
+artist_name: "St Vincent"
 artist: "st-vincent"
 album_name: "Masseduction"
 date: 2017-10-13T18:10:27.000000Z
@@ -10,8 +10,8 @@ slug: "masseduction-10987228"
 hideSummary: true
 cover:
     image: "masseduction-10987228.jpg"
-    alt: "Masseduction by St. Vincent"
-    caption: "Masseduction by St. Vincent"
+    alt: "Masseduction by St Vincent"
+    caption: "Masseduction by St Vincent"
 additional_images:
     - "https://i.discogs.com/CFXvyNCN31DsyEbut8hBzU8DYcyQpTxnhedBttb1HdU/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MDc5MzYz/MzEtNTYyMS5qcGVn.jpeg"
     - "https://i.discogs.com/qYJ45CtGO7YV_0M1E0pNgqz_ji_meqEUyJaZo7bK9mo/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MjgyMjg4/NDAtNzA2Ny5qcGVn.jpeg"
@@ -33,33 +33,27 @@ Pushing past the GRAMMY®-winning art rock of 2014’s <i>St. Vincent</i>, <i>Ma
 
 
 ## Tracklisting
-1. Hang On Me (2:48)
-2. Pills (4:40)
-3. Masseduction (3:17)
-4. Sugarboy (4:01)
-5. Los Ageless (4:41)
-6. Happy Birthday, Johnny (2:58)
-7. Savior (3:26)
-8. New York (2:34)
-9. Fear The Future (2:31)
-10. Young Lover (3:33)
-11. Dancing With A Ghost (0:46)
-12. Slow Disco (2:44)
-13. Smoking Section (3:37)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hang On Me | 2:48 |
+| A2 | Pills | 4:40 |
+| A3 | Masseduction | 3:17 |
+| A4 | Sugarboy | 4:01 |
+| A5 | Los Ageless | 4:41 |
+| A6 | Happy Birthday, Johnny | 2:58 |
+| B1 | Savior | 3:26 |
+| B2 | New York | 2:34 |
+| B3 | Fear The Future | 2:31 |
+| B4 | Young Lover | 3:33 |
+| B5 | Dancing With A Ghost | 0:46 |
+| B6 | Slow Disco | 2:44 |
+| B7 | Smoking Section | 3:37 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/masseduction/1440947061" >}}<br>
 
 
-## Videos
-### St Vincent - New York Official Video
-{{< youtube id="4TPqUvy1vYU" title="St Vincent - New York Official Video" >}}<br>
-### More Videos
-
-- [St Vincent - Los Ageless Official Video](https://www.youtube.com/watch?v=h9TlaYxoOO8)
-- [St Vincent - Hang On Me Official Audio](https://www.youtube.com/watch?v=F9WjhPy02gU)
-- [St Vincent - Masseduction](https://www.youtube.com/watch?v=jPha0h8TA5U)
-- [St Vincent - Power Corrupts Japanese Bonus Track](https://www.youtube.com/watch?v=GYLCrGOY_eQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +65,5 @@ Pushing past the GRAMMY®-winning art rock of 2014’s <i>St. Vincent</i>, <i>Ma
 | Format         | Vinyl LP Album Deluxe Edition Limited Edition (Pink) |
 | Label          | Loma Vista |
 | Catalog Number | LVR00225 |
-| Notes | ℗ & © 2017 Lorna Vista Recordings / Concord Music Group Inc  Housed in a 2 colour screen printed PVC sleeve, 24" x 24" foldout poster, sticker sheet, download code card and 28-page A4 booklet.  'Dancing With A Ghost' listed as 'Slow Disco Interlude' on the printed PVC sleeve.  Made in Czech Republic.  Publishing Annie Clark : Big Deal Notes / Nail Polish Manifesto Music (ASCAP) All Rights administered by Words & Music Jack Antonoff : Sony/ATV Songs LLC / Ducky Donath Music (BMI) Joy Williams : Joy Williams (BMI) - EMI Blackwood Music Inc. / Here's To Me Music (BMI) Mark Anthony Spears (Sounwave) : Mark Anthony Spears (ASCAP) - Sony/ATV Allegro / Beat Bully Productions (ASCAP)  Recorded at Electric Lady Studios in New York, NY. Additional recording at Rough Consumer Studio in Brooklyn, NY and Compound Fracture in Los Angeles, CA.  Runouts: 'LVR00224-A-REI RJ' and 'LVR00224-B RJ' are etched, everything else is stamped. |
-| Discogs URL    | [St. Vincent - Masseduction](https://www.discogs.com/release/10987228-St-Vincent-Masseduction) |
+| Notes | ℗ & © 2017 Lorna Vista Recordings / Concord Music Group Inc<br><br>Housed in a 2 colour screen printed PVC sleeve, 24" x 24" foldout poster, sticker sheet, download code card and 28-page A4 booklet.<br><br>'Dancing With A Ghost' listed as 'Slow Disco Interlude' on the printed PVC sleeve.<br><br>Made in Czech Republic.<br><br>Publishing<br>Annie Clark : Big Deal Notes / Nail Polish Manifesto Music (ASCAP) All Rights administered by Words & Music<br>Jack Antonoff : Sony/ATV Songs LLC / Ducky Donath Music (BMI)<br>Joy Williams : Joy Williams (BMI) - EMI Blackwood Music Inc. / Here's To Me Music (BMI)<br>Mark Anthony Spears (Sounwave) : Mark Anthony Spears (ASCAP) - Sony/ATV Allegro / Beat Bully Productions (ASCAP)<br><br>Recorded at Electric Lady Studios in New York, NY. Additional recording at Rough Consumer Studio in Brooklyn, NY and Compound Fracture in Los Angeles, CA.<br><br>Runouts:<br>'LVR00224-A-REI RJ' and 'LVR00224-B RJ' are etched, everything else is stamped. |
+| Discogs URL    | [St Vincent - Masseduction](https://www.discogs.com/release/10987228-St-Vincent-Masseduction) |

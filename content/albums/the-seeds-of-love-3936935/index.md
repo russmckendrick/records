@@ -4,6 +4,7 @@ artist_name: "Tears For Fears"
 artist: "tears-for-fears"
 album_name: "The Seeds Of Love"
 date: 2016-03-20T10:57:46.000000Z
+release_date: "1989-09-25"
 release_id: "3936935"
 slug: "the-seeds-of-love-3936935"
 hideSummary: true
@@ -27,36 +28,28 @@ The Seeds of Love was an international success, entering the UK Albums Chart at 
 In October 2020, the remastered reissue of The Seeds of Love was released in several formats including a super deluxe edition, with B-sides, remixes, and a 5.1 surround sound mix.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Woman In Chains
-2. Badman's Song
-3. Sowing The Seeds Of Love
-4. Advice For The Young At Heart
-5. Standing On The Corner Of The Third World
-6. Swords And Knives
-7. Year Of The Knife
-8. Famous Last Words
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Woman In Chains |  |
+| A2 | Badman's Song |  |
+| A3 | Sowing The Seeds Of Love |  |
+| A4 | Advice For The Young At Heart |  |
+| B1 | Standing On The Corner Of The Third World |  |
+| B2 | Swords And Knives |  |
+| B3 | Year Of The Knife |  |
+| B4 | Famous Last Words |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-seeds-of-love/1527554451" >}}<br>
 
 
-## Videos
-### Woman In Chains
-{{< youtube id="QCocz5p4kvk" title="Woman In Chains" >}}<br>
-### More Videos
-
-- [Badmans Song](https://www.youtube.com/watch?v=92FRHjqY-WI)
-- [Sowing The Seeds Of Love](https://www.youtube.com/watch?v=XEQKy8g5UK4)
-- [Advice For The Young At Heart](https://www.youtube.com/watch?v=0aI19OorlVw)
-- [Standing On The Corner Of The Third World](https://www.youtube.com/watch?v=BxpAsZxd3pE)
-- [Swords And Knives](https://www.youtube.com/watch?v=85lQg1HhniU)
-- [Year Of The Knife](https://www.youtube.com/watch?v=UdcJOZqRTFM)
-- [Famous Last Words](https://www.youtube.com/watch?v=Z4bKHQYQ8Ck)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +61,5 @@ In October 2020, the remastered reissue of The Seeds of Love was released in sev
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Remastered Special Edition Stereo (Gatefold) |
 | Label          | Mobile Fidelity Sound Lab |
 | Catalog Number | MOFI 1-034 |
-| Notes | Comes in a single pocket gatefold jacket with bi-fold protective packaging, which doubles as a catalog, around the MOFI Original Master inner sleeve. The gatefold interior has lyrics and credits. The number is in gold in the white rectangle below 'Special Limited Edition' on the back cover.  Standard weight audiophile quality vinyl, 140gram.  1/2" / 30 IPS analog copy to analog console to lathe  [Back cover and labels] ℗ & © 1989 Mercury Records Limited. Manufactured by Universal Music Enterprises, a division of UMG Recordings Inc.  [Back cover] Special limited edition. Mastered on "The Gain 2 Ultra Analog System™"  Runouts are etched. |
+| Notes | Comes in a single pocket gatefold jacket with bi-fold protective packaging, which doubles as a catalog, around the MOFI Original Master inner sleeve. The gatefold interior has lyrics and credits. The number is in gold in the white rectangle below 'Special Limited Edition' on the back cover.<br><br>Standard weight audiophile quality vinyl, 140gram.<br><br>1/2" / 30 IPS analog copy to analog console to lathe<br><br>[Back cover and labels]<br>℗ & © 1989 Mercury Records Limited. Manufactured by Universal Music Enterprises, a division of UMG Recordings Inc.<br><br>[Back cover]<br>Special limited edition.<br>Mastered on "The Gain 2 Ultra Analog System™"<br><br>Runouts are etched. |
 | Discogs URL    | [Tears For Fears - The Seeds Of Love](https://www.discogs.com/release/3936935-Tears-For-Fears-The-Seeds-Of-Love) |

@@ -4,6 +4,7 @@ artist_name: "Metallica"
 artist: "metallica"
 album_name: "Ride The Lightning"
 date: 2023-12-05T10:35:17.000000Z
+release_date: "2021-11-12"
 release_id: "29071198"
 slug: "ride-the-lightning-29071198"
 hideSummary: true
@@ -32,36 +33,28 @@ Although rooted in the thrash metal genre, the album showcased the band's musica
 Ride the Lightning received a highly positive response from music critics, who saw it as a more ambitious effort than its predecessor. Metallica promoted the album on the Bang That Head That Doesn't Bang European tour in late 1984, and on its North American leg in the first half of 1985. The band performed at major music festivals such as Monsters of Rock and Day on the Green later that year. Two months after its release, Elektra Records signed Metallica to a multi-year deal and reissued the album. Ride the Lightning peaked at number 100 on the Billboard 200 with virtually no radio exposure. Although 75,000 copies were initially pressed for the American market, the album sold half a million by November 1987. It was certified 6× platinum by the Recording Industry Association of America (RIAA) in 2012 for shipping six million copies in the United States. Many rock publications have ranked Ride the Lightning on their best album lists, saying it had a lasting impact on thrash metal.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Fight Fire With Fire (4:44)
-2. Ride The Lightning (6:36)
-3. For Whom The Bell Tolls (5:10)
-4. Fade To Black (6:56)
-5. Trapped Under Ice (4:03)
-6. Escape (4:23)
-7. Creeping Death (6:36)
-8. The Call Of Ktulu (8:52)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fight Fire With Fire | 4:44 |
+| A2 | Ride The Lightning | 6:36 |
+| A3 | For Whom The Bell Tolls | 5:10 |
+| A4 | Fade To Black | 6:56 |
+| B1 | Trapped Under Ice | 4:03 |
+| B2 | Escape | 4:23 |
+| B3 | Creeping Death | 6:36 |
+| B4 | The Call Of Ktulu | 8:52 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ride-the-lightning-single/1592736234" >}}<br>
 
 
-## Videos
-### Ride The Lightning Remastered
-{{< youtube id="DVOImtJY7po" title="Ride The Lightning Remastered" >}}<br>
-### More Videos
-
-- [Fight Fire With Fire Remastered](https://www.youtube.com/watch?v=8zSODUOoE8w)
-- [For Whom The Bell Tolls Remastered](https://www.youtube.com/watch?v=B_HSa1dEL9s)
-- [Fade To Black Remastered](https://www.youtube.com/watch?v=9HZ_tx8aWuA)
-- [Trapped Under Ice Remastered](https://www.youtube.com/watch?v=bhH5M_HH2k4)
-- [Escape Remastered](https://www.youtube.com/watch?v=kGYD3hkCPAc)
-- [Creeping Death Remastered](https://www.youtube.com/watch?v=X8OeBZQn3_w)
-- [The Call Of Ktulu Remastered](https://www.youtube.com/watch?v=3vSH9pMzHm0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +66,5 @@ Ride the Lightning received a highly positive response from music critics, who s
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Repress (Blue [Electric Blue]) |
 | Label          | Blackened |
 | Catalog Number | BLCKND004R-1U |
-| Notes | Includes two-sided full color insert with lyrics and a digital download card. No mention of enclosed download on hype-sticker. Sticker on back cover : Made in Germany & it's also printed at the bottom of the back cover. |
+| Notes | Includes two-sided full color insert with lyrics and a digital download card. No mention of enclosed download on hype-sticker.<br>Sticker on back cover : Made in Germany & it's also printed at the bottom of the back cover. |
 | Discogs URL    | [Metallica - Ride The Lightning](https://www.discogs.com/release/29071198-Metallica-Ride-The-Lightning) |

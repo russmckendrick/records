@@ -1,9 +1,10 @@
 ---
 title: "Oasis - The Masterplan"
 artist_name: "Oasis"
-artist: "oasis-2"
+artist: "oasis"
 album_name: "The Masterplan"
 date: 2017-04-22T09:59:49.000000Z
+release_date: "1998-11-03"
 release_id: "1826939"
 slug: "the-masterplan-1826939"
 hideSummary: true
@@ -31,29 +32,32 @@ styles: ["Britpop"]
 The Masterplan is a compilation album by the English rock band Oasis. It was released on 2 November 1998 by Creation Records and was the band's final release through the label. The album comprises B-sides that the band had not previously included on an album. Initially intended for release only in regions such as the United States and Japan, where the tracks were previously available only on expensive European-import singles, The Masterplan reached number 2 in the UK, where it initially went platinum, and number 51 in the United States. However, it reached the Top 20 in various charts worldwide, selling 3 million copies. It has since been certified triple platinum in the UK. Four songs from the album appear on the 2006 compilation album Stop the Clocks.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Acquiesce (4:24)
-2. Underneath The Sky (3:21)
-3. Talk Tonight (4:21)
-4. Going Nowhere (4:39)
-5. Fade Away (4:13)
-6. The Swamp Song (4:19)
-7. I Am The Walrus (Live) (6:25)
-8. Listen Up (6:21)
-9. Rockin' Chair (4:35)
-10. Half The World Away (4:21)
-11. (It's Good) To Be Free (4:18)
-12. Stay Young (5:05)
-13. Headshrinker (4:38)
-14. The Masterplan (5:22)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Acquiesce | 4:24 |
+| A2 | Underneath The Sky | 3:21 |
+| A3 | Talk Tonight | 4:21 |
+| A4 | Going Nowhere | 4:39 |
+| B1 | Fade Away | 4:13 |
+| B2 | The Swamp Song | 4:19 |
+| B3 | I Am The Walrus (Live) | 6:25 |
+| C1 | Listen Up | 6:21 |
+| C2 | Rockin' Chair | 4:35 |
+| C3 | Half The World Away | 4:21 |
+| D1 | (It's Good) To Be Free | 4:18 |
+| D2 | Stay Young | 5:05 |
+| D3 | Headshrinker | 4:38 |
+| D4 | The Masterplan | 5:22 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-masterplan/1517453693" >}}<br>
-
 
 
 
@@ -67,5 +71,5 @@ The Masterplan is a compilation album by the English rock band Oasis. It was rel
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Creation Records |
 | Catalog Number | CRELP 241 |
-| Notes | Gatefold sleeve.  Track durations not shown on release.  Comes with a circular sticker on the sleeve which reads: CRELP241 Oasis The Masterplan Includes The Tracks 'The Masterplan' 'Acquiesce' 'Stay Young'.  ℗ & © 1998 Creation Records Ltd.  |
+| Notes | Gatefold sleeve.<br>Track durations not shown on release.<br>Comes with a circular sticker on the sleeve which reads: CRELP241 Oasis The Masterplan Includes The Tracks 'The Masterplan' 'Acquiesce' 'Stay Young'.<br>℗ & © 1998 Creation Records Ltd.  |
 | Discogs URL    | [Oasis - The Masterplan](https://www.discogs.com/release/1826939-Oasis-2-The-Masterplan) |

@@ -4,6 +4,7 @@ artist_name: "Jesus Jones"
 artist: "jesus-jones"
 album_name: "Perverse"
 date: 2022-11-03T13:59:17.000000Z
+release_date: "1993"
 release_id: "25037878"
 slug: "perverse-25037878"
 hideSummary: true
@@ -26,44 +27,32 @@ According to Trouser Press, Perverse "enjoys the historical distinction of being
 Upon its release, Perverse peaked at number 6 on the UK Albums Chart and was the start of the band's declining fortunes, although it still yielded three top 40 singles, "The Devil You Know", which also reached number 1 on the Modern Rock Tracks Chart, "The Right Decision" and "Zeroes and Ones" still making the album quite successful. The album received both mixed and positive reviews at the time, with some critics finding the album's production clattered, but later reviews have been more favourable, and some have posed the album as the band's best work. An extensive deluxe edition of the album was released in November 2014.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Zeroes And Ones (3:24)
-2. The Devil You Know (4:31)
-3. Get A Good Thing (3:23)
-4. From Love To War (3:49)
-5. Yellow Brown (3:23)
-6. Magazine (2:46)
-7. The Right Decision (3:36)
-8. Your Crusade (3:30)
-9. Dont Believe It (3:45)
-10. Tongue Tied (3:16)
-11. Spiral (4:30)
-12. Idiot Stare (5:10)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Zeroes And Ones | 3:24 |
+| A2 | The Devil You Know | 4:31 |
+| A3 | Get A Good Thing | 3:23 |
+| A4 | From Love To War | 3:49 |
+| A5 | Yellow Brown | 3:23 |
+| A6 | Magazine | 2:46 |
+| B1 | The Right Decision | 3:36 |
+| B2 | Your Crusade | 3:30 |
+| B3 | Dont Believe It | 3:45 |
+| B4 | Tongue Tied | 3:16 |
+| B5 | Spiral | 4:30 |
+| B6 | Idiot Stare | 5:10 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/perverse/692116461" >}}<br>
 
 
-## Videos
-### Zeroes And Ones - Jesus Jones
-{{< youtube id="2s_UjdsMoPk" title="Zeroes And Ones - Jesus Jones" >}}<br>
-### More Videos
-
-- [The Devil You Know - Jesus Jones](https://www.youtube.com/watch?v=wewIoLusKP8)
-- [Get A Good Thing](https://www.youtube.com/watch?v=MSlkl3ozIq4)
-- [From Love To War](https://www.youtube.com/watch?v=XgGF3SwynZs)
-- [Yellow Brown](https://www.youtube.com/watch?v=P0ygGaVFGFA)
-- [Magazine](https://www.youtube.com/watch?v=EsOawfkUwSw)
-- [The Right Decision](https://www.youtube.com/watch?v=KaSIMyfzU7s)
-- [Your Crusade](https://www.youtube.com/watch?v=x40Wg4whKrI)
-- [Dont Believe It](https://www.youtube.com/watch?v=CBlv0bo0JFI)
-- [Tongue Tied](https://www.youtube.com/watch?v=Jfl9kQUxNgE)
-- [Spiral](https://www.youtube.com/watch?v=tmaIqBto_fQ)
-- [Idiot Stare](https://www.youtube.com/watch?v=pSER4yejfBo)
 
 ## Release Images
 {{< imageGrid >}}

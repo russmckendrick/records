@@ -4,6 +4,7 @@ artist_name: "Devin Townsend"
 artist: "devin-townsend"
 album_name: "Acoustically Inclined, Live In Leeds"
 date: 2021-03-19T07:20:43.000000Z
+release_date: "2021-03-19"
 release_id: "17911327"
 slug: "acoustically-inclined-live-in-leeds-17911327"
 hideSummary: true
@@ -22,49 +23,41 @@ styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Intro
-2. Let It Roll
-3. Funeral
-4. Deadhead
-5. Ih-Ah!
-6. Love?
-7. Hyperdrive
-8. Terminal
-9. Coast
-10. Solar Winds
-11. Thing Beyond Things
-12. Intro
-13. Let It Roll
-14. Funeral
-15. Deadhead
-16. Ih-Ah!
-17. Love?
-18. Hyperdrive
-19. Terminal
-20. Coast
-21. Solar Winds
-22. Thing Beyond Things
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Intro |  |
+| A2 | Let It Roll |  |
+| A3 | Funeral |  |
+| B1 | Deadhead |  |
+| B2 | Ih-Ah! |  |
+| C1 | Love? |  |
+| C2 | Hyperdrive |  |
+| C3 | Terminal |  |
+| D1 | Coast |  |
+| D2 | Solar Winds |  |
+| D3 | Thing Beyond Things |  |
+| CD-1 | Intro |  |
+| CD-2 | Let It Roll |  |
+| CD-3 | Funeral |  |
+| CD-4 | Deadhead |  |
+| CD-5 | Ih-Ah! |  |
+| CD-6 | Love? |  |
+| CD-7 | Hyperdrive |  |
+| CD-8 | Terminal |  |
+| CD-9 | Coast |  |
+| CD-10 | Solar Winds |  |
+| CD-11 | Thing Beyond Things |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/devolution-series-1-acoustically-inclined-live-in-leeds/1550169842" >}}<br>
 
 
-## Videos
-### DEVIN TOWNSEND - Hyperdrive Acoustic - Live in Leeds 2019 OFFICIAL VIDEO
-{{< youtube id="H45yG8FzpkQ" title="DEVIN TOWNSEND - Hyperdrive Acoustic - Live in Leeds 2019 OFFICIAL VIDEO" >}}<br>
-### More Videos
-
-- [Deadhead Acoustic - Live in Leeds 2019](https://www.youtube.com/watch?v=Mn3ZaLRYqG8)
-- [Love Acoustic - Live in Leeds 2019](https://www.youtube.com/watch?v=7R8LbdIhb-g)
-- [Funeral Acoustic - Live in Leeds 2019](https://www.youtube.com/watch?v=mZ_xXGLwu0c)
-- [Ih-Ah Acoustic - Live in Leeds 2019](https://www.youtube.com/watch?v=XtR4tnbHc-o)
-- [DEVIN TOWNSEND - Hyperdrive Acoustic - Live in Leeds 2019 OFFICIAL VIDEO](https://www.youtube.com/watch?v=H45yG8FzpkQ)
-- [Deadhead Acoustic - Live in Leeds 2019](https://www.youtube.com/watch?v=Mn3ZaLRYqG8)
-- [Love Acoustic - Live in Leeds 2019](https://www.youtube.com/watch?v=7R8LbdIhb-g)
-- [Funeral Acoustic - Live in Leeds 2019](https://www.youtube.com/watch?v=mZ_xXGLwu0c)
-- [Ih-Ah Acoustic - Live in Leeds 2019](https://www.youtube.com/watch?v=XtR4tnbHc-o)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +68,5 @@ styles: ["Acoustic", "Progressive Metal", "Heavy Metal"]
 | Format         | Vinyl 2× LP Album Remastered Stereo (180g), CD Album Remastered, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 586 |
-| Notes | Black vinyl edition.  Recorded on April 27th, 2019 at City Varieties Music Hall in Leeds, United Kingdom. |
+| Notes | Black vinyl edition.<br><br>Recorded on April 27th, 2019 at City Varieties Music Hall in Leeds, United Kingdom. |
 | Discogs URL    | [Devin Townsend - Acoustically Inclined, Live In Leeds](https://www.discogs.com/release/17911327-Devin-Townsend-Acoustically-Inclined-Live-In-Leeds) |

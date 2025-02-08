@@ -4,6 +4,7 @@ artist_name: "Rush"
 artist: "rush"
 album_name: "Vapor Trails Remixed"
 date: 2015-12-14T17:05:45.000000Z
+release_date: "2002-05-14"
 release_id: "5005939"
 slug: "vapor-trails-remixed-5005939"
 hideSummary: true
@@ -29,29 +30,31 @@ styles: ["Prog Rock", "Hard Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. One Little Victory (5:09)
-2. Ceiling Unlimited (5:28)
-3. Ghost Rider (5:42)
-4. Peaceable Kingdom (5:23)
-5. The Stars Look Down (4:29)
-6. How It Is (4:06)
-7. Vapor Trail (4:58)
-8. Secret Touch (6:35)
-9. Earthshine (5:38)
-10. Sweet Miracle (3:41)
-11. Nocturne (4:49)
-12. Freeze - Part IV Of "Fear" (6:22)
-13. Out Of The Cradle (5:04)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | One Little Victory | 5:09 |
+| A2 | Ceiling Unlimited | 5:28 |
+| A3 | Ghost Rider | 5:42 |
+| B1 | Peaceable Kingdom | 5:23 |
+| B2 | The Stars Look Down | 4:29 |
+| B3 | How It Is | 4:06 |
+| B4 | Vapor Trail | 4:58 |
+| C1 | Secret Touch | 6:35 |
+| C2 | Earthshine | 5:38 |
+| C3 | Sweet Miracle | 3:41 |
+| D1 | Nocturne | 4:49 |
+| D2 | Freeze - Part IV Of "Fear" | 6:22 |
+| D3 | Out Of The Cradle | 5:04 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vapor-trails-remixed/708140941" >}}<br>
 
-
-## Videos
-### Vapor Trail 2013 Remix
-{{< youtube id="RgU16jrZjvY" title="Vapor Trail 2013 Remix" >}}<br>
 
 
 ## Release Images
@@ -63,5 +66,5 @@ styles: ["Prog Rock", "Hard Rock"]
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | Atlantic |
 | Catalog Number | 8122796441 |
-| Notes | Recorded at Reaction Studios, Toronto, January to November, 2001 © 2002 Core Music Publishing (SOCAN) ℗ & © 2013 Atlantic Recording Corporation & Anthem Entertainment.  Single sleeve with two-sided insert.  EU version of this release pressed at Optimal Media GmbH in Germany.  Matrix runouts include matrix numbers for RTI ([l66254]), which suggests that plating was done there.  Printed in E.U. (on labels and sleeve).  Some copies have Made In Germany sticker directly on the rear sleeve.  Runouts are etched except for "MASTERDISK", which is stamped. |
+| Notes | Recorded at Reaction Studios, Toronto, January to November, 2001<br>© 2002 Core Music Publishing (SOCAN)<br>℗ & © 2013 Atlantic Recording Corporation & Anthem Entertainment.<br><br>Single sleeve with two-sided insert.<br><br>EU version of this release pressed at Optimal Media GmbH in Germany.  Matrix runouts include matrix numbers for RTI ([l66254]), which suggests that plating was done there.<br><br>Printed in E.U. (on labels and sleeve).<br><br>Some copies have Made In Germany sticker directly on the rear sleeve.<br><br>Runouts are etched except for "MASTERDISK", which is stamped. |
 | Discogs URL    | [Rush - Vapor Trails Remixed](https://www.discogs.com/release/5005939-Rush-Vapor-Trails-Remixed) |

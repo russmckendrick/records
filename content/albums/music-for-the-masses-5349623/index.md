@@ -4,6 +4,7 @@ artist_name: "Depeche Mode"
 artist: "depeche-mode"
 album_name: "Music For The Masses"
 date: 2016-05-24T17:39:18.000000Z
+release_date: "1987-09-28"
 release_id: "5349623"
 slug: "music-for-the-masses-5349623"
 hideSummary: true
@@ -29,40 +30,30 @@ Considered one of the band's best albums, Music for the Masses was included in t
 It was preceded by the singles "Strangelove", released on 13 April, "Never Let Me Down Again", released on 24 August. Two other singles followed the release of the album, one being "Behind the Wheel", released 28 December, and the other being "Little 15", which was released on 16 May the following year.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Never Let Me Down Again (4:47)
-2. The Things You Said (3:55)
-3. Strangelove (4:38)
-4. Sacred (5:01)
-5. Little 15 (4:14)
-6. Behind The Wheel (5:17)
-7. I Want You Now (3:28)
-8. To Have And To Hold (3:08)
-9. Nothing (4:12)
-10. Pimpf (3:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Never Let Me Down Again | 4:47 |
+| A2 | The Things You Said | 3:55 |
+| A3 | Strangelove | 4:38 |
+| A4 | Sacred | 5:01 |
+| A5 | Little 15 | 4:14 |
+| B1 | Behind The Wheel | 5:17 |
+| B2 | I Want You Now | 3:28 |
+| B3 | To Have And To Hold | 3:08 |
+| B4 | Nothing | 4:12 |
+| B5 | Pimpf | 3:56 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/music-for-the-masses/665403347" >}}<br>
 
 
-## Videos
-### Depeche Mode - Behind The Wheel Official Video
-{{< youtube id="VEAuMiKqP-4" title="Depeche Mode - Behind The Wheel Official Video" >}}<br>
-### More Videos
-
-- [Never Let Me Down Again](https://www.youtube.com/watch?v=xORPrLjiIyQ)
-- [The Things You Said](https://www.youtube.com/watch?v=0r0mjPctuoE)
-- [Depeche Mode - Strangelove Remastered](https://www.youtube.com/watch?v=JIrm0dHbCDU)
-- [Sacred](https://www.youtube.com/watch?v=bWsda-qXUm8)
-- [Little 15](https://www.youtube.com/watch?v=YOoQYOKHUvo)
-- [I Want You Now](https://www.youtube.com/watch?v=IfuD44g-DaI)
-- [To Have and to Hold](https://www.youtube.com/watch?v=_5_EfcsPtCY)
-- [Nothing](https://www.youtube.com/watch?v=4Xcbz7jT7-0)
-- [Pimpf](https://www.youtube.com/watch?v=JPLKem4OYYo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +65,5 @@ It was preceded by the singles "Strangelove", released on 13 April, "Never Let M
 | Format         | Vinyl LP Album Remastered (180 Gram, Gatefold) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP942 |
-| Notes | Released in a spot gloss printed sleeve contained in a resealable plastic sleeve with info sticker.. Includes 12"x12" insert.  ℗+© 1987 Venusnote Limited / Mute Records Limited, a BMG company, under exclusive license to Music On Vinyl B.V. / Sony Music Entertainment Netherlands B.V.   Published by EMI Music Publishing Ltd. assigned by Grabbing Hands Music Ltd.   Recorded at Studio Guillaume Tell, Paris and Konk, London. Mixed at PUK Studios, Denmark. Remastered at Super Audio Mastering.  Design & Artwork Photography at T&CP Assoc.  |
+| Notes | Released in a spot gloss printed sleeve contained in a resealable plastic sleeve with info sticker.. Includes 12"x12" insert.<br><br>℗+© 1987 Venusnote Limited / Mute Records Limited, a BMG company, under exclusive license to Music On Vinyl B.V. / Sony Music Entertainment Netherlands B.V. <br><br>Published by EMI Music Publishing Ltd. assigned by Grabbing Hands Music Ltd. <br><br>Recorded at Studio Guillaume Tell, Paris and Konk, London. Mixed at PUK Studios, Denmark. Remastered at Super Audio Mastering.<br><br>Design & Artwork Photography at T&CP Assoc.<br> |
 | Discogs URL    | [Depeche Mode - Music For The Masses](https://www.discogs.com/release/5349623-Depeche-Mode-Music-For-The-Masses) |

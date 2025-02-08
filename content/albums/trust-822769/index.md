@@ -1,16 +1,17 @@
 ---
-title: "Ned's Atomic Dustbin - Trust"
-artist_name: "Ned's Atomic Dustbin"
-artist: "ned-s-atomic-dustbin"
+title: "Neds Atomic Dustbin - Trust"
+artist_name: "Neds Atomic Dustbin"
+artist: "neds-atomic-dustbin"
 album_name: "Trust"
 date: 2018-02-15T19:24:32.000000Z
+release_date: "2007-05-01"
 release_id: "822769"
 slug: "trust-822769"
 hideSummary: true
 cover:
     image: "trust-822769.jpg"
-    alt: "Trust by Ned's Atomic Dustbin"
-    caption: "Trust by Ned's Atomic Dustbin"
+    alt: "Trust by Neds Atomic Dustbin"
+    caption: "Trust by Neds Atomic Dustbin"
 additional_images:
     - "https://i.discogs.com/n_DO6uI9jTlpTJp6_bUxNvTc1rSIG4HfwxPn2le2HXQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjc2/OS0xMzk2Mjg2MDIw/LTQyNzUuanBlZw.jpeg"
     - "https://i.discogs.com/xTCaE0liy6AI0KH1_31Qc2lOTc5rjn6uYjZIWJ9j1DM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjc2/OS0xMzk2Mjg2MDI1/LTg5MTkuanBlZw.jpeg"
@@ -23,26 +24,22 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Trust
-2. Faceless
-3. Titch
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Trust |  |
+| B1 | Faceless |  |
+| B2 | Titch |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/some-furtive-years-a-neds-anthology/303852462" >}}<br>
 
 
-## Videos
-### Neds Atomic Dustbin - Trust
-{{< youtube id="yPCQ_D7GTgU" title="Neds Atomic Dustbin - Trust" >}}<br>
-### More Videos
-
-- [Neds Atomic Dustbin - Faceless HD](https://www.youtube.com/watch?v=-sbuANFW8qE)
-- [Neds Atomic Dustbin - Titch](https://www.youtube.com/watch?v=pAI6J3l8Vlw)
-- [Neds Atomic Dustbin - Trust](https://www.youtube.com/watch?v=yPCQ_D7GTgU)
-- [Neds Atomic Dustbin - Faceless HD](https://www.youtube.com/watch?v=-sbuANFW8qE)
-- [Neds Atomic Dustbin - Titch](https://www.youtube.com/watch?v=pAI6J3l8Vlw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -53,5 +50,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 12" 45 RPM |
 | Label          | Sony Soho Square |
 | Catalog Number | 657462 6 |
-| Notes | Released with printed inner sleeve.    Recorded at Rockfield Studios, Gwent, in early July 1991.    Original sound recording made by Sony Music Entertainment (UK) Ltd.  ℗ © Sony Music Entertainment (UK) Ltd.  Distribution Sony Music.   |
-| Discogs URL    | [Ned's Atomic Dustbin - Trust](https://www.discogs.com/release/822769-Neds-Atomic-Dustbin-Trust) |
+| Notes | Released with printed inner sleeve.<br><br>Recorded at Rockfield Studios, Gwent, in early July 1991.<br><br>Original sound recording made by Sony Music Entertainment (UK) Ltd.<br>℗ © Sony Music Entertainment (UK) Ltd.<br>Distribution Sony Music.<br> |
+| Discogs URL    | [Neds Atomic Dustbin - Trust](https://www.discogs.com/release/822769-Neds-Atomic-Dustbin-Trust) |

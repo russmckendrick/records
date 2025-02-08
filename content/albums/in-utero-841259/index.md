@@ -4,6 +4,7 @@ artist_name: "Nirvana"
 artist: "nirvana"
 album_name: "In Utero"
 date: 2016-10-15T11:15:32.000000Z
+release_date: "2002-10-29"
 release_id: "841259"
 slug: "in-utero-841259"
 hideSummary: true
@@ -28,31 +29,31 @@ The album was recorded over two weeks in February 1993 at Pachyderm Studio in Ca
 In Utero was a major critical and commercial success upon release. Critics praised the album's raw, unconventional sound and Cobain's lyricism. It reached number one on the US Billboard 200 and UK Albums Chart; "Heart-Shaped Box" and "All Apologies" reached number one on the Billboard Alternative Songs chart. The album has been certified 6× Platinum in the US for 6 million sales and has sold 15 million copies worldwide. It was the final Nirvana album released before Cobain's suicide in 1994, six months after the album's release. "Pennyroyal Tea", planned as a single prior to Cobain's death, was released in 2014 and reached number one on the now-defunct Billboard Hot 100 Singles Sales chart.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Serve The Servants (3:34)
-2. Scentless Apprentice (3:47)
-3. Heart-Shaped Box (4:39)
-4. Rape Me (2:49)
-5. Frances Farmer Will Have Her Revenge On Seattle (4:07)
-6. Dumb (2:29)
-7. Very Ape (1:55)
-8. Milk It (3:52)
-9. Pennyroyal Tea (3:36)
-10. Radio Friendly Unit Shifter (4:49)
-11. Tourette's (1:33)
-12. All Apologies (3:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Serve The Servants | 3:34 |
+| A2 | Scentless Apprentice | 3:47 |
+| A3 | Heart-Shaped Box | 4:39 |
+| A4 | Rape Me | 2:49 |
+| A5 | Frances Farmer Will Have Her Revenge On Seattle | 4:07 |
+| A6 | Dumb | 2:29 |
+| B1 | Very Ape | 1:55 |
+| B2 | Milk It | 3:52 |
+| B3 | Pennyroyal Tea | 3:36 |
+| B4 | Radio Friendly Unit Shifter | 4:49 |
+| B5 | Tourette's | 1:33 |
+| B6 | All Apologies | 3:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nirvana/1413920644" >}}<br>
 
-
-## Videos
-### Serve The Servants
-{{< youtube id="GrLUUVfKeUw" title="Serve The Servants" >}}<br>
 
 
 ## Release Images
@@ -65,5 +66,5 @@ In Utero was a major critical and commercial success upon release. Critics prais
 | Format         | Vinyl LP Album Reissue |
 | Label          | Geffen Records |
 | Catalog Number | 424 536-1 |
-| Notes | Comes with an insert. Matte cover. Generic die-cut inner sleeve.  Mastered at Gateway Mastering, Portland, Maine.  "Gallons Of Rubbing Alcohol Flow Through The Strip" is not included in the track list - only mentioned in the credits section of the insert.  This Universal UK/Geffen release was cut from a different set of master tapes and is the Steve Albini original, unaltered mix of the album. This is confirmed by the Deluxe box set edition released many years later having those mixes as bonus tracks. Some copies of this UK pressing included a hype sticker that states "Re-release von Original-Bändern" which translates to "Re-release from original tapes."  The same stampers from this reissue are used in 2015's [r=7545132] reissue.  ℗&© 1993 Geffen Records, Inc. Universal Music (UK) Ltd. are the exclusive licencees for the UK.  All songs published by The End Of The Music/EMI Virgin Music Ltd.  Made in the EU.  From liner notes Suggested Bass and Treble positions: B: 2. T: 5. |
+| Notes | Comes with an insert.<br>Matte cover.<br>Generic die-cut inner sleeve.<br><br>Mastered at Gateway Mastering, Portland, Maine.<br><br>"Gallons Of Rubbing Alcohol Flow Through The Strip" is not included in the track list - only mentioned in the credits section of the insert.<br><br>This Universal UK/Geffen release was cut from a different set of master tapes and is the Steve Albini original, unaltered mix of the album. This is confirmed by the Deluxe box set edition released many years later having those mixes as bonus tracks.<br>Some copies of this UK pressing included a hype sticker that states "Re-release von Original-Bändern" which translates to "Re-release from original tapes."<br><br>The same stampers from this reissue are used in 2015's [r=7545132] reissue.<br><br>℗&© 1993 Geffen Records, Inc.<br>Universal Music (UK) Ltd. are the exclusive licencees for the UK.<br><br>All songs published by The End Of The Music/EMI Virgin Music Ltd.<br><br>Made in the EU.<br><br>From liner notes<br>Suggested Bass and Treble positions:<br>B: 2.<br>T: 5. |
 | Discogs URL    | [Nirvana - In Utero](https://www.discogs.com/release/841259-Nirvana-In-Utero) |

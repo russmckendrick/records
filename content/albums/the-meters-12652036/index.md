@@ -33,38 +33,26 @@ While they rarely enjoyed significant mainstream success, they are considered or
 
 
 ## Tracklisting
-1. Cissy Strut (3:00)
-2. Here Comes The Meter Man (2:49)
-3. Cardova (4:30)
-4. Live Wire (2:35)
-5. Art (2:30)
-6. Sophisticated Cissy (2:50)
-7. Ease Back (2:55)
-8. 6V6 LA (2:20)
-9. Sehorns Farm (2:25)
-10. Ann (2:40)
-11. Stormy (3:32)
-12. Simple Song (2:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cissy Strut | 3:00 |
+| A2 | Here Comes The Meter Man | 2:49 |
+| A3 | Cardova | 4:30 |
+| A4 | Live Wire | 2:35 |
+| A5 | Art | 2:30 |
+| A6 | Sophisticated Cissy | 2:50 |
+| B1 | Ease Back | 2:55 |
+| B2 | 6V6 LA | 2:20 |
+| B3 | Sehorns Farm | 2:25 |
+| B4 | Ann | 2:40 |
+| B5 | Stormy | 3:32 |
+| B6 | Simple Song | 2:56 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-the-meters/213532006" >}}<br>
 
 
-## Videos
-### Cissy Strut
-{{< youtube id="Nd3yDoOyvbY" title="Cissy Strut" >}}<br>
-### More Videos
-
-- [Here Comes the Meter Man](https://www.youtube.com/watch?v=jEA4FiYZWaM)
-- [Cardova](https://www.youtube.com/watch?v=4kd3QuTexvM)
-- [Live Wire](https://www.youtube.com/watch?v=D9IGwqUAwdU)
-- [Art](https://www.youtube.com/watch?v=8vRRz62oJQ4)
-- [Sophisticated Cissy](https://www.youtube.com/watch?v=wEm_sj6k6lI)
-- [Ease Back](https://www.youtube.com/watch?v=oFaA816BUPg)
-- [6V6 LA](https://www.youtube.com/watch?v=4CNS2jYBsZw)
-- [Sehorns Farm](https://www.youtube.com/watch?v=54Ss8rnzCz8)
-- [Ann](https://www.youtube.com/watch?v=QGuL1qOKp4Q)
-- [Sing a Simple Song](https://www.youtube.com/watch?v=7VT9MTLEDWw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +64,5 @@ While they rarely enjoyed significant mainstream success, they are considered or
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2195 |
-| Notes | Tracks A1 to B4 published by Marsaint Music BMI.  B5 published by LowSal Music BMI. B6 published by Daly City Music BMI.   Josie Records/Nationally distributed by Jay-Gee Record Co., Inc.  A subsidiary of Jubilee Industries, Inc. 1790 Broadway, N.Y., N.Y. 10019   Originally released ℗ & © 1970 Josie Records.  Manufactured & distributed by Music On Vinyl B.V. 2018, under exclusive license from Warner Music Benelux B.V:, a Warner Music Group Company.   Comes with plastic protective LP outer sleeve with sticker "Music On Vinyl® Classic Album 180 gram audiophile vinyl pressing www.musiconvinyl.com" and black paper anti-static inner sleeve.  |
+| Notes | Tracks A1 to B4 published by Marsaint Music BMI. <br>B5 published by LowSal Music BMI.<br>B6 published by Daly City Music BMI. <br><br>Josie Records/Nationally distributed by Jay-Gee Record Co., Inc. <br>A subsidiary of Jubilee Industries, Inc. 1790 Broadway, N.Y., N.Y. 10019 <br><br>Originally released ℗ & © 1970 Josie Records. <br>Manufactured & distributed by Music On Vinyl B.V. 2018, under exclusive license from Warner Music Benelux B.V:, a Warner Music Group Company. <br><br>Comes with plastic protective LP outer sleeve with sticker "Music On Vinyl® Classic Album 180 gram audiophile vinyl pressing www.musiconvinyl.com" and black paper anti-static inner sleeve.  |
 | Discogs URL    | [The Meters - The Meters](https://www.discogs.com/release/12652036-The-Meters-The-Meters) |

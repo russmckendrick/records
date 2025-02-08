@@ -32,40 +32,24 @@ Prior to this album, Farnham's career had stalled after being recruited and then
 
 
 ## Tracklisting
-1. Pressure Down (3:45)
-2. You're The Voice (4:58)
-3. One Step Away (3:35)
-4. Reasons (4:23)
-5. Going, Going, Gone (3:31)
-6. No One Comes Close (4:06)
-7. Love To Shine (3:59)
-8. Trouble (3:25)
-9. A Touch Of Paradise (4:45)
-10. Let Me Out (4:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Pressure Down | 3:45 |
+| A2 | You're The Voice | 4:58 |
+| A3 | One Step Away | 3:35 |
+| A4 | Reasons | 4:23 |
+| A5 | Going, Going, Gone | 3:31 |
+| B1 | No One Comes Close | 4:06 |
+| B2 | Love To Shine | 3:59 |
+| B3 | Trouble | 3:25 |
+| B4 | A Touch Of Paradise | 4:45 |
+| B5 | Let Me Out | 4:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whispering-jack/270340388" >}}<br>
 
 
-## Videos
-### Pressure Down Music Video by John Farnham
-{{< youtube id="zIIcisbK3hE" title="Pressure Down Music Video by John Farnham" >}}<br>
-### More Videos
-
-- [Reasons Live from the Whispering Jack - 20th Anniversary Edition DVD](https://www.youtube.com/watch?v=RTQnCSMF8HI)
-- [One Step Away](https://www.youtube.com/watch?v=TevBky6WiSI)
-- [John Farnham - Pressure Down](https://www.youtube.com/watch?v=Emutat3_IP0)
-- [Pressure Down](https://www.youtube.com/watch?v=tF0gqm4uUNo)
-- [John Farnham - Whispering Jack In Concert full concert](https://www.youtube.com/watch?v=LEEVsxG5blQ)
-- [Love to Shine](https://www.youtube.com/watch?v=A0uOghhkgOw)
-- [A Touch of Paradise](https://www.youtube.com/watch?v=0Y2BCdIyaEs)
-- [Going Going Gone](https://www.youtube.com/watch?v=NbEOJjCeCFY)
-- [John Farnham - Youre the Voice](https://www.youtube.com/watch?v=tbkOZTSvrHs)
-- [John Farnham - Pressure Down](https://www.youtube.com/watch?v=Emutat3_IP0)
-- [A Touch of Paradise  John Farnham 1987](https://www.youtube.com/watch?v=RrQJBDqmyrs)
-- [John Farnham - Pressure Down  Whispering Jack 25th Anniversary  Qpac Brisbane  2nd November 2011](https://www.youtube.com/watch?v=0sRHzrNdNtc)
-- [HQ Coldplay- Youre The Voice with John Farnham Sound Relief Concert HQ](https://www.youtube.com/watch?v=19JN50bLKjY)
-- [Youre The Voice  John Farnham live at the Palais](https://www.youtube.com/watch?v=CcGP7FKWT80)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +61,5 @@ Prior to this album, Farnham's career had stalled after being recruited and then
 | Format         | Vinyl LP Album Stereo (boxed BIEM GEMA) |
 | Label          | RCA |
 | Catalog Number | PL71224 |
-| Notes | This release has a different layout on the center label as the [r=1152744] already in the database.  Printed in Germany  Ⓟ 1986 Wheatley Records, Pty. Ltd.  Printed inner sleeve with lyrics and credits. |
+| Notes | This release has a different layout on the center label as the [r=1152744] already in the database.<br><br>Printed in Germany<br><br>Ⓟ 1986 Wheatley Records, Pty. Ltd.<br><br>Printed inner sleeve with lyrics and credits. |
 | Discogs URL    | [John Farnham - Whispering Jack](https://www.discogs.com/release/1161865-John-Farnham-Whispering-Jack) |

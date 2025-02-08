@@ -4,6 +4,7 @@ artist_name: "James"
 artist: "james"
 album_name: "Living In Extraordinary Times "
 date: 2018-08-03T18:45:13.000000Z
+release_date: "2018-08-03"
 release_id: "12341469"
 slug: "living-in-extraordinary-times-12341469"
 hideSummary: true
@@ -33,40 +34,32 @@ Living in Extraordinary Times is the 15th studio album by British rock band Jame
 Living in Extraordinary Times received generally positive reviews from music critics, some of whom noted James' attempt to challenge listeners' expectations. It peaked at number six in the United Kingdom, while also charting in Belgium and Portugal. "Hank" was released as the lead single in May 2018, and was followed by a tour of the UK. The second single "Many Faces" was released in July of that year amid a series of festival performances. Continuous touring for the album, which consisted of both headlining tours and festival appearances, saw the band play shows across Australia, New Zealand, South Africa, Europe and the United States, including co-headlining tours with the Charlatans and the Psychedelic Furs.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Hank
-2. Coming Home (Pt.2)
-3. Leviathan
-4. Heads
-5. Many Faces
-6. How Hard The Day
-7. Extraordinary Times
-8. Picture Of This Place
-9. Hope To Sleep
-10. Better Than That
-11. Mask
-12. What's It All About
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hank |  |
+| A2 | Coming Home (Pt.2) |  |
+| A3 | Leviathan |  |
+| B1 | Heads |  |
+| B2 | Many Faces |  |
+| B3 | How Hard The Day |  |
+| C1 | Extraordinary Times |  |
+| C2 | Picture Of This Place |  |
+| C3 | Hope To Sleep |  |
+| D1 | Better Than That |  |
+| D2 | Mask |  |
+| D3 | What's It All About |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/living-in-extraordinary-times/1380830164" >}}<br>
 
 
-## Videos
-### James  HANK Official Audio
-{{< youtube id="v_Vf8dNikAk" title="James  HANK Official Audio" >}}<br>
-### More Videos
-
-- [James  Coming Home Pt2  Official Video](https://www.youtube.com/watch?v=u2OL2CHSs4Q)
-- [James - Extraordinary Times - Wembley Arena London - December 2018](https://www.youtube.com/watch?v=lB1V8fWWlH4)
-- [James  The making of  Living In Extraordinary Times](https://www.youtube.com/watch?v=2SQ_QhJpJM4)
-- [James  HANK Official Audio](https://www.youtube.com/watch?v=v_Vf8dNikAk)
-- [James  Coming Home Pt2  Official Video](https://www.youtube.com/watch?v=u2OL2CHSs4Q)
-- [James - Extraordinary Times - Wembley Arena London - December 2018](https://www.youtube.com/watch?v=lB1V8fWWlH4)
-- [James  The making of  Living In Extraordinary Times](https://www.youtube.com/watch?v=2SQ_QhJpJM4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +71,5 @@ Living in Extraordinary Times received generally positive reviews from music cri
 | Format         | Vinyl 2× LP Album Limited Edition (Magenta ) |
 | Label          | Infectious Music |
 | Catalog Number | INFECT438ELP1 |
-| Notes | Indie Stores Exclusive Magenta Coloured Vinyl Gatefold Jacket 180 Gram Vinyl Includes Download Code  |
+| Notes | Indie Stores Exclusive<br>Magenta Coloured Vinyl<br>Gatefold Jacket<br>180 Gram Vinyl<br>Includes Download Code  |
 | Discogs URL    | [James - Living In Extraordinary Times ](https://www.discogs.com/release/12341469-James-Living-In-Extraordinary-Times-) |

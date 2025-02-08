@@ -38,26 +38,22 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 
 
 ## Tracklisting
-1. Rhythm Of The Heat
-2. San Jacinto
-3. I Have The Touch
-4. The Family And The Fishing Net
-5. Shock The Monkey
-6. Lay Your Hands On Me
-7. Wallflower
-8. Kiss Of Life
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rhythm Of The Heat |  |
+| A2 | San Jacinto |  |
+| A3 | I Have The Touch |  |
+| A4 | The Family And The Fishing Net |  |
+| B1 | Shock The Monkey |  |
+| B2 | Lay Your Hands On Me |  |
+| B3 | Wallflower |  |
+| B4 | Kiss Of Life |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/peter-gabriel-1-car-remastered/986695072" >}}<br>
 
 
-## Videos
-### Peter Gabriel 4 - Security - full album - 1982
-{{< youtube id="azmTbQsE6kk" title="Peter Gabriel 4 - Security - full album - 1982" >}}<br>
-### More Videos
-
-- [Peter Gabriel on The South Bank Show 1982 Making of Security PG4](https://www.youtube.com/watch?v=scmYG1Pv1_Q)
-- [Shock The Monkey  Peter Gabriel  Security  1982 Geffen LP](https://www.youtube.com/watch?v=Nro3Egv3evM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +65,5 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 grams) |
 | Label          | Real World Records |
 | Catalog Number | PGLPR4 |
-| Notes | ℗ 2016 Peter Gabriel Ltd. © 2016 Peter Gabriel Ltd.  Half-Speed Remaster + Hi-Res Download Code.  Matrices in runouts are etched: "14551 1A 008841080041180" and "14551 1B 008841080041180" are stamped. |
+| Notes | ℗ 2016 Peter Gabriel Ltd.<br>© 2016 Peter Gabriel Ltd.<br><br>Half-Speed Remaster + Hi-Res Download Code.<br><br>Matrices in runouts are etched: "14551 1A 008841080041180" and "14551 1B 008841080041180" are stamped. |
 | Discogs URL    | [Peter Gabriel - Peter Gabriel ](https://www.discogs.com/release/9473573-Peter-Gabriel-Peter-Gabriel-) |

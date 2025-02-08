@@ -31,26 +31,25 @@ It’s strange that the 1986 fantasy film <i>Labyrinth</i> failed at the box off
 
 
 ## Tracklisting
-1. Opening Titles Including Underground (3:16)
-2. Into The Labyrinth (2:10)
-3. Magic Dance (4:13)
-4. Sarah (3:08)
-5. Chilly Down (3:43)
-6. Hallucination (3:00)
-7. As The World Falls Down (4:46)
-8. The Goblin Battle (3:27)
-9. Within You (3:28)
-10. Thirteen O'Clock (3:06)
-11. Home At Last (1:45)
-12. Underground (5:54)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Opening Titles Including Underground | 3:16 |
+| A2 | Into The Labyrinth | 2:10 |
+| A3 | Magic Dance | 4:13 |
+| A4 | Sarah | 3:08 |
+| A5 | Chilly Down | 3:43 |
+| A6 | Hallucination | 3:00 |
+| B1 | As The World Falls Down | 4:46 |
+| B2 | The Goblin Battle | 3:27 |
+| B3 | Within You | 3:28 |
+| B4 | Thirteen O'Clock | 3:06 |
+| B5 | Home At Last | 1:45 |
+| B6 | Underground | 5:54 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/labyrinth-from-the-original-soundtrack-of-the/1440880284" >}}<br>
 
-
-## Videos
-### David Bowie Trevor Jones - Labyrinth OST 1986
-{{< youtube id="saD_KOW4IvE" title="David Bowie Trevor Jones - Labyrinth OST 1986" >}}<br>
 
 
 ## Release Images
@@ -62,5 +61,5 @@ It’s strange that the 1986 fantasy film <i>Labyrinth</i> failed at the box off
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Green) |
 | Label          | EMI America |
 | Catalog Number | 00602557354843 |
-| Notes | Limited to 1,500 copies worldwide in green. Nothing on exterior to denote this apart from barcode variant.  Made in Czech Republic. |
+| Notes | Limited to 1,500 copies worldwide in green. Nothing on exterior to denote this apart from barcode variant. <br>Made in Czech Republic. |
 | Discogs URL    | [David Bowie - Labyrinth (From The Original Soundtrack Of The Jim Henson Film)](https://www.discogs.com/release/10658031-David-Bowie-Trevor-Jones-Labyrinth-From-The-Original-Soundtrack-Of-The-Jim-Henson-Film) |

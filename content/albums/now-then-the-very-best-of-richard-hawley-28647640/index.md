@@ -4,6 +4,7 @@ artist_name: "Richard Hawley"
 artist: "richard-hawley"
 album_name: "Now Then: The Very Best Of Richard Hawley"
 date: 2023-11-13T06:33:46.000000Z
+release_date: "2001-07-03"
 release_id: "28647640"
 slug: "now-then-the-very-best-of-richard-hawley-28647640"
 hideSummary: true
@@ -32,45 +33,41 @@ styles: ["Art Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Open Up Your Door
-2. Midnight Train 
-3. Tonight The Streets Are Ours
-4. Coles Corner 
-5. Ballad Of A Thin Man
-6. Baby, You’re My Light
-7. Not The Only Road
-8. My Little Treasures
-9. Standing At The Sky’s Edge
-10. Heart Of Oak
-11. The Ocean
-12. Seek It
-13. Off My Mind
-14. Coming Home
-15. I Still Want You
-16. Just Like The Rain
-17. Run For Me
-18. Alone 
-19. For Your Lover Give Some Time
-20. Serious
-21. Don’t Stare At The Sun
-22. There’s A Storm A’Comin’
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Open Up Your Door |  |
+| A2  | Midnight Train  |  |
+| A3 | Tonight The Streets Are Ours |  |
+| A4 | Coles Corner  |  |
+| A5 | Ballad Of A Thin Man |  |
+| A6 | Baby, You’re My Light |  |
+| B1 | Not The Only Road |  |
+| B2 | My Little Treasures |  |
+| B3 | Standing At The Sky’s Edge |  |
+| B4 | Heart Of Oak |  |
+| B5 | The Ocean |  |
+| C1 | Seek It |  |
+| C2 | Off My Mind |  |
+| C3 | Coming Home |  |
+| C4 | I Still Want You |  |
+| C5 | Just Like The Rain |  |
+| C6 | Run For Me |  |
+| D1 | Alone  |  |
+| D2 | For Your Lover Give Some Time |  |
+| D3 | Serious |  |
+| D4 | Don’t Stare At The Sun |  |
+| D5 | There’s A Storm A’Comin’ |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/now-then-the-very-best-of-richard-hawley/1711610312" >}}<br>
 
 
-## Videos
-### Richard Hawley - Not The Only Road Official Visualiser
-{{< youtube id="63LflvZItXA" title="Richard Hawley - Not The Only Road Official Visualiser" >}}<br>
-### More Videos
-
-- [Ballad of a Thin Man Edit](https://www.youtube.com/watch?v=Jznf4bg331w)
-- [Now Then The Very Best of Richard Hawley - OUT NOW](https://www.youtube.com/watch?v=As96TCdZui0)
-- [Richard Hawley - Not The Only Road Official Visualiser](https://www.youtube.com/watch?v=63LflvZItXA)
-- [Ballad of a Thin Man Edit](https://www.youtube.com/watch?v=Jznf4bg331w)
-- [Now Then The Very Best of Richard Hawley - OUT NOW](https://www.youtube.com/watch?v=As96TCdZui0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +78,5 @@ styles: ["Art Rock"]
 | Format         | Vinyl LP (Blue / Black Split), Vinyl LP (White / Blue Split), All Media Compilation Stereo |
 | Label          | BMG |
 | Catalog Number | BMGCAT843DLP |
-| Notes | Gatefold sleeve  Hype sticker on the shrink wrapping may be either: 1) burgundy (approx. 6cm diameter) 2) blue (approx. 7cm diameter) [see photos]  A limited edition was available from Bear Tree Records that included a Plectrum Pack. |
+| Notes | Gatefold sleeve<br><br>Hype sticker on the shrink wrapping may be either:<br>1) burgundy (approx. 6cm diameter)<br>2) blue (approx. 7cm diameter)<br>[see photos]<br><br>A limited edition was available from Bear Tree Records that included a Plectrum Pack. |
 | Discogs URL    | [Richard Hawley - Now Then: The Very Best Of Richard Hawley](https://www.discogs.com/release/28647640-Richard-Hawley-Now-Then-The-Very-Best-Of-Richard-Hawley) |

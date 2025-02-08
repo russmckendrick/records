@@ -30,32 +30,25 @@ Anna Meredith may have composed for the BBC Scottish Symphony Orchestra, but she
 
 
 ## Tracklisting
-1. Nautilus (5:30)
-2. Taken (4:50)
-3. Scrimshaw (4:43)
-4. Something Helpful (3:13)
-5. R-Type (4:42)
-6. Dowager (5:22)
-7. The Vapours (6:33)
-8. Honeyed Words (3:17)
-9. Last Rose (3:31)
-10. Shill (2:47)
-11. Blackfriars (2:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Nautilus | 5:30 |
+| A2 | Taken | 4:50 |
+| A3 | Scrimshaw | 4:43 |
+| A4 | Something Helpful | 3:13 |
+| A5 | R-Type | 4:42 |
+| B1 | Dowager | 5:22 |
+| B2 | The Vapours | 6:33 |
+| B3 | Honeyed Words | 3:17 |
+| B4 | Last Rose | 3:31 |
+| B5 | Shill | 2:47 |
+| B6 | Blackfriars | 2:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/varmints/1053717277" >}}<br>
 
 
-## Videos
-### Anna Meredith The Vapours Official Music Video
-{{< youtube id="oGQaExAbysQ" title="Anna Meredith The Vapours Official Music Video" >}}<br>
-### More Videos
-
-- [Anna Meredith -  Nautilus Official Video](https://www.youtube.com/watch?v=Vajhs2wBeCU)
-- [ANNA MEREDITH - Taken Official Video](https://www.youtube.com/watch?v=vMLXiNfxdI8)
-- [Anna Meredith - R-Type](https://www.youtube.com/watch?v=A4F2_cWk8cY)
-- [Honeyed Words](https://www.youtube.com/watch?v=S_MO6fL6D7M)
-- [Anna Meredith The Vapours Official Music Video](https://www.youtube.com/watch?v=oGQaExAbysQ)
 
 ## Release Images
 {{< imageGrid >}}

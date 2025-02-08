@@ -4,6 +4,7 @@ artist_name: "The Smashing Pumpkins"
 artist: "the-smashing-pumpkins"
 album_name: "Shiny And Oh So Bright - Vol.1 / LP - No Past, No Future, No Sun"
 date: 2018-11-17T10:43:01.000000Z
+release_date: "2018-11-16"
 release_id: "12809883"
 slug: "shiny-and-oh-so-bright-vol-1-lp-no-past-no-future-no-sun-12809883"
 hideSummary: true
@@ -28,24 +29,26 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Knights Of Malta
-2. Silvery Sometimes (Ghosts)
-3. Travels
-4. Solara
-5. Alienation
-6. Marchin' On
-7. With Sympathy
-8. Seek And You Shall Destroy
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Knights Of Malta |  |
+| A2 | Silvery Sometimes (Ghosts) |  |
+| A3 | Travels |  |
+| A4 | Solara |  |
+| B1 | Alienation |  |
+| B2 | Marchin' On |  |
+| B3 | With Sympathy |  |
+| B4 | Seek And You Shall Destroy |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/shiny-and-oh-so-bright-vol-1-lp-no-past-no-future-no-sun/1443128413" >}}<br>
 
-
-## Videos
-### The Smashing Pumpkins - Silvery Sometimes Ghosts Official Video
-{{< youtube id="Pd9Z0JBtVUw" title="The Smashing Pumpkins - Silvery Sometimes Ghosts Official Video" >}}<br>
 
 
 ## Release Images
@@ -57,5 +60,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition (Silver) |
 | Label          | Napalm Records |
 | Catalog Number | NPR807VINYL |
-| Notes | Gatefold sleeve Includes booklet 16 pages & download card. |
+| Notes | Gatefold sleeve<br>Includes booklet 16 pages & download card. |
 | Discogs URL    | [The Smashing Pumpkins - Shiny And Oh So Bright - Vol.1 / LP - No Past, No Future, No Sun](https://www.discogs.com/release/12809883-The-Smashing-Pumpkins-Shiny-And-Oh-So-Bright-Vol1-LP-No-Past-No-Future-No-Sun) |

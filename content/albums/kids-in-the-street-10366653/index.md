@@ -29,35 +29,26 @@ A Nashville native and Steve Earle’s son, Justin Townes Earle cut his teeth on
 
 
 ## Tracklisting
-1. Champagne Corolla
-2. Maybe A Moment
-3. What's She Crying For
-4. 15 - 25
-5. Kids In The Street
-6. Faded Valentine
-7. What's Goin' Wrong
-8. Short Hair Woman
-9. Same Old Stagolee
-10. If I Was The Devil
-11. Trouble Is
-12. There Go A Fool
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Champagne Corolla |  |
+| A2 | Maybe A Moment |  |
+| A3 | What's She Crying For |  |
+| A4 | 15 - 25 |  |
+| A5 | Kids In The Street |  |
+| A6 | Faded Valentine |  |
+| B1 | What's Goin' Wrong |  |
+| B2 | Short Hair Woman |  |
+| B3 | Same Old Stagolee |  |
+| B4 | If I Was The Devil |  |
+| B5 | Trouble Is |  |
+| B6 | There Go A Fool |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kids-in-the-street/1436938097" >}}<br>
 
 
-## Videos
-### Justin Townes Earle - Kids In The Street Audio Only
-{{< youtube id="mDx4GtD3XJU" title="Justin Townes Earle - Kids In The Street Audio Only" >}}<br>
-### More Videos
-
-- [Justin Townes Earle - Faded Valentine Audio Only](https://www.youtube.com/watch?v=30JGMrbPDW4)
-- [Justin Townes Earle - There Go A Fool Audio Only](https://www.youtube.com/watch?v=jqCJzivj5HA)
-- [Justin Townes Earle - Whats She Crying For Audio Only](https://www.youtube.com/watch?v=m6HlYKW5zRU)
-- [Justin Townes Earle - Same Old Stagolee Audio Only](https://www.youtube.com/watch?v=fPUid3nZuSQ)
-- [Justin Townes Earle - 15-25 Audio Only](https://www.youtube.com/watch?v=2P5lqkS0tOw)
-- [Justin Townes Earle - Trouble Is Audio Only](https://www.youtube.com/watch?v=SmJ2E3IP_JA)
-- [Justin Townes Earle - Champagne Corolla Lyric Video](https://www.youtube.com/watch?v=_V5vLfmNPMw)
 
 ## Release Images
 {{< imageGrid >}}

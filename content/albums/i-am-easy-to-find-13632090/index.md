@@ -83,37 +83,31 @@ The expanded cast might be slightly disorienting at first, but that disorientati
 
 
 ## Tracklisting
-1. You Had Your Soul With You
-2. Quiet Light
-3. Roman Holiday
-4. Oblivions
-5. The Pull Of You
-6. Hey Rosey
-7. I Am Easy To Find
-8. Her Father In The Pool
-9. Where Is Her Head
-10. Not In Kansas
-11. So Far So Fast
-12. Dust Swirls In Strange Light
-13. Hairpin Turns
-14. Rylan
-15. Underwater
-16. Light Years
-17. I Am Easy To Find (Original Film Score)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | You Had Your Soul With You |  |
+| A2 | Quiet Light |  |
+| A3 | Roman Holiday |  |
+| A4 | Oblivions |  |
+| B1 | The Pull Of You |  |
+| B2 | Hey Rosey |  |
+| B3 | I Am Easy To Find |  |
+| B4 | Her Father In The Pool |  |
+| C1 | Where Is Her Head |  |
+| C2 | Not In Kansas |  |
+| C3 | So Far So Fast |  |
+| C4 | Dust Swirls In Strange Light |  |
+| D1 | Hairpin Turns |  |
+| D2 | Rylan |  |
+| D3 | Underwater |  |
+| D4 | Light Years |  |
+| E1 | I Am Easy To Find (Original Film Score) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-am-easy-to-find/1453848132" >}}<br>
 
 
-## Videos
-### I Am Easy To Find - A Film by Mike Mills  An Album by The National
-{{< youtube id="ifElv18k2O8" title="I Am Easy To Find - A Film by Mike Mills  An Album by The National" >}}<br>
-### More Videos
-
-- [I Am Easy To Find - A Film by Mike Mills  An Album by The National](https://www.youtube.com/watch?v=ifElv18k2O8)
-- [The National - Rylan](https://www.youtube.com/watch?v=CbXnnn8z1tE)
-- [The National - Light Years](https://www.youtube.com/watch?v=5FQtSn_vak0)
-- [The National - Hairpin Turns](https://www.youtube.com/watch?v=W_aN81SBI3A)
 
 ## Release Images
 {{< imageGrid >}}
@@ -125,5 +119,5 @@ The expanded cast might be slightly disorienting at first, but that disorientati
 | Format         | Vinyl LP (Red), Vinyl LP (Yellow), Vinyl LP Single Sided Etched (Grey), All Media Album Limited Edition |
 | Label          | 4AD |
 | Catalog Number | 4AD0154LPX |
-| Notes | Triple 140 Gram Vinyl Set on Opaque Red / Yellow / Grey Colors. 5th side contains 22 minutes of music from the I Am Easy To Find Original Film Score – Exclusive to this format. Etching on the 6th side.  Tri-fold LP jacket - 3 printed innersleeves - 24 page booklet - 24” x 24” poster folder - housed in printed plastic sleeve.  Includes digital download card for tracks A1 to D4. |
+| Notes | Triple 140 Gram Vinyl Set on Opaque Red / Yellow / Grey Colors.<br>5th side contains 22 minutes of music from the I Am Easy To Find Original Film Score – Exclusive to this format.<br>Etching on the 6th side.<br><br>Tri-fold LP jacket - 3 printed innersleeves - 24 page booklet - 24” x 24” poster folder - housed in printed plastic sleeve.<br><br>Includes digital download card for tracks A1 to D4. |
 | Discogs URL    | [The National - I Am Easy To Find](https://www.discogs.com/release/13632090-The-National-I-Am-Easy-To-Find) |

@@ -4,6 +4,7 @@ artist_name: "Iamthemorning"
 artist: "iamthemorning"
 album_name: "Ocean Sounds"
 date: 2018-10-20T16:36:22.000000Z
+release_date: "2018-10-19"
 release_id: "12686247"
 slug: "ocean-sounds-12686247"
 hideSummary: true
@@ -25,39 +26,31 @@ styles: ["Alternative Rock", "Neo-Classical"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Inside
-2. Scotland
-3. To Human Misery
-4. Romance
-5. 5/4
-6. Touching II
-7. Os Lunatum
-8. Matches
-9. Sleeping Pills
-10. Libretto Horror
-11. Chalk & Coal
-12. K.O.S.
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Inside |  |
+| A2 | Scotland |  |
+| A3 | To Human Misery |  |
+| A4 | Romance |  |
+| A5 | 5/4 |  |
+| A6 | Touching II |  |
+| B1 | Os Lunatum |  |
+| B2 | Matches |  |
+| B3 | Sleeping Pills |  |
+| B4 | Libretto Horror |  |
+| B5 | Chalk & Coal |  |
+| B6 | K.O.S. |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ocean-sounds/1424578057" >}}<br>
 
 
-## Videos
-### iamthemorning - Inside  Scotland  To Human Mystery Ocean Sounds
-{{< youtube id="TmNR7BfO2KE" title="iamthemorning - Inside  Scotland  To Human Mystery Ocean Sounds" >}}<br>
-### More Videos
-
-- [Romance Ocean Sounds Sessions](https://www.youtube.com/watch?v=IJ4ibXqPv4U)
-- [Iamthemorning - 54 from Ocean Sounds](https://www.youtube.com/watch?v=JRlvqyjuxiM)
-- [Iamthemorning - Touching from Ocean Sounds](https://www.youtube.com/watch?v=FanMVr9dvzg)
-- [Os Lunatum Ocean Sounds Sessions](https://www.youtube.com/watch?v=ROljdYQzfhM)
-- [Matches Ocean Sounds Sessions](https://www.youtube.com/watch?v=QGNln6nMpqg)
-- [Sleeping Pills Ocean Sounds Sessions](https://www.youtube.com/watch?v=0toxZCub9V4)
-- [Libretto Horror Ocean Sounds Sessions](https://www.youtube.com/watch?v=InP2mI9RChI)
-- [Iamthemorning - Chalk  Coal from Ocean Sounds](https://www.youtube.com/watch?v=rMecuWBzhMk)
-- [K O S Ocean Sounds Sessions](https://www.youtube.com/watch?v=b8qZUZf_mMo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +61,5 @@ styles: ["Alternative Rock", "Neo-Classical"]
 | Format         | Vinyl LP Album (180 gr.) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE984 |
-| Notes | - Sticker - printed inner sleeve  Ⓟ 2018 Kscope Ⓒ 2018 Kscope Made in Germany  Barcode is scan only (no text). |
+| Notes | - Sticker<br>- printed inner sleeve<br><br>Ⓟ 2018 Kscope Ⓒ 2018 Kscope<br>Made in Germany<br><br>Barcode is scan only (no text). |
 | Discogs URL    | [Iamthemorning - Ocean Sounds](https://www.discogs.com/release/12686247-Iamthemorning-Ocean-Sounds) |

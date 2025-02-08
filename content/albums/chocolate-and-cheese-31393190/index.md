@@ -29,52 +29,47 @@ While <i>Chocolate and Cheese</i> was hardly a chart success, it <i>did</i> find
 
 
 ## Tracklisting
-1. Original Album Remastered
-2. Take Me Away (3:00)
-3. Spinal Meningitis (Got Me Down) (2:52)
-4. Freedom Of '76 (2:50)
-5. I Can't Put My Finger On It (2:47)
-6. A Tear For Eddie (4:49)
-7. Roses Are Free (4:43)
-8. Baby Bitch (3:04)
-9. Mister, Would You Please Help My Pony? (2:55)
-10. Drifter In The Dark (2:31)
-11. Voodoo Lady (3:48)
-12. Joppa Road (3:02)
-13. Candi (4:02)
-14. Buenas Tardes Amigo (7:06)
-15. The HIV Song (2:09)
-16. What Deaner Was Talkin' About (1:59)
-17. Don't Shit Where You Eat (3:19)
-18. Bonus Tracks
-19. Crappy Anniversary Jimmy (3:35)
-20. Warm Socks (2:42)
-21. Stop, Look, Listen (And Learn) (3:30)
-22. Dirty Money (3:55)
-23. I Got It (2:12)
-24. Belgian Stew (3:09)
-25. Voodoo Lady (Demo) (4:35)
-26. Junkie Boy (3:30)
-27. Smooth Mover (1:41)
-28. Church Fire (1:41)
-29. Take Me Away (Demo) (2:31)
-30. Sasha (3:01)
-31. Roses Are Free (Demo) (3:58)
-32. Candi (Demo) (2:34)
-33. I Really Miss You (And I'm All Alone) (3:29)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Original Album Remastered |  |
+| A1 | Take Me Away | 3:00 |
+| A2 | Spinal Meningitis (Got Me Down) | 2:52 |
+| A3 | Freedom Of '76 | 2:50 |
+| A4 | I Can't Put My Finger On It | 2:47 |
+| B1 | A Tear For Eddie | 4:49 |
+| B2 | Roses Are Free | 4:43 |
+| B3 | Baby Bitch | 3:04 |
+| B4 | Mister, Would You Please Help My Pony? | 2:55 |
+| C1 | Drifter In The Dark | 2:31 |
+| C2 | Voodoo Lady | 3:48 |
+| C3 | Joppa Road | 3:02 |
+| C4 | Candi | 4:02 |
+| D1 | Buenas Tardes Amigo | 7:06 |
+| D2 | The HIV Song | 2:09 |
+| D3 | What Deaner Was Talkin' About | 1:59 |
+| D4 | Don't Shit Where You Eat | 3:19 |
+|  | Bonus Tracks |  |
+| E1 | Crappy Anniversary Jimmy | 3:35 |
+| E2 | Warm Socks | 2:42 |
+| E3 | Stop, Look, Listen (And Learn) | 3:30 |
+| E4 | Dirty Money | 3:55 |
+| E5 | I Got It | 2:12 |
+| E6 | Belgian Stew | 3:09 |
+| E7 | Voodoo Lady (Demo) | 4:35 |
+| F1 | Junkie Boy | 3:30 |
+| F2 | Smooth Mover | 1:41 |
+| F3 | Church Fire | 1:41 |
+| F4 | Take Me Away (Demo) | 2:31 |
+| F5 | Sasha | 3:01 |
+| F6 | Roses Are Free (Demo) | 3:58 |
+| F7 | Candi (Demo) | 2:34 |
+| F8 | I Really Miss You (And I'm All Alone) | 3:29 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/chocolate-cheese/1538201766" >}}<br>
 
 
-## Videos
-### Ween - Freedom of 76 Official Music Video
-{{< youtube id="G9M3GVejHNE" title="Ween - Freedom of 76 Official Music Video" >}}<br>
-### More Videos
-
-- [Ween - I Cant Put My Finger On It Official Music Video](https://www.youtube.com/watch?v=pG83XgPZqMU)
-- [Ween - Voodoo Lady Official Music Video](https://www.youtube.com/watch?v=BrU8rSbRyQY)
-- [Take Me Away](https://www.youtube.com/watch?v=bibNhm7RxUQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +81,5 @@ While <i>Chocolate and Cheese</i> was hardly a chart success, it <i>did</i> find
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media Album Deluxe Edition (30th Anniversary) |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 726363 |
-| Notes | Made in the Netherlands. 30th anniversary release of Chocolate and Cheese on black vinyl.  Bonus tracks curated by Dean and Gene Ween.  Comes in tri-fold with 15 page, 12" booklet.  Runouts are etched, except for "403594 1#" which are stamped. Lacquer cut by Chris Bellman at Bernie Grundman Mastering |
+| Notes | Made in the Netherlands.<br>30th anniversary release of Chocolate and Cheese on black vinyl.<br><br>Bonus tracks curated by Dean and Gene Ween.<br><br>Comes in tri-fold with 15 page, 12" booklet.<br><br>Runouts are etched, except for "403594 1#" which are stamped.<br>Lacquer cut by Chris Bellman at Bernie Grundman Mastering |
 | Discogs URL    | [Ween - Chocolate And Cheese](https://www.discogs.com/release/31393190-Ween-Chocolate-And-Cheese) |

@@ -4,6 +4,7 @@ artist_name: "Rush"
 artist: "rush"
 album_name: "Roll The Bones"
 date: 2017-02-26T10:55:56.000000Z
+release_date: "2021-04-02"
 release_id: "7632117"
 slug: "roll-the-bones-7632117"
 hideSummary: true
@@ -33,25 +34,28 @@ Roll the Bones is the fourteenth studio album by Canadian rock band Rush, releas
 Roll the Bones was a return to commercial success for the band, reaching No. 3 in the United States, No. 10 in the UK, and No. 11 in Canada. The album won a Juno Award for Best Album Design at the 1992 Juno Awards. In August 2001, the album was certified platinum by the Recording Industry Association of America for selling one million copies in the US. It was remastered in 2004 and again in 2013 as part of The Studio Albums 1989–2007 box set. In 2015, it was reissued after being remastered by Sean Magee at Abbey Road Studios, following a direct approach by Rush to remaster their entire back catalogue.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Dreamline
-2. Bravado
-3. Roll The Bones
-4. Face Up
-5. Where's My Thing? (Part IV, "Gangster Of Boats" Trilogy)
-6. The Big Wheel
-7. Heresy
-8. Ghost Of A Chance
-9. Neurotica
-10. You Bet Your Life
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dreamline |  |
+| A2 | Bravado |  |
+| A3 | Roll The Bones |  |
+| A4 | Face Up |  |
+| A5 | Where's My Thing? (Part IV, "Gangster Of Boats" Trilogy) |  |
+| B1 | The Big Wheel |  |
+| B2 | Heresy |  |
+| B3 | Ghost Of A Chance |  |
+| B4 | Neurotica |  |
+| B5 | You Bet Your Life |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/roll-the-bones-x/1752544586" >}}<br>
-
 
 
 
@@ -65,5 +69,5 @@ Roll the Bones was a return to commercial success for the band, reaching No. 3 i
 | Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
 | Label          | Atlantic |
 | Catalog Number | R1 83737 |
-| Notes | Recorded February - May, 1991, at Le Studio, Morin Heights, Quebec, and McClear Place, Toronto. Mixed at Nomis Studios, London. Pre-production work at Chalet Studio by Lerxst Sound. Mastered at Masterdisk, NYC.  ℗ 2015 Atlantic Recording Corporation © 2015 Atlantic Recording Corporation and Anthem Entertainment  Reissue on 200g Audiophile Vinyl. Issued with a printed inner sleeve with lyrics. Includes high quality 24-bit digital download. |
+| Notes | Recorded February - May, 1991, at Le Studio, Morin Heights, Quebec, and McClear Place, Toronto.<br>Mixed at Nomis Studios, London.<br>Pre-production work at Chalet Studio by Lerxst Sound.<br>Mastered at Masterdisk, NYC.<br><br>℗ 2015 Atlantic Recording Corporation © 2015 Atlantic Recording Corporation and Anthem Entertainment<br><br>Reissue on 200g Audiophile Vinyl. Issued with a printed inner sleeve with lyrics. Includes high quality 24-bit digital download. |
 | Discogs URL    | [Rush - Roll The Bones](https://www.discogs.com/release/7632117-Rush-Roll-The-Bones) |

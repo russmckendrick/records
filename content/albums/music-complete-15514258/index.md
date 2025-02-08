@@ -37,29 +37,25 @@ There’s also the addition of guitarist Phil Cunningham and bass player Tom Cha
 
 
 ## Tracklisting
-1. Restless (5:26)
-2. Singularity (5:37)
-3. Plastic (6:58)
-4. Tutti Frutti (6:22)
-5. People On The High Line (5:41)
-6. Stray Dog (6:14)
-7. Academic (5:54)
-8. Nothing But A Fool (7:42)
-9. Unlearn This Hatred (4:18)
-10. The Game (5:06)
-11. Superheated (5:03)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Restless | 5:26 |
+| A2 | Singularity | 5:37 |
+| A3 | Plastic | 6:58 |
+| B1 | Tutti Frutti | 6:22 |
+| B2 | People On The High Line | 5:41 |
+| B3 | Stray Dog | 6:14 |
+| C1 | Academic | 5:54 |
+| C2 | Nothing But A Fool | 7:42 |
+| D1 | Unlearn This Hatred | 4:18 |
+| D2 | The Game | 5:06 |
+| D3 | Superheated | 5:03 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/music-complete/1003724995" >}}<br>
 
 
-## Videos
-### New Order - Singularity Official Music Video
-{{< youtube id="9xLvF6xoG30" title="New Order - Singularity Official Music Video" >}}<br>
-### More Videos
-
-- [New Order - Restless Official Video](https://www.youtube.com/watch?v=8c_3Afx9ZGE)
-- [New Order - Tutti Frutti Official Video](https://www.youtube.com/watch?v=koXE2TuQ1_c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +67,5 @@ There’s also the addition of guitarist Phil Cunningham and bass player Tom Cha
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Repress (Orange) |
 | Label          | Mute |
 | Catalog Number | RSTUMM390 |
-| Notes | Music Complete: New Order  Limited Edition Double Orange Vinyl With 12 Page Booklet  Includes Digital Copy #loverecordstores  Limited to 1000 copies worldwide in a gatefold sleeve. Released exclusively by independent record stores for #loverecordstores Includes insert and download code. |
+| Notes | Music Complete:<br>New Order<br><br>Limited Edition<br>Double Orange Vinyl<br>With 12 Page Booklet<br><br>Includes Digital Copy<br>#loverecordstores<br><br>Limited to 1000 copies worldwide in a gatefold sleeve. Released exclusively by independent record stores for #loverecordstores<br>Includes insert and download code. |
 | Discogs URL    | [New Order - Music Complete](https://www.discogs.com/release/15514258-New-Order-Music-Complete) |

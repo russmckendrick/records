@@ -33,36 +33,35 @@ The Color Before the Sun is the eighth studio album by American progressive rock
 
 
 ## Tracklisting
-1. The Color Before The Sun
-2. Island
-3. Eraser
-4. Colors
-5. Here To Mars
-6. Ghost
-7. Atlas
-8. Young Love
-9. You Got Spirit, Kid
-10. The Audience
-11. Peace To The Mountain
-12. The Color Before The Sun
-13. Island (5:02)
-14. Eraser (3:53)
-15. Colors (4:42)
-16. Here To Mars (4:01)
-17. Ghost (2:45)
-18. Atlas (6:03)
-19. Young Love (3:51)
-20. You Got Spirit, Kid (4:11)
-21. The Audience (6:11)
-22. Peace To The Mountain (6:34)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Color Before The Sun |  |
+| A1 | Island |  |
+| A2 | Eraser |  |
+| A3 | Colors |  |
+| A4 | Here To Mars |  |
+| A5 | Ghost |  |
+| B1 | Atlas |  |
+| B2 | Young Love |  |
+| B3 | You Got Spirit, Kid |  |
+| B4 | The Audience |  |
+| B5 | Peace To The Mountain |  |
+|  | The Color Before The Sun |  |
+| CD-1 | Island | 5:02 |
+| CD-2 | Eraser | 3:53 |
+| CD-3 | Colors | 4:42 |
+| CD-4 | Here To Mars | 4:01 |
+| CD-5 | Ghost | 2:45 |
+| CD-6 | Atlas | 6:03 |
+| CD-7 | Young Love | 3:51 |
+| CD-8 | You Got Spirit, Kid | 4:11 |
+| CD-9 | The Audience | 6:11 |
+| CD-10 | Peace To The Mountain | 6:34 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-color-before-the-sun/1030919924" >}}<br>
 
-
-## Videos
-### Coheed and Cambria - The Color Before The Sun Full Album
-{{< youtube id="5bvTqD37ALI" title="Coheed and Cambria - The Color Before The Sun Full Album" >}}<br>
 
 
 ## Release Images

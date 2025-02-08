@@ -42,39 +42,26 @@ Allowing himself to give in to the uncertainty and promise of that particular mo
 
 
 ## Tracklisting
-1. Lesanu
-2. Asha The First
-3. The Visionary
-4. Get Lit
-5. Computer Love
-6. Dream State
-7. Interstellar Peace (The Last Stance)
-8. The Garden Path
-9. Road To Self
-10. Together
-11. Lines In The Sand
-12. Prologue
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Lesanu |  |
+| A2 | Asha The First |  |
+| A3 | The Visionary |  |
+| A4 | Get Lit |  |
+| B5 | Computer Love |  |
+| B6 | Dream State |  |
+| B7 | Interstellar Peace (The Last Stance) |  |
+| C8 | The Garden Path |  |
+| C9 | Road To Self |  |
+| D10 | Together |  |
+| D11 | Lines In The Sand |  |
+| D12 | Prologue |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fearless-movement/1729582490" >}}<br>
 
 
-## Videos
-### Kamasi Washington - Lesanu
-{{< youtube id="esmgzN_olKU" title="Kamasi Washington - Lesanu" >}}<br>
-### More Videos
-
-- [Kamasi Washington - Asha The First feat Thundercat Taj Austin Ras Austin](https://www.youtube.com/watch?v=M6iWnD9JGWc)
-- [Kamasi Washington - The Visionary feat Terrace Martin](https://www.youtube.com/watch?v=1BPxAqBMNZc)
-- [Kamasi Washington - Get Lit feat George Clinton D Smoke](https://www.youtube.com/watch?v=2bK6P04o_Lg)
-- [Kamasi Washington - Computer Love feat Patrice Quinn DJ Battlecat Brandon Coleman](https://www.youtube.com/watch?v=mg7RQYVtS24)
-- [Kamasi Washington - Dream State feat André 3000 Official Visual](https://www.youtube.com/watch?v=nxMolO9CEaU)
-- [Kamasi Washington - Interstellar Peace The Last Stance](https://www.youtube.com/watch?v=I7YpePBg-10)
-- [Kamasi Washington - The Garden Path](https://www.youtube.com/watch?v=Xzrkerz1SW8)
-- [Kamasi Washington - Road To Self KO](https://www.youtube.com/watch?v=Di0xStuAcp8)
-- [Kamasi Washington - Together feat BJ The Chicago Kid](https://www.youtube.com/watch?v=6CVZCD0C3ik)
-- [Kamasi Washington - Lines In The Sand](https://www.youtube.com/watch?v=tJ5EcVJaZrE)
-- [Kamasi Washington - Prologue Official Music Video](https://www.youtube.com/watch?v=c8cKN1rbJl4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +73,5 @@ Allowing himself to give in to the uncertainty and promise of that particular mo
 | Format         | Vinyl LP (Red), Vinyl LP (Blue), All Media Album Limited Edition Stereo |
 | Label          | Young (5) |
 | Catalog Number | YO350LPE |
-| Notes | Back cover lists tracks in sequential order regardless of sides.  Runouts are etched.  [Back cover]: ℗ & © 2024 Shoto Mas Inc. Under exclusive license to Young  [Gatefold]: Recording studios: Sunset Sound, Gold Diggers, Larrabee Studios, Henson Studios, King Size Sound Labs, Woody Aplanalp Studios, digital-t studios and Electric Garden |
+| Notes | Back cover lists tracks in sequential order regardless of sides.<br><br>Runouts are etched.<br><br>[Back cover]:<br>℗ & © 2024 Shoto Mas Inc. Under exclusive license to Young<br><br>[Gatefold]:<br>Recording studios: Sunset Sound, Gold Diggers, Larrabee Studios, Henson Studios, King Size Sound Labs, Woody Aplanalp Studios, digital-t studios and Electric Garden |
 | Discogs URL    | [Kamasi Washington - Fearless Movement](https://www.discogs.com/release/30564730-Kamasi-Washington-Fearless-Movement) |

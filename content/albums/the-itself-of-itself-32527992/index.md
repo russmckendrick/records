@@ -4,6 +4,7 @@ artist_name: "Bass Communion"
 artist: "bass-communion"
 album_name: "The Itself Of Itself"
 date: 2024-12-13T03:49:22.000000Z
+release_date: ""
 release_id: "32527992"
 slug: "the-itself-of-itself-32527992"
 hideSummary: true
@@ -21,27 +22,27 @@ The Itself of Itself is the tenth studio album by English musician, songwriter, 
 According to Bass Communion's Bandcamp page, "The Itself of Itself was selected from ten years worth of recordings, the ones chosen being those that [Steven Wilson] felt added something a bit different to the catalogue." 
 The album has been described as "unsettling, disturbing, challenging, and uneasy" in regards to the experimental and often harsh nature of the sounds. It has simultaneously been hailed as Wilson's "most uncompromising and adventurous" musical project due to these qualities.
 The album received a physical release exclusively on CD, in a limited edition of 1,000 initial copies, which was increased to 1,500 copies due to demand. The package features a deluxe gatefold card cover, with a 24 page booklet of photographs and an OBI strip, designed by Carl Glover.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Unperson (10:34)
-2. Apparition 3 (6:04)
-3. Bruise (13:19)
-4. Blackmail (7:24)
-5. The Itself Of Itself (10:24)
-6. Study For Tape Hiss And Other Audio Artefacts (11:58)
-7. Apparition 5  (2:46)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Unperson | 10:34 |
+| A2 | Apparition 3 | 6:04 |
+| B3 | Bruise | 13:19 |
+| B4 | Blackmail | 7:24 |
+| C5 | The Itself Of Itself | 10:24 |
+| D6 | Study For Tape Hiss And Other Audio Artefacts | 11:58 |
+| D7 | Apparition 5  | 2:46 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Bass Communion - Bruise
-{{< youtube id="Ryt5vODx_1g" title="Bass Communion - Bruise" >}}<br>
-### More Videos
 
-- [Bass Communion - Unperson](https://www.youtube.com/watch?v=D-cuBbXr11o)
 
 ## Release Images
 {{< imageGrid >}}
@@ -53,5 +54,5 @@ The album received a physical release exclusively on CD, in a limited edition of
 | Format         | Vinyl 2× LP Deluxe Edition Limited Edition |
 | Label          | Lumberton Trading Company |
 | Catalog Number | LUMB2LP036 |
-| Notes | Limited edition of 1000 with obi strip and 24pp booklet.  First 150 arrive with postcard.  |
+| Notes | Limited edition of 1000 with obi strip and 24pp booklet.<br><br>First 150 arrive with postcard.<br> |
 | Discogs URL    | [Bass Communion - The Itself Of Itself](https://www.discogs.com/release/32527992-Bass-Communion-The-Itself-Of-Itself) |

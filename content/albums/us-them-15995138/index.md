@@ -4,6 +4,7 @@ artist_name: "Roger Waters"
 artist: "roger-waters"
 album_name: "Us + Them"
 date: 2020-10-03T16:11:55.000000Z
+release_date: "2020-10-02"
 release_id: "15995138"
 slug: "us-them-15995138"
 hideSummary: true
@@ -49,42 +50,42 @@ styles: ["Classic Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Intro
-2. Speak To Me
-3. Breathe
-4. One Of These Days
-5. Time
-6. Breathe (Reprise)
-7. The Great Gig In The Sky
-8. Welcome To The Machine
-9. Déjà Vu
-10. The Last Refugee
-11. Picture That
-12. Wish You Were Here
-13. The Happiest Days Of Our Lives
-14. Another Brick In The Wall Part 2
-15. Another Brick In The Wall Part 3
-16. Dogs
-17. Pigs (Three Different Ones)
-18. Money
-19. Us & Them
-20. Brain Damage
-21. Eclipse
-22. The Last Refugee (Reprise)
-23. Déjà Vu (Reprise)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Intro |  |
+| A2 | Speak To Me |  |
+| A3 | Breathe |  |
+| A4 | One Of These Days |  |
+| A5 | Time |  |
+| A6 | Breathe (Reprise) |  |
+| A7 | The Great Gig In The Sky |  |
+| B1 | Welcome To The Machine |  |
+| B2 | Déjà Vu |  |
+| B3 | The Last Refugee |  |
+| C1 | Picture That |  |
+| C2 | Wish You Were Here |  |
+| C3 | The Happiest Days Of Our Lives |  |
+| C4 | Another Brick In The Wall Part 2 |  |
+| C5 | Another Brick In The Wall Part 3 |  |
+| D | Dogs |  |
+| E1 | Pigs (Three Different Ones) |  |
+| E2 | Money |  |
+| F1 | Us & Them |  |
+| F2 | Brain Damage |  |
+| F3 | Eclipse |  |
+| F4 | The Last Refugee (Reprise) |  |
+| F5 | Déjà Vu (Reprise) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/us-them/1517099398" >}}<br>
 
 
-## Videos
-### Roger Waters - Us  Them Soundtrack  Full Album 2020
-{{< youtube id="r9iSNHubAoY" title="Roger Waters - Us  Them Soundtrack  Full Album 2020" >}}<br>
-### More Videos
-
-- [Roger Waters - Us  Them Soundtrack  Full Album 2020](https://www.youtube.com/watch?v=r9iSNHubAoY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -95,5 +96,5 @@ styles: ["Classic Rock", "Prog Rock"]
 | Format         | Vinyl 3× LP Album (Tri-fold) |
 | Label          | Columbia |
 | Catalog Number | 19439707691 |
-| Notes | Sleeve Trifolded + 8-page booklet. Made in the E.U.  Sticker: US+THEM  A NIGHT OF STATEMENT, DEFIANCE, PROTEST & LOVE Over two hours of live music including TIME, MONEY, ANOTHER BRICK IN THE WALL PT.2, DEJA VU & WISH YOU WERE HERE TRIPLE LP SET Audio companion to the acclaimed film Includes digital download |
+| Notes | Sleeve Trifolded + 8-page booklet.<br>Made in the E.U.<br><br>Sticker:<br>US+THEM <br>A NIGHT OF STATEMENT, DEFIANCE, PROTEST & LOVE<br>Over two hours of live music including<br>TIME, MONEY, ANOTHER BRICK IN THE WALL PT.2, DEJA VU & WISH YOU WERE HERE<br>TRIPLE LP SET<br>Audio companion to the acclaimed film<br>Includes digital download |
 | Discogs URL    | [Roger Waters - Us + Them](https://www.discogs.com/release/15995138-Roger-Waters-Us-Them) |

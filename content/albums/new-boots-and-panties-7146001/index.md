@@ -4,6 +4,7 @@ artist_name: "Ian Dury"
 artist: "ian-dury"
 album_name: "New Boots And Panties!!"
 date: 2016-09-21T18:15:01.000000Z
+release_date: "1977-09-30"
 release_id: "7146001"
 slug: "new-boots-and-panties-7146001"
 hideSummary: true
@@ -32,42 +33,30 @@ The album's title derives from Dury's habit of buying clothes second hand and re
 New Boots and Panties!! has been reissued several times, including a three-disc edition for its 30th anniversary and a five-disc box set for its 40th anniversary.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Wake Up And Make Love With Me (4:21)
-2. Sweet Gene Vincent (3:32)
-3. I'm Partial To Your Abracadabra (3:12)
-4. My Old Man (3:38)
-5. Billericay Dickie (4:15)
-6. Clevor Trever (4:53)
-7. If I Was With A Woman (3:23)
-8. Blockheads (3:30)
-9. Plaistow Patricia (4:12)
-10. Blackmail Man (2:14)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Wake Up And Make Love With Me | 4:21 |
+| A2 | Sweet Gene Vincent | 3:32 |
+| A3 | I'm Partial To Your Abracadabra | 3:12 |
+| A4 | My Old Man | 3:38 |
+| A5 | Billericay Dickie | 4:15 |
+| B1 | Clevor Trever | 4:53 |
+| B2 | If I Was With A Woman | 3:23 |
+| B3 | Blockheads | 3:30 |
+| B4 | Plaistow Patricia | 4:12 |
+| B5 | Blackmail Man | 2:14 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/new-boots-and-panties/1488495874" >}}<br>
 
 
-## Videos
-### Wake Up and Make Love with Me
-{{< youtube id="QON_NhWRnJ8" title="Wake Up and Make Love with Me" >}}<br>
-### More Videos
-
-- [Ian Dury - Sex And Drugs And Rock And Roll](https://www.youtube.com/watch?v=dvhoSAKLztM)
-- [Sweet Gene Vincent](https://www.youtube.com/watch?v=DveyHAHfJi8)
-- [Clevor Trever](https://www.youtube.com/watch?v=voPgKKQeASw)
-- [Im Partial to Your Abracadabra](https://www.youtube.com/watch?v=beuHVDVvW9A)
-- [My Old Man](https://www.youtube.com/watch?v=AVz5vTpVTHg)
-- [Billericay Dickie](https://www.youtube.com/watch?v=6Hi2zGVRiEA)
-- [Ian Dury and the Blockheads - Clevor Trever](https://www.youtube.com/watch?v=ViLPwp387DI)
-- [If I Was with a Woman](https://www.youtube.com/watch?v=KkfGXd6_Iak)
-- [Blockheads](https://www.youtube.com/watch?v=PmHEG4CWytM)
-- [Plaistow Patricia](https://www.youtube.com/watch?v=mRbnbcJgOVE)
-- [Blackmail Man](https://www.youtube.com/watch?v=_DpXnETmHnU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +68,5 @@ New Boots and Panties!! has been reissued several times, including a three-disc 
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC56 |
-| Notes | Restored in original sleeve replications and cut from the latest digital remasters including some found separately for the first time on the format.  This record was not produced and recorded at The Workhouse in the Old Kent Road!!  Manufactured in the EU.  |
+| Notes | Restored in original sleeve replications and cut from the latest digital remasters including some found separately for the first time on the format.<br><br>This record was not produced and recorded at The Workhouse in the Old Kent Road!!<br><br>Manufactured in the EU.<br> |
 | Discogs URL    | [Ian Dury - New Boots And Panties!!](https://www.discogs.com/release/7146001-Ian-Dury-New-Boots-And-Panties) |

@@ -4,6 +4,7 @@ artist_name: "King Crimson"
 artist: "king-crimson"
 album_name: "Live At The Orpheum"
 date: 2015-08-09T08:49:54.000000Z
+release_date: "2015-01-13"
 release_id: "6596408"
 slug: "live-at-the-orpheum-6596408"
 hideSummary: true
@@ -32,22 +33,25 @@ King Crimson's 2014 tour marked guitarist, founder and leader Robert Fripp's ret
 All the shows on the tour were recorded on multitrack with Jakko Jakszyk sorting through the recordings. The two shows at the Orpheum Theatre in Los Angeles were chosen for release. The album features 41 minutes of selections from the set and was released on 13 January 2015 on CD/DVD-A and heavy-weight vinyl.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Walk On: Monk Morph Chamber Music (2:34)
-2. One More Red Nightmare (6:07)
-3. Banshee Legs Bell Hassle (1:40)
-4. The ConstruKction Of Light (6:32)
-5. The Letters (4:57)
-6. Sailor's Tale (6:51)
-7. Starless (12:15)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Walk On: Monk Morph Chamber Music | 2:34 |
+| A2 | One More Red Nightmare | 6:07 |
+| A3 | Banshee Legs Bell Hassle | 1:40 |
+| A4 | The ConstruKction Of Light | 6:32 |
+| A5 | The Letters | 4:57 |
+| B1 | Sailor's Tale | 6:51 |
+| B2 | Starless | 12:15 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-the-orpheum/950800441" >}}<br>
-
 
 
 
@@ -61,5 +65,5 @@ All the shows on the tour were recorded on multitrack with Jakko Jakszyk sorting
 | Format         | Vinyl LP Album Limited Edition Stereo |
 | Label          | Discipline Global Mobile |
 | Catalog Number | DGMLV1 |
-| Notes | Gatefold Sleeve. 200 Gram Super Heavyweight Vinyl. The Elements Tour 2014 : Live at the Orpheum Theatre, Los Angeles, CA, September 30 & October 1. ℗ & © 2015 Robert Fripp on behalf of King Crimson Made in England.  Releases made available to the trade by Record Company DGM at a later date than the release date in 2015 may contain colour-printed inner sleeves: DGM's catalogue of King Crimson releases (see pictures, here up to 2021). All other features including the matrices / runouts are identical. |
+| Notes | Gatefold Sleeve.<br>200 Gram Super Heavyweight Vinyl.<br>The Elements Tour 2014 : Live at the Orpheum Theatre, Los Angeles, CA, September 30 & October 1.<br>℗ & © 2015 Robert Fripp on behalf of King Crimson<br>Made in England.<br><br>Releases made available to the trade by Record Company DGM at a later date than the release date in 2015 may contain colour-printed inner sleeves: DGM's catalogue of King Crimson releases (see pictures, here up to 2021). All other features including the matrices / runouts are identical. |
 | Discogs URL    | [King Crimson - Live At The Orpheum](https://www.discogs.com/release/6596408-King-Crimson-Live-At-The-Orpheum) |

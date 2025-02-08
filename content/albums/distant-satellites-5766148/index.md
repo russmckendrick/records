@@ -4,6 +4,7 @@ artist_name: "Anathema"
 artist: "anathema"
 album_name: "Distant Satellites"
 date: 2015-09-21T18:54:18.000000Z
+release_date: "2014-06-04"
 release_id: "5766148"
 slug: "distant-satellites-5766148"
 hideSummary: true
@@ -44,35 +45,30 @@ styles: ["Prog Rock"]
 Distant Satellites (stylised as distant satellites) is the tenth studio album by the British rock band Anathema. It was released in June 2014 via Kscope and reached #33 in the UK album charts.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Lost Song Part 1 (5:53)
-2. The Lost Song Part 2 (5:47)
-3. Dusk (Dark Is Descending) (6:01)
-4. Ariel (6:29)
-5. The Lost Song Part 3 (5:22)
-6. Anathema (6:41)
-7. You're Not Alone (3:26)
-8. Firelight (2:44)
-9. Distant Satellites (8:18)
-10. Take Shelter (6:18)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Lost Song Part 1 | 5:53 |
+| A2 | The Lost Song Part 2 | 5:47 |
+| B1 | Dusk (Dark Is Descending) | 6:01 |
+| B2 | Ariel | 6:29 |
+| C1 | The Lost Song Part 3 | 5:22 |
+| C2 | Anathema | 6:41 |
+| C3 | You're Not Alone | 3:26 |
+| D1 | Firelight | 2:44 |
+| D2 | Distant Satellites | 8:18 |
+| D3 | Take Shelter | 6:18 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/distant-satellites-tour-edition/1030782699" >}}<br>
 
 
-## Videos
-### Anathema - The Lost Song part 3 FULL TRACK from Distant Satellites
-{{< youtube id="q2bwKAPgsyA" title="Anathema - The Lost Song part 3 FULL TRACK from Distant Satellites" >}}<br>
-### More Videos
-
-- [Anathema - The Making of the Distant Satellites clip from the Special Edition documentary](https://www.youtube.com/watch?v=MsgFPDZKU3M)
-- [Anathema - The Lost Song part 3 FULL TRACK from Distant Satellites](https://www.youtube.com/watch?v=q2bwKAPgsyA)
-- [Anathema - The Making of the Distant Satellites clip from the Special Edition documentary](https://www.youtube.com/watch?v=MsgFPDZKU3M)
-- [Anathema - Distant Satellites Full Album](https://www.youtube.com/watch?v=J1pkkCmBgCk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +80,5 @@ Distant Satellites (stylised as distant satellites) is the tenth studio album by
 | Format         | Vinyl 2× LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE866 |
-| Notes | Gatefold jacket. 180g vinyl in poly-lined sleeves. Includes an 8-page booklet.   Runouts are etched. |
+| Notes | Gatefold jacket. 180g vinyl in poly-lined sleeves. Includes an 8-page booklet. <br><br>Runouts are etched. |
 | Discogs URL    | [Anathema - Distant Satellites](https://www.discogs.com/release/5766148-Anathema-Distant-Satellites) |

@@ -50,30 +50,23 @@ Two years earlier, on the group’s debut album, <i>Tweez</i>, the members of Sl
 
 
 ## Tracklisting
-1. Spiderland
-2. Breadcrumb Trail
-3. Nosferatu Man
-4. Don, Aman
-5. Washer
-6. For Dinner...
-7. Good Morning, Captain
-8. -
-9. Breadcrumb Trail
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Spiderland |  |
+| A1 | Breadcrumb Trail |  |
+| A2 | Nosferatu Man |  |
+| A3 | Don, Aman |  |
+| B1 | Washer |  |
+| B2 | For Dinner... |  |
+| B3 | Good Morning, Captain |  |
+|  | - |  |
+| DVD | Breadcrumb Trail |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/spiderland/1117723921" >}}<br>
 
 
-## Videos
-### Breadcrumb Trail
-{{< youtube id="gBfoQjJ7guk" title="Breadcrumb Trail" >}}<br>
-### More Videos
-
-- [Nosferatu Man](https://www.youtube.com/watch?v=5ugdrdFrhI0)
-- [Don Aman](https://www.youtube.com/watch?v=qMHh02UhQhs)
-- [Washer](https://www.youtube.com/watch?v=nmL7rXt1fvI)
-- [For Dinner](https://www.youtube.com/watch?v=oKINKblbx2s)
-- [Good Morning Captain](https://www.youtube.com/watch?v=CuqEpjcBfaU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +78,5 @@ Two years earlier, on the group’s debut album, <i>Tweez</i>, the members of Sl
 | Format         | Vinyl LP Album Remastered Reissue (Gatefold, 180 Gram), DVD DVD-Video NTSC |
 | Label          | Touch And Go |
 | Catalog Number | TG364lp |
-| Notes | Comes in a heavy weight “tip-on” gatefold LP jacket with a glued-in, large format 12 page booklet of photos and a foreword by Will Oldham.  Includes a MP3 download coupon for the remastered album itself, as well as 14 bonus outtakes and demos as originally featured in the [r5584658] Box Set.   © 1991-2014 slint music (bmi) © ℗ 1991-2014 touch and go records  Melody Maker reprint © IPC+ Syndication  "Spiderland" recorded Aug-Oct. '90.   |
+| Notes | Comes in a heavy weight “tip-on” gatefold LP jacket with a glued-in, large format 12 page booklet of photos and a foreword by Will Oldham.<br><br>Includes a MP3 download coupon for the remastered album itself, as well as 14 bonus outtakes and demos as originally featured in the [r5584658] Box Set.<br><br><br>© 1991-2014 slint music (bmi)<br>© ℗ 1991-2014 touch and go records<br><br>Melody Maker reprint © IPC+ Syndication<br><br>"Spiderland" recorded Aug-Oct. '90.<br><br> |
 | Discogs URL    | [Slint - Spiderland](https://www.discogs.com/release/5813623-Slint-Spiderland) |

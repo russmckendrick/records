@@ -4,6 +4,7 @@ artist_name: "Crippled Black Phoenix"
 artist: "crippled-black-phoenix"
 album_name: "Great Escape"
 date: 2018-09-19T17:58:20.000000Z
+release_date: "2018-09-14"
 release_id: "12492262"
 slug: "great-escape-12492262"
 hideSummary: true
@@ -30,31 +31,30 @@ styles: ["Prog Rock", "Post Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. You Brought It Upon Yourselves
-2. To You I Give
-3. Uncivil War (Pt I)
-4. Madman
-5. Times They Are A'Raging
-6. Rain Black, Reign Heavy
-7. Slow Motion Breakdown
-8. Nebulas
-9. Las Diabolicas
-10. Great Escape (Pt I)
-11. Great Escape (Pt II)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A-I | You Brought It Upon Yourselves |  |
+| A-II | To You I Give |  |
+| A-III | Uncivil War (Pt I) |  |
+| B-I | Madman |  |
+| B-II | Times They Are A'Raging |  |
+| C-I | Rain Black, Reign Heavy |  |
+| C-II | Slow Motion Breakdown |  |
+| C-III | Nebulas |  |
+| C-IV | Las Diabolicas |  |
+| D-I | Great Escape (Pt I) |  |
+| D-II | Great Escape (Pt II) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/great-escape/1407034902" >}}<br>
 
 
-## Videos
-### Crippled Black Phoenix - Great Escape 2018 Full Album Stream
-{{< youtube id="C0KCueuqvt8" title="Crippled Black Phoenix - Great Escape 2018 Full Album Stream" >}}<br>
-### More Videos
-
-- [Crippled Black Phoenix - Hunok Csatája Official Track Premiere](https://www.youtube.com/watch?v=CV07GXCsQGg)
-- [Crippled Black Phoenix - Uncivil War pt I](https://www.youtube.com/watch?v=sF2xgZWPcHs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +65,5 @@ styles: ["Prog Rock", "Post Rock"]
 | Format         | Vinyl 2× LP Album Limited Edition (Clear) |
 | Label          | Season Of Mist |
 | Catalog Number | SOM 491LP |
-| Notes | Season of Mist eShop exclusive, limited to 250 copies. Housed in gatefold jacket, with spot gloss accents.  SOM 491LP found on spine. SOM 491LPES found on hype sticker. SOM491LP found on labels. |
+| Notes | Season of Mist eShop exclusive, limited to 250 copies. Housed in gatefold jacket, with spot gloss accents.<br><br>SOM 491LP found on spine. SOM 491LPES found on hype sticker. SOM491LP found on labels. |
 | Discogs URL    | [Crippled Black Phoenix - Great Escape](https://www.discogs.com/release/12492262-Crippled-Black-Phoenix-Great-Escape) |

@@ -35,38 +35,26 @@ In form and function, <i>Temple of Low Men</i> is a purposely back-to-front affa
 
 
 ## Tracklisting
-1. High Side
-2. I Feel Possessed
-3. Kill Eye
-4. Into Temptation
-5. Mansion In The Slums
-6. When You Come
-7. Low Side
-8. Never Be The Same
-9. Love This Life
-10. Sister Madly
-11. In The Lowlands
-12. Better Be Home Soon
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | High Side |  |
+| A1 | I Feel Possessed |  |
+| A2 | Kill Eye |  |
+| A3 | Into Temptation |  |
+| A4 | Mansion In The Slums |  |
+| A5 | When You Come |  |
+|  | Low Side |  |
+| B1 | Never Be The Same |  |
+| B2 | Love This Life |  |
+| B3 | Sister Madly |  |
+| B4 | In The Lowlands |  |
+| B5 | Better Be Home Soon |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/temple-of-low-men-deluxe/1443523738" >}}<br>
 
 
-## Videos
-### Crowded House - Into Temptation
-{{< youtube id="j8U1gC2JilQ" title="Crowded House - Into Temptation" >}}<br>
-### More Videos
-
-- [Crowded House - When You Come](https://www.youtube.com/watch?v=LUP3XOa3yRs)
-- [Crowded House - Better Be Home Soon Official Video](https://www.youtube.com/watch?v=AQOlwMKpmvQ)
-- [Crowded House - I Feel Possessed](https://www.youtube.com/watch?v=FhhB4ztWFbQ)
-- [Crowded House - Better Be Home Soon Official Video](https://www.youtube.com/watch?v=AQOlwMKpmvQ)
-- [CROWDED HOUSE - TEMPLE OF LOW MEN](https://www.youtube.com/watch?v=kT6uSOoLGOE)
-- [In The Lowlands](https://www.youtube.com/watch?v=yvo_EZq9E5I)
-- [Never Be The Same](https://www.youtube.com/watch?v=5ppQCjNF6zo)
-- [Mansion In The Slums](https://www.youtube.com/watch?v=9A4oxGbdLIc)
-- [Kill Eye](https://www.youtube.com/watch?v=k-SQKxoqk7M)
-- [Sister Madly](https://www.youtube.com/watch?v=UlAaFbrPHhU)
 
 ## Release Images
 {{< imageGrid >}}

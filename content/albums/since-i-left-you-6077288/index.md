@@ -4,6 +4,7 @@ artist_name: "The Avalanches"
 artist: "the-avalanches"
 album_name: "Since I Left You"
 date: 2021-05-30T05:08:26.000000Z
+release_date: "2001-04-16"
 release_id: "6077288"
 slug: "since-i-left-you-6077288"
 hideSummary: true
@@ -26,67 +27,38 @@ styles: ["Leftfield", "Abstract"]
 Since I Left You is the debut studio album by Australian electronic music group the Avalanches, released on 27 November 2000 by Modular Recordings. It was produced by group members Robbie Chater and Darren Seltmann (under the pseudonym Bobbydazzler), and samples extensively from various genres. The album was recorded and produced at two separate, near-identical studios by Chater and Seltmann, exchanging audio mixes of records they sampled.
 After the album's positive reception in Australia, the duo considered an international release – its date was held back until 2001 in the United Kingdom and North America and appeared in slightly altered forms. The delay and changes occurred so that the group could obtain permission to use the samples or use replacements. Four singles were released from the album: "Electricity", "Frontier Psychiatrist", "Since I Left You", and "Radio". The group promoted the album by organising headlining tours in Australia, Europe and the United States.
 Since I Left You was acclaimed by critics. It peaked in the top 30 on the ARIA Albums Chart, number 12 in Norway, number eight on the UK Albums Chart and, in the United States, at number ten on the Top Electronic Albums chart and in the top 40 on the Top Heatseekers chart. At the ARIA Music Awards of 2001, it won in four categories: Breakthrough Artist – Album, Best Dance Release, Producer of the Year for Bobbydazzler, and Breakthrough Artist – Single for "Frontier Psychiatrist". Since I Left You became one of the best-reviewed albums of the 2000s, and was listed at number ten in the book 100 Best Australian Albums.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Since I Left You (4:18)
-2. Stay Another Season (2:15)
-3. Radio (4:52)
-4. Two Hearts In 3/4 Time (3:22)
-5. Avalanche Rock (0:23)
-6. Flight Tonight (3:51)
-7. Close To You (3:56)
-8. Diners Only (1:43)
-9. A Different Feeling (4:23)
-10. Electricity (3:29)
-11. Tonight May Have To Last Me All My Life (2:20)
-12. Pablo's Cruise (0:53)
-13. Frontier Psychiatrist (4:47)
-14. Etoh (5:02)
-15. Summer Crane (4:39)
-16. Little Journey (1:53)
-17. Live At Dominoes (5:38)
-18. Extra Kings (3:46)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Since I Left You | 4:18 |
+| A2 | Stay Another Season | 2:15 |
+| A3 | Radio | 4:52 |
+| A4 | Two Hearts In 3/4 Time | 3:22 |
+| B1 | Avalanche Rock | 0:23 |
+| B2 | Flight Tonight | 3:51 |
+| B3 | Close To You | 3:56 |
+| B4 | Diners Only | 1:43 |
+| B5 | A Different Feeling | 4:23 |
+| C1 | Electricity | 3:29 |
+| C2 | Tonight May Have To Last Me All My Life | 2:20 |
+| C3 | Pablo's Cruise | 0:53 |
+| C4 | Frontier Psychiatrist | 4:47 |
+| D1 | Etoh | 5:02 |
+| D2 | Summer Crane | 4:39 |
+| D3 | Little Journey | 1:53 |
+| D4 | Live At Dominoes | 5:38 |
+| D5 | Extra Kings | 3:46 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/since-i-left-you/1450114829" >}}<br>
 
 
-## Videos
-### The Avalanches - Since I Left You Extended Alternate Version
-{{< youtube id="vFWmwkoNq6s" title="The Avalanches - Since I Left You Extended Alternate Version" >}}<br>
-### More Videos
-
-- [The Avalanches  Since I Left You](https://www.youtube.com/watch?v=kB3-2CL_l4U)
-- [Since I Left You Stereolab Remix](https://www.youtube.com/watch?v=cVpeYfRZ6mY)
-- [The Avalanches - Since I Left You Ultimate Ultimate Single Version](https://www.youtube.com/watch?v=3-iRAQWvem8)
-- [The Avalanches - Stay Another Season](https://www.youtube.com/watch?v=fsJcghJepIE)
-- [The Avalanches  With My Baby](https://www.youtube.com/watch?v=-JfTdLmrccQ)
-- [The Avalanches - Radio Ultimate Single Version](https://www.youtube.com/watch?v=A96WCiH8cgc)
-- [Two Hearts In 34 Time](https://www.youtube.com/watch?v=NLglw43AUkE)
-- [The Avalanches  Avalanche Rock](https://www.youtube.com/watch?v=_c_E53N6QfU)
-- [The Avalanches - Flight Tonight](https://www.youtube.com/watch?v=IvWsfyapD2Y)
-- [The Avalanches - Close To You](https://www.youtube.com/watch?v=eQN5j0bt678)
-- [The Avalanches - Diners Only Original Release](https://www.youtube.com/watch?v=iDTCSFQk9Cg)
-- [The Avalanches- A different feeling](https://www.youtube.com/watch?v=9loABWPkT2E)
-- [Electricity](https://www.youtube.com/watch?v=uPeQ9eP_FgY)
-- [The Avalanches   Tonight May Have to Last Me All My Life](https://www.youtube.com/watch?v=bQQG7qw41Og)
-- [Pablos Cruise](https://www.youtube.com/watch?v=7rfxZ5IJQxg)
-- [The Avalanches - Frontier Psychiatrist Official Video](https://www.youtube.com/watch?v=qLrnkK2YEcE)
-- [ETOH](https://www.youtube.com/watch?v=QDasjmCz1do)
-- [The Avalanches - Summer Crane](https://www.youtube.com/watch?v=KuLD_JSY4z8)
-- [The Avalanches  Little Journey](https://www.youtube.com/watch?v=H9UD-ZmMjXE)
-- [The Avalanches  Live at Dominoes](https://www.youtube.com/watch?v=CWOAFVLcDic)
-- [The Avalanches  Extra Kings](https://www.youtube.com/watch?v=_6TWkDeAIxI)
-- [The Avalanches - Since I Left You](https://www.youtube.com/watch?v=wpqm-05R2Jk)
-- [The Avalanches - Since I Left You Prince Paul Remix](https://www.youtube.com/watch?v=vSqcYv0QgGw)
-- [Samples from The Avalanches - Since I Left You](https://www.youtube.com/watch?v=31gTur14Hbc)
-- [The Avalanches -  Since I Left You](https://www.youtube.com/watch?v=wpqm-05R2Jk)
-- [The Avalanches -  Frontier Psychiatrist](https://www.youtube.com/watch?v=qLrnkK2YEcE)
-- [The Avalanches - Since I Left You 1hr](https://www.youtube.com/watch?v=IBjuX1Gs5hU)
-- [A Different Feeling Carl Craigs Paperclip People Remix](https://www.youtube.com/watch?v=RUZDndmoV0s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -98,5 +70,5 @@ Since I Left You was acclaimed by critics. It peaked in the top 30 on the ARIA A
 | Format         | Vinyl 2× LP Reissue (Gatefold) |
 | Label          | XL Recordings |
 | Catalog Number | XLLP 138 |
-| Notes | This is the 2012 reissue on XL Recordings, domestic to UK and Europe. It was standard black vinyl, plus a limited number on 'marbled sea blue' vinyl.  -The back sleeve lists "Bobby Dazzler Productions", "Modular", "XL Recordings" -The websites "www.modularpeople.com" and "xlrecordings" are printed above the barcode -The gatefold contains an extensive sample list on the right-hand panel -Track C2/11 is listed as "Tonight" on the sleeve, but "Tonight May Have To Last Me All My Life" on the side C label -The gatefold spine is blue -The inner sleeves are black -The XL and Modular logos and websites are printed on sides A,B,C, and D labels; there are no white rings bordering the labels  Sample notes: -Uses the ORIGINAL SAMPLES version of "Frontier Psychiatrist"    FOOTNOTE The following is true for every vinyl pressing of "Since I Left You" (except the Rex Records test pressing): "Since I Left You" and "Live At Dominoes" do not contain the "younger than springtime" sample from Rodgers/Hammerstein. "Summer Crane" and "Extra Kings" do not contain the flute sample from War's "H2Overture" "Radio" does not contain the "Johnny!" dialogue at the beginning "Diners Only" does not contain the "good evening gentlemen" dialogue at the beginning |
+| Notes | This is the 2012 reissue on XL Recordings, domestic to UK and Europe. It was standard black vinyl, plus a limited number on 'marbled sea blue' vinyl.<br><br>-The back sleeve lists "Bobby Dazzler Productions", "Modular", "XL Recordings"<br>-The websites "www.modularpeople.com" and "xlrecordings" are printed above the barcode<br>-The gatefold contains an extensive sample list on the right-hand panel<br>-Track C2/11 is listed as "Tonight" on the sleeve, but "Tonight May Have To Last Me All My Life" on the side C label<br>-The gatefold spine is blue<br>-The inner sleeves are black<br>-The XL and Modular logos and websites are printed on sides A,B,C, and D labels; there are no white rings bordering the labels<br><br>Sample notes:<br>-Uses the ORIGINAL SAMPLES version of "Frontier Psychiatrist" <br><br><br>FOOTNOTE<br>The following is true for every vinyl pressing of "Since I Left You" (except the Rex Records test pressing):<br>"Since I Left You" and "Live At Dominoes" do not contain the "younger than springtime" sample from Rodgers/Hammerstein.<br>"Summer Crane" and "Extra Kings" do not contain the flute sample from War's "H2Overture"<br>"Radio" does not contain the "Johnny!" dialogue at the beginning<br>"Diners Only" does not contain the "good evening gentlemen" dialogue at the beginning |
 | Discogs URL    | [The Avalanches - Since I Left You](https://www.discogs.com/release/6077288-The-Avalanches-Since-I-Left-You) |

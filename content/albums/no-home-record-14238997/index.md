@@ -33,36 +33,23 @@ The wit is classic (“Airbnb/Could set me free!” she wails on “Air BnB”, 
 
 
 ## Tracklisting
-1. Sketch Artist
-2. Air BnB
-3. Paprika Pony
-4. Murdered Out
-5. Don't Play It
-6. Cookie Butter
-7. Hungry Baby
-8. Earthquake
-9. Get Yr Life Back
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sketch Artist |  |
+| A2 | Air BnB |  |
+| A3 | Paprika Pony |  |
+| A4 | Murdered Out |  |
+| A5 | Don't Play It |  |
+| B1 | Cookie Butter |  |
+| B2 | Hungry Baby |  |
+| B3 | Earthquake |  |
+| B4 | Get Yr Life Back |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/no-home-record/1586497284" >}}<br>
 
 
-## Videos
-### Kim Gordon - Sketch Artist Official Music Video
-{{< youtube id="TJl_9a6dp4g" title="Kim Gordon - Sketch Artist Official Music Video" >}}<br>
-### More Videos
-
-- [Kim Gordon - Air BnB](https://www.youtube.com/watch?v=_Jhhzy7vr8A)
-- [Kim Gordon - Murdered Out](https://www.youtube.com/watch?v=NvgRg_mUhtQ)
-- [Kim Gordon - Sketch Artist Official Music Video](https://www.youtube.com/watch?v=TJl_9a6dp4g)
-- [Kim Gordon - Air BnB](https://www.youtube.com/watch?v=_Jhhzy7vr8A)
-- [Kim Gordon - Murdered Out](https://www.youtube.com/watch?v=NvgRg_mUhtQ)
-- [Kim Gordon - Paprika Pony](https://www.youtube.com/watch?v=H8bGYENQjGM)
-- [Dont Play It](https://www.youtube.com/watch?v=Hitjbwqz4iY)
-- [Cookie Butter](https://www.youtube.com/watch?v=YvwgSnIyJdE)
-- [Kim Gordon - Hungry Baby Official Video](https://www.youtube.com/watch?v=paKCImP-IOk)
-- [Kim Gordon - Earthquake Official Video](https://www.youtube.com/watch?v=_eT9O62dEBU)
-- [Get Yr Life Back](https://www.youtube.com/watch?v=i9o3bdEXl1U)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +61,5 @@ The wit is classic (“Airbnb/Could set me free!” she wails on “Air BnB”, 
 | Format         | Vinyl LP Album Limited Edition Stereo (White) |
 | Label          | Matador |
 | Catalog Number | OLE-1379LPE |
-| Notes | Includes a custom inner sleeve and a download coupon.  Was also originally available on Matador Records website as bundle with a t-shirt or tote bag.  ℗ & © 2019 Matador Records 134 Grand Street NYC 10013  Recorded at Sphere Ranch at Paulie's Kro East Studios  Published By: Forgetful Songs (BMI), Brought To You By Heavy Music (ASCAP)/Heavy Duty Music Publishing and Mantis Films LLC |
+| Notes | Includes a custom inner sleeve and a download coupon.<br><br>Was also originally available on Matador Records website as bundle with a t-shirt or tote bag.<br><br>℗ & © 2019 Matador Records 134 Grand Street NYC 10013<br><br>Recorded at Sphere Ranch at Paulie's Kro East Studios<br><br>Published By: Forgetful Songs (BMI), Brought To You By Heavy Music (ASCAP)/Heavy Duty Music Publishing and Mantis Films LLC |
 | Discogs URL    | [Kim Gordon - No Home Record](https://www.discogs.com/release/14238997-Kim-Gordon-No-Home-Record) |

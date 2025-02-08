@@ -1,9 +1,10 @@
 ---
 title: "Matt Berry - Witchazel"
 artist_name: "Matt Berry"
-artist: "matt-berry-3"
+artist: "matt-berry"
 album_name: "Witchazel"
 date: 2018-09-21T10:28:05.000000Z
+release_date: "2011-03-07"
 release_id: "12487686"
 slug: "witchazel-12487686"
 hideSummary: true
@@ -22,44 +23,32 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. An Awakening
-2. Take My Hand
-3. Accident At A Harvest Festival
-4. A Song For Rosie
-5. So Low
-6. Look In My Book
-7. The Pheasant
-8. Woman
-9. The Badger's Wake
-10. Rain Came Down
-11. From The Manger To The Mortuary / Recorder Dance
-12. Into The Sky
-13. Roosting Time
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | An Awakening |  |
+| A2 | Take My Hand |  |
+| A3 | Accident At A Harvest Festival |  |
+| A4 | A Song For Rosie |  |
+| A5 | So Low |  |
+| A6 | Look In My Book |  |
+| A7 | The Pheasant |  |
+| B1 | Woman |  |
+| B2 | The Badger's Wake |  |
+| B3 | Rain Came Down |  |
+| B4 | From The Manger To The Mortuary / Recorder Dance |  |
+| B5 | Into The Sky |  |
+| B6 | Roosting Time |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/witchazel/1152574810" >}}<br>
 
 
-## Videos
-### MATT BERRY - Take My Hand official video - Acid Jazz Records
-{{< youtube id="Rdqu-HObUbo" title="MATT BERRY - Take My Hand official video - Acid Jazz Records" >}}<br>
-### More Videos
-
-- [Matt Berry - A Song for Rosie](https://www.youtube.com/watch?v=Cc5RKEPH1vo)
-- [An Awakening - Matt Berry](https://www.youtube.com/watch?v=uIeyGk2QPlg)
-- [Matt Berry Accident At A Harvest Festival](https://www.youtube.com/watch?v=VAagLPNneGQ)
-- [Matt Berry - Accident At A Harvest Festival](https://www.youtube.com/watch?v=PrUYWbjGevA)
-- [The Badgers Wake - Matt Berry](https://www.youtube.com/watch?v=QSp5LwN5Q68)
-- [Look In My Book - Matt Berry](https://www.youtube.com/watch?v=pNtbE2laRbs)
-- [Matt Berrys Comedy Voice](https://www.youtube.com/watch?v=xXmSlu1n5T4)
-- [The Pheasant - Matt Berry](https://www.youtube.com/watch?v=dyvAowKwIno)
-- [Matt Berry Rain Came Down](https://www.youtube.com/watch?v=2E7r7vlJ_tU)
-- [Rain Came Down - Matt Berry](https://www.youtube.com/watch?v=QI4_DmjXpEM)
-- [Matt Berry Roosting Time](https://www.youtube.com/watch?v=d3pPrdSh9Ds)
-- [Look in My Book](https://www.youtube.com/watch?v=mJM7LZJtwU0)
-- [Matt Berry Rain Came Down](https://www.youtube.com/watch?v=2E7r7vlJ_tU)
 
 ## Release Images
 {{< imageGrid >}}

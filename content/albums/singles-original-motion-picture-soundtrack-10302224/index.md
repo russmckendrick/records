@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Singles (Original Motion Picture Soundtrack)"
 date: 2017-05-19T08:39:36.000000Z
+release_date: ""
 release_id: "10302224"
 slug: "singles-original-motion-picture-soundtrack-10302224"
 hideSummary: true
@@ -30,66 +31,50 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Would?
-2. Breath
-3. Seasons
-4. Dyslexic Heart
-5. Battle Of Evermore
-6. Chloe Dancer / Crown Of Thorns
-7. Birth Ritual
-8. State Of Love And Trust
-9. Overblown
-10. Waiting For Somebody
-11. May This Be Love
-12. Nearly Lost You
-13. Drown
-14. Touch Me, I'm Dick
-15. Nowhere But You
-16. Spoon Man
-17. Flutter Girl
-18. Missing
-19. Would? (Live)
-20. It Ain't Like That (Live)
-21. Birth Ritual (Live)
-22. Dislexic Heart (Acoustic)
-23. Waiting For Somebody (Score Acoustic)
-24. Overblown (Demo)
-25. Heart And Lungs
-26. Six Foot Under
-27. Singles Blues 1
-28. Blue Heart
-29. Lost In Emily's Woods
-30. Ferry Boat #3
-31. Score Piece #4
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Would? |  |
+| A2 | Breath |  |
+| A3 | Seasons |  |
+| B1 | Dyslexic Heart |  |
+| B2 | Battle Of Evermore |  |
+| B3 | Chloe Dancer / Crown Of Thorns |  |
+| C1 | Birth Ritual |  |
+| C2 | State Of Love And Trust |  |
+| C3 | Overblown |  |
+| C4 | Waiting For Somebody |  |
+| D1 | May This Be Love |  |
+| D2 | Nearly Lost You |  |
+| D3 | Drown |  |
+| CD-1 | Touch Me, I'm Dick |  |
+| CD-2 | Nowhere But You |  |
+| CD-3 | Spoon Man |  |
+| CD-4 | Flutter Girl |  |
+| CD-5 | Missing |  |
+| CD-6 | Would? (Live) |  |
+| CD-7 | It Ain't Like That (Live) |  |
+| CD-8 | Birth Ritual (Live) |  |
+| CD-9 | Dislexic Heart (Acoustic) |  |
+| CD-10 | Waiting For Somebody (Score Acoustic) |  |
+| CD-11 | Overblown (Demo) |  |
+| CD-12 | Heart And Lungs |  |
+| CD-13 | Six Foot Under |  |
+| CD-14 | Singles Blues 1 |  |
+| CD-15 | Blue Heart |  |
+| CD-16 | Lost In Emily's Woods |  |
+| CD-17 | Ferry Boat #3 |  |
+| CD-18 | Score Piece #4 |  |
 
 
-## Spotify
-{{< spotify type="album" id="58BEJ01sL8wK5LV3TPyngC" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
-## Videos
-### Alice In Chains - Would Official HD Video
-{{< youtube id="Nco_kh8xJDs" title="Alice In Chains - Would Official HD Video" >}}<br>
-### More Videos
-
-- [Dyslexic Heart](https://www.youtube.com/watch?v=MZVAppKV794)
-- [Chloe DancerCrown Of Thorns](https://www.youtube.com/watch?v=MJTRSQgIb88)
-- [Birth Ritual](https://www.youtube.com/watch?v=YrreIn7PQbI)
-- [State Of Love And Trust from the Warner Bros film Singles](https://www.youtube.com/watch?v=CrCfBPF7g5Q)
-- [Mudhoney - Overblown](https://www.youtube.com/watch?v=Bab_KwqGpEw)
-- [Screaming Trees - Nearly Lost You](https://www.youtube.com/watch?v=PE5f561Y1x4)
-- [Smashing Pumpkins Drown](https://www.youtube.com/watch?v=N66Ki1iMMjY)
-- [Paul Westerberg - Waiting for Somebody](https://www.youtube.com/watch?v=b807jX8J_i8)
-- [Paul Westerberg - Dyslexic Heart](https://www.youtube.com/watch?v=MVhBEtTSEcE)
-- [Lovemongers - Battle of Evermore](https://www.youtube.com/watch?v=q7DxFQ6FhzQ)
-- [Singles Original Motion Picture Soundtrack Full Album](https://www.youtube.com/watch?v=b88Rin1cplU)
-- [Pearl Jam - Breath](https://www.youtube.com/watch?v=8GeZ7fd_90A)
-- [Chris Cornell - Seasons](https://www.youtube.com/watch?v=TksqEIl1uxU)
-- [Smashing Pumpkins Drown full better quality](https://www.youtube.com/watch?v=pGDzsds4Ll0)
-- [Pearl Jam State of Love and Trust Singles Soundtrack](https://www.youtube.com/watch?v=4hr26JwPOZA)
-- [Mudhoney  Overblown](https://www.youtube.com/watch?v=a991p2SXpr8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -100,5 +85,5 @@ styles: ["Alternative Rock", "Grunge", "Indie Rock", "Soundtrack"]
 | Format         | Vinyl 2× LP Reissue (Gatefold Sleeve), CD, All Media Compilation Deluxe Edition (25th Anniversary Edition) |
 | Label          | Epic Soundtrax |
 | Catalog Number | 88985315511 |
-| Notes | Gatefold sleeve. Includes mp3 download card. CD issued in cardboard sleeve.  Made in the EU. (on labels and back sleeve)  Sony Music logo on back of gatefold sleeve.  Artist for CD tracks 2 to 5 is credited "Chris Cornell (Poncier)" |
+| Notes | Gatefold sleeve.<br>Includes mp3 download card.<br>CD issued in cardboard sleeve.<br><br>Made in the EU. (on labels and back sleeve)<br><br>Sony Music logo on back of gatefold sleeve.<br><br>Artist for CD tracks 2 to 5 is credited "Chris Cornell (Poncier)" |
 | Discogs URL    | [Various - Singles (Original Motion Picture Soundtrack)](https://www.discogs.com/release/10302224-Various-Singles-Original-Motion-Picture-Soundtrack) |

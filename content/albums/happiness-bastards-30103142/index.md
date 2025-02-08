@@ -41,31 +41,24 @@ In the context of The Black Crowes’ contentious past, it’s tempting to hear 
 
 
 ## Tracklisting
-1. Bedside Manners
-2. Rats And Clowns
-3. Cross Your Fingers
-4. Wanting And Waiting
-5. Wilted Rose
-6. Dirty Cold Sun
-7. Bleed It Dry
-8. Flesh Wound
-9. Follow The Moon
-10. Kindred Friend
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Bedside Manners |  |
+| A2 | Rats And Clowns |  |
+| A3 | Cross Your Fingers |  |
+| A4 | Wanting And Waiting |  |
+| A5 | Wilted Rose |  |
+| B1 | Dirty Cold Sun |  |
+| B2 | Bleed It Dry |  |
+| B3 | Flesh Wound |  |
+| B4 | Follow The Moon |  |
+| B5 | Kindred Friend |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/happiness-bastards/1719010572" >}}<br>
 
 
-## Videos
-### The Black Crowes - Happiness Bastards Album Available Now
-{{< youtube id="QfSnOZ_R_Sg" title="The Black Crowes - Happiness Bastards Album Available Now" >}}<br>
-### More Videos
-
-- [The Black Crowes - Wanting and Waiting Official Video](https://www.youtube.com/watch?v=rHBu97e--xA)
-- [The Black Crowes - Happiness Bastards Full Album 2024](https://www.youtube.com/watch?v=m10g2IBf9Lc)
-- [The Black Crowes - Album release party - Happiness Bastards - FULL SHOW](https://www.youtube.com/watch?v=Z1RR5nmaZ1A)
-- [The Black Crowes Wanting and Waiting  The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/watch?v=FJEK0XWSL2w)
-- [The Black Crowes - Happiness Bastards Album Available Now](https://www.youtube.com/watch?v=QfSnOZ_R_Sg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +70,5 @@ In the context of The Black Crowes’ contentious past, it’s tempting to hear 
 | Format         | Vinyl LP Album Stereo (Clear) |
 | Label          | Silver Arrow Records |
 | Catalog Number | SAR66 |
-| Notes | Clear LP. Limited edition for independent record stores. The inside of the gatefold sleeve is printed yellow and partially laminated.  On sticker: Made in CZ  The runout strings are laser etched.  |
+| Notes | Clear LP. Limited edition for independent record stores.<br>The inside of the gatefold sleeve is printed yellow and partially laminated.<br><br>On sticker:<br>Made in CZ<br><br>The runout strings are laser etched.<br> |
 | Discogs URL    | [The Black Crowes - Happiness Bastards](https://www.discogs.com/release/30103142-The-Black-Crowes-Happiness-Bastards) |

@@ -4,6 +4,7 @@ artist_name: "Monster Magnet"
 artist: "monster-magnet"
 album_name: "4-Way Diablo"
 date: 2022-09-24T04:01:55.000000Z
+release_date: "2007-11-06"
 release_id: "24531617"
 slug: "4-way-diablo-24531617"
 hideSummary: true
@@ -28,44 +29,33 @@ styles: ["Stoner Rock"]
 Following the album's release, none of its songs were included in the concert sets. According to frontman Dave Wyndorf, they were not written as live songs and he deemed them too delicate to work as such. The album includes a cover of The Rolling Stones' "2000 Light Years from Home" from their 1967 psychedelic rock album Their Satanic Majesties Request. The track "No Vacation" is a re-recording of the song "Atom Age Vampire" originally featured on the EP Love Monster, a demo collection recorded by Wyndorf in 1988.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. 4-Way Diablo
-2. Wall Of Fire
-3. You're Alive
-4. Blow Your Mind
-5. Cyclone
-6. 2000 Light Years From Home
-7. No Vacation
-8. I'm Calling You
-9. Solid Gold
-10. Freeze And Pixillate
-11. A Thousand Stars
-12. Slap In The Face
-13. Little Bag Of Gloom
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 4-Way Diablo |  |
+| A2 | Wall Of Fire |  |
+| A3 | You're Alive |  |
+| A4 | Blow Your Mind |  |
+| B1 | Cyclone |  |
+| B2 | 2000 Light Years From Home |  |
+| B3 | No Vacation |  |
+| C1 | I'm Calling You |  |
+| C2 | Solid Gold |  |
+| C3 | Freeze And Pixillate |  |
+| D1 | A Thousand Stars |  |
+| D2 | Slap In The Face |  |
+| D3 | Little Bag Of Gloom |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/4-way-diablo/1635598921" >}}<br>
 
 
-## Videos
-### Monster Magnet - 4-Way Diablo
-{{< youtube id="3psuTo6UY_8" title="Monster Magnet - 4-Way Diablo" >}}<br>
-### More Videos
-
-- [Monster Magnet - Slap In The Face - 4-Way Diablowmv](https://www.youtube.com/watch?v=Adf7bQ8W6Ck)
-- [Monster Magnet - Wall of Fire](https://www.youtube.com/watch?v=oJH6W-c-Rgw)
-- [Monster Magnet - Youre Alive](https://www.youtube.com/watch?v=G7z91YHoDH0)
-- [Blow Your Mind - Monster Magnet - 4-Way Diablo](https://www.youtube.com/watch?v=GYkNh3w6hcE)
-- [Monster Magnet - A Thousand Stars](https://www.youtube.com/watch?v=w3_jlsyWSRg)
-- [Monster Magnet - Im calling you](https://www.youtube.com/watch?v=mYi5hWZvc2Q)
-- [Monster Magnet - No Vacation](https://www.youtube.com/watch?v=xQBMXQVWZ60)
-- [Monster Magnet - Im Calling You](https://www.youtube.com/watch?v=klvt11oR-K8)
-- [Solid Gold - Monster Magnet - 4-Way Diablo](https://www.youtube.com/watch?v=YNc_Ok6ZKYE)
-- [Monster Magnet - Little Bag of Gloom 2007 Lyrics](https://www.youtube.com/watch?v=IqxdqQku6wE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +67,5 @@ Following the album's release, none of its songs were included in the concert se
 | Format         | Vinyl 2× LP 45 RPM Album Reissue |
 | Label          | Napalm Records |
 | Catalog Number | NPR1067VINYL |
-| Notes | Black vinyl edition. Gatefold cover.  © + ℗ 2022 |
+| Notes | Black vinyl edition. Gatefold cover.<br><br>© + ℗ 2022 |
 | Discogs URL    | [Monster Magnet - 4-Way Diablo](https://www.discogs.com/release/24531617-Monster-Magnet-4-Way-Diablo) |

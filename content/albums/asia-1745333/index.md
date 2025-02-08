@@ -1,9 +1,10 @@
 ---
 title: "Asia - Asia"
 artist_name: "Asia"
-artist: "asia-2"
+artist: "asia"
 album_name: "Asia"
 date: 2018-10-24T11:42:55.000000Z
+release_date: "2017-08-14"
 release_id: "1745333"
 slug: "asia-1745333"
 hideSummary: true
@@ -26,41 +27,29 @@ styles: ["Pop Rock", "Prog Rock"]
 Asia is the debut studio album by English rock supergroup Asia, released in 1982. According to both Billboard and Cashbox, it was the #1 album in the United States for the year 1982. It contains their biggest hit "Heat of the Moment", which reached #4 in the US on the Billboard Hot 100 chart.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Heat Of The Moment (3:50)
-2. Only Time Will Tell (4:44)
-3. Sole Survivor (4:48)
-4. One Step Closer (4:16)
-5. Time Again (4:45)
-6. Wildest Dreams (5:10)
-7. Without You (5:04)
-8. Cutting It Fine (5:35)
-9. Here Comes The Feeling (5:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Heat Of The Moment | 3:50 |
+| A2 | Only Time Will Tell | 4:44 |
+| A3 | Sole Survivor | 4:48 |
+| A4 | One Step Closer | 4:16 |
+| A5 | Time Again | 4:45 |
+| B1 | Wildest Dreams | 5:10 |
+| B2 | Without You | 5:04 |
+| B3 | Cutting It Fine | 5:35 |
+| B4 | Here Comes The Feeling | 5:42 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/asia-single/1257624979" >}}<br>
 
 
-## Videos
-### Asia - Heat Of The Moment Official Music Video
-{{< youtube id="lCALGlGuVUA" title="Asia - Heat Of The Moment Official Music Video" >}}<br>
-### More Videos
-
-- [Asia - Only Time Will Tell Official Music Video](https://www.youtube.com/watch?v=AWs8SbT4__E)
-- [Asia - Sole Survivor Music Video John Wetton](https://www.youtube.com/watch?v=KFSIRQt_QI8)
-- [Asia - Wildest Dreams Official Music Video](https://www.youtube.com/watch?v=Os5w1c-vT3U)
-- [Asia - Asia Full Album 1982](https://www.youtube.com/watch?v=GssLLBnlN14)
-- [Asia - Heat Of The Moment Official Music Video](https://www.youtube.com/watch?v=lCALGlGuVUA)
-- [Asia - Only Time Will Tell Official Music Video](https://www.youtube.com/watch?v=AWs8SbT4__E)
-- [Asia - Sole Survivor Music Video John Wetton](https://www.youtube.com/watch?v=KFSIRQt_QI8)
-- [Asia - Wildest Dreams Official Music Video](https://www.youtube.com/watch?v=Os5w1c-vT3U)
-- [Asia - Asia Full Album 1982](https://www.youtube.com/watch?v=GssLLBnlN14)
-- [Asia - Heat Of The Moment 1982 Japanese Vinyl](https://www.youtube.com/watch?v=HsBSPgs8M7w)
-- [Asia - Sole Survivor 1982](https://www.youtube.com/watch?v=b_0TzCuEA9Q)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +61,5 @@ Asia is the debut studio album by English rock supergroup Asia, released in 1982
 | Format         | Vinyl LP Album |
 | Label          | Geffen Records |
 | Catalog Number | GEF 85577 |
-| Notes | Included insert printed with the cat no.    'Home Taping Is Killing Music' logo on rear sleeve.    'Made in England' on labels. |
+| Notes | Included insert printed with the cat no.<br><br>'Home Taping Is Killing Music' logo on rear sleeve.<br><br>'Made in England' on labels. |
 | Discogs URL    | [Asia - Asia](https://www.discogs.com/release/1745333-Asia-2-Asia) |

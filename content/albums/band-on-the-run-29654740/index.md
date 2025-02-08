@@ -1,9 +1,10 @@
 ---
 title: "Wings - Band On The Run"
 artist_name: "Wings"
-artist: "wings-2"
+artist: "wings"
 album_name: "Band On The Run"
 date: 2024-02-09T05:46:07.000000Z
+release_date: "2017-11-14"
 release_id: "29654740"
 slug: "band-on-the-run-29654740"
 hideSummary: true
@@ -31,32 +32,30 @@ styles: ["Pop Rock"]
 Band on the Run is the third studio album by the British–American rock band Paul McCartney and Wings, released on 30 November 1973. It was McCartney's fifth album after leaving the Beatles in April 1970 and his final album on Apple Records. Although sales were modest initially, its commercial performance was aided by two hit singles – "Jet" and "Band on the Run" – such that it became the top-selling studio album of 1974 in the United Kingdom and Australia, in addition to revitalising McCartney's critical standing. It remains McCartney's most successful album and the most celebrated of his post-Beatles works.
 The album was mostly recorded at EMI's studio in Lagos, Nigeria, as McCartney wanted to make an album in an exotic location. Shortly before departing for Lagos, drummer Denny Seiwell and guitarist Henry McCullough left the group. With no time to recruit replacements, McCartney went into the studio with just his wife Linda and Denny Laine. McCartney therefore played bass, drums, percussion and most of the lead guitar parts. The studio was of poor quality and conditions in Nigeria were tense and difficult; the McCartneys were robbed at knifepoint, losing a bag of song lyrics and demo tapes. After the band's return to England, final overdubs and further recording were carried out in London, mostly at AIR Studios.
 Band on the Run has been reissued numerous times with bonus tracks, including in 1993 as part of The Paul McCartney Collection, in 1999 for its 25th anniversary, in 2010 as part of the Paul McCartney Archive Collection and in 2024 for its 50th anniversary.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Band On The Run (5:11)
-2. Jet (4:08)
-3. Bluebird (3:22)
-4. Mrs. Vandebilt (4:39)
-5. Let Me Roll It (4:49)
-6. Mamunia (4:51)
-7. No Words (2:35)
-8. Helen Wheels (3:45)
-9. Picasso's Last Words (Drink To Me) (5:49)
-10. Nineteen Hundred And Eighty Five (5:30)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Band On The Run | 5:11 |
+| A2 | Jet | 4:08 |
+| A3 | Bluebird | 3:22 |
+| A4 | Mrs. Vandebilt | 4:39 |
+| A5 | Let Me Roll It | 4:49 |
+| B1 | Mamunia | 4:51 |
+| B2 | No Words | 2:35 |
+| B3 | Helen Wheels | 3:45 |
+| B4 | Picasso's Last Words (Drink To Me) | 5:49 |
+| B5 | Nineteen Hundred And Eighty Five | 5:30 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/band-on-the-run-single/1317621157" >}}<br>
 
 
-## Videos
-### Paul McCartney  Wings - Band On The Run Official Music Video
-{{< youtube id="5P_VfLun96o" title="Paul McCartney  Wings - Band On The Run Official Music Video" >}}<br>
-### More Videos
-
-- [Paul McCartney  Wings - Mrs  Vandebilt Exclusive Video](https://www.youtube.com/watch?v=7ARTZIKYYtA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +67,5 @@ Band on the Run has been reissued numerous times with bonus tracks, including in
 | Format         | Vinyl LP Album Reissue Remastered Stereo (50th Anniversary, Half-Speed Mastering) |
 | Label          | MPL (2) |
 | Catalog Number | 00602455435620 |
-| Notes | 50th Anniversary Edition Half-Speed mastered at Abbey Road Studios "Cut by Miles Showell...19 February 2023."  North American track list including 'Helen Wheels' as track B3  Includes large fold-out poster depicting many small photographs.  Inner sleeve has picture on one side and lyrics on the other side.   Made in Germany.   |
+| Notes | 50th Anniversary Edition<br>Half-Speed mastered at Abbey Road Studios<br>"Cut by Miles Showell...19 February 2023."<br><br>North American track list including 'Helen Wheels' as track B3<br><br>Includes large fold-out poster depicting many small photographs.  Inner sleeve has picture on one side and lyrics on the other side. <br><br>Made in Germany.<br><br> |
 | Discogs URL    | [Wings - Band On The Run](https://www.discogs.com/release/29654740-Paul-McCartney-And-Wings-Band-On-The-Run) |

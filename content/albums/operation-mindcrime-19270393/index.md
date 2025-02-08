@@ -1,9 +1,10 @@
 ---
 title: "Queensrÿche - Operation: Mindcrime"
 artist_name: "Queensrÿche"
-artist: "queensr-che"
+artist: "queensryche"
 album_name: "Operation: Mindcrime"
 date: 2021-06-25T08:52:27.000000Z
+release_date: "2006-04-03"
 release_id: "19270393"
 slug: "operation-mindcrime-19270393"
 hideSummary: true
@@ -32,42 +33,35 @@ Operation: Mindcrime is a concept album and a rock opera. Its story follows Nikk
 Operation: Mindcrime was Queensrÿche's breakthrough album, reaching number 50 on the Billboard 200 while its singles "Eyes of a Stranger" and "I Don't Believe in Love" served as the band's first charting hits in the United States. The album was certified by the RIAA as gold in early 1989, and was certified as platinum two years later. A sequel, Operation: Mindcrime II, was released on April 4, 2006.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Remember Now
-2. Anarchy-X
-3. Revolution Calling
-4. Operation: Mindcrime
-5. Speak
-6. Spreading The Disease
-7. The Mission
-8. Suite Sister Mary
-9. The Needle Lies
-10. Electric Requiem
-11. Breaking The Silence
-12. I Don't Believe In Love
-13. Waiting For 22
-14. My Empty Room
-15. Eyes Of A Stranger
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Remember Now |  |
+| A2 | Anarchy-X |  |
+| A3 | Revolution Calling |  |
+| A4 | Operation: Mindcrime |  |
+| A5 | Speak |  |
+| B1 | Spreading The Disease |  |
+| B2 | The Mission |  |
+| B3 | Suite Sister Mary |  |
+| C1 | The Needle Lies |  |
+| C2 | Electric Requiem |  |
+| C3 | Breaking The Silence |  |
+| D1 | I Don't Believe In Love |  |
+| D2 | Waiting For 22 |  |
+| D3 | My Empty Room |  |
+| D4 | Eyes Of A Stranger |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/operation-mindcrime-ii/135141613" >}}<br>
 
 
-## Videos
-### Queensryche Operation Mindcrime full album 1988
-{{< youtube id="oLi46MAgxqc" title="Queensryche Operation Mindcrime full album 1988" >}}<br>
-### More Videos
-
-- [Queensrÿche - Remember Now](https://www.youtube.com/watch?v=0e31vVl9kwk)
-- [Queensryche - Operation Mindcrime Remastered Full Album HQ](https://www.youtube.com/watch?v=_8_JqGPteKk)
-- [Queensryche - I Dont Believe In Love](https://www.youtube.com/watch?v=2c3g6tTYoxM)
-- [Queensryche - Operation Mindcrime](https://www.youtube.com/watch?v=vAI2QOBMlTA)
-- [Queensryche - Eyes Of A Stranger Official Video](https://www.youtube.com/watch?v=A4duZjxusGM)
-- [Queensryche - Suite Sister Mary Official Video](https://www.youtube.com/watch?v=8CZGion20E4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +73,5 @@ Operation: Mindcrime was Queensrÿche's breakthrough album, reaching number 50 o
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Capitol Records |
 | Catalog Number | 7714039 |
-| Notes | Made in Germany on label. On inner sleeve: ℗ 2003 Capitol Records, LLC. On back cover: ℗ 1988 Capitol Records, LLC - © 2021 Capitol Records, LLC  No reissue credits. All technical credits refer to the original release.  LP Runouts are etched. |
+| Notes | Made in Germany on label.<br>On inner sleeve: ℗ 2003 Capitol Records, LLC.<br>On back cover: ℗ 1988 Capitol Records, LLC - © 2021 Capitol Records, LLC<br><br>No reissue credits. All technical credits refer to the original release.<br><br>LP Runouts are etched. |
 | Discogs URL    | [Queensrÿche - Operation: Mindcrime](https://www.discogs.com/release/19270393-Queensrÿche-Operation-Mindcrime) |

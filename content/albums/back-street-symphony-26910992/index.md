@@ -1,9 +1,10 @@
 ---
 title: "Thunder - Back Street Symphony"
 artist_name: "Thunder"
-artist: "thunder-3"
+artist: "thunder"
 album_name: "Back Street Symphony"
 date: 2023-05-01T06:51:04.000000Z
+release_date: "1990-02-26"
 release_id: "26910992"
 slug: "back-street-symphony-26910992"
 hideSummary: true
@@ -33,39 +34,34 @@ The material on Backstreet Symphony was written primarily by the band's lead gui
 Backstreet Symphony was promoted on a worldwide tour beginning in February 1990, which included shows in Europe supporting Heart, Love/Hate and ZZ Top, as well as dates in North America. Five singles were released from the album, all of which reached the top 40 of the UK Singles Chart – "Dirty Love" peaked at number 32, "Backstreet Symphony" at number 25, "Gimme Some Lovin'" at number 36, "She's So Fine" at number 34 and "Love Walked In" at number 21.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. She's So Fine
-2. Dirty Love
-3. Don't Wait For Me
-4. Higher Ground
-5. Until My Dying Day
-6. Back Street Symphony
-7. Love Walked In
-8. An Englishman On Holiday
-9. Girl's Going Out Of Her Head
-10. Gimme Some Lovin'
-11. Distant Thunder
-12. She's So Fine (Live At Marquee London, 2002)
-13. Until My Dying Day (Live At Marquee London, 2002)
-14. Gimme Some Lovin' (Live At Nottingham Rock City, 2008)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | She's So Fine |  |
+| A2 | Dirty Love |  |
+| A3 | Don't Wait For Me |  |
+| A4 | Higher Ground |  |
+| B1 | Until My Dying Day |  |
+| B2 | Back Street Symphony |  |
+| B3 | Love Walked In |  |
+| B4 | An Englishman On Holiday |  |
+| C1 | Girl's Going Out Of Her Head |  |
+| C2 | Gimme Some Lovin' |  |
+| C3 | Distant Thunder |  |
+| D1 | She's So Fine (Live At Marquee London, 2002) |  |
+| D2 | Until My Dying Day (Live At Marquee London, 2002) |  |
+| D3 | Gimme Some Lovin' (Live At Nottingham Rock City, 2008) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/backstreet-symphony/693198536" >}}<br>
 
 
-## Videos
-### Vinyl Unboxing THUNDER - Back Street Symphony BMG International 2023
-{{< youtube id="0TVuL07afbY" title="Vinyl Unboxing THUNDER - Back Street Symphony BMG International 2023" >}}<br>
-### More Videos
-
-- [Thunder- Backstreet Symphony album version](https://www.youtube.com/watch?v=G6NxKb9r_oA)
-- [Thunder - Love Walked In](https://www.youtube.com/watch?v=R-VVfcnvpAA)
-- [Thunder - Shes so fine](https://www.youtube.com/watch?v=RprKusE4DF8)
-- [Vinyl Unboxing THUNDER - Back Street Symphony BMG International 2023](https://www.youtube.com/watch?v=0TVuL07afbY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +73,5 @@ Backstreet Symphony was promoted on a worldwide tour beginning in February 1990,
 | Format         | Vinyl LP Album Limited Edition Reissue (Gold), Vinyl LP Album Limited Edition Reissue (Silver) |
 | Label          | BMG |
 | Catalog Number | BMGCAT708DLP |
-| Notes | Tracks D1 and D2 Previously available on the 2003 DVD, 'Live & Uncut' on STC Records. Long since deleted and have never been available on CD, vinyl or digital Track D3 Previously only available on The Xmas Show Live 2008 CD given to ticket holders only. Long deleted and has never been on vinyl or digital.  Some copies came with a limited edition art card. |
+| Notes | Tracks D1 and D2 Previously available on the 2003 DVD, 'Live & Uncut' on STC Records. Long since deleted and have never been available on CD, vinyl or digital<br>Track D3 Previously only available on The Xmas Show Live 2008 CD given to ticket holders only. Long deleted and has never been on vinyl or digital.<br><br>Some copies came with a limited edition art card. |
 | Discogs URL    | [Thunder - Back Street Symphony](https://www.discogs.com/release/26910992-Thunder-3-Back-Street-Symphony) |

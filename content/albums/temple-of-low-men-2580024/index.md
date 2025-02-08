@@ -29,36 +29,24 @@ In form and function, <i>Temple of Low Men</i> is a purposely back-to-front affa
 
 
 ## Tracklisting
-1. I Feel Possessed (3:47)
-2. Kill Eye (3:10)
-3. Into Temptation (5:32)
-4. Mansion In The Slums (3:46)
-5. When You Come (4:45)
-6. Never Be The Same (4:27)
-7. Love This Life (3:35)
-8. Sister Madly (2:52)
-9. In The Lowlands (3:57)
-10. Better Be Home Soon (3:07)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Feel Possessed | 3:47 |
+| A2 | Kill Eye | 3:10 |
+| A3 | Into Temptation | 5:32 |
+| A4 | Mansion In The Slums | 3:46 |
+| A5 | When You Come | 4:45 |
+| B1 | Never Be The Same | 4:27 |
+| B2 | Love This Life | 3:35 |
+| B3 | Sister Madly | 2:52 |
+| B4 | In The Lowlands | 3:57 |
+| B5 | Better Be Home Soon | 3:07 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/temple-of-low-men-deluxe/1443523738" >}}<br>
 
 
-## Videos
-### Crowded House - Into Temptation
-{{< youtube id="j8U1gC2JilQ" title="Crowded House - Into Temptation" >}}<br>
-### More Videos
-
-- [Crowded House - When You Come](https://www.youtube.com/watch?v=LUP3XOa3yRs)
-- [Crowded House - Better Be Home Soon Official Video](https://www.youtube.com/watch?v=AQOlwMKpmvQ)
-- [Crowded House - I Feel Possessed](https://www.youtube.com/watch?v=FhhB4ztWFbQ)
-- [Crowded House - Better Be Home Soon Official Video](https://www.youtube.com/watch?v=AQOlwMKpmvQ)
-- [CROWDED HOUSE - TEMPLE OF LOW MEN](https://www.youtube.com/watch?v=kT6uSOoLGOE)
-- [In The Lowlands](https://www.youtube.com/watch?v=yvo_EZq9E5I)
-- [Never Be The Same](https://www.youtube.com/watch?v=5ppQCjNF6zo)
-- [Mansion In The Slums](https://www.youtube.com/watch?v=9A4oxGbdLIc)
-- [Kill Eye](https://www.youtube.com/watch?v=k-SQKxoqk7M)
-- [Sister Madly](https://www.youtube.com/watch?v=UlAaFbrPHhU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +58,5 @@ In form and function, <i>Temple of Low Men</i> is a purposely back-to-front affa
 | Format         | Vinyl LP Album |
 | Label          | Capitol Records |
 | Catalog Number | EST 2064 |
-| Notes | © 1988 Capitol Records, Inc.  Made in UK Mixed for Fast Forward Productions, Ltd. All songs published by Roundhead Music - BMI ℗ 1988 Capitol Records, Inc.  Printed inner sleeve |
+| Notes | © 1988 Capitol Records, Inc. <br>Made in UK<br>Mixed for Fast Forward Productions, Ltd.<br>All songs published by Roundhead Music - BMI<br>℗ 1988 Capitol Records, Inc.<br><br>Printed inner sleeve |
 | Discogs URL    | [Crowded House - Temple Of Low Men](https://www.discogs.com/release/2580024-Crowded-House-Temple-Of-Low-Men) |

@@ -1,7 +1,7 @@
 ---
 title: "Morphine - Cure For Pain"
 artist_name: "Morphine"
-artist: "morphine-2"
+artist: "morphine"
 album_name: "Cure For Pain"
 date: 2019-06-12T17:58:02.000000Z
 release_date: "1993-09-14"
@@ -41,41 +41,27 @@ As of 1995, it has sold 107,000 copies in United States and over 300,000 copies 
 
 
 ## Tracklisting
-1. Dawna (0:44)
-2. Buena (3:19)
-3. I’m Free Now (3:24)
-4. All Wrong (3:40)
-5. Candy (3:14)
-6. A Head With Wings (3:39)
-7. In Spite Of Me (2:34)
-8. Thursday  (3:26)
-9. Cure For Pain (3:13)
-10. Mary Won’t You Call My Name? (2:29)
-11. Let’s Take A Trip Together (2:59)
-12. Sheila (2:49)
-13. Miles Davis’ Funeral (1:41)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1  | Dawna | 0:44 |
+| A2 | Buena | 3:19 |
+| A3 | I’m Free Now | 3:24 |
+| A4 | All Wrong | 3:40 |
+| A5 | Candy | 3:14 |
+| A6 | A Head With Wings | 3:39 |
+| A7 | In Spite Of Me | 2:34 |
+| B1 | Thursday  | 3:26 |
+| B2 | Cure For Pain | 3:13 |
+| B3 | Mary Won’t You Call My Name? | 2:29 |
+| B4 | Let’s Take A Trip Together | 2:59 |
+| B5 | Sheila | 2:49 |
+| B6 | Miles Davis’ Funeral | 1:41 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cure-for-pain/162448483" >}}<br>
 
 
-## Videos
-### Dawna
-{{< youtube id="ca2puE1R7a8" title="Dawna" >}}<br>
-### More Videos
-
-- [Buena](https://www.youtube.com/watch?v=Hr11Y1RKYR4)
-- [Im Free Now](https://www.youtube.com/watch?v=hOCMpKC5YQg)
-- [All Wrong](https://www.youtube.com/watch?v=vMptvkimFMQ)
-- [Candy](https://www.youtube.com/watch?v=2ewvn6YBz6E)
-- [A Head with Wings](https://www.youtube.com/watch?v=JDHMQk-6spo)
-- [In Spite of Me](https://www.youtube.com/watch?v=b-nFhh4LaqM)
-- [Thursday](https://www.youtube.com/watch?v=BqAxQeH6Qxg)
-- [Cure for Pain](https://www.youtube.com/watch?v=hK5w0_rqfvE)
-- [Mary Wont You Call My Name](https://www.youtube.com/watch?v=4TNFRGOBi24)
-- [Lets Take a Trip Together](https://www.youtube.com/watch?v=vbtMxhkBKzU)
-- [Sheila](https://www.youtube.com/watch?v=CNpFR4P7uZE)
-- [Miles Davis Funeral](https://www.youtube.com/watch?v=57Rd7FjC3c4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -87,5 +73,5 @@ As of 1995, it has sold 107,000 copies in United States and over 300,000 copies 
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Repress (Blue Marbled, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1783 |
-| Notes |  Limited to 3500 copies worldwide. Comes in external clear sleeve with hype sticker, heavy gauge protective inner sleeve and 4 page insert with credits, lyrics and pictures.   Originally released ℗ & © 1993 Rykodisc. Manufactured & distributed by Music On Vinyl B.V. 2016, under the exclusive license from Warner Music Benelux B.V., a Warner Music Group Company. Made in the EU. |
+| Notes | <br>Limited to 3500 copies worldwide.<br>Comes in external clear sleeve with hype sticker, heavy gauge protective inner sleeve and 4 page insert with credits, lyrics and pictures. <br><br>Originally released ℗ & © 1993 Rykodisc. Manufactured & distributed by Music On Vinyl B.V. 2016, under the exclusive license from Warner Music Benelux B.V., a Warner Music Group Company. Made in the EU. |
 | Discogs URL    | [Morphine - Cure For Pain](https://www.discogs.com/release/13678278-Morphine-2-Cure-For-Pain) |

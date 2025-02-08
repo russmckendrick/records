@@ -4,6 +4,7 @@ artist_name: "Nadia Reid"
 artist: "nadia-reid"
 album_name: "Preservation"
 date: 2017-03-11T12:34:17.000000Z
+release_date: "2017-03-03"
 release_id: "9938964"
 slug: "preservation-9938964"
 hideSummary: true
@@ -21,33 +22,29 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Preservation
-2. The Arrow And The Aim
-3. Richard
-4. I Come Home To You
-5. Hanson St Part 2 (A River)
-6. Right On Time
-7. Reach My Destination
-8. Te Aro
-9. The Way It Goes
-10. Ain't Got You
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Preservation |  |
+| A2 | The Arrow And The Aim |  |
+| A3 | Richard |  |
+| A4 | I Come Home To You |  |
+| A5 | Hanson St Part 2 (A River) |  |
+| B1 | Right On Time |  |
+| B2 | Reach My Destination |  |
+| B3 | Te Aro |  |
+| B4 | The Way It Goes |  |
+| B5 | Ain't Got You |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/preservation/1179774934" >}}<br>
 
 
-## Videos
-### Nadia Reid - Preservation Official Video
-{{< youtube id="Yay24OXOW3k" title="Nadia Reid - Preservation Official Video" >}}<br>
-### More Videos
-
-- [Nadia Reid - The Arrow And The Aim](https://www.youtube.com/watch?v=FQVsFzYSHd8)
-- [NADIA REID  Richard Official Video](https://www.youtube.com/watch?v=0jN1BfSLbzg)
-- [Nadia Reid - Preservation Official Video](https://www.youtube.com/watch?v=Yay24OXOW3k)
-- [Nadia Reid - The Arrow And The Aim](https://www.youtube.com/watch?v=FQVsFzYSHd8)
-- [NADIA REID  Richard Official Video](https://www.youtube.com/watch?v=0jN1BfSLbzg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -58,5 +55,5 @@ styles: []
 | Format         | Vinyl LP Album |
 | Label          | Basin Rock |
 | Catalog Number | BR002 |
-| Notes | Preservation was recorded in March 2016 in Lyttelton Harbour, Christchurch, New Zealand.   Made in the EU.   2-piece flip-back cover |
+| Notes | Preservation was recorded in March 2016 in Lyttelton Harbour, Christchurch, New Zealand. <br><br>Made in the EU. <br><br>2-piece flip-back cover |
 | Discogs URL    | [Nadia Reid - Preservation](https://www.discogs.com/release/9938964-Nadia-Reid-Preservation) |

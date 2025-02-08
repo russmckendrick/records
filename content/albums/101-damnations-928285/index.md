@@ -4,6 +4,7 @@ artist_name: "Carter The Unstoppable Sex Machine"
 artist: "carter-the-unstoppable-sex-machine"
 album_name: "101 Damnations"
 date: 2016-01-15T18:22:32.000000Z
+release_date: "1990"
 release_id: "928285"
 slug: "101-damnations-928285"
 hideSummary: true
@@ -24,51 +25,30 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Road To Domestos
-2. Everytime A Churchbell Rings
-3. Twenty Four Minutes From Tulse Hill
-4. An All American National Sport
-5. Sheriff Fatman
-6. The Taking Of Peckham 123
-7. Crimestoppers A' Go Go
-8. Good Grief Charlie Brown
-9. Midnight On The Murder Mile
-10. A Perfect Day To Drop The Bomb
-11. G.I. Blues
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Road To Domestos |  |
+| A2 | Everytime A Churchbell Rings |  |
+| A3 | Twenty Four Minutes From Tulse Hill |  |
+| A4 | An All American National Sport |  |
+| A5 | Sheriff Fatman |  |
+| A6 | The Taking Of Peckham 123 |  |
+| B1 | Crimestoppers A' Go Go |  |
+| B2 | Good Grief Charlie Brown |  |
+| B3 | Midnight On The Murder Mile |  |
+| B4 | A Perfect Day To Drop The Bomb |  |
+| B5 | G.I. Blues |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/101-damnations-bonus-edition/1286410386" >}}<br>
 
 
-## Videos
-### Carter the Unstoppable Sex Machine - Sheriff Fatman - Anime Music Video
-{{< youtube id="UtNU-5S9lTo" title="Carter the Unstoppable Sex Machine - Sheriff Fatman - Anime Music Video" >}}<br>
-### More Videos
-
-- [Carter USM - Twenty Four Minutes From Tulse Hill](https://www.youtube.com/watch?v=sgI9tMNxrhQ)
-- [Carter USM - A Perfect Day To Drop The Bomb](https://www.youtube.com/watch?v=onjtaqrXtTI)
-- [Carter USM - Murder on the Midnight Mile](https://www.youtube.com/watch?v=XtDOmAh0QvM)
-- [Carter USM  Everytime a Churchbell Rings](https://www.youtube.com/watch?v=KcHopZQ8gqM)
-- [Carter USM - An All American National Sport hi-fi version](https://www.youtube.com/watch?v=jmzvu8jER_M)
-- [Carter USM- The Taking Of Peckham 123](https://www.youtube.com/watch?v=0BkPHPn0YpM)
-- [Carter USM -  Sheriff Fatman](https://www.youtube.com/watch?v=US9nVBuDHhg)
-- [Carter the Unstoppable Sex Machine - Sheriff Fatman - Anime Music Video](https://www.youtube.com/watch?v=UtNU-5S9lTo)
-- [Carter USM - Twenty Four Minutes From Tulse Hill](https://www.youtube.com/watch?v=sgI9tMNxrhQ)
-- [Carter USM - A Perfect Day To Drop The Bomb](https://www.youtube.com/watch?v=onjtaqrXtTI)
-- [A Perfect Day to Drop the Bomb](https://www.youtube.com/watch?v=rogr3impVko)
-- [The Road to Domestos](https://www.youtube.com/watch?v=cJm7lS-iBj0)
-- [Everytime a Church Bell Rings](https://www.youtube.com/watch?v=FxAJCajSgDA)
-- [The Taking of Peckham 123](https://www.youtube.com/watch?v=ZSQARwxri9k)
-- [An All American National Sport](https://www.youtube.com/watch?v=sY_NF9XyXLA)
-- [G I Blues](https://www.youtube.com/watch?v=eXsW3lw2ptI)
-- [Rent](https://www.youtube.com/watch?v=XP2hxeE50zo)
-- [Rubbish](https://www.youtube.com/watch?v=2sLqLhB0lug)
-- [Crimestoppers A Go Go](https://www.youtube.com/watch?v=_UMq3qgalRo)
-- [Twenty Four Minutes from Tulse Hill](https://www.youtube.com/watch?v=V9Kn5I6NQ5c)
-- [Good Grief Charlie Brown](https://www.youtube.com/watch?v=bMbmGmsqYYM)
-- [RSPCE](https://www.youtube.com/watch?v=MBtJre8xxjA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +59,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Big Cat |
 | Catalog Number | ABB 101 |
-| Notes | Issued with a printed inner sleeve with lyrics. Some copies issued with a sticker on the front cover.  Artist presented as "Carter U.S.M." on spine and Side B label.  Catalogue # ABB 101 on the back cover, spine and inner sleeve. Catalogue # ABB101 on the labels.  Recorded at Important Notice Studios, Mitcham, South London.  © Big Cat U.K. Records Ltd 1990. Published By Cat X Mouse Music 1990.  Made In England |
+| Notes | Issued with a printed inner sleeve with lyrics.<br>Some copies issued with a sticker on the front cover.<br><br>Artist presented as "Carter U.S.M." on spine and Side B label.<br><br>Catalogue # ABB 101 on the back cover, spine and inner sleeve.<br>Catalogue # ABB101 on the labels.<br><br>Recorded at Important Notice Studios, Mitcham, South London.<br><br>© Big Cat U.K. Records Ltd 1990. Published By Cat X Mouse Music 1990.<br><br>Made In England |
 | Discogs URL    | [Carter The Unstoppable Sex Machine - 101 Damnations](https://www.discogs.com/release/928285-Carter-The-Unstoppable-Sex-Machine-101-Damnations) |

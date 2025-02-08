@@ -4,6 +4,7 @@ artist_name: "Cranes"
 artist: "cranes"
 album_name: "Population Four"
 date: 2020-08-21T05:57:24.000000Z
+release_date: "1996"
 release_id: "15796529"
 slug: "population-four-15796529"
 hideSummary: true
@@ -27,40 +28,30 @@ styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Tangled Up (3:38)
-2. Fourteen (3:15)
-3. Breeze (3:41)
-4. Can't Get Free (2:49)
-5. Stalk (2:19)
-6. Sweet Unknown (4:06)
-7. Angel Bell (5:26)
-8. On Top Of The World (4:28)
-9. Brazil (2:30)
-10. Let Go (3:31)
-11. To Be (4:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Tangled Up | 3:38 |
+| A2 | Fourteen | 3:15 |
+| A3 | Breeze | 3:41 |
+| A4 | Can't Get Free | 2:49 |
+| A5 | Stalk | 2:19 |
+| A6 | Sweet Unknown | 4:06 |
+| B1 | Angel Bell | 5:26 |
+| B2 | On Top Of The World | 4:28 |
+| B3 | Brazil | 2:30 |
+| B4 | Let Go | 3:31 |
+| B5 | To Be | 4:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/population-four/1676102669" >}}<br>
 
 
-## Videos
-### Cranes - Tangled Up
-{{< youtube id="8O5YYeaseyk" title="Cranes - Tangled Up" >}}<br>
-### More Videos
-
-- [Cranes - Fourteen](https://www.youtube.com/watch?v=N_tnRFk1uYA)
-- [Cranes - Breeze](https://www.youtube.com/watch?v=4zlyT6TZdfg)
-- [CRANES - Cant Get Free](https://www.youtube.com/watch?v=yxpU26EeHis)
-- [CRANES - Stalk](https://www.youtube.com/watch?v=6PXbNjzDfr8)
-- [CRANES - Sweet Unknown](https://www.youtube.com/watch?v=CFiREL2rNl8)
-- [CRANES - Angel Bell](https://www.youtube.com/watch?v=IRMUYpkOlrI)
-- [Cranes - On Top Of The World](https://www.youtube.com/watch?v=bsi_itjf_08)
-- [CRANES - Brazil](https://www.youtube.com/watch?v=r9TlxeROvGE)
-- [CRANES - Let Go](https://www.youtube.com/watch?v=AblK9ZsFJHA)
-- [CRANES - To Be](https://www.youtube.com/watch?v=I5rS3EeFkNc)
-- [Cranes - Wild Yellow Bloom limited edition bonus track from Population Four 1997](https://www.youtube.com/watch?v=zJYEWeJabKg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +62,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Blue & White Swirled, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2598 |
-| Notes | Limited edition of 1500 numbered copies on blue & white swirled vinyl Available on vinyl for the first time Includes insert 180 gram audiophile vinyl [sticker on protective sleeve front]  Recorded at Stanbridge Farm, Sussex, May-June 1996. (except # 6 recorded at Piercing Sound, Burbank, CA 1995.) Mixed at First Protocol, [...]. Mastered at Tape to Tape [...]. © 1997, 2020 sony music entertainment. [insert]  originally released ℗ & © 1997 dedicated. this release ℗ & © 2020 sony music entertainment. manufactured & distributed by music on vinyl b.v. for sony music entertainment. made in the eu. [sleeve & labels]  Hype sticker on resealable protective sleeve front Stamp-numbering on rear sleeve 12" square insert & poly-lined inner sleeve |
+| Notes | Limited edition of 1500 numbered copies on blue & white swirled vinyl<br>Available on vinyl for the first time<br>Includes insert<br>180 gram audiophile vinyl<br>[sticker on protective sleeve front]<br><br>Recorded at Stanbridge Farm, Sussex, May-June 1996.<br>(except # 6 recorded at Piercing Sound, Burbank, CA 1995.)<br>Mixed at First Protocol, [...].<br>Mastered at Tape to Tape [...].<br>© 1997, 2020 sony music entertainment.<br>[insert]<br><br>originally released ℗ & © 1997 dedicated. this release ℗ & © 2020 sony music entertainment.<br>manufactured & distributed by music on vinyl b.v. for sony music entertainment.<br>made in the eu.<br>[sleeve & labels]<br><br>Hype sticker on resealable protective sleeve front<br>Stamp-numbering on rear sleeve<br>12" square insert & poly-lined inner sleeve |
 | Discogs URL    | [Cranes - Population Four](https://www.discogs.com/release/15796529-Cranes-Population-Four) |

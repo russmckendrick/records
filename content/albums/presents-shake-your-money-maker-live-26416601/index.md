@@ -4,6 +4,7 @@ artist_name: "The Black Crowes"
 artist: "the-black-crowes"
 album_name: "Presents Shake Your Money Maker Live"
 date: 2023-03-23T03:01:05.000000Z
+release_date: ""
 release_id: "26416601"
 slug: "presents-shake-your-money-maker-live-26416601"
 hideSummary: true
@@ -34,33 +35,37 @@ styles: ["Rock & Roll", "Southern Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Twice As Hard
-2. Jealous Again
-3. Sister Luck
-4. Could I've Been So Blind
-5. Seeing Things
-6. Hard To Handle
-7. Thick N Thin
-8. She Talks To Angels
-9. Struttin Blues
-10. Stare It Cold
-11. No Speak No Slave
-12. Papa Was A Rolling Stone
-13. Soul Singing
-14. Wiser Time
-15. Thorn in My Pride
-16. Sting Me
-17. Remedy
-18. It's Only Rock 'N' Roll
-19. Rock & Roll
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Twice As Hard |  |
+| A2 | Jealous Again |  |
+| A3 | Sister Luck |  |
+| A4 | Could I've Been So Blind |  |
+| A5 | Seeing Things |  |
+| B1 | Hard To Handle |  |
+| B2 | Thick N Thin |  |
+| B3 | She Talks To Angels |  |
+| B4 | Struttin Blues |  |
+| B5 | Stare It Cold |  |
+| C1 | No Speak No Slave |  |
+| C2 | Papa Was A Rolling Stone |  |
+| C3 | Soul Singing |  |
+| C4 | Wiser Time |  |
+| D1 | Thorn in My Pride |  |
+| D2 | Sting Me |  |
+| D3 | Remedy |  |
+| A | It's Only Rock 'N' Roll |  |
+| B | Rock & Roll |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### The Black Crowes - Shake Your Money Maker Live Full Album 2023
-{{< youtube id="TYAI52FCdAI" title="The Black Crowes - Shake Your Money Maker Live Full Album 2023" >}}<br>
 
 
 ## Release Images
@@ -72,5 +77,5 @@ styles: ["Rock & Roll", "Southern Rock"]
 | Format         | Vinyl 2× LP Album, Vinyl 7" 45 RPM, All Media Stereo (Green Translucent) |
 | Label          | Silver Arrow |
 | Catalog Number | SAR27LP |
-| Notes | On the bands 30th Anniversary of their breakout album 'Shake Your Money Maker' they recorded the entire tour and chose the performances that would show off the best of the tour. This is the end result.  The 7" single has a heavy card cover and a black die cut inner sleeve. The inside of the gatefold album cover is also green laminate. "MADE IN THE CZECH REBUBLIC" sticker on rear sleeve shrink wrap.  Released with 2 b/w printed inner sleeves showing tracks, credits and crow traces.  The runout strings are stamped except the first part up to CM etched. |
+| Notes | On the bands 30th Anniversary of their breakout album 'Shake Your Money Maker' they recorded the entire tour and chose the performances that would show off the best of the tour. This is the end result.<br><br>The 7" single has a heavy card cover and a black die cut inner sleeve. The inside of the gatefold album cover is also green laminate.<br>"MADE IN THE CZECH REBUBLIC" sticker on rear sleeve shrink wrap.<br><br>Released with 2 b/w printed inner sleeves showing tracks, credits and crow traces.<br><br>The runout strings are stamped except the first part up to CM etched. |
 | Discogs URL    | [The Black Crowes - Presents Shake Your Money Maker Live](https://www.discogs.com/release/26416601-The-Black-Crowes-Presents-Shake-Your-Money-Maker-Live) |

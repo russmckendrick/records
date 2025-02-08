@@ -41,35 +41,24 @@ As successful as the album became, it also established Steely Dan as a kind of c
 
 
 ## Tracklisting
-1. Do It Again (5:56)
-2. Dirty Work (3:08)
-3. Kings (3:45)
-4. Midnite Cruiser (4:09)
-5. Only A Fool Would Say That (2:54)
-6. Reelin' In The Years (4:35)
-7. Fire In The Hole (3:26)
-8. Brooklyn (Owes The Charmer Under Me) (4:20)
-9. Change Of The Guard (3:38)
-10. Turn That Heartbeat Over Again (4:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Do It Again | 5:56 |
+| A2 | Dirty Work | 3:08 |
+| A3 | Kings | 3:45 |
+| A4 | Midnite Cruiser | 4:09 |
+| A5 | Only A Fool Would Say That | 2:54 |
+| B1 | Reelin' In The Years | 4:35 |
+| B2 | Fire In The Hole | 3:26 |
+| B3 | Brooklyn (Owes The Charmer Under Me) | 4:20 |
+| B4 | Change Of The Guard | 3:38 |
+| B5 | Turn That Heartbeat Over Again | 4:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cant-buy-a-thrill/1650885288" >}}<br>
 
 
-## Videos
-### Do It Again
-{{< youtube id="jmdiKePVUy8" title="Do It Again" >}}<br>
-### More Videos
-
-- [Dirty Work](https://www.youtube.com/watch?v=kR5Ki6jjPaY)
-- [Kings](https://www.youtube.com/watch?v=mNBTUJbnN1o)
-- [Midnite Cruiser](https://www.youtube.com/watch?v=ZBtHA6POwp0)
-- [Only A Fool Would Say That](https://www.youtube.com/watch?v=Hvz0TOm0zgI)
-- [Reelin In The Years](https://www.youtube.com/watch?v=GaH25Sghoqc)
-- [Fire In The Hole](https://www.youtube.com/watch?v=9PwkU4nsJM8)
-- [Brooklyn Owes The Charmer Under Me](https://www.youtube.com/watch?v=vO4I10PeweI)
-- [Change Of The Guard](https://www.youtube.com/watch?v=roLIYw8Ov_I)
-- [Turn That Heartbeat Over Again](https://www.youtube.com/watch?v=DSfiPrhpeF8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +70,5 @@ As successful as the album became, it also established Steely Dan as a kind of c
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180g, Gatefold) |
 | Label          | Geffen Records |
 | Catalog Number | B0035111-01 |
-| Notes | 50th Anniversary Edition  On spine: B0035111-01 Steely Dan Can't Buy A Thrill Geffen Records  On back cover: A Geffen Records release; ℗1972 ©2022 UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404 - U.S.A. Distributed by Universal Music Enterprises, a Division of UMG Recordings, Inc.  On labels: A Geffen Records release; ℗1972 ©2022 UMG Recordings, Inc.  On label, B1 writen “Reeling In The Years” On inner sleeve and label, B3 writen "Brooklyn"  Runouts: Var 1 Side A: 249034E1 8 digids crossed out 1374592 (stamped)  B0035111-01A A 6/29/22 (etched) Var 1 Side B: 249034E2 1378024 (stamped) B0035111-01B B 6/30/22 (etched) Var 2 Side A: 249034E1 8 digids crossed out 1374592 (stamped)  B0035111-01A A 6/29/22 (etched) Var 2 Side B: 249034E2 1393292 (stamped) B0035111-01B B 6/30/22 (etched) Var 3 Side A: 249034E1 1375812 (stamped) B0035111-01A A 6/29/22 AA (etched) Var 3 Side B: 249034E2 1325460 (stamped) B0035111-01B B 6/30/22 AA (etched) Var 4 Side A: 249034E1 1375802 (stamped) B0035111-01-A 6/29/22 AA  -A (etched)  Var 4 Side B: 249034E2 1393292 (stamped) B0035111-01B B 6/30/22 AA -B (etched) Var 5 Side A: 249034E1 8 digids crossed out 1374592 (stamped) B0035111-01-A -A 6/29/22 AA (etched) Var 5 Side B: 249034E2 1374594 (stamped) B0035111-01-B -B 6/30/22 AA (etched)  |
+| Notes | 50th Anniversary Edition<br><br>On spine: B0035111-01 Steely Dan Can't Buy A Thrill Geffen Records<br><br>On back cover: A Geffen Records release; ℗1972 ©2022 UMG Recordings, Inc., 2220 Colorado Avenue, Santa Monica, CA 90404 - U.S.A. Distributed by Universal Music Enterprises, a Division of UMG Recordings, Inc.<br><br>On labels: A Geffen Records release; ℗1972 ©2022 UMG Recordings, Inc.<br><br>On label, B1 writen “Reeling In The Years”<br>On inner sleeve and label, B3 writen "Brooklyn"<br><br>Runouts:<br>Var 1 Side A: 249034E1 8 digids crossed out 1374592 (stamped)  B0035111-01A A 6/29/22 (etched)<br>Var 1 Side B: 249034E2 1378024 (stamped) B0035111-01B B 6/30/22 (etched)<br>Var 2 Side A: 249034E1 8 digids crossed out 1374592 (stamped)  B0035111-01A A 6/29/22 (etched)<br>Var 2 Side B: 249034E2 1393292 (stamped) B0035111-01B B 6/30/22 (etched)<br>Var 3 Side A: 249034E1 1375812 (stamped) B0035111-01A A 6/29/22 AA (etched)<br>Var 3 Side B: 249034E2 1325460 (stamped) B0035111-01B B 6/30/22 AA (etched)<br>Var 4 Side A: 249034E1 1375802 (stamped) B0035111-01-A 6/29/22 AA  -A (etched) <br>Var 4 Side B: 249034E2 1393292 (stamped) B0035111-01B B 6/30/22 AA -B (etched)<br>Var 5 Side A: 249034E1 8 digids crossed out 1374592 (stamped) B0035111-01-A -A 6/29/22 AA (etched)<br>Var 5 Side B: 249034E2 1374594 (stamped) B0035111-01-B -B 6/30/22 AA (etched)<br> |
 | Discogs URL    | [Steely Dan - Can't Buy A Thrill](https://www.discogs.com/release/25006759-Steely-Dan-Cant-Buy-A-Thrill) |

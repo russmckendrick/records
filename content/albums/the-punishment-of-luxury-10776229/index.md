@@ -4,6 +4,7 @@ artist_name: "Orchestral Manoeuvres In The Dark"
 artist: "orchestral-manoeuvres-in-the-dark"
 album_name: "The Punishment Of Luxury"
 date: 2017-09-01T18:43:33.000000Z
+release_date: "1980-02-22"
 release_id: "10776229"
 slug: "the-punishment-of-luxury-10776229"
 hideSummary: true
@@ -23,39 +24,31 @@ styles: ["Synth-pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Punishment Of Luxury
-2. Isotype
-3. Robot Man
-4. What Have We Done
-5. Precision & Decay
-6. As We Open, So We Close
-7. Art Eats Art
-8. Kiss Kiss Kiss Bang Bang Bang
-9. One More Time
-10. La Mitrailleuse
-11. Ghost Star
-12. The View From Here
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Punishment Of Luxury |  |
+| A2 | Isotype |  |
+| A3 | Robot Man |  |
+| A4 | What Have We Done |  |
+| A5 | Precision & Decay |  |
+| A6 | As We Open, So We Close |  |
+| B1 | Art Eats Art |  |
+| B2 | Kiss Kiss Kiss Bang Bang Bang |  |
+| B3 | One More Time |  |
+| B4 | La Mitrailleuse |  |
+| B5 | Ghost Star |  |
+| B6 | The View From Here |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/orchestral-manoeuvres-in-the-dark/714727396" >}}<br>
 
 
-## Videos
-### Orchestral Manoeuvres in the Dark - The Punishment of Luxury
-{{< youtube id="2cU53wWb6UI" title="Orchestral Manoeuvres in the Dark - The Punishment of Luxury" >}}<br>
-### More Videos
-
-- [OMD - La Mitrailleuse](https://www.youtube.com/watch?v=9PO_RkGju6M)
-- [Orchestral Manoeuvres in the Dark - Isotype](https://www.youtube.com/watch?v=gp_Du6uO9V4)
-- [Orchestral Manoeuvres in the Dark - The Punishment of Luxury](https://www.youtube.com/watch?v=2cU53wWb6UI)
-- [Orchestral Manoeuvres in the Dark  The Punishment of Luxury Live on Soundcheck](https://www.youtube.com/watch?v=NJQ3ZPF824E)
-- [Orchestral Manoeuvres in the Dark  Isotype Live on Soundcheck](https://www.youtube.com/watch?v=HTSF0m0eXuU)
-- [OMD kiss kiss kiss bang bang bang](https://www.youtube.com/watch?v=sNAOUfOBjX4)
-- [Orchestral Manoeuvres in the Dark - The View from Here Audio](https://www.youtube.com/watch?v=udz-vvfMSGQ)
-- [Orchestral Manoeuvres In The Dark - One More Time Unofficial Video](https://www.youtube.com/watch?v=8r8SuETAXqk)
-- [Kiss Kiss Kiss Bang Bang Bang](https://www.youtube.com/watch?v=_nbCnmVDQmE)
 
 ## Release Images
 {{< imageGrid >}}

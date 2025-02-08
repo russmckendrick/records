@@ -4,6 +4,7 @@ artist_name: "Main Source"
 artist: "main-source"
 album_name: "Breaking Atoms"
 date: 2017-02-15T18:30:30.000000Z
+release_date: "2022-01-14"
 release_id: "9816263"
 slug: "breaking-atoms-9816263"
 hideSummary: true
@@ -42,50 +43,33 @@ styles: ["Conscious"]
 
 Breaking Atoms is the first album by American/Canadian hip hop group Main Source, released in 1991 on Wild Pitch Records. It was produced by the group, primarily by member Large Professor, with recording sessions taking place during 1990–1991 at Homeboy Studio, Power Play Studios, and Libra Digital in New York City. Breaking Atoms is distinguished stylistically by its incorporation of jazz and soul music samples. The album has been highly regarded by music writers due mostly to its production, whose heavy and original use of sampling influenced hip hop producers for a considerable portion of the 1990s.
 The album has been widely regarded by writers and music critics as a significantly influential album and has been noted for debuting rapper Nas, who appears on the track "Live at the Barbeque". His contribution to the song was sampled on "The Genesis", the intro track to his debut album Illmatic (1994). Breaking Atoms has been recognized as one of the most important records in hip hop history, and was out of print in the United States after the demise of Wild Pitch Records in 1997. It was reissued on April 22, 2008, through Fontana Distribution.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Snake Eyes (3:30)
-2. Just Hangin' Out (4:10)
-3. Looking At The Front Door (4:10)
-4. Large Professor (3:08)
-5. Just A Friendly Game Of Baseball (3:22)
-6. Scratch & Kut (2:57)
-7. Peace Is Not The Word To Play (3:07)
-8. Vamos A Rapiar (3:59)
-9. He Got So Much Soul (He Don't Need No Music) (3:34)
-10. Live At The Barbeque (4:35)
-11. Watch Roger Do His Thing (4:22)
-12. Peace Is Not The Word To Play (Remix)
-13. How My Man Went Down In The Game
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Snake Eyes | 3:30 |
+| A2 | Just Hangin' Out | 4:10 |
+| A3 | Looking At The Front Door | 4:10 |
+| A4 | Large Professor | 3:08 |
+| A5 | Just A Friendly Game Of Baseball | 3:22 |
+| A6 | Scratch & Kut | 2:57 |
+| B1 | Peace Is Not The Word To Play | 3:07 |
+| B2 | Vamos A Rapiar | 3:59 |
+| B3 | He Got So Much Soul (He Don't Need No Music) | 3:34 |
+| B4 | Live At The Barbeque | 4:35 |
+| B5 | Watch Roger Do His Thing | 4:22 |
+| C | Peace Is Not The Word To Play (Remix) |  |
+| D | How My Man Went Down In The Game |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/breaking-atoms-single/1601221353" >}}<br>
 
 
-## Videos
-### Snake Eyes
-{{< youtube id="vNaSVqtD-vE" title="Snake Eyes" >}}<br>
-### More Videos
-
-- [Just Hangin Out](https://www.youtube.com/watch?v=Z1sOjycg6cY)
-- [Looking At The Front Door](https://www.youtube.com/watch?v=DykoaS5kaBI)
-- [Large Professor](https://www.youtube.com/watch?v=tXw3HwnwQDU)
-- [Main Source   Just A Friendly Game Of Baseball](https://www.youtube.com/watch?v=pFVpeaJLN4A)
-- [Scratch  Kut](https://www.youtube.com/watch?v=lcM9ELWQY9I)
-- [Peace Is Not The Word To Play](https://www.youtube.com/watch?v=NOUKIisMF5w)
-- [Vamos a Rapiar](https://www.youtube.com/watch?v=EPaf8Dy_hng)
-- [He Got So Much Soul He Dont Need No Music](https://www.youtube.com/watch?v=1xnO-bR9tsc)
-- [Main Source - Live at the Barbeque feat  Nas Joe Fatal Akinyele](https://www.youtube.com/watch?v=XmCWfJAPwbA)
-- [Watch Roger Do His Thing](https://www.youtube.com/watch?v=uLGgIHsh78s)
-- [Nas  Main Source - Live at the BBQ Rock the Bells 2011 Governors Island NY 090311](https://www.youtube.com/watch?v=W-rv0dGeXAg)
-- [Main Source - Looking At The Front Door HD](https://www.youtube.com/watch?v=RNRCQ9eagWQ)
-- [Main Source-Peace is not the word to play video remix 1991](https://www.youtube.com/watch?v=2ziQq3iPr2o)
-- [Main Source   Just Hangin Out](https://www.youtube.com/watch?v=cDz29sva4FM)
-- [Main Source - Watch Roger Do His Thing 1990](https://www.youtube.com/watch?v=6NMWew-oQbw)
-- [Main Source - Breaking Atoms Full Album 1991](https://www.youtube.com/watch?v=TPtna3lDlvo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -97,5 +81,5 @@ The album has been widely regarded by writers and music critics as a significant
 | Format         | Vinyl LP Album Club Edition Misprint Reissue (Orange in Clear), Vinyl 7" 45 RPM (Violet) |
 | Label          | Vinyl Me, Please |
 | Catalog Number | VMP-006 |
-| Notes | Back cover has a typo at the bottom, music is misspelled "Muisc"  Published by Frozen Soap Songs (ASCAP) & Kahari Music (BMI). Mastered at Hit Factory, DMS.  Gatefold jacket. Color-in-color LP. With bonus 7", booklet, VMP excerts. |
+| Notes | Back cover has a typo at the bottom, music is misspelled "Muisc"<br><br>Published by Frozen Soap Songs (ASCAP) & Kahari Music (BMI).<br>Mastered at Hit Factory, DMS.<br><br>Gatefold jacket. Color-in-color LP. With bonus 7", booklet, VMP excerts. |
 | Discogs URL    | [Main Source - Breaking Atoms](https://www.discogs.com/release/9816263-Main-Source-Breaking-Atoms) |

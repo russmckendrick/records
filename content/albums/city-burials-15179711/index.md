@@ -60,31 +60,26 @@ styles: ["Prog Rock", "Progressive Metal"]
 
 
 ## Tracklisting
-1. Heart Set To Divide
-2. Behind The Blood
-3. Lacquer
-4. Rein
-5. The Winter Of Our Passing
-6. Vanishers
-7. City Glaciers
-8. Flicker
-9. Lachesis
-10. Neon Epitaph
-11. Untrodden
-12. Closing Of The Sky
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Heart Set To Divide |  |
+| A2 | Behind The Blood |  |
+| A3 | Lacquer |  |
+| A4 | Rein |  |
+| B1 | The Winter Of Our Passing |  |
+| B2 | Vanishers |  |
+| B3 | City Glaciers |  |
+| B4 | Flicker |  |
+| C1 | Lachesis |  |
+| C2 | Neon Epitaph |  |
+| C3 | Untrodden |  |
+| C4 | Closing Of The Sky |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/city-burials/1494960292" >}}<br>
 
 
-## Videos
-### Katatonia - The Winter of our Passing OFFICIAL VIDEO
-{{< youtube id="P2H4tCc9E3U" title="Katatonia - The Winter of our Passing OFFICIAL VIDEO" >}}<br>
-### More Videos
-
-- [Katatonia - Behind The Blood from City Burials](https://www.youtube.com/watch?v=nQaN2elJ-dQ)
-- [Katatonia - The Winter of our Passing from City Burials](https://www.youtube.com/watch?v=mnWkTAB-ceg)
-- [Katatonia - Lacquer from City Burials](https://www.youtube.com/watch?v=zGvZhRFBQ_I)
 
 ## Release Images
 {{< imageGrid >}}
@@ -96,5 +91,5 @@ styles: ["Prog Rock", "Progressive Metal"]
 | Format         | Vinyl LP (Clear), Vinyl LP Single Sided Etched (Clear), All Media Album |
 | Label          | Peaceville |
 | Catalog Number | VILELP860 |
-| Notes | Gatefold with lyrics and printed inner sleeves with photos and credits. Limited edition of 1500 copies.  Closing Of The Sky is a bonus track for this release.  Runouts are etched.  Made in the EU. |
+| Notes | Gatefold with lyrics and printed inner sleeves with photos and credits.<br>Limited edition of 1500 copies.<br><br>Closing Of The Sky is a bonus track for this release.<br><br>Runouts are etched.<br><br>Made in the EU. |
 | Discogs URL    | [Katatonia - City Burials](https://www.discogs.com/release/15179711-Katatonia-City-Burials) |

@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Reimagining The Court Of The Crimson King"
 date: 2024-04-18T07:20:50.000000Z
+release_date: ""
 release_id: "30166604"
 slug: "reimagining-the-court-of-the-crimson-king-30166604"
 hideSummary: true
@@ -27,22 +28,24 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. 21st Century Schizoid Man
-2. I Talk To The Wind
-3. Epitaph
-4. Moonchild
-5. The Court Of The Crimson King
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 21st Century Schizoid Man |  |
+| A2 | I Talk To The Wind |  |
+| A3 | Epitaph |  |
+| B1 | Moonchild |  |
+| B2 | The Court Of The Crimson King |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### TODD RUNDGRENs Explosive Take On KING CRIMSONs 21ST CENTURY SCHIZOID MAN CHRIS POLAND PROGROCK
-{{< youtube id="VRKZbSH7Dmo" title="TODD RUNDGRENs Explosive Take On KING CRIMSONs 21ST CENTURY SCHIZOID MAN CHRIS POLAND PROGROCK" >}}<br>
-### More Videos
 
-- [TODD RUNDGRENs Explosive Take On KING CRIMSONs 21ST CENTURY SCHIZOID MAN CHRIS POLAND PROGROCK](https://www.youtube.com/watch?v=VRKZbSH7Dmo)
 
 ## Release Images
 {{< imageGrid >}}

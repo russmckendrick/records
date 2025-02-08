@@ -1,9 +1,10 @@
 ---
 title: "Whiteout - Bite It"
 artist_name: "Whiteout"
-artist: "whiteout-2"
+artist: "whiteout"
 album_name: "Bite It"
 date: 2021-02-10T04:35:09.000000Z
+release_date: "1995"
 release_id: "3113946"
 slug: "bite-it-3113946"
 hideSummary: true
@@ -25,36 +26,32 @@ styles: ["Alternative Rock", "Indie Rock"]
 Bite It is the debut album by Scottish rock band Whiteout, released in 1995 (see 1995 in music). The album includes two of the overall four previously released singles by the band, namely "No Time" and "Jackie's Racing". Another single, "Detroit", was not part of the original album but added as a bonus track to certain subsequent releases of Bite It, making "Starrclub" the only Whiteout single not released on a proper album (although it was re-released on the Japanese EP No Time). The album was available on both CD and vinyl.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Thirty Eight (4:04)
-2. No Time (3:53)
-3. We Should Stick Together (3:16)
-4. Jackie's Racing (3:18)
-5. Shine On You (4:30)
-6. No More Tears (6:41)
-7. Altogether (3:25)
-8. U Drag Me (4:57)
-9. Baby Don't Give Up On Me Yet (5:55)
-10. You Left Me Seeing Stars (5:09)
-11. Everyday (4:26)
-12. Untitled (5:44)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Thirty Eight | 4:04 |
+| A2 | No Time | 3:53 |
+| A3 | We Should Stick Together | 3:16 |
+| B1 | Jackie's Racing | 3:18 |
+| B2 | Shine On You | 4:30 |
+| B3 | No More Tears | 6:41 |
+| C1 | Altogether | 3:25 |
+| C2 | U Drag Me | 4:57 |
+| C3 | Baby Don't Give Up On Me Yet | 5:55 |
+| D1 | You Left Me Seeing Stars | 5:09 |
+| D2 | Everyday | 4:26 |
+| D3 | Untitled | 5:44 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bite-it/1635562008" >}}<br>
 
 
-## Videos
-### Whiteout - No Time
-{{< youtube id="KsoyNoEl2gw" title="Whiteout - No Time" >}}<br>
-### More Videos
-
-- [Whiteout - Thirty Eight](https://www.youtube.com/watch?v=MuqcObxf5Ho)
-- [Whiteout - No Time](https://www.youtube.com/watch?v=KsoyNoEl2gw)
-- [Whiteout - Thirty Eight](https://www.youtube.com/watch?v=MuqcObxf5Ho)
 
 ## Release Images
 {{< imageGrid >}}

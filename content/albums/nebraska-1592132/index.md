@@ -32,27 +32,24 @@ Indigenous peoples, including Omaha, Missouria, Ponca, Pawnee, Otoe, and various
 
 
 ## Tracklisting
-1. Nebraska (4:27)
-2. Atlantic City (3:54)
-3. Mansion On The Hill (4:03)
-4. Johnny 99 (3:38)
-5. Highway Patrolman (5:39)
-6. State Trooper (3:15)
-7. Used Cars (3:05)
-8. Open All Night (2:53)
-9. My Father's House (5:03)
-10. Reason To Believe (4:09)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Nebraska | 4:27 |
+| A2 | Atlantic City | 3:54 |
+| A3 | Mansion On The Hill | 4:03 |
+| A4 | Johnny 99 | 3:38 |
+| A5 | Highway Patrolman | 5:39 |
+| A6 | State Trooper | 3:15 |
+| B1 | Used Cars | 3:05 |
+| B2 | Open All Night | 2:53 |
+| B3 | My Father's House | 5:03 |
+| B4 | Reason To Believe | 4:09 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nebraska/185798980" >}}<br>
 
 
-## Videos
-### Nebraska
-{{< youtube id="hCpL_ImsiDo" title="Nebraska" >}}<br>
-### More Videos
-
-- [NEBRASKA Bruce Springsteen Vinyl HQ Sound Full Album](https://www.youtube.com/watch?v=xBenDjUlM58)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +61,5 @@ Indigenous peoples, including Omaha, Missouria, Ponca, Pawnee, Otoe, and various
 | Format         | Vinyl LP Album |
 | Label          | CBS |
 | Catalog Number | CBS 25100 |
-| Notes | Recorded in New Jersey by Mike Batlin on a Teac Tascam Series 144 4-track cassette recorder. Mastered at Atlantic Studios by Dennis King. Mastering consultants: Bob Ludwig (Masterdisk) and Steve Marcussen (Precision Laquer).  Inner Sleeve has lyrics printed on it.  Made in England. |
+| Notes | Recorded in New Jersey by Mike Batlin on a Teac Tascam Series 144 4-track cassette recorder.<br>Mastered at Atlantic Studios by Dennis King.<br>Mastering consultants: Bob Ludwig (Masterdisk) and Steve Marcussen (Precision Laquer).<br><br>Inner Sleeve has lyrics printed on it.<br><br>Made in England. |
 | Discogs URL    | [Bruce Springsteen - Nebraska](https://www.discogs.com/release/1592132-Bruce-Springsteen-Nebraska) |

@@ -1,9 +1,10 @@
 ---
 title: "Henge - Journey To Voltus B"
 artist_name: "Henge"
-artist: "henge-3"
+artist: "henge"
 album_name: "Journey To Voltus B"
 date: 2025-02-01T07:52:12.000000Z
+release_date: ""
 release_id: "32957085"
 slug: "journey-to-voltus-b-32957085"
 hideSummary: true
@@ -23,19 +24,26 @@ styles: ["Prog Rock", "Techno", "Space Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Ascending
-2. Slingshot
-3. Hypersleep
-4. Descending
-5. Welcome To Voltus
-6. The Powert Of The Atom (Winter Version)
-7. Nuclear Winter
-8. The Powert Of The Atom (Fusion Version)
-9. Nuclear Fusion
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ascending |  |
+| A2 | Slingshot |  |
+| A3 | Hypersleep |  |
+| A4 | Descending |  |
+| A5 | Welcome To Voltus |  |
+| B1a | The Powert Of The Atom (Winter Version) |  |
+| B2a | Nuclear Winter |  |
+| B1b | The Powert Of The Atom (Fusion Version) |  |
+| B2b | Nuclear Fusion |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -48,5 +56,5 @@ styles: ["Prog Rock", "Techno", "Space Rock"]
 | Format         | Vinyl LP (Ecomix Vinyl) |
 | Label          | Cosmic Dross Records |
 | Catalog Number | none |
-| Notes | Die B-Seite des limitierten Ecomix-Vinyls lässt sich auf zwei unterschiedlichen Rillen abspielen, die die beiden unterschiedlichen Enden enthalten.  The record is pressed on Ecomix vinyl which uses the leftovers and reground offcuts from previous manufacturing runs. As well as reducing waste it also means that each record has a unique look with different effects, colours and marbles throughout the run. |
+| Notes | Die B-Seite des limitierten Ecomix-Vinyls lässt sich auf zwei unterschiedlichen Rillen abspielen, die die beiden unterschiedlichen Enden enthalten.<br><br>The record is pressed on Ecomix vinyl which uses the leftovers and reground offcuts from previous manufacturing runs. As well as reducing waste it also means that each record has a unique look with different effects, colours and marbles throughout the run. |
 | Discogs URL    | [Henge - Journey To Voltus B](https://www.discogs.com/release/32957085-Henge-3-Journey-To-Voltus-B) |

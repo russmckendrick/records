@@ -4,6 +4,7 @@ artist_name: "Split Enz"
 artist: "split-enz"
 album_name: "Dizrythmia"
 date: 2016-02-02T19:46:54.000000Z
+release_date: "1977-08-29"
 release_id: "2995959"
 slug: "dizrythmia-2995959"
 hideSummary: true
@@ -30,31 +31,29 @@ Tim Finn coughs forty-four seconds into "Nice to Know", a feature erroneously le
 Both Tim Finn and Eddie Rayner were disappointed with the final mix of "Charlie", feeling that the vocals sounded very flat. Geoff Emerick, the engineer for the album, thought it was a beautiful vocal, however, so it stayed.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Bold As Brass (3:22)
-2. My Mistake (2:56)
-3. Parrot Fashion Love (3:47)
-4. Sugar And Spice (3:49)
-5. Without A Doubt (5:26)
-6. Crosswords (3:21)
-7. Charley (6:26)
-8. Nice To Know (4:22)
-9. Jamboree (6:27)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Bold As Brass | 3:22 |
+| A2 | My Mistake | 2:56 |
+| A3 | Parrot Fashion Love | 3:47 |
+| A4 | Sugar And Spice | 3:49 |
+| A5 | Without A Doubt | 5:26 |
+| B1 | Crosswords | 3:21 |
+| B2 | Charley | 6:26 |
+| B3 | Nice To Know | 4:22 |
+| B4 | Jamboree | 6:27 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dizrythmia/1629184668" >}}<br>
 
 
-## Videos
-### Split Enz - Bold As Brass Official Video
-{{< youtube id="gTO8lUYi7lc" title="Split Enz - Bold As Brass Official Video" >}}<br>
-### More Videos
-
-- [Split Enz - My Mistake Official Video](https://www.youtube.com/watch?v=LjUoaP8xbSQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +65,5 @@ Both Tim Finn and Eddie Rayner were disappointed with the final mix of "Charlie"
 | Format         | Vinyl LP Album |
 | Label          | Chrysalis |
 | Catalog Number | CHR 1145 |
-| Notes | Released with an insert with lyrics.  Backcover caption: Chrysalis Records Limited 388/396 Oxford Street, London, W1.  |
+| Notes | Released with an insert with lyrics.<br><br>Backcover caption:<br>Chrysalis Records Limited<br>388/396 Oxford Street, London, W1.<br> |
 | Discogs URL    | [Split Enz - Dizrythmia](https://www.discogs.com/release/2995959-Split-Enz-Dizrythmia) |

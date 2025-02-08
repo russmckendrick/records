@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "The Apollo (Original Motion Picture Soundtrack)"
 date: 2021-07-01T08:13:53.000000Z
+release_date: ""
 release_id: "15987938"
 slug: "the-apollo-original-motion-picture-soundtrack-15987938"
 hideSummary: true
@@ -25,45 +26,49 @@ styles: ["Soundtrack"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Apollo Greeter (0:14)
-2. Opening, The Apollo Theater (1:15)
-3. Take The 'A' Train (3:34)
-4. Memphis Blues (2:39)
-5. Interview Excerpt (0:15)
-6. How High Is The Moon (3:13)
-7. Old Man Blues (3:05)
-8. She's Something Spanish (2:46)
-9. Jive At Five (2:51)
-10. Interview Excerpt (0:10)
-11. Strange Fruit (3:09)
-12. Interview Excerpt (0:11)
-13. What's Going On (3:40)
-14. Interview Excerpt (0:17)
-15. Say It Loud-I'm Black And I'm Proud (4:49)
-16. Interview Excerpt (0:16)
-17. Apollo As Home (0:29)
-18. Home Is Where The Heart Is (5:11)
-19. Mission Statement (1:13)
-20. Come Sunday (2:31)
-21. Lost Someone (Live At The Apollo) (2:39)
-22. Schiffman Cards (0:30)
-23. T'aint No Use (6:05)
-24. Obama Returns To The Apollo (1:15)
-25. Rock Steady (3:10)
-26. Asphalt Canyon Blues (6:12)
-27. Something's Got A Hold On Me (2:47)
-28. Harlem Riots (2:19)
-29. Duke's Last Soliloquy (3:06)
-30. Ta-Nehisi Coates And T. Griffin (1:24)
-31. Don't Turn Back Now (4:36)
-32. At The Apollo Theater, January 19, 2012 (0:28)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Apollo Greeter | 0:14 |
+| A2 | Opening, The Apollo Theater | 1:15 |
+| A3 | Take The 'A' Train | 3:34 |
+| A4 | Memphis Blues | 2:39 |
+| A5 | Interview Excerpt | 0:15 |
+| A6 | How High Is The Moon | 3:13 |
+| A7 | Old Man Blues | 3:05 |
+| A8 | She's Something Spanish | 2:46 |
+| A9 | Jive At Five | 2:51 |
+| B1 | Interview Excerpt | 0:10 |
+| B2 | Strange Fruit | 3:09 |
+| B3 | Interview Excerpt | 0:11 |
+| B4 | What's Going On | 3:40 |
+| B5 | Interview Excerpt | 0:17 |
+| B6 | Say It Loud-I'm Black And I'm Proud | 4:49 |
+| B7 | Interview Excerpt | 0:16 |
+| B9 | Apollo As Home | 0:29 |
+| B9 | Home Is Where The Heart Is | 5:11 |
+| C1 | Mission Statement | 1:13 |
+| C2 | Come Sunday | 2:31 |
+| C3 | Lost Someone (Live At The Apollo) | 2:39 |
+| C4 | Schiffman Cards | 0:30 |
+| C5 | T'aint No Use | 6:05 |
+| C6 | Obama Returns To The Apollo | 1:15 |
+| C7 | Rock Steady | 3:10 |
+| D1 | Asphalt Canyon Blues | 6:12 |
+| D2 | Something's Got A Hold On Me | 2:47 |
+| D3 | Harlem Riots | 2:19 |
+| D4 | Duke's Last Soliloquy | 3:06 |
+| D5 | Ta-Nehisi Coates And T. Griffin | 1:24 |
+| D6 | Don't Turn Back Now | 4:36 |
+| D7 | At The Apollo Theater, January 19, 2012 | 0:28 |
 
 
-## Spotify
-{{< spotify type="album" id="6pjGpesm1IXSEQ0VEdebo2" width="100%" height="500" >}}<br>
-
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -76,5 +81,5 @@ styles: ["Soundtrack"]
 | Format         | Vinyl 2× LP Album Stereo (180gr.) |
 | Label          | Blue Note |
 | Catalog Number | 602508383793 |
-| Notes | Made in the EU. Back To Black hype sticker on shrink wrap. Comes with 'Back To Black' download code.  Matrices stamped, with exception of B0031355-01-A IS, B0031355-01-B IS, B0031355-01-C IS and B0031355-01-D IS which are etched. The IS symbol in the deadwax represents the initials of mastering and cutting engineer [a527017]. |
+| Notes | Made in the EU.<br>Back To Black hype sticker on shrink wrap. Comes with 'Back To Black' download code. <br>Matrices stamped, with exception of B0031355-01-A IS, B0031355-01-B IS, B0031355-01-C IS and B0031355-01-D IS which are etched. The IS symbol in the deadwax represents the initials of mastering and cutting engineer [a527017]. |
 | Discogs URL    | [Various - The Apollo (Original Motion Picture Soundtrack)](https://www.discogs.com/release/15987938-Various-The-Apollo-Original-Motion-Picture-Soundtrack) |

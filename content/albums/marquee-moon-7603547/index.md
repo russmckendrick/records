@@ -36,31 +36,22 @@ By the mere fact of being the bookish outsiders they were, Television opened the
 
 
 ## Tracklisting
-1. See No Evil (3:56)
-2. Venus (3:48)
-3. Friction (4:43)
-4. Marquee Moon (9:58)
-5. Elevation (5:08)
-6. Guiding Light (5:36)
-7. Prove It (5:04)
-8. Torn Curtain (7:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | See No Evil | 3:56 |
+| A2 | Venus | 3:48 |
+| A3 | Friction | 4:43 |
+| A4 | Marquee Moon | 9:58 |
+| B1 | Elevation | 5:08 |
+| B2 | Guiding Light | 5:36 |
+| B3 | Prove It | 5:04 |
+| B4 | Torn Curtain | 7:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/marquee-moon/1049069472" >}}<br>
 
 
-## Videos
-### See No Evil
-{{< youtube id="puIM6LkKLpI" title="See No Evil" >}}<br>
-### More Videos
-
-- [Venus](https://www.youtube.com/watch?v=dsOYZcP9o-4)
-- [Friction](https://www.youtube.com/watch?v=vkXDUMQ6nLM)
-- [Marquee Moon](https://www.youtube.com/watch?v=g4myghLPLZc)
-- [Elevation](https://www.youtube.com/watch?v=VAdRgg9K-Jw)
-- [Guiding Light](https://www.youtube.com/watch?v=Ke0e0IyvMXc)
-- [Prove It](https://www.youtube.com/watch?v=-kS2t2YTBFs)
-- [Torn Curtain](https://www.youtube.com/watch?v=UVAooI5jLaQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +63,5 @@ By the mere fact of being the bookish outsiders they were, Television opened the
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (White, 180 Gram) |
 | Label          | Elektra |
 | Catalog Number | 8122797158 |
-| Notes | Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured in the E.U.   Ltd Edition of 3000 copies |
+| Notes | Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured in the E.U. <br><br>Ltd Edition of 3000 copies |
 | Discogs URL    | [Television - Marquee Moon](https://www.discogs.com/release/7603547-Television-Marquee-Moon) |

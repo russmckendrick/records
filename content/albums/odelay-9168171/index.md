@@ -4,6 +4,7 @@ artist_name: "Beck"
 artist: "beck"
 album_name: "Odelay"
 date: 2016-10-21T17:27:55.000000Z
+release_date: "2015-06-26"
 release_id: "9168171"
 slug: "odelay-9168171"
 hideSummary: true
@@ -28,37 +29,33 @@ styles: ["Indie Rock", "Alternative Rock"]
 Odelay is the fifth studio album by American musician Beck, released on June 18, 1996, by DGC Records. The album featured several successful singles, including "Where It's At", "Devils Haircut", and "The New Pollution", and peaked at number sixteen on the Billboard 200. As of July 2008, the album had sold 2.3 million copies in the United States, making Odelay Beck's most successful album to date. Since its release, the album has appeared in numerous publications' lists of the greatest of the 1990s and of all time.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Devils Haircut
-2. Hotwax
-3. Lord Only Knows
-4. The New Pollution
-5. Derelict
-6. Novacane
-7. Jack-Ass
-8. Where It's At
-9. Minus
-10. Sissyneck
-11. Readymade
-12. High 5 (Rock The Catskills)
-13. Ramshackle
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Devils Haircut |  |
+| A2 | Hotwax |  |
+| A3 | Lord Only Knows |  |
+| A4 | The New Pollution |  |
+| A5 | Derelict |  |
+| A6 | Novacane |  |
+| A7 | Jack-Ass |  |
+| B1 | Where It's At |  |
+| B2 | Minus |  |
+| B3 | Sissyneck |  |
+| B4 | Readymade |  |
+| B5 | High 5 (Rock The Catskills) |  |
+| B6 | Ramshackle |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/becks-odelay-ep/1738275155" >}}<br>
 
 
-## Videos
-### Beck - Devils Haircut Official Music Video
-{{< youtube id="aa3rBVb3v4g" title="Beck - Devils Haircut Official Music Video" >}}<br>
-### More Videos
-
-- [Beck - The New Pollution Official Music Video](https://www.youtube.com/watch?v=uxugaMpt1vU)
-- [Beck - Where Its At Official Music Video](https://www.youtube.com/watch?v=EPfmNxKLDG4)
-- [1996Odelay - BECK](https://www.youtube.com/watch?v=5sdQVVggJu4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +67,5 @@ Odelay is the fifth studio album by American musician Beck, released on June 18,
 | Format         | Vinyl LP Album Club Edition Reissue (Brown Translucent w/ Black Smoke [Bourbon]) |
 | Label          | DGC |
 | Catalog Number | B0025491-01 |
-| Notes | 2016 exclusive Vinyl Me, Please edition. Small "Vinyl Me, Please EXCLUSIVE PRESSING" sticker on shrinkwrap. Six-panel color insert (mirroring most of content from CD editions' insert) and large "jackass" sticker enclosed.    Recorded in 1994/95 at PCP Labs mixed at Conway Studios, Recorded at G San Studios, The Shop, Sunset Sound and Conway Studios   All songs published by Youthless/Kobalt Music Publishing/Dust Brothers Music ASCAP except B6, A3 & B2 published by Youthless/Kobalt Music Publishing ASCAP   "Devil's Haircut" contains a sample from "Out Of Sight" (James Brown) published by Fort Knox Music BMI, performed by Them, courtesy of the Decca Record Co.; a sample from "Soul Drums" (Bernard Purdie) published by Tenryk Music BMI, performed by Pretty Purdie, courtesy of Sony Music; and elements from "I Can Only Give You Everything" (Philip Coulter/Thomas Scott) published by Carbert Music ASCAP.   "Hotwax" contains a sample from "Song For Aretha" (Bernard Purdie/Horace Ott/Robert Thiele) published by Tenryk Music/Well Made Music BMI, performed by Pretty Purdie; and a sample from "Up On The Hill" (Monk Higgins/Alexandra Brown) published by Special Agent Co./Tippy Music Publishing ASCAP, performed by Monk Higgins & The Specialties, courtesy of Blue Note Records, a division of Capitol Records, Inc.   "Lord Only Knows" contains elements from "Lookout For Lucy" (Mike Millius/Don Thomas) published by Southern Music Publishing Company, Inc. ASCAP performed by Mike Millius, courtesy of MCA Records, Inc.   "The New Pollution" contains a sample from "Venus" (Brad Baker) published by Sonny Lester Music Publishing Co. ASCAP, performed by Joe Thomas, courtesy of LAC Ltd.   "Jack-ass" contains a sample from "It's All Over Now, Baby Blue" (Bob Dylan) published by Special Rider Music SESAC, performed by Them, courtesy of Decca Record Co. Licensed from Exile Productions Limited.   "Where It's At" contains a sample from "Needle To The Groove" (Embden Toure/Khaleel Kirk) published by Hit And Hold Music, Inc. ASCAP, performed by Mantronix, courtesy of Warlock Records.   "Sissyneck" contains elements from "The Moog And Me" (Dick Hyman) published by Eastlake Music, Inc. ASCAP, performed by Dick Hyman, courtesy of MCA Records, Inc. and elements from "A Part Of Me" (Paris/Taylor) published by Zethus Music, administered by Chappell & Co., Inc. ASCAP. All Rights Reserved. Used by permission.   "Readymade" contains excerpts from "Desafinado" (Antonio Carlos Jobim/Newton Mendonca) published by Bendig Music/Carcovado Corp. BMI, performed by Laurindo Almeida And The Bossa Nova All Stars, courtesy of Blue Note Records, a division of Capitol Records, Inc.   "High 5 (Rock The Catskills)" contains elements from "Mr. Cool" (Vincent Willis) published by Cotillion Music Inc./NAP Publishing Co./ Sylheart Publishing Co., administered by Warner Tamerlane Publishing Co., Inc. BMI performed by Rasputin's Stash, courtesy of Atlantic Recording Corp., by arrangement with Warner Special Products, Inc.  |
+| Notes | 2016 exclusive Vinyl Me, Please edition. Small "Vinyl Me, Please EXCLUSIVE PRESSING" sticker on shrinkwrap. Six-panel color insert (mirroring most of content from CD editions' insert) and large "jackass" sticker enclosed.  <br><br>Recorded in 1994/95 at PCP Labs mixed at Conway Studios, Recorded at G San Studios, The Shop, Sunset Sound and Conway Studios <br><br>All songs published by Youthless/Kobalt Music Publishing/Dust Brothers Music ASCAP except B6, A3 & B2 published by Youthless/Kobalt Music Publishing ASCAP <br><br>"Devil's Haircut" contains a sample from "Out Of Sight" (James Brown) published by Fort Knox Music BMI, performed by Them, courtesy of the Decca Record Co.; a sample from "Soul Drums" (Bernard Purdie) published by Tenryk Music BMI, performed by Pretty Purdie, courtesy of Sony Music; and elements from "I Can Only Give You Everything" (Philip Coulter/Thomas Scott) published by Carbert Music ASCAP. <br><br>"Hotwax" contains a sample from "Song For Aretha" (Bernard Purdie/Horace Ott/Robert Thiele) published by Tenryk Music/Well Made Music BMI, performed by Pretty Purdie; and a sample from "Up On The Hill" (Monk Higgins/Alexandra Brown) published by Special Agent Co./Tippy Music Publishing ASCAP, performed by Monk Higgins & The Specialties, courtesy of Blue Note Records, a division of Capitol Records, Inc. <br><br>"Lord Only Knows" contains elements from "Lookout For Lucy" (Mike Millius/Don Thomas) published by Southern Music Publishing Company, Inc. ASCAP performed by Mike Millius, courtesy of MCA Records, Inc. <br><br>"The New Pollution" contains a sample from "Venus" (Brad Baker) published by Sonny Lester Music Publishing Co. ASCAP, performed by Joe Thomas, courtesy of LAC Ltd. <br><br>"Jack-ass" contains a sample from "It's All Over Now, Baby Blue" (Bob Dylan) published by Special Rider Music SESAC, performed by Them, courtesy of Decca Record Co. Licensed from Exile Productions Limited. <br><br>"Where It's At" contains a sample from "Needle To The Groove" (Embden Toure/Khaleel Kirk) published by Hit And Hold Music, Inc. ASCAP, performed by Mantronix, courtesy of Warlock Records. <br><br>"Sissyneck" contains elements from "The Moog And Me" (Dick Hyman) published by Eastlake Music, Inc. ASCAP, performed by Dick Hyman, courtesy of MCA Records, Inc. and elements from "A Part Of Me" (Paris/Taylor) published by Zethus Music, administered by Chappell & Co., Inc. ASCAP. All Rights Reserved. Used by permission. <br><br>"Readymade" contains excerpts from "Desafinado" (Antonio Carlos Jobim/Newton Mendonca) published by Bendig Music/Carcovado Corp. BMI, performed by Laurindo Almeida And The Bossa Nova All Stars, courtesy of Blue Note Records, a division of Capitol Records, Inc. <br><br>"High 5 (Rock The Catskills)" contains elements from "Mr. Cool" (Vincent Willis) published by Cotillion Music Inc./NAP Publishing Co./ Sylheart Publishing Co., administered by Warner Tamerlane Publishing Co., Inc. BMI performed by Rasputin's Stash, courtesy of Atlantic Recording Corp., by arrangement with Warner Special Products, Inc.  |
 | Discogs URL    | [Beck - Odelay](https://www.discogs.com/release/9168171-Beck-Odelay) |

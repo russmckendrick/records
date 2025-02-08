@@ -4,6 +4,7 @@ artist_name: "Garbage"
 artist: "garbage"
 album_name: "Version 2.0"
 date: 2019-01-12T12:24:17.000000Z
+release_date: "2018-07-06"
 release_id: "12156178"
 slug: "version-2-0-12156178"
 hideSummary: true
@@ -38,37 +39,32 @@ Version 2.0 is the second studio album by Scottish/American rock band Garbage. I
 Version 2.0 was a commercial success, topping the charts in the United Kingdom, France, and New Zealand, and earning platinum certifications in several countries. The album has sold 1.7 million copies in the United States and four million copies worldwide. Garbage embarked on an 18-month-long world tour, and released a string of commercially successful singles backed with innovative music videos. Version 2.0 received generally positive reviews from critics, and was included on year-end lists of 1998's best albums by several publications. In 1999, it was nominated for Grammy Awards for Album of the Year and Best Rock Album. The album's third single "Special" was further nominated the following year for Best Rock Song and for Best Rock Performance by a Duo or Group.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Temptation Waits
-2. I Think I'm Paranoid
-3. When I Grow Up
-4. Medication
-5. Special
-6. Hammering In My Head
-7. Push It
-8. The Trick Is To Keep Breathing
-9. Dumb
-10. Sleep Together
-11. Wicked Ways
-12. You Look So Fine
+| Position | Title | Duration |
+|----------|-------|----------|
+| A0001 | Temptation Waits |  |
+| A0002 | I Think I'm Paranoid |  |
+| A0003 | When I Grow Up |  |
+| B0004 | Medication |  |
+| B0005 | Special |  |
+| B0006 | Hammering In My Head |  |
+| C0007 | Push It |  |
+| C0008 | The Trick Is To Keep Breathing |  |
+| C0009 | Dumb |  |
+| D0010 | Sleep Together |  |
+| D0011 | Wicked Ways |  |
+| D0012 | You Look So Fine |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/version-2-0-the-official-remixes/1544793571" >}}<br>
 
 
-## Videos
-### Garbage - Version 20 FULL ALBUM 
-{{< youtube id="g8vKFHGSXBQ" title="Garbage - Version 20 FULL ALBUM " >}}<br>
-### More Videos
-
-- [Garbage - I Think Im Paranoid](https://www.youtube.com/watch?v=ypr18UmxOas)
-- [Garbage - Nulle Part Ailleurs Canal France 1998](https://www.youtube.com/watch?v=AQRcgRmO6wM)
-- [Garbage - I Think Im Paranoid  Push It Nulle part ailleurs 1998](https://www.youtube.com/watch?v=r4RPKqo18J4)
-- [Garbage - Temptation Waits 1998 Pablo Porcuna](https://www.youtube.com/watch?v=iynW2cCIiaQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +76,5 @@ Version 2.0 was a commercial success, topping the charts in the United Kingdom, 
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Orange) |
 | Label          | Stun Volume |
 | Catalog Number | STNVOL030V |
-| Notes | Download card gives access to MP3 (320kbps) files.  ℗ © 2018 Garbage Unlimited, LLC D/B/A Stunvolume Made in the EU   "Push It" contains an interpolation of "Don't Worry Baby" written by Brian Wilson and Roger Christian. Published by Irving Music, Inc. (BMI) and Careers-BMG Music Publishing, Inc (BMI) [US] and Irving Music, Inc (BMI) [worldwide excluding US]. Also contains an interpolation of "Push It" written by Herbie Azor. Published by WB Music Corp (ASCAP).  Includes samples from the AMG Sample CD's Underfire Vols 1 & 2 by Terminalhead. Garbage gratefully acknowledges the contribution of portions of the following sample CD's, to the making of this record, whose samples or loops, if utilized or incorporated herein, appear under license from the respective owners of the sound samples: X-Static Goldmine 2 from E-Lab AB, Tekno / Industrial from East / West, and Pitbull Jungle Loops from Universal Sons.  This album was recorded on a 48-track Digidesign Pro Tools system run on an Apple 9500 / 200 Power Mac and two 24 track Studer A-827 2" analog tape machines.  20th anniversary design by Ryan Corey at Smog Design.  Runouts are entirely etched, with the exception of ᴍᴀsᴛᴇʀᴅɪsᴋ, which is stamped. Side D's '2Λ' is mirrored (See 'Notes on vinyl records' on [l313190] page). The final '1' of Side D's 'BI14021-01' is heavily etched over a lighter '2'. |
+| Notes | Download card gives access to MP3 (320kbps) files.<br><br>℗ © 2018 Garbage Unlimited, LLC D/B/A Stunvolume<br>Made in the EU<br><br><br>"Push It" contains an interpolation of "Don't Worry Baby" written by Brian Wilson and Roger Christian. Published by Irving Music, Inc. (BMI) and Careers-BMG Music Publishing, Inc (BMI) [US] and Irving Music, Inc (BMI) [worldwide excluding US]. Also contains an interpolation of "Push It" written by Herbie Azor. Published by WB Music Corp (ASCAP).<br><br>Includes samples from the AMG Sample CD's Underfire Vols 1 & 2 by Terminalhead. Garbage gratefully acknowledges the contribution of portions of the following sample CD's, to the making of this record, whose samples or loops, if utilized or incorporated herein, appear under license from the respective owners of the sound samples: X-Static Goldmine 2 from E-Lab AB, Tekno / Industrial from East / West, and Pitbull Jungle Loops from Universal Sons.<br><br>This album was recorded on a 48-track Digidesign Pro Tools system run on an Apple 9500 / 200 Power Mac and two 24 track Studer A-827 2" analog tape machines.<br><br>20th anniversary design by Ryan Corey at Smog Design.<br><br>Runouts are entirely etched, with the exception of ᴍᴀsᴛᴇʀᴅɪsᴋ, which is stamped.<br>Side D's '2Λ' is mirrored (See 'Notes on vinyl records' on [l313190] page).<br>The final '1' of Side D's 'BI14021-01' is heavily etched over a lighter '2'. |
 | Discogs URL    | [Garbage - Version 2.0](https://www.discogs.com/release/12156178-Garbage-Version-20) |

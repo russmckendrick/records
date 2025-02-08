@@ -4,6 +4,7 @@ artist_name: "James"
 artist: "james"
 album_name: "Yummy"
 date: 2024-04-16T11:30:11.000000Z
+release_date: "2024-04-12"
 release_id: "30375872"
 slug: "yummy-30375872"
 hideSummary: true
@@ -25,39 +26,32 @@ styles: ["Indie Rock"]
 ---
 
 Yummy is the eighteenth studio album by British indie rock band James, released through Nothing But Love and Virgin Music on 12 April 2024. It has received positive reviews from critics.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Is This Love
-2. Life's A Fucking Miracle
-3. Better With You
-4. Stay
-5. Shadow Of A Giant
-6. Way Over Your Head
-7. Mobile God
-8. Our World
-9. Rogue
-10. Hey
-11. Butterfly
-12. Folks
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Is This Love |  |
+| A2 | Life's A Fucking Miracle |  |
+| A3 | Better With You |  |
+| A4 | Stay |  |
+| A5 | Shadow Of A Giant |  |
+| A6 | Way Over Your Head |  |
+| B1 | Mobile God |  |
+| B2 | Our World |  |
+| B3 | Rogue |  |
+| B4 | Hey |  |
+| B5 | Butterfly |  |
+| B6 | Folks |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/yummy/1727526273" >}}<br>
 
 
-## Videos
-### JAMES - Pudding Yummy UNRELEASED TRACKS  DEMOS 2nd DiscFull Album
-{{< youtube id="MPFTX72yfJw" title="JAMES - Pudding Yummy UNRELEASED TRACKS  DEMOS 2nd DiscFull Album" >}}<br>
-### More Videos
-
-- [James - Is This Love Live on the Chris Evans Breakfast Show with webuyanycar](https://www.youtube.com/watch?v=3M3CkFRO3_g)
-- [Butterfly](https://www.youtube.com/watch?v=PceiRdDHFAg)
-- [Better With You](https://www.youtube.com/watch?v=TMyubUilJv0)
-- [Way Over Your Head](https://www.youtube.com/watch?v=O-nBkYwTdW4)
-- [Shadow Of A Giant](https://www.youtube.com/watch?v=b3yn8_LY1Po)
-- [James - Our World Official Video](https://www.youtube.com/watch?v=eI0TlqgvzRk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +63,5 @@ Yummy is the eighteenth studio album by British indie rock band James, released 
 | Format         | Vinyl LP Album Special Edition (Gatefold, Red [Marble], 180g) |
 | Label          | Virgin Music |
 | Catalog Number | NBLM003LPX |
-| Notes | ℗ & © 2024 Nothing But Love Music.  Indie exclusive. 500 copies from [l1942119] came with an obi-strip signed by the band. Available from other retailers minus the signed obi.  Catalogue number on sleeve: NBLM003LPX Catalogue number on Assai obi-strip: NBLM3LPX |
+| Notes | ℗ & © 2024 Nothing But Love Music.<br><br>Indie exclusive. 500 copies from [l1942119] came with an obi-strip signed by the band. Available from other retailers minus the signed obi.<br><br>Catalogue number on sleeve: NBLM003LPX<br>Catalogue number on Assai obi-strip: NBLM3LPX |
 | Discogs URL    | [James - Yummy](https://www.discogs.com/release/30375872-James-Yummy) |

@@ -4,6 +4,7 @@ artist_name: "Mudhoney"
 artist: "mudhoney"
 album_name: "Digital Garbage"
 date: 2018-10-01T17:55:11.000000Z
+release_date: "2018-09-28"
 release_id: "12580247"
 slug: "digital-garbage-12580247"
 hideSummary: true
@@ -21,43 +22,31 @@ styles: ["Garage Rock", "Alternative Rock", "Grunge"]
 ---
 
 Digital Garbage is the tenth studio album by American rock band Mudhoney. It was released on September 28, 2018. This is their seventh studio album release on Sub Pop.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Nerve Attack
-2. Paranoid Core
-3. Please Mr. Gunman
-4. Kill Yourself Live
-5. Night And Fog
-6. 21st Century Pharisees
-7. Hey Neanderfuck
-8. Prosperity Gospel
-9. Messiah's Lament
-10. Next Mass Extinction
-11. Oh Yeah
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Nerve Attack |  |
+| A2 | Paranoid Core |  |
+| A3 | Please Mr. Gunman |  |
+| A4 | Kill Yourself Live |  |
+| A5 | Night And Fog |  |
+| B1 | 21st Century Pharisees |  |
+| B2 | Hey Neanderfuck |  |
+| B3 | Prosperity Gospel |  |
+| B4 | Messiah's Lament |  |
+| B5 | Next Mass Extinction |  |
+| B6 | Oh Yeah |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/digital-garbage/1399701869" >}}<br>
 
 
-## Videos
-### Prosperity Gospel
-{{< youtube id="YvYsVFXBdyk" title="Prosperity Gospel" >}}<br>
-### More Videos
-
-- [Mudhoney - Paranoid Core](https://www.youtube.com/watch?v=AtnzoY2RVoA)
-- [Nerve Attack](https://www.youtube.com/watch?v=oKBBwb-TPp0)
-- [Happy Release-Day MUDHONEY Digital Garbage is OUT NOW](https://www.youtube.com/watch?v=H855JGzR_tg)
-- [Night and Fog](https://www.youtube.com/watch?v=2OaC2PsoGCQ)
-- [Mudhoney - Kill Yourself Live](https://www.youtube.com/watch?v=Wcul9k3SRsY)
-- [Hey Neanderfuck](https://www.youtube.com/watch?v=rj_Td1YPTVg)
-- [Oh Yeah](https://www.youtube.com/watch?v=vwLzWwC6_Dk)
-- [Please Mr Gunman](https://www.youtube.com/watch?v=bxpuM6eHW8Q)
-- [Next Mass Extinction](https://www.youtube.com/watch?v=KSKlU3HxuUs)
-- [21st Century Pharisees](https://www.youtube.com/watch?v=BXY9SZgLTto)
-- [Messiahs Lament](https://www.youtube.com/watch?v=s2Lzed3a04Y)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +58,5 @@ Digital Garbage is the tenth studio album by American rock band Mudhoney. It was
 | Format         | Vinyl LP Album (Blue Opaque) |
 | Label          | Sub Pop |
 | Catalog Number | SP1225 |
-| Notes | Loser Edition, sold through independent stores only. Die-cut foldout sleeve with die-cut printed inner & download card. |
+| Notes | Loser Edition, sold through independent stores only.<br>Die-cut foldout sleeve with die-cut printed inner & download card. |
 | Discogs URL    | [Mudhoney - Digital Garbage](https://www.discogs.com/release/12580247-Mudhoney-Digital-Garbage) |

@@ -32,36 +32,33 @@ Lyrically, <i>Operation: Doomsday</i> is full of clever rhyme schemes and drunke
 
 
 ## Tracklisting
-1. The Time We Faced Doom (Skit)
-2. Doomsday
-3. Rhymes Like Dimes
-4. The Finest
-5. Back In The Days (Skit)
-6. Go With The Flow 
-7. Tick, Tick..
-8. Red And Gold
-9. The Hands of Doom (Skit)
-10. Who You Think I Am?
-11. Doom, Are You Awake? (Skit)
-12. Hey!
-13. Operation: Greenbacks
-14. The Mic
-15. The Mystery Of Doom (Skit)
-16. Dead Bent
-17. Gas Drawls
-18. ?
-19. Hero Vs Villain
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Time We Faced Doom (Skit) |  |
+| A2 | Doomsday |  |
+| A3 | Rhymes Like Dimes |  |
+| A4 | The Finest |  |
+| A5 | Back In The Days (Skit) |  |
+| B1 | Go With The Flow  |  |
+| B2 | Tick, Tick.. |  |
+| B3 | Red And Gold |  |
+| B4 | The Hands of Doom (Skit) |  |
+| B5 | Who You Think I Am? |  |
+| C1 | Doom, Are You Awake? (Skit) |  |
+| C2 | Hey! |  |
+| C3 | Operation: Greenbacks |  |
+| C4 | The Mic |  |
+| C5 | The Mystery Of Doom (Skit) |  |
+| D1 | Dead Bent |  |
+| D2 | Gas Drawls |  |
+| D3 | ? |  |
+| D4 | Hero Vs Villain |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/operation-doomsday-complete/1654811465" >}}<br>
 
 
-## Videos
-### MF DOOM - DEAD BENT HD
-{{< youtube id="vnNVAdBXh_Y" title="MF DOOM - DEAD BENT HD" >}}<br>
-### More Videos
-
-- [MF DOOM - QUESTION MARK  HD](https://www.youtube.com/watch?v=4ldikD78vTw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +70,5 @@ Lyrically, <i>Operation: Doomsday</i> is full of clever rhyme schemes and drunke
 | Format         | Vinyl LP (Silver/Purple Swirl ), Vinyl LP (Silver/Green Swirl), All Media Album Record Store Day Reissue (Gatefold, 25th Anniversary) |
 | Label          | Metal Face Records |
 | Catalog Number | MF2503-LP |
-| Notes | Record Store Day Black Friday 2024 Exclusive.  This release is 10,000 total copies of 2 variants however it is not known how many of each were made. Reissued in Metallic Silver with Purple and Green Swirl, packaged in a gatefold jacket with the classic cover. It comes with an OBI Strip “Record Store Day Operation Doomsday 25th Anniversary”.  Other copies have been pressed in a Red and Gold Splatter variant [r32422851], packaged in a gatefold Jacket with the alternative cover from Jason Jagel, for a total of 10.000 copies.   |
+| Notes | Record Store Day Black Friday 2024 Exclusive. <br>This release is 10,000 total copies of 2 variants however it is not known how many of each were made.<br>Reissued in Metallic Silver with Purple and Green Swirl, packaged in a gatefold jacket with the classic cover.<br>It comes with an OBI Strip “Record Store Day Operation Doomsday 25th Anniversary”.<br><br>Other copies have been pressed in a Red and Gold Splatter variant [r32422851], packaged in a gatefold Jacket with the alternative cover from Jason Jagel, for a total of 10.000 copies. <br> |
 | Discogs URL    | [MF Doom - Operation: Doomsday](https://www.discogs.com/release/32424318-MF-Doom-Operation-Doomsday) |

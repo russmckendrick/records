@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Office Space (The Motion Picture Soundtrack)"
 date: 2019-04-13T11:18:00.000000Z
+release_date: ""
 release_id: "13458583"
 slug: "office-space-the-motion-picture-soundtrack-13458583"
 hideSummary: true
@@ -21,50 +22,31 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Shove This Jay-Oh-Bee
-2. Get Dis Money
-3. Get Off My Elevator
-4. Big Boss Man
-5. 9 To 5
-6. Down For Whatever
-7. Damn It Feels Good To Be A Gangsta
-8. Home
-9. No Tears
-10. Still
-11. Mambo No. 8
-12. Peanut Vendor
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Shove This Jay-Oh-Bee |  |
+| A2 | Get Dis Money |  |
+| A3 | Get Off My Elevator |  |
+| A4 | Big Boss Man |  |
+| A5 | 9 To 5 |  |
+| A6 | Down For Whatever |  |
+| B1 | Damn It Feels Good To Be A Gangsta |  |
+| B2 | Home |  |
+| B3 | No Tears |  |
+| B4 | Still |  |
+| B5 | Mambo No. 8 |  |
+| B6 | Peanut Vendor |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Geto Boys - Still Office Space soundtrack
-{{< youtube id="lCOeIksA3Yo" title="Geto Boys - Still Office Space soundtrack" >}}<br>
-### More Videos
 
-- [Office Space Soundtrack - Shove This Jay Oh Bee HQ](https://www.youtube.com/watch?v=HyxoLqbFDkI)
-- [Slum Village - Get Dis Money](https://www.youtube.com/watch?v=F-oLqMwzvBY)
-- [kool keith - get off my elevator](https://www.youtube.com/watch?v=WIlc0S97KQ4)
-- [Ice Cube - Down for Whatever DIRTY](https://www.youtube.com/watch?v=-T44yl-LMSU)
-- [Perez Prado- The Peanut Vendor](https://www.youtube.com/watch?v=uc8S35k-SJs)
-- [Mambo 8](https://www.youtube.com/watch?v=lqi_HT1MfsU)
-- [9-5](https://www.youtube.com/watch?v=rOifm4AbsuY)
-- [No Tears](https://www.youtube.com/watch?v=9KWpIxdfNzY)
-- [Damn It Feels Good To Be A Gangsta](https://www.youtube.com/watch?v=0PqRXVCGKIA)
-- [Mambo 8](https://www.youtube.com/watch?v=lqi_HT1MfsU)
-- [Shove This Jay-Oh-Bee](https://www.youtube.com/watch?v=axJVs-OseS8)
-- [Big Boss Man](https://www.youtube.com/watch?v=CY4lNkIO76U)
-- [Home](https://www.youtube.com/watch?v=QKuJ-DJPUXs)
-- [Get Off My Elevator](https://www.youtube.com/watch?v=r-WMAkO7r3Q)
-- [Get Dis Money](https://www.youtube.com/watch?v=TumoVqPuPVw)
-- [Peanut Vendor](https://www.youtube.com/watch?v=ijAEOl5lk6U)
-- [Geto Boys - Still Office Space soundtrack](https://www.youtube.com/watch?v=lCOeIksA3Yo)
-- [Office Space Soundtrack - Shove This Jay Oh Bee HQ](https://www.youtube.com/watch?v=HyxoLqbFDkI)
-- [Slum Village - Get Dis Money](https://www.youtube.com/watch?v=F-oLqMwzvBY)
-- [kool keith - get off my elevator](https://www.youtube.com/watch?v=WIlc0S97KQ4)
-- [Ice Cube - Down for Whatever DIRTY](https://www.youtube.com/watch?v=-T44yl-LMSU)
-- [Perez Prado- The Peanut Vendor](https://www.youtube.com/watch?v=uc8S35k-SJs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +57,5 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 | Format         | Vinyl LP Record Store Day Compilation Limited Edition (Red) |
 | Label          | Interscope Records |
 | Catalog Number | B0029333-01 |
-| Notes | Stapler red, Record Store Day release limited to 2,500.  |
+| Notes | Stapler red, Record Store Day release limited to 2,500.<br> |
 | Discogs URL    | [Various - Office Space (The Motion Picture Soundtrack)](https://www.discogs.com/release/13458583-Various-Office-Space-The-Motion-Picture-Soundtrack) |

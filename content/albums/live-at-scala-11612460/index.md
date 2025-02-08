@@ -4,6 +4,7 @@ artist_name: "Paul Draper"
 artist: "paul-draper"
 album_name: "Live At Scala"
 date: 2018-05-24T14:11:29.000000Z
+release_date: "2018-02-16"
 release_id: "11612460"
 slug: "live-at-scala-11612460"
 hideSummary: true
@@ -26,32 +27,31 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Silence Is Deafening
-2. Don't You Wait, It Might Never Come
-3. No Ideas
-4. Feeling My Heart Run Slow
-5. Things People Want
-6. Disgusting
-7. Friends Make The Worst Enemies
-8. Grey House
-9. Who's Wearing The Trousers
-10. I Can Only Disappoint U
-11. Wide Open Space
-12. Don't Poke The Bear
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Silence Is Deafening |  |
+| A2 | Don't You Wait, It Might Never Come |  |
+| A3 | No Ideas |  |
+| B1 | Feeling My Heart Run Slow |  |
+| B2 | Things People Want |  |
+| B3 | Disgusting |  |
+| C1 | Friends Make The Worst Enemies |  |
+| C2 | Grey House |  |
+| C3 | Who's Wearing The Trousers |  |
+| D1 | I Can Only Disappoint U |  |
+| D2 | Wide Open Space |  |
+| D3 | Don't Poke The Bear |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-scala/1328370332" >}}<br>
 
 
-## Videos
-### Paul Draper - I Can Only Disappoint U - Live At Scala
-{{< youtube id="WSOGVuFEBEY" title="Paul Draper - I Can Only Disappoint U - Live At Scala" >}}<br>
-### More Videos
-
-- [Paul Draper - Friends Make The Worst Enemies - Live At Scala](https://www.youtube.com/watch?v=QvMGJJu7h-k)
-- [Paul Draper - Wide Open Space live at Scala - multicam](https://www.youtube.com/watch?v=uIJpdmeGMek)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "ZZ Top"
 artist: "zz-top"
 album_name: "Eliminator"
 date: 2020-08-01T12:48:59.000000Z
+release_date: "1983-03-23"
 release_id: "2760061"
 slug: "eliminator-2760061"
 hideSummary: true
@@ -30,36 +31,33 @@ Music videos for "Gimme All Your Lovin'", "Sharp Dressed Man" and "Legs" receive
 The video for "Legs" earned the band the MTV Video Music Award for Best Group. Rolling Stone named Eliminator number 398 on its list of the 500 Greatest Albums of All Time. It was listed at number 39 in The 100 Greatest Albums of the 80s, and it was also included in Robert Dimery's book 1001 Albums You Must Hear Before You Die. A remastered version was released in 2008.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. X1
-2. Gimme All Your Lovin (3:59)
-3. Got Me Under Pressure (3:59)
-4. Sharp Dressed Man (4:13)
-5. I Need You Tonight (6:14)
-6. I Got The Six (2:52)
-7. X2
-8. Legs (4:35)
-9. Thug (4:17)
-10. TV Dinners (3:50)
-11. Dirty Dog (4:05)
-12. If I Could Only Flag Her Down (3:40)
-13. Bad Girl (3:16)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | X1 |  |
+| A1 | Gimme All Your Lovin | 3:59 |
+| A2 | Got Me Under Pressure | 3:59 |
+| A3 | Sharp Dressed Man | 4:13 |
+| A4 | I Need You Tonight | 6:14 |
+| A5 | I Got The Six | 2:52 |
+|  | X2 |  |
+| B1 | Legs | 4:35 |
+| B2 | Thug | 4:17 |
+| B3 | TV Dinners | 3:50 |
+| B4 | Dirty Dog | 4:05 |
+| B5 | If I Could Only Flag Her Down | 3:40 |
+| B6 | Bad Girl | 3:16 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/eliminator/1728071480" >}}<br>
 
 
-## Videos
-### ZZ Top - Gimme All Your Lovin Official Music Video
-{{< youtube id="Ae829mFAGGE" title="ZZ Top - Gimme All Your Lovin Official Music Video" >}}<br>
-### More Videos
-
-- [ZZ Top - Sharp Dressed Man Official Music Video HD Remaster](https://www.youtube.com/watch?v=7wRHBLwpASw)
-- [ZZ Top - Legs Official Music Video HD Remaster](https://www.youtube.com/watch?v=eUDcTLaWJuo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +69,5 @@ The video for "Legs" earned the band the MTV Video Music Award for Best Group. R
 | Format         | Vinyl LP Album Stereo |
 | Label          | Warner Bros. Records |
 | Catalog Number | 92-3774-1 |
-| Notes | Comes with the printed inner sleeve.   Similar releases with GEMA and Biem right societies on label/s: [url=https://www.discogs.com/release/4901281]Release 4901281[/url]: GEMA/BIEM on both labels. [url=https://www.discogs.com/release/5968143]Release 5968143[/url]: GEMA/BIEM on label A, GEMA on label B. [url=https://www.discogs.com/release/6088729]Release 6088729[/url]: GEMA/Biem on labels, but with the additional ID number printed underneath the bold printed ID number: (92-3774-1)/(92-3774-2). [url=https://www.discogs.com/release/31328548]Release 31328548[/url]: GEMA/Biem on labels, but without "A Lone Wolf Production" printed on labels.   Sides are designated "X 1"/ "X 2" on labels, and "X1" / "X2" on back cover.  [On side X1 label:] [Lone Wolf Productions logo] A Lone Wolf Production ® All tracks published by Hamstein Music Co. ℗ + © 1983 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Made in Germany by WEA Musik GmbH [Warner's "Big W" logo] A Warner Communications Company  [On side X2 label:] [Lone Wolf Productions logo] A Lone Wolf Production ® All tracks written by Hamstein Music Co. ℗ 1983 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S. Made in Germany by WEA Musik GmbH [Warner's "Big W" logo] a Warner Communications Company  [On back cover:] All selections © 1983 Hamstein Music Co.-BMI [Lone Wolf Productions logo] A Lone Wolf Production ® Warner Bros. Records Inc. [Warner's "Big W" logo] a Warner Communications Company © 1983 Warner Bros. Records Inc. ℗ 1983 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside of the U.S. Belgique/België: Distributed by WEA Records S.A./N.V. • Deutschland: Vertrieb durch WEA Musik GmbH • England: Distributed by WEA Records Ltd. • España: Edita WEA Records S.A. • France: Distribué par WEA/Filipacchi Music, Paris Ireland: Distributed by WEA Records Ltd. • Italia: Distributed by WEA Italiana S.P.A. • Nederland: Distributed by WEA Records B.V. • Österreich: Vertrieb durch WEA Music Ges.m.b.H. • Sverige: Distributed by WEA Metronome Records AB Manufactured in Germany by Record Service GmbH, Alsdorf • Pressé en Allemagne par Record Service GmbH, Alsdorf [Warner's "Big W" logo] a Warner Communications Company  |
+| Notes | Comes with the printed inner sleeve. <br><br>Similar releases with GEMA and Biem right societies on label/s:<br>[url=https://www.discogs.com/release/4901281]Release 4901281[/url]: GEMA/BIEM on both labels.<br>[url=https://www.discogs.com/release/5968143]Release 5968143[/url]: GEMA/BIEM on label A, GEMA on label B.<br>[url=https://www.discogs.com/release/6088729]Release 6088729[/url]: GEMA/Biem on labels, but with the additional ID number printed underneath the bold printed ID number: (92-3774-1)/(92-3774-2).<br>[url=https://www.discogs.com/release/31328548]Release 31328548[/url]: GEMA/Biem on labels, but without "A Lone Wolf Production" printed on labels.<br><br><br>Sides are designated "X 1"/ "X 2" on labels, and "X1" / "X2" on back cover.<br><br>[On side X1 label:]<br>[Lone Wolf Productions logo] A Lone Wolf Production ®<br>All tracks published by Hamstein Music Co.<br>℗ + © 1983 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.<br>Made in Germany by WEA Musik GmbH [Warner's "Big W" logo] A Warner Communications Company<br><br>[On side X2 label:]<br>[Lone Wolf Productions logo] A Lone Wolf Production ®<br>All tracks written by Hamstein Music Co.<br>℗ 1983 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside the U.S.<br>Made in Germany by WEA Musik GmbH [Warner's "Big W" logo] a Warner Communications Company<br><br>[On back cover:]<br>All selections © 1983 Hamstein Music Co.-BMI<br>[Lone Wolf Productions logo] A Lone Wolf Production ®<br>Warner Bros. Records Inc. [Warner's "Big W" logo] a Warner Communications Company<br>© 1983 Warner Bros. Records Inc. ℗ 1983 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside of the U.S.<br>Belgique/België: Distributed by WEA Records S.A./N.V. • Deutschland: Vertrieb durch WEA Musik GmbH • England: Distributed by WEA Records Ltd. • España: Edita WEA Records S.A. • France: Distribué par WEA/Filipacchi Music, Paris<br>Ireland: Distributed by WEA Records Ltd. • Italia: Distributed by WEA Italiana S.P.A. • Nederland: Distributed by WEA Records B.V. • Österreich: Vertrieb durch WEA Music Ges.m.b.H. • Sverige: Distributed by WEA Metronome Records AB<br>Manufactured in Germany by Record Service GmbH, Alsdorf • Pressé en Allemagne par Record Service GmbH, Alsdorf [Warner's "Big W" logo] a Warner Communications Company<br> |
 | Discogs URL    | [ZZ Top - Eliminator](https://www.discogs.com/release/2760061-ZZ-Top-Eliminator) |

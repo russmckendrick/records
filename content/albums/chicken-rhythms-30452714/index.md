@@ -1,9 +1,10 @@
 ---
 title: "Northside - Chicken Rhythms"
 artist_name: "Northside"
-artist: "northside-2"
+artist: "northside"
 album_name: "Chicken Rhythms"
 date: 2024-04-20T22:43:29.000000Z
+release_date: "1991-01-01"
 release_id: "30452714"
 slug: "chicken-rhythms-30452714"
 hideSummary: true
@@ -25,36 +26,30 @@ styles: ["Indie Rock"]
 
 Chicken Rhythms is the only full-length studio album by English band Northside. It was released in 1991 and was produced by Ian Broudie.
 The songs "Shall We Take a Trip" and "Moody Places" were used as the theme tune on Granada Soccer Night between 1990 and 1992.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Take 5 (4:11)
-2. Weight Of Air (5:55)
-3. Funky Munky (3:10)
-4. A Change Is On Its Way (5:13)
-5. Yeah Man (4:55)
-6. Tour De World (3:40)
-7. Wishful Thinking (4:18)
-8. Shall We Take A Trip (4:23)
-9. Who's To Blame (3:33)
-10. Practise Makes Perfect (3:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Take 5 | 4:11 |
+| A2 | Weight Of Air | 5:55 |
+| A3 | Funky Munky | 3:10 |
+| A4 | A Change Is On Its Way | 5:13 |
+| A5 | Yeah Man | 4:55 |
+| B1 | Tour De World | 3:40 |
+| B2 | Wishful Thinking | 4:18 |
+| B3 | Shall We Take A Trip | 4:23 |
+| B4 | Who's To Blame | 3:33 |
+| B5 | Practise Makes Perfect | 3:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/chicken-rhythms/1320038054" >}}<br>
 
 
-## Videos
-### Northside - Shall we Take a Trip audio only
-{{< youtube id="9AShsOgwCG0" title="Northside - Shall we Take a Trip audio only" >}}<br>
-### More Videos
-
-- [Northside - Shall We Take A Trip](https://www.youtube.com/watch?v=Dvw57NG-DZ8)
-- [Northside - Take Five](https://www.youtube.com/watch?v=hamuTM9mpXc)
-- [Northside  My Rising Star](https://www.youtube.com/watch?v=ku3g9xPCs0M)
-- [Northside - Practise Makes Perfect](https://www.youtube.com/watch?v=H3KFHfEbrjc)
-- [Northside - Practise Makes Perfect](https://www.youtube.com/watch?v=4sjh34wKKUk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +61,5 @@ The songs "Shall We Take a Trip" and "Moody Places" were used as the theme tune 
 | Format         | Vinyl LP Album Record Store Day Limited Edition Numbered Reissue (Yellow) |
 | Label          | London Records Ltd. |
 | Catalog Number | FACT 310 |
-| Notes | Repress of the original Factory production master tapes. Restored artwork by Central Station Design. Numbered yellow vinyl edition.  |
+| Notes | Repress of the original Factory production master tapes.<br>Restored artwork by Central Station Design.<br>Numbered yellow vinyl edition.<br> |
 | Discogs URL    | [Northside - Chicken Rhythms](https://www.discogs.com/release/30452714-Northside-2-Chicken-Rhythms) |

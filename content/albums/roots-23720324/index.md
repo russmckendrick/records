@@ -1,9 +1,10 @@
 ---
 title: "Children of the Sün - Roots"
 artist_name: "Children of the Sün"
-artist: "children-of-the-s-n"
+artist: "children-of-the-sun"
 album_name: "Roots"
 date: 2022-06-28T12:34:23.000000Z
+release_date: "2024-09-26"
 release_id: "23720324"
 slug: "roots-23720324"
 hideSummary: true
@@ -24,52 +25,32 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Reflection
-2. Leaves
-3. Blood Boils Hot
-4. Gaslighting
-5. Meet You In Eden
-6. Willow Tree
-7. Roots
-8. Man In The Moon
-9. The Soul
-10. In Silva
-11. Thunder
-12. Reaching For Sun
-13. Epilogue
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Reflection |  |
+| A2 | Leaves |  |
+| A3 | Blood Boils Hot |  |
+| A4 | Gaslighting |  |
+| A5 | Meet You In Eden |  |
+| A6 | Willow Tree |  |
+| B1 | Roots |  |
+| B2 | Man In The Moon |  |
+| B3 | The Soul |  |
+| B4 | In Silva |  |
+| B5 | Thunder |  |
+| B6 | Reaching For Sun |  |
+| B7 | Epilogue |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/children-of-the-sun-single/1770009398" >}}<br>
 
 
-## Videos
-### Children of the Sün - Roots full Album 2022
-{{< youtube id="Jgtcr15D41I" title="Children of the Sün - Roots full Album 2022" >}}<br>
-### More Videos
-
-- [CHILDREN OF THE SÜN - REFLECTION Official Audio](https://www.youtube.com/watch?v=geF67QdW7S4)
-- [CHILDREN OF THE SÜN - LEAVES Official Audio](https://www.youtube.com/watch?v=whzDdlOmD5g)
-- [Blood Boils Hot](https://www.youtube.com/watch?v=2Y50q2OK2_w)
-- [CHILDREN OF THE SÜN - GASLIGHTING Official Audio](https://www.youtube.com/watch?v=fZnD3F_ebPc)
-- [Eden](https://www.youtube.com/watch?v=G_gV6Hhyy9E)
-- [Roots](https://www.youtube.com/watch?v=6exWfGXt62Q)
-- [Man in the Moon](https://www.youtube.com/watch?v=aRvpCb0c1oI)
-- [CHILDREN OF THE SÜN - IN SILVA Official Audio](https://www.youtube.com/watch?v=Ml7chTCmetw)
-- [Thunder](https://www.youtube.com/watch?v=_qxZ025XJTY)
-- [Reaching for Sun](https://www.youtube.com/watch?v=3dYhIvqdbPE)
-- [Children of the Sün - Roots full Album 2022](https://www.youtube.com/watch?v=Jgtcr15D41I)
-- [CHILDREN OF THE SÜN - REFLECTION Official Audio](https://www.youtube.com/watch?v=geF67QdW7S4)
-- [CHILDREN OF THE SÜN - LEAVES Official Audio](https://www.youtube.com/watch?v=whzDdlOmD5g)
-- [Blood Boils Hot](https://www.youtube.com/watch?v=2Y50q2OK2_w)
-- [CHILDREN OF THE SÜN - GASLIGHTING Official Audio](https://www.youtube.com/watch?v=fZnD3F_ebPc)
-- [Eden](https://www.youtube.com/watch?v=G_gV6Hhyy9E)
-- [Roots](https://www.youtube.com/watch?v=6exWfGXt62Q)
-- [Man in the Moon](https://www.youtube.com/watch?v=aRvpCb0c1oI)
-- [CHILDREN OF THE SÜN - IN SILVA Official Audio](https://www.youtube.com/watch?v=Ml7chTCmetw)
-- [Thunder](https://www.youtube.com/watch?v=_qxZ025XJTY)
-- [Reaching for Sun](https://www.youtube.com/watch?v=3dYhIvqdbPE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +61,5 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition (Purple Transparent) |
 | Label          | The Sign Records |
 | Catalog Number | CRC020 |
-| Notes | Edition of 500 copies on Purple Transparent vinyl.  Comes with: - a generic black inner sleeve - insert with band photo, lyrics and some credits - plastic protective outer sleeve with applied hype sticker  Matrix numbers are etched.  |
+| Notes | Edition of 500 copies on Purple Transparent vinyl.<br><br>Comes with:<br>- a generic black inner sleeve<br>- insert with band photo, lyrics and some credits<br>- plastic protective outer sleeve with applied hype sticker<br><br>Matrix numbers are etched.<br> |
 | Discogs URL    | [Children of the Sün - Roots](https://www.discogs.com/release/23720324-Children-of-the-Sün-Roots) |

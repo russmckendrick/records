@@ -1,9 +1,10 @@
 ---
 title: "Amplifier - Gargantuan"
 artist_name: "Amplifier"
-artist: "amplifier-3"
+artist: "amplifier"
 album_name: "Gargantuan"
 date: 2025-01-18T03:31:41.000000Z
+release_date: ""
 release_id: "32870103"
 slug: "gargantuan-32870103"
 hideSummary: true
@@ -21,22 +22,29 @@ styles: ["Space Rock", "Psychedelic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Evolution
-2. Gateway
-3. Invader
-4. Blackhole
-5. Pyramid
-6. Entity
-7. Guilty Pleasure
-8. King Kong
-9. Cross Dissolve
-10. Long Road
-11. Spock's Harp
-12. Gargantuan [Prt.2]
+| Position | Title | Duration |
+|----------|-------|----------|
+| 1 | Evolution |  |
+| 2 | Gateway |  |
+| 3 | Invader |  |
+| 4 | Blackhole |  |
+| 5 | Pyramid |  |
+| 6 | Entity |  |
+| 7 | Guilty Pleasure |  |
+| 8 | King Kong |  |
+| 9 | Cross Dissolve |  |
+| 10 | Long Road |  |
+| 11 | Spock's Harp |  |
+| 12 | Gargantuan [Prt.2] |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 

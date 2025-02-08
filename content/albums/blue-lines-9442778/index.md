@@ -39,36 +39,23 @@ The group would go on to be labelled innovators of a new laid-back genre called 
 
 
 ## Tracklisting
-1. Safe From Harm (5:16)
-2. One Love (4:48)
-3. Blue Lines (4:21)
-4. Be Thankful For What You've Got (4:09)
-5. Five Man Army (6:04)
-6. Unfinished Sympathy (5:08)
-7. Daydreaming (4:14)
-8. Lately (4:26)
-9. Hymn Of The Big Wheel (6:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Safe From Harm | 5:16 |
+| A2 | One Love | 4:48 |
+| A3 | Blue Lines | 4:21 |
+| A4 | Be Thankful For What You've Got | 4:09 |
+| A5 | Five Man Army | 6:04 |
+| B1 | Unfinished Sympathy | 5:08 |
+| B2 | Daydreaming | 4:14 |
+| B3 | Lately | 4:26 |
+| B4 | Hymn Of The Big Wheel | 6:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blue-lines-the-remixes/724379865" >}}<br>
 
 
-## Videos
-### Massive Attack - Safe From Harm
-{{< youtube id="PKtTmZnVhhI" title="Massive Attack - Safe From Harm" >}}<br>
-### More Videos
-
-- [One Love 2012 MixMaster](https://www.youtube.com/watch?v=qvkyXiOeq9o)
-- [Blue Lines 2012 MixMaster](https://www.youtube.com/watch?v=X-lUnbIKYlo)
-- [Be Thankful For What Youve Got 2012 MixMaster](https://www.youtube.com/watch?v=um06u9Zg8ww)
-- [Five Man Army 2012 MixMaster](https://www.youtube.com/watch?v=JOkykdCdyNY)
-- [Unfinished Sympathy 2012 MixMaster](https://www.youtube.com/watch?v=VLRa4nvkTy4)
-- [Massive Attack - Unfinished Sympathy](https://www.youtube.com/watch?v=ZWmrfgj0MZI)
-- [Massive Attack - Daydreaming](https://www.youtube.com/watch?v=JG9CXQxhfL4)
-- [Daydreaming 2012 MixMaster](https://www.youtube.com/watch?v=rT18lMwmt1U)
-- [Lately 2012 MixMaster](https://www.youtube.com/watch?v=Wb6rDzC9zCg)
-- [Hymn Of The Big Wheel 2012 MixMaster](https://www.youtube.com/watch?v=odHmsIF4IWA)
-- [Safe From Harm 2012 MixMaster](https://www.youtube.com/watch?v=YVrMBBR5QW8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +67,5 @@ The group would go on to be labelled innovators of a new laid-back genre called 
 | Format         | Vinyl LP Album Reissue Stereo (180 gram) |
 | Label          | Wild Bunch Records |
 | Catalog Number | 5700960 |
-| Notes | Comes with a printed inner sleeve with lyrics, credits and photos. Some copies came with a download card.  On labels: Made in EU |
+| Notes | Comes with a printed inner sleeve with lyrics, credits and photos.<br>Some copies came with a download card.<br><br>On labels:<br>Made in EU |
 | Discogs URL    | [Massive Attack - Blue Lines](https://www.discogs.com/release/9442778-Massive-Attack-Blue-Lines) |

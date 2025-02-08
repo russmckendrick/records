@@ -4,6 +4,7 @@ artist_name: "Otis Redding"
 artist: "otis-redding"
 album_name: "The Definitive Studio Album Collection"
 date: 2017-12-16T18:39:51.000000Z
+release_date: "2008-09-23"
 release_id: "11285748"
 slug: "the-definitive-studio-album-collection-11285748"
 hideSummary: true
@@ -48,107 +49,106 @@ styles: ["Soul"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Pain In My Heart
-2. Pain In My Heart (2:22)
-3. The Dog (2:30)
-4. Stand By Me (2:45)
-5. Hey Hey Baby (2:15)
-6. You Send Me (3:10)
-7. I Need Your Lovin' (2:45)
-8. These Arms Of Mine (2:30)
-9. Louie Louie (2:05)
-10. Something Is Worrying Me (2:25)
-11. Security (2:30)
-12. That's What My Heart Needs (2:35)
-13. Lucille (2:25)
-14. The Great Otis Redding Sings Soul Ballads
-15. That’s How Strong My Love Is (2:24)
-16. Chained And Bound (2:25)
-17. Woman, Lover, A Friend (3:18)
-18. Your One And Only Man (2:48)
-19. Nothing Can Change This Love (2:59)
-20. It's Too Late (3:00)
-21. For Your Precious Love (2:49)
-22. I Want To Thank You (2:35)
-23. Come To Me (2:38)
-24. Home In Your Heart (2:10)
-25. Keep Your Arms Around Me (2:46)
-26. Mr. Pitiful (2:26)
-27. Otis Blue / Otis Redding Sings Soul
-28. Ole Man Trouble (2:35)
-29. Respect (2:06)
-30. Change Gonna Come (4:13)
-31. Down In The Valley (2:57)
-32. I've Been Loving You Too Long (2:58)
-33. Shake (2:38)
-34. My Girl (2:53)
-35. Wonderful World (3:29)
-36. Rock Me Baby (3:35)
-37. Satisfaction (2:51)
-38. You Don't Miss Your Water (3:03)
-39. The Soul Album
-40. Just One More Day (2:55)
-41. It's Growing (2:40)
-42. Cigarettes And Coffee (4:00)
-43. Chain Gang (2:58)
-44. Nobody Knows You (When You're Down And Out) (3:10)
-45. Good To Me (3:45)
-46. Scratch My Back (2:45)
-47. Treat Her Right (2:10)
-48. Everybody Makes A Mistake (3:00)
-49. Any Ole Way (2:32)
-50. 634-5789 (2:50)
-51. The Otis Redding Dictionary Of Soul Complete & Unbelievable
-52. Fa-Fa-Fa-Fa-Fa (Sad Song) (2:37)
-53. I'm Sick Y'All (2:52)
-54. Tennessee Waltz  (2:50)
-55. Sweet Lorene (2:25)
-56. Try A Little Tenderness (3:45)
-57. Day Tripper (2:35)
-58. My Lover's Prayer (3:00)
-59. She Put The Hurt On Me (2:35)
-60. Ton Of Joy (2:50)
-61. You're Still My Baby (3:45)
-62. Hawg For You (3:25)
-63. Love Have Mercy (2:20)
-64. King & Queen (Otis Redding & Carla Thomas)
-65. Knock On Wood (2:48)
-66. Let Me Be Good To You (2:48)
-67. Tramp (3:00)
-68. Tell It Like It Is (3:13)
-69. When Something Is Wrong With My Baby (3:02)
-70. Lovey Dovey (2:33)
-71. New Year's Resolution (3:14)
-72. It Takes Two (3:03)
-73. Are You Lonely For Me Baby (3:14)
-74. Bring It On Home To Me (2:33)
-75. Ooh Carla, Ooh Otis (2:32)
-76. The Dock Of The Bay
-77. (Sittin' On) The Dock Of The Bay (2:38)
-78. I Love You More Than Words Can Say (2:50)
-79. Let Me Come On Home (2:53)
-80. Open The Door (2:21)
-81. Don't Mess With Cupid (2:28)
-82. The Glory Of Love (2:38)
-83. I'm Coming Home (3:03)
-84. Tramp (2:32)
-85. The Huckle-Buck (2:58)
-86. Nobody Knows You (When You're Down And Out) (3:10)
-87. Ole Man Trouble (2:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Pain In My Heart |  |
+| A1 | Pain In My Heart | 2:22 |
+| A2 | The Dog | 2:30 |
+| A3 | Stand By Me | 2:45 |
+| A4 | Hey Hey Baby | 2:15 |
+| A5 | You Send Me | 3:10 |
+| A6 | I Need Your Lovin' | 2:45 |
+| B1 | These Arms Of Mine | 2:30 |
+| B2 | Louie Louie | 2:05 |
+| B3 | Something Is Worrying Me | 2:25 |
+| B4 | Security | 2:30 |
+| B5 | That's What My Heart Needs | 2:35 |
+| B6 | Lucille | 2:25 |
+|  | The Great Otis Redding Sings Soul Ballads |  |
+| C1 | That’s How Strong My Love Is | 2:24 |
+| C2 | Chained And Bound | 2:25 |
+| C3 | Woman, Lover, A Friend | 3:18 |
+| C4 | Your One And Only Man | 2:48 |
+| C5 | Nothing Can Change This Love | 2:59 |
+| C6 | It's Too Late | 3:00 |
+| D1 | For Your Precious Love | 2:49 |
+| D2 | I Want To Thank You | 2:35 |
+| D3 | Come To Me | 2:38 |
+| D4 | Home In Your Heart | 2:10 |
+| D5 | Keep Your Arms Around Me | 2:46 |
+| D6 | Mr. Pitiful | 2:26 |
+|  | Otis Blue / Otis Redding Sings Soul |  |
+| E1 | Ole Man Trouble | 2:35 |
+| E2 | Respect | 2:06 |
+| E3 | Change Gonna Come | 4:13 |
+| E4 | Down In The Valley | 2:57 |
+| E5 | I've Been Loving You Too Long | 2:58 |
+| F1 | Shake | 2:38 |
+| F2 | My Girl | 2:53 |
+| F3 | Wonderful World | 3:29 |
+| F4 | Rock Me Baby | 3:35 |
+| F5 | Satisfaction | 2:51 |
+| F6 | You Don't Miss Your Water | 3:03 |
+|  | The Soul Album |  |
+| G1 | Just One More Day | 2:55 |
+| G2 | It's Growing | 2:40 |
+| G3 | Cigarettes And Coffee | 4:00 |
+| G4 | Chain Gang | 2:58 |
+| G5 | Nobody Knows You (When You're Down And Out) | 3:10 |
+| H1 | Good To Me | 3:45 |
+| H2 | Scratch My Back | 2:45 |
+| H3 | Treat Her Right | 2:10 |
+| H4 | Everybody Makes A Mistake | 3:00 |
+| H5 | Any Ole Way | 2:32 |
+| H6 | 634-5789 | 2:50 |
+|  | The Otis Redding Dictionary Of Soul Complete & Unbelievable |  |
+| I1 | Fa-Fa-Fa-Fa-Fa (Sad Song) | 2:37 |
+| I2 | I'm Sick Y'All | 2:52 |
+| I3 | Tennessee Waltz  | 2:50 |
+| I4 | Sweet Lorene | 2:25 |
+| I5 | Try A Little Tenderness | 3:45 |
+| I6 | Day Tripper | 2:35 |
+| J1 | My Lover's Prayer | 3:00 |
+| J2 | She Put The Hurt On Me | 2:35 |
+| J3 | Ton Of Joy | 2:50 |
+| J4 | You're Still My Baby | 3:45 |
+| J5 | Hawg For You | 3:25 |
+| J6 | Love Have Mercy | 2:20 |
+|  | King & Queen (Otis Redding & Carla Thomas) |  |
+| K1 | Knock On Wood | 2:48 |
+| K2 | Let Me Be Good To You | 2:48 |
+| K3 | Tramp | 3:00 |
+| K4 | Tell It Like It Is | 3:13 |
+| K5 | When Something Is Wrong With My Baby | 3:02 |
+| K6 | Lovey Dovey | 2:33 |
+| L1 | New Year's Resolution | 3:14 |
+| L2 | It Takes Two | 3:03 |
+| L3 | Are You Lonely For Me Baby | 3:14 |
+| L4 | Bring It On Home To Me | 2:33 |
+| L5 | Ooh Carla, Ooh Otis | 2:32 |
+|  | The Dock Of The Bay |  |
+| M1 | (Sittin' On) The Dock Of The Bay | 2:38 |
+| M2 | I Love You More Than Words Can Say | 2:50 |
+| M3 | Let Me Come On Home | 2:53 |
+| M4 | Open The Door | 2:21 |
+| M5 | Don't Mess With Cupid | 2:28 |
+| N1 | The Glory Of Love | 2:38 |
+| N2 | I'm Coming Home | 3:03 |
+| N3 | Tramp | 2:32 |
+| N4 | The Huckle-Buck | 2:58 |
+| N5 | Nobody Knows You (When You're Down And Out) | 3:10 |
+| N6 | Ole Man Trouble | 2:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-definitive-collection/1445082401" >}}<br>
 
 
-## Videos
-### Cigarettes and Coffee
-{{< youtube id="cm3YM_9iW_s" title="Cigarettes and Coffee" >}}<br>
-### More Videos
-
-- [Ive Got Dreams to Remember](https://www.youtube.com/watch?v=MOwNCKZeNOE)
-- [Down in the Valley Mono 2018 Remaster](https://www.youtube.com/watch?v=GuxR4JZ0l7A)
 
 ## Release Images
 {{< imageGrid >}}
@@ -159,5 +159,5 @@ styles: ["Soul"]
 | Format         | Vinyl LP Album Reissue Mono, Vinyl LP Album Reissue Mono, Vinyl LP Album Reissue Mono, Vinyl LP Album Reissue Mono, Vinyl LP Album Reissue Mono, Vinyl LP Album Reissue Mono, Vinyl LP Album Reissue Mono, Box Set Compilation |
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 563422 |
-| Notes | Stax and Volt are Registered Trademarks of the Concord Music Group, Inc.  This Collection ℗ & © 2017 Rhino Entertainment Company, a Warner Music Group Company. Marketed by Rhino Entertainment Company, 3400 W. Olive Ave., Burbank, CA 91505-4614. Manufactured in E.U.  Pain In My Heart:  A1 - Jarb, BMI. A2 - East, BMI. A3 - Progressive-Trio, BMI. A4 - English-Time, BMI. A5 - Kags, BMI. A6 - Fast-Pete, BMI. B1 - English-Time, BMI. B2 - Limax, BMI. B3 - English-Time, BMI. B4 - English-Time, BMI. B5 - English-Time, BMI. B6 - Venice, BMI.  ℗ & © 2017, 1964 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Printed in E.U.  The Great Otis Redding Sings Soul Ballads:  C1 - Rise, BMI. C2 - East & Time, BMI. C3 - Merrimac, BMI. C4 - East & Time, BMI. C5 - Kags, BMI. C6 - Rush, BMI. D1 - Gladstone, ASCAP. D2 - East & Time, BMI. D3 - East & Time, BMI. D4 - Progressive, BMI. D5 - East & Time, BMI. D6 - East & Time, BMI.  ℗ & © 2017, 1965 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Printed in E.U.  Otis Blue / Otis Redding Sings Soul:  ℗ & © 2017, 1965 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Printed in E.U.  The Soul Album:  G1 - East-Time-Redwal, BMI. G2 - Jobete, BMI. G3 - Maxine-Curtom-Lion, BMI. G4 - Kags, BMI. G5 - Pickwick, ASCAP. H1 - East-Time-Redwal, BMI. H2 - Excellorec, BMI. H3 - Don, BMI. H4 - Falart, BMI. H5 - East-Time-Redwal, BMI. H6 - East-Pronto, BMI.  ℗ & © 2017, 1966 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Printed in E.U.  The Otis Redding Dictionary Of Soul Complete & Unbelievable:  I1 - East-Time-Redwal, BMI. I2 - East-Time-Redwal, BMI. I3 - Acuff-Rose, BMI. I4 - East-Time-Redwal, BMI. I5 - Campbell-Connelly & Robbins, ASCAP. I6 - Maclen Music, BMI. J1 - East-Time-Redwal, BMI. J2 - East-Time-Redwal, BMI. J3 - East-Time-Redwal, BMI. J4 - Berkshire, BMI. J5 - East-Time-Redwal, BMI. J6 - East-Time-Redwal, BMI.  ℗ & © 2017, 1966 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Printed in E.U.  King & Queen:  K1 - East, BMI. K2 - East, BMI. K3 - Modern, BMI. K4 - Olrap, BMI. K5 - East, BMI. K6 - Progressive, BMI. L1 - East, Time & Redwal BMI. L2 - Detroit & Jobete, BMI. L3 - Web IV, BMI. L4 - Kags, BMI. L5 - East, Time & Redwal, BMI.  ℗ & © 2017, 1967 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Printed in E.U.  The Dock Of The Bay:  M1 - East-Time-Redwal, BMI. M2 - East-Time-Redwal, BMI. M3 - East-Time-Redwal, BMI. M4 - East-Time-Redwal, BMI. M5 - East-Time-Redwal, BMI. N1 - Shapiro Bernstein, ASCAP. N2 - East-Time-Redwal, BMI. N3 - Modern-Budget, BMI. N4 - United Music Corp., ASCAP. N5 - Pickwick, ASCAP. N6 - East-Time-Walco, BMI.  ℗ & © 2017, 1968 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Printed in E.U.  Runouts are both etched and stamped. |
+| Notes | Stax and Volt are Registered Trademarks of the Concord Music Group, Inc.<br><br>This Collection ℗ & © 2017 Rhino Entertainment Company, a Warner Music Group Company.<br>Marketed by Rhino Entertainment Company, 3400 W. Olive Ave., Burbank, CA 91505-4614.<br>Manufactured in E.U.<br><br>Pain In My Heart:<br><br>A1 - Jarb, BMI.<br>A2 - East, BMI.<br>A3 - Progressive-Trio, BMI.<br>A4 - English-Time, BMI.<br>A5 - Kags, BMI.<br>A6 - Fast-Pete, BMI.<br>B1 - English-Time, BMI.<br>B2 - Limax, BMI.<br>B3 - English-Time, BMI.<br>B4 - English-Time, BMI.<br>B5 - English-Time, BMI.<br>B6 - Venice, BMI.<br><br>℗ & © 2017, 1964 Atlantic Recording Corporation.<br>Marketed by Rhino Entertainment Company, a Warner Music Group Company.<br>Printed in E.U.<br><br>The Great Otis Redding Sings Soul Ballads:<br><br>C1 - Rise, BMI.<br>C2 - East & Time, BMI.<br>C3 - Merrimac, BMI.<br>C4 - East & Time, BMI.<br>C5 - Kags, BMI.<br>C6 - Rush, BMI.<br>D1 - Gladstone, ASCAP.<br>D2 - East & Time, BMI.<br>D3 - East & Time, BMI.<br>D4 - Progressive, BMI.<br>D5 - East & Time, BMI.<br>D6 - East & Time, BMI.<br><br>℗ & © 2017, 1965 Atlantic Recording Corporation.<br>Marketed by Rhino Entertainment Company, a Warner Music Group Company.<br>Printed in E.U.<br><br>Otis Blue / Otis Redding Sings Soul:<br><br>℗ & © 2017, 1965 Atlantic Recording Corporation.<br>Marketed by Rhino Entertainment Company, a Warner Music Group Company.<br>Printed in E.U.<br><br>The Soul Album:<br><br>G1 - East-Time-Redwal, BMI.<br>G2 - Jobete, BMI.<br>G3 - Maxine-Curtom-Lion, BMI.<br>G4 - Kags, BMI.<br>G5 - Pickwick, ASCAP.<br>H1 - East-Time-Redwal, BMI.<br>H2 - Excellorec, BMI.<br>H3 - Don, BMI.<br>H4 - Falart, BMI.<br>H5 - East-Time-Redwal, BMI.<br>H6 - East-Pronto, BMI.<br><br>℗ & © 2017, 1966 Atlantic Recording Corporation.<br>Marketed by Rhino Entertainment Company, a Warner Music Group Company.<br>Printed in E.U.<br><br>The Otis Redding Dictionary Of Soul Complete & Unbelievable:<br><br>I1 - East-Time-Redwal, BMI.<br>I2 - East-Time-Redwal, BMI.<br>I3 - Acuff-Rose, BMI.<br>I4 - East-Time-Redwal, BMI.<br>I5 - Campbell-Connelly & Robbins, ASCAP.<br>I6 - Maclen Music, BMI.<br>J1 - East-Time-Redwal, BMI.<br>J2 - East-Time-Redwal, BMI.<br>J3 - East-Time-Redwal, BMI.<br>J4 - Berkshire, BMI.<br>J5 - East-Time-Redwal, BMI.<br>J6 - East-Time-Redwal, BMI.<br><br>℗ & © 2017, 1966 Atlantic Recording Corporation.<br>Marketed by Rhino Entertainment Company, a Warner Music Group Company.<br>Printed in E.U.<br><br>King & Queen:<br><br>K1 - East, BMI.<br>K2 - East, BMI.<br>K3 - Modern, BMI.<br>K4 - Olrap, BMI.<br>K5 - East, BMI.<br>K6 - Progressive, BMI.<br>L1 - East, Time & Redwal BMI.<br>L2 - Detroit & Jobete, BMI.<br>L3 - Web IV, BMI.<br>L4 - Kags, BMI.<br>L5 - East, Time & Redwal, BMI.<br><br>℗ & © 2017, 1967 Atlantic Recording Corporation.<br>Marketed by Rhino Entertainment Company, a Warner Music Group Company.<br>Printed in E.U.<br><br>The Dock Of The Bay:<br><br>M1 - East-Time-Redwal, BMI.<br>M2 - East-Time-Redwal, BMI.<br>M3 - East-Time-Redwal, BMI.<br>M4 - East-Time-Redwal, BMI.<br>M5 - East-Time-Redwal, BMI.<br>N1 - Shapiro Bernstein, ASCAP.<br>N2 - East-Time-Redwal, BMI.<br>N3 - Modern-Budget, BMI.<br>N4 - United Music Corp., ASCAP.<br>N5 - Pickwick, ASCAP.<br>N6 - East-Time-Walco, BMI.<br><br>℗ & © 2017, 1968 Atlantic Recording Corporation.<br>Marketed by Rhino Entertainment Company, a Warner Music Group Company.<br>Printed in E.U.<br><br>Runouts are both etched and stamped. |
 | Discogs URL    | [Otis Redding - The Definitive Studio Album Collection](https://www.discogs.com/release/11285748-Otis-Redding-The-Definitive-Studio-Album-Collection) |

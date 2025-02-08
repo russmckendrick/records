@@ -4,6 +4,7 @@ artist_name: "Faith No More"
 artist: "faith-no-more"
 album_name: "Sol Invictus"
 date: 2015-08-09T08:29:54.000000Z
+release_date: "2015-05-18"
 release_id: "7002327"
 slug: "sol-invictus-7002327"
 hideSummary: true
@@ -37,37 +38,30 @@ Sol Invictus (Latin, 'Unconquered Sun') is the seventh and final studio album by
 The album marked the group's fifth collaboration with longtime producer Matt Wallace, this time helping with the final mix rather than a more substantial producing role.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Sol Invictus
-2. Superhero
-3. Sunny Side Up
-4. Separation Anxiety
-5. Cone Of Shame
-6. Rise Of The Fall
-7. Black Friday
-8. Motherfucker
-9. Matador
-10. From The Dead
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sol Invictus |  |
+| A2 | Superhero |  |
+| A3 | Sunny Side Up |  |
+| A4 | Separation Anxiety |  |
+| A5 | Cone Of Shame |  |
+| B1 | Rise Of The Fall |  |
+| B2 | Black Friday |  |
+| B3 | Motherfucker |  |
+| B4 | Matador |  |
+| B5 | From The Dead |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sol-invictus/971801283" >}}<br>
 
 
-## Videos
-### Sol Invictus
-{{< youtube id="5LqYlz_NXzo" title="Sol Invictus" >}}<br>
-### More Videos
-
-- [Faith No More - Superhero](https://www.youtube.com/watch?v=NKP98hDBJ8w)
-- [Black Friday](https://www.youtube.com/watch?v=HRm24MerRXk)
-- [Sunny Side Up](https://www.youtube.com/watch?v=4UffVzuOZAY)
-- [Rise of the Fall](https://www.youtube.com/watch?v=NmZT5-XrlVU)
-- [Faith No More - Sol Invictus Track 1 from Sol Invictus 2015](https://www.youtube.com/watch?v=881Mh2WLuKE)
-- [From the Dead](https://www.youtube.com/watch?v=8wWCgjDPZwQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +73,5 @@ The album marked the group's fifth collaboration with longtime producer Matt Wal
 | Format         | Vinyl LP Album Limited Edition (Gold) |
 | Label          | Reclamation! Recordings |
 | Catalog Number | RRIPC002LPX |
-| Notes | This edition was available as a pre-order only to countries outside the USA.  750 copies were sent to the UK and Ireland for sale at independent record stores.  The total number of pressings of this edition is 1,500 copies.    The release date in Australia was 15th May 2015. The release date for the rest of the world receiving this pressing was 18th May 2015.    The record comes in a gold-foil printed gatefold sleeve. The record is housed in a printed inner sleeve.    A sticker affixed to the shrinkwrap on the front cover reads:  "Limited edition. Gold vinyl. includes download. RRIPCOO2LPX"  A barcode sticker affixed to the shrinkwrap on the rear cover obscures the barcode printed directly on the artwork.    The download is obtained via a printed card featuring album themed artwork on both sides. It is redeemed via www.ipecacdownloads.com/solinvictus    The rear sleeve:  ©&℗ 2015 Reclamation Recordings.  Licensed by Ipecac Recordings.  Manufactured & distributed by [PIAS].  WWW.IPECAC.COM | WWW.FNM.COM       |
+| Notes | This edition was available as a pre-order only to countries outside the USA.<br>750 copies were sent to the UK and Ireland for sale at independent record stores.<br>The total number of pressings of this edition is 1,500 copies.<br><br>The release date in Australia was 15th May 2015. The release date for the rest of the world receiving this pressing was 18th May 2015.<br><br>The record comes in a gold-foil printed gatefold sleeve. The record is housed in a printed inner sleeve.<br><br>A sticker affixed to the shrinkwrap on the front cover reads:<br>"Limited edition. Gold vinyl. includes download. RRIPCOO2LPX"<br>A barcode sticker affixed to the shrinkwrap on the rear cover obscures the barcode printed directly on the artwork.<br><br>The download is obtained via a printed card featuring album themed artwork on both sides. It is redeemed via www.ipecacdownloads.com/solinvictus<br><br>The rear sleeve:<br>©&℗ 2015 Reclamation Recordings.<br>Licensed by Ipecac Recordings.<br>Manufactured & distributed by [PIAS].<br>WWW.IPECAC.COM | WWW.FNM.COM<br><br><br> |
 | Discogs URL    | [Faith No More - Sol Invictus](https://www.discogs.com/release/7002327-Faith-No-More-Sol-Invictus) |

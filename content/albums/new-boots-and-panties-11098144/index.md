@@ -4,6 +4,7 @@ artist_name: "Ian Dury"
 artist: "ian-dury"
 album_name: "New Boots And Panties!!"
 date: 2018-02-01T19:08:31.000000Z
+release_date: "1977-09-30"
 release_id: "11098144"
 slug: "new-boots-and-panties-11098144"
 hideSummary: true
@@ -33,53 +34,41 @@ The album's title derives from Dury's habit of buying clothes second hand and re
 New Boots and Panties!! has been reissued several times, including a three-disc edition for its 30th anniversary and a five-disc box set for its 40th anniversary.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Wake Up And Make Love With Me
-2. Sweet Gene Vincent
-3. I'm Partial To Your Abracadabra
-4. My Old Man
-5. Billericay Dickie
-6. Clevor Trever
-7. If I Was With A Woman
-8. Blockheads
-9. Plaistow Patricia
-10. Blackmail Man
-11. Sex & Drugs & Rock & Roll [Live]
-12. Wake Up And Make Love With Me [Live]
-13. Clevor Trever [Live]
-14. Plaistow Patricia [Live]
-15. I Made Mary Cry [Live]
-16. What A Waste [Live]
-17. Blockheads [Live]
-18. If I Was With A Woman [Live]
-19. Upminster Kid [Live]
-20. Sweet Gene Vincent [Live]
-21. Sex & Drugs & Rock & Roll (Reprise) [Live]
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Wake Up And Make Love With Me |  |
+| A2 | Sweet Gene Vincent |  |
+| A3 | I'm Partial To Your Abracadabra |  |
+| A4 | My Old Man |  |
+| A5 | Billericay Dickie |  |
+| B1 | Clevor Trever |  |
+| B2 | If I Was With A Woman |  |
+| B3 | Blockheads |  |
+| B4 | Plaistow Patricia |  |
+| B5 | Blackmail Man |  |
+| C1 | Sex & Drugs & Rock & Roll [Live] |  |
+| C2 | Wake Up And Make Love With Me [Live] |  |
+| C3 | Clevor Trever [Live] |  |
+| C4 | Plaistow Patricia [Live] |  |
+| C5 | I Made Mary Cry [Live] |  |
+| D1 | What A Waste [Live] |  |
+| D2 | Blockheads [Live] |  |
+| D3 | If I Was With A Woman [Live] |  |
+| D4 | Upminster Kid [Live] |  |
+| D5 | Sweet Gene Vincent [Live] |  |
+| D6 | Sex & Drugs & Rock & Roll (Reprise) [Live] |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/new-boots-and-panties/1488495874" >}}<br>
 
 
-## Videos
-### Wake Up and Make Love with Me
-{{< youtube id="QON_NhWRnJ8" title="Wake Up and Make Love with Me" >}}<br>
-### More Videos
-
-- [Ian Dury - Sex And Drugs And Rock And Roll](https://www.youtube.com/watch?v=dvhoSAKLztM)
-- [Sweet Gene Vincent](https://www.youtube.com/watch?v=DveyHAHfJi8)
-- [Clevor Trever](https://www.youtube.com/watch?v=voPgKKQeASw)
-- [Im Partial to Your Abracadabra](https://www.youtube.com/watch?v=beuHVDVvW9A)
-- [My Old Man](https://www.youtube.com/watch?v=AVz5vTpVTHg)
-- [Billericay Dickie](https://www.youtube.com/watch?v=6Hi2zGVRiEA)
-- [Ian Dury and the Blockheads - Clevor Trever](https://www.youtube.com/watch?v=ViLPwp387DI)
-- [If I Was with a Woman](https://www.youtube.com/watch?v=KkfGXd6_Iak)
-- [Blockheads](https://www.youtube.com/watch?v=PmHEG4CWytM)
-- [Plaistow Patricia](https://www.youtube.com/watch?v=mRbnbcJgOVE)
-- [Blackmail Man](https://www.youtube.com/watch?v=_DpXnETmHnU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -91,5 +80,5 @@ New Boots and Panties!! has been reissued several times, including a three-disc 
 | Format         | Vinyl 2× LP Album Deluxe Edition Limited Edition Numbered Reissue (Green/Orange Splatter) |
 | Label          | Demon Records |
 | Catalog Number | DEMRECDLX005 |
-| Notes | Limited to 1000 copies - numbered on the lower left of the back cover. Deluxe Edition Includes the classic album and Live AT The Paris Theatre, London. 2LP On 180g heavyweight splattered vinyl - vinyl 1 is orange with green streaks, vinyl 2 is green with orange streaks.  Note: although the labels, inner and sleeve list "What A Waste" as being the first track on side D, it is actually the last track on side C.  |
+| Notes | Limited to 1000 copies - numbered on the lower left of the back cover.<br>Deluxe Edition<br>Includes the classic album and Live AT The Paris Theatre, London.<br>2LP On 180g heavyweight splattered vinyl - vinyl 1 is orange with green streaks, vinyl 2 is green with orange streaks.<br><br>Note: although the labels, inner and sleeve list "What A Waste" as being the first track on side D, it is actually the last track on side C.<br> |
 | Discogs URL    | [Ian Dury - New Boots And Panties!!](https://www.discogs.com/release/11098144-Ian-Dury-New-Boots-And-Panties) |

@@ -4,6 +4,7 @@ artist_name: "The Pineapple Thief"
 artist: "the-pineapple-thief"
 album_name: "Last To Run"
 date: 2025-02-01T01:00:19.000000Z
+release_date: ""
 release_id: "32233524"
 slug: "last-to-run-32233524"
 hideSummary: true
@@ -23,22 +24,23 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. All Because Of Me
-2. Last To Run
-3. Election Day
-4. The World To Me
-5. No Friend Of Mine
+| Position | Title | Duration |
+|----------|-------|----------|
+| 1 | All Because Of Me |  |
+| 2 | Last To Run |  |
+| 3 | Election Day |  |
+| 4 | The World To Me |  |
+| 5 | No Friend Of Mine |  |
 
 
-## Spotify
-{{< spotify type="album" id="7wa7TrHHHyDaQYOxB7Xfg4" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-
-## Videos
-### Last To Run
-{{< youtube id="nRjALNgC9NI" title="Last To Run" >}}<br>
 
 
 ## Release Images
@@ -50,5 +52,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 12" 45 RPM EP (Green) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1230 |
-| Notes | ℗ 2024 Kscope. © 2024 Kscope.  Cover Image: O Interior de Fronteria, 2015 © Andreas Stöcklein (1957-2024) produced by © Ratton Cerâmicas Lda. Licensed courtesy of Galeria Ratton, Lisboa, in memory of the artist and friend. |
+| Notes | ℗ 2024 Kscope. © 2024 Kscope.<br><br>Cover Image: O Interior de Fronteria, 2015<br>© Andreas Stöcklein (1957-2024) produced by © Ratton Cerâmicas Lda.<br>Licensed courtesy of Galeria Ratton, Lisboa, in memory of the artist and friend. |
 | Discogs URL    | [The Pineapple Thief - Last To Run](https://www.discogs.com/release/32233524-The-Pineapple-Thief-Last-To-Run) |

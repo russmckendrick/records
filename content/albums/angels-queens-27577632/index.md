@@ -1,9 +1,10 @@
 ---
 title: "Gabriels - Angels & Queens"
 artist_name: "Gabriels"
-artist: "gabriels-3"
+artist: "gabriels"
 album_name: "Angels & Queens"
 date: 2023-07-15T02:29:17.000000Z
+release_date: "2022-09-30"
 release_id: "27577632"
 slug: "angels-queens-27577632"
 hideSummary: true
@@ -21,59 +22,32 @@ styles: ["Soul", "Contemporary R&B"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Offering
-2. The Blind
-3. Angels & Queens
-4. Taboo
-5. To The Moon And Back
-6. Professional
-7. We Will Remember
-8. Remember Me
-9. If You Only Knew
-10. Love And Hate In A Different Time
-11. Glory
-12. Great Wind
-13. Mama
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Offering |  |
+| A2 | The Blind |  |
+| A3 | Angels & Queens |  |
+| A4 | Taboo |  |
+| A5 | To The Moon And Back |  |
+| A6 | Professional |  |
+| A7 | We Will Remember |  |
+| B1 | Remember Me |  |
+| B2 | If You Only Knew |  |
+| B3 | Love And Hate In A Different Time |  |
+| B4 | Glory |  |
+| B5 | Great Wind |  |
+| B6 | Mama |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/angels-queens-part-i/1642716607" >}}<br>
 
 
-## Videos
-### Offering
-{{< youtube id="2Ilqtm2x-tM" title="Offering" >}}<br>
-### More Videos
-
-- [The Blind](https://www.youtube.com/watch?v=ShSvR9qzgb8)
-- [Gabriels - Angels  Queens Official Lyric Video](https://www.youtube.com/watch?v=PSsuTOgXK64)
-- [Gabriels - Taboo Official Audio](https://www.youtube.com/watch?v=-Yst1orETHs)
-- [Gabriels - To The Moon and Back Official Audio](https://www.youtube.com/watch?v=4o2VRIiC_Cc)
-- [Professional](https://www.youtube.com/watch?v=ZYFu7jOflnI)
-- [We Will Remember](https://www.youtube.com/watch?v=79wmXvDMzrI)
-- [Gabriels - Remember Me Official Audio](https://www.youtube.com/watch?v=vHdS9P1L_es)
-- [Gabriels - If You only Knew Official Audio](https://www.youtube.com/watch?v=4hk1nsCE_4M)
-- [Love and Hate in a Different Time](https://www.youtube.com/watch?v=-694O6oGWSY)
-- [Gabriels - Glory Official Lyric Video](https://www.youtube.com/watch?v=Hr342JhaNZQ)
-- [Gabriels  Great Wind Official Video](https://www.youtube.com/watch?v=wcAxir5G4NQ)
-- [Gabriels - Mama Official Audio](https://www.youtube.com/watch?v=_BIQklIs9Yk)
-- [Love and Hate in a Different Time Greg Wilson  Ché Wilson Remix](https://www.youtube.com/watch?v=LIuqU0_c2vU)
-- [Offering](https://www.youtube.com/watch?v=2Ilqtm2x-tM)
-- [The Blind](https://www.youtube.com/watch?v=ShSvR9qzgb8)
-- [Gabriels - Angels  Queens Official Lyric Video](https://www.youtube.com/watch?v=PSsuTOgXK64)
-- [Gabriels - Taboo Official Audio](https://www.youtube.com/watch?v=-Yst1orETHs)
-- [Gabriels - To The Moon and Back Official Audio](https://www.youtube.com/watch?v=4o2VRIiC_Cc)
-- [Professional](https://www.youtube.com/watch?v=ZYFu7jOflnI)
-- [We Will Remember](https://www.youtube.com/watch?v=79wmXvDMzrI)
-- [Gabriels - Remember Me Official Audio](https://www.youtube.com/watch?v=vHdS9P1L_es)
-- [Gabriels - If You only Knew Official Audio](https://www.youtube.com/watch?v=4hk1nsCE_4M)
-- [Love and Hate in a Different Time](https://www.youtube.com/watch?v=-694O6oGWSY)
-- [Gabriels - Glory Official Lyric Video](https://www.youtube.com/watch?v=Hr342JhaNZQ)
-- [Gabriels  Great Wind Official Video](https://www.youtube.com/watch?v=wcAxir5G4NQ)
-- [Gabriels - Mama Official Audio](https://www.youtube.com/watch?v=_BIQklIs9Yk)
-- [Love and Hate in a Different Time Greg Wilson  Ché Wilson Remix](https://www.youtube.com/watch?v=LIuqU0_c2vU)
-- [Gabriels - Glory Glastonbury 2023](https://www.youtube.com/watch?v=GRUWxJFW6c4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +58,5 @@ styles: ["Soul", "Contemporary R&B"]
 | Format         | Vinyl LP Album Limited Edition (Silver) |
 | Label          | Parlophone |
 | Catalog Number | 5054197187698 |
-| Notes | The Debut Album Independent Retailers Exclusive Silver Vinyl Banquet records (UK) offered personally signed copies as a limited release Made in Germany. |
+| Notes | The Debut Album<br>Independent Retailers<br>Exclusive Silver Vinyl<br>Banquet records (UK) offered personally signed copies as a limited release<br>Made in Germany. |
 | Discogs URL    | [Gabriels - Angels & Queens](https://www.discogs.com/release/27577632-Gabriels-3-Angels-Queens) |

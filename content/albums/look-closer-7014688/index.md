@@ -1,6 +1,6 @@
 ---
-title: "Saun & Starr - Look Closer"
-artist_name: "Saun & Starr"
+title: "Saun  Starr - Look Closer"
+artist_name: "Saun  Starr"
 artist: "saun-starr"
 album_name: "Look Closer"
 date: 2016-09-06T16:36:27.000000Z
@@ -10,8 +10,8 @@ slug: "look-closer-7014688"
 hideSummary: true
 cover:
     image: "look-closer-7014688.jpg"
-    alt: "Look Closer by Saun & Starr"
-    caption: "Look Closer by Saun & Starr"
+    alt: "Look Closer by Saun  Starr"
+    caption: "Look Closer by Saun  Starr"
 additional_images:
     - "https://i.discogs.com/lpG3reMOkFtR6lLMfK_bV6Unl0osD98zOG2pMYu6JR4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTQ2/ODgtMTQzMTcwOTEx/MS0yODgyLmpwZWc.jpeg"
     - "https://i.discogs.com/xmYb-zFtpzq2DMzGDMl6qLWRf5GKl2qy2IOfut3CvjY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTQ2/ODgtMTQ0NDIzMjI2/NS05NDEwLmpwZWc.jpeg"
@@ -27,49 +27,25 @@ Bronx-born Saun & Starr are best known as backup singers for the venerable retro
 
 
 ## Tracklisting
-1. Look Closer (Can't You See The Signs?)
-2. Hot Shot
-3. Gonna Make Time
-4. Sunshine (You're Blowin My Cool)
-5. If Only
-6. Another Love Like Mine
-7. Big Wheel
-8. Your Face Before My Eyes
-9. Dear Mr. Teddy
-10. In The Night
-11. Blah Blah Blah Blah Blah Blah Blah 
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Look Closer (Can't You See The Signs?) |  |
+| A2 | Hot Shot |  |
+| A3 | Gonna Make Time |  |
+| A4 | Sunshine (You're Blowin My Cool) |  |
+| A5 | If Only |  |
+| B1 | Another Love Like Mine |  |
+| B2 | Big Wheel |  |
+| B3 | Your Face Before My Eyes |  |
+| B4 | Dear Mr. Teddy |  |
+| B5 | In The Night |  |
+| B6 | Blah Blah Blah Blah Blah Blah Blah  |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/look-closer/1485060275" >}}<br>
 
 
-## Videos
-### Saun  Starr Look Closer feat The Dap-Kings
-{{< youtube id="fM7i9bbWrw4" title="Saun  Starr Look Closer feat The Dap-Kings" >}}<br>
-### More Videos
-
-- [Saun  Starr In The Night](https://www.youtube.com/watch?v=qdc4s1oAWDI)
-- [Saun  Starr Another Love Like Mine](https://www.youtube.com/watch?v=nTucbN_6GBA)
-- [Saun  Starr If Only](https://www.youtube.com/watch?v=vBmoqxT1Aks)
-- [Saun  Starr Gonna Make Time](https://www.youtube.com/watch?v=sg8-SwVyKUg)
-- [Saun  Starr Dear Mr Teddy](https://www.youtube.com/watch?v=RfZsJ5wBlE4)
-- [Saun  Starr Look Closer feat The Dap-Kings](https://www.youtube.com/watch?v=fM7i9bbWrw4)
-- [Saun  Starr In The Night](https://www.youtube.com/watch?v=qdc4s1oAWDI)
-- [Saun  Starr Another Love Like Mine](https://www.youtube.com/watch?v=nTucbN_6GBA)
-- [Saun  Starr If Only](https://www.youtube.com/watch?v=vBmoqxT1Aks)
-- [Saun  Starr Gonna Make Time](https://www.youtube.com/watch?v=sg8-SwVyKUg)
-- [Saun  Starr Dear Mr Teddy](https://www.youtube.com/watch?v=RfZsJ5wBlE4)
-- [Saun  Starr Look Closer OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=gAHEsNYveik)
-- [Saun  Starr Big Wheel - OFFICIAL VIDEO](https://www.youtube.com/watch?v=sgjF3QVGfz4)
-- [Saun  Starr - Blah Blah Blah Blah Blah - Daptone 1087](https://www.youtube.com/watch?v=7qyN3CK7zQA)
-- [Saun  Starr - Hot Shot featuring The Dap-Kings](https://www.youtube.com/watch?v=4dJygJf0w28)
-- [Saun  Starr Another Love Like Mine](https://www.youtube.com/watch?v=nTucbN_6GBA)
-- [Saun  Starr Sunshine Youre Blowin My Cool](https://www.youtube.com/watch?v=3q_UZaTg_G4)
-- [Saun  Starr If Only](https://www.youtube.com/watch?v=vBmoqxT1Aks)
-- [Saun  Starr Dear Mr Teddy](https://www.youtube.com/watch?v=RfZsJ5wBlE4)
-- [Saun  Starr In The Night](https://www.youtube.com/watch?v=qdc4s1oAWDI)
-- [Saun  Starr Your Face Before My Eyes](https://www.youtube.com/watch?v=2WH9NQ_ctp0)
-- [Saun  Starr Gonna Make Time](https://www.youtube.com/watch?v=sg8-SwVyKUg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,4 +57,4 @@ Bronx-born Saun & Starr are best known as backup singers for the venerable retro
 | Label          | Daptone Records |
 | Catalog Number | DAP-035 |
 | Notes | includes coupon with code for mp3 download |
-| Discogs URL    | [Saun & Starr - Look Closer](https://www.discogs.com/release/7014688-Saun-Starr-Look-Closer) |
+| Discogs URL    | [Saun  Starr - Look Closer](https://www.discogs.com/release/7014688-Saun-Starr-Look-Closer) |

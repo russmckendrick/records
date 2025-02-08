@@ -1,9 +1,10 @@
 ---
 title: "Jóhann Jóhannsson - Mandy (Original Motion Picture Soundtrack)"
 artist_name: "Jóhann Jóhannsson"
-artist: "j-hann-j-hannsson"
+artist: "johann-johannsson"
 album_name: "Mandy (Original Motion Picture Soundtrack)"
 date: 2018-09-22T10:00:40.000000Z
+release_date: "2018-09-14"
 release_id: "12558374"
 slug: "mandy-original-motion-picture-soundtrack-12558374"
 hideSummary: true
@@ -29,36 +30,34 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Seeker Of The Serpent's Eye  (2:11)
-2. Starling (2:15)
-3. Mandy Love Theme (4:38)
-4. Horns Of Abraxas (1:31)
-5. Black Skulls (2:46)
-6. Death And Ashes (4:38)
-7. Sand (2:02)
-8. Red (1:32)
-9. Forging The Beast (1:46)
-10. Dive-Bomb Blues (2:15)
-11. Waste (2:55)
-12. Temple (2:59)
-13. Burning Church (1:37)
-14. Memories (2:34)
-15. Children Of The New Dawn (5:31)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Seeker Of The Serpent's Eye  | 2:11 |
+| A2 | Starling | 2:15 |
+| A3 | Mandy Love Theme | 4:38 |
+| A4 | Horns Of Abraxas | 1:31 |
+| A5 | Black Skulls | 2:46 |
+| A6 | Death And Ashes | 4:38 |
+| A7 | Sand | 2:02 |
+| A8 | Red | 1:32 |
+| B1 | Forging The Beast | 1:46 |
+| B2 | Dive-Bomb Blues | 2:15 |
+| B3 | Waste | 2:55 |
+| B4 | Temple | 2:59 |
+| B5 | Burning Church | 1:37 |
+| B6 | Memories | 2:34 |
+| B7 | Children Of The New Dawn | 5:31 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mandy-original-motion-picture-soundtrack-deluxe/1409930378" >}}<br>
 
 
-## Videos
-### Children Of The New Dawn - Johann Johannsson - Mandy Soundtrack Official Video
-{{< youtube id="s6ARrtnMkzM" title="Children Of The New Dawn - Johann Johannsson - Mandy Soundtrack Official Video" >}}<br>
-### More Videos
-
-- [Mandy Love Theme](https://www.youtube.com/watch?v=72ye1IMywrQ)
-- [Children of the New Dawn](https://www.youtube.com/watch?v=-KZxeSATdXI)
-- [Mandy - Johann Johannsson - Soundtrack Preview Official Video](https://www.youtube.com/watch?v=ZTZWaH7R8g0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +68,5 @@ styles: ["Soundtrack", "Industrial", "Ambient", "Dark Ambient"]
 | Format         | Vinyl LP Album (Red Translucent) |
 | Label          | Lakeshore Records |
 | Catalog Number | LKSINV203LP |
-| Notes | Translucent red, 140g vinyl.  Deluxe gatefold sleeve. Printed on reverse board, with gloss spot varnish artwork and a wrap-around paper band. Includes 2-sided insert.  Repressed in October 2018.  © 2018  Lakeshore Records LLC. |
+| Notes | Translucent red, 140g vinyl. <br>Deluxe gatefold sleeve. Printed on reverse board, with gloss spot varnish artwork and a wrap-around paper band. Includes 2-sided insert.<br><br>Repressed in October 2018.<br><br>© 2018  Lakeshore Records LLC. |
 | Discogs URL    | [Jóhann Jóhannsson - Mandy (Original Motion Picture Soundtrack)](https://www.discogs.com/release/12558374-Jóhann-Jóhannsson-Mandy-Original-Motion-Picture-Soundtrack) |

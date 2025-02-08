@@ -1,16 +1,17 @@
 ---
-title: "Belle & Sebastian - Tigermilk"
-artist_name: "Belle & Sebastian"
+title: "Belle  Sebastian - Tigermilk"
+artist_name: "Belle  Sebastian"
 artist: "belle-sebastian"
 album_name: "Tigermilk"
 date: 2017-04-25T08:34:25.000000Z
+release_date: "1996-06-06"
 release_id: "6247282"
 slug: "tigermilk-6247282"
 hideSummary: true
 cover:
     image: "tigermilk-6247282.jpg"
-    alt: "Tigermilk by Belle & Sebastian"
-    caption: "Tigermilk by Belle & Sebastian"
+    alt: "Tigermilk by Belle  Sebastian"
+    caption: "Tigermilk by Belle  Sebastian"
 additional_images:
     - "https://i.discogs.com/zt900gcr47Xj4kjAO-RkbTpqGA502MwHn73qVXd_6do/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDcy/ODItMTQxNDY5MjM4/MS04MzIzLmpwZWc.jpeg"
     - "https://i.discogs.com/Op39wwXhRsbN5Ieb1M3lSA5zCEVAJRJtTY3bSBd0Ons/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDcy/ODItMTUyNDI2MzI2/OS0zNDU0LmpwZWc.jpeg"
@@ -24,22 +25,27 @@ styles: ["Indie Rock", "Indie Pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The State I Am In (4:57)
-2. Expectations (3:34)
-3. She's Losing It (2:22)
-4. You're Just A Baby (3:41)
-5. Electronic Renaissance (4:50)
-6. I Could Be Dreaming (5:56)
-7. We Rule The School (3:27)
-8. My Wandering Days Are Over (5:25)
-9. I Don't Love Anyone (3:56)
-10. Mary Jo (3:29)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The State I Am In | 4:57 |
+| A2 | Expectations | 3:34 |
+| A3 | She's Losing It | 2:22 |
+| A4 | You're Just A Baby | 3:41 |
+| A5 | Electronic Renaissance | 4:50 |
+| B1 | I Could Be Dreaming | 5:56 |
+| B2 | We Rule The School | 3:27 |
+| B3 | My Wandering Days Are Over | 5:25 |
+| B4 | I Don't Love Anyone | 3:56 |
+| B5 | Mary Jo | 3:29 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tigermilk/1669026397" >}}<br>
-
 
 
 
@@ -52,5 +58,5 @@ styles: ["Indie Rock", "Indie Pop"]
 | Format         | Vinyl LP Album Reissue |
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP007 |
-| Notes | Includes free download of entire album.  Includes PVC protective outer sleeve.  Lyrics on back cover. |
-| Discogs URL    | [Belle & Sebastian - Tigermilk](https://www.discogs.com/release/6247282-Belle-And-Sebastian-Tigermilk) |
+| Notes | Includes free download of entire album.<br>Includes PVC protective outer sleeve.<br>Lyrics on back cover. |
+| Discogs URL    | [Belle  Sebastian - Tigermilk](https://www.discogs.com/release/6247282-Belle-And-Sebastian-Tigermilk) |

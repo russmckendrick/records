@@ -4,6 +4,7 @@ artist_name: "Screaming Trees"
 artist: "screaming-trees"
 album_name: "Uncle Anesthesia"
 date: 2022-06-24T05:51:21.000000Z
+release_date: "1991-01-24"
 release_id: "3977067"
 slug: "uncle-anesthesia-3977067"
 hideSummary: true
@@ -23,47 +24,33 @@ styles: ["Alternative Rock"]
 
 Uncle Anesthesia is the fifth studio album by the American band Screaming Trees. It was released in 1991 via Epic Records. It includes three of the four tracks from the band's previous Epic release, Something About Today. 
 "Bed of Roses" was released as a single and peaked at No. 23 on the Modern Rock charts. The band supported the album with a North American tour that included shows with Nirvana and Das Damen; Dan Peters played drums on much of the tour.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Beyond This Horizon (4:13)
-2. Bed Of Roses (3:02)
-3. Uncle Anesthesia (3:53)
-4. Story Of Her Fate (1:40)
-5. Caught Between (5:03)
-6. Lay Your Head Down (3:33)
-7. Before We Arise (2:27)
-8. Something About Today (3:02)
-9. Alice Said (4:11)
-10. Time For Light (3:50)
-11. Disappearing (3:12)
-12. Ocean Of Confusion (3:05)
-13. Closer (5:48)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Beyond This Horizon | 4:13 |
+| A2 | Bed Of Roses | 3:02 |
+| A3 | Uncle Anesthesia | 3:53 |
+| A4 | Story Of Her Fate | 1:40 |
+| A5 | Caught Between | 5:03 |
+| A6 | Lay Your Head Down | 3:33 |
+| A7 | Before We Arise | 2:27 |
+| B1 | Something About Today | 3:02 |
+| B2 | Alice Said | 4:11 |
+| B3 | Time For Light | 3:50 |
+| B4 | Disappearing | 3:12 |
+| B5 | Ocean Of Confusion | 3:05 |
+| B6 | Closer | 5:48 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/uncle-anesthesia/268500515" >}}<br>
 
 
-## Videos
-### Screaming Trees - Bed Of Roses
-{{< youtube id="GAmZsfFKCxU" title="Screaming Trees - Bed Of Roses" >}}<br>
-### More Videos
-
-- [Uncle Anesthesia](https://www.youtube.com/watch?v=NBypiIybzqQ)
-- [screaming trees - alice said  uncle anesthesia](https://www.youtube.com/watch?v=AIKtlU5_U04)
-- [Screaming Trees - Uncle Anesthesia](https://www.youtube.com/watch?v=a8TrEwkTgVQ)
-- [Story Of Her Fate](https://www.youtube.com/watch?v=_LtDCEE8fro)
-- [Caught Between](https://www.youtube.com/watch?v=u_RQHzc2qkw)
-- [Lay Your Head Down](https://www.youtube.com/watch?v=gdmjCJbb0as)
-- [Alice Said](https://www.youtube.com/watch?v=wJcTyOF02UA)
-- [Time For Light](https://www.youtube.com/watch?v=VCg4E1I0YkM)
-- [Ocean Of Confusion](https://www.youtube.com/watch?v=BxXTRl7QIRU)
-- [Screaming Trees - Bed Of Roses](https://www.youtube.com/watch?v=GAmZsfFKCxU)
-- [Uncle Anesthesia](https://www.youtube.com/watch?v=NBypiIybzqQ)
-- [screaming trees - alice said  uncle anesthesia](https://www.youtube.com/watch?v=AIKtlU5_U04)
-- [Screaming Trees - Uncle Anesthesia](https://www.youtube.com/watch?v=a8TrEwkTgVQ)
 
 ## Release Images
 {{< imageGrid >}}

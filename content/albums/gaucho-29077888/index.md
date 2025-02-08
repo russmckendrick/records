@@ -4,6 +4,7 @@ artist_name: "Steely Dan"
 artist: "steely-dan"
 album_name: "Gaucho"
 date: 2023-12-05T10:34:56.000000Z
+release_date: "1980-11-21"
 release_id: "29077888"
 slug: "gaucho-29077888"
 hideSummary: true
@@ -25,34 +26,27 @@ Gaucho is the seventh studio album by the American rock band Steely Dan, release
 The making of the album was plagued by a number of creative, personal, and professional problems, and, once it was completed, there was a three-way legal battle between MCA, Warner Bros., and Steely Dan over the rights to release it. After the album was released, jazz pianist Keith Jarrett sued Walter Becker and Donald Fagen for copyright infringement, claiming the title track plagiarized "'Long As You Know You're Living Yours" from his 1974 album Belonging, and he was given a co-writing credit. Steely Dan did not release another studio album until Two Against Nature, nearly 20 years later.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Babylon Sisters (5:51)
-2. Hey Nineteen (5:04)
-3. Glamour Profession (7:28)
-4. Gaucho (5:32)
-5. Time Out Of Mind (4:10)
-6. My Rival (4:30)
-7. Third World Man (5:14)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Babylon Sisters | 5:51 |
+| A2 | Hey Nineteen | 5:04 |
+| A3 | Glamour Profession | 7:28 |
+| B1 | Gaucho | 5:32 |
+| B2 | Time Out Of Mind | 4:10 |
+| B3 | My Rival | 4:30 |
+| B4 | Third World Man | 5:14 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gaucho/1715946508" >}}<br>
 
 
-## Videos
-### Babylon Sisters
-{{< youtube id="qBdv_tqVqkw" title="Babylon Sisters" >}}<br>
-### More Videos
-
-- [Hey Nineteen](https://www.youtube.com/watch?v=cvg5mbM6FGs)
-- [Glamour Profession](https://www.youtube.com/watch?v=EPIaw-MgNzM)
-- [Gaucho](https://www.youtube.com/watch?v=GesEA9MJuII)
-- [Time Out Of Mind](https://www.youtube.com/watch?v=XOuFO8KPnjw)
-- [My Rival](https://www.youtube.com/watch?v=k0U55Io0Z9E)
-- [Third World Man](https://www.youtube.com/watch?v=XGQtq9PD9iA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +58,5 @@ The making of the album was plagued by a number of creative, personal, and profe
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Geffen Records |
 | Catalog Number | B0034896-01 |
-| Notes | Distributed in the U.S.A. by Universal Music Enterprises  Runout's etched up to and including AA. The rest stamped. |
+| Notes | Distributed in the U.S.A. by Universal Music Enterprises<br><br>Runout's etched up to and including AA. The rest stamped. |
 | Discogs URL    | [Steely Dan - Gaucho](https://www.discogs.com/release/29077888-Steely-Dan-Gaucho) |

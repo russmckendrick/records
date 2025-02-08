@@ -1,9 +1,10 @@
 ---
 title: "Dennis Wilson - Pacific Ocean Blue"
 artist_name: "Dennis Wilson"
-artist: "dennis-wilson-2"
+artist: "dennis-wilson"
 album_name: "Pacific Ocean Blue"
 date: 2016-11-21T12:10:28.000000Z
+release_date: "2021-06-15"
 release_id: "2513540"
 slug: "pacific-ocean-blue-2513540"
 hideSummary: true
@@ -27,47 +28,32 @@ styles: ["Pop Rock"]
 
 Pacific Ocean Blue is the only studio album by American musician Dennis Wilson, co-founder of the Beach Boys. When released in August 1977, it was warmly received critically, and noted for outselling the Beach Boys' contemporary efforts. Two singles were issued from the album, "River Song" and "You and I", which did not chart.
 The album remains a focal point of Wilson's legacy, being referred to as a "classic". It was voted number 838 in Colin Larkin's All Time Top 1000 Albums. Wilson intended to record a follow-up, entitled Bambu, but the album was left unfinished at the time of his death in December 1983.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. River Song (3:44)
-2. What's Wrong (2:22)
-3. Moonshine (2:26)
-4. Friday Night (3:09)
-5. Dreamer (4:22)
-6. Thoughts Of You (3:02)
-7. Time (3:30)
-8. You And I (3:25)
-9. Pacific Ocean Blues (2:37)
-10. Farewell My Friend (2:24)
-11. Rainbows (2:51)
-12. End Of The Show (2:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | River Song | 3:44 |
+| A2 | What's Wrong | 2:22 |
+| A3 | Moonshine | 2:26 |
+| A4 | Friday Night | 3:09 |
+| A5 | Dreamer | 4:22 |
+| A6 | Thoughts Of You | 3:02 |
+| B1 | Time | 3:30 |
+| B2 | You And I | 3:25 |
+| B3 | Pacific Ocean Blues | 2:37 |
+| B4 | Farewell My Friend | 2:24 |
+| B5 | Rainbows | 2:51 |
+| B6 | End Of The Show | 2:56 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dennis-wilson-single/1573020493" >}}<br>
 
 
-## Videos
-### Whats Wrong
-{{< youtube id="tTb4nEDtvcs" title="Whats Wrong" >}}<br>
-### More Videos
-
-- [Moonshine](https://www.youtube.com/watch?v=ydAI4tIG-q4)
-- [Pacific Ocean Blues](https://www.youtube.com/watch?v=VSxPcYS1UDo)
-- [River Song](https://www.youtube.com/watch?v=YiZoSHVQXmk)
-- [Dreamer](https://www.youtube.com/watch?v=GPr5ZZdFdFk)
-- [Dennis Wilson - River Song](https://www.youtube.com/watch?v=LHCzTLnFpLE)
-- [Dennis Wilson - Pacific Ocean Blues](https://www.youtube.com/watch?v=er1LsKPXLj8)
-- [You and I](https://www.youtube.com/watch?v=2BgCvyCyqXg)
-- [Dennis Wilson -  Pacific Ocean Blue 1977 Full Album](https://www.youtube.com/watch?v=iB6REIZ5GbM)
-- [Only with You](https://www.youtube.com/watch?v=1Q-oVAhZ3GQ)
-- [Tug of Love](https://www.youtube.com/watch?v=aaqgKEUwaiM)
-- [Holy Man Taylor Hawkins Version](https://www.youtube.com/watch?v=T-0EGjHwSKE)
-- [Holy Man   DENNIS WILSON](https://www.youtube.com/watch?v=MwOlKKsfpSc)
-- [Whats Wrong](https://www.youtube.com/watch?v=tTb4nEDtvcs)
-- [Moonshine](https://www.youtube.com/watch?v=ydAI4tIG-q4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +65,5 @@ The album remains a focal point of Wilson's legacy, being referred to as a "clas
 | Format         | Vinyl LP Album Reissue Remastered (180 gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP096 |
-| Notes | Issued in gatefold jacket, with printed inner sleeve with lyrics and credits.  Hype sticker affixed to outer bag: Music On Vinyl exclusively remastered 180 gram audiophile vinyl pressing  Recorded At: Brother Studios, Santa Monica, Calif. Mastered At: L.R.S. In Burbank, Calif.  Originally released ℗ & © 1977 Sony Music Entertainment. This release: ℗ & © 2010, Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU.  All songs published by Dennis Wilson Music ©1977 Dennis Wilson Music  Runouts are etched. |
+| Notes | Issued in gatefold jacket, with printed inner sleeve with lyrics and credits.<br><br>Hype sticker affixed to outer bag:<br>Music On Vinyl exclusively remastered 180 gram audiophile vinyl pressing<br><br>Recorded At: Brother Studios, Santa Monica, Calif.<br>Mastered At: L.R.S. In Burbank, Calif.<br><br>Originally released ℗ & © 1977 Sony Music Entertainment. This release: ℗ & © 2010, Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU. <br>All songs published by Dennis Wilson Music ©1977 Dennis Wilson Music<br><br>Runouts are etched. |
 | Discogs URL    | [Dennis Wilson - Pacific Ocean Blue](https://www.discogs.com/release/2513540-Dennis-Wilson-2-Pacific-Ocean-Blue) |

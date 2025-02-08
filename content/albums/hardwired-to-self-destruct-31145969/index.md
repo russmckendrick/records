@@ -4,6 +4,7 @@ artist_name: "Metallica"
 artist: "metallica"
 album_name: "Hardwired...To Self-Destruct"
 date: 2024-07-16T11:02:26.000000Z
+release_date: "2016-11-18"
 release_id: "31145969"
 slug: "hardwired-to-self-destruct-31145969"
 hideSummary: true
@@ -28,34 +29,32 @@ Hardwired... to Self-Destruct is the tenth studio album by American heavy metal 
 Hardwired... to Self-Destruct was Metallica's sixth consecutive studio album to debut at number one on the U.S. Billboard 200, selling 291,000 album-equivalent units in its first week, and topping the charts in 57 countries. The number one ranking marked only the second time in the chart's history that any band had six consecutive albums debut at number one, following Dave Matthews Band. Hardwired... to Self-Destruct received generally positive reviews from critics, and in 2020, Metallica drummer Lars Ulrich ranked the album as the band's best.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Hardwired (3:09)
-2. Atlas, Rise! (6:28)
-3. Now That We're Dead (7:01)
-4. Moth Into Flame (5:52)
-5. Am I Savage? (6:30)
-6. Halo On Fire (8:14)
-7. Confusion (6:43)
-8. Dream No More (6:29)
-9. ManUNkind (6:57)
-10. Here Comes Revenge (7:20)
-11. Murder One (5:46)
-12. Spit Out The Bone (7:09)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hardwired | 3:09 |
+| A2 | Atlas, Rise! | 6:28 |
+| A3 | Now That We're Dead | 7:01 |
+| B1 | Moth Into Flame | 5:52 |
+| B2 | Am I Savage? | 6:30 |
+| B3 | Halo On Fire | 8:14 |
+| C1 | Confusion | 6:43 |
+| C2 | Dream No More | 6:29 |
+| C3 | ManUNkind | 6:57 |
+| D1 | Here Comes Revenge | 7:20 |
+| D2 | Murder One | 5:46 |
+| D3 | Spit Out The Bone | 7:09 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hardwired-to-self-destruct/1440866700" >}}<br>
 
 
-## Videos
-### Metallica - Hardwired to Self-Destruct FULL HD
-{{< youtube id="dUfYDWOk1ms" title="Metallica - Hardwired to Self-Destruct FULL HD" >}}<br>
-### More Videos
-
-- [Metallica - Hardwiredyerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=GWtyQivWKHM)
 
 ## Release Images
 {{< imageGrid >}}

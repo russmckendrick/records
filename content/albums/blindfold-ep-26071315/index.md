@@ -4,6 +4,7 @@ artist_name: "Curve"
 artist: "curve"
 album_name: "Blindfold EP"
 date: 2023-02-13T11:31:14.000000Z
+release_date: ""
 release_id: "26071315"
 slug: "blindfold-ep-26071315"
 hideSummary: true
@@ -26,25 +27,23 @@ styles: ["Industrial", "Downtempo", "Hip Hop", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Ten Little Girls
-2. I Speak Your Every Word
-3. Blindfold
-4. No Escape From Heaven
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ten Little Girls |  |
+| A2 | I Speak Your Every Word |  |
+| B1 | Blindfold |  |
+| B2 | No Escape From Heaven |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Curve - Blindfold
-{{< youtube id="KufHiyMcurY" title="Curve - Blindfold" >}}<br>
-### More Videos
 
-- [Curve - I speak your every word](https://www.youtube.com/watch?v=OTUS6N9OWYY)
-- [Curve - Ten little girls](https://www.youtube.com/watch?v=ProMC3LB4PM)
-- [Curve - No escape from heaven](https://www.youtube.com/watch?v=925lc-W7MGk)
-- [Curve - Ten little girls](https://www.youtube.com/watch?v=q_mOnakc9JM)
-- [Curve - Ten little girls](https://www.youtube.com/watch?v=ProMC3LB4PM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -55,5 +54,5 @@ styles: ["Industrial", "Downtempo", "Hip Hop", "Indie Rock"]
 | Format         | Vinyl 12" 45 RPM EP Limited Edition Numbered Stereo (Red/Black Marbled) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12030 |
-| Notes | Part of a reissue series. Coloured vinyl. Plastic outer sleeve with Music On Vinyl sticker. Limited edition of 1000. Individual number stamped in silver metallic on rear of outer sleeve. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series. Runouts are stamped. Track timings not stated on release. |
+| Notes | Part of a reissue series.<br>Coloured vinyl.<br>Plastic outer sleeve with Music On Vinyl sticker.<br>Limited edition of 1000.<br>Individual number stamped in silver metallic on rear of outer sleeve.<br>Plain inner sleeve.<br>Insert advertising Music On Vinyl Curve reissue series.<br>Runouts are stamped.<br>Track timings not stated on release. |
 | Discogs URL    | [Curve - Blindfold EP](https://www.discogs.com/release/26071315-Curve-Blindfold-EP) |

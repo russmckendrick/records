@@ -37,34 +37,25 @@ Released to critical acclaim, the album was preceded by the singles "Welcome to 
 
 
 ## Tracklisting
-1. Hellfire
-2. Sugar/Tzu
-3. Eat Men Eat
-4. Welcome To Hell
-5. Still
-6. Half Time
-7. The Race Is About To Begin
-8. Dangerous Liaisons
-9. The Defence
-10. 27 Questions
-11. Chondromalacia Patella (4:49)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hellfire |  |
+| A2 | Sugar/Tzu |  |
+| A3 | Eat Men Eat |  |
+| A4 | Welcome To Hell |  |
+| A5 | Still |  |
+| B1 | Half Time |  |
+| B2 | The Race Is About To Begin |  |
+| B3 | Dangerous Liaisons |  |
+| B4 | The Defence |  |
+| B5 | 27 Questions |  |
+| C1 | Chondromalacia Patella | 4:49 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hellfire/1613170781" >}}<br>
 
 
-## Videos
-### Hellfire
-{{< youtube id="QfAOFyhfZJU" title="Hellfire" >}}<br>
-### More Videos
-
-- [Still](https://www.youtube.com/watch?v=q8K3uVcv8EM)
-- [black midi - Welcome To Hell](https://www.youtube.com/watch?v=Efmq_uXt1Rk)
-- [black midi - Eat Men Eat](https://www.youtube.com/watch?v=dflSgJG4g3M)
-- [black midi - SugarTzu](https://www.youtube.com/watch?v=8D3TrpQ_nFo)
-- [The Race Is About To Begin](https://www.youtube.com/watch?v=k2nNWpK5SQA)
-- [Hellfire](https://www.youtube.com/watch?v=QfAOFyhfZJU)
-- [Still](https://www.youtube.com/watch?v=q8K3uVcv8EM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +67,5 @@ Released to critical acclaim, the album was preceded by the singles "Welcome to 
 | Format         | Vinyl LP Album Limited Edition Special Edition (Transparent Red), Flexi-disc 7" Single Sided (Transparent Red) |
 | Label          | Rough Trade |
 | Catalog Number | RT00321LPE |
-| Notes | Housed in a gatefold sleeve and includes a sticker  Side A ends on a locked groove  'Half Time' is only mentioned in credits/lyrics on gatefold.  Complete with 'square' uncut 7" transparent red flexi disc Chondromalacia Patella - originally released on Cavalcade   'Limited Edition' and 'Special Edition' on hype sticker |
+| Notes | Housed in a gatefold sleeve and includes a sticker<br><br>Side A ends on a locked groove<br><br>'Half Time' is only mentioned in credits/lyrics on gatefold.<br><br>Complete with 'square' uncut 7" transparent red flexi disc Chondromalacia Patella - originally released on Cavalcade <br><br>'Limited Edition' and 'Special Edition' on hype sticker |
 | Discogs URL    | [Black Midi - Hellfire](https://www.discogs.com/release/23908982-Black-Midi-Hellfire) |

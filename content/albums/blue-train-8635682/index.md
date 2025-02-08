@@ -4,6 +4,7 @@ artist_name: "John Coltrane"
 artist: "john-coltrane"
 album_name: "Blue Train "
 date: 2017-05-12T18:25:29.000000Z
+release_date: "1962"
 release_id: "8635682"
 slug: "blue-train-8635682"
 hideSummary: true
@@ -24,20 +25,23 @@ Blue Train is a studio album by the jazz saxophonist and composer John Coltrane.
 Coltrane wrote four of the record's five tracks. His playing exhibits early elements of the signature style for which he later became known. Blue Train attained a gold sales certification by the Recording Industry Association of America in 2001.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Blue Train
-2. Moment's Notice
-3. Locomotion
-4. I'm Old Fashioned
-5. Lazy Bird
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Blue Train |  |
+| A2 | Moment's Notice |  |
+| B1 | Locomotion |  |
+| B2 | I'm Old Fashioned |  |
+| B3 | Lazy Bird |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/coltrane-deluxe-edition/1452788887" >}}<br>
-
 
 
 

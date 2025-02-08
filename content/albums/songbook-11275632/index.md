@@ -28,39 +28,41 @@ A decade after releasing his first solo album, Frank Turner gathers his favourit
 
 
 ## Tracklisting
-1. Four Simple Words (4:57)
-2. I Still Believe (3:46)
-3. The Next Storm (3:36)
-4. Recovery (3:58)
-5. The Road (3:58)
-6. Long Live the Queen (3:28)
-7. Glorious You (3:17)
-8. Plain Sailing Weather (4:02)
-9. I Knew Prufrock Before He Got Famous (3:13)
-10. Wessex Boy (3:34)
-11. The Opening Act of Spring (3:03)
-12. Polaroid Picture (3:43)
-13. Mittens (4:31)
-14. If Ever I Stray (2:54)
-15. The Way I Tend To Be (3:43)
-16. The Ballad of Me and My Friends (2:33)
-17. Photosynthesis (4:13)
-18. Get Better (2:48)
-19. There She Is (3:46)
-20. Photosynthesis (4:13)
-21. The Way I Tend To Be (4:15)
-22. Glorious You (3:53)
-23. Josephine (4:38)
-24. Polaroid Picture (5:01)
-25. Love 40 Down (3:14)
-26. I Am Disappeared (5:28)
-27. Broken Piano (5:33)
-28. Long Live The Queen (3:42)
-29. The Ballad Of Me And My Friends (3:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Four Simple Words | 4:57 |
+| A2 | I Still Believe | 3:46 |
+| A3 | The Next Storm | 3:36 |
+| A4 | Recovery | 3:58 |
+| A5 | The Road | 3:58 |
+| B1 | Long Live the Queen | 3:28 |
+| B2 | Glorious You | 3:17 |
+| B3 | Plain Sailing Weather | 4:02 |
+| B4 | I Knew Prufrock Before He Got Famous | 3:13 |
+| B5 | Wessex Boy | 3:34 |
+| C1 | The Opening Act of Spring | 3:03 |
+| C2 | Polaroid Picture | 3:43 |
+| C3 | Mittens | 4:31 |
+| C4 | If Ever I Stray | 2:54 |
+| D1 | The Way I Tend To Be | 3:43 |
+| D2 | The Ballad of Me and My Friends | 2:33 |
+| D3 | Photosynthesis | 4:13 |
+| D4 | Get Better | 2:48 |
+| D5 | There She Is | 3:46 |
+| E1 | Photosynthesis | 4:13 |
+| E2 | The Way I Tend To Be | 4:15 |
+| E3 | Glorious You | 3:53 |
+| E4 | Josephine | 4:38 |
+| E5 | Polaroid Picture | 5:01 |
+| F1 | Love 40 Down | 3:14 |
+| F2 | I Am Disappeared | 5:28 |
+| F3 | Broken Piano | 5:33 |
+| F4 | Long Live The Queen | 3:42 |
+| F5 | The Ballad Of Me And My Friends | 3:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songbook/1440909143" >}}<br>
-
 
 
 
@@ -74,5 +76,5 @@ A decade after releasing his first solo album, Frank Turner gathers his favourit
 | Format         | Vinyl 3× LP Compilation |
 | Label          | Xtra Mile Recordings |
 | Catalog Number | 6700056 |
-| Notes |   |
+| Notes | <br> |
 | Discogs URL    | [Frank Turner - Songbook](https://www.discogs.com/release/11275632-Frank-Turner-Songbook) |

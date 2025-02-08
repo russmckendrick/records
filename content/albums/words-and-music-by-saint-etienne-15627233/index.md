@@ -4,6 +4,7 @@ artist_name: "Saint Etienne"
 artist: "saint-etienne"
 album_name: "Words And Music By Saint Etienne "
 date: 2020-07-17T12:17:15.000000Z
+release_date: "2012-05-18"
 release_id: "15627233"
 slug: "words-and-music-by-saint-etienne-15627233"
 hideSummary: true
@@ -23,47 +24,33 @@ styles: ["Indie Pop", "Dance-pop"]
 ---
 
 Words and Music by Saint Etienne is the eighth studio album by English alternative dance band Saint Etienne, released on 18 May 2012 by Heavenly Recordings. The band announced the album in a Christmas message on their official website on 11 December 2011. The album features collaborations from longtime Saint Etienne associate Ian Catt, as well as Richard X and former Xenomania members Tim Powell and Nick Coler.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Over The Border
-2. I've Got Your Music
-3. Heading For The Fair
-4. Last Days Of Disco
-5. Tonight
-6. Answer Song
-7. Record Doctor
-8. Popular
-9. Twenty Five Years
-10. DJ
-11. When I Was Seventeen
-12. I Threw It All Away
-13. Haunted Jukebox
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Over The Border |  |
+| A2 | I've Got Your Music |  |
+| A3 | Heading For The Fair |  |
+| A4 | Last Days Of Disco |  |
+| A5 | Tonight |  |
+| A6 | Answer Song |  |
+| B1 | Record Doctor |  |
+| B2 | Popular |  |
+| B3 | Twenty Five Years |  |
+| B4 | DJ |  |
+| B5 | When I Was Seventeen |  |
+| B6 | I Threw It All Away |  |
+| B7 | Haunted Jukebox |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/words-and-music-by-saint-etienne/1502242307" >}}<br>
 
 
-## Videos
-### Saint Etienne - Ive Got Your Music
-{{< youtube id="3MQmsHPwLvU" title="Saint Etienne - Ive Got Your Music" >}}<br>
-### More Videos
-
-- [Saint Etienne - Tonight](https://www.youtube.com/watch?v=UEWEAqNR2XQ)
-- [When I Was Seventeen](https://www.youtube.com/watch?v=GSTSTNK0BG0)
-- [Saint Etienne - Ive Got Your Music Single Version](https://www.youtube.com/watch?v=_kWy48yIgxQ)
-- [Saint Etienne - Over the Border](https://www.youtube.com/watch?v=DnxGHwDiqWk)
-- [Saint Etienne - DJ](https://www.youtube.com/watch?v=u7jbF_8MzHs)
-- [Saint Etienne- DJ Muddyloop Remix](https://www.youtube.com/watch?v=PGzTgVOl1NE)
-- [Saint Etienne - Popular](https://www.youtube.com/watch?v=8AMCyEZRpYk)
-- [Haunted Jukebox Saint Etienne](https://www.youtube.com/watch?v=tjTN83By2Mw)
-- [I Threw It All Away](https://www.youtube.com/watch?v=csAlD1-0l1U)
-- [Saint Etienne - Last Days of Disco](https://www.youtube.com/watch?v=PKM6a6AyyFI)
-- [Saint Etienne - Haunted Jukebox](https://www.youtube.com/watch?v=_SswsMjN0TU)
-- [Saint Etienne - DJ](https://www.youtube.com/watch?v=tAk6slCEuIw)
-- [Saint Etienne - Popular Tom Middleton Cosmos Remix](https://www.youtube.com/watch?v=Ro1ziKoFFHg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +62,5 @@ Words and Music by Saint Etienne is the eighth studio album by English alternati
 | Format         | Vinyl LP Album Limited Edition Reissue (White w/ Black, Yellow and Green Splatter) |
 | Label          | Heavenly |
 | Catalog Number | HVNLP92C |
-| Notes | Special Love Record Stores Day 2020 Edition. Limited to 1000 copies. 800 copies were sold via UK indie shops on July 17, 2020. The remaining 200 copies were sold through the band's webstore on July 23, 2020.  Includes Download.   |
+| Notes | Special Love Record Stores Day 2020 Edition. Limited to 1000 copies. 800 copies were sold via UK indie shops on July 17, 2020. The remaining 200 copies were sold through the band's webstore on July 23, 2020.<br><br>Includes Download.<br><br> |
 | Discogs URL    | [Saint Etienne - Words And Music By Saint Etienne ](https://www.discogs.com/release/15627233-Saint-Etienne-Words-And-Music-By-Saint-Etienne-) |

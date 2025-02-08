@@ -4,6 +4,7 @@ artist_name: "The Beach Boys"
 artist: "the-beach-boys"
 album_name: "Pet Sounds"
 date: 2015-08-09T08:45:34.000000Z
+release_date: "2005-02-15"
 release_id: "1567306"
 slug: "pet-sounds-1567306"
 hideSummary: true
@@ -26,28 +27,31 @@ Incorporating elements of pop, jazz, exotica, classical, and the avant-garde, Wi
 Pet Sounds revolutionized music production and the role of professional record producers, especially through Wilson's pioneering studio-as-instrument praxis. The record contributed to the cultural legitimization of popular music, a greater public appreciation for albums, the popularity of synthesizers, and the development of psychedelic music and progressive/art rock. It also introduced novel approaches to orchestration, chord voicings, and structural harmonies, such as its avoidance of definite key signatures. Although it had been widely revered by industry insiders, the album was obscure to mass audiences before being reissued in the 1990s, after which it topped several critics' and musicians' polls for the best album of all time, including those published by NME, Mojo, Uncut, and The Times. The album has also been consistently ranked number 2 in all editions of Rolling Stone's "The 500 Greatest Albums of All Time" list. As a solo artist, Wilson embarked on a string of Pet Sounds concert tours in the early 2000s and late 2010s. In 2004, the album was inducted into the National Recording Registry by the Library of Congress for being "culturally, historically, or aesthetically significant". Pet Sounds is certified platinum by the Recording Industry Association of America (RIAA), indicating over one million units sold in the U.S. An expanded reissue, The Pet Sounds Sessions, was released in 1997, featuring the album's first true stereo mix.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Wouldn't It Be Nice
-2. You Still Believe In Me
-3. That's Not Me
-4. Don't Talk (Put Your Head On My Shoulder)
-5. I'm Waiting For The Day
-6. Let's Go Away For Awhile
-7. Sloop John B
-8. God Only Knows
-9. I Know There's An Answer
-10. Here Today
-11. I Just Wasn't Made For These Times
-12. Pet Sounds
-13. Caroline No
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Wouldn't It Be Nice |  |
+| A2 | You Still Believe In Me |  |
+| A3 | That's Not Me |  |
+| A4 | Don't Talk (Put Your Head On My Shoulder) |  |
+| A5 | I'm Waiting For The Day |  |
+| A6 | Let's Go Away For Awhile |  |
+| A7 | Sloop John B |  |
+| B1 | God Only Knows |  |
+| B2 | I Know There's An Answer |  |
+| B3 | Here Today |  |
+| B4 | I Just Wasn't Made For These Times |  |
+| B5 | Pet Sounds |  |
+| B6 | Caroline No |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vsq-performs-the-beach-boys-pet-sounds/992201457" >}}<br>
-
 
 
 
@@ -61,5 +65,5 @@ Pet Sounds revolutionized music production and the role of professional record p
 | Format         | Vinyl LP Album Stereo |
 | Label          | Capitol Records |
 | Catalog Number | ST 2458 |
-| Notes | 1st UK stereo press. Released on a black/silver Capitol label with rainbow rim and the dome logo at 9 o'clock  Garrod & Lofthouse: Patents Pending ''flipback'' sleeve.  "Sold In U.K. Subject To Resale Price Conditions, See Price Lists" text on labels over the Capitol logo   Compared to this edition, the late 60's reissue [r12655444]  has the Capitol logo at 12 o'clock and the "Sold in U.K." text runs across the label below it.   Also released in mono (# T 2458).  |
+| Notes | 1st UK stereo press.<br>Released on a black/silver Capitol label with rainbow rim and the dome logo at 9 o'clock <br>Garrod & Lofthouse: Patents Pending ''flipback'' sleeve. <br>"Sold In U.K. Subject To Resale Price Conditions, See Price Lists" text on labels over the Capitol logo<br><br><br>Compared to this edition, the late 60's reissue [r12655444] <br>has the Capitol logo at 12 o'clock and the "Sold in U.K." text runs across the label below it.<br><br><br>Also released in mono (# T 2458).<br> |
 | Discogs URL    | [The Beach Boys - Pet Sounds](https://www.discogs.com/release/1567306-The-Beach-Boys-Pet-Sounds) |

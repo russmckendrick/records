@@ -1,9 +1,10 @@
 ---
 title: "The Beat - Special Beat Service "
 artist_name: "The Beat"
-artist: "the-beat-2"
+artist: "the-beat"
 album_name: "Special Beat Service "
 date: 2024-12-20T01:47:58.000000Z
+release_date: "1982-10-01"
 release_id: "32433471"
 slug: "special-beat-service-32433471"
 hideSummary: true
@@ -20,55 +21,41 @@ styles: ["Ska", "Reggae", "Dub"]
 Special Beat Service is the third studio album by the British ska band the Beat, released on 1 October 1982 by Go-Feet Records. Like the rest of their material, it was released in the US under the name "the English Beat". It peaked at No. 39 on the Billboard 200 album chart in 1983 on the strength of two singles, "I Confess" and "Save It for Later," the music videos for which received modest airplay on the fledgling MTV video network.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Confess
-2. Jeanette
-3. Sorry
-4. Sole Salvation
-5. Spar Wid Me
-6. Rotating Heads
-7. Save It For Later
-8. She’s Going
-9. Pato And Roger A Go Talk
-10. Sugar & Stress
-11. End Of The Party
-12. Ackee 1 2 3
-13. What’s Your Best Thing
-14. March Of The Swivel Heads (Extended)
-15. It Makes Me Rock
-16. I Confess (United States Of America Remix)
-17. What’S Your Best Thing (Dub Style)
-18. Doors Of Your Heart (Live)
-19. I Confess (Live)
-20. Spar Wid Me (Live)
-21. Save It For Later (Live)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Confess |  |
+| A2 | Jeanette |  |
+| A3 | Sorry |  |
+| A4 | Sole Salvation |  |
+| A5 | Spar Wid Me |  |
+| A6 | Rotating Heads |  |
+| B1 | Save It For Later |  |
+| B2 | She’s Going |  |
+| B3 | Pato And Roger A Go Talk |  |
+| B4 | Sugar & Stress |  |
+| B5 | End Of The Party |  |
+| B6 | Ackee 1 2 3 |  |
+| C1 | What’s Your Best Thing |  |
+| C2 | March Of The Swivel Heads (Extended) |  |
+| C3 | It Makes Me Rock |  |
+| C4 | I Confess (United States Of America Remix) |  |
+| C5 | What’S Your Best Thing (Dub Style) |  |
+| D1 | Doors Of Your Heart (Live) |  |
+| D2 | I Confess (Live) |  |
+| D3 | Spar Wid Me (Live) |  |
+| D4 | Save It For Later (Live) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/special-beat-service-expanded-2012-remaster/1714604816" >}}<br>
 
 
-## Videos
-### Jeannette
-{{< youtube id="ufvZPv771yQ" title="Jeannette" >}}<br>
-### More Videos
-
-- [English Beat Save It For Later](https://www.youtube.com/watch?v=0bM0wVjU2-k)
-- [THE BEAT - THE COMPLETE SPECIAL BEAT SERVICE ALBUM](https://www.youtube.com/watch?v=muVM-uafTlI)
-- [English Beat Save It For Later](https://www.youtube.com/watch?v=0bM0wVjU2-k)
-- [English Beat - pato and roger a go talk](https://www.youtube.com/watch?v=VNul8opwfKU)
-- [English Beat - Ackee 123](https://www.youtube.com/watch?v=Pu-mNwgn440)
-- [English Beat - i confess](https://www.youtube.com/watch?v=8fX_PjxpQrg)
-- [English Beat - sorry](https://www.youtube.com/watch?v=dFV_YauaDRU)
-- [English Beat - sole salvation](https://www.youtube.com/watch?v=ePyTcmw00BA)
-- [English Beat - Rotating Heads](https://www.youtube.com/watch?v=B45hcRNpFZc)
-- [English Beat - shes going](https://www.youtube.com/watch?v=dsJRAioa0vo)
-- [English Beat - rotating head](https://www.youtube.com/watch?v=l4tAnMaQ8wo)
-- [English Beat - sugar and stress](https://www.youtube.com/watch?v=uiSGg4HNvGQ)
-- [English Beat - end of the party](https://www.youtube.com/watch?v=L46eyxpQaIE)
 
 ## Release Images
 {{< imageGrid >}}

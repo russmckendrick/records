@@ -1,6 +1,6 @@
 ---
-title: "St. Vincent - Actor"
-artist_name: "St. Vincent"
+title: "St Vincent - Actor"
+artist_name: "St Vincent"
 artist: "st-vincent"
 album_name: "Actor"
 date: 2023-10-14T02:09:13.000000Z
@@ -10,8 +10,8 @@ slug: "actor-8248398"
 hideSummary: true
 cover:
     image: "actor-8248398.jpg"
-    alt: "Actor by St. Vincent"
-    caption: "Actor by St. Vincent"
+    alt: "Actor by St Vincent"
+    caption: "Actor by St Vincent"
 additional_images:
     - "https://i.discogs.com/lay6nOEFuN3sm5cnfiWUwU88tlFFeurz7-zh9Wa5nyI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDgz/OTgtMTQ1NzkxMzU2/Ni05MjQ0LmpwZWc.jpeg"
     - "https://i.discogs.com/F1Yl9VScf7pydpcCYquWaRjNG8FvYtrwEdSGAg19j8I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDgz/OTgtMTU1NTA2NDcx/NC02MzA2LmpwZWc.jpeg"
@@ -31,33 +31,25 @@ Singer/songwriter/guitar-shredder Annie Clark's fourth studio album as St. Vince
 
 
 ## Tracklisting
-1. The Strangers (4:04)
-2. Save Me From What I Want (3:35)
-3. The Neighbors (3:30)
-4. Actor Out Of Work (2:15)
-5. Black Rainbow (4:11)
-6. The Sequel (1:53)
-7. Laughing With A Mouth Of Blood (3:01)
-8. Marrow (3:24)
-9. The Bed (3:43)
-10. The Party (4:05)
-11. Just The Same But Brand New (5:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Strangers | 4:04 |
+| A2 | Save Me From What I Want | 3:35 |
+| A3 | The Neighbors | 3:30 |
+| A4 | Actor Out Of Work | 2:15 |
+| A5 | Black Rainbow | 4:11 |
+| A6 | The Sequel | 1:53 |
+| B1 | Laughing With A Mouth Of Blood | 3:01 |
+| B2 | Marrow | 3:24 |
+| B3 | The Bed | 3:43 |
+| B4 | The Party | 4:05 |
+| B5 | Just The Same But Brand New | 5:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/st-vincent/1445873566" >}}<br>
 
 
-## Videos
-### St Vincent - Marrow Official Video
-{{< youtube id="-9prpAv6kvo" title="St Vincent - Marrow Official Video" >}}<br>
-### More Videos
-
-- [St Vincent - Actor Out Of Work Official Video](https://www.youtube.com/watch?v=AZW9NYX6JZA)
-- [St Vincent - The Neighbors](https://www.youtube.com/watch?v=-wEVVfFkMwE)
-- [Actor Out of Work  Lyrics HD](https://www.youtube.com/watch?v=mPFXdj0_t_4)
-- [St Vincent - The Apocalypse Song](https://www.youtube.com/watch?v=68rXwBtNsy8)
-- [St Vincent - Save Me From What I Want](https://www.youtube.com/watch?v=MdZSzM_mzT8)
-- [St Vincent - The Party](https://www.youtube.com/watch?v=F9L3D1w8KcY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +60,5 @@ Singer/songwriter/guitar-shredder Annie Clark's fourth studio album as St. Vince
 | Format         | Vinyl LP Album Reissue |
 | Label          | 4AD |
 | Catalog Number | none |
-| Notes | This pressing has no catalog # on the labels, "33 RPM" is printed under "Side A/B" on the labels where the 4AD catalog # is on other pressings. Likely a more recent pressing.  Recorded & Mixed at Elmwood Studio & The Track Studio, Dallas, Texas Mastered at Sterlingsound, NYC  Runout information is stamped.  Shrink wrap has hype sticker on rear: 'Made in Czech Republic'   For thank yous & additional credits - ILOVESTVINCENT.COM  MP3 album download included with purchase. |
-| Discogs URL    | [St. Vincent - Actor](https://www.discogs.com/release/8248398-St-Vincent-Actor) |
+| Notes | This pressing has no catalog # on the labels, "33 RPM" is printed under "Side A/B" on the labels where the 4AD catalog # is on other pressings. Likely a more recent pressing.<br><br>Recorded & Mixed at Elmwood Studio & The Track Studio, Dallas, Texas<br>Mastered at Sterlingsound, NYC<br><br>Runout information is stamped.<br><br>Shrink wrap has hype sticker on rear: 'Made in Czech Republic' <br><br>For thank yous & additional credits - ILOVESTVINCENT.COM<br><br>MP3 album download included with purchase. |
+| Discogs URL    | [St Vincent - Actor](https://www.discogs.com/release/8248398-St-Vincent-Actor) |

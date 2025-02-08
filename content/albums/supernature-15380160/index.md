@@ -4,6 +4,7 @@ artist_name: "Goldfrapp"
 artist: "goldfrapp"
 album_name: "Supernature"
 date: 2021-04-01T00:48:15.000000Z
+release_date: "2005-08-17"
 release_id: "15380160"
 slug: "supernature-15380160"
 hideSummary: true
@@ -34,33 +35,31 @@ Supernature is the third studio album by English electronic music duo Goldfrapp,
 The album's lead single, "Ooh La La", reached number four on the UK Singles Chart, becoming the duo's highest-peaking single to date. The album spawned three further singles: "Number 1", "Ride a White Horse" and "Fly Me Away". In North America, where "Number 1" was promoted as the first single, the album was released on 7 March 2006 and reached number 138 on the charts. Supernature was nominated for a Grammy Award for Best Electronic/Dance Album in 2007.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Ooh La La (3:24)
-2. Lovely 2 C U (3:25)
-3. Ride A White Horse (4:41)
-4. You Never Know (3:27)
-5. Let It Take You (4:30)
-6. Fly Me Away (4:26)
-7. Slide In (4:17)
-8. Koko (3:24)
-9. Satin Chic (3:28)
-10. Time Out From The World (4:47)
-11. Number 1 (3:25)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Ooh La La | 3:24 |
+| A2 | Lovely 2 C U | 3:25 |
+| A3 | Ride A White Horse | 4:41 |
+| A4 | You Never Know | 3:27 |
+| A5 | Let It Take You | 4:30 |
+| B1 | Fly Me Away | 4:26 |
+| B2 | Slide In | 4:17 |
+| B3 | Koko | 3:24 |
+| B4 | Satin Chic | 3:28 |
+| B5 | Time Out From The World | 4:47 |
+| B6 | Number 1 | 3:25 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/supernature/1444740051" >}}<br>
 
 
-## Videos
-### Goldfrapp - Number 1
-{{< youtube id="gzfaJRDfveo" title="Goldfrapp - Number 1" >}}<br>
-### More Videos
-
-- [Goldfrapp - Ooh La La](https://www.youtube.com/watch?v=uco-2V4ytYQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +71,5 @@ The album's lead single, "Ooh La La", reached number four on the UK Singles Char
 | Format         | Vinyl LP Album Limited Edition Reissue Special Edition (Green Translucent, Gatefold) |
 | Label          | Mute |
 | Catalog Number | GSTUMM250 |
-| Notes | On hype sticker: "SUPERNATURE GATEFOLD SPECIAL EDITION TRANSLUCENT GREEN VINYL WITH EXCLUSIVE ART PRINT INCLUDES THE SINGLES: OOH LA LA NUMBER1 RIDE A WHITE HORSE AND FLY ME AWAY GSTUMM250"  ℗ 2020 Mute Records Limited, a BMG Company © 2005 Mute Records Limited, a BMG Company  Made in the EU  Amazon.it were distributing copies from 15/5/20 even though their website advises release date is 14/8/20.  Includes exclusive art print of the original artwork.  Nb: 'Limited Edition' according to the Mute website only. |
+| Notes | On hype sticker:<br>"SUPERNATURE<br>GATEFOLD SPECIAL EDITION<br>TRANSLUCENT GREEN VINYL<br>WITH EXCLUSIVE ART PRINT<br>INCLUDES THE SINGLES:<br>OOH LA LA<br>NUMBER1<br>RIDE A WHITE HORSE<br>AND FLY ME AWAY<br>GSTUMM250"<br><br>℗ 2020 Mute Records Limited, a BMG Company<br>© 2005 Mute Records Limited, a BMG Company<br><br>Made in the EU<br><br>Amazon.it were distributing copies from 15/5/20 even though their website advises release date is 14/8/20.<br><br>Includes exclusive art print of the original artwork.<br><br>Nb: 'Limited Edition' according to the Mute website only. |
 | Discogs URL    | [Goldfrapp - Supernature](https://www.discogs.com/release/15380160-Goldfrapp-Supernature) |

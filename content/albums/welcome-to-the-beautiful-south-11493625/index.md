@@ -4,6 +4,7 @@ artist_name: "The Beautiful South"
 artist: "the-beautiful-south"
 album_name: "Welcome To The Beautiful South"
 date: 2018-02-02T07:57:58.000000Z
+release_date: "1989-01-01"
 release_id: "11493625"
 slug: "welcome-to-the-beautiful-south-11493625"
 hideSummary: true
@@ -25,43 +26,30 @@ styles: ["Pop Rock"]
 
 Welcome to the Beautiful South is the debut album by the English band the Beautiful South. It was released in October 1989 by Go! Discs and the next year in the United States by Elektra Records. Three singles were released from the album, which became top 40 hits in the United Kingdom: "Song for Whoever" (No. 2), "You Keep It All In" (No. 8) and "I'll Sail This Ship Alone" (No. 31).
 The original album cover depicted two pictures by Jan Saudek, one of a woman with a gun in her mouth, and another with a man smoking. Woolworths refused to stock the album, in the words of the band, to "prevent the hoards [sic] of impressionable young fans from blowing their heads off in a gun-gobbling frenzy, or taking up smoking"; An alternative cover featuring a picture of a stuffed toy rabbit and a teddy bear was therefore made.  A second alternative cover was also prepared for the Canadian edition of the album; this version omitted the picture of the woman, and featured only the smoking man.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Song For Whoever (6:10)
-2. Have You Ever Been Away? (5:40)
-3. From Under The Covers (3:59)
-4. I'll Sail This Ship Alone (4:47)
-5. Girlfriend (2:55)
-6. You Keep It All In (2:52)
-7. Woman In The Wall (5:15)
-8. Oh Blackpool (3:06)
-9. Love Is ... (7:00)
-10. I Love You (But You're Boring) (4:30)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Song For Whoever | 6:10 |
+| A2 | Have You Ever Been Away? | 5:40 |
+| A3 | From Under The Covers | 3:59 |
+| A4 | I'll Sail This Ship Alone | 4:47 |
+| A5 | Girlfriend | 2:55 |
+| B1 | You Keep It All In | 2:52 |
+| B2 | Woman In The Wall | 5:15 |
+| B3 | Oh Blackpool | 3:06 |
+| B4 | Love Is ... | 7:00 |
+| B5 | I Love You (But You're Boring) | 4:30 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/welcome-to-the-beautiful-south/1444032567" >}}<br>
 
 
-## Videos
-### The Beautiful South - Song For Whoever
-{{< youtube id="J-q_gAM1BXQ" title="The Beautiful South - Song For Whoever" >}}<br>
-### More Videos
-
-- [you keep it all in](https://www.youtube.com/watch?v=-rBcIa7dLMQ)
-- [THE BEAUTIFUL SOUTH - ILL SAIL THIS SHIP ALONE](https://www.youtube.com/watch?v=_NljLKfcwOc)
-- [Beautiful South - You Keep It All In - TOTP 1994](https://www.youtube.com/watch?v=vuEuLTkfAgU)
-- [The Beautiful South - Oh Blackpool](https://www.youtube.com/watch?v=pWzWtqY1Ar4)
-- [Have You Ever Been Away](https://www.youtube.com/watch?v=JPBwzOCpz74)
-- [Woman In The Wall](https://www.youtube.com/watch?v=Ea_GmMMVbUk)
-- [Girlfriend](https://www.youtube.com/watch?v=im14_8uXhxM)
-- [Song For Whoever](https://www.youtube.com/watch?v=Jiags4WMI6k)
-- [The Beautiful South - Love Is](https://www.youtube.com/watch?v=atfQAIxY7w4)
-- [From Under The Covers](https://www.youtube.com/watch?v=zJAPvGHDHeI)
-- [Love Is](https://www.youtube.com/watch?v=nzHU2pCUA0c)
-- [The Beautiful South - I Love You But Youre Boring](https://www.youtube.com/watch?v=LhXRAHepS7Q)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +61,5 @@ The original album cover depicted two pictures by Jan Saudek, one of a woman wit
 | Format         | Vinyl LP Album Reissue (Fluffy toys cover) |
 | Label          | Go! Discs |
 | Catalog Number | 5743901 |
-| Notes | Comes with a download card. Matte sleeve. Picture/lyric inner sleeve. Package came shrink-wrapped.  Though labeled as ‚2017 Edition‘ it was released in January 2018.  Made in the EU Universal International Music B.V. |
+| Notes | Comes with a download card.<br>Matte sleeve.<br>Picture/lyric inner sleeve.<br>Package came shrink-wrapped.<br><br>Though labeled as ‚2017 Edition‘ it was released in January 2018.<br><br>Made in the EU<br>Universal International Music B.V. |
 | Discogs URL    | [The Beautiful South - Welcome To The Beautiful South](https://www.discogs.com/release/11493625-The-Beautiful-South-Welcome-To-The-Beautiful-South) |

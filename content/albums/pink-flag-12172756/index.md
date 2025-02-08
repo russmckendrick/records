@@ -4,6 +4,7 @@ artist_name: "Wire"
 artist: "wire"
 album_name: "Pink Flag"
 date: 2018-12-27T18:11:53.000000Z
+release_date: "1977-11-01"
 release_id: "12172756"
 slug: "pink-flag-12172756"
 hideSummary: true
@@ -26,62 +27,41 @@ styles: ["Punk", "New Wave"]
 Pink Flag is the debut album by the British post-punk band Wire. It was released in November 1977 through Harvest Records. The album was critically acclaimed on release, and has since been highly influential; today it is regarded as a landmark in the development of post-punk music.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Reuters
-2. Field Day For The Sundays
-3. Three Girl Rhumba
-4. Ex Lion Tamer
-5. Lowdown
-6. Start To Move
-7. Brazil
-8. It's So Obvious
-9. Surgeon's Girl
-10. Pink Flag
-11. The Commercial
-12. Straight Line
-13. 106 Beats That
-14. Mr. Suit
-15. Strange
-16. Fragile
-17. Mannequin
-18. Different To Me
-19. Champs
-20. Feeling Called Love
-21. 1 2 X U
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Reuters |  |
+| A2 | Field Day For The Sundays |  |
+| A3 | Three Girl Rhumba |  |
+| A4 | Ex Lion Tamer |  |
+| A5 | Lowdown |  |
+| A6 | Start To Move |  |
+| A7 | Brazil |  |
+| A8 | It's So Obvious |  |
+| A9 | Surgeon's Girl |  |
+| A10 | Pink Flag |  |
+| B1 | The Commercial |  |
+| B2 | Straight Line |  |
+| B3 | 106 Beats That |  |
+| B4 | Mr. Suit |  |
+| B5 | Strange |  |
+| B6 | Fragile |  |
+| B7 | Mannequin |  |
+| B8 | Different To Me |  |
+| B9 | Champs |  |
+| B10 | Feeling Called Love |  |
+| B11 | 1 2 X U |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pink-flag/1328682500" >}}<br>
 
 
-## Videos
-### Reuters 2006 Remastered Version
-{{< youtube id="JFm-U8WIrNg" title="Reuters 2006 Remastered Version" >}}<br>
-### More Videos
-
-- [Field Day for the Sundays 2006 Remastered Version](https://www.youtube.com/watch?v=bjGx8A3tXMw)
-- [Three Girl Rhumba 2006 Remastered Version](https://www.youtube.com/watch?v=ctpzzTR15yo)
-- [Ex Lion Tamer 2006 Remastered Version](https://www.youtube.com/watch?v=YOIBDZuetBY)
-- [Lowdown 2006 Remastered Version](https://www.youtube.com/watch?v=h8rcCH-CowY)
-- [Start to Move 2006 Remastered Version](https://www.youtube.com/watch?v=b5xZQ1yF8mw)
-- [Brazil 2006 Remastered Version](https://www.youtube.com/watch?v=DrcF_JcTT4Q)
-- [Its So Obvious 2006 Remastered Version](https://www.youtube.com/watch?v=2JowyQt2Uqk)
-- [Surgeons Girl 2006 Remastered Version](https://www.youtube.com/watch?v=0Zl5nFIA1NU)
-- [Pink Flag 2006 Remastered Version](https://www.youtube.com/watch?v=BgEYF8od2Ck)
-- [The Commercial 2006 Remastered Version](https://www.youtube.com/watch?v=2eAtwvBPiOA)
-- [Straight Line 2006 Remastered Version](https://www.youtube.com/watch?v=PVfq405-2i4)
-- [106 Beats That 2006 Remastered Version](https://www.youtube.com/watch?v=0QCk0f0NjJs)
-- [Mr Suit 2006 Remastered Version](https://www.youtube.com/watch?v=LPU8tS1uHl0)
-- [Strange 2006 Remastered Version](https://www.youtube.com/watch?v=Zv0fFtP6iIQ)
-- [Fragile 2006 Remastered Version](https://www.youtube.com/watch?v=fJoLkMAzq10)
-- [Mannequin 2006 Remastered Version](https://www.youtube.com/watch?v=I1ds5KfglWE)
-- [Different to Me 2006 Remastered Version](https://www.youtube.com/watch?v=tPjoWN0SCb0)
-- [Champs 2006 Remastered Version](https://www.youtube.com/watch?v=CtCRXhM7bwc)
-- [Feeling Called Love 2006 Remastered Version](https://www.youtube.com/watch?v=7Arpw8kEjhU)
-- [1 2 X U 2006 Remastered Version](https://www.youtube.com/watch?v=jOjCSLMZPok)
 
 ## Release Images
 {{< imageGrid >}}
@@ -93,5 +73,5 @@ Pink Flag is the debut album by the British post-punk band Wire. It was released
 | Format         | Vinyl LP Album Reissue Stereo |
 | Label          | Pinkflag |
 | Catalog Number | PF11LP |
-| Notes | Includes printed inner sleeve with lyrics.  Recorded at Advision Studios.  ℗ & © 2018 pinkflag   |
+| Notes | Includes printed inner sleeve with lyrics.<br><br>Recorded at Advision Studios.<br><br>℗ & © 2018 pinkflag<br><br> |
 | Discogs URL    | [Wire - Pink Flag](https://www.discogs.com/release/12172756-Wire-Pink-Flag) |

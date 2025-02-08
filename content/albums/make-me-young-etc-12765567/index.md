@@ -4,6 +4,7 @@ artist_name: "Thumpermonkey"
 artist: "thumpermonkey"
 album_name: "Make Me Young, Etc. "
 date: 2018-11-06T18:27:04.000000Z
+release_date: "2018-01-01"
 release_id: "12765567"
 slug: "make-me-young-etc-12765567"
 hideSummary: true
@@ -19,38 +20,26 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Veldt (5:23)
-2. Cranefly  (4:35)
-3. Figstorm  (5:08)
-4. Buttersun  (1:26)
-5. Deckchair For Your Ghost  (5:42)
-6. Make Me Young, Etc.  (10:46)
-7. Tempe Terra (5:19)
+| Position | Title | Duration |
+|----------|-------|----------|
+| 1 | Veldt | 5:23 |
+| 2 | Cranefly  | 4:35 |
+| 3 | Figstorm  | 5:08 |
+| 4 | Buttersun  | 1:26 |
+| 5 | Deckchair For Your Ghost  | 5:42 |
+| 6 | Make Me Young, Etc.  | 10:46 |
+| 7 | Tempe Terra | 5:19 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/make-me-young-etc/1575655883" >}}<br>
 
 
-## Videos
-### Make Me Young Etc
-{{< youtube id="yABAVfQMC-E" title="Make Me Young Etc" >}}<br>
-### More Videos
-
-- [Veldt](https://www.youtube.com/watch?v=ZEyDjgXHdRc)
-- [Cranefly](https://www.youtube.com/watch?v=OP6GrlDQfOw)
-- [Deckchair for Your Ghost](https://www.youtube.com/watch?v=XESW59P9kSU)
-- [Buttersun](https://www.youtube.com/watch?v=zEaWLPUhAiI)
-- [Figstorm](https://www.youtube.com/watch?v=bez5Jd96Xa4)
-- [Tempe Terra](https://www.youtube.com/watch?v=rtEqRFXhTBM)
-- [Make Me Young Etc](https://www.youtube.com/watch?v=yABAVfQMC-E)
-- [Veldt](https://www.youtube.com/watch?v=ZEyDjgXHdRc)
-- [Cranefly](https://www.youtube.com/watch?v=OP6GrlDQfOw)
-- [Deckchair for Your Ghost](https://www.youtube.com/watch?v=XESW59P9kSU)
-- [Buttersun](https://www.youtube.com/watch?v=zEaWLPUhAiI)
-- [Figstorm](https://www.youtube.com/watch?v=bez5Jd96Xa4)
-- [Tempe Terra](https://www.youtube.com/watch?v=rtEqRFXhTBM)
 
 ## Release Images
 {{< imageGrid >}}

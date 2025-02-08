@@ -4,6 +4,7 @@ artist_name: "Rusty Egan"
 artist: "rusty-egan"
 album_name: "Blitzed!"
 date: 2024-07-02T10:28:31.000000Z
+release_date: "2021-03-12"
 release_id: "31079972"
 slug: "blitzed-31079972"
 hideSummary: true
@@ -69,114 +70,55 @@ styles: ["Alternative Rock", "Art Rock", "Avantgarde", "Ballad", "Classic Rock",
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Being Boiled (Fast Product Version)
-2. Down In The Park
-3. Back To Nature
-4. New Girls/Neutrons
-5. Hot On The Heels Of Love
-6. Warm Leatherette
-7. Nag Nag Nag
-8. Burning Car
-9. Electricity (1980 Dindisc Version)
-10. R.E.R.B.
-11. Hiroshima Mon Amour
-12. Permafrost
-13. Put Your Love In Me
-14. Moon Over Moscow
-15. The Number One Song In Heaven (Long Version
-16. Makes You Blind
-17. 7 Teen
-18. Angel Eyes (Extended Remix)
-19. I Don't Depend On You
-20. Theme From 'The Warriors'
-21. Willie And The Hand Jive (12" Version)
-22. La Vie En Rose
-23. Schaufensterpuppen
-24. Passing Strangers
-25. Nightclubbing
-26. No G.D.M.
-27. Only After Dark
-28. Changeling
-29. Animation (Edit)
-30. Life In Tokyo (1979 Single Version)
-31. Follow Me
-32. To Cut A Long Story Short
-33. Bostich
-34. Chase (From 'Midnight Express' Soundtrack)
-35. Fade To Grey (1980 Dance Mix)
-36. Perfect Day
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Being Boiled (Fast Product Version) |  |
+| A2 | Down In The Park |  |
+| A3 | Back To Nature |  |
+| A4 | New Girls/Neutrons |  |
+| A5 | Hot On The Heels Of Love |  |
+| B1 | Warm Leatherette |  |
+| B2 | Nag Nag Nag |  |
+| B3 | Burning Car |  |
+| B4 | Electricity (1980 Dindisc Version) |  |
+| B5 | R.E.R.B. |  |
+| C1 | Hiroshima Mon Amour |  |
+| C2 | Permafrost |  |
+| C3 | Put Your Love In Me |  |
+| C4 | Moon Over Moscow |  |
+| D1 | The Number One Song In Heaven (Long Version |  |
+| D2 | Makes You Blind |  |
+| D3 | 7 Teen |  |
+| D4 | Angel Eyes (Extended Remix) |  |
+| E1 | I Don't Depend On You |  |
+| E2 | Theme From 'The Warriors' |  |
+| E3 | Willie And The Hand Jive (12" Version) |  |
+| E4 | La Vie En Rose |  |
+| F1 | Schaufensterpuppen |  |
+| F2 | Passing Strangers |  |
+| F3 | Nightclubbing |  |
+| F4 | No G.D.M. |  |
+| G1 | Only After Dark |  |
+| G2 | Changeling |  |
+| G3 | Animation (Edit) |  |
+| G4 | Life In Tokyo (1979 Single Version) |  |
+| G5 | Follow Me |  |
+| G6 | To Cut A Long Story Short |  |
+| H1 | Bostich |  |
+| H2 | Chase (From 'Midnight Express' Soundtrack) |  |
+| H3 | Fade To Grey (1980 Dance Mix) |  |
+| H4 | Perfect Day |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blitzed/1557605777" >}}<br>
 
 
-## Videos
-### Being Boiled Fast Version
-{{< youtube id="OUDEi-3o54A" title="Being Boiled Fast Version" >}}<br>
-### More Videos
-
-- [Down in the Park](https://www.youtube.com/watch?v=YHy9AySX9_g)
-- [Permafrost](https://www.youtube.com/watch?v=3SbOO03ed3s)
-- [Back to Nature](https://www.youtube.com/watch?v=8iKZ64DuAvU)
-- [Private Life](https://www.youtube.com/watch?v=f9HapsrDfWQ)
-- [Nightclubbing](https://www.youtube.com/watch?v=XOSajEshJWA)
-- [Warm Leatherette](https://www.youtube.com/watch?v=MgoqyjRXnh0)
-- [Hot on the Heels of Love](https://www.youtube.com/watch?v=JzuoJrNNxWs)
-- [Day Breaks Night Heals](https://www.youtube.com/watch?v=UUv0JNuMmgY)
-- [RERB](https://www.youtube.com/watch?v=axaBdowY-qU)
-- [Makes You Blind](https://www.youtube.com/watch?v=dW023gYJvsc)
-- [Burning Car](https://www.youtube.com/watch?v=dCUyfDlYOVo)
-- [Bostich Remastered 2005](https://www.youtube.com/watch?v=h9jzvsulep8)
-- [Thrash](https://www.youtube.com/watch?v=PStK7CDmIlw)
-- [Shadowplay](https://www.youtube.com/watch?v=jVMSfoPuSzY)
-- [Nag Nag Nag](https://www.youtube.com/watch?v=pWGZWYrR5Nw)
-- [Hiroshima Mon Amour](https://www.youtube.com/watch?v=XNVqdnwLC74)
-- [The Number One Song In Heaven](https://www.youtube.com/watch?v=jE4EarLZPYs)
-- [Electricity DinDisc 1980 Version  2003 Digital Remaster](https://www.youtube.com/watch?v=toRBdwhlMTY)
-- [Passing Strangers](https://www.youtube.com/watch?v=5f60yG-I84E)
-- [Kraftwerk - Radioactivity Edit](https://www.youtube.com/watch?v=we7hUJ8gZ78)
-- [The Man Who Sold the World](https://www.youtube.com/watch?v=vgnn-ozOT10)
-- [Im An Indian Too](https://www.youtube.com/watch?v=WVFyMAOROkA)
-- [Life in Tokyo](https://www.youtube.com/watch?v=O0x4XHdoQ9E)
-- [Heart Of Glass Disco Version](https://www.youtube.com/watch?v=pNeCMEESdn0)
-- [Follow Me](https://www.youtube.com/watch?v=pAZgncluGpI)
-- [Wunderbar](https://www.youtube.com/watch?v=sZzRccPPccQ)
-- [Broken Head](https://www.youtube.com/watch?v=ibwT4_siMww)
-- [Pop Muzik 12 Inch Version](https://www.youtube.com/watch?v=mr228fMpX98)
-- [Theme From The Warriors From The Warriors Soundtrack](https://www.youtube.com/watch?v=rGFXiaaxIYc)
-- [Angel Eyes Extended Remix](https://www.youtube.com/watch?v=ykWxzQ1RoI8)
-- [Dream Baby Dream Long Version](https://www.youtube.com/watch?v=1833FEJ8g2Q)
-- [La vie en rose Bonus  Short Version](https://www.youtube.com/watch?v=GN5WKOGL8tA)
-- [Hamburger Lady](https://www.youtube.com/watch?v=WiWGzn39v54)
-- [No Regrets](https://www.youtube.com/watch?v=NtpcwW4R8iQ)
-- [Put Your Love in Me 2011 Remaster](https://www.youtube.com/watch?v=jZ9J9vA1nAI)
-- [I Dont Depend On You 2003 Mix](https://www.youtube.com/watch?v=Xb8_Z-qdojo)
-- [Criminal World](https://www.youtube.com/watch?v=-nJL2eqIzF0)
-- [Spanish Moss - A Sound Portrait Storm](https://www.youtube.com/watch?v=GGiHIS8MS8k)
-- [Supernature Original Cerrone 12 Mix](https://www.youtube.com/watch?v=3viw7OsOqtc)
-- [French Boy](https://www.youtube.com/watch?v=fdK5nHNcXkA)
-- [Touch](https://www.youtube.com/watch?v=MYATBA6pQpM)
-- [Moon Over Moscow](https://www.youtube.com/watch?v=88TmdayeaEM)
-- [Schaufensterpuppen 2009 Remaster](https://www.youtube.com/watch?v=vUIK9syWWlo)
-- [Only After Dark](https://www.youtube.com/watch?v=-xHfNT8j89M)
-- [Japan](https://www.youtube.com/watch?v=xIcugcJ7_pI)
-- [Rheinita](https://www.youtube.com/watch?v=TgnCzVOwRtw)
-- [A Forest](https://www.youtube.com/watch?v=qh-jVXyn5CM)
-- [7 Teen](https://www.youtube.com/watch?v=8tXAww2gdqA)
-- [Ashes and Diamonds](https://www.youtube.com/watch?v=pYmslV33mCs)
-- [To Cut a Long Story Short](https://www.youtube.com/watch?v=rBrB6hv3Uh4)
-- [Moskow Diskow 2021 Remaster](https://www.youtube.com/watch?v=dzsX0G0fi3s)
-- [Mannequin](https://www.youtube.com/watch?v=PCrG5nlXJ4s)
-- [Heard It Through the Grapevine](https://www.youtube.com/watch?v=sB4pkPLfcMg)
-- [Animation 2003 Digital Remaster](https://www.youtube.com/watch?v=o8buLRPUFL4)
-- [Chase](https://www.youtube.com/watch?v=mpW3C_k0WMY)
-- [Rinder  Lewis - Willie And The Hand Jive 1979](https://www.youtube.com/watch?v=jdrvp5HMrEE)
-- [Fade To Grey 12 Version](https://www.youtube.com/watch?v=s1-K6551neA)
-- [No GDM](https://www.youtube.com/watch?v=6iGbQF0bgqg)
-- [Chung Kuo](https://www.youtube.com/watch?v=onJBJOkf9IM)
-- [Perfect Day](https://www.youtube.com/watch?v=V0--emrNth8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -187,5 +129,5 @@ styles: ["Alternative Rock", "Art Rock", "Avantgarde", "Ballad", "Classic Rock",
 | Format         | Vinyl 4× LP Compilation, Box Set |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX92 |
-| Notes | Compiled exhaustively from his DJ sets, 'Rusty Egan Presents The Blitz' brings together the sounds of a night at the club circa 1980 on either 66-track 4CD or 36-track 4LP sets.  Beautifully presented with contemporary photography from Sheila Rock, Peter Ashworth, and Terry Smith, the booklets contain sleeve notes from Alexis Petridis and Rusty himself.  [SLEEVE - front]: RUSTY EGAN BLITZED!  [SLEEVE - (STICKER) front]: RUSTY EGAN PRESENTS BLITZED! DEMRECBOX92  [SLEEVE - spine]: RUSTY EGAN PRESENTS BLITZED!     DEMRECBOX92  [SLEEVE - back]: DEMRECBOX92  This compilation ℗ & © 2024 Demon Music Group Limited Marketed by Demon Records, a division of the Demon Music Group Ltd, London, W12 7FA. The Demon Music Group is a BBC Studios company.  Manufactured in the EU. www.demonmusicgroup.co.uk  5 014 797 911208     DEMON RECORDS [logo]  [ERRATUM]: Track A4:  [r=391552], printed as New Girls/Neutrons Track E2  [m=110758], printed as Theme From 'The Warriors' |
+| Notes | Compiled exhaustively from his DJ sets, 'Rusty Egan Presents The Blitz' brings together the sounds of a night at the club circa 1980 on either 66-track 4CD or 36-track 4LP sets.  Beautifully presented with contemporary photography from Sheila Rock, Peter Ashworth, and Terry Smith, the booklets contain sleeve notes from Alexis Petridis and Rusty himself.<br><br>[SLEEVE - front]:<br>RUSTY EGAN<br>BLITZED!<br><br>[SLEEVE - (STICKER) front]:<br>RUSTY EGAN<br>PRESENTS<br>BLITZED!<br>DEMRECBOX92<br><br>[SLEEVE - spine]:<br>RUSTY EGAN PRESENTS BLITZED!     DEMRECBOX92<br><br>[SLEEVE - back]:<br>DEMRECBOX92<br><br>This compilation ℗ & © 2024 Demon Music Group Limited<br>Marketed by Demon Records, a division of the Demon Music Group Ltd, London, W12 7FA.<br>The Demon Music Group is a BBC Studios company.  Manufactured in the EU.<br>www.demonmusicgroup.co.uk<br><br>5 014 797 911208     DEMON RECORDS [logo]<br><br>[ERRATUM]:<br>Track A4:  [r=391552], printed as New Girls/Neutrons<br>Track E2  [m=110758], printed as Theme From 'The Warriors' |
 | Discogs URL    | [Rusty Egan - Blitzed!](https://www.discogs.com/release/31079972-Rusty-Egan-Blitzed) |

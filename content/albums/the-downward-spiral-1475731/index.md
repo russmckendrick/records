@@ -43,28 +43,27 @@ What emerged was a pattern of emotional whiplash: You feel like you can topple t
 
 
 ## Tracklisting
-1. Mr Self Destruct (4:32)
-2. Piggy (4:22)
-3. Heresy (3:54)
-4. March Of The Pigs (2:58)
-5. Closer (6:14)
-6. Ruiner (4:56)
-7. The Becoming (5:32)
-8. I Do Not Want This (5:41)
-9. Big Man With A Gun (1:36)
-10. A Warm Place (3:22)
-11. Eraser (5:51)
-12. Reptile (5:54)
-13. The Downward Spiral (3:57)
-14. Hurt (6:14)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mr Self Destruct | 4:32 |
+| A2 | Piggy | 4:22 |
+| A3 | Heresy | 3:54 |
+| A4 | March Of The Pigs | 2:58 |
+| B1 | Closer | 6:14 |
+| B2 | Ruiner | 4:56 |
+| B3 | The Becoming | 5:32 |
+| C1 | I Do Not Want This | 5:41 |
+| C2 | Big Man With A Gun | 1:36 |
+| C3 | A Warm Place | 3:22 |
+| C4 | Eraser | 5:51 |
+| D1 | Reptile | 5:54 |
+| D2 | The Downward Spiral | 3:57 |
+| D3 | Hurt | 6:14 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-downward-spiral/1440837096" >}}<br>
 
-
-## Videos
-### Nine Inch Nails - Closer Directors Cut
-{{< youtube id="PTFwQP86BRs" title="Nine Inch Nails - Closer Directors Cut" >}}<br>
 
 
 ## Release Images
@@ -77,5 +76,5 @@ What emerged was a pattern of emotional whiplash: You feel like you can topple t
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Interscope Records |
 | Catalog Number | B0011697-01 |
-| Notes | Comes in a gatefold sleeve with full colour printed inner sleeves, housed in a plastic wallet with Back To Black [url=https://img.discogs.com/A2aHt4qSFp2-PDQZC4dW2SKDY5k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1475731-1222631244.jpeg.jpg]hype sticker[/url] affixed: "[Back To Black logo] 60th Vinyl Anniversary Premium Audiophile Pressing On Heavyweight 180 Gram Vinyl In All Original Packaging! B2BSTK ST01"  Adrian Belew appears courtesy of [l=Caroline Records]. Stephen Perkins appears courtesy of [l=Warner Bros. Records Inc.] Nine Inch Nails live: Robin Finck, Danny Lohner, Chris Vrenna, James Wooley.  Studios: Le Pig of Beverly Hills, The Record Plant, A&M Studios. Mastering: Gateway Mastering, Portland, Maine.  Thankyou: Interscope, Jimmy Iovine; Silvia Garcia; Susie Tallman; Peter Christopherson; Rick Rubin; Missy Worth; Brian Warner and Marilyn Manson; Brian Liesegang; the temporarily displaced Richard Bugg; Coco-Puff; Scott Hasson, Mark Tindle, Mike Morongell, Shelly Yakus and A&M; Cally, Jamie Spencer, Marc Marot, Chris Blackwell and Island UK; Paul Connolly; Alex Kochan; Ian Flooks; Mark Blasquez; Sean Wihelmsen and Nadine's; Opcode Systems; Pat Stolpz, Martin Arthurs and Amek; Joseph Cultice; Handy Andy; Marina Chavez; Walter Cessna; Tina Montalbano; Carol Davis  We miss you Jeff Ward  ℗© 1994 Interscope Records All tracks ©1994 Leaving Hope Music, Inc./TGH Records, llc., ASCAP. All rights reserved, used by permission. |
+| Notes | Comes in a gatefold sleeve with full colour printed inner sleeves, housed in a plastic wallet with Back To Black [url=https://img.discogs.com/A2aHt4qSFp2-PDQZC4dW2SKDY5k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1475731-1222631244.jpeg.jpg]hype sticker[/url] affixed:<br>"[Back To Black logo]<br>60th Vinyl Anniversary<br>Premium Audiophile Pressing On Heavyweight 180 Gram Vinyl In All Original Packaging!<br>B2BSTK ST01"<br><br>Adrian Belew appears courtesy of [l=Caroline Records].<br>Stephen Perkins appears courtesy of [l=Warner Bros. Records Inc.]<br>Nine Inch Nails live: Robin Finck, Danny Lohner, Chris Vrenna, James Wooley.<br><br>Studios: Le Pig of Beverly Hills, The Record Plant, A&M Studios.<br>Mastering: Gateway Mastering, Portland, Maine.<br><br>Thankyou: Interscope, Jimmy Iovine; Silvia Garcia; Susie Tallman; Peter Christopherson; Rick Rubin; Missy Worth; Brian Warner and Marilyn Manson; Brian Liesegang; the temporarily displaced Richard Bugg; Coco-Puff; Scott Hasson, Mark Tindle, Mike Morongell, Shelly Yakus and A&M; Cally, Jamie Spencer, Marc Marot, Chris Blackwell and Island UK; Paul Connolly; Alex Kochan; Ian Flooks; Mark Blasquez; Sean Wihelmsen and Nadine's; Opcode Systems; Pat Stolpz, Martin Arthurs and Amek; Joseph Cultice; Handy Andy; Marina Chavez; Walter Cessna; Tina Montalbano; Carol Davis<br><br>We miss you Jeff Ward<br><br>℗© 1994 Interscope Records<br>All tracks ©1994 Leaving Hope Music, Inc./TGH Records, llc., ASCAP.<br>All rights reserved, used by permission. |
 | Discogs URL    | [Nine Inch Nails - The Downward Spiral](https://www.discogs.com/release/1475731-Nine-Inch-Nails-The-Downward-Spiral) |

@@ -49,26 +49,25 @@ And despite the confusion about <i>Born in the U.S.A.</i>’s title track, Sprin
 
 
 ## Tracklisting
-1. Born In The U.S.A. (4:39)
-2. Cover Me (3:26)
-3. Darlington County (4:48)
-4. Working On The Highway (3:11)
-5. Downbound Train (3:35)
-6. I'm On Fire (2:36)
-7. No Surrender (4:00)
-8. Bobby Jean (3:46)
-9. I'm Goin' Down (3:29)
-10. Glory Days (4:15)
-11. Dancing In The Dark (4:01)
-12. My Hometown (4:33)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Born In The U.S.A. | 4:39 |
+| A2 | Cover Me | 3:26 |
+| A3 | Darlington County | 4:48 |
+| A4 | Working On The Highway | 3:11 |
+| A5 | Downbound Train | 3:35 |
+| A6 | I'm On Fire | 2:36 |
+| B1 | No Surrender | 4:00 |
+| B2 | Bobby Jean | 3:46 |
+| B3 | I'm Goin' Down | 3:29 |
+| B4 | Glory Days | 4:15 |
+| B5 | Dancing In The Dark | 4:01 |
+| B6 | My Hometown | 4:33 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/born-in-the-u-s-a/203708420" >}}<br>
 
-
-## Videos
-### Bruce Springsteen - Born in the USA Official Video
-{{< youtube id="EPhWR4d3FJQ" title="Bruce Springsteen - Born in the USA Official Video" >}}<br>
 
 
 ## Release Images
@@ -81,5 +80,5 @@ And despite the confusion about <i>Born in the U.S.A.</i>’s title track, Sprin
 | Format         | Vinyl LP Album Stereo (Sunburst Label) |
 | Label          | CBS |
 | Catalog Number | CBS 86304 |
-| Notes | This album comes with printed inner sleeve with pics and credits, a lyrics sheet and an overview of Bruce Springsteen "All The Music".  Some copies come without the overview insert. Some copies have a sticker, there are at least 4 different possible stickers.  On back cover : © 1984 Bruce Springsteen / ℗ 1984 Bruce Springsteen Made in Holland. Distribution CBS Records / CBS Disques S.A.  On lyrics insert : All songs © 1984 Bruce Springsteen (ASCAP)  On inner sleeve (credits side) : © 1984 Bruce Springsteen 01-086304-20  On labels : ℗ 1984 Bruce Springsteen Made in Holland  Runouts description:  Everything is hand-etched except 'MASTERDISK' which is stamped On variant 7 (side A) 'C 01-86304-3A-1' is stamped |
+| Notes | This album comes with printed inner sleeve with pics and credits, a lyrics sheet and an overview of Bruce Springsteen "All The Music". <br>Some copies come without the overview insert.<br>Some copies have a sticker, there are at least 4 different possible stickers.<br><br>On back cover :<br>© 1984 Bruce Springsteen / ℗ 1984 Bruce Springsteen<br>Made in Holland. Distribution CBS Records / CBS Disques S.A.<br><br>On lyrics insert :<br>All songs © 1984 Bruce Springsteen (ASCAP)<br><br>On inner sleeve (credits side) :<br>© 1984 Bruce Springsteen 01-086304-20<br><br>On labels :<br>℗ 1984 Bruce Springsteen<br>Made in Holland<br><br>Runouts description: <br>Everything is hand-etched except 'MASTERDISK' which is stamped<br>On variant 7 (side A) 'C 01-86304-3A-1' is stamped |
 | Discogs URL    | [Bruce Springsteen - Born In The U.S.A.](https://www.discogs.com/release/1551256-Bruce-Springsteen-Born-In-The-USA) |

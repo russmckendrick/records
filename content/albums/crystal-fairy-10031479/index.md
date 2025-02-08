@@ -4,6 +4,7 @@ artist_name: "Crystal Fairy"
 artist: "crystal-fairy"
 album_name: "Crystal Fairy"
 date: 2017-04-11T17:18:59.000000Z
+release_date: "2024-03-10"
 release_id: "10031479"
 slug: "crystal-fairy-10031479"
 hideSummary: true
@@ -32,42 +33,31 @@ styles: []
 
 Crystal Fairy & The Magical Cactus (Crystal Fairy & The Magical Cactus and 2012 as presented onscreen) is a 2013 Chilean adventure comedy film written and directed by Sebastián Silva. The film stars Michael Cera and Gaby Hoffmann.
 At the film's Sundance premiere, Silva said that his film, which is based on a real-life encounter, is "about the birth of compassion in someone's life." The film received positive reviews from critics.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Chiseler
-2. Drugs On The Bus
-3. Necklace Of Divorce
-4. Moth Tongue
-5. Crystal Fairy
-6. Secret Agent Rat
-7. Under Trouble
-8. Bent Teeth
-9. Posesión
-10. Sweet Self
-11. Vampire X-Mass
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Chiseler |  |
+| A2 | Drugs On The Bus |  |
+| A3 | Necklace Of Divorce |  |
+| A4 | Moth Tongue |  |
+| A5 | Crystal Fairy |  |
+| B1 | Secret Agent Rat |  |
+| B2 | Under Trouble |  |
+| B3 | Bent Teeth |  |
+| B4 | Posesión |  |
+| B5 | Sweet Self |  |
+| B6 | Vampire X-Mass |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/crystal-fairy-single/1733973855" >}}<br>
 
 
-## Videos
-### Chiseler
-{{< youtube id="_VYnkOJrjUY" title="Chiseler" >}}<br>
-### More Videos
-
-- [Drugs on the Bus](https://www.youtube.com/watch?v=R-fofbwfsv8)
-- [Necklace of Divorce](https://www.youtube.com/watch?v=bCZf-ZNYnL8)
-- [Moth Tongue](https://www.youtube.com/watch?v=7nyhHmd5Yw4)
-- [Crystal Fairy](https://www.youtube.com/watch?v=MM-msTLNMHw)
-- [Secret Agent Rat](https://www.youtube.com/watch?v=6W3krnWvngE)
-- [Under Trouble](https://www.youtube.com/watch?v=YYEUdsFmhWw)
-- [Bent Teeth](https://www.youtube.com/watch?v=vRHrYhm_KO8)
-- [Posesión](https://www.youtube.com/watch?v=5KAcO6KIstA)
-- [Sweet Self](https://www.youtube.com/watch?v=hB1gJ1l6txQ)
-- [Vampire X-Mas](https://www.youtube.com/watch?v=RHGc0MvkSIE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +69,5 @@ At the film's Sundance premiere, Silva said that his film, which is based on a r
 | Format         | Vinyl LP Album Limited Edition (Lavender) |
 | Label          | Ipecac Recordings |
 | Catalog Number | IPC180 |
-| Notes | Limited edition on lavender vinyl. Housed in black plastic slip case with clear windows allowing parts of the album's cover to show through. Comes with fold out insert with lyrics and credits. Comes with digital download card. Black paper inner sleeve. Tracks are numbered 1-11. Special Thanks: Ipecac Records, Monica Seide, Robby Fraser (WME-US), Marlene Tsuchii (CAA-Intl.), DeeDee DeCou. Toshi Kasai's name is misspelled in the credits as "Toshi Kasi". |
+| Notes | Limited edition on lavender vinyl.<br>Housed in black plastic slip case with clear windows allowing parts of the album's cover to show through.<br>Comes with fold out insert with lyrics and credits.<br>Comes with digital download card.<br>Black paper inner sleeve.<br>Tracks are numbered 1-11.<br>Special Thanks:<br>Ipecac Records, Monica Seide, Robby Fraser (WME-US), Marlene Tsuchii (CAA-Intl.), DeeDee DeCou.<br>Toshi Kasai's name is misspelled in the credits as "Toshi Kasi". |
 | Discogs URL    | [Crystal Fairy - Crystal Fairy](https://www.discogs.com/release/10031479-Crystal-Fairy-Crystal-Fairy) |

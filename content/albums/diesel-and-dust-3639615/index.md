@@ -4,6 +4,7 @@ artist_name: "Midnight Oil"
 artist: "midnight-oil"
 album_name: "Diesel And Dust"
 date: 2016-01-07T16:18:51.000000Z
+release_date: "1988-03-01"
 release_id: "3639615"
 slug: "diesel-and-dust-3639615"
 hideSummary: true
@@ -24,34 +25,30 @@ Diesel and Dust is the sixth studio album by Australian rock band Midnight Oil, 
 Diesel and Dust has been critically lauded since its release. Rolling Stone editors named it the best album of 1988 (the year of its United States release), and later ranked it the 13th greatest record of the 1980s. In October 2010, Diesel and Dust was listed at number 1 in the book, 100 Best Australian Albums. In December 2021, the album was listed at no. 5 in Rolling Stone Australia's "200 Greatest Albums of All Time" countdown.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Beds Are Burning (4:14)
-2. Put Down That Weapon (4:38)
-3. Dreamworld (3:36)
-4. Arctic World (4:21)
-5. Warakurna (4:38)
-6. The Dead Heart (5:10)
-7. Whoah (3:51)
-8. Bullroarer (4:59)
-9. Sell My Soul (3:35)
-10. Sometimes (3:53)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Beds Are Burning | 4:14 |
+| A2 | Put Down That Weapon | 4:38 |
+| A3 | Dreamworld | 3:36 |
+| A4 | Arctic World | 4:21 |
+| A5 | Warakurna | 4:38 |
+| B1 | The Dead Heart | 5:10 |
+| B2 | Whoah | 3:51 |
+| B3 | Bullroarer | 4:59 |
+| B4 | Sell My Soul | 3:35 |
+| B5 | Sometimes | 3:53 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/diesel-and-dust/533502810" >}}<br>
 
 
-## Videos
-### Midnight Oil - Beds Are Burning
-{{< youtube id="ejorQVy3m8E" title="Midnight Oil - Beds Are Burning" >}}<br>
-### More Videos
-
-- [Midnight Oil - The Dead Heart](https://www.youtube.com/watch?v=16bFBzx7I_0)
-- [Midnight Oil - Put Down That Weapon](https://www.youtube.com/watch?v=XzEwCc4WVKs)
-- [Midnight Oil - Dreamworld](https://www.youtube.com/watch?v=OcKcjpSWmm0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +60,5 @@ Diesel and Dust has been critically lauded since its release. Rolling Stone edit
 | Format         | Vinyl LP Album Stereo (Red Label) |
 | Label          | CBS |
 | Catalog Number | 460005 1 |
-| Notes | Non-gatefold sleeve with generic inner sleeve.  Recorded at Albert Studios, Sydney, Australia.  ⓟ 1987 Midnight Oil  Shorepak by Shorewood Packaging Co. Ltd., England  Made in England. |
+| Notes | Non-gatefold sleeve with generic inner sleeve.<br><br>Recorded at Albert Studios, Sydney, Australia.<br><br>ⓟ 1987 Midnight Oil<br><br>Shorepak by Shorewood Packaging Co. Ltd., England<br><br>Made in England. |
 | Discogs URL    | [Midnight Oil - Diesel And Dust](https://www.discogs.com/release/3639615-Midnight-Oil-Diesel-And-Dust) |

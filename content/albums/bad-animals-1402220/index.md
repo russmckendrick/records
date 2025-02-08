@@ -4,6 +4,7 @@ artist_name: "Heart"
 artist: "heart"
 album_name: "Bad Animals"
 date: 2015-10-14T18:37:05.000000Z
+release_date: "1987-01-01"
 release_id: "1402220"
 slug: "bad-animals-1402220"
 hideSummary: true
@@ -28,35 +29,30 @@ The album features a few cover songs: "Alone" was originally recorded by the duo
 The album's title refers to the band members themselves: they would call themselves the bad animals due to the way they looked in hotel lobbies, disheveled with sunglasses, exhausted from touring.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Who Will You Run To (4:06)
-2. Alone (3:38)
-3. There's The Girl (3:51)
-4. I Want You So Bad (4:20)
-5. Wait For An Answer (4:29)
-6. Bad Animals (4:51)
-7. You Ain't So Tough (4:03)
-8. Strangers Of The Heart (3:39)
-9. Easy Target (3:56)
-10. RSVP (3:37)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Who Will You Run To | 4:06 |
+| A2 | Alone | 3:38 |
+| A3 | There's The Girl | 3:51 |
+| A4 | I Want You So Bad | 4:20 |
+| A5 | Wait For An Answer | 4:29 |
+| B1 | Bad Animals | 4:51 |
+| B2 | You Ain't So Tough | 4:03 |
+| B3 | Strangers Of The Heart | 3:39 |
+| B4 | Easy Target | 3:56 |
+| B5 | RSVP | 3:37 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bad-animals/724077331" >}}<br>
 
 
-## Videos
-### Heart - Bad Animals Cassette 1987
-{{< youtube id="8-ofSIiHzYs" title="Heart - Bad Animals Cassette 1987" >}}<br>
-### More Videos
-
-- [Heart - Bad Animals Cassette 1987 rock music heart badanimals cassette shorts retro](https://www.youtube.com/watch?v=3GpR_yYtYWw)
-- [LP  Heart  Bad Animals  1987](https://www.youtube.com/watch?v=hQUXiPmzPO0)
-- [Alone  Heart  Bad Animals  1987 Capitol LP](https://www.youtube.com/watch?v=3sqzLkVGdMc)
-- [Heart Bad Animals full album 1987](https://www.youtube.com/watch?v=-doxB3oSH0k)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +64,5 @@ The album's title refers to the band members themselves: they would call themsel
 | Format         | Vinyl LP Album Stereo |
 | Label          | Capitol Records |
 | Catalog Number | ESTU 2032 |
-| Notes | Issued with a custom printed inner sleeve containing lyrics, credits and images. "Sleeve printed in England. Manufactured in England." , on rear's left bottom. |
+| Notes | Issued with a custom printed inner sleeve containing lyrics, credits and images.<br>"Sleeve printed in England.<br>Manufactured in England." , on rear's left bottom. |
 | Discogs URL    | [Heart - Bad Animals](https://www.discogs.com/release/1402220-Heart-Bad-Animals) |

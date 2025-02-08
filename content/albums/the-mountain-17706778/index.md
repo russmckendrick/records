@@ -1,9 +1,10 @@
 ---
 title: "Haken - The Mountain"
 artist_name: "Haken"
-artist: "haken-2"
+artist: "haken"
 album_name: "The Mountain"
 date: 2021-03-06T11:31:19.000000Z
+release_date: "2013-09-17"
 release_id: "17706778"
 slug: "the-mountain-17706778"
 hideSummary: true
@@ -35,53 +36,42 @@ The Mountain was composed mainly of members of the middle class but represented 
 The Girondins were a moderate political faction created during the Legislative Assembly period. They were the political opponents of the more radical representatives within the Mountain. The Girondins had wanted to avoid the execution of Louis XVI and supported a constitution that would have allowed a popular vote to overturn legislation. The Mountain accused the Girondins of plotting against Paris because this caveat within the proposed constitution would have allowed rural areas of France to vote against legislation that benefits Paris, the main constituency of the Mountain; however, the real discord in the Convention occurred not between the Mountain and the Gironde but between the aggressive antics of the minority of the Mountain and the rest of the Convention.
 The Mountain was not unified as a party and relied on leaders like Robespierre, Danton, and Jacques Hébert, who themselves came to represent different factions. Hébert, a journalist, gained a following as a radical patriot Montagnard (members who identified with him became known as the Hébertists) while Danton led a more moderate faction of the Mountain (followers came to be known as Dantonists). Regardless of the divisions, the nightly sessions of the Jacobin club, which met in the rue Saint-Honoré, can be considered to be a type of caucus for the Mountain. In June 1793, the Mountain successfully ousted most of the moderate Gironde members of the Convention with the assistance of radical sans-culottes.
 Following their coup, the Mountain, led by Hérault de Séchelles, quickly began construction on a new constitution which was completed eight days later. The Committee of Public Safety reported the constitution to the Convention on 10 June and a final draft was adopted on 24 June. The process occurred quickly because as Robespierre, a prominent member of the Mountain, announced on 10 June the "good citizens demanded a constitution" and the "Constitution will be the reply of patriotic deputies, for it is the work of the Mountain". This constitution was never actually enacted, and the French Constitution of 1793 was also delayed due to the situation in the war and the Thermidorian Reaction that purged much of the government, and was eventually abandoned.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Path
-2. Atlas Stone
-3. Cockroach King
-4. In Memorian
-5. Because It's There
-6. Falling Back To Earth
-7. As Death Embraces
-8. Pareidolia
-9. Somebody
-10. The Path Unbeaten
-11. Nobody
-12. The Path (2:47)
-13. Atlas Stone (7:34)
-14. Cockroach King (8:15)
-15. In Memorian (4:17)
-16. Because It's There (4:24)
-17. Falling Back To Earth (11:51)
-18. As Death Embraces (3:13)
-19. Pareidolia (10:51)
-20. Somebody (9:01)
-21. The Path Unbeaten (2:12)
-22. Nobody (4:53)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Path |  |
+| A2 | Atlas Stone |  |
+| A3 | Cockroach King |  |
+| B1 | In Memorian |  |
+| B2 | Because It's There |  |
+| B3 | Falling Back To Earth |  |
+| C1 | As Death Embraces |  |
+| C2 | Pareidolia |  |
+| D1 | Somebody |  |
+| D2 | The Path Unbeaten |  |
+| D3 | Nobody |  |
+| CD-1 | The Path | 2:47 |
+| CD-2 | Atlas Stone | 7:34 |
+| CD-3 | Cockroach King | 8:15 |
+| CD-4 | In Memorian | 4:17 |
+| CD-5 | Because It's There | 4:24 |
+| CD-6 | Falling Back To Earth | 11:51 |
+| CD-7 | As Death Embraces | 3:13 |
+| CD-8 | Pareidolia | 10:51 |
+| CD-9 | Somebody | 9:01 |
+| CD-10 | The Path Unbeaten | 2:12 |
+| CD-11 | Nobody | 4:53 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-mountain/1045392645" >}}<br>
 
 
-## Videos
-### The Path
-{{< youtube id="RvzL2FoF5W8" title="The Path" >}}<br>
-### More Videos
-
-- [Atlas Stone](https://www.youtube.com/watch?v=JUK4CMh4Feg)
-- [Cockroach King](https://www.youtube.com/watch?v=mwcA2xuKtts)
-- [In Memoriam](https://www.youtube.com/watch?v=-xgE_g0PJ-s)
-- [Because Its There](https://www.youtube.com/watch?v=3u4d7k3nMXA)
-- [Falling Back To Earth](https://www.youtube.com/watch?v=52ALziuI-AY)
-- [As Death Embraces](https://www.youtube.com/watch?v=FHNbW3I-lug)
-- [Pareidolia](https://www.youtube.com/watch?v=-AbGjGpJPO0)
-- [Somebody](https://www.youtube.com/watch?v=kLIyBYQkr3w)
-- [The Path Unbeaten](https://www.youtube.com/watch?v=N8naO6HASm0)
-- [Nobody](https://www.youtube.com/watch?v=bVmucEX4DZQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -93,5 +83,5 @@ Following their coup, the Mountain, led by Hérault de Séchelles, quickly began
 | Format         | Vinyl 2× LP Album Stereo (180 Gram), CD Album Stereo, All Media Reissue Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 578 |
-| Notes | Tracks D2, D3, CD-10 and CD-11 are bonus tracks.  Packaged in a gatefold jacket with 4-page color insert, black polylined LP sleeves and hype sticker affixed to the shrink wrap on the front. CD is packaged inside in an envelope-style polypropylene sleeve. |
+| Notes | Tracks D2, D3, CD-10 and CD-11 are bonus tracks.<br><br>Packaged in a gatefold jacket with 4-page color insert, black polylined LP sleeves and hype sticker affixed to the shrink wrap on the front. CD is packaged inside in an envelope-style polypropylene sleeve. |
 | Discogs URL    | [Haken - The Mountain](https://www.discogs.com/release/17706778-Haken-2-The-Mountain) |

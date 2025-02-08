@@ -35,32 +35,22 @@ A vinyl edition was also sold from the official site. In December 2014, Yorke re
 
 
 ## Tracklisting
-1. A Brain In A Bottle
-2. Guess Again!
-3. Interference
-4. The Mother Lode
-5. Truth Ray
-6. There Is No Ice (For My Drink)
-7. Pink Section
-8. Nose Grows Some
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | A Brain In A Bottle |  |
+| A2 | Guess Again! |  |
+| A3 | Interference |  |
+| A4 | The Mother Lode |  |
+| B1 | Truth Ray |  |
+| B2 | There Is No Ice (For My Drink) |  |
+| B3 | Pink Section |  |
+| B4 | Nose Grows Some |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tomorrows-modern-boxes/1262568019" >}}<br>
 
 
-## Videos
-### YouWouldntLikeMeWhenImAngry
-{{< youtube id="IQbl8kleYUQ" title="YouWouldntLikeMeWhenImAngry" >}}<br>
-### More Videos
-
-- [A Brain in a Bottle](https://www.youtube.com/watch?v=mgxJlmdvr9A)
-- [Guess Again](https://www.youtube.com/watch?v=Q_L5aaSH3P4)
-- [Interference](https://www.youtube.com/watch?v=jrnK67JPES8)
-- [The Mother Lode](https://www.youtube.com/watch?v=kZo9bY9C-Fw)
-- [Truth Ray](https://www.youtube.com/watch?v=_TZkKx7Rrhc)
-- [There Is No Ice For My Drink](https://www.youtube.com/watch?v=4hRQNHVCtwk)
-- [Pink Section](https://www.youtube.com/watch?v=KmlywjM3JdI)
-- [Nose Grows Some](https://www.youtube.com/watch?v=pMxcgw1_Ejg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +62,5 @@ A vinyl edition was also sold from the official site. In December 2014, Yorke re
 | Format         | Vinyl LP Album Reissue (White, 180g) |
 | Label          | XL Recordings |
 | Catalog Number | XLLP866 |
-| Notes | High gloss sleeve with a white border around the artwork front and back. Printed inner sleeve, also gloss, with undersized centre holes die cut, made from thick gauge cardstock. Opaque white heavyweight vinyl with undersized labels. There is an 8cm square download voucher, printed on both sides, (sleeve art on one side, redemption instructions at WASTE headquarters on the other). Package came shrink-wrapped.  Durations are not shown on the release. Side B ends in a locked groove.  2014 Unsustainabubble Ltd. Made in the EU |
+| Notes | High gloss sleeve with a white border around the artwork front and back.<br>Printed inner sleeve, also gloss, with undersized centre holes die cut, made from thick gauge cardstock.<br>Opaque white heavyweight vinyl with undersized labels.<br>There is an 8cm square download voucher, printed on both sides, (sleeve art on one side, redemption instructions at WASTE headquarters on the other).<br>Package came shrink-wrapped.<br><br>Durations are not shown on the release.<br>Side B ends in a locked groove.<br><br>2014 Unsustainabubble Ltd.<br>Made in the EU |
 | Discogs URL    | [Thom Yorke - Tomorrow's Modern Boxes](https://www.discogs.com/release/11242541-Thom-Yorke-Tomorrows-Modern-Boxes) |

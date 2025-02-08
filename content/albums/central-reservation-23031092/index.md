@@ -32,38 +32,26 @@ Orton's second album forsakes the trip-hop of her debut for more robust textures
 
 
 ## Tracklisting
-1. Stolen Car
-2. Sweetest Decline
-3. Couldn't Cause Me Harm
-4. So Much More
-5. Pass In Time
-6. Central Reservation
-7. Stars All Seem To Weep
-8. Love Like Laughter
-9. Blood Red River
-10. Devil Song
-11. Feel To Believe
-12. Central Reservation (The Then Again Version)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Stolen Car |  |
+| A2 | Sweetest Decline |  |
+| A3 | Couldn't Cause Me Harm |  |
+| B1 | So Much More |  |
+| B2 | Pass In Time |  |
+| B3 | Central Reservation |  |
+| C1 | Stars All Seem To Weep |  |
+| C2 | Love Like Laughter |  |
+| C3 | Blood Red River |  |
+| D1 | Devil Song |  |
+| D2 | Feel To Believe |  |
+| D3 | Central Reservation (The Then Again Version) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/central-reservation/281790109" >}}<br>
 
 
-## Videos
-### Beth Orton - Central reservation Ben Watt Mix HQ
-{{< youtube id="JICwG2AGhZg" title="Beth Orton - Central reservation Ben Watt Mix HQ" >}}<br>
-### More Videos
-
-- [Beth Orton Central Reservation](https://www.youtube.com/watch?v=vHqB8xuNfB8)
-- [Beth Orton Central Reservation Original Version](https://www.youtube.com/watch?v=7hrWbUKpQmA)
-- [Beth Orton Stars All Seem To Weep](https://www.youtube.com/watch?v=TSGmahdU890)
-- [Beth Orton - Central Reservation - 07 - Stars All Seem To Weep](https://www.youtube.com/watch?v=ntr5FGZejK4)
-- [Beth Orton - So Much More](https://www.youtube.com/watch?v=6h5OkCHsFuI)
-- [Central Reservation The Then Again Version](https://www.youtube.com/watch?v=WF2qiMDif1Q)
-- [Beth Orton - Central Reservation](https://www.youtube.com/watch?v=Th3gkE_sP9k)
-- [Beth Orton - Stolen Car](https://www.youtube.com/watch?v=uJ35dnfYKrQ)
-- [Precious Maybe  Beth Orton](https://www.youtube.com/watch?v=Asbh1Arz5FM)
-- [Precious Maybe 2008 Remastered Version](https://www.youtube.com/watch?v=wK_jBepeifE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +63,5 @@ Orton's second album forsakes the trip-hop of her debut for more robust textures
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue (Red [Pillar Box]) |
 | Label          | Sony Music |
 | Catalog Number | 19439 95678 1 |
-| Notes | Released for Record Store Day 2022 on Pillar Box Red Vinyl   |
+| Notes | Released for Record Store Day 2022 on Pillar Box Red Vinyl<br><br> |
 | Discogs URL    | [Beth Orton - Central Reservation](https://www.discogs.com/release/23031092-Beth-Orton-Central-Reservation) |

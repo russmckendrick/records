@@ -4,6 +4,7 @@ artist_name: "Marillion"
 artist: "marillion"
 album_name: "Clutching At Straws"
 date: 2018-12-01T18:09:11.000000Z
+release_date: "1987-06-12"
 release_id: "12802669"
 slug: "clutching-at-straws-12802669"
 hideSummary: true
@@ -50,50 +51,50 @@ Although Clutching at Straws did not achieve the sales of its predecessor, the n
 The album has received critical acclaim, being listed in Q magazine's "50 Best Recordings of the Year", it has been described by AllMusic as an "unheralded masterpiece", and Rolling Stone placed it at number 37 in its countdown of the "50 Greatest Prog Rock Albums of All Time". Prog Magazine rated it #47 on their "100 Greatest Prog Albums of all Time." In 1999, a 2-CD 'Remastered Version' with additional B-sides and demos was released, including detailed liner notes from all of the original members including Fish.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Clutching At Straws (2018 Andy Bradfield & Avril Mackintosh Re-Mix)
-2. Hotel Hobbies (3:35)
-3. Warm Wet Circles (4:25)
-4. That Time Of The Night (The Short Straw) (6:00)
-5. Going Under (Alternate Version) (2:47)
-6. Just For The Record (3:10)
-7. White Russian (6:25)
-8. Incommunicado (5:17)
-9. Torch Song (4:04)
-10. Slàinte Mhath (4:45)
-11. Sugar Mice (5:46)
-12. The Last Straw / Happy Ending (6:00)
-13. Live At The Edinburgh Playhouse 19th December 1987 (2018 Michael Hunter Mix)
-14. La Gazza Ladra (2:46)
-15. Slàinte Mhath (5:03)
-16. Assassing (6:47)
-17. White Russian (6:25)
-18. Incubus (10:36)
-19. Sugar Mice (6:14)
-20. Fugazi (9:57)
-21. Hotel Hobbies (4:04)
-22. Warm Wet Circles (4:17)
-23. That Time Of The Night (The Short Straw) (6:00)
-24. Pseudo Silk Kimono (Intro) (1:06)
-25. Kayleigh (3:48)
-26. Lavender (2:34)
-27. Bitter Suite (8:21)
-28. Heart Of Lothian (7:23)
-29. The Last Straw (7:16)
-30. Incommunicado (5:00)
-31. Garden Party (6:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Clutching At Straws (2018 Andy Bradfield & Avril Mackintosh Re-Mix) |  |
+| A1 | Hotel Hobbies | 3:35 |
+| A2 | Warm Wet Circles | 4:25 |
+| A3 | That Time Of The Night (The Short Straw) | 6:00 |
+| B1 | Going Under (Alternate Version) | 2:47 |
+| B2 | Just For The Record | 3:10 |
+| B3 | White Russian | 6:25 |
+| C1 | Incommunicado | 5:17 |
+| C2 | Torch Song | 4:04 |
+| C3 | Slàinte Mhath | 4:45 |
+| D1 | Sugar Mice | 5:46 |
+| D2 | The Last Straw / Happy Ending | 6:00 |
+|  | Live At The Edinburgh Playhouse 19th December 1987 (2018 Michael Hunter Mix) |  |
+| E1 | La Gazza Ladra | 2:46 |
+| E2 | Slàinte Mhath | 5:03 |
+| E3 | Assassing | 6:47 |
+| F1 | White Russian | 6:25 |
+| F2 | Incubus | 10:36 |
+| F3 | Sugar Mice | 6:14 |
+| G1 | Fugazi | 9:57 |
+| H1 | Hotel Hobbies | 4:04 |
+| H2 | Warm Wet Circles | 4:17 |
+| H3 | That Time Of The Night (The Short Straw) | 6:00 |
+| I1 | Pseudo Silk Kimono (Intro) | 1:06 |
+| I2 | Kayleigh | 3:48 |
+| I3 | Lavender | 2:34 |
+| I4 | Bitter Suite | 8:21 |
+| I5 | Heart Of Lothian | 7:23 |
+| J1 | The Last Straw | 7:16 |
+| J2 | Incommunicado | 5:00 |
+| J3 | Garden Party | 6:26 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/clutching-at-straws/693411248" >}}<br>
 
-
-## Videos
-### Marillion - White Russian Clutching At Straws UK  Europe 1987 CD
-{{< youtube id="5fFY1V7uY5I" title="Marillion - White Russian Clutching At Straws UK  Europe 1987 CD" >}}<br>
 
 
 ## Release Images
@@ -106,5 +107,5 @@ The album has received critical acclaim, being listed in Q magazine's "50 Best R
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl 3× LP, Box Set Deluxe Edition Limited Edition Stereo (180 Gram) |
 | Label          | Parlophone |
 | Catalog Number | 0190295605179 |
-| Notes | ALBUM INFORMATION: This is the vinyl box set version of a brand new (2018) Stereo Remix of Marillion's 1987 album Clutching At Straws.  LPs one and two feature a brand new stereo remix of the album by Andy Bradfield & Avril Mackintosh. LPs three, four and five contain Marillion’s December 19th, 1987 concert at The Edinburgh Playhouse, remixed by Michael Hunter.  Presented in a two piece, lift-off lid type box. Both the lid and base section are textured and have a matte finish. Printed black inside. The lid has text to two edges. Each LP is in a top opening picture inner sleeve of matte card. There is a twenty-four page full sized booklet. An 8cm square hype sticker is applied to the shrink-wrap.  ℗ 2018 this compilation Parlophone Records Ltd.  © 2018 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved. © 2018 Parlophone Records Ltd. A Warner Music Group Company.  All runouts are etched.  |
+| Notes | ALBUM INFORMATION:<br>This is the vinyl box set version of a brand new (2018) Stereo Remix of Marillion's 1987 album Clutching At Straws.<br><br>LPs one and two feature a brand new stereo remix of the album by Andy Bradfield & Avril Mackintosh.<br>LPs three, four and five contain Marillion’s December 19th, 1987 concert at The Edinburgh Playhouse, remixed by Michael Hunter.<br><br>Presented in a two piece, lift-off lid type box. Both the lid and base section are textured and have a matte finish. Printed black inside. The lid has text to two edges.<br>Each LP is in a top opening picture inner sleeve of matte card.<br>There is a twenty-four page full sized booklet.<br>An 8cm square hype sticker is applied to the shrink-wrap.<br><br>℗ 2018 this compilation Parlophone Records Ltd. <br>© 2018 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved. © 2018 Parlophone Records Ltd. A Warner Music Group Company.<br><br>All runouts are etched.  |
 | Discogs URL    | [Marillion - Clutching At Straws](https://www.discogs.com/release/12802669-Marillion-Clutching-At-Straws) |

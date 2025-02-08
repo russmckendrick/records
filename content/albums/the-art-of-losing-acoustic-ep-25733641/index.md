@@ -4,6 +4,7 @@ artist_name: "The Anchoress"
 artist: "the-anchoress"
 album_name: "The Art of Losing - Acoustic EP"
 date: 2023-01-13T05:13:29.000000Z
+release_date: ""
 release_id: "25733641"
 slug: "the-art-of-losing-acoustic-ep-25733641"
 hideSummary: true
@@ -18,16 +19,23 @@ styles: ["Acoustic", "Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Show Your Face ( Piano Version ) (3:12)
-2. Let It Hurt ( String Quartet Version ) (3:37)
-3. All Farewells Should Be Sudden ( Acoustic Version ) (4:56)
-4. The Art Of Losing ( Acoustic Lounge Version ) (3:23)
-5. The Exchange ( Solo Piano Version ) (3:32)
-6. Let It Hurt ( French Version ) ( Bonus Track ) (3:35)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Show Your Face ( Piano Version ) | 3:12 |
+| A2 | Let It Hurt ( String Quartet Version ) | 3:37 |
+| A3 | All Farewells Should Be Sudden ( Acoustic Version ) | 4:56 |
+| B1 | The Art Of Losing ( Acoustic Lounge Version ) | 3:23 |
+| B2 | The Exchange ( Solo Piano Version ) | 3:32 |
+| B3 | Let It Hurt ( French Version ) ( Bonus Track ) | 3:35 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 

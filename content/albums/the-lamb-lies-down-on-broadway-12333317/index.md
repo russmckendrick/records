@@ -4,6 +4,7 @@ artist_name: "Genesis"
 artist: "genesis"
 album_name: "The Lamb Lies Down On Broadway"
 date: 2018-08-03T18:44:32.000000Z
+release_date: "2023-08-03"
 release_id: "12333317"
 slug: "the-lamb-lies-down-on-broadway-12333317"
 hideSummary: true
@@ -28,67 +29,43 @@ The Lamb Lies Down on Broadway echoed the format of Genesis's debut album From G
 The album received mixed reviews at first, and was the first Genesis album which failed to outsell its predecessors, but gained acclaim in subsequent years and has a cult following. "Counting Out Time" and "The Carpet Crawlers" were released as singles in the UK in 1974 and 1975; both failed to chart. A single of "The Lamb Lies Down on Broadway" was released in the US. Genesis promoted the album with their 1974–75 tour across North America and Europe, playing the album in its entirety. The album reached Gold certification in the UK and the US. The album was remastered in 1994 and 2007, the latter as part of the Genesis 1970–1975 box set which contains a 5.1 surround sound mix and bonus material.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Lamb Lies Down On Broadway
-2. Fly On A Windshield
-3. Broadway Melody Of 1974
-4. Cuckoo Cocoon
-5. In The Cage
-6. The Grand Parade Of Lifeless Packaging
-7. Back In N.Y.C.
-8. Hairless Heart
-9. Counting Out Time
-10. Carpet Crawlers
-11. The Chamber Of 32 Doors
-12. Lilywhite Lilith
-13. The Waiting Room
-14. Anyway
-15. Here Comes The Supernatural Anaesthetist
-16. The Lamia
-17. Silent Sorrow In Empty Boats
-18. The Colony Of Slipperman
-19. Ravine
-20. The Light Dies Down On Broadway
-21. Riding The Scree
-22. In The Rapids
-23. It
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Lamb Lies Down On Broadway |  |
+| A2 | Fly On A Windshield |  |
+| A3 | Broadway Melody Of 1974 |  |
+| A4 | Cuckoo Cocoon |  |
+| A5 | In The Cage |  |
+| A6 | The Grand Parade Of Lifeless Packaging |  |
+| B1 | Back In N.Y.C. |  |
+| B2 | Hairless Heart |  |
+| B3 | Counting Out Time |  |
+| B4 | Carpet Crawlers |  |
+| B5 | The Chamber Of 32 Doors |  |
+| C1 | Lilywhite Lilith |  |
+| C2 | The Waiting Room |  |
+| C3 | Anyway |  |
+| C4 | Here Comes The Supernatural Anaesthetist |  |
+| C5 | The Lamia |  |
+| C6 | Silent Sorrow In Empty Boats |  |
+|  | The Colony Of Slipperman |  |
+| D2 | Ravine |  |
+| D3 | The Light Dies Down On Broadway |  |
+| D4 | Riding The Scree |  |
+| D5 | In The Rapids |  |
+| D6 | It |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-re-invention-of-the-lamb-lies-down-on-broadway/1699101080" >}}<br>
 
 
-## Videos
-### Genesis - The Lamb Lies Down On Broadway Official Audio
-{{< youtube id="hioAbdhfN_w" title="Genesis - The Lamb Lies Down On Broadway Official Audio" >}}<br>
-### More Videos
-
-- [Genesis - Fly On A Windshield Official Audio](https://www.youtube.com/watch?v=G3cnH_kvt58)
-- [Genesis - Broadway Melody Of 1974 Official Audio](https://www.youtube.com/watch?v=uBHYnovb14g)
-- [Genesis - Cuckoo Cocoon Official Audio](https://www.youtube.com/watch?v=GdNZWaG4eaI)
-- [Genesis - In The Cage Official Audio](https://www.youtube.com/watch?v=6X57rw5cw3M)
-- [Genesis - The Grand Parade Of Lifeless Packaging Official Audio](https://www.youtube.com/watch?v=bXTb2dNMurQ)
-- [Genesis - Back In NYC Official Audio](https://www.youtube.com/watch?v=AH24Ms4NyTY)
-- [Genesis - Hairless Heart Official Audio](https://www.youtube.com/watch?v=8SG6snW7mRk)
-- [Genesis - Counting Out Time Official Audio](https://www.youtube.com/watch?v=Z9CMOMgPb00)
-- [Genesis - Carpet Crawlers Official Audio](https://www.youtube.com/watch?v=BN1pIzq3PQI)
-- [Genesis - The Chamber Of 32 Doors Official Audio](https://www.youtube.com/watch?v=8yO91-fEa4k)
-- [Genesis - Lilywhite Lilith Official Audio](https://www.youtube.com/watch?v=3vUfDsYLcpo)
-- [Genesis - The Waiting Room Official Audio](https://www.youtube.com/watch?v=24wXJ6e4Ll0)
-- [Genesis - Anyway Official Audio](https://www.youtube.com/watch?v=BLz356JIBcM)
-- [Genesis - Here Comes The Supernatural Anaesthetist Official Audio](https://www.youtube.com/watch?v=GowZdTaKLL8)
-- [Genesis - The Lamia Official Audio](https://www.youtube.com/watch?v=mBuVlOVJUYI)
-- [Genesis - Silent Sorrow In Empty Boats Official Audio](https://www.youtube.com/watch?v=dOMGiwtovi4)
-- [Genesis - The Colony Of Slippermen Official Audio](https://www.youtube.com/watch?v=cMOX_HtBLDI)
-- [Genesis - Ravine Official Audio](https://www.youtube.com/watch?v=xbfuOZqqopo)
-- [Genesis - The Light Dies Down On Broadway Official Audio](https://www.youtube.com/watch?v=gUom79Jo3As)
-- [Genesis - Riding The Scree Official Audio](https://www.youtube.com/watch?v=3XL8RXG-QeE)
-- [Genesis - In The Rapids Official Audio](https://www.youtube.com/watch?v=koxbP5LIJTU)
-- [Genesis - It Official Audio](https://www.youtube.com/watch?v=RUHnazM8-Xg)
-- [Genesis - The Lamb Lies Down On Broadway Official Audio](https://www.youtube.com/watch?v=hioAbdhfN_w)
 
 ## Release Images
 {{< imageGrid >}}
@@ -100,5 +77,5 @@ The album received mixed reviews at first, and was the first Genesis album which
 | Format         | Vinyl 2× LP Album Mispress Reissue Stereo Mono (Gatefold, 180 Gram) |
 | Label          | Charisma |
 | Catalog Number | 602567489856 |
-| Notes | Record one mistakenly cut in mono. Recut to correct this for [r16285764] - which otherwise features identical packaging and labels.  Printed on center label of record one: "6478992 Record One" Printed on center label of record two: "6749005 Record One" Both called "Record One" while other releases distinguish between "Record One" and "Record Two" correctly.  ⓟ & ⓒ 2018 Anthony Banks Ltd., Philip Collins Ltd., Real World Ltd.,Stephen Hackett Music Ltd., Michael Rutherford Ltd., under exclusive licence to Virgin Records Ltd Universal International Music B.V. Gerrit, van der Veenlaan 4, 3743 DN, Baarn, Netherlands.  Comes with download code.  Made in the Eu |
+| Notes | Record one mistakenly cut in mono. Recut to correct this for [r16285764] - which otherwise features identical packaging and labels.<br><br>Printed on center label of record one: "6478992 Record One"<br>Printed on center label of record two: "6749005 Record One"<br>Both called "Record One" while other releases distinguish between "Record One" and "Record Two" correctly.<br><br>ⓟ & ⓒ 2018 Anthony Banks Ltd., Philip Collins Ltd., Real World Ltd.,Stephen Hackett Music Ltd., Michael Rutherford Ltd., under exclusive licence to Virgin Records Ltd Universal International Music B.V. Gerrit, van der Veenlaan 4, 3743 DN, Baarn, Netherlands.<br><br>Comes with download code.<br><br>Made in the Eu |
 | Discogs URL    | [Genesis - The Lamb Lies Down On Broadway](https://www.discogs.com/release/12333317-Genesis-The-Lamb-Lies-Down-On-Broadway) |

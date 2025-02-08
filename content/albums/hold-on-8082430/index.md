@@ -30,45 +30,24 @@ With <i>Hold On!</i>, James Hunter proves that vintage-sounding soul can still b
 
 
 ## Tracklisting
-1. If That Don't Tell You
-2. This Is Where We Came In
-3. (Baby) Hold On
-4. Something's Calling
-5. A Truer Heart
-6. Free Your Mind (While You Still Got Time)
-7. Light Of My Life
-8. Stranded
-9. Satchel Foot
-10. In The Dark
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | If That Don't Tell You |  |
+| A2 | This Is Where We Came In |  |
+| A3 | (Baby) Hold On |  |
+| A4 | Something's Calling |  |
+| A5 | A Truer Heart |  |
+| B1 | Free Your Mind (While You Still Got Time) |  |
+| B2 | Light Of My Life |  |
+| B3 | Stranded |  |
+| B4 | Satchel Foot |  |
+| B5 | In The Dark |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hold-on/1485062879" >}}<br>
 
 
-## Videos
-### The James Hunter 6 If That Dont Tell You  Live Studio Session
-{{< youtube id="xuAVRW-jjWI" title="The James Hunter 6 If That Dont Tell You  Live Studio Session" >}}<br>
-### More Videos
-
-- [James Hunter  -  This Is Where We Came In](https://www.youtube.com/watch?v=MF72ahNIlfs)
-- [The James Hunter Six Baby Hold On OFFICIAL VIDEO](https://www.youtube.com/watch?v=4TebRF1hjR0)
-- [The James Hunter Six Somethings Calling OFFICIAL VIDEO](https://www.youtube.com/watch?v=H8nWrGos_0o)
-- [James Hunter Six  A Truer Heart](https://www.youtube.com/watch?v=bO2jPJwX__A)
-- [The James Hunter Six - Free Your Mind While You Still Got Time ΗD](https://www.youtube.com/watch?v=jRGSX9GQgc4)
-- [Light of My Life](https://www.youtube.com/watch?v=eOxA5DXpVio)
-- [James Hunter - Stranded](https://www.youtube.com/watch?v=eiTQIecIwMQ)
-- [The James Hunter 6 Sachelfoot  Live Studio Session](https://www.youtube.com/watch?v=kRgOiRxhqWE)
-- [In the Dark](https://www.youtube.com/watch?v=ggoc_1a2XAs)
-- [The James Hunter 6 If That Dont Tell You  Live Studio Session](https://www.youtube.com/watch?v=xuAVRW-jjWI)
-- [James Hunter  -  This Is Where We Came In](https://www.youtube.com/watch?v=MF72ahNIlfs)
-- [The James Hunter Six Baby Hold On OFFICIAL VIDEO](https://www.youtube.com/watch?v=4TebRF1hjR0)
-- [The James Hunter Six Somethings Calling OFFICIAL VIDEO](https://www.youtube.com/watch?v=H8nWrGos_0o)
-- [James Hunter Six  A Truer Heart](https://www.youtube.com/watch?v=bO2jPJwX__A)
-- [The James Hunter Six - Free Your Mind While You Still Got Time ΗD](https://www.youtube.com/watch?v=jRGSX9GQgc4)
-- [Light of My Life](https://www.youtube.com/watch?v=eOxA5DXpVio)
-- [James Hunter - Stranded](https://www.youtube.com/watch?v=eiTQIecIwMQ)
-- [The James Hunter 6 Sachelfoot  Live Studio Session](https://www.youtube.com/watch?v=kRgOiRxhqWE)
-- [In the Dark](https://www.youtube.com/watch?v=ggoc_1a2XAs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +58,5 @@ With <i>Hold On!</i>, James Hunter proves that vintage-sounding soul can still b
 | Format         | Vinyl LP Album Mono |
 | Label          | Daptone Records |
 | Catalog Number | DAP-040 |
-| Notes | Mono (monaural) pressing. Includes download card. © 2016 DAPTONE RECORDS  Published by Stoketone Publishing, BMI.  Recorded to 8-tracks at Penrose Recorders - - Daptone West, Riverside, CA.  Another Bosco Mann production.  Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206  Sleeve notes: Sam Boncon, WHIT  Durations not listed on release.   Glossy cover with generic with inner sleeve  Hype sticker on shrink wrap |
+| Notes | Mono (monaural) pressing. Includes download card.<br>© 2016 DAPTONE RECORDS<br><br>Published by Stoketone Publishing, BMI.<br><br>Recorded to 8-tracks at Penrose Recorders - - Daptone West, Riverside, CA.<br><br>Another Bosco Mann production.<br><br>Daptone Recording Co., 115 Troutman St., Brooklyn, NY 11206<br><br>Sleeve notes: Sam Boncon, WHIT<br><br>Durations not listed on release. <br><br>Glossy cover with generic with inner sleeve<br><br>Hype sticker on shrink wrap |
 | Discogs URL    | [The James Hunter Six - Hold On!](https://www.discogs.com/release/8082430-The-James-Hunter-Six-Hold-On) |

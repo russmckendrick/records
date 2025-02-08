@@ -4,6 +4,7 @@ artist_name: "Marillion"
 artist: "marillion"
 album_name: "Seasons End (Deluxe Edition)"
 date: 2023-05-19T11:05:57.000000Z
+release_date: "1989-09-25"
 release_id: "26861306"
 slug: "seasons-end-deluxe-edition-26861306"
 hideSummary: true
@@ -25,39 +26,41 @@ styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. 2023 Remix
-2. The King Of Sunset Town
-3. Easter
-4. The Uninvited Guest
-5. Seasons End
-6. Holloway Girl
-7. Berlin
-8. After Me
-9. Hooks In You
-10. The Space...
-11. Live At The De Montfort Hall 29th May 2022
-12. The King Of Sunset Town
-13. Easter
-14. The Uninvited Guest
-15. Seasons End
-16. Holloway Girl
-17. Berlin
-18. After Me
-19. The Release
-20. Hooks In You
-21. The Space...
-22. Gaza
-23. The Leavers
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | 2023 Remix |  |
+| A1 | The King Of Sunset Town |  |
+| A2 | Easter |  |
+| B1 | The Uninvited Guest |  |
+| B2 | Seasons End |  |
+| C1 | Holloway Girl |  |
+| C2 | Berlin |  |
+| D1 | After Me |  |
+| D2 | Hooks In You |  |
+| D3 | The Space... |  |
+|  | Live At The De Montfort Hall 29th May 2022 |  |
+| E1 | The King Of Sunset Town |  |
+| E2 | Easter |  |
+| F1 | The Uninvited Guest |  |
+| F2 | Seasons End |  |
+| G1 | Holloway Girl |  |
+| G2 | Berlin |  |
+| H1 | After Me |  |
+| H2 | The Release |  |
+| H3 | Hooks In You |  |
+| H4 | The Space... |  |
+| I | Gaza |  |
+| J | The Leavers |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/seasons-end-2023-remix-deluxe-edition/1678317041" >}}<br>
 
-
-## Videos
-### Marillion - Seasons End Screen Media
-{{< youtube id="rdUGyZEyGz0" title="Marillion - Seasons End Screen Media" >}}<br>
 
 
 ## Release Images
@@ -69,5 +72,5 @@ styles: ["Prog Rock", "Pop Rock", "Symphonic Rock"]
 | Format         | Vinyl 2× LP Album Reissue (2023 Remix), Vinyl 3× LP, All Media Deluxe Edition Limited Edition |
 | Label          | Parlophone |
 | Catalog Number | 5054197381768 |
-| Notes | First 4000 orders across all formats at Marillion's online store include a hand signed A4 artwork print.  |
+| Notes | First 4000 orders across all formats at Marillion's online store include a hand signed A4 artwork print.<br> |
 | Discogs URL    | [Marillion - Seasons End (Deluxe Edition)](https://www.discogs.com/release/26861306-Marillion-Seasons-End-Deluxe-Edition) |

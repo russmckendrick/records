@@ -4,6 +4,7 @@ artist_name: "World Party"
 artist: "world-party"
 album_name: "Egyptology"
 date: 2022-11-02T03:25:00.000000Z
+release_date: "1997-06-17"
 release_id: "25017913"
 slug: "egyptology-25017913"
 hideSummary: true
@@ -37,47 +38,40 @@ Egyptology is the fourth studio album by World Party released in 1997, re-releas
 I was so lucky that Robbie recorded "She's the One" because it allowed me to keep going [after Wallinger's aneurysm in 2000]. He nicked my pig and killed it but gave me enough bacon to live on for four years. He kept my kids in school and me in Seaview [Wallinger's recording studio] and for that I thank him.
 
 Due in part to the disagreement over "She's the One", Egyptology would be Wallinger's last album with Chrysalis; his 2000 album Dumbing Up was released on his own label.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. It Is Time (3:20)
-2. Beautiful Dream (4:43)
-3. Call Me Up (2:56)
-4. Vanity Fair (3:32)
-5. She's The One (4:55)
-6. (Vocal Interlude) (0:24)
-7. Curse Of The Mummy's Tomb (5:56)
-8. Hercules (3:13)
-9. Love Is Best (3:03)
-10. Rolling Off A Log (5:55)
-11. Strange Groove (4:08)
-12. The Whole Of The Night (4:22)
-13. Piece Of Mind (4:56)
-14. This World (4:18)
-15. Always (4:18)
-16. It Is Time (Live) (4:01)
-17. Beautiful Dream (Live) (4:00)
-18. Rolling Off A Log (Live) (6:01)
-19. Hercules (Live) (4:58)
-20. Vanity Fair (Live) (3:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | It Is Time | 3:20 |
+| A2 | Beautiful Dream | 4:43 |
+| A3 | Call Me Up | 2:56 |
+| A4 | Vanity Fair | 3:32 |
+| A5 | She's The One | 4:55 |
+| B1 | (Vocal Interlude) | 0:24 |
+| B2 | Curse Of The Mummy's Tomb | 5:56 |
+| B3 | Hercules | 3:13 |
+| B4 | Love Is Best | 3:03 |
+| B5 | Rolling Off A Log | 5:55 |
+| C1 | Strange Groove | 4:08 |
+| C2 | The Whole Of The Night | 4:22 |
+| C3 | Piece Of Mind | 4:56 |
+| C4 | This World | 4:18 |
+| C5 | Always | 4:18 |
+| D1 | It Is Time (Live) | 4:01 |
+| D2 | Beautiful Dream (Live) | 4:00 |
+| D3 | Rolling Off A Log (Live) | 6:01 |
+| D4 | Hercules (Live) | 4:58 |
+| D5 | Vanity Fair (Live) | 3:26 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/egyptology/710934487" >}}<br>
 
 
-## Videos
-### WORLD PARTY -- SHES THE ONE
-{{< youtube id="nfElyXo8krs" title="WORLD PARTY -- SHES THE ONE" >}}<br>
-### More Videos
-
-- [World Party - Beautiful Dream](https://www.youtube.com/watch?v=KFmqSRyM2M8)
-- [World Party - Curse Of The Mummys Tomb](https://www.youtube.com/watch?v=dJ6c14oaZLY)
-- [World Party - Love Is Best](https://www.youtube.com/watch?v=C7iaPiFfL0g)
-- [World Party - Call Me Up](https://www.youtube.com/watch?v=4QG4kn1OWb4)
-- [World Party - Shes The One](https://www.youtube.com/watch?v=MtUqyAvhXLM)
-- [WORLD PARTY -- SHES THE ONE](https://www.youtube.com/watch?v=nfElyXo8krs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -89,5 +83,5 @@ Due in part to the disagreement over "She's the One", Egyptology would be Wallin
 | Format         | Vinyl 2× LP Album Reissue (Gatefold) |
 | Label          | Seaview Records Ltd. |
 | Catalog Number | seaview 4VC |
-| Notes | Side D recorded live in New York City, 1997  Released in a gatefold sleeve with 2 lyric inners  Shrink has the barcode stickered on sleeve reverse, underneath is a second barcode 859523001182 (which is the barcode for the blue & gold version [r=25146241])  Made in Czech Republic  Mixed in a bucket with a big stick.  Recorded at Seaview Studios, London, England, between 1993 and 1997.  Runouts etched except GZ Media numbers and Ⓜ are stamped. |
+| Notes | Side D recorded live in New York City, 1997<br><br>Released in a gatefold sleeve with 2 lyric inners<br><br>Shrink has the barcode stickered on sleeve reverse, underneath is a second barcode 859523001182 (which is the barcode for the blue & gold version [r=25146241])<br><br>Made in Czech Republic<br><br>Mixed in a bucket with a big stick.<br><br>Recorded at Seaview Studios, London, England, between 1993 and 1997.<br><br>Runouts etched except GZ Media numbers and Ⓜ are stamped. |
 | Discogs URL    | [World Party - Egyptology](https://www.discogs.com/release/25017913-World-Party-Egyptology) |

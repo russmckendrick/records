@@ -4,6 +4,7 @@ artist_name: "BadBadNotGood"
 artist: "badbadnotgood"
 album_name: "IV"
 date: 2017-06-25T14:04:53.000000Z
+release_date: "2017-07-14"
 release_id: "8716935"
 slug: "iv-8716935"
 hideSummary: true
@@ -32,43 +33,31 @@ IV is the fourth studio album from Canadian jazz instrumental hip hop band BadBa
 It is also the band's first album to feature longtime touring partner and collaborator Leland Whitty as a formal member of the band.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. And That, Too.
-2. Speaking Gently 
-3. Time Moves Slow
-4. Confessions Pt. II
-5. Lavender
-6. Chompy's Paradise
-7. IV
-8. Hyssop of Love
-9. Structure No. 3
-10. In Your Eyes
-11. Cashmere
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | And That, Too. |  |
+| A2 | Speaking Gently  |  |
+| A3 | Time Moves Slow |  |
+| B1 | Confessions Pt. II |  |
+| B2 | Lavender |  |
+| B3 | Chompy's Paradise |  |
+| C1 | IV |  |
+| C2 | Hyssop of Love |  |
+| C3 | Structure No. 3 |  |
+| D1 | In Your Eyes |  |
+| D2 | Cashmere |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/late-night-tales-badbadnotgood/1236718852" >}}<br>
 
 
-## Videos
-### BADBADNOTGOOD - IV LP Full Album Stream
-{{< youtube id="lstVQxf0p3Y" title="BADBADNOTGOOD - IV LP Full Album Stream" >}}<br>
-### More Videos
-
-- [BADBADNOTGOOD - Speaking Gently Official Stream](https://www.youtube.com/watch?v=fafBo42s_Ss)
-- [BADBADNOTGOOD - In Your Eyes Feat Charlotte Day Wilson Official Stream](https://www.youtube.com/watch?v=-PCauQozne0)
-- [BADBADNOTGOOD Lavender Feat Kaytranada Official Stream](https://www.youtube.com/watch?v=WpFGIFqVdG4)
-- [BADBADNOTGOOD - IV LP Full Album Stream](https://www.youtube.com/watch?v=lstVQxf0p3Y)
-- [BADBADNOTGOOD - Speaking Gently Official Stream](https://www.youtube.com/watch?v=fafBo42s_Ss)
-- [BADBADNOTGOOD - In Your Eyes Feat Charlotte Day Wilson Official Stream](https://www.youtube.com/watch?v=-PCauQozne0)
-- [BADBADNOTGOOD Lavender Feat Kaytranada Official Stream](https://www.youtube.com/watch?v=WpFGIFqVdG4)
-- [BADBADNOTGOOD - Speaking Gently Official Stream](https://www.youtube.com/watch?v=fafBo42s_Ss)
-- [BADBADNOTGOOD - Time Moves Slow feat Sam Herring](https://www.youtube.com/watch?v=UWIIPX_5rbM)
-- [BADBADNOTGOOD -  Hyssop of Love featuring Mick Jenkins](https://www.youtube.com/watch?v=t4cI5zNfNb0)
-- [BADBADNOTGOOD - Up IV Bonus Track - Japan Edition](https://www.youtube.com/watch?v=VwVX172N3OQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +69,5 @@ It is also the band's first album to feature longtime touring partner and collab
 | Format         | Vinyl 2× LP Album Stereo |
 | Label          | Innovative Leisure Records |
 | Catalog Number | IL 2034 |
-| Notes | Gatefold cover. Blue front cover, yellow back cover, inside image is of the band with coconut tree in background.  |
+| Notes | Gatefold cover.<br>Blue front cover, yellow back cover, inside image is of the band with coconut tree in background.<br> |
 | Discogs URL    | [BadBadNotGood - IV](https://www.discogs.com/release/8716935-BadBadNotGood-IV) |

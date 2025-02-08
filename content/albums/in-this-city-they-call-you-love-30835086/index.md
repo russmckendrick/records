@@ -4,6 +4,7 @@ artist_name: "Richard Hawley"
 artist: "richard-hawley"
 album_name: "In This City They Call You Love"
 date: 2024-06-05T11:26:05.000000Z
+release_date: "2024-05-31"
 release_id: "30835086"
 slug: "in-this-city-they-call-you-love-30835086"
 hideSummary: true
@@ -28,43 +29,32 @@ styles: []
 ---
 
 In This City They Call You Love is the tenth studio album by English singer-songwriter Richard Hawley, released on 31 May 2024 through BMG Rights Management. The album was preceded by the release of the singles "Two for His Heels", "Heavy Rain" and "Prism in Jeans". It received positive reviews from critics.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Two For His Heels
-2. Have Love
-3. Prism In Jeans
-4. Heavy Rain	
-5. People
-6. Hear That Lonesome Whistle Blow	
-7. Deep Space
-8. Deep Waters
-9. I'll Never Get Over You
-10. Do I Really Need To Know?
-11. When The Lights Go Out
-12. 'Tis Night
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Two For His Heels |  |
+| A2 | Have Love |  |
+| A3 | Prism In Jeans |  |
+| A4 | Heavy Rain	 |  |
+| A5 | People |  |
+| A6 | Hear That Lonesome Whistle Blow	 |  |
+| B1 | Deep Space |  |
+| B2 | Deep Waters |  |
+| B3 | I'll Never Get Over You |  |
+| B4 | Do I Really Need To Know? |  |
+| B5 | When The Lights Go Out |  |
+| B6 | 'Tis Night |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-this-city-they-call-you-love/1728688441" >}}<br>
 
 
-## Videos
-### Richard Hawley - Two for His Heels Official Lyric Video
-{{< youtube id="3YJpqWHL03g" title="Richard Hawley - Two for His Heels Official Lyric Video" >}}<br>
-### More Videos
-
-- [Have Love](https://www.youtube.com/watch?v=kS_srI-uawA)
-- [Richard Hawley - Prism In Jeans Official Video](https://www.youtube.com/watch?v=5Wy94YjI820)
-- [Richard Hawley - Heavy Rain Official Lyric Video](https://www.youtube.com/watch?v=r0JtGjQhEi4)
-- [People](https://www.youtube.com/watch?v=wxxOgXg9wbA)
-- [Hear That Lonesome Whistle Blow](https://www.youtube.com/watch?v=K7oggXASJwQ)
-- [Deep Space](https://www.youtube.com/watch?v=cO5IEOOMeDg)
-- [Deep Waters](https://www.youtube.com/watch?v=BVAc9EHxr8o)
-- [Ill Never Get Over You](https://www.youtube.com/watch?v=YIi7IX9Y7Ss)
-- [When the Lights Go Out](https://www.youtube.com/watch?v=AAX_jtUjSG4)
-- [Tis Night](https://www.youtube.com/watch?v=R4nqsiz1RXE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +66,5 @@ In This City They Call You Love is the tenth studio album by English singer-song
 | Format         | Vinyl LP Album Limited Edition (Blue) |
 | Label          | BMG |
 | Catalog Number | 964028791 |
-| Notes | Photos shot at Moore Street Electricity Substation, Sheffield  ℗&© 2024 BMG Rights Management (UK) Limited. Manufactured in Germany.  300 copies of this release were retailed by Assai Records with an approved hand-numbered signed Obi under Assai Obi Editions.  Runouts are etched.  |
+| Notes | Photos shot at Moore Street Electricity Substation, Sheffield<br><br>℗&© 2024 BMG Rights Management (UK) Limited.<br>Manufactured in Germany.<br><br>300 copies of this release were retailed by Assai Records with an approved hand-numbered signed Obi under Assai Obi Editions.<br><br>Runouts are etched.<br> |
 | Discogs URL    | [Richard Hawley - In This City They Call You Love](https://www.discogs.com/release/30835086-Richard-Hawley-In-This-City-They-Call-You-Love) |

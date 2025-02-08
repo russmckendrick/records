@@ -4,6 +4,7 @@ artist_name: "Pink Floyd"
 artist: "pink-floyd"
 album_name: "The Wall For Chamber Orchestra"
 date: 2022-06-30T04:58:14.000000Z
+release_date: "2017-01-20"
 release_id: "13569554"
 slug: "the-wall-for-chamber-orchestra-13569554"
 hideSummary: true
@@ -21,27 +22,32 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. In The Flesh
-2. Another Brick In The Wall Pt.III
-3. Mother
-4. Another Brick In The Wall Pt.II
-5. Young Lust
-6. One Of My Turns
-7. Another Brick In The Wall Pt.I
-8. Hey You
-9. Comfortably Numb
-10. Is There Anybody Out There 
-11. Nobody Home
-12. Run Like Hell
-13. Waiting For The Worms
-14. The Trial
-15. Outside The Wall
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | In The Flesh |  |
+| A2 | Another Brick In The Wall Pt.III |  |
+| A3 | Mother |  |
+| A4 | Another Brick In The Wall Pt.II |  |
+| A5 | Young Lust |  |
+| A6 | One Of My Turns |  |
+| A7 | Another Brick In The Wall Pt.I |  |
+| A8 | Hey You |  |
+| B1 | Comfortably Numb |  |
+| B2 | Is There Anybody Out There  |  |
+| B3 | Nobody Home |  |
+| B4 | Run Like Hell |  |
+| B5 | Waiting For The Worms |  |
+| B6 | The Trial |  |
+| B7 | Outside The Wall |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/easy-contest-solos-vol-1-trombone/1187447336" >}}<br>
-
 
 
 

@@ -4,6 +4,7 @@ artist_name: "Yes"
 artist: "yes"
 album_name: "Yessingles"
 date: 2023-10-15T05:12:30.000000Z
+release_date: "2023-10-06"
 release_id: "28595224"
 slug: "yessingles-28595224"
 hideSummary: true
@@ -26,38 +27,32 @@ styles: ["Prog Rock"]
 Yessingles is a compilation album by British progressive rock band Yes, released by record label Rhino on 6 October 2023. It compiles rare single versions of 12 of the band's biggest hits between 1970 and 1983 in chronological order, and is notable for being the first time the promo radio edit of "And You and I" was released digitally, being the lead single in promotion of the record.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Your Move
-2. Starship Trooper: Life Seeker
-3. Roundabout
-4. America
-5. And You And I (Part I)
-6. Soon
-7. Sound Chaser
-8. Wonderous Stories
-9. Don't Kill The Whale
-10. Into The Lens
-11. Owner Of A Lonely Heart
-12. Leave It (Single Remix)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Your Move |  |
+| A2 | Starship Trooper: Life Seeker |  |
+| A3 | Roundabout |  |
+| A4 | America |  |
+| A5 | And You And I (Part I) |  |
+| A6 | Soon |  |
+| B1 | Sound Chaser |  |
+| B2 | Wonderous Stories |  |
+| B3 | Don't Kill The Whale |  |
+| B4 | Into The Lens |  |
+| B5 | Owner Of A Lonely Heart |  |
+| B6 | Leave It (Single Remix) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/yessingles/1703229873" >}}<br>
 
 
-## Videos
-### Your Move
-{{< youtube id="-Xa0np9vxO8" title="Your Move" >}}<br>
-### More Videos
-
-- [And You and I Part I Promo Radio Edit](https://www.youtube.com/watch?v=IM-0J04t4ac)
-- [Sound Chaser Single Edit](https://www.youtube.com/watch?v=L5Kqt0XznuI)
-- [Starship Trooper Life Seeker](https://www.youtube.com/watch?v=VzwsRljUyIk)
-- [Dont Kill the Whale 2007 Remaster](https://www.youtube.com/watch?v=k8WKYJBrgJ4)
-- [Leave It Single Remix](https://www.youtube.com/watch?v=uYSOuWsjj_s)
 
 ## Release Images
 {{< imageGrid >}}

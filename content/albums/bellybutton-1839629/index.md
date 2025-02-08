@@ -1,9 +1,10 @@
 ---
 title: "Jellyfish - Bellybutton"
 artist_name: "Jellyfish"
-artist: "jellyfish-2"
+artist: "jellyfish"
 album_name: "Bellybutton"
 date: 2016-02-11T19:06:02.000000Z
+release_date: "1990-07-27"
 release_id: "1839629"
 slug: "bellybutton-1839629"
 hideSummary: true
@@ -26,25 +27,28 @@ Bellybutton is the debut album by American rock band Jellyfish, released on July
 Bellybutton was released to critical acclaim and peaked at No. 124 on US charts. "Baby's Coming Back" was covered by the British band McFly in 2007 which reached No. 1 on the UK Singles Chart. An expanded deluxe edition was released by Omnivore Recordings in 2015.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Man I Used To Be
-2. That Is Why
-3. The King Is Half-Undressed
-4. I Wanna Stay Home
-5. She Still Loves Him
-6. All I Want Is Everything
-7. Now She Knows She's Wrong
-8. Bedspring Kiss
-9. Baby's Coming Back
-10. Calling Sarah
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Man I Used To Be |  |
+| A2 | That Is Why |  |
+| A3 | The King Is Half-Undressed |  |
+| A4 | I Wanna Stay Home |  |
+| A5 | She Still Loves Him |  |
+| B1 | All I Want Is Everything |  |
+| B2 | Now She Knows She's Wrong |  |
+| B3 | Bedspring Kiss |  |
+| B4 | Baby's Coming Back |  |
+| B5 | Calling Sarah |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bellybutton/723693536" >}}<br>
-
 
 
 
@@ -58,5 +62,5 @@ Bellybutton was released to critical acclaim and peaked at No. 124 on US charts.
 | Format         | Vinyl LP Album Stereo |
 | Label          | Charisma |
 | Catalog Number | CUSLP3 |
-| Notes | This pressing: Record labels are black on the left hand side [JELLYFISH BELLYBUTTON] and dark green on the right [track titles].  In gloss finish sleeve with b/w printed inner bag.  Track 3 appears as Bed Spring Kiss on the label. Roger Joseph Manning Jr.'s publishing company Little Green Appletoons absent from the credits on this release. |
+| Notes | This pressing: Record labels are black on the left hand side [JELLYFISH BELLYBUTTON] and dark green on the right [track titles].<br><br>In gloss finish sleeve with b/w printed inner bag.<br><br>Track 3 appears as Bed Spring Kiss on the label. Roger Joseph Manning Jr.'s publishing company Little Green Appletoons absent from the credits on this release. |
 | Discogs URL    | [Jellyfish - Bellybutton](https://www.discogs.com/release/1839629-Jellyfish-2-Bellybutton) |

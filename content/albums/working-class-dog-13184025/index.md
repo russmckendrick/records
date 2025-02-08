@@ -4,6 +4,7 @@ artist_name: "Rick Springfield"
 artist: "rick-springfield"
 album_name: "Working Class Dog"
 date: 2020-01-30T18:34:56.000000Z
+release_date: "1981"
 release_id: "13184025"
 slug: "working-class-dog-13184025"
 hideSummary: true
@@ -23,36 +24,30 @@ styles: []
 
 Working Class Dog is the fifth studio album by Australian rock musician Rick Springfield, released by RCA Records in 1981. The album was certified Platinum in the United States and eventually sold over three million US copies.  It produced Springfield's biggest career hit with the #1 million-selling song, "Jessie's Girl".  Springfield was awarded the 1982 Grammy Award for Best Rock Vocal Performance, Male.
 The album was re-released on CD in 2006 as a "25th anniversary edition" with three bonus tracks.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Love Is Alright Tonite (3:28)
-2. Jessie's Girl (3:14)
-3. Hole In My Heart (3:12)
-4. Carry Me Away (3:01)
-5. I've Done Everything For You (3:17)
-6. The Light Of Love (2:43)
-7. Everybody's Girl (2:59)
-8. Daddy's Pearl (2:37)
-9. Red Hot & Blue Love (2:57)
-10. Inside Silvia (4:43)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Love Is Alright Tonite | 3:28 |
+| A2 | Jessie's Girl | 3:14 |
+| A3 | Hole In My Heart | 3:12 |
+| A4 | Carry Me Away | 3:01 |
+| A5 | I've Done Everything For You | 3:17 |
+| B1 | The Light Of Love | 2:43 |
+| B2 | Everybody's Girl | 2:59 |
+| B3 | Daddy's Pearl | 2:37 |
+| B4 | Red Hot & Blue Love | 2:57 |
+| B5 | Inside Silvia | 4:43 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/working-class-dog/270571529" >}}<br>
 
 
-## Videos
-### Rick Springfield - Jessies Girl
-{{< youtube id="qYkbTyHXwbs" title="Rick Springfield - Jessies Girl" >}}<br>
-### More Videos
-
-- [Rick Springfield - Ive Done Everything For You](https://www.youtube.com/watch?v=h0zwYNPPD2g)
-- [Rick Springfield - Love Is Alright Tonite](https://www.youtube.com/watch?v=yWEzf-mska4)
-- [Rick Springfield - Carry Me Away](https://www.youtube.com/watch?v=l_zTiqAFRl0)
-- [Rick Springfield - Hole In My Heart](https://www.youtube.com/watch?v=L91VibZWTlM)
-- [Rick Springfield Everybodys Girl](https://www.youtube.com/watch?v=YV_O-_LAQj8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +59,5 @@ The album was re-released on CD in 2006 as a "25th anniversary edition" with thr
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Black & White Swirled) |
 | Label          | RCA Victor |
 | Catalog Number | MOVLP1655 |
-| Notes | 180 gram audiophile vinyl Includes insert Limited edition of 1.000 numbered copies on coloured (black & white swirled) vinyl |
+| Notes | 180 gram audiophile vinyl<br>Includes insert<br>Limited edition of 1.000 numbered copies on coloured (black & white swirled) vinyl |
 | Discogs URL    | [Rick Springfield - Working Class Dog](https://www.discogs.com/release/13184025-Rick-Springfield-Working-Class-Dog) |

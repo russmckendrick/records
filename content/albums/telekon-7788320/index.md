@@ -4,6 +4,7 @@ artist_name: "Gary Numan"
 artist: "gary-numan"
 album_name: "Telekon"
 date: 2016-12-15T19:37:07.000000Z
+release_date: "1980-09-05"
 release_id: "7788320"
 slug: "telekon-7788320"
 hideSummary: true
@@ -24,50 +25,38 @@ styles: ["New Wave", "Synth-pop"]
 Telekon is the second solo studio album by the English new wave musician Gary Numan. It debuted at the top of the UK Albums Chart in September 1980, making it his third consecutive (and to date, final) No. 1 album. It was also the third and final studio release of what Numan retrospectively termed the "machine" section of his career, following Replicas and The Pleasure Principle (both 1979).
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. This Wreckage
-2. The Aircrash Bureau
-3. Telekon
-4. Remind Me To Smile
-5. Sleep By Windows
-6. I'm An Agent
-7. I Dream Of Wires
-8. Remember I Was Vapour
-9. Please Push No More
-10. The Joy Circuit
-11. We Are Glass
-12. Trois Gymnopedies (First Movement)
-13. I Die: You Die
-14. Down In The Park (Piano Version)
-15. A Game Called Echo
-16. Photograph
-17. Remind Me To Smile (USA Mix)
-18. I Die: You Die (Alternate Mix)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | This Wreckage |  |
+| A2 | The Aircrash Bureau |  |
+| A3 | Telekon |  |
+| A4 | Remind Me To Smile |  |
+| B1 | Sleep By Windows |  |
+| B2 | I'm An Agent |  |
+| B3 | I Dream Of Wires |  |
+| B4 | Remember I Was Vapour |  |
+| C1 | Please Push No More |  |
+| C2 | The Joy Circuit |  |
+| C3 | We Are Glass |  |
+| C4 | Trois Gymnopedies (First Movement) |  |
+| D1 | I Die: You Die |  |
+| D2 | Down In The Park (Piano Version) |  |
+| D3 | A Game Called Echo |  |
+| D4 | Photograph |  |
+| D5 | Remind Me To Smile (USA Mix) |  |
+| D6 | I Die: You Die (Alternate Mix) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/telekon/251679821" >}}<br>
 
 
-## Videos
-### Gary Numan - This Wreckage
-{{< youtube id="m9uvIqIUq4U" title="Gary Numan - This Wreckage" >}}<br>
-### More Videos
-
-- [The Aircrash Bureau](https://www.youtube.com/watch?v=tbHix56qfG8)
-- [Telekon](https://www.youtube.com/watch?v=EAFu1wj2f44)
-- [Remind Me to Smile](https://www.youtube.com/watch?v=WW_dgV9sYnk)
-- [Sleep by Windows](https://www.youtube.com/watch?v=0Wu9AtBqpnY)
-- [Im an Agent](https://www.youtube.com/watch?v=RfvdZQLwwtI)
-- [I Dream of Wires](https://www.youtube.com/watch?v=cMWiXgFX3VE)
-- [Remember I Was Vapour](https://www.youtube.com/watch?v=hYxZYbQ0HOE)
-- [Please Push No More](https://www.youtube.com/watch?v=d_nomfDoiGQ)
-- [The Joy Circuit](https://www.youtube.com/watch?v=_KQdSQRd-6g)
-- [Down in the Park Piano Version](https://www.youtube.com/watch?v=M9_peYF2Wu0)
-- [Remember I Was Vapour](https://www.youtube.com/watch?v=hYxZYbQ0HOE)
 
 ## Release Images
 {{< imageGrid >}}

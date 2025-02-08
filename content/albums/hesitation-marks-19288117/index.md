@@ -4,6 +4,7 @@ artist_name: "Nine Inch Nails"
 artist: "nine-inch-nails"
 album_name: "Hesitation Marks"
 date: 2024-12-14T02:38:39.000000Z
+release_date: "2013-08-30"
 release_id: "19288117"
 slug: "hesitation-marks-19288117"
 hideSummary: true
@@ -37,38 +38,34 @@ The album's title is derived from the term "hesitation marks", which is used to 
 Hesitation Marks received positive reviews from critics, with the new sound attracting praise, which some found to be a natural evolution from their previous work. The album reached number three in the US, their highest-charting album since Year Zero, and was nominated for a Grammy Award for Best Alternative Music Album at the 56th Annual Grammy Awards.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Eater Of Dreams (0:53)
-2. Copy Of A (5:23)
-3. Came Back Haunted (5:17)
-4. Find My Way (5:16)
-5. All Time Low (6:18)
-6. Disappointed (5:44)
-7. Everything (3:20)
-8. Satellite (5:03)
-9. Various Methods Of Escape (5:01)
-10. Running (4:08)
-11. I Would For You (4:33)
-12. In Two (5:32)
-13. While I'm Still Here (4:03)
-14. Black Noise (1:28)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Eater Of Dreams | 0:53 |
+| A2 | Copy Of A | 5:23 |
+| A3 | Came Back Haunted | 5:17 |
+| A4 | Find My Way | 5:16 |
+| B1 | All Time Low | 6:18 |
+| B2 | Disappointed | 5:44 |
+| B3 | Everything | 3:20 |
+| C1 | Satellite | 5:03 |
+| C2 | Various Methods Of Escape | 5:01 |
+| C3 | Running | 4:08 |
+| D1 | I Would For You | 4:33 |
+| D2 | In Two | 5:32 |
+| D3 | While I'm Still Here | 4:03 |
+| D4 | Black Noise | 1:28 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hesitation-marks-deluxe-version/1722532041" >}}<br>
 
 
-## Videos
-### Nine Inch Nails - Hesitation Marks FULL ALBUM
-{{< youtube id="4ION42PvS2A" title="Nine Inch Nails - Hesitation Marks FULL ALBUM" >}}<br>
-### More Videos
-
-- [Unboxing Nine Inch Nails - Hesitation Marks 2013 Digibook Deluxe Edition](https://www.youtube.com/watch?v=oO9lfl6TipQ)
-- [Nine Inch Nails - Came Back Haunted](https://www.youtube.com/watch?v=1RN6pT3zL44)
-- [Nine Inch Nails - Copy of a VEVO Presents](https://www.youtube.com/watch?v=yA281OuU3rk)
 
 ## Release Images
 {{< imageGrid >}}

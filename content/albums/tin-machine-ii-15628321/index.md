@@ -4,6 +4,7 @@ artist_name: "Tin Machine"
 artist: "tin-machine"
 album_name: "Tin Machine II"
 date: 2020-07-19T12:14:44.000000Z
+release_date: "2016-06-24"
 release_id: "15628321"
 slug: "tin-machine-ii-15628321"
 hideSummary: true
@@ -28,38 +29,33 @@ styles: ["Alternative Rock"]
 
 Tin Machine II is the second and final studio album by the Anglo-American rock group Tin Machine, released on 2 September 1991 through Victory Music. The band, composed of David Bowie, Reeves Gabrels on guitar and brothers Tony Fox and Hunt Sales on bass and drums, respectively, recorded it in Sydney, Australia in late 1989 at the conclusion of the Tin Machine Tour. After Bowie completed his solo Sound+Vision Tour in late 1990, recording resumed in Los Angeles, California until March 1991. The production was handled by Tin Machine and Tim Palmer, who produced their debut studio album (1989), with additional production by Hugh Padgham on "One Shot". While the album musically retains a hard rock sound, the songs are more melodic compared to its predecessor, with lyrics focusing on love.
 The cover artwork features four Greek Kouroi and was controversial in the US due to the statues' genitalia. Tin Machine II received mostly mixed reviews from music critics, with many highlighting individual tracks but considering the project as a whole mediocre. Some recognised it as an improvement over Tin Machine. Supported by three singles, the album peaked at number 23 in the UK and number 126 in the US. The band's accompanying It's My Life Tour received mixed reviews; a live album from the tour, Tin Machine Live: Oy Vey, Baby, was released in 1992. At the tour's completion, Tin Machine disbanded and Bowie resumed his solo career, releasing his eighteenth studio album, Black Tie White Noise (1993). Gabrels remained Bowie's collaborator for the rest of the 1990s. Bowie's biographers have given Tin Machine II mixed reactions, with most recognising it as inconsistent in quality and panning two tracks sung by Hunt Sales. The album was reissued for the first time in 2020 on both vinyl and CD.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Baby Universal (3:18)
-2. One Shot (5:11)
-3. You Belong In Rock N' Roll (4:07)
-4. If There Is Something (4:45)
-5. Amlapura (3:46)
-6. Betty Wrong (3:48)
-7. You Can't Talk (3:09)
-8. Stateside (5:38)
-9. Shopping For Girls (3:44)
-10. A Big Hurt (3:40)
-11. Sorry (3:29)
-12. Goodbye Mr. Ed (3:24)
-13. Hammerhead (0:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Baby Universal | 3:18 |
+| A2 | One Shot | 5:11 |
+| A3 | You Belong In Rock N' Roll | 4:07 |
+| A4 | If There Is Something | 4:45 |
+| A5 | Amlapura | 3:46 |
+| A6 | Betty Wrong | 3:48 |
+| B1 | You Can't Talk | 3:09 |
+| B2 | Stateside | 5:38 |
+| B3 | Shopping For Girls | 3:44 |
+| B4 | A Big Hurt | 3:40 |
+| B5 | Sorry | 3:29 |
+| B6 | Goodbye Mr. Ed | 3:24 |
+| B7 | Hammerhead | 0:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tin-machine-single/1125283231" >}}<br>
 
 
-## Videos
-### Tin Machine - Tin Machine II -1991 Full Album
-{{< youtube id="lFMmyaPrNkM" title="Tin Machine - Tin Machine II -1991 Full Album" >}}<br>
-### More Videos
-
-- [TIN MACHINE II  FULL ALBUM](https://www.youtube.com/watch?v=kirFZVEN48Y)
-- [Tin Machine  Tin Machine II](https://www.youtube.com/watch?v=KJ8XfO7YTdo)
-- [Tin Machine - Tin Machine II -1991 Full Album](https://www.youtube.com/watch?v=lFMmyaPrNkM)
-- [David Bowie - Tin Machine II 1991](https://www.youtube.com/watch?v=nGfCw8zluNM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +67,5 @@ The cover artwork features four Greek Kouroi and was controversial in the US due
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue Stereo (Silver, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2715 |
-| Notes | Originally released ℗ © 1991 Tin Machine.  Numbered edition of 10.000 copies on silver coloured vinyl. Individual numbers embossed in silver on rear cover. Due to manufacturing variability, some copies appear blue-green instead of silver. But these are not marketed separately and have the standard hype sticker for this silver version.  Track B7 is unlisted.  Includes insert.  Special spot varnished sleeve.  Hype sticker front cover in gold. |
+| Notes | Originally released ℗ © 1991 Tin Machine.<br><br>Numbered edition of 10.000 copies on silver coloured vinyl. Individual numbers embossed in silver on rear cover.<br>Due to manufacturing variability, some copies appear blue-green instead of silver. But these are not marketed separately and have the standard hype sticker for this silver version.<br><br>Track B7 is unlisted.<br><br>Includes insert.<br><br>Special spot varnished sleeve.<br><br>Hype sticker front cover in gold. |
 | Discogs URL    | [Tin Machine - Tin Machine II](https://www.discogs.com/release/15628321-Tin-Machine-Tin-Machine-II) |

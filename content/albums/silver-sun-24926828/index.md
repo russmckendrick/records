@@ -4,6 +4,7 @@ artist_name: "Silver Sun"
 artist: "silver-sun"
 album_name: "Silver Sun"
 date: 2022-12-10T03:33:33.000000Z
+release_date: "1997-10-14"
 release_id: "24926828"
 slug: "silver-sun-24926828"
 hideSummary: true
@@ -23,38 +24,35 @@ styles: ["Power Pop", "Indie Rock", "Alternative Rock"]
 
 Silver Sun is the debut album by the British power pop band Silver Sun. It was released in May 1997 on Polydor Records and was produced by Nigel Godrich. Godrich said: "They're a great band, they're really quirky, but the guy writes loads of serious three minute pop songs with Beach Boys backing vocals. He did these demos that got him the deal on his home 8-track, and they just sound ridiculously over the top, messy but in a great way, really trashy and dirty. So the brief was to try and recreate that, as well as just to sort of bring it back into listenable territory, and I think we did it quite well."
 Changing their name from Sun, under which their debut EP had been released, their debut studio album was released under the name Silver Sun.  The album received critical acclaim, but had limited chart success, reaching No. 30 in the UK Album Chart.  Four singles were released from the album; "Lava", "Last Day", "Golden Skin" and "Julia", of which, only "Golden Skin" and "Lava" reached the UK Top 40.  "Golden Skin" was used in the soundtrack of the British romantic comedy film Shooting Fish which was released the same year as the album.[1]
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Test
-2. Golden Skin
-3. Dumb
-4. Julia
-5. Far Out
-6. Last Day
-7. Service
-8. Yellow Light
-9. Lava
-10. Digits
-11. This 'N' That
-12. Wonderful
-13. Bad Haircut
-14. Nobody
-15. Animals Feets
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Test |  |
+| A2 | Golden Skin |  |
+| A3 | Dumb |  |
+| A4 | Julia |  |
+| A5 | Far Out |  |
+| A6 | Last Day |  |
+| A7 | Service |  |
+| A8 | Yellow Light |  |
+| B1 | Lava |  |
+| B2 | Digits |  |
+| B3 | This 'N' That |  |
+| B4 | Wonderful |  |
+| B5 | Bad Haircut |  |
+| B6 | Nobody |  |
+| B7 | Animals Feets |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/b-is-for-silver-sun/1518621330" >}}<br>
 
 
-## Videos
-### Silver Sun - Silver Sun 1997 FULL ALBUM
-{{< youtube id="UHrMubFZ0qM" title="Silver Sun - Silver Sun 1997 FULL ALBUM" >}}<br>
-### More Videos
-
-- [Silver Sun - Dumb](https://www.youtube.com/watch?v=Y4PJp8nuW34)
-- [Silver sun- Ill see you aroundwmv](https://www.youtube.com/watch?v=-nLWLxHYYyw)
 
 ## Release Images
 {{< imageGrid >}}

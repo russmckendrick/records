@@ -39,37 +39,25 @@ Despite its Americana trappings, <i>August and Everything After</i> would become
 
 
 ## Tracklisting
-1. Round Here (5:31)
-2. Omaha (3:39)
-3. Mr. Jones (4:32)
-4. Perfect Blue Buildings (5:00)
-5. Anna Begins (4:31)
-6. Time And Time Again (5:14)
-7. Rain King (4:15)
-8. Sullivan Street (4:29)
-9. Ghost Train (4:02)
-10. Raining In Baltimore (4:41)
-11. A Murder Of One (5:43)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Round Here | 5:31 |
+| A2 | Omaha | 3:39 |
+| A3 | Mr. Jones | 4:32 |
+| B1 | Perfect Blue Buildings | 5:00 |
+| B2 | Anna Begins | 4:31 |
+| B3 | Time And Time Again | 5:14 |
+| C1 | Rain King | 4:15 |
+| C2 | Sullivan Street | 4:29 |
+| C3 | Ghost Train | 4:02 |
+| D1 | Raining In Baltimore | 4:41 |
+| D2 | A Murder Of One | 5:43 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/august-and-everything-after/1442449109" >}}<br>
 
 
-## Videos
-### Counting Crows - Round Here Official Music Video
-{{< youtube id="SAe3sCIakXo" title="Counting Crows - Round Here Official Music Video" >}}<br>
-### More Videos
-
-- [Omaha](https://www.youtube.com/watch?v=O1RsswsO10M)
-- [Counting Crows - Mr Jones Official Music Video](https://www.youtube.com/watch?v=-oqAU5VxFWs)
-- [Perfect Blue Buildings](https://www.youtube.com/watch?v=HKcD2AxnEYw)
-- [Anna Begins](https://www.youtube.com/watch?v=d8LSBdUKo0c)
-- [Time And Time Again](https://www.youtube.com/watch?v=4VEjXU3WYdM)
-- [Rain King](https://www.youtube.com/watch?v=FEL48-0xRAA)
-- [Sullivan Street](https://www.youtube.com/watch?v=6Ekq19HIb_E)
-- [Ghost Train](https://www.youtube.com/watch?v=U4NdMJK2EM8)
-- [Raining In Baltimore](https://www.youtube.com/watch?v=_Bxohwsx14Q)
-- [A Murder Of One](https://www.youtube.com/watch?v=QWj-04CoNuw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +69,5 @@ Despite its Americana trappings, <i>August and Everything After</i> would become
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | DGC |
 | Catalog Number | B0025531-01 |
-| Notes | - Re-issue - Gatefold - 180-Gram black double vinyl - 33 1/3 RPM |
+| Notes | - Re-issue<br>- Gatefold<br>- 180-Gram black double vinyl<br>- 33 1/3 RPM |
 | Discogs URL    | [Counting Crows - August And Everything After](https://www.discogs.com/release/9982250-Counting-Crows-August-And-Everything-After) |

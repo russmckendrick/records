@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Dazed and Confused (Music From Motion Picture)"
 date: 2021-10-09T06:39:41.000000Z
+release_date: ""
 release_id: "19590373"
 slug: "dazed-and-confused-music-from-motion-picture-19590373"
 hideSummary: true
@@ -20,43 +21,33 @@ styles: ["Classic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Rock And Roll, Hoochie Koo
-2. Slow Ride
-3. School's Out
-4. Jim Dandy
-5. Tush
-6. Love Hurts
-7. Stranglehold
-8. Cherry Bomb
-9. Fox On The Run
-10. Low Rider
-11. Tuesday’s Gone
-12. Highway Star
-13. Rock And Roll All Night
-14. Paranoid
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rock And Roll, Hoochie Koo |  |
+| A2 | Slow Ride |  |
+| A3 | School's Out |  |
+| A4 | Jim Dandy |  |
+| A5 | Tush |  |
+| B1 | Love Hurts |  |
+| B2 | Stranglehold |  |
+| B3 | Cherry Bomb |  |
+| C1 | Fox On The Run |  |
+| C2 | Low Rider |  |
+| C3 | Tuesday’s Gone |  |
+| D1 | Highway Star |  |
+| D2 | Rock And Roll All Night |  |
+| D3 | Paranoid |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Rock and Roll Hoochie Koo
-{{< youtube id="KdSQA3SgWqk" title="Rock and Roll Hoochie Koo" >}}<br>
-### More Videos
 
-- [Slow Ride](https://www.youtube.com/watch?v=yaMNseIe_vI)
-- [Schools Out](https://www.youtube.com/watch?v=gcVEhtojXlc)
-- [Jim Dandy](https://www.youtube.com/watch?v=VxMM_IP1C2E)
-- [Tush 2006 Remaster](https://www.youtube.com/watch?v=P7iPkiyG2jQ)
-- [Nazareth - Love hurts](https://www.youtube.com/watch?v=WISogScYNXA)
-- [Ted Nugent - Stranglehold](https://www.youtube.com/watch?v=0c3d7QgZr7g)
-- [THE RUNAWAYS-Cherry Bomb 1976](https://www.youtube.com/watch?v=7v3Mwi3_Clc)
-- [Fox On The Run](https://www.youtube.com/watch?v=edOXpZlNdsk)
-- [Lowrider War](https://www.youtube.com/watch?v=ro4yhp9L6Ok)
-- [Tuesdays Gone](https://www.youtube.com/watch?v=iExsbDuVqeE)
-- [Deep Purple - Highway Star 1972 Video HQ](https://www.youtube.com/watch?v=UAKCR7kQMTQ)
-- [Rock N Roll All Night  Good Quality  - Kiss](https://www.youtube.com/watch?v=mSYXXIW9gfE)
-- [Paranoid 2012 - Remaster](https://www.youtube.com/watch?v=v24ljjtqb-U)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +58,5 @@ styles: ["Classic Rock"]
 | Format         | Vinyl 2× LP Compilation Limited Edition Reissue (Gatefold, Purple Translucent ) |
 | Label          | The Medicine Label |
 | Catalog Number | RCV1 24533 |
-| Notes | Made in Czech Republic.  Runouts are Etched and stamped; e.g. [Etched] RCV1-24533-A 603497843886 мS [Stamped] 222683E1 930529 MRP3119/RCV1-24533/603497843886/AB-A |
+| Notes | Made in Czech Republic.<br><br>Runouts are Etched and stamped;<br>e.g. [Etched] RCV1-24533-A 603497843886 мS [Stamped] 222683E1 930529 MRP3119/RCV1-24533/603497843886/AB-A |
 | Discogs URL    | [Various - Dazed and Confused (Music From Motion Picture)](https://www.discogs.com/release/19590373-Various-Dazed-and-Confused-Music-From-Motion-Picture) |

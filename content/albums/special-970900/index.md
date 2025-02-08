@@ -4,6 +4,7 @@ artist_name: "Jimmy Cliff"
 artist: "jimmy-cliff"
 album_name: "Special"
 date: 2020-08-02T13:46:01.000000Z
+release_date: "1982"
 release_id: "970900"
 slug: "special-970900"
 hideSummary: true
@@ -25,33 +26,31 @@ styles: ["Reggae"]
 Special is an album by the Jamaican musician Jimmy Cliff, released in 1982. It was his first album for Columbia Records. Cliff supported the album with a North American tour coheadlined by Peter Tosh. He was disappointed with the commercial response to the album, claiming repeatedly that the tour would be his last. Special peaked at No. 186 on the Billboard 200. "Treat the Youths Right" was a significant hit in Jamaica.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Special (3:51)
-2. Love Is All (4:19)
-3. Peace Officer (4:12)
-4. Treat The Youths Right (3:40)
-5. Keep On Dancing (3:25)
-6. Rub-A-Dub Partner (2:58)
-7. Roots Radical (4:25)
-8. Love Heights (3:35)
-9. Originator (4:56)
-10. Rock Children (4:00)
-11. Where There Is Love (4:15)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Special | 3:51 |
+| A2 | Love Is All | 4:19 |
+| A3 | Peace Officer | 4:12 |
+| A4 | Treat The Youths Right | 3:40 |
+| A5 | Keep On Dancing | 3:25 |
+| A6 | Rub-A-Dub Partner | 2:58 |
+| B1 | Roots Radical | 4:25 |
+| B2 | Love Heights | 3:35 |
+| B3 | Originator | 4:56 |
+| B4 | Rock Children | 4:00 |
+| B5 | Where There Is Love | 4:15 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/special/185718171" >}}<br>
 
 
-## Videos
-### Special
-{{< youtube id="7t_56xBaLwY" title="Special" >}}<br>
-### More Videos
-
-- [Jimmy Cliff - Special Full Album](https://www.youtube.com/watch?v=nYq8U4gkpYc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +62,5 @@ Special is an album by the Jamaican musician Jimmy Cliff, released in 1982. It w
 | Format         | Vinyl LP Album Stereo |
 | Label          | CBS |
 | Catalog Number | CX 85878 |
-| Notes | ℗ 1982 CBS Inc./© 1982 CBS Inc. Made & Printed in Holland Printed inner sleeve with lyrics. CX Encoded Recording |
+| Notes | ℗ 1982 CBS Inc./© 1982 CBS Inc.<br>Made & Printed in Holland<br>Printed inner sleeve with lyrics.<br>CX Encoded Recording |
 | Discogs URL    | [Jimmy Cliff - Special](https://www.discogs.com/release/970900-Jimmy-Cliff-Special) |

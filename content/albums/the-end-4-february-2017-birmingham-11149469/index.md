@@ -4,6 +4,7 @@ artist_name: "Black Sabbath"
 artist: "black-sabbath"
 album_name: "The End (4 February 2017 - Birmingham)"
 date: 2017-11-17T16:42:29.000000Z
+release_date: ""
 release_id: "11149469"
 slug: "the-end-4-february-2017-birmingham-11149469"
 hideSummary: true
@@ -33,46 +34,36 @@ styles: ["Heavy Metal"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Black Sabbath
-2. Fairies Wear Boots
-3. Under The Sun / Every Day Comes And Goes
-4. After Forever
-5. Into The Void
-6. Snowblind
-7. Band Intros
-8. War Pigs
-9. Behind The Wall Of Sleep
-10. Bassically / N.I.B.
-11. Hand Of Doom
-12. Supernaut / Sabbath Bloody Sabbath / Megalomania
-13. Rat Salad / Drum Solo
-14. Iron Man
-15. Dirty Women
-16. Children Of The Grave
-17. Paranoid
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Black Sabbath |  |
+| A2 | Fairies Wear Boots |  |
+| A3 | Under The Sun / Every Day Comes And Goes |  |
+| B1 | After Forever |  |
+| B2 | Into The Void |  |
+| B3 | Snowblind |  |
+| C1 | Band Intros |  |
+| C2 | War Pigs |  |
+| C3 | Behind The Wall Of Sleep |  |
+| C4 | Bassically / N.I.B. |  |
+| D1 | Hand Of Doom |  |
+| D2 | Supernaut / Sabbath Bloody Sabbath / Megalomania |  |
+| D3 | Rat Salad / Drum Solo |  |
+| E1 | Iron Man |  |
+| E2 | Dirty Women |  |
+| F1 | Children Of The Grave |  |
+| F2 | Paranoid |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### BLACK SABBATH  - Paranoid from The End Live Video
-{{< youtube id="pTHeY0-P4MY" title="BLACK SABBATH  - Paranoid from The End Live Video" >}}<br>
-### More Videos
 
-- [Black Sabbath The End Tour Full - Genting Arena - 4 February 2017 HD 1080p](https://www.youtube.com/watch?v=qd9J_Dg1K2M)
-- [Black Sabbath Live - Black Sabbath Final Gig 4th February 2017](https://www.youtube.com/watch?v=DMVKrS4G0co)
-- [Black Sabbath Paranoid LAST SONG ever FINAL SHOW 04-02-17 Birmingham](https://www.youtube.com/watch?v=wZmHfcZDeNs)
-- [Black Sabbath The End Tour Paranoid Live Final Show Birmingham 4th February 2017](https://www.youtube.com/watch?v=3CzGWBM3wOo)
-- [Black Sabbath THE END Last Night Highlights 4 Feb 2017](https://www.youtube.com/watch?v=FrRTDDNZILU)
-- [Black Sabbath - The End on 4th Feb 2017 The Birmingham Genting Arena](https://www.youtube.com/watch?v=NG47mhsrRrQ)
-- [BLACK SABBATH  - Paranoid from The End Live Video](https://www.youtube.com/watch?v=pTHeY0-P4MY)
-- [Black Sabbath The End Tour Full - Genting Arena - 4 February 2017 HD 1080p](https://www.youtube.com/watch?v=qd9J_Dg1K2M)
-- [Black Sabbath Live - Black Sabbath Final Gig 4th February 2017](https://www.youtube.com/watch?v=DMVKrS4G0co)
-- [Black Sabbath Paranoid LAST SONG ever FINAL SHOW 04-02-17 Birmingham](https://www.youtube.com/watch?v=wZmHfcZDeNs)
-- [Black Sabbath The End Tour Paranoid Live Final Show Birmingham 4th February 2017](https://www.youtube.com/watch?v=3CzGWBM3wOo)
-- [Black Sabbath THE END Last Night Highlights 4 Feb 2017](https://www.youtube.com/watch?v=FrRTDDNZILU)
-- [Black Sabbath - The End on 4th Feb 2017 The Birmingham Genting Arena](https://www.youtube.com/watch?v=NG47mhsrRrQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +74,5 @@ styles: ["Heavy Metal"]
 | Format         | Vinyl 3× LP Album (180 gram) |
 | Label          | Eagle Records |
 | Catalog Number | EAGLP679 |
-| Notes | Gatefold  From the final hometown concert in Birmingham on 04th February 2017.  An Eagle Rock Films production for Eagle Rock Entertainment Ltd. ℗ & © BS Productions Limited 2017 under exclusive licence to Eagle Rock Entertainment Ltd. All rights reserved. An Eagle Vision release. Eagle vision is a division of Eagle Rock Entertainment, a Universal Music Group company. Made in the EU.  First cat.number on spine, second cat.number on front sticker Yellow Sticker: "3 x 180gm VINYL THE FINAL SHOW FROM  THE GREATEST METAL  BAND OF ALL TIME 5034504167926"  |
+| Notes | Gatefold<br><br>From the final hometown concert in Birmingham on 04th February 2017.<br><br>An Eagle Rock Films production for Eagle Rock Entertainment Ltd.<br>℗ & © BS Productions Limited 2017 under exclusive licence to Eagle Rock Entertainment Ltd. All rights reserved.<br>An Eagle Vision release. Eagle vision is a division of Eagle Rock Entertainment, a Universal Music Group company. Made in the EU.<br><br>First cat.number on spine, second cat.number on front sticker<br>Yellow Sticker:<br>"3 x 180gm VINYL<br>THE FINAL SHOW FROM <br>THE GREATEST METAL <br>BAND OF ALL TIME<br>5034504167926"<br> |
 | Discogs URL    | [Black Sabbath - The End (4 February 2017 - Birmingham)](https://www.discogs.com/release/11149469-Black-Sabbath-The-End-4-February-2017-Birmingham) |

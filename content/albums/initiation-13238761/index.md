@@ -4,6 +4,7 @@ artist_name: "Todd Rundgren"
 artist: "todd-rundgren"
 album_name: "Initiation"
 date: 2022-03-06T05:00:16.000000Z
+release_date: "1975-05"
 release_id: "13238761"
 slug: "initiation-13238761"
 hideSummary: true
@@ -24,56 +25,27 @@ styles: ["Experimental"]
 ---
 
 Initiation is the sixth album by American musician Todd Rundgren, released May 23, 1975 on Bearsville Records. With this album, Rundgren fully embraced the synthesized prog sound he had begun exploring in more depth in his work with his band Utopia.  However, unlike Utopia, in which Rundgren had limited himself to playing guitar, much of the synthesizers on Initiation were played and programmed by Rundgren himself.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Real Man (4:25)
-2. Born To Synthesize (3:40)
-3. The Death Of Rock And Roll (3:48)
-4. Eastern Intrigue (5:06)
-5. Initiation (7:05)
-6. Fair Warning (8:07)
-7. A Treatise On Cosmic Fire (36:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Real Man | 4:25 |
+| A2 | Born To Synthesize | 3:40 |
+| A3 | The Death Of Rock And Roll | 3:48 |
+| A4 | Eastern Intrigue | 5:06 |
+| A5 | Initiation | 7:05 |
+| A6 | Fair Warning | 8:07 |
+|  | A Treatise On Cosmic Fire | 36:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/initiation/1084825294" >}}<br>
 
 
-## Videos
-### Real Man 2015 Remaster
-{{< youtube id="GPmBXP33xCQ" title="Real Man 2015 Remaster" >}}<br>
-### More Videos
-
-- [Born to Synthesize 2015 Remaster](https://www.youtube.com/watch?v=N0BnwzvjDjg)
-- [The Death of Rock N Roll 2015 Remaster](https://www.youtube.com/watch?v=X_gazfQwVz8)
-- [Eastern Intrigue 2015 Remaster](https://www.youtube.com/watch?v=3CAdPPPVMTE)
-- [Initiation 2015 Remaster](https://www.youtube.com/watch?v=9oj-jp6g9y0)
-- [Fair Warning 2015 Remaster](https://www.youtube.com/watch?v=4SdYas-TT-w)
-- [A Treatise on Cosmic Fire Intro-Prana 2015 Remaster](https://www.youtube.com/watch?v=mTLWvLx2Uhk)
-- [A Treatise on Cosmic Fire II The Fire of Mind - or Solar Fire](https://www.youtube.com/watch?v=YyFBNm5gpdw)
-- [A Treatise on Cosmic Fire III The Fire of Spirit - or Electric Fire](https://www.youtube.com/watch?v=oxX8Q1Oasgg)
-- [A Treatise on Cosmic Fire I The Eternal Fire - or Fire by Friction Outro-Prana 2015 Remaster](https://www.youtube.com/watch?v=evLjMlPXSus)
-- [Initiation 2015 Remaster](https://www.youtube.com/watch?v=9oj-jp6g9y0)
-- [Todd Rundgren - Initiation Lyrics Below HQ](https://www.youtube.com/watch?v=N3P3fjQSe-k)
-- [TODD RUNDGREN INITIATION DELUXE REMASTER DISC TWO](https://www.youtube.com/watch?v=3HGHVqew1Vo)
-- [Initiation Live 1978](https://www.youtube.com/watch?v=7xoJos03M6w)
-- [Todd Rundgren - Initiation HQ audio](https://www.youtube.com/watch?v=mimU2MFySo8)
-- [Todd Rundgren  Utopia - Initiation](https://www.youtube.com/watch?v=3_ZAlf2_h14)
-- [Todd Rundgren   Initiation HQ with Lyrics in Description](https://www.youtube.com/watch?v=XCPmwY_soHI)
-- [Initiation](https://www.youtube.com/watch?v=I_BJRAhy8f0)
-- [Initiation 2015 Remaster](https://www.youtube.com/watch?v=xXxpXNiPSYA)
-- [Initiation](https://www.youtube.com/watch?v=zpEFQruprVs)
-- [Todd Rundgren-Initiation  mp4](https://www.youtube.com/watch?v=BDpPIODdrXo)
-- [Utopia - Communion With The Sun  Windows  Initiation  Utopia Theme - Live 1976 Remastered](https://www.youtube.com/watch?v=nAcSKPR28G0)
-- [Todd Rundgren - Initiation ENHANCED vinyl](https://www.youtube.com/watch?v=EPRsAaULCk4)
-- [May 27 2017 - Todd Rundgren on Tin Foil Hat](https://www.youtube.com/watch?v=GltII-_imWQ)
-- [Real Man 2015 Remaster](https://www.youtube.com/watch?v=GPmBXP33xCQ)
-- [Todd Rundgren  Utopia  Initiation  1977 Reelin In The Years Archive](https://www.youtube.com/watch?v=RIAQROt7kIA)
-- [Todd Rundgren - Initiation ALBUM REVIEW](https://www.youtube.com/watch?v=e2u0waDXjec)
-- [Initiation Live 2015 Remaster](https://www.youtube.com/watch?v=OMhoH3Y0Frw)
-- [Initiation - Todd Rundgren - Fingerstyle Guitar Solo](https://www.youtube.com/watch?v=XUw8Yl9kphw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +57,5 @@ Initiation is the sixth album by American musician Todd Rundgren, released May 2
 | Format         | Vinyl LP Album |
 | Label          | Bearsville |
 | Catalog Number | K 55504 |
-| Notes | Lyrics printed on white board inner sleeve   Label states “Produced, Arranged & Mixed by Todd Rundgren” And then underneath “ISLAND MUSIC”  The back cover text and labels are different from the other UK 1975 release. |
+| Notes | Lyrics printed on white board inner sleeve <br><br>Label states “Produced, Arranged & Mixed by Todd Rundgren”<br>And then underneath “ISLAND MUSIC”<br><br>The back cover text and labels are different from the other UK 1975 release. |
 | Discogs URL    | [Todd Rundgren - Initiation](https://www.discogs.com/release/13238761-Todd-Rundgren-Initiation) |

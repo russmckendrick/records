@@ -4,6 +4,7 @@ artist_name: "Queens Of The Stone Age"
 artist: "queens-of-the-stone-age"
 album_name: "Queens Of The Stone Age"
 date: 2022-11-04T06:15:12.000000Z
+release_date: "1998-09-22"
 release_id: "20712265"
 slug: "queens-of-the-stone-age-20712265"
 hideSummary: true
@@ -27,42 +28,31 @@ Queens of the Stone Age is the debut studio album by American rock band Queens o
 In 2011, Homme reissued Queens of the Stone Age through his Rekords Rekords label, having it remastered and adding three additional tracks–two from the album's recording sessions and one from two years earlier. The reissue received a positive critical response and was accompanied by a supporting concert tour. Working on the reissue and subsequent tour also inspired part of the band's approach to recording its sixth album, ...Like Clockwork, released in 2013. In 2022, the album was reissued again on Matador Records with its original LP artwork.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Regular John
-2. Avon
-3. If Only
-4. Walkin' On The Sidewalks
-5. You Would Know
-6. How To Handle A Rope (A Lesson In The Lariat)
-7. Mexicola
-8. Hispanic Impressions
-9. You Can't Quit Me Baby
-10. Give The Mule What He Wants
-11. I Was A Teenage Hand Model
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Regular John |  |
+| A2 | Avon |  |
+| A3 | If Only |  |
+| A4 | Walkin' On The Sidewalks |  |
+| A5 | You Would Know |  |
+| A6 | How To Handle A Rope (A Lesson In The Lariat) |  |
+| B7 | Mexicola |  |
+| B8 | Hispanic Impressions |  |
+| B9 | You Can't Quit Me Baby |  |
+| B10 | Give The Mule What He Wants |  |
+| B11 | I Was A Teenage Hand Model |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/queens-of-the-stone-age-1998-version/1644779268" >}}<br>
 
 
-## Videos
-### Queens of the Stone Age - Regular John Official Audio
-{{< youtube id="wjNbxJttwP8" title="Queens of the Stone Age - Regular John Official Audio" >}}<br>
-### More Videos
-
-- [Queens of the Stone Age - Avon Official Audio](https://www.youtube.com/watch?v=aimHMr-Ee4o)
-- [Queens of the Stone Age - If Only Official Audio](https://www.youtube.com/watch?v=1HqTh0nd9GE)
-- [Queens of the Stone Age - Walkin on the Sidewalks Official Audio](https://www.youtube.com/watch?v=veA1UK68A5Y)
-- [Queens of the Stone Age - You Would Know Official Audio](https://www.youtube.com/watch?v=Fp32A3Tvi8A)
-- [Queens of the Stone Age - Mexicola Official Audio](https://www.youtube.com/watch?v=1F1fY1p9eh4)
-- [Queens of the Stone Age - Hispanic Impressions Official Audio](https://www.youtube.com/watch?v=TI2yuo3Jxk4)
-- [Queens of the Stone Age - You Cant Quit Me Baby Official Audio](https://www.youtube.com/watch?v=55ed_G8_Rzs)
-- [Queens of the Stone Age - Give the Mule What He Wants Official Audio](https://www.youtube.com/watch?v=8cs1Y7wFsFg)
-- [Queens of the Stone Age - I Was a Teenage Hand Model Official Audio](https://www.youtube.com/watch?v=ncthAfGmK-A)
-- [Queens of the Stone Age - How to Handle a Rope A Lesson in the Lariat Official Audio](https://www.youtube.com/watch?v=lDKlE65PZp0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +64,5 @@ In 2011, Homme reissued Queens of the Stone Age through his Rekords Rekords labe
 | Format         | Vinyl LP Album Limited Edition Reissue (Orange) |
 | Label          | Matador |
 | Catalog Number | OLE1768LP |
-| Notes | Gatefold sleeve with [a1178021] art and original vinyl sequence. Featuring obi-strip designed by [a3311508]. Record comes with a plain black inner sleeve.  ℗ 1998 Queens of the Stone Age under exclusive license to Matador Records ℗ 2021 Queens of the Stone Age under exclusive license to Matador Records  Inner gatefold photo from 'The Pin-Up', a modest history by Mark Gabor, © 1972 Universe Books, NY.  Some orders from the Matador webstore came with a [a1178021] poster.  Tracks listed sequentially on release.  Cutting engineer and pressing plant derived from matrix.   |
+| Notes | Gatefold sleeve with [a1178021] art and original vinyl sequence.<br>Featuring obi-strip designed by [a3311508].<br>Record comes with a plain black inner sleeve.<br><br>℗ 1998 Queens of the Stone Age under exclusive license to Matador Records<br>℗ 2021 Queens of the Stone Age under exclusive license to Matador Records<br><br>Inner gatefold photo from 'The Pin-Up', a modest history by Mark Gabor, © 1972 Universe Books, NY.<br><br>Some orders from the Matador webstore came with a [a1178021] poster.<br><br>Tracks listed sequentially on release.<br><br>Cutting engineer and pressing plant derived from matrix.<br><br> |
 | Discogs URL    | [Queens Of The Stone Age - Queens Of The Stone Age](https://www.discogs.com/release/20712265-Queens-Of-The-Stone-Age-Queens-Of-The-Stone-Age) |

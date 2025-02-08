@@ -4,6 +4,7 @@ artist_name: "Teenage Fanclub"
 artist: "teenage-fanclub"
 album_name: "Grand Prix"
 date: 2018-08-29T18:39:42.000000Z
+release_date: "1995-05-29"
 release_id: "12372525"
 slug: "grand-prix-12372525"
 hideSummary: true
@@ -28,40 +29,35 @@ styles: ["Indie Rock"]
 Grand Prix is the fifth album by Scottish alternative rock band Teenage Fanclub, released in May 1995 via Creation Records.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. About You (2:40)
-2. Sparky's Dream (3:15)
-3. Mellow Doubt (2:42)
-4. Don't Look Back (3:42)
-5. Verisimilitude (3:30)
-6. Neil Jung (4:48)
-7. Tears (2:42)
-8. Discolite (3:07)
-9. Say No (3:12)
-10. Going Places (4:27)
-11. I'll Make It Clear (2:33)
-12. I Gotta Know (3:27)
-13. Hardcore / Ballad (1:48)
-14. Every Step Is A Way Through (2:51)
-15. Some People Try To Fuck With You (2:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | About You | 2:40 |
+| A2 | Sparky's Dream | 3:15 |
+| A3 | Mellow Doubt | 2:42 |
+| A4 | Don't Look Back | 3:42 |
+| A5 | Verisimilitude | 3:30 |
+| A6 | Neil Jung | 4:48 |
+| A7 | Tears | 2:42 |
+| B1 | Discolite | 3:07 |
+| B2 | Say No | 3:12 |
+| B3 | Going Places | 4:27 |
+| B4 | I'll Make It Clear | 2:33 |
+| B5 | I Gotta Know | 3:27 |
+| B6 | Hardcore / Ballad | 1:48 |
+| C | Every Step Is A Way Through | 2:51 |
+| D | Some People Try To Fuck With You | 2:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/grand-prix/1417071608" >}}<br>
 
 
-## Videos
-### Teenage Fanclub - Sparkys Dream
-{{< youtube id="UK_CuMJJLwg" title="Teenage Fanclub - Sparkys Dream" >}}<br>
-### More Videos
-
-- [About You](https://www.youtube.com/watch?v=Td8on_8vbFA)
-- [Tears](https://www.youtube.com/watch?v=CFzylf2N6TQ)
-- [Ill Make It Clear](https://www.youtube.com/watch?v=mrk3OCT9UaQ)
-- [Neil Jung](https://www.youtube.com/watch?v=sifx0wF9gzA)
 
 ## Release Images
 {{< imageGrid >}}

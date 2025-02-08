@@ -4,6 +4,7 @@ artist_name: "Kraftwerk"
 artist: "kraftwerk"
 album_name: "Autobahn"
 date: 2016-02-21T12:07:02.000000Z
+release_date: "1974-11-01"
 release_id: "1978364"
 slug: "autobahn-1978364"
 hideSummary: true
@@ -25,20 +26,23 @@ Most of the album is taken up by the 22-minute "Autobahn", featuring lyrics by S
 Initial reception to Autobahn was mixed; receiving negative reviews, from Rolling Stone and Village Voice, who felt the music was inferior to earlier electronic music from Wendy Carlos and Mike Oldfield, and positive reviews that praised the title track as hypnotic and arresting for its imagery of driving on the autobahn. Critics from the Fort Worth Star-Telegram and Newsday included the album in their "Honorable Mentions" sections of their year-end lists. Retrospectively, the album has been unanimously praised; Simon Witter wrote in NME the album is of "enormous historical significance" and Simon Reynolds said the album is where Kraftwerk's music really starts to matter.  Musicians of the 1970s and 1980s, including David Bowie, cited the album as a major influence.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Autobahn (22:47)
-2. Kometenmelodie 1 (6:42)
-3. Kometenmelodie 2 (5:31)
-4. Mitternacht (3:45)
-5. Morgenspaziergang (4:02)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Autobahn | 22:47 |
+| B1 | Kometenmelodie 1 | 6:42 |
+| B2 | Kometenmelodie 2 | 5:31 |
+| B3 | Mitternacht | 3:45 |
+| B4 | Morgenspaziergang | 4:02 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/autobahn-remastered/726154713" >}}<br>
-
 
 
 
@@ -52,5 +56,5 @@ Initial reception to Autobahn was mixed; receiving negative reviews, from Rollin
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Kling Klang |
 | Catalog Number | 50999 6 99586 1 8 |
-| Notes | Kling Klang Studio [...] Kling Klang Musik · Sony/ATV Music Publishing [...] Aufnahme · Kling Klang Studio · Düsseldorf · Mobiles Equipment [...] Mix · Conny's Studio [...] Kling Klang Produkt 1974  [on booklet]    Digital master ℗ + © Ralf Hütter / Kraftwerk under exclusive license to Capitol Music, a division of [l9801]  Printed in Germany  [on rear cover]    Made in the EU  [on labels]    Printed inner sleeve and 12" square 12-page booklet inserted. |
+| Notes | Kling Klang Studio [...] Kling Klang Musik · Sony/ATV Music Publishing [...] Aufnahme · Kling Klang Studio · Düsseldorf · Mobiles Equipment [...] Mix · Conny's Studio [...] Kling Klang Produkt 1974<br>[on booklet]<br><br>Digital master ℗ + © Ralf Hütter / Kraftwerk under exclusive license to Capitol Music, a division of [l9801]<br>Printed in Germany<br>[on rear cover]<br><br>Made in the EU<br>[on labels]<br><br>Printed inner sleeve and 12" square 12-page booklet inserted. |
 | Discogs URL    | [Kraftwerk - Autobahn](https://www.discogs.com/release/1978364-Kraftwerk-Autobahn) |

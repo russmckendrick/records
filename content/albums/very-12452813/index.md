@@ -4,6 +4,7 @@ artist_name: "Pet Shop Boys"
 artist: "pet-shop-boys"
 album_name: "Very"
 date: 2020-07-03T12:51:05.000000Z
+release_date: "2020-01-01"
 release_id: "12452813"
 slug: "very-12452813"
 hideSummary: true
@@ -27,27 +28,30 @@ styles: ["House", "Synth-pop", "Dance-pop"]
 Very is the fifth studio album by English synth-pop duo Pet Shop Boys, released on 27 September 1993 by Parlophone, nearly three years after the duo's previous studio album, Behaviour, and following the compilation album Discography: The Complete Singles Collection. It is the only Pet Shop Boys album to reach number one on the UK Albums Chart, and it produced two top ten singles, "Can You Forgive Her?" and "Go West". Very exhibits one of many turning points the Pet Shop Boys would make to their music, shifting from the subdued electronic pop of Behaviour to richly instrumented dance arrangements. The content and lyrics led to Very being called their "coming-out" album, since it was during this time that Neil Tennant had publicly discussed his long-rumoured homosexuality.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Can You Forgive Her?
-2. I Wouldn't Normally Do This Kind Of Thing
-3. Liberation
-4. A Different Point Of View
-5. Dreaming Of The Queen
-6. Yesterday, When I Was Mad
-7. The Theatre
-8. One And One Make Five
-9. To Speak Is A Sin
-10. Young Offender
-11. One In A Million
-12. Go West
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Can You Forgive Her? |  |
+| A2 | I Wouldn't Normally Do This Kind Of Thing |  |
+| A3 | Liberation |  |
+| A4 | A Different Point Of View |  |
+| A5 | Dreaming Of The Queen |  |
+| A6 | Yesterday, When I Was Mad |  |
+| B1 | The Theatre |  |
+| B2 | One And One Make Five |  |
+| B3 | To Speak Is A Sin |  |
+| B4 | Young Offender |  |
+| B5 | One In A Million |  |
+| B6 | Go West |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hotspot/1722520981" >}}<br>
-
 
 
 
@@ -61,5 +65,5 @@ Very is the fifth studio album by English synth-pop duo Pet Shop Boys, released 
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Parlophone |
 | Catalog Number | 0190295823085 |
-| Notes | [Sticker on shrinkwrap:] Pressed onto 180g heavyweight  vinyl featuring a brand new 2018 remaster of the original album  [From back cover:] ℗ 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company © 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company.  All rights reserved. Made in the EU  [From inner sleeve:] Recorded at Sarm West, London. Orchestra recorded at Angel Studios, London. Choir on Go West recorded at The Power Station, New York. Mixed at Rak Studios, London. Mastered at Gateway Mastering, Maine, USA.  Optimal credit extrapolated from runout data. |
+| Notes | [Sticker on shrinkwrap:]<br>Pressed onto 180g heavyweight <br>vinyl featuring a brand new 2018<br>remaster of the original album<br><br>[From back cover:]<br>℗ 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company<br>© 2018 Pet Shop Boys Partnership Ltd. under exclusive licence to Parlophone Records Ltd. A Warner Music Group Company. <br>All rights reserved.<br>Made in the EU<br><br>[From inner sleeve:]<br>Recorded at Sarm West, London.<br>Orchestra recorded at Angel Studios, London.<br>Choir on Go West recorded at The Power Station, New York.<br>Mixed at Rak Studios, London.<br>Mastered at Gateway Mastering, Maine, USA.<br><br>Optimal credit extrapolated from runout data. |
 | Discogs URL    | [Pet Shop Boys - Very](https://www.discogs.com/release/12452813-Pet-Shop-Boys-Very) |

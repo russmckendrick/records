@@ -26,43 +26,28 @@ Part of the fun of hearing a new Sparks album in 2023 is realising just how deep
 
 
 ## Tracklisting
-1. The Girl Is Crying In Her Latte
-2. Veronica Lake
-3. Nothing Is As Good As They Say It Is
-4. Escalator
-5. The Mona Lisa's Packing, Leaving Late Tonight
-6. You Were Meant For Me
-7. Not That Well-Defined
-8. We Go Dancing
-9. When You Leave
-10. Take Me For A Ride
-11. It's Sunny Today
-12. A Love Story
-13. It Doesn't Have To Be That Way
-14. Gee, That Was Fun
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Girl Is Crying In Her Latte |  |
+| A2 | Veronica Lake |  |
+| A3 | Nothing Is As Good As They Say It Is |  |
+| A4 | Escalator |  |
+| A5 | The Mona Lisa's Packing, Leaving Late Tonight |  |
+| A6 | You Were Meant For Me |  |
+| A7 | Not That Well-Defined |  |
+| B1 | We Go Dancing |  |
+| B2 | When You Leave |  |
+| B3 | Take Me For A Ride |  |
+| B4 | It's Sunny Today |  |
+| B5 | A Love Story |  |
+| B6 | It Doesn't Have To Be That Way |  |
+| B7 | Gee, That Was Fun |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-girl-is-crying-in-her-latte/1664083303" >}}<br>
 
 
-## Videos
-### Sparks - The Girl Is Crying In Her Latte Official Video - Starring Cate Blanchett
-{{< youtube id="UTAxPhxADo0" title="Sparks - The Girl Is Crying In Her Latte Official Video - Starring Cate Blanchett" >}}<br>
-### More Videos
-
-- [Sparks - Veronica Lake Official Lyric Video](https://www.youtube.com/watch?v=Y9zIXalqooc)
-- [Sparks - Nothing Is As Good As They Say It Is Lyric Video](https://www.youtube.com/watch?v=nMmoTU7lPKE)
-- [Sparks - Escalator Official Lyric Video](https://www.youtube.com/watch?v=PDn7M3ST_Wk)
-- [Sparks - The Mona Lisas Packing Leaving Late Tonight Official Lyric Video](https://www.youtube.com/watch?v=TlKVD4nplVU)
-- [Sparks - You Were Meant For Me Official Lyric Video](https://www.youtube.com/watch?v=_LnSq8MoiL8)
-- [Sparks - Not That Well Defined Official Lyric Video](https://www.youtube.com/watch?v=71UBQ_sLG58)
-- [Sparks - We Go Dancing Official Lyric Video](https://www.youtube.com/watch?v=rdUgVn_ixf8)
-- [Sparks - When You Leave Official Lyric Video](https://www.youtube.com/watch?v=O4vuelJu2ls)
-- [Sparks - Take Me For A Ride Official Lyric Video](https://www.youtube.com/watch?v=jmMudDHc0qg)
-- [Sparks - Its Sunny Today Official Lyric Video](https://www.youtube.com/watch?v=F_09jWiVbYg)
-- [Sparks - A Love Story Official Lyric Video](https://www.youtube.com/watch?v=uKqZWtR6jWU)
-- [Sparks - It Doesnt Have To Be That Way Official Lyric Video](https://www.youtube.com/watch?v=Vd2UttQKRi8)
-- [Sparks - Gee That Was Fun Official Lyric Video](https://www.youtube.com/watch?v=Urbai_wxfew)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +59,5 @@ Part of the fun of hearing a new Sparks album in 2023 is realising just how deep
 | Format         | Vinyl LP Album Limited Edition Picture Disc |
 | Label          | Island Records |
 | Catalog Number | 5504002 |
-| Notes | Limited Edition Picture Disc. For a limited time signed prints were available to UK customers with the purchase of the LP from the Sparks webstore. Sticker on front of clear PVC sleeve with dust flap  'Made in Germany' sticker on back of clear sleeve |
+| Notes | Limited Edition Picture Disc. For a limited time signed prints were available to UK customers with the purchase of the LP from the Sparks webstore.<br>Sticker on front of clear PVC sleeve with dust flap<br><br>'Made in Germany' sticker on back of clear sleeve |
 | Discogs URL    | [Sparks - The Girl Is Crying In Her Latte](https://www.discogs.com/release/27196083-Sparks-The-Girl-Is-Crying-In-Her-Latte) |

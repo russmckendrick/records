@@ -39,46 +39,48 @@ Leading up to The Astonishing's release, the band marketed the album with its ow
 
 
 ## Tracklisting
-1. Act 1
-2. Descent Of The Nomacs (1:08)
-3. Dystopian Overture (4:50)
-4. The Gift Of Music (4:00)
-5. The Answer (1:52)
-6. A Better Life (4:38)
-7. Lord Nafaryus (3:28)
-8. A Savior In The Square (4:15)
-9. When Your Time Has Come (4:16)
-10. Act Of Faythe (4:58)
-11. Three Days (3:43)
-12. The Hovering Sojourn (0:24)
-13. Brother, Can You Hear Me? (5:07)
-14. A Life Left Behind (5:48)
-15. Ravenskill (6:00)
-16. Chosen (4:29)
-17. A Tempting Offer (4:19)
-18. Digital Discord (0:45)
-19. The X Aspect (4:12)
-20. A New Beginning (7:40)
-21. The Road To Revolution (3:33)
-22. Act 2
-23. 2285 Entr'acte (2:20)
-24. Moment Of Betrayal (6:06)
-25. Heaven's Cove (4:13)
-26. Begin Again (3:51)
-27. The Path That Divides (4:58)
-28. Machine Chatter (0:54)
-29. The Walking Shadow (2:58)
-30. My Last Farewell (3:40)
-31. Losing Faythe (4:08)
-32. Whispers On The Wind (1:30)
-33. Hymn Of A Thousand Voices (3:35)
-34. Our New World (4:09)
-35. Power Down (1:22)
-36. Astonishing (5:46)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Act 1 |  |
+| A1 | Descent Of The Nomacs | 1:08 |
+| A2 | Dystopian Overture | 4:50 |
+| A3 | The Gift Of Music | 4:00 |
+| A4 | The Answer | 1:52 |
+| A5 | A Better Life | 4:38 |
+| B6 | Lord Nafaryus | 3:28 |
+| B7 | A Savior In The Square | 4:15 |
+| B8 | When Your Time Has Come | 4:16 |
+| B9 | Act Of Faythe | 4:58 |
+| C10 | Three Days | 3:43 |
+| C11 | The Hovering Sojourn | 0:24 |
+| C12 | Brother, Can You Hear Me? | 5:07 |
+| C13 | A Life Left Behind | 5:48 |
+| D14 | Ravenskill | 6:00 |
+| D15 | Chosen | 4:29 |
+| D16 | A Tempting Offer | 4:19 |
+| D17 | Digital Discord | 0:45 |
+| E18 | The X Aspect | 4:12 |
+| E19 | A New Beginning | 7:40 |
+| E20 | The Road To Revolution | 3:33 |
+|  | Act 2 |  |
+| F1 | 2285 Entr'acte | 2:20 |
+| F2 | Moment Of Betrayal | 6:06 |
+| F3 | Heaven's Cove | 4:13 |
+| F4 | Begin Again | 3:51 |
+| G5 | The Path That Divides | 4:58 |
+| G6 | Machine Chatter | 0:54 |
+| G7 | The Walking Shadow | 2:58 |
+| G8 | My Last Farewell | 3:40 |
+| G9 | Losing Faythe | 4:08 |
+| H10 | Whispers On The Wind | 1:30 |
+| H11 | Hymn Of A Thousand Voices | 3:35 |
+| H12 | Our New World | 4:09 |
+| H13 | Power Down | 1:22 |
+| H14 | Astonishing | 5:46 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-astonishing/1061243392" >}}<br>
-
 
 
 
@@ -92,5 +94,5 @@ Leading up to The Astonishing's release, the band marketed the album with its ow
 | Format         | Box Set, Vinyl 2× LP, Vinyl 2× LP, All Media Album (180g) |
 | Label          | Roadrunner Records |
 | Catalog Number | RR7493-1 |
-| Notes | Story by John Petrucci  The Vinyl Box Set features a Custom 12”x12” hard slipcase that houses a 4LP set of 180-gram black vinyl housed in 2 gatefold jackets with inserts. A Double-sided 18”x24” map of The Great Northern Empire of the Americas. This bundle also includes a digital download of the album. The download code expires January 29, 2018. Made in the EU  Durations do not appear on this release. Timings via stopwatch. |
+| Notes | Story by John Petrucci<br><br>The Vinyl Box Set features a Custom 12”x12” hard slipcase that houses a 4LP set of 180-gram black vinyl housed in 2 gatefold jackets with inserts. A Double-sided 18”x24” map of The Great Northern Empire of the Americas. This bundle also includes a digital download of the album. The download code expires January 29, 2018.<br>Made in the EU<br><br>Durations do not appear on this release. Timings via stopwatch. |
 | Discogs URL    | [Dream Theater - The Astonishing](https://www.discogs.com/release/8197035-Dream-Theater-The-Astonishing) |

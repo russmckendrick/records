@@ -4,6 +4,7 @@ artist_name: "The Cure"
 artist: "the-cure"
 album_name: "Mixed Up"
 date: 2018-04-21T11:15:17.000000Z
+release_date: "2017-04-16"
 release_id: "11863715"
 slug: "mixed-up-11863715"
 hideSummary: true
@@ -38,43 +39,32 @@ Most of the songs are extended mixes. Several had been previously released on 12
 The Cure also released some other new mixes as the B-sides of the singles from Mixed Up: the first single, "Never Enough", featured a remix of "Let's Go to Bed", titled "Let's Go to Bed" (Milk Mix) on the 12", cassette and CD versions, as well as a new song, "Harold and Joe", while the second single, "Close to Me" (Remix) contained "Just Like Heaven" (Dizzy Mix) on all formats and "Primary" (Red Mix) on the 12", CD and cassette versions as B-sides; the third single, "A Forest" (Tree Mix), contained the original version of the song and "In Between Days" (Shiver Mix) only on 5-inch CD as B-sides.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Lullaby (Extended-Mix)
-2. Close To Me (Closer Mix)
-3. Fascination Street (Extended Mix)
-4. The Walk (Everything Mix)
-5. Lovesong (Extended Mix)
-6. A Forest (Tree Mix)
-7. Pictures Of You (Extended Dub Mix)
-8. Hot Hot Hot!!! (Extended Mix)
-9. Why Can't I Be You? (Extended Mix)
-10. The Caterpillar (Flicker Mix)
-11. Inbetween Days (Shiver Mix)
-12. Never Enough (Big Mix)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Lullaby (Extended-Mix) |  |
+| A2 | Close To Me (Closer Mix) |  |
+| A3 | Fascination Street (Extended Mix) |  |
+| B1 | The Walk (Everything Mix) |  |
+| B2 | Lovesong (Extended Mix) |  |
+| B3 | A Forest (Tree Mix) |  |
+| C1 | Pictures Of You (Extended Dub Mix) |  |
+| C2 | Hot Hot Hot!!! (Extended Mix) |  |
+| C3 | Why Can't I Be You? (Extended Mix) |  |
+| D1 | The Caterpillar (Flicker Mix) |  |
+| D2 | Inbetween Days (Shiver Mix) |  |
+| D3 | Never Enough (Big Mix) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-cure-single/1445051390" >}}<br>
 
 
-## Videos
-### Lullaby
-{{< youtube id="dGBQwBkCaTs" title="Lullaby" >}}<br>
-### More Videos
-
-- [Close To Me Closer Mix](https://www.youtube.com/watch?v=ucXs_mM6Qqk)
-- [A Forest Tree Mix](https://www.youtube.com/watch?v=pGGI42sy4qw)
-- [In Between Days Shiver Mix](https://www.youtube.com/watch?v=YoYEl9GL8Y8)
-- [Fascination Street Extended Mix](https://www.youtube.com/watch?v=pJRu9uEhCAc)
-- [The Walk Everything Mix](https://www.youtube.com/watch?v=RcCJpwGfqS4)
-- [Lovesong Extended Mix](https://www.youtube.com/watch?v=B8RkWGVT4j0)
-- [Pictures Of You Extended Dub Mix](https://www.youtube.com/watch?v=r5oNWPRW7mU)
-- [Hot Hot Hot Extended Mix](https://www.youtube.com/watch?v=nY6tbRqy8oA)
-- [The Caterpillar Flicker Mix](https://www.youtube.com/watch?v=jWL_JzIizWY)
-- [Never Enough Big Mix](https://www.youtube.com/watch?v=b6EIg3RUzeI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +76,5 @@ The Cure also released some other new mixes as the B-sides of the singles from M
 | Format         | Vinyl 2× LP Record Store Day Compilation Picture Disc Reissue Remastered |
 | Label          | Polydor |
 | Catalog Number | 670 998-8 |
-| Notes | As on front sticker: The Cure Mixed Up 2LP Picture Disc Record Store Day 2018 Exclusive First time on picture disc Remastered by Robert Smith 670 998-8  Released in a gatefold die-cut sleeve with grey front sticker. Contains a download voucher  ℗&© 2018 fiction records ltd.  made in the eu. this compilation ℗ 2018 fiction records ltd. © 2018 fiction records ltd.  published by fiction songs ltd.  all tracks (P) 2018 fiction records ltd.  'Mixed Up' remastered by tim young @ metropolis assisted by Robert Smith@home  Limited to 7000 copies.  Track A1 produced in 1989 and released March 1989. Track A2 produced in 1985 and remixed June 1990. Track A3 produced in 1989 and released in the USA March 1989. Track B1 re-recorded and mixed June 1990. Track B2 produced in 1989 and released August 1989. Track B3 re-recorded and mixed June 1990. Track C1 produced in 1989 and released February 1990. Track C2 produced in 1987 and released February 1988. Track C3 produced in 1987 and released February 1987. Track D1 produced in 1984 and remixed May 1990. Track D2 produced in 1985 and remixed June 1990. Track D3 produced in 1990 and mixed July 1990.   "Look for the ridiculous in everything and you will find it"  Jules Renard.  All track names has "Remastered 2018" in their names printed on back cover and inside gatefold cover. |
+| Notes | As on front sticker:<br>The Cure Mixed Up<br>2LP Picture Disc Record Store Day 2018 Exclusive<br>First time on picture disc<br>Remastered by Robert Smith<br>670 998-8<br><br>Released in a gatefold die-cut sleeve with grey front sticker.<br>Contains a download voucher<br><br>℗&© 2018 fiction records ltd. <br>made in the eu.<br>this compilation ℗ 2018 fiction records ltd.<br>© 2018 fiction records ltd.<br><br>published by fiction songs ltd.<br><br>all tracks (P) 2018 fiction records ltd.<br><br>'Mixed Up' remastered by tim young @ metropolis<br>assisted by Robert Smith@home<br><br>Limited to 7000 copies.<br><br>Track A1 produced in 1989 and released March 1989.<br>Track A2 produced in 1985 and remixed June 1990.<br>Track A3 produced in 1989 and released in the USA March 1989.<br>Track B1 re-recorded and mixed June 1990.<br>Track B2 produced in 1989 and released August 1989.<br>Track B3 re-recorded and mixed June 1990.<br>Track C1 produced in 1989 and released February 1990.<br>Track C2 produced in 1987 and released February 1988.<br>Track C3 produced in 1987 and released February 1987.<br>Track D1 produced in 1984 and remixed May 1990.<br>Track D2 produced in 1985 and remixed June 1990.<br>Track D3 produced in 1990 and mixed July 1990. <br><br>"Look for the ridiculous in everything and you will find it" <br>Jules Renard.<br><br>All track names has "Remastered 2018" in their names printed on back cover and inside gatefold cover. |
 | Discogs URL    | [The Cure - Mixed Up](https://www.discogs.com/release/11863715-The-Cure-Mixed-Up) |

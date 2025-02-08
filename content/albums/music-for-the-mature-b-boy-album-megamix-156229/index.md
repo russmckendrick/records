@@ -4,6 +4,7 @@ artist_name: "DJ Format"
 artist: "dj-format"
 album_name: "Music For The Mature B-Boy (Album Megamix)"
 date: 2017-01-20T17:21:17.000000Z
+release_date: ""
 release_id: "156229"
 slug: "music-for-the-mature-b-boy-album-megamix-156229"
 hideSummary: true
@@ -19,19 +20,21 @@ styles: ["Breakbeat"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Music For The Mature B-Boy (Album Megamix)
-2. Music For The Mature B-Boy (Album Megamix)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Music For The Mature B-Boy (Album Megamix) |  |
+| B1 | Music For The Mature B-Boy (Album Megamix) |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### DJ Format - Music For The Mature B Boy - Album Sampler Mix
-{{< youtube id="_DoiY8Xckyg" title="DJ Format - Music For The Mature B Boy - Album Sampler Mix" >}}<br>
-### More Videos
 
-- [DJ Format - Music For The Mature B Boy - Album Sampler Mix](https://www.youtube.com/watch?v=_DoiY8Xckyg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -42,5 +45,5 @@ styles: ["Breakbeat"]
 | Format         | Vinyl 12" Picture Disc Limited Edition |
 | Label          | Genuine |
 | Catalog Number | GEN 005 T |
-| Notes | DJ Format's 'Music For The Mature B-Boy' album condensed into a megamix by Psycho Pab.    Plays same both sides. Limited to 300 copies.  |
+| Notes | DJ Format's 'Music For The Mature B-Boy' album condensed into a megamix by Psycho Pab.<br><br>Plays same both sides. Limited to 300 copies.<br> |
 | Discogs URL    | [DJ Format - Music For The Mature B-Boy (Album Megamix)](https://www.discogs.com/release/156229-DJ-Format-Music-For-The-Mature-B-Boy-Album-Megamix) |

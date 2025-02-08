@@ -4,6 +4,7 @@ artist_name: "Big Big Train"
 artist: "big-big-train"
 album_name: "Grand Tour"
 date: 2019-05-17T18:28:09.000000Z
+release_date: "2019-05-17"
 release_id: "13635083"
 slug: "grand-tour-13635083"
 hideSummary: true
@@ -27,42 +28,29 @@ styles: ["Prog Rock"]
 ---
 
 Grand Tour is the twelfth studio album by the English progressive rock band Big Big Train. It contains all new songs unlike the previous, The Second Brightest Star. Thematically it broadens the lyrical landscape for the group into the European world, previously having a largely domestic British focus. It moves from English folklore and landscape, to the 17th and 18th century habit of well-to-do Europeans going on the 'Grand Tour' to experience a wider circle of art and science. It is the last studio album to feature band members Dave Gregory, Rachel Hall, and Danny Manners who left in 2020, and first without co-founder Andy Poole, who had departed in January 2018.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Novum Organum (2:25)
-2. Alive (4:34)
-3. The Florentine (8:17)
-4. Roman Stone (13:33)
-5. Pantheon (6:12)
-6. Theodora In Green And Gold (5:32)
-7. Ariel (14:28)
-8. Voyager (14:20)
-9. Homesong (4:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Novum Organum | 2:25 |
+| A2 | Alive | 4:34 |
+| A3 | The Florentine | 8:17 |
+| B1 | Roman Stone | 13:33 |
+| B2 | Pantheon | 6:12 |
+| C1 | Theodora In Green And Gold | 5:32 |
+| C2 | Ariel | 14:28 |
+| D1 | Voyager | 14:20 |
+| D2 | Homesong | 4:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/grand-tour/1459209342" >}}<br>
 
 
-## Videos
-### The Florentine
-{{< youtube id="1U2bB5Rh418" title="The Florentine" >}}<br>
-### More Videos
-
-- [Voyager](https://www.youtube.com/watch?v=sC-kqc8GX0s)
-- [Ariel](https://www.youtube.com/watch?v=aGic3lRoFVY)
-- [Novum Organum](https://www.youtube.com/watch?v=-7GNKMI6D60)
-- [Roman Stone](https://www.youtube.com/watch?v=l-C2ARZzE6Q)
-- [Pantheon](https://www.youtube.com/watch?v=vBwdFOauMFE)
-- [The Florentine](https://www.youtube.com/watch?v=1U2bB5Rh418)
-- [Voyager](https://www.youtube.com/watch?v=sC-kqc8GX0s)
-- [Ariel](https://www.youtube.com/watch?v=aGic3lRoFVY)
-- [Novum Organum](https://www.youtube.com/watch?v=-7GNKMI6D60)
-- [Roman Stone](https://www.youtube.com/watch?v=l-C2ARZzE6Q)
-- [Pantheon](https://www.youtube.com/watch?v=vBwdFOauMFE)
-- [Big Big Train - Theodora in Green and Gold](https://www.youtube.com/watch?v=nZRsmxpS7iI)
 
 ## Release Images
 {{< imageGrid >}}

@@ -44,49 +44,31 @@ The album’s biggest hit was “Far Gone and Out”, arguably the most upbeat t
 
 
 ## Tracklisting
-1. I Love Rock 'n' Roll
-2. Birthday
-3. Stardust Remedy
-4. Fizzy
-5. Moe Tucker
-6. Perfume
-7. Virtually Unreal
-8. Degenerate
-9. Cracking Up
-10. Commercial
-11. Supertramp
-12. Never Understood
-13. I Can't Find The Time For Times
-14. Man On The Moon
-15. Black
-16. Dream Lover
-17. I Hate Rock 'n' Roll
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Love Rock 'n' Roll |  |
+| A2 | Birthday |  |
+| A3 | Stardust Remedy |  |
+| A4 | Fizzy |  |
+| A5 | Moe Tucker |  |
+| B6 | Perfume |  |
+| B7 | Virtually Unreal |  |
+| B8 | Degenerate |  |
+| B9 | Cracking Up |  |
+| C10 | Commercial |  |
+| C11 | Supertramp |  |
+| C12 | Never Understood |  |
+| C13 | I Can't Find The Time For Times |  |
+| D14 | Man On The Moon |  |
+| D15 | Black |  |
+| D16 | Dream Lover |  |
+| D17 | I Hate Rock 'n' Roll |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/honeys-dead-expanded-version/464697396" >}}<br>
 
 
-## Videos
-### The Jesus And Mary Chain - Cracking Up OFFICIAL VIDEO
-{{< youtube id="lHhz9_R2L7E" title="The Jesus And Mary Chain - Cracking Up OFFICIAL VIDEO" >}}<br>
-### More Videos
-
-- [The Jesus And Mary Chain - Never Understand Official Music Video](https://www.youtube.com/watch?v=b2bzrCCKDwc)
-- [The Jesus and Mary Chain - I Love RocknRoll Official Video](https://www.youtube.com/watch?v=oQHOaZCNUqs)
-- [Birthday](https://www.youtube.com/watch?v=wGhiFy_OIJY)
-- [Stardust Remedy](https://www.youtube.com/watch?v=EpCB1Ud2N6k)
-- [Fizzy - The Jesus And Mary chain](https://www.youtube.com/watch?v=E-NXFXT3r2Q)
-- [Moe Tucker](https://www.youtube.com/watch?v=_OyvzYAYL_4)
-- [Perfume](https://www.youtube.com/watch?v=wt70lY1OQVc)
-- [The Jesus and Mary Chain - Virtually Unreal](https://www.youtube.com/watch?v=kOVqq2HjJO8)
-- [The Jesus And Mary Chain - Degenerate](https://www.youtube.com/watch?v=zue6r1Hi-EI)
-- [Commercial - The Jesus and Mary Chain](https://www.youtube.com/watch?v=Zn96e7Fm6ig)
-- [The Jesus and Mary Chain - Supertramp](https://www.youtube.com/watch?v=hrZxvG6NJL4)
-- [The Jesus And Mary Chain - I Cant Find The Time For Times](https://www.youtube.com/watch?v=ixQRThWIVH4)
-- [The Jesus And Mary Chain - Man On The Moon](https://www.youtube.com/watch?v=ryPG7FNgNL0)
-- [Black](https://www.youtube.com/watch?v=OlL4rLF6l-4)
-- [The Jesus And Mary Chain - Dream Lover](https://www.youtube.com/watch?v=thiiUDzLLAE)
-- [The Jesus and Mary Chain - I Hate RocknRoll Official Video](https://www.youtube.com/watch?v=Mlu4F4SRjyk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -98,5 +80,5 @@ The album’s biggest hit was “Far Gone and Out”, arguably the most upbeat t
 | Format         | Vinyl LP Stereo (Blue 180g), Vinyl LP Stereo (Red 180g), All Media Album Limited Edition Reissue Remastered |
 | Label          | Fuzz Club Records |
 | Catalog Number | FC200 |
-| Notes | Gatefold sleeve. Full colour inner sleeves.  Hype sticker: "Limited Edition 2x 180g Blue And Red Vinyl Remastered For Vinyl"  Catalog no. FC200 appears on spine and labels. Catalog no. FC200V12IND appears on hype sticker only.  (p) & (c) 2023 Sony Music Entertainment for the world excluding USA and Canada. (p) & (c) 2023 Sub Pop Records for USA and Canada. Made in the EU. |
+| Notes | Gatefold sleeve. Full colour inner sleeves.<br><br>Hype sticker:<br>"Limited Edition<br>2x 180g<br>Blue And Red Vinyl<br>Remastered For Vinyl"<br><br>Catalog no. FC200 appears on spine and labels.<br>Catalog no. FC200V12IND appears on hype sticker only.<br><br>(p) & (c) 2023 Sony Music Entertainment for the world excluding USA and Canada.<br>(p) & (c) 2023 Sub Pop Records for USA and Canada.<br>Made in the EU. |
 | Discogs URL    | [The Jesus And Mary Chain - Munki](https://www.discogs.com/release/28649413-The-Jesus-And-Mary-Chain-Munki) |

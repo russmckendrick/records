@@ -4,6 +4,7 @@ artist_name: "Dire Straits"
 artist: "dire-straits"
 album_name: "The Studio Albums 1978 - 1991"
 date: 2020-10-12T12:25:49.000000Z
+release_date: "2023-11-03"
 release_id: "5238704"
 slug: "the-studio-albums-1978-1991-5238704"
 hideSummary: true
@@ -47,69 +48,74 @@ styles: ["Classic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Dire Straits
-2. Down To The Waterline
-3. Water Of Love
-4. Setting Me Up
-5. Six Blade Knife
-6. Southbound Again
-7. Sultans Of Swing
-8. In The Gallery
-9. Wild West End
-10. Lions
-11. Communiqué
-12. Once Upon A Time In The West
-13. News
-14. Where Do You Think You're Going?
-15. Communiqué
-16. Lady Writer
-17. Angel Of Mercy
-18. Portobello Belle
-19. Single-Handed Sailor
-20. Follow Me Home
-21. Making Movies
-22. Tunnel Of Love
-23. Romeo And Juliet
-24. Skateaway
-25. Expresso Love
-26. Hand In Hand
-27. Solid Rock
-28. Les Boys
-29. Love Over Gold
-30. Telegraph Road
-31. Private Investigations
-32. Industrial Disease
-33. Love Over Gold
-34. It Never Rains
-35. Brothers In Arms
-36. So Far Away
-37. Money For Nothing
-38. Walk Of Life
-39. Your Latest Trick
-40. Why Worry
-41. Ride Across The River
-42. The Man's Too Strong
-43. One World
-44. Brothers In Arms
-45. On Every Street
-46. Calling Elvis
-47. On Every Street
-48. When It Comes To You
-49. Fade To Black
-50. The Bug
-51. You And Your Friend
-52. Heavy Fuel
-53. Iron Hand
-54. Ticket To Heaven
-55. My Parties
-56. Planet Of New Orleans
-57. How Long
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Dire Straits |  |
+| A1 | Down To The Waterline |  |
+| A2 | Water Of Love |  |
+| A3 | Setting Me Up |  |
+| A4 | Six Blade Knife |  |
+| A5 | Southbound Again |  |
+| B1 | Sultans Of Swing |  |
+| B2 | In The Gallery |  |
+| B3 | Wild West End |  |
+| B4 | Lions |  |
+|  | Communiqué |  |
+| C1 | Once Upon A Time In The West |  |
+| C2 | News |  |
+| C3 | Where Do You Think You're Going? |  |
+| C4 | Communiqué |  |
+| D1 | Lady Writer |  |
+| D2 | Angel Of Mercy |  |
+| D3 | Portobello Belle |  |
+| D4 | Single-Handed Sailor |  |
+| D5 | Follow Me Home |  |
+|  | Making Movies |  |
+| E1 | Tunnel Of Love |  |
+| E2 | Romeo And Juliet |  |
+| E3 | Skateaway |  |
+| F1 | Expresso Love |  |
+| F2 | Hand In Hand |  |
+| F3 | Solid Rock |  |
+| F4 | Les Boys |  |
+|  | Love Over Gold |  |
+| G1 | Telegraph Road |  |
+| G2 | Private Investigations |  |
+| H1 | Industrial Disease |  |
+| H2 | Love Over Gold |  |
+| H3 | It Never Rains |  |
+|  | Brothers In Arms |  |
+| I1 | So Far Away |  |
+| I2 | Money For Nothing |  |
+| J1 | Walk Of Life |  |
+| J2 | Your Latest Trick |  |
+| K1 | Why Worry |  |
+| K2 | Ride Across The River |  |
+| L1 | The Man's Too Strong |  |
+| L2 | One World |  |
+| L3 | Brothers In Arms |  |
+|  | On Every Street |  |
+| M1 | Calling Elvis |  |
+| M2 | On Every Street |  |
+| M3 | When It Comes To You |  |
+| N1 | Fade To Black |  |
+| N2 | The Bug |  |
+| N3 | You And Your Friend |  |
+| O1 | Heavy Fuel |  |
+| O2 | Iron Hand |  |
+| O3 | Ticket To Heaven |  |
+| P1 | My Parties |  |
+| P2 | Planet Of New Orleans |  |
+| P3 | How Long |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-1978-1992/1705881552" >}}<br>
-
 
 
 
@@ -122,5 +128,5 @@ styles: ["Classic Rock"]
 | Format         | Box Set Compilation, Vinyl LP Album Remastered Repress (180 Gram), Vinyl LP Album Remastered Repress (180 Gram), Vinyl LP Album Remastered Repress (180 Gram), Vinyl LP Album Remastered Repress (180 Gram), Vinyl 2× LP Album Reissue Remastered (180 Gram), Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 0602537529193v |
-| Notes | Sticker on front with text: -dIRE sTRAITS THE STUDIO ALBUMS 1978-1991 -The six groundbreaking studio albums. -180 gm audiophile quality vinyl. -Mastered from the original analogue and digital masters by Bernie Grundman and Bob Ludwig. -Lacquers cut by Chris Bellman and Bernie Grundman. -Includes download card. -www.Backtoblackvinyl.com  All LP's comes with printed inner sleeves. Dire Straits uses [r=2699975] (2009 Analogue Remaster) lacquers Communiqué uses [r=2803323] (2009 Analogue Remaster) lacquers Making Movies uses [r=3758767] (2010 Analogue Remaster) lacquers Love Over Gold uses [r=2421149] (2010 Analogue Remaster) lacquers Brothers In Arms & On Every Street are previously unreleased remasters. Lacquers for Side A of LP6 was damaged during transfer to pressing plant and thus was not cut by Chris Bellman as in [r=5139357] (Pallas version) of box-set. |
+| Notes | Sticker on front with text:<br>-dIRE sTRAITS THE STUDIO ALBUMS 1978-1991<br>-The six groundbreaking studio albums.<br>-180 gm audiophile quality vinyl.<br>-Mastered from the original analogue and digital masters by Bernie Grundman and Bob Ludwig.<br>-Lacquers cut by Chris Bellman and Bernie Grundman.<br>-Includes download card.<br>-www.Backtoblackvinyl.com<br><br>All LP's comes with printed inner sleeves.<br>Dire Straits uses [r=2699975] (2009 Analogue Remaster) lacquers<br>Communiqué uses [r=2803323] (2009 Analogue Remaster) lacquers<br>Making Movies uses [r=3758767] (2010 Analogue Remaster) lacquers<br>Love Over Gold uses [r=2421149] (2010 Analogue Remaster) lacquers<br>Brothers In Arms & On Every Street are previously unreleased remasters. Lacquers for Side A of LP6 was damaged during transfer to pressing plant and thus was not cut by Chris Bellman as in [r=5139357] (Pallas version) of box-set. |
 | Discogs URL    | [Dire Straits - The Studio Albums 1978 - 1991](https://www.discogs.com/release/5238704-Dire-Straits-The-Studio-Albums-1978-1991) |

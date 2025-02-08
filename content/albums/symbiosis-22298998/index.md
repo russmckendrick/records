@@ -4,6 +4,7 @@ artist_name: "Nordic Giants"
 artist: "nordic-giants"
 album_name: "Symbiosis"
 date: 2022-02-27T08:05:43.000000Z
+release_date: "2022-02-04"
 release_id: "22298998"
 slug: "symbiosis-22298998"
 hideSummary: true
@@ -27,23 +28,26 @@ Symbiosis (Ancient Greek συμβίωσις symbíōsis: living with, companions
 The term is sometimes more exclusively used in a restricted, mutualistic sense, where both symbionts contribute to each other's subsistence.
 Symbiosis can be obligatory, which means that one, or both of the symbionts depend on each other for survival, or facultative (optional), when they can also subsist independently.
 Symbiosis is also classified by physical attachment. Symbionts forming a single body live in conjunctive symbiosis, while all other arrangements are called disjunctive symbiosis. When one organism lives on the surface of another, such as head lice on humans, it is called ectosymbiosis; when one partner lives inside the tissues of another, such as Symbiodinium within coral, it is termed endosymbiosis.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Philosophy Of Mind (7:41)
-2. Anamorphia (5:56)
-3. Hjem (4:23)
-4. Faceless (5:41)
-5. Convergence (5:37)
-6. Spheres (6:01)
-7. Spires Of Ascendency (4:27)
-8. Infinity (7:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Philosophy Of Mind | 7:41 |
+| A2 | Anamorphia | 5:56 |
+| A3 | Hjem | 4:23 |
+| A4 | Faceless | 5:41 |
+| B1 | Convergence | 5:37 |
+| B2 | Spheres | 6:01 |
+| B3 | Spires Of Ascendency | 4:27 |
+| B4 | Infinity | 7:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/symbiosis/1604277526" >}}<br>
-
 
 
 

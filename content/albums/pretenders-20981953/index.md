@@ -4,6 +4,7 @@ artist_name: "The Pretenders"
 artist: "the-pretenders"
 album_name: "Pretenders"
 date: 2024-03-28T05:14:26.000000Z
+release_date: "1980-01-03"
 release_id: "20981953"
 slug: "pretenders-20981953"
 hideSummary: true
@@ -28,45 +29,32 @@ Pretenders is the debut studio album by British-American band The Pretenders, re
 Nick Lowe produced the Pretenders' first single, "Stop Your Sobbing", but decided not to work with them again as he thought the band was "not going anywhere". Chris Thomas took over on the subsequent recording sessions.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Precious (3:36)
-2. The Phone Call (2:29)
-3. Up The Neck (4:27)
-4. Tattooed Love Boys (2:59)
-5. Space Invader (3:26)
-6. The Wait (3:35)
-7. Stop Your Sobbing (3:26)
-8. Kid (3:06)
-9. Private Life (6:25)
-10. Brass In Pocket (3:04)
-11. Lovers Of Today (5:51)
-12. Mystery Achievement (5:51)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Precious | 3:36 |
+| A2 | The Phone Call | 2:29 |
+| A3 | Up The Neck | 4:27 |
+| A4 | Tattooed Love Boys | 2:59 |
+| A5 | Space Invader | 3:26 |
+| A6 | The Wait | 3:35 |
+| A7 | Stop Your Sobbing | 3:26 |
+| B1 | Kid | 3:06 |
+| B2 | Private Life | 6:25 |
+| B3 | Brass In Pocket | 3:04 |
+| B4 | Lovers Of Today | 5:51 |
+| B5 | Mystery Achievement | 5:51 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pretenders/118127946" >}}<br>
 
 
-## Videos
-### Pretenders - Pretenders  Full  album
-{{< youtube id="HmwpEmD6-QU" title="Pretenders - Pretenders  Full  album" >}}<br>
-### More Videos
-
-- [A1  Precious    - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=TbT0oUsatv0)
-- [A2  The Phone Call    - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=i141H0kcgeo)
-- [A3  Up The Neck   - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=Gn5H_JnHZ8k)
-- [A4  Tattooed Love Boys    - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=GW6y2WzkrcY)
-- [A5  Space Invader   - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=xL2PANA4hNw)
-- [A6  The Wait   - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=FjP_wvuP_8o)
-- [A7  Stop Your Sobbing   - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=sq1COIv8VH0)
-- [B1  Kid    - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=D5XUra-J3k8)
-- [B2  Private Life   - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=SrzB-l0xDN4)
-- [B3  Brass In Pocket   - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=J8BjpKWvyKQ)
-- [B4  Lovers Of Today - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=GP-cu6Lf0XI)
-- [B5  Mystery Achievement   - Pretenders - Pretenders Album - 1980 US Vinyl Record HQ Audio Rip](https://www.youtube.com/watch?v=_dFEosSk-zM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +66,5 @@ Nick Lowe produced the Pretenders' first single, "Stop Your Sobbing", but decide
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered Stereo (Red) |
 | Label          | Real Records (2) |
 | Catalog Number | 0190295165093 |
-| Notes | Made in Germany. Limited edition red vinyl with 2018 remastered audio.  Originally ℗ 1980, Remaster ℗ 2018. © 2021 Warner Music UK Ltd. |
+| Notes | Made in Germany. Limited edition red vinyl with 2018 remastered audio.<br><br>Originally ℗ 1980, Remaster ℗ 2018. © 2021 Warner Music UK Ltd. |
 | Discogs URL    | [The Pretenders - Pretenders](https://www.discogs.com/release/20981953-Pretenders-Pretenders) |

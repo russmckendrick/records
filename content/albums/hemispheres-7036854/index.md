@@ -4,6 +4,7 @@ artist_name: "Rush"
 artist: "rush"
 album_name: "Hemispheres"
 date: 2015-08-09T08:38:01.000000Z
+release_date: "2017-10-17"
 release_id: "7036854"
 slug: "hemispheres-7036854"
 hideSummary: true
@@ -32,28 +33,24 @@ After a particularly exhausting tour supporting A Farewell to Kings to capitalis
 Hemispheres received a mostly positive reception from critics upon release, and has gained further acclaim retrospectively. It was the first Rush album to receive widespread FM radio airplay, helped by the release of "Circumstances" and "The Trees", the two shorter tracks on the album, as singles. The album has been remastered several times, and a deluxe 40th anniversary edition with previously unreleased live tracks followed in 2018.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Cygnus X-1 Book II: Hemispheres (18:07)
-2. Circumstances (3:42)
-3. The Trees (4:46)
-4. La Villa Strangiato (9:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Cygnus X-1 Book II: Hemispheres | 18:07 |
+| B1 | Circumstances | 3:42 |
+| B2 | The Trees | 4:46 |
+|  | La Villa Strangiato | 9:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-next-hemisphere-a-rush-tribute/1294937317" >}}<br>
 
 
-## Videos
-### Cygnus X-1 Book II Hemispheres
-{{< youtube id="J0zN0VjA3As" title="Cygnus X-1 Book II Hemispheres" >}}<br>
-### More Videos
-
-- [Circumstances](https://www.youtube.com/watch?v=QHQ-Xl5YC5o)
-- [The Trees](https://www.youtube.com/watch?v=0jRafVKRg18)
-- [La Villa Srangiato An Exercise in Self-Indulgence](https://www.youtube.com/watch?v=FeumXTFH3vc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +62,5 @@ Hemispheres received a mostly positive reception from critics upon release, and 
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180g) |
 | Label          | Mercury |
 | Catalog Number | 00602547118066 |
-| Notes | Issued in a gatefold sleeve. Includes a voucher to download mp3 version of the album and a poster    Recorded at Rockfield Studios, Wales, during June and July 1978  Vocals recorded at Advision Studios, London  Mixed at Trident Studios, Soho, London, August 1978  Direct Metal Mastering at Abbey Road Mastering Studios - December 2014    ℗ © 2015 Mercury Records, a division of UMG Recordings, Inc.  Made in the EU    Similar entry is the [url=http://www.discogs.com/release/7025925]USA & Canada[/url] release |
+| Notes | Issued in a gatefold sleeve. Includes a voucher to download mp3 version of the album and a poster<br><br>Recorded at Rockfield Studios, Wales, during June and July 1978<br>Vocals recorded at Advision Studios, London<br>Mixed at Trident Studios, Soho, London, August 1978<br>Direct Metal Mastering at Abbey Road Mastering Studios - December 2014<br><br>℗ © 2015 Mercury Records, a division of UMG Recordings, Inc.<br>Made in the EU<br><br>Similar entry is the [url=http://www.discogs.com/release/7025925]USA & Canada[/url] release |
 | Discogs URL    | [Rush - Hemispheres](https://www.discogs.com/release/7036854-Rush-Hemispheres) |

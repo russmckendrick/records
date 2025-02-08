@@ -4,6 +4,7 @@ artist_name: "Mercury Rev"
 artist: "mercury-rev"
 album_name: "Deserter's Songs"
 date: 2019-01-19T09:37:34.000000Z
+release_date: "1998"
 release_id: "12865243"
 slug: "deserter-s-songs-12865243"
 hideSummary: true
@@ -26,42 +27,31 @@ Deserter's Songs is the fourth studio album by American rock band Mercury Rev, r
 The success of this album was a pleasant surprise for the band. After the commercial failure of their previous album See You on the Other Side, which frontman Jonathan Donahue considered to be the band's best album, they decided to make one more record entirely for themselves, ignoring commercial influences, and expecting to split up shortly afterward. Surprisingly, Deserter's Songs was their most successful album, bringing them popularity in the UK and Europe, also making a smaller mark in the US.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Holes (5:55)
-2. Tonite It Shows (3:40)
-3. Endlessly (4:25)
-4. I Collect Coins (1:27)
-5. Opus 40 (5:10)
-6. Hudson Line (2:54)
-7. The Happy End (The Drunk Room) (2:06)
-8. Goddess On A Hiway (3:45)
-9. The Funny Bird (5:51)
-10. Pick Up If You're There (3:05)
-11. Delta Sun Bottleneck Stomp (6:17)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Holes | 5:55 |
+| A2 | Tonite It Shows | 3:40 |
+| A3 | Endlessly | 4:25 |
+| A4 | I Collect Coins | 1:27 |
+| A5 | Opus 40 | 5:10 |
+| A6 | Hudson Line | 2:54 |
+| B1 | The Happy End (The Drunk Room) | 2:06 |
+| B2 | Goddess On A Hiway | 3:45 |
+| B3 | The Funny Bird | 5:51 |
+| B4 | Pick Up If You're There | 3:05 |
+| B5 | Delta Sun Bottleneck Stomp | 6:17 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/deserted-songs/1523532121" >}}<br>
 
 
-## Videos
-### Holes
-{{< youtube id="B7EyfGpV094" title="Holes" >}}<br>
-### More Videos
-
-- [Tonite It Shows](https://www.youtube.com/watch?v=12_kW1d-VTQ)
-- [Endlessly](https://www.youtube.com/watch?v=ifjDuA2ZZbE)
-- [I Collect Coins](https://www.youtube.com/watch?v=OG5qHUDn-ck)
-- [Opus 40](https://www.youtube.com/watch?v=HJ_WzV38t3A)
-- [Hudson Line](https://www.youtube.com/watch?v=9jPw4lleFno)
-- [The Happy End The Drunk Room](https://www.youtube.com/watch?v=t7GheV0j2XE)
-- [Goddess on a Hiway](https://www.youtube.com/watch?v=V4H5AA1MNKU)
-- [The Funny Bird](https://www.youtube.com/watch?v=SFWHQmgmW8E)
-- [Pick Up If Youre There](https://www.youtube.com/watch?v=FLCfMxO60N8)
-- [Delta Sun Bottleneck Stomp](https://www.youtube.com/watch?v=zmkRmHLgDOA)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "Buffalo Tom"
 artist: "buffalo-tom"
 album_name: "Birdbrain"
 date: 2020-10-10T10:40:13.000000Z
+release_date: "1990-11"
 release_id: "16016550"
 slug: "birdbrain-16016550"
 hideSummary: true
@@ -26,31 +27,29 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Birdbrain (3:13)
-2. Skeleton Key (4:35)
-3. Caress (2:41)
-4. Guy Who Is Me (3:04)
-5. Enemy (4:53)
-6. Crawl (3:53)
-7. Fortune Teller (3:16)
-8. Baby (3:32)
-9. Directive (4:01)
-10. Bleeding Heart (3:11)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Birdbrain | 3:13 |
+| A2 | Skeleton Key | 4:35 |
+| A3 | Caress | 2:41 |
+| A4 | Guy Who Is Me | 3:04 |
+| A5 | Enemy | 4:53 |
+| B1 | Crawl | 3:53 |
+| B2 | Fortune Teller | 3:16 |
+| B3 | Baby | 3:32 |
+| B4 | Directive | 4:01 |
+| B5 | Bleeding Heart | 3:11 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/birdbrain/1027455005" >}}<br>
 
 
-## Videos
-### Skeleton Key
-{{< youtube id="oOBkYZ6CjBc" title="Skeleton Key" >}}<br>
-### More Videos
-
-- [Enemy](https://www.youtube.com/watch?v=KOQGXu7M9gw)
-- [Buffalo Tom - Birdbrain](https://www.youtube.com/watch?v=eEIb5Xrf81g)
-- [Buffalo Tom - Crawl](https://www.youtube.com/watch?v=MNd9RYJMt6k)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +60,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition Reissue (Mint Green) |
 | Label          | Beggars Arkive |
 | Catalog Number | BBQ2179LP |
-| Notes | Hype Sticker: 30th Anniversary Limited Edition Featuring mint green colored vinyl  Published by Scrawny Music Licensed from Megadisc Records, Belgium ℗ 1990 Megadisc Records © 2020 Beggars Banquet Records Ltd.  Runouts are laser-etched. |
+| Notes | Hype Sticker:<br>30th Anniversary<br>Limited Edition<br>Featuring mint green colored vinyl<br><br>Published by Scrawny Music<br>Licensed from Megadisc Records, Belgium<br>℗ 1990 Megadisc Records<br>© 2020 Beggars Banquet Records Ltd.<br><br>Runouts are laser-etched. |
 | Discogs URL    | [Buffalo Tom - Birdbrain](https://www.discogs.com/release/16016550-Buffalo-Tom-Birdbrain) |

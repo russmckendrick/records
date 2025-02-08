@@ -4,6 +4,7 @@ artist_name: "Edwin Starr"
 artist: "edwin-starr"
 album_name: "It's Called The Rock"
 date: 2019-01-19T10:37:09.000000Z
+release_date: "1992-08-11"
 release_id: "680407"
 slug: "it-s-called-the-rock-680407"
 hideSummary: true
@@ -21,23 +22,21 @@ styles: ["Soul", "Disco"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. It's Called The Rock
-2. Patiently
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | It's Called The Rock |  |
+| B | Patiently |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-hits-of-edwin-starr/1434906447" >}}<br>
 
 
-## Videos
-### Edwin Starr - Its Called The Rock  Disco 1979 
-{{< youtube id="2tUr7Ca3aww" title="Edwin Starr - Its Called The Rock  Disco 1979 " >}}<br>
-### More Videos
-
-- [PATIENTLY - EDWIN STARR](https://www.youtube.com/watch?v=vphCiSttcwc)
-- [Edwin Starr - Its Called The Rock  Disco 1979 ](https://www.youtube.com/watch?v=2tUr7Ca3aww)
-- [PATIENTLY - EDWIN STARR](https://www.youtube.com/watch?v=vphCiSttcwc)
 
 ## Release Images
 {{< imageGrid >}}

@@ -27,21 +27,23 @@ The Blues Brothers journey that John Belushi and Dan Aykroyd began on <i>Saturda
 
 
 ## Tracklisting
-1. She Caught The Katy (4:10)
-2. Peter Gunn Theme (3:46)
-3. Gimme Some Lovin' (3:06)
-4. Shake Your Tailfeather (2:48)
-5. Everybody Needs Somebody To Love (3:21)
-6. The Old Landmark (2:56)
-7. Think (3:13)
-8. Theme From Rawhide (2:37)
-9. Minnie The Moocher (3:23)
-10. Sweet Home Chicago (7:48)
-11. Jailhouse Rock (3:19)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | She Caught The Katy | 4:10 |
+| A2 | Peter Gunn Theme | 3:46 |
+| A3 | Gimme Some Lovin' | 3:06 |
+| A4 | Shake Your Tailfeather | 2:48 |
+| A5 | Everybody Needs Somebody To Love | 3:21 |
+| A6 | The Old Landmark | 2:56 |
+| B1 | Think | 3:13 |
+| B2 | Theme From Rawhide | 2:37 |
+| B3 | Minnie The Moocher | 3:23 |
+| B4 | Sweet Home Chicago | 7:48 |
+| B5 | Jailhouse Rock | 3:19 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-blues-brothers-original-soundtrack-recording/452584443" >}}<br>
-
 
 
 
@@ -54,5 +56,5 @@ The Blues Brothers journey that John Belushi and Dan Aykroyd began on <i>Saturda
 | Format         | Vinyl LP Album |
 | Label          | Atlantic |
 | Catalog Number | K 50715 |
-| Notes | A Phantom/Black Rhino Production.  Original recording: Universal Recording, Chicago. Additional recording: Record Plant, Los Angeles Record Plant, New York City Soundmixers, New York City  Mixed at Record Plant, NYC Mastered at The Master Cutting Room.  ℗©1980 Atlantic Recording Corporation. Printed and made in England   |
+| Notes | A Phantom/Black Rhino Production.<br><br>Original recording: Universal Recording, Chicago.<br>Additional recording:<br>Record Plant, Los Angeles<br>Record Plant, New York City<br>Soundmixers, New York City<br><br>Mixed at Record Plant, NYC<br>Mastered at The Master Cutting Room.<br><br>℗©1980 Atlantic Recording Corporation.<br>Printed and made in England<br><br> |
 | Discogs URL    | [The Blues Brothers - The Blues Brothers (Original Soundtrack Recording)](https://www.discogs.com/release/4625231-The-Blues-Brothers-The-Blues-Brothers-Original-Soundtrack-Recording) |

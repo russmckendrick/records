@@ -4,6 +4,7 @@ artist_name: "Wire"
 artist: "wire"
 album_name: "154"
 date: 2018-12-22T10:27:25.000000Z
+release_date: "1979-01-09"
 release_id: "12173889"
 slug: "154-12173889"
 hideSummary: true
@@ -27,51 +28,33 @@ styles: ["New Wave", "Punk", "Experimental"]
 on EMI imprint Harvest Records in the UK and Europe and Warner Bros. Records in America. Branching out even further from the minimalist punk rock style of their earlier work, 154 is considered a progression of the sounds displayed on Wire's previous album Chairs Missing, with the group experimenting with slower tempos, fuller song structures and a more prominent use of guitar effects, synthesizers and electronics.
 The album is so named because the band had played 154 gigs in their career at the time of the album's release. The unusual title of the track "Map Ref 41°N 93°W" was based on a guess of the centre of the American Midwest by bassist and singer Graham Lewis; the location of these coordinates is coincidentally close to Centerville, Iowa.
 Following the album's release, a falling out with the band's record label, EMI, as well as creative differences led to their breaking up in 1980, making 154 the band's last album up until their eventual reunion in 1985 and subsequent release of The Ideal Copy in 1987.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Should Have Known Better (3:50)
-2. Two People In A Room (2:08)
-3. The 15th (3:02)
-4. The Other Window (2:06)
-5. Single K.O. (2:19)
-6. A Touching Display (6:25)
-7. On Returning (2:05)
-8. A Mutual Friend (4:25)
-9. Blessed State (3:26)
-10. Once Is Enough (3:20)
-11. Map Ref. 41ºN 93ºW (3:35)
-12. Indirect Enquiries (3:33)
-13. 40 Versions (3:26)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Should Have Known Better | 3:50 |
+| A2 | Two People In A Room | 2:08 |
+| A3 | The 15th | 3:02 |
+| A4 | The Other Window | 2:06 |
+| A5 | Single K.O. | 2:19 |
+| A6 | A Touching Display | 6:25 |
+| A7 | On Returning | 2:05 |
+| B1 | A Mutual Friend | 4:25 |
+| B2 | Blessed State | 3:26 |
+| B3 | Once Is Enough | 3:20 |
+| B4 | Map Ref. 41ºN 93ºW | 3:35 |
+| B5 | Indirect Enquiries | 3:33 |
+| B6 | 40 Versions | 3:26 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/154/1330595261" >}}<br>
 
 
-## Videos
-### I Should Have Known Better 2006 Remastered Version
-{{< youtube id="FxigNmhB5KM" title="I Should Have Known Better 2006 Remastered Version" >}}<br>
-### More Videos
-
-- [Two People In a Room 2006 Remastered Version](https://www.youtube.com/watch?v=KjRzgZYpoPQ)
-- [The 15th 2006 Remastered Version](https://www.youtube.com/watch?v=azpgFemktHg)
-- [The Other Window 2006 Remastered Version](https://www.youtube.com/watch?v=sAhntpY7Pg0)
-- [Single KO 2006 Remastered Version](https://www.youtube.com/watch?v=YSIXgqsSW6g)
-- [A Touching Display 2006 Remastered Version](https://www.youtube.com/watch?v=1Fq-56TdMcw)
-- [On Returning 2006 Remastered Version](https://www.youtube.com/watch?v=DuQvvh-9aCM)
-- [A Mutual Friend 2006 Remastered Version](https://www.youtube.com/watch?v=Ya6yJKUPZSQ)
-- [Blessed State 2006 Remastered Version](https://www.youtube.com/watch?v=LeCI9kww3Dk)
-- [Once Is Enough 2006 Remastered Version](https://www.youtube.com/watch?v=OQr6TVdPWxo)
-- [Map Ref 41 Degrees N 93 Degrees W 2006 Remastered Version](https://www.youtube.com/watch?v=UKYbylOZB1o)
-- [Indirect Enquiries 2006 Remastered Version](https://www.youtube.com/watch?v=_1E7brhqdtE)
-- [40 Versions 2006 Remastered Version](https://www.youtube.com/watch?v=HVR9obMPABw)
-- [WIRE song 1 1979](https://www.youtube.com/watch?v=ZlJu7FZRHxc)
-- [Wire - Get Down Parts I  II](https://www.youtube.com/watch?v=UaK7_m-pZsU)
-- [WIRE lets panic later 1979](https://www.youtube.com/watch?v=u6Ep_puwWis)
-- [Wire - Small Electric Piece](https://www.youtube.com/watch?v=bSEVrZ1DmlI)
-- [Wire - Single KO HQ](https://www.youtube.com/watch?v=2JfLIxCtU-s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +66,5 @@ Following the album's release, a falling out with the band's record label, EMI, 
 | Format         | Vinyl LP Album Reissue |
 | Label          | Pinkflag |
 | Catalog Number | PF13LP |
-| Notes | Manufactured under licence from The state51 Conspiracy.  ℗ & © 2018 pinkflag  Printed inner sleeve with credits and lyrics. |
+| Notes | Manufactured under licence from The state51 Conspiracy.<br><br>℗ & © 2018 pinkflag<br><br>Printed inner sleeve with credits and lyrics. |
 | Discogs URL    | [Wire - 154](https://www.discogs.com/release/12173889-Wire-154) |

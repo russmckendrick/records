@@ -4,6 +4,7 @@ artist_name: "The Damned"
 artist: "the-damned"
 album_name: "Another Great Record From The Damned: The Best Of The Damned"
 date: 2023-07-15T02:29:42.000000Z
+release_date: ""
 release_id: "27538179"
 slug: "another-great-record-from-the-damned-the-best-of-the-damned-27538179"
 hideSummary: true
@@ -23,29 +24,31 @@ styles: ["Punk", "Goth Rock", "Psychedelic Rock", "Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. New Rose
-2. Love Song
-3. Neat Neat Neat
-4. I Just Can't Be Happy Today
-5. Jet Boy, Jet Girl
-6. Hit Or Miss
-7. There Ain't No Sanity Clause
-8. Smash It Up (Parts 1 And 2)
-9. Plan 9 Channel 7
-10. Rabid (Over You)
-11. Wait For The Blackout
-12. History Of The World Part 1
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | New Rose |  |
+| A2 | Love Song |  |
+| A3 | Neat Neat Neat |  |
+| A4 | I Just Can't Be Happy Today |  |
+| A5 | Jet Boy, Jet Girl |  |
+| A6 | Hit Or Miss |  |
+| A7 | There Ain't No Sanity Clause |  |
+| B1 | Smash It Up (Parts 1 And 2) |  |
+| B2 | Plan 9 Channel 7 |  |
+| B3 | Rabid (Over You) |  |
+| B4 | Wait For The Blackout |  |
+| B5 | History Of The World Part 1 |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### The Damned - Smash It Up Part 2
-{{< youtube id="K6LF7v7FwtI" title="The Damned - Smash It Up Part 2" >}}<br>
-### More Videos
 
-- [Born to Kill - The Damned 1976](https://www.youtube.com/watch?v=5YRtubErA_k)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,5 +59,5 @@ styles: ["Punk", "Goth Rock", "Psychedelic Rock", "Alternative Rock"]
 | Format         | Vinyl LP Compilation Reissue Stereo |
 | Label          | Ace |
 | Catalog Number | DAM 1 |
-| Notes | Issued in an unlaminated sleeve. Top opening picture inner sleeve with a light gloss finish. Package came shrink-wrapped.  ℗&© 2023 Ace Records Ltd.  Runouts are laser etched. |
+| Notes | Issued in an unlaminated sleeve.<br>Top opening picture inner sleeve with a light gloss finish.<br>Package came shrink-wrapped.<br><br>℗&© 2023 Ace Records Ltd.<br><br>Runouts are laser etched. |
 | Discogs URL    | [The Damned - Another Great Record From The Damned: The Best Of The Damned](https://www.discogs.com/release/27538179-The-Damned-Another-Great-Record-From-The-Damned-The-Best-Of-The-Damned) |

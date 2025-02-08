@@ -4,6 +4,7 @@ artist_name: "Richard Hawley"
 artist: "richard-hawley"
 album_name: "Further"
 date: 2019-06-03T17:49:54.000000Z
+release_date: "2019-05-31"
 release_id: "13696158"
 slug: "further-13696158"
 hideSummary: true
@@ -30,42 +31,31 @@ styles: []
 Further is the ninth studio album by English singer-songwriter Richard Hawley. It was released on 31 May 2019 by BMG Rights Management. The album is the first by Hawley not to be named after a location or landmark in his local city of Sheffield.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Off My Mind
-2. Alone
-3. My Little Treasures
-4. Further
-5. Emilina Says
-6. Is There A Pill?
-7. Galley Girl
-8. Not Lonely
-9. Time Is
-10. Midnight Train
-11. Doors
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Off My Mind |  |
+| A2 | Alone |  |
+| A3 | My Little Treasures |  |
+| A4 | Further |  |
+| A5 | Emilina Says |  |
+| B1 | Is There A Pill? |  |
+| B2 | Galley Girl |  |
+| B3 | Not Lonely |  |
+| B4 | Time Is |  |
+| B5 | Midnight Train |  |
+| B6 | Doors |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/further/1453685870" >}}<br>
 
 
-## Videos
-### Richard Hawley  Off My Mind Official Video
-{{< youtube id="t9UuZlB8DTA" title="Richard Hawley  Off My Mind Official Video" >}}<br>
-### More Videos
-
-- [Richard Hawley - Alone Official Video](https://www.youtube.com/watch?v=Lwj6SjKBweU)
-- [Richard Hawley - Further Official Audio](https://www.youtube.com/watch?v=HL52vxONCcM)
-- [Richard Hawley - My Little Treasures Official Video](https://www.youtube.com/watch?v=BhLAO-x5lOw)
-- [Richard Hawley - Emilina Says Official Audio](https://www.youtube.com/watch?v=T36rAgvpCeY)
-- [Richard Hawley - Is There a Pill  Official Audio](https://www.youtube.com/watch?v=7i4uaf9wDfo)
-- [Richard Hawley - Galley Girl Official Audio](https://www.youtube.com/watch?v=MvfdQziLE2s)
-- [Richard Hawley - Not Lonely Official Audio](https://www.youtube.com/watch?v=ky9VuBMsZTg)
-- [Richard Hawley - Time is Official Audio](https://www.youtube.com/watch?v=v4ns8RkhaN8)
-- [Richard Hawley - Midnight Train Official Audio](https://www.youtube.com/watch?v=dkjPhETiYD4)
-- [Richard Hawley - Doors Official Audio](https://www.youtube.com/watch?v=skmPXHhwlJ8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +67,5 @@ Further is the ninth studio album by English singer-songwriter Richard Hawley. I
 | Format         | Vinyl LP Album Limited Edition (Orange) |
 | Label          | BMG |
 | Catalog Number | 538478641 |
-| Notes | Recorded at Yellow Arch Studios, Sheffield. Chairworks, Castleford & Disgracelands, Sheffield.  ℗ & © 2019 Magic Quid Limited under exclusive license to BMG Rights Management (UK) Ltd.    Record shops only release.  |
+| Notes | Recorded at Yellow Arch Studios, Sheffield. Chairworks, Castleford & Disgracelands, Sheffield.<br><br>℗ & © 2019 Magic Quid Limited under exclusive license to BMG Rights Management (UK) Ltd.<br><br> <br>Record shops only release.<br> |
 | Discogs URL    | [Richard Hawley - Further](https://www.discogs.com/release/13696158-Richard-Hawley-Further) |

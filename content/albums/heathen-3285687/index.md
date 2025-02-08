@@ -4,6 +4,7 @@ artist_name: "David Bowie"
 artist: "david-bowie"
 album_name: "Heathen"
 date: 2015-10-28T18:50:59.000000Z
+release_date: "2002-06-10"
 release_id: "3285687"
 slug: "heathen-3285687"
 hideSummary: true
@@ -29,35 +30,32 @@ Boosted by a vast marketing campaign and promotional appearances, Heathen reache
 Heathen represented a creative and commercial resurgence for Bowie following a period of experimentation in the 1990s. It was his most well-received album in years, being praised as a return to form and his best since Scary Monsters (1980). His biographers have commended Bowie's ability to update his older sound for a modern setting and recognise it as one of the finest of his later career.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Sunday (4:45)
-2. Cactus (2:54)
-3. Slip Away (6:05)
-4. Slow Burn (4:41)
-5. Afraid (3:28)
-6. I've Been Waiting For You (3:00)
-7. I Would Be Your Slave (5:14)
-8. I Took A Trip On A Gemini Spaceship (4:04)
-9. 5.15 The Angels Have Gone (5:00)
-10. Everyone Says 'Hi' (3:59)
-11. A Better Future (4:11)
-12. Heathen (The Rays) (4:16)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sunday | 4:45 |
+| A2 | Cactus | 2:54 |
+| A3 | Slip Away | 6:05 |
+| A4 | Slow Burn | 4:41 |
+| A5 | Afraid | 3:28 |
+| A6 | I've Been Waiting For You | 3:00 |
+| B1 | I Would Be Your Slave | 5:14 |
+| B2 | I Took A Trip On A Gemini Spaceship | 4:04 |
+| B3 | 5.15 The Angels Have Gone | 5:00 |
+| B4 | Everyone Says 'Hi' | 3:59 |
+| B5 | A Better Future | 4:11 |
+| B6 | Heathen (The Rays) | 4:16 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/heathen/1677228660" >}}<br>
 
 
-## Videos
-### Heathen The Rays
-{{< youtube id="6V_Sqv0qolw" title="Heathen The Rays" >}}<br>
-### More Videos
-
-- [Sunday](https://www.youtube.com/watch?v=8IWjDoR_Qfc)
-- [Slip Away](https://www.youtube.com/watch?v=ACU6xzNnuUg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +67,5 @@ Heathen represented a creative and commercial resurgence for Bowie following a p
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP470 |
-| Notes | Comes in plain white poly-lined paper inner sleeve. Includes printed insert.  From 16 track analog tape converted on 24bit.  Sticker : Music On Vinyl, classic album, 180 gram audiophile vinyl pressing www.musiconvinyl.com  Runouts are etched, except side A '5082221000 1A1' stamped.  |
+| Notes | Comes in plain white poly-lined paper inner sleeve.<br>Includes printed insert.<br><br>From 16 track analog tape converted on 24bit.<br><br>Sticker : Music On Vinyl, classic album, 180 gram audiophile vinyl pressing<br>www.musiconvinyl.com<br><br>Runouts are etched, except side A '5082221000 1A1' stamped.  |
 | Discogs URL    | [David Bowie - Heathen](https://www.discogs.com/release/3285687-David-Bowie-Heathen) |

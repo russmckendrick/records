@@ -39,34 +39,23 @@ This ambitious 1994 album will leave you in a sweating, swirling, ecstatic tranc
 
 
 ## Tracklisting
-1. Dark & Long
-2. Mmm Skyscraper I Love You
-3. Surfboy
-4. Spoonman
-5. Tongue
-6. Dirty Epic
-7. Cowgirl
-8. River Of Bass
-9. M. E.
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dark & Long |  |
+| A2 | Mmm Skyscraper I Love You |  |
+| B1 | Surfboy |  |
+| B2 | Spoonman |  |
+| B3 | Tongue |  |
+| C1 | Dirty Epic |  |
+| C2 | Cowgirl |  |
+| D1 | River Of Bass |  |
+| D2 | M. E. |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dubnobasswithmyheadman-20th-anniversary-remaster/1443808376" >}}<br>
 
 
-## Videos
-### Underworld - Dirty Epic
-{{< youtube id="phWYWpu5KUQ" title="Underworld - Dirty Epic" >}}<br>
-### More Videos
-
-- [Underworld - Cowgirl](https://www.youtube.com/watch?v=feWNvGpWHLM)
-- [Underworld - Dark  Long](https://www.youtube.com/watch?v=9H66_PYTFBA)
-- [Underworld - Mmm Skyscraper I Love You](https://www.youtube.com/watch?v=0gYtY0JcYmk)
-- [Underworld - Surfboy](https://www.youtube.com/watch?v=mkisofaEBFc)
-- [Underworld - Spoonman](https://www.youtube.com/watch?v=fEMcjVsc5cg)
-- [Underworld - Tongue](https://www.youtube.com/watch?v=Vj-4qzZa9OA)
-- [Underworld - River of Bass](https://www.youtube.com/watch?v=XeHzLAHjAW4)
-- [Underworld - ME](https://www.youtube.com/watch?v=cG1u3Udslqc)
-- [Underworld  Dubnobasswithmyheadman](https://www.youtube.com/watch?v=is2RBNWz8JQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +67,5 @@ This ambitious 1994 album will leave you in a sweating, swirling, ecstatic tranc
 | Format         | Vinyl 2× LP Album Reissue Remastered (20th Anniversary Edition, 180g) |
 | Label          | Universal UMC |
 | Catalog Number | 3790795 |
-| Notes | Digital download code included. Copies ordered directly from Underworld come with an "Underworld - Dubnobasswithmyheadman 20th Anniversary" postcard. |
+| Notes | Digital download code included.<br>Copies ordered directly from Underworld come with an "Underworld - Dubnobasswithmyheadman 20th Anniversary" postcard. |
 | Discogs URL    | [Underworld - Dubnobasswithmyheadman](https://www.discogs.com/release/5955411-Underworld-Dubnobasswithmyheadman) |

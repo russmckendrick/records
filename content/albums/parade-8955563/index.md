@@ -32,41 +32,28 @@ And he was just getting started. <i>Sign O’ The Times</i> also features such c
 
 
 ## Tracklisting
-1. Intro
-2. Christopher Tracy's Parade (2:11)
-3. New Position (2:21)
-4. I Wonder U (1:40)
-5. Under The Cherry Moon (2:57)
-6. Girls & Boys (5:30)
-7. Life Can Be So Nice (3:12)
-8. Venus De Milo (1:54)
-9. End
-10. Mountains (3:58)
-11. Do U Lie? (2:43)
-12. Kiss (3:38)
-13. Anotherloverholenyohead (3:58)
-14. Sometimes It Snows In April (6:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Intro |  |
+| A1 | Christopher Tracy's Parade | 2:11 |
+| A2 | New Position | 2:21 |
+| A3 | I Wonder U | 1:40 |
+| A4 | Under The Cherry Moon | 2:57 |
+| A5 | Girls & Boys | 5:30 |
+| A6 | Life Can Be So Nice | 3:12 |
+| A7 | Venus De Milo | 1:54 |
+|  | End |  |
+| B1 | Mountains | 3:58 |
+| B2 | Do U Lie? | 2:43 |
+| B3 | Kiss | 3:38 |
+| B4 | Anotherloverholenyohead | 3:58 |
+| B5 | Sometimes It Snows In April | 6:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sign-o-the-times/212852926" >}}<br>
 
 
-## Videos
-### Christopher Tracys Parade
-{{< youtube id="U2QWdZ7m_3o" title="Christopher Tracys Parade" >}}<br>
-### More Videos
-
-- [New Position](https://www.youtube.com/watch?v=ruaeusy4aOE)
-- [I Wonder U](https://www.youtube.com/watch?v=ajFBDxdYz0I)
-- [Under the Cherry Moon](https://www.youtube.com/watch?v=XiZMEMJnlW8)
-- [Prince - Girls  Boys Official Music Video](https://www.youtube.com/watch?v=gQcKgAsQHzs)
-- [Life Can Be so Nice](https://www.youtube.com/watch?v=DJzjpLUQb8E)
-- [Venus De Milo](https://www.youtube.com/watch?v=2ZIFV7TRfhU)
-- [Prince - Mountains Official Music Video](https://www.youtube.com/watch?v=_WmPeLOLDnA)
-- [Do U Lie](https://www.youtube.com/watch?v=FRaxAVVuqLs)
-- [Prince - Kiss Official Music Video](https://www.youtube.com/watch?v=H9tEvfIsDyo)
-- [Anotherloverholenyohead](https://www.youtube.com/watch?v=kvICKkHe-Pw)
-- [Sometimes It Snows in April](https://www.youtube.com/watch?v=ikZgBhSMSUM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +65,5 @@ And he was just getting started. <i>Sign O’ The Times</i> also features such c
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | Paisley Park |
 | Catalog Number | 1-25395 |
-| Notes | Hype sticker: Music from the Warner Bros. motion picture UNDER THE CHERRY MOON featuring the hit single "KISS"  Dust sleeve with photo collage and detailed credits.  Labels: Music from the motion picture [m=268031]    |
+| Notes | Hype sticker:<br>Music from the Warner Bros. motion picture UNDER THE CHERRY MOON featuring the hit single "KISS"<br><br>Dust sleeve with photo collage and detailed credits.<br><br>Labels:<br>Music from the motion picture [m=268031] <br><br> |
 | Discogs URL    | [Prince And The Revolution - Parade](https://www.discogs.com/release/8955563-Prince-And-The-Revolution-Parade) |

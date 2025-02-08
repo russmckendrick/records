@@ -36,43 +36,27 @@ By the band’s own admission, the album’s crasser elements haven’t aged wel
 
 
 ## Tracklisting
-1. Rhymin & Stealin (4:08)
-2. The New Style (4:35)
-3. She’s Crafty (3:36)
-4. Posse In Effect (2:27)
-5. Slow Ride (2:56)
-6. Girls (2:14)
-7. Fight For Your Right (3:28)
-8. No Sleep Till Brooklyn (4:07)
-9. Paul Revere (3:42)
-10. Hold It Now, Hit It (3:29)
-11. Brass Monkey (2:38)
-12. Slow And Low (3:37)
-13. Time To Get Ill (3:37)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rhymin & Stealin | 4:08 |
+| A2 | The New Style | 4:35 |
+| A3 | She’s Crafty | 3:36 |
+| A4 | Posse In Effect | 2:27 |
+| A5 | Slow Ride | 2:56 |
+| A6 | Girls | 2:14 |
+| A7 | Fight For Your Right | 3:28 |
+| B1 | No Sleep Till Brooklyn | 4:07 |
+| B2 | Paul Revere | 3:42 |
+| B3 | Hold It Now, Hit It | 3:29 |
+| B4 | Brass Monkey | 2:38 |
+| B5 | Slow And Low | 3:37 |
+| B6 | Time To Get Ill | 3:37 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/licensed-to-ill/1440912031" >}}<br>
 
 
-## Videos
-### Slow And Low
-{{< youtube id="mFESmuzaAek" title="Slow And Low" >}}<br>
-### More Videos
-
-- [Beastie Boys License to Ill Full Album](https://www.youtube.com/watch?v=QCM0-irFCSk)
-- [Pauls Boutique by  The Beastie Boys - Classic Album](https://www.youtube.com/watch?v=_U82_MiB2OM)
-- [Beastie Boys respond to Eminem Kamikaze album cover](https://www.youtube.com/watch?v=ML3NDyDQNj8)
-- [beastie boys - Rhymin  Stealin - Licensed To Ill](https://www.youtube.com/watch?v=Xdutu8sWmbQ)
-- [Rhymin  Stealin](https://www.youtube.com/watch?v=E4m_M0JwGLI)
-- [beastie boys - The New Style - Licensed To Ill](https://www.youtube.com/watch?v=wToYujbHG20)
-- [Beastie Boys - Hold It Now Hit It Official Music Video](https://www.youtube.com/watch?v=oB0NM6reiRE)
-- [Paul Revere](https://www.youtube.com/watch?v=kdfF0cOC50w)
-- [Time To Get Ill](https://www.youtube.com/watch?v=TQFWc4syEgM)
-- [Beastie Boys - Rhymin  Stealin Official Video](https://www.youtube.com/watch?v=U7M7d8u40I4)
-- [Beastie Boys - Shes Crafty Official Music Video](https://www.youtube.com/watch?v=erD0nCFA75g)
-- [Beastie Boys License to ill HD](https://www.youtube.com/watch?v=-6LwHObggvo)
-- [Beastie Boys - The New Style Licensed To Ill With Lyrics](https://www.youtube.com/watch?v=iBVdVjPVAuU)
-- [Beastie Boys Licensed to Ill  VHS Capture](https://www.youtube.com/watch?v=T16KPB-idgU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +68,5 @@ By the band’s own admission, the album’s crasser elements haven’t aged wel
 | Format         | Vinyl LP Album Reissue (180 Gram, Gatefold, 30th Anniversary Edition) |
 | Label          | Def Jam Recordings |
 | Catalog Number | 06025 478 207-5 (4) |
-| Notes | 30th anniversary reissue  Catalog numbers: 06025 478 207-5 (4) on the jacket spine, labels and inner sleeve  Made in the EU.  No Universal Music Group logo (UMG) printed on the back cover right beside DefJam logo.  Runout info: Variant 1 is hand-etched (with first 'B' very light), except for '16699 1A' which is machine stamped. |
+| Notes | 30th anniversary reissue<br><br>Catalog numbers: 06025 478 207-5 (4) on the jacket spine, labels and inner sleeve<br><br>Made in the EU.<br><br>No Universal Music Group logo (UMG) printed on the back cover right beside DefJam logo.<br><br>Runout info: Variant 1 is hand-etched (with first 'B' very light), except for '16699 1A' which is machine stamped. |
 | Discogs URL    | [Beastie Boys - Licensed To Ill](https://www.discogs.com/release/9200786-Beastie-Boys-Licensed-To-Ill) |

@@ -4,6 +4,7 @@ artist_name: "Ministry"
 artist: "ministry"
 album_name: "ΚΕΦΑΛΗΞΘ"
 date: 2015-08-09T08:43:46.000000Z
+release_date: ""
 release_id: "3490956"
 slug: "3490956"
 hideSummary: true
@@ -24,34 +25,28 @@ styles: ["Industrial Metal"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. N.W.O. (5:29)
-2. Just One Fix (5:11)
-3. TV II (3:04)
-4. Hero (4:12)
-5. Jesus Built My Hot Rod (4:51)
-6. Scare Crow (8:21)
-7. Psalm 69 (5:29)
-8. Corrosion (4:55)
-9. Grace (3:06)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | N.W.O. | 5:29 |
+| A2 | Just One Fix | 5:11 |
+| A3 | TV II | 3:04 |
+| A4 | Hero | 4:12 |
+| A5 | Jesus Built My Hot Rod | 4:51 |
+| B1 | Scare Crow | 8:21 |
+| B2 | Psalm 69 | 5:29 |
+| B3 | Corrosion | 4:55 |
+| B4 | Grace | 3:06 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Ministry - Just One Fix Official Music Video
-{{< youtube id="XYYGKCanqfA" title="Ministry - Just One Fix Official Music Video" >}}<br>
-### More Videos
 
-- [TV II](https://www.youtube.com/watch?v=b8ZZmJu-l4U)
-- [Hero](https://www.youtube.com/watch?v=9geEGT4SgCg)
-- [Ministry - Jesus Built My Hotrod Official Music Video  Warner Vault](https://www.youtube.com/watch?v=GXCh9OhDiCI)
-- [Scare Crow](https://www.youtube.com/watch?v=wJqMX1VeFsU)
-- [Corrosion](https://www.youtube.com/watch?v=dmCYD0Zuo2U)
-- [Grace](https://www.youtube.com/watch?v=IOE6TndC6ms)
-- [Ministry - NWO 911 videoclip](https://www.youtube.com/watch?v=T5bX30uUK30)
-- [Ministry - Jesus Built My Hotrod Official Music Video  Warner Vault](https://www.youtube.com/watch?v=GXCh9OhDiCI)
-- [Ministry - Just One Fix Official Music Video](https://www.youtube.com/watch?v=XYYGKCanqfA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +57,5 @@ styles: ["Industrial Metal"]
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Sire |
 | Catalog Number | 8122-79760-1 |
-| Notes | © 1992 Sire Records Company for the U.S. and WEA International Inc. for the world outside of the U.S. ℗ 1991, 1992 Sire Records Company for the U.S. and WEA International Inc. for the world outside of the U.S. Manufactured in the EU Made in the E.U.  Issued with a printed inner sleeve with credits.  Pressed  in Germany by Optimal Media from stampers made by Rainbo Records in the USA for the US release, see [r=3080042] for reference. |
+| Notes | © 1992 Sire Records Company for the U.S. and WEA International Inc. for the world outside of the U.S.<br>℗ 1991, 1992 Sire Records Company for the U.S. and WEA International Inc. for the world outside of the U.S.<br>Manufactured in the EU<br>Made in the E.U.<br><br>Issued with a printed inner sleeve with credits.<br><br>Pressed  in Germany by Optimal Media from stampers made by Rainbo Records in the USA for the US release, see [r=3080042] for reference. |
 | Discogs URL    | [Ministry - ΚΕΦΑΛΗΞΘ](https://www.discogs.com/release/3490956-Ministry-ΚΕΦΑΛΗΞΘ) |

@@ -1,9 +1,10 @@
 ---
 title: "Jim Bob - Pop Up Jim Bob"
 artist_name: "Jim Bob"
-artist: "jim-bob-2"
+artist: "jim-bob"
 album_name: "Pop Up Jim Bob"
 date: 2020-08-15T10:10:13.000000Z
+release_date: "2020-08-14"
 release_id: "15766080"
 slug: "pop-up-jim-bob-15766080"
 hideSummary: true
@@ -27,40 +28,30 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Turn On, Tune In, Pop Up!
-2. Jo's Got Papercuts
-3. Kidstrike!
-4. Ted Talks
-5. Truce
-6. 2020 WTF!
-7. If It Ain't Broke
-8. Big Boy
-9. Barry's On Safari (In His Safari Suit)
-10. #thoughtsandprayers
-11. You're Cancelled And We're Done
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Turn On, Tune In, Pop Up! |  |
+| A2 | Jo's Got Papercuts |  |
+| A3 | Kidstrike! |  |
+| A4 | Ted Talks |  |
+| A5 | Truce |  |
+| B1 | 2020 WTF! |  |
+| B2 | If It Ain't Broke |  |
+| B3 | Big Boy |  |
+| B4 | Barry's On Safari (In His Safari Suit) |  |
+| B5 | #thoughtsandprayers |  |
+| B6 | You're Cancelled And We're Done |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pop-up-jim-bob/1511931898" >}}<br>
 
 
-## Videos
-### Jim Bob - Jos Got Papercuts Official Video
-{{< youtube id="OqRWb9JQW_0" title="Jim Bob - Jos Got Papercuts Official Video" >}}<br>
-### More Videos
-
-- [Jim Bob Pop Up Jim Bob CD  Limited Edition Vinyl LP with 2021 Jim Bob Calendar](https://www.youtube.com/watch?v=hICaKXpoMCw)
-- [Jim Bob - If it Aint Broke Official Video](https://www.youtube.com/watch?v=FtJDa_UMDFE)
-- [BIG Boy](https://www.youtube.com/watch?v=CRUMIlyIW1g)
-- [Pop Up Jim Bob Unboxing](https://www.youtube.com/watch?v=Vv-EEglCd90)
-- [POP UP TV   HD 720p](https://www.youtube.com/watch?v=bFcl6RiEFYY)
-- [Jim Bob - Jos Got Papercuts Official Video](https://www.youtube.com/watch?v=OqRWb9JQW_0)
-- [Jim Bob Pop Up Jim Bob CD  Limited Edition Vinyl LP with 2021 Jim Bob Calendar](https://www.youtube.com/watch?v=hICaKXpoMCw)
-- [Jim Bob - If it Aint Broke Official Video](https://www.youtube.com/watch?v=FtJDa_UMDFE)
-- [BIG Boy](https://www.youtube.com/watch?v=CRUMIlyIW1g)
-- [Pop Up Jim Bob Unboxing](https://www.youtube.com/watch?v=Vv-EEglCd90)
-- [POP UP TV   HD 720p](https://www.youtube.com/watch?v=bFcl6RiEFYY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +62,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Limited Edition Stereo |
 | Label          | Cherry Red |
 | Catalog Number | BRED808 |
-| Notes | Gatefold sleeve.  2021 Jim Bob Calendar included |
+| Notes | Gatefold sleeve.<br><br>2021 Jim Bob Calendar included |
 | Discogs URL    | [Jim Bob - Pop Up Jim Bob](https://www.discogs.com/release/15766080-Jim-Bob-2-Pop-Up-Jim-Bob) |

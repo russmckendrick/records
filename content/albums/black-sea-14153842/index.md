@@ -35,35 +35,25 @@ Black Sea was critically acclaimed and remains XTC's second-highest charting Bri
 
 
 ## Tracklisting
-1. Respectable Street
-2. Generals And Majors
-3. Living Through Another Cuba
-4. Love At First Sight
-5. Rocket From A Bottle
-6. No Language In Our Lungs
-7. Towers Of London
-8. Paper And Iron (Notes And Coins)
-9. Burning With Optimism's Flames
-10. Sgt. Rock (Is Going To Help Me)
-11. Travels In Nihilon
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Respectable Street |  |
+| A2 | Generals And Majors |  |
+| A3 | Living Through Another Cuba |  |
+| A4 | Love At First Sight |  |
+| A5 | Rocket From A Bottle |  |
+| A6 | No Language In Our Lungs |  |
+| B1 | Towers Of London |  |
+| B2 | Paper And Iron (Notes And Coins) |  |
+| B3 | Burning With Optimism's Flames |  |
+| B4 | Sgt. Rock (Is Going To Help Me) |  |
+| B5 | Travels In Nihilon |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/black-sea-bonus-track-version/724626591" >}}<br>
 
 
-## Videos
-### Sgt Rock Is Going To Help Me XTC The Thief Of Bagdad Single
-{{< youtube id="kwUfJTLdVlc" title="Sgt Rock Is Going To Help Me XTC The Thief Of Bagdad Single" >}}<br>
-### More Videos
-
-- [XTC - Sgt Rock-Multi-Coloured Wap Shop BBC1 Television 1981](https://www.youtube.com/watch?v=OjQwLBYHcx0)
-- [XTC - Respectable Street](https://www.youtube.com/watch?v=Xz4JmNhkjXc)
-- [XTC - Towers Of London](https://www.youtube.com/watch?v=nYui2Z-12WI)
-- [XTC - Generals and Majors - Black Sea 1980](https://www.youtube.com/watch?v=uCuZ11IW1CY)
-- [Love At First Sight 2001 Remaster](https://www.youtube.com/watch?v=aFhQevV4z3c)
-- [No Language In Our Lungs 2001 Remaster](https://www.youtube.com/watch?v=JgOOvMj3HyQ)
-- [Burning With Optimisms Flames 2001 Remaster](https://www.youtube.com/watch?v=XSWoTrdTKhM)
-- [Living Through Another Cuba 2001 Remaster](https://www.youtube.com/watch?v=BTp_qgh-i4g)
 
 ## Release Images
 {{< imageGrid >}}

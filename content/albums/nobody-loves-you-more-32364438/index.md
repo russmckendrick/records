@@ -38,37 +38,25 @@ These songs may sound like timeless tunes of the golden oldies era, but Deal als
 
 
 ## Tracklisting
-1. Nobody Loves You More (2:55)
-2. Coast (3:28)
-3. Crystal Breath (3:27)
-4. Are You Mine? (3:36)
-5. Disobedience (3:03)
-6. Wish I Was (4:13)
-7. Big Ben Beat (3:40)
-8. Bats In The Afternoon Sky (1:32)
-9. Summerland (3:04)
-10. Come Running (3:18)
-11. A Good Time Pushed (3:28)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Nobody Loves You More | 2:55 |
+| A2 | Coast | 3:28 |
+| A3 | Crystal Breath | 3:27 |
+| A4 | Are You Mine? | 3:36 |
+| A5 | Disobedience | 3:03 |
+| B1 | Wish I Was | 4:13 |
+| B2 | Big Ben Beat | 3:40 |
+| B3 | Bats In The Afternoon Sky | 1:32 |
+| B4 | Summerland | 3:04 |
+| B5 | Come Running | 3:18 |
+| B6 | A Good Time Pushed | 3:28 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nobody-loves-you-more/1761322322" >}}<br>
 
 
-## Videos
-### Kim Deal - Nobody Loves You More Official Video
-{{< youtube id="osOWmt5YYuw" title="Kim Deal - Nobody Loves You More Official Video" >}}<br>
-### More Videos
-
-- [Kim Deal - Coast Official Audio](https://www.youtube.com/watch?v=MBu_Ec33byA)
-- [Kim Deal - Crystal Breath Official Visualizer](https://www.youtube.com/watch?v=prsoDFY1I9s)
-- [Kim Deal - A Good Time Pushed Official Visualiser](https://www.youtube.com/watch?v=MpqLQIoivAY)
-- [Kim Deal - Are You Mine Official Audio](https://www.youtube.com/watch?v=w-MLiay4Kyg)
-- [Kim Deal - Summerland Official Audio](https://www.youtube.com/watch?v=934zQqSU5Ps)
-- [Kim Deal - Come Running Official Audio](https://www.youtube.com/watch?v=mI7Faalvy3Y)
-- [Kim Deal - Wish I Was Official Audio](https://www.youtube.com/watch?v=V75kkrxODE0)
-- [Kim Deal - Disobedience Official Audio](https://www.youtube.com/watch?v=tqyLvum0CQg)
-- [Kim Deal - Bats In The Afternoon Sky Official Audio](https://www.youtube.com/watch?v=03n0DEycSSQ)
-- [Kim Deal -  Big Ben Beat Official Audio](https://www.youtube.com/watch?v=gi1z5TfS5Vg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +68,5 @@ These songs may sound like timeless tunes of the golden oldies era, but Deal als
 | Format         | Vinyl LP Album Limited Edition (Orange [Florida Orange]) |
 | Label          | 4AD |
 | Catalog Number | 4AD0733LP |
-| Notes | Includes printed inner sleeve with lyrics & credits.  There are 100 copies signed by Kim for Assai obi edition. |
+| Notes | Includes printed inner sleeve with lyrics & credits.<br><br>There are 100 copies signed by Kim for Assai obi edition. |
 | Discogs URL    | [Kim Deal - Nobody Loves You More](https://www.discogs.com/release/32364438-Kim-Deal-Nobody-Loves-You-More) |

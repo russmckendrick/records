@@ -4,6 +4,7 @@ artist_name: "Joe Strummer"
 artist: "joe-strummer"
 album_name: "Assembly"
 date: 2021-03-30T03:55:54.000000Z
+release_date: "2021-03-26"
 release_id: "17989276"
 slug: "assembly-17989276"
 hideSummary: true
@@ -41,38 +42,35 @@ styles: ["Alternative Rock", "Folk Rock", "Punk"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Coma Girl
-2. Johnny Appleseed
-3. I Fought The Law (Live)
-4. Tony Adams
-5. Sleepwalk
-6. Love Kills
-7. Get Down Moses
-8. X-Ray Style
-9. Mondo Bongo
-10. Rudie Can't Fail (Live)
-11. At The Border, Guy
-12. Long Shadow
-13. Forbidden City
-14. Yalla Yalla
-15. Redemption Song
-16. Junco Partner (Acoustic)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Coma Girl |  |
+| A2 | Johnny Appleseed |  |
+| A3 | I Fought The Law (Live) |  |
+| A4 | Tony Adams |  |
+| B5 | Sleepwalk |  |
+| B6 | Love Kills |  |
+| B7 | Get Down Moses |  |
+| B8 | X-Ray Style |  |
+| C9 | Mondo Bongo |  |
+| C10 | Rudie Can't Fail (Live) |  |
+| C11 | At The Border, Guy |  |
+| C12 | Long Shadow |  |
+| D13 | Forbidden City |  |
+| D14 | Yalla Yalla |  |
+| D15 | Redemption Song |  |
+| D16 | Junco Partner (Acoustic) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/assembly/1558886326" >}}<br>
 
 
-## Videos
-### Joe Strummer - Junco Partner Acoustic Official Video
-{{< youtube id="V1hsbEUfif8" title="Joe Strummer - Junco Partner Acoustic Official Video" >}}<br>
-### More Videos
-
-- [Joe Strummer - Junco Partner Acoustic Official Video](https://www.youtube.com/watch?v=V1hsbEUfif8)
-- [Joe Strummer - I Fought The Law Live Official Video](https://www.youtube.com/watch?v=vcMzySHvD_4)
-- [Love Kills](https://www.youtube.com/watch?v=LYlTYh71dp0)
-- [Sleepwalk](https://www.youtube.com/watch?v=bthFVrGAviE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +81,5 @@ styles: ["Alternative Rock", "Folk Rock", "Punk"]
 | Format         | Vinyl 2× LP Compilation Limited Edition Remastered (Red, 180 Gr) |
 | Label          | Dark Horse Records |
 | Catalog Number | DH0002 |
-| Notes | Some initial purchases came with a free promo limited edition Joe Strummer bandana - in cellophane wrapper with its own barcode.  Early copies from the UK Official Joe Strummer Store came with a free exclusive 12" x 12" litho art print of the front cover artwork (images added).  Tracks are sequentially listed on release. |
+| Notes | Some initial purchases came with a free promo limited edition Joe Strummer bandana - in cellophane wrapper with its own barcode.<br><br>Early copies from the UK Official Joe Strummer Store came with a free exclusive 12" x 12" litho art print of the front cover artwork (images added).<br><br>Tracks are sequentially listed on release. |
 | Discogs URL    | [Joe Strummer - Assembly](https://www.discogs.com/release/17989276-Joe-Strummer-Assembly) |

@@ -4,6 +4,7 @@ artist_name: "Depeche Mode"
 artist: "depeche-mode"
 album_name: "Ultra"
 date: 2017-02-10T17:47:12.000000Z
+release_date: "2006-11-08"
 release_id: "9798755"
 slug: "ultra-9798755"
 hideSummary: true
@@ -28,36 +29,31 @@ Ultra is the ninth studio album by English electronic music band Depeche Mode, r
 Ultra was the first album the band recorded as a trio since A Broken Frame (1982); it was also their first where the band members were not involved with production, with these duties being handled by Tim Simenon of Bomb the Bass fame. Though not directly supported by a full-length tour, it was promoted via a brief series of concerts promoted as Ultra Parties.
 The album debuted at number one on the UK Albums Chart and at number five on the US Billboard 200. By April 2006, it had sold 584,000 copies in the United States. In 1999, Ned Raggett ranked the album at number 50 on his list of the "Top 136 or So Albums of the Nineties". That same year, the annual Ultra Music Festival in Miami was named after the album by its co-founder Russell Faibisch, and acknowledging its influence on the Polish rock scene, Tylko Rock ranked it at number 71 on its list of the "100 Albums That Shook Polish Rock".
 The album was preceded by the singles "Barrel of a Gun", released on 3 February and "It's No Good" which was released on 31 March. It was followed by the singles "Home", released on 16 June and "Useless", released on 20 October.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Barrel Of A Gun
-2. The Love Thieves
-3. Home
-4. It's No Good
-5. Uselink
-6. Useless
-7. Sister Of Night
-8. Jazz Thieves
-9. Freestate
-10. The Bottom Line
-11. Insight
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Barrel Of A Gun |  |
+| A2 | The Love Thieves |  |
+| A3 | Home |  |
+| A4 | It's No Good |  |
+| A5 | Uselink |  |
+| A6 | Useless |  |
+| B1 | Sister Of Night |  |
+| B2 | Jazz Thieves |  |
+| B3 | Freestate |  |
+| B4 | The Bottom Line |  |
+| B5 | Insight |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-depeche-mode-vol-1-deluxe/665398796" >}}<br>
 
 
-## Videos
-### Depeche Mode - Its No Good Official Video
-{{< youtube id="_-QPvffO1gs" title="Depeche Mode - Its No Good Official Video" >}}<br>
-### More Videos
-
-- [Depeche Mode - Only When I Lose Myself Official Video](https://www.youtube.com/watch?v=l35XzUD8GGU)
-- [Depeche Mode   Ultra  1997](https://www.youtube.com/watch?v=Yjr1OIvRNsM)
-- [Depeche Mode - Its No Good Official Video](https://www.youtube.com/watch?v=_-QPvffO1gs)
-- [Depeche Mode - Useless Official Video](https://www.youtube.com/watch?v=U2Kyu4XURaE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +65,5 @@ The album was preceded by the singles "Barrel of a Gun", released on 3 February 
 | Format         | Vinyl LP Album Reissue (Gatefold) |
 | Label          | Sony Music |
 | Catalog Number | 88985336911 |
-| Notes | © 1997 Venusnote Ltd. under exclusive license to Sony Music Entertainment International Ltd. ℗ 1997, 2016 Venusnote Ltd. under exclusive license to  Sony Music Entertainment International Ltd. / Distributed by Sony Music Entertainment. / All trademarks and logos are protected. / Made in the EU. / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / LC 05834 / 88985336911.  |
+| Notes | © 1997 Venusnote Ltd. under exclusive license to Sony Music Entertainment<br>International Ltd. ℗ 1997, 2016 Venusnote Ltd. under exclusive license to <br>Sony Music Entertainment International Ltd. / Distributed by Sony Music<br>Entertainment. / All trademarks and logos are protected. / Made in the EU. /<br>Sony Music Entertainment International Services GmbH, PO Box 510,<br>33311 Gütersloh, Germany. / LC 05834 / 88985336911.<br> |
 | Discogs URL    | [Depeche Mode - Ultra](https://www.discogs.com/release/9798755-Depeche-Mode-Ultra) |

@@ -4,6 +4,7 @@ artist_name: "The Pogues"
 artist: "the-pogues"
 album_name: "The Best Of The Pogues"
 date: 2018-06-23T08:47:17.000000Z
+release_date: "2001-04-11"
 release_id: "12121159"
 slug: "the-best-of-the-pogues-12121159"
 hideSummary: true
@@ -25,42 +26,34 @@ The Best of the Pogues is a greatest hits album by the Pogues, released in Septe
 The album was dedicated to the memory of Deborah Korner – the partner of Pogues drummer Andrew Ranken – who died a few months before the album's release.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Fairytale Of New York
-2. Sally MacLennane
-3. Dirty Old Town
-4. The Irish Rover
-5. A Pair Of Brown Eyes
-6. Streams Of Whiskey
-7. A Rainy Night In Soho
-8. Fiesta
-9. Rain Street
-10. Misty Morning, Albert Bridge
-11. White City
-12. Thousands Are Sailing
-13. The Broad Majestic Shannon
-14. The Body Of An American
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fairytale Of New York |  |
+| A2 | Sally MacLennane |  |
+| A3 | Dirty Old Town |  |
+| A4 | The Irish Rover |  |
+| A5 | A Pair Of Brown Eyes |  |
+| A6 | Streams Of Whiskey |  |
+| A7 | A Rainy Night In Soho |  |
+| B1 | Fiesta |  |
+| B2 | Rain Street |  |
+| B3 | Misty Morning, Albert Bridge |  |
+| B4 | White City |  |
+| B5 | Thousands Are Sailing |  |
+| B6 | The Broad Majestic Shannon |  |
+| B7 | The Body Of An American |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-best-of-the-pogues/189254980" >}}<br>
 
 
-## Videos
-### The Pogues -  Fairytale Of New York Official Video
-{{< youtube id="j9jbdgZidu8" title="The Pogues -  Fairytale Of New York Official Video" >}}<br>
-### More Videos
-
-- [the pogues-sally maclennane best quality](https://www.youtube.com/watch?v=fvV5mryQF1I)
-- [The Pogues - If I Should Fall from Grace with God - Hockey Mom](https://www.youtube.com/watch?v=dTbth9pQTyw)
-- [The Pogues -  Fairytale Of New York Official Video](https://www.youtube.com/watch?v=j9jbdgZidu8)
-- [The Pogues Streams Of Whiskey](https://www.youtube.com/watch?v=TaHMG_SvUkw)
-- [The Pogues - Fiesta](https://www.youtube.com/watch?v=6pYI9t-I6qo)
-- [pogues - dirty old town](https://www.youtube.com/watch?v=kVUZuVZWHkk)
-- [The Pogues - Shane MacGowan - Body of an American](https://www.youtube.com/watch?v=BgYml2eokLA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +65,5 @@ The album was dedicated to the memory of Deborah Korner – the partner of Pogue
 | Format         | Vinyl LP Compilation Reissue Stereo |
 | Label          | Pogue Mahone Records |
 | Catalog Number | 0190295672560 |
-| Notes | This compilation ℗ 2018 Warner Music UK Ltd. © 2018 Warner Music UK Ltd. A Warner Music Group Company. Manufactured In The E.U.  Runouts are etched. |
+| Notes | This compilation ℗ 2018 Warner Music UK Ltd. © 2018 Warner Music UK Ltd.<br>A Warner Music Group Company. Manufactured In The E.U.<br><br>Runouts are etched. |
 | Discogs URL    | [The Pogues - The Best Of The Pogues](https://www.discogs.com/release/12121159-The-Pogues-The-Best-Of-The-Pogues) |

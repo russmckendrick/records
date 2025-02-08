@@ -4,6 +4,7 @@ artist_name: "Jane Weaver"
 artist: "jane-weaver"
 album_name: "Love In Constant Spectacle"
 date: 2024-04-09T04:41:48.000000Z
+release_date: "2024-04-05"
 release_id: "30342611"
 slug: "love-in-constant-spectacle-30342611"
 hideSummary: true
@@ -20,25 +21,28 @@ styles: ["Indie Rock", "Art Rock"]
 ---
 
 Love in Constant Spectacle is the twelfth solo studio album by English musician Jane Weaver, released on 5 April 2024 through Fire Records. It received acclaim from critics.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Perfect Storm
-2. Emotional Components
-3. Love In Constant Spectacle 
-4. Motif
-5. The Axis & The Seed
-6. Is Metal 
-7. Happiness In Proximity
-8. Romantic Worlds
-9. Univers
-10. Family Of The Sun
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Perfect Storm |  |
+| A2 | Emotional Components |  |
+| A3 | Love In Constant Spectacle  |  |
+| A4 | Motif |  |
+| A5 | The Axis & The Seed |  |
+| B1 | Is Metal  |  |
+| B2 | Happiness In Proximity |  |
+| B3 | Romantic Worlds |  |
+| B4 | Univers |  |
+| B5 | Family Of The Sun |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/love-in-constant-spectacle/1724172180" >}}<br>
-
 
 
 
@@ -52,5 +56,5 @@ Love in Constant Spectacle is the twelfth solo studio album by English musician 
 | Format         | Vinyl LP Album (Clear) |
 | Label          | Fire Records |
 | Catalog Number | FIRELP682 |
-| Notes | Hype Sticker:  Jane Weaver  Love In Constant Spectacle "An Artist at the top of her game" NPR Rough Trade Exclusive Clear Vinyl  Download code included. |
+| Notes | Hype Sticker:<br><br>Jane Weaver <br>Love In Constant Spectacle<br>"An Artist at the top of her game"<br>NPR<br>Rough Trade Exclusive<br>Clear Vinyl<br><br>Download code included. |
 | Discogs URL    | [Jane Weaver - Love In Constant Spectacle](https://www.discogs.com/release/30342611-Jane-Weaver-Love-In-Constant-Spectacle) |

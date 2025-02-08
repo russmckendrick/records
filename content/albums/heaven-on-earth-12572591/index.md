@@ -4,6 +4,7 @@ artist_name: "Belinda Carlisle"
 artist: "belinda-carlisle"
 album_name: "Heaven On Earth"
 date: 2018-09-26T18:34:43.000000Z
+release_date: "1987-09-21"
 release_id: "12572591"
 slug: "heaven-on-earth-12572591"
 hideSummary: true
@@ -27,36 +28,30 @@ styles: ["Pop Rock", "Ballad"]
 Heaven on Earth is the second solo studio album by American singer Belinda Carlisle. It was released on October 5, 1987, by MCA Records. Three singles reached the top 10 of the US Billboard Hot 100, including the number-one single and Carlisle's signature song "Heaven Is a Place on Earth". The album has been certified triple Platinum in the United Kingdom and Platinum in many countries, including the United States.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Heaven Is A Place On Earth (4:06)
-2. Circle In The Sand (4:26)
-3. I Feel Free (4:49)
-4. Should I Let You In? (4:16)
-5. World Without You (4:41)
-6. I Get Weak (4:51)
-7. We Can Change (3:43)
-8. Fool For Love (3:56)
-9. Nobody Owns Me (3:12)
-10. Love Never Dies... (5:15)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Heaven Is A Place On Earth | 4:06 |
+| A2 | Circle In The Sand | 4:26 |
+| A3 | I Feel Free | 4:49 |
+| A4 | Should I Let You In? | 4:16 |
+| A5 | World Without You | 4:41 |
+| B1 | I Get Weak | 4:51 |
+| B2 | We Can Change | 3:43 |
+| B3 | Fool For Love | 3:56 |
+| B4 | Nobody Owns Me | 3:12 |
+| B5 | Love Never Dies... | 5:15 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/heaven-on-earth/684787804" >}}<br>
 
 
-## Videos
-### Belinda Carlisle - Heaven Is A Place On Earth Official Video
-{{< youtube id="j2F4INQFjEI" title="Belinda Carlisle - Heaven Is A Place On Earth Official Video" >}}<br>
-### More Videos
-
-- [Belinda Carlisle - I Feel Free Official Video](https://www.youtube.com/watch?v=Z9T7rbO00hI)
-- [Belinda Carlisle - World Without You Official Video](https://www.youtube.com/watch?v=lb2lgh2NhVA)
-- [Belinda Carlisle - Love Never Dies Official Video](https://www.youtube.com/watch?v=GhOj0B5Pvgs)
-- [Belinda Carlisle - I Get Weak Official Video](https://www.youtube.com/watch?v=sdTaPrs3fYE)
-- [Belinda Carlisle - Circle In The Sand Official Video](https://www.youtube.com/watch?v=hgpXSoWBAVA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +63,5 @@ Heaven on Earth is the second solo studio album by American singer Belinda Carli
 | Format         | Vinyl LP Album Reissue (Blue Translucent) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC306 |
-| Notes | Pressed on 180gm heavyweight translucent blue vinyl.  ℗ 1987 Artist Management Service Ltd. © 2018 Demon Music Group Ltd. Manufactured in the EU. |
+| Notes | Pressed on 180gm heavyweight translucent blue vinyl.<br><br>℗ 1987 Artist Management Service Ltd. © 2018 Demon Music Group Ltd.<br>Manufactured in the EU. |
 | Discogs URL    | [Belinda Carlisle - Heaven On Earth](https://www.discogs.com/release/12572591-Belinda-Carlisle-Heaven-On-Earth) |

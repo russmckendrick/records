@@ -4,6 +4,7 @@ artist_name: "Super Furry Animals"
 artist: "super-furry-animals"
 album_name: "Fuzzy Logic B-Sides And Besides"
 date: 2024-04-20T08:01:03.000000Z
+release_date: "2018-11-23"
 release_id: "30451196"
 slug: "fuzzy-logic-b-sides-and-besides-30451196"
 hideSummary: true
@@ -25,22 +26,27 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Man Don't Give A Fuck
-2. Dim Bendith
-3. Arnofio / Glô In The Dark 
-4. Don't Be A Fool Billy!
-5. Guacamole 
-6. Death By Melody
-7. Lazy Life (Of No Fixed Identity)
-8. Waiting To Happen
-9. (Nid) Hon Yw'r Gân Sy'n Mind I Achub Yr Iaith
-10. Something For The Weekend
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Man Don't Give A Fuck |  |
+| A2 | Dim Bendith |  |
+| A3 | Arnofio / Glô In The Dark  |  |
+| A4 | Don't Be A Fool Billy! |  |
+| B1 | Guacamole  |  |
+| B2 | Death By Melody |  |
+| B3 | Lazy Life (Of No Fixed Identity) |  |
+| B4 | Waiting To Happen |  |
+| B5 | (Nid) Hon Yw'r Gân Sy'n Mind I Achub Yr Iaith |  |
+| B6 | Something For The Weekend |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/super-furry-animals-at-the-b-b-c-live/1444296486" >}}<br>
-
 
 
 
@@ -53,5 +59,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Record Store Day Compilation Limited Edition Stereo (Green Bottle) |
 | Label          | BMG |
 | Catalog Number | BMGCAT870LP |
-| Notes | Track B5 ends on a locked groove. The stylus needs to be picked up and moved into the groove to hear the extra track B6, the original U.K. LP version of Something For The Weekend (which was replaced by the single version, [r1845638], on subsequent pressings of Fuzzy Logic). B6 is not listed on the release.  Manufactured in Germany  1500 copies. |
+| Notes | Track B5 ends on a locked groove. The stylus needs to be picked up and moved into the groove to hear the extra track B6, the original U.K. LP version of Something For The Weekend (which was replaced by the single version, [r1845638], on subsequent pressings of Fuzzy Logic). B6 is not listed on the release.<br><br>Manufactured in Germany<br><br>1500 copies. |
 | Discogs URL    | [Super Furry Animals - Fuzzy Logic B-Sides And Besides](https://www.discogs.com/release/30451196-Super-Furry-Animals-Fuzzy-Logic-B-Sides-And-Besides) |

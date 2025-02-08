@@ -4,6 +4,7 @@ artist_name: "Ozric Tentacles"
 artist: "ozric-tentacles"
 album_name: "Pungent Effulgent"
 date: 2020-06-01T13:34:25.000000Z
+release_date: "1989-01-01"
 release_id: "15341487"
 slug: "pungent-effulgent-15341487"
 hideSummary: true
@@ -22,26 +23,26 @@ styles: ["Space Rock", "Psychedelic Rock", "Prog Rock"]
 ---
 
 Pungent Effulgent is the debut studio album by British rock band Ozric Tentacles. Released in 1989 to wide acclaim, it followed the many cassette-only albums they released in the 1980s.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Dissolution (The Clouds Disperse) (6:11)
-2. O-I (4:09)
-3. Phalarn Dawn (7:28)
-4. The Domes Of G'Bal (4:37)
-5. Ayurvedic (10:58)
-6. Kick Muck (3:56)
-7. Agog In The Ether (3:57)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dissolution (The Clouds Disperse) | 6:11 |
+| A2 | O-I | 4:09 |
+| A3 | Phalarn Dawn | 7:28 |
+| A4 | The Domes Of G'Bal | 4:37 |
+| B1 | Ayurvedic | 10:58 |
+| B2 | Kick Muck | 3:56 |
+| B3 | Agog In The Ether | 3:57 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pungent-effulgent/1189443799" >}}<br>
 
-
-## Videos
-### Ayurvedism
-{{< youtube id="Lcy-s1uxXDw" title="Ayurvedism" >}}<br>
 
 
 ## Release Images
@@ -54,5 +55,5 @@ Pungent Effulgent is the debut studio album by British rock band Ozric Tentacles
 | Format         | Vinyl LP Album Reissue (Blue) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1059 |
-| Notes | Sticker in front: "Ozric Tentacles 2020 Ed Wynne Kscope Remaster Series On Coloured Vinyl"  Remastered by Ed Wynne in 2020 |
+| Notes | Sticker in front:<br>"Ozric Tentacles<br>2020 Ed Wynne Kscope Remaster Series<br>On Coloured Vinyl"<br><br>Remastered by Ed Wynne in 2020 |
 | Discogs URL    | [Ozric Tentacles - Pungent Effulgent](https://www.discogs.com/release/15341487-Ozric-Tentacles-Pungent-Effulgent) |

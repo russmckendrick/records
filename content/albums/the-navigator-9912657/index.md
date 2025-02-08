@@ -4,6 +4,7 @@ artist_name: "Hurray For The Riff Raff"
 artist: "hurray-for-the-riff-raff"
 album_name: "The Navigator"
 date: 2017-03-11T12:35:14.000000Z
+release_date: "2013-01-14"
 release_id: "9912657"
 slug: "the-navigator-9912657"
 hideSummary: true
@@ -36,42 +37,33 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Act One
-2. Entrance
-3. Living In The City
-4. Hungry Ghost
-5. Life To Save
-6. Nothing's Gonna Change That Girl
-7. The Navigator
-8. Halfway There
-9. Act Two
-10. Rican Beach
-11. Fourteen Floors
-12. Settle
-13. Pa'Lante
-14. Finale
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Act One |  |
+| A1 | Entrance |  |
+| A2 | Living In The City |  |
+| A3 | Hungry Ghost |  |
+| A4 | Life To Save |  |
+| A5 | Nothing's Gonna Change That Girl |  |
+| A6 | The Navigator |  |
+| A7 | Halfway There |  |
+|  | Act Two |  |
+| B1 | Rican Beach |  |
+| B2 | Fourteen Floors |  |
+| B3 | Settle |  |
+| B4 | Pa'Lante |  |
+| B5 | Finale |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hurray-for-the-riff-raff/1169214981" >}}<br>
 
 
-## Videos
-### Entrance
-{{< youtube id="Z0T3sCrDSls" title="Entrance" >}}<br>
-### More Videos
-
-- [Hurray For The Riff Raff - Hungry Ghost Official Music Video](https://www.youtube.com/watch?v=6xRJ-MuN46E)
-- [Hurray For The Riff Raff - The Navigator Official Video](https://www.youtube.com/watch?v=DqNAD0_zsuw)
-- [Hurray For the Riff Raff Rican Beach Official Music Video](https://www.youtube.com/watch?v=TqfxkKR7y98)
-- [Hurray For The Riff Raff - Palante Official Video](https://www.youtube.com/watch?v=LilVDjLaZSE)
-- [Entrance](https://www.youtube.com/watch?v=Z0T3sCrDSls)
-- [Hurray For The Riff Raff - Hungry Ghost Official Music Video](https://www.youtube.com/watch?v=6xRJ-MuN46E)
-- [Hurray For The Riff Raff - The Navigator Official Video](https://www.youtube.com/watch?v=DqNAD0_zsuw)
-- [Hurray For the Riff Raff Rican Beach Official Music Video](https://www.youtube.com/watch?v=TqfxkKR7y98)
-- [Hurray For The Riff Raff - Palante Official Video](https://www.youtube.com/watch?v=LilVDjLaZSE)
-- [Hurray For The Riff Raff - Hungry Ghost Official Music Video](https://www.youtube.com/watch?v=6xRJ-MuN46E)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +74,5 @@ styles: ["Indie Rock"]
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | ATO Records |
 | Catalog Number | ATO0366 |
-| Notes | Includes a credit booklet in the format of a Broadway Playbill, 11x14 two-sided poster, a printed inner sleeve and download card. Some preorders came with an autographed CD size insert.  ℗ & © 2017 Hurray For The Riff Raff under exclusive license to ATO Records, LLC.  The album was recorded at Panoramic House, West marin, CA and Electric Lady Studios, NYC, 2016 Sounds from Mexico City, Peurto Rico & Loisaida recorded by Alynda Segarra, sounds from NYC subway recorded by Joshua Shoemaker, 2015-16.  "Pa'Lante" Written by Alynda Segarra and Pedro Peitri "Puerto Rican Obituary" by Pedro Pietri; from "El Pueblo Se Levanta," audio documentary footage courtesy of third World Newsreel  "Finale" written by Alynda Segarra and Yvarume Tapia Mariposa Gang Publishing (BMI)/ Sin Cojones Music (BMI) |
+| Notes | Includes a credit booklet in the format of a Broadway Playbill, 11x14 two-sided poster, a printed inner sleeve and download card.<br>Some preorders came with an autographed CD size insert.<br><br>℗ & © 2017 Hurray For The Riff Raff under exclusive license to ATO Records, LLC.<br><br>The album was recorded at Panoramic House, West marin, CA and Electric Lady Studios, NYC, 2016<br>Sounds from Mexico City, Peurto Rico & Loisaida recorded by Alynda Segarra, sounds from NYC subway recorded by Joshua Shoemaker, 2015-16.<br><br>"Pa'Lante" Written by Alynda Segarra and Pedro Peitri<br>"Puerto Rican Obituary" by Pedro Pietri; from "El Pueblo Se Levanta,"<br>audio documentary footage courtesy of third World Newsreel<br><br>"Finale" written by Alynda Segarra and Yvarume Tapia<br>Mariposa Gang Publishing (BMI)/ Sin Cojones Music (BMI) |
 | Discogs URL    | [Hurray For The Riff Raff - The Navigator](https://www.discogs.com/release/9912657-Hurray-For-The-Riff-Raff-The-Navigator) |

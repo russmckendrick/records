@@ -38,40 +38,27 @@ Leon is the fourth studio album by American singer Leon Bridges. It was released
 
 
 ## Tracklisting
-1. When a Man Cries
-2. That’s What I Love
-3. Laredo
-4. Panther City
-5. Ain’t Got Nothing On You
-6. Simplify
-7. Teddy’s Tune
-8. Never Satisfied
-9. Peaceful Place
-10. Can’t Have It All
-11. Ivy
-12. Ghetto Honeybee
-13. God Loves Everyone
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | When a Man Cries |  |
+| A2 | That’s What I Love |  |
+| A3 | Laredo |  |
+| A4 | Panther City |  |
+| A5 | Ain’t Got Nothing On You |  |
+| A6 | Simplify |  |
+| A7 | Teddy’s Tune |  |
+| B1 | Never Satisfied |  |
+| B2 | Peaceful Place |  |
+| B3 | Can’t Have It All |  |
+| B4 | Ivy |  |
+| B5 | Ghetto Honeybee |  |
+| B6 | God Loves Everyone |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/leon/1760811064" >}}<br>
 
 
-## Videos
-### Leon Bridges - When a Man Cries Official Lyric Video
-{{< youtube id="u4DSvpwNwlo" title="Leon Bridges - When a Man Cries Official Lyric Video" >}}<br>
-### More Videos
-
-- [Leon Bridges - Thats What I Love Official Lyric Video](https://www.youtube.com/watch?v=ng6CHnuIHrc)
-- [Leon Bridges - Laredo Official Visualizer](https://www.youtube.com/watch?v=8YklX6sHIeQ)
-- [Leon Bridges - Panther City Official Lyric Video](https://www.youtube.com/watch?v=yvZU7a478kA)
-- [Leon Bridges - Aint Got Nothing On You Official Lyric Video](https://www.youtube.com/watch?v=kYSxE7EgNl8)
-- [Leon Bridges - Teddys Tune Official Lyric Video](https://www.youtube.com/watch?v=qGqXcGCx9K0)
-- [Leon Bridges - Never Satisfied Official Lyric Video](https://www.youtube.com/watch?v=wl_YZ_uCW-s)
-- [Leon Bridges - Peaceful Place Official Video](https://www.youtube.com/watch?v=LtdrdE6sssg)
-- [Leon Bridges - Cant Have It All Official Lyric Video](https://www.youtube.com/watch?v=IKR5cC6B3qI)
-- [Leon Bridges - Ivy Official Lyric Video](https://www.youtube.com/watch?v=DpcvtGLpNFQ)
-- [Leon Bridges - Ghetto Honeybee Official Lyric Video](https://www.youtube.com/watch?v=n3r2TZdTr-c)
-- [Leon Bridges - God Loves Everyone Official Lyric Video](https://www.youtube.com/watch?v=TnNOmJURKsA)
 
 ## Release Images
 {{< imageGrid >}}

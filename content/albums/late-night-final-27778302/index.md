@@ -4,6 +4,7 @@ artist_name: "Richard Hawley"
 artist: "richard-hawley"
 album_name: "Late Night Final"
 date: 2023-07-28T05:35:14.000000Z
+release_date: "2002-01-01"
 release_id: "27778302"
 slug: "late-night-final-27778302"
 hideSummary: true
@@ -26,42 +27,31 @@ A short clip of the song "Long Black Train" was used in the 2005 film V for Vend
 The album's front cover and inner artwork feature photographs taken in the Castle Market indoor market in Sheffield.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Something Is...! (3:42)
-2. Baby You're My Light (2:56)
-3. Love Of My Life (3:20)
-4. The Nights Are Cold (2:49)
-5. Can You Hear The Rain Love (4:55)
-6. Lonely Night (2:45)
-7. Precious Sight (4:15)
-8. No Way Home (4:14)
-9. Cry A Tear For The Man In The Moon (3:26)
-10. Long Black Train (4:13)
-11. The Light At The End Of The Tunnel (Was A Train Coming The Other Way) (4:54)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Something Is...! | 3:42 |
+| A2 | Baby You're My Light | 2:56 |
+| A3 | Love Of My Life | 3:20 |
+| A4 | The Nights Are Cold | 2:49 |
+| A5 | Can You Hear The Rain Love | 4:55 |
+| B1 | Lonely Night | 2:45 |
+| B2 | Precious Sight | 4:15 |
+| B3 | No Way Home | 4:14 |
+| B4 | Cry A Tear For The Man In The Moon | 3:26 |
+| B5 | Long Black Train | 4:13 |
+| B6 | The Light At The End Of The Tunnel (Was A Train Coming The Other Way) | 4:54 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/late-night-final/290851062" >}}<br>
 
 
-## Videos
-### Baby Youre My Light
-{{< youtube id="QUeLj2xguHI" title="Baby Youre My Light" >}}<br>
-### More Videos
-
-- [Something Is](https://www.youtube.com/watch?v=Msf2bU9MJmU)
-- [Love of My Life](https://www.youtube.com/watch?v=lFNLxKh66fA)
-- [The Nights Are Cold](https://www.youtube.com/watch?v=PQWxJGXsb3I)
-- [Can You Hear the Rain Love](https://www.youtube.com/watch?v=CYAa5970h-4)
-- [Lonely Night](https://www.youtube.com/watch?v=Tw1stITSY5E)
-- [Precious Sight](https://www.youtube.com/watch?v=k9KAeod9Le8)
-- [No Way Home](https://www.youtube.com/watch?v=YJVr9bCrC0w)
-- [Cry a Tear for the Man On the Moon](https://www.youtube.com/watch?v=J7hESbgte8M)
-- [Long Black Train](https://www.youtube.com/watch?v=wQmy0pbrGXY)
-- [The Light At the End of the Tunnel Was a Train Coming the Other Way](https://www.youtube.com/watch?v=jIYdJeRYNSo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +63,5 @@ The album's front cover and inner artwork feature photographs taken in the Castl
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Clear) |
 | Label          | Setanta |
 | Catalog Number | SETLP088 |
-| Notes | Independent record shops exclusive, limited to 400 copies.  Rear of sleeve: Made in UK |
+| Notes | Independent record shops exclusive, limited to 400 copies.<br><br>Rear of sleeve: Made in UK |
 | Discogs URL    | [Richard Hawley - Late Night Final](https://www.discogs.com/release/27778302-Richard-Hawley-Late-Night-Final) |

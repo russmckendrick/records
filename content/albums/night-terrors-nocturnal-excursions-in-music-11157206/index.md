@@ -1,9 +1,10 @@
 ---
 title: "Matt Berry - Night Terrors (Nocturnal Excursions In Music)"
 artist_name: "Matt Berry"
-artist: "matt-berry-3"
+artist: "matt-berry"
 album_name: "Night Terrors (Nocturnal Excursions In Music)"
 date: 2017-11-17T16:41:45.000000Z
+release_date: ""
 release_id: "11157206"
 slug: "night-terrors-nocturnal-excursions-in-music-11157206"
 hideSummary: true
@@ -22,39 +23,27 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Night Terrors (Saint Etienne Remix) (4:15)
-2. Middle Of The East (3:39)
-3. Angi (2:48)
-4. Lord Above (Matt Berry Meets Thomas Walsh) (3:30)
-5. Any Colour You Like (3:25)
-6. Mr Green Genes (2:58)
-7. Hey Little Girl (3:48)
-8. Night Terrors (Clark Remix) (6:28)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Night Terrors (Saint Etienne Remix) | 4:15 |
+| A2 | Middle Of The East | 3:39 |
+| A3 | Angi | 2:48 |
+| A4 | Lord Above (Matt Berry Meets Thomas Walsh) | 3:30 |
+| B1 | Any Colour You Like | 3:25 |
+| B2 | Mr Green Genes | 2:58 |
+| B3 | Hey Little Girl | 3:48 |
+| B4 | Night Terrors (Clark Remix) | 6:28 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Matt Berry - The Night Terrors Saint Etienne Remix
-{{< youtube id="m32LRNhhNXQ" title="Matt Berry - The Night Terrors Saint Etienne Remix" >}}<br>
-### More Videos
 
-- [Middle Of The East](https://www.youtube.com/watch?v=GwW94fHiSe4)
-- [Angi](https://www.youtube.com/watch?v=6vPpgjU7yK4)
-- [MATT BERRY-Lord above Matt Berry meets Thomas Walsh](https://www.youtube.com/watch?v=W3SFPuZlPZY)
-- [Any Colour You Like](https://www.youtube.com/watch?v=wL5B4TTwaLc)
-- [Mr Green Genes](https://www.youtube.com/watch?v=QV6POsiCALs)
-- [MATT BERRY-Hey little girl](https://www.youtube.com/watch?v=0W8Dl9qczsw)
-- [Matt Berry - Night Terrors Clark Remix](https://www.youtube.com/watch?v=KVwpDYbf7Eo)
-- [Matt Berry - The Night Terrors Saint Etienne Remix](https://www.youtube.com/watch?v=m32LRNhhNXQ)
-- [Middle Of The East](https://www.youtube.com/watch?v=GwW94fHiSe4)
-- [Angi](https://www.youtube.com/watch?v=6vPpgjU7yK4)
-- [MATT BERRY-Lord above Matt Berry meets Thomas Walsh](https://www.youtube.com/watch?v=W3SFPuZlPZY)
-- [Any Colour You Like](https://www.youtube.com/watch?v=wL5B4TTwaLc)
-- [Mr Green Genes](https://www.youtube.com/watch?v=QV6POsiCALs)
-- [MATT BERRY-Hey little girl](https://www.youtube.com/watch?v=0W8Dl9qczsw)
-- [Matt Berry - Night Terrors Clark Remix](https://www.youtube.com/watch?v=KVwpDYbf7Eo)
 
 ## Release Images
 {{< imageGrid >}}

@@ -29,32 +29,28 @@ Songs like “Cock the Hammer”, “I Ain’t Goin’ Out Like That” and “L
 
 
 ## Tracklisting
-1. I Wanna Get High (2:54)
-2. I Ain't Goin' Out Like That (4:27)
-3. Insane In The Brain (3:29)
-4. When The Sh-- Goes Down (3:08)
-5. Lick A Shot (3:23)
-6. Cock The Hammer (4:25)
-7. Interlude (1:16)
-8. Lil' Putos (3:40)
-9. Legalize It (0:46)
-10. Hits From The Bong (2:40)
-11. What Go Around Come Around, Kid (3:42)
-12. A To The K (3:27)
-13. Hand On The Glock (3:32)
-14. Break 'Em Off Some (2:44)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Wanna Get High | 2:54 |
+| A2 | I Ain't Goin' Out Like That | 4:27 |
+| A3 | Insane In The Brain | 3:29 |
+| B1 | When The Sh-- Goes Down | 3:08 |
+| B2 | Lick A Shot | 3:23 |
+| B3 | Cock The Hammer | 4:25 |
+| B4 | Interlude | 1:16 |
+| C1 | Lil' Putos | 3:40 |
+| C2 | Legalize It | 0:46 |
+| C3 | Hits From The Bong | 2:40 |
+| D1 | What Go Around Come Around, Kid | 3:42 |
+| D2 | A To The K | 3:27 |
+| D3 | Hand On The Glock | 3:32 |
+| D4 | Break 'Em Off Some | 2:44 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/black-sunday/266797392" >}}<br>
 
 
-## Videos
-### Cypress Hill - I Aint Goin Out Like That
-{{< youtube id="q7p-ihYOG5s" title="Cypress Hill - I Aint Goin Out Like That" >}}<br>
-### More Videos
-
-- [Cypress Hill - Insane In The Brain Official Video](https://www.youtube.com/watch?v=RijB8wnJCN0)
-- [Cypress Hill - Black Sunday Full Album](https://www.youtube.com/watch?v=ARGFhMihDsQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +62,5 @@ Songs like “Cock the Hammer”, “I Ain’t Goin’ Out Like That” and “L
 | Format         | Vinyl 2× LP Album Record Store Day Numbered Reissue (180Gram) |
 | Label          | Ruffhouse Records |
 | Catalog Number | 88765493481 |
-| Notes | Record Store Day 2013 20th Anniversary Edition with numbered, gatefold cover and printed b/w inner sleeves.    Produced, arranged and mixed for The Soul Assassins.  "I Ain't Goin' Out Like That" produced for Beat Down Productions.  Recorded at 38 Fresh and Image Recording, Hollywood, CA, USA, Soundtrack, Baby Monster, Green Street and Chung King Studios, New York City, USA, and Studio 4 Recording, Philadelphia, PA, USA.  Mixed at Studio 4 Recording, Philadelphia, PA, USA. |
+| Notes | Record Store Day 2013 20th Anniversary Edition with numbered, gatefold cover and printed b/w inner sleeves.<br><br>Produced, arranged and mixed for The Soul Assassins.<br>"I Ain't Goin' Out Like That" produced for Beat Down Productions.<br>Recorded at 38 Fresh and Image Recording, Hollywood, CA, USA, Soundtrack, Baby Monster, Green Street and Chung King Studios, New York City, USA, and Studio 4 Recording, Philadelphia, PA, USA.<br>Mixed at Studio 4 Recording, Philadelphia, PA, USA. |
 | Discogs URL    | [Cypress Hill - Black Sunday](https://www.discogs.com/release/4491885-Cypress-Hill-Black-Sunday) |

@@ -1,9 +1,10 @@
 ---
 title: "Jim Bob - This Is My Mixtape EP"
 artist_name: "Jim Bob"
-artist: "jim-bob-2"
+artist: "jim-bob"
 album_name: "This Is My Mixtape EP"
 date: 2023-12-04T00:17:37.000000Z
+release_date: "2021-01-21"
 release_id: "29096545"
 slug: "this-is-my-mixtape-ep-29096545"
 hideSummary: true
@@ -23,16 +24,21 @@ styles: ["Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Are ‘Friends’ Electric?
-2. Pretty In Pink
-3. Labelled With Love
-4. Geno
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Are ‘Friends’ Electric? |  |
+| A2 | Pretty In Pink |  |
+| B1 | Labelled With Love |  |
+| B2 | Geno |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/covid-killa-mixtape-ep/1550326893" >}}<br>
-
 
 
 

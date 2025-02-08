@@ -4,6 +4,7 @@ artist_name: "Justin Townes Earle"
 artist: "justin-townes-earle"
 album_name: "The Saint Of Lost Causes"
 date: 2019-05-26T08:54:56.000000Z
+release_date: "2019-05-24"
 release_id: "13678373"
 slug: "the-saint-of-lost-causes-13678373"
 hideSummary: true
@@ -29,36 +30,32 @@ styles: ["Folk", "Country"]
 ---
 
 The Saint of Lost Causes is the eighth and final studio album released by American singer-songwriter Justin Townes Earle, and the last released before his death in 2020. It was released by New West Records on May 24, 2019.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Saint Of Lost Causes
-2. Ain't Got No Money
-3. Mornings In Memphis
-4. Don't Drink The Water
-5. Frightened By The Sound
-6. Flint City Shake It
-7. Over Alameda
-8. Pacific Northwestern Blues
-9. Appalachian Nightmare
-10. Say Baby
-11. Ahi Esta Mi Nina
-12. Talking To Myself
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Saint Of Lost Causes |  |
+| A2 | Ain't Got No Money |  |
+| A3 | Mornings In Memphis |  |
+| A4 | Don't Drink The Water |  |
+| B1 | Frightened By The Sound |  |
+| B2 | Flint City Shake It |  |
+| B3 | Over Alameda |  |
+| B4 | Pacific Northwestern Blues |  |
+| C1 | Appalachian Nightmare |  |
+| C2 | Say Baby |  |
+| C3 | Ahi Esta Mi Nina |  |
+| C4 | Talking To Myself |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-saint-of-lost-causes/1451565483" >}}<br>
 
 
-## Videos
-### Justin Townes Earle - The Saint Of Lost Causes Audio Only
-{{< youtube id="F9pXYG1ZITk" title="Justin Townes Earle - The Saint Of Lost Causes Audio Only" >}}<br>
-### More Videos
-
-- [Justin Townes Earle - Aint Got No Money Audio Only](https://www.youtube.com/watch?v=Dvd15bFIKJQ)
-- [Justin Townes Earle - Over Alameda Audio Only](https://www.youtube.com/watch?v=f4QjO3YUPOU)
-- [Justin Townes Earle - The Saint of Lost Causes](https://www.youtube.com/watch?v=cWwkW35vEIE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +67,5 @@ The Saint of Lost Causes is the eighth and final studio album released by Americ
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album |
 | Label          | New West Records |
 | Catalog Number | NW5279 |
-| Notes | Black vinyl edition. Side D has a etched picture.  Barnes & Noble had an exclusive limited edition autographed version. These have a barcode sticker on the shrink wrap and a hype sticker.  |
+| Notes | Black vinyl edition.<br>Side D has a etched picture.<br><br>Barnes & Noble had an exclusive limited edition autographed version. These have a barcode sticker on the shrink wrap and a hype sticker.  |
 | Discogs URL    | [Justin Townes Earle - The Saint Of Lost Causes](https://www.discogs.com/release/13678373-Justin-Townes-Earle-The-Saint-Of-Lost-Causes) |

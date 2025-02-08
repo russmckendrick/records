@@ -34,20 +34,22 @@ In hindsight, the album was an anomaly. But it also served as a kind of cleansin
 
 
 ## Tracklisting
-1. Sing This All Together
-2. Citadel
-3. In Another Land
-4. 2000 Man
-5. Sing This All Together (See What Happens)
-6. She's A Rainbow
-7. The Lantern
-8. Gomper
-9. 2000 Light Years From Home
-10. On With The Show
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sing This All Together |  |
+| A2 | Citadel |  |
+| A3 | In Another Land |  |
+| A4 | 2000 Man |  |
+| A5 | Sing This All Together (See What Happens) |  |
+| B1 | She's A Rainbow |  |
+| B2 | The Lantern |  |
+| B3 | Gomper |  |
+| B4 | 2000 Light Years From Home |  |
+| B5 | On With The Show |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/their-satanic-majesties-request/1440773836" >}}<br>
-
 
 
 
@@ -61,5 +63,5 @@ In hindsight, the album was an anomaly. But it also served as a kind of cleansin
 | Format         | Vinyl LP Album Reissue Remastered Stereo (Gatefold, 180g) |
 | Label          | ABKCO |
 | Catalog Number | 882 329-1 |
-| Notes | Some copies comes with sticker of the The Rolling Stones DSD Remastered Series on front cover (applied on the shrink-wrap) Laminated sleeve. Generic anti-static poly-lined dust inner sleeve. DSD Direct Stream Digital, Direct SBM Super Bit Mapping Direct  [On labels] DSD, & SBM Direct are Trademarks of Sony & Philips ©2003 ℗1967 ABKCO Records. Manufactured by ABKCO Records a division of ABKCO Music & Records, Inc Made in EU 882 329-1  [On back] ©2003 ABKCO Records. [...] Printed in EU. DSD, & SBM Direct are Trademarks of Sony & Philips.  Some copies distributed with barcode sticker (text): 0 18771 90021 4  Runouts are hand-etched except of the stamped -7642-. |
+| Notes | Some copies comes with sticker of the The Rolling Stones DSD Remastered Series on front cover (applied on the shrink-wrap)<br>Laminated sleeve. Generic anti-static poly-lined dust inner sleeve.<br>DSD Direct Stream Digital, Direct SBM Super Bit Mapping Direct<br><br>[On labels]<br>DSD, & SBM Direct are Trademarks of Sony & Philips<br>©2003 ℗1967 ABKCO Records. Manufactured by ABKCO Records a division of ABKCO Music & Records, Inc Made in EU 882 329-1<br><br>[On back]<br>©2003 ABKCO Records. [...] Printed in EU.<br>DSD, & SBM Direct are Trademarks of Sony & Philips.<br><br>Some copies distributed with barcode sticker (text): 0 18771 90021 4<br><br>Runouts are hand-etched except of the stamped -7642-. |
 | Discogs URL    | [The Rolling Stones - Their Satanic Majesties Request](https://www.discogs.com/release/381198-The-Rolling-Stones-Their-Satanic-Majesties-Request) |

@@ -4,6 +4,7 @@ artist_name: "Can"
 artist: "can"
 album_name: "Ege Bamyasi"
 date: 2019-11-08T19:39:57.000000Z
+release_date: "2013-04-20"
 release_id: "14373251"
 slug: "ege-bamyasi-14373251"
 hideSummary: true
@@ -33,42 +34,27 @@ Ege Bamyası (Turkish pronunciation: [ˈeɟe ˈbamjasɯ], lit. "Aegean okra") is
 Ege Bamyası has received critical acclaim, praised for skilful fusion of experimental music, electronic sounds, and avant-funk. Spectrum Sounds magazine called the album's experience as "maybe the most danceable that experimental music gets". Pitchfork highlighted that the album stands out among Can discography for being one of the most focused and "tetchy" records. A number of musicians, particularly rooted in electronic music and post-punk, cited Ege Bamyası as their influence. Some of those musicians (e.g. Brian Eno, Sonic Youth, The Orb, Bruce Gilbert of Wire, and System 7) participated in the Can tribute remix album Sacrilege (1997).
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Pinch (9:28)
-2. Sing Swan Song (4:18)
-3. One More Night (5:35)
-4. Vitamin C (3:34)
-5. Soup (10:25)
-6. I'm So Green (3:03)
-7. Spoon (3:03)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Pinch | 9:28 |
+| A2 | Sing Swan Song | 4:18 |
+| A3 | One More Night | 5:35 |
+| B1 | Vitamin C | 3:34 |
+| B2 | Soup | 10:25 |
+| B3 | I'm So Green | 3:03 |
+| B4 | Spoon | 3:03 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cans-ege-bamyasi/1555462408" >}}<br>
 
 
-## Videos
-### Pinch
-{{< youtube id="Nxh4cVuokWE" title="Pinch" >}}<br>
-### More Videos
-
-- [Sing Swan Song](https://www.youtube.com/watch?v=K7Nw0GliYDE)
-- [One More Night](https://www.youtube.com/watch?v=t-AHIoiXUdg)
-- [CAN - Vitamin C Music video](https://www.youtube.com/watch?v=JXsd5W8ofDw)
-- [Soup](https://www.youtube.com/watch?v=sLgteuzCVPE)
-- [Im So Green](https://www.youtube.com/watch?v=tM-wjRSf0rM)
-- [Spoon](https://www.youtube.com/watch?v=giHf9lkCMQ4)
-- [CAN - Pinch 1972](https://www.youtube.com/watch?v=L1iyRV_7waE)
-- [Can - Sing Swan Song](https://www.youtube.com/watch?v=3VmM8qRRLwU)
-- [One More Night - Can](https://www.youtube.com/watch?v=MyJzv4AFZXc)
-- [CAN - Vitamin C](https://www.youtube.com/watch?v=9a1NhRbNJ_Y)
-- [Soup](https://www.youtube.com/watch?v=pA4GEWqV0bw)
-- [CAN - Im So Green](https://www.youtube.com/watch?v=WUVEnXw8zH0)
-- [Spoon](https://www.youtube.com/watch?v=DFmdrYMnMiE)
-- [Can Ege Bamyasi Full Album](https://www.youtube.com/watch?v=RrV5bwWrAPc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +66,5 @@ Ege Bamyası has received critical acclaim, praised for skilful fusion of experi
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Green) |
 | Label          | Spoon Records |
 | Catalog Number | XSPOON8 |
-| Notes | ℗ & © 2013 Spoon Records Limited  Printed in the EU XSPOON8  mute.com  spoonrecords.com  Limited reissue on green vinyl. Includes download code. Cat. No. on Hypesticker: XLSPOON8.   Released with three different barcode stickers: 5 400863 016517 in two different styles and 4 015887 000834. |
+| Notes | ℗ & © 2013 Spoon Records Limited<br><br>Printed in the EU XSPOON8<br><br>mute.com <br>spoonrecords.com<br><br>Limited reissue on green vinyl. Includes download code. Cat. No. on Hypesticker: XLSPOON8. <br><br>Released with three different barcode stickers: 5 400863 016517 in two different styles and 4 015887 000834. |
 | Discogs URL    | [Can - Ege Bamyasi](https://www.discogs.com/release/14373251-Can-Ege-Bamyasi) |

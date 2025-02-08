@@ -4,6 +4,7 @@ artist_name: "Ian Dury And The Blockheads"
 artist: "ian-dury-and-the-blockheads"
 album_name: "Mr Love Pants"
 date: 2016-09-21T18:12:35.000000Z
+release_date: "1998-06-29"
 release_id: "7235873"
 slug: "mr-love-pants-7235873"
 hideSummary: true
@@ -21,40 +22,30 @@ styles: ["Pop Rock", "Funk"]
 ---
 
 Mr. Love Pants is a 1998 album by Ian Dury and the Blockheads, released on East Central One under Dury's own label Ronnie Harris Records (named after his accountant).
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Jack Shit George (4:23)
-2. The Passing Show (4:24)
-3. You're My Baby (3:30)
-4. Honeysuckle Highway (4:49)
-5. Itinerant Child (4:46)
-6. Geraldine (3:37)
-7. Cacka Boom (4:49)
-8. Bed O' Roses No. 9 (5:19)
-9. Heavy Living (5:08)
-10. Mash It Up Harry (5:53)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Jack Shit George | 4:23 |
+| A2 | The Passing Show | 4:24 |
+| A3 | You're My Baby | 3:30 |
+| A4 | Honeysuckle Highway | 4:49 |
+| A5 | Itinerant Child | 4:46 |
+| B1 | Geraldine | 3:37 |
+| B2 | Cacka Boom | 4:49 |
+| B3 | Bed O' Roses No. 9 | 5:19 |
+| B4 | Heavy Living | 5:08 |
+| B5 | Mash It Up Harry | 5:53 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mr-love-pants/1488482663" >}}<br>
 
 
-## Videos
-### Jack Shit George
-{{< youtube id="ZI8UihgKkX0" title="Jack Shit George" >}}<br>
-### More Videos
-
-- [The Passing Show](https://www.youtube.com/watch?v=8-HL4zg1h6c)
-- [Youre My Baby](https://www.youtube.com/watch?v=EmlL0LmiNPM)
-- [Honeysuckle Highway](https://www.youtube.com/watch?v=ltZb-C1CeN4)
-- [Itinerant Child](https://www.youtube.com/watch?v=2GdLUKnUc58)
-- [Geraldine](https://www.youtube.com/watch?v=adzFl4xqR2k)
-- [Cacka Boom](https://www.youtube.com/watch?v=50TajQCnFWU)
-- [Bed ORoses No9](https://www.youtube.com/watch?v=EaRT5ITQgqs)
-- [Heavy Living](https://www.youtube.com/watch?v=3wdt9eExM4M)
-- [Mash It Up Harry](https://www.youtube.com/watch?v=MNV1SAc7z2M)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +57,5 @@ Mr. Love Pants is a 1998 album by Ian Dury and the Blockheads, released on East 
 | Format         | Vinyl LP Album Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC62 |
-| Notes | Durations from playlist editor.  ... & The vest is yet to come  Manufactured under licence from Templemill Music Ltd |
+| Notes | Durations from playlist editor.<br>... & The vest is yet to come<br>Manufactured under licence from Templemill Music Ltd |
 | Discogs URL    | [Ian Dury And The Blockheads - Mr Love Pants](https://www.discogs.com/release/7235873-Ian-Dury-And-The-Blockheads-Mr-Love-Pants) |

@@ -4,6 +4,7 @@ artist_name: "Alex Somers"
 artist: "alex-somers"
 album_name: "Music From The Film Captain Fantastic"
 date: 2016-11-17T17:25:52.000000Z
+release_date: "2016-07-08"
 release_id: "8757071"
 slug: "music-from-the-film-captain-fantastic-8757071"
 hideSummary: true
@@ -25,48 +26,43 @@ styles: ["Classical", "Modern", "Neo-Classical", "Soundtrack", "Score"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. A New Beginning
-2. Church
-3. Campfire
-4. Funeral Pyre
-5. She Slit Her Wrists
-6. Memories
-7. Fireflies
-8. Home
-9. Fell
-10. Dream
-11. Near Death
-12. Water (I'm Right Here)
-13. School Bus
-14. Forrest
-15. Look Forward To
-16. Keepsakes
-17. Remembering
-18. Unsoundness
-19. Waving Goodbye
-20. Day Of Your Birth
-21. Water (Not Go Home)
-22. Goodbye...
-23. Disappear
-24. Fortress
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | A New Beginning |  |
+| A2 | Church |  |
+| A3 | Campfire |  |
+| A4 | Funeral Pyre |  |
+| A5 | She Slit Her Wrists |  |
+| B1 | Memories |  |
+| B2 | Fireflies |  |
+| B3 | Home |  |
+| B4 | Fell |  |
+| B5 | Dream |  |
+| B6 | Near Death |  |
+| B7 | Water (I'm Right Here) |  |
+| B8 | School Bus |  |
+| C1 | Forrest |  |
+| C2 | Look Forward To |  |
+| C3 | Keepsakes |  |
+| C4 | Remembering |  |
+| D1 | Unsoundness |  |
+| D2 | Waving Goodbye |  |
+| D3 | Day Of Your Birth |  |
+| D4 | Water (Not Go Home) |  |
+| D5 | Goodbye... |  |
+| D6 | Disappear |  |
+| D7 | Fortress |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/captain-fantastic-music-from-the-film/1116842051" >}}<br>
 
 
-## Videos
-### Captain Fantastic Original Soundtrack OST 2016 Alex Somers
-{{< youtube id="iFCrtw63FNk" title="Captain Fantastic Original Soundtrack OST 2016 Alex Somers" >}}<br>
-### More Videos
-
-- [Captain Fantastic Original Soundtrack OST 2016 Alex Somers](https://www.youtube.com/watch?v=iFCrtw63FNk)
-- [Captain Fantastic - Alex Somers - Score Preview Official Video](https://www.youtube.com/watch?v=IF0i0Zv3kzM)
-- [A New Beginning - Alex Somers - Captain Fantastic Soundtrack Official Video](https://www.youtube.com/watch?v=ngclAElpcZ4)
-- [Fortress](https://www.youtube.com/watch?v=HuV6YmQLDq4)
-- [Funeral Pyre - Alex Somers - Captain Fantastic Soundtrack Official Video](https://www.youtube.com/watch?v=bXks1AP8fG8)
-- [Memories](https://www.youtube.com/watch?v=T82gOSwFCPs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +73,5 @@ styles: ["Classical", "Modern", "Neo-Classical", "Soundtrack", "Score"]
 | Format         | Vinyl 2× LP Album Limited Edition (Blue [Duck Egg Blue Translucent]) |
 | Label          | Invada |
 | Catalog Number | INV164LP |
-| Notes | Limited edition of 1,150 copies pressed on heavy weight transparent "Duck Egg" blue.  — Description of contents: Issued in a handmade, bespoke gatefold sleeve with rounded edges. Includes digital download card.  — Hype sticker reads: "[Invada logo] Captain Fantastic Original soundtrack by Alex Somers Transparent "Duck egg" colored vinyl"  |
+| Notes | Limited edition of 1,150 copies pressed on heavy weight transparent "Duck Egg" blue.<br><br>— Description of contents:<br>Issued in a handmade, bespoke gatefold sleeve with rounded edges.<br>Includes digital download card.<br><br>— Hype sticker reads:<br>"[Invada logo]<br>Captain Fantastic<br>Original soundtrack by<br>Alex Somers<br>Transparent<br>"Duck egg" colored vinyl"<br> |
 | Discogs URL    | [Alex Somers - Music From The Film Captain Fantastic](https://www.discogs.com/release/8757071-Alex-Somers-Music-From-The-Film-Captain-Fantastic) |

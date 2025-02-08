@@ -24,92 +24,91 @@ In 1994, as Britpop’s bunting began to go up in London and Manchester, Manic S
 
 
 ## Tracklisting
-1. The Holy Bible
-2. Yes
-3. Ifwhiteamericatoldthetruthforonedayit'sworldwouldfallapart
-4. Of Walking Abortion
-5. She Is Suffering
-6. Archives Of Pain
-7. Revol
-8. 4st 7lb
-9. Mausoleum
-10. Faster
-11. This Is Yesterday
-12. Die In The Summertime
-13. The Intense Humming Of Evil
-14. P.C.P.
-15. The Holy Bible 20
-16. Yes
-17. Ifwhiteamericatoldthetruthforonedayit'sworldwouldfallapart
-18. Of Walking Abortion
-19. She Is Suffering
-20. Archives Of Pain
-21. Revol
-22. 4st 7lb
-23. Mausoleum
-24. Faster
-25. This Is Yesterday
-26. Die In The Summertime
-27. The Intense Humming Of Evil
-28. P.C.P.
-29. The Holy Bible 20 US Mix
-30. Yes
-31. Ifwhiteamericatoldthetruthforonedayit'sworldwouldfallapart
-32. Of Walking Abortion
-33. She Is Suffering
-34. Archives Of Pain
-35. Revol
-36. 4st 7lb
-37. Mausoleum
-38. Faster
-39. This Is Yesterday
-40. Die In The Summertime
-41. The Intense Humming Of Evil
-42. P.C.P.
-43. The Holy Bible 20 B Sides
-44. Sculpture Of Man
-45. New Art Riot (In E Minor)
-46. Too Cold Here
-47. You Love Us (Original Heavenly Version)
-48. Love's Sweet Exile (Bangkok Live)
-49. Drug Drug Druggy (Live)
-50. Roses In The Hospital (Live)
-51. You Love Us (Live)
-52. Love Torn Us Under
-53. The Drowners
-54. Stay With Me
-55. La Tristesse Durera (Scream To A Sigh) (Vocal Mix)
-56. La Tristesse Durera (Scream To A Sigh) (Dub Mix)
-57. Faster (Dub Mix)
-58. Faster (Vocal Mix)
-59. Revol (Previously Unreleased)
-60. The Holy Bible 20 Live
-61. P.C.P.
-62. From Despair To Where
-63. Yes
-64. Faster
-65. She Is Suffering
-66. La Tristesse Durera (Scream To A Sigh)
-67. Slash 'N' Burn
-68. Motorcycle Emptiness
-69. New Art Riot
-70. Life Becoming A Landslide
-71. Revol
-72. 4st 7lb
-73. This Is Yesterday
-74. Radio 4 'Mastertapes', Maida Vale September 2014
-75. 4st 7lb
-76. Faster
-77. PCP
-78. This Is Yesterday
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Holy Bible |  |
+| A1 | Yes |  |
+| A2 | Ifwhiteamericatoldthetruthforonedayit'sworldwouldfallapart |  |
+| A3 | Of Walking Abortion |  |
+| A4 | She Is Suffering |  |
+| A5 | Archives Of Pain |  |
+| A6 | Revol |  |
+| B7 | 4st 7lb |  |
+| B8 | Mausoleum |  |
+| B9 | Faster |  |
+| B10 | This Is Yesterday |  |
+| B11 | Die In The Summertime |  |
+| B12 | The Intense Humming Of Evil |  |
+| B13 | P.C.P. |  |
+|  | The Holy Bible 20 |  |
+| CD1-1 | Yes |  |
+| CD1-2 | Ifwhiteamericatoldthetruthforonedayit'sworldwouldfallapart |  |
+| CD1-3 | Of Walking Abortion |  |
+| CD1-4 | She Is Suffering |  |
+| CD1-5 | Archives Of Pain |  |
+| CD1-6 | Revol |  |
+| CD1-7 | 4st 7lb |  |
+| CD1-8 | Mausoleum |  |
+| CD1-9 | Faster |  |
+| CD1-10 | This Is Yesterday |  |
+| CD1-11 | Die In The Summertime |  |
+| CD1-12 | The Intense Humming Of Evil |  |
+| CD1-13 | P.C.P. |  |
+|  | The Holy Bible 20 US Mix |  |
+| CD2-1 | Yes |  |
+| CD2-2 | Ifwhiteamericatoldthetruthforonedayit'sworldwouldfallapart |  |
+| CD2-3 | Of Walking Abortion |  |
+| CD2-4 | She Is Suffering |  |
+| CD2-5 | Archives Of Pain |  |
+| CD2-6 | Revol |  |
+| CD2-7 | 4st 7lb |  |
+| CD2-8 | Mausoleum |  |
+| CD2-9 | Faster |  |
+| CD2-10 | This Is Yesterday |  |
+| CD2-11 | Die In The Summertime |  |
+| CD2-12 | The Intense Humming Of Evil |  |
+| CD2-13 | P.C.P. |  |
+|  | The Holy Bible 20 B Sides |  |
+| CD3-1 | Sculpture Of Man |  |
+| CD3-2 | New Art Riot (In E Minor) |  |
+| CD3-3 | Too Cold Here |  |
+| CD3-4 | You Love Us (Original Heavenly Version) |  |
+| CD3-5 | Love's Sweet Exile (Bangkok Live) |  |
+| CD3-6 | Drug Drug Druggy (Live) |  |
+| CD3-7 | Roses In The Hospital (Live) |  |
+| CD3-8 | You Love Us (Live) |  |
+| CD3-9 | Love Torn Us Under |  |
+| CD3-10 | The Drowners |  |
+| CD3-11 | Stay With Me |  |
+| CD3-12 | La Tristesse Durera (Scream To A Sigh) (Vocal Mix) |  |
+| CD3-13 | La Tristesse Durera (Scream To A Sigh) (Dub Mix) |  |
+| CD3-14 | Faster (Dub Mix) |  |
+| CD3-15 | Faster (Vocal Mix) |  |
+| CD3-16 | Revol (Previously Unreleased) |  |
+|  | The Holy Bible 20 Live |  |
+| CD4-1 | P.C.P. |  |
+| CD4-2 | From Despair To Where |  |
+| CD4-3 | Yes |  |
+| CD4-4 | Faster |  |
+| CD4-5 | She Is Suffering |  |
+| CD4-6 | La Tristesse Durera (Scream To A Sigh) |  |
+| CD4-7 | Slash 'N' Burn |  |
+| CD4-8 | Motorcycle Emptiness |  |
+| CD4-9 | New Art Riot |  |
+| CD4-10 | Life Becoming A Landslide |  |
+| CD4-11 | Revol |  |
+| CD4-12 | 4st 7lb |  |
+| CD4-13 | This Is Yesterday |  |
+|  | Radio 4 'Mastertapes', Maida Vale September 2014 |  |
+| CD4-14 | 4st 7lb |  |
+| CD4-15 | Faster |  |
+| CD4-16 | PCP |  |
+| CD4-17 | This Is Yesterday |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-holy-bible-20-deluxe/939553917" >}}<br>
 
-
-## Videos
-### Manic Street Preachers  - The Holy Bible US Mix Full Album
-{{< youtube id="O5kNAMNf724" title="Manic Street Preachers  - The Holy Bible US Mix Full Album" >}}<br>
 
 
 ## Release Images
@@ -121,5 +120,5 @@ In 1994, as Britpop’s bunting began to go up in London and Manchester, Manic S
 | Format         | Box Set Album Limited Edition, Vinyl LP Album Remastered (180 Gram), CD Album Remastered, CD Album Remastered, CD 2× |
 | Label          | Columbia |
 | Catalog Number | 88875036002 |
-| Notes | The first 1000 copies of The Holy Bible 20 box set bought from the Manics’ online store include a copy of the book signed by the band.  The [url=http://www.discogs.com/Manic-Street-Preachers-The-Holy-Bible-20/release/6396839]first run[/url] lists 4st 7lb as the last track on side A on the centre labels but is pressed at position B7 as here.    ℗ & © 1994 / 2014 Sony Music Entertainment. Made in the EU. |
+| Notes | The first 1000 copies of The Holy Bible 20 box set bought from the Manics’ online store include a copy of the book signed by the band.<br>The [url=http://www.discogs.com/Manic-Street-Preachers-The-Holy-Bible-20/release/6396839]first run[/url] lists 4st 7lb as the last track on side A on the centre labels but is pressed at position B7 as here.<br><br>℗ & © 1994 / 2014 Sony Music Entertainment. Made in the EU. |
 | Discogs URL    | [Manic Street Preachers - The Holy Bible 20](https://www.discogs.com/release/6380440-Manic-Street-Preachers-The-Holy-Bible-20) |

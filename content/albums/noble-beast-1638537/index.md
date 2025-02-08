@@ -36,37 +36,28 @@ The track "Tenuousness" appears in the closing credits for the 2011 movie Crazy,
 
 
 ## Tracklisting
-1. Oh No (4:21)
-2. Master Swarm (6:36)
-3. Fitz And The Dizzyspells (3:37)
-4. Effigy (5:06)
-5. Tenuousness (3:51)
-6. Nomenclature (2:54)
-7. Ouo (0:20)
-8. Not A Robot, But A Ghost (5:37)
-9. Unfolding Fans (0:58)
-10. Anonanimal (4:47)
-11. Natural Disaster (4:19)
-12. The Privateers (3:24)
-13. Souverian (7:18)
-14. On Ho! (1:08)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Oh No | 4:21 |
+| A2 | Master Swarm | 6:36 |
+| A3 | Fitz And The Dizzyspells | 3:37 |
+| B1 | Effigy | 5:06 |
+| B2 | Tenuousness | 3:51 |
+| B3 | Nomenclature | 2:54 |
+| C1 | Ouo | 0:20 |
+| C2 | Not A Robot, But A Ghost | 5:37 |
+| C3 | Unfolding Fans | 0:58 |
+| C4 | Anonanimal | 4:47 |
+| D1 | Natural Disaster | 4:19 |
+| D2 | The Privateers | 3:24 |
+| D3 | Souverian | 7:18 |
+| D4 | On Ho! | 1:08 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/noble-beast/671946528" >}}<br>
 
 
-## Videos
-### Oh No
-{{< youtube id="kSOKpw9Y2GY" title="Oh No" >}}<br>
-### More Videos
-
-- [Not a Robot But a Ghost](https://www.youtube.com/watch?v=ixQUkxp9BKQ)
-- [Effigy](https://www.youtube.com/watch?v=cbUbjuuBgxo)
-- [On Ho](https://www.youtube.com/watch?v=UFOGZ0KFAOA)
-- [Natural Disaster](https://www.youtube.com/watch?v=dOiQDGPIMtU)
-- [Tenuousness](https://www.youtube.com/watch?v=0nSbR0hG6nc)
-- [andrew bird - oh no new track 2009](https://www.youtube.com/watch?v=Upqcu2DWK8g)
-- [Andrew Bird - Natural Disaster HQ](https://www.youtube.com/watch?v=Q_lc2g3JifM)
 
 ## Release Images
 {{< imageGrid >}}

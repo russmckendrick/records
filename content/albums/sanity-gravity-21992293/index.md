@@ -4,6 +4,7 @@ artist_name: "Gavin Harrison"
 artist: "gavin-harrison"
 album_name: "Sanity & Gravity"
 date: 2022-02-07T01:08:37.000000Z
+release_date: "1997-01-01"
 release_id: "21992293"
 slug: "sanity-gravity-21992293"
 hideSummary: true
@@ -23,36 +24,28 @@ styles: ["Jazz-Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Aim
-2. On A Wave Of Positivity
-3. Dog Day
-4. A Place To Stay
-5. Sonata In H
-6. Witness (For Bobby)
-7. Dearest Blood
-8. Big News For A Small Day
-9. Iron Horse (Bonus Track)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Aim |  |
+| A2 | On A Wave Of Positivity |  |
+| A3 | Dog Day |  |
+| A4 | A Place To Stay |  |
+| A5 | Sonata In H |  |
+| B1 | Witness (For Bobby) |  |
+| B2 | Dearest Blood |  |
+| B3 | Big News For A Small Day |  |
+| B4 | Iron Horse (Bonus Track) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sanity-gravity-remastered/1596823241" >}}<br>
 
 
-## Videos
-### Aim Remastered
-{{< youtube id="1q1_K7ZJqfQ" title="Aim Remastered" >}}<br>
-### More Videos
-
-- [On A Wave Of Positivity Remastered](https://www.youtube.com/watch?v=a9vdpwkSFU0)
-- [Dog Day Remastered](https://www.youtube.com/watch?v=ir07eZ-2eLo)
-- [A Place To Stay Remastered](https://www.youtube.com/watch?v=8ODXoB3iJ9k)
-- [Witness for Bobby](https://www.youtube.com/watch?v=4JFyvjP4aoo)
-- [Dearest Blood Remastered](https://www.youtube.com/watch?v=dDna36zGPN4)
-- [Sonata in H Remastered](https://www.youtube.com/watch?v=SDJDoz4KJDo)
-- [Big News For A Small Day Remastered](https://www.youtube.com/watch?v=zV3KXMo5J04)
-- [Witness reprise](https://www.youtube.com/watch?v=gmBGz5azI3Y)
-- [Iron Horse bonus](https://www.youtube.com/watch?v=LY9NmPpYFpk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +56,5 @@ styles: ["Jazz-Rock"]
 | Format         | Vinyl LP Album Reissue Remastered Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1133 |
-| Notes | -25th anniversary LP reissue of Gavin Harrison's debut album.  -Remastered with an exclusive bonus track and new original artwork.  |
+| Notes | -25th anniversary LP reissue of Gavin Harrison's debut album. <br>-Remastered with an exclusive bonus track and new original artwork.<br> |
 | Discogs URL    | [Gavin Harrison - Sanity & Gravity](https://www.discogs.com/release/21992293-Gavin-Harrison-Sanity-Gravity) |

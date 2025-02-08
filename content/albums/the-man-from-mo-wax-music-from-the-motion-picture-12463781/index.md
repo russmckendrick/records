@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "The Man From Mo'Wax (Music From The Motion Picture)"
 date: 2018-09-03T17:51:36.000000Z
+release_date: ""
 release_id: "12463781"
 slug: "the-man-from-mo-wax-music-from-the-motion-picture-12463781"
 hideSummary: true
@@ -29,68 +30,38 @@ styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Holst: The Planets, Op.32 - 2. Venus, The Bringer Of Peace (Edit)
-2. Doin' Damage In My Native Language (Shadow’s Legitimate Remix)
-3. See And Don't See
-4. Friends & Countrymen
-5. Food Of My De-Rhythm
-6. Return Of The Original Art Form (DJ Mix)
-7. Ravers Suck Our Sound And Get Fuck
-8. Contemplating Jazz
-9. Blue Flowers
-10. Kemuri
-11. Back And Forth
-12. What Does Your Soul Look Like (Part 3)
-13. Flow
-14. Organ Donor (Extended Overhaul)
-15. Rabbit In Your Headlights
-16. Swan Lake
-17. Reign
-18. …Like Clockwork
-19. What Does Your Soul Look Like (Part 1)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Holst: The Planets, Op.32 - 2. Venus, The Bringer Of Peace (Edit) |  |
+| A2 | Doin' Damage In My Native Language (Shadow’s Legitimate Remix) |  |
+| A3 | See And Don't See |  |
+| A4 | Friends & Countrymen |  |
+| A5 | Food Of My De-Rhythm |  |
+| B1 | Return Of The Original Art Form (DJ Mix) |  |
+| B2 | Ravers Suck Our Sound And Get Fuck |  |
+| B3 | Contemplating Jazz |  |
+| B4 | Blue Flowers |  |
+| B5 | Kemuri |  |
+| C1 | Back And Forth |  |
+| C2 | What Does Your Soul Look Like (Part 3) |  |
+| C3 | Flow |  |
+| C4 | Organ Donor (Extended Overhaul) |  |
+| C5 | Rabbit In Your Headlights |  |
+| D1 | Swan Lake |  |
+| D2 | Reign |  |
+| D3 | …Like Clockwork |  |
+| D4 | What Does Your Soul Look Like (Part 1) |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### La Funk Mob Ravers suck our sound and get fuck 1994 Mo Wax
-{{< youtube id="RLv1SjteDG8" title="La Funk Mob Ravers suck our sound and get fuck 1994 Mo Wax" >}}<br>
-### More Videos
 
-- [Holst The Planets Op32 - 2 Venus the Bringer of Peace](https://www.youtube.com/watch?v=VKW-67YNkqo)
-- [Zimbabwe Legit - Doin Damage In My Native Language Shadows Legitimate Mix](https://www.youtube.com/watch?v=J_6X7Cb8Fog)
-- [The Wild Bunch  Friends  Countrymen](https://www.youtube.com/watch?v=XH6KUC7LJg0)
-- [A FLG Maurepas upload - RPM - Food Of My De-Rhythm - Future Jazz](https://www.youtube.com/watch?v=-8oGqQVpJi8)
-- [Hiroshi  KUDO - Return Of The Original Art-Form](https://www.youtube.com/watch?v=ryBVFWd-pxg)
-- [Attica Blues - Contemplating Jazz](https://www.youtube.com/watch?v=DlfG2b-vsLE)
-- [DrOctagon - Blue Flowers](https://www.youtube.com/watch?v=V9VYzNUXGDA)
-- [DJ Krush - Kemuri](https://www.youtube.com/watch?v=aVjgRlto8PI)
-- [UNKLE-Back And Forth-In A State](https://www.youtube.com/watch?v=RraRrDvXuq8)
-- [DJ Shadow - What Does Your Soul Look Like Part 3](https://www.youtube.com/watch?v=NSEQYDjKVNs)
-- [RPM - Flow](https://www.youtube.com/watch?v=FEyKjxhOqVY)
-- [Dj shadow-organ donor extended overhaul](https://www.youtube.com/watch?v=1p1n-j_MQKE)
-- [UNKLE feat Thom Yorke - Rabbit In Your Headlights](https://www.youtube.com/watch?v=RCG7qJAP7Qk)
-- [Blackalicious - Swan lake](https://www.youtube.com/watch?v=sGEkP1F-tgQ)
-- [Ian Brown  UNKLE - Reign](https://www.youtube.com/watch?v=mkSi6bTrPu0)
-- [DJ Shadow - What Does Your Soul Look Like Part 1 - Blue Sky Revisit](https://www.youtube.com/watch?v=rGbR7HD6Ryg)
-- [La Funk Mob Ravers suck our sound and get fuck 1994 Mo Wax](https://www.youtube.com/watch?v=RLv1SjteDG8)
-- [Holst The Planets Op32 - 2 Venus the Bringer of Peace](https://www.youtube.com/watch?v=VKW-67YNkqo)
-- [Zimbabwe Legit - Doin Damage In My Native Language Shadows Legitimate Mix](https://www.youtube.com/watch?v=J_6X7Cb8Fog)
-- [The Wild Bunch  Friends  Countrymen](https://www.youtube.com/watch?v=XH6KUC7LJg0)
-- [A FLG Maurepas upload - RPM - Food Of My De-Rhythm - Future Jazz](https://www.youtube.com/watch?v=-8oGqQVpJi8)
-- [Hiroshi  KUDO - Return Of The Original Art-Form](https://www.youtube.com/watch?v=ryBVFWd-pxg)
-- [Attica Blues - Contemplating Jazz](https://www.youtube.com/watch?v=DlfG2b-vsLE)
-- [DrOctagon - Blue Flowers](https://www.youtube.com/watch?v=V9VYzNUXGDA)
-- [DJ Krush - Kemuri](https://www.youtube.com/watch?v=aVjgRlto8PI)
-- [UNKLE-Back And Forth-In A State](https://www.youtube.com/watch?v=RraRrDvXuq8)
-- [DJ Shadow - What Does Your Soul Look Like Part 3](https://www.youtube.com/watch?v=NSEQYDjKVNs)
-- [RPM - Flow](https://www.youtube.com/watch?v=FEyKjxhOqVY)
-- [Dj shadow-organ donor extended overhaul](https://www.youtube.com/watch?v=1p1n-j_MQKE)
-- [UNKLE feat Thom Yorke - Rabbit In Your Headlights](https://www.youtube.com/watch?v=RCG7qJAP7Qk)
-- [Blackalicious - Swan lake](https://www.youtube.com/watch?v=sGEkP1F-tgQ)
-- [Ian Brown  UNKLE - Reign](https://www.youtube.com/watch?v=mkSi6bTrPu0)
-- [DJ Shadow - What Does Your Soul Look Like Part 1 - Blue Sky Revisit](https://www.youtube.com/watch?v=rGbR7HD6Ryg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -101,5 +72,5 @@ styles: ["Trip Hop", "Breakbeat", "Broken Beat", "Downtempo", "Leftfield"]
 | Format         | Vinyl LP (Red), Vinyl LP (Blue), All Media Compilation Limited Edition |
 | Label          | UMC |
 | Catalog Number | 6727901 |
-| Notes | Gatefold sleeve.  Including download code and director's notes. |
+| Notes | Gatefold sleeve.<br><br>Including download code and director's notes. |
 | Discogs URL    | [Various - The Man From Mo'Wax (Music From The Motion Picture)](https://www.discogs.com/release/12463781-Various-The-Man-From-MoWax-Music-From-The-Motion-Picture) |

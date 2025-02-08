@@ -4,6 +4,7 @@ artist_name: "Opeth"
 artist: "opeth"
 album_name: "In Cauda Venenum"
 date: 2019-09-28T07:50:27.000000Z
+release_date: "2019-09-27"
 release_id: "14182364"
 slug: "in-cauda-venenum-14182364"
 hideSummary: true
@@ -36,36 +37,30 @@ styles: ["Progressive Metal", "Prog Rock"]
 In Cauda Venenum (Latin for "Poison in the tail") is the thirteenth studio album by Swedish progressive metal band Opeth, released on 27 September 2019 through Moderbolaget and Nuclear Blast. It was released in two versions: a Swedish-language version and an English-language version. The band toured in support of the album throughout 2019 and into 2020. At 67 minutes and 57 seconds, it is the band's longest studio album.  It is also the band's last album to feature drummer Martin Axenrot before his departure in 2021.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Garden Of Earthly Delights
-2. Dignity
-3. Heart In Hand
-4. Next Of Kin
-5. Lovelorn Crime
-6. Charlatan
-7. Universal Truth
-8. The Garroter
-9. Continuum
-10. All Things Will Pass
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Garden Of Earthly Delights |  |
+| A2 | Dignity |  |
+| A3 | Heart In Hand |  |
+| B1 | Next Of Kin |  |
+| B2 | Lovelorn Crime |  |
+| C1 | Charlatan |  |
+| C2 | Universal Truth |  |
+| C3 | The Garroter |  |
+| D1 | Continuum |  |
+| D2 | All Things Will Pass |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-cauda-venenum/1776756303" >}}<br>
 
 
-## Videos
-### Opeth - In Cauda Venenum Full Album
-{{< youtube id="noN0m4_1uNg" title="Opeth - In Cauda Venenum Full Album" >}}<br>
-### More Videos
-
-- [OPETH - Universal Truth OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=ypdlAMXIvCM)
-- [OPETH - Dignity OFFICIAL VISUALIZER TRACK](https://www.youtube.com/watch?v=GF5FXYmBrc4)
-- [OPETH - Svekets Prins OFFICIAL VISUALIZER TRACK](https://www.youtube.com/watch?v=QcMdA7Xs8jE)
-- [Opeth - In Cauda Venenum Swedish edition](https://www.youtube.com/watch?v=YnnQqGvs9FE)
-- [Opeth  In Cauda Venenum The Bonus Tracks Full Album](https://www.youtube.com/watch?v=q285uHiNfmM)
 
 ## Release Images
 {{< imageGrid >}}

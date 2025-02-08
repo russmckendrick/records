@@ -4,6 +4,7 @@ artist_name: "Deacon Blue"
 artist: "deacon-blue"
 album_name: "Ooh Las Vegas"
 date: 2019-04-26T12:44:54.000000Z
+release_date: "1990-09-11"
 release_id: "1395542"
 slug: "ooh-las-vegas-1395542"
 hideSummary: true
@@ -31,53 +32,43 @@ Ooh Las Vegas is a compilation album by the Scottish rock band Deacon Blue. It c
 The Japanese release also included the four tracks from the Four Bacharach & David Songs EP.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Disneyworld (2:49)
-2. Ronnie Spector (3:29)
-3. My America (3:10)
-4. Sharon (4:13)
-5. Undeveloped Heart (3:37)
-6. Souvenirs (2:41)
-7. Born Again (3:23)
-8. Down In The Flood (4:37)
-9. Back Here In Beanoland (3:01)
-10. Love You Say (5:34)
-11. Let Your Hearts Be Troubled (6:31)
-12. Gentle Teardrops (3:13)
-13. Little Lincoln (3:06)
-14. That Country (Beneath Your Skin) (3:50)
-15. Is It Cold Beneath The Hill? (3:57)
-16. Circus Lights (2:56)
-17. Trampolene (3:36)
-18. Las Vegas (3:55)
-19. Killing The Blues (3:49)
-20. Long Window To Love (3:12)
-21. Christine (2:26)
-22. Take Me To This Place (2:26)
-23. Don't Let The Teardrops Start (3:01)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Disneyworld | 2:49 |
+| A2 | Ronnie Spector | 3:29 |
+| A3 | My America | 3:10 |
+| A4 | Sharon | 4:13 |
+| A5 | Undeveloped Heart | 3:37 |
+| A6 | Souvenirs | 2:41 |
+| B1 | Born Again | 3:23 |
+| B2 | Down In The Flood | 4:37 |
+| B3 | Back Here In Beanoland | 3:01 |
+| B4 | Love You Say | 5:34 |
+| B5 | Let Your Hearts Be Troubled | 6:31 |
+| C1 | Gentle Teardrops | 3:13 |
+| C2 | Little Lincoln | 3:06 |
+| C3 | That Country (Beneath Your Skin) | 3:50 |
+| C4 | Is It Cold Beneath The Hill? | 3:57 |
+| C5 | Circus Lights | 2:56 |
+| C6 | Trampolene | 3:36 |
+| D1 | Las Vegas | 3:55 |
+| D2 | Killing The Blues | 3:49 |
+| D3 | Long Window To Love | 3:12 |
+| D4 | Christine | 2:26 |
+| D5 | Take Me To This Place | 2:26 |
+| D6 | Don't Let The Teardrops Start | 3:01 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ooh-las-vegas-b-sides-film-tracks-sessions/300117724" >}}<br>
 
 
-## Videos
-### Deacon Blue - Disneyworld
-{{< youtube id="YuMRvCvBJm0" title="Deacon Blue - Disneyworld" >}}<br>
-### More Videos
-
-- [Deacon Blue - SHARON](https://www.youtube.com/watch?v=BspKQrrj8GQ)
-- [Deacon Blue - Is It Cold Beneath the Hill ](https://www.youtube.com/watch?v=I2G3dosGk4I)
-- [Deacon Blue - Disneyworld](https://www.youtube.com/watch?v=YuMRvCvBJm0)
-- [Deacon Blue - SHARON](https://www.youtube.com/watch?v=BspKQrrj8GQ)
-- [Deacon Blue - Is It Cold Beneath the Hill ](https://www.youtube.com/watch?v=I2G3dosGk4I)
-- [Las Vegas](https://www.youtube.com/watch?v=MfKXbvxw21c)
-- [Back Here In Beanoland](https://www.youtube.com/watch?v=nWn6ipzktis)
-- [My America](https://www.youtube.com/watch?v=2Kkb9iOh5OY)
-- [Disneyworld](https://www.youtube.com/watch?v=hXIRGY5OP3I)
 
 ## Release Images
 {{< imageGrid >}}

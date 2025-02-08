@@ -4,6 +4,7 @@ artist_name: "Pajama Club"
 artist: "pajama-club"
 album_name: "Pajama Club"
 date: 2016-09-01T17:18:43.000000Z
+release_date: "2011-07-04"
 release_id: "3165774"
 slug: "pajama-club-3165774"
 hideSummary: true
@@ -27,26 +28,29 @@ Pajama Club is the eponymous 2011 debut album by Pajama Club, the band formed by
 The album is change in style from the material Finn performs with Crowded House, with a more groove oriented feel. Finn has stated that the Post-punk funk band ESG were a key inspiration on the album. Guitarist Johnny Marr plays on two tracks, Can't Put It Down Until It Ends and Go Kart.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Tell Me What You Want (3:36)
-2. Can't Put It Down Until It Ends (3:52)
-3. These Are Conditions (2:38)
-4. From A Friend To A Friend (5:15)
-5. Golden Child (3:18)
-6. Daylight (3:54)
-7. Go Kart (3:46)
-8. Dead Leg (3:38)
-9. TNT For 2 (4:34)
-10. The Game We Love To Play (3:42)
-11. Diamonds In Her Eyes (5:15)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Tell Me What You Want | 3:36 |
+| A2 | Can't Put It Down Until It Ends | 3:52 |
+| A3 | These Are Conditions | 2:38 |
+| A4 | From A Friend To A Friend | 5:15 |
+| A5 | Golden Child | 3:18 |
+| A6 | Daylight | 3:54 |
+| B1 | Go Kart | 3:46 |
+| B2 | Dead Leg | 3:38 |
+| B3 | TNT For 2 | 4:34 |
+| B4 | The Game We Love To Play | 3:42 |
+| B5 | Diamonds In Her Eyes | 5:15 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pajama-club/693719180" >}}<br>
-
 
 
 
@@ -60,5 +64,5 @@ The album is change in style from the material Finn performs with Crowded House,
 | Format         | Vinyl LP Album |
 | Label          | Lester Records |
 | Catalog Number | LRPJCO11LP |
-| Notes | 180 Gram vinyl release. Includes download card for digital version of the album, redeemable until 19 Sep 2013. Available separate and as a bundle with the CD version. Limited number of 250 issues came with a 12x12 inch silk screened colour print signed by all band members.  Touch Typing on The Game We Love To Play - Jordan Stone.  All songs by Neil and Sharon Finn (Kobalt Music Publishing) except tracks 1, 6, 8 by Neil and Sharon Finn and Sean Donnelly (Kobalt Music Publishing/Mushroom Music). Track 10 by Neil Finn and Sean Donnelly (Kobalt Music Publishing/Mushroom Music) |
+| Notes | 180 Gram vinyl release.<br>Includes download card for digital version of the album, redeemable until 19 Sep 2013.<br>Available separate and as a bundle with the CD version.<br>Limited number of 250 issues came with a 12x12 inch silk screened colour print signed by all band members.<br><br>Touch Typing on The Game We Love To Play - Jordan Stone.<br><br>All songs by Neil and Sharon Finn (Kobalt Music Publishing) except tracks 1, 6, 8 by Neil and Sharon Finn and Sean Donnelly (Kobalt Music Publishing/Mushroom Music). Track 10 by Neil Finn and Sean Donnelly (Kobalt Music Publishing/Mushroom Music) |
 | Discogs URL    | [Pajama Club - Pajama Club](https://www.discogs.com/release/3165774-Pajama-Club-Pajama-Club) |

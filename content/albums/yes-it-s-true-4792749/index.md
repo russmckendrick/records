@@ -4,6 +4,7 @@ artist_name: "The Polyphonic Spree"
 artist: "the-polyphonic-spree"
 album_name: "Yes, It's True"
 date: 2017-08-15T18:49:05.000000Z
+release_date: "2013-08-06"
 release_id: "4792749"
 slug: "yes-it-s-true-4792749"
 hideSummary: true
@@ -24,38 +25,31 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 ---
 
 Yes, It's True is the fourth studio album by American pop band The Polyphonic Spree. It was released on August 6, 2013.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Section 33 (You Don't Know Me) (3:24)
-2. Section 34 (Popular By Design) (4:14)
-3. Section 35 (Hold Yourself Up) (4:23)
-4. Section 36 (Carefully Try) (3:54)
-5. Section 37 (You're Golden (4:08)
-6. Section 38 (Heart Talk) (3:42)
-7. Section 39 (Blurry Up The Lines) (4:25)
-8. Section 40 (Let Them Be) (3:13)
-9. Section 41 (Raise Your Head) (5:17)
-10. Section 42 (What Would You Do?) (4:36)
-11. Section 43 (Battlefield) (7:27)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Section 33 (You Don't Know Me) | 3:24 |
+| A2 | Section 34 (Popular By Design) | 4:14 |
+| A3 | Section 35 (Hold Yourself Up) | 4:23 |
+| A4 | Section 36 (Carefully Try) | 3:54 |
+| A5 | Section 37 (You're Golden | 4:08 |
+| A6 | Section 38 (Heart Talk) | 3:42 |
+| B1 | Section 39 (Blurry Up The Lines) | 4:25 |
+| B2 | Section 40 (Let Them Be) | 3:13 |
+| B3 | Section 41 (Raise Your Head) | 5:17 |
+| B4 | Section 42 (What Would You Do?) | 4:36 |
+| B5 | Section 43 (Battlefield) | 7:27 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/yes-its-true/1595585729" >}}<br>
 
 
-## Videos
-### The Polyphonic Spree  Hold Yourself Up OFFICIAL
-{{< youtube id="CWaoEWyK5i4" title="The Polyphonic Spree  Hold Yourself Up OFFICIAL" >}}<br>
-### More Videos
-
-- [The Polyphonic Spree  You Dont Know Me OFFICIAL](https://www.youtube.com/watch?v=hGiEL_BGToo)
-- [The Polyphonic Spree  Popular By Design OFFICIAL](https://www.youtube.com/watch?v=kEbT-Gw15_I)
-- [The Polyphonic Spree  What Would You Do OFFICIAL](https://www.youtube.com/watch?v=f076lC2PWnQ)
-- [The Polyphonic Spree  Blurry Up The Lines OFFICIAL](https://www.youtube.com/watch?v=Qpvp0dfE9Z0)
-- [The Polyphonic Spree  Raise Your Head OFFICIAL](https://www.youtube.com/watch?v=_7gNjOkszeQ)
-- [The Polyphonic Spree  Let Them Be OFFICIAL](https://www.youtube.com/watch?v=YCZUpxMLC2w)
 
 ## Release Images
 {{< imageGrid >}}

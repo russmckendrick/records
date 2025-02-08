@@ -1,9 +1,10 @@
 ---
 title: "Monster Truck - Sittin' Heavy"
 artist_name: "Monster Truck"
-artist: "monster-truck-2"
+artist: "monster-truck"
 album_name: "Sittin' Heavy"
 date: 2016-09-01T17:17:59.000000Z
+release_date: "2016-02-19"
 release_id: "8125798"
 slug: "sittin-heavy-8125798"
 hideSummary: true
@@ -28,36 +29,31 @@ styles: ["Blues Rock", "Hard Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Why Are You Not Rocking? (2:23)
-2. Don't Tell Me How To Live (4:24)
-3. She's A Witch (3:44)
-4. For The People (feat. Ian Thornley) (4:34)
-5. Black Forest (5:20)
-6. Another Man's Shoes (3:59)
-7. Things Get Better (3:41)
-8. The Enforcer (3:16)
-9. To The Flame (4:00)
-10. Midnight (Bonus) (3:32)
-11. New Soul (4:13)
-12. Enjoy The Time (5:35)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Why Are You Not Rocking? | 2:23 |
+| A2 | Don't Tell Me How To Live | 4:24 |
+| A3 | She's A Witch | 3:44 |
+| A4 | For The People (feat. Ian Thornley) | 4:34 |
+| B1 | Black Forest | 5:20 |
+| B2 | Another Man's Shoes | 3:59 |
+| B3 | Things Get Better | 3:41 |
+| B4 | The Enforcer | 3:16 |
+| C1 | To The Flame | 4:00 |
+| C2 | Midnight (Bonus) | 3:32 |
+| C3 | New Soul | 4:13 |
+| C4 | Enjoy The Time | 5:35 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sittin-heavy/1600457332" >}}<br>
 
 
-## Videos
-### Monster Truck - For The People - feat  Ian Thornley Sittin Heavy 2016
-{{< youtube id="EKv4MNo03zY" title="Monster Truck - For The People - feat  Ian Thornley Sittin Heavy 2016" >}}<br>
-### More Videos
-
-- [Monster Truck - Why Are You Not Rocking Sittin Heavy 2016](https://www.youtube.com/watch?v=dpH3PJj0wh8)
-- [Monster Truck - The Enforcer Official Audio](https://www.youtube.com/watch?v=ENNtNc1di-c)
-- [Monster Truck - New Soul Sittin Heavy 2016](https://www.youtube.com/watch?v=2-ZnHeKpjHc)
-- [Monster Truck - Dont Tell Me How To Live Official Audio](https://www.youtube.com/watch?v=qLHeeK4Kzmo)
-- [Monster Truck - Shes A Witch Sittin Heavy 2016](https://www.youtube.com/watch?v=jFY4GpASXzY)
-- [Monster Truck - Things Get Better Sittin Heavy 2016](https://www.youtube.com/watch?v=ycfrP0b-YQc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +64,5 @@ styles: ["Blues Rock", "Hard Rock"]
 | Format         | Vinyl LP (Red), Vinyl LP Single Sided Etched (Red), All Media Album |
 | Label          | Mascot Records (2) |
 | Catalog Number | M74851 |
-| Notes | Double Red Heavy 180g LP with etched D Side  Includes an exclusive bonus track, and a coupon for a complimentary MP3 download of the album  Orders from record company net shop included a Mascot Messenger advertising paper and poster which was not inside plastics. |
+| Notes | Double Red Heavy 180g LP with etched D Side<br><br>Includes an exclusive bonus track, and a coupon for a complimentary MP3 download of the album<br><br>Orders from record company net shop included a Mascot Messenger advertising paper and poster which was not inside plastics. |
 | Discogs URL    | [Monster Truck - Sittin' Heavy](https://www.discogs.com/release/8125798-Monster-Truck-2-Sittin-Heavy) |

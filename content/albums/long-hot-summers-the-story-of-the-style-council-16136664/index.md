@@ -4,6 +4,7 @@ artist_name: "The Style Council"
 artist: "the-style-council"
 album_name: "Long Hot Summers / The Story Of The Style Council"
 date: 2020-10-31T09:52:50.000000Z
+release_date: "2020-09-04"
 release_id: "16136664"
 slug: "long-hot-summers-the-story-of-the-style-council-16136664"
 hideSummary: true
@@ -19,51 +20,51 @@ styles: ["New Wave", "Mod", "Soul", "Pop Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Headstart For Happiness
-2. Long Hot Summer
-3. My Ever Changing Moods
-4. Walls Come Tumbling Down!
-5. Party Chambers
-6. Wanted (Or Waiter, There's Some Soup In My Flies)
-7. Shout To The Top!
-8. It Just Came To Pieces In My Hands
-9. Come To Milton Keynes
-10. Why I Went Missing
-11. Waiting
-12. Ghosts Of Dachau
-13. Down In The Seine
-14. The Paris Match
-15. Life At The Top People's Health Farm (Remix)
-16. Dropping Bombs On The White House
-17. Speak Like A Child
-18. The Lodgers (Or She Was Only A Shopkeeper's Daughter)
-19. Money-Go-Round (Single Edit)
-20. You're The Best Thing
-21. How She Threw It All Away
-22. A Man Of Great Promise
-23. The Piccadilly Trail
-24. A Solid Bond In Your Heart
-25. Sweet Loving Ways
-26. Promised Land (Single Edit)
-27. It Didn't Matter
-28. Have You Ever Had It Blue (Uncut Version)
-29. Spin Drifting
-30. Here's One That Got Away
-31. Changing Of The Guard
-32. My Ever-Changing Moods (Demo)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Headstart For Happiness |  |
+| A2 | Long Hot Summer |  |
+| A3 | My Ever Changing Moods |  |
+| A4 | Walls Come Tumbling Down! |  |
+| A5 | Party Chambers |  |
+| B1 | Wanted (Or Waiter, There's Some Soup In My Flies) |  |
+| B2 | Shout To The Top! |  |
+| B3 | It Just Came To Pieces In My Hands |  |
+| B4 | Come To Milton Keynes |  |
+| B5 | Why I Went Missing |  |
+| B6 | Waiting |  |
+| C1 | Ghosts Of Dachau |  |
+| C2 | Down In The Seine |  |
+| C3 | The Paris Match |  |
+| C4 | Life At The Top People's Health Farm (Remix) |  |
+| C5 | Dropping Bombs On The White House |  |
+| D1 | Speak Like A Child |  |
+| D2 | The Lodgers (Or She Was Only A Shopkeeper's Daughter) |  |
+| D3 | Money-Go-Round (Single Edit) |  |
+| D4 | You're The Best Thing |  |
+| D5 | How She Threw It All Away |  |
+| E1 | A Man Of Great Promise |  |
+| E2 | The Piccadilly Trail |  |
+| E3 | A Solid Bond In Your Heart |  |
+| E4 | Sweet Loving Ways |  |
+| E5 | Promised Land (Single Edit) |  |
+| E6 | It Didn't Matter |  |
+| F1 | Have You Ever Had It Blue (Uncut Version) |  |
+| F2 | Spin Drifting |  |
+| F3 | Here's One That Got Away |  |
+| F4 | Changing Of The Guard |  |
+| F5 | My Ever-Changing Moods (Demo) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/long-hot-summers-the-story-of-the-style-council/1529602288" >}}<br>
 
 
-## Videos
-### Long Hot Summers - The Story Of The Style Council - Trailer
-{{< youtube id="sz4q1L_QDPU" title="Long Hot Summers - The Story Of The Style Council - Trailer" >}}<br>
-### More Videos
-
-- [My Ever Changing Moods Extended Version](https://www.youtube.com/watch?v=vAjf6-lhdOY)
 
 ## Release Images
 {{< imageGrid >}}

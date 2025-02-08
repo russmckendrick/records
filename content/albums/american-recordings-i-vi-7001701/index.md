@@ -28,94 +28,96 @@ Johnny Cash had been without a record deal for several years when rap/rock produ
 
 
 ## Tracklisting
-1. American Recordings
-2. Delia's Gone (2:17)
-3. Let The Train Blow The Whistle (2:15)
-4. The Beast In Me (2:45)
-5. Drive On (2:23)
-6. Why Me Lord (2:20)
-7. Thirteen (2:29)
-8. Oh, Bury Me Not (Includes the Introduction to Cowboy's Prayer) (3:52)
-9. Bird On A Wire (4:01)
-10. Tennessee Stud (Live) (2:54)
-11. Down There By The Train (5:34)
-12. Redemption (3:03)
-13. Like A Soldier (2:50)
-14. The Man Who Couldn't Cry (Live) (5:01)
-15. American Il: Unchained
-16. Rowboat (3:43)
-17. Sea Of Heartbreak (2:42)
-18. Rusty Cage (2:48)
-19. The One Rose (2:26)
-20. Country Boy (2:31)
-21. Memories Are Made Of This (2:19)
-22. Spiritual (5:07)
-23. The Kneeling Drunkard's Plea (2:31)
-24. Southern Accents (4:41)
-25. Mean Eyed Cat (2:32)
-26. Meet Me In Heaven (3:21)
-27. I Never Picked Cotton (2:39)
-28. Unchained (2:51)
-29. I've Been Everywhere (3:16)
-30. American III: Solitary Man
-31. I Won't Back Down (2:08)
-32. Solitary Man (2:23)
-33. That Lucky Old Sun (Just Rolls Around Heaven All Day) (2:34)
-34. One (3:51)
-35. Nobody (3:13)
-36. I See A Darkness (3:41)
-37. The Mercy Seat (4:34)
-38. Would You Lay With Me (In A Field Of Stone) (2:40)
-39. Field Of Diamonds (3:14)
-40. Before My Time (2:53)
-41. Country Trash (1:46)
-42. Mary Of The Wild Moor (2:31)
-43. I'm Leavin' Now (3:05)
-44. Wayfaring Stranger (3:20)
-45. American IV: The Man Comes Around
-46. The Man Comes Around (4:26)
-47. Hurt (3:38)
-48. Give My Love To Rose (3:28)
-49. Bridge Over Troubled Water (3:55)
-50. I Hung My Head (3:53)
-51. The First Time Ever I Saw Your Face (3:52)
-52. Personal Jesus (3:20)
-53. In My Life (2:57)
-54. Sam Hall (2:40)
-55. Danny Boy (3:19)
-56. Desperado (3:13)
-57. I'm So Lonesome I Could Cry (3:03)
-58. Tear Stained Letter (3:41)
-59. Streets of Laredo (3:33)
-60. We'll Meet Again (2:58)
-61. American V: A Hundred Highways
-62. Help Me (2:51)
-63. God's Gonna Cut You Down (2:38)
-64. Like The 309 (4:35)
-65. If You Could Read My Mind (4:30)
-66. Further On Up The Road (3:25)
-67. On The Evening Train (4:17)
-68. I Came To Believe (3:44)
-69. Love's Been Good To Me (3:18)
-70. A Legend In My Time (2:37)
-71. Rose Of My Heart (3:18)
-72. Four Strong Winds (4:34)
-73. I'm Free From The Chain Gang Now (3:00)
-74. American VI: Ain't No Grave
-75. Ain't No Grave (2:53)
-76. Redemption Day (4:22)
-77. For The Good Times (3:22)
-78. I Corinthians 15:55 (3:38)
-79. Can't Help But Wonder Where I'm Bound (3:26)
-80. A Satisfied Mind (2:48)
-81. I Don't Hurt Anymore (2:45)
-82. Cool Water (2:53)
-83. Last Night I Had The Strangest Dream (3:14)
-84. Aloha Oe (3:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | American Recordings |  |
+| A1 | Delia's Gone | 2:17 |
+| A2 | Let The Train Blow The Whistle | 2:15 |
+| A3 | The Beast In Me | 2:45 |
+| A4 | Drive On | 2:23 |
+| A5 | Why Me Lord | 2:20 |
+| A6 | Thirteen | 2:29 |
+| A7 | Oh, Bury Me Not (Includes the Introduction to Cowboy's Prayer) | 3:52 |
+| B1 | Bird On A Wire | 4:01 |
+| B2 | Tennessee Stud (Live) | 2:54 |
+| B3 | Down There By The Train | 5:34 |
+| B4 | Redemption | 3:03 |
+| B5 | Like A Soldier | 2:50 |
+| B6 | The Man Who Couldn't Cry (Live) | 5:01 |
+|  | American Il: Unchained |  |
+| C1 | Rowboat | 3:43 |
+| C2 | Sea Of Heartbreak | 2:42 |
+| C3 | Rusty Cage | 2:48 |
+| C4 | The One Rose | 2:26 |
+| C5 | Country Boy | 2:31 |
+| C6 | Memories Are Made Of This | 2:19 |
+| C7 | Spiritual | 5:07 |
+| D1 | The Kneeling Drunkard's Plea | 2:31 |
+| D2 | Southern Accents | 4:41 |
+| D3 | Mean Eyed Cat | 2:32 |
+| D4 | Meet Me In Heaven | 3:21 |
+| D5 | I Never Picked Cotton | 2:39 |
+| D6 | Unchained | 2:51 |
+| D7 | I've Been Everywhere | 3:16 |
+|  | American III: Solitary Man |  |
+| E1 | I Won't Back Down | 2:08 |
+| E2 | Solitary Man | 2:23 |
+| E3 | That Lucky Old Sun (Just Rolls Around Heaven All Day) | 2:34 |
+| E4 | One | 3:51 |
+| E5 | Nobody | 3:13 |
+| E6 | I See A Darkness | 3:41 |
+| E7 | The Mercy Seat | 4:34 |
+| F1 | Would You Lay With Me (In A Field Of Stone) | 2:40 |
+| F2 | Field Of Diamonds | 3:14 |
+| F3 | Before My Time | 2:53 |
+| F4 | Country Trash | 1:46 |
+| F5 | Mary Of The Wild Moor | 2:31 |
+| F6 | I'm Leavin' Now | 3:05 |
+| F7 | Wayfaring Stranger | 3:20 |
+|  | American IV: The Man Comes Around |  |
+| G1 | The Man Comes Around | 4:26 |
+| G2 | Hurt | 3:38 |
+| G3 | Give My Love To Rose | 3:28 |
+| H1 | Bridge Over Troubled Water | 3:55 |
+| H2 | I Hung My Head | 3:53 |
+| H3 | The First Time Ever I Saw Your Face | 3:52 |
+| H4 | Personal Jesus | 3:20 |
+| I1 | In My Life | 2:57 |
+| I2 | Sam Hall | 2:40 |
+| I3 | Danny Boy | 3:19 |
+| I4 | Desperado | 3:13 |
+| J1 | I'm So Lonesome I Could Cry | 3:03 |
+| J2 | Tear Stained Letter | 3:41 |
+| J3 | Streets of Laredo | 3:33 |
+| J4 | We'll Meet Again | 2:58 |
+|  | American V: A Hundred Highways |  |
+| K1 | Help Me | 2:51 |
+| K2 | God's Gonna Cut You Down | 2:38 |
+| K3 | Like The 309 | 4:35 |
+| K4 | If You Could Read My Mind | 4:30 |
+| K5 | Further On Up The Road | 3:25 |
+| K6 | On The Evening Train | 4:17 |
+| L1 | I Came To Believe | 3:44 |
+| L2 | Love's Been Good To Me | 3:18 |
+| L3 | A Legend In My Time | 2:37 |
+| L4 | Rose Of My Heart | 3:18 |
+| L5 | Four Strong Winds | 4:34 |
+| L6 | I'm Free From The Chain Gang Now | 3:00 |
+|  | American VI: Ain't No Grave |  |
+| M1 | Ain't No Grave | 2:53 |
+| M2 | Redemption Day | 4:22 |
+| M3 | For The Good Times | 3:22 |
+| M4 | I Corinthians 15:55 | 3:38 |
+| M5 | Can't Help But Wonder Where I'm Bound | 3:26 |
+| N1 | A Satisfied Mind | 2:48 |
+| N2 | I Don't Hurt Anymore | 2:45 |
+| N3 | Cool Water | 2:53 |
+| N4 | Last Night I Had The Strangest Dream | 3:14 |
+| N5 | Aloha Oe | 3:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/american-recordings/1442245246" >}}<br>
-
 
 
 
@@ -128,5 +130,5 @@ Johnny Cash had been without a record deal for several years when rap/rock produ
 | Format         | Vinyl 7× LP (180 Gram), Box Set Compilation |
 | Label          | American Recordings |
 | Catalog Number | 060254721702 |
-| Notes | 7 LP Box Set Contains Audiophile 180g Vinyl Reissues Of All Six Of Cash's American Recordings Albums  Repackaging these 2014 'Back To Black' re-issues in one box set: [r=5516812] (1994) [r=5516845] (1996) [r=5516860] (2000) [r=5516887] (2002) [r=5516900] (2006) [r=5516904] (2010) The only difference: there's one coupon for mp3 downloads in the box set instead of a coupon with each separate album. |
+| Notes | 7 LP Box Set Contains Audiophile 180g Vinyl Reissues Of All Six Of Cash's American Recordings Albums<br><br>Repackaging these 2014 'Back To Black' re-issues in one box set:<br>[r=5516812] (1994)<br>[r=5516845] (1996)<br>[r=5516860] (2000)<br>[r=5516887] (2002)<br>[r=5516900] (2006)<br>[r=5516904] (2010)<br>The only difference: there's one coupon for mp3 downloads in the box set instead of a coupon with each separate album. |
 | Discogs URL    | [Johnny Cash - American Recordings I - VI](https://www.discogs.com/release/7001701-Johnny-Cash-American-Recordings-I-VI) |

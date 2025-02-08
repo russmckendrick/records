@@ -4,6 +4,7 @@ artist_name: "White Town"
 artist: "white-town"
 album_name: "Women In Technology"
 date: 2023-04-23T04:34:51.000000Z
+release_date: "1997-02-25"
 release_id: "26830184"
 slug: "women-in-technology-26830184"
 hideSummary: true
@@ -25,46 +26,32 @@ styles: ["Synth-pop"]
 Women in Technology is the second studio album by British recording artist White Town, released on 25 February 1997. The album is most known for the song "Your Woman" which was its only top 40 single. The song received much acclaim and reached #1 in the UK Singles Chart. A second single, released as a promo, was made of "Wanted" and failed to chart anywhere. The album's third single "Undressed" reached 57. The album was recorded entirely at Jyoti Mishra's home studio.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Undressed (4:19)
-2. Thursday At The Blue Note (2:48)
-3. A Week Next June (4:18)
-4. Your Woman (4:19)
-5. White Town (2:24)
-6. The Shape Of Love (5:21)
-7. Wanted (4:24)
-8. The Function Of The Orgasm (2:29)
-9. Going Nowhere Somehow (5:22)
-10. Theme For An Early Evening American Sitcom (2:17)
-11. The Death Of My Desire (4:54)
-12. Once I Flew (4:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Undressed | 4:19 |
+| A2 | Thursday At The Blue Note | 2:48 |
+| A3 | A Week Next June | 4:18 |
+| A4 | Your Woman | 4:19 |
+| A5 | White Town | 2:24 |
+| A6 | The Shape Of Love | 5:21 |
+| B1 | Wanted | 4:24 |
+| B2 | The Function Of The Orgasm | 2:29 |
+| B3 | Going Nowhere Somehow | 5:22 |
+| B4 | Theme For An Early Evening American Sitcom | 2:17 |
+| B5 | The Death Of My Desire | 4:54 |
+| B6 | Once I Flew | 4:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/women-in-technology/1675516474" >}}<br>
 
 
-## Videos
-### White Town - Undressed
-{{< youtube id="5eojNszZM_M" title="White Town - Undressed" >}}<br>
-### More Videos
-
-- [Undressed](https://www.youtube.com/watch?v=l_BT4eLVRpw)
-- [Thursday at The Blue Note](https://www.youtube.com/watch?v=EBAfD12hkxI)
-- [White Town - A Week Next June](https://www.youtube.com/watch?v=X5lgXUo-83Q)
-- [White Town - Your Woman Official HD Video](https://www.youtube.com/watch?v=lVL-zZnD3VU)
-- [White Town](https://www.youtube.com/watch?v=Qr_i3FyV0mw)
-- [The Shape of Love](https://www.youtube.com/watch?v=pUKEOEoefpo)
-- [Wanted](https://www.youtube.com/watch?v=uGeouN4beCg)
-- [The Function of the Orgasm](https://www.youtube.com/watch?v=JHYYhmidjws)
-- [Going Nowhere Somehow](https://www.youtube.com/watch?v=laIJ-yUIWP0)
-- [Theme for an Early Evening American Sitcom](https://www.youtube.com/watch?v=HM1RaIBzNSA)
-- [The Death of My Desire](https://www.youtube.com/watch?v=wciHPPnMk9s)
-- [White Town - Once I Flew](https://www.youtube.com/watch?v=6alULgsAyqA)
-- [Wanted Warped Remix](https://www.youtube.com/watch?v=8HB43g9OWRQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +63,5 @@ Women in Technology is the second studio album by British recording artist White
 | Format         | Vinyl LP Album Record Store Day Limited Edition Numbered Reissue (White, 180g) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3224 |
-| Notes | 180 gram audiophile vinyl Includes insert RSD 2023 sticker Hype sticker misprinted "Your World" instead of "Your Woman" as the "mega hit single."  Available on vinyl for the first time Limited numbered edition of 1000 individually copies on white coloured vinyl |
+| Notes | 180 gram audiophile vinyl<br>Includes insert<br>RSD 2023 sticker<br>Hype sticker misprinted "Your World" instead of "Your Woman" as the "mega hit single."<br><br>Available on vinyl for the first time<br>Limited numbered edition of 1000 individually copies on white coloured vinyl |
 | Discogs URL    | [White Town - Women In Technology](https://www.discogs.com/release/26830184-White-Town-Women-In-Technology) |

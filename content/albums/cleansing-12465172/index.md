@@ -4,6 +4,7 @@ artist_name: "Prong"
 artist: "prong"
 album_name: "Cleansing"
 date: 2018-10-12T20:02:23.000000Z
+release_date: "1994-01-25"
 release_id: "12465172"
 slug: "cleansing-12465172"
 hideSummary: true
@@ -26,48 +27,32 @@ The single "Snap Your Fingers, Snap Your Neck" received a commercial interest; i
 The record was reissued by SPV/Steamhammer in 2008.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Another Worldly Device
-2. Whose Fist Is This Anyway?
-3. Snap Your Fingers, Snap Your Neck
-4. Cut-Rate
-5. Broken Peace
-6. One Outnumbered
-7. Out Of This Misery
-8. No Question
-9. Not Of This Earth
-10. Home Rule
-11. Sublime
-12. Test
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Another Worldly Device |  |
+| A2 | Whose Fist Is This Anyway? |  |
+| A3 | Snap Your Fingers, Snap Your Neck |  |
+| A4 | Cut-Rate |  |
+| A5 | Broken Peace |  |
+| A6 | One Outnumbered |  |
+| B1 | Out Of This Misery |  |
+| B2 | No Question |  |
+| B3 | Not Of This Earth |  |
+| B4 | Home Rule |  |
+| B5 | Sublime |  |
+| B6 | Test |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cleansing/158332411" >}}<br>
 
 
-## Videos
-### Prong - Snap your fingers snap your neck
-{{< youtube id="Cl-5TrGakWY" title="Prong - Snap your fingers snap your neck" >}}<br>
-### More Videos
-
-- [Another Wordly Device](https://www.youtube.com/watch?v=56xikc4Ovws)
-- [Snap Your Fingers Snap Your Neck](https://www.youtube.com/watch?v=23rnAs9BHkk)
-- [Cut-Rate](https://www.youtube.com/watch?v=iRvfSGsDZYo)
-- [Broken Peace](https://www.youtube.com/watch?v=tMtyTAJ4psQ)
-- [One Outnumbered](https://www.youtube.com/watch?v=z4e_zONPj24)
-- [Out of This Misery](https://www.youtube.com/watch?v=IFXLl4blF2U)
-- [No Question](https://www.youtube.com/watch?v=Sp8U_k-7LRY)
-- [Not of This Earth](https://www.youtube.com/watch?v=9p47JvOthKg)
-- [Home Rule](https://www.youtube.com/watch?v=uFhirJoSACo)
-- [Sublime](https://www.youtube.com/watch?v=RryQKHH_v28)
-- [Test](https://www.youtube.com/watch?v=7A_cYoMo3iQ)
-- [Prong - Broken Peace](https://www.youtube.com/watch?v=TbTJIHqNmc8)
-- [Prong announces 25 years of CLEANSING European tour](https://www.youtube.com/watch?v=YO6PZ49KFIo)
-- [Prong - Whose Fist Is This Anyway](https://www.youtube.com/watch?v=SLya_k_lQL0)
-- [PRONG - Whose Fist Is This Anyway](https://www.youtube.com/watch?v=v49Hve4GvOo)
 
 ## Release Images
 {{< imageGrid >}}

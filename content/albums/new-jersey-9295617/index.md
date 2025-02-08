@@ -4,6 +4,7 @@ artist_name: "Bon Jovi"
 artist: "bon-jovi"
 album_name: "New Jersey"
 date: 2018-06-13T17:27:30.000000Z
+release_date: "1988-09-19"
 release_id: "9295617"
 slug: "new-jersey-9295617"
 hideSummary: true
@@ -32,66 +33,32 @@ New Jersey is the fourth studio album by American rock band Bon Jovi, released o
 It produced five Billboard Hot 100 top ten hits, the most top ten hits to date for any glam metal album, including "Bad Medicine" and "I'll Be There for You", which both reached number one. The album was certified 7× platinum by the Recording Industry Association of America (RIAA). The album also debuted at number one in the UK and was the band's first UK No. 1 album. New Jersey was released by the Soviet state-owned record label Melodiya, being the first American album to be officially released in the USSR. To celebrate the band's 30th anniversary in 2014, the album was repackaged with bonus tracks.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Lay Your Hands On Me
-2. Bad Medicine
-3. Born To Be My Baby
-4. Living In Sin
-5. Blood On Blood
-6. Homebound Train
-7. Wild Is The Wind
-8. Ride Cowboy Ride
-9. Stick To Your Guns
-10. I'll Be There For You
-11. 99 In The Shade
-12. Love For Sale
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Lay Your Hands On Me |  |
+| A2 | Bad Medicine |  |
+| B1 | Born To Be My Baby |  |
+| B2 | Living In Sin |  |
+| B3 | Blood On Blood |  |
+| C1 | Homebound Train |  |
+| C2 | Wild Is The Wind |  |
+| C3 | Ride Cowboy Ride |  |
+| C4 | Stick To Your Guns |  |
+| D1 | I'll Be There For You |  |
+| D2 | 99 In The Shade |  |
+| D3 | Love For Sale |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/new-jersey/1440826305" >}}<br>
 
 
-## Videos
-### Bon Jovi - Bad Medicine Official Music Video
-{{< youtube id="eOUtsybozjg" title="Bon Jovi - Bad Medicine Official Music Video" >}}<br>
-### More Videos
-
-- [Bon Jovi - Born To Be My Baby](https://www.youtube.com/watch?v=Ahf2B_eZUc4)
-- [Bon Jovi - Lay Your Hands On Me](https://www.youtube.com/watch?v=EhjSzibOIH4)
-- [Bon Jovi - Ill Be There For You](https://www.youtube.com/watch?v=mh8MIp2FOhc)
-- [Bon Jovi - Living In Sin](https://www.youtube.com/watch?v=VI2-ASiNCac)
-- [Lay Your Hands On Me](https://www.youtube.com/watch?v=T0cMcU2Wc10)
-- [Bad Medicine](https://www.youtube.com/watch?v=AfI1QznxY5c)
-- [Born To Be My Baby](https://www.youtube.com/watch?v=8EnPHiXmhXs)
-- [Living In Sin](https://www.youtube.com/watch?v=w8NU40X15Vs)
-- [Blood On Blood](https://www.youtube.com/watch?v=RrbLEKEjVZQ)
-- [Homebound Train](https://www.youtube.com/watch?v=1yeGOpDLp3U)
-- [Wild Is The Wind](https://www.youtube.com/watch?v=tArKRswoLRo)
-- [Ride Cowboy Ride](https://www.youtube.com/watch?v=WwWiP_d2XYA)
-- [Stick To Your Guns](https://www.youtube.com/watch?v=752furk6Tk8)
-- [Ill Be There For You](https://www.youtube.com/watch?v=fhnfcHSPrfw)
-- [99 In The Shade](https://www.youtube.com/watch?v=CKmZpoNztG8)
-- [Love For Sale](https://www.youtube.com/watch?v=AWGLBTpcXZI)
-- [The Boys Are Back In Town](https://www.youtube.com/watch?v=4l-_tBTq9OQ)
-- [Love Is War](https://www.youtube.com/watch?v=zH8TzkeIYn4)
-- [Born To Be My Baby Acoustic Version](https://www.youtube.com/watch?v=87KgYIg1HfA)
-- [Homebound Train Demo](https://www.youtube.com/watch?v=POyfELfOrMg)
-- [Judgement Day Demo](https://www.youtube.com/watch?v=0nTNhOli3WU)
-- [Full Moon High Demo](https://www.youtube.com/watch?v=P06tcjt9nos)
-- [Growing Up the Hard Way Demo](https://www.youtube.com/watch?v=HFBLWBrIW2o)
-- [Lets Make It Baby Demo](https://www.youtube.com/watch?v=aQVQ91nefbI)
-- [Love Hurts Demo](https://www.youtube.com/watch?v=zcMMj17eJOI)
-- [Backdoor To Heaven Demo](https://www.youtube.com/watch?v=BmkkVYYQLfM)
-- [Now And Forever Demo](https://www.youtube.com/watch?v=eLtqAm6hk44)
-- [Wild Is The Wind Demo](https://www.youtube.com/watch?v=zdCc4lawVxs)
-- [Stick To Your Guns Demo](https://www.youtube.com/watch?v=9w8y6jTTOc8)
-- [House Of Fire Demo](https://www.youtube.com/watch?v=Yejz3wWFtYQ)
-- [Does Anybody Really Fall In Love Anymore Demo](https://www.youtube.com/watch?v=ynzTqsdtmXk)
-- [Diamond Ring Demo](https://www.youtube.com/watch?v=v8Xhs9n8sFY)
-- [LP  Bon Jovi  New Jersey  1988](https://www.youtube.com/watch?v=tLrodL0dezQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -103,5 +70,5 @@ It produced five Billboard Hot 100 top ten hits, the most top ten hits to date f
 | Format         | Vinyl 2× LP Album Reissue (180g) |
 | Label          | Mercury |
 | Catalog Number | B0021969-01 |
-| Notes | Gatefold sleeve.  Runouts etched except for STERLING which is stamped |
+| Notes | Gatefold sleeve.<br><br>Runouts etched except for STERLING which is stamped |
 | Discogs URL    | [Bon Jovi - New Jersey](https://www.discogs.com/release/9295617-Bon-Jovi-New-Jersey) |

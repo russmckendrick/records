@@ -4,6 +4,7 @@ artist_name: "XTC"
 artist: "xtc"
 album_name: "Wasp Star (Apple Venus Volume 2)"
 date: 2018-10-27T09:35:52.000000Z
+release_date: ""
 release_id: "12617487"
 slug: "wasp-star-apple-venus-volume-2-12617487"
 hideSummary: true
@@ -27,44 +28,32 @@ styles: ["Power Pop"]
 Wasp Star (Apple Venus Volume 2) is the fourteenth  studio album by the English rock band XTC, released 23 May 2000 on Cooking Vinyl/Idea Records. Defined by bandmember Andy Partridge as the "eclectric" counterpart to 1999's Apple Venus Volume 1, it consists of rock-based material largely written between 1994 and 1996. Wasp Star reached number 40 on the UK Albums Chart. In 2002, the group released an instrumental version of the album entitled Waspstrumental. XTC dissolved in 2006, leaving Wasp Star their last studio album to date.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Playground
-2. Stupidly Happy
-3. In Another Life
-4. My Brown Guitar
-5. Boarded Up
-6. I'm The Man Who Murdered Love
-7. We're All Light
-8. Standing In For Joe
-9. Wounded Horse
-10. You And The Clouds Will Still Be Beautiful
-11. Church Of Women
-12. The Wheel And The Maypole
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Playground |  |
+| A2 | Stupidly Happy |  |
+| A3 | In Another Life |  |
+| A4 | My Brown Guitar |  |
+| A5 | Boarded Up |  |
+| A6 | I'm The Man Who Murdered Love |  |
+| B1 | We're All Light |  |
+| B2 | Standing In For Joe |  |
+| B3 | Wounded Horse |  |
+| B4 | You And The Clouds Will Still Be Beautiful |  |
+| B5 | Church Of Women |  |
+| B6 | The Wheel And The Maypole |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### XTC - My Brown Guitar-  Wasp Star - The Apple Venus Volume 2
-{{< youtube id="g1I4AJJZ-1w" title="XTC - My Brown Guitar-  Wasp Star - The Apple Venus Volume 2" >}}<br>
-### More Videos
 
-- [XTC - My Brown Guitar-  Wasp Star - The Apple Venus Volume 2](https://www.youtube.com/watch?v=g1I4AJJZ-1w)
-- [XTC - Im The Man Who Murdered Love](https://www.youtube.com/watch?v=jdqk6AD69tg)
-- [XTC - Playground](https://www.youtube.com/watch?v=HERvQzYl2W8)
-- [XTC  Stupidly Happy  Wasp Star Apple Venus Vol 2](https://www.youtube.com/watch?v=HkzQeYWaL3w)
-- [XTC - In Another Life-](https://www.youtube.com/watch?v=dsWdNdk6plg)
-- [XTC- Boarded Up-](https://www.youtube.com/watch?v=gv7D_u-rv_Q)
-- [XTC   Were All Light](https://www.youtube.com/watch?v=9SfAoKxt4bw)
-- [XTC - Standing In For Joe -Wasp Star -Apple Venus Vol 2-](https://www.youtube.com/watch?v=MKCKKyxCIf0)
-- [XTC - Wounded Horse](https://www.youtube.com/watch?v=IDwi-Mb54JE)
-- [XTC -You and the clouds will still be beautiful](https://www.youtube.com/watch?v=XRxcyukrgHk)
-- [XTC  -  Church Of Women](https://www.youtube.com/watch?v=cgiueeCJOLY)
-- [XTC -The Wheel and the Maypole-](https://www.youtube.com/watch?v=vRIP77kLhxI)
-- [XTC - My Brown Guitar-  Wasp Star - The Apple Venus Volume 2](https://www.youtube.com/watch?v=g1I4AJJZ-1w)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +65,5 @@ Wasp Star (Apple Venus Volume 2) is the fourteenth  studio album by the English 
 | Format         | Vinyl LP Album Reissue (200 gram) |
 | Label          | Ape House |
 | Catalog Number | APELP119 |
-| Notes | lined inner sleeve with Apehouse catalog includes two-sided insert with lyrics and credits  |
+| Notes | lined inner sleeve with Apehouse catalog<br>includes two-sided insert with lyrics and credits<br> |
 | Discogs URL    | [XTC - Wasp Star (Apple Venus Volume 2)](https://www.discogs.com/release/12617487-XTC-Wasp-Star-Apple-Venus-Volume-2) |

@@ -4,6 +4,7 @@ artist_name: "Wilco"
 artist: "wilco"
 album_name: "Schmilco"
 date: 2016-09-13T16:31:14.000000Z
+release_date: "2016-09-06"
 release_id: "9013976"
 slug: "schmilco-9013976"
 hideSummary: true
@@ -25,44 +26,32 @@ styles: ["Alternative Rock"]
 Schmilco is the tenth studio album by the American rock band Wilco, released on September 9, 2016, by dBpm Records. Wilco announced the album on July 19, 2016, and released two songs, "Locator" and "If I Ever Was a Child". The album's announcement came a little more than a year after their previous studio album, Star Wars.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Normal American Kids
-2. If I Ever Was A Child
-3. Cry All Day
-4. Common Sense
-5. Nope
-6. Someone To Lose
-7. Happiness 
-8. Quarters
-9. Locator
-10. Shrug And Destroy
-11. We Aren't The World (Safety Girl)
-12. Just Say Goodbye
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Normal American Kids |  |
+| A2 | If I Ever Was A Child |  |
+| A3 | Cry All Day |  |
+| A4 | Common Sense |  |
+| A5 | Nope |  |
+| A6 | Someone To Lose |  |
+| B1 | Happiness  |  |
+| B2 | Quarters |  |
+| B3 | Locator |  |
+| B4 | Shrug And Destroy |  |
+| B5 | We Aren't The World (Safety Girl) |  |
+| B6 | Just Say Goodbye |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/schmilco/1690693983" >}}<br>
 
 
-## Videos
-### Wilco - Normal American Kids
-{{< youtube id="sIwodhY8osM" title="Wilco - Normal American Kids" >}}<br>
-### More Videos
-
-- [If I Ever Was a Child - Wilco - Schmilco](https://www.youtube.com/watch?v=ykOrfedFJ8o)
-- [Wilco - Cry All Day](https://www.youtube.com/watch?v=dBgdK9oO0Gg)
-- [Wilco - Common Sense](https://www.youtube.com/watch?v=3P-1TJmbKCE)
-- [Wilco - Nope](https://www.youtube.com/watch?v=DBs2tGgzZuE)
-- [Wilco - Someone to Lose](https://www.youtube.com/watch?v=G5RrWCRsSYA)
-- [Wilco - Happiness](https://www.youtube.com/watch?v=ZzvfsEFRtVM)
-- [Wilco - Quarters](https://www.youtube.com/watch?v=kHM1zPZhG0k)
-- [Wilco - Locator](https://www.youtube.com/watch?v=RfM1sYaOG3k)
-- [Wilco - Shrug and Destroy](https://www.youtube.com/watch?v=wWVZBg3VRAQ)
-- [Wilco - We Arent The World Safety Girl](https://www.youtube.com/watch?v=HQOSPMDwsgY)
-- [Wilco - Just Say Goodbye](https://www.youtube.com/watch?v=Yyaxnyvga0s)
 
 ## Release Images
 {{< imageGrid >}}

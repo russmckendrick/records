@@ -4,6 +4,7 @@ artist_name: "Tom Waits"
 artist: "tom-waits"
 album_name: "Real Gone"
 date: 2018-01-22T19:17:14.000000Z
+release_date: "2004-10-05"
 release_id: "11189843"
 slug: "real-gone-11189843"
 hideSummary: true
@@ -32,41 +33,36 @@ Real Gone is the sixteenth studio album by Tom Waits, released October 4, 2004 i
 The album features some of the few political songs Waits has written, the most explicit being "Day After Tomorrow", a song Waits has described as an "elliptical" protest against the Iraq War.
 It was chosen by the editors of Harp Magazine as the best album of 2004.
 A remixed, remastered version of the album was released by ANTI- on November 22, 2017, with the remastering process personally overseen by Waits and Kathleen Brennan.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Top Of The Hill
-2. Hoist That Rag
-3. Sins Of The Father
-4. Shake It
-5. Don't Go Into That Barn
-6. How's It Gonna End
-7. Metropolitan Glide
-8. Dead And Lovely
-9. Circus
-10. Trampled Rose
-11. Green Grass
-12. Baby Gonna Leave Me
-13. Clang Boom Steam
-14. Make It Rain
-15. Day After Tomorrow
-16. Untitled
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Top Of The Hill |  |
+| A2 | Hoist That Rag |  |
+| A3 | Sins Of The Father |  |
+| B1 | Shake It |  |
+| B2 | Don't Go Into That Barn |  |
+| B3 | How's It Gonna End |  |
+| B4 | Metropolitan Glide |  |
+| C1 | Dead And Lovely |  |
+| C2 | Circus |  |
+| C3 | Trampled Rose |  |
+| C4 | Green Grass |  |
+| D1 | Baby Gonna Leave Me |  |
+| D2 | Clang Boom Steam |  |
+| D3 | Make It Rain |  |
+| D4 | Day After Tomorrow |  |
+| D5 | Untitled |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/real-gone/1772300120" >}}<br>
 
 
-## Videos
-### Tom Waits - Real Gone 2004 Vinyl FULL ALBUM
-{{< youtube id="vGal00wJCII" title="Tom Waits - Real Gone 2004 Vinyl FULL ALBUM" >}}<br>
-### More Videos
-
-- [Tom Waits - Chick A Boom](https://www.youtube.com/watch?v=cJi62CynjEk)
-- [Tom Waits - Top of the Hill Remastered](https://www.youtube.com/watch?v=JM-Qlg119C4)
-- [Tom Waits - Make It Rain Remastered](https://www.youtube.com/watch?v=Mv0htJ0tgsU)
-- [Tom Waits - Real Gone 2004 Vinyl FULL ALBUM](https://www.youtube.com/watch?v=vGal00wJCII)
 
 ## Release Images
 {{< imageGrid >}}

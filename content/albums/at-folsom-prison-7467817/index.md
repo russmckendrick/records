@@ -35,56 +35,39 @@ He leans hard into prison-themed tunes like "I Got Stripes" and "Greystone Chape
 
 
 ## Tracklisting
-1. Opening Announcements From Hugh Cherry (1:01)
-2. Blue Suede Shoes (3:31)
-3. This Ole House (1:38)
-4. Announcements And Johnny Cash Intro From Hugh Cherry (1:04)
-5. Folsom Prison Blues (2:36)
-6. Busted (1:24)
-7. Dark As A Dungeon (3:07)
-8. I Still Miss Someone (1:36)
-9. Cocaine Blues (2:49)
-10. 25 Minutes To Go (2:57)
-11. I'm Here To Get My Baby Out Of Jail (2:22)
-12. Orange Blossom Special (3:36)
-13. The Long Black Veil (3:43)
-14. Send A Picture Of Mother (2:10)
-15. The Wall (1:54)
-16. Dirty Old Egg-Sucking Dog (1:17)
-17. Flushed From The Bathroom Of Your Heart (2:24)
-18. Joe Bean (2:30)
-19. Jackson (3:28)
-20. I Got A Woman (4:37)
-21. The Legend Of John Henry's Hammer (7:06)
-22. June's Poem (0:58)
-23. Green, Green Grass Of Home (3:19)
-24. Greystone Chapel (2:49)
-25. Closing Announcements (1:46)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Opening Announcements From Hugh Cherry | 1:01 |
+| A2 | Blue Suede Shoes | 3:31 |
+| A3 | This Ole House | 1:38 |
+| A4 | Announcements And Johnny Cash Intro From Hugh Cherry | 1:04 |
+| A5 | Folsom Prison Blues | 2:36 |
+| A6 | Busted | 1:24 |
+| A7 | Dark As A Dungeon | 3:07 |
+| A8 | I Still Miss Someone | 1:36 |
+| B1 | Cocaine Blues | 2:49 |
+| B2 | 25 Minutes To Go | 2:57 |
+| B3 | I'm Here To Get My Baby Out Of Jail | 2:22 |
+| B4 | Orange Blossom Special | 3:36 |
+| B5 | The Long Black Veil | 3:43 |
+| C1 | Send A Picture Of Mother | 2:10 |
+| C2 | The Wall | 1:54 |
+| C3 | Dirty Old Egg-Sucking Dog | 1:17 |
+| C4 | Flushed From The Bathroom Of Your Heart | 2:24 |
+| C5 | Joe Bean | 2:30 |
+| C6 | Jackson | 3:28 |
+| C7 | I Got A Woman | 4:37 |
+| D1 | The Legend Of John Henry's Hammer | 7:06 |
+| D2 | June's Poem | 0:58 |
+| D3 | Green, Green Grass Of Home | 3:19 |
+| D4 | Greystone Chapel | 2:49 |
+| D5 | Closing Announcements | 1:46 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/at-folsom-prison-live/825516828" >}}<br>
 
 
-## Videos
-### Johnny Cash - Folsom Prison Blues Official Audio
-{{< youtube id="AeZRYhLDLeU" title="Johnny Cash - Folsom Prison Blues Official Audio" >}}<br>
-### More Videos
-
-- [Dark as the Dungeon Live at Folsom State Prison Folsom CA - January 1968](https://www.youtube.com/watch?v=OFjBLdyssjc)
-- [I Still Miss Someone Live at Folsom State Prison Folsom CA 1st Show - January 1968](https://www.youtube.com/watch?v=0GM-1N8TfHE)
-- [Cocaine Blues Live at Folsom State Prison Folsom CA - January 1968](https://www.youtube.com/watch?v=0VZuA7iJY4Y)
-- [Johnny Cash - 25 Minutes to Go Official Audio](https://www.youtube.com/watch?v=sbMirPYzthY)
-- [Orange Blossom Special Live at Folsom State Prison Folsom CA 1st Show - January 1968](https://www.youtube.com/watch?v=WkMB3RitBSE)
-- [The Long Black Veil Live at Folsom State Prison Folsom CA 1st Show - January 1968](https://www.youtube.com/watch?v=c0OSboEOtRQ)
-- [Send a Picture of Mother Live at Folsom State Prison Folsom CA - January 1968](https://www.youtube.com/watch?v=0JUSmwGl4T4)
-- [The Wall Live at Folsom State Prison Folsom CA 1st Show - January 1968](https://www.youtube.com/watch?v=ZEvuwiCa9RA)
-- [Dirty Old Egg-Suckin Dog Live at Folsom State Prison Folsom CA 1st Show - January 1968](https://www.youtube.com/watch?v=jeudEqVhJOM)
-- [Flushed from the Bathroom of Your Heart Live at Folsom State Prison Folsom CA - January 1968](https://www.youtube.com/watch?v=q3wyAzjlE9Y)
-- [Jackson Live at Folsom State Prison Folsom CA - January 1968](https://www.youtube.com/watch?v=FPynO42XFRw)
-- [Give My Love to Rose Live at Folsom State Prison Folsom CA - January 1968](https://www.youtube.com/watch?v=Mqe2kcRZo5I)
-- [Johnny Cash - I Got Stripes Official Audio](https://www.youtube.com/watch?v=AUYk700_6W0)
-- [Green Green Grass of Home Live at Folsom State Prison Folsom CA - January 1968](https://www.youtube.com/watch?v=SLfxsneyfnY)
-- [Greystone Chapel Live at Folsom State Prison Folsom CA - January 1968](https://www.youtube.com/watch?v=fGMVRoXelNs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -96,5 +79,5 @@ He leans hard into prison-themed tunes like "I Got Stripes" and "Greystone Chape
 | Format         | Vinyl 2× LP Album (180g, Gatefold) |
 | Label          | Columbia |
 | Catalog Number | 88875111971 |
-| Notes | Expanded Vinyl Edition Includes a download-voucher and a 16 page booklet.  Full, unedited and uncensored concert at Folsom Prison.  All tracks recorded live January 13, 1968 at Folsom Prison.  Originally released in 1968. All rights reserved by Sony Music Entertainment Inc. © 1968, 2015 Sony Music Entertainment./ Distributed by Sony Music Entertainment./ Made in the EU. Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. |
+| Notes | Expanded Vinyl Edition<br>Includes a download-voucher<br>and a 16 page booklet.<br><br>Full, unedited and uncensored concert at Folsom Prison.<br><br>All tracks recorded live January 13, 1968 at Folsom Prison.<br><br>Originally released in 1968. All rights reserved by Sony Music Entertainment Inc. © 1968, 2015 Sony Music Entertainment./ Distributed by Sony Music Entertainment./<br>Made in the EU. Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. |
 | Discogs URL    | [Johnny Cash - At Folsom Prison](https://www.discogs.com/release/7467817-Johnny-Cash-At-Folsom-Prison) |

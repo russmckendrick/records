@@ -4,6 +4,7 @@ artist_name: "Stars"
 artist: "stars"
 album_name: "In Our Bedroom After The War"
 date: 2015-09-30T18:06:25.000000Z
+release_date: "2007-09-25"
 release_id: "2095142"
 slug: "in-our-bedroom-after-the-war-2095142"
 hideSummary: true
@@ -34,39 +35,33 @@ The album was initially released with a bonus DVD documentary of the Set Yoursel
 The album was a nominee for the 2008 Polaris Music Prize.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Beginning After The End
-2. The Night Starts Here
-3. Take Me To The Riot
-4. My Favourite Book
-5. Midnight Coward
-6. The Ghost Of Genova Heights
-7. Personal
-8. Barricade
-9. Window Bird
-10. Bitches In Tokyo
-11. Life 2: The Unhappy Ending
-12. Today Will Be Better, I Swear!
-13. In Our Bedroom After The War
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Beginning After The End |  |
+| A2 | The Night Starts Here |  |
+| A3 | Take Me To The Riot |  |
+| A4 | My Favourite Book |  |
+| B1 | Midnight Coward |  |
+| B2 | The Ghost Of Genova Heights |  |
+| B3 | Personal |  |
+| C1 | Barricade |  |
+| C2 | Window Bird |  |
+| C3 | Bitches In Tokyo |  |
+| C4 | Life 2: The Unhappy Ending |  |
+| D1 | Today Will Be Better, I Swear! |  |
+| D2 | In Our Bedroom After The War |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-our-bedroom-after-the-war/1599768437" >}}<br>
 
 
-## Videos
-### In Our Bedroom After The War
-{{< youtube id="c5qx_ZMY7tU" title="In Our Bedroom After The War" >}}<br>
-### More Videos
-
-- [Stars - Are We Here Now DVD Trailer](https://www.youtube.com/watch?v=T5BX4e5Srw0)
-- [My Favourite Book](https://www.youtube.com/watch?v=E6FXEm-V588)
-- [Stars - Bitches In Tokyo](https://www.youtube.com/watch?v=2DIsxR33mK8)
-- [Stars - Take Me To The Riot](https://www.youtube.com/watch?v=QzSUIxYQI2E)
-- [In Our Bedroom After The War](https://www.youtube.com/watch?v=c5qx_ZMY7tU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +73,5 @@ The album was a nominee for the 2008 Polaris Music Prize.
 | Format         | Vinyl 2× LP Album |
 | Label          | City Slang |
 | Catalog Number | SLANG1048681 |
-| Notes | Recorded for FLAM at Warehouse Studios, Vancouver. Mixed at Phase One, Toronto. Mastered at The Lodge. Additional recording engineering at Breakglass, Studio Plateau and 939 Studios, Montréal. Additional engineering on "The Night Starts Here" at Phase One, Toronto.  Gatefold with printed inner sleeves. Whale sample on "Today Will Be Better, I Swear!" from Chester E Beecham's 1973 Arctic field recordings.   Direct Metal Mastering. |
+| Notes | Recorded for FLAM at Warehouse Studios, Vancouver.<br>Mixed at Phase One, Toronto.<br>Mastered at The Lodge.<br>Additional recording engineering at Breakglass, Studio Plateau and 939 Studios, Montréal.<br>Additional engineering on "The Night Starts Here" at Phase One, Toronto.<br><br>Gatefold with printed inner sleeves.<br>Whale sample on "Today Will Be Better, I Swear!" from Chester E Beecham's 1973 Arctic field recordings.  <br>Direct Metal Mastering. |
 | Discogs URL    | [Stars - In Our Bedroom After The War](https://www.discogs.com/release/2095142-Stars-In-Our-Bedroom-After-The-War) |

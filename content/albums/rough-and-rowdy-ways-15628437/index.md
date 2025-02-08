@@ -45,20 +45,22 @@ And yet, maybe it’s the timing—coming out in June 2020 amidst the throes of 
 
 
 ## Tracklisting
-1. I Contain Multitudes (4:36)
-2. False Prophet (6:00)
-3. My Own Version Of You (6:41)
-4. I've Made Up My Mind To Give Myself To You (6:32)
-5. Black Rider (4:12)
-6. Goodbye Jimmy Reed (4:13)
-7. Mother Of Muses (4:29)
-8. Crossing The Rubicon (7:22)
-9. Key West (Philosopher Pirate) (9:34)
-10. Murder Most Foul (16:54)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Contain Multitudes | 4:36 |
+| A2 | False Prophet | 6:00 |
+| A3 | My Own Version Of You | 6:41 |
+| B1 | I've Made Up My Mind To Give Myself To You | 6:32 |
+| B2 | Black Rider | 4:12 |
+| B3 | Goodbye Jimmy Reed | 4:13 |
+| C1 | Mother Of Muses | 4:29 |
+| C2 | Crossing The Rubicon | 7:22 |
+| C3 | Key West (Philosopher Pirate) | 9:34 |
+| D | Murder Most Foul | 16:54 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rough-and-rowdy-ways/1512248541" >}}<br>
-
 
 
 
@@ -72,5 +74,5 @@ And yet, maybe it’s the timing—coming out in June 2020 amidst the throes of 
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Olive ) |
 | Label          | Columbia |
 | Catalog Number | 19439780991 |
-| Notes | Gatefold jacket with printed inner sleeves. Includes a download code card.  Hype sticker (all caps): 'Bob Dylan The new album Limited edition olive vinyl Exclusive Includes digital download 19439780991 S1'  © & ℗ 2020 Columbia Records, a division of Sony Music Entertainment Made in the EU.  Runouts:  'sᴛᴇʀʟɪɴɢ', MPO logo ® and 8-digit number ('20 1####') are stamped; remainder is etched. Variant 3: The final 'A' of the Side A runout is heavily etched over a fainter 'C'. |
+| Notes | Gatefold jacket with printed inner sleeves.<br>Includes a download code card.<br><br>Hype sticker (all caps):<br>'Bob Dylan<br>The new album<br>Limited edition olive vinyl<br>Exclusive<br>Includes digital download<br>19439780991 S1'<br><br>© & ℗ 2020 Columbia Records, a division of Sony Music Entertainment<br>Made in the EU.<br><br>Runouts:<br> 'sᴛᴇʀʟɪɴɢ', MPO logo ® and 8-digit number ('20 1####') are stamped; remainder is etched.<br>Variant 3: The final 'A' of the Side A runout is heavily etched over a fainter 'C'. |
 | Discogs URL    | [Bob Dylan - Rough And Rowdy Ways](https://www.discogs.com/release/15628437-Bob-Dylan-Rough-And-Rowdy-Ways) |

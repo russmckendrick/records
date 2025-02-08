@@ -32,40 +32,24 @@ Prior to this album, Farnham's career had stalled after being recruited and then
 
 
 ## Tracklisting
-1. Pressure Down
-2. You're The Voice
-3. One Step Away
-4. Reasons
-5. Going, Going, Gone
-6. No One Comes Close
-7. Love To Shine
-8. Trouble
-9. A Touch Of Paradise
-10. Let Me Out
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Pressure Down |  |
+| A2 | You're The Voice |  |
+| A3 | One Step Away |  |
+| A4 | Reasons |  |
+| A5 | Going, Going, Gone |  |
+| B1 | No One Comes Close |  |
+| B2 | Love To Shine |  |
+| B3 | Trouble |  |
+| B4 | A Touch Of Paradise |  |
+| B5 | Let Me Out |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whispering-jack/270340388" >}}<br>
 
 
-## Videos
-### Pressure Down Music Video by John Farnham
-{{< youtube id="zIIcisbK3hE" title="Pressure Down Music Video by John Farnham" >}}<br>
-### More Videos
-
-- [Reasons Live from the Whispering Jack - 20th Anniversary Edition DVD](https://www.youtube.com/watch?v=RTQnCSMF8HI)
-- [One Step Away](https://www.youtube.com/watch?v=TevBky6WiSI)
-- [John Farnham - Pressure Down](https://www.youtube.com/watch?v=Emutat3_IP0)
-- [Pressure Down](https://www.youtube.com/watch?v=tF0gqm4uUNo)
-- [John Farnham - Whispering Jack In Concert full concert](https://www.youtube.com/watch?v=LEEVsxG5blQ)
-- [Love to Shine](https://www.youtube.com/watch?v=A0uOghhkgOw)
-- [A Touch of Paradise](https://www.youtube.com/watch?v=0Y2BCdIyaEs)
-- [Going Going Gone](https://www.youtube.com/watch?v=NbEOJjCeCFY)
-- [John Farnham - Youre the Voice](https://www.youtube.com/watch?v=tbkOZTSvrHs)
-- [John Farnham - Pressure Down](https://www.youtube.com/watch?v=Emutat3_IP0)
-- [A Touch of Paradise  John Farnham 1987](https://www.youtube.com/watch?v=RrQJBDqmyrs)
-- [John Farnham - Pressure Down  Whispering Jack 25th Anniversary  Qpac Brisbane  2nd November 2011](https://www.youtube.com/watch?v=0sRHzrNdNtc)
-- [HQ Coldplay- Youre The Voice with John Farnham Sound Relief Concert HQ](https://www.youtube.com/watch?v=19JN50bLKjY)
-- [Youre The Voice  John Farnham live at the Palais](https://www.youtube.com/watch?v=CcGP7FKWT80)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +61,5 @@ Prior to this album, Farnham's career had stalled after being recruited and then
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (White & Black marbled) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3275 |
-| Notes | - 180 gram audiophile vinyl - Gatefold sleeve with spot varnish - The 24x Platinum-certified hit album that sold over 2 million copies worldwide - Featuring the massive hit single “You're The Voice” - Peaked at #1 on the Australian Albums Chart and in the top 10 of several European countries - Limited edition of 1500 individually numbered copies on white & black marbled vinyl |
+| Notes | - 180 gram audiophile vinyl<br>- Gatefold sleeve with spot varnish<br>- The 24x Platinum-certified hit album that sold over 2 million copies worldwide<br>- Featuring the massive hit single “You're The Voice”<br>- Peaked at #1 on the Australian Albums Chart and in the top 10 of several European countries<br>- Limited edition of 1500 individually numbered copies on white & black marbled vinyl |
 | Discogs URL    | [John Farnham - Whispering Jack](https://www.discogs.com/release/28960252-John-Farnham-Whispering-Jack) |

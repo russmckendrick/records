@@ -1,9 +1,10 @@
 ---
 title: "The Beat - I Just Can't Stop It"
 artist_name: "The Beat"
-artist: "the-beat-2"
+artist: "the-beat"
 album_name: "I Just Can't Stop It"
 date: 2023-11-25T04:04:02.000000Z
+release_date: "1980-05-23"
 release_id: "29014360"
 slug: "i-just-can-t-stop-it-29014360"
 hideSummary: true
@@ -24,57 +25,45 @@ The album was well-received; Rolling Stone raved that the music was "wild and th
 The album was reissued on CD in 1990 by I.R.S. Records in the U.S, and in 2012 by Edsel Records in the UK and Shout! Factory in the U.S.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Mirror In The Bathroom
-2. Hands Off...She's Mine
-3. Two Swords
-4. Twist & Crawl
-5. Tears Of A Clown
-6. Rough Rider
-7. Click Click
-8. Ranking Full Stop
-9. Big Shot
-10. Whine & Grine / Stand Down Margaret
-11. Noise In This World
-12. Can't Get Used To Losing You
-13. Best Friend
-14. Jackpot
-15. Tears Of A Clown (Original Single Version)
-16. Hands Off... She's Mine (Extended)
-17. Stand Down Margaret (Dub)
-18. Twist & Crawl (Extended)
-19. Live At Hammersmith Palais, Oct. 1982
-20. Mirror In The Bathroom
-21. Live At The Boston Opera House, Nov. 19, 1982
-22. Best Friend
-23. Tears Of A Clown
-24. Twist & Crawl
-25. Get-A-Job / Stand Down Margaret
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mirror In The Bathroom |  |
+| A2 | Hands Off...She's Mine |  |
+| A3 | Two Swords |  |
+| A4 | Twist & Crawl |  |
+| A5 | Tears Of A Clown |  |
+| A6 | Rough Rider |  |
+| A7 | Click Click |  |
+| B1 | Ranking Full Stop |  |
+| B2 | Big Shot |  |
+| B3 | Whine & Grine / Stand Down Margaret |  |
+| B4 | Noise In This World |  |
+| B5 | Can't Get Used To Losing You |  |
+| B6 | Best Friend |  |
+| B7 | Jackpot |  |
+| C1 | Tears Of A Clown (Original Single Version) |  |
+| C2 | Hands Off... She's Mine (Extended) |  |
+| C3 | Stand Down Margaret (Dub) |  |
+| C4 | Twist & Crawl (Extended) |  |
+|  | Live At Hammersmith Palais, Oct. 1982 |  |
+| D1 | Mirror In The Bathroom |  |
+|  | Live At The Boston Opera House, Nov. 19, 1982 |  |
+| D2 | Best Friend |  |
+| D3 | Tears Of A Clown |  |
+| D4 | Twist & Crawl |  |
+| D5 | Get-A-Job / Stand Down Margaret |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/i-just-cant-stop-it-2012-remaster/1714522873" >}}<br>
 
 
-## Videos
-### The Beat - Mirror In The Bathroom - 1980
-{{< youtube id="dgMQco_0T-E" title="The Beat - Mirror In The Bathroom - 1980" >}}<br>
-### More Videos
-
-- [THE BEAT - MEGAMIX - MEDLEY - I JUST CANT STOP IT ALBUM](https://www.youtube.com/watch?v=Ff7vcofoY1E)
-- [The English Beat - Two Swords - I Just Cant Stop It 1980](https://www.youtube.com/watch?v=YRYwncfYzrQ)
-- [THE BEAT - MEGAMIX - MEDLEY - I JUST CANT STOP IT ALBUM](https://www.youtube.com/watch?v=Ff7vcofoY1E)
-- [Cant get used to losing you](https://www.youtube.com/watch?v=qErykBldZCs)
-- [English Beat - rough rider](https://www.youtube.com/watch?v=KDJFEJsHhrs)
-- [Twist  Crawl](https://www.youtube.com/watch?v=bgCPeW_ZglM)
-- [THE BEAT - THE COMPLETE I JUST CANT STOP IT ALBUM](https://www.youtube.com/watch?v=I58tsdmA5Co)
-- [THE BEAT - TWIST  CRAWL EXTENDED VERSION](https://www.youtube.com/watch?v=eteCTeZpSmU)
-- [THE BEAT - MEGAMIX - MEDLEY - I JUST CANT STOP IT ALBUM](https://www.youtube.com/watch?v=Ff7vcofoY1E)
-- [The English Beat - Twist And Crawl](https://www.youtube.com/watch?v=Bch9DuV0Y8o)
-- [The Beat - Hands Off Shes Mine](https://www.youtube.com/watch?v=BR4HiPHRbrs)
 
 ## Release Images
 {{< imageGrid >}}

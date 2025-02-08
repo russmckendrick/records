@@ -4,6 +4,7 @@ artist_name: "Dodgy"
 artist: "dodgy"
 album_name: "Ace A's + Killer B's"
 date: 2022-02-25T09:30:43.000000Z
+release_date: "1998-01-01"
 release_id: "22218358"
 slug: "ace-a-s-killer-b-s-22218358"
 hideSummary: true
@@ -21,33 +22,35 @@ styles: ["Indie Pop", "Pop Rock", "Britpop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Every Single Day
-2. Staying Out For The Summer (Summer '95)
-3. Water Under The Bridge
-4. Good Enough 
-5. Melodies Haunt You
-6. Big Brown Moon
-7. Found You 
-8. Self Doubt
-9. In A Room (Full Version)
-10. Making The Most Of..
-11. If You're Thinking Of Me 
-12. Lovebirds
-13. (Get Off Your) High Horse
-14. So Let Me Go Far
-15. Grassman
-16. Ain't No Longer Asking
-17. The Elephant
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Every Single Day |  |
+| A2 | Staying Out For The Summer (Summer '95) |  |
+| A3 | Water Under The Bridge |  |
+| A4 | Good Enough  |  |
+| A5 | Melodies Haunt You |  |
+| B1 | Big Brown Moon |  |
+| B2 | Found You  |  |
+| B3 | Self Doubt |  |
+| B4 | In A Room (Full Version) |  |
+| C1 | Making The Most Of.. |  |
+| C2 | If You're Thinking Of Me  |  |
+| C3 | Lovebirds |  |
+| C4 | (Get Off Your) High Horse |  |
+| D1 | So Let Me Go Far |  |
+| D2 | Grassman |  |
+| D3 | Ain't No Longer Asking |  |
+| D4 | The Elephant |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ace-as-killer-bs/1443796376" >}}<br>
 
-
-## Videos
-### Dodgy Ace As  Killer Bs
-{{< youtube id="WTkeHkdIuB0" title="Dodgy Ace As  Killer Bs" >}}<br>
 
 
 ## Release Images
@@ -59,5 +62,5 @@ styles: ["Indie Pop", "Pop Rock", "Britpop"]
 | Format         | Vinyl LP (Green translucent, 180g), Vinyl LP (Yellow translucent, 180g), All Media Compilation Limited Edition Reissue Stereo |
 | Label          | Demon Records |
 | Catalog Number | DEMREC907X |
-| Notes | First ever vinyl issue. Previously only available on CD.  Title on hype sticker: Ace A's + Killer B's The Best Of  Standard sleeve with printed inner sleeves. Error on sleeve note credit: Should read 'John Harris, August 1998', actually reads 'John Harris, August 1993'  Manufactured in E.U. |
+| Notes | First ever vinyl issue. Previously only available on CD.<br><br>Title on hype sticker: Ace A's + Killer B's The Best Of<br><br>Standard sleeve with printed inner sleeves.<br>Error on sleeve note credit: Should read 'John Harris, August 1998', actually reads 'John Harris, August 1993'<br><br>Manufactured in E.U. |
 | Discogs URL    | [Dodgy - Ace A's + Killer B's](https://www.discogs.com/release/22218358-Dodgy-Ace-As-Killer-Bs) |

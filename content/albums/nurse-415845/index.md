@@ -1,16 +1,17 @@
 ---
-title: "Therapy? - Nurse"
-artist_name: "Therapy?"
+title: "Therapy - Nurse"
+artist_name: "Therapy"
 artist: "therapy"
 album_name: "Nurse"
 date: 2019-05-16T17:40:00.000000Z
+release_date: "1992-10-17"
 release_id: "415845"
 slug: "nurse-415845"
 hideSummary: true
 cover:
     image: "nurse-415845.jpg"
-    alt: "Nurse by Therapy?"
-    caption: "Nurse by Therapy?"
+    alt: "Nurse by Therapy"
+    caption: "Nurse by Therapy"
 additional_images:
     - "https://i.discogs.com/n6LOlZLJplKUplzWigz3OSvgvnBou_RT0cRXXCn27LM/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTg0/NS0xNDc2NTk3OTY3/LTU1OTcuanBlZw.jpeg"
     - "https://i.discogs.com/pLFwXBulAprWU3sCP8puh_vUvRwBdfKazehloT0z4Ik/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTg0/NS0xNDc2NTk3OTgz/LTI2ODAuanBlZw.jpeg"
@@ -25,47 +26,30 @@ styles: ["Indie Rock"]
 Nurse is the first major label album released by the rock band Therapy? It was released in 1992 on A&M Records.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Nausea (3:56)
-2. Teethgrinder (3:26)
-3. Disgracelands (3:42)
-4. Accelerator (2:15)
-5. Neck Freak (5:51)
-6. Perversonality (3:52)
-7. Gone (6:23)
-8. Zipless (2:53)
-9. Deep Sleep (5:14)
-10. Hypermania (2:48)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Nausea | 3:56 |
+| A2 | Teethgrinder | 3:26 |
+| A3 | Disgracelands | 3:42 |
+| A4 | Accelerator | 2:15 |
+| A5 | Neck Freak | 5:51 |
+| B1 | Perversonality | 3:52 |
+| B2 | Gone | 6:23 |
+| B3 | Zipless | 2:53 |
+| B4 | Deep Sleep | 5:14 |
+| B5 | Hypermania | 2:48 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/nurse/1444110474" >}}<br>
 
 
-## Videos
-### Perversonality
-{{< youtube id="ca9T34sYlK0" title="Perversonality" >}}<br>
-### More Videos
-
-- [Nausea](https://www.youtube.com/watch?v=lnG_TXXVf4g)
-- [Therapy - Teethgrinder](https://www.youtube.com/watch?v=oH_yivWallk)
-- [Therapy - Nausea](https://www.youtube.com/watch?v=a9BmmGM9bSY)
-- [Therapy - Teethgrinder](https://www.youtube.com/watch?v=-R4eCxKxr6Q)
-- [Therapy  Disgracelands 1992](https://www.youtube.com/watch?v=ObltOZKQvXM)
-- [Accelerator](https://www.youtube.com/watch?v=oRavi-MzMf4)
-- [Neck Freak](https://www.youtube.com/watch?v=rSgjWbnHn7o)
-- [Perversonality  - Therapy](https://www.youtube.com/watch?v=Qbs3ms5A5pM)
-- [Therapy - Gone with lyrics](https://www.youtube.com/watch?v=j6rFl9nQ0xw)
-- [Zipless](https://www.youtube.com/watch?v=CVG8xmmHesA)
-- [Therapy  - Deep Sleep](https://www.youtube.com/watch?v=3TIc3LbhxAA)
-- [Therapy - Hypermania](https://www.youtube.com/watch?v=Yj0AGitctVg)
-- [Perversonality](https://www.youtube.com/watch?v=ca9T34sYlK0)
-- [Nausea](https://www.youtube.com/watch?v=lnG_TXXVf4g)
-- [Therapy - Teethgrinder](https://www.youtube.com/watch?v=oH_yivWallk)
-- [Therapy - Teethgrinderyerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=CDkqrXBy2tU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +61,5 @@ Nurse is the first major label album released by the rock band Therapy? It was r
 | Format         | Vinyl LP Album |
 | Label          | A&M Records |
 | Catalog Number | 540 044-1 |
-| Notes | The records has a printed inner and outer sleeve.  Rear sleeve: Recorded at Loco, Wales. Except "Gone" recorded at The Barn, Annamoe, Ireland. Mixed at Gooseberry Studios.  ℗ 1992 A&M Records Ltd, London.  Side B face label: The copyright in this sound recording is owned by A&M Records Ltd, London. ℗ 1992 A&M Records Ltd, London.  |
-| Discogs URL    | [Therapy? - Nurse](https://www.discogs.com/release/415845-Therapy-Nurse) |
+| Notes | The records has a printed inner and outer sleeve.<br><br>Rear sleeve:<br>Recorded at Loco, Wales. Except "Gone" recorded at The Barn, Annamoe, Ireland. Mixed at Gooseberry Studios.<br><br>℗ 1992 A&M Records Ltd, London.<br><br>Side B face label:<br>The copyright in this sound recording is owned by A&M Records Ltd, London. ℗ 1992 A&M Records Ltd, London.<br> |
+| Discogs URL    | [Therapy - Nurse](https://www.discogs.com/release/415845-Therapy-Nurse) |

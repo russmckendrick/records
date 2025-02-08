@@ -1,7 +1,7 @@
 ---
 title: "Ghost - Phantomime "
 artist_name: "Ghost"
-artist: "ghost-32"
+artist: "ghost"
 album_name: "Phantomime "
 date: 2023-05-19T11:07:27.000000Z
 release_date: "2023-05-18"
@@ -50,25 +50,19 @@ What hasn’t changed is that <i>Phantomime</i> is a companion piece to Ghost’
 
 
 ## Tracklisting
-1. See No Evil
-2. Jesus He Knows Me
-3. Hanging Around
-4. Phantom Of The Opera
-5. We Don't Need Another Hero
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | See No Evil |  |
+| A2 | Jesus He Knows Me |  |
+| A3 | Hanging Around |  |
+| B1 | Phantom Of The Opera |  |
+| B2 | We Don't Need Another Hero |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/phantomime-ep/1678578058" >}}<br>
 
 
-## Videos
-### Ghost - Phantom Of The Opera Official Audio
-{{< youtube id="Wn-VdZ4LEKg" title="Ghost - Phantom Of The Opera Official Audio" >}}<br>
-### More Videos
-
-- [Ghost - Jesus He Knows Me Official Music Video](https://www.youtube.com/watch?v=BE3kJeBr9QI)
-- [Ghost - Jesus He Knows Me Official Music Video](https://www.youtube.com/watch?v=BE3kJeBr9QI)
-- [Ghost - Phantom Of The Opera Official Audio](https://www.youtube.com/watch?v=Wn-VdZ4LEKg)
-- [Ghost - Jesus He Knows Me Official Music Video](https://www.youtube.com/watch?v=BE3kJeBr9QI)
 
 ## Release Images
 {{< imageGrid >}}

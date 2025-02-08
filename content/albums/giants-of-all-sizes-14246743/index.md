@@ -44,37 +44,23 @@ If Elbow’s 2017 album <i>Little Fictions</i> was a typically excellent express
 
 
 ## Tracklisting
-1. Dexter & Sinister
-2. Seven Veils
-3. Empires
-4. The Delayed 3:15
-5. White Noise White Heat
-6. Doldrums
-7. My Trouble
-8. On Deronda Road
-9. Weightless
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dexter & Sinister |  |
+| A2 | Seven Veils |  |
+| A3 | Empires |  |
+| A4 | The Delayed 3:15 |  |
+| B1 | White Noise White Heat |  |
+| B2 | Doldrums |  |
+| B3 | My Trouble |  |
+| B4 | On Deronda Road |  |
+| B5 | Weightless |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/giants-of-all-sizes/1474373426" >}}<br>
 
 
-## Videos
-### elbow - Dexter  Sinister Official
-{{< youtube id="-CR628yT7aE" title="elbow - Dexter  Sinister Official" >}}<br>
-### More Videos
-
-- [elbow - Empires Official](https://www.youtube.com/watch?v=XNRGGQ_138I)
-- [elbow - Seven Veils Official](https://www.youtube.com/watch?v=wAJ_CHwNSXY)
-- [elbow - My Trouble Official](https://www.youtube.com/watch?v=BD_ZgAEjLNg)
-- [elbow - Dexter  Sinister Official](https://www.youtube.com/watch?v=-CR628yT7aE)
-- [elbow - Empires Official](https://www.youtube.com/watch?v=XNRGGQ_138I)
-- [elbow - Seven Veils Official](https://www.youtube.com/watch?v=wAJ_CHwNSXY)
-- [elbow - My Trouble Official](https://www.youtube.com/watch?v=BD_ZgAEjLNg)
-- [elbow - Empires Official Video](https://www.youtube.com/watch?v=EJa5FvCaBJc)
-- [Elbow - Giants of All Sizes Review](https://www.youtube.com/watch?v=noA1dVWIgng)
-- [Elbow - Giants Of All Sizes 2019](https://www.youtube.com/watch?v=iWY1UJMNJ-Q)
-- [elbow - Weightless Lyrics](https://www.youtube.com/watch?v=5vW5HpyPKME)
-- [elbow - The Delayed 315 Lyrics](https://www.youtube.com/watch?v=c7yOQloSClU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +72,5 @@ If Elbow’s 2017 album <i>Little Fictions</i> was a typically excellent express
 | Format         | Vinyl LP Album (180gm) |
 | Label          | Polydor |
 | Catalog Number | 7764402 |
-| Notes | Heavyweight Black Vinyl + Download Card  A Polydor Records Release. ℗ & © 2019 Polydor Limited. All rights reserved. Made In Germany. BIEM/SDRM. LC 00309 7764402. 00602577644023.  elbow.co.uk Worldwide management: TRC Management Ltd mail@trcmanagement.com |
+| Notes | Heavyweight Black Vinyl + Download Card<br><br>A Polydor Records Release.<br>℗ & © 2019 Polydor Limited. All rights reserved.<br>Made In Germany. BIEM/SDRM. LC 00309<br>7764402. 00602577644023.<br><br>elbow.co.uk<br>Worldwide management: TRC Management Ltd<br>mail@trcmanagement.com |
 | Discogs URL    | [Elbow - Giants Of All Sizes](https://www.discogs.com/release/14246743-Elbow-Giants-Of-All-Sizes) |

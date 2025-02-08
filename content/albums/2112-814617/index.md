@@ -4,6 +4,7 @@ artist_name: "Rush"
 artist: "rush"
 album_name: "2112"
 date: 2016-03-16T18:38:08.000000Z
+release_date: "2023-08-31"
 release_id: "814617"
 slug: "2112-814617"
 hideSummary: true
@@ -28,25 +29,25 @@ The band was in financial hardship due to the disappointing sales of 1975's Care
 2112 was released to favourable reviews from music critics and quickly outsold the band's previous albums. Rush toured the album extensively in 1976 and 1977, which culminated in their debut concerts in Europe. 2112 remains the band's second-highest-selling album behind Moving Pictures with more than 3 million copies sold in the US alone. It’s listed in 1001 Albums You Must Hear Before You Die and ranked second on Rolling Stone's reader's poll, Your Favorite Prog Rock Albums of All Time. 2112 has been reissued several times: a 40th Anniversary Edition was released in 2016 with previously unreleased material, including the album performed by numerous contemporary artists.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. 2112
-2. A Passage To Bangkok (3:30)
-3. The Twilight Zone (3:14)
-4. Lessons (3:48)
-5. Tears (3:29)
-6. Something For Nothing (3:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | 2112 |  |
+| B1 | A Passage To Bangkok | 3:30 |
+| B2 | The Twilight Zone | 3:14 |
+| B3 | Lessons | 3:48 |
+| B4 | Tears | 3:29 |
+| B5 | Something For Nothing | 3:56 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rush-single/1704603042" >}}<br>
 
-
-## Videos
-### 2112 Overture  The Temples Of Syrinx  Discovery  Presentation  Oracle The Dream 
-{{< youtube id="w5jwxrTqoEA" title="2112 Overture  The Temples Of Syrinx  Discovery  Presentation  Oracle The Dream " >}}<br>
 
 
 ## Release Images
@@ -59,5 +60,5 @@ The band was in financial hardship due to the disappointing sales of 1975's Care
 | Format         | Vinyl LP Album (Gatefold Sleeve) |
 | Label          | Mercury |
 | Catalog Number | 9100 039 |
-| Notes | ℗ 1976 Phonogram Inc.  Runouts are stamped except for the 'PR' on side A which is etched. |
+| Notes | ℗ 1976 Phonogram Inc.<br><br>Runouts are stamped except for the 'PR' on side A which is etched. |
 | Discogs URL    | [Rush - 2112](https://www.discogs.com/release/814617-Rush-2112) |

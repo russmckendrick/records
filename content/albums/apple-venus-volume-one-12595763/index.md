@@ -4,6 +4,7 @@ artist_name: "XTC"
 artist: "xtc"
 album_name: "Apple Venus Volume One"
 date: 2018-10-27T09:36:06.000000Z
+release_date: "1999-02-17"
 release_id: "12595763"
 slug: "apple-venus-volume-one-12595763"
 hideSummary: true
@@ -26,42 +27,30 @@ styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. River Of Orchids (5:53)
-2. I'd Like That (3:50)
-3. Easter Theatre (4:37)
-4. Knights In Shining Karma (3:39)
-5. Frivolous Tonight (3:10)
-6. Greenman (6:17)
-7. Your Dictionary (3:14)
-8. Fruit Nut (3:01)
-9. I Can't Own Her (5:26)
-10. Harvest Festival (4:15)
-11. The Last Balloon (6:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | River Of Orchids | 5:53 |
+| A2 | I'd Like That | 3:50 |
+| A3 | Easter Theatre | 4:37 |
+| A4 | Knights In Shining Karma | 3:39 |
+| A5 | Frivolous Tonight | 3:10 |
+| B1 | Greenman | 6:17 |
+| B2 | Your Dictionary | 3:14 |
+| B3 | Fruit Nut | 3:01 |
+| B4 | I Can't Own Her | 5:26 |
+| B5 | Harvest Festival | 4:15 |
+| B6 | The Last Balloon | 6:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/apple-venus-volume-one/1786881419" >}}<br>
 
 
-## Videos
-### XTC- Easter Theatre-Demo Version- Homespun Apple Venus Volume One Home Demos
-{{< youtube id="tdjNPX2gjrU" title="XTC- Easter Theatre-Demo Version- Homespun Apple Venus Volume One Home Demos" >}}<br>
-### More Videos
-
-- [XTC- Id Like That - Homespun The Apple Venus Volume One Home Demos](https://www.youtube.com/watch?v=rHZdTJ0GM6Q)
-- [XTC - River of Orchids](https://www.youtube.com/watch?v=BXcGM4iU1a0)
-- [XTC - Harvest Festival](https://www.youtube.com/watch?v=l0mAHRFujJY)
-- [XTC- Easter Theatre -  Apple Venus Volume 1 -](https://www.youtube.com/watch?v=vgUuaiiRTas)
-- [XTC - Apple Venus Demos - Im Unbecome](https://www.youtube.com/watch?v=rEXLTYgub3E)
-- [XTC-Fruit Nut- Apple Venus Volume 1](https://www.youtube.com/watch?v=QVJ6ZVSQJwM)
-- [XTC- Easter Theatre-Demo Version- Homespun Apple Venus Volume One Home Demos](https://www.youtube.com/watch?v=tdjNPX2gjrU)
-- [XTC- Id Like That - Homespun The Apple Venus Volume One Home Demos](https://www.youtube.com/watch?v=rHZdTJ0GM6Q)
-- [XTC - River of Orchids](https://www.youtube.com/watch?v=BXcGM4iU1a0)
-- [XTC - Harvest Festival](https://www.youtube.com/watch?v=l0mAHRFujJY)
-- [XTC- Easter Theatre -  Apple Venus Volume 1 -](https://www.youtube.com/watch?v=vgUuaiiRTas)
-- [XTC - Apple Venus Demos - Im Unbecome](https://www.youtube.com/watch?v=rEXLTYgub3E)
-- [XTC-Fruit Nut- Apple Venus Volume 1](https://www.youtube.com/watch?v=QVJ6ZVSQJwM)
 
 ## Release Images
 {{< imageGrid >}}

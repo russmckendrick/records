@@ -1,7 +1,7 @@
 ---
 title: "Sigur Rós - Odin's Raven Magic"
 artist_name: "Sigur Rós"
-artist: "sigur-r-s"
+artist: "sigur-ros"
 album_name: "Odin's Raven Magic"
 date: 2020-12-05T04:48:27.000000Z
 release_date: "2020-12-04"
@@ -45,29 +45,22 @@ The former Sigur Rós keyboardist was instrumental in pulling the ambitious proj
 
 
 ## Tracklisting
-1. Prologus
-2. Alföður Orkar
-3. Dvergmál
-4. Stendur Æva
-5. Áss Hinn Hvíti 
-6. Hvert Stefnir
-7. Spár Eða Spakmál
-8. Dagrenning
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Prologus |  |
+| A2 | Alföður Orkar |  |
+| B1 | Dvergmál |  |
+| B2 | Stendur Æva |  |
+| C1 | Áss Hinn Hvíti  |  |
+| C2 | Hvert Stefnir |  |
+| D1 | Spár Eða Spakmál |  |
+| D2 | Dagrenning |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/odins-raven-magic-with-steind%C3%B3r-andersen-hilmar-%C3%B6rn/1536156586" >}}<br>
 
 
-## Videos
-### Prologus with Steindór Andersen Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir
-{{< youtube id="Jbht20ZvEz4" title="Prologus with Steindór Andersen Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir" >}}<br>
-### More Videos
-
-- [Alföður orkar with Steindór Andersen Hilmar Örn Hilmarsson and María Huld Markan](https://www.youtube.com/watch?v=FoqLscNxkwo)
-- [Áss hinn hvíti with Steindór Andersen Hilmar Örn Hilmarsson and María Huld Markan](https://www.youtube.com/watch?v=vJJAh5JLzs4)
-- [Hvert stefnir with Steindór Andersen Hilmar Örn Hilmarsson and María Huld Markan](https://www.youtube.com/watch?v=Mhnx1Hlgpfs)
-- [Spár eða spakmál with Steindór Andersen Hilmar Örn Hilmarsson and María Huld Markan](https://www.youtube.com/watch?v=_b0JRt7KM_g)
-- [Dagrenning with Steindór Andersen Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir](https://www.youtube.com/watch?v=G4O_X-U5nBQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +72,5 @@ The former Sigur Rós keyboardist was instrumental in pulling the ambitious proj
 | Format         | Vinyl 2× LP Album |
 | Label          | Krúnk |
 | Catalog Number | KRUNK41LP |
-| Notes | Standard double gatefold black-vinyl edition. Some issues with round black sticker on front of shrink wrap. Sticker with barcode, label logo & reference on back of shrink wrap.  See images section. |
+| Notes | Standard double gatefold black-vinyl edition.<br>Some issues with round black sticker on front of shrink wrap.<br>Sticker with barcode, label logo & reference on back of shrink wrap.<br><br>See images section. |
 | Discogs URL    | [Sigur Rós - Odin's Raven Magic](https://www.discogs.com/release/16306752-Sigur-Rós-With-Steindór-Andersen-Hilmar-Örn-Hilmarsson-And-María-Huld-Markan-Sigfúsdóttir-Odin) |

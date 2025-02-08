@@ -4,6 +4,7 @@ artist_name: "Gong"
 artist: "gong"
 album_name: "Pulsing Signals"
 date: 2022-03-25T13:25:44.000000Z
+release_date: "2022-02-18"
 release_id: "22602818"
 slug: "pulsing-signals-22602818"
 hideSummary: true
@@ -34,38 +35,29 @@ styles: ["Prog Rock", "Psychedelic Rock", "Space Rock"]
 
 Pulsing Signals is a live album by Gong, released on 18 February 2022 through Kscope and recorded live in 2019 across three shows at The Wardrobe in Leeds, The Cluny in Newcastle and Rescue Rooms in Nottingham during The Universe Also Collapses tour.
 The album was released on CD and digital on 18 February and on vinyl on 22 March.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. What We Was (Intro) (1:55)
-2. You Can't Kill Me (9:02)
-3. Rejoice! (9:50)
-4. If Never I'm And Ever You (2:39)
-5. Kapital (4:21)
-6. Master Builder (15:45)
-7. Forever Reoccurring (22:40)
-8. My Sawtooth Wake (12:43)
-9. Insert Yr Own Prophecy (10:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | What We Was (Intro) | 1:55 |
+| A2 | You Can't Kill Me | 9:02 |
+| A3 | Rejoice! | 9:50 |
+| B1 | If Never I'm And Ever You | 2:39 |
+| B2 | Kapital | 4:21 |
+| B3 | Master Builder | 15:45 |
+| C1 | Forever Reoccurring | 22:40 |
+| D1 | My Sawtooth Wake | 12:43 |
+| D2 | Insert Yr Own Prophecy | 10:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pulsing-signals-live/1599773680" >}}<br>
 
 
-## Videos
-### What We Was intro
-{{< youtube id="yeqqcbU6Pj0" title="What We Was intro" >}}<br>
-### More Videos
-
-- [You Cant Kill Me Live](https://www.youtube.com/watch?v=YSyQ4k6sXJA)
-- [Rejoice Live](https://www.youtube.com/watch?v=jp1rW8KeKRE)
-- [If Never Im And Ever You Live](https://www.youtube.com/watch?v=kDDXc2gp2Dw)
-- [Kapital Live](https://www.youtube.com/watch?v=dhKTCOWp4pc)
-- [Master Builder Live](https://www.youtube.com/watch?v=GaDeVmzJhtA)
-- [Forever Reoccurring Live](https://www.youtube.com/watch?v=utUrAQm7B2w)
-- [GONG - My Sawtooth Wake LIVE - from Pulsing Signals](https://www.youtube.com/watch?v=9aIIvnpf0UQ)
-- [Insert Yr Own Prophecy Live](https://www.youtube.com/watch?v=BJOKcB1hiOw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +69,5 @@ The album was released on CD and digital on 18 February and on vinyl on 22 March
 | Format         | Vinyl 2× LP |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1143 |
-| Notes | Comes with foldout sleeve and cardboard inner sleeves  Initial copies from Planet Gong come with a very Limited Gong poster by – Kavus Torabi [Hype sticker:] "Recorded in 2019 live at The Wardrobe in Leeds, The Cluny in Newcastle and Rescue Rooms in Nottingham during The Universe Also Collapses tour"  (C) 2022 Gong (P) 2022 Gongband.com  |
+| Notes | Comes with foldout sleeve and cardboard inner sleeves<br><br>Initial copies from Planet Gong come with a very Limited Gong poster by – Kavus Torabi<br>[Hype sticker:]<br>"Recorded in 2019 live at The Wardrobe in Leeds, The Cluny in Newcastle and Rescue Rooms in Nottingham during The Universe Also Collapses tour"<br><br>(C) 2022 Gong (P) 2022 Gongband.com<br> |
 | Discogs URL    | [Gong - Pulsing Signals](https://www.discogs.com/release/22602818-Gong-Pulsing-Signals) |

@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Hackers (Original Motion Picture Soundtrack)"
 date: 2020-09-29T11:56:37.000000Z
+release_date: ""
 release_id: "15928841"
 slug: "hackers-original-motion-picture-soundtrack-15928841"
 hideSummary: true
@@ -29,47 +30,36 @@ styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "A
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Side :/
-2. Halcyon On And On (9:31)
-3. Hackers Suite (6:13)
-4. Open Up (6:56)
-5. Side ://
-6. Cowgirl (8:58)
-7. Voodoo People (4:10)
-8. Connected (4:04)
-9. Side :///
-10. Original Bedroom Rockers (6:09)
-11. One Love (3:55)
-12. Good Grief (4:29)
-13. Side :////
-14. Protection (7:51)
-15. One Combination (1:53)
-16. Grand Central Station (3:10)
-17. Heaven Knows (4:37)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Side :/ |  |
+| A1 | Halcyon On And On | 9:31 |
+| A2 | Hackers Suite | 6:13 |
+| A3 | Open Up | 6:56 |
+|  | Side :// |  |
+| B1 | Cowgirl | 8:58 |
+| B2 | Voodoo People | 4:10 |
+| B3 | Connected | 4:04 |
+|  | Side :/// |  |
+| C1 | Original Bedroom Rockers | 6:09 |
+| C2 | One Love | 3:55 |
+| C3 | Good Grief | 4:29 |
+|  | Side ://// |  |
+| D1 | Protection | 7:51 |
+| D2 | One Combination | 1:53 |
+| D3 | Grand Central Station | 3:10 |
+| D4 | Heaven Knows | 4:37 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Guy Pratt - Grand Cental Station Hackers Soundtrack Vinyl Edition Digital Hardware Favorites
-{{< youtube id="e7qtHLVgUi4" title="Guy Pratt - Grand Cental Station Hackers Soundtrack Vinyl Edition Digital Hardware Favorites" >}}<br>
-### More Videos
 
-- [Orbital - Halcyon  on  on from the classic brown album](https://www.youtube.com/watch?v=JOR1l2zSVpw)
-- [Squeeze - Heaven Knows Official Promo Video](https://www.youtube.com/watch?v=cmW9UiiCETQ)
-- [Hackers Soundtrack - Good Grief](https://www.youtube.com/watch?v=5CAhdpjGiEM)
-- [Massive Attack - Protection](https://www.youtube.com/watch?v=vbIhlps-BNc)
-- [Grand Central Station - Guy Pratt featuring David Gilmour](https://www.youtube.com/watch?v=moca2B0O0RM)
-- [Hackers Soundtrack - Richest Junkie Still Alive Sank Remix](https://www.youtube.com/watch?v=EYkuVytnZWw)
-- [Hackers 1996 - Full Official Soundtrack](https://www.youtube.com/watch?v=JEyEkbOlMfA)
-- [Guy Pratt - Grand Cental Station Hackers Soundtrack Vinyl Edition Digital Hardware Favorites](https://www.youtube.com/watch?v=e7qtHLVgUi4)
-- [Orbital - Halcyon  on  on from the classic brown album](https://www.youtube.com/watch?v=JOR1l2zSVpw)
-- [Squeeze - Heaven Knows Official Promo Video](https://www.youtube.com/watch?v=cmW9UiiCETQ)
-- [Hackers Soundtrack - Good Grief](https://www.youtube.com/watch?v=5CAhdpjGiEM)
-- [Massive Attack - Protection](https://www.youtube.com/watch?v=vbIhlps-BNc)
-- [Grand Central Station - Guy Pratt featuring David Gilmour](https://www.youtube.com/watch?v=moca2B0O0RM)
-- [Hackers Soundtrack - Richest Junkie Still Alive Sank Remix](https://www.youtube.com/watch?v=EYkuVytnZWw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +70,5 @@ styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "A
 | Format         | Vinyl 2× LP Record Store Day Compilation Limited Edition (25th Anniversary Edition) |
 | Label          | Varèse Sarabande |
 | Catalog Number | VSD00206 |
-| Notes | Record Store Day exclusive release, part of the September 26th, 2020 drop.   Limited to 2500 copies in a gatefold jacket.  Made in the EU. |
+| Notes | Record Store Day exclusive release, part of the September 26th, 2020 drop. <br><br>Limited to 2500 copies in a gatefold jacket.<br><br>Made in the EU. |
 | Discogs URL    | [Various - Hackers (Original Motion Picture Soundtrack)](https://www.discogs.com/release/15928841-Various-Hackers-Original-Motion-Picture-Soundtrack) |

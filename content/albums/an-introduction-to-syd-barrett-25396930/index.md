@@ -4,6 +4,7 @@ artist_name: "Syd Barrett"
 artist: "syd-barrett"
 album_name: "An Introduction To Syd Barrett"
 date: 2023-01-15T02:20:28.000000Z
+release_date: ""
 release_id: "25396930"
 slug: "an-introduction-to-syd-barrett-25396930"
 hideSummary: true
@@ -27,44 +28,38 @@ styles: ["Acoustic", "Psychedelic Rock"]
 An Introduction to Syd Barrett is a 'best of' compilation featuring the work of Syd Barrett spanning the period 1967–1970, including both material written during his time with Pink Floyd and his post-band solo career.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Arnold Layne (2:54)
-2. See Emily Play (2:53)
-3. Apples And Oranges (Stereo Version) (3:05)
-4. Matilda Mother (2010 Mix) (3:59)
-5. Chapter 24 (3:38)
-6. Bike (3:21)
-7. Terrapin (5:03)
-8. Love You (2:26)
-9. Dark Globe (2:00)
-10. Here I Go (2010 Remix) (3:17)
-11. Octopus (2010 Mix) (3:53)
-12. She Took A Long Cool Look (2010 Mix) (1:46)
-13. If It's In You (2:24)
-14. Baby Lemonade (4:07)
-15. Dominoes (2010 Mix) (4:04)
-16. Gigolo Aunt (5:43)
-17. Effervescing Elephant (1:51)
-18. Bob Dylan Blues (3:08)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Arnold Layne | 2:54 |
+| A2 | See Emily Play | 2:53 |
+| A3 | Apples And Oranges (Stereo Version) | 3:05 |
+| A4 | Matilda Mother (2010 Mix) | 3:59 |
+| B1 | Chapter 24 | 3:38 |
+| B2 | Bike | 3:21 |
+| B3 | Terrapin | 5:03 |
+| B4 | Love You | 2:26 |
+| B5 | Dark Globe | 2:00 |
+| C1 | Here I Go (2010 Remix) | 3:17 |
+| C2 | Octopus (2010 Mix) | 3:53 |
+| C3 | She Took A Long Cool Look (2010 Mix) | 1:46 |
+| C4 | If It's In You | 2:24 |
+| C5 | Baby Lemonade | 4:07 |
+| D1 | Dominoes (2010 Mix) | 4:04 |
+| D2 | Gigolo Aunt | 5:43 |
+| D3 | Effervescing Elephant | 1:51 |
+| D4 | Bob Dylan Blues | 3:08 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Apples and OrangesStereo version
-{{< youtube id="8YAdhzx8gjQ" title="Apples and OrangesStereo version" >}}<br>
-### More Videos
 
-- [An Introduction to Syd Barrett](https://www.youtube.com/watch?v=dOZ9RvvwXpo)
-- [Pink Floyd - Arnold Layne Official Music Video](https://www.youtube.com/watch?v=H3DGpINHX5Q)
-- [Syd Barrett - An Introduction To Syd Barrett Digital Remastered 2023](https://www.youtube.com/watch?v=GWNBRAdNxk8)
-- [Syd Barrett - An Introduction To Syd Barrett  Full Album 2023](https://www.youtube.com/watch?v=7WVidE9JR4M)
-- [An Introduction to Syd Barrett](https://www.youtube.com/watch?v=dOZ9RvvwXpo)
-- [Syd Barrett - An Introduction to Syd Barrett](https://www.youtube.com/watch?v=tJXoYAtEjn4)
-- [Apples and OrangesStereo version](https://www.youtube.com/watch?v=8YAdhzx8gjQ)
 
 ## Release Images
 {{< imageGrid >}}

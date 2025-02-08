@@ -4,6 +4,7 @@ artist_name: "Japan"
 artist: "japan"
 album_name: "Exorcising Ghosts"
 date: 2022-10-21T09:01:38.000000Z
+release_date: "1984-01-01"
 release_id: "24749051"
 slug: "exorcising-ghosts-24749051"
 hideSummary: true
@@ -32,48 +33,36 @@ styles: ["Synth-pop", "New Wave"]
 Exorcising Ghosts is a compilation album by the British band Japan, released in November 1984 by record label Virgin.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Methods Of Dance
-2. Swing
-3. Gentlemen Take Polaroids
-4. Quiet Life
-5. A Foreign Place
-6. Nightporter
-7. My New Career
-8. The Other Side Of Life
-9. Visions Of China
-10. Taking Islands In Africa
-11. Ghosts
-12. Sons Of Pioneers
-13. Voices Raised In Welcome, Hands Held In Prayer
-14. Life Without Buildings
-15. Talking Drum
-16. The Art Of Parties
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Methods Of Dance |  |
+| A2 | Swing |  |
+| A3 | Gentlemen Take Polaroids |  |
+| A4 | Quiet Life |  |
+| B1 | A Foreign Place |  |
+| B2 | Nightporter |  |
+| B3 | My New Career |  |
+| B4 | The Other Side Of Life |  |
+| C1 | Visions Of China |  |
+| C2 | Taking Islands In Africa |  |
+| C3 | Ghosts |  |
+| C4 | Sons Of Pioneers |  |
+| D1 | Voices Raised In Welcome, Hands Held In Prayer |  |
+| D2 | Life Without Buildings |  |
+| D3 | Talking Drum |  |
+| D4 | The Art Of Parties |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/exorcising-ghosts/724314377" >}}<br>
 
 
-## Videos
-### Methods Of Dance
-{{< youtube id="jGV8NRwJcU4" title="Methods Of Dance" >}}<br>
-### More Videos
-
-- [Quiet Life](https://www.youtube.com/watch?v=WJGzrTfVwVk)
-- [Nightporter](https://www.youtube.com/watch?v=mKsY_dEjwtQ)
-- [Visions Of China](https://www.youtube.com/watch?v=1qmNNP1VgIk)
-- [My New Career](https://www.youtube.com/watch?v=JEp3AQhhwnc)
-- [The Other Side Of Life](https://www.youtube.com/watch?v=i4J3zPy3iLE)
-- [Ghosts](https://www.youtube.com/watch?v=ZK8DBICAWFs)
-- [Life Without Buildings](https://www.youtube.com/watch?v=8dhgiDNhG9k)
-- [Talking Drum](https://www.youtube.com/watch?v=lyt1TN3OCH4)
-- [Taking Islands In Africa Steve Nye Remix  2003 Digital Remaster](https://www.youtube.com/watch?v=-EA4vEYRZTk)
-- [Gentlemen Take Polaroids Remastered 2003](https://www.youtube.com/watch?v=Yf9JA-IHwvo)
-- [A Foreign Place](https://www.youtube.com/watch?v=moPdbB34vDI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,5 +74,5 @@ Exorcising Ghosts is a compilation album by the British band Japan, released in 
 | Format         | Vinyl 2× LP Compilation Reissue (Half Speed Mastered) |
 | Label          | Virgin EMI Records |
 | Catalog Number | ARHSDLP009 |
-| Notes | A reissued two vinyl compilation issued in a gatefold sleeve with obi. Each inner sleeve containing the vinyl is a picture sleeve containing photos of the band and individual members. The compilation is supplied with a poster of the band and a mastering certificate.  ℗ 1984 Virgin Records Limited, under exclusive licence to UMC, a division of Universal Music Operations Ltd.   © 2022 Virgin Records Limited.  Several (UK) online stores offered an exclusive bundle with an artwork print of the cover by Russell Mills.  Lyrics to Visions of China appear twice, 1st time correctly, then 2nd time under Life Without Buildings. The word 'specialist' is misspelt as 'speciaist' in the notes on the obi-strip.  |
+| Notes | A reissued two vinyl compilation issued in a gatefold sleeve with obi. Each inner sleeve containing the vinyl is a picture sleeve containing photos of the band and individual members. The compilation is supplied with a poster of the band and a mastering certificate.<br><br>℗ 1984 Virgin Records Limited, under exclusive licence to UMC, a division of Universal Music Operations Ltd. <br> © 2022 Virgin Records Limited.<br><br>Several (UK) online stores offered an exclusive bundle with an artwork print of the cover by Russell Mills.<br><br>Lyrics to Visions of China appear twice, 1st time correctly, then 2nd time under Life Without Buildings. The word 'specialist' is misspelt as 'speciaist' in the notes on the obi-strip.<br> |
 | Discogs URL    | [Japan - Exorcising Ghosts](https://www.discogs.com/release/24749051-Japan-Exorcising-Ghosts) |

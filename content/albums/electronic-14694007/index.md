@@ -28,43 +28,25 @@ The album was a commercial and critical success, reaching number 2 in the United
 
 
 ## Tracklisting
-1. Idiot Country (5:03)
-2. Reality (5:39)
-3. Tighten Up (4:38)
-4. The Patience Of A Saint (4:10)
-5. Getting Away With It (5:14)
-6. Gangster (5:26)
-7. Soviet (2:00)
-8. Get The Message (5:20)
-9. Try All You Want (5:37)
-10. Some Distant Memory (4:09)
-11. Feel Every Beat (5:09)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Idiot Country | 5:03 |
+| A2 | Reality | 5:39 |
+| A3 | Tighten Up | 4:38 |
+| A4 | The Patience Of A Saint | 4:10 |
+| A5 | Getting Away With It | 5:14 |
+| B1 | Gangster | 5:26 |
+| B2 | Soviet | 2:00 |
+| B3 | Get The Message | 5:20 |
+| B4 | Try All You Want | 5:37 |
+| B5 | Some Distant Memory | 4:09 |
+| B6 | Feel Every Beat | 5:09 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/electronic-special-edition/693892654" >}}<br>
 
 
-## Videos
-### Electronic - Feel Every Beat Official Music Video
-{{< youtube id="dfvUFp8pJTg" title="Electronic - Feel Every Beat Official Music Video" >}}<br>
-### More Videos
-
-- [Soviet 2013 Remaster](https://www.youtube.com/watch?v=OZjxsGQjghk)
-- [The Patience of a Saint 2013 Remaster](https://www.youtube.com/watch?v=fJsJSPKbkXs)
-- [Electronic - A Patience of a Saint](https://www.youtube.com/watch?v=-wXQZNC1864)
-- [The Patience of a Saint - Electronic feat Pet Shop Boys](https://www.youtube.com/watch?v=TtTNwrrcvds)
-- [Idiot Country](https://www.youtube.com/watch?v=MQI61icvaQg)
-- [Reality](https://www.youtube.com/watch?v=Q26D0fU1aaw)
-- [Tighten Up](https://www.youtube.com/watch?v=4dNB192uYVE)
-- [The Patience of a Saint](https://www.youtube.com/watch?v=tynrmbUN3nU)
-- [Electronic - Getting Away With It 1990 Official Music Video HD Upgrade](https://www.youtube.com/watch?v=DSfjtdnUsls)
-- [Gangster](https://www.youtube.com/watch?v=fH0YmcTRwi8)
-- [Soviet](https://www.youtube.com/watch?v=rL5UKLrKNF8)
-- [Electronic - Get The Message Official Music Video](https://www.youtube.com/watch?v=vqC2eT5vI9w)
-- [Try All You Want](https://www.youtube.com/watch?v=xELXelDbfiI)
-- [Some Distant Memory](https://www.youtube.com/watch?v=T3xUtpRYMS0)
-- [Electronic - Feel Every Beat Official Music Video](https://www.youtube.com/watch?v=dfvUFp8pJTg)
-- [Free Will Edit](https://www.youtube.com/watch?v=d__gBbnGIAA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +58,5 @@ The album was a commercial and critical success, reaching number 2 in the United
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered |
 | Label          | [{'name': 'Parlophone', 'catno': ''}] |
 | Catalog Number | Fact 290 |
-| Notes | The cover is the black cover which was first used on the version of the CD released by Parlophone in 1994.   |
+| Notes | The cover is the black cover which was first used on the version of the CD released by Parlophone in 1994. <br> |
 | Discogs URL    | [Electronic - Electronic](https://www.discogs.com/release/14694007-Electronic-Electronic) |

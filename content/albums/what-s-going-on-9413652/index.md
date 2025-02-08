@@ -51,62 +51,57 @@ The album was an immediate commercial and critical success, and came to be viewe
 
 
 ## Tracklisting
-1. Original LP Release (May 21 1971)
-2. What's Going On (3:51)
-3. What's Happening Brother (2:44)
-4. Flyin' High (In The Friendly Sky) (3:49)
-5. Save The Children (4:03)
-6. God Is Love (1:42)
-7. Mercy Mercy Me (The Ecology) (3:13)
-8. Right On (7:31)
-9. Wholy Holy (3:08)
-10. Inner City Blues (Make Me Wanna Holler) (5:28)
-11. Original Detroit Mix (April 5 1971)
-12. What's Going On (4:07)
-13. What's Happening Brother (2:43)
-14. Flyin' High (In The Friendly Sky) (3:48)
-15. Save The Children (4:01)
-16. God Is Love (1:46)
-17. Mercy Mercy Me (The Ecology) (3:04)
-18. Right On (7:31)
-19. Wholy Holy (3:07)
-20. Inner City Blues (Make Me Wanna Holler) (5:36)
-21. Live At The Kennedy Center Auditorium, Washington, D.C. (May 1 1972)
-22. Sixties Medley (13:23)
-23. Right On (7:33)
-24. Wholy Holy (3:32)
-25. Inner City Blues (Make Me Wanna Holler) (9:05)
-26. What's Going On (5:42)
-27. What's Happening Brother (2:54)
-28. Live At The Kennedy Center Auditorium, Washington, D.C. (May 1 1972)
-29. Flyin' High (In The Friendly Sky) (3:51)
-30. Save The Children (4:22)
-31. God Is Love (1:43)
-32. Stage Dialogue (2:34)
-33. Reprise
-34. Inner City Blues (Make Me Wanna Holler) (5:12)
-35. What's Going On (4:01)
-36. Single Versions
-37. What's Going On (3:53)
-38. God Is Love (2:47)
-39. Sad Tomorrows (2:24)
-40. In The Meantime...
-41. Head Title (AKA Distant Lover) (4:07)
-42. The Foundation
-43. What's Going On - Rhythm 'N' Strings Mix (3:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Original LP Release (May 21 1971) |  |
+| A1 | What's Going On | 3:51 |
+| A2 | What's Happening Brother | 2:44 |
+| A3 | Flyin' High (In The Friendly Sky) | 3:49 |
+| A4 | Save The Children | 4:03 |
+| A5 | God Is Love | 1:42 |
+| A6 | Mercy Mercy Me (The Ecology) | 3:13 |
+| B1 | Right On | 7:31 |
+| B2 | Wholy Holy | 3:08 |
+| B3 | Inner City Blues (Make Me Wanna Holler) | 5:28 |
+|  | Original Detroit Mix (April 5 1971) |  |
+| C1 | What's Going On | 4:07 |
+| C2 | What's Happening Brother | 2:43 |
+| C3 | Flyin' High (In The Friendly Sky) | 3:48 |
+| C4 | Save The Children | 4:01 |
+| C5 | God Is Love | 1:46 |
+| C6 | Mercy Mercy Me (The Ecology) | 3:04 |
+| D1 | Right On | 7:31 |
+| D2 | Wholy Holy | 3:07 |
+| D3 | Inner City Blues (Make Me Wanna Holler) | 5:36 |
+|  | Live At The Kennedy Center Auditorium, Washington, D.C. (May 1 1972) |  |
+|  | Sixties Medley | 13:23 |
+| E2 | Right On | 7:33 |
+| F1 | Wholy Holy | 3:32 |
+| F2 | Inner City Blues (Make Me Wanna Holler) | 9:05 |
+| F3 | What's Going On | 5:42 |
+| F4 | What's Happening Brother | 2:54 |
+|  | Live At The Kennedy Center Auditorium, Washington, D.C. (May 1 1972) |  |
+| G1 | Flyin' High (In The Friendly Sky) | 3:51 |
+| G2 | Save The Children | 4:22 |
+| G3 | God Is Love | 1:43 |
+| G4 | Stage Dialogue | 2:34 |
+|  | Reprise |  |
+| G5 | Inner City Blues (Make Me Wanna Holler) | 5:12 |
+| G6 | What's Going On | 4:01 |
+|  | Single Versions |  |
+| H1 | What's Going On | 3:53 |
+| H2 | God Is Love | 2:47 |
+| H3 | Sad Tomorrows | 2:24 |
+|  | In The Meantime... |  |
+| H4 | Head Title (AKA Distant Lover) | 4:07 |
+|  | The Foundation |  |
+| H5 | What's Going On - Rhythm 'N' Strings Mix | 3:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whats-going-on/1538081586" >}}<br>
 
 
-## Videos
-### Marvin Gaye - Whats Going On Official Video 2019
-{{< youtube id="o5TmORitlKk" title="Marvin Gaye - Whats Going On Official Video 2019" >}}<br>
-### More Videos
-
-- [Marvin Gaye - Whats Going On Lyric Video](https://www.youtube.com/watch?v=KDK7TiEiMOI)
-- [Marvin Gaye - Whats Happening Brother Visualizer](https://www.youtube.com/watch?v=UyRws-t7ks4)
-- [Marvin Gaye - Inner City Blues Make Me Wanna Holler](https://www.youtube.com/watch?v=57Ykv1D0qEE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -118,5 +113,5 @@ The album was an immediate commercial and critical success, and came to be viewe
 | Format         | Vinyl LP Album Reissue Remastered Stereo, Vinyl LP Album Reissue Remastered Stereo, Vinyl 2× LP Remastered Stereo Mono, All Media Deluxe Edition |
 | Label          | Tamla |
 | Catalog Number | 0600753703069 |
-| Notes | Four LPs with inner picture sleeves housed in a soft card slipcase. Includes voucher to download MP3 version of the album and comes with a Japanese style obi. Half speed mastered. |
+| Notes | Four LPs with inner picture sleeves housed in a soft card slipcase.<br>Includes voucher to download MP3 version of the album and comes with a Japanese style obi.<br>Half speed mastered. |
 | Discogs URL    | [Marvin Gaye - What's Going On](https://www.discogs.com/release/9413652-Marvin-Gaye-Whats-Going-On) |

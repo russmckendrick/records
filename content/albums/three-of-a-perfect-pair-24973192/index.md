@@ -4,6 +4,7 @@ artist_name: "King Crimson"
 artist: "king-crimson"
 album_name: "Three Of A Perfect Pair"
 date: 2023-02-03T11:50:10.000000Z
+release_date: "1984-03-27"
 release_id: "24973192"
 slug: "three-of-a-perfect-pair-24973192"
 hideSummary: true
@@ -27,30 +28,30 @@ styles: ["Prog Rock"]
 Three of a Perfect Pair is the tenth studio album by English progressive rock band King Crimson, released on 23 March 1984 in the UK by E.G. Records. It is the group's final studio album to feature the quartet of Robert Fripp, Adrian Belew, Tony Levin and Bill Bruford, which broke up later that year, though all four would appear in the sextet lineup featured on THRAK in 1995.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Left Side
-2. Three Of A Perfect Pair
-3. Model Man
-4. Sleepless
-5. Man With An Open Heart
-6. Nuages (That Which Passes, Passes Like Clouds)
-7. Right Side
-8. Industry
-9. Dig Me
-10. No Warning
-11. Larks' Tongues In Aspic Part III
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Left Side |  |
+| A1 | Three Of A Perfect Pair |  |
+| A2 | Model Man |  |
+| A3 | Sleepless |  |
+| A4 | Man With An Open Heart |  |
+| A5 | Nuages (That Which Passes, Passes Like Clouds) |  |
+|  | Right Side |  |
+| B1 | Industry |  |
+| B2 | Dig Me |  |
+| B3 | No Warning |  |
+| B4 | Larks' Tongues In Aspic Part III |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/three-of-a-perfect-pair-expanded-edition/1090449276" >}}<br>
 
-
-## Videos
-### King Crimson - Three Of A Perfect Pair
-{{< youtube id="QdMHy074kNc" title="King Crimson - Three Of A Perfect Pair" >}}<br>
 
 
 ## Release Images
@@ -63,5 +64,5 @@ Three of a Perfect Pair is the tenth studio album by English progressive rock ba
 | Format         | Vinyl LP Album Reissue Remastered (200 Gram) |
 | Label          | Discipline Global Mobile |
 | Catalog Number | KCLLP10 |
-| Notes | Sticker on wrap reads as follows: KCLLP10 200 gram super-heavyweight vinyl edition of the 40th anniversary stereo mixes by [...] and [...].  All songs © Universal Music MGB Ltd  Back: ℗ & © 2019 Robert Fripp  Labels: Made in England. ℗ & © 2019 Robert Fripp.  Contents include a lyric sheet and a record sleeve adorned with other King Crimson releases available for sale. All runouts etched |
+| Notes | Sticker on wrap reads as follows:<br>KCLLP10<br>200 gram super-heavyweight vinyl edition of the 40th anniversary stereo mixes by [...] and [...].<br><br>All songs © Universal Music MGB Ltd<br><br>Back:<br>℗ & © 2019 Robert Fripp<br><br>Labels:<br>Made in England. ℗ & © 2019 Robert Fripp.<br><br>Contents include a lyric sheet and a record sleeve adorned with other King Crimson releases available for sale.<br>All runouts etched |
 | Discogs URL    | [King Crimson - Three Of A Perfect Pair](https://www.discogs.com/release/24973192-King-Crimson-Three-Of-A-Perfect-Pair) |

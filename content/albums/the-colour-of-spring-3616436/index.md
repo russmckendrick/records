@@ -35,40 +35,31 @@ Talk Talk snuck into the music industry as part of the New Romantic movement, op
 
 
 ## Tracklisting
-1. Happiness Is Easy
-2. I Don't Believe In You
-3. Life's What You Make It
-4. April 5th
-5. Living In Another World
-6. Give It Up
-7. Chameleon Day
-8. Time It's Time
-9. Happiness Is Easy
-10. I Don't Believe In You
-11. Life's What You Make It
-12. April 5th
-13. Living In Another World
-14. Give It Up
-15. Chameleon Day
-16. Time It's Time
-17. It's Getting Late In The Evening
+| Position | Title | Duration |
+|----------|-------|----------|
+| LP-A1 | Happiness Is Easy |  |
+| LP-A2 | I Don't Believe In You |  |
+| LP-A3 | Life's What You Make It |  |
+| LP-A4 | April 5th |  |
+| LP-B1 | Living In Another World |  |
+| LP-B2 | Give It Up |  |
+| LP-B3 | Chameleon Day |  |
+| LP-B4 | Time It's Time |  |
+| DVD-1 | Happiness Is Easy |  |
+| DVD-2 | I Don't Believe In You |  |
+| DVD-3 | Life's What You Make It |  |
+| DVD-4 | April 5th |  |
+| DVD-5 | Living In Another World |  |
+| DVD-6 | Give It Up |  |
+| DVD-7 | Chameleon Day |  |
+| DVD-8 | Time It's Time |  |
+| DVD-9 | It's Getting Late In The Evening |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-colour-of-spring/696811651" >}}<br>
 
 
-## Videos
-### Talk Talk - The Colour of Spring Full Album
-{{< youtube id="XWs1sWdx1ig" title="Talk Talk - The Colour of Spring Full Album" >}}<br>
-### More Videos
-
-- [Talk Talk - Lifes What You Make It Official Video](https://www.youtube.com/watch?v=l3VqAsMXE7o)
-- [Happiness Is Easy 1997 Remaster](https://www.youtube.com/watch?v=gl4lvJmvqQU)
-- [April 5th 1997 Remaster](https://www.youtube.com/watch?v=h3vbVCRNcrM)
-- [I Dont Believe in You 1997 Remaster](https://www.youtube.com/watch?v=o8canrG0YfY)
-- [Give It Up 1997 Remaster](https://www.youtube.com/watch?v=XK4Cw2STZiQ)
-- [Chameleon Day 1997 Remaster](https://www.youtube.com/watch?v=RQGAw43t20k)
-- [Time Its Time 1997 Remaster](https://www.youtube.com/watch?v=vwM77SSxLp8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +71,5 @@ Talk Talk snuck into the music industry as part of the New Romantic movement, op
 | Format         | Vinyl LP Album Reissue Stereo (180g), DVD DVD-Video NTSC Album Reissue Stereo |
 | Label          | EMI |
 | Catalog Number | EMCX 3506 |
-| Notes | This reissue set includes: - a heavyweight 180gm vinyl LP pressing. - an audio only DVD-Video (NTSC, Region 0) containing the album delivered as a 96kHz/24 bit LPCM stereo mix.  The LP is housed in a regular spined sleeve including an inner bag with lyrics. The DVD is housed in a cardboard sleeve, tucked inside the vinyl cover.  The DVD includes an additional track, "It's Getting Late In The Evening", originally released in 1986 as B-side of "Life's What You Make It".  Made in the E.U.  A similar edition, [r=9285497], has the same barcode as this release but has a different catalog# and different labels. |
+| Notes | This reissue set includes:<br>- a heavyweight 180gm vinyl LP pressing.<br>- an audio only DVD-Video (NTSC, Region 0) containing the album delivered as a 96kHz/24 bit LPCM stereo mix.<br><br>The LP is housed in a regular spined sleeve including an inner bag with lyrics.<br>The DVD is housed in a cardboard sleeve, tucked inside the vinyl cover.<br><br>The DVD includes an additional track, "It's Getting Late In The Evening", originally released in 1986 as B-side of "Life's What You Make It".<br><br>Made in the E.U.<br><br>A similar edition, [r=9285497], has the same barcode as this release but has a different catalog# and different labels. |
 | Discogs URL    | [Talk Talk - The Colour Of Spring](https://www.discogs.com/release/3616436-Talk-Talk-The-Colour-Of-Spring) |

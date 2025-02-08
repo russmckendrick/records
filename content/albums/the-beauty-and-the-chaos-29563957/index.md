@@ -4,6 +4,7 @@ artist_name: "EMF"
 artist: "emf"
 album_name: "The Beauty And The Chaos "
 date: 2024-02-02T05:29:25.000000Z
+release_date: "2024-01-26"
 release_id: "29563957"
 slug: "the-beauty-and-the-chaos-29563957"
 hideSummary: true
@@ -19,31 +20,31 @@ styles: ["Acid Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Hello People
-2. Reach For The Lasers 
-3. 21st Century
-4. Read The Room
-5. I've Been Down
-6. The Day The Music Died
-7. Stardust
-8. Lookout Mountain
-9. Red Flags
-10. Do It Again
-11. Hello People
-12. I'm A Believer 2003
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hello People |  |
+| A2 | Reach For The Lasers  |  |
+| A3 | 21st Century |  |
+| A4 | Read The Room |  |
+| A5 | I've Been Down |  |
+| B1 | The Day The Music Died |  |
+| B2 | Stardust |  |
+| B3 | Lookout Mountain |  |
+| B4 | Red Flags |  |
+| B5 | Do It Again |  |
+| C1 | Hello People |  |
+| C2 | I'm A Believer 2003 |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-beauty-and-the-chaos/1727021984" >}}<br>
 
 
-## Videos
-### EMF - Hello People featuring Stephen Fry
-{{< youtube id="GVlMG585qNc" title="EMF - Hello People featuring Stephen Fry" >}}<br>
-### More Videos
-
-- [EMF - Hello People featuring Stephen Fry](https://www.youtube.com/watch?v=GVlMG585qNc)
 
 ## Release Images
 {{< imageGrid >}}

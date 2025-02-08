@@ -4,6 +4,7 @@ artist_name: "Cake"
 artist: "cake"
 album_name: "Pressure Chief"
 date: 2024-03-22T06:04:57.000000Z
+release_date: "2004-10-04"
 release_id: "30088206"
 slug: "pressure-chief-30088206"
 hideSummary: true
@@ -26,42 +27,31 @@ styles: ["Alternative Rock"]
 Pressure Chief is the fifth studio album by American band Cake. It was released on October 5, 2004, pushed back from its original August release date. It was produced by the band and recorded in a converted house in Sacramento. The lead single, "No Phone" peaked at No. 13 on the U.S. Billboard Modern Rock Tracks chart. The second single "Carbon Monoxide" garnered some airplay but failed to crack the Modern Rock Tracks top 40. The album was the band's second and last record under Columbia Records.
 The songs "She'll Hang the Baskets" and "Tougher Than It Is" were both originally written for Cake's 1998 record Prolonging the Magic. A bonus disc, Extra Value, was included in limited pre-orders of Pressure Chief.
 On its opening week, Pressure Chief sold about 46,000 copies, debuting and peaking at number 17 on the Billboard 200. However, it fell to No. 55 the following week. By the next month, the album had only sold 91,478 copies.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Wheels (3:20)
-2. No Phone (3:52)
-3. Take It All Away (3:57)
-4. Dime (3:37)
-5. Carbon Monoxide (3:09)
-6. The Guitar Man (3:53)
-7. Waiting (3:55)
-8. She'll Hang The Baskets (2:42)
-9. End Of The Movie (2:49)
-10. Palm Of Your Hand (2:57)
-11. Tougher Than It Is (3:00)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Wheels | 3:20 |
+| A2 | No Phone | 3:52 |
+| A3 | Take It All Away | 3:57 |
+| A4 | Dime | 3:37 |
+| A5 | Carbon Monoxide | 3:09 |
+| B1 | The Guitar Man | 3:53 |
+| B2 | Waiting | 3:55 |
+| B3 | She'll Hang The Baskets | 2:42 |
+| B4 | End Of The Movie | 2:49 |
+| B5 | Palm Of Your Hand | 2:57 |
+| B6 | Tougher Than It Is | 3:00 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pressure-chief/159001685" >}}<br>
 
 
-## Videos
-### CAKE - Wheels Official Audio
-{{< youtube id="ZaKTWgUdkWY" title="CAKE - Wheels Official Audio" >}}<br>
-### More Videos
-
-- [Cake - No Phone Video](https://www.youtube.com/watch?v=I93XzY8nRso)
-- [Take It All Away](https://www.youtube.com/watch?v=2duqRuW1SCo)
-- [Dime](https://www.youtube.com/watch?v=5rk3mxeviXA)
-- [Carbon Monoxide](https://www.youtube.com/watch?v=K3DRkVjuqmc)
-- [CAKE - The Guitar Man Official HD Video](https://www.youtube.com/watch?v=KDv7ga2jxhM)
-- [Waiting](https://www.youtube.com/watch?v=u48Er961XHk)
-- [Shell Hang the Baskets](https://www.youtube.com/watch?v=-St-9rdmNeI)
-- [End of the Movie](https://www.youtube.com/watch?v=Kz0S5JHqiEA)
-- [Palm of Your Hand](https://www.youtube.com/watch?v=L4lyL2c44_c)
-- [Tougher Than It Is](https://www.youtube.com/watch?v=Y9i7PXVioeY)
 
 ## Release Images
 {{< imageGrid >}}

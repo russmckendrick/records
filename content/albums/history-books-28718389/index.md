@@ -33,31 +33,24 @@ The Jersey-bred band still pays homage to their chief influence Bruce Springstee
 
 
 ## Tracklisting
-1. Spider Bites (4:19)
-2. History Books (3:53)
-3. Autumn (4:01)
-4. Positive Charge (4:06)
-5. Michigan, 1975 (4:15)
-6. Little Fires (3:25)
-7. The Weatherman (4:27)
-8. Empires (4:23)
-9. I Live In The Room Above Her (4:17)
-10. A Lifetime Of Preludes (3:18)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Spider Bites | 4:19 |
+| A2 | History Books | 3:53 |
+| A3 | Autumn | 4:01 |
+| A4 | Positive Charge | 4:06 |
+| A5 | Michigan, 1975 | 4:15 |
+| B1 | Little Fires | 3:25 |
+| B2 | The Weatherman | 4:27 |
+| B3 | Empires | 4:23 |
+| B4 | I Live In The Room Above Her | 4:17 |
+| B5 | A Lifetime Of Preludes | 3:18 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/history-books/1694394095" >}}<br>
 
 
-## Videos
-### The Gaslight Anthem - History Books ft Bruce Springsteen - Official Video
-{{< youtube id="gyUgfrCegOs" title="The Gaslight Anthem - History Books ft Bruce Springsteen - Official Video" >}}<br>
-### More Videos
-
-- [The Gaslight Anthem - Positive Charge Official Video](https://www.youtube.com/watch?v=Rymbk5I_WlA)
-- [Michigan 1975](https://www.youtube.com/watch?v=78RtVG0EdEE)
-- [A Lifetime Of Preludes](https://www.youtube.com/watch?v=jcAjw049hQs)
-- [Empires](https://www.youtube.com/watch?v=o5VGuZbfi9A)
-- [The Weatherman](https://www.youtube.com/watch?v=wrrL_NhCBqs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +62,5 @@ The Jersey-bred band still pays homage to their chief influence Bruce Springstee
 | Format         | Vinyl LP Album Limited Edition (Yellow [Canary]) |
 | Label          | Thirty Tigers |
 | Catalog Number | 60124LP |
-| Notes | Hype Sticker: The New Album  Includes “History Books (feat. Bruce Springsteen)”  Indie Exclusive Canary Yellow Vinyl |
+| Notes | Hype Sticker:<br>The New Album<br><br>Includes “History Books (feat. Bruce Springsteen)”<br><br>Indie Exclusive<br>Canary Yellow Vinyl |
 | Discogs URL    | [The Gaslight Anthem - History Books](https://www.discogs.com/release/28718389-The-Gaslight-Anthem-History-Books) |

@@ -4,6 +4,7 @@ artist_name: "Anathema"
 artist: "anathema"
 album_name: "Weather Systems"
 date: 2016-03-29T16:25:48.000000Z
+release_date: "2012-04-16"
 release_id: "3549161"
 slug: "weather-systems-3549161"
 hideSummary: true
@@ -29,28 +30,28 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Untouchable Part 1
-2. Untouchable Part 2
-3. The Gathering Of The Clouds
-4. Lightning Song
-5. Sunlight
-6. The Storm Before The Calm
-7. The Beginning And The End
-8. The Lost Child
-9. Internal Landscapes
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Untouchable Part 1 |  |
+| A2 | Untouchable Part 2 |  |
+| B1 | The Gathering Of The Clouds |  |
+| B2 | Lightning Song |  |
+| B3 | Sunlight |  |
+| C1 | The Storm Before The Calm |  |
+| C2 | The Beginning And The End |  |
+| D1 | The Lost Child |  |
+| D2 | Internal Landscapes |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/weather-systems/674013181" >}}<br>
 
 
-## Videos
-### Anathema - Untouchable part one from Weather Systems
-{{< youtube id="av6sVWXeCWQ" title="Anathema - Untouchable part one from Weather Systems" >}}<br>
-### More Videos
-
-- [Anathema - Weather Systems 2012 Full Album](https://www.youtube.com/watch?v=H7EZkJkZYGU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +62,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl 2× LP Album (Gatefold) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE824 |
-| Notes | 180 gram vinyl in a gatefold sleeve with printed inner sleeves, and a download card.  Recorded at Parr Street Studios - Liverpool, Aerial Studios, Wrexham and at Christer's place, Oslo. Mixed at Christer's place. Mastered by Chris Sansom at Propeller mastering Oslo. Strings recorded by Steve Price at Angel Studios, London. Band photo by Rod Maurice for Le-HibOO. Photos reproduced courtesy of the National Oceanic & Atmospheric Administration. Management Andy Leff & Alx Leeks for Acme Music.  "Internal Landscapes" is dedicated to William Cavanagh.  Kscope is a Snapper Music label. ℗ 2012 Anathema © 2012 Anathema Made in Germany.  |
+| Notes | 180 gram vinyl in a gatefold sleeve with printed inner sleeves, and a download card.<br><br>Recorded at Parr Street Studios - Liverpool, Aerial Studios, Wrexham and at Christer's place, Oslo.<br>Mixed at Christer's place. Mastered by Chris Sansom at Propeller mastering Oslo.<br>Strings recorded by Steve Price at Angel Studios, London.<br>Band photo by Rod Maurice for Le-HibOO.<br>Photos reproduced courtesy of the National Oceanic & Atmospheric Administration.<br>Management Andy Leff & Alx Leeks for Acme Music.<br><br>"Internal Landscapes" is dedicated to William Cavanagh.<br><br>Kscope is a Snapper Music label.<br>℗ 2012 Anathema<br>© 2012 Anathema<br>Made in Germany.<br> |
 | Discogs URL    | [Anathema - Weather Systems](https://www.discogs.com/release/3549161-Anathema-Weather-Systems) |

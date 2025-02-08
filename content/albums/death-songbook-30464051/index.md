@@ -4,6 +4,7 @@ artist_name: "Paraorchestra"
 artist: "paraorchestra"
 album_name: "Death Songbook"
 date: 2024-04-27T05:28:02.000000Z
+release_date: "2024-04-19"
 release_id: "30464051"
 slug: "death-songbook-30464051"
 hideSummary: true
@@ -25,31 +26,31 @@ styles: ["Indie Pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Killing Moon (5:24)
-2. Unsung (4:04)
-3. Holes (Feat. Nadine Shah) (5:41)
-4. Nightporter (6:46)
-5. She Still Leads Me On (4:22)
-6. Wonderful Life (4:36)
-7. The Next Life (3:12)
-8. He's Dead (4:50)
-9. Enjoy The Silence (Feat. Gwenno) (4:07)
-10. The End Of The World (Feat. Nadine Shah) (3:12)
-11. My Death (6:33)
-12. Brutal Lover (3:31)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Killing Moon | 5:24 |
+| A2 | Unsung | 4:04 |
+| A3 | Holes (Feat. Nadine Shah) | 5:41 |
+| B1 | Nightporter | 6:46 |
+| B2 | She Still Leads Me On | 4:22 |
+| B3 | Wonderful Life | 4:36 |
+| C1 | The Next Life | 3:12 |
+| C2 | He's Dead | 4:50 |
+| C3 | Enjoy The Silence (Feat. Gwenno) | 4:07 |
+| D1 | The End Of The World (Feat. Nadine Shah) | 3:12 |
+| D2 | My Death | 6:33 |
+| D3 | Brutal Lover | 3:31 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/death-songbook-with-brett-anderson-charles-hazlewood/1725353225" >}}<br>
 
 
-## Videos
-### Paraorchestra with Brett Anderson  Charles Hazlewood - The Killing Moon
-{{< youtube id="fBKOdrfDCaY" title="Paraorchestra with Brett Anderson  Charles Hazlewood - The Killing Moon" >}}<br>
-### More Videos
-
-- [Paraorchestra with Brett Anderson  Charles Hazlewood - The Killing Moon](https://www.youtube.com/watch?v=fBKOdrfDCaY)
 
 ## Release Images
 {{< imageGrid >}}

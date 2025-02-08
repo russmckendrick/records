@@ -4,6 +4,7 @@ artist_name: "Kavus Torabi"
 artist: "kavus-torabi"
 album_name: "Hip To The Jag"
 date: 2020-04-17T12:45:43.000000Z
+release_date: "2020-05-22"
 release_id: "15073542"
 slug: "hip-to-the-jag-15073542"
 hideSummary: true
@@ -26,34 +27,30 @@ styles: ["Psychedelic Rock"]
 Hip to the Jag is the debut solo studio album by Iranian-born musician Kavus Torabi released on Believers Roast on 22 May 2020.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Chart The Way
-2. Silent The Rotor
-3. A Body Of Work
-4. The Peacock Throne
-5. You Broke My Fall
-6. Cemetery Of Light
-7. Radio To Their World
-8. My Cold Rebirth
-9. Where The Eyeless Walk
-10. Slow Movements
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Chart The Way |  |
+| A2 | Silent The Rotor |  |
+| A3 | A Body Of Work |  |
+| A4 | The Peacock Throne |  |
+| A5 | You Broke My Fall |  |
+| A6 | Cemetery Of Light |  |
+| B1 | Radio To Their World |  |
+| B2 | My Cold Rebirth |  |
+| B3 | Where The Eyeless Walk |  |
+| B4 | Slow Movements |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hip-to-the-jag/1504344922" >}}<br>
 
 
-## Videos
-### Kavus Torabi - Cemetery Of Light
-{{< youtube id="u_YbgWDWtbY" title="Kavus Torabi - Cemetery Of Light" >}}<br>
-### More Videos
-
-- [Radio to Their World](https://www.youtube.com/watch?v=6GTexztI2gw)
-- [Kavus Torabi - Cemetery Of Light](https://www.youtube.com/watch?v=u_YbgWDWtbY)
-- [Radio to Their World](https://www.youtube.com/watch?v=6GTexztI2gw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +62,5 @@ Hip to the Jag is the debut solo studio album by Iranian-born musician Kavus Tor
 | Format         | Vinyl LP Album Limited Edition Stereo |
 | Label          | Believers Roast |
 | Catalog Number | BR23 |
-| Notes | BR23   - on spine BR23v - on back  Limited edition of 500 - Black vinyl edition of Kavus' life enhancing debut solo album  180gsm vinyl housed in a 300gsm natural brown card finished in matt varnish and a printed inner sleeve on uncoated art paper.  Orders via bandcamp came with a signed A5 print of the album cover Pre-orders through the Burning Shed are signed on the front cover in the lower left.  Hip To The Jag, Kavus Torabi's debut solo album, is a blissfully skewed swan dive into the swirling cosmic kaleidoscope of the poet's soul. From spectral, intricate and fragile compositions to psychedelic, joyous and open drone-scapes, it is brave, beautiful and beguiling throughout. |
+| Notes | BR23   - on spine<br>BR23v - on back<br><br>Limited edition of 500 - Black vinyl edition of Kavus' life enhancing debut solo album<br><br>180gsm vinyl housed in a 300gsm natural brown card finished in matt varnish and a printed inner sleeve on uncoated art paper.<br><br>Orders via bandcamp came with a signed A5 print of the album cover<br>Pre-orders through the Burning Shed are signed on the front cover in the lower left.<br><br>Hip To The Jag, Kavus Torabi's debut solo album, is a blissfully skewed swan dive into the swirling cosmic kaleidoscope of the poet's soul. From spectral, intricate and fragile compositions to psychedelic, joyous and open drone-scapes, it is brave, beautiful and beguiling throughout. |
 | Discogs URL    | [Kavus Torabi - Hip To The Jag](https://www.discogs.com/release/15073542-Kavus-Torabi-Hip-To-The-Jag) |

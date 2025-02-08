@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "The Best Of Indie Top 20"
 date: 2019-04-26T12:45:43.000000Z
+release_date: ""
 release_id: "974961"
 slug: "the-best-of-indie-top-20-974961"
 hideSummary: true
@@ -25,53 +26,41 @@ styles: ["Leftfield", "Alternative Rock", "Downtempo", "Synth-pop", "Indie Rock"
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. 24 Hour Party People
-2. Stepping Stone
-3. Indian Rope
-4. Joe
-5. Mother Universe
-6. Forever Dancing
-7. Round & Round (Club Mix)
-8. Pro>gen
-9. All On You (Perfume)
-10. It's On
-11. Headhunter (VI)
-12. Personal Jesus
-13. Bloodsport For All
-14. Monkey Gone To Heaven
-15. Freak Scene
-16. Revolution
-17. Why Are You Being So Reasonable Now ?
-18. Sleep With Me
-19. Arc-lite
-20. Regina
-21. Joy
-22. Dreamtime
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 24 Hour Party People |  |
+| A2 | Stepping Stone |  |
+| A3 | Indian Rope |  |
+| A4 | Joe |  |
+| A5 | Mother Universe |  |
+| A6 | Forever Dancing |  |
+| B1 | Round & Round (Club Mix) |  |
+| B2 | Pro>gen |  |
+| B3 | All On You (Perfume) |  |
+| B4 | It's On |  |
+| B5 | Headhunter (VI) |  |
+| C1 | Personal Jesus |  |
+| C2 | Bloodsport For All |  |
+| C3 | Monkey Gone To Heaven |  |
+| C4 | Freak Scene |  |
+| C5 | Revolution |  |
+| D1 | Why Are You Being So Reasonable Now ? |  |
+| D2 | Sleep With Me |  |
+| D3 | Arc-lite |  |
+| D4 | Regina |  |
+| D5 | Joy |  |
+| D6 | Dreamtime |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### The Pixies - Monkey Gone To Heaven
-{{< youtube id="XycBLF6kWuY" title="The Pixies - Monkey Gone To Heaven" >}}<br>
-### More Videos
 
-- [24 Hour Party People - Happy Mondays Song](https://www.youtube.com/watch?v=N7sa9r0mvBs)
-- [The Wedding Present Why Are You Being So Reasonable Now promo video](https://www.youtube.com/watch?v=NEjiGjVyFPc)
-- [Paris Angels - Perfume All On You](https://www.youtube.com/watch?v=x-iUiIL1oLI)
-- [The Shamen - ProGen Beatmasters 7 Edit](https://www.youtube.com/watch?v=U8Stq8mhLas)
-- [THE SUNDAYS-JOYwmv](https://www.youtube.com/watch?v=FjoIRnJB2IA)
-- [Sugar cubes Regina](https://www.youtube.com/watch?v=PznnQ9nhWFU)
-- [Carter USM - Bloodsport For All](https://www.youtube.com/watch?v=IVZyuciwQn4)
-- [The Pixies - Monkey Gone To Heaven](https://www.youtube.com/watch?v=XycBLF6kWuY)
-- [24 Hour Party People - Happy Mondays Song](https://www.youtube.com/watch?v=N7sa9r0mvBs)
-- [The Wedding Present Why Are You Being So Reasonable Now promo video](https://www.youtube.com/watch?v=NEjiGjVyFPc)
-- [Paris Angels - Perfume All On You](https://www.youtube.com/watch?v=x-iUiIL1oLI)
-- [The Shamen - ProGen Beatmasters 7 Edit](https://www.youtube.com/watch?v=U8Stq8mhLas)
-- [THE SUNDAYS-JOYwmv](https://www.youtube.com/watch?v=FjoIRnJB2IA)
-- [Sugar cubes Regina](https://www.youtube.com/watch?v=PznnQ9nhWFU)
-- [Carter USM - Bloodsport For All](https://www.youtube.com/watch?v=IVZyuciwQn4)
 
 ## Release Images
 {{< imageGrid >}}

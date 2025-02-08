@@ -37,28 +37,24 @@ Recording the album and the subsequent tour exacerbated growing tensions and dif
 
 
 ## Tracklisting
-1. I Feel You (4:35)
-2. Walking In My Shoes (5:35)
-3. Condemnation (3:19)
-4. Mercy In You (4:17)
-5. Judas (5:13)
-6. In Your Room (6:24)
-7. Get Right With Me (3:52)
-8. Rush (4:36)
-9. One Caress (3:30)
-10. Higher Love (5:56)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Feel You | 4:35 |
+| A2 | Walking In My Shoes | 5:35 |
+| A3 | Condemnation | 3:19 |
+| A4 | Mercy In You | 4:17 |
+| A5 | Judas | 5:13 |
+| B1 | In Your Room | 6:24 |
+| B2 | Get Right With Me | 3:52 |
+| B3 | Rush | 4:36 |
+| B4 | One Caress | 3:30 |
+| B5 | Higher Love | 5:56 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/songs-of-faith-and-devotion/665404898" >}}<br>
 
 
-## Videos
-### Depeche Mode - One Caress Official Video
-{{< youtube id="fphsbLtrDe8" title="Depeche Mode - One Caress Official Video" >}}<br>
-### More Videos
-
-- [Depeche Mode   Songs of faith and Devotion 1993](https://www.youtube.com/watch?v=QQNizaPpcVY)
-- [Depeche Mode - Walking In My Shoes Official Video](https://www.youtube.com/watch?v=GrC_yuzO-Ss)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +66,5 @@ Recording the album and the subsequent tour exacerbated growing tensions and dif
 | Format         | Vinyl LP Album Reissue Remastered (Gatefold, 180 gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP943 |
-| Notes | ℗ & © 1993 Venusnote Limited / Mute Records Limited, a BMG company, under exclusive license to Music On Vinyl B.V. / Sony Music Entertainment Netherlands B.V. This version 2014 Music On Vinyl B.V.  Published by EMI Music Publishing Ltd. assigned by Grabbing Hands Music Overseas Ltd. except B2 and B4 assigned by Grabbing Hands Music Ltd.   Recorded at The Villa, Madrid and Chateau du Pape, Hamburg. Mixed at Olympic Studios, London. Remastered at Super Audio Mastering. Cut at The Exchange.  Plain black inner sleeve + insert designed as the original remaster inner. Contained in a resealable plastic bag with info sticker. |
+| Notes | ℗ & © 1993 Venusnote Limited / Mute Records Limited, a BMG company, under exclusive license to Music On Vinyl B.V. / Sony Music Entertainment Netherlands B.V. This version 2014 Music On Vinyl B.V.<br><br>Published by EMI Music Publishing Ltd. assigned by Grabbing Hands Music Overseas Ltd. except B2 and B4 assigned by Grabbing Hands Music Ltd. <br><br>Recorded at The Villa, Madrid and Chateau du Pape, Hamburg. Mixed at Olympic Studios, London. Remastered at Super Audio Mastering. Cut at The Exchange.<br><br>Plain black inner sleeve + insert designed as the original remaster inner. Contained in a resealable plastic bag with info sticker. |
 | Discogs URL    | [Depeche Mode - Songs Of Faith And Devotion](https://www.discogs.com/release/5349924-Depeche-Mode-Songs-Of-Faith-And-Devotion) |

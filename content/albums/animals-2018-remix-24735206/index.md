@@ -4,6 +4,7 @@ artist_name: "Pink Floyd"
 artist: "pink-floyd"
 album_name: "Animals (2018 Remix)"
 date: 2022-10-07T06:54:53.000000Z
+release_date: "2022-09-16"
 release_id: "24735206"
 slug: "animals-2018-remix-24735206"
 hideSummary: true
@@ -30,66 +31,65 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Pigs On The Wing 1 (1:25)
-2. Dogs (17:06)
-3. Pigs (Three Different Ones) (11:26)
-4. Sheep (10:17)
-5. Pigs On The Wing 2 (1:34)
-6. Pigs On The Wing 1 (1:25)
-7. Dogs (17:06)
-8. Pigs (Three Different Ones) (11:26)
-9. Sheep (10:17)
-10. Pigs On The Wing 2 (1:34)
-11. 2018 5.1 Surround Mix
-12. Pigs On The Wing 1 (1:27)
-13. Dogs (17:04)
-14. Pigs (Three Different Ones) (11:26)
-15. Sheep (10:18)
-16. Pigs On The Wing 2 (1:35)
-17. 2018 New Stereo Mix
-18. Pigs On The Wing 1 (1:27)
-19. Dogs (17:04)
-20. Pigs (Three Different Ones) (11:26)
-21. Sheep (10:18)
-22. Pigs On The Wing 2 (1:35)
-23. 1977 Original Stereo Mix
-24. Pigs On The Wing 1 (1:27)
-25. Dogs (17:04)
-26. Pigs (Three Different Ones) (11:26)
-27. Sheep (10:18)
-28. Pigs On The Wing 2 (1:35)
-29. 2018 New Stereo Mix
-30. Pigs On The Wing 1 (1:26)
-31. Dogs (17:05)
-32. Pigs (Three Different Ones) (11:26)
-33. Sheep (10:18)
-34. Pigs On The Wing 2 (1:34)
-35. 1977 Original Stereo Mix
-36. Pigs On The Wing 1 (1:26)
-37. Dogs (17:05)
-38. Pigs (Three Different Ones) (11:26)
-39. Sheep (10:18)
-40. Pigs On The Wing 2 (1:34)
-41. 2018 New Surround Mix
-42. Pigs On The Wing 1 (1:26)
-43. Dogs (17:05)
-44. Pigs (Three Different Ones) (11:26)
-45. Sheep (10:18)
-46. Pigs On The Wing 2 (1:34)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Pigs On The Wing 1 | 1:25 |
+| A2 | Dogs | 17:06 |
+| B1 | Pigs (Three Different Ones) | 11:26 |
+| B2 | Sheep | 10:17 |
+| B3 | Pigs On The Wing 2 | 1:34 |
+| CD-1 | Pigs On The Wing 1 | 1:25 |
+| CD-2 | Dogs | 17:06 |
+| CD-3 | Pigs (Three Different Ones) | 11:26 |
+| CD-4 | Sheep | 10:17 |
+| CD-5 | Pigs On The Wing 2 | 1:34 |
+|  | 2018 5.1 Surround Mix |  |
+| BD-1 | Pigs On The Wing 1 | 1:27 |
+| BD-2 | Dogs | 17:04 |
+| BD-3 | Pigs (Three Different Ones) | 11:26 |
+| BD-4 | Sheep | 10:18 |
+| BD-5 | Pigs On The Wing 2 | 1:35 |
+|  | 2018 New Stereo Mix |  |
+| BD-6 | Pigs On The Wing 1 | 1:27 |
+| BD-7 | Dogs | 17:04 |
+| BD-8 | Pigs (Three Different Ones) | 11:26 |
+| BD-9 | Sheep | 10:18 |
+| BD-10 | Pigs On The Wing 2 | 1:35 |
+|  | 1977 Original Stereo Mix |  |
+| BD-11 | Pigs On The Wing 1 | 1:27 |
+| BD-12 | Dogs | 17:04 |
+| BD-13 | Pigs (Three Different Ones) | 11:26 |
+| BD-14 | Sheep | 10:18 |
+| BD-15 | Pigs On The Wing 2 | 1:35 |
+|  | 2018 New Stereo Mix |  |
+| DVD-1 | Pigs On The Wing 1 | 1:26 |
+| DVD-2 | Dogs | 17:05 |
+| DVD-3 | Pigs (Three Different Ones) | 11:26 |
+| DVD-4 | Sheep | 10:18 |
+| DVD-5 | Pigs On The Wing 2 | 1:34 |
+|  | 1977 Original Stereo Mix |  |
+| DVD-6 | Pigs On The Wing 1 | 1:26 |
+| DVD-7 | Dogs | 17:05 |
+| DVD-8 | Pigs (Three Different Ones) | 11:26 |
+| DVD-9 | Sheep | 10:18 |
+| DVD-10 | Pigs On The Wing 2 | 1:34 |
+|  | 2018 New Surround Mix |  |
+| DVD-11 | Pigs On The Wing 1 | 1:26 |
+| DVD-12 | Dogs | 17:05 |
+| DVD-13 | Pigs (Three Different Ones) | 11:26 |
+| DVD-14 | Sheep | 10:18 |
+| DVD-15 | Pigs On The Wing 2 | 1:34 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/animals-2018-remix/1632196339" >}}<br>
 
 
-## Videos
-### Pink Floyd -1st UK press vinyl - Animals - side 1
-{{< youtube id="EnQOQ7aki30" title="Pink Floyd -1st UK press vinyl - Animals - side 1" >}}<br>
-### More Videos
-
-- [Pink Floyd -1st UK press vinyl - Animals - side 2](https://www.youtube.com/watch?v=loblTGvJC2M)
-- [Pink Floyd - Sheep 1977 Philippines Pressing - Vinyl recording HD](https://www.youtube.com/watch?v=DRBcfMpJg08)
 
 ## Release Images
 {{< imageGrid >}}
@@ -100,5 +100,5 @@ styles: ["Prog Rock"]
 | Format         | Box Set Deluxe Edition Limited Edition, Vinyl LP Album Reissue Stereo, CD Album Reissue Stereo, Blu-ray Album Reissue Remastered Stereo Multichannel, DVD DVD-Video Multichannel Album Reissue Remastered Stereo |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFR28D |
-| Notes | Original UK release date: January 1977.  Box set with 32-page book. Large black rectangular hype sticker (Artist name and title together with other relevant info) affixed to the shrinkwrap on the front  Blu-Ray Audio Mixes: 2018 Remix - Stereo: 24-bit/192kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA 2018 Remix - 5.1 Surround: 24-bit/96kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA 1977 Original Stereo: 24-bit/192kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA  DVD Audio Mixes: 2018 Remix - Stereo: 24-bit/48kHz Uncompressed (PCM) 2018 Remix - 5.1 Surround: Dolby Digital @ 640kbps and 448 kbps. 1977 Original Stereo: 24-bit/48kHz Uncompressed (PCM)  Made in The Netherlands on back of box. CD made in Germany Blu-ray and DVD made in Japan  The [l2831498] logo in a matrix indicates Blu-ray production technology licensed through One-Blue.  |
+| Notes | Original UK release date: January 1977.<br><br>Box set with 32-page book.<br>Large black rectangular hype sticker (Artist name and title together with other relevant info) affixed to the shrinkwrap on the front<br><br>Blu-Ray Audio Mixes:<br>2018 Remix - Stereo: 24-bit/192kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA<br>2018 Remix - 5.1 Surround: 24-bit/96kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA<br>1977 Original Stereo: 24-bit/192kHz Uncompressed (PCM), and 24-bit/96kHz dts-HD MA<br><br>DVD Audio Mixes:<br>2018 Remix - Stereo: 24-bit/48kHz Uncompressed (PCM)<br>2018 Remix - 5.1 Surround: Dolby Digital @ 640kbps and 448 kbps.<br>1977 Original Stereo: 24-bit/48kHz Uncompressed (PCM)<br><br>Made in The Netherlands on back of box.<br>CD made in Germany<br>Blu-ray and DVD made in Japan<br><br>The [l2831498] logo in a matrix indicates Blu-ray production technology licensed through One-Blue.<br> |
 | Discogs URL    | [Pink Floyd - Animals (2018 Remix)](https://www.discogs.com/release/24735206-Pink-Floyd-Animals-2018-Remix) |

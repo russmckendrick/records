@@ -4,6 +4,7 @@ artist_name: "Iron Maiden"
 artist: "iron-maiden"
 album_name: "Fear Of The Dark"
 date: 2017-06-10T11:13:39.000000Z
+release_date: "1992-05-11"
 release_id: "10315981"
 slug: "fear-of-the-dark-10315981"
 hideSummary: true
@@ -31,44 +32,32 @@ Fear of the Dark is the ninth studio album by English heavy metal band Iron Maid
 It was also the first album to be produced by bassist and band founder Steve Harris, and the last album to feature the work of producer Martin Birch, who retired after its release.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Be Quick Or Be Dead
-2. From Here To Eternity
-3. Afraid To Shoot Strangers
-4. Fear Is The Key
-5. Childhood's End
-6. Wasting Love
-7. The Fugitive
-8. Chains Of Misery
-9. The Apparition
-10. Judas Be My Guide
-11. Weekend Warrior
-12. Fear Of The Dark
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Be Quick Or Be Dead |  |
+| A2 | From Here To Eternity |  |
+| A3 | Afraid To Shoot Strangers |  |
+| B1 | Fear Is The Key |  |
+| B2 | Childhood's End |  |
+| B3 | Wasting Love |  |
+| C1 | The Fugitive |  |
+| C2 | Chains Of Misery |  |
+| C3 | The Apparition |  |
+| D1 | Judas Be My Guide |  |
+| D2 | Weekend Warrior |  |
+| D3 | Fear Of The Dark |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fear-of-the-dark/979946632" >}}<br>
 
 
-## Videos
-### Iron Maiden - Be Quick Or Be Dead Official Video
-{{< youtube id="CTt1vk9nM9c" title="Iron Maiden - Be Quick Or Be Dead Official Video" >}}<br>
-### More Videos
-
-- [Iron Maiden - From Here To Eternity Official Video](https://www.youtube.com/watch?v=MhUUTvgjUFQ)
-- [Iron Maiden - Afraid To Shoot Strangers Official Video](https://www.youtube.com/watch?v=0c9iYZdsZMM)
-- [Fear Is the Key 2015 Remaster](https://www.youtube.com/watch?v=SOledhOU05c)
-- [Childhoods End 2015 Remaster](https://www.youtube.com/watch?v=W29NlxCZxb0)
-- [Iron Maiden - Wasting Love Official Video](https://www.youtube.com/watch?v=SbWeP7KkeCU)
-- [The Fugitive 2015 Remaster](https://www.youtube.com/watch?v=WG6_gYpgH3I)
-- [Chains of Misery 2015 Remaster](https://www.youtube.com/watch?v=xmi8p8KncCE)
-- [The Apparition 2015 Remaster](https://www.youtube.com/watch?v=KcJlkqMC7dg)
-- [Judas Be My Guide 2015 Remaster](https://www.youtube.com/watch?v=dnm2rA0KYOA)
-- [Weekend Warrior 2015 Remaster](https://www.youtube.com/watch?v=FOOJF_RGu4s)
-- [Fear of the Dark 2015 Remaster](https://www.youtube.com/watch?v=bePCRKGUwAY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +69,5 @@ It was also the first album to be produced by bassist and band founder Steve Har
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold) |
 | Label          | Parlophone |
 | Catalog Number | 0190295852344 |
-| Notes | 180 Gram Black Vinyl Original Album Art And High Res Audio Remasters  The remasters are the 2015 digital remasters  Recorded and Mixed at Barnyard Studios, Essex, England  Original ℗ 1992. Remastered ℗ 2015. The copyright in this sound recording is owned by: Iron Maiden LLP under exclusive license to Parlophone Records Limited., A Warner Music Group Company.  This label copy information is the subject of copyright protection. All rights reserved. ©2017 Iron Maiden LLP. Administered by Imagem London Limited. Made in the EU.  Discs are in black inner sleeves. |
+| Notes | 180 Gram Black Vinyl<br>Original Album Art And High Res Audio Remasters<br><br>The remasters are the 2015 digital remasters<br><br>Recorded and Mixed at Barnyard Studios, Essex, England<br><br>Original ℗ 1992. Remastered ℗ 2015. The copyright in this sound recording is owned by: Iron Maiden LLP under exclusive license to Parlophone Records Limited., A Warner Music Group Company. <br>This label copy information is the subject of copyright protection. All rights reserved. ©2017 Iron Maiden LLP. Administered by Imagem London Limited. Made in the EU.<br><br>Discs are in black inner sleeves. |
 | Discogs URL    | [Iron Maiden - Fear Of The Dark](https://www.discogs.com/release/10315981-Iron-Maiden-Fear-Of-The-Dark) |

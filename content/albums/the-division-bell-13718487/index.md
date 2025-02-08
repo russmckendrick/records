@@ -50,42 +50,25 @@ The Division Bell received mixed reviews, but reached number one in more than 10
 
 
 ## Tracklisting
-1. Cluster One (5:58)
-2. What Do You Want From Me (4:21)
-3. Poles Apart (7:04)
-4. Marooned (5:29)
-5. A Great Day For Freedom (4:17)
-6. Wearing The Inside Out (6:49)
-7. Take It Back (6:12)
-8. Coming Back To Life (6:19)
-9. Keep Talking (6:11)
-10. Lost For Words (5:14)
-11. High Hopes (8:31)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cluster One | 5:58 |
+| A2 | What Do You Want From Me | 4:21 |
+| A3 | Poles Apart | 7:04 |
+| B1 | Marooned | 5:29 |
+| B2 | A Great Day For Freedom | 4:17 |
+| B3 | Wearing The Inside Out | 6:49 |
+| C1 | Take It Back | 6:12 |
+| C2 | Coming Back To Life | 6:19 |
+| C3 | Keep Talking | 6:11 |
+| D1 | Lost For Words | 5:14 |
+| D2 | High Hopes | 8:31 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-division-bell/704316542" >}}<br>
 
 
-## Videos
-### Pink Floyd - High Hopes Official Music Video HD
-{{< youtube id="7jMlFXouPk8" title="Pink Floyd - High Hopes Official Music Video HD" >}}<br>
-### More Videos
-
-- [Pink Floyd - Take It Back Official Music Video HD](https://www.youtube.com/watch?v=Y5rde4bRIZA)
-- [Pink Floyd - Keep Talking Official Lyrics Video](https://www.youtube.com/watch?v=wbOTkDn49qI)
-- [Cluster One](https://www.youtube.com/watch?v=hoEDw18mkbU)
-- [What Do You Want From Me](https://www.youtube.com/watch?v=KmlZ1WhlYsM)
-- [Poles Apart](https://www.youtube.com/watch?v=5ciWB7VykII)
-- [Pink Floyd - Marooned Official Music Video HD](https://www.youtube.com/watch?v=P7YMI39sObY)
-- [A Great Day For Freedom](https://www.youtube.com/watch?v=01F1leQgsEc)
-- [Wearing The Inside Out](https://www.youtube.com/watch?v=i8cV1ua0wYA)
-- [Take It Back](https://www.youtube.com/watch?v=pyk8tj95620)
-- [Coming Back To Life](https://www.youtube.com/watch?v=tC8631Kqzb0)
-- [Keep Talking](https://www.youtube.com/watch?v=XKjwvvmEn2M)
-- [Lost For Words](https://www.youtube.com/watch?v=FKROYzWRiQ0)
-- [High Hopes](https://www.youtube.com/watch?v=lku1fP-LszI)
-- [Pink Floyd - 1st UK press - Division Bell - side one - 192 Khz](https://www.youtube.com/watch?v=eorcJlowW4I)
-- [Pink Floyd - 1st UK press - Division Bell - side 2 - 192 Khz](https://www.youtube.com/watch?v=z_EenHiH-NI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -97,5 +80,5 @@ The Division Bell received mixed reviews, but reached number one in more than 10
 | Format         | Vinyl 2× LP Album Limited Edition Reissue Remastered Repress (Blue) |
 | Label          | Parlophone |
 | Catalog Number | 0190295477394 |
-| Notes | 25th Anniversary Blue Heavyweight Vinyl  Gatefold Sleeve Plus Full Colour Lyric Inner Sleeves Mastered From The Original Analogue Tapes With a Special Appearance by Stephen Hawking in "Keep Talkin"   Ⓟ 2019 Pink Floyd (1987) Ltd, marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company. Ⓒ 2019 Pink Floyd (1987) Ltd, The copyright in this sound recording and artwork is owned by Pink Floyd (1987) Ltd. This label copy is the subject of copyright protection. All rights reserved. Made in the E.U.  [Runouts] All runout data is etched except for The Mastering Lab mark "TML-M" which is stamped  |
+| Notes | 25th Anniversary Blue Heavyweight Vinyl <br>Gatefold Sleeve Plus Full Colour Lyric Inner Sleeves Mastered From The Original Analogue Tapes<br>With a Special Appearance by Stephen Hawking in "Keep Talkin" <br><br>Ⓟ 2019 Pink Floyd (1987) Ltd, marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company.<br>Ⓒ 2019 Pink Floyd (1987) Ltd, The copyright in this sound recording and artwork is owned by Pink Floyd (1987) Ltd. This label copy is the subject of copyright protection.<br>All rights reserved. Made in the E.U.<br><br>[Runouts]<br>All runout data is etched except for The Mastering Lab mark "TML-M" which is stamped  |
 | Discogs URL    | [Pink Floyd - The Division Bell](https://www.discogs.com/release/13718487-Pink-Floyd-The-Division-Bell) |

@@ -4,6 +4,7 @@ artist_name: "Paul Draper"
 artist: "paul-draper"
 album_name: "EP Two"
 date: 2017-08-12T08:11:00.000000Z
+release_date: "2016-11-25"
 release_id: "9446803"
 slug: "ep-two-9446803"
 hideSummary: true
@@ -21,26 +22,24 @@ Two (also referred to as epTwo) is the second EP release by British alternative 
 It features live favourite "Remmus" and two other songs - "Soapbox rally" and the original version of "Shine". "Shine" would later appear on their debut album Ideas Above Our Station. The CD also features the video for "Remmus".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Friends Make The Worst Enemies (5:06)
-2. Some Things Are Better Left Unsaid (2:38)
-3. Don't You Wait, It Might Never Come (3:52)
-4. Friends Make The Worst Enemies (Acoustic) (4:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Friends Make The Worst Enemies | 5:06 |
+| A2 | Some Things Are Better Left Unsaid | 2:38 |
+| B1 | Don't You Wait, It Might Never Come | 3:52 |
+| B2 | Friends Make The Worst Enemies (Acoustic) | 4:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ep-two-ep/1163304346" >}}<br>
 
 
-## Videos
-### Paul Draper - EP TWO Full EP stream
-{{< youtube id="bcdTlvuXUEA" title="Paul Draper - EP TWO Full EP stream" >}}<br>
-### More Videos
-
-- [Paul Draper - EP TWO Full EP stream](https://www.youtube.com/watch?v=bcdTlvuXUEA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -52,5 +51,5 @@ It features live favourite "Remmus" and two other songs - "Soapbox rally" and th
 | Format         | Vinyl 12" 45 RPM EP Limited Edition Numbered (Clear) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE935 |
-| Notes | Limited edition, numbered clear vinyl. Includes download card.  Circle sticker on front: Paul Draper EP Two New from the former frontman of Mansun [logo]. 'An Unmistakable Voice and an ear for uttery addictive melody whatever the musical setting' LOUDER THAN WAR  |
+| Notes | Limited edition, numbered clear vinyl. Includes download card.<br><br>Circle sticker on front: Paul Draper EP Two New from the former frontman of Mansun [logo].<br>'An Unmistakable Voice and an ear for uttery addictive melody whatever the musical setting'<br>LOUDER THAN WAR<br> |
 | Discogs URL    | [Paul Draper - EP Two](https://www.discogs.com/release/9446803-Paul-Draper-EP-Two) |

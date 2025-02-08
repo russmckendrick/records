@@ -4,6 +4,7 @@ artist_name: "Cleft"
 artist: "cleft"
 album_name: "Bosh!"
 date: 2015-09-22T17:41:46.000000Z
+release_date: "2014-02-10"
 release_id: "7385545"
 slug: "bosh-7385545"
 hideSummary: true
@@ -23,29 +24,29 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. 12 Second Panda (4:16)
-2. Tamed Beests (3:30)
-3. Alec Baldwins's Hair (2:14)
-4. Gutter Brush (2:43)
-5. Ghost Thighs (3:58)
-6. Elephant In The Bar Room (feat. Matt Franklin) (3:42)
-7. Drop A Bastard (3:43)
-8. Buffet Remorse (4:48)
-9. Pudendal (2:39)
-10. Hostage (3:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 12 Second Panda | 4:16 |
+| A2 | Tamed Beests | 3:30 |
+| A3 | Alec Baldwins's Hair | 2:14 |
+| A4 | Gutter Brush | 2:43 |
+| A5 | Ghost Thighs | 3:58 |
+| B1 | Elephant In The Bar Room (feat. Matt Franklin) | 3:42 |
+| B2 | Drop A Bastard | 3:43 |
+| B3 | Buffet Remorse | 4:48 |
+| B4 | Pudendal | 2:39 |
+| B5 | Hostage | 3:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bosh/780505469" >}}<br>
 
 
-## Videos
-### Cleft live in session - Hostage
-{{< youtube id="qot35mfF_ls" title="Cleft live in session - Hostage" >}}<br>
-### More Videos
-
-- [Recording the BOSH album  Cleft do a gear nerd walkthrough in the recording studio](https://www.youtube.com/watch?v=gXTYMla2hew)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,5 +57,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 12" Album Limited Edition Misprint Numbered Repress (Blue Transparent) |
 | Label          | Mega Face Records |
 | Catalog Number | MFR03 |
-| Notes | 300 pressings on 12" transparent blue vinyl.  Track A3's title is incorrectly printed as "Alec Balwin's Hair" on the sleeve. |
+| Notes | 300 pressings on 12" transparent blue vinyl.<br><br>Track A3's title is incorrectly printed as "Alec Balwin's Hair" on the sleeve. |
 | Discogs URL    | [Cleft - Bosh!](https://www.discogs.com/release/7385545-Cleft-Bosh) |

@@ -4,6 +4,7 @@ artist_name: "Easy Star All-Stars"
 artist: "easy-star-all-stars"
 album_name: "Ziggy Stardub"
 date: 2023-04-23T04:38:33.000000Z
+release_date: "2023-04-21"
 release_id: "26844965"
 slug: "ziggy-stardub-26844965"
 hideSummary: true
@@ -24,62 +25,30 @@ styles: ["Reggae", "Reggae-Pop", "Dub"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Five Years (3:49)
-2. Soul Love (3:55)
-3. Moonage Daydream (4:30)
-4. Starman (4:17)
-5. It Ain't Easy (2:50)
-6. Lady Stardust (3:27)
-7. Star (2:32)
-8. Hang On To Yourself (3:11)
-9. Ziggy Stardust (3:35)
-10. Suffragette City (3:29)
-11. Rock 'N' Roll Suicide (3:14)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Five Years | 3:49 |
+| A2 | Soul Love | 3:55 |
+| A3 | Moonage Daydream | 4:30 |
+| A4 | Starman | 4:17 |
+| A5 | It Ain't Easy | 2:50 |
+| B1 | Lady Stardust | 3:27 |
+| B2 | Star | 2:32 |
+| B3 | Hang On To Yourself | 3:11 |
+| B4 | Ziggy Stardust | 3:35 |
+| B5 | Suffragette City | 3:29 |
+| B6 | Rock 'N' Roll Suicide | 3:14 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ziggy-stardub/1660346908" >}}<br>
 
 
-## Videos
-### EASY STAR ALL-STARS - FIVE YEARS FT STEEL PULSE OFFICIAL MUSIC VIDEO
-{{< youtube id="GE606BMUK0I" title="EASY STAR ALL-STARS - FIVE YEARS FT STEEL PULSE OFFICIAL MUSIC VIDEO" >}}<br>
-### More Videos
-
-- [Soul Love feat Mortimer](https://www.youtube.com/watch?v=aWfz7BqFpEk)
-- [Moonage Daydream](https://www.youtube.com/watch?v=3Sl6eGVeMtU)
-- [Starman](https://www.youtube.com/watch?v=xajye1EnIg0)
-- [It Aint Easy feat Samory I](https://www.youtube.com/watch?v=265zBQuLyIA)
-- [Lady Stardust feat SunDub](https://www.youtube.com/watch?v=fwjNH-DyjaU)
-- [Star feat Carlton Livingston](https://www.youtube.com/watch?v=HPJoGNEAzs4)
-- [Hang on to Yourself feat Fishbone and JonnyGO Figure](https://www.youtube.com/watch?v=Lj1Arh_EkPo)
-- [Ziggy Stardust feat The Skints](https://www.youtube.com/watch?v=R2cELRztRUo)
-- [Suffragette City feat The Expanders](https://www.youtube.com/watch?v=xALGhE_0m2w)
-- [Easy Star All-Stars - Rock n Roll Suicide ft Macy Gray](https://www.youtube.com/watch?v=iVqeHCl-H_g)
-- [All the Young Dudes feat Kirsty Rock](https://www.youtube.com/watch?v=_sX6PBqFMzo)
-- [Five Years Dub](https://www.youtube.com/watch?v=Oj2dP5HIzBg)
-- [Moonage Daydream Dub](https://www.youtube.com/watch?v=jAthsHyF3RI)
-- [Lady Stardust Dub](https://www.youtube.com/watch?v=gNyXFNHA0ic)
-- [Ziggy Stardust](https://www.youtube.com/watch?v=nvxqBQgQIbQ)
-- [Easy Star All-Stars - Ziggy Stardub Full Album 2023](https://www.youtube.com/watch?v=nOPubP1Z-z0)
-- [EASY STAR ALL-STARS - FIVE YEARS FT STEEL PULSE OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=GE606BMUK0I)
-- [Soul Love feat Mortimer](https://www.youtube.com/watch?v=aWfz7BqFpEk)
-- [Moonage Daydream](https://www.youtube.com/watch?v=3Sl6eGVeMtU)
-- [Starman](https://www.youtube.com/watch?v=xajye1EnIg0)
-- [It Aint Easy feat Samory I](https://www.youtube.com/watch?v=265zBQuLyIA)
-- [Lady Stardust feat SunDub](https://www.youtube.com/watch?v=fwjNH-DyjaU)
-- [Star feat Carlton Livingston](https://www.youtube.com/watch?v=HPJoGNEAzs4)
-- [Hang on to Yourself feat Fishbone and JonnyGO Figure](https://www.youtube.com/watch?v=Lj1Arh_EkPo)
-- [Ziggy Stardust feat The Skints](https://www.youtube.com/watch?v=R2cELRztRUo)
-- [Suffragette City feat The Expanders](https://www.youtube.com/watch?v=xALGhE_0m2w)
-- [Easy Star All-Stars - Rock n Roll Suicide ft Macy Gray](https://www.youtube.com/watch?v=iVqeHCl-H_g)
-- [All the Young Dudes feat Kirsty Rock](https://www.youtube.com/watch?v=_sX6PBqFMzo)
-- [Five Years Dub](https://www.youtube.com/watch?v=Oj2dP5HIzBg)
-- [Moonage Daydream Dub](https://www.youtube.com/watch?v=jAthsHyF3RI)
-- [Lady Stardust Dub](https://www.youtube.com/watch?v=gNyXFNHA0ic)
-- [Ziggy Stardust](https://www.youtube.com/watch?v=nvxqBQgQIbQ)
-- [Easy Star All-Stars - Ziggy Stardub Full Album 2023](https://www.youtube.com/watch?v=nOPubP1Z-z0)
 
 ## Release Images
 {{< imageGrid >}}

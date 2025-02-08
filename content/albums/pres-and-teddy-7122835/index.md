@@ -4,6 +4,7 @@ artist_name: "The Lester Young-Teddy Wilson Quartet"
 artist: "the-lester-young-teddy-wilson-quartet"
 album_name: "Pres And Teddy"
 date: 2017-02-19T10:40:58.000000Z
+release_date: "1959-04-01"
 release_id: "7122835"
 slug: "pres-and-teddy-7122835"
 hideSummary: true
@@ -24,34 +25,26 @@ Pres and Teddy is a jazz album by The Lester Young and Teddy Wilson Quartet, rec
 The album includes six standard swing jazz songs with one original composition, "Pres Returns." In spite of Young's failing health, this studio album is critically acclaimed as one of best of his best later works, and among the best albums produced by Verve Record's founder Norman Granz.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. All Of Me
-2. Prisoner Of Love
-3. Louise
-4. Love Me Or Leave Me
-5. Taking A Chance On Love
-6. Our Love Is Here To Stay
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | All Of Me |  |
+| A2 | Prisoner Of Love |  |
+| A3 | Louise |  |
+| B1 | Love Me Or Leave Me |  |
+| B2 | Taking A Chance On Love |  |
+| B3 | Our Love Is Here To Stay |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pres-and-teddy/1425259073" >}}<br>
 
 
-## Videos
-### Lester Young  Teddy Wilson   Pres and Teddy
-{{< youtube id="tDesCGeGLL4" title="Lester Young  Teddy Wilson   Pres and Teddy" >}}<br>
-### More Videos
-
-- [All Of Me](https://www.youtube.com/watch?v=cH77OyCq7PU)
-- [Prisoner of love - The Lester Young and Teddy Wilson Quartet](https://www.youtube.com/watch?v=i0-gOlp56Ok)
-- [Lester Young  Teddy Wilson Quartet_Louise](https://www.youtube.com/watch?v=NYc_X29JAdM)
-- [The Lester Young  Teddy Wilson Quartet  - Pres Returns](https://www.youtube.com/watch?v=lvBjc-nBBBI)
-- [Lester Young-Teddy Wilson Quartet  Love Me or Leave Me](https://www.youtube.com/watch?v=5GvTHaawtHg)
-- [Prisoner Of Love](https://www.youtube.com/watch?v=yJb-03xp2ZU)
-- [Lester Young - Our Love Is Here to Stay](https://www.youtube.com/watch?v=xWoGC0SFWzo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +56,5 @@ The album includes six standard swing jazz songs with one original composition, 
 | Format         | Vinyl LP Album Reissue Stereo (180g) |
 | Label          | Verve Records |
 | Catalog Number | 0600753520390 |
-| Notes | ℗ 1956 © 2014 The Verve Music Group, a Divisoin of UMG Recordings, Inc. Comes with a [l197898] mp3 free download coupon with [l138199] logo printed on it. Made in the EU |
+| Notes | ℗ 1956 © 2014 The Verve Music Group, a Divisoin of UMG Recordings, Inc.<br>Comes with a [l197898] mp3 free download coupon with [l138199] logo printed on it.<br>Made in the EU |
 | Discogs URL    | [The Lester Young-Teddy Wilson Quartet - Pres And Teddy](https://www.discogs.com/release/7122835-The-Lester-Young-Teddy-Wilson-Quartet-Pres-And-Teddy) |

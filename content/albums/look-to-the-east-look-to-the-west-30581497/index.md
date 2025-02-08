@@ -4,6 +4,7 @@ artist_name: "Camera Obscura"
 artist: "camera-obscura"
 album_name: "Look To The East, Look To The West"
 date: 2024-05-04T03:26:23.000000Z
+release_date: "2024-05-03"
 release_id: "30581497"
 slug: "look-to-the-east-look-to-the-west-30581497"
 hideSummary: true
@@ -21,41 +22,37 @@ styles: ["Alt-Pop", "Indie Pop"]
 ---
 
 Look to the East, Look to the West is the sixth studio album by the Scottish indie pop band Camera Obscura, released on 3 May 2024 via Merge Records. It is their first album in 11 years and the first since the death of keyboardist and backing vocalist Carey Lander in 2015; Donna Maciocia (formerly a member of Amplifico), who joined the band as a permanent member in 2023, fills out her role. The album is produced by Jari Haapalainen, who previously worked on Let's Get Out of This Country (2006) and My Maudlin Career (2009).
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Liberty Print
-2. We're Going To Make It In A Man's World
-3. Big Love
-4. Only A Dream
-5. The Light Nights
-6. Sleepwalking
-7. Baby Huey (Hard Times)
-8. Denon
-9. Pop Goes Pop
-10. Sugar Almond
-11. Look To The East, Look To The West
-12. Look To The Demos
-13. Baby Huey (Hard Times)
-14. Denon
-15. Liberty Print
-16. Only A Dream
-17. The Light Nights
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Liberty Print |  |
+| A2 | We're Going To Make It In A Man's World |  |
+| A3 | Big Love |  |
+| A4 | Only A Dream |  |
+| A5 | The Light Nights |  |
+| B1 | Sleepwalking |  |
+| B2 | Baby Huey (Hard Times) |  |
+| B3 | Denon |  |
+| B4 | Pop Goes Pop |  |
+| B5 | Sugar Almond |  |
+| B6 | Look To The East, Look To The West |  |
+|  | Look To The Demos |  |
+| 1 | Baby Huey (Hard Times) |  |
+| 2 | Denon |  |
+| 3 | Liberty Print |  |
+| 4 | Only A Dream |  |
+| 5 | The Light Nights |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/look-to-the-east-look-to-the-west/1725013147" >}}<br>
 
 
-## Videos
-### Camera Obscura - Liberty Print Official Audio
-{{< youtube id="Asp2Wrnpz8M" title="Camera Obscura - Liberty Print Official Audio" >}}<br>
-### More Videos
-
-- [Camera Obscura - Were Going to Make It in a Mans World Official Audio](https://www.youtube.com/watch?v=dItvD99YUls)
-- [Camera Obscura - Big Love Official Music Video](https://www.youtube.com/watch?v=raC2EfuOi5Q)
-- [Only a Dream](https://www.youtube.com/watch?v=12-8QJvGBhQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +64,5 @@ Look to the East, Look to the West is the sixth studio album by the Scottish ind
 | Format         | Vinyl LP Album Limited Edition Stereo (Opaque Violet), CD EP Limited Edition |
 | Label          | Merge Records |
 | Catalog Number | MRG839 |
-| Notes | Limited to 1500 copies  Sticker says:  ROUGH TRADE EXCLUSIVE LIMITED EDITION OPAQUE VIOLET VINYL INCLUDES LOOK TO THE DEMOS 5-TRACK CD MERGE RECORDS |
+| Notes | Limited to 1500 copies<br><br>Sticker says:<br><br>ROUGH TRADE EXCLUSIVE<br>LIMITED EDITION<br>OPAQUE VIOLET VINYL<br>INCLUDES LOOK TO THE DEMOS<br>5-TRACK CD<br>MERGE RECORDS |
 | Discogs URL    | [Camera Obscura - Look To The East, Look To The West](https://www.discogs.com/release/30581497-Camera-Obscura-Look-To-The-East-Look-To-The-West) |

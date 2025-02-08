@@ -4,6 +4,7 @@ artist_name: "Pavement"
 artist: "pavement"
 album_name: "Terror Twilight"
 date: 2017-06-01T18:07:11.000000Z
+release_date: "1999-06-08"
 release_id: "3014122"
 slug: "terror-twilight-3014122"
 hideSummary: true
@@ -24,39 +25,31 @@ styles: ["Indie Rock"]
 
 Terror Twilight is the fifth and final studio album by the American indie rock band Pavement. It was released on June 8, 1999, on Matador Records in the US and Domino Recording Company in the UK.
 Terror Twilight was produced by Nigel Godrich, who hoped to create a "straighter" album and bring Pavement to a wider audience. He and the band disagreed over some choices, and the songwriter, Stephen Malkmus, later expressed dissatisfaction with the album. It received positive reviews. After finishing the tour for the album, Pavement disbanded. In 2022, Matador released an expanded reissue, Terror Twilight: Farewell Horizontal.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Spit On A Stranger (3:04)
-2. Folk Jam (3:34)
-3. You Are A Light (3:54)
-4. Cream Of Gold (3:47)
-5. Major Leagues (3:25)
-6. Platform Blues (4:42)
-7. Ann Don't Cry (4:09)
-8. Billie (3:44)
-9. Speak, See, Remember (4:20)
-10. The Hexx (5:39)
-11. ...And Carrot Rope (3:52)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Spit On A Stranger | 3:04 |
+| A2 | Folk Jam | 3:34 |
+| A3 | You Are A Light | 3:54 |
+| A4 | Cream Of Gold | 3:47 |
+| A5 | Major Leagues | 3:25 |
+| A6 | Platform Blues | 4:42 |
+| B1 | Ann Don't Cry | 4:09 |
+| B2 | Billie | 3:44 |
+| B3 | Speak, See, Remember | 4:20 |
+| B4 | The Hexx | 5:39 |
+| B5 | ...And Carrot Rope | 3:52 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/terror-twilight/1589125798" >}}<br>
 
 
-## Videos
-### Pavement - Spit On A Stranger Official Video
-{{< youtube id="JJFGhFtKxPc" title="Pavement - Spit On A Stranger Official Video" >}}<br>
-### More Videos
-
-- [Pavement - Major Leagues Official Video](https://www.youtube.com/watch?v=qWmXoHLF0LE)
-- [Pavement - Carrot Rope Official Video](https://www.youtube.com/watch?v=G53DW71BlNk)
-- [Terror Twilight Speak See Remember](https://www.youtube.com/watch?v=OwQQ3sSPl7M)
-- [You Are a Light](https://www.youtube.com/watch?v=QCfTrMX4Xj0)
-- [Billie](https://www.youtube.com/watch?v=Vi7yF7rzfRc)
-- [Terror Twilight Speak See Remember](https://www.youtube.com/watch?v=V3G3ywHXtN4)
-- [Ground Beefheart Platform Blues](https://www.youtube.com/watch?v=luCQzgySaBA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +61,5 @@ Terror Twilight was produced by Nigel Godrich, who hoped to create a "straighter
 | Format         | Vinyl LP Reissue (180 gram) |
 | Label          | Domino |
 | Catalog Number | WIGLP 66 |
-| Notes | Sticker says :180gm heavyweight vinyl comes with mp3s!    Comes with printed inner sleeve and free download code.   |
+| Notes | Sticker says :180gm heavyweight vinyl comes with mp3s!<br><br>Comes with printed inner sleeve and free download code.<br> |
 | Discogs URL    | [Pavement - Terror Twilight](https://www.discogs.com/release/3014122-Pavement-Terror-Twilight) |

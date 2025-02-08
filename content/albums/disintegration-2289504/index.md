@@ -4,6 +4,7 @@ artist_name: "The Cure"
 artist: "the-cure"
 album_name: "Disintegration"
 date: 2016-08-05T14:55:50.000000Z
+release_date: "2024-02-16"
 release_id: "2289504"
 slug: "disintegration-2289504"
 hideSummary: true
@@ -35,54 +36,32 @@ The record marks a return to the introspective gothic rock style the band had es
 Disintegration became the band's highest charting album to that point, reaching number three on the UK Albums Chart and number 12 on the US Billboard 200, and producing several hit singles, including "Lovesong", which peaked at number two on the Billboard Hot 100. It remains the band's highest-selling record to date, with more than four million copies sold worldwide. It was greeted with a warm critical reception before later being widely acclaimed, including being placed at number 116 on Rolling Stone magazine's list of the "500 Greatest Albums of All Time". Stephen Thomas Erlewine of AllMusic called it the "culmination of all the musical directions the Cure were pursuing over the course of the '80s".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Plainsong (5:15)
-2. Pictures Of You (7:28)
-3. Closedown (4:21)
-4. Lovesong (3:30)
-5. Last Dance (4:47)
-6. Lullaby (4:12)
-7. Fascination Street (5:16)
-8. Prayers For Rain (6:07)
-9. The Same Deep Water As You (9:22)
-10. Disintegration (8:23)
-11. Homesick (7:09)
-12. Untitled (6:30)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Plainsong | 5:15 |
+| A2 | Pictures Of You | 7:28 |
+| A3 | Closedown | 4:21 |
+| B1 | Lovesong | 3:30 |
+| B2 | Last Dance | 4:47 |
+| B3 | Lullaby | 4:12 |
+| B4 | Fascination Street | 5:16 |
+| C1 | Prayers For Rain | 6:07 |
+| C2 | The Same Deep Water As You | 9:22 |
+| D1 | Disintegration | 8:23 |
+| D2 | Homesick | 7:09 |
+| D3 | Untitled | 6:30 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/disintegration/1713850545" >}}<br>
 
 
-## Videos
-### The Cure - Pictures Of You
-{{< youtube id="UmFFTkjs-O0" title="The Cure - Pictures Of You" >}}<br>
-### More Videos
-
-- [Plainsong Remastered](https://www.youtube.com/watch?v=JOb5f-TG6iI)
-- [Closedown Remastered 2010](https://www.youtube.com/watch?v=PLV7P31E8Jk)
-- [Lovesong Remastered](https://www.youtube.com/watch?v=kplT6ftFokA)
-- [Last Dance Remastered](https://www.youtube.com/watch?v=PRdmx-0cqtk)
-- [Lullaby Remastered](https://www.youtube.com/watch?v=oGyqB3yC87k)
-- [Fascination Street Remastered](https://www.youtube.com/watch?v=uW_Ps_M8bGE)
-- [Prayers For Rain Remastered](https://www.youtube.com/watch?v=MnHxZUoHVAc)
-- [The Same Deep Water As You Remastered](https://www.youtube.com/watch?v=YBTo-QVJjBo)
-- [Disintegration Remastered](https://www.youtube.com/watch?v=__EVr7CF3Hw)
-- [Homesick Remastered](https://www.youtube.com/watch?v=phqkKxvfv8I)
-- [Untitled Remastered](https://www.youtube.com/watch?v=qWZu86_tZtE)
-- [Prayers For Rain RS Home Instrumental Demo](https://www.youtube.com/watch?v=HsSvpx_O6VA)
-- [Fascination Street RS Home Instrumental Demo](https://www.youtube.com/watch?v=oQfwVpyGp4A)
-- [Esten Band Instrumental Demo](https://www.youtube.com/watch?v=3NnEQ3Pyk48)
-- [Lovesong Band Instrumental Demo](https://www.youtube.com/watch?v=OrVRyId5CTk)
-- [Disintegration Band Instrumental Demo](https://www.youtube.com/watch?v=ASU_9VRK0JE)
-- [Closedown Band Instrumental Demo](https://www.youtube.com/watch?v=6SCyAKBG3eI)
-- [Disintegration Live](https://www.youtube.com/watch?v=lMTVNPUt5Lo)
-- [Plainsong Studio Guide Vocal Rough](https://www.youtube.com/watch?v=-jbFSK4RTHA)
-- [2 Late Alternative Version  Band Instrumental Demo](https://www.youtube.com/watch?v=7HSJ-5AP7iw)
-- [Lullaby Studio Guide Vocal Rough](https://www.youtube.com/watch?v=_XlqReZ0nkY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -94,5 +73,5 @@ Disintegration became the band's highest charting album to that point, reaching 
 | Format         | Vinyl 2× LP Album Reissue Remastered (180g, Gatefold Sleeve) |
 | Label          | Fiction Records |
 | Catalog Number | 532 456-3 |
-| Notes | [front sticker] The Cure * Disintegration 180grm heavy weight double vinyl Digitally remastered from the original master tapes by Robert Smith Complete 12 song album on double vinyl for the first time including lyric bags 532 456-3  [sleeve & labels] ℗ 2010 Fiction Records Ltd. © Fiction Records Ltd. The copyright in this sound recording is owned by Fiction Records Ltd. and licensed exclusively to Polydor Ltd (UK).  A Universal Music Company.  Made in the EU.  "Homesick" & "Last Dance" featured here for the first time on LP, 1989 LP releases of this album contained 10 tracks only. Catalog number 060075324563 (7) appears on spine only. It is crossed-out on backsleeve (left upper corner) and not printed on labels. Also released in [url=http://www.discogs.com/Cure-Disintegration/release/2323894]the US[/url].  [runout groove information] 'www.gzvinyl.com - 5324563-# 86821E#/#' stamped, remainder are etched.  |
+| Notes | [front sticker]<br>The Cure * Disintegration<br>180grm heavy weight double vinyl<br>Digitally remastered from the original master tapes by Robert Smith<br>Complete 12 song album on double vinyl for the first time including lyric bags<br>532 456-3<br><br>[sleeve & labels]<br>℗ 2010 Fiction Records Ltd. © Fiction Records Ltd.<br>The copyright in this sound recording is owned by Fiction Records Ltd. and licensed exclusively to Polydor Ltd (UK). <br>A Universal Music Company. <br>Made in the EU.<br><br>"Homesick" & "Last Dance" featured here for the first time on LP, 1989 LP releases of this album contained 10 tracks only.<br>Catalog number 060075324563 (7) appears on spine only. It is crossed-out on backsleeve (left upper corner) and not printed on labels.<br>Also released in [url=http://www.discogs.com/Cure-Disintegration/release/2323894]the US[/url].<br><br>[runout groove information]<br>'www.gzvinyl.com - 5324563-# 86821E#/#' stamped, remainder are etched.<br> |
 | Discogs URL    | [The Cure - Disintegration](https://www.discogs.com/release/2289504-The-Cure-Disintegration) |

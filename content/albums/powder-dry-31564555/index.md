@@ -4,6 +4,7 @@ artist_name: "Tim Bowness"
 artist: "tim-bowness"
 album_name: "Powder Dry"
 date: 2024-09-17T05:10:49.000000Z
+release_date: "2024-09-13"
 release_id: "31564555"
 slug: "powder-dry-31564555"
 hideSummary: true
@@ -20,28 +21,33 @@ styles: ["Art Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Rock Hudson (2:04)
-2. Lost / Not Lost (2:09)
-3. When Summer Comes (2:59)
-4. Idiots at Large (2:50)
-5. A Stand-Up for the Dying (4:59)
-6. Old Crawler (1:18)
-7. Heartbreak Notes (1:33)
-8. Ghost Of A Kiss (1:36)
-9. Summer Turned (2:06)
-10. You Can Always Disappear (2:38)
-11. Powder Dry (2:38)
-12. Films of Our Youth (1:30)
-13. This Way Now (2:20)
-14. I Was There (4:07)
-15. The Film Of Our Youth (2:17)
-16. Built To Last (2:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rock Hudson | 2:04 |
+| A2 | Lost / Not Lost | 2:09 |
+| A3 | When Summer Comes | 2:59 |
+| A4 | Idiots at Large | 2:50 |
+| A5 | A Stand-Up for the Dying | 4:59 |
+| A6 | Old Crawler | 1:18 |
+| A7 | Heartbreak Notes | 1:33 |
+| A8 | Ghost Of A Kiss | 1:36 |
+| B1 | Summer Turned | 2:06 |
+| B2 | You Can Always Disappear | 2:38 |
+| B3 | Powder Dry | 2:38 |
+| B4 | Films of Our Youth | 1:30 |
+| B5 | This Way Now | 2:20 |
+| B6 | I Was There | 4:07 |
+| B7 | The Film Of Our Youth | 2:17 |
+| B8 | Built To Last | 2:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/powder-dry/1746099226" >}}<br>
-
 
 
 
@@ -54,5 +60,5 @@ styles: ["Art Rock", "Prog Rock"]
 | Format         | Vinyl LP Limited Edition Stereo (Yellow Vinyl) |
 | Label          | KSCOPE |
 | Catalog Number | KSCOPE1236 |
-| Notes | The sticker on the shrink wrap reads: kscope1242  Issued with a full colour inner sleeve with lyrics and credits. The kscope insert portraits new releases and highlights various bands.  all songs recorded wiltshire, england at middle rank between november 2022 and february 2024. mixed in london, england at no man's land between march 2023 and march 2024. published by real world works ltd/sony/atv music. all songs written by tim bowness  Rough Trade shops in the UK sold an 'Exclusive' release of this version of the album with a signed 'art print'. In reality, this was the same signed print given with initial copies available from Burning Shed, Tim's own store. |
+| Notes | The sticker on the shrink wrap reads: kscope1242<br><br>Issued with a full colour inner sleeve with lyrics and credits.<br>The kscope insert portraits new releases and highlights various bands.<br><br>all songs recorded wiltshire, england at middle rank between november 2022 and february 2024.<br>mixed in london, england at no man's land between march 2023 and march 2024.<br>published by real world works ltd/sony/atv music.<br>all songs written by tim bowness<br><br>Rough Trade shops in the UK sold an 'Exclusive' release of this version of the album with a signed 'art print'. In reality, this was the same signed print given with initial copies available from Burning Shed, Tim's own store. |
 | Discogs URL    | [Tim Bowness - Powder Dry](https://www.discogs.com/release/31564555-Tim-Bowness-Powder-Dry) |

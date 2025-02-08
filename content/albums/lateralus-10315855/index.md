@@ -1,7 +1,7 @@
 ---
 title: "Tool - Lateralus"
 artist_name: "Tool"
-artist: "tool-2"
+artist: "tool"
 album_name: "Lateralus"
 date: 2017-07-02T11:13:45.000000Z
 release_date: "2001-05-15"
@@ -39,43 +39,27 @@ The album debuted at No. 1 on the Billboard 200 chart, selling more than 555,200
 
 
 ## Tracklisting
-1. The Grudge (8:36)
-2. Eon Blue Apocalypse (1:04)
-3. The Patient (7:13)
-4. Mantra (1:12)
-5. Schism (6:47)
-6. Parabol (3:04)
-7. Parabola (6:03)
-8. Disposition (4:46)
-9. Ticks & Leeches (8:10)
-10. Lateralus (9:24)
-11. Reflection (11:07)
-12. Triad (8:46)
-13. Faaip De Oiad (2:39)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Grudge | 8:36 |
+| A2 | Eon Blue Apocalypse | 1:04 |
+| A3 | The Patient | 7:13 |
+| A4 | Mantra | 1:12 |
+| B1 | Schism | 6:47 |
+| B2 | Parabol | 3:04 |
+| B3 | Parabola | 6:03 |
+| B4 | Disposition | 4:46 |
+| C1 | Ticks & Leeches | 8:10 |
+| C2 | Lateralus | 9:24 |
+| D1 | Reflection | 11:07 |
+| D2 | Triad | 8:46 |
+| D3 | Faaip De Oiad | 2:39 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lateralus/1474185412" >}}<br>
 
 
-## Videos
-### TOOL - Schism
-{{< youtube id="MM62wjLrgmA" title="TOOL - Schism" >}}<br>
-### More Videos
-
-- [TOOL - Parabola](https://www.youtube.com/watch?v=-_nQhGR0K8M)
-- [TOOL - The Grudge Audio](https://www.youtube.com/watch?v=3BXyEUOuNds)
-- [TOOL - Eon Blue Apocalypse Audio](https://www.youtube.com/watch?v=75hGl9stdQI)
-- [TOOL - The Patient Audio](https://www.youtube.com/watch?v=rDrhI1GUnNg)
-- [TOOL - Mantra Audio](https://www.youtube.com/watch?v=cDuLYGYHhQk)
-- [TOOL - Schism Audio](https://www.youtube.com/watch?v=80RtBeB61LE)
-- [TOOL - Parabol Audio](https://www.youtube.com/watch?v=ynzDDi9Y044)
-- [TOOL - Parabola Audio](https://www.youtube.com/watch?v=-DuAAmHpGbw)
-- [TOOL - Ticks  Leeches Audio](https://www.youtube.com/watch?v=q0BOpkA2Vs4)
-- [TOOL - Lateralus Audio](https://www.youtube.com/watch?v=Y7JG63IuaWs)
-- [TOOL - Disposition Audio](https://www.youtube.com/watch?v=dUQjGpm5Kr8)
-- [TOOL - Reflection Audio](https://www.youtube.com/watch?v=4MzVuHqsNoM)
-- [TOOL - Triad Audio](https://www.youtube.com/watch?v=JAzLQ5aeAOw)
-- [TOOL - Faaip De Oiad Audio](https://www.youtube.com/watch?v=7RmLkY1387A)
 
 ## Release Images
 {{< imageGrid >}}
@@ -87,5 +71,5 @@ The album debuted at No. 1 on the Billboard 200 chart, selling more than 555,200
 | Format         | Vinyl 2× LP Album Limited Edition Picture Disc Reissue |
 | Label          | Zomba |
 | Catalog Number | 0614223116013 |
-| Notes | "2x Full Color Picture Disc" sticker on front.  Holographic image surrounding covers |
+| Notes | "2x Full Color Picture Disc" sticker on front.<br><br>Holographic image surrounding covers |
 | Discogs URL    | [Tool - Lateralus](https://www.discogs.com/release/10315855-Tool-2-Lateralus) |

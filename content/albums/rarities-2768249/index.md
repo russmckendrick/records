@@ -4,6 +4,7 @@ artist_name: "Emiliana Torrini"
 artist: "emiliana-torrini"
 album_name: "Rarities"
 date: 2016-11-21T12:14:42.000000Z
+release_date: "2001-01-01"
 release_id: "2768249"
 slug: "rarities-2768249"
 hideSummary: true
@@ -33,63 +34,48 @@ styles: ["Techno", "Trip Hop", "Vocal"]
 ---
 
 Rarities is a compilation album by Icelandic singer-songwriter Emilíana Torrini, released in 2000.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Dead Things
-2. Wednesday’s Child
-3. Tuna Fish
-4. To Be Free
-5. If You Go Away
-6. Weird Friendless Kid
-7. To Be Free (Futureshock Vocal Mix)
-8. To Be Free (Dillon & Dickens Vocal Remix)
-9. To Be Free (Raw Deal Remix)
-10. Baby Blue
-11. Baby Blue (Rae & Christian Remix)
-12. Baby Blue (Runaways Mix)
-13. Easy (Tore Johansson Mix)
-14. Easy (Album Version)
-15. Flirt (Slow Blow)
-16. Easy (In The Sunshine Acoustic)
-17. Easy (In The Rain Acoustic)
-18. Easy (Video Version)
-19. Unemployed In Summertime (Tore Johansson Mix)
-20. 7-Up Days
-21. Tuna Fish (Acoustic Version)
-22. Unemployed In Summertime (Dreemhouse Radio Mix)
-23. Unemployed In Summertime (Dreemhouse Mix)
-24. Unemployed In Summertime (Junior’s Summertime Mix)
-25. Unemployed In Summertime (Batucada Mix)
-26. To Be Free (Tore Johansson Radio Edit)
-27. To Be Free (Future Shock To Be Free Vocal Club Mix)
-28. Unemployed In Summertime (Dreemhouse Unemployed Club Mix)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dead Things |  |
+| A2 | Wednesday’s Child |  |
+| A3 | Tuna Fish |  |
+| A4 | To Be Free |  |
+| B1 | If You Go Away |  |
+| B2 | Weird Friendless Kid |  |
+| B3 | To Be Free (Futureshock Vocal Mix) |  |
+| C1 | To Be Free (Dillon & Dickens Vocal Remix) |  |
+| C2 | To Be Free (Raw Deal Remix) |  |
+| C3 | Baby Blue |  |
+| D1 | Baby Blue (Rae & Christian Remix) |  |
+| D2 | Baby Blue (Runaways Mix) |  |
+| D3 | Easy (Tore Johansson Mix) |  |
+| E1 | Easy (Album Version) |  |
+| E2 | Flirt (Slow Blow) |  |
+| E3 | Easy (In The Sunshine Acoustic) |  |
+| E4 | Easy (In The Rain Acoustic) |  |
+| E5 | Easy (Video Version) |  |
+| F1 | Unemployed In Summertime (Tore Johansson Mix) |  |
+| F2 | 7-Up Days |  |
+| F3 | Tuna Fish (Acoustic Version) |  |
+| F4 | Unemployed In Summertime (Dreemhouse Radio Mix) |  |
+| G1 | Unemployed In Summertime (Dreemhouse Mix) |  |
+| G2 | Unemployed In Summertime (Junior’s Summertime Mix) |  |
+| G3 | Unemployed In Summertime (Batucada Mix) |  |
+| H1 | To Be Free (Tore Johansson Radio Edit) |  |
+| H2 | To Be Free (Future Shock To Be Free Vocal Club Mix) |  |
+| H3 | Unemployed In Summertime (Dreemhouse Unemployed Club Mix) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rarities/1726652232" >}}<br>
 
 
-## Videos
-### Emiliana Torrini - Unemployed In Summertime DreemHouse Radio Mix
-{{< youtube id="wsDWu4vC-eI" title="Emiliana Torrini - Unemployed In Summertime DreemHouse Radio Mix" >}}<br>
-### More Videos
-
-- [Baby Blue Rae  Christian Remix](https://www.youtube.com/watch?v=ESrnf0rz05A)
-- [Baby Blue Runaways Mix](https://www.youtube.com/watch?v=Qqvk2X3I88k)
-- [Baby Blue Runaways Mix](https://www.youtube.com/watch?v=AJ7TTqZpuAA)
-- [Emiliana Torrini - Baby Blue](https://www.youtube.com/watch?v=TDnd5snrn1s)
-- [Emiliana Torrini - Weird Friendless Kid](https://www.youtube.com/watch?v=MBj5ZFPWxqE)
-- [Emiliana Torrini - Easy Acoustic Rare](https://www.youtube.com/watch?v=iSDRNyyKS64)
-- [Emiliana Torrini -Tuna Fish Acoustic versionwmv](https://www.youtube.com/watch?v=xf5tKnmYNyg)
-- [Emiliana Torrini - Weird Friendless Kid](https://www.youtube.com/watch?v=MBj5ZFPWxqE)
-- [Emiliana Torrini - Baby Blue](https://www.youtube.com/watch?v=TDnd5snrn1s)
-- [Emilíana Torrini - Unemployed in Summertime - Music Video](https://www.youtube.com/watch?v=lDi_tJcCJP0)
-- [Emiliana Torrini - Unemployed In Summertime DreemHouse Radio Mix](https://www.youtube.com/watch?v=wsDWu4vC-eI)
-- [Baby Blue Rae  Christian Remix](https://www.youtube.com/watch?v=ESrnf0rz05A)
-- [Baby Blue Runaways Mix](https://www.youtube.com/watch?v=Qqvk2X3I88k)
-- [Baby Blue Runaways Mix](https://www.youtube.com/watch?v=AJ7TTqZpuAA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -101,5 +87,5 @@ Rarities is a compilation album by Icelandic singer-songwriter Emilíana Torrini
 | Format         | Vinyl 4× LP Compilation |
 | Label          | One Little Indian |
 | Catalog Number | TPLP1081 |
-| Notes | Issued in a slip case with 2 separate outer sleeves. Hype sticker on shrink wrap.  This compilation (p) 2010 One Little Indian Records (c) 2010 One Little Indian Records.  The copyright in this sound recording compilation is owned by One Little Indian Records. All Rights Reserved. Reproduction, copying, hiring, lending, public performance and broadcasting prohibited. CAT NO. TPLP1081 (LC 03275) 5 016958 134662.  |
+| Notes | Issued in a slip case with 2 separate outer sleeves.<br>Hype sticker on shrink wrap.<br><br>This compilation (p) 2010 One Little Indian Records (c) 2010 One Little Indian Records. <br>The copyright in this sound recording compilation is owned by One Little Indian Records. All Rights Reserved. Reproduction, copying, hiring, lending, public performance and broadcasting prohibited.<br>CAT NO. TPLP1081 (LC 03275) 5 016958 134662.<br> |
 | Discogs URL    | [Emiliana Torrini - Rarities](https://www.discogs.com/release/2768249-Emiliana-Torrini-Rarities) |

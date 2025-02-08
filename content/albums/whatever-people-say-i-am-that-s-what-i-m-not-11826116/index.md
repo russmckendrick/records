@@ -45,41 +45,27 @@ The album received widespread critical acclaim from critics for its vivid depict
 
 
 ## Tracklisting
-1. The View From The Afternoon
-2. I Bet You Look Good On The Dancefloor
-3. Fake Tales Of San Francisco
-4. Dancing Shoes
-5. You Probably Couldn't See For The Lights But You Were Staring Straight At Me
-6. Still Take You Home
-7. Riot Van
-8. Red Light Indicates Doors Are Secured
-9. Mardy Bum
-10. Perhaps Vampires Is A Bit Strong But..
-11. When The Sun Goes Down
-12. From The Ritz To The Rubble
-13. A Certain Romance
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The View From The Afternoon |  |
+| A2 | I Bet You Look Good On The Dancefloor |  |
+| A3 | Fake Tales Of San Francisco |  |
+| A4 | Dancing Shoes |  |
+| A5 | You Probably Couldn't See For The Lights But You Were Staring Straight At Me |  |
+| A6 | Still Take You Home |  |
+| B1 | Riot Van |  |
+| B2 | Red Light Indicates Doors Are Secured |  |
+| B3 | Mardy Bum |  |
+| B4 | Perhaps Vampires Is A Bit Strong But.. |  |
+| B5 | When The Sun Goes Down |  |
+| B6 | From The Ritz To The Rubble |  |
+| B7 | A Certain Romance |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whatever-people-say-i-am-thats-what-im-not/111153953" >}}<br>
 
 
-## Videos
-### Arctic Monkeys - I Bet You Look Good On The Dancefloor Official Video
-{{< youtube id="pK7egZaT3hs" title="Arctic Monkeys - I Bet You Look Good On The Dancefloor Official Video" >}}<br>
-### More Videos
-
-- [Arctic Monkeys - The View From The Afternoon Official Video](https://www.youtube.com/watch?v=PeQAZsyucbQ)
-- [Arctic Monkeys - When The Sun Goes Down Official Video](https://www.youtube.com/watch?v=EqkBRVukQmE)
-- [I Bet You Look Good On The Dancefloor](https://www.youtube.com/watch?v=CYpn8yUnX_c)
-- [Fake Tales Of San Francisco](https://www.youtube.com/watch?v=rMIGONn-Gxk)
-- [Dancing Shoes](https://www.youtube.com/watch?v=25xNOeXvQLY)
-- [You Probably Couldnt See For The Lights But You Were Staring Straight At Me](https://www.youtube.com/watch?v=cfetybygLkk)
-- [Riot Van](https://www.youtube.com/watch?v=a62FZZa3fjE)
-- [Red Light Indicates Doors Are Secured](https://www.youtube.com/watch?v=u8PjGQLO9mI)
-- [Mardy Bum](https://www.youtube.com/watch?v=dO368WjwyFs)
-- [Perhaps Vampires Is A Bit Strong But](https://www.youtube.com/watch?v=53y82WWjea0)
-- [From The Ritz To The Rubble](https://www.youtube.com/watch?v=H8bNHRVwzyA)
-- [A Certain Romance](https://www.youtube.com/watch?v=zMupng6KQeE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -91,5 +77,5 @@ The album received widespread critical acclaim from critics for its vivid depict
 | Format         | Vinyl LP Album Club Edition Reissue (Gray Translucent w/ Black Smoke, 180 g) |
 | Label          | Domino |
 | Catalog Number | WIGLP162VMP |
-| Notes | Sticker: VMP Exclusive Vinyl Edition 1LP 180g Multi-color "Smoke" vinyl 16pg Full-color Lyric & Photo Booklet  Includes a obi strip with a cocktail recipe, and an art print.  ℗ 2006 © 2018 Domino Recording Co. Ltd. PO Box 47029 London, SW18 1WD 20 Jay Street, Suite 626, Brooklyn NY 11201  Recorded at The Chapel Studio, Lincolnshire and 2 Fly Studio, Sheffield. 'Mardy Bum' recorded at Telstar Studios, Munich Mixed [...] at Olympic Studios, London [...] |
+| Notes | Sticker:<br>VMP Exclusive Vinyl Edition<br>1LP 180g Multi-color "Smoke" vinyl<br>16pg Full-color Lyric & Photo Booklet<br><br>Includes a obi strip with a cocktail recipe, and an art print.<br><br>℗ 2006 © 2018 Domino Recording Co. Ltd.<br>PO Box 47029 London, SW18 1WD<br>20 Jay Street, Suite 626, Brooklyn NY 11201<br><br>Recorded at The Chapel Studio, Lincolnshire and 2 Fly Studio, Sheffield.<br>'Mardy Bum' recorded at Telstar Studios, Munich<br>Mixed [...] at Olympic Studios, London [...] |
 | Discogs URL    | [Arctic Monkeys - Whatever People Say I Am, That's What I'm Not](https://www.discogs.com/release/11826116-Arctic-Monkeys-Whatever-People-Say-I-Am-Thats-What-Im-Not) |

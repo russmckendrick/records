@@ -4,6 +4,7 @@ artist_name: "Wilson Phillips"
 artist: "wilson-phillips"
 album_name: "Wilson Phillips"
 date: 2018-11-01T07:46:55.000000Z
+release_date: "1990-03-24"
 release_id: "7423483"
 slug: "wilson-phillips-7423483"
 hideSummary: true
@@ -27,36 +28,30 @@ styles: ["Soft Rock"]
 "Hold On" won the Billboard Music Award for Hot 100 Single of the Year for 1990. At the 33rd Annual Grammy Awards, "Hold On" was nominated for Song of the Year and Best Pop Vocal Performance by a Duo or Group, losing in both categories. In 2017, Billboard ranked the song number 15 in their list of "100 Greatest Girl Group Songs of All Time". In 2020, Cleveland.com ranked it at number 37 in their list of the best Billboard Hot 100 No. 1 song of the 1990s. In 2022, Pitchfork ranked number 246 in their list of "The 250 Best Songs of the 1990s".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Hold On (4:27)
-2. Release Me (4:56)
-3. Impulsive (4:34)
-4. Next To You (Someday I'll Be) (4:55)
-5. You're In Love (4:50)
-6. Over And Over (4:35)
-7. A Reason To Believe (4:02)
-8. Ooh You're Gold (4:13)
-9. Eyes Like Twins (5:00)
-10. The Dream Is Still Alive (4:11)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hold On | 4:27 |
+| A2 | Release Me | 4:56 |
+| A3 | Impulsive | 4:34 |
+| A4 | Next To You (Someday I'll Be) | 4:55 |
+| A5 | You're In Love | 4:50 |
+| B1 | Over And Over | 4:35 |
+| B2 | A Reason To Believe | 4:02 |
+| B3 | Ooh You're Gold | 4:13 |
+| B4 | Eyes Like Twins | 5:00 |
+| B5 | The Dream Is Still Alive | 4:11 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wilson-phillips/723895185" >}}<br>
 
 
-## Videos
-### Wilson Phillips - Hold On Official Music Video
-{{< youtube id="uIbXvaE39wM" title="Wilson Phillips - Hold On Official Music Video" >}}<br>
-### More Videos
-
-- [Release Me Wilson Phillips 1990 - Video](https://www.youtube.com/watch?v=gcNyk54b3ZU)
-- [Wilson Phillips - Youre in Love 1990](https://www.youtube.com/watch?v=_mpS1Dw_4VY)
-- [Wilson Phillips - Impulsive High Definition 1080p](https://www.youtube.com/watch?v=pkYzwoZ0YwI)
-- [The Dream is still Alive Wilson Phillips 1990 - Video](https://www.youtube.com/watch?v=aMOpnuv_8xU)
-- [Wilson Phillips Hold On Isolated vocal acapella](https://www.youtube.com/watch?v=2kDqv0V0sp0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +63,5 @@ styles: ["Soft Rock"]
 | Format         | Vinyl LP Album |
 | Label          | SBK Records |
 | Catalog Number | SBKLP 5 |
-| Notes | Printed in England Manufactured in England SP9006JU.  Different information on bottom left side of reverse sleeve to [r348854] |
+| Notes | Printed in England Manufactured in England SP9006JU.<br><br>Different information on bottom left side of reverse sleeve to [r348854] |
 | Discogs URL    | [Wilson Phillips - Wilson Phillips](https://www.discogs.com/release/7423483-Wilson-Phillips-Wilson-Phillips) |

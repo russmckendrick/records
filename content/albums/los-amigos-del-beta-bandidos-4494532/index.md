@@ -4,6 +4,7 @@ artist_name: "The Beta Band"
 artist: "the-beta-band"
 album_name: "Los Amigos Del Beta Bandidos"
 date: 2016-02-18T19:17:05.000000Z
+release_date: ""
 release_id: "4494532"
 slug: "los-amigos-del-beta-bandidos-4494532"
 hideSummary: true
@@ -21,26 +22,24 @@ Los Amigos del Beta Bandidos (Translated to 'The Friends of the Beta Bandits' in
 Los Amigos del Beta Bandidos, along with the other two original E.P.s from The Beta Band, long out of print on vinyl were re-issued as part of Record Store Day 2013.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Push It Out
-2. It's Over
-3. Dr. Baker
-4. Needles In My Eyes
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Push It Out |  |
+| A2 | It's Over |  |
+| B1 | Dr. Baker |  |
+| B2 | Needles In My Eyes |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### The Beta Band - Dr Baker
-{{< youtube id="kbxoTkSkefo" title="The Beta Band - Dr Baker" >}}<br>
-### More Videos
 
-- [The Beta Band - 09 Push it out](https://www.youtube.com/watch?v=Eof42rPIV68)
-- [The Beta Band-Push It Out](https://www.youtube.com/watch?v=HluhRrB0bPA)
-- [The Beta Band - Needles in My Eyes](https://www.youtube.com/watch?v=byJRrkigdEM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -52,5 +51,5 @@ Los Amigos del Beta Bandidos, along with the other two original E.P.s from The B
 | Format         | Vinyl 12" EP Record Store Day Limited Edition Reissue |
 | Label          | EMI |
 | Catalog Number | REGS 20 |
-| Notes | Record Store Day 2013 limited edition reissue.    ℗ 1998  © 2013    Made in EU. |
+| Notes | Record Store Day 2013 limited edition reissue.<br><br>℗ 1998<br>© 2013<br><br>Made in EU. |
 | Discogs URL    | [The Beta Band - Los Amigos Del Beta Bandidos](https://www.discogs.com/release/4494532-The-Beta-Band-Los-Amigos-Del-Beta-Bandidos) |

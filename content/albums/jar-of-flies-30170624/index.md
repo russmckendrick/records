@@ -37,29 +37,21 @@ Guitarist Jerry Cantrell later recalled that Staley’s addiction was then so se
 
 
 ## Tracklisting
-1. Rotten Apple (6:56)
-2. Nutshell (4:16)
-3. I Stay Away (4:13)
-4. No Excuses (4:15)
-5. Whale & Wasp (2:35)
-6. Don't Follow (4:21)
-7. Swing On This (4:01)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rotten Apple | 6:56 |
+| A2 | Nutshell | 4:16 |
+| A3 | I Stay Away | 4:13 |
+| A4 | No Excuses | 4:15 |
+| B1 | Whale & Wasp | 2:35 |
+| B2 | Don't Follow | 4:21 |
+| B3 | Swing On This | 4:01 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/alice-in-chains/158711724" >}}<br>
 
 
-## Videos
-### Alice In Chains - Rotten Apple Official Audio
-{{< youtube id="LDOApsYhtrk" title="Alice In Chains - Rotten Apple Official Audio" >}}<br>
-### More Videos
-
-- [Alice In Chains - Nutshell Official Audio](https://www.youtube.com/watch?v=G23iLGhh9lo)
-- [Alice In Chains - I Stay Away Official Video](https://www.youtube.com/watch?v=ODTv9Lt5WYs)
-- [Alice In Chains - No Excuses Official Video](https://www.youtube.com/watch?v=r80HF68KM8g)
-- [Alice In Chains - Whale  Wasp Official Audio](https://www.youtube.com/watch?v=zGQuYs53PN4)
-- [Alice In Chains - Dont Follow Official Audio](https://www.youtube.com/watch?v=2SVR6Y4Gs28)
-- [Alice In Chains - Swing On This Official Audio](https://www.youtube.com/watch?v=Qs-NrNEJH2s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +63,5 @@ Guitarist Jerry Cantrell later recalled that Staley’s addiction was then so se
 | Format         | Vinyl LP EP Reissue Remastered |
 | Label          | Velvet Hammer |
 | Catalog Number | 19658800371 |
-| Notes | Includes printed inner sleeve with credits and lyrics.  Release distributed globally except for the Americas. For the North American release without [l=sony music] logo, please refer to [r=30106898].  © 1994, 2024 Columbia Records, A Division of Sony Music Entertainment.  Made in the EU.  Runouts are etched, except -61933- is stamped. |
+| Notes | Includes printed inner sleeve with credits and lyrics.<br><br>Release distributed globally except for the Americas.<br>For the North American release without [l=sony music] logo, please refer to [r=30106898].<br><br>© 1994, 2024 Columbia Records, A Division of Sony Music Entertainment.<br><br>Made in the EU.<br><br>Runouts are etched, except -61933- is stamped. |
 | Discogs URL    | [Alice In Chains - Jar Of Flies](https://www.discogs.com/release/30170624-Alice-In-Chains-Jar-Of-Flies) |

@@ -4,6 +4,7 @@ artist_name: "Black Sabbath"
 artist: "black-sabbath"
 album_name: "Master Of Reality"
 date: 2016-08-11T15:57:18.000000Z
+release_date: "2010-03-09"
 release_id: "8867553"
 slug: "master-of-reality-8867553"
 hideSummary: true
@@ -29,27 +30,27 @@ Master of Reality is the third studio album by English heavy metal band Black Sa
 Master of Reality peaked at number five on the UK Albums Chart and number eight on the US Billboard 200. Though negatively received by critics on release, the album is now considered one of the greatest heavy metal albums of all time. It was certified double platinum by the Recording Industry Association of America (RIAA) after having sold over two million copies in the US.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Sweet Leaf (5:06)
-2. After Forever (Including The Elegy) (5:27)
-3. Embryo (0:28)
-4. Children Of The Grave (5:16)
-5. Orchid (1:31)
-6. Lord Of This World (5:26)
-7. Solitude (5:02)
-8. Into The Void (6:11)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sweet Leaf | 5:06 |
+| A2 | After Forever (Including The Elegy) | 5:27 |
+| A3 | Embryo | 0:28 |
+| A4 | Children Of The Grave | 5:16 |
+| B1 | Orchid | 1:31 |
+| B2 | Lord Of This World | 5:26 |
+| B3 | Solitude | 5:02 |
+| B4 | Into The Void | 6:11 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-master-of-reality/495845282" >}}<br>
 
-
-## Videos
-### BLACK SABBATH - Master of Reality Full Album
-{{< youtube id="1fqGIpkp2NU" title="BLACK SABBATH - Master of Reality Full Album" >}}<br>
 
 
 ## Release Images
@@ -62,5 +63,5 @@ Master of Reality peaked at number five on the UK Albums Chart and number eight 
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Green, 180g, Gatefold) |
 | Label          | Rhino Records (2) |
 | Catalog Number | RR1 2562 |
-| Notes | Original Master of Reality album released on Warner Bros. Records (BS 2562) July 1971  2016 Release co-ordination for Warner Music Global Catalogue:  Hugh Gilmour Thanks to:  Colin Newman, Tim Fraser-Harding, & Steve Hammonds Reissue Design:  Gilmour Design  Special thanks to:  Tony Iommi, Geezer Butler, Ozzy Osbourne, & Bill Ward  Lyrics printed on back cover of album Warner logo, "Stereo" and "2562" printed on front cover in upper left corner Also includes extra black inner sleeve with bio of band and album on both sides  Front sticker: Black Sabbath  LIMITED EDITION  180 GRAMS GREEN VINYL  2012 REMASTERED AUDIO  FEATURES THE CLASSICS: "INTO THE VOID" & "CHILDREN OF THE GRAVE" RRI 2562  |
+| Notes | Original Master of Reality album released on Warner Bros. Records (BS 2562) July 1971<br><br>2016 Release co-ordination for Warner Music Global Catalogue:  Hugh Gilmour<br>Thanks to:  Colin Newman, Tim Fraser-Harding, & Steve Hammonds<br>Reissue Design:  Gilmour Design<br><br>Special thanks to:  Tony Iommi, Geezer Butler, Ozzy Osbourne, & Bill Ward<br><br>Lyrics printed on back cover of album<br>Warner logo, "Stereo" and "2562" printed on front cover in upper left corner<br>Also includes extra black inner sleeve with bio of band and album on both sides<br><br>Front sticker:<br>Black Sabbath <br>LIMITED EDITION <br>180 GRAMS GREEN VINYL <br>2012 REMASTERED AUDIO <br>FEATURES THE CLASSICS:<br>"INTO THE VOID"<br>& "CHILDREN OF THE GRAVE"<br>RRI 2562<br> |
 | Discogs URL    | [Black Sabbath - Master Of Reality](https://www.discogs.com/release/8867553-Black-Sabbath-Master-Of-Reality) |

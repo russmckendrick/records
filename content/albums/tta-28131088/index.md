@@ -1,9 +1,10 @@
 ---
 title: "Sigur Rós - Átta"
 artist_name: "Sigur Rós"
-artist: "sigur-r-s"
+artist: "sigur-ros"
 album_name: "Átta"
 date: 2023-09-01T05:07:25.000000Z
+release_date: "2023-06-16"
 release_id: "28131088"
 slug: "tta-28131088"
 hideSummary: true
@@ -34,34 +35,29 @@ styles: ["Ambient", "Post Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Glóð
-2. Blóðberg
-3. Skel
-4. Klettur
-5. Mór
-6. Andrá
-7. Gold
-8. Ylur
-9. Fall
-10. 8
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Glóð |  |
+| A2 | Blóðberg |  |
+| A3 | Skel |  |
+| B1 | Klettur |  |
+| B2 | Mór |  |
+| B3 | Andrá |  |
+| C1 | Gold |  |
+| C2 | Ylur |  |
+| D1 | Fall |  |
+| D2 | 8 |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/%C3%A1tta/1688702511" >}}<br>
 
 
-## Videos
-### Sigur Rós - Blóðberg Official Video
-{{< youtube id="ENZsxTiVQYo" title="Sigur Rós - Blóðberg Official Video" >}}<br>
-### More Videos
-
-- [Sigur Rós  Gold Official Video](https://www.youtube.com/watch?v=S9aMeRDxSKo)
-- [Sigur Rós  Glóð Official Video](https://www.youtube.com/watch?v=5icgrXI0H40)
-- [Sigur Rós - Andrá Official Video](https://www.youtube.com/watch?v=qEw--v19WyI)
-- [Sigur Rós - Mór Official Video](https://www.youtube.com/watch?v=uIgtOov-j8A)
-- [Sigur Rós - Ylur Official Video](https://www.youtube.com/watch?v=bVUGKcT9QgQ)
-- [Sigur Rós - 8 Official Video](https://www.youtube.com/watch?v=f5DGqCEMvIk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +68,5 @@ styles: ["Ambient", "Post Rock"]
 | Format         | Vinyl 2× LP 45 RPM Album Limited Edition Stereo (Yellow) |
 | Label          | Krúnk |
 | Catalog Number | 5389109040 |
-| Notes | Gatefold cover with hype sticker. Some copies sold in France also included a hype sticker with 2 review quotations, one from Les Inrocks and one from Magic  Manufactured in Germany  The final three characters in runout etching on each side are mirrored.  • 300 copies of this release were released with a numbered japanese style obi strip and sold by Assai Records as part of the Assai Obi Editions. |
+| Notes | Gatefold cover with hype sticker.<br>Some copies sold in France also included a hype sticker with 2 review quotations, one from Les Inrocks and one from Magic<br><br>Manufactured in Germany<br><br>The final three characters in runout etching on each side are mirrored.<br><br>• 300 copies of this release were released with a numbered japanese style obi strip and sold by Assai Records as part of the Assai Obi Editions. |
 | Discogs URL    | [Sigur Rós - Átta](https://www.discogs.com/release/28131088-Sigur-Rós-Átta) |

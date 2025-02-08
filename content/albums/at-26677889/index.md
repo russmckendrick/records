@@ -1,9 +1,10 @@
 ---
 title: "Andy White - AT"
 artist_name: "Andy White"
-artist: "andy-white-4"
+artist: "andy-white"
 album_name: "AT"
 date: 2023-04-07T04:35:37.000000Z
+release_date: "1994-01-01"
 release_id: "26677889"
 slug: "at-26677889"
 hideSummary: true
@@ -23,24 +24,29 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. I
-2. The Sea Holds The Memory
-3. My Regeneration
-4. Bundle Of Their Dreams
-5. Everything Twice
-6. Save Me A Weekend
-7. II
-8. Three Sheep Grazing
-9. Best Fun Time For Ages
-10. It's Family
-11. The Happiness Index
-12. Rock 'N' Roll Star
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | I |  |
+| A1 | The Sea Holds The Memory |  |
+| A2 | My Regeneration |  |
+| A3 | Bundle Of Their Dreams |  |
+| A4 | Everything Twice |  |
+| A5 | Save Me A Weekend |  |
+|  | II |  |
+| B1 | Three Sheep Grazing |  |
+| B2 | Best Fun Time For Ages |  |
+| B3 | It's Family |  |
+| B4 | The Happiness Index |  |
+| B5 | Rock 'N' Roll Star |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bits-and-pieces/1026256741" >}}<br>
-
 
 
 
@@ -53,5 +59,5 @@ styles: []
 | Format         | Vinyl LP Album Stereo (Purple) |
 | Label          | Floating World |
 | Catalog Number | FWLP052 |
-| Notes | Recorded in Melbourne and Auckland Mixed in Oxfordshire  ℗ 2023 Andy White & Tim Finn © 2023 Floating World Ltd. |
+| Notes | Recorded in Melbourne and Auckland<br>Mixed in Oxfordshire<br><br>℗ 2023 Andy White & Tim Finn<br>© 2023 Floating World Ltd. |
 | Discogs URL    | [Andy White - AT](https://www.discogs.com/release/26677889-Andy-White-4-Tim-Finn-AT) |

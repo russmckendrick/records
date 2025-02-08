@@ -4,6 +4,7 @@ artist_name: "Jean-Michel Jarre"
 artist: "jean-michel-jarre"
 album_name: "Magnetic Fields"
 date: 2017-06-14T07:25:40.000000Z
+release_date: "1981-05-22"
 release_id: "263430"
 slug: "magnetic-fields-263430"
 hideSummary: true
@@ -24,28 +25,24 @@ styles: ["Ambient"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Magnetic Fields Part 1
-2. Magnetic Fields Part 2
-3. Magnetic Fields Part 3
-4. Magnetic Fields Part 4
-5. Magnetic Fields Part 5 (The Last Rumba)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Magnetic Fields Part 1 |  |
+| B1 | Magnetic Fields Part 2 |  |
+| B2 | Magnetic Fields Part 3 |  |
+| B3 | Magnetic Fields Part 4 |  |
+| B4 | Magnetic Fields Part 5 (The Last Rumba) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/les-chants-magn%C3%A9tiques-magnetic-fields/1719812406" >}}<br>
 
 
-## Videos
-### Jean-Michel Jarre - Les Chants Magnétiques Magnetic Fields 1981
-{{< youtube id="kf3mk4jDC4M" title="Jean-Michel Jarre - Les Chants Magnétiques Magnetic Fields 1981" >}}<br>
-### More Videos
-
-- [Jean-Michel Jarre - Magnetic Fields Pt 2](https://www.youtube.com/watch?v=w434qhNJMdw)
-- [Jean-Michel Jarre - Magnetic Fields Pt 2](https://www.youtube.com/watch?v=w434qhNJMdw)
-- [Jean Michel Jarre - Magnetic Field](https://www.youtube.com/watch?v=wyzXZ_NFVrg)
-- [Magnetic Fields Pt 1](https://www.youtube.com/watch?v=_0tuo-nbuHs)
-- [Magnetic Fields Pt 2](https://www.youtube.com/watch?v=bTBVd_m75oY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,5 +53,5 @@ styles: ["Ambient"]
 | Format         | Vinyl LP Album Stereo |
 | Label          | Polydor |
 | Catalog Number | POLS 1033 |
-| Notes | Released with inner picture sleeve  Cover: ℗ 1981 Disques Dreyfus © 1981 Disques Dreyfus Record printed and made in England by James Upton & Sons Ltd.  Inner sleeve: Gravure/Cutting : Dyam Music Thanks to [url=http://www.discogs.com/artist/230353]M. Geiss[/url], MCI, [l=Music Land], RSF, [url=http://www.discogs.com/label/145912]Fairlight[/url], [url=http://www.discogs.com/label/319372]Oberheim[/url] & [url=http://www.discogs.com/artist/288563]MDB[/url]  Labels: Made in England Original sound recording made by [l=Disques Dreyfus] ℗ 1981 Disques Dreyfus  Artist is credited as Jarre on front cover, but as Jean Michel Jarre on the spine and centre labels |
+| Notes | Released with inner picture sleeve<br><br>Cover:<br>℗ 1981 Disques Dreyfus © 1981 Disques Dreyfus<br>Record printed and made in England by James Upton & Sons Ltd.<br><br>Inner sleeve:<br>Gravure/Cutting : Dyam Music<br>Thanks to [url=http://www.discogs.com/artist/230353]M. Geiss[/url], MCI, [l=Music Land], RSF, [url=http://www.discogs.com/label/145912]Fairlight[/url], [url=http://www.discogs.com/label/319372]Oberheim[/url] & [url=http://www.discogs.com/artist/288563]MDB[/url]<br><br>Labels:<br>Made in England<br>Original sound recording made by [l=Disques Dreyfus]<br>℗ 1981 Disques Dreyfus<br><br>Artist is credited as Jarre on front cover, but as Jean Michel Jarre on the spine and centre labels |
 | Discogs URL    | [Jean-Michel Jarre - Magnetic Fields](https://www.discogs.com/release/263430-Jarre-Magnetic-Fields) |

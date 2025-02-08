@@ -41,33 +41,28 @@ There’s no Radiohead record more vitriolic, nor more emotionally persuasive, t
 
 
 ## Tracklisting
-1. 2 + 2 = 5 (The Lukewarm.)
-2. Sit Down. Stand Up. (Snakes & Ladders.)
-3. Sail To The Moon. (Brush The Cobwebs Out Of The Sky.)
-4. Backdrifts. (Honeymoon Is Over.)
-5. Go To Sleep. (Little Man Being Erased.)
-6. Where I End And You Begin. (The Sky Is Falling In.)
-7. We Suck Young Blood. (Your Time Is Up.)
-8. The Gloaming. (Softly Open Our Mouths In The Cold.)
-9. There There. (The Boney King Of Nowhere.)
-10. I Will. (No Man's Land.)
-11. A Punchup At A Wedding. (No No No No No No No No.)
-12. Myxomatosis. (Judge, Jury & Executioner.)
-13. Scatterbrain. (As Dead As Leaves.)
-14. A Wolf At The Door. (It Girl. Rag Doll.)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 2 + 2 = 5 (The Lukewarm.) |  |
+| A2 | Sit Down. Stand Up. (Snakes & Ladders.) |  |
+| A3 | Sail To The Moon. (Brush The Cobwebs Out Of The Sky.) |  |
+| B1 | Backdrifts. (Honeymoon Is Over.) |  |
+| B2 | Go To Sleep. (Little Man Being Erased.) |  |
+| B3 | Where I End And You Begin. (The Sky Is Falling In.) |  |
+| C1 | We Suck Young Blood. (Your Time Is Up.) |  |
+| C2 | The Gloaming. (Softly Open Our Mouths In The Cold.) |  |
+| C3 | There There. (The Boney King Of Nowhere.) |  |
+| C4 | I Will. (No Man's Land.) |  |
+| D1 | A Punchup At A Wedding. (No No No No No No No No.) |  |
+| D2 | Myxomatosis. (Judge, Jury & Executioner.) |  |
+| D3 | Scatterbrain. (As Dead As Leaves.) |  |
+| D4 | A Wolf At The Door. (It Girl. Rag Doll.) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hail-to-the-thief/1097863576" >}}<br>
 
 
-## Videos
-### Radiohead - There There
-{{< youtube id="7AQSLozK7aA" title="Radiohead - There There" >}}<br>
-### More Videos
-
-- [2  2  5](https://www.youtube.com/watch?v=2w6kHS_IRrE)
-- [Radiohead - Hail to the Thief](https://www.youtube.com/watch?v=ELbQXycMars)
-- [Radiohead - Hail To The Theif Full Album](https://www.youtube.com/watch?v=SHpXcB7leZc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +74,5 @@ There’s no Radiohead record more vitriolic, nor more emotionally persuasive, t
 | Format         | Vinyl 2× 12" 45 RPM Album Reissue |
 | Label          | XL Recordings |
 | Catalog Number | XLLP785 |
-| Notes | Pressed at Independent Record Pressing in Bordentown, New Jersey, as explicitly indicated by Stephen Burhans, Warehouse Manager at Matador Records, the U.S. distributor of affiliate XL Recordings, the current owner of Radiohead's back catalog, as of April 2016.    Runouts are etched, except 5845431 which is stamped and scratched out.  Labels on this release show 2.75" outer pressing ring with 1.375" inner pressing ring (characteristic of the Tracy-Val Hamilton presses formerly owned by [url=https://www.discogs.com/label/264205-Hub-Servall-Record-Mfg-Corp]Hub Servall[/url] and acquired by [url=https://www.discogs.com/label/1026890-Independent-Record-Pressing?page=1&genre=All&limit=500]Independent Record Pressing[/url] in 2015, as noted in Hub-Servall profile). [r=8755897] has similar runouts with stamped and scratched out 5845431 and the same [url=https://www.discogs.com/label/313190-Optimal-Media-GmbH]Optimal Media[/url] plating number but the labels of that release have only a single pressing ring.  Printed in NA. |
+| Notes | Pressed at Independent Record Pressing in Bordentown, New Jersey, as explicitly indicated by Stephen Burhans, Warehouse Manager at Matador Records, the U.S. distributor of affiliate XL Recordings, the current owner of Radiohead's back catalog, as of April 2016.  <br><br>Runouts are etched, except 5845431 which is stamped and scratched out.<br><br>Labels on this release show 2.75" outer pressing ring with 1.375" inner pressing ring (characteristic of the Tracy-Val Hamilton presses formerly owned by [url=https://www.discogs.com/label/264205-Hub-Servall-Record-Mfg-Corp]Hub Servall[/url] and acquired by [url=https://www.discogs.com/label/1026890-Independent-Record-Pressing?page=1&genre=All&limit=500]Independent Record Pressing[/url] in 2015, as noted in Hub-Servall profile). [r=8755897] has similar runouts with stamped and scratched out 5845431 and the same [url=https://www.discogs.com/label/313190-Optimal-Media-GmbH]Optimal Media[/url] plating number but the labels of that release have only a single pressing ring.<br><br>Printed in NA. |
 | Discogs URL    | [Radiohead - Hail To The Thief](https://www.discogs.com/release/8638748-Radiohead-Hail-To-The-Thief) |

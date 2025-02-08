@@ -4,6 +4,7 @@ artist_name: "Mansun"
 artist: "mansun"
 album_name: "Closed For Business"
 date: 2021-06-18T04:51:49.000000Z
+release_date: "2020-11-27"
 release_id: "19116019"
 slug: "closed-for-business-19116019"
 hideSummary: true
@@ -23,26 +24,26 @@ styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 "Closed for Business" is a song by English rock band Mansun. It was released as the lead song on Seven EP in 1997 and became their second top ten hit on the UK Singles Chart.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Closed For Business
-2. K.I.DOUBLE.S.I.N.G.
-3. Everyone Must Win
-4. The World's Still Open
-5. Dark Mavis (Acoustic)
-6. Stripper Vicar (Live)
-7. Egg Shaped Fred (Acoustic)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Closed For Business |  |
+| A2 | K.I.DOUBLE.S.I.N.G. |  |
+| A3 | Everyone Must Win |  |
+| B1 | The World's Still Open |  |
+| B2 | Dark Mavis (Acoustic) |  |
+| B3 | Stripper Vicar (Live) |  |
+| B4 | Egg Shaped Fred (Acoustic) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/closed-for-business/1770512039" >}}<br>
 
-
-## Videos
-### Mansun - Closed For Business Official Promo Video
-{{< youtube id="A-qS11sqyqY" title="Mansun - Closed For Business Official Promo Video" >}}<br>
 
 
 ## Release Images
@@ -55,5 +56,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl 12" 33 ⅓ RPM EP Record Store Day Limited Edition Stereo (Clear, 180g) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1117 |
-| Notes | Record Store Day June 2021 release.  Issued with a card sleeve and a poly-lined inner sleeve and a Kscope insert. Wrapped in a plastic resealable bag with a white hype sticker.   The catalogue number is shown as KSCOPE1117 on the sleeve and side A label, as 802644811710 on the sleeve and as Kscope1117 on the side B label.  Track B3 recorded on the Manor Mobile.  Published by PolyGram Music except track A3 PolyGram / MCPS (Copyright Control).   ℗ 1997 the copyright in this sound recording is owned by Snapper Music Ltd. © 1997 Snapper Music Ltd. Kscope is a Snapper Music label.  Made in the EU. |
+| Notes | Record Store Day June 2021 release.<br><br>Issued with a card sleeve and a poly-lined inner sleeve and a Kscope insert. Wrapped in a plastic resealable bag with a white hype sticker. <br><br>The catalogue number is shown as KSCOPE1117 on the sleeve and side A label, as 802644811710 on the sleeve and as Kscope1117 on the side B label.<br><br>Track B3 recorded on the Manor Mobile.<br><br>Published by PolyGram Music except track A3 PolyGram / MCPS (Copyright Control).<br> <br>℗ 1997 the copyright in this sound recording is owned by Snapper Music Ltd.<br>© 1997 Snapper Music Ltd. Kscope is a Snapper Music label.<br><br>Made in the EU. |
 | Discogs URL    | [Mansun - Closed For Business](https://www.discogs.com/release/19116019-Mansun-Closed-For-Business) |

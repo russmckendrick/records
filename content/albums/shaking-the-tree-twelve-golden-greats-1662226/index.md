@@ -4,6 +4,7 @@ artist_name: "Peter Gabriel"
 artist: "peter-gabriel"
 album_name: "Shaking The Tree (Twelve Golden Greats)"
 date: 2016-04-25T21:08:38.000000Z
+release_date: ""
 release_id: "1662226"
 slug: "shaking-the-tree-twelve-golden-greats-1662226"
 hideSummary: true
@@ -20,26 +21,30 @@ styles: ["Art Rock", "Pop Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Solsbury Hill
-2. I Don't Remember
-3. Sledgehammer
-4. Family Snapshot
-5. Mercy Street
-6. Shaking The Tree
-7. Don't Give Up
-8. Here Comes The Flood
-9. Games Without Frontiers
-10. Shock The Monkey
-11. Big Time
-12. Biko
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Solsbury Hill |  |
+| A2 | I Don't Remember |  |
+| A3 | Sledgehammer |  |
+| A4 | Family Snapshot |  |
+| A5 | Mercy Street |  |
+| A6 | Shaking The Tree |  |
+| B1 | Don't Give Up |  |
+| B2 | Here Comes The Flood |  |
+| B3 | Games Without Frontiers |  |
+| B4 | Shock The Monkey |  |
+| B5 | Big Time |  |
+| B6 | Biko |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Shaking The Tree
-{{< youtube id="1bzicuTBjX8" title="Shaking The Tree" >}}<br>
 
 
 ## Release Images

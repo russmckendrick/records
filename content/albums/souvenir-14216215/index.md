@@ -4,6 +4,7 @@ artist_name: "Orchestral Manoeuvres In The Dark"
 artist: "orchestral-manoeuvres-in-the-dark"
 album_name: "Souvenir"
 date: 2020-01-12T16:05:05.000000Z
+release_date: "1980-02-22"
 release_id: "14216215"
 slug: "souvenir-14216215"
 hideSummary: true
@@ -38,59 +39,59 @@ styles: ["Synth-pop"]
 A souvenir (French for 'a remembrance or memory'), memento, keepsake, or token of remembrance is an object a person acquires for the memories the owner associates with it. A souvenir can be any object that can be collected or purchased and transported home by the traveler as a memento of a visit. The object itself may have intrinsic value, or be a symbol of experience. Without the owner's input, the symbolic meaning is lost and cannot be articulated.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Electricity
-2. Red Frame/White Light
-3. Messages
-4. Enola Gay
-5. Souvenir
-6. Joan Of Arc
-7. Maid Of Orleans
-8. Genetic Engineering
-9. Telegraph
-10. Locomotion
-11. Talking Loud & Clear
-12. Tesla Girls
-13. Never Turn Away
-14. So In Love
-15. Secret
-16. La Femme Accident
-17. If You Leave
-18. (Forever) Live & Die
-19. We Love You
-20. Shame
-21. Dreaming
-22. Sailing On The Seven Seas
-23. Pandora's Box (It's A Long, Long Way)
-24. Then You Turn Away
-25. Call My Name
-26. Stand Above Me
-27. Dream Of Me
-28. Everyday
-29. Walking On The Milky Way
-30. Universal
-31. If You Want It
-32. Sister Marie Says
-33. History Of Modern (Part 1)
-34. Metroland
-35. Dresden
-36. Night Cafe
-37. Isotype
-38. The Punishment Of Luxury
-39. What Have We Done
-40. Don't Go
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Electricity |  |
+| A2 | Red Frame/White Light |  |
+| A3 | Messages |  |
+| A4 | Enola Gay |  |
+| A5 | Souvenir |  |
+| A6 | Joan Of Arc |  |
+| A7 | Maid Of Orleans |  |
+| B1 | Genetic Engineering |  |
+| B2 | Telegraph |  |
+| B3 | Locomotion |  |
+| B4 | Talking Loud & Clear |  |
+| B5 | Tesla Girls |  |
+| B6 | Never Turn Away |  |
+| B7 | So In Love |  |
+| C1 | Secret |  |
+| C2 | La Femme Accident |  |
+| C3 | If You Leave |  |
+| C4 | (Forever) Live & Die |  |
+| C5 | We Love You |  |
+| C6 | Shame |  |
+| C7 | Dreaming |  |
+| D1 | Sailing On The Seven Seas |  |
+| D2 | Pandora's Box (It's A Long, Long Way) |  |
+| D3 | Then You Turn Away |  |
+| D4 | Call My Name |  |
+| D5 | Stand Above Me |  |
+| D6 | Dream Of Me |  |
+| E1 | Everyday |  |
+| E2 | Walking On The Milky Way |  |
+| E3 | Universal |  |
+| E4 | If You Want It |  |
+| E5 | Sister Marie Says |  |
+| E6 | History Of Modern (Part 1) |  |
+| F1 | Metroland |  |
+| F2 | Dresden |  |
+| F3 | Night Cafe |  |
+| F4 | Isotype |  |
+| F5 | The Punishment Of Luxury |  |
+| F6 | What Have We Done |  |
+| F7 | Don't Go |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/orchestral-manoeuvres-in-the-dark/714727396" >}}<br>
 
-
-## Videos
-### Souvenir Remastered 2019
-{{< youtube id="RVftFadDCic" title="Souvenir Remastered 2019" >}}<br>
 
 
 ## Release Images
@@ -103,5 +104,5 @@ A souvenir (French for 'a remembrance or memory'), memento, keepsake, or token o
 | Format         | Vinyl 3× LP Compilation (180 Gram) |
 | Label          | Virgin EMI Records |
 | Catalog Number | 7743914 |
-| Notes | Tri-fold sleeve.  Some copies include a digital download card (WAV) and an additional line "includes digital download card" on the hype sticker.  "A Virgin EMI Records Release" A Universal Music Company  Band billed as "OMD Orchestral Manoeuvres In The Dark" on the hype sticker.  Made in the EU. |
+| Notes | Tri-fold sleeve.<br><br>Some copies include a digital download card (WAV) and an additional line "includes digital download card" on the hype sticker.<br><br>"A Virgin EMI Records Release"<br>A Universal Music Company<br><br>Band billed as "OMD Orchestral Manoeuvres In The Dark" on the hype sticker.<br><br>Made in the EU. |
 | Discogs URL    | [Orchestral Manoeuvres In The Dark - Souvenir](https://www.discogs.com/release/14216215-Orchestral-Manoeuvres-In-The-Dark-Souvenir) |

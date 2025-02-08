@@ -59,25 +59,27 @@ George Evelyn, aka Nightmares on Wax, is concerned with notions of freedom. “W
 
 
 ## Tracklisting
-1. Shout Out! (Intro)
-2. Imagineering
-3. Creator SOS
-4. 3D Warrior
-5. Miami 80
-6. GTP Call
-7. Wikid Satellites
-8. Breathe In
-9. To Freedom (Interlude)
-10. Wonder
-11. Own Me
-12. Widyabad
-13. Isolated
-14. Trillion
-15. Up To Us
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Shout Out! (Intro) |  |
+| A2 | Imagineering |  |
+| A3 | Creator SOS |  |
+| A4 | 3D Warrior |  |
+| B1 | Miami 80 |  |
+| B2 | GTP Call |  |
+| B3 | Wikid Satellites |  |
+| B4 | Breathe In |  |
+| C1 | To Freedom (Interlude) |  |
+| C2 | Wonder |  |
+| C3 | Own Me |  |
+| C4 | Widyabad |  |
+| D1 | Isolated |  |
+| D2 | Trillion |  |
+| D3 | Up To Us |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/shout-out-to-freedom/1577987770" >}}<br>
-
 
 
 
@@ -90,5 +92,5 @@ George Evelyn, aka Nightmares on Wax, is concerned with notions of freedom. “W
 | Format         | Vinyl 2× LP Album (Blue Transparent ) |
 | Label          | Warp Records |
 | Catalog Number | WARPLP321B |
-| Notes | Made in EU  A4. Shabaka Hutchings recorded at Octagon London Studios, Brixton [UK], bass and keys recorded at ATA studios, Leeds. C2. Shabaka Hutchings recorded at Octagon London Studios, Brixton [UK] D2. Mara TK recorded and engineered at College of Creative Arts, Massey University, Wellington [NZ]  Management assistant by Eram Butt at ENDLESSLOVESHOW  250 copies ordered from the official N.O.W. store (Bleep.com) included an exclusive print (see the final picture in the images here). This print was advertised/sold as being autographed by George Evelyn, however an email was sent the day before album's release (11/28/2021) stating that the print was not able to be signed. |
+| Notes | Made in EU<br><br>A4. Shabaka Hutchings recorded at Octagon London Studios, Brixton [UK], bass and keys recorded at ATA studios, Leeds.<br>C2. Shabaka Hutchings recorded at Octagon London Studios, Brixton [UK]<br>D2. Mara TK recorded and engineered at College of Creative Arts, Massey University, Wellington [NZ]<br><br>Management assistant by Eram Butt at ENDLESSLOVESHOW<br><br>250 copies ordered from the official N.O.W. store (Bleep.com) included an exclusive print (see the final picture in the images here). This print was advertised/sold as being autographed by George Evelyn, however an email was sent the day before album's release (11/28/2021) stating that the print was not able to be signed. |
 | Discogs URL    | [Nightmares On Wax - Shout Out! To Freedom...](https://www.discogs.com/release/20771251-Nightmares-On-Wax-Shout-Out-To-Freedom) |

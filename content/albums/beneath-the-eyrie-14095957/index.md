@@ -4,6 +4,7 @@ artist_name: "Pixies"
 artist: "pixies"
 album_name: "Beneath The Eyrie"
 date: 2019-09-15T11:58:43.000000Z
+release_date: "2019-09-13"
 release_id: "14095957"
 slug: "beneath-the-eyrie-14095957"
 hideSummary: true
@@ -29,31 +30,31 @@ styles: ["Indie Rock"]
 Beneath the Eyrie is the seventh studio album by American alternative rock band Pixies, released on September 13, 2019, by BMG/Infectious. Produced by Tom Dalgety, and preceded by the singles "On Graveyard Hill" and "Catfish Kate", the album was recorded in Dreamland Recording Studios, a remote, converted church in upstate New York. The band were influenced by their Gothic surroundings during the writing and recording process, with vocalist and guitarist Black Francis stating: "I wanted to intermingle with the spirit world, with life and death and with the mystical and a more surreal landscape."
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. In The Arms Of Mrs. Mark Of Cain
-2. Graveyard Hill
-3. Catfish Kate
-4. This Is My Fate
-5. Ready For Love
-6. Silver Bullet
-7. Long Rider
-8. Los Surfers Muertos
-9. St. Nazaire
-10. Bird Of Prey
-11. Daniel Boone
-12. Death Horizon
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | In The Arms Of Mrs. Mark Of Cain |  |
+| A2 | Graveyard Hill |  |
+| A3 | Catfish Kate |  |
+| A4 | This Is My Fate |  |
+| A5 | Ready For Love |  |
+| A6 | Silver Bullet |  |
+| B7 | Long Rider |  |
+| B8 | Los Surfers Muertos |  |
+| B9 | St. Nazaire |  |
+| B10 | Bird Of Prey |  |
+| B11 | Daniel Boone |  |
+| B12 | Death Horizon |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/beneath-the-eyrie-deluxe/1496620934" >}}<br>
 
-
-## Videos
-### Pixies - Beneath The Eyrie FULL ALBUM 
-{{< youtube id="HG9AW8lA_qg" title="Pixies - Beneath The Eyrie FULL ALBUM " >}}<br>
 
 
 ## Release Images
@@ -66,5 +67,5 @@ Beneath the Eyrie is the seventh studio album by American alternative rock band 
 | Format         | Vinyl LP Album (White) |
 | Label          | Infectious Music |
 | Catalog Number | INFECT526LPC |
-| Notes | Indies Edition in gatefold sleeve with lyric inner sleeve plus download code.   Tracks numbered sequentially regardless of sides. |
+| Notes | Indies Edition in gatefold sleeve with lyric inner sleeve plus download code. <br><br>Tracks numbered sequentially regardless of sides. |
 | Discogs URL    | [Pixies - Beneath The Eyrie](https://www.discogs.com/release/14095957-Pixies-Beneath-The-Eyrie) |

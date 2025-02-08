@@ -4,6 +4,7 @@ artist_name: "Bob Mould"
 artist: "bob-mould"
 album_name: "Sunshine Rock"
 date: 2019-02-08T14:23:02.000000Z
+release_date: "2019-02-08"
 release_id: "13162648"
 slug: "sunshine-rock-13162648"
 hideSummary: true
@@ -26,53 +27,31 @@ styles: ["Alternative Rock", "Indie Rock", "Punk", "Pop Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Sunshine Rock (3:09)
-2. What Do You Want Me To Do (2:31)
-3. Sunny Love Song (3:01)
-4. Thirty Dozen Roses (2:53)
-5. The Final Years (3:25)
-6. Irrational Poison (2:52)
-7. I Fought (2:36)
-8. Sin King (3:54)
-9. Lost Faith (3:21)
-10. Camp Sunshine (3:04)
-11. Send Me A Postcard  (2:35)
-12. Western Sunset (3:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sunshine Rock | 3:09 |
+| A2 | What Do You Want Me To Do | 2:31 |
+| A3 | Sunny Love Song | 3:01 |
+| A4 | Thirty Dozen Roses | 2:53 |
+| A5 | The Final Years | 3:25 |
+| A6 | Irrational Poison | 2:52 |
+| B1 | I Fought | 2:36 |
+| B2 | Sin King | 3:54 |
+| B3 | Lost Faith | 3:21 |
+| B4 | Camp Sunshine | 3:04 |
+| B5 | Send Me A Postcard  | 2:35 |
+| B6 | Western Sunset | 3:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sunshine-rock/1437426052" >}}<br>
 
 
-## Videos
-### Bob Mould Sunshine Rock
-{{< youtube id="ZHQUyZnS7qo" title="Bob Mould Sunshine Rock" >}}<br>
-### More Videos
-
-- [Bob Mould What Do You Want Me To Do](https://www.youtube.com/watch?v=m6ZW5r_C_mU)
-- [Sunny Love Song](https://www.youtube.com/watch?v=Kv8-ZmbyZjY)
-- [Thirty Dozen Roses](https://www.youtube.com/watch?v=zvyIL74yvmo)
-- [The Final Years](https://www.youtube.com/watch?v=j36m1AC0zPY)
-- [Irrational Poison](https://www.youtube.com/watch?v=cgzj05GJ1rI)
-- [I Fought](https://www.youtube.com/watch?v=Jy6BiFtOaUI)
-- [Sin King](https://www.youtube.com/watch?v=tS6Si9293cY)
-- [Bob Mould - Lost Faith Official Music Video](https://www.youtube.com/watch?v=k5F-aj171QM)
-- [Camp Sunshine](https://www.youtube.com/watch?v=MVh-qMaDgMA)
-- [Send Me A Postcard](https://www.youtube.com/watch?v=K3SXCtRF7Lc)
-- [Western Sunset](https://www.youtube.com/watch?v=hV2bYn_jmlA)
-- [Bob Mould Sunshine Rock](https://www.youtube.com/watch?v=ZHQUyZnS7qo)
-- [Bob Mould What Do You Want Me To Do](https://www.youtube.com/watch?v=m6ZW5r_C_mU)
-- [Sunny Love Song](https://www.youtube.com/watch?v=Kv8-ZmbyZjY)
-- [Thirty Dozen Roses](https://www.youtube.com/watch?v=zvyIL74yvmo)
-- [The Final Years](https://www.youtube.com/watch?v=j36m1AC0zPY)
-- [Irrational Poison](https://www.youtube.com/watch?v=cgzj05GJ1rI)
-- [I Fought](https://www.youtube.com/watch?v=Jy6BiFtOaUI)
-- [Sin King](https://www.youtube.com/watch?v=tS6Si9293cY)
-- [Bob Mould - Lost Faith Official Music Video](https://www.youtube.com/watch?v=k5F-aj171QM)
-- [Camp Sunshine](https://www.youtube.com/watch?v=MVh-qMaDgMA)
-- [Send Me A Postcard](https://www.youtube.com/watch?v=K3SXCtRF7Lc)
-- [Western Sunset](https://www.youtube.com/watch?v=hV2bYn_jmlA)
 
 ## Release Images
 {{< imageGrid >}}

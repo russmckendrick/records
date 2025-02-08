@@ -4,6 +4,7 @@ artist_name: "Jamiroquai"
 artist: "jamiroquai"
 album_name: "Emergency On Planet Earth"
 date: 2022-10-14T05:16:00.000000Z
+release_date: "1993-06-14"
 release_id: "24817685"
 slug: "emergency-on-planet-earth-24817685"
 hideSummary: true
@@ -35,29 +36,29 @@ Emergency on Planet Earth is the debut studio album by English funk and acid jaz
 Critical reviews of the album were generally positive and noted its 1970s stylings. It reached number one in the UK Albums Chart and sold over 1,200,000 copies worldwide. Its single "Too Young to Die" peaked at number 10 in the UK Singles Chart. A remastered version of the album was released in 2013 to coincide with the 20th anniversary of the album's release, including a new vinyl release.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. When You Gonna Learn (3:47)
-2. Too Young To Die (6:04)
-3. Hooked Up (4:36)
-4. If I Like It, I Do It (4:53)
-5. Music Of The Mind (6:22)
-6. Emergency On Planet Earth (4:04)
-7. Whatever It Is, I Just Can't Stop (6:04)
-8. Blow Your Mind (8:32)
-9. Revolution 1993 (10:16)
-10. Didgin' Out (2:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | When You Gonna Learn | 3:47 |
+| A2 | Too Young To Die | 6:04 |
+| B1 | Hooked Up | 4:36 |
+| B2 | If I Like It, I Do It | 4:53 |
+| B3 | Music Of The Mind | 6:22 |
+| C1 | Emergency On Planet Earth | 4:04 |
+| C2 | Whatever It Is, I Just Can't Stop | 6:04 |
+| C3 | Blow Your Mind | 8:32 |
+| D1 | Revolution 1993 | 10:16 |
+| D2 | Didgin' Out | 2:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/emergency-on-planet-earth-remastered/600870407" >}}<br>
 
-
-## Videos
-### Jamiroquai - Emergency On Planet Earth - Full album
-{{< youtube id="Kjp1vPLkBBQ" title="Jamiroquai - Emergency On Planet Earth - Full album" >}}<br>
 
 
 ## Release Images
@@ -70,5 +71,5 @@ Critical reviews of the album were generally positive and noted its 1970s stylin
 | Format         | Vinyl 2× LP Album Reissue Special Edition (Clear, 180g, 30th Anniversary) |
 | Label          | Sony Music |
 | Catalog Number | 19658702311 |
-| Notes | Issued in a gatefold sleeve. Includes two printed inner sleeves and an insert.  Track C2 “Whatever It Is, I Just Can't Stop” has a misprinted run time of 6:04 on the back cover. The correct run time of 4:07 is printed on the record’s center label.  Made in the EU.  Runouts are etched, apart from "-60329-" which is stamped |
+| Notes | Issued in a gatefold sleeve. Includes two printed inner sleeves and an insert.<br><br>Track C2 “Whatever It Is, I Just Can't Stop” has a misprinted run time of 6:04 on the back cover. The correct run time of 4:07 is printed on the record’s center label.<br><br>Made in the EU.<br><br>Runouts are etched, apart from "-60329-" which is stamped |
 | Discogs URL    | [Jamiroquai - Emergency On Planet Earth](https://www.discogs.com/release/24817685-Jamiroquai-Emergency-On-Planet-Earth) |

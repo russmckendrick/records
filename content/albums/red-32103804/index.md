@@ -33,29 +33,26 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 
 
 ## Tracklisting
-1. 2024 Mixes
-2. Red
-3. Fallen Angel
-4. One More Red Nightmare
-5. Providence
-6. Starless
-7. Elemental Mixes
-8. Red
-9. Fallen Angel
-10. One More Red Nightmare
-11. Starless - Percussion
-12. Starless
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | 2024 Mixes |  |
+| A1 | Red |  |
+| A2 | Fallen Angel |  |
+| A3 | One More Red Nightmare |  |
+| B1 | Providence |  |
+| B2 | Starless |  |
+|  | Elemental Mixes |  |
+| C1 | Red |  |
+| C2 | Fallen Angel |  |
+| C3 | One More Red Nightmare |  |
+| D1 | Starless - Percussion |  |
+| D2 | Starless |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/in-the-court-of-the-crimson-king-expanded-edition/918534711" >}}<br>
 
 
-## Videos
-### King Crimson - Red OFFICIAL
-{{< youtube id="X_pDwv3tpug" title="King Crimson - Red OFFICIAL" >}}<br>
-### More Videos
-
-- [King Crimson - Red OFFICIAL](https://www.youtube.com/watch?v=X_pDwv3tpug)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +64,5 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 | Format         | Vinyl LP Reissue Stereo (200 Gram), Vinyl LP Stereo (200 Gram), All Media Album (50th Anniversary Edition) |
 | Label          | Panegyric |
 | Catalog Number | KCLPX2024 |
-| Notes | Hype sticker: KCLPX2024 (2 LP set) 50th anniversary edition of the 1974 classic, featuring a new 2024 mix by Steven Wilson and an album of Elemental mixes by David Singleton - all mixes approved by Robert Fripp. 200-gram super-heavyweight vinyl.  ℗ & © 2023 Robert Fripp. Made in England.  Runouts are etched. |
+| Notes | Hype sticker: KCLPX2024 (2 LP set) 50th anniversary edition of the 1974 classic, featuring a new 2024 mix by Steven Wilson and an album of Elemental mixes by David Singleton - all mixes approved by Robert Fripp. 200-gram super-heavyweight vinyl.<br><br>℗ & © 2023 Robert Fripp.<br>Made in England.<br><br>Runouts are etched. |
 | Discogs URL    | [King Crimson - Red](https://www.discogs.com/release/32103804-King-Crimson-Red) |

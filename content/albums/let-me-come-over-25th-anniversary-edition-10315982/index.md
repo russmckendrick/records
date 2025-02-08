@@ -4,6 +4,7 @@ artist_name: "Buffalo Tom"
 artist: "buffalo-tom"
 album_name: "Let Me Come Over (25th Anniversary Edition)"
 date: 2017-05-20T15:15:57.000000Z
+release_date: "2017-05-19"
 release_id: "10315982"
 slug: "let-me-come-over-25th-anniversary-edition-10315982"
 hideSummary: true
@@ -24,51 +25,43 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Let Me Come Over
-2. Staples
-3. Taillights Fade
-4. Mountains Of Your Head
-5. Mineral
-6. Darl
-7. Larry
-8. Velvet Roof
-9. I'm Not There
-10. Stymied
-11. Porchlight
-12. Frozen Lake
-13. Saving Grace
-14. Live From London ULU 1992
-15. Staples
-16. Taillights Fade
-17. Larry
-18. I'm Not There
-19. Velvet Roof
-20. Sunflower Suit
-21. Mineral
-22. Sally Brown
-23. Enemy
-24. Birdbrain
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Let Me Come Over |  |
+| A1 | Staples |  |
+| A2 | Taillights Fade |  |
+| A3 | Mountains Of Your Head |  |
+| A4 | Mineral |  |
+| A5 | Darl |  |
+| A6 | Larry |  |
+| B1 | Velvet Roof |  |
+| B2 | I'm Not There |  |
+| B3 | Stymied |  |
+| B4 | Porchlight |  |
+| B5 | Frozen Lake |  |
+| B6 | Saving Grace |  |
+|  | Live From London ULU 1992 |  |
+| C1 | Staples |  |
+| C2 | Taillights Fade |  |
+| C3 | Larry |  |
+| C4 | I'm Not There |  |
+| C5 | Velvet Roof |  |
+| D1 | Sunflower Suit |  |
+| D2 | Mineral |  |
+| D3 | Sally Brown |  |
+| D4 | Enemy |  |
+| D5 | Birdbrain |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/let-me-come-over-25th-anniversary-edition/1224811046" >}}<br>
 
 
-## Videos
-### Stymied
-{{< youtube id="GZAiJhZgmdo" title="Stymied" >}}<br>
-### More Videos
-
-- [Buffalo Tom - Taillights Fade Acoustic MTV 120 Minutes](https://www.youtube.com/watch?v=CI79ViVzGwg)
-- [Buffalo Tom - Taillights Fade](https://www.youtube.com/watch?v=sEjmJ1Ge00U)
-- [Buffalo Tom - Velvet Roof](https://www.youtube.com/watch?v=P1LFwWyXs2I)
-- [Buffalo Tom - Darl 1992](https://www.youtube.com/watch?v=ou170-VJzQY)
-- [Buffalo Tom - Taillights Fade](https://www.youtube.com/watch?v=sEjmJ1Ge00U)
-- [Buffalo Tom - Velvet Roof](https://www.youtube.com/watch?v=P1LFwWyXs2I)
-- [Buffalo Tom - Frozen Lake 1992](https://www.youtube.com/watch?v=watFbEYyFAw)
-- [Buffalo Tom - Larry](https://www.youtube.com/watch?v=OJ09IPoF3os)
-- [Buffalo Tom - Crutch Album Version](https://www.youtube.com/watch?v=xbvrADHK9BM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -79,5 +72,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Reissue, Vinyl LP, All Media (Gatefold) |
 | Label          | Beggars Banquet |
 | Catalog Number | BBQLP 2145 |
-| Notes | Let Me Come Over: Mixed at Soundtracks. Additional mixing at Carriage House. Recorded at Dreamland and Fort Apache.  Includes bonus LP "Live From London ULU 1992" Mixed at Q Division Studios. Special thanks to Ed Valauskas.  Tracks C3 and D5 were previously released on [m55044] (except 7" with D5 only).  Includes a coupon to download the album and the full live show as [url=https://www.discogs.com/release/13211362]320 kbps MP3s[/url]. |
+| Notes | Let Me Come Over:<br>Mixed at Soundtracks.<br>Additional mixing at Carriage House.<br>Recorded at Dreamland and Fort Apache.<br><br>Includes bonus LP "Live From London ULU 1992"<br>Mixed at Q Division Studios.<br>Special thanks to Ed Valauskas.<br><br>Tracks C3 and D5 were previously released on [m55044] (except 7" with D5 only).<br><br>Includes a coupon to download the album and the full live show as [url=https://www.discogs.com/release/13211362]320 kbps MP3s[/url]. |
 | Discogs URL    | [Buffalo Tom - Let Me Come Over (25th Anniversary Edition)](https://www.discogs.com/release/10315982-Buffalo-Tom-Let-Me-Come-Over-25th-Anniversary-Edition) |

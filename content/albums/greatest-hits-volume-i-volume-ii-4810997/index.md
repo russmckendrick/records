@@ -4,6 +4,7 @@ artist_name: "Billy Joel"
 artist: "billy-joel"
 album_name: "Greatest Hits Volume I & Volume II"
 date: 2016-10-14T12:58:46.000000Z
+release_date: "1985-09-02"
 release_id: "4810997"
 slug: "greatest-hits-volume-i-volume-ii-4810997"
 hideSummary: true
@@ -24,44 +25,40 @@ styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Piano Man (5:36)
-2. Say Goodbye To Hollywood (3:53)
-3. New York State Of Mind (5:58)
-4. The Stranger (4:55)
-5. Just The Way You Are (3:34)
-6. Movin' Out (Anthony's Song) (3:27)
-7. Only The Good Die Young (3:53)
-8. She's Always A Woman (3:18)
-9. My Life (3:50)
-10. Big Shot (3:43)
-11. Honesty (3:50)
-12. You May Be Right (4:09)
-13. It's Still Rock And Roll To Me (2:54)
-14. Pressure (3:13)
-15. Allentown (3:49)
-16. Goodnight Saigon (7:02)
-17. Tell Her About It (3:55)
-18. Uptown Girl (3:15)
-19. The Longest Time (3:35)
-20. You're Only Human (Second Wind) (4:47)
-21. The Night Is Still Young (5:27)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Piano Man | 5:36 |
+| A2 | Say Goodbye To Hollywood | 3:53 |
+| A3 | New York State Of Mind | 5:58 |
+| A4 | The Stranger | 4:55 |
+| A5 | Just The Way You Are | 3:34 |
+| B1 | Movin' Out (Anthony's Song) | 3:27 |
+| B2 | Only The Good Die Young | 3:53 |
+| B3 | She's Always A Woman | 3:18 |
+| B4 | My Life | 3:50 |
+| B5 | Big Shot | 3:43 |
+| B6 | Honesty | 3:50 |
+| C1 | You May Be Right | 4:09 |
+| C2 | It's Still Rock And Roll To Me | 2:54 |
+| C3 | Pressure | 3:13 |
+| C4 | Allentown | 3:49 |
+| C5 | Goodnight Saigon | 7:02 |
+| D1 | Tell Her About It | 3:55 |
+| D2 | Uptown Girl | 3:15 |
+| D3 | The Longest Time | 3:35 |
+| D4 | You're Only Human (Second Wind) | 4:47 |
+| D5 | The Night Is Still Young | 5:27 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/greatest-hits-volume-i-volume-ii/1461891971" >}}<br>
 
 
-## Videos
-### Billy Joel - Piano Man Official HD Video
-{{< youtube id="gxEPV4kolz0" title="Billy Joel - Piano Man Official HD Video" >}}<br>
-### More Videos
-
-- [Billy Joel - Youre Only Human Second Wind Official Video](https://www.youtube.com/watch?v=YhxjNYvJbgM)
-- [Billy Joel - The Night Is Still Young Official Video](https://www.youtube.com/watch?v=C3ogFWISPuw)
-- [Billy Joel - Piano Man Original Video](https://www.youtube.com/watch?v=hRlsu-4BNv8)
-- [Billy Joel - Say Goodbye To Hollywood Audio](https://www.youtube.com/watch?v=MhrHPTaVKvc)
-- [Billy Joel - Uptown Girl Official Video](https://www.youtube.com/watch?v=hCuMWrfXG4E)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +69,5 @@ styles: ["Pop Rock", "Synth-pop", "Ballad", "Classic Rock"]
 | Format         | Vinyl 2× LP Compilation (Gatefold) |
 | Label          | CBS |
 | Catalog Number | CBS 88666 |
-| Notes | This album consists of previously released material except for the tracks D4 and D5    Record 1 is called "Greatest Hits Volume I 1973-1980", record 2 is called "Greatest Hits Volume II 1980-1985"    Gatefold sleeve   |
+| Notes | This album consists of previously released material except for the tracks D4 and D5<br><br>Record 1 is called "Greatest Hits Volume I 1973-1980", record 2 is called "Greatest Hits Volume II 1980-1985"<br><br>Gatefold sleeve<br> |
 | Discogs URL    | [Billy Joel - Greatest Hits Volume I & Volume II](https://www.discogs.com/release/4810997-Billy-Joel-Greatest-Hits-Volume-I-Volume-II) |

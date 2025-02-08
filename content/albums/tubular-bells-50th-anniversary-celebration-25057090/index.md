@@ -4,6 +4,7 @@ artist_name: "Royal Philharmonic Orchestra"
 artist: "royal-philharmonic-orchestra"
 album_name: "Tubular Bells 50th Anniversary Celebration"
 date: 2022-11-11T01:36:41.000000Z
+release_date: "2022-10-28"
 release_id: "25057090"
 slug: "tubular-bells-50th-anniversary-celebration-25057090"
 hideSummary: true
@@ -18,18 +19,23 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Tubular Bells Part 1
-2. Tubular Bells Part 2
-3. Sailor's Hornpipe
-4. Ommadawn Part 1
-5. Excerpt From Hergest Ridge Part 1
-6. Moonlight Shadow
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Tubular Bells Part 1 |  |
+| B1 | Tubular Bells Part 2 |  |
+| B2 | Sailor's Hornpipe |  |
+| C1 | Ommadawn Part 1 |  |
+| D1 | Excerpt From Hergest Ridge Part 1 |  |
+| D2 | Moonlight Shadow |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tubular-bells-50th-anniversary-celebration/1645180679" >}}<br>
-
 
 
 

@@ -4,6 +4,7 @@ artist_name: "Neil Gaiman"
 artist: "neil-gaiman"
 album_name: "Signs of Life"
 date: 2023-05-29T04:53:16.000000Z
+release_date: "2023-04-28"
 release_id: "26966306"
 slug: "signs-of-life-26966306"
 hideSummary: true
@@ -34,33 +35,31 @@ styles: ["Spoken Word"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Clock (5:23)
-2. Möbius Strip (4:31)
-3. Bloody Sunrise (2:52)
-4. The Wreckers (3:44)
-5. Song of the Song (4:10)
-6. Credo (3:13)
-7. Neverwhere (4:30)
-8. Poem First Read on January 26th, 2011 at the  Sydney Opera House (3:38)
-9. The Problem With Saints (2:36)
-10. In Transit (6:08)
-11. Signs of a Life (6:08)
-12. Oceanic (5:45)
+| Position | Title | Duration |
+|----------|-------|----------|
+| 1 | Clock | 5:23 |
+| 2 | Möbius Strip | 4:31 |
+| 3 | Bloody Sunrise | 2:52 |
+| 4 | The Wreckers | 3:44 |
+| 5 | Song of the Song | 4:10 |
+| 6 | Credo | 3:13 |
+| 7 | Neverwhere | 4:30 |
+| 8 | Poem First Read on January 26th, 2011 at the  Sydney Opera House | 3:38 |
+| 9 | The Problem With Saints | 2:36 |
+| 10 | In Transit | 6:08 |
+| 11 | Signs of a Life | 6:08 |
+| 12 | Oceanic | 5:45 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/signs-of-life/1646512003" >}}<br>
 
 
-## Videos
-### Signs of a Life
-{{< youtube id="4bMWiAdSMLk" title="Signs of a Life" >}}<br>
-### More Videos
-
-- [Credo](https://www.youtube.com/watch?v=tGbvCN9sjGU)
-- [In Transit](https://www.youtube.com/watch?v=aCAN43oG0oQ)
-- [Möbius Strip](https://www.youtube.com/watch?v=OlKbop2SLJU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +70,5 @@ styles: ["Spoken Word"]
 | Format         | Vinyl LP Limited Edition Stereo (Silver Fox) |
 | Label          | Instrumental Records |
 | Catalog Number | INST009 |
-| Notes | Limited edition "silver fox" colored vinyl variant.  Gatefold sleeve.  Includes a downoad code. |
+| Notes | Limited edition "silver fox" colored vinyl variant.<br><br>Gatefold sleeve.<br><br>Includes a downoad code. |
 | Discogs URL    | [Neil Gaiman - Signs of Life](https://www.discogs.com/release/26966306-Neil-Gaiman-FourPlay-String-Quartet-Signs-of-Life) |

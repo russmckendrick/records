@@ -4,6 +4,7 @@ artist_name: "Francis Monkman"
 artist: "francis-monkman"
 album_name: "The Long Good Friday (Original Motion Picture Score)"
 date: 2016-10-20T16:29:01.000000Z
+release_date: ""
 release_id: "8597626"
 slug: "the-long-good-friday-original-motion-picture-score-8597626"
 hideSummary: true
@@ -18,40 +19,31 @@ styles: ["Score", "Soundtrack"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Main Title
-2. Overture
-3. The Scene
-4. At The Pool
-5. Discovery
-6. The Icehouse
-7. Talking To The Police
-8. Guitar Interludes
-9. Realization
-10. Fury
-11. Taken
-12. The Long Friday
+| Position | Title | Duration |
+|----------|-------|----------|
+| A01 | Main Title |  |
+| A02 | Overture |  |
+| A03 | The Scene |  |
+| A04 | At The Pool |  |
+| A05 | Discovery |  |
+| A06 | The Icehouse |  |
+| B01 | Talking To The Police |  |
+| B02 | Guitar Interludes |  |
+| B03 | Realization |  |
+| B04 | Fury |  |
+| B05 | Taken |  |
+| B06 | The Long Friday |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Francis Monkman - The Long Good Friday 1979 Soundtrack
-{{< youtube id="2boaFaezG00" title="Francis Monkman - The Long Good Friday 1979 Soundtrack" >}}<br>
-### More Videos
 
-- [Francis Monkman - Overture The Long Good Friday Original Soundtrack](https://www.youtube.com/watch?v=gT0ZpSLH_VM)
-- [The Long Good Friday - The Scene is Set Theme](https://www.youtube.com/watch?v=DK3FJpTXlLU)
-- [Francis Monkman - At the Pool The Long Good Friday Original Soundtrack](https://www.youtube.com/watch?v=QAF36U3q-Yo)
-- [Francis Monkman - Fury The Long Good Friday Original Soundtrack](https://www.youtube.com/watch?v=6fXdwg1vEtk)
-- [Francis Monkman - Taken The Long Good Friday Original Soundtrack](https://www.youtube.com/watch?v=EVULl0aDKfw)
-- [The Long Good Friday Main Title Theme Music - Full Version The Stereo Mix](https://www.youtube.com/watch?v=iYY5mQG1NZg)
-- [The Long Good Friday - Overture Francis Monkman](https://www.youtube.com/watch?v=c2R5gdP_JdM)
-- [The Long Good Friday Theme - Francis Monkman - Recreation](https://www.youtube.com/watch?v=eHb7QIK3FP8)
-- [THE LONG GOOD FRIDAY Ending](https://www.youtube.com/watch?v=1ldZUQFr_9k)
-- [The Long Good Friday - End Credits Theme Francis Monkman](https://www.youtube.com/watch?v=LE1levIiVY0)
-- [The Long Good Friday Francis Monkman](https://www.youtube.com/watch?v=IDH338CJWR4)
-- [The Long Good Friday 1980 Modern Trailer](https://www.youtube.com/watch?v=FS2SwFTa1YI)
 
 ## Release Images
 {{< imageGrid >}}

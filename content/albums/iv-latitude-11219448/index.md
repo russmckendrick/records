@@ -4,6 +4,7 @@ artist_name: "Lesoir"
 artist: "lesoir"
 album_name: "IV Latitude"
 date: 2019-03-27T19:31:25.000000Z
+release_date: ""
 release_id: "11219448"
 slug: "iv-latitude-11219448"
 hideSummary: true
@@ -30,31 +31,32 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Modern Goddess (4:31)
-2. In The Game (5:27)
-3. Icon (4:02)
-4. In Their Eyes (7:24)
-5. Gone And Forgotten (5:31)
-6. Eden's Garden (6:45)
-7. Zeroes And Ones (4:10)
-8. Kissed By Sunlight (4:58)
-9. Cheap Trade (3:10)
-10. Comforting Rain (4:16)
-11. Latitude (3:39)
-12. Faith Is (6:21)
-13. Cradle Song (1:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A-I | Modern Goddess | 4:31 |
+| A-II | In The Game | 5:27 |
+| A-III | Icon | 4:02 |
+| B-IV | In Their Eyes | 7:24 |
+| B-V | Gone And Forgotten | 5:31 |
+| B-VI | Eden's Garden | 6:45 |
+| C-VII | Zeroes And Ones | 4:10 |
+| C-VIII | Kissed By Sunlight | 4:58 |
+| C-IX | Cheap Trade | 3:10 |
+| D-X | Comforting Rain | 4:16 |
+| D-XI | Latitude | 3:39 |
+| D-XII | Faith Is | 6:21 |
+| D-XIII | Cradle Song | 1:55 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Latitude
-{{< youtube id="t3zBRu3b4RU" title="Latitude" >}}<br>
-### More Videos
 
-- [Lesoir Latitude GAOM054](https://www.youtube.com/watch?v=L8vaclL7Ojc)
-- [In Their Eyes](https://www.youtube.com/watch?v=H6JRkSNYD80)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +67,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 2× LP Album |
 | Label          | Gentle Art Of Music |
 | Catalog Number | GAOM 054LP |
-| Notes | Ordered Directly by the Band to get a Signed edition. Includes a download card. |
+| Notes | Ordered Directly by the Band to get a Signed edition.<br>Includes a download card. |
 | Discogs URL    | [Lesoir - IV Latitude](https://www.discogs.com/release/11219448-Lesoir-IV-Latitude) |

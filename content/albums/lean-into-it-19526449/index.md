@@ -1,16 +1,17 @@
 ---
-title: "Mr. Big - Lean Into It"
-artist_name: "Mr. Big"
+title: "Mr Big - Lean Into It"
+artist_name: "Mr Big"
 artist: "mr-big"
 album_name: "Lean Into It"
 date: 2021-07-22T04:46:29.000000Z
+release_date: "1991-03-26"
 release_id: "19526449"
 slug: "lean-into-it-19526449"
 hideSummary: true
 cover:
     image: "lean-into-it-19526449.jpg"
-    alt: "Lean Into It by Mr. Big"
-    caption: "Lean Into It by Mr. Big"
+    alt: "Lean Into It by Mr Big"
+    caption: "Lean Into It by Mr Big"
 additional_images:
     - "https://i.discogs.com/81liSmoEaDx-Ms6sFgwAo7AG9LpbrWmwDqvvUfHo2qk/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTI2/NDQ5LTE2MjY5NTQ1/NDgtMjI2NS5qcGVn.jpeg"
     - "https://i.discogs.com/7ZMEUMNq4i1gP-oozPDk4wP1C_gSa8c7MyzYY7MtyVk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTI2/NDQ5LTE2MjY5NTQ1/NDgtNDgzMi5qcGVn.jpeg"
@@ -28,36 +29,31 @@ The album was ranked No. 49 on Rolling Stone's list of the 50 Greatest Hair Meta
 The album includes the song "Green-Tinted Sixties Mind".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Daddy, Brother, Lover, Little Boy (The Electric Drill Song) (3:54)
-2. Alive And Kickin' (5:28)
-3. Green-Tinted Sixties Mind (3:30)
-4. CDFF-Lucky This Time (4:10)
-5. Voodoo Kiss (4:07)
-6. Never Say Never (3:48)
-7. Just Take My Heart (4:21)
-8. My Kinda Woman (4:09)
-9. A Little Too Loose (5:21)
-10. Road To Ruin (3:54)
-11. To Be With You (3:27)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Daddy, Brother, Lover, Little Boy (The Electric Drill Song) | 3:54 |
+| A2 | Alive And Kickin' | 5:28 |
+| A3 | Green-Tinted Sixties Mind | 3:30 |
+| A4 | CDFF-Lucky This Time | 4:10 |
+| A5 | Voodoo Kiss | 4:07 |
+| B1 | Never Say Never | 3:48 |
+| B2 | Just Take My Heart | 4:21 |
+| B3 | My Kinda Woman | 4:09 |
+| B4 | A Little Too Loose | 5:21 |
+| B5 | Road To Ruin | 3:54 |
+| B6 | To Be With You | 3:27 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lean-into-it-expanded-edition/1270103288" >}}<br>
 
 
-## Videos
-### CD  Mr Big  Lean Into It  1991
-{{< youtube id="96FHTcm66qI" title="CD  Mr Big  Lean Into It  1991" >}}<br>
-### More Videos
-
-- [MC  Mr Big  Lean Into It  1991](https://www.youtube.com/watch?v=W9aHOWwS5aQ)
-- [Mr Big - Daddy Brother Lover Little Boy The Electric Drill Song MV](https://www.youtube.com/watch?v=46BCpSJKIjw)
-- [Mr Big - To Be With You 4K Video](https://www.youtube.com/watch?v=L6-uJLteKek)
-- [Mr Big - Just Take My Heart MV](https://www.youtube.com/watch?v=AyYoc5JGY7c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +65,5 @@ The album includes the song "Green-Tinted Sixties Mind".
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (White) |
 | Label          | Evoxs |
 | Catalog Number | EVLP036 |
-| Notes | Delayed RSD 2021 reissue.  Released as an import in Australia on RSD 2021 drop 2, July 17th. Official source: [url=https://www.recordstoreday.com.au/lists-for-rsd-drops-2021/]Australia RSD release lists for drop 2[/url] May have been released in other regions (unconfirmed official sources) |
-| Discogs URL    | [Mr. Big - Lean Into It](https://www.discogs.com/release/19526449-Mr-Big-Lean-Into-It) |
+| Notes | Delayed RSD 2021 reissue.<br><br>Released as an import in Australia on RSD 2021 drop 2, July 17th.<br>Official source: [url=https://www.recordstoreday.com.au/lists-for-rsd-drops-2021/]Australia RSD release lists for drop 2[/url]<br>May have been released in other regions (unconfirmed official sources) |
+| Discogs URL    | [Mr Big - Lean Into It](https://www.discogs.com/release/19526449-Mr-Big-Lean-Into-It) |

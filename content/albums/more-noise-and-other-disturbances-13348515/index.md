@@ -4,6 +4,7 @@ artist_name: "The Mighty Mighty BossToneS"
 artist: "the-mighty-mighty-bosstones"
 album_name: "More Noise And Other Disturbances"
 date: 2020-08-14T20:57:18.000000Z
+release_date: "1992"
 release_id: "13348515"
 slug: "more-noise-and-other-disturbances-13348515"
 hideSummary: true
@@ -24,26 +25,29 @@ styles: ["Ska", "Punk"]
 ---
 
 More Noise and Other Disturbances is the second studio album by the American band the Mighty Mighty Bosstones. It was released in 1992 by Taang! Records. It was a hit on college radio. "Where'd You Go" was released as a single.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Awfully Quiet (3:08)
-2. Where'd You Go (3:26)
-3. Dr. D (2:02)
-4. It Can't Hurt (2:28)
-5. What's At Stake (2:53)
-6. Cowboy Coffee (1:55)
-7. I'll Drink To That (3:10)
-8. Guns And The Young (2:22)
-9. He's Back (3:12)
-10. Bad In Plaid (2:04)
-11. They Came To Boston (3:31)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Awfully Quiet | 3:08 |
+| A2 | Where'd You Go | 3:26 |
+| A3 | Dr. D | 2:02 |
+| A4 | It Can't Hurt | 2:28 |
+| A5 | What's At Stake | 2:53 |
+| A6 | Cowboy Coffee | 1:55 |
+| B1 | I'll Drink To That | 3:10 |
+| B2 | Guns And The Young | 2:22 |
+| B3 | He's Back | 3:12 |
+| B4 | Bad In Plaid | 2:04 |
+| B5 | They Came To Boston | 3:31 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/more-noise-and-other-disturbances/321176085" >}}<br>
-
 
 
 

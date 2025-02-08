@@ -38,35 +38,24 @@ Classic as the album is, its relative delicacy and orchestral colouring make it 
 
 
 ## Tracklisting
-1. Out On The Weekend (4:32)
-2. Harvest (3:09)
-3. A Man Needs A Maid (4:02)
-4. Heart Of Gold (3:07)
-5. Are You Ready For The Country? (3:24)
-6. Old Man (3:22)
-7. There's A World (2:59)
-8. Alabama (4:02)
-9. The Needle And The Damage Done (2:03)
-10. Words (Between The Lines Of Age) (6:47)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Out On The Weekend | 4:32 |
+| A2 | Harvest | 3:09 |
+| A3 | A Man Needs A Maid | 4:02 |
+| A4 | Heart Of Gold | 3:07 |
+| A5 | Are You Ready For The Country? | 3:24 |
+| B1 | Old Man | 3:22 |
+| B2 | There's A World | 2:59 |
+| B3 | Alabama | 4:02 |
+| B4 | The Needle And The Damage Done | 2:03 |
+| B5 | Words (Between The Lines Of Age) | 6:47 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/harvest/1015739190" >}}<br>
 
 
-## Videos
-### Out on the Weekend
-{{< youtube id="7RQIDJsziOQ" title="Out on the Weekend" >}}<br>
-### More Videos
-
-- [Harvest](https://www.youtube.com/watch?v=CIFriDECa8E)
-- [A Man Needs a Maid 2009 Remaster](https://www.youtube.com/watch?v=E5_hCAqGa4g)
-- [Heart of Gold](https://www.youtube.com/watch?v=iBeoFqDDW2w)
-- [Are You Ready for the Country](https://www.youtube.com/watch?v=3AkZPMWGNi4)
-- [Old Man](https://www.youtube.com/watch?v=hygRbtPtImM)
-- [Theres a World 2009 Remaster](https://www.youtube.com/watch?v=mVHQSvcSa6o)
-- [Alabama](https://www.youtube.com/watch?v=NdoKly2iO1g)
-- [The Needle and the Damage Done 2009 Remaster](https://www.youtube.com/watch?v=49M10VIXPk4)
-- [Words Between the Lines of Age 2009 Remaster](https://www.youtube.com/watch?v=pMRcFpIn49o)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +67,5 @@ Classic as the album is, its relative delicacy and orchestral colouring make it 
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram, Gatefold) |
 | Label          | Reprise Records |
 | Catalog Number | 9362-49786-5 |
-| Notes | Sticker the sleeve:  A Classic Neil Young Album Mastered From The Original Analog Master Tapes Because Sound Matters 2-517934 (K1)  On the back: Neil Young Archives, Official Release Series, Disc 04  Comes in a textured, gatefold sleeve and with gatefold lyric sheet.  Matrices in runouts are etched, "-18662-" are stamped. |
+| Notes | Sticker the sleeve: <br>A Classic Neil Young Album Mastered From The Original Analog Master Tapes Because Sound Matters 2-517934 (K1)<br><br>On the back:<br>Neil Young Archives, Official Release Series, Disc 04<br><br>Comes in a textured, gatefold sleeve and with gatefold lyric sheet.<br><br>Matrices in runouts are etched, "-18662-" are stamped. |
 | Discogs URL    | [Neil Young - Harvest](https://www.discogs.com/release/3174466-Neil-Young-Harvest) |

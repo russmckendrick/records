@@ -38,27 +38,26 @@ The Final Cut received mixed reviews, though retrospective reception has been mo
 
 
 ## Tracklisting
-1. The Post War Dream
-2. Your Possible Pasts
-3. One Of The Few
-4. When The Tigers Broke Free
-5. The Hero's Return
-6. The Gunner's Dream
-7. Paranoid Eyes
-8. Get Your Filthy Hands Off My Desert
-9. The Fletcher Memorial Home
-10. Southampton Dock
-11. The Final Cut
-12. Not Now John
-13. Two Suns In The Sunset
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Post War Dream |  |
+| A2 | Your Possible Pasts |  |
+| A3 | One Of The Few |  |
+| A4 | When The Tigers Broke Free |  |
+| A5 | The Hero's Return |  |
+| A6 | The Gunner's Dream |  |
+| A7 | Paranoid Eyes |  |
+| B1 | Get Your Filthy Hands Off My Desert |  |
+| B2 | The Fletcher Memorial Home |  |
+| B3 | Southampton Dock |  |
+| B4 | The Final Cut |  |
+| B5 | Not Now John |  |
+| B6 | Two Suns In The Sunset |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-final-cut/719121288" >}}<br>
 
-
-## Videos
-### Pink Floyd - The Final Cut Full Album
-{{< youtube id="qZyXLX7bxDk" title="Pink Floyd - The Final Cut Full Album" >}}<br>
 
 
 ## Release Images
@@ -71,5 +70,5 @@ The Final Cut received mixed reviews, though retrospective reception has been mo
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180g, Gatefold) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP12 |
-| Notes | The French release is all the same with a sticker written in that language instead of English.  Subtitled as 'A Requiem For The Post War Dream By Roger Waters'. Original UK release date: March 1983.  Made in the E.U.  On back cover: Special thanks to Neal Wharton  During the original release, 'When The Tigers Broke Free ' did not appear on this album.  Tracktimes do not appear anywhere on this release. |
+| Notes | The French release is all the same with a sticker written in that language instead of English.<br><br>Subtitled as 'A Requiem For The Post War Dream By Roger Waters'.<br>Original UK release date: March 1983.<br><br>Made in the E.U.<br><br>On back cover:<br>Special thanks to Neal Wharton<br><br>During the original release, 'When The Tigers Broke Free ' did not appear on this album.<br><br>Tracktimes do not appear anywhere on this release. |
 | Discogs URL    | [Pink Floyd - The Final Cut](https://www.discogs.com/release/9658690-Pink-Floyd-The-Final-Cut) |

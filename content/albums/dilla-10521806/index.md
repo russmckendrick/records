@@ -4,6 +4,7 @@ artist_name: "Abstract Orchestra"
 artist: "abstract-orchestra"
 album_name: "Dilla"
 date: 2017-10-13T18:10:42.000000Z
+release_date: "2017-06-30"
 release_id: "10521806"
 slug: "dilla-10521806"
 hideSummary: true
@@ -21,31 +22,31 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Welcome To Detroit / The Diary (3:52)
-2. Workinonit (2:15)
-3. Stop (2:30)
-4. Dilla Mix 1 (6:47)
-5. Dilla Mix 2 (6:04)
-6. Raw Shit (2:56)
-7. Official / Fall In Love (3:30)
-8. Love (2:32)
-9. So Far To Go (3:46)
-10. A.N.G.E.L. (6:13)
-11. King (2:26)
-12. Two Can Win (2:34)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Welcome To Detroit / The Diary | 3:52 |
+| A2 | Workinonit | 2:15 |
+| A3 | Stop | 2:30 |
+| A4 | Dilla Mix 1 | 6:47 |
+| A5 | Dilla Mix 2 | 6:04 |
+| A6 | Raw Shit | 2:56 |
+| B1 | Official / Fall In Love | 3:30 |
+| B2 | Love | 2:32 |
+| B3 | So Far To Go | 3:46 |
+| B4 | A.N.G.E.L. | 6:13 |
+| B5 | King | 2:26 |
+| B6 | Two Can Win | 2:34 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dilla/1238569093" >}}<br>
 
 
-## Videos
-### Abstract Orchestra - Dilla Full Album
-{{< youtube id="1UTyo3IMhfg" title="Abstract Orchestra - Dilla Full Album" >}}<br>
-### More Videos
-
-- [Abstract Orchestra - Dilla Full Album](https://www.youtube.com/watch?v=1UTyo3IMhfg)
 
 ## Release Images
 {{< imageGrid >}}

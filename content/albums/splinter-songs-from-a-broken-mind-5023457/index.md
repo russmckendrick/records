@@ -4,6 +4,7 @@ artist_name: "Gary Numan"
 artist: "gary-numan"
 album_name: "Splinter (Songs From A Broken Mind)"
 date: 2017-02-24T19:44:52.000000Z
+release_date: "2013-10-14"
 release_id: "5023457"
 slug: "splinter-songs-from-a-broken-mind-5023457"
 hideSummary: true
@@ -31,40 +32,32 @@ styles: ["New Wave", "Darkwave"]
 Splinter (Songs from a Broken Mind) is the seventeenth solo studio album by English musician Gary Numan, released on 9 October 2013 by Mortal Records and Cooking Vinyl. The album debuted at number twenty on the UK Albums Chart on sales of 6,187 copies, becoming Numan's highest-charting album since 1983's Warriors.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Am Dust
-2. Here In The Black
-3. Everything Comes Down To This
-4. The Calling
-5. Splinter
-6. Lost
-7. Love Hurt Bleed
-8. A Shadow Falls On Me
-9. Where I Can Never Be
-10. We're The Unforgiven
-11. Who Are You
-12. My Last Day
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Am Dust |  |
+| A2 | Here In The Black |  |
+| A3 | Everything Comes Down To This |  |
+| B1 | The Calling |  |
+| B2 | Splinter |  |
+| B3 | Lost |  |
+| C1 | Love Hurt Bleed |  |
+| C2 | A Shadow Falls On Me |  |
+| C3 | Where I Can Never Be |  |
+| D1 | We're The Unforgiven |  |
+| D2 | Who Are You |  |
+| D3 | My Last Day |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/splinter-songs-from-a-broken-mind/1170105981" >}}<br>
 
 
-## Videos
-### Gary Numan - I Am Dust
-{{< youtube id="iMAz9jofm_4" title="Gary Numan - I Am Dust" >}}<br>
-### More Videos
-
-- [Here in the Black](https://www.youtube.com/watch?v=HCxk8FCu4xE)
-- [Gary Numan - The Calling](https://www.youtube.com/watch?v=vvNIOmESiTk)
-- [Gary Numan - Splinter](https://www.youtube.com/watch?v=TozL0z4bDwA)
-- [Gary Numan - A Shadow Falls On Me](https://www.youtube.com/watch?v=7uXmL81ZVWM)
-- [Gary Numan - Where I Can Never Be](https://www.youtube.com/watch?v=ByyC1fQWUc8)
-- [Gary Numan - Were The Unforgiven](https://www.youtube.com/watch?v=3Zv04TSYTeY)
-- [Gary Numan - My Last Day](https://www.youtube.com/watch?v=uFrldNl6jq8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +69,5 @@ Splinter (Songs from a Broken Mind) is the seventeenth solo studio album by Engl
 | Format         | Vinyl 2× LP Album (180) |
 | Label          | Mortal Records |
 | Catalog Number | MORTALLP15 |
-| Notes | Gatefold sleeve.  ℗© 2013 Machine Music USA, INC.  Mastered at Alchemy Mastering, London.  Recorded in Waldon (East Sussex), Long Eaton (Nottinghamshire) and Los Angeles (California).  Photography by LaRoche Brothers (Woolhouse Studios).  Runouts are etched.   |
+| Notes | Gatefold sleeve.<br><br>℗© 2013 Machine Music USA, INC.<br><br>Mastered at Alchemy Mastering, London.<br><br>Recorded in Waldon (East Sussex), Long Eaton (Nottinghamshire) and Los Angeles (California).<br><br>Photography by LaRoche Brothers (Woolhouse Studios).<br><br>Runouts are etched.<br><br> |
 | Discogs URL    | [Gary Numan - Splinter (Songs From A Broken Mind)](https://www.discogs.com/release/5023457-Gary-Numan-Splinter-Songs-From-A-Broken-Mind) |

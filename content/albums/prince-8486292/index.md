@@ -4,6 +4,7 @@ artist_name: "Prince"
 artist: "prince"
 album_name: "Prince"
 date: 2016-06-26T13:15:41.000000Z
+release_date: "2014-05-16"
 release_id: "8486292"
 slug: "prince-8486292"
 hideSummary: true
@@ -25,38 +26,29 @@ styles: ["Disco", "Pop Rock"]
 
 Prince is the second studio album by the American musician Prince. It was released on October 19, 1979, by Warner Bros. Records. The album was written, arranged, composed, produced and performed entirely by Prince. Overall, Prince was regarded as more diverse than For You (1978), and performed better critically and commercially. Reviewing in Christgau's Record Guide: Rock Albums of the Seventies (1981), Robert Christgau wrote: "This boy is going to be a big star, and he deserves it".
 Prince peaked at 22 on the Billboard 200 and number three on the Billboard R&B Chart. The album contained three Billboard Hot Black Singles hits: "Why You Wanna Treat Me So Bad?", "Sexy Dancer" and "I Wanna Be Your Lover". "I Wanna Be Your Lover" was Prince's first hit single on the Billboard Hot 100, peaking at number eleven while also topping the Billboard Hot Black Singles. Prince was certified Platinum by the Recording Industry Association of America (RIAA) four months after its release.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Wanna Be Your Lover (5:47)
-2. Why You Wanna Treat Me So Bad? (3:49)
-3. Sexy Dancer (4:18)
-4. When We're Dancing Close And Slow (5:18)
-5. With You (3:59)
-6. Bambi (4:22)
-7. Still Waiting (4:24)
-8. I Feel For You (3:24)
-9. It's Gonna Be Lonely (5:30)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Wanna Be Your Lover | 5:47 |
+| A2 | Why You Wanna Treat Me So Bad? | 3:49 |
+| A3 | Sexy Dancer | 4:18 |
+| A4 | When We're Dancing Close And Slow | 5:18 |
+| B1 | With You | 3:59 |
+| B2 | Bambi | 4:22 |
+| B3 | Still Waiting | 4:24 |
+| B4 | I Feel For You | 3:24 |
+| B5 | It's Gonna Be Lonely | 5:30 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/prince-single/872805392" >}}<br>
 
 
-## Videos
-### I Wanna Be Your Lover
-{{< youtube id="j8UpxD6Onco" title="I Wanna Be Your Lover" >}}<br>
-### More Videos
-
-- [Why You Wanna Treat Me so Bad](https://www.youtube.com/watch?v=YQvPk0L6gGI)
-- [Sexy Dancer](https://www.youtube.com/watch?v=-tWUlOt7V8I)
-- [When Were Dancing Close and Slow](https://www.youtube.com/watch?v=IJ9VDYa5NpE)
-- [With You](https://www.youtube.com/watch?v=uNgrjW8Ms1k)
-- [Bambi](https://www.youtube.com/watch?v=mY1OnKfDJPE)
-- [Still Waiting](https://www.youtube.com/watch?v=Q-COOpRqOQw)
-- [I Feel for You](https://www.youtube.com/watch?v=IluGjaWG5Bk)
-- [Its Gonna Be Lonely](https://www.youtube.com/watch?v=csGzQep_DQc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +60,5 @@ Prince peaked at 22 on the Billboard 200 and number three on the Billboard R&B C
 | Format         | Vinyl LP Album Reissue |
 | Label          | Warner Bros. Records |
 | Catalog Number | 9362-49220-8 |
-| Notes | Cover: Manufactured in the E.U.  Dust sleeve: © ℗ 1979 NPG Records Inc. under exclusive license to Warner Bros Records Inc. 9362-49220-8  Labels: 553365-1 © ℗ 1979 NPG Records Inc. under exclusive license to Warner Bros Records Inc. Manufactured in the Netherlands  Vinyl, matrix/runout: 14944 2A and 14944 2B are stamped the rest is etched |
+| Notes | Cover:<br>Manufactured in the E.U.<br><br>Dust sleeve:<br>© ℗ 1979 NPG Records Inc. under exclusive license to Warner Bros Records Inc. 9362-49220-8<br><br>Labels:<br>553365-1<br>© ℗ 1979 NPG Records Inc. under exclusive license to Warner Bros Records Inc.<br>Manufactured in the Netherlands<br><br>Vinyl, matrix/runout:<br>14944 2A and 14944 2B are stamped the rest is etched |
 | Discogs URL    | [Prince - Prince](https://www.discogs.com/release/8486292-Prince-Prince) |

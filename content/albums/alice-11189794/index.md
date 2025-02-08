@@ -4,6 +4,7 @@ artist_name: "Tom Waits"
 artist: "tom-waits"
 album_name: "Alice"
 date: 2017-11-24T18:41:02.000000Z
+release_date: "1988-09-01"
 release_id: "11189794"
 slug: "alice-11189794"
 hideSummary: true
@@ -31,42 +32,35 @@ styles: ["Alternative Rock", "Experimental"]
 Alice is the fourteenth studio album by Tom Waits, released in 2002 on Epitaph Records (under the Anti sub-label). It consists of songs written by Waits and Kathleen Brennan for the opera Alice ten years earlier. The opera was a collaboration with Robert Wilson, with whom Waits had previously worked on The Black Rider. Waits and Wilson collaborated again on  Woyzeck; the songs from it were recorded and released on  Blood Money at the same time as Alice.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Alice
-2. Everything You Can Think
-3. Flower's Grave
-4. No One Knows I'm Gone
-5. Kommienezuspadt
-6. Poor Edward
-7. Table Top Joe
-8. Lost In The Harbour
-9. We're All Mad Here
-10. Watch Her Disappear
-11. Reeperbahn
-12. I'm Still Here
-13. Fish & Bird
-14. Barcarolle
-15. Fawn
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Alice |  |
+| A2 | Everything You Can Think |  |
+| A3 | Flower's Grave |  |
+| A4 | No One Knows I'm Gone |  |
+| A5 | Kommienezuspadt |  |
+| B1 | Poor Edward |  |
+| B2 | Table Top Joe |  |
+| B3 | Lost In The Harbour |  |
+| B4 | We're All Mad Here |  |
+| B5 | Watch Her Disappear |  |
+| C1 | Reeperbahn |  |
+| C2 | I'm Still Here |  |
+| C3 | Fish & Bird |  |
+| C4 | Barcarolle |  |
+| C5 | Fawn |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/big-time-live/1443540897" >}}<br>
 
 
-## Videos
-### Tom Waits - Alice Vinyl
-{{< youtube id="2apOxXtXSY4" title="Tom Waits - Alice Vinyl" >}}<br>
-### More Videos
-
-- [Alice - Tom Waits](https://www.youtube.com/watch?v=aEj-mrwwaxo)
-- [Tom Waits - Alice](https://www.youtube.com/watch?v=x9DejWMJoOA)
-- [TOM WAITS - Alice documentary](https://www.youtube.com/watch?v=cHPgaUI2SRU)
-- [Tom Waits - Alice Live](https://www.youtube.com/watch?v=dBzenOY4aIg)
-- [Alice - Tom Waits](https://www.youtube.com/watch?v=aEj-mrwwaxo)
-- [Tom Waits - Everything You Can Think](https://www.youtube.com/watch?v=fqP1D3R6AaY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +72,5 @@ Alice is the fourteenth studio album by Tom Waits, released in 2002 on Epitaph R
 | Format         | Vinyl LP Album Reissue, Vinyl LP Single Sided Etched |
 | Label          | Anti- |
 | Catalog Number | 6632-3 |
-| Notes | Sticker: Newly remastered with Waits/Brennan  6632-3 CAT. NO. on spine & labels |
+| Notes | Sticker: Newly remastered with Waits/Brennan<br><br>6632-3 CAT. NO. on spine & labels |
 | Discogs URL    | [Tom Waits - Alice](https://www.discogs.com/release/11189794-Tom-Waits-Alice) |

@@ -33,42 +33,38 @@ So much of <i>Tommy</i>’s staying power derives from The Who’s ability to wa
 
 
 ## Tracklisting
-1. Overture (3:50)
-2. It's A Boy (2:07)
-3. 1921 (2:49)
-4. Amazing Journey (3:25)
-5. Sparks (3:45)
-6. The Hawker (2:15)
-7. Christmas (4:34)
-8. Cousin Kevin (4:06)
-9. The Acid Queen (3:34)
-10. Underture (10:01)
-11. Do You Think It's Alright? (0:24)
-12. Fiddle About (1:31)
-13. Pinball Wizard (3:00)
-14. There's A Doctor (0:23)
-15. Go To The Mirror! (3:47)
-16. Tommy Can You Hear Me? (1:35)
-17. Smash The Mirror (1:34)
-18. Sensation (2:26)
-19. Miracle Cure (0:12)
-20. Sally Simpson (4:10)
-21. I'm Free (2:39)
-22. Welcome (4:32)
-23. Tommy's Holiday Camp (0:57)
-24. We're Not Gonna Take It (7:06)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Overture | 3:50 |
+| A2 | It's A Boy | 2:07 |
+| A3 | 1921 | 2:49 |
+| A4 | Amazing Journey | 3:25 |
+| A5 | Sparks | 3:45 |
+| A6 | The Hawker | 2:15 |
+| B1 | Christmas | 4:34 |
+| B2 | Cousin Kevin | 4:06 |
+| B3 | The Acid Queen | 3:34 |
+| B4 | Underture | 10:01 |
+| C1 | Do You Think It's Alright? | 0:24 |
+| C2 | Fiddle About | 1:31 |
+| C3 | Pinball Wizard | 3:00 |
+| C4 | There's A Doctor | 0:23 |
+| C5 | Go To The Mirror! | 3:47 |
+| C6 | Tommy Can You Hear Me? | 1:35 |
+| C7 | Smash The Mirror | 1:34 |
+| C8 | Sensation | 2:26 |
+| D1 | Miracle Cure | 0:12 |
+| D2 | Sally Simpson | 4:10 |
+| D3 | I'm Free | 2:39 |
+| D4 | Welcome | 4:32 |
+| D5 | Tommy's Holiday Camp | 0:57 |
+| D6 | We're Not Gonna Take It | 7:06 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tommy/1461210985" >}}<br>
 
 
-## Videos
-### Underture
-{{< youtube id="O1D9oPeGIgQ" title="Underture" >}}<br>
-### More Videos
-
-- [1921](https://www.youtube.com/watch?v=KfUpjZAEH9Y)
-- [The Who - Tommy -  1969 - Full Album - 51 surround STEREO in](https://www.youtube.com/watch?v=yK-sRSfiXLY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +76,5 @@ So much of <i>Tommy</i>’s staying power derives from The Who’s ability to wa
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (Gatefold) |
 | Label          | Geffen Records |
 | Catalog Number | B0019527-01 |
-| Notes | Includes 12 page booklet containing lyrics and artwork.  Runouts are etched. |
+| Notes | Includes 12 page booklet containing lyrics and artwork.<br><br>Runouts are etched. |
 | Discogs URL    | [The Who - Tommy](https://www.discogs.com/release/5539661-The-Who-Tommy) |

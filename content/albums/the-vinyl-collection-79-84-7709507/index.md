@@ -4,6 +4,7 @@ artist_name: "Simple Minds"
 artist: "simple-minds"
 album_name: "The Vinyl Collection 79-84 "
 date: 2016-01-31T14:13:23.000000Z
+release_date: ""
 release_id: "7709507"
 slug: "the-vinyl-collection-79-84-7709507"
 hideSummary: true
@@ -29,83 +30,90 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Life In A Day
-2. Someone
-3. Life In A Day
-4. Sad Affair
-5. All For You
-6. Pleasantly Disturbed
-7. No Cure
-8. Chelsea Girl
-9. Wasteland
-10. Destiny
-11. Murder Story
-12. Real To Real Cacophony
-13. Real To Real
-14. Naked Eye
-15. Citizen (Dance Of Youth)
-16. Carnival (Shelter In A Suitcase)
-17. Factory
-18. Cacophony
-19. Veldt
-20. Premonition
-21. Changeling
-22. Film Theme
-23. Calling Your Name
-24. Scar
-25. Empires And Dance
-26. I Travel
-27. Today I Died Again
-28. Celebrate
-29. This Fear Of Gods
-30. Capital City
-31. Constantinople Line
-32. Twist / Run / Repulsion
-33. Thirty Frames A Second
-34. Kant-Kino
-35. Room
-36. Sons And Fascination
-37. In Trance As Mission
-38. Sweat In Bullet
-39. 70 Cities As Love Brings The Fall
-40. Boys From Brazil
-41. Love Song
-42. This Earth That You Walk Upon
-43. Sons And Fascination
-44. Seeing Out The Angel
-45. Sister Feelings Call
-46. Theme For Great Cities
-47. The American
-48. 20th Century Promised Land
-49. Wonderful In Young Life
-50. League Of Nations
-51. Careful In Career
-52. Sound In 70 Cities
-53. New Gold Dream (81-82-83-84)
-54. Someone Somewhere In Summertime
-55. Colours Fly And Catherine Wheel
-56. Promised You A Miracle
-57. Big Sleep
-58. Somebody Up There Likes You
-59. New Gold Dream (81-82-83-84)
-60. Glittering Prize
-61. Hunter And The Hunted
-62. King Is White And In The Crowd
-63. Sparkle In The Rain
-64. Up On The Catwalk
-65. Book Of Brilliant Things
-66. Speed Your Love To Me
-67. Waterfront
-68. East At Easter
-69. Street Hassle
-70. White Hot Day
-71. "C" Moon Cry Like A Baby
-72. The Kick Inside Of Me
-73. Shake Off The Ghosts
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Life In A Day |  |
+| 1-A1 | Someone |  |
+| 1-A2 | Life In A Day |  |
+| 1-A3 | Sad Affair |  |
+| 1-A4 | All For You |  |
+| 1-A5 | Pleasantly Disturbed |  |
+| 1-B1 | No Cure |  |
+| 1-B2 | Chelsea Girl |  |
+| 1-B3 | Wasteland |  |
+| 1-B4 | Destiny |  |
+| 1-B5 | Murder Story |  |
+|  | Real To Real Cacophony |  |
+| 2-A1 | Real To Real |  |
+| 2-A2 | Naked Eye |  |
+| 2-A3 | Citizen (Dance Of Youth) |  |
+| 2-A4 | Carnival (Shelter In A Suitcase) |  |
+| 2-A5 | Factory |  |
+| 2-A6 | Cacophony |  |
+| 2-A7 | Veldt |  |
+| 2-B1 | Premonition |  |
+| 2-B2 | Changeling |  |
+| 2-B3 | Film Theme |  |
+| 2-B4 | Calling Your Name |  |
+| 2-B5 | Scar |  |
+|  | Empires And Dance |  |
+| 3-A1 | I Travel |  |
+| 3-A2 | Today I Died Again |  |
+| 3-A3 | Celebrate |  |
+| 3-A4 | This Fear Of Gods |  |
+| 3-B1 | Capital City |  |
+| 3-B2 | Constantinople Line |  |
+| 3-B3 | Twist / Run / Repulsion |  |
+| 3-B4 | Thirty Frames A Second |  |
+| 3-B5 | Kant-Kino |  |
+| 3-B6 | Room |  |
+|  | Sons And Fascination |  |
+| 4-A1 | In Trance As Mission |  |
+| 4-A2 | Sweat In Bullet |  |
+| 4-A3 | 70 Cities As Love Brings The Fall |  |
+| 4-A4 | Boys From Brazil |  |
+| 4-B1 | Love Song |  |
+| 4-B2 | This Earth That You Walk Upon |  |
+| 4-B3 | Sons And Fascination |  |
+| 4-B4 | Seeing Out The Angel |  |
+|  | Sister Feelings Call |  |
+| 5-A1 | Theme For Great Cities |  |
+| 5-A2 | The American |  |
+| 5-A3 | 20th Century Promised Land |  |
+| 5-B1 | Wonderful In Young Life |  |
+| 5-B2 | League Of Nations |  |
+| 5-B3 | Careful In Career |  |
+| 5-B4 | Sound In 70 Cities |  |
+|  | New Gold Dream (81-82-83-84) |  |
+| 6-A1 | Someone Somewhere In Summertime |  |
+| 6-A2 | Colours Fly And Catherine Wheel |  |
+| 6-A3 | Promised You A Miracle |  |
+| 6-A4 | Big Sleep |  |
+| 6-A5 | Somebody Up There Likes You |  |
+| 6-B1 | New Gold Dream (81-82-83-84) |  |
+| 6-B2 | Glittering Prize |  |
+| 6-B3 | Hunter And The Hunted |  |
+| 6-B4 | King Is White And In The Crowd |  |
+|  | Sparkle In The Rain |  |
+| 7-A1 | Up On The Catwalk |  |
+| 7-A2 | Book Of Brilliant Things |  |
+| 7-A3 | Speed Your Love To Me |  |
+| 7-A4 | Waterfront |  |
+| 7-A5 | East At Easter |  |
+| 7-B1 | Street Hassle |  |
+| 7-B2 | White Hot Day |  |
+| 7-B3 | "C" Moon Cry Like A Baby |  |
+| 7-B4 | The Kick Inside Of Me |  |
+| 7-B5 | Shake Off The Ghosts |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 

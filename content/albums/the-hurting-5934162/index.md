@@ -4,6 +4,7 @@ artist_name: "Tears For Fears"
 artist: "tears-for-fears"
 album_name: "The Hurting"
 date: 2016-03-24T16:33:11.000000Z
+release_date: "1983-03-07"
 release_id: "5934162"
 slug: "the-hurting-5934162"
 hideSummary: true
@@ -29,41 +30,30 @@ The Hurting is a loose concept album focusing on themes of child abuse, psycholo
 The album was remastered and reissued in 1999, and included four remixes as bonus tracks and an extensive booklet with liner notes about the album's creation. A 30th anniversary reissue was released on 21 October 2013, in both double-CD and deluxe four-disc boxed set editions. For the album's 40th anniversary, new Dolby Atmos and 5.1 surround sound Blu-ray remixes by Steven Wilson, as well as a remastered vinyl edition of the original mix, was released in June 2023.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Hurting (4:16)
-2. Mad World (3:35)
-3. Pale Shelter (4:34)
-4. Ideas As Opiates (3:46)
-5. Memories Fade (5:01)
-6. Suffer The Children (3:49)
-7. Watch Me Bleed (4:15)
-8. Change (4:13)
-9. The Prisoner (2:55)
-10. Start Of The Breakdown (4:57)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Hurting | 4:16 |
+| A2 | Mad World | 3:35 |
+| A3 | Pale Shelter | 4:34 |
+| A4 | Ideas As Opiates | 3:46 |
+| A5 | Memories Fade | 5:01 |
+| B1 | Suffer The Children | 3:49 |
+| B2 | Watch Me Bleed | 4:15 |
+| B3 | Change | 4:13 |
+| B4 | The Prisoner | 2:55 |
+| B5 | Start Of The Breakdown | 4:57 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-hurting/1695687752" >}}<br>
 
 
-## Videos
-### Ideas As Opiates
-{{< youtube id="Tf74rSHd1OY" title="Ideas As Opiates" >}}<br>
-### More Videos
-
-- [Suffer The Children](https://www.youtube.com/watch?v=ASs_DtEBuO4)
-- [The Prisoner](https://www.youtube.com/watch?v=iU59GwY25fU)
-- [The Hurting](https://www.youtube.com/watch?v=mL-CnhbNvYU)
-- [Tears for Fears - Mad World](https://www.youtube.com/watch?v=U3OZmJKm3BE)
-- [Pale Shelter](https://www.youtube.com/watch?v=HKEKd3NGMIo)
-- [Memories Fade](https://www.youtube.com/watch?v=iuQSBr-YQYY)
-- [Watch Me Bleed](https://www.youtube.com/watch?v=CqkA1aAkC1I)
-- [Tears for Fears - Change](https://www.youtube.com/watch?v=Z0kGo_x12DQ)
-- [Start Of The Breakdown](https://www.youtube.com/watch?v=n6sUE66Xv5o)
-- [Tears for Fears - The Hurting Full Album 1983](https://www.youtube.com/watch?v=4PiJKje2lwg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +65,5 @@ The album was remastered and reissued in 1999, and included four remixes as bonu
 | Format         | Vinyl LP Album Reissue Stereo (180 Gram) |
 | Label          | Mercury |
 | Catalog Number | 378 944-0 |
-| Notes | Issued with a printed inner sleeve, containing credits and lyrics. Including digital download code.   Published by Chrysalis Music Ltd. except tracks A3, A5, B2, B5 Roland Orzabal Ltd./ Track B3 BMG Platinum Songs obo BMG VM Music Ltd. All lyrics Copyright Control.  "Pale Shelter" on this release, is the second single version.  Track durations are not printed on the release.  Runouts are machine stamped.  ℗ & © 1983 Mercury Records Ltd.  Made in the EU. |
+| Notes | Issued with a printed inner sleeve, containing credits and lyrics.<br>Including digital download code. <br><br>Published by Chrysalis Music Ltd. except tracks A3, A5, B2, B5 Roland Orzabal Ltd./ Track B3 BMG Platinum Songs obo BMG VM Music Ltd.<br>All lyrics Copyright Control.<br><br>"Pale Shelter" on this release, is the second single version.<br><br>Track durations are not printed on the release.<br><br>Runouts are machine stamped.<br><br>℗ & © 1983 Mercury Records Ltd.<br><br>Made in the EU. |
 | Discogs URL    | [Tears For Fears - The Hurting](https://www.discogs.com/release/5934162-Tears-For-Fears-The-Hurting) |

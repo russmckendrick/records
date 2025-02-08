@@ -30,39 +30,26 @@ Those who’ve subsequently sought out <i>The Delta Sweete</i> have discovered o
 
 
 ## Tracklisting
-1. Okolona River Bottom Band (4:37)
-2. Big Boss Man (3:25)
-3. Reunion (2:22)
-4. Parchman Farm (3:47)
-5. Mornin' Glory (3:22)
-6. Sermon (4:31)
-7. Tobacco Road (2:51)
-8. Penduli Pendulum (3:11)
-9. Jessye' Lisabeth (3:04)
-10. Refractions (2:28)
-11. Courtyard (3:31)
-12. Ode To Billie Joe (5:37)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Okolona River Bottom Band | 4:37 |
+| A2 | Big Boss Man | 3:25 |
+| A3 | Reunion | 2:22 |
+| A4 | Parchman Farm | 3:47 |
+| A5 | Mornin' Glory | 3:22 |
+| A6 | Sermon | 4:31 |
+| B1 | Tobacco Road | 2:51 |
+| B2 | Penduli Pendulum | 3:11 |
+| B3 | Jessye' Lisabeth | 3:04 |
+| B4 | Refractions | 2:28 |
+| B5 | Courtyard | 3:31 |
+| B6 | Ode To Billie Joe | 5:37 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bobbie-gentrys-the-delta-sweete-revisited/1441294741" >}}<br>
 
 
-## Videos
-### Mercury Rev x Norah Jones - Okolona River Bottom Band
-{{< youtube id="eTOI4qhp3o0" title="Mercury Rev x Norah Jones - Okolona River Bottom Band" >}}<br>
-### More Videos
-
-- [Mercury Rev feat Hope Sandoval - Big Boss Man Official Audio](https://www.youtube.com/watch?v=5RhTe6zfoys)
-- [Mercury Rev feat Rachel Goswell - Reunion Official Audio](https://www.youtube.com/watch?v=5YwEH-jL770)
-- [Mercury Rev feat Carice Van Houten - Parchman Farm Official Audio](https://www.youtube.com/watch?v=b01sU4Q-CRw)
-- [Mercury Rev feat Laetitia Sadier - Mornin Glory Official Audio](https://www.youtube.com/watch?v=uKmU75V3rsg)
-- [Mercury Rev feat Margo Price - Sermon Official Audio](https://www.youtube.com/watch?v=MLnBmLCY3f8)
-- [Mercury Rev feat Susanne Sundfør - Tobacco Road Official Audio](https://www.youtube.com/watch?v=fXbGxxIsa5k)
-- [Mercury Rev feat Vashti Bunyan  Kaela Sinclair - Penduli Pendulum Official Audio](https://www.youtube.com/watch?v=fA0JqAGyHZk)
-- [Mercury Rev x Phoebe Bridgers - Jesseye Lisabeth](https://www.youtube.com/watch?v=Ks-kqBgdz9M)
-- [Mercury Rev feat Marissa Nadler - Refractions Official Audio](https://www.youtube.com/watch?v=2KwiCIBoPn0)
-- [Mercury Rev feat Beth Orton - Courtyard Official Audio](https://www.youtube.com/watch?v=D94_Rm0jxQg)
-- [Mercury Rev feat Lucinda Williams - Ode To Billie Joe  Official Audio](https://www.youtube.com/watch?v=poSjrHMcclo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +61,5 @@ Those who’ve subsequently sought out <i>The Delta Sweete</i> have discovered o
 | Format         | Vinyl LP Limited Edition (180g) |
 | Label          | Bella Union |
 | Catalog Number | BELLA852V |
-| Notes | Song-by-song cover version of the album [m157872] (1968), with "Louisiana man" replaced by "Ode to Billie Joe". On sticker: "Mercury Rev "This Delta Sweete is [Bobbie Gentry's] long-delayed justice" - David Fricke. Limited 180g Vinyl Includes Download"  |
+| Notes | Song-by-song cover version of the album [m157872] (1968), with "Louisiana man" replaced by "Ode to Billie Joe".<br>On sticker:<br>"Mercury Rev<br>"This Delta Sweete is [Bobbie Gentry's] long-delayed justice" - David Fricke.<br>Limited 180g Vinyl<br>Includes Download"<br> |
 | Discogs URL    | [Mercury Rev - Bobbie Gentry's The Delta Sweete Revisited](https://www.discogs.com/release/13179920-Mercury-Rev-Bobbie-Gentrys-The-Delta-Sweete-Revisited) |

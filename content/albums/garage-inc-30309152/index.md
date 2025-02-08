@@ -46,51 +46,46 @@ Garage Inc. is a compilation album of cover songs by American heavy metal band M
 
 
 ## Tracklisting
-1. New Recordings '98
-2. Free Speech For The Dumb (2:35)
-3. It's Electric (3:33)
-4. Sabbra Cadabra (6:20)
-5. Turn The Page (6:06)
-6. Die, Die My Darling (2:26)
-7. Loverman (7:52)
-8. Mercyful Fate (11:10)
-9. Astronomy (6:37)
-10. Whiskey In The Jar (5:04)
-11. Tuesday's Gone (9:03)
-12. The More I See (3:23)
-13. Garage Days Re-Revisited '87
-14. Helpless (6:36)
-15. The Small Hours (6:40)
-16. The Wait (4:52)
-17. Crash Course In Brain Surgery (3:08)
-18. Last Caress/Green Hell (3:29)
-19. Garage Days Revisited '84
-20. Am I Evil? (7:50)
-21. Blitzkrieg (3:36)
-22. B-Sides & One-Offs '88-'91
-23. Breadfan (5:51)
-24. The Prince (4:24)
-25. Stone Cold Crazy (2:17)
-26. So What (3:08)
-27. Killing Time (3:03)
-28. Motorheadache '95
-29. Overkill (4:05)
-30. Damage Case (3:40)
-31. Stone Dead Forever (4:51)
-32. Too Late Too Late (3:12)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | New Recordings '98 |  |
+| A1 | Free Speech For The Dumb | 2:35 |
+| A2 | It's Electric | 3:33 |
+| A3 | Sabbra Cadabra | 6:20 |
+| A4 | Turn The Page | 6:06 |
+| B1 | Die, Die My Darling | 2:26 |
+| B2 | Loverman | 7:52 |
+| B3 | Mercyful Fate | 11:10 |
+| C1 | Astronomy | 6:37 |
+| C2 | Whiskey In The Jar | 5:04 |
+| C3 | Tuesday's Gone | 9:03 |
+| C4 | The More I See | 3:23 |
+|  | Garage Days Re-Revisited '87 |  |
+| D1 | Helpless | 6:36 |
+| D2 | The Small Hours | 6:40 |
+| D3 | The Wait | 4:52 |
+| D4 | Crash Course In Brain Surgery | 3:08 |
+| D5 | Last Caress/Green Hell | 3:29 |
+|  | Garage Days Revisited '84 |  |
+| E1 | Am I Evil? | 7:50 |
+| E2 | Blitzkrieg | 3:36 |
+|  | B-Sides & One-Offs '88-'91 |  |
+| E3 | Breadfan | 5:51 |
+| E4 | The Prince | 4:24 |
+| E5 | Stone Cold Crazy | 2:17 |
+| F1 | So What | 3:08 |
+| F2 | Killing Time | 3:03 |
+|  | Motorheadache '95 |  |
+| F3 | Overkill | 4:05 |
+| F4 | Damage Case | 3:40 |
+| F5 | Stone Dead Forever | 4:51 |
+| F6 | Too Late Too Late | 3:12 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/garage-inc/1440857173" >}}<br>
 
 
-## Videos
-### Sabbra Cadabra
-{{< youtube id="K5Wv0Yty1z4" title="Sabbra Cadabra" >}}<br>
-### More Videos
-
-- [Astronomy](https://www.youtube.com/watch?v=rNYi7gJDX3k)
-- [So What](https://www.youtube.com/watch?v=ZaGrNq9VrCc)
-- [Am I Evil](https://www.youtube.com/watch?v=477trASWuCI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -102,5 +97,5 @@ Garage Inc. is a compilation album of cover songs by American heavy metal band M
 | Format         | Vinyl 3× LP Album Compilation Limited Edition Reissue (Blue (Fade To Blue)) |
 | Label          | Blackened |
 | Catalog Number | BLCKND013-1 |
-| Notes | Hype Sticker on front:  "Pressed on Limited Edition Fade to Blue 3LP Vinyl. BLCKND013-1U"  "Made in Germany" Sticker on back. Comes in a gatefold jacket. |
+| Notes | Hype Sticker on front: <br>"Pressed on<br>Limited Edition<br>Fade to Blue<br>3LP Vinyl.<br>BLCKND013-1U"<br><br>"Made in Germany" Sticker on back.<br>Comes in a gatefold jacket. |
 | Discogs URL    | [Metallica - Garage Inc.](https://www.discogs.com/release/30309152-Metallica-Garage-Inc) |

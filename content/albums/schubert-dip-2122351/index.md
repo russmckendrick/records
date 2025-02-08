@@ -4,6 +4,7 @@ artist_name: "EMF"
 artist: "emf"
 album_name: "Schubert Dip"
 date: 2015-10-14T18:37:05.000000Z
+release_date: "1991-05-07"
 release_id: "2122351"
 slug: "schubert-dip-2122351"
 hideSummary: true
@@ -25,44 +26,31 @@ styles: ["Leftfield", "Synth-pop"]
 Schubert Dip is the debut album by British rock band EMF, released on Parlophone Records on 7 May 1991. It features the worldwide hit single "Unbelievable" which reached number one on the US Billboard Hot 100. The name of the album is a pun on the name of the popular sweet sherbet dip and the 19th-century composer Franz Schubert.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Children
-2. Long Summer Days
-3. When You're Mine
-4. Travelling Not Running
-5. I Believe
-6. Unbelievable
-7. Girl Of An Age
-8. Admit It
-9. Lies
-10. Longtime
-11. Untitled
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Children |  |
+| A2 | Long Summer Days |  |
+| A3 | When You're Mine |  |
+| A4 | Travelling Not Running |  |
+| A5 | I Believe |  |
+| B1 | Unbelievable |  |
+| B2 | Girl Of An Age |  |
+| B3 | Admit It |  |
+| B4 | Lies |  |
+| B5 | Longtime |  |
+| B6 | Untitled |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/schubert-dip/1242337425" >}}<br>
 
 
-## Videos
-### EMF - Unbelievable Official Music Video HD
-{{< youtube id="sfCLt0kTd5E" title="EMF - Unbelievable Official Music Video HD" >}}<br>
-### More Videos
-
-- [EMF - Children Official Music Video](https://www.youtube.com/watch?v=fN7XEB31uow)
-- [Children](https://www.youtube.com/watch?v=FHoLIZtzxbY)
-- [Long Summer Days](https://www.youtube.com/watch?v=w8DnOwohmG8)
-- [When Youre Mine](https://www.youtube.com/watch?v=XjjUqJc3wBQ)
-- [Travelling Not Running](https://www.youtube.com/watch?v=ofZBwZkuSy4)
-- [I Believe](https://www.youtube.com/watch?v=-iAmTM2fTEU)
-- [Girl of an Age](https://www.youtube.com/watch?v=gTOZ-YRo2IE)
-- [Admit It](https://www.youtube.com/watch?v=MqlAJjBDntA)
-- [Lies](https://www.youtube.com/watch?v=V73bNerGrSY)
-- [Longtime](https://www.youtube.com/watch?v=elrHGYu0CWo)
-- [EMF - EMF](https://www.youtube.com/watch?v=bpmAQeGzmXo)
-- [Unbelievable Remastered](https://www.youtube.com/watch?v=A3pxkMaUNvc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +62,5 @@ Schubert Dip is the debut album by British rock band EMF, released on Parlophone
 | Format         | Vinyl LP Album |
 | Label          | Parlophone |
 | Catalog Number | PCS 7353 |
-| Notes | Includes printed inner sleeve with lyrics and credits on one side and "thanks" on the other.  Some early copies had a round sticker on the cover that reads: "Includes Unbelievable; I Believe; Children; PCS 7353".  Track B6 is not listed on the sleeve or labels - on [r=175763] B-side label it is listed as "EMF - 'Live At The Bilson'"  [Record labels, rim text] Manufactured in England by EMI Records Limited  [Record label side A] ℗ 1991... owned by EMI Records Ltd. © 1991 EMI Records Ltd.  [Record label side B] ℗ 1991 except track 1 ℗ 1990 ... owned by EMI Records Ltd. © 1991 EMI Records Ltd.  [Inner sleeve, back cover] ℗ 1991 except side 2 track 1 ℗ 1990 ... owned by EMI Records Ltd. © 1991 EMI Records Ltd.  [Back cover] ℗ 1991 except side 2 track 1 ℗ 1990 ... owned by EMI Records Ltd. © 1991 EMI Records Ltd. Sleeve printed in England. Manufactured in England. SP9105GU  [Runouts] All runout data is stamped. |
+| Notes | Includes printed inner sleeve with lyrics and credits on one side and "thanks" on the other.<br><br>Some early copies had a round sticker on the cover that reads: "Includes Unbelievable; I Believe; Children; PCS 7353".<br><br>Track B6 is not listed on the sleeve or labels - on [r=175763] B-side label it is listed as "EMF - 'Live At The Bilson'"<br><br>[Record labels, rim text]<br>Manufactured in England by EMI Records Limited<br><br>[Record label side A]<br>℗ 1991... owned by EMI Records Ltd.<br>© 1991 EMI Records Ltd.<br><br>[Record label side B]<br>℗ 1991 except track 1 ℗ 1990 ... owned by EMI Records Ltd.<br>© 1991 EMI Records Ltd.<br><br>[Inner sleeve, back cover]<br>℗ 1991 except side 2 track 1 ℗ 1990 ... owned by EMI Records Ltd.<br>© 1991 EMI Records Ltd.<br><br>[Back cover]<br>℗ 1991 except side 2 track 1 ℗ 1990 ... owned by EMI Records Ltd.<br>© 1991 EMI Records Ltd.<br>Sleeve printed in England. Manufactured in England. SP9105GU<br><br>[Runouts]<br>All runout data is stamped. |
 | Discogs URL    | [EMF - Schubert Dip](https://www.discogs.com/release/2122351-EMF-Schubert-Dip) |

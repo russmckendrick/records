@@ -1,7 +1,7 @@
 ---
 title: "Oasis - Be Here Now"
 artist_name: "Oasis"
-artist: "oasis-2"
+artist: "oasis"
 album_name: "Be Here Now"
 date: 2022-08-21T11:23:47.000000Z
 release_date: "1997-08-21"
@@ -51,22 +51,24 @@ Were Oasis put on this earth to deliver nine-minute ’60s pop psychedelia? Poss
 
 
 ## Tracklisting
-1. D'You Know What I Mean?
-2. My Big Mouth
-3. Magic Pie
-4. Stand By Me
-5. I Hope, I Think, I Know
-6. The Girl In The Dirty Shirt
-7. Fade In-Out
-8. Don't Go Away
-9. Be Here Now
-10. All Around The World
-11. It's Gettin' Better (Man!!)
-12. All Around The World (Reprise)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | D'You Know What I Mean? |  |
+| A2 | My Big Mouth |  |
+| A3 | Magic Pie |  |
+| B1 | Stand By Me |  |
+| B2 | I Hope, I Think, I Know |  |
+| B3 | The Girl In The Dirty Shirt |  |
+| C1 | Fade In-Out |  |
+| C2 | Don't Go Away |  |
+| C3 | Be Here Now |  |
+| D1 | All Around The World |  |
+| D2 | It's Gettin' Better (Man!!) |  |
+| D3 | All Around The World (Reprise) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/be-here-now/1517475368" >}}<br>
-
 
 
 

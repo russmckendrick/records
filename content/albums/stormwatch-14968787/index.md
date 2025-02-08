@@ -4,6 +4,7 @@ artist_name: "Jethro Tull"
 artist: "jethro-tull"
 album_name: "Stormwatch"
 date: 2020-04-23T11:51:21.000000Z
+release_date: "1979-09-14"
 release_id: "14968787"
 slug: "stormwatch-14968787"
 hideSummary: true
@@ -41,36 +42,30 @@ Stormwatch is the twelfth studio album by progressive rock band Jethro Tull, rel
 Stormwatch was notably the last Tull album to feature the "classic" line-up of the 1970s, as drummer Barrie "Barriemore" Barlow and keyboardists John Evan and Dee Palmer all left or were fired from the band in the months after the album's tour concluded in April 1980, while bassist John Glascock had died from heart complications in November 1979 during the tour. Glascock's playing is largely absent on the album as a result of his medical issues, with Anderson playing bass on all but three tracks.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. North Sea Oil (3:11)
-2. Orion (4:00)
-3. Home (2:46)
-4. Dark Ages (9:12)
-5. Warm Sporran (3:58)
-6. Something's On The Move (4:30)
-7. Old Ghosts (4:24)
-8. Dun Ringill (2:42)
-9. Flying Dutchman (7:43)
-10. Elegy (3:34)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | North Sea Oil | 3:11 |
+| A2 | Orion | 4:00 |
+| A3 | Home | 2:46 |
+| A4 | Dark Ages | 9:12 |
+| A5 | Warm Sporran | 3:58 |
+| B1 | Something's On The Move | 4:30 |
+| B2 | Old Ghosts | 4:24 |
+| B3 | Dun Ringill | 2:42 |
+| B4 | Flying Dutchman | 7:43 |
+| B5 | Elegy | 3:34 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stormwatch-2004-bonus-tracks-edition/726158739" >}}<br>
 
 
-## Videos
-### Jethro Tull - Stormwatch Full Album 1979
-{{< youtube id="odYZ8nYbHEg" title="Jethro Tull - Stormwatch Full Album 1979" >}}<br>
-### More Videos
-
-- [Dun Ringill 2004 Remaster](https://www.youtube.com/watch?v=2fJg9g77f94)
-- [Elegy 2004 Remaster](https://www.youtube.com/watch?v=bSZbyAEJIx0)
-- [Dark Ages 2004 Remaster](https://www.youtube.com/watch?v=2R0bWDrXAbc)
-- [Somethings on the Move 2004 Remaster](https://www.youtube.com/watch?v=_UYhULU3Yb0)
-- [Jethro Tull  - Homeyerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=7a3BboX52u0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +77,5 @@ Stormwatch was notably the last Tull album to feature the "classic" line-up of t
 | Format         | Vinyl LP Album Limited Edition Reissue Stereo (white vinyl, 180gm) |
 | Label          | Chrysalis |
 | Catalog Number | 0190295300234 |
-| Notes | The original 1979 album remixed to stereo by Steven Wilson, released on white vinyl - exclusive to Burning Shed - 500 copies. Standalone release of the main album, following on from the 2019 book-format reissue.  Also available as a black vinyl release. |
+| Notes | The original 1979 album remixed to stereo by Steven Wilson, released on white vinyl - exclusive to Burning Shed - 500 copies.<br>Standalone release of the main album, following on from the 2019 book-format reissue.<br><br>Also available as a black vinyl release. |
 | Discogs URL    | [Jethro Tull - Stormwatch](https://www.discogs.com/release/14968787-Jethro-Tull-Stormwatch) |

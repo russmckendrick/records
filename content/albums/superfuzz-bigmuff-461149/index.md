@@ -4,6 +4,7 @@ artist_name: "Mudhoney"
 artist: "mudhoney"
 album_name: "Superfuzz Bigmuff"
 date: 2019-08-23T14:14:24.000000Z
+release_date: "1988-10-20"
 release_id: "461149"
 slug: "superfuzz-bigmuff-461149"
 hideSummary: true
@@ -29,34 +30,28 @@ styles: ["Alternative Rock", "Grunge"]
 Superfuzz Bigmuff is the debut album and first major release by the Seattle grunge band Mudhoney. It was released on October 20, 1988, through record label Sub Pop. The album was later re-released in 1990 in Europe in the form of Superfuzz Bigmuff Plus Early Singles.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Here
-2. Touch Me I'm Sick
-3. Chain That Door
-4. Mudride
-5. There
-6. No One Has
-7. If I Think
-8. In 'N' Out Of Grace
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Here |  |
+| A1 | Touch Me I'm Sick |  |
+| A2 | Chain That Door |  |
+| A3 | Mudride |  |
+|  | There |  |
+| B1 | No One Has |  |
+| B2 | If I Think |  |
+| B3 | In 'N' Out Of Grace |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/superfuzz-bigmuff-deluxe-edition/279888941" >}}<br>
 
 
-## Videos
-### Mudride
-{{< youtube id="E91cumLaFQI" title="Mudride" >}}<br>
-### More Videos
-
-- [Need](https://www.youtube.com/watch?v=Pf_yzsgnOnI)
-- [Chain That Door](https://www.youtube.com/watch?v=xOBqYBgjTpk)
-- [Mudhoney - Touch Me Im Sick OFFICIAL VIDEO](https://www.youtube.com/watch?v=_nGsT_qFMBs)
-- [In n Out of Grace](https://www.youtube.com/watch?v=LYKAXJC1Lkk)
-- [Mudhoney  Superfuzz Bigmuff 1989](https://www.youtube.com/watch?v=HwiGFlZ0KP8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +63,5 @@ Superfuzz Bigmuff is the debut album and first major release by the Seattle grun
 | Format         | Vinyl 12" 33 ⅓ RPM EP |
 | Label          | Glitterhouse Records |
 | Catalog Number | GR 0034 |
-| Notes | Recorded at Reciprocal.  Manufactured under license from Sub Pop Records, USA.  Some copies included an A4 mailorder sheet from Glitterhouse titled "Touch us, we´re sick".  The "Seattle" hype-sticker does not appear on early pressings, it was invented when Nirvana came to fame to benefit from the grunge hype.  |
+| Notes | Recorded at Reciprocal.<br><br>Manufactured under license from Sub Pop Records, USA.<br><br>Some copies included an A4 mailorder sheet from Glitterhouse titled "Touch us, we´re sick".<br><br>The "Seattle" hype-sticker does not appear on early pressings, it was invented when Nirvana came to fame to benefit from the grunge hype.<br> |
 | Discogs URL    | [Mudhoney - Superfuzz Bigmuff](https://www.discogs.com/release/461149-Mudhoney-Superfuzz-Bigmuff) |

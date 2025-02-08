@@ -4,6 +4,7 @@ artist_name: "The Decemberists"
 artist: "the-decemberists"
 album_name: "I'll Be Your Girl"
 date: 2018-03-20T12:55:36.000000Z
+release_date: "2018-03-16"
 release_id: "11685917"
 slug: "i-ll-be-your-girl-11685917"
 hideSummary: true
@@ -20,26 +21,29 @@ styles: ["Indie Rock", "Folk Rock"]
 I'll Be Your Girl is the eighth studio album by the American indie rock band The Decemberists, released on March 16, 2018 on Capitol and Rough Trade. Produced by John Congleton, the band experimented with new instrumentation during the album's recording sessions, including several synth-based compositions inspired by New Order and Depeche Mode. The album was preceded by the singles "Severed" and "Once in My Life".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Once In My Life (5:09)
-2. Cutting Stone (3:20)
-3. Severed (4:03)
-4. Starwatcher (2:39)
-5. Tripping Along (3:35)
-6. Your Ghost (2:40)
-7. Everything is Awful (3:22)
-8. Sucker's Prayer (3:28)
-9. We All Die Young (4:01)
-10. Rusalka, Rusalka/ Wild Rushes (8:15)
-11. I'll Be Your Girl (2:34)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Once In My Life | 5:09 |
+| A2 | Cutting Stone | 3:20 |
+| A3 | Severed | 4:03 |
+| A4 | Starwatcher | 2:39 |
+| A5 | Tripping Along | 3:35 |
+| A6 | Your Ghost | 2:40 |
+| B1 | Everything is Awful | 3:22 |
+| B2 | Sucker's Prayer | 3:28 |
+| B3 | We All Die Young | 4:01 |
+| B4 | Rusalka, Rusalka/ Wild Rushes | 8:15 |
+| B5 | I'll Be Your Girl | 2:34 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ill-be-your-girl/1333262413" >}}<br>
-
 
 
 
@@ -53,5 +57,5 @@ I'll Be Your Girl is the eighth studio album by the American indie rock band The
 | Format         | Vinyl LP Album Limited Edition (White) |
 | Label          | Rough Trade |
 | Catalog Number | RTRADLPX906 |
-| Notes | Limited indie version on white vinyl, Comes in a heavy card gatefold cover with a 4-page 12" lyrics sheet and download code. Record sleeve is unpadded and generic white.  ℗ 2018 Capitol Records llc under licence to Rough Trade Records Ltd. © 2018 Capitol Records llc under licence to Rough Trade Records Ltd.  No country of origin or Capitol Records catalogue number appearing.  All songs by Colin Meloy, © 2018 Osterozhna Music (BMI) / Music of Stage Three (BMI), administered by BMG Rights Management (US), LLC except "Once In My Life" which contains elements of "Barnaby Hardly Working" written by Georgia Hubley and Ira Kaplan, published bu Roshashauna Music (BMI).  Kelly Hogan appears courtesy of Anti- Mikaela Davis appears courtesy of Rounder Records  Dedicated to the memory of Fang Funk (2005-2017) RTRADLPX906 on front and back sticker. RTRADLP906 printed on sleeve. |
+| Notes | Limited indie version on white vinyl, Comes in a heavy card gatefold cover with a 4-page 12" lyrics sheet and download code. Record sleeve is unpadded and generic white.<br><br>℗ 2018 Capitol Records llc under licence to Rough Trade Records Ltd.<br>© 2018 Capitol Records llc under licence to Rough Trade Records Ltd.<br><br>No country of origin or Capitol Records catalogue number appearing.<br><br>All songs by Colin Meloy, © 2018 Osterozhna Music (BMI) / Music of Stage Three (BMI), administered by BMG Rights Management (US), LLC except "Once In My Life" which contains elements of "Barnaby Hardly Working" written by Georgia Hubley and Ira Kaplan, published bu Roshashauna Music (BMI).<br><br>Kelly Hogan appears courtesy of Anti-<br>Mikaela Davis appears courtesy of Rounder Records<br><br>Dedicated to the memory of Fang Funk (2005-2017)<br>RTRADLPX906 on front and back sticker.<br>RTRADLP906 printed on sleeve. |
 | Discogs URL    | [The Decemberists - I'll Be Your Girl](https://www.discogs.com/release/11685917-The-Decemberists-Ill-Be-Your-Girl) |

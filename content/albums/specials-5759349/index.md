@@ -4,6 +4,7 @@ artist_name: "The Specials"
 artist: "the-specials"
 album_name: "Specials"
 date: 2015-10-15T17:43:22.000000Z
+release_date: "1979-10-19"
 release_id: "5759349"
 slug: "specials-5759349"
 hideSummary: true
@@ -27,44 +28,34 @@ After seven consecutive UK top 10 singles between 1979 and 1981, main lead vocal
 The group re-formed in 1993, and continued to perform and record with varying line-ups – none of them involving Dammers – until the  death of Terry Hall in December 2022.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. A Message To You Rudy
-2. Do The Dog
-3. It's Up To You
-4. Nite Klub
-5. Doesn't Make It Alright
-6. Concrete Jungle
-7. Too Hot
-8. Monkey Man
-9. (Dawning Of A) New Era
-10. Blank Expression
-11. Stupid Marriage
-12. Too Much Too Young
-13. Little Bitch
-14. You're Wondering Now
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | A Message To You Rudy |  |
+| A2 | Do The Dog |  |
+| A3 | It's Up To You |  |
+| A4 | Nite Klub |  |
+| A5 | Doesn't Make It Alright |  |
+| A6 | Concrete Jungle |  |
+| A7 | Too Hot |  |
+| B1 | Monkey Man |  |
+| B2 | (Dawning Of A) New Era |  |
+| B3 | Blank Expression |  |
+| B4 | Stupid Marriage |  |
+| B5 | Too Much Too Young |  |
+| B6 | Little Bitch |  |
+| B7 | You're Wondering Now |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-specials-remastered/1629177625" >}}<br>
 
 
-## Videos
-### The Specials - A Message To You Rudy Official Music Video
-{{< youtube id="cntvEDbagAw" title="The Specials - A Message To You Rudy Official Music Video" >}}<br>
-### More Videos
-
-- [The Specials - Too Much Too Young 2015 Remaster](https://www.youtube.com/watch?v=PD9NvKKY7W0)
-- [The Specials - Nite Klub 2015 Remaster](https://www.youtube.com/watch?v=rDzGMIFPk-w)
-- [The Specials - Too Hot 2015 Remaster](https://www.youtube.com/watch?v=XkGigEMADIc)
-- [The Specials - Monkey Man](https://www.youtube.com/watch?v=8miotqEVeSo)
-- [The Specials - Youre Wondering Now](https://www.youtube.com/watch?v=xEPfSWk0Lsw)
-- [The Specials - Youre Wondering Now](https://www.youtube.com/watch?v=tXaBnN1rlts)
-- [The Specials - Stupid Marriage](https://www.youtube.com/watch?v=YM7oBFi0oN8)
-- [The Specials - A Message To You Rudy](https://www.youtube.com/watch?v=cntvEDbagAw)
-- [The Specials - Gangsters](https://www.youtube.com/watch?v=lgCZN1rU5co)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +67,5 @@ The group re-formed in 1993, and continued to perform and record with varying li
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Two-Tone Records |
 | Catalog Number | CDL TTX 5001 |
-| Notes | Consolidation by Trigger  Digital Remasters ℗ 2014 The copyright in this sound recording is owned by Chrysalis Records Ltd. © 2014 Chrysalis Records Ltd. A Warner Music Group Company  |
+| Notes | Consolidation by Trigger<br><br>Digital Remasters ℗ 2014 The copyright in this sound recording is owned by Chrysalis Records Ltd.<br>© 2014 Chrysalis Records Ltd.<br>A Warner Music Group Company<br> |
 | Discogs URL    | [The Specials - Specials](https://www.discogs.com/release/5759349-Specials-Specials) |

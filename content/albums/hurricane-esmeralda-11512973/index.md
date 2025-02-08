@@ -4,6 +4,7 @@ artist_name: "Moonparticle"
 artist: "moonparticle"
 album_name: "Hurricane Esmeralda"
 date: 2018-02-07T06:57:19.000000Z
+release_date: "2018-01-20"
 release_id: "11512973"
 slug: "hurricane-esmeralda-11512973"
 hideSummary: true
@@ -20,25 +21,27 @@ styles: ["Prog Rock", "Jazz-Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Hurricane Esmeralda (3:20)
-2. Helium I (2:16)
-3. Helium II (1:24)
-4. Winter Mountain (5:20)
-5. White Light (5:00)
-6. Michelangelo Don't Stop (6:51)
-7. The Strength Of A Thousand Year Rose (4:23)
-8. Reverend Mum (4:06)
-9. Leon's Experiment (7:16)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hurricane Esmeralda | 3:20 |
+| A2 | Helium I | 2:16 |
+| A3 | Helium II | 1:24 |
+| A4 | Winter Mountain | 5:20 |
+| A5 | White Light | 5:00 |
+| B1 | Michelangelo Don't Stop | 6:51 |
+| B2 | The Strength Of A Thousand Year Rose | 4:23 |
+| B3 | Reverend Mum | 4:06 |
+| B4 | Leon's Experiment | 7:16 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hurricane-esmeralda/1314469704" >}}<br>
 
-
-## Videos
-### MOONPARTICLE  - Michelangelo Dont Stop 2018
-{{< youtube id="ueh4etEh_Zg" title="MOONPARTICLE  - Michelangelo Dont Stop 2018" >}}<br>
 
 
 ## Release Images

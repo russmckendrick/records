@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Everyone’s Getting Involved: A Tribute To Talking Heads’ Stop Making Sense"
 date: 2024-07-30T03:44:45.000000Z
+release_date: ""
 release_id: "31314999"
 slug: "everyones-getting-involved-a-tribute-to-talking-heads-stop-making-sense-31314999"
 hideSummary: true
@@ -32,40 +33,35 @@ styles: ["Post-Punk", "Art Rock", "Pop Rock", "New Wave"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Psycho Killer (3:44)
-2. Heaven (4:17)
-3. Thank You for Sending Me an Angel (3:08)
-4. Found a Job (4:12)
-5. Slippery People (5:40)
-6. Burning Down the House (3:38)
-7. Life During Wartime (4:24)
-8. Making Flippy Floppy (5:53)
-9. Swamp (3:20)
-10. What a Day That Was (4:30)
-11. This Must Be the Place (Naive Melody) (4:31)
-12. Once in a Lifetime (2:38)
-13. Genius of Love (3:25)
-14. Girlfriend Is Better (3:05)
-15. Take Me to the River (4:24)
-16. Crosseyed and Painless (5:23)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Psycho Killer | 3:44 |
+| A2 | Heaven | 4:17 |
+| A3 | Thank You for Sending Me an Angel | 3:08 |
+| A4 | Found a Job | 4:12 |
+| B5 | Slippery People | 5:40 |
+| B6 | Burning Down the House | 3:38 |
+| B7 | Life During Wartime | 4:24 |
+| C8 | Making Flippy Floppy | 5:53 |
+| C9 | Swamp | 3:20 |
+| C10 | What a Day That Was | 4:30 |
+| C11 | This Must Be the Place (Naive Melody) | 4:31 |
+| C12 | Once in a Lifetime | 2:38 |
+| D13 | Genius of Love | 3:25 |
+| D14 | Girlfriend Is Better | 3:05 |
+| D15 | Take Me to the River | 4:24 |
+| D16 | Crosseyed and Painless | 5:23 |
 
 
-## Spotify
-{{< spotify type="album" id="2nK2CYoSaKTDMzmMGxtVkz" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
-## Videos
-### Stop Making Sense Tribute Album  Official Teaser HD  A24
-{{< youtube id="RU04lMKwPwc" title="Stop Making Sense Tribute Album  Official Teaser HD  A24" >}}<br>
-### More Videos
-
-- [The National - Heaven Official Visualizer](https://www.youtube.com/watch?v=GXZj1KaKLr8)
-- [Paramore - Burning Down the House Official Visualizer](https://www.youtube.com/watch?v=qrjHhIGl90I)
-- [Lorde - Take Me to the River Visualizer](https://www.youtube.com/watch?v=fJar9TovXzI)
-- [Psycho Killer](https://www.youtube.com/watch?v=9UUbdIaz9x0)
-- [Girlfriend Is Better](https://www.youtube.com/watch?v=MBbowjdK5A8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +72,5 @@ styles: ["Post-Punk", "Art Rock", "Pop Rock", "New Wave"]
 | Format         | Vinyl 2× LP Album Limited Edition Stereo (Silver with Red Splatter (This Must Be The Grey)) |
 | Label          | A24 Music |
 | Catalog Number | A24M026 |
-| Notes | A tribute to Talking Head's "Stop Making Sense"  Tracks are numbered sequentially across sides   Rough Trade Exclusive Limited to 700 copies  |
+| Notes | A tribute to Talking Head's "Stop Making Sense"<br><br>Tracks are numbered sequentially across sides <br><br>Rough Trade Exclusive Limited to 700 copies<br> |
 | Discogs URL    | [Various - Everyone’s Getting Involved: A Tribute To Talking Heads’ Stop Making Sense](https://www.discogs.com/release/31314999-Various-Everyones-Getting-Involved-A-Tribute-To-Talking-Heads-Stop-Making-Sense) |

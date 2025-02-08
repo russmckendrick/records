@@ -4,6 +4,7 @@ artist_name: "Chapterhouse"
 artist: "chapterhouse"
 album_name: "Blood Music"
 date: 2021-06-17T04:14:42.000000Z
+release_date: "1993-09-06"
 release_id: "16103500"
 slug: "blood-music-16103500"
 hideSummary: true
@@ -18,35 +19,32 @@ styles: ["Indie Rock", "Shoegaze"]
 ---
 
 Blood Music is the second and final studio album by British shoegaze band Chapterhouse. Early copies of this album, as well as North American and Japanese editions, include the bonus remix CD Pentamerous Metamorphosis by Global Communication. Cherry Red re-issued the album in 2008, prefaced by songs from the "Mesmerise" and "We Are The Beautiful" CD singles.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Don't Look Now (5:06)
-2. There's Still Life (5:01)
-3. We Are The Beautiful (6:04)
-4. Summer's Gone (3:31)
-5. Everytime (5:03)
-6. Deli (6:43)
-7. On The Way To Fly (4:25)
-8. She's A Vision (4:56)
-9. Greater Power (4:29)
-10. Confusion Trip (5:23)
-11. Love Forever (5:58)
-12. Picnic (15:18)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Don't Look Now | 5:06 |
+| A2 | There's Still Life | 5:01 |
+| A3 | We Are The Beautiful | 6:04 |
+| A4 | Summer's Gone | 3:31 |
+| B1 | Everytime | 5:03 |
+| B2 | Deli | 6:43 |
+| B3 | On The Way To Fly | 4:25 |
+| C1 | She's A Vision | 4:56 |
+| C2 | Greater Power | 4:29 |
+| C3 | Confusion Trip | 5:23 |
+| C4 | Love Forever | 5:58 |
+| D | Picnic | 15:18 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/blood-music/351372160" >}}<br>
 
 
-## Videos
-### Chapterhouse - We Are The Beautiful Video
-{{< youtube id="g3T9AT8FBtc" title="Chapterhouse - We Are The Beautiful Video" >}}<br>
-### More Videos
-
-- [Chapterhouse - Shes A Vision](https://www.youtube.com/watch?v=WStfpamuOq8)
-- [Global Communication  Pentamerous Metamorphosis Full Album](https://www.youtube.com/watch?v=Kpj6vyxS4kw)
 
 ## Release Images
 {{< imageGrid >}}

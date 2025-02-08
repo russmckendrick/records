@@ -4,6 +4,7 @@ artist_name: "John Grant"
 artist: "john-grant"
 album_name: "The Art Of The Lie"
 date: 2024-06-14T05:04:07.000000Z
+release_date: "2024-06-14"
 release_id: "30947866"
 slug: "the-art-of-the-lie-30947866"
 hideSummary: true
@@ -30,26 +31,29 @@ styles: ["Indie Rock", "Art Rock", "Leftfield", "Synth-pop"]
 ---
 
 The Art of the Lie is the sixth studio album by American musician John Grant, released on June 14, 2024, through Bella Union. It received positive reviews from critics.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. All That School For Nothing (5:20)
-2. Marbles (7:14)
-3. Father (7:02)
-4. Mother And Son (7:26)
-5. Twisted Scriptures (0:20)
-6. Meek AF (6:09)
-7. It's A Bitch (4:32)
-8. Daddy (6:46)
-9. The Child Catcher (7:14)
-10. Laura Lou (3:52)
-11. Zeitgeist (5:30)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | All That School For Nothing | 5:20 |
+| A2 | Marbles | 7:14 |
+| A3 | Father | 7:02 |
+| B1 | Mother And Son | 7:26 |
+| B2 | Twisted Scriptures | 0:20 |
+| B3 | Meek AF | 6:09 |
+| C1 | It's A Bitch | 4:32 |
+| C2 | Daddy | 6:46 |
+| D1 | The Child Catcher | 7:14 |
+| D2 | Laura Lou | 3:52 |
+| D3 | Zeitgeist | 5:30 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-art-of-the-lie/1733786875" >}}<br>
-
 
 
 
@@ -63,5 +67,5 @@ The Art of the Lie is the sixth studio album by American musician John Grant, re
 | Format         | Vinyl 2× LP Album Limited Edition (Gatefold, Pale Pink) |
 | Label          | Bella Union |
 | Catalog Number | BELLA1594VX |
-| Notes | 2LP gatefold with full-colour inner sleeves. Pale Pink vinyl edition.  Album recorded at Moon Zero Two Studio, Reykjavik; Microcosm Mkii, London; Hoxa Hq, London; Memetune, Cornwall. Mastered at Metropolis London.  © & ℗ 2024 Bella Union Records. Under exclusive license to [PIAS]. Manufactured in EU  100 copies of this release were retailed by Assai Records with an approved hand-numbered signed Obi under Assai Obi Editions. 100 copies with a signed print available direct from Bella Union Bandcamp page. |
+| Notes | 2LP gatefold with full-colour inner sleeves. Pale Pink vinyl edition.<br><br>Album recorded at Moon Zero Two Studio, Reykjavik; Microcosm Mkii, London; Hoxa Hq, London; Memetune, Cornwall.<br>Mastered at Metropolis London.<br><br>© & ℗ 2024 Bella Union Records. Under exclusive license to [PIAS]. Manufactured in EU<br><br>100 copies of this release were retailed by Assai Records with an approved hand-numbered signed Obi under Assai Obi Editions.<br>100 copies with a signed print available direct from Bella Union Bandcamp page. |
 | Discogs URL    | [John Grant - The Art Of The Lie](https://www.discogs.com/release/30947866-John-Grant-The-Art-Of-The-Lie) |

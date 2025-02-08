@@ -4,6 +4,7 @@ artist_name: "Inspiral Carpets"
 artist: "inspiral-carpets"
 album_name: "Life"
 date: 2021-11-22T01:21:47.000000Z
+release_date: "1990-04-23"
 release_id: "21039049"
 slug: "life-21039049"
 hideSummary: true
@@ -29,40 +30,32 @@ It was reissued in 2013 with the PlaneCrash and TrainSurfing EPs and an unreleas
 A slightly modified version of Life was released in North America. It dropped the track "Besides Me" and added "Commercial Rain" (a re-recorded version of a B-side to the "Joe" single) and three tracks from their then-forthcoming Island Head EP.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Real Thing
-2. Song For A Family
-3. This Is How It Feels
-4. Directing Traffic
-5. Besides Me
-6. Manny Happy Returns
-7. Memories Of You
-8. She Comes In The Fall
-9. Monkey On My Back
-10. Sun Don't Shine
-11. Inside My Head
-12. Sackville
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Real Thing |  |
+| A2 | Song For A Family |  |
+| A3 | This Is How It Feels |  |
+| A4  | Directing Traffic |  |
+| A5 | Besides Me |  |
+| A6 | Manny Happy Returns |  |
+| B1 | Memories Of You |  |
+| B2 | She Comes In The Fall |  |
+| B3 | Monkey On My Back |  |
+| B4 | Sun Don't Shine |  |
+| B5 | Inside My Head |  |
+| B6 | Sackville |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/life/1435629068" >}}<br>
 
 
-## Videos
-### Inspiral Carpets - Song For A Family
-{{< youtube id="hZm8gq9qVeg" title="Inspiral Carpets - Song For A Family" >}}<br>
-### More Videos
-
-- [Inspiral Carpets - Directing Traffik](https://www.youtube.com/watch?v=skBOA6IZStc)
-- [Inspiral Carpets - Sackville Album Version](https://www.youtube.com/watch?v=x3SQfO5tUXE)
-- [Inspiral Carpets - She Comes In The Fall](https://www.youtube.com/watch?v=Dl7dxdaDqsU)
-- [Inspiral Carpets - Real Thing](https://www.youtube.com/watch?v=BzhOVxQxX-E)
-- [Inspiral Carpets - She Comes in the Fall Official Video FHD AI Remaster - 1990](https://www.youtube.com/watch?v=-ZxmWCoMefU)
-- [Inspiral Carpets - Sackville Single 1990](https://www.youtube.com/watch?v=Yrxj9los1v0)
-- [Inspiral Carpets - This is how it feels - 4k 60fps UHD](https://www.youtube.com/watch?v=Qx-eJU4TEnk)
 
 ## Release Images
 {{< imageGrid >}}

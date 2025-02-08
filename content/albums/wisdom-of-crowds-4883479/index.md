@@ -4,6 +4,7 @@ artist_name: "Bruce Soord"
 artist: "bruce-soord"
 album_name: "Wisdom Of Crowds"
 date: 2016-12-13T17:51:53.000000Z
+release_date: "2013-06-03"
 release_id: "4883479"
 slug: "wisdom-of-crowds-4883479"
 hideSummary: true
@@ -30,34 +31,29 @@ The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective W
 The opening anecdote relates Francis Galton's surprise that the crowd at a county fair accurately guessed the weight of an ox when their individual guesses were averaged (the average was closer to the ox's true butchered weight than the estimates of most crowd members).
 The book relates to diverse collections of independently deciding individuals, rather than crowd psychology as traditionally understood. Its central thesis, that a diverse collection of independently deciding individuals is likely to make certain types of decisions and predictions better than individuals or even experts, draws many parallels with statistical sampling; however, there is little overt discussion of statistics in the book.
 Its title is an allusion to Charles Mackay's Extraordinary Popular Delusions and the Madness of Crowds, published in 1841.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Pleasure (6:10)
-2. Wisdom Of Crowds (5:02)
-3. Radio Star (4:34)
-4. Frozen North (6:31)
-5. The Light (7:12)
-6. Stacked Naked (4:53)
-7. Pretend (5:23)
-8. The Centre Of Gravity (5:36)
-9. Flows Through You (11:38)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Pleasure | 6:10 |
+| A2 | Wisdom Of Crowds | 5:02 |
+| A3 | Radio Star | 4:34 |
+| B1 | Frozen North | 6:31 |
+| B2 | The Light | 7:12 |
+| C1 | Stacked Naked | 4:53 |
+| C2 | Pretend | 5:23 |
+| D1 | The Centre Of Gravity | 5:36 |
+| D2 | Flows Through You | 11:38 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wisdom-of-crowds/682955123" >}}<br>
 
 
-## Videos
-### Bruce Soord with Jonas Renkse - Frozen North from Wisdom of Crowds
-{{< youtube id="P66D8U7xxh8" title="Bruce Soord with Jonas Renkse - Frozen North from Wisdom of Crowds" >}}<br>
-### More Videos
-
-- [Bruce Soord  Jonas Renkse - Wisdom Of Crowds - Pleasure](https://www.youtube.com/watch?v=Ulmm9ItsyEQ)
-- [Bruce Soord with Jonas Renkse - Frozen North from Wisdom of Crowds](https://www.youtube.com/watch?v=P66D8U7xxh8)
-- [Bruce Soord  Jonas Renkse - Wisdom Of Crowds - Pleasure](https://www.youtube.com/watch?v=Ulmm9ItsyEQ)
-- [Bruce Soord With Jonas Renkse Katatonia -  Wisdom Of Crowds 2013](https://www.youtube.com/watch?v=3XUcKhremjE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +65,5 @@ Its title is an allusion to Charles Mackay's Extraordinary Popular Delusions and
 | Format         | Vinyl 2× LP Album Limited Edition ( Red Transparent) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE844 |
-| Notes | Mastered at 360 Mastering, London.    ℗ 2013 Snapper Music Plc. © 2013 Snapper Music Plc. Kscope is a Snapper Music label.    Made in Germany.    Limited edition red vinyl in special mirrored foil gatefold covers. |
+| Notes | Mastered at 360 Mastering, London.<br><br>℗ 2013 Snapper Music Plc. © 2013 Snapper Music Plc. Kscope is a Snapper Music label.<br><br>Made in Germany.<br><br>Limited edition red vinyl in special mirrored foil gatefold covers. |
 | Discogs URL    | [Bruce Soord - Wisdom Of Crowds](https://www.discogs.com/release/4883479-Bruce-Soord-With-Jonas-Renkse-Wisdom-Of-Crowds-Wisdom-Of-Crowds) |

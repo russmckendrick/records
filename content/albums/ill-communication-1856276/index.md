@@ -36,55 +36,34 @@ The album became the band's second number-one album on the U.S. Billboard 200 ch
 
 
 ## Tracklisting
-1. Sure Shot (3:20)
-2. Tough Guy (0:58)
-3. B-Boys Makin' With The Freak Freak (3:54)
-4. Bobo On The Corner (1:13)
-5. Root Down (3:32)
-6. Sabotage (2:59)
-7. Get It Together (4:06)
-8. Sabrosa (3:30)
-9. The Update (3:16)
-10. Futterman's Rule (3:42)
-11. Alright Hear This (3:07)
-12. Eugene's Lament (2:13)
-13. Flute Loop (1:55)
-14. Do It (3:17)
-15. Ricky's Theme (3:44)
-16. Heart Attack Man (2:15)
-17. The Scoop (3:36)
-18. Shambala (3:41)
-19. Bodhisattva Vow (3:09)
-20. Transitions (3:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sure Shot | 3:20 |
+| A2 | Tough Guy | 0:58 |
+| A3 | B-Boys Makin' With The Freak Freak | 3:54 |
+| A4 | Bobo On The Corner | 1:13 |
+| A5 | Root Down | 3:32 |
+| B1 | Sabotage | 2:59 |
+| B2 | Get It Together | 4:06 |
+| B3 | Sabrosa | 3:30 |
+| B4 | The Update | 3:16 |
+| B5 | Futterman's Rule | 3:42 |
+| C1 | Alright Hear This | 3:07 |
+| C2 | Eugene's Lament | 2:13 |
+| C3 | Flute Loop | 1:55 |
+| C4 | Do It | 3:17 |
+| C5 | Ricky's Theme | 3:44 |
+| D1 | Heart Attack Man | 2:15 |
+| D2 | The Scoop | 3:36 |
+| D3 | Shambala | 3:41 |
+| D4 | Bodhisattva Vow | 3:09 |
+| D5 | Transitions | 3:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ill-communication/724771323" >}}<br>
 
 
-## Videos
-### Beastie Boys - Sure Shot
-{{< youtube id="JhqyZeUlE8U" title="Beastie Boys - Sure Shot" >}}<br>
-### More Videos
-
-- [Tough Guy](https://www.youtube.com/watch?v=30CKfFLfNh0)
-- [B-Boys Makin With The Freak Freak](https://www.youtube.com/watch?v=M-wJrRmXzZQ)
-- [Bobo On The Corner](https://www.youtube.com/watch?v=e3CX8MUhuZY)
-- [Beastie Boys - Root Down](https://www.youtube.com/watch?v=Xf1YF_MH1xc)
-- [Beastie Boys - Sabotage](https://www.youtube.com/watch?v=z5rRZdiu1UE)
-- [Get It Together](https://www.youtube.com/watch?v=0bkMtWL-5vM)
-- [Sabrosa](https://www.youtube.com/watch?v=gUTO-sQzNsw)
-- [The Update](https://www.youtube.com/watch?v=WIrp4mnLKzw)
-- [Futtermans Rule](https://www.youtube.com/watch?v=P-bRCykSwec)
-- [Alright Hear This](https://www.youtube.com/watch?v=PDU4awStHiY)
-- [Eugenes Lament](https://www.youtube.com/watch?v=TktCCU1W4ZA)
-- [Flute Loop](https://www.youtube.com/watch?v=HOvvFwnygXU)
-- [Do It](https://www.youtube.com/watch?v=3UtDu-4m0Ko)
-- [Rickys Theme](https://www.youtube.com/watch?v=N_kZ2Q6uZEk)
-- [Heart Attack Man](https://www.youtube.com/watch?v=fCFE6TC5ERk)
-- [The Scoop](https://www.youtube.com/watch?v=xAffBC21-24)
-- [Shambala](https://www.youtube.com/watch?v=2E40WCgwLmk)
-- [Bodhisattva Vow](https://www.youtube.com/watch?v=vTCCc6VMW_k)
-- [Transitions](https://www.youtube.com/watch?v=CqUZjAoVjFA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -96,5 +75,5 @@ The album became the band's second number-one album on the U.S. Billboard 200 ch
 | Format         | Vinyl 2× LP Album Remastered Reissue (180 gram, Gatefold) |
 | Label          | Capitol Records |
 | Catalog Number | 509996 94232 15 |
-| Notes | Gatefold sleeve.  ℗ © 1994 Capitol Records, LLC and Beastie Boys  All songs published by Brooklyn Dust Music/Polygram International Publishing, Inc. (ASCAP) except "Get It Together" published by Brooklyn Dust Music/Polygram International Publishing, Inc. (ASCAP) and Zomba Enterprises, Inc./Jazz Merchant Music (ASCAP).  Recorded & mixed at G-Son Studios, with the parquet floor, Atwater Village, CA and Tin Pan Alley, New York, NY. Sequenced at Bundy's Playhouse. Mastered at Futuredisc  Q-Tip appears courtesy of Jive Records Biz Markee appears courtesy of His Own Damn Self  A1: Contains a sample from "The Funny Side Of Moms Mabley" Recording courtesy of MCA Records, Inc., and embodies portions of of the composition "Howlin' For Judy published by EMI Deshon Music, Inc. (BMI), performed by Jeremy Steig, courtesy of Blue Note Records, a division of Capitol Records, Inc. A5 contains samples from "Root Down (And Get It)" published by Jimmy's Music and performed by Jimmy Smith under license from Polygram Special Markets, a division of Polygram Group Distribution, Inc. B2 contains samples from "Headless Heroes published by Lonport Music (BMI) performed by Eugene McDaniels, courtesy of Atlantic Recording Corporation, by arrangement with Warner Special Products. B4 contains a sample from "Children of the Earth Flames" performed by John Klemmer, courtesy of MCA Records, Inc. C1 contains excerpts from "Graffiti Rock" performed by Michael Holman, courtesy of Michael Holman. C3: contains elements from "Flute Thing" published by Unichappell Music, Inc./Sea-Lark Entertainment and Six Continents Music (BMI). All rights administered by Unichappell Music, Inc. "Flute "Thing" performed by The Blues Project, under license from Polygram Special Markets, a division of Polygram Group Distribution, Inc.; and contains a sample from "Craps (After Hours)" performed by Richard Pryor, courtesy of Richard Pryor. D2 contains a sample from"Jacob's Ladder" published by Vernita Music (BMI) and performed by Cedar Walton, Jr., courtesy of Columbia Records; and contains samples from "Atma-Tomorrow" performed by Michael Urbaniak's Fusion, courtesy of Columbia Records; and contains samples from "I Know I Could Love You Better" performed by The Free Movement, courtesy of Columbia Records; and contains samples from "Tough" published by Neutral Gray Music, Original J.B. Music, Funkgroove Music & Rushgroove Music (ASCAP) and performed by Kurtis Blow, under license from Polygram Special Markets, a division of Polygram Group Distribution, Inc.  The original matrix number, 28599, is still in the runouts but crossed out with a sequence of Xs.  Track durations not listed on release. |
+| Notes | Gatefold sleeve.<br><br>℗ © 1994 Capitol Records, LLC and Beastie Boys<br><br>All songs published by Brooklyn Dust Music/Polygram International Publishing, Inc. (ASCAP) except "Get It Together" published by Brooklyn Dust Music/Polygram International Publishing, Inc. (ASCAP) and Zomba Enterprises, Inc./Jazz Merchant Music (ASCAP).<br><br>Recorded & mixed at G-Son Studios, with the parquet floor, Atwater Village, CA and Tin Pan Alley, New York, NY.<br>Sequenced at Bundy's Playhouse.<br>Mastered at Futuredisc<br><br>Q-Tip appears courtesy of Jive Records<br>Biz Markee appears courtesy of His Own Damn Self<br><br>A1: Contains a sample from "The Funny Side Of Moms Mabley" Recording courtesy of MCA Records, Inc., and embodies portions of of the composition "Howlin' For Judy published by EMI Deshon Music, Inc. (BMI), performed by Jeremy Steig, courtesy of Blue Note Records, a division of Capitol Records, Inc.<br>A5 contains samples from "Root Down (And Get It)" published by Jimmy's Music and performed by Jimmy Smith under license from Polygram Special Markets, a division of Polygram Group Distribution, Inc.<br>B2 contains samples from "Headless Heroes published by Lonport Music (BMI) performed by Eugene McDaniels, courtesy of Atlantic Recording Corporation, by arrangement with Warner Special Products.<br>B4 contains a sample from "Children of the Earth Flames" performed by John Klemmer, courtesy of MCA Records, Inc.<br>C1 contains excerpts from "Graffiti Rock" performed by Michael Holman, courtesy of Michael Holman.<br>C3: contains elements from "Flute Thing" published by Unichappell Music, Inc./Sea-Lark Entertainment and Six Continents Music (BMI). All rights administered by Unichappell Music, Inc. "Flute "Thing" performed by The Blues Project, under license from Polygram Special Markets, a division of Polygram Group Distribution, Inc.; and contains a sample from "Craps (After Hours)" performed by Richard Pryor, courtesy of Richard Pryor.<br>D2 contains a sample from"Jacob's Ladder" published by Vernita Music (BMI) and performed by Cedar Walton, Jr., courtesy of Columbia Records; and contains samples from "Atma-Tomorrow" performed by Michael Urbaniak's Fusion, courtesy of Columbia Records; and contains samples from "I Know I Could Love You Better" performed by The Free Movement, courtesy of Columbia Records; and contains samples from "Tough" published by Neutral Gray Music, Original J.B. Music, Funkgroove Music & Rushgroove Music (ASCAP) and performed by Kurtis Blow, under license from Polygram Special Markets, a division of Polygram Group Distribution, Inc.<br><br>The original matrix number, 28599, is still in the runouts but crossed out with a sequence of Xs.<br><br>Track durations not listed on release. |
 | Discogs URL    | [Beastie Boys - Ill Communication](https://www.discogs.com/release/1856276-Beastie-Boys-Ill-Communication) |

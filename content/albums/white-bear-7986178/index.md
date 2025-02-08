@@ -4,6 +4,7 @@ artist_name: "The Temperance Movement"
 artist: "the-temperance-movement"
 album_name: "White Bear"
 date: 2016-01-17T12:53:37.000000Z
+release_date: "2016-01-15"
 release_id: "7986178"
 slug: "white-bear-7986178"
 hideSummary: true
@@ -30,40 +31,30 @@ White Bear is the second studio album by British rock band the Temperance Moveme
 The album was produced in 2015 and released on 15 January 2016.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Three Bulleits (3:14)
-2. Get Yourself Free (3:37)
-3. A Pleasant Peace I Feel (4:35)
-4. Modern Massacre (2:21)
-5. Battle Lines (4:16)
-6. White Bear (4:00)
-7. Oh Lorraine (3:03)
-8. Magnify (3:59)
-9. The Sun And Moon Roll Around Too Soon (2:48)
-10. I Hope I’m Not Losing My Mind (3:57)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Three Bulleits | 3:14 |
+| A2 | Get Yourself Free | 3:37 |
+| A3 | A Pleasant Peace I Feel | 4:35 |
+| A4 | Modern Massacre | 2:21 |
+| A5 | Battle Lines | 4:16 |
+| B1 | White Bear | 4:00 |
+| B2 | Oh Lorraine | 3:03 |
+| B3 | Magnify | 3:59 |
+| B4 | The Sun And Moon Roll Around Too Soon | 2:48 |
+| B5 | I Hope I’m Not Losing My Mind | 3:57 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/white-bear/1037063159" >}}<br>
 
 
-## Videos
-### The Temperance Movement - Three Bulleits Official Audio
-{{< youtube id="Cv2qj9Vm7uo" title="The Temperance Movement - Three Bulleits Official Audio" >}}<br>
-### More Videos
-
-- [The Temperance Movement - Get Yourself Free Official Audio](https://www.youtube.com/watch?v=Lza9M-5dL0s)
-- [The Temperance Movement - A Pleasant Peace I Feel](https://www.youtube.com/watch?v=AQomdsAOUTI)
-- [The Temperance Movement - Modern Massacre Official Audio](https://www.youtube.com/watch?v=-irzsO3cCFE)
-- [The Temperance Movement - Battle Lines Official Audio](https://www.youtube.com/watch?v=jRo-40H_z7M)
-- [The Temperance Movement - White Bear Official Video](https://www.youtube.com/watch?v=jus0LDfjKQ8)
-- [The Temperance Movement - Oh Lorraine Official Audio](https://www.youtube.com/watch?v=rfHWDQSHW4o)
-- [The Temperance Movement - Magnify Official Audio](https://www.youtube.com/watch?v=OqAJsDdNars)
-- [The Temperance Movement - The Sun and Moon Roll Around Too Soon Official Audio](https://www.youtube.com/watch?v=_8MZg6H6CCw)
-- [The Temperance Movement - I Hope Im Not Losing My Mind Official Audio](https://www.youtube.com/watch?v=vLH6Uy_TlwI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +66,5 @@ The album was produced in 2015 and released on 15 January 2016.
 | Format         | Vinyl LP Album Stereo (White) |
 | Label          | Earache |
 | Catalog Number | MOSH556LP |
-| Notes | White version of the "White Bear" album. Two versions were available : - simple white vinyl - "Deluxe" version containing : bonus art print + signed card. This version was limited to 250 copies. The art print and signed card were just added to the simple vinyl package. Both comes with A double sided 12 panel poster.  Manufactured in the EU.  Durations do not appear on this release.  |
+| Notes | White version of the "White Bear" album. Two versions were available :<br>- simple white vinyl<br>- "Deluxe" version containing : bonus art print + signed card. This version was limited to 250 copies. The art print and signed card were just added to the simple vinyl package.<br>Both comes with A double sided 12 panel poster.<br><br>Manufactured in the EU.<br><br>Durations do not appear on this release.<br> |
 | Discogs URL    | [The Temperance Movement - White Bear](https://www.discogs.com/release/7986178-The-Temperance-Movement-White-Bear) |

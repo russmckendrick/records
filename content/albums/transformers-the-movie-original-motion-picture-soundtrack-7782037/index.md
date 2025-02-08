@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Transformers: The Movie (Original Motion Picture Soundtrack)"
 date: 2015-12-07T18:46:42.000000Z
+release_date: ""
 release_id: "7782037"
 slug: "transformers-the-movie-original-motion-picture-soundtrack-7782037"
 hideSummary: true
@@ -30,32 +31,30 @@ styles: ["Soundtrack", "Score", "Glam", "Heavy Metal", "Arena Rock", "Hard Rock"
 The Transformers: The Movie (Original Motion Picture Soundtrack) is the 1986 soundtrack from the motion picture The Transformers: The Movie. It was released in the United States by Scotti Bros. Records on LP and cassette. It was released in Japan by Pony Canyon on CD in 1989. In 1992, Scotti Bros. released the album on CD in the US. By 1999, it was subsequently re-issued by eventual successor company Volcano Entertainment, and was re-released in 2007 with updated cover art and four bonus tracks.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Touch
-2. Instruments Of Destruction
-3. Death Of Optimus Prime
-4. Dare
-5. Nothin's Gonna Stand In Our Way
-6. The Transformers® (Theme)
-7. Escape
-8. Hunger
-9. Autobot/Decepticon Battle
-10. Dare To Be Stupid
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Touch |  |
+| A2 | Instruments Of Destruction |  |
+| A3 | Death Of Optimus Prime |  |
+| A4 | Dare |  |
+| A5 | Nothin's Gonna Stand In Our Way |  |
+| B1 | The Transformers® (Theme) |  |
+| B2 | Escape |  |
+| B3 | Hunger |  |
+| B4 | Autobot/Decepticon Battle |  |
+| B5 | Dare To Be Stupid |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Transformers The Movie 1986 Soundtrack - Unicrons Reckoning Epic Suite Soundtrack Mix
-{{< youtube id="3rlREG4ad4Q" title="Transformers The Movie 1986 Soundtrack - Unicrons Reckoning Epic Suite Soundtrack Mix" >}}<br>
-### More Videos
 
-- [Nothins Gonna Stand In Our Way](https://www.youtube.com/watch?v=0_2_5ATvLvs)
-- [The Touch - Stan Bush HD Restoration](https://www.youtube.com/watch?v=A52--FKUQgU)
-- [Transformers The Movie 1986 Soundtrack - Unicrons Reckoning Epic Suite Soundtrack Mix](https://www.youtube.com/watch?v=3rlREG4ad4Q)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +66,5 @@ The Transformers: The Movie (Original Motion Picture Soundtrack) is the 1986 sou
 | Format         | All Media Record Store Day Limited Edition (30th Anniversary Edition), Vinyl LP Single Sided Etched Stereo (Red (Autobot)), Vinyl LP Single Sided Etched Stereo (Purple (Decepticon)) |
 | Label          | Volcano (2) |
 | Catalog Number | 88875144321 |
-| Notes | Record Store Day Black Friday 2015 Exclusive. Collectors Edition. Limited to 5000.  "Transforming" cover from Autobot themed jacket to Decepticon themed. |
+| Notes | Record Store Day Black Friday 2015 Exclusive. Collectors Edition. Limited to 5000.<br><br>"Transforming" cover from Autobot themed jacket to Decepticon themed. |
 | Discogs URL    | [Various - Transformers: The Movie (Original Motion Picture Soundtrack)](https://www.discogs.com/release/7782037-Various-Transformers-The-Movie-Original-Motion-Picture-Soundtrack) |

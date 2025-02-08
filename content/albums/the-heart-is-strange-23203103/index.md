@@ -4,6 +4,7 @@ artist_name: "xPropaganda"
 artist: "xpropaganda"
 album_name: "The Heart Is Strange"
 date: 2022-05-28T05:40:45.000000Z
+release_date: "2022-04-29"
 release_id: "23203103"
 slug: "the-heart-is-strange-23203103"
 hideSummary: true
@@ -25,41 +26,27 @@ styles: ["Synth-pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Night (6:00)
-2. Chasing Utopia (5:24)
-3. Beauty Is Truth (5:29)
-4. Only Human (3:03)
-5. Don't (You Mess With Me) (3:20)
-6. No Ordinary Girl (4:43)
-7. The Wolves Are Returning (5:01)
-8. Ribbons Of Steel (9:42)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Night | 6:00 |
+| A2 | Chasing Utopia | 5:24 |
+| A3 | Beauty Is Truth | 5:29 |
+| A4 | Only Human | 3:03 |
+| B1 | Don't (You Mess With Me) | 3:20 |
+| B2 | No Ordinary Girl | 4:43 |
+| B3 | The Wolves Are Returning | 5:01 |
+| B4 | Ribbons Of Steel | 9:42 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-heart-is-strange/1622746376" >}}<br>
 
 
-## Videos
-### The Night
-{{< youtube id="7LbjI2bJrhE" title="The Night" >}}<br>
-### More Videos
-
-- [Chasing Utopia](https://www.youtube.com/watch?v=kUzseIvaGo4)
-- [Beauty Is Truth](https://www.youtube.com/watch?v=BJVzW19Mb28)
-- [Only Human](https://www.youtube.com/watch?v=4nawF6LJeGg)
-- [Dont You Mess With Me](https://www.youtube.com/watch?v=2jGhz7qccFQ)
-- [No Ordinary Girl](https://www.youtube.com/watch?v=-A3MfaCQ81M)
-- [The Wolves Are Returning](https://www.youtube.com/watch?v=_906dqMbLLs)
-- [Ribbons Of Steel](https://www.youtube.com/watch?v=G1K3hBQ6330)
-- [The Night](https://www.youtube.com/watch?v=7LbjI2bJrhE)
-- [Chasing Utopia](https://www.youtube.com/watch?v=kUzseIvaGo4)
-- [Beauty Is Truth](https://www.youtube.com/watch?v=BJVzW19Mb28)
-- [Only Human](https://www.youtube.com/watch?v=4nawF6LJeGg)
-- [Dont You Mess With Me](https://www.youtube.com/watch?v=2jGhz7qccFQ)
-- [No Ordinary Girl](https://www.youtube.com/watch?v=-A3MfaCQ81M)
-- [The Wolves Are Returning](https://www.youtube.com/watch?v=_906dqMbLLs)
-- [Ribbons Of Steel](https://www.youtube.com/watch?v=G1K3hBQ6330)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +57,5 @@ styles: ["Synth-pop"]
 | Format         | Vinyl LP Album |
 | Label          | ZTT |
 | Catalog Number | ZTTnovis1 |
-| Notes | Sticker on front sleeve: "xPropaganda xTheHeartIsStrange /////////////////////////////////////////// xClaudiaBrücken xSusanneFreytag ////////////////////////////////////////// xProducedBy xStephenLipson ///////////////////////////////////////// >Don't(YouMessWithMe) >OnlyHuman >TheWolvesAreReturning >BeautyIsTruth  ZTTnovis1 3838272"  Runouts are etched except "-59257-" which is stamped. |
+| Notes | Sticker on front sleeve:<br>"xPropaganda<br>xTheHeartIsStrange<br>///////////////////////////////////////////<br>xClaudiaBrücken<br>xSusanneFreytag<br>//////////////////////////////////////////<br>xProducedBy<br>xStephenLipson<br>/////////////////////////////////////////<br>>Don't(YouMessWithMe)<br>>OnlyHuman<br>>TheWolvesAreReturning<br>>BeautyIsTruth<br><br>ZTTnovis1<br>3838272"<br><br>Runouts are etched except "-59257-" which is stamped. |
 | Discogs URL    | [xPropaganda - The Heart Is Strange](https://www.discogs.com/release/23203103-xPropaganda-The-Heart-Is-Strange) |

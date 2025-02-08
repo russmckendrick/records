@@ -4,6 +4,7 @@ artist_name: "The Smashing Pumpkins"
 artist: "the-smashing-pumpkins"
 album_name: "Live At The Cabaret Metro - Chicago 1993"
 date: 2017-06-01T18:06:52.000000Z
+release_date: ""
 release_id: "8397771"
 slug: "live-at-the-cabaret-metro-chicago-1993-8397771"
 hideSummary: true
@@ -19,21 +20,28 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Rocket
-2. Quiet
-3. Today
-4. Rhinoceros
-5. Geek USA
-6. I Am One
-7. Disarm
-8. Cherub Rock
-9. Hummer
-10. Silverfuck
-11. Mayonaise
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Rocket |  |
+| A2 | Quiet |  |
+| A3 | Today |  |
+| A4 | Rhinoceros |  |
+| B1 | Geek USA |  |
+| B2 | I Am One |  |
+| B3 | Disarm |  |
+| C1 | Cherub Rock |  |
+| C2 | Hummer |  |
+| D1 | Silverfuck |  |
+| D2 | Mayonaise |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 

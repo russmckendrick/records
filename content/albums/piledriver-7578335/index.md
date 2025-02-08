@@ -4,6 +4,7 @@ artist_name: "Status Quo"
 artist: "status-quo"
 album_name: "Piledriver"
 date: 2016-05-23T18:26:01.000000Z
+release_date: "1973-01"
 release_id: "7578335"
 slug: "piledriver-7578335"
 hideSummary: true
@@ -18,38 +19,28 @@ styles: ["Rock & Roll", "Pop Rock", "Classic Rock"]
 ---
 
 Piledriver is the fifth studio album by the English rock band Status Quo, released in 1972. It was the first to be produced by the group themselves, and their first on the Vertigo label. It peaked at number five in the UK and included several favourites that would be featured frequently in live concerts.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Don't Waste My Time (4:19)
-2. Oh Baby (4:35)
-3. A Year (5:45)
-4. Unspoken Words (5:09)
-5. Big Fat Mama (5:53)
-6. Paper Plane (2:58)
-7. All The Reasons (3:38)
-8. Roadhouse Blues (7:29)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Don't Waste My Time | 4:19 |
+| A2 | Oh Baby | 4:35 |
+| A3 | A Year | 5:45 |
+| A4 | Unspoken Words | 5:09 |
+| B1 | Big Fat Mama | 5:53 |
+| B2 | Paper Plane | 2:58 |
+| B3 | All The Reasons | 3:38 |
+| B4 | Roadhouse Blues | 7:29 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/piledriver/1443775891" >}}<br>
 
 
-## Videos
-### Status Quo -  Piledriver
-{{< youtube id="D86wF03EpOM" title="Status Quo -  Piledriver" >}}<br>
-### More Videos
-
-- [Status Quo - Dont Waste My Time - HQ](https://www.youtube.com/watch?v=CwQHDZYX3ao)
-- [Oh Baby](https://www.youtube.com/watch?v=tLLbnsrSqzc)
-- [A Year](https://www.youtube.com/watch?v=QY3soJahMJ8)
-- [Unspoken Words](https://www.youtube.com/watch?v=G1s7w3UHjI8)
-- [Big Fat Mama](https://www.youtube.com/watch?v=sI3Pb97lZew)
-- [Paper Plane](https://www.youtube.com/watch?v=1efrwxr8ptc)
-- [All The Reasons](https://www.youtube.com/watch?v=A3uvinc8YAk)
-- [Roadhouse Blues](https://www.youtube.com/watch?v=EWtJYHIAKJs)
-- [PILEDRIVER - Status Quo Medley Live Medley](https://www.youtube.com/watch?v=G36WE1FMhuc)
 
 ## Release Images
 {{< imageGrid >}}

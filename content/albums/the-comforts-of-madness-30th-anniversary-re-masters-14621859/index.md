@@ -4,6 +4,7 @@ artist_name: "Pale Saints"
 artist: "pale-saints"
 album_name: "The Comforts Of Madness 30th Anniversary Re:Masters"
 date: 2020-01-22T19:06:21.000000Z
+release_date: "1990-02-12"
 release_id: "14621859"
 slug: "the-comforts-of-madness-30th-anniversary-re-masters-14621859"
 hideSummary: true
@@ -31,72 +32,49 @@ styles: ["Indie Rock", "Shoegaze"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Comforts Of Madness 30th Anniversary Re:Masters
-2. Way The World Is
-3. You Tear The World In Two
-4. Sea Of Sound
-5. True Coming Dream
-6. Little Hammer
-7. Insubstantial
-8. A Deep Sleep For Steven
-9. Language Of Flowers
-10. Fell From The Sun
-11. Sight Of You
-12. Time Thief
-13. Original Woodhouse Studio Version
-14. Sight Of You
-15. Woodhouse Studio LP Demos
-16. Way The World Is
-17. Language Of Flowers
-18. You Tear The World In Two
-19. Fell From The Sun
-20. A Deep Sleep For Steven
-21. Time Thief
-22. Sea Of Sound
-23. Insubstantial
-24. Little Hammer
-25. True Coming Dream
-26. John Peel Session
-27. She Rides The Waves
-28. You Tear The World In Two
-29. Way The World Is
-30. Time Thief
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Comforts Of Madness 30th Anniversary Re:Masters |  |
+| A1 | Way The World Is |  |
+| A2 | You Tear The World In Two |  |
+| A3 | Sea Of Sound |  |
+| A4 | True Coming Dream |  |
+| A5 | Little Hammer |  |
+| B6 | Insubstantial |  |
+| B7 | A Deep Sleep For Steven |  |
+| B8 | Language Of Flowers |  |
+| B9 | Fell From The Sun |  |
+| B10 | Sight Of You |  |
+| B11 | Time Thief |  |
+|  | Original Woodhouse Studio Version |  |
+| C1 | Sight Of You |  |
+|  | Woodhouse Studio LP Demos |  |
+| C2 | Way The World Is |  |
+| C3 | Language Of Flowers |  |
+| C4 | You Tear The World In Two |  |
+| C5 | Fell From The Sun |  |
+| C6 | A Deep Sleep For Steven |  |
+| C7 | Time Thief |  |
+| D8 | Sea Of Sound |  |
+| D9 | Insubstantial |  |
+| D10 | Little Hammer |  |
+| D11 | True Coming Dream |  |
+|  | John Peel Session |  |
+| D12 | She Rides The Waves |  |
+| D13 | You Tear The World In Two |  |
+| D14 | Way The World Is |  |
+| D15 | Time Thief |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-comforts-of-madness-30th-anniversary-reissue/1485500146" >}}<br>
 
 
-## Videos
-### Pale Saints  The Comforts of Madness  30th Anniversary Vinyl Album Review
-{{< youtube id="Kok9FSw5jus" title="Pale Saints  The Comforts of Madness  30th Anniversary Vinyl Album Review" >}}<br>
-### More Videos
-
-- [12 Lagu Terbaik Anak Anak Enno Lerian](https://www.youtube.com/watch?v=gBpLQmtCp5w)
-- [12 Lagu Terbaik Ria Sari](https://www.youtube.com/watch?v=rJ3Lm45l5ZA)
-- [12 Lagu Terbaik Anak Anak Susan  Ria Enes](https://www.youtube.com/watch?v=9VsdRW6xlDk)
-- [12 Lagu Terbaik Atie Adyatie](https://www.youtube.com/watch?v=QFyhvr8bR3Q)
-- [Way the World Is Remastered](https://www.youtube.com/watch?v=Q8gSq63njnU)
-- [You Tear the World in Two Remastered](https://www.youtube.com/watch?v=L6tH3b36kzE)
-- [Sea of Sound Remastered](https://www.youtube.com/watch?v=kGJEdrUMOrw)
-- [True Coming Dream Remastered](https://www.youtube.com/watch?v=kGqxyIBJb5A)
-- [Little Hammer Remastered](https://www.youtube.com/watch?v=s8NGtNNle3I)
-- [Insubstantial Remastered](https://www.youtube.com/watch?v=R5dmGqyfQoI)
-- [A Deep Sleep for Steven Remastered](https://www.youtube.com/watch?v=Va5GW8WcTyA)
-- [Language of Flowers Remastered](https://www.youtube.com/watch?v=9itUJZupxvQ)
-- [Fell from the Sun Remastered](https://www.youtube.com/watch?v=bHWm93-6APY)
-- [Sight of You Remastered](https://www.youtube.com/watch?v=BkPOl4TrAPo)
-- [Time Thief Remastered](https://www.youtube.com/watch?v=el0gPR6uWU4)
-- [Pale Saints  The Comforts of Madness  30th Anniversary Vinyl Album Review](https://www.youtube.com/watch?v=Kok9FSw5jus)
-- [12 Lagu Terbaik Anak Anak Enno Lerian](https://www.youtube.com/watch?v=gBpLQmtCp5w)
-- [12 Lagu Terbaik Ria Sari](https://www.youtube.com/watch?v=rJ3Lm45l5ZA)
-- [12 Lagu Terbaik Anak Anak Susan  Ria Enes](https://www.youtube.com/watch?v=9VsdRW6xlDk)
-- [12 Lagu Terbaik Atie Adyatie](https://www.youtube.com/watch?v=QFyhvr8bR3Q)
-- [Pale Saints  The Comforts of Madness  30th Anniversary Vinyl Album Review](https://www.youtube.com/watch?v=Kok9FSw5jus)
-- [Pale Saints - You Tear the World in Two Woodhouse Studio LP Demo](https://www.youtube.com/watch?v=BBElDPFzz20)
-- [Pale Saints Documentary](https://www.youtube.com/watch?v=XPWk2yOpCZk)
-- [Time Thief Remastered](https://www.youtube.com/watch?v=el0gPR6uWU4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -107,5 +85,5 @@ styles: ["Indie Rock", "Shoegaze"]
 | Format         | Vinyl LP Album, Vinyl LP Compilation, All Media Limited Edition Special Edition (Clear) |
 | Label          | 4AD |
 | Catalog Number | 4AD 0159 LPX |
-| Notes | Limited Double LP Edition on Clear Vinyl Numbering reflects how it's listed on disc labels Typography on front cover art is different from all other vinyl issues in that the band name is cut off. On the right hand of the sleeve appears "Pale S" and part of an "A." On the left hand of the sleeve appears the other half of the "A," and "INTS."  Tracks A1 - B11 produced and engineered at Blackwing Studios Tracks C1 - D11 recorded at Woodhouse Studios, Leeds Tracks D12 - D15 recorded at BBD Studios, Maida Vale 23 July 1989 |
+| Notes | Limited Double LP Edition on Clear Vinyl<br>Numbering reflects how it's listed on disc labels<br>Typography on front cover art is different from all other vinyl issues in that the band name is cut off. On the right hand of the sleeve appears "Pale S" and part of an "A." On the left hand of the sleeve appears the other half of the "A," and "INTS."<br><br>Tracks A1 - B11 produced and engineered at Blackwing Studios<br>Tracks C1 - D11 recorded at Woodhouse Studios, Leeds<br>Tracks D12 - D15 recorded at BBD Studios, Maida Vale 23 July 1989 |
 | Discogs URL    | [Pale Saints - The Comforts Of Madness 30th Anniversary Re:Masters](https://www.discogs.com/release/14621859-Pale-Saints-The-Comforts-Of-Madness-30th-Anniversary-ReMasters) |

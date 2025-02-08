@@ -4,6 +4,7 @@ artist_name: "Agnes Obel"
 artist: "agnes-obel"
 album_name: "Myopia"
 date: 2020-02-21T18:33:02.000000Z
+release_date: "2020-02-21"
 release_id: "14818594"
 slug: "myopia-14818594"
 hideSummary: true
@@ -28,40 +29,30 @@ styles: ["Vocal", "Ballad"]
 Myopia is the fourth studio album by Danish singer-songwriter Agnes Obel. It was released on 21 February 2020 by production studio Strange Harvest Limited. Three tracks were released as singles prior to the main release: "Island of Doom", "Broken Sleep" and "Parliament of Owls".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Camera's Rolling
-2. Broken Sleep
-3. Island Of Doom
-4. Roscian
-5. Myopia
-6. Drosera
-7. Can't Be
-8. Parliament Of Owls
-9. Promise Keeper
-10. Won't You Call Me
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Camera's Rolling |  |
+| A2 | Broken Sleep |  |
+| A3 | Island Of Doom |  |
+| A4 | Roscian |  |
+| A5 | Myopia |  |
+| B1 | Drosera |  |
+| B2 | Can't Be |  |
+| B3 | Parliament Of Owls |  |
+| B4 | Promise Keeper |  |
+| B5 | Won't You Call Me |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/myopia/1483221211" >}}<br>
 
 
-## Videos
-### Agnes Obel - Cameras Rolling Official Video
-{{< youtube id="C2fpFeNZwAg" title="Agnes Obel - Cameras Rolling Official Video" >}}<br>
-### More Videos
-
-- [Agnes Obel - Broken Sleep Official Video](https://www.youtube.com/watch?v=9-b85ngtQO4)
-- [Agnes Obel - Island Of Doom Official Video](https://www.youtube.com/watch?v=R0-HVFEjOlE)
-- [Roscian](https://www.youtube.com/watch?v=YBK62Gaot7k)
-- [Myopia](https://www.youtube.com/watch?v=Mav1oiRSByc)
-- [Drosera](https://www.youtube.com/watch?v=D3HbohY5F3c)
-- [Cant Be](https://www.youtube.com/watch?v=3NWV_fa9tS0)
-- [Promise Keeper](https://www.youtube.com/watch?v=2q_zl6X23vM)
-- [Parliament Of Owls](https://www.youtube.com/watch?v=NpwdJMOPbIs)
-- [Wont You Call Me](https://www.youtube.com/watch?v=qNn_o_itlcs)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +64,5 @@ Myopia is the fourth studio album by Danish singer-songwriter Agnes Obel. It was
 | Format         | Vinyl LP Album Limited Edition Misprint (Blue Translucent) |
 | Label          | Blue Note |
 | Catalog Number | 483 7178 |
-| Notes | Indie-store release on 180 gram in gatefold jacket.  ℗ & © Strange Harvest Limited under exclusive license to Deutsche Grammophon GmbH A Universal Music Company. Made in the EU.  Lacquer Cut By taken from runout.  Actual track order differs slightly to the one given on the yellow hype sticker and back cover of the sleeve: tracks B3 and B4 play as Parliament Of Owls followed by Promise Keeper.   |
+| Notes | Indie-store release on 180 gram in gatefold jacket.<br><br>℗ & © Strange Harvest Limited under exclusive license to Deutsche Grammophon GmbH<br>A Universal Music Company. Made in the EU.<br><br>Lacquer Cut By taken from runout.<br><br>Actual track order differs slightly to the one given on the yellow hype sticker and back cover of the sleeve: tracks B3 and B4 play as Parliament Of Owls followed by Promise Keeper. <br> |
 | Discogs URL    | [Agnes Obel - Myopia](https://www.discogs.com/release/14818594-Agnes-Obel-Myopia) |

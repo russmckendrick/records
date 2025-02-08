@@ -1,9 +1,10 @@
 ---
 title: "Matt Berry - The Blue Elephant"
 artist_name: "Matt Berry"
-artist: "matt-berry-3"
+artist: "matt-berry"
 album_name: "The Blue Elephant"
 date: 2021-05-14T10:45:22.000000Z
+release_date: "2021-05-14"
 release_id: "18722572"
 slug: "the-blue-elephant-18722572"
 hideSummary: true
@@ -26,65 +27,35 @@ According to Ahmed Mourad, writer of the Arabic novel, the book and the film hol
 The Blue Elephant received mixed reviews but performed well in the Egyptian Box-office during Eid time. The film did not follow the formula of the recent slew of Egyptian comedies, yet it managed to win over audiences across the Arab region. The film gained up to 30 million Egyptian pounds, which is approximately 4.2 million U.S. Dollars. As of 2024, it is the 12th highest rated horror film on IMDb with a rating of 8.0.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Aboard
-2. Summer Sun
-3. Safe Passage
-4. Now Disappear
-5. Alone
-6. Invisible
-7. Blues Inside Me
-8. I Cannot Speak
-9. The Blue Elephant
-10. Life Unknown
-11. Safer Passage
-12. Like Stone
-13. Story Told
-14. Forget Me
-15. Now Disappear (Again)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Aboard |  |
+| A2 | Summer Sun |  |
+| A3 | Safe Passage |  |
+| A4 | Now Disappear |  |
+| A5 | Alone |  |
+| A6 | Invisible |  |
+| A7 | Blues Inside Me |  |
+| A8 | I Cannot Speak |  |
+| B1 | The Blue Elephant |  |
+| B2 | Life Unknown |  |
+| B3 | Safer Passage |  |
+| B4 | Like Stone |  |
+| B5 | Story Told |  |
+| B6 | Forget Me |  |
+| B7 | Now Disappear (Again) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-blue-elephant/1553322260" >}}<br>
 
 
-## Videos
-### Matt Berry - Summer Sun Official Video
-{{< youtube id="G_YZZKgWOBQ" title="Matt Berry - Summer Sun Official Video" >}}<br>
-### More Videos
-
-- [Aboard](https://www.youtube.com/watch?v=6ExP4hfEmeo)
-- [Safe Passage](https://www.youtube.com/watch?v=6gvSeLP60hk)
-- [Now Disappear](https://www.youtube.com/watch?v=Q41lij0MRM4)
-- [Alone](https://www.youtube.com/watch?v=pUjRXwe3BwY)
-- [Invisible](https://www.youtube.com/watch?v=szTw5vIYGkY)
-- [Blues Inside Me](https://www.youtube.com/watch?v=4H-4FToVg3Y)
-- [I Cannot Speak](https://www.youtube.com/watch?v=xfMKmw2bMk0)
-- [The Blue Elephant](https://www.youtube.com/watch?v=t7yQj7-IFgo)
-- [Life Unknown](https://www.youtube.com/watch?v=9aYx5ZKWMHs)
-- [Safer Passage](https://www.youtube.com/watch?v=iYDtggIfxMs)
-- [Like Stone](https://www.youtube.com/watch?v=hlon3KUi6hk)
-- [Story Told](https://www.youtube.com/watch?v=nA1spW8N0YA)
-- [Forget Me](https://www.youtube.com/watch?v=_qujpoSKekk)
-- [Now Disappear Again](https://www.youtube.com/watch?v=QhgZSHL_yhk)
-- [Matt Berry - Summer Sun Official Video](https://www.youtube.com/watch?v=G_YZZKgWOBQ)
-- [Aboard](https://www.youtube.com/watch?v=6ExP4hfEmeo)
-- [Safe Passage](https://www.youtube.com/watch?v=6gvSeLP60hk)
-- [Now Disappear](https://www.youtube.com/watch?v=Q41lij0MRM4)
-- [Alone](https://www.youtube.com/watch?v=pUjRXwe3BwY)
-- [Invisible](https://www.youtube.com/watch?v=szTw5vIYGkY)
-- [Blues Inside Me](https://www.youtube.com/watch?v=4H-4FToVg3Y)
-- [I Cannot Speak](https://www.youtube.com/watch?v=xfMKmw2bMk0)
-- [The Blue Elephant](https://www.youtube.com/watch?v=t7yQj7-IFgo)
-- [Life Unknown](https://www.youtube.com/watch?v=9aYx5ZKWMHs)
-- [Safer Passage](https://www.youtube.com/watch?v=iYDtggIfxMs)
-- [Like Stone](https://www.youtube.com/watch?v=hlon3KUi6hk)
-- [Story Told](https://www.youtube.com/watch?v=nA1spW8N0YA)
-- [Forget Me](https://www.youtube.com/watch?v=_qujpoSKekk)
-- [Now Disappear Again](https://www.youtube.com/watch?v=QhgZSHL_yhk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -96,5 +67,5 @@ The Blue Elephant received mixed reviews but performed well in the Egyptian Box-
 | Format         | Vinyl LP Album Limited Edition Stereo (Mustard) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP578M |
-| Notes | 'Mustard' colour vinyl. Recorded by Matt Berry at Peach Studios between May & October 2020       |
+| Notes | 'Mustard' colour vinyl.<br>Recorded by Matt Berry at Peach Studios between May & October 2020<br><br><br><br><br><br> |
 | Discogs URL    | [Matt Berry - The Blue Elephant](https://www.discogs.com/release/18722572-Matt-Berry-3-The-Blue-Elephant) |

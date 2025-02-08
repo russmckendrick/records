@@ -4,6 +4,7 @@ artist_name: "Vennart"
 artist: "vennart"
 album_name: "To Cure A Blizzard Upon A Plastic Sea"
 date: 2018-11-11T15:05:07.000000Z
+release_date: "2018-09-14"
 release_id: "12785734"
 slug: "to-cure-a-blizzard-upon-a-plastic-sea-12785734"
 hideSummary: true
@@ -22,30 +23,29 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Binary 
-2. Donkey Kong
-3. Immortal Soldiers
-4. Into The Wave 
-5. Friends Don't Owe
-6. Spider Bones
-7. Sentientia 
-8. That's Not Entertainment 
-9. Diamond Ballgag 
-10. Robots In Disguise 
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Binary  |  |
+| A2 | Donkey Kong |  |
+| A3 | Immortal Soldiers |  |
+| B1 | Into The Wave  |  |
+| B2 | Friends Don't Owe |  |
+| C1 | Spider Bones |  |
+| C2 | Sentientia  |  |
+| C3 | That's Not Entertainment  |  |
+| D1 | Diamond Ballgag  |  |
+| D2 | Robots In Disguise  |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/to-cure-a-blizzard-upon-a-plastic-sea/1722675238" >}}<br>
 
 
-## Videos
-### VENNART - Immortal Soldiers Official Audio
-{{< youtube id="tkc9A_wDh08" title="VENNART - Immortal Soldiers Official Audio" >}}<br>
-### More Videos
-
-- [VENNART - Spider Bones Official Audio](https://www.youtube.com/watch?v=JKgOGi636c0)
-- [Vennart Donkey Kong Official Audio](https://www.youtube.com/watch?v=OOef0N1mbKU)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "Von Hertzen Brothers"
 artist: "von-hertzen-brothers"
 album_name: "War Is Over"
 date: 2017-11-12T13:25:28.000000Z
+release_date: "2017-11-03"
 release_id: "11111473"
 slug: "war-is-over-11111473"
 hideSummary: true
@@ -21,36 +22,32 @@ styles: ["Prog Rock"]
 Also a protest song against the Vietnam War, "Happy Xmas (War Is Over)" has since become a Christmas standard, frequently recorded by other artists, appearing on compilation albums of seasonal music, and named in polls as a holiday favourite. In a UK-wide poll in December 2012, it was voted tenth on the ITV television special The Nation's Favourite Christmas Song.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. War Is Over
-2. To The End Of The World
-3. The Arsonist
-4. Jerusalem
-5. Frozen Butterflies
-6. Who Are You?
-7. Blindsight
-8. Long Lost Sailor
-9. Wanderlust
-10. Beyond The Storm
-11. I'll Make It Up To You (Bonus Track)
-12. New Terrain (Bonus Track)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | War Is Over |  |
+| A2 | To The End Of The World |  |
+| A3 | The Arsonist |  |
+| B1 | Jerusalem |  |
+| B2 | Frozen Butterflies |  |
+| B3 | Who Are You? |  |
+| C1 | Blindsight |  |
+| C2 | Long Lost Sailor |  |
+| C3 | Wanderlust |  |
+| D1 | Beyond The Storm |  |
+| D2 | I'll Make It Up To You (Bonus Track) |  |
+| D3 | New Terrain (Bonus Track) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/war-is-over/1696526158" >}}<br>
 
 
-## Videos
-### War Is Over Von Hertzen Brothers
-{{< youtube id="iUeSjnI4kP4" title="War Is Over Von Hertzen Brothers" >}}<br>
-### More Videos
-
-- [Von Hertzen Brothers War Is Over](https://www.youtube.com/watch?v=uEa2_NhW6HU)
-- [War Is Over](https://www.youtube.com/watch?v=h0vgOAvzG9c)
-- [War Is Over Von Hertzen Brothers](https://www.youtube.com/watch?v=iUeSjnI4kP4)
 
 ## Release Images
 {{< imageGrid >}}

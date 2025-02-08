@@ -36,37 +36,23 @@ Yet in spite of the dance largesse of “We Found Love” and “Where Have You 
 
 
 ## Tracklisting
-1. Dum Dum Girl
-2. Such A Shame
-3. Renée
-4. It's My Life
-5. Tomorrow Started
-6. The Last Time
-7. Call In The Night Boy
-8. Does Caroline Know?
-9. It's You
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dum Dum Girl |  |
+| A2 | Such A Shame |  |
+| A3 | Renée |  |
+| A4 | It's My Life |  |
+| B1 | Tomorrow Started |  |
+| B2 | The Last Time |  |
+| B3 | Call In The Night Boy |  |
+| B4 | Does Caroline Know? |  |
+| B5 | It's You |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/talk-that-talk-deluxe/1443061797" >}}<br>
 
 
-## Videos
-### Tomorrow Started 1997 Remaster
-{{< youtube id="F5s0oynBz7M" title="Tomorrow Started 1997 Remaster" >}}<br>
-### More Videos
-
-- [Does Caroline Know 1997 Remaster](https://www.youtube.com/watch?v=bgiCKT6Y-lg)
-- [Renee 1997 Remaster](https://www.youtube.com/watch?v=KfB-iIrJy-s)
-- [Its My Life 1997 Remaster](https://www.youtube.com/watch?v=yWQezjGjiqs)
-- [The Last Time 1997 Remaster](https://www.youtube.com/watch?v=dsDpI1TiQMs)
-- [Its You 1997 Remaster](https://www.youtube.com/watch?v=xYMOv6XR5ts)
-- [Talk Talk - Its My Life Official Video](https://www.youtube.com/watch?v=cFH5JgyZK1I)
-- [Tomorrow Started 1997 Remaster](https://www.youtube.com/watch?v=F5s0oynBz7M)
-- [Does Caroline Know 1997 Remaster](https://www.youtube.com/watch?v=bgiCKT6Y-lg)
-- [Renee 1997 Remaster](https://www.youtube.com/watch?v=KfB-iIrJy-s)
-- [Its My Life 1997 Remaster](https://www.youtube.com/watch?v=yWQezjGjiqs)
-- [The Last Time 1997 Remaster](https://www.youtube.com/watch?v=dsDpI1TiQMs)
-- [Its You 1997 Remaster](https://www.youtube.com/watch?v=xYMOv6XR5ts)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +64,5 @@ Yet in spite of the dance largesse of “We Found Love” and “Where Have You 
 | Format         | Vinyl LP Album Reissue |
 | Label          | Parlophone |
 | Catalog Number | 0190295792619 |
-| Notes | Inner sleeve in glossy paper.  On spine: ● 0190295792619 Talk Talk ● It's My Life ● Parlophone Records Ltd.  On back cover: 0190295792619 ★ Stereo ℗ 1984 Parlophone Records Ltd © 2017 Parlophone Records Ltd. A Warner Music Group Company.  Country of manufacture of record as stated on record label.  On labels: Published by: Universal/Island Music Ltd. except: A1/A4: Universal/Island Music Ltd./Imagem London Ltd. B2: Universal/Island Music Ltd./DWB Music Ltd. ℗ 1984 Parlophone Records Ltd. © 2017 Parlophone Records Ltd. A Warner Music Group Company. Manufactured in the EU. LC30419.  Runouts are etched with Optimal plating symbols mirrored |
+| Notes | Inner sleeve in glossy paper.<br><br>On spine: ● 0190295792619 Talk Talk ● It's My Life ● Parlophone Records Ltd.<br><br>On back cover: 0190295792619 ★ Stereo ℗ 1984 Parlophone Records Ltd © 2017 Parlophone Records Ltd. A Warner Music Group Company. <br>Country of manufacture of record as stated on record label.<br><br>On labels:<br>Published by: Universal/Island Music Ltd.<br>except:<br>A1/A4: Universal/Island Music Ltd./Imagem London Ltd.<br>B2: Universal/Island Music Ltd./DWB Music Ltd.<br>℗ 1984 Parlophone Records Ltd. © 2017 Parlophone Records Ltd. A Warner Music Group Company.<br>Manufactured in the EU. LC30419.<br><br>Runouts are etched with Optimal plating symbols mirrored |
 | Discogs URL    | [Talk Talk - It's My Life](https://www.discogs.com/release/11009347-Talk-Talk-Its-My-Life) |

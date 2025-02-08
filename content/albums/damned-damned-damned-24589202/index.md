@@ -4,6 +4,7 @@ artist_name: "The Damned"
 artist: "the-damned"
 album_name: "Damned Damned Damned"
 date: 2022-10-14T05:15:31.000000Z
+release_date: "1977-04-16"
 release_id: "24589202"
 slug: "damned-damned-damned-24589202"
 hideSummary: true
@@ -25,41 +26,31 @@ styles: ["Punk"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Neat Neat Neat
-2. Fan Club
-3. I Fall
-4. Born To Kill
-5. Stab Yor Back
-6. Feel The Pain
-7. New Rose
-8. Fish
-9. See Her Tonite
-10. 1 Of The 2
-11. So Messed Up
-12. I Feel Alright
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Neat Neat Neat |  |
+| A2 | Fan Club |  |
+| A3 | I Fall |  |
+| A4 | Born To Kill |  |
+| A5 | Stab Yor Back |  |
+| A6 | Feel The Pain |  |
+| B1 | New Rose |  |
+| B2 | Fish |  |
+| B3 | See Her Tonite |  |
+| B4 | 1 Of The 2 |  |
+| B5 | So Messed Up |  |
+| B6 | I Feel Alright |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/damned-damned-damned/1439808377" >}}<br>
 
 
-## Videos
-### Neat Neat Neat 2017 - Remaster
-{{< youtube id="gXKDtkCzSCw" title="Neat Neat Neat 2017 - Remaster" >}}<br>
-### More Videos
-
-- [Fan Club 2017 - Remaster](https://www.youtube.com/watch?v=eq61uIImbU8)
-- [I Fall 2017 - Remaster](https://www.youtube.com/watch?v=kQTJ5jqGSpc)
-- [Born to Kill 2017 - Remaster](https://www.youtube.com/watch?v=sUWfs2Om83g)
-- [Stab Yor Back 2017 - Remaster](https://www.youtube.com/watch?v=tgfPG--zq1g)
-- [Feel the Pain 2017 - Remaster](https://www.youtube.com/watch?v=Hz16ObeWQ6E)
-- [New Rose](https://www.youtube.com/watch?v=6olrtHmM3kI)
-- [Fish 2017 - Remaster](https://www.youtube.com/watch?v=TokQhnIFKI0)
-- [See Her Tonite 2017 - Remaster](https://www.youtube.com/watch?v=tFu0X8vskNM)
-- [1 of the 2 2017 - Remaster](https://www.youtube.com/watch?v=UXCDnUShMhg)
-- [So Messed Up 2017 - Remaster](https://www.youtube.com/watch?v=r2OfzJdOhSc)
-- [I Feel Alright 2017 - Remaster](https://www.youtube.com/watch?v=Hg_ASTGuR-4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +61,5 @@ styles: ["Punk"]
 | Format         | Vinyl LP Album Limited Edition Reissue Remastered (Yellow) |
 | Label          | BMG |
 | Catalog Number | BMGCAT705CLP |
-| Notes | Issued for National Album Day 2022 on yellow vinyl. Sleeve with a light gloss finish. Black paper die cut polylined inner sleeve. Hype sticker applied to the shrink-wrap.  ℗ & © 2017 Union Square Music Limited, a BMG Company All tracks published by BMG Rights Management (UK) Ltd. except A3, A5 and A6 published by Rock Music Co. Ltd. All tracks published by BMG Rights Management (UK) Ltd. except B2, B3 published by Rock Music Co. Ltd., B6 published by Warner Chappell Music Ltd.  Manufactured in Norway. Runouts are etched. |
+| Notes | Issued for National Album Day 2022 on yellow vinyl.<br>Sleeve with a light gloss finish.<br>Black paper die cut polylined inner sleeve.<br>Hype sticker applied to the shrink-wrap.<br><br>℗ & © 2017 Union Square Music Limited, a BMG Company<br>All tracks published by BMG Rights Management (UK) Ltd. except A3, A5 and A6 published by Rock Music Co. Ltd.<br>All tracks published by BMG Rights Management (UK) Ltd. except B2, B3 published by Rock Music Co. Ltd., B6 published by Warner Chappell Music Ltd.<br><br>Manufactured in Norway.<br>Runouts are etched. |
 | Discogs URL    | [The Damned - Damned Damned Damned](https://www.discogs.com/release/24589202-The-Damned-Damned-Damned-Damned) |

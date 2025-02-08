@@ -4,6 +4,7 @@ artist_name: "Simple Minds"
 artist: "simple-minds"
 album_name: "Sparkle In The Rain"
 date: 2024-11-23T07:59:01.000000Z
+release_date: "1984-02-06"
 release_id: "32376702"
 slug: "sparkle-in-the-rain-32376702"
 hideSummary: true
@@ -26,34 +27,30 @@ Sparkle in the Rain is the sixth studio album by Scottish rock band Simple Minds
 A breakthrough commercial success for the band, the record peaked at number 1 in the UK Albums Chart on 18 February 1984, and reached the top 20 in New Zealand, Netherlands, Sweden, Canada, Switzerland, Germany, Norway, and Australia. Receiving mostly positive reviews in the United Kingdom and the United States, Sparkle in the Rain was ultimately certified platinum in the UK by the British Phonographic Industry, and significantly increased media interest in the band.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Up On The Catwalk (4:46)
-2. Book Of Brilliant Things (4:22)
-3. Speed Your Love To Me (4:25)
-4. Waterfront (4:49)
-5. East At Easter (3:33)
-6. Street Hassle (5:15)
-7. White Hot Day (4:34)
-8. ''C''Moon Cry Like A Baby (4:21)
-9. The Kick Inside Of Me (4:49)
-10. Shake Off The Ghosts (3:59)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Up On The Catwalk | 4:46 |
+| A2 | Book Of Brilliant Things | 4:22 |
+| A3 | Speed Your Love To Me | 4:25 |
+| A4 | Waterfront | 4:49 |
+| A5 | East At Easter | 3:33 |
+| B6 | Street Hassle | 5:15 |
+| B7 | White Hot Day | 4:34 |
+| B8 | ''C''Moon Cry Like A Baby | 4:21 |
+| B9 | The Kick Inside Of Me | 4:49 |
+| B10 | Shake Off The Ghosts | 3:59 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sparkle-in-the-rain/1444024281" >}}<br>
 
 
-## Videos
-### Book Of Brilliant Things Remastered 2002
-{{< youtube id="Qh_p08_D7IU" title="Book Of Brilliant Things Remastered 2002" >}}<br>
-### More Videos
-
-- [Simple Minds - Up On The Catwalk](https://www.youtube.com/watch?v=T7b27t7lxCw)
-- [Simple Minds - Waterfront](https://www.youtube.com/watch?v=vxXfu-Kbtbc)
-- [Simple Minds - Speed Your Love To Me](https://www.youtube.com/watch?v=tqIr6WPfgTw)
 
 ## Release Images
 {{< imageGrid >}}

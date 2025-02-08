@@ -4,6 +4,7 @@ artist_name: "Del Amitri"
 artist: "del-amitri"
 album_name: "Waking Hours"
 date: 2018-12-28T17:39:26.000000Z
+release_date: "1989-01-01"
 release_id: "418269"
 slug: "waking-hours-418269"
 hideSummary: true
@@ -25,32 +26,30 @@ styles: ["Folk Rock", "Soft Rock", "Pop Rock"]
 Waking Hours is the second studio album by Scottish alternative rock band Del Amitri, released in July 1989 by A&M Records. It reached number 6 in the UK Albums Chart and featured one of the band's most famous songs, "Nothing Ever Happens", which reached number 11 in the UK Singles Chart. The album's opening track, "Kiss This Thing Goodbye", entered the top 40 of the US Billboard Hot 100 when released as a single for the second time.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Kiss This Thing Goodbye
-2. Opposite View
-3. Move Away Jimmy Blue
-4. Stone Cold Sober
-5. You're Gone
-6. When I Want You
-7. This Side Of The Morning
-8. Empty
-9. Hatful Of Rain
-10. Nothing Ever Happens
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Kiss This Thing Goodbye |  |
+| A2 | Opposite View |  |
+| A3 | Move Away Jimmy Blue |  |
+| A4 | Stone Cold Sober |  |
+| A5 | You're Gone |  |
+| B1 | When I Want You |  |
+| B2 | This Side Of The Morning |  |
+| B3 | Empty |  |
+| B4 | Hatful Of Rain |  |
+| B5 | Nothing Ever Happens |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/waking-hours/1443380763" >}}<br>
 
 
-## Videos
-### Del Amitri - Nothing ever happens James Whale show
-{{< youtube id="ModyRm-6uNo" title="Del Amitri - Nothing ever happens James Whale show" >}}<br>
-### More Videos
-
-- [Del Amitri - Kiss This Thing Goodbye](https://www.youtube.com/watch?v=Ify_f6XoqMU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +61,5 @@ Waking Hours is the second studio album by Scottish alternative rock band Del Am
 | Format         | Vinyl LP Album |
 | Label          | A&M Records |
 | Catalog Number | AMA 9006 |
-| Notes | ℗ 1989 A&M Records Ltd Reproduction prohibited © 1989 A&M Records Ltd, all rights reserved First pressing of album circa 1989. Released with a printed inner sleeve (lyrics on one side, credits and collage of photos/memorabilia on reverse). |
+| Notes | ℗ 1989 A&M Records Ltd Reproduction prohibited<br>© 1989 A&M Records Ltd, all rights reserved<br>First pressing of album circa 1989.<br>Released with a printed inner sleeve (lyrics on one side, credits and collage of photos/memorabilia on reverse). |
 | Discogs URL    | [Del Amitri - Waking Hours](https://www.discogs.com/release/418269-Del-Amitri-Waking-Hours) |

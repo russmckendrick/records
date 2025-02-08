@@ -4,6 +4,7 @@ artist_name: "Neon Neon"
 artist: "neon-neon"
 album_name: "Stainless Style"
 date: 2016-10-09T08:27:26.000000Z
+release_date: "2008-08-18"
 release_id: "1287707"
 slug: "stainless-style-1287707"
 hideSummary: true
@@ -26,55 +27,32 @@ styles: ["New Wave", "Electro", "Hip Hop", "Indie Rock", "Synth-pop"]
 
 Stainless Style is the debut album from Neon Neon—a project from Super Furry Animals front man Gruff Rhys and electronic artist Boom Bip—which was released in March 2008 via Lex Records. The album was streamed in its entirety on the band's Myspace page for one week before its physical release.
 Stainless Style is a loose concept album based on the tumultuous life of DeLorean Motor Company founder John DeLorean, and features a number of high-profile guest appearances from Fab Moretti of The Strokes, Har Mar Superstar, Yo Majesty, Spank Rock, Cate Le Bon and Fatlip. The album was nominated for the 2008 Mercury Music Prize.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Neon Theme (2:22)
-2. Dream Cars (3:25)
-3. I Told Her On Alderaan (3:44)
-4. Raquel (5:02)
-5. Trick For Treat (4:44)
-6. Steel Your Girl (3:34)
-7. I Lust U (3:00)
-8. Sweat Shop (3:57)
-9. Belfast (3:09)
-10. Michael Douglas (4:14)
-11. Luxury Pool (3:56)
-12. Stainless Style (1:59)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Neon Theme | 2:22 |
+| A2 | Dream Cars | 3:25 |
+| A3 | I Told Her On Alderaan | 3:44 |
+| A4 | Raquel | 5:02 |
+| A5 | Trick For Treat | 4:44 |
+| A6 | Steel Your Girl | 3:34 |
+| B7 | I Lust U | 3:00 |
+| B8 | Sweat Shop | 3:57 |
+| B9 | Belfast | 3:09 |
+| B10 | Michael Douglas | 4:14 |
+| B11 | Luxury Pool | 3:56 |
+| B12 | Stainless Style | 1:59 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stainless-style/1601513716" >}}<br>
 
 
-## Videos
-### NEON NEON - I Lust U featuring Cate Le Bon - Official Video
-{{< youtube id="z4lZqDmCO9c" title="NEON NEON - I Lust U featuring Cate Le Bon - Official Video" >}}<br>
-### More Videos
-
-- [Neon Neon - Dream Cars Unofficial](https://www.youtube.com/watch?v=Jt924g5lZ7w)
-- [Neon Neon - I Told Her on Alderaan  Trick for Treat - Official Video](https://www.youtube.com/watch?v=0TYGtl1Nc5Q)
-- [Neon Neon - Raquel Unofficial](https://www.youtube.com/watch?v=wSG8SdLNyrg)
-- [Neon Neon - Sweat Shop Unofficial](https://www.youtube.com/watch?v=3Di4uDDl4DM)
-- [Neon Neon - Luxury Pool Feat Fatlip](https://www.youtube.com/watch?v=6tlv6gJH4E4)
-- [Album Review Stainless Style by Neon Neon](https://www.youtube.com/watch?v=cz-6MH9ZoBg)
-- [Luxury Pool](https://www.youtube.com/watch?v=dHyCrf6CSWs)
-- [Sweat Shop](https://www.youtube.com/watch?v=VM0HxGiuH1Y)
-- [Trick for Treat](https://www.youtube.com/watch?v=0ZEuRAK4X-E)
-- [Neon Neon - Michael Douglas](https://www.youtube.com/watch?v=OzRkNvC7yiI)
-- [Neon Neon - Luxury Pool Feat Fatlip](https://www.youtube.com/watch?v=6tlv6gJH4E4)
-- [NEON NEON - I Lust U featuring Cate Le Bon - Official Video](https://www.youtube.com/watch?v=z4lZqDmCO9c)
-- [Neon Neon - Dream Cars Unofficial](https://www.youtube.com/watch?v=Jt924g5lZ7w)
-- [Neon Neon - I Told Her on Alderaan  Trick for Treat - Official Video](https://www.youtube.com/watch?v=0TYGtl1Nc5Q)
-- [Neon Neon - Raquel Unofficial](https://www.youtube.com/watch?v=wSG8SdLNyrg)
-- [Neon Neon - Sweat Shop Unofficial](https://www.youtube.com/watch?v=3Di4uDDl4DM)
-- [Neon Neon - Luxury Pool Feat Fatlip](https://www.youtube.com/watch?v=6tlv6gJH4E4)
-- [Album Review Stainless Style by Neon Neon](https://www.youtube.com/watch?v=cz-6MH9ZoBg)
-- [Luxury Pool](https://www.youtube.com/watch?v=dHyCrf6CSWs)
-- [Sweat Shop](https://www.youtube.com/watch?v=VM0HxGiuH1Y)
-- [Trick for Treat](https://www.youtube.com/watch?v=0ZEuRAK4X-E)
-- [Neon Neon - Michael Douglas](https://www.youtube.com/watch?v=OzRkNvC7yiI)
 
 ## Release Images
 {{< imageGrid >}}

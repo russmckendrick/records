@@ -4,6 +4,7 @@ artist_name: "The Polyphonic Spree"
 artist: "the-polyphonic-spree"
 album_name: "The Fragile Army"
 date: 2017-07-14T20:27:26.000000Z
+release_date: "2007-06-19"
 release_id: "1133398"
 slug: "the-fragile-army-1133398"
 hideSummary: true
@@ -30,37 +31,32 @@ There was also a deluxe version of the album released including a patch and a DV
 The Fragile Army is the Polyphonic Spree's only record on which lead guitarist Annie Clark, better known as St. Vincent, appears as an official member of the band. Clark left the group shortly before the album's release. Pianist Mike Garson, best known for his work with David Bowie, was also part of the band's lineup during the recording.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Section 21 (Together We're Heavy) (0:29)
-2. Section 22 (Running Away) (3:33)
-3. Section 23 (Get Up And Go) (3:53)
-4. Section 24 (The Fragile Army) (4:01)
-5. Section 25 (Younger Yesterday) (4:35)
-6. Section 26 (We Crawl) (3:28)
-7. Section 27 (Mental Cabaret) (3:00)
-8. Section 28 (Guaranteed Nightlife) (3:54)
-9. Section 29 (Light To Follow) (4:25)
-10. Section 30 (Watch Us Explode (Justify)) (4:41)
-11. Section 31 (Overblow Your Nest) (4:47)
-12. Section 32 (The Championship) (5:50)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Section 21 (Together We're Heavy) | 0:29 |
+| A2 | Section 22 (Running Away) | 3:33 |
+| A3 | Section 23 (Get Up And Go) | 3:53 |
+| B1 | Section 24 (The Fragile Army) | 4:01 |
+| B2 | Section 25 (Younger Yesterday) | 4:35 |
+| B3 | Section 26 (We Crawl) | 3:28 |
+| C1 | Section 27 (Mental Cabaret) | 3:00 |
+| C2 | Section 28 (Guaranteed Nightlife) | 3:54 |
+| C3 | Section 29 (Light To Follow) | 4:25 |
+| D1 | Section 30 (Watch Us Explode (Justify)) | 4:41 |
+| D2 | Section 31 (Overblow Your Nest) | 4:47 |
+| D3 | Section 32 (The Championship) | 5:50 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-fragile-army/1711109736" >}}<br>
 
 
-## Videos
-### The Polyphonic Spree  The Fragile Army
-{{< youtube id="LTFOsPCuz0c" title="The Polyphonic Spree  The Fragile Army" >}}<br>
-### More Videos
-
-- [The Polyphonic Spree - Running Away TVT Records](https://www.youtube.com/watch?v=ynM9JgJjumI)
-- [Younger Yesterday](https://www.youtube.com/watch?v=YOEVJcej2bo)
-- [Light To Follow](https://www.youtube.com/watch?v=U1lWHgyw6EE)
-- [Get Up And Go](https://www.youtube.com/watch?v=Jh4yeEEbXds)
 
 ## Release Images
 {{< imageGrid >}}

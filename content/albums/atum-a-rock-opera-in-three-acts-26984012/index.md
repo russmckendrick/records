@@ -4,6 +4,7 @@ artist_name: "The Smashing Pumpkins"
 artist: "the-smashing-pumpkins"
 album_name: "ATUM (A Rock Opera In Three Acts)"
 date: 2023-05-12T02:09:32.000000Z
+release_date: "2000-02-29"
 release_id: "26984012"
 slug: "atum-a-rock-opera-in-three-acts-26984012"
 hideSummary: true
@@ -29,93 +30,57 @@ styles: ["Alternative Rock", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Act I
-2. Atum
-3. Butterfly Suite
-4. The Good In Goodbye
-5. Embracer
-6. With Ado I Do
-7. Hooligan
-8. Steps In Time
-9. Where Rain Must Fall
-10. Beyond The Vale
-11. Hooray!
-12. The Gold Mask
-13. Act II
-14. Avalanche
-15. Empires
-16. Neophyte
-17. Moss
-18. Night Waves
-19. Space Age
-20. Every Morning
-21. To The Grays
-22. Beguiled
-23. The Culling
-24. Springtimes
-25. Act III
-26. Sojourner
-27. That Which Animates The Spirit
-28. The Canary Trainer
-29. Pacer
-30. In Lieu Of Failure
-31. Cenotaph
-32. Harmageddon
-33. Fireflies
-34. Intergalactic
-35. Spellbinding
-36. Of Wings
-37. Audio Story
-38. Act 1 Of Atum
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Act I |  |
+| A1 | Atum |  |
+| A2 | Butterfly Suite |  |
+| A3 | The Good In Goodbye |  |
+| A4 | Embracer |  |
+| A5 | With Ado I Do |  |
+| A6 | Hooligan |  |
+| B7 | Steps In Time |  |
+| B8 | Where Rain Must Fall |  |
+| B9 | Beyond The Vale |  |
+| B10 | Hooray! |  |
+| B11 | The Gold Mask |  |
+|  | Act II |  |
+| C12 | Avalanche |  |
+| C13 | Empires |  |
+| C14 | Neophyte |  |
+| C15 | Moss |  |
+| C16 | Night Waves |  |
+| C17 | Space Age |  |
+| D18 | Every Morning |  |
+| D19 | To The Grays |  |
+| D20 | Beguiled |  |
+| D21 | The Culling |  |
+| D22 | Springtimes |  |
+|  | Act III |  |
+| E23 | Sojourner |  |
+| E24 | That Which Animates The Spirit |  |
+| E25 | The Canary Trainer |  |
+| F26 | Pacer |  |
+| F27 | In Lieu Of Failure |  |
+| F28 | Cenotaph |  |
+| F29 | Harmageddon |  |
+| G30 | Fireflies |  |
+| G31 | Intergalactic |  |
+| G32 | Spellbinding |  |
+| G33 | Of Wings |  |
+|  | Audio Story |  |
+| H34 | Act 1 Of Atum |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/us/album/atum/1644219042" >}}<br>
 
 
-## Videos
-### ATUM
-{{< youtube id="nN9eKUloi80" title="ATUM" >}}<br>
-### More Videos
-
-- [Butterfly Suite](https://www.youtube.com/watch?v=b2cNAvKoXp4)
-- [The Good in Goodbye](https://www.youtube.com/watch?v=xmAc_Wxr2aA)
-- [Embracer](https://www.youtube.com/watch?v=GdFTiSt9P3Y)
-- [With Ado I Do](https://www.youtube.com/watch?v=gzA3MpdidU8)
-- [Hooligan](https://www.youtube.com/watch?v=QqlNAhWr8Dk)
-- [Where Rain Must Fall](https://www.youtube.com/watch?v=E8fDKC1tRRo)
-- [Beyond the Vale](https://www.youtube.com/watch?v=OLgNPrK3x8Q)
-- [Steps in Time](https://www.youtube.com/watch?v=7eUhzxniREw)
-- [The Smashing Pumpkins - Empires Official Music Video](https://www.youtube.com/watch?v=gORLEfD7McA)
-- [The Smashing Pumpkins - Beguiled Official Music Video](https://www.youtube.com/watch?v=KqZZ-FeZPJ0)
-- [Springtimes](https://www.youtube.com/watch?v=0OhFqcVjEbc)
-- [Sojourner](https://www.youtube.com/watch?v=S0gSy662TuU)
-- [The Canary Trainer](https://www.youtube.com/watch?v=4SA1CNVml5E)
-- [Pacer](https://www.youtube.com/watch?v=XEOvZbNsIkM)
-- [In Lieu of Failure](https://www.youtube.com/watch?v=hhkRI9FhWlY)
-- [Fireflies](https://www.youtube.com/watch?v=mwv7FL__eiE)
-- [The Smashing Pumpkins - Spellbinding Official Music Video](https://www.youtube.com/watch?v=lz_0q6CAlP8)
-- [Of Wings](https://www.youtube.com/watch?v=xj8owHwgIBw)
-- [ATUM](https://www.youtube.com/watch?v=nN9eKUloi80)
-- [Butterfly Suite](https://www.youtube.com/watch?v=b2cNAvKoXp4)
-- [The Good in Goodbye](https://www.youtube.com/watch?v=xmAc_Wxr2aA)
-- [Embracer](https://www.youtube.com/watch?v=GdFTiSt9P3Y)
-- [With Ado I Do](https://www.youtube.com/watch?v=gzA3MpdidU8)
-- [Hooligan](https://www.youtube.com/watch?v=QqlNAhWr8Dk)
-- [Where Rain Must Fall](https://www.youtube.com/watch?v=E8fDKC1tRRo)
-- [Beyond the Vale](https://www.youtube.com/watch?v=OLgNPrK3x8Q)
-- [Steps in Time](https://www.youtube.com/watch?v=7eUhzxniREw)
-- [The Smashing Pumpkins - Empires Official Music Video](https://www.youtube.com/watch?v=gORLEfD7McA)
-- [The Smashing Pumpkins - Beguiled Official Music Video](https://www.youtube.com/watch?v=KqZZ-FeZPJ0)
-- [Springtimes](https://www.youtube.com/watch?v=0OhFqcVjEbc)
-- [Sojourner](https://www.youtube.com/watch?v=S0gSy662TuU)
-- [The Canary Trainer](https://www.youtube.com/watch?v=4SA1CNVml5E)
-- [Pacer](https://www.youtube.com/watch?v=XEOvZbNsIkM)
-- [In Lieu of Failure](https://www.youtube.com/watch?v=hhkRI9FhWlY)
-- [Fireflies](https://www.youtube.com/watch?v=mwv7FL__eiE)
-- [The Smashing Pumpkins - Spellbinding Official Music Video](https://www.youtube.com/watch?v=lz_0q6CAlP8)
-- [Of Wings](https://www.youtube.com/watch?v=xj8owHwgIBw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -126,5 +91,5 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Format         | Vinyl 4× LP Album |
 | Label          | Thirty Tigers |
 | Catalog Number | 04471LP |
-| Notes | Double gatefold book format. ℗ & © 2023 Martha's Music.  The track positions are numbered sequentially on the rear sleeve. |
+| Notes | Double gatefold book format.<br>℗ & © 2023 Martha's Music.<br><br>The track positions are numbered sequentially on the rear sleeve. |
 | Discogs URL    | [The Smashing Pumpkins - ATUM (A Rock Opera In Three Acts)](https://www.discogs.com/release/26984012-The-Smashing-Pumpkins-ATUM-A-Rock-Opera-In-Three-Acts) |

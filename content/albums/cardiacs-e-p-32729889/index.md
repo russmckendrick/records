@@ -4,6 +4,7 @@ artist_name: "Cardiacs"
 artist: "cardiacs"
 album_name: "Cardiacs E.P."
 date: 2025-01-17T10:58:25.000000Z
+release_date: ""
 release_id: "32729889"
 slug: "cardiacs-e-p-32729889"
 hideSummary: true
@@ -23,19 +24,21 @@ styles: ["Avantgarde", "Experimental", "Indie Rock", "Psychedelic Rock", "Prog R
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Faster Than Snakes With A Ball And A Chain
-2. Aukamakic / Dead Mouse
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Faster Than Snakes With A Ball And A Chain |  |
+| B | Aukamakic / Dead Mouse |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Faster Than Snakes With A Ball And A Chain
-{{< youtube id="m_x1Uw7o2-0" title="Faster Than Snakes With A Ball And A Chain" >}}<br>
-### More Videos
 
-- [Faster Than Snakes With A Ball And A Chain](https://www.youtube.com/watch?v=m_x1Uw7o2-0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -46,5 +49,5 @@ styles: ["Avantgarde", "Experimental", "Indie Rock", "Psychedelic Rock", "Prog R
 | Format         | Vinyl 7" 45 RPM EP Limited Edition |
 | Label          | Melodic Virtue |
 | Catalog Number | MVP008 |
-| Notes | 7" record housed in the inside rear cover of the limited edition coffee table book "Cardiacs: A Big Book and a Band and the Whole World Window"  From rear cover of record:  Cardiacs E.P.  Faster Than Snakes With A Ball And A Chain originally intended for inclusion on Guns (1999) Recorded and mixed at Apollo 8, Wiltshire  Aukamakic/Dead Mouse originally intended for inclusion on Cardiac Arrest E.P. (1979) Recorded and mixed at The Elephant Recording Studio, London  Mastered at Golden HIVE Studios, Prague  Distributed exclusively in Cardiacs: A Big Book and a Band and the Whole World Window.  ©℗ 2024 Alphabet  Printed in DE |
+| Notes | 7" record housed in the inside rear cover of the limited edition coffee table book "Cardiacs: A Big Book and a Band and the Whole World Window"<br><br>From rear cover of record:<br><br>Cardiacs E.P.<br><br>Faster Than Snakes With A Ball And A Chain originally intended for inclusion on Guns (1999)<br>Recorded and mixed at Apollo 8, Wiltshire<br><br>Aukamakic/Dead Mouse originally intended for inclusion on Cardiac Arrest E.P. (1979)<br>Recorded and mixed at The Elephant Recording Studio, London<br><br>Mastered at Golden HIVE Studios, Prague<br><br>Distributed exclusively in Cardiacs: A Big Book and a Band and the Whole World Window.<br><br>©℗ 2024 Alphabet<br><br>Printed in DE |
 | Discogs URL    | [Cardiacs - Cardiacs E.P.](https://www.discogs.com/release/32729889-Cardiacs-Cardiacs-EP) |

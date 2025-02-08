@@ -4,6 +4,7 @@ artist_name: "Rush"
 artist: "rush"
 album_name: "Time Machine 2011: Live In Cleveland"
 date: 2020-06-15T15:12:39.000000Z
+release_date: "2011-11-08"
 release_id: "13726336"
 slug: "time-machine-2011-live-in-cleveland-13726336"
 hideSummary: true
@@ -27,41 +28,44 @@ styles: ["Prog Rock", "Hard Rock"]
 
 Time Machine 2011: Live in Cleveland is a concert DVD, Blu-ray and double CD by Canadian rock band Rush released on 8 November 2011. It was filmed on 15 April 2011 at the Quicken Loans Arena in Cleveland, Ohio during the band's Time Machine Tour. The DVD film was recorded by Banger Films, which had previously produced the Rush documentary Rush: Beyond the Lighted Stage. The Moving Pictures portion of the concert was released on vinyl and digitally under the title Moving Pictures: Live 2011. In Canada in 2023 and 2024, the film was carried on Hollywood Suite under the title, Rush: Time Machine Tour.
 The album was nominated for a Juno Award in the "Music DVD of the Year" category. On 14 May 2014, the DVD was certified 2× Platinum in the US with 200,000 copies sold. It was later reissued as a part of the DVD and Blu-ray box set titled R40, released on 11 November 2014.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Spirit Of Radio
-2. Time Stand Still
-3. Presto
-4. Stick It Out
-5. Workin' Them Angels
-6. Leave That Thing Alone
-7. Faithless
-8. BU2B
-9. Free Will
-10. Marathon
-11. Subdivisions
-12. Tom Sawyer
-13. Red Barchetta
-14. YYZ
-15. Limelight
-16. The Camera Eye
-17. Witch Hunt
-18. Vital Signs
-19. Caravan
-20. Moto Perpetuo (Featuring Love For Sale)
-21. O'Malley's Break
-22. Closer To The Heart
-23. 2112 Overture / The Temples Of Syrinx
-24. Far Cry
-25. La Villa Strangiato
-26. Working Man
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Spirit Of Radio |  |
+| A2 | Time Stand Still |  |
+| A3 | Presto |  |
+| A4 | Stick It Out |  |
+| B1 | Workin' Them Angels |  |
+| B2 | Leave That Thing Alone |  |
+| B3 | Faithless |  |
+| B4 | BU2B |  |
+| C1 | Free Will |  |
+| C2 | Marathon |  |
+| C3 | Subdivisions |  |
+| D1 | Tom Sawyer |  |
+| D2 | Red Barchetta |  |
+| D3 | YYZ |  |
+| D4 | Limelight |  |
+| E1 | The Camera Eye |  |
+| E2 | Witch Hunt |  |
+| E3 | Vital Signs |  |
+| F1 | Caravan |  |
+| F2 | Moto Perpetuo (Featuring Love For Sale) |  |
+| G1 | O'Malley's Break |  |
+| G2 | Closer To The Heart |  |
+| G3 | 2112 Overture / The Temples Of Syrinx |  |
+| G4 | Far Cry |  |
+| H1 | La Villa Strangiato |  |
+| H2 | Working Man |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/time-machine-2011-live-in-cleveland/470703540" >}}<br>
-
 
 
 
@@ -75,5 +79,5 @@ The album was nominated for a Juno Award in the "Music DVD of the Year" category
 | Format         | Vinyl 4× LP Album Reissue (180g) |
 | Label          | Anthem (5) |
 | Catalog Number | R1 176655 |
-| Notes | Issued Under License To Roadrunner Records From ole Media Management L.P.  Printed in Canada - printed on back cover Manufactured in E.U. - printed on label RIM text  Download card included. Expires December 31, 2021 |
+| Notes | Issued Under License To Roadrunner Records From ole Media Management L.P.<br><br>Printed in Canada - printed on back cover<br>Manufactured in E.U. - printed on label RIM text<br><br>Download card included. Expires December 31, 2021 |
 | Discogs URL    | [Rush - Time Machine 2011: Live In Cleveland](https://www.discogs.com/release/13726336-Rush-Time-Machine-2011-Live-In-Cleveland) |

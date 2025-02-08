@@ -36,28 +36,24 @@ Temple of the Dog is the only studio album by the American rock band Temple of t
 
 
 ## Tracklisting
-1. Say Hello 2 Heaven (6:22)
-2. Reach Down (11:11)
-3. Hunger Strike (4:03)
-4. Pushin Forward Back (3:44)
-5. Call Me A Dog (5:02)
-6. Times Of Trouble (5:41)
-7. Wooden Jesus (4:09)
-8. Your Saviour (4:02)
-9. Four Walled World (6:53)
-10. All Night Thing (3:52)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Say Hello 2 Heaven | 6:22 |
+| A2 | Reach Down | 11:11 |
+| B1 | Hunger Strike | 4:03 |
+| B2 | Pushin Forward Back | 3:44 |
+| B3 | Call Me A Dog | 5:02 |
+| B4 | Times Of Trouble | 5:41 |
+| C1 | Wooden Jesus | 4:09 |
+| C2 | Your Saviour | 4:02 |
+| C3 | Four Walled World | 6:53 |
+| C4 | All Night Thing | 3:52 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/temple-of-the-dog-deluxe-edition/1440864963" >}}<br>
 
 
-## Videos
-### Temple Of The Dog - Hunger Strike
-{{< youtube id="VUb450Alpps" title="Temple Of The Dog - Hunger Strike" >}}<br>
-### More Videos
-
-- [Call Me A Dog](https://www.youtube.com/watch?v=i7dvT047kjo)
-- [Temple Of The Dog - Say Hello 2 Heaven Alternate Mix  Pseudo Video](https://www.youtube.com/watch?v=dwXBfbCfbro)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +65,5 @@ Temple of the Dog is the only studio album by the American rock band Temple of t
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Reissue (180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP956 |
-| Notes | A golden sticker is affixed to the resealable outer sleeve, reading:   "Music On Vinyl®. TEMPLE OF THE DOG. "TEMPLE OF THE DOG". The legendary album. Including an insert with lyrics and etched D-side. 180 gram audiophile vinyl. www.musiconvinyl.com. MOVLP956.".    Recorded weekends at London Bridge Studios, Seattle, WA Nov-Dec 1990.  Mastered at A&M Mastering Studios.    Original release ℗ 1991 A&M Records Inc.  This release ℗ & © 2013 Universal Music B.V.  Manufactured & distributed by Music On Vinyl B.V. for Universal Music B.V.  Made in the EU.  _____________________________________________________________    Track durations printed on side three are incorrect: they mimic those found on side two. |
+| Notes | A golden sticker is affixed to the resealable outer sleeve, reading: <br>"Music On Vinyl®. TEMPLE OF THE DOG. "TEMPLE OF THE DOG". The legendary album. Including an insert with lyrics and etched D-side. 180 gram audiophile vinyl. www.musiconvinyl.com. MOVLP956.".<br><br>Recorded weekends at London Bridge Studios, Seattle, WA Nov-Dec 1990.<br>Mastered at A&M Mastering Studios.<br><br>Original release ℗ 1991 A&M Records Inc.<br>This release ℗ & © 2013 Universal Music B.V.<br>Manufactured & distributed by Music On Vinyl B.V. for Universal Music B.V.<br>Made in the EU.<br>_____________________________________________________________<br><br>Track durations printed on side three are incorrect: they mimic those found on side two. |
 | Discogs URL    | [Temple Of The Dog - Temple Of The Dog](https://www.discogs.com/release/5098793-Temple-Of-The-Dog-Temple-Of-The-Dog) |

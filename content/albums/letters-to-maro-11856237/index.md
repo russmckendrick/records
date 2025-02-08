@@ -4,6 +4,7 @@ artist_name: "Frequency Drift"
 artist: "frequency-drift"
 album_name: "Letters To Maro"
 date: 2018-11-10T14:07:34.000000Z
+release_date: "2018-04-13"
 release_id: "11856237"
 slug: "letters-to-maro-11856237"
 hideSummary: true
@@ -24,34 +25,30 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Dear Maro (6:22)
-2. Underground (5:02)
-3. Electricity (4:52)
-4. Deprivation (3:35)
-5. Neon (6:09)
-6. Izanami (5:09)
-7. Nine (6:10)
-8. Escalator (4:26)
-9. Sleep Paralysis (6:03)
-10. Who's Master? (9:16)
-11. Ghosts When It Rains (3:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dear Maro | 6:22 |
+| A2 | Underground | 5:02 |
+| A3 | Electricity | 4:52 |
+| A4 | Deprivation | 3:35 |
+| B1 | Neon | 6:09 |
+| B2 | Izanami | 5:09 |
+| B3 | Nine | 6:10 |
+| C1 | Escalator | 4:26 |
+| C2 | Sleep Paralysis | 6:03 |
+| D1 | Who's Master? | 9:16 |
+| D2 | Ghosts When It Rains | 3:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/letters-to-maro/1348707186" >}}<br>
 
 
-## Videos
-### Whos Master
-{{< youtube id="IIJlPaNFWCA" title="Whos Master" >}}<br>
-### More Videos
-
-- [Dear Maro](https://www.youtube.com/watch?v=D45eq-HByMA)
-- [Underground](https://www.youtube.com/watch?v=VID1aEeeVqU)
-- [Electricity](https://www.youtube.com/watch?v=P4opD_uNKOc)
-- [Sleep Paralysis](https://www.youtube.com/watch?v=nHwBffb2F5A)
-- [Nine](https://www.youtube.com/watch?v=cW0xqaJJYQ4)
 
 ## Release Images
 {{< imageGrid >}}

@@ -4,6 +4,7 @@ artist_name: "Fever Ray"
 artist: "fever-ray"
 album_name: "Fever Ray"
 date: 2022-11-14T05:21:46.000000Z
+release_date: "2009-01-12"
 release_id: "1695082"
 slug: "fever-ray-1695082"
 hideSummary: true
@@ -24,54 +25,30 @@ styles: ["Electro", "Ambient", "Synth-pop"]
 Fever Ray is the debut solo studio album by Fever Ray, an alias of Karin Dreijer of Swedish electronic music duo the Knife. It was released on 12 January 2009 by Rabid Records. The album spawned four singles: "If I Had a Heart", "When I Grow Up", "Triangle Walks" and "Seven".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. If I Had A Heart
-2. When I Grow Up
-3. Dry And Dusty
-4. Seven
-5. Triangle Walks
-6. Concrete Walls
-7. Now's The Only Time I Know
-8. I'm Not Done
-9. Keep The Streets Empty For Me
-10. Coconut
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | If I Had A Heart |  |
+| A2 | When I Grow Up |  |
+| A3 | Dry And Dusty |  |
+| A4 | Seven |  |
+| A5 | Triangle Walks |  |
+| B6 | Concrete Walls |  |
+| B7 | Now's The Only Time I Know |  |
+| B8 | I'm Not Done |  |
+| B9 | Keep The Streets Empty For Me |  |
+| B10 | Coconut |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fever-ray/671901496" >}}<br>
 
 
-## Videos
-### Fever Ray If I Had A Heart
-{{< youtube id="EBAzlNJonO8" title="Fever Ray If I Had A Heart" >}}<br>
-### More Videos
-
-- [Fever Ray Seven](https://www.youtube.com/watch?v=aX07gCjT7dA)
-- [If I Had a Heart](https://www.youtube.com/watch?v=hTYQCTfUOiE)
-- [Fever Ray When I Grow Up](https://www.youtube.com/watch?v=4F-CpE73o2M)
-- [Dry and Dusty](https://www.youtube.com/watch?v=cAZgtZHFVA4)
-- [Seven](https://www.youtube.com/watch?v=Cx3x5TEU7pI)
-- [Fever Ray Triangle Walks](https://www.youtube.com/watch?v=oNs_69HkyDE)
-- [Concrete Walls](https://www.youtube.com/watch?v=TpTJeHWGelk)
-- [Nows the Only Time I Know](https://www.youtube.com/watch?v=WLiaqoGMYH8)
-- [Im Not Done](https://www.youtube.com/watch?v=q_b1wKLkgZA)
-- [Fever Ray Keep The Streets Empty For Me](https://www.youtube.com/watch?v=jWFb5z3kUSQ)
-- [Coconut](https://www.youtube.com/watch?v=ESUHd93d3Bo)
-- [Fever Ray If I Had A Heart](https://www.youtube.com/watch?v=EBAzlNJonO8)
-- [Fever Ray Seven](https://www.youtube.com/watch?v=aX07gCjT7dA)
-- [If I Had a Heart](https://www.youtube.com/watch?v=hTYQCTfUOiE)
-- [Fever Ray When I Grow Up](https://www.youtube.com/watch?v=4F-CpE73o2M)
-- [Dry and Dusty](https://www.youtube.com/watch?v=cAZgtZHFVA4)
-- [Seven](https://www.youtube.com/watch?v=Cx3x5TEU7pI)
-- [Fever Ray Triangle Walks](https://www.youtube.com/watch?v=oNs_69HkyDE)
-- [Concrete Walls](https://www.youtube.com/watch?v=TpTJeHWGelk)
-- [Nows the Only Time I Know](https://www.youtube.com/watch?v=WLiaqoGMYH8)
-- [Im Not Done](https://www.youtube.com/watch?v=q_b1wKLkgZA)
-- [Fever Ray Keep The Streets Empty For Me](https://www.youtube.com/watch?v=jWFb5z3kUSQ)
-- [Coconut](https://www.youtube.com/watch?v=ESUHd93d3Bo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -83,5 +60,5 @@ Fever Ray is the debut solo studio album by Fever Ray, an alias of Karin Dreijer
 | Format         | Vinyl LP Album |
 | Label          | Rabid Records |
 | Catalog Number | RABIDT039 |
-| Notes | Issued with a glossy black and white lyrics insert and black inner sleeve.  P & C 2009 Rabid Records  Tracks listed sequentially |
+| Notes | Issued with a glossy black and white lyrics insert and black inner sleeve.<br><br>P & C 2009 Rabid Records<br><br>Tracks listed sequentially |
 | Discogs URL    | [Fever Ray - Fever Ray](https://www.discogs.com/release/1695082-Fever-Ray-Fever-Ray) |

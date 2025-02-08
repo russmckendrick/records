@@ -4,6 +4,7 @@ artist_name: "Marillion"
 artist: "marillion"
 album_name: "A Sunday Night Above The Rain"
 date: 2021-11-02T03:32:11.000000Z
+release_date: "2014-06-17"
 release_id: "5864102"
 slug: "a-sunday-night-above-the-rain-5864102"
 hideSummary: true
@@ -28,25 +29,30 @@ styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Gaza
-2. Waiting To Happen
-3. Lucky Man
-4. This Strange Engine
-5. Pour My Love
-6. Neverland
-7. Invisible Ink
-8. Montréal
-9. Power
-10. Sounds That Can't Be Made
-11. The King Of Sunset Town
-12. The Sky Above The Rain
-13. Garden Party
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Gaza |  |
+| A2 | Waiting To Happen |  |
+| B1 | Lucky Man |  |
+| B2 | This Strange Engine |  |
+| C1 | Pour My Love |  |
+| C2 | Neverland |  |
+| C3 | Invisible Ink |  |
+| D1 | Montréal |  |
+| D2 | Power |  |
+| E1 | Sounds That Can't Be Made |  |
+| E2 | The King Of Sunset Town |  |
+| F1 | The Sky Above The Rain |  |
+| F2 | Garden Party |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/a-sunday-night-above-the-rain-live/1192675833" >}}<br>
-
 
 
 
@@ -59,5 +65,5 @@ styles: ["Prog Rock", "Art Rock", "Symphonic Rock"]
 | Format         | Vinyl 3× LP Album (180 Gram) |
 | Label          | Ear Music |
 | Catalog Number | 0209657ERE |
-| Notes | Recorded live at the Marillion Fan Weekend in Center Parcs, Port Zelande, in the Netherlands on 10 March 2013. Featuring all of the tracks from the recent studio album ‘Sounds That Can’t Be Made’.  ℗&© 2014 Racket Records under exclusive licence to Edel Germany GmbH. earMUSIC is a project of Edel.  Made in Germany.  comes in a gatefold cover |
+| Notes | Recorded live at the Marillion Fan Weekend in Center Parcs, Port Zelande, in the Netherlands on 10 March 2013. Featuring all of the tracks from the recent studio album ‘Sounds That Can’t Be Made’.<br><br>℗&© 2014 Racket Records under exclusive licence to Edel Germany GmbH. earMUSIC is a project of Edel.<br><br>Made in Germany.<br><br>comes in a gatefold cover |
 | Discogs URL    | [Marillion - A Sunday Night Above The Rain](https://www.discogs.com/release/5864102-Marillion-A-Sunday-Night-Above-The-Rain) |

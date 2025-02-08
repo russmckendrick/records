@@ -4,6 +4,7 @@ artist_name: "The Chemical Brothers"
 artist: "the-chemical-brothers"
 album_name: "Come With Us"
 date: 2018-06-13T17:29:00.000000Z
+release_date: "2002-01-01"
 release_id: "108093"
 slug: "come-with-us-108093"
 hideSummary: true
@@ -28,39 +29,30 @@ Come with Us is the fourth studio album by English electronic music duo the Chem
 The album debuted at number one on the UK Albums Chart. It was certified Gold by the BPI on 1 February 2002.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Come With Us
-2. It Began In Afrika
-3. Galaxy Bounce
-4. Star Guitar
-5. Hoops
-6. My Elastic Eye
-7. The State We're In
-8. Denmark
-9. Pioneer Skies
-10. The Test
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Come With Us |  |
+| A2 | It Began In Afrika |  |
+| A3 | Galaxy Bounce |  |
+| B1 | Star Guitar |  |
+| B2 | Hoops |  |
+| C1 | My Elastic Eye |  |
+| C2 | The State We're In |  |
+| C3 | Denmark |  |
+| D1 | Pioneer Skies |  |
+| D2 | The Test |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/come-with-us/721206816" >}}<br>
 
 
-## Videos
-### The Chemical Brothers - Come With Us
-{{< youtube id="F30zbHuTrh0" title="The Chemical Brothers - Come With Us" >}}<br>
-### More Videos
-
-- [Galaxy Bounce](https://www.youtube.com/watch?v=AybGKskqF-I)
-- [The Chemical Brothers - Star Guitar](https://www.youtube.com/watch?v=QrfGGdLDwYo)
-- [The Chemical Brothers - Hoops](https://www.youtube.com/watch?v=YhmrSNGl0Sc)
-- [My Elastic Eye](https://www.youtube.com/watch?v=WagyA3N1FgE)
-- [The State Were In](https://www.youtube.com/watch?v=MUrmm7EARZY)
-- [The Chemical Brothers - Denmark](https://www.youtube.com/watch?v=HlH3yazN7Ow)
-- [Chemical Brothers - Pioneer Skies](https://www.youtube.com/watch?v=8iDzLlDOUio)
-- [The Chemical Brothers feat Richard Ashcroft - The Test](https://www.youtube.com/watch?v=C3LPe3-LNR4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +64,5 @@ The album debuted at number one on the UK Albums Chart. It was certified Gold by
 | Format         | Vinyl 2× LP Album |
 | Label          | Astralwerks |
 | Catalog Number | ASW 11682 |
-| Notes | Gatefold sleeve    Come With Us contains a sample from the recording 'The Evidence' licensed courtesy of G. Chemouny and J. Claudel.  It Began In Afrika contains a sample from 'Drumbeat' performed by Jim Ingram.  Star Guitar contains a sample from 'Fly To Venus' (Electronic System, licensed courtesy by Dan Lacksman)  Hoops features samples from The Association recording 'Round Again'.  Elastic Eye contains elements sampled from 'Tic Tac Nocturne' (Estardy).  Pioneer Skies contains elements sampled from 'Yellow Train' (Camison/Bacheler).  The Test contains part of the improvisation performed by C. Niemen in the recording 'Pielgrzym'.   |
+| Notes | Gatefold sleeve<br><br>Come With Us contains a sample from the recording 'The Evidence' licensed courtesy of G. Chemouny and J. Claudel.<br>It Began In Afrika contains a sample from 'Drumbeat' performed by Jim Ingram.<br>Star Guitar contains a sample from 'Fly To Venus' (Electronic System, licensed courtesy by Dan Lacksman)<br>Hoops features samples from The Association recording 'Round Again'.<br>Elastic Eye contains elements sampled from 'Tic Tac Nocturne' (Estardy).<br>Pioneer Skies contains elements sampled from 'Yellow Train' (Camison/Bacheler).<br>The Test contains part of the improvisation performed by C. Niemen in the recording 'Pielgrzym'.<br> |
 | Discogs URL    | [The Chemical Brothers - Come With Us](https://www.discogs.com/release/108093-The-Chemical-Brothers-Come-With-Us) |

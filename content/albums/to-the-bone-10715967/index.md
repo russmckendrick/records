@@ -38,46 +38,25 @@ On his fifth solo record, the prolific Steven Wilson builds a monumentally lush 
 
 
 ## Tracklisting
-1. To The Bone (6:41)
-2. Nowhere Now (4:03)
-3. Pariah (4:44)
-4. The Same Asylum As Before (5:14)
-5. Refuge (6:42)
-6. Permanating (3:34)
-7. Blank Tapes (2:08)
-8. People Who Eat Darkness (6:02)
-9. Song Of I (5:21)
-10. Detonation (9:19)
-11. Song Of Unborn (5:55)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | To The Bone | 6:41 |
+| A2 | Nowhere Now | 4:03 |
+| A3 | Pariah | 4:44 |
+| B1 | The Same Asylum As Before | 5:14 |
+| B2 | Refuge | 6:42 |
+| B3 | Permanating | 3:34 |
+| C1 | Blank Tapes | 2:08 |
+| C2 | People Who Eat Darkness | 6:02 |
+| C3 | Song Of I | 5:21 |
+| D1 | Detonation | 9:19 |
+| D2 | Song Of Unborn | 5:55 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/to-the-bone/1440885200" >}}<br>
 
 
-## Videos
-### To The Bone - Steven Wilson - 45rpm Vinyl HQ Audio 4k
-{{< youtube id="MhMFjUNu3qM" title="To The Bone - Steven Wilson - 45rpm Vinyl HQ Audio 4k" >}}<br>
-### More Videos
-
-- [Permanating - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=6ZQF72Ihqnk)
-- [Pariah - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=NSDex70Anr4)
-- [The Same Asylum As Before - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=ris66JWNPJU)
-- [Refuge - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=TBDlvHTUzjg)
-- [Nowhere Now - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=Nb0maxV5xV8)
-- [To The Bone - Steven Wilson](https://www.youtube.com/watch?v=8Pa2BHCkhg4)
-- [To The Bone - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=MhMFjUNu3qM)
-- [Permanating - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=6ZQF72Ihqnk)
-- [Pariah - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=NSDex70Anr4)
-- [The Same Asylum As Before - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=ris66JWNPJU)
-- [Refuge - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=TBDlvHTUzjg)
-- [Nowhere Now - Steven Wilson - 45rpm Vinyl HQ Audio 4k](https://www.youtube.com/watch?v=Nb0maxV5xV8)
-- [To The Bone - Steven Wilson](https://www.youtube.com/watch?v=8Pa2BHCkhg4)
-- [To The Bone](https://www.youtube.com/watch?v=3vdhuHmjrw8)
-- [To The Bone - Steven Wilson](https://www.youtube.com/watch?v=8Pa2BHCkhg4)
-- [Steven Wilson - To The Bone Album METAL 2017](https://www.youtube.com/watch?v=mOG8Nb51Tx4)
-- [Blank Tapes](https://www.youtube.com/watch?v=nnhTmFiR8DY)
-- [Detonation](https://www.youtube.com/watch?v=SkVikPiahBM)
-- [To The Bone](https://www.youtube.com/watch?v=3vdhuHmjrw8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -89,5 +68,5 @@ On his fifth solo record, the prolific Steven Wilson builds a monumentally lush 
 | Format         | Vinyl 2× LP 45 RPM Album |
 | Label          | Caroline International |
 | Catalog Number | CAROL016LP |
-| Notes | Gatefold sleeve with plain white lined inner sleeves and additional printed inner sleeves with artwork, lyrics and credits.  Various retailers offered retailer-specific add-ons, such as limited artwork prints:  JPC.de exclusively offered a limited edition of 600 copies of a 12"x12" art print.  Burning Shed exclusively offered a numbered 11"x11" art print, limited to 1000 copies, exclusively sold on their online store.  Includes download code.  Recorded at Strangeways, London between December 2016 - February 2017. Some elements retained from demos recorded at No Man's Land between November 2015 - August 2016 Strings and choir produced at Angel Studio, London. Sophie's vocals recorded at Studio du Flon, Lausanne Mastered at Metropolis Management: [...] at Vector Management Booking: Neil Warnock at United Talent Agency, and Steve Martin at APA  ℗ & © 2017 Steven Wilson Productions Ltd. (on sleeve) ℗ + © 2017 Steven Wilson Productions (on labels)  Made in the EU. |
+| Notes | Gatefold sleeve with plain white lined inner sleeves and additional printed inner sleeves with artwork, lyrics and credits.<br><br>Various retailers offered retailer-specific add-ons, such as limited artwork prints:<br><br>JPC.de exclusively offered a limited edition of 600 copies of a 12"x12" art print.<br><br>Burning Shed exclusively offered a numbered 11"x11" art print, limited to 1000 copies, exclusively sold on their online store.<br><br>Includes download code.<br><br>Recorded at Strangeways, London between December 2016 - February 2017.<br>Some elements retained from demos recorded at No Man's Land between November 2015 - August 2016<br>Strings and choir produced at Angel Studio, London.<br>Sophie's vocals recorded at Studio du Flon, Lausanne<br>Mastered at Metropolis<br>Management: [...] at Vector Management<br>Booking: Neil Warnock at United Talent Agency, and Steve Martin at APA<br><br>℗ & © 2017 Steven Wilson Productions Ltd. (on sleeve)<br>℗ + © 2017 Steven Wilson Productions (on labels)<br><br>Made in the EU. |
 | Discogs URL    | [Steven Wilson - To The Bone](https://www.discogs.com/release/10715967-Steven-Wilson-To-The-Bone) |

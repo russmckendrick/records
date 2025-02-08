@@ -4,6 +4,7 @@ artist_name: "Jon Hopkins"
 artist: "jon-hopkins"
 album_name: "Music For Psychedelic Therapy"
 date: 2022-03-28T02:43:39.000000Z
+release_date: "2021-11-12"
 release_id: "22482188"
 slug: "music-for-psychedelic-therapy-22482188"
 hideSummary: true
@@ -28,37 +29,28 @@ styles: ["Ambient"]
 ---
 
 Music for Psychedelic Therapy is the sixth studio album by English electronic music producer Jon Hopkins, released on 12 November 2021 by Domino Recording Company.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Welcome
-2. Love Flows Over Us In Prismatic Waves
-3. Deep In The Glowing Heart
-4. Tayos Caves, Ecuador
-5. Ascending, Dawn Sky
-6. Arriving
-7. Sit Around The Fire
-8. Singing Bowl (Ascension)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Welcome |  |
+| A2 | Love Flows Over Us In Prismatic Waves |  |
+| A3 | Deep In The Glowing Heart |  |
+| B | Tayos Caves, Ecuador |  |
+| C1 | Ascending, Dawn Sky |  |
+| C2 | Arriving |  |
+| C3 | Sit Around The Fire |  |
+| D | Singing Bowl (Ascension) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/music-for-psychedelic-therapy/1581582605" >}}<br>
 
 
-## Videos
-### Welcome
-{{< youtube id="YhRybYyrNaI" title="Welcome" >}}<br>
-### More Videos
-
-- [Tayos Caves Ecuador i](https://www.youtube.com/watch?v=fzZ9r6VdCfc)
-- [Tayos Caves Ecuador ii](https://www.youtube.com/watch?v=jm_Y1HL59VA)
-- [Tayos Caves Ecuador iii](https://www.youtube.com/watch?v=sg-VH5pl-Hs)
-- [Love Flows Over Us In Prismatic Waves](https://www.youtube.com/watch?v=1JenmCSndX8)
-- [Deep In The Glowing Heart](https://www.youtube.com/watch?v=3DfT7jd3bhg)
-- [Ascending Dawn Sky](https://www.youtube.com/watch?v=7TRUERogs4w)
-- [Arriving](https://www.youtube.com/watch?v=R676FQ7Zi40)
-- [Jon Hopkins ft  Ram Dass - Sit Around The Fire](https://www.youtube.com/watch?v=ect4lgWRZbQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +62,5 @@ Music for Psychedelic Therapy is the sixth studio album by English electronic mu
 | Format         | Vinyl 2× LP Album Limited Edition (Clear) |
 | Label          | Domino |
 | Catalog Number | WIGLP458X |
-| Notes | WIGLP458X on hype sticker, WIGLP458 on spine.  Hype sticker: LIMITED EDITION DOUBLE CLEAR VINYL includes BONUS TRACK: SINGING BOWL (ASCENSION) plus DOWNLOAD CODE 8 87828 04583 9 WIGLP458X  ℗+© 2021/2022 Domino Recording Co. Ltd. Made in the EU.  Published by Domino Publishing Co. Ltd. except: A1, C1, C2 published by Domino Publishing Co. Ltd. / Just Publishing; C3 published by Domino Publishing Co. Ltd. / Love Serve Remember Foundation BMI, administered by Modern Works Publishing and Lost Tricks Music BMI, administered by Modern Works Publishing.  'Sit Around The First' contains an excerpt from "Unitarian Church – Rowe, MA – 5/25/1975 – Full Lecture" by Ram Dass © 1975 and 2021 Love Serve Remember Foundation |
+| Notes | WIGLP458X on hype sticker, WIGLP458 on spine.<br><br>Hype sticker:<br>LIMITED EDITION DOUBLE CLEAR VINYL<br>includes BONUS TRACK: SINGING BOWL (ASCENSION)<br>plus DOWNLOAD CODE<br>8 87828 04583 9<br>WIGLP458X<br><br>℗+© 2021/2022 Domino Recording Co. Ltd.<br>Made in the EU.<br><br>Published by Domino Publishing Co. Ltd. except: A1, C1, C2 published by Domino Publishing Co. Ltd. / Just Publishing; C3 published by Domino Publishing Co. Ltd. / Love Serve Remember Foundation BMI, administered by Modern Works Publishing and Lost Tricks Music BMI, administered by Modern Works Publishing.<br><br>'Sit Around The First' contains an excerpt from "Unitarian Church – Rowe, MA – 5/25/1975 – Full Lecture" by Ram Dass © 1975 and 2021 Love Serve Remember Foundation |
 | Discogs URL    | [Jon Hopkins - Music For Psychedelic Therapy](https://www.discogs.com/release/22482188-Jon-Hopkins-Music-For-Psychedelic-Therapy) |

@@ -32,37 +32,25 @@ styles: ["Indie Rock", "Ethereal"]
 
 
 ## Tracklisting
-1. The Devil
-2. Dear Darkness
-3. Grow Grow Grow
-4. When Under Ether
-5. White Chalk
-6. Broken Harp
-7. Silence
-8. To Talk To You
-9. The Piano
-10. Before Departure
-11. The Mountain
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Devil |  |
+| A2 | Dear Darkness |  |
+| A3 | Grow Grow Grow |  |
+| A4 | When Under Ether |  |
+| A5 | White Chalk |  |
+| B1 | Broken Harp |  |
+| B2 | Silence |  |
+| B3 | To Talk To You |  |
+| B4 | The Piano |  |
+| B5 | Before Departure |  |
+| B6 | The Mountain |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/white-chalk/1443639741" >}}<br>
 
 
-## Videos
-### The Devil
-{{< youtube id="09019xe0TiQ" title="The Devil" >}}<br>
-### More Videos
-
-- [Dear Darkness](https://www.youtube.com/watch?v=rXOccIZ7Ojs)
-- [Grow Grow Grow](https://www.youtube.com/watch?v=UwbwKM051wU)
-- [White Chalk](https://www.youtube.com/watch?v=5YKbcWQNtE0)
-- [Broken Harp](https://www.youtube.com/watch?v=exNHL4X1_YM)
-- [Silence](https://www.youtube.com/watch?v=uNFX38-BBaw)
-- [To Talk To You](https://www.youtube.com/watch?v=jnhYaF0dbDE)
-- [Before Departure](https://www.youtube.com/watch?v=-FGLoISqG70)
-- [The Mountain](https://www.youtube.com/watch?v=WOQXPlhn6PI)
-- [The Piano](https://www.youtube.com/watch?v=pJ64-EqGbCQ)
-- [PJ Harvey - When Under Ether](https://www.youtube.com/watch?v=pFWCF8NAZGo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +62,5 @@ styles: ["Indie Rock", "Ethereal"]
 | Format         | Vinyl LP 45 RPM Album Reissue (180 Gram) |
 | Label          | Island Records |
 | Catalog Number | 0725347 |
-| Notes | Includes a printed inner sleeve.  Hype sticker: Reissue of the original 2007 album White Chalk featuring the singles When Under Ether, The Piano and The Devil Pressed on 180GSM Vinyl Includes Download Card  Some copies sold without hype sticker and download card.  An Island Records Release ℗2007 Universal Music Operations Ltd. ©2007 Universal Music Operations Ltd. The copyright in this sound recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company. Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany.  Hot Head Music (ASCAP), administered by Kobalt Songs Music Publishing (ASCAP) |
+| Notes | Includes a printed inner sleeve.<br><br>Hype sticker:<br>Reissue of the original 2007 album White Chalk featuring the singles When Under Ether, The Piano and The Devil<br>Pressed on 180GSM Vinyl<br>Includes Download Card<br><br>Some copies sold without hype sticker and download card.<br><br>An Island Records Release ℗2007 Universal Music Operations Ltd. ©2007 Universal Music Operations Ltd.<br>The copyright in this sound recording and artwork is owned by Universal Music Operations Ltd. A Universal Music Company.<br>Universal International Music B.V. 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands. Made in Germany.<br><br>Hot Head Music (ASCAP), administered by Kobalt Songs Music Publishing (ASCAP) |
 | Discogs URL    | [PJ Harvey - White Chalk](https://www.discogs.com/release/19246675-P-J-Harvey-White-Chalk) |

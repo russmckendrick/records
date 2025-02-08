@@ -4,6 +4,7 @@ artist_name: "Marillion"
 artist: "marillion"
 album_name: "Afraid Of Sunlight"
 date: 2022-09-23T04:44:02.000000Z
+release_date: "1995-06-26"
 release_id: "14338949"
 slug: "afraid-of-sunlight-14338949"
 hideSummary: true
@@ -46,50 +47,53 @@ Afraid of Sunlight is Marillion's eighth studio album, released in 1995. It was 
 Afraid of Sunlight was the first Marillion studio album to fail to reach the Top 10 in the UK Albums Chart, peaking at number 16 and falling out of the Top 75 after two weeks. Despite this, Afraid of Sunlight became one of the band's most critically acclaimed albums and was included in Q magazine's "Recordings of the Year" for 1995. It was retrospectively described by Jeri Montesano of Allmusic as "the peak of Marillion's growing, impressive body of work" and by colleague Jason Ankeny as "the most consistent Marillion release to date".The album is ranked at #90 on Prog Magazine's list of the 100 Greatest Prog Albums of All Time.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. 2019 Michael Hunter Re-Mix
-2. Gazpacho
-3. Cannibal Surf Babe
-4. Beautiful
-5. Afraid Of Sunrise
-6. Out Of This World
-7. Afraid Of Sunlight
-8. Beyond You
-9. King
-10. Live At The Ahoy, Rotterdam (29th September 1995)
-11. Intro (Skater's Waltz)
-12. Incommunicado
-13. Hooks In You
-14. Gazpacho
-15. Icon
-16. Beautiful
-17. Hotel Hobbies
-18. White Russian
-19. Easter
-20. Mad
-21. The Opium Den
-22. Hard As Love
-23. The Hollow Man
-24. Kayleigh
-25. Lavender
-26. Afraid Of Sunlight
-27. Cannibal Surf Babe
-28. Cover My Eyes
-29. Slainte Mhath
-30. King
-31. Splintering Heart
-32. No One Can
-33. The Great Escape
-34. Uninvited Guest
-35. Garden Party
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | 2019 Michael Hunter Re-Mix |  |
+| A1 | Gazpacho |  |
+| A2 | Cannibal Surf Babe |  |
+| B1 | Beautiful |  |
+| B2 | Afraid Of Sunrise |  |
+| C1 | Out Of This World |  |
+| C2 | Afraid Of Sunlight |  |
+| D1 | Beyond You |  |
+| D2 | King |  |
+|  | Live At The Ahoy, Rotterdam (29th September 1995) |  |
+| E1 | Intro (Skater's Waltz) |  |
+| E2 | Incommunicado |  |
+| E3 | Hooks In You |  |
+| E4 | Gazpacho |  |
+| E5 | Icon |  |
+| E6 | Beautiful |  |
+| F1 | Hotel Hobbies |  |
+| F2 | White Russian |  |
+| F3 | Easter |  |
+| G1 | Mad |  |
+| G2 | The Opium Den |  |
+| G3 | Hard As Love |  |
+| G4 | The Hollow Man |  |
+| H1 | Kayleigh |  |
+| H2 | Lavender |  |
+| H3 | Afraid Of Sunlight |  |
+| H4 | Cannibal Surf Babe |  |
+| I1 | Cover My Eyes |  |
+| I2 | Slainte Mhath |  |
+| I3 | King |  |
+| I4 | Splintering Heart |  |
+| J1 | No One Can |  |
+| J2 | The Great Escape |  |
+| J3 | Uninvited Guest |  |
+| J4 | Garden Party |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/afraid-of-sunlight/692119730" >}}<br>
-
 
 
 
@@ -103,5 +107,5 @@ Afraid of Sunlight was the first Marillion studio album to fail to reach the Top
 | Format         | Vinyl 2× LP Album Reissue Remastered (Remixed, 180 Gram), Vinyl 3× LP Album (180 Gram), Box Set Deluxe Edition Limited Edition |
 | Label          | Parlophone |
 | Catalog Number | 0190295477226 |
-| Notes | Booklet: ℗ 2019 this compilation Parlophone Records Ltd. © 2019 Parlophone Records Ltd. Labels A to D: Originally ℗ 1995 Remix ℗ 2019 Parlophone Records Ltd. Labels and booklet: Made in the EU. Comes with 20 page booklet. Hype sticker on front First 4000 copies ordered at the Marillion Store come with signed A4 print  All runouts are etched, 1I, 1=, 4I, 2= and 2v are mirrored "geometric" marks of [url=https://www.discogs.com/label/313190-Optimal-Media-GmbH]Optimal Media GmbH[/url].  |
+| Notes | Booklet: ℗ 2019 this compilation Parlophone Records Ltd. © 2019 Parlophone Records Ltd.<br>Labels A to D: Originally ℗ 1995 Remix ℗ 2019 Parlophone Records Ltd.<br>Labels and booklet: Made in the EU.<br>Comes with 20 page booklet.<br>Hype sticker on front<br>First 4000 copies ordered at the Marillion Store come with signed A4 print<br><br>All runouts are etched, 1I, 1=, 4I, 2= and 2v are mirrored "geometric" marks of [url=https://www.discogs.com/label/313190-Optimal-Media-GmbH]Optimal Media GmbH[/url].  |
 | Discogs URL    | [Marillion - Afraid Of Sunlight](https://www.discogs.com/release/14338949-Marillion-Afraid-Of-Sunlight) |

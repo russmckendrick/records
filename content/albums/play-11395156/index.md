@@ -4,6 +4,7 @@ artist_name: "Moby"
 artist: "moby"
 album_name: "Play"
 date: 2018-02-03T10:33:04.000000Z
+release_date: "1999-06-01"
 release_id: "11395156"
 slug: "play-11395156"
 hideSummary: true
@@ -39,74 +40,38 @@ While some of Moby's earlier work had garnered critical and commercial success w
 In 2003 and 2012, Play was ranked number 341 on Rolling Stone magazine's list of the 500 greatest albums of all time.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Honey
-2. Find My Baby
-3. Porcelain
-4. Why Does My Heart Feel So Bad?
-5. South Side
-6. Rushing
-7. Bodyrock
-8. Natural Blues
-9. Machete
-10. 7
-11. Run On
-12. Down Slow
-13. If Things Were Perfect
-14. Everloving
-15. Inside
-16. Guitar Flute & String
-17. The Sky Is Broken
-18. My Weakness
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Honey |  |
+| A2 | Find My Baby |  |
+| A3 | Porcelain |  |
+| A4 | Why Does My Heart Feel So Bad? |  |
+| B1 | South Side |  |
+| B2 | Rushing |  |
+| B3 | Bodyrock |  |
+| B4 | Natural Blues |  |
+| C1 | Machete |  |
+| C2 | 7 |  |
+| C3 | Run On |  |
+| C4 | Down Slow |  |
+| C5 | If Things Were Perfect |  |
+| C6 | Everloving |  |
+| D1 | Inside |  |
+| D2 | Guitar Flute & String |  |
+| D3 | The Sky Is Broken |  |
+| D4 | My Weakness |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/play/1436695379" >}}<br>
 
 
-## Videos
-### Moby Honey - Official video
-{{< youtube id="pVwDlkJoITU" title="Moby Honey - Official video" >}}<br>
-### More Videos
-
-- [Moby Find My Baby - Official video](https://www.youtube.com/watch?v=my1B2ldiiW8)
-- [Moby - Porcelain Official Video](https://www.youtube.com/watch?v=IJWlBfo5Oj0)
-- [Moby Why Does My Heart Feel So Bad Official video WhyDoesMyHeart](https://www.youtube.com/watch?v=o1Xsj9-3Pvo)
-- [Moby Gwen Stefani - South Side Official HD Video](https://www.youtube.com/watch?v=x5AS2tx1d9w)
-- [Moby Bodyrock - UK Dance version](https://www.youtube.com/watch?v=xe_PbWFAzZQ)
-- [Moby - Natural Blues ft Christina Ricci Official Video](https://www.youtube.com/watch?v=SC6-TiN19uE)
-- [Moby Run On - Official video](https://www.youtube.com/watch?v=4UXpmvu35Fk)
-- [Moby - South Side Official Audio](https://www.youtube.com/watch?v=CLr8VvF6rBg)
-- [Moby - Rushing Official Audio](https://www.youtube.com/watch?v=VWD3lvE8wCY)
-- [Moby - Machete Official Audio](https://www.youtube.com/watch?v=tR4YuZE_BZs)
-- [Moby - 7 Official Audio](https://www.youtube.com/watch?v=7aIUurXKid0)
-- [Moby - Down Slow Official Audio](https://www.youtube.com/watch?v=y5WWRGenMEs)
-- [Moby - If Things Were Perfect Official Audio](https://www.youtube.com/watch?v=6ersCnJFkcM)
-- [Moby - Everloving Official Audio](https://www.youtube.com/watch?v=gMNB8BqAJdY)
-- [Moby - Inside Official Audio](https://www.youtube.com/watch?v=531MZcx_y6o)
-- [Moby - Guitar Flute and String Official Audio](https://www.youtube.com/watch?v=ef3Th1XKrks)
-- [Moby - The Sky Is Broken Official Audio](https://www.youtube.com/watch?v=c6ZwcJTHCpg)
-- [Moby - My Weakness Official Audio](https://www.youtube.com/watch?v=8miMg3xBN2s)
-- [Moby - Flower Official Audio](https://www.youtube.com/watch?v=6A2V9Bu80J4)
-- [Moby - Sunday Official Audio](https://www.youtube.com/watch?v=qlcp-1ggIfs)
-- [Moby - Memory Gospel Official Audio](https://www.youtube.com/watch?v=sSY5HaXxTgI)
-- [Moby - Whispering Wind Official Audio](https://www.youtube.com/watch?v=LFnPV7JdaLM)
-- [Moby - Summer Official Audio](https://www.youtube.com/watch?v=JRlCRCrQqKs)
-- [Moby - Spirit Official Audio](https://www.youtube.com/watch?v=uqLjfNV6Imk)
-- [Moby - Flying Foxes Official Audio](https://www.youtube.com/watch?v=JLjsLWevjkw)
-- [Moby - Sunspot Official Audio](https://www.youtube.com/watch?v=INl9OcQ-PZo)
-- [Moby - Flying Over the Dateline Official Audio](https://www.youtube.com/watch?v=tTzA9h2B1tE)
-- [Moby - Running Official Audio](https://www.youtube.com/watch?v=GjqJ8TG5vlM)
-- [Moby - The Sun Never Stops Setting Official Audio](https://www.youtube.com/watch?v=xj7YUmYofmo)
-- [Moby and Gwen Stefani w Gavin Southside on Letterman Nov 2000](https://www.youtube.com/watch?v=yjs-ucob9_M)
-- [Moby ft Gwen Stefani - Southside Fashionably Loud 2001](https://www.youtube.com/watch?v=SPl8UprifcE)
-- [Moby featNelly Furtado - South Side](https://www.youtube.com/watch?v=wnl26K1s-Hc)
-- [Moby performing South Side Live at the Village on KCRW](https://www.youtube.com/watch?v=WQRuMtXohBw)
-- [Moby - Southside feat Skylar Grey Live at The Fonda LA](https://www.youtube.com/watch?v=6p-V5RYgz34)
-- [Moby  PlayFull Album](https://www.youtube.com/watch?v=xXOR72BmOyU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -118,5 +83,5 @@ In 2003 and 2012, Play was ranked number 341 on Rolling Stone magazine's list of
 | Format         | Vinyl 2× LP Album Club Edition Reissue Remastered (Turquoise Translucent) |
 | Label          | Little Idiot |
 | Catalog Number | IDIOT061 |
-| Notes | Sticker on sleeve reads: Re-Recorded + Newly Remastered Audio 2LP Transparent Turquoise Color Vinyl 2 exclusive 12"x12" Art Prints  Embossed cover. Custom inner sleeves. Includes an art print and a cocktail recipe.  Natural Blues mixed in Sheffield [...]  Honey: features samples from the Bessie Jones recording Sometimes, produced under license from Atlantic Recording Corp. By arrangement with Warner Special Products. Find My Baby: features samples from the Boy Blue recording Joe Lee's Rock, produced under license from Atlantic Recording Corp. By arrangement with Warner Special Products. Bodyrock: contains a sample of Love Rap as performed by Spoony G & the Treacherous 3. Used under license from Enjoy Records, Inc. Run On: features samples from Run On For A Long Time by Bill Landford & The Landfordaires, used courtesy of Sony Music.  All songs published by Little Idiot Music/Songs of Kobalt Music Publishing USA (BMI) except Bodyrock, published by Little Idiot Music/Songs of Kobalt Music Publishing USA (BMI)/Bobby Robinson Music.  ℗ 2017 Little Idiot © 2017 Little Idiot  On labels: ℗ 2017 Little Idiot Music © 2017 Little Idiot Music |
+| Notes | Sticker on sleeve reads:<br>Re-Recorded + Newly Remastered Audio<br>2LP Transparent Turquoise Color Vinyl<br>2 exclusive 12"x12" Art Prints<br><br>Embossed cover.<br>Custom inner sleeves.<br>Includes an art print and a cocktail recipe.<br><br>Natural Blues mixed in Sheffield [...]<br><br>Honey: features samples from the Bessie Jones recording Sometimes, produced under license from Atlantic Recording Corp. By arrangement with Warner Special Products.<br>Find My Baby: features samples from the Boy Blue recording Joe Lee's Rock, produced under license from Atlantic Recording Corp. By arrangement with Warner Special Products.<br>Bodyrock: contains a sample of Love Rap as performed by Spoony G & the Treacherous 3. Used under license from Enjoy Records, Inc.<br>Run On: features samples from Run On For A Long Time by Bill Landford & The Landfordaires, used courtesy of Sony Music.<br><br>All songs published by Little Idiot Music/Songs of Kobalt Music Publishing USA (BMI) except Bodyrock, published by Little Idiot Music/Songs of Kobalt Music Publishing USA (BMI)/Bobby Robinson Music.<br><br>℗ 2017 Little Idiot © 2017 Little Idiot<br><br>On labels:<br>℗ 2017 Little Idiot Music<br>© 2017 Little Idiot Music |
 | Discogs URL    | [Moby - Play](https://www.discogs.com/release/11395156-Moby-Play) |

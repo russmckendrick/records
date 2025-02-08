@@ -32,33 +32,20 @@ Crispy, clean and perfectly synchronised, <i>What Time Is It?</i> exemplifies Th
 
 
 ## Tracklisting
-1. Wild And Loose (7:32)
-2. 777-9311 (7:57)
-3. Onedayi'mgonnabesomebody (2:27)
-4. The Walk (9:30)
-5. Gigolos Get Lonely Too (4:40)
-6. I Don't Wanna Leave You (6:30)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Wild And Loose | 7:32 |
+| A2 | 777-9311 | 7:57 |
+| A3 | Onedayi'mgonnabesomebody | 2:27 |
+| B1 | The Walk | 9:30 |
+| B2 | Gigolos Get Lonely Too | 4:40 |
+| B3 | I Don't Wanna Leave You | 6:30 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/what-time-is-it/273890984" >}}<br>
 
 
-## Videos
-### The Time - What Time Is It 1982 - A1 - Wild N Loose
-{{< youtube id="_u148NzjYzE" title="The Time - What Time Is It 1982 - A1 - Wild N Loose" >}}<br>
-### More Videos
-
-- [The Time - What Time Is It 1982 - A2 - 777-9311](https://www.youtube.com/watch?v=NJ2nkA-vydE)
-- [The Time - What Time Is It 1982 - A3 - Onedayimgonnabsomebody](https://www.youtube.com/watch?v=EziNPrsg24g)
-- [The Time - What Time Is It 1982 - B1 - The Walk](https://www.youtube.com/watch?v=KXAsLI-i21w)
-- [The Time - What Time Is It 1982 - B2 - Gigolos Get Lonely 2](https://www.youtube.com/watch?v=VxGrXIXuwnY)
-- [The Time - What Time Is It 1982 - B3 - I Dont Wanna Leave You](https://www.youtube.com/watch?v=R4h5eV7qc5U)
-- [Onedayimgonnabesomebody](https://www.youtube.com/watch?v=vQO5Lbhau04)
-- [777-9311](https://www.youtube.com/watch?v=zioEaqjPAGI)
-- [Gigolos Get Lonely Too](https://www.youtube.com/watch?v=85iu_Jieolc)
-- [I Dont Wanna Leave You](https://www.youtube.com/watch?v=JQbs4jmHz7E)
-- [Wild and Loose](https://www.youtube.com/watch?v=NNFcBDWHF-k)
-- [The Walk](https://www.youtube.com/watch?v=EI9YIDpqor8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +56,5 @@ Crispy, clean and perfectly synchronised, <i>What Time Is It?</i> exemplifies Th
 | Format         | Vinyl LP Album Record Store Day Limited Edition Reissue Stereo (Green vinyl) |
 | Label          | Warner Bros. Records |
 | Catalog Number | R1 23701 |
-| Notes | Record Store Day 2017 Release. Limited Edition of 5500.   Printed inner sleeve in black and white, featuring lyrics on one side and band pictures on the other.  Green sticker on front:  "The Time's Classic Second Album on Green vinyl Limited Edition of 5500  Contains the hit singles "777-9311", "The Walk", and "Gigolos Get Lonely Too"  Co-Produced by Jamie Starr (aka Prince)  081227940836"  Printed in E.U.  ℗ and © 2017, 1982 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside of the U.S. © 1982 Tionna Music ASCAP  Runouts are etched. |
+| Notes | Record Store Day 2017 Release. Limited Edition of 5500. <br><br>Printed inner sleeve in black and white, featuring lyrics on one side and band pictures on the other.<br><br>Green sticker on front:<br><br>"The Time's Classic Second Album on Green vinyl Limited Edition of 5500<br><br>Contains the hit singles "777-9311", "The Walk", and "Gigolos Get Lonely Too"<br><br>Co-Produced by Jamie Starr (aka Prince)<br><br>081227940836"<br><br>Printed in E.U.<br><br>℗ and © 2017, 1982 Warner Bros. Records Inc. for the U.S. and WEA International Inc. for the world outside of the U.S.<br>© 1982 Tionna Music ASCAP<br><br>Runouts are etched. |
 | Discogs URL    | [The Time - What Time Is It?](https://www.discogs.com/release/10174128-The-Time-What-Time-Is-It) |

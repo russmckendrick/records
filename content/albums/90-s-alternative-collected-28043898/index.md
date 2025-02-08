@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "90's Alternative Collected"
 date: 2023-09-08T04:42:40.000000Z
+release_date: ""
 release_id: "28043898"
 slug: "90-s-alternative-collected-28043898"
 hideSummary: true
@@ -18,36 +19,43 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Buddy Holly
-2. You Stole The Sun From My Heart
-3. The Masterplan
-4. Do You Love Me?
-5. Last Stop: This Town
-6. Routine
-7. Bang And Blame
-8. Hush
-9. Joey
-10. The Way
-11. Spoonman
-12. No Rain
-13. A Thousand Trees
-14. Scooby Snacks
-15. Walkin' On The Sun
-16. Body And Soul?
-17. Low
-18. Die Laughing
-19. Home
-20. All Over You
-21. Midlife Crisis
-22. Closing Time
-23. Dreams
-24. Top Of The Pops
-25. Popular
-26. Santeria
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Buddy Holly |  |
+| A2 | You Stole The Sun From My Heart |  |
+| A3 | The Masterplan |  |
+| A4 | Do You Love Me? |  |
+| A5 | Last Stop: This Town |  |
+| A6 | Routine |  |
+| B1 | Bang And Blame |  |
+| B2 | Hush |  |
+| B3 | Joey |  |
+| B4 | The Way |  |
+| B5 | Spoonman |  |
+| B6 | No Rain |  |
+| B7 | A Thousand Trees |  |
+| C1 | Scooby Snacks |  |
+| C2 | Walkin' On The Sun |  |
+| C3 | Body And Soul? |  |
+| C4 | Low |  |
+| C5 | Die Laughing |  |
+| C6 | Home |  |
+| C7 | All Over You |  |
+| D1 | Midlife Crisis |  |
+| D2 | Closing Time |  |
+| D3 | Dreams |  |
+| D4 | Top Of The Pops |  |
+| D5 | Popular |  |
+| D6 | Santeria |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 

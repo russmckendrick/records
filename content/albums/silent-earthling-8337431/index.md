@@ -4,6 +4,7 @@ artist_name: "Three Trapped Tigers"
 artist: "three-trapped-tigers"
 album_name: "Silent Earthling"
 date: 2016-04-03T08:28:24.000000Z
+release_date: "2016-04-01"
 release_id: "8337431"
 slug: "silent-earthling-8337431"
 hideSummary: true
@@ -18,34 +19,36 @@ styles: ["Post Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Silent Earthling
-2. Strebek
-3. Kraken
-4. Blimp
-5. Engrams
-6. Tekkers
-7. Hemisphere
-8. Rainbow Road
-9. Elsewhere
-10. Silent Earthling
-11. Strebek
-12. Kraken
-13. Blimp
-14. Engrams
-15. Tekkers
-16. Hemisphere
-17. Rainbow Road
-18. Elsewhere
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Silent Earthling |  |
+| A2 | Strebek |  |
+| A3 | Kraken |  |
+| B1 | Blimp |  |
+| B2 | Engrams |  |
+| B3 | Tekkers |  |
+| C1 | Hemisphere |  |
+| C2 | Rainbow Road |  |
+| C3 | Elsewhere |  |
+| CD-1 | Silent Earthling |  |
+| CD-2 | Strebek |  |
+| CD-3 | Kraken |  |
+| CD-4 | Blimp |  |
+| CD-5 | Engrams |  |
+| CD-6 | Tekkers |  |
+| CD-7 | Hemisphere |  |
+| CD-8 | Rainbow Road |  |
+| CD-9 | Elsewhere |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/silent-earthling/1078005851" >}}<br>
 
-
-## Videos
-### Three Trapped Tigers - Silent Earthling Full Album
-{{< youtube id="8QlQw4QU_0E" title="Three Trapped Tigers - Silent Earthling Full Album" >}}<br>
 
 
 ## Release Images
@@ -57,5 +60,5 @@ styles: ["Post Rock"]
 | Format         | Vinyl LP (Clear), Vinyl LP Single Sided Etched (Clear), All Media Album, CD Album, All Media Limited Edition |
 | Label          | Superball Music |
 | Catalog Number | SMBLP 039 |
-| Notes | Additional Recording by Ash Gardner  Side D is etched with the TTT logo |
+| Notes | Additional Recording by Ash Gardner<br><br>Side D is etched with the TTT logo |
 | Discogs URL    | [Three Trapped Tigers - Silent Earthling](https://www.discogs.com/release/8337431-Three-Trapped-Tigers-Silent-Earthling) |

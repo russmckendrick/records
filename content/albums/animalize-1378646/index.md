@@ -4,6 +4,7 @@ artist_name: "Kiss"
 artist: "kiss"
 album_name: "Animalize"
 date: 2017-05-27T15:33:10.000000Z
+release_date: "1984-09-17"
 release_id: "1378646"
 slug: "animalize-1378646"
 hideSummary: true
@@ -25,28 +26,28 @@ styles: ["Hard Rock"]
 Animalize is the twelfth studio album by American rock band Kiss. It was released on September 17, 1984, by Mercury Records. The album marked the only appearance by lead guitarist Mark St. John, who replaced Vinnie Vincent in April 1984.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I've Had Enough (Into The Fire)
-2. Heaven's On Fire
-3. Burn Bitch Burn
-4. Get All You Can Take
-5. Lonely Is The Hunter
-6. Under The Gun
-7. Thrills In The Night
-8. While The City Sleeps
-9. Murder In High Heels
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I've Had Enough (Into The Fire) |  |
+| A2 | Heaven's On Fire |  |
+| A3 | Burn Bitch Burn |  |
+| A4 | Get All You Can Take |  |
+| A5 | Lonely Is The Hunter |  |
+| B1 | Under The Gun |  |
+| B2 | Thrills In The Night |  |
+| B3 | While The City Sleeps |  |
+| B4 | Murder In High Heels |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/animalize/1442844700" >}}<br>
 
-
-## Videos
-### KISS - Animalize Cassette 1984 metal rock music kiss kissarmy cassette animalize shorts
-{{< youtube id="N3j2uUQXr8w" title="KISS - Animalize Cassette 1984 metal rock music kiss kissarmy cassette animalize shorts" >}}<br>
 
 
 ## Release Images
@@ -59,5 +60,5 @@ Animalize is the twelfth studio album by American rock band Kiss. It was release
 | Format         | Vinyl LP Album Stereo |
 | Label          | Vertigo |
 | Catalog Number | VERL 18 |
-| Notes | VERL 18 appears on spine, back cover, inner sleeve and labels 822 415-1 appears on labels 822 495-1 appears on back cover  |
+| Notes | VERL 18 appears on spine, back cover, inner sleeve and labels<br>822 415-1 appears on labels<br>822 495-1 appears on back cover<br> |
 | Discogs URL    | [Kiss - Animalize](https://www.discogs.com/release/1378646-Kiss-Animalize) |

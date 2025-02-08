@@ -4,6 +4,7 @@ artist_name: "Propellerheads"
 artist: "propellerheads"
 album_name: "Decksandrumsandrockandroll"
 date: 2018-06-15T10:58:03.000000Z
+release_date: "1998-01-01"
 release_id: "12126145"
 slug: "decksandrumsandrockandroll-12126145"
 hideSummary: true
@@ -28,40 +29,33 @@ styles: ["Breakbeat", "Big Beat"]
 Decksandrumsandrockandroll is the only studio album by English electronic music duo Propellerheads. It was originally released by Wall of Sound on 26 January 1998 in the United Kingdom. In the United States, it was released by DreamWorks Records with a different track listing.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Take California
-2. Echo And Bounce
-3. Velvet Pants
-4. Better?
-5. Oh Yeah!
-6. History Repeating
-7. Winning Style
-8. Bang On!
-9. A Number Of Microphones
-10. On Her Majesty’s Secret Service
-11. Bigger?
-12. Cominagetcha
-13. Spybreak!
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Take California |  |
+| A2 | Echo And Bounce |  |
+| A3 | Velvet Pants |  |
+| B1 | Better? |  |
+| B2 | Oh Yeah! |  |
+| B3 | History Repeating |  |
+| B4 | Winning Style |  |
+| C1 | Bang On! |  |
+| C2 | A Number Of Microphones |  |
+| C3 | On Her Majesty’s Secret Service |  |
+| D1 | Bigger? |  |
+| D2 | Cominagetcha |  |
+| D3 | Spybreak! |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/decksandrumsandrockandroll/540024177" >}}<br>
 
 
-## Videos
-### Propellerheads  - On Her Majestys Secret Service Vinyl Tonic
-{{< youtube id="smXziOEWO7Q" title="Propellerheads  - On Her Majestys Secret Service Vinyl Tonic" >}}<br>
-### More Videos
-
-- [CD 1997](https://www.youtube.com/watch?v=S8LaAYjOF7Q)
-- [Propellerheads --- Take California](https://www.youtube.com/watch?v=Dd8WjeK8riE)
-- [David Arnold and Propellerheads - On Her Majestys Secret Servive](https://www.youtube.com/watch?v=iQueLYI1Ljs)
-- [Propellerheads feat Miss Shirley Bassey - History Repeating](https://www.youtube.com/watch?v=yzLT6_TQmq8)
-- [Spybreak Short One](https://www.youtube.com/watch?v=Agbn4NzOj04)
-- [Propellerheads  - On Her Majestys Secret Service Vinyl Tonic](https://www.youtube.com/watch?v=smXziOEWO7Q)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +67,5 @@ Decksandrumsandrockandroll is the only studio album by English electronic music 
 | Format         | Vinyl 2× LP Album Reissue (20th Anniversary) |
 | Label          | Wall Of Sound |
 | Catalog Number | WALL LPN015 |
-| Notes | Gatefold.  New copies copies come shrink wrapped with on sticker on the front, stating: "20th anniversary Propellerheads Decksanddrumsandrockandroll Includes: History Repeating (Feat. Miss Shirley Bassey) Spybreak! / Dive..." This is partly incorrect as "Dive" isn't included on this 20th anniversary 2xLP version (much like the original 2xLP release that didn't include the track either). "Dive" is only included on the 20th anniversary 2xCD set. |
+| Notes | Gatefold.<br><br>New copies copies come shrink wrapped with on sticker on the front, stating:<br>"20th anniversary<br>Propellerheads<br>Decksanddrumsandrockandroll<br>Includes: History Repeating<br>(Feat. Miss Shirley Bassey)<br>Spybreak! / Dive..."<br>This is partly incorrect as "Dive" isn't included on this 20th anniversary 2xLP version (much like the original 2xLP release that didn't include the track either). "Dive" is only included on the 20th anniversary 2xCD set. |
 | Discogs URL    | [Propellerheads - Decksandrumsandrockandroll](https://www.discogs.com/release/12126145-Propellerheads-Decksandrumsandrockandroll) |

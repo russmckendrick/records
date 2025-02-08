@@ -1,9 +1,10 @@
 ---
 title: "Matt Berry - Kill The Wolf"
 artist_name: "Matt Berry"
-artist: "matt-berry-3"
+artist: "matt-berry"
 album_name: "Kill The Wolf"
 date: 2021-08-19T02:26:39.000000Z
+release_date: "2013-06-17"
 release_id: "19905307"
 slug: "kill-the-wolf-19905307"
 hideSummary: true
@@ -22,46 +23,32 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 ---
 
 Kill the Wolf is the fourth studio album from English comedian and musician Matt Berry. It was released in July 2013 by Acid Jazz Records.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Gather Up
-2. Devil Inside Me
-3. Fallen Angel
-4. Medicine
-5. Wolf Quartet
-6. Solstice
-7. October Sun
-8. The Signs
-9. Knock Knock
-10. Bonfire
-11. Village Dance
-12. Farewell Summer Sun
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Gather Up |  |
+| A2 | Devil Inside Me |  |
+| A3 | Fallen Angel |  |
+| A4 | Medicine |  |
+| A5 | Wolf Quartet |  |
+| A6 | Solstice |  |
+| B1 | October Sun |  |
+| B2 | The Signs |  |
+| B3 | Knock Knock |  |
+| B4 | Bonfire |  |
+| B5 | Village Dance |  |
+| B6 | Farewell Summer Sun |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/kill-the-wolf/1152559578" >}}<br>
 
 
-## Videos
-### Matt Berry - Gather Up Kill the Wolf Album
-{{< youtube id="gdx-EanE6Hk" title="Matt Berry - Gather Up Kill the Wolf Album" >}}<br>
-### More Videos
-
-- [Matt Berry - Devil Inside Me](https://www.youtube.com/watch?v=2yE8htFL1m8)
-- [Matt Berry - Fallen Angel](https://www.youtube.com/watch?v=x3AxmZtIHkc)
-- [Matt Berry - Medicine Official Audio - Acid Jazz Records](https://www.youtube.com/watch?v=C4VtLvVIHP8)
-- [Matt Berry - Wolf Quartet Kill the Wolf Album](https://www.youtube.com/watch?v=Cqx4BsxsMts)
-- [Matt Berry - Solstice Kill the Wolf Album](https://www.youtube.com/watch?v=5f_3iqHpnVM)
-- [Matt Berry - October Sun Kill the Wolf Album](https://www.youtube.com/watch?v=zSjjsJzKlzE)
-- [Matt Berry - The Signs Kill the Wolf Album](https://www.youtube.com/watch?v=LEgX3IBnnlg)
-- [Matt Berry - Knock Knock Kill the Wolf Album](https://www.youtube.com/watch?v=Zq_JpcQGYaU)
-- [Matt Berry - Bonfire Kill the Wolf Album](https://www.youtube.com/watch?v=3ykbiAL-48s)
-- [Matt Berry - Village Dance Kill the Wolf Album](https://www.youtube.com/watch?v=MEok98HV7_8)
-- [Matt Berry - Farewell Summer Sun Kill the Wolf Album](https://www.youtube.com/watch?v=BUKw3KR01DA)
-- [Matt Berry Ukenwhistle](https://www.youtube.com/watch?v=gjd4bAPDh2E)
-- [Matt Berry - Kill The Wolf Box Set UNBOXING](https://www.youtube.com/watch?v=n_nt6clp3ck)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +60,5 @@ Kill the Wolf is the fourth studio album from English comedian and musician Matt
 | Format         | Vinyl LP Album Limited Edition (Green Bottle) |
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP327G |
-| Notes | 2021 Reissue -   Hype sticker reads:  PRESSED ON BOTTLE GREEN VINYL Facsimile of rare first pressing with gatefold sleeve and printed inner |
+| Notes | 2021 Reissue - <br><br>Hype sticker reads:<br><br>PRESSED ON BOTTLE GREEN VINYL<br>Facsimile of rare first pressing with gatefold sleeve and printed inner |
 | Discogs URL    | [Matt Berry - Kill The Wolf](https://www.discogs.com/release/19905307-Matt-Berry-3-Kill-The-Wolf) |

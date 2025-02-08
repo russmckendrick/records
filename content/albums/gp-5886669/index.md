@@ -32,35 +32,25 @@ GP is American singer-songwriter Gram Parsons' debut solo album, and the only on
 
 
 ## Tracklisting
-1. Still Feeling Blue (2:38)
-2. We'll Sweep Out The Ashes In The Morning (3:13)
-3. A Song For You (4:57)
-4. Streets Of Baltimore (2:50)
-5. She (4:55)
-6. That's All It Took (2:57)
-7. The New Soft Shoe (3:52)
-8. Kiss The Children (2:50)
-9. Cry One More Time (3:55)
-10. How Much I've Lied (2:27)
-11. Big Mouth Blues (3:52)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Still Feeling Blue | 2:38 |
+| A2 | We'll Sweep Out The Ashes In The Morning | 3:13 |
+| A3 | A Song For You | 4:57 |
+| A4 | Streets Of Baltimore | 2:50 |
+| A5 | She | 4:55 |
+| B1 | That's All It Took | 2:57 |
+| B2 | The New Soft Shoe | 3:52 |
+| B3 | Kiss The Children | 2:50 |
+| B4 | Cry One More Time | 3:55 |
+| B5 | How Much I've Lied | 2:27 |
+| B6 | Big Mouth Blues | 3:52 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/grievous-angel/304907551" >}}<br>
 
 
-## Videos
-### Still Feeling Blue Remastered Version
-{{< youtube id="zmu6jygpD00" title="Still Feeling Blue Remastered Version" >}}<br>
-### More Videos
-
-- [A Song for You Remastered Version](https://www.youtube.com/watch?v=unohYEFELoo)
-- [Thats All It Took Remastered Version](https://www.youtube.com/watch?v=3m0XfpIWYic)
-- [She Remastered Version](https://www.youtube.com/watch?v=iNw-6L_gsEQ)
-- [Well Sweep out the Ashes in the Morning 2007 Remaster](https://www.youtube.com/watch?v=V8c2SI1bq1E)
-- [Big Mouth Blues Remastered Version](https://www.youtube.com/watch?v=u9YANfKuPt4)
-- [Kiss the Children Remastered Version](https://www.youtube.com/watch?v=gkatnTSEAcY)
-- [Streets of Baltimore 2007 Remaster](https://www.youtube.com/watch?v=Xi0c2clOqp0)
-- [How Much Ive Lied Remastered Version](https://www.youtube.com/watch?v=WhGP3bGaFxY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +62,5 @@ GP is American singer-songwriter Gram Parsons' debut solo album, and the only on
 | Format         | Vinyl LP Album Reissue (180g, Gatefold) |
 | Label          | Reprise Records |
 | Catalog Number | 8122795953 |
-| Notes | ℗ & © 1973 Warner Bros. Records Inc. Manufactured in the EU.   First cat.# on spine & label rimtext; second cat.# on labels. Rick Grech is misspelled as Rik Grech on cover, but not on label.  Runouts are etched, except '99509 1A/B' that are stamped. |
+| Notes | ℗ & © 1973 Warner Bros. Records Inc.<br>Manufactured in the EU. <br><br>First cat.# on spine & label rimtext; second cat.# on labels.<br>Rick Grech is misspelled as Rik Grech on cover, but not on label.<br><br>Runouts are etched, except '99509 1A/B' that are stamped. |
 | Discogs URL    | [Gram Parsons - GP](https://www.discogs.com/release/5886669-Gram-Parsons-GP) |

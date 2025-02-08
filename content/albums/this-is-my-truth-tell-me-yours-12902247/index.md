@@ -4,6 +4,7 @@ artist_name: "Manic Street Preachers"
 artist: "manic-street-preachers"
 album_name: "This Is My Truth Tell Me Yours"
 date: 2018-12-07T20:17:49.000000Z
+release_date: "1998-11-30"
 release_id: "12902247"
 slug: "this-is-my-truth-tell-me-yours-12902247"
 hideSummary: true
@@ -32,28 +33,31 @@ This Is My Truth Tell Me Yours is the fifth studio album by Welsh alternative ro
 Like its 1996 predecessor Everything Must Go, This Is My Truth Tell Me Yours was a commercial and critical success. The album debuted at number 1 in the UK Albums Chart, selling 136,000 copies, going Gold in the first week. It sold well in the United Kingdom, Europe and Asia, and represented a change in the sound from the furious alternative rock sound to a more melodic and tender approach. By March 1999 the album was Triple Platinum in the UK alone and since its release it has sold more than five million copies worldwide. It earned the band further nominations and accolades at the BRIT Awards in 1999. This is their first album whose lyrics were solely written by bassist Nicky Wire; and not featured any contribution from the late rhythm guitarist Richey Edwards.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Everlasting
-2. If You Tolerate This Your Children Will Be Next
-3. You Stole The Sun From My Heart
-4. Ready For Drowning
-5. Tsunami
-6. My Little Empire
-7. I'm Not Working
-8. You're Tender And You're Tired
-9. Born A Girl
-10. Be Natural
-11. Black Dog On My Shoulder
-12. Prologue To History
-13. S.Y.M.M.
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Everlasting |  |
+| A2 | If You Tolerate This Your Children Will Be Next |  |
+| A3 | You Stole The Sun From My Heart |  |
+| B1 | Ready For Drowning |  |
+| B2 | Tsunami |  |
+| B3 | My Little Empire |  |
+| C1 | I'm Not Working |  |
+| C2 | You're Tender And You're Tired |  |
+| C3 | Born A Girl |  |
+| C4 | Be Natural |  |
+| D1 | Black Dog On My Shoulder |  |
+| D2 | Prologue To History |  |
+| D3 | S.Y.M.M. |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/this-is-my-truth-tell-me-yours/275147386" >}}<br>
-
 
 
 
@@ -67,5 +71,5 @@ Like its 1996 predecessor Everything Must Go, This Is My Truth Tell Me Yours was
 | Format         | Vinyl 2× LP Album Reissue Remastered (Gatefold, 180 Gram) |
 | Label          | Sony Music |
 | Catalog Number | 19075895241 |
-| Notes | 20th Anniversary Collectors’ Edition  Gatefold sleeve Printed inner sleeves Double180 gram vinyl Includes mp3 download card and a poster.  Made in the EU.  |
+| Notes | 20th Anniversary Collectors’ Edition<br><br>Gatefold sleeve<br>Printed inner sleeves<br>Double180 gram vinyl<br>Includes mp3 download card and a poster.<br><br>Made in the EU.<br> |
 | Discogs URL    | [Manic Street Preachers - This Is My Truth Tell Me Yours](https://www.discogs.com/release/12902247-Manic-Street-Preachers-This-Is-My-Truth-Tell-Me-Yours) |

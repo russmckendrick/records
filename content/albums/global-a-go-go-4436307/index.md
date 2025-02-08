@@ -1,16 +1,17 @@
 ---
-title: "Joe Strummer & The Mescaleros - Global A Go-Go"
-artist_name: "Joe Strummer & The Mescaleros"
+title: "Joe Strummer  The Mescaleros - Global A Go-Go"
+artist_name: "Joe Strummer  The Mescaleros"
 artist: "joe-strummer-the-mescaleros"
 album_name: "Global A Go-Go"
 date: 2017-12-23T09:59:25.000000Z
+release_date: "2022-09-16"
 release_id: "4436307"
 slug: "global-a-go-go-4436307"
 hideSummary: true
 cover:
     image: "global-a-go-go-4436307.jpg"
-    alt: "Global A Go-Go by Joe Strummer & The Mescaleros"
-    caption: "Global A Go-Go by Joe Strummer & The Mescaleros"
+    alt: "Global A Go-Go by Joe Strummer  The Mescaleros"
+    caption: "Global A Go-Go by Joe Strummer  The Mescaleros"
 additional_images:
     - "https://i.discogs.com/4QAI6yEAl7iDnXlrEXZeq18jrhBGJDUuSgqAsXPhq3g/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzYz/MDctMTM3MDMzODg3/MC0xMDU5LmpwZWc.jpeg"
     - "https://i.discogs.com/UFpElpDJQRXgJKUllq_9S-q43TqH-1TOVplG5l_GBpk/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzYz/MDctMTM3MDMzODkx/NS04Nzg4LmpwZWc.jpeg"
@@ -32,48 +33,43 @@ The lead track and album's only single, "Johnny Appleseed" was the opening theme
 A remastered version of the album along with Strummer's other two Hellcat released albums was released as a special 57 song digital download titled Joe Strummer & The Mescaleros: The Hellcat Years on 21 August 2012 to celebrate what would have been Strummer's 60th birthday. Hellcat will also release each remastered album individually on CD and vinyl on 25 September 2012.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Johnny Appleseed (4:05)
-2. Cool'n'Out (4:17)
-3. Global A Go-Go (5:50)
-4. Bhindi Bhagee (5:45)
-5. Gamma Ray (6:55)
-6. Mega Bottle Ride (3:33)
-7. Shaktar Donetsk (5:58)
-8. Mondo Bongo (6:13)
-9. Bummed Out City (5:33)
-10. At The Border, Guy (7:02)
-11. Minstrel Boy (Full Length Version) (20:56)
-12. Johnny Appleseed (4:05)
-13. Cool'n'Out (4:17)
-14. Global A Go-Go (5:50)
-15. Bhindi Bhagee (5:45)
-16. Gamma Ray (6:55)
-17. Mega Bottle Ride (3:33)
-18. Shaktar Donetsk (5:58)
-19. Mondo Bongo (6:13)
-20. Bummed Out City (5:33)
-21. At The Border, Guy (7:02)
-22. Minstrel Boy (17:51)
-23. Bhindi Bhagee (Live From The Action Concert) (5:58)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Johnny Appleseed | 4:05 |
+| A2 | Cool'n'Out | 4:17 |
+| A3 | Global A Go-Go | 5:50 |
+| A4 | Bhindi Bhagee | 5:45 |
+| B1 | Gamma Ray | 6:55 |
+| B2 | Mega Bottle Ride | 3:33 |
+| B3 | Shaktar Donetsk | 5:58 |
+| C1 | Mondo Bongo | 6:13 |
+| C2 | Bummed Out City | 5:33 |
+| C3 | At The Border, Guy | 7:02 |
+| D | Minstrel Boy (Full Length Version) | 20:56 |
+| 1 | Johnny Appleseed | 4:05 |
+| 2 | Cool'n'Out | 4:17 |
+| 3 | Global A Go-Go | 5:50 |
+| 4 | Bhindi Bhagee | 5:45 |
+| 5 | Gamma Ray | 6:55 |
+| 6 | Mega Bottle Ride | 3:33 |
+| 7 | Shaktar Donetsk | 5:58 |
+| 8 | Mondo Bongo | 6:13 |
+| 9 | Bummed Out City | 5:33 |
+| 10 | At The Border, Guy | 7:02 |
+| 11 | Minstrel Boy | 17:51 |
+| 12 | Bhindi Bhagee (Live From The Action Concert) | 5:58 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/joe-strummer-002-the-mescaleros-years/1639499091" >}}<br>
 
 
-## Videos
-### Joe Strummer  the Mescaleros - Global A Go-Go
-{{< youtube id="nmyKLpVM98Q" title="Joe Strummer  the Mescaleros - Global A Go-Go" >}}<br>
-### More Videos
-
-- [Joe Strummer Johnny Appleseed](https://www.youtube.com/watch?v=9pYwPc6UNmo)
-- [Joe Strummer  The Mescaleros - Mondo Bongo](https://www.youtube.com/watch?v=_B9OaJIFumg)
-- [Joe Strummer  the Mescaleros - Mega Bottle Ride](https://www.youtube.com/watch?v=PJs2R-DWEMo)
-- [Joe Strummer  The Mescaleros - Cool n Out](https://www.youtube.com/watch?v=RDDo1csGyrk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -85,4 +81,4 @@ A remastered version of the album along with Strummer's other two Hellcat releas
 | Format         | Vinyl 2× LP Album Reissue, CD Album Remastered |
 | Label          | Hellcat Records |
 | Catalog Number | 80440-1 |
-| Discogs URL    | [Joe Strummer & The Mescaleros - Global A Go-Go](https://www.discogs.com/release/4436307-Joe-Strummer-The-Mescaleros-Global-A-Go-Go) |
+| Discogs URL    | [Joe Strummer  The Mescaleros - Global A Go-Go](https://www.discogs.com/release/4436307-Joe-Strummer-The-Mescaleros-Global-A-Go-Go) |

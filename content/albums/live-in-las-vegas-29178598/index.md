@@ -53,45 +53,47 @@ He leans hard into prison-themed tunes like "I Got Stripes" and "Greystone Chape
 
 
 ## Tracklisting
-1. Live In Las Vegas At The Joint - The Hard Rock Hotel - IX.XX.MMIII (TMR-953)
-2. Dead Leaves And The Dirty Ground
-3. When I Hear My Name
-4. Not Fade Away
-5. St. James Infirmary
-6. Black Math
-7. The Big Three Killed My Baby
-8. I Want To Be The Boy To Warm Your Mother's Heart
-9. Death Letter
-10. Take A Whiff On Me
-11. In The Cold, Cold Night
-12. Wasting My Time
-13. I Just Don't Know What To Do With Myself
-14. Offend In Every Way (Aborted)
-15. The Union Forever
-16. Seven Nation Army
-17. You've Got Her In Your Pocket
-18. I Think I Smell A Rat
-19. Look Me Over Closely
-20. Cannon
-21. Mary Had A Little Lamb
-22. Cannon (Reprise)
-23. Ball And Biscuit
-24. The Hardest Button To Button
-25. You're Pretty Good Looking
-26. Hello Operator
-27. We're Going To Be Friends
-28. Hotel Yorba
-29. Fell In Love With A Girl
-30. Your Southern Can Is Mine
-31. Screwdriver
-32. De Ballit Of De Boll Weevil
-33. Ball And Biscuit (TMR-954)
-34. Ball And Biscuit (Live March 17, 2004)
-35. Ball And Biscuit (Live May 2, 2002)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Live In Las Vegas At The Joint - The Hard Rock Hotel - IX.XX.MMIII (TMR-953) |  |
+| A1 | Dead Leaves And The Dirty Ground |  |
+| A2 | When I Hear My Name |  |
+| A3 | Not Fade Away |  |
+| A4 | St. James Infirmary |  |
+| A5 | Black Math |  |
+| A6 | The Big Three Killed My Baby |  |
+| B1 | I Want To Be The Boy To Warm Your Mother's Heart |  |
+| B2 | Death Letter |  |
+| B3 | Take A Whiff On Me |  |
+| B4 | In The Cold, Cold Night |  |
+| C1 | Wasting My Time |  |
+| C2 | I Just Don't Know What To Do With Myself |  |
+| C3 | Offend In Every Way (Aborted) |  |
+| C4 | The Union Forever |  |
+| C5 | Seven Nation Army |  |
+| D1 | You've Got Her In Your Pocket |  |
+| D2 | I Think I Smell A Rat |  |
+| D3 | Look Me Over Closely |  |
+| D4 | Cannon |  |
+| D5 | Mary Had A Little Lamb |  |
+| D6 | Cannon (Reprise) |  |
+| D7 | Ball And Biscuit |  |
+| D8 | The Hardest Button To Button |  |
+| E1 | You're Pretty Good Looking |  |
+| E2 | Hello Operator |  |
+| E3 | We're Going To Be Friends |  |
+| E4 | Hotel Yorba |  |
+| E5 | Fell In Love With A Girl |  |
+| E6 | Your Southern Can Is Mine |  |
+| E7 | Screwdriver |  |
+| E8 | De Ballit Of De Boll Weevil |  |
+|  | Ball And Biscuit (TMR-954) |  |
+| G | Ball And Biscuit (Live March 17, 2004) |  |
+| H | Ball And Biscuit (Live May 2, 2002) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/at-folsom-prison-live/825516828" >}}<br>
-
 
 
 
@@ -104,5 +106,5 @@ He leans hard into prison-themed tunes like "I Got Stripes" and "Greystone Chape
 | Format         | Vinyl LP Reissue Remastered (Red Translucent, 180g), Vinyl LP Reissue Remastered (White, 180g), Vinyl LP Single Sided Etched Reissue Remastered (180g), Vinyl 7" 33 ⅓ RPM Single (Red w/ Sparkles [Sparkle Red]) |
 | Label          | Third Man Records |
 | Catalog Number | TMR-953 |
-| Notes | Originally recorded on September 20, 2003 at The Joint at the Hard Rock Hotel in Las Vegas, NV.   Merry Buckets to Claudette Colbert.  Included are: 'The White Stripes - Live In Las Vegas' (Originally released as [r2148366]). Side F has an etching (referred as 'Always Bet On Black.') 'Ball And Biscuit' 7" with Bob Dylan & Jack White 2004 performance + first performance by The White Stripes Patch Bumper Sticker 2 art prints  All songs published by Peppermint Stripe Music (BMI) Administered by Songs of Univarsal, Inc. (BMI) with the exception of: [A3] "Not Fade Away" (BMG Gold Songs (ASCAP), WREN MUSIC CO (BMI)) [A4] "St. James Infirmary" (Traditional) [B2] "Death Letter" (Sondick Music (BMI)) [B3] "Take A Whiff On Me" (Folkways Music Publishers Inc. (BMI)) [C2] "I Just Dont Know What To Do With Myself" (BMG Rights Management, New Hidden Valley Music CO, PW Arrangements, Universal Music Corporation (ASCAP)) [D3] "Look Over Me Closely" (EMI Blackwood Music Inc. (BMI)) [D5] "Mary Had A Little Lamb" (Traditional) [E6] "Your Southern Can Is Mine" (Songs Of Peer (ASCAP))  Runouts are etched. |
+| Notes | Originally recorded on September 20, 2003 at The Joint at the Hard Rock Hotel in Las Vegas, NV. <br><br>Merry Buckets to Claudette Colbert.<br><br>Included are:<br>'The White Stripes - Live In Las Vegas' (Originally released as [r2148366]). Side F has an etching (referred as 'Always Bet On Black.')<br>'Ball And Biscuit' 7" with Bob Dylan & Jack White 2004 performance + first performance by The White Stripes<br>Patch<br>Bumper Sticker<br>2 art prints<br><br>All songs published by Peppermint Stripe Music (BMI) Administered by Songs of Univarsal, Inc. (BMI) with the exception of:<br>[A3] "Not Fade Away" (BMG Gold Songs (ASCAP), WREN MUSIC CO (BMI))<br>[A4] "St. James Infirmary" (Traditional)<br>[B2] "Death Letter" (Sondick Music (BMI))<br>[B3] "Take A Whiff On Me" (Folkways Music Publishers Inc. (BMI))<br>[C2] "I Just Dont Know What To Do With Myself" (BMG Rights Management, New Hidden Valley Music CO, PW Arrangements, Universal Music Corporation (ASCAP))<br>[D3] "Look Over Me Closely" (EMI Blackwood Music Inc. (BMI))<br>[D5] "Mary Had A Little Lamb" (Traditional)<br>[E6] "Your Southern Can Is Mine" (Songs Of Peer (ASCAP))<br><br>Runouts are etched. |
 | Discogs URL    | [The White Stripes - Live In Las Vegas](https://www.discogs.com/release/29178598-The-White-Stripes-Live-In-Las-Vegas) |

@@ -4,6 +4,7 @@ artist_name: "Curve"
 artist: "curve"
 album_name: "Cherry"
 date: 2023-02-13T11:30:45.000000Z
+release_date: "2020-06-12"
 release_id: "26071120"
 slug: "cherry-26071120"
 hideSummary: true
@@ -26,26 +27,23 @@ styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Clipped
-2. Die Like A Dog
-3. Galaxy
-4. Cherry
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Clipped |  |
+| A2 | Die Like A Dog |  |
+| B1 | Galaxy |  |
+| B2 | Cherry |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/curva-cereza-single/1514226691" >}}<br>
 
 
-## Videos
-### Curve - I speak your every word
-{{< youtube id="OTUS6N9OWYY" title="Curve - I speak your every word" >}}<br>
-### More Videos
-
-- [Curve - Cherry](https://www.youtube.com/watch?v=DJukLbmHqxY)
-- [Curve - Clipped](https://www.youtube.com/watch?v=bpJhXTkenIU)
-- [Curve - Galaxy](https://www.youtube.com/watch?v=CVpabyzgM-Q)
-- [Curve - Die like a dog](https://www.youtube.com/watch?v=Qf1sy002-lc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -56,5 +54,5 @@ styles: ["Shoegaze", "Industrial", "Downtempo", "Indie Rock"]
 | Format         | Vinyl 12" 45 RPM EP Limited Edition Numbered (Pink & Purple Marbled, 180 Gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOV12032 |
-| Notes | Part of the Curve EP reissue series. 180 gram audiophile vinyl. Limited edition of 1000 on Pink & Purple Marbled vinyl. Individual number stamped in silver metallic on rear of outer sleeve. Plastic outer sleeve with Music On Vinyl sticker. Plain inner sleeve. Insert advertising Music On Vinyl Curve reissue series.  Track durations not listed on the release. |
+| Notes | Part of the Curve EP reissue series.<br>180 gram audiophile vinyl.<br>Limited edition of 1000 on Pink & Purple Marbled vinyl.<br>Individual number stamped in silver metallic on rear of outer sleeve.<br>Plastic outer sleeve with Music On Vinyl sticker.<br>Plain inner sleeve.<br>Insert advertising Music On Vinyl Curve reissue series.<br><br>Track durations not listed on the release. |
 | Discogs URL    | [Curve - Cherry](https://www.discogs.com/release/26071120-Curve-Cherry) |

@@ -32,51 +32,28 @@ On the title track that opens Badly Drawn Boy’s ninth studio album (and first 
 
 
 ## Tracklisting
-1. Banana Skin Shoes
-2. Is This A Dream?
-3. I Just Wanna Wish You Happiness
-4. I'm Not Sure What It Is
-5. Tony Wilson Said
-6. You And Me Against The World
-7. I Need Someone To Trust
-8. Note To Self
-9. Colours
-10. Funny Time Of Year
-11. Fly On The Wall
-12. Never Change
-13. Appletree Boulevard
-14. I'll Do My Best
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Banana Skin Shoes |  |
+| A2 | Is This A Dream? |  |
+| A3 | I Just Wanna Wish You Happiness |  |
+| A4 | I'm Not Sure What It Is |  |
+| B1 | Tony Wilson Said |  |
+| B2 | You And Me Against The World |  |
+| B3 | I Need Someone To Trust |  |
+| C1 | Note To Self |  |
+| C2 | Colours |  |
+| C3 | Funny Time Of Year |  |
+| D1 | Fly On The Wall |  |
+| D2 | Never Change |  |
+| D3 | Appletree Boulevard |  |
+| D4 | I'll Do My Best |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/banana-skin-shoes/1500598594" >}}<br>
 
 
-## Videos
-### Badly Drawn Boy - Banana Skin Shoes Official Music Video
-{{< youtube id="9DoVsGK87NM" title="Badly Drawn Boy - Banana Skin Shoes Official Music Video" >}}<br>
-### More Videos
-
-- [Badly Drawn Boy - I Just Wanna Wish You Happiness](https://www.youtube.com/watch?v=sUrot70vd90)
-- [Badly Drawn Boy - Ill Do My Best](https://www.youtube.com/watch?v=f2OCTbOy0Ho)
-- [Fly on the Wall](https://www.youtube.com/watch?v=79ZeZd52iFI)
-- [Funny Time of Year](https://www.youtube.com/watch?v=Ahepoi7RE24)
-- [Badly Drawn Boy - Never Change](https://www.youtube.com/watch?v=M1J_IAx2_eg)
-- [Appletree Boulevard](https://www.youtube.com/watch?v=taCPUZTMlDk)
-- [Note to Self](https://www.youtube.com/watch?v=ny-RkvrMto8)
-- [Ill Do My Best](https://www.youtube.com/watch?v=fCuvPJVyy0Q)
-- [Never Change](https://www.youtube.com/watch?v=Vm_c8B_jOOE)
-- [Colours](https://www.youtube.com/watch?v=QTrSaqpPtfI)
-- [Badly Drawn Boy - Banana Skin Shoes Official Music Video](https://www.youtube.com/watch?v=9DoVsGK87NM)
-- [Badly Drawn Boy - I Just Wanna Wish You Happiness](https://www.youtube.com/watch?v=sUrot70vd90)
-- [Badly Drawn Boy - Ill Do My Best](https://www.youtube.com/watch?v=f2OCTbOy0Ho)
-- [Fly on the Wall](https://www.youtube.com/watch?v=79ZeZd52iFI)
-- [Funny Time of Year](https://www.youtube.com/watch?v=Ahepoi7RE24)
-- [Badly Drawn Boy - Never Change](https://www.youtube.com/watch?v=M1J_IAx2_eg)
-- [Appletree Boulevard](https://www.youtube.com/watch?v=taCPUZTMlDk)
-- [Note to Self](https://www.youtube.com/watch?v=ny-RkvrMto8)
-- [Ill Do My Best](https://www.youtube.com/watch?v=fCuvPJVyy0Q)
-- [Never Change](https://www.youtube.com/watch?v=Vm_c8B_jOOE)
-- [Colours](https://www.youtube.com/watch?v=QTrSaqpPtfI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -88,5 +65,5 @@ On the title track that opens Badly Drawn Boy’s ninth studio album (and first 
 | Format         | Vinyl 2× LP Album Limited Edition (Yellow) |
 | Label          | One Last Fruit |
 | Catalog Number | OLF005LP |
-| Notes | Released in a gatefold sleeve. Comes with lyrics foldout poster.  Track titles taken from inside gatefold sleeve and lyrics poster. On back of sleeve track A2 is titled "Is This A Dream" and D4 is titled "Do My Best".  800 copies ordered through the artist's webstore or via recordstore.co.uk were signed by Badly Drawn Boy and hand numbered xxx/800  Copies purchased at selected independent record shops included a black & white card print of the sleeve to colour in yourself. |
+| Notes | Released in a gatefold sleeve. Comes with lyrics foldout poster.<br><br>Track titles taken from inside gatefold sleeve and lyrics poster.<br>On back of sleeve track A2 is titled "Is This A Dream" and D4 is titled "Do My Best".<br><br>800 copies ordered through the artist's webstore or via recordstore.co.uk were signed by Badly Drawn Boy and hand numbered xxx/800<br><br>Copies purchased at selected independent record shops included a black & white card print of the sleeve to colour in yourself. |
 | Discogs URL    | [Badly Drawn Boy - Banana Skin Shoes](https://www.discogs.com/release/15351838-Badly-Drawn-Boy-Banana-Skin-Shoes) |

@@ -1,9 +1,10 @@
 ---
 title: "Iron Monkey - 9-13"
 artist_name: "Iron Monkey"
-artist: "iron-monkey-3"
+artist: "iron-monkey"
 album_name: "9-13"
 date: 2017-10-26T17:57:03.000000Z
+release_date: "2017-10-20"
 release_id: "11038535"
 slug: "9-13-11038535"
 hideSummary: true
@@ -23,35 +24,28 @@ styles: ["Sludge Metal", "Doom Metal"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Crown Of Electrodes
-2. OmegaMangler
-3. 9-13
-4. Toadcrucifier / R.I.P.PER
-5. Destroyer 	
-6. Mortarhex 	
-7. The Rope 
-8. Doomsday Impulse Multiplier
-9. Moreland St. Hammervortex 
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Crown Of Electrodes |  |
+| A2 | OmegaMangler |  |
+| A3 | 9-13 |  |
+| A4 | Toadcrucifier / R.I.P.PER |  |
+| A5 | Destroyer 	 |  |
+| B1 | Mortarhex 	 |  |
+| B2 | The Rope  |  |
+| B3 | Doomsday Impulse Multiplier |  |
+| B4 | Moreland St. Hammervortex  |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/9-13/1260737417" >}}<br>
 
 
-## Videos
-### IRON MONKEY - 9-13 Official Music Video
-{{< youtube id="_JH0os_xukQ" title="IRON MONKEY - 9-13 Official Music Video" >}}<br>
-### More Videos
-
-- [IRON MONKEY - Crown of Electrodes Official Visualizer Video](https://www.youtube.com/watch?v=5Bc1vnGpu_M)
-- [IRON MONKEY -  OmegaMangler Official Audio](https://www.youtube.com/watch?v=L-S-LsLJqIc)
-- [IRON MONKEY - Toadcrucifier - RIPPER Official Music Video](https://www.youtube.com/watch?v=K2nY03dOUvg)
-- [Iron Monkey - Mortarhex](https://www.youtube.com/watch?v=iaU4bgG5C9k)
-- [Iron Monkey - Destroyer](https://www.youtube.com/watch?v=IlhWYPaNDRk)
-- [Iron Monkey - The Rope](https://www.youtube.com/watch?v=soyUE8ZnPjw)
-- [Iron Monkey - Doomsday Impulse Multiplier](https://www.youtube.com/watch?v=uGatMszYD2A)
-- [Iron Monkey - Moreland St Hammervortex](https://www.youtube.com/watch?v=Q6jqGyAkHd4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +56,5 @@ styles: ["Sludge Metal", "Doom Metal"]
 | Format         | Vinyl LP Album Limited Edition (White Inside Clear With Black Splatter) |
 | Label          | Relapse Records |
 | Catalog Number | RR7379 |
-| Notes | Limited to 300 copies. Includes foldout insert sheet with lyrics and a digital download code.  Recorded Spring 2017 AD at Moot Group Studios, Nottingham, UK.  ℗&© 2017 Relapse Records, Inc. Made in EU. |
+| Notes | Limited to 300 copies. Includes foldout insert sheet with lyrics and a digital download code.<br><br>Recorded Spring 2017 AD at Moot Group Studios, Nottingham, UK.<br><br>℗&© 2017 Relapse Records, Inc. Made in EU. |
 | Discogs URL    | [Iron Monkey - 9-13](https://www.discogs.com/release/11038535-Iron-Monkey-3-9-13) |

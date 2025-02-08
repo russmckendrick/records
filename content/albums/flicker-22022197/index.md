@@ -1,9 +1,10 @@
 ---
 title: "Andy Bell - Flicker"
 artist_name: "Andy Bell"
-artist: "andy-bell-2"
+artist: "andy-bell"
 album_name: "Flicker"
 date: 2022-02-05T04:03:41.000000Z
+release_date: "2022-02-10"
 release_id: "22022197"
 slug: "flicker-22022197"
 hideSummary: true
@@ -19,37 +20,37 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Sky Without You
-2. It Gets Easier
-3. World Of Echo
-4. Something Like Love
-5. Jenny Holzer B. Goode
-6. Way Of The World
-7. Riverside
-8. We All Fall Down
-9. No Getting Out Alive
-10. The Looking Glass
-11. Love Is The Frequency
-12. Gyre And Gimble
-13. Lifeline
-14. She Calls The Tune
-15. Sidewinder
-16. When The Lights Go Down
-17. This Is Our Year
-18. Holiday In The Sun
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Sky Without You |  |
+| A2 | It Gets Easier |  |
+| A3 | World Of Echo |  |
+| A4 | Something Like Love |  |
+| A5 | Jenny Holzer B. Goode |  |
+| B1 | Way Of The World |  |
+| B2 | Riverside |  |
+| B3 | We All Fall Down |  |
+| B4 | No Getting Out Alive |  |
+| C1 | The Looking Glass |  |
+| C2 | Love Is The Frequency |  |
+| C3 | Gyre And Gimble |  |
+| C4 | Lifeline |  |
+| C5 | She Calls The Tune |  |
+| D1 | Sidewinder |  |
+| D2 | When The Lights Go Down |  |
+| D3 | This Is Our Year |  |
+| D4 | Holiday In The Sun |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/flicker/1700658610" >}}<br>
 
 
-## Videos
-### Andy Bell Something Like Love
-{{< youtube id="ttvHX1pClw4" title="Andy Bell Something Like Love" >}}<br>
-### More Videos
-
-- [Andy Bell Something Like Love](https://www.youtube.com/watch?v=ttvHX1pClw4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,5 +61,5 @@ styles: []
 | Format         | Vinyl 2× LP Album Limited Edition (Translucent Ochre + Gold Obi Strip) |
 | Label          | Sonic Cathedral |
 | Catalog Number | SCR200LP |
-| Notes | Limited edition of 300 copies.  Available only from the Sonic Cathedral shop on Bandcamp. Includes download code. |
+| Notes | Limited edition of 300 copies.  Available only from the Sonic Cathedral shop on Bandcamp.<br>Includes download code. |
 | Discogs URL    | [Andy Bell - Flicker](https://www.discogs.com/release/22022197-Andy-Bell-2-Flicker) |

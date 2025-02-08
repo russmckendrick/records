@@ -4,6 +4,7 @@ artist_name: "Salad"
 artist: "salad"
 album_name: "Ice Cream"
 date: 2023-10-16T13:34:51.000000Z
+release_date: "1997-01-01"
 release_id: "28613203"
 slug: "ice-cream-28613203"
 hideSummary: true
@@ -24,33 +25,31 @@ styles: ["Indie Rock", "Britpop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. U.V.
-2. Yeah Yeah
-3. Written By A Man
-4. Broken Bird
-5. Wanna Be Free
-6. A Size More Woman Than Her
-7. Cardboy King
-8. Namedrops
-9. Foreign Cow
-10. Terrible Day
-11. Wolves Over Washington
-12. The Sky's Our Terminal
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | U.V. |  |
+| A2 | Yeah Yeah |  |
+| A3 | Written By A Man |  |
+| A4 | Broken Bird |  |
+| A5 | Wanna Be Free |  |
+| A6 | A Size More Woman Than Her |  |
+| B1 | Cardboy King |  |
+| B2 | Namedrops |  |
+| B3 | Foreign Cow |  |
+| B4 | Terrible Day |  |
+| B5 | Wolves Over Washington |  |
+| B6 | The Sky's Our Terminal |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ice-cream/1649930900" >}}<br>
 
 
-## Videos
-### Salad - UV
-{{< youtube id="tfktYKTcsaQ" title="Salad - UV" >}}<br>
-### More Videos
-
-- [Salad - Yeah Yeah](https://www.youtube.com/watch?v=uDWrh_oD3DY)
-- [Salad - Written by a Man](https://www.youtube.com/watch?v=qtWTBPRe20A)
-- [Salad - Cardboy King](https://www.youtube.com/watch?v=A6KJxJAQW2U)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +60,5 @@ styles: ["Indie Rock", "Britpop"]
 | Format         | Vinyl LP Album Reissue |
 | Label          | Demon Records |
 | Catalog Number | DEMREC1130 |
-| Notes | 140g Black Vinyl Includes print signed by [a506138] |
+| Notes | 140g Black Vinyl<br>Includes print signed by [a506138] |
 | Discogs URL    | [Salad - Ice Cream](https://www.discogs.com/release/28613203-Salad-Ice-Cream) |

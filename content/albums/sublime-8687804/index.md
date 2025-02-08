@@ -1,9 +1,10 @@
 ---
 title: "Sublime - Sublime"
 artist_name: "Sublime"
-artist: "sublime-2"
+artist: "sublime"
 album_name: "Sublime"
 date: 2016-09-29T17:26:03.000000Z
+release_date: "2020-09-25"
 release_id: "8687804"
 slug: "sublime-8687804"
 hideSummary: true
@@ -34,45 +35,37 @@ By the time it came to record their major label debut, Nowell had been strugglin
 Bolstered by numerous hit singles, among them "What I Got", "Santeria", and "Wrong Way", the record proved to be enormously successful, despite the band being defunct and thus not able to promote the album through touring. It sold over five million copies in the United States by the end of the decade, and it continues to be a popular catalog album. The album was released during the third wave ska peak, and etched Sublime into a permanent place among the stars of the 1990s. Critical reviews were positive, praising Nowell's songwriting ability and the album's musical variety. Sublime has since been listed as one of the most well-regarded albums of the 1990s by Spin and Rolling Stone.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Garden Grove (4:21)
-2. What I Got (2:51)
-3. Wrong Way (2:16)
-4. Same In The End (2:36)
-5. April 29, 1992 (Miami) (3:53)
-6. Santeria (3:03)
-7. Seed (2:10)
-8. Jailhouse (4:53)
-9. Pawn Shop (6:06)
-10. Paddle Out (1:15)
-11. The Ballad Of Johnny Butt (2:11)
-12. Burritos (3:55)
-13. Under My Voodoo (3:25)
-14. Get Ready (4:50)
-15. Caress Me Down (3:32)
-16. What I Got (Reprise) (3:02)
-17. Doin' Time (4:14)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Garden Grove | 4:21 |
+| A2 | What I Got | 2:51 |
+| A3 | Wrong Way | 2:16 |
+| A4 | Same In The End | 2:36 |
+| B1 | April 29, 1992 (Miami) | 3:53 |
+| B2 | Santeria | 3:03 |
+| B3 | Seed | 2:10 |
+| B4 | Jailhouse | 4:53 |
+| C1 | Pawn Shop | 6:06 |
+| C2 | Paddle Out | 1:15 |
+| C3 | The Ballad Of Johnny Butt | 2:11 |
+| C4 | Burritos | 3:55 |
+| C5 | Under My Voodoo | 3:25 |
+| D1 | Get Ready | 4:50 |
+| D2 | Caress Me Down | 3:32 |
+| D3 | What I Got (Reprise) | 3:02 |
+| D4 | Doin' Time | 4:14 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sublime-single/1531122091" >}}<br>
 
 
-## Videos
-### Sublime - What I Got Official Music Video
-{{< youtube id="0Uc3ZrmhDN4" title="Sublime - What I Got Official Music Video" >}}<br>
-### More Videos
-
-- [Sublime - Santeria Official Music Video](https://www.youtube.com/watch?v=AEYN5w4T_aM)
-- [Sublime - Wrong Way Official Video](https://www.youtube.com/watch?v=uLifSFBs_Lk)
-- [Sublime - Same In The End Official Video](https://www.youtube.com/watch?v=XINAJ7jgg6Y)
-- [Sublime - Garden Grove](https://www.youtube.com/watch?v=qpSo_zj0UQw)
-- [Sublime - Doin Time Official Video](https://www.youtube.com/watch?v=2yT8RsCarJA)
-- [Sublime - Pawn Shop Official Video](https://www.youtube.com/watch?v=gAQ7fGXHFJ8)
-- [Under My Voodoo](https://www.youtube.com/watch?v=uV_X627F3l4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +77,5 @@ Bolstered by numerous hit singles, among them "What I Got", "Santeria", and "Wro
 | Format         | Vinyl 2× LP Album Reissue Remastered (RTI, Gatefold) |
 | Label          | Gasoline Alley |
 | Catalog Number | B0024679-01 |
-| Notes | 2016 LP reissue variant  Runouts indicate that the metal parts used for this pressing were processed by Record Technology, Inc.  Records housed in thick cardstock color graphics inner's. Gatefold sleeve |
+| Notes | 2016 LP reissue variant<br><br>Runouts indicate that the metal parts used for this pressing were processed<br>by Record Technology, Inc.<br><br>Records housed in thick cardstock color graphics inner's.<br>Gatefold sleeve |
 | Discogs URL    | [Sublime - Sublime](https://www.discogs.com/release/8687804-Sublime-2-Sublime) |

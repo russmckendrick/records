@@ -4,6 +4,7 @@ artist_name: "Run The Jewels"
 artist: "run-the-jewels"
 album_name: "Run The Jewels 2"
 date: 2015-08-09T08:37:30.000000Z
+release_date: "2014-10-27"
 release_id: "6653718"
 slug: "run-the-jewels-2-6653718"
 hideSummary: true
@@ -35,44 +36,31 @@ styles: ["Hardcore Hip-Hop"]
 Run the Jewels 2 is the second studio album by American hip hop duo Run the Jewels, which consists of Killer Mike and El-P. The album was released early for free on October 24, 2014, and the following day on iTunes. It was made available on CD and LP by Mass Appeal Records and RBC Records on October 28, 2014.
 Run the Jewels 2 received widespread acclaim from critics for its darker and more layered production, Killer Mike and El-P's lyricism and chemistry and its guest contributions. Several publications also ranked it as the best album of 2014, including Pitchfork, Complex and Stereogum. The album debuted at number 50 on the US Billboard 200, selling 12,000 copies in the first week.
 A parody remix album, Meow the Jewels, was released for free featuring beats created entirely from cat sounds. In addition to Meow the Jewels, a standard remix album was scheduled to be released by Fool's Gold Records in 2015 as well.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Jeopardy (3:21)
-2. Oh My Darling Don't Cry (3:24)
-3. Blockbuster Night Part 1 (2:32)
-4. Close Your Eyes (And Count To Fuck) (3:54)
-5. All My Life (3:07)
-6. Lie, Cheat, Steal (3:28)
-7. Early (3:44)
-8. All Due Respect (2:47)
-9. Love Again (Akinyele Back) (3:45)
-10. Crown (3:45)
-11. Angel Duster (5:09)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Jeopardy | 3:21 |
+| A2 | Oh My Darling Don't Cry | 3:24 |
+| A3 | Blockbuster Night Part 1 | 2:32 |
+| B4 | Close Your Eyes (And Count To Fuck) | 3:54 |
+| B5 | All My Life | 3:07 |
+| B6 | Lie, Cheat, Steal | 3:28 |
+| C7 | Early | 3:44 |
+| C8 | All Due Respect | 2:47 |
+| C9 | Love Again (Akinyele Back) | 3:45 |
+| D10 | Crown | 3:45 |
+| D11 | Angel Duster | 5:09 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/run-the-jewels-2/1774265646" >}}<br>
 
 
-## Videos
-### Run The Jewels - Oh My Darling Dont Cry Official Video
-{{< youtube id="G-S9mtYowPY" title="Run The Jewels - Oh My Darling Dont Cry Official Video" >}}<br>
-### More Videos
-
-- [Run The Jewels - Blockbuster Night Part 1 Official Video](https://www.youtube.com/watch?v=uuWQyfGa1yI)
-- [Run The Jewels - Love Again Akinyele Back feat Gangsta Boo from the Run The Jewels 2 album](https://www.youtube.com/watch?v=QkZurfE8Gbc)
-- [Run the Jewels - Lie Cheat Steal Official Video](https://www.youtube.com/watch?v=BEOximWoFd0)
-- [Run The Jewels - Close Your Eyes And Count To Fk feat Zack de la Rocha Official Video](https://www.youtube.com/watch?v=PkGwI7nGehA)
-- [Run The Jewels - Early Official Music Video from Run The Jewels 2](https://www.youtube.com/watch?v=pJJyKlRxyvA)
-- [Run The Jewels - Jeopardy from the Run The Jewels 2 album](https://www.youtube.com/watch?v=6sRQ9q4hzv4)
-- [Run The Jewels - All My Life from the Run The Jewels 2 album](https://www.youtube.com/watch?v=ZtdRdbjgPBc)
-- [Run The Jewels - All Due Respect feat Travis Barker from the Run The Jewels 2 album](https://www.youtube.com/watch?v=JNRXTETw9vI)
-- [Run The Jewels - Crown feat Diane Coffee from the Run The Jewels 2 album](https://www.youtube.com/watch?v=XbZR9JhGJ0Q)
-- [Run The Jewels - Angel Duster from the Run The Jewels 2 album](https://www.youtube.com/watch?v=6MS-JqECvf4)
-- [Run The Jewels -- Love Again feat Gangsta Boo Official Music Video](https://www.youtube.com/watch?v=XIR74qry3IM)
-- [Run The Jewels - Blockbuster Night Pt 2 feat Despot  Wiki iTunes Bonus Track](https://www.youtube.com/watch?v=xACVLLlAoa4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +72,5 @@ A parody remix album, Meow the Jewels, was released for free featuring beats cre
 | Format         | Vinyl 2× LP Album Special Edition (Teal, Gatefold, w/ Gangsta Boo) |
 | Label          | Mass Appeal |
 | Catalog Number | MSAP0005LP |
-| Notes | This version, unlike the [url=https://www.discogs.com/Run-The-Jewels-Run-The-Jewels-2/release/6093939]first pressing[/url] does feature Gangsta Boo's verse on track C9 "Love Again (Akinyele Back)" with her proper credits. It also has a different hype sticker and a different runout etching on side C.  Hype sticker: EL·P + KILLERMIKE = RUN THE JEWELS SPECIAL EDITION VINYL HIGH QUALITY 180GM TEAL COLOR 2XLP GATEFOLD COVER HAND-DRAWN POSTER WITH LYRICS / FREE STICKERS FOR THE KIDS!!! [album reviews] MSAP0005LP [Mass Appeal logo]  twitter.com/runjewels twitter.com/therealelp twitter.com/killermikegto massappealrecords.com  ℗&© 2014 ProductoMart Under exclusive license to Mass Appeal Records  For Run The Jewels info, merchandise & inquiries, check us @ www.runthejewels.net / info@runthejewels.net  Joey Raia mixed this shit at Night Hunter Studios (www.joeyraia.com) Live Booking: Sam Hunt @Windish Agency  El-P published by Definitive Jux Music Killer Mike published by Aniyah's Music / Royalty Network Little Shalimar published by Money Makes Me Dance Wilder Zoby published by Eussicise Entertainment Zack de la Rocha published by Zack Word War Publishing Boots published by Warner-Tamerlane Publishing Corp., Songs of ROC Nation Music, and In Souls. All rights administered by Warner-Tamerlane Publishing Corp. Gangta Boo published by Lady Kash Diane Coffee appears courtesy of Western Vinyl and Secretly Canadian Publishing  Tracks are listed sequentially, as they are on the release. Lacquer cut credits and pressing plant identified through runouts.  Track times Timed out VIA Android Stopwatch timer.  |
+| Notes | This version, unlike the [url=https://www.discogs.com/Run-The-Jewels-Run-The-Jewels-2/release/6093939]first pressing[/url] does feature Gangsta Boo's verse on track C9 "Love Again (Akinyele Back)" with her proper credits. It also has a different hype sticker and a different runout etching on side C.<br><br>Hype sticker:<br>EL·P + KILLERMIKE = RUN THE JEWELS<br>SPECIAL EDITION VINYL<br>HIGH QUALITY 180GM TEAL COLOR 2XLP GATEFOLD COVER<br>HAND-DRAWN POSTER WITH LYRICS / FREE STICKERS FOR THE KIDS!!!<br>[album reviews]<br>MSAP0005LP [Mass Appeal logo]<br><br>twitter.com/runjewels<br>twitter.com/therealelp<br>twitter.com/killermikegto<br>massappealrecords.com<br><br>℗&© 2014 ProductoMart<br>Under exclusive license to Mass Appeal Records<br><br>For Run The Jewels info, merchandise & inquiries, check us @ www.runthejewels.net / info@runthejewels.net<br><br>Joey Raia mixed this shit at Night Hunter Studios (www.joeyraia.com)<br>Live Booking: Sam Hunt @Windish Agency<br><br>El-P published by Definitive Jux Music<br>Killer Mike published by Aniyah's Music / Royalty Network<br>Little Shalimar published by Money Makes Me Dance<br>Wilder Zoby published by Eussicise Entertainment<br>Zack de la Rocha published by Zack Word War Publishing<br>Boots published by Warner-Tamerlane Publishing Corp., Songs of ROC Nation Music, and In Souls. All rights administered by Warner-Tamerlane Publishing Corp.<br>Gangta Boo published by Lady Kash<br>Diane Coffee appears courtesy of Western Vinyl and Secretly Canadian Publishing<br><br>Tracks are listed sequentially, as they are on the release.<br>Lacquer cut credits and pressing plant identified through runouts.<br><br>Track times Timed out VIA Android Stopwatch timer.  |
 | Discogs URL    | [Run The Jewels - Run The Jewels 2](https://www.discogs.com/release/6653718-Run-The-Jewels-Run-The-Jewels-2) |

@@ -4,6 +4,7 @@ artist_name: "Steven Wilson"
 artist: "steven-wilson"
 album_name: "Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89)"
 date: 2023-02-18T11:22:59.000000Z
+release_date: ""
 release_id: "26078881"
 slug: "intrigue-steven-wilson-presents-progressive-sounds-in-uk-alternative-music-1979-89-26078881"
 hideSummary: true
@@ -20,83 +21,77 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. I Should Have Known Better
-2. A Better Home In The Phantom Zone
-3. Back To Nature
-4. Complicated Game (Steven Wilson 2014 Stereo Mix)
-5. Careering
-6. The Raven
-7. Puppet Life
-8. Astradyne (Steven Wilson Stereo Mix)
-9. Contract
-10. I Travel (Extended Version)
-11. Sketch For Summer
-12. Cognitive Dissonance (Steven Wilson 2022 Mix)
-13. The Fatal Day
-14. Health And Efficiency
-15. Burning Car
-16. I Can't Escape Myself
-17. The Eternal
-18. Big Empty Field
-19. Enemies
-20. The Joy Circuit
-21. The Gospel Comes To New Guinea
-22. All My Colours
-23. Ghost Town (Extended Version)
-24. They All Run After The Carving Knife
-25. The Him
-26. White Car In Germany (Single Edit)
-27. Sealand
-28. Talking Drum
-29. Faith
-30. Hit
-31. Three Dancers (Steven Wilson 2021 Mix)
-32. Airwaves
-33. Are You Ready?
-34. The Outsider
-35. Knife Slits Water
-36. Memories Fade
-37. Patient
-38. In A Waiting Room
-39. Donimo
-40. Close (To The Edit)
-41. Rawhide
-42. Brilliant Trees
-43. Dalis Car
-44. Dream Within A Dream
-45. Waking The Witch
-46. Ivy And Neet
-47. Beehead (7" Version)
-48. This Corrosion
-49. Ascension
-50. Gutter Busting
-51. No Motion
-52. Murderers, The Hope Of Women
-53. The Host Of Seraphim
-54. R.E.S.
-55. Good Morning Beautiful
-56. Omega Amigo
-57. Night Sky, Sweet Earth
-58. The 3rd Time We Opened The Capsule
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Should Have Known Better |  |
+| A2 | A Better Home In The Phantom Zone |  |
+| A3 | Back To Nature |  |
+| A4 | Complicated Game (Steven Wilson 2014 Stereo Mix) |  |
+| B1 | Careering |  |
+| B2 | The Raven |  |
+| B3 | Puppet Life |  |
+| B4 | Astradyne (Steven Wilson Stereo Mix) |  |
+| B5 | Contract |  |
+| C1 | I Travel (Extended Version) |  |
+| C2 | Sketch For Summer |  |
+| C3 | Cognitive Dissonance (Steven Wilson 2022 Mix) |  |
+| C4 | The Fatal Day |  |
+| D1 | Health And Efficiency |  |
+| D2 | Burning Car |  |
+| D3 | I Can't Escape Myself |  |
+| D4 | The Eternal |  |
+| E1 | Big Empty Field |  |
+| E2 | Enemies |  |
+| E3 | The Joy Circuit |  |
+| E4 | The Gospel Comes To New Guinea |  |
+| F1 | All My Colours |  |
+| F2 | Ghost Town (Extended Version) |  |
+| F3 | They All Run After The Carving Knife |  |
+| F4 | The Him |  |
+| G1 | White Car In Germany (Single Edit) |  |
+| G2 | Sealand |  |
+| G3 | Talking Drum |  |
+| G4 | Faith |  |
+| H1 | Hit |  |
+| H2 | Three Dancers (Steven Wilson 2021 Mix) |  |
+| H3 | Airwaves |  |
+| H4 | Are You Ready? |  |
+| H5 | The Outsider |  |
+| I1 | Knife Slits Water |  |
+| I2 | Memories Fade |  |
+| I3 | Patient |  |
+| I4 | In A Waiting Room |  |
+| J1 | Donimo |  |
+| J2 | Close (To The Edit) |  |
+| J3 | Rawhide |  |
+| J4 | Brilliant Trees |  |
+| K1 | Dalis Car |  |
+| K2 | Dream Within A Dream |  |
+| K3 | Waking The Witch |  |
+| K4 | Ivy And Neet |  |
+| L1 | Beehead (7" Version) |  |
+| L2 | This Corrosion |  |
+| L3 | Ascension |  |
+| L4 | Gutter Busting |  |
+| M1 | No Motion |  |
+| M2 | Murderers, The Hope Of Women |  |
+| M3 | The Host Of Seraphim |  |
+| M4 | R.E.S. |  |
+| N1 | Good Morning Beautiful |  |
+| N2 | Omega Amigo |  |
+| N3 | Night Sky, Sweet Earth |  |
+| N4 | The 3rd Time We Opened The Capsule |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Wire - I should have known better
-{{< youtube id="0TZbOz1Pz5o" title="Wire - I should have known better" >}}<br>
-### More Videos
 
-- [A Better Home in the Phantom Zone 1999 Remastered Version](https://www.youtube.com/watch?v=1m6DAvVurVE)
-- [XTC - Complicated Game remastered](https://www.youtube.com/watch?v=L_QFMuieWiI)
-- [Joy Division - The Eternal](https://www.youtube.com/watch?v=L5NpJa72-Bc)
-- [New Order - The Him High Quality](https://www.youtube.com/watch?v=lg7ZtIYvWjw)
-- [Steven Wilson Presents Intrigue-Progressive Sounds In Uk Alternative Music 1979-89 Reseña](https://www.youtube.com/watch?v=qV7uXAHPKEk)
-- [Steven Wilson presents Intrigue Progressive Sounds In UK Alternative Music 1979-89 Trailer](https://www.youtube.com/watch?v=bNJPBA-hkNs)
-- [Steven Wilson Intrigue Progressive Sounds in UK alternative music 1979-89 ALBUM REVIEW](https://www.youtube.com/watch?v=WRlzxCa4elY)
-- [Steven Wilson Presents Intrigue-Progressive Sounds In Uk Alternative Music 1979-89 Reseña](https://www.youtube.com/watch?v=qV7uXAHPKEk)
-- [Steven Wilson presents Intrigue - Rough Trade Event Reminder shorts](https://www.youtube.com/watch?v=MVzZXSma_1I)
 
 ## Release Images
 {{< imageGrid >}}
@@ -107,5 +102,5 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Avantgarde", "Electro", "Et
 | Format         | Box Set, Vinyl 7× LP Compilation (140g) |
 | Label          | Demon Records |
 | Catalog Number | DEMRECBOX78 |
-| Notes | UK box set edition 7 x 140g vinyl compilation.  Three other versions exist: *  [url=/release/26064292]DEMRECBOX78X / 5014797908383 - (7 x 140g Signed Edition)[/url] *  [url=/release/26080168]DEMREC1081 / 5014797908390 - (2 x 140g Black Vinyl)[/url] *  [url=/release/26079736]EDSL0133 / 0740155733339 - (4CD)[/url]  [ERRATUM]: F3:  [m=829865], printed as They All Run After The Carving Knife |
+| Notes | UK box set edition 7 x 140g vinyl compilation.<br><br>Three other versions exist:<br>*  [url=/release/26064292]DEMRECBOX78X / 5014797908383 - (7 x 140g Signed Edition)[/url]<br>*  [url=/release/26080168]DEMREC1081 / 5014797908390 - (2 x 140g Black Vinyl)[/url]<br>*  [url=/release/26079736]EDSL0133 / 0740155733339 - (4CD)[/url]<br><br>[ERRATUM]:<br>F3:  [m=829865], printed as They All Run After The Carving Knife |
 | Discogs URL    | [Steven Wilson - Intrigue (Steven Wilson Presents: Progressive Sounds In UK Alternative Music 1979-89)](https://www.discogs.com/release/26078881-Steven-Wilson-Intrigue-Steven-Wilson-Presents-Progressive-Sounds-In-UK-Alternative-Music-1979-89) |

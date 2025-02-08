@@ -39,53 +39,39 @@ Obel’s 2010 award-winning debut, <i>Philharmonics</i>, was a delicate, simply 
 
 
 ## Tracklisting
-1. Chord Left (2:29)
-2. Fuel To Fire (5:29)
-3. Dorian (4:48)
-4. Aventine (4:08)
-5. Run Cried The Crawling (4:26)
-6. Tokka (1:30)
-7. The Curse (5:53)
-8. Pass Them By (3:31)
-9. Words Are Dead (3:46)
-10. Fivefold (1:59)
-11. Smoke & Mirrors (2:57)
-12. Chord Left
-13. Fuel To Fire
-14. Dorian
-15. Aventine
-16. Run Cried The Crawling
-17. Tokka
-18. The Curse
-19. Pass Them By
-20. Words Are Dead
-21. Fivefold
-22. Smoke & Mirrors
-23. The Curse (Instrumental Version)
-24. Aventine (Instrumental Version)
-25. Fuel To Fire (Instrumental Version)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Chord Left | 2:29 |
+| A2 | Fuel To Fire | 5:29 |
+| A3 | Dorian | 4:48 |
+| A4 | Aventine | 4:08 |
+| A5 | Run Cried The Crawling | 4:26 |
+| B1 | Tokka | 1:30 |
+| B2 | The Curse | 5:53 |
+| B3 | Pass Them By | 3:31 |
+| B4 | Words Are Dead | 3:46 |
+| B5 | Fivefold | 1:59 |
+| B6 | Smoke & Mirrors | 2:57 |
+| CD1-1 | Chord Left |  |
+| CD1-2 | Fuel To Fire |  |
+| CD1-3 | Dorian |  |
+| CD1-4 | Aventine |  |
+| CD1-5 | Run Cried The Crawling |  |
+| CD1-6 | Tokka |  |
+| CD1-7 | The Curse |  |
+| CD1-8 | Pass Them By |  |
+| CD1-9 | Words Are Dead |  |
+| CD1-10 | Fivefold |  |
+| CD1-11 | Smoke & Mirrors |  |
+| CD2-1 | The Curse (Instrumental Version) |  |
+| CD2-2 | Aventine (Instrumental Version) |  |
+| CD2-3 | Fuel To Fire (Instrumental Version) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/aventine/681187053" >}}<br>
 
 
-## Videos
-### Agnes Obel - Chord Left
-{{< youtube id="bbU31JLtlug" title="Agnes Obel - Chord Left" >}}<br>
-### More Videos
-
-- [Agnes Obel - Fuel To Fire Official Video](https://www.youtube.com/watch?v=hqZGvkF00DI)
-- [Agnes Obel - Dorian Official Video](https://www.youtube.com/watch?v=wZN1HKn3Qus)
-- [Agnes Obel - Aventine Official Video](https://www.youtube.com/watch?v=VBLCqJNPoBw)
-- [Agnes Obel - Run Cried The Crawling](https://www.youtube.com/watch?v=HpFAPApnzGE)
-- [Agnes Obel - Tokka](https://www.youtube.com/watch?v=bAR-7YatJxY)
-- [Agnes Obel - The Curse Official Video](https://www.youtube.com/watch?v=6h9XUYj96ho)
-- [Agnes Obel - Pass Them By](https://www.youtube.com/watch?v=ELfqgI-X3yA)
-- [Agnes Obel - Words Are Dead](https://www.youtube.com/watch?v=hZpn7Cde1w8)
-- [Agnes Obel - Fivefold](https://www.youtube.com/watch?v=nBqvRZQbFdA)
-- [Agnes Obel - Smoke And Mirrors](https://www.youtube.com/watch?v=QOGQx4khAG0)
-- [Agnes Obel - September Song Official Audio](https://www.youtube.com/watch?v=wIhfU8Woci4)
-- [Agnes Obel - Fuel To Fire David Lynch Remix Official Audio](https://www.youtube.com/watch?v=bNV28kwDWHA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -96,5 +82,5 @@ Obel’s 2010 award-winning debut, <i>Philharmonics</i>, was a delicate, simply 
 | Format         | Vinyl LP Album, CD Album, CD, Box Set Limited Edition |
 | Label          | Play It Again Sam |
 | Catalog Number | PIASR615BOX |
-| Notes | Limited Edition Deluxe Box Set    180g Heavyweight Vinyl & CD Album  plus exclusive Instrumental CD, Sheet Music of The Curse and Photographic Print. |
+| Notes | Limited Edition Deluxe Box Set<br><br>180g Heavyweight Vinyl & CD Album<br>plus exclusive Instrumental CD, Sheet Music of The Curse and Photographic Print. |
 | Discogs URL    | [Agnes Obel - Aventine](https://www.discogs.com/release/4948198-Agnes-Obel-Aventine) |

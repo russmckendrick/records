@@ -4,6 +4,7 @@ artist_name: "The Polyphonic Spree"
 artist: "the-polyphonic-spree"
 album_name: "Afflatus"
 date: 2022-02-12T05:32:51.000000Z
+release_date: "2021-04-16"
 release_id: "21302986"
 slug: "afflatus-21302986"
 hideSummary: true
@@ -29,33 +30,30 @@ In English, afflatus is used for the literal form of inspiration. It generally r
 Divino afflante Spiritu ('Inspired by the Holy Spirit') is an encyclical letter of Pope Pius XII dealing with Biblical inspiration and Biblical criticism. It lay out his desire to see new translations from the original language instead of the Vulgate.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Don't Change (4:24)
-2. You Put My Love Out The Door (2:28)
-3. She's A Rainbow (4:13)
-4. Run To Me (4:06)
-5. The Porpoise Song (6:20)
-6. Could It Be Magic (5:28)
-7. The Visitors (6:07)
-8. Let 'Em In (5:16)
-9. Never My Love (3:51)
-10. The Spirit Of Radio (5:09)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Don't Change | 4:24 |
+| A2 | You Put My Love Out The Door | 2:28 |
+| A3 | She's A Rainbow | 4:13 |
+| A4 | Run To Me | 4:06 |
+| A5 | The Porpoise Song | 6:20 |
+| B1 | Could It Be Magic | 5:28 |
+| B2 | The Visitors | 6:07 |
+| B3 | Let 'Em In | 5:16 |
+| B4 | Never My Love | 3:51 |
+| B5 | The Spirit Of Radio | 5:09 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/afflatus/1711108953" >}}<br>
 
 
-## Videos
-### The Polyphonic Spree - The Spirit of Radio OFFICIAL MUSIC VIDEO
-{{< youtube id="pOOON9DZeTM" title="The Polyphonic Spree - The Spirit of Radio OFFICIAL MUSIC VIDEO" >}}<br>
-### More Videos
-
-- [The Polyphonic Spree - Shes a Rainbow OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=KVE8e-xbUQ8)
-- [The Polyphonic Spree - Dont Change OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=5Vqa_64yJ6o)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +65,5 @@ Divino afflante Spiritu ('Inspired by the Holy Spirit') is an encyclical letter 
 | Format         | Vinyl LP Album Limited Edition (Neon Green) |
 | Label          | Good Records Recordings |
 | Catalog Number | GRR104LP |
-| Notes | Limited to 1000 copies (Glow In The Dark Vinyl)  Recorded by David Wilson at The Triplex Dallas, TX March 2020 *except Mixed by Justin Cortelyou |
+| Notes | Limited to 1000 copies (Glow In The Dark Vinyl)<br><br>Recorded by David Wilson at The Triplex Dallas, TX March 2020<br>*except Mixed by Justin Cortelyou |
 | Discogs URL    | [The Polyphonic Spree - Afflatus](https://www.discogs.com/release/21302986-The-Polyphonic-Spree-Afflatus) |

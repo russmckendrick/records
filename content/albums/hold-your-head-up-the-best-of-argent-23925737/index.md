@@ -4,6 +4,7 @@ artist_name: "Argent"
 artist: "argent"
 album_name: "Hold Your Head Up - The Best Of Argent"
 date: 2023-07-30T11:13:07.000000Z
+release_date: "2014-02-06"
 release_id: "23925737"
 slug: "hold-your-head-up-the-best-of-argent-23925737"
 hideSummary: true
@@ -19,22 +20,27 @@ styles: []
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Hold Your Head Up
-2. Liar
-3. Tragedy
-4. Clown
-5. Dance In The Smoke
-6. God Gave Rock & Roll To You
-7. It's Only Money (Pt 2)
-8. Thunder & Lightning
-9. Schoolgirl
-10. Keep On Rollin'
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Hold Your Head Up |  |
+| A2 | Liar |  |
+| A3 | Tragedy |  |
+| A4 | Clown |  |
+| A5 | Dance In The Smoke |  |
+| B1 | God Gave Rock & Roll To You |  |
+| B2 | It's Only Money (Pt 2) |  |
+| B3 | Thunder & Lightning |  |
+| B4 | Schoolgirl |  |
+| B5 | Keep On Rollin' |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/hold-your-head-up-karaoke-version-in-the-style-of/823508529" >}}<br>
-
 
 
 

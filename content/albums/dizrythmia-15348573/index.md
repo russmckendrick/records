@@ -4,6 +4,7 @@ artist_name: "Split Enz"
 artist: "split-enz"
 album_name: "Dizrythmia"
 date: 2020-05-26T13:00:37.000000Z
+release_date: "1977-08-29"
 release_id: "15348573"
 slug: "dizrythmia-15348573"
 hideSummary: true
@@ -36,31 +37,29 @@ Tim Finn coughs forty-four seconds into "Nice to Know", a feature erroneously le
 Both Tim Finn and Eddie Rayner were disappointed with the final mix of "Charlie", feeling that the vocals sounded very flat. Geoff Emerick, the engineer for the album, thought it was a beautiful vocal, however, so it stayed.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Bold As Brass
-2. My Mistake
-3. Parrot Fashion Love
-4. Sugar And Spice
-5. Without A Doubt
-6. Crosswords
-7. Charley
-8. Nice To Know
-9. Jamboree
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Bold As Brass |  |
+| A2 | My Mistake |  |
+| A3 | Parrot Fashion Love |  |
+| A4 | Sugar And Spice |  |
+| A5 | Without A Doubt |  |
+| B1 | Crosswords |  |
+| B2 | Charley |  |
+| B3 | Nice To Know |  |
+| B4 | Jamboree |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dizrythmia/1629184668" >}}<br>
 
 
-## Videos
-### Split Enz - Bold As Brass Official Video
-{{< youtube id="gTO8lUYi7lc" title="Split Enz - Bold As Brass Official Video" >}}<br>
-### More Videos
-
-- [Split Enz - My Mistake Official Video](https://www.youtube.com/watch?v=LjUoaP8xbSQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +71,5 @@ Both Tim Finn and Eddie Rayner were disappointed with the final mix of "Charlie"
 | Format         | Vinyl LP Album Reissue Remastered (Red, 180g) |
 | Label          | Demon Records |
 | Catalog Number | DEMREC539 |
-| Notes | Comes with a printed inner sleeve which has the lyrics and credits.  Track B2 is shown as "Charlie" on the inner sleeve.  [From hype sticker] Newly remastered from the original master tapes Pressed on red heavyweight 180g vinyl  [From back cover] Recorded at Air Studios, London. W.1. June/July 1977 Originally ℗ 1977 Chrysalis Records Limited. This reissue ℗ & © 2020 Chrysalis Records Limited. Licensed from Chrysalis Records Limited. Marketed by Demon Records, a division of Demon Music Group Ltd, London, W12 7FA. The Demon Music Group is a BBC Studios Company. Manufactured in the EU.  [From inner sleeve] Lest we forget old troupers Phil and Jonathan. Sonor drums and percussion by Mai Jacobson, Drum world, Melbourne A Bunyip International Production by arrangement with Mushroom Records, Australia. Originally ℗ 1977 Chrysalis Records Limited. This reissue ℗ & © 2020 Chrysalis Records Limited. Licensed from Chrysalis Records Limited. Marketed by Demon Records, a division of Demon Music Group Ltd, London, W12 7FA The Demon Music Group is a BBC Studios Company. Manufactured in the EU.  [Publishing] A1, A3 to B1, B3, B4 <> Bucks Music Group Ltd A2 <> Bucks Music Group Ltd / Sony/ATV Music Publishing (UK) Limited B2 <> Kobalt Music Publishing Ltd  [From labels] Originally ℗ 1977 Chrysalis Records Limited. This reissue ℗ & © 2020 Chrysalis Records Limited. Licensed from Chrysalis Records Limited. Manufactured in E.U.  Runouts are engraved |
+| Notes | Comes with a printed inner sleeve which has the lyrics and credits.<br><br>Track B2 is shown as "Charlie" on the inner sleeve.<br><br>[From hype sticker]<br>Newly remastered from the original master tapes<br>Pressed on red heavyweight 180g vinyl<br><br>[From back cover]<br>Recorded at Air Studios, London. W.1. June/July 1977<br>Originally ℗ 1977 Chrysalis Records Limited. This reissue ℗ & © 2020 Chrysalis Records Limited. Licensed from Chrysalis Records Limited.<br>Marketed by Demon Records, a division of Demon Music Group Ltd, London, W12 7FA.<br>The Demon Music Group is a BBC Studios Company. Manufactured in the EU.<br><br>[From inner sleeve]<br>Lest we forget old troupers Phil and Jonathan.<br>Sonor drums and percussion by Mai Jacobson, Drum world, Melbourne<br>A Bunyip International Production by arrangement with Mushroom Records, Australia.<br>Originally ℗ 1977 Chrysalis Records Limited.<br>This reissue ℗ & © 2020 Chrysalis Records Limited.<br>Licensed from Chrysalis Records Limited.<br>Marketed by Demon Records, a division of Demon Music Group Ltd, London, W12 7FA<br>The Demon Music Group is a BBC Studios Company.<br>Manufactured in the EU.<br><br>[Publishing]<br>A1, A3 to B1, B3, B4 <> Bucks Music Group Ltd<br>A2 <> Bucks Music Group Ltd / Sony/ATV Music Publishing (UK) Limited<br>B2 <> Kobalt Music Publishing Ltd<br><br>[From labels]<br>Originally ℗ 1977 Chrysalis Records Limited. This reissue ℗ & © 2020 Chrysalis Records Limited.<br>Licensed from Chrysalis Records Limited.<br>Manufactured in E.U.<br><br>Runouts are engraved |
 | Discogs URL    | [Split Enz - Dizrythmia](https://www.discogs.com/release/15348573-Split-Enz-Dizrythmia) |

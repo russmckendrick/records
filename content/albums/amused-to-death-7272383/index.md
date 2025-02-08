@@ -4,6 +4,7 @@ artist_name: "Roger Waters"
 artist: "roger-waters"
 album_name: "Amused To Death"
 date: 2015-08-09T08:41:16.000000Z
+release_date: "1992-09-01"
 release_id: "7272383"
 slug: "amused-to-death-7272383"
 hideSummary: true
@@ -29,48 +30,34 @@ Amused to Death is the third studio album by English musician Roger Waters, rele
 In 2015, the album was remastered and re-released with new artwork and in different formats, including a new 5.1 surround sound mix by original engineer James Guthrie, assisted by Joel Plante.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Ballad Of Bill Hubbard (4:19)
-2. What God Wants, Part I (6:00)
-3. Perfect Sense, Part I (4:16)
-4. Perfect Sense, Part II (2:50)
-5. The Bravery Of Being Out Of Range (4:43)
-6. Late Home Tonight, Part I (4:00)
-7. Late Home Tonight, Part II (2:13)
-8. Too Much Rope (5:47)
-9. What God Wants, Part II (3:41)
-10. What God Wants, Part III (4:08)
-11. Watching TV (6:07)
-12. Three Wishes (6:50)
-13. It's A Miracle (8:30)
-14. Amused To Death (9:06)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Ballad Of Bill Hubbard | 4:19 |
+| A2 | What God Wants, Part I | 6:00 |
+| A3 | Perfect Sense, Part I | 4:16 |
+| A4 | Perfect Sense, Part II | 2:50 |
+| B1 | The Bravery Of Being Out Of Range | 4:43 |
+| B2 | Late Home Tonight, Part I | 4:00 |
+| B3 | Late Home Tonight, Part II | 2:13 |
+| B4 | Too Much Rope | 5:47 |
+| B5 | What God Wants, Part II | 3:41 |
+| C1 | What God Wants, Part III | 4:08 |
+| C2 | Watching TV | 6:07 |
+| C3 | Three Wishes | 6:50 |
+| D1 | It's A Miracle | 8:30 |
+| D2 | Amused To Death | 9:06 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/amused-to-death/975952384" >}}<br>
 
 
-## Videos
-### Roger Waters - What God Wants Pt 1
-{{< youtube id="wtq1_peTXbw" title="Roger Waters - What God Wants Pt 1" >}}<br>
-### More Videos
-
-- [The Ballad of Bill Hubbard](https://www.youtube.com/watch?v=EIzgTL5NDT8)
-- [Roger Waters - Three Wishes](https://www.youtube.com/watch?v=SWEPrenL5d8)
-- [Perfect Sense Pt I](https://www.youtube.com/watch?v=7CoT8RyIwwk)
-- [Perfect Sense Pt II](https://www.youtube.com/watch?v=eYG7INhXFjc)
-- [The Bravery of Being Out of Range](https://www.youtube.com/watch?v=QDFTHiJR63U)
-- [Late Home Tonight Pt I](https://www.youtube.com/watch?v=_QGNAm5cHTo)
-- [Late Home Tonight Pt II](https://www.youtube.com/watch?v=isVAEXdKBS4)
-- [Too Much Rope](https://www.youtube.com/watch?v=Vz65-1wXoLY)
-- [What God Wants Pt II](https://www.youtube.com/watch?v=e4TMbtgmrH0)
-- [What God Wants Pt III](https://www.youtube.com/watch?v=OccmcfZ9ZnY)
-- [Watching TV](https://www.youtube.com/watch?v=Ca3PnHFgJ54)
-- [Its a Miracle](https://www.youtube.com/watch?v=yxuUjLP5GiY)
-- [Amused to Death](https://www.youtube.com/watch?v=zpotZUiKLbU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -82,5 +69,5 @@ In 2015, the album was remastered and re-released with new artwork and in differ
 | Format         | Vinyl 2× LP Album Limited Edition Numbered Picture Disc (Remixed) |
 | Label          | Columbia |
 | Catalog Number | 88875065801 |
-| Notes | New 2015 remix completed by James Guthrie.  "The 2015 Limited Edition, numbered 2 LP picture disc vinyl features art by Sean Evans, the creative director of Waters 2010-2013 "The Wall Live" tour and movie. The materials used to create picture discs and color vinyl are not the same as traditional vinyl. Picture discs will have an inherent surface noise in playback."  Pressed By information is not listed. Information derived from runouts.   |
+| Notes | New 2015 remix completed by James Guthrie.<br><br>"The 2015 Limited Edition, numbered 2 LP picture disc vinyl features art by Sean Evans, the creative director of Waters 2010-2013 "The Wall Live" tour and movie.<br>The materials used to create picture discs and color vinyl are not the same as traditional vinyl. Picture discs will have an inherent surface noise in playback."<br><br>Pressed By information is not listed. Information derived from runouts. <br> |
 | Discogs URL    | [Roger Waters - Amused To Death](https://www.discogs.com/release/7272383-Roger-Waters-Amused-To-Death) |

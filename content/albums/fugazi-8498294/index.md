@@ -4,6 +4,7 @@ artist_name: "Fugazi"
 artist: "fugazi"
 album_name: "Fugazi"
 date: 2020-01-08T18:58:15.000000Z
+release_date: "2016-09-26"
 release_id: "8498294"
 slug: "fugazi-8498294"
 hideSummary: true
@@ -28,35 +29,27 @@ Fugazi is the second studio album by the British neo-prog band Marillion, releas
 The album is titled after a military slang term well known at the time of release. According to AllMusic, the album "streamlined the intricacies of the group's prog rock leanings in favour of a more straight-ahead hard rock identity". Built upon the success of its predecessor, Script for a Jester's Tear, Fugazi reached the UK top five and was certified Gold.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Waiting Room
-2. Bulldog Front
-3. Bad Mouth
-4. Burning
-5. Give Me The Cure
-6. Suggestion
-7. Glue Man
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Waiting Room |  |
+| A2 | Bulldog Front |  |
+| A3 | Bad Mouth |  |
+| A4 | Burning |  |
+| B1 | Give Me The Cure |  |
+| B2 | Suggestion |  |
+| B3 | Glue Man |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fugazi/1146405132" >}}<br>
 
 
-## Videos
-### Fugazi - Fugazi 1988 Full EP
-{{< youtube id="d06_Yl-mHE0" title="Fugazi - Fugazi 1988 Full EP" >}}<br>
-### More Videos
-
-- [Waiting Room](https://www.youtube.com/watch?v=C3LXkdpHNOQ)
-- [Bulldog Front](https://www.youtube.com/watch?v=yC1kzGqx5lU)
-- [Bad Mouth](https://www.youtube.com/watch?v=mVOyzEvtPXQ)
-- [Burning](https://www.youtube.com/watch?v=0gnXPmXPCUQ)
-- [Give Me The Cure](https://www.youtube.com/watch?v=kOskUqX4mBs)
-- [Suggestion](https://www.youtube.com/watch?v=7rASGknTU4o)
-- [Glue Man](https://www.youtube.com/watch?v=KT4j9AVw7Co)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +61,5 @@ The album is titled after a military slang term well known at the time of releas
 | Format         | Vinyl 12" 33 ⅓ RPM EP Reissue Remastered |
 | Label          | Dischord Records |
 | Catalog Number | Dischord 30 |
-| Notes | Cat# appears as Dischord 30 on label, as DISCHORD 30 on spine.  Barcode is on a sticker on the plastic. No barcode on album sleeve.  Sticker on front cover (on the plastic): "Free album downloaded included with this LP - Vinyl Remastered From Original Source Tapes - Coupon & MP3 Download Details Enclosed"  Comes with 12-digit MP3 download code from Dischord records.  Made in USA (on back cover) Made in France (on labels)  No price on this version.  Dischord Records 3819 Beecher St NW Washington, DC 20007  © 1988 Dischord  All songs © Fugazi |
+| Notes | Cat# appears as Dischord 30 on label, as DISCHORD 30 on spine.<br><br>Barcode is on a sticker on the plastic. No barcode on album sleeve.<br><br>Sticker on front cover (on the plastic): "Free album downloaded included with this LP - Vinyl Remastered From Original Source Tapes - Coupon & MP3 Download Details Enclosed"<br><br>Comes with 12-digit MP3 download code from Dischord records.<br><br>Made in USA (on back cover)<br>Made in France (on labels)<br><br>No price on this version.<br><br>Dischord Records<br>3819 Beecher St NW<br>Washington, DC 20007<br><br>© 1988 Dischord<br><br>All songs © Fugazi |
 | Discogs URL    | [Fugazi - Fugazi](https://www.discogs.com/release/8498294-Fugazi-Fugazi) |

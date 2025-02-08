@@ -4,6 +4,7 @@ artist_name: "The Psychedelic Furs"
 artist: "the-psychedelic-furs"
 album_name: "The Best Of The Psychedelic Furs"
 date: 2021-07-03T06:10:01.000000Z
+release_date: "2011-04-25"
 release_id: "19345039"
 slug: "the-best-of-the-psychedelic-furs-19345039"
 hideSummary: true
@@ -21,23 +22,28 @@ styles: ["Alternative Rock", "New Wave"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Love My Way
-2. Pretty In Pink
-3. The Ghost In You
-4. Sister Europe
-5. Heaven
-6. Heartbeat
-7. India
-8. President Gas
-9. House
-10. All That Money Wants
-11. Don't Believe
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Love My Way |  |
+| A2 | Pretty In Pink |  |
+| A3 | The Ghost In You |  |
+| A4 | Sister Europe |  |
+| A5 | Heaven |  |
+| A6 | Heartbeat |  |
+| B1 | India |  |
+| B2 | President Gas |  |
+| B3 | House |  |
+| B4 | All That Money Wants |  |
+| B5 | Don't Believe |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/heaven-the-best-of-the-psychedelic-furs/433444062" >}}<br>
-
 
 
 

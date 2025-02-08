@@ -37,31 +37,22 @@ The Number of the Beast was met with critical and commercial success, and became
 
 
 ## Tracklisting
-1. Invaders (3:20)
-2. Children Of The Damned (4:34)
-3. The Prisoner (5:34)
-4. 22 Acacia Avenue (6:34)
-5. The Number Of The Beast (4:25)
-6. Run To The Hills (3:50)
-7. Gangland (3:46)
-8. Hallowed Be Thy Name (7:08)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Invaders | 3:20 |
+| A2 | Children Of The Damned | 4:34 |
+| A3 | The Prisoner | 5:34 |
+| A4 | 22 Acacia Avenue | 6:34 |
+| B1 | The Number Of The Beast | 4:25 |
+| B2 | Run To The Hills | 3:50 |
+| B3 | Gangland | 3:46 |
+| B4 | Hallowed Be Thy Name | 7:08 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-number-of-the-beast/979953728" >}}<br>
 
 
-## Videos
-### Iron Maiden - The Number Of The Beast Official Video
-{{< youtube id="WxnN05vOuSM" title="Iron Maiden - The Number Of The Beast Official Video" >}}<br>
-### More Videos
-
-- [Iron Maiden - Run To The Hills Official Video](https://www.youtube.com/watch?v=86URGgqONvA)
-- [Invaders 2015 Remaster](https://www.youtube.com/watch?v=iQ5JAxPqum0)
-- [Children of the Damned 2015 Remaster](https://www.youtube.com/watch?v=wsuj2uhGBvY)
-- [The Prisoner 2015 Remaster](https://www.youtube.com/watch?v=MLYdFSaE4tk)
-- [22 Acacia Avenue 2015 Remaster](https://www.youtube.com/watch?v=T5WpPLRrhac)
-- [Gangland 2015 Remaster](https://www.youtube.com/watch?v=YMIKgVnB0ig)
-- [Hallowed Be Thy Name 2015 Remaster](https://www.youtube.com/watch?v=HAQQUDbuudY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +64,5 @@ The Number of the Beast was met with critical and commercial success, and became
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Parlophone |
 | Catalog Number | 2564625240 |
-| Notes | Printed in EU on backside cover.  Made in EU in rim text on label.  Glossy cover and printed inner sleeve with photos, lyrics & credits.  Iron Maiden wanna thank the following for their support: [a2089275], Vic "Crazy Innit" Vela, Tony "Wiggy" Wigens, Nigel Gibbons, Colin "know wot I mean John" Claydon, Doug "Professor" Hall, [a2089267], Pete Brotzman, Pete "Institute' Kirkman, Dave "Alright shirt" Evans, [a6784522]: Loopey: Ronan, Roger and Derek at [a4792921]: Charlie Kail and his Brilliant Constructions: Neal Peppé: Derek "Blood 'n' Guts everywhere" Riggs: Home Boy: John "We want more" Jackson: [a3438994]: Howard "Hawk-eye" Jones: Alex "Alectron" Alexandro: Mike Kenny: Bernie, NoNo, ViVi, Moro (Trust): Nico: Maurice, Thomas, Werner, Albert, Alain, Franco, Max, Leon, Andre, Mr. Udo, Tak, Ishi and Carlos - the promotors: Tama, Ibanez, Paiste, Picato, Marshall, Rotosound: R.S.D.: [a1456861]: [a4771539]: Auntie Tina: Paul Ratsworthy: Ken Jenkins: Paull Sears: [a4344760]: Phil Aquilina. Special thanks to [a153073], Priest and [a153677].  This album is dedicated to Headbangers, Earthdogs, Rivet Heads, Hell Rats and Metal Maniacs everywhere! See you on tour!  This album was recorded on Ruddles, with a little help from Remy and Carlsberg. "Up The Irons". |
+| Notes | Printed in EU on backside cover.<br><br>Made in EU in rim text on label.<br><br>Glossy cover and printed inner sleeve with photos, lyrics & credits.<br><br>Iron Maiden wanna thank the following for their support: [a2089275], Vic "Crazy Innit" Vela, Tony "Wiggy" Wigens, Nigel Gibbons, Colin "know wot I mean John" Claydon, Doug "Professor" Hall, [a2089267], Pete Brotzman, Pete "Institute' Kirkman, Dave "Alright shirt" Evans, [a6784522]: Loopey: Ronan, Roger and Derek at [a4792921]: Charlie Kail and his Brilliant Constructions: Neal Peppé: Derek "Blood 'n' Guts everywhere" Riggs: Home Boy: John "We want more" Jackson: [a3438994]: Howard "Hawk-eye" Jones: Alex "Alectron" Alexandro: Mike Kenny: Bernie, NoNo, ViVi, Moro (Trust): Nico: Maurice, Thomas, Werner, Albert, Alain, Franco, Max, Leon, Andre, Mr. Udo, Tak, Ishi and Carlos - the promotors: Tama, Ibanez, Paiste, Picato, Marshall, Rotosound: R.S.D.: [a1456861]: [a4771539]: Auntie Tina: Paul Ratsworthy: Ken Jenkins: Paull Sears: [a4344760]: Phil Aquilina.<br>Special thanks to [a153073], Priest and [a153677].<br><br>This album is dedicated to Headbangers, Earthdogs, Rivet Heads, Hell Rats and Metal Maniacs everywhere! See you on tour!<br><br>This album was recorded on Ruddles, with a little help from Remy and Carlsberg. "Up The Irons". |
 | Discogs URL    | [Iron Maiden - The Number Of The Beast](https://www.discogs.com/release/6191421-Iron-Maiden-The-Number-Of-The-Beast) |

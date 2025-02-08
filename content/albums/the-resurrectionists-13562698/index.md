@@ -4,6 +4,7 @@ artist_name: "Crippled Black Phoenix"
 artist: "crippled-black-phoenix"
 album_name: "The Resurrectionists"
 date: 2019-05-01T17:55:15.000000Z
+release_date: "2009-01-01"
 release_id: "13562698"
 slug: "the-resurrectionists-13562698"
 hideSummary: true
@@ -24,33 +25,30 @@ styles: ["Post Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Burnt Reynolds
-2. Rise Up And Fight
-3. Whissendine
-4. Crossing The Bar
-5. 200 Tons Of Bad Luck
-6. Please Do Not Stay Here
-7. Song For The Loved
-8. A Hymn For A Lost Soul
-9. 444
-10. Littlestep
-11. Human Nature Dictates The Downfall Of Humans
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Burnt Reynolds |  |
+| A2 | Rise Up And Fight |  |
+| A3 | Whissendine |  |
+| B1 | Crossing The Bar |  |
+| B2 | 200 Tons Of Bad Luck |  |
+| B3 | Please Do Not Stay Here |  |
+| C1 | Song For The Loved |  |
+| C2 | A Hymn For A Lost Soul |  |
+| D1 | 444 |  |
+| D2 | Littlestep |  |
+| D3 | Human Nature Dictates The Downfall Of Humans |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-resurrectionists-remastered/1458796610" >}}<br>
 
 
-## Videos
-### Crippled Black Phoenix - 444
-{{< youtube id="BYFOhIoDvcc" title="Crippled Black Phoenix - 444" >}}<br>
-### More Videos
-
-- [Burnt Reynolds - Crippled Black Phoenix](https://www.youtube.com/watch?v=NEdlia-p8xc)
-- [Crippled black phoenix - Song for the loved](https://www.youtube.com/watch?v=6tmPo9F5wgw)
-- [200 Tons of Bad Luck Remastered](https://www.youtube.com/watch?v=rwPIbMiYUMQ)
-- [Rise up and Fight Remastered](https://www.youtube.com/watch?v=GO7yxjWo77c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +59,5 @@ styles: ["Post Rock", "Prog Rock"]
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo |
 | Label          | Kscope |
 | Catalog Number | KSCOPE916 |
-| Notes | Both LPs in one single non-glossy cardboard sleeve, each in black inner sleeve (paper with antistatic foil). No durations listed on release.  On labels: ℗ 2011 Crippled Black Phoenix © 2019 Crippled Black Phoenix  On sleeve back: ℗ 2011 Crippled Black Phoenix © 2019 Snapper Music Ltd. The copyright in this sound recording is owned by Snapper Music Ltd. Kscope is a Snapper Music label.  |
+| Notes | Both LPs in one single non-glossy cardboard sleeve, each in black inner sleeve (paper with antistatic foil).<br>No durations listed on release.<br><br>On labels:<br>℗ 2011 Crippled Black Phoenix © 2019 Crippled Black Phoenix<br><br>On sleeve back:<br>℗ 2011 Crippled Black Phoenix © 2019 Snapper Music Ltd.<br>The copyright in this sound recording is owned by Snapper Music Ltd.<br>Kscope is a Snapper Music label.  |
 | Discogs URL    | [Crippled Black Phoenix - The Resurrectionists](https://www.discogs.com/release/13562698-Crippled-Black-Phoenix-The-Resurrectionists) |

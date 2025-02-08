@@ -4,6 +4,7 @@ artist_name: "Wilco"
 artist: "wilco"
 album_name: "Ode To Joy"
 date: 2019-10-05T15:31:35.000000Z
+release_date: "2019-10-04"
 release_id: "14212648"
 slug: "ode-to-joy-14212648"
 hideSummary: true
@@ -26,33 +27,31 @@ styles: []
 ---
 
 Ode to Joy is the eleventh studio album by the American rock band Wilco, released on October 4, 2019, by dBpm Records. The release has received positive reviews.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Bright Leaves
-2. Before Us
-3. One And A Half Stars
-4. Quiet Amplifier
-5. Everyone Hides
-6. White Wooden Cross
-7. Citizens
-8. We Were Lucky
-9. Love Is Everywhere (Beware)
-10. Hold Me Anyway
-11. An Empty Corner
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Bright Leaves |  |
+| A2 | Before Us |  |
+| A3 | One And A Half Stars |  |
+| A4 | Quiet Amplifier |  |
+| A5 | Everyone Hides |  |
+| B6 | White Wooden Cross |  |
+| B7 | Citizens |  |
+| B8 | We Were Lucky |  |
+| B9 | Love Is Everywhere (Beware) |  |
+| B10 | Hold Me Anyway |  |
+| B11 | An Empty Corner |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ode-to-joy/1690693254" >}}<br>
 
 
-## Videos
-### Wilco Everyone Hides Official Video
-{{< youtube id="P2Gbbd6pVMg" title="Wilco Everyone Hides Official Video" >}}<br>
-### More Videos
-
-- [Wilco Everyone Hides Official Video](https://www.youtube.com/watch?v=P2Gbbd6pVMg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +63,5 @@ Ode to Joy is the eleventh studio album by the American rock band Wilco, release
 | Format         | Vinyl LP Album Limited Edition (Pink) |
 | Label          | dBpm Records |
 | Catalog Number | DBPM-010-20-LP |
-| Notes | Includes a printed insert. Tracks are continuously numbered across sides.  ℗ © 2019 dBpm Records.  Recorded at The Loft - Chicago  All songs [...] published by Words Ampersand Music (BMI). Administered worldwide by BMG Rights Management. |
+| Notes | Includes a printed insert.<br>Tracks are continuously numbered across sides.<br><br>℗ © 2019 dBpm Records.<br><br>Recorded at The Loft - Chicago<br><br>All songs [...] published by Words Ampersand Music (BMI).<br>Administered worldwide by BMG Rights Management. |
 | Discogs URL    | [Wilco - Ode To Joy](https://www.discogs.com/release/14212648-Wilco-Ode-To-Joy) |

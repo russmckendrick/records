@@ -4,6 +4,7 @@ artist_name: "Mental As Anything"
 artist: "mental-as-anything"
 album_name: "Surf & Mull & Sex & Fun: The Classic Recordings Of Mental As Anything"
 date: 2021-03-06T08:46:24.000000Z
+release_date: ""
 release_id: "17667739"
 slug: "surf-mull-sex-fun-the-classic-recordings-of-mental-as-anything-17667739"
 hideSummary: true
@@ -18,46 +19,45 @@ styles: ["Rock & Roll", "Pub Rock", "Pop Rock", "New Wave"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. The Nips Are Getting Bigger
-2. Egypt
-3. (Just Like) Romeo And Juliet
-4. Come Around
-5. Too Many Times
-6. If You Leave Me Can I Come Too?
-7. Berserk Warriors
-8. Let's Cook
-9. I Didn't Mean To Be Mean
-10. Close Again
-11. Spirit Got Lost
-12. Brain Brain
-13. Working For The Man
-14. Apocalypso (Wiping The Smile Off Santa's Face)
-15. You're So Strong
-16. Live It Up
-17. Date With Destiny
-18. Let's Go To Paradise
-19. He's Just No Good For You
-20. Don't Tell Me Now
-21. Concrete And Clay
-22. Rock 'N' Roll Music
-23. The World Seems Difficult
-24. Mr. Natural
-25. Nigel
-26. Surf & Mull & Sex & Fun
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Nips Are Getting Bigger |  |
+| A2 | Egypt |  |
+| A3 | (Just Like) Romeo And Juliet |  |
+| A4 | Come Around |  |
+| A5 | Too Many Times |  |
+| A6 | If You Leave Me Can I Come Too? |  |
+| A7 | Berserk Warriors |  |
+| A8 | Let's Cook |  |
+| B1 | I Didn't Mean To Be Mean |  |
+| B2 | Close Again |  |
+| B3 | Spirit Got Lost |  |
+| B4 | Brain Brain |  |
+| B5 | Working For The Man |  |
+| B6 | Apocalypso (Wiping The Smile Off Santa's Face) |  |
+| C1 | You're So Strong |  |
+| C2 | Live It Up |  |
+| C3 | Date With Destiny |  |
+| C4 | Let's Go To Paradise |  |
+| C5 | He's Just No Good For You |  |
+| C6 | Don't Tell Me Now |  |
+| D1 | Concrete And Clay |  |
+| D2 | Rock 'N' Roll Music |  |
+| D3 | The World Seems Difficult |  |
+| D4 | Mr. Natural |  |
+| D5 | Nigel |  |
+| D6 | Surf & Mull & Sex & Fun |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Mental As Anything   Live It Up
-{{< youtube id="kK_eQImKnPA" title="Mental As Anything   Live It Up" >}}<br>
-### More Videos
 
-- [MENTAL AS ANYTHING THE NIPS ARE GETTING BIGGER](https://www.youtube.com/watch?v=VVnLJQIJw2Y)
-- [Mental As Anything - If You Leave Me popular version 1981](https://www.youtube.com/watch?v=tSGtg26-TpU)
-- [Mental As Anything - Rock and Roll Music](https://www.youtube.com/watch?v=ZYW5PHqBwgM)
-- [Mental As Anything - The World Seems Difficult 1989](https://www.youtube.com/watch?v=j5aFABRQPQQ)
 
 ## Release Images
 {{< imageGrid >}}

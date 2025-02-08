@@ -4,6 +4,7 @@ artist_name: "Aphex Twin"
 artist: "aphex-twin"
 album_name: "Richard D. James Album"
 date: 2015-08-09T08:44:17.000000Z
+release_date: "1996-11-04"
 release_id: "3979643"
 slug: "richard-d-james-album-3979643"
 hideSummary: true
@@ -25,33 +26,30 @@ Richard D. James Album is the fourth studio album by the British electronic musi
 Richard D. James Album entered the Dance Albums Chart at No. 7, and reached No. 62 on the Albums Chart. In the US it charted at No. 20 on Billboard's Top Heatseekers Albums chart. It had sold over 100,000 units by 1997, making it Warp's most commercially successful release at the time. It received critical acclaim, with much of the praise going to its production. It has since been described as one of the best albums of 1996 and the 1990s overall by music critics.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. 4
-2. Cornish Acid
-3. Peek 824545201
-4. Fingerbib
-5. Carn Marth
-6. To Cure A Weakling Child
-7. Goon Gumpas
-8. Yellow Calx
-9. Girl/Boy Song
-10. Logan-Rock Witch
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | 4 |  |
+| A2 | Cornish Acid |  |
+| A3 | Peek 824545201 |  |
+| A4 | Fingerbib |  |
+| A5 | Carn Marth |  |
+| B1 | To Cure A Weakling Child |  |
+| B2 | Goon Gumpas |  |
+| B3 | Yellow Calx |  |
+| B4 | Girl/Boy Song |  |
+| B5 | Logan-Rock Witch |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/richard-d-james-album/281111401" >}}<br>
 
 
-## Videos
-### 4
-{{< youtube id="7WAa3tY6cfo" title="4" >}}<br>
-### More Videos
-
-- [Cornish Acid](https://www.youtube.com/watch?v=zPzgeK8tBp0)
-- [Fingerbib](https://www.youtube.com/watch?v=Sz0FxOZk_L4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +61,5 @@ Richard D. James Album entered the Dance Albums Chart at No. 7, and reached No. 
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Warp Records |
 | Catalog Number | WARP LP 43 |
-| Notes | Official Warp repress Heavyweight 180g vinyl Includes download code  ℗ Warp 1996 © Warp 1996 (Richard D. James)  Written-By, Producer, Sleeve, Design are credited to "Me".  Made in England.  Top opening on cover. |
+| Notes | Official Warp repress<br>Heavyweight 180g vinyl<br>Includes download code<br><br>℗ Warp 1996 © Warp 1996 (Richard D. James)<br><br>Written-By, Producer, Sleeve, Design are credited to "Me".<br><br>Made in England.<br><br>Top opening on cover. |
 | Discogs URL    | [Aphex Twin - Richard D. James Album](https://www.discogs.com/release/3979643-Aphex-Twin-Richard-D-James-Album) |

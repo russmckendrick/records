@@ -4,6 +4,7 @@ artist_name: "My Bloody Valentine"
 artist: "my-bloody-valentine"
 album_name: "Loveless"
 date: 2021-05-21T05:28:44.000000Z
+release_date: "2020-05-01"
 release_id: "18793696"
 slug: "loveless-18793696"
 hideSummary: true
@@ -32,39 +33,31 @@ Preceded by the EPs Glider (1990) and Tremolo (1991), Loveless reached number 24
 Since its release, Loveless has been widely cited by critics as one of the greatest albums of all time, a landmark work of the shoegaze subgenre, and as a significant influence on various subsequent artists. In 2012, it was reissued as a two-CD set, including remastered tracks and a previously unreleased half-inch analogue tape version, and peaked on several international charts. In 2013, Loveless was certified silver by the British Phonographic Industry (BPI).
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Only Shallow
-2. Loomer
-3. Touched
-4. To Here Knows When
-5. When You Sleep
-6. I Only Said
-7. Come In Alone
-8. Sometimes
-9. Blown A Wish
-10. What You Want
-11. Soon
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Only Shallow |  |
+| A2 | Loomer |  |
+| A3 | Touched |  |
+| A4 | To Here Knows When |  |
+| A5 | When You Sleep |  |
+| A6 | I Only Said |  |
+| B1 | Come In Alone |  |
+| B2 | Sometimes |  |
+| B3 | Blown A Wish |  |
+| B4 | What You Want |  |
+| B5 | Soon |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bloody-valentine-single/1509541650" >}}<br>
 
 
-## Videos
-### My Bloody Valentine - Only Shallow Official Music Video
-{{< youtube id="FyYMzEplnfU" title="My Bloody Valentine - Only Shallow Official Music Video" >}}<br>
-### More Videos
-
-- [My Bloody Valentine - To Here Knows When Official Music Video](https://www.youtube.com/watch?v=xdHS1sbV5xw)
-- [My Bloody Valentine - Soon Official Music Video](https://www.youtube.com/watch?v=ft56il9bGMk)
-- [when you sleep](https://www.youtube.com/watch?v=hcOhXThqh_0)
-- [sometimes](https://www.youtube.com/watch?v=hSI_9P9rRt4)
-- [My Bloody Valentine - loveless Full Album](https://www.youtube.com/watch?v=bRtGBlOVLCk)
-- [my bloody valentine - when you sleep](https://www.youtube.com/watch?v=BJLcbj80Ka8)
-- [The story of Loveless by My Bloody Valentine](https://www.youtube.com/watch?v=PKJVG9u3ZLI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -76,5 +69,5 @@ Since its release, Loveless has been widely cited by critics as one of the great
 | Format         | Vinyl LP Album Deluxe Edition Reissue Repress (Gatefold) |
 | Label          | Domino |
 | Catalog Number | REWIGLP159X |
-| Notes | Deluxe edition on heavyweight vinyl. Comes in a gatefold tip-on jacket and board-mounted sleeve. Fully analog cut. Includes a printed poly-lined inner sleeve and a download card with choices of MP3 and 16-bit or 24-bit WAV. Repress of the 2018 analog remaster [r=11439719].  Made in the EU  Unopened, this version appears identical to [r=21223558]. They can however be distinguished by weight: this one weighs 475g, the other 585g.  The runouts are hand-etched. |
+| Notes | Deluxe edition on heavyweight vinyl. Comes in a gatefold tip-on jacket and board-mounted sleeve.<br>Fully analog cut.<br>Includes a printed poly-lined inner sleeve and a download card with choices of MP3 and 16-bit or 24-bit WAV.<br>Repress of the 2018 analog remaster [r=11439719].<br><br>Made in the EU<br><br>Unopened, this version appears identical to [r=21223558]. They can however be distinguished by weight: this one weighs 475g, the other 585g.<br><br>The runouts are hand-etched. |
 | Discogs URL    | [My Bloody Valentine - Loveless](https://www.discogs.com/release/18793696-My-Bloody-Valentine-Loveless) |

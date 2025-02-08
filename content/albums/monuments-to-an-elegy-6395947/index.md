@@ -4,6 +4,7 @@ artist_name: "The Smashing Pumpkins"
 artist: "the-smashing-pumpkins"
 album_name: "Monuments To An Elegy"
 date: 2015-08-09T08:30:15.000000Z
+release_date: "2014-12-08"
 release_id: "6395947"
 slug: "monuments-to-an-elegy-6395947"
 hideSummary: true
@@ -26,32 +27,29 @@ Monuments to an Elegy is the ninth studio album by American alternative rock ban
 The album received generally positive reviews from music critics, but sold poorly compared to the band's previous albums, peaking at number 33 in the U.S. and number 59 in the U.K., thus making it (at the time) their lowest charting album in both regions since their debut, Gish (1991).
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Tiberius (3:02)
-2. Being Beige (3:39)
-3. Anaise! (3:33)
-4. One And All (We Are) (3:44)
-5. Run2Me (4:08)
-6. Drum + Fife (3:54)
-7. Monuments (3:30)
-8. Dorian (3:45)
-9. Anti-Hero (3:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Tiberius | 3:02 |
+| A2 | Being Beige | 3:39 |
+| A3 | Anaise! | 3:33 |
+| A4 | One And All (We Are) | 3:44 |
+| A5 | Run2Me | 4:08 |
+| B1 | Drum + Fife | 3:54 |
+| B2 | Monuments | 3:30 |
+| B3 | Dorian | 3:45 |
+| B4 | Anti-Hero | 3:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/monuments-to-an-elegy/930858267" >}}<br>
 
 
-## Videos
-### The Smashing Pumpkins - Tiberius Audio
-{{< youtube id="UHMSDYtxsu4" title="The Smashing Pumpkins - Tiberius Audio" >}}<br>
-### More Videos
-
-- [Monuments](https://www.youtube.com/watch?v=5nGo_QZKbOA)
-- [Anaise](https://www.youtube.com/watch?v=g5x7xxPC0UI)
 
 ## Release Images
 {{< imageGrid >}}

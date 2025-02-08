@@ -4,6 +4,7 @@ artist_name: "Oceansize"
 artist: "oceansize"
 album_name: "Frames"
 date: 2024-12-19T07:47:48.000000Z
+release_date: ""
 release_id: "32607300"
 slug: "frames-32607300"
 hideSummary: true
@@ -24,39 +25,31 @@ In May 2008, the band re-released the album with an accompanying DVD, featuring 
 The band played the album in full on 18 October 2008 in Manchester as part of a trilogy of shows that celebrated the band's ten-year anniversary.
 
 Vocalist/guitarist Mike Vennart states that: When Jon [Ellis] left I thought we were fucked. This is not a slight on Steven [Hodson], and I never said to anybody that I didn't think it would be as good any more, but I had a vibe about it. Then halfway through mixing it really started to make sense and I knew it would be something our fans would like. It's the kind of record they would want us to make, although I expect our hardcore fans to get it and hate and say "What have they done?" then a year later it'll be their favorite record.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Commemorative 9/11 T-Shirt
-2. Unfamiliar
-3. Trail of Fire
-4. Savant
-5. Only Twin
-6. An Old Friend Of The Christy's
-7. Sleeping Dogs And Dead Lions
-8. The Frame
-9. Voorhees
-10. Red Rag To A Bear
-11. Siberian Bullshit
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Commemorative 9/11 T-Shirt |  |
+| A2 | Unfamiliar |  |
+| B1 | Trail of Fire |  |
+| B2 | Savant |  |
+| C1 | Only Twin |  |
+| C2 | An Old Friend Of The Christy's |  |
+| D1 | Sleeping Dogs And Dead Lions |  |
+| D2 | The Frame |  |
+| E1 | Voorhees |  |
+| F1 | Red Rag To A Bear |  |
+| F2 | Siberian Bullshit |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Oceansize - Unfamiliar
-{{< youtube id="dFkyrRqzkIQ" title="Oceansize - Unfamiliar" >}}<br>
-### More Videos
 
-- [Commemorative T-shirt](https://www.youtube.com/watch?v=BZ5g_5Op4pA)
-- [Unfamiliar](https://www.youtube.com/watch?v=-Gdq9mw6ehQ)
-- [Trail of Fire](https://www.youtube.com/watch?v=u_WQdxKW2VM)
-- [Savant](https://www.youtube.com/watch?v=ZcVny4TKFkY)
-- [Only Twin](https://www.youtube.com/watch?v=b8S2I1dasMU)
-- [An Old Friend of the Christys](https://www.youtube.com/watch?v=vY1mr9CJVZQ)
-- [Sleeping Dogs and Dead Lions](https://www.youtube.com/watch?v=2s1E4uECl1Q)
-- [The Frame](https://www.youtube.com/watch?v=QThNbmBK0l4)
-- [Oceansize - The frame With lyrics](https://www.youtube.com/watch?v=1rjJ_qxiRzM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +61,5 @@ Vocalist/guitarist Mike Vennart states that: When Jon [Ellis] left I thought we 
 | Format         | Vinyl 3× LP Album |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1249 |
-| Notes | Hype sticker: Oceansize - Frames. Presented on 3LP for the first time. Includes "Voorhees". Plus 2 bonus tracks previously only available on myspace. 8 page booklet with previously unseen photos and essay by Remfry Dedman. kscope 1249. kscopemusic.com/Oceansize  Limited to 1000 copies - confirmed by Mike Vennart on Instagram. |
+| Notes | Hype sticker: Oceansize - Frames. Presented on 3LP for the first time. Includes "Voorhees". Plus 2 bonus tracks previously only available on myspace. 8 page booklet with previously unseen photos and essay by Remfry Dedman. kscope 1249. kscopemusic.com/Oceansize<br><br>Limited to 1000 copies - confirmed by Mike Vennart on Instagram. |
 | Discogs URL    | [Oceansize - Frames](https://www.discogs.com/release/32607300-Oceansize-Frames) |

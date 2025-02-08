@@ -4,6 +4,7 @@ artist_name: "Roxette"
 artist: "roxette"
 album_name: "Crash! Boom! Bang!"
 date: 2025-01-22T06:07:43.000000Z
+release_date: ""
 release_id: "32490318"
 slug: "crash-boom-bang-32490318"
 hideSummary: true
@@ -39,68 +40,38 @@ Crash! Boom! Bang! is the fifth studio album by Swedish pop rock duo Roxette, re
 Five singles were released from the album: lead single "Sleeping in My Car" became the duo's second number one in their home country, and peaked at number seven on Billboard's European Hot 100 Singles. It would become the duo's final track to appear on the Billboard Hot 100, where it peaked at number 50, and was also their last hit single in Australia. This was followed by the release of "Crash! Boom! Bang!", "Fireworks", "Run to You" and "Vulnerable". As of 2001, Crash! Boom! Bang! has sold in excess of 5 million copies worldwide. Japanese editions included "Almost Unreal" as a bonus track.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Harleys & Indians (Riders In The Sky) (3:44)
-2. Crash! Boom! Bang! (5:01)
-3. Fireworks (3:57)
-4. Run To You (3:39)
-5. Sleeping In My Car (3:46)
-6. Vulnerable (5:01)
-7. The First Girl On The Moon (3:01)
-8. Place Your Love (3:07)
-9. I Love The Sound Of Crashing Guitars (4:47)
-10. What's She Like (4:14)
-11. Do You Wanna Go The Whole Way (4:09)
-12. Lies (3:34)
-13. I'm Sorry (3:11)
-14. Love Is All (Shine Your Light On Me) (6:41)
-15. Go To Sleep (3:58)
-16. Almost Unreal (3:54)
-17. Crazy About You (3:57)
-18. See Me (3:45)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Harleys & Indians (Riders In The Sky) | 3:44 |
+| A2 | Crash! Boom! Bang! | 5:01 |
+| A3 | Fireworks | 3:57 |
+| A4 | Run To You | 3:39 |
+| B1 | Sleeping In My Car | 3:46 |
+| B2 | Vulnerable | 5:01 |
+| B3 | The First Girl On The Moon | 3:01 |
+| B4 | Place Your Love | 3:07 |
+| B5 | I Love The Sound Of Crashing Guitars | 4:47 |
+| C1 | What's She Like | 4:14 |
+| C2 | Do You Wanna Go The Whole Way | 4:09 |
+| C3 | Lies | 3:34 |
+| C4 | I'm Sorry | 3:11 |
+| C5 | Love Is All (Shine Your Light On Me) | 6:41 |
+| D1 | Go To Sleep | 3:58 |
+| D2 | Almost Unreal | 3:54 |
+| D3 | Crazy About You | 3:57 |
+| D4 | See Me | 3:45 |
 
 
-## Spotify
-{{< spotify type="album" id="3sGBp414FalqdDGwfDC1Me" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
-## Videos
-### Harleys  Indians Riders in the Sky
-{{< youtube id="Ikgo6k445Ts" title="Harleys  Indians Riders in the Sky" >}}<br>
-### More Videos
-
-- [Roxette - Crash Boom Bang 4K](https://www.youtube.com/watch?v=gk3GzxE-I24)
-- [Roxette - Fireworks](https://www.youtube.com/watch?v=2Owmnuj5-Wc)
-- [Roxette - Run To You](https://www.youtube.com/watch?v=iRXNIKEUsvw)
-- [Roxette - Sleeping In My Car Official Video Full HD Digitally Remastered and Upscaled](https://www.youtube.com/watch?v=ki_GqOZzKAg)
-- [Roxette - Vulnerable Official Video](https://www.youtube.com/watch?v=PFpZzWdu6XM)
-- [The First Girl On The Moon](https://www.youtube.com/watch?v=IWiBHIFjXxs)
-- [Place Your Love](https://www.youtube.com/watch?v=acG8lHjmlIk)
-- [I Love The Sound Of Crashing Guitars](https://www.youtube.com/watch?v=NpTTi9wvyo0)
-- [Whats She Like](https://www.youtube.com/watch?v=tja9omfZ4xk)
-- [Do You Wanna Go The Whole Way](https://www.youtube.com/watch?v=gnQqt3Il8-Q)
-- [Lies](https://www.youtube.com/watch?v=CNr9-Jl0b2U)
-- [Im Sorry](https://www.youtube.com/watch?v=oNjd4qOwrEE)
-- [Love Is All Shine Your Light On Me](https://www.youtube.com/watch?v=0u4AnuxGG1c)
-- [Go To Sleep](https://www.youtube.com/watch?v=FfZdhJpr_QI)
-- [Roxette - Almost Unreal Official Video](https://www.youtube.com/watch?v=El7GVPUl-r0)
-- [Crazy About You](https://www.youtube.com/watch?v=5HFaftnbU5I)
-- [See Me](https://www.youtube.com/watch?v=4CWFlctR384)
-- [Harleys  Indians T  A Demo - Aug 10 1993](https://www.youtube.com/watch?v=xD0_rfcDcnU)
-- [Crash Boom Bang T  A Demo - May 6 1993](https://www.youtube.com/watch?v=1oMP9uXJyvY)
-- [Fireworks T  A Demo - Jan 30 1993](https://www.youtube.com/watch?v=f_amS6ki_QY)
-- [Run to You T  A Demo - Dec 12 1992](https://www.youtube.com/watch?v=YS3a9c_X2P0)
-- [Sleeping in My Car The Stockholm Demo Version 1993](https://www.youtube.com/watch?v=cg2c_qqbx2Q)
-- [Vulnerable T  A Demo Dec 28 1990](https://www.youtube.com/watch?v=_NVM-4Cc19I)
-- [The First Girl On The Moon T  A Demo Dec 20 1992](https://www.youtube.com/watch?v=8V-xz2bWI2M)
-- [Place Your Love T  A Demo - Nov 10 1992](https://www.youtube.com/watch?v=G_zDjUAebOM)
-- [I Love The Sound Of Crashing Guitars T  A Demo Jun 27 1993](https://www.youtube.com/watch?v=k6_Ezvs90NQ)
-- [Whats She Like T  A Demo Jan 29 1992](https://www.youtube.com/watch?v=4S_eENb_06o)
-- [Roxette - Crash Boom Bang](https://www.youtube.com/watch?v=aoXrd3_3fYI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -112,5 +83,5 @@ Five singles were released from the album: lead single "Sleeping in My Car" beca
 | Format         | Vinyl LP, Vinyl LP (White), All Media Album Reissue Stereo (30th Anniversary Edition) |
 | Label          | Parlophone |
 | Catalog Number | 5021732477194 |
-| Notes | Hype sticker: “30th ANNIVERSARY EDITION 18 TRACKS + 2LP’s (BLACK & WHITE) 8 PAGE BOOKLET“  Runouts are etched. Optimal Media special plate symbols are mirrored. |
+| Notes | Hype sticker:<br>“30th ANNIVERSARY EDITION<br>18 TRACKS + 2LP’s (BLACK & WHITE)<br>8 PAGE BOOKLET“<br><br>Runouts are etched. Optimal Media special plate symbols are mirrored. |
 | Discogs URL    | [Roxette - Crash! Boom! Bang!](https://www.discogs.com/release/32490318-Roxette-Crash-Boom-Bang) |

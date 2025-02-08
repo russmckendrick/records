@@ -4,6 +4,7 @@ artist_name: "The Wannadies"
 artist: "the-wannadies"
 album_name: "Bagsy Me"
 date: 2019-05-21T17:16:02.000000Z
+release_date: "1997"
 release_id: "13578946"
 slug: "bagsy-me-13578946"
 hideSummary: true
@@ -24,34 +25,32 @@ styles: ["Indie Rock"]
 Bagsy Me is the fourth album by Swedish band The Wannadies, released in 1997.
 It includes the hit singles "Someone Somewhere", "Shorty", "Friends", "Hit" and "You and Me Song", the last being originally available on previous album Be A Girl.  The song was not re-recorded and is present to capitalise on the band's growing fame following the track's appearance on the soundtrack to Baz Luhrmann's 1996 film Romeo + Juliet. The album was released in revised form in the US as The Wannadies.
 The CD version also features a pre-gap 'hidden track', which is the album versions of "Silent People" and "Bumble Bee Boy" played at the same time (both tracks feature on this album normally, as tracks 7 and 10) . Silent People is panned to the left, with Bumble Bee Boy panned to the right and starting 4 seconds later. The two songs feature the same music and some similar lyrics, but due to their differing tempos, they only sync up for a single line (the first 'how about you', in the first chorus of both songs).
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Because (2:17)
-2. Friends (2:53)
-3. Someone Somewhere (4:49)
-4. Oh Yes (It's A Mess) (4:21)
-5. Shorty (3:30)
-6. Damn It I Said (3:15)
-7. Silent People (3:12)
-8. What You Want (2:44)
-9. Hit (2:22)
-10. Bumble Bee Boy (2:57)
-11. Combat Honey (2:26)
-12. That's All (8:38)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Because | 2:17 |
+| A2 | Friends | 2:53 |
+| A3 | Someone Somewhere | 4:49 |
+| A4 | Oh Yes (It's A Mess) | 4:21 |
+| A5 | Shorty | 3:30 |
+| A6 | Damn It I Said | 3:15 |
+| B1 | Silent People | 3:12 |
+| B2 | What You Want | 2:44 |
+| B3 | Hit | 2:22 |
+| B4 | Bumble Bee Boy | 2:57 |
+| B5 | Combat Honey | 2:26 |
+| B6 | That's All | 8:38 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bagsy-me/705302046" >}}<br>
 
 
-## Videos
-### The Wannadies - Combat Honey
-{{< youtube id="nU6Aqp9oUL0" title="The Wannadies - Combat Honey" >}}<br>
-### More Videos
-
-- [The Wannadies - Thats All](https://www.youtube.com/watch?v=gOtFWWc_nFw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +62,5 @@ The CD version also features a pre-gap 'hidden track', which is the album versio
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Turquoise) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2303 |
-| Notes | Limited edition of 1,000 machine numbered copies.  180 gram audiophile turquoise vinyl. Includes 4 page booklet. Made in the EU. |
+| Notes | Limited edition of 1,000 machine numbered copies. <br>180 gram audiophile turquoise vinyl.<br>Includes 4 page booklet.<br>Made in the EU. |
 | Discogs URL    | [The Wannadies - Bagsy Me](https://www.discogs.com/release/13578946-The-Wannadies-Bagsy-Me) |

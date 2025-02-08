@@ -35,38 +35,25 @@ Purple (stylized on the cover art in its Chinese character 紫) is the second st
 
 
 ## Tracklisting
-1. Meatplow (3:38)
-2. Vasoline (2:56)
-3. Lounge Fly (5:17)
-4. Interstate Love Song (3:13)
-5. Still Remains (3:32)
-6. Pretty Penny (3:43)
-7. Silvergun Superman (5:16)
-8. Big Empty (4:54)
-9. Unglued (2:34)
-10. Army Ants (3:46)
-11. Kitchenware & Candybars (8:05)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Meatplow | 3:38 |
+| A2 | Vasoline | 2:56 |
+| A3 | Lounge Fly | 5:17 |
+| A4 | Interstate Love Song | 3:13 |
+| A5 | Still Remains | 3:32 |
+| A6 | Pretty Penny | 3:43 |
+| B1 | Silvergun Superman | 5:16 |
+| B2 | Big Empty | 4:54 |
+| B3 | Unglued | 2:34 |
+| B4 | Army Ants | 3:46 |
+| B5 | Kitchenware & Candybars | 8:05 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stone-temple-pilots-2018/1340481443" >}}<br>
 
 
-## Videos
-### Stone Temple Pilots - Meat Plow
-{{< youtube id="fsdYCOJk7bw" title="Stone Temple Pilots - Meat Plow" >}}<br>
-### More Videos
-
-- [Stone Temple Pilots - Vasoline Official Music Video HD](https://www.youtube.com/watch?v=ht672-wYelc)
-- [Stone Temple Pilots - Lounge Fly](https://www.youtube.com/watch?v=ddhpFjyuNWI)
-- [Stone Temple Pilots - Interstate Love Song Official Music Video HD](https://www.youtube.com/watch?v=yjJL9DGU7Gg)
-- [Stone Temple Pilots - Still Remains Official Audio](https://www.youtube.com/watch?v=WTasut-sR_8)
-- [Stone Temple Pilots - Pretty Penny](https://www.youtube.com/watch?v=UWj73gYZDUk)
-- [Stone Temple Pilots - Silver Gun Superman](https://www.youtube.com/watch?v=bmVZDopspPU)
-- [Stone Temple Pilots - Big Empty The Crow Soundtrack](https://www.youtube.com/watch?v=0YoMUcvKcBQ)
-- [Stone Temple Pilots - Big Empty](https://www.youtube.com/watch?v=GqyposaQWnI)
-- [Stone Temple Pilots - Unglued](https://www.youtube.com/watch?v=t8BQq5gRM6Y)
-- [Stone Temple Pilots - Army Ants](https://www.youtube.com/watch?v=rDy4P0FXkmA)
-- [Stone Temple Pilots - Kitchen Ware  Candy Bars](https://www.youtube.com/watch?v=t_23iOhv09k)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +65,5 @@ Purple (stylized on the cover art in its Chinese character 紫) is the second st
 | Format         | Vinyl LP Album Reissue (180 gram) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP816 |
-| Notes | Produced, recorded, and mixed at Southern Tracks, March '94 (3-28-94)   "Big Empty" recorded at the Record Plant on May 25th '93  "Loungefly" recorded at Paisley Park on July 12th '93  "Pretty Penny" recorded at Harptone Studios   180 gram audiophile vinyl with four page insert showing images of the masters   Originally released ℗ & © 1994 Atlantic Records  This release ℗ & © 2013 Warner Music   Made in the EU |
+| Notes | Produced, recorded, and mixed at Southern Tracks, March '94 (3-28-94) <br><br>"Big Empty" recorded at the Record Plant on May 25th '93 <br>"Loungefly" recorded at Paisley Park on July 12th '93 <br>"Pretty Penny" recorded at Harptone Studios <br><br>180 gram audiophile vinyl with four page insert showing images of the masters <br><br>Originally released ℗ & © 1994 Atlantic Records <br>This release ℗ & © 2013 Warner Music <br><br>Made in the EU |
 | Discogs URL    | [Stone Temple Pilots - Purple](https://www.discogs.com/release/4662898-Stone-Temple-Pilots-Purple) |

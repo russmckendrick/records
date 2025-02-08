@@ -4,6 +4,7 @@ artist_name: "Joan Jett"
 artist: "joan-jett"
 album_name: "Bad Reputation"
 date: 2021-12-28T07:13:23.000000Z
+release_date: "2022-03-21"
 release_id: "12840105"
 slug: "bad-reputation-12840105"
 hideSummary: true
@@ -22,35 +23,33 @@ styles: ["Classic Rock", "Punk"]
 ---
 
 "Bad Reputation" is a rock song co-written and recorded by Joan Jett from her debut album of the same name. It remains one of her signature songs.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Fresh Start
-2. Bad Reputation
-3. Cherry Bomb
-4. Love is Pain
-5. I Love Rock ‘N’ Roll
-6. Victim of Circumstance
-7. I Hate Myself For Loving You
-8. Crimson And Clover
-9. Rebel Girl
-10. I Wanna Be Your Dog
-11. Fetish
-12. Feminazi
-13. Androgynous
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fresh Start |  |
+| A2 | Bad Reputation |  |
+| A3 | Cherry Bomb |  |
+| A4 | Love is Pain |  |
+| A5 | I Love Rock ‘N’ Roll |  |
+| A6 | Victim of Circumstance |  |
+| A7 | I Hate Myself For Loving You |  |
+| B1 | Crimson And Clover |  |
+| B2 | Rebel Girl |  |
+| B3 | I Wanna Be Your Dog |  |
+| B4 | Fetish |  |
+| B5 | Feminazi |  |
+| B6 | Androgynous |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bad-reputation/1614110676" >}}<br>
 
 
-## Videos
-### Happy Hippie Presents Androgynous Performed by Miley Cyrus Joan Jett  Laura Jane Gr
-{{< youtube id="ZR6mM_zfxwE" title="Happy Hippie Presents Androgynous Performed by Miley Cyrus Joan Jett  Laura Jane Gr" >}}<br>
-### More Videos
-
-- [Joan Jett and Nirvana - Smells Like Teen Spirit HD](https://www.youtube.com/watch?v=ezcncUVJOlU)
 
 ## Release Images
 {{< imageGrid >}}

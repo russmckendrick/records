@@ -4,6 +4,7 @@ artist_name: "The Nightingales"
 artist: "the-nightingales"
 album_name: "King Rocker (The Original Soundtrack)"
 date: 2022-03-19T06:45:12.000000Z
+release_date: "2022-03-18"
 release_id: "21188260"
 slug: "king-rocker-the-original-soundtrack-21188260"
 hideSummary: true
@@ -28,32 +29,31 @@ styles: ["Alternative Rock", "Post-Punk", "Soundtrack"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Use Your Loaf
-2. Surplus And Scarcity
-3. What A Carry On
-4. Let’s Think About Living
-5. Black Country
-6. Ghost
-7. Born Again In Birmingham
-8. Overreactor
-9. Thick And Thin (Glam Version)
-10. Chaff
-11. The Desperate Quartet
-12. Gales Doc
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Use Your Loaf |  |
+| A2 | Surplus And Scarcity |  |
+| A3 | What A Carry On |  |
+| A4 | Let’s Think About Living |  |
+| A5 | Black Country |  |
+| A6 | Ghost |  |
+| B1 | Born Again In Birmingham |  |
+| B2 | Overreactor |  |
+| B3 | Thick And Thin (Glam Version) |  |
+| B4 | Chaff |  |
+| B5 | The Desperate Quartet |  |
+| B6 | Gales Doc |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/king-rocker-soundtrack/1667376145" >}}<br>
 
 
-## Videos
-### King Rocker Original Trailer
-{{< youtube id="Zy-ZeKkgXas" title="King Rocker Original Trailer" >}}<br>
-### More Videos
-
-- [The Nightingales - Gales Doc](https://www.youtube.com/watch?v=jDeAxCQIcGM)
-- [King Rocker Trailer](https://www.youtube.com/watch?v=VukUbf6DPyY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +64,5 @@ styles: ["Alternative Rock", "Post-Punk", "Soundtrack"]
 | Format         | Vinyl LP Album Limited Edition (Red) |
 | Label          | Fire Records |
 | Catalog Number | KROCK001LP |
-| Notes | Comes in a plain black paper inner sleeve Sleeve notes by Stewart Lee Contains A3 theatrical poster for film and curry menu from Abdul’s in Birmingham Also contains download card |
+| Notes | Comes in a plain black paper inner sleeve<br>Sleeve notes by Stewart Lee<br>Contains A3 theatrical poster for film and curry menu from Abdul’s in Birmingham<br>Also contains download card |
 | Discogs URL    | [The Nightingales - King Rocker (The Original Soundtrack)](https://www.discogs.com/release/21188260-The-Nightingales-King-Rocker-The-Original-Soundtrack) |

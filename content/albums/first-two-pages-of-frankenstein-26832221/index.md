@@ -57,34 +57,25 @@ The result is <I>First Two Pages of Frankenstein</I>, the veteran indie rock out
 
 
 ## Tracklisting
-1. Once Upon A Poolside (3:36)
-2. Eucalyptus (4:24)
-3. New Order T-Shirt (4:56)
-4. This Isn't Helping (4:04)
-5. Tropic Morning News (5:09)
-6. Alien (4:07)
-7. The Alcott (4:27)
-8. Grease In Your Hair (3:57)
-9. Ice Machines (4:16)
-10. Your Mind Is Not Your Friend (4:24)
-11. Send For Me (4:14)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Once Upon A Poolside | 3:36 |
+| A2 | Eucalyptus | 4:24 |
+| A3 | New Order T-Shirt | 4:56 |
+| A4 | This Isn't Helping | 4:04 |
+| A5 | Tropic Morning News | 5:09 |
+| A6 | Alien | 4:07 |
+| B7 | The Alcott | 4:27 |
+| B8 | Grease In Your Hair | 3:57 |
+| B9 | Ice Machines | 4:16 |
+| B10 | Your Mind Is Not Your Friend | 4:24 |
+| B11 | Send For Me | 4:14 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/first-two-pages-of-frankenstein/1660282625" >}}<br>
 
 
-## Videos
-### The National - Eucalyptus Official Video
-{{< youtube id="MSywJt3VlUM" title="The National - Eucalyptus Official Video" >}}<br>
-### More Videos
-
-- [The National - New Order T-Shirt Official Visualizer](https://www.youtube.com/watch?v=QEMabLFhD38)
-- [The National - Tropic Morning News Lyric Video](https://www.youtube.com/watch?v=zdU0qwZKLfU)
-- [The National - Your Mind Is Not Your Friend feat Phoebe Bridgers Official Video](https://www.youtube.com/watch?v=KrCTNeuvmqA)
-- [The National - Eucalyptus Official Video](https://www.youtube.com/watch?v=MSywJt3VlUM)
-- [The National - New Order T-Shirt Official Visualizer](https://www.youtube.com/watch?v=QEMabLFhD38)
-- [The National - Tropic Morning News Lyric Video](https://www.youtube.com/watch?v=zdU0qwZKLfU)
-- [The National - Your Mind Is Not Your Friend feat Phoebe Bridgers Official Video](https://www.youtube.com/watch?v=KrCTNeuvmqA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -96,5 +87,5 @@ The result is <I>First Two Pages of Frankenstein</I>, the veteran indie rock out
 | Format         | Vinyl LP Album Limited Edition (Red, Optimal Pressing) |
 | Label          | 4AD |
 | Catalog Number | 4AD0566LPE |
-| Notes | Tracks numbered sequentially on back jacket.  This is the European version pressed by Optimal unlike the North American version [r26937629] which is not. |
+| Notes | Tracks numbered sequentially on back jacket.<br><br>This is the European version pressed by Optimal unlike the North American version [r26937629] which is not. |
 | Discogs URL    | [The National - First Two Pages Of Frankenstein](https://www.discogs.com/release/26832221-The-National-First-Two-Pages-Of-Frankenstein) |

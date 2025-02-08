@@ -4,6 +4,7 @@ artist_name: "Don McLean"
 artist: "don-mclean"
 album_name: "American Pie"
 date: 2020-08-02T13:34:50.000000Z
+release_date: "1971-10-24"
 release_id: "1600806"
 slug: "american-pie-1600806"
 hideSummary: true
@@ -25,40 +26,30 @@ American Pie is the second studio album by American singer-songwriter Don McLean
 At the Australian 1972 King of Pop Awards the album won Most Popular Overseas L.P.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. American Pie (8:27)
-2. Till Tomorrow (2:11)
-3. Vincent (3:55)
-4. Crossroads (3:34)
-5. Winterwood (3:09)
-6. Empty Chairs (3:24)
-7. Everybody Loves Me, Baby (3:37)
-8. Sister Fatima (2:31)
-9. The Grave (3:08)
-10. Babylon (1:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | American Pie | 8:27 |
+| A2 | Till Tomorrow | 2:11 |
+| A3 | Vincent | 3:55 |
+| A4 | Crossroads | 3:34 |
+| B1 | Winterwood | 3:09 |
+| B2 | Empty Chairs | 3:24 |
+| B3 | Everybody Loves Me, Baby | 3:37 |
+| B4 | Sister Fatima | 2:31 |
+| B5 | The Grave | 3:08 |
+| B6 | Babylon | 1:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/american-pie/1440834532" >}}<br>
 
 
-## Videos
-### Winterwood
-{{< youtube id="IE-hE-2xh8o" title="Winterwood" >}}<br>
-### More Videos
-
-- [Everybody Loves Me Baby](https://www.youtube.com/watch?v=N4cjBUeHHgU)
-- [Babylon](https://www.youtube.com/watch?v=4bnhhbV34nI)
-- [American Pie](https://www.youtube.com/watch?v=iX_TFkut1PM)
-- [Till Tomorrow](https://www.youtube.com/watch?v=TlqW3cTh5Ts)
-- [Vincent](https://www.youtube.com/watch?v=ciLNMesqPh0)
-- [Crossroads](https://www.youtube.com/watch?v=tawHuI7KHR0)
-- [Empty Chairs](https://www.youtube.com/watch?v=sDjvPFg9B7Q)
-- [Sister Fatima](https://www.youtube.com/watch?v=UVqQg_qcY-o)
-- [The Grave](https://www.youtube.com/watch?v=p05aJNfWib8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -70,5 +61,5 @@ At the Australian 1972 King of Pop Awards the album won Most Popular Overseas L.
 | Format         | Vinyl LP Album |
 | Label          | United Artists Records |
 | Catalog Number | UAS 29285 |
-| Notes | Made in the UK Dedicated to Buddy Holly  Front-laminated cover, comes with white UK-innersleeve "Made in Great Britain" - Patent Nos. 11 2 55 55 Some initial copies comes with a small white/red sticker  |
+| Notes | Made in the UK<br>Dedicated to Buddy Holly<br><br>Front-laminated cover, comes with white UK-innersleeve "Made in Great Britain" - Patent Nos. 11 2 55 55<br>Some initial copies comes with a small white/red sticker<br> |
 | Discogs URL    | [Don McLean - American Pie](https://www.discogs.com/release/1600806-Don-McLean-American-Pie) |

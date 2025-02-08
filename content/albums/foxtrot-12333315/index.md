@@ -4,6 +4,7 @@ artist_name: "Genesis"
 artist: "genesis"
 album_name: "Foxtrot"
 date: 2018-08-03T18:44:42.000000Z
+release_date: "2021-12-10"
 release_id: "12333315"
 slug: "foxtrot-12333315"
 hideSummary: true
@@ -27,25 +28,25 @@ The album was recorded during the tour in support of their previous album, Nurse
 Foxtrot was the first Genesis album to chart in the UK, reaching No. 12, and received largely positive reviews. It reached No. 15 in Italy, where the band had been popular for some time. The album has continued to attract critical praise and was reissued with a new stereo and 5.1 surround sound mix as part of their 2008 Genesis 1970–1975 box set.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Watcher Of The Skies
-2. Time Table
-3. Get 'Em Out By Friday
-4. Can-Utility And The Coastliners
-5. Horizons'
-6. Supper's Ready
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Watcher Of The Skies |  |
+| A2 | Time Table |  |
+| A3 | Get 'Em Out By Friday |  |
+| A4 | Can-Utility And The Coastliners |  |
+| B1 | Horizons' |  |
+|  | Supper's Ready |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gazzara-plays-genesis-foxtrot/1596485102" >}}<br>
 
-
-## Videos
-### Genesis - Suppers Ready Official Audio
-{{< youtube id="9hKYpNpajpI" title="Genesis - Suppers Ready Official Audio" >}}<br>
 
 
 ## Release Images
@@ -58,5 +59,5 @@ Foxtrot was the first Genesis album to chart in the UK, reaching No. 12, and r
 | Format         | Vinyl LP Album Reissue Stereo (Gatefold) |
 | Label          | Charisma |
 | Catalog Number | 00602567489795 |
-| Notes | Comes with download code  ℗ 1972 Charisma Records Ltd Quartet Music Ltd and Carlin Music Corp  ℗ & © 2018 Made in the E.U. |
+| Notes | Comes with download code<br><br>℗ 1972 Charisma Records Ltd<br>Quartet Music Ltd and Carlin Music Corp<br><br>℗ & © 2018<br>Made in the E.U. |
 | Discogs URL    | [Genesis - Foxtrot](https://www.discogs.com/release/12333315-Genesis-Foxtrot) |

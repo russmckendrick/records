@@ -4,6 +4,7 @@ artist_name: "Steven Wilson"
 artist: "steven-wilson"
 album_name: "Last Day Of June "
 date: 2021-11-19T04:20:08.000000Z
+release_date: "2017-12-01"
 release_id: "21028867"
 slug: "last-day-of-june-21028867"
 hideSummary: true
@@ -30,45 +31,35 @@ styles: ["Prog Rock", "Soundtrack", "Video Game Music"]
 Last Day of June is an adventure puzzle video game developed by Ovosonico and published by 505 Games. It is based on Steven Wilson's song Drive Home. The game was released for the PlayStation 4 and Windows in August 2017, and ported for the Nintendo Switch in March 2018.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Some Things Cannot Be Changed (2:58)
-2. That Day By The Pier (3:58)
-3. There Must Be A Way (1:17)
-4. The Last Day Of June (8:18)
-5. Suspended In Me (1:09)
-6. Driving Home (1:39)
-7. I'm Still Here (1:35)
-8. The Boy Who Lost His Friends (2:16)
-9. The Crib (2:16)
-10. Time For A New Start (3:27)
-11. Suspended In You (1:18)
-12. Under The Shadow Of My Father (1:29)
-13. Accept (4:13)
-14. Deceive (1:07)
-15. Together, Forever Again (3:52)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Some Things Cannot Be Changed | 2:58 |
+| A2 | That Day By The Pier | 3:58 |
+| A3 | There Must Be A Way | 1:17 |
+| A4 | The Last Day Of June | 8:18 |
+| A5 | Suspended In Me | 1:09 |
+| A6 | Driving Home | 1:39 |
+| B1 | I'm Still Here | 1:35 |
+| B2 | The Boy Who Lost His Friends | 2:16 |
+| B3 | The Crib | 2:16 |
+| B4 | Time For A New Start | 3:27 |
+| B5 | Suspended In You | 1:18 |
+| B6 | Under The Shadow Of My Father | 1:29 |
+| B7 | Accept | 4:13 |
+| B8 | Deceive | 1:07 |
+| B9 | Together, Forever Again | 3:52 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/last-day-of-june-original-game-soundtrack/1440875598" >}}<br>
 
 
-## Videos
-### The Last Day Of June
-{{< youtube id="tWDMTkxppso" title="The Last Day Of June" >}}<br>
-### More Videos
-
-- [Steven Wilson - Last Day of June OST Trailer](https://www.youtube.com/watch?v=85_fJISwxQk)
-- [Some Things Cannot Be Changed](https://www.youtube.com/watch?v=yxxA4mekUPY)
-- [Steven Wilson - The Last Day Of June Last Day Of June Soundtrack](https://www.youtube.com/watch?v=OcO9SyxCP-4)
-- [Time For A New Start](https://www.youtube.com/watch?v=5wq5dVCJpJA)
-- [The Last Day Of June](https://www.youtube.com/watch?v=tWDMTkxppso)
-- [Steven Wilson - Last Day of June OST Trailer](https://www.youtube.com/watch?v=85_fJISwxQk)
-- [Some Things Cannot Be Changed](https://www.youtube.com/watch?v=yxxA4mekUPY)
-- [Steven Wilson - The Last Day Of June Last Day Of June Soundtrack](https://www.youtube.com/watch?v=OcO9SyxCP-4)
-- [Time For A New Start](https://www.youtube.com/watch?v=5wq5dVCJpJA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -80,5 +71,5 @@ Last Day of June is an adventure puzzle video game developed by Ovosonico and pu
 | Format         | Vinyl LP Deluxe Edition Limited Edition Numbered Stereo (Blue Translucent) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVATM335 |
-| Notes | Original game soundtrack by Steven Wilson. Limited edition of 4000 numbered copies on Translucent Blue Vinyl  Based on music originally released between 2004-2016. Includes exclusive mixes and edits. Includes insert. 180 gram audiophile vinyl.  Comes in thick plastic protective sleeve with ‘at the movies’ embossed on back. Sealed with round sticker stating ‘At the movies - Music On Vinyl - deluxe limited edition’.  Barcode sticker on back.   ℗ 2017 © 2017, 2021 Steven Wilson Productions Ltd. Made in the EU. |
+| Notes | Original game soundtrack by Steven Wilson.<br>Limited edition of 4000 numbered copies on Translucent Blue Vinyl <br>Based on music originally released between 2004-2016.<br>Includes exclusive mixes and edits.<br>Includes insert.<br>180 gram audiophile vinyl.<br><br>Comes in thick plastic protective sleeve with ‘at the movies’ embossed on back. Sealed with round sticker stating ‘At the movies - Music On Vinyl - deluxe limited edition’. <br>Barcode sticker on back. <br><br>℗ 2017 © 2017, 2021 Steven Wilson Productions Ltd.<br>Made in the EU. |
 | Discogs URL    | [Steven Wilson - Last Day Of June ](https://www.discogs.com/release/21028867-Steven-Wilson-Last-Day-Of-June-) |

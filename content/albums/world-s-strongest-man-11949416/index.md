@@ -26,34 +26,25 @@ For some, Gaz Coombes is just the mutton-chopped likely lad who peaked with Supe
 
 
 ## Tracklisting
-1. World's Strongest Man (3:28)
-2. Deep Pockets (3:50)
-3. Walk The Walk (3:56)
-4. Shit (I've Done It Again) (2:58)
-5. Slow Motion Life (4:27)
-6. Wounded Egos (4:08)
-7. Oxygen Mask (4:09)
-8. In Waves (2:53)
-9. The Oaks (4:39)
-10. Vanishing Act (2:50)
-11. Weird Dreams (4:53)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | World's Strongest Man | 3:28 |
+| A2 | Deep Pockets | 3:50 |
+| A3 | Walk The Walk | 3:56 |
+| A4 | Shit (I've Done It Again) | 2:58 |
+| A5 | Slow Motion Life | 4:27 |
+| A6 | Wounded Egos | 4:08 |
+| B1 | Oxygen Mask | 4:09 |
+| B2 | In Waves | 2:53 |
+| B3 | The Oaks | 4:39 |
+| B4 | Vanishing Act | 2:50 |
+| B5 | Weird Dreams | 4:53 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/worlds-strongest-man/1440875853" >}}<br>
 
 
-## Videos
-### Gaz Coombes - Deep Pockets Audio
-{{< youtube id="Ui5nb0wLY74" title="Gaz Coombes - Deep Pockets Audio" >}}<br>
-### More Videos
-
-- [Gaz Coombes - Walk The Walk](https://www.youtube.com/watch?v=lh9zLxqsX1E)
-- [Gaz Coombes - Wounded Egos Official Video](https://www.youtube.com/watch?v=kn_qMEo8RD0)
-- [GAZ COOMBES - Oxygen Mask Worlds Strongest Man 2018](https://www.youtube.com/watch?v=VpgFeHwBQ6k)
-- [Gaz Coombes - Deep Pockets Audio](https://www.youtube.com/watch?v=Ui5nb0wLY74)
-- [Gaz Coombes - Walk The Walk](https://www.youtube.com/watch?v=lh9zLxqsX1E)
-- [Gaz Coombes - Wounded Egos Official Video](https://www.youtube.com/watch?v=kn_qMEo8RD0)
-- [GAZ COOMBES - Oxygen Mask Worlds Strongest Man 2018](https://www.youtube.com/watch?v=VpgFeHwBQ6k)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +56,5 @@ For some, Gaz Coombes is just the mutton-chopped likely lad who peaked with Supe
 | Format         | Vinyl LP Album Limited Edition (Pink) |
 | Label          | Hot Fruit Recordings |
 | Catalog Number | HF012LP1 |
-| Notes | Gatefold Jacket Exclusive Pink Vinyl   Recorded at home and at Courtyard Studio, Oxford. |
+| Notes | Gatefold Jacket<br>Exclusive Pink Vinyl <br><br>Recorded at home and at Courtyard Studio, Oxford. |
 | Discogs URL    | [Gaz Coombes - World's Strongest Man](https://www.discogs.com/release/11949416-Gaz-Coombes-Worlds-Strongest-Man) |

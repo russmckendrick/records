@@ -4,6 +4,7 @@ artist_name: "Orchestral Manoeuvres In The Dark"
 artist: "orchestral-manoeuvres-in-the-dark"
 album_name: "Orchestral Manoeuvres In The Dark"
 date: 2018-11-03T09:51:32.000000Z
+release_date: "1988-01-01"
 release_id: "12748287"
 slug: "orchestral-manoeuvres-in-the-dark-12748287"
 hideSummary: true
@@ -30,51 +31,30 @@ Much of the album's content centres around war themes, with OMD exploring "the l
 Orchestral Manoeuvres in the Dark is also the title of a 1981 compilation album of tracks from this release and OMD's second album, Organisation, issued only in the United States.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Bunker Soldiers (2:51)
-2. Almost (3:40)
-3. Mystereality (2:42)
-4. Electricity (3:32)
-5. The Messerschmitt Twins (5:38)
-6. Messages (4:06)
-7. Julia's Song (4:40)
-8. Red Frame / White Light (3:11)
-9. Dancing (2:59)
-10. Pretending To See The Future (3:48)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Bunker Soldiers | 2:51 |
+| A2 | Almost | 3:40 |
+| A3 | Mystereality | 2:42 |
+| A4 | Electricity | 3:32 |
+| A5 | The Messerschmitt Twins | 5:38 |
+| B1 | Messages | 4:06 |
+| B2 | Julia's Song | 4:40 |
+| B3 | Red Frame / White Light | 3:11 |
+| B4 | Dancing | 2:59 |
+| B5 | Pretending To See The Future | 3:48 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-best-of-orchestral-manoeuvres-in-the-dark/714551637" >}}<br>
 
 
-## Videos
-### Orchestral Manoeuvres in the Dark - Bunker Soldiers
-{{< youtube id="ko6WAw3xcjc" title="Orchestral Manoeuvres in the Dark - Bunker Soldiers" >}}<br>
-### More Videos
-
-- [Orchestral Manoeuvres In The Dark - Electricity](https://www.youtube.com/watch?v=Y43XLVqjytQ)
-- [Orchestral Manoeuvres In The Dark - Red FrameWhite Light](https://www.youtube.com/watch?v=v5N46p2aU68)
-- [JULIAS SONG OMD](https://www.youtube.com/watch?v=l44apl34Pcg)
-- [Orchestral Manoeuvres in the Dark - Pretending To See The Future  Lyrics](https://www.youtube.com/watch?v=2SPeWjye-vg)
-- [Orchestral Manoeuvres In The Dark - Electricity 1979](https://www.youtube.com/watch?v=7qKSJIsQN1Y)
-- [Orchestral Manoeuvres in the Dark - Bunker Soldiers](https://www.youtube.com/watch?v=ko6WAw3xcjc)
-- [Red FrameWhite Light Remastered 2003](https://www.youtube.com/watch?v=fibz9Z0IXYA)
-- [Messages](https://www.youtube.com/watch?v=NSmJEGpZDI8)
-- [Taking Sides Again Remastered 2003](https://www.youtube.com/watch?v=STMujfrPghs)
-- [Mystereality Remastered 2003](https://www.youtube.com/watch?v=Lfs2ZKPlU0Y)
-- [Electricity Remastered 2003](https://www.youtube.com/watch?v=SJpX-wNgZ00)
-- [The Messerschmitt Twins Remastered 2003](https://www.youtube.com/watch?v=z_oVRJ088BE)
-- [Messages Remastered 2003](https://www.youtube.com/watch?v=6P4ELM0nB9M)
-- [Julias Song Remastered 2003](https://www.youtube.com/watch?v=M2irYat2wf4)
-- [Dancing Remastered 2003](https://www.youtube.com/watch?v=VVaDw5zU9do)
-- [Pretending To See The Future Remastered 2003](https://www.youtube.com/watch?v=1YXu7vRJ5tA)
-- [I Betray My Friends Remastered 2003](https://www.youtube.com/watch?v=W4FL4SOBwh8)
-- [Waiting For The Man Remastered 2003](https://www.youtube.com/watch?v=k5bQ9BL5NTc)
-- [Electricity HannettCargo Studios Version  Remastered 2003](https://www.youtube.com/watch?v=n2-RNug1XoI)
-- [Almost HannettCargo Studios Version  Remastered 2003](https://www.youtube.com/watch?v=e9LDb3bgq3c)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +66,5 @@ Orchestral Manoeuvres in the Dark is also the title of a 1981 compilation album 
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | Virgin EMI Records |
 | Catalog Number | 602557050806 |
-| Notes | Half speed mastered at Abbey Road Studios. Includes digital download card. |
+| Notes | Half speed mastered at Abbey Road Studios.<br>Includes digital download card. |
 | Discogs URL    | [Orchestral Manoeuvres In The Dark - Orchestral Manoeuvres In The Dark](https://www.discogs.com/release/12748287-Orchestral-Manoeuvres-In-The-Dark-Orchestral-Manoeuvres-In-The-Dark) |

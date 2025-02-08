@@ -4,6 +4,7 @@ artist_name: "DJ Spinna"
 artist: "dj-spinna"
 album_name: "The Wonder Of Stevie (Melody Man: Further Forays Into The Stevie Songbook)"
 date: 2016-08-09T05:32:12.000000Z
+release_date: ""
 release_id: "736967"
 slug: "the-wonder-of-stevie-melody-man-further-forays-into-the-stevie-songbook-736967"
 hideSummary: true
@@ -18,33 +19,29 @@ styles: ["Soul", "Funk", "Disco"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Perfect Angel
-2. It's A Shame
-3. Let's Get Serious
-4. Bring Your Sweet Stuff Home To Me
-5. Melody Man
-6. Signed, Sealed, Delivered
-7. Betcha Wouldn't Hurt Me
-8. Loving You Is Sweeter Than Ever
-9. Tears Of A Clown
-10. Too High
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Perfect Angel |  |
+| A2 | It's A Shame |  |
+| A3 | Let's Get Serious |  |
+| B1 | Bring Your Sweet Stuff Home To Me |  |
+| B2 | Melody Man |  |
+| B3 | Signed, Sealed, Delivered |  |
+| C1 | Betcha Wouldn't Hurt Me |  |
+| C2 | Loving You Is Sweeter Than Ever |  |
+| C3 | Tears Of A Clown |  |
+| D1 | Too High |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Melody ManSmokey Robinson  remix DJ Spinna  Bobbito
-{{< youtube id="uOVu1qmf5ww" title="Melody ManSmokey Robinson  remix DJ Spinna  Bobbito" >}}<br>
-### More Videos
 
-- [DJ Spinna Presents the Wonder of Stevie Vol 3 Continuous DJ Mix](https://www.youtube.com/watch?v=cjwgXDdbWxI)
-- [Jermaine Jackson - Lets Get Serious](https://www.youtube.com/watch?v=FMLKb4or8yg)
-- [Melody ManSmokey Robinson  remix DJ Spinna  Bobbito](https://www.youtube.com/watch?v=uOVu1qmf5ww)
-- [DJ Spinna Presents the Wonder of Stevie Vol 3 Continuous DJ Mix](https://www.youtube.com/watch?v=cjwgXDdbWxI)
-- [Jermaine Jackson - Lets Get Serious](https://www.youtube.com/watch?v=FMLKb4or8yg)
-- [Melody ManSmokey Robinson  remix DJ Spinna  Bobbito](https://www.youtube.com/watch?v=uOVu1qmf5ww)
-- [DJ Spinna Presents the Wonder of Stevie Vol 3 Continuous DJ Mix](https://www.youtube.com/watch?v=cjwgXDdbWxI)
 
 ## Release Images
 {{< imageGrid >}}

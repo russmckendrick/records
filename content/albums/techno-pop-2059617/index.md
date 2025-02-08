@@ -4,6 +4,7 @@ artist_name: "Kraftwerk"
 artist: "kraftwerk"
 album_name: "Techno Pop"
 date: 2017-04-23T12:08:20.000000Z
+release_date: "1986-11-01"
 release_id: "2059617"
 slug: "techno-pop-2059617"
 hideSummary: true
@@ -25,31 +26,26 @@ styles: ["Electro", "Synth-pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Boing Boom Tschak (2:58)
-2. Techno Pop (7:42)
-3. Musique Non Stop (5:44)
-4. The Telephone Call (3:50)
-5. House Phone (4:56)
-6. Sex Object (6:51)
-7. Electric Cafe (4:17)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Boing Boom Tschak | 2:58 |
+| A2 | Techno Pop | 7:42 |
+| A3 | Musique Non Stop | 5:44 |
+| B1 | The Telephone Call | 3:50 |
+| B2 | House Phone | 4:56 |
+| B3 | Sex Object | 6:51 |
+| B4 | Electric Cafe | 4:17 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/techno-pop-remastered/699768286" >}}<br>
 
 
-## Videos
-### Boing Boom Tschak 2009 Remaster
-{{< youtube id="Q_6c6FUVlzA" title="Boing Boom Tschak 2009 Remaster" >}}<br>
-### More Videos
-
-- [Techno Pop 2009 Remaster](https://www.youtube.com/watch?v=R3AKaZS8r1g)
-- [Musique Non Stop 2009 Remaster](https://www.youtube.com/watch?v=fit8fTqQV68)
-- [The Telephone Call 2009 Remaster](https://www.youtube.com/watch?v=ys_rJtuMfuA)
-- [House Phone 2009 Remaster](https://www.youtube.com/watch?v=_ShnUyE4i_w)
-- [Sex Object 2009 Remaster](https://www.youtube.com/watch?v=GkgldB8ITfI)
-- [Electric Café 2009 Remaster](https://www.youtube.com/watch?v=i-3o_QH4Cz4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,5 +56,5 @@ styles: ["Electro", "Synth-pop"]
 | Format         | Vinyl LP Album Reissue Remastered (English Version, 180 g) |
 | Label          | Kling Klang |
 | Catalog Number | 50999 9 66050 1 1 |
-| Notes | Previously known as Electric Cafe. Remastered and re-released under its original working title "Techno Pop".  Released with 16 page 12"x12" booklet and illustrated inner sleeve.  Sleeve: Printed in Germany Labels: Made in the EU |
+| Notes | Previously known as Electric Cafe. Remastered and re-released under its original working title "Techno Pop".<br><br>Released with 16 page 12"x12" booklet and illustrated inner sleeve.<br><br>Sleeve: Printed in Germany<br>Labels: Made in the EU |
 | Discogs URL    | [Kraftwerk - Techno Pop](https://www.discogs.com/release/2059617-Kraftwerk-Techno-Pop) |

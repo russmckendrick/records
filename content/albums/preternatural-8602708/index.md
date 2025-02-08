@@ -4,6 +4,7 @@ artist_name: "Moulettes"
 artist: "moulettes"
 album_name: "Preternatural"
 date: 2017-11-12T19:52:44.000000Z
+release_date: "2016-05-27"
 release_id: "8602708"
 slug: "preternatural-8602708"
 hideSummary: true
@@ -27,34 +28,31 @@ styles: ["Art Rock", "Prog Rock", "Experimental"]
 
 The preternatural (or praeternatural) is that which appears outside, beside or beyond (Latin: præter) the natural. It is "suspended between the mundane and the miraculous".
 In theology, the term is often used to distinguish marvels or deceptive trickery, often attributed to witchcraft or demons, from purely divine power of genuinely supernatural origin that transcends the laws of nature. Preternatural is also used to describe gifts such as immortality, possessed by Adam and Eve before the fall of man into original sin, and the power of flight that angels are thought to have. In the early modern period, the term was used by scientists to refer to abnormalities and strange phenomena of various kinds that seemed to depart from the norms of nature.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Behemooth (4:07)
-2. Underwaterpainter (3:22)
-3. Coral (4:13)
-4. Hidden World (Halicephalobus Mephisto) (4:47)
-5. Pufferfish Love (4:57)
-6. Patterns (3:43)
-7. Rite Of Passage (3:41)
-8. Medusa (3:51)
-9. Parasite (3:39)
-10. Bird Of Paradise (Part II) (3:38)
-11. Silk (4:46)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Behemooth | 4:07 |
+| A2 | Underwaterpainter | 3:22 |
+| A3 | Coral | 4:13 |
+| A4 | Hidden World (Halicephalobus Mephisto) | 4:47 |
+| A5 | Pufferfish Love | 4:57 |
+| B6 | Patterns | 3:43 |
+| B7 | Rite Of Passage | 3:41 |
+| B8 | Medusa | 3:51 |
+| B9 | Parasite | 3:39 |
+| B10 | Bird Of Paradise (Part II) | 3:38 |
+| B11 | Silk | 4:46 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/preternatural-bonus-track-version/1094302086" >}}<br>
 
 
-## Videos
-### Moulettes - Preternatural Full Album
-{{< youtube id="BWZCrvQNps0" title="Moulettes - Preternatural Full Album" >}}<br>
-### More Videos
-
-- [Behemooth](https://www.youtube.com/watch?v=jq9llNcDVhk)
-- [Hidden World Halicephalobus Mephisto](https://www.youtube.com/watch?v=b5pipzgf3ao)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +64,5 @@ In theology, the term is often used to distinguish marvels or deceptive trickery
 | Format         | Vinyl LP Album |
 | Label          | C.R.A.F.T Pop Records |
 | Catalog Number | CRAFTPOP1 |
-| Notes | Contains 24" x 12" fold-out lyric and credit sheet.  Engineered & mixed at Berry Cottage. Mastered at Loud Mastering. Additional engineering on an iPhone & 4 track recorder; in a summerhouse, in the Green Wood, in the Boipuso Centre, in bed & in a staircase in Bangalore.  ℗ 2016 Sotones Music Publishing under exclusive licensing from Moulettes © 2016 Moulettes. The copyright in the sound recordings is owned by Moulettes under exclusive license to C.R.A.F.T Pop Ltd. Distributed and marketed by Republic of Music |
+| Notes | Contains 24" x 12" fold-out lyric and credit sheet.<br><br>Engineered & mixed at Berry Cottage.<br>Mastered at Loud Mastering.<br>Additional engineering on an iPhone & 4 track recorder; in a summerhouse, in the Green Wood, in the Boipuso Centre, in bed & in a staircase in Bangalore.<br><br>℗ 2016 Sotones Music Publishing under exclusive licensing from Moulettes<br>© 2016 Moulettes. The copyright in the sound recordings is owned by Moulettes under exclusive license to C.R.A.F.T Pop Ltd.<br>Distributed and marketed by Republic of Music |
 | Discogs URL    | [Moulettes - Preternatural](https://www.discogs.com/release/8602708-Moulettes-Preternatural) |

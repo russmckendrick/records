@@ -1,16 +1,17 @@
 ---
-title: "Steve Earle & The Dukes - Ghosts Of West Virginia"
-artist_name: "Steve Earle & The Dukes"
+title: "Steve Earle  The Dukes - Ghosts Of West Virginia"
+artist_name: "Steve Earle  The Dukes"
 artist: "steve-earle-the-dukes"
 album_name: "Ghosts Of West Virginia"
 date: 2020-05-28T17:21:45.000000Z
+release_date: "2020-05-22"
 release_id: "15330013"
 slug: "ghosts-of-west-virginia-15330013"
 hideSummary: true
 cover:
     image: "ghosts-of-west-virginia-15330013.jpg"
-    alt: "Ghosts Of West Virginia by Steve Earle & The Dukes"
-    caption: "Ghosts Of West Virginia by Steve Earle & The Dukes"
+    alt: "Ghosts Of West Virginia by Steve Earle  The Dukes"
+    caption: "Ghosts Of West Virginia by Steve Earle  The Dukes"
 additional_images:
     - "https://i.discogs.com/ITtdLR0yDbm243sG96mGgPz-pHpmMUwlh_oh2oQzjF8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDEzLTE1OTAwOTc3/NzAtNjQyOC5qcGVn.jpeg"
     - "https://i.discogs.com/H1707TpRTQVgxFR-STwSNOLZBryVhAWut8uvGExe5a4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDEzLTE1OTAwOTc3/NzAtNTY2OC5qcGVn.jpeg"
@@ -28,33 +29,30 @@ styles: ["Country"]
 Ghosts of West Virginia is the twentieth studio album by American country musician Steve Earle, credited to Steve Earle and the Dukes. It was released on May 22, 2020, under New West Records. Most of the songs were written for the off-Broadway play Coal Country about the Upper Big Branch Mine disaster in 2010. Earle collaborated on the play written by Jessica Blank and Erik Jensen, drawing on interviews with survivors and families of the miners.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Heaven Ain't Goin' Nowhere (1:39)
-2. Union, God And Country (2:23)
-3. Devil Put The Coal In The Ground (2:54)
-4. John Henry Was A Steel Drivin' Man (3:28)
-5. Time Is Never On Our Side (2:55)
-6. It's About Blood (4:34)
-7. If I Could See Your Face Again (2:57)
-8. Black Lung (3:20)
-9. Fastest Man Alive (2:51)
-10. The Mine (2:48)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Heaven Ain't Goin' Nowhere | 1:39 |
+| A2 | Union, God And Country | 2:23 |
+| A3 | Devil Put The Coal In The Ground | 2:54 |
+| A4 | John Henry Was A Steel Drivin' Man | 3:28 |
+| A5 | Time Is Never On Our Side | 2:55 |
+| B1 | It's About Blood | 4:34 |
+| B2 | If I Could See Your Face Again | 2:57 |
+| B3 | Black Lung | 3:20 |
+| B4 | Fastest Man Alive | 2:51 |
+| B5 | The Mine | 2:48 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ghosts-of-west-virginia/1499101368" >}}<br>
 
 
-## Videos
-### Steve Earle  The Dukes - Devil Put the Coal in the Ground Audio Only
-{{< youtube id="d5tOkJK8DUk" title="Steve Earle  The Dukes - Devil Put the Coal in the Ground Audio Only" >}}<br>
-### More Videos
-
-- [Steve Earle  The Dukes - Its About Blood Audio Only](https://www.youtube.com/watch?v=iKWPjr0NPQo)
-- [Union God and Country A Livestream Performance of Ghosts of West Virginia  QA](https://www.youtube.com/watch?v=L5QqgJ3u11k)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +64,5 @@ Ghosts of West Virginia is the twentieth studio album by American country musici
 | Format         | Vinyl LP Album Limited Edition Mono (Blue & Gold West Virginia) |
 | Label          | New West Records |
 | Catalog Number | NW5397 |
-| Notes | Indie "blue and gold" limited edition pressing.  Includes 4-page printed insert containing photographs, lyrics and credits.  Some copies included a turntable slip mat containing the album cover artwork.  |
-| Discogs URL    | [Steve Earle & The Dukes - Ghosts Of West Virginia](https://www.discogs.com/release/15330013-Steve-Earle-The-Dukes-Ghosts-Of-West-Virginia) |
+| Notes | Indie "blue and gold" limited edition pressing.<br><br>Includes 4-page printed insert containing photographs, lyrics and credits.<br><br>Some copies included a turntable slip mat containing the album cover artwork.<br> |
+| Discogs URL    | [Steve Earle  The Dukes - Ghosts Of West Virginia](https://www.discogs.com/release/15330013-Steve-Earle-The-Dukes-Ghosts-Of-West-Virginia) |

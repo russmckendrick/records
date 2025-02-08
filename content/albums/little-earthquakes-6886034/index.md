@@ -34,39 +34,26 @@ Her label famously wanted to replace the album’s piano with guitars—a respon
 
 
 ## Tracklisting
-1. Crucify (4:59)
-2. Girl (4:08)
-3. Silent All These Years (4:12)
-4. Precious Things (4:27)
-5. Winter (5:42)
-6. Happy Phantom (3:17)
-7. China (4:58)
-8. Leather (3:12)
-9. Mother (6:59)
-10. Tear In Your Hand (4:39)
-11. Me And A Gun (3:45)
-12. Little Earthquakes (6:52)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Crucify | 4:59 |
+| A2 | Girl | 4:08 |
+| A3 | Silent All These Years | 4:12 |
+| A4 | Precious Things | 4:27 |
+| A5 | Winter | 5:42 |
+| A6 | Happy Phantom | 3:17 |
+| B1 | China | 4:58 |
+| B2 | Leather | 3:12 |
+| B3 | Mother | 6:59 |
+| B4 | Tear In Your Hand | 4:39 |
+| B5 | Me And A Gun | 3:45 |
+| B6 | Little Earthquakes | 6:52 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/little-earthquakes-remastered/981370459" >}}<br>
 
 
-## Videos
-### Crucify 2015 Remaster
-{{< youtube id="dGBwsC0yJ8o" title="Crucify 2015 Remaster" >}}<br>
-### More Videos
-
-- [Girl 2015 Remaster](https://www.youtube.com/watch?v=boNX-dl7VXc)
-- [Silent All These Years 2015 Remaster](https://www.youtube.com/watch?v=qt9IkhdRK30)
-- [Precious Things 2015 Remaster](https://www.youtube.com/watch?v=e6z2wE8ECao)
-- [Tori Amos-Winter](https://www.youtube.com/watch?v=9JofmYkcaRE)
-- [Happy Phantom 2015 Remaster](https://www.youtube.com/watch?v=4ZUkTtAsv4A)
-- [China 2015 Remaster](https://www.youtube.com/watch?v=zKGgBz5cVfo)
-- [Leather 2015 Remaster](https://www.youtube.com/watch?v=athwHqqtSpM)
-- [Mother 2015 Remaster](https://www.youtube.com/watch?v=2uaA23WOytc)
-- [Tear in Your Hand 2015 Remaster](https://www.youtube.com/watch?v=kGjpRNtoA0A)
-- [Me and a Gun 2015 Remaster](https://www.youtube.com/watch?v=_jjaiM71CtI)
-- [Little Earthquakes 2015 Remaster](https://www.youtube.com/watch?v=VzPtNtrNm_k)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +65,5 @@ Her label famously wanted to replace the album’s piano with guitars—a respon
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Atlantic |
 | Catalog Number | 081227968304 |
-| Notes | Made in EU. Insert included.   |
+| Notes | Made in EU. Insert included.<br><br> |
 | Discogs URL    | [Tori Amos - Little Earthquakes](https://www.discogs.com/release/6886034-Tori-Amos-Little-Earthquakes) |

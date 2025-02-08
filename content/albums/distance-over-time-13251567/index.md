@@ -4,6 +4,7 @@ artist_name: "Dream Theater"
 artist: "dream-theater"
 album_name: "Distance Over Time"
 date: 2019-02-22T18:15:05.000000Z
+release_date: "2013-09-18"
 release_id: "13251567"
 slug: "distance-over-time-13251567"
 hideSummary: true
@@ -37,39 +38,39 @@ styles: ["Heavy Metal", "Progressive Metal"]
 ---
 
 Distance Over Time is the fourteenth studio album by American progressive metal band Dream Theater, released on February 22, 2019, and the band's first release on Inside Out Music. Distance over Time was announced alongside a tour of North America during which Dream Theater would support the new album and celebrate the 20th anniversary of its fifth studio album, Metropolis Pt. 2: Scenes from a Memory (1999). On December 7, 2018, the lead single "Untethered Angel" and its music video were released. The second single, "Fall into the Light", was released on January 11, 2019. The third single, "Paralyzed", and its accompanying video were released on February 8, 2019. It is the band's most successful album chart-wise to date, taking top 10 positions in 19 countries (including going to number one in Germany and Switzerland).
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Untethered Angel (6:12)
-2. Paralyzed (4:14)
-3. Fall Into The Light (7:01)
-4. Barstool Warrior (6:41)
-5. Room 137 (4:20)
-6. S2N (6:19)
-7. At Wit's End (9:16)
-8. Out Of Reach (4:00)
-9. Pale Blue Dot (8:20)
-10. Viper King (3:58)
-11. Untethered Angel (6:15)
-12. Paralyzed (4:18)
-13. Fall Into The Light (7:05)
-14. Barstool Warrior (6:43)
-15. Room 137 (4:24)
-16. S2N (6:21)
-17. A Wit's End (9:21)
-18. Out Of Reach (4:05)
-19. Pale Blue Dot (8:26)
-20. Viper King (4:01)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Untethered Angel | 6:12 |
+| A2 | Paralyzed | 4:14 |
+| A3 | Fall Into The Light | 7:01 |
+| B1 | Barstool Warrior | 6:41 |
+| B2 | Room 137 | 4:20 |
+| B3 | S2N | 6:19 |
+| C1 | At Wit's End | 9:16 |
+| C2 | Out Of Reach | 4:00 |
+| D1 | Pale Blue Dot | 8:20 |
+| D2 | Viper King | 3:58 |
+| CD-1 | Untethered Angel | 6:15 |
+| CD-2 | Paralyzed | 4:18 |
+| CD-3 | Fall Into The Light | 7:05 |
+| CD-4 | Barstool Warrior | 6:43 |
+| CD-5 | Room 137 | 4:24 |
+| CD-6 | S2N | 6:21 |
+| CD-7 | A Wit's End | 9:21 |
+| CD-8 | Out Of Reach | 4:05 |
+| CD-9 | Pale Blue Dot | 8:26 |
+| CD-10 | Viper King | 4:01 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dream-theater/676891642" >}}<br>
 
-
-## Videos
-### Dream Theater - Distance Over Time - Full album 2019
-{{< youtube id="SqeWgDH09Nk" title="Dream Theater - Distance Over Time - Full album 2019" >}}<br>
 
 
 ## Release Images
@@ -82,5 +83,5 @@ Distance Over Time is the fourteenth studio album by American progressive metal 
 | Format         | Vinyl 2× LP Album Stereo (180 gram), CD Album Stereo |
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 523 |
-| Notes | This is the 180 gram black vinyl version, housed into a gatefold cover with 8-page insert (with printed credits and lyrics); it also includes a bonus CD with the copy of the album housed in a clear plastic pouch. It comes with hype-sticker on external sleeve.  Durations do not appear on this release.  CD mastered at Baker Mastering LP mastered at Fine Tune Mastering |
+| Notes | This is the 180 gram black vinyl version, housed into a gatefold cover with 8-page insert (with printed credits and lyrics); it also includes a bonus CD with the copy of the album housed in a clear plastic pouch.<br>It comes with hype-sticker on external sleeve.<br><br>Durations do not appear on this release.<br><br>CD mastered at Baker Mastering<br>LP mastered at Fine Tune Mastering |
 | Discogs URL    | [Dream Theater - Distance Over Time](https://www.discogs.com/release/13251567-Dream-Theater-Distance-Over-Time) |

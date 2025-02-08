@@ -4,6 +4,7 @@ artist_name: "Obey Robots"
 artist: "obey-robots"
 album_name: "One In A Thousand"
 date: 2023-03-01T04:35:54.000000Z
+release_date: "2023-02-24"
 release_id: "26209652"
 slug: "one-in-a-thousand-26209652"
 hideSummary: true
@@ -21,34 +22,29 @@ styles: ["Alternative Rock", "Indie Pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Not The Quiet Type
-2. One Of These Days
-3. Elephant
-4. Next Summer
-5. Glitter To Dust
-6. Porcupine
-7. Old Kindnesses
-8. Super Connected
-9. Let It Snow
-10. One In A Thousand
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Not The Quiet Type |  |
+| A2 | One Of These Days |  |
+| A3 | Elephant |  |
+| A4 | Next Summer |  |
+| A5 | Glitter To Dust |  |
+| B1 | Porcupine |  |
+| B2 | Old Kindnesses |  |
+| B3 | Super Connected |  |
+| B4 | Let It Snow |  |
+| B5 | One In A Thousand |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/one-in-a-thousand/1671552108" >}}<br>
 
 
-## Videos
-### One in a Thousand
-{{< youtube id="S92lbepekyg" title="One in a Thousand" >}}<br>
-### More Videos
-
-- [Porcupine - Obey Robots Official Music Video](https://www.youtube.com/watch?v=U_jgPXdXKOs)
-- [Not The Quiet Type - Obey Robots Official Music Video](https://www.youtube.com/watch?v=HhLo2yzxbVo)
-- [Elephant - Obey Robots Official Music Video](https://www.youtube.com/watch?v=c7EIIMGLfvw)
-- [UK Album Chart Position Reveal Obey Robots One In A Thousand](https://www.youtube.com/watch?v=l71w6rHs5tk)
-- [Super Connected - Obey Robots Official Music Video](https://www.youtube.com/watch?v=PCHSlFB8VN4)
-- [Let It Snow - Obey Robots Official Music Video](https://www.youtube.com/watch?v=cb734Q9HuK4)
 
 ## Release Images
 {{< imageGrid >}}

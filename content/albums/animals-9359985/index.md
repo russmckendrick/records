@@ -4,6 +4,7 @@ artist_name: "Pink Floyd"
 artist: "pink-floyd"
 album_name: "Animals"
 date: 2016-11-18T18:42:09.000000Z
+release_date: "2006-07-11"
 release_id: "9359985"
 slug: "animals-9359985"
 hideSummary: true
@@ -31,28 +32,25 @@ styles: ["Prog Rock"]
 Animals is the tenth studio album by the English rock band Pink Floyd, released on 21 January 1977, by Harvest Records and Columbia Records. Pink Floyd produced it at their new studio, Britannia Row Studios, in London throughout 1976. The album continued the long-form compositions that made up such previous works as Meddle (1971) and Wish You Were Here (1975).
 A lyrical departure from Pink Floyd's previous albums, Animals is a concept album that focuses on the sociopolitical conditions of mid-1970s Britain. Tension within the band during production culminated in the firing of the keyboardist, Richard Wright, two years after the album's release. The cover, conceived by the bassist and lead songwriter, Roger Waters, and designed by their long-time collaborator Storm Thorgerson, shows an inflatable pig floating between two chimneys of Battersea Power Station.
 Pink Floyd released no singles from Animals but promoted it through the In the Flesh tour. Waters' agitation with audiences during this tour inspired their next album, The Wall (1979). Animals reached number 2 in the UK and number 3 in the US. It initially received mixed reviews, but gained more favourable reviews in later years, and is considered one of Pink Floyd's best works.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Pigs On The Wing (Part One)
-2. Dogs
-3. Pigs (Three Different Ones)
-4. Sheep
-5. Pigs On The Wing (Part Two)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Pigs On The Wing (Part One) |  |
+| A2 | Dogs |  |
+| B1 | Pigs (Three Different Ones) |  |
+| B2 | Sheep |  |
+| B3 | Pigs On The Wing (Part Two) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/pink-floyd/278703138" >}}<br>
 
 
-## Videos
-### Pink Floyd -1st UK press vinyl - Animals - side 1
-{{< youtube id="EnQOQ7aki30" title="Pink Floyd -1st UK press vinyl - Animals - side 1" >}}<br>
-### More Videos
-
-- [Pink Floyd -1st UK press vinyl - Animals - side 2](https://www.youtube.com/watch?v=loblTGvJC2M)
-- [Pink Floyd - Sheep 1977 Philippines Pressing - Vinyl recording HD](https://www.youtube.com/watch?v=DRBcfMpJg08)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +62,5 @@ Pink Floyd released no singles from Animals but promoted it through the In the F
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180g, Gatefold) |
 | Label          | Pink Floyd Records |
 | Catalog Number | PFRLP10 |
-| Notes | Issued in a gatefold sleeve with a cardboard inner sleeve which has rounded corners  printed with lyrics, publishing and copyright details on both sides.  Hype sticker is affixed to the shrinkwrap. The French release is exactly the same except sticker text is in French instead of English.  1st cat# PFRLP10 is printed on sticker, rear sleeve & spine. 2nd cat# PFRLP 10 is printed on the inner sleeve 3rd cat# 0190295996963 is printed on sticker, inner sleeve & rear sleeve.  Hype sticker on shrinkwrap reads: "The stereo remastered album on heavyweight 180ɢ vinyl. Remastered from the original analogue tapes by James Guthrie, Joel Plante and Bernie Grundman. Original UK release date: January 1977"  Recorded at Britannia Row Studios, London.  Published by Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij B.V. (BUM/STE), administered by Warner/Chappell Music Publishing Limited for the world excluding U.S.A & Canada. US.A & Canada: Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij B.V. (BUM/STE). All rights on behalf of Artemis Muziekuitgeverij B.V. administered by Warner-Tamerlane Publishing Corp.  Except A2, published by Pink Floyd Music Publishers Ltd. administered by Imagem UK Ltd. / Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij B.V. (BUM/STE) administered by Warner Chappell Music Publishing Limited for the World excluding USA & Canada. USA & Canada: Pink Floyd Music Publishers Ltd. administered by Imagem UK Ltd. / Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij B.V. (BUM/STE). All rights on behalf of Artemis Muziekuitgeverij B.V. administered by Warner-Tamerlane Publishing Corp.  Printed on sticker, back sleeve, inner sleeve, and labels: ℗ 2016 Pink Floyd Music Ltd., marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company. © 2016 Pink Floyd Music Ltd. Made in the E.U.  Printed in the gatefold sleeve: 7701 PCSS Made and printed in the E.U.  Runouts: - "17203 1A" / "17203 1B" / "17203 5A" / "17203 5B" / "17203 7A" / "17203 7B" are stamped, everything else is etched - Variant 5: the last ’B’ is barely visible |
+| Notes | Issued in a gatefold sleeve with a cardboard inner sleeve which has rounded corners <br>printed with lyrics, publishing and copyright details on both sides. <br>Hype sticker is affixed to the shrinkwrap. The French release is exactly the same except sticker text is in French instead of English.<br><br>1st cat# PFRLP10 is printed on sticker, rear sleeve & spine.<br>2nd cat# PFRLP 10 is printed on the inner sleeve<br>3rd cat# 0190295996963 is printed on sticker, inner sleeve & rear sleeve.<br><br>Hype sticker on shrinkwrap reads:<br>"The stereo remastered album on heavyweight 180ɢ vinyl.<br>Remastered from the original analogue tapes by James Guthrie, Joel Plante and Bernie Grundman.<br>Original UK release date: January 1977"<br><br>Recorded at Britannia Row Studios, London.<br><br>Published by Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij B.V. (BUM/STE), administered by Warner/Chappell Music Publishing Limited for the world excluding U.S.A & Canada. US.A & Canada: Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij B.V. (BUM/STE). All rights on behalf of Artemis Muziekuitgeverij B.V. administered by Warner-Tamerlane Publishing Corp. <br>Except A2, published by Pink Floyd Music Publishers Ltd. administered by Imagem UK Ltd. / Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij B.V. (BUM/STE) administered by Warner Chappell Music Publishing Limited for the World excluding USA & Canada. USA & Canada: Pink Floyd Music Publishers Ltd. administered by Imagem UK Ltd. / Roger Waters Music Overseas Limited, Artemis Muziekuitgeverij B.V. (BUM/STE). All rights on behalf of Artemis Muziekuitgeverij B.V. administered by Warner-Tamerlane Publishing Corp.<br><br>Printed on sticker, back sleeve, inner sleeve, and labels:<br>℗ 2016 Pink Floyd Music Ltd., marketed and distributed by Parlophone Records Ltd., a Warner Music Group Company.<br>© 2016 Pink Floyd Music Ltd.<br>Made in the E.U.<br><br>Printed in the gatefold sleeve:<br>7701 PCSS Made and printed in the E.U.<br><br>Runouts:<br>- "17203 1A" / "17203 1B" / "17203 5A" / "17203 5B" / "17203 7A" / "17203 7B" are stamped, everything else is etched<br>- Variant 5: the last ’B’ is barely visible |
 | Discogs URL    | [Pink Floyd - Animals](https://www.discogs.com/release/9359985-Pink-Floyd-Animals) |

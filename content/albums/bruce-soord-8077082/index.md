@@ -4,6 +4,7 @@ artist_name: "Bruce Soord"
 artist: "bruce-soord"
 album_name: "Bruce Soord"
 date: 2016-02-17T18:14:48.000000Z
+release_date: "2015-11-27"
 release_id: "8077082"
 slug: "bruce-soord-8077082"
 hideSummary: true
@@ -24,26 +25,28 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Black Smoke
-2. Buried Here
-3. The Odds
-4. A Thousand Daggers
-5. Born In Delusion
-6. Willow Tree
-7. Field Day Part 1
-8. Field Day Part 2
-9. Familiar Patterns
-10. Leaves Leave Me
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Black Smoke |  |
+| A2 | Buried Here |  |
+| A3 | The Odds |  |
+| A4 | A Thousand Daggers |  |
+| A5 | Born In Delusion |  |
+| B1 | Willow Tree |  |
+| B2 | Field Day Part 1 |  |
+| B3 | Field Day Part 2 |  |
+| B4 | Familiar Patterns |  |
+| B5 | Leaves Leave Me |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bruce-soord/1049319243" >}}<br>
 
-
-## Videos
-### Bruce Soord - Familiar Patterns from Bruce Soord
-{{< youtube id="IYBB2iHfutE" title="Bruce Soord - Familiar Patterns from Bruce Soord" >}}<br>
 
 
 ## Release Images

@@ -4,6 +4,7 @@ artist_name: "John Lennon"
 artist: "john-lennon"
 album_name: "Mind Games"
 date: 2024-07-16T05:08:51.000000Z
+release_date: "1973-01-01"
 release_id: "31202122"
 slug: "mind-games-31202122"
 hideSummary: true
@@ -51,45 +52,45 @@ Mind Games is the third solo studio album by English musician John Lennon. It wa
 The album was recorded while Lennon was having difficulties with US immigration and at the beginning of his 18-month separation from Yoko Ono. The title track was released as a single at the same time as the album. The album itself was later reissued several times throughout the 1970s and 1980s, and as an expanded super deluxe box set in 2024.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Ultimate Mixes
-2. Mind Games (4:13)
-3. Tight A$ (3:39)
-4. Aisumasen (I'm Sorry) (4:40)
-5. One Day (At A Time) (3:10)
-6. Bring On The Lucie (Freda Peeple) (4:12)
-7. Nuthopian International Anthem (0:04)
-8. Intuition (3:11)
-9. Out The Blue (3:23)
-10. Only People (3:40)
-11. I Know (I Know) (3:51)
-12. You Are Here (4:13)
-13. Meat City (2:52)
-14. The Out-Takes
-15. Mind Games (Take 7) (4:23)
-16. Tight A$ (Take 6) (2:08)
-17. Aisumasen (I'm Sorry) (Take 2) (4:40)
-18. One Day (At A Time) (Take 18) (3:15)
-19. Bring On The Lucie (Freda Peeple) (Take 15) (4:30)
-20. Declaration Of Nutopia (Take 1) (1:47)
-21. Intuition (Take 12) (3:31)
-22. Out The Blue (Take 15) (3:03)
-23. Only People (Take 12) (3:32)
-24. I Know (I Know) (Take 22) (3:42)
-25. You Are Here (Take 5) (10:54)
-26. Meat City (Take 16) (6:03)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Ultimate Mixes |  |
+| A1 | Mind Games | 4:13 |
+| A2 | Tight A$ | 3:39 |
+| A3 | Aisumasen (I'm Sorry) | 4:40 |
+| A4 | One Day (At A Time) | 3:10 |
+| A5 | Bring On The Lucie (Freda Peeple) | 4:12 |
+| A6 | Nuthopian International Anthem | 0:04 |
+| B1 | Intuition | 3:11 |
+| B2 | Out The Blue | 3:23 |
+| B3 | Only People | 3:40 |
+| B4 | I Know (I Know) | 3:51 |
+| B5 | You Are Here | 4:13 |
+| B6 | Meat City | 2:52 |
+|  | The Out-Takes |  |
+| C1 | Mind Games (Take 7) | 4:23 |
+| C2 | Tight A$ (Take 6) | 2:08 |
+| C3 | Aisumasen (I'm Sorry) (Take 2) | 4:40 |
+| C4 | One Day (At A Time) (Take 18) | 3:15 |
+| C5 | Bring On The Lucie (Freda Peeple) (Take 15) | 4:30 |
+| C6 | Declaration Of Nutopia (Take 1) | 1:47 |
+| D1 | Intuition (Take 12) | 3:31 |
+| D2 | Out The Blue (Take 15) | 3:03 |
+| D3 | Only People (Take 12) | 3:32 |
+| D4 | I Know (I Know) (Take 22) | 3:42 |
+| D5 | You Are Here (Take 5) | 10:54 |
+| D6 | Meat City (Take 16) | 6:03 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mind-games/1440854146" >}}<br>
 
-
-## Videos
-### John Lennon - Mind Games Ultimate Mix 2024 4K Official Video - Restored 2024
-{{< youtube id="TypGp7hlmuY" title="John Lennon - Mind Games Ultimate Mix 2024 4K Official Video - Restored 2024" >}}<br>
 
 
 ## Release Images
@@ -102,5 +103,5 @@ The album was recorded while Lennon was having difficulties with US immigration 
 | Format         | Vinyl LP Album Reissue, Vinyl LP |
 | Label          | Lenono Music |
 | Catalog Number | 0602458993288 |
-| Notes | The Ultimate Mixes & Out-Takes Completely Remixed From The Original Multitracks.  Gatefold sleeve including Poster, 2 Postcards, 8 Page Booklet and an individually numbered Citizen of Nutopia ID Card.  Track D5 is (incorrectly) listed with 10:54 minutes, but is edited down to 5:39 minutes here.  ℗ & © 2024 The copyright in this compilation is owned by Calderstone Productions Limited (a division of Universal Music Group)/Yoko Ono Lennon.  Printed in E.U.  All Selections Copyright © 1973 Lenono Music administered by Downtown Music Ltd. ℗ & © 2024 Calderstone Productions Limited ( a division of Universal Music Group)/Lenono Music.   |
+| Notes | The Ultimate Mixes & Out-Takes<br>Completely Remixed From The Original Multitracks.<br><br>Gatefold sleeve including Poster, 2 Postcards, 8 Page Booklet and an individually numbered Citizen of Nutopia ID Card.<br><br>Track D5 is (incorrectly) listed with 10:54 minutes, but is edited down to 5:39 minutes here.<br><br>℗ & © 2024 The copyright in this compilation is owned by Calderstone Productions Limited (a division of Universal Music Group)/Yoko Ono Lennon.<br><br>Printed in E.U.<br><br>All Selections Copyright © 1973 Lenono Music administered by Downtown Music Ltd.<br>℗ & © 2024 Calderstone Productions Limited ( a division of Universal Music Group)/Lenono Music.<br><br> |
 | Discogs URL    | [John Lennon - Mind Games](https://www.discogs.com/release/31202122-John-Lennon-Mind-Games) |

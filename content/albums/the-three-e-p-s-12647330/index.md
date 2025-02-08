@@ -4,6 +4,7 @@ artist_name: "The Beta Band"
 artist: "the-beta-band"
 album_name: "The Three E.P.'s"
 date: 2018-10-12T19:58:57.000000Z
+release_date: "1998-09-28"
 release_id: "12647330"
 slug: "the-three-e-p-s-12647330"
 hideSummary: true
@@ -31,57 +32,48 @@ The Three E.P.'s was prominently featured in a scene from the 2000 film High Fid
 Front man Steve Mason later said, "At the time I just thought this is the way all music should be made. I hated the people who were just in bands; who the fuck wants to be in a band with a guitarist and a bassist and a lead singer? All this Britpop shit had been rammed down everyone's throats. Honesty and experimentation were our weapons of choice."
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Champion Versions
-2. Dry The Rain
-3. I Know
-4. B + A
-5. Dogs Got A Bone
-6. The Patty Patty Sound
-7. Inner Meet Me
-8. The House Song
-9. Monolith
-10. She's The One
-11. Los Amigos Del Beta Bandidos
-12. Push It Out
-13. It's Over
-14. Dr. Baker
-15. Needles In My Eyes
-16. CD
-17. Dry The Rain
-18. I Know
-19. B + A
-20. Dogs Got A Bone
-21. Inner Meet Me
-22. The House Song
-23. Monolith
-24. She's The One
-25. Push It Out
-26. It's Over
-27. Dr. Baker
-28. Needles In My Eyes
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Champion Versions |  |
+| A1 | Dry The Rain |  |
+| A2 | I Know |  |
+| A3 | B + A |  |
+| B1 | Dogs Got A Bone |  |
+|  | The Patty Patty Sound |  |
+| B2 | Inner Meet Me |  |
+| B3 | The House Song |  |
+| C1 | Monolith |  |
+| C2 | She's The One |  |
+|  | Los Amigos Del Beta Bandidos |  |
+| D1 | Push It Out |  |
+| D2 | It's Over |  |
+| D3 | Dr. Baker |  |
+| D4 | Needles In My Eyes |  |
+|  | CD |  |
+| CD1 | Dry The Rain |  |
+| CD2 | I Know |  |
+| CD3 | B + A |  |
+| CD4 | Dogs Got A Bone |  |
+| CD5 | Inner Meet Me |  |
+| CD6 | The House Song |  |
+|  CD7 | Monolith |  |
+| CD8 | She's The One |  |
+| CD9 | Push It Out |  |
+| CD10 | It's Over |  |
+| CD11 | Dr. Baker |  |
+|  CD12 | Needles In My Eyes |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-three-e-p-s/1339273695" >}}<br>
 
 
-## Videos
-### Dry The Rain Remaster
-{{< youtube id="6XKvbROUmNk" title="Dry The Rain Remaster" >}}<br>
-### More Videos
-
-- [I Know Remaster](https://www.youtube.com/watch?v=3LmCqpEJdI8)
-- [B  A Remaster](https://www.youtube.com/watch?v=vuBCId0eics)
-- [Dogs Got a Bone Remaster](https://www.youtube.com/watch?v=NGQcC9LE1i8)
-- [Inner Meet Me Remaster](https://www.youtube.com/watch?v=Abzt4cFprM4)
-- [The House Song Remaster](https://www.youtube.com/watch?v=IP0fjwj18-Q)
-- [The Monolith Remaster](https://www.youtube.com/watch?v=-Wle35U34_o)
-- [Shes the One Remaster](https://www.youtube.com/watch?v=yC6OQQ5E3gM)
-- [The Beta Band - Los Amigos Del Beta Bandidos EP Official Music Videos](https://www.youtube.com/watch?v=uaz3BW_FeZE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -93,5 +85,5 @@ Front man Steve Mason later said, "At the time I just thought this is the way al
 | Format         | Vinyl LP (Orange), Vinyl LP (Yellow), CD, All Media Compilation Limited Edition Reissue Remastered |
 | Label          | Because Music |
 | Catalog Number | BE5543747 |
-| Notes | First cat. no on barcode stuck on rear of sleeve (to distinguish from [url=https://www.discogs.com/The-Beta-Band-The-Three-EPs/release/12647429]standard black vinyl version[/url]), 2nd cat. no. on spine, 3rd cat. no on CD (in generic plastic wallet).  Gold hype sticker on front, affixed to shrink wrap: 20th Anniversary Remastered edition. Coloured Vinyl + CD  B3 not listed on label  Yellow/Orange 2LP edition exclusively sold via Rough Trade. Limited to 500 copies according to Rough Trade website  |
+| Notes | First cat. no on barcode stuck on rear of sleeve (to distinguish from [url=https://www.discogs.com/The-Beta-Band-The-Three-EPs/release/12647429]standard black vinyl version[/url]), 2nd cat. no. on spine, 3rd cat. no on CD (in generic plastic wallet).<br><br>Gold hype sticker on front, affixed to shrink wrap: 20th Anniversary Remastered edition. Coloured Vinyl + CD<br><br>B3 not listed on label<br><br>Yellow/Orange 2LP edition exclusively sold via Rough Trade. Limited to 500 copies according to Rough Trade website  |
 | Discogs URL    | [The Beta Band - The Three E.P.'s](https://www.discogs.com/release/12647330-The-Beta-Band-The-Three-EPs) |

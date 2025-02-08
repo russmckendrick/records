@@ -4,6 +4,7 @@ artist_name: "Goldfrapp"
 artist: "goldfrapp"
 album_name: "Black Cherry"
 date: 2021-04-01T00:48:05.000000Z
+release_date: "2003-04-23"
 release_id: "14182932"
 slug: "black-cherry-14182932"
 hideSummary: true
@@ -29,37 +30,30 @@ Black Cherry is the second studio album by English electronic music duo Goldfrap
 The album debuted at number 19 on the UK Albums Chart and has been certified platinum by the British Phonographic Industry (BPI). As of May 2005, it had sold nearly 500,000 copies worldwide. Black Cherry yielded four singles, including "Strict Machine", which reached number 20 on the UK Singles Chart. It earned the band a nomination for Best British Dance Act at the 2004 Brit Awards. The album was supported by the Black Cherry Tour (2003–2004).
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Crystalline Green
-2. Train
-3. Black Cherry
-4. Tiptoe
-5. Deep Honey
-6. Hairy Trees
-7. Twist
-8. Strict Machine
-9. Forever
-10. Slippage
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Crystalline Green |  |
+| A2 | Train |  |
+| A3 | Black Cherry |  |
+| A4 | Tiptoe |  |
+| A5 | Deep Honey |  |
+| B1 | Hairy Trees |  |
+| B2 | Twist |  |
+| B3 | Strict Machine |  |
+| B4 | Forever |  |
+| B5 | Slippage |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/black-cherry/1435643051" >}}<br>
 
 
-## Videos
-### Goldfrapp - Strict Machine Official HD Video
-{{< youtube id="YeawPUpTHJA" title="Goldfrapp - Strict Machine Official HD Video" >}}<br>
-### More Videos
-
-- [Goldfrapp - Black Cherry Documentary](https://www.youtube.com/watch?v=Lgktgw8a69I)
-- [Goldfrapp - Train](https://www.youtube.com/watch?v=PHnYe5Nj0F0)
-- [Goldfrapp - Twist](https://www.youtube.com/watch?v=tAhMo-wWTsk)
-- [Goldfrapp - Black Cherry Lyric Video](https://www.youtube.com/watch?v=vnN342N6NQw)
-- [Crystalline Green](https://www.youtube.com/watch?v=4mZZOIBD0wA)
-- [Goldfrapp - Crystalline Green Remastered Video](https://www.youtube.com/watch?v=juLtASAJ-ws)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +65,5 @@ The album debuted at number 19 on the UK Albums Chart and has been certified pla
 | Format         | Vinyl LP Album Limited Edition Reissue Special Edition (Purple) |
 | Label          | Mute |
 | Catalog Number | Stumm196 |
-| Notes | Includes exclusive art print.  Signed art print comes with first 150 orders + 50 randomly added to other orders from their website.  ℗ & © 2003 Mute Records Ltd., a BMG company. Manufactured in the EU. |
+| Notes | Includes exclusive art print.<br><br>Signed art print comes with first 150 orders + 50 randomly added to other orders from their website.<br><br>℗ & © 2003 Mute Records Ltd., a BMG company.<br>Manufactured in the EU. |
 | Discogs URL    | [Goldfrapp - Black Cherry](https://www.discogs.com/release/14182932-Goldfrapp-Black-Cherry) |

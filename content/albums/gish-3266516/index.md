@@ -4,6 +4,7 @@ artist_name: "The Smashing Pumpkins"
 artist: "the-smashing-pumpkins"
 album_name: "Gish"
 date: 2016-02-27T10:12:09.000000Z
+release_date: "2000-02-29"
 release_id: "3266516"
 slug: "gish-3266516"
 hideSummary: true
@@ -38,34 +39,31 @@ Gish is the debut studio album by the American alternative rock band the Smashin
 Despite initially peaking at only number 195 on the Billboard 200 upon its release, Gish received critical acclaim, with particular praise directed at the band's distinctive psychedelic sound. The album was eventually certified platinum (at least one million copies shipped in the US) by the Recording Industry Association of America (RIAA), becoming one of the best-selling independent albums at the time. It has since been ranked by multiple publications as one of the best rock albums of the 1990s, with Pitchfork deeming "without Gish, there would probably be no Nevermind as we know it."
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. I Am One
-2. Siva
-3. Rhinoceros
-4. Bury Me
-5. Crush
-6. Suffer
-7. Snail
-8. Tristessa
-9. Window Paine
-10. Daydream
-11. I'm Going Crazy
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Am One |  |
+| A2 | Siva |  |
+| A3 | Rhinoceros |  |
+| A4 | Bury Me |  |
+| A5 | Crush |  |
+| B1 | Suffer |  |
+| B2 | Snail |  |
+| B3 | Tristessa |  |
+| B4 | Window Paine |  |
+| B5 | Daydream |  |
+| B6 | I'm Going Crazy |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/machina-the-machines-of-god/712756036" >}}<br>
 
 
-## Videos
-### The Smashing Pumpkins - I Am One Official Music Video
-{{< youtube id="Pi6RJmUNBbw" title="The Smashing Pumpkins - I Am One Official Music Video" >}}<br>
-### More Videos
-
-- [The Smashing Pumpkins - Siva Official Music Video](https://www.youtube.com/watch?v=F3wAtWywrP4)
-- [The Smashing Pumpkins - Rhinoceros Official Music Video](https://www.youtube.com/watch?v=aVfWx9282y0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +75,5 @@ Despite initially peaking at only number 195 on the Billboard 200 upon its relea
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram, Gatefold) |
 | Label          | Virgin |
 | Catalog Number | 5099990959615 |
-| Notes | Includes download code   [l100643] - each side of a record will often be assigned a unique identifier, e.g., S-12345, S-12346, "S-" numbers, is Rainbo's 1.25" pressing ring.   Track B6 is unlisted on label tracklist but lyrics to all songs including B6 appear in inside of gatefold.   ℗ 2011 Virgin Records America, Inc. © 2011 Virgin Records America, Inc.  |
+| Notes | Includes download code<br><br><br>[l100643] - each side of a record will often be assigned a unique identifier, e.g., S-12345, S-12346, "S-" numbers, is Rainbo's 1.25" pressing ring. <br><br>Track B6 is unlisted on label tracklist but lyrics to all songs including B6 appear in inside of gatefold.<br><br><br>℗ 2011 Virgin Records America, Inc.<br>© 2011 Virgin Records America, Inc.<br> |
 | Discogs URL    | [The Smashing Pumpkins - Gish](https://www.discogs.com/release/3266516-Smashing-Pumpkins-Gish) |

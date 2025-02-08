@@ -1,9 +1,10 @@
 ---
 title: "Voïvod - Synchro Anarchy"
 artist_name: "Voïvod"
-artist: "vo-vod"
+artist: "voivod"
 album_name: "Synchro Anarchy"
 date: 2022-02-13T02:52:10.000000Z
+release_date: "2022-02-11"
 release_id: "22112023"
 slug: "synchro-anarchy-22112023"
 hideSummary: true
@@ -24,32 +25,29 @@ styles: ["Thrash", "Progressive Metal"]
 ---
 
 Synchro Anarchy is the fifteenth studio album, and nineteenth release overall, by Canadian heavy metal band Voivod, released on February 11, 2022. Like its predecessor The Wake, this album was produced by Voivod and Francis Perron who also recorded and mixed it. The mastering was done by Maor Appelbaum and the artwork was designed by drummer Michel "Away" Langevin, who has created the cover artwork for each of the band's albums since their 1984 debut War and Pain. Synchro Anarchy also marks the first album by Voivod since 2009's Infini to have been recorded with the same lineup as the prior album.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Paranormalium (5:35)
-2. Synchro Anarchy (4:25)
-3. Planet Eaters (5:33)
-4. Mind Clock (6:45)
-5. Sleeves Off (4:08)
-6. Holographic Thinking (6:12)
-7. The World Today (4:10)
-8. Quest For Nothing (5:38)
-9. Memory Failure (5:33)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Paranormalium | 5:35 |
+| A2 | Synchro Anarchy | 4:25 |
+| A3 | Planet Eaters | 5:33 |
+| A4 | Mind Clock | 6:45 |
+| B1 | Sleeves Off | 4:08 |
+| B2 | Holographic Thinking | 6:12 |
+| B3 | The World Today | 4:10 |
+| B4 | Quest For Nothing | 5:38 |
+| B5 | Memory Failure | 5:33 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/synchro-anarchy/1596372872" >}}<br>
 
 
-## Videos
-### Voïvod  Synchro Anarchy Full Album  2022
-{{< youtube id="HL3-3Fte7Ss" title="Voïvod  Synchro Anarchy Full Album  2022" >}}<br>
-### More Videos
-
-- [VOIVOD - Synchro Anarchy OFFICIAL VIDEO](https://www.youtube.com/watch?v=hryt9k8Zql8)
-- [VOIVOD - Planet Eaters OFFICIAL VIDEO](https://www.youtube.com/watch?v=lvHjNcjMqvU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +59,5 @@ Synchro Anarchy is the fifteenth studio album, and nineteenth release overall, b
 | Format         | Vinyl LP Album Stereo (180g) |
 | Label          | Century Media |
 | Catalog Number | 19439967881 |
-| Notes | Regular black vinyl version, includes A2 poster. 1 I mirrored in runouts (Variant 2)  Made in the EU. |
+| Notes | Regular black vinyl version, includes A2 poster.<br>1 I mirrored in runouts (Variant 2)<br><br>Made in the EU. |
 | Discogs URL    | [Voïvod - Synchro Anarchy](https://www.discogs.com/release/22112023-Voïvod-Synchro-Anarchy) |

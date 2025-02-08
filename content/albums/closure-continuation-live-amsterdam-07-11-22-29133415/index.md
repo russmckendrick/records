@@ -4,6 +4,7 @@ artist_name: "Porcupine Tree"
 artist: "porcupine-tree"
 album_name: "Closure / Continuation.Live. Amsterdam 07/11/22"
 date: 2023-12-14T10:31:25.000000Z
+release_date: "2023-12-08"
 release_id: "29133415"
 slug: "closure-continuation-live-amsterdam-07-11-22-29133415"
 hideSummary: true
@@ -31,65 +32,40 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Blackest Eyes
-2. Harridan
-3. Of The New Day
-4. Rats Return
-5. Even Less
-6. Drown With Me
-7. Dignity
-8. The Sound Of Muzak
-9. Last Chance To Evacuate Planet Earth Before It Is Recycled
-10. Chimera's Wreck
-11. Fear Of A Blank Planet
-12. Buying New Soul
-13. Walk The Plank
-14. Sentimental
-15. Anesthetize
-16. Herd Culling
-17. I Drive The Hearse
-18. Sleep Together
-19. Collapse The Light Into Earth
-20. Halo
-21. Trains
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Blackest Eyes |  |
+| A2 | Harridan |  |
+| A3 | Of The New Day |  |
+| B1 | Rats Return |  |
+| B2 | Even Less |  |
+| B3 | Drown With Me |  |
+| C1 | Dignity |  |
+| C2 | The Sound Of Muzak |  |
+| C3 | Last Chance To Evacuate Planet Earth Before It Is Recycled |  |
+| D1 | Chimera's Wreck |  |
+| D2 | Fear Of A Blank Planet |  |
+| E1 | Buying New Soul |  |
+| E2 | Walk The Plank |  |
+| E3 | Sentimental |  |
+| F | Anesthetize |  |
+| G1 | Herd Culling |  |
+| G2 | I Drive The Hearse |  |
+| G3 | Sleep Together |  |
+| H1 | Collapse The Light Into Earth |  |
+| H2 | Halo |  |
+| H3 | Trains |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/closure-continuation-live-amsterdam-07-11-22/1714270546" >}}<br>
 
 
-## Videos
-### Porcupine Tree - ClosureContinuationLive Trailer
-{{< youtube id="_k0Bq5bmZBQ" title="Porcupine Tree - ClosureContinuationLive Trailer" >}}<br>
-### More Videos
-
-- [Porcupine Tree - ClosureContinuationLive - Out 8th December 2023](https://www.youtube.com/watch?v=u_3VVfuzMm0)
-- [Porcupine Tree - Blackest Eyes CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=MQj_GJR2eac)
-- [Porcupine Tree - Harridan CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=mn_9vD2gudM)
-- [Porcupine Tree - Of the New Day CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=uG2pwXU-zpo)
-- [Porcupine Tree - Rats Return CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=S-IlV9urUo0)
-- [Porcupine Tree - Even Less CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=Quyk-WY5GJo)
-- [Porcupine Tree - Drown With Me CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=QtIROp6lUN0)
-- [Porcupine Tree - Dignity CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=0WH7yNhiFAM)
-- [Porcupine Tree - The Sound of Muzak CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=WIY258tOOaM)
-- [Last Chance To Evacuate Planet Earth Before It Is Recycled CLOSURECONTINUATIONLIVE -](https://www.youtube.com/watch?v=J5aEIZs0aGo)
-- [Porcupine Tree - Chimeras Wreck CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=XNuSKOj8o20)
-- [Porcupine Tree - Fear of a Blank Planet CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=ibpryBvNSuE)
-- [Porcupine Tree - Buying New Soul CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=ifKHeG2BcxQ)
-- [Porcupine Tree - Walk the Plank CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=gvXUGfGYpRU)
-- [Porcupine Tree - Sentimental CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=Cs0fhm_r5E8)
-- [Herd Culling CLOSURECONTINUATIONLIVE](https://www.youtube.com/watch?v=XHyENEfe_4Q)
-- [Porcupine Tree - Anesthetize CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=BDfJGTtr6x4)
-- [Porcupine Tree - I Drive the Hearse CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=_ulIWttpCbw)
-- [Porcupine Tree - Sleep Together CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=WN_Pq1KS5SQ)
-- [Collapse the Light Into Earth CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=5NQ4bhpDph4)
-- [Porcupine Tree - Halo CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=Egw3Ml1EWpE)
-- [Porcupine Tree - Trains CLOSURECONTINUATIONLIVE - Official Visualiser](https://www.youtube.com/watch?v=xb6amQiATds)
-- [Porcupine Tree - ClosureContinuationLive Trailer](https://www.youtube.com/watch?v=_k0Bq5bmZBQ)
-- [Porcupine Tree - ClosureContinuationLive - Out 8th December 2023](https://www.youtube.com/watch?v=u_3VVfuzMm0)
-- [Porcupine Tree - Harridan CLOSURECONTINUATIONLIVE - Official Video](https://www.youtube.com/watch?v=8pavnAi7lNk)
-- [Porcupine Tree - ClosureContinuationLive Trailer](https://www.youtube.com/watch?v=_k0Bq5bmZBQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -100,5 +76,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl 4× LP Limited Edition Stereo (Clear) |
 | Label          | Music For Nations |
 | Catalog Number | 19658830371 |
-| Notes | ℗ & © 2023 Sony Music Entertainment UK Limited.  Limited clear vinyl edition, featuring four records housed in individual sleeves, all housed in a slipcase.  Made in the EU.  All runouts are stamped, except "JASPER" is etched.  Some copies pre-ordered via Burning Shed came with a art print signed by the 3 core band members (see picture).  Track H2 'Halo' has an incorrect writing credit for [a510445] on the release. |
+| Notes | ℗ & © 2023 Sony Music Entertainment UK Limited.<br><br>Limited clear vinyl edition, featuring four records housed in individual sleeves, all housed in a slipcase.<br><br>Made in the EU.<br><br>All runouts are stamped, except "JASPER" is etched.<br><br>Some copies pre-ordered via Burning Shed came with a art print signed by the 3 core band members (see picture).<br><br>Track H2 'Halo' has an incorrect writing credit for [a510445] on the release. |
 | Discogs URL    | [Porcupine Tree - Closure / Continuation.Live. Amsterdam 07/11/22](https://www.discogs.com/release/29133415-Porcupine-Tree-Closure-ContinuationLive-Amsterdam-071122) |

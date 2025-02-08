@@ -4,6 +4,7 @@ artist_name: "The Beach Boys"
 artist: "the-beach-boys"
 album_name: "Good Vibrations"
 date: 2016-10-28T18:30:24.000000Z
+release_date: "2018-06-08"
 release_id: "9268345"
 slug: "good-vibrations-9268345"
 hideSummary: true
@@ -27,30 +28,26 @@ The making of "Good Vibrations" was unprecedented for any kind of recording. Bui
 "Good Vibrations" received a Grammy nomination for Best Vocal Group performance in 1967 and was inducted into the Grammy Hall of Fame in 1994. The song was voted number one in Mojo's "Top 100 Records of All Time" and number 6 on Rolling Stone's 2004 and 2010 editions of its "500 Greatest Songs of All Time" lists, re-ranked to number 53 in the 2021 iteration. It was also included in the Rock and Roll Hall of Fame's list of the "500 Songs that Shaped Rock and Roll". In later years, the song has been cited as a forerunner to the Beatles' "A Day in the Life" (1967) and Queen's "Bohemian Rhapsody" (1975). A 1976 cover version by Todd Rundgren peaked at number 34 on the Billboard Hot 100. The Beach Boys followed up "Good Vibrations" with another single pieced from sections, "Heroes and Villains" (1967), but it was less successful.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Good Vibrations (Original 45 RPM Single Version)
-2. Good Vibrations (Various Sessions)
-3. Good Vibrations (Alternate Take)
-4. Good Vibrations (Instrumental)
-5. Good Vibrations (Live Concert Rehearsal 8/25/67)
-6. Let's Go Away For Awhile (Original B-Side)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Good Vibrations (Original 45 RPM Single Version) |  |
+| A2 | Good Vibrations (Various Sessions) |  |
+| A3 | Good Vibrations (Alternate Take) |  |
+| B1 | Good Vibrations (Instrumental) |  |
+| B2 | Good Vibrations (Live Concert Rehearsal 8/25/67) |  |
+| B3 | Let's Go Away For Awhile (Original B-Side) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-beach-boys-with-the-royal-philharmonic-orchestra/1377348586" >}}<br>
 
 
-## Videos
-### Lets Go Away For A While Mono
-{{< youtube id="A36i97o-VSU" title="Lets Go Away For A While Mono" >}}<br>
-### More Videos
-
-- [Lets Go Away For Awhile](https://www.youtube.com/watch?v=SEoKf52h9ok)
-- [GOOD VIBRATIONS HD THE BEACH BOYS](https://www.youtube.com/watch?v=mdt0SOqPJcg)
-- [The Beach Boys - Good Vibrations - 1967 Vinyle 45 Tours](https://www.youtube.com/watch?v=CyO4nd8WsDE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +59,5 @@ The making of "Good Vibrations" was unprecedented for any kind of recording. Bui
 | Format         | Vinyl 12" 33 ⅓ RPM EP (Red / Orange Swirled) |
 | Label          | Capitol Records |
 | Catalog Number | 00602557041781 |
-| Notes | Universal International Music B.V.  Netherlands incl. Insert Sheet + MP3 Download Voucher   |
+| Notes | Universal International Music B.V.  Netherlands<br>incl. Insert Sheet + MP3 Download Voucher<br><br> |
 | Discogs URL    | [The Beach Boys - Good Vibrations](https://www.discogs.com/release/9268345-The-Beach-Boys-Good-Vibrations) |

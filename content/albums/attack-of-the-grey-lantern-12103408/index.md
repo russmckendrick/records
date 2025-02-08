@@ -4,6 +4,7 @@ artist_name: "Mansun"
 artist: "mansun"
 album_name: "Attack Of The Grey Lantern"
 date: 2018-06-08T17:58:36.000000Z
+release_date: "2017-08-25"
 release_id: "12103408"
 slug: "attack-of-the-grey-lantern-12103408"
 hideSummary: true
@@ -23,26 +24,29 @@ styles: ["Psychedelic Rock", "Britpop"]
 Attack of the Grey Lantern is the debut album by English alternative rock band Mansun released on 17 February 1997 via Parlophone.  The album spent a total of 19 weeks on the UK Albums Chart, peaking at number one.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Chad Who Loved Me (5:02)
-2. Mansun's Only Love Song (5:55)
-3. Taxloss (7:02)
-4. You, Who Do You Hate? (3:06)
-5. Wide Open Space (4:31)
-6. Stripper Vicar (4:05)
-7. Disgusting (5:07)
-8. She Makes My Nose Bleed (3:55)
-9. Naked Twister (4:39)
-10. Egg Shaped Fred (4:11)
-11. Dark Mavis (8:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Chad Who Loved Me | 5:02 |
+| A2 | Mansun's Only Love Song | 5:55 |
+| A3 | Taxloss | 7:02 |
+| B1 | You, Who Do You Hate? | 3:06 |
+| B2 | Wide Open Space | 4:31 |
+| B3 | Stripper Vicar | 4:05 |
+| C1 | Disgusting | 5:07 |
+| C2 | She Makes My Nose Bleed | 3:55 |
+| C3 | Naked Twister | 4:39 |
+| D1 | Egg Shaped Fred | 4:11 |
+| D2 | Dark Mavis | 8:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/attack-of-the-grey-lantern-collectors-edition/1770502521" >}}<br>
-
 
 
 
@@ -56,5 +60,5 @@ Attack of the Grey Lantern is the debut album by English alternative rock band M
 | Format         | Vinyl 2× LP Limited Edition Reissue Remastered (Purple) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE992 |
-| Notes | Gatefold sleeve.   Available from Kscope, Burning Shed & Paul Draper webstores, as well as selected independent record shops. |
+| Notes | Gatefold sleeve. <br><br>Available from Kscope, Burning Shed & Paul Draper webstores, as well as selected independent record shops. |
 | Discogs URL    | [Mansun - Attack Of The Grey Lantern](https://www.discogs.com/release/12103408-Mansun-Attack-Of-The-Grey-Lantern) |

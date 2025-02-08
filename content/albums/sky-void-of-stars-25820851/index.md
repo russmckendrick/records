@@ -64,32 +64,24 @@ It’s probably no surprise that the pandemic got Renkse thinking along these li
 
 
 ## Tracklisting
-1. Austerity
-2. Colossal Shade
-3. Opaline
-4. Birds
-5. Drab Moon
-6. Author
-7. Impermanence
-8. Sclera
-9. Atrium
-10. No Beacon To Illuminate Our Fall
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Austerity |  |
+| A2 | Colossal Shade |  |
+| A3 | Opaline |  |
+| B1 | Birds |  |
+| B2 | Drab Moon |  |
+| B3 | Author |  |
+| C1 | Impermanence |  |
+| C2 | Sclera |  |
+| D1 | Atrium |  |
+| D2 | No Beacon To Illuminate Our Fall |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sky-void-of-stars/1647368479" >}}<br>
 
 
-## Videos
-### Colossal Shade
-{{< youtube id="LOl-gMGfNjI" title="Colossal Shade" >}}<br>
-### More Videos
-
-- [KATATONIA - Birds Official Video  Napalm Records](https://www.youtube.com/watch?v=_ILWPwc4KaY)
-- [KATATONIA - Atrium Official Video  Napalm Records](https://www.youtube.com/watch?v=BB24-hVZ88k)
-- [KATATONIA - Austerity Official Video  Napalm Records](https://www.youtube.com/watch?v=hTj41rDTgBw)
-- [KATATONIA - Opaline Official Video  Napalm Records](https://www.youtube.com/watch?v=yYzVCJRJhow)
-- [Colossal Shade](https://www.youtube.com/watch?v=LOl-gMGfNjI)
-- [KATATONIA - Sky Void of Stars FULL ALBUM HQ 2023](https://www.youtube.com/watch?v=_juzo3SvrxM)
 
 ## Release Images
 {{< imageGrid >}}

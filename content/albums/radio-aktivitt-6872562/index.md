@@ -4,6 +4,7 @@ artist_name: "Kraftwerk"
 artist: "kraftwerk"
 album_name: "Radio-Aktivität"
 date: 2016-02-14T11:11:50.000000Z
+release_date: ""
 release_id: "6872562"
 slug: "radio-aktivitt-6872562"
 hideSummary: true
@@ -33,26 +34,30 @@ styles: ["Experimental"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Geigerzähler (1:07)
-2. Radioaktivität (6:42)
-3. Radioland (5:52)
-4. Ätherwellen (4:40)
-5. Sendepause (0:39)
-6. Nachrichten (1:17)
-7. Die Stimme Der Energie (0:55)
-8. Antenne (3:42)
-9. Radio Sterne (3:34)
-10. Uran (1:27)
-11. Transistor (2:14)
-12. Ohm Sweet Ohm (5:38)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Geigerzähler | 1:07 |
+| A2 | Radioaktivität | 6:42 |
+| A3 | Radioland | 5:52 |
+| A4 | Ätherwellen | 4:40 |
+| A5 | Sendepause | 0:39 |
+| A6 | Nachrichten | 1:17 |
+| B1 | Die Stimme Der Energie | 0:55 |
+| B2 | Antenne | 3:42 |
+| B3 | Radio Sterne | 3:34 |
+| B4 | Uran | 1:27 |
+| B5 | Transistor | 2:14 |
+| B6 | Ohm Sweet Ohm | 5:38 |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Radioactivity 2009 Remaster
-{{< youtube id="X--F5b5IdqU" title="Radioactivity 2009 Remaster" >}}<br>
 
 
 ## Release Images
@@ -64,5 +69,5 @@ styles: ["Experimental"]
 | Format         | Vinyl LP Album Reissue Remastered (180 g) |
 | Label          | Kling Klang |
 | Catalog Number | 50999 6 99587 1 7 |
-| Notes | Kling Klang Produkt 1975 - Ralf Hütter - Florian Schneider  ℗ 2009 The copyright in this sound recording is owned by Parlophone Records Ltd. © 2009 Ralf Hütter/Kraftwerk under licence to Parlophone Records Ltd. A Warner Music Group Company.  Printed In EU   Include a huge booklet in LP-size |
+| Notes | Kling Klang Produkt 1975 - Ralf Hütter - Florian Schneider<br><br>℗ 2009 The copyright in this sound recording is owned by Parlophone Records Ltd.<br>© 2009 Ralf Hütter/Kraftwerk under licence to Parlophone Records Ltd. A Warner Music Group Company.<br><br>Printed In EU <br><br>Include a huge booklet in LP-size |
 | Discogs URL    | [Kraftwerk - Radio-Aktivität](https://www.discogs.com/release/6872562-Kraftwerk-Radio-Aktivität) |

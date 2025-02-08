@@ -4,6 +4,7 @@ artist_name: "And So I Watch You From Afar"
 artist: "and-so-i-watch-you-from-afar"
 album_name: "Megafauna"
 date: 2024-08-10T05:26:38.000000Z
+release_date: "2024-08-09"
 release_id: "31439801"
 slug: "megafauna-31439801"
 hideSummary: true
@@ -22,31 +23,29 @@ Megafauna species have considerable effects on their local environment, includin
 During the Pleistocene, megafauna were diverse across the globe, with most continental ecosystems exhibiting similar or greater species richness in megafauna as compared to ecosystems in Africa today. During the Late Pleistocene, particularly from around 50,000 years ago onwards, most large mammal species became extinct, including 80% of all mammals greater than 1,000 kilograms (2,200 lb), while small animals were largely unaffected. This pronouncedly size-biased extinction is otherwise unprecedented in the geological record. Humans and climatic change have been implicated by most authors as the likely causes, though the relative importance of either factor has been the subject of significant controversy.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. North Coast Megafauna  (6:27)
-2. Do Mór (4:14)
-3. Gallery Of Honour (5:32)
-4. Mother Belfast Pt.1 (5:51)
-5. Mother Belfast Pt.2 (3:46)
-6. Years Ago (5:14)
-7. Any Joy (3:09)
-8. Button Days (3:19)
-9. Me And Dunbar (5:52)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | North Coast Megafauna  | 6:27 |
+| A2 | Do Mór | 4:14 |
+| A3 | Gallery Of Honour | 5:32 |
+| A4 | Mother Belfast Pt.1 | 5:51 |
+| B1 | Mother Belfast Pt.2 | 3:46 |
+| B2 | Years Ago | 5:14 |
+| B3 | Any Joy | 3:09 |
+| B4 | Button Days | 3:19 |
+| B5 | Me And Dunbar | 5:52 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/megafauna/1741756535" >}}<br>
 
 
-## Videos
-### AND SO I WATCH YOU FROM AFAR - North Coast Megafauna - Music Video
-{{< youtube id="9R3glhZ_NDE" title="AND SO I WATCH YOU FROM AFAR - North Coast Megafauna - Music Video" >}}<br>
-### More Videos
-
-- [AND SO I WATCH YOU FROM AFAR - Do Mór](https://www.youtube.com/watch?v=zyl24yWe2fk)
 
 ## Release Images
 {{< imageGrid >}}

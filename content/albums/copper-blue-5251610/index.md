@@ -1,9 +1,10 @@
 ---
 title: "Sugar - Copper Blue"
 artist_name: "Sugar"
-artist: "sugar-5"
+artist: "sugar"
 album_name: "Copper Blue"
 date: 2015-12-28T14:09:28.000000Z
+release_date: "1992-05-17"
 release_id: "5251610"
 slug: "copper-blue-5251610"
 hideSummary: true
@@ -25,57 +26,30 @@ styles: ["Alternative Rock"]
 Copper Blue is the debut studio album by American alternative rock band Sugar. It was voted 1992 Album of the Year by the NME. All of the songs were written by guitarist/vocalist Bob Mould, who also co-produced with Lou Giordano. Musically, the band continues the thick punk guitar of Mould's previous band, Hüsker Dü, while slowing the tempo and emphasizing melody even more.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Act We Act
-2. A Good Idea
-3. Changes
-4. Helpless
-5. Hoover Dam
-6. The Slim
-7. If I Can't Change Your Mind
-8. Fortune Teller
-9. Slick
-10. Man On The Moon
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Act We Act |  |
+| A2 | A Good Idea |  |
+| A3 | Changes |  |
+| A4 | Helpless |  |
+| A5 | Hoover Dam |  |
+| B1 | The Slim |  |
+| B2 | If I Can't Change Your Mind |  |
+| B3 | Fortune Teller |  |
+| B4 | Slick |  |
+| B5 | Man On The Moon |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/copper-blue/530498994" >}}<br>
 
 
-## Videos
-### The Act We Act
-{{< youtube id="TB17U6gBYXQ" title="The Act We Act" >}}<br>
-### More Videos
-
-- [A Good Idea](https://www.youtube.com/watch?v=AHBZHQUFKac)
-- [Changes](https://www.youtube.com/watch?v=FAagGjSSwZE)
-- [Helpless](https://www.youtube.com/watch?v=PsJkN_ODUPM)
-- [Hoover Dam](https://www.youtube.com/watch?v=p39oPw45tbE)
-- [The Slim](https://www.youtube.com/watch?v=M9BVIB0gMRA)
-- [If I Cant Change Your Mind](https://www.youtube.com/watch?v=RKEj6QeyUSM)
-- [Sugar - Fortune Teller](https://www.youtube.com/watch?v=nv9ugqrUGJU)
-- [Slick](https://www.youtube.com/watch?v=6WvcSMZPJ5s)
-- [Man on the Moon](https://www.youtube.com/watch?v=Bclpt0Gp-Qo)
-- [Needle Hits E](https://www.youtube.com/watch?v=NaigN1qfWBU)
-- [Try Again](https://www.youtube.com/watch?v=vmimiswWyn0)
-- [Clownmaster](https://www.youtube.com/watch?v=p2-0Vvck1fY)
-- [Slick Live](https://www.youtube.com/watch?v=OuDh7T8EAfs)
-- [Changes Live](https://www.youtube.com/watch?v=x5Mdolvhae0)
-- [JC Auto Live](https://www.youtube.com/watch?v=hdAizckpTnk)
-- [Running Out of Time Live](https://www.youtube.com/watch?v=ililPi0Y-hE)
-- [Tilted Live](https://www.youtube.com/watch?v=bIW45O9MoO8)
-- [Where Diamonds Are Halos Live](https://www.youtube.com/watch?v=go_VNP7e0EY)
-- [Armenia City in the Sky Live](https://www.youtube.com/watch?v=hFe4P4E8GLg)
-- [Man on the Moon Live](https://www.youtube.com/watch?v=mPQuqdzMohw)
-- [The Act We Act Live](https://www.youtube.com/watch?v=4lPrjc9ckbU)
-- [Hoover Dam Live](https://www.youtube.com/watch?v=dCUTcu0UqG8)
-- [Clownmaster Live](https://www.youtube.com/watch?v=34dyxPtEZ4s)
-- [A Good Idea Live](https://www.youtube.com/watch?v=aaoqnEz3hPA)
-- [Helpless Live](https://www.youtube.com/watch?v=uJwuR-3l4vg)
-- [The Slim Live](https://www.youtube.com/watch?v=deU0nISrGQg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -87,5 +61,5 @@ Copper Blue is the debut studio album by American alternative rock band Sugar. I
 | Format         | Vinyl LP Album Remastered Stereo |
 | Label          | Edsel Records |
 | Catalog Number | EDLP1001 |
-| Notes | Vinyl in printed innersleeve with download card  Sticker shrink: 140g Audiophile Reissue All recordings have been remastered for vinyl from the original tapes by FU:EL engineer Jim Wilson.  Cover back: Original sound recordings made by Granary Music, under exclusive license to the Demon Music Group Ltd. ℗ 1992 Granary Music.This reissue ℗ & © 2012 Demon Music Group Ltd. Issues under license from Granary Music. Marketed by Edsel, a division of the Demon Music Group Ltd, London, W1W 7TL. The Demon Music Group is a BBC Worldwide company. Manufactured in the EU  Runouts stamped  |
+| Notes | Vinyl in printed innersleeve with download card<br><br>Sticker shrink:<br>140g Audiophile Reissue<br>All recordings have been remastered for vinyl from the original tapes by FU:EL engineer Jim Wilson.<br><br>Cover back:<br>Original sound recordings made by Granary Music, under exclusive license to the Demon Music Group Ltd. ℗ 1992 Granary Music.This reissue ℗ & © 2012 Demon Music Group Ltd. Issues under license from Granary Music. Marketed by Edsel, a division of the Demon Music Group Ltd, London, W1W 7TL. The Demon Music Group is a BBC Worldwide company. Manufactured in the EU<br><br>Runouts stamped<br> |
 | Discogs URL    | [Sugar - Copper Blue](https://www.discogs.com/release/5251610-Sugar-5-Copper-Blue) |

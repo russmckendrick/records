@@ -4,6 +4,7 @@ artist_name: "Jean-Michel Jarre"
 artist: "jean-michel-jarre"
 album_name: "Oxygene"
 date: 2015-12-28T14:08:01.000000Z
+release_date: "2002-01-01"
 release_id: "7597701"
 slug: "oxygene-7597701"
 hideSummary: true
@@ -23,33 +24,25 @@ styles: ["Synth-pop", "Ambient"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Oxygene Part 1 (7:39)
-2. Oxygene Part 2 (7:46)
-3. Oxygene Part 3 (3:16)
-4. Oxygene Part 4 (4:06)
-5. Oxygene Part 5 (10:15)
-6. Oxygene Part 6 (6:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Oxygene Part 1 | 7:39 |
+| A2 | Oxygene Part 2 | 7:46 |
+| A3 | Oxygene Part 3 | 3:16 |
+| B1 | Oxygene Part 4 | 4:06 |
+| B2 | Oxygene Part 5 | 10:15 |
+| B3 | Oxygene Part 6 | 6:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/jean-michel-jarre-the-best/1484842714" >}}<br>
 
 
-## Videos
-### Jean Michel Jarre  Oxygene 1976Full album
-{{< youtube id="5ab7tIZNplM" title="Jean Michel Jarre  Oxygene 1976Full album" >}}<br>
-### More Videos
-
-- [Oxygène Pt 1](https://www.youtube.com/watch?v=chj6g9Nuiw0)
-- [Oxygène Pt 2](https://www.youtube.com/watch?v=Pq9syWwgSEA)
-- [Oxygène Pt 3](https://www.youtube.com/watch?v=C08OhE2e96s)
-- [Oxygène Pt 4](https://www.youtube.com/watch?v=58EOZgfmq6w)
-- [Oxygène Pt 5](https://www.youtube.com/watch?v=h4yDISa7XTA)
-- [Oxygène Pt 6](https://www.youtube.com/watch?v=0-jvmh_lMXI)
-- [Scialadance - Oxigèn Part 4  Extended Mix   From the Album Scialescion ](https://www.youtube.com/watch?v=W9vTfzjOvkk)
-- [Jean-Michel Jarre - Oxygene Pt 4](https://www.youtube.com/watch?v=kSIMVnPA994)
-- [Jean Michel Jarre - Oxygene 4 - Live in Beijing China DVD Upscale](https://www.youtube.com/watch?v=lRm4kZxA_nk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -60,5 +53,5 @@ styles: ["Synth-pop", "Ambient"]
 | Format         | Vinyl LP Album Reissue Remastered (180 Gram) |
 | Label          | Les Disques Motors |
 | Catalog Number | 88843024681 |
-| Notes | Cover info: ℗ 1976 Disques Dreyfus - BMG © 2015 Disques Dreyfus - BMG  Made in the EU Special thanks to [a=Michel Geiss] New mastering from the original analog tapes 2014 Cover artwork Editions Marquet  Comes with white plain die-cut inner.  In December 2016, signed (golden) copies were available only in the Jean-Michel Jarre official online store.  Some copies come with the 'Original Masters By Sony Music' sticker |
+| Notes | Cover info:<br>℗ 1976 Disques Dreyfus - BMG © 2015 Disques Dreyfus - BMG <br>Made in the EU<br>Special thanks to [a=Michel Geiss]<br>New mastering from the original analog tapes 2014<br>Cover artwork Editions Marquet<br><br>Comes with white plain die-cut inner.<br><br>In December 2016, signed (golden) copies were available only in the Jean-Michel Jarre official online store.<br><br>Some copies come with the 'Original Masters By Sony Music' sticker |
 | Discogs URL    | [Jean-Michel Jarre - Oxygene](https://www.discogs.com/release/7597701-Jean-Michel-Jarre-Oxygene) |

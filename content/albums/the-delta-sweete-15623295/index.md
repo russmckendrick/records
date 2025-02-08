@@ -38,66 +38,38 @@ Those who’ve subsequently sought out <i>The Delta Sweete</i> have discovered o
 
 
 ## Tracklisting
-1. The Delta Sweete: Remixed
-2. Okolona River Bottom Band
-3. Big Boss Man
-4. Reunion
-5. Parchman Farm
-6. Mornin' Glory
-7. Sermon
-8. Tobacco Road
-9. Penduli Pendulum
-10. Jessye' Lisabeth
-11. Refractions
-12. Louisiana Man
-13. Courtyard
-14. The Delta Sweete: Bonus Tracks
-15. Okolona River Bottom Band (Special Instrumental)
-16. Mississippi Delta (Alternate Version)
-17. Seventh Son (Band Version)
-18. The Way I Do (Demo)
-19. Feelin' Good (Demo)
-20. Mornin' Glory (Demo)
-21. Sermon (Demo)
-22. Jessye' Lisabeth (Demo)
-23. Refractions (Demo)
-24. Louisiana Man (Demo)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Delta Sweete: Remixed |  |
+| A1 | Okolona River Bottom Band |  |
+| A2 | Big Boss Man |  |
+| A3 | Reunion |  |
+| A4 | Parchman Farm |  |
+| A5 | Mornin' Glory |  |
+| A6 | Sermon |  |
+| B1 | Tobacco Road |  |
+| B2 | Penduli Pendulum |  |
+| B3 | Jessye' Lisabeth |  |
+| B4 | Refractions |  |
+| B5 | Louisiana Man |  |
+| B6 | Courtyard |  |
+|  | The Delta Sweete: Bonus Tracks |  |
+| C1 | Okolona River Bottom Band (Special Instrumental) |  |
+| C2 | Mississippi Delta (Alternate Version) |  |
+| C3 | Seventh Son (Band Version) |  |
+| C4 | The Way I Do (Demo) |  |
+| C5 | Feelin' Good (Demo) |  |
+| D1 | Mornin' Glory (Demo) |  |
+| D2 | Sermon (Demo) |  |
+| D3 | Jessye' Lisabeth (Demo) |  |
+| D4 | Refractions (Demo) |  |
+| D5 | Louisiana Man (Demo) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/bobbie-gentrys-the-delta-sweete-revisited/1441294741" >}}<br>
 
 
-## Videos
-### Okolona River Bottom Band Remastered 2020
-{{< youtube id="pgt3aOY5Mqo" title="Okolona River Bottom Band Remastered 2020" >}}<br>
-### More Videos
-
-- [Big Boss Man Remastered 2020](https://www.youtube.com/watch?v=lJIOZOa_enQ)
-- [Reunion Remastered 2020](https://www.youtube.com/watch?v=xBl4YQMoBKk)
-- [Parchman Farm Remastered 2020](https://www.youtube.com/watch?v=KuPDYHIkJzA)
-- [Mornin Glory Remastered 2020](https://www.youtube.com/watch?v=GVtYe7kky9U)
-- [Sermon Remastered 2020](https://www.youtube.com/watch?v=TcouR0lwaSo)
-- [Tobacco Road Remastered 2020](https://www.youtube.com/watch?v=_ytkmI7xKeo)
-- [Penduli Pendulum Remastered 2020](https://www.youtube.com/watch?v=SSfbqweC3i4)
-- [Jessye Lisabeth Remastered 2020](https://www.youtube.com/watch?v=a9IoXpuOLAI)
-- [Refractions Remastered 2020](https://www.youtube.com/watch?v=hl9Q1-Lobes)
-- [Louisiana Man Remastered 2020](https://www.youtube.com/watch?v=0UsFJnARGVU)
-- [Courtyard Remastered 2020](https://www.youtube.com/watch?v=F3XH5Gj9TGI)
-- [Okolona River Bottom Band Instrumental](https://www.youtube.com/watch?v=JSzahtQw2FQ)
-- [Mississippi Delta Alternate Take](https://www.youtube.com/watch?v=e8l4qxSyHTU)
-- [Seventh Son Band Version](https://www.youtube.com/watch?v=-SZbH71SztA)
-- [The Way I Do Demo](https://www.youtube.com/watch?v=O10AQqtlhpQ)
-- [Feelin Good Demo](https://www.youtube.com/watch?v=GpJdb2-3hP4)
-- [Mornin Glory Demo](https://www.youtube.com/watch?v=86rcSI5bd9Y)
-- [Sermon Demo](https://www.youtube.com/watch?v=XpVexJ7dc6M)
-- [Jessye Lisabeth Demo](https://www.youtube.com/watch?v=N7ZBS_6ikiY)
-- [Refractions Demo](https://www.youtube.com/watch?v=RpVThV7h0X0)
-- [Louisiana Man Demo](https://www.youtube.com/watch?v=-JWiyebdKi4)
-- [Mornin Glory](https://www.youtube.com/watch?v=_CFkyuPoH44)
-- [The Way I Do Demo](https://www.youtube.com/watch?v=O10AQqtlhpQ)
-- [Penduli Pendulum Remastered 2020](https://www.youtube.com/watch?v=SSfbqweC3i4)
-- [Mornin Glory Demo](https://www.youtube.com/watch?v=86rcSI5bd9Y)
-- [Okolona River Bottom Band Instrumental](https://www.youtube.com/watch?v=JSzahtQw2FQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -109,5 +81,5 @@ Those who’ve subsequently sought out <i>The Delta Sweete</i> have discovered o
 | Format         | Vinyl LP Album Reissue, Vinyl LP, All Media Stereo (180 Gram) |
 | Label          | Capitol Records |
 | Catalog Number | 00600753904770 |
-| Notes | Writing credits as given on inner sleeve  Gatefold sleeve with flipback design, includes two printed inner sleeves.  Sides A & B are a new stereo remix of the original album, exclusive to this release. Side C & D are bonus tracks, all either previously unreleased or appearing for the first time on vinyl.  Includes Download Code  Items ordered from Recordstore.co.uk came with an exclusive limited edition hand numbered /500,  12" lithograph print. |
+| Notes | Writing credits as given on inner sleeve<br><br>Gatefold sleeve with flipback design, includes two printed inner sleeves.<br><br>Sides A & B are a new stereo remix of the original album, exclusive to this release. Side C & D are bonus tracks, all either previously unreleased or appearing for the first time on vinyl.<br><br>Includes Download Code<br><br>Items ordered from Recordstore.co.uk came with an exclusive limited edition hand numbered /500,  12" lithograph print. |
 | Discogs URL    | [Bobbie Gentry - The Delta Sweete](https://www.discogs.com/release/15623295-Bobbie-Gentry-The-Delta-Sweete) |

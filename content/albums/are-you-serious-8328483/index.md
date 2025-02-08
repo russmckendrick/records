@@ -4,6 +4,7 @@ artist_name: "Andrew Bird"
 artist: "andrew-bird"
 album_name: "Are You Serious"
 date: 2017-06-24T08:45:59.000000Z
+release_date: "2016-01-01"
 release_id: "8328483"
 slug: "are-you-serious-8328483"
 hideSummary: true
@@ -32,39 +33,33 @@ styles: ["Indie Rock"]
 ---
 
 Are You Serious is the tenth solo studio album by Andrew Bird, released on April 1, 2016. The album features collaborations with Fiona Apple and Blake Mills.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Capsized (3:40)
-2. Roma Fade (4:03)
-3. Truth Lies Low (5:29)
-4. Puma (3:31)
-5. Chemical Switches (3:22)
-6. Left Handed Kisses (3:15)
-7. Are You Serious (3:38)
-8. Saints Preservus (3:49)
-9. The New Saint Jude (4:11)
-10. Valleys Of The Young (5:34)
-11. Bellevue (2:03)
-12. Shoulder Mountain (4:02)
-13. Pulaski (3:32)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Capsized | 3:40 |
+| A2 | Roma Fade | 4:03 |
+| A3 | Truth Lies Low | 5:29 |
+| A4 | Puma | 3:31 |
+| A5 | Chemical Switches | 3:22 |
+| B1 | Left Handed Kisses | 3:15 |
+| B2 | Are You Serious | 3:38 |
+| B3 | Saints Preservus | 3:49 |
+| B4 | The New Saint Jude | 4:11 |
+| B5 | Valleys Of The Young | 5:34 |
+| B6 | Bellevue | 2:03 |
+| C | Shoulder Mountain | 4:02 |
+| D | Pulaski | 3:32 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/are-you-serious/1440939218" >}}<br>
 
 
-## Videos
-### Andrew Bird - Left Handed Kisses ft Fiona Apple OFFICIAL VIDEO
-{{< youtube id="RZwtWExDmoI" title="Andrew Bird - Left Handed Kisses ft Fiona Apple OFFICIAL VIDEO" >}}<br>
-### More Videos
-
-- [Andrew Bird - Capsized](https://www.youtube.com/watch?v=b3dw3NHwbvI)
-- [Andrew Bird - Roma Fade](https://www.youtube.com/watch?v=hlKKdBR_ZWw)
-- [Andrew Bird - Valleys of the Young](https://www.youtube.com/watch?v=IeuCE-iazeA)
-- [Andrew Bird - ROMA FADE  Are You Serious 2016](https://www.youtube.com/watch?v=wRoj8WzBsJo)
-- [Andrew Bird - Saints Preservus  Are You Serious 2016](https://www.youtube.com/watch?v=vXXpcVVR8C4)
 
 ## Release Images
 {{< imageGrid >}}

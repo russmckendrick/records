@@ -4,6 +4,7 @@ artist_name: "Queens Of The Stone Age"
 artist: "queens-of-the-stone-age"
 album_name: "Villains"
 date: 2017-08-25T17:20:16.000000Z
+release_date: "1998-09-22"
 release_id: "10740995"
 slug: "villains-10740995"
 hideSummary: true
@@ -39,40 +40,29 @@ Villains is the seventh studio album by American rock band Queens of the Stone A
 The album received widely positive reviews and performed well commercially, topping Billboard's Top Alternative Albums and Top Rock Albums charts. At the 2018 Grammy Awards ceremony, it was nominated for Best Rock Album, losing to The War on Drugs' A Deeper Understanding.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Feet Don't Fail Me
-2. The Way You Used To Do
-3. Domesticated Animals
-4. Fortress
-5. Head Like A Haunted House
-6. Un-Reborn Again
-7. Hideaway
-8. The Evil Has Landed
-9. Villains Of Circumstance
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Feet Don't Fail Me |  |
+| A2 | The Way You Used To Do |  |
+| A3 | Domesticated Animals |  |
+| B4 | Fortress |  |
+| B5 | Head Like A Haunted House |  |
+| B6 | Un-Reborn Again |  |
+| C7 | Hideaway |  |
+| C8 | The Evil Has Landed |  |
+| C9 | Villains Of Circumstance |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/queens-of-the-stone-age/1589229082" >}}<br>
 
 
-## Videos
-### Queens of the Stone Age - The Evil Has Landed Audio
-{{< youtube id="Exa0CzlCb3Y" title="Queens of the Stone Age - The Evil Has Landed Audio" >}}<br>
-### More Videos
-
-- [Queens Of The Stone Age - The Way You Used To Do](https://www.youtube.com/watch?v=3lw6MZBmY-U)
-- [Queens of the Stone Age - Feet Dont Fail Me Audio](https://www.youtube.com/watch?v=LxijhTgxkyk)
-- [Queens of the Stone Age - The Way You Used to Do Audio](https://www.youtube.com/watch?v=GvyNyFXHj4k)
-- [Queens of the Stone Age - Domesticated Animals Audio](https://www.youtube.com/watch?v=6nI1RIA-Y1Q)
-- [Queens of the Stone Age - Fortress Audio](https://www.youtube.com/watch?v=dNwNSU5NikU)
-- [Queens of the Stone Age - Head Like A Haunted House Audio](https://www.youtube.com/watch?v=x1GfW00RCpg)
-- [Queens of the Stone Age - Un-Reborn Again Audio](https://www.youtube.com/watch?v=b_zf9Ug1ePU)
-- [Queens of the Stone Age - Hideaway Audio](https://www.youtube.com/watch?v=2dcbcic06vw)
-- [Queens of the Stone Age - The Evil Has Landed Audio](https://www.youtube.com/watch?v=Exa0CzlCb3Y)
-- [Queens of the Stone Age - Villains of Circumstance Audio](https://www.youtube.com/watch?v=fsqhJcGbaEI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -84,5 +74,5 @@ The album received widely positive reviews and performed well commercially, topp
 | Format         | Vinyl LP, Vinyl LP Single Sided Etched, All Media Album Limited Edition (Indie Edition) |
 | Label          | Matador |
 | Catalog Number | OLE-1125-8 |
-| Notes | Limited press of 7,000 units worldwide - exclusively released to Indie Record stores  This is the US pressing.  For the E.U. edition pressed by [l313190] see [r10756198]   Hype sticker text: Limited Special Cover Art By Boneface Includes Free Download Of The Entire Album On MP3 And FLAC  Packaged in a gatefold cover with printed inner sleeve and lyric insert.  OLE-1125-8 P&C 2017 Queens Of The Stone Age Under License To Matador Records  Track numbering is sequential on the release.  Engineered [...] at United Recording Studios, Los Angeles, CA Mixed [...] at Pink Duck Studios, Burbank, CA Mastered by [...] of Lurssen Mastering, Burbank, CA  Board Stiff Music, all rights administered by Songs Of Kobalt Music (BMI) Magic Bullet Music (ASCAP) Sleeping Disorder Music (BMI) Dr. Shoes (BMI)  Pressing plant and lacquer cut by credit derived from matrix info. |
+| Notes | Limited press of 7,000 units worldwide - exclusively released to Indie Record stores<br><br>This is the US pressing. <br>For the E.U. edition pressed by [l313190] see [r10756198]<br><br><br>Hype sticker text:<br>Limited Special Cover Art By Boneface<br>Includes Free Download Of The Entire Album On MP3 And FLAC<br><br>Packaged in a gatefold cover with printed inner sleeve and lyric insert.<br><br>OLE-1125-8 P&C 2017 Queens Of The Stone Age Under License To Matador Records<br><br>Track numbering is sequential on the release.<br><br>Engineered [...] at United Recording Studios, Los Angeles, CA<br>Mixed [...] at Pink Duck Studios, Burbank, CA<br>Mastered by [...] of Lurssen Mastering, Burbank, CA<br><br>Board Stiff Music, all rights administered by Songs Of Kobalt Music (BMI)<br>Magic Bullet Music (ASCAP)<br>Sleeping Disorder Music (BMI)<br>Dr. Shoes (BMI)<br><br>Pressing plant and lacquer cut by credit derived from matrix info. |
 | Discogs URL    | [Queens Of The Stone Age - Villains](https://www.discogs.com/release/10740995-Queens-Of-The-Stone-Age-Villains) |

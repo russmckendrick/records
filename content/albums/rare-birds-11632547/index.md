@@ -4,6 +4,7 @@ artist_name: "Jonathan Wilson"
 artist: "jonathan-wilson"
 album_name: "Rare Birds"
 date: 2018-07-16T18:50:38.000000Z
+release_date: "2018-03-02"
 release_id: "11632547"
 slug: "rare-birds-11632547"
 hideSummary: true
@@ -31,45 +32,33 @@ styles: ["Pop Rock"]
 Rare Birds is the third studio album by American musician and producer Jonathan Wilson. It was released on March 2, 2018 under Bella Union.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Trafalgar Square (6:23)
-2. Me (4:49)
-3. Over The Midnight (8:15)
-4. There's A Light (4:57)
-5. Sunset Blvd. (5:44)
-6. Rare Birds (5:25)
-7. 49 Hair Flips (5:11)
-8. Miriam Montague (4:41)
-9. Loving You (8:28)
-10. Living With Myself (6:46)
-11. Hard To Get Over (6:32)
-12. Hi-Ho The Righteous (6:06)
-13. Mulholland Queen (5:21)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Trafalgar Square | 6:23 |
+| A2 | Me | 4:49 |
+| A3 | Over The Midnight | 8:15 |
+| B1 | There's A Light | 4:57 |
+| B2 | Sunset Blvd. | 5:44 |
+| B3 | Rare Birds | 5:25 |
+| B4 | 49 Hair Flips | 5:11 |
+| C1 | Miriam Montague | 4:41 |
+| C2 | Loving You | 8:28 |
+| C3 | Living With Myself | 6:46 |
+| D1 | Hard To Get Over | 6:32 |
+| D2 | Hi-Ho The Righteous | 6:06 |
+| D3 | Mulholland Queen | 5:21 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rare-birds/1320439940" >}}<br>
 
 
-## Videos
-### Jonathan Wilson - Trafalgar Square Official Music Video
-{{< youtube id="R2pg8BPQWlc" title="Jonathan Wilson - Trafalgar Square Official Music Video" >}}<br>
-### More Videos
-
-- [Jonathan Wilson - Me Official Music Video](https://www.youtube.com/watch?v=Cswl94NPJhM)
-- [Jonathan Wilson - Over the Midnight Official Music Video](https://www.youtube.com/watch?v=KgD0B0puL_k)
-- [Jonathan Wilson - Loving You Official Music Video](https://www.youtube.com/watch?v=sBKnvy8cr80)
-- [Jonathan Wilson  Rare Birds LIVE  The Moroccan Lounge](https://www.youtube.com/watch?v=hcYEZl3AygQ)
-- [Jonathan Wilson - Trafalgar Square Official Music Video](https://www.youtube.com/watch?v=R2pg8BPQWlc)
-- [Jonathan Wilson - Me Official Music Video](https://www.youtube.com/watch?v=Cswl94NPJhM)
-- [Jonathan Wilson - Over the Midnight Official Music Video](https://www.youtube.com/watch?v=KgD0B0puL_k)
-- [Jonathan Wilson - Loving You Official Music Video](https://www.youtube.com/watch?v=sBKnvy8cr80)
-- [Jonathan Wilson  Rare Birds LIVE  The Moroccan Lounge](https://www.youtube.com/watch?v=hcYEZl3AygQ)
-- [Jonathan Wilson - Rare Birds Full Album Stream](https://www.youtube.com/watch?v=aVwtORXKqoA)
-- [Jonathan Wilson - Miriam Montague Official Audio](https://www.youtube.com/watch?v=D18nBRG6hLw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -81,5 +70,5 @@ Rare Birds is the third studio album by American musician and producer Jonathan 
 | Format         | Vinyl 2× LP Album Limited Edition (Gold) |
 | Label          | Bella Union |
 | Catalog Number | BELLA730VX |
-| Notes | Limited indies only edition on gold vinyl in gold-foiled sleeve, includes 32-page booklet, poster, six stickers and download code.  First cat# on sticker, second on spine.  German retailer JPC sold this including a limited edition tote bag made of natural cotton with a green pattern and title of the LP.  |
+| Notes | Limited indies only edition on gold vinyl in gold-foiled sleeve, includes 32-page booklet, poster, six stickers and download code.<br><br>First cat# on sticker, second on spine.<br><br>German retailer JPC sold this including a limited edition tote bag made of natural cotton with a green pattern and title of the LP.  |
 | Discogs URL    | [Jonathan Wilson - Rare Birds](https://www.discogs.com/release/11632547-Jonathan-Wilson-Rare-Birds) |

@@ -4,6 +4,7 @@ artist_name: "John Martyn"
 artist: "john-martyn"
 album_name: "Solid Air (Classics Revisited)"
 date: 2016-07-08T16:31:37.000000Z
+release_date: ""
 release_id: "5695629"
 slug: "solid-air-classics-revisited-5695629"
 hideSummary: true
@@ -24,20 +25,27 @@ styles: ["Folk Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Head & Heart
-2. Over The Hill
-3. Solid Air
-4. Just Now
-5. May You Never
-6. Bless The Weather
-7. Fine Lines
-8. I Don't Wanna Know
-9. Ways To Cry
-10. Man In The Station
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Head & Heart |  |
+| A2 | Over The Hill |  |
+| A3 | Solid Air |  |
+| A4 | Just Now |  |
+| A5 | May You Never |  |
+| B1 | Bless The Weather |  |
+| B2 | Fine Lines |  |
+| B3 | I Don't Wanna Know |  |
+| B4 | Ways To Cry |  |
+| B5 | Man In The Station |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
 
@@ -50,5 +58,5 @@ styles: ["Folk Rock"]
 | Format         | Vinyl LP Compilation Reissue (180 gram) |
 | Label          | Madfish |
 | Catalog Number | SMALP1028 |
-| Notes | Solid Air: Classics Revisited is drawn from John Martyn's 1993 studio re-recordings of several of his back catalogue treasures (on which Martyn was joined by the likes of David Gilmour, Eric Clapton and Phil Collins).     Featuring 10 of Martyn's most essential songs, this Madfish re-release is now available on 180g vinyl.     Made in Germany |
+| Notes | Solid Air: Classics Revisited is drawn from John Martyn's 1993 studio re-recordings of several of his back catalogue treasures (on which Martyn was joined by the likes of David Gilmour, Eric Clapton and Phil Collins). <br><br>Featuring 10 of Martyn's most essential songs, this Madfish re-release is now available on 180g vinyl. <br><br>Made in Germany |
 | Discogs URL    | [John Martyn - Solid Air (Classics Revisited)](https://www.discogs.com/release/5695629-John-Martyn-Solid-Air-Classics-Revisited) |

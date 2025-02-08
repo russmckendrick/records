@@ -4,6 +4,7 @@ artist_name: "Grandaddy"
 artist: "grandaddy"
 album_name: "The Sophtware Slump"
 date: 2017-01-30T18:24:13.000000Z
+release_date: "2000-01-01"
 release_id: "2995239"
 slug: "the-sophtware-slump-2995239"
 hideSummary: true
@@ -26,38 +27,31 @@ styles: []
 ---
 
 The Sophtware Slump is the second studio album by American indie rock band Grandaddy. It was released in May 2000 by record label V2. It is seen by some as a concept album about problems concerning modern technology in society. The album was released to critical acclaim.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. He's Simple, He's Dumb, He's The Pilot
-2. Hewlett's Daughter
-3. Jed The Humanoid
-4. The Crystal Lake
-5. Chartsengrafs
-6. Underneath The Weeping Willow
-7. Broken Household Appliance National Forest
-8. Jed's Other Poem (Beautiful Ground)
-9. E. Knievel Interlude (The Perils Of Keeping It Real)
-10. Miner At The Dial-A-View
-11. So You'll Aim Towards The Sky
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | He's Simple, He's Dumb, He's The Pilot |  |
+| A2 | Hewlett's Daughter |  |
+| A3 | Jed The Humanoid |  |
+| A4 | The Crystal Lake |  |
+| A5 | Chartsengrafs |  |
+| B1 | Underneath The Weeping Willow |  |
+| B2 | Broken Household Appliance National Forest |  |
+| B3 | Jed's Other Poem (Beautiful Ground) |  |
+| B4 | E. Knievel Interlude (The Perils Of Keeping It Real) |  |
+| B5 | Miner At The Dial-A-View |  |
+| B6 | So You'll Aim Towards The Sky |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-sophtware-slump/1440937568" >}}<br>
 
 
-## Videos
-### Grandaddy - Hes Simple Hes Dumb Hes the Pilot
-{{< youtube id="IURAKQV7q_o" title="Grandaddy - Hes Simple Hes Dumb Hes the Pilot" >}}<br>
-### More Videos
-
-- [Grandaddy - Jed the Humaniod](https://www.youtube.com/watch?v=veqZc8pNz-4)
-- [Grandaddy - Jeds Other Poem](https://www.youtube.com/watch?v=QoyLvXQFbWE)
-- [Grandaddy - Hewletts Daughter](https://www.youtube.com/watch?v=5OYwjvnabM8)
-- [Grandaddy - Underneath the Weeping Willow](https://www.youtube.com/watch?v=uYeNZkqCWHw)
-- [Grandaddy - E Knievel Interlude The Perils Of Keeping It Real](https://www.youtube.com/watch?v=YqEIsiF95Lc)
-- [Grandaddy - The Sophtware Slump 2000 Full Album](https://www.youtube.com/watch?v=RIGqUy8gzGY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +63,5 @@ The Sophtware Slump is the second studio album by American indie rock band Grand
 | Format         | Vinyl LP Album Reissue Remastered |
 | Label          | The Control Group |
 | Catalog Number | CGO073 |
-| Notes | On inner sleeve : All tracks published by Genghis Music/Deadlineless Music (admin. in the USA by BMG Songs, Inc.) (ASCAP) The Sophtware Slump was recorded at Little Portugal in Modesto by Lytle with occasional on/off switch assistance by Fairchild.  The color of spring reverb and other shades were applied and mixed at Robo Crops in Modesto by Lytle.  Final gloss and glue by Calbi.  On back cover : ℗ & © 2010 The Control Group, LLC. Master recording exclusively licensed from Eone Music. All rights administered by eOne Music Entertainment U.S. All tracks written and produced by Jason Lytle. All songs published by Genghis Music/Deadlineless/Music of V2 America . All rights administered by Blue Mountain Music.  Sticker on the wrapping says:  "This is quite possibly the last great entry in the atmospheric pop canon" - Pitchfork  Remastered at Sterling Sound  Label cat# is "CGO073" on back cover and "CGO 073" on spine |
+| Notes | On inner sleeve :<br>All tracks published by Genghis Music/Deadlineless Music (admin. in the USA by BMG Songs, Inc.) (ASCAP)<br>The Sophtware Slump was recorded at Little Portugal in Modesto by Lytle with occasional on/off switch assistance by Fairchild.  The color of spring reverb and other shades were applied and mixed at Robo Crops in Modesto by Lytle.  Final gloss and glue by Calbi.<br><br>On back cover :<br>℗ & © 2010 The Control Group, LLC. Master recording exclusively licensed from Eone Music. All rights administered by eOne Music Entertainment U.S. All tracks written and produced by Jason Lytle. All songs published by Genghis Music/Deadlineless/Music of V2 America . All rights administered by Blue Mountain Music.<br><br>Sticker on the wrapping says:<br><br>"This is quite possibly the last great entry in the atmospheric pop canon" - Pitchfork<br><br>Remastered at Sterling Sound<br><br>Label cat# is "CGO073" on back cover and "CGO 073" on spine |
 | Discogs URL    | [Grandaddy - The Sophtware Slump](https://www.discogs.com/release/2995239-Grandaddy-The-Sophtware-Slump) |

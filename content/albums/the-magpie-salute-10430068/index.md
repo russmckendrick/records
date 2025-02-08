@@ -4,6 +4,7 @@ artist_name: "The Magpie Salute"
 artist: "the-magpie-salute"
 album_name: "The Magpie Salute"
 date: 2017-07-02T11:14:23.000000Z
+release_date: "2017-06-09"
 release_id: "10430068"
 slug: "the-magpie-salute-10430068"
 hideSummary: true
@@ -27,35 +28,30 @@ styles: ["Blues Rock", "Classic Rock"]
 ---
 
 The Magpie Salute was an American rock band formed in 2016 by the Black Crowes guitarist Rich Robinson. The band also includes former Black Crowes members Marc Ford and Sven Pipien and Moke singer/songwriter John Hogg, as well as Rich Robinson band members Matt Slocum and Joe Magistro.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Omission
-2. Comin' Home
-3. What Is Home
-4. Wiser Time
-5. Goin' Down South
-6. War Drums
-7. Ain't No More Cane
-8. Fearless
-9. Glad And Sorry
-10. Time Will Tell
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Omission |  |
+| A2 | Comin' Home |  |
+| A3 | What Is Home |  |
+| B1 | Wiser Time |  |
+| B2 | Goin' Down South |  |
+| C1 | War Drums |  |
+| C2 | Ain't No More Cane |  |
+| D1 | Fearless |  |
+| D2 | Glad And Sorry |  |
+| D3 | Time Will Tell |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-magpie-salute-live/1440905281" >}}<br>
 
 
-## Videos
-### The Magpie Salute - Comin Home
-{{< youtube id="wdCAGlj_jR0" title="The Magpie Salute - Comin Home" >}}<br>
-### More Videos
-
-- [Fearless Live](https://www.youtube.com/watch?v=cebO7BRG8IY)
-- [The Magpie Salute Omission](https://www.youtube.com/watch?v=Zg9FGe5pWFg)
-- [The Magpie Salute - Aint No More Cane](https://www.youtube.com/watch?v=W4pOrAc7sq8)
-- [The Magpie Salute - Wiser Time](https://www.youtube.com/watch?v=5tP_qkbDu5g)
 
 ## Release Images
 {{< imageGrid >}}

@@ -28,42 +28,24 @@ Imagine a jukebox in Route 66's loneliest roadhouse, and it might sound a lot li
 
 
 ## Tracklisting
-1. Fade Into You (4:55)
-2. Bells Ring (4:32)
-3. Mary Of Silence (6:02)
-4. Five String Serenade (4:24)
-5. Blue Light (5:10)
-6. She's My Baby (4:25)
-7. Unreflected (3:42)
-8. Wasted (5:31)
-9. Into Dust (5:36)
-10. So Tonight That I Might See (7:19)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fade Into You | 4:55 |
+| A2 | Bells Ring | 4:32 |
+| A3 | Mary Of Silence | 6:02 |
+| A4 | Five String Serenade | 4:24 |
+| A5 | Blue Light | 5:10 |
+| B1 | She's My Baby | 4:25 |
+| B2 | Unreflected | 3:42 |
+| B3 | Wasted | 5:31 |
+| B4 | Into Dust | 5:36 |
+| B5 | So Tonight That I Might See | 7:19 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/so-tonight-that-i-might-see/1440848808" >}}<br>
 
 
-## Videos
-### Mazzy Star - Fade Into You Official Music Video
-{{< youtube id="ImKY6TZEyrI" title="Mazzy Star - Fade Into You Official Music Video" >}}<br>
-### More Videos
-
-- [Fade Into You](https://www.youtube.com/watch?v=avv2IIdDnnk)
-- [Bells Ring](https://www.youtube.com/watch?v=44OjwGThpbU)
-- [Mary Of Silence](https://www.youtube.com/watch?v=j9Nl7FlrMpw)
-- [Five String Serenade](https://www.youtube.com/watch?v=IbfKJoh1lNA)
-- [Blue Light](https://www.youtube.com/watch?v=H7VUO-WxppY)
-- [Shes My Baby](https://www.youtube.com/watch?v=_AalUu5JY9M)
-- [Unreflected](https://www.youtube.com/watch?v=CZXUFYsKKSo)
-- [Wasted](https://www.youtube.com/watch?v=3XWj4YMWyjU)
-- [Into Dust](https://www.youtube.com/watch?v=04J0ihSeIuI)
-- [So Tonight That I Might See](https://www.youtube.com/watch?v=gYbBL_3XLEM)
-- [So Tonight That I Might See](https://www.youtube.com/watch?v=gYbBL_3XLEM)
-- [Mazzy Star - So Tonight That I Might See](https://www.youtube.com/watch?v=pNu3tI-GVg4)
-- [Mazzy Star - So Tonight That I Might See - Black Sessions 1993](https://www.youtube.com/watch?v=Jp5kF_X2PVQ)
-- [So Tonight That I Might See ascension Version](https://www.youtube.com/watch?v=pbc0dDK5hn0)
-- [Mazzy Star - Fade Into You Official Music Video](https://www.youtube.com/watch?v=ImKY6TZEyrI)
-- [Mazzy Star - So Tonight That I Might See lyrics](https://www.youtube.com/watch?v=ljHioK_dfR8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +57,5 @@ Imagine a jukebox in Route 66's loneliest roadhouse, and it might sound a lot li
 | Format         | Vinyl LP Album Reissue (180g) |
 | Label          | Capitol Records |
 | Catalog Number | 00602557537574 |
-| Notes | A Capitol Records release; ℗ 2016 © 2017 Capitol Records, LLC. All rights reserved. Unauthorised copying, reproducing, hiring, lending, public performance and broadcasting prohibited. Made in the EU. LC 06406. 006062557537574. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands.  MP3 download coupon included.  Initial run has "Back to Black" sticker on front shrink.  Later runs do not have the sticker or download code and instead have a "Made in Germany" sticker on the back of a shrink wrap.  Part of matrix sequence in runouts - 5753757 - is etched, the rest is stamped. |
+| Notes | A Capitol Records release; ℗ 2016 © 2017 Capitol Records, LLC.<br>All rights reserved. Unauthorised copying, reproducing, hiring, lending, public<br>performance and broadcasting prohibited. Made in the EU. LC 06406. 006062557537574.<br>Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands.<br><br>MP3 download coupon included.<br><br>Initial run has "Back to Black" sticker on front shrink. <br>Later runs do not have the sticker or download code and instead have a "Made in Germany" sticker on the back of a shrink wrap.<br><br>Part of matrix sequence in runouts - 5753757 - is etched, the rest is stamped. |
 | Discogs URL    | [Mazzy Star - So Tonight That I Might See](https://www.discogs.com/release/10806771-Mazzy-Star-So-Tonight-That-I-Might-See) |

@@ -1,9 +1,10 @@
 ---
 title: "Survive - HD015"
 artist_name: "Survive"
-artist: "survive-4"
+artist: "survive"
 album_name: "HD015"
 date: 2016-12-08T18:35:53.000000Z
+release_date: "2018-11-06"
 release_id: "9231465"
 slug: "hd015-9231465"
 hideSummary: true
@@ -23,35 +24,28 @@ styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Deserted Skies
-2. Floating Cube
-3. To Light Alone I Bow
-4. Hourglass
-5. Omniverse
-6. Black Mollies
-7. Scalar Wave
-8. Shunting Yard
-9. Dirge
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Deserted Skies |  |
+| A2 | Floating Cube |  |
+| A3 | To Light Alone I Bow |  |
+| A4 | Hourglass |  |
+| A5 | Omniverse |  |
+| B1 | Black Mollies |  |
+| B2 | Scalar Wave |  |
+| B3 | Shunting Yard |  |
+| B4 | Dirge |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/survival-single/1716748749" >}}<br>
 
 
-## Videos
-### S U R V I V E - Deserted Skies MNQ 026
-{{< youtube id="G4onbTp1jio" title="S U R V I V E - Deserted Skies MNQ 026" >}}<br>
-### More Videos
-
-- [S U R V I V E - Floating Cube MNQ 026](https://www.youtube.com/watch?v=MrVc3pd9PS8)
-- [S U R V I V E - To The Alone Blow MNQ 026](https://www.youtube.com/watch?v=Rl6l0pr4kSo)
-- [S U R V I V E - To Hourglass MNQ 026](https://www.youtube.com/watch?v=RhFugm5c2Xg)
-- [S U R V I V E - Omniverse MNQ 026](https://www.youtube.com/watch?v=dOsLzKVJO30)
-- [S U R V I V E - Black Mollies MNQ 026](https://www.youtube.com/watch?v=bMRGn2mlfow)
-- [S U R V I V E - Scalar Wave MNQ 026](https://www.youtube.com/watch?v=LfBSXdX4TdQ)
-- [S U R V I V E - Shunting Yard MNQ 026](https://www.youtube.com/watch?v=Y5EjtsGKQ8g)
-- [S U R V I V E - Dirge MNQ 026](https://www.youtube.com/watch?v=wpkVwT4wh2E)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +56,5 @@ styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 | Format         | Vinyl LP Album Limited Edition Reissue Repress (Clear & Black) |
 | Label          | HoloDeck |
 | Catalog Number | HD015LP |
-| Notes | 150g vinyl with yellow/black alternate sleeve artwork.    Includes download code (choice of formats, via Bandcamp). |
+| Notes | 150g vinyl with yellow/black alternate sleeve artwork.  <br><br>Includes download code (choice of formats, via Bandcamp). |
 | Discogs URL    | [Survive - HD015](https://www.discogs.com/release/9231465-S-U-R-V-I-V-E-HD015) |

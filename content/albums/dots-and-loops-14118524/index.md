@@ -42,51 +42,38 @@ That, of course, is part of the point: Marxist-socialist-materialists that they 
 
 
 ## Tracklisting
-1. Brakhage
-2. Miss Modular
-3. The Flower Called Nowhere
-4. Diagonals
-5. Prisoner Of Mars
-6. Rainbo Conversation
-7. Refractions In The Plastic Pulse
-8. Parsec
-9. Ticker-Tape Of The Unconscious
-10. Contronatura
-11. Diagonals Bode Drums
-12. Contranatura (Pt 2 - Instrumental)
-13. Brakhage (Instrumental)
-14. The Flower Called Nowhere (Instrumental)
-15. Bonus Beats
-16. Diagonals (Instrumental)
-17. Contranatura (Demo)
-18. Allures (Demo)
-19. Refractions In The Plastic Pulse (Demo)
-20. I Feel The Air (Demo)
-21. Off On (Demo)
-22. Incredible He Woman (Demo)
-23. Miss Modular (Demo)
-24. Untitled In Dusseldorf (Demo)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Brakhage |  |
+| A2 | Miss Modular |  |
+| A3 | The Flower Called Nowhere |  |
+| B1 | Diagonals |  |
+| B2 | Prisoner Of Mars |  |
+| B3 | Rainbo Conversation |  |
+| C1 | Refractions In The Plastic Pulse |  |
+| D1 | Parsec |  |
+| D2 | Ticker-Tape Of The Unconscious |  |
+| D3 | Contronatura |  |
+| E1 | Diagonals Bode Drums |  |
+| E2 | Contranatura (Pt 2 - Instrumental) |  |
+| E3 | Brakhage (Instrumental) |  |
+| E4 | The Flower Called Nowhere (Instrumental) |  |
+| E5 | Bonus Beats |  |
+| F1 | Diagonals (Instrumental) |  |
+| F2 | Contranatura (Demo) |  |
+| F3 | Allures (Demo) |  |
+| F4 | Refractions In The Plastic Pulse (Demo) |  |
+| F5 | I Feel The Air (Demo) |  |
+| F6 | Off On (Demo) |  |
+| F7 | Incredible He Woman (Demo) |  |
+| F8 | Miss Modular (Demo) |  |
+| F9 | Untitled In Dusseldorf (Demo) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/dots-and-loops/1230517312" >}}<br>
 
 
-## Videos
-### Stereolab - Dots and Loops 1997 Full Album
-{{< youtube id="vbeJ4-OMorU" title="Stereolab - Dots and Loops 1997 Full Album" >}}<br>
-### More Videos
-
-- [Brakhage](https://www.youtube.com/watch?v=OhuNtCzQsVQ)
-- [Brakhage](https://www.youtube.com/watch?v=QdnX8-HDgaY)
-- [Miss Modular](https://www.youtube.com/watch?v=H5GW9xG19t4)
-- [The Flower Called Nowhere](https://www.youtube.com/watch?v=NqhkqnSg164)
-- [Diagonals](https://www.youtube.com/watch?v=HDgj0JsJ42I)
-- [Prisoner of Mars](https://www.youtube.com/watch?v=Tima8Yf0vMo)
-- [Rainbo Conversation](https://www.youtube.com/watch?v=miX13WiBVbo)
-- [Refractions in the Plastic Pulse](https://www.youtube.com/watch?v=Pvgfknx_vq0)
-- [Parsec](https://www.youtube.com/watch?v=lV0ylsWIrJw)
-- [Ticker-tape of the Unconscious](https://www.youtube.com/watch?v=Bxq21YMljFA)
-- [Contronatura](https://www.youtube.com/watch?v=y7aKp3rAH9A)
 
 ## Release Images
 {{< imageGrid >}}
@@ -98,5 +85,5 @@ That, of course, is part of the point: Marxist-socialist-materialists that they 
 | Format         | Vinyl 2× LP Album Reissue Remastered, Vinyl LP, All Media Limited Edition Numbered (Clear, Expanded Edition) |
 | Label          | Warp Records |
 | Catalog Number | none |
-| Notes | Tracks A1, A2, B1, B3 to D2 recorded at Idful Music Corp., Chicago, March 1997.  Tracks A2, B3, D1, D2 & parts A & B of C1 mixed at Soma Recording Studio, Chicago, May 26th - June 4th 1997. Chicago tracks recorded directly onto hard disk. Tracks A3, D2, D3 recorded at Academy of St. Martin in the Street, Düsseldorf, April 1997.  Instrumentation: Vocals, Farfisa organ, electric guitar, bass, analog synthesizers and other electronic devices (for sound generating and filtering), Fender Rhodes piano, drums, beatbox, percussion, piano, clavinet, nylon string acoustic guitar, electronic percussion.   Remastered album plus a bonus disc of demos and alternate versions  Fold out poster and DL card  Numbered on hype sticker  The initial vinyl edition was 2500 numbered triple clear vinyl copies, of which 2000 were this release and 500 were the [url=https://www.discogs.com/Stereolab-Dots-And-Loops/release/14127544]Obi strip version[/url]        |
+| Notes | Tracks A1, A2, B1, B3 to D2 recorded at Idful Music Corp., Chicago, March 1997. <br>Tracks A2, B3, D1, D2 & parts A & B of C1 mixed at Soma Recording Studio, Chicago, May 26th - June 4th 1997. Chicago tracks recorded directly onto hard disk.<br>Tracks A3, D2, D3 recorded at Academy of St. Martin in the Street, Düsseldorf, April 1997.<br><br>Instrumentation: Vocals, Farfisa organ, electric guitar, bass, analog synthesizers and other electronic devices (for sound generating and filtering), Fender Rhodes piano, drums, beatbox, percussion, piano, clavinet, nylon string acoustic guitar, electronic percussion. <br><br>Remastered album plus a bonus disc of demos and alternate versions<br><br>Fold out poster and DL card<br><br>Numbered on hype sticker<br><br>The initial vinyl edition was 2500 numbered triple clear vinyl copies, of which 2000 were this release and 500 were the [url=https://www.discogs.com/Stereolab-Dots-And-Loops/release/14127544]Obi strip version[/url]  <br><br><br><br><br> |
 | Discogs URL    | [Stereolab - Dots And Loops](https://www.discogs.com/release/14118524-Stereolab-Dots-And-Loops) |

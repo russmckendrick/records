@@ -47,46 +47,41 @@ Slow builds, skyscraping climaxes, deep melancholy tempered by European grandeur
 
 
 ## Tracklisting
-1.  To The Bin My Friend, Tonight We Vacate Earth
-2. Here We, Here We, Here We Go Forever
-3. Dry Fantasy
-4. Ritchie Sacramento
-5. Drive The Nail
-6. Fuck Off Money
-7. Ceiling Granny
-8. Midnight Flit
-9. Pat Stains
-10. Supposedly, We Were Nightmares
-11. It's What I Want To Do, Mum.
-12.  To The Bin My Friend, Tonight We Vacate Earth (Demo)
-13. Here We, Here We, Here We Go Forever (Demo)
-14. Supposedly, We Were Nightmares (Demo)
-15. Drive The Nail (Demo)
-16. It's What I Want To Do, Mum. (Demo)
-17.  To The Bin My Friend, Tonight We Vacate Earth
-18. Here We, Here We, Here We Go Forever
-19. Dry Fantasy
-20. Ritchie Sacramento
-21. Drive The Nail
-22. Fuck Off Money
-23. Ceiling Granny
-24. Midnight Flit
-25. Pat Stains
-26. Supposedly, We Were Nightmares
-27. It's What I Want To Do, Mum.
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 |  To The Bin My Friend, Tonight We Vacate Earth |  |
+| A2 | Here We, Here We, Here We Go Forever |  |
+| A3 | Dry Fantasy |  |
+| B1 | Ritchie Sacramento |  |
+| B2 | Drive The Nail |  |
+| B3 | Fuck Off Money |  |
+| C1 | Ceiling Granny |  |
+| C2 | Midnight Flit |  |
+| C3 | Pat Stains |  |
+| D1 | Supposedly, We Were Nightmares |  |
+| D2 | It's What I Want To Do, Mum. |  |
+| E1 |  To The Bin My Friend, Tonight We Vacate Earth (Demo) |  |
+| E2 | Here We, Here We, Here We Go Forever (Demo) |  |
+| E3 | Supposedly, We Were Nightmares (Demo) |  |
+| F1 | Drive The Nail (Demo) |  |
+| F2 | It's What I Want To Do, Mum. (Demo) |  |
+| CD-1 |  To The Bin My Friend, Tonight We Vacate Earth |  |
+| CD-2 | Here We, Here We, Here We Go Forever |  |
+| CD-3 | Dry Fantasy |  |
+| CD-4 | Ritchie Sacramento |  |
+| CD-5 | Drive The Nail |  |
+| CD-6 | Fuck Off Money |  |
+| CD-7 | Ceiling Granny |  |
+| CD-8 | Midnight Flit |  |
+| CD-9 | Pat Stains |  |
+| CD-10 | Supposedly, We Were Nightmares |  |
+| CD-11 | It's What I Want To Do, Mum. |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/as-the-love-continues/1535337264" >}}<br>
 
 
-## Videos
-### Mogwai  Dry Fantasy Official Video
-{{< youtube id="55wY7XrGFzY" title="Mogwai  Dry Fantasy Official Video" >}}<br>
-### More Videos
-
-- [Mogwai - Ritchie Sacramento Official Video](https://www.youtube.com/watch?v=VWjzlJEmmxM)
-- [Mogwai - Pat Stains Official Audio](https://www.youtube.com/watch?v=jAX7tKZ-3lg)
-- [Mogwai - To the Bin My Friend Tonight We Vacate Earth Demo](https://www.youtube.com/watch?v=HCfMa1T91lc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -98,5 +93,5 @@ Slow builds, skyscraping climaxes, deep melancholy tempered by European grandeur
 | Format         | Box Set, Vinyl 2× LP Album (Red ), Vinyl 12" (Demos), CD |
 | Label          | Rock Action Records |
 | Catalog Number | ROCKACT140 |
-| Notes | This Deluxe Vinyl Boxset includes:  2 x Transparent Red Vinyl | Gatefold Cover  1 x Black Vinyl Demos EP 12 page photograph book CD version of album Album digital download code  Limited to 1000 copies  |
+| Notes | This Deluxe Vinyl Boxset includes:<br><br>2 x Transparent Red Vinyl | Gatefold Cover <br>1 x Black Vinyl Demos EP<br>12 page photograph book<br>CD version of album<br>Album digital download code<br><br>Limited to 1000 copies<br> |
 | Discogs URL    | [Mogwai - As The Love Continues](https://www.discogs.com/release/17472106-Mogwai-As-The-Love-Continues) |

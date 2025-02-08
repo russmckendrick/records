@@ -1,16 +1,17 @@
 ---
-title: "O.R.k. - Ramagehead"
-artist_name: "O.R.k."
-artist: "o-r-k"
+title: "ORk - Ramagehead"
+artist_name: "ORk"
+artist: "ork"
 album_name: "Ramagehead"
 date: 2019-02-25T18:35:52.000000Z
+release_date: "2019-02-22"
 release_id: "13258018"
 slug: "ramagehead-13258018"
 hideSummary: true
 cover:
     image: "ramagehead-13258018.jpg"
-    alt: "Ramagehead by O.R.k."
-    caption: "Ramagehead by O.R.k."
+    alt: "Ramagehead by ORk"
+    caption: "Ramagehead by ORk"
 additional_images:
     - "https://i.discogs.com/-Ch0T1uKjU1xBKS0gSquol7RMWry2ppOwowKBqOBl-U/rs:fit/g:sm/q:90/h:588/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjU4/MDE4LTE1NTMxMTM5/NzctMTI3MS5qcGVn.jpeg"
     - "https://i.discogs.com/oCaOrewcOACSM3PNVhaV_Q518hVTOU_nOElrW7-UJ0k/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjU4/MDE4LTE1NTEyNzM1/NDQtNjY5Ni5qcGVn.jpeg"
@@ -27,34 +28,28 @@ styles: ["Art Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Kneel To Nothing
-2. Signals Erased
-3. Beyond Sight
-4. Black Blooms
-5. Some Other Rainbow Part 1
-6. Time Corroded
-7. Down The Road
-8. Strangled Words
-9. Some Other Rainbow Part 2
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Kneel To Nothing |  |
+| A2 | Signals Erased |  |
+| A3 | Beyond Sight |  |
+| A4 | Black Blooms |  |
+| A5 | Some Other Rainbow Part 1 |  |
+| B6 | Time Corroded |  |
+| B7 | Down The Road |  |
+| B8 | Strangled Words |  |
+| B9 | Some Other Rainbow Part 2 |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ramagehead/1444798137" >}}<br>
 
 
-## Videos
-### ORk - Kneel To Nothing from Ramagehead
-{{< youtube id="rMfs1ph1ZGU" title="ORk - Kneel To Nothing from Ramagehead" >}}<br>
-### More Videos
-
-- [Signals Erased](https://www.youtube.com/watch?v=zoZiI-G7h_c)
-- [Beyond Sight](https://www.youtube.com/watch?v=ryn0aFQ27WU)
-- [ORk - BLACK BLOOMS feat SERJ TANKIAN](https://www.youtube.com/watch?v=NEJleqOXiuw)
-- [Time Corroded](https://www.youtube.com/watch?v=zzxBmWd3Pv8)
-- [Down the Road](https://www.youtube.com/watch?v=hLq9d6nzzfQ)
-- [Some Other Rainbow Pt One](https://www.youtube.com/watch?v=hNfrQUazSCE)
-- [Some Other Rainbow Pt Two](https://www.youtube.com/watch?v=H47wv7OF0Qw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +60,5 @@ styles: ["Art Rock", "Prog Rock"]
 | Format         | Vinyl LP Album Stereo (180 Gram) |
 | Label          | Kscope |
 | Catalog Number | KSCOPE1014 |
-| Notes | Made in Germany.  Released with a resealable plastic sleeve, affixed with a hype sticker. Released with a printed inner sleeve with lyrics and credits, and a fold out insert advertising other Kscope releases.  Tracks numbered 1-9 on the back cover and labels. |
-| Discogs URL    | [O.R.k. - Ramagehead](https://www.discogs.com/release/13258018-ORk-Ramagehead) |
+| Notes | Made in Germany.<br><br>Released with a resealable plastic sleeve, affixed with a hype sticker. Released with a printed inner sleeve with lyrics and credits, and a fold out insert advertising other Kscope releases.<br><br>Tracks numbered 1-9 on the back cover and labels. |
+| Discogs URL    | [ORk - Ramagehead](https://www.discogs.com/release/13258018-ORk-Ramagehead) |

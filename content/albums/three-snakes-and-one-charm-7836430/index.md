@@ -4,6 +4,7 @@ artist_name: "The Black Crowes"
 artist: "the-black-crowes"
 album_name: "Three Snakes And One Charm"
 date: 2016-01-04T18:01:08.000000Z
+release_date: "1996-01-01"
 release_id: "7836430"
 slug: "three-snakes-and-one-charm-7836430"
 hideSummary: true
@@ -26,33 +27,33 @@ styles: ["Southern Rock"]
 ---
 
 Three Snakes and One Charm is the fourth studio album by American rock band the Black Crowes. It was released on July 23, 1996, and is their final release on American Recordings.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Under A Mountain
-2. Good Friday
-3. Nebakanezer
-4. One Mirror Too Many
-5. Blackberry
-6. Girl From A Pawnshop
-7. (Only) Halfway To Everywhere
-8. Bring On, Bring On
-9. How Much For Your Wings?
-10. Let Me Share The Ride
-11. Better When You're Not Alone
-12. Evil Eye
-13. Just Say You're Sorry
-14. Pimper's Paradise
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Under A Mountain |  |
+| A2 | Good Friday |  |
+| A3 | Nebakanezer |  |
+| B1 | One Mirror Too Many |  |
+| B2 | Blackberry |  |
+| B3 | Girl From A Pawnshop |  |
+| C1 | (Only) Halfway To Everywhere |  |
+| C2 | Bring On, Bring On |  |
+| C3 | How Much For Your Wings? |  |
+| C4 | Let Me Share The Ride |  |
+| D1 | Better When You're Not Alone |  |
+| D2 | Evil Eye |  |
+| D3 | Just Say You're Sorry |  |
+| D4 | Pimper's Paradise |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/three-snakes-and-one-charm/1444127640" >}}<br>
 
-
-## Videos
-### The Black Crowes - Blackberry
-{{< youtube id="y9r_uE9YOSM" title="The Black Crowes - Blackberry" >}}<br>
 
 
 ## Release Images
@@ -65,5 +66,5 @@ Three Snakes and One Charm is the fourth studio album by American rock band the 
 | Format         | Vinyl 2× LP Album Reissue (180 Gram) |
 | Label          | American Recordings |
 | Catalog Number | 00602537494262 |
-| Notes | Widespine sleeve. Made in the EU. Mastered by Bob Ludwig at Gateway Mastering Studios. Vinyl mastering by John Matousek at Masterworks. (Rear sleeve notes) |
+| Notes | Widespine sleeve.<br>Made in the EU.<br>Mastered by Bob Ludwig at Gateway Mastering Studios. Vinyl mastering by John Matousek at Masterworks. (Rear sleeve notes) |
 | Discogs URL    | [The Black Crowes - Three Snakes And One Charm](https://www.discogs.com/release/7836430-The-Black-Crowes-Three-Snakes-And-One-Charm) |

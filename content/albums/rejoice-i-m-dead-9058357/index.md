@@ -4,6 +4,7 @@ artist_name: "Gong"
 artist: "gong"
 album_name: "Rejoice! I'm Dead!"
 date: 2016-09-21T17:52:30.000000Z
+release_date: "2016-09-16"
 release_id: "9058357"
 slug: "rejoice-i-m-dead-9058357"
 hideSummary: true
@@ -31,42 +32,29 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 ---
 
 Rejoice! I'm Dead! is the fourteenth studio album by Gong, their first to be recorded after the death of band founder Daevid Allen. It was released on 16 September 2016 (2016-09-16).
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Thing That Should Be (3:34)
-2. Rejoice! (10:17)
-3. Kapital (3:21)
-4. Model Village (6:43)
-5. Beatrix (2:54)
-6. Visions (4:29)
-7. The Unspeakable Stands Revealed (11:49)
-8. Through Restless Seas I Come (6:58)
-9. Insert Yr Own Prophecy (9:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Thing That Should Be | 3:34 |
+| A2 | Rejoice! | 10:17 |
+| A3 | Kapital | 3:21 |
+| B1 | Model Village | 6:43 |
+| B2 | Beatrix | 2:54 |
+| B3 | Visions | 4:29 |
+| C | The Unspeakable Stands Revealed | 11:49 |
+| D1 | Through Restless Seas I Come | 6:58 |
+| D2 | Insert Yr Own Prophecy | 9:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/rejoice-im-dead/1135524816" >}}<br>
 
 
-## Videos
-### GONG - Rejoice clip from Rejoice Im Dead
-{{< youtube id="bynWRpnP3aU" title="GONG - Rejoice clip from Rejoice Im Dead" >}}<br>
-### More Videos
-
-- [GONG -- REJOICE - IM NOT DEAD DJ MIX](https://www.youtube.com/watch?v=KElr32jXF1A)
-- [GONG - Rejoice clip from Rejoice Im Dead](https://www.youtube.com/watch?v=bynWRpnP3aU)
-- [GONG -- REJOICE - IM NOT DEAD DJ MIX](https://www.youtube.com/watch?v=KElr32jXF1A)
-- [GONG - Rejoice LIVE in Bonn 2017](https://www.youtube.com/watch?v=wCO89IRZGTg)
-- [Gong - Rejoice Im Dead album montage](https://www.youtube.com/watch?v=dgBCSVgzxzA)
-- [GONG -- REJOICE - IM NOT DEAD DJ MIX](https://www.youtube.com/watch?v=KElr32jXF1A)
-- [Gong  The Thing That Should Be](https://www.youtube.com/watch?v=Mbq8hfejqcQ)
-- [GONG - Rejoice Loreley NOTP 2017](https://www.youtube.com/watch?v=RqacE7JXHnY)
-- [GONG - Rejoice clip from Rejoice Im Dead](https://www.youtube.com/watch?v=bynWRpnP3aU)
-- [GONG-Rejoice Im dead-Sesc Belenzinho SP 2017](https://www.youtube.com/watch?v=7cg6BjI6IC0)
-- [Gong - Rejoice Phoenix FM session at Studio 6 Music](https://www.youtube.com/watch?v=z0JA74pIk58)
-- [Prog Review 497 - Rejoice Im Dead - Gong](https://www.youtube.com/watch?v=Ce1_JgQeEwc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +66,5 @@ Rejoice! I'm Dead! is the fourteenth studio album by Gong, their first to be rec
 | Format         | Vinyl 2× LP Album |
 | Label          | Madfish |
 | Catalog Number | SMALP1049 |
-| Notes | Gatefold, incl. download card  Contains 4 page booklet of lyrics and credits  ℗ 2016 Gong under licence to Snapper Music. © 2016 Gong. Made in the UK. Madfish is a Snapper Music label  Recorded at Brixton Hill Studios and beyond, Spring 2016 'Model Village' includes a sample of 'Floating Anarchy Manifesto' by Daevid Allen, courtesy of D.A.F.T., recorded at The Banana Moon Observatory Studios, Australia |
+| Notes | Gatefold, incl. download card<br><br>Contains 4 page booklet of lyrics and credits<br><br>℗ 2016 Gong under licence to Snapper Music.<br>© 2016 Gong. Made in the UK. Madfish is a Snapper Music label<br><br>Recorded at Brixton Hill Studios and beyond, Spring 2016<br>'Model Village' includes a sample of 'Floating Anarchy Manifesto' by Daevid Allen, courtesy of D.A.F.T., recorded at The Banana Moon Observatory Studios, Australia |
 | Discogs URL    | [Gong - Rejoice! I'm Dead!](https://www.discogs.com/release/9058357-Gong-Rejoice-Im-Dead) |

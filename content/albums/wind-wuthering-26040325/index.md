@@ -4,6 +4,7 @@ artist_name: "Genesis"
 artist: "genesis"
 album_name: "Wind & Wuthering"
 date: 2024-09-07T06:15:13.000000Z
+release_date: "1976-12-27"
 release_id: "26040325"
 slug: "wind-wuthering-26040325"
 hideSummary: true
@@ -25,28 +26,28 @@ styles: ["Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Eleventh Earl Of Mar
-2. One For The Vine
-3. Your Own Special Way
-4. Wot Gorilla?
-5. All In A Mouse's Night
-6. Blood On The Rooftops
-7. 'Unquiet Slumbers For The Sleepers...
-8. ...In That Quiet Earth
-9. Afterglow
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Eleventh Earl Of Mar |  |
+| A2 | One For The Vine |  |
+| A3 | Your Own Special Way |  |
+| A4 | Wot Gorilla? |  |
+| B1 | All In A Mouse's Night |  |
+| B2 | Blood On The Rooftops |  |
+| B3 | 'Unquiet Slumbers For The Sleepers... |  |
+| B4 | ...In That Quiet Earth |  |
+| B5 | Afterglow |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/wind-wuthering-2007-remaster/1694760566" >}}<br>
 
 
-## Videos
-### Eleventh Earl Of Mar
-{{< youtube id="9M4GnHcape4" title="Eleventh Earl Of Mar" >}}<br>
-### More Videos
-
-- [One For The Vine 2007 Remaster](https://www.youtube.com/watch?v=Ahw3YGrHeng)
 
 ## Release Images
 {{< imageGrid >}}
@@ -57,5 +58,5 @@ styles: ["Prog Rock"]
 | Format         | Vinyl LP Album Deluxe Edition Limited Edition Reissue Remastered Repress (180g) |
 | Label          | Atlantic |
 | Catalog Number | R1 188668 |
-| Notes | [Hype sticker:] The Classic Albums Deluxe Editions featuring: Half-Speed Mastering 2008 Mixes by Nick Davis Limited 180gm Vinyl LP  A "Made in Germany" sticker is adhered to the rear cover.  Single pocket parchment-textured cover with inner sleeve featuring lyrics and credits.  This is a repress of the [url=https://www.discogs.com/release/6946975]2015 deluxe edition release[/url], which was itself a repress of the LP first included in the [url=https://www.discogs.com/release/4026883]2012 box set[/url]. It very closely resembles the 2015 deluxe edition, including the barcode and textured sleeve, but with minor variations to the copyright date, labels, and hype sticker.  [Rear cover:] ℗ & © 2018, 1976 Anthony Banks Ltd., Philip Collins Ltd., Stephen Hackett Ltd., Michael Rutherford Ltd., under exclusive license to Atlantic Recording Corporation/Rhino Entertainment Company, Warner Music Group Companies.  [Inner sleeve:] ℗ & © 2018, 1976 Anthony Banks Ltd., Philip Collins Ltd., Stephen Hackett Ltd., Michael Rutherford Ltd., under exclusive license to Atlantic Recording Corporation/Rhino Entertainment Company.  [Labels:] ℗ & © 2018 Anthony Banks Ltd., Philip Collins Ltd., Stephen Hackett Ltd., Real World Ltd., Michael Rutherford Ltd., under exclusive license to Atlantic Recording Corporation/Rhino Entertainment Company, a Warner Music Group Company.  IMAGEM is misprinted as MAGEM on the disc labels.  Runouts are etched. |
+| Notes | [Hype sticker:]<br>The Classic Albums<br>Deluxe Editions<br>featuring:<br>Half-Speed Mastering<br>2008 Mixes by Nick Davis<br>Limited 180gm Vinyl LP<br><br>A "Made in Germany" sticker is adhered to the rear cover.<br><br>Single pocket parchment-textured cover with inner sleeve featuring lyrics and credits.<br><br>This is a repress of the [url=https://www.discogs.com/release/6946975]2015 deluxe edition release[/url], which was itself a repress of the LP first included in the [url=https://www.discogs.com/release/4026883]2012 box set[/url]. It very closely resembles the 2015 deluxe edition, including the barcode and textured sleeve, but with minor variations to the copyright date, labels, and hype sticker.<br><br>[Rear cover:] ℗ & © 2018, 1976 Anthony Banks Ltd., Philip Collins Ltd., Stephen Hackett Ltd., Michael Rutherford Ltd., under exclusive license to Atlantic Recording Corporation/Rhino Entertainment Company, Warner Music Group Companies.<br><br>[Inner sleeve:] ℗ & © 2018, 1976 Anthony Banks Ltd., Philip Collins Ltd., Stephen Hackett Ltd., Michael Rutherford Ltd., under exclusive license to Atlantic Recording Corporation/Rhino Entertainment Company.<br><br>[Labels:] ℗ & © 2018 Anthony Banks Ltd., Philip Collins Ltd., Stephen Hackett Ltd., Real World Ltd., Michael Rutherford Ltd., under exclusive license to Atlantic Recording Corporation/Rhino Entertainment Company, a Warner Music Group Company.<br><br>IMAGEM is misprinted as MAGEM on the disc labels.<br><br>Runouts are etched. |
 | Discogs URL    | [Genesis - Wind & Wuthering](https://www.discogs.com/release/26040325-Genesis-Wind-Wuthering) |

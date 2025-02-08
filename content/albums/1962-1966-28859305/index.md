@@ -44,48 +44,50 @@ The 1973 collection known to fans as “The Red Album” (released simultaneousl
 
 
 ## Tracklisting
-1. Love Me Do
-2. Please Please Me
-3. From Me To You
-4. She Loves You
-5. I Want To Hold Your Hand
-6. All My Loving
-7. Can't Buy Me Love
-8. A Hard Day's Night
-9. And I Love Her
-10. Eight Days A Week
-11. I Feel Fine
-12. Ticket To Ride
-13. Yesterday
-14. Help!
-15. You've Got To Hide Your Love Away
-16. We Can Work It Out
-17. Day Tripper
-18. Drive My Car
-19. Norwegian Wood (This Bird Has Flown)
-20. Nowhere Man
-21. Michelle
-22. In My Life
-23. Girl
-24. Paperback Writer
-25. Eleanor Rigby
-26. Yellow Submarine
-27. I Saw Her Standing There
-28. Twist And Shout
-29. This Boy
-30. Roll Over Beethoven
-31. You Really Got A Hold On Me
-32. You Can't Do That
-33. If I Needed Someone
-34. Got To Get You Into My Life
-35. I'm Only Sleeping
-36. Taxman
-37. Here, There And Everywhere
-38. Tomorrow Never Knows
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Love Me Do |  |
+| A2 | Please Please Me |  |
+| A3 | From Me To You |  |
+| A4 | She Loves You |  |
+| A5 | I Want To Hold Your Hand |  |
+| A6 | All My Loving |  |
+| A7 | Can't Buy Me Love |  |
+| B1 | A Hard Day's Night |  |
+| B2 | And I Love Her |  |
+| B3 | Eight Days A Week |  |
+| B4 | I Feel Fine |  |
+| B5 | Ticket To Ride |  |
+| B6 | Yesterday |  |
+| C1 | Help! |  |
+| C2 | You've Got To Hide Your Love Away |  |
+| C3 | We Can Work It Out |  |
+| C4 | Day Tripper |  |
+| C5 | Drive My Car |  |
+| C6 | Norwegian Wood (This Bird Has Flown) |  |
+| D1 | Nowhere Man |  |
+| D2 | Michelle |  |
+| D3 | In My Life |  |
+| D4 | Girl |  |
+| D5 | Paperback Writer |  |
+| D6 | Eleanor Rigby |  |
+| D7 | Yellow Submarine |  |
+| E1 | I Saw Her Standing There |  |
+| E2 | Twist And Shout |  |
+| E3 | This Boy |  |
+| E4 | Roll Over Beethoven |  |
+| E5 | You Really Got A Hold On Me |  |
+| E6 | You Can't Do That |  |
+| F1 | If I Needed Someone |  |
+| F2 | Got To Get You Into My Life |  |
+| F3 | I'm Only Sleeping |  |
+| F4 | Taxman |  |
+| F5 | Here, There And Everywhere |  |
+| F6 | Tomorrow Never Knows |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-beatles-1962-1966-the-red-album/1441132965" >}}<br>
-
 
 
 
@@ -98,5 +100,5 @@ The 1973 collection known to fans as “The Red Album” (released simultaneousl
 | Format         | Vinyl 3× LP Compilation Limited Edition Mixed Reissue Remastered Stereo (Half-Speed Master, Red) |
 | Label          | Apple Records |
 | Catalog Number | 0602455920539 |
-| Notes | Gatefold sleeve + insert.  Half-speed master on limited edition red vinyl. Sticker on shrinkwrap Made in Germany.  Matrix numbers are hand etched in the runout area. Plating marks like '1I+', '1Iᛚ', '1=X','1=⊥', ' 1=-' and '⋀+⋁' are mirrored. |
+| Notes | Gatefold sleeve + insert.<br><br>Half-speed master on limited edition red vinyl.<br>Sticker on shrinkwrap Made in Germany.<br><br>Matrix numbers are hand etched in the runout area. Plating marks like '1I+', '1Iᛚ', '1=X','1=⊥', ' 1=-' and '⋀+⋁' are mirrored. |
 | Discogs URL    | [The Beatles - 1962-1966](https://www.discogs.com/release/28859305-The-Beatles-1962-1966) |

@@ -1,6 +1,6 @@
 ---
-title: "Sharon Jones & The Dap-Kings - Miss Sharon Jones! (Original Motion Picture Soundtrack)"
-artist_name: "Sharon Jones & The Dap-Kings"
+title: "Sharon Jones  The Dap-Kings - Miss Sharon Jones! (Original Motion Picture Soundtrack)"
+artist_name: "Sharon Jones  The Dap-Kings"
 artist: "sharon-jones-the-dap-kings"
 album_name: "Miss Sharon Jones! (Original Motion Picture Soundtrack)"
 date: 2016-12-29T10:13:00.000000Z
@@ -10,8 +10,8 @@ slug: "miss-sharon-jones-original-motion-picture-soundtrack-9382390"
 hideSummary: true
 cover:
     image: "miss-sharon-jones-original-motion-picture-soundtrack-9382390.jpg"
-    alt: "Miss Sharon Jones! (Original Motion Picture Soundtrack) by Sharon Jones & The Dap-Kings"
-    caption: "Miss Sharon Jones! (Original Motion Picture Soundtrack) by Sharon Jones & The Dap-Kings"
+    alt: "Miss Sharon Jones! (Original Motion Picture Soundtrack) by Sharon Jones  The Dap-Kings"
+    caption: "Miss Sharon Jones! (Original Motion Picture Soundtrack) by Sharon Jones  The Dap-Kings"
 additional_images:
     - "https://i.discogs.com/Xs051d3yga3VESDv3jWNIcBxXTASYf5xfCch2Kll9qw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODIz/OTAtMTUxNTYzMDc4/MC02ODE4LmpwZWc.jpeg"
     - "https://i.discogs.com/5X0Jw6I1Di5MkC7L1A1wFncpxI39HANrTlAuNuWtvg0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzODIz/OTAtMTUxNTYzMDc4/MC0zODAxLmpwZWc.jpeg"
@@ -29,70 +29,33 @@ Barbara Kopple’s documentary <i>Miss Sharon Jones!</i> doubles as an empowerin
 
 
 ## Tracklisting
-1. Tell Me
-2. Retreat!
-3. New Shoes
-4. Longer And Stronger
-5. If You Call
-6. 100 Days, 100 Nights
-7. People Don't Get What They Deserve
-8. Humble Me
-9. I'll Still Be True
-10. When I Come Home
-11. Let Them Knock
-12. Stranger To My Happiness
-13. Keep On Looking
-14. Mama Don't Like My Man
-15. I Learned The Hard Way
-16. Slow Down Love
-17. Genuine Pts. 1 & 2
-18. I'm Still Here
-19. His Eye Is On The Sparrow
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Tell Me |  |
+| A2 | Retreat! |  |
+| A3 | New Shoes |  |
+| A4 | Longer And Stronger |  |
+| A5 | If You Call |  |
+| B1 | 100 Days, 100 Nights |  |
+| B2 | People Don't Get What They Deserve |  |
+| B3 | Humble Me |  |
+| B4 | I'll Still Be True |  |
+| B5 | When I Come Home |  |
+| C1 | Let Them Knock |  |
+| C2 | Stranger To My Happiness |  |
+| C3 | Keep On Looking |  |
+| C4 | Mama Don't Like My Man |  |
+| C5 | I Learned The Hard Way |  |
+| D1 | Slow Down Love |  |
+| D2 | Genuine Pts. 1 & 2 |  |
+| D3 | I'm Still Here |  |
+| D4 | His Eye Is On The Sparrow |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/miss-sharon-jones-original-motion-picture-soundtrack/1488038920" >}}<br>
 
 
-## Videos
-### Sharon Jones  the Dap-Kings Im Still Here
-{{< youtube id="XQOYAjd8icg" title="Sharon Jones  the Dap-Kings Im Still Here" >}}<br>
-### More Videos
-
-- [Tell Me](https://www.youtube.com/watch?v=PJDlVXuonI4)
-- [Sharon Jones  The Dap-Kings - Retreat Official Music Video](https://www.youtube.com/watch?v=PrOYkHjdpdM)
-- [New Shoes](https://www.youtube.com/watch?v=TScb8PRPc-8)
-- [Longer and Stronger Sharon Jones](https://www.youtube.com/watch?v=KWKsATGHWao)
-- [Sharon Jones amp the Dap-Kings - If You Call](https://www.youtube.com/watch?v=J3kYZgeYhC4)
-- [Sharon Jones  The Dap-Kings 100 Days 100 Nights](https://www.youtube.com/watch?v=8ouI5KcyHfE)
-- [Sharon Jones  the Dap-Kings - People Dont Get What They Deserve](https://www.youtube.com/watch?v=VmLl21gZjfM)
-- [Humble Me](https://www.youtube.com/watch?v=pOWmDAz4Ep0)
-- [Ill Still Be True](https://www.youtube.com/watch?v=ubhGej6RTxc)
-- [Sharon Jones  the Dap-Kings When I Come Home](https://www.youtube.com/watch?v=96EL_f1Nugc)
-- [Sharon Jones and the Dap Kings - Let Them Knock](https://www.youtube.com/watch?v=Pf6gyRI1zqg)
-- [Sharon Jones  the Dap-Kings Stranger To My Happiness](https://www.youtube.com/watch?v=IlPE1rEdAdI)
-- [Keep on Looking](https://www.youtube.com/watch?v=iPk3Wg5h978)
-- [Mama Dont Like My Man](https://www.youtube.com/watch?v=a5wuTGxavQI)
-- [Sharon Jones  The Dap-Kings - I learned the hard way](https://www.youtube.com/watch?v=N2enjrlMXkY)
-- [Slow Down Love](https://www.youtube.com/watch?v=S3Fvc6D0GUs)
-- [Sharon Jones  The Dap-Kings - Genuine Pts 1  2](https://www.youtube.com/watch?v=kyLHay-wHic)
-- [Sharon Jones  the Dap-Kings Im Still Here](https://www.youtube.com/watch?v=XQOYAjd8icg)
-- [Tell Me](https://www.youtube.com/watch?v=PJDlVXuonI4)
-- [Sharon Jones  The Dap-Kings - Retreat Official Music Video](https://www.youtube.com/watch?v=PrOYkHjdpdM)
-- [New Shoes](https://www.youtube.com/watch?v=TScb8PRPc-8)
-- [Longer and Stronger Sharon Jones](https://www.youtube.com/watch?v=KWKsATGHWao)
-- [Sharon Jones amp the Dap-Kings - If You Call](https://www.youtube.com/watch?v=J3kYZgeYhC4)
-- [Sharon Jones  The Dap-Kings 100 Days 100 Nights](https://www.youtube.com/watch?v=8ouI5KcyHfE)
-- [Sharon Jones  the Dap-Kings - People Dont Get What They Deserve](https://www.youtube.com/watch?v=VmLl21gZjfM)
-- [Humble Me](https://www.youtube.com/watch?v=pOWmDAz4Ep0)
-- [Ill Still Be True](https://www.youtube.com/watch?v=ubhGej6RTxc)
-- [Sharon Jones  the Dap-Kings When I Come Home](https://www.youtube.com/watch?v=96EL_f1Nugc)
-- [Sharon Jones and the Dap Kings - Let Them Knock](https://www.youtube.com/watch?v=Pf6gyRI1zqg)
-- [Sharon Jones  the Dap-Kings Stranger To My Happiness](https://www.youtube.com/watch?v=IlPE1rEdAdI)
-- [Keep on Looking](https://www.youtube.com/watch?v=iPk3Wg5h978)
-- [Mama Dont Like My Man](https://www.youtube.com/watch?v=a5wuTGxavQI)
-- [Sharon Jones  The Dap-Kings - I learned the hard way](https://www.youtube.com/watch?v=N2enjrlMXkY)
-- [Slow Down Love](https://www.youtube.com/watch?v=S3Fvc6D0GUs)
-- [Sharon Jones  The Dap-Kings - Genuine Pts 1  2](https://www.youtube.com/watch?v=kyLHay-wHic)
 
 ## Release Images
 {{< imageGrid >}}
@@ -103,5 +66,5 @@ Barbara Kopple’s documentary <i>Miss Sharon Jones!</i> doubles as an empowerin
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Daptone Records |
 | Catalog Number | DAP-043 |
-| Notes | Gatefold sleeve. Includes MP3 download code.  Includes a performance of "His Eye On The Sparrow" as heard in the film sung by Sharon Jones in her local church in Augusta, GA. |
-| Discogs URL    | [Sharon Jones & The Dap-Kings - Miss Sharon Jones! (Original Motion Picture Soundtrack)](https://www.discogs.com/release/9382390-Sharon-Jones-The-Dap-Kings-Miss-Sharon-Jones-Original-Motion-Picture-Soundtrack) |
+| Notes | Gatefold sleeve. Includes MP3 download code.<br><br>Includes a performance of "His Eye On The Sparrow" as heard in the film sung by Sharon Jones in her local church in Augusta, GA. |
+| Discogs URL    | [Sharon Jones  The Dap-Kings - Miss Sharon Jones! (Original Motion Picture Soundtrack)](https://www.discogs.com/release/9382390-Sharon-Jones-The-Dap-Kings-Miss-Sharon-Jones-Original-Motion-Picture-Soundtrack) |

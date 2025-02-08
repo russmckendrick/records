@@ -29,39 +29,26 @@ It’s no wonder why Big Star’s shimmering 1972 debut became a go-to for futur
 
 
 ## Tracklisting
-1. Feel (3:34)
-2. The Ballad Of El Goodo (4:21)
-3. In The Street (2:55)
-4. Thirteen (2:34)
-5. Don't Lie To Me (3:07)
-6. The India Song (2:20)
-7. When My Baby's Beside Me (3:23)
-8. My Life Is Right (3:08)
-9. Give Me Another Chance (3:27)
-10. Try Again (3:31)
-11. Watch The Sunrise (3:45)
-12. ST 100/6 (1:01)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Feel | 3:34 |
+| A2 | The Ballad Of El Goodo | 4:21 |
+| A3 | In The Street | 2:55 |
+| A4 | Thirteen | 2:34 |
+| A5 | Don't Lie To Me | 3:07 |
+| A6 | The India Song | 2:20 |
+| B1 | When My Baby's Beside Me | 3:23 |
+| B2 | My Life Is Right | 3:08 |
+| B3 | Give Me Another Chance | 3:27 |
+| B4 | Try Again | 3:31 |
+| B5 | Watch The Sunrise | 3:45 |
+| B6 | ST 100/6 | 1:01 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/1-record/1422691834" >}}<br>
 
 
-## Videos
-### Feel
-{{< youtube id="9c43fv9RUhw" title="Feel" >}}<br>
-### More Videos
-
-- [The Ballad Of El Goodo](https://www.youtube.com/watch?v=tIqLdR0-EXA)
-- [In The Street](https://www.youtube.com/watch?v=lsbhybNNm_A)
-- [Thirteen](https://www.youtube.com/watch?v=d2Oy3-qEE0U)
-- [Dont Lie To Me](https://www.youtube.com/watch?v=aG65bDOuMnk)
-- [The India Song](https://www.youtube.com/watch?v=bvFofTBn6wE)
-- [My Life Is Right](https://www.youtube.com/watch?v=L3cW9XJoTLw)
-- [Give Me Another Chance](https://www.youtube.com/watch?v=YAaxzfl-JXw)
-- [Try Again](https://www.youtube.com/watch?v=6-JllLIP5Ik)
-- [ST 1006](https://www.youtube.com/watch?v=zHxBigDdWRA)
-- [Watch The Sunrise](https://www.youtube.com/watch?v=PsoJSKgVi38)
-- [When My Babys Beside Me](https://www.youtube.com/watch?v=GcUhsDvInvE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -72,5 +59,5 @@ It’s no wonder why Big Star’s shimmering 1972 debut became a go-to for futur
 | Format         | Vinyl LP Album Reissue Remastered (180g) |
 | Label          | Ardent Records (2) |
 | Catalog Number | CR00211 |
-| Notes | Red, black, and white hype sticker from Craft Recordings All-analog mastering Comes with a plain white poly-lined inner  ℗ 2019 & © 1972 Craft Recordings Made in USA.  Published By: A1 to A5, B1, B3 to B6 -- East/Memphis BMI A6, B2 -- Koala-Birdess ASCAP  Runout details: Variant 1 -- Stamped vs etched state not specified Variant 2 -- Stamped vs etched state not specified Variant 3 -- Stamped vs etched state not specified Variant 4 -- Stamped vs etched state not specified Variant 5 -- Both sides are etched Variant 6 -- Both sides are etched Variant 7 -- Both sides are etched Variant 8 -- Both sides are etched. |
+| Notes | Red, black, and white hype sticker from Craft Recordings<br>All-analog mastering<br>Comes with a plain white poly-lined inner<br><br>℗ 2019 & © 1972 Craft Recordings Made in USA.<br><br>Published By:<br>A1 to A5, B1, B3 to B6 -- East/Memphis BMI<br>A6, B2 -- Koala-Birdess ASCAP<br><br>Runout details:<br>Variant 1 -- Stamped vs etched state not specified<br>Variant 2 -- Stamped vs etched state not specified<br>Variant 3 -- Stamped vs etched state not specified<br>Variant 4 -- Stamped vs etched state not specified<br>Variant 5 -- Both sides are etched<br>Variant 6 -- Both sides are etched<br>Variant 7 -- Both sides are etched<br>Variant 8 -- Both sides are etched. |
 | Discogs URL    | [Big Star - #1 Record](https://www.discogs.com/release/14696642-Big-Star-1-Record) |

@@ -4,6 +4,7 @@ artist_name: "Pop Will Eat Itself"
 artist: "pop-will-eat-itself"
 album_name: "X Y & Zee"
 date: 2018-02-15T19:24:32.000000Z
+release_date: ""
 release_id: "432985"
 slug: "x-y-zee-432985"
 hideSummary: true
@@ -23,26 +24,22 @@ styles: ["Breakbeat", "Indie Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. X Y & Zee (The Intergalactic Mix)
-2. X Y & Zee (The Electric Sunshine Mix)
-3. X Y & Zee (Sensory Amplification Mix)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | X Y & Zee (The Intergalactic Mix) |  |
+| A2 | X Y & Zee (The Electric Sunshine Mix) |  |
+| B | X Y & Zee (Sensory Amplification Mix) |  |
 
 
+## Apple Music
+{{< applemusic url="" >}}<br>
 
-## Videos
-### Pop Will Eat Itself   XY  Zee Sensory Amplification Mix
-{{< youtube id="UKVYQFQ_wOg" title="Pop Will Eat Itself   XY  Zee Sensory Amplification Mix" >}}<br>
-### More Videos
 
-- [X Y  Zee Electric Sunshine Style](https://www.youtube.com/watch?v=VHnt11bZdAY)
-- [Pop Will Eat Itself   XY  Zee Sensory Amplification Mix](https://www.youtube.com/watch?v=UKVYQFQ_wOg)
-- [X Y  Zee Electric Sunshine Style](https://www.youtube.com/watch?v=VHnt11bZdAY)
-- [Pop Will Eat Itself - Axe of Men](https://www.youtube.com/watch?v=bd_lMQ_aM5c)
-- [Pop Will Eat Itself   XY  Zee Sensory Amplification Mix](https://www.youtube.com/watch?v=UKVYQFQ_wOg)
-- [Pop Will Eat Itself - X Y  Zee Video](https://www.youtube.com/watch?v=FcyTCoChsf8)
-- [Pop Will Eat Itself - X Y  Zee](https://www.youtube.com/watch?v=EDuBS2U1kjg)
 
 ## Release Images
 {{< imageGrid >}}

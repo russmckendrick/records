@@ -4,6 +4,7 @@ artist_name: "Jean-Michel Jarre"
 artist: "jean-michel-jarre"
 album_name: "Amazônia"
 date: 2021-07-04T09:10:24.000000Z
+release_date: "2021-04-09"
 release_id: "18216709"
 slug: "amaznia-18216709"
 hideSummary: true
@@ -28,62 +29,28 @@ styles: ["Ambient", "Field Recording"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Amazônia (Part 1) (7:42)
-2. Amazônia (Part 2) (9:59)
-3. Amazônia (Part 3) (8:10)
-4. Amazônia (Part 4) (3:16)
-5. Amazônia (Part 5) (6:04)
-6. Amazônia (Part 6) (3:33)
-7. Amazônia (Part 7) (4:18)
-8. Amazônia (Part 8) (3:19)
-9. Amazônia (Part 9) (6:23)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Amazônia (Part 1) | 7:42 |
+| A2 | Amazônia (Part 2) | 9:59 |
+| B1 | Amazônia (Part 3) | 8:10 |
+| B2 | Amazônia (Part 4) | 3:16 |
+| B3 | Amazônia (Part 5) | 6:04 |
+| C1 | Amazônia (Part 6) | 3:33 |
+| C2 | Amazônia (Part 7) | 4:18 |
+| C3 | Amazônia (Part 8) | 3:19 |
+| C4 | Amazônia (Part 9) | 6:23 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/amaz%C3%B4nia/1557713010" >}}<br>
 
 
-## Videos
-### Amazônia Pt 1
-{{< youtube id="A1EmGAAmy34" title="Amazônia Pt 1" >}}<br>
-### More Videos
-
-- [Amazônia Pt 2](https://www.youtube.com/watch?v=f7xPpmlx0Ls)
-- [Amazônia Pt 3](https://www.youtube.com/watch?v=oU8IATLjvRs)
-- [Amazônia Pt 4](https://www.youtube.com/watch?v=wnlt8p0ZQ5c)
-- [Amazônia Pt 5](https://www.youtube.com/watch?v=KgwcXTdPTV0)
-- [Amazônia Pt 6](https://www.youtube.com/watch?v=1ZKyCKU1PCQ)
-- [Amazônia Pt 7](https://www.youtube.com/watch?v=SlKefLTiwgk)
-- [Amazônia Pt 8](https://www.youtube.com/watch?v=ZIvwNbN1xCc)
-- [Amazônia Pt 9](https://www.youtube.com/watch?v=L6quam3cEaE)
-- [Amazônia Pt 1 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=UxIOoeGC2jY)
-- [Amazônia Pt 2 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=HTWXEQ0jg28)
-- [Amazônia Pt 3 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=PVH2txpwQiQ)
-- [Amazônia Pt 4 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=wh2pfKWtNq4)
-- [Amazônia Pt 5 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=cavAYYkfVp4)
-- [Amazônia Pt 6 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=xqTUdYHZHUc)
-- [Amazônia Pt 7 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=8fpnPv3hDD0)
-- [Amazônia Pt 8 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=46mIEklhxew)
-- [Amazônia Pt 9 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=n6YxuR1_eqI)
-- [Amazônia Pt 1](https://www.youtube.com/watch?v=A1EmGAAmy34)
-- [Amazônia Pt 2](https://www.youtube.com/watch?v=f7xPpmlx0Ls)
-- [Amazônia Pt 3](https://www.youtube.com/watch?v=oU8IATLjvRs)
-- [Amazônia Pt 4](https://www.youtube.com/watch?v=wnlt8p0ZQ5c)
-- [Amazônia Pt 5](https://www.youtube.com/watch?v=KgwcXTdPTV0)
-- [Amazônia Pt 6](https://www.youtube.com/watch?v=1ZKyCKU1PCQ)
-- [Amazônia Pt 7](https://www.youtube.com/watch?v=SlKefLTiwgk)
-- [Amazônia Pt 8](https://www.youtube.com/watch?v=ZIvwNbN1xCc)
-- [Amazônia Pt 9](https://www.youtube.com/watch?v=L6quam3cEaE)
-- [Amazônia Pt 1 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=UxIOoeGC2jY)
-- [Amazônia Pt 2 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=HTWXEQ0jg28)
-- [Amazônia Pt 3 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=PVH2txpwQiQ)
-- [Amazônia Pt 4 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=wh2pfKWtNq4)
-- [Amazônia Pt 5 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=cavAYYkfVp4)
-- [Amazônia Pt 6 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=xqTUdYHZHUc)
-- [Amazônia Pt 7 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=8fpnPv3hDD0)
-- [Amazônia Pt 8 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=46mIEklhxew)
-- [Amazônia Pt 9 Binaural Audio - Headphones only](https://www.youtube.com/watch?v=n6YxuR1_eqI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -94,5 +61,5 @@ styles: ["Ambient", "Field Recording"]
 | Format         | Vinyl LP, Vinyl LP Single Sided, All Media Album Stereo (180g) |
 | Label          | Columbia |
 | Catalog Number | 19439845051 |
-| Notes | Gatefold sleeve & wav 5.1 and wav Binaural download code  Made in the EU.  |
+| Notes | Gatefold sleeve & wav 5.1 and wav Binaural download code<br><br>Made in the EU.<br> |
 | Discogs URL    | [Jean-Michel Jarre - Amazônia](https://www.discogs.com/release/18216709-Jean-Michel-Jarre-Amazônia) |

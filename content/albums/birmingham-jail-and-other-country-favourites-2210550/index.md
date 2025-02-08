@@ -4,6 +4,7 @@ artist_name: "Slim Whitman"
 artist: "slim-whitman"
 album_name: "Birmingham Jail And Other Country Favourites"
 date: 2020-08-02T13:31:47.000000Z
+release_date: "2005-03-29"
 release_id: "2210550"
 slug: "birmingham-jail-and-other-country-favourites-2210550"
 hideSummary: true
@@ -21,26 +22,28 @@ styles: ["Country"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Birmingham Jail
-2. Wabash Waltz
-3. (Please) Paint A Rose On The Garden Wall
-4. I'll Do As Much For You Someday
-5. Let's Go To Church (Next Sunday Morning)
-6. I'm Casting My Lasso Towards The Sky
-7. There's A Rainbow In Ev'ry Teardrop
-8. Tears Can Never Drown The Flame ( That's In My Heart)
-9. I'm Crying For You
-10. I'll Never Pass This Way Again
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Birmingham Jail |  |
+| A2 | Wabash Waltz |  |
+| A3 | (Please) Paint A Rose On The Garden Wall |  |
+| A4 | I'll Do As Much For You Someday |  |
+| A5 | Let's Go To Church (Next Sunday Morning) |  |
+| B1 | I'm Casting My Lasso Towards The Sky |  |
+| B2 | There's A Rainbow In Ev'ry Teardrop |  |
+| B3 | Tears Can Never Drown The Flame ( That's In My Heart) |  |
+| B4 | I'm Crying For You |  |
+| B5 | I'll Never Pass This Way Again |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/absolutely-the-best-of-slim-whitman/450190866" >}}<br>
 
-
-## Videos
-### Slim Whitman - - -  Birmingham Jail  - --   Best Video 
-{{< youtube id="kqufglg5A4s" title="Slim Whitman - - -  Birmingham Jail  - --   Best Video " >}}<br>
 
 
 ## Release Images

@@ -4,6 +4,7 @@ artist_name: "XTC"
 artist: "xtc"
 album_name: "3D • EP"
 date: 2023-11-24T10:24:24.000000Z
+release_date: "2023-09-17"
 release_id: "28997110"
 slug: "3d-ep-28997110"
 hideSummary: true
@@ -20,30 +21,22 @@ styles: ["Pop Rock", "New Wave"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Science Friction (3:12)
-2. She's So Square (3:06)
-3. Dance Band (2:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| 1 | Science Friction | 3:12 |
+| 2 | She's So Square | 3:06 |
+| 3 | Dance Band | 2:40 |
+
 
 ## Apple Music
 {{< applemusic url="" >}}<br>
 
 
-## Videos
-### XTC 3D-EP - Science Friction
-{{< youtube id="evdza8rVvpc" title="XTC 3D-EP - Science Friction" >}}<br>
-### More Videos
-
-- [XTC - Science friction Promo 1978](https://www.youtube.com/watch?v=KtnNJ3q5wEc)
-- [XTC Shes so Square 1976](https://www.youtube.com/watch?v=-wQbUwxWfHI)
-- [XTC - 3D EP - Shes So Square](https://www.youtube.com/watch?v=JLoG2T7Nb4g)
-- [XTC - 3D EP - Dance Band](https://www.youtube.com/watch?v=hZIzV89fUFc)
-- [XTC - 3D EP - Goodnight Sucker](https://www.youtube.com/watch?v=epD5I9HnURg)
-- [XTC 3D-EP - Science Friction](https://www.youtube.com/watch?v=evdza8rVvpc)
-- [XTC - 3D EP - Dance Band](https://www.youtube.com/watch?v=hZIzV89fUFc)
-- [XTC - 3D EP - Shes So Square](https://www.youtube.com/watch?v=JLoG2T7Nb4g)
-- [XTC - 3D EP - Goodnight Sucker](https://www.youtube.com/watch?v=epD5I9HnURg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -54,5 +47,5 @@ styles: ["Pop Rock", "New Wave"]
 | Format         | CD EP Reissue Stereo |
 | Label          | [{'name': 'Ape House', 'catno': ''}] |
 | Catalog Number | APEEP906CD |
-| Notes | ℗ 1977, the copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited. © 2023 Ape House Ltd.  Mail order copies can include a bonus postcard |
+| Notes | ℗ 1977, the copyright in this sound recording is owned by Virgin Records Limited under licence to Ape House Limited.<br>© 2023 Ape House Ltd.<br><br>Mail order copies can include a bonus postcard |
 | Discogs URL    | [XTC - 3D • EP](https://www.discogs.com/release/28997110-XTC-3D-EP) |

@@ -4,6 +4,7 @@ artist_name: "Mike Oldfield"
 artist: "mike-oldfield"
 album_name: "Return To Ommadawn"
 date: 2017-02-05T12:26:24.000000Z
+release_date: "2017-01-20"
 release_id: "9679634"
 slug: "return-to-ommadawn-9679634"
 hideSummary: true
@@ -31,26 +32,22 @@ styles: ["Acoustic", "Celtic", "Art Rock", "Folk Rock", "Folk"]
 Return to Ommadawn is the twenty-sixth and final studio album by English musician and songwriter Mike Oldfield. It was released on 20 January 2017 on Virgin EMI Records and is the sequel to his 1975 album Ommadawn. The CD/DVD-Audio set contains a 5.1 surround sound mix of the album. Return to Ommadawn is the last studio album Oldfield released before the announcement of his retirement in 2023.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Return To Ommadawn Pt. I (21:10)
-2. Return To Ommadawn Pt. II (20:57)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A | Return To Ommadawn Pt. I | 21:10 |
+| B | Return To Ommadawn Pt. II | 20:57 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/return-to-ommadawn/1440893253" >}}<br>
 
 
-## Videos
-### Mike Oldfield - Return to Ommadawn 2017 2K - 1440p - Full album
-{{< youtube id="R-nptvm9-hE" title="Mike Oldfield - Return to Ommadawn 2017 2K - 1440p - Full album" >}}<br>
-### More Videos
-
-- [Mike Oldfields Stream Theme From Return To Ommadawn Pt 1](https://www.youtube.com/watch?v=wqKLG5OlC-E)
-- [Mike Oldfield - Return to Ommadawn 2017 2K - 1440p - Full album](https://www.youtube.com/watch?v=R-nptvm9-hE)
-- [Mike Oldfield - Return to Ommadawn 2017 2K - 1440p - Full album](https://www.youtube.com/watch?v=R-nptvm9-hE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -62,5 +59,5 @@ Return to Ommadawn is the twenty-sixth and final studio album by English musicia
 | Format         | Vinyl LP Album (180g) |
 | Label          | Virgin EMI Records |
 | Catalog Number | V 3166 |
-| Notes | Gatefold cover, with an illustrated inner sleeve. Includes download code for the album in lossy AAC format, see [r=9853010]. Some copies, sold via universal and Oldfield's own music shop, came bundled with a poster (24" x 24"). Vinyl half-speed mastered at Abbey Road.  ℗ & © 2017 Mercury Records Limited Made in the EU  Note:  First Pressings actually weigh 130g-140g.  Complaint to Universal resulted in 2nd pressing weighing 170-180g. Universal conceded an error at the pressing plant. All else identical!  Runouts are stamped except for 'MILES' which is etched. |
+| Notes | Gatefold cover, with an illustrated inner sleeve.<br>Includes download code for the album in lossy AAC format, see [r=9853010].<br>Some copies, sold via universal and Oldfield's own music shop, came bundled with a poster (24" x 24").<br>Vinyl half-speed mastered at Abbey Road.<br><br>℗ & © 2017 Mercury Records Limited<br>Made in the EU<br><br>Note:  First Pressings actually weigh 130g-140g.  Complaint to Universal resulted in 2nd pressing weighing 170-180g. Universal conceded an error at the pressing plant. All else identical!<br><br>Runouts are stamped except for 'MILES' which is etched. |
 | Discogs URL    | [Mike Oldfield - Return To Ommadawn](https://www.discogs.com/release/9679634-Mike-Oldfield-Return-To-Ommadawn) |

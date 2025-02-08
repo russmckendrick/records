@@ -4,6 +4,7 @@ artist_name: "Midas Fall"
 artist: "midas-fall"
 album_name: "Evaporate"
 date: 2018-05-14T09:17:13.000000Z
+release_date: "2018-04-27"
 release_id: "11947803"
 slug: "evaporate-11947803"
 hideSummary: true
@@ -18,31 +19,29 @@ styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Bruise Pusher (3:57)
-2. Evaporate (5:38)
-3. Soveraine (5:46)
-4. Glue (3:53)
-5. Sword To Shield (4:00)
-6. Dust And Bone (4:01)
-7. Awake (2:13)
-8. In Sunny Landscapes (5:28)
-9. Lapsing (4:09)
-10. Howling At The Clouds (4:24)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Bruise Pusher | 3:57 |
+| A2 | Evaporate | 5:38 |
+| A3 | Soveraine | 5:46 |
+| A4 | Glue | 3:53 |
+| A5 | Sword To Shield | 4:00 |
+| B1 | Dust And Bone | 4:01 |
+| B2 | Awake | 2:13 |
+| B3 | In Sunny Landscapes | 5:28 |
+| B4 | Lapsing | 4:09 |
+| B5 | Howling At The Clouds | 4:24 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/evaporate/1343876649" >}}<br>
 
 
-## Videos
-### Midas Fall - Evaporate
-{{< youtube id="k0BnZ_rO-R4" title="Midas Fall - Evaporate" >}}<br>
-### More Videos
-
-- [Midas Fall - Glue](https://www.youtube.com/watch?v=oZ_ArHLW43I)
-- [Midas Fall - Evaporate Live Session](https://www.youtube.com/watch?v=U_KKsAY55qM)
-- [Midas Fall - Evaporate](https://www.youtube.com/watch?v=k0BnZ_rO-R4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -53,5 +52,5 @@ styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 | Format         | Vinyl LP |
 | Label          | Monotreme Records |
 | Catalog Number | MONO-130VNL |
-| Notes | Limited to 500 copies on 180g vinyl (300 clear blue & black, 200 black) Colours were randomly distributed Includes CD of the Album in Card Sleeve |
+| Notes | Limited to 500 copies on 180g vinyl (300 clear blue & black, 200 black) Colours were randomly distributed<br>Includes CD of the Album in Card Sleeve |
 | Discogs URL    | [Midas Fall - Evaporate](https://www.discogs.com/release/11947803-Midas-Fall-Evaporate) |

@@ -4,6 +4,7 @@ artist_name: "Jane Weaver"
 artist: "jane-weaver"
 album_name: "Sunset Dreams"
 date: 2021-12-16T11:49:22.000000Z
+release_date: "2021-09-28"
 release_id: "21262522"
 slug: "sunset-dreams-21262522"
 hideSummary: true
@@ -24,25 +25,25 @@ styles: ["Psychedelic Rock", "Indie Pop"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Sunset Dreams (4:27)
-2. Solarised (Extended Mix) (8:16)
-3. The Lexical Distance (4:31)
-4. The Revolution Of Super Visions (See Thru Hands Remix) (3:27)
-5. Solarised (W. H. Lung Remix) (7:34)
-6. Don't Tell Me I'm Wrong (3:35)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sunset Dreams | 4:27 |
+| A2 | Solarised (Extended Mix) | 8:16 |
+| A3 | The Lexical Distance | 4:31 |
+| B1 | The Revolution Of Super Visions (See Thru Hands Remix) | 3:27 |
+| B2 | Solarised (W. H. Lung Remix) | 7:34 |
+| B3 | Don't Tell Me I'm Wrong | 3:35 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/sunset-dreams/1668233212" >}}<br>
 
 
-## Videos
-### Jane Weaver - Sunset Dreams
-{{< youtube id="vMYrmeRp7LE" title="Jane Weaver - Sunset Dreams" >}}<br>
-### More Videos
-
-- [Jane Weaver - Sunset Dreams](https://www.youtube.com/watch?v=vMYrmeRp7LE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -53,5 +54,5 @@ styles: ["Psychedelic Rock", "Indie Pop"]
 | Format         | Vinyl 12" EP (White) |
 | Label          | Fire Records |
 | Catalog Number | FIRE643W |
-| Notes | Limited to 450 copies Includes download code |
+| Notes | Limited to 450 copies<br>Includes download code |
 | Discogs URL    | [Jane Weaver - Sunset Dreams](https://www.discogs.com/release/21262522-Jane-Weaver-Sunset-Dreams) |

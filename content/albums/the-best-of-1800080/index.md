@@ -28,22 +28,21 @@ Judas Priest had been steadily gaining ground as one of the leading practitioner
 
 
 ## Tracklisting
-1. Dying To Meet You (6:15)
-2. Never Satisfied (4:50)
-3. Rocka Rolla (3:05)
-4. Diamonds And Rust (3:15)
-5. Victim Of Changes (7:45)
-6. Island Of Domination (4:26)
-7. The Ripper (2:50)
-8. Deceiver (2:43)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dying To Meet You | 6:15 |
+| A2 | Never Satisfied | 4:50 |
+| A3 | Rocka Rolla | 3:05 |
+| A4 | Diamonds And Rust | 3:15 |
+| B1 | Victim Of Changes | 7:45 |
+| B2 | Island Of Domination | 4:26 |
+| B3 | The Ripper | 2:50 |
+| B4 | Deceiver | 2:43 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/unleashed-in-the-east-live/207346224" >}}<br>
 
-
-## Videos
-### Judas Priest - The Ripper Video
-{{< youtube id="lriWlHZAy8A" title="Judas Priest - The Ripper Video" >}}<br>
 
 
 ## Release Images

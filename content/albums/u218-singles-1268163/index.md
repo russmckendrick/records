@@ -54,28 +54,30 @@ Narrowing down a career this vast and expansive is asking for trouble — or at 
 
 
 ## Tracklisting
-1. Beautiful Day (4:05)
-2. I Still Haven't Found What I'm Looking For (4:38)
-3. Pride (In The Name Of Love) (3:48)
-4. With Or Without You (4:56)
-5. Vertigo (3:10)
-6. New Year's Day (4:17)
-7. Mysterious Ways (4:02)
-8. Stuck In A Moment You Can't Get Out Of (4:31)
-9. Where The Streets Have No Name (4:46)
-10. Sweetest Thing (3:00)
-11. Sunday Bloody Sunday (4:40)
-12. One (4:35)
-13. Desire (2:59)
-14. Walk On (4:26)
-15. Elevation (3:47)
-16. Sometimes You Can't Make It On Your Own (5:05)
-17. The Saints Are Coming (3:21)
-18. Window In The Skies (4:08)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Beautiful Day | 4:05 |
+| A2 | I Still Haven't Found What I'm Looking For | 4:38 |
+| A3 | Pride (In The Name Of Love) | 3:48 |
+| A4 | With Or Without You | 4:56 |
+| B1 | Vertigo | 3:10 |
+| B2 | New Year's Day | 4:17 |
+| B3 | Mysterious Ways | 4:02 |
+| B4 | Stuck In A Moment You Can't Get Out Of | 4:31 |
+| C1 | Where The Streets Have No Name | 4:46 |
+| C2 | Sweetest Thing | 3:00 |
+| C3 | Sunday Bloody Sunday | 4:40 |
+| C4 | One | 4:35 |
+| C5 | Desire | 2:59 |
+| D1 | Walk On | 4:26 |
+| D2 | Elevation | 3:47 |
+| D3 | Sometimes You Can't Make It On Your Own | 5:05 |
+| D4 | The Saints Are Coming | 3:21 |
+| D5 | Window In The Skies | 4:08 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/u218-singles/1445667357" >}}<br>
-
 
 
 
@@ -89,5 +91,5 @@ Narrowing down a career this vast and expansive is asking for trouble — or at 
 | Format         | Vinyl 2× LP Compilation |
 | Label          | Island Records |
 | Catalog Number | U218 - 0602517135505 |
-| Notes | Comes with a 16-page album-size booklet, containing information about singles including lyrics, credits, recording data, release dates and chart positions.  Matte gatefold sleeve. Printed inner sleeves.  Audio Post Production at Partial Productions Inc. Mastered at Bernie Grundman Mastering, Hollywood.  Green Day appear courtesy of Reprise Records.  All titles published by Universal Music Publishing B.V. except Blue Mountain Music Ltd (UK), Mother Music (Irl.), except "The Saints Are Coming" published by EMI Virgin Music Ltd.  This compilation ℗ 2006 Universal Island Records Limited under exclusive licence to Mercury Records Limited in the UK. © 2006 Universal Island Records Limited under exclusive licence to  Mercury Records Limited in the UK. A Universal Music Company. Made in the EU.  |
+| Notes | Comes with a 16-page album-size booklet, containing information about singles including lyrics, credits, recording data, release dates and chart positions. <br>Matte gatefold sleeve.<br>Printed inner sleeves.<br><br>Audio Post Production at Partial Productions Inc.<br>Mastered at Bernie Grundman Mastering, Hollywood.<br><br>Green Day appear courtesy of Reprise Records.<br><br>All titles published by Universal Music Publishing B.V. except Blue Mountain Music Ltd (UK), Mother Music (Irl.), except "The Saints Are Coming" published by EMI Virgin Music Ltd.<br><br>This compilation ℗ 2006 Universal Island Records Limited under exclusive licence to Mercury Records Limited in the UK. © 2006 Universal Island Records Limited under exclusive licence to <br>Mercury Records Limited in the UK. A Universal Music Company. Made in the EU.<br> |
 | Discogs URL    | [U2 - U218 Singles](https://www.discogs.com/release/1268163-U2-U218-Singles) |

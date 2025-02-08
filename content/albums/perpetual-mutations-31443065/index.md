@@ -4,6 +4,7 @@ artist_name: "Gavin Harrison"
 artist: "gavin-harrison"
 album_name: "Perpetual Mutations"
 date: 2024-08-10T05:25:27.000000Z
+release_date: "2024-07-26"
 release_id: "31443065"
 slug: "perpetual-mutations-31443065"
 hideSummary: true
@@ -26,21 +27,26 @@ styles: ["Jazz-Rock", "Fusion", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Dark Wind (5:42)
-2. Deadpan Euphoria (4:59)
-3. Viral Information 101 (5:06)
-4. Objective Reality (4:59)
-5. Quiescent II (3:16)
-6. Spontaneous Plan (5:22)
-7. Pentalogic Structure (5:27)
-8. Solus Souls II (5:36)
-9. Safety Meeting (5:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Dark Wind | 5:42 |
+| A2 | Deadpan Euphoria | 4:59 |
+| A3 | Viral Information 101 | 5:06 |
+| A4 | Objective Reality | 4:59 |
+| A5 | Quiescent II | 3:16 |
+| B1 | Spontaneous Plan | 5:22 |
+| B2 | Pentalogic Structure | 5:27 |
+| B3 | Solus Souls II | 5:36 |
+| B4 | Safety Meeting | 5:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/perpetual-mutations/1765561069" >}}<br>
-
 
 
 
@@ -53,5 +59,5 @@ styles: ["Jazz-Rock", "Fusion", "Prog Rock"]
 | Format         | Vinyl LP Album Stereo |
 | Label          | Harmonic Heresy |
 | Catalog Number | HH20241B |
-| Notes | Black vinyl, gatefold cover.  Jean-Pierre Zanella recorded at Migrason (Montreal, Canada). |
+| Notes | Black vinyl, gatefold cover.<br><br>Jean-Pierre Zanella recorded at Migrason (Montreal, Canada). |
 | Discogs URL    | [Gavin Harrison - Perpetual Mutations](https://www.discogs.com/release/31443065-Gavin-Harrison-Antoine-Fafard-Perpetual-Mutations) |

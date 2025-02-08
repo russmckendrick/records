@@ -4,6 +4,7 @@ artist_name: "Steven Wilson"
 artist: "steven-wilson"
 album_name: "The Raven That Refused To Sing (And Other Stories)"
 date: 2024-03-28T00:12:03.000000Z
+release_date: "2013-02-25"
 release_id: "30227600"
 slug: "the-raven-that-refused-to-sing-and-other-stories-30227600"
 hideSummary: true
@@ -25,38 +26,26 @@ The Raven That Refused to Sing (And Other Stories) is the third solo album by Br
 A deluxe, 4-disc edition of the album was released as well, which included a 128-page book of lyrics and ghost stories, with illustrations by Hajo Mueller. In addition to this, the album is also available in stand alone double-vinyl, CD and Blu-ray editions. The album was generally well received critically, and has sold over 100,000 copies.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Luminol (12:10)
-2. Drive Home (7:33)
-3. Holy Drinker (10:14)
-4. The Pin Drop  (5:01)
-5.  The Watchmaker (11:42)
-6. The Raven Who Refused To Sing (7:57)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Luminol | 12:10 |
+| B1 | Drive Home | 7:33 |
+| B2 | Holy Drinker | 10:14 |
+| C1 | The Pin Drop  | 5:01 |
+| C2 |  The Watchmaker | 11:42 |
+| D1 | The Raven Who Refused To Sing | 7:57 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-raven-that-refused-to-sing-and-other-stories/684102613" >}}<br>
 
 
-## Videos
-### Steven Wilson - Luminol Demo
-{{< youtube id="_aGzrVi87n8" title="Steven Wilson - Luminol Demo" >}}<br>
-### More Videos
-
-- [Steven Wilson - Drive Home Demo](https://www.youtube.com/watch?v=KttfwhzdhMk)
-- [Steven Wilson - The Holy Drinker Demo](https://www.youtube.com/watch?v=hiBhUfkqIds)
-- [Steven Wilson - Clock Song](https://www.youtube.com/watch?v=7ejwukoKWUQ)
-- [Steven Wilson - Pin Drop Demo](https://www.youtube.com/watch?v=TXNsBg9YyNg)
-- [Steven Wilson - The Watchmaker Demo](https://www.youtube.com/watch?v=j1IDWwKHqFA)
-- [Steven Wilson - The Raven That Refused To Sing Demo](https://www.youtube.com/watch?v=AXIY8tLqmy0)
-- [Steven Wilson - The Raven That Refused To Sing](https://www.youtube.com/watch?v=VxLrGJfRPJU)
-- [Steven Wilson - The Raven That Refused To Sing Full Album](https://www.youtube.com/watch?v=njhyXl88k14)
-- [Steven Wilson - The Raven that Refused to Sing](https://www.youtube.com/watch?v=u4XevlloPY4)
-- [Steven Wilson - Drive Home](https://www.youtube.com/watch?v=ycYewhiaVBk)
-- [Steven Wilson - Luminol](https://www.youtube.com/watch?v=_w8SY_9yO8k)
 
 ## Release Images
 {{< imageGrid >}}
@@ -68,5 +57,5 @@ A deluxe, 4-disc edition of the album was released as well, which included a 128
 | Format         | Vinyl 2× LP Album Limited Edition (glow in the dark) |
 | Label          | Transmission Recordings |
 | Catalog Number | TRANSM363LPL |
-| Notes | 10th Anniversary 2LP glow in the dark vinyl edition. Gatefold sleeve. Includes an 8-page booklet. |
+| Notes | 10th Anniversary 2LP glow in the dark vinyl edition.<br>Gatefold sleeve.<br>Includes an 8-page booklet. |
 | Discogs URL    | [Steven Wilson - The Raven That Refused To Sing (And Other Stories)](https://www.discogs.com/release/30227600-Steven-Wilson-The-Raven-That-Refused-To-Sing-And-Other-Stories) |

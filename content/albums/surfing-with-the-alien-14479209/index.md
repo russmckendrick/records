@@ -4,6 +4,7 @@ artist_name: "Joe Satriani"
 artist: "joe-satriani"
 album_name: "Surfing With The Alien"
 date: 2019-12-05T18:06:10.000000Z
+release_date: "1987-10-15"
 release_id: "14479209"
 slug: "surfing-with-the-alien-14479209"
 hideSummary: true
@@ -38,57 +39,40 @@ styles: []
 Surfing with the Alien is the second studio album by American rock guitarist Joe Satriani. It was released on October 15, 1987, by Relativity Records. The album is one of Satriani's most successful to date and helped establish his reputation as a respected rock guitarist.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Surfing With The Alien (4:26)
-2. Ice 9 (4:00)
-3. Crushing Day (5:15)
-4. Always With Me, Always With You (3:22)
-5. Satch Boogie (3:14)
-6. Hill Of The Skull (1:48)
-7. Circles (3:29)
-8. Lord's Of Karma (4:48)
-9. Midnight (1:42)
-10. Echo (5:40)
-11. Surfing With The Alien (Stripped) (4:26)
-12. Ice 9 (Stripped) (4:00)
-13. Crushing Day (Stripped) (5:17)
-14. Always With Me, Always With You (Stripped) (3:26)
-15. Satch Boogie (Stripped) (3:19)
-16. Hill Of The Skull (Stripped) (1:52)
-17. Circles (Stripped) (3:30)
-18. Lords Of Karma (Stripped) (5:04)
-19. Midnight (Stripped) (0:55)
-20. Echo (Stripped) (5:41)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Surfing With The Alien | 4:26 |
+| A2 | Ice 9 | 4:00 |
+| A3 | Crushing Day | 5:15 |
+| A4 | Always With Me, Always With You | 3:22 |
+| A5 | Satch Boogie | 3:14 |
+| B1 | Hill Of The Skull | 1:48 |
+| B2 | Circles | 3:29 |
+| B3 | Lord's Of Karma | 4:48 |
+| B4 | Midnight | 1:42 |
+| B5 | Echo | 5:40 |
+| C1 | Surfing With The Alien (Stripped) | 4:26 |
+| C2 | Ice 9 (Stripped) | 4:00 |
+| C3 | Crushing Day (Stripped) | 5:17 |
+| C4 | Always With Me, Always With You (Stripped) | 3:26 |
+| C5 | Satch Boogie (Stripped) | 3:19 |
+| D1 | Hill Of The Skull (Stripped) | 1:52 |
+| D2 | Circles (Stripped) | 3:30 |
+| D3 | Lords Of Karma (Stripped) | 5:04 |
+| D4 | Midnight (Stripped) | 0:55 |
+| D5 | Echo (Stripped) | 5:41 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/surfing-with-the-alien/405602019" >}}<br>
 
 
-## Videos
-### Joe Satriani Surfing with the alien
-{{< youtube id="uoERl34Ld00" title="Joe Satriani Surfing with the alien" >}}<br>
-### More Videos
-
-- [Joe Satriani - Ice 9](https://www.youtube.com/watch?v=eyVWQH7jIg8)
-- [Joe Satriani - Crushing Day](https://www.youtube.com/watch?v=eFRhmKuD9x8)
-- [Joe Satriani - Always with Me Always with you](https://www.youtube.com/watch?v=vxeYDEOXsqU)
-- [Joe Satriani-Satch Boogie](https://www.youtube.com/watch?v=lCGCG_N2b30)
-- [Joe Satriani - Hill of the Skull](https://www.youtube.com/watch?v=tl4OB2zjzD4)
-- [Joe Satriani - Circles](https://www.youtube.com/watch?v=gOnUAWIZPIg)
-- [Joe Satriani - Lords of Karma](https://www.youtube.com/watch?v=hrwk0COfggo)
-- [Joe Satriani - Midnight](https://www.youtube.com/watch?v=GpXr31S56CU)
-- [Joe Satriani - Echo](https://www.youtube.com/watch?v=cMj8n5NKSeM)
-- [Joe Satriani  Surfing With The Alien](https://www.youtube.com/watch?v=JeUPSYrVP1w)
-- [Joe Satriani  Crushing Day](https://www.youtube.com/watch?v=W3jtDOz3lOU)
-- [Joe Satriani  Ice 9](https://www.youtube.com/watch?v=Ib2IvxY1e0g)
-- [Joe Satriani  Echo](https://www.youtube.com/watch?v=D18DzqToeK8)
-- [Joe Satriani  Circles](https://www.youtube.com/watch?v=KYqSTmOhhlI)
-- [Joe Satriani  Always With Me Always With You](https://www.youtube.com/watch?v=L1pQMsR4MGU)
-- [Joe Satriani  Satch Boogie](https://www.youtube.com/watch?v=FpQ_wzfJZsU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -100,5 +84,5 @@ Surfing with the Alien is the second studio album by American rock guitarist Joe
 | Format         | Vinyl LP Album (Red), Vinyl LP Album Mixed (Yellow), All Media Limited Edition Reissue Special Edition (Gatefold) |
 | Label          | Epic |
 | Catalog Number | 19075978611 |
-| Notes | Record Store Day Black Friday 2019 -exclusive limited edition release Surfing With The Alien on vinyl. Features a red variant of "Surfing With The Alien" and a yellow variant of "Surfing With The Alien (Stripped)"; a special edition mix of the album that features just the backing tracks of the music. Limited to 3,500 presses.   Includes digital download card.   Made in the EU. |
+| Notes | Record Store Day Black Friday 2019 -exclusive limited edition release Surfing With The Alien on vinyl. Features a red variant of "Surfing With The Alien" and a yellow variant of "Surfing With The Alien (Stripped)"; a special edition mix of the album that features just the backing tracks of the music. Limited to 3,500 presses. <br><br>Includes digital download card. <br><br>Made in the EU. |
 | Discogs URL    | [Joe Satriani - Surfing With The Alien](https://www.discogs.com/release/14479209-Joe-Satriani-Surfing-With-The-Alien) |

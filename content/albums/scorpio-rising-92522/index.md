@@ -4,6 +4,7 @@ artist_name: "Death In Vegas"
 artist: "death-in-vegas"
 album_name: "Scorpio Rising"
 date: 2016-01-27T18:48:49.000000Z
+release_date: "2003-06-17"
 release_id: "92522"
 slug: "scorpio-rising-92522"
 hideSummary: true
@@ -38,45 +39,30 @@ Several songs on the album have appeared in television advertisements and on fil
 "Help Yourself" was used in a commercial by the former Czech mobile phone operator Eurotel (now Telefónica O2 Czech Republic); in Johan Kramer's 2003 film The Other Final; in the 2003 Girl Skateboards video Yeah Right!; and in the 2005 film 12 and Holding.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Leather
-2. Girls
-3. Hands Around My Throat
-4. 23 Lies
-5. Scorpio Rising
-6. Killing Smile
-7. Natja
-8. So You Say You Lost Your Baby
-9. Diving Horses
-10. Help Yourself
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Leather |  |
+| A2 | Girls |  |
+| A3 | Hands Around My Throat |  |
+| B1 | 23 Lies |  |
+| B2 | Scorpio Rising |  |
+| B3 | Killing Smile |  |
+| C1 | Natja |  |
+| C2 | So You Say You Lost Your Baby |  |
+| C3 | Diving Horses |  |
+| D | Help Yourself |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/scorpio-rising/1187871169" >}}<br>
 
 
-## Videos
-### Death In Vegas Girls
-{{< youtube id="v4-GIq4bEOE" title="Death In Vegas Girls" >}}<br>
-### More Videos
-
-- [Death in Vegas - Hands Around My Throat](https://www.youtube.com/watch?v=r-S2aqnfzDs)
-- [Death in vegas-Scorpio Rising](https://www.youtube.com/watch?v=0T1uUmL8rog)
-- [Death In Vegas - Natja](https://www.youtube.com/watch?v=HMZMdCGP8GA)
-- [Death In Vegas feat Hope Sandoval - Help Yourself lyrics](https://www.youtube.com/watch?v=H2ihddzxTFA)
-- [Leather](https://www.youtube.com/watch?v=YRhp8ygTPZM)
-- [Death In Vegas Girls](https://www.youtube.com/watch?v=v4-GIq4bEOE)
-- [Death in Vegas - Hands Around My Throat](https://www.youtube.com/watch?v=r-S2aqnfzDs)
-- [Death in vegas-Scorpio Rising](https://www.youtube.com/watch?v=0T1uUmL8rog)
-- [Death In Vegas - Natja](https://www.youtube.com/watch?v=HMZMdCGP8GA)
-- [Death In Vegas feat Hope Sandoval - Help Yourself lyrics](https://www.youtube.com/watch?v=H2ihddzxTFA)
-- [Death In Vegas - Scorpio Raising ft Liam Gallagher](https://www.youtube.com/watch?v=5XVTHL6wpZQ)
-- [Death in Vegas - Killing Smile](https://www.youtube.com/watch?v=K_GfO61f3yM)
-- [Death In Vegas - Diving Horses](https://www.youtube.com/watch?v=7ZtjzD7I3Hc)
-- [Death in Vegas - 23 Lies Hope Sandoval](https://www.youtube.com/watch?v=ONxlnW0T3X8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -88,5 +74,5 @@ Several songs on the album have appeared in television advertisements and on fil
 | Format         | Vinyl 2× LP Album |
 | Label          | Concrete |
 | Catalog Number | HARD5312 |
-| Notes | Gatefold picture sleeve.  Labels on sides B and D mention that they play at 45RPM, but they are actually 33 RPM.  ℗&© 2002 BMG UK & Ireland Ltd.  All label copy and sleeve notes © 2002 BMG UK & Ireland Ltd.   Made in the EU. |
+| Notes | Gatefold picture sleeve.<br><br>Labels on sides B and D mention that they play at 45RPM, but they are actually 33 RPM.<br><br>℗&© 2002 BMG UK & Ireland Ltd. <br>All label copy and sleeve notes © 2002 BMG UK & Ireland Ltd. <br><br>Made in the EU. |
 | Discogs URL    | [Death In Vegas - Scorpio Rising](https://www.discogs.com/release/92522-Death-In-Vegas-Scorpio-Rising) |

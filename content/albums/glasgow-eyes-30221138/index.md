@@ -34,39 +34,26 @@ Except for when they are—like on the positively rollicking “The Eagles and t
 
 
 ## Tracklisting
-1. Venal Joy
-2. American Born
-3. Mediterranean X Film
-4. Jamcod
-5. Discotheque
-6. Pure Poor
-7. The Eagles And The Beatles
-8. Silver Strings
-9. Chemical Animal
-10. Second Of June
-11. Girl 71
-12. Hey Lou Reid
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Venal Joy |  |
+| A2 | American Born |  |
+| A3 | Mediterranean X Film |  |
+| A4 | Jamcod |  |
+| A5 | Discotheque |  |
+| A6 | Pure Poor |  |
+| B1 | The Eagles And The Beatles |  |
+| B2 | Silver Strings |  |
+| B3 | Chemical Animal |  |
+| B4 | Second Of June |  |
+| B5 | Girl 71 |  |
+| B6 | Hey Lou Reid |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/glasgow-eyes/1718603729" >}}<br>
 
 
-## Videos
-### The Jesus And Mary Chain - Venal Joy
-{{< youtube id="HHmGYTHSOwc" title="The Jesus And Mary Chain - Venal Joy" >}}<br>
-### More Videos
-
-- [The Jesus And Mary Chain - American Born](https://www.youtube.com/watch?v=yII-JiBQ8LU)
-- [The Jesus And Mary Chain - Mediterranean X File](https://www.youtube.com/watch?v=OGS6lRS-jV8)
-- [The Jesus And Mary Chain - jamcod Official Video](https://www.youtube.com/watch?v=x3_NOCiRbII)
-- [The Jesus And Mary Chain - Discoteque](https://www.youtube.com/watch?v=MTD7iLB2kvQ)
-- [The Jesus And Mary Chain - Pure Poor](https://www.youtube.com/watch?v=tfEAggM6eGw)
-- [The Jesus And Mary Chain - The Eagles and The Beatles](https://www.youtube.com/watch?v=_SlZcjljx1s)
-- [The Jesus And Mary Chain - Silver Strings](https://www.youtube.com/watch?v=XP3SKOMfMYU)
-- [The Jesus and Mary Chain - Chemical Animal Official Video](https://www.youtube.com/watch?v=XH8UbfGB2uA)
-- [The Jesus And Mary Chain - Second of June](https://www.youtube.com/watch?v=HuhT8E1JAq8)
-- [The Jesus And Mary Chain - Girl71 Official Video](https://www.youtube.com/watch?v=fD0HwKM-Wwo)
-- [The Jesus And Mary Chain - Hey Lou Reid](https://www.youtube.com/watch?v=eVZSltKGDjQ)
 
 ## Release Images
 {{< imageGrid >}}

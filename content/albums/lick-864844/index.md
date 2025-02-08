@@ -4,6 +4,7 @@ artist_name: "The Lemonheads"
 artist: "the-lemonheads"
 album_name: "Lick"
 date: 2020-08-02T13:47:51.000000Z
+release_date: "1988"
 release_id: "864844"
 slug: "lick-864844"
 hideSummary: true
@@ -23,46 +24,31 @@ styles: ["Punk", "Indie Rock"]
 Lick is the third album by The Lemonheads and the last to feature founding member Ben Deily. It was released in 1989 and was the group's last album before signing to major label Atlantic. A typo on the album itself erroneously states its release date as 1988. As with their first two albums, it was re-released as a CD in 1992, with two bonus tracks.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Mallo Cup
-2. Glad I Don't Know
-3. 7 Powers
-4. A Circle Of One
-5. Cazzo Di Ferro
-6. Anyway
-7. Luka
-8. Come Back D.A.
-9. I Am A Rabbit
-10. Sad Girl
-11. Ever
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mallo Cup |  |
+| A2 | Glad I Don't Know |  |
+| A3 | 7 Powers |  |
+| A4 | A Circle Of One |  |
+| A5 | Cazzo Di Ferro |  |
+| B1 | Anyway |  |
+| B2 | Luka |  |
+| B3 | Come Back D.A. |  |
+| B4 | I Am A Rabbit |  |
+| B5 | Sad Girl |  |
+| B6 | Ever |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/lick/595928526" >}}<br>
 
 
-## Videos
-### The Lemonheads - Anyway
-{{< youtube id="U8qakIRi6RE" title="The Lemonheads - Anyway" >}}<br>
-### More Videos
-
-- [Cazzo di Ferro- The Lemonheads](https://www.youtube.com/watch?v=M0WQ4GmLsO0)
-- [I Am a Rabbit- The Lemonheads](https://www.youtube.com/watch?v=t6rQgNS01x4)
-- [The Lemonheads   Lick Full Album](https://www.youtube.com/watch?v=Oyr-I8wU9kA)
-- [Mallo Cup](https://www.youtube.com/watch?v=TceevdVajLI)
-- [A Circle Of One](https://www.youtube.com/watch?v=auZhrtLScbQ)
-- [Luka](https://www.youtube.com/watch?v=s34hD5fu04w)
-- [Ever](https://www.youtube.com/watch?v=2wgam5X4FTM)
-- [Cazzo di Ferro- The Lemonheads](https://www.youtube.com/watch?v=M0WQ4GmLsO0)
-- [Sad Girl](https://www.youtube.com/watch?v=bn1uvX4L7CU)
-- [The Lemonheads - Anyway](https://www.youtube.com/watch?v=U8qakIRi6RE)
-- [Anyway](https://www.youtube.com/watch?v=0UWHmnXXoXA)
-- [I Am A Rabbit](https://www.youtube.com/watch?v=fKtC2aP7-Cc)
-- [7 Powers](https://www.youtube.com/watch?v=XkltxOJ6Cz8)
-- [Glad I Dont Know](https://www.youtube.com/watch?v=ux4Uo9uCrPU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -74,5 +60,5 @@ Lick is the third album by The Lemonheads and the last to feature founding membe
 | Format         | Vinyl LP Album |
 | Label          | World Service |
 | Catalog Number | SERV 007 |
-| Notes | © 1988 Ray Burr Music, Inc. Issued under license ℗ 1989 World Service.  Sad Girl (1/87) Ever (8/86)   Made in England   Distribution: UK - Rough Trade/Cartel                   BENELUX - Rough Trade B.V.                    W. Germany - Rough Trade G.M.B.H.  |
+| Notes | © 1988 Ray Burr Music, Inc.<br>Issued under license ℗ 1989 World Service.<br><br>Sad Girl (1/87)<br>Ever (8/86) <br><br>Made in England <br><br>Distribution: UK - Rough Trade/Cartel<br>                  BENELUX - Rough Trade B.V. <br>                  W. Germany - Rough Trade G.M.B.H.  |
 | Discogs URL    | [The Lemonheads - Lick](https://www.discogs.com/release/864844-Lemonheads-Lick) |

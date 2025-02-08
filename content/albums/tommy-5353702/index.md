@@ -41,141 +41,137 @@ So much of <i>Tommy</i>’s staying power derives from The Who’s ability to wa
 
 
 ## Tracklisting
-1. The Original Album 2013 Remaster
-2. Overture (5:20)
-3. It's A Boy (0:38)
-4. 1921 (2:49)
-5. Amazing Journey (5:04)
-6. Sparks (2:05)
-7. The Hawker (2:13)
-8. Christmas (4:34)
-9. Cousin Kevin (4:05)
-10. The Acid Queen (3:34)
-11. Underture (10:01)
-12. Do You Think It's Alright? (0:24)
-13. Fiddle About (1:29)
-14. Pinball Wizard (3:01)
-15. There's A Doctor (0:23)
-16. Go To The Mirror! (3:47)
-17. Tommy Can You Hear Me? (1:35)
-18. Smash The Mirror (1:34)
-19. Sensation (2:25)
-20. Miracle Cure (0:12)
-21. Sally Simpson (4:10)
-22. I'm Free (2:39)
-23. Welcome (4:32)
-24. Tommy's Holiday Camp (0:57)
-25. We're Not Gonna Take It (7:06)
-26. Hi-Fidelity Pure Audio Blu-Ray - The  5.1 Mix 
-27. Overture (5:20)
-28. It's A Boy (0:37)
-29. 1921 (2:49)
-30. Amazing Journey (5:05)
-31. Sparks (2:05)
-32. The Hawker (2:14)
-33. Christmas (4:34)
-34. Cousin Kevin (4:07)
-35. The Acid Queen (3:34)
-36. Underture (10:05)
-37. Do You Think It's Alright? (0:25)
-38. Fiddle About (1:31)
-39. Pinball Wizard (3:01)
-40. There's A Doctor (0:24)
-41. Go To The Mirror! (3:48)
-42. Tommy Can You Hear Me? (1:35)
-43. Smash The Mirror (1:33)
-44. Sensation (2:27)
-45. Miracle Cure (0:12)
-46. Sally Simpson (4:11)
-47. I'm Free (2:39)
-48. Welcome (4:32)
-49. Tommy's Holiday Camp (0:57)
-50. We're Not Gonna Take It (7:06)
-51. Hi-Fidelity Pure Audio Blu-Ray - 2ch Stereo
-52. Overture (5:20)
-53. It's A Boy  (0:37)
-54. 1921 (2:49)
-55. Amazing Journey (5:05)
-56. Sparks (2:05)
-57. The Hawker (2:14)
-58. Christmas (4:34)
-59. Cousin Kevin  (4:07)
-60. The Acid Queen  (3:34)
-61. Underture (10:05)
-62. Do You Think It's Alright?  (0:25)
-63. Fiddle About (1:31)
-64. Pinball Wizard (3:01)
-65. There's A Doctor  (0:24)
-66. Go To The Mirror!  (3:48)
-67. Tommy Can You Hear Me?  (1:35)
-68. Smash The Mirror  (1:33)
-69. Sensation (2:27)
-70. Miracle Cure (0:12)
-71. Sally Simpson (4:11)
-72. I'm Free (2:39)
-73. Welcome (4:32)
-74. Tommy's Holiday Camp (0:57)
-75. We're Not Gonna Take It  (7:06)
-76. The Demos And Out-takes
-77. Overture (4:07)
-78. It's A Boy  (0:41)
-79. 1921 (3:13)
-80. Amazing Journey (4:47)
-81. Dream One (3:09)
-82. Sparks (7:38)
-83. The Hawker (4:45)
-84. Christmas (4:42)
-85. Acid Queen (3:35)
-86. Underture (Dream Two) (1:47)
-87. Do You Think It's Alright? (0:26)
-88. Pinball Wizard (3:42)
-89. There's A Doctor (0:24)
-90. Go To The Mirror! (4:32)
-91. Success (0:10)
-92. Tommy Can You Hear Me? (1:15)
-93. Smash The Mirror (1:37)
-94. Sensation (2:47)
-95. Miracle Cure (0:11)
-96. Sally Simpson (4:50)
-97. I'm Free (2:27)
-98. Welcome (3:26)
-99. We're Not Gonna Take It (5:02)
-100. Trying To Get Through (2:27)
-101. Young Man Blues (2:47)
-102. The Live Bootleg Album
-103. Overture (7:00)
-104. It's A Boy (0:39)
-105. 1921 (2:28)
-106. Amazing Journey (5:07)
-107. Sparks (2:49)
-108. The Hawker (1:54)
-109. Christmas (3:11)
-110. The Acid Queen (3:30)
-111. Pinball Wizard (2:47)
-112. Do You Think It's Alright? (0:21)
-113. Fiddle About (1:12)
-114. Tommy Can You Hear Me? (0:55)
-115. There's A Doctor (0:24)
-116. Go To The Mirror! (3:22)
-117. Smash The Mirror (1:10)
-118. Miracle Cure (0:12)
-119. Sally Simpson (4:01)
-120. I'm Free (2:12)
-121. Tommy's Holiday Camp (0:48)
-122. We're Not Gonna Take It (3:38)
-123. See Me, Feel Me/Listening To You (7:51)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Original Album 2013 Remaster |  |
+| CD1-1 | Overture | 5:20 |
+| CD1-2 | It's A Boy | 0:38 |
+| CD1-3 | 1921 | 2:49 |
+| CD1-4 | Amazing Journey | 5:04 |
+| CD1-5 | Sparks | 2:05 |
+| CD1-6 | The Hawker | 2:13 |
+| CD1-7 | Christmas | 4:34 |
+| CD1-8 | Cousin Kevin | 4:05 |
+| CD1-9 | The Acid Queen | 3:34 |
+| CD1-10 | Underture | 10:01 |
+| CD1-11 | Do You Think It's Alright? | 0:24 |
+| CD1-12 | Fiddle About | 1:29 |
+| CD1-13 | Pinball Wizard | 3:01 |
+| CD1-14 | There's A Doctor | 0:23 |
+| CD1-15 | Go To The Mirror! | 3:47 |
+| CD1-16 | Tommy Can You Hear Me? | 1:35 |
+| CD1-17 | Smash The Mirror | 1:34 |
+| CD1-18 | Sensation | 2:25 |
+| CD1-19 | Miracle Cure | 0:12 |
+| CD1-20 | Sally Simpson | 4:10 |
+| CD1-21 | I'm Free | 2:39 |
+| CD1-22 | Welcome | 4:32 |
+| CD1-23 | Tommy's Holiday Camp | 0:57 |
+| CD1-24 | We're Not Gonna Take It | 7:06 |
+|  | Hi-Fidelity Pure Audio Blu-Ray - The  5.1 Mix  |  |
+| BD-1-1 | Overture | 5:20 |
+| BD-1-2 | It's A Boy | 0:37 |
+| BD-1-3 | 1921 | 2:49 |
+| BD-1-4 | Amazing Journey | 5:05 |
+| BD-1-5 | Sparks | 2:05 |
+| BD-1-6 | The Hawker | 2:14 |
+| BD-1-7 | Christmas | 4:34 |
+| BD-1-8 | Cousin Kevin | 4:07 |
+| BD-1-9 | The Acid Queen | 3:34 |
+| BD-1-10 | Underture | 10:05 |
+| BD-1-11 | Do You Think It's Alright? | 0:25 |
+| BD-1-12 | Fiddle About | 1:31 |
+| BD-1-13 | Pinball Wizard | 3:01 |
+| BD-1-14 | There's A Doctor | 0:24 |
+| BD-1-15 | Go To The Mirror! | 3:48 |
+| BD-1-16 | Tommy Can You Hear Me? | 1:35 |
+| BD-1-17 | Smash The Mirror | 1:33 |
+| BD-1-18 | Sensation | 2:27 |
+| BD-1-19 | Miracle Cure | 0:12 |
+| BD-1-20 | Sally Simpson | 4:11 |
+| BD-1-21 | I'm Free | 2:39 |
+| BD-1-22 | Welcome | 4:32 |
+| BD-1-23 | Tommy's Holiday Camp | 0:57 |
+| BD-1-24 | We're Not Gonna Take It | 7:06 |
+|  | Hi-Fidelity Pure Audio Blu-Ray - 2ch Stereo |  |
+| BD-2-1 | Overture | 5:20 |
+| BD-2-2 | It's A Boy  | 0:37 |
+| BD-2-3 | 1921 | 2:49 |
+| BD-2-4 | Amazing Journey | 5:05 |
+| BD-2-5 | Sparks | 2:05 |
+| BD-2-6 | The Hawker | 2:14 |
+| BD-2-7 | Christmas | 4:34 |
+| BD-2-8 | Cousin Kevin  | 4:07 |
+| BD-2-9 | The Acid Queen  | 3:34 |
+| BD-2-10 | Underture | 10:05 |
+| BD-2-11 | Do You Think It's Alright?  | 0:25 |
+| BD-2-12 | Fiddle About | 1:31 |
+| BD-2-13 | Pinball Wizard | 3:01 |
+| BD-2-14 | There's A Doctor  | 0:24 |
+| BD-2-15 | Go To The Mirror!  | 3:48 |
+| BD-2-16 | Tommy Can You Hear Me?  | 1:35 |
+| BD-2-17 | Smash The Mirror  | 1:33 |
+| BD-2-18 | Sensation | 2:27 |
+| BD-2-19 | Miracle Cure | 0:12 |
+| BD-2-20 | Sally Simpson | 4:11 |
+| BD-2-21 | I'm Free | 2:39 |
+| BD-2-22 | Welcome | 4:32 |
+| BD-2-23 | Tommy's Holiday Camp | 0:57 |
+| BD-2-24 | We're Not Gonna Take It  | 7:06 |
+|  | The Demos And Out-takes |  |
+| CD2-1 | Overture | 4:07 |
+| CD2-2 | It's A Boy  | 0:41 |
+| CD2-3 | 1921 | 3:13 |
+| CD2-4 | Amazing Journey | 4:47 |
+| CD2-5 | Dream One | 3:09 |
+| CD2-6 | Sparks | 7:38 |
+| CD2-7 | The Hawker | 4:45 |
+| CD2-8 | Christmas | 4:42 |
+| CD2-9 | Acid Queen | 3:35 |
+| CD2-10 | Underture (Dream Two) | 1:47 |
+| CD2-11 | Do You Think It's Alright? | 0:26 |
+| CD2-12 | Pinball Wizard | 3:42 |
+| CD2-13 | There's A Doctor | 0:24 |
+| CD2-14 | Go To The Mirror! | 4:32 |
+| CD2-15 | Success | 0:10 |
+| CD2-16 | Tommy Can You Hear Me? | 1:15 |
+| CD2-17 | Smash The Mirror | 1:37 |
+| CD2-18 | Sensation | 2:47 |
+| CD2-19 | Miracle Cure | 0:11 |
+| CD2-20 | Sally Simpson | 4:50 |
+| CD2-21 | I'm Free | 2:27 |
+| CD2-22 | Welcome | 3:26 |
+| CD2-23 | We're Not Gonna Take It | 5:02 |
+| CD2-24 | Trying To Get Through | 2:27 |
+| CD2-25 | Young Man Blues | 2:47 |
+|  | The Live Bootleg Album |  |
+| CD3-1 | Overture | 7:00 |
+| CD3-2 | It's A Boy | 0:39 |
+| CD3-3 | 1921 | 2:28 |
+| CD3-4 | Amazing Journey | 5:07 |
+| CD3-5 | Sparks | 2:49 |
+| CD3-6 | The Hawker | 1:54 |
+| CD3-7 | Christmas | 3:11 |
+| CD3-8 | The Acid Queen | 3:30 |
+| CD3-9 | Pinball Wizard | 2:47 |
+| CD3-10 | Do You Think It's Alright? | 0:21 |
+| CD3-11 | Fiddle About | 1:12 |
+| CD3-12 | Tommy Can You Hear Me? | 0:55 |
+| CD3-13 | There's A Doctor | 0:24 |
+| CD3-14 | Go To The Mirror! | 3:22 |
+| CD3-15 | Smash The Mirror | 1:10 |
+| CD3-16 | Miracle Cure | 0:12 |
+| CD3-17 | Sally Simpson | 4:01 |
+| CD3-18 | I'm Free | 2:12 |
+| CD3-19 | Tommy's Holiday Camp | 0:48 |
+| CD3-20 | We're Not Gonna Take It | 3:38 |
+| CD3-21 | See Me, Feel Me/Listening To You | 7:51 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/tommy/1461210985" >}}<br>
 
 
-## Videos
-### Underture
-{{< youtube id="O1D9oPeGIgQ" title="Underture" >}}<br>
-### More Videos
-
-- [1921](https://www.youtube.com/watch?v=KfUpjZAEH9Y)
-- [The Who - Tommy -  1969 - Full Album - 51 surround STEREO in](https://www.youtube.com/watch?v=yK-sRSfiXLY)
 
 ## Release Images
 {{< imageGrid >}}

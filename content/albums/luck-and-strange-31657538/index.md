@@ -4,6 +4,7 @@ artist_name: "David Gilmour"
 artist: "david-gilmour"
 album_name: "Luck And Strange"
 date: 2024-09-07T07:19:57.000000Z
+release_date: "2024-09-06"
 release_id: "31657538"
 slug: "luck-and-strange-31657538"
 hideSummary: true
@@ -47,40 +48,29 @@ Gilmour's wife, novelist Polly Samson, wrote most of the lyrics, which she said 
 Luck and Strange became Gilmour's third number-one album on the UK Albums Chart. "The Piper's Call," "Between Two Points," "Dark and Velvet Nights" and "Luck and Strange" were released as singles. Gilmour toured in support of the album in late 2024.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Black Cat
-2. Luck And Strange
-3. The Piper's Call
-4. A Single Spark
-5. Vita Brevis
-6. Between Two Points
-7. Dark And Velvet Nights
-8. Sings
-9. Scattered
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Black Cat |  |
+| A2 | Luck And Strange |  |
+| A3 | The Piper's Call |  |
+| A4 | A Single Spark |  |
+| A5 | Vita Brevis |  |
+| A6 | Between Two Points |  |
+| B1 | Dark And Velvet Nights |  |
+| B2 | Sings |  |
+| B3 | Scattered |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/luck-and-strange/1742106033" >}}<br>
 
 
-## Videos
-### Black Cat
-{{< youtube id="GFa3OUFCB1U" title="Black Cat" >}}<br>
-### More Videos
-
-- [David Gilmour - Luck and Strange Official Music Video](https://www.youtube.com/watch?v=It5QFxLjc2k)
-- [David Gilmour - The Pipers Call Official Music Video](https://www.youtube.com/watch?v=gMr5GpCpKyA)
-- [A Single Spark](https://www.youtube.com/watch?v=YVW_rAwUjIA)
-- [Vita Brevis](https://www.youtube.com/watch?v=xSl-KPU-ctc)
-- [David Gilmour - Between Two Points with Romany Gilmour](https://www.youtube.com/watch?v=A9qdvkx9E3o)
-- [David Gilmour - Dark and Velvet Nights Official Music Video](https://www.youtube.com/watch?v=mUHMNgKRHbQ)
-- [Sings](https://www.youtube.com/watch?v=8ctxpcgg5sQ)
-- [Scattered](https://www.youtube.com/watch?v=7Eh63P4rBa0)
-- [David Gilmour with Romany Gilmour - Yes I Have Ghosts Official Music Video 4K](https://www.youtube.com/watch?v=BwI1RmYaVB0)
-- [Luck and Strange original Barn Jam](https://www.youtube.com/watch?v=NPIxsj-LUCU)
 
 ## Release Images
 {{< imageGrid >}}
@@ -92,5 +82,5 @@ Luck and Strange became Gilmour's third number-one album on the UK Albums Chart.
 | Format         | Vinyl LP Album Stereo (Sea Blue Translucent ) |
 | Label          | Sony Music |
 | Catalog Number | 19802812421 |
-| Notes | Hype sticker: The new album from  DAVID GILMOUR Featuring The Piper's Call Between Two Points Dark and Velvet Nights Exclusive translucent sea blue vinyl 19802812412S1  Gatefold sleeve and 16 page black and white booklet.  Runout strings are stamped except for 'MILES ABBEY ROAD 1/2 SPEED ROOM 30' which are etched. |
+| Notes | Hype sticker:<br>The new album from <br>DAVID GILMOUR<br>Featuring<br>The Piper's Call<br>Between Two Points<br>Dark and Velvet Nights<br>Exclusive translucent sea blue vinyl<br>19802812412S1<br><br>Gatefold sleeve and 16 page black and white booklet.<br><br>Runout strings are stamped except for 'MILES ABBEY ROAD 1/2 SPEED ROOM 30' which are etched. |
 | Discogs URL    | [David Gilmour - Luck And Strange](https://www.discogs.com/release/31657538-David-Gilmour-Luck-And-Strange) |

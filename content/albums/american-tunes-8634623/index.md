@@ -34,39 +34,32 @@ Allen Toussaint was due to play with Paul Simon in a New Orleans benefit concert
 
 
 ## Tracklisting
-1. Delores' Boyfriend
-2. Viper's Drag
-3. Confessin' (That I Love You)
-4. Mardi Gras In New Orleans
-5. Lotus Blossom
-6. Waltz For Debby
-7. Big Chief
-8. Rocks In My Bed
-9. Danza, Op. 33
-10. Hey Little Girl
-11. Rosetta
-12. Come Sunday
-13. Southern Nights
-14. American Tune
-15. Bonus Tracks
-16. Her Mind Is Gone
-17. Moon River
-18. Bald Head
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Delores' Boyfriend |  |
+| A2 | Viper's Drag |  |
+| A3  | Confessin' (That I Love You) |  |
+| A4 | Mardi Gras In New Orleans |  |
+| A5 | Lotus Blossom |  |
+| B1 | Waltz For Debby |  |
+| B2  | Big Chief |  |
+| B3 | Rocks In My Bed |  |
+| B4 | Danza, Op. 33 |  |
+| B5 | Hey Little Girl |  |
+| C1 | Rosetta |  |
+| C2 | Come Sunday |  |
+| C3 | Southern Nights |  |
+| C4 | American Tune |  |
+|  | Bonus Tracks |  |
+| D1 | Her Mind Is Gone |  |
+| D2 | Moon River |  |
+| D3 | Bald Head |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/american-tunes/1100493803" >}}<br>
 
 
-## Videos
-### Allen Toussaint - Confessin That I Love You Official Audio
-{{< youtube id="kZ9W9X45B2s" title="Allen Toussaint - Confessin That I Love You Official Audio" >}}<br>
-### More Videos
-
-- [Allen Toussaint - Big Chief Official Audio](https://www.youtube.com/watch?v=NKhE8YNU4cQ)
-- [Confessin That I Love You](https://www.youtube.com/watch?v=VTvzPmI5hzo)
-- [Big Chief](https://www.youtube.com/watch?v=5xOgbMlESMs)
-- [Allen Toussaint - Big Chief Official Audio](https://www.youtube.com/watch?v=NKhE8YNU4cQ)
-- [Allen Toussaint - Confessin That I Love You Official Audio](https://www.youtube.com/watch?v=kZ9W9X45B2s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -78,5 +71,5 @@ Allen Toussaint was due to play with Paul Simon in a New Orleans benefit concert
 | Format         | Vinyl 2× LP Album |
 | Label          | Nonesuch |
 | Catalog Number | 554656-1 |
-| Notes | Gatefold sleeve includes printed insert with credits and notes.   ℗ & ©  2016 Nonesuch Records Inc. for the United States and WEA International Inc. for the world outside of the United States.  Runouts are etched up to ᶜB, everything after is stamped.  |
+| Notes | Gatefold sleeve includes printed insert with credits and notes. <br><br>℗ & ©  2016 Nonesuch Records Inc. for the United States and WEA International Inc. for the world outside of the United States.<br><br>Runouts are etched up to ᶜB, everything after is stamped.  |
 | Discogs URL    | [Allen Toussaint - American Tunes](https://www.discogs.com/release/8634623-Allen-Toussaint-American-Tunes) |

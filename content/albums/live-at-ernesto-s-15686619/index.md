@@ -4,6 +4,7 @@ artist_name: "The Slackers"
 artist: "the-slackers"
 album_name: "Live At Ernesto's!"
 date: 2020-08-14T16:53:28.000000Z
+release_date: "2000-05-09"
 release_id: "15686619"
 slug: "live-at-ernesto-s-15686619"
 hideSummary: true
@@ -27,36 +28,35 @@ styles: ["Ska"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Intro
-2. Sooner Or Later
-3. Married Girl
-4. Do You Know
-5. Sarah
-6. Mush One
-7. I Still Love You
-8. Soldier
-9. Keep Him Away
-10. Work Song
-11. Feed My Girl
-12. Face In My Crowd
-13. You Don't Know I
-14. Pedophilia
-15. Runaway
-16. The Fried Chicken Song/Mary Mary
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Intro |  |
+| A2 | Sooner Or Later |  |
+| A3 | Married Girl |  |
+| A4 | Do You Know |  |
+| A5 | Sarah |  |
+| B1 | Mush One |  |
+| B2 | I Still Love You |  |
+| B3 | Soldier |  |
+| B4 | Keep Him Away |  |
+| B5 | Work Song |  |
+| C1 | Feed My Girl |  |
+| C2 | Face In My Crowd |  |
+| C3 | You Don't Know I |  |
+| D1 | Pedophilia |  |
+| D2 | Runaway |  |
+| D3 | The Fried Chicken Song/Mary Mary |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/live-at-ernestos/1485048839" >}}<br>
 
 
-## Videos
-### The Slackers - Married Girl Live At Ernestos
-{{< youtube id="j96ExxBfE3Q" title="The Slackers - Married Girl Live At Ernestos" >}}<br>
-### More Videos
-
-- [The Slackers - Pedophilia Live at Ernestos](https://www.youtube.com/watch?v=Jnn8sywBL9Y)
-- [The Slackers - Sooner Or Later](https://www.youtube.com/watch?v=cGHQ6cpmXEQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +67,5 @@ styles: ["Ska"]
 | Format         | Vinyl 2× LP Album Reissue (Clear w/ Glow In The Dark Splatter) |
 | Label          | Pirates Press Records |
 | Catalog Number | PPR 268 |
-| Notes | PRESSING INFO: 1000pcs. - 2x12" Black Vinyl 700pcs. - 2x12" Ultra Clear & White Galaxy Vinyl 300pcs. - 2x12" Ultra Clear w/ Glow In The Dark Splatter Vinyl [THIS]  © & ℗ 2000 Hellcat Records. Manufactured and distributed by Epitaph Europe.  Recorded on March 8th and 9th of 1999 in Sittard, The Netherlands. Mixed at Coyote Studios, Brookling, New York, USA. Mastered at West West Side Music, Tenafly, New Jersey, USA.  |
+| Notes | PRESSING INFO:<br>1000pcs. - 2x12" Black Vinyl<br>700pcs. - 2x12" Ultra Clear & White Galaxy Vinyl<br>300pcs. - 2x12" Ultra Clear w/ Glow In The Dark Splatter Vinyl [THIS]<br><br>© & ℗ 2000 Hellcat Records.<br>Manufactured and distributed by Epitaph Europe.<br><br>Recorded on March 8th and 9th of 1999 in Sittard, The Netherlands.<br>Mixed at Coyote Studios, Brookling, New York, USA.<br>Mastered at West West Side Music, Tenafly, New Jersey, USA.<br> |
 | Discogs URL    | [The Slackers - Live At Ernesto's!](https://www.discogs.com/release/15686619-The-Slackers-Live-At-Ernestos) |

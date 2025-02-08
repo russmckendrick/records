@@ -4,6 +4,7 @@ artist_name: "Warrant"
 artist: "warrant"
 album_name: "Cherry Pie"
 date: 2023-04-03T04:22:19.000000Z
+release_date: "1990-09-11"
 release_id: "26175560"
 slug: "cherry-pie-26175560"
 hideSummary: true
@@ -23,43 +24,32 @@ styles: ["Glam", "Hard Rock"]
 Cherry Pie is the second studio album by American glam metal band Warrant, released September 11, 1990. The album is the band's best-known and highest-selling release and peaked at number 7 on the Billboard 200. The album featured the top 40 hits "Cherry Pie" and "I Saw Red".
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Cherry Pie (3:20)
-2. Uncle Tom's Cabin (4:01)
-3. I Saw Red (3:46)
-4. Bed Of Roses (4:04)
-5. Sure Feels Good To Me (2:39)
-6. Love In Stereo (3:06)
-7. Blind Faith (3:33)
-8. Song And Dance Man (2:58)
-9. You're The Only Hell Your Mama Ever Raised (3:34)
-10. Mr. Rainmaker (3:29)
-11. Train, Train (2:49)
-12. Ode To Tipper Gore (0:54)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Cherry Pie | 3:20 |
+| A2 | Uncle Tom's Cabin | 4:01 |
+| A3 | I Saw Red | 3:46 |
+| A4 | Bed Of Roses | 4:04 |
+| A5 | Sure Feels Good To Me | 2:39 |
+| B1 | Love In Stereo | 3:06 |
+| B2 | Blind Faith | 3:33 |
+| B3 | Song And Dance Man | 2:58 |
+| B4 | You're The Only Hell Your Mama Ever Raised | 3:34 |
+| B5 | Mr. Rainmaker | 3:29 |
+| B6 | Train, Train | 2:49 |
+| B7 | Ode To Tipper Gore | 0:54 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/cherry-pie/190763659" >}}<br>
 
 
-## Videos
-### CD  Warrant  Cherry Pie  1991  Club Edition 2004
-{{< youtube id="0H0FPcJDB0Y" title="CD  Warrant  Cherry Pie  1991  Club Edition 2004" >}}<br>
-### More Videos
-
-- [LP  Warrant  Cherry Pie  1991  Limited Edition 2023](https://www.youtube.com/watch?v=4DeZd955ggE)
-- [Warrant - Cherry Pie](https://www.youtube.com/watch?v=OjyZKfdwlng)
-- [Warrant - Uncle Toms Cabin Official Video](https://www.youtube.com/watch?v=bx6f68Wd9dc)
-- [Warrant - I Saw Red](https://www.youtube.com/watch?v=3dh79Ggx9Js)
-- [Warrant - Blind Faith](https://www.youtube.com/watch?v=uNoJ9YHtqq0)
-- [Warrant - Cherry Pie Cassette Tape 1990 metal rock music retro warrant cherrypie shorts](https://www.youtube.com/watch?v=7NrFF5gX2UU)
-- [LP  Warrant  Cherry Pie  1991](https://www.youtube.com/watch?v=1mYXpdj5fGQ)
-- [MC  Warrant  Cherry Pie  1991](https://www.youtube.com/watch?v=0Gc_-ZPpesM)
-- [CD  Warrant  Cherry Pie  1991  Club Edition 2004](https://www.youtube.com/watch?v=0H0FPcJDB0Y)
-- [LP  Warrant  Cherry Pie  1991  Limited Edition 2023](https://www.youtube.com/watch?v=4DeZd955ggE)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +61,5 @@ Cherry Pie is the second studio album by American glam metal band Warrant, relea
 | Format         | Vinyl LP Album Limited Edition Numbered Reissue (Pink) |
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3112 |
-| Notes | Limited edition of 3000 individually numbered copies on cherry coloured vinyl  Distribution cat # MOVLPC3112 |
+| Notes | Limited edition of 3000 individually numbered copies on cherry coloured vinyl<br><br>Distribution cat # MOVLPC3112 |
 | Discogs URL    | [Warrant - Cherry Pie](https://www.discogs.com/release/26175560-Warrant-Cherry-Pie) |

@@ -42,31 +42,22 @@ Tracks such as “palace / illusion” and “transcend / lament”, both produc
 
 
 ## Tracklisting
-1. Part I - Altar
-2. Part II - Palace / Illusion
-3. Part III - Transcend / Lament
-4. Part IV - The Veil
-5. Part V - Evocation
-6. Part VI - Solar Goddess Return
-7. Part VII - Dissolution
-8. Part VIII - Nothing Is Lost
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Part I - Altar |  |
+| A2 | Part II - Palace / Illusion |  |
+| A3 | Part III - Transcend / Lament |  |
+| B1 | Part IV - The Veil |  |
+| B2 | Part V - Evocation |  |
+| B3 | Part VI - Solar Goddess Return |  |
+| C1 | Part VII - Dissolution |  |
+| C2 | Part VIII - Nothing Is Lost |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ritual/1740733246" >}}<br>
 
 
-## Videos
-### part i - altar
-{{< youtube id="WVsUbtZFHCA" title="part i - altar" >}}<br>
-### More Videos
-
-- [part ii - palace  illusion](https://www.youtube.com/watch?v=Brcm-R4Tz84)
-- [part iii - transcend  lament](https://www.youtube.com/watch?v=zLcHJBJOTJc)
-- [part iv - the veil](https://www.youtube.com/watch?v=MZ1BEUunbV0)
-- [part v - evocation](https://www.youtube.com/watch?v=WxZpqLeNnpI)
-- [part vi - solar goddess return](https://www.youtube.com/watch?v=LuslGp64Ly8)
-- [part vii - dissolution](https://www.youtube.com/watch?v=nO0nrGFhrlo)
-- [part viii - nothing is lost](https://www.youtube.com/watch?v=b6SRg_4ORmA)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +68,5 @@ Tracks such as “palace / illusion” and “transcend / lament”, both produc
 | Format         | Vinyl LP (Clear), Vinyl LP Single Sided Etched (Clear), All Media Album Limited Edition |
 | Label          | Domino |
 | Catalog Number | WIGLP523X |
-| Notes | Comes with a 12"x12" insert with credits, and a download card.  ℗+©2024 Domino Recording Co. Ltd. |
+| Notes | Comes with a 12"x12" insert with credits, and a download card.<br><br>℗+©2024 Domino Recording Co. Ltd. |
 | Discogs URL    | [Jon Hopkins - Ritual](https://www.discogs.com/release/31602217-Jon-Hopkins-Ritual) |

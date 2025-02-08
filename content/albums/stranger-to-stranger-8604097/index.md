@@ -4,6 +4,7 @@ artist_name: "Paul Simon"
 artist: "paul-simon"
 album_name: "Stranger To Stranger"
 date: 2016-06-03T18:24:32.000000Z
+release_date: "2016-06-03"
 release_id: "8604097"
 slug: "stranger-to-stranger-8604097"
 hideSummary: true
@@ -29,37 +30,31 @@ His first release in over five years, Stranger to Stranger received wide critica
 The cover art is a detail of a portrait of Simon from 2011 by Chuck Close. Photo by Kerry Ryan McFate, courtesy Pace Gallery.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Werewolf (3:25)
-2. Wristband (3:17)
-3. The Clock  (1:02)
-4. Street Angel (2:08)
-5. Stranger To Stranger (4:33)
-6. In A Parade (2:19)
-7. Proof Of Love (5:44)
-8. In The Garden Of Edie (1:48)
-9. The Riverbank (4:09)
-10. Cool Papa Bell (4:02)
-11. Insomniac’s Lullaby (4:33)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | The Werewolf | 3:25 |
+| A2 | Wristband | 3:17 |
+| A3 | The Clock  | 1:02 |
+| A4 | Street Angel | 2:08 |
+| A5 | Stranger To Stranger | 4:33 |
+| A6 | In A Parade | 2:19 |
+| B1 | Proof Of Love | 5:44 |
+| B2 | In The Garden Of Edie | 1:48 |
+| B3 | The Riverbank | 4:09 |
+| B4 | Cool Papa Bell | 4:02 |
+| B5 | Insomniac’s Lullaby | 4:33 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stranger-to-stranger/1715332946" >}}<br>
 
 
-## Videos
-### Stranger To Stranger
-{{< youtube id="P7zs5JmlhwY" title="Stranger To Stranger" >}}<br>
-### More Videos
-
-- [Paul Simon - Wristband Official Audio](https://www.youtube.com/watch?v=O3crKHaBdy4)
-- [Paul Simon - The Werewolf Static Image Video](https://www.youtube.com/watch?v=S9UwRLfYUlo)
-- [Stranger To Stranger](https://www.youtube.com/watch?v=P7zs5JmlhwY)
-- [Paul Simon - Wristband Official Audio](https://www.youtube.com/watch?v=O3crKHaBdy4)
-- [Paul Simon - The Werewolf Static Image Video](https://www.youtube.com/watch?v=S9UwRLfYUlo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +66,5 @@ The cover art is a detail of a portrait of Simon from 2011 by Chuck Close. Photo
 | Format         | Vinyl LP Album |
 | Label          | Concord Records |
 | Catalog Number | 0888072397811 |
-| Notes | Harry Partch instruments courtesy of Montclair State University and Dean Drummond Printed inner sleeve and insert. |
+| Notes | Harry Partch instruments courtesy of Montclair State University and Dean Drummond<br>Printed inner sleeve and insert. |
 | Discogs URL    | [Paul Simon - Stranger To Stranger](https://www.discogs.com/release/8604097-Paul-Simon-Stranger-To-Stranger) |

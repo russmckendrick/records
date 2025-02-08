@@ -4,6 +4,7 @@ artist_name: "Gruff Rhys"
 artist: "gruff-rhys"
 album_name: "Seeking New Gods"
 date: 2021-05-29T07:42:16.000000Z
+release_date: "2021-05-21"
 release_id: "18798823"
 slug: "seeking-new-gods-18798823"
 hideSummary: true
@@ -32,38 +33,29 @@ styles: ["Indie Pop"]
 Seeking New Gods is the seventh studio album by Welsh musician Gruff Rhys, released on 21 May 2021 under Rough Trade Records. The album was inspired by Paektu Mountain, a volcano on the border of China and North Korea. It received acclaim from critics, and reached number 10 on the UK Albums Chart.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Mausoleum Of My Former Self (4:53)
-2. Can’t Carry On (3:46)
-3. Loan Your Loneliness (5:13)
-4. Seeking New Gods (5:10)
-5. Hiking In Lightning (3:27)
-6. Holiest Of The Holy Men (4:43)
-7. The Keep (4:23)
-8. Everlasting Joy (5:11)
-9. Distant Snowy Peaks (5:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mausoleum Of My Former Self | 4:53 |
+| A2 | Can’t Carry On | 3:46 |
+| A3 | Loan Your Loneliness | 5:13 |
+| A4 | Seeking New Gods | 5:10 |
+| A5 | Hiking In Lightning | 3:27 |
+| B1 | Holiest Of The Holy Men | 4:43 |
+| B2 | The Keep | 4:23 |
+| B3 | Everlasting Joy | 5:11 |
+| B4 | Distant Snowy Peaks | 5:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/seeking-new-gods/1554723124" >}}<br>
 
 
-## Videos
-### Gruff Rhys - Loan Your Loneliness Official Video
-{{< youtube id="nr3HnNMS1Cw" title="Gruff Rhys - Loan Your Loneliness Official Video" >}}<br>
-### More Videos
-
-- [Gruff Rhys - Mausoleum Of My Former Self Official Video](https://www.youtube.com/watch?v=uBWtjXHjD7M)
-- [Gruff Rhys - Cant Carry On Official Video](https://www.youtube.com/watch?v=BGCOztNcB3w)
-- [Seeking New Gods](https://www.youtube.com/watch?v=5NEwvd9lhKg)
-- [Hiking in Lightning](https://www.youtube.com/watch?v=hkIHf9JyhBQ)
-- [Holiest of the Holy Men](https://www.youtube.com/watch?v=wdNwnMzDKdA)
-- [The Keep](https://www.youtube.com/watch?v=PCEVReHswGY)
-- [Everlasting Joy](https://www.youtube.com/watch?v=OztJcWT6krI)
-- [Distant Snowy Peaks](https://www.youtube.com/watch?v=aKUrrXx6HQg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -75,5 +67,5 @@ Seeking New Gods is the seventh studio album by Welsh musician Gruff Rhys, relea
 | Format         | Vinyl LP Album (Green) |
 | Label          | Rough Trade |
 | Catalog Number | RT0127LP2 |
-| Notes | Comes in a mountain die-cut envelope-style sleeve with belly band.  Initial copies from Rough Trade came with a poster and signed postcard.  Dark green vinyl.  Runouts: "1 +" is mirrored in runout side A, "1 =" is mirrored in runout side B.  Track durations are not mentioned on the release. |
+| Notes | Comes in a mountain die-cut envelope-style sleeve with belly band.<br><br>Initial copies from Rough Trade came with a poster and signed postcard.<br><br>Dark green vinyl.<br><br>Runouts: "1 +" is mirrored in runout side A, "1 =" is mirrored in runout side B.<br><br>Track durations are not mentioned on the release. |
 | Discogs URL    | [Gruff Rhys - Seeking New Gods](https://www.discogs.com/release/18798823-Gruff-Rhys-Seeking-New-Gods) |

@@ -4,6 +4,7 @@ artist_name: "The Who"
 artist: "the-who"
 album_name: "Who's Next"
 date: 2015-08-09T08:39:37.000000Z
+release_date: "2018-08-10"
 release_id: "6957505"
 slug: "who-s-next-6957505"
 hideSummary: true
@@ -27,33 +28,29 @@ The Who recorded Who's Next with assistance from recording engineer Glyn Johns. 
 The album was an immediate critical and commercial success and has since been viewed by many critics as the Who's best album, as well as one of the greatest albums of all time. It has been reissued on CD several times, often with additional songs originally intended for Lifehouse included as bonus tracks. Who's Next was ranked number 77 on Rolling Stone's 2020 edition of its "The 500 Greatest Albums of All Time" list.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Baba O' Riley (4:58)
-2. Bargain (5:33)
-3. Love Ain't For Keeping (2:10)
-4. My Wife (3:33)
-5. Song Is Over (6:16)
-6. Getting In Tune (4:48)
-7. Going Mobile (3:42)
-8. Behind Blue Eyes (3:41)
-9. Won't Get Fooled Again (8:31)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Baba O' Riley | 4:58 |
+| A2 | Bargain | 5:33 |
+| A3 | Love Ain't For Keeping | 2:10 |
+| A4 | My Wife | 3:33 |
+| A5 | Song Is Over | 6:16 |
+| B1 | Getting In Tune | 4:48 |
+| B2 | Going Mobile | 3:42 |
+| B3 | Behind Blue Eyes | 3:41 |
+| B4 | Won't Get Fooled Again | 8:31 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/whos-next-single/1676629460" >}}<br>
 
 
-## Videos
-### Baba ORiley
-{{< youtube id="rIbMbXjbW98" title="Baba ORiley" >}}<br>
-### More Videos
-
-- [Wont Get Fooled Again](https://www.youtube.com/watch?v=_NzLs-xSss0)
-- [The Who - Baba ORiley Lyric Video](https://www.youtube.com/watch?v=QRTNm6GLJYI)
-- [The Who - Wont Get Fooled Again Lyric Video](https://www.youtube.com/watch?v=DaX1KiHznR8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -65,5 +62,5 @@ The album was an immediate critical and commercial success and has since been vi
 | Format         | Vinyl LP Album Reissue Remastered Stereo (180 g) |
 | Label          | Polydor |
 | Catalog Number | 3715614 |
-| Notes | ℗ 1971 Polydor Ltd. (UK) © 1971 Polydor Ltd. (UK). A Universal Music Company. All right of the manufacturer and of the owner of the work produced reserved.  Made in the EU. |
+| Notes | ℗ 1971 Polydor Ltd. (UK) © 1971 Polydor Ltd. (UK). A Universal Music Company. All right of the manufacturer and of the owner of the work produced reserved.<br><br>Made in the EU. |
 | Discogs URL    | [The Who - Who's Next](https://www.discogs.com/release/6957505-The-Who-Whos-Next) |

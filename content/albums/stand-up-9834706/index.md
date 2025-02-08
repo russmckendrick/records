@@ -4,6 +4,7 @@ artist_name: "Jethro Tull"
 artist: "jethro-tull"
 album_name: "Stand Up"
 date: 2018-01-26T20:02:41.000000Z
+release_date: "1969-07-25"
 release_id: "9834706"
 slug: "stand-up-9834706"
 hideSummary: true
@@ -54,56 +55,30 @@ Stand Up, released in 1969, is the second studio album by British rock band Jeth
 The album was released 25 July, and was No. 1 on the UK albums chart the following week, 3 August, following up on the success of the non-album single "Living in the Past", which had reached No. 3 in the UK singles chart on the day the album was released. The album was Jethro Tull's first success in the United States, reaching No. 20 on the Billboard 200. 
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. A New Day Yesterday (4:11)
-2. Jeffrey Goes To Leicester Square (2:13)
-3. Bourée (3:48)
-4. Back To The Family (3:54)
-5. Look Into The Sun (4:37)
-6. Nothing Is Easy (4:27)
-7. Fat Man (2:52)
-8. We Used To Know (4:04)
-9. Reasons For Waiting (4:07)
-10. For A Thousand Mothers (4:19)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | A New Day Yesterday | 4:11 |
+| A2 | Jeffrey Goes To Leicester Square | 2:13 |
+| A3 | Bourée | 3:48 |
+| A4 | Back To The Family | 3:54 |
+| A5 | Look Into The Sun | 4:37 |
+| B1 | Nothing Is Easy | 4:27 |
+| B2 | Fat Man | 2:52 |
+| B3 | We Used To Know | 4:04 |
+| B4 | Reasons For Waiting | 4:07 |
+| B5 | For A Thousand Mothers | 4:19 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/stand-up-2001-bonus-tracks-edition/726366185" >}}<br>
 
 
-## Videos
-### Jethro Tull   Stand Up
-{{< youtube id="ouX5zxE9rpM" title="Jethro Tull   Stand Up" >}}<br>
-### More Videos
-
-- [A New Day Yesterday Steven Wilson Remix](https://www.youtube.com/watch?v=MkF_dn3ni5g)
-- [Jeffrey Goes to Leicester Square Steven Wilson Stereo Remix](https://www.youtube.com/watch?v=zTtiIEphLy0)
-- [Bourée Steven Wilson Remix](https://www.youtube.com/watch?v=I8ToarxmUmo)
-- [Back to the Family Steven Wilson Remix](https://www.youtube.com/watch?v=T62f339WCzM)
-- [Look into the Sun Steven Wilson Stereo Remix](https://www.youtube.com/watch?v=YVwIjGyWVe4)
-- [Nothing Is Easy Steven Wilson Remix](https://www.youtube.com/watch?v=ttcbUuUEZMk)
-- [Fat Man Steven Wilson Remix](https://www.youtube.com/watch?v=KBekMK-0XzI)
-- [We Used to Know Steven Wilson Stereo Remix](https://www.youtube.com/watch?v=vJ9VMNCURMk)
-- [Reasons for Waiting Steven Wilson Stereo Remix](https://www.youtube.com/watch?v=VxxiJ-3-BY8)
-- [For a Thousand Mothers Steven Wilson Stereo Remix](https://www.youtube.com/watch?v=OoZUueWE1OY)
-- [FIRST LOOK STAND UP - THE ELEVATED EDITION 50th ANNIVERSARY - JETHRO TULL RARE BOX SET](https://www.youtube.com/watch?v=84gE7eWe0W8)
-- [Jethro Tull - Stand Up Full Album 1969](https://www.youtube.com/watch?v=dP3V4ZRpSdM)
-- [Jethro Tull - Reasons for Waiting Stand Up 1969](https://www.youtube.com/watch?v=JnuCo6jAgz0)
-- [Jethro Tulls Stand Up - A look at the new Analogue Productions 45 edition mastered by Kevin Gray](https://www.youtube.com/watch?v=dO_RkKU_0oI)
-- [We Used to Know](https://www.youtube.com/watch?v=oGvux7w1Ea4)
-- [Stand Up US Radio Spot 1 2010 Remaster](https://www.youtube.com/watch?v=OZUWjPXgG-s)
-- [Reasons for Waiting](https://www.youtube.com/watch?v=exXKfGPgW00)
-- [Jethro Tull - Stand Up Vinyl Part 1 HQ](https://www.youtube.com/watch?v=7QfHlg1CArY)
-- [Look into the Sun](https://www.youtube.com/watch?v=A6VXRSVZHIY)
-- [Back to the Family](https://www.youtube.com/watch?v=a3uqdoJxJ50)
-- [Jethro Tull Stand Up Analogue Production vs 1st British Pressing vs S Wilson Remaster](https://www.youtube.com/watch?v=kRuwGlrrnv0)
-- [Jeffrey Goes to Leicester Square](https://www.youtube.com/watch?v=wlNwOJkP5P8)
-- [Jethro Tull   Stand Up Full Album](https://www.youtube.com/watch?v=vDFg82sx8BU)
-- [Live EDM DANCE CLUB SET Mix Performance  Remixes for Party Gym and Car Music Deep House music](https://www.youtube.com/watch?v=iQVfPFcAYZc)
-- [JETHRO TULL  -  STAND UP 1969](https://www.youtube.com/watch?v=vBNnQDGRiCQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -115,5 +90,5 @@ The album was released 25 July, and was No. 1 on the UK albums chart the followi
 | Format         | Vinyl LP Album Reissue Remastered Stereo (Gatefold, 180Gm) |
 | Label          | Chrysalis |
 | Catalog Number | 0190295932855 |
-| Notes | Housed in a gatefold jacket containing the LP in a white poly lined inner sleeve, a 24-page large format booklet and a download voucher for an MP3 version of the album. When the gatefold jacket is opened, a cut-out of the band pops up, similar to the old pop-up books.  [Sticker:] The Steven Wilson 2016 stereo remix on 180gm vinyl 0190295932855 [Vinyl Collector logo] Includes download code for MP3 version of the album www.facebook.com/vinylcollector  [Booklet p. 3:] Recorded on 8 track at Morgan Studios, London, 1969 except [A3 recorded at Olympic Sound Studio 1] Artwork [...] at Waldo's Design & Dream Emporium Photography by [...] and from the Chrysalis Archive.  [Rear sleeve:] ℗ & © 2016 Parlophone Records Ltd, a Warner Music Group Company. [...] Made in the E.U.  [Labels:] Published by BMG Chrysalis under licence from the Ian Anderson Group Of Companies. Made in EU.  Runouts etched. Symbols added during plating will appear mirrored, e.g. 1I+ and 2+ in runout variant 3. |
+| Notes | Housed in a gatefold jacket containing the LP in a white poly lined inner sleeve, a 24-page large format booklet and a download voucher for an MP3 version of the album.<br>When the gatefold jacket is opened, a cut-out of the band pops up, similar to the old pop-up books.<br><br>[Sticker:]<br>The Steven Wilson 2016 stereo remix on 180gm vinyl<br>0190295932855<br>[Vinyl Collector logo]<br>Includes download code for MP3 version of the album<br>www.facebook.com/vinylcollector<br><br>[Booklet p. 3:]<br>Recorded on 8 track at Morgan Studios, London, 1969 except [A3 recorded at Olympic Sound Studio 1]<br>Artwork [...] at Waldo's Design & Dream Emporium<br>Photography by [...] and from the Chrysalis Archive.<br><br>[Rear sleeve:]<br>℗ & © 2016 Parlophone Records Ltd, a Warner Music Group Company. [...] Made in the E.U.<br><br>[Labels:]<br>Published by BMG Chrysalis under licence from the Ian Anderson Group Of Companies.<br>Made in EU.<br><br>Runouts etched. Symbols added during plating will appear mirrored, e.g. 1I+ and 2+ in runout variant 3. |
 | Discogs URL    | [Jethro Tull - Stand Up](https://www.discogs.com/release/9834706-Jethro-Tull-Stand-Up) |

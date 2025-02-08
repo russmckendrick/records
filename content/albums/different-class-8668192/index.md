@@ -32,51 +32,26 @@ Sonically, <I>Different Class</I> was equally refined. Although other Britpop st
 
 
 ## Tracklisting
-1. Mis-Shapes
-2. Pencil Skirt
-3. Common People
-4. I Spy
-5. Disco 2000
-6. Live Bed Show
-7. Something Changed
-8. Sorted For E's & Wizz
-9. F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E
-10. Underwear
-11. Monday Morning
-12. Bar Italia
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mis-Shapes |  |
+| A2 | Pencil Skirt |  |
+| A3 | Common People |  |
+| A4 | I Spy |  |
+| A5 | Disco 2000 |  |
+| A6 | Live Bed Show |  |
+| B1 | Something Changed |  |
+| B2 | Sorted For E's & Wizz |  |
+| B3 | F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E |  |
+| B4 | Underwear |  |
+| B5 | Monday Morning |  |
+| B6 | Bar Italia |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/different-class/1440923838" >}}<br>
 
 
-## Videos
-### Pulp - Mis-Shapes
-{{< youtube id="S0DRch3YLh0" title="Pulp - Mis-Shapes" >}}<br>
-### More Videos
-
-- [Pencil Skirt](https://www.youtube.com/watch?v=295lzfitruo)
-- [Pulp - Common People](https://www.youtube.com/watch?v=yuTMWgOduFM)
-- [I Spy](https://www.youtube.com/watch?v=WNP4q7Aba9w)
-- [Pulp - Disco 2000](https://www.youtube.com/watch?v=qJS3xnD7Mus)
-- [Live Bed Show](https://www.youtube.com/watch?v=gbSJu0N-VqY)
-- [Something Changed](https://www.youtube.com/watch?v=zxm_3J3r5rM)
-- [Pulp - Sorted For Es  Wizz Official Video HD](https://www.youtube.com/watch?v=XxhuZj25TKU)
-- [FEELINGCALLEDLOVE](https://www.youtube.com/watch?v=osDBZGu7QuE)
-- [Underwear](https://www.youtube.com/watch?v=-IArKcMSwxM)
-- [Monday Morning](https://www.youtube.com/watch?v=gkZKwshJEvI)
-- [Bar Italia](https://www.youtube.com/watch?v=EU8Y6HvR7nk)
-- [Pulp - Mis-Shapes](https://www.youtube.com/watch?v=S0DRch3YLh0)
-- [Pencil Skirt](https://www.youtube.com/watch?v=295lzfitruo)
-- [Pulp - Common People](https://www.youtube.com/watch?v=yuTMWgOduFM)
-- [I Spy](https://www.youtube.com/watch?v=WNP4q7Aba9w)
-- [Pulp - Disco 2000](https://www.youtube.com/watch?v=qJS3xnD7Mus)
-- [Live Bed Show](https://www.youtube.com/watch?v=gbSJu0N-VqY)
-- [Something Changed](https://www.youtube.com/watch?v=zxm_3J3r5rM)
-- [Pulp - Sorted For Es  Wizz Official Video HD](https://www.youtube.com/watch?v=XxhuZj25TKU)
-- [FEELINGCALLEDLOVE](https://www.youtube.com/watch?v=osDBZGu7QuE)
-- [Underwear](https://www.youtube.com/watch?v=-IArKcMSwxM)
-- [Monday Morning](https://www.youtube.com/watch?v=gkZKwshJEvI)
-- [Bar Italia](https://www.youtube.com/watch?v=EU8Y6HvR7nk)
 
 ## Release Images
 {{< imageGrid >}}
@@ -88,5 +63,5 @@ Sonically, <I>Different Class</I> was equally refined. Although other Britpop st
 | Format         | Vinyl LP Album Reissue |
 | Label          | Island Records |
 | Catalog Number | 4785288 |
-| Notes | Includes a custom inner sleeve. There are two print errors on the inner sleeve which lists;  Track 6 as LIVE BED SHOW DOYLE. Track 7 as Somethings Changed  This was advance released for exclusive sale at HMV and Fopp record shops on 18 June 2016.  ℗ 1995 Universal-Island Records Ltd. © 2016 Universal-Island Records Ltd. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands. Made in the EU. |
+| Notes | Includes a custom inner sleeve.<br>There are two print errors on the inner sleeve which lists; <br>Track 6 as LIVE BED SHOW DOYLE.<br>Track 7 as Somethings Changed<br><br>This was advance released for exclusive sale at HMV and Fopp record shops on 18 June 2016.<br><br>℗ 1995 Universal-Island Records Ltd. © 2016 Universal-Island Records Ltd.<br>Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN, Baarn, Netherlands. Made in the EU. |
 | Discogs URL    | [Pulp - Different Class](https://www.discogs.com/release/8668192-Pulp-Different-Class) |

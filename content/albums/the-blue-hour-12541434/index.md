@@ -4,6 +4,7 @@ artist_name: "Suede"
 artist: "suede"
 album_name: "The Blue Hour"
 date: 2018-09-25T19:13:30.000000Z
+release_date: "2018-09-21"
 release_id: "12541434"
 slug: "the-blue-hour-12541434"
 hideSummary: true
@@ -32,36 +33,34 @@ The Blue Hour is the eighth studio album by English alternative rock band Suede.
 It was the first Suede album since A New Morning not to be produced by longtime producer Ed Buller, and the first to be produced by Alan Moulder. This is their final album to be released under Warner Music.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. As One
-2. Wastelands
-3. Mistress
-4. Beyond The Outskirts
-5. Chalk Circles
-6. Cold Hands
-7. Life Is Golden
-8. Roadkill
-9. Tides
-10. Don't Be Afraid If Nobody Loves You
-11. Dead Bird
-12. All The Wild Places
-13. The Invisibles
-14. Flytipping
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | As One |  |
+| A2 | Wastelands |  |
+| A3 | Mistress |  |
+| B1 | Beyond The Outskirts |  |
+| B2 | Chalk Circles |  |
+| B3 | Cold Hands |  |
+| B4 | Life Is Golden |  |
+| C1 | Roadkill |  |
+| C2 | Tides |  |
+| C3 | Don't Be Afraid If Nobody Loves You |  |
+| D1 | Dead Bird |  |
+| D2 | All The Wild Places |  |
+| D3 | The Invisibles |  |
+| D4 | Flytipping |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-blue-hour/1372130297" >}}<br>
 
 
-## Videos
-### SUEDE - THE INVISIBLES
-{{< youtube id="Gqzvcj0-kF4" title="SUEDE - THE INVISIBLES" >}}<br>
-### More Videos
-
-- [Suede - Wastelands Official Video](https://www.youtube.com/watch?v=qks__ZNvhiw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -73,5 +72,5 @@ It was the first Suede album since A New Morning not to be produced by longtime 
 | Format         | Vinyl 2× LP Album Limited Edition (Blue) |
 | Label          | Warner Music UK |
 | Catalog Number | WEA 503 |
-| Notes | Gatefold sleeve with printed inner sleeves. The inner side of the gatefold sleeve contains lyrics and credits for tracks A1 to B1. The other lyrics and track credits are on the inner sleeves. The general credits (production, recording, companies etc.) are on the back side of the gatefold sleeve.  No credits on this release for track D1 ("Dead Bird"), which is a short recording of Brett Anderson and his little son talking to each other in the garden combined with an orchestral score. The credits above are taken from the box set [r12544860].  The City Of Prague Philharmonic Orchestra was recorded at Smecky Studios, Prague. All credits regarding the recording of The City Of Prague Philharmonic Orchestra on tracks A1 to A3, B4, C1, D1 to D3 are taken from the box set [r12544860]. |
+| Notes | Gatefold sleeve with printed inner sleeves. The inner side of the gatefold sleeve contains lyrics and credits for tracks A1 to B1. The other lyrics and track credits are on the inner sleeves. The general credits (production, recording, companies etc.) are on the back side of the gatefold sleeve.<br><br>No credits on this release for track D1 ("Dead Bird"), which is a short recording of Brett Anderson and his little son talking to each other in the garden combined with an orchestral score. The credits above are taken from the box set [r12544860].<br><br>The City Of Prague Philharmonic Orchestra was recorded at Smecky Studios, Prague. All credits regarding the recording of The City Of Prague Philharmonic Orchestra on tracks A1 to A3, B4, C1, D1 to D3 are taken from the box set [r12544860]. |
 | Discogs URL    | [Suede - The Blue Hour](https://www.discogs.com/release/12541434-Suede-The-Blue-Hour) |

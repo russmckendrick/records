@@ -4,6 +4,7 @@ artist_name: "Arcade Fire"
 artist: "arcade-fire"
 album_name: "Funeral"
 date: 2016-02-14T11:10:06.000000Z
+release_date: "2007-04-03"
 release_id: "2093841"
 slug: "funeral-2093841"
 hideSummary: true
@@ -32,40 +33,30 @@ Funeral is the debut studio album by Canadian indie rock band Arcade Fire, relea
 The album produced five singles, with "Rebellion (Lies)" being the most successful, having peaked at #19 on the UK Singles Chart. The album was nominated for a Grammy Award in 2005 for Best Alternative Music Album. It received widespread critical acclaim and topped many year-end and decade-end lists, now being often considered one of the greatest albums of all time. According to the website Metacritic, the album had the second most appearances on end-of-decade Top 10 lists, only behind Radiohead's Kid A. In the 2020 updated version of Rolling Stone's 500 Greatest Albums of All Time, it was ranked at number 500.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Neighborhood #1 (Tunnels) (4:48)
-2. Neighborhood #2 (Laïka) (3:32)
-3. Une Année Sans Lumiere (5:12)
-4. Neighborhood #3 (Power Out) (3:41)
-5. Neighborhood #4 (7 Kettles) (4:49)
-6. Crown Of Love (4:42)
-7. Wake Up (5:35)
-8. Haiti (4:07)
-9. Rebellion (Lies) (5:10)
-10. In The Backseat (6:20)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Neighborhood #1 (Tunnels) | 4:48 |
+| A2 | Neighborhood #2 (Laïka) | 3:32 |
+| A3 | Une Année Sans Lumiere | 5:12 |
+| A4 | Neighborhood #3 (Power Out) | 3:41 |
+| A5 | Neighborhood #4 (7 Kettles) | 4:49 |
+| B6 | Crown Of Love | 4:42 |
+| B7 | Wake Up | 5:35 |
+| B8 | Haiti | 4:07 |
+| B9 | Rebellion (Lies) | 5:10 |
+| B10 | In The Backseat | 6:20 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/vsq-performs-arcade-fires-funeral/988548178" >}}<br>
 
 
-## Videos
-### Arcade Fire - Neighborhood 3 Power Out Official Video
-{{< youtube id="0ozdCLrTrtA" title="Arcade Fire - Neighborhood 3 Power Out Official Video" >}}<br>
-### More Videos
-
-- [Arcade Fire - Wake Up Official Audio](https://www.youtube.com/watch?v=sJRPPUr1yic)
-- [Arcade Fire - Rebellion Lies Official Remastered Video](https://www.youtube.com/watch?v=8vN2vqaEBhM)
-- [Arcade Fire - Neighborhood 1 Tunnels Official Remastered Video](https://www.youtube.com/watch?v=TwisvB3PVpU)
-- [Arcade Fire - Neighborhood 2 Laika Official Video](https://www.youtube.com/watch?v=siFsdInZqC0)
-- [Arcade Fire - Une Annee Sans Lumiere Official Audio](https://www.youtube.com/watch?v=pPKUDprZIvs)
-- [Arcade Fire - Neighborhood 4 7 Kettles Official Audio](https://www.youtube.com/watch?v=VKZ2rhcwaXE)
-- [Arcade Fire - Crown of Love Official Audio](https://www.youtube.com/watch?v=p9XX193hgH8)
-- [Arcade Fire - Haiti Official Audio](https://www.youtube.com/watch?v=tGvpUgo7ayY)
-- [Arcade Fire - In the Backseat Official Audio](https://www.youtube.com/watch?v=i2jsArz5IQg)
 
 ## Release Images
 {{< imageGrid >}}
@@ -77,5 +68,5 @@ The album produced five singles, with "Rebellion (Lies)" being the most successf
 | Format         | Vinyl LP Album Repress (180 Gram) |
 | Label          | Merge Records |
 | Catalog Number | MRG255 |
-| Notes | Reissued on 180-gram vinyl, includes a digital download coupon and a little 4-pages leaflet with liner notes, lyrics and credits.  Housed in an embossed gatefold sleeve.  The Arcade Fire Funeral September 14, 2004  Recorded and mixed at Hotel 2 Tango and Win & Régine's apartment in Montréal in a week of August 2003 and the winter of 2004 Mastered at Disques SNB, Montréal  ©The Arcade Fire 2004  ℗ & © merge records 2005  Variations on the titles of some tracks: •Track A2: "Neighborhood #2 (Laïka)" is listed on back cover tracklist and insert liner notes, but listed as "Neighborhood #2 (Laika)" on record label tracklist. •Track A3: "Une année sans lumiere" is listed on back cover and label, but listed as "Une année sans lumière" on insert. •Track B8: "Haiti" is listed on back cover and label, but listed as "Haïti" on insert.  Tracklisting ascends numerically regardless of disc side.  Runouts are etched, except for 'GOLDEN', which is stamped. Lacquer cutting and a mastering credit are identified in runouts. |
+| Notes | Reissued on 180-gram vinyl, includes a digital download coupon and a little 4-pages leaflet with liner notes, lyrics and credits.<br><br>Housed in an embossed gatefold sleeve.<br><br>The Arcade Fire<br>Funeral<br>September 14, 2004<br><br>Recorded and mixed at Hotel 2 Tango and Win & Régine's apartment in Montréal in a week of August 2003 and the winter of 2004<br>Mastered at Disques SNB, Montréal<br><br>©The Arcade Fire 2004<br><br>℗ & © merge records 2005<br><br>Variations on the titles of some tracks:<br>•Track A2: "Neighborhood #2 (Laïka)" is listed on back cover tracklist and insert liner notes, but listed as "Neighborhood #2 (Laika)" on record label tracklist.<br>•Track A3: "Une année sans lumiere" is listed on back cover and label, but listed as "Une année sans lumière" on insert.<br>•Track B8: "Haiti" is listed on back cover and label, but listed as "Haïti" on insert.<br><br>Tracklisting ascends numerically regardless of disc side.<br><br>Runouts are etched, except for 'GOLDEN', which is stamped. Lacquer cutting and a mastering credit are identified in runouts. |
 | Discogs URL    | [Arcade Fire - Funeral](https://www.discogs.com/release/2093841-Arcade-Fire-Funeral) |

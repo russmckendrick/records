@@ -4,6 +4,7 @@ artist_name: "Bad Manners"
 artist: "bad-manners"
 album_name: "Gosh It's..."
 date: 2019-01-19T10:35:59.000000Z
+release_date: "1980"
 release_id: "2025569"
 slug: "gosh-it-s-2025569"
 hideSummary: true
@@ -27,34 +28,32 @@ styles: ["Ska"]
 Gosh It's ... Bad Manners is the third album by British 2 Tone and ska band Bad Manners from the year 1981 and their most popular and successful album, peaking at number 18 on the UK album chart. The band had originally formed in 1976 while the members were together at Woodberry Down Comprehensive School, North London. They commemorated the 1981 closure of the school on the back sleeve of the album.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Walking In The Sunshine (3:26)
-2. Dansetta (3:53)
-3. Can Can (2:55)
-4. Weeping And Wailing (3:37)
-5. Casablanca (Rags And Riches) (4:48)
-6. Don't Be Angry (Live Recording) (2:30)
-7. Ben E. Wriggle (3:48)
-8. Runaway (3:06)
-9. Never Will Change (3:04)
-10. Only Funkin' (3:32)
-11. End Of The World (2:57)
-12. Gherkin (4:36)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Walking In The Sunshine | 3:26 |
+| A2 | Dansetta | 3:53 |
+| A3 | Can Can | 2:55 |
+| A4 | Weeping And Wailing | 3:37 |
+| A5 | Casablanca (Rags And Riches) | 4:48 |
+| A6 | Don't Be Angry (Live Recording) | 2:30 |
+| B1 | Ben E. Wriggle | 3:48 |
+| B2 | Runaway | 3:06 |
+| B3 | Never Will Change | 3:04 |
+| B4 | Only Funkin' | 3:32 |
+| B5 | End Of The World | 2:57 |
+| B6 | Gherkin | 4:36 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/gosh-its/461069899" >}}<br>
 
 
-## Videos
-### Bad MannersGosh Its Bad Manners Part 4
-{{< youtube id="pAO7mr7Pi0s" title="Bad MannersGosh Its Bad Manners Part 4" >}}<br>
-### More Videos
-
-- [Bad MannersGosh Its Bad Manners Part 4](https://www.youtube.com/watch?v=pAO7mr7Pi0s)
 
 ## Release Images
 {{< imageGrid >}}
@@ -66,5 +65,5 @@ Gosh It's ... Bad Manners is the third album by British 2 Tone and ska band Bad 
 | Format         | Vinyl LP Album Stereo |
 | Label          | Magnet (2) |
 | Catalog Number | MAGL 5043 |
-| Notes | Track A3 is based on the classical operetta by [r13333558].  Issued in a textured single sleeve and with a printed lyric inner sleeve.  Some copies include a poster of the band. |
+| Notes | Track A3 is based on the classical operetta by [r13333558].<br><br>Issued in a textured single sleeve and with a printed lyric inner sleeve.<br><br>Some copies include a poster of the band. |
 | Discogs URL    | [Bad Manners - Gosh It's...](https://www.discogs.com/release/2025569-Bad-Manners-Gosh-Its) |

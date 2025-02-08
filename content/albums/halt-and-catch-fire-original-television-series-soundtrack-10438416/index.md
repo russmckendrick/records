@@ -4,6 +4,7 @@ artist_name: "Paul Haslinger"
 artist: "paul-haslinger"
 album_name: "Halt And Catch Fire (Original Television Series Soundtrack)"
 date: 2017-07-01T11:17:09.000000Z
+release_date: "2016-08-19"
 release_id: "10438416"
 slug: "halt-and-catch-fire-original-television-series-soundtrack-10438416"
 hideSummary: true
@@ -31,35 +32,40 @@ styles: ["Ambient", "Berlin-School", "Score"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Golden Gate (2:06)
-2. A Wolf In Unix (1:16)
-3. The Scenic Route (1:49)
-4. First Day On The Job (1:16)
-5. It Speaks (4:20)
-6. Reverse Engineering (2:25)
-7. Security Is A Myth (3:02)
-8. The Morning After (2:22)
-9. Rooftop Fireworks (1:17)
-10. I Need A Little Time (1:08)
-11. Western Arrivals (1:35)
-12. The Slingshot (1:16)
-13. 10broad36 (0:32)
-14. The Way In (0:32)
-15. Run Time (0:30)
-16. Last Nerve (0:57)
-17. Gordon Steals A Cabbage Patch (2:32)
-18. The Cost Of Doing Business (1:50)
-19. Joe's Truth (2:03)
-20. Go Get The Bike (1:24)
-21. The End Of Donna's Day (1:04)
-22. It's Not Right (1:23)
-23. MacMillan Utility (1:51)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Golden Gate | 2:06 |
+| A2 | A Wolf In Unix | 1:16 |
+| A3 | The Scenic Route | 1:49 |
+| A4 | First Day On The Job | 1:16 |
+| A5 | It Speaks | 4:20 |
+| A6 | Reverse Engineering | 2:25 |
+| A7 | Security Is A Myth | 3:02 |
+| A8 | The Morning After | 2:22 |
+| A9 | Rooftop Fireworks | 1:17 |
+| A10 | I Need A Little Time | 1:08 |
+| B1 | Western Arrivals | 1:35 |
+| B2 | The Slingshot | 1:16 |
+| B3 | 10broad36 | 0:32 |
+| B4 | The Way In | 0:32 |
+| B5 | Run Time | 0:30 |
+| B6 | Last Nerve | 0:57 |
+| B7 | Gordon Steals A Cabbage Patch | 2:32 |
+| B8 | The Cost Of Doing Business | 1:50 |
+| B9 | Joe's Truth | 2:03 |
+| B10 | Go Get The Bike | 1:24 |
+| B11 | The End Of Donna's Day | 1:04 |
+| B12 | It's Not Right | 1:23 |
+| B13 | MacMillan Utility | 1:51 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/halt-and-catch-fire-original-television-series-soundtrack/1141609067" >}}<br>
-
 
 
 
@@ -72,5 +78,5 @@ styles: ["Ambient", "Berlin-School", "Score"]
 | Format         | Vinyl LP Album Deluxe Edition Limited Edition (White) |
 | Label          | Fire Records |
 | Catalog Number | FROST001LP |
-| Notes | Deluxe, limited “Mutiny” edition pressed on white vinyl, with a die-cut outer slipcover, gatefold main sleeve, and printed “floppy disk” inner sleeve. Printed, jewelcase-sized credit sheet also included.  Catalogue number appears as FROST001LP on main sleeve spine. Catalogue number appears as FROST001LPX on outer slipcover spine.  Text from sleeve:  © 2016 Lakeshore Records LLC ℗ 2016 Lakeshore Records, Fire Records. © 2017 Lakeshore Records, Fire Records. Under license from Lakeshore Records. A Fire Soundtracks release. |
+| Notes | Deluxe, limited “Mutiny” edition pressed on white vinyl, with a die-cut outer slipcover, gatefold main sleeve, and printed “floppy disk” inner sleeve. Printed, jewelcase-sized credit sheet also included.<br><br>Catalogue number appears as FROST001LP on main sleeve spine.<br>Catalogue number appears as FROST001LPX on outer slipcover spine.<br><br>Text from sleeve:<br><br>© 2016 Lakeshore Records LLC<br>℗ 2016 Lakeshore Records, Fire Records. © 2017 Lakeshore Records, Fire Records.<br>Under license from Lakeshore Records. A Fire Soundtracks release. |
 | Discogs URL    | [Paul Haslinger - Halt And Catch Fire (Original Television Series Soundtrack)](https://www.discogs.com/release/10438416-Paul-Haslinger-Halt-And-Catch-Fire-Original-Television-Series-Soundtrack) |

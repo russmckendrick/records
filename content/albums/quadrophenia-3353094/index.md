@@ -34,52 +34,31 @@ Quadrophenia was released to a positive reception in both the UK and the US, but
 
 
 ## Tracklisting
-1. I Am The Sea
-2. The Real Me
-3. Quadrophenia
-4. Cut My Hair
-5. The Punk And The Godfather
-6. I'm One
-7. The Dirty Jobs
-8. Helpless Dancer
-9. Is It In My Head
-10. I've Had Enough
-11. 5.15
-12. Sea And Sand
-13. Drowned
-14. Bell Boy
-15. Doctor Jimmy
-16. The Rock
-17. Love Reign O'er Me
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Am The Sea |  |
+| A2 | The Real Me |  |
+| A3 | Quadrophenia |  |
+| A4 | Cut My Hair |  |
+| A5 | The Punk And The Godfather |  |
+| B1 | I'm One |  |
+| B2 | The Dirty Jobs |  |
+| B3 | Helpless Dancer |  |
+| B4 | Is It In My Head |  |
+| B5 | I've Had Enough |  |
+| C1 | 5.15 |  |
+| C2 | Sea And Sand |  |
+| C3 | Drowned |  |
+| C4 | Bell Boy |  |
+| D1 | Doctor Jimmy |  |
+| D2 | The Rock |  |
+| D3 | Love Reign O'er Me |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/quadrophenia-remastered/1442456941" >}}<br>
 
 
-## Videos
-### I Am The Sea
-{{< youtube id="x3mFeGP9umI" title="I Am The Sea" >}}<br>
-### More Videos
-
-- [The Real Me](https://www.youtube.com/watch?v=MuFQ--RYUxU)
-- [Quadrophenia](https://www.youtube.com/watch?v=_oRkeKVWayg)
-- [Cut My Hair](https://www.youtube.com/watch?v=JdPiy9Dn4JA)
-- [The Punk And The Godfather](https://www.youtube.com/watch?v=Sd0NfgtyL3s)
-- [Im One](https://www.youtube.com/watch?v=imi5UlhPIs0)
-- [The Dirty Jobs](https://www.youtube.com/watch?v=6Zo5OAr1p5Q)
-- [Helpless Dancer](https://www.youtube.com/watch?v=SQfAL9eyXMI)
-- [Is It In My Head](https://www.youtube.com/watch?v=pfSrowGc7ew)
-- [Ive Had Enough](https://www.youtube.com/watch?v=bcEmxC5f3Bk)
-- [515](https://www.youtube.com/watch?v=x_PkgTwOqHY)
-- [Sea And Sand](https://www.youtube.com/watch?v=rObg-I4IWYA)
-- [Drowned](https://www.youtube.com/watch?v=rKV-RQ7poG0)
-- [Bell Boy](https://www.youtube.com/watch?v=D7jt_b7qURg)
-- [Doctor Jimmy](https://www.youtube.com/watch?v=pjeHgGBfhZE)
-- [The Rock](https://www.youtube.com/watch?v=QB9Feedxkjk)
-- [Love Reign Oer Me](https://www.youtube.com/watch?v=DFPBa6CZ0pE)
-- [The Who - Helpless Dancer  1973](https://www.youtube.com/watch?v=-FVJcIM-v8M)
-- [The Who - Love Reign Oer Me  1973 vinyl](https://www.youtube.com/watch?v=TpBLzMQOQi8)
-- [The Who - I Am The Sea  The Real Meyerdenizplakcom İstanbul Kadıköy](https://www.youtube.com/watch?v=Z4ZEFyc66pw)
 
 ## Release Images
 {{< imageGrid >}}
@@ -91,5 +70,5 @@ Quadrophenia was released to a positive reception in both the UK and the US, but
 | Format         | Vinyl 2× LP Album Reissue Remastered Stereo (180g, Gatefold) |
 | Label          | Track Record |
 | Catalog Number | 2780504 |
-| Notes | Also repressed in 2015 with the same GZ media stampers. For the 2019 reissue cut at Abbey Road, please refer to [r=15106941]. The gatefold sleeve includes also a 44-page booklet.  Made in the E.U.  ℗© 1973 Polydor Ltd. UK.  Record 1 has the catalog number "2780505" on both labels. Record 2 has the catalog number "2780506" on both labels.  Text on back sleeve: This music is dedicated to the kids of Goldhawk Road, Carpenders Park, Forest Hill, Stevenage New Town and to all the people we played to at the Marquee and Brighton Aquarium in the summer of '65.  Recorded at The Kitchen in Thessally Road, Battersea, while building was still in progress. Ronnie Lane's Mobile Sound served as control room while ours was being finished. Mixed at Eel Pie Sound. Mastered, the Mastering Lab, Los Angeles.  Runouts are mostly stamped, "Ⓜ MILES" etched. |
+| Notes | Also repressed in 2015 with the same GZ media stampers.<br>For the 2019 reissue cut at Abbey Road, please refer to [r=15106941].<br>The gatefold sleeve includes also a 44-page booklet.<br><br>Made in the E.U.<br><br>℗© 1973 Polydor Ltd. UK.<br><br>Record 1 has the catalog number "2780505" on both labels.<br>Record 2 has the catalog number "2780506" on both labels.<br><br>Text on back sleeve:<br>This music is dedicated to the kids of Goldhawk Road, Carpenders Park, Forest Hill, Stevenage New Town and to all the people we played to at the Marquee and Brighton Aquarium in the summer of '65.<br><br>Recorded at The Kitchen in Thessally Road, Battersea, while building was still in progress.<br>Ronnie Lane's Mobile Sound served as control room while ours was being finished.<br>Mixed at Eel Pie Sound.<br>Mastered, the Mastering Lab, Los Angeles.<br><br>Runouts are mostly stamped, "Ⓜ MILES" etched. |
 | Discogs URL    | [The Who - Quadrophenia](https://www.discogs.com/release/3353094-The-Who-Quadrophenia) |

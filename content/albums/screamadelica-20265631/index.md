@@ -32,32 +32,25 @@ Screamadelica, featuring Manchester-born singer Denise Johnson, was the band's f
 
 
 ## Tracklisting
-1. Movin' On Up
-2. Slip Inside This House
-3. Don't Fight It, Feel It
-4. Higher Than The Sun
-5. Inner Flight
-6. Come Together
-7. Loaded
-8. Damaged
-9. I'm Comin' Down
-10. Higher Than The Sun (A Dub Symphony In Two Parts)
-11. Shine Like Stars
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Movin' On Up |  |
+| A2 | Slip Inside This House |  |
+| A3 | Don't Fight It, Feel It |  |
+| B1 | Higher Than The Sun |  |
+| B2 | Inner Flight |  |
+| B3 | Come Together |  |
+| C1 | Loaded |  |
+| C2 | Damaged |  |
+| C3 | I'm Comin' Down |  |
+| D1 | Higher Than The Sun (A Dub Symphony In Two Parts) |  |
+| D2 | Shine Like Stars |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/screamadelica/262848981" >}}<br>
 
 
-## Videos
-### Primal Scream - Movin on Up Official HD Video
-{{< youtube id="UVm3mJPn5tE" title="Primal Scream - Movin on Up Official HD Video" >}}<br>
-### More Videos
-
-- [Primal Scream - Come Together Official Video](https://www.youtube.com/watch?v=ZUjW82je_38)
-- [Primal Scream - Come Together Official HD Video](https://www.youtube.com/watch?v=nyylAvfyuBw)
-- [Primal Scream](https://www.youtube.com/watch?v=Za39Z5cLSww)
-- [Primal Scream - Screamadelica Live TV 1992](https://www.youtube.com/watch?v=_KtK01Ne22k)
-- [Primal Scream - Higher Than the Sun Official Video](https://www.youtube.com/watch?v=YHjVIBDYgXg)
 
 ## Release Images
 {{< imageGrid >}}

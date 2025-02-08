@@ -4,6 +4,7 @@ artist_name: "Various"
 artist: "various"
 album_name: "Metal Killers"
 date: 2017-07-11T08:45:32.000000Z
+release_date: ""
 release_id: "1916752"
 slug: "metal-killers-1916752"
 hideSummary: true
@@ -21,32 +22,31 @@ styles: ["Heavy Metal", "Hard Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Sabbath Bloody Sabbath
-2. Destroyer
-3. Rocka Rolla
-4. Rendezvous
-5. Out Of Phase
-6. Hottest Woman In Town
-7. Fast As A Shark
-8. Hair Of The Dog
-9. Boogie
-10. Stoking Up The Fires Of Hell
-11. Under The Blade
-12. Lepers Queue
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Sabbath Bloody Sabbath |  |
+| A2 | Destroyer |  |
+| A3 | Rocka Rolla |  |
+| A4 | Rendezvous |  |
+| A5 | Out Of Phase |  |
+| A6 | Hottest Woman In Town |  |
+| B1 | Fast As A Shark |  |
+| B2 | Hair Of The Dog |  |
+| B3 | Boogie |  |
+| B4 | Stoking Up The Fires Of Hell |  |
+| B5 | Under The Blade |  |
+| B6 | Lepers Queue |  |
 
 
-## Spotify
-{{< spotify type="album" id="5ZF0RLfxFOTncpd4Q6YM0H" width="100%" height="500" >}}<br>
+## Apple Music
+{{< applemusic url="" >}}<br>
 
 
-## Videos
-### Accept - Fast As A Shark
-{{< youtube id="tTeXBTStek0" title="Accept - Fast As A Shark" >}}<br>
-### More Videos
-
-- [Accept - Fast As A Shark](https://www.youtube.com/watch?v=tTeXBTStek0)
 
 ## Release Images
 {{< imageGrid >}}
@@ -57,5 +57,5 @@ styles: ["Heavy Metal", "Hard Rock"]
 | Format         | Vinyl LP Compilation Stereo |
 | Label          | Kastle Killers |
 | Catalog Number | KKLP 101 |
-| Notes | Courtesy of Heavy Metal Records (Track B1)  |
+| Notes | Courtesy of Heavy Metal Records (Track B1)<br> |
 | Discogs URL    | [Various - Metal Killers](https://www.discogs.com/release/1916752-Various-Metal-Killers) |

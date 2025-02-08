@@ -4,6 +4,7 @@ artist_name: "Roger Waters"
 artist: "roger-waters"
 album_name: "The Wall (Live In Berlin)"
 date: 2020-09-29T12:06:08.000000Z
+release_date: "1990-08"
 release_id: "15928391"
 slug: "the-wall-live-in-berlin-15928391"
 hideSummary: true
@@ -35,47 +36,47 @@ styles: ["Pop Rock", "Classic Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Part One
-2. In The Flesh?
-3. The Thin Ice
-4. Another Brick In The Wall (Part 1)
-5. The Happiest Days Of Our Lives
-6. Another Brick In The Wall (Part 2)
-7. Mother
-8. Goodbye Blue Sky
-9. Empty Spaces
-10. Young Lust
-11. Oh My God - What A Fabulous Room / One Of My Turns
-12. Don't Leave Me Now
-13. Another Brick In The Wall (Part 3)
-14. Goodbye Cruel World
-15. Part Two
-16. Hey You
-17. Is There Anybody Out There?
-18. Nobody Home
-19. Vera
-20. Bring The Boys Back Home
-21. Comfortably Numb
-22. In The Flesh
-23. Run Like Hell
-24. Waiting For The Worms
-25. Stop
-26. The Trial
-27. Encore
-28. The Tide Is Turning
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Part One |  |
+| A1 | In The Flesh? |  |
+| A2 | The Thin Ice |  |
+| A3 | Another Brick In The Wall (Part 1) |  |
+| A4 | The Happiest Days Of Our Lives |  |
+| A5 | Another Brick In The Wall (Part 2) |  |
+| A6 | Mother |  |
+| B1 | Goodbye Blue Sky |  |
+| B2 | Empty Spaces |  |
+| B3 | Young Lust |  |
+|  | Oh My God - What A Fabulous Room / One Of My Turns |  |
+| B5 | Don't Leave Me Now |  |
+| B6 | Another Brick In The Wall (Part 3) |  |
+| B7 | Goodbye Cruel World |  |
+|  | Part Two |  |
+| C1 | Hey You |  |
+| C2 | Is There Anybody Out There? |  |
+| C3 | Nobody Home |  |
+| C4 | Vera |  |
+| C5 | Bring The Boys Back Home |  |
+| C6 | Comfortably Numb |  |
+| D1 | In The Flesh |  |
+| D2 | Run Like Hell |  |
+| D3 | Waiting For The Worms |  |
+| D4 | Stop |  |
+| D5 | The Trial |  |
+|  | Encore |  |
+| D6 | The Tide Is Turning |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-wall-live-in-berlin/1440781291" >}}<br>
 
 
-## Videos
-### Roger Waters Pink Floyd The Wall Live In Berlin 1990   Another Brick In The Wall Feat  Cyndi Lauper
-{{< youtube id="txP_MDECJDQ" title="Roger Waters Pink Floyd The Wall Live In Berlin 1990   Another Brick In The Wall Feat  Cyndi Lauper" >}}<br>
-### More Videos
-
-- [Hey You - Roger Waters Live In Berlin 1990](https://www.youtube.com/watch?v=nr2kPDhIkHY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -86,5 +87,5 @@ styles: ["Pop Rock", "Classic Rock", "Prog Rock"]
 | Format         | Vinyl 2× LP Album Record Store Day Limited Edition Reissue Stereo (Clear, 180 gram, 30th Anniversary Edition) |
 | Label          | UMC |
 | Catalog Number | 0602508538506 |
-| Notes | Record Store Day - RSD Drops Sep 26th 2020 Quantity: 8.000 copies Gatefold cover with records housed in printed inner sleeves. Includes a download card.  Global, worldwide release.  Some copies do not have a hype sticker. Some copies did not include a download card.  Title on the spine: The Wall - Live In Berlin 1990  Back cover: Roger Waters : The Wall Saturday 21st July 1990  Made in the EU.  Label rim text: Made In The EU.  Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”). For example, the following have been entered as mirrored: Variant 2: side A: "1II"; side B: "1△"; side C: "4I="; side D: "1IV" and in variant 3: side A: "1△". |
+| Notes | Record Store Day - RSD Drops Sep 26th 2020<br>Quantity: 8.000 copies<br>Gatefold cover with records housed in printed inner sleeves.<br>Includes a download card.<br><br>Global, worldwide release.<br><br>Some copies do not have a hype sticker. Some copies did not include a download card.<br><br>Title on the spine:<br>The Wall - Live In Berlin 1990<br><br>Back cover:<br>Roger Waters : The Wall<br>Saturday 21st July 1990<br><br>Made in the EU.<br><br>Label rim text:<br>Made In The EU.<br><br>Runouts are etched. In runouts, all Optimal plating symbols may be inverted (e.g., “⊥” vs “T”) and/or mirrored (e.g., “1△” vs “△↾”). For example, the following have been entered as mirrored: Variant 2: side A: "1II"; side B: "1△"; side C: "4I="; side D: "1IV" and in variant 3: side A: "1△". |
 | Discogs URL    | [Roger Waters - The Wall (Live In Berlin)](https://www.discogs.com/release/15928391-Roger-Waters-The-Wall-Live-In-Berlin) |

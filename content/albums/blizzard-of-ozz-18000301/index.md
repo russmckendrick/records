@@ -33,33 +33,23 @@ This hefty anthology charts the sinister evolution of heavy metal’s dark princ
 
 
 ## Tracklisting
-1. I Don't Know (5:14)
-2. Crazy Train (4:50)
-3. Goodbye To Romance (5:33)
-4. Dee (0:49)
-5. Suicide Solution (4:17)
-6. Mr. Crowley (5:02)
-7. No Bone Movies (3:53)
-8. Revelation (Mother Earth) (6:10)
-9. Steal Away (The Night) (3:27)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | I Don't Know | 5:14 |
+| A2 | Crazy Train | 4:50 |
+| A3 | Goodbye To Romance | 5:33 |
+| A4 | Dee | 0:49 |
+| A5 | Suicide Solution | 4:17 |
+| B1 | Mr. Crowley | 5:02 |
+| B2 | No Bone Movies | 3:53 |
+| B3 | Revelation (Mother Earth) | 6:10 |
+| B4 | Steal Away (The Night) | 3:27 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-essential-ozzy-osbourne/1490649767" >}}<br>
 
 
-## Videos
-### Mr Crowley
-{{< youtube id="o0RE230PlX4" title="Mr Crowley" >}}<br>
-### More Videos
-
-- [OZZY OSBOURNE - Crazy Train Official Video](https://www.youtube.com/watch?v=FVovq9TGBw0)
-- [I Dont Know](https://www.youtube.com/watch?v=JNm6bucMPmY)
-- [Goodbye to Romance](https://www.youtube.com/watch?v=pnhTPeKijdQ)
-- [Dee](https://www.youtube.com/watch?v=J9BQRMBjUOY)
-- [Suicide Solution](https://www.youtube.com/watch?v=yVSmiDJB-PI)
-- [No Bone Movies](https://www.youtube.com/watch?v=0TEsq4ZvoyY)
-- [Revelation Mother Earth](https://www.youtube.com/watch?v=meCb_LfzRhE)
-- [Steal Away The Night](https://www.youtube.com/watch?v=lBWuLyIqUGQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +61,5 @@ This hefty anthology charts the sinister evolution of heavy metal’s dark princ
 | Format         | Vinyl LP Album Reissue Stereo (Silver With Red Swirls) |
 | Label          | Epic |
 | Catalog Number | 19439812511 |
-| Notes | Includes printed inner sleeve containing lyrics, publishing information, and words/music by information. Track A4 is an instrumental.  Rear sleeve & labels: ℗ 1981 © 1980, 2021 Epic Records, a division of Sony Music Entertainment UK Limited.  Rear sleeve: Recorded March 22 - April 19, 1980 Mixed May 5 - 20, 1980 Mastered by [...] at Sterling Sound, New York Made in the EU.  Inner sleeve: A1, A2, B1, B3 - © 1980 Blizzard Music Ltd. / Kord Music. Used by permission. A3 - TRO-© Copyright 1981 & 1984 Essex Music International, Inc., New York / Kord Music. Used by permission. A4 - TRO-© Copyright 1981 & 1985 Essex Music International, Inc., New York. Used by permission. A5 - TRO-© Copyright 1981 Essex Music International, Inc., New York / Kord Music. Used by permission. B2, B4 - TRO-© Copyright 1981 & 1986 Essex Music International, Inc., New York / Kord Music. Used by permission. © 1980, 2021 Epic Records, a division of Sony Music Entertainment UK Limited.  Runout information: "19075877321-A/B RE1 RKS" is etched, "184143E1/2/A2 STERLING" is stamped. |
+| Notes | Includes printed inner sleeve containing lyrics, publishing information, and words/music by information.<br>Track A4 is an instrumental.<br><br>Rear sleeve & labels:<br>℗ 1981 © 1980, 2021 Epic Records, a division of Sony Music Entertainment UK Limited.<br><br>Rear sleeve:<br>Recorded March 22 - April 19, 1980<br>Mixed May 5 - 20, 1980<br>Mastered by [...] at Sterling Sound, New York<br>Made in the EU.<br><br>Inner sleeve:<br>A1, A2, B1, B3 - © 1980 Blizzard Music Ltd. / Kord Music. Used by permission.<br>A3 - TRO-© Copyright 1981 & 1984 Essex Music International, Inc., New York / Kord Music. Used by permission.<br>A4 - TRO-© Copyright 1981 & 1985 Essex Music International, Inc., New York. Used by permission.<br>A5 - TRO-© Copyright 1981 Essex Music International, Inc., New York / Kord Music. Used by permission.<br>B2, B4 - TRO-© Copyright 1981 & 1986 Essex Music International, Inc., New York / Kord Music. Used by permission.<br>© 1980, 2021 Epic Records, a division of Sony Music Entertainment UK Limited.<br><br>Runout information:<br>"19075877321-A/B RE1 RKS" is etched, "184143E1/2/A2 STERLING" is stamped. |
 | Discogs URL    | [Ozzy Osbourne - Blizzard Of Ozz](https://www.discogs.com/release/18000301-Ozzy-Osbourne-Blizzard-Of-Ozz) |

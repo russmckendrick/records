@@ -1,6 +1,6 @@
 ---
-title: "Guns N' Roses - Use Your Illusion I"
-artist_name: "Guns N' Roses"
+title: "Guns N Roses - Use Your Illusion I"
+artist_name: "Guns N Roses"
 artist: "guns-n-roses"
 album_name: "Use Your Illusion I"
 date: 2016-06-21T16:39:10.000000Z
@@ -10,8 +10,8 @@ slug: "use-your-illusion-i-1544883"
 hideSummary: true
 cover:
     image: "use-your-illusion-i-1544883.jpg"
-    alt: "Use Your Illusion I by Guns N' Roses"
-    caption: "Use Your Illusion I by Guns N' Roses"
+    alt: "Use Your Illusion I by Guns N Roses"
+    caption: "Use Your Illusion I by Guns N Roses"
 additional_images:
     - "https://i.discogs.com/WVxYegK_Hh7s31oqFgmuI5OZBpQKRBB6jkeKySAaad4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQ4/ODMtMTQ4MjQ0MjQw/NC03ODMxLmpwZWc.jpeg"
     - "https://i.discogs.com/q68xNKp_7-W8uf3KFJaa12gnfChsx_UcuwSB_gIPDg0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQ4/ODMtMTQ4MjQ0MjQw/NS0yMzAzLmpwZWc.jpeg"
@@ -39,52 +39,30 @@ Both of its volumes seeing release on the same day, <I>Use Your Illusion</I> cam
 
 
 ## Tracklisting
-1. Right Next Door To Hell (2:58)
-2. Dust N' Bones (4:55)
-3. Live And Let Die (2:59)
-4. Don't Cry (Original) (4:42)
-5. Perfect Crime (2:24)
-6. You Ain't The First (2:32)
-7. Bad Obsession (5:26)
-8. Back Off Bitch (5:01)
-9. Double Talkin' Jive (3:19)
-10. November Rain (8:53)
-11. The Garden (5:17)
-12. Garden Of Eden (2:36)
-13. Don't Damn Me (5:15)
-14. Bad Apples (4:25)
-15. Dead Horse (4:17)
-16. Coma (10:08)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Right Next Door To Hell | 2:58 |
+| A2 | Dust N' Bones | 4:55 |
+| A3 | Live And Let Die | 2:59 |
+| A4 | Don't Cry (Original) | 4:42 |
+| A5 | Perfect Crime | 2:24 |
+| B1 | You Ain't The First | 2:32 |
+| B2 | Bad Obsession | 5:26 |
+| B3 | Back Off Bitch | 5:01 |
+| B4 | Double Talkin' Jive | 3:19 |
+| C1 | November Rain | 8:53 |
+| C2 | The Garden | 5:17 |
+| C3 | Garden Of Eden | 2:36 |
+| C4 | Don't Damn Me | 5:15 |
+| D1 | Bad Apples | 4:25 |
+| D2 | Dead Horse | 4:17 |
+| D3 | Coma | 10:08 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/use-your-illusion-i/1440896026" >}}<br>
 
 
-## Videos
-### Gun N Roses Use Your Illusion I Full Album
-{{< youtube id="kSjveVqSr80" title="Gun N Roses Use Your Illusion I Full Album" >}}<br>
-### More Videos
-
-- [Double Talkin Jive](https://www.youtube.com/watch?v=wOKGJDuc6dE)
-- [Guns N Roses - Dont Damn Me Visualizer](https://www.youtube.com/watch?v=_EOrZ5JMgfk)
-- [Guns and Roses - The Garden - Hi Res Vinyl Remaster](https://www.youtube.com/watch?v=T3ZPUTXrnL0)
-- [Guns N Roses - Coma Visualizer](https://www.youtube.com/watch?v=vyV6Lw6t-O4)
-- [Guns N Roses - Use Your Illusion I  II Cassette 1991](https://www.youtube.com/watch?v=4DXsp_nBjA8)
-- [Guns N Roses - Use Your Illusion 1 Full Album HD](https://www.youtube.com/watch?v=Xl8LLQx8phc)
-- [Guns N Roses - Dont Cry Alt Version Official Music Video](https://www.youtube.com/watch?v=PRmMPVyNwsg)
-- [Guns N Roses  Double Talkin Jive](https://www.youtube.com/watch?v=wvH_T_x_A1I)
-- [Guns N Roses  November Rain](https://www.youtube.com/watch?v=w9ay_aWNRhc)
-- [Guns N Roses  Coma](https://www.youtube.com/watch?v=zLpspOO-hQE)
-- [Guns N Roses  Live And Let Die](https://www.youtube.com/watch?v=YC8oe-wUwbs)
-- [Guns N Roses  Perfect Crime](https://www.youtube.com/watch?v=y7amQcZB-4s)
-- [Guns N Roses  Dead Horse](https://www.youtube.com/watch?v=r2OdwUApPPI)
-- [Guns N Roses  Bad Apples](https://www.youtube.com/watch?v=0JIbaqIVR8o)
-- [Guns N Roses feat Alice Cooper  The Garden](https://www.youtube.com/watch?v=bhMDfHY5gGs)
-- [Guns N Roses  Back Off Bitch](https://www.youtube.com/watch?v=CE95ZTTu0yk)
-- [Guns N Roses  Dont Cry](https://www.youtube.com/watch?v=XQbEdSqfD2A)
-- [Guns N Roses  Dust N Bones](https://www.youtube.com/watch?v=eHUKLXHwfjw)
-- [Guns N Roses  Right Next Door To Hell](https://www.youtube.com/watch?v=vhoFZC_DE48)
-- [Guns N Roses  Bad Obsession](https://www.youtube.com/watch?v=lVvnIddk_gQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -96,5 +74,5 @@ Both of its volumes seeing release on the same day, <I>Use Your Illusion</I> cam
 | Format         | Vinyl 2× LP Album Reissue Remastered (180 Gram) |
 | Label          | Geffen Records |
 | Catalog Number | 0720642441510 |
-| Notes | Includes A Voucher To Download MP3 version Of The Album and generally identified with a "Back To Black" logo sticker on shrink-wrap. 180 Gram Vinyl Remastered  |
-| Discogs URL    | [Guns N' Roses - Use Your Illusion I](https://www.discogs.com/release/1544883-Guns-N-Roses-Use-Your-Illusion-I) |
+| Notes | Includes A Voucher To Download MP3 version Of The Album and generally identified with a "Back To Black" logo sticker on shrink-wrap. 180 Gram Vinyl Remastered<br> |
+| Discogs URL    | [Guns N Roses - Use Your Illusion I](https://www.discogs.com/release/1544883-Guns-N-Roses-Use-Your-Illusion-I) |

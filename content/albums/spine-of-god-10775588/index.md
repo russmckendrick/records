@@ -4,6 +4,7 @@ artist_name: "Monster Magnet"
 artist: "monster-magnet"
 album_name: "Spine Of God"
 date: 2017-09-06T18:44:42.000000Z
+release_date: "1991-12-06"
 release_id: "10775588"
 slug: "spine-of-god-10775588"
 hideSummary: true
@@ -24,42 +25,30 @@ styles: ["Hard Rock", "Psychedelic Rock", "Space Rock", "Heavy Metal"]
 ---
 
 Spine of God is the debut studio album by American rock band Monster Magnet, released in Europe in 1991 and in the United States the following year. The album represents one of the earliest examples of the emerging 1990s sub-genre of stoner rock. Spine of God did not perform well commercially upon its initial release, but was praised by critics and would later be considered a major influence on stoner rock bands. The song "Medicine" was released as a single with accompanying music video.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Pill Shovel
-2. Medicine
-3. Nod Scene
-4. Black Mastermind
-5. Zodiac Lung
-6. Spine Of God
-7. Snake Dance
-8. Sin's A Good Man's Brother
-9. Ozium
-10. Ozium (Demo)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Pill Shovel |  |
+| A2 | Medicine |  |
+| A3 | Nod Scene |  |
+| A4 | Black Mastermind |  |
+| A5 | Zodiac Lung |  |
+| B1 | Spine Of God |  |
+| B2 | Snake Dance |  |
+| B3 | Sin's A Good Man's Brother |  |
+| B4 | Ozium |  |
+| B5 | Ozium (Demo) |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/spine-of-god/1246231213" >}}<br>
 
 
-## Videos
-### Monster Magnet - Spine Of God Full Album
-{{< youtube id="4_HKgOWG3qE" title="Monster Magnet - Spine Of God Full Album" >}}<br>
-### More Videos
-
-- [Monster Magnet - Spine Of God](https://www.youtube.com/watch?v=qYrxylWs_Us)
-- [Monster Magnet - Spine Of God](https://www.youtube.com/watch?v=Ltim-KfbZjk)
-- [Pill Shovel - Monster Magnet](https://www.youtube.com/watch?v=MEYkQfzeoG8)
-- [Monster Magnet - Pill Shovel](https://www.youtube.com/watch?v=MmAOFrIQtko)
-- [Monster Magnet - Medicine](https://www.youtube.com/watch?v=WurT2piQyjk)
-- [Monster Magnet - Nod Scene](https://www.youtube.com/watch?v=pc9LlSsg1_Q)
-- [Monster Magnet - Black Mastermind](https://www.youtube.com/watch?v=vGe_xUng7pg)
-- [Monster Magnet - Snake Dance](https://www.youtube.com/watch?v=OCOIprVzWvI)
-- [Monster Magnet - Sins a Good Mans Brother](https://www.youtube.com/watch?v=ijP3XGafm6E)
-- [Monster Magnet - Ozium](https://www.youtube.com/watch?v=fw528SJK2YU)
-- [Monster Magnet  -  Zodiac Lung w lyrics](https://www.youtube.com/watch?v=jP6Sm2s3nYM)
 
 ## Release Images
 {{< imageGrid >}}
@@ -71,5 +60,5 @@ Spine of God is the debut studio album by American rock band Monster Magnet, rel
 | Format         | Vinyl LP Album Limited Edition Reissue (Gatefold) |
 | Label          | Napalm Records |
 | Catalog Number | NPR 744 VINYL |
-| Notes | Released on 180g vinyl in gatefold jacket. Made in Germany  © + ℗ 2017 Napalm Records Handels GmbH Strictly Limited Edition  There are also releases on [url=https://www.discogs.com/release/10782664]gold vinyl[/url] and [url=https://www.discogs.com/release/10784591]yellow vinyl[/url].  |
+| Notes | Released on 180g vinyl in gatefold jacket.<br>Made in Germany<br><br>© + ℗ 2017 Napalm Records Handels GmbH<br>Strictly Limited Edition<br><br>There are also releases on [url=https://www.discogs.com/release/10782664]gold vinyl[/url] and [url=https://www.discogs.com/release/10784591]yellow vinyl[/url].<br> |
 | Discogs URL    | [Monster Magnet - Spine Of God](https://www.discogs.com/release/10775588-Monster-Magnet-Spine-Of-God) |

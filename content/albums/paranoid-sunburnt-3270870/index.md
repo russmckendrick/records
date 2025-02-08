@@ -4,6 +4,7 @@ artist_name: "Skunk Anansie"
 artist: "skunk-anansie"
 album_name: "Paranoid & Sunburnt"
 date: 2018-08-29T18:40:03.000000Z
+release_date: "1995"
 release_id: "3270870"
 slug: "paranoid-sunburnt-3270870"
 hideSummary: true
@@ -19,38 +20,30 @@ styles: ["Alternative Rock", "Funk Metal"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Selling Jesus
-2. Intellectualise My Blackness
-3. I Can Dream
-4. Little Baby Swastikkka
-5. All In The Name Of Pity
-6. Charity
-7. It Takes Blood & Guts To Be This Cool But I´m Still Just A Cliche
-8. Weak
-9. And Here I Stand
-10. 100 Ways To Be A Good Girl
-11. Rise Up
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Selling Jesus |  |
+| A2 | Intellectualise My Blackness |  |
+| A3 | I Can Dream |  |
+| B1 | Little Baby Swastikkka |  |
+| B2 | All In The Name Of Pity |  |
+| B3 | Charity |  |
+| C1 | It Takes Blood & Guts To Be This Cool But I´m Still Just A Cliche |  |
+| C2 | Weak |  |
+| C3 | And Here I Stand |  |
+| D1 | 100 Ways To Be A Good Girl |  |
+| D2 | Rise Up |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/paranoid-sunburnt/1726649156" >}}<br>
 
 
-## Videos
-### Skunk Anansie - Intellectualise my blackness
-{{< youtube id="W-UPYJ7ugBM" title="Skunk Anansie - Intellectualise my blackness" >}}<br>
-### More Videos
-
-- [Skunk Anansie - I Can Dream](https://www.youtube.com/watch?v=1YaM-2T4yzM)
-- [Skunk Anansie - Little Baby Swastikka](https://www.youtube.com/watch?v=aBINfmb7tWE)
-- [Skunk Anansie - And Here I Stand](https://www.youtube.com/watch?v=ASUvc3MCXSE)
-- [Skunk Anansie - All in the name of pity](https://www.youtube.com/watch?v=AWEpDROevaA)
-- [Skunk Anansie - Charity](https://www.youtube.com/watch?v=qQ7ZeSU8ZXM)
-- [Skunk Anansie - It takes blood and guts to be this cool but i m still just a cliche](https://www.youtube.com/watch?v=Mnv19g5NQW8)
-- [Skunk Anansie - Weak](https://www.youtube.com/watch?v=nPglNjxVHiM)
-- [Skunk Anansie  I Can Dream](https://www.youtube.com/watch?v=6bD4IanUhYs)
-- [Skunk Anansie - Selling Jesus](https://www.youtube.com/watch?v=pRH807Zg8MQ)
 
 ## Release Images
 {{< imageGrid >}}
@@ -61,5 +54,5 @@ styles: ["Alternative Rock", "Funk Metal"]
 | Format         | Vinyl 2× LP 45 RPM Limited Edition Numbered Reissue Remastered (200 Gram) |
 | Label          | One Little Indian |
 | Catalog Number | TPLP55DMM |
-| Notes | Huge round sticker on front that states the following:  One Little Indian Reissue Series: using the most advanced technology in vinyl manufacturing - Direct Metal Mastering. The groove is cut directly in copper metal, Transient response is greatly improved. DMM yields better detail resolution and a lower noise ratio. Remastered direct from then original master tapes and pressed on heavy weight 200g vinyl audiophile discs. Limited edition and numbered in the most lavish vinyl format available.  All original artwork used, may not represent new side splits. |
+| Notes | Huge round sticker on front that states the following:<br>One Little Indian Reissue Series: using the most advanced technology in vinyl manufacturing - Direct Metal Mastering. The groove is cut directly in copper metal, Transient response is greatly improved. DMM yields better detail resolution and a lower noise ratio. Remastered direct from then original master tapes and pressed on heavy weight 200g vinyl audiophile discs. Limited edition and numbered in the most lavish vinyl format available.<br>All original artwork used, may not represent new side splits. |
 | Discogs URL    | [Skunk Anansie - Paranoid & Sunburnt](https://www.discogs.com/release/3270870-Skunk-Anansie-Paranoid-Sunburnt) |

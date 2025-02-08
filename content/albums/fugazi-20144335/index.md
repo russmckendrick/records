@@ -4,6 +4,7 @@ artist_name: "Marillion"
 artist: "marillion"
 album_name: "Fugazi"
 date: 2021-09-10T13:45:58.000000Z
+release_date: "2021-09-10"
 release_id: "20144335"
 slug: "fugazi-20144335"
 hideSummary: true
@@ -42,40 +43,43 @@ Fugazi is the second studio album by the British neo-prog band Marillion, releas
 The album is titled after a military slang term well known at the time of release. According to AllMusic, the album "streamlined the intricacies of the group's prog rock leanings in favour of a more straight-ahead hard rock identity". Built upon the success of its predecessor, Script for a Jester's Tear, Fugazi reached the UK top five and was certified Gold.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Record 1 - Fugazi (2021 Remix)
-2. Assassing (7:01)
-3. Punch And Judy (3:22)
-4. Jigsaw (6:49)
-5. Emerald Lies (5:08)
-6. She Chameleon (6:53)
-7. Incubus (8:30)
-8. Fugazi (8:02)
-9. Record 2 - Live At The Spectrum, Montreal, Canada 20th June 1984 (Part 1)
-10. Assassing (7:28)
-11. Punch And Judy (4:03)
-12. Jigsaw (6:34)
-13. Script For A Jester's Tear (9:00)
-14. Chelsea Monday (8:15)
-15. Record 3 - Live At The Spectrum, Montreal, Canada 20th June 1984 (Part 2)
-16. Emerald Lies (5:21)
-17. Cinderella Search (5:47)
-18. Incubus (9:00)
-19. Charting The Single (7:02)
-20. He Knows, You Know (5:56)
-21. Record 4 - Live At The Spectrum, Montreal, Canada 20th June 1984 (Part 3)
-22. Fugazi (9:11)
-23. Forgotten Sons (11:03)
-24. Garden Party (6:35)
-25. Market Square Heroes (10:46)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Record 1 - Fugazi (2021 Remix) |  |
+| A1 | Assassing | 7:01 |
+| A2 | Punch And Judy | 3:22 |
+| A3 | Jigsaw | 6:49 |
+| A4 | Emerald Lies | 5:08 |
+| B1 | She Chameleon | 6:53 |
+| B2 | Incubus | 8:30 |
+| B3 | Fugazi | 8:02 |
+|  | Record 2 - Live At The Spectrum, Montreal, Canada 20th June 1984 (Part 1) |  |
+| C1 | Assassing | 7:28 |
+| C2 | Punch And Judy | 4:03 |
+| C3 | Jigsaw | 6:34 |
+| D1 | Script For A Jester's Tear | 9:00 |
+| D2 | Chelsea Monday | 8:15 |
+|  | Record 3 - Live At The Spectrum, Montreal, Canada 20th June 1984 (Part 2) |  |
+| E1 | Emerald Lies | 5:21 |
+| E2 | Cinderella Search | 5:47 |
+| E3 | Incubus | 9:00 |
+| F1 | Charting The Single | 7:02 |
+| F2 | He Knows, You Know | 5:56 |
+|  | Record 4 - Live At The Spectrum, Montreal, Canada 20th June 1984 (Part 3) |  |
+| G1 | Fugazi | 9:11 |
+| G2 | Forgotten Sons | 11:03 |
+| H1 | Garden Party | 6:35 |
+| H2 | Market Square Heroes | 10:46 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/fugazi-2021-stereo-remix/1577601656" >}}<br>
-
 
 
 
@@ -89,5 +93,5 @@ The album is titled after a military slang term well known at the time of releas
 | Format         | Box Set Deluxe Edition Limited Edition, Vinyl LP Album Reissue Stereo (remixed), Vinyl 3× LP Stereo |
 | Label          | Parlophone |
 | Catalog Number | 0190295016463 |
-| Notes | Signed Fugazi print (signed by Steve Rothery, Pete Trewavas, Mark Kelly & Ian Mosley) if pre-ordered from Marillion's website. Signed by Fish when pre-ordered at Fish webshop  Ⓟ 2021 this compilation Parlophone Records Ltd.  Ⓒ 2021 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved.  Ⓒ 2021 Parlophone Records Ltd. A Warner Music Group Company. Made in Germany  |
+| Notes | Signed Fugazi print (signed by Steve Rothery, Pete Trewavas, Mark Kelly & Ian Mosley) if pre-ordered from Marillion's website.<br>Signed by Fish when pre-ordered at Fish webshop<br><br>Ⓟ 2021 this compilation Parlophone Records Ltd. <br>Ⓒ 2021 Parlophone Records Ltd. This label copy information is the subject of copyrights protection. All rights reserved. <br>Ⓒ 2021 Parlophone Records Ltd. A Warner Music Group Company.<br>Made in Germany<br> |
 | Discogs URL    | [Marillion - Fugazi](https://www.discogs.com/release/20144335-Marillion-Fugazi) |

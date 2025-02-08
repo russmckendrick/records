@@ -4,6 +4,7 @@ artist_name: "Pure Reason Revolution"
 artist: "pure-reason-revolution"
 album_name: "Above Cirrus"
 date: 2022-05-10T09:16:22.000000Z
+release_date: "2022-05-06"
 release_id: "23119040"
 slug: "above-cirrus-23119040"
 hideSummary: true
@@ -29,34 +30,33 @@ styles: ["Alternative Rock", "Prog Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Our Prism
-2. New Kind Of Evil
-3. Phantoms
-4. Cruel Deliverance
-5. Scream Sideways
-6. Dead Butterfly
-7. Lucid
-8. Our Prism (3:34)
-9. New Kind Of Evil (8:32)
-10. Phantoms (3:51)
-11. Cruel Deliverance (5:55)
-12. Scream Sideways (10:09)
-13. Dead Butterfly (7:09)
-14. Lucid (6:49)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Our Prism |  |
+| A2 | New Kind Of Evil |  |
+| A3 | Phantoms |  |
+| A4 | Cruel Deliverance |  |
+| B5 | Scream Sideways |  |
+| B6 | Dead Butterfly |  |
+| B7 | Lucid |  |
+| CD-1 | Our Prism | 3:34 |
+| CD-2 | New Kind Of Evil | 8:32 |
+| CD-3 | Phantoms | 3:51 |
+| CD-4 | Cruel Deliverance | 5:55 |
+| CD-5 | Scream Sideways | 10:09 |
+| CD-6 | Dead Butterfly | 7:09 |
+| CD-7 | Lucid | 6:49 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/above-cirrus/1609674107" >}}<br>
 
 
-## Videos
-### Our Prism
-{{< youtube id="lJJ2vUfY5ps" title="Our Prism" >}}<br>
-### More Videos
-
-- [Scream Sideways](https://www.youtube.com/watch?v=DMZuXRR4Mzw)
-- [Lucid](https://www.youtube.com/watch?v=usmXukkRXRI)
 
 ## Release Images
 {{< imageGrid >}}
@@ -67,5 +67,5 @@ styles: ["Alternative Rock", "Prog Rock"]
 | Format         | Vinyl LP Album (Green [Light], 180g), CD Album, All Media Limited Edition |
 | Label          | Inside Out Music |
 | Catalog Number | IOM628 |
-| Notes | Inside Out store exclusive release. Limited to 300 copies worldwide. Gatefold release. CD housed in a transparent sleeve and lyric sheet included. Some copies including a signed postcard.  LPs tracks positions given sequentially reardless of sides on back.  Track times taken from mediaplayer on PC.  Hype sticker: Gatefold 180g LP + CD Pure Reason Revolution return with seven songs of cinematic, psych-prog wonder. |
+| Notes | Inside Out store exclusive release. Limited to 300 copies worldwide.<br>Gatefold release. CD housed in a transparent sleeve and lyric sheet included.<br>Some copies including a signed postcard.<br><br>LPs tracks positions given sequentially reardless of sides on back.<br><br>Track times taken from mediaplayer on PC.<br><br>Hype sticker:<br>Gatefold 180g LP + CD<br>Pure Reason Revolution<br>return with seven<br>songs of cinematic,<br>psych-prog wonder. |
 | Discogs URL    | [Pure Reason Revolution - Above Cirrus](https://www.discogs.com/release/23119040-Pure-Reason-Revolution-Above-Cirrus) |

@@ -4,6 +4,7 @@ artist_name: "Julian Cope"
 artist: "julian-cope"
 album_name: "Saint Julian"
 date: 2018-04-14T18:08:56.000000Z
+release_date: "1987-03"
 release_id: "11858948"
 slug: "saint-julian-11858948"
 hideSummary: true
@@ -18,39 +19,30 @@ styles: ["Alternative Rock", "Pop Rock"]
 ---
 
 Saint Julian is the third solo album by Julian Cope. It has a very strong pop sound, compared to other Cope releases, and spawned several of his best known tracks (including "World Shut Your Mouth" and "Trampolene", which were both hit singles).
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Trampolene (3:35)
-2. Shot Down (3:59)
-3. Eve's Volcano (Covered In Sin) (4:16)
-4. Spacehopper (3:20)
-5. Planet Ride (5:42)
-6. World Shut Your Mouth (3:33)
-7. Saint Julian (3:06)
-8. Pulsar (2:46)
-9. Screaming Secrets (3:27)
-10. A Crack In The Clouds (7:59)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Trampolene | 3:35 |
+| A2 | Shot Down | 3:59 |
+| A3 | Eve's Volcano (Covered In Sin) | 4:16 |
+| A4 | Spacehopper | 3:20 |
+| A5 | Planet Ride | 5:42 |
+| B1 | World Shut Your Mouth | 3:33 |
+| B2 | Saint Julian | 3:06 |
+| B3 | Pulsar | 2:46 |
+| B4 | Screaming Secrets | 3:27 |
+| B5 | A Crack In The Clouds | 7:59 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/saint-julian/1444114691" >}}<br>
 
 
-## Videos
-### Julian Cope - World shut your mouth
-{{< youtube id="2UJbz-pp6GQ" title="Julian Cope - World shut your mouth" >}}<br>
-### More Videos
-
-- [Saint Julian Julian Cope](https://www.youtube.com/watch?v=-_Si1CapfiY)
-- [Julian Cope -  A Crack In The Clouds](https://www.youtube.com/watch?v=jQHxcafCFu8)
-- [Julian Cope - Saint Julian](https://www.youtube.com/watch?v=LWESpsMNv_E)
-- [Shot Down](https://www.youtube.com/watch?v=_Y33pdrH42w)
-- [Julian Cope_ Spacehopper Annexe](https://www.youtube.com/watch?v=oZDZd7HJCAw)
-- [Trampolene](https://www.youtube.com/watch?v=nSiA4Hm7gPc)
-- [Saint Julian Julian Cope](https://www.youtube.com/watch?v=-_Si1CapfiY)
-- [Julian Cope - Trampolene](https://www.youtube.com/watch?v=dawFWa0hfL4)
 
 ## Release Images
 {{< imageGrid >}}

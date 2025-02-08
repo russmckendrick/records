@@ -36,28 +36,24 @@ Musically, Sting’s nimble basslines meshed well with Copeland’s fluid groove
 
 
 ## Tracklisting
-1. Next To You (2:51)
-2. So Lonely (4:48)
-3. Roxanne (3:13)
-4. Hole In My Life (4:48)
-5. Peanuts (3:54)
-6. Can't Stand Losing You (3:02)
-7. Truth Hits Everybody (2:53)
-8. Born In The 50's (3:42)
-9. Be My Girl - Sally (3:24)
-10. Masoko Tanga (5:41)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Next To You | 2:51 |
+| A2 | So Lonely | 4:48 |
+| A3 | Roxanne | 3:13 |
+| A4 | Hole In My Life | 4:48 |
+| A5 | Peanuts | 3:54 |
+| B1 | Can't Stand Losing You | 3:02 |
+| B2 | Truth Hits Everybody | 2:53 |
+| B3 | Born In The 50's | 3:42 |
+| B4 | Be My Girl - Sally | 3:24 |
+| B5 | Masoko Tanga | 5:41 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/outlandos-damour-remastered/1440797181" >}}<br>
 
 
-## Videos
-### The Police - Roxanne Official Music Video
-{{< youtube id="3T1c7GkzRQQ" title="The Police - Roxanne Official Music Video" >}}<br>
-### More Videos
-
-- [The Police - So Lonely Official Music Video](https://www.youtube.com/watch?v=MX6MvV8cbh8)
-- [The Police - Cant Stand Losing You Official Music Video](https://www.youtube.com/watch?v=nH0vjLwMyc4)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +65,5 @@ Musically, Sting’s nimble basslines meshed well with Copeland’s fluid groove
 | Format         | Vinyl LP Album Misprint Reissue Stereo (180g) |
 | Label          | A&M Records |
 | Catalog Number | 0082839475310 |
-| Notes | Re-release from the [l138199] [l197898] series.   Includes voucher to download MP3 version of the album.  Made in the EU.  Spine reads "OUTLANDOS D'ARMOUR".   Original sound recording made by A & M Records Ltd. ℗ 1978 A & M Records Ltd. © 1978 A & M Records Ltd.  A1 to A4, B1 to B3 and B5 published by Virgin Music (Publishers) Ltd. A5 published by Virgin Music (Publishers)/Island Music Limited B5 (Be My Girl) published by Virgin Music (Publishers) Ltd./ B5 (Sally) published by Rondor Music (London) Ltd. |
+| Notes | Re-release from the [l138199] [l197898] series. <br><br>Includes voucher to download MP3 version of the album.<br><br>Made in the EU.<br><br>Spine reads "OUTLANDOS D'ARMOUR".<br><br><br>Original sound recording made by A & M Records Ltd.<br>℗ 1978 A & M Records Ltd. © 1978 A & M Records Ltd.<br><br>A1 to A4, B1 to B3 and B5 published by Virgin Music (Publishers) Ltd.<br>A5 published by Virgin Music (Publishers)/Island Music Limited<br>B5 (Be My Girl) published by Virgin Music (Publishers) Ltd./<br>B5 (Sally) published by Rondor Music (London) Ltd. |
 | Discogs URL    | [The Police - Outlandos D'Amour](https://www.discogs.com/release/2542498-The-Police-Outlandos-DAmour) |

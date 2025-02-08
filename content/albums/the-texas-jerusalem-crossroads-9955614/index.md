@@ -4,6 +4,7 @@ artist_name: "Lift To Experience"
 artist: "lift-to-experience"
 album_name: "The Texas-Jerusalem Crossroads"
 date: 2017-03-11T12:33:17.000000Z
+release_date: "2001-06-26"
 release_id: "9955614"
 slug: "the-texas-jerusalem-crossroads-9955614"
 hideSummary: true
@@ -42,55 +43,44 @@ styles: ["Psychedelic Rock"]
 The Texas-Jerusalem Crossroads is the debut studio album from Denton, Texas-based indie rock trio Lift to Experience. The double album was released on June 26, 2001, and is thus far the only full-length recording from the band. A concept album about the Second Coming of Jesus Christ that "casts Texas as the Promised Land," it was produced by guitarist/vocalist Josh T. Pearson, and mixing was handled by Simon Raymonde and Robin Guthrie, both of Cocteau Twins fame. The album was released on Guthrie and Raymonde's record label Bella Union. Receiving very little attention upon release, the album gradually found an audience via the internet and has developed a minor cult following.
 The Texas-Jerusalem Crossroads was described by AllMusic reviewer Tim DiGravina as "blend[ing] My Bloody Valentine's sonic feedback with Kitchens of Distinction's swirling atmosphere and the grace of Jeff Buckley", with DiGravina adding, "What could have been a tiresome exploration of awkward religious theories is instead a spellbinding journey into the heart of human emotion and guitar dynamics." Although Lift to Experience never officially announced a disbandment, the band splintered shortly after the album's release, with Pearson re-emerging as a solo artist in the 2010s.
 The album was remastered and reissued for its 15-year anniversary by Mute Records on February 3, 2017. The album was reissued across three separate formats, all featuring revised artwork: a 2-CD set; a double vinyl LP set pressed on blue and red colored vinyl; and a deluxe 4-LP box set including the band's first demo EP and live recordings. The reissue coincides with the band's reunion and performance at Meltdown Festival 2016 curated by Elbow frontman Guy Garvey.
-    
+        
+        
     
 
 
 ## Tracklisting
-1. The Texas-Jerusalem Crossroads: Texas
-2. Just As Was Told
-3. Down Came The Angels
-4. Falling From Cloud 9
-5. With Crippled Wings
-6. Waiting To Hit
-7. The Ground So Soft
-8. The Texas-Jerusalem Crossroads: Jerusalem
-9. These Are The Days
-10. When We Shall Touch
-11. Down With The Prophets
-12. To Guard And To Guide You
-13. Into The Storm
-14. (Untitled)
-15. The Peel Session
-16. Falling From Cloud 9 (9:57)
-17. The Ground So Soft (7:02)
-18. Just As Was Told (7:53)
-19. With The World Behind (4:00)
-20. EP
-21. Falling From Cloud 9 (5:03)
-22. With The World Behind (3:01)
-23. Arise And Shine (7:45)
-24. Liftin' On Up (7:15)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | The Texas-Jerusalem Crossroads: Texas |  |
+| A1 | Just As Was Told |  |
+| A2 | Down Came The Angels |  |
+| A3 | Falling From Cloud 9 |  |
+| B1 | With Crippled Wings |  |
+| B2 | Waiting To Hit |  |
+| B3 | The Ground So Soft |  |
+|  | The Texas-Jerusalem Crossroads: Jerusalem |  |
+| C1 | These Are The Days |  |
+| C2 | When We Shall Touch |  |
+| C3 | Down With The Prophets |  |
+| D1 | To Guard And To Guide You |  |
+| D2 | Into The Storm |  |
+| D3 | (Untitled) |  |
+|  | The Peel Session |  |
+| E1 | Falling From Cloud 9 | 9:57 |
+| E2 | The Ground So Soft | 7:02 |
+| F1 | Just As Was Told | 7:53 |
+| F2 | With The World Behind | 4:00 |
+|  | EP |  |
+| G1 | Falling From Cloud 9 | 5:03 |
+| G2 | With The World Behind | 3:01 |
+| H1 | Arise And Shine | 7:45 |
+| H2 | Liftin' On Up | 7:15 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-texas-jerusalem-crossroads/1172400599" >}}<br>
 
 
-## Videos
-### Lift To Experience - When We Shall Touch Official Audio
-{{< youtube id="sthmEkUjACM" title="Lift To Experience - When We Shall Touch Official Audio" >}}<br>
-### More Videos
-
-- [Lift To Experience - Just As Was Told Official Audio](https://www.youtube.com/watch?v=iF96B27HYik)
-- [Lift To Experience - These Are The Days 2017 Mix Official Video](https://www.youtube.com/watch?v=FbBPve8A6yI)
-- [Lift To Experience - Falling From Cloud 9 Official Video](https://www.youtube.com/watch?v=bWWzcgsutdk)
-- [Lift To Experience - Waiting To Hit Official Audio](https://www.youtube.com/watch?v=sZ28bBvKjig)
-- [Lift To Experience - To Guard And To Guide You Official Audio](https://www.youtube.com/watch?v=xOgkUe2437o)
-- [Lift To Experience - Down With The Prophets Official Audio](https://www.youtube.com/watch?v=PyrSp4Y1LVE)
-- [Lift To Experience - The Ground So Soft Official Audio](https://www.youtube.com/watch?v=uNRHftDc1Eo)
-- [Lift To Experience - With Crippled Wings Official Audio](https://www.youtube.com/watch?v=xFRGO2VxpoM)
-- [Lift To Experience - Into The Storm Official Audio](https://www.youtube.com/watch?v=jJ_gE0SrG94)
-- [Lift To Experience - Down Came The Angels Official Audio](https://www.youtube.com/watch?v=5_grjHE5wq8)
 
 ## Release Images
 {{< imageGrid >}}
@@ -102,5 +92,5 @@ The album was remastered and reissued for its 15-year anniversary by Mute Record
 | Format         | Vinyl 2× LP Album Reissue Remastered (Blue & Red), Vinyl 12" 33 ⅓ RPM, Vinyl 12" 33 ⅓ RPM EP Reissue, Box Set Limited Edition |
 | Label          | Mute |
 | Catalog Number | BXSTUMM398 |
-| Notes | Includes [r9758521] in a gatefold sleeve with printed inner sleeves.  LP1 is blue translucent vinyl, LP2 is red translucent vinyl. Track D3 is an untitled track, not listed on the sleeve or label (also known as "The Hidden Song"). Additional Fiddlin' Around [...] Centro-Matic, Denton, TX Engineered & Recorded [...] 70Hrtz, Argyle, TX (1999) Mixed at [...] Echo Lab, Argyle, TX (2016) Additional Engineering [...] Studio Mute, London, UK Vinyl Cut [...] at Take Out Vinyl, Memphis, TN ℗ & © 2017 Lift To Experience under exclusive license to Mute Artists Ltd. Made in the EU.  [The Peel Session] Recorded: 15th April 2001 First transmisson: 15th April 2001 Recorded for the John Peel Show on BBC Radio 1 Produced [...] at Maida Vale 4 Mastered [...] at EAB Studios in London, UK Vinyl Cut [...] at Take Out Vinyl, Memphis, TN ℗ BBC 2017 © 2017 Mute Artists Ltd Licensed by BBC Worldwide Made in Texas  [EP] Recorded and mastered [...] at 70Hrtz in Argyle, Texas Vinyl Cut [...] at Take Out Vinyl, Memphis, TN All tracks recorded live, except vocals and tambourine 9/24/97.  ℗ 2017 Random-Precision Records © 2017 Mute Artists Ltd  Includes 24-page 12" photo/lyric booklet & download voucher for complete box (with both new and original Bella Union mixes of The Texas-Jerusalem Crossroads). |
+| Notes | Includes [r9758521] in a gatefold sleeve with printed inner sleeves. <br>LP1 is blue translucent vinyl, LP2 is red translucent vinyl.<br>Track D3 is an untitled track, not listed on the sleeve or label (also known as "The Hidden Song").<br>Additional Fiddlin' Around [...] Centro-Matic, Denton, TX<br>Engineered & Recorded [...] 70Hrtz, Argyle, TX (1999)<br>Mixed at [...] Echo Lab, Argyle, TX (2016)<br>Additional Engineering [...] Studio Mute, London, UK<br>Vinyl Cut [...] at Take Out Vinyl, Memphis, TN<br>℗ & © 2017 Lift To Experience under exclusive license to Mute Artists Ltd. Made in the EU.<br><br>[The Peel Session]<br>Recorded: 15th April 2001<br>First transmisson: 15th April 2001<br>Recorded for the John Peel Show on BBC Radio 1<br>Produced [...] at Maida Vale 4<br>Mastered [...] at EAB Studios in London, UK<br>Vinyl Cut [...] at Take Out Vinyl, Memphis, TN<br>℗ BBC 2017 © 2017 Mute Artists Ltd<br>Licensed by BBC Worldwide<br>Made in Texas<br><br>[EP]<br>Recorded and mastered [...] at 70Hrtz in Argyle, Texas<br>Vinyl Cut [...] at Take Out Vinyl, Memphis, TN<br>All tracks recorded live, except vocals and tambourine 9/24/97. <br>℗ 2017 Random-Precision Records<br>© 2017 Mute Artists Ltd<br><br>Includes 24-page 12" photo/lyric booklet & download voucher for complete box (with both new and original Bella Union mixes of The Texas-Jerusalem Crossroads). |
 | Discogs URL    | [Lift To Experience - The Texas-Jerusalem Crossroads](https://www.discogs.com/release/9955614-Lift-To-Experience-The-Texas-Jerusalem-Crossroads) |

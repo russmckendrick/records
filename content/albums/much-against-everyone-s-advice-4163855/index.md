@@ -4,6 +4,7 @@ artist_name: "Soulwax"
 artist: "soulwax"
 album_name: "Much Against Everyone's Advice"
 date: 2016-04-23T09:43:49.000000Z
+release_date: "1999-03-15"
 release_id: "4163855"
 slug: "much-against-everyone-s-advice-4163855"
 hideSummary: true
@@ -20,39 +21,30 @@ styles: ["Alternative Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Conversation Intercom
-2. Saturday
-3. When Logics Die
-4. Much Against Everyone's Advice
-5. Overweight Karate Kid
-6. Proverbial Pants
-7. Too Many DJ's
-8. Temptingly Yours
-9. More Than This
-10. Scream
-11. Funny
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Conversation Intercom |  |
+| A2 | Saturday |  |
+| A3 | When Logics Die |  |
+| A4 | Much Against Everyone's Advice |  |
+| A5 | Overweight Karate Kid |  |
+| A6 | Proverbial Pants |  |
+| B1 | Too Many DJ's |  |
+| B2 | Temptingly Yours |  |
+| B3 | More Than This |  |
+| B4 | Scream |  |
+| B5 | Funny |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/much-against-everyones-advice/15159110" >}}<br>
 
 
-## Videos
-### 01   Conversation Intercom - Soulwax
-{{< youtube id="r28N6iYEN0I" title="01   Conversation Intercom - Soulwax" >}}<br>
-### More Videos
-
-- [03   When Logics Die - Soulwax](https://www.youtube.com/watch?v=fIe4ygIvwKM)
-- [04   Much Against Everyones Advice - Soulwax](https://www.youtube.com/watch?v=Jm7N789FXUg)
-- [Funny](https://www.youtube.com/watch?v=eNimQu7lx40)
-- [When Logics Die](https://www.youtube.com/watch?v=x5hVMKDpMnU)
-- [Conversation Intercom](https://www.youtube.com/watch?v=7yx7uoojLM0)
-- [Soulwax - Saturday](https://www.youtube.com/watch?v=Dxq9VnAoV9A)
-- [13   Scream - Soulwax](https://www.youtube.com/watch?v=gAeNoZR6zcA)
-- [soulwax - my cruel joke](https://www.youtube.com/watch?v=rW7UzZ9sqKc)
-- [Soulwax - Too Many DJs](https://www.youtube.com/watch?v=C6xHYuuYdoM)
-- [Too Many DJs](https://www.youtube.com/watch?v=gJ9ao8u4GMY)
 
 ## Release Images
 {{< imageGrid >}}
@@ -63,5 +55,5 @@ styles: ["Alternative Rock"]
 | Format         | Vinyl LP Album Reissue |
 | Label          | [PIAS] Recordings |
 | Catalog Number | PIASB 010 LP |
-| Notes | Reissue for "[PIAS] 30 years".  Comes with blank white inner sleeve, same as the first press.  ℗ + © 2000 [PIAS] Recordings |
+| Notes | Reissue for "[PIAS] 30 years".<br><br>Comes with blank white inner sleeve, same as the first press.<br><br>℗ + © 2000 [PIAS] Recordings |
 | Discogs URL    | [Soulwax - Much Against Everyone's Advice](https://www.discogs.com/release/4163855-Soulwax-Much-Against-Everyones-Advice) |

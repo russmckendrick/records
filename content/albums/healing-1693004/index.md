@@ -4,6 +4,7 @@ artist_name: "Todd Rundgren"
 artist: "todd-rundgren"
 album_name: "Healing"
 date: 2022-03-06T05:00:04.000000Z
+release_date: "1981-01-28"
 release_id: "1693004"
 slug: "healing-1693004"
 hideSummary: true
@@ -25,34 +26,29 @@ The original vinyl release includes a bonus 7" 33rpm single featuring the tracks
 "Time Heals" and "Compassion" were both released as singles and a promotional video was made for the former, which was the eighth music video to air on MTV during its launch on August 1, 1981.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Healer (3:40)
-2. Pulse (3:07)
-3. Flesh (3:58)
-4. Golden Goose (3:16)
-5. Compassion (4:43)
-6. Shine (8:12)
-7. Healing Part I (7:28)
-8. Healing Part II (7:52)
-9. Healing Part III (4:40)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Healer | 3:40 |
+| A2 | Pulse | 3:07 |
+| A3 | Flesh | 3:58 |
+| A4 | Golden Goose | 3:16 |
+| A5 | Compassion | 4:43 |
+| A6 | Shine | 8:12 |
+| B1 | Healing Part I | 7:28 |
+| B2 | Healing Part II | 7:52 |
+| B3 | Healing Part III | 4:40 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/healing/1084030825" >}}<br>
 
 
-## Videos
-### Todd Rundgren Healeryerdenizplakcom İstanbul Kadıköy
-{{< youtube id="OojgKuvy1Lk" title="Todd Rundgren Healeryerdenizplakcom İstanbul Kadıköy" >}}<br>
-### More Videos
-
-- [Todd Rundgren - Healing Pt 1 Lyrics Below HQ](https://www.youtube.com/watch?v=EHwneXcS3Mc)
-- [Todd Rundgren - Healing Pt 2 Lyrics Below HQ](https://www.youtube.com/watch?v=49Iecr8UevA)
-- [Todd Rundgren - Healing Pt 3 Lyrics Below HQ](https://www.youtube.com/watch?v=p2C4IcKQiEk)
-- [Todd Rundgren - Healing 1981 FULL ALBUM Vinyl Rip](https://www.youtube.com/watch?v=1Q32sZVNZqo)
 
 ## Release Images
 {{< imageGrid >}}
@@ -64,5 +60,5 @@ The original vinyl release includes a bonus 7" 33rpm single featuring the tracks
 | Format         | Vinyl LP Album |
 | Label          | Bearsville |
 | Catalog Number | BHS 3522 |
-| Notes | All songs copyright Humanoid Music, 1980. (BMI) Marketed by AVATAR Records & Screenworks Ltd. Distributed by Spartan |
+| Notes | All songs copyright Humanoid Music, 1980. (BMI)<br>Marketed by AVATAR Records & Screenworks Ltd.<br>Distributed by Spartan |
 | Discogs URL    | [Todd Rundgren - Healing](https://www.discogs.com/release/1693004-Todd-Rundgren-Healing) |

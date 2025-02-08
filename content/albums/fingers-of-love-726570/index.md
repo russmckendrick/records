@@ -4,6 +4,7 @@ artist_name: "Crowded House"
 artist: "crowded-house"
 album_name: "Fingers Of Love"
 date: 2017-05-27T15:37:44.000000Z
+release_date: "2010-11-08"
 release_id: "726570"
 slug: "fingers-of-love-726570"
 hideSummary: true
@@ -25,23 +26,23 @@ styles: ["Pop Rock"]
 "Fingers of Love" was performed by the band on their farewell concert Farewell to the World in 1996. On the DVD special features for the concert, guitarist Mark Hart reports that it is his favourite song to play. He states this is because of the full sound of the song and also because he performs an extensive solo.
 
 
-    
+        
+        
     
 
 
 ## Tracklisting
-1. Fingers Of Love (Live) (5:08)
-2. Love U Till The Day I Die (Live) (4:31)
-3. Whispers And Moans (Live) (4:42)
-4. It's Only Natural (Live) (4:27)
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Fingers Of Love (Live) | 5:08 |
+| A2 | Love U Till The Day I Die (Live) | 4:31 |
+| B1 | Whispers And Moans (Live) | 4:42 |
+| B2 | It's Only Natural (Live) | 4:27 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/the-very-very-best-of-crowded-house-deluxe-version/715991806" >}}<br>
 
-
-## Videos
-### Crowded House - Fingers of Love
-{{< youtube id="iLFpWo3i6VY" title="Crowded House - Fingers of Love" >}}<br>
 
 
 ## Release Images
@@ -54,5 +55,5 @@ styles: ["Pop Rock"]
 | Format         | Vinyl 10" 45 RPM Single Limited Edition Numbered Stereo |
 | Label          | Capitol Records |
 | Catalog Number | 10CL 715 |
-| Notes | Issued in a gatefold sleeve.  [Back cover:] All tracks published by Roundhead Music (BMI) except Side 2 track 2 published by Roundhead Music/Rebel Larynx Music/BMI. Side 1 track 1 & Side 2 track 1 recorded at The Boathouse, Norfolk. Side 1 track 2 & Side 2 track 2 recorded at The Arlington Theater, Santa Barbara. Recorded live to dat. ℗ 1994 the copyright in this sound recording is owned by Capitol Records Inc. © 1994 Capitol Records Inc.  original version appears on the CD, LP and cassette "[m=157732]"  [Labels:] A Capitol Records, Inc., U.S.A. recording Manufactured in the UK by EMI Records Limited |
+| Notes | Issued in a gatefold sleeve.<br><br>[Back cover:]<br>All tracks published by Roundhead Music (BMI) except Side 2 track 2 published by Roundhead Music/Rebel Larynx Music/BMI.<br>Side 1 track 1 & Side 2 track 1 recorded at The Boathouse, Norfolk.<br>Side 1 track 2 & Side 2 track 2 recorded at The Arlington Theater, Santa Barbara.<br>Recorded live to dat.<br>℗ 1994 the copyright in this sound recording is owned by Capitol Records Inc.<br>© 1994 Capitol Records Inc.<br><br>original version appears on the CD, LP and cassette "[m=157732]"<br><br>[Labels:]<br>A Capitol Records, Inc., U.S.A. recording<br>Manufactured in the UK by EMI Records Limited |
 | Discogs URL    | [Crowded House - Fingers Of Love](https://www.discogs.com/release/726570-Crowded-House-Fingers-Of-Love) |

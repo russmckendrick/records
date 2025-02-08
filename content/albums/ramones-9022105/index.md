@@ -36,118 +36,112 @@ One thing that distinguishes the Ramones from the punk bands that followed them 
 
 
 ## Tracklisting
-1. Original Album
-2. Blitzkrieg Bop (2:14)
-3. Beat On The Brat (2:32)
-4. Judy Is A Punk (1:32)
-5. I Wanna Be Your Boyfriend (2:24)
-6. Chain Saw (1:56)
-7. Now I Wanna Sniff Some Glue (1:36)
-8. I Don't Wanna Go Down To The Basement (2:38)
-9. Loudmouth (2:15)
-10. Havana Affair (1:57)
-11. Listen To My Heart (1:58)
-12. 53rd & 3rd (2:21)
-13. Let's Dance (1:52)
-14. I Don't Wanna Walk Around With You (1:42)
-15. Today Your Love, Tomorrow The World (2:11)
-16. 40th Anniversary Mono Mix
-17. Blitzkrieg Bop (2:14)
-18. Beat On The Brat (2:32)
-19. Judy Is A Punk (1:32)
-20. I Wanna Be Your Boyfriend (2:24)
-21. Chain Saw (1:56)
-22. Now I Wanna Sniff Some Glue (1:36)
-23. I Don't Wanna Go Down To The Basement (2:38)
-24. Loudmouth (2:15)
-25. Havana Affair (1:57)
-26. Listen To My Heart (1:58)
-27. 53rd & 3rd (2:21)
-28. Let's Dance (1:52)
-29. I Don't Wanna Walk Around With You (1:42)
-30. Today Your Love, Tomorrow The World (2:11)
-31. Single Mixes, Outtakes And Demos
-32. Blitzkrieg Bop (Original Stereo Single Version) (2:12)
-33. Blitzkrieg Bop (Original Mono Single Version) (2:11)
-34. I Wanna Be Your Boyfriend (Original Stereo Single Version) (2:25)
-35. I Wanna Be Your Boyfriend (Original Mono Single Version) (2:27)
-36. Today Your Love, Tomorrow The World (Original Uncensored Vocals) (2:12)
-37. I Don't Care (Demo) (2:01)
-38. 53rd & 3rd (Demo) (2:23)
-39. Loudmouth (Demo) (2:16)
-40. Chain Saw (Demo) (2:01)
-41. You Should Never Have Opened That Door (Demo) (1:44)
-42. I Wanna Be Your Boyfriend (Demo) (1:53)
-43. I Can't Be (Demo) (2:02)
-44. Today Your Love, Tomorrow The World (Demo) (2:13)
-45. I Don't Wanna Walk Around With You (Demo) (1:55)
-46. Now I Wanna Sniff Some Glue (Demo) (1:45)
-47. I Don't Wanna Be Learned/I Don't Wanna Be Tamed (Demo) (1:17)
-48. You're Gonna Kill That Girl (Demo) (2:51)
-49. What's Your Name (Demo) (2:57)
-50. Live At The Roxy, Hollywood, CA (8/12/76)
-51. Loudmouth (2:10)
-52. Beat On The Brat (2:36)
-53. Blitzkrieg Bop (2:13)
-54. I Remember You (2:17)
-55. Glad To See You Go (2:03)
-56. Chain Saw (1:51)
-57. 53rd & 3rd (2:27)
-58. I Wanna Be Your Boyfriend (2:22)
-59. Havana Affair (1:55)
-60. Listen To My Heart (1:45)
-61. California Sun (1:58)
-62. Judy Is A Punk (1:23)
-63. I Don't Wanna Walk Around With You (1:31)
-64. Today Your Love, Tomorrow The World (2:09)
-65. Now I Wanna Sniff Some Glue (1:28)
-66. Let's Dance (2:09)
-67. Set 2 (Previously Unissued)
-68. Loudmouth (2:08)
-69. Beat On The Brat (2:35)
-70. Blitzkrieg Bop (2:14)
-71. I Remember You (2:14)
-72. Glad To See You Go (2:04)
-73. Chain Saw (1:48)
-74. 53rd & 3rd (2:18)
-75. I Wanna Be Your Boyfriend (2:25)
-76. Havana Affair (1:54)
-77. Listen To My Heart (1:45)
-78. California Sun (1:58)
-79. Judy Is A Punk (1:22)
-80. I Don't Wanna Walk Around With (1:31)
-81. Today Your Love, Tomorrow The World (2:18)
-82. Now I Wanna Sniff Some Glue (1:29)
-83. Let's Dance (2:02)
-84. Original Album - 40th Anniversary Mono Mix
-85. Blitzkrieg Bop (2:14)
-86. Beat On The Brat (2:32)
-87. Judy Is A Punk (1:32)
-88. I Wanna Be Your Boyfriend (2:24)
-89. Chain Saw (1:56)
-90. Now I Wanna Sniff Some Glue (1:36)
-91. I Don't Wanna Go Down To The Basement (2:38)
-92. Loudmouth (2:15)
-93. Havana Affair (1:57)
-94. Listen To My Heart (1:58)
-95. 53rd & 3rd (2:21)
-96. Let's Dance (1:52)
-97. I Don't Wanna Walk Around With You (1:42)
-98. Today Your Love, Tomorrow The World (2:11)
+| Position | Title | Duration |
+|----------|-------|----------|
+|  | Original Album |  |
+| 1-1 | Blitzkrieg Bop | 2:14 |
+| 1-2 | Beat On The Brat | 2:32 |
+| 1-3 | Judy Is A Punk | 1:32 |
+| 1-4 | I Wanna Be Your Boyfriend | 2:24 |
+| 1-5 | Chain Saw | 1:56 |
+| 1-6 | Now I Wanna Sniff Some Glue | 1:36 |
+| 1-7 | I Don't Wanna Go Down To The Basement | 2:38 |
+| 1-8 | Loudmouth | 2:15 |
+| 1-9 | Havana Affair | 1:57 |
+| 1-10 | Listen To My Heart | 1:58 |
+| 1-11 | 53rd & 3rd | 2:21 |
+| 1-12 | Let's Dance | 1:52 |
+| 1-13 | I Don't Wanna Walk Around With You | 1:42 |
+| 1-14 | Today Your Love, Tomorrow The World | 2:11 |
+|  | 40th Anniversary Mono Mix |  |
+| 1-15 | Blitzkrieg Bop | 2:14 |
+| 1-16 | Beat On The Brat | 2:32 |
+| 1-17 | Judy Is A Punk | 1:32 |
+| 1-18 | I Wanna Be Your Boyfriend | 2:24 |
+| 1-19 | Chain Saw | 1:56 |
+| 1-20 | Now I Wanna Sniff Some Glue | 1:36 |
+| 1-21 | I Don't Wanna Go Down To The Basement | 2:38 |
+| 1-22 | Loudmouth | 2:15 |
+| 1-23 | Havana Affair | 1:57 |
+| 1-24 | Listen To My Heart | 1:58 |
+| 1-25 | 53rd & 3rd | 2:21 |
+| 1-26 | Let's Dance | 1:52 |
+| 1-27 | I Don't Wanna Walk Around With You | 1:42 |
+| 1-28 | Today Your Love, Tomorrow The World | 2:11 |
+|  | Single Mixes, Outtakes And Demos |  |
+| 2-1 | Blitzkrieg Bop (Original Stereo Single Version) | 2:12 |
+| 2-2 | Blitzkrieg Bop (Original Mono Single Version) | 2:11 |
+| 2-3 | I Wanna Be Your Boyfriend (Original Stereo Single Version) | 2:25 |
+| 2-4 | I Wanna Be Your Boyfriend (Original Mono Single Version) | 2:27 |
+| 2-5 | Today Your Love, Tomorrow The World (Original Uncensored Vocals) | 2:12 |
+| 2-6 | I Don't Care (Demo) | 2:01 |
+| 2-7 | 53rd & 3rd (Demo) | 2:23 |
+| 2-8 | Loudmouth (Demo) | 2:16 |
+| 2-9 | Chain Saw (Demo) | 2:01 |
+| 2-10 | You Should Never Have Opened That Door (Demo) | 1:44 |
+| 2-11 | I Wanna Be Your Boyfriend (Demo) | 1:53 |
+| 2-12 | I Can't Be (Demo) | 2:02 |
+| 2-13 | Today Your Love, Tomorrow The World (Demo) | 2:13 |
+| 2-14 | I Don't Wanna Walk Around With You (Demo) | 1:55 |
+| 2-15 | Now I Wanna Sniff Some Glue (Demo) | 1:45 |
+| 2-16 | I Don't Wanna Be Learned/I Don't Wanna Be Tamed (Demo) | 1:17 |
+| 2-17 | You're Gonna Kill That Girl (Demo) | 2:51 |
+| 2-18 | What's Your Name (Demo) | 2:57 |
+|  | Live At The Roxy, Hollywood, CA (8/12/76) |  |
+| 3-1 | Loudmouth | 2:10 |
+| 3-2 | Beat On The Brat | 2:36 |
+| 3-3 | Blitzkrieg Bop | 2:13 |
+| 3-4 | I Remember You | 2:17 |
+| 3-5 | Glad To See You Go | 2:03 |
+| 3-6 | Chain Saw | 1:51 |
+| 3-7 | 53rd & 3rd | 2:27 |
+| 3-8 | I Wanna Be Your Boyfriend | 2:22 |
+| 3-9 | Havana Affair | 1:55 |
+| 3-10 | Listen To My Heart | 1:45 |
+| 3-11 | California Sun | 1:58 |
+| 3-12 | Judy Is A Punk | 1:23 |
+| 3-13 | I Don't Wanna Walk Around With You | 1:31 |
+| 3-14 | Today Your Love, Tomorrow The World | 2:09 |
+| 3-15 | Now I Wanna Sniff Some Glue | 1:28 |
+| 3-16 | Let's Dance | 2:09 |
+|  | Set 2 (Previously Unissued) |  |
+| 3-17 | Loudmouth | 2:08 |
+| 3-18 | Beat On The Brat | 2:35 |
+| 3-19 | Blitzkrieg Bop | 2:14 |
+| 3-20 | I Remember You | 2:14 |
+| 3-21 | Glad To See You Go | 2:04 |
+| 3-22 | Chain Saw | 1:48 |
+| 3-23 | 53rd & 3rd | 2:18 |
+| 3-24 | I Wanna Be Your Boyfriend | 2:25 |
+| 3-25 | Havana Affair | 1:54 |
+| 3-26 | Listen To My Heart | 1:45 |
+| 3-27 | California Sun | 1:58 |
+| 3-28 | Judy Is A Punk | 1:22 |
+| 3-29 | I Don't Wanna Walk Around With | 1:31 |
+| 3-30 | Today Your Love, Tomorrow The World | 2:18 |
+| 3-31 | Now I Wanna Sniff Some Glue | 1:29 |
+| 3-32 | Let's Dance | 2:02 |
+|  | Original Album - 40th Anniversary Mono Mix |  |
+| A1 | Blitzkrieg Bop | 2:14 |
+| A2 | Beat On The Brat | 2:32 |
+| A3 | Judy Is A Punk | 1:32 |
+| A4 | I Wanna Be Your Boyfriend | 2:24 |
+| A5 | Chain Saw | 1:56 |
+| A6 | Now I Wanna Sniff Some Glue | 1:36 |
+| A7 | I Don't Wanna Go Down To The Basement | 2:38 |
+| B1 | Loudmouth | 2:15 |
+| B2 | Havana Affair | 1:57 |
+| B3 | Listen To My Heart | 1:58 |
+| B4 | 53rd & 3rd | 2:21 |
+| B5 | Let's Dance | 1:52 |
+| B6 | I Don't Wanna Walk Around With You | 1:42 |
+| B7 | Today Your Love, Tomorrow The World | 2:11 |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/ramones/847972873" >}}<br>
 
 
-## Videos
-### Blitzkrieg Bop
-{{< youtube id="NQDPx_k66w4" title="Blitzkrieg Bop" >}}<br>
-### More Videos
-
-- [Havana Affair 2016 Remaster](https://www.youtube.com/watch?v=FFFr2BIft-c)
-- [Chain Saw 2016 Remaster](https://www.youtube.com/watch?v=aka98A0Ekrw)
-- [53rd  3rd 2016 Remaster](https://www.youtube.com/watch?v=jJ_q5Zu3LSg)
-- [Lets Dance 2016 Remaster](https://www.youtube.com/watch?v=W3rynG8PF0I)
 
 ## Release Images
 {{< imageGrid >}}
@@ -159,5 +153,5 @@ One thing that distinguishes the Ramones from the punk bands that followed them 
 | Format         | CD Album Reissue Remastered Stereo Mono, CD, CD, Vinyl LP Album Remastered Mono, All Media Deluxe Edition Limited Edition Numbered Reissue (40th Anniversary) |
 | Label          | Rhino Records (2) |
 | Catalog Number | 081227945176 |
-| Notes | 40th annivesary box set packaged in a 12" x 12" hardcover book on a limited edition of 19.760 individually numbered copies.  Disc one contains stereo (tracks 1-14) and 40th anniversary mono mix (tracks 15-28) Disc two contains Single Mixes, Outtakes and Demos. Disc three (tracks 1-16) contains [r=1165275]'s bonus material. Disc three tracks 17-32 are from a previously unreleased second set from The Roxy, LA, on 08/12/1976. Vinyl contains the original album 40th anniversary mono mix.  Pressing plants uncredited, identified by matrix run outs.  This reissue ℗ & © 2016 Rhino Entertainment Company |
+| Notes | 40th annivesary box set packaged in a 12" x 12" hardcover book on a limited edition of 19.760 individually numbered copies. <br>Disc one contains stereo (tracks 1-14) and 40th anniversary mono mix (tracks 15-28)<br>Disc two contains Single Mixes, Outtakes and Demos.<br>Disc three (tracks 1-16) contains [r=1165275]'s bonus material. Disc three tracks 17-32 are from a previously unreleased second set from The Roxy, LA, on 08/12/1976.<br>Vinyl contains the original album 40th anniversary mono mix.<br><br>Pressing plants uncredited, identified by matrix run outs.<br><br>This reissue ℗ & © 2016 Rhino Entertainment Company |
 | Discogs URL    | [Ramones - Ramones](https://www.discogs.com/release/9022105-Ramones-Ramones) |

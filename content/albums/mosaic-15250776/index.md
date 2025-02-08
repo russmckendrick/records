@@ -4,6 +4,7 @@ artist_name: "Lesoir"
 artist: "lesoir"
 album_name: "Mosaic"
 date: 2020-05-26T12:57:49.000000Z
+release_date: "2020-05-01"
 release_id: "15250776"
 slug: "mosaic-15250776"
 hideSummary: true
@@ -25,40 +26,28 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ---
 
 
+    
+    
+
 
 ## Tracklisting
-1. Mosaic
-2. Is This It?
-3. Somebody Like You
-4. The Geese
-5. Measure Of Things
-6. Dystopia
-7. It's Never Quiet
-8. MXI
-9. Two Faces
+| Position | Title | Duration |
+|----------|-------|----------|
+| A1 | Mosaic |  |
+| A2 | Is This It? |  |
+| A3 | Somebody Like You |  |
+| A4 | The Geese |  |
+| A5 | Measure Of Things |  |
+| B6 | Dystopia |  |
+| B7 | It's Never Quiet |  |
+| B8 | MXI |  |
+| B9 | Two Faces |  |
+
 
 ## Apple Music
 {{< applemusic url="https://music.apple.com/gb/album/mosaic/1736144247" >}}<br>
 
 
-## Videos
-### Mosaic
-{{< youtube id="cZSZcsb1hWI" title="Mosaic" >}}<br>
-### More Videos
-
-- [Dystopia](https://www.youtube.com/watch?v=Re6zf28IqtE)
-- [Two Faces](https://www.youtube.com/watch?v=_RMjT1nJjXQ)
-- [Is This It](https://www.youtube.com/watch?v=yj1qIe_u9jY)
-- [Lesoir - Mosaic](https://www.youtube.com/watch?v=ohbUY6f2csY)
-- [Measure Of Things](https://www.youtube.com/watch?v=Tafxxhk42q8)
-- [Its Never Quiet](https://www.youtube.com/watch?v=vNVwJg3loXc)
-- [Mosaic](https://www.youtube.com/watch?v=cZSZcsb1hWI)
-- [Dystopia](https://www.youtube.com/watch?v=Re6zf28IqtE)
-- [Two Faces](https://www.youtube.com/watch?v=_RMjT1nJjXQ)
-- [Is This It](https://www.youtube.com/watch?v=yj1qIe_u9jY)
-- [Lesoir - Mosaic](https://www.youtube.com/watch?v=ohbUY6f2csY)
-- [Measure Of Things](https://www.youtube.com/watch?v=Tafxxhk42q8)
-- [Its Never Quiet](https://www.youtube.com/watch?v=vNVwJg3loXc)
 
 ## Release Images
 {{< imageGrid >}}
@@ -69,5 +58,5 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Format         | Vinyl LP Album Stereo |
 | Label          | GlassVille Records |
 | Catalog Number | GVR192755 |
-| Notes | Packaged in a single jacket with color printed LP sleeve.  Pre-orders via the band came autographed on the back of the jacket by all members.  All tracks were recorded at Airfield Studios, St Merryn, Cornwall, United Kingdom except A3 recorded at MC Pavarotti, Mostar BA & Muziekgieterij, Maastricht, Netherlands.  Tracks are numbered continuously on the color LP sleeve. |
+| Notes | Packaged in a single jacket with color printed LP sleeve.<br><br>Pre-orders via the band came autographed on the back of the jacket by all members.<br><br>All tracks were recorded at Airfield Studios, St Merryn, Cornwall, United Kingdom except A3 recorded at MC Pavarotti, Mostar BA & Muziekgieterij, Maastricht, Netherlands.<br><br>Tracks are numbered continuously on the color LP sleeve. |
 | Discogs URL    | [Lesoir - Mosaic](https://www.discogs.com/release/15250776-Lesoir-Mosaic) |
