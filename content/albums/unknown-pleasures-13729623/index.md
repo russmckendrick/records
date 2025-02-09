@@ -39,18 +39,18 @@ Factory Records did not release any singles from Unknown Pleasures. In January 1
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Outside |
-| A1 | Disorder |
-| A2 | Day Of The Lords |
-| A3 | Candidate |
-| A4 | Insight |
-| A5 | New Dawn Fades |
-|  | Inside |
-| B1 | She’s Lost Control |
-| B2 | Shadowplay |
-| B3 | Wilderness |
-| B4 | Interzone |
-| B5 | I Remember Nothing |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

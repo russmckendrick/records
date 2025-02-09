@@ -42,14 +42,14 @@ Original drummer John Rutsey performed all drum parts on the album, but was unab
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Finding My Way |
-| A2 | Need Some Love |
-| A3 | Take A Friend |
-| A4 | Here Again |
-| B1 | What You're Doing |
-| B2 | In The Mood |
-| B3 | Before And After |
-| B4 | Working Man |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

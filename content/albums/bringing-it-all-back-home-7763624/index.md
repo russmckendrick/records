@@ -37,17 +37,17 @@ There’s a common conception that Dylan left political songwriting behind on <i
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Subterranean Homesick Blues |
-| A2 | She Belongs To Me |
-| A3 | Maggie's Farm |
-| A4 | Love Minus Zero / No Limit |
-| A5 | Outlaw Blues |
-| A6 | On The Road Again |
-| A7 | Bob Dylan's 115th Dream |
-| B1 | Mr. Tambourine Man |
-| B2 | Gates Of Eden |
-| B3 | It's Alright, Ma (I'm Only Bleeding) |
-| B4 | It's All Over Now, Baby Blue |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

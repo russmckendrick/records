@@ -30,10 +30,10 @@ Los Amigos del Beta Bandidos, along with the other two original E.P.s from The B
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Push It Out |
-| A2 | It's Over |
-| B1 | Dr. Baker |
-| B2 | Needles In My Eyes |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

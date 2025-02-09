@@ -32,16 +32,16 @@ In late 2020, Kevin Morby holed up in the then-quiet Peabody hotel in Memphis to
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | This Is A Photograph |
-| A2 | A Random Act Of Kindness |
-| A3 | Bittersweet, TN |
-| A4 | Disappearing |
-| A5 | A Coat Of Butterflies |
-| B1 | Rock Bottom |
-| B2 | Five Easy Pieces |
-| B3 | Stop Before I Cry |
-| B4 | It's Over |
-| B5 | Goodbye To Good Times |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

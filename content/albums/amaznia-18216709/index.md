@@ -36,15 +36,15 @@ styles: ["Ambient", "Field Recording"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Amazônia (Part 1) |
-| A2 | Amazônia (Part 2) |
-| B1 | Amazônia (Part 3) |
-| B2 | Amazônia (Part 4) |
-| B3 | Amazônia (Part 5) |
-| C1 | Amazônia (Part 6) |
-| C2 | Amazônia (Part 7) |
-| C3 | Amazônia (Part 8) |
-| C4 | Amazônia (Part 9) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

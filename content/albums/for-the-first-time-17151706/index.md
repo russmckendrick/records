@@ -1,6 +1,6 @@
 ---
-title: "Black Country New Road - For The First Time"
-artist_name: "Black Country New Road"
+title: "Black Country, New Road - For The First Time"
+artist_name: "Black Country, New Road"
 artist: "black-country-new-road"
 album_name: "For The First Time"
 date: 2021-02-05T09:27:50.000000Z
@@ -10,8 +10,8 @@ slug: "for-the-first-time-17151706"
 hideSummary: true
 cover:
     image: "for-the-first-time-17151706.jpg"
-    alt: "For The First Time by Black Country New Road"
-    caption: "For The First Time by Black Country New Road"
+    alt: "For The First Time by Black Country, New Road"
+    caption: "For The First Time by Black Country, New Road"
 additional_images:
     - "https://i.discogs.com/GoExfplzizzYVX2EXivUNJR-KM2sTloqEL7oXVJ3xGA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTUx/NzA2LTE3MDY0OTAx/MDYtODM0My5qcGVn.jpeg"
     - "https://i.discogs.com/DImdIwtIik42w7NXncYiOuWtAAqQgaHMRFHCqbBOnQg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTUx/NzA2LTE3MDY0OTAx/MTQtODE2Mi5qcGVn.jpeg"
@@ -50,12 +50,12 @@ The album received widespread acclaim from music critics for its experimental so
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Instrumental |
-| A2 | Athens, France |
-| A3 | Science Fair |
-| B1 | Sunglasses |
-| B2 | Track X |
-| B3 | Opus |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -74,4 +74,4 @@ The album received widespread acclaim from music critics for its experimental so
 | Label          | Ninja Tune |
 | Catalog Number | ZEN269 |
 | Notes | 140 gram single LP w/ white paper inner sleeve and 12 inch lyric booklet. Also comes with download code stickered on inner sleeve. |
-| Discogs URL    | [Black Country New Road - For The First Time](https://www.discogs.com/release/17151706-Black-Country-New-Road-For-The-First-Time) |
+| Discogs URL    | [Black Country, New Road - For The First Time](https://www.discogs.com/release/17151706-Black-Country-New-Road-For-The-First-Time) |

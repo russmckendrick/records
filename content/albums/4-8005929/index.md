@@ -35,12 +35,12 @@ For their second album, Chicago shortened their name (from Chicago Transit Autho
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | My Book Of Regrets |
-| A2 | Year Of The Plague |
-| A3 | Happiness III |
-| B1 | Sunday Rain Sets In |
-| B2 | Vermillioncore |
-| B3 | Don't Hate Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

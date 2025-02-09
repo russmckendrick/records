@@ -29,22 +29,22 @@ It is also common for greatest hits albums to include new recordings, remixes or
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Still Of The Night |
-| A2 | Here I Go Again |
-| A3 | Is This Love |
-| A4 | Give Me All Your Love |
-| B1 | Love Ain't No Stranger |
-| B2 | Slide It In |
-| B3 | Slow An' Easy |
-| B4 | Guilty Of Love |
-| C1 | Fool For Your Loving |
-| C2 | Judgement Day |
-| C3 | The Deeper The Love |
-| C4 | Now You're Gone |
-| D1 | Sweet Lady Luck |
-| D2 | You're Gonna Break My Heart Again |
-| D3 | Crying In The Rain |
-| D4 | Forevermore |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

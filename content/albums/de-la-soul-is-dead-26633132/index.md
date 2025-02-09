@@ -37,33 +37,33 @@ With co-producer Prince Paul still in tow, they retained an idiosyncratic sample
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Intro |
-| A2 | Oodles Of O's |
-| A3 | Talkin' Bout Hey Love |
-| A4 | Pease Porridge |
-| A5 | Skit 1 |
-| A6 | Johnny's Dead AKA Vincent Mason (Live From The BK Lounge) |
-| A7 | A Rollerskating Jam Named "Saturdays" |
-| B1 | WRMS' Dedication To The Bitty |
-| B2 | Bitties In The BK Lounge |
-| B3 | Skit 2 |
-| B4 | My Brother's A Basehead |
-| B5 | Let, Let Me In |
-| B6 | Afro Connections At A Hi 5 (In The Eyes Of The Hoodlum) |
-| C1 | Rap De Rap Show |
-| C2 | Millie Pulled A Pistol On Santa |
-| C3 | Who Do U Worship? |
-| C4 | Skit 3 |
-| C5 | Kicked Out The House |
-| C6 | Pass The Plugs |
-| C7 | Not Over Till The Fat Lady Plays The Demo |
-| D1 | Ring Ring Ring (Ha Ha Hey) |
-| D2 | WRMS: Cat's In Control |
-| D3 | Skit 4 |
-| D4 | Shwingalokate |
-| D5 | Fanatic Of The B Word |
-| D6 | Keepin' The Faith |
-| D7 | Skit 5 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

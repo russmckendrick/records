@@ -36,30 +36,30 @@ styles: ["Indie Pop", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | 1992 - The Love Album |
-| A1 | 1993 |
-| A2 | Is Wrestling Fixed? |
-| A3 | The Only Living Boy In New Cross |
-| A4 | Suppose You Gave A Funeral And Nobody Came |
-| A5 | England |
-| B1 | Do Re Me, So Far So Good |
-| B2 | Look Mum, No Hands! |
-| B3 | While You Were Out |
-| B4 | Skywest And Crooked |
-| B5 | The Impossible Dream |
-|  | 1992 - The Other Love Songs |
-| C1 | After The Watershed [Early Learning The Hard Way] |
-| C2 | The 90's Revival |
-| C3 | A Nation Of Shoplifters |
-| C4 | This Is How It Feels |
-| C5 | Watching The Big Apple Turnover |
-| C6 | Panic |
-| D1 | King Rocker |
-| D2 | Mannequin |
-| D3 | Down In The Tube Station At Midnight |
-| D4 | Turn On, Tune In And Switch Off |
-| D5 | When Thesauruses Ruled The World |
-| D6 | Bring On The Girls |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

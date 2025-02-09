@@ -35,18 +35,18 @@ The record was reissued by SPV/Steamhammer in 2008.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Another Worldly Device |
-| A2 | Whose Fist Is This Anyway? |
-| A3 | Snap Your Fingers, Snap Your Neck |
-| A4 | Cut-Rate |
-| A5 | Broken Peace |
-| A6 | One Outnumbered |
-| B1 | Out Of This Misery |
-| B2 | No Question |
-| B3 | Not Of This Earth |
-| B4 | Home Rule |
-| B5 | Sublime |
-| B6 | Test |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

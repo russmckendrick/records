@@ -31,32 +31,32 @@ styles: ["Soundtrack", "Spoken Word", "Pop Rock", "Indie Rock", "Synth-pop", "Po
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | "Reboot?" |
-| A2 | Goodbye Horses |
-| A3 | "Out Of Order!" |
-| A4 | Social  |
-| A5 | "Want Me To Order?" |
-| A6 | Mooby's Song |
-| A7 | "Boo Boo Kitty …" |
-| A8 | Keep On Loving You |
-| A9 | "I Knew Your Dad A Little Bit …" |
-| A10 | I Saw A Ghost |
-| A11 | "Dressed Like Us …" |
-| A12 | Loser (Movie Mix)  |
-| A13 | "Stop This Reboot!" |
-| B1 | Good Morning |
-| B2 | "3 Days …" |
-| B3 | I'd Die Without You |
-| B4 | "That Director …" |
-| B5 | Smodcast Theme |
-| B6 | "The Dishes Are Done …" |
-| B7 | Shecky Don't Like It |
-| B8 | "Names Back …" |
-| B9 | Come My Way  |
-| B10 | "I Don't Know If Anybody Knows This …" |
-| B11 | Drinkin' Blunts |
-| B12 | "Hung Out …" |
-| B13 | Stay With Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

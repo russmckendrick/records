@@ -34,18 +34,18 @@ Schmilco is the tenth studio album by the American rock band Wilco, released on 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Normal American Kids |
-| A2 | If I Ever Was A Child |
-| A3 | Cry All Day |
-| A4 | Common Sense |
-| A5 | Nope |
-| A6 | Someone To Lose |
-| B1 | Happiness  |
-| B2 | Quarters |
-| B3 | Locator |
-| B4 | Shrug And Destroy |
-| B5 | We Aren't The World (Safety Girl) |
-| B6 | Just Say Goodbye |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

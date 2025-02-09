@@ -38,17 +38,17 @@ The cover art is a detail of a portrait of Simon from 2011 by Chuck Close. Photo
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Werewolf |
-| A2 | Wristband |
-| A3 | The Clock  |
-| A4 | Street Angel |
-| A5 | Stranger To Stranger |
-| A6 | In A Parade |
-| B1 | Proof Of Love |
-| B2 | In The Garden Of Edie |
-| B3 | The Riverbank |
-| B4 | Cool Papa Bell |
-| B5 | Insomniac’s Lullaby |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

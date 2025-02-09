@@ -31,17 +31,17 @@ the Waterboys' best selling album, reaching a number 13 placing on the U.K. char
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Fisherman's Blues |
-| A2 | We Will Not Be Lovers |
-| A3 | Strange Boat |
-| A4 | World Party |
-| A5 | Sweet Thing |
-| B1 | And A Bang On The Ear |
-| B2 | Has Anybody Here Seen Hank? |
-| B3 | When Will We Be Married? |
-| B4 | When Ye Go Away |
-| B5 | Dunford’s Fancy |
-| B6 | The Stolen Child |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

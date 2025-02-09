@@ -38,13 +38,13 @@ As with the group's previous work, it is jazz-inspired and features guests from 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | To Believe |
-| A2 | A Caged Bird / Imitations Of Life |
-| B1 | Lessons |
-| B2 | Wait for Now / Leave The World |
-| C1 | The Workers of Art |
-| C2 | Zero One / This Fantasy |
-| D1 | A Promise |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

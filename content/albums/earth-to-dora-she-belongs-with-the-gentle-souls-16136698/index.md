@@ -31,18 +31,18 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Anything For Boo	 |
-| A2 | Are We Alright Again	 |
-| A3 | Who You Say You Are	 |
-| A4 | Earth To Dora	 |
-| A5 | Dark And Dramatic	 |
-| A6 | Are You Fucking Your Ex	 |
-| B1 | The Gentle Souls	 |
-| B2 | Of Unsent Letters	 |
-| B3 | I Got Hurt	 |
-| B4 | OK |
-| B5 | Baby Let's Make It Real	 |
-| B6 | Waking Up	 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

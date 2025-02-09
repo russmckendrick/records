@@ -1,6 +1,6 @@
 ---
-title: "Therapy - Infernal Love"
-artist_name: "Therapy"
+title: "Therapy? - Infernal Love"
+artist_name: "Therapy?"
 artist: "therapy"
 album_name: "Infernal Love"
 date: 2022-01-07T10:25:31.000000Z
@@ -10,8 +10,8 @@ slug: "infernal-love-18393268"
 hideSummary: true
 cover:
     image: "infernal-love-18393268.jpg"
-    alt: "Infernal Love by Therapy"
-    caption: "Infernal Love by Therapy"
+    alt: "Infernal Love by Therapy?"
+    caption: "Infernal Love by Therapy?"
 additional_images:
     - "https://i.discogs.com/8pbWIn-yzjphA4i0hXIOuri-iiIB_xJv2xJvuCaKPoQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzkz/MjY4LTE2MTkwMTE4/NTEtMjQ4Mi5qcGVn.jpeg"
     - "https://i.discogs.com/xStUdnCIzSCy77zQEKLGWpA-e8F4kZkeLFz-f3hD-AQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzkz/MjY4LTE2MTkwMTE4/NTEtNDIzNS5qcGVn.jpeg"
@@ -35,17 +35,17 @@ Infernal Love is the fifth album by the Northern Ireland rock band Therapy? Thei
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Epilepsy |
-| A2 | Stories |
-| A3 | A Moment Of Clarity |
-| A4 | Jude The Obscene |
-| A5 | Bowels Of Love |
-| A6 | Misery |
-| B1 | Bad Mother |
-| B2 | Me Vs You |
-| B3 | Loose |
-| B4 | Diane |
-| B5 | 30 Seconds |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -64,4 +64,4 @@ Infernal Love is the fifth album by the Northern Ireland rock band Therapy? Thei
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2806 |
 | Notes | Includes a 12" square matte insert with song lyrics and credits, printed on both sides. Disc held in a white paper die cut polylined inner. Package came in a resealable polypropylene cover, not shrink-wrap. Affixed to this is a rectangular gold hype sticker.  Made in The Netherlands.  This release uses the remaster previously released on CD in the Gemil boxset (2013), including the problems associated with that release (gaps between tracks etc). |
-| Discogs URL    | [Therapy - Infernal Love](https://www.discogs.com/release/18393268-Therapy-Infernal-Love) |
+| Discogs URL    | [Therapy? - Infernal Love](https://www.discogs.com/release/18393268-Therapy-Infernal-Love) |

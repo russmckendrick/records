@@ -41,23 +41,23 @@ After various adventures in electronica, <i>Riot City Blues</i> is Primal Scream
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Country Girl |
-| A2 | Nitty Gritty |
-| A3 | Suicide Sally & Johnny Guitar |
-| A4 | When the Bomb Drops |
-| A5 | Stone Ya To The Bone  |
-| B1 | Gamblin’ Bar Room Blues  |
-| B2 | Country Blues # 1 / Will I Be Forgiven?  |
-| B3 | Little Death |
-| B4 | To Live Is To Fly |
-| C1 | Zeppelin Blues While Thinking Of Robert Parker  |
-| C2 | The 99th Floor |
-| C3 | We’re Gonna Boogie |
-| C4 | Gimme Some Truth  |
-| D1 | Dolls (Sweet Rock 'N' Roll)  |
-| D2 | It’s Not Enough |
-| D3 | Hell’s Comin’ Down |
-| D4 | Sometimes I Feel So Lonely |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

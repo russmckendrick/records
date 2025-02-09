@@ -32,16 +32,16 @@ styles: ["Country Rock", "Indie Rock", "Britpop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Every Sounds A Melody |
-| A2 | Wait For The Sun |
-| A3 | Silver Tongue |
-| A4 | Lower Loveday |
-| A5 | Shine |
-| B1 | Coming Home |
-| B2 | I'll Sing For You |
-| B3 | Inside The Dream |
-| B4 | Holding Tight |
-| B5 | Tomorrow |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

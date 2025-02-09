@@ -34,15 +34,15 @@ The original vinyl release includes a bonus 7" 33rpm single featuring the tracks
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Healer |
-| A2 | Pulse |
-| A3 | Flesh |
-| A4 | Golden Goose |
-| A5 | Compassion |
-| A6 | Shine |
-| B1 | Healing Part I |
-| B2 | Healing Part II |
-| B3 | Healing Part III |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

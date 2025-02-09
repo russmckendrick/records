@@ -1,6 +1,6 @@
 ---
-title: "Wings - Band On The Run"
-artist_name: "Wings"
+title: "Wings (2) - Band On The Run"
+artist_name: "Wings (2)"
 artist: "wings"
 album_name: "Band On The Run"
 date: 2024-02-09T05:46:07.000000Z
@@ -10,8 +10,8 @@ slug: "band-on-the-run-29654740"
 hideSummary: true
 cover:
     image: "band-on-the-run-29654740.jpg"
-    alt: "Band On The Run by Wings"
-    caption: "Band On The Run by Wings"
+    alt: "Band On The Run by Wings (2)"
+    caption: "Band On The Run by Wings (2)"
 additional_images:
     - "https://i.discogs.com/72KHLLB0AA7zvqG0YKkYRER0gv9v4fv7oR89UuGcvZo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjU0/NzQwLTE3MDY3MTYw/NTgtNjE5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/D-jzsw9LCir7TQFC8dGh0HtNgeQfXi8qP5WtMDaPedY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjU0/NzQwLTE3MDY3MTYw/NDgtNzgwOS5qcGVn.jpeg"
@@ -40,16 +40,16 @@ Band on the Run has been reissued numerous times with bonus tracks, including in
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Band On The Run |
-| A2 | Jet |
-| A3 | Bluebird |
-| A4 | Mrs. Vandebilt |
-| A5 | Let Me Roll It |
-| B1 | Mamunia |
-| B2 | No Words |
-| B3 | Helen Wheels |
-| B4 | Picasso's Last Words (Drink To Me) |
-| B5 | Nineteen Hundred And Eighty Five |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -68,4 +68,4 @@ Band on the Run has been reissued numerous times with bonus tracks, including in
 | Label          | MPL (2) |
 | Catalog Number | 00602455435620 |
 | Notes | 50th Anniversary Edition Half-Speed mastered at Abbey Road Studios "Cut by Miles Showell...19 February 2023."  North American track list including 'Helen Wheels' as track B3  Includes large fold-out poster depicting many small photographs.  Inner sleeve has picture on one side and lyrics on the other side.   Made in Germany.   |
-| Discogs URL    | [Wings - Band On The Run](https://www.discogs.com/release/29654740-Paul-McCartney-And-Wings-Band-On-The-Run) |
+| Discogs URL    | [Wings (2) - Band On The Run](https://www.discogs.com/release/29654740-Paul-McCartney-And-Wings-Band-On-The-Run) |

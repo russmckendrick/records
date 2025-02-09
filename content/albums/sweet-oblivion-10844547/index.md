@@ -35,17 +35,17 @@ Nearly four years passed in between Sweet Oblivion and the band's follow-up albu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Shadow Of The Season |
-| A2 | Nearly Lost You |
-| A3 | Dollar Bill |
-| A4 | More Or Less |
-| A5 | Butterfly |
-| A6 | For Celebrations Past |
-| B1 | The Secret Kind |
-| B2 | Winter Song |
-| B3 | Troubled Times |
-| B4 | No One Knows |
-| B5 | Julie Paradise |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

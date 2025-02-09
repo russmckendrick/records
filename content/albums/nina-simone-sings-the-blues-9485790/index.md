@@ -40,17 +40,17 @@ Sings the Blues is an album by singer/pianist/songwriter Nina Simone. This was S
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Do I Move You? |
-| A2 | Day And Night |
-| A3 | In The Dark |
-| A4 | Real Real |
-| A5 | My Man's Gone Now |
-| A6 | Backlash Blues |
-| B1 | I Want A Little Sugar In My Bowl |
-| B2 | Buck |
-| B3 | Since I Fell For You |
-| B4 | The House Of The Rising Sun |
-| B5 | Blues For Mama |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

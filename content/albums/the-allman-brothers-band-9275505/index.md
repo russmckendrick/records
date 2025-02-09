@@ -35,22 +35,22 @@ The band reformed once more in 1989, releasing a string of new albums and tourin
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | 1969 Original Stereo Mix |
-| A1 | Don't Want You No More |
-| A2 | It's Not My Cross To Bear |
-| A3 | Black Hearted Woman |
-| A4 | Trouble No More |
-| B1 | Every Hungry Woman |
-| B2 | Dreams |
-| B3 | Whipping Post |
-|  | 1973 Beginnings Stereo Mix |
-| C1 | Don't Want You No More |
-| C2 | It's Not My Cross To Bear |
-| C3 | Black Hearted Woman |
-| C4 | Trouble No More |
-| D1 | Every Hungry Woman |
-| D2 | Dreams |
-| D3 | Whipping Post |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

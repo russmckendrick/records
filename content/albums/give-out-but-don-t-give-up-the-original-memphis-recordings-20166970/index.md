@@ -27,32 +27,32 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Jailbird |
-| A2 | Rocks |
-| A3 | Call On Me |
-| A4 | Everybody Needs Somebody |
-| B1 | Sad And Blue |
-| B2 | Big Jet Plane |
-| B3 | Free |
-| C1 | Jesus |
-| C2 | Cry Myself Blind |
-|  | (Ardent Outtakes) |
-| D1 | Billy / To Love Somebody |
-| D2 | Memphis Groove (Improvised Song Jam) |
-| D3 | Sad And Blue (Early Rehearsal Jam) |
-| D4 | Call On Me (Monitor Mix) |
-| D5 | Big Jet Plane (Early Rehearsal Jam / Tom Dowd Instruction) |
-|  | (Ardent Outtakes) |
-| E1 | Free (Bobby Vocal / Full Band Rehearsal Jam) |
-| E2 | Everybody Needs Somebody (Alternate Recording) |
-| E3 | Blue Moon Of Kentucky / Trying To Get To You |
-| E4 | Jailbird Guitar |
-| E5 | Jesus (Monitor Mix) |
-|  | (Ardent Outtakes) |
-| F1 | Funky Jam (Original Recording) |
-| F2 | Free (Early Rehearsal Sitar / Piano / Bobby Vocal) |
-| F3 | Cry Myself Blind (Monitor Mix) / Big Jet Plane (Sitar Version) |
-| F4 | All I Have To Do Is Dream |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

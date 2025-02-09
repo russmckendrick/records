@@ -36,16 +36,16 @@ In a 2022 interview, Ann Wilson stated that the album was self-titled because th
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | If Looks Could Kill |
-| A2 | What About Love |
-| A3 | Never |
-| A4 | These Dreams |
-| A5 | The Wolf |
-| B1 | All Eyes |
-| B2 | Nobody Home |
-| B3 | Nothin' At All |
-| B4 | What He Don't Know |
-| B5 | Shell Shock |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

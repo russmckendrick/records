@@ -29,22 +29,22 @@ styles: ["Alternative Rock", "Indie Rock", "House", "New Wave", "Psychedelic Roc
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Who Wants To Be The Disco King? |
-| A2 | Vanishing Point |
-| A3 | Head On |
-| A4 | Kennedy |
-| A5 | Can U Dig It? |
-| A6 | Mad Cyril |
-| A7 | Brave New World |
-| A8 | Almost Prayed |
-| B1 | The Last Of The Famous International Playboys |
-| B2 | Peek-A-Boo |
-| B3 | Monkey Gone To Heaven |
-| B4 | Joe |
-| B5 | Baby Turpentine |
-| B6 | Dizzy |
-| B7 | December |
-| B8 | Tower Of Strength (Bombay Edit) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -41,16 +41,16 @@ Pandemonium is the ninth studio album by English post-punk band Killing Joke, re
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Pandemonium |
-| A2 | Exorcism |
-| B1 | Millennium |
-| B2 | Communion |
-| B3 | Black Moon |
-| C1 | Labyrinth |
-| C2 | Jana |
-| C3 | Whiteout |
-| D1 | Pleasures Of The Flesh |
-| D2 | Mathematics Of Chaos |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

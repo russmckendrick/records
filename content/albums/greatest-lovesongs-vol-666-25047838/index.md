@@ -1,6 +1,6 @@
 ---
-title: "HIM - Greatest Lovesongs Vol. 666"
-artist_name: "HIM"
+title: "HIM (2) - Greatest Lovesongs Vol. 666"
+artist_name: "HIM (2)"
 artist: "him"
 album_name: "Greatest Lovesongs Vol. 666"
 date: 2022-11-04T06:14:52.000000Z
@@ -10,8 +10,8 @@ slug: "greatest-lovesongs-vol-666-25047838"
 hideSummary: true
 cover:
     image: "greatest-lovesongs-vol-666-25047838.jpg"
-    alt: "Greatest Lovesongs Vol. 666 by HIM"
-    caption: "Greatest Lovesongs Vol. 666 by HIM"
+    alt: "Greatest Lovesongs Vol. 666 by HIM (2)"
+    caption: "Greatest Lovesongs Vol. 666 by HIM (2)"
 additional_images:
     - "https://i.discogs.com/eseg1i81Dqa9tVdfR3BkKCQ8nuJi9HnseunPHFUeAag/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQ3/ODM4LTE2OTU1Njc3/NjYtOTAyOC5qcGVn.jpeg"
     - "https://i.discogs.com/kTr1bKdLCsZW3qaZsKNTDDGeY-fOrHRuQPm7I0h9hcY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDQ3/ODM4LTE2Njc1OTY1/NzgtMTA2MS5qcGVn.jpeg"
@@ -43,15 +43,15 @@ Greatest Lovesongs Vol. 666 received positive reviews from critics, who commende
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | For You (Intro) |
-| A2 | Your Sweet Six Six Six |
-| A3 | Wicked Game |
-| A4 | The Heartless |
-| A5 | Our Diabolikal Rapture |
-| B1 | It's All Tears (Drown in This Love) |
-| B2 | When Love And Death Embrace |
-| B3 | The Beginning Of The End |
-| B4 | (Don't Fear) The Reaper |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -70,4 +70,4 @@ Greatest Lovesongs Vol. 666 received positive reviews from critics, who commende
 | Label          | RCA |
 | Catalog Number | 19439982221 |
 | Notes | 25th anniversary re-Issue, released on standard black vinyl in a gatefold cover.  Lyrics and credits are printed to the inside of the gatefold. |
-| Discogs URL    | [HIM - Greatest Lovesongs Vol. 666](https://www.discogs.com/release/25047838-HIM-2-Greatest-Lovesongs-Vol-666) |
+| Discogs URL    | [HIM (2) - Greatest Lovesongs Vol. 666](https://www.discogs.com/release/25047838-HIM-2-Greatest-Lovesongs-Vol-666) |

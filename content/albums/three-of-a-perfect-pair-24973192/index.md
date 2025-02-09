@@ -36,17 +36,17 @@ Three of a Perfect Pair is the tenth studio album by English progressive rock ba
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Left Side |
-| A1 | Three Of A Perfect Pair |
-| A2 | Model Man |
-| A3 | Sleepless |
-| A4 | Man With An Open Heart |
-| A5 | Nuages (That Which Passes, Passes Like Clouds) |
-|  | Right Side |
-| B1 | Industry |
-| B2 | Dig Me |
-| B3 | No Warning |
-| B4 | Larks' Tongues In Aspic Part III |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

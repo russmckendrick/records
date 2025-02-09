@@ -35,15 +35,15 @@ styles: ["Thrash"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Blackened |
-| A2 | …And Justice for All |
-| B1 | Eye Of The Beholder |
-| B2 | One |
-| C1 | The Shortest Straw |
-| C2 | Harvester Of Sorrow |
-| C3 | The Frayed Ends Of Sanity |
-| D1 | To Live Is To Die |
-| D2 | Dyers Eve |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

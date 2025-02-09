@@ -41,18 +41,18 @@ We Can't Dance was a worldwide commercial success for the band. It became the ba
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | No Son Of Mine |
-| A2 | Jesus He Knows Me |
-| A3 | Driving The Last Spike |
-| B1 | I Can't Dance |
-| B2 | Never A Time |
-| B3 | Dreaming While You Sleep |
-| C1 | Tell Me Why |
-| C2 | Living Forever |
-| C3 | Hold On My Heart |
-| D1 | Way Of The World |
-| D2 | Since I Lost You |
-| D3 | Fading Lights |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

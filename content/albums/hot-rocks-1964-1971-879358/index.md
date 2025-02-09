@@ -33,27 +33,27 @@ styles: ["Blues Rock", "Classic Rock", "Rhythm & Blues"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Time Is On My Side |
-| A2 | Heart Of Stone |
-| A3 | Play With Fire |
-| A4 | (I Can't Get No) Satisfaction |
-| A5 | As Tears Go By |
-| A6 | Get Off Of My Cloud |
-| B1 | Mother's Little Helper |
-| B2 | 19th Nervous Breakdown |
-| B3 | Paint It, Black |
-| B4 | Under My Thumb |
-| B5 | Ruby Tuesday |
-| B6 | Let's Spend The Night Together |
-| C1 | Jumpin' Jack Flash |
-| C2 | Street Fighting Man |
-| C3 | Sympathy For The Devil |
-| C4 | Honky Tonk Women |
-| C5 | Gimme Shelter |
-| D1 | Midnight Rambler (Live) |
-| D2 | You Can't Always Get What You Want |
-| D3 | Brown Sugar |
-| D4 | Wild Horses |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

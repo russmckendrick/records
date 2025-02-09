@@ -32,13 +32,13 @@ styles: ["Experimental", "Ambient", "Dark Ambient", "Leftfield", "IDM"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Solar Sea |
-| A2 | New Found Land |
-|  | Night Of The Hunter |
-| C4 | Interstellar Medium |
-| C5 | Unholy |
-| D6 | Shafts Of Light |
-| D7 | Solar Storm |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

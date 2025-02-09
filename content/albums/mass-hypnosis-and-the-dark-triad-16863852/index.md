@@ -31,14 +31,14 @@ styles: ["Avantgarde", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | All Through The Night |
-| A2 | Mirror Of Tomorrow |
-| A3 | Celador |
-| A4 | The Dark Triad |
-| B1 | Psychopathy |
-| B2 | Days Of Old |
-| B3 | Message From The Sky |
-| B4 | Mass Hypnosis |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

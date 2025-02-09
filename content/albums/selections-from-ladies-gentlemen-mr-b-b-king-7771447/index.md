@@ -1,7 +1,7 @@
 ---
-title: "BB King - Selections From: Ladies & Gentlemen ... Mr. B.B. King"
-artist_name: "BB King"
-artist: "bb-king"
+title: "B.B. King - Selections From: Ladies & Gentlemen ... Mr. B.B. King"
+artist_name: "B.B. King"
+artist: "b-b-king"
 album_name: "Selections From: Ladies & Gentlemen ... Mr. B.B. King"
 date: 2015-12-01T22:11:01.000000Z
 release_date: "2015-01-02"
@@ -10,8 +10,8 @@ slug: "selections-from-ladies-gentlemen-mr-b-b-king-7771447"
 hideSummary: true
 cover:
     image: "selections-from-ladies-gentlemen-mr-b-b-king-7771447.jpg"
-    alt: "Selections From: Ladies & Gentlemen ... Mr. B.B. King by BB King"
-    caption: "Selections From: Ladies & Gentlemen ... Mr. B.B. King by BB King"
+    alt: "Selections From: Ladies & Gentlemen ... Mr. B.B. King by B.B. King"
+    caption: "Selections From: Ladies & Gentlemen ... Mr. B.B. King by B.B. King"
 additional_images:
     - "https://i.discogs.com/DpzUxYFh3k4x6zNPIdJSdyCnOKrCqba-U5QNA2qBjBM/rs:fit/g:sm/q:90/h:393/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzE0/NDctMTQ0ODQ0Mjcy/NS01ODI0LmpwZWc.jpeg"
     - "https://i.discogs.com/Kv9W7qDjmn2IWcT0b1eo84b-VSaS56IEh3oPvndHmn0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzE0/NDctMTUxOTc2OTI2/NC05NDU1LmpwZWc.jpeg"
@@ -39,23 +39,23 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | How Blue Can You Get? |
-| A2 | I Wonder Why |
-| A3 | Think It Over |
-| A4 | The Thrill Is Gone |
-| A5 | Chains And Things |
-| B1 | Worry, Worry |
-| B2 | Sweet Sixteen |
-| B3 | Ghetto Woman |
-| C1 | There Must Be A Better World Somewhere |
-| C2 | When Love Comes To Town |
-| C3 | Stormy Monday Blues |
-| C4 | Blues Man |
-| D1 | Caldonia |
-| D2 | You Have A Way |
-| D3 | Key To The Highway (Live)  |
-| D4 | Get These Blues Off Me  |
-| D5 | See That My Grave Is Kept Clean |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -73,4 +73,4 @@ styles: []
 | Label          | Universal Music Group International |
 | Catalog Number | 0600753629734 |
 | Notes | Includes voucher to download MP3 version of the album. Gatefold cover. Made in Germany (on back cover), Made in The E.U. (on label Sie1 & Side 3) |
-| Discogs URL    | [BB King - Selections From: Ladies & Gentlemen ... Mr. B.B. King](https://www.discogs.com/release/7771447-BB-King-Selections-From-Ladies-Gentlemen--Mr-BB-King) |
+| Discogs URL    | [B.B. King - Selections From: Ladies & Gentlemen ... Mr. B.B. King](https://www.discogs.com/release/7771447-BB-King-Selections-From-Ladies-Gentlemen--Mr-BB-King) |

@@ -1,6 +1,6 @@
 ---
-title: "Dr John - Gris-Gris"
-artist_name: "Dr John"
+title: "Dr. John - Gris-Gris"
+artist_name: "Dr. John"
 artist: "dr-john"
 album_name: "Gris-Gris"
 date: 2015-08-10T18:40:06.000000Z
@@ -10,8 +10,8 @@ slug: "gris-gris-4673220"
 hideSummary: true
 cover:
     image: "gris-gris-4673220.jpg"
-    alt: "Gris-Gris by Dr John"
-    caption: "Gris-Gris by Dr John"
+    alt: "Gris-Gris by Dr. John"
+    caption: "Gris-Gris by Dr. John"
 additional_images:
     - "https://i.discogs.com/wuWRVKBHyXmiDwmYo0CQJ5O75AjHZ2Rd-LoV6Z2JCQk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzMy/MjAtMTY4MDM2NDI1/OC0zMDUwLmpwZWc.jpeg"
     - "https://i.discogs.com/GeFXdhe-eCGfIOzNe9GBIRMSj-PWzqkpeeUbr_ebw1c/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzMy/MjAtMTY4MDM2NDI1/OC0zMDIzLmpwZWc.jpeg"
@@ -32,13 +32,13 @@ Gris-Gris failed to chart in the United Kingdom and the United States. It was re
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Gris-Gris Gumbo Ya Ya |
-| A2 | Danse Kalinda Ba Doom |
-| A3 | Mama Roux |
-| A4 | Danse Fambeaux |
-| B1 | Croker Courtbullion |
-| B2 | Jump Sturdy |
-| B3 | I Walk On Guilded Splinters |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -57,4 +57,4 @@ Gris-Gris failed to chart in the United Kingdom and the United States. It was re
 | Label          | ATCO Records |
 | Catalog Number | SD 33-234 |
 | Notes | Rhino 180gm re-issue with green custom sticker on front featuring "The debut album from Dr. John, The Night Tripper ...".  On back cover and labels: ℗© 1968 Atlantic Recording Corporation. Marketed by Rhino Entertainment Company, a Warner Music Group Company. Manufactured In EU. LC02982  Liner notes uncredited.  On runouts: All is etched Last code (after MK) is mirrored   |
-| Discogs URL    | [Dr John - Gris-Gris](https://www.discogs.com/release/4673220-Dr-JohnNight-Tripper-Gris-Gris) |
+| Discogs URL    | [Dr. John - Gris-Gris](https://www.discogs.com/release/4673220-Dr-JohnNight-Tripper-Gris-Gris) |

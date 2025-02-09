@@ -33,9 +33,9 @@ We Die Young is a song and single EP by the American rock band Alice in Chains, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | We Die Young |
-| C1 | It Ain't Like That |
-| C2 | Killing Yourself |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

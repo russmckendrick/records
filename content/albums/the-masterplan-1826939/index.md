@@ -1,6 +1,6 @@
 ---
-title: "Oasis - The Masterplan"
-artist_name: "Oasis"
+title: "Oasis (2) - The Masterplan"
+artist_name: "Oasis (2)"
 artist: "oasis"
 album_name: "The Masterplan"
 date: 2017-04-22T09:59:49.000000Z
@@ -10,8 +10,8 @@ slug: "the-masterplan-1826939"
 hideSummary: true
 cover:
     image: "the-masterplan-1826939.jpg"
-    alt: "The Masterplan by Oasis"
-    caption: "The Masterplan by Oasis"
+    alt: "The Masterplan by Oasis (2)"
+    caption: "The Masterplan by Oasis (2)"
 additional_images:
     - "https://i.discogs.com/RORl3f2J_rNPz2pC0_7gBlM_4kzFqe_1dfJij5hXPRs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjY5/MzktMTQ5NzE4NTQ5/MS04MDgwLmpwZWc.jpeg"
     - "https://i.discogs.com/PNHW1BBI5oq3laFdSdBt3Npi1ZI4PboY75a6TdbZBwU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MjY5/MzktMTQ5NzE4NTUx/Ny00NTQ4LmpwZWc.jpeg"
@@ -40,20 +40,20 @@ The Masterplan is a compilation album by the English rock band Oasis. It was rel
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Acquiesce |
-| A2 | Underneath The Sky |
-| A3 | Talk Tonight |
-| A4 | Going Nowhere |
-| B1 | Fade Away |
-| B2 | The Swamp Song |
-| B3 | I Am The Walrus (Live) |
-| C1 | Listen Up |
-| C2 | Rockin' Chair |
-| C3 | Half The World Away |
-| D1 | (It's Good) To Be Free |
-| D2 | Stay Young |
-| D3 | Headshrinker |
-| D4 | The Masterplan |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -72,4 +72,4 @@ The Masterplan is a compilation album by the English rock band Oasis. It was rel
 | Label          | Creation Records |
 | Catalog Number | CRELP 241 |
 | Notes | Gatefold sleeve.  Track durations not shown on release.  Comes with a circular sticker on the sleeve which reads: CRELP241 Oasis The Masterplan Includes The Tracks 'The Masterplan' 'Acquiesce' 'Stay Young'.  ℗ & © 1998 Creation Records Ltd.  |
-| Discogs URL    | [Oasis - The Masterplan](https://www.discogs.com/release/1826939-Oasis-2-The-Masterplan) |
+| Discogs URL    | [Oasis (2) - The Masterplan](https://www.discogs.com/release/1826939-Oasis-2-The-Masterplan) |

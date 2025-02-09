@@ -1,6 +1,6 @@
 ---
-title: "St Vincent - All Born Screaming"
-artist_name: "St Vincent"
+title: "St. Vincent - All Born Screaming"
+artist_name: "St. Vincent"
 artist: "st-vincent"
 album_name: "All Born Screaming"
 date: 2024-04-30T11:45:09.000000Z
@@ -10,8 +10,8 @@ slug: "all-born-screaming-30547978"
 hideSummary: true
 cover:
     image: "all-born-screaming-30547978.jpg"
-    alt: "All Born Screaming by St Vincent"
-    caption: "All Born Screaming by St Vincent"
+    alt: "All Born Screaming by St. Vincent"
+    caption: "All Born Screaming by St. Vincent"
 additional_images:
     - "https://i.discogs.com/8GKLqguV96XIe1a4RpuZL7sUk71bKT8laAxkKKHcJyQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/OTc4LTE3MTQ2OTIw/ODMtNTcyMy5qcGVn.jpeg"
     - "https://i.discogs.com/n0gxYR_-wNTsbmhydSNmH8xEF6SPVDO6VWbECxHOeRo/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTQ3/OTc4LTE3MTQ2OTIw/ODItNjIxMC5qcGVn.jpeg"
@@ -51,16 +51,16 @@ With <i>All Born Screaming</i>, Clark manages to capture the bloody nature of th
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hell Is Near |
-| A2 | Reckless |
-| A3 | Broken Man |
-| A4 | Flea |
-| A5 | Big Time Nothing |
-| B1 | Violent Times |
-| B2 | The Power's Out |
-| B3 | Sweetest Fruit |
-| B4 | So Many Planets |
-| B5 | All Born Screaming |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -79,4 +79,4 @@ With <i>All Born Screaming</i>, Clark manages to capture the bloody nature of th
 | Label          | Total Pleasure Records |
 | Catalog Number | 00196922801839 |
 | Notes | Rough Trade exclusive Limited Edition of 2500. 50 copies with a signed print of the album sleeve were released as part of the Rough Trade year end list.   Made in Germany. |
-| Discogs URL    | [St Vincent - All Born Screaming](https://www.discogs.com/release/30547978-St-Vincent-All-Born-Screaming) |
+| Discogs URL    | [St. Vincent - All Born Screaming](https://www.discogs.com/release/30547978-St-Vincent-All-Born-Screaming) |

@@ -27,19 +27,19 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Part I |
-| A1 | Disclaimer |
-| A2 | Dream Job |
-| A3 | Money Babies |
-| B1 | Berlin Heart |
-| B2 | Lights Off |
-|  | Part II |
-| C1 | Crisis 1&2 |
-| C2 | Demons |
-| C3 | Missiles |
-| D1 | Meltdown In A Major |
-|  | Part III |
-| D2 | Saviour |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

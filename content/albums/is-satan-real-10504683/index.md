@@ -33,13 +33,13 @@ styles: ["Psychedelic Rock", "Prog Rock", "Folk Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Mountain Heart |
-| A2 | Black Slug |
-| A3 | Movements In The Sky |
-| A4 | Answers In Your Soul |
-| B1 | Is Satan Real? |
-| B2 | Watch It Grow |
-| B3 | Evil In Your Eye |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

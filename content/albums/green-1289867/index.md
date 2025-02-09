@@ -1,7 +1,7 @@
 ---
-title: "REM - Green"
-artist_name: "REM"
-artist: "rem"
+title: "R.E.M. - Green"
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "Green"
 date: 2016-01-20T19:29:13.000000Z
 release_date: "2024-10-04"
@@ -10,8 +10,8 @@ slug: "green-1289867"
 hideSummary: true
 cover:
     image: "green-1289867.jpg"
-    alt: "Green by REM"
-    caption: "Green by REM"
+    alt: "Green by R.E.M."
+    caption: "Green by R.E.M."
 additional_images:
     - "https://i.discogs.com/uDDosfCaODLEsQZ5i6UfarH7J5ZJMpzkbKIXCYe1kPY/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/NjctMTQ5NDA4MjY4/MC04NjgyLmpwZWc.jpeg"
     - "https://i.discogs.com/uMcsW4SudpE4wray-PbyySv9-euRfGTzpg4PlgHZ-R8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/NjctMTQ5NDA4Mjcy/My01MTQ3LmpwZWc.jpeg"
@@ -39,19 +39,19 @@ Upon its release, Green was a critical and commercial success. To promote Green,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Air |
-| A1 | Pop Song 89 |
-| A2 | Get Up |
-| A3 | You Are The Everything |
-| A4 | Stand |
-| A5 | World Leader Pretend |
-| A6 | The Wrong Child |
-|  | Metal |
-| B7 | Orange Crush |
-| B8 | Turn You Inside Out |
-| B9 | Hairshirt |
-| B10 | I Remember California |
-| B11 | Untitled |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -70,4 +70,4 @@ Upon its release, Green was a critical and commercial success. To promote Green,
 | Label          | Warner Bros. Records |
 | Catalog Number | 925 795-1 |
 | Notes | Recorded at Ardent Studios, Memphis, Tennessee. Mixed at Bearsville Studios, Bearsville, New York. Mastered at Masterdisk N.Y.C.  Manufactured in Germany by Record Service GmbH, Alsdorf (on center labels). Manufactured in Germany. Pressé En Allemagne: Teldec Record Service GmbH. A Warner Communications Company (on the sleeve)  Sleeve notes include lyrics to "World Leader Pretend."  The front cover has the text '4' in spot varnish twice. Many copies of this release had two stickers on the back cover. One white sticker with a barcode, various catalog numbers, a French price code, and one gray sticker with the tracklisting.  "UK: WX 234” on spine, indicating WX 234 is the UK catalog number.  Tracks are numbered sequentially across both sides. Sides are labeled "Air" and "Metal."  © 1988 R.E.M./Athens Ltd. ℗ 1988 R.E.M./Athens Ltd.  Publisher: Night Garden Music BMI  Track B11 only noted on the label.  For a Direct Metal Mastered (DMM) version also pressed at Alsdorf, please see [r=15202613]. For a mixed Alsdorf pressing with DMM on one side and BN on the other, please see [r=15174885].  Runouts: "R/S Alsdorf 925795-1-A(B)" is stamped, the remainder is etched. |
-| Discogs URL    | [REM - Green](https://www.discogs.com/release/1289867-REM-Green) |
+| Discogs URL    | [R.E.M. - Green](https://www.discogs.com/release/1289867-REM-Green) |

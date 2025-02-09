@@ -30,72 +30,72 @@ styles: ["Hard Rock", "Arena Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Van Halen (2015 Remaster) |
-| A1 | Runnin' With The Devil |
-| A2 | Eruption |
-| A3 | You Really Got Me |
-| A4 | Ain't Talkin 'Bout Love |
-| A5 | I'm The One |
-| B1 | Jamie's Cryin' |
-| B2 | Atomic Punk |
-| B3 | Feel Your Love Tonight |
-| B4 | Little Dreamer |
-| B5 | Ice Cream Man |
-| B6 | On Fire |
-|  | Van Halen II (2015 Remaster) |
-| C1 | You're No Good |
-| C2 | Dance The Night Away |
-| C3 | Somebody Get Me A Doctor |
-| C4 | Bottoms Up! |
-| C5 | Outta Love Again |
-| D1 | Light Up The Sky |
-| D2 | Spanish Fly |
-| D3 | D.O.A. |
-| D4 | Women In Love... |
-| D5 | Beautiful Girls |
-|  | Women And Children First (2015 Remaster) |
-| E1 | And The Cradle Will Rock... |
-| E2 | Everybody Wants Some!! |
-| E3 | Fools |
-| E4 | Romeo Delight |
-| F1 | Tora! Tora! |
-| F2 | Loss Of Control |
-| F3 | Take Your Whiskey Home |
-| F4 | Could This Be Magic |
-| F5 | In A Simple Rhyme |
-|  | Fair Warning (2015 Remaster) |
-| G1 | Mean Street |
-| G2 | "Dirty Movies" |
-| G3 | Sinner's Swing |
-| G4 | Hear About It Later |
-| H1 | Unchained |
-| H2 | Push Comes To Shove |
-| H3 | So This Is Love? |
-| H4 | Sunday Afternoon In The Park |
-| H5 | One Foot Out Of The Door |
-|  | Diver Down (2015 Remaster) |
-| I1 | Where Have All The Good Times Gone! |
-| I2 | Hang 'Em High |
-| I3 | Cathedral |
-| I4 | Secrets |
-| I5 | Intruder |
-| I6 | (Oh) Pretty Woman |
-| J1 | Dancing In The Street |
-| J2 | Little Guitars (Intro) |
-| J3 | Little Guitars |
-| J4 | Big Bad Bill (Is Sweet William Now) |
-| J5 | The Full Bug |
-| J6 | Happy Trails |
-|  | 1984 (2015 Remaster) |
-| K1 | 1984 |
-| K2 | Jump |
-| K3 | Panama |
-| K4 | Top Jimmy |
-| K5 | Drop Dead Legs |
-| L1 | Hot For Teacher |
-| L2 | I'll Wait |
-| L3 | Girl Gone Bad |
-| L4 | House Of Pain |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -31,19 +31,19 @@ Welcome to Sky Valley (also known as Sky Valley and Kyuss) is the third studio a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | I |
-| A1 | Gardenia |
-| A2 | Asteroid |
-| A3 | Supa Scoopa And Mighty Scoop |
-|  | II |
-| A4 | 100° |
-| A5 | Space Cadet |
-| B6 | Demon Cleaner |
-|  | III |
-| B7 | Odyssey |
-| B8 | Conan Troutman |
-| B9 | N.O. |
-| B10 | Whitewater |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

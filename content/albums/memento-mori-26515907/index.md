@@ -69,18 +69,18 @@ Gahan: “Well, it's sort of metaphors. The loneliness, the emptiness, the void,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | My Cosmos Is Mine |
-| A2 | Wagging Tongue |
-| A3 | Ghosts Again |
-| A4 | Don't Say You Love Me |
-| B1 | My Favourite Stranger |
-| B2 | Soul With Me |
-| B3 | Caroline's Monkey |
-| B4 | Before We Drown |
-| C1 | People Are Good |
-| C2 | Always You |
-| C3 | Never Let Me Go |
-| C4 | Speak To Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

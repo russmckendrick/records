@@ -34,16 +34,16 @@ A maverick to his Virginia-born bones, Earle took a long stride toward freedom o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Copperhead Road |
-| A2 | Snake Oil |
-| A3 | Back To The Wall |
-| A4 | The Devil's Right Hand |
-| A5 | Johnny Come Lately |
-| B1 | Even When I'm Blue |
-| B2 | You Belong To Me |
-| B3 | Waiting On You |
-| B4 | Once You Love |
-| B5 | Nothing But A Child |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

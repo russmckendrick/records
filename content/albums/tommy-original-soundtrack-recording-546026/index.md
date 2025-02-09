@@ -37,37 +37,37 @@ styles: ["Soundtrack", "Pop Rock", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Prologue - 1945 |
-| A2 | Captain Walker / It's A Boy |
-| A3 | Bernie's Holiday Camp |
-| A4 | 1951 / What About The Boy? |
-| A5 | Amazing Journey |
-| A6 | Christmas |
-| A7 | Eyesight To The Blind |
-| B1 | Acid Queen |
-| B2 | Do You Think It's Alright (1) |
-| B3 | Cousin Kevin |
-| B4 | Do You Think It's Alright (2) |
-| B5 | Fiddle About |
-| B6 | Do You Think It's Alright (3) |
-| B7 | Sparks |
-| B8 | Extra, Extra, Extra |
-| B9 | Pinball Wizard |
-| C1 | Champagne |
-| C2 | There's A Doctor |
-| C3 | Go To The Mirror |
-| C4 | Tommy Can You Hear Me? |
-| C5 | Smash The Mirror |
-| C6 | I'm Free |
-| C7 | Mother And Son |
-| C8 | Sensation |
-| D1 | Miracle Cure |
-| D2 | Sally Simpson |
-| D3 | Welcome |
-| D4 | T.V. Studio |
-| D5 | Tommy's Holiday Camp |
-| D6 | We're Not Gonna Take It |
-| D7 | Listening To You / See Me, Feel Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

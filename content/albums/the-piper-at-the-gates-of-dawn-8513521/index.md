@@ -40,17 +40,17 @@ The album has since been hailed as a pivotal psychedelic music recording. Specia
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Astronomy Dominé |
-| A2 | Lucifer Sam |
-| A3 | Matilda Mother |
-| A4 | Flaming |
-| A5 | Pow R. Toc H. |
-| A6 | Take Up Thy Stethoscope And Walk |
-| B1 | Interstellar Overdrive |
-| B2 | The Gnome |
-| B3 | Chapter 24 |
-| B4 | The Scarecrow |
-| B5 | Bike |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

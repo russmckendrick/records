@@ -67,43 +67,43 @@ On January 8, 2021, the Black Crowes announced that a 30th anniversary edition o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Twice As Hard |
-| A2 | Jealous Again |
-| A3 | Sister Luck |
-| A4 | Could I've Been So Blind |
-| A5 | Seeing Things |
-| B1 | Hard To Handle |
-| B2 | Thick N' Thin |
-| B3 | She Talks To Angels |
-| B4 | Struttin' Blues |
-| B5 | Stare It Cold |
-| B6 | Mercy, Sweet Moan |
-|  | More Money Maker: Unreleased Songs & B-Sides |
-| C1 | Charming Mess |
-| C2 | 30 Days In The Hole |
-| C3 | Don't Wake Me |
-| C4 | Jealous Guy |
-| C5 | Waitin' Guilty |
-| C6 | Hard To Handle |
-| D1 | Jealous Again (Acoustic Version) |
-| D2 | She Talks To Angels (Acoustic Version) |
-| D3 | She Talks To Angels (Mr. Crowe's Garden Demo) |
-| D4 | Front Porch Sermon (Mr. Crowe's Garden Demo) |
-|  | The Homecoming Concert: Atlanta, GA December 1990 |
-| E1 | Introduction |
-| E2 | Thick N' Thin |
-| E3 | You're Wrong |
-| E4 | Twice As Hard |
-| E5 | Could I've Been So Blind |
-| E6 | Seeing Things |
-| F1 | She Talks To Angels |
-| F2 | Sister Luck |
-| F3 | Hard To Handle |
-| F4 | Shake 'Em On Down / Get Back |
-| G1 | Struttin' Blues |
-| G2 | Words You Throw Away |
-| H1 | Stare It Cold |
-| H2 | Jealous Again |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

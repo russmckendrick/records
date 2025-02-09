@@ -49,63 +49,63 @@ To celebrate the 15th anniversary of the film The Virgin Suicides, a deluxe edit
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | The Virgin Suicides (Original Motion Picture Score) |
-| LP1-AI | Playground Love |
-| LP1-AII | Clouds Up |
-| LP1-AIII | Bathroom Girl |
-| LP1-AIV | Cemetary Party |
-| LP1-AV | Dark Messages |
-| LP1-AVI | The Word 'Hurricane' |
-| LP1-AVII | Dirty Trip |
-| LP1-BI | Highschool Lover (Theme From The Virgin Suicides) |
-| LP1-BII | Afternoon Sister |
-| LP1-BIII | Ghost Song |
-| LP1-BIV | Empty House |
-| LP1-BV | Dead Bodies |
-| LP1-BVI | Suicide Underground |
-|  | The Virgin Suicides Picture Disc - Live - Exclusive |
-| LP2-AI | Playground Love (KCRW L.A Radio Jan 2000) |
-| LP2-AII | Dark Messages / The Word 'Hurricane' (KCRW L.A Radio Jan 2000) |
-| LP2-AIII | Highschool Lover (KCRW L.A Radio Jan 2000) |
-| LP2-AIV | Clouds Up (Live L.A Jan 2000) |
-| LP2-AV | Bathroom Girl (Live L.A Jan 2000) |
-| LP2-BI | Dirty Trip (Live L.A Jan 2000) |
-| LP2-BII | Empty House (Live L.A Jan 2000) |
-| LP2-BIII | Dead Bodies (Live L.A Jan 2000) |
-| LP2-BIV | Cemetary Party (Live L.A Jan 2000) |
-| LP2-BV | Suicide Underground (Live L.A Jan 2000) |
-|  | Playground Love EP |
-| 12"-AI | Playground Love |
-| 12"-BI | Playground Love (Nosferatu Remix by Flower Pistols) |
-| 12"-BII | Playground Love (Highschool Prom – Rob Remix) |
-|  | Original Motion Picture Score |
-| CD1-I | Playground Love |
-| CD1-II | Clouds Up |
-| CD1-III | Bathroom Girl |
-| CD1-IV | Cemetary Party |
-| CD1-V | Dark Messages |
-| CD1-VI | The Word 'Hurricane' |
-| CD1-VII | Dirty Trip |
-| CD1-VIII | Highschool Lover |
-| CD1-IX | Afternoon Sister |
-| CD1-X | Ghost Song |
-| CD1-XI | Empty House |
-| CD1-XII | Dead Bodies |
-| CD1-XIII | Suicide Underground |
-|  | Bonus |
-| CD1-XIV | Bathroom Girl (Demo version) |
-| CD1-XV | Playground Love (Vibraphone version) |
-|  | Live - Exclusive |
-| CD2-I | Playground Love (KCRW L.A Radio Jan 2000) |
-| CD2-II | Dark Messages / The Word 'Hurricane' (KCRW L.A Radio Jan 2000) |
-| CD2-III | Highschool Lover (KCRW L.A Radio Jan 2000) |
-| CD2-IV | Clouds Up (Live L.A Jan 2000) |
-| CD2-V | Bathroom Girl (Live L.A Jan 2000) |
-| CD2-VI | Dirty Trip (Live L.A Jan 2000) |
-| CD2-VII | Empty House (Live L.A Jan 2000) |
-| CD2-VIII | Dead Bodies (Live L.A Jan 2000)	 |
-| CD2-IX | Cemetary Party (Live L.A Jan 2000) |
-| CD2-X | Suicide Underground (Live L.A Jan 2000) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

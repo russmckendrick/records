@@ -34,10 +34,10 @@ styles: ["Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Fingers Of Love (Live) |
-| A2 | Love U Till The Day I Die (Live) |
-| B1 | Whispers And Moans (Live) |
-| B2 | It's Only Natural (Live) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

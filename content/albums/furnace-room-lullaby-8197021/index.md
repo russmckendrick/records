@@ -1,6 +1,6 @@
 ---
-title: "Neko Case  Her Boyfriends - Furnace Room Lullaby"
-artist_name: "Neko Case  Her Boyfriends"
+title: "Neko Case & Her Boyfriends - Furnace Room Lullaby"
+artist_name: "Neko Case & Her Boyfriends"
 artist: "neko-case-her-boyfriends"
 album_name: "Furnace Room Lullaby"
 date: 2022-03-19T06:48:23.000000Z
@@ -10,8 +10,8 @@ slug: "furnace-room-lullaby-8197021"
 hideSummary: true
 cover:
     image: "furnace-room-lullaby-8197021.jpg"
-    alt: "Furnace Room Lullaby by Neko Case  Her Boyfriends"
-    caption: "Furnace Room Lullaby by Neko Case  Her Boyfriends"
+    alt: "Furnace Room Lullaby by Neko Case & Her Boyfriends"
+    caption: "Furnace Room Lullaby by Neko Case & Her Boyfriends"
 additional_images:
     - "https://i.discogs.com/e5q7F6vKNzVs15jx9aRNEArJ2seCaPeeeGehsCY1YFg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTcw/MjEtMTQ1Njk0Nzkx/Ny01NTEwLmpwZWc.jpeg"
     - "https://i.discogs.com/nk6w5mDBBpVVKrMQlMgR5oKp3kZ15jc1-U24rEFVsxM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxOTcw/MjEtMTU0NjI3ODc0/OC00MTU5LmpwZWc.jpeg"
@@ -31,18 +31,18 @@ The title track was included on the soundtrack to Sam Raimi's film The Gift.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Set Out Running |
-| A2 | Guided By Wire |
-| A3 | Porchlight |
-| A4 | Mood To Burn Bridges |
-| A5 | No Need To Cry |
-| A6 | Twist The Knife |
-| B1 | Thrice All American |
-| B2 | We've Never Met |
-| B3 | Whip The Blankets |
-| B4 | South Tacoma Way |
-| B5 | Bought And Sold |
-| B6 | Furnace Room Lullaby |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -61,4 +61,4 @@ The title track was included on the soundtrack to Sam Raimi's film The Gift.
 | Label          | Anti- |
 | Catalog Number | #86915-1 |
 | Notes | Download card included.  "#86915-1" is on the spine "99976-1" is on the sticker that states that the download card is included "86915-1CRM (Clear/Red)" is on the bar code sticker  Copyright is 2015 but the lp was reissued on March 4th, 2016.   |
-| Discogs URL    | [Neko Case  Her Boyfriends - Furnace Room Lullaby](https://www.discogs.com/release/8197021-Neko-Case-Her-Boyfriends-Furnace-Room-Lullaby) |
+| Discogs URL    | [Neko Case & Her Boyfriends - Furnace Room Lullaby](https://www.discogs.com/release/8197021-Neko-Case-Her-Boyfriends-Furnace-Room-Lullaby) |

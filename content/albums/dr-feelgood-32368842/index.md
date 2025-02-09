@@ -40,17 +40,17 @@ styles: ["Hard Rock", "Glam"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | T.N.T (Terror 'N' Tinseltown) |
-| A2 | Dr. Feelgood |
-| A3 | Slice Of Your Pie |
-| A4 | Rattlesnake Shake |
-| A5 | Kickstart My Heart |
-| A6 | Without You |
-| B1 | Same Ol' Situation (S.O.S.) |
-| B2 | Sticky Sweet |
-| B3 | She Goes Down |
-| B4 | Don't Go Away Mad (Just Go Away) |
-| B5 | Time For Change |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

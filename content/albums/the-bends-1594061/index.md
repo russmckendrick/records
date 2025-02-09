@@ -42,18 +42,18 @@ The rest of <i>The Bends</i> is just as invigorating. Though these are recognisa
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Planet Telex |
-| A2 | The Bends |
-| A3 | High And Dry |
-| A4 | Fake Plastic Trees |
-| A5 | Bones |
-| A6 | (Nice Dream) |
-| B1 | Just |
-| B2 | My Iron Lung |
-| B3 | Bullet Proof..I Wish I Was |
-| B4 | Black Star |
-| B5 | Sulk |
-| B6 | Street Spirit (Fade Out) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

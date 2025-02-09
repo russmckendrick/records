@@ -42,39 +42,39 @@ The tour grossed US$46 million, making it the ninth-highest-grossing tour of 200
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Rebel, Rebel |
-| A2 | New Killer Star |
-| A3 | Reality |
-| A4 | Fame |
-| A5 | Cactus |
-| A6 | Sister Midnight |
-| B1 | Afraid |
-| B2 | All The Young Dudes |
-| B3 | Be My Wife |
-| B4 | The Loneliest Guy |
-| B5 | The Man Who Sold the World |
-| B6 | Sunday |
-| C1 | Fantastic Voyage |
-| C2 | Hallo Spaceboy |
-| C3 | Under Pressure |
-| C4 | Life On Mars |
-| C5 | Battle For Britain (The Letter) |
-| C6 | Never Get Old |
-| D1 | Ashes To Ashes |
-| D2 | The Motel |
-| D3 | Loving The Alien |
-| D4 | Changes |
-| D5 | I'm Afraid Of Americans |
-| E1 | Heroes |
-| E2 | Bring Me The Disco King |
-| E3 | Slip Away |
-| E4 | Heathen (The Rays) |
-| F1 | Five Years |
-| F2 | Hang On To Yourself |
-| F3 | Ziggy Stardust |
-| F4 | Fall Dogs Bomb The Moon |
-| F5 | Breaking Glass |
-| F6 | China Girl |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

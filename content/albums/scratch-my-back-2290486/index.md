@@ -32,18 +32,18 @@ Scratch My Back was initially released on compact disc and as music download; a 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Heroes |
-| A2 | The Boy In The Bubble |
-| A3 | Mirrorball |
-| A4 | Flume |
-| A5 | Listening Wind |
-| A6 | The Power Of The Heart |
-| B1 | My Body Is A Cage |
-| B2 | The Book Of Love |
-| B3 | I Think It's Going To Rain Today |
-| B4 | Après Moi |
-| B5 | Philadelphia |
-| B6 | Street Spirit (Fade Out) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -1,6 +1,6 @@
 ---
-title: "Guns N Roses - Greatest Hits"
-artist_name: "Guns N Roses"
+title: "Guns N' Roses - Greatest Hits"
+artist_name: "Guns N' Roses"
 artist: "guns-n-roses"
 album_name: "Greatest Hits"
 date: 2020-10-27T13:37:34.000000Z
@@ -10,8 +10,8 @@ slug: "greatest-hits-15959531"
 hideSummary: true
 cover:
     image: "greatest-hits-15959531.jpg"
-    alt: "Greatest Hits by Guns N Roses"
-    caption: "Greatest Hits by Guns N Roses"
+    alt: "Greatest Hits by Guns N' Roses"
+    caption: "Greatest Hits by Guns N' Roses"
 additional_images:
     - "https://i.discogs.com/isTJwf1ItVWO_68K3dcyLFhE17auweHCyFdP33RTwro/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU5/NTMxLTE2MDIxNTgx/MDEtOTcwNy5qcGVn.jpeg"
     - "https://i.discogs.com/bkGHeVt4koZMvNUHpf12ID89tSj3pUtptipT5I_GmXw/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU5/NTMxLTE2MDU3MzA0/MjctMjY2Mi5qcGVn.jpeg"
@@ -38,21 +38,21 @@ Despite the album having almost no promotion, it reached number one on the UK Al
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| G1 | Welcome To The Jungle |
-| G2 | Sweet Child O'  Mine |
-| G3 | Shadow Of Your Love |
-| G4 | Patience |
-| N1 | Paradise City |
-| N2 | Knockin' On Heaven's Door |
-| N3 | Civil War |
-| F'N1 | You Could Be Mine |
-| F'N2 | Don't Cry (Original) |
-| F'N3 | November Rain |
-| F'N4 | Live And Let Die |
-| R1 | Yesterdays |
-| R2 | Ain't It Fun |
-| R3 | Since I Don't Have You |
-| R4 | Sympathy For The Devil |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -71,4 +71,4 @@ Despite the album having almost no promotion, it reached number one on the UK Al
 | Label          | Geffen Records |
 | Catalog Number | 00602435054032 |
 | Notes | Guns N' Roses Greatest Hits is being released on 2LP vinyl for the very first time. The band is in full support of the vinyl reissue and have approved the rework of the artwork for a new feel with different colours and new photos. The collection is also being updated with their latest hit "Shadow Of Your Love" from the 2018 Appetite For Destruction: Locked N' Loaded boxset.  Made in Germany. |
-| Discogs URL    | [Guns N Roses - Greatest Hits](https://www.discogs.com/release/15959531-Guns-N-Roses-Greatest-Hits) |
+| Discogs URL    | [Guns N' Roses - Greatest Hits](https://www.discogs.com/release/15959531-Guns-N-Roses-Greatest-Hits) |

@@ -33,18 +33,18 @@ A New Morning is the fifth studio album by English alternative rock band Suede, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Positivity |
-| A2 | Obsessions |
-| A3 | Lonely Girls |
-| A4 | Lost In TV |
-| A5 | Beautiful Loser |
-| A6 | Streetlife |
-| B1 | Astrogirl |
-| B2 | Untitled |
-| B3 | ...Morning |
-| B4 | One Hit To The Body |
-| B5 | When The Rain Falls |
-| B6 | Oceans |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

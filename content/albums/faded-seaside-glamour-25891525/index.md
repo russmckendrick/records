@@ -40,18 +40,18 @@ Music critics gave Faded Seaside Glamour generally favourable reviews; some crit
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Wanderlust |
-| A2 | Nearer Than Heaven |
-| A3 | Long Time Coming |
-| A4 | Bedroom Scene |
-| A5 | No Ending |
-| A6 | You Wear The Sun |
-| B7 | Hey Girl |
-| B8 | Stay Where You Are |
-| B9 | There's Water Here |
-| B10 | Satellites Lost |
-| B11 | One Night Away |
-| B12 | On |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -42,33 +42,33 @@ For all its experiments (“A Day in the Life”) and invocations of the counter
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Sgt. Pepper's Lonely Hearts Club Band |
-| A2 | With A Little Help From My Friends |
-| A3 | Lucy In The Sky With Diamonds |
-| A4 | Getting Better |
-| A5 | Fixing A Hole |
-| A6 | She's Leaving Home |
-| A7 | Being For The Benefit Of Mr. Kite! |
-| B1 | Within You Without You |
-| B2 | When I'm Sixty-Four |
-| B3 | Lovely Rita |
-| B4 | Good Morning Good Morning |
-| B5 | Sgt. Pepper's Lonely Hearts Club Band (Reprise) |
-| B6 | A Day In The Life |
-|  | The Sgt. Pepper Sessions |
-| C1 | Sgt. Pepper's Lonely Hearts Club Band (Take 9) |
-| C2 | With A Little Help From My Friends (Takes 1 And 2) |
-| C3 | Lucy In The Sky With Diamonds (Take 1) |
-| C4 | Getting Better (Take 1) |
-| C5 | Fixing A Hole (Take 3) |
-| C6 | She's Leaving Home (Take 1) |
-| C7 | Being For The Benefit Of Mr. Kite! (Take 4) |
-| D1 | Within You Without You (Take 1) |
-| D2 | When I'm Sixty-Four (Take 2) |
-| D3 | Lovely Rita (Take 9) |
-| D4 | Good Morning Good Morning (Take 8) |
-| D5 | Sgt. Pepper's Lonely Hearts Club Band (Reprise) (Take 8) |
-| D6 | A Day In The Life (Take 1 And Hummed Last Chord) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

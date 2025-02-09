@@ -31,10 +31,10 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Apples & Oranges (Stereo) |
-| A2 | Apples & Oranges (Mono) |
-| B1 | Humanoid Boogie (Stereo) |
-| B2 | Humanoid Boogie (Mono) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

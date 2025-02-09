@@ -37,21 +37,21 @@ styles: ["Alternative Rock", "Hard Rock", "Funk Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | We Care A Lot (Original Version) |
-| A2 | Introduce Yourself |
-| A3 | From Out Of Nowhere |
-| A4 | Epic |
-| B1 | Falling To Pieces |
-| B2 | Midlife Crisis |
-| B3 | A Small Victory |
-| B4 | Easy |
-| C1 | Digging The Grave |
-| C2 | The Gentle Art Of Making Enemies |
-| C3 | Evidence |
-| C4 | I Started A Joke |
-| D1 | Last Cup Of Sorrow |
-| D2 | Ashes To Ashes |
-| D3 | Stripsearch |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

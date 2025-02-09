@@ -33,18 +33,18 @@ The CD version also features a pre-gap 'hidden track', which is the album versio
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Because |
-| A2 | Friends |
-| A3 | Someone Somewhere |
-| A4 | Oh Yes (It's A Mess) |
-| A5 | Shorty |
-| A6 | Damn It I Said |
-| B1 | Silent People |
-| B2 | What You Want |
-| B3 | Hit |
-| B4 | Bumble Bee Boy |
-| B5 | Combat Honey |
-| B6 | That's All |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

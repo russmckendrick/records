@@ -33,20 +33,20 @@ styles: ["Indie Rock", "Britpop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | 125 West 3rd Street |
-| A2 | I'll Manage Somehow |
-| A3 | Sleeping In |
-| A4 | Little Miss Pinpoint Eyes |
-| A5 | Daydreamer |
-| A6 | Hollywood Girl |
-| B1 | Being Brave |
-| B2 | Around You Again |
-| B3 | The One |
-| B4 | Stardust |
-| B5 | Piece Of Me |
-| B6 | Stardust (Reprise) |
-| B7 | Bones and Red Meat |
-| B8 | We Love You |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

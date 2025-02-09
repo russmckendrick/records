@@ -29,13 +29,13 @@ Storm Corrosion is the self-titled only album from Storm Corrosion, the musical 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Drag Ropes |
-| A2 | Storm Corrosion |
-| B1 | Hag |
-| B2 | Happy |
-| C1 | Lock Howl |
-| C2 | Ljudet Innan |
-| D1 | Drag Ropes (live) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

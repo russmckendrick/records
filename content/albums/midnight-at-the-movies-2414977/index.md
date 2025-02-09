@@ -32,18 +32,18 @@ Midnight at the Movies is the second studio album by Justin Townes Earle, releas
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Midnight At The Movies |
-| A2 | What I Mean To You |
-| A3 | They Killed John Henry |
-| A4 | Mama's Eyes |
-| A5 | Dirty Rag |
-| A6 | Can't Hardly Wait |
-| B1 | Black Eyed Suzy |
-| B2 | Poor Fool |
-| B3 | Halfway To Jackson |
-| B4 | Someday I'll Be Forgiven For This |
-| B5 | Walk Out |
-| B6 | Here We Go Again |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

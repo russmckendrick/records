@@ -41,23 +41,23 @@ styles: ["Soul", "Soundtrack"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Uptown |
-| A2 | Why I Sing The Blues |
-| A3 | Don't Cha Hear Me Callin' To Ya |
-| A4 | Aquarius / Let The Sunshine In (The Flesh Failures) |
-| B1 | My Girl |
-| B2 | Oh Happy Day |
-| B3 | It's Been A Change |
-| B4 | Precious Lord, Take My Hand |
-| C1 | I Heard It Through The Grapevine |
-| C2 | Watermelon Man |
-| C3 | Together |
-| C4 | Hold On, I'm Comin' |
-| D1 | Sing A Simple Song |
-| D2 | Everyday People |
-| D3 | Africa |
-| D4 | Backlash Blues |
-| D5 | Are You Ready? |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

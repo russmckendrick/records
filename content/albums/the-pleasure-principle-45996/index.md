@@ -32,16 +32,16 @@ The Pleasure Principle is the debut solo studio album by the English new wave mu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Airlane |
-| A2 | Metal |
-| A3 | Complex |
-| A4 | Films |
-| A5 | M.E. |
-| B1 | Tracks |
-| B2 | Observer |
-| B3 | Conversation |
-| B4 | Cars |
-| B5 | Engineers |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -33,20 +33,20 @@ The Best of OMD was named by The Quietus and Classic Pop as one of the best comp
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Electricity |
-| A2 | Messages |
-| A3 | Enola Gay |
-| A4 | Souvenir |
-| A5 | Joan Of Arc |
-| A6 | Maid Of Orleans |
-| A7 | Talking Loud And Clear |
-| B1 | Tesla Girls |
-| B2 | Locomotion |
-| B3 | So In Love |
-| B4 | Secret |
-| B5 | If You Leave |
-| B6 | Forever Live And Die |
-| B7 | Dreaming |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

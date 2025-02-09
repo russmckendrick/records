@@ -35,16 +35,16 @@ Skyscraper is the second full-length studio album by David Lee Roth, released du
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Knucklebones |
-| A2 | Just Like Paradise |
-| A3 | The Bottom Line |
-| A4 | Skyscraper |
-| A5 | Damn Good |
-| B1 | Hot Dog And A Shake |
-| B2 | Stand Up |
-| B3 | Hina |
-| B4 | Perfect Timing |
-| B5 | Two Fools A Minute |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

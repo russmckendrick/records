@@ -41,23 +41,23 @@ styles: ["Heavy Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Black Sabbath |
-| A2 | Fairies Wear Boots |
-| A3 | Under The Sun / Every Day Comes And Goes |
-| B1 | After Forever |
-| B2 | Into The Void |
-| B3 | Snowblind |
-| C1 | Band Intros |
-| C2 | War Pigs |
-| C3 | Behind The Wall Of Sleep |
-| C4 | Bassically / N.I.B. |
-| D1 | Hand Of Doom |
-| D2 | Supernaut / Sabbath Bloody Sabbath / Megalomania |
-| D3 | Rat Salad / Drum Solo |
-| E1 | Iron Man |
-| E2 | Dirty Women |
-| F1 | Children Of The Grave |
-| F2 | Paranoid |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

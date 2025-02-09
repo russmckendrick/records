@@ -1,6 +1,6 @@
 ---
-title: "Dinosaur Jr - Green Mind"
-artist_name: "Dinosaur Jr"
+title: "Dinosaur Jr. - Green Mind"
+artist_name: "Dinosaur Jr."
 artist: "dinosaur-jr"
 album_name: "Green Mind"
 date: 2019-12-05T18:05:49.000000Z
@@ -10,8 +10,8 @@ slug: "green-mind-14193595"
 hideSummary: true
 cover:
     image: "green-mind-14193595.jpg"
-    alt: "Green Mind by Dinosaur Jr"
-    caption: "Green Mind by Dinosaur Jr"
+    alt: "Green Mind by Dinosaur Jr."
+    caption: "Green Mind by Dinosaur Jr."
 additional_images:
     - "https://i.discogs.com/ftRxY9-5AC685pWOaKuRTeQK4g4aRmUbaFqVQ1FrG-M/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTkz/NTk1LTE1NzUxNjEx/ODQtMzk2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/OPWJ40utFPIzjpeadYGcJT2QWoDTfBoJxOjU9P9CrOE/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTkz/NTk1LTE1Njk2MTcy/MTAtMzI5OC5qcGVn.jpeg"
@@ -47,27 +47,27 @@ The cover photograph depicting a child smoking a cigarette, Priscilla, Jones Bea
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Wagon |
-| A2 | Puke + Cry |
-| A3 | Blowing It |
-| A4 | I Live For That Look |
-| A5 | Flying Cloud |
-| A6 | How'd You Pin That One On Me |
-| B1 | Water |
-| B2 | Muck |
-| B3 | Thumb |
-| B4 | Green Mind |
-| C1 | Pebbles + Weeds |
-| C2 | The Little Baby |
-| C3 | Not You Again |
-| C4 | Quicksand (Wagon Reprise) |
-| C5 | Throw Down |
-| C6 | Whatever's Cool With Me |
-| D1 | Sideways |
-| D2 | Thumb (Live) |
-| D3 | Keep The Glove (Live) |
-| D4 | The Lung (Live) |
-| D5 | The Post (Live) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -86,4 +86,4 @@ The cover photograph depicting a child smoking a cigarette, Priscilla, Jones Bea
 | Label          | Cherry Red |
 | Catalog Number | PBREDD756 |
 | Notes | Includes printer inner sleeves with a review and interviews with the band.  ℗ 2019 Cherry Red Records Ltd. This compilation © 2019 Cherry Red Records Ltd. Power Road Studios, 114 Power Road, London W4 5PY www.cherryred.co.uk Made in EU  Green mind: Drums recorded at Sorcerer Sound. Other stuff recorded at Fort Apache North Mixed at White Crow Audio  'Whatever's Cool With Me' EP recorded all over the place [...]  'Green Mind' released February 1991. Side C, tracks 1-5: 'The Wagon' Single B-Sides released January 1991. Side C, track 6 and side D, tracks 1-3: 'Whatever's Cool With Me' EP released August 1991. Side D, tracks 4-5: 'Whatever's Cool With Me' EP (Japanese edition only) released November 1991.  All tracks [...] Published by Spam As The Bread Music/BMG Blue/BMG Rights Management (UK) Ltd.  Pre-order came with pin 4x4 cm (compare photos). |
-| Discogs URL    | [Dinosaur Jr - Green Mind](https://www.discogs.com/release/14193595-Dinosaur-Jr-Green-Mind) |
+| Discogs URL    | [Dinosaur Jr. - Green Mind](https://www.discogs.com/release/14193595-Dinosaur-Jr-Green-Mind) |

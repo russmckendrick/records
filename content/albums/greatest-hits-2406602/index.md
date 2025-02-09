@@ -36,24 +36,24 @@ styles: ["Folk Rock", "Hard Rock", "Country Rock", "Rock & Roll"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Down By The River |
-| A2 | Cowgirl In The Sand |
-| B1 | Cinnamon Girl |
-| B2 | Helpless |
-| B3 | After The Gold Rush |
-| B4 | Only Love Can Break Your Heart |
-| B5 | Southern Man |
-| C1 | Ohio |
-| C2 | The Needle And The Damage Done |
-| C3 | Old Man |
-| C4 | Heart Of Gold |
-| C5 | Like A Hurricane |
-| D1 | Comes A Time |
-| D2 | Hey Hey My My (Into The Black) |
-| D3 | Rockin In The Free World |
-| D4 | Harvest Moon |
-| E | The Loner |
-| F | Sugar Mountain |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

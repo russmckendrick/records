@@ -40,19 +40,19 @@ Psyence Fiction is the debut studio album by English electronic music act Unkle,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Guns Blazing (Drums Of Death Part 1) |
-| A2 | UNKLE Main Title Theme |
-| A3 | Bloodstain |
-| B1 | Unreal |
-| B2 | Lonely Soul |
-| B3 | Getting Ahead In The Lucrative Field Of Artist Management |
-| C1 | Nursery Rhyme |
-| C2 | Breather |
-| C3 | Celestial Annihilation |
-| C4 | The Knock (Drums Of Death Part 2) |
-| D1 | Chaos |
-| D2 | Rabbit In Your Headlights |
-| D3 | Outro (Mandatory) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

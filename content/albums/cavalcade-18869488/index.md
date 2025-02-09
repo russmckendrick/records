@@ -34,15 +34,15 @@ For Cavalcade, the band had a more premeditated approach to the writing and reco
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Introduction |
-| A2 | John L |
-| A3 | Marlene Dietrich |
-| A4 | Chondromalacia Patella |
-| A5 | Slow |
-| A6 | Diamond Stuff |
-| B1 | Dethroned |
-| B2 | Hogwash And Balderdash |
-| B3 | Ascending Forth |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -47,17 +47,17 @@ St. Anger was intended for release on June 10, 2003, but was released five days 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Frantic |
-| A2 | St. Anger |
-| A3 | Some Kind Of Monster |
-| B1 | Dirty Window |
-| B2 | Invisible Kid |
-| B3 | My World |
-| C1 | Shoot Me Again |
-| C2 | Sweet Amber |
-| C3 | The Unnamed Feeling |
-| D1 | Purify |
-| D2 | All Within My Hands |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

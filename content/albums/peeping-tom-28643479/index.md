@@ -1,6 +1,6 @@
 ---
-title: "Peeping Tom - Peeping Tom"
-artist_name: "Peeping Tom"
+title: "Peeping Tom (3) - Peeping Tom"
+artist_name: "Peeping Tom (3)"
 artist: "peeping-tom"
 album_name: "Peeping Tom"
 date: 2023-11-10T11:13:37.000000Z
@@ -10,8 +10,8 @@ slug: "peeping-tom-28643479"
 hideSummary: true
 cover:
     image: "peeping-tom-28643479.jpg"
-    alt: "Peeping Tom by Peeping Tom"
-    caption: "Peeping Tom by Peeping Tom"
+    alt: "Peeping Tom by Peeping Tom (3)"
+    caption: "Peeping Tom by Peeping Tom (3)"
 additional_images:
     - "https://i.discogs.com/hthQWPMJHdCRHAdDfipu9GnrAMX0rAreGd417S1b02Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQz/NDc5LTE2OTkwNzE4/ODgtMzk3MS5qcGVn.jpeg"
     - "https://i.discogs.com/V7owGvSTHEnWwwvqHcBd3pJ5-Rgp-BT3wpG2MziZurU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NjQz/NDc5LTE2OTkwNjY5/MjItNzk5MS5qcGVn.jpeg"
@@ -34,17 +34,17 @@ Peeping Tom is the only studio album by American band Peeping Tom. It was releas
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Five Seconds |
-| A2 | Mojo |
-| A3 | Don't Even Trip |
-| A4 | Getaway |
-| A5 | Your Neighborhood Spaceman |
-| B1 | Kill The DJ |
-| B2 | Caipirinha |
-| B3 | Celebrity Death Match |
-| B4 | How U Feelin? |
-| B5 | Sucker |
-| B6 | We're Not Alone (Remix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ Peeping Tom is the only studio album by American band Peeping Tom. It was releas
 | Label          | Ipecac Recordings |
 | Catalog Number | IPC258LP2 |
 | Notes | 2023 Reissue Indie Exclusive Tan Vinyl Die-Cut sleeve Includes Hype Sticker On Front  Back sleeve uses CD image which is incorrect for LP, Kill the DJ is track B1, not A6 as suggested by back cover.  |
-| Discogs URL    | [Peeping Tom - Peeping Tom](https://www.discogs.com/release/28643479-Peeping-Tom-3-Peeping-Tom) |
+| Discogs URL    | [Peeping Tom (3) - Peeping Tom](https://www.discogs.com/release/28643479-Peeping-Tom-3-Peeping-Tom) |

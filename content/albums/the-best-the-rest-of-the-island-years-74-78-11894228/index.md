@@ -33,30 +33,30 @@ styles: ["Pop Rock", "Synth-pop", "Glam"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | This Town Ain't Big Enough |
-| A2 | Hasta Mañana Monsieur |
-| A3 | Tearing The Place Apart |
-| A4 | At Home At Work At Play |
-| A5 | Never Turn Your Back On Mother Earth |
-| A6 | Get In The Swing |
-| B1 | Amateur Hour |
-| B2 | Looks, Looks, Looks |
-| B3 | Thanks But No Thanks |
-| B4 | Gone With The Wind |
-| B5 | Something For The Girl With Everything |
-| B6 | Thank God It's Not Christmas |
-| C1 | Lost And Found |
-| C2 | Barbecutie |
-| C3 | Alabamy Right |
-| C4 | Marry Me |
-| C5 | Profile |
-| C6 | The Wedding Of Jacqueline Kennedy To Russell Mael |
-| D1 | I Want To Hold Your Hand |
-| D2 | England |
-| D3 | Gone With The Wind |
-| D4 | Intrusion / Confusion |
-| D5 | Looks Aren't Everything |
-| D6 | Tearing The Place Apart |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

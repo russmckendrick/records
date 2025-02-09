@@ -1,6 +1,6 @@
 ---
-title: "Thunder - The Greatest Hits"
-artist_name: "Thunder"
+title: "Thunder (3) - The Greatest Hits"
+artist_name: "Thunder (3)"
 artist: "thunder"
 album_name: "The Greatest Hits"
 date: 2019-12-24T13:17:21.000000Z
@@ -10,8 +10,8 @@ slug: "the-greatest-hits-14199596"
 hideSummary: true
 cover:
     image: "the-greatest-hits-14199596.jpg"
-    alt: "The Greatest Hits by Thunder"
-    caption: "The Greatest Hits by Thunder"
+    alt: "The Greatest Hits by Thunder (3)"
+    caption: "The Greatest Hits by Thunder (3)"
 additional_images:
     - "https://i.discogs.com/zA6KnpPpUrHp1BguWll_VXEG3XveHiPxCSzN-h7N97I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk5/NTk2LTE1Njk3NDM5/ODItMTg1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/5d4COSi5jT7TrSb4MdQd8eTZoYxanC8rfKCoH-DstX8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTk5/NTk2LTE1Njk3NDM5/NzUtMjc2My5qcGVn.jpeg"
@@ -43,34 +43,34 @@ The Greatest Hits had its world premiere at South by Southwest on March 14, 2024
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Dirty Love |
-| A2 | Love Walked In |
-| A3 | She's So Fine |
-| A4 | A Better Man |
-| B1 | Backstreet Symphony |
-| B2 | Low Life In High Places |
-| B3 | Riven Of Pain |
-| B4 | Like A Satellite |
-| B5 | Stand Up |
-| C1 | Living For Today |
-| C2 | Love Worth Dying For |
-| C3 | Just Another Suicide |
-| C4 | All I Ever Wanted |
-| C5 | Gimme Shelter |
-| D1 | I Love You More Than Rock 'n' Roll |
-| D2 | Loser |
-| D3 | I'm Dreaming Again |
-| D4 | The Devil Made Me Do It |
-| D5 | On The Radio |
-| E1 | The Rain |
-| E2 | Wonder Days |
-| E3 | Rip It Up |
-| E4 | In Another Life |
-| E5 | Right From The Start |
-| F1 | The Thing I Want |
-| F2 | Future Train (2019 Version) |
-| F3 | Low Life In High Places (2019 Version) |
-| F4 | Your Time Is Gonna Come |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -89,4 +89,4 @@ The Greatest Hits had its world premiere at South by Southwest on March 14, 2024
 | Label          | [{'name': 'BMG', 'catno': ''}] |
 | Catalog Number | BMGCAT386TLP |
 | Notes | ALL KILLER, NO FILLER.  Limited edition 3 vinyl disc gatefold with signed band photo. Only available through the Thunder website.   Durations do not appear on this release.  Timings via stopwatch.  Online sales expertise: Bruce McKenzie, Townsend Music. |
-| Discogs URL    | [Thunder - The Greatest Hits](https://www.discogs.com/release/14199596-Thunder-3-The-Greatest-Hits) |
+| Discogs URL    | [Thunder (3) - The Greatest Hits](https://www.discogs.com/release/14199596-Thunder-3-The-Greatest-Hits) |

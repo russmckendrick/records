@@ -1,6 +1,6 @@
 ---
-title: "Downset - Downset."
-artist_name: "Downset"
+title: "Downset. - Downset."
+artist_name: "Downset."
 artist: "downset"
 album_name: "Downset."
 date: 2017-08-23T17:34:58.000000Z
@@ -10,8 +10,8 @@ slug: "downset-10690277"
 hideSummary: true
 cover:
     image: "downset-10690277.jpg"
-    alt: "Downset. by Downset"
-    caption: "Downset. by Downset"
+    alt: "Downset. by Downset."
+    caption: "Downset. by Downset."
 additional_images:
     - "https://i.discogs.com/UlkGljRooYXwxAGuW5g44tGKnDcrJq4y2JaRV2Eghg4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkw/Mjc3LTE2NDI0ODc2/NzgtMTQ4OC5qcGVn.jpeg"
     - "https://i.discogs.com/0sqJStsI1NcDmw8gqP4XboLw2k7rKLUyxbbAW8sl3W0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkw/Mjc3LTE2NDI0ODc2/ODMtMTg4My5qcGVn.jpeg"
@@ -41,16 +41,16 @@ downset. is the debut studio album by American rapcore band downset. The band's 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Anger! |
-| A2 | Ritual |
-| A3 | Take 'em Out |
-| A4 | Prostitutionalized |
-| A5 | Downset |
-| B1 | My American Prayer |
-| B2 | Holding Hands |
-| B3 | About To Blast |
-| B4 | Breed The Killer |
-| B5 | Dying Of Thirst |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -69,4 +69,4 @@ downset. is the debut studio album by American rapcore band downset. The band's 
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1883 |
 | Notes | - 180 gram audiophile vinyl - Includes 4 page 12X12" insert with song lyrics & credits - Limited edition of 1.000 numbered copies on blue vinyl |
-| Discogs URL    | [Downset - Downset.](https://www.discogs.com/release/10690277-Downset-Downset) |
+| Discogs URL    | [Downset. - Downset.](https://www.discogs.com/release/10690277-Downset-Downset) |

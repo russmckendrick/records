@@ -1,6 +1,6 @@
 ---
-title: "Andy Bell - The View From Halfway Down"
-artist_name: "Andy Bell"
+title: "Andy Bell (2) - The View From Halfway Down"
+artist_name: "Andy Bell (2)"
 artist: "andy-bell"
 album_name: "The View From Halfway Down"
 date: 2020-10-10T10:40:42.000000Z
@@ -10,8 +10,8 @@ slug: "the-view-from-halfway-down-16035263"
 hideSummary: true
 cover:
     image: "the-view-from-halfway-down-16035263.jpg"
-    alt: "The View From Halfway Down by Andy Bell"
-    caption: "The View From Halfway Down by Andy Bell"
+    alt: "The View From Halfway Down by Andy Bell (2)"
+    caption: "The View From Halfway Down by Andy Bell (2)"
 additional_images:
     - "https://i.discogs.com/aQJ6YeTvfZyecal7ch-Qw9UOZ3IXW4vG1KzujUCofJ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM1/MjYzLTE2MDIyNzEx/ODQtNDI4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/A_C0lX_k-Q791YtOCQ6UZyoJJ3beTIRUtOurCnAaAaE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM1/MjYzLTE2MDIyNzEy/MDItNTI5My5wbmc.jpeg"
@@ -31,14 +31,14 @@ In the episode, BoJack Horseman (Will Arnett) attends a dinner party and talent 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Love Comes In Waves |
-| A2 | Indica |
-| A3 | Ghost Tones |
-| A4 | Skywalker |
-| B1 | Aubrey Drylands Gladwell |
-| B2 | Cherry Cola |
-| B3 | I Was Alone |
-| B4 | Heat Haze On Weyland Road |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -57,4 +57,4 @@ In the episode, BoJack Horseman (Will Arnett) attends a dinner party and talent 
 | Label          | Sonic Cathedral |
 | Catalog Number | SCR170LP |
 | Notes | Printed inner sleeve. Barcode is on a sticker on the shrink wrapping.  250 signed copies were available as 'pre-order' via Recordstore.co.uk  Includes a download code card.  (Track durations from playing the album.) |
-| Discogs URL    | [Andy Bell - The View From Halfway Down](https://www.discogs.com/release/16035263-Andy-Bell-2-The-View-From-Halfway-Down) |
+| Discogs URL    | [Andy Bell (2) - The View From Halfway Down](https://www.discogs.com/release/16035263-Andy-Bell-2-The-View-From-Halfway-Down) |

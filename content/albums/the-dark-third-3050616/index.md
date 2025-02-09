@@ -37,20 +37,20 @@ The Dark Third is the first full-length album by Pure Reason Revolution. It was 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Aeropause |
-| A2 | Goshen's Remains |
-| A3 | Apprentice Of The Universe |
-| B1 | The Bright Ambassadors Of Morning |
-| B2 | Nimos & Tambos |
-| B3 | Voices In Winter / In The Realms Of The Divine |
-| C1 | Bullitts Dominæ |
-| C2 | Arrival / The Intention Craft |
-| C3 | He Tried To Show Them Magic! / Ambassadors Return |
-| C4 | Asleep Under Eiderdown |
-| D1 | In Aurélia |
-| D2 | Borgens Vor |
-| D3 | The Exact Colour |
-| D4 | The Twyncyn / Trembling Willows |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

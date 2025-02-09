@@ -47,12 +47,12 @@ While King Crimson were quickly wracked with infighting and line-up changes foll
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Formentera Lady |
-| A2 | Sailor's Tale |
-| A3 | The Letters |
-| B1 | Ladies Of The Road |
-| B2 | Prelude: Song Of The Gulls |
-| B3 | Islands |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

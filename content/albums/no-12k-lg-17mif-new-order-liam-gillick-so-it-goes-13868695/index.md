@@ -41,26 +41,26 @@ styles: ["Alternative Rock", "Post-Punk", "Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Times Change |
-| A2 | Who's Joe |
-| A3 | Dream Attack |
-| B1 | Disorder |
-| B2 | Ultraviolence |
-| B3 | In A Lonely Place |
-| B4 | All Day Long |
-| C1 | Shellshock |
-| C2 | Guilt Is A Useless Emotion |
-| C3 | Sub-Culture |
-| D1 | Bizarre Love Triangle |
-| D2 | Vanishing Point |
-| D3 | Plastic |
-|  | Encore |
-| E1 | Your Silent Face |
-| E2 | Decades |
-|  | Bonus Tracks |
-| F1 | Elegia |
-| F2 | Heart And Soul |
-| F3 | Behind Closed Doors |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -32,18 +32,18 @@ styles: ["Indie Rock", "Pop Rock", "Country Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Do You Still Love Me? |
-| A2 | Prisoner |
-| A3 | Doomsday |
-| A4 | Haunted House |
-| A5 | Shiver and Shake |
-| A6 | To Be Without You |
-| B1 | Anything I Say To You Now |
-| B2 | Breakdown |
-| B3 | Outbound Train |
-| B4 | Broken Anyway |
-| B5 | Tightrope |
-| B6 | We Disappear |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

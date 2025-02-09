@@ -39,16 +39,16 @@ The Transformers: The Movie (Original Motion Picture Soundtrack) is the 1986 sou
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Touch |
-| A2 | Instruments Of Destruction |
-| A3 | Death Of Optimus Prime |
-| A4 | Dare |
-| A5 | Nothin's Gonna Stand In Our Way |
-| B1 | The Transformers® (Theme) |
-| B2 | Escape |
-| B3 | Hunger |
-| B4 | Autobot/Decepticon Battle |
-| B5 | Dare To Be Stupid |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -1,6 +1,6 @@
 ---
-title: "Northside - Chicken Rhythms"
-artist_name: "Northside"
+title: "Northside (2) - Chicken Rhythms"
+artist_name: "Northside (2)"
 artist: "northside"
 album_name: "Chicken Rhythms"
 date: 2024-04-20T22:43:29.000000Z
@@ -10,8 +10,8 @@ slug: "chicken-rhythms-30452714"
 hideSummary: true
 cover:
     image: "chicken-rhythms-30452714.jpg"
-    alt: "Chicken Rhythms by Northside"
-    caption: "Chicken Rhythms by Northside"
+    alt: "Chicken Rhythms by Northside (2)"
+    caption: "Chicken Rhythms by Northside (2)"
 additional_images:
     - "https://i.discogs.com/h1AoDAvAd7OFnDpDhae3184_MVKUXQ5i5VDvBkXmvZw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/NzE0LTE3MTM2NDM4/NDAtOTMwMS5qcGVn.jpeg"
     - "https://i.discogs.com/vywKLJ9xaCzFiGhDHHkHln8uIxEVIhvA0rCGQn1GIZQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDUy/NzE0LTE3MTM2NDM4/NjEtNzA5NS5qcGVn.jpeg"
@@ -34,16 +34,16 @@ The songs "Shall We Take a Trip" and "Moody Places" were used as the theme tune 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Take 5 |
-| A2 | Weight Of Air |
-| A3 | Funky Munky |
-| A4 | A Change Is On Its Way |
-| A5 | Yeah Man |
-| B1 | Tour De World |
-| B2 | Wishful Thinking |
-| B3 | Shall We Take A Trip |
-| B4 | Who's To Blame |
-| B5 | Practise Makes Perfect |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -62,4 +62,4 @@ The songs "Shall We Take a Trip" and "Moody Places" were used as the theme tune 
 | Label          | London Records Ltd. |
 | Catalog Number | FACT 310 |
 | Notes | Repress of the original Factory production master tapes. Restored artwork by Central Station Design. Numbered yellow vinyl edition.  |
-| Discogs URL    | [Northside - Chicken Rhythms](https://www.discogs.com/release/30452714-Northside-2-Chicken-Rhythms) |
+| Discogs URL    | [Northside (2) - Chicken Rhythms](https://www.discogs.com/release/30452714-Northside-2-Chicken-Rhythms) |

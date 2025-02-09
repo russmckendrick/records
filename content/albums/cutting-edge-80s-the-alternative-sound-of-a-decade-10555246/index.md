@@ -28,29 +28,29 @@ styles: ["Synth-pop", "New Wave", "Indie Pop", "Post-Punk", "Alternative Rock", 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Quiet Life |
-| A2 | I Ran (So Far Away) |
-| A3 | Pretty In Pink |
-| A4 | I Want Candy |
-| A5 | I Could Be Happy |
-| A6 | Crash |
-| B1 | Fools Gold |
-| B2 | Theme From S-Express |
-| B3 | Beat Dis |
-| B4 | People Hold On |
-| B5 | E = MC² |
-| C1 | Evidently Chickentown |
-| C2 | Stand & Deliver! |
-| C3 | Always The Sun |
-| C4 | Baby's Got A Gun |
-| C5 | John Wayne Is Big Leggy |
-| C6 | The King Of Rock 'N' Roll |
-| D1 | People Have The Power |
-| D2 | Freak |
-| D3 | The First Picture Of You |
-| D4 | Walk Like An Egyptian |
-| D5 | I Love You, Suzanne |
-| D6 | Rock Me Amadeus (The Gold Mix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

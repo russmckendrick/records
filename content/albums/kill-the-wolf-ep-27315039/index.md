@@ -1,6 +1,6 @@
 ---
-title: "Matt Berry - Kill The Wolf EP"
-artist_name: "Matt Berry"
+title: "Matt Berry (3) - Kill The Wolf EP"
+artist_name: "Matt Berry (3)"
 artist: "matt-berry"
 album_name: "Kill The Wolf EP"
 date: 2023-06-07T10:39:42.000000Z
@@ -10,8 +10,8 @@ slug: "kill-the-wolf-ep-27315039"
 hideSummary: true
 cover:
     image: "kill-the-wolf-ep-27315039.jpg"
-    alt: "Kill The Wolf EP by Matt Berry"
-    caption: "Kill The Wolf EP by Matt Berry"
+    alt: "Kill The Wolf EP by Matt Berry (3)"
+    caption: "Kill The Wolf EP by Matt Berry (3)"
 additional_images:
     - "https://i.discogs.com/Xuba8I10fQUdSngiGcZ-WcLWnGK213z6X7c5Imkng1Y/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzE1/MDM5LTE2ODYyMDk5/MDEtOTY3OC5qcGVn.jpeg"
     - "https://i.discogs.com/tpp9HhNF-LpkppfZuIyUzlqHjMnRxViciJPW4uGpPjE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MzE1/MDM5LTE2ODYyMDk5/MjgtNDIxMC5qcGVn.jpeg"
@@ -29,10 +29,10 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Medicine |
-| A2 | An Electric Hero |
-| AA1 | On A High |
-| AA2 | Ukenwhistle |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -50,4 +50,4 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock"]
 | Label          | Acid Jazz |
 | Catalog Number | AJX337S |
 | Notes | Vinyl repress of a CD EP release for the 10th Anniversary of 'Kill The Wolf' album.   "All instruments played by Matt Berry (except whistle & recorder)" |
-| Discogs URL    | [Matt Berry - Kill The Wolf EP](https://www.discogs.com/release/27315039-Matt-Berry-3-Kill-The-Wolf-EP) |
+| Discogs URL    | [Matt Berry (3) - Kill The Wolf EP](https://www.discogs.com/release/27315039-Matt-Berry-3-Kill-The-Wolf-EP) |

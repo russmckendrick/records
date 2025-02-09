@@ -40,27 +40,27 @@ After a few years under the mighty wing of rapper Young Dolph, Key Glock is read
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Bimbo  |
-| A2 | Bostich (N’est-ce Pas?)  |
-| A3 | Vicious Games  |
-| A4 | Oh Yeah   |
-| A5 | Jungle Bill  |
-| B1 | Tremendous Pain  |
-| B2 | Mean Monday  |
-| B3 | The Expert  |
-| B4 | Waba Duba  |
-| B5 | The Race |
-| C1 | Desire  |
-| C2 | Drive / Driven  |
-| C3 | The Rhythm Divine  |
-| C4 | You Better Hide  |
-| C5 | Till Tomorrow |
-| D1 | 30'000 Days  |
-| D2 | Starlight Scene |
-| D3 | Spinning My Mind |
-| D4 | Liquid Lies |
-| D5 | Meet My Angel |
-| D6 | Way Down |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

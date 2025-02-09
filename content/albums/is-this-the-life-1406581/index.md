@@ -32,8 +32,8 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | Is This The Life |
-| B | I'm Eating In Bed |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -40,18 +40,18 @@ Isn't Anything is the debut studio album by Irish-English rock band My Bloody Va
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Soft As Snow (But Warm Inside) |
-| A2 | Lose My Breath |
-| A3 | Cupid Come |
-| A4 | (When You Wake) You're Still In A Dream |
-| A5 | No More Sorry |
-| A6 | All I Need |
-| B1 | Feed Me With Your Kiss |
-| B2 | Sueisfine |
-| B3 | Several Girls Galore |
-| B4 | You Never Should |
-| B5 | Nothing Much To Lose |
-| B6 | I Can See It (But I Can't Feel It) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

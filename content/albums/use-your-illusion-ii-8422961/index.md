@@ -1,6 +1,6 @@
 ---
-title: "Guns N Roses - Use Your Illusion II"
-artist_name: "Guns N Roses"
+title: "Guns N' Roses - Use Your Illusion II"
+artist_name: "Guns N' Roses"
 artist: "guns-n-roses"
 album_name: "Use Your Illusion II"
 date: 2016-06-21T16:39:55.000000Z
@@ -10,8 +10,8 @@ slug: "use-your-illusion-ii-8422961"
 hideSummary: true
 cover:
     image: "use-your-illusion-ii-8422961.jpg"
-    alt: "Use Your Illusion II by Guns N Roses"
-    caption: "Use Your Illusion II by Guns N Roses"
+    alt: "Use Your Illusion II by Guns N' Roses"
+    caption: "Use Your Illusion II by Guns N' Roses"
 additional_images:
     - "https://i.discogs.com/bXvZ23uHPk__k-z2EYi27_MBA8EV-iils1xFY_WcYI0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjI5/NjEtMTU0MTQ4MTc0/NS0xMDE3LmpwZWc.jpeg"
     - "https://i.discogs.com/5rhnDi--QgGTUwDxt7huMaJxiui03d52DYhwpt4TJtU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MjI5/NjEtMTU0MTQ4MjAx/Mi0zNjI2LmpwZWc.jpeg"
@@ -41,20 +41,20 @@ Both of its volumes seeing release on the same day, <I>Use Your Illusion</I> cam
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Civil War |
-| A2 | 14 Years |
-| A3 | Yesterdays |
-| A4 | Knockin' On Heaven's Door |
-| B1 | Get In The Ring |
-| B2 | Shotgun Blues |
-| B3 | Breakdown |
-| C1 | Pretty Tied Up |
-| C2 | Locomotive |
-| C3 | So Fine |
-| D1 | Estranged |
-| D2 | You Could Be Mine |
-| D3 | Don't Cry (Alt. Lyrics) |
-| D4 | My World |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -73,4 +73,4 @@ Both of its volumes seeing release on the same day, <I>Use Your Illusion</I> cam
 | Label          | Geffen Records |
 | Catalog Number | 0720642442012 |
 | Notes | Similar to [r1821382] (Back To Back 180g Vinyl Remaster from 2008) except Back To Black is nowhere in evidence and it doesn't include the voucher to download MP3 version of the album. For release with RKS STERLING in only sides C and D runouts, use [r12159378].  2016 reissue with Made in the EU on back cover. Releases imported to US may have sticker on shrink wrap on back cover stating "Made in Czech Republic." |
-| Discogs URL    | [Guns N Roses - Use Your Illusion II](https://www.discogs.com/release/8422961-Guns-N-Roses-Use-Your-Illusion-II) |
+| Discogs URL    | [Guns N' Roses - Use Your Illusion II](https://www.discogs.com/release/8422961-Guns-N-Roses-Use-Your-Illusion-II) |

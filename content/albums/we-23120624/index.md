@@ -41,13 +41,13 @@ Preceded by the singles "The Lightning I, II" and "Unconditional I (Lookout Kid)
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Age Of Anxiety I |
-| A2 | Age Of Anxiety II (Rabbit Hole) |
-|  | End Of The Empire I-IV |
-| B1 | The Lightning I, II |
-| B2 | Unconditional I (Lookout Kid) |
-| B3 | Unconditional II (Race And Religion) |
-| B4 | We |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

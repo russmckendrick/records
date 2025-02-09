@@ -27,26 +27,26 @@ styles: ["Arena Rock", "Classic Rock", "Hard Rock", "AOR", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Africa |
-| A2 | Burning Heart |
-| A3 | Danger Zone |
-| A4 | Any Way You Want It |
-| A5 | Rock The Night |
-| B1 | Holding Out For A Hero |
-| B2 | Dead Ringer For Love |
-| B3 | Rock And Roll Dreams Come Through |
-| B4 | Frederick |
-| B5 | Don't Look Back |
-| C1 | Walk This Way |
-| C2 | Human Touch |
-| C3 | You're The Voice |
-| C4 | Kyrie |
-| C5 | Take It On The Run |
-| D1 | All The Young Dudes |
-| D2 | God Gave Rock And Roll To You |
-| D3 | Black Magic Woman |
-| D4 | She's Not Here |
-| D5 | American Woman |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

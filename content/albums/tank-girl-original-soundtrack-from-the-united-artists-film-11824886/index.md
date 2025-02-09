@@ -32,18 +32,18 @@ styles: ["Alternative Rock", "Trip Hop", "Gangsta", "Punk", "Soundtrack"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Ripper Sole |
-| A2 | Army Of Me |
-| A3 | Girl U Want |
-| A4 | Mockingbird Girl |
-| A5 | Shove |
-| A6 | Drown Soda |
-| B1 | Bomb |
-| B2 | Roads |
-| B3 | Let's Do It |
-| B4 | Thief |
-| B5 | Aurora |
-| B6 | Big Gun |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

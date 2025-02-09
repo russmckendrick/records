@@ -27,12 +27,12 @@ You Can't Argue with a Sick Mind is a live solo album by the American singer-son
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Walk Away |
-| A2 | Meadows |
-| A3 | Rocky Mountain Way |
-| B1 | Time Out |
-| B2 | Help Me Through The Night |
-| B3 | Turn To Stone |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

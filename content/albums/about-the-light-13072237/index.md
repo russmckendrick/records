@@ -1,6 +1,6 @@
 ---
-title: "Steve Mason - About The Light"
-artist_name: "Steve Mason"
+title: "Steve Mason (2) - About The Light"
+artist_name: "Steve Mason (2)"
 artist: "steve-mason"
 album_name: "About The Light"
 date: 2019-01-19T09:38:30.000000Z
@@ -10,8 +10,8 @@ slug: "about-the-light-13072237"
 hideSummary: true
 cover:
     image: "about-the-light-13072237.jpg"
-    alt: "About The Light by Steve Mason"
-    caption: "About The Light by Steve Mason"
+    alt: "About The Light by Steve Mason (2)"
+    caption: "About The Light by Steve Mason (2)"
 additional_images:
     - "https://i.discogs.com/lru1ilTTPUG8Vt7Lth_GP_VdD3uLSa4WQTLIuli5csE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcy/MjM3LTE1NDc2NDA3/NjYtODYxNS5qcGVn.jpeg"
     - "https://i.discogs.com/tfoG4tKAggy6gCmA5ZPywzTMt4WcKlATrpTSRUDVBuc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDcy/MjM3LTE1NDc2NDA3/NjktNTIxNi5qcGVn.jpeg"
@@ -30,16 +30,16 @@ Here, Mason emerges from insularity to seize the day on the title track’s coun
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | America Is Your Boyfriend |
-| A2 | Rocket |
-| A3 | No Clue |
-| A4 | About The Light |
-| A5 | Fox On The Rooftop |
-| B1 | Stars Around My Heart |
-| B2 | Spanish Brigade |
-| B3 | Don't Know Where |
-| B4 | Walking Away From Love |
-| B5 | The End |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -58,4 +58,4 @@ Here, Mason emerges from insularity to seize the day on the title track’s coun
 | Label          | Double Six (2) |
 | Catalog Number | DS121LP |
 | Notes | Indies Silver vinyl version.  (i.e.with no lenticular print insert of the front cover, version).  Download card for MP3 and WAV files included.  Some copies issued with a sticker applied to the shrinkwrap with alternative catalogue number DSS121LPX and barcode listed. |
-| Discogs URL    | [Steve Mason - About The Light](https://www.discogs.com/release/13072237-Steve-Mason-2-About-The-Light) |
+| Discogs URL    | [Steve Mason (2) - About The Light](https://www.discogs.com/release/13072237-Steve-Mason-2-About-The-Light) |

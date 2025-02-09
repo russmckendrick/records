@@ -38,19 +38,19 @@ United by Fate is the debut album by American rock band Rival Schools. The album
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Travel By Telephone |
-| A2 | Everything Has Its Point |
-| A3 | High Acetate |
-| A4 | Undercovers On |
-| A5 | Good Things |
-| A6 | Used For Glue |
-| A7 | World Invitational |
-| B1 | The Switch |
-| B2 | Holding Sand |
-| B3 | My Echo |
-| B4 | Favorite Star |
-| B5 | So Down On |
-| B6 | Hooligans For Life |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

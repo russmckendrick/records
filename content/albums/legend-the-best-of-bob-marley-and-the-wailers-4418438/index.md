@@ -1,6 +1,6 @@
 ---
-title: "Bob Marley  The Wailers - Legend - The Best Of Bob Marley And The Wailers"
-artist_name: "Bob Marley  The Wailers"
+title: "Bob Marley & The Wailers - Legend - The Best Of Bob Marley And The Wailers"
+artist_name: "Bob Marley & The Wailers"
 artist: "bob-marley-the-wailers"
 album_name: "Legend - The Best Of Bob Marley And The Wailers"
 date: 2016-06-21T16:37:49.000000Z
@@ -10,8 +10,8 @@ slug: "legend-the-best-of-bob-marley-and-the-wailers-4418438"
 hideSummary: true
 cover:
     image: "legend-the-best-of-bob-marley-and-the-wailers-4418438.jpg"
-    alt: "Legend - The Best Of Bob Marley And The Wailers by Bob Marley  The Wailers"
-    caption: "Legend - The Best Of Bob Marley And The Wailers by Bob Marley  The Wailers"
+    alt: "Legend - The Best Of Bob Marley And The Wailers by Bob Marley & The Wailers"
+    caption: "Legend - The Best Of Bob Marley And The Wailers by Bob Marley & The Wailers"
 additional_images:
     - "https://i.discogs.com/KKZdvpp6clCzTNxIuMA5GC8vnp1dS6-AMuRdG9cB1BY/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTY2NDM1NTE4/MS04MzA3LmpwZWc.jpeg"
     - "https://i.discogs.com/zm4SfMdiWCx9c7wNpgYHQ98t-5kyhiurjJjrZni2cmA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTQ2MjA1OTk1/Ni0xMTk2LmpwZWc.jpeg"
@@ -30,20 +30,20 @@ An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Is This Love |
-| A2 | No Woman No Cry |
-| A3 | Could You Be Loved |
-| A4 | Three Little Birds |
-| A5 | Buffalo Soldier |
-| A6 | Get Up Stand Up |
-| A7 | Stir It Up |
-| B1 | One Love / People Get Ready |
-| B2 | I Shot The Sheriff |
-| B3 | Waiting In Vain |
-| B4 | Redemption Song |
-| B5 | Satisfy My Soul |
-| B6 | Exodus |
-| B7 | Jamming |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -61,4 +61,4 @@ An unimpeachable monument to the reggae pioneer, this posthumous 1984 collection
 | Label          | Tuff Gong |
 | Catalog Number | 0600753030523 |
 | Notes | BACK TO BLACK - Island 50th (1959-2009) download coupon The record label is fade blue/purple |
-| Discogs URL    | [Bob Marley  The Wailers - Legend - The Best Of Bob Marley And The Wailers](https://www.discogs.com/release/4418438-Bob-Marley-The-Wailers-Legend-The-Best-Of-Bob-Marley-And-The-Wailers) |
+| Discogs URL    | [Bob Marley & The Wailers - Legend - The Best Of Bob Marley And The Wailers](https://www.discogs.com/release/4418438-Bob-Marley-The-Wailers-Legend-The-Best-Of-Bob-Marley-And-The-Wailers) |

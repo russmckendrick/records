@@ -38,26 +38,26 @@ The album became the band's second number-one album on the U.S. Billboard 200 ch
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Sure Shot |
-| A2 | Tough Guy |
-| A3 | B-Boys Makin' With The Freak Freak |
-| A4 | Bobo On The Corner |
-| A5 | Root Down |
-| B1 | Sabotage |
-| B2 | Get It Together |
-| B3 | Sabrosa |
-| B4 | The Update |
-| B5 | Futterman's Rule |
-| C1 | Alright Hear This |
-| C2 | Eugene's Lament |
-| C3 | Flute Loop |
-| C4 | Do It |
-| C5 | Ricky's Theme |
-| D1 | Heart Attack Man |
-| D2 | The Scoop |
-| D3 | Shambala |
-| D4 | Bodhisattva Vow |
-| D5 | Transitions |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -69,19 +69,19 @@ Works with iPhone 7 or later with the latest version of iOS; 12.9-inch iPad Pro 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | You Ain't the Problem |
-| A2 | Rolling |
-| A3 | I've Been Dazed |
-| B1 | Piano Joint (This Kind of Love) Intro |
-| B2 | Piano Joint (This Kind of Love) |
-| B3 | Another Human Being (Interlude) |
-| B4 | Living in Denial |
-| C1 | Hero |
-| C2 | Hard to Say Goodbye |
-| D1 | Final Days |
-| D2 | Interlude (Loving The People) |
-| D3 | Solid Ground |
-| D4 | Light |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

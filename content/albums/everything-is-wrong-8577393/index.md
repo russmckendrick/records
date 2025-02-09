@@ -33,19 +33,19 @@ Everything Is Wrong is the third studio album by American electronica musician M
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hymn |
-| A2 | Feeling So Real |
-| A3 | All That I Need Is To Be Loved |
-| A4 | Let's Go Free |
-| A5 | Everytime You Touch Me |
-| A6 | Bring Back My Happiness |
-| A7 | What Love |
-| B1 | First Cool Hive |
-| B2 | Into The Blue |
-| B3 | Anthem |
-| B4 | Everything Is Wrong |
-| B5 | God Moving Over The Face Of The Waters |
-| B6 | When It's Cold I'd Like To Die |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

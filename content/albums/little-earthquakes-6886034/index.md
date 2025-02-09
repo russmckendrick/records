@@ -36,18 +36,18 @@ Her label famously wanted to replace the album’s piano with guitars—a respon
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Crucify |
-| A2 | Girl |
-| A3 | Silent All These Years |
-| A4 | Precious Things |
-| A5 | Winter |
-| A6 | Happy Phantom |
-| B1 | China |
-| B2 | Leather |
-| B3 | Mother |
-| B4 | Tear In Your Hand |
-| B5 | Me And A Gun |
-| B6 | Little Earthquakes |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

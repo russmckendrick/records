@@ -1,6 +1,6 @@
 ---
-title: "Ghost - Opvs Eponymovs"
-artist_name: "Ghost"
+title: "Ghost (32) - Opvs Eponymovs"
+artist_name: "Ghost (32)"
 artist: "ghost"
 album_name: "Opvs Eponymovs"
 date: 2018-09-18T18:03:40.000000Z
@@ -10,8 +10,8 @@ slug: "opvs-eponymovs-2649116"
 hideSummary: true
 cover:
     image: "opvs-eponymovs-2649116.jpg"
-    alt: "Opvs Eponymovs by Ghost"
-    caption: "Opvs Eponymovs by Ghost"
+    alt: "Opvs Eponymovs by Ghost (32)"
+    caption: "Opvs Eponymovs by Ghost (32)"
 additional_images:
     - "https://i.discogs.com/jUpDvx7_Nhz-huE78wMo9L1jh_jL_iplhyh2UCa7ggg/rs:fit/g:sm/q:90/h:300/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDkx/MTYtMTI5NTQ0NDM2/NC5qcGVn.jpeg"
     - "https://i.discogs.com/ZKVROa4KqYCY1Q5Z49CrEezeaNCJrxmGX7jS1yPTfMg/rs:fit/g:sm/q:90/h:258/w:344/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NDkx/MTYtMTI5NTQ1MzYx/OC5qcGVn.jpeg"
@@ -30,15 +30,15 @@ For a bunch of scary Swedes, Ghost’s debut album is quite catchy and melodic. 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Deus Culpa |
-| A2 | Con Clavi Con Dio |
-| A3 | Ritual |
-| A4 | Elizabeth |
-| A5 | Stand By Him |
-| B1 | Satan Prayer |
-| B2 | Death Knell |
-| B3 | Prime Mover |
-| B4 | Genesis |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -56,4 +56,4 @@ For a bunch of scary Swedes, Ghost’s debut album is quite catchy and melodic. 
 | Label          | Rise Above Records |
 | Catalog Number | RISELP124 |
 | Notes | Album is also known as "Opus Eponymous".     Recorded at Manfire Recordings.  Additional recordings done at White Light Studio.  Mixed and mastered at Orgone Mastering.    ℗ 2010 Rise Above.  © 2010 Rise Above.    Limited to 300 on green with black splatter .   |
-| Discogs URL    | [Ghost - Opvs Eponymovs](https://www.discogs.com/release/2649116-Ghost-32-Opvs-Eponymovs) |
+| Discogs URL    | [Ghost (32) - Opvs Eponymovs](https://www.discogs.com/release/2649116-Ghost-32-Opvs-Eponymovs) |

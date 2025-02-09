@@ -27,16 +27,16 @@ styles: ["Contemporary Jazz"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Rivers Of Mind |
-| A2 | Convolution |
-| A3 | Polar Retreat |
-| B1 | Out Of Sight, Out Of Mind |
-| B2 | Home |
-| C1 | Settling Into The Sun |
-| C2 | Intwination |
-| C3 | As We Stand |
-| D1 | Kestrel |
-| D2 | What's In A Tune |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

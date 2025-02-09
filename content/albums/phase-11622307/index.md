@@ -31,12 +31,12 @@ At the 2018 Worldwide FM Awards, the album won Best Album. At the Music Victoria
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Magnificent Moon |
-| A2 | Zwango Zop |
-| A3 | Im Blau |
-| B1 | Phase |
-| B2 | Two Horizons |
-| B3 | The Gloves Don't Bite |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

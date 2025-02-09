@@ -38,16 +38,16 @@ The album cover art was created by former Split Enz frontman Phil Judd, while th
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Strait Old Line |
-| A2 | Bullet Brain And Cactus Head |
-| A3 | Message To My Girl |
-| A4 | Working Up An Appetite |
-| A5 | Our Day |
-| B1 | No Mischief |
-| B2 | The Devil You Know |
-| B3 | I Wake Up Every Night |
-| B4 | Conflicting Emotions |
-| B5 | Bon Voyage |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

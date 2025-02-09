@@ -31,19 +31,19 @@ styles: ["Soul"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Can Change Your Mind |
-| A2 | Who's Fooling Who |
-| A3 | Till I Hear It From You |
-| A4 | Never |
-| A5 | Missing In Action |
-| A6 | Nick Of Time |
-| B1 | Brother Or Another |
-| B2 | Ain't Goin' Up In One Of Those Things |
-| B3 | Take It As You Find It |
-| B4 | Can't Help Myself |
-| B5 | How 'Bout Now |
-| B6 | Paradise For One |
-| B7 | He's Your Could've Been |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

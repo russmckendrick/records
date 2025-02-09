@@ -27,12 +27,12 @@ styles: ["Comedy", "Radioplay"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Stolen |
-| B1 | Jungle |
-| C1 | Jazz |
-| D1 | Mutants |
-| E1 | Tundra |
-| F1 | Hitcher |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -1,6 +1,6 @@
 ---
-title: "Thunder - Back Street Symphony"
-artist_name: "Thunder"
+title: "Thunder (3) - Back Street Symphony"
+artist_name: "Thunder (3)"
 artist: "thunder"
 album_name: "Back Street Symphony"
 date: 2023-05-01T06:51:04.000000Z
@@ -10,8 +10,8 @@ slug: "back-street-symphony-26910992"
 hideSummary: true
 cover:
     image: "back-street-symphony-26910992.jpg"
-    alt: "Back Street Symphony by Thunder"
-    caption: "Back Street Symphony by Thunder"
+    alt: "Back Street Symphony by Thunder (3)"
+    caption: "Back Street Symphony by Thunder (3)"
 additional_images:
     - "https://i.discogs.com/wKaAQbhMSzCCc9hJ3ZPRnKg97iqsM5hDpRwooNav5U0/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTEw/OTkyLTE2ODI2OTMx/NjAtMjMwOS5qcGVn.jpeg"
     - "https://i.discogs.com/DQ2txV1uUGIz21QKViDOqMN2kw5bPH3Ln4fEMPIDukk/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTEw/OTkyLTE2ODI2OTMx/NTktMzgyNS5qcGVn.jpeg"
@@ -42,20 +42,20 @@ Backstreet Symphony was promoted on a worldwide tour beginning in February 1990,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | She's So Fine |
-| A2 | Dirty Love |
-| A3 | Don't Wait For Me |
-| A4 | Higher Ground |
-| B1 | Until My Dying Day |
-| B2 | Back Street Symphony |
-| B3 | Love Walked In |
-| B4 | An Englishman On Holiday |
-| C1 | Girl's Going Out Of Her Head |
-| C2 | Gimme Some Lovin' |
-| C3 | Distant Thunder |
-| D1 | She's So Fine (Live At Marquee London, 2002) |
-| D2 | Until My Dying Day (Live At Marquee London, 2002) |
-| D3 | Gimme Some Lovin' (Live At Nottingham Rock City, 2008) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -74,4 +74,4 @@ Backstreet Symphony was promoted on a worldwide tour beginning in February 1990,
 | Label          | BMG |
 | Catalog Number | BMGCAT708DLP |
 | Notes | Tracks D1 and D2 Previously available on the 2003 DVD, 'Live & Uncut' on STC Records. Long since deleted and have never been available on CD, vinyl or digital Track D3 Previously only available on The Xmas Show Live 2008 CD given to ticket holders only. Long deleted and has never been on vinyl or digital.  Some copies came with a limited edition art card. |
-| Discogs URL    | [Thunder - Back Street Symphony](https://www.discogs.com/release/26910992-Thunder-3-Back-Street-Symphony) |
+| Discogs URL    | [Thunder (3) - Back Street Symphony](https://www.discogs.com/release/26910992-Thunder-3-Back-Street-Symphony) |

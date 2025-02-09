@@ -36,14 +36,14 @@ Fly by Night is the second studio album by the Canadian rock band Rush, released
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Anthem |
-| A2 | Best I Can |
-| A3 | Beneath, Between, & Behind |
-|  | By-Tor & The Snow Dog |
-| B1 | Fly By Night |
-| B2 | Making Memories |
-| B3 | Rivendell |
-| B4 | In The End |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

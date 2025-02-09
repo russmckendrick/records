@@ -31,15 +31,15 @@ Flowermouth is the second studio album by British duo No-Man, released in 1994 o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Angel Gets Caught In The Beauty Trap |
-| A2 | You Grow More Beautiful |
-| B3 | Animal Ghost |
-| B4 | Soft Shoulders |
-| C5 | Shell Of A Fighter |
-| C6 | Teardrop Fall |
-| C7 | Watching Over Me |
-| D8 | Simple |
-| D9 | Things Change |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

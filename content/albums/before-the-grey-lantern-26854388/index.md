@@ -31,20 +31,20 @@ styles: ["Indie Rock", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Take It Easy Chicken |
-| A2 | Flourella |
-| A3 | The Greatest Pain |
-| A4 | The Edge |
-| A5 | Rebel Without A Quilt |
-| A6 | No One Knows Us |
-| A7 | The Holy Blood And The Holy Grail |
-| B1 | Skin Up Pin Up |
-| B2 | Ski Jump Nose |
-| B3 | Things Keep Falling Off Buildings |
-| B4 | Lemonade Secret Drinker |
-| B5 | Drastic Sturgeon |
-| B6 | Moronica |
-| B7 | The Most To Gain |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

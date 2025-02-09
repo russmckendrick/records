@@ -51,32 +51,32 @@ Rock revivalism is only half the story on this eponymous debut from psychedelic 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Spanish Main |
-| A2 | I Remember When |
-| A3 | Shadows Fall |
-| A4 | Dreaming Of You |
-| A5 | Simon Diamond |
-| A6 | Goodbye |
-| B1 | Waiting For The Heartaches |
-| B2 | Skeleton Key |
-| B3 | Wildfire |
-| B4 | Badman |
-| B5 | Calendars And Clocks |
-| C1 | The Oldest Path |
-| C2 | God Knows |
-| C3 | Short Ballad |
-| C4 | Flies |
-| C5 | Dressed Like A Cow |
-| C6 | Darkness |
-| C7 | Sherrif John Brown |
-| D1 | Good Fortune |
-| D2 | Answer Me |
-| D3 | Follow The Sun |
-| D4 | Travelling Circus |
-| D5 | Sweet Sue |
-| D6 | Another Turn In The Lock |
-| D7 | She's The Girl For Me |
-| D8 | Tumble Graves |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

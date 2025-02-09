@@ -35,15 +35,15 @@ On 25 July 2019, to commemorate the 50th anniversary of the Apollo Moon landing 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Race For Space |
-| A2 | Sputnik |
-| A3 | Gagarin |
-| A4 | Fire In The Cockpit |
-| A5 | E. V. A. |
-| B1 | The Other Side |
-| B2 | Valentina |
-| B3 | Go! |
-| B4 | Tomorrow |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

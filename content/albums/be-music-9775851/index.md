@@ -34,18 +34,18 @@ This mid-'90s collection lays out New Order's catalogue in all its brilliance (a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Can't Afford |
-| A2 | Looking From A Hilltop (Megamix) |
-| A3 | Security |
-| B1 | Reach For Love |
-| B2 | Love Tempo |
-| B3 | Fate/Hate |
-| C1 | Bootsy (Swingfire Mix) |
-| C2 | ~ (Real Love) |
-| C3 | The Hunter (Remix) |
-| D1 | Inside |
-| D2 | Daggers (Remix) |
-| D3 | Oh Men (02 Remix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

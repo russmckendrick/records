@@ -51,21 +51,21 @@ World Wide Funk is the 15th studio album by former Parliament-Funkadelic bassist
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | World Wide Funk |
-| A2 | Bass-Rigged-System |
-| A3 | Pusherman |
-| A4 | Thera-P |
-| B1 | Hot Saucer |
-| B2 | Heaven Eyes |
-| B3 | Ladies Nite |
-| B4 | Candy Coated Lover |
-| C1 | Snow Bunny |
-| C2 | Hi-On-Heels |
-| C3 | A Salute To Bernie |
-| C4 | Boomerang |
-| D1 | Worth My While |
-| D2 | Come Back Bootsy |
-| D3 | Illusions |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

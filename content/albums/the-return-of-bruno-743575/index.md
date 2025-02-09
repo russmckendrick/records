@@ -34,16 +34,16 @@ The Return of Bruno is the debut studio album by American actor Bruce Willis. Re
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Comin' Right Up |
-| A2 | Respect Yourself |
-| A3 | Down In Hollywood |
-| A4 | Young Blood |
-| A5 | Under The Boardwalk |
-| B1 | Secret Agent Man (James Bond Is Back) |
-| B2 | Jackpot (Bruno's Bop) |
-| B3 | Fun Time |
-| B4 | Lose Myself |
-| B5 | Flirting With Disaster |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

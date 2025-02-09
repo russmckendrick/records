@@ -1,6 +1,6 @@
 ---
-title: "ALT - Altitude "
-artist_name: "ALT"
+title: "ALT (6) - Altitude "
+artist_name: "ALT (6)"
 artist: "alt"
 album_name: "Altitude "
 date: 2022-06-06T01:25:47.000000Z
@@ -10,8 +10,8 @@ slug: "altitude-23202755"
 hideSummary: true
 cover:
     image: "altitude-23202755.jpg"
-    alt: "Altitude  by ALT"
-    caption: "Altitude  by ALT"
+    alt: "Altitude  by ALT (6)"
+    caption: "Altitude  by ALT (6)"
 additional_images:
     - "https://i.discogs.com/XzdMQR1R-tNmUzjw5xIdSXC0YLQkL1_IrM1Ke8kCzrY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE3MDUyMTIy/NDUtMjczMy5qcGVn.jpeg"
     - "https://i.discogs.com/of7FX22boJNyK7MGZ4khuqc0uAmUVl1Ouqj_uk2owxk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMjAy/NzU1LTE3MDUyMTIy/NDUtNDQwNi5qcGVn.jpeg"
@@ -40,28 +40,28 @@ Altitude was the only studio album to date released by ALT, the grouping of Tim 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Side One  |
-| 1 | We're All Men |
-| 2 | Penelope Tree |
-| 3 | When The Winter Comes  |
-| 4 | Favourite Girl  |
-| 5 | Swim  |
-|  | Side Two  |
-| 1 | The Refuge Tree |
-| 2 | What You've Done  |
-| 3 | Second Swim  |
-| 4 | Girlfriend Guru |
-| 5 | Mandala  |
-|  | Side Three  |
-| 1 | I Decided To Fly  |
-| 2 | The Day You Were Born  |
-| 3 | Halfway Round The World  |
-| 4 | Many's The Time  |
-|  | Side Four  |
-| 1 | The Future Is Broken  |
-| 2 | Girlfriend Guru ( alt version) |
-| 3 | Mandala (alt version) |
-| 4 | The Glad Eyed Maid  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -79,4 +79,4 @@ Altitude was the only studio album to date released by ALT, the grouping of Tim 
 | Format         | Vinyl 2× LP Album Deluxe Edition Reissue Remastered Stereo |
 | Label          | Needle Mythology |
 | Catalog Number | NEMYLP010 |
-| Discogs URL    | [ALT - Altitude ](https://www.discogs.com/release/23202755-ALT-6-Altitude-) |
+| Discogs URL    | [ALT (6) - Altitude ](https://www.discogs.com/release/23202755-ALT-6-Altitude-) |

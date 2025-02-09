@@ -1,7 +1,7 @@
 ---
-title: "Jurassic - Quality Control"
-artist_name: "Jurassic"
-artist: "jurassic"
+title: "Jurassic 5 - Quality Control"
+artist_name: "Jurassic 5"
+artist: "jurassic-5"
 album_name: "Quality Control"
 date: 2023-07-29T02:26:52.000000Z
 release_date: "2000-01-01"
@@ -10,8 +10,8 @@ slug: "quality-control-7119855"
 hideSummary: true
 cover:
     image: "quality-control-7119855.jpg"
-    alt: "Quality Control by Jurassic"
-    caption: "Quality Control by Jurassic"
+    alt: "Quality Control by Jurassic 5"
+    caption: "Quality Control by Jurassic 5"
 additional_images:
     - "https://i.discogs.com/rVrxu-wfy1HcyLaGETLS2AxOVIH4Q8Ow8AVw33HgT6U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTk4/NTUtMTU0NjcwNjE5/Mi03OTM4LmpwZWc.jpeg"
     - "https://i.discogs.com/CzUNIaWeCLQg67VbiSmoalFyrOpvDMsOrrIY4vmAU7Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMTk4/NTUtMTU0NjcwNjE5/Ny0yMDUzLmpwZWc.jpeg"
@@ -34,21 +34,21 @@ Quality Control is the second studio album by American alternative hip hop group
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | How We Get Along |
-| A2 | The Influence |
-| A3 | Great Expectations |
-| A4 | Quality (Intro) |
-| A5 | Quality Control |
-| B1 | Contact |
-| B2 | Lausd |
-| B3 | World Of Entertainment (Woe Is Me) |
-| B4 | Monkey Bars |
-| C1 | Jurass Finish First |
-| C2 | Contribution |
-| C3 | Twelve |
-| D1 | The Game |
-| D2 | Improvise |
-| D3 | Swing Set |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -66,4 +66,4 @@ Quality Control is the second studio album by American alternative hip hop group
 | Format         | Vinyl 2× LP Album Reissue |
 | Label          | Get On Down |
 | Catalog Number | GET 56035-LP |
-| Discogs URL    | [Jurassic - Quality Control](https://www.discogs.com/release/7119855-Jurassic-5-Quality-Control) |
+| Discogs URL    | [Jurassic 5 - Quality Control](https://www.discogs.com/release/7119855-Jurassic-5-Quality-Control) |

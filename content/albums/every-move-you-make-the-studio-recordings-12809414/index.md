@@ -60,77 +60,77 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Outlandos d'Amour (1978) |
-| A1 | Next To You |
-| A2 | So Lonely |
-| A3 | Roxanne |
-| A4 | Hole In My Life |
-| A5 | Peanuts |
-| B1 | Can't Stand Losing You |
-| B2 | Truth Hits Everybody |
-| B3 | Born In The 50's |
-| B4 | Be My Girl - Sally |
-| B5 | Masoko Tanga |
-|  | Reggatta de Blanc (1979) |
-| C1 | Message In A Bottle |
-| C2 | Reggatta De Blanc |
-| C3 | It's Alright For You |
-| C4 | Bring On The Night |
-| C5 | Deathwish |
-| D1 | Walking On The Moon |
-| D2 | On Any Other Day |
-| D3 | The Bed's Too Big Without You |
-| D4 | Contact |
-| D5 | Does Everyone Stare |
-| D6 | No Time This Time |
-|  | Zenyattà Mondatta (1980) |
-| E1 | Don't Stand So Close To Me |
-| E2 | Driven To Tears |
-| E3 | When The World Is Running Down, You Make The Best Of What's Still Around |
-| E4 | Canary In A Coalmine |
-| E5 | Voices Inside My Head |
-| E6 | Bombs Away |
-| F1 | De Do Do Do, De Da Da Da |
-| F2 | Behind My Camel |
-| F3 | Man In A Suitcase |
-| F4 | Shadows In The Rain |
-| F5 | The Other Way Of Stopping |
-|  | Ghost In The Machine (1981) |
-| G1 | Spirits In The Material World |
-| G2 | Every Little Thing She Does Is Magic |
-| G3 | Invisible Sun |
-| G4 | Hungry For You (J'aurais Toujours Faim De Toi) |
-| G5 | Demolition Man |
-| H1 | Too Much Information |
-| H2 | Rehumanize Yourself |
-| H3 | One World (Not Three) |
-| H4 | Ωmegaman |
-| H5 | Secret Journey |
-| H6 | Darkness |
-|  | Synchronicity (1983) |
-| I1 | Synchronicity I |
-| I2 | Walking In Your Footsteps |
-| I3 | O My God |
-| I4 | Mother |
-| I5 | Miss Gradenko |
-| I6 | Synchronicity II |
-| J1 | Every Breath You Take |
-| J2 | King Of Pain |
-| J3 | Wrapped Around Your Finger |
-| J4 | Tea In The Sahara |
-|  | Flexible Strategies |
-| K1 | Dead End Job (1978) |
-| K2 | Landlord (1979) |
-| K3 | Visions Of The Night (1979) |
-| K4 | Friends (1980) |
-| K5 | A Sermon (1980) |
-| K6 | Shambelle (1981) |
-| L1 | Flexible Strategies (1981) |
-| L2 | Low Life (1981) |
-| L3 | Murder By Numbers (1983) |
-| L4 | Truth Hits Everybody (Remix) (1983) |
-| L5 | Someone To Talk To (1983) |
-| L6 | Once Upon A Daydream (1983) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

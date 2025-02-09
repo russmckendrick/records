@@ -54,110 +54,110 @@ styles: ["Classic Rock", "Glam"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | LP 1: Slayed? (Brown Vinyl) |
-| A1 | How D’You Ride |
-| A2 | The Whole World’s Goin’ Crazee |
-| A3 | Look At Last Nite |
-| A4 | I Won’t Let It ‘Appen Agen |
-| A5 | Move Over |
-| B1 | Gudbuy T’Jane |
-| B2 | Gudbuy Gudbuy |
-| B3 | Mama Weer All Crazee Now |
-| B4 | I Don’ Mind |
-| B5 | Let The Good Times Roll |
-| B6 | Feel So Fine |
-|  | LP 2: Slade Alive! (Red Vinyl) |
-| C1 | Hear Me Calling |
-| C2 | In Like A Shot From My Gun |
-| C3 | Darling Be Home Soon |
-| C4 | Know Who You Are |
-| D1 | Keep On Rocking |
-| D2 | Get Down With It |
-| D3 | Born To Be Wild |
-|  | LP 3: Old New Borrowed And Blue (Powder Blue Vinyl) |
-| E1 | Just Want A Little Bit |
-| E2 | When The Lights Are Out |
-| E3 | My Town |
-| E4 | Find Yourself A Rainbow |
-| E5 | Miles Out To Sea |
-| E6 | We’re Really Gonna Raise The Roof |
-| F1 | Do We Still Do It |
-| F2 | How Can It Be |
-| F3 | Don’t Blame Me |
-| F4 | My Friend Stan |
-| F5 | Everyday |
-| F6 | Good Time Gals |
-|  | LP 4: Slade In Flame (Pale Yellow Vinyl) |
-| G1 | How Does It Feel |
-| G2 | Them Kinda Monkeys Can’t Swing |
-| G3 | So Far So Good |
-| G4 | Summer Song (Wishing You Were Here) |
-| G5 | O.K. Yesterday Was Yesterday |
-| H1 | Far Far Away |
-| H2 | This Girl |
-| H3 | Lay It Down |
-| H4 | Heaven Knows |
-| H5 | Standin’ On The Corner |
-|  | Single 1: Coz I Love You / Look Wot You Dun |
-| I | Coz I Love You |
-| J | Look Wot You Dun |
-|  | Single 2: Take Me Bak ‘Ome / Cum On Feel The Noize |
-| K | Take Me Bak ‘Ome |
-| L | Cum On Feel The Noize |
-|  | Single 3: Skweeze Me, Pleeze Me / Merry Xmas Everybody |
-| M | Skweeze Me, Pleeze Me |
-| N | Merry Xmas Everybody |
-|  | Single 4: The Bangin’ Man / Thanks For The Memory |
-| O | The Bangin’ Man |
-| P | Thanks For The Memory |
-|  | Flexi-disc: Talking About And Singing Some Of The New Tracks From Their Latest Album |
-| Q | Talking About And Singing Some Of The New Tracks From Their Latest Album |
-|  | CD1 |
-|  | Slayed? |
-| 1 | How D’You Ride |
-| 2 | The Whole World’s Goin’ Crazee |
-| 3 | Look At Last Nite |
-| 4 | I Won’t Let It ‘Appen Agen |
-| 5 | Move Over |
-| 6 | Gudbuy T’Jane |
-| 7 | Gudbuy Gudbuy |
-| 8 | Mama Weer All Crazee Now |
-| 9 | I Don’ Mind |
-| 10 | Let The Good Times Roll |
-| 11 | Feel So Fine |
-|  | Slade Alive! |
-| 12 | Hear Me Calling |
-| 13 | In Like A Shot From My Gun |
-| 14 | Darling Be Home Soon |
-| 15 | Know Who You Are |
-| 16 | Keep On Rocking |
-| 17 | Get Down With It |
-| 18 | Born To Be Wild |
-|  | CD2 |
-|  | Old New Borrowed And Blue |
-| 1 | Just Want A Little Bit |
-| 2 | When The Lights Are Out |
-| 3 | My Town |
-| 4 | Find Yourself A Rainbow |
-| 5 | Miles Out To Sea |
-| 6 | We’re Really Gonna Raise The Roof |
-| 7 | Do We Still Do It |
-| 8 | How Can It Be |
-| 9 | Don’t Blame Me |
-| 10 | My Friend Stan |
-| 11 | Everyday |
-| 12 | Good Time Gals |
-|  | Slade In Flame |
-| 13 | How Does It Feel |
-| 14 | Them Kinda Monkeys Can’t Swing |
-| 15 | So Far So Good |
-| 16 | Summer Song (Wishing You Were Here) |
-| 17 | O.K. Yesterday Was Yesterday |
-| 18 | Far Far Away |
-| 19 | This Girl |
-| 20 | Lay It Down |
-| 21 | Heaven Knows |
-| 22 | Standin’ On The Corner |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

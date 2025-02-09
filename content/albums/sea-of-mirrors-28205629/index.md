@@ -34,20 +34,20 @@ Sea of Mirrors is the eleventh studio album by English rock band the Coral. It w
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Actor And The Cardboard Cowboy |
-| A2 | Cycles Of The Season |
-| A3 | Faraway Worlds |
-| A4 | Wild Bird |
-| A5 | North Wind |
-| A6 | Eleanor |
-| A7 | Sea Of Mirrors |
-| B1 | That's Where She Belongs |
-| B2 | The Way You Are |
-| B3 | Dream River |
-| B4 | Almeria |
-| B5 | Child Of The Moon |
-| B6 | Oceans Apart |
-| C | Mare Di Specchi |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

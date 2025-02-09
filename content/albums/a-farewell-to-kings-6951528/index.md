@@ -41,12 +41,12 @@ A Farewell to Kings received a generally positive reception from critics. "Close
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | A Farewell To Kings |
-| A2 | Xanadu |
-| B1 | Closer To The Heart |
-| B2 | Cinderella Man |
-| B3 | Madrigal |
-| B4 | Cygnus X-1 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

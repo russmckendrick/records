@@ -28,25 +28,25 @@ styles: ["Alternative Rock", "Art Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Spirit Spout |
-| A2 | Shaping The River |
-| A3 | Nil In The Nest |
-| A4 | A Thousand Strokes And A Rolling Suck |
-| A5 | Christ Alive |
-| A6 | Mr.Drake’s Big Heart |
-| A7 | Lucky Lucy |
-| A8 | Gods Box |
-| A9 | Piano Interlude |
-| B1 | Up In Annie's Room |
-| B2 | Mr.Drake’s Big Heart Reprise |
-| B3 | The Psalm Of Life |
-| B4 | In The Corner Of Sin |
-| B5 | Tree Tops High |
-| B6 | Dog Eat Spine |
-| B7 | Sarah On A Worm |
-| B8 | Lilly White's Party |
-| B9 | Appealing To Venus |
-| B10 | Abade |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

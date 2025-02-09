@@ -37,29 +37,29 @@ The album effectively supersedes the now deleted Divine Madness collection. Tota
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | One Step Beyond |
-| A2 | Baggy Trousers |
-| A3 | House Of Fun |
-| A4 | Our House |
-| A5 | Embarrassment |
-| A6 | My Girl |
-| B1 | It Must Be Love |
-| B2 | Wings Of A Dove |
-| B3 | The Sun And The Rain |
-| B4 | Grey Day |
-| B5 | NW5 |
-| C1 | Cardiac Arrest |
-| C2 | Tomorrow's (Just Another Day) |
-| C3 | Driving In My Car |
-| C4 | Bed And Breakfast Man |
-| C5 | Lovestruck |
-| C6 | One Better Day |
-| D1 | Michael Caine |
-| D2 | Return Of The Los Palmas 7 |
-| D3 | The Prince |
-| D4 | Shut Up |
-| D5 | Madness |
-| D6 | Night Boat To Cairo |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

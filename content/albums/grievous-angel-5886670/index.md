@@ -32,15 +32,15 @@ It was voted number 324 in the third edition of Colin Larkin's All Time Top 1000
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Return Of The Grievous Angel |
-| A2 | Hearts On Fire |
-| A3 | I Can't Dance |
-| A4 | Brass Buttons |
-| A5 | $1000 Wedding |
-|  | Medley Live From Northern Quebec |
-| B2 | Love Hurts |
-| B3 | Las Vegas |
-| B4 | In My Hour Of Darkness |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

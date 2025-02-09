@@ -34,19 +34,19 @@ The Last Days of Oakland is the second album by American singer-songwriter Fanta
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Intro - The Last Days Of Oakland |
-| A2 | Working Poor |
-| A3 | About A Bird |
-| A4 | Scary Woman |
-| A5 | Interlude - What Would You Do? |
-| A6 | The Nigga Song |
-| A7 | In The Pines |
-| B1 | Hump Through The Winter |
-| B2 | Lost In A Crowd |
-| B3 | Interlude 2 - El Chileno |
-| B4 | The Worst |
-| B5 | Rant Rushmore |
-| B6 | Nothing Without You |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

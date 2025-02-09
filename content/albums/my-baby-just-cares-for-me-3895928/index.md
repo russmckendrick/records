@@ -35,26 +35,26 @@ styles: ["Soul-Jazz"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | My Baby Just Cares For Me |
-| A2 | Mood Indigo |
-| A3 | Don't Smoke In Bed |
-| A4 | Little Girl Blue |
-| A5 | You'll Never Walk Alone |
-| B1 | Central Park Blues |
-| B2 | He Needs Me |
-| B3 | Good Bait |
-| B4 | Plain Gold Ring |
-| C1 | I Loves You Porgy |
-| C2 | The Other Woman |
-| C3 | Cotton Eyed Joe |
-| C4 | Work Song |
-| C5 | Forbidden Fruit |
-| C6 | He's Got The Whole World In His Hands |
-| D1 | Love Me Or Leave Me |
-| D2 | Exactly Like You |
-| D3 | Black Is The Colour Of My True Love's Hair |
-| D4 | Children Go Where I Send You |
-| D5 | Summertime |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

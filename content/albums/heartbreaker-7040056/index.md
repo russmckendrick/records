@@ -39,21 +39,21 @@ A Deluxe Edition, featuring bonus recording session takes and pre-album demos, w
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | (Argument With David Rawlings Concerning Morrissey) |
-| A2 | To Be Young (Is To Be Sad, Is To Be High) |
-| A3 | My Winding Wheel |
-| A4 | AMY |
-| B1 | Oh My Sweet Carolina |
-| B2 | Bartering Lines |
-| B3 | Call Me On Your Way Back Home |
-| B4 | Damn, Sam (I Love A Woman That Rains) |
-| C1 | Come Pick Me Up |
-| C2 | To Be The One |
-| C3 | Why Do They Leave? |
-| C4 | Shakedown On 9th Street |
-| D1 | Don't Ask For The Water |
-| D2 | In My Time Of Need |
-| D3 | Sweet Lil Gal (23rd/1st) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -34,17 +34,17 @@ In the year of gangsta rap’s pop triumph, De La maintain a speed limit on the 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Eye Patch |
-| A2 | En Focus |
-| A3 | Patti Dooke |
-| A4 | I Be Blowin' |
-| A5 | Ego Trippin' (Part Two) |
-| B1 | 3 Days Later |
-| B2 | Area |
-| B3 | I Am I Be |
-| B4 | In The Woods |
-| B5 | Breakadawn |
-| B6 | Stone Age |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

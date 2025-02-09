@@ -1,6 +1,6 @@
 ---
-title: "The Beat - Wha'ppen? (Expanded Edition)"
-artist_name: "The Beat"
+title: "The Beat (2) - Wha'ppen? (Expanded Edition)"
+artist_name: "The Beat (2)"
 artist: "the-beat"
 album_name: "Wha'ppen? (Expanded Edition)"
 date: 2024-12-30T01:10:06.000000Z
@@ -10,8 +10,8 @@ slug: "wha-ppen-expanded-edition-30462800"
 hideSummary: true
 cover:
     image: "wha-ppen-expanded-edition-30462800.jpg"
-    alt: "Wha'ppen? (Expanded Edition) by The Beat"
-    caption: "Wha'ppen? (Expanded Edition) by The Beat"
+    alt: "Wha'ppen? (Expanded Edition) by The Beat (2)"
+    caption: "Wha'ppen? (Expanded Edition) by The Beat (2)"
 additional_images:
     - "https://i.discogs.com/YQfMdKssH7PZIhtoCeGF0gjY6uMBxrrghAF59OL-_Ms/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDYy/ODAwLTE3MTM3MTA3/NzctMzYyMy5qcGVn.jpeg"
     - "https://i.discogs.com/8AL77e5sPmS4ArdgmEbgMlVFZZepA9ZfIgXA7k82W_4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDYy/ODAwLTE3MTM3MTEw/MDAtNjQ3NC5qcGVn.jpeg"
@@ -33,27 +33,27 @@ For the expanded edition, Breezy dips further into his emotions for a posthumous
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Doors Of Your Heart |
-| A2 | All Out To Get You |
-| A3 | Monkey Murders |
-| A4 | I Am Your Flag |
-| A5 | French Toast (Soleil Trop Chaud) |
-| A6 | Drowning |
-| B1 | Dream Home In NZ |
-| B2 | Walk Away |
-| B3 | Over And Over |
-| B4 | Cheated |
-| B5 | Get-A-Job |
-| B6 | The Limits We Set |
-| C1 | Too Nice To Talk To |
-| C2 | Psychedelic Rockers |
-| C3 | Hit It |
-| C4 | Which Side Of The Bed? |
-| C5 | Drowning (Dub) |
-| D1 | Too Nice To Talk To (Dubweiser) |
-| D2 | Psychedelic Rockers (Dubweiser) |
-| D3 | Doors Of Your Heart (Extended) |
-| D4 | Hit It (Extended) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -71,4 +71,4 @@ For the expanded edition, Breezy dips further into his emotions for a posthumous
 | Label          | Rhino Records (2) |
 | Catalog Number | RCV1 726082 |
 | Notes | RSD 2024 edition for the world outside North America. |
-| Discogs URL    | [The Beat - Wha'ppen? (Expanded Edition)](https://www.discogs.com/release/30462800-The-Beat-2-Whappen-Expanded-Edition) |
+| Discogs URL    | [The Beat (2) - Wha'ppen? (Expanded Edition)](https://www.discogs.com/release/30462800-The-Beat-2-Whappen-Expanded-Edition) |

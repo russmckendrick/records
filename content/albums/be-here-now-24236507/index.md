@@ -1,6 +1,6 @@
 ---
-title: "Oasis - Be Here Now"
-artist_name: "Oasis"
+title: "Oasis (2) - Be Here Now"
+artist_name: "Oasis (2)"
 artist: "oasis"
 album_name: "Be Here Now"
 date: 2022-08-21T11:23:47.000000Z
@@ -10,8 +10,8 @@ slug: "be-here-now-24236507"
 hideSummary: true
 cover:
     image: "be-here-now-24236507.jpg"
-    alt: "Be Here Now by Oasis"
-    caption: "Be Here Now by Oasis"
+    alt: "Be Here Now by Oasis (2)"
+    caption: "Be Here Now by Oasis (2)"
 additional_images:
     - "https://i.discogs.com/mWU7Zclvzt8CBYrJUG57by5AZg8_xgDlq_4HINGQF50/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjM2/NTA3LTE2NjI2NTM3/NjItNjUxNC5qcGVn.jpeg"
     - "https://i.discogs.com/e9RWwoDKugHyXSzSAisDyxWD1Rv7EZYYnAewVDYppPc/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MjM2/NTA3LTE2NjA5MTE1/NzctNzg3Ny5qcGVn.jpeg"
@@ -53,18 +53,18 @@ Were Oasis put on this earth to deliver nine-minute ’60s pop psychedelia? Poss
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | D'You Know What I Mean? |
-| A2 | My Big Mouth |
-| A3 | Magic Pie |
-| B1 | Stand By Me |
-| B2 | I Hope, I Think, I Know |
-| B3 | The Girl In The Dirty Shirt |
-| C1 | Fade In-Out |
-| C2 | Don't Go Away |
-| C3 | Be Here Now |
-| D1 | All Around The World |
-| D2 | It's Gettin' Better (Man!!) |
-| D3 | All Around The World (Reprise) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -83,4 +83,4 @@ Were Oasis put on this earth to deliver nine-minute ’60s pop psychedelia? Poss
 | Label          | Big Brother |
 | Catalog Number | RKIDLP85C |
 | Notes | Gatefold sleeve on matte cardboard finish. |
-| Discogs URL    | [Oasis - Be Here Now](https://www.discogs.com/release/24236507-Oasis-2-Be-Here-Now) |
+| Discogs URL    | [Oasis (2) - Be Here Now](https://www.discogs.com/release/24236507-Oasis-2-Be-Here-Now) |

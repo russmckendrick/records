@@ -83,89 +83,89 @@ The album garnered widespread acclaim from critics, who praised its production q
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Original Album - 2013 Remaster |
-| CD1-1 | Second Hand News |
-| CD1-2 | Dreams |
-| CD1-3 | Never Going Back Again |
-| CD1-4 | Don't Stop |
-| CD1-5 | Go Your Own Way |
-| CD1-6 | Songbird |
-| CD1-7 | The Chain |
-| CD1-8 | You Make Loving Fun |
-| CD1-9 | I Don't Want To Know |
-| CD1-10 | Oh Daddy |
-| CD1-11 | Gold Dust Woman |
-| CD1-12 | Silver Springs |
-|  | Live, 1977  "Rumours World Tour" (Previously Unreleased) |
-| CD2-1 | Intro |
-| CD2-2 | Monday Morning |
-| CD2-3 | Dreams |
-| CD2-4 | Don't Stop |
-| CD2-5 | The Chain |
-| CD2-6 | Oh Daddy |
-| CD2-7 | Rhiannon |
-| CD2-8 | Never Going Back Again |
-| CD2-9 | Gold Dust Woman |
-| CD2-10 | World Turning |
-| CD2-11 | Go Your Own Way |
-| CD2-12 | Songbird |
-|  | The Rosebud Film Documentary |
-| DVD-1 | World Turning |
-| DVD-2 | Rhiannon |
-| DVD-3 | Say You Love Me |
-| DVD-4 | Go Your Own Way |
-| DVD-5 | You Make Loving Fun |
-| DVD-6 | I'm So Afraid |
-|  | More From The Recording Sessions (Previously Unreleased) |
-| CD4-1 | Second Hand News (Early Take) |
-| CD4-2 | Dreams (Take 2) |
-| CD4-3 | Never Going Back Again (Acoustic Duet) |
-| CD4-4 | Go Your Own Way (Early Take) |
-| CD4-5 | Songbird (Demo) |
-| CD4-6 | Songbird (Instrumental Take 10) |
-| CD4-7 | I Don't Want To Know  (Early Take) |
-| CD4-8 | Keep Me There (Instrumental) |
-| CD4-9 | The Chain (Demo) |
-| CD4-10 | Keep Me There (With Vocal) |
-| CD4-11 | Gold Dust Woman (Early Take) |
-| CD4-12 | Oh Daddy (Early Take) |
-| CD4-13 | Silver Springs (Early Take) |
-| CD4-14 | Planets Of The Universe (Demo) |
-| CD4-15 | Doesn't Anything Last (Acoustic Duet) |
-| CD4-16 | Never Going Back Again (Instrumental) |
-|  | Recording Sessions, Roughs And Outtakes |
-| CD5-1 | Second Hand News |
-| CD5-2 | Dreams |
-| CD5-3 | Brushes (Never Going Back Again) |
-| CD5-4 | Don't Stop |
-| CD5-5 | Go Your Own Way |
-| CD5-6 | Songbird |
-| CD5-7 | Silver Springs |
-| CD5-8 | You Make Loving Fun |
-| CD5-9 | Gold Dust Woman #1 |
-| CD5-10 | Oh Daddy |
-| CD5-11 | Think About It |
-|  | Early Demos |
-| CD5-12 | Never Going Back Again |
-| CD5-13 | Planets Of The Universe |
-| CD5-14 | Butter Cookie (Keep Me There) |
-| CD5-15 | Gold Dust Woman |
-| CD5-16 | Doesn't Anything Last |
-|  | Jam Sessions |
-| CD5-17 | Mic The Screecher |
-| CD5-18 | For Duster (The Blues) |
-|  | Original Album - 2013 Remaster |
-| A1 | Second Hand News |
-| A2 | Dreams |
-| A3 | Never Going Back Again |
-| A4 | Don't Stop |
-| A5 | Go Your Own Way |
-| A6 | Songbird |
-| B1 | The Chain |
-| B2 | You Make Loving Fun |
-| B3 | I Don't Want To Know |
-| B4 | Oh Daddy |
-| B5 | Gold Dust Woman |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

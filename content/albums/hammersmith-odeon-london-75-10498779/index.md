@@ -1,6 +1,6 @@
 ---
-title: "Bruce Springsteen  The E-Street Band - Hammersmith Odeon, London '75"
-artist_name: "Bruce Springsteen  The E-Street Band"
+title: "Bruce Springsteen & The E-Street Band - Hammersmith Odeon, London '75"
+artist_name: "Bruce Springsteen & The E-Street Band"
 artist: "bruce-springsteen-the-e-street-band"
 album_name: "Hammersmith Odeon, London '75"
 date: 2017-06-30T17:50:31.000000Z
@@ -10,8 +10,8 @@ slug: "hammersmith-odeon-london-75-10498779"
 hideSummary: true
 cover:
     image: "hammersmith-odeon-london-75-10498779.jpg"
-    alt: "Hammersmith Odeon, London '75 by Bruce Springsteen  The E-Street Band"
-    caption: "Hammersmith Odeon, London '75 by Bruce Springsteen  The E-Street Band"
+    alt: "Hammersmith Odeon, London '75 by Bruce Springsteen & The E-Street Band"
+    caption: "Hammersmith Odeon, London '75 by Bruce Springsteen & The E-Street Band"
 additional_images:
     - "https://i.discogs.com/9qCnQSU1GQMgtcMijpi-NAP1WW-KmN0v2Z1jXNDImdw/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE2MDk0MDE4/NTUtNDg0MC5qcGVn.jpeg"
     - "https://i.discogs.com/suWDP3GjqandTlPqMcWuU_SwloACaz5SAHxv-KJoWEU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDk4/Nzc5LTE1ODkwODk2/NTctMzk1NS5qcGVn.jpeg"
@@ -50,22 +50,22 @@ Hammersmith Odeon, London '75 is a concert video and the fourth live album by Br
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Thunder Road |
-| A2 | Tenth Avenue Freeze-Out |
-| A3 | Spirit In The Night |
-| B1 | Lost In The Flood |
-| B2 | She's The One |
-| B3 | Born To Run |
-| C1 | The E Street Shuffle |
-| D1 | It's Hard To Be A Saint In The City |
-| D2 | Backstreets |
-| E1 | Kitty's Back |
-| F1 | Jungleland |
-| F2 | Rosalita (Come Out Tonight) |
-| G1 | 4th Of July, Asbury Park (Sandy) |
-| G2 | Detroit Medley |
-| H1 | For You |
-| H2 | Quarter To Three |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -84,4 +84,4 @@ Hammersmith Odeon, London '75 is a concert video and the fourth live album by Br
 | Label          | Columbia |
 | Catalog Number | 88985441551 |
 | Notes | All songs ASCAP except: "The E Street Shuffle" contains a portion of "Having A Party" [ABKCO Music, Inc. (BMI)]; "Kitty's Back" contains a portion of "Moondance" [WB Music Corp. obo itself and Caledonia Soul Music]; "Rosalita (Come Out Tonight)" contains portions of "Come A Little Bit Closer" [Morris Music, Inc] and "Theme From Shaft" [Irving Music, Inc. (BMI)]; "Detroit Medley" contains "Jenny Take A Ride" [EMI Longitude Music (BMI)/Sony/ATV Songs LLC (BMI)], "Devil With A Blue Dress On" [Stone Agate Music (BMI)] and "Good Golly Miss Molly" [Robin Hood Music Co. (BMI)/Cedos Music (BMI)]; "Quarter to Three" [Wixen Music Publishing Inc. o/b/o Rockmasters International Network Inc. (BMI)].  Hype sticker attached reads: Four LP Set First Time Ever On Vinyl Includes Digital Download  © 2006, 2017 Bruce Springsteen/88985387091SV2 ℗ 2005 Bruce Springsteen  Both this US release and unnumbered European release [r11827114] were made in the EU and have the same barcode 889854415518, but text above barcode on rear cover differs between the US and European releases. |
-| Discogs URL    | [Bruce Springsteen  The E-Street Band - Hammersmith Odeon, London '75](https://www.discogs.com/release/10498779-Bruce-Springsteen-The-E-Street-Band-Hammersmith-Odeon-London-75) |
+| Discogs URL    | [Bruce Springsteen & The E-Street Band - Hammersmith Odeon, London '75](https://www.discogs.com/release/10498779-Bruce-Springsteen-The-E-Street-Band-Hammersmith-Odeon-London-75) |

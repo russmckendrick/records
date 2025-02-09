@@ -36,18 +36,18 @@ Plant and Krauss reconvene on <i>Raise the Roof</i>, seeming, somehow, to pick r
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Quattro (World Drifts In) |
-| A2 | The Price Of Love |
-| A3 | Go Your Way |
-| B1 | Trouble With My Lover |
-| B2 | Searching For My Love |
-| B3 | Can't Let Go |
-| C1 | It Don't Bother Me |
-| C2 | You Led Me To The Wrong |
-| C3 | Last Kind Words Blues |
-| D1 | High And Lonesome |
-| D2 | Going Where The Lonely Go |
-| D3 | Somebody Was Watching Over Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

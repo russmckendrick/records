@@ -34,16 +34,16 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Birdbrain |
-| A2 | Skeleton Key |
-| A3 | Caress |
-| A4 | Guy Who Is Me |
-| A5 | Enemy |
-| B1 | Crawl |
-| B2 | Fortune Teller |
-| B3 | Baby |
-| B4 | Directive |
-| B5 | Bleeding Heart |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

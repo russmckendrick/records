@@ -32,18 +32,18 @@ Critical reviews of the album were generally positive, with some considering it 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Just Another Story |
-| A2 | Stillness In Time |
-| A3 | Half The Man |
-| B1 | Light Years |
-| B2 | Manifest Destiny |
-| B3 | The Kids |
-| C1 | Mr Moon |
-| C2 | Scam |
-| C3 | Journey To Arnhemland |
-| D1 | Morning Glory |
-| D2 | Space Cowboy |
-| D3 | Space Cowboy (Michael Gray’s Good Vibe Zone Edit) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

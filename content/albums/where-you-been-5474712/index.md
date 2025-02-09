@@ -1,6 +1,6 @@
 ---
-title: "Dinosaur Jr - Where You Been"
-artist_name: "Dinosaur Jr"
+title: "Dinosaur Jr. - Where You Been"
+artist_name: "Dinosaur Jr."
 artist: "dinosaur-jr"
 album_name: "Where You Been"
 date: 2017-06-04T10:36:38.000000Z
@@ -10,8 +10,8 @@ slug: "where-you-been-5474712"
 hideSummary: true
 cover:
     image: "where-you-been-5474712.jpg"
-    alt: "Where You Been by Dinosaur Jr"
-    caption: "Where You Been by Dinosaur Jr"
+    alt: "Where You Been by Dinosaur Jr."
+    caption: "Where You Been by Dinosaur Jr."
 additional_images:
     - "https://i.discogs.com/ZkYy9PjlUg6NmJ6IfBNE1qxc_HVtBcQy6EKMiD3Qe9A/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ3/MTItMTM5OTIwNjE3/Mi02NDM2LmpwZWc.jpeg"
     - "https://i.discogs.com/C1Iajkwqr3DRrwazfzllOWOq9wheYZj8jzjeUbSDHVE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzQ3/MTItMTQzMjY5NjMx/OC01ODM2LmpwZWc.jpeg"
@@ -35,16 +35,16 @@ The album peaked with 263,000 units sold in the US.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Out There |
-| A2 | Start Choppin |
-| A3 | What Else Is New |
-| A4 | On The Way |
-| A5 | Not The Same |
-| B1 | Get Me |
-| B2 | Drawerings |
-| B3 | Hide |
-| B4 | Goin Home |
-| B5 | I Ain't Sayin |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ The album peaked with 263,000 units sold in the US.
 | Label          | Vinyl 180 |
 | Catalog Number | VIN180LP069 |
 | Notes | Made in England. |
-| Discogs URL    | [Dinosaur Jr - Where You Been](https://www.discogs.com/release/5474712-Dinosaur-Jr-Where-You-Been) |
+| Discogs URL    | [Dinosaur Jr. - Where You Been](https://www.discogs.com/release/5474712-Dinosaur-Jr-Where-You-Been) |

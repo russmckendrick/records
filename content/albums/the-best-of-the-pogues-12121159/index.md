@@ -34,20 +34,20 @@ The album was dedicated to the memory of Deborah Korner – the partner of Pogue
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Fairytale Of New York |
-| A2 | Sally MacLennane |
-| A3 | Dirty Old Town |
-| A4 | The Irish Rover |
-| A5 | A Pair Of Brown Eyes |
-| A6 | Streams Of Whiskey |
-| A7 | A Rainy Night In Soho |
-| B1 | Fiesta |
-| B2 | Rain Street |
-| B3 | Misty Morning, Albert Bridge |
-| B4 | White City |
-| B5 | Thousands Are Sailing |
-| B6 | The Broad Majestic Shannon |
-| B7 | The Body Of An American |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

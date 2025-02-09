@@ -32,16 +32,16 @@ styles: ["Folk Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Head & Heart |
-| A2 | Over The Hill |
-| A3 | Solid Air |
-| A4 | Just Now |
-| A5 | May You Never |
-| B1 | Bless The Weather |
-| B2 | Fine Lines |
-| B3 | I Don't Wanna Know |
-| B4 | Ways To Cry |
-| B5 | Man In The Station |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

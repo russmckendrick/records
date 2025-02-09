@@ -1,6 +1,6 @@
 ---
-title: "Extreme - Extreme II: Pornograffitti"
-artist_name: "Extreme"
+title: "Extreme (2) - Extreme II: Pornograffitti"
+artist_name: "Extreme (2)"
 artist: "extreme"
 album_name: "Extreme II: Pornograffitti"
 date: 2016-02-29T18:16:24.000000Z
@@ -10,8 +10,8 @@ slug: "extreme-ii-pornograffitti-4582716"
 hideSummary: true
 cover:
     image: "extreme-ii-pornograffitti-4582716.jpg"
-    alt: "Extreme II: Pornograffitti by Extreme"
-    caption: "Extreme II: Pornograffitti by Extreme"
+    alt: "Extreme II: Pornograffitti by Extreme (2)"
+    caption: "Extreme II: Pornograffitti by Extreme (2)"
 additional_images:
     - "https://i.discogs.com/YPtjCY7KVeLZZ9c58jlgJpJvrcoWvTRkjYAkY-5aVfI/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODI3/MTYtMTM3MTA2MDAx/NS03OTQ0LmpwZWc.jpeg"
     - "https://i.discogs.com/_sESUupm5bcIxZZXBzskwo3vSgWMPO7_2A75mBCTgSI/rs:fit/g:sm/q:90/h:492/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODI3/MTYtMTM3MTA2MDA5/OC02Nzk1LmpwZWc.jpeg"
@@ -32,18 +32,18 @@ Extreme II sold very well, peaking at No. 10 on the Billboard 200, and was certi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Decadence Dance |
-| A2 | Li'l Jack Horny |
-| A3 | When I'm President |
-| A4 | Get The Funk Out |
-| A5 | More Than Words |
-| A6 | Money (In God We Trust) |
-| B1 | It ('s A Monster) |
-| B2 | Pornograffitti |
-| B3 | When I First Kissed You |
-| B4 | Suzi (Wants Her All Day What?) |
-| B5 | He-Man Woman Hater |
-| B6 | Song For Love |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -61,4 +61,4 @@ Extreme II sold very well, peaking at No. 10 on the Billboard 200, and was certi
 | Format         | Vinyl LP Album |
 | Label          | A&M Records |
 | Catalog Number | 395 313-1 |
-| Discogs URL    | [Extreme - Extreme II: Pornograffitti](https://www.discogs.com/release/4582716-Extreme-2-Extreme-II-Pornograffitti) |
+| Discogs URL    | [Extreme (2) - Extreme II: Pornograffitti](https://www.discogs.com/release/4582716-Extreme-2-Extreme-II-Pornograffitti) |

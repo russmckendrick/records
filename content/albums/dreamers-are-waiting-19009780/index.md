@@ -40,18 +40,18 @@ Breezy balladry is still Finn’s strong suit, as heard on lovestruck devotional
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Bad Times Good |
-| A2 | Playing With Fire |
-| A3 | To The Island |
-| A4 | Sweet Tooth |
-| A5 | Whatever You Want |
-| A6 | Show Me The Way |
-| B1 | Goodnight Everyone |
-| B2 | Too Good For This World |
-| B3 | Start Of Something |
-| B4 | Real Life Woman |
-| B5 | Love Isn't Hard At All |
-| B6 | Deeper Down |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

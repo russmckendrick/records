@@ -44,17 +44,17 @@ styles: ["African"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hasabe (My Worries) |
-| A2 | Gedawo (The Hero) |
-| A3 | Rehab (My Hunger) |
-| A4 | Ewedish Nebere (I Used To Love You) |
-| A5 | Yesew Neger (Amazed By Humanity) |
-| A6 | Libe Menta Hone (My Divided Heart) |
-| B1 | Endet Liyesh (How Can I See You) |
-| B2 | Ambasel (Ambasel) |
-| B3 | Zebeder (Mesmerizing) |
-| B4 | Yetembelal Loga (Tall And Graceful) |
-| B5 | Gud Aderegechign (Blindsided By Love) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

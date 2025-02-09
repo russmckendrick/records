@@ -27,18 +27,18 @@ Boy from Michigan is the fifth studio album by American musician John Grant. It 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Boy From Michigan |
-| A2 | County Fair |
-| A3 | The Rusty Bull |
-| B1 | The Cruise Room |
-| B2 | Mike And Julie |
-| B3 | Best In Me |
-| C1 | Rhetorical Figure |
-| C2 | Just So You Know |
-| C3 | Dandy Star |
-| D1 | Your Portfolio |
-| D2 | The Only Baby |
-| D3 | Billy |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

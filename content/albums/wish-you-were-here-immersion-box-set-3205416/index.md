@@ -125,92 +125,92 @@ styles: ["Art Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | The Original Album, Remastered In 2011 |
-| CD1-1 | Shine On You Crazy Diamond (Parts 1-5) |
-| CD1-2 | Welcome To The Machine |
-| CD1-3 | Have A Cigar |
-| CD1-4 | Wish You Were Here |
-| CD1-5 | Shine On You Crazy Diamond (Parts 6-9) |
-|  | Unreleased Audio Tracks |
-| CD2-1 | Shine On You Crazy Diamond (Live At Wembley 1974) |
-| CD2-2 | Raving And Drooling (Live At Wembley 1974) |
-| CD2-3 | You've Got To Be Crazy (Live At Wembley 1974) |
-| CD2-4 | Wine Glasses (From The 'Household Objects' Project) |
-| CD2-5 | Have A Cigar (Alternative Version) |
-| CD2-6 | Wish You Were Here (With Stéphane Grappelli) |
-|  | Wish You Were Here Multi-Channel Audio Mixes |
-|  | 5.1 Surround Mix (2009) 448kbps |
-| DVD1-1-1 | Shine On You Crazy Diamond (Parts 1-5) |
-| DVD1-1-2 | Welcome To The Machine |
-| DVD1-1-3 | Have A Cigar |
-| DVD1-1-4 | Wish You Were Here |
-| DVD1-1-5 | Shine On You Crazy Diamond (Parts 6-9) |
-|  | 5.1 Surround Mix (2009) 640kbps |
-| DVD1-2-1 | Shine On You Crazy Diamond (Parts 1-5) |
-| DVD1-2-2 | Welcome To The Machine |
-| DVD1-2-3 | Have A Cigar |
-| DVD1-2-4 | Wish You Were Here |
-| DVD1-2-5 | Shine On You Crazy Diamond (Parts 6-9) |
-|  | LPCM Original Stereo Mix (1975) |
-| DVD1-3-1 | Shine On You Crazy Diamond (Parts 1-5) |
-| DVD1-3-2 | Welcome To The Machine |
-| DVD1-3-3 | Have A Cigar |
-| DVD1-3-4 | Wish You Were Here |
-| DVD1-3-5 | Shine On You Crazy Diamond (Parts 6-9) |
-|  | 4.0 Quad Mix (1975) 448kbps |
-| DVD1-4-1 | Shine On You Crazy Diamond (Parts 1-5) |
-| DVD1-4-2 | Welcome To The Machine |
-| DVD1-4-3 | Have A Cigar |
-| DVD1-4-4 | Wish You Were Here |
-| DVD1-4-5 | Shine On You Crazy Diamond (Parts 6-9) |
-|  | 4.0 Quad Mix (1975) 640kbps |
-| DVD1-5-1 | Shine On You Crazy Diamond (Parts 1-5) |
-| DVD1-5-2 | Welcome To The Machine |
-| DVD1-5-3 | Have A Cigar |
-| DVD1-5-4 | Wish You Were Here |
-| DVD1-5-5 | Shine On You Crazy Diamond (Parts 6-9) |
-|  | Audio-Visual Material |
-|  | Concert Screen Films, 1975 LPCM Stereo 48kHz/24 Bit |
-| DVD2-1 | Shine On You Crazy Diamond (Part I) |
-| DVD2-2 | Shine On You Crazy Diamond |
-| DVD2-3 | Welcome To The Machine |
-|  | Storm Thorgerson Short Film, 2000 LPCM Stereo 48kHz/24 Bit |
-| DVD2-4 | Storm Thorgerson Short Film, 2000 |
-|  | Concert Screen Films, 1975 (5.1 Surround Sound) Dolby Digital @ 448 Kbps |
-| DVD2-5 | Shine On You Crazy Diamond (Part I) |
-| DVD2-6 | Shine On You Crazy Diamond |
-| DVD2-7 | Welcome To The Machine |
-|  | High Resolution Audio And Audio - Visual Material |
-|  | Audio |
-|  | 5.1 Surround Mix (2009) 96kHz/24 Bit |
-| BD-1-1 | Shine On You Crazy Diamond (Parts 1-5) |
-| BD-1-2 | Welcome To The Machine |
-| BD-1-3 | Have A Cigar |
-| BD-1-4 | Wish You Were Here |
-| BD-1-5 | Shine On You Crazy Diamond (Parts 6-9) |
-|  | Original Stereo Mix (1975) 96kHz/24 Bit |
-| BD-2-1 | Shine On You Crazy Diamond (Parts 1-5) |
-| BD-2-2 | Welcome To The Machine |
-| BD-2-3 | Have A Cigar |
-| BD-2-4 | Wish You Were Here |
-| BD-2-5 | Shine On You Crazy Diamond (Parts 6-9) |
-|  | 4.0 Quad Mix (1975) 96kHz/24 Bit |
-| BD-3-1 | Shine On You Crazy Diamond (Parts 1-5) |
-| BD-3-2 | Welcome To The Machine |
-| BD-3-3 | Have A Cigar |
-| BD-3-4 | Wish You Were Here |
-| BD-3-5 | Shine On You Crazy Diamond (Parts 6-9) |
-|  | Audio-Visual |
-|  | Concert Screen Films, 1975 LPCM Stereo 48kHz/24 Bit |
-| BD-4-1 | Shine On You Crazy Diamond (Part I) |
-| BD-4-2 | Shine On You Crazy Diamond |
-| BD-4-3 | Welcome To The Machine |
-|  | Storm Thorgerson Short Film, 2000 LPCM Stereo 48kHz/16 Bit |
-| BD-5-1 | Storm Thorgerson Short Film, 2000 |
-|  | Concert Screen Films, 1975 5.1 Surround Sound 48kHz/24 Bit |
-| BD-6-1 | Shine On You Crazy Diamond (Intro) |
-| BD-6-2 | Shine On You Crazy Diamond |
-| BD-6-3 | Welcome To The Machine |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

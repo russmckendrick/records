@@ -67,17 +67,17 @@ Lifeson: “This is difficult to talk about because I wrote the song around the 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Never Said I Love You |
-| A2 | Shadow |
-| A3 | Look Inside |
-| A4 | Liar |
-| A5 | Spy House |
-| A6 | Dog's Life |
-| B1 | Kabul Blues |
-| B2 | Old Strings |
-| B3 | Dumb |
-| B4 | Enemy |
-| B5 | Western Sunset |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

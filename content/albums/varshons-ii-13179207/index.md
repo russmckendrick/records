@@ -30,19 +30,19 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Can't Forget |
-| A2 | Settled Down Like Rain |
-| A3 | Old Man Blank |
-| A4 | Things |
-| A5 | Speed Of The Sound Of Loneliness |
-| A6 | Abandoned |
-| A7 | Now And Then |
-| B1 | Magnet |
-| B2 | Round Here |
-| B3 | TAQN |
-| B4 | Unfamiliar |
-| B5 | Straight To You |
-| B6 | Take It Easy |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

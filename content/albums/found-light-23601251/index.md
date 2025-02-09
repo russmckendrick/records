@@ -34,20 +34,20 @@ Found Light is a 2022 studio album by American singer-songwriter Laura Veirs. Th
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Autumn Song |
-| A2 | Ring Song |
-| A3 | Seaside Haiku |
-| A4 | Naked Hymn |
-| A5 | My Lantern |
-| A6 | Signal |
-| A7 | Can't Help But Sing |
-| B1 | Eucalyptus |
-| B2 | New Arms |
-| B3 | Sword Song |
-| B4 | Time Will Show You |
-| B5 | T & O |
-| B6 | Komorebi |
-| B7 | Winter Windows |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

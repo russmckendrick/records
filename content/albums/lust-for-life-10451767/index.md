@@ -33,15 +33,15 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Lust For Life |
-| A2 | Sixteen |
-| A3 | Some Weird Sin |
-| A4 | The Passenger |
-| A5 | Tonight |
-| B1 | Success |
-| B2 | Turn Blue |
-| B3 | Neighborhood Threat |
-| B4 | Fall In Love With Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

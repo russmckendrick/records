@@ -48,17 +48,17 @@ In 2017, Kscope Records purchased the album as well as the previous album In Abs
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Deadwing |
-| A2 | Shallow |
-| A3 | Lazarus |
-| B1 | Halo |
-| B2 | Arriving Somewhere But Not Here |
-| C1 | Mellotron Scratch |
-| C2 | Open Car |
-| C3 | Start Of Something Beautiful |
-| D1 | Glass Arm Shattering |
-| D2 | So Called Friend  |
-| D3 | Half-Light |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

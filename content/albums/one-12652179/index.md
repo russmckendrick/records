@@ -1,6 +1,6 @@
 ---
-title: "Dubstar - One"
-artist_name: "Dubstar"
+title: "Dubstar (2) - One"
+artist_name: "Dubstar (2)"
 artist: "dubstar"
 album_name: "One"
 date: 2018-10-13T07:28:15.000000Z
@@ -10,8 +10,8 @@ slug: "one-12652179"
 hideSummary: true
 cover:
     image: "one-12652179.jpg"
-    alt: "One by Dubstar"
-    caption: "One by Dubstar"
+    alt: "One by Dubstar (2)"
+    caption: "One by Dubstar (2)"
 additional_images:
     - "https://i.discogs.com/-4Yt4HdPerlYneuHCqmphCL5O1SYn1FVY1uAKg1Jaao/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUy/MTc5LTE1NDAzMjI3/NzMtMjU2Ny5qcGVn.jpeg"
     - "https://i.discogs.com/x4hVPrQpBsqlrVZl5WRMD-JwjedzWSb9H5DwDk6b0Q4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjUy/MTc5LTE1NDAzMjI3/NzMtNzgxMi5qcGVn.jpeg"
@@ -29,16 +29,16 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Love Comes Late |
-| A2 | Love Gathers |
-| A3 | Torched |
-| A4 | Please Stop Leaving Me Alone |
-| A5 | I Hold Your Heart |
-| B1 | Waltz No. 9 |
-| B2 | You Were Never In Love |
-| B3 | Locked Inside |
-| B4 | Why Don't You Kiss Me |
-| B5 | Mantra |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -56,4 +56,4 @@ styles: ["Indie Rock"]
 | Label          | Northern Writes |
 | Catalog Number | none |
 | Notes | Limited to 500 copies.  Comes with Mp3 download code card. |
-| Discogs URL    | [Dubstar - One](https://www.discogs.com/release/12652179-Dubstar-2-One) |
+| Discogs URL    | [Dubstar (2) - One](https://www.discogs.com/release/12652179-Dubstar-2-One) |

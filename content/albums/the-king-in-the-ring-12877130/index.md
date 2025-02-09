@@ -35,37 +35,37 @@ styles: ["Rock & Roll", "Ballad"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | That’s All Right |
-| A2 | Heartbreak Hotel |
-| A3 | Love Me |
-| A4 | Baby What You Want Me To Do |
-| A5 | Blue Suede Shoes |
-| A6 | Baby What You Want Me To Do |
-| A7 | Lawdy, Miss Clawdy |
-| B1 | Are You Lonesome Tonight? |
-| B2 | When My Blue Moon Turns To Gold Again |
-| B3 | Blue Christmas |
-| B4 | Trying To Get To You |
-| B5 | One Night |
-| B6 | Baby What You Want Me To Do |
-| B7 | One Night |
-| B8 | Memories |
-| C1 | Heartbreak Hotel |
-| C2 | Baby What You Want Me To Do |
-| C3 | Introductions |
-| C4 | That’s All Right |
-| C5 | Are You Lonesome Tonight? |
-| C6 | Baby What You Want Me To Do  |
-| C7 | Blue Suede Shoes |
-| C8 | One Night |
-| D1 | Love Me |
-| D2 | Trying To Get To You |
-| D3 | Lawdy, Miss Clawdy |
-| D4 | Santa Claus Is Back In Town |
-| D5 | Blue Christmas  |
-| D6 | Tiger Man  |
-| D7 | When My Blue Moon Turns To Gold Again  |
-| D8 | Memories  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

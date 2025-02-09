@@ -1,6 +1,6 @@
 ---
-title: "Poison - Open Up and Say...Ahh!"
-artist_name: "Poison"
+title: "Poison (3) - Open Up and Say...Ahh!"
+artist_name: "Poison (3)"
 artist: "poison"
 album_name: "Open Up and Say...Ahh!"
 date: 2018-05-18T08:59:15.000000Z
@@ -10,8 +10,8 @@ slug: "open-up-and-say-ahh-11926311"
 hideSummary: true
 cover:
     image: "open-up-and-say-ahh-11926311.jpg"
-    alt: "Open Up and Say...Ahh! by Poison"
-    caption: "Open Up and Say...Ahh! by Poison"
+    alt: "Open Up and Say...Ahh! by Poison (3)"
+    caption: "Open Up and Say...Ahh! by Poison (3)"
 additional_images:
     - "https://i.discogs.com/PFPsosoI8zzhjvbeicRFkrd_T_CzH3Uorc2b2mPPej0/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI2/MzExLTE1NDM0Mjgx/NzItNTU0OS5qcGVn.jpeg"
     - "https://i.discogs.com/7lGuGwqkhDM-QcH-RYGnhjfX-iV_yy4FpiRfjD2_vPw/rs:fit/g:sm/q:90/h:537/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI2/MzExLTE1NDM0Mjgx/NzMtMzE1Mi5qcGVn.jpeg"
@@ -34,16 +34,16 @@ Open Up and Say Ahh was certified platinum in 1988 and 5× platinum in 1991 by t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Love On The Rocks |
-| A2 | Nothin' But A Good Time |
-| A3 | Back To The Rocking Horse |
-| A4 | Good Love |
-| A5 | Tearin' Down The Walls |
-| B1 | Look But You Can't Touch |
-| B2 | Fallen Angel |
-| B3 | Every Rose Has Its Thorn |
-| B4 | Your Mama Don't Dance |
-| B5 | Bad To Be Good |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -62,4 +62,4 @@ Open Up and Say Ahh was certified platinum in 1988 and 5× platinum in 1991 by t
 | Label          | Capitol Records |
 | Catalog Number | B0027945-01 |
 | Notes | Limited to 1000 copies |
-| Discogs URL    | [Poison - Open Up and Say...Ahh!](https://www.discogs.com/release/11926311-Poison-3-Open-Up-and-SayAhh) |
+| Discogs URL    | [Poison (3) - Open Up and Say...Ahh!](https://www.discogs.com/release/11926311-Poison-3-Open-Up-and-SayAhh) |

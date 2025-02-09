@@ -38,18 +38,18 @@ This album was re-released on Record Store Day, April 16, 2011, as only 2,000 co
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Cool Mountaineer |
-| A2 | Justice Keepers |
-| A3 | Long Time |
-| A4 | Rights Of A Child |
-| A5 | God Of Love |
-| A6 | Overs The Water |
-| B1 | Tongue Tee Tie |
-| B2 | Darling I Need You |
-| B3 | To The Heavens |
-| B4 | Thank Jah |
-| B5 | Big Fun |
-| B6 | How I Love Thee |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

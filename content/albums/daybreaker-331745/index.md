@@ -38,16 +38,16 @@ As of 2003 it has sold 169,000 copies in the United States.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Paris Train |
-| A2 | Concrete Sky |
-| A3 | Mount Washington |
-| A4 | Anywhere |
-| A5 | Daybreaker |
-| B1 | Carmella |
-| B2 | God Song |
-| B3 | This One's Gonna Bruise |
-| B4 | Ted's Waltz |
-| B5 | Thinking About Tomorrow |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

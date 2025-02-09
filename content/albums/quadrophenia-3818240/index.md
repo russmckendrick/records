@@ -60,62 +60,62 @@ Quadrophenia was released to a positive reception in both the UK and the US, but
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | The Original Album : 2011 Remaster |
-| CD1-1 | I Am The Sea |
-| CD1-2 | The Real Me |
-| CD1-3 | Quadrophenia |
-| CD1-4 | Cut My Hair |
-| CD1-5 | The Punk And The Godfather |
-| CD1-6 | I'm One |
-| CD1-7 | The Dirty Jobs |
-| CD1-8 | Helpless Dancer |
-| CD1-9 | Is It In My Head? |
-| CD1-10 | I've Had Enough |
-| CD2-1 | 5.15 |
-| CD2-2 | Sea And Sand |
-| CD2-3 | Drowned |
-| CD2-4 | Bell Boy |
-| CD2-5 | Doctor Jimmy |
-| CD2-6 | The Rock |
-| CD2-7 | Love Reign O'er Me |
-|  | The Demos |
-| CD3-1 | The Real Me (Demo) |
-| CD3-2 | Quadrophenia - Four Overtures (Demo) |
-| CD3-3 | Cut My Hair (Demo) |
-| CD3-4 | Fill No. 1 - Get Out And Stay Out (Demo) |
-| CD3-5 | Quadrophenic - Four Faces (Demo) |
-| CD3-6 | We Close Tonight (Demo) |
-| CD3-7 | You Came Back (Demo) |
-| CD3-8 | Get Inside (Demo) |
-| CD3-9 | Joker James (Demo) |
-| CD3-10 | Punk (Demo) |
-| CD3-11 | I'm One (Demo) |
-| CD3-12 | Dirty Jobs (Demo) |
-| CD3-13 | Helpless Dancer (Demo) |
-| CD4-1 | Is It In My Head? (Demo) |
-| CD4-2 | Anymore (Demo) |
-| CD4-3 | I've Had Enough (Demo) |
-| CD4-4 | Fill No. 2 (Demo) |
-| CD4-5 | Wizardry (Demo) |
-| CD4-6 | Sea And Sand (Demo) |
-| CD4-7 | Drowned (Demo) |
-| CD4-8 | Is It Me? (Demo) |
-| CD4-9 | Bell Boy (Demo) |
-| CD4-10 | Doctor Jimmy (Demo) |
-| CD4-11 | Finale - The Rock (Demo) |
-| CD4-12 | Love Reign O'er Me (Demo) |
-|  | 5.1 Surround-Sound Mix |
-| DVD-1 | I Am The Sea |
-| DVD-2 | The Real Me |
-| DVD-3 | Quadrophenia |
-| DVD-4 | I've Had Enough |
-| DVD-5 | 5.15 |
-| DVD-6 | Doctor Jimmy |
-| DVD-7 | The Rock |
-| DVD-8 | Love Reign O'er Me |
-|  | Seven-Inch Vinyl Single |
-| 7"-A | 5.15 |
-| 7"-B | Water |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

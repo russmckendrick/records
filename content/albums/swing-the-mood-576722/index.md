@@ -33,9 +33,9 @@ Copyright problems caused a re-recorded version to be released; despite this ver
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | Swing The Mood |
-| B1 | Swing The Mood (Radio Mix) |
-| B2 | Glenn Miller Medley (The J.B. Edit) |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

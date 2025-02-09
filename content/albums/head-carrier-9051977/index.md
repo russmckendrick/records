@@ -38,18 +38,18 @@ The album's title references a cephalophore, a saint carrying his own head, more
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Head Carrier  |
-| A2 | Classic Masher  |
-| A3 | Baal’s Back  |
-| A4 | Might As Well Be Gone  |
-| A5 | Oona |
-| A6 | Talent |
-| B1 | Tenement Song  |
-| B2 | Bel Esprit  |
-| B3 | All I Think About Now |
-| B4 | Um Chagga Lagga  |
-| B5 | Plaster Of Paris  |
-| B6 | All The Saints |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

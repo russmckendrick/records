@@ -33,19 +33,19 @@ styles: ["Post-Punk", "New Wave", "Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Killing An Arab |
-| A2 | Boys Don't Cry |
-| A3 | Jumping Someone Else's Train |
-| A4 | A Forest |
-| A5 | Primary |
-| A6 | Charlotte Sometimes |
-| A7 | The Hanging Garden |
-| B1 | Let's Go To Bed |
-| B2 | The Walk |
-| B3 | The Lovecats |
-| B4 | The Caterpillar |
-| B5 | In Between Days |
-| B6 | Close To Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

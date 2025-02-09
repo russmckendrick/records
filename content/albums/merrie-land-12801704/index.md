@@ -1,6 +1,6 @@
 ---
-title: "The Good The Bad  The Queen - Merrie Land"
-artist_name: "The Good The Bad  The Queen"
+title: "The Good, The Bad & The Queen - Merrie Land"
+artist_name: "The Good, The Bad & The Queen"
 artist: "the-good-the-bad-the-queen"
 album_name: "Merrie Land"
 date: 2018-11-17T10:42:31.000000Z
@@ -10,8 +10,8 @@ slug: "merrie-land-12801704"
 hideSummary: true
 cover:
     image: "merrie-land-12801704.jpg"
-    alt: "Merrie Land by The Good The Bad  The Queen"
-    caption: "Merrie Land by The Good The Bad  The Queen"
+    alt: "Merrie Land by The Good, The Bad & The Queen"
+    caption: "Merrie Land by The Good, The Bad & The Queen"
 additional_images:
     - "https://i.discogs.com/lz90LFPBaN5v6kKtXHXlFogk2NLC3a6Dxa5h8C_xgVY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAx/NzA0LTE1NDIzODEz/NzktOTU0OS5qcGVn.jpeg"
     - "https://i.discogs.com/dtOn0URpDUkArHaVqj2g_ja2cHau3gcY3wu4BDuimqA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAx/NzA0LTE1NDIzODE0/NzEtMTY5MC5qcGVn.jpeg"
@@ -44,17 +44,17 @@ I just love making music, so it’s not that difficult. I had a strange four day
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Introduction |
-| A2 | Merrie Land |
-| A3 | Gun To The Head |
-| A4 | Nineteen Seventeen |
-| A5 | The Great Fire |
-| A6 | Lady Boston |
-| B1 | Drifters & Trawlers |
-| B2 | The Truce Of Twilight |
-| B3 | Ribbons |
-| B4 | The Last Man To Leave |
-| B5 | The Poison Tree |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -73,4 +73,4 @@ I just love making music, so it’s not that difficult. I had a strange four day
 | Label          | Studio 13 (4) |
 | Catalog Number | STUDIO13LPX |
 | Notes | Sticker: "Limited Edition Heavyweight Green Vinyl LP" Indies only edition. Includes a custom inner sleeve. The Introduction track (A1) is not listed on the sleeve or labels, but is listed in he credits on the inner sleeve.  ℗ & © 2018 Studio 13  All tracks engineered [...] at Studio 13, Penrhyn Castle And Garden National Trust, Bangor Wales.  Introduction (0:13) Sample taken from 'A Canterbury Tale' by Michael Powell and Emeric Pressburger (ITV Archive)  Cover photograph of Michael Redgrave 'Dead Of Night'.  Courtesy of Ronald Grant Archive / Mary Evans Picture Library  c. Studio Canal Film Archive Front and back cover photograph of 'The Blitz' by Herbert Mason / Daily Mail / Solo Syndication  'The Piper' lithograph by Theodore Gericault c. The Trustees of The British Museum |
-| Discogs URL    | [The Good The Bad  The Queen - Merrie Land](https://www.discogs.com/release/12801704-The-GoodBad-The-Queen-Merrie-Land) |
+| Discogs URL    | [The Good, The Bad & The Queen - Merrie Land](https://www.discogs.com/release/12801704-The-GoodBad-The-Queen-Merrie-Land) |

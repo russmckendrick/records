@@ -35,15 +35,15 @@ Building on his background as a classical pianist and composer, Surrey producer 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Singularity |
-| A2 | Emerald Rush |
-| B1 | Neon Pattern Drum |
-| B2 | Everything Connected |
-| C1 | Feel First Life |
-| C2 | C O S M |
-| C3 | Echo Dissolve |
-| D1 | Luminous Beings |
-| D2 | Recovery |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

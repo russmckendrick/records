@@ -34,15 +34,15 @@ styles: ["Ambient", "Drone", "Deep Techno"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Empire |
-| A2 | Milkwood |
-| A3 | Pulse Detected |
-| B1 | Loom |
-| B2 | Leviathan |
-| C1 | After The Rain |
-| C2 | Fire Tower |
-| D1 | Zhora |
-| D2 | Sympatico |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

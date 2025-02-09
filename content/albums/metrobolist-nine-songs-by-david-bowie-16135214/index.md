@@ -32,15 +32,15 @@ styles: ["Prog Rock", "Glam", "Hard Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Width Of A Circle |
-| A2 | All The Madmen |
-| A3 | Black Country Rock |
-| A4 | After All |
-| B1 | Running Gun Blues |
-| B2 | Saviour Machine |
-| B3 | She Shook Me Cold |
-| B4 | The Man Who Sold The World |
-| B5 | The Supermen |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

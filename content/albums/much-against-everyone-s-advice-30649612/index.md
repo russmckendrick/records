@@ -32,23 +32,23 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Conversation Intercom |
-| A2 | Saturday |
-| A3 | When Logics Die |
-| A4 | Much Against Everyone's Advice |
-| A5 | Overweight Karate Kid |
-| B1 | Proverbial Pants |
-| B2 | The Salty Knowledge Of Tears |
-| B3 | Flying Without Wings  |
-| B4 | More Than This |
-| C1 | Too Many DJ's |
-| C2 | Temptingly Yours |
-| C3 | My Cruel Joke  |
-| C4 | Scream |
-| C5 | Funny |
-| D1 | Conversation Intercom (Vocoder Intermix)  |
-| D2 | Mike Rule Joe Cream Mix |
-| D3 | Saturday (Roger Manning Mix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

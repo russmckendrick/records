@@ -1,6 +1,6 @@
 ---
-title: "Soul Asylum - Grave Dancers Union"
-artist_name: "Soul Asylum"
+title: "Soul Asylum (2) - Grave Dancers Union"
+artist_name: "Soul Asylum (2)"
 artist: "soul-asylum"
 album_name: "Grave Dancers Union"
 date: 2017-01-30T18:24:58.000000Z
@@ -10,8 +10,8 @@ slug: "grave-dancers-union-7068256"
 hideSummary: true
 cover:
     image: "grave-dancers-union-7068256.jpg"
-    alt: "Grave Dancers Union by Soul Asylum"
-    caption: "Grave Dancers Union by Soul Asylum"
+    alt: "Grave Dancers Union by Soul Asylum (2)"
+    caption: "Grave Dancers Union by Soul Asylum (2)"
 additional_images:
     - "https://i.discogs.com/DtKlpv_Xb40ReDvrZEMaxmTDrp2oDjq59k2nTrH7a-4/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjgy/NTYtMTQ1MTUwMzcw/NS05MjYwLmpwZWc.jpeg"
     - "https://i.discogs.com/evsPgqO2V2fGe9zdS_qbZfrNnVbBhzA7dHwzxv_uKzQ/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNjgy/NTYtMTQ1MTUwMzcw/NS00NzMwLmpwZWc.jpeg"
@@ -36,18 +36,18 @@ Grave Dancers Union is the sixth studio album by American alternative rock band 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Somebody To Shove |
-| A2 | Black Gold |
-| A3 | Runaway Train |
-| A4 | Keep It Up |
-| A5 | Homesick |
-| A6 | Get On Out |
-| B1 | New World |
-| B2 | April Fool |
-| B3 | Without A Trace |
-| B4 | Growing Into You |
-| B5 | 99% |
-| B6 | The Sun Maid |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -66,4 +66,4 @@ Grave Dancers Union is the sixth studio album by American alternative rock band 
 | Label          | Columbia |
 | Catalog Number | MOVLP1368 |
 | Notes | 180 gram audiophile vinyl, including insert |
-| Discogs URL    | [Soul Asylum - Grave Dancers Union](https://www.discogs.com/release/7068256-Soul-Asylum-2-Grave-Dancers-Union) |
+| Discogs URL    | [Soul Asylum (2) - Grave Dancers Union](https://www.discogs.com/release/7068256-Soul-Asylum-2-Grave-Dancers-Union) |

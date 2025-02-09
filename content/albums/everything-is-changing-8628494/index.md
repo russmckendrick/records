@@ -32,18 +32,18 @@ Everything Is Changing is the debut studio album by the former The Gathering and
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Feel Alive |
-| A2 | You Want To Be Free |
-| A3 | Everything Is Changing |
-| A4 | Take Me Home |
-| A5 | I Wake Up |
-| A6 | Circles |
-| B1 | My Boy |
-| B2 | Stay |
-| B3 | Hope, Pray, Dance, Play |
-| B4 | Slow Me Down |
-| B5 | Too Late |
-| B6 | 1000 Miles Away From You |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

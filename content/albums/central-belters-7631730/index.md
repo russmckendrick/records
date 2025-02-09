@@ -58,40 +58,40 @@ Glasgow’s Mogwai have never done anything in a small way. Their towering post-
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Summer |
-| A2 | New Paths To Helicon Part 1 |
-| A3 | Cody |
-| B1 | Christmas Steps |
-| B2 | I Know You Are But What Am I? |
-| B3 | Hunted By A Freak |
-| C1 | Stanley Kubrick |
-| C2 | Take Me Somewhere Nice |
-| C3 | 2 Rights Make 1 Wrong |
-| D | Mogwai Fear Satan |
-| E1 | Auto Rock |
-| E2 | Travel Is Dangerous |
-| E3 | Friend Of The Night |
-| E4 | We're No Here |
-| F1 | I'm Jim Morrison, I'm Dead |
-| F2 | The Sun Smells Too Loud |
-| F3 | Batcat |
-| G1 | Mexican Grand Prix |
-| G2 | Rano Pano |
-| G3 | How To Be A Werewolf |
-| H1 | Wizard Motor |
-| H2 | Remurdered |
-| H3 | The Lord Is Out Of Control |
-| H4 | Teenage Exorcists |
-| I1 | Hugh Dallas |
-| I2 | Half Time |
-| J1 | Burn Girl Prom Queen |
-| J2 | Devil Rides |
-| J3 | Hasenheide |
-| K1 | Tell Everybody That I Love Them |
-| K2 | Earth Division |
-| K3 | Hungry Face |
-| K4 | D To E |
-| L | My Father My King |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

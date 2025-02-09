@@ -38,18 +38,18 @@ Endless Arcade is the eleventh full studio album by Scottish band Teenage Fanclu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Home |
-| A2 | Endless Arcade |
-| A3 | Warm Embrace |
-| A4 | Everything Is Falling Apart |
-| A5 | The Sun Won't Shine On Me |
-| A6 | Come With Me |
-| B1 | In Our Dreams |
-| B2 | I'm More Inclined |
-| B3 | Back In The Day |
-| B4 | The Future |
-| B5 | Living With You |
-| B6 | Silent Song |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

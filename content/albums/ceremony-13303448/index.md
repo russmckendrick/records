@@ -34,8 +34,8 @@ New Order released the song as a single twice, firstly in January 1981 and secon
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | Ceremony |
-| B | In A Lonely Place |
+|  |  |
+|  |  |
 
 
 ## Apple Music

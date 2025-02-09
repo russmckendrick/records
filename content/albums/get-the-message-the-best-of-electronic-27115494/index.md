@@ -36,21 +36,21 @@ styles: ["Alternative Rock", "Leftfield", "Pop Rock", "Indie Rock", "House", "Ne
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Forbidden City |
-| A2 | Getting Away With It |
-| A3 | Get The Message (Single Remix) |
-| A4 | Feel Every Beat |
-| B1 | Disappointed (Single Mix) |
-| B2 | Vivid (Radio Edit) |
-| B3 | Second Nature |
-| B4 | All That I Need |
-| C1 | Prodigal Son |
-| C2 | For You |
-| C3 | Imitation Of Life (New Edit) |
-| D1 | Out Of My League |
-| D2 | Like No Other |
-| D3 | Twisted Tenderness |
-| D4 | Late At Night (Radio Edit) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

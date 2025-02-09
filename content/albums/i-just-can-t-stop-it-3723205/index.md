@@ -1,6 +1,6 @@
 ---
-title: "The Beat - I Just Can't Stop It"
-artist_name: "The Beat"
+title: "The Beat (2) - I Just Can't Stop It"
+artist_name: "The Beat (2)"
 artist: "the-beat"
 album_name: "I Just Can't Stop It"
 date: 2015-09-11T18:02:25.000000Z
@@ -10,8 +10,8 @@ slug: "i-just-can-t-stop-it-3723205"
 hideSummary: true
 cover:
     image: "i-just-can-t-stop-it-3723205.jpg"
-    alt: "I Just Can't Stop It by The Beat"
-    caption: "I Just Can't Stop It by The Beat"
+    alt: "I Just Can't Stop It by The Beat (2)"
+    caption: "I Just Can't Stop It by The Beat (2)"
 additional_images:
     - "https://i.discogs.com/vV8PHcbW1egigdzXYuGpVg6md5sETJ2VaNKX0SUVZ-I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjMy/MDUtMTM5ODkzODcz/Ni00MjQ4LmpwZWc.jpeg"
     - "https://i.discogs.com/gd9ErNd79A7Zyzqke-f2IhCX0xv3zmh4NG4xwcdZERs/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjMy/MDUtMTU0MTEzOTgy/Mi04NTUxLmpwZWc.jpeg"
@@ -36,20 +36,20 @@ The album was reissued on CD in 1990 by I.R.S. Records in the U.S, and in 2012 b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Mirror In The Bathroom |
-| A2 | Hands Off...She's Mine |
-| A3 | Two Swords |
-| A4 | Twist & Crawl |
-| A5 | Tears Of A Clown |
-| A6 | Rough Rider |
-| A7 | Click Click |
-| B1 | Ranking Full Stop |
-| B2 | Big Shot |
-| B3 | Whine & Grine / Stand Down Margaret |
-| B4 | Noise In This World |
-| B5 | Can't Get Used To Losing You |
-| B6 | Best Friend |
-| B7 | Jackpot |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -68,4 +68,4 @@ The album was reissued on CD in 1990 by I.R.S. Records in the U.S, and in 2012 b
 | Label          | Sire |
 | Catalog Number | SRK 6091 |
 | Notes | Pressing variation of the original US release. "0" stamped & "JW" etched in runouts denotes a  [l314605]  Similar to [r14085844] except this one includes the full Warner Bros. address printed in the rim text at bottom.  Disc comes housed in a custom pink/black/white "Dance Steps" inner sleeve.      |
-| Discogs URL    | [The Beat - I Just Can't Stop It](https://www.discogs.com/release/3723205-The-English-Beat-I-Just-Cant-Stop-It) |
+| Discogs URL    | [The Beat (2) - I Just Can't Stop It](https://www.discogs.com/release/3723205-The-English-Beat-I-Just-Cant-Stop-It) |

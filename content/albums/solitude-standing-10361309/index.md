@@ -32,17 +32,17 @@ Solitude Standing is the second studio album by American singer-songwriter Suzan
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Tom's Diner |
-| A2 | Luka |
-| A3 | Ironbound / Fancy Poultry |
-| A4 | In The Eye |
-| A5 | Night Vision |
-| B1 | Solitude Standing |
-| B2 | Calypso |
-| B3 | Language |
-| B4 | Gypsy |
-| B5 | Wooden Horse (Caspar Hauser's Song) |
-| B6 | Tom's Diner (Reprise) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

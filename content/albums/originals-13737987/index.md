@@ -43,36 +43,36 @@ When Prince died in 2016, he left behind a huge amount of unreleased music—a l
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Sex Shooter |
-| A2 | Jungle Love |
-| A3 | Manic Monday |
-| A4 | Noon Rendezvous |
-| A5 | Make-Up |
-| B1 | 100 MPH |
-| B2 | You're My Love |
-| B3 | Holly Rock |
-| C1 | Baby, You're A Trip |
-| C2 | The Glamorous Life |
-| C3 | Gigolos Get Lonely Too |
-| C4 | Love… Thy Will Be Done |
-| D1 | Dear Michaelangelo |
-| D2 | Wouldn't You Love To Love Me? |
-| D3 | Nothing Compares 2 U |
-| CD-1 | Sex Shooter |
-| CD-2 | Jungle Love |
-| CD-3 | Manic Monday |
-| CD-4 | Noon Rendezvous |
-| CD-5 | Make-Up |
-| CD-6 | 100 MPH |
-| CD-7 | You're My Love |
-| CD-8 | Holly Rock |
-| CD-9 | Baby, You're A Trip |
-| CD-10 | The Glamorous Life |
-| CD-11 | Gigolos Get Lonely Too |
-| CD-12 | Love… Thy Will Be Done |
-| CD-13 | Dear Michaelangelo |
-| CD-14 | Wouldn’t You Love To Love Me? |
-| CD-15 | Nothing Compares 2 U |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -34,16 +34,16 @@ Aftertones is the eighth album by American singer/songwriter Janis Ian, recorded
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Aftertones |
-| A2 | I Would Like To Dance |
-| A3 | Love Is Blind |
-| A4 | Roses |
-| A5 | Belle Of The Blues |
-| B1 | Goodbye To Morning |
-| B2 | Boy, I Really Tied One On |
-| B3 | This Must Be Wrong |
-| B4 | Don't Cry, Old Man |
-| B5 | Hymn |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

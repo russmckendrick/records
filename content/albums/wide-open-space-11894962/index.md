@@ -36,13 +36,13 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Wide Open Space |
-| A2 | Rebel Without A Quilt |
-| A3 | Vision Impaired  |
-| A4 | Skin Up Pin Up |
-| B1 | The Gods Of Not Very Much |
-| B2 | Moronica (Acoustic Version) |
-| B3 | Lemonade Secret Drinker (Acoustic Version) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

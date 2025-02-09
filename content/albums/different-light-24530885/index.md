@@ -35,18 +35,18 @@ The 2008 reissue CD on the Wounded Bird Records label (WOU 4039) adds a bonus tr
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Manic Monday |
-| A2 | In A Different Light |
-| A3 | Walking Down Your Street |
-| A4 | Walk Like An Egyptian |
-| A5 | Standing In The Hallway |
-| A6 | Return Post |
-| B1 | If She Knew What She Wants |
-| B2 | Let It Go |
-| B3 | September Gurls |
-| B4 | Angels Don't Fall In Love |
-| B5 | Following |
-| B6 | Not Like You |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

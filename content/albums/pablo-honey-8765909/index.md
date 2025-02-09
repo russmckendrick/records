@@ -41,18 +41,18 @@ There are, however, whiffs of what Radiohead would soon become. A surprise world
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | You |
-| A2 | Creep |
-| A3 | How Do You? |
-| A4 | Stop Whispering |
-| A5 | Thinking About You |
-| A6 | Anyone Can Play Guitar |
-| B1 | Ripcord |
-| B2 | Vegetable |
-| B3 | Prove Yourself |
-| B4 | I Can't |
-| B5 | Lurgee |
-| B6 | Blow Out |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

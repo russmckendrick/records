@@ -33,16 +33,16 @@ The album featured collaborations with members of Kool and the Gang and included
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hitting With Music |
-| A2 | American Sweet |
-| A3 | Arrival |
-| A4 | Brown Eyes |
-| A5 | Reggae Street |
-| B1 | Hot Shot |
-| B2 | Sunrise |
-| B3 | Dead And Awake |
-| B4 | Now And Forever |
-| B5 | Nuclear War |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -38,18 +38,18 @@ An orchestral rendition of the soundtrack was released in 1982 by the New Americ
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Main Titles |
-| A2 | Blush Response |
-| A3 | Wait For Me |
-| A4 | Rachel's Song |
-| A5 | Love Theme |
-| A6 | One More Kiss, Dear |
-| B1 | Blade Runner Blues |
-| B2 | Memories Of Green |
-| B3 | Tales Of The Future |
-| B4 | Damask Rose |
-| B5 | Blade Runner (End Titles) |
-| B6 | Tears In Rain |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

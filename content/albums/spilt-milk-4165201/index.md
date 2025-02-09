@@ -1,6 +1,6 @@
 ---
-title: "Jellyfish - Spilt Milk"
-artist_name: "Jellyfish"
+title: "Jellyfish (2) - Spilt Milk"
+artist_name: "Jellyfish (2)"
 artist: "jellyfish"
 album_name: "Spilt Milk"
 date: 2016-02-07T10:23:21.000000Z
@@ -10,8 +10,8 @@ slug: "spilt-milk-4165201"
 hideSummary: true
 cover:
     image: "spilt-milk-4165201.jpg"
-    alt: "Spilt Milk by Jellyfish"
-    caption: "Spilt Milk by Jellyfish"
+    alt: "Spilt Milk by Jellyfish (2)"
+    caption: "Spilt Milk by Jellyfish (2)"
 additional_images:
     - "https://i.discogs.com/jWwgY6S9s2XVfXs8uSZDxLrlLZhDuOnmcKtNBI9fxMI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjUy/MDEtMTQyODc3Mzg5/MC01Njg5LmpwZWc.jpeg"
     - "https://i.discogs.com/fQwfdNxFHcEHnZXbEo2HbhGa6heC0ZseLIvOi4SgUaQ/rs:fit/g:sm/q:90/h:593/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjUy/MDEtMTQxMDY0NjU4/OS0yNTYwLmpwZWc.jpeg"
@@ -35,18 +35,18 @@ The album was supported with a yearlong tour that introduced guitarist Eric Dove
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hush |
-| A2 | Joining A Fan Club |
-| A3 | Sebrina, Paste And Plato |
-| A4 | New Mistake |
-| A5 | The Glutton Of Sympathy |
-| A6 | The Ghost At Number One |
-| A7 | Bye Bye Bye |
-| B1 | All Is Forgiven |
-| B2 | Russian Hill |
-| B3 | He's My Best Friend |
-| B4 | Too Much, Too Little, Too Late |
-| B5 | Brighter Day |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -65,4 +65,4 @@ The album was supported with a yearlong tour that introduced guitarist Eric Dove
 | Label          | Omnivore Recordings |
 | Catalog Number | OVLP-6 |
 | Notes | Full title: Jellyfish Presents Spilt Milk   Cut from original analog masters.  First time on LP in the U.S.  Pressed on 180-Gram Vinyl!  Black vinyl edition  As confirmed by John Golden via email (and reported on the Steve Hoffman forum);  "The source was 1/2” 30 ips analog.  The tape legend says Ocean Way Recording, dated 4-7-1990. The artist marked on the tape boxes as Beatnik Beatch and was changed to Jellyfish. The first set of lacquers I cut were damaged at the pressing plant (RTI) before any pressing were made and were re-cut, that’s why it is scribed Re1." |
-| Discogs URL    | [Jellyfish - Spilt Milk](https://www.discogs.com/release/4165201-Jellyfish-2-Spilt-Milk) |
+| Discogs URL    | [Jellyfish (2) - Spilt Milk](https://www.discogs.com/release/4165201-Jellyfish-2-Spilt-Milk) |

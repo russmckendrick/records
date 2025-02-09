@@ -39,18 +39,18 @@ Mer de Noms (French for "Sea of Names") is the debut studio album by American ro
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Hollow |
-| A2 | Magdalena |
-| A3 | Rose |
-| B1 | Judith |
-| B2 | Orestes |
-| B3 | 3 Libras |
-| C1 | Sleeping Beauty (Extended Intro) |
-| C2 | Thomas |
-| C3 | Renholdër |
-| D1 | Thinking Of You |
-| D2 | Breña |
-| D3 | Over (Alt.) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -34,15 +34,15 @@ As synonymous as the album is in the collective memory with ’80s music, the re
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Shout |
-| A2 | The Working Hour |
-| A3 | Everybody Wants To Rule The World |
-| A4 | Mothers Talk |
-| B1 | I Believe |
-| B2 | Broken |
-| B3 | Head Over Heels |
-| B4 | Broken (Live) |
-| B5 | Listen |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

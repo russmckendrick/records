@@ -59,19 +59,19 @@ For the last three decades, Monster Magnet have been the reigning champions of h
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Diamond Mine |
-| A2 | Born To Go |
-| A3 | Epitaph For A Head |
-| A4 | Solid Gold Hell |
-| A5 | Be Forewarned |
-| B1 | Mr. Destroyer |
-| B2 | When The Wolf Sits |
-| B3 | Death |
-| B4 | Situation |
-| C1 | It's Trash |
-| C2 | Motorcycle (Straight To Hell) |
-| C3 | Learning To Die |
-| C4 | Welcome To The Void |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

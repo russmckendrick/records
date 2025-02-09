@@ -37,15 +37,15 @@ Two tracks, "And So Say All of You" and "The Sorry State", were originally writt
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | My Debt To You |
-| A2 | Shoot First |
-| A3 | Sinners |
-| B1 | The Sorry State |
-| B2 | Tightly Wound |
-| B3 | My Bleeding Hand |
-| C1 | Different World |
-| C2 | And So Say All Of You |
-| D1 | Too Much To Lose |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

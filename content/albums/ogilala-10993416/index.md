@@ -35,17 +35,17 @@ The album's songs are primarily acoustic and are predominantly performed on acou
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Zowie |
-| A2 | Processional |
-| A3 | The Spaniards |
-| A4 | Aeronaut |
-| A5 | The Long Goodbye |
-| A6 | Half-Life Of An Autodidact |
-| B1 | Amarinthe |
-| B2 | Antietam |
-| B3 | Mandarynne |
-| B4 | Shiloh |
-| B5 | Archer |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

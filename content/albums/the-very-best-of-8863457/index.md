@@ -1,6 +1,6 @@
 ---
-title: "Daryl Hall  John Oates - The Very Best Of"
-artist_name: "Daryl Hall  John Oates"
+title: "Daryl Hall & John Oates - The Very Best Of"
+artist_name: "Daryl Hall & John Oates"
 artist: "daryl-hall-john-oates"
 album_name: "The Very Best Of"
 date: 2016-08-13T09:39:29.000000Z
@@ -10,8 +10,8 @@ slug: "the-very-best-of-8863457"
 hideSummary: true
 cover:
     image: "the-very-best-of-8863457.jpg"
-    alt: "The Very Best Of by Daryl Hall  John Oates"
-    caption: "The Very Best Of by Daryl Hall  John Oates"
+    alt: "The Very Best Of by Daryl Hall & John Oates"
+    caption: "The Very Best Of by Daryl Hall & John Oates"
 additional_images:
     - "https://i.discogs.com/6UT6Joehke6_vxXwSfwo1a6VgJpr-NOuj_ffxkThIcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjM0/NTctMTQ3MDkwMTM3/MC01NjEyLmpwZWc.jpeg"
     - "https://i.discogs.com/0ApwBqiMw6z82zcd7ea1EnRTQfHg7yawdNbNnq0-ZjQ/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjM0/NTctMTUyMDIxMTU4/OS05NzQzLmpwZWc.jpeg"
@@ -37,24 +37,24 @@ It was released on K2 High Definition CD in 2012 and was re-released on vinyl on
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Sara Smile |
-| A2 | Rich Girl |
-| A3 | It's A Laugh (Single Version) |
-| A4 | Wait For Me |
-| A5 | You've Lost That Lovin' Feeling |
-| B1 | Kiss On My List |
-| B2 | You Make My Dreams |
-| B3 | Private Eyes |
-| B4 | I Can't Go For That (No Can Do) |
-| B5 | Did It In A Minute |
-| C1 | Maneater |
-| C2 | One On One |
-| C3 | Family Man |
-| C4 | Say It Isn't So |
-| D1 | Adult Education (Promotional 12") |
-| D2 | Out Of Touch (Single Version) |
-| D3 | Method Of Modern Love |
-| D4 | Some Things Are Better Left Unsaid |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -73,4 +73,4 @@ It was released on K2 High Definition CD in 2012 and was re-released on vinyl on
 | Label          | RCA |
 | Catalog Number | 88985330971 |
 | Notes | Legacy edition. First time on vinyl for this compilation. LP1 is pressed on gray vinyl, LP2 on blue vinyl.  Ⓒ 2001, 2016 RCA Records, a division of Sony Music Entertainment. The compilation Ⓟ 2001 RCA Records, a division of Sony Music Entertainment.  This package consists of previously released material.  |
-| Discogs URL    | [Daryl Hall  John Oates - The Very Best Of](https://www.discogs.com/release/8863457-Daryl-Hall-John-Oates-The-Very-Best-Of) |
+| Discogs URL    | [Daryl Hall & John Oates - The Very Best Of](https://www.discogs.com/release/8863457-Daryl-Hall-John-Oates-The-Very-Best-Of) |

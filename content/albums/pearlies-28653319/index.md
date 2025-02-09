@@ -30,16 +30,16 @@ Pearlies is the debut solo album by British rock musician Emma Anderson. It has 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Was Miles Away |
-| A2 | Bend The Round |
-| A3 | Inter Light |
-| A4 | Taste The Air |
-| A5 | Xanthe |
-| B1 | The Presence |
-| B2 | Willow And Mallow |
-| B3 | Tonight Is Mine |
-| B4 | For A Moment |
-| B5 | Clusters |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

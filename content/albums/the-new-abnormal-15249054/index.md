@@ -33,15 +33,15 @@ A general observation: You don’t go see Rick Rubin at Shangri-La if you’re j
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Adults Are Talking |
-| A2 | Selfless |
-| A3 | Brooklyn Bridge To Chorus |
-| A4 | Bad Decisions |
-| A5 | Eternal Summer |
-| B6 | At The Door |
-| B7 | Why Are Sundays So Depressing |
-| B8 | Not The Same Anymore |
-| B9 | Ode To The Mets |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

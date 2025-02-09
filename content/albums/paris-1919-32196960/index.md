@@ -48,22 +48,22 @@ The album has received critical praise from several publications over the years,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Child's Christmas In Wales |
-| A2 | Hanky Panky Nohow |
-| A3 | The Endless Plain Of Fortune |
-| A4 | Andalucia |
-| A5 | Macbeth |
-| B1 | Paris 1919 |
-| B2 | Graham Greene |
-| B3 | Half Past France |
-| B4 | Antarctica Starts Here |
-| C1 | I Must Not Sniff Cocaine |
-| C2 | Hanky Panky Nohow (Drone Mix) |
-| C3 | Child's Christmas In Wales (Rehearsal 1) |
-| C4 | Half Past France (Intro Chat) |
-| C5 | Macbeth (Take 11) |
-| D1 | Hanky Panky Nohow (Guitar Mix) |
-| D2 | Fever Dream 2024: You're A Ghost |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

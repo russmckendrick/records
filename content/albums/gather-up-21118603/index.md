@@ -1,6 +1,6 @@
 ---
-title: "Matt Berry - Gather Up"
-artist_name: "Matt Berry"
+title: "Matt Berry (3) - Gather Up"
+artist_name: "Matt Berry (3)"
 artist: "matt-berry"
 album_name: "Gather Up"
 date: 2021-11-26T09:12:23.000000Z
@@ -10,8 +10,8 @@ slug: "gather-up-21118603"
 hideSummary: true
 cover:
     image: "gather-up-21118603.jpg"
-    alt: "Gather Up by Matt Berry"
-    caption: "Gather Up by Matt Berry"
+    alt: "Gather Up by Matt Berry (3)"
+    caption: "Gather Up by Matt Berry (3)"
 additional_images:
     - "https://i.discogs.com/j6J2vmUFpZgoLcpDNJckt2kDppSRfePBLGNcM6xExYw/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE4/NjAzLTE2Mzc4NTYz/NTItMzI3MC5qcGVn.jpeg"
     - "https://i.discogs.com/5ZFhfEPRD-V4kSy5fxUeqcNDtIXD3QQid0OlU6d4TSU/rs:fit/g:sm/q:90/h:559/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE4/NjAzLTE2NzA5ODQ0/MjgtNzA4OS5qcGVn.jpeg"
@@ -36,27 +36,27 @@ Gather Up the Chaps is the second studio album by the Chicago-based punk rock su
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Take My Hand |
-| A2 | Something In My Eye |
-| A3 | Medicine |
-| A4 | Badger's Wake |
-| A5 | World In Action |
-| A6 | One By One |
-| B1 | Take A Bow |
-| B2 | October Sun |
-| B3 | So Low |
-| B4 | Summer Sun |
-| B5 | Gather Up |
-| C1 | Snuff Box Theme |
-| C2 | Middle Of The East |
-| C3 | Like Stone |
-| C4 | Phantom Birds |
-| C5 | Music For Insomniacs Pt IV |
-| C6 | Say It Again |
-| D1 | The Innkeepers Song (Live) |
-| D2 | Obsessed & So Obscure |
-| D3 | Woman |
-| D4 | Solstice |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -75,4 +75,4 @@ Gather Up the Chaps is the second studio album by the Chicago-based punk rock su
 | Label          | Acid Jazz |
 | Catalog Number | AJX2LP605 |
 | Notes | Gatefold sleeve |
-| Discogs URL    | [Matt Berry - Gather Up](https://www.discogs.com/release/21118603-Matt-Berry-3-Gather-Up) |
+| Discogs URL    | [Matt Berry (3) - Gather Up](https://www.discogs.com/release/21118603-Matt-Berry-3-Gather-Up) |

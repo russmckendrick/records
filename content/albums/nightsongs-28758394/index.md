@@ -39,29 +39,29 @@ Nightsongs is the first album by Canadian indie rock band Stars, released in 200
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Counting Stars On The Ceiling |
-| A2 | My Radio (AM Mix) |
-| A3 | Going, Going, Gone |
-| A4 | This Charming Man |
-| A5 | On Peak Hill |
-| A6 | International Rock Star |
-| B1 | The Very Thing |
-| B2 | Write What You Know |
-| B3 | Tru |
-| B4 | Better Be Heaven |
-| B5 | Liar |
-| B6 | Tonight |
-| C1 | Toxic Holiday |
-| C2 | My Radio (FM Mix) |
-| C3 | When? (Demo) |
-| C4 | On Peak Hill (Live) |
-| C5 | Going, Going, Gone (Live) |
-| C6 | Theme from Stars |
-| D1 | Krush |
-| D2 | Violent |
-| D3 | The Aspidistra Flies |
-| D4 | Cótes Des Neiges |
-| D5 | The Comeback |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

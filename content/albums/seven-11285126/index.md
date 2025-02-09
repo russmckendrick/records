@@ -44,17 +44,17 @@ Seven received mixed reviews from music critics, some of whom noted the album's 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Born Of Frustration |
-| A2 | Ring The Bells |
-| A3 | Sound |
-| B1 | Bring A Gun |
-| B2 | Mother |
-| B3 | Don't Wait That Long |
-| C1 | Live A Love Of Life |
-| C2 | Next Lover |
-| C3 | Heavens |
-| D1 | Protect Me |
-| D2 | Seven |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

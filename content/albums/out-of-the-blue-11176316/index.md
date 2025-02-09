@@ -36,20 +36,20 @@ Out of the Blue is the seventh studio album by the British rock group Electric L
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Turn To Stone |
-| A2 | It's Over |
-| A3 | Sweet Talkin'  Woman |
-| A4 | Across The Border |
-| B1 | Night In The City |
-| B2 | Starlight |
-| B3 | Jungle |
-| B4 | Believe Me Now |
-| B5 | Steppin'  Out |
-|  | Concerto For A Rainy Day |
-| D1 | Sweet Is The Night |
-| D2 | The Whale |
-| D3 | Birmingham Blues |
-| D4 | Wild West Hero |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

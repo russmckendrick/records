@@ -48,20 +48,20 @@ Guitarist Jerry Cantrell later recalled that Staley’s addiction was then so se
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Jar Of Flies |
-| A1 | Rotten Apple |
-| A2 | Nutshell |
-| A3 | I Stay Away |
-| A4 | No Excuses |
-| A5 | Whale & Wasp |
-| B1 | Don't Follow |
-| B2 | Swing On This |
-|  | Sap |
-| C1 | Brother |
-| C2 | Got Me Wrong |
-| C3 | Right Turn |
-| C4 | Am I Inside |
-| C5 | Love Song |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

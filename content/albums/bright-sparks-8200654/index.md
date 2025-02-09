@@ -30,14 +30,14 @@ styles: ["Experimental"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Fantastic Tale Of Dr. Moog And The Birth Of The Shimmering Beast |
-| A2 | The Uncertain Contents Of The Buchla Box |
-| A3 | Alan R. Pearlman And The ARPiological Exploration Of The Cosmos |
-| A4 | The Ballad Of Harry Chamberlain And The Surreptitious Window Cleaner |
-| B1 | The Bradley Brothers Realise The Transmutation Of The Chamberlain To The Mellotron |
-| B2 | London, 1969 - The Wizards Of Putney Deny Accusations Of Unholy Enchantment At The Electronic Music Studios (EMS) |
-| B3 | Electronic Dream Plant (EDP) - The Dirt In The Ointment |
-| B4 | The Further Adventures Of K. Freeman And His Incredible Machine Of A Thousand Strings |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

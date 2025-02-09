@@ -43,30 +43,30 @@ In 2022, the band released remixed and expanded 2- and 3-disc editions of Know Y
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Door To The River |
-| A1 | The Year Of Purification |
-| A2 | Ocean Spray |
-| A3 | So Why So Sad (Avalanches Sean Penn Mix) |
-| A4 | Door To The River |
-| A5 | Rosebud |
-| B6 | Just A Kid |
-| B7 | His Last Painting |
-| B8 | Let Robeson Sing |
-| B9 | Groundhog Days |
-| B10 | Epicentre |
-|  | Solidarity |
-| C1 | Intravenous Agnostic |
-| C2 | Found That Soul |
-| C3 | We Are All Bourgeois Now |
-| C4 | Freedom Of Speech Won't Feed My Children |
-| C5 | The Convalescent |
-| C6 | Baby Elian |
-| D7 | Masses Against The Classes |
-| D8 | My Guernica |
-| D9 | Studies In Paralysis |
-| D10 | Dead Martyrs |
-| D11 | Wattsville Blues |
-| D12 | Miss Europa Disco Dancer |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

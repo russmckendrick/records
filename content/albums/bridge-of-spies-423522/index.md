@@ -1,7 +1,7 @@
 ---
-title: "TPau - Bridge Of Spies"
-artist_name: "TPau"
-artist: "tpau"
+title: "T'Pau - Bridge Of Spies"
+artist_name: "T'Pau"
+artist: "t-pau"
 album_name: "Bridge Of Spies"
 date: 2016-01-07T16:18:51.000000Z
 release_date: "1987-09-14"
@@ -10,8 +10,8 @@ slug: "bridge-of-spies-423522"
 hideSummary: true
 cover:
     image: "bridge-of-spies-423522.jpg"
-    alt: "Bridge Of Spies by TPau"
-    caption: "Bridge Of Spies by TPau"
+    alt: "Bridge Of Spies by T'Pau"
+    caption: "Bridge Of Spies by T'Pau"
 additional_images:
     - "https://i.discogs.com/0ujMlGvC-2Fl0XoBmgaQwrnUW40eESw0sBp58Cgn1LI/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzUy/Mi0xMjM3MzI1NDkx/LmpwZWc.jpeg"
     - "https://i.discogs.com/v8T3xzT93hQpmeCnRTrd43-_atBFHlUt-Jg8osIlAGo/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzUy/Mi0xMjM3MzI1NTEx/LmpwZWc.jpeg"
@@ -34,17 +34,17 @@ Bridge of Spies is the debut studio album by English pop group T'Pau, released o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Heart And Soul |
-| A2 | I Will Be With You |
-| A3 | China In Your Hand |
-| A4 | Friends Like These |
-| A5 | Sex Talk |
-| B1 | Bridge Of Spies |
-| B2 | Monkey House |
-| B3 | Valentine |
-| B4 | Thank You For Goodbye |
-| B5 | You Give Up |
-| B6 | China In Your Hand (Reprise) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ Bridge of Spies is the debut studio album by English pop group T'Pau, released o
 | Label          | Siren (3) |
 | Catalog Number | SRN LP8 |
 | Notes | This version has A/B side indicators.  Recorded at Fabarama. Mastered at Sterling Sound, New York.  ℗ & © 1987 Siren Records Ltd.  Comes with a lyric inner sleeve.  |
-| Discogs URL    | [TPau - Bridge Of Spies](https://www.discogs.com/release/423522-TPau-Bridge-Of-Spies) |
+| Discogs URL    | [T'Pau - Bridge Of Spies](https://www.discogs.com/release/423522-TPau-Bridge-Of-Spies) |

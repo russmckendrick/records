@@ -38,16 +38,16 @@ The album was remastered and reissued in 1999, and included four remixes as bonu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Hurting |
-| A2 | Mad World |
-| A3 | Pale Shelter |
-| A4 | Ideas As Opiates |
-| A5 | Memories Fade |
-| B1 | Suffer The Children |
-| B2 | Watch Me Bleed |
-| B3 | Change |
-| B4 | The Prisoner |
-| B5 | Start Of The Breakdown |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

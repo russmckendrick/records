@@ -30,27 +30,27 @@ The album was again reissued in August 2015 by Beggars Banquet as Premier Hits a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| a1 | Cars  |
-| a2 | I Die: You Die |
-| a3 | Are 'Friends' Electric? |
-| a4 | Down In The Park |
-| a5 | We Are Glass |
-| b1 | Metal |
-| b2 | We Are So Fragile |
-| b3 | Bombers |
-| b4 | We Take Mystery (To Bed) |
-| b5 | She's Got Claws |
-| b6 | Complex |
-| c1 | Music For Chameleons |
-| c2 | That's Too Bad |
-| c3 | This Wreckage |
-| c4 | Films |
-| c5 | Warriors |
-| d1 | Me! I Disconnect From You |
-| d2 | Love Needs No Disguise |
-| d3 | White Boys And Heroes |
-| d4 | Sister Surprise |
-| d5 | Stormtrooper In Drag |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

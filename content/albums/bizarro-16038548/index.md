@@ -34,16 +34,16 @@ Bizarro is the second studio album by The Wedding Present. It was released in Oc
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Brassneck |
-| A2 | Crushed |
-| A3 | No |
-| A4 | Thanks |
-| A5 | Kennedy |
-| A6 | What Have I Said Now? |
-| B1 | Granadaland |
-| B2 | Bewitched |
-| B3 | Take Me! |
-| B4 | Be Honest |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

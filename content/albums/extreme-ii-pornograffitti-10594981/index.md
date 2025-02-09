@@ -1,6 +1,6 @@
 ---
-title: "Extreme - Extreme II : Pornograffitti"
-artist_name: "Extreme"
+title: "Extreme (2) - Extreme II : Pornograffitti"
+artist_name: "Extreme (2)"
 artist: "extreme"
 album_name: "Extreme II : Pornograffitti"
 date: 2017-08-06T11:02:14.000000Z
@@ -10,8 +10,8 @@ slug: "extreme-ii-pornograffitti-10594981"
 hideSummary: true
 cover:
     image: "extreme-ii-pornograffitti-10594981.jpg"
-    alt: "Extreme II : Pornograffitti by Extreme"
-    caption: "Extreme II : Pornograffitti by Extreme"
+    alt: "Extreme II : Pornograffitti by Extreme (2)"
+    caption: "Extreme II : Pornograffitti by Extreme (2)"
 additional_images:
     - "https://i.discogs.com/hkJUZc54teGvyRWOrIdlv9AXCfb4HQhdvpxCostJUMY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk0/OTgxLTE1MTEyMDIw/MzUtNTA4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/Ngbsh0qhSMfA4qmAFStksD6DyCbOfqJ9hL8gFExBFHY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTk0/OTgxLTE1MTEyMDIw/NDEtODAyNi5qcGVn.jpeg"
@@ -38,19 +38,19 @@ Extreme II sold very well, peaking at No. 10 on the Billboard 200, and was certi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Decadence Dance |
-| A2 | Li'l Jack Horny |
-| A3 | When I'm President |
-| A4 | Get The Funk Out |
-| A5 | More Than Words |
-| A6 | Money (In God We Trust) |
-| A7 | Hole Hearted |
-| B1 | It ('s A Monster) |
-| B2 | Pornograffitti |
-| B3 | When I First Kissed You |
-| B4 | Suzi (Wants Her All Day What?) |
-| B5 | He-Man Woman Hater |
-| B6 | Song For Love |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -69,4 +69,4 @@ Extreme II sold very well, peaking at No. 10 on the Billboard 200, and was certi
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP793 |
 | Notes | 180 gram audiophile vinyl pressing on orange vinyl. Limited to 1,500 copies. Individually numbered sleeve.  Recorded and mixed at Scream Studios, Studio City, CA Additional recording at Courtlen Studios, Hanson, MA Mastered at Sterling Sound, NYC  Original release ℗ 1990 A&M Records Inc. This release ℗ & © 2013 Universal Music B.V. Made in the EU  Repress of the [url=https://www.discogs.com/release/4902118]original Music on Vinyl reissue[/url] from 2013 |
-| Discogs URL    | [Extreme - Extreme II : Pornograffitti](https://www.discogs.com/release/10594981-Extreme-2-Extreme-II-Pornograffitti) |
+| Discogs URL    | [Extreme (2) - Extreme II : Pornograffitti](https://www.discogs.com/release/10594981-Extreme-2-Extreme-II-Pornograffitti) |

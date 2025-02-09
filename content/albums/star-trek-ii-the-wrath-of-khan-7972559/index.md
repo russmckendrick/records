@@ -40,29 +40,29 @@ Star Trek II: The Wrath of Khan is a 1982 science fiction film directed by Nicho
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Main Title |
-| A2 | Surprise on Ceti Alpha V |
-| A3 | Khan's Pets |
-| A4 | The Eels of Ceti Alpha V / Kirk in Space Shuttle |
-| A5 | Enterprise Clears Moorings |
-| A6 | Chekov Lies |
-| A7 | Spock |
-| A8 | Kirk Takes Command / He Tasks Me |
-| B1 | Genesis Project |
-| B2 | Surprise Attack |
-| B3 | Kirk's Explosive Reply |
-| B4 | Inside Regula I |
-| B5 | Brainwashed |
-| B6 | Captain Terrell's Death |
-| B7 | Buried Alive |
-| B8 | The Genesis Cave |
-| C1 | Battle In The Mutara Nebula |
-| C2 | Enterprise Attacks Reliant |
-| C3 | Genesis Countdown |
-| C4 | Spock (Dies) |
-| C5 | Amazing Grace |
-| D1 | Epilogue / End Title |
-| D2 | Epilogue (Original Version) / End Title |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

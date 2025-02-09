@@ -27,18 +27,18 @@ Songs in the Key of Animals is the second studio album by American musician Benj
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Peacockin' Party |
-| A2 | Girls Love Shoes |
-| A3 | Shark Attack!!!!!!!!!! |
-| A4 | Zebra |
-| A5 | Fall Me In Love |
-| A6 | Sugartree |
-| A7 | Freaky Feedback Blues |
-| B1 | Magic Summertime |
-| B2 | Picnic |
-| B3 | Longshot |
-| B4 | Song For Nancy |
-| B5 | ? Take You Home |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

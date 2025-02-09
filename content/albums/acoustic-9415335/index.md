@@ -36,22 +36,22 @@ Acoustic is the seventeenth studio album by Scottish rock band Simple Minds, rel
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The American |
-| A2 | Promised You A Miracle |
-| A3 | Glittering Prize |
-| A4 | See The Lights |
-| B1 | New Gold Dream (81–82–83–84) |
-| B2 | Someone Somewhere In Summertime |
-| B3 | Waterfront |
-| B4 | Sanctify Yourself |
-| C1 | Chelsea Girl |
-| C2 | Alive And Kicking |
-| C3 | Don't You (Forget About Me) |
-| C4 | Long Black Train |
-|  | Bonus Tracks |
-| D1 | Stand By Love |
-| D2 | Speed Your Love To Me |
-| D3 | Light Travels |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

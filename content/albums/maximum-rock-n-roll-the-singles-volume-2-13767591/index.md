@@ -29,20 +29,20 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Accelerator |
-| A2 | Miss Lucifer |
-| A3 | Autobahn 66 |
-| A4 | Some Velvet Morning |
-| B5 | Country Girl |
-| B6 | Dolls |
-| B7 | Sometimes I Feel So Lonely |
-| C8 | Can't Go Back |
-| C9 | Uptown |
-| C10 | 2013 |
-| C11 | It's Alright, It's OK |
-| D12 | Goodbye Johnny |
-| D13 | Where The Light Gets In |
-| D14 | 100% Or Nothing |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

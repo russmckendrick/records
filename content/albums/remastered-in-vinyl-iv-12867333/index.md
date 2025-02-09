@@ -51,44 +51,44 @@ Bush worked with session musicians who had worked with groups such as Pilot, The
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | 12" Mixes |
-| A1 | Running Up That Hill (A Deal With God) |
-| A2 | The Big Sky (Meteorological Mix) |
-| B1 | Cloudbusting (The Orgonon Mix) |
-| B2 | Hounds Of Love (Alternative Mix) |
-| B3 | Experiment IV (Extended Mix) |
-|  | The Other Side 1 |
-| C1 | Walk Straight Down The Middle |
-| C2 | You Want Alchemy |
-| C3 | Be Kind To My Mistakes |
-| C4 | Lyra |
-| C5 | Under The Ivy |
-| D1 | Experiment IV |
-| D2 | Ne T’Enfuis Pas |
-| D3 | Un Baiser D’Enfant |
-| D4 | Burning Bridge |
-| D5 | Running Up That Hill (A Deal With God) 2012 Remix |
-|  | The Other Side 2 |
-| E1 | Home For Christmas |
-| E2 | One Last Look Around The House Before We Go |
-| E3 | I’m Still Waiting |
-| E4 | Warm And Soothing |
-| E5 | Show A Little Devotion |
-| F1 | Passing Through Air |
-| F2 | Humming |
-| F3 | Ran Tan Waltz |
-| F4 | December Will Be Magic Again |
-| F5 | Wuthering Heights (Remix / New Vocal From ‘The Whole Story’) |
-|  | In Others' Words |
-| G1 | Rocket Man |
-| G2 | Sexual Healing |
-| G3 | Mná na hÉireann |
-| G4 | My Lagan Love |
-| H1 | The Man I Love |
-| H2 |  Brazil (Sam Lowry's First Dream) |
-| H3 | The Handsome Cabin Boy |
-| H4 | Lord Of The Reedy River |
-| H5 | Candle In The Wind |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

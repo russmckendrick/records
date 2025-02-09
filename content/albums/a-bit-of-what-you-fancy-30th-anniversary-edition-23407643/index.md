@@ -31,18 +31,18 @@ styles: ["Blues Rock", "Rock & Roll", "Piano Blues"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | 7 O'Clock |
-| A2 | Man On The Loose |
-| A3 | Whippin' Boy |
-| B1 | Sex Party |
-| B2 | Sweet Mary Ann |
-| B3 | I Don't Love You Anymore |
-| C1 | Hey You |
-| C2 | Misled |
-| C3 | Long Time Comin' |
-| D1 | Roses & Rings |
-| D2 | There She Goes Again |
-| D3 | Take Me Home |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

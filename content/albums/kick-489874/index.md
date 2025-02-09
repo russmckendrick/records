@@ -41,18 +41,18 @@ The band's most successful studio album, Kick has been certified six times plati
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Guns In The Sky |
-| A2 | New Sensation |
-| A3 | Devil Inside |
-| A4 | Need You Tonight |
-| A5 | Mediate |
-| A6 | The Loved One |
-| B1 | Wild Life |
-| B2 | Never Tear Us Apart |
-| B3 | Mystify |
-| B4 | Kick |
-| B5 | Calling All Nations |
-| B6 | Tiny Daggers |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

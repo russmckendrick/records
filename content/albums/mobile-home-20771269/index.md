@@ -32,19 +32,19 @@ Mobile Home is the second and final album by Longpigs, released in 1999 on U2's 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Frank Sonata |
-| A2 | Blue Skies |
-| A3 | Gangsters  |
-| A4 | Free Toy |
-| A5 | Baby Blue |
-| A6 | Dance Baby Dance |
-| B1 | Miss Believer |
-| B2 | I Lied I Love You  |
-| B3 | Keep The Light Alive |
-| B4 | Speech Bubble |
-| B5 | Dog Is Dead  |
-| B6 | Loud And Clear  |
-| B7 | In The Snow  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

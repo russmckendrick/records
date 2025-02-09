@@ -42,17 +42,17 @@ Ceremony is the fifth studio album by British rock band The Cult, first released
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Ceremony |
-| A2 | Wild Hearted Son |
-| A3 | Earth Mofo |
-| B4 | White |
-| B5 | If |
-| C6 | Full Tilt |
-| C7 | Heart Of Soul |
-| C8 | Bangkok Rain |
-| D9 | Indian |
-| D10 | Sweet Salvation |
-| D11 | Wonderland |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

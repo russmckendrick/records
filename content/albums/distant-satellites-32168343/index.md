@@ -35,16 +35,16 @@ Distant Satellites (stylised as distant satellites) is the tenth studio album by
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Lost Song Part 1 |
-| A2 | The Lost Song Part 2 |
-| B1 | Dusk (Dark Is Descending) |
-| B2 | Ariel |
-| C1 | The Lost Song Part 3 |
-| C2 | Anathema |
-| C3 | You're Not Alone |
-| D1 | Firelight |
-| D2 | Distant Satellites |
-| D3 | Take Shelter |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -34,20 +34,20 @@ Individually, the songs have long since been woven into pop music’s unconsciou
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Feel the Earth Move |
-| A2 | So Far Away |
-| A3 | It's Too Late |
-| A4 | Home Again |
-| A5 | Beautiful |
-| A6 | Way Over Yonder |
-| A7 | Out In The Cold |
-| B1 | You've Got A Friend |
-| B2 | Where You Lead |
-| B3 | Will You Still Love Me Tomorrow? |
-| B4 | Smackwater Jack |
-| B5 | Tapestry |
-| B6 | (You Make Me Feel Like) A Natural Woman |
-| B7 | Smackwater Jack (Previously Unreleased Live Version) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

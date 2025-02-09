@@ -59,38 +59,38 @@ Misplaced Childhood was listed as the sixth best album of 1985 by Kerrang! and c
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | 'Misplaced Childhood' 2017 Remaster |
-| A1 | Pseudo Silk Kimono |
-| A2 | Kayleigh |
-| A3 | Lavender |
-| A4 | Bitter Suite |
-| A5 | Heart Of Lothian |
-| B1 | Waterhole (Expresso Bongo) |
-| B2 | Lords Of The Backstage |
-| B3 | Blind Curve |
-| B4 | Childhoods End? |
-| B5 | White Feather |
-|  | Live At The Muziekcentrum Vredenburg, Utrecht, Netherlands October 15th, 1985 First Night: Part 1 |
-| C1 | Emerald Lies (Intro) |
-| C2 | Script For A Jester's Tear |
-| C3 | Incubus |
-| D1 | Chelsea Monday |
-| D2 | The Web |
-|  | Live In Utrecht (Continued) Part 2 |
-| E1 | Pseudo Silk Kimono |
-| E2 | Kayleigh |
-| E3 | Lavender |
-| E4 | Bitter Suite |
-| E5 | Heart Of Lothian |
-| F1 | Waterhole (Expresso Bongo) |
-| F2 | Lords Of The Backstage |
-| F3 | Blind Curve |
-| F4 | Childhoods End? |
-| F5 | White Feather |
-|  | Live In Utrecht (Continued) Part 3 |
-| G1 | Fugazi |
-| H1 | Garden Party |
-| H2 | Market Square Heroes |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

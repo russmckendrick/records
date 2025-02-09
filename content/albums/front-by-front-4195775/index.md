@@ -1,7 +1,7 @@
 ---
-title: "Front - Front By Front"
-artist_name: "Front"
-artist: "front"
+title: "Front 242 - Front By Front"
+artist_name: "Front 242"
+artist: "front-242"
 album_name: "Front By Front"
 date: 2021-07-29T09:15:37.000000Z
 release_date: "1988-10-28"
@@ -10,8 +10,8 @@ slug: "front-by-front-4195775"
 hideSummary: true
 cover:
     image: "front-by-front-4195775.jpg"
-    alt: "Front By Front by Front"
-    caption: "Front By Front by Front"
+    alt: "Front By Front by Front 242"
+    caption: "Front By Front by Front 242"
 additional_images:
     - "https://i.discogs.com/brz7pyTZ6QHauqOsyWXq9y85hSCDZELJL46GnFOPvO4/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTU3/NzUtMTM1ODIxMDkx/NS03NTQzLmpwZWc.jpeg"
     - "https://i.discogs.com/MxK2FVR9aXvV_YCVyVhOYbJ_A5veWOa6N1oZ5q7WKEc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxOTU3/NzUtMTU4NDk4NTI4/Mi05MzczLmpwZWc.jpeg"
@@ -36,15 +36,15 @@ Miss Kittin used "First In / First Out" on her mix album A Bugged Out Mix.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Until Death (Us Do Part) |
-| A2 | Circling Overland |
-| A3 | Im Rhythmus Bleiben |
-| A4 | Felines |
-| B1 | First In / First Out |
-| B2 | Blend The Strengths |
-| B3 | Headhunter V 3.0 |
-| B4 | Work 01 |
-| B5 | Terminal State |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ Miss Kittin used "First In / First Out" on her mix album A Bugged Out Mix.
 | Label          | Red Rhino Europe |
 | Catalog Number | RRE LP 7 |
 | Notes | 140 gram vinyl.  |
-| Discogs URL    | [Front - Front By Front](https://www.discogs.com/release/4195775-Front-242-Front-By-Front) |
+| Discogs URL    | [Front 242 - Front By Front](https://www.discogs.com/release/4195775-Front-242-Front-By-Front) |

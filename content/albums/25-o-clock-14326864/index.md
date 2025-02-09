@@ -35,12 +35,12 @@ Upon its release in the UK, 25 O'Clock sold twice as many copies as XTC's then-l
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | 25 O'Clock |
-| A2 | Bike Ride To The Moon |
-| A3 | My Love Explodes |
-| B1 | What In The World??... |
-| B2 | Your Gold Dress |
-| B3 | The Mole From The Ministry |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

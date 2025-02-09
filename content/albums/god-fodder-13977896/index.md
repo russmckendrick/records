@@ -1,7 +1,7 @@
 ---
-title: "Neds Atomic Dustbin - God Fodder"
-artist_name: "Neds Atomic Dustbin"
-artist: "neds-atomic-dustbin"
+title: "Ned's Atomic Dustbin - God Fodder"
+artist_name: "Ned's Atomic Dustbin"
+artist: "ned-s-atomic-dustbin"
 album_name: "God Fodder"
 date: 2019-08-09T17:50:15.000000Z
 release_date: "1991-05-28"
@@ -10,8 +10,8 @@ slug: "god-fodder-13977896"
 hideSummary: true
 cover:
     image: "god-fodder-13977896.jpg"
-    alt: "God Fodder by Neds Atomic Dustbin"
-    caption: "God Fodder by Neds Atomic Dustbin"
+    alt: "God Fodder by Ned's Atomic Dustbin"
+    caption: "God Fodder by Ned's Atomic Dustbin"
 additional_images:
     - "https://i.discogs.com/ANf8SKTLTvX4lnWEiMkF9yiSBuvMRjzR5SWBRK1UuWs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTc3/ODk2LTE1ODA5OTk1/ODYtMjkyMy5qcGVn.jpeg"
     - "https://i.discogs.com/yojUdUafVL09z-Y7wGbZ2ml5jCdwgjQcJh-etGCE9_o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTc3/ODk2LTE1ODA5OTk1/ODItNzM0OS5qcGVn.jpeg"
@@ -36,19 +36,19 @@ Five different singles were released from God Fodder across different regions. U
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Kill Your Television |
-| A2 | Less Than Useful |
-| A3 | Selfish |
-| A4 | Grey Cell Green |
-| A5 | Cut Up |
-| A6 | Throwing Things |
-| B7 | Capital Letters |
-| B8 | Happy |
-| B9 | Your Complex |
-| B10 | Nothing Like |
-| B11 | Until You Find Out |
-| B12 | You |
-| B13 | What Gives My Son? |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -67,4 +67,4 @@ Five different singles were released from God Fodder across different regions. U
 | Label          | Furtive (2) |
 | Catalog Number | MOVLP2455 |
 | Notes | Recorded at the Greenhouse Studio in London from December 1990 to January 1991.  Limited to 1000 machine-numbered copies with insert featuring lyrics, pictures and information.  180 gram.    Tracks listed sequentially on release.  |
-| Discogs URL    | [Neds Atomic Dustbin - God Fodder](https://www.discogs.com/release/13977896-Neds-Atomic-Dustbin-God-Fodder) |
+| Discogs URL    | [Ned's Atomic Dustbin - God Fodder](https://www.discogs.com/release/13977896-Neds-Atomic-Dustbin-God-Fodder) |

@@ -29,21 +29,21 @@ The Temperance Movement are a British blues rock band formed in 2011 by Glasgow-
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Only Friend |
-| A2 | Ain't No Telling |
-| A3 | Pride |
-| A4 | Be Lucky |
-| B1 | Midnight Black |
-| B2 | Chinese Lanterns |
-| B3 | Know For Sure |
-| B4 | Morning Riders |
-| C1 | Lovers And Fighters |
-| C2 | Take It Back |
-| C3 | Smouldering |
-| C4 | Serenity |
-|  | Bonus Material |
-| D1 | Turn |
-| D2 | Mother's Eyes |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

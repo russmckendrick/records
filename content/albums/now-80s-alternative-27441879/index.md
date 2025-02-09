@@ -27,36 +27,36 @@ styles: ["Alternative Rock", "Ambient", "Art Rock", "Downtempo", "Dub", "Experim
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Beethoven (I Love To Listen To) |
-| A2 | Dr. Mabuse |
-| A3 | Planet Claire |
-| A4 | Party Fears Two (Single Edit) |
-| A5 | Stories Of Johnny |
-| A6 | Broken Land (7" Version) |
-| A7 | European Female |
-| B1 | Shipbuilding |
-| B2 | Atmospherics: Listen To The Radio |
-| B3 | I'm In Love With A German Film Star |
-| B4 | After A Fashion (7" Version) |
-| B5 | Gentlemen Take Polaroids (Edit) |
-| B6 | Dreams Of Immigrants |
-| B7 | Vicious Games |
-| B8 | Whip It |
-| C1 | This Corrosion |
-| C2 | Peek-A-Boo |
-| C3 | Kick In The Eye (Remix Single Version) |
-| C4 | A Forest (Shortened Edit) |
-| C5 | Birthday |
-| C6 | Pop Song |
-| C7 | Flowers |
-| D1 | Hand In Glove (Single Version) |
-| D2 | Oblivious |
-| D3 | Talk Of The Town |
-| D4 | So. Central Rain |
-| D5 | Monkey Gone To Heaven |
-| D6 | President Gas |
-| D7 | Edie (Ciao Baby) (Edit) |
-| D8 | This Is England |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

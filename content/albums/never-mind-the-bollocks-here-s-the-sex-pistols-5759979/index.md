@@ -35,18 +35,18 @@ The album has influenced many bands and musicians, and the industry in general. 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Holidays In The Sun |
-| A2 | Bodies |
-| A3 | No Feelings |
-| A4 | Liar |
-| A5 | God Save The Queen |
-| A6 | Problems |
-| B1 | Seventeen |
-| B2 | Anarchy In The U.K |
-| B3 | Submission |
-| B4 | Pretty Vacant |
-| B5 | New York |
-| B6 | EMI |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -35,22 +35,22 @@ The Eight Legged Groove Machine is the debut album by the Wonder Stuff, released
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Red Berry Joy Town |
-| A2 | No, For The 13th Time |
-| A3 | It's Yer Money I'm After, Baby |
-| A4 | Rue The Day |
-| A5 | Give, Give, Give Me More, More, More |
-| A6 | Like A Merry Go Round |
-| A7 | The Animals And Me |
-| B1 | A Wish Away |
-| B2 | Grin |
-| B3 | Mother And I |
-| B4 | Some Sad Someone |
-| B5 | Ruby Horse |
-| B6 | Unbearable |
-| B7 | Poison |
-| B8.1 | (silence) |
-| B8.2 | Times Will Change |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -41,19 +41,19 @@ Free All Angels received generally positive reviews from music critics, some of 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Walking Barefoot |
-| A2 | Shining Light |
-| A3 | Burn Baby Burn |
-| A4 | Candy |
-| A5 | Cherry Bomb |
-| A6 | Submission |
-| B7 | Someday |
-| B8 | Pacific Palisades |
-| B9 | Shark |
-| B10 | Sometimes |
-| B11 | Nicole |
-| B12 | There's A Star |
-| B13 | World Domination |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

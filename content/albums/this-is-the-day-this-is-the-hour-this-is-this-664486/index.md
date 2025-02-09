@@ -34,20 +34,20 @@ The album peaked at #24 for two weeks on the UK Albums Chart, and at #169 on the
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | PWEI Is A Four Letter Word |
-| A2 | Preaching To The Perverted |
-| A3 | Wise Up! Sucker |
-| A4 | Sixteen Different Flavors Of Hell |
-| A5 | Inject Me |
-| A6 | Can U Dig It? |
-| A7 | The Fuses Have Been Lit |
-| B1 | Poison To The Mind |
-| B2 | Def.Con.One |
-| B3 | Radio PWEI |
-| B4 | Shortwave Transmission "Up To The Minuteman Nine" |
-| B5 | Satellite Ecstatica |
-| B6 | Not Now James, We're Busy |
-| B7 | Wake Up! Time To Die... |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

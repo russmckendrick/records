@@ -47,23 +47,23 @@ styles: ["Hard Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Album - 2015 Abbey Road Remaster |
-|  | Cygnus X-1 Book II: Hemispheres  |
-| B1 | Circumstances |
-| B2 | The Trees |
-| B3 | La Villa Strangiato |
-|  | Live At Pinkpop Festival: June 4, 1979 |
-| C1 | A Passage To Bangkok |
-| C2 | Xanadu |
-| D1 | The Trees |
-| D2 | Cygnus X-1 Book II: Hemispheres - The Sphere A Kind Of Dream |
-| D3 | Closer To The Heart |
-| D4 | La Villa Strangiato |
-| E1 | In The Mood |
-| E2 | Drum Solo |
-| E3 | Something For Nothing |
-|  | Live In Arizona: November 20, 1978 |
-|  | 2112 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

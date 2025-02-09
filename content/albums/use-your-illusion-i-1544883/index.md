@@ -1,6 +1,6 @@
 ---
-title: "Guns N Roses - Use Your Illusion I"
-artist_name: "Guns N Roses"
+title: "Guns N' Roses - Use Your Illusion I"
+artist_name: "Guns N' Roses"
 artist: "guns-n-roses"
 album_name: "Use Your Illusion I"
 date: 2016-06-21T16:39:10.000000Z
@@ -10,8 +10,8 @@ slug: "use-your-illusion-i-1544883"
 hideSummary: true
 cover:
     image: "use-your-illusion-i-1544883.jpg"
-    alt: "Use Your Illusion I by Guns N Roses"
-    caption: "Use Your Illusion I by Guns N Roses"
+    alt: "Use Your Illusion I by Guns N' Roses"
+    caption: "Use Your Illusion I by Guns N' Roses"
 additional_images:
     - "https://i.discogs.com/WVxYegK_Hh7s31oqFgmuI5OZBpQKRBB6jkeKySAaad4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQ4/ODMtMTQ4MjQ0MjQw/NC03ODMxLmpwZWc.jpeg"
     - "https://i.discogs.com/q68xNKp_7-W8uf3KFJaa12gnfChsx_UcuwSB_gIPDg0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDQ4/ODMtMTQ4MjQ0MjQw/NS0yMzAzLmpwZWc.jpeg"
@@ -41,22 +41,22 @@ Both of its volumes seeing release on the same day, <I>Use Your Illusion</I> cam
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Right Next Door To Hell |
-| A2 | Dust N' Bones |
-| A3 | Live And Let Die |
-| A4 | Don't Cry (Original) |
-| A5 | Perfect Crime |
-| B1 | You Ain't The First |
-| B2 | Bad Obsession |
-| B3 | Back Off Bitch |
-| B4 | Double Talkin' Jive |
-| C1 | November Rain |
-| C2 | The Garden |
-| C3 | Garden Of Eden |
-| C4 | Don't Damn Me |
-| D1 | Bad Apples |
-| D2 | Dead Horse |
-| D3 | Coma |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -75,4 +75,4 @@ Both of its volumes seeing release on the same day, <I>Use Your Illusion</I> cam
 | Label          | Geffen Records |
 | Catalog Number | 0720642441510 |
 | Notes | Includes A Voucher To Download MP3 version Of The Album and generally identified with a "Back To Black" logo sticker on shrink-wrap. 180 Gram Vinyl Remastered  |
-| Discogs URL    | [Guns N Roses - Use Your Illusion I](https://www.discogs.com/release/1544883-Guns-N-Roses-Use-Your-Illusion-I) |
+| Discogs URL    | [Guns N' Roses - Use Your Illusion I](https://www.discogs.com/release/1544883-Guns-N-Roses-Use-Your-Illusion-I) |

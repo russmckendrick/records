@@ -51,30 +51,30 @@ The album was remastered and reissued for its 15-year anniversary by Mute Record
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | The Texas-Jerusalem Crossroads: Texas |
-| A1 | Just As Was Told |
-| A2 | Down Came The Angels |
-| A3 | Falling From Cloud 9 |
-| B1 | With Crippled Wings |
-| B2 | Waiting To Hit |
-| B3 | The Ground So Soft |
-|  | The Texas-Jerusalem Crossroads: Jerusalem |
-| C1 | These Are The Days |
-| C2 | When We Shall Touch |
-| C3 | Down With The Prophets |
-| D1 | To Guard And To Guide You |
-| D2 | Into The Storm |
-| D3 | (Untitled) |
-|  | The Peel Session |
-| E1 | Falling From Cloud 9 |
-| E2 | The Ground So Soft |
-| F1 | Just As Was Told |
-| F2 | With The World Behind |
-|  | EP |
-| G1 | Falling From Cloud 9 |
-| G2 | With The World Behind |
-| H1 | Arise And Shine |
-| H2 | Liftin' On Up |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

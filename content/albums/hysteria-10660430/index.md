@@ -77,18 +77,18 @@ When Def Leppard arrived at the follow-up to their mega-selling third album, 198
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Women |
-| A2 | Rocket |
-| A3 | Animal |
-| B1 | Love Bites |
-| B2 | Pour Some Sugar On Me |
-| B3 | Armageddon It |
-| C1 | Gods Of War |
-| C2 | Don't Shoot Shotgun |
-| C3 | Run Riot |
-| D1 | Hysteria |
-| D2 | Excitable |
-| D3 | Love And Affection |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

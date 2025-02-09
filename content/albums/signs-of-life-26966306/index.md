@@ -42,18 +42,18 @@ styles: ["Spoken Word"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| 1 | Clock |
-| 2 | Möbius Strip |
-| 3 | Bloody Sunrise |
-| 4 | The Wreckers |
-| 5 | Song of the Song |
-| 6 | Credo |
-| 7 | Neverwhere |
-| 8 | Poem First Read on January 26th, 2011 at the  Sydney Opera House |
-| 9 | The Problem With Saints |
-| 10 | In Transit |
-| 11 | Signs of a Life |
-| 12 | Oceanic |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

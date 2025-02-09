@@ -39,17 +39,17 @@ styles: ["Art Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Candle Book And Bell |
-| A2 | Ffwd To The Freeze Frame |
-| A3 | Make It So |
-| A4 | Slingshot Grin |
-| B1 | Burn Before Reading |
-| B2 | Just Above Midtown |
-| B3 | Chasing Horses |
-| B4 | Tyrekickers |
-| C1 | We Just Did What Happened And Nobody Came |
-| C2 | Longstreth |
-| C3 | Coloma Blues |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

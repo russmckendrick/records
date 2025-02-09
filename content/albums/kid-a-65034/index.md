@@ -41,21 +41,21 @@ Popular and critical opinion about <i>Kid A</i> was initially mixed. Had Yorke f
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Alpha |
-| A1 | Everything In Its Right Place |
-| A2 | Kid A |
-|  | Beta |
-| B1 | The National Anthem |
-| B2 | How To Disappear Completely |
-| B3 | Treefingers |
-|  | Gamma |
-| C1 | Optimistic |
-| C2 | In Limbo |
-|  | Delta |
-| D1 | Idioteque |
-| D2 | Morning Bell |
-| D3 | Motion Picture Soundtrack |
-| D4 | Untitled |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

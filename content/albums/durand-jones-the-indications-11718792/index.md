@@ -1,6 +1,6 @@
 ---
-title: "Durand Jones  The Indications - Durand Jones & The Indications "
-artist_name: "Durand Jones  The Indications"
+title: "Durand Jones & The Indications - Durand Jones & The Indications "
+artist_name: "Durand Jones & The Indications"
 artist: "durand-jones-the-indications"
 album_name: "Durand Jones & The Indications "
 date: 2018-03-20T12:54:29.000000Z
@@ -10,8 +10,8 @@ slug: "durand-jones-the-indications-11718792"
 hideSummary: true
 cover:
     image: "durand-jones-the-indications-11718792.jpg"
-    alt: "Durand Jones & The Indications  by Durand Jones  The Indications"
-    caption: "Durand Jones & The Indications  by Durand Jones  The Indications"
+    alt: "Durand Jones & The Indications  by Durand Jones & The Indications"
+    caption: "Durand Jones & The Indications  by Durand Jones & The Indications"
 additional_images:
     - "https://i.discogs.com/7FRKoiqTQ3qFLaopgALyD18Al8MdEfqaeZpTHXNt4Vw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzE4/NzkyLTE1MjE5MTM3/OTEtNzQ1OS5wbmc.jpeg"
     - "https://i.discogs.com/Zt6TzGnkjgOOYUiOh1rJm952ckOLhWo3FpGAmIm0BYE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzE4/NzkyLTE1MjE0NzIy/MTctNTMzOS5qcGVn.jpeg"
@@ -31,14 +31,14 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Make A Change |
-| A2 | Smile |
-| A3  | Can't Keep My Cool |
-| A4 | Groovy Babe |
-| B1 | Giving Up |
-| B2 | Is It Any Wonder? |
-| B3 | Now I'm Gone  |
-| B4 | Tuck 'N' Roll |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -55,4 +55,4 @@ styles: ["Funk", "Soul", "Rhythm & Blues"]
 | Format         | Vinyl LP Album Limited Edition Reissue (Red translucent) |
 | Label          | Dead Oceans |
 | Catalog Number | DOC157 |
-| Discogs URL    | [Durand Jones  The Indications - Durand Jones & The Indications ](https://www.discogs.com/release/11718792-Durand-Jones-The-Indications-Durand-Jones-The-Indications-) |
+| Discogs URL    | [Durand Jones & The Indications - Durand Jones & The Indications ](https://www.discogs.com/release/11718792-Durand-Jones-The-Indications-Durand-Jones-The-Indications-) |

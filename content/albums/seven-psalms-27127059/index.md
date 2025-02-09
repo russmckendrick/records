@@ -35,13 +35,13 @@ Conceived of in a dream and sketched out during a series of pre-dawn sessions be
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Lord |
-| A2 | Love Is Like A Braid |
-| A3 | My Professional Opinion |
-| B1 | Your Forgiveness |
-| B2 | Trail Of Volcanoes |
-| B3 | The Sacred Harp |
-| B4 | Wait |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

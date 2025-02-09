@@ -1,7 +1,7 @@
 ---
-title: "ACDC - The Razors Edge"
-artist_name: "ACDC"
-artist: "acdc"
+title: "AC/DC - The Razors Edge"
+artist_name: "AC/DC"
+artist: "ac-dc"
 album_name: "The Razors Edge"
 date: 2024-03-15T06:43:56.000000Z
 release_date: "1990-09-21"
@@ -10,8 +10,8 @@ slug: "the-razors-edge-30093299"
 hideSummary: true
 cover:
     image: "the-razors-edge-30093299.jpg"
-    alt: "The Razors Edge by ACDC"
-    caption: "The Razors Edge by ACDC"
+    alt: "The Razors Edge by AC/DC"
+    caption: "The Razors Edge by AC/DC"
 additional_images:
     - "https://i.discogs.com/9C2iFUT4DQYg3UU_TnbCLSJl_4WI1-o-oh3lXv8xDvk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkz/Mjk5LTE3MTA0MTI5/OTctNTgwNS5qcGVn.jpeg"
     - "https://i.discogs.com/0XLJoXHh_Ocuz7ivwpnKadF72Z0WO5AVmiN_Ptf48NI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDkz/Mjk5LTE3MTA0MTMw/MDgtNjAxNi5qcGVn.jpeg"
@@ -43,18 +43,18 @@ Critical commentary for the album was generally mixed, with Alex Henderson of Al
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Thunderstruck |
-| A2 | Fire Your Guns |
-| A3 | Moneytalks |
-| A4 | The Razors Edge |
-| A5 | Mistress For Christmas |
-| A6 | Rock Your Heart Out |
-| B1 | Are You Ready |
-| B2 | Got You By The Balls |
-| B3 | Shot Of Love |
-| B4 | Let's Make It |
-| B5 | Goodbye And Good Riddance To Bad Luck |
-| B6 | If You Dare |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -73,4 +73,4 @@ Critical commentary for the album was generally mixed, with Alex Henderson of Al
 | Label          | Columbia |
 | Catalog Number | 19658834611 |
 | Notes | Remastered from the original master tapes.  Hype sticker reads: "50th Anniversary  Special Edition Gold Coloured Vinyl Includes Unique Insert And Custom Labels".  Presented in an unlaminated sleeve. Picture inner sleeve of top opening thin card. Includes a 12" square card insert, printed on both sides which references the album title and series. Two hype stickers are applied to the shrink-wrap.  The vinyl is marbled translucent to strong light and may appear to transfigure to a peach colour.  Runouts are very lightly stamped. |
-| Discogs URL    | [ACDC - The Razors Edge](https://www.discogs.com/release/30093299-ACDC-The-Razors-Edge) |
+| Discogs URL    | [AC/DC - The Razors Edge](https://www.discogs.com/release/30093299-ACDC-The-Razors-Edge) |

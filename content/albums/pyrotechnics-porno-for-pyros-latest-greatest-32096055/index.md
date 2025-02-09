@@ -31,16 +31,16 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Pets |
-| A2 | Fingernail |
-| A3 | 100 Ways |
-| A4 | Pete's Dad |
-| A5 | Cursed Female |
-| B1 | Tahitian Moon |
-| B2 | Little Me |
-| B3 | Satellite of Love |
-| B4 | Agua |
-| B5 | Pets (Daniel Avery Remix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

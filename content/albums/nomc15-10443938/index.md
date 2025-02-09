@@ -41,25 +41,25 @@ styles: ["Alternative Rock", "Electro", "Post-Punk", "Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Introduction: Das Rheingold - Vorspiel |
-| A2 | Singularity |
-| A3 | Ceremony |
-| A4 | Crystal |
-| B1 | 586 |
-| B2 | Restless |
-| B3 | Lonesome Tonight |
-| B4 | Your Silent Face |
-| C1 | Tutti Frutti |
-| C2 | People On The High Line |
-| C3 | Bizarre Love Triangle |
-| D1 | Waiting For The Sirens' Call |
-| D2 | Plastic |
-| D3 | The Perfect Kiss |
-| E1 | True Faith |
-| E2 | Temptation |
-| F1 | Atmosphere |
-| F2 | Love Will Tear Us Apart |
-| F3 | Blue Monday |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

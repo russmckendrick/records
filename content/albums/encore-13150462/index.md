@@ -38,16 +38,16 @@ Encore entered at number 1 on the UK Albums Chart after its first week of releas
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Black Skin Blue Eyed Boys |
-| A2 | B.L.M. |
-| A3 | Vote For Me |
-| A4 | The Lunatics |
-| A5 | Breaking Point |
-| B1 | Blam Blam Fever |
-| B2 | 10 Commandments |
-| B3 | Embarrassed By You |
-| B4 | The Life And Times (Of A Man Called Depression) |
-| B5 | We Sell Hope |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

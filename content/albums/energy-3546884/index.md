@@ -34,25 +34,25 @@ The album stayed in print on Lookout until 2006, when the band took back its rec
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Knowledge |
-| A2 | Sound System |
-| A3 | Jaded |
-| A4 | Take Warning |
-| A5 | The Crowd |
-| A6 | Bombshell |
-| A7 | Unity |
-| A8 | Vulnerability |
-| A9 | Bankshot |
-| A10 | One Of These Days |
-| B1 | Gonna Find You |
-| B2 | Bad Town |
-| B3 | Smiling |
-| B4 | Caution |
-| B5 | Freeze Up |
-| B6 | Artificial Life |
-| B7 | Room Without A Window |
-| B8 | Big City |
-| B9 | Missionary |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

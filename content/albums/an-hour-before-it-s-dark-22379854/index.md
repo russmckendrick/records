@@ -36,14 +36,14 @@ An Hour Before It's Dark is the 20th studio album by British neo-prog band Maril
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Be Hard On Yourself |
-|  | Reprogram The Gene |
-| A7 | Only A Kiss (Instrumental) |
-| A8 | Murder Machines |
-| B1 | The Crow And The Nightingale |
-|  | Sierra Leone |
-|  | Care |
-| D | Murder Machines (12" Remix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

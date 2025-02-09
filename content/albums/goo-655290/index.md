@@ -49,41 +49,41 @@ Later, Lee Ranaldo said that part of the reason the band went to a major label w
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | The Original Album (Released 06.26.90) |
-| A1 | Dirty Boots |
-| A2 | Tunic (Song For Karen) |
-| A3 | Mary-Christ |
-| A4 | Kool Thing |
-| B1 | Mote |
-| B2 | My Friend Goo |
-| B3 | Disappearer |
-| B4 | Mildred Pierce |
-| C1 | Cinderella's Big Score |
-| C2 | Scooter + Jinx |
-| C3 | Titanium Exposé |
-|  | Out-Takes, B-Sides & Rehearsals |
-| D1 | Lee #2 |
-| D2 | That's All I Know (Right Now) |
-| D3 | The Bedroom (Live) |
-| D4 | Dr. Benway's House |
-| D5 | Tuff Boyz |
-|  | 8-Track Demos |
-| E1 | Tunic |
-| E2 | Number One (Disappearer) |
-| E3 | Titanium Exposé |
-| F1 | Dirty Boots |
-| F2 | Corky (Cinderella's Big Score) |
-| F3 | My Friend Goo |
-| G1 | Bookstore (Mote) |
-| G2 | Animals (Mary-Christ) |
-| G3 | DV2 (Kool Thing) |
-| G4 | Blowjob (Mildred Pierce) |
-| H1 | Lee #2 |
-|  | More Goo |
-| H2 | I Know There's An Answer |
-| H3 | Can Song |
-| H4 | Isaac |
-| H5 | Goo Interview Flexi |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

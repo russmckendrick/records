@@ -34,24 +34,24 @@ The Hour of Bewilderbeast is the debut studio album by British musician Badly Dr
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Shining |
-| A2 | Everybody's Stalking |
-| A3 | Bewilder |
-| A4 | Fall In A River |
-| A5 | Camping Next To Water |
-| A6 | Stone On The Water |
-| A7 | Another Pearl |
-| A8 | Body Rap |
-| A9 | Once Around The Block |
-| A10 | This Song |
-| B1 | Bewilderbeast |
-| B2 | Magic In The Air |
-| B3 | Cause A Rockslide |
-| B4 | Pissing In The Wind |
-| B5 | Blistered Heart |
-| B6 | Disillusion |
-| B7 | Say It Again |
-| B8 | Epitaph |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

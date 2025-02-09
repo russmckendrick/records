@@ -45,25 +45,25 @@ styles: ["Electro", "Synth-pop", "Techno", "Tech House", "Drum n Bass"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Non Stop |
-| A2 | Robotronik (Kling Klang Mix) |
-| A3 | Robotnik (Kling Klang Mix) |
-| B1 | Home Computer (2021 Single Edit) |
-| B2 | Radioactivity (William Orbit Hardcore Remix / Kling Klang Edit) |
-| B3 | Radioactivity (François Kevorkian 12" Remix) |
-| C1 | Expo Remix (Kling Klang Mix 2002) |
-| C2 | Expo Remix (Kling Klang Mix 2001) |
-| C3 | Expo Remix (Orbital Mix) |
-| D1 | Expo Remix (François K + Rob Rives Mix) |
-| D2 | Expo Remix (DJ Rolando Mix) |
-| D3 | Expo Remix (Underground Resistance Mix) |
-| D4 | Expo Remix (UR Thought 3 Mix) |
-| E1 | Aéro Dynamik (Kling Klang Dynamix) |
-| E2 | Aéro Dynamik (Alex Gopher / Ètienne De Crécy Dynamik Mix) |
-| E3 | Aéro Dynamik (François K. Aero Mix) |
-| F1 | Tour De France (Etape 2) |
-| F2 | Aéro Dynamik (Intelligent Design Mix By Hot Chip) |
-| F3 | La Forme (King Of The Mountains Mix By Hot Chip) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

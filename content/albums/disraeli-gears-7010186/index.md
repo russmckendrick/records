@@ -1,6 +1,6 @@
 ---
-title: "Cream - Disraeli Gears"
-artist_name: "Cream"
+title: "Cream (2) - Disraeli Gears"
+artist_name: "Cream (2)"
 artist: "cream"
 album_name: "Disraeli Gears"
 date: 2016-04-22T16:36:08.000000Z
@@ -10,8 +10,8 @@ slug: "disraeli-gears-7010186"
 hideSummary: true
 cover:
     image: "disraeli-gears-7010186.jpg"
-    alt: "Disraeli Gears by Cream"
-    caption: "Disraeli Gears by Cream"
+    alt: "Disraeli Gears by Cream (2)"
+    caption: "Disraeli Gears by Cream (2)"
 additional_images:
     - "https://i.discogs.com/97pgbpQ7RYdsifeESbSQo-bOghlHGrIj92S8JGm1Jn0/rs:fit/g:sm/q:90/h:391/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTAx/ODYtMTQzMzg1MTkz/OC00NTA1LmpwZWc.jpeg"
     - "https://i.discogs.com/W3mGPKg93sW4bTJp5iTMeCVxxpFebB60Aa-7H7bLEYE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTAx/ODYtMTQ5NTAyNjE5/OS0xMTU0LmpwZWc.jpeg"
@@ -33,17 +33,17 @@ On their second studio album, the British power trio subdues blues grooves to cr
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Strange Brew |
-| A2 | Sunshine Of Your Love |
-| A3 | World Of Pain |
-| A4 | Dance The Night Away |
-| A5 | Blue Condition |
-| B1 | Tales Of Brave Ulysses |
-| B2 | Swlabr |
-| B3 | We're Going Wrong |
-| B4 | Outside Woman Blues |
-| B5 | Take It Back |
-| B6 | Mother's Lament |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -62,4 +62,4 @@ On their second studio album, the British power trio subdues blues grooves to cr
 | Label          | Polydor |
 | Catalog Number | 535 484-3 |
 | Notes | This version has hand-etched "MPO" in the runouts. The release with a laser-etched MPO logo "MPO®" in the runouts is here: [r13712296]   Made in France sticker applied to rear jacket shrink wrap. Some copies have a [l197898] hype sticker applied to the front shrink wrap and a voucher to download an MP3 version of the album.   [On back cover] ℗ & © 1967 Universal International Music BV Made in the EU. BIEM/SDRM. 0600753548431.  [On labels] ℗ 1967 ℗ & © 1967 Universal International Music BV Made in the EU. BIEM/SDRM. 0600753548431.  Publishers: A1: Careers-BMG Music Publishing, Inc./Dratleaf Music Ltd./Eric Patrick Clapton/Windfall Music Ent. Inc. A2: Warner Chappell Music Ltd. A3: Careers-BMG Music Publishing, Inc./Warner-Tamerlane Publishing Corp. A4, A5: Dratleaf Music Ltd. B1: Dratleaf Music Ltd./ Unichappell Music, Inc. B2, B3, B5, B6: Dratleaf Music Ltd. B4: Apple Music Publ. Co. Inc.  Runouts are etched in all variants. The 2 digits after "MPO" in variants 2 and 3 are mirrored on dead wax (unmirrored in BaOI). |
-| Discogs URL    | [Cream - Disraeli Gears](https://www.discogs.com/release/7010186-Cream-2-Disraeli-Gears) |
+| Discogs URL    | [Cream (2) - Disraeli Gears](https://www.discogs.com/release/7010186-Cream-2-Disraeli-Gears) |

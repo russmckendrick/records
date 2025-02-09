@@ -33,16 +33,16 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Man Don't Give A Fuck |
-| A2 | Dim Bendith |
-| A3 | Arnofio / Glô In The Dark  |
-| A4 | Don't Be A Fool Billy! |
-| B1 | Guacamole  |
-| B2 | Death By Melody |
-| B3 | Lazy Life (Of No Fixed Identity) |
-| B4 | Waiting To Happen |
-| B5 | (Nid) Hon Yw'r Gân Sy'n Mind I Achub Yr Iaith |
-| B6 | Something For The Weekend |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

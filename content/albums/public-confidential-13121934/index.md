@@ -1,6 +1,6 @@
 ---
-title: "The Beat - Public Confidential"
-artist_name: "The Beat"
+title: "The Beat (6) - Public Confidential"
+artist_name: "The Beat (6)"
 artist: "the-beat"
 album_name: "Public Confidential"
 date: 2019-06-21T19:10:16.000000Z
@@ -10,8 +10,8 @@ slug: "public-confidential-13121934"
 hideSummary: true
 cover:
     image: "public-confidential-13121934.jpg"
-    alt: "Public Confidential by The Beat"
-    caption: "Public Confidential by The Beat"
+    alt: "Public Confidential by The Beat (6)"
+    caption: "Public Confidential by The Beat (6)"
 additional_images:
     - "https://i.discogs.com/sNKYhRZ6B-G9nLG-AycOC8NmlnKgZsaawNzm2qsXb_E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTIx/OTM0LTE1NTM3ODA1/NjAtMzgzMy5qcGVn.jpeg"
     - "https://i.discogs.com/ZYp9vUDigUEQc8Z810ajzPLaGtOwIoQhSAD-jh_Ui7k/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTIx/OTM0LTE1NDk2NDU4/ODMtOTE3Ny5qcGVn.jpeg"
@@ -32,16 +32,16 @@ styles: ["Ska"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Maniac |
-| A2 | Public Confidential |
-| A3 | Who's Dat Looking |
-| A4 | On The Road |
-| A5 | Dangerous |
-| B1 | Long Call Short Talk |
-| B2 | Giving It Up |
-| B3 | A Good Day For Sunshine |
-| B4 | Skank Away |
-| B5 | Civilisation |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -59,4 +59,4 @@ styles: ["Ska"]
 | Label          | DMF Records (3) |
 | Catalog Number | DMF 129LP |
 | Notes | Split Black/White vinyl release. |
-| Discogs URL    | [The Beat - Public Confidential](https://www.discogs.com/release/13121934-The-Beat-6-Feat-Ranking-Roger-Public-Confidential) |
+| Discogs URL    | [The Beat (6) - Public Confidential](https://www.discogs.com/release/13121934-The-Beat-6-Feat-Ranking-Roger-Public-Confidential) |

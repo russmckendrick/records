@@ -1,6 +1,6 @@
 ---
-title: "Matt Berry - Witchazel"
-artist_name: "Matt Berry"
+title: "Matt Berry (3) - Witchazel"
+artist_name: "Matt Berry (3)"
 artist: "matt-berry"
 album_name: "Witchazel"
 date: 2016-01-20T19:15:42.000000Z
@@ -10,8 +10,8 @@ slug: "witchazel-2797660"
 hideSummary: true
 cover:
     image: "witchazel-2797660.jpg"
-    alt: "Witchazel by Matt Berry"
-    caption: "Witchazel by Matt Berry"
+    alt: "Witchazel by Matt Berry (3)"
+    caption: "Witchazel by Matt Berry (3)"
 additional_images:
     - "https://i.discogs.com/Hwz-rDFy1ywqgAU3xtC72AeA7o1jinlv4FLkr2pe3sI/rs:fit/g:sm/q:90/h:514/w:514/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTc2/NjAtMTMwMTQ4NDg5/Ny5qcGVn.jpeg"
     - "https://i.discogs.com/qBZFhbeoh5jdSYo877QBWYNJugn2rxwnT6xSG7vJDbQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3OTc2/NjAtMTUyNTExOTUz/My03MTY1LnBuZw.jpeg"
@@ -30,19 +30,19 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | An Awakening |
-| A2 | Take My Hand |
-| A3 | Accident At A Harvest Festival |
-| A4 | A Song For Rosie |
-| A5 | So Low |
-| A6 | Look In My Book |
-| A7 | The Pheasant |
-| B1 | Woman |
-| B2 | The Badger's Wake |
-| B3 | Rain Came Down |
-| B4 | From The Manger To The Mortuary / Recorder Dance |
-| B5 | Into The Sky |
-| B6 | Roosting Time |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -60,4 +60,4 @@ styles: []
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP251 |
 | Notes | Recorded between 2009 and 2010 on Jacobs Island, Shad Thames, London.    Some copies printed on reverse board with matte varnish, others printed on regular board with matte varnish |
-| Discogs URL    | [Matt Berry - Witchazel](https://www.discogs.com/release/2797660-Matt-Berry-3-Witchazel) |
+| Discogs URL    | [Matt Berry (3) - Witchazel](https://www.discogs.com/release/2797660-Matt-Berry-3-Witchazel) |

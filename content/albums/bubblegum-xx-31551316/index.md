@@ -35,21 +35,21 @@ styles: ["Alternative Rock", "Folk Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | When Your Number Isn't Up |
-| A2 | Hit The City |
-| A3 | Wedding Dress |
-| A4 | Methamphetamine Blues |
-| B1 | One Hundred Days |
-| B2 | Bombed |
-| B3 | Strange Religion |
-| B4 | Sideways In Reverse |
-| C1 | Come To Me |
-| C2 | Like Little Willie John |
-| C3 | Can't Come Down |
-| D1 | Morning Glory Wine |
-| D2 | Head |
-| D3 | Driving Death Valley Blues |
-| D4 | Out Of Nowhere |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

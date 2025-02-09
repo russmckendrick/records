@@ -1,6 +1,6 @@
 ---
-title: "Tennis - Pollen"
-artist_name: "Tennis"
+title: "Tennis (6) - Pollen"
+artist_name: "Tennis (6)"
 artist: "tennis"
 album_name: "Pollen"
 date: 2024-05-20T08:33:23.000000Z
@@ -10,8 +10,8 @@ slug: "pollen-26049697"
 hideSummary: true
 cover:
     image: "pollen-26049697.jpg"
-    alt: "Pollen by Tennis"
-    caption: "Pollen by Tennis"
+    alt: "Pollen by Tennis (6)"
+    caption: "Pollen by Tennis (6)"
 additional_images:
     - "https://i.discogs.com/z0pJv3C5BqjXAI8DC3V4aWI2XcxwPINq74B9dfde9WE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQ5/Njk3LTE2NzU5OTQ2/NzAtNzIwNi5qcGVn.jpeg"
     - "https://i.discogs.com/-gIXP0okm2RPKtMefomKJiXlvKoeHbltA_j9vr3iE2k/rs:fit/g:sm/q:90/h:433/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDQ5/Njk3LTE2NzU5OTM3/MDUtOTMyNy5qcGVn.jpeg"
@@ -34,16 +34,16 @@ Pollen is the sixth studio album by the musical duo Tennis, released via their o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Forbidden Doors |
-| A2 | Glorietta |
-| A3 | Let's Make A Mistake Tonight |
-| A4 | One Night With The Valet |
-| A5 | Pollen Song |
-| B1 | Hotel Valet |
-| B2 | Paper |
-| B3 | Gibraltar |
-| B4 | Never Been Wrong |
-| B5 | Pillow For A Cloud |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -62,4 +62,4 @@ Pollen is the sixth studio album by the musical duo Tennis, released via their o
 | Label          | Mutually Detrimental |
 | Catalog Number | MD008LP |
 | Notes | Comes in sleeve with foil text and printed inner.  Hype-sticker on shrink with barcode.  Lossless lacquer cut by Sterling Sound Exclusive Pollen-Colored Vinyl |
-| Discogs URL    | [Tennis - Pollen](https://www.discogs.com/release/26049697-Tennis-6-Pollen) |
+| Discogs URL    | [Tennis (6) - Pollen](https://www.discogs.com/release/26049697-Tennis-6-Pollen) |

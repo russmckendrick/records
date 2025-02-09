@@ -38,18 +38,18 @@ The album gradually achieved critical praise and a cult following, and has since
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Care Of Cell 44 |
-| A2 | A Rose For Emily |
-| A3 | Maybe After He's Gone |
-| A4 | Beechwood Park |
-| A5 | Brief Candles |
-| A6 | Hung Up On A Dream |
-| B1 | Changes |
-| B2 | I Want Her She Wants Me |
-| B3 | This Will Be Our Year |
-| B4 | Butcher's Tale (Western Front 1914) |
-| B5 | Friends Of Mine |
-| B6 | Time Of The Season |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -34,14 +34,14 @@ Viscerals is the third studio album by British heavy metal band Pigs Pigs Pigs P
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Reducer |
-| A2 | Rubbernecker |
-| A3 | New Body |
-| A4 | Blood And Butter |
-| B1 | World Crust |
-| B2 | Crazy In Blood |
-| B3 | Halloween Bolson |
-| B4 | Hell's Teeth |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

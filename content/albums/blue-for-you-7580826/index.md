@@ -39,15 +39,15 @@ In December that year the band decided to release a cover of "Wild Side of Life"
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Is There A Better Way |
-| A2 | Mad About The Boy |
-| A3 | Ring Of A Change |
-| A4 | Blue For You |
-| A5 | Rain |
-| B1 | Rolling Home |
-| B2 | That's A Fact |
-| B3 | Ease Your Mind |
-| B4 | Mystery Song |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -38,48 +38,48 @@ styles: ["Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Oxygene Trilogy |
-| CD1-1 | Oxygene (Part 1) |
-| CD1-2 | Oxygene (Part 2) |
-| CD1-3 | Oxygene (Part 3) |
-| CD1-4 | Oxygene (Part 4) |
-| CD1-5 | Oxygene (Part 5) |
-| CD1-6 | Oxygene (Part 6) |
-| CD2-1 | Oxygene (Part 7) |
-| CD2-2 | Oxygene (Part 8) |
-| CD2-3 | Oxygene (Part 9) |
-| CD2-4 | Oxygene (Part 10) |
-| CD2-5 | Oxygene (Part 11) |
-| CD2-6 | Oxygene (Part 12) |
-| CD2-7 | Oxygene (Part 13) |
-| CD3-1 | Oxygene (Part 14) |
-| CD3-2 | Oxygene (Part 15) |
-| CD3-3 | Oxygene (Part 16) |
-| CD3-4 | Oxygene (Part 17) |
-| CD3-5 | Oxygene (Part 18) |
-| CD3-6 | Oxygene (Part 19) |
-| CD3-7 | Oxygene (Part 20) |
-|  | Oxygene Trilogy |
-| A1 | Oxygene (Part 1) |
-| A2 | Oxygene (Part 2) |
-| A3 | Oxygene (Part 3) |
-| B1 | Oxygene (Part 4) |
-| B2 | Oxygene (Part 5) |
-| B3 | Oxygene (Part 6) |
-| C1 | Oxygene (Part 7) |
-| C2 | Oxygene (Part 8) |
-| C3 | Oxygene (Part 9) |
-| D1 | Oxygene (Part 10) |
-| D2 | Oxygene (Part 11) |
-| D3 | Oxygene (Part 12) |
-| D4 | Oxygene (Part 13) |
-| E1 | Oxygene (Part 14) |
-| E2 | Oxygene (Part 15) |
-| E3 | Oxygene (Part 16) |
-| F1 | Oxygene (Part 17) |
-| F2 | Oxygene (Part 18) |
-| F3 | Oxygene (Part 19) |
-| F4 | Oxygene (Part 20) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -43,16 +43,16 @@ As successful as the album became, it also established Steely Dan as a kind of c
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Do It Again |
-| A2 | Dirty Work |
-| A3 | Kings |
-| A4 | Midnite Cruiser |
-| A5 | Only A Fool Would Say That |
-| B1 | Reelin' In The Years |
-| B2 | Fire In The Hole |
-| B3 | Brooklyn (Owes The Charmer Under Me) |
-| B4 | Change Of The Guard |
-| B5 | Turn That Heartbeat Over Again |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

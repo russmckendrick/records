@@ -1,7 +1,7 @@
 ---
-title: "REM - In Time: The Best Of R.E.M. 1988-2003"
-artist_name: "REM"
-artist: "rem"
+title: "R.E.M. - In Time: The Best Of R.E.M. 1988-2003"
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "In Time: The Best Of R.E.M. 1988-2003"
 date: 2019-06-15T14:33:49.000000Z
 release_date: "2003-01-01"
@@ -10,8 +10,8 @@ slug: "in-time-the-best-of-r-e-m-1988-2003-13640264"
 hideSummary: true
 cover:
     image: "in-time-the-best-of-r-e-m-1988-2003-13640264.jpg"
-    alt: "In Time: The Best Of R.E.M. 1988-2003 by REM"
-    caption: "In Time: The Best Of R.E.M. 1988-2003 by REM"
+    alt: "In Time: The Best Of R.E.M. 1988-2003 by R.E.M."
+    caption: "In Time: The Best Of R.E.M. 1988-2003 by R.E.M."
 additional_images:
     - "https://i.discogs.com/ferPZS29ThYYUYXPe0k5pvR8uylXKSM3LuQGO8Ri5EQ/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQw/MjY0LTE1NTk5MjAy/MDgtOTEwMi5qcGVn.jpeg"
     - "https://i.discogs.com/8fgQr1YXAMQgP9DgpzmtYDom2DPL9cF8VKbETj_lVHA/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjQw/MjY0LTE1NjE0OTEw/MjAtMjgyMy5qcGVn.jpeg"
@@ -38,24 +38,24 @@ styles: ["Alternative Rock", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Man On The Moon |
-| A2 | The Great Beyond |
-| A3 | Bad Day |
-| A4 | What's The Frequency, Kenneth? |
-| B1 | All The Way To Reno |
-| B2 | Losing My Religion |
-| B3 | E-Bow The Letter |
-| B4 | Orange Crush |
-| B5 | Imitation Of Life |
-| C1 | Daysleeper |
-| C2 | Animal |
-| C3 | The Sidewinder Sleeps Tonite |
-| C4 | Stand |
-| C5 | Electrolite |
-| D1 | All The Right Friends |
-| D2 | Everybody Hurts |
-| D3 | At My Most Beautiful |
-| D4 | Nightswimming |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -73,4 +73,4 @@ styles: ["Alternative Rock", "Pop Rock"]
 | Label          | Craft Recordings |
 | Catalog Number | 00888072095274 |
 | Notes | 180g  Gatefold sleeve.  Made in the EU.  Exclusive retailers in Germany: Media Markt & Saturn Exclusive retailers in UK: HMV & Fopp Exclusive retailer in Italy La Feltrinelli Exclusive retailer in Australia: JB Hi-Fi |
-| Discogs URL    | [REM - In Time: The Best Of R.E.M. 1988-2003](https://www.discogs.com/release/13640264-REM-In-Time-The-Best-Of-REM-1988-2003) |
+| Discogs URL    | [R.E.M. - In Time: The Best Of R.E.M. 1988-2003](https://www.discogs.com/release/13640264-REM-In-Time-The-Best-Of-REM-1988-2003) |

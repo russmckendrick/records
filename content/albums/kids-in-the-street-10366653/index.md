@@ -31,18 +31,18 @@ A Nashville native and Steve Earle’s son, Justin Townes Earle cut his teeth on
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Champagne Corolla |
-| A2 | Maybe A Moment |
-| A3 | What's She Crying For |
-| A4 | 15 - 25 |
-| A5 | Kids In The Street |
-| A6 | Faded Valentine |
-| B1 | What's Goin' Wrong |
-| B2 | Short Hair Woman |
-| B3 | Same Old Stagolee |
-| B4 | If I Was The Devil |
-| B5 | Trouble Is |
-| B6 | There Go A Fool |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

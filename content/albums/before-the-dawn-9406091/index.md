@@ -54,30 +54,30 @@ Before the Dawn is the second live album by the English singer-songwriter Kate B
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Act I |
-| A1 | Lily |
-| A2 | Hounds Of Love |
-| A3 | Joanni |
-| A4  | Top Of The City |
-| B1 | Never Be Mine |
-| B2 | Running Up That Hill |
-| B3 | King Of The Mountain |
-|  | Act II |
-|  | The Ninth Wave |
-|  | Act III (Part I) |
-| E1 | Prelude |
-| E2 | Prologue |
-| E3 | An Architect's Dream |
-| E4 | The Painter's Link |
-| F1 | Sunset |
-| F2 | Aerial Tal |
-| F3 | Somewhere In Between |
-| F4 | Tawny Moon |
-|  | Act III (Part II) |
-| G1 | Nocturn |
-| G2 | Aerial |
-| H1 | Among Angels |
-| H2 | Cloudbusting |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

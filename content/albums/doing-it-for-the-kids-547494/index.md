@@ -30,21 +30,21 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Cut Me Deep |
-| A2 | Ballad Of The Band |
-| A3 | Christine |
-| A4 | Well Done Sonny |
-| A5 | All Fall Down |
-| A6 | She Paints |
-| A7 | Lot 49 |
-| B1 | North Shore Train |
-| B2 | Death Is Hanging Over Me |
-| B3 | Cigarette In My Bed |
-| B4 | Jetstream |
-| B5 | Godevil |
-| B6 | A Complete History Of Sexual Jealousy (Parts 17-24) |
-| B7 | Reflect On Rye |
-| B8 | Brighter Now |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

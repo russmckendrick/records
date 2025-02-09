@@ -1,6 +1,6 @@
 ---
-title: "Sharon Jones  The Dap-Kings - Soul Of A Woman"
-artist_name: "Sharon Jones  The Dap-Kings"
+title: "Sharon Jones & The Dap-Kings - Soul Of A Woman"
+artist_name: "Sharon Jones & The Dap-Kings"
 artist: "sharon-jones-the-dap-kings"
 album_name: "Soul Of A Woman"
 date: 2017-11-18T09:00:48.000000Z
@@ -10,8 +10,8 @@ slug: "soul-of-a-woman-11143584"
 hideSummary: true
 cover:
     image: "soul-of-a-woman-11143584.jpg"
-    alt: "Soul Of A Woman by Sharon Jones  The Dap-Kings"
-    caption: "Soul Of A Woman by Sharon Jones  The Dap-Kings"
+    alt: "Soul Of A Woman by Sharon Jones & The Dap-Kings"
+    caption: "Soul Of A Woman by Sharon Jones & The Dap-Kings"
 additional_images:
     - "https://i.discogs.com/50hjNiYTIY-tR_EQgtytPUHW-8stw-SyanLPqTWs4W0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQz/NTg0LTE1MTA2NTg0/MjMtMjc4NS5qcGVn.jpeg"
     - "https://i.discogs.com/0j6DMtXxFCarsmRv4-EWWZ5sltKr0orgGpq1YBCm06g/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTQz/NTg0LTE1MzU1NDk2/NzAtNTYxNy5qcGVn.jpeg"
@@ -30,17 +30,17 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Matter Of Time |
-| A2 | Sail On! |
-| A3 | Just Give Me Your Time |
-| A4 | Come And Be A Winner |
-| A5 | Rumors |
-| A6 | Pass Me By |
-| B1 | Searching For A New Day |
-| B2 | These Tears (No Longer For You) |
-| B3 | When I Saw Your Face |
-| B4 | Girl! (You Got To Forgive Him) |
-| B5 | Call On God |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -58,4 +58,4 @@ styles: []
 | Label          | Daptone Records |
 | Catalog Number | DAP-050 |
 | Notes | Red vinyl variant only available in independent record shops.  Includes mp3 download card. |
-| Discogs URL    | [Sharon Jones  The Dap-Kings - Soul Of A Woman](https://www.discogs.com/release/11143584-Sharon-Jones-The-Dap-Kings-Soul-Of-A-Woman) |
+| Discogs URL    | [Sharon Jones & The Dap-Kings - Soul Of A Woman](https://www.discogs.com/release/11143584-Sharon-Jones-The-Dap-Kings-Soul-Of-A-Woman) |

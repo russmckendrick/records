@@ -30,9 +30,9 @@ styles: ["Downtempo", "Abstract", "Psychedelic Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The World Is Full Of Plankton |
-| B1 | All Is Harvest |
-| B2 | The Emptiness Of Nothingness |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

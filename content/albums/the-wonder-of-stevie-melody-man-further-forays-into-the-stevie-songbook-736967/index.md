@@ -26,16 +26,16 @@ styles: ["Soul", "Funk", "Disco"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Perfect Angel |
-| A2 | It's A Shame |
-| A3 | Let's Get Serious |
-| B1 | Bring Your Sweet Stuff Home To Me |
-| B2 | Melody Man |
-| B3 | Signed, Sealed, Delivered |
-| C1 | Betcha Wouldn't Hurt Me |
-| C2 | Loving You Is Sweeter Than Ever |
-| C3 | Tears Of A Clown |
-| D1 | Too High |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

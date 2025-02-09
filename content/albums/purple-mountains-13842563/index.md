@@ -35,16 +35,16 @@ The project's name is derived from "Purple mountains majesty", a common mondegre
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | That's Just The Way That I Feel |
-| A2 | All My Happiness Is Gone |
-| A3 | Darkness And Cold |
-| A4 | Snow Is Falling In Manhattan |
-| A5 | Margaritas At The Mall |
-| B1 | She's Making Friends, I'm Turning Stranger |
-| B2 | I Loved Being My Mother's Son |
-| B3 | Nights That Won't Happen |
-| B4 | Storyline Fever |
-| B5 | Maybe I'm The Only One For Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

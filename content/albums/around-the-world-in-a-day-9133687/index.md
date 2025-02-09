@@ -39,15 +39,15 @@ But sex (“Tamborine”), politics (“America”) and religion (“The Ladder�
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Around The World In  A Day |
-| A2 | Paisley Park |
-| A3 | Condition Of The Heart |
-| A4 | Raspberry Beret |
-| A5 | Tamborine |
-| B1 | America |
-| B2 | Pop Life |
-| B3 | The Ladder |
-| B4 | Temptation |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

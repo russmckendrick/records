@@ -35,21 +35,21 @@ styles: ["Blues Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Muddy Water Blues (Acoustic Version) |
-| A2 | Louisiana Blues |
-| A3 | I Can't Be Satisfied |
-| A4 | Rollin' Stone |
-| B1 | Good Morning Little School Girl (Part 1) |
-| B2 | I'm Your Hoochie Coochie Man |
-| B3 | She's Alright |
-| C1 | Standing Around Crying |
-| C2 | The Hunter |
-| C3 | She Moves Me |
-| C4 | I'm Ready |
-| D1 | I Just Want to Make Love to You |
-| D2 | Born Under a Bad Sign |
-| D3 | Good Morning Little School Girl (Part 2) |
-| D4 | Muddy Water Blues (Electric Version) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

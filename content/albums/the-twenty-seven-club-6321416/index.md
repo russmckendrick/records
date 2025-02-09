@@ -1,6 +1,6 @@
 ---
-title: "Magenta - The Twenty Seven Club"
-artist_name: "Magenta"
+title: "Magenta (10) - The Twenty Seven Club"
+artist_name: "Magenta (10)"
 artist: "magenta"
 album_name: "The Twenty Seven Club"
 date: 2017-08-06T11:02:43.000000Z
@@ -10,8 +10,8 @@ slug: "the-twenty-seven-club-6321416"
 hideSummary: true
 cover:
     image: "the-twenty-seven-club-6321416.jpg"
-    alt: "The Twenty Seven Club by Magenta"
-    caption: "The Twenty Seven Club by Magenta"
+    alt: "The Twenty Seven Club by Magenta (10)"
+    caption: "The Twenty Seven Club by Magenta (10)"
 additional_images:
     - "https://i.discogs.com/sjpkFVuPgV87gY-ZJGkIhVbhtRvSkNuenyHgg4seCcY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjE0/MTYtMTQ5MDAwOTIx/MS0xMzkzLmpwZWc.jpeg"
     - "https://i.discogs.com/tAyjaNxIRn5x8-GizUUbkQPpWEExYnKDo8NiUn7_oZI/rs:fit/g:sm/q:90/h:288/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMjE0/MTYtMTQ1NTc1MTc5/NC01NDYwLmpwZWc.jpeg"
@@ -43,12 +43,12 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Lizard King |
-| B1 | Ladyland Blues |
-| B2 | Pearl |
-| C1 | Stoned |
-| C2 | The Gift |
-| D1 | The Devil At The Crossroads |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -66,4 +66,4 @@ styles: ["Prog Rock", "Symphonic Rock"]
 | Label          | Plane Groovy |
 | Catalog Number | PLG018 |
 | Notes | Packaged in a gatefold cover with color printed inner LP sleeves.  Limited edition of 500 copies. |
-| Discogs URL    | [Magenta - The Twenty Seven Club](https://www.discogs.com/release/6321416-Magenta-10-The-Twenty-Seven-Club) |
+| Discogs URL    | [Magenta (10) - The Twenty Seven Club](https://www.discogs.com/release/6321416-Magenta-10-The-Twenty-Seven-Club) |

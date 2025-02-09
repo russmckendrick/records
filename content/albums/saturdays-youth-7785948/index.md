@@ -26,17 +26,17 @@ styles: ["Shoegaze", "Ambient", "Dream Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | You, Appearing |
-| A2 | Kim & Jessie |
-| A3 | Skin Of The Night |
-| B4 | Graveyard Girl |
-| B5 | Couleurs |
-| B6 | Up! |
-| C7 | We Own The Sky |
-| C8 | Highway Of Endless Dreams |
-| C9 | Too Late |
-| D10 | Dark Moves Of Love |
-| D11 | Midnight Souls Still Remain |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

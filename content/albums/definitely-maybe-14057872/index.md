@@ -1,6 +1,6 @@
 ---
-title: "Oasis - Definitely Maybe"
-artist_name: "Oasis"
+title: "Oasis (2) - Definitely Maybe"
+artist_name: "Oasis (2)"
 artist: "oasis"
 album_name: "Definitely Maybe"
 date: 2019-08-30T15:24:35.000000Z
@@ -10,8 +10,8 @@ slug: "definitely-maybe-14057872"
 hideSummary: true
 cover:
     image: "definitely-maybe-14057872.jpg"
-    alt: "Definitely Maybe by Oasis"
-    caption: "Definitely Maybe by Oasis"
+    alt: "Definitely Maybe by Oasis (2)"
+    caption: "Definitely Maybe by Oasis (2)"
 additional_images:
     - "https://i.discogs.com/MFA-iTT_rcEMfN2hDvsYpAbFiOfLRKV5ZKfArDlmLHc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU3/ODcyLTE1NjcyNDMw/MDktNDAyMi5qcGVn.jpeg"
     - "https://i.discogs.com/VNYmJjUNKsZBbcgFBV4b1klIE50zUrijfscGUt56184/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDU3/ODcyLTE1NjcyNDMw/MDktNTg4OC5qcGVn.jpeg"
@@ -46,18 +46,18 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Rock 'n' Roll Star |
-| A2 | Shakermaker |
-| A3 | Live Forever |
-| B1 | Up In The Sky |
-| B2 | Columbia |
-| B3 | Sad Song |
-| C1 | Supersonic |
-| C2 | Bring It On Down |
-| C3 | Cigarettes & Alcohol |
-| D1 | Digsy's Dinner |
-| D2 | Slide Away |
-| D3 | Married With Children |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -76,4 +76,4 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 | Label          | Big Brother |
 | Catalog Number | RKIDLP70C |
 | Notes | Limited 25th Anniversary Edition on heavyweight silver vinyl. Gatefold sleeve. |
-| Discogs URL    | [Oasis - Definitely Maybe](https://www.discogs.com/release/14057872-Oasis-2-Definitely-Maybe) |
+| Discogs URL    | [Oasis (2) - Definitely Maybe](https://www.discogs.com/release/14057872-Oasis-2-Definitely-Maybe) |

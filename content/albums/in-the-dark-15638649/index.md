@@ -1,6 +1,6 @@
 ---
-title: "Toots  The Maytals - In The Dark"
-artist_name: "Toots  The Maytals"
+title: "Toots & The Maytals - In The Dark"
+artist_name: "Toots & The Maytals"
 artist: "toots-the-maytals"
 album_name: "In The Dark"
 date: 2020-07-25T12:33:09.000000Z
@@ -10,8 +10,8 @@ slug: "in-the-dark-15638649"
 hideSummary: true
 cover:
     image: "in-the-dark-15638649.jpg"
-    alt: "In The Dark by Toots  The Maytals"
-    caption: "In The Dark by Toots  The Maytals"
+    alt: "In The Dark by Toots & The Maytals"
+    caption: "In The Dark by Toots & The Maytals"
 additional_images:
     - "https://i.discogs.com/f8tFGYlT_ryGLAE1sDBveVuztOs7zD0ix10-M9v3ITQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM4/NjQ5LTE1OTUwMTI5/MjEtNTU0OS5qcGVn.jpeg"
 genres: ["Reggae"]
@@ -29,18 +29,18 @@ In the Dark is the second international album release by the reggae singing grou
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Got To Be There |
-| A2 | In The Dark |
-| A3 | Having A Party |
-| A4 | Time Tough |
-| A5 | I See You |
-| A6 | Take A Look In The Mirror |
-| B1 | Take Me Home Country Roads |
-| B2 | Fever |
-| B3 | Love Gonna Walk Out On Me |
-| B4 | Revolution |
-| B5 | 54-36 |
-| B6 | Sailing On |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -59,4 +59,4 @@ In the Dark is the second international album release by the reggae singing grou
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP2325 |
 | Notes |      |
-| Discogs URL    | [Toots  The Maytals - In The Dark](https://www.discogs.com/release/15638649-Toots-And-The-Maytals-In-The-Dark) |
+| Discogs URL    | [Toots & The Maytals - In The Dark](https://www.discogs.com/release/15638649-Toots-And-The-Maytals-In-The-Dark) |

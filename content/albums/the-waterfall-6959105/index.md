@@ -35,26 +35,26 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Believe (Nobody Knows) |
-| A2 | Compound Fracture |
-| A3 | Like A River |
-| B1 | In Its Infancy (The Waterfall) |
-| B2 | Get The Point |
-| C1 | Spring (Among The Living) |
-| C2 | Thin Line |
-| C3 | Big Decisions |
-| D1 | Tropics (Erase Traces) |
-| D2 | Only Memories Remain |
-| 1 | Believe (Nobody Knows) |
-| 2 | Compound Fracture |
-| 3 | Like A River |
-| 4 | In Its Infancy (The Waterfall) |
-| 5 | Get The Point |
-| 6 | Spring (Among The Living) |
-| 7 | Thin Line |
-| 8 | Big Decisions |
-| 9 | Tropics (Erase Traces) |
-| 10 | Only Memories Remain |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

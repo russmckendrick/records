@@ -32,15 +32,15 @@ The Big Area is the second album by English rock band Then Jerico, released in 1
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Big Area |
-| A2 | What Does It Take? |
-| A3 | You Ought To Know |
-| A4 | Song For The Brokenhearted |
-| A5 | Darkest Hour |
-| B1 | Reeling |
-| B2 | Where You Lie |
-| B3 | Sugar Box |
-| B4 | Helpless |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

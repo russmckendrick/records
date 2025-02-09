@@ -34,17 +34,17 @@ styles: ["Lo-Fi", "Downtempo", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | He's Simple He's Dumb He's The Pilot |
-| A2 | Hewlett's Daughter |
-| A3 | Jed The Humanoid |
-| A4 | The Crystal Lake |
-| A5 | Chartsengrafs |
-| B1 | Underneath The Weeping Willow |
-| B2 | Broken Household Appliance National Forest |
-| B3 | Jed's Other Poem (Beautiful Ground) |
-| B4 | E. Knievel Interlude (The Perils Of Keeping It Real) |
-| B5 | Miner At The Dial-A-View |
-| B6 | So You'll Aim Toward The Sky |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

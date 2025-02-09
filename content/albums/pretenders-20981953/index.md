@@ -37,18 +37,18 @@ Nick Lowe produced the Pretenders' first single, "Stop Your Sobbing", but decide
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Precious |
-| A2 | The Phone Call |
-| A3 | Up The Neck |
-| A4 | Tattooed Love Boys |
-| A5 | Space Invader |
-| A6 | The Wait |
-| A7 | Stop Your Sobbing |
-| B1 | Kid |
-| B2 | Private Life |
-| B3 | Brass In Pocket |
-| B4 | Lovers Of Today |
-| B5 | Mystery Achievement |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

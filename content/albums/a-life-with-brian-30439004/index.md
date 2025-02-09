@@ -31,18 +31,18 @@ styles: ["Leftfield", "Indie Rock", "Acid House"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Sunshine |
-| A2 | Take It |
-| A3 | Crackerjack |
-| A4 | Mr Happy Reveller |
-| A5 | Hysterically Blue |
-| B1 | It's On |
-| B2 | Silver Pan |
-| B3 | Phobia |
-| B4 | Egg Rush |
-| B5 | Doris... Is A Little Bit Partial |
-| C | Weekender |
-| D | Weatherall's Weekender (Audrey Is A Little Bit Partial mix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

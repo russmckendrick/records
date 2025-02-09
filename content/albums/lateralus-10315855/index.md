@@ -1,6 +1,6 @@
 ---
-title: "Tool - Lateralus"
-artist_name: "Tool"
+title: "Tool (2) - Lateralus"
+artist_name: "Tool (2)"
 artist: "tool"
 album_name: "Lateralus"
 date: 2017-07-02T11:13:45.000000Z
@@ -10,8 +10,8 @@ slug: "lateralus-10315855"
 hideSummary: true
 cover:
     image: "lateralus-10315855.jpg"
-    alt: "Lateralus by Tool"
-    caption: "Lateralus by Tool"
+    alt: "Lateralus by Tool (2)"
+    caption: "Lateralus by Tool (2)"
 additional_images:
     - "https://i.discogs.com/h3fEYWYNr4OBgbV_TdBOUm9B1LBJX1kHYWbgMK84910/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/ODU1LTE0OTUxOTk4/NjItOTIyNS5qcGVn.jpeg"
     - "https://i.discogs.com/bzKxrygjRHsJtKoLtu4EwDgqlUJy2pwW_hvEUFxpVz0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzE1/ODU1LTE0OTUxOTk4/NzQtMjIwOC5qcGVn.jpeg"
@@ -41,19 +41,19 @@ The album debuted at No. 1 on the Billboard 200 chart, selling more than 555,200
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Grudge |
-| A2 | Eon Blue Apocalypse |
-| A3 | The Patient |
-| A4 | Mantra |
-| B1 | Schism |
-| B2 | Parabol |
-| B3 | Parabola |
-| B4 | Disposition |
-| C1 | Ticks & Leeches |
-| C2 | Lateralus |
-| D1 | Reflection |
-| D2 | Triad |
-| D3 | Faaip De Oiad |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -72,4 +72,4 @@ The album debuted at No. 1 on the Billboard 200 chart, selling more than 555,200
 | Label          | Zomba |
 | Catalog Number | 0614223116013 |
 | Notes | "2x Full Color Picture Disc" sticker on front.  Holographic image surrounding covers |
-| Discogs URL    | [Tool - Lateralus](https://www.discogs.com/release/10315855-Tool-2-Lateralus) |
+| Discogs URL    | [Tool (2) - Lateralus](https://www.discogs.com/release/10315855-Tool-2-Lateralus) |

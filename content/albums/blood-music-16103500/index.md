@@ -27,18 +27,18 @@ Blood Music is the second and final studio album by British shoegaze band Chapte
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Don't Look Now |
-| A2 | There's Still Life |
-| A3 | We Are The Beautiful |
-| A4 | Summer's Gone |
-| B1 | Everytime |
-| B2 | Deli |
-| B3 | On The Way To Fly |
-| C1 | She's A Vision |
-| C2 | Greater Power |
-| C3 | Confusion Trip |
-| C4 | Love Forever |
-| D | Picnic |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

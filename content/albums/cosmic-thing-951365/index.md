@@ -1,7 +1,7 @@
 ---
-title: "The B-52s - Cosmic Thing"
-artist_name: "The B-52s"
-artist: "the-b-52s"
+title: "The B-52's - Cosmic Thing"
+artist_name: "The B-52's"
+artist: "the-b-52-s"
 album_name: "Cosmic Thing"
 date: 2016-01-15T18:22:32.000000Z
 release_date: "1989-06-27"
@@ -10,8 +10,8 @@ slug: "cosmic-thing-951365"
 hideSummary: true
 cover:
     image: "cosmic-thing-951365.jpg"
-    alt: "Cosmic Thing by The B-52s"
-    caption: "Cosmic Thing by The B-52s"
+    alt: "Cosmic Thing by The B-52's"
+    caption: "Cosmic Thing by The B-52's"
 additional_images:
     - "https://i.discogs.com/ec72UXr1QhDrPSzcosV29xhxhn8vRVAUaa8IKB8EsZk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MTM2/NS0xMjM2ODc2MzE2/LmpwZWc.jpeg"
     - "https://i.discogs.com/kgkP8JLjP3QGYfAFtq3qpAVO9_pPVLAKt1BK71H3qSE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MTM2/NS0xMzI4MzQ3OTA4/LmpwZWc.jpeg"
@@ -37,16 +37,16 @@ Cosmic Thing was the ninth best-selling album of 1990 in the US, peaking at No. 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Cosmic Thing |
-| A2 | Dry County |
-| A3 | Deadbeat Club |
-| A4 | Love Shack |
-| A5 | Junebug |
-| B1 | Roam |
-| B2 | Bushfire |
-| B3 | Channel Z |
-| B4 | Topaz |
-| B5 | Follow Your Bliss |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -65,4 +65,4 @@ Cosmic Thing was the ninth best-selling album of 1990 in the US, peaking at No. 
 | Label          | Reprise Records |
 | Catalog Number | 925 854-1 |
 | Notes | All Nile Rodgers cuts recorded digitally and mixed analog. All Don Was tracks recorded and mixed analog.  All songs published by Man Woman Together Now! BMI Administered by Irving Music except B1 published by Man Woman Together Now! Administered by Irving Music BMI (copyright control) All songs are copyright © 1989 ℗ 1989 Reprise Records for the U.S. & WEA International Inc. for the world outside of the U.S.  ℗ 1989 Reprise Records © 1989 Reprise Records Manufactured in Germany · Pressé en Allemagne TELDEC Record Service GmbH [logo] A Warner Communications Company  Polylined printed inner sleeve with lyrics, credits and band photography.  Runouts are stamped except for the last numbers and letters, which are etched. |
-| Discogs URL    | [The B-52s - Cosmic Thing](https://www.discogs.com/release/951365-The-B-52s-Cosmic-Thing) |
+| Discogs URL    | [The B-52's - Cosmic Thing](https://www.discogs.com/release/951365-The-B-52s-Cosmic-Thing) |

@@ -29,8 +29,8 @@ styles: ["Soul", "Disco"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | It's Called The Rock |
-| B | Patiently |
+|  |  |
+|  |  |
 
 
 ## Apple Music

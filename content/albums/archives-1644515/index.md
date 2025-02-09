@@ -37,30 +37,30 @@ styles: ["Hard Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Rush |
-| A1 | Finding My Way |
-| A2 | Need Some Love |
-| A3 | Take A Friend |
-| A4 | Here Again |
-| B1 | What You're Doing |
-| B2 | In The Mood |
-| B3 | Before And After |
-| B4 | Working Man |
-|  | Fly By Night |
-| C1 | Anthem |
-| C2 | Best I Can |
-| C3 | Beneath, Between And Behind |
-|  | By-Tor And The Snow Dog |
-| D1 | Fly By Night |
-| D2 | Making Memories |
-| D3 | Rivendell |
-| D4 | In The End |
-|  | Caress Of Steel |
-| E1 | Bastille Day |
-| E2 | I Think I'm Going Bald |
-| E3 | Lakeside Park |
-|  | The Necromancer |
-|  | The Fountain Of Lamneth |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -30,17 +30,17 @@ Propaganda is the fourth studio album by American rock band Sparks, released on 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Propaganda |
-| A2 | At Home, At Work, At Play |
-| A3 | Reinforcements |
-| A4 | B.C. |
-| A5 | Thanks But No Thanks |
-| A6 | Don't Leave Me Alone With Her |
-| B1 | Never Turn Your Back On Mother Earth |
-| B2 | Something For The Girl With Everything |
-| B3 | Achoo |
-| B4 | Who Don't Like Kids |
-| B5 | Bon Voyage |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

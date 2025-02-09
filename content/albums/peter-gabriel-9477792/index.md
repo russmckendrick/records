@@ -42,17 +42,17 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | On The Air |
-| A2 | D.I.Y. |
-| A3 | Mother Of Violence |
-| A4 | A Wonderful Day In A One-Way-World |
-| A5 | White Shadow |
-| B1 | Indigo |
-| B2 | Animal Magic |
-| B3 | Exposure |
-| B4 | Flotsam And Jetsam |
-| B5 | Perspective |
-| B6 | Home Sweet Home |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

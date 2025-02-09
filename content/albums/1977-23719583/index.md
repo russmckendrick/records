@@ -40,18 +40,18 @@ Preceded by the album's fourth single "Goldfinger" in April 1996, the band embar
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Lose Control |
-| A2 | Goldfinger |
-| A3 | Girl From Mars |
-| A4 | I'd Give You Anything |
-| A5 | Gone The Dream |
-| A6 | Kung Fu |
-| B7 | Oh Yeah |
-| B8 | Let It Flow |
-| B9 | Innocent Smile |
-| B10 | Angel Interceptor |
-| B11 | Lost In You |
-| B12 | Darkside Lightside |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

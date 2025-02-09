@@ -43,17 +43,17 @@ Mezzanine received significant critical acclaim, with many praising the group’
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Angel |
-| A2 | Risingson  |
-| A3 | Teardrop  |
-| B1 | Inertia Creeps |
-| B2 | Exchange  |
-| B3 | Dissolved Girl  |
-| C1 | Man Next Door |
-| C2 | Black Milk  |
-| C3 | Mezzanine |
-| D1 | Group Four |
-| D2 | (Exchange) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

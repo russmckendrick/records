@@ -32,10 +32,10 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Poison Ivy |
-| A2 | Backseat |
-| B3 | The Book |
-| B4 | Know Yourself |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

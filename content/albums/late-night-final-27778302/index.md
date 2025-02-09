@@ -35,17 +35,17 @@ The album's front cover and inner artwork feature photographs taken in the Castl
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Something Is...! |
-| A2 | Baby You're My Light |
-| A3 | Love Of My Life |
-| A4 | The Nights Are Cold |
-| A5 | Can You Hear The Rain Love |
-| B1 | Lonely Night |
-| B2 | Precious Sight |
-| B3 | No Way Home |
-| B4 | Cry A Tear For The Man In The Moon |
-| B5 | Long Black Train |
-| B6 | The Light At The End Of The Tunnel (Was A Train Coming The Other Way) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

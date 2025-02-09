@@ -47,14 +47,14 @@ The former Sigur Rós keyboardist was instrumental in pulling the ambitious proj
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Prologus |
-| A2 | Alföður Orkar |
-| B1 | Dvergmál |
-| B2 | Stendur Æva |
-| C1 | Áss Hinn Hvíti  |
-| C2 | Hvert Stefnir |
-| D1 | Spár Eða Spakmál |
-| D2 | Dagrenning |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

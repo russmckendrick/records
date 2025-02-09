@@ -1,6 +1,6 @@
 ---
-title: "AVA - Waves"
-artist_name: "AVA"
+title: "AVA (28) - Waves"
+artist_name: "AVA (28)"
 artist: "ava"
 album_name: "Waves"
 date: 2019-07-20T15:40:42.000000Z
@@ -10,8 +10,8 @@ slug: "waves-13867076"
 hideSummary: true
 cover:
     image: "waves-13867076.jpg"
-    alt: "Waves by AVA"
-    caption: "Waves by AVA"
+    alt: "Waves by AVA (28)"
+    caption: "Waves by AVA (28)"
 additional_images:
     - "https://i.discogs.com/eF_jUw5qUnuCrjDtX-z73WR7xk6wqpXEs9PLXz1FJJw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODY3/MDc2LTE1NjI5MDE3/ODgtNDcyMS5qcGVn.jpeg"
     - "https://i.discogs.com/rdgR_Kdt1euKOmxmBE60BDzFAsXCdOZKmCM2TlowHB4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODY3/MDc2LTE3MDM0MTg4/NDUtMzIxNS5qcGVn.jpeg"
@@ -31,16 +31,16 @@ styles: ["Indie Pop", "Neo-Classical"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Waves |
-| A2 | In Motion |
-| A3 | To Be Alone |
-| A4 | Ocean |
-| A5 | Voyager |
-| B1 | Resistance |
-| B2 | Into The Deep |
-| B3 | Deep Blue |
-| B4 | Mulholland |
-| B5 | Underwater |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -58,4 +58,4 @@ styles: ["Indie Pop", "Neo-Classical"]
 | Label          | One Little Indian Records |
 | Catalog Number | TPLP1493 |
 | Notes | Some copies were autographed on back cover by Anna Phoebe and Aisling Browuer.  |
-| Discogs URL    | [AVA - Waves](https://www.discogs.com/release/13867076-AVA-28-Waves) |
+| Discogs URL    | [AVA (28) - Waves](https://www.discogs.com/release/13867076-AVA-28-Waves) |

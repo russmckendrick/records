@@ -30,9 +30,9 @@ styles: ["Ska", "Rocksteady"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A* | Ghost Town |
-| A†1 | Why? |
-| A†2 | Friday Night, Saturday Morning |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

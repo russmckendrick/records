@@ -40,17 +40,17 @@ The former Drive-By Trucker delivers his most diverse album yet in <i>Something 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | If It Takes A Lifetime |
-| A2 | 24 Frames |
-| A3 | Flagship |
-| B4 | How To Forget |
-| B5 | Children Of Children |
-| C6 | The Life You Chose |
-| C7 | Something More Than Free |
-| C8 | Speed Trap Town |
-| D9 | Hudson Commodore |
-| D10 | Palmetto Rose |
-| D11 | To A Band That I Loved |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

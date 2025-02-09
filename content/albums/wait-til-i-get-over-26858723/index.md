@@ -35,18 +35,18 @@ Wait Til I Get Over is the first solo studio album by American musician Durand J
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Gerri Marie |
-| A2 | The Place You'd Most Want To Live (Interlude) |
-| A3 | Lord Have Mercy |
-| A4 | Sadie |
-| A5 | I Want You |
-| A6 | Wait Til I Get Over |
-| A7 | That Feeling |
-| B1 | See It Through (Interlude) |
-| B2 | See It Through  |
-| B3 | Someday We'll All Be Free |
-| B4 | Letter to My 17 Year Old Self |
-| B5 | Secrets |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

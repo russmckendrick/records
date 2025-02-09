@@ -26,16 +26,16 @@ styles: ["Indie Rock", "Post Rock", "Shoegaze"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Bruise Pusher |
-| A2 | Evaporate |
-| A3 | Soveraine |
-| A4 | Glue |
-| A5 | Sword To Shield |
-| B1 | Dust And Bone |
-| B2 | Awake |
-| B3 | In Sunny Landscapes |
-| B4 | Lapsing |
-| B5 | Howling At The Clouds |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

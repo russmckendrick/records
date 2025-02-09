@@ -39,15 +39,15 @@ A critical success, Two Against Nature won the group four Grammy Awards: Album o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Gaslighting Abbie |
-| A2 | What A Shame About Me |
-| A3 | Two Against Nature |
-| B1 | Janie Runaway |
-| B2 | Almost Gothic |
-| B3 | Jack Of Speed |
-| C1 | Cousin Dupree |
-| C2 | Negative Girl |
-| C3 | West Of Hollywood |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

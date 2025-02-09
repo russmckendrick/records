@@ -32,16 +32,16 @@ Cuckoo is the second studio album to be released by the British alternative rock
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Missing Link |
-| A2 | Crystal |
-| A3 | Men Are From Mars Women Are From Venus |
-| A4 | All Of One |
-| A5 | Unreadable Communication |
-| B1 | Turkey Crossing |
-| B2 | Super Blaster |
-| B3 | Left Of Mother |
-| B4 | Sweetest Pie |
-| B5 | Cuckoo |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

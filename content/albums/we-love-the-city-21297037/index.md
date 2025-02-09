@@ -1,6 +1,6 @@
 ---
-title: "Hefner - We Love The City"
-artist_name: "Hefner"
+title: "Hefner (2) - We Love The City"
+artist_name: "Hefner (2)"
 artist: "hefner"
 album_name: "We Love The City"
 date: 2024-03-16T12:57:59.000000Z
@@ -10,8 +10,8 @@ slug: "we-love-the-city-21297037"
 hideSummary: true
 cover:
     image: "we-love-the-city-21297037.jpg"
-    alt: "We Love The City by Hefner"
-    caption: "We Love The City by Hefner"
+    alt: "We Love The City by Hefner (2)"
+    caption: "We Love The City by Hefner (2)"
 additional_images:
     - "https://i.discogs.com/ssQnh9lEyC_C7ccnZ75h7QFpt4hgoADqIliCa5N5kbQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjk3/MDM3LTE2NTIzNDc5/ODctMjUxNS5qcGVn.jpeg"
     - "https://i.discogs.com/XrO6ZSGEF8mGPQFaEYncMD4XIZ-Dj8iR5w7dLqFhQac/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMjk3/MDM3LTE2NTIzNDc5/ODctMTYxNi5qcGVn.jpeg"
@@ -34,18 +34,18 @@ Darren Hayman, lead singer and songwriter, has described We Love the City as his
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | We Love The City |
-| A2 | The Greedy Ugly People |
-| A3 | Good Fruit |
-| A4 | Painting And Kissing |
-| A5 | Hold Me Closer |
-| A6 | Don't Go |
-| B1 | The Greater London Radio |
-| B2 | As Soon As You're Ready |
-| B3 | She Can't Sleep No More |
-| B4 | The Cure For Evil |
-| B5 | The Day That Thatcher Dies |
-| B6 | Your Head To Your Toes |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -64,4 +64,4 @@ Darren Hayman, lead singer and songwriter, has described We Love the City as his
 | Label          | Where It's At Is Where You Are |
 | Catalog Number | wia098lp 2021 |
 | Notes | 20th anniversary vinyl re-issue. Edition of 300.  No copies shrink-wrapped.  Sleeve in an outer poly sleeve with additional barcode on a sticker, unique to this colour pressing. (See photos)  Die-cut black-printed white paper inner sleeve. |
-| Discogs URL    | [Hefner - We Love The City](https://www.discogs.com/release/21297037-Hefner-2-We-Love-The-City) |
+| Discogs URL    | [Hefner (2) - We Love The City](https://www.discogs.com/release/21297037-Hefner-2-We-Love-The-City) |

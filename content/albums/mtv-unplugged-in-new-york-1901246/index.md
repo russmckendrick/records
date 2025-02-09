@@ -38,20 +38,20 @@ For as otherworldly as the final moments and last gasp of Lead Belly’s “Wher
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | About A Girl |
-| A2 | Come As You Are |
-| A3 | Jesus Doesn't Want Me For A Sunbeam |
-| A4 | The Man Who Sold The World |
-| A5 | Pennyroyal Tea |
-| A6 | Dumb |
-| A7 | Polly |
-| B1 | On A Plain |
-| B2 | Something In The Way |
-| B3 | Plateau |
-| B4 | Oh Me |
-| B5 | Lake Of Fire |
-| B6 | All Apologies |
-| B7 | Where Did You Sleep Last Night |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

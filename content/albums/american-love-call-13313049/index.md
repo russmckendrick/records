@@ -1,6 +1,6 @@
 ---
-title: "Durand Jones  The Indications - American Love Call"
-artist_name: "Durand Jones  The Indications"
+title: "Durand Jones & The Indications - American Love Call"
+artist_name: "Durand Jones & The Indications"
 artist: "durand-jones-the-indications"
 album_name: "American Love Call"
 date: 2019-03-11T19:46:04.000000Z
@@ -10,8 +10,8 @@ slug: "american-love-call-13313049"
 hideSummary: true
 cover:
     image: "american-love-call-13313049.jpg"
-    alt: "American Love Call by Durand Jones  The Indications"
-    caption: "American Love Call by Durand Jones  The Indications"
+    alt: "American Love Call by Durand Jones & The Indications"
+    caption: "American Love Call by Durand Jones & The Indications"
 additional_images:
     - "https://i.discogs.com/PNrbKC9NcKSJfcFpQEZs7J1cYBxcUSNPz37kziZIwlw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzEz/MDQ5LTE1NTkyNDE5/MTgtNTA0My5qcGVn.jpeg"
     - "https://i.discogs.com/xyogsWt5RZb-VbxE_tKF2rEZMwQZSgrM7KjxkkiiKLM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzEz/MDQ5LTE1NTIxNzk4/OTEtMTM1Ny5qcGVn.jpeg"
@@ -36,24 +36,24 @@ styles: ["Rhythm & Blues", "Soul"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | American Love Call (LP) |
-| A1 | Morning In America |
-| A2 | Don't You Know |
-| A3 | Circles |
-| A4 | Court Of Love |
-| A5 | Long Way Home |
-| A6 | Too Many Tears |
-| B1 | Walk Away |
-| B2 | What I Know About You |
-| B3 | Listen To Your Heart |
-| B4 | Sea Gets Hotter |
-| B5 | How Can I Be Sure |
-| B6 | True Love |
-|  | American Love Call - Demo Tracks (CD) |
-| 1 | Don't You Know (Demo) |
-| 2 | Circles (Demo) |
-| 3 | Don't You Know (Instrumental) |
-| 4 | Walk Away (Instrumental) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -71,4 +71,4 @@ styles: ["Rhythm & Blues", "Soul"]
 | Label          | Dead Oceans |
 | Catalog Number | DOC 177 |
 | Notes | Rough Trade exclusive pressing on transparent purple vinyl; includes a download code for digital copies of the LP and a bonus "Demo Tracks" CD. |
-| Discogs URL    | [Durand Jones  The Indications - American Love Call](https://www.discogs.com/release/13313049-Durand-Jones-The-Indications-American-Love-Call) |
+| Discogs URL    | [Durand Jones & The Indications - American Love Call](https://www.discogs.com/release/13313049-Durand-Jones-The-Indications-American-Love-Call) |

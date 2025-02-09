@@ -39,18 +39,18 @@ Everything Was Beautiful, and Nothing Hurt is the fifteenth studio album by Amer
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Mere Anarchy |
-| A2 | The Waste Of Suns |
-| A3 | Like A Motherless Child |
-| B1 | The Last Of Goodbyes |
-| B2 | The Ceremony Of Innocence |
-| B3 | The Tired & The Hurt |
-| C1 | Welcome To Hard Times |
-| C2 | The Sorrow Tree |
-| C3 | Falling Rain & Light |
-| D1 | The Middle Is Gone |
-| D2 | This Wild Darkness |
-| D3 | A Dark Cloud Is Coming |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

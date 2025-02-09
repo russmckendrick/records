@@ -34,20 +34,20 @@ styles: ["Alternative Rock", "Garage Rock", "Lo-Fi", "Experimental"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Rid Of Me |
-| A2 | Legs |
-| A3 | Reeling |
-| A4 | Snake |
-| A5 | Hook |
-| A6 | 50Ft Queenie |
-| A7 | Driving |
-| B1 | Ecstasy |
-| B2 | Hardly Wait |
-| B3 | Rub 'Til It Bleeds |
-| B4 | Easy |
-| B5 | M-Bike |
-| B6 | Yuri-G |
-| B7 | Goodnight |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -38,19 +38,19 @@ Telekon is the second solo studio album by the English new wave musician Gary Nu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | This Wreckage |
-| A2 | The Aircrash Bureau |
-| A3 | Telekon |
-| A4 | Remind Me To Smile |
-| A5 | Sleep By Windows |
-| B1 | I'm An Agent |
-| B2 | I Dream Of Wires |
-| B3 | Remember I Was Vapour |
-| B4 | Please Push No More |
-| B5 | The Joy Circuit |
-|  | Bonus Single |
-| C | Remember I Was Vapour (Live) |
-| D | On Broadway (Live) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

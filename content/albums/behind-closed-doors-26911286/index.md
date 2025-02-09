@@ -1,6 +1,6 @@
 ---
-title: "Thunder - Behind Closed Doors"
-artist_name: "Thunder"
+title: "Thunder (3) - Behind Closed Doors"
+artist_name: "Thunder (3)"
 artist: "thunder"
 album_name: "Behind Closed Doors"
 date: 2023-04-29T11:43:49.000000Z
@@ -10,8 +10,8 @@ slug: "behind-closed-doors-26911286"
 hideSummary: true
 cover:
     image: "behind-closed-doors-26911286.jpg"
-    alt: "Behind Closed Doors by Thunder"
-    caption: "Behind Closed Doors by Thunder"
+    alt: "Behind Closed Doors by Thunder (3)"
+    caption: "Behind Closed Doors by Thunder (3)"
 additional_images:
     - "https://i.discogs.com/qMH6Vt8P9xlx4ByHOVhXH9nzCMXP2UvdmwsJFV3NZak/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTEx/Mjg2LTE2ODI2OTQ2/MjctODA3OS5qcGVn.jpeg"
     - "https://i.discogs.com/LA7FOQvRUnOYp4HGHFtX7dCTuZOugN1X_gzBKmbFPyA/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTEx/Mjg2LTE2ODI2OTQ2/MjctMTEwMC5qcGVn.jpeg"
@@ -41,22 +41,22 @@ Behind Closed Doors was promoted on the Behind Closed Doors Tour beginning in Ap
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Moth To The Flame |
-| A2 | Fly On The Wall |
-| A3 | I'll Be Waiting |
-| A4 | River Of Pain |
-| B1 | Future Train |
-| B2 | 'Til The River Runs Dry |
-| B3 | Stand Up |
-| B4 | Preaching From A Chair |
-| C1 | Castles In The Sand |
-| C2 | Too Scared To Live |
-| C3 | Ball And Chain |
-| C4 | It Happened In This Town |
-| D1 | In A Broken Dream (Live At Club Citta Japan, 2000) |
-| D2 | Stand Up (Live At Shepherd's Bush Empire London, 2005) |
-| D3 | Til The River Runs Dry (Live At Nottingham Rock City, 2005) |
-| D4 | Preaching From A Chair (Acoustic At Tackle Out Studio Hove, 2019) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -75,4 +75,4 @@ Behind Closed Doors was promoted on the Behind Closed Doors Tour beginning in Ap
 | Label          | BMG |
 | Catalog Number | BMGCAT717DLP |
 | Notes | Track D1 Previously available on a Japan only live CD called 'Open The Window, Close The Door'. Long deleted and never previously available on vinyl or digital. Track D2 Previously unreleased Track D3 Previously only available on The Xmas Show Live 2005 CD given to ticket holders only. Long deleted and has never been on vinyl or digital. Track D4 Previously available on a Thunder shop exclusive CD in 2019 called 'Danny & Luke, A Nice Pair'. Long deleted and has never been on vinyl.  Some copies came with a limited edition art card. |
-| Discogs URL    | [Thunder - Behind Closed Doors](https://www.discogs.com/release/26911286-Thunder-3-Behind-Closed-Doors) |
+| Discogs URL    | [Thunder (3) - Behind Closed Doors](https://www.discogs.com/release/26911286-Thunder-3-Behind-Closed-Doors) |

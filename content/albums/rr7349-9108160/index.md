@@ -1,6 +1,6 @@
 ---
-title: "Survive - RR7349"
-artist_name: "Survive"
+title: "Survive (4) - RR7349"
+artist_name: "Survive (4)"
 artist: "survive"
 album_name: "RR7349"
 date: 2016-09-26T17:22:54.000000Z
@@ -10,8 +10,8 @@ slug: "rr7349-9108160"
 hideSummary: true
 cover:
     image: "rr7349-9108160.jpg"
-    alt: "RR7349 by Survive"
-    caption: "RR7349 by Survive"
+    alt: "RR7349 by Survive (4)"
+    caption: "RR7349 by Survive (4)"
 additional_images:
     - "https://i.discogs.com/ckScmClixAWRqCqwRAfNSoouhVTtE1kAXDXKx-Zbieg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDgx/NjAtMTQ3NDkyMjI2/MC0xOTQ4LmpwZWc.jpeg"
     - "https://i.discogs.com/lUhFgkW1Xq3lhM4GiO1e-ALiAgWHVapRCCY9VODKWyU/rs:fit/g:sm/q:90/h:551/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMDgx/NjAtMTU3MDg5Mzgz/NC0yNDgxLmpwZWc.jpeg"
@@ -36,15 +36,15 @@ RR7349 (its cassette release titled HD037) is the third studio album by Texas sy
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | A.H.B |
-| A2 | Other |
-| A3 | Dirt |
-| A4 | High Rise |
-| A5 | Wardenclyffe |
-| B1 | Sorceror |
-| B2 | Low Fog |
-| B3 | Copter |
-| B4 | Cutthroat |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ RR7349 (its cassette release titled HD037) is the third studio album by Texas sy
 | Label          | Relapse Records |
 | Catalog Number | RR7349 |
 | Notes | Made in EU  Includes printed double-sided inner sleeve and download card (choice of formats, via Bandcamp). |
-| Discogs URL    | [Survive - RR7349](https://www.discogs.com/release/9108160-S-U-R-V-I-V-E-RR7349) |
+| Discogs URL    | [Survive (4) - RR7349](https://www.discogs.com/release/9108160-S-U-R-V-I-V-E-RR7349) |

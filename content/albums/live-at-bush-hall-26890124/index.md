@@ -1,6 +1,6 @@
 ---
-title: "Black Country New Road - Live At Bush Hall"
-artist_name: "Black Country New Road"
+title: "Black Country, New Road - Live At Bush Hall"
+artist_name: "Black Country, New Road"
 artist: "black-country-new-road"
 album_name: "Live At Bush Hall"
 date: 2023-05-02T10:22:53.000000Z
@@ -10,8 +10,8 @@ slug: "live-at-bush-hall-26890124"
 hideSummary: true
 cover:
     image: "live-at-bush-hall-26890124.jpg"
-    alt: "Live At Bush Hall by Black Country New Road"
-    caption: "Live At Bush Hall by Black Country New Road"
+    alt: "Live At Bush Hall by Black Country, New Road"
+    caption: "Live At Bush Hall by Black Country, New Road"
 additional_images:
     - "https://i.discogs.com/b1msjY6oc08bhn2RTh6NNbP0Xq7kP8oxbyvKMBBGXgM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODMyOTgz/MjEtNzEyMy5qcGVn.jpeg"
     - "https://i.discogs.com/B66efXQi4JNNp4tPy39TXx6qMmrUqC3xNa7n1vhDkr4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODkw/MTI0LTE2ODMyOTgz/MjQtNzU3Ny5qcGVn.jpeg"
@@ -44,15 +44,15 @@ An album of the performance was released on 24 March 2023 through Ninja Tune.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Up Song |
-| A2 | The Boy |
-| A3 | I Won’t Always Love You |
-| A4 | Across The Pond Friend |
-| A5 | Laughing Song |
-| B1 | The Wrong Trousers |
-| B2 | Turbines/Pigs |
-| B3 | Dancers |
-| B4 | Up Song (Reprise) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -71,4 +71,4 @@ An album of the performance was released on 24 March 2023 through Ninja Tune.
 | Label          | Ninja Tune |
 | Catalog Number | ZEN289 |
 | Notes | 140g black vinyl. Includes a booklet and a download code.  Recorded at Bush Hall, London Mastered... at Abbey Road  ℗ & © Ninja Tune 2023 Made in EU |
-| Discogs URL    | [Black Country New Road - Live At Bush Hall](https://www.discogs.com/release/26890124-Black-Country-New-Road-Live-At-Bush-Hall) |
+| Discogs URL    | [Black Country, New Road - Live At Bush Hall](https://www.discogs.com/release/26890124-Black-Country-New-Road-Live-At-Bush-Hall) |

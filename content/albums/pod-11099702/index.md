@@ -38,18 +38,18 @@ The album opened up space for a wave of female-centric indie-rock bands that han
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Glorious |
-| A2 | Doe |
-| A3 | Happiness Is A Warm Gun |
-| A4 | Oh! |
-| A5 | Hellbound |
-| A6 | When I Was A Painter |
-| B7 | Fortunately Gone |
-| B8 | Iris |
-| B9 | Opened |
-| B10 | Only In 3's |
-| B11 | Lime House |
-| B12 | Metal Man |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

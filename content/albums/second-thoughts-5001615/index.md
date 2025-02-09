@@ -33,15 +33,15 @@ Second Thoughts ended on 14 October 1994, but has since been repeated on Forces 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Late Last Night |
-| A2 | Walking Down A Road |
-| A3 | Titus |
-| A4 | Lovey Dovey |
-| A5 | Sweet Dreams |
-| B1 | Stranger Than Fiction |
-| B2 | Time For A Change |
-| B3 | Matinee Idyll (129) |
-| B4 | The Woman Who Loves You |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

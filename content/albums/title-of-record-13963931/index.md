@@ -1,6 +1,6 @@
 ---
-title: "Filter - Title Of Record"
-artist_name: "Filter"
+title: "Filter (2) - Title Of Record"
+artist_name: "Filter (2)"
 artist: "filter"
 album_name: "Title Of Record"
 date: 2019-08-09T17:51:24.000000Z
@@ -10,8 +10,8 @@ slug: "title-of-record-13963931"
 hideSummary: true
 cover:
     image: "title-of-record-13963931.jpg"
-    alt: "Title Of Record by Filter"
-    caption: "Title Of Record by Filter"
+    alt: "Title Of Record by Filter (2)"
+    caption: "Title Of Record by Filter (2)"
 additional_images:
     - "https://i.discogs.com/WEWhyvWQ4vcrCSpXMZoizRb85DCtwsO3VteS8cNnOlE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTYz/OTMxLTE1NjUzMDM5/MDItNDUyMC5qcGVn.jpeg"
     - "https://i.discogs.com/64zqTYakfNpCXkhANZpWDSfkT5ZI-Xi6ry5vTz3yuBc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTYz/OTMxLTE1NjUzMDM5/MDItOTczMS5qcGVn.jpeg"
@@ -43,21 +43,21 @@ Title of Record was a critical and commercial success upon its release, peaking 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Sand |
-| A2 | Welcome To The Fold |
-| A3 | Captain Bligh |
-| A4 | It's Gonna Kill Me |
-| B1 | The Best Things |
-| B2 | Take A Picture |
-| B3 | Skinny |
-| B4 | I Will Lead You |
-| C1 | Cancer |
-| C2 | I'm Not The Only One |
-| C3 | Miss Blue |
-| D1 | Jurassitol (2009 Remaster Version) |
-| D2 | (Can't You) Trip Like I Do (2009 Remaster Version) |
-| D3 | Take A Picture (H & H Remix) |
-| D4 | The Best Things (Humble Brothers Remix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -76,4 +76,4 @@ Title of Record was a critical and commercial success upon its release, peaking 
 | Label          | Craft Recordings |
 | Catalog Number | CR00176 |
 | Notes | Gatefold sleeve with  printed inner sleeves containing credits, photograph and liner notes. |
-| Discogs URL    | [Filter - Title Of Record](https://www.discogs.com/release/13963931-Filter-2-Title-Of-Record) |
+| Discogs URL    | [Filter (2) - Title Of Record](https://www.discogs.com/release/13963931-Filter-2-Title-Of-Record) |

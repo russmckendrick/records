@@ -1,6 +1,6 @@
 ---
-title: "Iron Monkey - 9-13"
-artist_name: "Iron Monkey"
+title: "Iron Monkey (3) - 9-13"
+artist_name: "Iron Monkey (3)"
 artist: "iron-monkey"
 album_name: "9-13"
 date: 2017-10-26T17:57:03.000000Z
@@ -10,8 +10,8 @@ slug: "9-13-11038535"
 hideSummary: true
 cover:
     image: "9-13-11038535.jpg"
-    alt: "9-13 by Iron Monkey"
-    caption: "9-13 by Iron Monkey"
+    alt: "9-13 by Iron Monkey (3)"
+    caption: "9-13 by Iron Monkey (3)"
 additional_images:
     - "https://i.discogs.com/OTp1fnxr_jttccMa7DYAONEjXekcPb8sDatfS6Tr-Aw/rs:fit/g:sm/q:90/h:600/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM4/NTM1LTE1MDg3MDM0/NjMtNzM1MS5qcGVn.jpeg"
     - "https://i.discogs.com/J2QQwNvTudkOlD6iyQGyoTBdjr4lxxso-tpTZamf5XA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDM4/NTM1LTE1MDg3MDMy/NzItNDgxMy5qcGVn.jpeg"
@@ -31,15 +31,15 @@ styles: ["Sludge Metal", "Doom Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Crown Of Electrodes |
-| A2 | OmegaMangler |
-| A3 | 9-13 |
-| A4 | Toadcrucifier / R.I.P.PER |
-| A5 | Destroyer 	 |
-| B1 | Mortarhex 	 |
-| B2 | The Rope  |
-| B3 | Doomsday Impulse Multiplier |
-| B4 | Moreland St. Hammervortex  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -57,4 +57,4 @@ styles: ["Sludge Metal", "Doom Metal"]
 | Label          | Relapse Records |
 | Catalog Number | RR7379 |
 | Notes | Limited to 300 copies. Includes foldout insert sheet with lyrics and a digital download code.  Recorded Spring 2017 AD at Moot Group Studios, Nottingham, UK.  ℗&© 2017 Relapse Records, Inc. Made in EU. |
-| Discogs URL    | [Iron Monkey - 9-13](https://www.discogs.com/release/11038535-Iron-Monkey-3-9-13) |
+| Discogs URL    | [Iron Monkey (3) - 9-13](https://www.discogs.com/release/11038535-Iron-Monkey-3-9-13) |

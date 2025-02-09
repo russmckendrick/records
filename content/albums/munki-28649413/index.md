@@ -46,23 +46,23 @@ The album’s biggest hit was “Far Gone and Out”, arguably the most upbeat t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Love Rock 'n' Roll |
-| A2 | Birthday |
-| A3 | Stardust Remedy |
-| A4 | Fizzy |
-| A5 | Moe Tucker |
-| B6 | Perfume |
-| B7 | Virtually Unreal |
-| B8 | Degenerate |
-| B9 | Cracking Up |
-| C10 | Commercial |
-| C11 | Supertramp |
-| C12 | Never Understood |
-| C13 | I Can't Find The Time For Times |
-| D14 | Man On The Moon |
-| D15 | Black |
-| D16 | Dream Lover |
-| D17 | I Hate Rock 'n' Roll |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

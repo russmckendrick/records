@@ -29,21 +29,21 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Everybody's Gone |
-| A2 | Best Friend |
-| A3 | Ex Teenager |
-| A4 | It's Cool To Hang Out With Your Ex |
-| A5 | 19 Blue |
-| A6 | Should I Feel It |
-| A7 | Lip Radio |
-| B1 | In Love Again |
-| B2 | Got It At The Delmar |
-| B3 | American Dad |
-| B4 | Radio Spiteful |
-| B5 | Chicken |
-| B6 | Wrong Number |
-| B7 | Different Tongues |
-| B8 | Fishing At Tescos |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -45,13 +45,13 @@ Despite <i>Person Pitch</i>’s seismic impact on indie, its seven songs—five 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Comfy In Nautica |
-| A2 | Take Pills |
-| B | Bros |
-| C | Good Girl/Carrots |
-| D1 | I'm Not |
-| D2 | Search For Delicious |
-| D3 | Ponytail |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -1,7 +1,7 @@
 ---
-title: "Zero - When It Falls"
-artist_name: "Zero"
-artist: "zero"
+title: "Zero 7 - When It Falls"
+artist_name: "Zero 7"
+artist: "zero-7"
 album_name: "When It Falls"
 date: 2024-10-29T05:01:52.000000Z
 release_date: "2004-03-02"
@@ -10,8 +10,8 @@ slug: "when-it-falls-32133540"
 hideSummary: true
 cover:
     image: "when-it-falls-32133540.jpg"
-    alt: "When It Falls by Zero"
-    caption: "When It Falls by Zero"
+    alt: "When It Falls by Zero 7"
+    caption: "When It Falls by Zero 7"
 additional_images:
     - "https://i.discogs.com/15nJCLNhXu-ya_RE1GBRST2lRQX7G6lA0_jfBDrmvOc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTMz/NTQwLTE3MzA0NzUz/MjYtMjI5My5qcGVn.jpeg"
 genres: ["Electronic"]
@@ -30,17 +30,17 @@ The album features vocals by Sia (on tracks "Somersault" and "Speed Dial No.2"),
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Warm Sound |
-| A2 | Home |
-| A3 | Somersault |
-| B1 | Passing By |
-| B2 | Over Our Heads |
-| B3 | When It Falls |
-| C1 | The Space Between |
-| C2 | Speed Dial No. 2 |
-| C3 | Look Up |
-| D1 | In Time |
-| D2 | Morning Song |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -59,4 +59,4 @@ The album features vocals by Sia (on tracks "Somersault" and "Speed Dial No.2"),
 | Label          | New State Music |
 | Catalog Number | NEW9271LPC |
 | Notes | 20th Anniversary Edition.  Ⓟ 2004 New State Entertainment Ltd. © 2024 New State Entertainment Ltd.  Issued with printed inner sleeves. |
-| Discogs URL    | [Zero - When It Falls](https://www.discogs.com/release/32133540-Zero-7-When-It-Falls) |
+| Discogs URL    | [Zero 7 - When It Falls](https://www.discogs.com/release/32133540-Zero-7-When-It-Falls) |

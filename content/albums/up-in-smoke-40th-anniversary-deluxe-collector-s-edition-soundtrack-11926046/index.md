@@ -1,6 +1,6 @@
 ---
-title: "Cheech  Chong - Up In Smoke (40th Anniversary Deluxe Collector's Edition) Soundtrack"
-artist_name: "Cheech  Chong"
+title: "Cheech & Chong - Up In Smoke (40th Anniversary Deluxe Collector's Edition) Soundtrack"
+artist_name: "Cheech & Chong"
 artist: "cheech-chong"
 album_name: "Up In Smoke (40th Anniversary Deluxe Collector's Edition) Soundtrack"
 date: 2019-04-16T17:11:32.000000Z
@@ -10,8 +10,8 @@ slug: "up-in-smoke-40th-anniversary-deluxe-collector-s-edition-soundtrack-119260
 hideSummary: true
 cover:
     image: "up-in-smoke-40th-anniversary-deluxe-collector-s-edition-soundtrack-11926046.jpg"
-    alt: "Up In Smoke (40th Anniversary Deluxe Collector's Edition) Soundtrack by Cheech  Chong"
-    caption: "Up In Smoke (40th Anniversary Deluxe Collector's Edition) Soundtrack by Cheech  Chong"
+    alt: "Up In Smoke (40th Anniversary Deluxe Collector's Edition) Soundtrack by Cheech & Chong"
+    caption: "Up In Smoke (40th Anniversary Deluxe Collector's Edition) Soundtrack by Cheech & Chong"
 additional_images:
     - "https://i.discogs.com/0ANI2zKVjjS1NQw0tOQs4sx-p-reXkA-20sxhY2FeCI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI2/MDQ2LTE1MjUwMTcy/OTAtODgyNi5qcGVn.jpeg"
     - "https://i.discogs.com/gqxr8JNBaYu7thoYO0cSymwCv15EjsG1TuP9l94C76c/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTI2/MDQ2LTE1MjUwMTcy/OTAtNjUyMS5qcGVn.jpeg"
@@ -48,48 +48,48 @@ styles: ["Soundtrack", "Comedy", "Dialogue"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Finkelstien Shit Kid |
-| A2 | Up In Smoke |
-| A3 | Low Rider |
-| A4 | 1st Gear, 2nd Gear |
-| A5 | Framed |
-| A6 | Searchin' |
-| A7 | The Ajax Lady |
-| A8 | Strawberry's |
-| B1 | Here Come The Mounties to the Rescue |
-| B2 | Sometimes When You Gotta Go You Can't |
-| B3 | Lost Due To Incompetence (Theme For A Big Green Van) |
-| B4 | Lard Ass |
-| B5 | Rock Fight |
-| B6 | I Didn't Know Your Name Was Alex |
-| B7 | Earache My Eye |
-| B8 | Up In Smoke Reprise |
-|  | 7" Picture Disc |
-| C1 | Earache My Eye |
-| D1 | Lost Due To Incompetence (Theme For A Big Green Van) |
-| CD1 | The Finklestien Shit Kid |
-| CD2 | Up In Smoke |
-| CD3 | Low Rider |
-| CD4 | 1st Gear, 2nd Gear |
-| CD5 | Framed |
-| CD6 | Searchin' |
-| CD7 | The Ajax Lady |
-| CD8 | Strawberry's |
-| CD9 | Here Come The Mounties To The Rescue |
-| CD10 | Sometimes When You Gotta Go You Can't |
-| CD11 | Lost Due To Incompetence (Theme For A Big Green Van)  |
-| CD12 | Lard Ass |
-| CD13 | Rock Fight |
-| CD14 | I Didn't Know Your Name Was Alex |
-| CD15 | Earache My Eye |
-| CD16 | Up In Smoke Reprise |
-|  | Bonus Tracks |
-| CD17 | Up In Smoke (Spanish Verse) |
-| CD18 | Up In Smoke 2018 |
-| BR1 | Main Feature |
-|  | Bonus Content |
-|  | Roach Clips (Deleted Scenes) With Optional Commentary |
-|  | Vintage Radio Spots |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -107,4 +107,4 @@ styles: ["Soundtrack", "Comedy", "Dialogue"]
 | Label          | Rhino Records (2) |
 | Catalog Number | R1 566654 |
 | Notes | Package comes with 40th Anniversary Blu-ray, Soundtrack CD with new version of Up In Smoke, Original 12" Vinyl, 7" Picture Disc, 12"x12" booklet, 11"x17" Film Poster and oversize novelty rolling paper. LP has original R1 3249 ID #.  Marketed as limited numbered press run of 5000 though all issues of the set are 420/5000.  Bonus track "Up In Smoke 2018" recorded at [l638291] and [l1101749].  Side C is Stereo, Side D is Mono. |
-| Discogs URL    | [Cheech  Chong - Up In Smoke (40th Anniversary Deluxe Collector's Edition) Soundtrack](https://www.discogs.com/release/11926046-Cheech-y-Chong-Up-In-Smoke-40th-Anniversary-Deluxe-Collectors-Edition-Soundtrack) |
+| Discogs URL    | [Cheech & Chong - Up In Smoke (40th Anniversary Deluxe Collector's Edition) Soundtrack](https://www.discogs.com/release/11926046-Cheech-y-Chong-Up-In-Smoke-40th-Anniversary-Deluxe-Collectors-Edition-Soundtrack) |

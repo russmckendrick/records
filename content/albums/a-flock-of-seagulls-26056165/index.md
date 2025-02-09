@@ -39,17 +39,17 @@ In 2018, the members of the original lineup assembled to record the album Ascens
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Modern Love Is Automatic |
-| A2 | Messages |
-| A3 | I Ran |
-| A4 | Space  Age Love Song |
-| A5 | You Can Run |
-| B1 | Telecommunication |
-| B2 | Standing In The Doorway |
-| B3 | Don't Ask Me |
-| B4 | D.N.A. |
-| B5 | Tokyo |
-| B6 | Man Made |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

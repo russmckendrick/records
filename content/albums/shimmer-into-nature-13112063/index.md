@@ -38,11 +38,11 @@ styles: ["Space Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Glass Staircase  |
-| A2 | Travel Dust |
-| A3 | Oddplonk |
-| B1 | Shim |
-| B2 | Wherble |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

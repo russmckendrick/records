@@ -1,6 +1,6 @@
 ---
-title: "Matt Berry - Kill The Wolf"
-artist_name: "Matt Berry"
+title: "Matt Berry (3) - Kill The Wolf"
+artist_name: "Matt Berry (3)"
 artist: "matt-berry"
 album_name: "Kill The Wolf"
 date: 2021-08-19T02:26:39.000000Z
@@ -10,8 +10,8 @@ slug: "kill-the-wolf-19905307"
 hideSummary: true
 cover:
     image: "kill-the-wolf-19905307.jpg"
-    alt: "Kill The Wolf by Matt Berry"
-    caption: "Kill The Wolf by Matt Berry"
+    alt: "Kill The Wolf by Matt Berry (3)"
+    caption: "Kill The Wolf by Matt Berry (3)"
 additional_images:
     - "https://i.discogs.com/8haNkazEzVy02x5s5uwAvF2WhE8Jvd17T76LJD9Of-4/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTA1/MzA3LTE2Mjk1NDQ0/NzMtMjAxMC5qcGVn.jpeg"
     - "https://i.discogs.com/62LW7sbNwCXIFTO9jwOAKvPs13_UdtXvumCpSb1FFWI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTA1/MzA3LTE2Mjk1NDQ3/NjMtMzc3My5qcGVn.jpeg"
@@ -31,18 +31,18 @@ Kill the Wolf is the fourth studio album from English comedian and musician Matt
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Gather Up |
-| A2 | Devil Inside Me |
-| A3 | Fallen Angel |
-| A4 | Medicine |
-| A5 | Wolf Quartet |
-| A6 | Solstice |
-| B1 | October Sun |
-| B2 | The Signs |
-| B3 | Knock Knock |
-| B4 | Bonfire |
-| B5 | Village Dance |
-| B6 | Farewell Summer Sun |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -61,4 +61,4 @@ Kill the Wolf is the fourth studio album from English comedian and musician Matt
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP327G |
 | Notes | 2021 Reissue -   Hype sticker reads:  PRESSED ON BOTTLE GREEN VINYL Facsimile of rare first pressing with gatefold sleeve and printed inner |
-| Discogs URL    | [Matt Berry - Kill The Wolf](https://www.discogs.com/release/19905307-Matt-Berry-3-Kill-The-Wolf) |
+| Discogs URL    | [Matt Berry (3) - Kill The Wolf](https://www.discogs.com/release/19905307-Matt-Berry-3-Kill-The-Wolf) |

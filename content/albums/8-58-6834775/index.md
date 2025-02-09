@@ -1,7 +1,7 @@
 ---
-title: "858 - 8:58"
-artist_name: "858"
-artist: "858"
+title: "8:58 - 8:58"
+artist_name: "8:58"
+artist: "8-58"
 album_name: "8:58"
 date: 2015-08-09T08:30:37.000000Z
 release_date: "2015-03-30"
@@ -10,8 +10,8 @@ slug: "8-58-6834775"
 hideSummary: true
 cover:
     image: "8-58-6834775.jpg"
-    alt: "8:58 by 858"
-    caption: "8:58 by 858"
+    alt: "8:58 by 8:58"
+    caption: "8:58 by 8:58"
 additional_images:
     - "https://i.discogs.com/-ra7aMBHfEwKq376rpSUjjo29_bivN0IaOpHGetFqKE/rs:fit/g:sm/q:90/h:495/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzQ3/NzUtMTQyNzYyNDM2/OS00MjkzLmpwZWc.jpeg"
     - "https://i.discogs.com/Cp2ZSkU331JTMCZ5LjBQ_VjYjE5bEi7fvsVHKNHyNMI/rs:fit/g:sm/q:90/h:495/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MzQ3/NzUtMTQyNzYyNDM2/OS03MDc1LmpwZWc.jpeg"
@@ -40,15 +40,15 @@ The song "Please" is a reworking of the track of the same name from Paul Hartnol
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | 8:58 |
-| A2 | Please |
-| B1 | The Past Now |
-| B2 | Villain |
-| B3 | The Clock |
-| C1 | A Forest |
-| C2 | Broken Up |
-| D1 | Nearly There |
-| D2 | Cemetery |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -67,4 +67,4 @@ The song "Please" is a reworking of the track of the same name from Paul Hartnol
 | Label          | ACP Recordings |
 | Catalog Number | ACPV1503 |
 | Notes | Gatefold sleeve.    Copies signed by Paul Hartnoll were available from Recordstore.co.uk.    Track A2 is an extended version of “Please (Remember 1992?) (Paul Hartnoll Remix)”, originally 5:45 long, commercially released on [url=http://www.discogs.com/Paul-Hartnoll-feat-Robert-Smith-Please/release/3592544]7”[/url] & [url=http://www.discogs.com/Paul-Hartnoll-Feat-Robert-Smith-Please-The-Remixes/release/964545]12”[/url] in 2007, and credited to “Paul Hartnoll Feat. Robert Smith”. |
-| Discogs URL    | [858 - 8:58](https://www.discogs.com/release/6834775-858-858) |
+| Discogs URL    | [8:58 - 8:58](https://www.discogs.com/release/6834775-858-858) |

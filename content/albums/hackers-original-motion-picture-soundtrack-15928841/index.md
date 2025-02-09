@@ -37,23 +37,23 @@ styles: ["Alternative Rock", "Big Beat", "Soundtrack", "Soft Rock", "Techno", "A
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Side :/ |
-| A1 | Halcyon On And On |
-| A2 | Hackers Suite |
-| A3 | Open Up |
-|  | Side :// |
-| B1 | Cowgirl |
-| B2 | Voodoo People |
-| B3 | Connected |
-|  | Side :/// |
-| C1 | Original Bedroom Rockers |
-| C2 | One Love |
-| C3 | Good Grief |
-|  | Side ://// |
-| D1 | Protection |
-| D2 | One Combination |
-| D3 | Grand Central Station |
-| D4 | Heaven Knows |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

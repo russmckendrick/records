@@ -30,17 +30,17 @@ Stranger Heads Prevail is the second album by progressive rock band Thank You Sc
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Prologue: A Faint Applause |
-| A2 | The Somnambulist |
-| A3 | Caverns |
-| B1 | Mr. Invisible |
-| B2 | A Wolf In Cheap Clothing |
-| B3 | Blue Automatic |
-| C1 | Need More Input |
-| C2 | Rube Goldberg Variations |
-| D1 | Psychopomp |
-| D2 | The Amateur Arsonist’s Handbook |
-| D3 | Epilogue: …And the Clever Depart |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

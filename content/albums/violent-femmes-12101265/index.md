@@ -69,16 +69,16 @@ BR: “We thought that it was good to end the album on a soft note. The song is 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Blister In The Sun |
-| A2 | Kiss Off |
-| A3 | Please Do Not Go |
-| A4 | Add It Up |
-| A5 | Confessions |
-| B1 | Prove My Love |
-| B2 | Promise |
-| B3 | To The Kill |
-| B4 | Gone Daddy Gone/I Just Want To Make Love To You |
-| B5 | Good Feeling |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

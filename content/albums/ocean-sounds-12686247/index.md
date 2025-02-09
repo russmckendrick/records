@@ -33,18 +33,18 @@ styles: ["Alternative Rock", "Neo-Classical"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Inside |
-| A2 | Scotland |
-| A3 | To Human Misery |
-| A4 | Romance |
-| A5 | 5/4 |
-| A6 | Touching II |
-| B1 | Os Lunatum |
-| B2 | Matches |
-| B3 | Sleeping Pills |
-| B4 | Libretto Horror |
-| B5 | Chalk & Coal |
-| B6 | K.O.S. |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

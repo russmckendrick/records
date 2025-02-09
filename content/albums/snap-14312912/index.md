@@ -41,40 +41,40 @@ Snap! is a greatest hits album by The Jam, released on 14 October 1983, one year
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | In The City |
-| A2 | Away From The Numbers |
-| A3 | All Around The World |
-| A4 | The Modern World |
-| A5 | News Of The World |
-| A6 | Billy Hunt |
-| A7 | English Rose |
-| A8 | Mr. Clean |
-| B1 | David Watts |
-| B2 | "A" Bomb In Wardour Street |
-| B3 | Down In The Tube Station At Midnight |
-| B4 | Strange Town |
-| B5 | The Butterfly Collector |
-| B6 | When You're Young |
-| B7 | Smithers-Jones |
-| B8 | Thick As Thieves |
-| C1 | The Eton Rifles |
-| C2 | Going Underground |
-| C3 | Dreams Of Children |
-| C4 | That's Entertainment |
-| C5 | Start! |
-| C6 | Man In The Corner Shop |
-| C7 | Funeral Pyre |
-| D1 | Absolute Beginners |
-| D2 | Tales From The Riverbank |
-| D3 | Town Called Malice |
-| D4 | Precious |
-| D5 | The Bitterest Pill (I Ever Had To Swallow) |
-| D6 | Beat Surrender |
-|  | Live! E∙P |
-| E1 | Move On Up (Live) |
-| E2 | Get Yourself Together (Live) |
-| F1 | The Great Depression (Live) |
-| F2 | But I'm Different Now (Live) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

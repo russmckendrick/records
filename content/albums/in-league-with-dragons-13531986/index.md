@@ -30,20 +30,20 @@ In League With Dragons is the seventeenth studio album by the Mountain Goats, re
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Done Bleeding |
-| A2 | Younger |
-| A3 | Passaic 1975 |
-| B1 | Clemency for The Wizard King |
-| B2 | Possum By Night |
-| B3 | In League With Dragons |
-| C1 | Doc Gooden |
-| C2 | Going Invisible 2 |
-| C3 | Waylon Jennings Live! |
-| D1 | Cadaver Sniffing Dog |
-| D2 | An Antidote for Strychnine |
-| D3 | Sicilian Crest |
-| E | Sentries In The Ambush |
-| F | Divided Sky Lane |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

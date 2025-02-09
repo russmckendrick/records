@@ -53,49 +53,49 @@ The album was an immediate commercial and critical success, and came to be viewe
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Original LP Release (May 21 1971) |
-| A1 | What's Going On |
-| A2 | What's Happening Brother |
-| A3 | Flyin' High (In The Friendly Sky) |
-| A4 | Save The Children |
-| A5 | God Is Love |
-| A6 | Mercy Mercy Me (The Ecology) |
-| B1 | Right On |
-| B2 | Wholy Holy |
-| B3 | Inner City Blues (Make Me Wanna Holler) |
-|  | Original Detroit Mix (April 5 1971) |
-| C1 | What's Going On |
-| C2 | What's Happening Brother |
-| C3 | Flyin' High (In The Friendly Sky) |
-| C4 | Save The Children |
-| C5 | God Is Love |
-| C6 | Mercy Mercy Me (The Ecology) |
-| D1 | Right On |
-| D2 | Wholy Holy |
-| D3 | Inner City Blues (Make Me Wanna Holler) |
-|  | Live At The Kennedy Center Auditorium, Washington, D.C. (May 1 1972) |
-|  | Sixties Medley |
-| E2 | Right On |
-| F1 | Wholy Holy |
-| F2 | Inner City Blues (Make Me Wanna Holler) |
-| F3 | What's Going On |
-| F4 | What's Happening Brother |
-|  | Live At The Kennedy Center Auditorium, Washington, D.C. (May 1 1972) |
-| G1 | Flyin' High (In The Friendly Sky) |
-| G2 | Save The Children |
-| G3 | God Is Love |
-| G4 | Stage Dialogue |
-|  | Reprise |
-| G5 | Inner City Blues (Make Me Wanna Holler) |
-| G6 | What's Going On |
-|  | Single Versions |
-| H1 | What's Going On |
-| H2 | God Is Love |
-| H3 | Sad Tomorrows |
-|  | In The Meantime... |
-| H4 | Head Title (AKA Distant Lover) |
-|  | The Foundation |
-| H5 | What's Going On - Rhythm 'N' Strings Mix |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

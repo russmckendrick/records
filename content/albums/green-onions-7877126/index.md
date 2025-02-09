@@ -1,7 +1,7 @@
 ---
-title: "Booker T  The MGs - Green Onions"
-artist_name: "Booker T  The MGs"
-artist: "booker-t-the-mgs"
+title: "Booker T & The MG's - Green Onions"
+artist_name: "Booker T & The MG's"
+artist: "booker-t-the-mg-s"
 album_name: "Green Onions"
 date: 2017-05-12T18:25:56.000000Z
 release_date: "1970-10"
@@ -10,8 +10,8 @@ slug: "green-onions-7877126"
 hideSummary: true
 cover:
     image: "green-onions-7877126.jpg"
-    alt: "Green Onions by Booker T  The MGs"
-    caption: "Green Onions by Booker T  The MGs"
+    alt: "Green Onions by Booker T & The MG's"
+    caption: "Green Onions by Booker T & The MG's"
 additional_images:
     - "https://i.discogs.com/ZMeNP93hsI9wLrs6f3km0a_Tge8qj2u3eKFZPiwkzC4/rs:fit/g:sm/q:90/h:433/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzcx/MjYtMTQ1MDcxOTI1/My0zNjY5LmpwZWc.jpeg"
     - "https://i.discogs.com/YUJTOH6--n-7iQERkdZklAUOwDF4Qs7Pbx1MsUtPots/rs:fit/g:sm/q:90/h:429/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4Nzcx/MjYtMTQ1MDcxOTI3/OC00MTY4LmpwZWc.jpeg"
@@ -31,18 +31,18 @@ The track was originally issued on the Volt label (a subsidiary of Stax Records)
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Green Onions |
-| A2 | Rinky-Dink |
-| A3 | I Got A Woman |
-| A4 | Mo' Onions |
-| A5 | Twist And Shout |
-| A6 | Behave Yourself |
-| B1 | Stranger On The Shore |
-| B2 | Lonely Avenue |
-| B3 | One Who Really Loves You |
-| B4 | I Can't Sit Down |
-| B5 | A Woman, A Lover, A Friend |
-| B6 | Comin' Home Baby |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -60,4 +60,4 @@ The track was originally issued on the Volt label (a subsidiary of Stax Records)
 | Format         | Vinyl LP Album Reissue (180 Gram) |
 | Label          | DOL |
 | Catalog Number | DOL1517H |
-| Discogs URL    | [Booker T  The MGs - Green Onions](https://www.discogs.com/release/7877126-Booker-T-The-MGs-Green-Onions) |
+| Discogs URL    | [Booker T & The MG's - Green Onions](https://www.discogs.com/release/7877126-Booker-T-The-MGs-Green-Onions) |

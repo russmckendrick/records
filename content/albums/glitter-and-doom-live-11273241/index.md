@@ -48,23 +48,23 @@ Prior to release, ANTI- made the first eight tracks available for free download.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Lucinda / Ain' Goin' Down To The Wel No Mo' |
-| A2 | Singapore |
-| A3 | Get Behind The Mule |
-| B1 | Fannin Street |
-| B2 | Dirt In The Ground |
-| B3 | Such A Scream |
-| B4 | Live Circus |
-| C1 | Goin' Out West |
-| C2 | Falling Down |
-| C3 | The Part You Throw Away |
-| C4 | Trampled Rose |
-| D1 | Metropolitan Glide |
-| D2 | I'll Shoot The Moon |
-| D3 | Green Grass |
-| D4 | Make It Rain |
-| D5 | Story |
-| D6 | Lucky Day |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

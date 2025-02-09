@@ -43,20 +43,20 @@ There’s no Radiohead record more vitriolic, nor more emotionally persuasive, t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | 2 + 2 = 5 (The Lukewarm.) |
-| A2 | Sit Down. Stand Up. (Snakes & Ladders.) |
-| A3 | Sail To The Moon. (Brush The Cobwebs Out Of The Sky.) |
-| B1 | Backdrifts. (Honeymoon Is Over.) |
-| B2 | Go To Sleep. (Little Man Being Erased.) |
-| B3 | Where I End And You Begin. (The Sky Is Falling In.) |
-| C1 | We Suck Young Blood. (Your Time Is Up.) |
-| C2 | The Gloaming. (Softly Open Our Mouths In The Cold.) |
-| C3 | There There. (The Boney King Of Nowhere.) |
-| C4 | I Will. (No Man's Land.) |
-| D1 | A Punchup At A Wedding. (No No No No No No No No.) |
-| D2 | Myxomatosis. (Judge, Jury & Executioner.) |
-| D3 | Scatterbrain. (As Dead As Leaves.) |
-| D4 | A Wolf At The Door. (It Girl. Rag Doll.) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

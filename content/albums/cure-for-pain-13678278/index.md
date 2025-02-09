@@ -1,6 +1,6 @@
 ---
-title: "Morphine - Cure For Pain"
-artist_name: "Morphine"
+title: "Morphine (2) - Cure For Pain"
+artist_name: "Morphine (2)"
 artist: "morphine"
 album_name: "Cure For Pain"
 date: 2019-06-12T17:58:02.000000Z
@@ -10,8 +10,8 @@ slug: "cure-for-pain-13678278"
 hideSummary: true
 cover:
     image: "cure-for-pain-13678278.jpg"
-    alt: "Cure For Pain by Morphine"
-    caption: "Cure For Pain by Morphine"
+    alt: "Cure For Pain by Morphine (2)"
+    caption: "Cure For Pain by Morphine (2)"
 additional_images:
     - "https://i.discogs.com/-MofKM_szSj728aMotZrXBOKhbhNvlS080l0XkD0Bnw/rs:fit/g:sm/q:90/h:526/w:526/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjc4/Mjc4LTE1NzAwNTc2/NzYtMTI0OS5qcGVn.jpeg"
     - "https://i.discogs.com/IoyE9kl9nCd96-62CTQos33v-llkK1BJPiK20HSnbKA/rs:fit/g:sm/q:90/h:551/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjc4/Mjc4LTE1NTg4NTc3/MTUtNjI3MS5qcGVn.jpeg"
@@ -43,19 +43,19 @@ As of 1995, it has sold 107,000 copies in United States and over 300,000 copies 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1  | Dawna |
-| A2 | Buena |
-| A3 | I’m Free Now |
-| A4 | All Wrong |
-| A5 | Candy |
-| A6 | A Head With Wings |
-| A7 | In Spite Of Me |
-| B1 | Thursday  |
-| B2 | Cure For Pain |
-| B3 | Mary Won’t You Call My Name? |
-| B4 | Let’s Take A Trip Together |
-| B5 | Sheila |
-| B6 | Miles Davis’ Funeral |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -74,4 +74,4 @@ As of 1995, it has sold 107,000 copies in United States and over 300,000 copies 
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1783 |
 | Notes |  Limited to 3500 copies worldwide. Comes in external clear sleeve with hype sticker, heavy gauge protective inner sleeve and 4 page insert with credits, lyrics and pictures.   Originally released ℗ & © 1993 Rykodisc. Manufactured & distributed by Music On Vinyl B.V. 2016, under the exclusive license from Warner Music Benelux B.V., a Warner Music Group Company. Made in the EU. |
-| Discogs URL    | [Morphine - Cure For Pain](https://www.discogs.com/release/13678278-Morphine-2-Cure-For-Pain) |
+| Discogs URL    | [Morphine (2) - Cure For Pain](https://www.discogs.com/release/13678278-Morphine-2-Cure-For-Pain) |

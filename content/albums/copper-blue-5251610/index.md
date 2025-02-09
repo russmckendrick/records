@@ -1,6 +1,6 @@
 ---
-title: "Sugar - Copper Blue"
-artist_name: "Sugar"
+title: "Sugar (5) - Copper Blue"
+artist_name: "Sugar (5)"
 artist: "sugar"
 album_name: "Copper Blue"
 date: 2015-12-28T14:09:28.000000Z
@@ -10,8 +10,8 @@ slug: "copper-blue-5251610"
 hideSummary: true
 cover:
     image: "copper-blue-5251610.jpg"
-    alt: "Copper Blue by Sugar"
-    caption: "Copper Blue by Sugar"
+    alt: "Copper Blue by Sugar (5)"
+    caption: "Copper Blue by Sugar (5)"
 additional_images:
     - "https://i.discogs.com/afwpg1JqjGncRsG7eTFYbtxokKSqDqDT-PQdOfoGB4w/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE2/MTAtMTM4ODc2ODA5/My02Nzc3LmpwZWc.jpeg"
     - "https://i.discogs.com/ngpfauf47pq9Z1e9wE5e0U6qJubqbDOn4ktAObE1738/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE2/MTAtMTU3OTQ1NTcz/NC00Mjg5LmpwZWc.jpeg"
@@ -34,16 +34,16 @@ Copper Blue is the debut studio album by American alternative rock band Sugar. I
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Act We Act |
-| A2 | A Good Idea |
-| A3 | Changes |
-| A4 | Helpless |
-| A5 | Hoover Dam |
-| B1 | The Slim |
-| B2 | If I Can't Change Your Mind |
-| B3 | Fortune Teller |
-| B4 | Slick |
-| B5 | Man On The Moon |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -62,4 +62,4 @@ Copper Blue is the debut studio album by American alternative rock band Sugar. I
 | Label          | Edsel Records |
 | Catalog Number | EDLP1001 |
 | Notes | Vinyl in printed innersleeve with download card  Sticker shrink: 140g Audiophile Reissue All recordings have been remastered for vinyl from the original tapes by FU:EL engineer Jim Wilson.  Cover back: Original sound recordings made by Granary Music, under exclusive license to the Demon Music Group Ltd. ℗ 1992 Granary Music.This reissue ℗ & © 2012 Demon Music Group Ltd. Issues under license from Granary Music. Marketed by Edsel, a division of the Demon Music Group Ltd, London, W1W 7TL. The Demon Music Group is a BBC Worldwide company. Manufactured in the EU  Runouts stamped  |
-| Discogs URL    | [Sugar - Copper Blue](https://www.discogs.com/release/5251610-Sugar-5-Copper-Blue) |
+| Discogs URL    | [Sugar (5) - Copper Blue](https://www.discogs.com/release/5251610-Sugar-5-Copper-Blue) |

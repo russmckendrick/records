@@ -1,7 +1,7 @@
 ---
-title: "Zero - Simple Things"
-artist_name: "Zero"
-artist: "zero"
+title: "Zero 7 - Simple Things"
+artist_name: "Zero 7"
+artist: "zero-7"
 album_name: "Simple Things"
 date: 2015-10-05T18:21:13.000000Z
 release_date: "2001-04-23"
@@ -10,8 +10,8 @@ slug: "simple-things-7198006"
 hideSummary: true
 cover:
     image: "simple-things-7198006.jpg"
-    alt: "Simple Things by Zero"
-    caption: "Simple Things by Zero"
+    alt: "Simple Things by Zero 7"
+    caption: "Simple Things by Zero 7"
 additional_images:
     - "https://i.discogs.com/rTsJhsg4fYP6kzlo154cdb_DVcwVvoBuFaBw9iDHOx8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTgw/MDYtMTQ0MzE2NTAw/Ni02ODk0LmpwZWc.jpeg"
     - "https://i.discogs.com/2eIQdSCeIcfjKXCwwPIEraEaX25orON7L8oTOEqD-V0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxOTgw/MDYtMTQ0MzE2NTAw/NS0zMjEzLmpwZWc.jpeg"
@@ -44,17 +44,17 @@ Simple Things is the debut studio album by English duo Zero 7, released on 23 Ap
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Have Seen |
-| A2 | Polaris |
-| A3 | Destiny |
-| B1 | Give It Away |
-| B2 | Simple Things |
-| B3 | Red Dust |
-| C1 | Distractions |
-| C2 | In The Waiting Line |
-| C3 | Out Of Town |
-| D1 | This World |
-| D2 | Likufanele |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -73,4 +73,4 @@ Simple Things is the debut studio album by English duo Zero 7, released on 23 Ap
 | Label          | Warner Music |
 | Catalog Number | 0825646132751 |
 | Notes | ℗ 2001 A & E Records Limited. © 2001 Warner Music UK Ltd. A Warner Music Group Company. Made in the EU.  Produced and Fleximixed at Shabang Studios.  Sticker on front. 180gm vinyl Includes download code for mp3 version of the album. |
-| Discogs URL    | [Zero - Simple Things](https://www.discogs.com/release/7198006-Zero-7-Simple-Things) |
+| Discogs URL    | [Zero 7 - Simple Things](https://www.discogs.com/release/7198006-Zero-7-Simple-Things) |

@@ -28,32 +28,32 @@ styles: ["AOR"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Sunshine |
-| A1 | Ride Like The Wind [45 Version] |
-| A2 | Whatcha Gonna Do for Me |
-| A3 | He’s So Shy |
-| A4 | What You Won’t Do For Love |
-| A5 | Nobody’s Business |
-| A6 | Save The Man |
-| B1 | Africa |
-| B2 | Steal Away |
-| B3 | Turn Your Love Around |
-| B4 | Save It For A Rainy Day |
-| B5 | It Keeps You Runnin’ |
-| B6 | Keys To The Kingdom |
-|  | Moonlight |
-| C1 | Lay Back (Menage À Trois) |
-| C2 | Open Your Eyes |
-| C3 | Walk A Fine Line |
-| C4 | Red Streamliner |
-| C5 | Give Me An Inch |
-| C6 | Maybe There Are Reasons |
-| D1 | I Keep Forgettin’ (Every Time You're Near) |
-| D2 | Magic |
-| D3 | Tes Yeux |
-| D4 | Creepin’ |
-| D5 | The Sailor’s Song |
-| D6 | Sailing |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

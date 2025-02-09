@@ -60,18 +60,18 @@ Gahan: “Well, it's sort of metaphors. The loneliness, the emptiness, the void,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Going Backwards |
-| A2 | Where's The Revolution |
-| A3 | The Worst Crime |
-| A4 | Scum |
-| B1 | You Move |
-| B2 | Cover Me |
-| B3 | Eternal |
-| B4 | Poison Heart |
-| C1 | So Much Love |
-| C2 | Poorman |
-| C3 | No More (This Is The Last Time) |
-| C4 | Fail |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -36,20 +36,20 @@ styles: ["Soundtrack", "Ambient", "Berlin-School"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Mosaic |
-| A2 | Cameron's Motorcycle Diaries |
-| A3 | Venture Capital |
-| A4 | Impossible To Love |
-| A5 | Why I Finally Told Him |
-| A6 | The Connection |
-| B1 | Into The River |
-| B2 | Life Interrupted |
-| B3 | Empty Rooms |
-| B4 | Off To Seattle |
-| B5 | Phoenix |
-| B6 | Dreamers And Misfits |
-| B7 | It Worked For Awhile / Cam And Joe |
-| B8 | I Have An Idea |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

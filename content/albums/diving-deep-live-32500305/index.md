@@ -41,18 +41,18 @@ Diving Deep Live is the 6th live album by American singer-songwriter Tori Amos. 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | God |
-| A2 | Ocean To Ocean |
-| A3 | Amber Waves |
-| A4 | Daisy Dead Petals |
-| B1 | Pandora's Aquarium |
-| B2 | Silent All These Years |
-| B3 | Ruby Through The Looking Glass |
-| C1 | Climb |
-| C2 | Spring Haze |
-| D1 | Code Red |
-| D2 | Cornflake Girl |
-| D3 | Lady In Blue |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

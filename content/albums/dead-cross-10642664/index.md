@@ -36,16 +36,16 @@ Less than a year after their full-length debut, hardcore supergroup Dead Cross r
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Seizure And Desist |
-| A2 | Idiopathic |
-| A3 | Obedience School |
-| A4 | Shillelagh |
-| A5 | Bela Lugosi's Dead |
-| B6 | Divine Filth |
-| B7 | Grave Slave |
-| B8 | The Future Has Been Cancelled |
-| B9 | Gag Reflex |
-| B10 | Church Of The Motherfuckers |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

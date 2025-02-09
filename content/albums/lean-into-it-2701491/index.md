@@ -1,6 +1,6 @@
 ---
-title: "Mr Big - Lean Into It"
-artist_name: "Mr Big"
+title: "Mr. Big - Lean Into It"
+artist_name: "Mr. Big"
 artist: "mr-big"
 album_name: "Lean Into It"
 date: 2019-05-16T17:40:00.000000Z
@@ -10,8 +10,8 @@ slug: "lean-into-it-2701491"
 hideSummary: true
 cover:
     image: "lean-into-it-2701491.jpg"
-    alt: "Lean Into It by Mr Big"
-    caption: "Lean Into It by Mr Big"
+    alt: "Lean Into It by Mr. Big"
+    caption: "Lean Into It by Mr. Big"
 additional_images:
     - "https://i.discogs.com/o1KDlXW2k89WgEkCYBZevvy0EXtj3bCCrpVIOmgGq6c/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDE0/OTEtMTQwMDA2NjQz/Mi05ODUzLmpwZWc.jpeg"
     - "https://i.discogs.com/EA2nO-V2_Cy-7ceeOVP5615_sh2Of1nmveKAioyPSv0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MDE0/OTEtMTQwMDA2NjQ3/MS02NDI1LmpwZWc.jpeg"
@@ -41,17 +41,17 @@ The album includes the song "Green-Tinted Sixties Mind".
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Daddy, Brother, Lover, Little Boy (The Electric Drill Song) |
-| A2 | Alive And Kickin' |
-| A3 | Green-Tinted Sixties Mind |
-| A4 | CDFF-Lucky This Time |
-| A5 | Voodoo Kiss |
-| B1 | Never Say Never |
-| B2 | Just Take My Heart |
-| B3 | My Kinda Woman |
-| B4 | A Little Too Loose |
-| B5 | Road To Ruin |
-| B6 | To Be With You |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -70,4 +70,4 @@ The album includes the song "Green-Tinted Sixties Mind".
 | Label          | Atlantic |
 | Catalog Number | 7567-82209-1 |
 | Notes | Released with a b/w printed inner sleeve, showing band photos, credits at one, lyrics and more credits on the other side.  Some releases are showing a red circled hype sticker on front.  Labels: Made in Germany by Warner Music Manufacturing Europe |
-| Discogs URL    | [Mr Big - Lean Into It](https://www.discogs.com/release/2701491-Mr-Big-Lean-Into-It) |
+| Discogs URL    | [Mr. Big - Lean Into It](https://www.discogs.com/release/2701491-Mr-Big-Lean-Into-It) |

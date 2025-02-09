@@ -29,25 +29,25 @@ styles: ["Heavy Metal", "Pop Rock", "Classic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | We Will Rock You |
-| A2 | Wishing Well |
-| A3 | Can't Get Enough |
-| A4 | Epic |
-| A5 | She's A Little Angel |
-| A6 | Killer On The Loose |
-| A7 | Smoke On The Water |
-| A8 | Voodoo Chile (Slight Return) |
-| A9 | Paranoid |
-| B1 | Down Down |
-| B2 | Crazy, Crazy Nights |
-| B3 | School's Out |
-| B4 | Walk This Way |
-| B5 | Is There Anybody There |
-| B6 | The Wizard |
-| B7 | Days Of No Trust |
-| B8 | Living After Midnight |
-| B9 | Free 'N' Easy |
-| B10 | Ace Of Spades |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

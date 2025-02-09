@@ -1,6 +1,6 @@
 ---
-title: "Haken - Affinity"
-artist_name: "Haken"
+title: "Haken (2) - Affinity"
+artist_name: "Haken (2)"
 artist: "haken"
 album_name: "Affinity"
 date: 2021-03-08T12:38:35.000000Z
@@ -10,8 +10,8 @@ slug: "affinity-17746783"
 hideSummary: true
 cover:
     image: "affinity-17746783.jpg"
-    alt: "Affinity by Haken"
-    caption: "Affinity by Haken"
+    alt: "Affinity by Haken (2)"
+    caption: "Affinity by Haken (2)"
 additional_images:
     - "https://i.discogs.com/NDshYEfz-YzD3ICN4Q7Vof-aslZSxMNfCy-lgiGRexo/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzQ2/NzgzLTE2MTUxOTgx/ODEtMjA0NS5qcGVn.jpeg"
     - "https://i.discogs.com/sOlD3CHic_Xbr4yw6bxNt1ji-G3psGbjyWf_8fxm0vk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NzQ2/NzgzLTE2MTUxOTgx/ODAtNTQ2OC5qcGVn.jpeg"
@@ -29,24 +29,24 @@ styles: ["Progressive Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A01 | Affinity.exe |
-| A02 | Initiate |
-| A03 | 1985 |
-| A04 | Lapse |
-| B01 | The Architect |
-| C01 | Earthrise |
-| C02 | Red Giant |
-| D01 | The Endless Knot |
-| D02 | Bound By Gravity |
-| CD-1 | Affinity.exe |
-| CD-2 | Initiate |
-| CD-3 | 1985 |
-| CD-4 | Lapse |
-| CD-5 | The Architect |
-| CD-6 | Earthrise |
-| CD-7 | Red Giant |
-| CD-8 | The Endless Knot |
-| CD-9 | Bound By Gravity |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -64,4 +64,4 @@ styles: ["Progressive Metal"]
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 579 |
 | Notes | Gatefold sleeve. Black vinyl version.  LP tracks position given with 0s on back. |
-| Discogs URL    | [Haken - Affinity](https://www.discogs.com/release/17746783-Haken-2-Affinity) |
+| Discogs URL    | [Haken (2) - Affinity](https://www.discogs.com/release/17746783-Haken-2-Affinity) |

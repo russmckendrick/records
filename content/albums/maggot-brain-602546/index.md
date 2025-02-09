@@ -32,13 +32,13 @@ The album charted in the R&B Top 20. It features a ten-minute title track, large
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Maggot Brain |
-| A2 | Can You Get To That |
-| A3 | Hit It And Quit It |
-| A4 | You And Your Folks, Me And My Folks |
-| B1 | Super Stupid |
-| B2 | Back In Our Minds |
-| B3 | Wars Of Armageddon |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

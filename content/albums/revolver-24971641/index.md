@@ -54,73 +54,73 @@ Revolver expanded the boundaries of pop music, revolutionised standard practices
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | New Stereo Mix |
-| A1 | Taxman |
-| A2 | Eleanor Rigby |
-| A3 | I'm Only Sleeping |
-| A4 | Love You To |
-| A5 | Here, There And Everywhere |
-| A6 | Yellow Submarine |
-| A7 | She Said She Said |
-| B1 | Good Day Sunshine |
-| B2 | And Your Bird Can Sing |
-| B3 | For No One |
-| B4 | Doctor Robert |
-| B5 | I Want To Tell You |
-| B6 | Got To Get You Into My Life |
-| B7 | Tomorrow Never Knows |
-|  | Revolver Sessions |
-| C1 | Tomorrow Never Knows (Take 1) |
-| C2 | Tomorrow Never Knows (Mono Mix RM 11) |
-| C3 | Got To Get You Into My Life (First Version - Take 5) |
-| C4 | Got To Get You Into My Life (Second Version Unnumbered Mix) |
-| C5 | Got To Get You Into My Life (Second Version - Take 8) |
-| C6 | Love You To (Take 1) |
-| C7 | Love You To (Unnumbered Rehearsal) |
-| D1 | Love You To (Take 7) |
-| D2 | Paperback Writer (Takes 1 And 2 - Backing Track) |
-| D3 | Rain (Take 5 - Actual Speed) |
-| D4 | Rain (Take 5 - Slowed Down For Master Tape) |
-| D5 | Doctor Robert (Take 7) |
-| D6 | And Your Bird Can Sing (First Version - Take 2) |
-| D7 | And Your Bird Can Sing (First Version - Take 2) (Giggling) |
-| E1 | And Your Bird Can Sing (Second Version - Take 5) |
-| E2 | Taxman (Take 1) |
-| E3 | I'm Only Sleeping (Rehearsal Fragment) |
-| E4 | I'm Only Sleeping (Take 2) |
-| E5 | I'm Only Sleeping (Take 5) |
-| E6 | I'm Only Sleeping (Mono Mix RM1) |
-| E7 | Eleanor Rigby (Speech Before Take 2) |
-| E8 | Eleanor Rigby (Take 2) |
-| F1 | For No One Take (10 Backing Track) |
-| F2 | Yellow Submarine (Songwriting Work Tape Part 1) |
-| F3 | Yellow Submarine (Songwriting Work Tape Part 2) |
-| F4 | Yellow Submarine (Take 4 Before Sound Effects) |
-| F5 | Yellow Submarine (Highlighted Sound Effects) |
-| F6 | I Want To Tell You (Speech And Take 4) |
-| F7 | Here, There And Everywhere (Take 6) |
-| F8 | She Said She Said (John's Demo) |
-| F9 | She Said She Said (Take 15 - Backing Track Rehearsal) |
-|  | Original Mono Master |
-| G1 | Taxman |
-| G2 | Eleanor Rigby |
-| G3 | I'm Only Sleeping |
-| G4 | Love You To |
-| G5 | Here, There And Everywhere |
-| G6 | Yellow Submarine |
-| G7 | She Said She Said |
-| H1 | Good Day Sunshine |
-| H2 | And Your Bird Can Sing |
-| H3 | For No One |
-| H4 | Doctor Robert |
-| H5 | I Want To Tell You |
-| H6 | Got To Get You Into My Life |
-| H7 | Tomorrow Never Knows |
-|  | Revolver EP |
-| I1 | Paperback Writer (Stereo) |
-| I2 | Rain (Stereo) |
-| J1 | Paperback Writer (Mono) |
-| J2 | Rain (Mono) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

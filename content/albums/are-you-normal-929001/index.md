@@ -1,7 +1,7 @@
 ---
-title: "Neds Atomic Dustbin - Are You Normal?"
-artist_name: "Neds Atomic Dustbin"
-artist: "neds-atomic-dustbin"
+title: "Ned's Atomic Dustbin - Are You Normal?"
+artist_name: "Ned's Atomic Dustbin"
+artist: "ned-s-atomic-dustbin"
 album_name: "Are You Normal?"
 date: 2019-05-31T19:17:19.000000Z
 release_date: "1992-11-03"
@@ -10,8 +10,8 @@ slug: "are-you-normal-929001"
 hideSummary: true
 cover:
     image: "are-you-normal-929001.jpg"
-    alt: "Are You Normal? by Neds Atomic Dustbin"
-    caption: "Are You Normal? by Neds Atomic Dustbin"
+    alt: "Are You Normal? by Ned's Atomic Dustbin"
+    caption: "Are You Normal? by Ned's Atomic Dustbin"
 additional_images:
     - "https://i.discogs.com/LJEuO_qgH1po0FoeicJdzicXzzxvn0uYUcoqKo0U1zY/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTAw/MS0xMTc0MTY5ODc1/LmpwZWc.jpeg"
     - "https://i.discogs.com/9JXA5SXquctQzKpj-_ohOQ-e2YD0UMWSG4FJTWnmupg/rs:fit/g:sm/q:90/h:497/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTAw/MS0xMTc0MTY5ODg0/LmpwZWc.jpeg"
@@ -32,19 +32,19 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Suave And Suffocated |
-| A2 | Walking Through Syrup |
-| A3 | Legoland |
-| A4 | Swallowing Air |
-| A5 | Who Goes First? |
-| A6 | Tantrum |
-| B1 | Not Sleeping Around |
-| B2 | You Don't Want To Do That |
-| B3 | Leg End In His Own Boots |
-| B4 | Two And Two Made Five |
-| B5 | Fracture |
-| B6 | Spring |
-| B7 | Intact |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -62,4 +62,4 @@ styles: ["Indie Rock"]
 | Label          | Sony Soho Square |
 | Catalog Number | 472633 1 |
 | Notes | printed inner sleeve with lyrics/credits |
-| Discogs URL    | [Neds Atomic Dustbin - Are You Normal?](https://www.discogs.com/release/929001-Neds-Atomic-Dustbin-Are-You-Normal) |
+| Discogs URL    | [Ned's Atomic Dustbin - Are You Normal?](https://www.discogs.com/release/929001-Neds-Atomic-Dustbin-Are-You-Normal) |

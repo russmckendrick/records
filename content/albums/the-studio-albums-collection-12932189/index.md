@@ -67,78 +67,78 @@ styles: ["Southern Rock", "Rock & Roll", "Swamp Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Creedence Clearwater Revival |
-| A1 | I Put A Spell On You |
-| A2 | The Working Man |
-| A3 | Susie Q |
-| B1 | Ninety-Nine And A Half (Won't Do) |
-| B2 | Get Down Woman |
-| B3 | Porterville |
-| B4 | Gloomy |
-| B5 | Walk On The Water |
-|  | Bayou Country |
-| C1 | Born On The Bayou |
-| C2 | Bootleg |
-| C3 | Graveyard Train |
-| D1 | Good Golly Miss Molly |
-| D2 | Penthouse Pauper |
-| D3 | Proud Mary |
-| D4 | Keep On Chooglin' |
-|  | Green River |
-| E1 | Green River |
-| E2 | Commotion |
-| E3 | Tombstone Shadow |
-| E4 | Wrote A Song For Everyone |
-| F1 | Bad Moon Rising |
-| F2 | Lodi |
-| F3 | Cross-Tie Walker |
-| F4 | Sinister Purpose |
-| F5 | The Night Time Is The Right Time |
-|  | Willy And The Poor Boys |
-| G1 | Down On The Corner |
-| G2 | It Came Out Of The Sky |
-| G3 | Cotton Fields |
-| G4 | Poorboy Shuffle |
-| G5 | Feelin' Blue |
-| H1 | Fortunate Son |
-| H2 | Don't Look Now (It Ain't You Or Me) |
-| H3 | The Midnight Special |
-| H4 | Side O' The Road |
-| H5 | Effigy |
-|  | Cosmos Factory |
-| I1 | Ramble Tamble |
-| I2 | Before You Accuse Me (Take A Look At Yourself) |
-| I3 | Travelin' Band |
-| I4 | Ooby Dooby |
-| I5 | Lookin' Out My Back Door |
-| I6 | Run Through The Jungle |
-| J1 | Up Around The Bend |
-| J2 | My Baby Left Me |
-| J3 | Who'll Stop The Rain |
-| J4 | I Heard It Through The Grapevine |
-| J5 | Long As I Can See The Light |
-|  | Pendulum |
-| K1 | Pagan Baby |
-| K2 | Sailor's Lament |
-| K3 | Chameleon |
-| K4 | Have You Ever Seen The Rain |
-| K5 | (Wish I Could) Hideaway |
-| L1 | Born To Move |
-| L2 | Hey Tonight |
-| L3 | It's Just A Thought |
-| L4 | Molina |
-| L5 | Rude Awakening #2 |
-|  | Mardi Gras |
-| M1 | Lookin' For A Reason |
-| M2 | Take It Like A Friend |
-| M3 | Need Someone To Hold |
-| M4 | Tearin' Up The Country |
-| M5 | Someday Never Comes |
-| N1 | What Are You Gonna Do |
-| N2 | Sail Away |
-| N3 | Hello Mary Lou |
-| N4 | Door To Door |
-| N5 | Sweet Hitch-Hiker |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

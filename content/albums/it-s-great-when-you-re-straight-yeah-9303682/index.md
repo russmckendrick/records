@@ -31,16 +31,16 @@ It's Great When You're Straight...Yeah received generally positive reviews from 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Reverend Black Grape |
-| A2 | In The Name Of The Father |
-| A3 | Tramazi Party |
-| A4 | Kelly's Heroes |
-| A5 | Yeah Yeah Brother |
-| B1 | A Big Day In The North |
-| B2 | Shake Well Before Opening |
-| B3 | Submarine |
-| B4 | Shake Your Money |
-| B5 | Little Bob |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -38,15 +38,15 @@ Control went on to receive several accolades, including a nomination for the Gra
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Control |
-| A2 | Nasty |
-| A3 | What Have You Done For Me Lately |
-| A4 | You Can Be Mine |
-| B1 | The Pleasure Principle |
-| B2 | When I Think Of You |
-| B3 | He Doesn't Know I'm Alive |
-| B4 | Let's Wait Awhile |
-| B5 | Funny How Time Flies (When You're Having Fun) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

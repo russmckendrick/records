@@ -36,11 +36,11 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Black Dahlia |
-| A2 |  Futile |
-| B3 | Pure Narcotic |
-| B4 | Small Fish  |
-| B5 | Stranger By The Minute |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

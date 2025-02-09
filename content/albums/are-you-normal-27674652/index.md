@@ -1,7 +1,7 @@
 ---
-title: "Neds Atomic Dustbin - Are You Normal?"
-artist_name: "Neds Atomic Dustbin"
-artist: "neds-atomic-dustbin"
+title: "Ned's Atomic Dustbin - Are You Normal?"
+artist_name: "Ned's Atomic Dustbin"
+artist: "ned-s-atomic-dustbin"
 album_name: "Are You Normal?"
 date: 2023-07-19T10:52:29.000000Z
 release_date: "1992-11-03"
@@ -10,8 +10,8 @@ slug: "are-you-normal-27674652"
 hideSummary: true
 cover:
     image: "are-you-normal-27674652.jpg"
-    alt: "Are You Normal? by Neds Atomic Dustbin"
-    caption: "Are You Normal? by Neds Atomic Dustbin"
+    alt: "Are You Normal? by Ned's Atomic Dustbin"
+    caption: "Are You Normal? by Ned's Atomic Dustbin"
 additional_images:
     - "https://i.discogs.com/KdJm9rsKSvC3x_lnB5LTRCcNrN-wxGbLf2j2HC6RcEk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njc0/NjUyLTE2ODk0MDg2/MjUtNzczMS5qcGVn.jpeg"
     - "https://i.discogs.com/ikxOEaGLNSdm8wQ_zn5_AE756S5VKb7eqcgsEt6dc6E/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njc0/NjUyLTE2ODk0MDg2/MzctODg2Ni5qcGVn.jpeg"
@@ -35,19 +35,19 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Suave And Suffocated |
-| A2 | Walking Through Syrup |
-| A3 | Legoland |
-| A4 | Swallowing Air |
-| A5 | Who Goes First? |
-| A6 | Tantrum |
-| B1 | Not Sleeping Around |
-| B2 | You Don't Want To Do That |
-| B3 | Leg End In His Own Boots |
-| B4 | Two And Two Made Five |
-| B5 | Fracture |
-| B6 | Spring |
-| B7 | Intact |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -65,4 +65,4 @@ styles: ["Indie Rock", "Alternative Rock"]
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP3329 |
 | Notes | Edition of 1000 machine numbered copies. Matte sleeve. White, poly-lined innersleeve. A 12x12" double sided printed insert with lyrics and credits which replicates original 1992 innersleeve is included. Runouts are etched. |
-| Discogs URL    | [Neds Atomic Dustbin - Are You Normal?](https://www.discogs.com/release/27674652-Neds-Atomic-Dustbin-Are-You-Normal) |
+| Discogs URL    | [Ned's Atomic Dustbin - Are You Normal?](https://www.discogs.com/release/27674652-Neds-Atomic-Dustbin-Are-You-Normal) |

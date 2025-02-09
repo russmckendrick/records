@@ -47,18 +47,18 @@ Version 2.0 was a commercial success, topping the charts in the United Kingdom, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A0001 | Temptation Waits |
-| A0002 | I Think I'm Paranoid |
-| A0003 | When I Grow Up |
-| B0004 | Medication |
-| B0005 | Special |
-| B0006 | Hammering In My Head |
-| C0007 | Push It |
-| C0008 | The Trick Is To Keep Breathing |
-| C0009 | Dumb |
-| D0010 | Sleep Together |
-| D0011 | Wicked Ways |
-| D0012 | You Look So Fine |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -32,13 +32,13 @@ styles: ["Prog Rock", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Strung Out  |
-| A2 | Dawn Again |
-| A3 | Ritual |
-| A4 | The Toil |
-| A5 | Hallucinations And Delusions |
-| B1 | The Confined Escape |
-| B2 | Our Shelter |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -29,8 +29,8 @@ styles: ["Post Rock", "Soundtrack", "Ambient", "Abstract"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | With Arms And Legs Moving / The Tell Tales |
-| B | They Glow In Light / Like Coloured Glass |
+|  |  |
+|  |  |
 
 
 ## Apple Music

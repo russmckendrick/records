@@ -37,13 +37,13 @@ The album is titled after a military slang term well known at the time of releas
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Waiting Room |
-| A2 | Bulldog Front |
-| A3 | Bad Mouth |
-| A4 | Burning |
-| B1 | Give Me The Cure |
-| B2 | Suggestion |
-| B3 | Glue Man |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

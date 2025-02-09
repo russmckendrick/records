@@ -1,6 +1,6 @@
 ---
-title: "Bad Company - Bad Co"
-artist_name: "Bad Company"
+title: "Bad Company (3) - Bad Co"
+artist_name: "Bad Company (3)"
 artist: "bad-company"
 album_name: "Bad Co"
 date: 2020-08-02T13:38:18.000000Z
@@ -10,8 +10,8 @@ slug: "bad-co-841688"
 hideSummary: true
 cover:
     image: "bad-co-841688.jpg"
-    alt: "Bad Co by Bad Company"
-    caption: "Bad Co by Bad Company"
+    alt: "Bad Co by Bad Company (3)"
+    caption: "Bad Co by Bad Company (3)"
 additional_images:
     - "https://i.discogs.com/-998JEtF1jsE3gZUGKOUymk4p_56txkatqtcyLxj3gQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTY4/OC0xMjc1NjIyOTEy/LmpwZWc.jpeg"
     - "https://i.discogs.com/QSV7OvemGUemuYJQHct0LEYjIuPXJKubbNWc53xk0rY/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTY4/OC0xMzI2MTI5MjE2/LmpwZWc.jpeg"
@@ -35,14 +35,14 @@ Among the songs recorded during the album sessions were two covers of tracks ori
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Can't Get Enough |
-| A2 | Rock Steady |
-| A3 | Ready For Love |
-| A4 | Don't Let Me Down |
-| B1 | Bad Company |
-| B2 | The Way I Choose |
-| B3 | Movin' On |
-| B4 | Seagull |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -61,4 +61,4 @@ Among the songs recorded during the album sessions were two covers of tracks ori
 | Label          | Island Records |
 | Catalog Number | ILPS 9279 |
 | Notes | Original UK release in matte gatefold sleeve and custom red label design. Island Music Ltd/Copyright Control publishing in contrast to this [r6201489] with Island Music Ltd/Bad Company Music Inc. and even later [r26598674] with Island Music Ltd only. Early copies came with a red sticker on top left front cover, featuring the name of the band and its members.  [Back cover:] Recorded at Headley Grange, Hampshire November 1973 Recording facilities ▪ Ronnie Lane's Mobile Studio Mixed at Olympic Studios London and The Temple Goring Cut at The Mastering Lab Los Angeles Printed in England by Robor Limited  [Spine and labels:] ℗ 1974 Island Records Ltd  Publishing: • A1, A3, B3: Island Music Ltd. • A2, A4 to B2, B4: Copyright Control.  Similar gatefold versions UK: - [r=6201489] Different publishing/-layout on labels. - [r=24083015] Reissue. Etched runouts (diff. pressing). - [r=15509303] Reissue. Different publishing/-layout on labels & smaller text, diff. pressing. - [r=15444584] has "STEREO" on front sleeve/labels & diff. cat.# (most probably not even for the UK market).  Similar non-gatefold reissues UK: - [r=6548764] - [r=2130994] |
-| Discogs URL    | [Bad Company - Bad Co](https://www.discogs.com/release/841688-Bad-Company-3-Bad-Co) |
+| Discogs URL    | [Bad Company (3) - Bad Co](https://www.discogs.com/release/841688-Bad-Company-3-Bad-Co) |

@@ -41,20 +41,20 @@ This is Music: The Singles 92–98 is a singles compilation album by the English
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | This Is Music |
-| A2 | Slide Away |
-| A3 | Lucky Man |
-| A4 | History |
-| B1 | She's A Superstar |
-| B2 | On Your Own |
-| B3 | Blue |
-| B4 | Sonnet |
-| C1 | All In The Mind |
-| C2 | The Drugs Don't Work |
-| C3 | Gravity Grave |
-| D1 | Bitter Sweet Symphony |
-| D2 | Love Is Noise |
-| D3 | Rather Be |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

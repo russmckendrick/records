@@ -27,56 +27,56 @@ styles: ["Ska", "Rocksteady", "Reggae"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Invitation To Jamaica |
-| A2 | Fat Man |
-| A3 | Tell Me Darling |
-| A4 | Running Around |
-| A5 | Miss Jamaica |
-| A6 | Housewife's Choice  |
-| A7 | Give Me All Your Love |
-| A8 | Darling Patricia |
-| B1 | Rough And Tough |
-| B2 | Man To Man |
-| B3 | Uno - Dos - Tres |
-| B4 | Slow Boat |
-| B5 | Rude Boy |
-| B6 | Gone Is Yesterday |
-| B7 | I'm In The Mood For Ska |
-| B8 | Virginia Ska |
-| B9 | Satan |
-| C1 | One Eyed Giant |
-| C2 | Every Night |
-| C3 | King Size |
-| C4 | Syncopate |
-| C5 | Keep The Pressure On |
-| C6 | Oh Babe |
-| C7 | Train To Skaville |
-| C8 | Rudy, A Message To You |
-| D1 | Dreader Than Dread |
-| D2 | It's Raining |
-| D3 | The Whip |
-| D4 | Pretty Africa |
-| D5 | Rock Steady |
-| D6 | Rock Steady Train |
-| D7 | King Without A Throne |
-| D8 | Perfidia |
-| E1 | Musical Train |
-| E2 | Do The Beng Beng |
-| E3 | Way Of Life |
-| E4 | Second Fiddle |
-| E5 | People Funny Boy |
-| E6 | I've Got To Get You Out Of My Mind |
-| E7 | Do The Reggay |
-| E8 | Nana |
-| F1 | Tell Me Baby |
-| F2 | Mama Look Deh |
-| F3 | Hong Kong Flu |
-| F4 | Pressure Drop |
-| F5 | Them A Laugh And A Ki Ki |
-| F6 | Walking In The Rain |
-| F7 | Satisfaction |
-| F8 | Black And White |
-| F9 | Rasta Never Fails |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -1,6 +1,6 @@
 ---
-title: "Clutch - Earth Rocker"
-artist_name: "Clutch"
+title: "Clutch (3) - Earth Rocker"
+artist_name: "Clutch (3)"
 artist: "clutch"
 album_name: "Earth Rocker"
 date: 2015-08-09T08:44:32.000000Z
@@ -10,8 +10,8 @@ slug: "earth-rocker-4382663"
 hideSummary: true
 cover:
     image: "earth-rocker-4382663.jpg"
-    alt: "Earth Rocker by Clutch"
-    caption: "Earth Rocker by Clutch"
+    alt: "Earth Rocker by Clutch (3)"
+    caption: "Earth Rocker by Clutch (3)"
 additional_images:
     - "https://i.discogs.com/96R5PzwhJ_Gq5q1cNke3JkLmCi5uvco8chPMF3VqxQk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODI2/NjMtMTM2MzQyOTM3/OS0yNjIzLmpwZWc.jpeg"
     - "https://i.discogs.com/RdWJ7xKdeEJB-HEwMulz3WiQQvjTJCyrZOIQJLy9f_U/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODI2/NjMtMTQ3MDIyODAy/My03NjYwLmpwZWc.jpeg"
@@ -35,17 +35,17 @@ Earth Rocker is the tenth studio album by American rock band Clutch. It was rele
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Earth Rocker |
-| A2 | Crucial Velocity |
-| A3 | Mr. Freedom |
-| A4 | D.C. Sound Attack! |
-| A5 | Unto The Breach |
-| A6 | Gone Cold |
-| B7 | The Face |
-| B8 | Book, Saddle, & Go |
-| B9 | Cyborg Bette |
-| B10 | Oh, Isabella |
-| B11 | The Wolf Man Kindly Requests... |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -64,4 +64,4 @@ Earth Rocker is the tenth studio album by American rock band Clutch. It was rele
 | Label          | Weathermaker Music |
 | Catalog Number | WM028 |
 | Notes | Gatefold sleeve.    Recorded and mixed at The Machine Shop, Belleville, NJ. MachineShopProductions.com  Mastered at Taloowa Mastering, Yonkers, New York.    Additional information at:  earthrocker.com / pro-rock.com / fb: facebook.com.clutchband / twitter:@clutchofficial    Merchandise: www.clutchmerch.com    Design & artwork: Nick Lakiotes / Twitter:@micklak    Artist management: At Isschar Entertainment, NYC / issacherentertainment.com  Legal representation: At Lommen-Abdo / Iommen.com    Weathermaker Music Management: www.weathermakermusic.com    Publishing: Jack Flanagan / Sea Gator Music (ASCAP) / ascap.com  Worldwide administrator: Jon Grant / BMG Chrysalis / bmgchrysalis.com    All songs published by Sea Gator Music (ASCAP).  All rights administered by BMG Rights Management (US) LLC.    Vinyl mastering credits obtained from information in the vinyl runout. |
-| Discogs URL    | [Clutch - Earth Rocker](https://www.discogs.com/release/4382663-Clutch-3-Earth-Rocker) |
+| Discogs URL    | [Clutch (3) - Earth Rocker](https://www.discogs.com/release/4382663-Clutch-3-Earth-Rocker) |

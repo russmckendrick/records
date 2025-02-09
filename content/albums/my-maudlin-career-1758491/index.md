@@ -35,17 +35,17 @@ Camera Obscura perform a retro-twee pop that skirts between ‘60s girl-group ho
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | French Navy |
-| A2 | The Sweetest Thing |
-| A3 | You Told A Lie |
-| A4 | Away With Murder |
-| A5 | Swans |
-| A6 | James |
-| B1 | Careless Love |
-| B2 | My Maudlin Career |
-| B3 | Forests & Sands |
-| B4 | Other Towns & Cities |
-| B5 | Honey In The Sun |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

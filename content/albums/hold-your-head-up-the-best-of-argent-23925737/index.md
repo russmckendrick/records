@@ -27,16 +27,16 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hold Your Head Up |
-| A2 | Liar |
-| A3 | Tragedy |
-| A4 | Clown |
-| A5 | Dance In The Smoke |
-| B1 | God Gave Rock & Roll To You |
-| B2 | It's Only Money (Pt 2) |
-| B3 | Thunder & Lightning |
-| B4 | Schoolgirl |
-| B5 | Keep On Rollin' |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

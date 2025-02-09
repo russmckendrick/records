@@ -47,17 +47,17 @@ Bowie supported the album on the worldwide A Reality Tour throughout 2003 and 20
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | New Killer Star |
-| A2 | Pablo Picasso |
-| A3 | Never Get Old |
-| A4 | The Loneliest Guy |
-| A5 | Looking For Water |
-| A6 | She'll Drive The Big Car |
-| B1 | Days |
-| B2 | Fall Dog Bombs The Moon |
-| B3 | Try Some, Buy Some |
-| B4 | Reality |
-| B5 | Bring Me The Disco King |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

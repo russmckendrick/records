@@ -1,6 +1,6 @@
 ---
-title: "Squeeze - Singles - 45's And Under"
-artist_name: "Squeeze"
+title: "Squeeze (2) - Singles - 45's And Under"
+artist_name: "Squeeze (2)"
 artist: "squeeze"
 album_name: "Singles - 45's And Under"
 date: 2015-09-11T18:02:25.000000Z
@@ -10,8 +10,8 @@ slug: "singles-45-s-and-under-1592619"
 hideSummary: true
 cover:
     image: "singles-45-s-and-under-1592619.jpg"
-    alt: "Singles - 45's And Under by Squeeze"
-    caption: "Singles - 45's And Under by Squeeze"
+    alt: "Singles - 45's And Under by Squeeze (2)"
+    caption: "Singles - 45's And Under by Squeeze (2)"
 additional_images:
     - "https://i.discogs.com/1B2Jgg_3JpZ6LcChTmb2QNpwgyMfN2QG9nG4xfPqaV0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI2/MTktMTI2OTg3NzY5/MC5qcGVn.jpeg"
     - "https://i.discogs.com/57e-xzzX2Yfh_N-gtRY5pWuFDM5gub5_dJAi1I6WRg8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTI2/MTktMTI2OTg3Nzcz/NC5qcGVn.jpeg"
@@ -35,18 +35,18 @@ Every song in the collection is expertly built so the chronological track listin
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Take Me I'm Yours |
-| A2 | Goodbye Girl |
-| A3 | Cool For Cats |
-| A4 | Up The Junction |
-| A5 | Slap And Tickle |
-| A6 | Another Nail In My Heart |
-| A7 | Pulling Mussels (From The Shell) |
-| B1 | Is That Love |
-| B2 | Tempted |
-| B3 | Labelled With Love |
-| B4 | Black Coffee In Bed |
-| B5 | Annie Get Your Gun |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -64,4 +64,4 @@ Every song in the collection is expertly built so the chronological track listin
 | Label          | A&M Records |
 | Catalog Number | AMLH 68552 |
 | Notes | Made in England    Printed inner sleeve   |
-| Discogs URL    | [Squeeze - Singles - 45's And Under](https://www.discogs.com/release/1592619-Squeeze-2-Singles-45s-And-Under) |
+| Discogs URL    | [Squeeze (2) - Singles - 45's And Under](https://www.discogs.com/release/1592619-Squeeze-2-Singles-45s-And-Under) |

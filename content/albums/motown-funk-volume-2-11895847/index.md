@@ -31,25 +31,25 @@ styles: ["Funk", "Soul"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Drink The Wine (Album Version) |
-| A2 | Gonna Find A True Love (Single Version) |
-| A3 | Keep On Truckin' (Album Version) |
-| A4 | Machine Gun (Album Version) |
-| A5 | Thank You Falettinme Be Mice Elf Agin |
-| B1 | Every Time I See You I Go Wild |
-| B2 | (I Know) I'm Losing You (Album Version) |
-| B3 | It's The Same Old Love (Album Version) |
-| B4 | Behold |
-| B5 | Closing Jimmy's |
-| C1 | To Know You Is To Love You (Album Version) |
-| C2 | You Can't Judge A Book By It's Cover (Album Version) |
-| C3 | Runnin' (From Hell Up In Harlem OST) |
-| C4 | Brick House (Single Version) |
-| C5 | Got To Give It Up (Part 1) |
-| D1 | Haiku (Album Version) |
-| D2 | Mister Magic (Album Version) |
-| D3 | UFO's (Album Version) |
-| D4 | Let It Whip (Single Version) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

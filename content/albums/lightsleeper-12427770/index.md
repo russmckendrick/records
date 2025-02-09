@@ -1,6 +1,6 @@
 ---
-title: "Neil  Liam Finn - Lightsleeper"
-artist_name: "Neil  Liam Finn"
+title: "Neil & Liam Finn - Lightsleeper"
+artist_name: "Neil & Liam Finn"
 artist: "neil-liam-finn"
 album_name: "Lightsleeper"
 date: 2018-08-25T08:50:37.000000Z
@@ -10,8 +10,8 @@ slug: "lightsleeper-12427770"
 hideSummary: true
 cover:
     image: "lightsleeper-12427770.jpg"
-    alt: "Lightsleeper by Neil  Liam Finn"
-    caption: "Lightsleeper by Neil  Liam Finn"
+    alt: "Lightsleeper by Neil & Liam Finn"
+    caption: "Lightsleeper by Neil & Liam Finn"
 additional_images:
     - "https://i.discogs.com/4LgTJMVX2Xf08NHHh9i51WXT2PJ3wxHXQCGz-pCBGKY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NzcwLTE1NjMzMDEx/MDItMTExNi5qcGVn.jpeg"
     - "https://i.discogs.com/8ZvlFSREodPYnkutJSyI2RxT68-nlUWUbgFqO_P09Gc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDI3/NzcwLTE1NjMzMDEx/MDItMzM3Ny5qcGVn.jpeg"
@@ -40,18 +40,18 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Prelude - Island Of Peace |
-| A2 | Meet Me In The Air |
-| A3 | Where's My Room |
-| B1 | Listen |
-| B2 | Any Other Way |
-| B3 | Back To Life |
-| C1 | Anger Plays A Part |
-| C2 | Troubles |
-| C3 | Hiding Place |
-| D1 | Ghosts |
-| D2 | We Know What It Means |
-| D3 | Hold Her Close |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -69,4 +69,4 @@ styles: []
 | Label          | Lester Records |
 | Catalog Number | LRNFLF0017LP |
 | Notes | Additional recordings at Thonic Peenith studios LA and Studio C, Greece.  Neil & Sharon Finn published by Kobalt Publishing, Liam Finn published by Mushroom Publishing  ℗ & © 2018 Lester Records Ltd under exclusive license to Inertia Music / [PIAS]  All matrix details are etched. Mastered at Takt = Plated at. |
-| Discogs URL    | [Neil  Liam Finn - Lightsleeper](https://www.discogs.com/release/12427770-Neil-Liam-Finn-Lightsleeper) |
+| Discogs URL    | [Neil & Liam Finn - Lightsleeper](https://www.discogs.com/release/12427770-Neil-Liam-Finn-Lightsleeper) |

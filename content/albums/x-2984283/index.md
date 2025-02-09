@@ -33,18 +33,18 @@ X, or x, is the twenty-fourth letter of the Latin alphabet, used in the modern E
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Feel Good Hit Of The Summer |
-| A2 | The Lost Art Of Keeping A Secret |
-| A3 | Leg Of Lamb |
-| A4 | Auto Pilot |
-| A5 | Better Living Through Chemistry |
-| A6 | Monsters In The Parasol |
-| A7 | Quick And To The Pointless |
-| B1 | In The Fade |
-| B2 | Tension Head |
-| B3 | Lightning Song |
-| B4 | I Think I Lost My Headache |
-| B5 | Ode To Clarissa |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

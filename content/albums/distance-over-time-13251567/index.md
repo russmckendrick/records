@@ -46,26 +46,26 @@ Distance Over Time is the fourteenth studio album by American progressive metal 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Untethered Angel |
-| A2 | Paralyzed |
-| A3 | Fall Into The Light |
-| B1 | Barstool Warrior |
-| B2 | Room 137 |
-| B3 | S2N |
-| C1 | At Wit's End |
-| C2 | Out Of Reach |
-| D1 | Pale Blue Dot |
-| D2 | Viper King |
-| CD-1 | Untethered Angel |
-| CD-2 | Paralyzed |
-| CD-3 | Fall Into The Light |
-| CD-4 | Barstool Warrior |
-| CD-5 | Room 137 |
-| CD-6 | S2N |
-| CD-7 | A Wit's End |
-| CD-8 | Out Of Reach |
-| CD-9 | Pale Blue Dot |
-| CD-10 | Viper King |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

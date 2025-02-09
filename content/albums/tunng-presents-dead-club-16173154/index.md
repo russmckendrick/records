@@ -27,18 +27,18 @@ styles: ["Folk Rock", "Folk", "Experimental", "Indie Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Eating The Dead |
-| A2 | Death Is The New Sex  |
-| A3 | SDC |
-| B1 | Three Birds |
-| B2 | A Million Colours |
-| B3 | Carry You |
-| C1 | The Last Day |
-| C2 | Tsunami |
-| C3 | Man |
-| D1 | Scared To Death  |
-| D2 | Fatally Human |
-| D3 | Woman |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

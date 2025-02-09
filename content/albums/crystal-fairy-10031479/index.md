@@ -41,17 +41,17 @@ At the film's Sundance premiere, Silva said that his film, which is based on a r
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Chiseler |
-| A2 | Drugs On The Bus |
-| A3 | Necklace Of Divorce |
-| A4 | Moth Tongue |
-| A5 | Crystal Fairy |
-| B1 | Secret Agent Rat |
-| B2 | Under Trouble |
-| B3 | Bent Teeth |
-| B4 | Posesión |
-| B5 | Sweet Self |
-| B6 | Vampire X-Mass |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

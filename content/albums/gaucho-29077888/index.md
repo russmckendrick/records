@@ -34,13 +34,13 @@ The making of the album was plagued by a number of creative, personal, and profe
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Babylon Sisters |
-| A2 | Hey Nineteen |
-| A3 | Glamour Profession |
-| B1 | Gaucho |
-| B2 | Time Out Of Mind |
-| B3 | My Rival |
-| B4 | Third World Man |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

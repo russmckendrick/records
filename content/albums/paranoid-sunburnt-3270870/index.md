@@ -27,17 +27,17 @@ styles: ["Alternative Rock", "Funk Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Selling Jesus |
-| A2 | Intellectualise My Blackness |
-| A3 | I Can Dream |
-| B1 | Little Baby Swastikkka |
-| B2 | All In The Name Of Pity |
-| B3 | Charity |
-| C1 | It Takes Blood & Guts To Be This Cool But I´m Still Just A Cliche |
-| C2 | Weak |
-| C3 | And Here I Stand |
-| D1 | 100 Ways To Be A Good Girl |
-| D2 | Rise Up |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

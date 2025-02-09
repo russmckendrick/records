@@ -1,6 +1,6 @@
 ---
-title: "Jim Bob - This Is My Mixtape EP"
-artist_name: "Jim Bob"
+title: "Jim Bob (2) - This Is My Mixtape EP"
+artist_name: "Jim Bob (2)"
 artist: "jim-bob"
 album_name: "This Is My Mixtape EP"
 date: 2023-12-04T00:17:37.000000Z
@@ -10,8 +10,8 @@ slug: "this-is-my-mixtape-ep-29096545"
 hideSummary: true
 cover:
     image: "this-is-my-mixtape-ep-29096545.jpg"
-    alt: "This Is My Mixtape EP by Jim Bob"
-    caption: "This Is My Mixtape EP by Jim Bob"
+    alt: "This Is My Mixtape EP by Jim Bob (2)"
+    caption: "This Is My Mixtape EP by Jim Bob (2)"
 additional_images:
     - "https://i.discogs.com/3PAzV-KLuWqKrw2Q1oUNkBvYu0IbKLrA4FyKYk0dauI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDk2/NTQ1LTE3MTUxMDA2/NDEtMzQ1MS5qcGVn.jpeg"
     - "https://i.discogs.com/hPoZ5Ier1jWxqzHgZRimoBui4KK7e1SqIgQdi99oHXU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDk2/NTQ1LTE3MTUxMDA2/NDEtMzQ3My5qcGVn.jpeg"
@@ -31,10 +31,10 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Are ‘Friends’ Electric? |
-| A2 | Pretty In Pink |
-| B1 | Labelled With Love |
-| B2 | Geno |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -51,4 +51,4 @@ styles: ["Indie Rock"]
 | Format         | Vinyl 10" 45 RPM EP Limited Edition (Yellow, Transparent) |
 | Label          | Cherry Red |
 | Catalog Number | 5013929153585 |
-| Discogs URL    | [Jim Bob - This Is My Mixtape EP](https://www.discogs.com/release/29096545-Jim-Bob-2-This-Is-My-Mixtape-EP) |
+| Discogs URL    | [Jim Bob (2) - This Is My Mixtape EP](https://www.discogs.com/release/29096545-Jim-Bob-2-This-Is-My-Mixtape-EP) |

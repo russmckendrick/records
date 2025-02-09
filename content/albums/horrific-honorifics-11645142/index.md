@@ -32,12 +32,12 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | False Spring |
-| A2 | The Golden Boy Swallowed By The Sea |
-| A3 | Will-O-The-Wisp |
-| B1 | Victory |
-| B2 | In Bad Dreams |
-| B3 | The Faith Healer |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

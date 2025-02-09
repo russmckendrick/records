@@ -39,16 +39,16 @@ Although it received generally mixed to negative reviews, the album peaked at No
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Tailgunner |
-| A2 | Holy Smoke |
-| A3 | No Prayer For The Dying |
-| A4 | Public Enema Number One |
-| A5 | Fates Warning |
-| B1 | The Assassin |
-| B2 | Run Silent Run Deep |
-| B3 | Hooks In You |
-| B4 | Bring Your Daughter...To The Slaughter |
-| B5 | Mother Russia |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -57,17 +57,17 @@ styles: ["Afrobeat", "Fusion"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Field Negus |
-| A2 | Pick Up Your Burning Cross |
-| A3 | Think Of Home |
-| B1 | Hustle |
-| B2 | For The Culture |
-| B3 | To Never Forget The Source |
-| C1 | In Rememberance Of Those Fallen |
-| C2 | Let The Circle Be Unbroken |
-| D1 | Envision Yourself Levitating |
-| D2 | Throughout The Madness, Stay Strong |
-| D3 | Black |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

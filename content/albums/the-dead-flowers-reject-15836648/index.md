@@ -30,18 +30,18 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | What It's Like To Be Hated |
-| A2 | GSOH |
-| A3 | Been Here Before |
-| A4 | When The Wind Blows |
-| A5 | Can't Afford To Die |
-| A6 | Church Of The Drive Thru Elvis |
-| A7 | I Care |
-| B1 | King Of Beauty |
-| B2 | But The Trains Run On Time |
-| B3 | Check Under The Bed |
-| B4 | I Deserve What I Get |
-| B5 | Railings |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

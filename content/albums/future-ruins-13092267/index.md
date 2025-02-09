@@ -33,16 +33,16 @@ Future Ruins is the sixth studio album by English alternative rock band Swervedr
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Mary Winter |
-| A2 | The Lonely Crowd Fades In The Air |
-| A3 | Future Ruins |
-| A4 | Theeascending |
-| A5 | Drone Lover |
-| B1 | Spiked Flower |
-| B2 | Everybody's Going Somewhere & No-One's Going Anywhere |
-| B3 | Golden Remedy |
-| B4 | Good Times Are So Hard To Follow |
-| B5 | Radio-Silent |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

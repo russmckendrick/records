@@ -36,19 +36,19 @@ Following the album's release, a falling out with the band's record label, EMI, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Should Have Known Better |
-| A2 | Two People In A Room |
-| A3 | The 15th |
-| A4 | The Other Window |
-| A5 | Single K.O. |
-| A6 | A Touching Display |
-| A7 | On Returning |
-| B1 | A Mutual Friend |
-| B2 | Blessed State |
-| B3 | Once Is Enough |
-| B4 | Map Ref. 41ºN 93ºW |
-| B5 | Indirect Enquiries |
-| B6 | 40 Versions |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

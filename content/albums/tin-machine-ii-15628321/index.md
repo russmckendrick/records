@@ -37,19 +37,19 @@ The cover artwork features four Greek Kouroi and was controversial in the US due
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Baby Universal |
-| A2 | One Shot |
-| A3 | You Belong In Rock N' Roll |
-| A4 | If There Is Something |
-| A5 | Amlapura |
-| A6 | Betty Wrong |
-| B1 | You Can't Talk |
-| B2 | Stateside |
-| B3 | Shopping For Girls |
-| B4 | A Big Hurt |
-| B5 | Sorry |
-| B6 | Goodbye Mr. Ed |
-| B7 | Hammerhead |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -1,6 +1,6 @@
 ---
-title: "Ghost - Impera"
-artist_name: "Ghost"
+title: "Ghost (32) - Impera"
+artist_name: "Ghost (32)"
 artist: "ghost"
 album_name: "Impera"
 date: 2022-03-15T04:22:17.000000Z
@@ -10,8 +10,8 @@ slug: "impera-22460698"
 hideSummary: true
 cover:
     image: "impera-22460698.jpg"
-    alt: "Impera by Ghost"
-    caption: "Impera by Ghost"
+    alt: "Impera by Ghost (32)"
+    caption: "Impera by Ghost (32)"
 additional_images:
     - "https://i.discogs.com/NMNX4VHClvreZj25vuKm70gbHE7Bmfuv0OHfg_vVV8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDYw/Njk4LTE2NDY5OTU5/NDktODk5OS5qcGVn.jpeg"
     - "https://i.discogs.com/jPXFMMA9s6c3bmA_3ThL-mJAj8mOc3h1smYpjRi03pM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDYw/Njk4LTE2NDY5OTU5/NDgtNDE4Ny5qcGVn.jpeg"
@@ -84,18 +84,18 @@ At the time, Forge was already planning to make a record about the bubonic plagu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Imperium |
-| A2 | Kaisarion |
-| A3 | Spillways |
-| A4 | Call Me Little Sunshine  |
-| A5 | Hunter's Moon  |
-| A6 | Watcher In The Sky |
-| B1 | Dominion |
-| B2 | Twenties |
-| B3 | Darkness At The Heart Of My Love |
-| B4 | Griftwood |
-| B5 | Bite Of Passage  |
-| B6 | Respite On The Spitalfields |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -114,4 +114,4 @@ At the time, Forge was already planning to make a record about the bubonic plagu
 | Label          | Loma Vista |
 | Catalog Number | LVR02521 |
 | Notes | Issued with a 28-page booklet. Total number of copies unknown, 200 copies with hand numbered obi-strip exclusive to Assai Records.  Recorded April 2020 - July 2021. Mixed June - August 2021. Mastered August 2021.  Hype sticker: Dark Magenta Vinyl Featuring new singles "Hunter's Moon" & "Call Me Little Sunshine"  Plus a 28-page book of illustrations |
-| Discogs URL    | [Ghost - Impera](https://www.discogs.com/release/22460698-Ghost-32-Impera) |
+| Discogs URL    | [Ghost (32) - Impera](https://www.discogs.com/release/22460698-Ghost-32-Impera) |

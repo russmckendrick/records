@@ -31,16 +31,16 @@ Sadness Sets Me Free is the eighth studio album by Welsh musician Gruff Rhys, re
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Sadness Sets Me Free |
-| A2 | Bad Friend |
-| A3 | Celestial Candyfloss |
-| A4 | Silver Lining Lead Balloons |
-| A5 | On The Far Side Of The Dollar |
-| B1 | They Sold My Home To Build A Skyscraper |
-| B2 | Peace Signs |
-| B3 | Cover Up The Cover Up |
-| B4 | I Tendered My Resignation |
-| B5 | I'll Keep Singing |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

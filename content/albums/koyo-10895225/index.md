@@ -1,6 +1,6 @@
 ---
-title: "Koyo - Koyo"
-artist_name: "Koyo"
+title: "Koyo (2) - Koyo"
+artist_name: "Koyo (2)"
 artist: "koyo"
 album_name: "Koyo"
 date: 2017-09-23T11:29:08.000000Z
@@ -10,8 +10,8 @@ slug: "koyo-10895225"
 hideSummary: true
 cover:
     image: "koyo-10895225.jpg"
-    alt: "Koyo by Koyo"
-    caption: "Koyo by Koyo"
+    alt: "Koyo by Koyo (2)"
+    caption: "Koyo by Koyo (2)"
 additional_images:
     - "https://i.discogs.com/04I72pvORZe7MdQ42MI6xvORrvXTiujvsKDEBNH41dE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODk1/MjI1LTE1MzU1NjUz/MzAtMTQ0MC5qcGVn.jpeg"
 genres: ["Rock"]
@@ -30,16 +30,16 @@ The band's music has been compared to Long Island emo, pop punk and melodic hard
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Strange Bird In The Sky |
-| A2 | Jettisoned |
-| A3 | The Beauty In Loneliness |
-| B1 | Lost In The Kingdom |
-| B2 | Jouska |
-| C1 | Ray Of Sunshine |
-| C2 | What Is Mine |
-| C3 | Now I Understand |
-| D1 | Tetrachromat (Parts 1 & 2) |
-| D2 | Release |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -58,4 +58,4 @@ The band's music has been compared to Long Island emo, pop punk and melodic hard
 | Label          | 88 Watt |
 | Catalog Number | 88WLPR004X |
 | Notes | Gatefold sleeve |
-| Discogs URL    | [Koyo - Koyo](https://www.discogs.com/release/10895225-Koyo-2-Koyo) |
+| Discogs URL    | [Koyo (2) - Koyo](https://www.discogs.com/release/10895225-Koyo-2-Koyo) |

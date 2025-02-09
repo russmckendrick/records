@@ -46,62 +46,62 @@ styles: ["Hard Rock", "Glam"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Too Fast For Love (1981) |
-| A1 | Live Wire  |
-| A2 | Come On And Dance  |
-| A3 | Public Enemy #1  |
-| A4 | Merry-Go-Round  |
-| A5 | Take Me To The Top  |
-| B1 | Piece Of Your Action  |
-| B2 | Starry Eyes  |
-| B3 | Too Fast For Love  |
-| B4 | On With The Show  |
-|  | Shout At The Devil (1983) |
-| C1 | In The Beginning |
-| C2 | Shout At The Devil |
-| C3 | Looks That Kill |
-| C4 | Bastard |
-| C5 | God Bless The Children Of The Beast |
-| C6 | Helter Skelter |
-| D1 | Red Hot |
-| D2 | Too Young To Fall In Love |
-| D3 | Knock 'em Dead, Kid |
-| D4 | Ten Seconds To Love |
-| D5 | Danger |
-|  | Theatre Of Pain (1985) |
-| E1 | City Boy Blues |
-| E2 | Smokin' In The Boys Room |
-| E3 | Louder Than Hell |
-| E4 | Keep Your Eye On The Money |
-| E5 | Home Sweet Home |
-| F1 | Tonight We Need A Lover |
-| F2 | Use It Or Lose It |
-| F3 | Save Our Souls |
-| F4 | Raise Your Hands To Rock |
-| F5 | Fight For Your Rights |
-|  | Girls, Girls, Girls (1987) |
-| G1 | Wild Side |
-| G2 | Girls, Girls, Girls |
-| G3 | Dancing On Glass |
-| G4 | Bad Boy Boogie |
-| G5 | Nona |
-| H1 | Five Years Dead |
-| H2 | All In The Name Of... |
-| H3 | Sumthin' For Nuthin' |
-| H4 | You're All I Need |
-| H5 | Jailhouse Rock (Live) |
-|  | Dr. Feelgood (1989) |
-| I1 | T.N.T Terror 'n Tinseltown |
-| I2 | Dr. Feelgood |
-| I3 | Slice Of Your Pie |
-| I4 | Rattlesnake Shake |
-| I5 | Kickstart My Heart |
-| I6 | Without You |
-| J1 | Same Ol' Situation S.O.S. |
-| J2 | Sticky Sweet |
-| J3 | She Goes Down |
-| J4 | Don't Go Away Mad Just Go Away |
-| J5 | Time For Change |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

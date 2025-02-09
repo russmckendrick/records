@@ -33,19 +33,19 @@ styles: ["Art Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Jibber And Twitch |
-| A2 | Gena Lolla Brigida |
-| A3 | Hello Mr. Sparrow |
-| B4 | It's A Lovely Day |
-| B5 | A Wooden Fish On Wheels |
-| B6 | Nurses Whispering Verses |
-| C7 | Is This The Life? |
-| C8 | A Little Man And A House |
-| C9 | Hope Day |
-| D10 | Dinner Time |
-| D11 | Ice A Spot And A Dot On The Dog |
-| D12 | R.E.S. |
-| D13 | To Go Off And Things |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

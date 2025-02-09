@@ -45,30 +45,30 @@ styles: ["Glam"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Ballroom Blitz |
-| A2 | Blockbuster |
-| A3 | Teenage Rampage |
-| A4 | Action |
-| A5 | The Six Teens |
-| A6 | Fox On The Run |
-| B1 | Hell Raiser |
-| B2 | Wig-Wam Bam |
-| B3 | Co-Co |
-| B4 | Poppa Joe |
-| B5 | Little Willy |
-| B6 | The Lies In Your Eyes |
-| C1 | Love Is Like Oxygen |
-| C2 | Funny Funny |
-| C3 | Alexander Graham Bell |
-| C4 | Turn It Down |
-| C5 | Set Me Free |
-| C6 | Peppermint Twist |
-| D1 | Burning |
-| D2 | Burn On The Flame |
-| D3 | Rock & Roll Disgrace |
-| D4 | Stairway To The Stars |
-| D5 | Lady Starlight |
-| D6 | Own Up, Take A Look At Yourself |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

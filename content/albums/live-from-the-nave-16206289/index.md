@@ -29,11 +29,11 @@ styles: ["Shoegaze", "Indie Pop", "Dream Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Momo |
-| A2 | Push / Pull |
-| A3 | Is That What You Wanted To Hear? |
-| B1 | Forget The Credits |
-| B2 | Shame |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -36,16 +36,16 @@ Yay! is a studio album by Norwegian rock band Motorpsycho, released on June 16, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Cold & Bored |
-| A2 | Sentinels |
-| A3 | Patterns |
-| A4 | Dank State |
-| A5 | W.C.A. |
-| B1 | Real Again (Norway Shrugs & Stays Home) |
-| B2 | Loch Meaninglessness & The Mull Of Dull |
-| B3 | Hotel Daedalus |
-| B4 | Scaredcrow |
-| B5 | The Rapture |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -30,21 +30,21 @@ The album was a number one hit in the Irish Album Charts upon release, and also 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| 1 | I Useta Lover |
-| 2 | Only One Girl |
-| 3 | Why Do I Always Want You |
-| 4 | It Won't Be Tonight |
-| 5 | Irish Post |
-| 6 | Sing A Powerful Song |
-| 7 | Freedom Fighters |
-| 8 | That's What She Said Last Night |
-| 9 | Red Cortina |
-| 10 | Presentation Boarder |
-| 11 | Don't Let Me Down |
-| 12 | £25 |
-| 13 | What A Day |
-| 14 | N17 |
-| 15 | I Hope You Meet Again |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -39,18 +39,18 @@ The Time is the 1981 debut album by the Time. The album was largely produced and
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Get It Up |
-| A2 | Girl |
-| A3 | After Hi School |
-| B1 | Cool |
-| B2 | Oh, Baby |
-| B3 | The Stick |
-| C1 | Get It Up (Single Edit) |
-| C2 | Girl (Edit) |
-| C3 | Cool (Part I) |
-| D1 | Cool (Part II) |
-| D2 | After Hi School (Single Edit) |
-| D3 | The Stick (Single Edit) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

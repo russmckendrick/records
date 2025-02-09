@@ -1,6 +1,6 @@
 ---
-title: "Sleeper - The It Girl"
-artist_name: "Sleeper"
+title: "Sleeper (2) - The It Girl"
+artist_name: "Sleeper (2)"
 artist: "sleeper"
 album_name: "The It Girl"
 date: 2022-11-14T05:21:24.000000Z
@@ -10,8 +10,8 @@ slug: "the-it-girl-25128730"
 hideSummary: true
 cover:
     image: "the-it-girl-25128730.jpg"
-    alt: "The It Girl by Sleeper"
-    caption: "The It Girl by Sleeper"
+    alt: "The It Girl by Sleeper (2)"
+    caption: "The It Girl by Sleeper (2)"
 additional_images:
     - "https://i.discogs.com/psJSP5kDkUDKQpEug_ir46_X-WNg2JHk1YzmGYEmr-U/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTI4/NzMwLTE2NjgxNzM3/MjMtNTE0Ni5qcGVn.jpeg"
     - "https://i.discogs.com/s9z2zPI5ha6Blk8FiAs5tZmFscBxXQAIBQpk-NsLkr0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTI4/NzMwLTE2NjgxNzM3/MzEtNTk1MC5qcGVn.jpeg"
@@ -39,32 +39,32 @@ styles: ["Indie Rock", "Britpop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Lie Detector  |
-| A2 | Sale of the Century |
-| A3 | What Do I Do Now? |
-| A4 | Good Luck Mr Gorsky |
-| A5 | Feeling Peaky |
-| A6 | Shrinkwrapped  |
-| B1 | Dress Like Your Mother |
-| B2 | Statuesque |
-| B3 | Glue Ears |
-| B4 | Nice Guy Eddie |
-| B5 | Stop Your Crying |
-| B6 | Factor 41 |
-| B7 | Click…Off…Gone |
-|  | The It Girl B Sides & Demos CD |
-| 1 | Spies |
-| 2 | Pokerface |
-| 3 | She's A Sweetheart |
-| 4 | Package Holiday |
-| 5 | Paint Me |
-| 6 | Room At The Top |
-| 7 | Sale Of The Century (Louise Home Demo) |
-| 8 | Lamp Light On (Louise Home Demo) |
-| 9 | Mr Blue (Louise Home Demo) |
-| 10 | Nice Guy Eddie (Louise Home Demo) |
-| 11 | Dress Like Your Mother (Louise Home Demo) |
-| 12 | Good Luck Mr Gorsky (Louise Home Demo) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -82,4 +82,4 @@ styles: ["Indie Rock", "Britpop"]
 | Label          | Gorsky Records |
 | Catalog Number | SLEEP29LP |
 | Notes | Package includes 12 track "The It Girl B Sides & Demos" CD (not available separately) and a double-sided 12"x12" print slipped inside the sleeve.  Pre-orders via band’s store included an additional one-sided signed print  The CD tracks are listed in the incorrect order on the sleeve. The correct order (confirmed by the CD text titles) is as above. The order on the sleeve is: 1. Paint Me 2. Pokerface 3. Package Holiday 4. Spies 5. She's A Sweetheart 6. Room At The Top 7. Sale Of The Century 8. Nice Guy Eddie 9. Good Luck Mr Gorsky 10. Dress Like Your Mother 11. Lamp Light On 12. Mr Blue  Timings taken from the CD.  |
-| Discogs URL    | [Sleeper - The It Girl](https://www.discogs.com/release/25128730-Sleeper-2-The-It-Girl) |
+| Discogs URL    | [Sleeper (2) - The It Girl](https://www.discogs.com/release/25128730-Sleeper-2-The-It-Girl) |

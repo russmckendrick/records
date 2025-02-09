@@ -27,62 +27,62 @@ styles: ["Indie Rock", "Britpop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Drowners |
-| A2 | Metal Mickey |
-| A3 | Animal Nitrate |
-| A4 | So Young |
-| A5 | Stay Together (Long Version) |
-| B1 | We Are The Pigs |
-| B2 | The Wild Ones |
-| B3 | New Generation |
-| B4 | Trash |
-| B5 | Filmstar |
-| C1 | Lazy |
-| C2 | Beautiful Ones |
-| C3 | Saturday Night |
-| C4 | Electricity |
-| C5 | She's In Fashion |
-| D1 | Everything Will Flow |
-| D2 | Can't Get Enough |
-| D3 | Obsessions |
-| D4 | Barriers |
-| D5 | It Starts And Ends With You |
-| E1 | For The Strangers |
-| E2 | Outsiders |
-| E3 | Wastelands |
-| E4 | Life Is Golden |
-| E5 | The Invisibles |
-| F1 | To The Birds |
-| F2 | My Insatiable One |
-| F3 | He's Dead |
-| F4 | The Big Time |
-| G1 | Pantomime Horse |
-| G2 | Sleeping Pills |
-| G3 | The Next Life |
-| G4 | High Rising |
-| H1 | My Dark Star |
-| H2 | The Living Dead |
-| H3 | Killing Of A Flashboy |
-| H4 | Heroine |
-| H5 | This Hollywood Life |
-| I1 | The 2 Of Us |
-| I2 | The Asphalt World |
-| I3 | Still Life |
-| J1 | Europe Is Our Playground (Sci-Fi Lullabies Version) |
-| J2 | She |
-| J3 | By The Sea |
-| J4 | He's Gone |
-| J5 | Indian Strings |
-| J6 | Oceans |
-| K1 | Snowblind |
-| K2 | Sabotage |
-| K3 | Sometimes I Feel I'll Float Away |
-| K4 | Pale Snow |
-| K5 | I Don't Know How To Reach You |
-| L1 | Tightrope |
-| L2 | As One |
-| L3 | All The Wild Places |
-| L4 | Flytipping |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

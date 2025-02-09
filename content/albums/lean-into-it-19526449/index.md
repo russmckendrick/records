@@ -1,6 +1,6 @@
 ---
-title: "Mr Big - Lean Into It"
-artist_name: "Mr Big"
+title: "Mr. Big - Lean Into It"
+artist_name: "Mr. Big"
 artist: "mr-big"
 album_name: "Lean Into It"
 date: 2021-07-22T04:46:29.000000Z
@@ -10,8 +10,8 @@ slug: "lean-into-it-19526449"
 hideSummary: true
 cover:
     image: "lean-into-it-19526449.jpg"
-    alt: "Lean Into It by Mr Big"
-    caption: "Lean Into It by Mr Big"
+    alt: "Lean Into It by Mr. Big"
+    caption: "Lean Into It by Mr. Big"
 additional_images:
     - "https://i.discogs.com/81liSmoEaDx-Ms6sFgwAo7AG9LpbrWmwDqvvUfHo2qk/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTI2/NDQ5LTE2MjY5NTQ1/NDgtMjI2NS5qcGVn.jpeg"
     - "https://i.discogs.com/7ZMEUMNq4i1gP-oozPDk4wP1C_gSa8c7MyzYY7MtyVk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTI2/NDQ5LTE2MjY5NTQ1/NDgtNDgzMi5qcGVn.jpeg"
@@ -37,17 +37,17 @@ The album includes the song "Green-Tinted Sixties Mind".
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Daddy, Brother, Lover, Little Boy (The Electric Drill Song) |
-| A2 | Alive And Kickin' |
-| A3 | Green-Tinted Sixties Mind |
-| A4 | CDFF-Lucky This Time |
-| A5 | Voodoo Kiss |
-| B1 | Never Say Never |
-| B2 | Just Take My Heart |
-| B3 | My Kinda Woman |
-| B4 | A Little Too Loose |
-| B5 | Road To Ruin |
-| B6 | To Be With You |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -66,4 +66,4 @@ The album includes the song "Green-Tinted Sixties Mind".
 | Label          | Evoxs |
 | Catalog Number | EVLP036 |
 | Notes | Delayed RSD 2021 reissue.  Released as an import in Australia on RSD 2021 drop 2, July 17th. Official source: [url=https://www.recordstoreday.com.au/lists-for-rsd-drops-2021/]Australia RSD release lists for drop 2[/url] May have been released in other regions (unconfirmed official sources) |
-| Discogs URL    | [Mr Big - Lean Into It](https://www.discogs.com/release/19526449-Mr-Big-Lean-Into-It) |
+| Discogs URL    | [Mr. Big - Lean Into It](https://www.discogs.com/release/19526449-Mr-Big-Lean-Into-It) |

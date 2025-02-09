@@ -34,10 +34,10 @@ styles: ["Industrial", "Downtempo", "Hip Hop", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Ten Little Girls |
-| A2 | I Speak Your Every Word |
-| B1 | Blindfold |
-| B2 | No Escape From Heaven |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

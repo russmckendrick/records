@@ -1,6 +1,6 @@
 ---
-title: "Frost - Day And Age"
-artist_name: "Frost"
+title: "Frost* - Day And Age"
+artist_name: "Frost*"
 artist: "frost"
 album_name: "Day And Age"
 date: 2021-05-22T02:56:13.000000Z
@@ -10,8 +10,8 @@ slug: "day-and-age-18819115"
 hideSummary: true
 cover:
     image: "day-and-age-18819115.jpg"
-    alt: "Day And Age by Frost"
-    caption: "Day And Age by Frost"
+    alt: "Day And Age by Frost*"
+    caption: "Day And Age by Frost*"
 additional_images:
     - "https://i.discogs.com/tqkP6j1mvqVOUEOGFzuFYzb6XShJkXfc9DgKixo4S4A/rs:fit/g:sm/q:90/h:561/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE5/MTE1LTE2MjE1OTk0/NDctNDk4MS5qcGVn.jpeg"
     - "https://i.discogs.com/2Pz6M20_jOnm_YFIXU8ZMlEooEHzpX6areRA_mBF1LU/rs:fit/g:sm/q:90/h:538/w:522/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4ODE5/MTE1LTE2MjE1OTk4/MjMtNzQwNS5qcGVn.jpeg"
@@ -35,22 +35,22 @@ styles: ["Pop Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Day And Age  |
-| A2 | Terrestrial  |
-| B1 | Waiting For The Lie |
-| B2 | The Boy Who Stood Still |
-| B3 | Island Life |
-| B4 | Skywards |
-| C1 | Kill The Orchestra  |
-| C2 | Repeat To Fade |
-| CD-1 | Day And Age |
-| CD-2 | Terrestrial |
-| CD-3 | Waiting For The Lie |
-| CD-4 | The Boy Who Stood Still |
-| CD-5 | Island Life |
-| CD-6 | Skywards |
-| CD-7 | Kill The Orchestra |
-| CD-8 | Repeat To Fade |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -68,4 +68,4 @@ styles: ["Pop Rock", "Prog Rock"]
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 576 |
 | Notes | Limited edition of 200 copies. Burning Shed exclusive. Gatefold. Signed postcard included. |
-| Discogs URL    | [Frost - Day And Age](https://www.discogs.com/release/18819115-Frost-Day-And-Age) |
+| Discogs URL    | [Frost* - Day And Age](https://www.discogs.com/release/18819115-Frost-Day-And-Age) |

@@ -35,15 +35,15 @@ At the same time, Murphy had begun producing his own music as LCD Soundsystem. T
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Daft Punk Is Playing At My House |
-| A2 | Too Much Love |
-| A3 | Tribulations |
-| A4 | Movement |
-| A5 | Never As Tired As When I'm Waking Up |
-| B1 | On Repeat |
-| B2 | Thrills |
-| B3 | Disco Infiltrator |
-| B4 | Great Release |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -27,18 +27,18 @@ styles: ["Alternative Rock", "Modern", "Downtempo"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | R.I.D.E. |
-| A2 | Future Love |
-| A3 | Repetition |
-| A4 | Kill Switch |
-| A5 | Clouds Of Saint Marie |
-| A6 | Eternal Recurrence |
-| B1 | Fifteen Minutes |
-| B2 | Jump Jet |
-| B3 | Dial Up |
-| B4 | End Game |
-| B5 | Shadows Behind The Sun |
-| B6 | In This Room |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

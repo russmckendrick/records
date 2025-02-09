@@ -32,16 +32,16 @@ Mental Notes is the debut studio album by New Zealand band Split Enz. The album 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Late Last Night |
-| A2 | Walking Down A Road |
-| A3 | Titus |
-| A4 | Lovey Dovey |
-| A5 | Sweet Dreams |
-| B1 | Stranger Than Fiction |
-| B2 | Time For A Change |
-| B3 | Matinee Idyll |
-| B4 | The Woman Who Loves You |
-| B5 | Mental Notes |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

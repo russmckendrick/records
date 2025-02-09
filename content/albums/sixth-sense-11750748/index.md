@@ -26,20 +26,20 @@ styles: ["Contemporary Jazz"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Carrier |
-| A2 | Broken |
-| A3 | Sixth Sense |
-| B1 | Monsoon |
-| B2 | Half Self |
-| B3 | Taal Caldera |
-| B4 | Sedna |
-| 1 | Carrier |
-| 2 | Broken |
-| 3 | Sixth Sense |
-| 4 | Monsoon |
-| 5 | Half Self |
-| 6 | Taal Caldera |
-| 7 | Sedna |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

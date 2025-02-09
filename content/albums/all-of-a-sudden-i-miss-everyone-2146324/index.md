@@ -40,12 +40,12 @@ All of a Sudden I Miss Everyone is the fifth studio album by American post-rock 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Birth And Death Of The Day |
-| A2 | Welcome, Ghosts |
-| B | It's Natural To Be Afraid |
-| C1 | What Do You Go Home To? |
-| C2 | Catastrophe And The Cure |
-| C3 | So Long, Lonesome |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

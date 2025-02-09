@@ -32,16 +32,16 @@ styles: ["Acoustic", "Folk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hang Me In The Tulsa County Stars |
-| A2 | Heart's Too Heavy |
-| A3 | Cleveland County Blues |
-| A4 | White Flag |
-| A5 | Sad Baptist Rain |
-| B1 | Cherokee |
-| B2 | Losing Sleep Tonight  |
-| B3 | American Flags In Black & White |
-| B4 | You Don't Care For Me Enough To Cry |
-| B5 | High On Tulsa Heat |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

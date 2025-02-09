@@ -27,18 +27,18 @@ Aaron Livingston’s credits as a collaborator—with The Roots, RJD2, Mavis Sta
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hey Rose |
-| A2 | About Her. Again |
-| A3 | Mahalia |
-| A4 | Bbbaby |
-| A5 | Suffer |
-| A6 | That's The Way |
-| B1 | 3rd Eye Weeping |
-| B2 | Don't Wait Up |
-| B3 | Belladonna |
-| B4 | O Clever One |
-| B5 | Neve Give Up |
-| B6 | After All (I Must Be Wrong) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

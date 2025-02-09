@@ -38,30 +38,30 @@ Mac Quayle’s hypnotic score to <i>Mr. Robot</i> is a gift that keeps on giving
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | 2.0_1-s4ve-the-w0rld.act |
-| A2 | 2.0_2-FuxSocy.sln |
-| A3 | 2.0_3-j0urnaling.ivs |
-| A4 | 2.0_4-control-1s-an-illusion.amr |
-| A5 | 2.0_5-infiniteloop0finsanity.vox |
-| A6 | 2.0_6-madame3xecutioner.oga |
-| B1 | 2.0_7-jester-actual.dss |
-| B2 | 2.0_8-confid3nce.dct |
-| B3 | 2.0_9-unexpectedpresents.m4b |
-| B4 | 2.0_10-masktakesover.sln |
-| B5 | 2.0_11-music-b0x.mmf |
-| B6 | 2.1_1-prisoner-of-paranoia.ivs |
-| C1 | 2.2_1-hidinginplainsight.awb |
-| C2 | 2.2_2-annihil4tion.dct |
-| C3 | 2.2_3-existence.opus |
-| C4 | 2.2_4-mightbe0wned.tta |
-| C5 | 2.2_5-divinity.iklax |
-| D1 | 2.3_1-steel-v4lley.webm |
-| D2 | 2.3_2-di3with4nswers.dvf |
-| D3 | 2.3_3-fuckgutinstinct.act |
-| D4 | 2.3_4-midland-city.oga |
-| D5 | 2.3_5-pun1shm3nt.ape |
-| D6 | 2.4_1-heartworm.3gp |
-| D7 | 2.4_2-m4ster-s1ave.msv |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

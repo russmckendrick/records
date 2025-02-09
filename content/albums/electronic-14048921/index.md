@@ -29,36 +29,36 @@ The album was a commercial and critical success, reaching number 2 in the United
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Love Action (I Believe In Love) |
-| A2 | Quiet Life |
-| A3 | Fade To Grey |
-| A4 | Mad World |
-| A5 | The Walk |
-| A6 | Whip It |
-| A7 | Say Hello, Wave Goodbye |
-| B1 | I Feel Love |
-| B2 | Axel F |
-| B3 | Rockit |
-| B4 | The Race |
-| B5 | Einstein A Go-Go |
-| B6 | Buffalo Gals |
-| B7 | (Hey You) The Rock Steady Crew |
-| B8 | Crockett's Theme |
-| C1 | Enola Gay |
-| C2 | Temptation |
-| C3 | New Song |
-| C4 | Wishing (If I Had A Photograph Of You) |
-| C5 | Hymn |
-| C6 | Brilliant Mind |
-| C7 | Glittering Prize |
-| D1 | Video Killed The Radio Star |
-| D2 | Together In Electric Dreams |
-| D3 | Kids In America |
-| D4 | Don't Talk To Me About Love |
-| D5 | Rock Me Amadeus |
-| D6 | Steppin' Out |
-| D7 | Echo Beach |
-| D8 | I'm In Love With A German Film Star |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

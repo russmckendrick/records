@@ -1,6 +1,6 @@
 ---
-title: "Derek  The Dominos - Layla And Other Assorted Love Songs"
-artist_name: "Derek  The Dominos"
+title: "Derek & The Dominos - Layla And Other Assorted Love Songs"
+artist_name: "Derek & The Dominos"
 artist: "derek-the-dominos"
 album_name: "Layla And Other Assorted Love Songs"
 date: 2021-04-05T06:12:09.000000Z
@@ -10,8 +10,8 @@ slug: "layla-and-other-assorted-love-songs-16252835"
 hideSummary: true
 cover:
     image: "layla-and-other-assorted-love-songs-16252835.jpg"
-    alt: "Layla And Other Assorted Love Songs by Derek  The Dominos"
-    caption: "Layla And Other Assorted Love Songs by Derek  The Dominos"
+    alt: "Layla And Other Assorted Love Songs by Derek & The Dominos"
+    caption: "Layla And Other Assorted Love Songs by Derek & The Dominos"
 additional_images:
     - "https://i.discogs.com/O0vJTRD5O5fL9pfQuJRg2UzhgIitYKyOyLEqj_6uufw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUy/ODM1LTE2MDkzMDUx/ODYtNDM2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/pQY3i4IaWKr0igvF7RGIfJ7Piqbvh4BdZYvG8Uqf1tM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUy/ODM1LTE2MDkzMDUx/ODYtMjA3Mi5qcGVn.jpeg"
@@ -47,37 +47,37 @@ Initially regarded as a critical and commercial disappointment, it failed to cha
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | The Original Album - Half-Speed Mastered Edition - 50th Anniversary |
-| A1 | I Looked Away |
-| A2 | Bell Bottom Blues |
-| A3 | Keep On Growing |
-| A4 | Nobody Knows You When You're Down And Out |
-| B1 | I Am Yours |
-| B2 | Anyday |
-| B3 | Key To The Highway |
-| C1 | Tell The Truth |
-| C2 | Why Does Love Got To Be So Sad? |
-| C3 | Have You Ever Loved A Woman |
-| D1 | Little Wing |
-| D2 | It's Too Late |
-| D3 | Layla |
-| D4 | Thorn Tree In The Garden |
-|  | LP3: Bonus Material |
-| E1 | Mean Old World (Layla Session Out-Take) |
-| E2 | Roll It Over (Phil Spector Produced Single B-Side) |
-| E3 | Tell The Truth (Phil Spector Produced Single A-Side) |
-| F1 | It's Too Late (Live On The Johnny Cash TV Show, 5 November, 1970) |
-| F2 | Got To Get Better In A Little While (Live On The Johnny Cash TV Show, 5 November, 1970) |
-| F3 | Matchbox (Live On The Johnny Cash TV Show, 5 November, 1970) |
-| F4 | Blues Power (Live On The Johnny Cash TV Show, 5 November, 1970) |
-|  | LP4: Bonus Material |
-| G1 | Snake Lake Blues (From April / May 1971 Sessions For The Dominos' Second Album) |
-| G2 | Evil (From April / May 1971 Sessions For The Dominos' Second Album) |
-| G3 | Mean Old Frisco (From April / May 1971 Sessions For The Dominos' Second Album) |
-| G4 | One More Chance (From April / May 1971 Sessions For The Dominos' Second Album) |
-| H1 | High (From April / May 1971 Sessions For The Dominos' Second Album) |
-| H2 | Got To Get Better In A Little While Jam (From April / May 1971 Sessions For The Dominos' Second Album) |
-| H3 | Got To Get Better In A Little While (From April / May 1971 Sessions For The Dominos' Second Album) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -96,4 +96,4 @@ Initially regarded as a critical and commercial disappointment, it failed to cha
 | Label          | Polydor |
 | Catalog Number | 0602507274900 |
 | Notes | This compilation ℗ & © 2020 Polydor Records, A Universal Music Group Company. Made in the Czech Republic.  Hype Sticker (Guitar Shape) on Front of The Box Set reads: 50th Anniversary Half-Speed Mastered Vinyl Edition. Includes: - The Original Album In Half-Speed Mastered Format - Bonus Material Cut As Normal 180 Gram Vinyl - First Time On Vinyl For Some  Of These Rarities  F1 to F4, G1 to G4, H2 to H3: First time on vinyl these rarities (as mentioned on the back cover of the box set). |
-| Discogs URL    | [Derek  The Dominos - Layla And Other Assorted Love Songs](https://www.discogs.com/release/16252835-Derek-The-Dominos-Layla-And-Other-Assorted-Love-Songs) |
+| Discogs URL    | [Derek & The Dominos - Layla And Other Assorted Love Songs](https://www.discogs.com/release/16252835-Derek-The-Dominos-Layla-And-Other-Assorted-Love-Songs) |

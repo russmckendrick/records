@@ -1,6 +1,6 @@
 ---
-title: "Joe Strummer  The Mescaleros - Global A Go-Go"
-artist_name: "Joe Strummer  The Mescaleros"
+title: "Joe Strummer & The Mescaleros - Global A Go-Go"
+artist_name: "Joe Strummer & The Mescaleros"
 artist: "joe-strummer-the-mescaleros"
 album_name: "Global A Go-Go"
 date: 2017-12-23T09:59:25.000000Z
@@ -10,8 +10,8 @@ slug: "global-a-go-go-4436307"
 hideSummary: true
 cover:
     image: "global-a-go-go-4436307.jpg"
-    alt: "Global A Go-Go by Joe Strummer  The Mescaleros"
-    caption: "Global A Go-Go by Joe Strummer  The Mescaleros"
+    alt: "Global A Go-Go by Joe Strummer & The Mescaleros"
+    caption: "Global A Go-Go by Joe Strummer & The Mescaleros"
 additional_images:
     - "https://i.discogs.com/4QAI6yEAl7iDnXlrEXZeq18jrhBGJDUuSgqAsXPhq3g/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzYz/MDctMTM3MDMzODg3/MC0xMDU5LmpwZWc.jpeg"
     - "https://i.discogs.com/UFpElpDJQRXgJKUllq_9S-q43TqH-1TOVplG5l_GBpk/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MzYz/MDctMTM3MDMzODkx/NS04Nzg4LmpwZWc.jpeg"
@@ -41,29 +41,29 @@ A remastered version of the album along with Strummer's other two Hellcat releas
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Johnny Appleseed |
-| A2 | Cool'n'Out |
-| A3 | Global A Go-Go |
-| A4 | Bhindi Bhagee |
-| B1 | Gamma Ray |
-| B2 | Mega Bottle Ride |
-| B3 | Shaktar Donetsk |
-| C1 | Mondo Bongo |
-| C2 | Bummed Out City |
-| C3 | At The Border, Guy |
-| D | Minstrel Boy (Full Length Version) |
-| 1 | Johnny Appleseed |
-| 2 | Cool'n'Out |
-| 3 | Global A Go-Go |
-| 4 | Bhindi Bhagee |
-| 5 | Gamma Ray |
-| 6 | Mega Bottle Ride |
-| 7 | Shaktar Donetsk |
-| 8 | Mondo Bongo |
-| 9 | Bummed Out City |
-| 10 | At The Border, Guy |
-| 11 | Minstrel Boy |
-| 12 | Bhindi Bhagee (Live From The Action Concert) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -81,4 +81,4 @@ A remastered version of the album along with Strummer's other two Hellcat releas
 | Format         | Vinyl 2× LP Album Reissue, CD Album Remastered |
 | Label          | Hellcat Records |
 | Catalog Number | 80440-1 |
-| Discogs URL    | [Joe Strummer  The Mescaleros - Global A Go-Go](https://www.discogs.com/release/4436307-Joe-Strummer-The-Mescaleros-Global-A-Go-Go) |
+| Discogs URL    | [Joe Strummer & The Mescaleros - Global A Go-Go](https://www.discogs.com/release/4436307-Joe-Strummer-The-Mescaleros-Global-A-Go-Go) |

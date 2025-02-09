@@ -1,6 +1,6 @@
 ---
-title: "Carmen  Fernando Del Valle  Their Orchestra - Cha Cha Cha"
-artist_name: "Carmen  Fernando Del Valle  Their Orchestra"
+title: "Carmen & Fernando Del Valle & Their Orchestra - Cha Cha Cha"
+artist_name: "Carmen & Fernando Del Valle & Their Orchestra"
 artist: "carmen-fernando-del-valle-their-orchestra"
 album_name: "Cha Cha Cha"
 date: 2020-08-02T13:44:22.000000Z
@@ -10,8 +10,8 @@ slug: "cha-cha-cha-2950887"
 hideSummary: true
 cover:
     image: "cha-cha-cha-2950887.jpg"
-    alt: "Cha Cha Cha by Carmen  Fernando Del Valle  Their Orchestra"
-    caption: "Cha Cha Cha by Carmen  Fernando Del Valle  Their Orchestra"
+    alt: "Cha Cha Cha by Carmen & Fernando Del Valle & Their Orchestra"
+    caption: "Cha Cha Cha by Carmen & Fernando Del Valle & Their Orchestra"
 additional_images:
     - "https://i.discogs.com/74sUOzGS4w7jPkADhOpM0qkowBGs4Vxf6IdHrpXzIYI/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTA4/ODctMTQ3MzM1MzIz/NS02NTE4LmpwZWc.jpeg"
     - "https://i.discogs.com/jnWcfXonu73QoZQSqrKLtPGia8IvPqXcsAt1rW56s0A/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTA4/ODctMTQ3MzM1MzIz/OC04OTMzLmpwZWc.jpeg"
@@ -31,16 +31,16 @@ The series was a commercial hit and became one of the highest-rated dramas in Ko
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Torrid Cha Cha |
-| A2 | Chat Cha Cha |
-| A3 | Simple Cha Cha |
-| A4 | Chanticleer Cha Cha |
-| A5 | Yes Please Cha Cha |
-| B1 | Continental Cha Cha |
-| B2 | Let's Go Cha Cha |
-| B3 | Pass Cha Cha |
-| B4 | Vacation Cha Cha |
-| B5 | Piccadilly Cha Cha |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -59,4 +59,4 @@ The series was a commercial hit and became one of the highest-rated dramas in Ko
 | Label          | Allegro Records |
 | Catalog Number | ALL734 |
 | Notes | Sleeve printed in U.S.A. A Pickwick International Product  Rec. first pub. 1964  |
-| Discogs URL    | [Carmen  Fernando Del Valle  Their Orchestra - Cha Cha Cha](https://www.discogs.com/release/2950887-Carmen-Fernando-Del-Valle-and-their-Orchestra-Cha-Cha-Cha) |
+| Discogs URL    | [Carmen & Fernando Del Valle & Their Orchestra - Cha Cha Cha](https://www.discogs.com/release/2950887-Carmen-Fernando-Del-Valle-and-their-Orchestra-Cha-Cha-Cha) |

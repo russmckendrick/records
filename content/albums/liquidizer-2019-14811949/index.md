@@ -32,10 +32,10 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | Move Mountains |
-| B | All The Answers |
-| C | Someone To Blame |
-| D | Bring It On Down |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

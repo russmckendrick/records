@@ -35,15 +35,15 @@ Someone Here Is Missing is the eighth studio album by The Pineapple Thief, featu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Nothing At Best |
-| A2 | Wake Up The Dead |
-| A3 | The State We're In |
-| A4 | Preparation For Meltdown |
-| A5 | Barely Breathing |
-| B1 | Show A Little Love |
-| B2 | Someone Here Is Missing |
-| B3 | 3000 Days |
-| B4 | So We Row |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -34,17 +34,17 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Oh My Lover |
-| A2 | O Stella  |
-| A3 | Dress |
-| A4 | Victory |
-| A5 | Happy And Bleeding |
-| B1 | Sheela-Na-Gig |
-| B2 | Hair |
-| B3 | Joe |
-| B4 | Plants And Rags |
-| B5 | Fountain |
-| B6 | Water |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

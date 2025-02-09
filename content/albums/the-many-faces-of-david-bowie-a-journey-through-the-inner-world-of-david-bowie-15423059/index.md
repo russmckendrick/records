@@ -33,30 +33,30 @@ styles: ["Classic Rock", "Rock & Roll", "Funk", "Glam", "Disco", "Soul", "Chanso
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | The Many Faces of David Bowie |
-| A1 | You've Been Around |
-| A2 | All The Young Dudes |
-| A3 | Andy Warhol |
-| A4 | Growing Up And I'm Fine |
-| A5 | Funtime |
-|  | The Spiders From Mars |
-| B1 | Ziggy Stardust |
-| B2 | Pleasure Man / Hey Ma Get Papa |
-| B3 | I Am Divine |
-| B4 | I Just Want To Have Something To Do |
-| B5 | All The Way From Memphis |
-|  | The Man Who Fell To Earth |
-| C1 | The King Of Stamford Hill |
-| C2 | Moonage Daydream |
-| C3 | Lonely House |
-| C4 | Sister Midnight |
-| C5 | I Am A Laser |
-|  | Treasures & Songs |
-| D1 | I'm A Man |
-| D2 | Waiting For The Man |
-| D3 | Sorrow |
-| D4 | Around And Around |
-| D5 | La Mort (My Death) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

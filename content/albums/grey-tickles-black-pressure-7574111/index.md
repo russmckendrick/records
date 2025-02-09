@@ -49,40 +49,40 @@ As epitomised by a title track referencing his haemorrhoids, the former Czars fr
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Intro |
-| A2 | Grey Tickles, Black Pressure |
-| A3 | Snug Slacks |
-| A4 | Guess How I Know |
-| B1 | You & Him |
-| B2 | Down Here |
-| B3 | Voodoo Doll |
-| C1 | Global Warming |
-| C2 | Magma Arrives |
-| C3 | Black Blizzard |
-| D1 | Disappointing |
-| D2 | No More Tangles |
-| D3 | Geraldine |
-| D4 | Outro |
-| CD1-1 | Intro |
-| CD1-2 | Grey Tickles, Black Pressure |
-| CD1-3 | Snug Slacks |
-| CD1-4 | Guess How I Know |
-| CD1-5 | You And Him |
-| CD1-6 | Down Here |
-| CD1-7 | Voodoo Doll |
-| CD1-8 | Global Warming |
-| CD1-9 | Magma Arrives |
-| CD1-10 | Black Blizzard |
-| CD1-11 | Disappointing |
-| CD1-12 | No More Tangles |
-| CD1-13 | Geraldine |
-| CD1-14 | Outro |
-|  | John Grant With Royal Northern Sinfonia |
-| CD2-1 | Global Warming |
-| CD2-2 | Black Blizzard |
-| CD2-3 | Drug |
-| CD2-4 | Geraldine |
-| CD2-5 | No More Tangles |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

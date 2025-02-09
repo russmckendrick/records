@@ -69,29 +69,29 @@ The album was remixed, restored and reissued in December 2019 for The Later Year
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Shine On You Crazy Diamond Parts 1-5 |
-| A2 | Signs Of Life |
-| A3 | Learning To Fly |
-| B1 | Yet Another Movie |
-| B2 | Round And Around |
-| B3 | A New Machine Part 1 |
-| B4 | Terminal Frost |
-| B5 | A New Machine Part 2 |
-| B6 | Sorrow |
-| C1 | The Dogs Of War |
-| C2 | On The Turning Away |
-| C3 | One Of These Days |
-| D1 | Time |
-| D2 | On The Run |
-| D3 | The Great Gig In The Sky |
-| D4 | Wish You Were Here |
-| D5 | Welcome To The Machine |
-| E1 | Us And Them |
-| E2 | Money |
-| E3 | Another Brick In The Wall Part 2 |
-| F1 | Comfortably Numb |
-| F2 | One Slip |
-| F3 | Run Like Hell |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

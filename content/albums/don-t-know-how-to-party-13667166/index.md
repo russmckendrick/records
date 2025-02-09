@@ -33,18 +33,18 @@ styles: ["Ska", "Punk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Our Only Weapon |
-| A2 | Last Dead Mouse |
-| A3 | Don't Know How To Party |
-| A4 | Someday I Suppose |
-| A5 | A Man Without |
-| A6 | Holy Smoke |
-| A7 | Illegal Left |
-| B1 | Tin Soldiers |
-| B2 | Almost Anything Goes |
-| B3 | Issachar |
-| B4 | What Was Was Over |
-| B5 | Seven Thirty Seven / Shoe Glue |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

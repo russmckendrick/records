@@ -1,6 +1,6 @@
 ---
-title: "Matt Berry - Phantom Birds"
-artist_name: "Matt Berry"
+title: "Matt Berry (3) - Phantom Birds"
+artist_name: "Matt Berry (3)"
 artist: "matt-berry"
 album_name: "Phantom Birds"
 date: 2020-09-18T11:11:39.000000Z
@@ -10,8 +10,8 @@ slug: "phantom-birds-15930943"
 hideSummary: true
 cover:
     image: "phantom-birds-15930943.jpg"
-    alt: "Phantom Birds by Matt Berry"
-    caption: "Phantom Birds by Matt Berry"
+    alt: "Phantom Birds by Matt Berry (3)"
+    caption: "Phantom Birds by Matt Berry (3)"
 additional_images:
     - "https://i.discogs.com/Vz0beZ7SpJV-Qg-nEsOlaq56jzs3EsJnWTKFy81vMk0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMw/OTQzLTE2MDA3MTc5/ODUtNjgxOC5qcGVn.jpeg"
     - "https://i.discogs.com/Ovia39oJ628sLTpDNSoBP5qSnfmDfe5crh3vFmsk2l0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTMw/OTQzLTE2MDA3MTc5/ODUtNzM2OS5qcGVn.jpeg"
@@ -31,19 +31,19 @@ Phantom Birds is the eighth studio album by English comedian and musician Matt B
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Something In My Eye |
-| A2 | You Danced All Night |
-| A3 | Phantom Birds |
-| A4 | Moonlight Flit |
-| A5 | Man Of Doom |
-| A6 | Where's My Love? |
-| B1 | Take A Bow |
-| B2 | Intermission |
-| B3 | Hail To The King |
-| B4 | In My Mind |
-| B5 | That Yellow Bird |
-| B6 | Waving Goodbye |
-| B7 | Covered In Clowns |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -62,4 +62,4 @@ Phantom Birds is the eighth studio album by English comedian and musician Matt B
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP536B |
 | Notes | Limited edition, first release on bone coloured vinyl. Initial copies that were preodered had the option to be signed by Matt himself. |
-| Discogs URL    | [Matt Berry - Phantom Birds](https://www.discogs.com/release/15930943-Matt-Berry-3-Phantom-Birds) |
+| Discogs URL    | [Matt Berry (3) - Phantom Birds](https://www.discogs.com/release/15930943-Matt-Berry-3-Phantom-Birds) |

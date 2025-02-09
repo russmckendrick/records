@@ -40,29 +40,29 @@ styles: ["Acoustic", "Indie Rock", "Folk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Dearest Forsaken |
-| A2 | Morning |
-| A3 | Loud As Hope |
-| A4 | Peng! 33 |
-| A5 | Sacred Vision |
-| A6 | Friends They Are Jewels |
-| B1 | Hickory |
-| B2 | Waitin' For A Superman |
-| B3 | Swans And The Swimming |
-| B4 | Call Your Boys |
-| B5 | Such Great Heights |
-| C1 | Communion Cups & Someone's Coat |
-| C2 | Belated Promise Ring |
-| C3 | God Made The Automobile |
-| C4 | Homeward, These Shoes |
-| C5 | Love Vigilantes |
-| C6 | Sinning Hands |
-| D1 | No Moon |
-| D2 | Serpent Charmer |
-| D3 | Carried Home |
-| D4 | Kingdom Of The Animals |
-| D5 | Arms Of A Thief |
-| E1 | The Trapeze Swinger |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

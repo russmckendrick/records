@@ -1,6 +1,6 @@
 ---
-title: "Cassandra Jenkins - My Light, My Destroyer"
-artist_name: "Cassandra Jenkins"
+title: "Cassandra Jenkins (2) - My Light, My Destroyer"
+artist_name: "Cassandra Jenkins (2)"
 artist: "cassandra-jenkins"
 album_name: "My Light, My Destroyer"
 date: 2024-07-30T03:45:06.000000Z
@@ -10,8 +10,8 @@ slug: "my-light-my-destroyer-31205095"
 hideSummary: true
 cover:
     image: "my-light-my-destroyer-31205095.jpg"
-    alt: "My Light, My Destroyer by Cassandra Jenkins"
-    caption: "My Light, My Destroyer by Cassandra Jenkins"
+    alt: "My Light, My Destroyer by Cassandra Jenkins (2)"
+    caption: "My Light, My Destroyer by Cassandra Jenkins (2)"
 additional_images:
     - "https://i.discogs.com/q8cinQz4rJMQZ-EBGP7jlyMGGJtf0Yg-rnBFDgBjXBM/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA1/MDk1LTE3MjA4MTYx/OTItNDg0MS5qcGVn.jpeg"
     - "https://i.discogs.com/4PGzJ83TrWVM5Va8f_MS0Yq7nC1BC90pBmqGfkJDJeI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjA1/MDk1LTE3MjA4MTYx/OTItODg3OS5qcGVn.jpeg"
@@ -31,19 +31,19 @@ My Light, My Destroyer is the third studio album by American pop musician Cassan
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Devotion |
-| A2 | Clams Casino |
-| A3 | Delphinium Blue |
-| A4 | Shatner’s Theme |
-| A5 | Aurora, IL  |
-| A6 | Betelgeuse |
-| B1 | Omakase |
-| B2 | Music?? |
-| B3 | Petco |
-| B4 | Attente Téléphonique |
-| B5 | Tape and Tissue |
-| B6 | Only One |
-| B7 | Hayley |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -62,4 +62,4 @@ My Light, My Destroyer is the third studio album by American pop musician Cassan
 | Label          | Dead Oceans |
 | Catalog Number | DOC346LP-C1 |
 | Notes | Initial copies included a SIGNED 'Liner Notes' booklet |
-| Discogs URL    | [Cassandra Jenkins - My Light, My Destroyer](https://www.discogs.com/release/31205095-Cassandra-Jenkins-2-My-Light-My-Destroyer) |
+| Discogs URL    | [Cassandra Jenkins (2) - My Light, My Destroyer](https://www.discogs.com/release/31205095-Cassandra-Jenkins-2-My-Light-My-Destroyer) |

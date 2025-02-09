@@ -35,19 +35,19 @@ Pet Sounds revolutionized music production and the role of professional record p
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Wouldn't It Be Nice |
-| A2 | You Still Believe In Me |
-| A3 | That's Not Me |
-| A4 | Don't Talk (Put Your Head On My Shoulder) |
-| A5 | I'm Waiting For The Day |
-| A6 | Let's Go Away For Awhile |
-| A7 | Sloop John B |
-| B1 | God Only Knows |
-| B2 | I Know There's An Answer |
-| B3 | Here Today |
-| B4 | I Just Wasn't Made For These Times |
-| B5 | Pet Sounds |
-| B6 | Caroline, No |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

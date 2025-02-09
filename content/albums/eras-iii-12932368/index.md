@@ -26,71 +26,71 @@ styles: ["Prog Rock", "Progressive Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Accelerated Evolution |
-| A1 | Depth Charge |
-| A2 | Storm |
-| A3 | Random Analysis |
-| B1 | Deadhead |
-| B2 | Suicide |
-| B3 | Traveler |
-| C1 | Away |
-| C2 | Sunday Afternoon |
-| C3 | Slow Me Down |
-|  | Epicloud |
-| D1 | Effervescent! |
-| D2 | True North |
-| D3 | Lucky Animals |
-| D4 | Liberation |
-| E1 | Where We Belong |
-| E2 | Save Our Now |
-| E3 | Kingdom |
-| F1 | Divine |
-| F2 | Grace |
-| F3 | More! |
-| F4 | Lessons |
-| G1 | Hold On |
-| G2 | Angel |
-| G3 | Epicloud |
-|  | Transcendence |
-| H1 | Truth |
-| H2 | Stormbending |
-| H3 | Failure |
-| H4 | Secret Sciences |
-| I1 | Higher |
-| I2 | Stars |
-| I3 | Transcendence |
-| J1 | Offer Your Light |
-| J2 | From The Heart |
-| J3 | Transdermal Celebration |
-| K1 | Gump |
-| K2 | Loud |
-|  | Sky Blue |
-| L1 | Rejoice |
-| L2 | Fallout |
-| L3 | Midnight Sun |
-| M1 | A New Reign |
-| M2 | Universal Flame |
-| M3 | Warrior |
-| N1 | Sky Blue |
-| N2 | Silent Militia |
-| N3 | Rain City |
-| O1 | Forever |
-| O2 | Before We Die |
-| O3 | The Ones Who Love |
-|  | Live At The Royal Albert Hall |
-| P1 | Namaste |
-| P2 | Night |
-| P3 | Deadhead |
-| P4 | Earth Day |
-| Q1 | Christeen |
-| Q2 | Supercrush! |
-| Q3 | Kingdom |
-| Q4 | Lucky Animals |
-| R1 | Heatwave |
-| R2 | Funeral |
-| R3 | Bastard |
-| S1 | The Death Of Music |
-| S2 | Universal Flame |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

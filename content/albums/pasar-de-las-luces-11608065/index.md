@@ -32,19 +32,19 @@ styles: ["Shoegaze"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | El Parque Parecía No Tener Fin |
-| A2 | Ojos En El Carro |
-| A3 | Ciudad Satélite |
-| B1 | Temporada De Jacarandas |
-| B2 | Quiero Otoño De Nuevo |
-| B3 | Cambios Del Pasar |
-| B4 | Viceversa |
-| C1 | Nostalgia |
-| C2 | Boötes Void |
-| C3 | Nada Es Estático Y Evoluciona |
-| D1 | Club De Chicas |
-| D2 | Para Gali |
-| D3 | Párpados Morados |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

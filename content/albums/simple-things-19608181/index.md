@@ -1,7 +1,7 @@
 ---
-title: "Zero - Simple Things"
-artist_name: "Zero"
-artist: "zero"
+title: "Zero 7 - Simple Things"
+artist_name: "Zero 7"
+artist: "zero-7"
 album_name: "Simple Things"
 date: 2021-07-27T04:41:25.000000Z
 release_date: "2001-04-23"
@@ -10,8 +10,8 @@ slug: "simple-things-19608181"
 hideSummary: true
 cover:
     image: "simple-things-19608181.jpg"
-    alt: "Simple Things by Zero"
-    caption: "Simple Things by Zero"
+    alt: "Simple Things by Zero 7"
+    caption: "Simple Things by Zero 7"
 additional_images:
     - "https://i.discogs.com/HTFoVopD4CDNcL1H2e6rWmoJ70xfdfWdL46PWEV-gFo/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA4/MTgxLTE2MjkzMTMx/ODctMTc1Ny5qcGVn.jpeg"
     - "https://i.discogs.com/MBZGiihq_-Pq9uH3fu6nsTAmrnlVS6w4Hos3qpAFioo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NjA4/MTgxLTE2MjkzMTMx/OTYtNDY1OC5qcGVn.jpeg"
@@ -44,17 +44,17 @@ Simple Things is the debut studio album by English duo Zero 7, released on 23 Ap
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Have Seen |
-| A2 | Polaris |
-| A3 | Destiny |
-| B1 | Give It Away |
-| B2 | Simple Things |
-| B3 | Red Dust |
-| C1 | Distractions |
-| C2 | In The Waiting Line |
-| C3 | Out Of Town |
-| D1 | This World |
-| D2 | Likufanele |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -73,4 +73,4 @@ Simple Things is the debut studio album by English duo Zero 7, released on 23 Ap
 | Label          | New State Music |
 | Catalog Number | NEW9253LPC |
 | Notes | Ⓟ 2001 New State Music Ⓒ 2018 New State Music.  Produced and Fleximixed at Shabang Studios.  Part of HMV 1921 100th Anniversary Series.  Limited to 500 copies  Repress using same metal work as the [url=https://www.discogs.com/release/12388769-Zero-7-Simple-Things]2018 Reissue[/url] |
-| Discogs URL    | [Zero - Simple Things](https://www.discogs.com/release/19608181-Zero-7-Simple-Things) |
+| Discogs URL    | [Zero 7 - Simple Things](https://www.discogs.com/release/19608181-Zero-7-Simple-Things) |

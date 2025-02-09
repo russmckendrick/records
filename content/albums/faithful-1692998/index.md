@@ -32,18 +32,18 @@ Faithful is the seventh studio album by American musician Todd Rundgren, release
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Happenings Ten Years Time Ago |
-| A2 | Good Vibrations |
-| A3 | Rain |
-| A4 | Most Likely You Go Your Way And I'll Go Mine |
-| A5 | If Six Was Nine |
-| A6 | Strawberry Fields Forever |
-| B1 | Black And White |
-| B2 | Common Man |
-| B3 | When I Pray |
-| B4 | Cliché |
-| B5 | The Verb To Love |
-| B6 | Boogies (Hamburger Hell) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -29,18 +29,18 @@ styles: ["Gangsta", "Soundtrack", "Mambo"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Shove This Jay-Oh-Bee |
-| A2 | Get Dis Money |
-| A3 | Get Off My Elevator |
-| A4 | Big Boss Man |
-| A5 | 9 To 5 |
-| A6 | Down For Whatever |
-| B1 | Damn It Feels Good To Be A Gangsta |
-| B2 | Home |
-| B3 | No Tears |
-| B4 | Still |
-| B5 | Mambo No. 8 |
-| B6 | Peanut Vendor |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

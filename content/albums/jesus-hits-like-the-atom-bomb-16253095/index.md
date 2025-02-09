@@ -45,21 +45,21 @@ A few months prior to the release of Jesus Hits Like the Atom Bomb, Island Recor
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Field Day Jitters |
-| A2 | Waited A Light Year |
-| A3 | Sonic Bloom |
-| B1 | Bandaids For Hire |
-| B2 | Mechanical Breakdown |
-| B3 | Your Socks Have No Name |
-| B4 | Geeareohdoubleyou |
-| B5 | New Plains Medicine |
-| C1 | Our Drive To The Sun / Can A Man Mark It? |
-| C2 | Human Contact |
-| C3 | Pillar |
-| D1 | 8 Ladies |
-| D2 | About The Movies |
-| D3 | Tiny Men |
-| D4 | Indian Poker Parts 2 & 3 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

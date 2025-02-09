@@ -33,20 +33,20 @@ styles: ["Heavy Metal", "Groove Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Welcome To Planet Motherfucker / Psychoholic Slag |
-| A2 | Knuckle Duster (Radio 1-A) |
-| A3 | Thunder Kiss '65 |
-| A4 | Black Sunshine |
-| A5 | Soul-Crusher |
-| A6 | Cosmic Monsters Inc. |
-| A7 | Spiderbaby (Yeah-Yeah-Yeah) |
-| B1 | I Am Legend |
-| B2 | Knuckle Duster (Radio 2-B) |
-| B3 | Thrust! |
-| B4 | One Big Crunch |
-| B5 | Grindhouse (A Go-Go) |
-| B6 | Starface |
-| B7 | Warp Asylum |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

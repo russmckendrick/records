@@ -36,16 +36,16 @@ In architecture, and specifically Gothic architecture, a gargoyle () is a carved
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Death's Head Tattoo |
-| A2 | Nocturne |
-| A3 | Blue Blue Sea |
-| A4 | Beehive |
-| A5 | Sister |
-| B1 | Emperor |
-| B2 | Goodbye To Beauty |
-| B3 | Drunk On Destruction |
-| B4 | First Day Of Winter |
-| B5 | Old Swan |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

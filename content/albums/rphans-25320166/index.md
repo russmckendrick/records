@@ -32,12 +32,12 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Theme (From Crocodile Dundee) |
-| A2 | Astral Womb |
-| A3 | Pink Bows |
-| B1 | Mannequin |
-| B2 | Don't Wear The Crown |
-| B3 | Orphans |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

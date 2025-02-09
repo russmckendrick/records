@@ -39,16 +39,16 @@ The first single from the album, "The Worst in Us", was released on March 13, 20
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Heart Of An Animal |
-| A2 | I Know What You're Thinking And It's Awful |
-| A3 | Instant Nightmare! |
-| A4 | Is This What You Really Want? |
-| A5 | The Worst In Us |
-| B1 | Stille Lost |
-| B2 | No Place On Earth |
-| B3 | Play Dead |
-| B4 | Too Many Wrongs |
-| B5 | We'll Go Into Hiding |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -33,19 +33,19 @@ On 29 August 2020, the band and Demon Records released a red vinyl edition for R
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | She (Strings) |
-| A2 | Elaine Paige |
-| A3 | La Puissance (Live) |
-| A4 | Lazy (Demo) |
-| A5 | By The Sea (Acoustic Version) |
-| A6 | Indian Strings (Protocol Demo) |
-| A7 | She's In Fashion (Protocol Demo) |
-| B1 | Simon (Demo) |
-| B2 | Beautiful Loser (Parkgate Demo) |
-| B3 | When The Rain Falls (Stanbridge Demo) |
-| B4 | Untitled (Stanbridge Demo) |
-| B5 | Attitude (Mick Jones Remix) |
-| B6 | Still Life (Strings) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

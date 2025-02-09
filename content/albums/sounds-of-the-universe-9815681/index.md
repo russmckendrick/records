@@ -41,20 +41,20 @@ The album was released by Virgin Records and Capitol Records in the United State
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | In Chains |
-| A2 | Hole To Feed |
-| A3 | Wrong |
-| B1 | Fragile Tension |
-| B2 | Little Soul |
-| B3 | In Sympathy |
-| C1 | Peace |
-| C2 | Come Back |
-| C3 | Spacewalker |
-| C4 | Perfect |
-| D1 | Miles Away / The Truth Is |
-| D2 | Jezebel |
-| D3 | Corrupt |
-| D4 | Untitled |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

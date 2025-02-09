@@ -35,36 +35,36 @@ styles: ["Soundtrack"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Intro - Will Singing The Clash (Dialogue) |
-| A2 | Every Breath You Take |
-| A3 | Should I Stay Or Should I Go |
-| A4 | 'Coffee And Contemplation' (Dialogue) |
-| A5 | Hazy Shade Of Winter |
-| A6 | Nocturnal Me |
-| A7 | 'Bring Him Home!' (Dialogue) |
-| A8 | Sunglasses At Night |
-| B1 | Girls On Film |
-| B2 | 'Just Because People Tell You...' (Dialogue) |
-| B3 | Atmosphere |
-| B4 | 'Maybe I'm Crazy...' (Dialogue) |
-| B5 | Twist Of Fate |
-| B6 | 'Says Logic' (Dialogue) |
-| B7 | The Ghost In You |
-| B8 | Africa |
-| C1 | You Don't Mess Around With Jim |
-| C2 | 'Accident Or Not' (Dialogue) |
-| C3 | Whip It |
-| C4 | Runaway |
-| C5 | Time After Time |
-| C6 | Talking In Your Sleep |
-| D1 | Mouthbreather (Dialogue) |
-| D2 | Back To Nature |
-| D3 | 'She's Our Friend And She's Crazy!' (Dialogue) |
-| D4 | Rock You Like A Hurricane |
-| D5 | Heroes |
-| D6 | 'Friends Don't Lie' (Dialogue) |
-| D7 | Elegia |
-| D8 | Outro - Will Singing The Clash (Dialogue) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

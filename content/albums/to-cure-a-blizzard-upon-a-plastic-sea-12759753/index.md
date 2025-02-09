@@ -49,42 +49,42 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | To Cure A Blizzard Upon A Plastic Sea - MF010V |
-| A1 | Binary  |
-| A2 | Donkey Kong |
-| A3 | Immortal Soldiers |
-| B1 | Into The Wave  |
-| B2 | Friends Don't Owe |
-| C1 | Spider Bones |
-| C2 | Sentientia  |
-| C3 | That's Not Entertainment  |
-| D1 | Diamond Ballgag  |
-| D2 | Robots In Disguise  |
-|  | Copeland - MF011V |
-| A1 | Terrors |
-| A2 | Castlefordian Girls |
-| A3 | Mines |
-| B1 | Ambi |
-| B2 | I'm Janick Gers |
-|  | To Cure A Blizzard Upon A Plastic Sea - MF010CD |
-| CD1-1 | Binary  |
-| CD1-2 | Donkey Kong |
-| CD1-3 | Immortal Soldiers |
-| CD1-4 | Into The Wave  |
-| CD1-5 | Friends Don't Owe |
-| CD1-6 | Spider Bones |
-| CD1-7 | Sentientia  |
-| CD1-8 | That's Not Entertainment  |
-| CD1-9 | Diamond Ballgag  |
-| CD1-10 | Robots In Disguise  |
-|  | Copeland - MF011CD |
-| CD2-1 | Terrors |
-| CD2-2 | Castlefordian Girls |
-| CD2-3 | Mines |
-| CD2-4 | Ambi |
-| CD2-5 | I'm Janick Gers |
-|  | CGI Metals - MF010DVD |
-| DVD-1 | CGI Metals |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

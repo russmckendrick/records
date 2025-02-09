@@ -1,6 +1,6 @@
 ---
-title: "James Brown  The Famous Flames - Please Please Please"
-artist_name: "James Brown  The Famous Flames"
+title: "James Brown & The Famous Flames - Please Please Please"
+artist_name: "James Brown & The Famous Flames"
 artist: "james-brown-the-famous-flames"
 album_name: "Please Please Please"
 date: 2021-05-17T07:47:43.000000Z
@@ -10,8 +10,8 @@ slug: "please-please-please-13262472"
 hideSummary: true
 cover:
     image: "please-please-please-13262472.jpg"
-    alt: "Please Please Please by James Brown  The Famous Flames"
-    caption: "Please Please Please by James Brown  The Famous Flames"
+    alt: "Please Please Please by James Brown & The Famous Flames"
+    caption: "Please Please Please by James Brown & The Famous Flames"
 additional_images:
     - "https://i.discogs.com/_pHie2u-FEi8fcNCqvZkIwgmnTZ_zAfVZQsxvDZqvAc/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYy/NDcyLTE1NjM2MTQ1/NjctNDQ2Mi5qcGVn.jpeg"
     - "https://i.discogs.com/5yh2ESoRxKzMnZ7BUk-vYR2VghFtHCywhjO73fPQnbU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYy/NDcyLTE1NjM2MTQ3/NzktNjQ3OC5qcGVn.jpeg"
@@ -36,24 +36,24 @@ The song received acclaim from music critics upon release. "Please Please Please
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Please, Please, Please |
-| A2 | Chonnie-On-Chon |
-| A3 | Hold My Baby's Hand |
-| A4 | I Feel That Old Feeling Coming On |
-| A5 | Just Won't Do Right |
-| A6 | Baby Cries Over The Ocean |
-| A7 | I Don't Know |
-| A8 | Tell Me What I Did Wrong |
-| B1 | Try Me |
-| B2 | That Dood It |
-| B3 | Begging, Begging |
-| B4 | I Walked Alone |
-| B5 | No, No, No, No |
-| B6 | That's When I Lost My Heart |
-| B7 | Let's Make It |
-| B8 | Love Or A Game |
-|  | Bonus Track |
-| B9 | This Old Heart |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -71,4 +71,4 @@ The song received acclaim from music critics upon release. "Please Please Please
 | Format         | Vinyl LP Album Limited Edition Reissue (Red, 180 Gram) |
 | Label          | WaxTime In Color |
 | Catalog Number | 950662 |
-| Discogs URL    | [James Brown  The Famous Flames - Please Please Please](https://www.discogs.com/release/13262472-James-Brown-And-His-Famous-Flames-Please-Please-Please) |
+| Discogs URL    | [James Brown & The Famous Flames - Please Please Please](https://www.discogs.com/release/13262472-James-Brown-And-His-Famous-Flames-Please-Please-Please) |

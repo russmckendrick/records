@@ -1,6 +1,6 @@
 ---
-title: "Jellyfish - Bellybutton"
-artist_name: "Jellyfish"
+title: "Jellyfish (2) - Bellybutton"
+artist_name: "Jellyfish (2)"
 artist: "jellyfish"
 album_name: "Bellybutton"
 date: 2016-02-11T19:06:02.000000Z
@@ -10,8 +10,8 @@ slug: "bellybutton-1839629"
 hideSummary: true
 cover:
     image: "bellybutton-1839629.jpg"
-    alt: "Bellybutton by Jellyfish"
-    caption: "Bellybutton by Jellyfish"
+    alt: "Bellybutton by Jellyfish (2)"
+    caption: "Bellybutton by Jellyfish (2)"
 additional_images:
     - "https://i.discogs.com/MX47sooBIEyDllanRmgRxLEN5wnOBUsMHmWJn6cZ_6I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzk2/MjktMTYwNDI4MTE2/NS0zNjM5LmpwZWc.jpeg"
     - "https://i.discogs.com/3CfltlhkQumutrh2jovBEI2BMafoLGgMlc79AxL95t4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Mzk2/MjktMTYwNDI4MTE2/My01ODg3LmpwZWc.jpeg"
@@ -35,16 +35,16 @@ Bellybutton was released to critical acclaim and peaked at No. 124 on US charts.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Man I Used To Be |
-| A2 | That Is Why |
-| A3 | The King Is Half-Undressed |
-| A4 | I Wanna Stay Home |
-| A5 | She Still Loves Him |
-| B1 | All I Want Is Everything |
-| B2 | Now She Knows She's Wrong |
-| B3 | Bedspring Kiss |
-| B4 | Baby's Coming Back |
-| B5 | Calling Sarah |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ Bellybutton was released to critical acclaim and peaked at No. 124 on US charts.
 | Label          | Charisma |
 | Catalog Number | CUSLP3 |
 | Notes | This pressing: Record labels are black on the left hand side [JELLYFISH BELLYBUTTON] and dark green on the right [track titles].  In gloss finish sleeve with b/w printed inner bag.  Track 3 appears as Bed Spring Kiss on the label. Roger Joseph Manning Jr.'s publishing company Little Green Appletoons absent from the credits on this release. |
-| Discogs URL    | [Jellyfish - Bellybutton](https://www.discogs.com/release/1839629-Jellyfish-2-Bellybutton) |
+| Discogs URL    | [Jellyfish (2) - Bellybutton](https://www.discogs.com/release/1839629-Jellyfish-2-Bellybutton) |

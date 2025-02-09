@@ -39,19 +39,19 @@ Wiseblood is the fifth studio album by American heavy metal band Corrosion of Co
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | King Of The Rotten |
-| A2 | Long Whip / Big America |
-| A3 | Wiseblood |
-| A4 | Goodbye Windows |
-| B1 | Born Again For The Last Time |
-| B2 | Drowning In A Daydream |
-| B3 | The Snake Has No Head |
-| C1 | The Door |
-| C2 | Man Or Ash |
-| C3 | Redemption City |
-| D1 | Wishbone (Some Tomorrow) |
-| D2 | Fuel |
-| D3 | Bottom Feeder (El Que Come Abajo) (Instrumental) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

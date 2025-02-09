@@ -34,18 +34,18 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Silence Is Deafening |
-| A2 | Don't You Wait, It Might Never Come |
-| A3 | No Ideas |
-| B1 | Feeling My Heart Run Slow |
-| B2 | Things People Want |
-| B3 | Disgusting |
-| C1 | Friends Make The Worst Enemies |
-| C2 | Grey House |
-| C3 | Who's Wearing The Trousers |
-| D1 | I Can Only Disappoint U |
-| D2 | Wide Open Space |
-| D3 | Don't Poke The Bear |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

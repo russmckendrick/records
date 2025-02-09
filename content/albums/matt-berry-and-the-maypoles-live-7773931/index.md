@@ -1,6 +1,6 @@
 ---
-title: "Matt Berry - Matt Berry And The Maypoles Live"
-artist_name: "Matt Berry"
+title: "Matt Berry (3) - Matt Berry And The Maypoles Live"
+artist_name: "Matt Berry (3)"
 artist: "matt-berry"
 album_name: "Matt Berry And The Maypoles Live"
 date: 2015-12-25T16:58:57.000000Z
@@ -10,8 +10,8 @@ slug: "matt-berry-and-the-maypoles-live-7773931"
 hideSummary: true
 cover:
     image: "matt-berry-and-the-maypoles-live-7773931.jpg"
-    alt: "Matt Berry And The Maypoles Live by Matt Berry"
-    caption: "Matt Berry And The Maypoles Live by Matt Berry"
+    alt: "Matt Berry And The Maypoles Live by Matt Berry (3)"
+    caption: "Matt Berry And The Maypoles Live by Matt Berry (3)"
 additional_images:
     - "https://i.discogs.com/K_XgLs1R-6M9oTc3qnli0mGxvoOQrk4iMqw1hj2D9oM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzM5/MzEtMTQ0ODUzMzU1/MS04NTE4LmpwZWc.jpeg"
     - "https://i.discogs.com/z2IAhwYJ_GipFH2q0_QdlNMhagQhJmmRyPaPoM3GlO0/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzM5/MzEtMTUyMzQ0OTYy/NS04ODE2LmpwZWc.jpeg"
@@ -36,17 +36,17 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock", "Theme"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Innkeeper's Song |
-| A2 | So Low |
-| A3 | October Sun |
-| A4 | Take My Hand |
-| A5 | Sorry (Theme From) |
-| A6 | Solstice |
-| B1 | Snuff Box |
-| B2 | Song For Rosie |
-| B3 | Medicine |
-| B4 | Devil Inside Me |
-| B5 | The Pheasant |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -64,4 +64,4 @@ styles: ["Folk Rock", "Prog Rock", "Psychedelic Rock", "Theme"]
 | Label          | Acid Jazz |
 | Catalog Number | AJX397X |
 | Notes | Pressed on 180G, deep translucent blue vinyl. Also contained is a download card. |
-| Discogs URL    | [Matt Berry - Matt Berry And The Maypoles Live](https://www.discogs.com/release/7773931-Matt-Berry-3-And-The-Maypoles-Matt-Berry-And-The-Maypoles-Live) |
+| Discogs URL    | [Matt Berry (3) - Matt Berry And The Maypoles Live](https://www.discogs.com/release/7773931-Matt-Berry-3-And-The-Maypoles-Matt-Berry-And-The-Maypoles-Live) |

@@ -29,19 +29,19 @@ The band's cumulative sales equal almost two million in the United States, inclu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Lusty |
-| A2 | God Bless |
-| A3 | Cotton Wool |
-| A4 | Trans Fatty Acid |
-| B1 | Zero |
-| B2 | Merge |
-| B3 | Gold |
-| B4 | Closer |
-| C1 | Górecki |
-| C2 | Feela |
-| C3 | Cotton Wool (Fila Brazillia Mix) |
-| D1 | Trans Fatty Acid (Kruder & Dorfmeister Remix) |
-| D2 | Gorecki (Global Communication Mix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

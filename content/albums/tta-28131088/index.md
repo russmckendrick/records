@@ -42,16 +42,16 @@ styles: ["Ambient", "Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Glóð |
-| A2 | Blóðberg |
-| A3 | Skel |
-| B1 | Klettur |
-| B2 | Mór |
-| B3 | Andrá |
-| C1 | Gold |
-| C2 | Ylur |
-| D1 | Fall |
-| D2 | 8 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

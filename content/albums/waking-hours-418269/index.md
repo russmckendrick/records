@@ -34,16 +34,16 @@ Waking Hours is the second studio album by Scottish alternative rock band Del Am
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Kiss This Thing Goodbye |
-| A2 | Opposite View |
-| A3 | Move Away Jimmy Blue |
-| A4 | Stone Cold Sober |
-| A5 | You're Gone |
-| B1 | When I Want You |
-| B2 | This Side Of The Morning |
-| B3 | Empty |
-| B4 | Hatful Of Rain |
-| B5 | Nothing Ever Happens |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

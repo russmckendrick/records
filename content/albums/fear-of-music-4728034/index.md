@@ -37,17 +37,17 @@ There are plenty of experiments into the disorienting possibilities of studio pr
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Zimbra |
-| A2 | Mind |
-| A3 | Paper |
-| A4 | Cities |
-| A5 | Life During Wartime |
-| A6 | Memories Can't Wait |
-| B1 | Air |
-| B2 | Heaven |
-| B3 | Animals |
-| B4 | Electric Guitar |
-| B5 | Drugs |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

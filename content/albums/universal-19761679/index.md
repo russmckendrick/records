@@ -35,18 +35,18 @@ The album spawned the singles "Walking on the Milky Way" (a number 17 hit in the
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Universal |
-| A2 | Walking On The Milky Way |
-| A3 | The Moon & The Sun |
-| A4 | The Black Sea |
-| A5 | Very Close To Far Away |
-| A6 | The Gospel Of St Jude |
-| B1 | That Was Then |
-| B2 | Too Late |
-| B3 | The Boy From The Chemist Is Here To See You |
-| B4 | If You're Still In Love With Me |
-| B5 | New Head |
-| B6 | Victory Waltz |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

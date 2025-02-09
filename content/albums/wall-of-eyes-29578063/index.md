@@ -1,6 +1,6 @@
 ---
-title: "The Smile - Wall Of Eyes"
-artist_name: "The Smile"
+title: "The Smile (5) - Wall Of Eyes"
+artist_name: "The Smile (5)"
 artist: "the-smile"
 album_name: "Wall Of Eyes"
 date: 2024-02-02T00:43:05.000000Z
@@ -10,8 +10,8 @@ slug: "wall-of-eyes-29578063"
 hideSummary: true
 cover:
     image: "wall-of-eyes-29578063.jpg"
-    alt: "Wall Of Eyes by The Smile"
-    caption: "Wall Of Eyes by The Smile"
+    alt: "Wall Of Eyes by The Smile (5)"
+    caption: "Wall Of Eyes by The Smile (5)"
 additional_images:
     - "https://i.discogs.com/J6Vv7JIgkROrg7tmU8wd01X4XrIQ8gp-mqeZ5MbMOgU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTc4/MDYzLTE3MDY4Mjk0/NDgtOTI1Mi5qcGVn.jpeg"
     - "https://i.discogs.com/pZYGX5HqlP6tsFbQTeNpUjTkCV9d4qqO42b8tC_xZ9g/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTc4/MDYzLTE3MDYyNTU5/OTMtMzY1Ni5qcGVn.jpeg"
@@ -43,14 +43,14 @@ There are some surprises along the way, too. A few songs veer into floaty lullab
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Wall Of Eyes |
-| A2 | Teleharmonic |
-| A3 | Read The Room |
-| A4 | Under Our Pillows |
-| B1 | Friend Of A Friend |
-| B2 | I Quit |
-| B3 | Bending Hectic |
-| B4 | You Know Me! |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -69,4 +69,4 @@ There are some surprises along the way, too. A few songs veer into floaty lullab
 | Label          | XL Recordings |
 | Catalog Number | XL1394LPE |
 | Notes | XL1394LPE is printed on the barcode sticker.  Packaged in a matte "soft touch" finish, with glossy black lettering, gatefold sleeve and with blue sticker "THE SMILE - LIMITED EDITION BLUE VINYL". The French distribution may have another "France Inter" sticker. Includes a printed inner sleeve with lyrics.  Early orders from various indie sellers across the world received a free 12x12 Art Print.  Recorded in Oxford & at Abbey Road Studios Mixed at Studiofour, London Mastered... at Sterling Sound  ℗2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd ©2024 Self Help Tapes LLP under exclusive license to XL Recordings Ltd  Published by Warner Chappell Music & Warp Publishing |
-| Discogs URL    | [The Smile - Wall Of Eyes](https://www.discogs.com/release/29578063-The-Smile-5-Wall-Of-Eyes) |
+| Discogs URL    | [The Smile (5) - Wall Of Eyes](https://www.discogs.com/release/29578063-The-Smile-5-Wall-Of-Eyes) |

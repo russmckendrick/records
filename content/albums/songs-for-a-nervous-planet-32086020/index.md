@@ -27,22 +27,22 @@ styles: ["Pop Rock", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A01 | Say Goodbye To Mum And Dad |
-| A02 | The Girl That I Call Home |
-| A03 | Emily Said |
-| A04 | Astronaut |
-| A05 | The Tipping Point |
-| B06 | Everybody Wants To Rule The World |
-| B07 | Sowing The Seeds Of Love |
-| B08 | Break The Man |
-| B09 | Mad World |
-| C10 | Woman In Chains |
-| C11 | Badman’s Song |
-| C12 | Pale Shelter |
-| D13 | Break It Down Again |
-| D14 | Head Over Heels |
-| D15 | Change |
-| D16 | Shout |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

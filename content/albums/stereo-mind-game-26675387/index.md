@@ -1,6 +1,6 @@
 ---
-title: "Daughter - Stereo Mind Game"
-artist_name: "Daughter"
+title: "Daughter (2) - Stereo Mind Game"
+artist_name: "Daughter (2)"
 artist: "daughter"
 album_name: "Stereo Mind Game"
 date: 2023-04-23T04:35:10.000000Z
@@ -10,8 +10,8 @@ slug: "stereo-mind-game-26675387"
 hideSummary: true
 cover:
     image: "stereo-mind-game-26675387.jpg"
-    alt: "Stereo Mind Game by Daughter"
-    caption: "Stereo Mind Game by Daughter"
+    alt: "Stereo Mind Game by Daughter (2)"
+    caption: "Stereo Mind Game by Daughter (2)"
 additional_images:
     - "https://i.discogs.com/UpXJuTv81tTJP7NIN-xQaI9PkKuCTSvDdTpfzsgBhAk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njc1/Mzg3LTE2ODA4Nzcx/NDEtOTM5MS5qcGVn.jpeg"
     - "https://i.discogs.com/dDnJoiFn5iaXg0ptZ5dD2_0DI_xUhWbzloTi78NmaPQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njc1/Mzg3LTE2ODA4Nzcx/MzktMzUzNi5qcGVn.jpeg"
@@ -77,18 +77,18 @@ IH: “The way the cellos and maybe the piano loop moves from the start of the s
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Intro |
-| A2 | Be On Your Way |
-| A3 | Party |
-| A4 | Dandelion |
-| A5 | Neptune |
-| A6 | Swim Back |
-| B7 | Junkmail |
-| B8 | Future Lover |
-| B9 | (Missed Calls) |
-| B10 | Isolation |
-| B11 | To Rage |
-| B12 | Wish I Could Cross The Sea |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -107,4 +107,4 @@ IH: “The way the cellos and maybe the piano loop moves from the start of the s
 | Label          | 4AD |
 | Catalog Number | 4AD0512LPE |
 | Notes | The tracks are numbered sequentially, 1 to 12, on the release. |
-| Discogs URL    | [Daughter - Stereo Mind Game](https://www.discogs.com/release/26675387-Daughter-2-Stereo-Mind-Game) |
+| Discogs URL    | [Daughter (2) - Stereo Mind Game](https://www.discogs.com/release/26675387-Daughter-2-Stereo-Mind-Game) |

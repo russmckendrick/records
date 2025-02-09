@@ -36,28 +36,28 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Guns In The Sky |
-| A2 | New Sensation |
-| A3 | I Send A Message |
-| A4 | The Stairs |
-| B1 | Know The Difference |
-| B2 | Disappear |
-| B3 | By My Side |
-| B4 | Hear That Sound |
-| C1 | Original Sin |
-| C2 | Lately |
-| C3 | The Loved One |
-| C4 | Wild Life |
-| D1 | Mystify |
-| D2 | Bitter Tears |
-| D3 | Suicide Blond |
-| D4 | What You Need |
-| E1 | Kick |
-| E2 | Need You Tonight |
-| E3 | Mediate |
-| F1 | Never Tears Us Apart |
-| F2 | Who Pays The Price |
-| F3  | Devil Inside |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

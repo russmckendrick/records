@@ -35,16 +35,16 @@ Made in America  was the band's last album in its original incarnation. Followin
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Soul Finger / Funky Broadway |
-| A2 | Who's Making Love |
-| A3 | Do You Love Me / Mother Popcorn (You Got To Have A Mother For Me) |
-| A4 | Guilty |
-| A5 | Perry Mason Theme |
-| A6 | Riot In Cell Block Number Nine |
-| B1 | Green Onions |
-| B2 | I Ain't Got You |
-| B3 | From The Bottom |
-| B4 | Going Back To Miami |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

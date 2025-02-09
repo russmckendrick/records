@@ -45,23 +45,23 @@ This article is a discography of American rock musician Todd Rundgren.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | How About A Little Fanfare? |
-| A2 | I Think You Know |
-| A3 | The Spark Of Life |
-| A4 | An Elpee's Worth Of Toons |
-| A5 | A Dream Goes On Forever |
-| A6 | Lord Chancellor's Nightmare Song |
-| B1 | Drunken Blue Rooster |
-| B2 | The Last Ride |
-| B3 | Everybody's Going To Heaven / King Kong Reggae |
-| C1 | Number 1 Lowest Common Denominator |
-| C2 | Useless Begging |
-| C3 | Sidewalk Cafe |
-| C4 | Izzat Love? |
-| C5 | Heavy Metal Kids |
-| D1 | In And Out The Chakras We Go (Formerly:  Shaft Goes To Outer Space) |
-| D2 | Don't You Ever Learn? |
-| D3 | Sons Of 1984 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

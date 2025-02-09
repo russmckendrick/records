@@ -63,21 +63,21 @@ Stephen Bruner’s fourth album as Thundercat is shrouded in loss—of love, of 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Lost In Space / Great Scott / 22-26 |
-| A2 | Innerstellar Love |
-| A3 | I Love Louis Cole |
-| A4 | Black Qualls |
-| A5 | Miguel's Happy Dance |
-| A6 | How Sway |
-| A7 | Funny Thing |
-| B1 | Overseas |
-| B2 | Dragonball Durag |
-| B3 | How I Feel |
-| B4 | King Of The Hill |
-| B5 | Unrequited Love |
-| B6 | Fair Chance |
-| B7 | Existential Dread |
-| B8 | It Is What It Is |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

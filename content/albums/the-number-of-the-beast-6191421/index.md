@@ -39,14 +39,14 @@ The Number of the Beast was met with critical and commercial success, and became
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Invaders |
-| A2 | Children Of The Damned |
-| A3 | The Prisoner |
-| A4 | 22 Acacia Avenue |
-| B1 | The Number Of The Beast |
-| B2 | Run To The Hills |
-| B3 | Gangland |
-| B4 | Hallowed Be Thy Name |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

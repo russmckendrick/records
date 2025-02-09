@@ -35,26 +35,26 @@ styles: ["Alternative Rock", "Industrial", "Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Live At Metro, Chicago, 27 September 1990 |
-| A1 | Move Mountains |
-| A2 | What's Going On |
-| A3 | Real, Real, Real |
-| A4 | I Don't Want That Kind Of Love |
-| A5 | Right Here Right Now |
-| B1 | Barry D. Next To Cleanliness |
-| B2 | Song 13 |
-| B3 | Welcome Back Victoria |
-| B4 | Info Freako |
-| C1 | What Would You Know? |
-| C2 | Someone To Blame |
-| C3 | Never Enough |
-| C4 | Broken Bones |
-|  | Live At Jaap Edenhal, Amsterdam, 9 March 1990 |
-| D1 | What's Going On |
-| D2 | All The Answers |
-| D3 | Bring It All Down |
-| D4 | The Real World |
-| D5 | Someone To Blame |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

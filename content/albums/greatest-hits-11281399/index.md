@@ -1,6 +1,6 @@
 ---
-title: "Sly  The Family Stone - Greatest Hits"
-artist_name: "Sly  The Family Stone"
+title: "Sly & The Family Stone - Greatest Hits"
+artist_name: "Sly & The Family Stone"
 artist: "sly-the-family-stone"
 album_name: "Greatest Hits"
 date: 2018-01-29T19:34:01.000000Z
@@ -10,8 +10,8 @@ slug: "greatest-hits-11281399"
 hideSummary: true
 cover:
     image: "greatest-hits-11281399.jpg"
-    alt: "Greatest Hits by Sly  The Family Stone"
-    caption: "Greatest Hits by Sly  The Family Stone"
+    alt: "Greatest Hits by Sly & The Family Stone"
+    caption: "Greatest Hits by Sly & The Family Stone"
 additional_images:
     - "https://i.discogs.com/cASZXZmfwVJBmP2mJ9xHWQX4fel7fRdbwoKdJqYXEbg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjgx/Mzk5LTE1ODA2MDU0/OTQtMzI1My5qcGVn.jpeg"
     - "https://i.discogs.com/V_0dXEYjQX8uy0m0gAX0vBxA5Wgr1q18jxI1QKJyKik/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjgx/Mzk5LTE1ODA2MDU1/MTktNDcyOC5qcGVn.jpeg"
@@ -37,18 +37,18 @@ Greatest Hits was certified quintuple platinum by the Recording Industry Associa
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Want To Take You Higher |
-| A2 | Everybody Is A Star |
-| A3 | Stand! |
-| A4 | Life |
-| A5 | Fun |
-| A6 | You Can Make It If You Try |
-| B1 | Dance To The Music |
-| B2 | Everyday People |
-| B3 | Hot Fun In The Summertime |
-| B4 | M'Lady |
-| B5 | Sing A Simple Song |
-| B6 | Thank You Falettinme Be Mice Elf Agin |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -67,4 +67,4 @@ Greatest Hits was certified quintuple platinum by the Recording Industry Associa
 | Label          | Epic |
 | Catalog Number | 88985432351 |
 | Notes | Runouts are etched, '03' on Side A is mirrored.  |
-| Discogs URL    | [Sly  The Family Stone - Greatest Hits](https://www.discogs.com/release/11281399-Sly-The-Family-Stone-Greatest-Hits) |
+| Discogs URL    | [Sly & The Family Stone - Greatest Hits](https://www.discogs.com/release/11281399-Sly-The-Family-Stone-Greatest-Hits) |

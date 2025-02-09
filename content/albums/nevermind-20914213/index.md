@@ -44,21 +44,21 @@ Nevermind propelled Nirvana into worldwide superstardom, with Cobain being dubbe
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Smells Like Teen Spirit |
-| A2 | In Bloom |
-| A3 | Come As You Are |
-| A4 | Breed |
-| A5 | Lithium |
-| A6 | Polly |
-| B1 | Territorial Pissings |
-| B2 | Drain You |
-| B3 | Lounge Act |
-| B4 | Stay Away |
-| B5 | On A Plain |
-| B6 | Something In The Way |
-| C | Endless, Nameless |
-| D1 | Even In His Youth |
-| D2 | Aneurysm |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

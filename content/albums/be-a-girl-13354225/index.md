@@ -35,17 +35,17 @@ The album was released by the RCA subsidiary Indolent Records in the UK in Augus
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | You And Me Song |
-| A2 | Might Be Stars |
-| A3 | Love In June |
-| A4 | How Does It Feel? |
-| A5 | Sweet Nymphet |
-| A6 | New World Record |
-| B1 | Dying For More |
-| B2 | Soon You're Dead |
-| B3 | Do It All The Time |
-| B4 | Dreamy Wednesdays |
-| B5 | Kid |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

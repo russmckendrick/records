@@ -40,31 +40,31 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Action Painting |
-| A2 | Tolerance (Single Version) |
-| A3 | Spitting Out Miracles |
-| A4 | Season Ticket To A Bad Place |
-| A5 | Bury Your Love Like Treasure |
-| A6 | Severn Beach |
-| B1 | Jacket Hangs |
-| B2 | …And Stones (Single Edit) |
-| B3 | Yr Own World (12” Single Version) |
-| B4 | Fun |
-| B5 | Colour Me (Alternate Mix) |
-| C1 | Broken And Mended |
-| C2 | Whatever Happened To Our Golden Birds? |
-| C3 | Missy Lane |
-| C4 | Warhol’s Fifteen (Live) |
-| C5 | Cavaliers Pt 2 |
-| C6 | Beautiful Is (As Beautiful Does) |
-| C7 |  Camus In Pocket |
-| D1 | Up In A Down World |
-| D2 | Sulpher |
-| D3 | Elvis Festival |
-| D4 | Dead Tree! Dead Tree!  |
-| D5 | Building An Ark For The Anthropocene (Single Edit) |
-| E1 | Showing Off To Impress The Girls |
-| F2 | I Will Love You (Demo) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

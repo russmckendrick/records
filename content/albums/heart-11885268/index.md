@@ -37,17 +37,17 @@ The album was recorded in the bedroom of keyboard player Chris Seligman on Avenu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | What The Snowman Learned About Love |
-| A2 | Elevator Love Letter |
-| A3 | Heart |
-| A4 | The Woods |
-| A5 | Death To Death |
-| B1 | The Vanishing |
-| B2 | Romantic Comedy |
-| B3 | Time Can Never Kill The True Heart |
-| B4 | Look Up |
-| B5 | Life Effect |
-| B6 | Don't Be Afraid To Sing |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

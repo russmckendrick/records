@@ -55,18 +55,18 @@ styles: ["Art Rock", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Panopticom |
-| A2 | Playing For Time |
-| A3 | The Court |
-| B1 | Four Kinds Of Horses |
-| B2 | I/O |
-| B3 | Love Can Heal |
-| C1 | Road To Joy |
-| C2 | So Much |
-| C3 | Olive Tree |
-| D1 | This Is Home |
-| D2 | And Still |
-| D3 | Live And Let Live |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

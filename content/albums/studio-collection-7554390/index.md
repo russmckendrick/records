@@ -126,192 +126,192 @@ Studio Collection is a compilation album by Italian singer Mina, released on 26 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Queen |
-| A1 | Keep Yourself Alive |
-| A2 | Doing All Right |
-| A3 | Great King Rat |
-| A4 | My Fairy King |
-| B1 | Liar |
-| B2 | The Night Comes Down |
-| B3 | Modern Times Rock'n'Roll |
-| B4 | Son And Daughter |
-| B5 | Jesus |
-| B6 | Seven Seas Of Rhye... |
-|  | Queen II |
-| C1 | Procession |
-| C2 | Father To Son |
-| C3 | White Queen (As It Began) |
-| C4 | Some Day One Day |
-| C5 | The Loser In The End |
-| D1 | Ogre Battle |
-| D2 | The Fairy Feller's Master Stroke |
-| D3 | Nevermore |
-| D4 | The March Of The Black Queen |
-| D5 | Funny How Love Is |
-| D6 | Seven Seas Of Rhye |
-|  | Sheer Heart Attack |
-| E1 | Brighton Rock |
-| E2 | Killer Queen |
-| E3 | Tenement Funster |
-| E4 | Flick Of The Wrist |
-| E5 | Lily Of The Valley |
-| E6 | Now I'm Here |
-| F1 | In The Lap Of The Gods |
-| F2 | Stone Cold Crazy |
-| F3 | Dear Friends |
-| F4 | Misfire |
-| F5 | Bring Back That Leroy Brown |
-| F6 | She Makes Me (Stormtrooper In Stilettos) |
-| F7 | In The Lap Of The Gods...Revisited |
-|  | A Night At The Opera |
-| G1 | Death On Two Legs (Dedicated To... |
-| G2 | Lazing On A Sunday Afternoon |
-| G3 | I'm In Love With My Car |
-| G4 | You're My Best Friend |
-| G5 | '39 |
-| G6 | Sweet Lady |
-| G7 | Seaside Rendezvous |
-| H1 | The Prophet's Song |
-| H2 | Love Of My Life |
-| H3 | Good Company |
-| H4 | Bohemian Rhapsody |
-| H5 | God Save The Queen |
-|  | A Day At The Races |
-| I1 | Tie Your Mother Down |
-| I2 | You Take My Breath Away |
-| I3 | Long Away |
-| I4 | The Millionaire Waltz |
-| I5 | You And I |
-| J1 | Somebody To Love |
-| J2 | White Man |
-| J3 | Good Old-Fashioned Lover Boy |
-| J4 | Drowse |
-| J5 | Teo Torriatte (Let Us Cling Together) |
-|  | News Of The World |
-| K1 | We Will Rock You |
-| K2 | We Are The Champions |
-| K3 | Sheer Heart Attack |
-| K4 | All Dead, All Dead |
-| K5 | Spread Your Wings |
-| K6 | Fight From The Inside |
-| L1 | Get Down Make Love |
-| L2 | Sleeping On The Sidewalk |
-| L3 | Who Needs You |
-| L4 | It's Late |
-| L5 | My Melancholy Blues |
-|  | Jazz |
-| M1 | Mustapha |
-| M2 | Fat Bottomed Girls |
-| M3 | Jealousy |
-| M4 | Bicycle Race |
-| M5 | If You Can't Beat Them |
-| M6 | Let Me Entertain You |
-| N1 | Dead On Time |
-| N2 | In Only Seven Days |
-| N3 | Dreamers Ball |
-| N4 | Fun It |
-| N5 | Leaving Home Ain't Easy |
-| N6 | Don't Stop Me Now |
-| N7 | More Of That Jazz |
-|  | The Game |
-| O1 | Play The Game |
-| O2 | Dragon Attack |
-| O3 | Another One Bites The Dust |
-| O4 | Need Your Loving Tonight |
-| O5 | Crazy Little Thing Called Love |
-| P1 | Rock It (Prime Jive) |
-| P2 | Don't Try Suicide |
-| P3 | Sail Away Sweet Sister |
-| P4 | Coming Soon |
-| P5 | Save Me |
-|  | Flash Gordon |
-| Q1 | Flash's Theme |
-| Q2 | In The Space Capsule (The Love Theme) |
-| Q3 | Ming's Theme (In The Court Of Ming The Merciless) |
-| Q4 | The Ring (Hypnotic Seduction Of Dale) |
-| Q5 | Football Fight |
-| Q6 | In The Death Cell (Love Theme Reprise) |
-| Q7 | Execution Of Flash |
-| Q8 | The Kiss (Aura Resurrects Flash) |
-| R1 | Arboria (Planet Of The Tree Men) |
-| R2 | Escape From The Swamp |
-| R3 | Flash To The Rescue |
-| R4 | Vultan's Theme (Attack Of The Hawk Men) |
-| R5 | Battle Theme |
-| R6 | The Wedding March |
-| R7 | Marriage Of Dale And Ming (And Flash Approaching) |
-| R8 | Crash Dive On Mingo City |
-| R9 | Flash's Theme Reprise (Victory Celebrations) |
-| R10 | The Hero |
-|  | Hot Space |
-| S1 | Staying Power |
-| S2 | Dancer |
-| S3 | Back Chat |
-| S4 | Body Language |
-| S5 | Action This Day |
-| T1 | Put Out The Fire |
-| T2 | Life Is Real (Song For Lennon) |
-| T3 | Calling All Girls |
-| T4 | Las Palabras De Amor (The Words Of Love) |
-| T5 | Cool Cat |
-| T6 | Under Pressure |
-|  | The Works |
-| U1 | Radio Ga Ga |
-| U2 | Tear It Up |
-| U3 | It's A Hard Life |
-| U4 | Man On The Prowl |
-| V1 | Machines (Or 'Back To Humans') |
-| V2 | I Want To Break Free |
-| V3 | Keep Passing The Open Windows |
-| V4 | Hammer To Fall |
-| V5 | Is This The World We Created...? |
-|  | A Kind Of Magic |
-| W1 | One Vision |
-| W2 | A Kind Of Magic |
-| W3 | One Year Of Love |
-| W4 | Pain Is So Close To Pleasure |
-| W5 | Friends Will Be Friends |
-| X1 | Who Wants To Live Forever |
-| X2 | Gimme The Prize (Kurgan's Theme) |
-| X3 | Don't Lose Your Head |
-| X4 | Princes Of The Universe |
-|  | The Miracle |
-| Y1 | Party |
-| Y2 | Khashoggi's Ship |
-| Y3 | The Miracle |
-| Y4 | I Want It All |
-| Y5 | The Invisible Man |
-| Z1 | Breakthru |
-| Z2 | Rain Must Fall |
-| Z3 | Scandal |
-| Z4 | My Baby Does Me |
-| Z5 | Was It All Worth It |
-|  | Innuendo |
-| AA1 | Innuendo |
-| AA2 | I'm Going Slightly Mad |
-| AA3 | Headlong |
-| BB1 | These Are The Days Of Our Lives |
-| BB2 | Don't Try So Hard |
-| BB3 | Ride The Wild Wind |
-| CC1 | All God's People |
-| CC2 | I Can't Live With You |
-| CC3 | Delilah |
-| DD1 | The Hitman |
-| DD2 | Bijou |
-| DD3 | The Show Must Go On |
-|  | Made In Heaven |
-| EE1 | It's A Beautiful Day |
-| EE2 | Made In Heaven |
-| EE3 | Let Me Live |
-| EE4 | Mother Love |
-| FF1 | My Life Has Been Saved |
-| FF2 | I Was Born To Love You |
-| FF3 | Heaven For Everyone |
-| GG1 | Too Much Love Will Kill You |
-| GG2 | You Don't Fool Me |
-| GG3 | A Winter's Tale |
-| GG4 | It's A Beautiful Day (Reprise) |
-| HH1 | "13" |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

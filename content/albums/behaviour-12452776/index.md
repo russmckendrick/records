@@ -33,16 +33,16 @@ Behaviour (released as Behavior in the United States) is the fourth studio album
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Being Boring |
-| A2 | This Must Be The Place I Waited Years To Leave |
-| A3 | To Face The Truth |
-| A4 | How Can You Expect To Be Taken Seriously? |
-| A5 | Only The Wind |
-| B6 | My October Symphony |
-| B7 | So Hard |
-| B8 | Nervously |
-| B9 | The End Of The World |
-| B10 | Jealousy |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

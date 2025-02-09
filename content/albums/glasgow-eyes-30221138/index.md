@@ -36,18 +36,18 @@ Except for when they are—like on the positively rollicking “The Eagles and t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Venal Joy |
-| A2 | American Born |
-| A3 | Mediterranean X Film |
-| A4 | Jamcod |
-| A5 | Discotheque |
-| A6 | Pure Poor |
-| B1 | The Eagles And The Beatles |
-| B2 | Silver Strings |
-| B3 | Chemical Animal |
-| B4 | Second Of June |
-| B5 | Girl 71 |
-| B6 | Hey Lou Reid |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

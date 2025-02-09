@@ -1,6 +1,6 @@
 ---
-title: "Dr John - In The Right Place"
-artist_name: "Dr John"
+title: "Dr. John - In The Right Place"
+artist_name: "Dr. John"
 artist: "dr-john"
 album_name: "In The Right Place"
 date: 2015-10-05T18:22:12.000000Z
@@ -10,8 +10,8 @@ slug: "in-the-right-place-6772705"
 hideSummary: true
 cover:
     image: "in-the-right-place-6772705.jpg"
-    alt: "In The Right Place by Dr John"
-    caption: "In The Right Place by Dr John"
+    alt: "In The Right Place by Dr. John"
+    caption: "In The Right Place by Dr. John"
 additional_images:
     - "https://i.discogs.com/6TQEW0LyVbjCpLAE29J6jadzBU-jhHRM-pR2xdTNxIA/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzI3/MDUtMTQyNjM0MDI1/MS02NTc4LmpwZWc.jpeg"
     - "https://i.discogs.com/GQoudbmfo-WfQlBBSNlyHFKaKdiX5ZA5j33C4TKbnsc/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NzI3/MDUtMTQyNjM0MDI1/Ny0yODE1LmpwZWc.jpeg"
@@ -33,17 +33,17 @@ The song "Right Place, Wrong Time" became the biggest hit from the LP, reaching 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Right Place Wrong Time |
-| A2 | Same Old Same Old |
-| A3 | Just The Same |
-| A4 | Qualified |
-| A5 | Traveling Mood |
-| A6 | Peace Brother Peace |
-| B1 | Life |
-| B2 | Such A Night |
-| B3 | Shoo Fly Marches On |
-| B4 | I Been Hoodood |
-| B5 | Cold Cold Cold |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -62,4 +62,4 @@ The song "Right Place, Wrong Time" became the biggest hit from the LP, reaching 
 | Label          | ATCO Records |
 | Catalog Number | 0349791111 |
 | Notes | Reissue on 180g vinyl with tri-fold cover (3 pages to view), with disc inserted into external pocket opening in left-hand spine,  like the original 1973 cover. |
-| Discogs URL    | [Dr John - In The Right Place](https://www.discogs.com/release/6772705-Dr-John-In-The-Right-Place) |
+| Discogs URL    | [Dr. John - In The Right Place](https://www.discogs.com/release/6772705-Dr-John-In-The-Right-Place) |

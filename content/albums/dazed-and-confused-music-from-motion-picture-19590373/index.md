@@ -28,20 +28,20 @@ styles: ["Classic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Rock And Roll, Hoochie Koo |
-| A2 | Slow Ride |
-| A3 | School's Out |
-| A4 | Jim Dandy |
-| A5 | Tush |
-| B1 | Love Hurts |
-| B2 | Stranglehold |
-| B3 | Cherry Bomb |
-| C1 | Fox On The Run |
-| C2 | Low Rider |
-| C3 | Tuesday’s Gone |
-| D1 | Highway Star |
-| D2 | Rock And Roll All Night |
-| D3 | Paranoid |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

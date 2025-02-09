@@ -36,17 +36,17 @@ And in a moment when the optimism of the ’60s was dissipating into the realiti
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Tell Me Why |
-| A2 | After The Gold Rush |
-| A3 | Only Love Can Break Your Heart |
-| A4 | Southern Man |
-| A5 | Till The Morning Comes |
-| B1 | Oh, Lonesome Me |
-| B2 | Don't Let It Bring You Down |
-| B3 | Birds |
-| B4 | When You Dance, I Can Really Love |
-| B5 | I Believe In You |
-| B6 | Cripple Creek Ferry |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

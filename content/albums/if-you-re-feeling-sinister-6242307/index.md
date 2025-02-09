@@ -1,6 +1,6 @@
 ---
-title: "Belle  Sebastian - If You're Feeling Sinister"
-artist_name: "Belle  Sebastian"
+title: "Belle & Sebastian - If You're Feeling Sinister"
+artist_name: "Belle & Sebastian"
 artist: "belle-sebastian"
 album_name: "If You're Feeling Sinister"
 date: 2017-04-25T08:35:04.000000Z
@@ -10,8 +10,8 @@ slug: "if-you-re-feeling-sinister-6242307"
 hideSummary: true
 cover:
     image: "if-you-re-feeling-sinister-6242307.jpg"
-    alt: "If You're Feeling Sinister by Belle  Sebastian"
-    caption: "If You're Feeling Sinister by Belle  Sebastian"
+    alt: "If You're Feeling Sinister by Belle & Sebastian"
+    caption: "If You're Feeling Sinister by Belle & Sebastian"
 additional_images:
     - "https://i.discogs.com/wyhRMI31sHbinHf81eTZroC2xl-CrwMgEFzw-_n-kzw/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIz/MDctMTQyMDQ5MTg0/Ny0yNjcxLmpwZWc.jpeg"
     - "https://i.discogs.com/8Fwqzty4v0d5r-gb9t-NThPk2YeUND-pJjD8gkwPKcE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDIz/MDctMTYxOTk4NjU0/My0zMzc5LmpwZWc.jpeg"
@@ -35,16 +35,16 @@ With intimate storytelling, intricate orchestration, and catchy melodies, <i>If 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Stars Of Track And Field |
-| A2 | Seeing Other People |
-| A3 | Me And The Major |
-| A4 | Like Dylan In The Movies |
-| A5 | The Fox In The Snow |
-| B1 | Get Me Away From Here, I'm Dying |
-| B2 | If You're Feeling Sinister |
-| B3 | Mayfly |
-| B4 | The Boy Done Wrong Again |
-| B5 | Judy And The Dream Of Horses |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ With intimate storytelling, intricate orchestration, and catchy melodies, <i>If 
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP001 |
 | Notes | Gatefold sleeve  Reissue with an alternative code etched into the matrix. Made in EU. Includes free download of entire album. Includes a PVC protective outer sleeve. Includes obi. |
-| Discogs URL    | [Belle  Sebastian - If You're Feeling Sinister](https://www.discogs.com/release/6242307-Belle-And-Sebastian-If-Youre-Feeling-Sinister) |
+| Discogs URL    | [Belle & Sebastian - If You're Feeling Sinister](https://www.discogs.com/release/6242307-Belle-And-Sebastian-If-Youre-Feeling-Sinister) |

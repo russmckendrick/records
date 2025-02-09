@@ -31,18 +31,18 @@ Tubeway Army is the debut studio album by the English new wave band Tubeway Army
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Listen To The Sirens |
-| A2 | My Shadow In Vain |
-| A3 | The Life Machine |
-| A4 | Friends |
-| A5 | Something's In The House |
-| A6 | Everyday I Die |
-| B1 | Steel And You |
-| B2 | My Love Is A Liquid |
-| B3 | Are You Real? |
-| B4 | The Dream Police |
-| B5 | Jo The Waiter |
-| B6 | Zero Bars (Mr. Smith) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

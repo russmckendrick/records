@@ -42,25 +42,25 @@ styles: ["Rock & Roll", "Southern Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Twice As Hard |
-| A2 | Jealous Again |
-| A3 | Sister Luck |
-| A4 | Could I've Been So Blind |
-| A5 | Seeing Things |
-| B1 | Hard To Handle |
-| B2 | Thick N Thin |
-| B3 | She Talks To Angels |
-| B4 | Struttin Blues |
-| B5 | Stare It Cold |
-| C1 | No Speak No Slave |
-| C2 | Papa Was A Rolling Stone |
-| C3 | Soul Singing |
-| C4 | Wiser Time |
-| D1 | Thorn in My Pride |
-| D2 | Sting Me |
-| D3 | Remedy |
-| A | It's Only Rock 'N' Roll |
-| B | Rock & Roll |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

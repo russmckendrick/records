@@ -32,18 +32,18 @@ Hup is the second album by English alternative rock band the Wonder Stuff, relea
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | 30 Years In The Bathroom |
-| A2 | Radio Ass Kiss |
-| A3 | Golden Green |
-| A4 | Let's Be Other People |
-| A5 | Piece Of Sky |
-| A6 | Can't Shape Up |
-| B1 | Don't Let Me Down, Gently |
-| B2 | Cartoon Boyfriend |
-| B3 | Good Night Though |
-| B4 | Unfaithful |
-| B5 | Them, Big Oak Trees |
-| B6 | Room 410 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

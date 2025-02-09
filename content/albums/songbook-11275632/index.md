@@ -30,35 +30,35 @@ A decade after releasing his first solo album, Frank Turner gathers his favourit
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Four Simple Words |
-| A2 | I Still Believe |
-| A3 | The Next Storm |
-| A4 | Recovery |
-| A5 | The Road |
-| B1 | Long Live the Queen |
-| B2 | Glorious You |
-| B3 | Plain Sailing Weather |
-| B4 | I Knew Prufrock Before He Got Famous |
-| B5 | Wessex Boy |
-| C1 | The Opening Act of Spring |
-| C2 | Polaroid Picture |
-| C3 | Mittens |
-| C4 | If Ever I Stray |
-| D1 | The Way I Tend To Be |
-| D2 | The Ballad of Me and My Friends |
-| D3 | Photosynthesis |
-| D4 | Get Better |
-| D5 | There She Is |
-| E1 | Photosynthesis |
-| E2 | The Way I Tend To Be |
-| E3 | Glorious You |
-| E4 | Josephine |
-| E5 | Polaroid Picture |
-| F1 | Love 40 Down |
-| F2 | I Am Disappeared |
-| F3 | Broken Piano |
-| F4 | Long Live The Queen |
-| F5 | The Ballad Of Me And My Friends |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -29,8 +29,8 @@ styles: ["Synth-pop", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | Karmadrome |
-| AA | Eat Me Drink Me Love Me Kill Me |
+|  |  |
+|  |  |
 
 
 ## Apple Music

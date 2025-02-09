@@ -1,6 +1,6 @@
 ---
-title: "Sam  Dave - Soul Men"
-artist_name: "Sam  Dave"
+title: "Sam & Dave - Soul Men"
+artist_name: "Sam & Dave"
 artist: "sam-dave"
 album_name: "Soul Men"
 date: 2018-01-26T20:02:15.000000Z
@@ -10,8 +10,8 @@ slug: "soul-men-10527579"
 hideSummary: true
 cover:
     image: "soul-men-10527579.jpg"
-    alt: "Soul Men by Sam  Dave"
-    caption: "Soul Men by Sam  Dave"
+    alt: "Soul Men by Sam & Dave"
+    caption: "Soul Men by Sam & Dave"
 additional_images:
     - "https://i.discogs.com/VHrxixqZx_5BG60iQu9lcOEKUgFW-EIe3qB6Nbjdauc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI3/NTc5LTE2NjUzMTEz/MDAtMTY1MS5qcGVn.jpeg"
     - "https://i.discogs.com/bjHGpPWn36PEtDqo43Ui01J36tYez68rEIfQrkK0m9E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI3/NTc5LTE1MDA0OTgw/NjgtOTU1Ni5wbmc.jpeg"
@@ -36,17 +36,17 @@ Critical reviews were mixed, and Soul Men was not a financial success.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Soul Man |
-| A2 | May I Baby |
-| A3 | Broke Down Piece Of Man |
-| A4 | Let It Be Me |
-| A5 | Hold It Baby |
-| A6 | I'm With You |
-| B1 | Don't Knock It |
-| B2 | Just Keep Holding On |
-| B3 | The Good Runs The Bad Way |
-| B4 | Rich Kind Of Poverty |
-| B5 | I've Seen What Loneliness Can Do |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -65,4 +65,4 @@ Critical reviews were mixed, and Soul Men was not a financial success.
 | Label          | Stax |
 | Catalog Number | 081227940577 |
 | Notes | Originally released on Stax in 1967. Manufactured in E.U. STAX 60 (60th Anniversary) sticker.  Runouts are etched except 19193 1A MASTERED BY CAPITOL 19193 1B are stamped. |
-| Discogs URL    | [Sam  Dave - Soul Men](https://www.discogs.com/release/10527579-Sam-Dave-Soul-Men) |
+| Discogs URL    | [Sam & Dave - Soul Men](https://www.discogs.com/release/10527579-Sam-Dave-Soul-Men) |

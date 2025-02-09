@@ -44,20 +44,20 @@ A documentary film, titled A Skin, A Night, was released the following year. Foc
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Fake Empire |
-| A2 | Mistaken For Strangers |
-| A3 | Brainy |
-| A4 | Squalor Victoria |
-| A5 | Green Gloves |
-| A6 | Slow Show |
-| B1 | Apartment Story |
-| B2 | Start A War |
-| B3 | Guest Room |
-| B4 | Racing Like A Pro |
-| B5 | Ada |
-| B6 | Gospel |
-| C | The System Only Dreams In Total Darkness |
-| D | Guilty Party |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

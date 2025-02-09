@@ -32,10 +32,10 @@ styles: ["House", "Gospel", "Downtempo", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Movin' On Up |
-| A2 | Stone My Soul |
-| A3 | Carry Me Home |
-| B | Screamadelica |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

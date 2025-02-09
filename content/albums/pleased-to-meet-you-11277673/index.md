@@ -39,19 +39,19 @@ The front cover features a composite image of all the band members' faces. Pleas
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Space |
-| A2 | Falling Down |
-| A3 | English Beefcake |
-| B1 | Junkie |
-| B2 | Pleased To Meet You |
-| B3 | The Shining |
-| C1 | Senorita |
-| C2 | Gaudi |
-| C3 | What Is It Good For |
-| D1 | Give It Away |
-| D2 | Fine |
-| D3 | Getting Away With It (All Messed Up) |
-| D4 | Alaskan Pipeline |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

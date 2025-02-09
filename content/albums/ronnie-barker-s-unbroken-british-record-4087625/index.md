@@ -29,16 +29,16 @@ styles: ["Comedy", "Spoken Word", "Country", "Folk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | The Irish Medley: |
-| A2 | Plain Speaking |
-| A3 | The Redskins Annual Dinner |
-| A4 | The Vicar Of St Cain & Abel |
-|  | The Chelsea Pensioners Medley: |
-|  | The Scottish Medley: |
-| B2 | They Tell Me There's A Lot Of It About |
-| B3 | Not Round Here |
-| B4 | Pismonunciation |
-|  | The Welsh Medley: |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

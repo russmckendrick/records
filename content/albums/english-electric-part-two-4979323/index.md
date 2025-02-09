@@ -29,17 +29,17 @@ English Electric Part Two is the eighth studio album by the English progressive 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Make Some Noise |
-| A2 | Worked Out |
-| A3 | Keeper Of Abbeys |
-| B1 | Swan Hunter |
-| B2 | Seen Better Days |
-| B3 | Edgelands |
-| B4 | The Lovers |
-| C1 | Leopards |
-| C2 | East Coast Racer |
-| D1 | The Permanent Way |
-| D2 | Curator Of Butterflies |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

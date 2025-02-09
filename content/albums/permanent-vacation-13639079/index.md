@@ -40,18 +40,18 @@ In the UK, it was the first Aerosmith album to attain both Silver (60,000 units 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Heart's Done Time |
-| A2 | Magic Touch |
-| A3 | Rag Doll |
-| A4 | Simoriah |
-| A5 | Dude (Looks Like A Lady) |
-| A6 | St. John |
-| B1 | Hangman Jury |
-| B2 | Girl Keeps Coming Apart |
-| B3 | Angel |
-| B4 | Permanent Vacation |
-| B5 | I'm Down |
-| B6 | The Movie |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

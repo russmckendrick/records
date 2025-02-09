@@ -52,18 +52,18 @@ Monolithic Baby! charted in seven countries and peaked at #7 in Sweden and #13 i
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Slut Machine |
-| A2 | Supercruel |
-| A3 | On The Verge |
-| B1 | Unbroken (Hotel Baby) |
-| B2 | Radiation Day |
-| B3 | Monolithic |
-| C1 | The Right Stuff |
-| C2 | There's No Way Out Of Here |
-| C3 | Master Of Light |
-| D1 | Too Bad |
-| D2 | Ultimate Everything |
-| D3 | CNN War Theme |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

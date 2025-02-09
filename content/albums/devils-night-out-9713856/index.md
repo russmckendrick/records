@@ -34,16 +34,16 @@ Devil's Night Out is the debut studio album by the Mighty Mighty Bosstones. It w
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Devil's Night Out |
-| A2 | Howwhywuz, Howwhyyam |
-| A3 | Drunks And Children |
-| A4 | Hope I Never Lose My Wallet |
-| A5 | Haji |
-| B1 | The Bartender's Song |
-| B2 | Patricia |
-| B3 | The Cave ('Cognito Fiesta Version) |
-| B4 | Do Something Crazy |
-| B5 | A Little Bit Ugly |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

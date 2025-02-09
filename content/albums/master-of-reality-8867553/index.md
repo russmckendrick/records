@@ -38,14 +38,14 @@ Master of Reality peaked at number five on the UK Albums Chart and number eight 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Sweet Leaf |
-| A2 | After Forever (Including The Elegy) |
-| A3 | Embryo |
-| A4 | Children Of The Grave |
-| B1 | Orchid |
-| B2 | Lord Of This World |
-| B3 | Solitude |
-| B4 | Into The Void |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

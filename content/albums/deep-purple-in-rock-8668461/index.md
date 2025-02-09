@@ -48,13 +48,13 @@ In Rock was the band's breakthrough album in Europe and peaked at No. 4 in the U
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Speed King |
-| A2 | Bloodsucker |
-| A3 | Child In Time |
-| B1 | Flight Of The Rat |
-| B2 | Into The Fire |
-| B3 | Living Wreck |
-| B4 | Hard Lovin' Man |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -28,13 +28,13 @@ styles: ["Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Taxonomy of Illusions |
-| A2 | First Light Of Dawn |
-| A3 | Spirit |
-| B1 | Dystopia |
-| B2 | Reawake |
-| B3 | Immortal Elements |
-| B4 | Autonomous |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

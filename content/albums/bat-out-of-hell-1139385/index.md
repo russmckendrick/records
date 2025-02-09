@@ -36,16 +36,16 @@ A musical based on Bat Out of Hell, staged by Jay Scheib, opened at the Manchest
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Bat Out Of Hell |
-| A2 | You Took The Words Right Out Of My Mouth (Hot Summer Night) |
-| A3 | Heaven Can Wait |
-| A4 | All Revved Up With No Place To Go |
-| B1 | Two Out Of Three Ain't Bad |
-| B2 | Paradise By The Dashboard Light |
-| B2i | Paradise |
-| B2ii | Let Me Sleep On It |
-| B2iii | Praying For The End Of Time |
-| B3 | For Crying Out Loud |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

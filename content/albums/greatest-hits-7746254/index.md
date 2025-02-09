@@ -31,22 +31,22 @@ The Kinks Greatest Hits! (also spelled The Kinks' Greatest Hits!) is a compilati
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | You Really Got Me |
-| A2 | Tired Of Waiting For You |
-| A3 | Set Me Free |
-| A4 | Till The End Of The Day |
-| A5 | Sunny Afternoon |
-| A6 | Days |
-| A7 | Autumn Almanac |
-| A8 | Lola |
-| B1 | A Well Respected Man |
-| B2 | Dead End Street |
-| B3 | Dedicated Follower Of Fashion |
-| B4 | Dandy |
-| B5 | Mr. Pleasant |
-| B6 | Waterloo Sunset |
-| B7 | Death Of A Clown |
-| B8 | Wonder Boy |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -40,19 +40,19 @@ The album received largely positive reviews upon its release, although there was
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Life And Death Of Mr. Badmouth |
-| A2 | Shame |
-| A3 | Who The Fuck? |
-| A4 | The Pocket Knife |
-| A5 | The Letter |
-| B1 | The Slow Drug |
-| B2 | No Child Of Mine |
-| B3 | Cat On The Wall |
-| B4 | You Come Through |
-| B5 | It's You |
-| B6 | The End |
-| B7 | The Desperate Kingdom Of Love |
-| B8 | The Darker Days Of Me And Him |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

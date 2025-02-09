@@ -1,6 +1,6 @@
 ---
-title: "Matt Berry - Television Themes"
-artist_name: "Matt Berry"
+title: "Matt Berry (3) - Television Themes"
+artist_name: "Matt Berry (3)"
 artist: "matt-berry"
 album_name: "Television Themes"
 date: 2018-10-01T17:55:52.000000Z
@@ -10,8 +10,8 @@ slug: "television-themes-12601366"
 hideSummary: true
 cover:
     image: "television-themes-12601366.jpg"
-    alt: "Television Themes by Matt Berry"
-    caption: "Television Themes by Matt Berry"
+    alt: "Television Themes by Matt Berry (3)"
+    caption: "Television Themes by Matt Berry (3)"
 additional_images:
     - "https://i.discogs.com/1JLhUGTl5urVUXXiVT0TP1EuVxIYcY5yRao_IrJjdj4/rs:fit/g:sm/q:90/h:534/w:535/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjAx/MzY2LTE1NDM1MDIy/NjUtMzEyNS5qcGVn.jpeg"
     - "https://i.discogs.com/2yNjybAHz4_pTO_LVUwkIaPGSZdXNVan7CI0jhP3t8w/rs:fit/g:sm/q:90/h:561/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjAx/MzY2LTE1MzgzODgx/MzUtMjUxMS5qcGVn.jpeg"
@@ -30,20 +30,20 @@ Television Themes is the seventh studio album by English comedian and musician M
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Are You Being Served |
-| A2 | The Good Life |
-| A3 | London Weekend Television |
-| A4 | Blankety Blank |
-| A5 | Top Of The Pops |
-| A6 | Picture Box |
-| A7 | The Liver Birds |
-| B1 | Thames Television |
-| B2 | Rainbow |
-| B3 | Doctor Who |
-| B4 | Wildtrak |
-| B5 | World In Action |
-| B6 | Sorry |
-| B7 | Open University |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -62,4 +62,4 @@ Television Themes is the seventh studio album by English comedian and musician M
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP450 |
 | Notes | "Halloween" orange vinyl.  Sleeve signed by Matt Berry.  Front cover states Matt Berry, rear cover Matt Berry and the Maypoles, labels Matt Berry and the Maypoles. |
-| Discogs URL    | [Matt Berry - Television Themes](https://www.discogs.com/release/12601366-Matt-Berry-3-Television-Themes) |
+| Discogs URL    | [Matt Berry (3) - Television Themes](https://www.discogs.com/release/12601366-Matt-Berry-3-Television-Themes) |

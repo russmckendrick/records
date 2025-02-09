@@ -39,28 +39,28 @@ Belinda is the debut studio album by American singer Belinda Carlisle. It was re
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Mad About You |
-| A2 | I Need A Disguise |
-| A3 | Since You've Gone |
-| A4 | I Feel The Magic |
-| A5 | I Never Wanted A Rich Man |
-| B1 | Band Of Gold |
-| B2 | Gotta Get To You |
-| B3 | From The Heart |
-| B4 | Shot In The Dark |
-| B5 | Stuff And Nonsense |
-|  | Bonus Tracks |
-| C1 | Band Of Gold (Single Mix) |
-| C2 | Dancing In The City |
-| C3 | Mad About You (Extended Version) |
-| C4 | Band Of Gold (Extended Mix) |
-| C5 | Band Of Gold (Dub Mix) |
-|  | Live In Concert |
-| D1 | Shot In The Dark |
-| D2 | Lust To Love |
-| D3 | Mad About You |
-| D4 | Since You're Gone |
-| D5 | Head Over Heels |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

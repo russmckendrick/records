@@ -53,33 +53,33 @@ styles: ["Psychedelic Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Shine On You Crazy Diamond |
-| A2 | Astronomy Domine |
-| A3 | What Do You Want From Me |
-| B1 | Learning To Fly |
-| B2 | Keep Talking |
-| B3 | Coming Back To Life |
-| C1 | Hey You |
-| C2 | A Great Day For Freedom |
-| C3 | Sorrow |
-| D1 | High Hopes |
-| D2 | Another Brick In The Wall (Part Two) |
-| D3 | One Of These Days |
-|  | The Dark Side Of The Moon Live |
-| E1 | Speak To Me |
-| E2 | Breathe |
-| E3 | On The Run |
-| E4 | Time |
-| F1 | The Great Gig In The Sky |
-| F2 | Money |
-| G1 | Us And Them |
-| G2 | Any Colour You Like |
-| G3 | Brain Damage |
-| G4 | Eclipse |
-|  | Encores |
-| H1 | Wish You Were Here |
-| H2 | Comfortably Numb |
-| H3 | Run Like Hell |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

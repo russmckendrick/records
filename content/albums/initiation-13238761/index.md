@@ -33,13 +33,13 @@ Initiation is the sixth album by American musician Todd Rundgren, released May 2
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Real Man |
-| A2 | Born To Synthesize |
-| A3 | The Death Of Rock And Roll |
-| A4 | Eastern Intrigue |
-| A5 | Initiation |
-| A6 | Fair Warning |
-|  | A Treatise On Cosmic Fire |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

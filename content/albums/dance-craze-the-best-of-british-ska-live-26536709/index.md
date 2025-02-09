@@ -40,50 +40,50 @@ styles: ["Ska", "Soundtrack"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Film Soundtrack |
-| A1 | Nite Klub |
-| A2 | The Prince |
-| A3 | Ne-Ne-Na-Na-Na-Na-Nu-Nu |
-| A4 | 007 (Shanty Town) |
-| A5 | Three Minute Hero |
-| A6 | Ranking Full Stop |
-| A7 | Big Shot |
-| B1 | Concrete Jungle |
-| B2 | Swan Lake |
-| B3 | Razor Blade Alley |
-| B4 | Missing Words |
-| B5 | Let's Do Rock Steady |
-| B6 | Lip Up Fatty |
-| C1 | Madness |
-| C2 | Too Much Too Young |
-| C3 | On My Radio |
-| C4 | Easy Life |
-| C5 | Rough Rider |
-| C6 | Man At C&A |
-| C7 | Inner London Violence |
-| D1 | Night Boat To Cario |
-| D2 | Twist And Crawl |
-| D3 | Wooly Bully |
-| D4 | Too Much Pressure |
-| D5 | Mirror In The Bathroom |
-| D6 | One Step Beyond |
-| D7 | Nite Klub (Reprise) |
-|  | Original 1981 Soundtrack Album |
-| E1 | Concrete Jungle |
-| E2 | Mirror In The Bathroom |
-| E3 | Lip Up Fatty |
-| E4 | Razor Blade Alley |
-| E5 | Three Minute Hero |
-| E6 | Easy Life |
-| E7 | Big Shot |
-| E8 | One Step Beyond |
-| F1 | Ranking Full Stop |
-| F2 | Man At C&A |
-| F3 | Missing Words |
-| F4 | Inner London Violence |
-| F5 | Night Boat To Cairo |
-| F6 | Too Much Pressure |
-| F7 | Nite Klub |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

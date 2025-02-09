@@ -36,16 +36,16 @@ Virgin Records were concerned by the album's lack of potential singles, and urge
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Beating Of Hearts |
-| A2 | Wonderland |
-| A3 | Love On A Farmboy's Wages |
-| A4 | Great Fire |
-| A5 | Deliver Us From The Elements |
-| B1 | Human Alchemy |
-| B2 | Ladybird |
-| B3 | In Loving Memory Of A Name |
-| B4 | Me And The Wind |
-| B5 | Funk Pop A Roll |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

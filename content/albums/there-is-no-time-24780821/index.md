@@ -31,14 +31,14 @@ styles: ["Psychedelic Rock", "Hard Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Seven Rays Of Colour |
-| A2 | Pleading With The Cosmic Mother |
-| A3 | One More Step |
-| A4 | Valleys And Hills Part I - Peel Away The Layers |
-| B1 | Valleys And Hills Part II - Pure Illumination |
-| B2 | Now's The Time |
-| B3 | Last Words Of A Dying God |
-| B4 | We Lost It Somewhere |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

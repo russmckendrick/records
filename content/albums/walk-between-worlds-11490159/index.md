@@ -31,17 +31,17 @@ Walk Between Worlds is the eighteenth studio album by Scottish rock band Simple 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Magic |
-| A2 | Summer |
-| A3 | Utopia |
-| A4 | The Signal And The Noise |
-| B1 | In Dreams |
-| B2 | Barrowland Star |
-| B3 | Walk Between Worlds |
-| B4 | Sense Of Discovery |
-| C1 |  Silent Kiss |
-| C2 | Angel Underneath My Skin |
-| C3 | Dirty Old Town (Live) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

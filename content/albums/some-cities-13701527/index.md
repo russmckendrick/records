@@ -36,17 +36,17 @@ The album features the band's second-highest charting single, "Black and White T
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Some Cities |
-| A2 | Black And White Town |
-| A3 | Almost Forgot Myself |
-| B1 | Snowden |
-| B2 | The Storm |
-| B3 | Walk In Fire |
-| C1 | One Of These Days |
-| C2 | Someday Soon |
-| C3 | Shadows Of Salford |
-| D1 | Sky Starts Falling |
-| D2 | Ambition |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

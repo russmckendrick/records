@@ -40,17 +40,17 @@ Five singles were released from the album, initially to little success. The firs
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Lost Myself |
-| A2 | She Said |
-| A3 | Far |
-| A4 | On And On |
-| A5 | Happy Again |
-| A6 | All Hype |
-| B1 | Sally Dances |
-| B2 | Jesus Christ |
-| B3 | Dozen Wicked Words |
-| B4 | Elvis |
-| B5 | Over Our Bodies |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

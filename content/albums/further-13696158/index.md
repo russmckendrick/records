@@ -39,17 +39,17 @@ Further is the ninth studio album by English singer-songwriter Richard Hawley. I
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Off My Mind |
-| A2 | Alone |
-| A3 | My Little Treasures |
-| A4 | Further |
-| A5 | Emilina Says |
-| B1 | Is There A Pill? |
-| B2 | Galley Girl |
-| B3 | Not Lonely |
-| B4 | Time Is |
-| B5 | Midnight Train |
-| B6 | Doors |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

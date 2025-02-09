@@ -38,21 +38,21 @@ When God Was Great is the eleventh and final studio album by the Boston ska punk
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Decide |
-| A2 | M O V E |
-| A3 | I Don't Believe In Anything |
-| A4 | Certain Things |
-| B1 | Bruised |
-| B2 | Lonely Boy |
-| B3 | The Killing Of Georgie (Part III) |
-| B4 | You Had To Be There |
-| B5 | When God Was Great |
-| C1 | What It Takes |
-| C2 | Long As I Can See The Light |
-| C3 | The Truth Hurts |
-| C4 | It Went Well |
-| C5 | I Don't Want To Be You |
-| D1 | The Final Parade |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

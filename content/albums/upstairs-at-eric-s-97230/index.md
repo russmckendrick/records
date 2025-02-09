@@ -35,17 +35,17 @@ Against the group's wishes, "Situation", originally the B-side of "Only You" in 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Don't Go |
-| A2 | Too Pieces |
-| A3 | Bad Connection |
-| A4 | I Before E Except After C |
-| A5 | Midnight |
-| A6 | In My Room |
-| B1 | Only You |
-| B2 | Goodbye 70's |
-| B3 | Tuesday |
-| B4 | Winter Kills |
-| B5 | Bring Your Love Down (Didn't I) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

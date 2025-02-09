@@ -42,22 +42,22 @@ Pharcyde cut a stark figure in the gangsta-rap-dominated ’90s: The members mig
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | 4 Better Or 4 Worse (Interlude) |
-| A2 | Oh Shit |
-| A3 | It's Jiggaboo Time (Skit) |
-| A4 | 4 Better Or 4 Worse |
-| B1 | I'm That Type Of Nigga |
-| B2 | If I Were President (Skit) |
-| B3 | Soul Flower (Remix) |
-| B4 | On The DL |
-| C1 | Pack The Pipe (Interlude) |
-| C2 | Officer |
-| C3 | Ya Mama |
-| C4 | Passing Me By |
-| D1 | Otha Fish |
-| D2 | Quinton's On The Way (Skit) |
-| D3 | Pack The Pipe |
-| D4 | Return Of The B-Boy |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

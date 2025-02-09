@@ -34,18 +34,18 @@ Sonically, <I>Different Class</I> was equally refined. Although other Britpop st
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Mis-Shapes |
-| A2 | Pencil Skirt |
-| A3 | Common People |
-| A4 | I Spy |
-| A5 | Disco 2000 |
-| A6 | Live Bed Show |
-| B1 | Something Changed |
-| B2 | Sorted For E's & Wizz |
-| B3 | F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E |
-| B4 | Underwear |
-| B5 | Monday Morning |
-| B6 | Bar Italia |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

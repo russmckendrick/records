@@ -1,6 +1,6 @@
 ---
-title: "Echo  The Bunnymen - The Stars, The Oceans & The Moon"
-artist_name: "Echo  The Bunnymen"
+title: "Echo & The Bunnymen - The Stars, The Oceans & The Moon"
+artist_name: "Echo & The Bunnymen"
 artist: "echo-the-bunnymen"
 album_name: "The Stars, The Oceans & The Moon"
 date: 2018-10-06T09:07:23.000000Z
@@ -10,8 +10,8 @@ slug: "the-stars-the-oceans-the-moon-12607039"
 hideSummary: true
 cover:
     image: "the-stars-the-oceans-the-moon-12607039.jpg"
-    alt: "The Stars, The Oceans & The Moon by Echo  The Bunnymen"
-    caption: "The Stars, The Oceans & The Moon by Echo  The Bunnymen"
+    alt: "The Stars, The Oceans & The Moon by Echo & The Bunnymen"
+    caption: "The Stars, The Oceans & The Moon by Echo & The Bunnymen"
 additional_images:
     - "https://i.discogs.com/v8umtewmbe11ykCvN3y3YE5jxXtBGGYOT918kJI7_g8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA3/MDM5LTE1Mzg3MDg1/NjAtMTMwMC5qcGVn.jpeg"
     - "https://i.discogs.com/XEXvHOIn_P2A37VZmjwfrG70EXzoBe5lpI6kQ9SqhZo/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjA3/MDM5LTE1Mzg3MDg1/NjAtOTIzNi5qcGVn.jpeg"
@@ -40,21 +40,21 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Bring On The Dancing Horses |
-| A2 | Lips Like Sugar |
-| A3 | Nothing Lasts Forever |
-| A4 | The Somnambulist |
-| B1 | Rescue |
-| B2 | Rust |
-| B3 | Angels & Devils |
-| B4 | Bedbugs & Ballyhoo |
-| C1 | Zimbo |
-| C2 | Stars Are Stars |
-| C3 | Seven Seas |
-| C4 | Ocean Rain |
-| D1 | The Cutter |
-| D2 | How Far? |
-| D3 | The Killing Moon |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -72,4 +72,4 @@ styles: []
 | Label          | BMG |
 | Catalog Number | 538355220 |
 | Notes | Gatefold Sleeve. Includes Download Code. |
-| Discogs URL    | [Echo  The Bunnymen - The Stars, The Oceans & The Moon](https://www.discogs.com/release/12607039-Echo-The-Bunnymen-The-StarsOceans-The-Moon) |
+| Discogs URL    | [Echo & The Bunnymen - The Stars, The Oceans & The Moon](https://www.discogs.com/release/12607039-Echo-The-Bunnymen-The-StarsOceans-The-Moon) |

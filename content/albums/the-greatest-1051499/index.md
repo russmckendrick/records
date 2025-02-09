@@ -41,23 +41,23 @@ The compilation was released in a single disc Standard Edition and two disc Limi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | My Star (Album Version) |
-| A2 | Corpses In Their Mouths (Album Version) |
-| A3 | Can't See Me (Bacon & Quarmby Remix) |
-| B1 | Be There |
-| B2 | Love Like A Fountain (Single Version) |
-| B3 | Dolphins Were Monkeys (Single Version) |
-| B4 | Golden Gaze (Single Version) |
-| C1 | F.E.A.R. (Album Version) |
-| C2 | Whispers (Album Version) |
-| C3 | Forever And A Day (The Greatest Version) |
-| C4 | Keep What Ya Got (Album Version) |
-| C5 | Time Is My Everything (Album Version) |
-| D1 | Longsight M13 (Album Version) |
-| D2 | Reign |
-| D3 | Lovebug (The Greatest Version) |
-| D4 | All Ablaze (The Album Version) |
-| D5 | Return Of The Fisherman (The Album Version) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

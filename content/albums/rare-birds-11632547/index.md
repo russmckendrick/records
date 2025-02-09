@@ -40,19 +40,19 @@ Rare Birds is the third studio album by American musician and producer Jonathan 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Trafalgar Square |
-| A2 | Me |
-| A3 | Over The Midnight |
-| B1 | There's A Light |
-| B2 | Sunset Blvd. |
-| B3 | Rare Birds |
-| B4 | 49 Hair Flips |
-| C1 | Miriam Montague |
-| C2 | Loving You |
-| C3 | Living With Myself |
-| D1 | Hard To Get Over |
-| D2 | Hi-Ho The Righteous |
-| D3 | Mulholland Queen |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

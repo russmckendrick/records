@@ -48,36 +48,36 @@ That Springsteen is a masterful storyteller with superhuman command of a small t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Growin' Up (Intro) |
-| A2 | Growin' Up (Song) |
-| A3 | My Hometown (Intro) |
-| A4 | My Hometown (Song) |
-| B1 | My Father's House (Intro) |
-| B2 | My Father's House (Song) |
-| B3 | The Wish (Intro) |
-| B4 | The Wish (Song) |
-| C1 | Thunder Road (Intro) |
-| C2 | Thunder Road (Song) |
-| C3 | The Promised Land (Intro) |
-| C4 | The Promised Land (Song) |
-| D1 | Born In The U.S.A. (Intro) |
-| D2 | Born In The U.S.A. (Song) |
-| D3 | Tenth Avenue Freeze-Out (Intro) |
-| D4 | Tenth Avenue Freeze-Out (Song) |
-| E1 | Tougher Than The Rest (Intro) |
-| E2 | Tougher Than The Rest (Song) |
-| E3 | Brilliant Disguise (Intro) |
-| E4 | Brilliant Disguise (Song) |
-| E5 | Long Time Coming (Intro) |
-| E6 | Long Time Coming (Song) |
-| F1 | The Ghost Of Tom Joad (Intro) |
-| F2 | The Ghost Of Tom Joad (Song) |
-| F3 | The Rising (Song) |
-| G1 | Dancing In The Dark (Intro) |
-| G2 | Dancing In The Dark (Song) |
-| G3 | Land Of Hope And Dreams (Song) |
-| H1 | Born To Run (Intro) |
-| H2 | Born To Run (Song) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -1,6 +1,6 @@
 ---
-title: "Ghost - Infestissumam"
-artist_name: "Ghost"
+title: "Ghost (32) - Infestissumam"
+artist_name: "Ghost (32)"
 artist: "ghost"
 album_name: "Infestissumam"
 date: 2018-09-21T06:10:08.000000Z
@@ -10,8 +10,8 @@ slug: "infestissumam-4529587"
 hideSummary: true
 cover:
     image: "infestissumam-4529587.jpg"
-    alt: "Infestissumam by Ghost"
-    caption: "Infestissumam by Ghost"
+    alt: "Infestissumam by Ghost (32)"
+    caption: "Infestissumam by Ghost (32)"
 additional_images:
     - "https://i.discogs.com/-0m66cXJldgoVWQs7OQo7dctor4lkdVzaPthVqDW6oA/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjk1/ODctMTU1NTgxMTc3/My01MjkxLmpwZWc.jpeg"
     - "https://i.discogs.com/Yj5tG-cuoog1N1ReofWVqBQjlt8v7fSt75GDsohvmQ8/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjk1/ODctMTU1NTgxMTc4/OS0yMDYyLmpwZWc.jpeg"
@@ -35,16 +35,16 @@ Infestissumam (misspelling of a Latin superlative adjective meaning very or most
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Infestissumam |
-| A2 | Per Aspera Ad Inferi |
-| A3 | Secular Haze |
-| A4 | Jigolo Har Megiddo |
-| A5 | Ghuleh / Zombie Queen |
-| B1 | Year Zero |
-| B2 | Body And Blood |
-| B3 | Idolatrine |
-| B4 | Depth Of Satan's Eyes |
-| B5 | Monstrance Clock |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ Infestissumam (misspelling of a Latin superlative adjective meaning very or most
 | Label          | Loma Vista |
 | Catalog Number | 602537343737 |
 | Notes | Gatefold cover.  Made in EU. |
-| Discogs URL    | [Ghost - Infestissumam](https://www.discogs.com/release/4529587-Ghost-BC-Infestissumam) |
+| Discogs URL    | [Ghost (32) - Infestissumam](https://www.discogs.com/release/4529587-Ghost-BC-Infestissumam) |

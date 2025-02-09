@@ -33,13 +33,13 @@ With <i>The Wild, the Innocent & the E Street Shuffle</i>, Springsteen—who’d
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The E Street Shuffle |
-| A2 | 4th Of July, Asbury Park (Sandy) |
-| A3 | Kitty's Back |
-| A4 | Wild Billy's Circus Story |
-| B1 | Incident On 57th Street |
-| B2 | Rosalita (Come Out Tonight) |
-| B3 | New York City Serenade |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

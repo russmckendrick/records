@@ -1,6 +1,6 @@
 ---
-title: "Nick Cave  The Bad Seeds - Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014)"
-artist_name: "Nick Cave  The Bad Seeds"
+title: "Nick Cave & The Bad Seeds - Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014)"
+artist_name: "Nick Cave & The Bad Seeds"
 artist: "nick-cave-the-bad-seeds"
 album_name: "Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014)"
 date: 2017-05-05T17:26:00.000000Z
@@ -10,8 +10,8 @@ slug: "lovely-creatures-the-best-of-nick-cave-and-the-bad-seeds-1984-2014-102421
 hideSummary: true
 cover:
     image: "lovely-creatures-the-best-of-nick-cave-and-the-bad-seeds-1984-2014-10242191.jpg"
-    alt: "Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014) by Nick Cave  The Bad Seeds"
-    caption: "Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014) by Nick Cave  The Bad Seeds"
+    alt: "Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014) by Nick Cave & The Bad Seeds"
+    caption: "Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014) by Nick Cave & The Bad Seeds"
 additional_images:
     - "https://i.discogs.com/iRr1r-dVXBj6_5eTQ-PjECbiqxbeKxkRokKSSXLh1_I/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQy/MTkxLTE0OTM5OTQ0/NDgtMzI0MC5qcGVn.jpeg"
     - "https://i.discogs.com/kVsEvSJkB3blXkeR5SOsYDS4u1z9lKRN-Wo1_yna5Iw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQy/MTkxLTE1NTk4Mzcy/MzctNTUwMC5qcGVn.jpeg"
@@ -37,27 +37,27 @@ styles: ["Alternative Rock", "Post-Punk", "Punk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Loverman (Single Version) |
-| A2 | Tupelo (Single Version) |
-| A3 | Deanna |
-| A4 | From Her To Eternity |
-| B1 | The Weeping Song |
-| B2 | Dig, Lazarus, Dig!!! (Single Version) |
-| B3 | People Ain’t No Good |
-| C1 | Higgs Boson Blues |
-| C2 | Straight To You |
-| C3 | Where The Wild Roses Grow |
-| D1 | Into My Arms |
-| D2 | Love Letter |
-| D3 | Red Right Hand (Single Version) |
-| D4 | The Mercy Seat |
-| E1 | O Children |
-| E2 | The Ship Song (Single Version) |
-| E3 | Stranger Than Kindness |
-| F1 | Jubilee Street (Alternative Video Version) |
-| F2 | Nature Boy (Single Version) |
-| F3 | We No Who U R |
-| F4 | Stagger Lee |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -75,4 +75,4 @@ styles: ["Alternative Rock", "Post-Punk", "Punk"]
 | Label          | Mute |
 | Catalog Number | LPSEEDS15 |
 | Notes | Released in a tri-fold sleeve.  Hype sticker on shrink:  3 LP Set  180g  Heavyweight Vinyl  [url=https://www.discogs.com/Nick-Cave-And-The-Bad-Seeds-Lovely-Creatures-The-Best-Of-Nick-Cave-And-The-Bad-Seeds-1984-2014/release/14434250]Another version[/url] of this release exists, where track F4 'Stagger Lee' is not printed on the sleeve.  |
-| Discogs URL    | [Nick Cave  The Bad Seeds - Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014)](https://www.discogs.com/release/10242191-Nick-Cave-And-The-Bad-Seeds-Lovely-Creatures-The-Best-Of-Nick-Cave-And-The-Bad-Seeds-1984-2014) |
+| Discogs URL    | [Nick Cave & The Bad Seeds - Lovely Creatures (The Best Of Nick Cave And The Bad Seeds) (1984 – 2014)](https://www.discogs.com/release/10242191-Nick-Cave-And-The-Bad-Seeds-Lovely-Creatures-The-Best-Of-Nick-Cave-And-The-Bad-Seeds-1984-2014) |

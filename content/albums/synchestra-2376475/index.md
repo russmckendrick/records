@@ -37,19 +37,19 @@ Synchestra ( sing-KES-trə) is the eighth solo album by Canadian musician Devin 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Let It Roll |
-| A2 | Hypergeek |
-| A3 | Triumph |
-| B4 | Babysong |
-| B5 | Vampolka |
-| B6 | Vampira |
-| B7 | Mental Tan |
-| C8 | Gaia |
-| C9 | Pixillate |
-| C10 | Judgement |
-| D11 | A Simple Lullaby |
-| D12 | Sunset |
-| D13 | Notes From Africa |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

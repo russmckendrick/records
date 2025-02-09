@@ -36,20 +36,20 @@ Some Old Bullshit, also known as Some Old B******t, is a compilation album by th
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Egg Raid On Mojo |
-| A2 | Beastie Boys |
-| A3 | Transit Cop |
-| A4 | Jimi |
-| A5 | Holy Snappers |
-| A6 | Riot Fight |
-| A7 | Ode To... |
-| A8 | Michelle's Farm |
-| A9 | Egg Raid On Mojo |
-| A10 | Transit Cop |
-| B11 | Cooky Puss |
-| B12 | Bonus Batter |
-| B13 | Beastie Revolution |
-| B14 | Cooky Puss (Censored Version) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

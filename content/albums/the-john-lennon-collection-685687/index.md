@@ -34,23 +34,23 @@ The John Lennon Collection is a 1982 posthumous compilation album of music from 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Give Peace A Chance |
-| A2 | Instant Karma! |
-| A3 | Power To The People |
-| A4 | Whatever Gets You Thru The Night |
-| A5 | #9 Dream |
-| A6 | Mind Games |
-| A7 | Love |
-| A8 | Happy Xmas (War Is Over) |
-| B1 | Imagine |
-| B2 | Jealous Guy |
-| B3 | Stand By Me |
-| B4 | (Just Like) Starting Over |
-| B5 | Woman |
-| B6 | I'm Losing You |
-| B7 | Beautiful Boy (Darling Boy) |
-| B8 | Watching The Wheels |
-| B9 | Dear Yoko |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

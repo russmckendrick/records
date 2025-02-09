@@ -53,17 +53,17 @@ Hand. Cannot. Erase. is the fourth solo studio album by English musician Steven 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | First Regret |
-| A2 | 3 Years Older |
-| A3 | Hand Cannot Erase |
-| B4 | Perfect Life |
-| B5 | Routine |
-| C6 | Home Invasion |
-| C7 | Regret #9 |
-| C8 | Transience |
-| D9 | Ancestral |
-| D10 | Happy Returns  |
-| D11 | Ascendant Here On... |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

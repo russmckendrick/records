@@ -45,25 +45,25 @@ Rodrigo y Gabriela ([roˈð̞ɾi.ɣ̞o i ɡaˈβ̞ɾje.la], "Rodrigo and Gabriel
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Tamacun |
-| A2 | Diablo Rojo |
-| A3 | Vikingman |
-| A4 | Satori |
-| A5 | Ixtapa |
-| B1 | Stairway To Heaven |
-| B2 | Orion |
-| B3 | Juan Loco |
-| B4 | PPA |
-|  | Live At The Olympia Theatre |
-| C1 | Tamacun |
-| C2 | Diem |
-| C3 | Satori |
-| C4 | Foc |
-| C5 | Ixtapa |
-| D1 | Orion |
-| D2 | Medley: One/Take 5 |
-| D3 | Mr. Tang |
-| D4 | Diablo Rojo |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

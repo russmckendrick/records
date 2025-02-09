@@ -42,19 +42,19 @@ The plant that appears on the cover is the Agave attenuata, a species of agave s
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Dream On |
-| A2 | Shine |
-| A3 | The Sweetest Condition |
-| B1 | When The Body Speaks |
-| B2 | The Dead Of Night |
-| B3 | Lovetheme |
-| C1 | Freelove |
-| C2 | Comatose |
-| C3 | I Feel Loved |
-| D1 | Breathe |
-| D2 | Easy Tiger |
-| D3 | I Am You |
-| D4 | Goodnight Lovers |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

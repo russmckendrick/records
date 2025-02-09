@@ -31,16 +31,16 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Skin & Bones  |
-| A2 | Here's Where The Story Ends  |
-| A3 | Can't Be Sure  |
-| A4 | I Won  |
-| A5 | Hideous Towns  |
-| B1 | You're Not The Only One I Know  |
-| B2 | A Certain Someone  |
-| B3 | I Kicked A Boy  |
-| B4 | My Finest Hour  |
-| B5 | Joy  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

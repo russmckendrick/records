@@ -33,21 +33,21 @@ styles: ["Alternative Rock", "Soundtrack", "Acoustic", "Indie Rock", "Classic Ro
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | You're Gonna Miss Me |
-| A2 | Everybody's Gonna Be Happy |
-| A3 | I'm Wrong About Everything |
-| A4 | Oh! Sweet Nuthin' |
-| B1 | Always See Your Face |
-| B2 | Most Of The Time |
-| B3 | Fallen For You |
-| B4 | Dry The Rain |
-| C1 | Shipbuilding |
-| C2 | Cold Blooded Old Times |
-| C3 | Let's Get It On |
-| D1 | Lo Boob Oscillator |
-| D2 | Inside Game |
-| D3 | Who Loves The Sun |
-| D4 | I Believe (When I Fall In Love It Will Be Forever) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

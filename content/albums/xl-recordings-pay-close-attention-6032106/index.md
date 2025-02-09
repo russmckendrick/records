@@ -27,50 +27,50 @@ styles: ["Alternative Rock", "Grime", "Hip Hop", "Indie Rock", "UK Garage", "Har
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | DJs Take Control |
-| A2 | Out Of Space |
-| A3 | Don't Go (Kicks Like A Mule Mix) |
-| A4 | Sweet Harmony |
-| B1 | Piper |
-| B2 | Gabriel (Live Garage Version) |
-| B3 | Destiny |
-| C1 | Anytime |
-| C2 | Jump N Shout |
-| C3 | I Luv U |
-| C4 | Igloo |
-| D1 | Hater |
-| D2 | Talkin The Hardest |
-| D3 | Wildfire (Ft. Little Dragon) |
-| D4 | All Under One Roof Raving |
-| E1 | Firestarter |
-| E2 | Fuck The Pain Away |
-| E3 | Seven Nation Army |
-| E4 | I Feel Just Like A Child |
-| E5 | Once Around The Block |
-| F1 | Seventeen Years |
-| F2 | Paper Planes |
-| F3 | The Eraser |
-| F4 | New York Is Killing Me |
-| G1 | Weird Fishes/Arpeggi |
-| G2 | Yonkers |
-| G3 | Sea Within A Sea |
-| G4 | BTSTU (Edit) |
-| H1 | Please Forgive My Heart |
-| H2 | Angels |
-| H3 | Too Much |
-| H4 | Step |
-| H5 | Easy Easy |
-| H6 | Rolling In The Deep |
-| DVD-1 | Firestarter |
-| DVD-2 | Where's Your Head At |
-| DVD-3 | Fell In Love With A Girl |
-| DVD-4 | Fix Up, Look Sharp |
-| DVD-5 | Birdflu |
-| DVD-6 | A-Punk |
-| DVD-7 | Lotus Flower |
-| DVD-8 | I'm New Here |
-| DVD-9 | Yonkers |
-| DVD-10 | Someone Like You |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

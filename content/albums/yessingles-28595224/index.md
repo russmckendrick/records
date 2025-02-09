@@ -35,18 +35,18 @@ Yessingles is a compilation album by British progressive rock band Yes, released
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Your Move |
-| A2 | Starship Trooper: Life Seeker |
-| A3 | Roundabout |
-| A4 | America |
-| A5 | And You And I (Part I) |
-| A6 | Soon |
-| B1 | Sound Chaser |
-| B2 | Wonderous Stories |
-| B3 | Don't Kill The Whale |
-| B4 | Into The Lens |
-| B5 | Owner Of A Lonely Heart |
-| B6 | Leave It (Single Remix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

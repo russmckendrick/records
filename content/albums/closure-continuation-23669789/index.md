@@ -57,15 +57,15 @@ The album debuted at number two on the UK Albums Chart and reached number one in
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | Harridan |
-| B1 | Of The New Day |
-| B2 | Rats Return |
-| C | Dignity |
-| D1 | Never Have |
-| D2 | Herd Culling |
-| E1 | Walk The Plank |
-| E2 | Population Three |
-| F | Chimera's Wreck |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

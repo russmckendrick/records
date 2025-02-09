@@ -47,17 +47,17 @@ The sessions for <i>A Moon Shaped Pool</i> were so fraught, the members hesitate
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Burn The Witch |
-| A2 | Daydreaming |
-| B1 | Decks Dark |
-| B2 | Desert Island Disk |
-| B3 | Ful Stop |
-| C1 | Glass Eyes |
-| C2 | Identikit |
-| C3 | The Numbers |
-| D1 | Present Tense |
-| D2 | Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief |
-| D3 | True Love Waits |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

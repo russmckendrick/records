@@ -32,14 +32,14 @@ The album follows Billy, a mentally and physically disabled man from Wales, forc
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Radio Waves |
-| A2 | Who Needs Information |
-| A3 | Me Or Him |
-| A4 | The Powers That Be |
-| B1 | Sunset Strip |
-| B2 | Home |
-| B3 | Four Minutes |
-| B4 | The Tide Is Turning (After Live Aid) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

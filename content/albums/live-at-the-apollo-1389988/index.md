@@ -1,6 +1,6 @@
 ---
-title: "Daryl Hall  John Oates - Live At The Apollo"
-artist_name: "Daryl Hall  John Oates"
+title: "Daryl Hall & John Oates - Live At The Apollo"
+artist_name: "Daryl Hall & John Oates"
 artist: "daryl-hall-john-oates"
 album_name: "Live At The Apollo"
 date: 2020-08-01T12:45:09.000000Z
@@ -10,8 +10,8 @@ slug: "live-at-the-apollo-1389988"
 hideSummary: true
 cover:
     image: "live-at-the-apollo-1389988.jpg"
-    alt: "Live At The Apollo by Daryl Hall  John Oates"
-    caption: "Live At The Apollo by Daryl Hall  John Oates"
+    alt: "Live At The Apollo by Daryl Hall & John Oates"
+    caption: "Live At The Apollo by Daryl Hall & John Oates"
 additional_images:
     - "https://i.discogs.com/_FgRRAfpkLkavKoZFz8kUlnoPnvKETjrHSHECwN6ric/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk5/ODgtMTMwMDYzOTk0/MC5qcGVn.jpeg"
     - "https://i.discogs.com/jSrTBBOfnp6r-ZE1InFplo-7iYNntVdNQDcX8mTZZXg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODk5/ODgtMTIzNTc1Njg3/MC5qcGVn.jpeg"
@@ -35,15 +35,15 @@ On July 13, 1985, Daryl Hall, John Oates, Eddie Kendricks and David Ruffin appea
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Side 1 |
-|  | Apollo Medley |
-| A2 | When Something Is Wrong With My Baby |
-| A3 | Everytime You Go Away |
-|  | Side A |
-| B1 | I Can't Go For That (No Can Do) |
-| B2 | One On One |
-| B3 | Possession Obsession |
-| B4 | Adult Education |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -62,4 +62,4 @@ On July 13, 1985, Daryl Hall, John Oates, Eddie Kendricks and David Ruffin appea
 | Label          | RCA |
 | Catalog Number | PL87035 |
 | Notes | ℗ 1985 RCA Records (on labels) © 1985 RCA Records (on inner sleeve)  Managements by Champion Entertainment Organization, Inc  Comes with a printed inner sleeves with pictures and credits  On labels Side A is stated as 'Side 1' and Side B as 'Side A'.  Made in Germany. Bass clef on inner ring of B-side label   |
-| Discogs URL    | [Daryl Hall  John Oates - Live At The Apollo](https://www.discogs.com/release/1389988-Daryl-Hall-John-Oates-With-David-Ruffin-Eddie-Kendrick-Live-At-The-Apollo) |
+| Discogs URL    | [Daryl Hall & John Oates - Live At The Apollo](https://www.discogs.com/release/1389988-Daryl-Hall-John-Oates-With-David-Ruffin-Eddie-Kendrick-Live-At-The-Apollo) |

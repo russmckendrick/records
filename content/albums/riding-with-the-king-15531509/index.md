@@ -1,7 +1,7 @@
 ---
-title: "BB King - Riding With The King"
-artist_name: "BB King"
-artist: "bb-king"
+title: "B.B. King - Riding With The King"
+artist_name: "B.B. King"
+artist: "b-b-king"
 album_name: "Riding With The King"
 date: 2020-06-26T11:27:48.000000Z
 release_date: "2000-06-12"
@@ -10,8 +10,8 @@ slug: "riding-with-the-king-15531509"
 hideSummary: true
 cover:
     image: "riding-with-the-king-15531509.jpg"
-    alt: "Riding With The King by BB King"
-    caption: "Riding With The King by BB King"
+    alt: "Riding With The King by B.B. King"
+    caption: "Riding With The King by B.B. King"
 additional_images:
     - "https://i.discogs.com/Bc1HWlfN1PTTL5YYWB8hTP-ubptAiAXD-FHw-Ol_rco/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMx/NTA5LTE1OTMxMTU0/NTEtNzU5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/fL6AUawjftf_pYx_v1d_TzEDg_umvYiaSbI7xx7FREQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMx/NTA5LTE1OTMzODUx/NTYtODE3NC5wbmc.jpeg"
@@ -40,20 +40,20 @@ The album was generally well received by reviewers, although some felt that it c
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Riding With The King |
-| A2 | Ten Long Years |
-| A3 | Key To The Highway |
-| A4 | Marry You |
-| B1 | Three O'Clock Blues |
-| B2 | Help The Poor |
-| B3 | I Wanna Be |
-| C1 | Worried Life Blues |
-| C2 | Days Of Old |
-| C3 | When My Heart Beats Like A Hammer |
-| C4 | Hold On I'm Coming |
-| D1 | Come Rain Or Come Shine |
-| D2 | Rollin' And Tumblin' |
-| D3 | Let Me Love You Baby |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -72,4 +72,4 @@ The album was generally well received by reviewers, although some felt that it c
 | Label          | Reprise Records |
 | Catalog Number | 093624893417 |
 | Notes | 20th Anniversary Expanded Edition. Pressed on 180 Gram blue colored vinyl, featuring the unreleased tracks “Rollin' And Tumblin’” and “Let Me Love You Baby”.  “Rollin' And Tumblin’” songwriting credit is shown as “P.D.”, so unlinked credit used.  Made in the Netherlands |
-| Discogs URL    | [BB King - Riding With The King](https://www.discogs.com/release/15531509-BB-King-Eric-Clapton-Riding-With-The-King) |
+| Discogs URL    | [B.B. King - Riding With The King](https://www.discogs.com/release/15531509-BB-King-Eric-Clapton-Riding-With-The-King) |

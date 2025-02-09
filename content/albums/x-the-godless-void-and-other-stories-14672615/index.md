@@ -1,6 +1,6 @@
 ---
-title: "And You Will Know Us By The Trail Of Dead - X: The Godless Void And Other Stories"
-artist_name: "And You Will Know Us By The Trail Of Dead"
+title: "...And You Will Know Us By The Trail Of Dead - X: The Godless Void And Other Stories"
+artist_name: "...And You Will Know Us By The Trail Of Dead"
 artist: "and-you-will-know-us-by-the-trail-of-dead"
 album_name: "X: The Godless Void And Other Stories"
 date: 2020-01-22T19:06:06.000000Z
@@ -10,8 +10,8 @@ slug: "x-the-godless-void-and-other-stories-14672615"
 hideSummary: true
 cover:
     image: "x-the-godless-void-and-other-stories-14672615.jpg"
-    alt: "X: The Godless Void And Other Stories by And You Will Know Us By The Trail Of Dead"
-    caption: "X: The Godless Void And Other Stories by And You Will Know Us By The Trail Of Dead"
+    alt: "X: The Godless Void And Other Stories by ...And You Will Know Us By The Trail Of Dead"
+    caption: "X: The Godless Void And Other Stories by ...And You Will Know Us By The Trail Of Dead"
 additional_images:
     - "https://i.discogs.com/VFjLCNiLfHfRS8nzLB3vQvXRfUrJWw1u8LIyjhXDZlc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njcy/NjE1LTE1Nzk2NDQ4/MTgtNDE2My5qcGVn.jpeg"
     - "https://i.discogs.com/8AV6MJ63WdrX32cribmxlNQzP9m5ubV30MkU3CrstQ4/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Njcy/NjE1LTE1Nzk2NDQ4/MTgtODA3MC5qcGVn.jpeg"
@@ -34,30 +34,30 @@ Musically, Keely and his bandmates approach their return with a skilful balance 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Opening Crescendo |
-| A2 | All Who Wander |
-| A3 | Something Like This |
-| A4 | Into The Godless Void |
-| A5 | Don't Look Down |
-| A6 | Gone |
-| B1 | Children Of The Sky |
-| B2 | Who Haunts The Haunter |
-| B3 | Eyes Of The Overworld |
-| B4 | Gravity |
-| B5 | Blade Of Wind |
-| B6 | Through The Sunlit Door |
-| CD-1 | The Opening Crescendo |
-| CD-2 | All Who Wander |
-| CD-3 | Something Like This |
-| CD-4 | Into The Godless Void |
-| CD-5 | Don't Look Down |
-| CD-6 | Gone |
-| CD-7 | Children Of The Sky |
-| CD-8 | Who Haunts The Haunter |
-| CD-9 | Eyes Of The Overworld |
-| CD-10 | Gravity |
-| CD-11 | Blade Of Wind |
-| CD-12 | Through The Sunlit Door |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -76,4 +76,4 @@ Musically, Keely and his bandmates approach their return with a skilful balance 
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 533 |
 | Notes | Limited clear vinyl edition. Includes CD of the album (in a PVC wallet) and 4-page LP-sized booklet with drawings and lyrics. 180g vinyl. Made in the EU. |
-| Discogs URL    | [And You Will Know Us By The Trail Of Dead - X: The Godless Void And Other Stories](https://www.discogs.com/release/14672615-And-You-Will-Know-Us-By-The-Trail-Of-Dead-X-The-Godless-Void-And-Other-Stories) |
+| Discogs URL    | [...And You Will Know Us By The Trail Of Dead - X: The Godless Void And Other Stories](https://www.discogs.com/release/14672615-And-You-Will-Know-Us-By-The-Trail-Of-Dead-X-The-Godless-Void-And-Other-Stories) |

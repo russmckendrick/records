@@ -1,6 +1,6 @@
 ---
-title: "Steve Earle  The Dukes And Duchesses - The Low Highway"
-artist_name: "Steve Earle  The Dukes And Duchesses"
+title: "Steve Earle & The Dukes (And Duchesses) - The Low Highway"
+artist_name: "Steve Earle & The Dukes (And Duchesses)"
 artist: "steve-earle-the-dukes-and-duchesses"
 album_name: "The Low Highway"
 date: 2021-11-05T10:37:16.000000Z
@@ -10,8 +10,8 @@ slug: "the-low-highway-4470602"
 hideSummary: true
 cover:
     image: "the-low-highway-4470602.jpg"
-    alt: "The Low Highway by Steve Earle  The Dukes And Duchesses"
-    caption: "The Low Highway by Steve Earle  The Dukes And Duchesses"
+    alt: "The Low Highway by Steve Earle & The Dukes (And Duchesses)"
+    caption: "The Low Highway by Steve Earle & The Dukes (And Duchesses)"
 additional_images:
     - "https://i.discogs.com/Pgik9-L4me9CeZNMJ1BBzz7wtNDhSGw7s5YG84yukzg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzA2/MDItMTUzNTMwMDQ0/OC00MjcxLmpwZWc.jpeg"
     - "https://i.discogs.com/vw8W-EnYZ7jHR1mn10lLEPIv4TT4-KaK-HOivpulH9I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NzA2/MDItMTUzNTMwMDQ0/OC00NTA0LmpwZWc.jpeg"
@@ -33,18 +33,18 @@ The album debuted at No. 12 on Top Country Albums, and No. 39 on Billboard 200, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Low Highway |
-| A2 | Calico County |
-| A3 | Burnin' It Down |
-| A4 | That All You Got?  |
-| A5 | Love's Gonna Blow My Way |
-| A6 | After Mardi Gras |
-| B1 | Pocket Full Of Rain |
-| B2 | Invisible  |
-| B3 | Warren Hellman's Banjo |
-| B4 | Down The Road Part II |
-| B5 | 21st Century Blues |
-| B6 | Remember Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ The album debuted at No. 12 on Top Country Albums, and No. 39 on Billboard 200, 
 | Label          | New West Records |
 | Catalog Number | NW5073 |
 | Notes | 180 gram pressing. Lyrics on inner sleeve   Recorded, mixed and mastered at Ben's Studio and Room and Board - Nashville, Tennessee Additional mastering for vinyl at NRP - Nashville, Tennessee  © & ℗ 2013 New West Records, LLC All songs published by Exile On Jones St. Music (ASCAP) except A5 and A6 published by Exile On Jones St. Music (ASCAP) and Loosh Inc. (BMI) |
-| Discogs URL    | [Steve Earle  The Dukes And Duchesses - The Low Highway](https://www.discogs.com/release/4470602-Steve-Earle-The-Dukes-And-Duchesses-The-Low-Highway) |
+| Discogs URL    | [Steve Earle & The Dukes (And Duchesses) - The Low Highway](https://www.discogs.com/release/4470602-Steve-Earle-The-Dukes-And-Duchesses-The-Low-Highway) |

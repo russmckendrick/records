@@ -35,17 +35,17 @@ The album was a moderate chart success in the UK, peaking at number 16 in the UK
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Dirty Soul |
-| A2 | Speakeasy |
-| A3 | Long Time Dead |
-| A4 | Head And Hands |
-| A5 | Casino Girl |
-| A6 | Missing Out |
-| B1 | Dolphin |
-| B2 | Stars In Your Eyes |
-| B3 | Mark |
-| B4 | Ocean Pie |
-| B5 | On An Island With You |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

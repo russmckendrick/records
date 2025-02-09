@@ -1,6 +1,6 @@
 ---
-title: "Pond - Tasmania"
-artist_name: "Pond"
+title: "Pond (5) - Tasmania"
+artist_name: "Pond (5)"
 artist: "pond"
 album_name: "Tasmania"
 date: 2019-03-04T18:39:14.000000Z
@@ -10,8 +10,8 @@ slug: "tasmania-13285382"
 hideSummary: true
 cover:
     image: "tasmania-13285382.jpg"
-    alt: "Tasmania by Pond"
-    caption: "Tasmania by Pond"
+    alt: "Tasmania by Pond (5)"
+    caption: "Tasmania by Pond (5)"
 additional_images:
     - "https://i.discogs.com/eKW7g1_YPFJ9e-905iLbujdc9quUKIZiog8TrPVC_0w/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/MzgyLTE1NTEzODMz/MTItNDk1NC5qcGVn.jpeg"
     - "https://i.discogs.com/cnOVO6H_16Dn8FyMK19BmYZUeITgw4FSMTKF0r39H6s/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg1/MzgyLTE1NTEzODMz/MDctNjAwOS5qcGVn.jpeg"
@@ -37,16 +37,16 @@ styles: ["Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Daisy |
-| A2 | Sixteen Days |
-| A3 | Tasmania |
-| B1 | The Boys Are Killing Me |
-| B2 | Hand Mouth Danger |
-| B3 | Goodnight, P.C.C. |
-| C1 | Burnt Out Star |
-| C2 | Selene |
-| D1 | Shame |
-| D2 | Doctor's In |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -64,4 +64,4 @@ styles: ["Psychedelic Rock"]
 | Label          | Marathon Artists |
 | Catalog Number | MA0145LPX |
 | Notes | Rough Trade exclusive, limited to 1000 copies on white vinyl. Comes with OBI strip and 'Exclusive White Double Vinyl' hype sticker. |
-| Discogs URL    | [Pond - Tasmania](https://www.discogs.com/release/13285382-Pond-5-Tasmania) |
+| Discogs URL    | [Pond (5) - Tasmania](https://www.discogs.com/release/13285382-Pond-5-Tasmania) |

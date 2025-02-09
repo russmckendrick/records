@@ -44,20 +44,20 @@ The album was finally revamped in digipack through Snapper label in 2004.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Bornlivedieintro |
-| A2 | Signify |
-| A3 | Waiting Phase One |
-| A4 | Waiting Phase Two |
-| B5 | The Sky Moves Sideways |
-| B6 | Dislocated Day |
-| C7 | The Sleep Of No Dreaming |
-| C8 | Moonloop |
-| D9 | Up The Downstair |
-| D10 | The Moon Touches Your Shoulder |
-| D11 | Always Never |
-| E12 | Is...Not |
-| E13 | Radioactive Toy |
-| F14 | Not Beautiful Anymore |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

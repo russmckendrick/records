@@ -39,15 +39,15 @@ In 2021, record label Real Gone Music released the album on limited edition blue
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Fix My Heart |
-| A2 | Moonbeam Rider |
-| A3 | Le Pont Noir |
-| A4 | The Nile Song |
-| A5 | The Lost Machine |
-| A6 | Time Warp |
-| B1 | Jack Luminous |
-| B2 | Wrong-Way Street |
-| B3 | We Are Not Alone |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

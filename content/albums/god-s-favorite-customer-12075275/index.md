@@ -30,16 +30,16 @@ God's Favorite Customer (or Mr Tillman's Wild Ride) is the fourth studio album b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hangout At The Gallows |
-| A2 | Mr. Tillman |
-| A3 | Just Dumb Enough To Try |
-| A4 | Date Night |
-| A5 | Please Don't Die |
-| B1 | The Palace  |
-| B2 | Disappointing Diamonds Are The Rarest Of Them All |
-| B3 | God's Favorite Customer |
-| B4 | The Songwriter |
-| B5 | We're Only People (And There's Not Much Anyone Can Do About That) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

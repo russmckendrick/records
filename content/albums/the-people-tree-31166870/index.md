@@ -28,30 +28,30 @@ The People Tree is an album by British acid jazz group Mother Earth that was rel
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Institution Man |
-| A2 | Jesse |
-| A3 | Stardust Bubblegum |
-| A4 | Mister Freedom |
-| A5 | Dragster |
-| A6 | Find It |
-| B1 | The People Tree |
-| B2 | Apple Green |
-| B3 | Time Of The Future |
-| B4 | Saturation 70 |
-| B5 | Illusions |
-| B6 | A Trip Down Brian Lane |
-| C1 | Jesse (Alternate Master Mix) |
-| C2 | Institution Man (Single Edit) |
-| C3 | Warlocks Of The Mind (Pt. 1) |
-| C4 | Time Of The Future (Alternative EP Mix) |
-| C5 | Find It (Radio Edit) |
-| C6 | Almost Grown (Featuring Paul Weller) |
-| D1 | Apple Green (With Harmony Vocal) |
-| D2 | Illusions (No Horns Mix) |
-| D3 | Take A Trip Down Brian Lane (7-Inch Edit) |
-| D4 | Slide Sweet Baby |
-| D5 | People Tree (No Mellotron Mix) |
-| D6 | Jess (Alt. Brendan Lynch Radio Mix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

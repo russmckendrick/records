@@ -39,14 +39,14 @@ There are more straightforward moments here, especially the piano ache of “Cod
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Bloom |
-| A2 | Morning Mr Magpie |
-| A3 | Little By Little |
-| A4 | Feral |
-| B1 | Lotus Flower |
-| B2 | Codex |
-| B3 | Give Up The Ghost |
-| B4 | Separator |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

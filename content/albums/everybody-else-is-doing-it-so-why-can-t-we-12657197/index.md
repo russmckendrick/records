@@ -35,18 +35,18 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Still Do |
-| A2 | Dreams |
-| A3 | Sunday |
-| A4 | Pretty |
-| A5 | Waltzing Back |
-| A6 | Not Sorry |
-| B1 | Linger |
-| B2 | Wanted |
-| B3 | Still Can't ... |
-| B4 | I Will Always |
-| B5 | How |
-| B6 | Put Me Down |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

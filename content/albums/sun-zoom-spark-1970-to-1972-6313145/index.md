@@ -35,61 +35,61 @@ styles: ["Blues Rock", "Experimental"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Lick My Decals Off, Baby |
-| A1 | Lick My Decals Off, Baby |
-| A2 | Doctor Dark |
-| A3 | I Love You, You Big Dummy |
-| A4 | Peon |
-| A5 | Bellerin' Plain |
-| A6 | Woe-Is-Uh-Me-Bop |
-| A7 | Japan In A Dishpan |
-| B1 | I Wanna Find A Woman That'll Hold My Big Toe Till I Have To Go |
-| B2 | Petrified Forest |
-| B3 | One Red Rose That I Mean |
-| B4 | The Buggy Boogie Woogie |
-| B5 | The Smithsonian Institute Blues (Or The Big Dig) |
-| B6 | Space-Age Couple |
-| B7 | The Clouds Are Full Of Wine (Not Whiskey Or Rye) |
-| B8 | Flash Gordon's Ape |
-|  | The Spotlight Kid |
-| C1 | I'm Gonna Booglarize You Baby |
-| C2 | White Jam |
-| C3 | Blabber 'N Smoke |
-| C4 | When It Blows It Stacks |
-| C5 | Alice In Blunderland |
-| D1 | The Spotlight Kid |
-| D2 | Click Clack |
-| D3 | Grow Fins |
-| D4 | There Ain't No Santa Claus On The Evenin' Stage |
-| D5 | Glider |
-|  | Clear Spot |
-| E1 | Low Yo Yo Stuff |
-| E2 | Nowadays A Woman's Gotta Hit A Man |
-| E3 | Too Much Time |
-| E4 | Circumstances |
-| E5 | My Head Is My Only House Unless It Rains |
-| E6 | Sun Zoom Spark |
-| F1 | Clear Spot |
-| F2 | Crazy Little Thing |
-| F3 | Long Neck Bottles |
-| F4 | Her Eyes Are A Blue Million Miles |
-| F5 | Big Eyed Beans From Venus |
-| F6 | Golden Birdies |
-|  | Out-Takes |
-| G1 | Alice In Blunderland (Alternate Version) |
-| G2 | Harry Irene |
-| G3 | I Can't Do This Unless I Can Do This / Seam Crooked Sam |
-| G4 | Pompadour Swamp / Suction Prints |
-| G5 | The Witch Doctor Life |
-| G6 | Two Rips In A Haystack / Kiss Me My Love |
-| G7 | Best Batch Yet (Track) Version 1 |
-| H1 | Your Love Brought Me To Life (Instrumental) |
-| H2 | Dirty Blue Gene (Alternate Version 1) |
-| H3 | Nowadays A Woman's Gotta Hit A Man (Early Mix) |
-| H4 | Kiss Where I Kain't |
-| H5 | Circumstances (Alternate Version 2) |
-| H6 | Little Scratch |
-| H7 | Dirty Blue Gene (Alternate Version 3) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

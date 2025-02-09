@@ -26,10 +26,10 @@ styles: ["Electro", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Feeling My Heart Run Slow |
-| A2 | No Ideas |
-| B1 | The Silence Is Deafening |
-| B2 | F.M.H.R.S. (The Twilight Sad Mix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

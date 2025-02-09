@@ -42,11 +42,11 @@ Going for the One received a mostly positive response from music critics who wel
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Going For The One |
-| A2 | Turn Of The Century |
-| A3 | Parallels |
-| B1 | Wonderous Stories |
-| B2 | Awaken |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

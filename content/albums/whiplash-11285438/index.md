@@ -33,17 +33,17 @@ Whiplash received generally positive reviews from music critics, some of whom no
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Tomorrow |
-| A2 | Lost A Friend |
-| A3 | Waltzing Along |
-| B1 | She's A Star |
-| B2 | Greenpeace |
-| B3 | Go To The Bank |
-| C1 | Play Dead |
-| C2 | Avalanche |
-| C3 | Homeboy |
-| D1 | Watering Hole |
-| D2 | Blue Pastures |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

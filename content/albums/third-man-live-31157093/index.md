@@ -1,6 +1,6 @@
 ---
-title: "Jack White - Third Man Live"
-artist_name: "Jack White"
+title: "Jack White (2) - Third Man Live"
+artist_name: "Jack White (2)"
 artist: "jack-white"
 album_name: "Third Man Live"
 date: 2024-07-08T04:08:41.000000Z
@@ -10,8 +10,8 @@ slug: "third-man-live-31157093"
 hideSummary: true
 cover:
     image: "third-man-live-31157093.jpg"
-    alt: "Third Man Live by Jack White"
-    caption: "Third Man Live by Jack White"
+    alt: "Third Man Live by Jack White (2)"
+    caption: "Third Man Live by Jack White (2)"
 additional_images:
     - "https://i.discogs.com/WNkYvg2qd71cbB0QPwkjtfwnfa-HSmk6cKgmxttxfAc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTU3/MDkzLTE3MjAzNTE3/NzktNTg2OS5qcGVn.jpeg"
     - "https://i.discogs.com/euv_5ztgc1rl4NyJk85rWlDUDNPS5rEgQYwSu9z4PRY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTU3/MDkzLTE3MjAzNTY4/NjctNDI2MS5qcGVn.jpeg"
@@ -45,42 +45,42 @@ Jack White made his name as a garage rocker, but he’s just as comfortable arou
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Recorded Live At Third Man Records Blue Room Nashville, TN 4-19-2014 |
-| A1 | High Ball Stepper |
-| A2 | Lazaretto |
-| A3 | Power Of My Love |
-| A4 | Dead Leaves And The Dirty Ground |
-| A5 | Freedom At 21 |
-| B1 | Three Women |
-| B2 | Weep Themselves To Sleep |
-| B3 | Love Interruption |
-| B4 | Hello Operator |
-| B5 | Just One Drink |
-| B6 | Hotel Yorba |
-| B7 | Would You Fight For My Love? |
-|  | Recorded Live At Third Man Records Blue Stage Detroit, MI 10-5-2022 |
-| C1 | Introduction |
-| C2 | Toloka |
-| C3 | Waile |
-| C4 | Living In The Past |
-| D1 | Black Tears |
-| D2 | Mashed Potatoe |
-| D3 | Lazy Bones |
-| D4 | Evil Woman |
-|  | Recorded Live At Third Man Records Blue Basement London 10-17-2022 |
-| E1 | Little Fury Things |
-| E2 | Out There |
-| E3 | Does It Float |
-| E4 | Been There All The Time |
-| E5 | Feel The Pain |
-| F1 | Start Choppin |
-| F2 | Freak Scene |
-| F3 | Kracked |
-| F4 | No Bones |
-|  | Live At Third Man Records Blue Room, Nashville September 26th, 2013 |
-| G | The Money Will Roll Right In |
-| H1 | Hate The Police |
-| H2 | Fix Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -98,4 +98,4 @@ Jack White made his name as a garage rocker, but he’s just as comfortable arou
 | Label          | Third Man Records |
 | Catalog Number | TMR-978 |
 | Notes | Runouts are etched.  [A1 to B7]: ℗ & © 2024 Jack White under exclusive license to Third Man Records, LLC  [C1 to D4]: ℗ & © 2024 W.I.T.C.H. (We Intend To Cause Havoc) Limited under exclusive license to Third Man Records, LLC  [E1 to F4]: All songs published by Spam As The Bread, BMG ℗ & © 2024 Dinosaur Jur. under exclusive license to Third Man Records, LLC  [G to H2]: Published by Udderly Good Music, Maim That Tune and Cesstone Music ℗ & © 2024 Third Man Records |
-| Discogs URL    | [Jack White - Third Man Live](https://www.discogs.com/release/31157093-Jack-White-2-Witch-3-Dinosaur-Jr-Mudhoney-Third-Man-Live) |
+| Discogs URL    | [Jack White (2) - Third Man Live](https://www.discogs.com/release/31157093-Jack-White-2-Witch-3-Dinosaur-Jr-Mudhoney-Third-Man-Live) |

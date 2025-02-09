@@ -46,33 +46,33 @@ styles: ["Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Love Me Do |
-| A2 | From Me To You |
-| A3 | She Loves You |
-| A4 | I Want To Hold Your Hand |
-| A5 | Can't Buy Me Love |
-| A6 | A Hard Day's Night |
-| A7 | I Feel Fine |
-| A8 | Eight Days A Week |
-| B1 | Ticket To Ride |
-| B2 | Help! |
-| B3 | Yesterday |
-| B4 | Day Tripper |
-| B5 | We Can Work It Out |
-| B6 | Paperback Writer |
-| B7 | Yellow Submarine |
-| B8 | Eleanor Rigby |
-| C1 | Penny Lane |
-| C2 | All You Need Is Love |
-| C3 | Hello, Goodbye |
-| C4 | Lady Madonna |
-| C5 | Hey Jude |
-| D1 | Get Back |
-| D2 | The Ballad Of John And Yoko |
-| D3 | Something |
-| D4 | Come Together |
-| D5 | Let It Be |
-| D6 | The Long And Winding Road |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

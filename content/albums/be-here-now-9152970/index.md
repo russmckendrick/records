@@ -1,6 +1,6 @@
 ---
-title: "Oasis - Be Here Now"
-artist_name: "Oasis"
+title: "Oasis (2) - Be Here Now"
+artist_name: "Oasis (2)"
 artist: "oasis"
 album_name: "Be Here Now"
 date: 2016-10-14T16:17:56.000000Z
@@ -10,8 +10,8 @@ slug: "be-here-now-9152970"
 hideSummary: true
 cover:
     image: "be-here-now-9152970.jpg"
-    alt: "Be Here Now by Oasis"
-    caption: "Be Here Now by Oasis"
+    alt: "Be Here Now by Oasis (2)"
+    caption: "Be Here Now by Oasis (2)"
 additional_images:
     - "https://i.discogs.com/e5BZxXih3AU0hhGJ7ilEwc4gf7K6dEz3Iowf5i6NqaM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTI5/NzAtMTYxODQ4MDI5/MS00MDg3LmpwZWc.jpeg"
     - "https://i.discogs.com/hA6m4tjaxZNx8zMJ13AuOY2a-l71T9JJvxbK2R7zl5Q/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTI5/NzAtMTYxODQ4MDI5/MC03NzU5LmpwZWc.jpeg"
@@ -49,18 +49,18 @@ Were Oasis put on this earth to deliver nine-minute ’60s pop psychedelia? Poss
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | D'You Know What I Mean? |
-| A2 | My Big Mouth |
-| A3 | Magic Pie |
-| B1 | Stand By Me |
-| B2 | I Hope, I Think, I Know |
-| B3 | The Girl In The Dirty Shirt |
-| C1 | Fade In-Out |
-| C2 | Don't Go Away |
-| C3 | Be Here Now |
-| D1 | All Around The World |
-| D2 | It's Gettin' Better (Man!!) |
-| D3 | All Around The World (Reprise) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -79,4 +79,4 @@ Were Oasis put on this earth to deliver nine-minute ’60s pop psychedelia? Poss
 | Label          | Big Brother |
 | Catalog Number | RKIDLP85 |
 | Notes | Double heavyweight vinyl. Includes download code for album, rare & unreleased tracks, & mustique demos.  Original release date was 7.10.2016 but it was postponed to 14.10.2016.   Back sleeve: ℗ & © 2016 Big Brother Recordings Ltd The copyright in this sound recording and artwork is owned by Big Brother Recordings Ltd.  WWW.OASISINET.COM  All songs by Noel Gallagher (Dead Leg Music/Sony/ATV Music Publishing Ltd)  Inside panel: Recorded at Abbey Road, Ridge Farm, Air, Master Rock and Orinoco Studios, England between Nov 96 - April 97 All songs by Noel Gallagher (Dead Leg Music/Sony/ATV Music Publishing Ltd)  Labels: The copyright in this sound recording and artwork is owned by Big Brother Recordings Ltd. ℗ & © 2016 Big Brother Recordings Ltd All songs by Noel Gallagher (Dead Leg Music/Sony/ATV Music Publishing Ltd) |
-| Discogs URL    | [Oasis - Be Here Now](https://www.discogs.com/release/9152970-Oasis-2-Be-Here-Now) |
+| Discogs URL    | [Oasis (2) - Be Here Now](https://www.discogs.com/release/9152970-Oasis-2-Be-Here-Now) |

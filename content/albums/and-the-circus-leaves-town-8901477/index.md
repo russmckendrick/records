@@ -31,17 +31,17 @@ styles: ["Stoner Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hurricane |
-| A2 | One Inch Man |
-| A3 | Thee Ol' Boozeroony |
-| A4 | Gloria Lewis |
-| A5 | Phototropic |
-| A6 | El Rodeo |
-| B1 | Jumbo Blimp Jumbo |
-| B2 | Tangy Zizzle |
-| B3 | Size Queen |
-| B4 | Catamaran |
-| B5 | Spaceship Landing |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

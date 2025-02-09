@@ -1,6 +1,6 @@
 ---
-title: "Amplifier - Amplifier"
-artist_name: "Amplifier"
+title: "Amplifier (3) - Amplifier"
+artist_name: "Amplifier (3)"
 artist: "amplifier"
 album_name: "Amplifier"
 date: 2022-04-15T03:50:14.000000Z
@@ -10,8 +10,8 @@ slug: "amplifier-22878905"
 hideSummary: true
 cover:
     image: "amplifier-22878905.jpg"
-    alt: "Amplifier by Amplifier"
-    caption: "Amplifier by Amplifier"
+    alt: "Amplifier by Amplifier (3)"
+    caption: "Amplifier by Amplifier (3)"
 additional_images:
     - "https://i.discogs.com/D6ZUBxl-NZay2GpJorbIV-YJpOnF8F_fW_QGpNViEFY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MjctNjkzMS5qcGVn.jpeg"
     - "https://i.discogs.com/SfGm-K0wJ3AUAWXzG3tKY5erA8wts1Lm0y-B4WcFPgs/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODc4/OTA1LTE2NTAwNDg3/MjktNjAwNC5qcGVn.jpeg"
@@ -40,17 +40,17 @@ The critical reception of the album was generally positive, with comments such a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Motorhead |
-| A2 | Airborne |
-| B3 | Panzer |
-| B4 | Old Movies |
-| B5 | Post Acid Youth |
-| C6 | Neon |
-| C7 | On/Off |
-| C8 | The Consultancy |
-| D9 | One Great Summer |
-| D10 | UFOs |
-| D11 | Glory Electricity |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -68,4 +68,4 @@ The critical reception of the album was generally positive, with comments such a
 | Format         | Vinyl LP (Black/Grey Marbled), Vinyl LP (Red/Yellow Marbled), All Media Album Limited Edition Reissue Remastered |
 | Label          | Rockosmos |
 | Catalog Number | none |
-| Discogs URL    | [Amplifier - Amplifier](https://www.discogs.com/release/22878905-Amplifier-3-Amplifier) |
+| Discogs URL    | [Amplifier (3) - Amplifier](https://www.discogs.com/release/22878905-Amplifier-3-Amplifier) |

@@ -40,15 +40,15 @@ styles: ["Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Elysian Skies |
-| A2 | Evolve Or Perish |
-| A3 | Rapture |
-| A4 | Give Flight To The Imagination |
-| A5 | Dissolve |
-| B1 | Illuminate |
-| B2 | Futures Dark |
-| B3 | Black Folds |
-| B4 | A Thousand Lost Dreams |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

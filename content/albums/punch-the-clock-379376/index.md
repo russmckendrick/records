@@ -1,6 +1,6 @@
 ---
-title: "Elvis Costello  The Attractions - Punch The Clock"
-artist_name: "Elvis Costello  The Attractions"
+title: "Elvis Costello & The Attractions - Punch The Clock"
+artist_name: "Elvis Costello & The Attractions"
 artist: "elvis-costello-the-attractions"
 album_name: "Punch The Clock"
 date: 2018-08-17T16:35:01.000000Z
@@ -10,8 +10,8 @@ slug: "punch-the-clock-379376"
 hideSummary: true
 cover:
     image: "punch-the-clock-379376.jpg"
-    alt: "Punch The Clock by Elvis Costello  The Attractions"
-    caption: "Punch The Clock by Elvis Costello  The Attractions"
+    alt: "Punch The Clock by Elvis Costello & The Attractions"
+    caption: "Punch The Clock by Elvis Costello & The Attractions"
 additional_images:
     - "https://i.discogs.com/UfjjqzlFLovKSSPAdyuR8j6EUoICwRez30AYwbAqv18/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTM3/Ni0xMjk5MjUxNDQ4/LmpwZWc.jpeg"
     - "https://i.discogs.com/FSpzoCXIOvr9Zt_VhI0GLW2pMpRDspklTlusP6gXF5M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTM3/Ni0xMjk5MjUxNDU3/LmpwZWc.jpeg"
@@ -33,19 +33,19 @@ The album received mixed-to-positive reviews from music critics on release and i
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Let Them All Talk |
-| A2 | Everyday I Write The Book |
-| A3 | The Greatest Thing |
-| A4 | The Element Within Her |
-| A5 | Love Went Mad |
-| A6 | Shipbuilding |
-| B1 | TKO (Boxing Day) |
-| B2 | Charm School |
-| B3 | The Invisible Man |
-| B4 | Mouth Almighty |
-| B5 | King Of Thieves |
-| B6 | Pills And Soap |
-| B7 | The World And His Wife |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -64,4 +64,4 @@ The album received mixed-to-positive reviews from music critics on release and i
 | Label          | F-Beat |
 | Catalog Number | XXLP 19 |
 | Notes | Recorded at Air Studios, London. Mixed at Genetic Studios, Reading.  Issued with heavy stock printed inner sleeve with lyrics. (inner sleeve has rounded corners, for copy with square corners see elsewhere)  [Publishers] Plangent Visions Music Ltd. except "Shipbuilding" Plangent Visions Music Ltd. / Warner Bros. Music Ltd.  [Rear sleeve]: ℗ & © 1983 F-Beat Records. Marketed and distributed by RCA Ltd. Record Division.  [Labels]: ℗ 1983 Riviera Global Records Productions Ltd.  © 1983 F-Beat Records Ltd.  Variant 4 Last character of Side A matrix/runout is after "A-1U-1-1-" where only a small round bottom is visible, like a shallow u or the bottom part of a 8. The upper part is not visible at all. |
-| Discogs URL    | [Elvis Costello  The Attractions - Punch The Clock](https://www.discogs.com/release/379376-Elvis-Costello-And-The-Attractions-Punch-The-Clock) |
+| Discogs URL    | [Elvis Costello & The Attractions - Punch The Clock](https://www.discogs.com/release/379376-Elvis-Costello-And-The-Attractions-Punch-The-Clock) |

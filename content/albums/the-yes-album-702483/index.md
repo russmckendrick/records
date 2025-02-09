@@ -34,12 +34,12 @@ The album was a critical success and a major commercial breakthrough for Yes, wh
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Yours Is No Disgrace |
-| A2 | The Clap |
-|  | Starship Trooper |
-|  | I've Seen All Good People |
-| B2 | A Venture |
-| B3 | Perpetual Change |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

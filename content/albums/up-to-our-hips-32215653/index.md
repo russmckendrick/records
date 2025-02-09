@@ -43,26 +43,26 @@ Up to Our Hips received mixed reviews from music critics, some complaining about
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Come In Number 21 |
-| A2 | I Never Want An Easy Life If Me And He Were Ever To Get There |
-| A3 | Can't Get Out Of Bed |
-| A4 | Feel Flows |
-| A5 | Autograph |
-| B1 | Jesus Hairdo |
-| B2 | Up To Our Hips |
-| B3 | Patrol |
-| B4 | Another Rider Up In Flames |
-| B5 | Inside-Looking Out |
-| C1 | Subterranean |
-| C2 | Full Of Culture |
-| C3 | Out |
-| C4 | Up To Our Hips (Recorded Live For The Steve Lamaq And Jo Wiley Show) |
-| C5 | Stir It Up (Altermate Instrumental Mix) |
-| D1 | Withdrawn |
-| D2 | Feel Flows (Alternate Mix) |
-| D3 | You & Everybody |
-| D4 | Dont' Let It Stand Aka Can't Get Out Of Bed |
-| D5 | Another Rider Up In Flames (Recorded Live For The Steve Lamaq And Jo Wiley Show) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

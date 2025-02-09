@@ -34,15 +34,15 @@ The Party's Over is the debut album by Talk Talk. It was released on 12 July 198
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Talk Talk |
-| A2 | It's So Serious |
-| A3 | Today |
-| A4 | The Party's Over |
-| B1 | Hate |
-| B2 | Have You Heard The News? |
-| B3 | Mirror Man |
-| B4 | Another Word |
-| B5 | Candy |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -39,14 +39,14 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Untitled #1 |
-| A2 | Untitled #2  |
-| A3 | Untitled #3  |
-| B1 | Untitled #4  |
-| B2 | Untitled #5  |
-| C1 | Untitled #6  |
-| C2 | Untitled #7 |
-| D | Untitled #8 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

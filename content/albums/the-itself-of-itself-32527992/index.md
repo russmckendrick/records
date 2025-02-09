@@ -30,13 +30,13 @@ The album received a physical release exclusively on CD, in a limited edition of
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Unperson |
-| A2 | Apparition 3 |
-| B3 | Bruise |
-| B4 | Blackmail |
-| C5 | The Itself Of Itself |
-| D6 | Study For Tape Hiss And Other Audio Artefacts |
-| D7 | Apparition 5  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -29,16 +29,16 @@ styles: ["Soundtrack", "Soft Rock", "Synth-pop", "Contemporary R&B"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | New Attitude |
-| A2 | Don't Get Stopped In Beverly Hills |
-| A3 | Do You Really (Want My Love?) |
-| A4 | Emergency |
-| A5 | Neutron Dance |
-| B1 | The Heat Is On |
-| B2 | Gratitude |
-| B3 | Stir It Up |
-| B4 | Rock 'N Roll Me Again |
-| B5 | Axel F |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

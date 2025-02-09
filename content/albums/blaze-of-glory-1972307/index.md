@@ -33,17 +33,17 @@ Elton John, Little Richard, and Jeff Beck contributed to the album. It was award
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Billy Get Your Guns |
-| A2 | Miracle |
-| A3 | Blaze Of Glory |
-| A4 | Blood Money |
-| A5 | Santa Fe |
-| B1 | Justice In The Barrel |
-| B2 | Never Say Die |
-| B3 | You Really Got Me Now |
-| B4 | Bang A Drum |
-| B5 | Dyin' Ain't Much Of A Livin' |
-| B6 | Guano City |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

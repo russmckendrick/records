@@ -1,7 +1,7 @@
 ---
-title: "ACDC - Powerage"
-artist_name: "ACDC"
-artist: "acdc"
+title: "AC/DC - Powerage"
+artist_name: "AC/DC"
+artist: "ac-dc"
 album_name: "Powerage"
 date: 2024-03-15T06:44:34.000000Z
 release_date: "1978-05-05"
@@ -10,8 +10,8 @@ slug: "powerage-30095783"
 hideSummary: true
 cover:
     image: "powerage-30095783.jpg"
-    alt: "Powerage by ACDC"
-    caption: "Powerage by ACDC"
+    alt: "Powerage by AC/DC"
+    caption: "Powerage by AC/DC"
 additional_images:
     - "https://i.discogs.com/lKl_j5VinECZzaY3WRbEQkb1NpegKam7-1dWFO8wYcY/rs:fit/g:sm/q:90/h:550/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk1/NzgzLTE3MTA0NTYy/MjEtOTY3My5qcGVn.jpeg"
     - "https://i.discogs.com/f3NORLV3-1pzyPZ13r8VAxTevs3TS_CCt3KGJXJjSE8/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk1/NzgzLTE3MTA0NTY0/MDItMjc3Ny5qcGVn.jpeg"
@@ -50,15 +50,15 @@ Bon Scott, Angus Young and Malcolm Young hit on a new level of songwriting matur
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Rock'N'Roll Damnation |
-| A2 | Down Payment Blues |
-| A3 | Gimme A Bullet |
-| A4 | Riff Raff |
-| B1 | Sin City |
-| B2 | What's Next To The Moon |
-| B3 | Gone Shootin' |
-| B4 | Up To My Neck In You |
-| B5 | Kicked In The Teeth |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -77,4 +77,4 @@ Bon Scott, Angus Young and Malcolm Young hit on a new level of songwriting matur
 | Label          | Columbia |
 | Catalog Number | 19658834601 |
 | Notes | 50th Anniversary special edition as 180 gram gold nugget vinyl. Comes with a printed inner sleeve and includes a print (30x30 cm) with brand new AC/DC anniversary artwork. There are two hype stickers on the outer film on the front.  The Amazon exclusive limited edition version of this release comes with a slipmat featuring AC/DC 50th anniversary artwork. The record and the slipmat are packed in a resealable foil bag. A different barcode sticker is applied to the outer film on the back of the LP over the original barcode.  [Printed on rectangular hypsticker:] 50th Anniversary Special Edition Gold Coloured Vinyl Includes Unique Insert And Custom Labels  [Printed on back cover:] Remastered from the original master tapes by George Marino at Sterling Sound. © 1978, 2003 J. Albert & Son (Pty.) Ltd. ℗ 1978 J. Albert & Son (Pty.) Ltd., 1980, 1981, 1985, 1986 Leidseplein Presse B.V. Made in the EU.  [Printed on inner sleeve:] Originally released as [url=https://www.discogs.com/release/380978-ACDC-Powerage]Atlantic 19180[/url] on May 30, 1978. Recorded at Albert Studios, Sydney, Australia February/March 1978.  [Printed on artwork:] Reverse side photo by Michael Putland archive. 19658834601-11  [Printed on label side B:] © 1978, 2024 J. Albert & Son (Pty.) Ltd.  [Printed on cover spine below:] © 1978, 2003 J. Albert & Son (Pty.) Ltd.  Runouts are etched. Pressing plant identified based on the runout areas.  A1 in the runout field = A₁ in the vinyl runout. B1 in the runout field = B₁ in the vinyl runout.  [Additional information about the faintly inscribed geometric marks:] In the runouts "A + A", "J I +",  "1 - +", "2 I T", "1 + +" and "2 l l" are mirrored. |
-| Discogs URL    | [ACDC - Powerage](https://www.discogs.com/release/30095783-ACDC-Powerage) |
+| Discogs URL    | [AC/DC - Powerage](https://www.discogs.com/release/30095783-ACDC-Powerage) |

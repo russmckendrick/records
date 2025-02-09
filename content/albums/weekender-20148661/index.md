@@ -34,8 +34,8 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | Weekender |
-| B | Weekender (Original Film Soundtrack) |
+|  |  |
+|  |  |
 
 
 ## Apple Music

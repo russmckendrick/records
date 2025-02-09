@@ -39,15 +39,15 @@ Lost Themes is the debut studio album by American film director and composer Joh
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Vortex |
-| A2 | Obsidian  |
-| A3 | Fallen |
-| A4 | Domain |
-| B1 | Mystery |
-| B2 | Abyss |
-| B3 | Wraith |
-| B4 | Purgatory |
-| B5 | Night |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

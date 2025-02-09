@@ -27,32 +27,32 @@ Eye of the Soundscape is a compilation album by Polish progressive rock band Riv
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| LP-A1 | Where The River Flows |
-| LP-A2 | Shine |
-| LP-A3 | Sleepwalkers |
-| LP-B1 | Rapid Eye Movement (2016 Mix) |
-| LP-B2 | Rainbow Trip (2016 Mix) |
-| LP-C1 | Night Session - Part One |
-| LP-C2 | Night Session - Part Two |
-| LP-D1 | Heavenland |
-| LP-D2 | Return |
-| LP-D3 | Aether |
-| LP-E1 | Machines |
-| LP-E2 | Promise |
-| LP-E3 | Eye Of The Soundscape |
-| CD1-1 | Where The River Flows |
-| CD1-2 | Shine |
-| CD1-3 | Rapid Eye Movement (2016 Mix) |
-| CD1-4 | Night Session - Part One |
-| CD1-5 | Night Session - Part Two |
-| CD2-1 | Sleepwalkers |
-| CD2-2 | Rainbow Trip (2016 Mix) |
-| CD2-3 | Heavenland  |
-| CD2-4 | Return |
-| CD2-5 | Aether |
-| CD2-6 | Machines |
-| CD2-7 | Promise |
-| CD2-8 | Eye Of The Soundscape |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

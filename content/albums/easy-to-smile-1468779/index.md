@@ -30,9 +30,9 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | Easy To Smile |
-| B1 | Hazel |
-| B2 | Mollylove |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

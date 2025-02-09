@@ -41,19 +41,19 @@ Like its 1996 predecessor Everything Must Go, This Is My Truth Tell Me Yours was
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Everlasting |
-| A2 | If You Tolerate This Your Children Will Be Next |
-| A3 | You Stole The Sun From My Heart |
-| B1 | Ready For Drowning |
-| B2 | Tsunami |
-| B3 | My Little Empire |
-| C1 | I'm Not Working |
-| C2 | You're Tender And You're Tired |
-| C3 | Born A Girl |
-| C4 | Be Natural |
-| D1 | Black Dog On My Shoulder |
-| D2 | Prologue To History |
-| D3 | S.Y.M.M. |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

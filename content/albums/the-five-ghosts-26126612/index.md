@@ -36,17 +36,17 @@ The album was named as a longlisted nominee for the 2011 Polaris Music Prize.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Dead Hearts |
-| A2 | Wasted Daylight |
-| A3 | I Died So I Could Haunt You |
-| A4 | Fixed |
-| A5 | We Don't Want Your Body |
-| B6 | He Dreams He's Awake |
-| B7 | Changes |
-| B8 | The Passenger |
-| B9 | The Last Song Ever Written |
-| B10 | How Much More |
-| B11 | Winter Bones |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

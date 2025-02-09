@@ -44,26 +44,26 @@ Anthology is a greatest hits album by American rock band Garbage, released on Oc
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Only Happy When It Rains |
-| A2 | Queer |
-| A3 | Stupid Girl |
-| A4 | #1 Crush |
-| A5 | Push It |
-| B1 | I Think I'm Paranoid |
-| B2 | Special |
-| B3 | The World Is Not Enough |
-| B4 | Androgyny |
-| B5 | Cherry Lips (Go Baby Go!) |
-| B6 | Why Do You Love Me |
-| C1 | Bleed Like Me |
-| C2 | Witness To Your Love |
-| C3 | Blood For Poppies |
-| C4 | Automatic Systematic Habit |
-| C5 | Empty |
-| D1 | Even Though Our Love Is Doomed |
-| D2 | No Horses |
-| D3 | The Men Who Rule The World |
-| D4 | No Gods No Masters |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

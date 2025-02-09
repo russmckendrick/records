@@ -35,26 +35,26 @@ I See You was released to widespread critical acclaim, with many reviewers findi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Dangerous |
-| A2 | Say Something Loving |
-| A3 | Lips |
-| A4 | A Violent Noise |
-| A5 | Performance |
-| B1 | Replica |
-| B2 | Brave For You |
-| B3 | On Hold |
-| B4 | I Dare You |
-| B5 | Test Me |
-| CD-1 | Dangerous |
-| CD-2 | Say Something Loving |
-| CD3 | Lips |
-| CD-4 | A Violent Noise |
-| CD-5 | Performance |
-| CD-6 | Replica |
-| CD-7 | Brave For You |
-| CD-8 | On Hold |
-| CD-9 | I Dare You |
-| CD-10 | Test Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -34,15 +34,15 @@ The album was preceded by the single "Everything Counts", released on 11 July an
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Love, In Itself |
-| A2 | More Than A Party |
-| A3 | Pipeline |
-| A4 | Everything Counts |
-| B1 | Two Minute Warning |
-| B2 | Shame |
-| B3 | The Landscape Is Changing |
-| B4 | Told You So |
-| B5 | And Then... |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

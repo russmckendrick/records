@@ -1,6 +1,6 @@
 ---
-title: "The League Of Gentlemen - Live Again!"
-artist_name: "The League Of Gentlemen"
+title: "The League Of Gentlemen (3) - Live Again!"
+artist_name: "The League Of Gentlemen (3)"
 artist: "the-league-of-gentlemen"
 album_name: "Live Again!"
 date: 2019-04-24T16:42:40.000000Z
@@ -10,8 +10,8 @@ slug: "live-again-13526674"
 hideSummary: true
 cover:
     image: "live-again-13526674.jpg"
-    alt: "Live Again! by The League Of Gentlemen"
-    caption: "Live Again! by The League Of Gentlemen"
+    alt: "Live Again! by The League Of Gentlemen (3)"
+    caption: "Live Again! by The League Of Gentlemen (3)"
 additional_images:
     - "https://i.discogs.com/kX8wqis260BJd2HmsYmyYnHqpgtrUjFOWt0In6vEx10/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE2OTc1NDQ0/NDUtMzc5OC5qcGVn.jpeg"
     - "https://i.discogs.com/FFx-FvHnCbuzjS0pJ5EDL5euIFj_8KcSEoW6WgOs9gA/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTI2/Njc0LTE2OTc1NDQ0/NDUtODM5Mi5qcGVn.jpeg"
@@ -39,30 +39,30 @@ styles: ["Comedy"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Opening Announcement  |
-| A2 | Perveswerve |
-| A3 | Go Johnny Go, Go, Go, Go! |
-| A4 | Attachments Dating Agency |
-| A5 | Mick McNamara  |
-| A6 | Pam Doove |
-| A7 | Fun Night With Mike King |
-| A8 | Pop & Al |
-| B1 | Mr Foot |
-| B2 | Charlie & Stella |
-| B3 | Ollie Plimsolls |
-| B4 | Tubbs & Edward |
-| B5 | Toddy's Bingo |
-| B6 | Geoff, Mike & Brian |
-| C1 | Dear Bernice... |
-| C2 | Herr Lipp |
-| C3 | 'Surgery In Action' Live |
-| C4 | Dear Bernice... |
-| C5 | Pauline RIP |
-| D1 | Auntie Val's Wedding |
-| D2 | Les McQueen |
-| D3 | Benjamin's Flashback  |
-| D4 | Dear Bernice... |
-| D5 | Local Shop/Wife Mine |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -80,4 +80,4 @@ styles: ["Comedy"]
 | Label          | Demon Records |
 | Catalog Number | DEMREC410 |
 | Notes | Black & White mixed 'Papa Lazarou' vinyl. Gatefold sleeve with cardboard pop-up interior. Record Store Day 2019 Recorded London, 27 September 2018 |
-| Discogs URL    | [The League Of Gentlemen - Live Again!](https://www.discogs.com/release/13526674-The-League-Of-Gentlemen-3-Live-Again) |
+| Discogs URL    | [The League Of Gentlemen (3) - Live Again!](https://www.discogs.com/release/13526674-The-League-Of-Gentlemen-3-Live-Again) |

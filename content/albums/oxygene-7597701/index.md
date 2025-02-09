@@ -31,12 +31,12 @@ styles: ["Synth-pop", "Ambient"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Oxygene Part 1 |
-| A2 | Oxygene Part 2 |
-| A3 | Oxygene Part 3 |
-| B1 | Oxygene Part 4 |
-| B2 | Oxygene Part 5 |
-| B3 | Oxygene Part 6 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

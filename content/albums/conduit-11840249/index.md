@@ -30,13 +30,13 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Temporal |
-| A2 | Tabula Rasa |
-| A3 | Waterhole |
-| A4 | Blue Rose |
-| B1 | Bandit |
-| B2 | Witness |
-| B3 | Otherside |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -33,7 +33,7 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | Weekender |
+|  |  |
 
 
 ## Apple Music

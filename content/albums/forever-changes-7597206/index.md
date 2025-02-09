@@ -31,17 +31,17 @@ Forever Changes had only moderate success on the album charts upon release, peak
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Alone Again Or |
-| A2 | A House Is Not A Motel |
-| A3 | Andmoreagain |
-| A4 | The Daily Planet |
-| A5 | Old Man |
-| A6 | The Red Telephone |
-| B1 | Maybe The People Would Be The Times Or Between Clark And Hilldale |
-| B2 | Live And Let Live |
-| B3 | The Good Humor Man He Sees Everything Like This |
-| B4 | Bummer In The Summer |
-| B5 | You Set The Scene |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

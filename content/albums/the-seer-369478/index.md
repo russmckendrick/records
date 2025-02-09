@@ -33,16 +33,16 @@ The album reached number 2 in the UK Albums Chart.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Look Away |
-| A2 | The Seer |
-| A3 | The Teacher |
-| A4 | I Walk The Hill |
-| A5 | Eiledon |
-| B1 | One Great Thing |
-| B2 | Hold The Heart |
-| B3 | Remembrance Day |
-| B4 | The Red Fox |
-| B5 | The Sailor |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

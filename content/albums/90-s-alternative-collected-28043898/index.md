@@ -26,32 +26,32 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Buddy Holly |
-| A2 | You Stole The Sun From My Heart |
-| A3 | The Masterplan |
-| A4 | Do You Love Me? |
-| A5 | Last Stop: This Town |
-| A6 | Routine |
-| B1 | Bang And Blame |
-| B2 | Hush |
-| B3 | Joey |
-| B4 | The Way |
-| B5 | Spoonman |
-| B6 | No Rain |
-| B7 | A Thousand Trees |
-| C1 | Scooby Snacks |
-| C2 | Walkin' On The Sun |
-| C3 | Body And Soul? |
-| C4 | Low |
-| C5 | Die Laughing |
-| C6 | Home |
-| C7 | All Over You |
-| D1 | Midlife Crisis |
-| D2 | Closing Time |
-| D3 | Dreams |
-| D4 | Top Of The Pops |
-| D5 | Popular |
-| D6 | Santeria |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

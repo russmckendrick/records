@@ -1,6 +1,6 @@
 ---
-title: "Gary Clark Jr - The Story Of Sonny Boy Slim"
-artist_name: "Gary Clark Jr"
+title: "Gary Clark Jr. - The Story Of Sonny Boy Slim"
+artist_name: "Gary Clark Jr."
 artist: "gary-clark-jr"
 album_name: "The Story Of Sonny Boy Slim"
 date: 2015-09-22T19:05:10.000000Z
@@ -10,8 +10,8 @@ slug: "the-story-of-sonny-boy-slim-7463093"
 hideSummary: true
 cover:
     image: "the-story-of-sonny-boy-slim-7463093.jpg"
-    alt: "The Story Of Sonny Boy Slim by Gary Clark Jr"
-    caption: "The Story Of Sonny Boy Slim by Gary Clark Jr"
+    alt: "The Story Of Sonny Boy Slim by Gary Clark Jr."
+    caption: "The Story Of Sonny Boy Slim by Gary Clark Jr."
 additional_images:
     - "https://i.discogs.com/-H3um0nX2f0iW-MWJuFosakJCPbzjW6baPJfM6pa9iU/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/MS0yOTU3LmpwZWc.jpeg"
     - "https://i.discogs.com/-Pb8GmXG51ZKp1cEj2lF1jRP094H9Foa-NKs7XizYxw/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NjMw/OTMtMTUzMDQxNDQ5/NC0xODY3LmpwZWc.jpeg"
@@ -42,19 +42,19 @@ It reached number one on the Billboard Top Blues Albums chart in October that ye
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Healing |
-| A2 | Grinder |
-| A3 | Star |
-| A4 | Our Love |
-| B1 | Church |
-| B2 | Hold On |
-| B3 | Cold Blooded |
-| B4 | Wings |
-| C1 | BYOB |
-| C2 | Can't Sleep |
-| C3 | Stay |
-| C4 | Shake |
-| C5 | Down To Ride |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -73,4 +73,4 @@ It reached number one on the Billboard Top Blues Albums chart in October that ye
 | Label          | Warner Bros. Records |
 | Catalog Number | 550131-1 |
 | Notes | © 2015 Hotwire Unlimited LLC (BMI)  © ℗ 2015 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside the U.S. Printed in Canada. Manufactured in The Netherlands.    Gatefold sleeve contains colour insert with credits. |
-| Discogs URL    | [Gary Clark Jr - The Story Of Sonny Boy Slim](https://www.discogs.com/release/7463093-Gary-Clark-Jr-The-Story-Of-Sonny-Boy-Slim) |
+| Discogs URL    | [Gary Clark Jr. - The Story Of Sonny Boy Slim](https://www.discogs.com/release/7463093-Gary-Clark-Jr-The-Story-Of-Sonny-Boy-Slim) |

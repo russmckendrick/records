@@ -37,17 +37,17 @@ The album's title (a German onomatopoeia for a loud pop or bang) and cover art a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Super Falling Star |
-| A2 | Orgiastic |
-| A3 | Peng ! 33 |
-| A4 | K-Stars |
-| A5 | Perversion |
-| A6 | You Little Shits |
-| B1 | The Seeming And The Meaning |
-| B2 | Mellotron |
-| B3 | Enivrez-Vous |
-| B4 | Stomach Worm |
-| B5 | Surrealchemist |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

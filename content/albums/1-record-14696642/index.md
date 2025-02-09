@@ -31,18 +31,18 @@ It’s no wonder why Big Star’s shimmering 1972 debut became a go-to for futur
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Feel |
-| A2 | The Ballad Of El Goodo |
-| A3 | In The Street |
-| A4 | Thirteen |
-| A5 | Don't Lie To Me |
-| A6 | The India Song |
-| B1 | When My Baby's Beside Me |
-| B2 | My Life Is Right |
-| B3 | Give Me Another Chance |
-| B4 | Try Again |
-| B5 | Watch The Sunrise |
-| B6 | ST 100/6 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

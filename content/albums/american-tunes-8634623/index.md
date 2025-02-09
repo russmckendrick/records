@@ -36,24 +36,24 @@ Allen Toussaint was due to play with Paul Simon in a New Orleans benefit concert
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Delores' Boyfriend |
-| A2 | Viper's Drag |
-| A3  | Confessin' (That I Love You) |
-| A4 | Mardi Gras In New Orleans |
-| A5 | Lotus Blossom |
-| B1 | Waltz For Debby |
-| B2  | Big Chief |
-| B3 | Rocks In My Bed |
-| B4 | Danza, Op. 33 |
-| B5 | Hey Little Girl |
-| C1 | Rosetta |
-| C2 | Come Sunday |
-| C3 | Southern Nights |
-| C4 | American Tune |
-|  | Bonus Tracks |
-| D1 | Her Mind Is Gone |
-| D2 | Moon River |
-| D3 | Bald Head |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

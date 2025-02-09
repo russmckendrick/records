@@ -42,16 +42,16 @@ Two video documentaries on the recording, Things That Go Pump in the Night and T
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Young Lust |
-| A2 | F.I.N.E. |
-| A3 | Love In An Elevator |
-| A4 | Monkey On My Back |
-| A5 | Janie's Got A Gun |
-| B1 | The Other Side |
-| B2 | My Girl |
-| B3 | Don't Get Mad, Get Even |
-| B4 | Voodoo Medicine Man |
-| B5 | What It Takes |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

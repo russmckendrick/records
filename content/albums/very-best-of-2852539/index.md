@@ -40,24 +40,24 @@ Very Best of Morrissey is a compilation album by Morrissey, containing material 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Last Of The Famous International Playboys |
-| A2 | You're Gonna Need Someone On Your Side |
-| A3 | The More You Ignore Me, The Closer I Get |
-| A4 | Glamorous Glue |
-| A5 | Girl Least Likely To |
-| B1 | Suedehead |
-| B2 | Tomorrow |
-| B3 | Boxers |
-| B4 | My Love Life |
-| C1 | Break Up The Family |
-| C2 | I've Changed My Plea To Guilty |
-| C3 | Such A Little Thing Makes Such A Big Difference |
-| C4 | Ouija Board, Ouija Board |
-| C5 | Interesting Drug |
-| D1 | November Spawned A Monster |
-| D2 | Everyday Is Like Sunday |
-| D3 | Interlude |
-| D4 | Moonriver |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

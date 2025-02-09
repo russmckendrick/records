@@ -39,19 +39,19 @@ The most successful single from the album, "The Size of a Cow", reached No. 5 on
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Mission Drive |
-| A2 | Play |
-| A3 | False Start |
-| A4 | Welcome To The Cheap Seats |
-| A5 | The Size Of A Cow |
-| A6 | Sleep Alone |
-| A7 | Donation |
-| B1 | Inertia |
-| B2 | Maybe |
-| B3 | Grotesque |
-| B4 | Here Comes Everyone |
-| B5 | Caught In My Shadow |
-| B6 | 38 Line Poem |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

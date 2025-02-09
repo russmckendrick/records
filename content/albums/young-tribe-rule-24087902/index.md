@@ -1,6 +1,6 @@
 ---
-title: "Whiteout - Young Tribe Rule"
-artist_name: "Whiteout"
+title: "Whiteout (2) - Young Tribe Rule"
+artist_name: "Whiteout (2)"
 artist: "whiteout"
 album_name: "Young Tribe Rule"
 date: 2022-08-06T02:00:44.000000Z
@@ -10,8 +10,8 @@ slug: "young-tribe-rule-24087902"
 hideSummary: true
 cover:
     image: "young-tribe-rule-24087902.jpg"
-    alt: "Young Tribe Rule by Whiteout"
-    caption: "Young Tribe Rule by Whiteout"
+    alt: "Young Tribe Rule by Whiteout (2)"
+    caption: "Young Tribe Rule by Whiteout (2)"
 additional_images:
     - "https://i.discogs.com/THLNsiOU_bLdj_mX9Xm3Yae5SL7KjHVM1OoVEYv0HGw/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDg3/OTAyLTE2NTk3MTQ1/MDItMTY1My5qcGVn.jpeg"
     - "https://i.discogs.com/dwbMR4DJfJ-RRToTtwLL2sFnO2CGHZg6AjvO9BCjNFc/rs:fit/g:sm/q:90/h:516/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDg3/OTAyLTE2NTk3MTQ1/MjEtNDExMi5qcGVn.jpeg"
@@ -34,15 +34,15 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Get Me Through (Outta Here) |
-| A2 | Sleep Talking |
-| A3 | Bright Shining Lie |
-| A4 | Cousin Jane |
-| B1 | So Confused |
-| B2 | Get Me Through (Acoustic) |
-| B3 | Rocks Off |
-| B4 | Shine On You (Acoustic) |
-| B5 | The Days Of The Week |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -60,4 +60,4 @@ styles: ["Indie Rock", "Alternative Rock"]
 | Label          | Demon Records |
 | Catalog Number | DEMREC1054 |
 | Notes | Japanese exclusive mini album featuring B-sides and rarities, issued on vinyl for the first time. 140g vinyl. With printed inner lyric sheet. |
-| Discogs URL    | [Whiteout - Young Tribe Rule](https://www.discogs.com/release/24087902-Whiteout-2-Young-Tribe-Rule) |
+| Discogs URL    | [Whiteout (2) - Young Tribe Rule](https://www.discogs.com/release/24087902-Whiteout-2-Young-Tribe-Rule) |

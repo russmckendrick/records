@@ -38,12 +38,12 @@ styles: ["Prog Rock", "Art Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | El Dorado |
-| B1 | Living In F E A R |
-| B2 | White Paper |
-|  | The Leavers |
-|  | The New Kings |
-| D5 | Tomorrow's New Country |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

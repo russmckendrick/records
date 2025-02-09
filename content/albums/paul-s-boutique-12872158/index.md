@@ -34,21 +34,21 @@ Paul's Boutique did not match the sales of the group's 1986 debut Licensed to Il
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | To All The Girls |
-| A2 | Shake Your Rump |
-| A3 | Johnny Ryall |
-| A4 | Egg Man |
-| A5 | High Plains Drifter |
-| A6 | The Sounds Of Science |
-| A7 | 3-Minute Rule |
-| A8 | Hey Ladies |
-| B1 | 5-Piece Chicken Dinner |
-| B2 | Looking Down The Barrel Of A Gun |
-| B3 | Car Thief |
-| B4 | What Comes Around |
-| B5 | Shadrach |
-| B6 | Ask For Janice |
-|  | B-Boy Bouillabaisse |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -38,17 +38,17 @@ Come Ahead is the twelfth studio album by Scottish band Primal Scream. It was re
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Ready To Go Home |
-| A2 | Love Insurrection |
-| A3 | Heal Yourself |
-| B1 | Innocent Money |
-| B2 | Melancholy Man |
-| B3 | Love Ain't Enough |
-| C1 | Circus Of Life |
-| C2 | False Flags |
-| C3 | Deep Dark Waters |
-| D1 | The Centre Cannot Hold |
-| D2 | Settlers Blues |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

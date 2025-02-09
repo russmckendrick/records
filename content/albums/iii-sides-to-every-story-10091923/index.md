@@ -1,6 +1,6 @@
 ---
-title: "Extreme - III Sides To Every Story"
-artist_name: "Extreme"
+title: "Extreme (2) - III Sides To Every Story"
+artist_name: "Extreme (2)"
 artist: "extreme"
 album_name: "III Sides To Every Story"
 date: 2017-05-03T19:19:51.000000Z
@@ -10,8 +10,8 @@ slug: "iii-sides-to-every-story-10091923"
 hideSummary: true
 cover:
     image: "iii-sides-to-every-story-10091923.jpg"
-    alt: "III Sides To Every Story by Extreme"
-    caption: "III Sides To Every Story by Extreme"
+    alt: "III Sides To Every Story by Extreme (2)"
+    caption: "III Sides To Every Story by Extreme (2)"
 additional_images:
     - "https://i.discogs.com/DOOfn2CXRn0oNiT12HonGUvMSVeVeh0msW7IDYiCa68/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkx/OTIzLTE0OTE1ODU3/MjYtOTgwMy5qcGVn.jpeg"
     - "https://i.discogs.com/RTe2PvV0cMx5WcEYc20EDZuXFuhl_XURMKbV0w-BZJ4/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkx/OTIzLTE0OTE1ODU3/MjUtODI4Ni5qcGVn.jpeg"
@@ -37,24 +37,24 @@ III Sides to Every Story is the third studio album by the American rock band Ext
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Yours |
-| A1 | Warheads |
-| A2 | Rest In Peace |
-| A3 | Politicalamity |
-| A4 | Color Me Blind |
-| B1 | Cupid's Dead |
-| B2 | Peacemaker Die |
-|  | Mine |
-| B3 | Seven Sundays |
-| B4 | Tragic Comic |
-| C1 | Our Father |
-| C2 | Stop The World |
-| C3 | God Isn't Dead? |
-| C4 | Don't Leave Me Alone |
-|  | & The Truth |
-| D1 | Everything Under The Sun I: Rise 'N Shine |
-| D2 | Everything Under The Sun II: Am I Ever Gonna Change |
-| D3 | Everything Under The Sun III: Who Cares? |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -73,4 +73,4 @@ III Sides to Every Story is the third studio album by the American rock band Ext
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1387 |
 | Notes | - 180 gram audiophile vinyl - Includes insert with song lyrics - 25th Anniversary Edition of 1.000 numbered copies on Moss Green vinyl |
-| Discogs URL    | [Extreme - III Sides To Every Story](https://www.discogs.com/release/10091923-Extreme-2-III-Sides-To-Every-Story) |
+| Discogs URL    | [Extreme (2) - III Sides To Every Story](https://www.discogs.com/release/10091923-Extreme-2-III-Sides-To-Every-Story) |

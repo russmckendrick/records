@@ -32,16 +32,16 @@ styles: ["Modern Electric Blues", "Soul", "Folk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Tell Me A Tale |
-| A2 | I'm Getting Ready |
-| A3 | I'll Get Along |
-| A4 | Rest |
-| A5 | Home Again |
-| B1 | Bones |
-| B2 | Always Waiting |
-| B3 | I Won't Lie |
-| B4 | Any Day Will Do Fine |
-| B5 | Worry Walks Beside Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

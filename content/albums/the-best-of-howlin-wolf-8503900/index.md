@@ -1,6 +1,6 @@
 ---
-title: "Howlin Wolf - The Best Of Howlin' Wolf"
-artist_name: "Howlin Wolf"
+title: "Howlin' Wolf - The Best Of Howlin' Wolf"
+artist_name: "Howlin' Wolf"
 artist: "howlin-wolf"
 album_name: "The Best Of Howlin' Wolf"
 date: 2021-12-23T04:32:15.000000Z
@@ -10,8 +10,8 @@ slug: "the-best-of-howlin-wolf-8503900"
 hideSummary: true
 cover:
     image: "the-best-of-howlin-wolf-8503900.jpg"
-    alt: "The Best Of Howlin' Wolf by Howlin Wolf"
-    caption: "The Best Of Howlin' Wolf by Howlin Wolf"
+    alt: "The Best Of Howlin' Wolf by Howlin' Wolf"
+    caption: "The Best Of Howlin' Wolf by Howlin' Wolf"
 additional_images:
     - "https://i.discogs.com/hTjGaC-ZtEfMpHzwR22kiAUiP_aLVrFvTetXLATUnVM/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDM5/MDAtMTQ2MjkyNTM3/Ny0xNTg2LmpwZWc.jpeg"
     - "https://i.discogs.com/gC1xfT0yjfZ2nDjF5_NNoSLa1oiBL0iIkFYo0ivbHN4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MDM5/MDAtMTU4MTQxNTc5/OS04NjIyLmpwZWc.jpeg"
@@ -30,22 +30,22 @@ styles: ["Chicago Blues"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Smokestack Lightnin' |
-| A2 | Spoonful |
-| A3 | Moanin' At Midnight |
-| A4 | Evil |
-| A5 | I Asked For Water (She Gave Me Gasoline) |
-| A6 | Sittin' On Top Of The World |
-| A7 | Back Door Man |
-| A8 | All Night Long |
-| B1 | The Red Rooster |
-| B2 | You Can't Be Beat |
-| B3 | Shake For Me |
-| B4 | How Many More Years? |
-| B5 | Forty Four |
-| B6 | I've Been Abused |
-| B7 | The Natchez Burnin' |
-| B8 | Goin' Down Slow |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ styles: ["Chicago Blues"]
 | Label          | Not Now Music |
 | Catalog Number | CATLP105 |
 | Notes | Made in The E.U. |
-| Discogs URL    | [Howlin Wolf - The Best Of Howlin' Wolf](https://www.discogs.com/release/8503900-Howlin-Wolf-The-Best-Of-Howlin-Wolf) |
+| Discogs URL    | [Howlin' Wolf - The Best Of Howlin' Wolf](https://www.discogs.com/release/8503900-Howlin-Wolf-The-Best-Of-Howlin-Wolf) |

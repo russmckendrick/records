@@ -1,6 +1,6 @@
 ---
-title: "Belle  Sebastian - Tigermilk"
-artist_name: "Belle  Sebastian"
+title: "Belle & Sebastian - Tigermilk"
+artist_name: "Belle & Sebastian"
 artist: "belle-sebastian"
 album_name: "Tigermilk"
 date: 2017-04-25T08:34:25.000000Z
@@ -10,8 +10,8 @@ slug: "tigermilk-6247282"
 hideSummary: true
 cover:
     image: "tigermilk-6247282.jpg"
-    alt: "Tigermilk by Belle  Sebastian"
-    caption: "Tigermilk by Belle  Sebastian"
+    alt: "Tigermilk by Belle & Sebastian"
+    caption: "Tigermilk by Belle & Sebastian"
 additional_images:
     - "https://i.discogs.com/zt900gcr47Xj4kjAO-RkbTpqGA502MwHn73qVXd_6do/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDcy/ODItMTQxNDY5MjM4/MS04MzIzLmpwZWc.jpeg"
     - "https://i.discogs.com/Op39wwXhRsbN5Ieb1M3lSA5zCEVAJRJtTY3bSBd0Ons/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDcy/ODItMTUyNDI2MzI2/OS0zNDU0LmpwZWc.jpeg"
@@ -32,16 +32,16 @@ styles: ["Indie Rock", "Indie Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The State I Am In |
-| A2 | Expectations |
-| A3 | She's Losing It |
-| A4 | You're Just A Baby |
-| A5 | Electronic Renaissance |
-| B1 | I Could Be Dreaming |
-| B2 | We Rule The School |
-| B3 | My Wandering Days Are Over |
-| B4 | I Don't Love Anyone |
-| B5 | Mary Jo |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -59,4 +59,4 @@ styles: ["Indie Rock", "Indie Pop"]
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP007 |
 | Notes | Includes free download of entire album.  Includes PVC protective outer sleeve.  Lyrics on back cover. |
-| Discogs URL    | [Belle  Sebastian - Tigermilk](https://www.discogs.com/release/6247282-Belle-And-Sebastian-Tigermilk) |
+| Discogs URL    | [Belle & Sebastian - Tigermilk](https://www.discogs.com/release/6247282-Belle-And-Sebastian-Tigermilk) |

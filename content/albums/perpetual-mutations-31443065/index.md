@@ -34,15 +34,15 @@ styles: ["Jazz-Rock", "Fusion", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Dark Wind |
-| A2 | Deadpan Euphoria |
-| A3 | Viral Information 101 |
-| A4 | Objective Reality |
-| A5 | Quiescent II |
-| B1 | Spontaneous Plan |
-| B2 | Pentalogic Structure |
-| B3 | Solus Souls II |
-| B4 | Safety Meeting |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

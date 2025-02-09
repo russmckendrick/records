@@ -36,16 +36,16 @@ Mezcal Head is the second studio album by English alternative rock band Swervedr
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | For Seeking Heat |
-| A2 | Duel |
-| A3 | Blowin' Cool |
-| A4 | MM Abduction |
-| A5 | Last Train To Satansville |
-| B1 | Harry & Maggie |
-| B2 | A Change Is Gonna Come |
-| B3 | Girl On A Motorbike |
-| B4 | Duress |
-| B5 | You Find It Everywhere |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

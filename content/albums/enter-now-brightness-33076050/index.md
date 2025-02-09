@@ -26,16 +26,16 @@ Five years between albums has given Nadia Reid plenty to reflect upon across <i>
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Emmanuelle |
-| A2 | Cry On Cue |
-| A3 | Baby Bright |
-| A4 | Hold It Up |
-| A5 | Changed Unchained |
-| B1 | Second Nature |
-| B2 | Even Now |
-| B3 | Hotel Santa Cruz |
-| B4 | Woman Apart |
-| B5 | Send It Down The Line |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

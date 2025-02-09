@@ -31,10 +31,10 @@ styles: ["Art Rock", "Jazz-Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Lazarus |
-| A2 | No Plan |
-| A3 | Killing A Little Time |
-| A4 | When I Met You |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

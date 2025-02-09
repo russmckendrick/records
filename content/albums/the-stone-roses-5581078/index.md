@@ -38,17 +38,17 @@ In 2016, The Stone Roses released their first new material in two decades. The b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Wanna Be Adored |
-| A2 | She Bangs The Drums |
-| A3 | Waterfall |
-| A4 | Don't Stop |
-| A5 | Bye Bye Bad Man |
-| B1 | Elizabeth My Dear |
-| B2 | (Song For My) Sugar Spun Sister |
-| B3 | Made Of Stone |
-| B4 | Shoot You Down |
-| B5 | This Is The One |
-| B6 | I Am The Resurrection |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

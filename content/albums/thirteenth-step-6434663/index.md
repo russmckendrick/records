@@ -37,18 +37,18 @@ Thirteenth Step is the second studio album by American rock band A Perfect Circl
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Package |
-| A2 | Weak And Powerless |
-| A3 | The Noose |
-| B1 | Blue |
-| B2 | Vanishing |
-| B3 | A Stranger |
-| C1 | The Outsider |
-| C2 | Crimes |
-| C3 | The Nurse Who Loved Me |
-| D1 | Pet |
-| D2 | Lullaby |
-| D3 | Gravity |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

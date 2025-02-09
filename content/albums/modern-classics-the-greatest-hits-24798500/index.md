@@ -30,36 +30,36 @@ styles: ["Alternative Rock", "Pop Rock", "Mod"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Out Of The Sinking |
-| A2 | Peacock Suit |
-| A3 | Sunflower |
-| A4 | The Weaver |
-| A5 | Wild Wood |
-| A6 | Above The Clouds |
-| A7 | Uh-Huh Oh-Yeh |
-| A8 | Brushed |
-| B9 | The Changingman |
-| B10 | Friday Street |
-| B11 | You Do Something To Me |
-| B12 | Brand New Start |
-| B13 | Hung Up |
-| B14 | Mermaids |
-| B15 | Broken Stones |
-| B16 | Into Tomorrow |
-|  | Bonus Tracks: Live Classics |
-| C1 | Into Tomorrow |
-| C2 | Peacock Suit |
-| C3 | Friday Street |
-| C4 | Mermaids |
-| C5 | Out Of The Sinking |
-| C6 | Heavy Soul |
-| C7 | Wild Wood |
-| D1 | Up In Suze's Room |
-| D2 | (Can You Heal Us) Holy Man? |
-| D3 | Changing Man |
-| D4 | Porcelain Gods |
-| D5 | Sunflower |
-| D6 | Broken Stones |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

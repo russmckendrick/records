@@ -28,85 +28,85 @@ styles: ["Leftfield", "Pop Rock", "Indie Rock", "House", "Downtempo", "Synth-pop
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | 1 1978 - 79 |
-| A1 | Digital |
-| A2 | Baader Meinhof |
-| A3 | All Night Party |
-| A4 | Electricity (Factory Version) |
-| A5 | She's Lost Control |
-| A6 | Time Goes By So Slow |
-|  | 2 1979 - 80 |
-| B1 | Transmission |
-| B2 | Sketch For Summer |
-| B3 | English Black Boys |
-| B4 | Love Will Tear Us Apart |
-| B5 | Shack Up |
-|  | 3 1980 - 81 |
-| C1 | Girls Don't Count |
-| C2 | Sex Machine |
-| C3 | Flight |
-| C4 | Nightshift |
-|  | 4 1981 |
-| D1 | Ceremony (Original Version) |
-| D2 | Dolphin's Spurt |
-| D3 | It's Hard To Be An Egg |
-| D4 | Deaf |
-| D5 | Dirty Disco |
-|  | 5 1981 |
-| E1 | Everything's Gone Green |
-| E2 | Watching The Hydroplanes |
-| E3 | Messidor |
-| E4 | Knife Slits Water (LP Version) |
-|  | 6 1982 |
-| F1 | Art On 45 |
-| F2 | Taste What's Rhythm |
-| F3 | Temptation |
-|  | 7 1982 - 83 |
-| G1 | Cool As Ice |
-| G2 | Blue Monday |
-|  | 8 1982 - 84 |
-| H1 | Yashar (John Robie Remix) |
-| H2 | Love Tempo |
-| H3 | Talk About The Past |
-|  | 9 1983 - 84 |
-| I1 | Confusion |
-| I2 | Reach For Love |
-| I3 | Looking From A Hilltop (Megamix) |
-|  | 10 1984 - 85 |
-| J1 | All At Once |
-| J2 | Tell Me |
-| J3 | Without Mercy (Duet) |
-| J4 | Hymn From A Village |
-| J5 | Trickery |
-|  | 11 1985 - 87 |
-| K1 | Sounds Like Something Dirty |
-| K2 | Genius |
-| K3 | Freaky Dancin' |
-| K4 | When It All Comes Down |
-|  | 12 1987 |
-| L1 | Brighter |
-| L2 | Compressor |
-| L3 | True Faith |
-| L4 | 24 Hour Party People |
-|  | 13 1988 - 89 |
-| M1 | Fine Time |
-| M2 | W.F.L. (Think About The Future) |
-| M3 | Seven Reasons |
-|  | 14 1989 - 90 |
-| N1 | Hallelujah (Club Mix) |
-| N2 | Getting Away With It |
-| N3 | Step On |
-| N3 | Shall We Take A Trip |
-|  | 15 1990 - 91 |
-| O1 | World In Motion |
-| O2 | Kinky Afro |
-| O3 | Home |
-| O4 | Get The Message (DNA Remix) |
-|  | 16 1991 - 92 |
-| P1 | Take 5 |
-| P2 | Moves Like You (Remix) |
-| P3 | Tasty Fish |
-| P4 | Sunshine And Love (Lionrock Remix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -31,13 +31,13 @@ It might seem like SoCal stoner-rock kings Fu Manchu live on a planet populated 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Intelligent Worship |
-| A2 | (I've Been) Hexed |
-| A3 | Don't Panic |
-| A4 | Slower Than Light |
-| A5 | Nowhere Left To Hide |
-| A6 | Clone Of The Universe |
-| B | Il Mostro Atomico |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

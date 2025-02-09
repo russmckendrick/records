@@ -1,7 +1,7 @@
 ---
-title: "Working Mens Club - Working Men's Club"
-artist_name: "Working Mens Club"
-artist: "working-mens-club"
+title: "Working Men's Club (2) - Working Men's Club"
+artist_name: "Working Men's Club (2)"
+artist: "working-men-s-club"
 album_name: "Working Men's Club"
 date: 2020-10-02T12:21:00.000000Z
 release_date: "2020-10-02"
@@ -10,8 +10,8 @@ slug: "working-men-s-club-15993596"
 hideSummary: true
 cover:
     image: "working-men-s-club-15993596.jpg"
-    alt: "Working Men's Club by Working Mens Club"
-    caption: "Working Men's Club by Working Mens Club"
+    alt: "Working Men's Club by Working Men's Club (2)"
+    caption: "Working Men's Club by Working Men's Club (2)"
 additional_images:
     - "https://i.discogs.com/DYItMjxo-mW_Nomt_rh8OEzA4xkc2BwZiSVNAkvANU0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/NTk2LTE2MDE1NDU0/MzYtMjgwMy5qcGVn.jpeg"
     - "https://i.discogs.com/3g2tWGAOwDvWd7yYn57V2TT2WbC0074GJNmmuuA2DSk/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTkz/NTk2LTE2MDE1NDU3/MzAtMjEzMy5qcGVn.jpeg"
@@ -55,16 +55,16 @@ There aren’t many bands who undergo drastic sonic transformations <i>before</i
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Valleys |
-| A2 | A. A. A. A.  |
-| A3 | John Cooper Clarke |
-| A4 | White Rooms & People |
-| A5 | Outside |
-| B1 | Be My Guest |
-| B2 | Tomorrow |
-| B3 | Cook A Coffee |
-| B4 | Teeth |
-| B5 | Angel |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -83,4 +83,4 @@ There aren’t many bands who undergo drastic sonic transformations <i>before</i
 | Label          | Heavenly |
 | Catalog Number | HVNLP179C |
 | Notes | Some copies were signed by Sydney Minsky-Sargeant when purchased from WMC or Heavenly webstore.  Certain copies came with a Megamix CD [r16004209] |
-| Discogs URL    | [Working Mens Club - Working Men's Club](https://www.discogs.com/release/15993596-Working-Mens-Club-2-Working-Mens-Club) |
+| Discogs URL    | [Working Men's Club (2) - Working Men's Club](https://www.discogs.com/release/15993596-Working-Mens-Club-2-Working-Mens-Club) |

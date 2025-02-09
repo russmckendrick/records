@@ -36,26 +36,26 @@ On 27 November 2020, the compilation was released on vinyl for the first time as
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Peaches |
-| A2 | Golden Brown |
-| A3 | Walk On By |
-| A4 | No More Heroes |
-| A5 | Skin Deep |
-| B1 | Hanging Around |
-| B2 | All Day And All Of The Night |
-| B3 | Straighten Out |
-| B4 | Nice 'N' Sleazy |
-| B5 | Strange Little Girl |
-| B6 | Who Wants The World |
-| C1 | Something Better Change |
-| C2 | Always The Sun (Sunny Side Up Mix) |
-| C3 | European Female |
-| C4 | Grip '89 (Get A) Grip (On Yourself) |
-| C5 | Duchess |
-| D1 | 5 Minutes |
-| D2 | Don't Bring Harry |
-| D3 | La Folie |
-| D4 | 96 Tears |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

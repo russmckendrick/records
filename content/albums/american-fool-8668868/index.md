@@ -29,15 +29,15 @@ American Fool is the fifth studio album by American singer-songwriter John Couga
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hurts So Good |
-| A2 | Jack & Diane |
-| A3 | Hand To Hold On To |
-| A4 | Danger List |
-| A5 | Can You Take It |
-| B1 | Thundering Hearts |
-| B2 | China Girl |
-| B3 | Close Enough |
-| B4 | Weakest Moments |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

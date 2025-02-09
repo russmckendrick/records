@@ -39,20 +39,20 @@ The album peaked at No. 181 on the Billboard 200.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Heart On My Sleeve |
-| A2 | Next Generation |
-| A3 | American Crisis |
-| A4 | Fireball |
-| A5 | Forecast of Rain |
-| A6 | When You Left |
-| A7 | Siberian Butterfly |
-| A8 | Everyth!ng to You |
-| B1 | Racing to the End |
-| B2 | Baby Needs a Cookie |
-| B3 | Little Pieces |
-| B4 | Leather Dreams |
-| B5 | Password to My Soul |
-| B6 | The Ocean |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

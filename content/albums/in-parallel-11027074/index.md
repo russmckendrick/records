@@ -27,16 +27,16 @@ Hypnotic, compelling and at times unsettling: welcome to the vivid debut solo al
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Never Know |
-| A2 | #WarOnFalse |
-| A3 | Úlfur Resurrection |
-| B1 | Downtown Tigers |
-| B2 | London Water |
-| C1 | Summertime Police |
-| C2 | Poseidon (Keep Me Safe) |
-| C3 | The Light Under The Door |
-| D1 | All About Waiting |
-| D2 | Admiral Of Upside Down |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

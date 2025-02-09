@@ -43,16 +43,16 @@ The effort yielded some of Radiohead’s most memorable songs, as though time an
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | 15 Step |
-| A2 | Bodysnatchers |
-| A3 | Nude |
-| A4 | Weird Fishes/Arpeggi |
-| A5 | All I Need |
-| B1 | Faust Arp |
-| B2 | Reckoner |
-| B3 | House Of Cards |
-| B4 | Jigsaw Falling Into Place |
-| B5 | Videotape |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

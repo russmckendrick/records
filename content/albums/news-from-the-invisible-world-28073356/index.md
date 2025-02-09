@@ -1,6 +1,6 @@
 ---
-title: "The Fierce  The Dead - News From The Invisible World"
-artist_name: "The Fierce  The Dead"
+title: "The Fierce & The Dead - News From The Invisible World"
+artist_name: "The Fierce & The Dead"
 artist: "the-fierce-the-dead"
 album_name: "News From The Invisible World"
 date: 2023-08-25T07:07:46.000000Z
@@ -10,8 +10,8 @@ slug: "news-from-the-invisible-world-28073356"
 hideSummary: true
 cover:
     image: "news-from-the-invisible-world-28073356.jpg"
-    alt: "News From The Invisible World by The Fierce  The Dead"
-    caption: "News From The Invisible World by The Fierce  The Dead"
+    alt: "News From The Invisible World by The Fierce & The Dead"
+    caption: "News From The Invisible World by The Fierce & The Dead"
 additional_images:
     - "https://i.discogs.com/xFgOq4emByWuRvny4UXqcPxJQSUss3q_ueDfXseWeFY/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDcz/MzU2LTE2OTI5NzIx/NzktOTgwMS5qcGVn.jpeg"
     - "https://i.discogs.com/Bnscxum3jFXAvMbQbwOml-T5kGwJkp2fPW2CQoJUlF4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDcz/MzU2LTE2OTI5NzIx/ODctNjAyMS5qcGVn.jpeg"
@@ -29,14 +29,14 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A-1 | The Start |
-| A-2 | Shame The Jar |
-| A-3 | Golden Thread |
-| A-4 | Photogenic Love |
-| B-1 | Wonderful |
-| B-2 | Non-Player |
-| B-3 | What A Time To Be Alive |
-| B-4 | Nostalgia Now |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -54,4 +54,4 @@ styles: ["Prog Rock"]
 | Label          | Spencer Park Music |
 | Catalog Number | SPM003 |
 | Notes | Gatefold Vinyl 12". Special release day 'Wonderful' colourway. Limited to 250.  |
-| Discogs URL    | [The Fierce  The Dead - News From The Invisible World](https://www.discogs.com/release/28073356-The-Fierce-The-Dead-News-From-The-Invisible-World) |
+| Discogs URL    | [The Fierce & The Dead - News From The Invisible World](https://www.discogs.com/release/28073356-The-Fierce-The-Dead-News-From-The-Invisible-World) |

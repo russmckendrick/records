@@ -1,6 +1,6 @@
 ---
-title: "Helmet - Meantime"
-artist_name: "Helmet"
+title: "Helmet (2) - Meantime"
+artist_name: "Helmet (2)"
 artist: "helmet"
 album_name: "Meantime"
 date: 2017-06-25T13:42:40.000000Z
@@ -10,8 +10,8 @@ slug: "meantime-10471680"
 hideSummary: true
 cover:
     image: "meantime-10471680.jpg"
-    alt: "Meantime by Helmet"
-    caption: "Meantime by Helmet"
+    alt: "Meantime by Helmet (2)"
+    caption: "Meantime by Helmet (2)"
 additional_images:
     - "https://i.discogs.com/f7PZWu7g_aZsNWpnCYyZgXBRX3vMzMTJKYePjdcr-5I/rs:fit/g:sm/q:90/h:294/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDcx/NjgwLTE0OTgxNzE3/MTItNzY3MS5qcGVn.jpeg"
     - "https://i.discogs.com/lGyWedysA0vDHacBLJtIrHYRSkc753nDFDwA68fjNqI/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDcx/NjgwLTE0OTgxNzEz/NTAtOTgzOC5qcGVn.jpeg"
@@ -35,16 +35,16 @@ The lead single from Meantime, "Unsung", was a charting success on the US Modern
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | In The Meantime |
-| A2 | Ironhead |
-| A3 | Give It |
-| A4 | Unsung |
-| A5 | Turned Out |
-| B1 | He Feels Bad |
-| B2 | Better |
-| B3 | You Borrowed |
-| B4 | FBLA II |
-| B5 | Role Model |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ The lead single from Meantime, "Unsung", was a charting success on the US Modern
 | Label          | Interscope Records |
 | Catalog Number | B0026776-01 |
 | Notes | Recorded at Fun City, except "In the Meantime" recorded at Chicago Recording Company.  The catalog number B0026776-01 appears on the spine, the rear of the sleeve and the hype sticker. The catalog number B0026621-01 appears on the disc.  All songs copyright 1992 P. Hamilton, except "Unsung" copyright 1991 P. Hamilton, Warner-Tamerlane Publishing Corporation/Ver Music/Headlift Music (BMI)  ℗ 1992 © 2017 Interscope Records. |
-| Discogs URL    | [Helmet - Meantime](https://www.discogs.com/release/10471680-Helmet-2-Meantime) |
+| Discogs URL    | [Helmet (2) - Meantime](https://www.discogs.com/release/10471680-Helmet-2-Meantime) |

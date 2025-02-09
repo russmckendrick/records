@@ -1,6 +1,6 @@
 ---
-title: "Amplifier - Trippin' With Dr. Faustus"
-artist_name: "Amplifier"
+title: "Amplifier (3) - Trippin' With Dr. Faustus"
+artist_name: "Amplifier (3)"
 artist: "amplifier"
 album_name: "Trippin' With Dr. Faustus"
 date: 2018-08-12T09:43:08.000000Z
@@ -10,8 +10,8 @@ slug: "trippin-with-dr-faustus-10527271"
 hideSummary: true
 cover:
     image: "trippin-with-dr-faustus-10527271.jpg"
-    alt: "Trippin' With Dr. Faustus by Amplifier"
-    caption: "Trippin' With Dr. Faustus by Amplifier"
+    alt: "Trippin' With Dr. Faustus by Amplifier (3)"
+    caption: "Trippin' With Dr. Faustus by Amplifier (3)"
 additional_images:
     - "https://i.discogs.com/yBWM8-MSiu2uxcyFvbWYNMJSn44-KN5M6OitCJBMyTw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI3/MjcxLTE0OTkyNzcy/NzctNTI4MS5qcGVn.jpeg"
     - "https://i.discogs.com/Ez60rH0kRpt0P2eKt_ArYFvsmPfkIFxdgfZ_Mif5N3g/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTI3/MjcxLTE0OTkyNzcy/NzItMjU0My5qcGVn.jpeg"
@@ -39,16 +39,16 @@ styles: ["Space Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Rainbow Machine |
-| A2 | Freakzone |
-| B1 | Kosmos (Grooves Of Triumph) |
-| B2 | The Commotion (Big Time Party Maker) |
-| C1 | Big Daddy |
-| C2 | Horse |
-| C3 | Anubis |
-| D1 | Supernova |
-| D2 | Silvio |
-| D3 | Old Blue Eyes |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -66,4 +66,4 @@ styles: ["Space Rock", "Prog Rock"]
 | Label          | Rockosmos |
 | Catalog Number | ROK 16 |
 | Notes | The labels state "666 RPM", which is obviously incorrect. |
-| Discogs URL    | [Amplifier - Trippin' With Dr. Faustus](https://www.discogs.com/release/10527271-Amplifier-3-Trippin-With-Dr-Faustus) |
+| Discogs URL    | [Amplifier (3) - Trippin' With Dr. Faustus](https://www.discogs.com/release/10527271-Amplifier-3-Trippin-With-Dr-Faustus) |

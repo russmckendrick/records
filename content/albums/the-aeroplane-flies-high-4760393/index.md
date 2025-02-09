@@ -57,44 +57,44 @@ The Aeroplane Flies High is a five-disc box set released by American alternative
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Bullet With Butterfly Wings |
-| A1 | Bullet With Butterfly Wings |
-| A2 | ...Said Sadly |
-| A3 | You're All I've Got Tonight |
-| A4 | Clones (We're All) |
-| B1 | A Night Like This |
-| B2 | Destination Unknown |
-| B3 | Dreaming |
-|  | 1979 |
-| C1 | 1979 |
-| C2 | Ugly |
-| C3 | The Boy |
-| D1 | Cherry |
-| D2 | Believe |
-| D3 | Set The Ray To Jerry |
-|  | Zero |
-| E1 | Zero |
-| E2 | God |
-| E3 | Mouths Of Babes |
-| E4 | Tribute To Johnny |
-| E5 | Marquis In Spades |
-| E6 | Pennies |
-| F1 | Pastichio Medley (Early Fade Version) |
-|  | Tonight, Tonight |
-| G1 | Tonight, Tonight |
-| G2 | Meladori Magpie |
-| G3 | Rotten Apples |
-| H1 | Jupiter's Lament |
-| H2 | Medellia Of The Gray Skies |
-| H3 | Blank |
-| H4 | Tonite Reprise |
-|  | Thirty-Three |
-| I1 | Thirty-Three |
-| I2 | The Last Song |
-| I3 | The Aeroplane Flies High (Turns Left, Looks Right) |
-| J1 | Transformer |
-| J2 | The Bells |
-| J3 | My Blue Heaven |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

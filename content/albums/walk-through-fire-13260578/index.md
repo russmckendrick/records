@@ -1,6 +1,6 @@
 ---
-title: "Yola - Walk Through Fire"
-artist_name: "Yola"
+title: "Yola (4) - Walk Through Fire"
+artist_name: "Yola (4)"
 artist: "yola"
 album_name: "Walk Through Fire"
 date: 2019-03-27T19:31:10.000000Z
@@ -10,8 +10,8 @@ slug: "walk-through-fire-13260578"
 hideSummary: true
 cover:
     image: "walk-through-fire-13260578.jpg"
-    alt: "Walk Through Fire by Yola"
-    caption: "Walk Through Fire by Yola"
+    alt: "Walk Through Fire by Yola (4)"
+    caption: "Walk Through Fire by Yola (4)"
 additional_images:
     - "https://i.discogs.com/sMOCUhdx4bwg4TdNX8B5bn7aEQYPL-IJ6U47l5YQc0k/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYw/NTc4LTE1NTA5MjYx/MzUtMTA3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/vmAOW1vjrFBAEfBBqonBKwde0To3vhetsrUhE5XFHj8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjYw/NTc4LTE1NTI4Mzkw/NDMtNzg1Mi5qcGVn.jpeg"
@@ -32,18 +32,18 @@ styles: ["Soul", "Country", "Country Blues", "Contemporary R&B"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Faraway Look |
-| A2 | Shady Grove |
-| A3 | Ride Out In The Country |
-| A4 | It Ain't Easier |
-| A5 | Walk Through Fire |
-| A6 | Rock Me Gently |
-| B1 | Love All Night (Work All Day) |
-| B2 | Deep Blue Dream |
-| B3 | Lonely The Night |
-| B4 | Still Gone |
-| B5 | Keep Me Here |
-| B6 | Love Is Light |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -61,4 +61,4 @@ styles: ["Soul", "Country", "Country Blues", "Contemporary R&B"]
 | Label          | Easy Eye Sound |
 | Catalog Number | EES-008 |
 | Notes | Manufactured in the E.U. |
-| Discogs URL    | [Yola - Walk Through Fire](https://www.discogs.com/release/13260578-Yola-4-Walk-Through-Fire) |
+| Discogs URL    | [Yola (4) - Walk Through Fire](https://www.discogs.com/release/13260578-Yola-4-Walk-Through-Fire) |

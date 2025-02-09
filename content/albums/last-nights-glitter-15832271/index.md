@@ -26,16 +26,16 @@ styles: ["Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| 1 | Sing to God (Intro) |
-| 2 | All I Have |
-| 3 | The Weather |
-| 4 | MacbethMacbethMacbeth |
-| 5 | Ruins |
-| 6 | Dresden |
-| 7 | WHTHR (interlude) |
-| 8 | Will & Testament |
-| 9 | Former Glories/Bruising (Reprise) |
-| 10 | Last Night's Glitter |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

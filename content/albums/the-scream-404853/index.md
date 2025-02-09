@@ -1,6 +1,6 @@
 ---
-title: "Siouxsie  The Banshees - The Scream"
-artist_name: "Siouxsie  The Banshees"
+title: "Siouxsie & The Banshees - The Scream"
+artist_name: "Siouxsie & The Banshees"
 artist: "siouxsie-the-banshees"
 album_name: "The Scream"
 date: 2020-08-02T13:44:57.000000Z
@@ -10,8 +10,8 @@ slug: "the-scream-404853"
 hideSummary: true
 cover:
     image: "the-scream-404853.jpg"
-    alt: "The Scream by Siouxsie  The Banshees"
-    caption: "The Scream by Siouxsie  The Banshees"
+    alt: "The Scream by Siouxsie & The Banshees"
+    caption: "The Scream by Siouxsie & The Banshees"
 additional_images:
     - "https://i.discogs.com/9GSG-yNqE8elbf5TDr7KULtyx1SJU_cfHcDfj51bsF4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDg1/My0xMzE0MDQ2MzU4/LmpwZWc.jpeg"
     - "https://i.discogs.com/qe0_eNqnRuTTicop6o_ksmRZlqJnYsyzZMnn-HYlhyo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDg1/My0xMzE0MDQ2NDAx/LmpwZWc.jpeg"
@@ -34,16 +34,16 @@ Munch created two versions in paint and two in pastels, as well as a lithograph 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Pure |
-| A2 | Jigsaw Feeling |
-| A3 | Overground |
-| A4 | Carcass |
-| A5 | Helter Skelter |
-| B1 | Mirage |
-| B2 | Metal Postcard (Mittageissen) |
-| B3 | Nicotine Stain |
-| B4 | Suburban Relapse |
-| B5 | Switch |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -62,4 +62,4 @@ Munch created two versions in paint and two in pastels, as well as a lithograph 
 | Label          | Polydor |
 | Catalog Number | POLD 5009 |
 | Notes | Includes a printed inner sleeve with lyrics.  Mixed August 1978.  Centre label: © 1978 side 1 tracks 1-4 Pure Noise / Chappell & Co. Track 5 Northern Songs Ltd. Side 2 tracks 1-5 Pure Noise / Chappell & Co. ℗ 1978 Polydor Ltd. U.K.  Inner sleeve: ℗ 1978 Polydor Ltd. © 1978 Polydor Ltd.  Durations do not appear on this release. Timings via stopwatch.  On all variants runout data is stamped, except etched Ʊ [Lyre symbol] and variant 7 which has 'CW' as etched on both sides. |
-| Discogs URL    | [Siouxsie  The Banshees - The Scream](https://www.discogs.com/release/404853-Siouxsie-And-The-Banshees-The-Scream) |
+| Discogs URL    | [Siouxsie & The Banshees - The Scream](https://www.discogs.com/release/404853-Siouxsie-And-The-Banshees-The-Scream) |

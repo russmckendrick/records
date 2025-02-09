@@ -30,23 +30,23 @@ A royal peculiar is a Church of England parish or church exempt from the jurisdi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | First Act |
-| A1 | 86 The Mayo |
-| A2 | Peculiar |
-| A3 | Propaganda |
-| A4 | Crazy |
-| A5 | Set The Girl Free |
-| A6 | In Walked Capo |
-|  | Second Act |
-| B1 | I'd Rather Die Happy |
-| B2 | What Went Wrong |
-| B3 | Keep It Simple |
-| B4 | International War Criminal |
-| B5 | Sauron |
-| B6 | I Shall Be Released |
-|  | Encore 7" |
-| A | Rider |
-| B | Propaganda Dub |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

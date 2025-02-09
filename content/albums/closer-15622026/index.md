@@ -40,15 +40,15 @@ Today, Closer is widely recognised as a seminal release of the post-punk era. Fo
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Atrocity Exhibition |
-| A2 | Isolation |
-| A3 | Passover |
-| A4 | Colony |
-| A5 | A Means To An End |
-| B1 | Heart And Soul |
-| B2 | Twenty Four Hours |
-| B3 | The Eternal |
-| B4 | Decades |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

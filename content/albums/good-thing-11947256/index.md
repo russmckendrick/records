@@ -30,16 +30,16 @@ On his brilliant 2015 debut album, <I>Coming Home</I>, Texas singer/songwriter L
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Bet Ain't Worth The Hand |
-| A2 | Bad Bad News |
-| A3 | Shy |
-| A4 | Beyond |
-| A5 | Forgive You |
-| B1 | Lions |
-| B2 | If It Feels Good (Then It Must Be) |
-| B3 | You Don't Know |
-| B4 | Mrs. |
-| B5 | Georgia To Texas |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -40,10 +40,10 @@ Tales from Topographic Oceans received mixed reviews upon release and became a s
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | The Revealing Science Of God - Dance Of The Dawn |
-| B | The Remembering - High The Memory |
-| C | The Ancient - Giants Under The Sun |
-| D | Ritual - Nous Sommes Du Soleil |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

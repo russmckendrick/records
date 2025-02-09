@@ -34,14 +34,14 @@ Riding on the Tide of Love is the tenth studio album by Scottish band Deacon Blu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Riding On The Tide Of Love |
-| A2 | She Loved The Snow |
-| A3 | Nothing's Changed |
-| A4 | Look Up |
-| B1 | Time |
-| B2 | Send A Note Out  |
-| B3 | Not Gonna Be That Girl |
-| B4 | It's Still Early  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -41,24 +41,24 @@ styles: ["Folk Rock", "Acoustic", "Symphonic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Andromeda |
-| A2 | English Rose |
-| A3 | My Ever Changing Moods |
-| A4 | On Sunset |
-| B1 | Carnation |
-| B2 | Glad Times |
-| B3 | Broken Stones |
-| B4 | Gravity |
-| B5 | It's A Very Deep Sea |
-| C1 | Bowie |
-| C2 | Equanimity |
-| C3 | You're The Best Thing |
-| C4 | Still Glides The Stream |
-| C5 | Movin On |
-| D1 | Wild Wood |
-| D2 | Rockets |
-| D3 | You Do Something To Me |
-| D4 | White Horses |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -1,7 +1,7 @@
 ---
-title: "Terence Trent DArby - Introducing The Hardline According To Terence Trent D'Arby"
-artist_name: "Terence Trent DArby"
-artist: "terence-trent-darby"
+title: "Terence Trent D'Arby - Introducing The Hardline According To Terence Trent D'Arby"
+artist_name: "Terence Trent D'Arby"
+artist: "terence-trent-d-arby"
 album_name: "Introducing The Hardline According To Terence Trent D'Arby"
 date: 2020-08-01T12:44:10.000000Z
 release_date: "1987-06-04"
@@ -10,8 +10,8 @@ slug: "introducing-the-hardline-according-to-terence-trent-d-arby-9174511"
 hideSummary: true
 cover:
     image: "introducing-the-hardline-according-to-terence-trent-d-arby-9174511.jpg"
-    alt: "Introducing The Hardline According To Terence Trent D'Arby by Terence Trent DArby"
-    caption: "Introducing The Hardline According To Terence Trent D'Arby by Terence Trent DArby"
+    alt: "Introducing The Hardline According To Terence Trent D'Arby by Terence Trent D'Arby"
+    caption: "Introducing The Hardline According To Terence Trent D'Arby by Terence Trent D'Arby"
 additional_images:
     - "https://i.discogs.com/_v6Z2wR7AQX-WT46cIC8kfY7pgC7R6PcueIGy_1touQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzQ1/MTEtMTQ3NjI1NTAw/OC0yMTkxLmpwZWc.jpeg"
     - "https://i.discogs.com/a9ZPdMx-oiVRHMcM9P7sfdOMcKfTnHdsVM1WtbUxkG0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzQ1/MTEtMTQ3NjI1NTAw/NS04OTUzLmpwZWc.jpeg"
@@ -35,17 +35,17 @@ The album is titled on streaming music sites as Introducing the Hardline Accordi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | If You All Get To Heaven |
-| A2 | If You Let Me Stay |
-| A3 | Wishing Well |
-| A4 | I’ll Never Turn My Back On You (Father’s Words) |
-| A5 | Dance Little Sister |
-| A6 | Seven More Days |
-| B1 | Let’s Go Forward |
-| B2 | Rain |
-| B3 | Sign Your Name |
-| B4 | As Yet Untitled |
-| B5 | Who’s Loving You |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -64,4 +64,4 @@ The album is titled on streaming music sites as Introducing the Hardline Accordi
 | Label          | CBS |
 | Catalog Number | CBS 450911 1 |
 | Notes | Labels: Made in Holland  Back cover: ℗ 1987 CBS Records © 1987 CBS Records Printed in Holland Distribution CBS Records/CBS Disques S.A. In the UK apply for public performance licences to PPL, 14/22 Ganton Street, London W1.  Inner sleeve: Original sound recording made by CBS Records ℗ 1987 CBS Records All tracks (Young Terence Music/Virgin Music (Pub) Ltd) except "Wishing Well" (Young Terence Music/Virgin Music (Pub) Ltd/Chrysalis Music) and "Who's Loving You" (Ardmore & Beechwood Ltd/EMI)  Other infos: Issued with printed inner sleeve with lyrics, credits and photo.  The Bojangles are the musicians named on track A4, who also feature on A5 and, without Pete Glenister, on B2 and B5. The Trent Tones are Frank Collins and Ebo Ross, the backing vocalists on B2 & B5. The 'Shout It Out' Reply Vocal Choral Ensemble are the members of A5's Chorus. The sleeve credits read: "Plus A Really Hard Brass Section" in addition to those listed for track A5.  Smokey Robinson is credited for writing track B5 on the label, however as William Robinson on the inner sleeve.  |
-| Discogs URL    | [Terence Trent DArby - Introducing The Hardline According To Terence Trent D'Arby](https://www.discogs.com/release/9174511-Terence-Trent-DArby-Introducing-The-Hardline-According-To-Terence-Trent-DArby) |
+| Discogs URL    | [Terence Trent D'Arby - Introducing The Hardline According To Terence Trent D'Arby](https://www.discogs.com/release/9174511-Terence-Trent-DArby-Introducing-The-Hardline-According-To-Terence-Trent-DArby) |

@@ -33,24 +33,24 @@ styles: ["New Wave", "Post-Punk", "Art Rock", "Soundtrack", "Funk", "Pop Rock", 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Psycho Killer |
-| A2 | Heaven |
-| A3 | Thank You For Sending Me An Angel |
-| A4 | Found A Job |
-| A5 | Slippery People |
-| A6 | Cities |
-| B1 | Burning Down The House |
-| B2 | Life During Wartime |
-| B3 | Making Flippy Floppy |
-| B4 | Swamp |
-| C1 | What A Day That Was |
-| C2 | This Must Be The Place (Naïve Melody) |
-| C3 | Once In A Lifetime |
-| C4 | Big Business / I Zimbra |
-| D1 | Genius Of Love |
-| D2 | Girlfriend Is Better |
-| D3 | Take Me To The River |
-| D4 | Crosseyed And Painless |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

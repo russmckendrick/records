@@ -40,23 +40,23 @@ styles: ["Electro", "Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | The Heart Of Noise |
-| A3 | Brick England |
-| A4 | These Creatures |
-| A5 | As One |
-| B1 | Here For You |
-| B2 | Electrees |
-| B3 | Exit |
-| B4 | What You Want |
-| C1 | Gisele |
-| C2 | Switch On Leon |
-| C3 | Circus |
-| C4 | Why This, Why That And Why? |
-| D1 | The Architect |
-| D2 | Swipe To The Right |
-| D3 | Walking The Mile |
-| D4 | Falling Down |
-| D5 | The Heart Of Noise (The Origin) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

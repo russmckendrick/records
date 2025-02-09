@@ -38,15 +38,15 @@ The resulting album gave Franklin the crossover success she wanted. The delightf
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Freeway Of Love |
-| A2 | Another Night |
-| A3 | Sweet Bitter Love |
-| A4 | Who's Zoomin' Who |
-| B1 | Sisters Are Doin' It For Themselves |
-| B2 | Until You Say You Love Me |
-| B3 | Ain't Nobody Ever Loved You |
-| B4 | Push |
-| B5 | Integrity |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

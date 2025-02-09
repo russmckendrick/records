@@ -42,18 +42,18 @@ styles: ["Ska"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Freedom Highway |
-| A2 | Everybody Knows |
-| A3 | I Don't Mind Failing In This World |
-| A4 | Black, Brown And White |
-| A5 | Ain't Gonna Let Nobody Turn Us Around |
-| A6 | Fuck All The Perfect People |
-| B1 | My Next Door Neighbour |
-| B2 | Trouble Every Day |
-| B3 | Listening Wind |
-| B4 | I Live In A City |
-| B5 | Soldiers Who Want To Be Heroes |
-| B6 | Get Up, Stand Up |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

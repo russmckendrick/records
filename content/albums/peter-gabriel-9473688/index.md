@@ -39,15 +39,15 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Moribund The Burgermeister |
-| A2 | Solsbury Hill |
-| A3 | Modern Love |
-| A4 | Excuse Me |
-| A5 | Humdrum |
-| B1 | Slowburn |
-| B2 | Waiting For The Big One |
-| B3 | Down The Dolce Vita |
-| B4 | Here Comes The Flood |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

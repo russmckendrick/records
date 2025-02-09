@@ -40,18 +40,18 @@ It was also the first album to be produced by bassist and band founder Steve Har
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Be Quick Or Be Dead |
-| A2 | From Here To Eternity |
-| A3 | Afraid To Shoot Strangers |
-| B1 | Fear Is The Key |
-| B2 | Childhood's End |
-| B3 | Wasting Love |
-| C1 | The Fugitive |
-| C2 | Chains Of Misery |
-| C3 | The Apparition |
-| D1 | Judas Be My Guide |
-| D2 | Weekend Warrior |
-| D3 | Fear Of The Dark |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -39,30 +39,30 @@ Supported by six singles, the most since their debut, the album was received wit
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | People Give In |
-| A2 | International Blue |
-| A3 | Distant Colours |
-| A4 | Vivian |
-| A5 | Dylan & Caitlin |
-| A6 | Liverpool Revisited |
-| B7 | Sequels Of Forgotten Wars |
-| B8 | Hold Me Like A Heaven |
-| B9 | In Eternity |
-| B10 | Broken Algorithms |
-| B11 | A Song For The Sadness |
-| B12 | The Left Behind |
-| CD-1 | People Give In |
-| CD-2 | International Blue |
-| CD-3 | Distant Colours |
-| CD-4 | Vivian |
-| CD-5 | Dylan & Caitlin |
-| CD-6 | Liverpool Revisited |
-| CD-7 | Sequels Of Forgotten Wars |
-| CD-8 | Hold Me Like A Heaven |
-| CD-9 | In Eternity |
-| CD-10 | Broken Algorithms |
-| CD-11 | A Song For The Sadness |
-| CD-12 | The Left Behind |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -33,8 +33,8 @@ The song was rated #11 on the Australasian Performing Right Association's Top 10
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | I Got You |
-| B | Double Happy |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -36,16 +36,16 @@ Listen Without Prejudice Vol. 1 is the second solo studio album by the English s
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Praying For Time |
-| A2 | Freedom 90 |
-| A3 | They Won't Go When I Go |
-| A4 | Something To Save |
-| A5 | Cowboys And Angels |
-| B1 | Waiting For That Day |
-| B2 | Mothers Pride |
-| B3 | Heal The Pain |
-| B4 | Soul Free |
-| B5 | Waiting (Reprise) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

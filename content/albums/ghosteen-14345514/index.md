@@ -1,6 +1,6 @@
 ---
-title: "Nick Cave  The Bad Seeds - Ghosteen"
-artist_name: "Nick Cave  The Bad Seeds"
+title: "Nick Cave & The Bad Seeds - Ghosteen"
+artist_name: "Nick Cave & The Bad Seeds"
 artist: "nick-cave-the-bad-seeds"
 album_name: "Ghosteen"
 date: 2019-12-25T11:28:59.000000Z
@@ -10,8 +10,8 @@ slug: "ghosteen-14345514"
 hideSummary: true
 cover:
     image: "ghosteen-14345514.jpg"
-    alt: "Ghosteen by Nick Cave  The Bad Seeds"
-    caption: "Ghosteen by Nick Cave  The Bad Seeds"
+    alt: "Ghosteen by Nick Cave & The Bad Seeds"
+    caption: "Ghosteen by Nick Cave & The Bad Seeds"
 additional_images:
     - "https://i.discogs.com/QDo94SFW0kxSvR6O8Q05Lar6VI-01Kh1_tP7GLadbE4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ1/NTE0LTE1NzM5MTYz/MTMtNDQ2MS5qcGVn.jpeg"
     - "https://i.discogs.com/MpzrJwA0ddCijagHvSgZa8GGX4PJUuTm7tbxA7UxD3s/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQ1/NTE0LTE1NzM5MTYz/MTMtOTE2OC5qcGVn.jpeg"
@@ -45,19 +45,19 @@ Through these dreamlike, surreal stories, Cave is finding his path to peace. And
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Part 1 |
-| A1 | Spinning Song |
-| A2 | Bright Horses |
-| A3 | Waiting For You |
-| A4 | Night Raid |
-| B1 | Sun Forest |
-| B2 | Galleon Ship |
-| B3 | Ghosteen Speaks |
-| B4 | Leviathan |
-|  | Part 2 |
-| C1 | Ghosteen |
-| C2 | Fireflies |
-| D1 | Hollywood |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -76,4 +76,4 @@ Through these dreamlike, surreal stories, Cave is finding his path to peace. And
 | Label          | Ghosteen Ltd |
 | Catalog Number | BS016LP |
 | Notes | The version with "Made in The UK" instead can be found here:  [r32101671]  Housed in a gatefold jacket with poly-lined inner sleeves printed with lyrics, credits and recording info. Album download code included. The BS016LP catalog number follows the [l501701] label format.  Runout information: "STERLING" is machine engraved, the rest is hand-etched. The faintly inscribed Optimal plating marks are mirrored (e.g. '1II', 'VV', '+=2' & '2+T' for variant 2, and '-1' & '1+1' for variant 3).  [Inner sleeve LP 2:] This record is dedicated to [a259149] Recorded at Woodshed, Malibu / Nightbird, Los Angeles / Retreat, Brighton / Candybomber, Berlin Mixed [...] at Conway, Los Angeles [...] Orchestra recorded [...] at Air, London [...] Published by Kobalt Music Group Ltd ℗ & © 2019 Ghosteen Ltd Under exclusive license to AWAL Recordings Ltd Manufactured in the EU |
-| Discogs URL    | [Nick Cave  The Bad Seeds - Ghosteen](https://www.discogs.com/release/14345514-Nick-Cave-And-The-Bad-Seeds-Ghosteen) |
+| Discogs URL    | [Nick Cave & The Bad Seeds - Ghosteen](https://www.discogs.com/release/14345514-Nick-Cave-And-The-Bad-Seeds-Ghosteen) |

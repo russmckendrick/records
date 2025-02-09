@@ -45,20 +45,20 @@ What emerged was a pattern of emotional whiplash: You feel like you can topple t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Mr Self Destruct |
-| A2 | Piggy |
-| A3 | Heresy |
-| A4 | March Of The Pigs |
-| B1 | Closer |
-| B2 | Ruiner |
-| B3 | The Becoming |
-| C1 | I Do Not Want This |
-| C2 | Big Man With A Gun |
-| C3 | A Warm Place |
-| C4 | Eraser |
-| D1 | Reptile |
-| D2 | The Downward Spiral |
-| D3 | Hurt |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

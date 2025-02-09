@@ -1,6 +1,6 @@
 ---
-title: "Andy White - AT"
-artist_name: "Andy White"
+title: "Andy White (4) - AT"
+artist_name: "Andy White (4)"
 artist: "andy-white"
 album_name: "AT"
 date: 2023-04-07T04:35:37.000000Z
@@ -10,8 +10,8 @@ slug: "at-26677889"
 hideSummary: true
 cover:
     image: "at-26677889.jpg"
-    alt: "AT by Andy White"
-    caption: "AT by Andy White"
+    alt: "AT by Andy White (4)"
+    caption: "AT by Andy White (4)"
 additional_images:
     - "https://i.discogs.com/ZcWLiJFTLHlJLHrTes5a3hXWaLTJiYdSz0LzJGRBY8E/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njc3/ODg5LTE2ODA4Njcx/NTItMjU3My5qcGVn.jpeg"
     - "https://i.discogs.com/Zi70EdolubhqayzLm0NVrggFQsb8bYVFm6X6S4tFZ8o/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njc3/ODg5LTE2ODA4Njcx/NTYtODIxMy5qcGVn.jpeg"
@@ -31,18 +31,18 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | I |
-| A1 | The Sea Holds The Memory |
-| A2 | My Regeneration |
-| A3 | Bundle Of Their Dreams |
-| A4 | Everything Twice |
-| A5 | Save Me A Weekend |
-|  | II |
-| B1 | Three Sheep Grazing |
-| B2 | Best Fun Time For Ages |
-| B3 | It's Family |
-| B4 | The Happiness Index |
-| B5 | Rock 'N' Roll Star |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -60,4 +60,4 @@ styles: []
 | Label          | Floating World |
 | Catalog Number | FWLP052 |
 | Notes | Recorded in Melbourne and Auckland Mixed in Oxfordshire  ℗ 2023 Andy White & Tim Finn © 2023 Floating World Ltd. |
-| Discogs URL    | [Andy White - AT](https://www.discogs.com/release/26677889-Andy-White-4-Tim-Finn-AT) |
+| Discogs URL    | [Andy White (4) - AT](https://www.discogs.com/release/26677889-Andy-White-4-Tim-Finn-AT) |

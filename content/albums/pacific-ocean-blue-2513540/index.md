@@ -1,6 +1,6 @@
 ---
-title: "Dennis Wilson - Pacific Ocean Blue"
-artist_name: "Dennis Wilson"
+title: "Dennis Wilson (2) - Pacific Ocean Blue"
+artist_name: "Dennis Wilson (2)"
 artist: "dennis-wilson"
 album_name: "Pacific Ocean Blue"
 date: 2016-11-21T12:10:28.000000Z
@@ -10,8 +10,8 @@ slug: "pacific-ocean-blue-2513540"
 hideSummary: true
 cover:
     image: "pacific-ocean-blue-2513540.jpg"
-    alt: "Pacific Ocean Blue by Dennis Wilson"
-    caption: "Pacific Ocean Blue by Dennis Wilson"
+    alt: "Pacific Ocean Blue by Dennis Wilson (2)"
+    caption: "Pacific Ocean Blue by Dennis Wilson (2)"
 additional_images:
     - "https://i.discogs.com/SXBirSHcUOfHjhslrjk32lSs_Re1VuQNPlmsG1wI4k0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/NDAtMTY0NjUyMDUz/NC02NzM0LmpwZWc.jpeg"
     - "https://i.discogs.com/qkhBuDVkl-ccnSw-aILZTiM03ElwCiJAGlnL6DEG9Ow/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTM1/NDAtMTY0NjUyMDUz/Ni0yMjU0LmpwZWc.jpeg"
@@ -36,18 +36,18 @@ The album remains a focal point of Wilson's legacy, being referred to as a "clas
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | River Song |
-| A2 | What's Wrong |
-| A3 | Moonshine |
-| A4 | Friday Night |
-| A5 | Dreamer |
-| A6 | Thoughts Of You |
-| B1 | Time |
-| B2 | You And I |
-| B3 | Pacific Ocean Blues |
-| B4 | Farewell My Friend |
-| B5 | Rainbows |
-| B6 | End Of The Show |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -66,4 +66,4 @@ The album remains a focal point of Wilson's legacy, being referred to as a "clas
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP096 |
 | Notes | Issued in gatefold jacket, with printed inner sleeve with lyrics and credits.  Hype sticker affixed to outer bag: Music On Vinyl exclusively remastered 180 gram audiophile vinyl pressing  Recorded At: Brother Studios, Santa Monica, Calif. Mastered At: L.R.S. In Burbank, Calif.  Originally released ℗ & © 1977 Sony Music Entertainment. This release: ℗ & © 2010, Sony Music Entertainment. Manufactured & distributed by Music On Vinyl B.V. for Sony Music Entertainment. Made in the EU.  All songs published by Dennis Wilson Music ©1977 Dennis Wilson Music  Runouts are etched. |
-| Discogs URL    | [Dennis Wilson - Pacific Ocean Blue](https://www.discogs.com/release/2513540-Dennis-Wilson-2-Pacific-Ocean-Blue) |
+| Discogs URL    | [Dennis Wilson (2) - Pacific Ocean Blue](https://www.discogs.com/release/2513540-Dennis-Wilson-2-Pacific-Ocean-Blue) |

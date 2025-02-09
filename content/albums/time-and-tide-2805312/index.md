@@ -38,34 +38,34 @@ Time and Tide is the eighth album by the New Zealand new wave band Split Enz, re
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Time And Tide |
-| A1 | Dirty Creature |
-| A2 | Giant Heartbeat |
-| A3 | Hello Sandy Allen |
-| A4 | Never Ceases To Amaze Me |
-| A5 | Lost For Words |
-| A6 | Small World |
-| B1 | Take A Walk |
-| B2 | Pioneer |
-| B3 | Six Months In A Leaky Boat |
-| B4 | Haul Way |
-| B5 | Log Cabin Fever |
-| B6 | Make Sense Of It |
-|  | Frenzy |
-| C1 | I See Red |
-| C2 | Give It A Whirl |
-| C3 | Master Plan |
-| C4 | Betty |
-| C5 | Frenzy |
-| C6 | Stuff And Nonsense |
-| C7 | Marooned |
-| D1 | Hermitt McDermitt |
-| D2 | Holy Smoke |
-| D3 | Semi Detached |
-| D4 | Carried Away |
-| D5 | She Got Body |
-| D6 | Mind Over Matter |
-| D7 | Livin' It Up |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

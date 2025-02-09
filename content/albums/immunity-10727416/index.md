@@ -35,14 +35,14 @@ Immunity is the fourth studio album by English electronic musician and producer 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | We Disappear  |
-| A2 | Open Eye Signal  |
-| B1 | Breathe This Air  |
-| B2 | Collider  |
-| C1 | Abandon Window |
-| C2 | Form By Firelight |
-| D1 | Sun Harmonics |
-| D2 | Immunity |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

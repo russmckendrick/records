@@ -38,11 +38,11 @@ The infectious and proggy “Sabbra Cadabra” features some impromptu lines fro
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Black Sabbath |
-| A2 | The Wizard |
-| A3 | Wasp / Behind The Wall Of Sleep / Bassically / N.I.B. |
-| B1 | Wicked World |
-| B2 | A Bit Of Finger / Sleeping Village / Warning |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

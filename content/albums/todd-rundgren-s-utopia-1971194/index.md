@@ -1,6 +1,6 @@
 ---
-title: "Utopia - Todd Rundgren's Utopia"
-artist_name: "Utopia"
+title: "Utopia (5) - Todd Rundgren's Utopia"
+artist_name: "Utopia (5)"
 artist: "utopia"
 album_name: "Todd Rundgren's Utopia"
 date: 2022-03-06T04:57:55.000000Z
@@ -10,8 +10,8 @@ slug: "todd-rundgren-s-utopia-1971194"
 hideSummary: true
 cover:
     image: "todd-rundgren-s-utopia-1971194.jpg"
-    alt: "Todd Rundgren's Utopia by Utopia"
-    caption: "Todd Rundgren's Utopia by Utopia"
+    alt: "Todd Rundgren's Utopia by Utopia (5)"
+    caption: "Todd Rundgren's Utopia by Utopia (5)"
 additional_images:
     - "https://i.discogs.com/BH0clxm8YnNE223tTniSmMtZy_kudHUL5KD86FcS7jA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzEx/OTQtMTcyOTA3NDA2/OC0zMTM5LmpwZWc.jpeg"
     - "https://i.discogs.com/r9r1qWOUFcbqP_vQkdF2Zp8Q_RU7H669Vha4vT3T3v8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzEx/OTQtMTcyOTA3NDA2/OC02Njg3LmpwZWc.jpeg"
@@ -33,10 +33,10 @@ The album peaked at number 34 on the Billboard 200 and critical reaction towards
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Utopia |
-| A2 | Freak Parade |
-| A3 | Freedom Fighters |
-| B | The Ikon |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -55,4 +55,4 @@ The album peaked at number 34 on the Billboard 200 and critical reaction towards
 | Label          | Bearsville |
 | Catalog Number | K55501 |
 | Notes | Stamped runouts Lyrics printed on back sleeve. A Bearsville Recording distributed by WEA Records Ltd. ℗ & © 1974 All lyrics reproduced by kind permission of United Artists © 1974 |
-| Discogs URL    | [Utopia - Todd Rundgren's Utopia](https://www.discogs.com/release/1971194-Utopia-5-Todd-Rundgrens-Utopia) |
+| Discogs URL    | [Utopia (5) - Todd Rundgren's Utopia](https://www.discogs.com/release/1971194-Utopia-5-Todd-Rundgrens-Utopia) |

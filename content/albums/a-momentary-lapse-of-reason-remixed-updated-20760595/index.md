@@ -56,17 +56,17 @@ styles: ["Art Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Signs Of Life |
-| A2 | Learning To Fly |
-| A3 | The Dogs Of War |
-| B1 | One Slip |
-| B2 | On The Turning Away |
-| C1 | Yet Another Movie |
-| C2 | Round And Around |
-| C3 | A New Machine (Part 1) |
-| C4 | Terminal Frost |
-| C5 | A New Machine (Part 2) |
-| D1 | Sorrow |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

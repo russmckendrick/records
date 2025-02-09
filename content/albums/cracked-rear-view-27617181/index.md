@@ -1,6 +1,6 @@
 ---
-title: "Hootie  The Blowfish - Cracked Rear View"
-artist_name: "Hootie  The Blowfish"
+title: "Hootie & The Blowfish - Cracked Rear View"
+artist_name: "Hootie & The Blowfish"
 artist: "hootie-the-blowfish"
 album_name: "Cracked Rear View"
 date: 2023-07-08T10:37:29.000000Z
@@ -10,8 +10,8 @@ slug: "cracked-rear-view-27617181"
 hideSummary: true
 cover:
     image: "cracked-rear-view-27617181.jpg"
-    alt: "Cracked Rear View by Hootie  The Blowfish"
-    caption: "Cracked Rear View by Hootie  The Blowfish"
+    alt: "Cracked Rear View by Hootie & The Blowfish"
+    caption: "Cracked Rear View by Hootie & The Blowfish"
 additional_images:
     - "https://i.discogs.com/6KAPYV76x26fkiTjcW4MFxKMv31EsJnzaeYHmJuF3jw/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MTgxLTE2ODg5MzM4/NjUtODA5OS5qcGVn.jpeg"
     - "https://i.discogs.com/S7LhIpZ5oeB_OFgiUHQwiI_C-SXrCEFE4s9AKXbEGF8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MTgxLTE2ODg5MzM4/NjgtODc5MC5qcGVn.jpeg"
@@ -33,17 +33,17 @@ Cracked Rear View is the debut studio album by Hootie & the Blowfish, released o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hannah Jane |
-| A2 | Hold My Hand |
-| A3 | Let Her Cry |
-| A4 | Only Wanna Be With You |
-| A5 | Running From An Angel |
-| A6 | I'm Goin' Home |
-| B1 | Drowning |
-| B2 | Time |
-| B3 | Look Away |
-| B4 | Not Even The Trees |
-| B5 | Goodbye |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -62,4 +62,4 @@ Cracked Rear View is the debut studio album by Hootie & the Blowfish, released o
 | Label          | Atlantic |
 | Catalog Number | RCD1 82613 |
 | Notes | All songs published by Monica's Reluctance to Lob/EMI April Music Inc. ASCAP |
-| Discogs URL    | [Hootie  The Blowfish - Cracked Rear View](https://www.discogs.com/release/27617181-Hootie-The-Blowfish-Cracked-Rear-View) |
+| Discogs URL    | [Hootie & The Blowfish - Cracked Rear View](https://www.discogs.com/release/27617181-Hootie-The-Blowfish-Cracked-Rear-View) |

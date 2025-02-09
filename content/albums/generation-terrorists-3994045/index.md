@@ -55,25 +55,25 @@ On the back of significant media attention and a "disproportionately high press 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Slash N' Burn |
-| A2 | Nat West-Barclays-Midlands-Lloyds |
-| A3 | Born To End |
-| A4 | Motorcycle Emptiness |
-| A5 | You Love Us |
-| B1 | Love's Sweet Exile |
-| B2 | Little Baby Nothing |
-| B3 | Repeat (Stars And Stripes) |
-| B4 | Tennessee |
-| C1 | Another Invented Disease |
-| C2 | Stay Beautiful |
-| C3 | So Dead |
-| C4 | Repeat (UK) |
-| C5 | Spectators Of Suicide |
-| D1 | Damn Dog |
-| D2 | Crucifix Kiss |
-| D3 | Methadone Pretty |
-| D4 | Condemned To Rock 'N' Roll |
-| D5 | Theme From M*A*S*H (Suicide Is Painless) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

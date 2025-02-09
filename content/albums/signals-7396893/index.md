@@ -35,14 +35,14 @@ The album peaked at No. 1 in Canada, No. 3 in the United Kingdom, and No. 10 in 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Subdivisions |
-| A2 | The Analog Kid |
-| A3 | Chemistry |
-| A4 | Digital Man |
-| B1 | The Weapon |
-| B2 | New World Man |
-| B3 | Losing It |
-| B4 | Countdown |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

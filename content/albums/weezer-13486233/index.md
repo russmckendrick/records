@@ -39,16 +39,16 @@ Rivers Cuomo was a Kiss fan, and you could tell by listening, if not by looking:
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Africa |
-| A2 | Everybody Wants To Rule The World |
-| A3 | Sweet Dreams (Are Made Of This) |
-| A4 | Take On Me |
-| A5 | Happy Together |
-| B1 | Paranoid |
-| B2 | Mr. Blue Sky |
-| B3 | No Scrubs |
-| B4 | Billie Jean |
-| B5 | Stand By Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

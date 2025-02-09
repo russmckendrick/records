@@ -34,18 +34,18 @@ Yummy is the eighteenth studio album by British indie rock band James, released 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Is This Love |
-| A2 | Life's A Fucking Miracle |
-| A3 | Better With You |
-| A4 | Stay |
-| A5 | Shadow Of A Giant |
-| A6 | Way Over Your Head |
-| B1 | Mobile God |
-| B2 | Our World |
-| B3 | Rogue |
-| B4 | Hey |
-| B5 | Butterfly |
-| B6 | Folks |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

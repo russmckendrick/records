@@ -1,6 +1,6 @@
 ---
-title: "The Smile - A Light For Attracting Attention"
-artist_name: "The Smile"
+title: "The Smile (5) - A Light For Attracting Attention"
+artist_name: "The Smile (5)"
 artist: "the-smile"
 album_name: "A Light For Attracting Attention"
 date: 2022-06-18T05:47:15.000000Z
@@ -10,8 +10,8 @@ slug: "a-light-for-attracting-attention-23608229"
 hideSummary: true
 cover:
     image: "a-light-for-attracting-attention-23608229.jpg"
-    alt: "A Light For Attracting Attention by The Smile"
-    caption: "A Light For Attracting Attention by The Smile"
+    alt: "A Light For Attracting Attention by The Smile (5)"
+    caption: "A Light For Attracting Attention by The Smile (5)"
 additional_images:
     - "https://i.discogs.com/bjE1fUeiahWQFQQj7oHFzcc9c-uvpVudsinUDO1aPcI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE3MDA1MTUy/NDgtODY1MC5qcGVn.jpeg"
     - "https://i.discogs.com/FeQufFphiBDug0BSRrz3iT9QPK28GATyGyW6hfUzT3o/rs:fit/g:sm/q:90/h:283/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjA4/MjI5LTE2NTU2NDQ2/NjMtNzI0OS5qcGVn.jpeg"
@@ -50,19 +50,19 @@ The album closes with “Skrting on the Surface”, a song first aired at a 2009
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Same |
-| A2 | The Opposite |
-| A3 | You Will Never Work In Television Again |
-| B1 | Pana-Vision |
-| B2 | The Smoke |
-| B3 | Speech Bubbles |
-| C1 | Thin Thing |
-| C2 | Open The Floodgates |
-| C3 | Free In The Knowledge |
-| D1 | A Hairdryer |
-| D2 | Waving A White Flag |
-| D3 | We Don't Know What Tomorrow Brings |
-| D4 | Skrting On The Surface |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -81,4 +81,4 @@ The album closes with “Skrting on the Surface”, a song first aired at a 2009
 | Label          | XL Recordings |
 | Catalog Number | XL1196LPE |
 | Notes | Optimal pressing.  Copies purchased direct from XL Recordings online store came with a “THE SMILE” postcard. Packaged in a gatefold cover with a satin feel coating finish and spot-gloss text to the front. Includes matte finish printed inner sleeves. Undersized picture labels. Yellow hype sticker and barcode sticker are both applied to the shrink-wrap.  Tracks are numbered sequentially across sides in the inner gatefold.  Front sticker: Debut album from new group The Smile Comprising Radiohead's Thom Yorke and Jonny Greenwood, and Sons Of Kemet's Tom Skinner Limited edition yellow vinyl  Recorded at Wack Formula London Mastered [...] at Gateway Mastering, Portland, Maine Strings [...] recorded at Air Edel Studio  Woodblock lettering from a collection held by The Bodleian Library, Oxford Digital fonts by Andrew Leman at HPLHS.org  ℗2022 Self Help Tapes LLP under exclusive license to XL Recordings Ltd. ©2022 Self Help Tapes LLP under exclusive license to XL Recordings Ltd. Published by Warner Chappell Music, Kobalt Music and Copyright Control. |
-| Discogs URL    | [The Smile - A Light For Attracting Attention](https://www.discogs.com/release/23608229-The-Smile-5-A-Light-For-Attracting-Attention) |
+| Discogs URL    | [The Smile (5) - A Light For Attracting Attention](https://www.discogs.com/release/23608229-The-Smile-5-A-Light-For-Attracting-Attention) |

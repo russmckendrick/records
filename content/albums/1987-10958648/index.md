@@ -35,27 +35,27 @@ styles: ["Classic Rock", "Hard Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | 2017 Remaster |
-| A1 | Still Of The Night |
-| A2 | Bad Boys |
-| A3 | You're Gonna Break My Heart Again |
-| A4 | Straight For The Heart |
-| A5 | Here I Go Again 87 |
-| B1 | Give Me All Your Love |
-| B2 | Is This Love |
-| B3 | Children Of The Night |
-| B4 | Crying In The Rain |
-| B5 | Don't Turn Away |
-|  | Bonus Material |
-| C1 | Still Of The Night (2017 Remix) |
-| C2 | Is This Love (2017 Remix) |
-| C3 | Give Me All Your Love (2017 Remix) |
-| C4 | Here I Go Again 87 (2017 Remix) |
-| C5 | Looking For Love |
-| D1 | Here I Go Again (Live) |
-| D2 | Is This Love (Live) |
-| D3 | Give Me All Your Love (Live) |
-| D4 | Still of the Night (Live) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

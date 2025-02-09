@@ -28,16 +28,16 @@ styles: ["Krautrock", "Space Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Easy Listening |
-| A1 | Avant Garde M.O.R. |
-| A2 | Space Age Bachelor Pad Music (Mellow) |
-| A3 | The Groop Play Chord X |
-| A4 | Space Age Bachelor Pad Music (Foamy) |
-| A5 | Ronco Symphony |
-|  | New Wave |
-| B1 | We're Not Adult Orientated |
-| B2 | U.H.F. - M.F.P. |
-| B3 | We're Not Adult Orientated (Neu Wave Live) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

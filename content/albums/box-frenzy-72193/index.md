@@ -34,18 +34,18 @@ At the end of 1987, the NME ranked the album at number 49 in their list of the t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Grebo Guru |
-| A2 | Beaver Patrol |
-| A3 | Let's Get Ugly |
-| A4 | U.B.L.U.D. |
-| A5 | Inside You |
-| A6 | Evelyn |
-| B1 | There Is No Love Between Us Anymore |
-| B2 | She's Surreal |
-| B3 | Intergalactic Love Mission |
-| B4 | Love Missile F1-11 |
-| B5 | Hit The Hi-Tech Groove |
-| B6 | Razorblade Kisses |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

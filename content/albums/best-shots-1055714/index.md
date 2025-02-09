@@ -32,18 +32,18 @@ Best Shots is a Platinum-certified greatest hits album released by the American 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hit Me With Your Best Shot |
-| A2 | Love Is A Battlefield |
-| A3 | We Belong |
-| A4 | We Live For Love |
-| A5 | Sex As A Weapon |
-| A6 | Invincible (Theme From The Legend Of Billie Jean) |
-| B1 | Shadows Of The Night |
-| B2 | Heartbreaker |
-| B3 | Fire & Ice |
-| B4 | Treat Me Right |
-| B5 | If You Think You Know How To Love Me |
-| B6 | You Better Run |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

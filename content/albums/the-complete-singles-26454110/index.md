@@ -41,30 +41,30 @@ Discography: The Complete Singles Collection is the first greatest hits album by
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Keep The Circle Around |
-| A2 | Butterfly |
-| A3 | Joe |
-| A4 | Find Out Why |
-| A5 | Move |
-| A6 | This Is How It Feels |
-| A7 | She Comes In The Fall |
-| B1 | Biggest Mountain |
-| B2 | Weakness |
-| B3 | Caravan |
-| B4 | Please Be Cruel |
-| B5 | Dragging Me Down |
-| C1 | Two Worlds Collide |
-| C2 | Generations |
-| C3 | Bitches Brew |
-| C4 | How It Should Be |
-| C5 | Saturn 5 |
-| C6 | I Want You |
-| D1 | Uniform |
-| D2 | Come Back Tomorrow |
-| D3 | You’re So Good For Me |
-| D4 | Fix Your Smile |
-| D5 | Spitfire |
-| D6 | Let You Down (Edit) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

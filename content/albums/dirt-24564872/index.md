@@ -39,19 +39,19 @@ Guitarist Jerry Cantrell later recalled that Staley’s addiction was then so se
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Them Bones |
-| A2 | Dam That River |
-| A3 | Rain When I Die |
-| B1 | Down In A Hole |
-| B2 | Sickman |
-| B3 | Rooster |
-| C1 | Junkhead |
-| C2 | Dirt |
-| C3 | Godsmack |
-| C4 | Untitled |
-| D1 | Hate To Feel |
-| D2 | Angry Chair |
-| D3 | Would? |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

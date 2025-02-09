@@ -36,16 +36,16 @@ The Southern Harmony and Musical Companion is the second studio album by America
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Sting Me |
-| A2 | Remedy |
-| B1 | Thorn In My Pride |
-| B2 | Bad Luck Blue Eyes Goodbye |
-| C1 | Sometimes Salvation |
-| C2 | Hotel Illness |
-| C3 | Black Moon Creeping |
-| D1 | No Speak No Slave |
-| D2 | My Morning Song |
-| D3 | Time Will Tell |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

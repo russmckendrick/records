@@ -1,6 +1,6 @@
 ---
-title: "Neu - Neu! '86"
-artist_name: "Neu"
+title: "Neu! - Neu! '86"
+artist_name: "Neu!"
 artist: "neu"
 album_name: "Neu! '86"
 date: 2021-06-08T04:53:12.000000Z
@@ -10,8 +10,8 @@ slug: "neu-86-2376449"
 hideSummary: true
 cover:
     image: "neu-86-2376449.jpg"
-    alt: "Neu! '86 by Neu"
-    caption: "Neu! '86 by Neu"
+    alt: "Neu! '86 by Neu!"
+    caption: "Neu! '86 by Neu!"
 additional_images:
     - "https://i.discogs.com/7jbDaSFBjVwjv2yVkAcm9HBcIUfkZVKhCqywMcS481c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzY0/NDktMTU1MzQyMjI1/My02MTI4LmpwZWc.jpeg"
     - "https://i.discogs.com/csj05kbhxppTPa8S0u7v0X3sv4XIDusLWRFU98uj-YE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzY0/NDktMTQ1Njk3MzU4/OC01NDQxLmpwZWc.jpeg"
@@ -30,19 +30,19 @@ styles: ["Krautrock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Intro (Haydn Slo-Mo) |
-| A2 | Dänzing |
-| A3 | Crazy |
-| A4 | Drive (Grundfunken) |
-| A5 | La Bomba (Stop Apartheid World-Wide!) |
-| A6 | Elanoizan |
-| B1 | Wave Mother |
-| B2 | Paradise Walk |
-| B3 | Euphoria |
-| B4 | Vier 1/2 |
-| B5 | Good Life |
-| B6 | November |
-| B7 | KD |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -60,4 +60,4 @@ styles: ["Krautrock"]
 | Label          | Grönland Records |
 | Catalog Number | LPGRONIV |
 | Notes | NEU! '86 was produced, recorded, mixed, played, composed, programmed etc. from Okt. '85 until April '86 [...] in Grundfunk-Studio Düsseldorf, Dingerland-Lilienthal Studio Düsseldorf, Michael Rother's Sterntaler Studio Forst.  Basic recordings for tracks A3, 4, 5 and B1, 2 engineered [...] in Grundfunk Studio, Düsseldorf, in October and November 1985.  NEU! '86 was reworked [...] with original master and multi-track tapes from July until December 2009.  Mastering [...] Master & Servant. Hamburg. January 2010.  To Klaus, with respect and gratitude for the inspiration he gave me and for his unique artistic contributions to NEU! (Michael Rother).  Polaroid and Grundfund Studio view, 1985. Portraits from Video Stills, 1985 / courtesy of la-duesseldorf.de  All titles P+C 2010 Dinger / Rother for Grönland Records  Made in EU |
-| Discogs URL    | [Neu - Neu! '86](https://www.discogs.com/release/2376449-Neu-Neu-86) |
+| Discogs URL    | [Neu! - Neu! '86](https://www.discogs.com/release/2376449-Neu-Neu-86) |

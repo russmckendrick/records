@@ -26,24 +26,24 @@ styles: ["Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Silent Earthling |
-| A2 | Strebek |
-| A3 | Kraken |
-| B1 | Blimp |
-| B2 | Engrams |
-| B3 | Tekkers |
-| C1 | Hemisphere |
-| C2 | Rainbow Road |
-| C3 | Elsewhere |
-| CD-1 | Silent Earthling |
-| CD-2 | Strebek |
-| CD-3 | Kraken |
-| CD-4 | Blimp |
-| CD-5 | Engrams |
-| CD-6 | Tekkers |
-| CD-7 | Hemisphere |
-| CD-8 | Rainbow Road |
-| CD-9 | Elsewhere |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

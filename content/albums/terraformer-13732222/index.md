@@ -32,19 +32,19 @@ styles: ["Prog Rock", "Jazz-Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Wrinkle |
-| A2 | FXMLDR |
-| A3 | Swarm |
-| A4 | Son Of A Serpent |
-| B1 | Birdwatching |
-| B2 | Everyday Ghosts |
-| B3 | Chromology |
-| C1 | Geronimo |
-| C2 | The Life Of Vermin |
-| C3 | Shatner's Lament |
-| D1 | Anchor |
-| D2 | New Moon |
-| D3 | Terraformer |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -41,11 +41,11 @@ Though the band members were initially proud of their work on Caress of Steel, t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Bastille Day |
-| A2 | I Think I'm Going Bald |
-| A3 | Lakeside Park |
-|  | The Necromancer |
-|  | The Fountain Of Lamneth |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

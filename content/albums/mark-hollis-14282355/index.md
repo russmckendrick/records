@@ -36,14 +36,14 @@ This is the only solo album from former Talk Talk singer Mark Hollis. Like the l
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Colour Of Spring |
-| A2 | Watershed |
-| A3 | Inside Looking Out |
-| A4 | The Gift |
-| B5 | A Life (1895 - 1915) |
-| B6 | Westward Bound |
-| B7 | The Daily Planet |
-| B8 | A New Jerusalem |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -36,16 +36,16 @@ All Boro Kings is the first studio album by American band Dog Eat Dog, released 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | If These Are Good Times |
-| A2 | Think |
-| A3 | No Fronts |
-| A4 | Pull My Finger |
-| A5 | Who's The King? |
-| B6 | Strip Song |
-| B7 | Queen |
-| B8 | In The Doghouse |
-| B9 | Funnel King |
-| B10 | What Comes Around |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

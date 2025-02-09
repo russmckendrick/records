@@ -44,45 +44,45 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Come On Pilgrim |
-| A1 | Caribou |
-| A2 | Vamos |
-| A3 | Isla De Encanta |
-| A4 | Ed Is Dead |
-| B5 | The Holiday Song |
-| B6 | Nimrod's Son |
-| B7 | I've Been Tired |
-| B8 | Levitate Me |
-|  | Surfer Rosa |
-| C1 | Bone Machine |
-| C2 | Break My Body |
-| C3 | Something Against You |
-| C4 | Broken Face |
-| C5 | Gigantic |
-| C6 | River Euphrates |
-| D7 | Where Is My Mind? |
-| D8 | Cactus |
-| D9 | Tony's Theme |
-| D10 | Oh My Golly! |
-| D11 | Vamos |
-| D12 | I'm Amazed |
-| D13 | Brick Is Red |
-|  | Live From The Fallout Shelter |
-| E1 | The Holiday Song |
-| E2 | I'm Amazed |
-| E3 | Rock A My Soul |
-| E4 | Isla De Encanta |
-| E5 | Caribou |
-| E6 | Broken Face |
-| E7 | Subbacultcha |
-| E8 | Build High |
-| F9 | Ed Is Dead |
-| F10 | Nimrod's Son |
-| F11 | Down To The Well  |
-| F12 | I've Been Tired |
-| F13 | Boom Chicka Boom |
-| F14 | Vamos |
-| F15 | In Heaven |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

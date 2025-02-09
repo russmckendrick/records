@@ -34,17 +34,17 @@ And, boy—does the knife gleam on <i>Pretzel Logic</i>. Even the album’s comf
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Rikki Don't Lose That Number |
-| A2 | Night By Night |
-| A3 | Any Major Dude Will Tell You |
-| A4 | Barrytown |
-| A5 | East St. Louis Toodle-oo |
-| B1 | Parker's Band |
-| B2 | Through With Buzz |
-| B3 | Pretzel Logic |
-| B4 | With A Gun |
-| B5 | Charlie Freak |
-| B6 | Monkey In Your Soul |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

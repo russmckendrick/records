@@ -38,18 +38,18 @@ Lost Souls was considered by many to be the best debut album by a British act si
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Firesuite |
-| A2 | Here It Comes  |
-| A3 | Break Me Gently |
-| B4 | Sea Song |
-| B5 | Rise |
-| B6 | Lost Souls |
-| C7 | Melody Calls |
-| C8 | Catch The Sun |
-| C9 | The Man Who Told Everything  |
-| D10 | The Cedar Room |
-| D11 | Reprise |
-| D12 | A House  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

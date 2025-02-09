@@ -30,16 +30,16 @@ styles: ["Soundtrack", "Synth-pop", "Disco"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Bit By Bit (Theme From "Fletch") |
-| A2 | Fletch, Get Outta Town |
-| A3 | Running For Love |
-| A4 | Name Of The Game |
-| A5 | Fletch Theme |
-| B1 | A Letter To Both Sides |
-| B2 | Is It Over |
-| B3 | Diggin' In |
-| B4 | Exotic Skates |
-| B5 | Running For Love (Instrumental) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

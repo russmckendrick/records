@@ -27,30 +27,30 @@ styles: ["Trip Hop", "Beatdown"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Intro |
-| A2 | Close But Not Quite |
-| A3 | She Said |
-| A4 | Wet Looking Road |
-| A5 | Mountains Of Gold |
-| A6 | Show Love |
-| B1 | Echoes In The Bone (Interlude) |
-| B2 | Bloodshot Red Eyes |
-| B3 | Cane |
-| B4 | Purify (Interlude) |
-| B5 | Be My Friend |
-| B6 | Everything Is Recorded |
-| CD-1 | Intro |
-| CD-2 | Close But Not Quite |
-| CD-3 | She Said |
-| CD-4 | Wet Looking Road |
-| CD-5 | Mountains Of Gold |
-| CD-6 | Show Love |
-| CD-7 | Echoes In The Bone (Interlude) |
-| CD-8 | Bloodshot Red Eyes |
-| CD-9 | Cane |
-| CD-10 | Purify (Interlude) |
-| CD-11 | Be My Friend |
-| CD-12 | Everything Is Recorded |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

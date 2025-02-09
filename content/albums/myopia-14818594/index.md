@@ -37,16 +37,16 @@ Myopia is the fourth studio album by Danish singer-songwriter Agnes Obel. It was
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Camera's Rolling |
-| A2 | Broken Sleep |
-| A3 | Island Of Doom |
-| A4 | Roscian |
-| A5 | Myopia |
-| B1 | Drosera |
-| B2 | Can't Be |
-| B3 | Parliament Of Owls |
-| B4 | Promise Keeper |
-| B5 | Won't You Call Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -1,6 +1,6 @@
 ---
-title: "T Rex - Electric Warrior"
-artist_name: "T Rex"
+title: "T. Rex - Electric Warrior"
+artist_name: "T. Rex"
 artist: "t-rex"
 album_name: "Electric Warrior"
 date: 2017-01-27T19:40:03.000000Z
@@ -10,8 +10,8 @@ slug: "electric-warrior-6271897"
 hideSummary: true
 cover:
     image: "electric-warrior-6271897.jpg"
-    alt: "Electric Warrior by T Rex"
-    caption: "Electric Warrior by T Rex"
+    alt: "Electric Warrior by T. Rex"
+    caption: "Electric Warrior by T. Rex"
 additional_images:
     - "https://i.discogs.com/9KQLzzYUFG034PcJE6y86iNTgw2ywIrFoin571dKj38/rs:fit/g:sm/q:90/h:385/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzE4/OTctMTQxNzA4MTky/MS0zMTQ3LmpwZWc.jpeg"
     - "https://i.discogs.com/P28SFaivwHSPUBZZmOiuXNdYL8LVt4HAH6Krgh35t5o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzE4/OTctMTcyMDMwNTIz/Ni05MDM2LmpwZWc.jpeg"
@@ -36,17 +36,17 @@ The album reached number one on the UK Albums Chart and became the best-selling 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Mambo Sun |
-| A2 | Cosmic Dancer |
-| A3 | Jeepster |
-| A4 | Monolith |
-| A5 | Lean Woman Blues |
-| B1 | Get It On |
-| B2 | Planet Queen |
-| B3 | Girl |
-| B4 | The Motivator |
-| B5 | Life's A Gas |
-| B6 | Rip Off |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -65,4 +65,4 @@ The album reached number one on the UK Albums Chart and became the best-selling 
 | Label          | A&M Records |
 | Catalog Number | 535 407-6 |
 | Notes | Plus download code. |
-| Discogs URL    | [T Rex - Electric Warrior](https://www.discogs.com/release/6271897-T-Rex-Electric-Warrior) |
+| Discogs URL    | [T. Rex - Electric Warrior](https://www.discogs.com/release/6271897-T-Rex-Electric-Warrior) |

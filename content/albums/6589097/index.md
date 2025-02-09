@@ -36,22 +36,22 @@ styles: ["Abstract", "Post Rock", "Ambient"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Untitled |
-| A2 | Untitled |
-| A3 | Untitled |
-| B1 | Untitled |
-| B2 | Untitled |
-| C1 | Untitled |
-| C2 | Untitled |
-| D | Untitled |
-| CD-1 | Untitled |
-| CD-2 | Untitled |
-| CD-3 | Untitled |
-| CD-4 | Untitled |
-| CD-5 | Untitled |
-| CD-6 | Untitled |
-| CD-7 | Untitled |
-| CD-8 | Untitled |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

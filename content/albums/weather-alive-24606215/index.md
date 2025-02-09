@@ -38,14 +38,14 @@ Weather Alive is the eighth studio album by English singer-songwriter Beth Orton
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Weather Alive |
-| A2 | Friday Night |
-| A3 | Fractals |
-| A4 | Haunted Satellite |
-| B1 | Forever Young |
-| B2 | Lonely |
-| B3 | Arms Around A Memory |
-| B4 | Unwritten |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

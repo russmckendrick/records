@@ -37,16 +37,16 @@ The album was a commercial success in the UK, reaching number 5 in the UK Albums
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Come Home |
-| A2 | Teenage Angst |
-| A3 | Bionic |
-| A4 | 36 Degrees |
-| A5 | Hang On To Your IQ |
-| B1 | Nancy Boy |
-| B2 | I Know |
-| B3 | Bruise Pristine |
-| B4 | Lady Of The Flowers |
-| B5 | Swallow |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -1,6 +1,6 @@
 ---
-title: "Sleeper - Smart"
-artist_name: "Sleeper"
+title: "Sleeper (2) - Smart"
+artist_name: "Sleeper (2)"
 artist: "sleeper"
 album_name: "Smart"
 date: 2020-06-08T12:58:31.000000Z
@@ -10,8 +10,8 @@ slug: "smart-15425944"
 hideSummary: true
 cover:
     image: "smart-15425944.jpg"
-    alt: "Smart by Sleeper"
-    caption: "Smart by Sleeper"
+    alt: "Smart by Sleeper (2)"
+    caption: "Smart by Sleeper (2)"
 additional_images:
     - "https://i.discogs.com/ZJlpwVMKL7FxavC_47M_IvQIrPPQZp-PSs78omILDLE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI1/OTQ0LTE1OTM3OTIx/MjQtNjc0Mi5qcGVn.jpeg"
     - "https://i.discogs.com/4539_Z7peLQc8kSOgizilrzfMB-Bp1xj6T5BV_BCl-I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDI1/OTQ0LTE1OTEzNTI1/MjgtMTU2OS5qcGVn.jpeg"
@@ -55,29 +55,29 @@ Smart is the debut studio album by English rock band Sleeper, released on 13 Feb
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Inbetweener |
-| A2 | Swallow |
-| A3 | Delicious |
-| A4 | Hunch |
-| A5 | Amuse |
-| A6 | Bedhead |
-| A7 | Lady Love Your Countryside |
-| B8 | Vegas |
-| B9 | Poor Flying Man |
-| B10 | Alice In Vain |
-| B11 | Twisted |
-| B12 | Pyrotechnician |
-|  | Bonus Tracks |
-| C1 | Bedside Manners |
-| C2 | Tatty |
-| C3 | Little Annie |
-| C4 | It's Wrong Of You To Breed |
-| C5 | One Girl Dreaming |
-| D6 | Alice In Vain (Single Version) |
-| D7 | Hymn To Her |
-| D8 | Big Nurse |
-| D9 | Ha Ha You're Dead |
-| D10 | Bank |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -96,4 +96,4 @@ Smart is the debut studio album by English rock band Sleeper, released on 13 Feb
 | Label          | Gorsky Records |
 | Catalog Number | SLEEP25LPC |
 | Notes | 25th Anniversary Edition. Includes 14 page colour booklet Made in the EU  |
-| Discogs URL    | [Sleeper - Smart](https://www.discogs.com/release/15425944-Sleeper-2-Smart) |
+| Discogs URL    | [Sleeper (2) - Smart](https://www.discogs.com/release/15425944-Sleeper-2-Smart) |

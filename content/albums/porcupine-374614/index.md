@@ -1,6 +1,6 @@
 ---
-title: "Echo  The Bunnymen - Porcupine"
-artist_name: "Echo  The Bunnymen"
+title: "Echo & The Bunnymen - Porcupine"
+artist_name: "Echo & The Bunnymen"
 artist: "echo-the-bunnymen"
 album_name: "Porcupine"
 date: 2017-07-21T18:28:47.000000Z
@@ -10,8 +10,8 @@ slug: "porcupine-374614"
 hideSummary: true
 cover:
     image: "porcupine-374614.jpg"
-    alt: "Porcupine by Echo  The Bunnymen"
-    caption: "Porcupine by Echo  The Bunnymen"
+    alt: "Porcupine by Echo & The Bunnymen"
+    caption: "Porcupine by Echo & The Bunnymen"
 additional_images:
     - "https://i.discogs.com/x5vqvO7bN8UD52UzHMwUwpDnaiGjGIH_v_hUDR_srf4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDYx/NC0xNjAxOTcxNjM0/LTQxMTQuanBlZw.jpeg"
     - "https://i.discogs.com/KrEzeuq-_TGVaTd242QRHJAzZ1iMjG2qBBv5P57NuP8/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDYx/NC0xNjAxOTcxNjM5/LTUyNjYuanBlZw.jpeg"
@@ -37,16 +37,16 @@ Porcupine was recorded at Trident Studios in London, Rockfield Studios in South 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Cutter |
-| A2 | Back Of Love |
-| A3 | My White Devil |
-| A4 | Clay |
-| A5 | Porcupine |
-| B1 | Heads Will Roll |
-| B2 | Ripeness |
-| B3 | Higher Hell |
-| B4 | Gods Will Be Gods |
-| B5 | In Bluer Skies |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -65,4 +65,4 @@ Porcupine was recorded at Trident Studios in London, Rockfield Studios in South 
 | Label          | Korova |
 | Catalog Number | KODE 6 |
 | Notes | First pressing released without barcode on sleeve and with credits printed on a polylined liner. KODE 6 only on labels; also 240027-1 on inner and rear sleeve, 24.0027-1 on spine.  A limited number of the first UK pressing included a free five track cassette. This was the same cassette as given away with some copies of the "The Cutter" 7" single that was released at about the same time.   ℗&© 1983 WEA Records Ltd.  ZOO MANAGEMENT c/o Korova Records 17 Berners Street London, West One   "PINING FOR THE PORK OF THE PORCUPINE"  Manufactured in Germany ---------------- Mastering credit derived from matrix. Runouts have the matrices stamped and etched, the 2-digit number and 'RAYS' is etched, the main string is stamped. |
-| Discogs URL    | [Echo  The Bunnymen - Porcupine](https://www.discogs.com/release/374614-Echo-The-Bunnymen-Porcupine) |
+| Discogs URL    | [Echo & The Bunnymen - Porcupine](https://www.discogs.com/release/374614-Echo-The-Bunnymen-Porcupine) |

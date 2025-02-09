@@ -48,23 +48,23 @@ Band member Alan Wilder is credited with coming up with the album's title; the p
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Pimpf |
-| A2 | Behind The Wheel |
-| A3 | Strangelove |
-| A4 | Something To Do |
-| A5 | Blasphemous Rumours |
-| B1 | Stripped |
-| B2 | Somebody |
-| B3 | Things You Said |
-| B4 | Black Celebration |
-| C1 | Shake The Disease |
-| C2 | Pleasure Little Treasure |
-| C3 | People Are People |
-| C4 | A Question Of Time |
-| D1 | Never Let Me Down Again |
-| D2 | Master And Servant |
-| D3 | Just Can't Get Enough |
-| D4 | Everything Counts |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -39,23 +39,23 @@ Cosmogramma was promoted with a free "augmented reality" application called Cosm
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| 1 | Clock Catcher |
-| 2 | Pickled! |
-| 3 | Nose Art |
-| 4 | Intro//A Cosmic Drama |
-| 5 | Zodiac Shit |
-| 6 | Computer Face//Pure Being |
-| 7 | ... And The World Laughs With You |
-| 8 | Arkestry |
-| 9 | MmmHmm |
-| 10 | Do The Astral Plane |
-| 11 | Satelllliiiiiiiteee |
-| 12 | German Haircut |
-| 13 | Recoiled |
-| 14 | Dance Of The Pseudo Nymph |
-| 15 | Drips//Auntie's Harp |
-| 16 | Table Tennis |
-| 17 | Galaxy In Janaki |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

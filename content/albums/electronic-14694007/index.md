@@ -30,17 +30,17 @@ The album was a commercial and critical success, reaching number 2 in the United
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Idiot Country |
-| A2 | Reality |
-| A3 | Tighten Up |
-| A4 | The Patience Of A Saint |
-| A5 | Getting Away With It |
-| B1 | Gangster |
-| B2 | Soviet |
-| B3 | Get The Message |
-| B4 | Try All You Want |
-| B5 | Some Distant Memory |
-| B6 | Feel Every Beat |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

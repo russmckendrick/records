@@ -38,23 +38,23 @@ It’s that balance—between the crude and the contemplative, the direct and th
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Power Of Equality |
-| A2 | If You Have To Ask |
-| A3 | Breaking The Girl |
-| A4 | Funky Monks |
-| A5 | Suck My Kiss |
-| B1 | I Could Have Lied |
-| B2 | Mellowship Slinky In B Major |
-| B3 | The Righteous & The Wicked |
-| B4 | Give It Away |
-| C1 | Blood Sugar Sex Magik |
-| C2 | Under The Bridge |
-| C3 | Naked In The Rain |
-| C4 | Apache Rose Peacock |
-| D1 | The Greeting Song |
-| D2 | My Lovely Man |
-| D3 | Sir Psycho Sexy |
-| D4 | They're Red Hot |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

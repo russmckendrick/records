@@ -39,16 +39,16 @@ With 2011’s <i>Slave Ambient</i>, The War on Drugs offered a collection of emo
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Under The Pressure |
-| A2 | Red Eyes |
-| A3 | Suffering |
-| B1 | An Ocean In Between The Waves |
-| B2 | Disappearing |
-| C1 | Eyes To The Wind |
-| C2 | The Haunting Idle |
-| C3 | Burning |
-| D1 | Lost In The Dream |
-| D2 | In Reverse |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

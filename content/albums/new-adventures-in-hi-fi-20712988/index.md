@@ -1,7 +1,7 @@
 ---
-title: "REM - New Adventures In Hi-Fi"
-artist_name: "REM"
-artist: "rem"
+title: "R.E.M. - New Adventures In Hi-Fi"
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "New Adventures In Hi-Fi"
 date: 2021-11-11T09:23:10.000000Z
 release_date: "1996-09-10"
@@ -10,8 +10,8 @@ slug: "new-adventures-in-hi-fi-20712988"
 hideSummary: true
 cover:
     image: "new-adventures-in-hi-fi-20712988.jpg"
-    alt: "New Adventures In Hi-Fi by REM"
-    caption: "New Adventures In Hi-Fi by REM"
+    alt: "New Adventures In Hi-Fi by R.E.M."
+    caption: "New Adventures In Hi-Fi by R.E.M."
 additional_images:
     - "https://i.discogs.com/yS1Ru2ebTwA0359wZwQUKjP4kp_Zz_D-xj0MzvbnPHs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzEy/OTg4LTE2MzU1MDcy/MzAtMjc1My5qcGVn.jpeg"
     - "https://i.discogs.com/LrTFS5k7sD2wPGFktZwk_OIKG7VC0c9fo8zU7SLMXzI/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzEy/OTg4LTE2MzU4NDk3/MTUtOTQ1Mi5qcGVn.jpeg"
@@ -49,20 +49,20 @@ Unlike R.E.M.’s previous five albums, <i>New Adventures in Hi-Fi</i> didn’t 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | How The West Was Won And Where It Got Us |
-| A2 | The Wake-up Bomb |
-| A3 | New Test Leper |
-| B1 | Undertow |
-| B2 | E-bow The Letter |
-| B3 | Leave |
-| C1 | Departure |
-| C2 | Bittersweet Me |
-| C3 | Be Mine |
-| C4 | Binky The Doormat |
-| D1 | Zither |
-| D2 | So Fast, So Numb |
-| D3 | Low Desert |
-| D4 | Electrolite |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -81,4 +81,4 @@ Unlike R.E.M.’s previous five albums, <i>New Adventures in Hi-Fi</i> didn’t 
 | Label          | Craft Recordings |
 | Catalog Number | 888072245457 |
 | Notes | 25th Anniversary Edition.  ℗ 2021 & © 1996 R.E.M./Athens. Ltd. Under exclusive license to Craft Recordings.  Made in the EU.  Some copies from the REM webstore came with a numbered Artprint pencil numbered xxx/600. The print is signed 'CB', possibly Chris Bilheimer. |
-| Discogs URL    | [REM - New Adventures In Hi-Fi](https://www.discogs.com/release/20712988-REM-New-Adventures-In-Hi-Fi) |
+| Discogs URL    | [R.E.M. - New Adventures In Hi-Fi](https://www.discogs.com/release/20712988-REM-New-Adventures-In-Hi-Fi) |

@@ -1,7 +1,7 @@
 ---
-title: "REM - Out Of Time"
-artist_name: "REM"
-artist: "rem"
+title: "R.E.M. - Out Of Time"
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "Out Of Time"
 date: 2016-11-18T18:43:07.000000Z
 release_date: "2024-10-10"
@@ -10,8 +10,8 @@ slug: "out-of-time-9359884"
 hideSummary: true
 cover:
     image: "out-of-time-9359884.jpg"
-    alt: "Out Of Time by REM"
-    caption: "Out Of Time by REM"
+    alt: "Out Of Time by R.E.M."
+    caption: "Out Of Time by R.E.M."
 additional_images:
     - "https://i.discogs.com/JMTohPUjAS1iXk7-en2Iq9e35xcCLqM9kEkykGQy7Xc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTk4/ODQtMTUyNDY2NTk0/OS02Nzg3LmpwZWc.jpeg"
     - "https://i.discogs.com/lmi5bk5M-F7vu35lAjaj9V3iS9YP8_U-rgCDSDagLY8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNTk4/ODQtMTUyNDY2NTk1/Mi00ODk4LmpwZWc.jpeg"
@@ -35,19 +35,19 @@ Out of Time is the seventh studio album by American alternative rock band R.E.M.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Time Side |
-| A1 | Radio Song |
-| A2 | Losing My Religion |
-| A3 | Low |
-| A4 | Near Wild Heaven |
-| A5 | Endgame |
-|  | Memory Side |
-| B1 | Shiny Happy People |
-| B2 | Belong |
-| B3 | Half A World Away |
-| B4 | Texarkana |
-| B5 | Country Feedback |
-| B6 | Me In Honey |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -66,4 +66,4 @@ Out of Time is the seventh studio album by American alternative rock band R.E.M.
 | Label          | Concord Bicycle Music |
 | Catalog Number | 0888072004405 |
 | Notes | 25th Anniversary Edition: -Remastered From Original Analog Masters -180-Gram Vinyl -Includes Digital Download Card  Later repress comes without ''25th Anniversary Edition'' sticker and digital download card.  In the runouts, [l313190] geometrical symbols like "2=△" are mirrored. |
-| Discogs URL    | [REM - Out Of Time](https://www.discogs.com/release/9359884-REM-Out-Of-Time) |
+| Discogs URL    | [R.E.M. - Out Of Time](https://www.discogs.com/release/9359884-REM-Out-Of-Time) |

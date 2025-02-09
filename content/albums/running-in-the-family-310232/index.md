@@ -1,7 +1,7 @@
 ---
-title: "Level - Running In The Family"
-artist_name: "Level"
-artist: "level"
+title: "Level 42 - Running In The Family"
+artist_name: "Level 42"
+artist: "level-42"
 album_name: "Running In The Family"
 date: 2016-01-07T16:18:51.000000Z
 release_date: "1987"
@@ -10,8 +10,8 @@ slug: "running-in-the-family-310232"
 hideSummary: true
 cover:
     image: "running-in-the-family-310232.jpg"
-    alt: "Running In The Family by Level"
-    caption: "Running In The Family by Level"
+    alt: "Running In The Family by Level 42"
+    caption: "Running In The Family by Level 42"
 additional_images:
     - "https://i.discogs.com/FH68wlK7DuZzGiXybSsnto3paWYSz2RzlJPqraEIZQU/rs:fit/g:sm/q:90/h:497/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDIz/Mi0xMzUxMTc2NjUw/LTgwMzcuanBlZw.jpeg"
     - "https://i.discogs.com/a7XqoEp7tXiwe7Z2mlFOgSU8auCwr5djJaAIg6bGlJ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDIz/Mi0xMzY3MDc0Mjcy/LTg4NjYuanBlZw.jpeg"
@@ -40,14 +40,14 @@ In 2012, the album was remastered and re-released to celebrate the 25th annivers
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Lessons In Love |
-| A2 | Children Say |
-| A3 | Running In The Family |
-| A4 | It's Over |
-| B1 | To Be With You Again |
-| B2 | Two Solitudes |
-| B3 | Fashion Fever |
-| B4 | The Sleepwalkers |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -66,4 +66,4 @@ In 2012, the album was remastered and re-released to celebrate the 25th annivers
 | Label          | Polydor |
 | Catalog Number | POLH 42 |
 | Notes | Issued with a printed lyric / picture innersleeve. Some issues include an advertising insert for Level 42 merchandise.  There is [url=http://www.discogs.com/Level-42-Running-In-The-Family/release/7427841]another UK version[/url] which was mastered at Musitech & was not pressed at PRS Ltd.  Some with stickered front sleeve |
-| Discogs URL    | [Level - Running In The Family](https://www.discogs.com/release/310232-Level-42-Running-In-The-Family) |
+| Discogs URL    | [Level 42 - Running In The Family](https://www.discogs.com/release/310232-Level-42-Running-In-The-Family) |

@@ -39,14 +39,14 @@ styles: ["Krautrock", "Classical"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Ripples in The Ether (Towards The Infinite) |
-| A2 | This New Noise |
-| B1 | An Unusual Man |
-| B2 | A Cello Sings In Daventry  |
-| C1 | Broadcasting House |
-| C2 | The Microphone (The Fleet is Lit Up) |
-| D1 | A Candle Which Will Not Be Put Out |
-| D2 | What Of The Future? (In Touch With The Infinite) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

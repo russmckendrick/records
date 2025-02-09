@@ -37,16 +37,16 @@ The album reached number eight on the UK Albums Chart and was promoted by the si
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Leave In Silence |
-| A2 | My Secret Garden |
-| A3 | Monument |
-| A4 | Nothing To Fear |
-| A5 | See You |
-| B1 | Satellite |
-| B2 | The Meaning Of Love |
-| B3 | A Photograph Of You |
-| B4 | Shouldn't Have Done That |
-| B5 | The Sun & The Rainfall |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

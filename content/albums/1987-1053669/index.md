@@ -31,16 +31,16 @@ styles: ["Hard Rock", "Arena Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Still Of The Night |
-| A2 | Bad Boys |
-| A3 | Give Me All Your Love |
-| A4 | Looking For Love |
-| A5 | Here I Go Again (USA Remix) |
-| B1 | Crying In The Rain |
-| B2 | Is This Love |
-| B3 | Straight From The Heart |
-| B4 | Dont Turn Away |
-| B5 | Children Of The Night |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

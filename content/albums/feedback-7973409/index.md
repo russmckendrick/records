@@ -35,14 +35,14 @@ Feedback is an EP by Canadian rock band Rush, released in 2004. The record featu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Summertime Blues |
-| A2 | Heart Full Of Soul |
-| A3 | For What It's Worth |
-| A4 | The Seeker |
-| B1 | Mr. Soul |
-| B2 | Seven And Seven Is |
-| B3 | Shapes Of Things |
-| B4 | Crossroads |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

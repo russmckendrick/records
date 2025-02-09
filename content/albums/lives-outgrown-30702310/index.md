@@ -44,16 +44,16 @@ Lives Outgrown is the debut solo studio album by English musician Beth Gibbons, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Tell Me Who You Are Today |
-| A2 | Floating On A Moment |
-| A3 | Burden Of Life |
-| A4 | Lost Changes |
-| A5 | Rewind |
-| B1 | Reaching Out |
-| B2 | Oceans |
-| B3 | For Sale |
-| B4 | Beyond The Sun |
-| B5 | Whispering Love |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

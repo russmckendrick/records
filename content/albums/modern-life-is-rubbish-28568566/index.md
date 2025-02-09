@@ -43,22 +43,22 @@ Modern Life Is Rubbish was a moderate chart success in the UK; the album peaked 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | For Tomorrow |
-| A2 | Advert |
-| A3 | Colin Zeal |
-| A4 | Pressure On Julian |
-| B5 | Star Shaped |
-| B6 | Blue Jeans |
-| B7.1 | Chemical World |
-| B7.2 | Intermission |
-| C8 | Sunday Sunday |
-| C9 | Oily Water |
-| C10 | Miss America |
-| C11 | Villa Rosie |
-| D12 | Coping |
-| D13 | Turn It Up |
-| D14.1 | Resigned |
-| D14.2 | Commercial Break |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

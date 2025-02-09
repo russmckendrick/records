@@ -37,17 +37,17 @@ The album was followed up by a companion compilation, Changestwobowie, in 1981.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Space Oddity |
-| A2 | John, I'm Only Dancing |
-| A3 | Changes |
-| A4 | Ziggy Stardust |
-| A5 | Suffragette City |
-| A6 | The Jean Genie |
-| B1 | Diamond Dogs |
-| B2 | Rebel Rebel |
-| B3 | Young Americans |
-| B4 | Fame |
-| B5 | Golden Years |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

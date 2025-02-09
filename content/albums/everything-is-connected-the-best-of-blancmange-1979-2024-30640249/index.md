@@ -41,16 +41,16 @@ styles: ["Synth-pop", "New Wave"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Living On The Ceiling |
-| A2 | Waves |
-| A3 | Blind Vision |
-| A4 | Don't Tell Me |
-| A5 | The Day Before You Came |
-| B1 | What's The Time? |
-| B2 | Distant Storm |
-| B3 | Mindset |
-| B4 | Reduced Voltage |
-| B5 | Some Times These |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -31,21 +31,21 @@ Good Fortune is scheduled to be released in the United States on October 17, 202
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Monday Through Sunday |
-| A2 | Brights Lights |
-| A3 | Miami / The Jungle |
-| A4 | Know Who You Are |
-| A5 | Inside The Globe |
-| A6 | Best Shit In The World |
-| A7 | House Of Mirrors |
-| B1 | This Year |
-| B2 | Now I Lay Me Down |
-| B3 | My Eyes |
-| B4 | Wings |
-| B5 | Paradise |
-| B6 | Close Your Eyes |
-| B7 | NYC |
-| B8 | Trust Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

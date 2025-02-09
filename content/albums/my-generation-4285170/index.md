@@ -33,18 +33,18 @@ The album was made immediately after the Who got their first singles on the char
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Out In The Street |
-| A2 | I Don't Mind |
-| A3 | The Good's Gone |
-| A4 | La-La-La-Lies |
-| A5 | Much Too Much |
-| A6 | My Generation |
-| B1 | The Kids Are Alright |
-| B2 | Please, Please, Please |
-| B3 | It's Not True |
-| B4 | I'm A Man |
-| B5 | A Legal Matter |
-| B6 | The Ox |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

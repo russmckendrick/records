@@ -31,16 +31,16 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | 12 Second Panda |
-| A2 | Tamed Beests |
-| A3 | Alec Baldwins's Hair |
-| A4 | Gutter Brush |
-| A5 | Ghost Thighs |
-| B1 | Elephant In The Bar Room (feat. Matt Franklin) |
-| B2 | Drop A Bastard |
-| B3 | Buffet Remorse |
-| B4 | Pudendal |
-| B5 | Hostage |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

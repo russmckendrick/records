@@ -28,16 +28,16 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Wonder Blind |
-| A2 | Double Roses |
-| A3 | Call Your Name |
-| A4 | Hell And High Water |
-| A5 | The End |
-| B1 | Raven |
-| B2 | Why Am I Waiting |
-| B3 | A Million Stars |
-| B4 | Wolf |
-| B5 | Distant Shore |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

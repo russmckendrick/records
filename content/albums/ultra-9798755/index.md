@@ -37,17 +37,17 @@ The album was preceded by the singles "Barrel of a Gun", released on 3 February 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Barrel Of A Gun |
-| A2 | The Love Thieves |
-| A3 | Home |
-| A4 | It's No Good |
-| A5 | Uselink |
-| A6 | Useless |
-| B1 | Sister Of Night |
-| B2 | Jazz Thieves |
-| B3 | Freestate |
-| B4 | The Bottom Line |
-| B5 | Insight |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

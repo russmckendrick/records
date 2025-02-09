@@ -26,20 +26,20 @@ Just how big a star was Elvis Presley in the ’50s? Consider that RCA released 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Need Your Love Tonight |
-| A2 | Don't |
-| A3 | Wear My Ring Around Your Neck |
-| A4 | My Wish Came True |
-| A5 | I Got Stung |
-| A6 | Hard Headed Woman * |
-| A7 | Don't Ask Me Why * |
-| B1 | One Night |
-| B2 | A Big Hunk O' Love |
-| B3 | I Beg Of You |
-| B4 | (Now And Then There's) A Fool Such As I |
-| B5 | Doncha' Think It's Time |
-| B6 | Stuck On You * |
-| B7 | It's Now Or Never * |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

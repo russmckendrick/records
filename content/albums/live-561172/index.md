@@ -1,6 +1,6 @@
 ---
-title: "Peter Cook  Dudley Moore - (Live)"
-artist_name: "Peter Cook  Dudley Moore"
+title: "Peter Cook & Dudley Moore - (Live)"
+artist_name: "Peter Cook & Dudley Moore"
 artist: "peter-cook-dudley-moore"
 album_name: "(Live)"
 date: 2015-12-30T09:11:50.000000Z
@@ -10,8 +10,8 @@ slug: "live-561172"
 hideSummary: true
 cover:
     image: "live-561172.jpg"
-    alt: "(Live) by Peter Cook  Dudley Moore"
-    caption: "(Live) by Peter Cook  Dudley Moore"
+    alt: "(Live) by Peter Cook & Dudley Moore"
+    caption: "(Live) by Peter Cook & Dudley Moore"
 additional_images:
     - "https://i.discogs.com/2g_-QKewc-x2rHdg5kjRUTBQy68C0llXNymv2HQ4HHI/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTE3/Mi0xNDIyMTg2NjU2/LTc5MzQuanBlZw.jpeg"
     - "https://i.discogs.com/cRITsUon4ioaybrGqY6J9WewOL_8Fv3c8h_0z2oEYoM/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTE3/Mi0xNDIyMTg2NjU5/LTY1ODAuanBlZw.jpeg"
@@ -29,19 +29,19 @@ styles: ["Comedy", "Spoken Word"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Worst Job I Ever Had |
-| A2 | This Bloke Came Up To Me |
-| A3 | The Worst Job He Ever Had |
-| A4 | Squatter And The Ant |
-| A5 | In The Lav |
-| A6 | Little Flo |
-| A7 | Just One Of Those Songs |
-| B1 | Winkie Wanky Woo |
-| B2 | Bo Duddley |
-| B3 | Blind |
-| B4 | Top Rank |
-| B5 | Cancer |
-| B6 | Jump |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -58,4 +58,4 @@ styles: ["Comedy", "Spoken Word"]
 | Format         | Vinyl LP Album |
 | Label          | Island Records |
 | Catalog Number | ILPS 9434 |
-| Discogs URL    | [Peter Cook  Dudley Moore - (Live)](https://www.discogs.com/release/561172-Peter-Cook-Dudley-Moore-Present-Derek-And-Clive-Live) |
+| Discogs URL    | [Peter Cook & Dudley Moore - (Live)](https://www.discogs.com/release/561172-Peter-Cook-Dudley-Moore-Present-Derek-And-Clive-Live) |

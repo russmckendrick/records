@@ -29,8 +29,8 @@ styles: ["Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | The Hungry Ghosts / We Live In An Old Chaos Of The Sun |
-| B | The Silence Of Animals / The Truth Is, It Wanted To Cave In |
+|  |  |
+|  |  |
 
 
 ## Apple Music

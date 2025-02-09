@@ -31,40 +31,40 @@ styles: ["New Wave", "Punk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | London Calling |
-| A2 | Teenage Kicks |
-| A3 | No More Heroes |
-| A4 | Hong Kong Garden |
-| A5 | Top Of The Pops |
-| A6 | Sheena Is A Punk Rocker |
-| A7 | Sound Of The Suburbs |
-| A8 | Babylon's Burning |
-| A9 | Lust For Life |
-| B1 | Going Underground |
-| B2 | Can't Stand Losing You |
-| B3 | Rat Trap |
-| B4 | Hanging On The Telephone |
-| B5 | Brass In Pocket |
-| B6 | Gem Free Adolescents |
-| B7 | Roadrunner |
-| B8 | Cherry Bomb |
-| B9 | Jilted John |
-| C1 | Rock Lobster |
-| C2 | Whip It |
-| C3 | Money |
-| C4 | Cool For Cats |
-| C5 | Making Plans For Nigel |
-| C6 | 2-4-6-8 Motorway |
-| C7 | Is She Really Going Out With Him? |
-| C8 | Because The Night |
-| D1 | I Will Follow |
-| D2 | Into The Valley |
-| D3 | Dog Eat Dog |
-| D4 | Geno |
-| D5 | Hit Me With Your Rhythm Stick |
-| D6 | Echo Beach |
-| D7 | A Forest |
-| D8 | Love Will Tear Us Apart |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

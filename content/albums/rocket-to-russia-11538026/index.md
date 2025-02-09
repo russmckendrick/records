@@ -41,20 +41,20 @@ Joey Ramone had written “Sheena is a Punk Rocker”—which had appeared on so
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Cretin Hop |
-| A2 | Rockaway Beach |
-| A3 | Here Today, Gone Tomorrow |
-| A4 | Locket Love |
-| A5 | I Don't Care |
-| A6 | Sheena Is A Punk Rocker |
-| A7 | We're A Happy Family |
-| B1 | Teenage Lobotomy |
-| B2 | Do You Wanna Dance? |
-| B3 | I Wanna Be Well |
-| B4 | I Can't Give You Anything |
-| B5 | Ramona |
-| B6 | Surfin' Bird |
-| B7 | Why Is It Always This Way? |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

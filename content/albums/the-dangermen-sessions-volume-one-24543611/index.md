@@ -34,19 +34,19 @@ styles: ["Ska"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | This Is Where |
-| A2 | Girl Why Don't You? |
-| A3 | Shame & Scandal |
-| A4 | I Chase The Devil AKA Ironshirt |
-| A5 | Taller Than You Are |
-| A6 | You Keep Me Hanging On |
-| A7 | Dangermen AKA High Wire |
-| B1 | Israelites |
-| B2 | John Jones |
-| B3 | Lola |
-| B4 | You'll Lose A Good Thing |
-| B5 | Rain |
-| B6 | So Much Trouble In The World |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

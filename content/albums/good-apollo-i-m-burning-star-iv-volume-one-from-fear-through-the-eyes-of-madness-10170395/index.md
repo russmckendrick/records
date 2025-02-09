@@ -40,22 +40,22 @@ styles: ["Alternative Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Keeping The Blade |
-| A2 | Always & Never |
-| A3 | Welcome Home |
-| A4 | Ten Speed (Of God's Blood And Burial) |
-| A5 | Crossing The Frame |
-| A6 | Apollo I: The Writing Writer |
-| B1 | Once Upon Your Dead Body |
-| B2 | Wake Up |
-| B3 | The Suffering |
-| B4 | The Lying Lies And Dirty Secrets Of Miss Erica Court |
-| B5 | Mother May I |
-|  | The Willing Well |
-| C1 | I: Fuel For The Feeding End |
-| C2 | II: From Fear Through The Eyes Of Madness |
-| D1 | III: Apollo II: The Telling Truth |
-| D2 | IV: The Final Cut |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

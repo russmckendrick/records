@@ -62,17 +62,17 @@ The result is a record that harnesses the power of the bold, bass-imbued sounds 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Bittersweet |
-| A2 | Read My Mind |
-| A3 | Green Papaya |
-| A4 | Can't Fight |
-| A5 | Paper Thin |
-| A6 | Out Of Your Mind (Interlude) |
-| B1 | Weird Fishes |
-| B2 | Please Don't Make Me Cry |
-| B3  | Seven Times |
-| B4 | Courage |
-| B5 | Sour Flower |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

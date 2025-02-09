@@ -1,6 +1,6 @@
 ---
-title: "Tennis - Swimmer"
-artist_name: "Tennis"
+title: "Tennis (6) - Swimmer"
+artist_name: "Tennis (6)"
 artist: "tennis"
 album_name: "Swimmer"
 date: 2024-05-20T08:32:33.000000Z
@@ -10,8 +10,8 @@ slug: "swimmer-26162459"
 hideSummary: true
 cover:
     image: "swimmer-26162459.jpg"
-    alt: "Swimmer by Tennis"
-    caption: "Swimmer by Tennis"
+    alt: "Swimmer by Tennis (6)"
+    caption: "Swimmer by Tennis (6)"
 additional_images:
     - "https://i.discogs.com/DxJ10VCYzSfqP_Zn3qx0EleV3WCHKsQVoYHNPt-PVyk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTYy/NDU5LTE2NzY4NTk4/MDQtOTIxNy5qcGVn.jpeg"
     - "https://i.discogs.com/TczuMl4g8aBiJmSxJmkqog2HyG-wC63zXTYdQca63M4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTYy/NDU5LTE2NzY4NTk4/MDMtNDIzMC5qcGVn.jpeg"
@@ -55,15 +55,15 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I’ll Haunt You |
-| A2 | Need Your Love |
-| A3 | How To Forgive |
-| A4 | Runner |
-| A5 | Echoes |
-| B6 | Swimmer |
-| B7 | Tender As A Tomb |
-| B8 | Late Night |
-| B9 | Matrimony II |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -82,4 +82,4 @@ styles: ["Alternative Rock", "Indie Rock"]
 | Label          | Mutually Detrimental |
 | Catalog Number | MD007LP |
 | Notes | Hype sticker states "Limited Edition Clear Vinyl".  The record itself is coke bottle green/clear.  Tracks are sequentially listed on release.  Embossed cover.  Includes digital download coupon. |
-| Discogs URL    | [Tennis - Swimmer](https://www.discogs.com/release/26162459-Tennis-6-Swimmer) |
+| Discogs URL    | [Tennis (6) - Swimmer](https://www.discogs.com/release/26162459-Tennis-6-Swimmer) |

@@ -1,7 +1,7 @@
 ---
-title: "Heaven - Penthouse And Pavement"
-artist_name: "Heaven"
-artist: "heaven"
+title: "Heaven 17 - Penthouse And Pavement"
+artist_name: "Heaven 17"
+artist: "heaven-17"
 album_name: "Penthouse And Pavement"
 date: 2018-06-13T17:27:49.000000Z
 release_date: "1981-01-01"
@@ -10,8 +10,8 @@ slug: "penthouse-and-pavement-9929529"
 hideSummary: true
 cover:
     image: "penthouse-and-pavement-9929529.jpg"
-    alt: "Penthouse And Pavement by Heaven"
-    caption: "Penthouse And Pavement by Heaven"
+    alt: "Penthouse And Pavement by Heaven 17"
+    caption: "Penthouse And Pavement by Heaven 17"
 additional_images:
     - "https://i.discogs.com/94ur0L9-Xvedz_mqGmVtNYRttKoALR1WI9LpVY2JbeE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjk1/MjktMTU0MjEzNzEx/NC00NjY2LmpwZWc.jpeg"
     - "https://i.discogs.com/2SPjzHm21ExhwKRwy0mzraFTGQZt6TOLDpjWCEyOnZI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5Mjk1/MjktMTU0MjEzNzEx/Ny01NTc1LmpwZWc.jpeg"
@@ -36,17 +36,17 @@ Penthouse and Pavement is the debut studio album by English synth-pop band Heave
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Pavement Side |
-| A1 | (We Don't Need This) Fascist Groove Thang |
-| A2 | Penthouse And Pavement |
-| A3 | Play To Win |
-| A4 | Soul Warfare |
-|  | Penthouse Side |
-| B1 | Geisha Boys And Temple Girls |
-| B2 | Let's All Make A Bomb |
-| B3 | The Height Of The Fighting |
-| B4 | Song With No Name |
-| B5 | We're Going To Live For A Very Long Time |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -65,4 +65,4 @@ Penthouse and Pavement is the debut studio album by English synth-pop band Heave
 | Label          | Virgin |
 | Catalog Number | 0602547941602 |
 | Notes | Basic tracks for A side recorded in Sheffield and mixed at Red Bus Studios. "Let's All Make A Bomb" recorded in Sheffield and mixed at The Townhouse.  Basic tracks for B side recorded at Maison Rouge, mixed at The Townhouse. "(We Don't Need This) Facist Groove Thang" recorded and mixed in Sheffield.   B5 ends in a locked groove, hence no duration.  Includes 24Bit/44.1Khz WAV download coupon.    |
-| Discogs URL    | [Heaven - Penthouse And Pavement](https://www.discogs.com/release/9929529-Heaven-17-Penthouse-And-Pavement) |
+| Discogs URL    | [Heaven 17 - Penthouse And Pavement](https://www.discogs.com/release/9929529-Heaven-17-Penthouse-And-Pavement) |

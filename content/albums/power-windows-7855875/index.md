@@ -35,14 +35,14 @@ The album reached No. 2 in Canada, No. 9 in the United Kingdom, and No. 10 in th
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Big Money |
-| A2 | Grand Designs |
-| A3 | Manhattan Project |
-| A4 | Marathon |
-| B1 | Territories |
-| B2 | Middletown Dreams |
-| B3 | Emotion Detector |
-| B4 | Mystic Rhythms |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

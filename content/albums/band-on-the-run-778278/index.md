@@ -1,6 +1,6 @@
 ---
-title: "Wings - Band On The Run"
-artist_name: "Wings"
+title: "Wings (2) - Band On The Run"
+artist_name: "Wings (2)"
 artist: "wings"
 album_name: "Band On The Run"
 date: 2016-04-08T19:08:40.000000Z
@@ -10,8 +10,8 @@ slug: "band-on-the-run-778278"
 hideSummary: true
 cover:
     image: "band-on-the-run-778278.jpg"
-    alt: "Band On The Run by Wings"
-    caption: "Band On The Run by Wings"
+    alt: "Band On The Run by Wings (2)"
+    caption: "Band On The Run by Wings (2)"
 additional_images:
     - "https://i.discogs.com/nIAF0Lwa58SJx33OT6RENH_jhBsOSAxOsaz7vYkDPOU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI3/OC0xNjc0ODE1Njk3/LTcwMzcuanBlZw.jpeg"
     - "https://i.discogs.com/dznD4Ys4RIMMssOdBeE4nrDj6L5a7dSp51JSgzaAMkI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI3/OC0xNjc0ODE1Njk3/LTY1ODUuanBlZw.jpeg"
@@ -35,15 +35,15 @@ Band on the Run has been reissued numerous times with bonus tracks, including in
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Band On The Run |
-| A2 | Jet |
-| A3 | Bluebird |
-| A4 | Mrs. Vandebilt |
-| A5 | Let Me Roll It |
-| B1 | Mamunia |
-| B2 | No Words |
-| B3 | Picasso's Last Words (Drink To Me) |
-| B4 | Nineteen Hundred And Eighty Five |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -62,4 +62,4 @@ Band on the Run has been reissued numerous times with bonus tracks, including in
 | Label          | Apple Records |
 | Catalog Number | PAS 10007 |
 | Notes | Original UK release with: • Apple logo, 'An Apple Record'; • ℗ 1973 EMI Records Ltd.; • McCartney Music Ltd./ATV Music Ltd. on labels.  This version of the release has 3 corners cut on the inner sleeve. Looking at the lyrics side of the inner sleeve, both top corners are cut and so is the bottom right corner. This presentation differs from other releases.  Includes large fold-out poster depicting many small Polaroid photographs. Inner thick paper sleeve has a photograph on one side and lyrics on the other. Also available on cassette and cartridge.  ℗ 1973 EMI Records Ltd.   An Apple Record   Runouts are stamped. Matrix # on labels in parentheses. |
-| Discogs URL    | [Wings - Band On The Run](https://www.discogs.com/release/778278-Paul-McCartney-And-Wings-Band-On-The-Run) |
+| Discogs URL    | [Wings (2) - Band On The Run](https://www.discogs.com/release/778278-Paul-McCartney-And-Wings-Band-On-The-Run) |

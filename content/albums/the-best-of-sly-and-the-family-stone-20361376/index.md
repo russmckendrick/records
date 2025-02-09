@@ -1,6 +1,6 @@
 ---
-title: "Sly  The Family Stone - The Best Of Sly And The Family Stone"
-artist_name: "Sly  The Family Stone"
+title: "Sly & The Family Stone - The Best Of Sly And The Family Stone"
+artist_name: "Sly & The Family Stone"
 artist: "sly-the-family-stone"
 album_name: "The Best Of Sly And The Family Stone"
 date: 2021-10-12T07:25:28.000000Z
@@ -10,8 +10,8 @@ slug: "the-best-of-sly-and-the-family-stone-20361376"
 hideSummary: true
 cover:
     image: "the-best-of-sly-and-the-family-stone-20361376.jpg"
-    alt: "The Best Of Sly And The Family Stone by Sly  The Family Stone"
-    caption: "The Best Of Sly And The Family Stone by Sly  The Family Stone"
+    alt: "The Best Of Sly And The Family Stone by Sly & The Family Stone"
+    caption: "The Best Of Sly And The Family Stone by Sly & The Family Stone"
 additional_images:
     - "https://i.discogs.com/Tk3pt-Z8L8oVzbGZM-h5dNIBpuUwgqsfSVjtw90qijg/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzYx/Mzc2LTE2MzMyNTY0/NjUtNjQ1My5qcGVn.jpeg"
     - "https://i.discogs.com/AIGtByiW_8G1ahQfpn5fH_zW7CrIHkLTI05CsxoclTM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzYx/Mzc2LTE2MzMyNTY0/MzItNTY3MS5qcGVn.jpeg"
@@ -34,26 +34,26 @@ styles: ["Funk", "Psychedelic", "Disco"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Dance To The Music |
-| A2 | I Want To Take You Higher |
-| A3 | Family Affair |
-| A4 | Thank You (Falettinme Be Mice Elf Again) |
-| A5 | I Get High On You |
-| B1 | Stand |
-| B2 | M' Lady |
-| B3 | Skin I'm In |
-| B4 | Everyday People |
-| B5 | Sing A Simple Song |
-| C1 | Hot Fun In The Summertime |
-| C2 | Don't Call Me Nigger, Whitey |
-| C3 | Brave & Strong |
-| C4 | Life |
-| C5 | Everybody Is A Star |
-| D1 | If You Want Me To Stay |
-| D2 | (You Caught Me) Smilin' |
-| D3 | Que Sera Sera (Whatever Will Be Will Be) |
-| D4 | Runnin' Away |
-| D5 | Family Affair (Remix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -71,4 +71,4 @@ styles: ["Funk", "Psychedelic", "Disco"]
 | Label          | Epic |
 | Catalog Number | MOVLP125 |
 | Notes | Limited Edition of 2000 Copies (numbered) |
-| Discogs URL    | [Sly  The Family Stone - The Best Of Sly And The Family Stone](https://www.discogs.com/release/20361376-Sly-The-Family-Stone-The-Best-Of-Sly-And-The-Family-Stone) |
+| Discogs URL    | [Sly & The Family Stone - The Best Of Sly And The Family Stone](https://www.discogs.com/release/20361376-Sly-The-Family-Stone-The-Best-Of-Sly-And-The-Family-Stone) |

@@ -37,23 +37,23 @@ Talk Talk snuck into the music industry as part of the New Romantic movement, op
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| LP-A1 | Happiness Is Easy |
-| LP-A2 | I Don't Believe In You |
-| LP-A3 | Life's What You Make It |
-| LP-A4 | April 5th |
-| LP-B1 | Living In Another World |
-| LP-B2 | Give It Up |
-| LP-B3 | Chameleon Day |
-| LP-B4 | Time It's Time |
-| DVD-1 | Happiness Is Easy |
-| DVD-2 | I Don't Believe In You |
-| DVD-3 | Life's What You Make It |
-| DVD-4 | April 5th |
-| DVD-5 | Living In Another World |
-| DVD-6 | Give It Up |
-| DVD-7 | Chameleon Day |
-| DVD-8 | Time It's Time |
-| DVD-9 | It's Getting Late In The Evening |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

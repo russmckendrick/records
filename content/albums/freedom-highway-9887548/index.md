@@ -33,18 +33,18 @@ Freedom Highway is the second solo studio album of Folk/Americana musician and C
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | At The Purchaser's Option |
-| A2 | The Angels Laid Him Away |
-| A3 | Julie |
-| A4 | Birmingham Sunday |
-| A5 | Better Get It Right The First Time |
-| A6 | We Could Fly |
-| B1 | Hey Bébé |
-| B2 | Come Love Come |
-| B3 | The Love We Almost Have |
-| B4 | Baby Boy |
-| B5 | Following The North Star |
-| B6 | Freedom Highway |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

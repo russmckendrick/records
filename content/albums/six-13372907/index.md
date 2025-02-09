@@ -33,19 +33,19 @@ Six is the second album by English alternative rock band Mansun, released in Sep
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Six |
-| A2 | Negative |
-| A3 | Shotgun |
-| B1 | Inverse Midas |
-| B2 | Anti Everything |
-| B3 | Fall Out |
-| B4 | Serotonin |
-| B5 | Cancer |
-| C1 | Witness To A Murder (Part Two) |
-| C2 | Television |
-| C3 | Special / Blown It (Delete As Appropriate) |
-| D1 | Legacy |
-| D2 | Being A Girl |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

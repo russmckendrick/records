@@ -40,39 +40,39 @@ styles: ["Industrial", "New Wave", "Post-Punk", "Synth-pop", "Heavy Metal", "Alt
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Nervous System |
-| A2 | Wardance |
-| A3 | Requiem |
-| A4 | Follow The Leaders |
-| B1 | Empire Song |
-| B2 | Chop-Chop |
-| B3 | Birds Of A Feather |
-| B4 | Let's All Go (To The Fire Dances) |
-| B5 | Me Or You? |
-| C1 | Eighties |
-| C2 | A New Day |
-| C3 | Love Like Blood |
-| C4 | Kings And Queens |
-| D1 | Adorations |
-| D2 | Sanity |
-| D3 | America |
-| D4 | My Love Of This Land |
-| E1 | The Beautiful Dead (Flexi-Disc Version) |
-| E2 | Money Is Not Our God |
-| E3 | Exorcism (Live In King's Chamber, Cairo August 1993 Mix Edit) |
-| E4 | Millenium (Cybersank Edit) |
-| F1 | Pandemonium (Cybersank Edit) |
-| F2 | Jana |
-| F3 | Democracy (Album Mix) |
-| F4 | Loose Cannon |
-| G1 | Seeing Red (Edit) |
-| G2 | Hosannas From The Basements Of Hell (Radio Edit) |
-| G3 | In Excelsis |
-| G4 | Fresh Fever From The Skies (Record Store Day Exclusive) |
-| H1 | European Super State (Edit) |
-| H2 | Ghosts Of Ladbroke Grove (Dub Edit) |
-| H3 | In Cythera (Edit) |
-| H4 | Corporate Elect |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -1,6 +1,6 @@
 ---
-title: "Belle  Sebastian - Late Developers"
-artist_name: "Belle  Sebastian"
+title: "Belle & Sebastian - Late Developers"
+artist_name: "Belle & Sebastian"
 artist: "belle-sebastian"
 album_name: "Late Developers"
 date: 2023-02-06T11:31:58.000000Z
@@ -10,8 +10,8 @@ slug: "late-developers-25756201"
 hideSummary: true
 cover:
     image: "late-developers-25756201.jpg"
-    alt: "Late Developers by Belle  Sebastian"
-    caption: "Late Developers by Belle  Sebastian"
+    alt: "Late Developers by Belle & Sebastian"
+    caption: "Late Developers by Belle & Sebastian"
 additional_images:
     - "https://i.discogs.com/2TisZmiFs0n6aTFssIowxFphvVJPgkDG9m0Vvikokv4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcx/MjctNTU2OC5qcGVn.jpeg"
     - "https://i.discogs.com/D8DLAxaRT-BFvvkvR_qhfX-yVl2mA0tH5mlXFcTuzOI/rs:fit/g:sm/q:90/h:315/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NzU2/MjAxLTE2NzM2Mzcx/MzAtNzA2My5qcGVn.jpeg"
@@ -48,17 +48,17 @@ What tends to give modern Belle and Sebastian albums so much texture and varianc
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Juliet Naked |
-| A2 | Give A Little Time |
-| A3 | When We Were Very Young |
-| A4 | Will I Tell You A Secret? |
-| A5 | So In The Moment |
-| A6 | The Evening Star |
-| B1 | When You're Not With Me |
-| B2 | I Don't Know What You See In Me |
-| B3 | Do You Follow? |
-| B4 | When The Cynics Stare Back From The Wall |
-| B5 | Late Developers |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -77,4 +77,4 @@ What tends to give modern Belle and Sebastian albums so much texture and varianc
 | Label          | Matador |
 | Catalog Number | OLE1896LPE |
 | Notes | Gatefold sleeve with printed inner sleeve and lyric booklet  Sticker on shrink wrap reads 'Ltd Edition Orange Vinyl'  200 copies were retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions.  Catalog number on labels and back cover: OLE1896LP. Barcode 1 91401 18960 6 and catalogue number OLE1896LPE stickered on shrink wrap over original barcode 1 914011 896134 >. |
-| Discogs URL    | [Belle  Sebastian - Late Developers](https://www.discogs.com/release/25756201-Belle-And-Sebastian-Late-Developers) |
+| Discogs URL    | [Belle & Sebastian - Late Developers](https://www.discogs.com/release/25756201-Belle-And-Sebastian-Late-Developers) |

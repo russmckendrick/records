@@ -39,93 +39,93 @@ styles: ["Alternative Rock", "Britpop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Suede |
-| A1 | So Young |
-| A2 | Animal Nitrate  |
-| A3 | She’s Not Dead |
-| A4 | Moving  |
-| A5 | Pantomime Horse  |
-| B1 | The Drowners  |
-| B2 | Sleeping Pills |
-| B3 | Breakdown   |
-| B4 | Metal Mickey |
-| B5 | Animal Lover |
-| B6 | The Next Life  |
-|  | Dog Man Star |
-| C1 | Introducing The Band |
-| C2 | We Are The Pigs   |
-| C3 | Heroine |
-| C4 | The Wild Ones |
-| D1 | Daddy’s Speeding  |
-| D2 | The Power     |
-| D3 | New Generation   |
-| E1 | This Hollywood Life |
-| E2 | The 2 Of Us   |
-| E3 | Black Or Blue   |
-| F1 | The Asphalt World  |
-| F2 | Still Life  |
-|  | Coming Up |
-| G1 | Trash  |
-| G2 | Filmstar   |
-| G3 | Lazy  |
-| G4 | By The Sea   |
-| G5 | She     |
-| H1 | Beautiful Ones |
-| H2 | Starcrazy   |
-| H3 | Picnic By The Motorway  |
-| H4 | The Chemistry Between Us |
-| H5 | Saturday Night    |
-|  | Head Music |
-| I1 | Electricity    |
-| I2 | Savoir Faire |
-| I3 | Can’t Get Enough |
-| J1 | Everything Will Flow |
-| J2 | Down  |
-| J3 | She’s In Fashion  |
-| K1 | Asbestos |
-| K2 | Head Music  |
-| K3 | Elephant Man |
-| L1 | Hi-Fi      |
-| L2 | Indian Strings  |
-| L3 | He’s Gone |
-| L4 | Crack In The Union Jack |
-|  | A New Morning |
-| M1 | Positivity  |
-| M2 | Obsessions   |
-| M3 | Lonely Girls  |
-| M4 | Lost In TV    |
-| M5 | Beautiful Loser  |
-| M6 | Streetlife    |
-| N1 | Astrogirl   |
-| N2 | Untitled |
-| N3 | ...Morning   |
-| N4 | One Hit To The Body   |
-| N5 | When The Rain Falls |
-| N6 | Oceans |
-|  | Bloodsports |
-| O1 | Barriers   |
-| O2 | Snowblind  |
-| O3 | It Starts And Ends With You  |
-| O4 | Sabotage  |
-| O5 | For The Strangers  |
-| P1 | Hit Me  |
-| P2 | Sometimes I Feel I’ll Float Away  |
-| P3 | What Are You Not Telling Me?  |
-| P4 | Always  |
-| P5 | Faultlines  |
-|  | Night Thoughts |
-| Q1 | When You Are Young |
-| Q2 | Outsiders |
-| Q3 | No Tomorrow  |
-| R1 | Pale Snow |
-| R2 | I Don't Know How To Reach You |
-| R3 | What I'm Trying To Tell You |
-| S1 | Tightrope |
-| S2 | Learning To Be |
-| S3 | Like Kids |
-| T1 | I Can't Give Her What She Wants |
-| T2 | When You Were Young |
-| T3 | The Fur And The Feathers |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

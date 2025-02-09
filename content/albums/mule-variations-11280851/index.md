@@ -37,22 +37,22 @@ Mule Variations won a Grammy Award for Best Contemporary Folk Album and was nomi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Big In Japan |
-| A2 | Lowside Of The Road |
-| A3 | Hold On |
-| A4 | Get Behind The Mule |
-| B1 | House Where Nobody Lives |
-| B2 | Cold Water |
-| B3 | Pony |
-| B4 | What's He Building? |
-| C1 | Black Market Baby |
-| C2 | Eyeball Kid |
-| C3 | Picture In A Frame |
-| C4 | Chocolate Jesus |
-| D1 | Georgia Lee |
-| D2 | Filipino Box Spring Hog |
-| D3 | Take It With Me |
-| D4 | Come On Up To The House |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

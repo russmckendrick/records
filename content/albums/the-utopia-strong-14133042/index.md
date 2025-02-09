@@ -28,15 +28,15 @@ The Utopia Strong are a British electronic band formed in Glastonbury, England i
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Emerald Tablet |
-| A2 | Konta Chorus |
-| A3 | Swimmer |
-| A4 | Unquiet Boundary |
-| A5 | Transition To The Afterlife |
-| A6 | Pickman's Model |
-| B1 | Brainsurgeons 3 |
-| B2 | Do You Believe In Two Gods? |
-| B3 | Moonchild |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

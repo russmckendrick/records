@@ -26,18 +26,18 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Orion From The Street |
-| A2 | Do Me A Favour |
-| A3 | Not When You're In Love |
-| A4 | Out Of The Frame |
-| A5 | When You Last Heard From Linda |
-| A6 | No Pressure |
-| B1 | In This City |
-| B2 | I'm The One Who Wants To Be With You |
-| B3 | Meant To Be |
-| B4 | Invisible Days |
-| B5 | The Curtained Room |
-| B6 | You Get Better |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

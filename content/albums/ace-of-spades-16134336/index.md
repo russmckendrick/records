@@ -68,88 +68,88 @@ It was the band's debut release in the United States, with Mercury Records handl
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Ace Of Spades |
-| LP-A1 | Ace Of Spades |
-| LP-A2 | Love Me Like A Reptile |
-| LP-A3 | Shoot You In The Back |
-| LP-A4 | Live To Win  |
-| LP-A5 | Fast And Loose |
-| LP-A6 | (We Are) The Road Crew |
-| LP-B1 | Fire Fire |
-| LP-B2 | Jailbait |
-| LP-B3 | Dance |
-| LP-B4 | Bite The Bullet |
-| LP-B5 | The Chase Is Better Than The Catch |
-| LP-B6 | The Hammer |
-|  | Dead Man's Hand - Live In Orléans |
-| LP-C1 | Ace Of Spades |
-| LP-C2 | Stay Clean |
-| LP-C3 | Over The Top |
-| LP-C4 | Metropolis |
-| LP-C5 | Shoot You In The Back |
-| LP-D1 | The Hammer |
-| LP-D2 | Jailbait |
-| LP-D3 | Leaving Here |
-| LP-D4 | Fire Fire |
-| LP-D5 | Love Me Like A Reptile |
-| LP-E1 | Capricorn |
-| LP-E2 | Too Late, Too Late |
-| LP-E3 | (We Are) The Road Crew |
-| LP-E4 | No Class |
-| LP-F1 | Bite The Bullet |
-| LP-F2 | The Chase Is Better Than The Catch |
-| LP-F3 | Overkill |
-| LP-F4 | Bomber |
-|  | Riders Wearing Black - Live In Belfast - 1981 |
-| LP-G1 | Ace Of Spades |
-| LP-G2 | Stay Clean |
-| LP-G3 | Over The Top |
-| LP-G4 | The Hammer |
-| LP-G5 | Shoot You In The Back |
-| LP-G6 | Metropolis |
-| LP-H1 | Jailbait |
-| LP-H2 | Leaving Here |
-| LP-H3 | Capricorn |
-| LP-H4 | Too Late, Too Late |
-| LP-I1 | (We Are) The Road Crew |
-| LP-I2 | No Class |
-| LP-I3 | Bite The Bullet |
-| LP-I4 | The Chase Is Better Than The Catch |
-| LP-J1 | Overkill |
-| LP-J2 | Bomber |
-| LP-J3 | Motörhead |
-|  | The Good, The Broke & The Ugly |
-| LP-K1 | Ace Of Spades (Alternative Version) |
-| LP-K2 | Dirty Love |
-| LP-K3 | Love Me Like A Reptile (Alternative Long Version) |
-| LP-K4 | Shoot You In The Back (Alternative Version) |
-| LP-L1 | Hump On Your Back |
-| LP-L2 | Fast And Loose (Alternative Version) |
-| LP-L3 | (We Are) The Road Crew (Alternative Version) |
-| LP-L4 | Fire Fire (Alternative Version) |
-| LP-L5 | Jailbait (Alternative Version) |
-| LP-M1 | Waltz Of The Vampire |
-| LP-M2 | The Hammer (Alternative Version) |
-| LP-M3 | Dirty Love (Alternative Long Version) |
-| LP-M4 | Bastard |
-| LP-M5 | Godzilla Akimbo |
-| LP-N1 | Love Me Like A Reptile (Alternative Version) |
-| LP-N2 | Dirty Love (Alternative Version) |
-| LP-N3 | Please Don't Touch |
-| LP-N4 | Bomber |
-| LP-N5 | Emergency |
-|  | A Fistful Of Instrumentals 10" |
-| 10"-A1 | Ace Of Spades (Instrumental Demo) |
-| 10"-A2 | Hump On Your Back (Instrumental Demo) |
-| 10"-A3 | Shoot You In The Back (Instrumental Demo) |
-| 10"-A4 | Fast And Loose (Instrumental Demo) |
-| 10"-B1 | Dirty Love (Instrumental Demo) |
-| 10"-B2 | Love Me Like A Reptile (Instrumental Demo) |
-| 10"-B3 | Dance (Instrumental Demo) |
-|  | Ace On Your Screens DVD |
-|  | Ace On Your Screens |
-|  | Live In Belfast '81 |
-|  | Ace Of Spades 5.1 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

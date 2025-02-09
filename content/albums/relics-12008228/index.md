@@ -34,17 +34,17 @@ Relics (subtitle: A Bizarre Collection of Antiques & Curios) is a 1971 compilati
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Arnold Layne |
-| A2 | Interstellar Overdrive |
-| A3 | See Emily Play |
-| A4 | Remember A Day |
-| A5 | Paintbox |
-| B1 | Julia Dream |
-| B2 | Careful With That Axe, Eugene |
-| B3 | Cirrus Minor |
-| B4 | The Nile Song |
-| B5 | Biding My Time |
-| B6 | Bike |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

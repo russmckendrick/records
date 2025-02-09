@@ -34,16 +34,16 @@ We Care a Lot is the debut studio album by American rock band Faith No More, ori
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | We Care A Lot |
-| A2 | The Jungle |
-| A3 | Mark Bowen |
-| A4 | Jim |
-| A5 | Why Do You Bother |
-| B1 | Greed |
-| B2 | Pills For Breakfast |
-| B3 | As The Worm Turns |
-| B4 | Arabian Disco |
-| B5 | New Beginnings |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

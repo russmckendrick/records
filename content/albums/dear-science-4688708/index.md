@@ -36,17 +36,17 @@ As of 2012, sales in the United States have exceeded 203,000 copies, according t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Halfway Home |
-| A2 | Crying |
-| A3 | Dancing Choose |
-| B1 | Stork & Owl |
-| B2 | Golden Age |
-| B3 | Family Tree |
-| C1 | Red Dress |
-| C2 | Love Dog |
-| C3 | Shout Me Out |
-| D1 | DLZ |
-| D2 | Lover's Day |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

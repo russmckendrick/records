@@ -66,33 +66,33 @@ styles: ["Prog Rock", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | "Truth" (Intro) |
-| A2 | Nowhere Now |
-| A3 | Pariah |
-| A4 | Home Invasion / Regret #9 |
-| B1 | The Creator Has A Mastertape |
-| B2 | Refuge |
-| B3 | People Who Eat Darkness |
-| C1 | Ancestral |
-| D2 | Arriving Somewhere But Not Here |
-| E1 | Permanating |
-| E2 | Song Of I |
-| E3 | Lazarus |
-| F1 | Detonation |
-| F2 | The Same Asylum As Before |
-| G1 | Song Of Unborn |
-| G2 | Vermillioncore |
-| G3 | Sleep Together |
-| H1 | Even Less |
-| H2 | Blank Tapes |
-| H3 | Sound Of Muzak |
-| H4 | The Raven That Refused To Sing |
-| I1 | Routine |
-| I2 | Hand Cannot Erase |
-| I3 | Heartattack In A Layby |
-| J1 | How Is Your Life Today? |
-| J2 | Blackfield |
-| J3 | Postcard |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

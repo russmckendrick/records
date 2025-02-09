@@ -35,24 +35,24 @@ Since I Left You was acclaimed by critics. It peaked in the top 30 on the ARIA A
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Since I Left You |
-| A2 | Stay Another Season |
-| A3 | Radio |
-| A4 | Two Hearts In 3/4 Time |
-| B1 | Avalanche Rock |
-| B2 | Flight Tonight |
-| B3 | Close To You |
-| B4 | Diners Only |
-| B5 | A Different Feeling |
-| C1 | Electricity |
-| C2 | Tonight May Have To Last Me All My Life |
-| C3 | Pablo's Cruise |
-| C4 | Frontier Psychiatrist |
-| D1 | Etoh |
-| D2 | Summer Crane |
-| D3 | Little Journey |
-| D4 | Live At Dominoes |
-| D5 | Extra Kings |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

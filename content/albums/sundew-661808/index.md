@@ -36,16 +36,16 @@ Despite lacking a hit single, the album reached number 37 on the UK Albums Chart
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Eternity |
-| A2 | Fade |
-| A3 | Smile |
-| A4 | Slippery Man |
-| A5 | What Goes On |
-| B1 | Perfume (Loved Up) |
-| B2 | Louise |
-| B3 | Breathless |
-| B4 | Chaos (Stupid Stupid) |
-| B5 | Purest Values |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

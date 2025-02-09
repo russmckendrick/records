@@ -33,15 +33,15 @@ Synchro Anarchy is the fifteenth studio album, and nineteenth release overall, b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Paranormalium |
-| A2 | Synchro Anarchy |
-| A3 | Planet Eaters |
-| A4 | Mind Clock |
-| B1 | Sleeves Off |
-| B2 | Holographic Thinking |
-| B3 | The World Today |
-| B4 | Quest For Nothing |
-| B5 | Memory Failure |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

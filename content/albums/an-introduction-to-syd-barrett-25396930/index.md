@@ -36,24 +36,24 @@ An Introduction to Syd Barrett is a 'best of' compilation featuring the work of 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Arnold Layne |
-| A2 | See Emily Play |
-| A3 | Apples And Oranges (Stereo Version) |
-| A4 | Matilda Mother (2010 Mix) |
-| B1 | Chapter 24 |
-| B2 | Bike |
-| B3 | Terrapin |
-| B4 | Love You |
-| B5 | Dark Globe |
-| C1 | Here I Go (2010 Remix) |
-| C2 | Octopus (2010 Mix) |
-| C3 | She Took A Long Cool Look (2010 Mix) |
-| C4 | If It's In You |
-| C5 | Baby Lemonade |
-| D1 | Dominoes (2010 Mix) |
-| D2 | Gigolo Aunt |
-| D3 | Effervescing Elephant |
-| D4 | Bob Dylan Blues |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

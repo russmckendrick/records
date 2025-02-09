@@ -38,16 +38,16 @@ The album debuted at number 19 on the UK Albums Chart and has been certified pla
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Crystalline Green |
-| A2 | Train |
-| A3 | Black Cherry |
-| A4 | Tiptoe |
-| A5 | Deep Honey |
-| B1 | Hairy Trees |
-| B2 | Twist |
-| B3 | Strict Machine |
-| B4 | Forever |
-| B5 | Slippage |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

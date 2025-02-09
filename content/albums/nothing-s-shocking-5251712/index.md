@@ -1,7 +1,7 @@
 ---
-title: "Janes Addiction - Nothing's Shocking"
-artist_name: "Janes Addiction"
-artist: "janes-addiction"
+title: "Jane's Addiction - Nothing's Shocking"
+artist_name: "Jane's Addiction"
+artist: "jane-s-addiction"
 album_name: "Nothing's Shocking"
 date: 2015-08-09T08:36:12.000000Z
 release_date: "1988-08-23"
@@ -10,8 +10,8 @@ slug: "nothing-s-shocking-5251712"
 hideSummary: true
 cover:
     image: "nothing-s-shocking-5251712.jpg"
-    alt: "Nothing's Shocking by Janes Addiction"
-    caption: "Nothing's Shocking by Janes Addiction"
+    alt: "Nothing's Shocking by Jane's Addiction"
+    caption: "Nothing's Shocking by Jane's Addiction"
 additional_images:
     - "https://i.discogs.com/JeZsscT8ZuxEivTlUsc6czKvDh6ZLvtU0OaHUNSXuSs/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTM4ODc2OTQ5/My02ODMwLmpwZWc.jpeg"
     - "https://i.discogs.com/KEdSgVBWWaDoHp1ENSgWOddFsnoK1otGMKM1x7m7Jec/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNTE3/MTItMTQwMDI2MTc1/Ny02MDAzLmpwZWc.jpeg"
@@ -36,16 +36,16 @@ Bringing together arty college-radio kids and throw-the-horns hard rockers, Perr
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Up The Beach |
-| A2 | Ocean Size |
-| A3 | Had A Dad |
-| A4 | Ted, Just Admit It... |
-| A5 | Standing In The Shower... Thinking |
-| B1 | Summertime Rolls |
-| B2 | Mountain Song |
-| B3 | Idiots Rule |
-| B4 | Jane Says |
-| B5 | Thank You Boys |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -64,4 +64,4 @@ Bringing together arty college-radio kids and throw-the-horns hard rockers, Perr
 | Label          | Warner Bros. Records |
 | Catalog Number | 8122798884 |
 | Notes | Engineered [...] at Eldorado Studios in Los Angeles  Mixed [...] at Post Logic Studios in Hollywood  Mastered by Steve Hall at Future Disc  All songs © 1988 I'll Hit You Back Music / Bubbly Orange Stuff Music / Embryotic Music / Swizzle Stick Music BMI  ℗ © 1988 Warner Bros. Records Inc. for the U.S. and WEA International for the world outside of the U.S.  Made in E.U.    Includes a printed inner sleeve |
-| Discogs URL    | [Janes Addiction - Nothing's Shocking](https://www.discogs.com/release/5251712-Janes-Addiction-Nothings-Shocking) |
+| Discogs URL    | [Jane's Addiction - Nothing's Shocking](https://www.discogs.com/release/5251712-Janes-Addiction-Nothings-Shocking) |

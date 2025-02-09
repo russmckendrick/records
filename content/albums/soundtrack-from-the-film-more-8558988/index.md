@@ -33,19 +33,19 @@ styles: ["Soundtrack", "Psychedelic Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Cirrus Minor |
-| A2 | The Nile Song |
-| A3 | Crying Song |
-| A4 | Up The Khyber |
-| A5 | Green Is The Colour |
-| A6 | Cymbaline |
-| A7 | Party Sequence |
-| B1 | Main Theme |
-| B2 | Ibiza Bar |
-| B3 | More Blues |
-| B4 | Quicksilver |
-| B5 | A Spanish Piece |
-| B6 | Dramatic Theme |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

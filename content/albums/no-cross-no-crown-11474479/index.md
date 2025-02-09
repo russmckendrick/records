@@ -40,21 +40,21 @@ No Cross No Crown is the tenth studio album by American heavy metal band Corrosi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Novus Deus |
-| A2 | The Luddite |
-| A3 | Cast The First Stone |
-| A4 | No Cross |
-| A5 | Wolf Named Crow |
-| B1 | Little Man |
-| B2 | Matre's Diem |
-| B3 | Forgive Me |
-| C1 | Nothing Left To Say |
-| C2 | Sacred Isolation |
-| C3 | Old Disaster |
-| C4 | E.L.M. |
-| D1 | No Cross No Crown |
-| D2 | A Quest To Believe (A Call To The Void) |
-| D3 | Son And Daughter |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

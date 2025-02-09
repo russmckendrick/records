@@ -39,17 +39,17 @@ The Art of the Lie is the sixth studio album by American musician John Grant, re
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | All That School For Nothing |
-| A2 | Marbles |
-| A3 | Father |
-| B1 | Mother And Son |
-| B2 | Twisted Scriptures |
-| B3 | Meek AF |
-| C1 | It's A Bitch |
-| C2 | Daddy |
-| D1 | The Child Catcher |
-| D2 | Laura Lou |
-| D3 | Zeitgeist |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

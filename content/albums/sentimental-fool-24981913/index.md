@@ -32,18 +32,18 @@ styles: ["Soul"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Forever |
-| A2 | I Should Have Let You Be |
-| A3 | Sentimental Fool |
-| A4 | Two Jobs |
-| A5 | Just Give Me Your Time |
-| A6 | Save Your Tears For Someone New |
-| B1 | The Door |
-| B2 | What Did I Do? |
-| B3 | Without A Heart |
-| B4 | Ordinary Lives |
-| B5 | Your Face Before My Eyes |
-| B6 | Extraordinary Man |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

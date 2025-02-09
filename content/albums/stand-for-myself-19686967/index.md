@@ -1,6 +1,6 @@
 ---
-title: "Yola - Stand For Myself"
-artist_name: "Yola"
+title: "Yola (4) - Stand For Myself"
+artist_name: "Yola (4)"
 artist: "yola"
 album_name: "Stand For Myself"
 date: 2021-08-09T03:27:52.000000Z
@@ -10,8 +10,8 @@ slug: "stand-for-myself-19686967"
 hideSummary: true
 cover:
     image: "stand-for-myself-19686967.jpg"
-    alt: "Stand For Myself by Yola"
-    caption: "Stand For Myself by Yola"
+    alt: "Stand For Myself by Yola (4)"
+    caption: "Stand For Myself by Yola (4)"
 additional_images:
     - "https://i.discogs.com/xfqgTAHxolxDQ7UIDi79XmPD6BEfsBLgQn7218gUm3Q/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2Mjc3MTQ5/NTktMjQxNC5qcGVn.jpeg"
     - "https://i.discogs.com/dqJjV4EVFS4bGFoJxzPP7mwGZKIT7AzL6Nrr8UqfIws/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njg2/OTY3LTE2Mjc3MTQ5/NjQtNzM1MS5qcGVn.jpeg"
@@ -51,18 +51,18 @@ If she started humming a tune while straightening up the house, she wouldn't imm
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Barely Alive |
-| A2 | Dancing Away In Tears |
-| A3 | Diamond Studded Shoes |
-| A4 | Be My Friend |
-| A5 | Great Divide |
-| A6 | Starlight |
-| B1 | If I Had To Do It All Again |
-| B2 | Now You're Here |
-| B3 | Whatever You Want |
-| B4 | Break The Bough |
-| B5 | Like A Photograph |
-| B6 | Stand For Myself |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -81,4 +81,4 @@ If she started humming a tune while straightening up the house, she wouldn't imm
 | Label          | Easy Eye Sound |
 | Catalog Number | EES-0081 |
 | Notes | Contains a four page inlay folder with a large photo on one side and lyrics on the other side.  Publishing: [url=https://www.discogs.com/artist/7004421]Yola[/url] – Downtown Music Publishing, LLC (BMI) [a266197] – Profit Daniel (BMI), administered by Wixen Music Publishing [a1427421] – Songs of Universal, Inc. / Wrucke For You Publishing. All rights for Wrucke For You Publishing controlled and administered by Songs of Universal, Inc.All rights reserved. Used by permission. (BMI) [a5975372] – Olubukola Oladokun/Where Da Kasz (BMI) [a2976110] – Tasjan Music (ASCAP) [a347626] – Like Butta Baby Music (BMI) [a641241] – Scarlet Moon Music, Inc. (ASCAP), administered by ClearBox Rights [a293222] – Janwood Music (SESAC) [a617010] – Doorway Music (ASCAP), administered by Kobalt [a1055577] – Songs From The Sendero Music (BMI) and Warner-Tamerlane Publishing Corp. (BMI) All rights on behalf of itself and Songs From The Sendero Music administered by Warner-Tamerlane Publishing Corp. [url=https://www.discogs.com/artist/274737]Patrick James McLaughlin [/url] – Corn Country Music (BMI), administered by ClearBox Rights [a3223539] – Budde Publishing  |
-| Discogs URL    | [Yola - Stand For Myself](https://www.discogs.com/release/19686967-Yola-4-Stand-For-Myself) |
+| Discogs URL    | [Yola (4) - Stand For Myself](https://www.discogs.com/release/19686967-Yola-4-Stand-For-Myself) |

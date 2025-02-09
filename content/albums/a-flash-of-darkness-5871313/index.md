@@ -28,17 +28,17 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | A Flash Of Darkness |
-| A2 | Consuela |
-| A3 | Guilty Again |
-| A4 | It's Hard To Be Good All The Time |
-| A5 | Pink Bullets |
-| A6 | Low Company |
-| B1 | Life Without F(r)iction |
-| B2 | This Is The Lie (And That's The Truth) |
-| B3 | Space Cadet |
-| B4 | Nightcall |
-| B5 | Sleep Song |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -1,6 +1,6 @@
 ---
-title: "Therapy - Troublegum"
-artist_name: "Therapy"
+title: "Therapy? - Troublegum"
+artist_name: "Therapy?"
 artist: "therapy"
 album_name: "Troublegum"
 date: 2016-12-13T17:57:34.000000Z
@@ -10,8 +10,8 @@ slug: "troublegum-834572"
 hideSummary: true
 cover:
     image: "troublegum-834572.jpg"
-    alt: "Troublegum by Therapy"
-    caption: "Troublegum by Therapy"
+    alt: "Troublegum by Therapy?"
+    caption: "Troublegum by Therapy?"
 additional_images:
     - "https://i.discogs.com/iePONTSKJ0xL1TMB7SFW6oBwVFMOE5HGx731UbHIyXE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU3/Mi0xMzM4OTkwMzg2/LTQzOTkuanBlZw.jpeg"
     - "https://i.discogs.com/b_3qtNoBYm83tiADo6qt_bnjxXdEGg1RWHleoQ9fk48/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzNDU3/Mi0xMzM4OTkwMzg4/LTIyNDQuanBlZw.jpeg"
@@ -37,20 +37,20 @@ Troublegum is the second major label album by the Northern Irish rock band Thera
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Knives |
-| A2 | Screamager |
-| A3 | Hellbelly |
-| A4 | Stop It You're Killing Me |
-| A5 | Nowhere |
-| A6 | Die Laughing |
-| A7 | Unbeliever |
-| B1 | Trigger Inside |
-| B2 | Lunacy Booth |
-| B3 | Isolation |
-| B4 | Turn |
-| B5 | Femtex |
-| B6 | Unrequited |
-| B7 | Brainsaw |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -69,4 +69,4 @@ Troublegum is the second major label album by the Northern Irish rock band Thera
 | Label          | A&M Records |
 | Catalog Number | 540 196-1 |
 | Notes | Also available on [url=http://www.discogs.com/Therapy-Troublegum/release/1632751]black vinyl[/url]. |
-| Discogs URL    | [Therapy - Troublegum](https://www.discogs.com/release/834572-Therapy-Troublegum) |
+| Discogs URL    | [Therapy? - Troublegum](https://www.discogs.com/release/834572-Therapy-Troublegum) |

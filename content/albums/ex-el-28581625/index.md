@@ -35,19 +35,19 @@ In 2007, The Guardian included the album in their list of "1000 Albums to Hear B
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | San Francisco |
-| A2 | Spanish Heart |
-| A3 | Leo Leo |
-| B1 | Qmart |
-| B3 | Nephatiti |
-| B3 | Lift |
-| C1 | Ooops |
-| C2 | Empire |
-| C3 | In Yer Face |
-| D1 | Cübik |
-| D2 | Lambrusco Cowboy |
-| D3 | Techno Bell |
-| D4 | Olympic |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

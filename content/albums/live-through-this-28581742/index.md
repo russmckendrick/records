@@ -1,6 +1,6 @@
 ---
-title: "Hole - Live Through This"
-artist_name: "Hole"
+title: "Hole (2) - Live Through This"
+artist_name: "Hole (2)"
 artist: "hole"
 album_name: "Live Through This"
 date: 2023-10-17T11:31:12.000000Z
@@ -10,8 +10,8 @@ slug: "live-through-this-28581742"
 hideSummary: true
 cover:
     image: "live-through-this-28581742.jpg"
-    alt: "Live Through This by Hole"
-    caption: "Live Through This by Hole"
+    alt: "Live Through This by Hole (2)"
+    caption: "Live Through This by Hole (2)"
 additional_images:
     - "https://i.discogs.com/_iYdTl2SWgubBVcGNW_GI-3ZvHe2aqXsoy8oFXrpYNs/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgx/NzQyLTE2OTcyMzE3/MjgtMjY2OS5qcGVn.jpeg"
     - "https://i.discogs.com/KqO4w8grYWFdmAgda1vqQLZZkXYJKq3GWPiQBt82twQ/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTgx/NzQyLTE2OTcyMzE3/MjUtODA5MC5qcGVn.jpeg"
@@ -34,18 +34,18 @@ Cobain’s passing was hardly the only devastating loss to shadow the record, as
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Violet |
-| A2 | Miss World |
-| A3 | Plump |
-| A4 | Asking For It |
-| A5 | Jennifers Body |
-| A6 | Doll Parts |
-| B1 | Credit In The Straight World |
-| B2 | Softer, Softest |
-| B3 | She Walks On Me |
-| B4 | I Think That I Would Die |
-| B5 | Gutless |
-| B6 | Rock Star |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -64,4 +64,4 @@ Cobain’s passing was hardly the only devastating loss to shadow the record, as
 | Label          | DGC |
 | Catalog Number | 00602458206104 |
 | Notes | National Album Day 2023 |
-| Discogs URL    | [Hole - Live Through This](https://www.discogs.com/release/28581742-Hole-2-Live-Through-This) |
+| Discogs URL    | [Hole (2) - Live Through This](https://www.discogs.com/release/28581742-Hole-2-Live-Through-This) |

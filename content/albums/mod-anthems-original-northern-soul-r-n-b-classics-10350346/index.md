@@ -33,33 +33,33 @@ styles: ["Mod", "Soul", "Rhythm & Blues"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Green Onions |
-| A2 | In The Midnight Hour |
-| A3 | Last Night |
-| A4 | I'm Gonna Run Away From You |
-| A5 | Respect |
-| A6 | Walking The Dog |
-| A7 | What'cha Gonna Do About It |
-| B1 | Everybody Needs Somebody To Love |
-| B2 | Chain Of Fools |
-| B3 | Walkin' Up A One Way Street |
-| B4 | Sock It To 'Em J.B. |
-| B5 | Candy |
-| B6 | Just Say Goodbye |
-| C1 | You're Ready Now |
-| C2 | Cool Jerk |
-| C3 | Sweet Soul Music |
-| C4 | Skiing In The Snow |
-| C5 | Open The Door To Your Heart |
-| C6 | Crazy Baby |
-| C7 | Memphis Soul Stew |
-| D1 | Here I Go Again |
-| D2 | Seven Days Too Long |
-| D3 | You Hit Me (Right Where It Hurt Me) |
-| D4 | Big Bird |
-| D5 | Some Kind Of Wonderful |
-| D6 | Somebody (Somewhere) Needs Me |
-| D7 | Kiss My Love Goodbye |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

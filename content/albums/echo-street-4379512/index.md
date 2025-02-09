@@ -1,6 +1,6 @@
 ---
-title: "Amplifier - Echo Street"
-artist_name: "Amplifier"
+title: "Amplifier (3) - Echo Street"
+artist_name: "Amplifier (3)"
 artist: "amplifier"
 album_name: "Echo Street"
 date: 2015-08-09T08:50:23.000000Z
@@ -10,8 +10,8 @@ slug: "echo-street-4379512"
 hideSummary: true
 cover:
     image: "echo-street-4379512.jpg"
-    alt: "Echo Street by Amplifier"
-    caption: "Echo Street by Amplifier"
+    alt: "Echo Street by Amplifier (3)"
+    caption: "Echo Street by Amplifier (3)"
 additional_images:
     - "https://i.discogs.com/-cmuI_FXcXdSyqojJ8m0IX9-pZ8_f0ti7OzpTW0IpbI/rs:fit/g:sm/q:90/h:496/w:505/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzk1/MTItMTQxODU2ODA0/NC0xMDIzLmpwZWc.jpeg"
     - "https://i.discogs.com/VbiIPKom61_9hI1wMnexwQsa6n4OEIGhnurakrysAd4/rs:fit/g:sm/q:90/h:499/w:502/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzk1/MTItMTQxODU2ODA0/OC00Mjc5LmpwZWc.jpeg"
@@ -37,14 +37,14 @@ styles: ["Prog Rock", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Matmos |
-| A2 | The Wheel |
-| B1 | Extra Vehicular |
-| B2 | Where The River Goes |
-| C1 | Paris In The Spring |
-| C2 | Between Today And Yesterday |
-| D1 | Echo Street |
-| D2 | Mary Rose |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -62,4 +62,4 @@ styles: ["Prog Rock", "Alternative Rock"]
 | Label          | Kscope |
 | Catalog Number | KSCOPE837 |
 | Notes | Comes in gatefold sleeve with full color inner sleeves.     Copies preordered from the Ampcorp Industries web store come signed by all four band members.    Copies ordered from Burning Shed include a download card.    ℗ & © 2013 Ampcorp Industries  Kscope is a Snapper Music label  www.kscopemusic.com  www.amplifierband.com  www.ampcorp-industries.com    Cat# appears as KSCOPE837 on spine, but on both labels it appears wrongly as KSCOPE835   (which is the cat# for "Steven Wilson - The Raven That Refused To Sing"). |
-| Discogs URL    | [Amplifier - Echo Street](https://www.discogs.com/release/4379512-Amplifier-3-Echo-Street) |
+| Discogs URL    | [Amplifier (3) - Echo Street](https://www.discogs.com/release/4379512-Amplifier-3-Echo-Street) |

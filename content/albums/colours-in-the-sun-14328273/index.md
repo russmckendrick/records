@@ -1,6 +1,6 @@
 ---
-title: "Voyager - Colours In The Sun"
-artist_name: "Voyager"
+title: "Voyager (30) - Colours In The Sun"
+artist_name: "Voyager (30)"
 artist: "voyager"
 album_name: "Colours In The Sun"
 date: 2019-11-04T18:58:39.000000Z
@@ -10,8 +10,8 @@ slug: "colours-in-the-sun-14328273"
 hideSummary: true
 cover:
     image: "colours-in-the-sun-14328273.jpg"
-    alt: "Colours In The Sun by Voyager"
-    caption: "Colours In The Sun by Voyager"
+    alt: "Colours In The Sun by Voyager (30)"
+    caption: "Colours In The Sun by Voyager (30)"
 additional_images:
     - "https://i.discogs.com/JXA9a7umaAWIBqId9lLBENcftedZJbAebTvKy-noJTw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI4/MjczLTE1NzIzMTQ3/ODctNTYxNS5qcGVn.jpeg"
     - "https://i.discogs.com/TkcAntZ7ZWyRe3_u05otuPCqY625U_Wq_o2tJ1z1q40/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzI4/MjczLTE1NzIzMTQ3/ODgtMTk2My5qcGVn.jpeg"
@@ -36,16 +36,16 @@ styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Colours |
-| A2 | Severomance |
-| A3 | Brightstar |
-| A4 | Saccharine Dream |
-| A5 | Entropy |
-| B1 | Reconnected |
-| B2 | Now Or Never |
-| B3 | Sign Of The Times |
-| B4 | Water Over The Bridge |
-| B5 | Runaway |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ styles: ["Post Rock", "Prog Rock", "Progressive Metal"]
 | Label          | Season Of Mist |
 | Catalog Number | SOM 533LP |
 | Notes | First pressing. Transparent Turquoise version limited to 100.  |
-| Discogs URL    | [Voyager - Colours In The Sun](https://www.discogs.com/release/14328273-Voyager-30-Colours-In-The-Sun) |
+| Discogs URL    | [Voyager (30) - Colours In The Sun](https://www.discogs.com/release/14328273-Voyager-30-Colours-In-The-Sun) |

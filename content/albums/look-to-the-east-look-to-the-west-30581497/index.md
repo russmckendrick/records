@@ -30,23 +30,23 @@ Look to the East, Look to the West is the sixth studio album by the Scottish ind
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Liberty Print |
-| A2 | We're Going To Make It In A Man's World |
-| A3 | Big Love |
-| A4 | Only A Dream |
-| A5 | The Light Nights |
-| B1 | Sleepwalking |
-| B2 | Baby Huey (Hard Times) |
-| B3 | Denon |
-| B4 | Pop Goes Pop |
-| B5 | Sugar Almond |
-| B6 | Look To The East, Look To The West |
-|  | Look To The Demos |
-| 1 | Baby Huey (Hard Times) |
-| 2 | Denon |
-| 3 | Liberty Print |
-| 4 | Only A Dream |
-| 5 | The Light Nights |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

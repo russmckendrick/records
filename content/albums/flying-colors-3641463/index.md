@@ -40,17 +40,17 @@ Flying Colors is an American supergroup composed of Mike Portnoy, Dave LaRue, Ca
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Blue Ocean |
-| A2 | Shoulda Coulda Woulda |
-| A3 | Kayla |
-| B1 | The Storm |
-| B2 | Forever In A Daze |
-| B3 | Love Is What I'm Waiting For |
-| C1 | Everything Changes |
-| C2 | Better Than Walking Away |
-| C3 | All Falls Down |
-| D1 | Fool In My Heart |
-| D2 | Infinite Fire |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

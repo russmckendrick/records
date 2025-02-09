@@ -1,6 +1,6 @@
 ---
-title: "Sleeper - The Modern Age"
-artist_name: "Sleeper"
+title: "Sleeper (2) - The Modern Age"
+artist_name: "Sleeper (2)"
 artist: "sleeper"
 album_name: "The Modern Age"
 date: 2019-03-23T13:39:12.000000Z
@@ -10,8 +10,8 @@ slug: "the-modern-age-13384601"
 hideSummary: true
 cover:
     image: "the-modern-age-13384601.jpg"
-    alt: "The Modern Age by Sleeper"
-    caption: "The Modern Age by Sleeper"
+    alt: "The Modern Age by Sleeper (2)"
+    caption: "The Modern Age by Sleeper (2)"
 additional_images:
     - "https://i.discogs.com/61Wd83srwcHF4djiW4conFh7LogcLmIilORXZkXFr_k/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg0/NjAxLTE1NTMxOTM2/MTctODE0NC5qcGVn.jpeg"
     - "https://i.discogs.com/AU_BmOb60wK6cORbGzZxnUsD1QyWAbV-mF-ARZp0z1Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzg0/NjAxLTE1NTMxOTM2/MjQtNTk4MC5qcGVn.jpeg"
@@ -35,16 +35,16 @@ The Modern Age is the fourth studio album by English Britpop band Sleeper. The a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Paradise Waiting |
-| A2 | Look At You Now |
-| A3 | The Sun Also Rises |
-| A4 | Dig |
-| A5 | The Modern Age |
-| B1 | Cellophane |
-| B2 | Car Into The Sea |
-| B3 | Blue Like You |
-| B4 | More Than I Do |
-| B5 | Big Black Sun |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ The Modern Age is the fourth studio album by English Britpop band Sleeper. The a
 | Label          | Gorsky Records |
 | Catalog Number | SLEEP19LPC2 |
 | Notes | "Indies only" limited edition cream coloured vinyl. Issued in a matte sleeve. Picture/lyric inner sleeve of matte card. Barcode over-sticker applied to shrink-wrap. Some copies were made available which were signed by the members of the band.  Label cat# SLEEP19LP on the labels center (side B) and on the back cover. Label cat# SLEEP19LPC2 (for the cream limited edition) on the sticker with barcode.  Mixed by Stephen Street at The Bunker Made in the EU. |
-| Discogs URL    | [Sleeper - The Modern Age](https://www.discogs.com/release/13384601-Sleeper-2-The-Modern-Age) |
+| Discogs URL    | [Sleeper (2) - The Modern Age](https://www.discogs.com/release/13384601-Sleeper-2-The-Modern-Age) |

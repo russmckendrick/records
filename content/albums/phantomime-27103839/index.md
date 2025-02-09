@@ -1,6 +1,6 @@
 ---
-title: "Ghost - Phantomime "
-artist_name: "Ghost"
+title: "Ghost (32) - Phantomime "
+artist_name: "Ghost (32)"
 artist: "ghost"
 album_name: "Phantomime "
 date: 2023-05-19T11:07:27.000000Z
@@ -10,8 +10,8 @@ slug: "phantomime-27103839"
 hideSummary: true
 cover:
     image: "phantomime-27103839.jpg"
-    alt: "Phantomime  by Ghost"
-    caption: "Phantomime  by Ghost"
+    alt: "Phantomime  by Ghost (32)"
+    caption: "Phantomime  by Ghost (32)"
 additional_images:
     - "https://i.discogs.com/LvnxHVEt5aiRNiOt5YiRzIVd6jI5GrEYPF8O4cDAHWc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAz/ODM5LTE2ODc5NjUw/NjAtODMwNS5qcGVn.jpeg"
     - "https://i.discogs.com/KNmTTIp2ZXFoIhGVVNfPFhvvChK2W8PDofoUQYI1T5w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTAz/ODM5LTE2ODc5NjUw/NjAtNTQ4My5qcGVn.jpeg"
@@ -52,11 +52,11 @@ What hasn’t changed is that <i>Phantomime</i> is a companion piece to Ghost’
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | See No Evil |
-| A2 | Jesus He Knows Me |
-| A3 | Hanging Around |
-| B1 | Phantom Of The Opera |
-| B2 | We Don't Need Another Hero |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -75,4 +75,4 @@ What hasn’t changed is that <i>Phantomime</i> is a companion piece to Ghost’
 | Label          | Loma Vista |
 | Catalog Number | LVR03333 |
 | Notes | 200 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. |
-| Discogs URL    | [Ghost - Phantomime ](https://www.discogs.com/release/27103839-Ghost-32-Phantomime-) |
+| Discogs URL    | [Ghost (32) - Phantomime ](https://www.discogs.com/release/27103839-Ghost-32-Phantomime-) |

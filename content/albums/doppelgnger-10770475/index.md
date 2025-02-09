@@ -26,16 +26,16 @@ styles: ["Industrial", "Indie Rock", "Shoegaze"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Already Yours |
-| A2 | Horror Head |
-| A3 | Wish You Dead |
-| A4 | Doppelgänger |
-| A5 | Lillies Dying |
-| B1 | Ice That Melts The Tips |
-| B2 | Split Into Fractions |
-| B3 | Think And Act |
-| B4 | Fait Accompli |
-| B5 | Sandpit |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

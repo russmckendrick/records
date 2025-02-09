@@ -40,18 +40,18 @@ On June 24, 2024, it was announced that the album would receive a novel adaptati
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Regression |
-| A2 | Overture 1928 |
-| A3 | Strange Deja Vu |
-| A4 | Through My Words |
-| A5 | Fatal Tragedy |
-| B1 | Beyond This Life |
-| B2 | Through Her Eyes |
-| C1 | Home |
-| C2 | The Dance Of Eternity |
-| C3 | One Last Time |
-| D1 | The Spirit Carries On |
-| D2 | Finally Free |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -40,24 +40,24 @@ styles: ["Prog Rock", "Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Black Side |
-| A1 | Sweeter Than You |
-| A2 | No! (Part 1) |
-| A3 | No! (Part 2) |
-| B1 | Let's Have An Apocalypse Now! |
-| B2 | Black Light Generator |
-| B3 | Parasites |
-| B4 | _______ |
-|  | White Side |
-| C1 | Northern Comfort |
-| C2 | Wake Me Up When It's Time To Sleep |
-| C3 | Caring Breeds The Horror |
-| C4 | You'll Be Murdered |
-| D1 | We Remember You |
-| D2 | A Brighter Tomorrow |
-|  | 7" Vinyl |
-| E1 | Now You`re Gone |
-| F1 | Self Seeking Man |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

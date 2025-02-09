@@ -1,7 +1,7 @@
 ---
-title: "The B-52s - Cosmic Thing"
-artist_name: "The B-52s"
-artist: "the-b-52s"
+title: "The B-52's - Cosmic Thing"
+artist_name: "The B-52's"
+artist: "the-b-52-s"
 album_name: "Cosmic Thing"
 date: 2018-11-23T18:39:26.000000Z
 release_date: "1989-06-27"
@@ -10,8 +10,8 @@ slug: "cosmic-thing-12830083"
 hideSummary: true
 cover:
     image: "cosmic-thing-12830083.jpg"
-    alt: "Cosmic Thing by The B-52s"
-    caption: "Cosmic Thing by The B-52s"
+    alt: "Cosmic Thing by The B-52's"
+    caption: "Cosmic Thing by The B-52's"
 additional_images:
     - "https://i.discogs.com/u-K04fcPDMQEx66oixBSp392jhG3OE4aMTkiahUnDq4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODMw/MDgzLTE1NDM5NTI3/MDEtMjYzNS5qcGVn.jpeg"
     - "https://i.discogs.com/cn8rpH92raGL3uJqLy3HskAF0WQrIOq9hl7EiXU4jMk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODMw/MDgzLTE1NDM5NTI3/MDItOTY1NS5qcGVn.jpeg"
@@ -39,16 +39,16 @@ Cosmic Thing was the ninth best-selling album of 1990 in the US, peaking at No. 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Cosmic Thing |
-| A2 | Dry County |
-| A3 | Deadbeat Club |
-| A4 | Love Shack |
-| A5 | Junebug |
-| B1 | Roam |
-| B2 | Bushfire |
-| B3 | Channel Z |
-| B4 | Topaz |
-| B5 | Follow Your Bliss |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -67,4 +67,4 @@ Cosmic Thing was the ninth best-selling album of 1990 in the US, peaking at No. 
 | Label          | Reprise Records |
 | Catalog Number | RCV1 25854 |
 | Notes | Sticker: Exclusive Rainbow Vinyl Features: "Love Shack", "Roam" & "Channel Z" Limited to 4500 copies.  Includes printed inner sleeve containing lyrics, credits, and photograph. |
-| Discogs URL    | [The B-52s - Cosmic Thing](https://www.discogs.com/release/12830083-The-B-52s-Cosmic-Thing) |
+| Discogs URL    | [The B-52's - Cosmic Thing](https://www.discogs.com/release/12830083-The-B-52s-Cosmic-Thing) |

@@ -41,23 +41,23 @@ styles: ["Arena Rock", "Classic Rock", "AOR"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Alone (Newly Recorded) |
-| A2 | Spanish Sea (Newly Recorded) |
-| A3 | I'll Supply The Love |
-| A4 | I'll Be Over You |
-| A5 | Stranger In Town |
-| B1 | 99 |
-| B2 | Struck By Lightning (Newly Recorded) |
-| B3 | Pamela |
-| B4 | Afraid Of Love |
-| C1 | I Won't Hold You Back |
-| C2 | Jake To The Bone |
-| C3 | Stop Loving You |
-| C4 | Lea |
-| D1 | Hold The Line |
-| D2 | Georgy Porgy |
-| D3 | Rosanna |
-| D4 | Africa |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

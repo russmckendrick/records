@@ -67,67 +67,67 @@ Those disparate efforts all played a role in the creation of <i>Yoshimi</i>, whi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Yoshimi Battles The Pink Robots |
-| A1 | Fight Test |
-| A2 | One More Robot |
-| A3 | Yoshimi Battles The Pink Robots Pt. 1 |
-| A4 | Yoshimi Battles The Pink Robots Pt. 2 |
-| A5 | In The Morning Of The Magicians |
-| B1 | Ego Tripping At The Gates Of Hell |
-| B2 | Are You A Hypnotist?? |
-| B3 | It's Summertime |
-| B4 | Do You Realize?? |
-| B5 | All We Have Is Now |
-| B6 | Approaching Pavonis Mons By Ballon (Utopia Planitia) |
-|  | Demos+ |
-| C1 | All My Life – Morning Of The Magicians |
-| C2 | Ego Tripping Part 2 Or 3 |
-| C3 | Yoshimi Battles The Pink Robots |
-| C4 | Hypnotist: Early Version |
-| C5 | Epic Systems Delirium |
-| C6 | In The Morning Of The Magicians |
-| D1 | Do You Realize?? (1st Chords Wayne)  |
-| D2 | Do You Realize?? (Steven New Part) |
-| D3 | Fight Test: Primitive Demo With Helium Voice |
-| D4 | If I Go Mad / Funeral In My Head |
-| D5 | Syrtis Major |
-|  | Non-LP+ |
-| E1 | Yoshimi Battles The Pink Robots (Japanese Version) |
-| E2 | Spongebob & Patrick Confront The Psychic Wall Of Energy |
-| E3 | Seven Nation Army |
-| E4 | Go  |
-| E5 | The Deterioration Of The Fight Or Flight Response |
-| E6 | Fight Test (Live On WXRT, May 2nd, 2003) |
-| F1 | Do You Realize?? (Live On CD 101) |
-| F2 | Yoshimi Battles The Pink Robots (AOL Session) |
-| F3 | Waitin' For A Superman (Live On WXPN) |
-| F4 | In The Morning Of The Magicians (Live On KCRW) |
-| F5 | White Christmas (Live On WXPN) |
-| F6 | The Golden Path |
-|  | Radio Sessions |
-| G1 | Suspicious Minds (Live On Cover-ed) |
-| G2 | Assassination Of The Sun |
-| G3 | Can't Get You Out Of My Head (Live On BBC Radio 1) |
-| G4 | Do You Realize?? (Live On BBC Radio 1) |
-| G5 | One More Robot (Live On BBC Radio 1) |
-| H1 | Do You Realize?? (Live On KEXP) |
-| H2 | One More Robot (Live On KEXP) |
-| H3 | Can't Get You Out Of My Head (Live On KEXP) |
-| H4 | Yoshimi Battles The Pink Robots (Live On KEXP) |
-| H5 | Breathe (Live On XFM) |
-| H6 | Ego Tripping At The Gates of Hell (Live On XFM) |
-| H7 | Sunship Balloons (Live On XFM) |
-|  | Radio Sessions+ |
-| I1 | Fight Test (Live On XFM) |
-| I2 | Thank You Jack White (Live On XFM) |
-| I3 | Do You Realize?? (Live On XFM) |
-| I4 | One More Robot (Live On XFM)  |
-| I5 | Can't Get You Out Of My Head (Live On XFM)  |
-| J1 | Ego Tripping At The Gates Of Hell (Live On BBC Radio 1) |
-| J2 | Yoshimi Battles The Pink Robots (Live On BBC Radio 1) |
-| J3 | Sunship Balloons (Live On BBC Radio 1) |
-| J4 | Up Above The Daily Hum |
-| J5 | Xanthe Terra |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

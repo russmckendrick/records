@@ -37,19 +37,19 @@ The album has retrospectively been considered a "dark horse" in the alternative 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Go Away |
-| A2 | Ignorance Is Bliss |
-| A3 | Leave It Alone |
-| A4 | Bi |
-| A5 | Mind Your Own Business |
-| A6 | Ausländer |
-| B1 | Never Satisfied |
-| B2 | Nothingness |
-| B3 | Postman |
-| B4 | WTFF |
-| B5 | This Little Pig |
-| B6 | Hemp |
-| B7 | Wall |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

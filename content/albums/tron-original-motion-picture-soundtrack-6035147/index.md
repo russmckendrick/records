@@ -35,24 +35,24 @@ Although her adaptations of Bach compositions for the Moog won Wendy Carlos thre
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Creation Of Tron |
-| A2 | Only Solutions  |
-| A3 | We've Got Company |
-| A4 | Wormhole |
-| A5 | Ring Game And Escape |
-| A6 | Water Music And Tronaction |
-| B1  | Tron Scherzo |
-| B2  | Miracle And Magician |
-| B3  | Magic Landings |
-| B4 | Theme From Tron |
-| B5 | 1990's Theme |
-| B6 | Love Theme |
-| C1 | Tower Music - Let Us Pray |
-| C2  | The Light Sailer |
-| C3 | Sea Of Simulation |
-| D1 | A New Tron And The Mcp |
-| D2 | Anthem |
-| D3 | Ending Titles |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

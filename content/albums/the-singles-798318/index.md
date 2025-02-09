@@ -43,27 +43,27 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Joe |
-| A2 | Find Out Why |
-| A3 | Move |
-| A4 | This Is How It Feels |
-| A5 | She Comes In The Fall |
-| B1 | Commercial Reign |
-| B2 | Sackville |
-| B3 | Biggest Mountain |
-| B4 | Weakness |
-| C1 | Caravan |
-| C2 | Please Be Cruel |
-| C3 | Dragging Me Down |
-| C4 | Two Worlds Collide |
-| C5 | Generations |
-| D1 | Bitches Brew |
-| D2 | How It Should Be |
-| D3 | Saturn 5 |
-| D4 | I Want You |
-| D5 | Uniform |
-| E | Weakness (Live) |
-| F | Caravan (Live) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

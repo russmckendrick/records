@@ -1,6 +1,6 @@
 ---
-title: "Utopia - Ra"
-artist_name: "Utopia"
+title: "Utopia (5) - Ra"
+artist_name: "Utopia (5)"
 artist: "utopia"
 album_name: "Ra"
 date: 2022-03-06T04:57:42.000000Z
@@ -10,8 +10,8 @@ slug: "ra-8117073"
 hideSummary: true
 cover:
     image: "ra-8117073.jpg"
-    alt: "Ra by Utopia"
-    caption: "Ra by Utopia"
+    alt: "Ra by Utopia (5)"
+    caption: "Ra by Utopia (5)"
 additional_images:
     - "https://i.discogs.com/jkFWgtBCbjBMoH5A3-2109Kdm_Ps3i44fAmvxm_ZJY8/rs:fit/g:sm/q:90/h:500/w:474/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTcw/NzMtMTU3NTkzMTAx/OS01MTY2LmpwZWc.jpeg"
     - "https://i.discogs.com/-N6sPtVyD2T7umnxWbBBIBXSM6BETBv3R0_eswQWQJA/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMTcw/NzMtMTQ1NTQ2MDM3/Mi02ODAwLmpwZWc.jpeg"
@@ -34,14 +34,14 @@ Previously hiding his identity behind a balaclava, north-west London rapper M Hu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1a | Overture (Instrumental) |
-| A1b | Communion With The Sun |
-| A2 | Magic Dragon Theatre |
-| A3 | Jealousy |
-| A4 | Eternal Love |
-| A5 | Sunburst Finish |
-| B1 | Hiroshima |
-| B2 | Singring And The Glass Guitar (An Electrified Fairytale) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -60,4 +60,4 @@ Previously hiding his identity behind a balaclava, north-west London rapper M Hu
 | Label          | Bearsville |
 | Catalog Number | K 55514 |
 | Notes | Recorded at Bearsville Sound Studio, Bearsville, N.Y. and at Utopia Sound, Lake Hill, N.Y. "Communion With The Sun"  and "Jealousy recorded at Turtle Creek Barn  This version has publishers mentioned with (1) and (2 - 5) on side A label Made in UK  |
-| Discogs URL    | [Utopia - Ra](https://www.discogs.com/release/8117073-Utopia-5-Ra) |
+| Discogs URL    | [Utopia (5) - Ra](https://www.discogs.com/release/8117073-Utopia-5-Ra) |

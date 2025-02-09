@@ -40,22 +40,22 @@ styles: ["Post-Punk", "Art Rock", "Pop Rock", "New Wave"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Psycho Killer |
-| A2 | Heaven |
-| A3 | Thank You for Sending Me an Angel |
-| A4 | Found a Job |
-| B5 | Slippery People |
-| B6 | Burning Down the House |
-| B7 | Life During Wartime |
-| C8 | Making Flippy Floppy |
-| C9 | Swamp |
-| C10 | What a Day That Was |
-| C11 | This Must Be the Place (Naive Melody) |
-| C12 | Once in a Lifetime |
-| D13 | Genius of Love |
-| D14 | Girlfriend Is Better |
-| D15 | Take Me to the River |
-| D16 | Crosseyed and Painless |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -43,17 +43,17 @@ Takk... ([ˈtʰaʰkː], Thanks...) is the fourth studio album by the Icelandic p
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Takk... |
-| A2 | Glósóli |
-| A3 | Hoppípolla |
-| A4 | Með Blóðnasir |
-| B1 | Sé Lest |
-| B2 | Sæglópur |
-| C1 | Gong |
-| C2 | Andvari |
-| D1 | Svo Hljótt |
-| D2 | Heysátan |
-| E | Mílanó |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

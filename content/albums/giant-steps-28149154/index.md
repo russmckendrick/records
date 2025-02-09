@@ -30,25 +30,25 @@ Giant Steps is the third studio album by the Boo Radleys, released in 1993. The 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Hang Suspended |
-| A2 | Upon 9th & Fairchild |
-| A3 | Wish I Was Skinny |
-| A4 | Leaves And Sand |
-| B1 | Butterfly McQueen |
-| B2 | Rodney King (Song For Lenny Bruce) |
-| B3 | Thinking Of Ways |
-| B4 | Barney (...And Me) |
-| C1 | Spun Around |
-| C2 | If You Want It, Take It |
-| C3 | Best Lose The Fear |
-| C4 | Take The Time Around |
-| C5 | Lazarus |
-| D1 | One Is For |
-| D2 | Run My Way Runway |
-| D3 | I've Lost The Reason |
-| D4 | The White Noise Revisited |
-| E | Lazarus (Saint Etienne Remix) |
-| F | Rodney King (Saint Etienne Remix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

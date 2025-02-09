@@ -32,9 +32,9 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Slowdive |
-| A2 | Avalyn I |
-| B | Avalyn Il |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -53,40 +53,40 @@ styles: ["Hard Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Subdivisions |
-| A2 | The Analog Kid |
-| A3 | Chemistry |
-| A4 | Digital Man |
-| B1 | The Weapon |
-| B2 | New World Man |
-| B3 | Losing It |
-| B4 | Countdown |
-| C | Subdivisions |
-| D | Red Barchetta (Live) |
-| E | Countdown |
-| F | New World Man |
-| G | New World Man |
-| H | Vital Signs (Live) |
-| I | The Weapon (Single Edit) |
-| J | Digital Man |
-| CD-1 | Subdivisions |
-| CD-2 | The Analog Kid |
-| CD-3 | Chemistry |
-| CD-4 | Digital Man |
-| CD-5 | The Weapon |
-| CD-6 | New World Man |
-| CD-7 | Losing It |
-| CD-8 | Countdown |
-| BD-1 | Subdivisions |
-| BD-2 | The Analog Kid |
-| BD-3 | Chemistry |
-| BD-4 | Digital Man |
-| BD-5 | The Weapon |
-| BD-6 | New World Man |
-| BD-7 | Losing It |
-| BD-8 | Countdown |
-| BD-9 | Subdivisions |
-| BD-10 | Countdown |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

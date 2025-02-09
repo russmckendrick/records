@@ -31,26 +31,26 @@ styles: ["Indie Rock", "Indie Pop", "Pop Rock", "Britpop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Trash |
-| A2 | Just |
-| A3 | One To Another |
-| A4 | Movin' On Up |
-| A5 | Juxtaposed With U |
-| B1 | Fools Gold |
-| B2 | Fire |
-| B3 | Rearrange |
-| B4 | Same Jeans |
-| B5 | Dreaming Of You |
-| C1 | Breathe (Edit) |
-| C2 | You Love Us |
-| C3 | Waking Up |
-| C4 | Ladykillers |
-| C5 | Inbetweener |
-| D1 | Ashes |
-| D2 | Sing |
-| D3 | Here Comes Your Man |
-| D4 | Sparky's Dream |
-| D5 | Come Together |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -39,15 +39,15 @@ It was elected by PopMatters as the ninth best progressive rock/metal album of 2
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Strangest Times |
-| A2 | All The Love We Can Give |
-| B1 | Black With Ink |
-| B2 | Dandelion Clock |
-| C1 | Headwaters |
-| C2 | Apollo |
-| C3 | Common Ground |
-| D1 | Atlantic Cable |
-| D2 | Endnotes |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

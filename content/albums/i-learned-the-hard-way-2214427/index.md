@@ -1,6 +1,6 @@
 ---
-title: "Sharon Jones  The Dap-Kings - I Learned The Hard Way"
-artist_name: "Sharon Jones  The Dap-Kings"
+title: "Sharon Jones & The Dap-Kings - I Learned The Hard Way"
+artist_name: "Sharon Jones & The Dap-Kings"
 artist: "sharon-jones-the-dap-kings"
 album_name: "I Learned The Hard Way"
 date: 2017-02-11T19:53:42.000000Z
@@ -10,8 +10,8 @@ slug: "i-learned-the-hard-way-2214427"
 hideSummary: true
 cover:
     image: "i-learned-the-hard-way-2214427.jpg"
-    alt: "I Learned The Hard Way by Sharon Jones  The Dap-Kings"
-    caption: "I Learned The Hard Way by Sharon Jones  The Dap-Kings"
+    alt: "I Learned The Hard Way by Sharon Jones & The Dap-Kings"
+    caption: "I Learned The Hard Way by Sharon Jones & The Dap-Kings"
 additional_images:
     - "https://i.discogs.com/NffonXAgffHXc_POhBTYslY-dg5KvVbDdjI81Y9XPWY/rs:fit/g:sm/q:90/h:595/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ0/MjctMTM4NDUyODQy/MC0yODEwLmpwZWc.jpeg"
     - "https://i.discogs.com/91H3qjgtHwot64keR46v9GXbWgy45V9xc0kFyZ9_d2w/rs:fit/g:sm/q:90/h:595/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTQ0/MjctMTM4NDUyODQz/MC0yMDQwLmpwZWc.jpeg"
@@ -36,18 +36,18 @@ I Learned the Hard Way is the fourth studio album by American soul and funk band
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Game Gets Old |
-| A2 | I Learned The Hard Way |
-| A3 | Better Things |
-| A4 | Give It Back |
-| A5 | Money |
-| A6 | The Reason |
-| B1 | Window Shopping |
-| B2 | She Ain't A Child No More |
-| B3 | I'll Still Be True |
-| B4 | Without A Heart |
-| B5 | If You Call |
-| B6 | Mama Don't Like My Man |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -66,4 +66,4 @@ I Learned the Hard Way is the fourth studio album by American soul and funk band
 | Label          | Daptone Records |
 | Catalog Number | DAP-019 |
 | Notes | Jacket: Another BOSCO MANN Production. Labels: A BOSCO MANN Production.  Includes code for digital download (Digital download includes an additional song, "When I Come Home") Stereo compatible  Hype sticker affixed to shrink: The explosive and soulful next chapter in the captivating story of Sharon Jones, the Dap-Kings and Daptone Records. Includes coupon for MP3 download! [Daptone Records logo] "...gritty, credible, emotion-laden..." - Rolling Stone "...simply one of the most scorching outfits on the planet..." - MOJO  Barcode is a sticker affixed to shrink  Recorded to 8-Tracks at Daptone Records' House Of Soul.  Track A1: ASCAP, BMI Tracks A2 to A6, B2 to B6: BMI Track B1: ASCAP, SESAC |
-| Discogs URL    | [Sharon Jones  The Dap-Kings - I Learned The Hard Way](https://www.discogs.com/release/2214427-Sharon-Jones-The-Dap-Kings-I-Learned-The-Hard-Way) |
+| Discogs URL    | [Sharon Jones & The Dap-Kings - I Learned The Hard Way](https://www.discogs.com/release/2214427-Sharon-Jones-The-Dap-Kings-I-Learned-The-Hard-Way) |

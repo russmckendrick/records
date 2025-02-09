@@ -1,6 +1,6 @@
 ---
-title: "Ghost - Prequelle"
-artist_name: "Ghost"
+title: "Ghost (32) - Prequelle"
+artist_name: "Ghost (32)"
 artist: "ghost"
 album_name: "Prequelle"
 date: 2018-06-15T10:57:11.000000Z
@@ -10,8 +10,8 @@ slug: "prequelle-12074710"
 hideSummary: true
 cover:
     image: "prequelle-12074710.jpg"
-    alt: "Prequelle by Ghost"
-    caption: "Prequelle by Ghost"
+    alt: "Prequelle by Ghost (32)"
+    caption: "Prequelle by Ghost (32)"
 additional_images:
     - "https://i.discogs.com/Kom8FMs93PZfYi742oF7AgbLjFwg-SUxmckMy7Jpqy0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc0/NzEwLTE1NDczNzQ1/MjQtMTI0Ny5qcGVn.jpeg"
     - "https://i.discogs.com/nbI6yRLbml5ZkZ_4Z9ywQWVZg_XY_HPemmuSn4jy4lU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDc0/NzEwLTE1Mjc5NTM4/MzgtNjgxMC5qcGVn.jpeg"
@@ -37,16 +37,16 @@ The album was released with five different versions of the cover art, each with 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Ashes |
-| A2 | Rats |
-| A3 | Faith |
-| A4 | See The Light |
-| A5 | Miasma |
-| B1 | Dance Macabre |
-| B2 | Pro Memoria |
-| B3 | Witch Image |
-| B4 | Helvetesfönster |
-| B5 | Life Eternal |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -65,4 +65,4 @@ The album was released with five different versions of the cover art, each with 
 | Label          | Loma Vista |
 | Catalog Number | LVR00392 |
 | Notes | Limited to 2000 copies worldwide.   ℗ & © 2018 Loma Vista Recordings |
-| Discogs URL    | [Ghost - Prequelle](https://www.discogs.com/release/12074710-Ghost-32-Prequelle) |
+| Discogs URL    | [Ghost (32) - Prequelle](https://www.discogs.com/release/12074710-Ghost-32-Prequelle) |

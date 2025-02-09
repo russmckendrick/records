@@ -31,22 +31,22 @@ styles: ["Prog Rock", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Magazine Zooey Deschanel |
-| A2 | Bird |
-| A3 | I Just Called To Say I Like You |
-| A4 | Petroleum |
-| A5 | Boarded Doors In Bedford Place |
-| A6 | Bee |
-| A7 | Last Track On Side Fun |
-| A8 | Coda |
-| B1 | Lonely Doe Young Doe |
-| B2 | Here Comes A Man From The Council With A Flamethrower |
-| B3 | Unison One |
-| B4 | Commons |
-| B5 | Cherub |
-| B6 | Unison 3 |
-| B7 | Boarded Doors Reprise |
-| B8 | Anyway |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

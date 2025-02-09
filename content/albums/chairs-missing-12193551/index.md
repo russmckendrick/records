@@ -35,21 +35,21 @@ Although it features some of the minimalist punk rock of the band's debut Pink F
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Practice Makes Perfect |
-| A2 | French Film Blurred |
-| A3 | Another The Letter |
-| A4 | Men 2nd |
-| A5 | Marooned |
-| A6 | Sand In My Joints |
-| A7 | Being Sucked In Again |
-| A8 | Heartbeat |
-| B1 | Mercy |
-| B2 | Outdoor Miner |
-| B3 | I Am The Fly |
-| B4 | I Feel Mysterious Today |
-| B5 | From The Nursery |
-| B6 | Used To |
-| B7 | Too Late |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

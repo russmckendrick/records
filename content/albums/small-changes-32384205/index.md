@@ -35,17 +35,17 @@ It’s a record that sees Kiwanuka glancing back to his youth, reflecting on dou
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Floating Parade |
-| A2 | Small Changes |
-| A3 | One And Only |
-| A4 | Rebel Soul |
-| A5 | Lowdown (Part i) |
-| A6 | Lowdown (Part ii) |
-| B1 | Follow Your Dreams |
-| B2 | Live For Your Love |
-| B3 | Stay By My Side |
-| B4 | The Rest Of Me |
-| B5 | Four Long Years |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

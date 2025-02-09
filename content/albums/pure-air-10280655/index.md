@@ -32,19 +32,19 @@ Pure Air is a compilation album by Agua de Annique, a band formed by the former 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Blower's Daughter |
-| A2 | Beautiful One |
-| A3 | Wild Flowers |
-| A4 | Day After Yesterday |
-| A5 | Come Wander With Me |
-| A6 | Valley Of The Queens |
-| B1 | To Catch A Thief |
-| B2 | Ironic |
-| B3 | What's The Reason? |
-| B4 | Yalin |
-| B5 | Somewhere |
-| B6 | Witnesses |
-| B7 | The Power Of Love |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

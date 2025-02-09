@@ -31,23 +31,23 @@ Memoirs of a Madman (French: Mémoires d'un fou) is an autobiographical text wri
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Crazy Train |
-| A2 | Mr. Crowley |
-| A3 | Flying High Again |
-| A4 | Over The Mountain |
-| B1 | Bark At The Moon |
-| B2 | The Ultimate Sin |
-| B3 | Miracle Man |
-| B4 | No More Tears (Edit) |
-| C1 | Mama, I'm Coming Home |
-| C2 | Road To Nowhere |
-| C3 | Perry Mason |
-| C4 | I Just Want You |
-| D1 | Gets Me Through |
-| D2 | Changes |
-| D3 | I Don't Wanna Stop |
-| D4 | Let Me Hear You Scream |
-| D5 | Paranoid (Live) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

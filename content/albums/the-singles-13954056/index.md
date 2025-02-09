@@ -36,22 +36,22 @@ styles: ["Soft Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Are You Blue Or Are You Blind? |
-| A2 | Bluetonic |
-| A3 | Slight Return |
-| A4 | Cut Some Rug |
-| B1 | Marblehead Johnson |
-| B2 | Solomon Bites The Worm |
-| B3 | If... |
-| B4 | Sleazy Bed Track |
-| C1 | 4-Day Weekend |
-| C2 | Keep The Home Fires Burning |
-| C3 | Autophilia |
-| C4 | Mudslide |
-| D1 | After Hours |
-| D2 | Freeze Dried Pop (Dumb It Up) |
-| D3 | Persuasion |
-| D4 | The Bluetones Big Score |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

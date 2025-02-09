@@ -1,6 +1,6 @@
 ---
-title: "Haken - Fauna"
-artist_name: "Haken"
+title: "Haken (2) - Fauna"
+artist_name: "Haken (2)"
 artist: "haken"
 album_name: "Fauna"
 date: 2023-03-20T05:43:38.000000Z
@@ -10,8 +10,8 @@ slug: "fauna-26288243"
 hideSummary: true
 cover:
     image: "fauna-26288243.jpg"
-    alt: "Fauna by Haken"
-    caption: "Fauna by Haken"
+    alt: "Fauna by Haken (2)"
+    caption: "Fauna by Haken (2)"
 additional_images:
     - "https://i.discogs.com/SyJRSp3gRiRzGUUa207Bsol9c_lxUlP0LABOXVFsoZ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjg4/MjQzLTE2Nzc4NDU2/NjktMjg2MC5qcGVn.jpeg"
     - "https://i.discogs.com/eTFdXQvsypFC2NfclvCjJihf3SFtHZIt_txGsoXtAyo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjg4/MjQzLTE2Nzc4NDU2/NjgtNzc0NS5qcGVn.jpeg"
@@ -38,15 +38,15 @@ Fauna (pl.: faunae or faunas) is all of the animal life present in a particular 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Taurus |
-| A2 | Nightingale |
-| B1 | The Alphabet Of Me |
-| B2 | Sempiternal Beings |
-| C1 | Beneath The White Rainbow |
-| C2 | Island In The Clouds |
-| C3 | Lovebite |
-| D1 | Elephants Never Forget |
-| D2 | Eyes Of Ebony |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -65,4 +65,4 @@ Fauna (pl.: faunae or faunas) is all of the animal life present in a particular 
 | Label          | Inside Out Music |
 | Catalog Number | IOM667 |
 | Notes | Gatefold with LP-booklet. Limited to 500 copies worldwide. |
-| Discogs URL    | [Haken - Fauna](https://www.discogs.com/release/26288243-Haken-2-Fauna) |
+| Discogs URL    | [Haken (2) - Fauna](https://www.discogs.com/release/26288243-Haken-2-Fauna) |

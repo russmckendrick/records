@@ -31,16 +31,16 @@ styles: ["Synth-pop", "Alternative Rock", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | She Drives Me Crazy |
-| A2 | Good Thing |
-| A3 | I'm Not The Man I Used To Be |
-| A4 | I'm Not Satisfied |
-| A5 | Tell Me What |
-| B1 | Don't Look Back |
-| B2 | It's OK (It's Alright) |
-| B3 | Don't Let It Get You Down |
-| B4 | As Hard As It Is |
-| B5 | Ever Fallen In Love |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -39,17 +39,17 @@ But no track best encapsulates the boozy joys of <i>Small Change</i> like the cl
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Tom Traubert's Blues (Four Sheets To The Wind In Copenhagen) |
-| A2 | Step Right Up |
-| A3 | Jitterbug Boy (Sharing A Curbstone With Chuck E. Weiss, Robert Marchese, Paul Body And The Mug And Artie) |
-| A4 | I Wish I Was In New Orleans (In The Ninth Ward) |
-| A5 | The Piano Has Been Drinking (Not Me) (A Evening With Pete King) |
-| B1 | Invitation To The Blues |
-| B2 | Pasties And A G-String (At The Two O'Clock Club) |
-| B3 | Bad Liver And A Broken Heart (In Lowell) |
-| B4 | The One That Got Away |
-| B5 | Small Change (Got Rained On With His Own .38) |
-| B6 | I Can't Wait To Get Off Work (And See My Baby On Montgomery Avenue) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

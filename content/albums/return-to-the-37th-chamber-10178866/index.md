@@ -31,19 +31,19 @@ styles: ["Funk", "Soul"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | 4th Chamber |
-| A2 | Iron Man |
-| A3 | Shaolin Brew |
-| A4 | Pork Chop Express |
-| A5 | Snakes |
-| A6 | Drums For Sale |
-| A7 | Shadow Boxing |
-| B1 | Sipped Up |
-| B2 | Tearz |
-| B3 | Verbal Intercourse |
-| B4 | Wu-Tang Clan Aint Nuthing Ta F' Wit |
-| B5 | All I Need |
-| B6 | The End (Eat My Vocals) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

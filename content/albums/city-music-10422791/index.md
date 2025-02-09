@@ -47,17 +47,17 @@ Maverick City Music's accolades include 5 Grammy Awards, 4 GMA Dove Awards, 1 Bi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Come To Me Now |
-| A2 | Crybaby |
-| A3 | 1234 |
-| A4 | Aboard My Train |
-| A5 | Dry Your Eyes |
-| A6 | City Music |
-| B1 | Tin Can |
-| B2 | Caught In My Eye |
-| B3 | Night Time |
-| B4 | Pearly Gates |
-| B5 | Downtown's Lights |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -32,15 +32,15 @@ styles: ["Krautrock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Was Always Dreaming |
-| A2 | Towards The Dawn |
-| A3 | The Fun Of It |
-| A4 | The South Atlantic |
-| A5 | Electra |
-| B1 | Arabian Flight |
-| B2 | Monsoons |
-| B3 | A Different Kind Of Love |
-| B4 | Howland |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

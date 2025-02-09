@@ -29,19 +29,19 @@ styles: ["Alternative Rock", "Breaks", "Heavy Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | States Of Mind |
-| A2 | The Key |
-| A3 | Switch |
-| B1 | Age Of Panic |
-| B2 | What's Going On |
-| B3 | One Touch One Bounce |
-| C1 | Stubborn |
-| C2 | Door Game |
-| C3 | Peanut Head |
-| D1 | Peace |
-| D2 | Eject |
-| D3 | No Comply |
-| D4 | Worth |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

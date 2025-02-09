@@ -35,16 +35,16 @@ In 2002, the website Pitchfork listed the album at 66 on their "Top 100 Albums o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Vanishing Girl |
-| A2 | Have You Seen Jackie? |
-| A3 | Little Lighthouse |
-| A4 | You're A Good Man Albert Brown (Curse You Red Barrel) |
-| A5 | Collideascope |
-| B1 | You're My Drug |
-| B2 | Shiny Cage |
-| B3 | Brainiac's Daughter |
-| B4 | The Affiliated |
-| B5 | Pale And Precious |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

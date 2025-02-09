@@ -30,16 +30,16 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Enjoy The Silence |
-| A2 | Bizarre Love Triangle |
-| A3 | Climbing Up The Walls |
-| A4 | Friday I'm In Love |
-| A5 | Pennyroyal Tea |
-| B1 | These Days |
-| B2 | Martha's Harbour |
-| B3 | The Tradition |
-| B4 | This Is Yesterday |
-| B5 | Sweetness Follows |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

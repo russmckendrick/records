@@ -40,20 +40,20 @@ styles: ["House"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | One More Time = ワン・モア・タイム |
-| A2 | Aerodynamic = エアロダイナミック |
-| A3 | Digital Love = デジタル・ラブ |
-| B1 | Harder, Better, Faster, Stronger = 仕事は終わらない |
-| B2 | Crescendolls = クレッシェンドールズ |
-| B3 | Nightvision = ナイトビジョン |
-| B4 | Superheroes = スーパーヒーロー |
-| C1 | High Life = ハイ・ライフ |
-| C2 | Something About Us = 愛の絆 |
-| C3 | Voyager = ボイジャー |
-| C4 | Veridis Quo = ヴェリディス・クオ |
-| D1 | Short Circuit = ショート・サーキット |
-| D2 | Face To Face = 素顔で向き合えば |
-| D3 | Too Long = 自由をこの手に |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

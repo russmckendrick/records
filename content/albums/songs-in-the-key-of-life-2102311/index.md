@@ -42,28 +42,28 @@ The album won Album of the Year at the 19th Grammy Awards and is the best-sellin
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Love's In Need Of Love Today |
-| A2 | Have A Talk With God |
-| A3 | Village Ghetto Land |
-| A4 | Contusion |
-| A5 | Sir Duke |
-| B1 | I Wish |
-| B2 | Knocks Me Off My Feet |
-| B3 | Pastime Paradise |
-| B4 | Summer Soft |
-| B5 | Ordinary Pain |
-| C1 | Isn't She Lovely |
-| C2 | Joy Inside My Tears |
-| C3 | Black Man |
-| D1 | Ngiculela - Es Una Historia - I Am Singing |
-| D2 | If It's Magic |
-| D3 | As |
-| D4 | Another Star |
-|  | A Something's Extra Bonus Record |
-| E1 | Saturn |
-| E2 | Ebony Eyes |
-| F1 | All Day Sucker |
-| F2 | Easy Goin' Evening (My Mama's Call) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

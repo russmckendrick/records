@@ -57,14 +57,14 @@ For their 14th album, Swedish prog wizards Opeth created a concept record around
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | §I |
-| A2 | §II |
-| B1 | §III |
-| B2 | §IV |
-| C1 | §V |
-| C2 | §VI |
-| D1 | §VII |
-| D2 | A Story Never Told |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

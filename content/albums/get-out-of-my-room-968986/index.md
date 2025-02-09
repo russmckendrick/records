@@ -1,6 +1,6 @@
 ---
-title: "Cheech  Chong - Get Out Of My Room"
-artist_name: "Cheech  Chong"
+title: "Cheech & Chong - Get Out Of My Room"
+artist_name: "Cheech & Chong"
 artist: "cheech-chong"
 album_name: "Get Out Of My Room"
 date: 2020-08-02T13:39:16.000000Z
@@ -10,8 +10,8 @@ slug: "get-out-of-my-room-968986"
 hideSummary: true
 cover:
     image: "get-out-of-my-room-968986.jpg"
-    alt: "Get Out Of My Room by Cheech  Chong"
-    caption: "Get Out Of My Room by Cheech  Chong"
+    alt: "Get Out Of My Room by Cheech & Chong"
+    caption: "Get Out Of My Room by Cheech & Chong"
 additional_images:
     - "https://i.discogs.com/brHC24RAimYpGJQ8ogerDeSmgS5l5kkwL5ngPRxapEc/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODk4/Ni0xMTg1NjY5MzIz/LmpwZWc.jpeg"
     - "https://i.discogs.com/95e7bgLU6wKwSNbVhrbrL6T2qRO0GBeXwFoabM5S4WU/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2ODk4/Ni0xMTg1NjY5MzM2/LmpwZWc.jpeg"
@@ -33,20 +33,20 @@ Following the album's release, Cheech left the duo in 1986 in order to focus on 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Born In East L.A. |
-| A2 | Dorm Radio I |
-| A3 | I'm Not Home Right Now |
-| A4 | Sushi Bar |
-| A5 | Dorm Radio II |
-| A6 | Love Is Strange |
-| A7 | Dorm Radio III |
-| B1 | I'm A (Modern) Man |
-| B2 | The Music Lesson |
-| B3 | The Stupid Early Show |
-| B4 | Warren Beatty |
-| B5 | Juan Coyote |
-| B6 | Radio News |
-| B7 | Get Out Of My Room |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -65,4 +65,4 @@ Following the album's release, Cheech left the duo in 1986 in order to focus on 
 | Label          | MCA Records |
 | Catalog Number | MCA 5640 |
 | Notes | Recorded At Sunset Factory & At Surf Bowl Recordings, Malibu.  Mixed At Ocean Way.  Mastered At Bernie Grundman Mastering.  |
-| Discogs URL    | [Cheech  Chong - Get Out Of My Room](https://www.discogs.com/release/968986-Cheech-Chong-Get-Out-Of-My-Room) |
+| Discogs URL    | [Cheech & Chong - Get Out Of My Room](https://www.discogs.com/release/968986-Cheech-Chong-Get-Out-Of-My-Room) |

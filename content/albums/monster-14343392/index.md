@@ -1,7 +1,7 @@
 ---
-title: "REM - Monster"
-artist_name: "REM"
-artist: "rem"
+title: "R.E.M. - Monster"
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "Monster"
 date: 2019-11-01T19:24:32.000000Z
 release_date: "2024-10-04"
@@ -10,8 +10,8 @@ slug: "monster-14343392"
 hideSummary: true
 cover:
     image: "monster-14343392.jpg"
-    alt: "Monster by REM"
-    caption: "Monster by REM"
+    alt: "Monster by R.E.M."
+    caption: "Monster by R.E.M."
 additional_images:
     - "https://i.discogs.com/NkQJFI1s5kwcgTavxG2m_CNZIln62ozCzuVC8_nvJ4M/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQz/MzkyLTE1NzI3MDM3/MjctNDY5MC5qcGVn.jpeg"
     - "https://i.discogs.com/xVujDw2uX3lMtmZ6jOhR9fZwAm7WPtvu_u_mfNtrXxE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzQz/MzkyLTE1NzM2NjQ1/MTgtODg4Ny5qcGVn.jpeg"
@@ -38,32 +38,32 @@ styles: ["Indie Rock", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Monster |
-| A1 | What's The Frequency, Kenneth? |
-| A2 | Crush With Eyeliner |
-| A3 | King Of Comedy |
-| A4 | I Don't Sleep, I Dream |
-| A5 | Star 69 |
-| A6 | Strange Currencies |
-| B1 | Tongue |
-| B2 | Bang And Blame |
-| B3 | I Took Your Name |
-| B4 | Let Me In |
-| B5 | Circus Envy |
-| B6 | You |
-|  | Monster Remixed |
-| C1 | What's The Frequency, Kenneth? (Remix) |
-| C2 | Crush With Eyeliner (Remix) |
-| C3 | King Of Comedy (Remix) |
-| C4 | I Don't Sleep, I Dream (Remix) |
-| C5 | Star 69 (Remix) |
-| C6 | Strange Currencies (Remix) |
-| D1 | Tongue (Remix) |
-| D2 | Bang And Blame (Remix) |
-| D3 | I Took Your Name (Remix) |
-| D4 | Let Me In (Remix) |
-| D5 | Circus Envy (Remix) |
-| D6 | You (Remix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -80,4 +80,4 @@ styles: ["Indie Rock", "Alternative Rock"]
 | Format         | Vinyl 2× LP Album Reissue Remastered (25th Anniversary Expanded Edition) |
 | Label          | Craft Recordings |
 | Catalog Number | CR00239 |
-| Discogs URL    | [REM - Monster](https://www.discogs.com/release/14343392-REM-Monster) |
+| Discogs URL    | [R.E.M. - Monster](https://www.discogs.com/release/14343392-REM-Monster) |

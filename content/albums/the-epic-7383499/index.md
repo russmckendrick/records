@@ -48,26 +48,26 @@ The Epic is the third studio album by American jazz saxophonist Kamasi Washingto
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Volume 1 - The Plan |
-| A1 | Change Of The Guard |
-| A2 | Isabelle  |
-| A3 | Final Thought |
-| B1 | The Next Step |
-| B2 | Askim |
-|  | Volume 2 - The Glorious Tale |
-| C1 | The Rhythm Changes |
-| C2 | Leroy And Lanisha |
-| C3 | Re Run |
-| D1 | Miss Understanding |
-| D2 | Henrietta Our Hero |
-| D3 | Seven Prayers |
-| D4 | Cherokee |
-|  | Volume 3 - The Historic Repetition |
-| E1 | The Magnificent 7 |
-| E2 | Re Run Home |
-| F1 | Malcolm's Theme |
-| F2 | Clair De Lune |
-| F3 | The Message |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

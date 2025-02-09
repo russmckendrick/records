@@ -36,14 +36,14 @@ Released in 1973, a time of national ennui, Steely Dan’s sophomore album riffs
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Bodhisattva |
-| A2 | Razor Boy |
-| A3 | The Boston Rag |
-| A4 | Your Gold Teeth |
-| B1 | Show Biz Kids |
-| B2 | My Old School |
-| B3 | Pearl Of The Quarter |
-| B4 | King Of The World |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

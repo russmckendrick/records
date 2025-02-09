@@ -40,14 +40,14 @@ styles: ["Power Pop", "Psychedelic Rock", "Prog Rock", "Indie Rock", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Fadoodle |
-| A2 | Bluebird's Blues |
-| A3 | There Is A Magic Number |
-| A4 | Lighthouse Spaceship |
-| B1 | Fadoodle (Bonus Instrumental Version) |
-| B2 | Bluebird's Blues (Bonus Instrumental Version) |
-| B3 | There Is A Magic Number (Bonus Instrumental Version) |
-| B4 | Lighthouse Spaceship (Bonus Instrumental Version) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

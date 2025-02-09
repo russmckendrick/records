@@ -1,6 +1,6 @@
 ---
-title: "Huey Lewis  The News - Sports"
-artist_name: "Huey Lewis  The News"
+title: "Huey Lewis & The News - Sports"
+artist_name: "Huey Lewis & The News"
 artist: "huey-lewis-the-news"
 album_name: "Sports"
 date: 2015-10-05T18:23:05.000000Z
@@ -10,8 +10,8 @@ slug: "sports-1066355"
 hideSummary: true
 cover:
     image: "sports-1066355.jpg"
-    alt: "Sports by Huey Lewis  The News"
-    caption: "Sports by Huey Lewis  The News"
+    alt: "Sports by Huey Lewis & The News"
+    caption: "Sports by Huey Lewis & The News"
 additional_images:
     - "https://i.discogs.com/KrDHwnqVYY-yFbjOL4oGPdjw_6IIC7tUS2voyzoSa1M/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYz/NTUtMTQ0MDUxODY3/Ny04MTAwLmpwZWc.jpeg"
     - "https://i.discogs.com/RHGlmGds4RTcH8IP_nLCoY9h4NLSvtQS_Tk9QZ3Gm9k/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjYz/NTUtMTQ0MDUxODY4/Mi0xMjIxLmpwZWc.jpeg"
@@ -32,15 +32,15 @@ Sports is the third album by American rock band Huey Lewis and the News, release
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Heart Of Rock & Roll |
-| A2 | Heart And Soul |
-| A3 | Bad Is Bad |
-| A4 | I Want A New Drug |
-| B1 | Walking On A Thin Line |
-| B2 | Finally Found A Home |
-| B3 | If This Is It |
-| B4 | You Crack Me Up |
-| B5 | Honky Tonk Blues |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -59,4 +59,4 @@ Sports is the third album by American rock band Huey Lewis and the News, release
 | Label          | Chrysalis |
 | Catalog Number | CHR 1412 |
 | Notes | Some retail copies were issued as promo with a gold "PROMOTIONAL COPY NOT FOR RESALE" stamp on the back cover.  A2 credits Chinnichap/RAK Music. Similar release, [r=5851590] credits A2 to Chinnichap/State Music Ltd. |
-| Discogs URL    | [Huey Lewis  The News - Sports](https://www.discogs.com/release/1066355-Huey-Lewis-And-The-News-Sports) |
+| Discogs URL    | [Huey Lewis & The News - Sports](https://www.discogs.com/release/1066355-Huey-Lewis-And-The-News-Sports) |

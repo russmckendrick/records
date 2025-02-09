@@ -50,29 +50,29 @@ styles: ["Jazz-Funk", "Neo Soul", "Fusion", "Contemporary R&B", "Experimental"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Rabbot Ho |
-| A2 | Captain Stupido |
-| A3 | Uh Uh |
-| A4 | Bus In These Streets |
-| B1 | A Fan's Mail (Tron Song Suite II) |
-| B2 | Lava Lamp |
-| B3 | Jethro |
-| C1 | Day & Night |
-| C2 | Show You The Way |
-| C3 | Walk On By |
-| D1 | Blackkk |
-| D2 | Tokyo |
-| D3 | Jameel's Space Ride |
-| E1 | Friend Zone |
-| E2 | Them Changes |
-| F1 | Where I'm Going |
-| F2 | Drink Dat |
-| G1 | Inferno |
-| G2 | I Am Crazy |
-| G3 | 3AM |
-| H1 | Drunk |
-| H2 | The Turn Down |
-| H3 | DUI |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

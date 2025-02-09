@@ -49,19 +49,19 @@ The Lemon of Pink is the second studio album by American musical duo the Books. 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Lemon Of Pink |
-| A2 | The Lemon Of Pink II |
-| A3 | Tokyo |
-| A4 | Bonanza |
-| A5 | S Is For Evrysing |
-| A6 | Explanation Mark |
-| A7 | There Is No There |
-| B1 | Take Time |
-| B2 | Don't Even Sing About It |
-| B3 | The Future, Wouldn't That Be Nice |
-| B4 | A True Story Of A Story Of True Love |
-| B5 | That Right Ain't Shit |
-| B6 | P.S. |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

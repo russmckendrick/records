@@ -51,40 +51,40 @@ styles: ["Folk Rock", "Art Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Be Your Husband |
-| A2 | Lover, You Should've Come Over |
-| A3 | Mojo Pin |
-| A4 | Monologue - Duane Eddy, Songs For Lovers |
-| B1 | Grace |
-| B2 | Monologue - Reverb, The Doors |
-| B3 | Strange Fruit |
-| B4 | Night Flight |
-| C1 | If You Knew |
-| C2 | Monologue - Fabulous Time For A Guinness  |
-| C3 | Unforgiven (Last Goodbye) |
-| C4 | Twelfth Of Never |
-| C5 | Monologue - Café Days |
-| D1 | Monologue - Eternal Life |
-| D2 | Eternal Life |
-| D3 | Just Like A Woman |
-| D4 | Monologue - False Start, Apology, Miles Davis |
-| D5 | Calling You |
-| E1 | Monologue - Nusrat, He's My Elvis |
-| E2 | Yeh Jo Halka Halka Saroor Hai |
-| E3 | Monologue - I'm A Ridiculous Person |
-| E4 | If You See Her, Say Hello |
-| F1 | Monologue - Matt Dillon, Hollies, Classic Rock Radio |
-| F2 | Dink's Song (Traditional) |
-| F3 | Monologue - Musical Chairs |
-| F4 | Drown In My Own Tears |
-| F5 | Monologue - The Suckiest Water |
-| G1 | The Way Young Lovers Do |
-| G2 | Monologue - Walk Through Walls |
-| G3 | Je N'en Connais Pas La Fin |
-| G4 | I Shall Be Released |
-| H1 | Sweet Thing |
-| H2 | Monologue - Good Night Bill |
-| H3 | Hallelujah |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -35,35 +35,35 @@ styles: ["Soundtrack", "Score"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | 1.0_1-Hellofriend.Wav |
-| A2 | 1.0_2-Oneincontrol.Aiff |
-| A3 | 1.0_3-Fucksociety.Mp3 |
-| A4 | 1.0_4-M0rphine.Aac |
-| A5 | 1.0_5-Pierreloti.Au |
-| A6 | 1.0_6-Leavem3here.Flac |
-| A7 | 1.0_7-waitfortheQ.ogg |
-| B8 | 1.0_8-Whatsyourask.M4p |
-| B9 | 1.0_9-Flipper.Bwf |
-| B10 | 1.1_1-One6away.Caf |
-| B11 | 1.1_2-Wearefsociety.Sd2 |
-| B12 | 1.1_3-Oneor0.Wma |
-| B13 | 1.1_4-Hateurself.Ra |
-| B14 | 1.1_5-Illusionofchoice.Mp3 |
-| C15 | 1.1_6-Believe-In-Erasing.Au |
-| C16 | 1.2_1-IwillbeCTO.m4p |
-| C17 | 1.2_2-Humanpunchingbag.Aiff |
-| C18 | 1.2_3-Therealshayla.Wav |
-| C19 | 1.3_1-Ichosethis.Ogg |
-| C20 | 1.3_2-Everyrev0lution.Ra |
-| C21 | 1.3_3-Betterthanm0rphine.Aac |
-| D22 | 1.3_4-Allsafevirus.Bwf |
-| D23 | 1.3_5-Da3m0nsneverstop.Caf |
-| D24 | 1.4_1-Squ4rewiththeuniverse.Wma |
-| D25 | 1.4_2-Impenetrable.Sd2 |
-| D26 | 1.4_3-Billharper.Mp3 |
-| D27 | 1.4_4-Exploitingtyrell.Wav |
-| D28 | 1.4_5-Revenge1syourweakn3ss.Ra |
-| D29 | 1.4_6-N0execution.Au |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

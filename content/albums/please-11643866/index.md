@@ -37,16 +37,16 @@ Please is the debut studio album by English synth-pop duo Pet Shop Boys, release
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Two Divided By Zero |
-| A2 | West End Girls |
-| A3 | Opportunities (Let's Make Lots Of Money) |
-| A4 | Love Comes Quickly |
-| A5 | Suburbia |
-| B1 | Tonight Is Forever |
-| B2 | Violence |
-| B3 | I Want A Lover |
-| B4 | Later Tonight |
-| B5 | Why Don't We Live Together? |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

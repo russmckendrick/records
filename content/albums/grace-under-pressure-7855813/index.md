@@ -33,14 +33,14 @@ Grace Under Pressure reached number 4 in Canada, number 5 in the UK, and number 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Distant Early Warning |
-| A2 | Afterimage |
-| A3 | Red Sector A |
-| A4 | The Enemy Within |
-| B1 | The Body Electric |
-| B2 | Kid Gloves |
-| B3 | Red Lenses |
-| B4 | Between The Wheels |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -27,28 +27,28 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Z2 |
-| A2 | From Sleep Awake |
-| A3 | Ziltodian Empire |
-| B1 | War Princess |
-| B2 | Deathray |
-| C1 | March Of The Poozers |
-| C2 | Wandering Eye |
-| C3 | Earth |
-| D1 | Ziltoid Goes Home |
-| D2 | Through The Wormhole |
-| D3 | Dimension Z |
-| CD-1 | Z2 |
-| CD-2 | From Sleep Awake |
-| CD-3 | Ziltodian Empire |
-| CD-4 | War Princess |
-| CD-5 | Deathray |
-| CD-6 | March Of The Poozers |
-| CD-7 | Wandering Eye |
-| CD-8 | Earth |
-| CD-9 | Ziltoid Goes Home |
-| CD-10 | Through The Wormhole |
-| CD-11 | Dimension Z |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

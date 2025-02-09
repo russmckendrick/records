@@ -32,21 +32,21 @@ Metal Fingers flexes his producer skills, too, packing the album’s midsection 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Beef Rapp |
-| A2 | Hoe Cakes |
-| A3 | Potholderz |
-| B1 | One Beer |
-| B2 | Deep Fried Frenz |
-| B3 | Poo-Putt Platter |
-| B4 | Fillet-O-Rapper |
-| B5 | Gumbo |
-| C1 | Fig Leaf Bi-Carbonate |
-| C2 | Kon Karne |
-| C3 | Guinnesses |
-| D1 | Kon Queso |
-| D2 | Rapp Snitch Knishes |
-| D3 | Vomitspit |
-| D4 | Kookies |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

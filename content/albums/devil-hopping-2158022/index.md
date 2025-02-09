@@ -35,18 +35,18 @@ The title of the album came from producer Pascal Gabriel's pronunciation of the 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Want You |
-| A2 | Party In The Sky |
-| A3 | Plutoman |
-| A4 | Uniform |
-| A5 | Lovegrove |
-| A6 | Just Wednesday |
-| B1 | Saturn 5 |
-| B2 | All Of This And More |
-| B3 | The Way The Lights Fall |
-| B4 | Half Way There |
-| B5 | Cobra |
-| B6 | I Don't Want To Go Blind |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

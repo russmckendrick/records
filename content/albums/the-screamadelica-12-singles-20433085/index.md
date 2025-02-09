@@ -30,40 +30,40 @@ styles: ["House", "Dub", "Leftfield", "Acid House", "Alternative Rock", "Ambient
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Loaded EP |
-| A | Loaded |
-| B1 | I'm Losing More Than I'll Ever Have |
-| B2 | Ramblin' Rose (Live In NYC) |
-|  | Loaded EP |
-| C | Loaded (Terry Farley Re-Mix) |
-| D1 | I'm Losing More Than I'll Ever Have |
-| D2 | Ramblin' Rose (Live In NYC) |
-|  | Come Together |
-| E | Come Together (Terry Farley Extended Mix)  |
-| F | Come Together (Andrew Weatherall Extended Mix) |
-|  | Come Together |
-| G | Come Together (The Hypnotonebrainmachine Mix) |
-| H | Come Together (BBG Mix) |
-|  | Higher Than The Sun |
-| I | Higher Than The Sun (Higher Than The Sun 12" Mix) |
-| J | Higher Than The Sun (American Spring Mix) |
-|  | Higher Than The Sun |
-| K | Higher Than The Sun (A Dub Symphony In Two Parts) |
-| L | Higher Than The Sun (Higher Than The Orb Extended Mix) |
-|  | Don't Fight It, Feel It |
-| M | Don't Fight It, Feel It (12" Version) |
-| N | Don't Fight It, Feel It (Scat Mix) |
-|  | Don't Fight It, Feel It |
-| O | Don't Fight It, Feel It (Graham Massey Mix) |
-| P | Don't Fight It, Feel It (Instrumental) |
-|  | Dixie Narco EP |
-| Q1 | Movin' On Up |
-| Q2 | Stone My Soul |
-| Q3 | Carry Me Home |
-| R | Screamadelica  |
-|  | Shine Like Stars |
-| S | Shine Like Stars (Andrew Weatherall Remix) |
-| T | Shine Like Stars (Instrumental) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

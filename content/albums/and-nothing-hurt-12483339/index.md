@@ -35,15 +35,15 @@ In the flush ’90s, labels could let a band like Spiritualized splurge on ample
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | A Perfect Miracle |
-| A2 | I'm Your Man |
-| A3 | Here It Comes (The Road) Let's Go |
-| A4 | Let's Dance |
-| A5 | On The Sunshine |
-| B1 | Damaged |
-| B2 | The Morning After |
-| B3 | The Prize |
-| B4 | Sail on Through |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

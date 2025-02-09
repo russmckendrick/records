@@ -1,7 +1,7 @@
 ---
-title: "REM - Out Of Time"
-artist_name: "REM"
-artist: "rem"
+title: "R.E.M. - Out Of Time"
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "Out Of Time"
 date: 2018-01-08T18:31:33.000000Z
 release_date: "2024-10-10"
@@ -10,8 +10,8 @@ slug: "out-of-time-9375101"
 hideSummary: true
 cover:
     image: "out-of-time-9375101.jpg"
-    alt: "Out Of Time by REM"
-    caption: "Out Of Time by REM"
+    alt: "Out Of Time by R.E.M."
+    caption: "Out Of Time by R.E.M."
 additional_images:
     - "https://i.discogs.com/hVcvtaq6k0CLNU5jNOK5edjfzIc7Pjt74is0y7PVVeo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTQ3OTQ4MjEx/Ny01MDEzLmpwZWc.jpeg"
     - "https://i.discogs.com/Z5WL4mNCMRXOMXjY0ed8tG_0rHA1TxmDs0etp0_jEbE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzUx/MDEtMTQ3OTQ4MjEx/NS03ODcwLmpwZWc.jpeg"
@@ -44,39 +44,39 @@ Out of Time is the seventh studio album by American alternative rock band R.E.M.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Time Side |
-| A1 | Radio Song |
-| A2 | Losing My Religion |
-| A3 | Low |
-| A4 | Near Wild Heaven |
-| A5 | Endgame |
-|  | Memory Side |
-| B1 | Shiny Happy People |
-| B2 | Belong |
-| B3 | Half A World Away |
-| B4 | Texarkana |
-| B5 | Country Feedback |
-| B6 | Me In Honey |
-|  | Out Of Time Demos |
-| C1 | Losing My Religion 1 (Demo) |
-| C2 | Near Wild Heaven 1 (Demo) |
-| C3 | Shiny Happy People 1 (Demo) |
-| C4 | Texarkana 1 (Demo) |
-| C5 | Untitled Demo 2 |
-| D1 | Radio – Acoustic (Radio Song 1 Demo) |
-| D2 | Near Wild Heaven 2 (Demo) |
-| D3 | Shiny Happy People 2 (Demo) |
-| D4 | Slow Sad Rocker (Endgame Demo) |
-| E1 | Radio – Band (Radio Song 3 Demo) |
-| E2 | Losing My Religion 2 (Demo) |
-| E3 | Belong (Demo) |
-| E4 | Blackbirds (Half A World Away Demo) |
-| E5 | Texarkana (Demo) |
-| F1 | Country Feedback (Demo) |
-| F2 | Me On Keyboard (Me In Honey Demo) |
-| F3 | Low (Demo) |
-| F4 | 40 Sec. (40 Second Song Demo) |
-| F5 | Fretless 1 (Demo) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -95,4 +95,4 @@ Out of Time is the seventh studio album by American alternative rock band R.E.M.
 | Label          | Concord Bicycle Music |
 | Catalog Number | 0888072010246 |
 | Notes | 25th Anniversary edition box set. The 3 LP set includes remastered vinyl versions of the original album (A/B) and the demos (C to F). 180 g pressing. Digital download card.  On back: Made in the EU. LC 15025. BIEM/SDRM. 0888072010246. Universal International Music B.V. Gerrit Van Der Veenlaan 4, 3743 DN. Baarn, Netherlands. |
-| Discogs URL    | [REM - Out Of Time](https://www.discogs.com/release/9375101-REM-Out-Of-Time) |
+| Discogs URL    | [R.E.M. - Out Of Time](https://www.discogs.com/release/9375101-REM-Out-Of-Time) |

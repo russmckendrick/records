@@ -39,22 +39,22 @@ Powertrip is the fourth studio album by American rock band Monster Magnet, relea
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Crop Circle |
-| A2 | Powertrip |
-| A3 | Space Lord |
-| A4 | Temple Of Your Dreams |
-| B1 | Bummer |
-| B2 | Baby Götterdämerung |
-| B3 | 19 Witches |
-| B4 | 3rd Eye Landslide |
-| B5 | See You In Hell |
-| C1 | Tractor |
-| C2 | Atomic Clock |
-| C3 | Goliath And The Vampires |
-| C4 | Your Lies Become You |
-| D1 | Big God (B-Side) |
-| D2 | The Game (B-Side) |
-| D3 | Space Lord (Intergalactic 7 Remix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

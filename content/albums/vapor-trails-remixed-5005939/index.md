@@ -37,19 +37,19 @@ styles: ["Prog Rock", "Hard Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | One Little Victory |
-| A2 | Ceiling Unlimited |
-| A3 | Ghost Rider |
-| B1 | Peaceable Kingdom |
-| B2 | The Stars Look Down |
-| B3 | How It Is |
-| B4 | Vapor Trail |
-| C1 | Secret Touch |
-| C2 | Earthshine |
-| C3 | Sweet Miracle |
-| D1 | Nocturne |
-| D2 | Freeze - Part IV Of "Fear" |
-| D3 | Out Of The Cradle |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -1,7 +1,7 @@
 ---
-title: "ACDC - For Those About To Rock"
-artist_name: "ACDC"
-artist: "acdc"
+title: "AC/DC - For Those About To Rock"
+artist_name: "AC/DC"
+artist: "ac-dc"
 album_name: "For Those About To Rock"
 date: 2024-03-15T06:44:47.000000Z
 release_date: "1981-11-20"
@@ -10,8 +10,8 @@ slug: "for-those-about-to-rock-30103079"
 hideSummary: true
 cover:
     image: "for-those-about-to-rock-30103079.jpg"
-    alt: "For Those About To Rock by ACDC"
-    caption: "For Those About To Rock by ACDC"
+    alt: "For Those About To Rock by AC/DC"
+    caption: "For Those About To Rock by AC/DC"
 additional_images:
     - "https://i.discogs.com/wuVBTHDw4YHgWBZOCBc2jFgeoBUkLXuf0nmb3XR_nh8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTAz/MDc5LTE3MTM1Mjg4/MzUtOTA0My5qcGVn.jpeg"
     - "https://i.discogs.com/C8VsZXDws2AbAYC7urdnk5At9Nq4xK6D1aCodYM5HH0/rs:fit/g:sm/q:90/h:285/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTAz/MDc5LTE3MTA1MDIx/NzgtNjc1MC5qcGVn.jpeg"
@@ -57,16 +57,16 @@ The album, recorded in Paris, was the third and final AC/DC collaboration with p
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | For Those About To Rock (We Salute You) |
-| A2 | I Put The Finger On You |
-| A3 | Let's Get It Up |
-| A4 | Inject The Venom |
-| A5 | Snowballed |
-| B1 | Evil Walks |
-| B2 | C.O.D. |
-| B3 | Breaking The Rules |
-| B4 | Night Of The Long Knives |
-| B5 | Spellbound |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -85,4 +85,4 @@ The album, recorded in Paris, was the third and final AC/DC collaboration with p
 | Label          | Columbia |
 | Catalog Number | 19658834591 |
 | Notes | 50th Anniversary special edition as 180 gram gold nugget vinyl. Comes with a printed inner sleeve and includes a print (30x30 cm) with brand new AC/DC anniversary artwork. There are two hype stickers on the outer film on the front.  The Amazon exclusive limited edition version of this release comes with a slipmat featuring AC/DC 50th anniversary artwork. The record and the slipmat are packed in a resealable foil bag. A different barcode sticker is applied to the outer film on the back of the LP over the original barcode.  [Printed on rectangular hypsticker:] 50th Anniversary Special Edition Gold Coloured Vinyl Includes Unique Insert And Custom Labels  [Printed on back cover:] [...] Remastered from the original master tapes by George Marino at Sterling Sound. [...] © 1981, 2003 Leidseplein Presse B.V. / ℗ 1981 Leidseplein Presse B.V. [...] Made in the EU.  [Printed on inner sleeve:] [...] Recorded on Mobile One at: H.I.S. Studio, Paris & at Family Studio Originally released as Atlantic 11111 on November 20, 1981. Remastered from the original master tapes by George Marino at Sterling Sound [...] Additional artifacts courtesy Albert Productions and Arnaud Durieux.  © 1981, 2003 Leidseplein Presse B.V. 19658834591  [Printed on artwork:] Reverse side photo by Michael Putland archive. 19658834591-11  [Printed on label side B:] © 1981, 2024 Leidseplein Presse B.V.  Runouts are etched. Pressing plant identified based on the runout areas.  A1 in the runout field = A₁ in the vinyl runout. B1 in the runout field = B₁ in the vinyl runout.  [Additional information about the faintly inscribed geometric marks:] In the runouts "3△" and "1+V" are mirrored. |
-| Discogs URL    | [ACDC - For Those About To Rock](https://www.discogs.com/release/30103079-ACDC-For-Those-About-To-Rock) |
+| Discogs URL    | [AC/DC - For Those About To Rock](https://www.discogs.com/release/30103079-ACDC-For-Those-About-To-Rock) |

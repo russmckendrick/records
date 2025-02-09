@@ -33,15 +33,15 @@ styles: ["Prog Rock", "Symphonic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Mosaic |
-| A2 | Is This It? |
-| A3 | Somebody Like You |
-| A4 | The Geese |
-| A5 | Measure Of Things |
-| B6 | Dystopia |
-| B7 | It's Never Quiet |
-| B8 | MXI |
-| B9 | Two Faces |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

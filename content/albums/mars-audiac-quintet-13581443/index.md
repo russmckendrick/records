@@ -39,35 +39,35 @@ If <i>Transient Random-Noise Bursts With Announcements</i> flirted with the glea
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Mars Audiac Quintet  |
-| A1 | Three-Dee Melodie |
-| A2 | Wow And Flutter |
-| A3 | Transona Five |
-| A4 | Des Etoiles Electroniques |
-| B1 | Ping Pong |
-| B2 | Anamorphose |
-| B3 | Three Longers Later |
-| C1 | Nihilist Assault Group |
-| C2 | International Colouring Contest |
-| C3 | The Stars Our Destination |
-| C4 | Transporte Sans Bouger |
-| D1 | L'Enfer Des Formes |
-| D2 | Outer Accelerator |
-| D3 | New Orthophony |
-| D4 | Fiery Yellow |
-|  | Demos And Alternate Versions |
-| E1 | Ulan Bator |
-| E2 | Klang Tone |
-| E3 | Melochord Seventy-Five (Original Pulse Version) |
-| E4 | Outer Accelerator - (Original Mix) |
-| F1 | Nihilist Assault Group - Part 6 |
-| F2 | Wow And Flutter (7"/EP Version - Alternative Mix) |
-| F3 | Des Etoile Electroniques - Demo |
-| F4 | Ping Pong - Demo |
-| F5 | The Stars Our Destination - Demo |
-| F6 | Three Longers Later - Demo |
-| F7 | Transona Five - Demo |
-| F8 | Transporté Sans Bouger - Demo |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

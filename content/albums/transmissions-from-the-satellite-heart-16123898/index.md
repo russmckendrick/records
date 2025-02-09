@@ -28,17 +28,17 @@ An “alternative rock” band that actually does provide an alternative by util
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Turn It On |
-| A2 | Pilot Can At The Queer Of God |
-| A3 | Oh My Pregnant Head (Labia In The Sunlight) |
-| A4 | She Don't Use Jelly |
-| A5 | Chewin' The Apple Of Your Eye |
-| B1 | Superhumans |
-| B2 | Be My Head |
-| B3 | Moth In The Incubator |
-| B4 | Plastic Jesus |
-| B5 | When Yer Twenty Two |
-| B6 | Slow-Nerve-Action |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

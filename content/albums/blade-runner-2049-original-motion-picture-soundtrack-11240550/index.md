@@ -37,26 +37,26 @@ styles: ["Score", "Soundtrack", "Ambient", "Dark Ambient", "Industrial"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | 2049 |
-| A2 | Sapper's Tree |
-| A3 | Flight to LAPD |
-| A4 | Rain |
-| A5 | Wallace |
-| A6 | Memory |
-| A7 | Mesa |
-| B1 | Orphanage |
-| B2 | Furnace |
-| B3 | Someone Lived This |
-| B4 | Joi |
-| B5 | Pilot |
-| B6 | Hijack |
-| C1 | That's Why We Believe |
-| C2 | Her Eyes Were Green |
-| C3 | Sea Wall |
-| D1 | All The Best Memories Are Hers |
-| D2 | Tears In The Rain |
-| D3 | Blade Runner |
-| D4 | Almost Human |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

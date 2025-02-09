@@ -31,45 +31,45 @@ styles: ["Pop Rock", "Glam", "Art Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | In The Heat Of The Morning |
-| A2 | London Bye Ta Ta |
-| A3 | Karma Man |
-| A4 | Silly Boy Blue |
-| A5 | Let Me Sleep Beside You |
-| A6 | Janine |
-| B1 | Amsterdam |
-| B2 | God Knows I'm Good |
-| B3 | The Width Of A Circle |
-| B4 | Unwashed And Somewhat Slightly Dazed |
-| C1 | Cygnet Committee |
-| C2 | Memory Of A Free Festival |
-| C3 | Wild Eyed Boy From Freecloud |
-| C4 | The Supermen |
-| D1 | Bombers |
-| D2 | Looking For A Friend |
-| D3 | Almost Grown |
-| D4 | Kooks |
-| D5 | It Ain't Easy |
-| E1 | The Supermen |
-| E2 | Oh! You Pretty Things |
-| E3 | Eight Line Poem |
-| E4 | Hang On To Yourself |
-| E5 | Ziggy Stardust |
-| E6 | Queen Bitch |
-| F1 | I'm Waiting For The Man |
-| F2 | Five Years |
-| F3 | White Light/White Heat |
-| F4 | Moonage Daydream |
-| G1 | Hang On To Yourself |
-| G2 | Suffragette City |
-| G3 | Ziggy Stardust |
-| G4 | Starman |
-| G5 | Space Oddity |
-| H1 | Changes |
-| H2 | Oh! You Pretty Things |
-| H3 | Andy Warhol |
-| H4 | Lady Stardust |
-| H5 | Rock 'n' Roll Suicide |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

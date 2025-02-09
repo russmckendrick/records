@@ -1,6 +1,6 @@
 ---
-title: "Amplifier - Residue"
-artist_name: "Amplifier"
+title: "Amplifier (3) - Residue"
+artist_name: "Amplifier (3)"
 artist: "amplifier"
 album_name: "Residue"
 date: 2023-04-29T11:49:38.000000Z
@@ -10,8 +10,8 @@ slug: "residue-26901554"
 hideSummary: true
 cover:
     image: "residue-26901554.jpg"
-    alt: "Residue by Amplifier"
-    caption: "Residue by Amplifier"
+    alt: "Residue by Amplifier (3)"
+    caption: "Residue by Amplifier (3)"
 additional_images:
     - "https://i.discogs.com/ErvoT_-VsS-rYunrx6zrnXDmAa6y_eEaMKjdrTsz5DM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTAx/NTU0LTE2ODI3ODMy/NDctNzk2Ni5qcGVn.jpeg"
     - "https://i.discogs.com/j3kVlgxozVP51zNzOFi7MRVkTd0es_uNzUrrLvaiabo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTAx/NTU0LTE2ODI3ODI5/MjktNjMyNC5qcGVn.jpeg"
@@ -33,22 +33,22 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Teen Vogue |
-| A2 | Outsider |
-| A3 | Flame |
-| A4 | Strange Seas Of Thought (Wistful Version) |
-| B1 | Fluttering Bird |
-| B2 | Red Feather |
-| B3 | Insider (Undersea Lounge Version) |
-| B4 | Mosaic |
-| C1 | Time Travel |
-| C2 | Crush |
-| C3 | Sleepers |
-| C4 | Beyond The Valley |
-| D1 | Fake Fur Coat |
-| D2 | O Fortuna (Space Lounge Version) |
-| D3 | Jets For Brazil |
-| D4 | Gustav's Departure (Spirit & Mind Version) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -66,4 +66,4 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 | Label          | Rockosmos |
 | Catalog Number | ROK221 |
 | Notes | Comes in a gatefold jacket. Printed inner sleeves were mistakenly missing when it first released, but were sent out separately to backers later.  Funded via a Bandcamp Vinyl Pressing campaign.  Amplifier Info:  Double Gatefold Vinyl - 180g Hand Dipped - Each set unique As good as it gets for vinyl.  "We've remixed and remastered the original Residue tracks for Vinyl and additionally included some previously unheard demos and thrown in the tracks from Insider Versions as well to make a bumper double album of gems from the diamond mine on Crystal Mountain." |
-| Discogs URL    | [Amplifier - Residue](https://www.discogs.com/release/26901554-Amplifier-3-Residue) |
+| Discogs URL    | [Amplifier (3) - Residue](https://www.discogs.com/release/26901554-Amplifier-3-Residue) |

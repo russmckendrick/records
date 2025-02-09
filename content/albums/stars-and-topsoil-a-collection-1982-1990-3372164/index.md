@@ -36,24 +36,24 @@ Long before dreampop was a genre, Robin Guthrie and Simon Raymonde of the Grange
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Blind Dumb Deaf |
-| A2 | Sugar Hiccup |
-| A3 | My Love Paramour |
-| A4 | Pearly-Dewdrops' Drops |
-| A5 | Lorelei |
-| B1 | Pandora |
-| B2 | Aikea-Guinea |
-| B3 | Pink Orange Red |
-| B4 | Pale Clouded White |
-| C1 | Lazy Calm |
-| C2 | The Thinner The Air |
-| C3 | Orange Appled |
-| C4 | Cico Buff |
-| D1 | Carolyn's Fingers |
-| D2 | Fifty-Fifty Clown |
-| D3 | Iceblink Luck |
-| D4 | Heaven Or Las Vegas |
-| D5 | Watchlar |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

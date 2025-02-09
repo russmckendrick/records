@@ -56,93 +56,93 @@ styles: ["Soul"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Pain In My Heart |
-| A1 | Pain In My Heart |
-| A2 | The Dog |
-| A3 | Stand By Me |
-| A4 | Hey Hey Baby |
-| A5 | You Send Me |
-| A6 | I Need Your Lovin' |
-| B1 | These Arms Of Mine |
-| B2 | Louie Louie |
-| B3 | Something Is Worrying Me |
-| B4 | Security |
-| B5 | That's What My Heart Needs |
-| B6 | Lucille |
-|  | The Great Otis Redding Sings Soul Ballads |
-| C1 | That’s How Strong My Love Is |
-| C2 | Chained And Bound |
-| C3 | Woman, Lover, A Friend |
-| C4 | Your One And Only Man |
-| C5 | Nothing Can Change This Love |
-| C6 | It's Too Late |
-| D1 | For Your Precious Love |
-| D2 | I Want To Thank You |
-| D3 | Come To Me |
-| D4 | Home In Your Heart |
-| D5 | Keep Your Arms Around Me |
-| D6 | Mr. Pitiful |
-|  | Otis Blue / Otis Redding Sings Soul |
-| E1 | Ole Man Trouble |
-| E2 | Respect |
-| E3 | Change Gonna Come |
-| E4 | Down In The Valley |
-| E5 | I've Been Loving You Too Long |
-| F1 | Shake |
-| F2 | My Girl |
-| F3 | Wonderful World |
-| F4 | Rock Me Baby |
-| F5 | Satisfaction |
-| F6 | You Don't Miss Your Water |
-|  | The Soul Album |
-| G1 | Just One More Day |
-| G2 | It's Growing |
-| G3 | Cigarettes And Coffee |
-| G4 | Chain Gang |
-| G5 | Nobody Knows You (When You're Down And Out) |
-| H1 | Good To Me |
-| H2 | Scratch My Back |
-| H3 | Treat Her Right |
-| H4 | Everybody Makes A Mistake |
-| H5 | Any Ole Way |
-| H6 | 634-5789 |
-|  | The Otis Redding Dictionary Of Soul Complete & Unbelievable |
-| I1 | Fa-Fa-Fa-Fa-Fa (Sad Song) |
-| I2 | I'm Sick Y'All |
-| I3 | Tennessee Waltz  |
-| I4 | Sweet Lorene |
-| I5 | Try A Little Tenderness |
-| I6 | Day Tripper |
-| J1 | My Lover's Prayer |
-| J2 | She Put The Hurt On Me |
-| J3 | Ton Of Joy |
-| J4 | You're Still My Baby |
-| J5 | Hawg For You |
-| J6 | Love Have Mercy |
-|  | King & Queen (Otis Redding & Carla Thomas) |
-| K1 | Knock On Wood |
-| K2 | Let Me Be Good To You |
-| K3 | Tramp |
-| K4 | Tell It Like It Is |
-| K5 | When Something Is Wrong With My Baby |
-| K6 | Lovey Dovey |
-| L1 | New Year's Resolution |
-| L2 | It Takes Two |
-| L3 | Are You Lonely For Me Baby |
-| L4 | Bring It On Home To Me |
-| L5 | Ooh Carla, Ooh Otis |
-|  | The Dock Of The Bay |
-| M1 | (Sittin' On) The Dock Of The Bay |
-| M2 | I Love You More Than Words Can Say |
-| M3 | Let Me Come On Home |
-| M4 | Open The Door |
-| M5 | Don't Mess With Cupid |
-| N1 | The Glory Of Love |
-| N2 | I'm Coming Home |
-| N3 | Tramp |
-| N4 | The Huckle-Buck |
-| N5 | Nobody Knows You (When You're Down And Out) |
-| N6 | Ole Man Trouble |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

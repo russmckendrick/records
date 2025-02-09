@@ -29,24 +29,24 @@ styles: ["Soft Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Alone |
-| A2 | Kayleigh |
-| A3 | Here I Go Again |
-| A4 | Ride Like The Wind |
-| A5 | Shot In The Dark |
-| A6 | Don't Stop Believin' |
-| A7 | Dead Ringer For Love |
-| A8 | One Lonely Night |
-| A9 | The Final Countdown |
-| B1 | We Built This City |
-| B2 | Calling All Heroes |
-| B3 | Golden Brown |
-| B4 | Nothin' But A Good Time |
-| B5 | Body Running Fast |
-| B6 | Screaming In The Night |
-| B7 | We Care A Lot |
-| B8 | Burning Heart |
-| B9 | St. Elmo's Fire (Man In Motion) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

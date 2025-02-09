@@ -1,6 +1,6 @@
 ---
-title: "Hefner - The Fidelity Wars"
-artist_name: "Hefner"
+title: "Hefner (2) - The Fidelity Wars"
+artist_name: "Hefner (2)"
 artist: "hefner"
 album_name: "The Fidelity Wars"
 date: 2019-11-22T18:27:44.000000Z
@@ -10,8 +10,8 @@ slug: "the-fidelity-wars-14430353"
 hideSummary: true
 cover:
     image: "the-fidelity-wars-14430353.jpg"
-    alt: "The Fidelity Wars by Hefner"
-    caption: "The Fidelity Wars by Hefner"
+    alt: "The Fidelity Wars by Hefner (2)"
+    caption: "The Fidelity Wars by Hefner (2)"
 additional_images:
     - "https://i.discogs.com/XFbjVNBB_0bO5waUXuEZhdQOmUyCn3y0ECleadOs5FQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDMw/MzUzLTE1NzQzNzk4/OTgtNjM3MS5qcGVn.jpeg"
     - "https://i.discogs.com/aWGn2lS3KsJXxclV-UwlXFjRf5jVZDmbsU8P7QQhpTE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDMw/MzUzLTE1NzQzNzk4/OTktNjU1Ni5qcGVn.jpeg"
@@ -32,17 +32,17 @@ It was reissued by lead singer Darren Hayman in 2008.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Hymn For The Cigarettes |
-| A2 | May God Protect Your Home |
-| A3 | The Hymn For The Alcohol |
-| A4 | I Took Her Love For Granted |
-| A5 | Every Little Gesture |
-| A6 | The Weight Of The Stars |
-| B1 | I Stole A Bride |
-| B2 | We Were Meant To Be |
-| B3 | Fat Kelly's Teeth |
-| B4 | Don't Flake Out On Me |
-| B5 | I Love Only You |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -61,4 +61,4 @@ It was reissued by lead singer Darren Hayman in 2008.
 | Label          | Where It's At Is Where You Are |
 | Catalog Number | wialp081 |
 | Notes | Black vinyl 2019 reissue.  Comes with a download code. |
-| Discogs URL    | [Hefner - The Fidelity Wars](https://www.discogs.com/release/14430353-Hefner-2-The-Fidelity-Wars) |
+| Discogs URL    | [Hefner (2) - The Fidelity Wars](https://www.discogs.com/release/14430353-Hefner-2-The-Fidelity-Wars) |

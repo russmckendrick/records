@@ -44,30 +44,30 @@ Limited numbers of vinyl copies of the album were released on Record Store Day 2
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | What Goes Boom |
-| A2 | Greens And Blues |
-| A3 | Indie Cindy |
-| B1 | Bagboy |
-| B2 | Magdalena 318 |
-| B3 | Silver Snail |
-| C1 | Blue Eyed Hexe |
-| C2 | Ring The Bell |
-| C3 | Another Toe In The Ocean |
-| D1 | Andro Queen |
-| D2 | Snakes |
-| D3 | Jaime Bravo |
-| CD-1 | What Goes Boom |
-| CD-2 | Greens And Blues |
-| CD-3 | Indie Cindy |
-| CD-4 | Bagboy |
-| CD-5 | Magdalena 318 |
-| CD-6 | Silver Snail |
-| CD-7 | Blue Eyed Hexe |
-| CD-8 | Ring The Bell |
-| CD-9 | Another Toe In The Ocean |
-| CD-10 | Andro Queen |
-| CD-11 | Snakes |
-| CD-12 | Jaime Bravo |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

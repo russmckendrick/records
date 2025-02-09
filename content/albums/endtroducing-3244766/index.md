@@ -46,20 +46,20 @@ Throughout the 1990s, rap’s revolutions continued to cycle: From Dr. Dre’s <
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Best Foot Forward |
-| A2 | Building Steam With A Grain Of Salt |
-| A3 | The Number Song |
-| B1.a | Changeling |
-| B1.b | **Transmission 1 |
-| B2 | Stem/Long Stem |
-| C1.a | **Transmission 2 |
-| C1.b | Mutual Slump |
-| C2 | Organ Donor |
-| C3 | Why Hip Hop Sucks In '96 |
-| C4 | Midnight In A Perfect World |
-| D1 | Napalm Brain/Scatter Brain |
-| D2.a | What Does Your Soul Look Like (Part 1 - Blue Sky Revisit) |
-| D2.b | **Transmission 3 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

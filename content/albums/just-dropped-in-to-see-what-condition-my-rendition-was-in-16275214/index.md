@@ -1,6 +1,6 @@
 ---
-title: "Sharon Jones  The Dap-Kings - Just Dropped In (To See What Condition My Rendition Was In)"
-artist_name: "Sharon Jones  The Dap-Kings"
+title: "Sharon Jones & The Dap-Kings - Just Dropped In (To See What Condition My Rendition Was In)"
+artist_name: "Sharon Jones & The Dap-Kings"
 artist: "sharon-jones-the-dap-kings"
 album_name: "Just Dropped In (To See What Condition My Rendition Was In)"
 date: 2020-12-01T10:30:57.000000Z
@@ -10,8 +10,8 @@ slug: "just-dropped-in-to-see-what-condition-my-rendition-was-in-16275214"
 hideSummary: true
 cover:
     image: "just-dropped-in-to-see-what-condition-my-rendition-was-in-16275214.jpg"
-    alt: "Just Dropped In (To See What Condition My Rendition Was In) by Sharon Jones  The Dap-Kings"
-    caption: "Just Dropped In (To See What Condition My Rendition Was In) by Sharon Jones  The Dap-Kings"
+    alt: "Just Dropped In (To See What Condition My Rendition Was In) by Sharon Jones & The Dap-Kings"
+    caption: "Just Dropped In (To See What Condition My Rendition Was In) by Sharon Jones & The Dap-Kings"
 additional_images:
     - "https://i.discogs.com/Q1olKctxiMDOltg9Il52IwNq2YRbQ2tIsM6tl_CoF7I/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc1/MjE0LTE2MDY2ODYw/ODItNjE4Ny5qcGVn.jpeg"
     - "https://i.discogs.com/D2ZSQJA4YAvCGQkg1M5iLG0Bos3WoUixSWOVDeMqYG0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Mjc1/MjE0LTE2MDY0MDkz/NjAtNDQxMS5qcGVn.jpeg"
@@ -32,18 +32,18 @@ styles: ["Soul"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Signed, Sealed, Delivered I'm Yours |
-| A2 | Little By Little |
-| A3 | Just Dropped In (To See What Condition My Condition Was In) |
-| A4 | Here I Am Baby |
-| A5 | What Have You Done For Me Lately? |
-| A6 | Take Me With U |
-| B1 | Inspiration Information |
-| B2 | Giving Up |
-| B3 | Rescue Me |
-| B4 | In The Bush |
-| B5 | It Hurts To Be Alone |
-| B6 | Trespasser |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -61,4 +61,4 @@ styles: ["Soul"]
 | Label          | Daptone Records |
 | Catalog Number | DAP-066 |
 | Notes | Record Store Day Black Friday "RSD First" release, 4,000 copies. Pressed on blue vinyl with black splatter.  Hype sticker affixed to shrink, with barcode: Limited blue vinyl with black splatter! These forays into other artists' compositions lay bare Miss Sharon Jones' incomparable vocal ability, and the Dap-Kings' gift for arrangement and unmatched studio prowess. A testament to their reigning title as The Baddest Band in the Land. "Sharon Jones is the 21st century's Godmother of Soul" - NPR Includes MP3 download card  Title on jacket back, labels: Just Dropped In (To See What Condition My Rendition Was In) Title on jacket front: "Just Dropped In To See What Condition My RENDITION Was In!" Title on jacket spine: Just Dropped In ...  Labels include "Support Your Local Record Store" text.  Recorded at Daptone House of Soul Studios, Brooklyn, NY, in sessions between 2000 and 2016. |
-| Discogs URL    | [Sharon Jones  The Dap-Kings - Just Dropped In (To See What Condition My Rendition Was In)](https://www.discogs.com/release/16275214-Sharon-Jones-The-Dap-Kings-Just-Dropped-In-To-See-What-Condition-My-Rendition-Was-In) |
+| Discogs URL    | [Sharon Jones & The Dap-Kings - Just Dropped In (To See What Condition My Rendition Was In)](https://www.discogs.com/release/16275214-Sharon-Jones-The-Dap-Kings-Just-Dropped-In-To-See-What-Condition-My-Rendition-Was-In) |

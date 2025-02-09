@@ -28,22 +28,22 @@ styles: ["Art Rock", "Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Rock Hudson |
-| A2 | Lost / Not Lost |
-| A3 | When Summer Comes |
-| A4 | Idiots at Large |
-| A5 | A Stand-Up for the Dying |
-| A6 | Old Crawler |
-| A7 | Heartbreak Notes |
-| A8 | Ghost Of A Kiss |
-| B1 | Summer Turned |
-| B2 | You Can Always Disappear |
-| B3 | Powder Dry |
-| B4 | Films of Our Youth |
-| B5 | This Way Now |
-| B6 | I Was There |
-| B7 | The Film Of Our Youth |
-| B8 | Built To Last |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

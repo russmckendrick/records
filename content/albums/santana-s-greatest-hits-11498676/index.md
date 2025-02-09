@@ -32,16 +32,16 @@ Three of the tracks are the edited single versions, as annotated below.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Evil Ways |
-| A2 | Jingo |
-| A3 | Hope You're Feeling Better |
-| A4 | Samba Pa Ti |
-| A5 | Persuasion |
-| B1 | Black Magic Woman |
-| B2 | Oye Como Va |
-| B3 | Everything's Coming Our Way |
-| B4 | Se A Cabo |
-| B5 | Everybody's Everything |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

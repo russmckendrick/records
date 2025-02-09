@@ -41,48 +41,48 @@ styles: ["Chicago Blues", "Delta Blues", "Electric Blues", "Rhythm & Blues", "Ro
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Rollin' Stone |
-| A2 | Little Red Rooster (Aka The Red Rooster) |
-| A3 | Dust My Broom |
-| A4 | I'm A King Bee |
-| A5 | Little Queenie |
-| B1 | Boogie Chillen |
-| B2 | I Hate To See You Go |
-| B3 | Bright Lights, Big City |
-| B4 | Love In Vain Blues |
-| C1 | Just Like I Treat You |
-| C2 | You Can't Judge A Book By Its Cover |
-| C3 | Ride 'Em On Down |
-| C4 | Hoodoo Blues |
-| D1 | Just Your Fool |
-| D2 | All Your Love |
-| D3 | I Can't Quit You Baby |
-| D4 | Worried Life Blues |
-| D5 | Blues Before Sunrise |
-| E1 | Little Rain |
-| E2 | Blue And Lonesome |
-| E3 | Stop Breakin' Down Blues |
-| E4 | You Gotta Move |
-| F1 | I Just Want To Make Love To You |
-| F2 | Mona |
-| F3 | Boogie Children |
-| F4 | Bad Boy |
-| G1 | Carol |
-| G2 | Rock Me Baby |
-| G3 | Crawdad |
-| G4 | I Got To Go |
-| G5 | I Want To Be Loved |
-| H1 | Little Baby |
-| H2 | Susie Q |
-| H3 | Down The Road Apiece |
-| H4 | Don't Stay Out All Night |
-| H5 | Everybody Knows About My Good Thing (Part 1) |
-| I1 | Key To The Highway |
-| I2 | The Prodigal Son |
-| J1 | Mannish Boy |
-| J2 | Commit A Crime (1991 Chess Box Version) |
-| J3 | Damn Right, I've Got The Blues |
-| J4 | Confessin' The Blues (Single Version) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

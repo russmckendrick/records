@@ -32,15 +32,15 @@ styles: ["Experimental", "Krautrock", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Trident Of Fire |
-| A2 | Persephone Sleeps |
-| A3 | Shepherdess |
-| A4 | Spirits From The Deep |
-| A5 | The Islanders |
-| A6 | Disaster 2 |
-| B1 | Revelations |
-| B2 | International Treasure |
-| B3 | Castalia |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

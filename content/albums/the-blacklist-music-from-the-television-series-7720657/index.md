@@ -38,18 +38,18 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Citizens |
-| A2 | Welcome Home |
-| A3 | Wicked Game |
-| A4 | Beyond The Sea |
-| A5 | Major Tom |
-| A6 | Sundown |
-| B1 | Made Of Stone |
-| B2 | Angel Of Small Death And The Codeine Scene |
-| B3 | Blood On My Name |
-| B4 | Jolene (Slow) |
-| B5 | Black Eunuch |
-| B6 | Run From Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

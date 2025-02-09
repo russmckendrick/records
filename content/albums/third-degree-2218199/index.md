@@ -29,17 +29,17 @@ styles: ["Rhythm & Blues", "Pub Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Eleven Plus Eleven |
-| A2 | Wipe Away Your Kiss |
-| A3 | Why Can't We Be What We Want To Be |
-| A4 | Tearful Eye |
-| A5 | True Love Is A Crime |
-| A6 | Egg On My Face |
-| B1 | Sugarbeat (And Rhythm Sweet) |
-| B2 | Mystery Man |
-| B3 | East Street, SE17 |
-| B4 | You Don't Love Me |
-| B5 | You Can't Say Yes And You Can't Say No |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -38,17 +38,17 @@ Released in 1986, <i>Graceland</i> would become the most successful solo album o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Boy In The Bubble |
-| A2 | Graceland |
-| A3 | I Know What I Know |
-| A4 | Gumboots |
-| A5 | Diamonds On The Soles Of Her Shoes |
-| B1 | You Can Call Me Al |
-| B2 | Under African Skies |
-| B3 | Homeless |
-| B4 | Crazy Love Vol II |
-| B5 | That Was Your Mother |
-| B6 | All Around The World Or The Myth Of Fingerprints |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

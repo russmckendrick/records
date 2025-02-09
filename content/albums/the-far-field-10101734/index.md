@@ -34,18 +34,18 @@ Future Islands’ 2014 effort <i>Singles</i> was a breakthrough for the synth-po
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Aladdin |
-| A2 | Time On Her Side |
-| A3 | Ran |
-| A4 | Beauty on the Road |
-| A5 | Cave |
-| A6 | Through The Roses |
-| B1 | North Star |
-| B2 | Ancient Waters |
-| B3 | Candles |
-| B4 | Day Glow Fire |
-| B5 | Shadows |
-| B6 | Black Rose |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -35,17 +35,17 @@ Ode to Joy is the eleventh studio album by the American rock band Wilco, release
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Bright Leaves |
-| A2 | Before Us |
-| A3 | One And A Half Stars |
-| A4 | Quiet Amplifier |
-| A5 | Everyone Hides |
-| B6 | White Wooden Cross |
-| B7 | Citizens |
-| B8 | We Were Lucky |
-| B9 | Love Is Everywhere (Beware) |
-| B10 | Hold Me Anyway |
-| B11 | An Empty Corner |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

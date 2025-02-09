@@ -1,7 +1,7 @@
 ---
-title: "The B-52s - Wild Planet"
-artist_name: "The B-52s"
-artist: "the-b-52s"
+title: "The B-52's - Wild Planet"
+artist_name: "The B-52's"
+artist: "the-b-52-s"
 album_name: "Wild Planet"
 date: 2020-07-14T11:08:21.000000Z
 release_date: "1980-01-01"
@@ -10,8 +10,8 @@ slug: "wild-planet-13930651"
 hideSummary: true
 cover:
     image: "wild-planet-13930651.jpg"
-    alt: "Wild Planet by The B-52s"
-    caption: "Wild Planet by The B-52s"
+    alt: "Wild Planet by The B-52's"
+    caption: "Wild Planet by The B-52's"
 additional_images:
     - "https://i.discogs.com/3NwsUvvdixJa5HHmWfyePfwDlf9F5g3Z5UTnH1PjNOc/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTMw/NjUxLTE1NjQzNDA5/MjgtNDY5NS5qcGVn.jpeg"
     - "https://i.discogs.com/8--v85PzCX-Anejfkh-SoqHaWYPZGDfQSbntVWBP5-o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTMw/NjUxLTE2NDg5MDcy/MjUtNjAyOS5qcGVn.jpeg"
@@ -37,15 +37,15 @@ Film director Gus Van Sant later referred to the song "Private Idaho" in the tit
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Party Out Of Bounds |
-| A2 | Dirty Back Road |
-| A3 | Runnin' Around |
-| A4 | Give Me Back My Man |
-| A5 | Private Idaho |
-| B1 | Devil In My Car |
-| B2 | Quiche Lorraine |
-| B3 | Strobe Light |
-| B4 | 53 Miles West Of Venus |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -64,4 +64,4 @@ Film director Gus Van Sant later referred to the song "Private Idaho" in the tit
 | Label          | Island Records |
 | Catalog Number | 538798 0 |
 | Notes | 180g vinyl reissue and MP3 download code. "60 years of Island Records" round yellow sticker on front shrink wrap.  Recorded at Compass Point Studios, Nassau, Bahamas, 4/1980 |
-| Discogs URL    | [The B-52s - Wild Planet](https://www.discogs.com/release/13930651-The-B-52s-Wild-Planet) |
+| Discogs URL    | [The B-52's - Wild Planet](https://www.discogs.com/release/13930651-The-B-52s-Wild-Planet) |

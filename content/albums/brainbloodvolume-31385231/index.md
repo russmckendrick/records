@@ -1,7 +1,7 @@
 ---
-title: "Neds Atomic Dustbin - Brainbloodvolume"
-artist_name: "Neds Atomic Dustbin"
-artist: "neds-atomic-dustbin"
+title: "Ned's Atomic Dustbin - Brainbloodvolume"
+artist_name: "Ned's Atomic Dustbin"
+artist: "ned-s-atomic-dustbin"
 album_name: "Brainbloodvolume"
 date: 2024-08-02T13:31:11.000000Z
 release_date: "1995-07-07"
@@ -10,8 +10,8 @@ slug: "brainbloodvolume-31385231"
 hideSummary: true
 cover:
     image: "brainbloodvolume-31385231.jpg"
-    alt: "Brainbloodvolume by Neds Atomic Dustbin"
-    caption: "Brainbloodvolume by Neds Atomic Dustbin"
+    alt: "Brainbloodvolume by Ned's Atomic Dustbin"
+    caption: "Brainbloodvolume by Ned's Atomic Dustbin"
 additional_images:
     - "https://i.discogs.com/uvBdzFYmGEiXj897NZKt5rokrK8aVPS9oqkh2EikuIs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg1/MjMxLTE3MjI2NzQz/NDUtNDgzMy5qcGVn.jpeg"
     - "https://i.discogs.com/xILCW3L5wPyOMt9yWZlXFrVw4kwfymdXmTsyXmaD08g/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzg1/MjMxLTE3MjI2NzQz/NTYtODg3MS5qcGVn.jpeg"
@@ -36,17 +36,17 @@ Brainbloodvolume is the third and final album from English rock band Ned's Atomi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | All I Ask Of Myself Is That I Hold Together |
-| A2 | Floote |
-| A3 | Premonition |
-| A4 | Talk Me Down |
-| A5 | Borehole |
-| B1 | Your Only Joke |
-| B2 | Stuck |
-| B3 | ...To Be Right |
-| B4 | I Want It Over |
-| B5 | Traffic |
-| B6 | Song Eleven Could Take Forever |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -65,4 +65,4 @@ Brainbloodvolume is the third and final album from English rock band Ned's Atomi
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP 3330C |
 | Notes | Limited edition of 1000 individually numbered copies on silver & black marbled vinyl  Includes insert  180 gram vinyl |
-| Discogs URL    | [Neds Atomic Dustbin - Brainbloodvolume](https://www.discogs.com/release/31385231-Neds-Atomic-Dustbin-Brainbloodvolume) |
+| Discogs URL    | [Ned's Atomic Dustbin - Brainbloodvolume](https://www.discogs.com/release/31385231-Neds-Atomic-Dustbin-Brainbloodvolume) |

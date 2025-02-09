@@ -1,6 +1,6 @@
 ---
-title: "Amplifier - Amplifier"
-artist_name: "Amplifier"
+title: "Amplifier (3) - Amplifier"
+artist_name: "Amplifier (3)"
 artist: "amplifier"
 album_name: "Amplifier"
 date: 2016-12-15T19:44:03.000000Z
@@ -10,8 +10,8 @@ slug: "amplifier-9479697"
 hideSummary: true
 cover:
     image: "amplifier-9479697.jpg"
-    alt: "Amplifier by Amplifier"
-    caption: "Amplifier by Amplifier"
+    alt: "Amplifier by Amplifier (3)"
+    caption: "Amplifier by Amplifier (3)"
 additional_images:
     - "https://i.discogs.com/FHgpV1p0nyCF8q0F9Rwx7bfdSx9PAYr6IHTsxJbTTkM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Nzk2/OTctMTQ4MTMwOTg5/OS03NzkyLmpwZWc.jpeg"
     - "https://i.discogs.com/SyE1cfp7ebkJF6bvU35J9I4UA_Eh_t__SzSkRlio21E/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Nzk2/OTctMTQ4MTc1ODg3/Ny04NjU3LmpwZWc.jpeg"
@@ -32,16 +32,16 @@ The critical reception of the album was generally positive, with comments such a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Motorhead |
-| A2 | Airborne |
-| B3 | Panzer |
-| B4 | Old Movies |
-| B5 | Neon |
-| C6 | Post Acid Youth |
-| C7 | On/Off |
-| C8 | The Consultancy |
-| D9 | One Great Summer |
-| D10 | UFOs |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -60,4 +60,4 @@ The critical reception of the album was generally positive, with comments such a
 | Label          | [{'name': 'Not On Label (Amplifier (3) Self-released)', 'catno': ''}] |
 | Catalog Number | none |
 | Notes | 180g black vinyl housed in a gatefold sleeve. Pressing of 500 copies. Some copies come with a A5-sized 2-sided photograph, some promotional cards from [l1104766] and a note penned by [a369288].  Sequential tracklist as per the cover. |
-| Discogs URL    | [Amplifier - Amplifier](https://www.discogs.com/release/9479697-Amplifier-3-Amplifier) |
+| Discogs URL    | [Amplifier (3) - Amplifier](https://www.discogs.com/release/9479697-Amplifier-3-Amplifier) |

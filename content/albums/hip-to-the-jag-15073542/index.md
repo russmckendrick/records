@@ -35,16 +35,16 @@ Hip to the Jag is the debut solo studio album by Iranian-born musician Kavus Tor
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Chart The Way |
-| A2 | Silent The Rotor |
-| A3 | A Body Of Work |
-| A4 | The Peacock Throne |
-| A5 | You Broke My Fall |
-| A6 | Cemetery Of Light |
-| B1 | Radio To Their World |
-| B2 | My Cold Rebirth |
-| B3 | Where The Eyeless Walk |
-| B4 | Slow Movements |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

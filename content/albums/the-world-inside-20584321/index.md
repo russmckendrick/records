@@ -33,11 +33,11 @@ On March 2, 2010, Orb Books published this title as a trade paperback edition.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Machinations |
-| A2 | The World Inside |
-| A3 | Presynaptic |
-| B1 | Postsynaptic |
-| B2 | Apocryphal |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

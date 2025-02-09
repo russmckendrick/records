@@ -1,6 +1,6 @@
 ---
-title: "Oasis - (What's The Story) Morning Glory?"
-artist_name: "Oasis"
+title: "Oasis (2) - (What's The Story) Morning Glory?"
+artist_name: "Oasis (2)"
 artist: "oasis"
 album_name: "(What's The Story) Morning Glory?"
 date: 2016-03-23T12:58:39.000000Z
@@ -10,8 +10,8 @@ slug: "what-s-the-story-morning-glory-6127871"
 hideSummary: true
 cover:
     image: "what-s-the-story-morning-glory-6127871.jpg"
-    alt: "(What's The Story) Morning Glory? by Oasis"
-    caption: "(What's The Story) Morning Glory? by Oasis"
+    alt: "(What's The Story) Morning Glory? by Oasis (2)"
+    caption: "(What's The Story) Morning Glory? by Oasis (2)"
 additional_images:
     - "https://i.discogs.com/aVA62gG7KcEE6lO4TobdpQ_ykCXd3OgtDHvCjclVzI4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjc4/NzEtMTQ5NDg2NzQz/OC0yNzAxLmpwZWc.jpeg"
     - "https://i.discogs.com/Xg49NKowm7GDxIVqbcyqRois1vYs5OXsCB4kv35rPxU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjc4/NzEtMTQ5NDg2NzQz/OS04NjI2LmpwZWc.jpeg"
@@ -46,19 +46,19 @@ Shifting well over 20 million copies, it went on to become one of the best-selli
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hello |
-| A2 | Roll With It |
-| A3 | Wonderwall |
-| B1 | Don't Look Back In Anger |
-| B2 | Hey Now! |
-| B3 | Untitled |
-| B4 | Bonehead's Bank Holiday |
-| C1 | Some Might Say |
-| C2 | Cast No Shadow |
-| C3 | She's Electric |
-| D1 | Morning Glory |
-| D2 | Untitled |
-| D3 | Champagne Supernova |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -76,4 +76,4 @@ Shifting well over 20 million copies, it went on to become one of the best-selli
 | Label          | Big Brother |
 | Catalog Number | RKIDLP73 |
 | Notes | In multifold cover and plain, black, heavy gloss inner sleeves.  Sticker: "Remastered double heavyweight vinyl - includes download code for album, bonus unreleased tracks & rarities" Remastered from original tapes by Ian Cooper at London’s Metropolis Studios. Supervised by the album producer Owen Morris.  All songs written by Noel Gallagher (Dead Leg/Sony/ATV Music Publishing Ltd) except 'Hello' excerpt taken from 'Hello, Hello I'm Back Again' written by Gary Glitter and Mike Leander (Universal/MCA Music Ltd)  Cast No Shadow is dedicated to the genius of Richard Ashcroft Paul Weller appears courtesy of Go! Discs  Track B2 titled "Hey Now" on label.  ℗ & © 2014 Big Brother Recordings Ltd. |
-| Discogs URL    | [Oasis - (What's The Story) Morning Glory?](https://www.discogs.com/release/6127871-Oasis-2-Whats-The-Story-Morning-Glory) |
+| Discogs URL    | [Oasis (2) - (What's The Story) Morning Glory?](https://www.discogs.com/release/6127871-Oasis-2-Whats-The-Story-Morning-Glory) |

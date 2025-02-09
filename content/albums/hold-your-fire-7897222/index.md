@@ -30,16 +30,16 @@ The album was not as commercially successful as most of the band's releases of t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Force Ten |
-| A2 | Time Stand Still |
-| A3 | Open Secrets |
-| A4 | Second Nature |
-| A5 | Prime Mover |
-| B1 | Lock And Key |
-| B2 | Mission |
-| B3 | Turn The Page |
-| B4 | Tai Shan |
-| B5 | High Water |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

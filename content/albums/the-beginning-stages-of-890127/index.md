@@ -41,16 +41,16 @@ The Beginning Stages of... is the debut album from The Polyphonic Spree. The US 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Section 1 (Have A Day/Celebratory) |
-| A2 | Section 2 (It's The Sun) |
-| A3 | Section 3 (Days Like This Keep Me Warm) |
-| A4 | Section 4 (La La) |
-| A5 | Section 5 (Middle Of The Day) |
-| B1 | Section 6 (Hanging Around The Day Part 1) |
-| B2 | Section 7 (Hanging Around The Day Part 2) |
-| C1 | Section 8 (Soldier Girl) |
-| C2 | Section 9 (Light & Day / Reach For The Sun) |
-| D1 | Section 10 (A Long Day) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -29,14 +29,14 @@ It was the first Status Quo album on which drummer John Coghlan was credited wit
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Roll Over Lay Down |
-| A2 | Claudie |
-| A3 | A Reason For Living |
-| A4 | Blue Eyed Lady |
-| B1 | Caroline |
-| B2 | Softer Ride |
-| B3 | And It's Better Now |
-| B4 | Forty-Five Hundred Times |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

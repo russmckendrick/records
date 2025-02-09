@@ -40,15 +40,15 @@ Lovesexy was accompanied by the Lovesexy Tour, of which the September 9th Dortmu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Eye No |
-| A2 | Alphabet St. |
-| A3 | Glam Slam |
-| A4 | Anna Stesia |
-| B1 | Dance On |
-| B2 | Lovesexy |
-| B3 | When 2 R In Love |
-| B4 | I Wish U Heaven |
-| B5 | Positivity |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

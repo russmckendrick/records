@@ -34,29 +34,29 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Unsafe Building [Electric] |
-| A2 | Up For Murder [Acoustic] |
-| A3 | Reason 41 [EMI Demo] |
-| A4 | The Deceiver [EMI Demo] |
-| A5 | Lie Of The Land [EMI Demo] |
-| B1 | Sixty Eight Guns [Demo Version] |
-| B2 | What Kind Of Hell [Demo Version] |
-| B3 | Marching On [Single Version] |
-| B4 | Across The Border |
-| B5 | Lie Of The Land |
-| B6 | The Stand [Single Version] |
-| C1 | For Freedom [Live] |
-| C2 | Reason 41 [Live] |
-| C3 | The Deceiver [Live] |
-| C4 | Third Light [Live] |
-| C5 | Lie Of The Land [Live] |
-| C6 | Legal Matter [Live] |
-| C7 | Marching On [Live] |
-| D1 | The Stand [Long Version] |
-| D2 | Blaze Of Glory [Mick Glossop Version] |
-| D3 | Sixty Eight Guns [Single Version] |
-| D4 | Thoughts Of A Young Man [Part One] |
-| D5 | Sixty Eight Guns [Part Two] |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -41,19 +41,19 @@ But Tony M. isn’t the only vocalist to share the mic with Prince on <i>Diamond
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Thunder |
-| A2 | Daddy Pop |
-| A3 | Diamonds And Pearls |
-| B1 | Cream |
-| B2 | Strollin' |
-| B3 | Willing And Able |
-| B4 | Gett Off |
-| C1 | Walk Don't Walk |
-| C2 | Jughead |
-| C3 | Money Don't Matter 2 Night |
-| C4 | Push |
-| D1 | Insatiable |
-| D2 | Live 4 Love (Last Words From The Cockpit) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

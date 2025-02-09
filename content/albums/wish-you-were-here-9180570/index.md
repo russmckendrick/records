@@ -36,11 +36,11 @@ The song is popular on classic rock radio stations and remains a staple of Pink 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Shine On You Crazy Diamond (1 - 5) |
-| A2 | Welcome To The Machine |
-| B1 | Have A Cigar |
-| B2 | Wish You Were Here |
-|  | Shine On You Crazy Diamond (6 - 9) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

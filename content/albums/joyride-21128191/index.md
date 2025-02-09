@@ -39,18 +39,18 @@ The band toured extensively to support the record, performing to over 1.7 millio
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Joyride |
-| A2 | Hotblooded |
-| A3 | Fading Like A Flower (Every Time You Leave) |
-| A4 | Knockin' On Every Door |
-| A5 | Spending My Time |
-| A6 | Watercolours In The Rain |
-| B1 | The Big L. |
-| B2 | (Do You Get) Excited? |
-| B3 | Small Talk |
-| B4 | Physical Fascination |
-| B5 | Things Will Never Be The Same |
-| B6 | Perfect Day |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

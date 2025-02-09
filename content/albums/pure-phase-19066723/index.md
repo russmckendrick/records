@@ -43,20 +43,20 @@ The track "Pure Phase" was the basis for a limited edition release called "Pure 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Medication |
-| A2 | The Slide Song |
-| A3 | Electric Phase |
-| A4 | All Of My Tears |
-| B1 | These Blues |
-| B2 | Let It Flow |
-| B3 | Take Good Care Of It |
-| B4 | Born Never Asked |
-| C1 | Electric Mainline |
-| C2 | Lay Back In The Sun |
-| C3 | Good Times |
-| D1 | Pure Phase |
-| D2 | Spread Your Wings |
-| D3 | Feel Like Goin' Home |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

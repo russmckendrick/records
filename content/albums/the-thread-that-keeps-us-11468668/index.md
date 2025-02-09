@@ -39,28 +39,28 @@ The Thread That Keeps Us is the ninth studio album by American indie rock band C
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | End Of The World With You |
-| A2 | Voices In The Field |
-| A3 | Bridge To Nowhere |
-| A4 | Spinball |
-| A5 | Under The Wheels |
-| A6 | The Town & Miss Lorraine |
-| A7 | Flores Y Tamales |
-| A8 | Another Space |
-| B1 | Unconditional Waltz |
-| B2 | Girl In The Forest |
-| B3 | Eyes Wide Awake |
-| B4 | Dead In The Water |
-| B5 | Shortboard |
-| B6 | Thrown To The Wild |
-| B7 | Music Box |
-| C1 | Longboard |
-| C2 | Luna Roja |
-| C3 | Curse Of The Ride |
-| C4 | Inside The Energy Field |
-| D1 | Lost Inside |
-| D2 | End Of The Night |
-| D3 | Dream On Mount Tam |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -32,15 +32,15 @@ styles: ["Industrial Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | N.W.O. |
-| A2 | Just One Fix |
-| A3 | TV II |
-| A4 | Hero |
-| A5 | Jesus Built My Hot Rod |
-| B1 | Scare Crow |
-| B2 | Psalm 69 |
-| B3 | Corrosion |
-| B4 | Grace |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

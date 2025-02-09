@@ -33,15 +33,15 @@ Rage in Eden is the fifth studio album by British new wave band Ultravox, releas
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Voice |
-| A2 | We Stand Alone |
-| A3 | Rage In Eden |
-| A4 | I Remember (Death In The Afternoon) |
-| B1 | The Thin Wall |
-| B2 | Stranger Within |
-| B3 | Accent On Youth |
-| B4 | The Ascent |
-| B5 | Your Name (Has Slipped My Mind Again) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

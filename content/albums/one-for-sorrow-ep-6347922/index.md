@@ -31,10 +31,10 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | One For Sorrow |
-| A2 | Once Upon A Lie |
-| B1 | Long Year |
-| B2 | One For Sorrow (Philip Reach Requiem Mix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

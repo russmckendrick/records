@@ -38,15 +38,15 @@ That shift can be largely attributed to the new kid in town: Joe Walsh, who repl
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hotel California |
-| A2 | New Kid In Town |
-| A3 | Life In The Fast Lane |
-| A4 | Wasted Time |
-| B1 | Wasted Time (Reprise) |
-| B2 | Victim Of Love |
-| B3 | Pretty Maids All In A Row |
-| B4 | Try And Love Again |
-| B5 | The Last Resort |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

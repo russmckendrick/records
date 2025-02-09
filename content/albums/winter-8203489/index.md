@@ -33,19 +33,19 @@ styles: ["Progressive Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Winter |
-| A2 | Devout |
-| A3 | Nights In White Satin |
-| A4 | Lullaby |
-| B1 | Laid To Rest |
-| B2 | Suffer The Last Bridge |
-| B3 | Good Life |
-| B4 | Sunlight |
-| B5 | Turpentine |
-| C1 | Apologue |
-| C2 | How Tall The Trees |
-| C3 | ... This Road |
-| C4 | Grace |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

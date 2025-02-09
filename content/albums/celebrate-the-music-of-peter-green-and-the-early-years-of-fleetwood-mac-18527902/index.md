@@ -1,6 +1,6 @@
 ---
-title: "Mick Fleetwood  Friends - Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac"
-artist_name: "Mick Fleetwood  Friends"
+title: "Mick Fleetwood & Friends - Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac"
+artist_name: "Mick Fleetwood & Friends"
 artist: "mick-fleetwood-friends"
 album_name: "Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac"
 date: 2021-05-03T01:54:05.000000Z
@@ -10,8 +10,8 @@ slug: "celebrate-the-music-of-peter-green-and-the-early-years-of-fleetwood-mac-1
 hideSummary: true
 cover:
     image: "celebrate-the-music-of-peter-green-and-the-early-years-of-fleetwood-mac-18527902.jpg"
-    alt: "Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac by Mick Fleetwood  Friends"
-    caption: "Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac by Mick Fleetwood  Friends"
+    alt: "Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac by Mick Fleetwood & Friends"
+    caption: "Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac by Mick Fleetwood & Friends"
 additional_images:
     - "https://i.discogs.com/iDFUnZAMZwbil3yDSq6KdpNXDWiQJtOopz3DEcJkQlk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI3/OTAyLTE2MjA2Mzkz/OTUtNTQzNC5qcGVn.jpeg"
     - "https://i.discogs.com/P-Gg2LwevbS9WyoykOsHj9TAtex7hPxGGJ6o-Bxn9ko/rs:fit/g:sm/q:90/h:293/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTI3/OTAyLTE2MjA2Mzkz/OTctNjcwMy5qcGVn.jpeg"
@@ -48,29 +48,29 @@ The album reached the album charts in several countries upon its release, includ
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Rolling Man |
-| A2 | Homework |
-| A3 | Doctor Brown |
-| B1 | All Your Love |
-| B2 | Rattlesnake Shake |
-| B3 | Stop Messin' Round |
-| C1 | Looking For Somebody |
-| C2 | Sandy Mary |
-| C3 | Love That Burns |
-| D1 | The World Keep On Turning |
-| D2 | Like Crying |
-| D3 | No Place To Go |
-| D4 | Station Man |
-| E1 | Man Of The World |
-| E2 | Oh Well (Pt.1) |
-| E3 | Oh Well (Pt.2) |
-| F1 | Need Your Love So Bad |
-| F2 | Black Magic Woman |
-| G1 | The Sky Is Crying |
-| G2 | I Can't Hold Out |
-| H1 | The Green Manalishi (With The Two Prong Crown) |
-| H2 | Albatross |
-| H3 | Shake Your Money Maker |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -89,4 +89,4 @@ The album reached the album charts in several countries upon its release, includ
 | Label          | BMG |
 | Catalog Number | BMGCAT454QLP |
 | Notes | Widespine gatefold   |
-| Discogs URL    | [Mick Fleetwood  Friends - Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac](https://www.discogs.com/release/18527902-Mick-Fleetwood-Friends-Celebrate-The-Music-Of-Peter-Green-And-The-Early-Years-Of-Fleetwood-Mac) |
+| Discogs URL    | [Mick Fleetwood & Friends - Celebrate The Music Of Peter Green And The Early Years Of Fleetwood Mac](https://www.discogs.com/release/18527902-Mick-Fleetwood-Friends-Celebrate-The-Music-Of-Peter-Green-And-The-Early-Years-Of-Fleetwood-Mac) |

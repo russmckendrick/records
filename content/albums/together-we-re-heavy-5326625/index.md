@@ -44,16 +44,16 @@ It reached number one on the Billboard Top Heatseekers albums chart in the Unite
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Section 11 (A Long Day Continues / We Sound Amazed) |
-| A2 | Section 12 (Hold Me Now) |
-| B1 | Section 13 (Diamonds / Mild Devotion To Majesty) |
-| B2 | Section 14 (Two Thousand Places) |
-| B3 | Section 15 (Ensure Your Reservation) |
-| C1 | Section 16 (One Man Show) |
-| C2 | Section 17 (Suitcase Calling) |
-| D1 | Section 18 (Everything Starts At The Seam) |
-| D2 | Section 19 (When The Fool Becomes A King) |
-| D3 | Section 20 (Together We're Heavy) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

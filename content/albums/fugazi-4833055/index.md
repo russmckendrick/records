@@ -35,13 +35,13 @@ The album is titled after a military slang term well known at the time of releas
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Assassing |
-| A2 | Punch & Judy |
-| A3 | Jigsaw |
-| A4 | Emerald Lies |
-| B1 | She Chameleon |
-| B2 | Incubus |
-| B3 | Fugazi |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

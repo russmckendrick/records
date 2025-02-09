@@ -41,42 +41,42 @@ Leading up to The Astonishing's release, the band marketed the album with its ow
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Act 1 |
-| A1 | Descent Of The Nomacs |
-| A2 | Dystopian Overture |
-| A3 | The Gift Of Music |
-| A4 | The Answer |
-| A5 | A Better Life |
-| B6 | Lord Nafaryus |
-| B7 | A Savior In The Square |
-| B8 | When Your Time Has Come |
-| B9 | Act Of Faythe |
-| C10 | Three Days |
-| C11 | The Hovering Sojourn |
-| C12 | Brother, Can You Hear Me? |
-| C13 | A Life Left Behind |
-| D14 | Ravenskill |
-| D15 | Chosen |
-| D16 | A Tempting Offer |
-| D17 | Digital Discord |
-| E18 | The X Aspect |
-| E19 | A New Beginning |
-| E20 | The Road To Revolution |
-|  | Act 2 |
-| F1 | 2285 Entr'acte |
-| F2 | Moment Of Betrayal |
-| F3 | Heaven's Cove |
-| F4 | Begin Again |
-| G5 | The Path That Divides |
-| G6 | Machine Chatter |
-| G7 | The Walking Shadow |
-| G8 | My Last Farewell |
-| G9 | Losing Faythe |
-| H10 | Whispers On The Wind |
-| H11 | Hymn Of A Thousand Voices |
-| H12 | Our New World |
-| H13 | Power Down |
-| H14 | Astonishing |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

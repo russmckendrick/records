@@ -1,6 +1,6 @@
 ---
-title: "Machine Head - Burn My Eyes"
-artist_name: "Machine Head"
+title: "Machine Head (3) - Burn My Eyes"
+artist_name: "Machine Head (3)"
 artist: "machine-head"
 album_name: "Burn My Eyes"
 date: 2016-09-19T15:12:56.000000Z
@@ -10,8 +10,8 @@ slug: "burn-my-eyes-6125349"
 hideSummary: true
 cover:
     image: "burn-my-eyes-6125349.jpg"
-    alt: "Burn My Eyes by Machine Head"
-    caption: "Burn My Eyes by Machine Head"
+    alt: "Burn My Eyes by Machine Head (3)"
+    caption: "Burn My Eyes by Machine Head (3)"
 additional_images:
     - "https://i.discogs.com/AUX8XTu5nyKJl8r4FeAew16d3Oy9QzxUTWGbxqTxgkQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjUz/NDktMTQxMTY4Mzk1/OS04OTA4LmpwZWc.jpeg"
     - "https://i.discogs.com/ZZ8EkyCHuCF21ykQeavXWyJku3Ul01c-2CypiCk1b5E/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjUz/NDktMTQxMTY4Mzky/OC01MDcwLmpwZWc.jpeg"
@@ -31,17 +31,17 @@ Burn My Eyes is the debut studio album by American heavy metal band Machine Head
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Davidian |
-| A2 | Old |
-| A3 | A Thousand Lies |
-| A4 | None But My Own |
-| A5 | The Rage To Overcome |
-| B1 | Death Church |
-| B2 | A Nation On Fire |
-| B3 | Blood For Blood |
-| B4 | I'm Your God Now |
-| B5 | Real Eyes, Realize, Real Lies |
-| B6 | Block |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -60,4 +60,4 @@ Burn My Eyes is the debut studio album by American heavy metal band Machine Head
 | Label          | Metal Blade Records |
 | Catalog Number | 3984-15313-1 |
 | Notes | Gold transparent 180g vinyl. Limited to 1.500 Copies  ℗ & © 1994 & 2014 Roadrunner Records Inc. Produced under license from Roadrunner Records Inc.  Manufactured by Rhino Entertainment company, a Warner Music Group Company, All rights Reserved. Made in U.S.A. Marketed by Metal Blade Records Inc. |
-| Discogs URL    | [Machine Head - Burn My Eyes](https://www.discogs.com/release/6125349-Machine-Head-3-Burn-My-Eyes) |
+| Discogs URL    | [Machine Head (3) - Burn My Eyes](https://www.discogs.com/release/6125349-Machine-Head-3-Burn-My-Eyes) |

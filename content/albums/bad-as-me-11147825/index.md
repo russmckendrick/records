@@ -33,19 +33,19 @@ Upon release, Bad as Me became Waits' first top 10 album in the US, peaking at n
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Chicago |
-| A2 | Raised Right Men |
-| A3 | Talking At The Same Time |
-| A4 | Get Lost |
-| A5 | Face To The Highway |
-| A6 | Pay Me |
-| A7 | Back In The Crowd |
-| B1 | Bad As Me |
-| B2 | Kiss Me |
-| B3 | Satisfied |
-| B4 | Last Leaf |
-| B5 | Hell Broke Luce |
-| B6 | New Year's Eve |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

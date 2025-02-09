@@ -1,6 +1,6 @@
 ---
-title: "St Vincent - Masseduction"
-artist_name: "St Vincent"
+title: "St. Vincent - Masseduction"
+artist_name: "St. Vincent"
 artist: "st-vincent"
 album_name: "Masseduction"
 date: 2017-10-13T18:10:27.000000Z
@@ -10,8 +10,8 @@ slug: "masseduction-10987228"
 hideSummary: true
 cover:
     image: "masseduction-10987228.jpg"
-    alt: "Masseduction by St Vincent"
-    caption: "Masseduction by St Vincent"
+    alt: "Masseduction by St. Vincent"
+    caption: "Masseduction by St. Vincent"
 additional_images:
     - "https://i.discogs.com/CFXvyNCN31DsyEbut8hBzU8DYcyQpTxnhedBttb1HdU/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MDc5MzYz/MzEtNTYyMS5qcGVn.jpeg"
     - "https://i.discogs.com/qYJ45CtGO7YV_0M1E0pNgqz_ji_meqEUyJaZo7bK9mo/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTg3/MjI4LTE1MjgyMjg4/NDAtNzA2Ny5qcGVn.jpeg"
@@ -35,19 +35,19 @@ Pushing past the GRAMMY®-winning art rock of 2014’s <i>St. Vincent</i>, <i>Ma
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hang On Me |
-| A2 | Pills |
-| A3 | Masseduction |
-| A4 | Sugarboy |
-| A5 | Los Ageless |
-| A6 | Happy Birthday, Johnny |
-| B1 | Savior |
-| B2 | New York |
-| B3 | Fear The Future |
-| B4 | Young Lover |
-| B5 | Dancing With A Ghost |
-| B6 | Slow Disco |
-| B7 | Smoking Section |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -66,4 +66,4 @@ Pushing past the GRAMMY®-winning art rock of 2014’s <i>St. Vincent</i>, <i>Ma
 | Label          | Loma Vista |
 | Catalog Number | LVR00225 |
 | Notes | ℗ & © 2017 Lorna Vista Recordings / Concord Music Group Inc  Housed in a 2 colour screen printed PVC sleeve, 24" x 24" foldout poster, sticker sheet, download code card and 28-page A4 booklet.  'Dancing With A Ghost' listed as 'Slow Disco Interlude' on the printed PVC sleeve.  Made in Czech Republic.  Publishing Annie Clark : Big Deal Notes / Nail Polish Manifesto Music (ASCAP) All Rights administered by Words & Music Jack Antonoff : Sony/ATV Songs LLC / Ducky Donath Music (BMI) Joy Williams : Joy Williams (BMI) - EMI Blackwood Music Inc. / Here's To Me Music (BMI) Mark Anthony Spears (Sounwave) : Mark Anthony Spears (ASCAP) - Sony/ATV Allegro / Beat Bully Productions (ASCAP)  Recorded at Electric Lady Studios in New York, NY. Additional recording at Rough Consumer Studio in Brooklyn, NY and Compound Fracture in Los Angeles, CA.  Runouts: 'LVR00224-A-REI RJ' and 'LVR00224-B RJ' are etched, everything else is stamped. |
-| Discogs URL    | [St Vincent - Masseduction](https://www.discogs.com/release/10987228-St-Vincent-Masseduction) |
+| Discogs URL    | [St. Vincent - Masseduction](https://www.discogs.com/release/10987228-St-Vincent-Masseduction) |

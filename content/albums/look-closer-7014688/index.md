@@ -1,6 +1,6 @@
 ---
-title: "Saun  Starr - Look Closer"
-artist_name: "Saun  Starr"
+title: "Saun & Starr - Look Closer"
+artist_name: "Saun & Starr"
 artist: "saun-starr"
 album_name: "Look Closer"
 date: 2016-09-06T16:36:27.000000Z
@@ -10,8 +10,8 @@ slug: "look-closer-7014688"
 hideSummary: true
 cover:
     image: "look-closer-7014688.jpg"
-    alt: "Look Closer by Saun  Starr"
-    caption: "Look Closer by Saun  Starr"
+    alt: "Look Closer by Saun & Starr"
+    caption: "Look Closer by Saun & Starr"
 additional_images:
     - "https://i.discogs.com/lpG3reMOkFtR6lLMfK_bV6Unl0osD98zOG2pMYu6JR4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTQ2/ODgtMTQzMTcwOTEx/MS0yODgyLmpwZWc.jpeg"
     - "https://i.discogs.com/xmYb-zFtpzq2DMzGDMl6qLWRf5GKl2qy2IOfut3CvjY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTQ2/ODgtMTQ0NDIzMjI2/NS05NDEwLmpwZWc.jpeg"
@@ -29,17 +29,17 @@ Bronx-born Saun & Starr are best known as backup singers for the venerable retro
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Look Closer (Can't You See The Signs?) |
-| A2 | Hot Shot |
-| A3 | Gonna Make Time |
-| A4 | Sunshine (You're Blowin My Cool) |
-| A5 | If Only |
-| B1 | Another Love Like Mine |
-| B2 | Big Wheel |
-| B3 | Your Face Before My Eyes |
-| B4 | Dear Mr. Teddy |
-| B5 | In The Night |
-| B6 | Blah Blah Blah Blah Blah Blah Blah  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -57,4 +57,4 @@ Bronx-born Saun & Starr are best known as backup singers for the venerable retro
 | Label          | Daptone Records |
 | Catalog Number | DAP-035 |
 | Notes | includes coupon with code for mp3 download |
-| Discogs URL    | [Saun  Starr - Look Closer](https://www.discogs.com/release/7014688-Saun-Starr-Look-Closer) |
+| Discogs URL    | [Saun & Starr - Look Closer](https://www.discogs.com/release/7014688-Saun-Starr-Look-Closer) |

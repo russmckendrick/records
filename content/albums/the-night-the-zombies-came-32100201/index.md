@@ -36,19 +36,19 @@ Druids. Headless chickens. Drinking. These are just some of the topics fearless 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Primrose |
-| A2 | You're So Impatient |
-| A3 | Jane (The Night The Zombies Came) |
-| A4 | Chicken |
-| A5 | Hypnotised |
-| A6 | Johnny Good Man |
-| A7 | Motoroller |
-| B8 | I Hear You Mary |
-| B9 | Oyster Beds |
-| B10 | Mercy Me |
-| B11 | Ernest Evans |
-| B12 | Kings Of The Prairie |
-| B13 | The Vegas Suite |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

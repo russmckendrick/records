@@ -32,21 +32,21 @@ styles: ["Hip Hop", "Trap", "Soundtrack"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Stretch Your Face |
-| A2 | Systematic |
-| A3 | Kool Aid |
-| A4 | Passports |
-| A5 | You Came To Party |
-| A6 | Blue Flowers |
-| A7 | Fun House |
-| A8 | Phantom (Redux) |
-| B1 | The Mule |
-| B2 | Nobody Speak |
-| B3 | Don't Stop |
-| B4 | On My Own Old Man Saxon |
-| B5 | Problem Child |
-| B6 | Blown |
-| B7 | Walking On Sunshine |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -42,19 +42,19 @@ At the 1998 Brit Awards, the Verve won Best Album for Urban Hymns and Best Produ
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Bitter Sweet Symphony |
-| A2 | Sonnet |
-| A3 | The Rolling People |
-| B1 | The Drugs Don't Work |
-| B2 | Catching The Butterfly |
-| B3 | Neon Wilderness |
-| C1 | Space And Time |
-| C2 | Weeping Willow |
-| C3 | Lucky Man |
-| C4 | One Day |
-| D1 | This Time |
-| D2 | Velvet Morning |
-| D3 | Come On |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -60,32 +60,32 @@ The album was recorded while Lennon was having difficulties with US immigration 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | The Ultimate Mixes |
-| A1 | Mind Games |
-| A2 | Tight A$ |
-| A3 | Aisumasen (I'm Sorry) |
-| A4 | One Day (At A Time) |
-| A5 | Bring On The Lucie (Freda Peeple) |
-| A6 | Nuthopian International Anthem |
-| B1 | Intuition |
-| B2 | Out The Blue |
-| B3 | Only People |
-| B4 | I Know (I Know) |
-| B5 | You Are Here |
-| B6 | Meat City |
-|  | The Out-Takes |
-| C1 | Mind Games (Take 7) |
-| C2 | Tight A$ (Take 6) |
-| C3 | Aisumasen (I'm Sorry) (Take 2) |
-| C4 | One Day (At A Time) (Take 18) |
-| C5 | Bring On The Lucie (Freda Peeple) (Take 15) |
-| C6 | Declaration Of Nutopia (Take 1) |
-| D1 | Intuition (Take 12) |
-| D2 | Out The Blue (Take 15) |
-| D3 | Only People (Take 12) |
-| D4 | I Know (I Know) (Take 22) |
-| D5 | You Are Here (Take 5) |
-| D6 | Meat City (Take 16) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

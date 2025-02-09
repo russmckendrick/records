@@ -35,15 +35,15 @@ The album received generally positive reviews from music critics, but sold poorl
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Tiberius |
-| A2 | Being Beige |
-| A3 | Anaise! |
-| A4 | One And All (We Are) |
-| A5 | Run2Me |
-| B1 | Drum + Fife |
-| B2 | Monuments |
-| B3 | Dorian |
-| B4 | Anti-Hero |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

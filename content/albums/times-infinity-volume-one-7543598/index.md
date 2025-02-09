@@ -29,16 +29,16 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | We Lost Everything |
-| A2 | I Used To Pray For The Heavens To Fall |
-| A3 | To Hold And Have |
-| A4 | You Can't Get Born Again |
-| A5 | Times Infinity 1 |
-| B1 | Here's To The Death Of All The Romance |
-| B2 | Someday All This Will Be Yours |
-| B3 | Face Of Horrors |
-| B4 | Hell Hath Frozen In Your Eyes |
-| B5 | Onward And Downward |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

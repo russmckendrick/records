@@ -34,14 +34,14 @@ This album was King Crimson's first following a seven-year hiatus. Only band co-
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Elephant Talk |
-| A2 | Frame By Frame |
-| A3 | Matte Kudasai |
-| A4 | Indiscipline |
-| B1 | Thela Hun Ginjeet |
-| B2 | The Sheltering Sky |
-| B3 | Discipline |
-| B4 | Matte Kudasai (Alt. Mix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

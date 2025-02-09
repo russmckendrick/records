@@ -29,18 +29,18 @@ The Platters are an American vocal group formed in 1952. They are one of the mos
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 |  My Prayer |
-| A2 |  Why Should I?                         |
-| A3 | Remember When |
-| A4 | Bewitched, Bothered And Bewildered                |
-| A5 |  I Wanna |
-| A6 | I'm Sorry |
-| B1 | Have Mercy |
-| B2 | Someone To Watch Over Me  |
-| B3 |  At Your Beck And Call |
-| B4 | On My Word Of Honor |
-| B5 | Heaven On Earth     |
-| B6 | Glory Of Love  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

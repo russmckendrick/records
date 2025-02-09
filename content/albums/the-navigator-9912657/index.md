@@ -44,20 +44,20 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Act One |
-| A1 | Entrance |
-| A2 | Living In The City |
-| A3 | Hungry Ghost |
-| A4 | Life To Save |
-| A5 | Nothing's Gonna Change That Girl |
-| A6 | The Navigator |
-| A7 | Halfway There |
-|  | Act Two |
-| B1 | Rican Beach |
-| B2 | Fourteen Floors |
-| B3 | Settle |
-| B4 | Pa'Lante |
-| B5 | Finale |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -40,17 +40,17 @@ The album received critical acclaim and was in the UK charts for many weeks, cha
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Leave Home |
-| A2 | In Dust We Trust |
-| B1 | Song To The Siren |
-| B2 | Three Little Birdies Down Beats |
-| B3 | Fuck Up Beats |
-| B4 | Chemical Beats |
-| C1 | Life Is Sweet |
-| C2 | Playground For A Wedgeless Firm |
-| D1 | Chico's Groove |
-| D2 | One Too Many Mornings |
-| D3 | Alive Alone |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

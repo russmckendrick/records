@@ -41,31 +41,31 @@ Obel’s 2010 award-winning debut, <i>Philharmonics</i>, was a delicate, simply 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Chord Left |
-| A2 | Fuel To Fire |
-| A3 | Dorian |
-| A4 | Aventine |
-| A5 | Run Cried The Crawling |
-| B1 | Tokka |
-| B2 | The Curse |
-| B3 | Pass Them By |
-| B4 | Words Are Dead |
-| B5 | Fivefold |
-| B6 | Smoke & Mirrors |
-| CD1-1 | Chord Left |
-| CD1-2 | Fuel To Fire |
-| CD1-3 | Dorian |
-| CD1-4 | Aventine |
-| CD1-5 | Run Cried The Crawling |
-| CD1-6 | Tokka |
-| CD1-7 | The Curse |
-| CD1-8 | Pass Them By |
-| CD1-9 | Words Are Dead |
-| CD1-10 | Fivefold |
-| CD1-11 | Smoke & Mirrors |
-| CD2-1 | The Curse (Instrumental Version) |
-| CD2-2 | Aventine (Instrumental Version) |
-| CD2-3 | Fuel To Fire (Instrumental Version) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

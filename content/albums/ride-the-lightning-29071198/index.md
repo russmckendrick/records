@@ -41,14 +41,14 @@ Ride the Lightning received a highly positive response from music critics, who s
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Fight Fire With Fire |
-| A2 | Ride The Lightning |
-| A3 | For Whom The Bell Tolls |
-| A4 | Fade To Black |
-| B1 | Trapped Under Ice |
-| B2 | Escape |
-| B3 | Creeping Death |
-| B4 | The Call Of Ktulu |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

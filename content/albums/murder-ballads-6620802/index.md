@@ -1,6 +1,6 @@
 ---
-title: "Nick Cave  The Bad Seeds - Murder Ballads"
-artist_name: "Nick Cave  The Bad Seeds"
+title: "Nick Cave & The Bad Seeds - Murder Ballads"
+artist_name: "Nick Cave & The Bad Seeds"
 artist: "nick-cave-the-bad-seeds"
 album_name: "Murder Ballads"
 date: 2016-10-01T10:34:00.000000Z
@@ -10,8 +10,8 @@ slug: "murder-ballads-6620802"
 hideSummary: true
 cover:
     image: "murder-ballads-6620802.jpg"
-    alt: "Murder Ballads by Nick Cave  The Bad Seeds"
-    caption: "Murder Ballads by Nick Cave  The Bad Seeds"
+    alt: "Murder Ballads by Nick Cave & The Bad Seeds"
+    caption: "Murder Ballads by Nick Cave & The Bad Seeds"
 additional_images:
     - "https://i.discogs.com/S8bQSXjiGBRSSxa_EZxP9sMtcpgxUbtrMYm0axhrXv8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjA4/MDItMTcxOTA3NTgx/NS01NDI4LmpwZWc.jpeg"
     - "https://i.discogs.com/enFDEvD2Axe_i4pf2u7KETTsavSf2BwPj8tNp-yLz6k/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MjA4/MDItMTQyNjI1OTg5/Ni03NDg1LmpwZWc.jpeg"
@@ -43,16 +43,16 @@ So, what’s it all about? Through these broken people, and all their butchery a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Song Of Joy |
-| A2 | Henry Lee |
-| A3 | Lovely Creature |
-| A4 | Stagger Lee |
-| B5 | Where The Wild Roses Grow |
-| B6 | The Curse Of Millhaven |
-| B7 | The Kindness Of Strangers |
-| B8 | Crow Jane |
-| C9 | O' Malley's Bar |
-| C10 | Death Is Not The End |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -71,4 +71,4 @@ So, what’s it all about? Through these broken people, and all their butchery a
 | Label          | Mute |
 | Catalog Number | LPSEEDS9 |
 | Notes | Sides A to C contain music, side D is blank. Track numbers are listed sequentially regardless of side.  From front sticker on shrink wrap: Includes download code  Contains download card for [url=http://www.discogs.com/release/8065277]FLAC[/url] or [url=http://www.discogs.com/release/8065337]MP3[/url] files.  Issued with plain white paper inner sleeves.  Recorded in 1993-95 at Atlantis, Sing Sing and Metropolis Studios, Melbourne, Wessex Studios, London and mixed at Metropolis.  "Where The Wild Roses Grow" was mixed at Sarm West, London. Mastered at Whitfield Street  ℗ 2011 Mute Records Ltd, a BMG Company © 2014 Mute Records Ltd, a BMG Company  Runouts are etched |
-| Discogs URL    | [Nick Cave  The Bad Seeds - Murder Ballads](https://www.discogs.com/release/6620802-Nick-Cave-And-The-Bad-Seeds-Murder-Ballads) |
+| Discogs URL    | [Nick Cave & The Bad Seeds - Murder Ballads](https://www.discogs.com/release/6620802-Nick-Cave-And-The-Bad-Seeds-Murder-Ballads) |

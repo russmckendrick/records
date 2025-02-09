@@ -37,17 +37,17 @@ Purple (stylized on the cover art in its Chinese character 紫) is the second st
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Meatplow |
-| A2 | Vasoline |
-| A3 | Lounge Fly |
-| A4 | Interstate Love Song |
-| A5 | Still Remains |
-| A6 | Pretty Penny |
-| B1 | Silvergun Superman |
-| B2 | Big Empty |
-| B3 | Unglued |
-| B4 | Army Ants |
-| B5 | Kitchenware & Candybars |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

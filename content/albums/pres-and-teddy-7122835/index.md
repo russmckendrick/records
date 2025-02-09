@@ -33,12 +33,12 @@ The album includes six standard swing jazz songs with one original composition, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | All Of Me |
-| A2 | Prisoner Of Love |
-| A3 | Louise |
-| B1 | Love Me Or Leave Me |
-| B2 | Taking A Chance On Love |
-| B3 | Our Love Is Here To Stay |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

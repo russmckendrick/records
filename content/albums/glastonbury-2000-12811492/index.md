@@ -59,28 +59,28 @@ Glastonbury 2000 is a live album by English musician David Bowie. It was recorde
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Introduction (Greensleeves) |
-| A2 | Wild Is The Wind |
-| A3 | China Girl |
-| A4 | Changes |
-| B1 | Stay |
-| B2 | Life On Mars? |
-| B3 | Absolute Beginners |
-| C1 | Ashes To Ashes |
-| C2 | Rebel Rebel |
-| C3 | Little Wonder |
-| C4 | Golden Years |
-| D1 | Fame |
-| D2 | All The Young Dudes |
-| D3 | The Man Who Sold The World |
-| D4 | Station To Station |
-| E1 | Starman |
-| E2 | Hallo Spaceboy |
-| E3 | Under Pressure |
-| E4 | Ziggy Stardust |
-| F1 | "Heroes" |
-| F2 | Let's Dance |
-| F3 | I'm Afraid Of Americans |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

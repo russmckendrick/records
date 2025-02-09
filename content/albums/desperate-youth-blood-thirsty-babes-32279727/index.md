@@ -42,21 +42,21 @@ As of 2009, sales in the United States have exceeded 116,000 copies, according t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Wrong Way |
-| A2 | Dreams |
-| A3 | King Eternal |
-| A4 | Ambulance |
-| B1 | Poppy |
-| B2 | Don't Love You |
-| B3 | Bomb Yourself |
-| B4 | Wear You Out |
-| C1 | Staring At The Sun |
-| C2 | You Could Be Love |
-| D1 | Staring At The Sun (Demo) |
-| D2 | New Health Rock (Single) |
-| D3 | Modern Romance (NHR Single) |
-| D4 | Final Fantasy |
-| D5 | Dry Drunk Emperor |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -61,16 +61,16 @@ That shift, Granduciel adds, opened up “new sonic territory” that he couldn�
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Living Proof |
-| A2 | Harmonia's Dream |
-| A3 | Change |
-| B1 | I Don't Wanna Wait |
-| B2 | Victim |
-| C1 | I Don't Live Here Anymore |
-| C2 | Old Skin |
-| C3 | Wasted |
-| D1 | Rings Around My Father's Eyes |
-| D2 | Occasional Rain |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

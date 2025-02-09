@@ -35,16 +35,16 @@ Swirling together the techniques and textures of rock and blues greats—The All
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Age Of Man |
-| A2 | The Cold Wind |
-| A3 | When The Curtain Falls |
-| A4 | Watching Over |
-| A5 | Lover, Leaver (Taker, Believer) |
-| B6 | You're The One |
-| B7 | The New Day |
-| B8 | Mountain Of The Sun |
-| B9 | Brave New World |
-| B10 | Anthem |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

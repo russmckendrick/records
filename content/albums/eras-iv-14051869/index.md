@@ -33,71 +33,71 @@ styles: ["Heavy Metal", "Progressive Metal", "Alternative Rock", "Rock Opera"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Ziltoid The Omniscient |
-| A1 | ZTO |
-| A2 | By Your Command |
-| A3 | Ziltoidia Attaxx!!! |
-| A4 | Solar Winds |
-| B1 | Hyperdrive |
-| B2 | N9 |
-| B3 | Planet Smasher |
-| B4 | Omnisdimensional Creator |
-| B5 | Color Your World |
-| C1 | The Greys |
-| C2 | Tall Latte |
-| C3 | Don't Know Why |
-| C4 | Travelling Salesman |
-| C5 | Another Road  |
-|  | Z² - Dark Matters |
-| D1 | Z² |
-| D2 | From Sleep Awake |
-| D3 | Ziltoidian Empire |
-| E1 | War Princess |
-| E2 | Deathray |
-| F1 | March Of The Poozers |
-| F2 | Wandering Eye |
-| F3 | Earth |
-| G1 | Ziltoid Goes Home |
-| G2 | Through The Wormhole |
-| G3 | Dimension Z |
-|  | Ziltoid Live At The Royal Albert Hall |
-| H1 | Z² |
-| H2 | From Sleep Awake |
-| H3 | Ziltoidian Empire |
-| H4 | War Princess |
-| I1 | Deathray |
-| I2 | March Of The Poozers |
-| I3 | Wandering Eye |
-| I4 | Earth |
-| J1 | Ziltoid Goes Home |
-| J2 | Through The Wormhole |
-| J3 | Dimension Z |
-|  | The Retinal Circus |
-| K1 | Effervescent!/True North |
-| K2 | Lucky Animals |
-| K3 | Planet Of The Apes |
-| L1 | Truth |
-| L2 | War |
-| L3 | Soul Driven |
-| L4 | Planet Smasher |
-| L5 | Baby Song |
-| M1 | Vampolka |
-| M2 | Vampira |
-| M3 | Addicted! |
-| M4 | Colour Your World |
-| M5 | The Greys |
-| N1 | Hyperdrive |
-| N2 | Ih-Ah!  |
-| N3 | Where We Belong |
-| N4 | Detox |
-| O1 | Bend It Like Bender! |
-| O2 | Life |
-| O3 | Kingdom |
-| O4 | Juular |
-| P1 | Love? |
-| P2 | Colonial Boy |
-| P3 | Grace  |
-| P4 | Little Pig |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

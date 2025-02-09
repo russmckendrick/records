@@ -32,18 +32,18 @@ Cherry Pie is the second studio album by American glam metal band Warrant, relea
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Cherry Pie |
-| A2 | Uncle Tom's Cabin |
-| A3 | I Saw Red |
-| A4 | Bed Of Roses |
-| A5 | Sure Feels Good To Me |
-| B1 | Love In Stereo |
-| B2 | Blind Faith |
-| B3 | Song And Dance Man |
-| B4 | You're The Only Hell Your Mama Ever Raised |
-| B5 | Mr. Rainmaker |
-| B6 | Train, Train |
-| B7 | Ode To Tipper Gore |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

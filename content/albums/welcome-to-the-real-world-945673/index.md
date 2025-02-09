@@ -1,6 +1,6 @@
 ---
-title: "Mr Mister - Welcome To The Real World"
-artist_name: "Mr Mister"
+title: "Mr. Mister - Welcome To The Real World"
+artist_name: "Mr. Mister"
 artist: "mr-mister"
 album_name: "Welcome To The Real World"
 date: 2018-09-07T18:30:44.000000Z
@@ -10,8 +10,8 @@ slug: "welcome-to-the-real-world-945673"
 hideSummary: true
 cover:
     image: "welcome-to-the-real-world-945673.jpg"
-    alt: "Welcome To The Real World by Mr Mister"
-    caption: "Welcome To The Real World by Mr Mister"
+    alt: "Welcome To The Real World by Mr. Mister"
+    caption: "Welcome To The Real World by Mr. Mister"
 additional_images:
     - "https://i.discogs.com/ZVRIR6Mdf5SoyvlJKhe7R2hb_ozHtrLa5wrQdj7UCEU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTY3/My0xMzk5MzMzNjUy/LTQ2MTEuanBlZw.jpeg"
     - "https://i.discogs.com/lYWeDo5coEy_Xm6PauIf-gDOUbI_Icu05lLSTVSNCos/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NTY3/My0xMzk5MzMzNjcz/LTgwNjYuanBlZw.jpeg"
@@ -35,16 +35,16 @@ Welcome to the Real World is the second studio album by American pop rock band M
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Black / White |
-| A2 | Uniform Of Youth |
-| A3 | Don't Slow Down |
-| A4 | Run To Her |
-| A5 | Into My Own Hands |
-| B1 | Is It Love |
-| B2 | Kyrie |
-| B3 | Broken Wings |
-| B4 | Tangent Tears |
-| B5 | Welcome To The Real World |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ Welcome to the Real World is the second studio album by American pop rock band M
 | Label          | RCA |
 | Catalog Number | PL89647 |
 | Notes | Tracklisting as on center labels, different as printed on the backside of the sleeve. Includes a printed inner sleeve containing lyrics  [Inner sleeve] Recorded October 1984 thru April 1985  Songs © 1985 Warner-Tamerlane Publishing Corp./Entente Music (BMI); all rights administered by Warner-Tamerlane Publishing Corp. Stemwa Famo Music (BMI)  © 1985, RCA Records. Printed in W. Germany. Imprimé en Allemagne.  [Label side A] 1. Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music/Stemwa Famo Music, BMI 2. Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music/Stemwa Famo Music, BMI 3. Warner-Tamerlane Pub. Corp./Entente Music/Stemwa Famo Music, BMI 4. Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music/Stemwa Famo Music, BMI 5. Warner-Tamerlane Pub. Corp./Entente Music/Stemwa Famo Music, BMI  [Label side B] 1: Warner-Tamerlane Pub. Corp./Entente Music/Poppy-Due Music, BMI 2. Warner-Tamerlane Pub. Corp./Entente Music, BMI 3. Warner-Tamerlane Pub. Corp./Entente Music, BMI 4. Warner-Tamerlane Pub. Corp./Entente Music, BMI 5. Warner-Tamerlane Pub. Corp./Entente Music/Stemwa Famo Music, BMI  [Labels] Recorded: Calif. All timings are approximate  Marketed By RCA Records From Master Recordings Of RCA Records Made in Germany. Fabriqué en Allemagne  [Sleeve] Belgique/Belgie: Distributed by RCA S.A. Deutschland: Vertrieb durch RCA Schallplatten GmbH France: Distribué par RCA S.A. · Italia: Distributed by RCA S.p.A. Nederland: Distributed by RCA B.V. · U.K.: Distributed by RCA Ltd.  © 1985 RCA Records. Printed in W. Germany. Imprimé en Allemagne. 5/85/S |
-| Discogs URL    | [Mr Mister - Welcome To The Real World](https://www.discogs.com/release/945673-Mr-Mister-Welcome-To-The-Real-World) |
+| Discogs URL    | [Mr. Mister - Welcome To The Real World](https://www.discogs.com/release/945673-Mr-Mister-Welcome-To-The-Real-World) |

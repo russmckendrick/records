@@ -37,16 +37,16 @@ styles: ["Country"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Last Of My Kind |
-| A2 | Cumberland Gap |
-| A3 | Tupelo |
-| A4 | White Man's World  |
-| A5 | If We Were Vampires |
-| B1 | Anxiety |
-| B2 | Molotov  |
-| B3 | Chaos And Clothes |
-| B4 | Hope The High Road |
-| B5 | Something To Love |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

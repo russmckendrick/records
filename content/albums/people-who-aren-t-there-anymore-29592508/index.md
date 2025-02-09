@@ -38,18 +38,18 @@ First single “The Tower” serves as a lynchpin between the two albums, bridgi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | King Of Sweden |
-| A2 | The Tower |
-| A3 | Deep In The Night |
-| A4 | Say Goodbye |
-| A5 | Give Me The Ghost Back |
-| A6 | Corner Of My Eye |
-| B7 | The Thief |
-| B8 | Iris |
-| B9 | The Fight |
-| B10 | Peach |
-| B11 | The Sickness |
-| B12 | The Garden Wheel |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

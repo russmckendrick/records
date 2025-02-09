@@ -31,17 +31,17 @@ The songs "History Never Repeats" and "One Step Ahead" were among the first musi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hard Act To Follow |
-| A2 | One Step Ahead |
-| A3 | I Don't Wanna Dance |
-| A4 | Iris |
-| A5 | Wail |
-| A6 | Clumsy |
-| B1 | History Never Repeats |
-| B2 | Walking Through The Ruins |
-| B3 | Ships |
-| B4 | Ghost Girl |
-| B5 | Albert Of India |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -31,17 +31,17 @@ styles: ["Dance-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Started It |
-| A2 | Sister Sandinista |
-| A3 | Stay Classy San Diego |
-| A4 | Crime Of Passion |
-| A5 | We Are The Free |
-| A6 | Equilibrium |
-| B1 | Keep It Coming |
-| B2 | Never Die |
-| B3 | Dr. Strangelove |
-| B4 | Greatest Day |
-| B5 | Sparks And Flashes |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

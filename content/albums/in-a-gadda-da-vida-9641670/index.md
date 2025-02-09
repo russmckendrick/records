@@ -37,12 +37,12 @@ A 2-minute-52-second 45-rpm version of "In-A-Gadda-Da-Vida" was Iron Butterfly's
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Most Anything You Want |
-| A2 | Flowers And Beads |
-| A3 | My Mirage |
-| A4 | Termination |
-| A5 | Are You Happy |
-| B1 | In-A-Gadda-Da-Vida |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

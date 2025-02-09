@@ -32,16 +32,16 @@ styles: ["Alternative Rock", "Indie Pop", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Miami |
-| A2 | Porcelain |
-| A3 | Mungo |
-| A4 | Listen |
-| A5 | Almond Milk |
-| B1 | Letter Bomb |
-| B2 | Oi |
-| B3 | August |
-| B4 | Wanna |
-| B5 | Prince Of Tears |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

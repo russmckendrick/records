@@ -44,12 +44,12 @@ The Lockdown Sessions is the fifth studio album by British musician Roger Waters
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Mother |
-| A2 | Two Suns In The Sunset |
-| A3 | Vera |
-| B1 | The Gunner's Dream |
-| B2 | The Bravery Of Being Out Of Range |
-| B3 | Comfortably Numb 2022 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

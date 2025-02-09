@@ -39,16 +39,16 @@ The album was initially released for free as downloads on the internet. Later it
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Wake Up |
-| A2 | Hold On |
-| A3 | Into Action |
-| A4 | Translator |
-| A5 | Take This City |
-| B1 | Inner City Violence |
-| B2 | Oh No |
-| B3 | Lady Demeter |
-| B4 | Among The Dead |
-| B5 | Cold Blooded |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

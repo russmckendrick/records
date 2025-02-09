@@ -59,81 +59,81 @@ Several of the songs started out as demos for a new Lindsey Buckingham solo albu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Original Album - 2017 Remaster |
-| CD1-1 | Big Love |
-| CD1-2 | Seven Wonders |
-| CD1-3 | Everywhere |
-| CD1-4 | Caroline |
-| CD1-5 | Tango In The Night |
-| CD1-6 | Mystified |
-| CD1-7 | Little Lies |
-| CD1-8 | Family Man |
-| CD1-9 | Welcome To The Room...Sara |
-| CD1-10 | Isn't It Midnight |
-| CD1-11 | When I See You Again |
-| CD1-12 | You And I, Part II |
-|  | Demos, Alternates And B-Sides |
-| CD2-1 | Down Endless Street |
-| CD2-2 | Special Kind Of Love (Demo) |
-| CD2-3 | Seven Wonders (Early Version) |
-| CD2-4 | Tango In The Night (Demo) |
-| CD2-5 | Mystified (Alternate Version) |
-| CD2-6 | Book Of Miracles (Instrumental) |
-| CD2-7 | Where We Belong (Demo) |
-| CD2-8 | Ricky |
-| CD2-9 | Juliet (Run-Through) |
-| CD2-10 | Isn't It Midnight (Alternate Mix) |
-| CD2-11 | Ooh My Love (Demo) |
-| CD2-12 | Mystified (Instrumental Demo) |
-| CD2-13 | You And I, Part I & II (Full Version) |
-|  | The 12" Mixes |
-| CD3-1 | Big Love (Extended Remix) |
-| CD3-2 | Big Love (House On The Hill Dub) |
-| CD3-3 | Big Love (Piano Dub) |
-| CD3-4 | Big Love (Remix/Edit) |
-| CD3-5 | Seven Wonders (Extended Version) |
-| CD3-6 | Seven Wonders (Dub) |
-| CD3-7 | Little Lies (Extended Version) |
-| CD3-8 | Little Lies (Dub) |
-| CD3-9 | Family Man (Extended Vocal Remix) |
-| CD3-10 | Family Man (I'm A Jazz Man Dub) |
-| CD3-11 | Family Man (Extended Guitar Version) |
-| CD3-12 | Family Man (Bonus Beats) |
-| CD3-13 | Everywhere (12" Version) |
-| CD3-14 | Everywhere (Dub Version) |
-|  | DVD Promotional Music Videos & 24/96 Stereo Audio Of Original Album |
-|  | Promotional Videos  |
-| DVD-1 | Big Love |
-| DVD-2 | Seven Wonders |
-| DVD-3 | Little Lies |
-| DVD-4 | Family Man |
-| DVD-5 | Everywhere |
-|  | 24/96 Stereo Audio Of Original Album |
-| DVD-6 | Big Love |
-| DVD-7 | Seven Wonders |
-| DVD-8 | Everywhere |
-| DVD-9 | Caroline |
-| DVD-10 | Tango In The Night |
-| DVD-11 | Mystified  |
-| DVD-12 | Little Lies |
-| DVD-13 | Family Man |
-| DVD-14 | Welcome To The Room...Sara |
-| DVD-15 | Isn't It Midnight |
-| DVD-16 | When I See You Again |
-| DVD-17 | You And I, Part II |
-|  | Original Album - 2017 Remaster |
-| A1 | Big Love |
-| A2 | Seven Wonders |
-| A3 | Everywhere |
-| A4 | Caroline |
-| A5 | Tango In The Night |
-| A6 | Mystified |
-| B1 | Little Lies |
-| B2 | Family Man |
-| B3 | Welcome To The Room...Sara |
-| B4 | Isn't It Midnight |
-| B5 | When I See You Again |
-| B6 | You And I, Part II |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

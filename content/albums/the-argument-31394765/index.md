@@ -32,17 +32,17 @@ Still, no line captures the innate ferocity of <i>The Argument</i>—and of Fuga
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A! | Untitled |
-| A2 | Cashout |
-| A3 | Full Disclosure |
-| A4 | Epic Problem |
-| A5 | Life and Limb |
-| A6 | The Kill |
-| B1 | Strangelight |
-| B2 | Oh |
-| B3 | Ex-Spectator |
-| B4 | Nightshop |
-| B5 | Argument |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

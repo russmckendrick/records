@@ -1,6 +1,6 @@
 ---
-title: "Dinosaur Jr - Without A Sound"
-artist_name: "Dinosaur Jr"
+title: "Dinosaur Jr. - Without A Sound"
+artist_name: "Dinosaur Jr."
 artist: "dinosaur-jr"
 album_name: "Without A Sound"
 date: 2019-09-27T06:44:30.000000Z
@@ -10,8 +10,8 @@ slug: "without-a-sound-14176579"
 hideSummary: true
 cover:
     image: "without-a-sound-14176579.jpg"
-    alt: "Without A Sound by Dinosaur Jr"
-    caption: "Without A Sound by Dinosaur Jr"
+    alt: "Without A Sound by Dinosaur Jr."
+    caption: "Without A Sound by Dinosaur Jr."
 additional_images:
     - "https://i.discogs.com/LMwrtRtrwaIE4vFVG6_Xl7ZTK3livFGn0adb6drb2Mk/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTc2/NTc5LTE1ODc3NzAx/MDYtOTIzMy5qcGVn.jpeg"
     - "https://i.discogs.com/Ab33GBPR81G-gEjfUdbDfWMhCsY_jFE6ZRVVt_VXnPw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTc2/NTc5LTE1ODc3NzAx/MDktNTAxMy5qcGVn.jpeg"
@@ -44,24 +44,24 @@ Without a Sound is the sixth studio album by alternative rock band Dinosaur Jr.,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Feel The Pain |
-| A2 | I Don't Think So |
-| A3 | Yeah Right |
-| A4 | Outta Hand |
-| A5 | Grab It |
-| A6 | Even You |
-| B1 | Mind Glow |
-| B2 | Get Out Of This |
-| B3 | On The Brink |
-| B4 | Seemed Like The Thing To Do |
-| B5 | Over Your Shoulder |
-| C1 | Get Out Of This (No Words Just Solo) |
-| C2 | Blah |
-| C3 | Feel The Pain (Live) |
-| C4 | Get Me (Live) |
-| D1 | Grab It (Live) |
-| D2 | What Else Is New (Live) |
-| D3 | Sludge (Live) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -80,4 +80,4 @@ Without a Sound is the sixth studio album by alternative rock band Dinosaur Jr.,
 | Label          | Cherry Red |
 | Catalog Number | PBREDD758 |
 | Notes | Remastered & extended 2 LP edition, contains bonus tracks & live recordings. Issued in a gatefold sleeve with two printed inner sleeves.  ℗ 2019 Cherry Red Records Ltd, except for Side C tracks 3 & 4 and Side D, ℗ 1994 and 2019 BBC Worldwide Ltd and licensed courtesy of BBC Worldwide Ltd. This compilation © 2019 Cherry Red Records Ltd www.cherryred.co.uk Made in EU  'Without A Sound ' [...] Recorded at Dreamland, Wendell Recording Studio, Baby Monster and Sear Sound [...]  [...] mixed at Electric Lady.  Live tracks recorded at Brixton Academy London, October 8th 1994 [...] for BBC Radio One.  'Without A Sound' released August 1994. Side C, track 1 : 'Feel The Pain' single B-Side, released August 1994. Side C, track 2 : From 'Melrose Place - The Music OST,' released October 1994. Side C, track 4 and Side D, tracks 2 & 3: 'I Don't Think So' single B-Sides, released February 1995. Side C, track 3 and Side D, track 1: 'Feel The Pain' Live EP (Japanese only release).  Pre-order came with pin 4x4 cm (compare photos). |
-| Discogs URL    | [Dinosaur Jr - Without A Sound](https://www.discogs.com/release/14176579-Dinosaur-Jr-Without-A-Sound) |
+| Discogs URL    | [Dinosaur Jr. - Without A Sound](https://www.discogs.com/release/14176579-Dinosaur-Jr-Without-A-Sound) |

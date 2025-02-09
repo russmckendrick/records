@@ -27,16 +27,16 @@ styles: ["Folk Rock", "Neofolk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| 1 | Everything Else |
-| 2 | Didn't Know Why |
-| 3 | Sixes |
-| 4 | Snails |
-| 5 | Laundry |
-| 6 | Drifting Memory Station |
-| 7 | Deep Underneath |
-| 8 | Levitate A Little |
-| 9 | Yeekeys |
-| 10 | Coat Hangers |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

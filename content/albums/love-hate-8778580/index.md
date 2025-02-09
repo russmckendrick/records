@@ -32,16 +32,16 @@ Michael Kiwanuka’s stunning second LP proves he’s an artist with something t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Cold Little Heart |
-| A2 | Black Man In A White World |
-| B1 | Falling |
-| B2 | Place I Belong |
-| B3 | Love & Hate |
-| C1 | One More Night |
-| C2 | I’ll Never Love |
-| C3 | Rule The World |
-| D1 | Father’s Child |
-| D2 | The Final Frame |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

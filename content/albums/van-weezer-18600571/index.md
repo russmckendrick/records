@@ -35,19 +35,19 @@ Clocking in at a snappy 30 minutes, the 10 tracks here are all killer, no filler
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hero |
-| A2 | All The Good Ones |
-| A3 | The End Of The Game |
-| A4 | I Need Some Of That |
-| A5 | Beginning Of The End |
-| B1 | Blue Dream |
-| B2 | 1 More Hit |
-| B3 | Sheila Can Do It |
-| B4 | She Needs Me |
-| B5a | Precious Metal Girl |
-| B5b | [Non Audio] |
-| B6a | I've Thrown It All Away |
-| B6b | I Need Some Of That [Reprise] |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

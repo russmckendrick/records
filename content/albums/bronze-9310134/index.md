@@ -35,16 +35,16 @@ Because historical artworks were often made of brasses (copper and zinc) and bro
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Dead Imperial Bastard |
-| A2 | Deviant Burials |
-| A3 | No Fun |
-| B1 | Rotten Memories |
-| B2 | Champions Of Disturbance |
-| B3 | Goodbye Then |
-| C1 | Turn To Stone |
-| C2 | Scared And Alone |
-| D1 | Winning A Losing Battle |
-| D2 | We Are The Darkeners |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -39,15 +39,15 @@ The Real Thing is the third studio album by American rock band Faith No More, re
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | From Out Of Nowhere |
-| A2 | Epic |
-| A3 | Falling To Pieces |
-| A4 | Surprise! You're Dead! |
-| A5 | Zombie Eaters |
-| B1 | The Real Thing |
-| B2 | Underwater Love |
-| B3 | The Morning After |
-| B4 | Woodpecker From Mars |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

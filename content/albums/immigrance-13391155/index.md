@@ -38,14 +38,14 @@ The latest album from Grammy-winning jazz ensemble Snarky Puppy takes inspiratio
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Chonks |
-| A2 | Bigly Strictness |
-| A3 | Coven |
-| B1 | Bling Bling |
-| B2 | Xavi |
-| B3 | While We're Young |
-| C1 | Bad Kids To The Back |
-| C2 | Even Us |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

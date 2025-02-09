@@ -37,26 +37,26 @@ Empath is the eighteenth studio album by Canadian metal musician Devin Townsend,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Castaway |
-| A2 | Genesis |
-| A3 | Spirits Will Collide |
-| A4 | Evermore |
-| B1 | Sprite |
-| B2 | Hear Me |
-| B3 | Why? |
-| C1 | Borderlands |
-| C2 | Requiem |
-|  | Singularity |
-| CD1-1 | Castaway |
-| CD1-2 | Genesis |
-| CD1-3 | Spirits Will Collide |
-| CD1-4 | Evermore |
-| CD1-5 | Sprite |
-| CD1-6 | Hear Me |
-| CD1-7 | Why? |
-| CD1-8 | Borderlands |
-| CD1-9 | Requiem |
-|  | Singularity |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

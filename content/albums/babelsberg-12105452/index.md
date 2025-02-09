@@ -38,16 +38,16 @@ Babelsberg is the fifth studio album by Welsh musician Gruff Rhys. It was releas
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Frontier Man  |
-| A2 | The Club  |
-| A3 | Oh Dear! |
-| A4 | Limited Edition Heart  |
-| A5 | Take That Call |
-| A6 | Drones In The City  |
-| B1 | Negative Vibes |
-| B2 | Same Old Song  |
-| B3 | Architecture Of Amnesia   |
-| B4 | Selfies In The Sunset |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

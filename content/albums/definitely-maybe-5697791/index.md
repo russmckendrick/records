@@ -1,6 +1,6 @@
 ---
-title: "Oasis - Definitely Maybe"
-artist_name: "Oasis"
+title: "Oasis (2) - Definitely Maybe"
+artist_name: "Oasis (2)"
 artist: "oasis"
 album_name: "Definitely Maybe"
 date: 2015-12-21T22:34:46.000000Z
@@ -10,8 +10,8 @@ slug: "definitely-maybe-5697791"
 hideSummary: true
 cover:
     image: "definitely-maybe-5697791.jpg"
-    alt: "Definitely Maybe by Oasis"
-    caption: "Definitely Maybe by Oasis"
+    alt: "Definitely Maybe by Oasis (2)"
+    caption: "Definitely Maybe by Oasis (2)"
 additional_images:
     - "https://i.discogs.com/p7vAFOaR_hTjKOlV-jivNBx4ODDxcSs5pN9oZ6lpHw4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTc3/OTEtMTQxMTA0OTUy/Ni0zMjYwLmpwZWc.jpeg"
     - "https://i.discogs.com/NLYCTINmttLdERLeFf0Z2J80GO2gmlHquw2-psnlkJI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTc3/OTEtMTQwMDg1NDIx/Mi0xNDI2LmpwZWc.jpeg"
@@ -48,18 +48,18 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Rock 'n' Roll Star |
-| A2 | Shakermaker |
-| A3 | Live Forever |
-| B1 | Up In The Sky |
-| B2 | Columbia |
-| B3 | Sad Song |
-| C1 | Supersonic |
-| C2 | Bring It On Down |
-| C3 | Cigarettes & Alcohol |
-| D1 | Digsy's Dinner |
-| D2 | Slide Away |
-| D3 | Married With Children |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -78,4 +78,4 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 | Label          | Big Brother |
 | Catalog Number | RKIDLP70 |
 | Notes | - 20th anniversary reissue - mat cover surface  On black round sticker on shrinkwrap (front cover): REMASTERED DOUBLE HEAVYWEIGHT VINYL INCLUDEs DOWNLOAD CODE FOR ALBUM, BONUS UNRELEASED TRACKS & RARITIES"  On rear cover: ℗ & © 2014 Big Brother Recordings Ltd.  Inside gatefold: Remastered in 2014 by Ian Cooper at Metropolis Mastering, London. |
-| Discogs URL    | [Oasis - Definitely Maybe](https://www.discogs.com/release/5697791-Oasis-2-Definitely-Maybe) |
+| Discogs URL    | [Oasis (2) - Definitely Maybe](https://www.discogs.com/release/5697791-Oasis-2-Definitely-Maybe) |

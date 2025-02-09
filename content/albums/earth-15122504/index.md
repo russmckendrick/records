@@ -1,7 +1,7 @@
 ---
-title: "Ed OBrien - Earth"
-artist_name: "Ed OBrien"
-artist: "ed-obrien"
+title: "Ed O'Brien - Earth"
+artist_name: "Ed O'Brien"
+artist: "ed-o-brien"
 album_name: "Earth"
 date: 2020-04-27T12:46:53.000000Z
 release_date: "2000-01-01"
@@ -10,8 +10,8 @@ slug: "earth-15122504"
 hideSummary: true
 cover:
     image: "earth-15122504.jpg"
-    alt: "Earth by Ed OBrien"
-    caption: "Earth by Ed OBrien"
+    alt: "Earth by Ed O'Brien"
+    caption: "Earth by Ed O'Brien"
 additional_images:
     - "https://i.discogs.com/GXmJPiXpXoqU5EEwAf2su1nKdr-6_C0emnB4utFntIU/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIy/NTA0LTE1ODY5Njcx/NTEtNTI5MS5qcGVn.jpeg"
     - "https://i.discogs.com/DgNGYry_vf87eyoxaGSSdb5ZYea62Ya1UQIDNFBEaIM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTIy/NTA0LTE1ODY5Njcx/NjAtODI5My5qcGVn.jpeg"
@@ -30,15 +30,15 @@ styles: ["Indie Rock", "Folk", "House"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Shangri-La |
-| A2 | Brasil |
-| A3 | Deep Days |
-| A4 | Long Time Coming |
-| B1 | Mass |
-| B2 | Banksters |
-| B3 | Sail On |
-| B4 | Olympik |
-| B5 | Cloak Of The Night |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -56,4 +56,4 @@ styles: ["Indie Rock", "Folk", "House"]
 | Label          | Capitol Records |
 | Catalog Number | 00602508363429 |
 | Notes | Indie Record Store Exclusive 180g Orange Vinyl, gatefold sleeve, includes 6 lithographs. |
-| Discogs URL    | [Ed OBrien - Earth](https://www.discogs.com/release/15122504-EOB-Earth) |
+| Discogs URL    | [Ed O'Brien - Earth](https://www.discogs.com/release/15122504-EOB-Earth) |

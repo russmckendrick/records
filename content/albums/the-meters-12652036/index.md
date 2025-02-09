@@ -35,18 +35,18 @@ While they rarely enjoyed significant mainstream success, they are considered or
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Cissy Strut |
-| A2 | Here Comes The Meter Man |
-| A3 | Cardova |
-| A4 | Live Wire |
-| A5 | Art |
-| A6 | Sophisticated Cissy |
-| B1 | Ease Back |
-| B2 | 6V6 LA |
-| B3 | Sehorns Farm |
-| B4 | Ann |
-| B5 | Stormy |
-| B6 | Simple Song |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

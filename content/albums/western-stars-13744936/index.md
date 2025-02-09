@@ -44,19 +44,19 @@ Neither a bare-bones acoustic effort like <i>Nebraska</i> nor a fully tricked-ou
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hitch Hikin' |
-| A2 | The Wayfarer |
-| A3 | Tucson Train |
-| B1 | Western Stars |
-| B2 | Sleepy Joe's Café |
-| B3 | Drive Fast (The Stuntman) |
-| C1 | Chasin' Wild Horses |
-| C2 | Sundown |
-| C3 | Somewhere North Of Nashville |
-| C4 | Stones |
-| D1 | There Goes My Miracle |
-| D2 | Hello Sunshine |
-| D3 | Moonlight Motel |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -29,17 +29,17 @@ Historically, the velveteen trade varied with the fashions that controlled the p
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Baby I Don't Care |
-| A2 | The Only One |
-| A3 | Landslide Of Love |
-| A4 | Falling For A Goldmine |
-| A5 | Down On You |
-| A6 | Song To The Stars |
-| B1 | Kiss Their Sons |
-| B2 | Born To Be Sold |
-| B3 | Pay The Ghosts |
-| B4 | Bad Valentine |
-| B5 | Velveteen |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

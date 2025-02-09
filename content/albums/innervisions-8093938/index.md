@@ -37,15 +37,15 @@ There’s salvation to be found in “Higher Ground”, an impossibly groovy seq
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Too High |
-| A2 | Visions |
-| A3 | Living For The City |
-| A4 | Golden Lady |
-| B1 | Higher Ground |
-| B2 | Jesus Children Of America |
-| B3 | All In Love Is Fair |
-| B4 | Don't You Worry 'Bout A Thing |
-| B5 | He's Misstra Know-It-All |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -32,38 +32,38 @@ styles: ["New Wave", "Pop Rock", "Arena Rock", "Vocal", "Classic Rock", "Hard Ro
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Pride (In The Name Of Love) |
-| A2 | Solid Rock |
-| A3 | Turn It On Again |
-| A4 | Run To You |
-| A5 | White Wedding |
-| A6 | Love Song |
-| A7 | Don't Stand So Close To Me |
-| B1 | Going Underground |
-| B2 | No More Heroes |
-| B3 | Rat Trap |
-| B4 | Matthew And Son |
-| B5 | Living In The Past |
-| B6 | Dreamer |
-| B7 | Another Brick In The Wall |
-| B8 | Kayleigh |
-| C1 | Killer Queen |
-| C2 | Saturday Night's Alright (For Fighting) |
-| C3 | Get It On |
-| C4 | All The Young Dudes |
-| C5 | You Wear It Well |
-| C6 | The Boys Are Back In Town |
-| C7 | Caroline |
-| C8 | Layla |
-| D1 | Substitute |
-| D2 | All Right Now |
-| D3 | Badge |
-| D4 | Gimme Some Lovin' |
-| D5 | Need Your Love So Bad |
-| D6 | For Your Love |
-| D7 | Sha La La La Lee |
-| D8 | Purple Haze |
-| D9 | Space Oddity |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

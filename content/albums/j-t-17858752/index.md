@@ -1,6 +1,6 @@
 ---
-title: "Steve Earle  The Dukes - J.T. "
-artist_name: "Steve Earle  The Dukes"
+title: "Steve Earle & The Dukes - J.T. "
+artist_name: "Steve Earle & The Dukes"
 artist: "steve-earle-the-dukes"
 album_name: "J.T. "
 date: 2021-03-19T04:05:42.000000Z
@@ -10,8 +10,8 @@ slug: "j-t-17858752"
 hideSummary: true
 cover:
     image: "j-t-17858752.jpg"
-    alt: "J.T.  by Steve Earle  The Dukes"
-    caption: "J.T.  by Steve Earle  The Dukes"
+    alt: "J.T.  by Steve Earle & The Dukes"
+    caption: "J.T.  by Steve Earle & The Dukes"
 additional_images:
     - "https://i.discogs.com/wbn3Rm71V4AkhkrD0zXyaY6TYBW7kI5Mcrwu9i5CGwg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODU4/NzUyLTE2MTcyMzIw/MDktNDczNy5qcGVn.jpeg"
     - "https://i.discogs.com/luS_P3eb01wxlheVivVl0WzbjHbJhkIdayyD_SscKG0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODU4/NzUyLTE2MTcyMzIw/MDgtMjUxNC5qcGVn.jpeg"
@@ -38,17 +38,17 @@ J.T. is a studio album by American rock band Steve Earle & The Dukes. The album 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Don't Care |
-| A2 | Ain't Glad I'm Leaving  |
-| A3 | Maria  |
-| A4 | Far Away In Another Town  |
-| A5 | They Killed John Henry  |
-| A6 | Turn Out My Lights  |
-| B1 | Lone Pine Hill |
-| B2 | Champagne Corolla  |
-| B3 | The Saint Of Lost Causes  |
-| B4 | Harlem River Blues  |
-| B5 | Last Words  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -67,4 +67,4 @@ J.T. is a studio album by American rock band Steve Earle & The Dukes. The album 
 | Label          | New West Records |
 | Catalog Number | NW5492 |
 | Notes | Housed in a gatefold sleeve.  Indie retail exclusive color. SteveEarle.com NewWest Records.com NW5492 written on bottom left of sleeve. |
-| Discogs URL    | [Steve Earle  The Dukes - J.T. ](https://www.discogs.com/release/17858752-Steve-Earle-The-Dukes-JT-) |
+| Discogs URL    | [Steve Earle & The Dukes - J.T. ](https://www.discogs.com/release/17858752-Steve-Earle-The-Dukes-JT-) |

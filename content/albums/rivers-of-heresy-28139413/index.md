@@ -70,16 +70,16 @@ Neil: “As soon as I heard this, I knew it was going to close the record. Even 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Harvest |
-| A2 | Blusher |
-| A3 | Moi? |
-| A4 | Tired, Aye? |
-| A5 | Sons And Daughters |
-| B1 | Stutter |
-| B2 | Palms Of Hands |
-| B3 | Busty |
-| B4 | Sold!  |
-| B5 | The Looming |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

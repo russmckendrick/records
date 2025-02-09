@@ -41,16 +41,16 @@ New Boots and Panties!! has been reissued several times, including a three-disc 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Wake Up And Make Love With Me |
-| A2 | Sweet Gene Vincent |
-| A3 | I'm Partial To Your Abracadabra |
-| A4 | My Old Man |
-| A5 | Billericay Dickie |
-| B1 | Clevor Trever |
-| B2 | If I Was With A Woman |
-| B3 | Blockheads |
-| B4 | Plaistow Patricia |
-| B5 | Blackmail Man |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

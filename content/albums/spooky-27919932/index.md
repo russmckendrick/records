@@ -37,18 +37,18 @@ Spooky is the debut studio album by English rock band Lush. It was released on 2
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Stray |
-| A2 | Nothing Natural |
-| A3 | Tiny Smiles |
-| A4 | Covert |
-| A5 | Ocean |
-| A6 | For Love |
-| B1 | Superblast! |
-| B2 | Untogether |
-| B3 | Fantasy |
-| B4 | Take |
-| B5 | Laura |
-| B6 | Monochrome |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

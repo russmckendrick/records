@@ -42,17 +42,17 @@ The title track reached No. 1 on the mainstream rock chart. The song "Driven" be
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Test For Echo |
-| A2 | Driven |
-| A3 | Half The World |
-| A4 | The Color Of Right |
-| B1 | Time And Motion |
-| B2 | Totem |
-| B3 | Dog Years |
-| C1 | Virtuality |
-| C2 | Resist |
-| C3 | Limbo |
-| C4 | Carve Away The Stone |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

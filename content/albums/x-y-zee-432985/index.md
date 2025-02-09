@@ -31,9 +31,9 @@ styles: ["Breakbeat", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | X Y & Zee (The Intergalactic Mix) |
-| A2 | X Y & Zee (The Electric Sunshine Mix) |
-| B | X Y & Zee (Sensory Amplification Mix) |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

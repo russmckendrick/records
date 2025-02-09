@@ -36,31 +36,31 @@ Despite a hard push to replicate the success of Frampton Comes Alive!, Back to t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Real Man |
-| A2 | Love Of The Common Man |
-| A3 | The Verb "To Love" |
-| A4 | Love In Action |
-| A5 | A Dream Goes On Forever |
-| B1 | Sometimes I Don't Know What To Feel |
-| B2 | The Range War |
-| B3 | Black And White |
-| B4 | The Last Ride |
-| B5 | Cliches |
-| B6 | Don't You Ever Learn? |
-| C1 | Never Never Land |
-| C2 | Black Maria |
-| C3 | Zen Archer |
-|  | Medley |
-| C4a | I'm So Proud |
-| C4b | Oh Baby Baby |
-| C4c | La La Means I Love You |
-| C4d | I Saw The Light |
-|  | - |
-| D1 | It Wouldn't Have Made Any Difference |
-| D2 | Eastern Intrigue |
-| D3 | Initiation |
-| D4 | Couldn't I Just Tell You |
-| D5 | Hello It's Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

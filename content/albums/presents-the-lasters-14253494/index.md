@@ -27,25 +27,25 @@ styles: ["Downtempo"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Prologue (At The Century's End) |
-| A2 | Alone |
-| A3 | Satellite Song |
-| A4 | Get The Message Through |
-| A5 | Metal From The Skies |
-| A6 | I Remember |
-| B1 | Rush |
-| B2 | The Pyramid |
-| B3 | Future Magic |
-| B4 | Come To Me |
-| B5 | You Never Knew |
-| C1 | Goodbye Father |
-| C2 | Bringing It Back To You |
-| C3 | Through The Veil |
-| C4 | The End Of The World |
-| D1 | Don't Give Up |
-| D2 | Just Our Best |
-| D3 | Time To Go |
-| D4 | Into The Darkness |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

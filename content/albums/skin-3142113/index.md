@@ -1,6 +1,6 @@
 ---
-title: "Skin - Skin"
-artist_name: "Skin"
+title: "Skin (4) - Skin"
+artist_name: "Skin (4)"
 artist: "skin"
 album_name: "Skin"
 date: 2018-12-17T19:15:09.000000Z
@@ -10,8 +10,8 @@ slug: "skin-3142113"
 hideSummary: true
 cover:
     image: "skin-3142113.jpg"
-    alt: "Skin by Skin"
-    caption: "Skin by Skin"
+    alt: "Skin by Skin (4)"
+    caption: "Skin by Skin (4)"
 additional_images:
     - "https://i.discogs.com/p7fi06_ZhX-vwPeKqY9lT33iCLYrdW8s_I3_RSf1OJU/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDIx/MTMtMTUyMTEzODc2/MS02MDgxLmpwZWc.jpeg"
     - "https://i.discogs.com/DwTXzK3xU0A5PWA-vNPrr5BLU-rGzBYlsDXGArEB4h4/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDIx/MTMtMTY1MjU2MTUy/MC03NTI1LmpwZWc.jpeg"
@@ -31,17 +31,17 @@ styles: ["Hard Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Money |
-| A2 | Shine Your Light |
-| A3 | House Of Love |
-| A4 | Colourblind |
-| A5 | Which Are The Tears |
-| A6 | Look But Don't Touch |
-| B1 | Nightsong |
-| B2 | Tower Of Strength |
-| B3 | Revolution |
-| B4 | Raised On Radio |
-| B5 | Wings Of An Angel |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -60,4 +60,4 @@ styles: ["Hard Rock"]
 | Label          | Parlophone |
 | Catalog Number | 7243 8 28869 1 4 |
 | Notes | Printed in the U.K.   The number 7243 8 28869 1 4 appears on the spine and above the barcode box. The number PCSD 151 appears under the barcode box |
-| Discogs URL    | [Skin - Skin](https://www.discogs.com/release/3142113-Skin-4-Skin) |
+| Discogs URL    | [Skin (4) - Skin](https://www.discogs.com/release/3142113-Skin-4-Skin) |

@@ -31,18 +31,18 @@ styles: ["Punk", "Goth Rock", "Psychedelic Rock", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | New Rose |
-| A2 | Love Song |
-| A3 | Neat Neat Neat |
-| A4 | I Just Can't Be Happy Today |
-| A5 | Jet Boy, Jet Girl |
-| A6 | Hit Or Miss |
-| A7 | There Ain't No Sanity Clause |
-| B1 | Smash It Up (Parts 1 And 2) |
-| B2 | Plan 9 Channel 7 |
-| B3 | Rabid (Over You) |
-| B4 | Wait For The Blackout |
-| B5 | History Of The World Part 1 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

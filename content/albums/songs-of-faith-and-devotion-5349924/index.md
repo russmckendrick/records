@@ -39,16 +39,16 @@ Recording the album and the subsequent tour exacerbated growing tensions and dif
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Feel You |
-| A2 | Walking In My Shoes |
-| A3 | Condemnation |
-| A4 | Mercy In You |
-| A5 | Judas |
-| B1 | In Your Room |
-| B2 | Get Right With Me |
-| B3 | Rush |
-| B4 | One Caress |
-| B5 | Higher Love |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

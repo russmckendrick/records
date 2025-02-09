@@ -34,22 +34,22 @@ Vocalist/guitarist Mike Vennart states that: When Jon [Ellis] left I thought we 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Commemorative ___ T-Shirt |
-| A2 | Unfamiliar |
-| B1 | Trail Of Fire |
-| B2 | Savant |
-| C1 | Only Twin |
-| C2 | An Old Friend Of The Christy's |
-| D1 | Sleeping Dogs And Dead Lions |
-| D2 | The Frame |
-| CD-1 | Commemorative ___ T-Shirt |
-| CD-2 | Unfamiliar |
-| CD-3 | Trail Of Fire |
-| CD-4 | Savant |
-| CD-5 | Only Twin |
-| CD-6 | An Old Friend Of The Christy's |
-| CD-7 | Sleeping Dogs And Dead Lions |
-| CD-8 | The Frame |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

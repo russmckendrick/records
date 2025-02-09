@@ -34,18 +34,18 @@ styles: ["Country Blues", "Hill Country Blues"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | We Made It |
-| A2 | Get Your Groove On |
-| A3 | Please Tell Me Baby |
-| A4 | Typical Day |
-| A5 | Give It To You |
-| A6 | Hard To Stay Cool |
-| B1 | Don't Leave Me Girl |
-| B2 | Death Bell Blues |
-| B3 | There Is So Much |
-| B4 | Call On Me |
-| B5 | I'm Hurtin |
-| B6 | Ain't Gonna Take No Mess |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

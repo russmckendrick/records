@@ -43,18 +43,18 @@ The album has been re-released twice: on October 30, 2015, in a two-disc deluxe 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | All I Really Want |
-| A2 | You Oughta Know |
-| A3 | Perfect |
-| A4 | Hand In My Pocket |
-| A5 | Right Through You |
-| A6 | Forgiven |
-| B1 | You Learn |
-| B2 | Head Over Feet |
-| B3 | Mary Jane |
-| B4 | Ironic |
-| B5 | Not The Doctor |
-| B6 | Wake Up |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -41,16 +41,16 @@ The album produced five singles, with "Rebellion (Lies)" being the most successf
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Neighborhood #1 (Tunnels) |
-| A2 | Neighborhood #2 (Laïka) |
-| A3 | Une Année Sans Lumiere |
-| A4 | Neighborhood #3 (Power Out) |
-| A5 | Neighborhood #4 (7 Kettles) |
-| B6 | Crown Of Love |
-| B7 | Wake Up |
-| B8 | Haiti |
-| B9 | Rebellion (Lies) |
-| B10 | In The Backseat |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

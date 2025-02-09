@@ -29,17 +29,17 @@ I'll Be Your Girl is the eighth studio album by the American indie rock band The
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Once In My Life |
-| A2 | Cutting Stone |
-| A3 | Severed |
-| A4 | Starwatcher |
-| A5 | Tripping Along |
-| A6 | Your Ghost |
-| B1 | Everything is Awful |
-| B2 | Sucker's Prayer |
-| B3 | We All Die Young |
-| B4 | Rusalka, Rusalka/ Wild Rushes |
-| B5 | I'll Be Your Girl |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

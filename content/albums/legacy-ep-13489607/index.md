@@ -26,14 +26,14 @@ styles: ["Alternative Rock", "Indie Rock", "Britpop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Legacy (Extended Version) |
-| A2 | Can't Afford To Die |
-| A3 | Spasm Of Identity |
-| A4 | Check Under The Bed |
-| B1 | Legacy |
-| B2 | Wide Open Space (The Perfecto Remix) |
-| B3 | GSOH |
-| B4 | Face In The Crowd |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -1,6 +1,6 @@
 ---
-title: "Echo  The Bunnymen - Ocean Rain"
-artist_name: "Echo  The Bunnymen"
+title: "Echo & The Bunnymen - Ocean Rain"
+artist_name: "Echo & The Bunnymen"
 artist: "echo-the-bunnymen"
 album_name: "Ocean Rain"
 date: 2017-03-08T19:51:32.000000Z
@@ -10,8 +10,8 @@ slug: "ocean-rain-5803593"
 hideSummary: true
 cover:
     image: "ocean-rain-5803593.jpg"
-    alt: "Ocean Rain by Echo  The Bunnymen"
-    caption: "Ocean Rain by Echo  The Bunnymen"
+    alt: "Ocean Rain by Echo & The Bunnymen"
+    caption: "Ocean Rain by Echo & The Bunnymen"
 additional_images:
     - "https://i.discogs.com/PUeOEJsur4iNfluSHprwfSyQDkVpK503f5zz4gPI5lQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDM1/OTMtMTUwNjEyODk3/OS04MTY1LmpwZWc.jpeg"
 genres: ["Rock"]
@@ -30,15 +30,15 @@ The band wrote the songs for the new album in 1983. In early 1984 they recorded 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Silver |
-| A2 | Nocturnal Me |
-| A3 | Crystal Days |
-| A4 | The Yo Yo Man |
-| A5 | Thorn Of Crowns |
-| B1 | The Killing Moon |
-| B2 | Seven Seas |
-| B3 | My Kingdom |
-| B4 | Ocean Rain |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -57,4 +57,4 @@ The band wrote the songs for the new album in 1983. In early 1984 they recorded 
 | Label          | Korova |
 | Catalog Number | VIN180LP075 |
 | Notes | 2014 Repressing in Black Vinyl |
-| Discogs URL    | [Echo  The Bunnymen - Ocean Rain](https://www.discogs.com/release/5803593-Echo-The-Bunnymen-Ocean-Rain) |
+| Discogs URL    | [Echo & The Bunnymen - Ocean Rain](https://www.discogs.com/release/5803593-Echo-The-Bunnymen-Ocean-Rain) |

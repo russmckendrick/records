@@ -32,16 +32,16 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Black Smoke |
-| A2 | Buried Here |
-| A3 | The Odds |
-| A4 | A Thousand Daggers |
-| A5 | Born In Delusion |
-| B1 | Willow Tree |
-| B2 | Field Day Part 1 |
-| B3 | Field Day Part 2 |
-| B4 | Familiar Patterns |
-| B5 | Leaves Leave Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

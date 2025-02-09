@@ -30,27 +30,27 @@ styles: ["Soundtrack", "Punk", "Comedy"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Cello Man |
-| A2 | Gogglebubbleland |
-| A3 | Reflections And Dialogue With Mr. Sievey |
-| A4 | Slump |
-| A5 | Paula My Love |
-| A6 | Self-Copyright Message |
-| A7 | No Money |
-| A8 | I'm In Love With The Girl On The Manchester (Bleep) Megastore Checkout Desk |
-| A9 | Off Key Siren |
-| B1 | Fasten Your Seatbelts |
-| B2 | Timperley Travelogue |
-| B3 | Greengrocer On The Corner |
-| B4 | Slip |
-| B5 | Swingbeat Art Print Girl |
-| B6 | Franksworld Theme |
-| B7 | Magical Timperley Tour (Extra Keyboard Ver.) |
-| B8 | Frank Sidebottom's Proper Telly Show In B&W Theme |
-| B9 | Hey You, Street Artist |
-| B10 | Love Will Tear Us Apart |
-| B11 | Lazy Rising More Slowly, Where R.U., Oh 'Chele |
-| B12 | Life With The Lyons |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -47,26 +47,26 @@ Surfing with the Alien is the second studio album by American rock guitarist Joe
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Surfing With The Alien |
-| A2 | Ice 9 |
-| A3 | Crushing Day |
-| A4 | Always With Me, Always With You |
-| A5 | Satch Boogie |
-| B1 | Hill Of The Skull |
-| B2 | Circles |
-| B3 | Lord's Of Karma |
-| B4 | Midnight |
-| B5 | Echo |
-| C1 | Surfing With The Alien (Stripped) |
-| C2 | Ice 9 (Stripped) |
-| C3 | Crushing Day (Stripped) |
-| C4 | Always With Me, Always With You (Stripped) |
-| C5 | Satch Boogie (Stripped) |
-| D1 | Hill Of The Skull (Stripped) |
-| D2 | Circles (Stripped) |
-| D3 | Lords Of Karma (Stripped) |
-| D4 | Midnight (Stripped) |
-| D5 | Echo (Stripped) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

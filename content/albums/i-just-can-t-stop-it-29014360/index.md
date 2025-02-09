@@ -1,6 +1,6 @@
 ---
-title: "The Beat - I Just Can't Stop It"
-artist_name: "The Beat"
+title: "The Beat (2) - I Just Can't Stop It"
+artist_name: "The Beat (2)"
 artist: "the-beat"
 album_name: "I Just Can't Stop It"
 date: 2023-11-25T04:04:02.000000Z
@@ -10,8 +10,8 @@ slug: "i-just-can-t-stop-it-29014360"
 hideSummary: true
 cover:
     image: "i-just-can-t-stop-it-29014360.jpg"
-    alt: "I Just Can't Stop It by The Beat"
-    caption: "I Just Can't Stop It by The Beat"
+    alt: "I Just Can't Stop It by The Beat (2)"
+    caption: "I Just Can't Stop It by The Beat (2)"
 additional_images:
     - "https://i.discogs.com/jobtHYDgiZV4TbXwR10tLzCD52nxnjhONrCN888FhcU/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDE0/MzYwLTE3MDA5MTA5/MDktNjY0OC5qcGVn.jpeg"
     - "https://i.discogs.com/mEpHMEUH8NFQhklCuveexT3NCY4N87wIOYEH80mGxHE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MDE0/MzYwLTE3MDA5MTEw/MDYtNzc1NS5qcGVn.jpeg"
@@ -33,31 +33,31 @@ The album was reissued on CD in 1990 by I.R.S. Records in the U.S, and in 2012 b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Mirror In The Bathroom |
-| A2 | Hands Off...She's Mine |
-| A3 | Two Swords |
-| A4 | Twist & Crawl |
-| A5 | Tears Of A Clown |
-| A6 | Rough Rider |
-| A7 | Click Click |
-| B1 | Ranking Full Stop |
-| B2 | Big Shot |
-| B3 | Whine & Grine / Stand Down Margaret |
-| B4 | Noise In This World |
-| B5 | Can't Get Used To Losing You |
-| B6 | Best Friend |
-| B7 | Jackpot |
-| C1 | Tears Of A Clown (Original Single Version) |
-| C2 | Hands Off... She's Mine (Extended) |
-| C3 | Stand Down Margaret (Dub) |
-| C4 | Twist & Crawl (Extended) |
-|  | Live At Hammersmith Palais, Oct. 1982 |
-| D1 | Mirror In The Bathroom |
-|  | Live At The Boston Opera House, Nov. 19, 1982 |
-| D2 | Best Friend |
-| D3 | Tears Of A Clown |
-| D4 | Twist & Crawl |
-| D5 | Get-A-Job / Stand Down Margaret |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -75,4 +75,4 @@ The album was reissued on CD in 1990 by I.R.S. Records in the U.S, and in 2012 b
 | Format         | Vinyl 2× LP Album Record Store Day Reissue (Clear) |
 | Label          | Rhino Records (2) |
 | Catalog Number | RCV1 725637 |
-| Discogs URL    | [The Beat - I Just Can't Stop It](https://www.discogs.com/release/29014360-The-Beat-2-I-Just-Cant-Stop-It) |
+| Discogs URL    | [The Beat (2) - I Just Can't Stop It](https://www.discogs.com/release/29014360-The-Beat-2-I-Just-Cant-Stop-It) |

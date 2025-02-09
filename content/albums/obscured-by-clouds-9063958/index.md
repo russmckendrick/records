@@ -34,16 +34,16 @@ Working again with director Barbet Schroeder, Pink Floyd created this soundtrack
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Obscured By Clouds |
-| A2 | When You're In |
-| A3 | Burning Bridges |
-| A4 | The Gold It's In The... |
-| A5 | Wot's ... Uh The Deal |
-| A6 | Mudmen |
-| B1 | Childhood's End |
-| B2 | Free Four |
-| B3 | Stay |
-| B4 | Absolutely Curtains |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

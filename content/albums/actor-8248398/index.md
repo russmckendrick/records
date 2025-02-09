@@ -1,6 +1,6 @@
 ---
-title: "St Vincent - Actor"
-artist_name: "St Vincent"
+title: "St. Vincent - Actor"
+artist_name: "St. Vincent"
 artist: "st-vincent"
 album_name: "Actor"
 date: 2023-10-14T02:09:13.000000Z
@@ -10,8 +10,8 @@ slug: "actor-8248398"
 hideSummary: true
 cover:
     image: "actor-8248398.jpg"
-    alt: "Actor by St Vincent"
-    caption: "Actor by St Vincent"
+    alt: "Actor by St. Vincent"
+    caption: "Actor by St. Vincent"
 additional_images:
     - "https://i.discogs.com/lay6nOEFuN3sm5cnfiWUwU88tlFFeurz7-zh9Wa5nyI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDgz/OTgtMTQ1NzkxMzU2/Ni05MjQ0LmpwZWc.jpeg"
     - "https://i.discogs.com/F1Yl9VScf7pydpcCYquWaRjNG8FvYtrwEdSGAg19j8I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDgz/OTgtMTU1NTA2NDcx/NC02MzA2LmpwZWc.jpeg"
@@ -33,17 +33,17 @@ Singer/songwriter/guitar-shredder Annie Clark's fourth studio album as St. Vince
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Strangers |
-| A2 | Save Me From What I Want |
-| A3 | The Neighbors |
-| A4 | Actor Out Of Work |
-| A5 | Black Rainbow |
-| A6 | The Sequel |
-| B1 | Laughing With A Mouth Of Blood |
-| B2 | Marrow |
-| B3 | The Bed |
-| B4 | The Party |
-| B5 | Just The Same But Brand New |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -61,4 +61,4 @@ Singer/songwriter/guitar-shredder Annie Clark's fourth studio album as St. Vince
 | Label          | 4AD |
 | Catalog Number | none |
 | Notes | This pressing has no catalog # on the labels, "33 RPM" is printed under "Side A/B" on the labels where the 4AD catalog # is on other pressings. Likely a more recent pressing.  Recorded & Mixed at Elmwood Studio & The Track Studio, Dallas, Texas Mastered at Sterlingsound, NYC  Runout information is stamped.  Shrink wrap has hype sticker on rear: 'Made in Czech Republic'   For thank yous & additional credits - ILOVESTVINCENT.COM  MP3 album download included with purchase. |
-| Discogs URL    | [St Vincent - Actor](https://www.discogs.com/release/8248398-St-Vincent-Actor) |
+| Discogs URL    | [St. Vincent - Actor](https://www.discogs.com/release/8248398-St-Vincent-Actor) |

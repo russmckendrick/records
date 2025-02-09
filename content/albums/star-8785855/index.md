@@ -43,36 +43,36 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Someone To Die For |
-| A2 | Angel |
-| A3 | Dusted |
-| A4 | Every Word |
-| B5 | Gepetto |
-| B6 | Witch |
-| B7 | Slow Dog |
-| B8 | Low Red Moon |
-| C9 | Feed The Tree |
-| C10 | Full Moon, Empty Heart |
-| C11 | White Belly |
-| C12 | Untogether |
-| D13 | Star |
-| D14 | Sad Dress |
-| D15 | Stay |
-| CD-1 | Someone To Die For |
-| CD-2 | Angel |
-| CD-3 | Dusted |
-| CD-4 | Every Word |
-| CD-5 | Gepetto |
-| CD-6 | Witch |
-| CD-7 | Slow Dog |
-| CD-8 | Low Red Moon |
-| CD-9 | Feed The Tree |
-| CD-10 | Full Moon, Empty Heart |
-| CD-11 | White Belly |
-| CD-12 | Untogether |
-| CD-13 | Star |
-| CD-14 | Sad Dress |
-| CD-15 | Stay |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

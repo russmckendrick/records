@@ -1,6 +1,6 @@
 ---
-title: "St Vincent - Daddy's Home"
-artist_name: "St Vincent"
+title: "St. Vincent - Daddy's Home"
+artist_name: "St. Vincent"
 artist: "st-vincent"
 album_name: "Daddy's Home"
 date: 2021-05-15T06:31:58.000000Z
@@ -10,8 +10,8 @@ slug: "daddy-s-home-18670924"
 hideSummary: true
 cover:
     image: "daddy-s-home-18670924.jpg"
-    alt: "Daddy's Home by St Vincent"
-    caption: "Daddy's Home by St Vincent"
+    alt: "Daddy's Home by St. Vincent"
+    caption: "Daddy's Home by St. Vincent"
 additional_images:
     - "https://i.discogs.com/ekzTc6gIGtkb29ehK3AZSlK8hAS5nRlBUMJVB5zRqok/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njcw/OTI0LTE2MjA2NjU2/MzQtMTEwNy5qcGVn.jpeg"
     - "https://i.discogs.com/sTo933KrduOTUmoxOqSlVGeJRvQbbmeS1ReV1G6ZuDE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Njcw/OTI0LTE2MjA2NjU1/OTgtODg3MC5qcGVn.jpeg"
@@ -46,17 +46,17 @@ Recorded with <i>MASSEDUCTION</i> producer Jack Antonoff, <i>Daddy’s Home</i> 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Pay Your Way In Pain |
-| A2 | Down And Out Downtown |
-| A3 | Daddy's Home |
-| A4 | Live In The Dream |
-| A5 | The Melting Of The Sun |
-| B1 | The Laughing Man |
-| B2 | Down |
-| B3 | Somebody Like Me |
-| B4 | My Baby Wants A Baby |
-| B5 | ...At The Holiday Party |
-| B6 | Candy Darling |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -75,4 +75,4 @@ Recorded with <i>MASSEDUCTION</i> producer Jack Antonoff, <i>Daddy’s Home</i> 
 | Label          | Loma Vista |
 | Catalog Number | LVR01797 |
 | Notes | Indie Exclusive. Includes Poster 200 copies were also retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions. Made in the EU. |
-| Discogs URL    | [St Vincent - Daddy's Home](https://www.discogs.com/release/18670924-St-Vincent-Daddys-Home) |
+| Discogs URL    | [St. Vincent - Daddy's Home](https://www.discogs.com/release/18670924-St-Vincent-Daddys-Home) |

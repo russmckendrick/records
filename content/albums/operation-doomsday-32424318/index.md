@@ -34,25 +34,25 @@ Lyrically, <i>Operation: Doomsday</i> is full of clever rhyme schemes and drunke
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Time We Faced Doom (Skit) |
-| A2 | Doomsday |
-| A3 | Rhymes Like Dimes |
-| A4 | The Finest |
-| A5 | Back In The Days (Skit) |
-| B1 | Go With The Flow  |
-| B2 | Tick, Tick.. |
-| B3 | Red And Gold |
-| B4 | The Hands of Doom (Skit) |
-| B5 | Who You Think I Am? |
-| C1 | Doom, Are You Awake? (Skit) |
-| C2 | Hey! |
-| C3 | Operation: Greenbacks |
-| C4 | The Mic |
-| C5 | The Mystery Of Doom (Skit) |
-| D1 | Dead Bent |
-| D2 | Gas Drawls |
-| D3 | ? |
-| D4 | Hero Vs Villain |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

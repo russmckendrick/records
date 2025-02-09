@@ -41,31 +41,31 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Saltatio Mortis |
-| A2 | Animal Army |
-| A3 | We Can't Carry On |
-| B1 | The Dumping Of The Stupid |
-| B2 | Early Warning |
-| B3 | Tardigrades Will Inherit The Earth |
-| C1 | Window Onto The Sun |
-| C2 | Lament |
-| C3 | The Singing Fish Of Batticaloa |
-| D1 | Hallelujah |
-| D2 | The Andromeda Strain |
-| D3 | Stranger Than Fiction |
-| D4 | Jesus Thinks You're A Fuckwit |
-| CD-1 | Saltatio Mortis |
-| CD-2 | Animal Army |
-| CD-3 | We Can't Carry On |
-| CD-4 | The Dumping Of The Stupid |
-| CD-5 | Early Warning |
-| CD-6 | Tardigrades Will Inherit The Earth |
-| CD-7 | Window Onto The Sun |
-| CD-8 | Lament |
-| CD-9 | The Singing Fish Of Batticaloa |
-| CD-10 | Hallelujah |
-| CD-11 | The Andromeda Strain |
-| CD-12 | Stranger Than Fiction |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

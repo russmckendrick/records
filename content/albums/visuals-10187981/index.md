@@ -32,17 +32,17 @@ First single "85 Videos" was released together with a music video on 16 February
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Nothingness And No Regrets |
-| A2 | The Wake Of Your Life |
-| A3 | Candy Pieces All Smeared Out |
-| A4 | In A Better Place |
-| A5 | Ay Ay Ay |
-| B1 | Learn Our Crystals |
-| B2 | Twist Quest |
-| B3 | Shoulders |
-| B4 | 85 Videos |
-| B5 | Zanzibar |
-| B6 | Carry Me To Safety |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

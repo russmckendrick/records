@@ -36,15 +36,15 @@ Faith is one of the best-selling albums of all time, having sold over 25 million
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Faith |
-| A2 | Father Figure |
-|  | I Want Your Sex |
-| A4 | One More Try |
-| B1 | Hard Day |
-| B2 | Hand To Mouth |
-| B3 | Look At Your Hands |
-| B4 | Monkey |
-| B5 | Kissing A Fool |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

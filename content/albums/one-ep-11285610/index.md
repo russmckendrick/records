@@ -29,10 +29,10 @@ styles: ["Alternative Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Egg Shaped Fred |
-| A2 | Ski Jump Nose |
-| B1 | Lemonade Secret Drinker |
-| B2 | Thief |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

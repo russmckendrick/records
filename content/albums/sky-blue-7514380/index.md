@@ -26,30 +26,30 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Rejoice |
-| A2 | Fallout |
-| A3 | Midnight Sun |
-| B1 | A New Reign |
-| B2 | Universal Flame |
-| B3 | Warrior |
-| C1 | Sky Blue |
-| C2 | Silent Militia |
-| C3 | Rain City |
-| D1 | Forever |
-| D2 | Before We Die |
-| D3 | The Ones Who Love |
-| CD-1 | Rejoice |
-| CD-2 | Fallout |
-| CD-3 | Midnight Sun |
-| CD-4 | A New Reign |
-| CD-5 | Universal Flame |
-| CD-6 | Warrior |
-| CD-7 | Sky Blue |
-| CD-8 | Silent Militia |
-| CD-9 | Rain City |
-| CD-10 | Forever |
-| CD-11 | Before We Die |
-| CD-12 | The Ones Who Love |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

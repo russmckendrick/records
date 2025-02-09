@@ -1,6 +1,6 @@
 ---
-title: "Roni Size  Reprazent - New Forms"
-artist_name: "Roni Size  Reprazent"
+title: "Roni Size / Reprazent - New Forms"
+artist_name: "Roni Size / Reprazent"
 artist: "roni-size-reprazent"
 album_name: "New Forms"
 date: 2017-11-10T19:27:48.000000Z
@@ -10,8 +10,8 @@ slug: "new-forms-11115907"
 hideSummary: true
 cover:
     image: "new-forms-11115907.jpg"
-    alt: "New Forms by Roni Size  Reprazent"
-    caption: "New Forms by Roni Size  Reprazent"
+    alt: "New Forms by Roni Size / Reprazent"
+    caption: "New Forms by Roni Size / Reprazent"
 additional_images:
     - "https://i.discogs.com/qXp8ZyrX0ckePNUP1ZGGtyDWDDelOSDlhFtKiQDugw8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NTYtOTE4NC5qcGVn.jpeg"
     - "https://i.discogs.com/jvqwDfTUZb9cAqg4tbCpnfBaYX0SMeQI4M29TE8Fqzc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE1/OTA3LTE1MTE0MDYz/NjUtMTM0NS5qcGVn.jpeg"
@@ -40,20 +40,20 @@ New Forms was promoted by the release of its four singles, "Share the Fall", "He
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Railing |
-| A2 | Brown Paper Bag |
-| A3 | Heroes |
-| A4 | Matter Of Fact |
-| B1 | New Forms |
-| B2 | Digital |
-| B3 | Watching Windows |
-| C1 | Share The Fall (Full Vocal Mix) |
-| C2 | Beatbox |
-| C3 | Trust Me |
-| C4 | Destination |
-| D1 | Morse Code |
-| D2 | Lets Get It On |
-| D3 | Change My Life |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -72,4 +72,4 @@ New Forms was promoted by the release of its four singles, "Share the Fall", "He
 | Label          | UMC |
 | Catalog Number | 5773719 |
 | Notes | 20th anniversary deluxe edition.  Records housed in a gatefold jacket.  All tracks have been remastered.  Includes a download code for all tracks from the [url=https://www.discogs.com/Roni-Size-Reprazent-New-Forms/release/11152835]CD version[/url].  Track C1 samples: Flute from Luiz Arruda Paez - Upa Neguinho Vocal from Moloko - Boo Guitar from The Brand New Heavies - Brother Sister  Track C4 samples: Horns from Everything But The Girl - Each And Every One  ℗ 2017 Mercury Records Limited, a division of Universal Music Operations Limited. © 2017 Mercury Records Limited, a division of Universal Music Operations Limited. Made in the EU. - printed on cover and labels.  This differs from the one disc CD version in that 'Mad Cat' is not included, the running order is changed, and two tracks ('Trust Me' & 'Change My Life') have been included from CD 2 in the 2xCD edition. When compared to the original 4xLP version, this one has dropped 'Mat Cat' in favour of the two tracks mentioned above, as well as featuring 'Heroes' & 'Watching Windows'.  |
-| Discogs URL    | [Roni Size  Reprazent - New Forms](https://www.discogs.com/release/11115907-Roni-Size-Reprazent-New-Forms) |
+| Discogs URL    | [Roni Size / Reprazent - New Forms](https://www.discogs.com/release/11115907-Roni-Size-Reprazent-New-Forms) |

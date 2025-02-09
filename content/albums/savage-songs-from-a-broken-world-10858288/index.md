@@ -40,18 +40,18 @@ The album reached No. 2 in the UK Top 40 album charts, becoming Numan's sixth To
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Ghost Nation |
-| A2 | Bed Of Thorns |
-| A3 | My Name Is Ruin |
-| B1 | The End Of Things |
-| B2 | And It All Began With You  |
-| B3 | When The World Comes Apart |
-| C1 | Mercy |
-| C2 | What God Intended |
-| C3 | If I Said |
-| D1 | Pray For The Pain You Serve |
-| D2 | Broken |
-| D3 | Cold |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

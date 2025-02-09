@@ -31,20 +31,20 @@ styles: ["Bop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Just Friends (Take 2) |
-| A2 | Everything Happens To Me (Take 1) |
-| A3 | April In Paris (Take 2) |
-| A4 | Summertime (Take 1) |
-| A5 | Dancing In The Dark (Take 2) |
-| A6 | Laura (Take 1) |
-| A7 | They Can't Take That Away From Me (Take 1) |
-| B1 | (You Came Along From) Out Of Nowhere (Take 1) |
-| B2 | East Of The Sun (West Of The Moon) (Take 1) |
-| B3 | Easy To Love (Take 1) |
-| B4 | I'm In The Mood For Love (Take 3) |
-| B5 | I'll Remember April (Take 1) |
-| B6 | Temptation (Take 1) |
-| B7 | Stella By Starlight (Take 1) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

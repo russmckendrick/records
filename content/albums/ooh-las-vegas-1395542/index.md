@@ -40,29 +40,29 @@ The Japanese release also included the four tracks from the Four Bacharach & Dav
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Disneyworld |
-| A2 | Ronnie Spector |
-| A3 | My America |
-| A4 | Sharon |
-| A5 | Undeveloped Heart |
-| A6 | Souvenirs |
-| B1 | Born Again |
-| B2 | Down In The Flood |
-| B3 | Back Here In Beanoland |
-| B4 | Love You Say |
-| B5 | Let Your Hearts Be Troubled |
-| C1 | Gentle Teardrops |
-| C2 | Little Lincoln |
-| C3 | That Country (Beneath Your Skin) |
-| C4 | Is It Cold Beneath The Hill? |
-| C5 | Circus Lights |
-| C6 | Trampolene |
-| D1 | Las Vegas |
-| D2 | Killing The Blues |
-| D3 | Long Window To Love |
-| D4 | Christine |
-| D5 | Take Me To This Place |
-| D6 | Don't Let The Teardrops Start |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

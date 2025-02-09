@@ -37,26 +37,26 @@ Like <I>Paul’s Boutique</I>, <I>Check Your Head</I> flowed like a mixtape, but
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Jimmy James |
-| A2 | Funky Boss |
-| A3 | Pass The Mic |
-| A4 | Gratitude |
-| A5 | Lighten Up |
-| B1 | Finger Lickin' Good |
-| B2 | So What'cha Want |
-| B3 | The Biz Vs The Nuge |
-| B4 | Time For Livin' |
-| B5 | Something's Got To Give |
-| C1 | The Blue Nun |
-| C2 | Stand Together |
-| C3 | Pow |
-| C4 | The Maestro |
-| C5 | Groove Holmes |
-| D1 | Live At P.J.'s |
-| D2 | Mark On The Bus |
-| D3 | Professor Booty |
-| D4 | In 3's |
-| D5 | Namasté |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

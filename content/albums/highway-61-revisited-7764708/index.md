@@ -36,15 +36,15 @@ As controversial as it may have been to some, Dylan’s electric pivot on all of
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Like A Rolling Stone |
-| A2 | Tombstone Blues |
-| A3 | It Takes A Lot To Laugh, It Takes A Train To Cry |
-| A4 | From A Buick 6 |
-| A5 | Ballad Of A Thin Man |
-| B1 | Queen Jane Approximately |
-| B2 | Highway 61 Revisited |
-| B3 | Just Like Tom Thumb's Blues |
-| B4 | Desolation Row |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

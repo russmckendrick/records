@@ -45,27 +45,27 @@ styles: ["Lo-Fi", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Under The Western Freeway |
-| A1 | Nonphenomenal Lineage  |
-| A2 | A.M. 180 |
-| A3 | Collective Dreamwish Of Upperclass Elegance |
-| A4 | Summer Here Kids |
-| A5 | Laughing Stock |
-| A6 | Under The Western Freeway |
-| B7 | Everything Beautiful Is Far Away |
-| B8 | Poisoned At Hartsy Thai Food |
-| B9 | Go Progress Chrome |
-| B10 | Why Took Your Advice |
-| B11 | Lawn & So On |
-|  | Unreleased 1997 Demos |
-| C1 | Hawaiian Island Wranglers |
-| C2 | For The Dishwashers (Slow Demo) |
-| C3 | Dying Brains (Early Demo) |
-| C4 | Summer Here Kids (Early Demo) |
-| D5 | Le Symphonique D'HeeHaw |
-| D6 | Street Bunny (Fluffy Distortion Demo) |
-| D7 | Bjork ELO Xanadu & The Birth Of Chartsengrafs |
-| D8 | Laughing Stock (Revelation Demo) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

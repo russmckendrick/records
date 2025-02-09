@@ -35,20 +35,20 @@ The multigenre album incorporates diverse stylistic influences, including soul, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Homebreakers |
-| A2 | All Gone Away |
-| A3 | Come To Milton Keynes |
-| A4 | Internationalists |
-| A5 | A Stones Throw Away |
-| A6 | The Stand Up Comic's Instructions |
-| A7 | Boy Who Cried Wolf (Album Version) |
-| B1 | A Man Of Great Promise |
-| B2 | Down In The Seine |
-| B3 | The Lodgers (Or She Was Only A Shopkeeper's Daughter) (Album Version) |
-| B4 | Luck |
-| B5 | With Everything To Lose |
-| B6 | Our Favourite Shop |
-| B7 | Walls Come Tumbling Down |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

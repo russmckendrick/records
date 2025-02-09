@@ -1,7 +1,7 @@
 ---
-title: "ACDC - Back In Black"
-artist_name: "ACDC"
-artist: "acdc"
+title: "AC/DC - Back In Black"
+artist_name: "AC/DC"
+artist: "ac-dc"
 album_name: "Back In Black"
 date: 2024-03-16T02:33:17.000000Z
 release_date: "1980-07-25"
@@ -10,8 +10,8 @@ slug: "back-in-black-30104018"
 hideSummary: true
 cover:
     image: "back-in-black-30104018.jpg"
-    alt: "Back In Black by ACDC"
-    caption: "Back In Black by ACDC"
+    alt: "Back In Black by AC/DC"
+    caption: "Back In Black by AC/DC"
 additional_images:
     - "https://i.discogs.com/rielCZfbKQEzqL7nL-0PWO0GHVxKRoLH5Aa75-P1PDQ/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTA0/MDE4LTE3MTUwMTMw/MDktNTAyMy5qcGVn.jpeg"
     - "https://i.discogs.com/MUbR7gzGskF0NHxff8VoTilH-PN4cJtSJ-4JlQxsVs0/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTA0/MDE4LTE3MTUwMTMw/MDgtMTgyNy5qcGVn.jpeg"
@@ -58,16 +58,16 @@ Back in Black was an unprecedented commercial and critical success. It has sold 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hells Bells |
-| A2 | Shoot To Thrill |
-| A3 | What Do You Do For Money Honey |
-| A4 | Givin The Dog A Bone |
-| A5 | Let Me Put My Love Into You |
-| B1 | Back In Black |
-| B2 | You Shook Me All Night Long |
-| B3 | Have A Drink On Me |
-| B4 | Shake A Leg |
-| B5 | Rock And Roll Ain't Noise Pollution |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -86,4 +86,4 @@ Back in Black was an unprecedented commercial and critical success. It has sold 
 | Label          | Columbia |
 | Catalog Number | 19658834541 |
 | Notes | 50th Anniversary special edition as 180 gram gold nugget vinyl.  Comes with a printed inner sleeve and includes a print (30x30 cm) with brand new AC/DC anniversary artwork.  There are two hype stickers on the outer film on the front. Band logo and album title are embossed on the front of matte cover.   The Amazon exclusive limited edition version of this release comes with a slipmat featuring AC/DC 50th anniversary artwork.  The record and the slipmat are packed in a resealable foil bag. A different barcode sticker is applied to the outer film on the back of the LP over the original barcode.  [Printed on rectangular hypsticker:] 50th Anniversary Special Edition Gold Coloured Vinyl Includes Unique Insert And Custom Labels  [Printed on inner sleeve:] Thanks to Keith Evans and Plug Usher for their help in the studio and to the rest of the AC/DC road crew: Ian, Jake, Mike and Terry. Thanks also to Benji. Special thanks to Phil Carson and all the people at Atlantic Records and WEA International. Originally released as [url=https://www.discogs.com/ACDC-Back-In-Black/release/6788772]Atlantic 16018[/url] on July 25, 1980  [Printed on back cover:] © 1980, 2003 Leidseplein Presse B.V. / ℗ 1980 Leidseplein Presse B.V. Made in the EU.  [Printed on artwork:] Reverse side photo by Michael Putland archive. 1965883454111  [Printed on label side B:] © 1980, 2024 Leidseplein Presse B.V.  Runouts are etched. Pressing plant identified based on the runout areas.  A1 in the runout field = A₁ in the vinyl runout. B1 in the runout field = B₁ in the vinyl runout.  [Additional information about the faintly inscribed geometric marks:] In the runouts "7 1 -", "6 T +", "6 Λ T", "7 + +", "7 = T" and "6 Λ △" are mirrored. |
-| Discogs URL    | [ACDC - Back In Black](https://www.discogs.com/release/30104018-ACDC-Back-In-Black) |
+| Discogs URL    | [AC/DC - Back In Black](https://www.discogs.com/release/30104018-ACDC-Back-In-Black) |

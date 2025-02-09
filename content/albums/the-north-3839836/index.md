@@ -37,18 +37,18 @@ The album's cover shows the Habitat 67 complex, an experimental housing developm
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Theory Of Relativity |
-| A2 | Backlines |
-| A3 | The North |
-| A4 | Hold On When You Get Love And Let Go When You Give It |
-| A5 | Through The Mines |
-| A6 | Do You Want To Die Together? |
-| B1 | Lights Changing Colour |
-| B2 | The Loose Ends Will Make Knots |
-| B3 | A Song Is A Weapon |
-| B4 | Progress |
-| B5 | The 400 |
-| B6 | Walls |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

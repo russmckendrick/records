@@ -54,44 +54,44 @@ Bush worked with session musicians who had worked with groups such as Pilot, The
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Hounds Of Love |
-| A1 | Running Up That Hill (A Deal With God) |
-| A2 | Hounds Of Love |
-| A3 | The Big Sky (7" Mix) |
-| A4 | Mother Stands For Comfort |
-| A5 | Cloudbusting |
-|  | The Ninth Wave |
-| B1 | And Dream Of Sheep |
-| B2 | Under Ice |
-| B3 | Waking The Witch |
-| B4 | Watching You Without Me |
-| B5 | Jig Of Life |
-| B6 | Hello Earth |
-| B7 | The Morning Fog |
-|  | The Sensual World |
-| C1 | The Sensual World |
-| C2 | Love And Anger |
-| C3 | The Fog |
-| C4 | Reaching Out |
-| C5 | Heads We're Dancing |
-| D1 | Deeper Understanding |
-| D2 | Between A Man And A Woman |
-| D3 | Never Be Mine |
-| D4 | Rocket's Tail |
-| D5 | This Woman's Work |
-|  | The Red Shoes |
-| E1 | Rubberband Girl |
-| E2 | And So Is Love |
-| E3 | Eat The Music |
-| F1 | Moments Of Pleasure |
-| F2 | The Song Of Solomon |
-| F3 | Lily |
-| G1 | The Red Shoes |
-| G2 | Top Of The City |
-| G3 | Constellation Of The Heart |
-| H1 | Big Stripey Lie |
-| H2 | Why Should I Love You? |
-| H3 | You're The One |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

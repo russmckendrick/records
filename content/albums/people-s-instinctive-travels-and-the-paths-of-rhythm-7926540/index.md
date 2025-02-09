@@ -36,24 +36,24 @@ People's Instinctive Travels and the Paths of Rhythm was met with acclaim from p
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Push It Along |
-| A2 | Luck Of Lucien |
-| A3 | After Hours |
-| A4 | Footprints |
-| B1 | I Left My Wallet In El Segundo |
-| B2 | Pubic Enemy |
-| B3 | Bonita Applebum |
-| B4 | Can I Kick It? |
-| B5 | Youthful Expression |
-| C1 | Rhythm (Devoted To The Art Of Moving Butts) |
-| C2 | Mr. Muhammad |
-| C3 | Ham 'N' Eggs |
-| C4 | Go Ahead In The Rain |
-| D1 | Description Of A Fool |
-|  | Bonus Tracks |
-| D2 | Footprints (Remix) |
-| D3 | Bonita Applebum (Pharrell Williams Remix) |
-| D4 | Can I Kick It? (J. Cole Remix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

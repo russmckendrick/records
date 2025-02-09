@@ -35,16 +35,16 @@ Preceded by the single "This Town Ain't Big Enough for Both of Us", Kimono My Ho
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | This Town Ain't Big Enough For Both Of Us |
-| A2 | Amateur Hour |
-| A3 | Falling In Love With Myself Again |
-| A4 | Here In Heaven |
-| A5 | Thank God It's Not Christmas |
-| B1 | Hasta Mañana, Monsieur |
-| B2 | Talent Is An Asset |
-| B3 | Complaints |
-| B4 | In My Family |
-| B5 | Equator |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

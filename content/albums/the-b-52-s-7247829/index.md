@@ -1,7 +1,7 @@
 ---
-title: "The B-52s - The B-52's"
-artist_name: "The B-52s"
-artist: "the-b-52s"
+title: "The B-52's - The B-52's"
+artist_name: "The B-52's"
+artist: "the-b-52-s"
 album_name: "The B-52's"
 date: 2016-09-14T17:01:12.000000Z
 release_date: "1990-01-01"
@@ -10,8 +10,8 @@ slug: "the-b-52-s-7247829"
 hideSummary: true
 cover:
     image: "the-b-52-s-7247829.jpg"
-    alt: "The B-52's by The B-52s"
-    caption: "The B-52's by The B-52s"
+    alt: "The B-52's by The B-52's"
+    caption: "The B-52's by The B-52's"
 additional_images:
     - "https://i.discogs.com/UVvINu46gTC4sCg687R_TTU_lUTO9cR0z1pAsxmZLig/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDc4/MjktMTU3MDM5NTM5/Ny0yMDE4LmpwZWc.jpeg"
     - "https://i.discogs.com/QXtdMf0mgesml1W2KV7ukuYCEPnn7Jut3M8NT28ScBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDc4/MjktMTU3MDM5MTE4/MC04OTg5LmpwZWc.jpeg"
@@ -35,15 +35,15 @@ The B-52's peaked at number 59 on the Billboard 200, and "Rock Lobster" reached 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Planet Claire |
-| A2 | 52 Girls |
-| A3 | Dance This Mess Around |
-| A4 | Rock Lobster |
-| B1 | Lava |
-| B2 | There's A Moon In The Sky (Called The Moon) |
-| B3 | Hero Worship |
-| B4 | 6060-842 |
-| B5 | Downtown |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -62,4 +62,4 @@ The B-52's peaked at number 59 on the Billboard 200, and "Rock Lobster" reached 
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP1420 |
 | Notes | Black vinyl. Insert with lyric included. |
-| Discogs URL    | [The B-52s - The B-52's](https://www.discogs.com/release/7247829-The-B-52s-The-B-52s) |
+| Discogs URL    | [The B-52's - The B-52's](https://www.discogs.com/release/7247829-The-B-52s-The-B-52s) |

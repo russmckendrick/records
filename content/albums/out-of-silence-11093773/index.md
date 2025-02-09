@@ -36,16 +36,16 @@ Neil Finn took an unorthodox route to <i>Out of Silence</i>. Over four consecuti
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Love Is Emotional |
-| A2 | More Than One Of You |
-| A3 | Chameleon Days |
-| A4 | Independence Day |
-| A5 | Alone |
-| B1 | Widow's Peak |
-| B2 | Second Nature |
-| B3 | The Law Is Always On Your Side |
-| B4 | Terrorise Me |
-| B5 | I Know Different |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

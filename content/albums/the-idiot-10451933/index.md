@@ -38,14 +38,14 @@ Pop supported The Idiot with a tour in March and April 1977, with Bowie as his k
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Sister Midnight |
-| A2 | Nightclubbing |
-| A3 | Funtime |
-| A4 | Baby |
-| A5 | China Girl |
-| B1 | Dum Dum Boys |
-| B2 | Tiny Girls |
-| B3 | Mass Production |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

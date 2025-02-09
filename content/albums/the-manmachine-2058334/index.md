@@ -39,12 +39,12 @@ styles: ["Electro", "Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Robots |
-| A2 | Spacelab |
-| A3 | Metropolis |
-| B1 | The Model |
-| B2 | Neon Lights |
-| B3 | The Man•Machine |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -32,14 +32,14 @@ Even at her artiest, Smith doesn’t flinch or distance herself with irony, turn
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Gloria |
-| A2 | Redondo Beach |
-| A3 | Birdland |
-| A4 | Free Money |
-| B1 | Kimberly |
-| B2 | Break It Up |
-|  | Land |
-| B4 | Elegie |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -36,19 +36,19 @@ Inflammable Material is the debut album by the Northern Irish punk band Stiff Li
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Suspect Device |
-| A2 | State Of Emergency |
-| A3 | Here We Are Nowhere |
-| A4 | Wasted Life |
-| A5 | No More Of That |
-| A6 | Barbed Wire Love |
-| A7 | White Noise |
-| A8 | Breakout |
-| B1 | Law And Order |
-| B2 | Rough Trade |
-| B3 | Johnny Was |
-| B4 | Alternative Ulster |
-| B5 | Closed Groove |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

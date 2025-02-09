@@ -68,34 +68,34 @@ Moving Pictures received a positive reception from contemporary and retrospectiv
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Moving Pictures |
-| A1 | Tom Sawyer |
-| A2 | Red Barchetta |
-| A3 | YYZ |
-| A4 | Limelight |
-| B1 | The Camera Eye |
-| B2 | Witch Hunt |
-| B3 | Vital Signs |
-|  | Live in YYZ 1981 |
-| C1 | 2112 - Overture |
-| C2 | 2112 - The Temples Of Syrinx |
-| C3 | Freewill |
-| C4 | Limelight |
-| D1 | Cygnus X-1 Book II: Hemispheres - Prelude |
-| D2 | Beneath, Between & Behind |
-| D3 | The Camera Eye |
-| E1 | YYZ |
-| E2 | Broon's Bane |
-| E3 | The Trees |
-| F1 | Xanadu |
-| F2 | The Spirit Of Radio |
-| G1 | Red Barchetta |
-| G2 | Closer To The Heart |
-| G3 | Tom Sawyer |
-| H1 | Vital Signs |
-| H2 | Natural Science |
-|  | I - Working Man / Cygnus X-1 Book II: Hemispheres – Armageddon: The Battle Of Heart And Mind / By-Tor & The Snow Dog / In The End / In The Mood / 2112 – Grand Finale |
-| J | La Villa Strangiato |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -56,24 +56,24 @@ Narrowing down a career this vast and expansive is asking for trouble — or at 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Beautiful Day |
-| A2 | I Still Haven't Found What I'm Looking For |
-| A3 | Pride (In The Name Of Love) |
-| A4 | With Or Without You |
-| B1 | Vertigo |
-| B2 | New Year's Day |
-| B3 | Mysterious Ways |
-| B4 | Stuck In A Moment You Can't Get Out Of |
-| C1 | Where The Streets Have No Name |
-| C2 | Sweetest Thing |
-| C3 | Sunday Bloody Sunday |
-| C4 | One |
-| C5 | Desire |
-| D1 | Walk On |
-| D2 | Elevation |
-| D3 | Sometimes You Can't Make It On Your Own |
-| D4 | The Saints Are Coming |
-| D5 | Window In The Skies |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -42,22 +42,22 @@ Wayne's adaptation has spawned multiple versions including video games, DVDs, an
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | The Coming Of The Martians |
-| A1 | The Eve Of The War |
-| A2 | Horsell Common And The Heat Ray |
-| B1 | The Artilleryman And The Fighting Machine |
-| B2 | Forever Autumn |
-| B3 | Thunderchild |
-|  | The Earth Under The Martians |
-| C1 | The Red Weed (Part 1) |
-| C2 | The Spirit Of Man |
-| C3 | The Red Weed (Part 2) |
-| C4 | The Artilleryman Returns |
-| D1 | Brave New World |
-| D2 | Dead London (Part 1) |
-| D3 | Dead London (Part 2) |
-| D4 | Epilogue (Part 1) |
-| D5 | Epilogue (Part 2) (NASA) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -34,17 +34,17 @@ Music critics gave Nu-Clear Sounds mixed reviews; some complimented the musician
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Projects |
-| A2 | Low Ebb |
-| A3 | Jesus Says |
-| A4 | Wildsurf |
-| A5 | Death Trip 21 |
-| B6 | Folk Song |
-| B7 | Numbskull |
-| B8 | Burn Out |
-| B9 | Aphrodite |
-| B10 | Fortune Teller |
-| B11 | I'm Gonna Fall |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

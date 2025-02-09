@@ -1,7 +1,7 @@
 ---
-title: "ACDC - Who Made Who"
-artist_name: "ACDC"
-artist: "acdc"
+title: "AC/DC - Who Made Who"
+artist_name: "AC/DC"
+artist: "ac-dc"
 album_name: "Who Made Who"
 date: 2024-03-15T06:44:08.000000Z
 release_date: "1986-05-24"
@@ -10,8 +10,8 @@ slug: "who-made-who-30095942"
 hideSummary: true
 cover:
     image: "who-made-who-30095942.jpg"
-    alt: "Who Made Who by ACDC"
-    caption: "Who Made Who by ACDC"
+    alt: "Who Made Who by AC/DC"
+    caption: "Who Made Who by AC/DC"
 additional_images:
     - "https://i.discogs.com/1_72QFDK92t8aWLXUckbodMlWJwyX0N3wvcQYJqMR_s/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk1/OTQyLTE3MTQwMTcx/NzItMTEwNy5qcGVn.jpeg"
     - "https://i.discogs.com/-F0PbQaInyGRW6qvec2PkIVFjcur5jcdnvjfV07XmPQ/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDk1/OTQyLTE3MTA2NTcz/NzItMjYzNy5qcGVn.jpeg"
@@ -51,15 +51,15 @@ Until the 2010 <I>Iron Man 2</I> soundtrack, this was closest thing that AC/DC e
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Who Made Who |
-| A2 | You Shook Me All Night Long |
-| A3 | D.T. |
-| A4 | Sink The Pink |
-| A5 | Ride On |
-| B1 | Hells Bells |
-| B2 | Shake Your Foundations |
-| B3 | Chase The Ace |
-| B4 | For Those About To Rock (We Salute You) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -78,4 +78,4 @@ Until the 2010 <I>Iron Man 2</I> soundtrack, this was closest thing that AC/DC e
 | Label          | Columbia |
 | Catalog Number | 19658834621 |
 | Notes | 50th Anniversary special edition as 180 gram gold nugget vinyl. Comes with a printed inner sleeve and includes a print (30x30 cm) with brand new AC/DC anniversary artwork. There are two hype stickers on the outer film on the front.  The Amazon exclusive limited edition version of this release comes with a slipmat featuring AC/DC 50th anniversary artwork. The record and the slipmat are packed in a resealable foil bag. A different barcode sticker is applied to the outer film on the back of the LP over the original barcode.  [Printed on rectangular hypsticker:] 50th Anniversary Special Edition  Gold Coloured Vinyl  Includes Unique Insert  And Custom Labels  [Printed on back cover:] Remastered from the original master tapes by George Marino at Sterling Sound. © 1986, 2003 Leidseplein Presse B.V. / ℗ 1976 J. Albert & Son Pty. Ltd., 1980, 1981, 1985, 1986  Leidseplein Presse B.V. Made in the EU.  [Printed on label side B:] © 1986, 2024 Leidseplein Presse B.V.  [Printed on artwork:] Reverse side photo by Michael Putland archive. 19658834621-11  Runouts are etched. Pressing plant identified based on the runout areas.  A1 in the runout field = A₁ in the vinyl runout. B1 in the runout field = B₁ in the vinyl runout.  [Additional information about the faintly inscribed geometric marks:] In the runouts "3 = x" and "2 V" are mirrored.  |
-| Discogs URL    | [ACDC - Who Made Who](https://www.discogs.com/release/30095942-ACDC-Who-Made-Who) |
+| Discogs URL    | [AC/DC - Who Made Who](https://www.discogs.com/release/30095942-ACDC-Who-Made-Who) |

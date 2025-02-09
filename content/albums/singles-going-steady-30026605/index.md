@@ -35,22 +35,22 @@ The band never locked in better than on “Ever Fallen In Love (With Someone You
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Orgasm Addict |
-| A2 | What Do I Get? |
-| A3 | I Don't Mind |
-| A4 | Love You More |
-| A5 | Ever Fallen In Love? |
-| A6 | Promises |
-| A7 | Everybody's Happy Nowadays |
-| A8 | Harmony In My Head |
-| B1 | What Ever Happened To? |
-| B2 | Oh Shit! |
-| B3 | Autonomy |
-| B4 | Noise Annoys |
-| B5 | Just Lust |
-| B6 | Lipstick |
-| B7 | Why Can't I Touch It? |
-| B8 | Something's Gone Wrong Again |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

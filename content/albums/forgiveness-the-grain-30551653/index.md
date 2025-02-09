@@ -32,14 +32,14 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Chapter X : Whereupon I Immediately Did Nothing |
-| A2 | 3 Syllables |
-| A3 | Luminous Target |
-| A4 | R U The Future?? |
-| A5 | Fractal |
-| B1 | Casino |
-| B2 | The Japanese No |
-| B3 | Seventy Six |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -34,15 +34,15 @@ Animalize is the twelfth studio album by American rock band Kiss. It was release
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I've Had Enough (Into The Fire) |
-| A2 | Heaven's On Fire |
-| A3 | Burn Bitch Burn |
-| A4 | Get All You Can Take |
-| A5 | Lonely Is The Hunter |
-| B1 | Under The Gun |
-| B2 | Thrills In The Night |
-| B3 | While The City Sleeps |
-| B4 | Murder In High Heels |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

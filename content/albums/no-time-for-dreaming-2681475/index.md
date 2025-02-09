@@ -34,18 +34,18 @@ No Time for Dreaming is the debut studio album by American soul singer Charles B
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The World (Is Going Up In Flames) |
-| A2 | The Telephone Song |
-| A3 | Golden Rule |
-| A4 | I Believe In Your Love |
-| A5 | Trouble In The Land |
-| A6 | Lovin' You, Baby |
-| B1 | No Time For Dreaming |
-| B2 | How Long |
-| B3 | In You (I Found A Love) |
-| B4 | Why Is It So Hard |
-| B5 | Since Our Last Goodbye |
-| B6 | Heartaches And Pain |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -35,26 +35,26 @@ styles: ["Synth-pop", "Indie Rock", "Alternative Rock", "Techno", "Dub Techno", 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Anytime Anyplace Anywhere |
-| A2 | Pray |
-| A3 | Spirit |
-| A4 | Fishes Eyes |
-| A5 | Phobia |
-| B1 | Listen |
-| B2 | Magic |
-| B3 | Moody 'Live' |
-| B4 | I Wanna Talk Like Iggy Pop |
-| B5 | Get Higher |
-| C1 | Then |
-| C2 | God Knows It's True |
-| C3 | Half Life, Remembered |
-| C4 | Cry-Blood (Dub) |
-| C5 | Oxygen Reprise V2.0 |
-| D1 | Tragedy >For You< |
-| D2 | Kaleidoscope |
-| D3 | Decadence |
-| D4 | Birdbrain |
-| D5 | Dig For Fire |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

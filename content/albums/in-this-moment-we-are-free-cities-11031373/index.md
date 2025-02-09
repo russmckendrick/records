@@ -1,6 +1,6 @@
 ---
-title: "Vuur - In This Moment We Are Free - Cities"
-artist_name: "Vuur"
+title: "Vuur (2) - In This Moment We Are Free - Cities"
+artist_name: "Vuur (2)"
 artist: "vuur"
 album_name: "In This Moment We Are Free - Cities"
 date: 2017-10-21T15:09:36.000000Z
@@ -10,8 +10,8 @@ slug: "in-this-moment-we-are-free-cities-11031373"
 hideSummary: true
 cover:
     image: "in-this-moment-we-are-free-cities-11031373.jpg"
-    alt: "In This Moment We Are Free - Cities by Vuur"
-    caption: "In This Moment We Are Free - Cities by Vuur"
+    alt: "In This Moment We Are Free - Cities by Vuur (2)"
+    caption: "In This Moment We Are Free - Cities by Vuur (2)"
 additional_images:
     - "https://i.discogs.com/JL4MV0nUlVU0obSwKCTBROumtEnXmgkTx-N869pIhc8/rs:fit/g:sm/q:90/h:561/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/MTctMTgxNi5qcGVn.jpeg"
     - "https://i.discogs.com/xJkdg3vw4a966Ee_bbVjSLLZhuujfQu5saa-35GN5SE/rs:fit/g:sm/q:90/h:556/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDMx/MzczLTE1MTI0MDMx/MjItODk1Mi5qcGVn.jpeg"
@@ -35,28 +35,28 @@ styles: ["Progressive Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | My Champion - Berlin |
-| A2 | Time - Rotterdam |
-| A3 | The Martyr And The Saint - Beirut |
-| B1 | The Fire - San Francisco |
-| B2 | Freedom - Rio |
-| B3 | Days Go By - London |
-| B4 | Sail Away - Santiago |
-| C1 | Valley Of Diamonds - Mexico City |
-| C2 | Your Glorious Light Will Shine - Helsinki |
-| C3 | Save Me - Istanbul |
-| C4 | Reunite! - Paris |
-| CD1 | My Champion - Berlin |
-| CD2 | Time - Rotterdam |
-| CD3 | The Martyr And The Saint - Beirut |
-| CD4 | The Fire - San Francisco |
-| CD5 | Freedom - Rio |
-| CD6 | Days Go By - London |
-| CD7 | Sail Away - Santiago |
-| CD8 | Valley Of Diamonds - Mexico City |
-| CD9 | Your Glorious Light Will Shine - Helsinki |
-| CD10 | Save Me - Istanbul |
-| CD11 | Reunite! - Paris |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -74,4 +74,4 @@ styles: ["Progressive Metal"]
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 491 |
 | Notes | Released through the webshop of VUUR. Pre-ordered copies are signed by Anneke. |
-| Discogs URL    | [Vuur - In This Moment We Are Free - Cities](https://www.discogs.com/release/11031373-Vuur-2-In-This-Moment-We-Are-Free-Cities) |
+| Discogs URL    | [Vuur (2) - In This Moment We Are Free - Cities](https://www.discogs.com/release/11031373-Vuur-2-In-This-Moment-We-Are-Free-Cities) |

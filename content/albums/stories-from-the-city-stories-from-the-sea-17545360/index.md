@@ -40,18 +40,18 @@ The album became the second major commercial success of her recording career, fo
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Big Exit |
-| A2 | Good Fortune |
-| A3 | A Place Called Home |
-| A4 | One Line |
-| A5 | Beautiful Feeling |
-| A6 | The Whores Hustle And The Hustlers Whore |
-| B1 | This Mess We're In |
-| B2 | You Said Something |
-| B3 | Kamikaze |
-| B4 | This Is Love |
-| B5 | Horses In My Dreams |
-| B6 | We Float |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

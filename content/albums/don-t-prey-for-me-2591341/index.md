@@ -32,18 +32,18 @@ styles: ["Hard Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Do You Wanna Riot |
-| A2 | Kick Hard |
-| A3 | Big Bad World |
-| A4 | Kicking Up Dust |
-| A5 | Don't Pray For Me |
-| A6 | Radical Your Lover |
-| B1 | Broken Wings Of An Angel |
-| B2 | Bitter & Twisted |
-| B3 | Promises |
-| B4 | When I Get Out Of Here |
-| B5 | No Solution |
-| B6 | She's A Little Angel |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

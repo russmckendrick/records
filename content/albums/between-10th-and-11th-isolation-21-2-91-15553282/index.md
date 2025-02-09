@@ -32,26 +32,26 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Between 10th And 11th |
-| A1 | I Don't Want To See The Sights |
-| A2 | Ignition |
-| A3 | Page One |
-| A4 | Tremelo Song |
-| A5 | The End Of Everything |
-| B1 | Subtitle |
-| B2 | Can't Even Be Bothered |
-| B3 | Weirdo |
-| B4 | Chewing Gum Weekend |
-| B5 | (No One) Not Even The Rain |
-|  | Isolation 21.2.91 Live At Chicago Metro |
-| C1 | Imperial 109 |
-| C2 | The Only One I Know |
-| C3 | Then |
-| C4 | Happen To Die |
-| C5 | White Shirt |
-| D1 | Indian Rope |
-| D2 | Opportunity |
-| D3 | Sproston Green |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

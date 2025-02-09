@@ -42,19 +42,19 @@ The album was produced by Sean Lakeman.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Food Roof Family |
-| A2 | Generation Fear |
-| A3 | Four Boys Lost |
-| A4 | Burning Hate Like Fire |
-| A5 | Born That Way |
-| A6 | Our New Day |
-| B1 | Calling Out |
-| B2 | Ghosts In The Water |
-| B3 | The Men Who Would Be King |
-| B4 | Albion + Phoenix |
-| B5 | Our Future |
-| C | Food Roof Family (Live In The Studio) |
-| D | Our New Day (Live In The Studio) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

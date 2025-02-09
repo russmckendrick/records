@@ -32,15 +32,15 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | For The Music |
-| A2 | After All |
-| A3 | Garden Of Sin |
-| A4 | Under My Skin |
-| B1 | Over And Over |
-| B2 | Falling |
-| B3 | White Nights |
-| B4 | Summer's Gone |
-| B5 | It's So Hard |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

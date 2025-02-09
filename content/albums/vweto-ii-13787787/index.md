@@ -29,22 +29,22 @@ styles: ["Instrumental", "Funk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Almost Trendy |
-| A2 | Bass Attack Bap |
-| A3 | Big Mama Africa Jam |
-| A4 | Brokenfolks |
-| A5 | Bronx Skates |
-| A6 | CV Jam Number 2 |
-| A7 | Emo Blues |
-| A8 | Das Funk |
-| B1 | Gettin It |
-| B2 | Mary Lou's Motherboard |
-| B3 | Nate Dogg's Eulogy |
-| B4 | Old School Fonk |
-| B5 | Something Fun |
-| B6 | When The Fonk Radiates |
-| B7 | Wu Punk |
-| B8 | Yoyo Ma Fonk |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

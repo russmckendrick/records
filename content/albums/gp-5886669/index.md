@@ -34,17 +34,17 @@ GP is American singer-songwriter Gram Parsons' debut solo album, and the only on
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Still Feeling Blue |
-| A2 | We'll Sweep Out The Ashes In The Morning |
-| A3 | A Song For You |
-| A4 | Streets Of Baltimore |
-| A5 | She |
-| B1 | That's All It Took |
-| B2 | The New Soft Shoe |
-| B3 | Kiss The Children |
-| B4 | Cry One More Time |
-| B5 | How Much I've Lied |
-| B6 | Big Mouth Blues |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

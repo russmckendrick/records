@@ -33,8 +33,8 @@ Commercially, the album chart entries were concentrated in Europe. Upon release,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | Temptation |
-| B | Hurt |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -1,6 +1,6 @@
 ---
-title: "Steve Harley  Cockney Rebel - The Best Years Of Our Lives"
-artist_name: "Steve Harley  Cockney Rebel"
+title: "Steve Harley & Cockney Rebel - The Best Years Of Our Lives"
+artist_name: "Steve Harley & Cockney Rebel"
 artist: "steve-harley-cockney-rebel"
 album_name: "The Best Years Of Our Lives"
 date: 2021-04-17T01:25:05.000000Z
@@ -10,8 +10,8 @@ slug: "the-best-years-of-our-lives-18332692"
 hideSummary: true
 cover:
     image: "the-best-years-of-our-lives-18332692.jpg"
-    alt: "The Best Years Of Our Lives by Steve Harley  Cockney Rebel"
-    caption: "The Best Years Of Our Lives by Steve Harley  Cockney Rebel"
+    alt: "The Best Years Of Our Lives by Steve Harley & Cockney Rebel"
+    caption: "The Best Years Of Our Lives by Steve Harley & Cockney Rebel"
 additional_images:
     - "https://i.discogs.com/FF-74nCqhGKL69YtCE114SsygcfeNfrTUBrb45DeW8M/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzMy/NjkyLTE2MTg2NDM5/MjAtMjQzNS5qcGVn.jpeg"
     - "https://i.discogs.com/jWpbq2vmdSTbQziHDW6OIz48Q37c2ZcH1M8DeXwkbYU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MzMy/NjkyLTE2MTg2NDM5/MjUtNjcwMy5qcGVn.jpeg"
@@ -37,21 +37,21 @@ The Best Years of Our Lives is the third studio album by Steve Harley & Cockney 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Introducing "The Best Years" |
-| A2 | The Mad, Mad Moonlight |
-| A3 | Mr Raffles (Man,It Was Mean) |
-| A4 | It Wasn't Me |
-| A5 | Panorama |
-| B1 | Make Me Smile (Come Up And See Me) |
-| B2 | Back To The Farm |
-| B3 | 49th Parallel |
-| B4 | The Best Years Of Our Lives |
-| C1 | Make Me Smile (Come Up And See Me) [Rough Mix] |
-| C2 | Another Journey |
-| C3 | The Best Years Of Our Lives (Acoustic) |
-| C4 | Mr Raffles (Man,It Was Mean) [Single Version] |
-| D1 | The Mad, Mad Moonlight (Live At Hammersmith Odeon 14/4/75) |
-| D2 | Sebastian (Live At Hammersmith Odeon 14/4/75) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -70,4 +70,4 @@ The Best Years of Our Lives is the third studio album by Steve Harley & Cockney 
 | Label          | Chrysalis Catalogue |
 | Catalog Number | CRVX1383 |
 | Notes | ℗ 2020 ... in this compilation is owned by Chrysalis Records Limited © 2020 Chrysalis Records Limited Made in the UK  Some copies have a post production sticker on the shrinkwrap 'STEVE HARLEY & COCKNEY REBEL "The Best Years of Our Lives" 45th Anniversary Expanded Edition 2LP Orange & Blue Vinyl'  Credits on the inner sleeve say "2020 Reissue" although released in 2021  The blue inner sleeve credits misspelt "Steve Harley" as "Steve Harkey"  2020 Reissue Mastering / Lacquers: Alchemy Mastering "The best Years of Our Lives" was originally released in March 1975 [EMI Records, EMC 3068]   Produced by Steve Harley and Alan Parsons Engineered and Mixed by Alan Parsons. Except track 11 produced by Steve Harley.  Recorded and mixed at EMI Studios, Abbey Road and AIR studios, London [November/December 1974] |
-| Discogs URL    | [Steve Harley  Cockney Rebel - The Best Years Of Our Lives](https://www.discogs.com/release/18332692-Steve-Harley-Cockney-Rebel-The-Best-Years-Of-Our-Lives) |
+| Discogs URL    | [Steve Harley & Cockney Rebel - The Best Years Of Our Lives](https://www.discogs.com/release/18332692-Steve-Harley-Cockney-Rebel-The-Best-Years-Of-Our-Lives) |

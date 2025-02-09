@@ -36,16 +36,16 @@ In hindsight, the album was an anomaly. But it also served as a kind of cleansin
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Sing This All Together |
-| A2 | Citadel |
-| A3 | In Another Land |
-| A4 | 2000 Man |
-| A5 | Sing This All Together (See What Happens) |
-| B1 | She's A Rainbow |
-| B2 | The Lantern |
-| B3 | Gomper |
-| B4 | 2000 Light Years From Home |
-| B5 | On With The Show |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

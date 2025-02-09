@@ -1,6 +1,6 @@
 ---
-title: "Henge - Alpha Test 4"
-artist_name: "Henge"
+title: "Henge (3) - Alpha Test 4"
+artist_name: "Henge (3)"
 artist: "henge"
 album_name: "Alpha Test 4"
 date: 2024-02-09T08:45:24.000000Z
@@ -10,8 +10,8 @@ slug: "alpha-test-4-26842730"
 hideSummary: true
 cover:
     image: "alpha-test-4-26842730.jpg"
-    alt: "Alpha Test 4 by Henge"
-    caption: "Alpha Test 4 by Henge"
+    alt: "Alpha Test 4 by Henge (3)"
+    caption: "Alpha Test 4 by Henge (3)"
 additional_images:
     - "https://i.discogs.com/v4jZE3cxbC1FRIKRdvY_0tvph5qasU-Wpdw8wGaudgA/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQy/NzMwLTE2ODIxNjQ1/MDMtMjM3Mi5qcGVn.jpeg"
     - "https://i.discogs.com/hEIStdUrguXYbhFb8Ovkotuzk68KobJiLlh3XHxmeHI/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODQy/NzMwLTE2ODIxNjQ1/MDQtMjM2OS5qcGVn.jpeg"
@@ -29,16 +29,16 @@ styles: ["Acid", "Prog Rock", "Techno", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Get A Wriggle On |
-| A2 | Self Repair Protocol |
-| A3 | Wanderlust |
-| A4 | Tardigrades |
-| A5 | DNA |
-| A6 | Altered State |
-| B1 | RA |
-| B2 | First Encounter |
-| B3 | Alpha Test 4 |
-| B4 | Asteroid |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -55,4 +55,4 @@ styles: ["Acid", "Prog Rock", "Techno", "Psychedelic Rock"]
 | Format         | Vinyl LP Album |
 | Label          | Not On Label (Henge (3) Self-released) |
 | Catalog Number | Henge03LP |
-| Discogs URL    | [Henge - Alpha Test 4](https://www.discogs.com/release/26842730-Henge-3-Alpha-Test-4) |
+| Discogs URL    | [Henge (3) - Alpha Test 4](https://www.discogs.com/release/26842730-Henge-3-Alpha-Test-4) |

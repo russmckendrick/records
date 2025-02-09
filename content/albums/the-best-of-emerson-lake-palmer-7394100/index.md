@@ -1,6 +1,6 @@
 ---
-title: "Emerson Lake  Palmer - The Best Of Emerson Lake & Palmer"
-artist_name: "Emerson Lake  Palmer"
+title: "Emerson, Lake & Palmer - The Best Of Emerson Lake & Palmer"
+artist_name: "Emerson, Lake & Palmer"
 artist: "emerson-lake-palmer"
 album_name: "The Best Of Emerson Lake & Palmer"
 date: 2016-03-16T18:38:08.000000Z
@@ -10,8 +10,8 @@ slug: "the-best-of-emerson-lake-palmer-7394100"
 hideSummary: true
 cover:
     image: "the-best-of-emerson-lake-palmer-7394100.jpg"
-    alt: "The Best Of Emerson Lake & Palmer by Emerson Lake  Palmer"
-    caption: "The Best Of Emerson Lake & Palmer by Emerson Lake  Palmer"
+    alt: "The Best Of Emerson Lake & Palmer by Emerson, Lake & Palmer"
+    caption: "The Best Of Emerson Lake & Palmer by Emerson, Lake & Palmer"
 additional_images:
     - "https://i.discogs.com/3S8WI4e-djAlyIb9e-7Y2jmccCepEcgdtTaElWR0dEg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTQx/MDAtMTQ0MDYzMTM5/OS05NzMwLmpwZWc.jpeg"
     - "https://i.discogs.com/e7-Ebr6hpsQX41Si8ukkj3OnLJZ2NEB2t1RM8M1qoR4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTQx/MDAtMTQ0MDYzMTM5/OS05MDU5LmpwZWc.jpeg"
@@ -31,15 +31,15 @@ styles: ["Classic Rock", "Symphonic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hoedown |
-| A2 | Lucky Man |
-| A3 | Karn Evil 9 (1st Impression, Part 2) |
-| A4 | Jerusalem |
-| A5 | Peter Gunn |
-| B1 | Fanfare For The Common Man |
-| B2 | Still....You Turn Me On |
-| B3 | Tiger In A Spotlight |
-| B4 | Trilogy |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -57,4 +57,4 @@ styles: ["Classic Rock", "Symphonic Rock"]
 | Label          | Atlantic |
 | Catalog Number | K 50 757 |
 | Notes | Japanese sleeve text, lower right: リチヤド エバンス - 'Richard Evans'.    Printed inner sleeve.  No Atlantic logo on front of sleeve.  Cat. Nos. + STEREO (50 757 & SD 19 283) back top right.  50 757 on back, spine and inner sleeve.  K 50 757 on label.  No barcode.      |
-| Discogs URL    | [Emerson Lake  Palmer - The Best Of Emerson Lake & Palmer](https://www.discogs.com/release/7394100-Emerson-Lake-Palmer-The-Best-Of-Emerson-Lake-Palmer) |
+| Discogs URL    | [Emerson, Lake & Palmer - The Best Of Emerson Lake & Palmer](https://www.discogs.com/release/7394100-Emerson-Lake-Palmer-The-Best-Of-Emerson-Lake-Palmer) |

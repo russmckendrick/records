@@ -31,28 +31,28 @@ styles: ["Hardcore Hip-Hop", "Boom Bap"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Salutations |
-| A2 | Jump Around |
-| A3 | Put Your Head Out |
-| A4 | Top O' The Morning To Ya |
-| A5 | Commercial 1 |
-| A6 | House And The Rising Sun |
-| B1 | Shamrocks And Shenanigans |
-| B2 | House Of Pain Anthem |
-| B3 | Danny Boy, Danny Boy |
-| B4 | Guess Who's Back |
-| B5 | Commercial 2 |
-| B6 | Put On Your Shit Kickers |
-| C1 | Come And Get Some Of This |
-| C2 | Life Goes On |
-| C3 | One For The Road |
-| C4 | Feel It |
-| C5 | All My Love |
-| D1 | Jump Around (25 Year Remix) |
-| D2 | Jump Around (Pete Rock Remix) |
-| D3 | Shamrocks And Shenanigans (Butch Vig Remix) |
-| D4 | Shamrocks And Shenanigans (Boom Shalock Lock Boom) (Salaam Main Pass) |
-| D5 | Jump Around (Instrumental) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

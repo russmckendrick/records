@@ -27,22 +27,22 @@ styles: ["Power Pop", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | In The Street (Single Mix) |
-| A2 | Don't Lie To Me (Single Version) |
-| A3 | September Gurls (Single Version) |
-| A4 | Thirteen |
-| A5 | Jesus Christ (Single Edit) |
-| B1 | I'm In Love With A Girl |
-| B2 | O, My Soul (Single Edit) |
-| B3 | Feel |
-| B4 | When My Baby's Beside Me |
-| C1 | Take Care |
-| C2 | Life Is White |
-| C3 | Watch The Sunrise (Single Version) |
-| D1 | The Ballad Of El Goodo |
-| D2 | Nightime |
-| D3 | Back Of A Car |
-| D4 | Thank You Friends |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

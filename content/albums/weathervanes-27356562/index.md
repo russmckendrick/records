@@ -70,19 +70,19 @@ This led to a fundamental shift in his approach to songwriting. “The more spec
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A-1 | Death Wish |
-| A-2 | King of Oklahoma |
-| A-3 | Strawberry Woman |
-| A-4 | Middle of the Morning |
-| B-1 | Save the World |
-| B-2 | If You Insist |
-| B-3 | Cast Iron Skillet |
-| C-1 | When We Were Close |
-| C-2 | Volunteer |
-| C-3 | Vestavia Hills |
-| D-1 | White Beretta |
-| D-2 | This Ain't It |
-| D-3 | Miles |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

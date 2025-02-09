@@ -27,19 +27,19 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Don't Need The Real Thing |
-| A2 | Breakdown   |
-| A3 | Fix Me |
-| A4 | Indigo (Pt. 1) |
-| A5 | Piece Of Me |
-| A6 | 6 8 |
-| A7 | Indigo (Pt. 2) |
-| B1 | People Make The World Go 'Round |
-| B2 | Unsophisticated  |
-| B3 | Black Orchid |
-| B4 | Love Sucks |
-| B5 | The First Time Ever I Saw Your Face |
-| B6 | Simple Things  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

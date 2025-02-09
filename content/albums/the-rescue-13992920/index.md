@@ -30,14 +30,14 @@ The Rescue is the fourth studio album by American post-rock band Explosions in t
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Day One |
-| A2 | Day Two |
-| A3 | Day Three |
-| A4 | Day Four |
-| B1 | Day Five |
-| B2 | Day Six |
-| B3 | Day Seven |
-| B4 | Day Eight |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

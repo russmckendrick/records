@@ -42,18 +42,18 @@ After leaving Soulwax (the band) dormant for well over a decade, it feels fittin
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Preset Tense |
-| A2 | Masterplanned |
-| A3 | Missing Wires |
-| A4 | Conditions Of A Shared Belief |
-| B1 | Is It Always Binary |
-| B2 | Do You Want To Get Into Trouble? |
-| B3 | My Tired Eyes |
-| B4 | Transient Program For Drums And Machinery |
-| C1 | Trespassers |
-| C2 | The Singer Has Become A Deejay |
-| C3 | Here Come The Men In Suits |
-| D1 | Goodnight Transmission |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

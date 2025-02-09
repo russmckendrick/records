@@ -55,41 +55,41 @@ Afraid of Sunlight was the first Marillion studio album to fail to reach the Top
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | 2019 Michael Hunter Re-Mix |
-| A1 | Gazpacho |
-| A2 | Cannibal Surf Babe |
-| B1 | Beautiful |
-| B2 | Afraid Of Sunrise |
-| C1 | Out Of This World |
-| C2 | Afraid Of Sunlight |
-| D1 | Beyond You |
-| D2 | King |
-|  | Live At The Ahoy, Rotterdam (29th September 1995) |
-| E1 | Intro (Skater's Waltz) |
-| E2 | Incommunicado |
-| E3 | Hooks In You |
-| E4 | Gazpacho |
-| E5 | Icon |
-| E6 | Beautiful |
-| F1 | Hotel Hobbies |
-| F2 | White Russian |
-| F3 | Easter |
-| G1 | Mad |
-| G2 | The Opium Den |
-| G3 | Hard As Love |
-| G4 | The Hollow Man |
-| H1 | Kayleigh |
-| H2 | Lavender |
-| H3 | Afraid Of Sunlight |
-| H4 | Cannibal Surf Babe |
-| I1 | Cover My Eyes |
-| I2 | Slainte Mhath |
-| I3 | King |
-| I4 | Splintering Heart |
-| J1 | No One Can |
-| J2 | The Great Escape |
-| J3 | Uninvited Guest |
-| J4 | Garden Party |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

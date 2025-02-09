@@ -58,37 +58,37 @@ The Steven Wilson Remixes is a box set by the English progressive rock band Yes.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | The Yes Album (2014 Remix) |
-| A1 | Yours Is No Disgrace |
-| A2 | Clap |
-|  | Starship Trooper |
-|  | I've Seen All Good People |
-| B2 | A Venture |
-| B3 | Perpetual Change |
-|  | Fragile (2015 Remix) |
-| C1 | Roundabout |
-| C2 | Cans And Brahms |
-| C3 | We Have Heaven |
-| C4 | South Side Of The Sky |
-| D1 | Five Per Cent For Nothing |
-| D2 | Long Distance Runaround |
-| D3 | The Fish (Schindleria Praematurus) |
-| D4 | Mood For A Day |
-| D5 | Heart Of The Sunrise |
-|  | Close To The Edge (2013 Remix) |
-|  | Close To The Edge |
-| E1-IV | Seasons Of Man |
-|  | And You And I |
-| F2 | Siberian Khatru |
-|  | Tales From Topographic Oceans (2016 Remix) |
-| G1 | The Revealing Science Of God (Dance Of The Dawn) |
-| H1 | The Remembering (High The Memory) |
-| I1 | The Ancient (Giants Under The Sun) |
-| J1 | The Ritual (Nous Sommes Du Soleil) |
-|  | Relayer (2016 Remix) |
-| K1 | The Gates Of Delirium |
-| L1 | Sound Chaser |
-| L2 | To Be Over |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

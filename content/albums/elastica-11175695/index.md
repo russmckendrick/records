@@ -1,6 +1,6 @@
 ---
-title: "Elastica - Elastica"
-artist_name: "Elastica"
+title: "Elastica (2) - Elastica"
+artist_name: "Elastica (2)"
 artist: "elastica"
 album_name: "Elastica"
 date: 2017-11-22T20:15:07.000000Z
@@ -10,8 +10,8 @@ slug: "elastica-11175695"
 hideSummary: true
 cover:
     image: "elastica-11175695.jpg"
-    alt: "Elastica by Elastica"
-    caption: "Elastica by Elastica"
+    alt: "Elastica by Elastica (2)"
+    caption: "Elastica by Elastica (2)"
 additional_images:
     - "https://i.discogs.com/I8c2XkUV4-7sJ2xtk1Awcbls5UiqD10RGY0bkCShzbs/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc1/Njk1LTE1MTEzNjA5/OTgtODM4Ni5qcGVn.jpeg"
     - "https://i.discogs.com/iJaKqk-EDkw2dd5U8a-HHrMYQ6NSii54M0-zW0lRCv8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTc1/Njk1LTE2MTg2ODQ3/MzYtMjk3NC5qcGVn.jpeg"
@@ -36,22 +36,22 @@ The song was the subject of controversy due to its overt similarity to another b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Line Up |
-| A2 | Annie |
-| A3 | Connection |
-| A4 | Car Song |
-| A5 | Smile |
-| A6 | Hold Me Now |
-| A7 | S.O.F.T. |
-| A8 | Indian Song |
-| B1 | Blue |
-| B2 | All-Nighter |
-| B3 | Waking Up |
-| B4 | 2:1 |
-| B5 | Vaseline |
-| B6 | Never Here |
-| B7 | Stutter |
-| C | In The City |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -70,4 +70,4 @@ The song was the subject of controversy due to its overt similarity to another b
 | Label          | Rough Trade |
 | Catalog Number | RTRADLP914 |
 | Notes | Release comes with flexi-disc, and replica of Elasticatalogue.  "In The City" credits: Published by EMI Music Publishing Recorded 16 March 1994 for the BBC Radio One Steve Lamacq Evening Session released with arrangement with BBC Music. P 1994 BBC Music C 2017 Rough Trade Records |
-| Discogs URL    | [Elastica - Elastica](https://www.discogs.com/release/11175695-Elastica-2-Elastica) |
+| Discogs URL    | [Elastica (2) - Elastica](https://www.discogs.com/release/11175695-Elastica-2-Elastica) |

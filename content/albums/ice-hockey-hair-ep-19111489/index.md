@@ -31,10 +31,10 @@ styles: ["Psychedelic Rock", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Smokin' |
-| A2 | Mu-tron |
-| AA1 | Ice Hockey Hair |
-| AA2 | Let's Quit Smoking |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -33,16 +33,16 @@ Stone is the sixth studio album by American heavy metal band Baroness. The album
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Embers |
-| A2 | Last Word |
-| A3 | Beneath The Rose |
-| A4 | Choir |
-| A5 | The Dirge |
-| A6 | Anodyne |
-| B1 | Shine |
-| B2 | Magnolia |
-| B3 | Under The Wheel |
-| B4 | Bloom |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

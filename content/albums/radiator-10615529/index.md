@@ -37,20 +37,20 @@ styles: ["Alternative Rock", "Psychedelic Rock", "Britpop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Furryvision™ |
-| A2 | The Placid Casual |
-| A3 | The International Language Of Screaming |
-| A4 | Demons |
-| B1 | Short Painkiller |
-| B2 | She's Got Spies |
-| B3 | Play It Cool |
-| B4 | Hermann Loves Pauline |
-| C1 | Chupacabras |
-| C2 | Torra Fy Ngwallt Yn Hir |
-| C3 | Bass Tuned To D.E.A.D. |
-| C4 | Down A Different River |
-| D1 | Download |
-| D2 | Mountain People |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -52,41 +52,41 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Flying Teapot (Radio Gnome Invisible - Pt. 1) |
-| A1 | Radio Gnome Invisible |
-| A2 | Flying Teapot |
-| B1 | The Pot Head Pixies |
-| B2a | The Octave Doctors & The Crystal Machine |
-| B2b | Zero The Hero And The Witch's Spell |
-| B2c | Witch's Song / I Am Your Pussy |
-|  | Angels Egg (Radio Gnome Invisible - Pt. 2) |
-|  | (Yin) |
-| C1 | Other Side Of The Sky |
-| C2 | Sold To The Highest Buddha |
-| C3 | Castle In The Clouds |
-| C4a | Prostitute Poem |
-| C4b | Givin' My Luv To You |
-| C5 | Selene |
-|  | End Of Side 3 Side Of The Goddess |
-|  | (Yang) Side Of The Fun Gods |
-| D1a | Flute Salad |
-| D1b | Oily Way |
-| D1c | Outer Temple |
-| D1d | Inner Temple |
-| D1e | Percolations |
-| D1f | Love Is How You Make It |
-| D2 | I Never Glid Before |
-| D3 | Eat That Phonebook Coda |
-|  | End Of Part 2: End Of Side 4 - The Masculaing Side |
-|  | You (Radio Gnome Invisible - Pt. 3) |
-| E1a | Thoughts For Naught |
-| E1b | A P.H.P's Advice |
-| E2a | Magick Mother Invocation |
-| E2b | Master Builder |
-| E3 | A Sprinkling Of Clouds |
-| F1 | Perfect Mystery |
-| F2a | The Isle Of Everywhere |
-| F2b | You Never Blow Your Trip Forever |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

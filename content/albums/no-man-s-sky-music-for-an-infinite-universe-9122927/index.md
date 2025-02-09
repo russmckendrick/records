@@ -31,22 +31,22 @@ styles: ["Ambient", "Post Rock", "Soundtrack", "Video Game Music"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Monolith |
-| A2 | Supermoon |
-| B1 | Asimov |
-| B2 | Heliosphere |
-| C1 | Blueprint For A Slow Machine |
-| C2 | Pillars Of Frost |
-| C3 | Escape Velocity |
-| D1 | Red Parallax |
-| D2 | Hypersleep |
-| D3 | End Of The World Sun |
-| E1 | NMS_exteriorAtmos1 / False Suns |
-| E2 | Tomorrow / Lull / Celestial Feedback |
-| F1 | Departure / Shortwave / Noisetest |
-| G1 | temporalDissent / ascension_test1 / koaecax |
-| G2 | Borealis / Contrastellar |
-| H1 | Outlier / EOTWS_Variation1 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

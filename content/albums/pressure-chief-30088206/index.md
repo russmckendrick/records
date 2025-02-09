@@ -35,17 +35,17 @@ On its opening week, Pressure Chief sold about 46,000 copies, debuting and peaki
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Wheels |
-| A2 | No Phone |
-| A3 | Take It All Away |
-| A4 | Dime |
-| A5 | Carbon Monoxide |
-| B1 | The Guitar Man |
-| B2 | Waiting |
-| B3 | She'll Hang The Baskets |
-| B4 | End Of The Movie |
-| B5 | Palm Of Your Hand |
-| B6 | Tougher Than It Is |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

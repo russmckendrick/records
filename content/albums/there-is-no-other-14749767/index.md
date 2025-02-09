@@ -33,26 +33,26 @@ styles: ["Indie Pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | There Is No Other... |
-| A1 | City Of Angels |
-| A2 | Runnin' Down A Dream |
-| A3 | Vultures |
-| A4 | Ant Life |
-| A5 | Rainbow |
-| A6 | The Heart Of It All |
-| A7 | Hey World |
-| B1 | The National Bird Of India |
-| B2 | Just For Today |
-| B3 | See Your Face Again |
-| B4 | Boulevard |
-| B5 | Counting Fireflies |
-| B6 | Below Zero |
-|  | Voices In The Sky |
-| CD-1 | Together |
-| CD-2 | Never My Love |
-| CD-3 | Something |
-| CD-4 | Voices In The Sky |
-| CD-5 | Sa Ta Na Ma. |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

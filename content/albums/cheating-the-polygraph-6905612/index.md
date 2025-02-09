@@ -35,14 +35,14 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | What Happens Now? |
-| A2 | Sound Of Muzak / So Called Friend |
-| A3 | The Start Of Something Beautiful |
-| A4 | Heartattack In A Layby |
-| B1 | The Pills I'm Taking (From Anesthetise) |
-| B2 | Hatesong / Halo |
-| B3 | Cheating The Polygraph / Mother & Child Divided |
-| B4 | Futile |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

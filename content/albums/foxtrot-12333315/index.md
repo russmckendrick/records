@@ -36,12 +36,12 @@ Foxtrot was the first Genesis album to chart in the UK, reaching No. 12, and r
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Watcher Of The Skies |
-| A2 | Time Table |
-| A3 | Get 'Em Out By Friday |
-| A4 | Can-Utility And The Coastliners |
-| B1 | Horizons' |
-|  | Supper's Ready |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

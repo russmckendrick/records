@@ -40,18 +40,18 @@ Foreign Affair is the seventh solo studio album by Tina Turner, released on Sept
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Steamy Windows |
-| A2 | The Best |
-| A3 | You Know Who (Is Doing You Know What) |
-| B1 | Undercover Agent For The Blues |
-| B2 | Look Me In The Heart |
-| B3 | Be Tender With Me Baby |
-| C1 | You Can’t Stop Me Loving You |
-| C2 | Ask Me How I Feel |
-| C3 | Falling Like Rain |
-| D1 | I Don’t Wanna Lose You |
-| D2 | Not Enough Romance |
-| D3 | Foreign Affair |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

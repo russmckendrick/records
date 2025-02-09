@@ -37,18 +37,18 @@ Combat Rock is the last Clash album featuring the band's classic lineup. Topper 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Know Your Rights |
-| A2 | Car Jamming |
-| A3 | Should I Stay Or Should I Go |
-| A4 | Rock The Casbah |
-| A5 | Red Angel Dragnet |
-| A6 | Straight To Hell |
-| B1 | Overpowered By Funk |
-| B2 | Atom Tan |
-| B3 | Sean Flynn |
-| B4 | Ghetto Defendant |
-| B5 | Inoculated City |
-| B6 | Death Is A Star |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -32,16 +32,16 @@ With <i>Hold On!</i>, James Hunter proves that vintage-sounding soul can still b
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | If That Don't Tell You |
-| A2 | This Is Where We Came In |
-| A3 | (Baby) Hold On |
-| A4 | Something's Calling |
-| A5 | A Truer Heart |
-| B1 | Free Your Mind (While You Still Got Time) |
-| B2 | Light Of My Life |
-| B3 | Stranded |
-| B4 | Satchel Foot |
-| B5 | In The Dark |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

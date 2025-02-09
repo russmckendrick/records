@@ -36,17 +36,17 @@ Amen (So Be It) is the debut album by Irish musician Paddy Casey. It was release
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Fear |
-| A2 | Whatever Gets You True |
-| A3 | Can't Take That Away |
-| A4 | Ancient Sorrow |
-| A5 | Everybody Wants |
-| A6 | Sweet Suburban Sky |
-| B1 | Downtown |
-| B2 | Would U B |
-| B3 | Winter's Fire |
-| B4 | Rainwater  |
-| B5 | It's Over Now  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

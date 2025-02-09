@@ -36,14 +36,14 @@ Symbiosis is also classified by physical attachment. Symbionts forming a single 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Philosophy Of Mind |
-| A2 | Anamorphia |
-| A3 | Hjem |
-| A4 | Faceless |
-| B1 | Convergence |
-| B2 | Spheres |
-| B3 | Spires Of Ascendency |
-| B4 | Infinity |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

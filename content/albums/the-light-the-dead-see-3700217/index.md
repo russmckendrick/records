@@ -41,30 +41,30 @@ The Light the Dead See is the fourth full-length studio album from English elect
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | La Ribera |
-| A2 | In The Morning |
-| A3 | Longest Day |
-| A4 | Presence Of God |
-| A5 | Just Try |
-| A6 | Gone Too Far |
-| B1 | Point Sur Pt. 1 |
-| B2 | Take Me Back Home |
-| B3 | Bitterman |
-| B4 | I Can't Stay |
-| B5 | Take |
-| B6 | Tonight |
-| CD-1 | La Ribera |
-| CD-2 | In The Morning |
-| CD-3 | Longest Day |
-| CD-4 | Presence Of God |
-| CD-5 | Just Try |
-| CD-6 | Gone Too Far |
-| CD-7 | Point Sur Pt. 1 |
-| CD-8 | Take Me Back Home |
-| CD-9 | Bitterman |
-| CD-10 | I Can't Stay |
-| CD-11 | Take |
-| CD-12 | Tonight |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

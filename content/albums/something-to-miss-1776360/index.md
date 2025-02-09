@@ -29,10 +29,10 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Something To Miss |
-| B1 | 16.18.21 |
-| B2 | Never Haunted |
-| B3 | Answering Machine |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

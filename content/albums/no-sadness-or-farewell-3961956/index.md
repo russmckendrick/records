@@ -32,12 +32,12 @@ styles: ["Prog Rock", "Post Rock", "Folk Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | How We Rock |
-| A2 | Hold On (So Goodbye To All Of That) |
-| B1 | One Armed Boxer |
-| B2 | Jonestown Martin |
-| B3 | Long Live Independence |
-| B4 | Maniac Beast |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

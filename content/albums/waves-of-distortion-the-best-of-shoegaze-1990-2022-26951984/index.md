@@ -30,28 +30,28 @@ styles: ["Shoegaze", "Dream Pop", "Post Rock", "Noise Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Slomo |
-| A2 | Pearl - Edit |
-| A3 | Vapour Trail |
-| A4 | Henna and Swayed |
-| A5 | Flying |
-| B1 | Sweetness And Light |
-| B2 | Chlorine Dream |
-| B3 | The 3rd Time We Opened The Capsule |
-| B4 | Sight Of You |
-| B5 | Alibi |
-| B6 | Kaleidoscope |
-| C1 | Billy |
-| C2 | Daylight Storms |
-| C3 | Taker |
-| C4 | A Reason To Celebrate |
-| C5 | Long Holiday |
-| C6 | Overrated – Robin Guthrie Version |
-| D1 | Lazuli |
-| D2 | Kids Will Be Skeletons |
-| D3 | Go And Come Back |
-| D4 | Mercy Seat |
-| D5 | Ceremony |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

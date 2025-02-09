@@ -1,6 +1,6 @@
 ---
-title: "Whiteout - Bite It"
-artist_name: "Whiteout"
+title: "Whiteout (2) - Bite It"
+artist_name: "Whiteout (2)"
 artist: "whiteout"
 album_name: "Bite It"
 date: 2021-02-10T04:35:09.000000Z
@@ -10,8 +10,8 @@ slug: "bite-it-3113946"
 hideSummary: true
 cover:
     image: "bite-it-3113946.jpg"
-    alt: "Bite It by Whiteout"
-    caption: "Bite It by Whiteout"
+    alt: "Bite It by Whiteout (2)"
+    caption: "Bite It by Whiteout (2)"
 additional_images:
     - "https://i.discogs.com/UPuEQjDtT_ApKtWvx6vQAz2a90ula9pttXRXvniDuXw/rs:fit/g:sm/q:90/h:530/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTM5/NDYtMTQyNjY4Mjc1/OC0zNTIwLmpwZWc.jpeg"
     - "https://i.discogs.com/dIfcb-k6_iGWwWnrKOM_g-aO6ah6ZG8wMNYCQbjsg4U/rs:fit/g:sm/q:90/h:529/w:565/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMTM5/NDYtMTQyNjY4Mjc2/NS0zOTcyLmpwZWc.jpeg"
@@ -34,18 +34,18 @@ Bite It is the debut album by Scottish rock band Whiteout, released in 1995 (see
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Thirty Eight |
-| A2 | No Time |
-| A3 | We Should Stick Together |
-| B1 | Jackie's Racing |
-| B2 | Shine On You |
-| B3 | No More Tears |
-| C1 | Altogether |
-| C2 | U Drag Me |
-| C3 | Baby Don't Give Up On Me Yet |
-| D1 | You Left Me Seeing Stars |
-| D2 | Everyday |
-| D3 | Untitled |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ Bite It is the debut album by Scottish rock band Whiteout, released in 1995 (see
 | Format         | Vinyl 2× LP Limited Edition |
 | Label          | Silvertone Records |
 | Catalog Number | OREZLP536 |
-| Discogs URL    | [Whiteout - Bite It](https://www.discogs.com/release/3113946-Whiteout-2-Bite-It) |
+| Discogs URL    | [Whiteout (2) - Bite It](https://www.discogs.com/release/3113946-Whiteout-2-Bite-It) |

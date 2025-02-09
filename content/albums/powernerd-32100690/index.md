@@ -36,17 +36,17 @@ PowerNerd is the twenty-second studio album by Canadian metal musician Devin Tow
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | PowerNerd |
-| A2 | Falling Apart |
-| A3 | Knuckledragger |
-| A4 | Gratitude  |
-| A5 | Dreams Of Light |
-| A6 | Ubelia  |
-| B1 | Jainism |
-| B2 | Younger Lover |
-| B3 | Glacier  |
-| B4 | Goodbye |
-| B5 | Ruby Quaker |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

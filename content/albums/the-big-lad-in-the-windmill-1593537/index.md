@@ -36,16 +36,16 @@ Although marketed as a 1980s pop album, The Big Lad in the Windmill features an 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Got You Eating Out Of My Hand |
-| A2 | All In Red |
-| A3 | Whole New World |
-| A4 | Screaming On The Beaches |
-| A5 | Wanna Shout |
-| B1 | Turn Me Loose |
-| B2 | Cold, Tired And Hungry |
-| B3 | Calling All The Heroes |
-| B4 | You'll Never Go To Heaven |
-| B5 | The Big Lad In The Windmill |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

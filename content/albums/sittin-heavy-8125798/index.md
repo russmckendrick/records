@@ -1,6 +1,6 @@
 ---
-title: "Monster Truck - Sittin' Heavy"
-artist_name: "Monster Truck"
+title: "Monster Truck (2) - Sittin' Heavy"
+artist_name: "Monster Truck (2)"
 artist: "monster-truck"
 album_name: "Sittin' Heavy"
 date: 2016-09-01T17:17:59.000000Z
@@ -10,8 +10,8 @@ slug: "sittin-heavy-8125798"
 hideSummary: true
 cover:
     image: "sittin-heavy-8125798.jpg"
-    alt: "Sittin' Heavy by Monster Truck"
-    caption: "Sittin' Heavy by Monster Truck"
+    alt: "Sittin' Heavy by Monster Truck (2)"
+    caption: "Sittin' Heavy by Monster Truck (2)"
 additional_images:
     - "https://i.discogs.com/SAJEI_QLjsDhJnxiY0KTpwrIzbnAf9MDmIou0vxgb8E/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTgtMTQ1OTk0OTE0/My0yMTE4LmpwZWc.jpeg"
     - "https://i.discogs.com/B1gmdPg8-TeMti1ba39pqnfU_MIxb83QwZBm59Gg4K8/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjU3/OTgtMTQ1OTk0NjU5/MS03NzMwLmpwZWc.jpeg"
@@ -36,18 +36,18 @@ styles: ["Blues Rock", "Hard Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Why Are You Not Rocking? |
-| A2 | Don't Tell Me How To Live |
-| A3 | She's A Witch |
-| A4 | For The People (feat. Ian Thornley) |
-| B1 | Black Forest |
-| B2 | Another Man's Shoes |
-| B3 | Things Get Better |
-| B4 | The Enforcer |
-| C1 | To The Flame |
-| C2 | Midnight (Bonus) |
-| C3 | New Soul |
-| C4 | Enjoy The Time |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -65,4 +65,4 @@ styles: ["Blues Rock", "Hard Rock"]
 | Label          | Mascot Records (2) |
 | Catalog Number | M74851 |
 | Notes | Double Red Heavy 180g LP with etched D Side  Includes an exclusive bonus track, and a coupon for a complimentary MP3 download of the album  Orders from record company net shop included a Mascot Messenger advertising paper and poster which was not inside plastics. |
-| Discogs URL    | [Monster Truck - Sittin' Heavy](https://www.discogs.com/release/8125798-Monster-Truck-2-Sittin-Heavy) |
+| Discogs URL    | [Monster Truck (2) - Sittin' Heavy](https://www.discogs.com/release/8125798-Monster-Truck-2-Sittin-Heavy) |

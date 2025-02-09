@@ -44,29 +44,29 @@ Critical reception to the album has been mixed, with its varied genres being cit
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Get Out		 |
-| A2 | Ricochet |
-| A3 | Evidence |
-| A4 | The Gentle Art Of Making Enemies |
-| A5 | Star A.D. |
-| A6 | Cuckoo For Caca |
-| B1 | Caralho Voador |
-| B2 | Ugly In The Morning |
-| B3 | Digging The Grave |
-| B4 | Take This Bottle |
-| B5 | King For A Day |
-| C1 | What A Day |
-| C2 | The Last To Know |
-| C3 | Just A Man |
-|  | Bonus tracks |
-| C4 | Absolute Zero |
-| C5 | Greenfields |
-| D1 | I Started A Joke |
-| D2 | Spanish Eyes |
-| D3 | I Won't Forget You |
-| D4 | Hippie Jam Song |
-| D5 | Evidence (Versione Italiana) |
-| D6 | I Wanna F**k Myself |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

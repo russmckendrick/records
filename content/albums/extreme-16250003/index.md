@@ -1,6 +1,6 @@
 ---
-title: "Extreme - Extreme"
-artist_name: "Extreme"
+title: "Extreme (2) - Extreme"
+artist_name: "Extreme (2)"
 artist: "extreme"
 album_name: "Extreme"
 date: 2021-03-11T10:22:48.000000Z
@@ -10,8 +10,8 @@ slug: "extreme-16250003"
 hideSummary: true
 cover:
     image: "extreme-16250003.jpg"
-    alt: "Extreme by Extreme"
-    caption: "Extreme by Extreme"
+    alt: "Extreme by Extreme (2)"
+    caption: "Extreme by Extreme (2)"
 additional_images:
     - "https://i.discogs.com/rPMt2k7mQgY0GUuj2bLjn7ztRZJqeDNjeLha9AQG-g0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUw/MDAzLTE2MDU5Nzg5/MTEtMzc0My5qcGVn.jpeg"
     - "https://i.discogs.com/R74ZZpb56ZCSDZIwVOKeTpQmGPW5sbFBBU8unLERdVc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjUw/MDAzLTE2MDU5Nzg5/MTctNTY5My5qcGVn.jpeg"
@@ -30,16 +30,16 @@ Extreme is the first studio album by the American glam metal band Extreme, relea
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Little Girls |
-| A2 | Wind Me Up |
-| A3 | Kid Ego |
-| A4 | Watching, Waiting |
-| A5 | Mutha (Don't Wanna Go To School Today) |
-| B1 | Teacher's Pet |
-| B2 | Big Boys Don't Cry |
-| B3 | Smoke Signals |
-| B4 | Flesh N' Blood |
-| B5 | Rock A Bye Bye |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -58,4 +58,4 @@ Extreme is the first studio album by the American glam metal band Extreme, relea
 | Label          | Lmlr |
 | Catalog Number | 783 266 |
 | Notes | Limited edition of 1,000 copies. |
-| Discogs URL    | [Extreme - Extreme](https://www.discogs.com/release/16250003-Extreme-2-Extreme) |
+| Discogs URL    | [Extreme (2) - Extreme](https://www.discogs.com/release/16250003-Extreme-2-Extreme) |

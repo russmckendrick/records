@@ -1,6 +1,6 @@
 ---
-title: "Steve Mason - Brothers & Sisters"
-artist_name: "Steve Mason"
+title: "Steve Mason (2) - Brothers & Sisters"
+artist_name: "Steve Mason (2)"
 artist: "steve-mason"
 album_name: "Brothers & Sisters"
 date: 2023-03-20T05:44:02.000000Z
@@ -10,8 +10,8 @@ slug: "brothers-sisters-26299913"
 hideSummary: true
 cover:
     image: "brothers-sisters-26299913.jpg"
-    alt: "Brothers & Sisters by Steve Mason"
-    caption: "Brothers & Sisters by Steve Mason"
+    alt: "Brothers & Sisters by Steve Mason (2)"
+    caption: "Brothers & Sisters by Steve Mason (2)"
 additional_images:
     - "https://i.discogs.com/T2ASlc7_BwNizsgQIfYI1iNTBBISyfSJRgYsaWNu7xg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjk5/OTEzLTE2NzgwNTYz/NTItODMyMS5qcGVn.jpeg"
     - "https://i.discogs.com/-0JuFvOwlUzRcX4jfMkcyIqky5IdwbRannlIqE5oSlI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Mjk5/OTEzLTE2NzgwNTYz/NjEtMjg1Ny5qcGVn.jpeg"
@@ -38,17 +38,17 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Mars Man |
-| A2 | I'm On My Way |
-| A3 | No More |
-| B1 | All Over Again |
-| B2 | The People Say |
-| B3 | Let It Go |
-| C1 | Pieces Of Me |
-| C2 | Travelling Hard |
-| C3 | Brixton Fish Fry |
-| D1 | Upon My Soul |
-| D2 | Brothers & Sisters |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -66,4 +66,4 @@ styles: ["Indie Rock"]
 | Label          | Double Six (2) |
 | Catalog Number | DS145LPX |
 | Notes | Deluxe gold double vinyl. Gatefold jacket. Includes download code & 4-panel lyric insert. |
-| Discogs URL    | [Steve Mason - Brothers & Sisters](https://www.discogs.com/release/26299913-Steve-Mason-2-Brothers-Sisters) |
+| Discogs URL    | [Steve Mason (2) - Brothers & Sisters](https://www.discogs.com/release/26299913-Steve-Mason-2-Brothers-Sisters) |

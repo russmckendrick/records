@@ -1,6 +1,6 @@
 ---
-title: "Utopia - Oops! Wrong Planet"
-artist_name: "Utopia"
+title: "Utopia (5) - Oops! Wrong Planet"
+artist_name: "Utopia (5)"
 artist: "utopia"
 album_name: "Oops! Wrong Planet"
 date: 2022-03-06T04:57:20.000000Z
@@ -10,8 +10,8 @@ slug: "oops-wrong-planet-1393361"
 hideSummary: true
 cover:
     image: "oops-wrong-planet-1393361.jpg"
-    alt: "Oops! Wrong Planet by Utopia"
-    caption: "Oops! Wrong Planet by Utopia"
+    alt: "Oops! Wrong Planet by Utopia (5)"
+    caption: "Oops! Wrong Planet by Utopia (5)"
 additional_images:
     - "https://i.discogs.com/t0-MisAsPMj73sxsGg8H55qnXsJZnnX-uEXSa_u05MU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTMz/NjEtMTIzOTQ3NzMw/Ny5qcGVn.jpeg"
     - "https://i.discogs.com/t7qAfbYHMQ6j73GXlKpM_g_HaPlNj33KTQPxUb1l4Ro/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTMz/NjEtMTIzOTQ3NzMx/OC5qcGVn.jpeg"
@@ -36,18 +36,18 @@ Oops! peaked at No. 77 on the Billboard album chart in 1977.
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Trapped |
-| A2 | Windows |
-| A3 | Love In Action |
-| A4 | Crazy Lady Blue |
-| A5 | Back On The Street |
-| A6 | The Marriage Of Heaven And Hell |
-| B1 | The Martyr |
-| B2 | Abandon City |
-| B3 | Gangrene |
-| B4 | My Angel |
-| B5 | Rape Of The Young |
-| B6 | Love Is The Answer |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -66,4 +66,4 @@ Oops! peaked at No. 77 on the Billboard album chart in 1977.
 | Label          | Bearsville |
 | Catalog Number | K 55517 |
 | Notes | Recorded at Utopia Sound The Message: Use your head, use your heart, save yourselves Printed inner sleeve: photo one side / lyrics other side ℗ & © 1977 [Warner logo] Made in UK Additional cat# (cover back, right top, and on labels): BR 6970  |
-| Discogs URL    | [Utopia - Oops! Wrong Planet](https://www.discogs.com/release/1393361-Utopia-5-Oops-Wrong-Planet) |
+| Discogs URL    | [Utopia (5) - Oops! Wrong Planet](https://www.discogs.com/release/1393361-Utopia-5-Oops-Wrong-Planet) |

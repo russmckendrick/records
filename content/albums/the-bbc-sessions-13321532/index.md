@@ -1,6 +1,6 @@
 ---
-title: "Belle  Sebastian - The BBC Sessions"
-artist_name: "Belle  Sebastian"
+title: "Belle & Sebastian - The BBC Sessions"
+artist_name: "Belle & Sebastian"
 artist: "belle-sebastian"
 album_name: "The BBC Sessions"
 date: 2022-04-23T02:30:16.000000Z
@@ -10,8 +10,8 @@ slug: "the-bbc-sessions-13321532"
 hideSummary: true
 cover:
     image: "the-bbc-sessions-13321532.jpg"
-    alt: "The BBC Sessions by Belle  Sebastian"
-    caption: "The BBC Sessions by Belle  Sebastian"
+    alt: "The BBC Sessions by Belle & Sebastian"
+    caption: "The BBC Sessions by Belle & Sebastian"
 additional_images:
     - "https://i.discogs.com/AQaA14jmXZ1PAwAst_-ORp8S9SBtfxIWhxWPEmga-70/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/NTMyLTE1NTIwNTI2/NTctMTYxMi5qcGVn.jpeg"
     - "https://i.discogs.com/CJzy-BbKuMeRfbm9k5A8jfAa2mpsXyGCC5DJeGfjavk/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzIx/NTMyLTE2NDQ5MzEw/MDktNzU0Ni5qcGVn.jpeg"
@@ -37,20 +37,20 @@ The tracks on the first album come from sessions with Mark Radcliffe, Steve Lama
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The State I Am In |
-| A2 | Like Dylan In The Movies |
-| A3 | Judy And The Dream Of Horses |
-| A4 | The Stars Of Track And Field |
-| B1 | I Could Be Dreaming |
-| B2 | Seymour Stein |
-| B3 | Lazy Jane |
-| C1 | Sleep The Clock Around |
-| C2 | Slow Graffiti |
-| C3 | Wrong Love |
-| D1 | Shoot The Sexual Athlete |
-| D2 | The Magic Of A Kind Word |
-| D3 | Nothing In The Silence |
-| D4 | (My Girl's Got) Miraculous Technique |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -69,4 +69,4 @@ The tracks on the first album come from sessions with Mark Radcliffe, Steve Lama
 | Label          | Jeepster Recordings |
 | Catalog Number | JPRLP018 |
 | Notes | Tracks A1 to B1 ℗ 1996 BBC Tracks B2 to C2 ℗ 1997 BBC Track C3 ℗ 1998 BBC Tracks D1 to D4 ℗ 2001 BBC  The copyright in these sound recordings is owned by the BBC This compilation: ℗ 2008, © 2008 Released by arrangement with BBC Music.  Includes OBI strip: All the Classics reissued on vinyl / It Could Have Been a Brilliant Career / Includes free download of entire album. |
-| Discogs URL    | [Belle  Sebastian - The BBC Sessions](https://www.discogs.com/release/13321532-Belle-And-Sebastian-The-BBC-Sessions) |
+| Discogs URL    | [Belle & Sebastian - The BBC Sessions](https://www.discogs.com/release/13321532-Belle-And-Sebastian-The-BBC-Sessions) |

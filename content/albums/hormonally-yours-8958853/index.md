@@ -1,7 +1,7 @@
 ---
-title: "Shakespears Sister - Hormonally Yours"
-artist_name: "Shakespears Sister"
-artist: "shakespears-sister"
+title: "Shakespear's Sister - Hormonally Yours"
+artist_name: "Shakespear's Sister"
+artist: "shakespear-s-sister"
 album_name: "Hormonally Yours"
 date: 2019-04-26T12:44:14.000000Z
 release_date: "1992-06-19"
@@ -10,8 +10,8 @@ slug: "hormonally-yours-8958853"
 hideSummary: true
 cover:
     image: "hormonally-yours-8958853.jpg"
-    alt: "Hormonally Yours by Shakespears Sister"
-    caption: "Hormonally Yours by Shakespears Sister"
+    alt: "Hormonally Yours by Shakespear's Sister"
+    caption: "Hormonally Yours by Shakespear's Sister"
 additional_images:
     - "https://i.discogs.com/o17U4eiZKQWkpqEJp9LTIsrolQ77r1KJ8q5DYFPGTEs/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTg4/NTMtMTQ3MjczODcx/Mi00NzkyLmpwZWc.jpeg"
     - "https://i.discogs.com/arwq1TzJoPLiIS1ZcGKEonT6_pQE6WTTNaolJUiS1_I/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTg4/NTMtMTQ3MjczODcx/NS00NDQ3LmpwZWc.jpeg"
@@ -30,18 +30,18 @@ Hormonally Yours is the second studio album by British pop-rock act Shakespears 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Goodbye Cruel World |
-| A2 | I Don't Care |
-| A3 | My 16th Apology |
-| A4 | Are We In Love Yet |
-| A5 | Emotional Thing |
-| A6 | Stay |
-| B1 | Black Sky |
-| B2 | The Trouble With Andre |
-| B3 | Moonchild |
-| B4 | Catwoman |
-| B5 | Let Me Entertain You |
-| B6 | Hello (Turn Your Radio On) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -60,4 +60,4 @@ Hormonally Yours is the second studio album by British pop-rock act Shakespears 
 | Label          | London Records |
 | Catalog Number | 828 266-1 |
 | Notes | Track A3 is erroneously listed as "My 16th Birthday" on the label.  Cat# 828 266-1 appears on jacket, 828266.1 on labels.  ℗ 1992 London © 1992 London   Later pressing [r1074313] has different cat# and remix credits for tracks A1, A2, A6 and B6. |
-| Discogs URL    | [Shakespears Sister - Hormonally Yours](https://www.discogs.com/release/8958853-Shakespears-Sister-Hormonally-Yours) |
+| Discogs URL    | [Shakespear's Sister - Hormonally Yours](https://www.discogs.com/release/8958853-Shakespears-Sister-Hormonally-Yours) |

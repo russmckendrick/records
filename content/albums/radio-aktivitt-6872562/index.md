@@ -41,18 +41,18 @@ styles: ["Experimental"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Geigerzähler |
-| A2 | Radioaktivität |
-| A3 | Radioland |
-| A4 | Ätherwellen |
-| A5 | Sendepause |
-| A6 | Nachrichten |
-| B1 | Die Stimme Der Energie |
-| B2 | Antenne |
-| B3 | Radio Sterne |
-| B4 | Uran |
-| B5 | Transistor |
-| B6 | Ohm Sweet Ohm |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

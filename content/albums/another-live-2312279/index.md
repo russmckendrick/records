@@ -1,6 +1,6 @@
 ---
-title: "Utopia - Another Live"
-artist_name: "Utopia"
+title: "Utopia (5) - Another Live"
+artist_name: "Utopia (5)"
 artist: "utopia"
 album_name: "Another Live"
 date: 2022-03-06T04:59:24.000000Z
@@ -10,8 +10,8 @@ slug: "another-live-2312279"
 hideSummary: true
 cover:
     image: "another-live-2312279.jpg"
-    alt: "Another Live by Utopia"
-    caption: "Another Live by Utopia"
+    alt: "Another Live by Utopia (5)"
+    caption: "Another Live by Utopia (5)"
 additional_images:
     - "https://i.discogs.com/CHrDImPQnxMlFEKGXIhjwCpGJWWUBdoZYEKX2_9KG_s/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTIy/NzktMTYwODY0MzU3/NS03MjY1LmpwZWc.jpeg"
     - "https://i.discogs.com/ToGWEZda6Z0R8wq9gwawzbp_XZ6R5kAGKsBibAu7ICY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTIy/NzktMTYwODY0MzU5/NS0xNzQ3LmpwZWc.jpeg"
@@ -37,14 +37,14 @@ With no singles released to push it higher, the album peaked at #66 on the Billb
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Another Life |
-| A2 | The Wheel |
-| A3 | The Seven Rays |
-| B1 | Intro / Mister Triscuits |
-| B2 | Something's Coming |
-| B3 | Heavy Metal Kids |
-| B4 | Do Ya |
-| B5 | Just One Victory |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ With no singles released to push it higher, the album peaked at #66 on the Billb
 | Label          | Bearsville |
 | Catalog Number | K 55508 |
 | Notes | Unique Artwork. Includes insert with lyrics and credits.  Recorded live: August 1975.  Very similar to [r20758009], but with different label text / publishers. |
-| Discogs URL    | [Utopia - Another Live](https://www.discogs.com/release/2312279-Todd-Rundgrens-Utopia-Another-Live) |
+| Discogs URL    | [Utopia (5) - Another Live](https://www.discogs.com/release/2312279-Todd-Rundgrens-Utopia-Another-Live) |

@@ -1,6 +1,6 @@
 ---
-title: "St Paul  The Broken Bones - The Alien Coast"
-artist_name: "St Paul  The Broken Bones"
+title: "St. Paul & The Broken Bones - The Alien Coast"
+artist_name: "St. Paul & The Broken Bones"
 artist: "st-paul-the-broken-bones"
 album_name: "The Alien Coast"
 date: 2022-01-28T05:00:50.000000Z
@@ -10,8 +10,8 @@ slug: "the-alien-coast-21884815"
 hideSummary: true
 cover:
     image: "the-alien-coast-21884815.jpg"
-    alt: "The Alien Coast by St Paul  The Broken Bones"
-    caption: "The Alien Coast by St Paul  The Broken Bones"
+    alt: "The Alien Coast by St. Paul & The Broken Bones"
+    caption: "The Alien Coast by St. Paul & The Broken Bones"
 additional_images:
     - "https://i.discogs.com/JrL7NXVKjum0Qlt2IcnJAl2vttqj3Ew4GimHjApXF0E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODg0/ODE1LTE2NDMxMjUz/MjQtODYwNy5qcGVn.jpeg"
     - "https://i.discogs.com/tsP346t5eUgjc-nq-z_xz-OgX1lGqNxGEZQltrHyM2M/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODg0/ODE1LTE2NDMxMjYw/MjUtODk4NC5qcGVn.jpeg"
@@ -31,17 +31,17 @@ styles: []
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | 3000AD Mass |
-| A2 | Bermejo And The Devil |
-| A3 | Minotaur |
-| A4 | Atlas |
-| A5 | The Last Dance |
-| A6 | Ghost In Smoke |
-| B1 | Alien Coast |
-| B2 | Hunter And His Hounds |
-| B3 | Tin Man Love |
-| B4 | Popcorn Ceiling |
-| B5 | Love Letter From A Red Roof Inn |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -59,4 +59,4 @@ styles: []
 | Label          | ATO Records |
 | Catalog Number | ATO0590 |
 | Notes | Ghost vinyl with foil cover limited to 2,000 copies.   First 300 pre-orders receive a signed postcard  Vinyl pressed in Czech Republic    |
-| Discogs URL    | [St Paul  The Broken Bones - The Alien Coast](https://www.discogs.com/release/21884815-St-Paul-The-Broken-Bones-The-Alien-Coast) |
+| Discogs URL    | [St. Paul & The Broken Bones - The Alien Coast](https://www.discogs.com/release/21884815-St-Paul-The-Broken-Bones-The-Alien-Coast) |

@@ -1,6 +1,6 @@
 ---
-title: "Ghost - Meliora"
-artist_name: "Ghost"
+title: "Ghost (32) - Meliora"
+artist_name: "Ghost (32)"
 artist: "ghost"
 album_name: "Meliora"
 date: 2018-09-16T10:49:21.000000Z
@@ -10,8 +10,8 @@ slug: "meliora-7381473"
 hideSummary: true
 cover:
     image: "meliora-7381473.jpg"
-    alt: "Meliora by Ghost"
-    caption: "Meliora by Ghost"
+    alt: "Meliora by Ghost (32)"
+    caption: "Meliora by Ghost (32)"
 additional_images:
     - "https://i.discogs.com/RvaTSYtbU8t9GqKIiF_Reu5cwnv_ayq5bXv8iuzlo5k/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODE0/NzMtMTUxMjgyNDgy/NC02NTIyLmpwZWc.jpeg"
     - "https://i.discogs.com/N-Yfgbg84WRmJ6lL1gb7byErkHi0q9eL_7PQo4CiT5w/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODE0/NzMtMTUxMjgyNDc3/OC03Njg1LmpwZWc.jpeg"
@@ -49,16 +49,16 @@ Meliora (Latin for "better things", and not as the band says "the pursuit of som
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Spirit |
-| A2 | From The Pinnacle To The Pit |
-| A3 | Cirice |
-| A4 | Spöksonat |
-| A5 | He Is |
-| B1 | Mummy Dust |
-| B2 | Majesty |
-| B3 | Devil Church |
-| B4 | Absolution |
-| B5 | Deus In Absentia |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -77,4 +77,4 @@ Meliora (Latin for "better things", and not as the band says "the pursuit of som
 | Label          | Spinefarm Records |
 | Catalog Number | SPINE237751 |
 | Notes | ℗ & © Seven Four Entertainment, LLC and Concord Music Group d/b/a Loma Vista Recordings. Issued under license to Spinefarm Records.   Issued with a printed inner sleeve with lyrics and photo and a 16-page booklet.   Runouts are etched and stamped     |
-| Discogs URL    | [Ghost - Meliora](https://www.discogs.com/release/7381473-Ghost-32-Meliora) |
+| Discogs URL    | [Ghost (32) - Meliora](https://www.discogs.com/release/7381473-Ghost-32-Meliora) |

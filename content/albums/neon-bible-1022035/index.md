@@ -42,17 +42,17 @@ Neon Bible became Arcade Fire's highest-charting album at the time, debuting on 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Black Mirror |
-| A2 | Keep The Car Running |
-| A3 | Neon Bible |
-| A4 | Intervention |
-| B5 | Black Wave / Bad Vibrations |
-| B6 | Ocean Of Noise |
-| B7 | The Well And The Lighthouse |
-| B8 | (Antichrist Television Blues) |
-| C9 | Windowsill |
-| C10 | No Cars Go |
-| C11 | My Body Is A Cage |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

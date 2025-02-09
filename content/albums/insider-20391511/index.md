@@ -1,6 +1,6 @@
 ---
-title: "Amplifier - Insider"
-artist_name: "Amplifier"
+title: "Amplifier (3) - Insider"
+artist_name: "Amplifier (3)"
 artist: "amplifier"
 album_name: "Insider"
 date: 2021-09-29T00:17:46.000000Z
@@ -10,8 +10,8 @@ slug: "insider-20391511"
 hideSummary: true
 cover:
     image: "insider-20391511.jpg"
-    alt: "Insider by Amplifier"
-    caption: "Insider by Amplifier"
+    alt: "Insider by Amplifier (3)"
+    caption: "Insider by Amplifier (3)"
 additional_images:
     - "https://i.discogs.com/Rq65ex41MV29VfS4uSgwoBu_KHAbi3gZ3K4AxKYPWfg/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkx/NTExLTE2MzI3NzM5/MjktOTE5NC5qcGVn.jpeg"
     - "https://i.discogs.com/xayCkfT4BOkqUCJN3eJ610TfllstbcjeMr-qKzKjTHM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzkx/NTExLTE2MzI3NzM5/MjUtMTU4NC5qcGVn.jpeg"
@@ -33,18 +33,18 @@ Insider is the second album of the Manchester alternative rock band Amplifier. I
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Gustav’s Arrival |
-| A2 | O Fortuna |
-| A3 | Insider |
-| B1 | Mongrel’s Anthem |
-| B2 | R.I.P |
-| B3 | Strange Seas Of Thought |
-| C1 | Procedures  |
-| C2 | Elysian Gold |
-| C3 | Oort |
-| C4 | What Is Music? |
-| D1 | Hymn Of The Aten |
-| D2 | Map Of An Imaginary Place |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ Insider is the second album of the Manchester alternative rock band Amplifier. I
 | Label          | Rockosmos |
 | Catalog Number | ROK141 |
 | Notes | Gatefold cover double-sided color inlay Bandcamp download-code  Made in CZ |
-| Discogs URL    | [Amplifier - Insider](https://www.discogs.com/release/20391511-Amplifier-3-Insider) |
+| Discogs URL    | [Amplifier (3) - Insider](https://www.discogs.com/release/20391511-Amplifier-3-Insider) |

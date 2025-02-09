@@ -32,21 +32,21 @@ The Best of Chapterhouse is a greatest hits compilation album by English shoegaz
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | We Are The Beautiful |
-| A2 | Falling Down |
-| A3 | Pearl |
-| A4 | Mesmerise |
-| B1 | Autosleeper |
-| B2 | Come Heaven |
-| B3 | Breather |
-| B4 | She's A Vision |
-| C1 | There's Still Life |
-| C2 | Love Forever |
-| C3 | Then We'll Rise |
-| D1 | In My Arms |
-| D2 | Ecstasy II |
-| D3 | Something More |
-| D4 | On The Way To Fly |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

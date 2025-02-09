@@ -42,17 +42,17 @@ By turns aggressive and elusive, abrasive and romantic, <i>Return to Cookie Moun
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Was A Lover |
-| A2 | Hours |
-| A3 | Province |
-| B4 | Playhouses |
-| B5 | Wolf Like Me |
-| B6 | A Method |
-| C7 | Let The Devil In |
-| C8 | Dirtywhirl |
-| C9 | Blues From Down Here |
-| D10 | Tonight |
-| D11 | Wash The Day |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

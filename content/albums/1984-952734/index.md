@@ -42,15 +42,15 @@ Much to Eddie’s consternation, the band’s cover of The Kinks’ “You Reall
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | 1984 |
-| A2 | Jump |
-| A3 | Panama |
-| A4 | Top Jimmy |
-| A5 | Drop Dead Legs |
-| B1 | Hot For Teacher |
-| B2 | I'll Wait |
-| B3 | Girl Gone Bad |
-| B4 | House Of Pain |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

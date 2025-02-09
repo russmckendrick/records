@@ -35,19 +35,19 @@ The album has retrospectively been considered a "dark horse" in the alternative 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Soak The Sin |
-| A2 | Tones Of Home |
-| A3 | I Wonder |
-| A4 | Paper Scratcher |
-| A5 | Dear Ol' Dad |
-| A6 | Change |
-| A7 | No Rain |
-| B1 | Deserted |
-| B2 | Sleepyhouse |
-| B3 | Holyman |
-| B4 | Seed To A Tree |
-| B5 | Drive |
-| B6 | Time |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

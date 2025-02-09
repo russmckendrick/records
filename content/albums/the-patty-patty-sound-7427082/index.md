@@ -35,10 +35,10 @@ The Patty Patty Sound, along with the other two original E.P.s from The Beta Ban
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Inner Meets Me |
-| A2 | The House Song |
-| B1 | The Monolith |
-| B2 | She's The One |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

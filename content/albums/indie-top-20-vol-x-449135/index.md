@@ -34,26 +34,26 @@ styles: ["Alternative Rock", "House", "Synth-pop", "Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Groovy Train (Terry Farley Mix) |
-| A2 | Make It Mine |
-| A3 | All On You (Perfume) |
-| A4 | What Time Is Love? (Echo & The Bunnymen Mix) |
-| A5 | Biting My Nails (Bassnumb Chapter) |
-| B1 | It's On |
-| B2 | Triangle (Edit) |
-| B3 | Only Love Can Break Your Heart |
-| B4 | Lay Me Down |
-| B5 | Scratches (In The Sand) |
-| C1 | She Comes In The Fall |
-| C2 | The Only One I Know |
-| C3 | Waiting For The Angels |
-| C4 | Anyway That You Want Me |
-| C5 | Place With A Name |
-| D1 | Velouria |
-| D2 | Grand Hotel |
-| D3 | Everything Flows |
-| D4 | Precious Little |
-| D5 | Rent |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -33,14 +33,14 @@ styles: ["Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Night |
-| A2 | Chasing Utopia |
-| A3 | Beauty Is Truth |
-| A4 | Only Human |
-| B1 | Don't (You Mess With Me) |
-| B2 | No Ordinary Girl |
-| B3 | The Wolves Are Returning |
-| B4 | Ribbons Of Steel |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

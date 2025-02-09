@@ -37,13 +37,13 @@ A monochrome or monochromatic image, object or palette is composed of one color 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Exorcist |
-| A2 | This Music |
-| B1 | Soho |
-| B2 | The Silent Flight Of The Raven Winged Hours |
-| C1 | Dawn |
-| C2 | Oceans Of Time |
-| D1 | Some Dreams Come True |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

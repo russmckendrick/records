@@ -1,6 +1,6 @@
 ---
-title: "Mr Scruff - Ninja Tuna"
-artist_name: "Mr Scruff"
+title: "Mr. Scruff - Ninja Tuna"
+artist_name: "Mr. Scruff"
 artist: "mr-scruff"
 album_name: "Ninja Tuna"
 date: 2024-03-29T07:22:54.000000Z
@@ -10,8 +10,8 @@ slug: "ninja-tuna-30208622"
 hideSummary: true
 cover:
     image: "ninja-tuna-30208622.jpg"
-    alt: "Ninja Tuna by Mr Scruff"
-    caption: "Ninja Tuna by Mr Scruff"
+    alt: "Ninja Tuna by Mr. Scruff"
+    caption: "Ninja Tuna by Mr. Scruff"
 additional_images:
     - "https://i.discogs.com/YNcBmBgwgCiQVgdtqwj4it57m1OQBwrpsHYjp5WZw4Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjA4/NjIyLTE3MTI4NTA4/NTctNjAyNy5qcGVn.jpeg"
     - "https://i.discogs.com/Z2pLGzRsQc9A9oh_P9KdpED0Wk8yqq1h40snRMYV0EA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjA4/NjIyLTE3MTI4NTA4/NjUtMTA3NC5qcGVn.jpeg"
@@ -48,24 +48,24 @@ In 2009, it was awarded a silver certification (indicating sales of at least 30,
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Test The Sound |
-| A2 | Music Takes Me Up |
-| A3 | Donkey Ride |
-| B1 | Hairy Bumpercress |
-| B2 | Whiplash |
-| B3 | Nice Up The Function |
-| C1 | Bang The Floor |
-| C2 | Get On Down |
-| C3 | Hold On |
-| D1 | Give Up To Get |
-| D2 | Kalimba |
-| D3 | Zen |
-| E1 | This Way |
-| E2 | Stockport Carnival |
-| E3 | Fix That Speaker |
-| F1 | Bunch Of Keys (LP Edit) |
-| F2 | Rocking Chair |
-| F3 | Nice Up The Function (Remix Instrumental) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -84,4 +84,4 @@ In 2009, it was awarded a silver certification (indicating sales of at least 30,
 | Label          | Ninja Tune |
 | Catalog Number | ZEN143 |
 | Notes | Gatefold release, first time on vinyl Cover includes peel-able tuna sticker |
-| Discogs URL    | [Mr Scruff - Ninja Tuna](https://www.discogs.com/release/30208622-Mr-Scruff-Ninja-Tuna) |
+| Discogs URL    | [Mr. Scruff - Ninja Tuna](https://www.discogs.com/release/30208622-Mr-Scruff-Ninja-Tuna) |

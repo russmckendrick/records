@@ -39,27 +39,27 @@ styles: ["Indie Pop", "Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Mother We Share |
-| A2 | We Sink |
-| A3 | Gun |
-| A4 | Tether |
-| A5 | Lies |
-| A6 | Under The Tide |
-| B1 | Recover |
-| B2 | Night Sky |
-| B3 | Science/Visions |
-| B4 | Lungs |
-| B5 | By The Throat |
-| B6 | You Caught The Light |
-| C1 | Manhattan |
-| C2 | White Summer |
-| C3 | Talking In My Sleep |
-| C4 | City On Fire |
-| D1 | We Sink (Live) |
-| D2 | Now Is Not The Time (Live) |
-| D3 | Lies (Live) |
-| D4 | Strong Hand (Live) |
-| D5 | By The Throat (Live) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

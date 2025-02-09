@@ -30,15 +30,15 @@ styles: ["Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The New Stone Age |
-| A2 | She's Leaving |
-| A3 | Souvenir |
-| A4 | Sealand |
-| B1 | Joan Of Arc |
-| B2 | Joan Of Arc (Maid Of Orleans) |
-| B3 | Architecture & Morality |
-| B4 | Georgia |
-| B5 | The Beginning And The End |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

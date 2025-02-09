@@ -35,18 +35,18 @@ Pretenders II is the second studio album by British-American rock band the Prete
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Adultress |
-| A2 | Bad Boys Get Spanked |
-| A3 | Message Of Love |
-| A4 | I Go To Sleep |
-| A5 | Birds Of Paradise |
-| A6 | Talk Of The Town |
-| B1 | Pack It Up |
-| B2 | Waste Not Want Not |
-| B3 | Day After Day |
-| B4 | Jealous Dogs |
-| B5 | The English Roses |
-| B6 | Louie Louie |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

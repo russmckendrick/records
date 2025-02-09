@@ -35,18 +35,18 @@ This Machine Still Kills Fascists is the eleventh studio album by American band 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Two 6's Upside Down |
-| A2 | Talking Jukebox |
-| A3 | Ten Times More |
-| A4 | Never Git Drunk No More |
-| A5 | All You Fonies |
-| B6 | The Last One |
-| B7 | Cadillac, Cadillac |
-| B8 | Waters Are A'Risin |
-| B9 | Where Trouble Is At |
-| B10 | Dig A Hole |
-|  | Bonus Track |
-| B11 | Never Git Drunk No More (Alternate Version) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

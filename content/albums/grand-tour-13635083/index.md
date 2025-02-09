@@ -36,15 +36,15 @@ Grand Tour is the twelfth studio album by the English progressive rock band Big 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Novum Organum |
-| A2 | Alive |
-| A3 | The Florentine |
-| B1 | Roman Stone |
-| B2 | Pantheon |
-| C1 | Theodora In Green And Gold |
-| C2 | Ariel |
-| D1 | Voyager |
-| D2 | Homesong |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

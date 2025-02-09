@@ -1,7 +1,7 @@
 ---
-title: "Sultans Of Ping FC - Casual Sex In The Cineplex"
-artist_name: "Sultans Of Ping FC"
-artist: "sultans-of-ping-fc"
+title: "Sultans Of Ping F.C. - Casual Sex In The Cineplex"
+artist_name: "Sultans Of Ping F.C."
+artist: "sultans-of-ping-f-c"
 album_name: "Casual Sex In The Cineplex"
 date: 2023-11-11T02:26:35.000000Z
 release_date: "1993-12-31"
@@ -10,8 +10,8 @@ slug: "casual-sex-in-the-cineplex-28854088"
 hideSummary: true
 cover:
     image: "casual-sex-in-the-cineplex-28854088.jpg"
-    alt: "Casual Sex In The Cineplex by Sultans Of Ping FC"
-    caption: "Casual Sex In The Cineplex by Sultans Of Ping FC"
+    alt: "Casual Sex In The Cineplex by Sultans Of Ping F.C."
+    caption: "Casual Sex In The Cineplex by Sultans Of Ping F.C."
 additional_images:
     - "https://i.discogs.com/xxdRABq8WnYZ8L1z-5D6bZ-LDqKXR5wG2FLHLfsdjiM/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODU0/MDg4LTE2OTk2MTE4/MjUtMjYwMC5qcGVn.jpeg"
     - "https://i.discogs.com/0hgOWBtKEegs6DEGeVS-BVxbQpu1t4IOxflEmx4iylQ/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODU0/MDg4LTE2OTk2MTE4/MzQtODgwNi5qcGVn.jpeg"
@@ -35,18 +35,18 @@ Casual Sex in the Cineplex is the debut album by the Sultans of Ping FC, recorde
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Back In A Tracksuit |
-| A2 | Indeed You Are |
-| A3 | Veronica |
-| A4 | 2 Pints Of Rasa |
-| A5 | Stupid Kid |
-| A6 | You Talk Too Much |
-| B1 | Give Him A Ball (And A Yard Of Grass) |
-| B2 | Karaoke Queen |
-| B3 | Let's Go Shopping |
-| B4 | Kick Me With Your Leather Boots |
-| B5 | Clitus Clarke |
-| B6 | Where's Me Jumper? |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -65,4 +65,4 @@ Casual Sex in the Cineplex is the debut album by the Sultans of Ping FC, recorde
 | Label          | Music On Vinyl |
 | Catalog Number | MOVLP 3367C |
 | Notes | 30th Anniversary Edition  Limited edition of 1500 individually numbered copies on translucent yellow coloured vinyl  Includes printed inner sleeve with credits and lyrics.  All tracks recorded at Marcus Studios, except tracks A5 and A6, produced and recorded at Greenhouse Studios. All tracks published by Dreamsong Prods. Ltd / EMI Music Publishing Ltd. Original sound recording made by Rhythm King Records exclusively licensed to Sony Music Entertainment (UK) Ltd.   |
-| Discogs URL    | [Sultans Of Ping FC - Casual Sex In The Cineplex](https://www.discogs.com/release/28854088-Sultans-Of-Ping-FC-Casual-Sex-In-The-Cineplex) |
+| Discogs URL    | [Sultans Of Ping F.C. - Casual Sex In The Cineplex](https://www.discogs.com/release/28854088-Sultans-Of-Ping-FC-Casual-Sex-In-The-Cineplex) |

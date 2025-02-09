@@ -1,6 +1,6 @@
 ---
-title: "Derek  Clive - Come Again"
-artist_name: "Derek  Clive"
+title: "Derek & Clive - Come Again"
+artist_name: "Derek & Clive"
 artist: "derek-clive"
 album_name: "Come Again"
 date: 2015-12-30T09:11:50.000000Z
@@ -10,8 +10,8 @@ slug: "come-again-561165"
 hideSummary: true
 cover:
     image: "come-again-561165.jpg"
-    alt: "Come Again by Derek  Clive"
-    caption: "Come Again by Derek  Clive"
+    alt: "Come Again by Derek & Clive"
+    caption: "Come Again by Derek & Clive"
 additional_images:
     - "https://i.discogs.com/q82DWyRn-BS3NCZi5t1gqml6CEnH7UWULKPxIN38I4A/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTE2/NS0xMTY2OTk2NDIz/LmpwZWc.jpeg"
     - "https://i.discogs.com/CQZQaNBMQgN0jJAZSr8DsvuX0ApcUrS_ZPDZzfqTGnY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MTE2/NS0xNDcyOTE3MDEy/LTM2NjguanBlZw.jpeg"
@@ -31,22 +31,22 @@ Throughout much of the album (recorded in just one day for a Christmas release),
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Coughing Contest |
-| A2 | Cancer |
-| A3 | Non-stop Dancer / My Mum Song |
-| A4 | Joan Crawford |
-| A5 | Norman The Carpet |
-| A6 | How's Your Mother |
-| A7 | Back Of The Cab |
-| A8 | Alfie Noakes |
-| A9 | Nurse |
-| B1 | In The Cubicles |
-| B2 | Ross McPharter |
-| B3 | Hello Colin |
-| B4 | Having A Wank |
-| B5 | I Saw This Bloke |
-| B6 | Parking Offence |
-| B7 | Members Only |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -65,4 +65,4 @@ Throughout much of the album (recorded in just one day for a Christmas release),
 | Label          | Virgin |
 | Catalog Number | V 2094 |
 | Notes | ℗ 1977 Virgin Records Ltd  © 1977 Aspera A.G.  Side One: Ay, Bee, See, You, En, Tee.  Side Two: Ef, You2, See2, Kay, Aye, En2, Gee. |
-| Discogs URL    | [Derek  Clive - Come Again](https://www.discogs.com/release/561165-Derek-And-Clive-Come-Again) |
+| Discogs URL    | [Derek & Clive - Come Again](https://www.discogs.com/release/561165-Derek-And-Clive-Come-Again) |

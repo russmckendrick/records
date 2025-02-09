@@ -42,18 +42,18 @@ Fire Walk with Me premiered at the 1992 Cannes Film Festival in competition for 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Theme From Twin Peaks - Fire Walk With Me |
-| A2 | The Pine Float |
-| A3 | Sycamore Trees |
-| B4 | Don't Do Anything (I Woudn't Do) |
-| B5 | A Real Indication |
-| C6 | Questions In A World Of Blue |
-| C7 | The Pink Room |
-| C8 | The Black Dog Runs At Night |
-| C9 | Best Friends |
-| D10 | Moving Through Time |
-| D11 | Montage From Twin Peaks (Girl Talk / Birds In Hell / Laura Palmer's Theme / Falling) |
-| D12 | The Voice Of Love |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

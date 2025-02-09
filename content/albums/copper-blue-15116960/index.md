@@ -1,6 +1,6 @@
 ---
-title: "Sugar - Copper Blue"
-artist_name: "Sugar"
+title: "Sugar (5) - Copper Blue"
+artist_name: "Sugar (5)"
 artist: "sugar"
 album_name: "Copper Blue"
 date: 2025-01-20T07:42:59.000000Z
@@ -10,8 +10,8 @@ slug: "copper-blue-15116960"
 hideSummary: true
 cover:
     image: "copper-blue-15116960.jpg"
-    alt: "Copper Blue by Sugar"
-    caption: "Copper Blue by Sugar"
+    alt: "Copper Blue by Sugar (5)"
+    caption: "Copper Blue by Sugar (5)"
 additional_images:
     - "https://i.discogs.com/CcLL_Ylbxe3Jx2Uom4s4A7HR4EboczY7fdBGDOFA8Hw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE2/OTYwLTE2NjE2MTYw/NjEtODAxNi5qcGVn.jpeg"
     - "https://i.discogs.com/a6pQoeR07xJbUC0QHDz7GUeiQXxgDYutVgBzdtNhaSM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MTE2/OTYwLTE2NjE2MTYw/NjMtMjE0Mi5qcGVn.jpeg"
@@ -35,16 +35,16 @@ Copper Blue is the debut studio album by American alternative rock band Sugar. I
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Act We Act |
-| A2 | A Good Idea |
-| A3 | Changes  |
-| A4 | Helpless |
-| A5 | Hoover Dam |
-| B1 | The Slim |
-| B2 | If I Can't Change Your Mind |
-| B3 | Fortune Teller |
-| B4 | Slick |
-| B5 | Man On The Moon |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ Copper Blue is the debut studio album by American alternative rock band Sugar. I
 | Label          | Granary Music |
 | Catalog Number | DEMREC644 |
 | Notes | Originally issued as CRELP129 on Creation Records, 4th September 1992  Printed inner sleeves with lyrics |
-| Discogs URL    | [Sugar - Copper Blue](https://www.discogs.com/release/15116960-Sugar-5-Copper-Blue) |
+| Discogs URL    | [Sugar (5) - Copper Blue](https://www.discogs.com/release/15116960-Sugar-5-Copper-Blue) |

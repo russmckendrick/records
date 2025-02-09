@@ -43,39 +43,39 @@ styles: ["Soul", "Funk"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Curtis |
-| A1 | (Don't Worry) If There's A Hell Below We're All Going To Go |
-| A2 | The Other Side Of Town |
-| A3 | The Makings Of You |
-| A4 | We Are The People Who Are Darker Than Blue |
-| B1 | Move On Up |
-| B2 | Miss Black America  |
-| B3 | Wild And Free |
-| B4 | Give It Up |
-|  | Roots |
-| C1 | Get Down |
-| C2 | Keep On Keeping On |
-| C3 | Underground  |
-| C4 | We Got To Have Peace |
-| D1 | Beautiful Brother Of Mine |
-| D2 | Now You’re Gone  |
-| D3 | Love To Keep You In My Mind |
-|  | Back To The World  |
-| E1 | Back To The World |
-| E2 | Future Shock |
-| E3 | Right On For The Darkness  |
-| F1 | If I Were Only A Child Again |
-| F2 | Can't Say Nothin' |
-| F3 | Keep On Trippin' |
-| F4 | Future Song (Love A Good Woman, Love A Good Man) |
-|  | Sweet Exorcist  |
-| G1 | Ain't Got Time |
-| G2 | Sweet Exorcist  |
-| G3 | To Be Invisible  |
-| G4 | Power To The People  |
-| H1 | Kung Fu |
-| H2 | Suffer  |
-| H3 | Make Me Believe In You |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

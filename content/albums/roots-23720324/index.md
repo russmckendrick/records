@@ -32,19 +32,19 @@ styles: ["Psychedelic Rock", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Reflection |
-| A2 | Leaves |
-| A3 | Blood Boils Hot |
-| A4 | Gaslighting |
-| A5 | Meet You In Eden |
-| A6 | Willow Tree |
-| B1 | Roots |
-| B2 | Man In The Moon |
-| B3 | The Soul |
-| B4 | In Silva |
-| B5 | Thunder |
-| B6 | Reaching For Sun |
-| B7 | Epilogue |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

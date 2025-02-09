@@ -34,23 +34,23 @@ styles: ["Rhythm & Blues", "Mod", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Here Comes The Nice |
-| A2 | Talk To You |
-| A3 | Get Yourself Together |
-| A4 | Become Like You |
-| A5 | Green Circles |
-| A6 | Itchycoo Park |
-| A7 | I'm Only Dreaming |
-| A8 | Tin Soldier |
-| A9 | I Feel Much Better |
-| B1 | Lazy Sunday |
-| B2 | Rollin' Over (Part II Of Happiness Stan) |
-| B3 | Mad John (Single Version) |
-| B4 | The Journey (Single Version) |
-| B5 | The Universal |
-| B6 | Donkey Rides, A Penny A Glass |
-| B7 | Afterglow Of Your Love (Single Version) |
-| B8 | Wham Bam Thank You Mam |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

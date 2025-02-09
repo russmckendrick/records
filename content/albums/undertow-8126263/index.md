@@ -1,6 +1,6 @@
 ---
-title: "Tool - Undertow"
-artist_name: "Tool"
+title: "Tool (2) - Undertow"
+artist_name: "Tool (2)"
 artist: "tool"
 album_name: "Undertow"
 date: 2017-06-04T10:36:25.000000Z
@@ -10,8 +10,8 @@ slug: "undertow-8126263"
 hideSummary: true
 cover:
     image: "undertow-8126263.jpg"
-    alt: "Undertow by Tool"
-    caption: "Undertow by Tool"
+    alt: "Undertow by Tool (2)"
+    caption: "Undertow by Tool (2)"
 additional_images:
     - "https://i.discogs.com/uNDJXlS665kBvSp16yGubpuK931qPOD8J1CiLTQr0cs/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjYy/NjMtMTY1MDU5NzUy/OS04NzEzLmpwZWc.jpeg"
     - "https://i.discogs.com/RPe__rZRq3VioHaFDi_S-QzhQuqBAFM1ruiBRm4kTUk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxMjYy/NjMtMTY1MDU5NzQ5/MC03MTQ0LmpwZWc.jpeg"
@@ -35,16 +35,16 @@ As of 2020, Undertow has sold over three million copies in the United States, an
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Intolerance |
-| A2 | Prison Sex |
-| A3 | Sober |
-| B1 | Bottom |
-| B2 | Crawl Away |
-| B3 | Swamp Song |
-| C1 | Undertow |
-| C2 | 4° |
-| C3 | Flood |
-| D | Disgustipated |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ As of 2020, Undertow has sold over three million copies in the United States, an
 | Label          | Volcano (2) |
 | Catalog Number | 61422-31052-1 |
 | Notes | This pressing does not contain printed inner sleeves or labels and has the Parental Advisory "EXPLICIT CONTENT" printed directly on the lower right corner of the front cover (i.e. NOT a sticker).  Side "d" is listed as a second side "b" on the back of the release.  This one comes sealed in new style without horizontal shrink overlap on back  On labels: ℗ & © 1993 Volcano Entertainment II, L.L.C. Manufactured by Zomba Recording Corporation. All rights reserved.  Printed in U.S.A. 61422-31052-1  On back of the vinyl jacket:  61422-31052-1 ℗ & © 1993 Tool Dissectional, LLC / Volcano Entertainment II, LLC. Manufactured in the United States by Sony BMG Music Entertainment.  |
-| Discogs URL    | [Tool - Undertow](https://www.discogs.com/release/8126263-Tool-2-Undertow) |
+| Discogs URL    | [Tool (2) - Undertow](https://www.discogs.com/release/8126263-Tool-2-Undertow) |

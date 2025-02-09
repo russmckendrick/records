@@ -35,16 +35,16 @@ Bold experimentalism is key for Californian Julia Holter. Her third album is a m
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Feel You |
-| A2 | Silhouette |
-| A3 | How Long? |
-| A4 | Lucette Stranded On The Island |
-| A5 | Night Song |
-| B1 | Sea Calls Me Home |
-| B2 | Everytime Boots |
-| B3 | Betsy On The Roof |
-| B4 | Vasquez |
-| B5 | Have You In My Wilderness |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

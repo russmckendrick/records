@@ -39,17 +39,17 @@ A Momentary Lapse of Reason received mixed reviews; some critics praised the pro
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Signs Of Life |
-| A2 | Learning To Fly |
-| A3 | The Dogs Of War |
-| A4 | One Slip |
-| A5 | On The Turning Away |
-| B1 | Yet Another Movie |
-| B2 | Round And Around |
-| B3 | A New Machine (Part 1) |
-| B4 | Terminal Frost |
-| B5 | A New Machine (Part 2) |
-| B6 | Sorrow |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

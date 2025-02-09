@@ -1,6 +1,6 @@
 ---
-title: "Sublime - Sublime"
-artist_name: "Sublime"
+title: "Sublime (2) - Sublime"
+artist_name: "Sublime (2)"
 artist: "sublime"
 album_name: "Sublime"
 date: 2016-09-29T17:26:03.000000Z
@@ -10,8 +10,8 @@ slug: "sublime-8687804"
 hideSummary: true
 cover:
     image: "sublime-8687804.jpg"
-    alt: "Sublime by Sublime"
-    caption: "Sublime by Sublime"
+    alt: "Sublime by Sublime (2)"
+    caption: "Sublime by Sublime (2)"
 additional_images:
     - "https://i.discogs.com/93Diu2AHBj5-9mPHyPqQZz-GyereEbtpLwmqrIjR1rU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODc4/MDQtMTQ3MjIwNDUz/OS05NzI4LmpwZWc.jpeg"
     - "https://i.discogs.com/MvY_O2yWayjuleYwLThlPhFv1QxhdAKxPond8lxXCqc/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2ODc4/MDQtMTQ3MjIwNDUz/OS05ODAyLmpwZWc.jpeg"
@@ -43,23 +43,23 @@ Bolstered by numerous hit singles, among them "What I Got", "Santeria", and "Wro
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Garden Grove |
-| A2 | What I Got |
-| A3 | Wrong Way |
-| A4 | Same In The End |
-| B1 | April 29, 1992 (Miami) |
-| B2 | Santeria |
-| B3 | Seed |
-| B4 | Jailhouse |
-| C1 | Pawn Shop |
-| C2 | Paddle Out |
-| C3 | The Ballad Of Johnny Butt |
-| C4 | Burritos |
-| C5 | Under My Voodoo |
-| D1 | Get Ready |
-| D2 | Caress Me Down |
-| D3 | What I Got (Reprise) |
-| D4 | Doin' Time |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -78,4 +78,4 @@ Bolstered by numerous hit singles, among them "What I Got", "Santeria", and "Wro
 | Label          | Gasoline Alley |
 | Catalog Number | B0024679-01 |
 | Notes | 2016 LP reissue variant  Runouts indicate that the metal parts used for this pressing were processed by Record Technology, Inc.  Records housed in thick cardstock color graphics inner's. Gatefold sleeve |
-| Discogs URL    | [Sublime - Sublime](https://www.discogs.com/release/8687804-Sublime-2-Sublime) |
+| Discogs URL    | [Sublime (2) - Sublime](https://www.discogs.com/release/8687804-Sublime-2-Sublime) |

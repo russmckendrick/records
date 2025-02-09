@@ -27,28 +27,28 @@ The Darkest Skies Are the Brightest is the third solo studio album by Anneke van
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Agape |
-| A2 | Hurricane |
-| A3 | My Promise |
-| A4 | I Saw A Car |
-| A5 | The Soul Knows |
-| B1 | The End |
-| B2 | Keep It Simple |
-| B3 | Lo And Behold |
-| B4 | Losing You |
-| B5 | Survive |
-| B6 | Love You Like I Love You |
-| CD-1 | Agape |
-| CD-2 | Hurricane |
-| CD-3 | My Promise |
-| CD-4 | I Saw A Car |
-| CD-5 | The Soul Knows |
-| CD-6 | The End |
-| CD-7 | Keep It Simple |
-| CD-8 | Lo And Behold |
-| CD-9 | Losing You |
-| CD-10 | Survive |
-| CD-11 | Love You Like I Love You |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

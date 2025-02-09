@@ -1,6 +1,6 @@
 ---
-title: "Moby  The Void Pacific Choir - These Systems Are Failing"
-artist_name: "Moby  The Void Pacific Choir"
+title: "Moby & The Void Pacific Choir - These Systems Are Failing"
+artist_name: "Moby & The Void Pacific Choir"
 artist: "moby-the-void-pacific-choir"
 album_name: "These Systems Are Failing"
 date: 2017-02-10T20:04:35.000000Z
@@ -10,8 +10,8 @@ slug: "these-systems-are-failing-9341373"
 hideSummary: true
 cover:
     image: "these-systems-are-failing-9341373.jpg"
-    alt: "These Systems Are Failing by Moby  The Void Pacific Choir"
-    caption: "These Systems Are Failing by Moby  The Void Pacific Choir"
+    alt: "These Systems Are Failing by Moby & The Void Pacific Choir"
+    caption: "These Systems Are Failing by Moby & The Void Pacific Choir"
 additional_images:
     - "https://i.discogs.com/bbisoVVZkAF_6RzcYgHakmJ-n8QKd0Jtfsz7M6cERAc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDEz/NzMtMTUxNDEyMDI4/MS03MzE3LmpwZWc.jpeg"
     - "https://i.discogs.com/3c0eLNhyKiOlEU3MEI2F48igWl0GczYggO6ffBADy7Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDEz/NzMtMTQ4MDI3MDA0/My04Nzk2LmpwZWc.jpeg"
@@ -33,15 +33,15 @@ These Systems Are Failing is the thirteenth studio album by American electronica
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Hey! Hey! |
-| A2 | Break.Doubt |
-| A3 | I Wait For You |
-| A4 | Don't Leave Me |
-| A5 | Erupt & Matter |
-| B1 | Are You Lost In The World Like Me? |
-| B2 | A Simple Love |
-| B3 | The Light Is Clear In My Eyes |
-| B4 | And It Hurts |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -60,4 +60,4 @@ These Systems Are Failing is the thirteenth studio album by American electronica
 | Label          | Little Idiot |
 | Catalog Number | IDIOT049LP |
 | Notes | Printed inner sleeve and lenticular cover.  Download code for 12 tracks comprised of the album and three bonus tracks: "Almost Loved", "The Nighttime", "Dark Star".  ℗ 2016 little idiot © 2016 little idiot  |
-| Discogs URL    | [Moby  The Void Pacific Choir - These Systems Are Failing](https://www.discogs.com/release/9341373-Moby-The-Void-Pacific-Choir-These-Systems-Are-Failing) |
+| Discogs URL    | [Moby & The Void Pacific Choir - These Systems Are Failing](https://www.discogs.com/release/9341373-Moby-The-Void-Pacific-Choir-These-Systems-Are-Failing) |

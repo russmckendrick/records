@@ -1,7 +1,7 @@
 ---
-title: "REM - Eponymous"
-artist_name: "REM"
-artist: "rem"
+title: "R.E.M. - Eponymous"
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "Eponymous"
 date: 2017-04-02T12:56:55.000000Z
 release_date: "1988-10-17"
@@ -10,8 +10,8 @@ slug: "eponymous-8899397"
 hideSummary: true
 cover:
     image: "eponymous-8899397.jpg"
-    alt: "Eponymous by REM"
-    caption: "Eponymous by REM"
+    alt: "Eponymous by R.E.M."
+    caption: "Eponymous by R.E.M."
 additional_images:
     - "https://i.discogs.com/I6o04rclUH7QOZHOUtkRkzSnytuO3WVCU0Qb7qxiLZ8/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTkz/OTctMTQ3MTA3MTY1/MS03Mzk3LmpwZWc.jpeg"
     - "https://i.discogs.com/NBMqQQARSVjecoKZQ7LSSfbdP0dZ6cZnFvXHctFsVn0/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4OTkz/OTctMTU5MDk1MDgx/Ni00OTYwLmpwZWc.jpeg"
@@ -37,20 +37,20 @@ Released in October 1988, just a month before R.E.M.'s Warner Bros. debut Green 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Early |
-| A1 | Radio Free Europe (Original Hib-Tone Single) |
-| A2 | Gardening At Night (Different Vocal Mix) |
-| A3 | Talk About The Passion |
-| A4 | So. Central Rain |
-| A5 | (Don't Go Back To) Rockville |
-| A6 | Can't Get There From Here |
-|  | Late |
-| B1 | Driver 8 |
-| B2 | Romance |
-| B3 | Fall On Me |
-| B4 | The One I Love |
-| B5 | Finest Worksong (Mutual Drum Horn Mix) |
-| B6 | It's The End Of The World As We Know It (And I Feel Fine) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -69,4 +69,4 @@ Released in October 1988, just a month before R.E.M.'s Warner Bros. debut Green 
 | Label          | I.R.S. Records |
 | Catalog Number | 00602547899828 |
 | Notes | Includes voucher to download MP3 version of the album.   |
-| Discogs URL    | [REM - Eponymous](https://www.discogs.com/release/8899397-REM-Eponymous) |
+| Discogs URL    | [R.E.M. - Eponymous](https://www.discogs.com/release/8899397-REM-Eponymous) |

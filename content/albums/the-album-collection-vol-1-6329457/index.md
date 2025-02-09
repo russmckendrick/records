@@ -84,89 +84,89 @@ You can hear their desperation in “Racing in the Street” or on the sombre ti
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Greetings From Asbury Park, N.J. |
-| A1 | Blinded By The Light |
-| A2 | Growin' Up |
-| A3 | Mary Queen Of Arkansas |
-| A4 | Does This Bus Stop At 82nd Street? |
-| A5 | Lost In The Flood |
-| B1 | The Angel |
-| B2 | For You |
-| B3 | Spirit In The Night |
-| B4 | It's Hard To Be A Saint In The City |
-|  | The Wild, The Innocent & The E Street Shuffle |
-| C1 | The E Street Shuffle |
-| C2 | 4th Of July, Asbury Park (Sandy) |
-| C3 | Kitty's Back |
-| C4 | Wild Billy's Circus Story |
-| D1 | Incident On 57th Street |
-| D2 | Rosalita (Come Out Tonight) |
-| D3 | New York City Serenade |
-|  | Born To Run |
-| E1 | Thunder Road |
-| E2 | Tenth Avenue Freeze-Out |
-| E3 | Night |
-| E4 | Backstreets |
-| F1 | Born To Run |
-| F2 | She's The One |
-| F3 | Meeting Across The River |
-| F4 | Jungleland |
-|  | Darkness On The Edge Of Town |
-| G1 | Badlands |
-| G2 | Adam Raised A Cain |
-| G3 | Something In The Night |
-| G4 | Candy's Room |
-| G5 | Racing In The Street |
-| H1 | The Promised Land |
-| H2 | Factory |
-| H3 | Streets Of Fire |
-| H4 | Prove It All Night |
-| H5 | Darkness On The Edge Of Town |
-|  | The River |
-| I1 | The Ties That Bind |
-| I2 | Sherry Darling |
-| I3 | Jackson Cage |
-| I4 | Two Hearts |
-| I5 | Independence Day |
-| J1 | Hungry Heart |
-| J2 | Out In The Street |
-| J3 | Crush On You |
-| J4 | You Can Look (But You Better Not Touch) |
-| J5 | I Wanna Marry You |
-| J6 | The River |
-| K1 | Point Blank |
-| K2 | Cadillac Ranch |
-| K3 | I'm A Rocker |
-| K4 | Fade Away |
-| K5 | Stolen Car |
-| L1 | Ramrod |
-| L2 | The Price You Pay |
-| L3 | Drive All Night |
-| L4 | Wreck On The Highway |
-|  | Nebraska |
-| M1 | Nebraska |
-| M2 | Atlantic City |
-| M3 | Mansion On The Hill |
-| M4 | Johnny 99 |
-| M5 | Highway Patrolman |
-| N1 | State Trooper |
-| N2 | Used Cars |
-| N3 | Open All Night |
-| N4 | My Father's House |
-| N5 | Reason To Believe |
-|  | Born In The U.S.A. |
-| O1 | Born In The U.S.A. |
-| O2 | Cover Me |
-| O3 | Darlington County |
-| O4 | Working On The Highway |
-| O5 | Downbound Train |
-| O6 | I'm On Fire |
-| P1 | No Surrender |
-| P2 | Bobby Jean |
-| P4 | I'm Going Down |
-| P4 | Glory Days |
-| P5 | Dancing In The Dark |
-| P6 | My Hometown |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

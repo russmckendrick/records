@@ -36,24 +36,24 @@ Riverside’s moody <i>Wasteland</i> is rife with violent sounds and moments of 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Day After |
-|  | Acid Rain |
-| A3 | Vale of Tears |
-| A4 | Guardian Angel |
-| B1 | Lament |
-|  | The Struggle for Survival |
-| C1 | River Down Below |
-| C2 | Wasteland |
-| C3 | The Night Before |
-| CD-1 | The Day After |
-| CD-2 | Acid Rain |
-| CD-3 | Vale of Tears |
-| CD-4 | Guardian Angel |
-| CD-5 | Lament |
-| CD-6 | The Struggle for Survival |
-| CD-7 | River Down Below |
-| CD-8 | Wasteland |
-| CD-9 | The Night Before |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

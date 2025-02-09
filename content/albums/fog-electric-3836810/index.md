@@ -26,15 +26,15 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Soft Coda |
-| A2 | Chirality |
-| A3 | Mirador |
-| A4 | Interval |
-| A5 | Empire Waste |
-| B1 | Savage With Barometer |
-| B2 | Expert With Altimeter |
-| B3 | The Receiver |
-| B4 | Downhill |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

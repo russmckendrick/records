@@ -38,16 +38,16 @@ Divino afflante Spiritu ('Inspired by the Holy Spirit') is an encyclical letter 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Don't Change |
-| A2 | You Put My Love Out The Door |
-| A3 | She's A Rainbow |
-| A4 | Run To Me |
-| A5 | The Porpoise Song |
-| B1 | Could It Be Magic |
-| B2 | The Visitors |
-| B3 | Let 'Em In |
-| B4 | Never My Love |
-| B5 | The Spirit Of Radio |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

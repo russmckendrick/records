@@ -1,6 +1,6 @@
 ---
-title: "Guns N Roses - Appetite For Destruction"
-artist_name: "Guns N Roses"
+title: "Guns N' Roses - Appetite For Destruction"
+artist_name: "Guns N' Roses"
 artist: "guns-n-roses"
 album_name: "Appetite For Destruction"
 date: 2016-05-18T16:49:03.000000Z
@@ -10,8 +10,8 @@ slug: "appetite-for-destruction-7492229"
 hideSummary: true
 cover:
     image: "appetite-for-destruction-7492229.jpg"
-    alt: "Appetite For Destruction by Guns N Roses"
-    caption: "Appetite For Destruction by Guns N Roses"
+    alt: "Appetite For Destruction by Guns N' Roses"
+    caption: "Appetite For Destruction by Guns N' Roses"
 additional_images:
     - "https://i.discogs.com/Lj0CHYaSCmIOrol0NWFwSGEPDASynGJeaS1B1hQ9uQ0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTIy/MjktMTQ4OTQ3ODcy/NS0yMjI0LmpwZWc.jpeg"
     - "https://i.discogs.com/8yZjIIBXnTElRZMWgeQ87KtVuNVYPBSai4at1RQ2Syg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTIy/MjktMTQ0MjU5NDE5/My0yNzgxLmpwZWc.jpeg"
@@ -34,20 +34,20 @@ At the time, the band was considered an antidote to the slickness of pop-metalâ€
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | G |
-| G1 | Welcome To The Jungle |
-| G2 | It's So Easy |
-| G3 | Nightrain |
-| G4 | Out Ta Get Me |
-| G5 | Mr. Brownstone |
-| G6 | Paradise City |
-|  | R |
-| R1 | My Michelle |
-| R2 | Think About You |
-| R3 | Sweet Child O' Mine |
-| R4 | You're Crazy |
-| R5 | Anything Goes |
-| R6 | Rocket Queen |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -66,4 +66,4 @@ At the time, the band was considered an antidote to the slickness of pop-metalâ€
 | Label          | Geffen Records |
 | Catalog Number | 00720642414811 |
 | Notes | Made in the EU. Universal International Music BVGerrit van der veenlaan4, 3743 DN, Baarn, Netherlands.  Release date not found anywhere on the item itself, it was provided by the pressing plant when asked about it.  A subsequent repressing was made using the same stamper for side A and a different one for side B: see [r=10323040] |
-| Discogs URL    | [Guns N Roses - Appetite For Destruction](https://www.discogs.com/release/7492229-Guns-N-Roses-Appetite-For-Destruction) |
+| Discogs URL    | [Guns N' Roses - Appetite For Destruction](https://www.discogs.com/release/7492229-Guns-N-Roses-Appetite-For-Destruction) |

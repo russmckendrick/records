@@ -45,34 +45,34 @@ The Bad Fire is the eleventh studio album by Scottish post-rock band Mogwai, rel
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | God Gets You Back |
-| A2 | Hi Chaos |
-| A3 | What Kind Of Mix Is This? |
-| A4 | Fanzine Made Of Flesh |
-| B1 | Pale Vegan Hip Pain |
-| B2 | If You Find This World Bad, You Should See Some Of The Others |
-| B3 | 18 Volcanoes |
-| C1 | Hammer Room |
-| C2 | Lion Rumpus |
-| C3 | Fact Boy |
-| E1 | God Gets You Back |
-| E2 | Hi Chaos |
-| E3 | What Kind Of Mix Is This? |
-| E4 | Pale Vegan Hip Pain |
-| F1 | If You Find This World Bad, You Should See Some Of The Others |
-| F2 | 18 Volcanoes |
-| F3 | Hammer Room |
-| F4 | Lion Rumpus |
-| CD-1 | God Gets You Back |
-| CD-2 | Hi Chaos |
-| CD-3 | What Kind Of Mix Is This? |
-| CD-4 | Fanzine Made Of Flesh |
-| CD-5 | Pale Vegan Hip Pain |
-| CD-6 | If You Find This World Bad, You Should See Some Of The Others |
-| CD-7 | 18 Volcanoes |
-| CD-8 | Hammer Room |
-| CD-9 | Lion Rumpus |
-| CD-10 | Fact Boy |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

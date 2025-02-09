@@ -36,18 +36,18 @@ styles: ["Alternative Rock", "Post-Punk", "Soundtrack"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Use Your Loaf |
-| A2 | Surplus And Scarcity |
-| A3 | What A Carry On |
-| A4 | Let’s Think About Living |
-| A5 | Black Country |
-| A6 | Ghost |
-| B1 | Born Again In Birmingham |
-| B2 | Overreactor |
-| B3 | Thick And Thin (Glam Version) |
-| B4 | Chaff |
-| B5 | The Desperate Quartet |
-| B6 | Gales Doc |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

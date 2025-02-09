@@ -30,15 +30,15 @@ styles: ["Ambient", "Drone"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Deep Shelter |
-| A2 | Rituals |
-| A3 | A Pink Sunset For No One |
-| A4 | Lone Victory Tonight |
-| B5 | Trails And Trials |
-| B6 | Another Dark Hour |
-| B7 | Corridors |
-| B8 | The Unveiling |
-| B9 | Emergence |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

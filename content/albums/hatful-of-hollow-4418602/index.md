@@ -39,22 +39,22 @@ Hatful of Hollow reached No. 7 on the UK Albums Chart, remaining on the chart fo
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | William, It Was Really Nothing |
-| A2 | What Difference Does It Make? |
-| A3 | These Things Take Time |
-| A4 | This Charming Man |
-| A5 | How Soon Is Now? |
-| A6 | Handsome Devil |
-| A7 | Hand In Glove |
-| A8 | Still Ill |
-| B1 | Heaven Knows I'm Miserable Now |
-| B2 | This Night Has Opened My Eyes |
-| B3 | You've Got Everything Now |
-| B4 | Accept Yourself |
-| B5 | Girl Afraid |
-| B6 | Back To The Old House |
-| B7 | Reel Around The Fountain |
-| B8 | Please Please Please Let Me Get What I Want |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -38,10 +38,10 @@ Blackbox Life Recorder 21f / In a Room7 F760 is an extended play record by the B
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Blackbox Life Recorder 21f |
-| A2 | Zin2 Test5 |
-| AA1 | In A Room7 F760 |
-| AA2 | Blackbox Life Recorder 22 (Parallax Mix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

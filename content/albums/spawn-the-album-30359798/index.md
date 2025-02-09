@@ -39,20 +39,20 @@ styles: ["Breakbeat", "Soundtrack", "Techno", "Drum n Bass", "Nu Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | (Can't You) Trip Like I Do |
-| A2 | Long Hard Road Out Of Hell |
-| A3 | Satan |
-| B1 | Kick The P.A. |
-| B2 | Tiny Rubberband |
-| B3 | For Whom The Bell Tolls (The Irony Of It All) |
-| B4 | Torn Apart |
-| C1 | Skin Up Pin Up |
-| C2 | One Man Army |
-| C3 | Spawn |
-| D1 | T-4 Strain |
-| D2 | Familiar |
-| D3 | No Remorse (I Wanna Die) |
-| D4 | A Plane Scraped Its Belly On A Sooty Yellow Moon |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

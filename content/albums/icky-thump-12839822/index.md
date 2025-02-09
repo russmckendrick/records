@@ -36,23 +36,23 @@ From the start, Jack White was an incisive and magnetic guitar player, his snarl
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Side Uno |
-| A1 | Icky Thump |
-| A2 | You Don't Know What Love Is  (You Just Do As You're Told) |
-| A3 | 300 M.P.H. Torrential Outpour Blues |
-|  | Side Dwa |
-| B4 | Conquest |
-| B5 | Bone Broke |
-| B6 | Prickly Thorn, But Sweetly Worn |
-| B7 | St. Andrew (This Battle Is In The Air) |
-|  | Side Three |
-| C8 | Little Cream Soda |
-| C9 | Rag And Bone |
-| C10 | I'm Slowly Turning Into You |
-|  | Side Fower |
-| D11 | A Martyr For My Love For You |
-| D12 | Catch Hell Blues |
-| D13 | Effect And Cause |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

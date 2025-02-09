@@ -36,34 +36,34 @@ The theme song "Generation" was written and performed by Emerson Hart, lead sing
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Song For America |
-| A2 | The Joker |
-| A3 | Read 'Em And Weep |
-| A4 | Born To Be Wild |
-| A5 | Stage Fright |
-| A6 | Keep On Loving You |
-| A7 | Do You Believe In Love |
-| B1 | Foolish Heart |
-| B2 | She's Not There |
-| B3 | White Rabbit |
-| B4 | More Than A Feeling |
-| B5 | Heart Like A Wheel |
-| B6 | Even The Nights Are Better |
-| B7 | We Belong |
-| C1 | I Can't Hold Back |
-| C2 | American Woman |
-| C3 | Don't Stop Believing |
-| C4 | She's Gone |
-| C5 | Sylvia's Mother |
-| C6 | Trouble |
-| C7 | Missing You |
-| D1 | Rosana |
-| D2 | Because The Night |
-| D3 | Miracles |
-| D4 | Nobody But You |
-| D5 | Freebird |
-| D6 | Feels So Right |
-| D7 | Here Comes That Feeling |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

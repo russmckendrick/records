@@ -40,22 +40,22 @@ styles: ["Alternative Rock", "New Wave"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Three Imaginary Boys (Help Me Mix 2018) |
-| A2 | M (Attack Mix 2018) |
-| A3 | The Drowning Man (Bright Birds Mix 2018) |
-| A4 | A Strange Day (Drowning Waves Mix 2018) |
-| B1 | Just One Kiss (Remember Mix 2018) |
-| B2 | Shake Dog Shake (New Blood Mix 2018) |
-| B3 | A Night Like This (Hello Goodbye Mix 2018) |
-| B4 | Like Cockatoos (Lonely In The Rain Mix 2018) |
-| C1 | Plainsong (Edge Of The World Mix 2018) |
-| C2 | Never Enough (Time To Kill Mix 2018) |
-| C3 | From The Edge Of The Deep Green Sea (Love In Vain Mix 2018) |
-| C4 | Want (Time Mix 2018) |
-| D1 | The Last Day Of Summer (31st August Mix 2018) |
-| D2 | Cut Here (If Only Mix 2018) |
-| D3 | Lost (Found Mix 2018) |
-| D4 | It's Over (Whisper Mix 2018) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

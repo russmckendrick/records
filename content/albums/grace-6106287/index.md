@@ -32,16 +32,16 @@ Rolling Stone included Grace in three of its lists of the 500 greatest albums an
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| 1 | Mojo Pin |
-| 2 | Grace |
-| 3 | Last Goodbye |
-| 4 | Lilac Wine |
-| 5 | So Real |
-| 6 | Hallelujah |
-| 7 | Lover, You Should've Come Over |
-| 8 | Corpus Christi Carol |
-| 9 | Eternal Life |
-| 10 | Dream Brother |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

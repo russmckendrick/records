@@ -38,27 +38,27 @@ styles: ["Indie Rock", "Britpop", "Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Drowners |
-| A2 | Metal Mickey |
-| A3 | Animal Nitrate |
-| A4 | So Young |
-| A5 | Stay Together |
-| A6 | We Are The Pigs |
-| B1 | The Wild Ones |
-| B2 | New Generation  |
-| B3 | Trash |
-| B4 | Beautiful Ones |
-| B5 | Saturday Night |
-| C1 | Filmstar |
-| C2 | She's In Fashion |
-| C3 | Everything Will Flow |
-| C4 | Can't Get Enough |
-| C5 | Obsessions |
-| D1 | It Starts And Ends With You |
-| D2 | For The Strangers |
-| D3 | Outsiders |
-| D4 | The Invisibles |
-| D5 | Life Is Golden |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

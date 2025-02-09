@@ -1,6 +1,6 @@
 ---
-title: "Jim Bob - Pop Up Jim Bob"
-artist_name: "Jim Bob"
+title: "Jim Bob (2) - Pop Up Jim Bob"
+artist_name: "Jim Bob (2)"
 artist: "jim-bob"
 album_name: "Pop Up Jim Bob"
 date: 2020-08-15T10:10:13.000000Z
@@ -10,8 +10,8 @@ slug: "pop-up-jim-bob-15766080"
 hideSummary: true
 cover:
     image: "pop-up-jim-bob-15766080.jpg"
-    alt: "Pop Up Jim Bob by Jim Bob"
-    caption: "Pop Up Jim Bob by Jim Bob"
+    alt: "Pop Up Jim Bob by Jim Bob (2)"
+    caption: "Pop Up Jim Bob by Jim Bob (2)"
 additional_images:
     - "https://i.discogs.com/0WsjCx_L6HXxGsjK29vcGZzzSJPS07Y28wUftgJXQpY/rs:fit/g:sm/q:90/h:480/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/MDgwLTE1OTc0MDI2/NTEtMjAxMy5qcGVn.jpeg"
     - "https://i.discogs.com/l56PJ0p19HH56CR1RS2RQ7RcmV8yKtslbUJOhOd5nMw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY2/MDgwLTE1OTg1MjM4/MjQtNjA5Ni5qcGVn.jpeg"
@@ -35,17 +35,17 @@ styles: ["Alternative Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Turn On, Tune In, Pop Up! |
-| A2 | Jo's Got Papercuts |
-| A3 | Kidstrike! |
-| A4 | Ted Talks |
-| A5 | Truce |
-| B1 | 2020 WTF! |
-| B2 | If It Ain't Broke |
-| B3 | Big Boy |
-| B4 | Barry's On Safari (In His Safari Suit) |
-| B5 | #thoughtsandprayers |
-| B6 | You're Cancelled And We're Done |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -63,4 +63,4 @@ styles: ["Alternative Rock"]
 | Label          | Cherry Red |
 | Catalog Number | BRED808 |
 | Notes | Gatefold sleeve.  2021 Jim Bob Calendar included |
-| Discogs URL    | [Jim Bob - Pop Up Jim Bob](https://www.discogs.com/release/15766080-Jim-Bob-2-Pop-Up-Jim-Bob) |
+| Discogs URL    | [Jim Bob (2) - Pop Up Jim Bob](https://www.discogs.com/release/15766080-Jim-Bob-2-Pop-Up-Jim-Bob) |

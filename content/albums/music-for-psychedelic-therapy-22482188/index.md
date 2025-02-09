@@ -37,14 +37,14 @@ Music for Psychedelic Therapy is the sixth studio album by English electronic mu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Welcome |
-| A2 | Love Flows Over Us In Prismatic Waves |
-| A3 | Deep In The Glowing Heart |
-| B | Tayos Caves, Ecuador |
-| C1 | Ascending, Dawn Sky |
-| C2 | Arriving |
-| C3 | Sit Around The Fire |
-| D | Singing Bowl (Ascension) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

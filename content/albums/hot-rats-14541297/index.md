@@ -37,12 +37,12 @@ Frank Zappa's guitar chops played second fiddle to his skewered pop visions, his
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Peaches En Regalia |
-| A2 | Willie The Pimp |
-| A3 | Son Of Mr. Green Genes |
-| B1 | Little Umbrellas |
-| B2 | The Gumbo Variations |
-| B3 | It Must Be A Camel |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

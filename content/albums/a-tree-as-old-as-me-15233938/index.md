@@ -27,10 +27,10 @@ styles: ["Post Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Shine |
-| A2 | B.O.A.T.S |
-| B1 | The Seed |
-| B2 | Through A Lens Darkly |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -28,15 +28,15 @@ Sleep cut ties with their sludge past and dove into neo-Sabbath doom and stoner 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Dragonaut |
-| A2 | The Druid |
-| A3 | Evil Gypsy / Solomon's Theme |
-| A4 | Some Grass |
-| A5 | Aquarian |
-| B1 | Holy Mountain |
-| B2 | Inside The Sun |
-| B3 | From Beyond |
-| B4 | Nain's Baptism |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

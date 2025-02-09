@@ -51,19 +51,19 @@ The album has been widely regarded by writers and music critics as a significant
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Snake Eyes |
-| A2 | Just Hangin' Out |
-| A3 | Looking At The Front Door |
-| A4 | Large Professor |
-| A5 | Just A Friendly Game Of Baseball |
-| A6 | Scratch & Kut |
-| B1 | Peace Is Not The Word To Play |
-| B2 | Vamos A Rapiar |
-| B3 | He Got So Much Soul (He Don't Need No Music) |
-| B4 | Live At The Barbeque |
-| B5 | Watch Roger Do His Thing |
-| C | Peace Is Not The Word To Play (Remix) |
-| D | How My Man Went Down In The Game |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

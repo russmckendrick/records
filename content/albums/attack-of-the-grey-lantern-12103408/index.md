@@ -32,17 +32,17 @@ Attack of the Grey Lantern is the debut album by English alternative rock band M
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Chad Who Loved Me |
-| A2 | Mansun's Only Love Song |
-| A3 | Taxloss |
-| B1 | You, Who Do You Hate? |
-| B2 | Wide Open Space |
-| B3 | Stripper Vicar |
-| C1 | Disgusting |
-| C2 | She Makes My Nose Bleed |
-| C3 | Naked Twister |
-| D1 | Egg Shaped Fred |
-| D2 | Dark Mavis |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

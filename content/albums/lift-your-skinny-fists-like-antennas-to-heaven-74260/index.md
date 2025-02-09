@@ -1,6 +1,6 @@
 ---
-title: "Godspeed You Black Emperor - Lift Your Skinny Fists Like Antennas To Heaven"
-artist_name: "Godspeed You Black Emperor"
+title: "Godspeed You Black Emperor! - Lift Your Skinny Fists Like Antennas To Heaven"
+artist_name: "Godspeed You Black Emperor!"
 artist: "godspeed-you-black-emperor"
 album_name: "Lift Your Skinny Fists Like Antennas To Heaven"
 date: 2016-12-27T12:09:06.000000Z
@@ -10,8 +10,8 @@ slug: "lift-your-skinny-fists-like-antennas-to-heaven-74260"
 hideSummary: true
 cover:
     image: "lift-your-skinny-fists-like-antennas-to-heaven-74260.jpg"
-    alt: "Lift Your Skinny Fists Like Antennas To Heaven by Godspeed You Black Emperor"
-    caption: "Lift Your Skinny Fists Like Antennas To Heaven by Godspeed You Black Emperor"
+    alt: "Lift Your Skinny Fists Like Antennas To Heaven by Godspeed You Black Emperor!"
+    caption: "Lift Your Skinny Fists Like Antennas To Heaven by Godspeed You Black Emperor!"
 additional_images:
     - "https://i.discogs.com/ytQGzdHvEGjnWr3PEX36iaDeBpwRg0QhXT830ml9HHs/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjYw/LTE2MDI0MTM5NTIt/OTc1Ni5qcGVn.jpeg"
     - "https://i.discogs.com/JWCr78dKO5ma1bzbmG8aMMXi9ti429Fs_VJ_N4HE7mI/rs:fit/g:sm/q:90/h:556/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjYw/LTE2MDI0MTM5NTEt/MTI1NC5qcGVn.jpeg"
@@ -43,10 +43,10 @@ Packaging contains liner notes dedicating the album to prisoners, a diagram illu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Storm |
-|  | Static |
-|  | Sleep |
-|  | Antennas To Heaven... |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -65,4 +65,4 @@ Packaging contains liner notes dedicating the album to prisoners, a diagram illu
 | Label          | Constellation |
 | Catalog Number | cst012 |
 | Notes | Recorded at Chemical Sound during 9 days in February 2000. (other scraps of tape were magnetized all over the last 4 years at the mighty hôtel2tango.)  Inner sleeve drawings and inspiration for front cover from 'notes to a friend; silently listening' no. 2.  Comes in a gatefold sleeve with printed inner sleeves and packaged in a clear plastic sleeve with barcode and "Made in Canada" on sticker.  Some copies include the Constellation Records catalog sheet from Autumn 2000.  On inner sleeve: Thank you: hugsum, wherehouse, reitschule, l'x... (minutemen, weather underground, symptomhall...) |
-| Discogs URL    | [Godspeed You Black Emperor - Lift Your Skinny Fists Like Antennas To Heaven](https://www.discogs.com/release/74260-Godspeed-You-Black-Emperor-Lift-Your-Skinny-Fists-Like-Antennas-To-Heaven) |
+| Discogs URL    | [Godspeed You Black Emperor! - Lift Your Skinny Fists Like Antennas To Heaven](https://www.discogs.com/release/74260-Godspeed-You-Black-Emperor-Lift-Your-Skinny-Fists-Like-Antennas-To-Heaven) |

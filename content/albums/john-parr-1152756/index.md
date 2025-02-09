@@ -35,16 +35,16 @@ John Parr is the debut album by John Parr, released in 1984. It contains 3 Billb
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Magical |
-| A2 | Naughty Naughty |
-| A3 | Love Grammar |
-| A4 | Treat Me Like An Animal |
-| A5 | She's Gonna Love You To Death |
-| B1 | St. Elmo's Fire (Man In Motion) |
-| B2 | Revenge |
-| B3 | Heartbreaker |
-| B4 | Somebody Stole My Thunder |
-| B5 | Don't Leave Your Mark On Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

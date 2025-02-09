@@ -46,19 +46,19 @@ Sorceress is the twelfth studio album by Swedish progressive metal band Opeth. T
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Persephone |
-| A2 | Sorceress |
-| A3 | The Wilde Flowers |
-| A4 | Will O The Wisp |
-| B1 | Chrysalis |
-| B2 | Sorceress 2 |
-| B3 | The Seventh Sojourn |
-| C1 | Strange Brew |
-| C2 | A Fleeting Glance |
-| C3 | Era |
-| C4 | Persephone (Slight Return) |
-| D1 | The Ward |
-| D2 | Spring MCMLXXIV |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

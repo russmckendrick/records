@@ -1,7 +1,7 @@
 ---
-title: "The Las - The La's"
-artist_name: "The Las"
-artist: "the-las"
+title: "The La's - The La's"
+artist_name: "The La's"
+artist: "the-la-s"
 album_name: "The La's"
 date: 2016-10-11T16:25:20.000000Z
 release_date: "1990-11"
@@ -10,8 +10,8 @@ slug: "the-la-s-8909667"
 hideSummary: true
 cover:
     image: "the-la-s-8909667.jpg"
-    alt: "The La's by The Las"
-    caption: "The La's by The Las"
+    alt: "The La's by The La's"
+    caption: "The La's by The La's"
 additional_images:
     - "https://i.discogs.com/BySRiUaP4Q62JUpWxblHQdumOrimOijJRwPIvyh3NN0/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDk2/NjctMTQ3MTY0MjU4/NC0zMjc3LmpwZWc.jpeg"
     - "https://i.discogs.com/w85oKfvPJJ5C8pPq3wd3FXf8nQ86C3YvMreW3GW66qs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5MDk2/NjctMTQ3MjA0MDU0/OS0xNTQzLmpwZWc.jpeg"
@@ -38,18 +38,18 @@ After the departure of Badger in late 1986, the band signed to Go! Discs in 1987
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Son Of A Gun |
-| A2 | I Can't Sleep |
-| A3 | Timeless Melody |
-| A4 | Liberty Ship |
-| A5 | There She Goes |
-| A6 | Doledrum |
-| B1 | Feelin' |
-| B2 | Way Out |
-| B3 | I.O.U. |
-| B4 | Freedom Song |
-| B5 | Failure |
-| B6 | Looking Glass |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -68,4 +68,4 @@ After the departure of Badger in late 1986, the band signed to Go! Discs in 1987
 | Label          | Go! Discs |
 | Catalog Number | 478 974-6 |
 | Notes | Contains Download Voucher |
-| Discogs URL    | [The Las - The La's](https://www.discogs.com/release/8909667-The-Las-The-Las) |
+| Discogs URL    | [The La's - The La's](https://www.discogs.com/release/8909667-The-Las-The-Las) |

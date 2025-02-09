@@ -1,6 +1,6 @@
 ---
-title: "Therapy - Nurse"
-artist_name: "Therapy"
+title: "Therapy? - Nurse"
+artist_name: "Therapy?"
 artist: "therapy"
 album_name: "Nurse"
 date: 2019-05-16T17:40:00.000000Z
@@ -10,8 +10,8 @@ slug: "nurse-415845"
 hideSummary: true
 cover:
     image: "nurse-415845.jpg"
-    alt: "Nurse by Therapy"
-    caption: "Nurse by Therapy"
+    alt: "Nurse by Therapy?"
+    caption: "Nurse by Therapy?"
 additional_images:
     - "https://i.discogs.com/n6LOlZLJplKUplzWigz3OSvgvnBou_RT0cRXXCn27LM/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTg0/NS0xNDc2NTk3OTY3/LTU1OTcuanBlZw.jpeg"
     - "https://i.discogs.com/pLFwXBulAprWU3sCP8puh_vUvRwBdfKazehloT0z4Ik/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTg0/NS0xNDc2NTk3OTgz/LTI2ODAuanBlZw.jpeg"
@@ -34,16 +34,16 @@ Nurse is the first major label album released by the rock band Therapy? It was r
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Nausea |
-| A2 | Teethgrinder |
-| A3 | Disgracelands |
-| A4 | Accelerator |
-| A5 | Neck Freak |
-| B1 | Perversonality |
-| B2 | Gone |
-| B3 | Zipless |
-| B4 | Deep Sleep |
-| B5 | Hypermania |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -62,4 +62,4 @@ Nurse is the first major label album released by the rock band Therapy? It was r
 | Label          | A&M Records |
 | Catalog Number | 540 044-1 |
 | Notes | The records has a printed inner and outer sleeve.  Rear sleeve: Recorded at Loco, Wales. Except "Gone" recorded at The Barn, Annamoe, Ireland. Mixed at Gooseberry Studios.  ℗ 1992 A&M Records Ltd, London.  Side B face label: The copyright in this sound recording is owned by A&M Records Ltd, London. ℗ 1992 A&M Records Ltd, London.  |
-| Discogs URL    | [Therapy - Nurse](https://www.discogs.com/release/415845-Therapy-Nurse) |
+| Discogs URL    | [Therapy? - Nurse](https://www.discogs.com/release/415845-Therapy-Nurse) |

@@ -29,25 +29,25 @@ styles: ["AOR", "Blues Rock", "Pop Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Oh Well (Part 1) |
-| A2 | Rattlesnake Shake |
-| A3 | The Green Manalishi (With The Two Prong Crown) |
-| A4 | Station Man |
-| A5 | Jewel Eyed Judy |
-| B1 | Tell Me All The Things You Do |
-| B2 | Future Games |
-| B3 | Sands Of Time (Single Version) |
-| B4 | Sunny Side Of Heaven |
-| C1 | Bare Trees |
-| C2 | Sentimental Lady |
-| C3 | Spare Me A Little Of Your Love |
-| C4 | Remember Me |
-| C5 | Did You Ever Love Me |
-| D1 | Emerald Eyes |
-| D2 | Hypnotized |
-| D3 | Heroes Are Hard To Find |
-| D4 | Angel |
-| D5 | Prove Your Love |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

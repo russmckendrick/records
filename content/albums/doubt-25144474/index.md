@@ -33,17 +33,17 @@ Doubt received generally positive reviews about the songwriting, though some cri
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Trust Me |
-| A2 | Who? Where? Why? |
-| A3 | International Bright Young Thing |
-| A4 | I'm Burning |
-| A5 | Right Here, Right Now |
-| A6 | Nothing To Hold Me |
-| B1 | Real, Real, Real |
-| B2 | Welcome Back Victoria |
-| B3 | Two And Two |
-| B4 | Stripped |
-| B5 | Blissed |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

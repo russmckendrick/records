@@ -43,16 +43,16 @@ In the context of The Black Crowes’ contentious past, it’s tempting to hear 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Bedside Manners |
-| A2 | Rats And Clowns |
-| A3 | Cross Your Fingers |
-| A4 | Wanting And Waiting |
-| A5 | Wilted Rose |
-| B1 | Dirty Cold Sun |
-| B2 | Bleed It Dry |
-| B3 | Flesh Wound |
-| B4 | Follow The Moon |
-| B5 | Kindred Friend |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

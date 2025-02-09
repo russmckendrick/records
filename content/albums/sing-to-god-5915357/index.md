@@ -38,29 +38,29 @@ The album was released in June 1996 by the band's own record label Alphabet Busi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Eden On The Air |
-| A2 | Eat It Up Worms Hero |
-| A3 | Dog-Like Sparky |
-| A4 | Fiery Gun Hand |
-| A5 | Insect Hoofs On Lassie |
-| A6 | Fairy Mary Mag |
-| B1 | Bellyeye |
-| B2 | A Horses Tail |
-| B3 | Manhoo |
-| B4.a | Wireless |
-| B4.b | (Peril On The Sea) |
-| C1 | Dirty Boy |
-| C2 | Billion |
-| C3 | Odd Even |
-| C4 | Bell Stinks |
-| C5 | Bell Clinks |
-| C6 | Flap Off You Beak |
-| C7 | Quiet As A Mouse |
-| D1 | Angleworm Angel |
-| D2 | Red Fire Coming Out Of His Gills |
-| D3 | No Gold |
-| D4 | Nurses Whispering Verses |
-| D5 | Foundling |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

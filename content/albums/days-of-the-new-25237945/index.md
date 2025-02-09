@@ -36,18 +36,18 @@ The band was formed by Meeks as an acoustic solo project during his teenage year
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Shelf In The Room |
-| A2 | Touch, Peel And Stand |
-| A3 | Face Of The Earth |
-| A4 | Solitude |
-| B1 | The Down Town |
-| B2 | What's Left For Me? |
-| B3 | Freak |
-| C1 | Now |
-| C2 | Whimsical |
-| C3 | Where I Stand |
-| D1 | How Do You Know You? |
-| D2 | Cling |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

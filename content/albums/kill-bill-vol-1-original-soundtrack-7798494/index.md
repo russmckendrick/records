@@ -34,21 +34,21 @@ Kill Bill Vol. 1 Original Soundtrack is the soundtrack to the first volume of th
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Bang Bang (My Baby Shot Me Down) |
-| A2 | That Certain Female |
-| A3 | The Grand Duel (Parte Prima) |
-| A4 | Twisted Nerve |
-| A5 | Queen Of The Crime Council |
-| A6 | Ode To Oren Ishii |
-| A7 | Run Fay Run |
-| A8 | Green Hornet |
-| A9 | Battle Without Honor Or Humanity |
-|  | Don't Let Me Be Misunderstood / Esmeralda Suite |
-| B2 | Woo Hoo |
-|  | Crane / White Lightning |
-| B4 | The Flower Of Carnage |
-| B5 | The Lonely Shepherd |
-| B6 | You're My Wicked Life |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

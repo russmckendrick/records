@@ -1,6 +1,6 @@
 ---
-title: "Steve Earle  The Dukes - Ghosts Of West Virginia"
-artist_name: "Steve Earle  The Dukes"
+title: "Steve Earle & The Dukes - Ghosts Of West Virginia"
+artist_name: "Steve Earle & The Dukes"
 artist: "steve-earle-the-dukes"
 album_name: "Ghosts Of West Virginia"
 date: 2020-05-28T17:21:45.000000Z
@@ -10,8 +10,8 @@ slug: "ghosts-of-west-virginia-15330013"
 hideSummary: true
 cover:
     image: "ghosts-of-west-virginia-15330013.jpg"
-    alt: "Ghosts Of West Virginia by Steve Earle  The Dukes"
-    caption: "Ghosts Of West Virginia by Steve Earle  The Dukes"
+    alt: "Ghosts Of West Virginia by Steve Earle & The Dukes"
+    caption: "Ghosts Of West Virginia by Steve Earle & The Dukes"
 additional_images:
     - "https://i.discogs.com/ITtdLR0yDbm243sG96mGgPz-pHpmMUwlh_oh2oQzjF8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDEzLTE1OTAwOTc3/NzAtNjQyOC5qcGVn.jpeg"
     - "https://i.discogs.com/H1707TpRTQVgxFR-STwSNOLZBryVhAWut8uvGExe5a4/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1MzMw/MDEzLTE1OTAwOTc3/NzAtNTY2OC5qcGVn.jpeg"
@@ -37,16 +37,16 @@ Ghosts of West Virginia is the twentieth studio album by American country musici
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Heaven Ain't Goin' Nowhere |
-| A2 | Union, God And Country |
-| A3 | Devil Put The Coal In The Ground |
-| A4 | John Henry Was A Steel Drivin' Man |
-| A5 | Time Is Never On Our Side |
-| B1 | It's About Blood |
-| B2 | If I Could See Your Face Again |
-| B3 | Black Lung |
-| B4 | Fastest Man Alive |
-| B5 | The Mine |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -65,4 +65,4 @@ Ghosts of West Virginia is the twentieth studio album by American country musici
 | Label          | New West Records |
 | Catalog Number | NW5397 |
 | Notes | Indie "blue and gold" limited edition pressing.  Includes 4-page printed insert containing photographs, lyrics and credits.  Some copies included a turntable slip mat containing the album cover artwork.  |
-| Discogs URL    | [Steve Earle  The Dukes - Ghosts Of West Virginia](https://www.discogs.com/release/15330013-Steve-Earle-The-Dukes-Ghosts-Of-West-Virginia) |
+| Discogs URL    | [Steve Earle & The Dukes - Ghosts Of West Virginia](https://www.discogs.com/release/15330013-Steve-Earle-The-Dukes-Ghosts-Of-West-Virginia) |

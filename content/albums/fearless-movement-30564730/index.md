@@ -44,18 +44,18 @@ Allowing himself to give in to the uncertainty and promise of that particular mo
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Lesanu |
-| A2 | Asha The First |
-| A3 | The Visionary |
-| A4 | Get Lit |
-| B5 | Computer Love |
-| B6 | Dream State |
-| B7 | Interstellar Peace (The Last Stance) |
-| C8 | The Garden Path |
-| C9 | Road To Self |
-| D10 | Together |
-| D11 | Lines In The Sand |
-| D12 | Prologue |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

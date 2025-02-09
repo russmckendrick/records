@@ -36,21 +36,21 @@ The album is named both for the Blessed Virgin Mary, from whom bandleader Corgan
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Lyric |
-| A2 | Settle Down |
-| A3 | Declarations Of Faith |
-| A4 | Honestly |
-| B1 | El Sol |
-| B2 | Of A Broken Heart |
-| B3 | Ride A Black Swan |
-| B4 | Heartsong |
-| C1 | Endless Summer |
-| C2 | Baby Let's Rock! |
-| C3 | Yeah! |
-| C4 | Desire |
-| D1a | Jesus, I  |
-| D1b | Mary Star Of The Sea |
-| D2 | Come With Me |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

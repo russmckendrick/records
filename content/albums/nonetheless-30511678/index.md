@@ -32,16 +32,16 @@ Nonetheless is the fifteenth studio album by English synth-pop duo Pet Shop Boys
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Loneliness |
-| A2 | Feel |
-| A3 | Why Am I Dancing? |
-| A4 | New London Boy |
-| A5 | Dancing Star |
-| B1 | A New Bohemia |
-| B2 | The Schlager Hit Parade |
-| B3 | The Secret Of Happiness |
-| B4 | Bullet For Narcissus |
-| B5 | Love Is The Law |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

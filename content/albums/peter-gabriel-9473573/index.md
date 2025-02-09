@@ -40,14 +40,14 @@ But it’s the album’s lead single, the 12-string-tinged “Solsbury Hill”, 
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Rhythm Of The Heat |
-| A2 | San Jacinto |
-| A3 | I Have The Touch |
-| A4 | The Family And The Fishing Net |
-| B1 | Shock The Monkey |
-| B2 | Lay Your Hands On Me |
-| B3 | Wallflower |
-| B4 | Kiss Of Life |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -1,6 +1,6 @@
 ---
-title: "Black Country New Road - Ants From Up There"
-artist_name: "Black Country New Road"
+title: "Black Country, New Road - Ants From Up There"
+artist_name: "Black Country, New Road"
 artist: "black-country-new-road"
 album_name: "Ants From Up There"
 date: 2022-02-04T03:58:24.000000Z
@@ -10,8 +10,8 @@ slug: "ants-from-up-there-21932389"
 hideSummary: true
 cover:
     image: "ants-from-up-there-21932389.jpg"
-    alt: "Ants From Up There by Black Country New Road"
-    caption: "Ants From Up There by Black Country New Road"
+    alt: "Ants From Up There by Black Country, New Road"
+    caption: "Ants From Up There by Black Country, New Road"
 additional_images:
     - "https://i.discogs.com/hgdfOLIrDncrp6Okziecko_QqNcQiWAw4mu6B76bfxU/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDQwNjI5/OTItNTMyNy5qcGVn.jpeg"
     - "https://i.discogs.com/RWX-_Yr5mbw2PeB1FUx-y2nMUr4udP01cAWHLxXTpL8/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMy/Mzg5LTE2NDk0Nzky/OTgtMTI3MC5qcGVn.jpeg"
@@ -85,16 +85,16 @@ TH: “It’s essentially a medley of the whole album. It’s got literal musica
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Intro |
-| A2 | Chaos Space Marine |
-| A3 | Concorde |
-| A4 | Bread Song |
-| B1 | Good Will Hunting |
-| B2 | Haldern |
-| B3 | Mark's Theme |
-| C1 | The Place Where He Inserted The Blade |
-| C2 | Snow Globes |
-| D1 | Basketball Shoes |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -113,4 +113,4 @@ TH: “It’s essentially a medley of the whole album. It’s got literal musica
 | Label          | Ninja Tune |
 | Catalog Number | ZEN278X |
 | Notes | Inverted artwork. Packaged in a gatefold sleeve.  Includes a lyric booklet and a download code.  Signed copies were available from indie stores. Some signed copies came with a barcode sticker: 5 054429 153323 with additional label code XEN278XS whilst others did not have any additional barcode stickers or cat#.  Certain indie stores were given prints, DIY plane, and a sticker of the front cover to include with orders.  ℗ & © Ninja Tune 2022 Made in EU  Recorded at Chale Abbey Studios. Mixed at Fish Factory and Chale Abbey Studios. Mastered [...] at Abbey Road. |
-| Discogs URL    | [Black Country New Road - Ants From Up There](https://www.discogs.com/release/21932389-Black-Country-New-Road-Ants-From-Up-There) |
+| Discogs URL    | [Black Country, New Road - Ants From Up There](https://www.discogs.com/release/21932389-Black-Country-New-Road-Ants-From-Up-There) |

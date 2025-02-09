@@ -1,7 +1,7 @@
 ---
-title: "REM - The Best Of R.E.M."
-artist_name: "REM"
-artist: "rem"
+title: "R.E.M. - The Best Of R.E.M."
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "The Best Of R.E.M."
 date: 2018-11-29T12:43:43.000000Z
 release_date: "2003-01-01"
@@ -10,8 +10,8 @@ slug: "the-best-of-r-e-m-605691"
 hideSummary: true
 cover:
     image: "the-best-of-r-e-m-605691.jpg"
-    alt: "The Best Of R.E.M. by REM"
-    caption: "The Best Of R.E.M. by REM"
+    alt: "The Best Of R.E.M. by R.E.M."
+    caption: "The Best Of R.E.M. by R.E.M."
 additional_images:
     - "https://i.discogs.com/HRb558653_VoRWbkjKTp6Ui9XYevZJ-Yw2JMGeAy2ps/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTY5/MS0xNDY5Nzc4NTc1/LTQ5MzkuanBlZw.jpeg"
     - "https://i.discogs.com/RpCFLWtgpdcQk1IgHnAko6pUXM5SZTOyYpkTp-jUPGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTY5/MS0xNDY5Nzc4NTc5/LTc3NTguanBlZw.jpeg"
@@ -35,22 +35,22 @@ Three songs were taken from each of the first five studio albums and one song wa
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Us |
-| A1 | Carnival Of Sorts (Boxcars) |
-| A2 | Radio Free Europe |
-| A3 | Perfect Circle |
-| A4 | Talk About The Passion |
-| A5 | So. Central Rain |
-| A6 | Pretty Persuasion |
-| A7 | Green Grow The Rushes |
-|  | Them |
-| B1 | Can't Get There From Here |
-| B2 | Fall On Me |
-| B3 | I Believe |
-| B4 | Cuyahoga |
-| B5 | The One I Love |
-| B6 | Finest Worksong |
-| B7 | It's The End Of The World As We Know It (And I Feel Fine) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -69,4 +69,4 @@ Three songs were taken from each of the first five studio albums and one song wa
 | Label          | I.R.S. Records |
 | Catalog Number | MIRH 1 |
 | Notes | Issued with a printed inner sleeve with song by song notes taken from the book 'Remarks - The Story Of R.E.M.' by Tony Fletcher.  Track A1 titled "Carnival Of Sorts" on the back cover.  This compilation: ℗ 1991 International Record Syndicate, Inc. © 1991 International Record Syndicate, Inc. |
-| Discogs URL    | [REM - The Best Of R.E.M.](https://www.discogs.com/release/605691-REM-The-Best-Of-REM) |
+| Discogs URL    | [R.E.M. - The Best Of R.E.M.](https://www.discogs.com/release/605691-REM-The-Best-Of-REM) |

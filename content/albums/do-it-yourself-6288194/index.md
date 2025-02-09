@@ -27,16 +27,16 @@ Do It Yourself is a 1979 album by Ian Dury & the Blockheads. It was the first al
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Inbetweenies |
-| A2 | Quiet |
-| A3 | Don't Ask Me |
-| A4 | Sink My Boats |
-| A5 | Waiting For Your Taxi |
-| B1 | This Is What We Find |
-| B2 | Uneasy Sunny Day Hotsy Totsy |
-| B3 | Mischief |
-| B4 | Dance Of The Screamers |
-| B5 | Lullaby For Francies |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

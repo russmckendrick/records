@@ -36,29 +36,29 @@ styles: ["Prog Rock", "Art Rock", "Avantgarde"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Terror Bird |
-| A2 | Hole |
-| A3 | Holy Ghost |
-| A4 | Insides In |
-| A5 | These Hands |
-| B1 | Land Animal |
-| B2 | Time Deer |
-| B3 | Belly Side Up |
-| B4 | The Well |
-| B5 | Boxes |
-| CD-1 | Terror Bird |
-| CD-2 | Hole |
-| CD-3 | Holy Ghost |
-| CD-4 | Insides In |
-| CD-5 | These Hands |
-| CD-6 | Land Animal |
-| CD-7 | Time Deer |
-| CD-8 | Belly Side Up |
-| CD-9 | The Well |
-| CD-10 | Boxes |
-|  | Bonus Tracks |
-| CD-11 | Way Too Long (Sylvia Massy Treatment) |
-| CD-12 | Land Animal (Ben Levin Remix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

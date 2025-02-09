@@ -34,15 +34,15 @@ Slowhand is the fifth solo studio album by Eric Clapton. Released on 25 November
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Cocaine |
-| A2 | Wonderful Tonight |
-| A3 | Lay Down Sally |
-| A4 | Next Time You See Her |
-| A5 | We're All The Way |
-| B1 | The Core |
-| B2 | May You Never |
-| B3 | Mean Old Frisco Blues |
-| B4 | Peaches And Diesel |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

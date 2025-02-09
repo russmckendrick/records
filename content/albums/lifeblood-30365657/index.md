@@ -40,18 +40,18 @@ An expanded and remastered edition was released in 2024 to mark its 20th anniver
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | 1985 |
-| A2 | The Love Of Richard Nixon |
-| A3 | Empty Souls |
-| B1 | A Song For Departure |
-| B2 | I Live To Fall Asleep |
-| B3 | To Repel Ghosts |
-| C1 | Emily |
-| C2 | Glasnost |
-| C3 | Always/Never |
-| D1 | Solitude Sometimes Is |
-| D2 | Fragments |
-| D3 | Cardiff Afterlife |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

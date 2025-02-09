@@ -26,14 +26,14 @@ No other band creates symphonic textures quite like Sigur Rós. The Icelandic gr
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Ég Anda |
-| A2 | Ekki Múkk |
-| B1 | Varúð |
-| B2 | Rembihnútur |
-| C1 | Dauðalogn |
-| C2 | Varðeldur |
-| D1 | Valtari |
-| D2 | Fjögur Píanó |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

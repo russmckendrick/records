@@ -40,62 +40,62 @@ In 2020, the film was selected for preservation in the United States National Fi
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | LP 1 |
-| A1 | Chan Chan |
-| A2 | De Camino A La Vereda |
-| A3 | El Cuarto De Tula |
-| A4 | Pueblo Nuevo |
-| B1 | Dos Gardenias |
-| B2 | ¿Y Tú Qué Has Hecho? |
-| B3 | Veinte Años |
-| B4 | El Carretero |
-| B5 | Candela |
-|  | LP 2 |
-| C1 | Amor De Loca Juventud |
-| C2 | Orgullecida |
-| C3 | Murmullo |
-| C4 | Buena Vista Social Club |
-| C5 | La Bayames |
-| D1 | Vicenta |
-| D2 | La Pluma |
-| D3 | A Tus Pies |
-| D4 | La Cleptómana |
-| D5 | Orgullecida (Alternate Trio Take) |
-|  | CD1 (2021 Remaster) |
-| CD1-1 | Chan Chan |
-| CD1-2 | De Camino A La Vereda |
-| CD1-3 | El Cuarto De Tula |
-| CD1-4 | Pueblo Nuevo |
-| CD1-5 | Dos Gardenias |
-| CD1-6 | ¿Y Tú Qué Has Hecho? |
-| CD1-7 | Veinte Años |
-| CD1-8 | El Carretero |
-| CD1-9 | Candela |
-| CD1-10 | Amor De Loca Juventud |
-| CD1-11 | Orgullecida |
-| CD1-12 | Murmullo |
-| CD1-13 | Buena Vista Social Club |
-| CD1-14 | La Bayames |
-|  | CD2 (Previously Unreleased Bonus Tracks) |
-| CD2-1 | Chan Chan (Monitor Mix) |
-| CD2-2 | Vicenta |
-| CD2-3 | La Pluma |
-| CD2-4 | Dos Gardenias (Alternate Take) |
-| CD2-5 | Mandingo |
-| CD2-6 | Siboney |
-| CD2-7 | A Tus Pies |
-| CD2-8 | El Carretero (Alternate Take) |
-| CD2-9 | Ensayo |
-| CD2-10 | El Diablo Suelto |
-| CD2-11 | Saludo Compay |
-| CD2-12 | Descripción De Un Sueño |
-| CD2-13 | Pueblo Nuevo (Alternate Take) |
-| CD2-14 | La Cleptómana |
-| CD2-15 | ¿Y Tú Qué Has Hecho? (Alternate Take) |
-| CD2-16 | Orgullecida (Alternate Take) |
-| CD2-17 | Descarga Rubén |
-| CD2-18 | Candela (Alternate Take) |
-| CD2-19 | Orgullecida (Alternate Trio Take) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

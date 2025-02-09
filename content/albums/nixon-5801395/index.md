@@ -35,16 +35,16 @@ Nixon became a breakthrough release for Lambchop in the United Kingdom, where it
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Old Gold Shoe |
-| A2 | Grumpus |
-| A3 | You Masculine You |
-| A4 | Up With People |
-| B1 | Nashville Parent |
-| B2 | What Else Could It Be? |
-| B3 | The Distance From Her To There |
-| B4 | The Book I Haven't Read |
-| B5 | The Petrified Florist |
-| B6 | The Butcher Boy |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

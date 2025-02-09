@@ -29,19 +29,19 @@ The Soft Bulletin is the ninth studio album by American rock band the Flaming Li
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Race For The Prize |
-| A2 | A Spoonful Weighs A Ton |
-| A3 | The Spark That Bled |
-| A4 | The Spiderbite Song |
-| B1 | Buggin' |
-| B2 | What Is The Light? |
-| B3 | The Observer |
-| C1 | Waitin' For A Superman |
-| C2 | Suddenly Everything Has Changed |
-| C3 | The Gash |
-| D1 | Slow Motion |
-| D2 | Feeling Yourself Disintegrate |
-| D3 | Sleeping On The Roof |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

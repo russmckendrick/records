@@ -1,6 +1,6 @@
 ---
-title: "Thunder - All The Right Noises"
-artist_name: "Thunder"
+title: "Thunder (3) - All The Right Noises"
+artist_name: "Thunder (3)"
 artist: "thunder"
 album_name: "All The Right Noises"
 date: 2021-03-13T02:56:48.000000Z
@@ -10,8 +10,8 @@ slug: "all-the-right-noises-17812720"
 hideSummary: true
 cover:
     image: "all-the-right-noises-17812720.jpg"
-    alt: "All The Right Noises by Thunder"
-    caption: "All The Right Noises by Thunder"
+    alt: "All The Right Noises by Thunder (3)"
+    caption: "All The Right Noises by Thunder (3)"
 additional_images:
     - "https://i.discogs.com/zRXCZTGssUVEboH9MTRZNRqmtpL4m2Or8DyBMUW-S8E/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODEy/NzIwLTE2MTkwMjYz/MzEtNTM4OS5qcGVn.jpeg"
     - "https://i.discogs.com/mIlykzaVL02MCuX2HRQ7zmM21Eip03heciHaQBxD2BY/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODEy/NzIwLTE2MTcxODg2/MTMtNDAwMi5qcGVn.jpeg"
@@ -44,17 +44,17 @@ All the Right Noises is the thirteenth studio album by English hard rock band Th
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Last One Out Turn Off The Lights |
-| A2 | Destruction |
-| A3 | The Smoking Gun |
-| B1 | Going To Sin City |
-| B2 | Don't Forget To Live Before You Die |
-| B3 | I'll Be The One |
-| C1 | Young Man |
-| C2 | You're Gonna Be My Girl |
-| D1 | St. George's Day |
-| D2 | Force Of Nature |
-| D3 | She's A Millionairess |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -73,4 +73,4 @@ All the Right Noises is the thirteenth studio album by English hard rock band Th
 | Label          | BMG |
 | Catalog Number | BMGCAT465CDLP |
 | Notes | This version is the Deluxe Blue & Orange Galaxy Vinyl with Pop-Up Gatefold. Comes complete with printed inner sleeves with lyrics, credits and photographs. The first 500 pre-orders from Thunders on-line store also included and album artwork print hand signed by the band.   Manufactured in Czech Republic.  Durations do not appear on this release.  Timings via stopwatch. |
-| Discogs URL    | [Thunder - All The Right Noises](https://www.discogs.com/release/17812720-Thunder-3-All-The-Right-Noises) |
+| Discogs URL    | [Thunder (3) - All The Right Noises](https://www.discogs.com/release/17812720-Thunder-3-All-The-Right-Noises) |

@@ -28,16 +28,16 @@ The re-released version of the album contains different versions of "Rim Shak" a
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Big Star |
-| A2 | I See |
-| A3 | Rim Shak |
-| A4 | Wasted |
-| B1 | Get On With It |
-| B2 | Here & Now |
-| B3 | From Under The Dust |
-| B4 | Mellie's Comin' Over |
-| B5 | Come Around |
-| B6 | Step Back |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

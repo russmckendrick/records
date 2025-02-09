@@ -52,22 +52,22 @@ styles: ["Reggae", "Dub", "Dancehall"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | Everyday Another Sanction |
-| B | Everyday Another Sanction (Dub) |
-| C | Vitals |
-| D | Vitals (Dub) |
-| E | Robbery |
-| F | Robbery (Dub) |
-| G | Divide And Rule |
-| H | Divide And Rule (Dub) |
-| I | Kajra Mohobbat Wala |
-| J | Kajra Mohobbat Wala (Dub) |
-| K | Make Up Your Mind |
-| L | Make Up Your Mind |
-| M | Metro |
-| N | Livid Hip Hop |
-| O | Aztec Riddim |
-| P | Make Up Your Mind (Dub) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

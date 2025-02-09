@@ -34,16 +34,16 @@ Like many of Neil Young's protest albums before it, <i>The Visitor</i> is anothe
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Already Great |
-| A2 | Fly By Night Deal |
-| A3 | Almost Always |
-| A4 | Stand Tall |
-| B1 | Change Of Heart |
-| B2 | Carnival |
-| B3 | Diggin' A Hole |
-| C1 | Children Of Destiny |
-| C2 | When Bad Got Good |
-| C3 | Forever |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

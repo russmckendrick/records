@@ -1,6 +1,6 @@
 ---
-title: "Survive - HD015"
-artist_name: "Survive"
+title: "Survive (4) - HD015"
+artist_name: "Survive (4)"
 artist: "survive"
 album_name: "HD015"
 date: 2016-12-08T18:35:53.000000Z
@@ -10,8 +10,8 @@ slug: "hd015-9231465"
 hideSummary: true
 cover:
     image: "hd015-9231465.jpg"
-    alt: "HD015 by Survive"
-    caption: "HD015 by Survive"
+    alt: "HD015 by Survive (4)"
+    caption: "HD015 by Survive (4)"
 additional_images:
     - "https://i.discogs.com/k-FXs3vizY-wftat_SQ4ChM2nMjxF3lil5RayAVMBbo/rs:fit/g:sm/q:90/h:370/w:370/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE0/NjUtMTQ3NzA2NjUy/OC03NDY5LmpwZWc.jpeg"
     - "https://i.discogs.com/DG5fC-HnDIyuvLPmzaMrqhgR0Ea1sUwO8_Icph07QNQ/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzE0/NjUtMTQ4MDY5NTI3/OS0zNTM3LmpwZWc.jpeg"
@@ -31,15 +31,15 @@ styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Deserted Skies |
-| A2 | Floating Cube |
-| A3 | To Light Alone I Bow |
-| A4 | Hourglass |
-| A5 | Omniverse |
-| B1 | Black Mollies |
-| B2 | Scalar Wave |
-| B3 | Shunting Yard |
-| B4 | Dirge |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -57,4 +57,4 @@ styles: ["Electro", "Minimal", "Experimental", "Synthwave"]
 | Label          | HoloDeck |
 | Catalog Number | HD015LP |
 | Notes | 150g vinyl with yellow/black alternate sleeve artwork.    Includes download code (choice of formats, via Bandcamp). |
-| Discogs URL    | [Survive - HD015](https://www.discogs.com/release/9231465-S-U-R-V-I-V-E-HD015) |
+| Discogs URL    | [Survive (4) - HD015](https://www.discogs.com/release/9231465-S-U-R-V-I-V-E-HD015) |

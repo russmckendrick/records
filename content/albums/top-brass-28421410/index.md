@@ -1,6 +1,6 @@
 ---
-title: "Matt Berry - Top Brass"
-artist_name: "Matt Berry"
+title: "Matt Berry (3) - Top Brass"
+artist_name: "Matt Berry (3)"
 artist: "matt-berry"
 album_name: "Top Brass"
 date: 2023-09-29T06:44:38.000000Z
@@ -10,8 +10,8 @@ slug: "top-brass-28421410"
 hideSummary: true
 cover:
     image: "top-brass-28421410.jpg"
-    alt: "Top Brass by Matt Berry"
-    caption: "Top Brass by Matt Berry"
+    alt: "Top Brass by Matt Berry (3)"
+    caption: "Top Brass by Matt Berry (3)"
 additional_images:
     - "https://i.discogs.com/VgmBTwYQ9sBPBVNp6iRLWs9LeeczbMY7ZtcZbww0MiQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIx/NDEwLTE2OTU4ODU5/MzAtNTg1My5qcGVn.jpeg"
     - "https://i.discogs.com/GfZfW0qTwzmJwsbGN90atxBvyRRauMW-LIR0n_HPMjc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIx/NDEwLTE2OTU4ODU5/MzQtNDE4My5qcGVn.jpeg"
@@ -32,8 +32,8 @@ Top Brass (subtitled Featuring 5 Trumpets) is an album by American jazz composer
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | Top Brass |
-| B | Top Brass (Bare Essentials Mix) |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -52,4 +52,4 @@ Top Brass (subtitled Featuring 5 Trumpets) is an album by American jazz composer
 | Label          | Acid Jazz |
 | Catalog Number | AJX767S |
 | Notes | The first collaboration between Matt Berry and iconic Library Music label KPM. A seven-inch single called 'Top Brass’ that comes housed in a picture sleeve that mimics the classic KPM 1000 series and is adorned with unique KPM x Acid Jazz labels. Limited to 1000 copies.  Recorded at Peach Studios, Bedfordshire and the Village, Los Angeles Brass and strings recorded at the Village Mastered for KPM by Nick Stebbings Mixed and Produced by Matt Berry  Thanks to Craig Blundell, Jack Lewis at KPM, Dean Rudland and Ed at Acid Jazz, Phil Scragg, and Jaffa for moving so swiftly. Under exclusive licence to Acid Jazz Acquisitions Ltd.  "stereo playable mono" |
-| Discogs URL    | [Matt Berry - Top Brass](https://www.discogs.com/release/28421410-Matt-Berry-3-Top-Brass) |
+| Discogs URL    | [Matt Berry (3) - Top Brass](https://www.discogs.com/release/28421410-Matt-Berry-3-Top-Brass) |

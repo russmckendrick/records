@@ -39,36 +39,36 @@ styles: ["Indie Rock", "Shoegaze"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | The Comforts Of Madness 30th Anniversary Re:Masters |
-| A1 | Way The World Is |
-| A2 | You Tear The World In Two |
-| A3 | Sea Of Sound |
-| A4 | True Coming Dream |
-| A5 | Little Hammer |
-| B6 | Insubstantial |
-| B7 | A Deep Sleep For Steven |
-| B8 | Language Of Flowers |
-| B9 | Fell From The Sun |
-| B10 | Sight Of You |
-| B11 | Time Thief |
-|  | Original Woodhouse Studio Version |
-| C1 | Sight Of You |
-|  | Woodhouse Studio LP Demos |
-| C2 | Way The World Is |
-| C3 | Language Of Flowers |
-| C4 | You Tear The World In Two |
-| C5 | Fell From The Sun |
-| C6 | A Deep Sleep For Steven |
-| C7 | Time Thief |
-| D8 | Sea Of Sound |
-| D9 | Insubstantial |
-| D10 | Little Hammer |
-| D11 | True Coming Dream |
-|  | John Peel Session |
-| D12 | She Rides The Waves |
-| D13 | You Tear The World In Two |
-| D14 | Way The World Is |
-| D15 | Time Thief |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

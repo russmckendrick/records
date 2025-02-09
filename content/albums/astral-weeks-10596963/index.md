@@ -37,16 +37,16 @@ Forty years after the album's release, Morrison performed all eight of its songs
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Part One: In The Beginning |
-| A1 | Astral Weeks |
-| A2 | Beside You |
-| A3 | Sweet Thing |
-| A4 | Cyprus Avenue |
-|  | Part Two: Afterwards |
-| B1 | Young Lovers Do |
-| B2 | Madame George |
-| B3 | Ballerina |
-| B4 | Slim Slow Slider |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -33,16 +33,16 @@ At the 1983 Countdown Australian Music Awards the album won Best Australian Albu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Fraction Too Much Friction |
-| A2 | Made My Day |
-| A3 | Not For Nothing |
-| A4 | In A Minor Key |
-| A5 | Grand Adventure |
-| B1 | Staring At The Embers |
-| B2 | Wait And See |
-| B3 | I Only Want To Know |
-| B4 | Growing Pains |
-| B5 | Through The Years |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

@@ -1,7 +1,7 @@
 ---
-title: "REM - Automatic For The People"
-artist_name: "REM"
-artist: "rem"
+title: "R.E.M. - Automatic For The People"
+artist_name: "R.E.M."
+artist: "r-e-m"
 album_name: "Automatic For The People"
 date: 2015-08-09T08:39:05.000000Z
 release_date: "1992-10-06"
@@ -10,8 +10,8 @@ slug: "automatic-for-the-people-736266"
 hideSummary: true
 cover:
     image: "automatic-for-the-people-736266.jpg"
-    alt: "Automatic For The People by REM"
-    caption: "Automatic For The People by REM"
+    alt: "Automatic For The People by R.E.M."
+    caption: "Automatic For The People by R.E.M."
 additional_images:
     - "https://i.discogs.com/8iOyeBvXIlbEyfGXiUhNIcuaOlbdTCZ7LKoEp5zYSKs/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjI2/Ni0xMjk2NzY5NjMw/LmpwZWc.jpeg"
     - "https://i.discogs.com/vGSLqBncFWNtnAfGyBo_C1d5RrsarOt-uml7unvtOe4/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjI2/Ni0xMjk2NzY5NjU4/LmpwZWc.jpeg"
@@ -40,20 +40,20 @@ Upon release, the album received widespread acclaim from critics, reached number
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-|  | Drive |
-| A1 | Drive |
-| A2 | Try Not To Breathe |
-| A3 | The Sidewinder Sleeps Tonite |
-| A4 | Everybody Hurts |
-| A5 | New Orleans Instrumental No. 1 |
-| A6 | Sweetness Follows |
-|  | Ride |
-| B1 | Monty Got A Raw Deal |
-| B2 | Ignoreland |
-| B3 | Star Me Kitten |
-| B4 | Man On The Moon |
-| B5 | Nightswimming |
-| B6 | Find The River |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -72,4 +72,4 @@ Upon release, the album received widespread acclaim from critics, reached number
 | Label          | Warner Bros. Records |
 | Catalog Number | 9362-45055-1 |
 | Notes | Repress of the [url=http://www.discogs.com/release/8037481]original 1992 european edition[/url]: while being sourced from the original [l=Warner Music Manufacturing Europe] stampers, it was pressed by [l=Optimal Media Production] instead, indicated by the presence of "B922353" in the runouts.  Comes with printed inner sleeve.  On spine, printed: 9362-45055-1   R.E.M.    AUTOMATIC FOR THE PEOPLE  Made in Germany by WARNER MUSIC MANUFACTURING EUROPE  ©  ℗ 1992 R.E.M./ATHENS. LTD.  9362-45055-1 UK: WX488   Some copies come with a yellow sticker on the sleeve saying  "includes Drive Man On The Moon The Sidewinder Sleep Tonite & Everybody Hurts WX488 9362-45055-1" |
-| Discogs URL    | [REM - Automatic For The People](https://www.discogs.com/release/736266-REM-Automatic-For-The-People) |
+| Discogs URL    | [R.E.M. - Automatic For The People](https://www.discogs.com/release/736266-REM-Automatic-For-The-People) |

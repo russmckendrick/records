@@ -1,6 +1,6 @@
 ---
-title: "Matt Berry - Opium"
-artist_name: "Matt Berry"
+title: "Matt Berry (3) - Opium"
+artist_name: "Matt Berry (3)"
 artist: "matt-berry"
 album_name: "Opium"
 date: 2015-10-20T17:19:18.000000Z
@@ -10,8 +10,8 @@ slug: "opium-6666205"
 hideSummary: true
 cover:
     image: "opium-6666205.jpg"
-    alt: "Opium by Matt Berry"
-    caption: "Opium by Matt Berry"
+    alt: "Opium by Matt Berry (3)"
+    caption: "Opium by Matt Berry (3)"
 additional_images:
     - "https://i.discogs.com/4Rp2GHmcx8nvhjxG5fN0xcP_8u3Oh4XcNsKYD2pRLlU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjYy/MDUtMTQ5MjA4NzYw/Mi0xOTM4LmpwZWc.jpeg"
     - "https://i.discogs.com/fjPDXcE5B_4Ab_EQylAmxCuzDC5AhE0vvc7R86zKH1g/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjYy/MDUtMTQ5MjA4NzYw/MS00MDA2LmpwZWc.jpeg"
@@ -32,17 +32,17 @@ For the illegal drug trade, the morphine is extracted from the opium latex, redu
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Introduction |
-| A2 | Reach For The Ground |
-| A3 | Love Is A Fool |
-| A4 | Lay Your Love On Me |
-| A5 | White Hood |
-| B1 | Opium |
-| B2 | The Hangman |
-| B3 | Hot Dog |
-| B4 | Jet Setter |
-| B5 | Love Is A Fool (Again) |
-| B6 | One More Hit |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -61,4 +61,4 @@ For the illegal drug trade, the morphine is extracted from the opium latex, redu
 | Label          | Acid Jazz |
 | Catalog Number | AJXLP372 |
 | Notes | Limited to 500 numbered copies on orange vinyl, 100 copies were sold through retail, with the remaining 400 copies made available to those who attended Matt Berry's Feb. 13, 2015, gig at The Forum in London. Some copies are signed. Artwork is exclusive to this release only. |
-| Discogs URL    | [Matt Berry - Opium](https://www.discogs.com/release/6666205-Matt-Berry-3-Opium) |
+| Discogs URL    | [Matt Berry (3) - Opium](https://www.discogs.com/release/6666205-Matt-Berry-3-Opium) |

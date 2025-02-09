@@ -1,7 +1,7 @@
 ---
-title: "Neds Atomic Dustbin - Trust"
-artist_name: "Neds Atomic Dustbin"
-artist: "neds-atomic-dustbin"
+title: "Ned's Atomic Dustbin - Trust"
+artist_name: "Ned's Atomic Dustbin"
+artist: "ned-s-atomic-dustbin"
 album_name: "Trust"
 date: 2018-02-15T19:24:32.000000Z
 release_date: "2007-05-01"
@@ -10,8 +10,8 @@ slug: "trust-822769"
 hideSummary: true
 cover:
     image: "trust-822769.jpg"
-    alt: "Trust by Neds Atomic Dustbin"
-    caption: "Trust by Neds Atomic Dustbin"
+    alt: "Trust by Ned's Atomic Dustbin"
+    caption: "Trust by Ned's Atomic Dustbin"
 additional_images:
     - "https://i.discogs.com/n_DO6uI9jTlpTJp6_bUxNvTc1rSIG4HfwxPn2le2HXQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjc2/OS0xMzk2Mjg2MDIw/LTQyNzUuanBlZw.jpeg"
     - "https://i.discogs.com/xTCaE0liy6AI0KH1_31Qc2lOTc5rjn6uYjZIWJ9j1DM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjc2/OS0xMzk2Mjg2MDI1/LTg5MTkuanBlZw.jpeg"
@@ -31,9 +31,9 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | Trust |
-| B1 | Faceless |
-| B2 | Titch |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -51,4 +51,4 @@ styles: ["Indie Rock"]
 | Label          | Sony Soho Square |
 | Catalog Number | 657462 6 |
 | Notes | Released with printed inner sleeve.    Recorded at Rockfield Studios, Gwent, in early July 1991.    Original sound recording made by Sony Music Entertainment (UK) Ltd.  ℗ © Sony Music Entertainment (UK) Ltd.  Distribution Sony Music.   |
-| Discogs URL    | [Neds Atomic Dustbin - Trust](https://www.discogs.com/release/822769-Neds-Atomic-Dustbin-Trust) |
+| Discogs URL    | [Ned's Atomic Dustbin - Trust](https://www.discogs.com/release/822769-Neds-Atomic-Dustbin-Trust) |

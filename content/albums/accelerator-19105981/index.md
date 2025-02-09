@@ -35,16 +35,16 @@ Accelerator is the debut studio album by British electronic group the Future Sou
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Expander |
-| A2 | Stolen Documents |
-| B1 | While Others Cry |
-| B2 | Calcium |
-| B3 | It's Not My Problem |
-| C1 | Papua New Guinea |
-| C2 | Moscow |
-| D1 | 1 in 8 |
-| D2 | Pulse State |
-| D3 | Central Industrial |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

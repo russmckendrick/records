@@ -74,18 +74,18 @@ Still, Johnson goes deeper on tracks such as “Life After Life” and the intim
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Cognitive Dissident |
-| A2 | Some Days I Drink My Coffee By The Grave Of William Blake |
-| A3 | Zen & The Art Of Dating |
-| B4 | Kissing The Ring Of POTUS |
-| B5 | Life After Life |
-| B6 | I Want To Wake Up With You |
-| C7 | Down By The Frozen River |
-| C8 | Risin' Above The Need |
-| C9 | Linoleum Smooth To The Stockinged Foot |
-| D10 | Where Do We Go When We Die? |
-| D11 | I Hope You Remember (The Things I Can't Forget) |
-| D12 | A Rainy Day In May |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

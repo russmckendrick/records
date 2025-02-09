@@ -1,6 +1,6 @@
 ---
-title: "Airhead - Boing!!"
-artist_name: "Airhead"
+title: "Airhead (3) - Boing!!"
+artist_name: "Airhead (3)"
 artist: "airhead"
 album_name: "Boing!!"
 date: 2016-02-29T18:17:33.000000Z
@@ -10,8 +10,8 @@ slug: "boing-1343423"
 hideSummary: true
 cover:
     image: "boing-1343423.jpg"
-    alt: "Boing!! by Airhead"
-    caption: "Boing!! by Airhead"
+    alt: "Boing!! by Airhead (3)"
+    caption: "Boing!! by Airhead (3)"
 additional_images:
     - "https://i.discogs.com/yBpm0YlICCXURajKltZf5OKAJpCWlWnxIE47i7H0uuM/rs:fit/g:sm/q:90/h:224/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM0/MjMtMTM4MjE5MDQ0/Ni0zODQ4LmpwZWc.jpeg"
     - "https://i.discogs.com/_dc8SCYphh8sgZN_BpMCixbvtr6vQeY2S_gB4B4z40s/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDM0/MjMtMTQ5NzYwNzE3/NS0zNzUwLmpwZWc.jpeg"
@@ -29,17 +29,17 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Scrap Happy |
-| A2 | I Might Fall |
-| A3 | Right Now |
-| A4 | Funny How |
-| A5 | Easy |
-| B1 | Counting Sheep |
-| B2 | I Don't Mind |
-| B3 | Congratulations |
-| B4 | Wish You Were Here |
-| B5 | Isn't It Rich |
-| B6 | Everybody Needs |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -57,4 +57,4 @@ styles: ["Indie Rock"]
 | Label          | Korova |
 | Catalog Number | 9031 76273 1 |
 | Notes | Made in Germany |
-| Discogs URL    | [Airhead - Boing!!](https://www.discogs.com/release/1343423-Airhead-3-Boing) |
+| Discogs URL    | [Airhead (3) - Boing!!](https://www.discogs.com/release/1343423-Airhead-3-Boing) |

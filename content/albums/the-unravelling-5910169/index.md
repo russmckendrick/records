@@ -26,22 +26,22 @@ styles: ["Prog Rock", "Psychedelic Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | I Can Teach You How To Lose A Fight |
-| A2 | The Orphanage |
-| A3 | Send Him Seaworthy |
-| A4 | Don't Land On Me |
-| B1 | The Skulls We Buried Have Regrown Their Eyes |
-| B2 | Destroy The World We Love |
-| B3 | This Empty Room Once Was Alive |
-| B4 | I'm Hiding Behind My Eyes |
-| CD-1 | I Can Teach You How To Lose A Fight |
-| CD-2 | The Orphanage |
-| CD-3 | Send Him Seaworthy |
-| CD-4 | Don't Land On Me |
-| CD-5 | The Skulls We Buried Have Regrown Their Eyes |
-| CD-6 | Destroy The World We Love |
-| CD-7 | This Empty Room Once Was Alive |
-| CD-8 | I'm Hiding Behind My Eyes |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

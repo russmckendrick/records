@@ -36,26 +36,26 @@ styles: ["New Wave"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | You Are In My Vision (Early Version) |
-| A2 | The Machmen (Early Version) |
-| A3 | Down In The Park (Early Version) |
-| A4 | Do You Need The Service? (Early Version) |
-| A5 | The Crazies  |
-| A6 | When The Machines Rock (Early Version) |
-| B1 | Me! I Disconnect From You (Early Version) |
-| B2 | Praying To The Aliens (Early Version) |
-| B3 | It Must Have Been Years (Early Version) |
-| B4 | Only A Downstat |
-| B5 | I Nearly Married A Human 3 (Early Version) |
-| C1 | Replicas (Early Version) |
-| C2 | Are 'Friends' Electric? (Early Version) |
-| C3 | We Have A Technical  |
-| C4 | Down In The Park (Outtake Mix) |
-| D1 | Are 'Friends' Electric? (Early Version 2) |
-| D2 | Replicas (Early Version 2) |
-| D3 | Me! I Disconnect From You (BBC Peel Session) |
-| D4 | Down In The Park (BBC Peel Session) |
-| D5 | I Nearly Married A Human (BBC Peel Session) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

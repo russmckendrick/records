@@ -1,6 +1,6 @@
 ---
-title: "Oasis - Definitely Maybe"
-artist_name: "Oasis"
+title: "Oasis (2) - Definitely Maybe"
+artist_name: "Oasis (2)"
 artist: "oasis"
 album_name: "Definitely Maybe"
 date: 2024-09-03T10:13:47.000000Z
@@ -10,8 +10,8 @@ slug: "definitely-maybe-31592299"
 hideSummary: true
 cover:
     image: "definitely-maybe-31592299.jpg"
-    alt: "Definitely Maybe by Oasis"
-    caption: "Definitely Maybe by Oasis"
+    alt: "Definitely Maybe by Oasis (2)"
+    caption: "Definitely Maybe by Oasis (2)"
 additional_images:
     - "https://i.discogs.com/p54QwLI82odghYpgW0Njk1t6AFkNStdxLu4odjZP4-w/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTky/Mjk5LTE3MjQ5Mzg2/OTItNDU5Ni5qcGVn.jpeg"
     - "https://i.discogs.com/mZShGMe08Z8prRD7tDf5g83EoIwFVdoCA3KfoeybcJs/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTky/Mjk5LTE3MjQ5Mzg2/OTItNjM1My5qcGVn.jpeg"
@@ -57,36 +57,36 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Rock 'n' Roll Star |
-| A2 | Shakermaker |
-| A3 | Live Forever |
-| B1 | Up In The Sky |
-| B2 | Columbia |
-| B3 | Sad Song |
-| C1 | Supersonic |
-| C2 | Bring It On Down |
-| C3 | Cigarettes & Alcohol |
-| D1 | Digsy's Dinner |
-| D2 | Slide Away |
-| D3 | Married With Children |
-|  | Monnow Valley Versions |
-| E1 | Rock 'n' Roll Star |
-| E2 | Shakermaker |
-| E3 |  Live Forever |
-| E4 | Up In The Sky |
-| F1 | Columbia |
-| F2 | Bring It On Down |
-| F3 | Cigarettes & Alcohol |
-| F4 | Digsy's Dinner |
-|  | Sawmills Outtakes (No Overdubs) |
-| G1 | Rock 'n' Roll Star |
-| G2 | Up In The Sky |
-| G3 | Columbia |
-| G4 | Bring It On Down |
-| H1 | Cigarettes & Alcohol |
-| H2 | Digsy's Dinner |
-| H3 | Slide Away |
-| H4 | Sad Song (Mauldeth Road West Demo, Nov '92) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -105,4 +105,4 @@ Released in August 1994, it reshaped the UK’s musical landscape, helping to us
 | Label          | Big Brother |
 | Catalog Number | RKIDLP125X |
 | Notes | This 4x vinyl edition includes 2014 the remastered album plus the previously unreleased and discarded original recording session from Monnow Valley along with outtakes from Sawmills Studios plus a demo of Sad Song.  In the runouts, "1⋀", "1+", "1T", "1X", "1=" & "1V" are mirrored. |
-| Discogs URL    | [Oasis - Definitely Maybe](https://www.discogs.com/release/31592299-Oasis-2-Definitely-Maybe) |
+| Discogs URL    | [Oasis (2) - Definitely Maybe](https://www.discogs.com/release/31592299-Oasis-2-Definitely-Maybe) |

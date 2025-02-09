@@ -31,15 +31,15 @@ styles: ["Synth-pop"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Word Girl |
-| A2 | Small Talk |
-| A3 | Absolute |
-| A4 | A Little Knowledge |
-| A5 | Don't Work That Hard |
-| B1 | Perfect Way |
-| B2 | Lover To Fall |
-| B3 | Wood Beez (Pray Like Aretha Franklin) |
-| B4 | Hypnotize |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

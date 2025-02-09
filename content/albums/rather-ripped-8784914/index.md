@@ -38,18 +38,18 @@ Rather Ripped is considered to be one of Sonic Youth's most accessible albums, f
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Reena |
-| A2 | Incinerate |
-| A3 | Do You Believe In Rapture? |
-| A4 | Sleepin' Around |
-| A5 | What A Waste |
-| A6 | Jams Run Free |
-| B1 | Rats |
-| B2 | Turquoise Boy |
-| B3 | Lights Out |
-| B4 | The Neutral |
-| B5 | Pink Steam |
-| B6 | Or |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

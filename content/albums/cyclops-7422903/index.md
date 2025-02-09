@@ -32,9 +32,9 @@ styles: ["Prog Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A | 21st Century Schizoid Man |
-| B1 | The Light of Day |
-| B2 | The Hell Hounds of Krim |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

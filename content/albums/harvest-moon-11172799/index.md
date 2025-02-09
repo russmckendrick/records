@@ -43,16 +43,16 @@ The connection to <i>Harvest</i> is explicit, but the album also fits in a set o
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Unknown Legend |
-| A2 | From Hank To Hendrix |
-| A3 | You And Me |
-| A4 | Harvest Moon |
-| B1 | War Of Man |
-| B2 | One Of These Days |
-| B3 | Such A Woman |
-| C1 | Old King |
-| C2 | Dreamin' Man |
-| C3 | Natural Beauty |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

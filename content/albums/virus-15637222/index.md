@@ -1,6 +1,6 @@
 ---
-title: "Haken - Virus"
-artist_name: "Haken"
+title: "Haken (2) - Virus"
+artist_name: "Haken (2)"
 artist: "haken"
 album_name: "Virus"
 date: 2021-01-17T03:29:39.000000Z
@@ -10,8 +10,8 @@ slug: "virus-15637222"
 hideSummary: true
 cover:
     image: "virus-15637222.jpg"
-    alt: "Virus by Haken"
-    caption: "Virus by Haken"
+    alt: "Virus by Haken (2)"
+    caption: "Virus by Haken (2)"
 additional_images:
     - "https://i.discogs.com/YcH1oUvPKo0ZS-ppGsFIsHBXfy74x6-zud730RGcdp0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM3/MjIyLTE1OTQ5ODk5/NjMtMTIyNi5qcGVn.jpeg"
     - "https://i.discogs.com/ATdC7alPmae6_RviSWxCHI0n8vhuPlp6e52unDq-UKk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjM3/MjIyLTE1OTQ5ODk5/ODYtOTEzNS5qcGVn.jpeg"
@@ -38,20 +38,20 @@ styles: ["Progressive Metal"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Prosthetic |
-| A2 | Invasion |
-| B1 | Carousel |
-| C1 | The Strain |
-| C2 | Canary Yellow |
-| D1 | Messiah Complex |
-| D2 | Only Stars |
-| CD-1 | Prosthetic |
-| CD-2 | Invasion |
-| CD-3 | Carousel |
-| CD-4 | The Strain |
-| CD-5 | Canary Yellow |
-|  | Messiah Complex |
-| CD-11 | Only Stars |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -69,4 +69,4 @@ styles: ["Progressive Metal"]
 | Label          | Inside Out Music |
 | Catalog Number | IOMLP 549 |
 | Notes | Version with black vinyl  Runouts: '1 ❘' is mirrored in all runouts. |
-| Discogs URL    | [Haken - Virus](https://www.discogs.com/release/15637222-Haken-2-Virus) |
+| Discogs URL    | [Haken (2) - Virus](https://www.discogs.com/release/15637222-Haken-2-Virus) |

@@ -40,19 +40,19 @@ The Final Cut received mixed reviews, though retrospective reception has been mo
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Post War Dream |
-| A2 | Your Possible Pasts |
-| A3 | One Of The Few |
-| A4 | When The Tigers Broke Free |
-| A5 | The Hero's Return |
-| A6 | The Gunner's Dream |
-| A7 | Paranoid Eyes |
-| B1 | Get Your Filthy Hands Off My Desert |
-| B2 | The Fletcher Memorial Home |
-| B3 | Southampton Dock |
-| B4 | The Final Cut |
-| B5 | Not Now John |
-| B6 | Two Suns In The Sunset |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

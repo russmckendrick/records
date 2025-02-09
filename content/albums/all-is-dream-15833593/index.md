@@ -37,32 +37,32 @@ All Is Dream is the fifth studio album by American rock band Mercury Rev. It was
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | The Dark Is Rising |
-| A2 | Tides Of The Moon |
-| A3 | Chains |
-| A4 | Lincoln's Eyes |
-| A5 | Nite And Fog |
-| B1 | Little Rhymes |
-| B2 | A Drop In Time |
-| B3 | You're My Queen |
-| B4 | Spiders And Flies |
-| B5 | Hercules |
-| C1 | Planet Caravan |
-| C2 | Streets Of Laredo |
-| C3 | I Keep A Close Watch |
-| C4 | Nocturne In C# Minor, Opus 27, No. 1 |
-| C5 | Blue Skies |
-| C6 | Mascara Tears |
-| C7 | Lucy In The Sky With Diamonds |
-| D1 | The Brook Room |
-| D2 | Silver And Gold |
-| D3 | A Drop In Time (Demo) |
-| D4 | Where Mountains Start To Rise |
-| D5 | Back Into The Sun (You're The One) |
-| D6 | A Quick One At Artie's 44 |
-| D7 | Mr. Moonlight Will Come |
-| D8 | Cool Waves |
-| D9 | Hercules (Demo) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

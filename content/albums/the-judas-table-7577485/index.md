@@ -1,6 +1,6 @@
 ---
-title: "Antimatter - The Judas Table"
-artist_name: "Antimatter"
+title: "Antimatter (3) - The Judas Table"
+artist_name: "Antimatter (3)"
 artist: "antimatter"
 album_name: "The Judas Table"
 date: 2016-01-18T18:40:52.000000Z
@@ -10,8 +10,8 @@ slug: "the-judas-table-7577485"
 hideSummary: true
 cover:
     image: "the-judas-table-7577485.jpg"
-    alt: "The Judas Table by Antimatter"
-    caption: "The Judas Table by Antimatter"
+    alt: "The Judas Table by Antimatter (3)"
+    caption: "The Judas Table by Antimatter (3)"
 additional_images:
     - "https://i.discogs.com/QL9rLsUh4XKnBuGGQKp2uSvOhHoMPU2qW6CzrgVyOVk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzc0/ODUtMTQ0NDU3ODkx/MC0yODk1LmpwZWc.jpeg"
     - "https://i.discogs.com/ZXYLVl4VTJOo_FXk5QtpQpYly6yBFf7-iyPZUuYHKYY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Nzc0/ODUtMTUwNDE3Mjg1/NC0zOTA4LmpwZWc.jpeg"
@@ -36,16 +36,16 @@ The Judas Table is the sixth album by the UK band Antimatter. It was released on
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Black Eyed Man |
-| A2 | Killer |
-| A3 | Comrades |
-| B1 | Stillborn Empires |
-| B2 | Little Piggy |
-| B3 | Hole |
-| C1 | Can of Worms |
-| C2 | Integrity |
-| C3 | The Judas Table |
-| C4 | Goodbye |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
@@ -64,4 +64,4 @@ The Judas Table is the sixth album by the UK band Antimatter. It was released on
 | Label          | Prophecy Productions |
 | Catalog Number | PRO 184LP |
 | Notes | Gatefold 2LP (180g vinyl) incl. poster and PVC protection sleeve (500 copies available) |
-| Discogs URL    | [Antimatter - The Judas Table](https://www.discogs.com/release/7577485-Antimatter-3-The-Judas-Table) |
+| Discogs URL    | [Antimatter (3) - The Judas Table](https://www.discogs.com/release/7577485-Antimatter-3-The-Judas-Table) |

@@ -35,22 +35,22 @@ Radiodread is a 2006 tribute album by the Easy Star All-Stars that covers Radioh
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Airbag |
-| A2 | Paranoid Android |
-| A3 | Subterranean Homesick Alien |
-| A4 | Exit Music (For A Film) |
-| B1 | Let Down |
-| B2 | Karma Police |
-| B3 | Fitter Happier |
-| B4 | Electioneering |
-| C1 | Climbing Up The Walls |
-| C2 | No Surprises |
-| C3 | Lucky |
-| C4 | The Tourist |
-| D1 | An Airbag Saved My Dub |
-| D2 | Exit Music (For A Dub) |
-| D3 | Dub Is What You Get (Mad Professor/Joe Ariwa Mix) |
-| D4 | Lucky Dub A (Mad Professor/Joe Ariwa Mix) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music

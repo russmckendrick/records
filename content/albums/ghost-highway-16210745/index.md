@@ -31,20 +31,20 @@ styles: ["Indie Rock"]
 ## Tracklisting
 | Position | Title |
 |----------|--------|
-| A1 | Flowers in December |
-| A2 | Ride It On |
-| A3 | Into Dust |
-| A4 | Give You My Lovin' |
-| B1 | Fade Into You |
-| B2 | Halah |
-| B3 | Ghost Highway |
-| B4 | Blue Flower |
-| C1 | Mary Of Silence |
-| C2 | Flowers In December |
-| C3 | Bells Ring |
-| D1 | Blue Flower |
-| D2 | Halah |
-| D3 | So Tonight, That I Might See |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 ## Apple Music
